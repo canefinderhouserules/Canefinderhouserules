@@ -119,7 +119,7 @@ At 9th level, an antipaladin adds the following cruelties to the list of those t
 
 • [Frightened](../../rules/appendices/conditions.md#frightened): The target is frightened for 1 round per two levels of the antipaladin. The antipaladin must have the shaken cruelty before selecting this cruelty.
 
-• [Nauseated](../../rules/appendices/conditions.md#nauseated): The target is nauseated for 1 round per three levels of the antipaladin. The antipaladin must have the sickened cruelty before selecting this cruelty.
+• [Nauseated](../../rules/appendices/conditions.md#nauseated): The target is nauseated 1 for 1 round per three levels of the antipaladin. The antipaladin must have the sickened cruelty before selecting this cruelty.
 
 • Poisoned: The target is poisoned, as if the antipaladin had cast poison, using the antipaladin’s level as the caster level.
 
@@ -129,9 +129,9 @@ At 12th level, an antipaladin adds the following cruelties to the list of those 
 
 • [Deafened](../../rules/appendices/conditions.md#deafened): The target is deafened for 1 round per level of the antipaladin.
 
-• [Paralyzed](../../rules/appendices/conditions.md#paralyzed): The target is paralyzed for 1 round.
+• [Paralyzed](../../rules/appendices/conditions.md#paralyzed): The target is paralyzed 1 for 1 round.
 
-• [Stunned](../../rules/appendices/conditions.md#stunned): The target is stunned for 1 round per four levels of the antipaladin.
+• [Stunned](../../rules/appendices/conditions.md#stunned): The target is stunned 1 for 1 round per four levels of the antipaladin.
 
 These abilities are not cumulative. For example, a 12th-level antipaladin’s touch of corruption ability deals 6d6 points of damage and might also cause the target to become fatigued, dazed, poisoned, or diseased. Once a cruelty is chosen, it can’t be changed.
 

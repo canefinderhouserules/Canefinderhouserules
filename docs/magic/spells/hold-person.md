@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D); see text  
 **Saving Throw** Will negates; see text; **Spell Resistance** yes
 
-The subject becomes [paralyzed](../../rules/appendices/conditions.md#paralyzed) and freezes in place. It is aware and breathes normally but cannot take any actions, even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. This is a full-round action that does not provoke attacks of opportunity. A winged creature who is paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
+The subject becomes [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) and freezes in place. It is aware and breathes normally but cannot take any actions, even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. This is a full-round action that does not provoke attacks of opportunity. A winged creature who is paralyzed 1 cannot flap its wings and falls. A swimmer can’t swim and may drown.

@@ -421,7 +421,7 @@ This green-gray paste is stored in a tree bark jar in order to mask its pungent 
 
 **Aura** strong conjuration
 
-This rancid, bubbling tonic is mud-colored and reeks of sweat, gore, and decay. Upon drinking a dose of *trollblood elixir*, the imbiber gains fast healing 5. This fast healing is even capable of reattaching a severed limb that is pressed against its stump for 1 round, as long as the limb has been severed for no more than 1 hour and is essentially intact. The effects of *trollblood elixir* last 1 minute; during this time, the imbiber is nauseated. Each round, the imbiber can choose to prematurely end the elixir's effects by succeeding at a DC 10 Fortitude save as a full-round action. *Trollblood elixir* does not affect objects or nonliving creatures such as constructs and undead.
+This rancid, bubbling tonic is mud-colored and reeks of sweat, gore, and decay. Upon drinking a dose of *trollblood elixir*, the imbiber gains fast healing 5. This fast healing is even capable of reattaching a severed limb that is pressed against its stump for 1 round, as long as the limb has been severed for no more than 1 hour and is essentially intact. The effects of *trollblood elixir* last 1 minute; during this time, the imbiber is nauseated 1. Each round, the imbiber can choose to prematurely end the elixir's effects by succeeding at a DC 10 Fortitude save as a full-round action. *Trollblood elixir* does not affect objects or nonliving creatures such as constructs and undead.
 
 **Construction Requirements:** Craft Wondrous Item, *regenerate*; **Cost** 2,275 gp
 
@@ -473,7 +473,7 @@ This +2 *light fortification banded mail* has a small, ovoid stone set in the le
 
 **Aura** strong conjuration and transmutation
 
-This +2 *dragonbane guisarme* seems to vibrate with a low hum. On a successful hit, the target must succeed at a DC 20 Fortitude save or become staggered for 1 round. If the target is of the dragon type and the dragon fails its save, the creature is stunned for 1 round and staggered for 2 rounds thereafter. It is staggered for 1 round even on a successful save.
+This +2 *dragonbane guisarme* seems to vibrate with a low hum. On a successful hit, the target must succeed at a DC 20 Fortitude save or become staggered for 1 round. If the target is of the dragon type and the dragon fails its save, the creature is stunned 1 for 1 round and staggered for 2 rounds thereafter. It is staggered for 1 round even on a successful save.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *resonating word*, *summon monster I*; **Cost** 16,155 gp
 
@@ -935,7 +935,7 @@ A boulder bullet appears to be a magical sling bullet when held, but it is actua
 
 **Aura** faint evocation
 
-This +1 *sling bullet* makes a faint rattling noise when shaken. When it strikes a creature, the creature must succeed at a DC 13 Fortitude save or become stunned for 1 round.
+This +1 *sling bullet* makes a faint rattling noise when shaken. When it strikes a creature, the creature must succeed at a DC 13 Fortitude save or become stunned 1 for 1 round.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *sound burst*; **Cost** 251 gp
 
@@ -2107,7 +2107,7 @@ This ring is made of rough iron and is set with four amethysts. It allows a wear
 
 As a free action, the wearer can expend 1 point stored in the ring to gain a +2 bonus on concentration checks for 1 round.
 
-As a standard action, the wearer can expend 1 point stored in the ring to attempt to flood a target with raw psychic power. The wearer makes a melee touch attack charged with psychic energy. If the touch attack hits, it deals 3d6 points of nonlethal damage and the target is stunned for 1 round. If the attack misses, the charge dissipates.
+As a standard action, the wearer can expend 1 point stored in the ring to attempt to flood a target with raw psychic power. The wearer makes a melee touch attack charged with psychic energy. If the touch attack hits, it deals 3d6 points of nonlethal damage and the target is stunned 1 for 1 round. If the attack misses, the charge dissipates.
 
 As an immediate action, the wearer can expend up to 4 points stored in the ring to gain the benefit of *spell turning* for 1 round. The number of spell levels she can turn is equal to the number of points expended.
 
@@ -2503,7 +2503,7 @@ A vial of calming oils lessens great storms, reducing the wind (and the swells i
 
 **Aura** faint abjuration
 
-Constructs avoid attacking the bearer, directing attacks to other targets if possible, unless directly threatened by the bearer or ordered by their creator to attack. If no other target exists, a construct acts normally. A devotee of the deity of trade and civilization can use the key as an improvised weapon dealing 1d2 damage; a construct struck takes 1d4 damage and must make a DC 12 Will save or be paralyzed for 1d4 rounds. Once the key paralyzes a construct, it is destroyed.
+Constructs avoid attacking the bearer, directing attacks to other targets if possible, unless directly threatened by the bearer or ordered by their creator to attack. If no other target exists, a construct acts normally. A devotee of the deity of trade and civilization can use the key as an improvised weapon dealing 1d2 damage; a construct struck takes 1d4 damage and must make a DC 12 Will save or be paralyzed 1 for 1d4 rounds. Once the key paralyzes a construct, it is destroyed.
 
 **Construction Requirements:** Craft Wondrous Item, *shatter*; **Cost** 250 gp
 
@@ -3112,7 +3112,7 @@ This two-handed melee shadowcraft weapon is extremely ductile, and it easily ben
 
 **Aura** strong evocation and illusion
 
-A swarm of shadowy rats clump together to form this +1 *stalking* light melee shadowcraft weapon. Three times per day, the wielder can throw the weapon into one square within 10 feet while speaking a command word, causing the weapon to disperse into a shadowy haze that functions as *fog cloud*. Each round, any creature within the *fog cloud* takes 1d6 points of damage and must succeed at a DC 19 Fortitude saving throw or become nauseated for 1 round. This effect lasts for 1 minute, after which the weapon returns to its previous form. Alternatively, any time before the effect’s duration ends, the wielder can spend a move action while adjacent to the *fog cloud* to return the weapon to its previous form, dismissing the effect and returning the weapon to her hand. A *feast of rats* can be used as a divine focus by clerics of deities of rats, thieves, and darkness. Like the *torment of the chained skull*, it is tied to a specific deity that grants the Darkness domain, and that deity’s church often sees it as a holy relic.
+A swarm of shadowy rats clump together to form this +1 *stalking* light melee shadowcraft weapon. Three times per day, the wielder can throw the weapon into one square within 10 feet while speaking a command word, causing the weapon to disperse into a shadowy haze that functions as *fog cloud*. Each round, any creature within the *fog cloud* takes 1d6 points of damage and must succeed at a DC 19 Fortitude saving throw or become nauseated 1 for 1 round. This effect lasts for 1 minute, after which the weapon returns to its previous form. Alternatively, any time before the effect’s duration ends, the wielder can spend a move action while adjacent to the *fog cloud* to return the weapon to its previous form, dismissing the effect and returning the weapon to her hand. A *feast of rats* can be used as a divine focus by clerics of deities of rats, thieves, and darkness. Like the *torment of the chained skull*, it is tied to a specific deity that grants the Darkness domain, and that deity’s church often sees it as a holy relic.
 
 **Construction Requirements:** Craft Magic Arms and Armor, Create Reliquary Arms and Shields, *deeper darkness*, *fog cloud*, *major creation*, *shadow weapon*; **Cost** 22,712 gp
 
@@ -3419,7 +3419,7 @@ If a *floating sail* is bearing any weight when commanded to fold up, it collaps
 
 **Aura** faint conjuration
 
-The putrid concoction in this glass bottle smells foul and tastes worse. Anyone who drinks a dose of *saline purge* must succeed at a DC 14 Fortitude save or become nauseated for 1d4+1 rounds. Whether or not this save is successful, the imbiber is cured of any curses or poisons affecting him as his body purges the ill effects.
+The putrid concoction in this glass bottle smells foul and tastes worse. Anyone who drinks a dose of *saline purge* must succeed at a DC 14 Fortitude save or become nauseated 1 for 1d4+1 rounds. Whether or not this save is successful, the imbiber is cured of any curses or poisons affecting him as his body purges the ill effects.
 
 **Construction Requirements:** Craft Wondrous Item, *neutralize poison*, *remove curse*; **Cost** 450 gp
 
@@ -3851,7 +3851,7 @@ When a *stalagmite seed* strikes a natural stone surface, a stone stalagmite imm
 
 **Aura** moderate enchantment
 
-This bright silver piccolo has an uncanny connection to the alien void beyond the stars and produces only disjointed notes when played, no matter how talented the user. In fact, talented performers produce more dissonant notes. If the user succeeds at a DC 15 Perform (wind instruments) check while playing the *discordant piccolo*, one target creature within 30 feet is sickened 1 round (Will DC 14 negates). If the user succeeds at a DC 25 Perform check, the target creature is instead nauseated for 1 round (Will DC 16 reduces the effect to sickened). A creature that successfully saves cannot be affected by the *discordant piccolo* for 24 hours. This is a mind-affecting effect.
+This bright silver piccolo has an uncanny connection to the alien void beyond the stars and produces only disjointed notes when played, no matter how talented the user. In fact, talented performers produce more dissonant notes. If the user succeeds at a DC 15 Perform (wind instruments) check while playing the *discordant piccolo*, one target creature within 30 feet is sickened 1 round (Will DC 14 negates). If the user succeeds at a DC 25 Perform check, the target creature is instead nauseated 1 for 1 round (Will DC 16 reduces the effect to sickened). A creature that successfully saves cannot be affected by the *discordant piccolo* for 24 hours. This is a mind-affecting effect.
 
 **Construction Requirements:** Craft Wondrous Item, *cacophonous call*; **Cost** 8,000 gp
 
@@ -4039,7 +4039,7 @@ This necrograft weaves strips of rotted skin across the bearer's body in a grisl
 
 **Aura** faint enchantment and necromancy
 
-Extracted from a mohrg, this ropy, claw-tipped tongue is implanted into a recipient's mouth or throat. A *strangler's tongue* lacks the strength to grasp or hold items, but the host can lash out with the tongue as a standard action as a melee touch attack. A humanoid hit by the strangler's tongue is paralyzed for 1d4 minutes (Will DC 15 negates).
+Extracted from a mohrg, this ropy, claw-tipped tongue is implanted into a recipient's mouth or throat. A *strangler's tongue* lacks the strength to grasp or hold items, but the host can lash out with the tongue as a standard action as a melee touch attack. A humanoid hit by the strangler's tongue is paralyzed 1 for 1d4 minutes (Will DC 15 negates).
 
 **Construction Requirements:** Craft Wondrous Item, *create undead*, *hold person*, creator must have 5 ranks in Heal; **Cost** 18,000 gp
 
@@ -5906,7 +5906,7 @@ This ornate ring has a thick iron band covered in sigils of calling, and is set 
 
 **Aura** moderate conjuration
 
-These pale, worn-looking +1 handwraps have become popular among those interested in gruesome yet versatile weapons. As a swift action, the wielder can summon clouds of vermin to land on her hands, covering her fists in living gauntlets of squirming, chitinous insects. The insects do not harm the wielder and can be dismissed with another swift action. While the wielder's hands are covered in vermin, she gains a +5 competence bonus on Intimidate checks, and her unarmed strikes with her fists deal full damage to swarms, regardless of the swarms' immunity to weapon damage (if any, although damage reduction applies as normal). In addition, three times per day as an immediate action upon succeeding at an attack with the infested bandages, the wielder can transfer some of the insects from her hands to the target. The target must succeed at a DC 16 Fortitude saving throw or be nauseated for 1 round.
+These pale, worn-looking +1 handwraps have become popular among those interested in gruesome yet versatile weapons. As a swift action, the wielder can summon clouds of vermin to land on her hands, covering her fists in living gauntlets of squirming, chitinous insects. The insects do not harm the wielder and can be dismissed with another swift action. While the wielder's hands are covered in vermin, she gains a +5 competence bonus on Intimidate checks, and her unarmed strikes with her fists deal full damage to swarms, regardless of the swarms' immunity to weapon damage (if any, although damage reduction applies as normal). In addition, three times per day as an immediate action upon succeeding at an attack with the infested bandages, the wielder can transfer some of the insects from her hands to the target. The target must succeed at a DC 16 Fortitude saving throw or be nauseated 1 for 1 round.
 
 **Construction Requirements:** Craft Magic Arms and Armor, cause fear, repel vermin, summon swarm; **Cost** 6,750 gp
 
@@ -6968,7 +6968,7 @@ This stone grants a +1 insight bonus on saving throws against death effects.
 
 Devised by a queen of the infernal empire, this *+3 studded leather armor* is lavishly adorned with a bound swarm of hellwasps. Once ranking among the most spectacular pieces of clothing in the empire, the discomfort caused during the creation of this corset is as legendary as the protection it offers.
 
-The wasps bound to the corset prevent the first 20 points of damage you take each day (resetting at midnight). Once the wasps have prevented 20 points of damage for the day, they angrily animate and swarm around you, and you must make a DC 18 Fortitude save or be nauseated for 1 round. After 1 round of activity, the swarm then returns to the corset and goes dormant, and this ability to prevent damage does not function until it recovers at midnight.
+The wasps bound to the corset prevent the first 20 points of damage you take each day (resetting at midnight). Once the wasps have prevented 20 points of damage for the day, they angrily animate and swarm around you, and you must make a DC 18 Fortitude save or be nauseated 1 for 1 round. After 1 round of activity, the swarm then returns to the corset and goes dormant, and this ability to prevent damage does not function until it recovers at midnight.
 
 The swarm cannot be targeted separately from the armor and cannot be killed unless the armor is destroyed (not just broken).
 
@@ -7224,7 +7224,7 @@ When you confirm a critical hit with the rod, it automatically attempts a grappl
 
 This rod is fashioned in the form of a uraeus, the legendary two-headed winged cobra that is the symbol of an ancient goddess of good serpents, sphinxes, and wisdom. Her priesthood is credited with creating the first *rods of the uraeus*, but others have since replicated the feat.
 
-A *rod of the uraeus* can be wielded as a *+1 light mace*. When holding the rod, the wielder gains a +2 resistance bonus on Reflex saves and a +5 competence bonus on Sense Motive checks. The wielder can fire a 30-foot line of stinging poison from the rod up to twice per day (once for each head of the uraeus). A creature in the area of effect can avoid the poison with a successful DC 13 Reflex save. On a failed save, a creature is blinded and paralyzed for 8 rounds. Each round on its turn, an affected creature may attempt a DC 13 Fortitude save to end the blindness and paralysis effects. A *rod of the uraeus* functions only if its possessor is lawful.
+A *rod of the uraeus* can be wielded as a *+1 light mace*. When holding the rod, the wielder gains a +2 resistance bonus on Reflex saves and a +5 competence bonus on Sense Motive checks. The wielder can fire a 30-foot line of stinging poison from the rod up to twice per day (once for each head of the uraeus). A creature in the area of effect can avoid the poison with a successful DC 13 Reflex save. On a failed save, a creature is blinded and paralyzed 1 for 8 rounds. Each round on its turn, an affected creature may attempt a DC 13 Fortitude save to end the blindness and paralysis effects. A *rod of the uraeus* functions only if its possessor is lawful.
 
 **Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *poison*, *resistance*, creator must have 5 ranks in Sense Motive; **Cost** 7,200 gp
 
@@ -7542,7 +7542,7 @@ Any creatures standing within the warded area when the third banner is planted a
 
 **Aura** moderate transmutation
 
-This magical grit is used by flinging a dose at a creature within 15 feet as a ranged touch attack. If the grit hits, the target takes 1d4 points of Dexterity damage and is slowed (as the spell) for 1 round as its body starts slowly turning to stone. Each round that follows, the victim can attempt a DC 17 Fortitude save at the start of its turn as a free action to end the effect; otherwise, it takes an additional 1d4 points of Dexterity damage and is slowed for 1 more round. This effect can last for a maximum of 11 rounds. If this Dexterity damage ever meets or exceeds the victim’s actual Dexterity score, the creature becomes petrified permanently, as if by *flesh to stone*. A dose of *cockatrice grit* is consumed when it is used, and doesn’t activate until it has been thrown—the grit can be handled safely.
+This magical grit is used by flinging a dose at a creature within 15 feet as a ranged touch attack. If the grit hits, the target takes 1d4 points of Dexterity damage and is slowed (as the spell) for 1 round as its body starts slowly turning to stone. Each round that follows, the victim can attempt a DC 17 Fortitude save at the start of its turn as a free action to end the effect; otherwise, it takes an additional 1d4 points of Dexterity damage and is slowed for 1 more round. This effect can last for a maximum of 11 rounds. If this Dexterity damage ever meets or exceeds the victim’s actual Dexterity score, the creature becomes petrified 1 permanently, as if by *flesh to stone*. A dose of *cockatrice grit* is consumed when it is used, and doesn’t activate until it has been thrown—the grit can be handled safely.
 
 **Construction Requirements:** Craft Wondrous Item, *calcific flesh* or *flesh to stone*; **Cost** 1,000 gp
 
@@ -8172,7 +8172,7 @@ By imbibing this potent concoction, a creature gains the ability to see as well 
 
 **Aura** moderate evocation
 
-This item is crafted from tightly braided rawhide from a water buffalo skin, and is usually awarded to a prominent member of a tribe. The *mokele-mbembe tail whip* functions as a *+2 whip*, but deals an additional 1d6 points of sonic damage on a successful hit. In addition, anyone hit by a critical hit with the whip must succeed at a DC 21 Fortitude save or be stunned for 1 round. A successful critical hit with the whip does not multiply the weapon’s sonic damage.
+This item is crafted from tightly braided rawhide from a water buffalo skin, and is usually awarded to a prominent member of a tribe. The *mokele-mbembe tail whip* functions as a *+2 whip*, but deals an additional 1d6 points of sonic damage on a successful hit. In addition, anyone hit by a critical hit with the whip must succeed at a DC 21 Fortitude save or be stunned 1 for 1 round. A successful critical hit with the whip does not multiply the weapon’s sonic damage.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *shout*; **Cost** 16,301 gp
 

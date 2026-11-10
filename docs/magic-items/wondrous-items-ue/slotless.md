@@ -34,7 +34,7 @@ This gnarled wooden walking stick aids a creature’s travel, granting a +5 foot
 **Aura** faint enchantment; **CL** 4th  
 **Slot** none; **Price** 400 gp; **Weight** 1 lb.
 
-This enchanted apple appears to be made of solid gold. When dropped or thrown, it draws the attention of the nearest hostile creature within 20 feet. The creature must make a DC 13 Will save or be paralyzed as if by *hold person* as it focuses its undivided attention on the golden apple. If the creature makes its save on a later round, it realizes it has been affected by magic and the apple is not actually gold. While focusing on the apple, the target takes a –2 penalty on Perception checks. The apple is consumed upon being dropped or thrown.
+This enchanted apple appears to be made of solid gold. When dropped or thrown, it draws the attention of the nearest hostile creature within 20 feet. The creature must make a DC 13 Will save or be paralyzed 1 as if by *hold person* as it focuses its undivided attention on the golden apple. If the creature makes its save on a later round, it realizes it has been affected by magic and the apple is not actually gold. While focusing on the apple, the target takes a –2 penalty on Perception checks. The apple is consumed upon being dropped or thrown.
 
 **Construction** Craft Wondrous Item, *beguiling gift*, *hold person*; **Cost** 200 gp
 
@@ -1019,7 +1019,7 @@ This leather scabbard resizes itself to fit any axe, sword, dagger, or similar i
 **Aura** moderate divination; **CL** 10th  
 **Slot** none; **Price** 5,000 gp; **Weight** —
 
-This item is a flask of syrupy fluid with an eyeball floating in it. When a creature drinks the entire flask, 1d4 rounds later he is stunned for 1 round as 1d4+1 floating fish with large eyes for heads crawl out of his flesh. Once these eye-fish free themselves, they hover near the drinker, always staying in the drinker’s square, and otherwise function as the eyes from a *prying eyes* spell, except they are Tiny rather than Fine. As long as the drinker has at least three of the fish in his square, he gains a +10 competence bonus on sight-based Perception checks. Every 1d6 × 10 minutes, 1d4+1 more eye-fish crawl out of his flesh, stunning him for 1 round each time. Each flask can produce up to 1d4+10 fish total; once this many have appeared, no more are created. The fish remain until they are destroyed or until 10 hours pass from the time the flask was used.
+This item is a flask of syrupy fluid with an eyeball floating in it. When a creature drinks the entire flask, 1d4 rounds later he is stunned 1 for 1 round as 1d4+1 floating fish with large eyes for heads crawl out of his flesh. Once these eye-fish free themselves, they hover near the drinker, always staying in the drinker’s square, and otherwise function as the eyes from a *prying eyes* spell, except they are Tiny rather than Fine. As long as the drinker has at least three of the fish in his square, he gains a +10 competence bonus on sight-based Perception checks. Every 1d6 × 10 minutes, 1d4+1 more eye-fish crawl out of his flesh, stunning him for 1 round each time. Each flask can produce up to 1d4+10 fish total; once this many have appeared, no more are created. The fish remain until they are destroyed or until 10 hours pass from the time the flask was used.
 
 **Construction** Craft Wondrous Item, *prying eyes*; **Cost** 2,500 gp
 
@@ -1176,7 +1176,7 @@ Infused with the essence of destruction, a pinch of void dust unmakes force effe
 **Aura** moderate abjuration; **CL** 10th  
 **Slot** none; **Price** 14,000 gp; **Weight** 1 lb.
 
-This long tapering pennant resembles a stylized serpentine figure wearing a shimmering crown. The figure’s claws function as clasps, attaching it to a lance, polearm, frame, or staff. The pennant has no effect when not mounted properly, or when activated by a lawfully aligned creature. Planting the pennant in the ground generates an area of twisted space around the flag out to a range of 30 feet. Any creature that teleports into or out of this area is nauseated for 1 round (a DC 18 Fortitude save reduces this penalty to sickened). Any creature may end the effect by uprooting the pennant as a standard action. The pennant functions for 10 rounds per day. These rounds do not need to be consecutive.
+This long tapering pennant resembles a stylized serpentine figure wearing a shimmering crown. The figure’s claws function as clasps, attaching it to a lance, polearm, frame, or staff. The pennant has no effect when not mounted properly, or when activated by a lawfully aligned creature. Planting the pennant in the ground generates an area of twisted space around the flag out to a range of 30 feet. Any creature that teleports into or out of this area is nauseated 1 for 1 round (a DC 18 Fortitude save reduces this penalty to sickened). Any creature may end the effect by uprooting the pennant as a standard action. The pennant functions for 10 rounds per day. These rounds do not need to be consecutive.
 
 **Construction** Craft Wondrous Item, *dimensional anchor*; **Cost** 7,000 gp
 

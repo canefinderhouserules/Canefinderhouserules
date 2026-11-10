@@ -26,7 +26,7 @@
 
 ***Fear Aura (Su).*** Creatures of less than 5 HD in a 60foot radius that look at the lich must succeed on a Will save or become frightened. Creatures with 5 HD or more must succeed at a Will save or be shaken for a number of rounds equal to the lich’s Hit Dice. A creature that successfully saves cannot be affected again by the same lich’s aura for 24 hours. This is a mind-affecting fear effect.
 
-***Paralyzing Touch (Su).*** Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently paralyzed. Remove paralysis or any spell that can remove a curse can free the victim (see the bestow curse spell description, with a DC equal to the lich’s save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Heal check reveals that the victim is still alive.
+***Paralyzing Touch (Su).*** Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently paralyzed 1. Remove paralysis or any spell that can remove a curse can free the victim (see the bestow curse spell description, with a DC equal to the lich’s save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Heal check reveals that the victim is still alive.
 
 **Abilities:** Int +2, Wis +2, Cha +2. Being undead, a lich has no Constitution score.
 

@@ -20,7 +20,7 @@
 
 **Special Attacks:** A spore zombie retains all of the base creature’s special attacks, plus the following (any special attack save DCs that are Constitution-based are now Charisma-based).
 
-***Spore Burst (Ex).*** Once per day as a swift action, a spore zombie can spray a cloud of spores through the area. This deals 2d6 points of damage to the spore zombie and creates a cloud of spores that fills an area equal to the spore zombie’s reach. Any creature in this area must succeed at a Fortitude save or be nauseated by the spores for 1d6 rounds. Vermin that fail this save become infested for 24 hours. If an infested vermin dies during this time, it rises as a spore zombie 1d6 rounds after its death.
+***Spore Burst (Ex).*** Once per day as a swift action, a spore zombie can spray a cloud of spores through the area. This deals 2d6 points of damage to the spore zombie and creates a cloud of spores that fills an area equal to the spore zombie’s reach. Any creature in this area must succeed at a Fortitude save or be nauseated 1 by the spores for 1d6 rounds. Vermin that fail this save become infested for 24 hours. If an infested vermin dies during this time, it rises as a spore zombie 1d6 rounds after its death.
 
 **Abilities:** Strength +4. A spore zombie gains an Intelligence score of 10 and a Charisma score equal to the base creature’s Constitution score. They do not have a Con score.
 

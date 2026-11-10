@@ -159,7 +159,7 @@ This belt is worked with images of horses stampeding across a barren, windswept 
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** belt; **Price** 23,000 gp; **Weight** 1 lb.
 
-This belt grants its wearer a +4 enhancement bonus to Strength, and the ability to ignore difficult terrain while charging or making an overrun, bull rush, or trample attempt. Furthermore, once per day on command, its wearer can spew a 60-foot cone of poisonous green gas as a breath weapon. Any creature caught in the area of the gas can attempt a DC 18 saving throw to resist its effect, but if the creature fails the saving throw, it is paralyzed for 1d4 rounds. At the end of its turn, a creature petrified by this breath weapon can attempt a new save to end the paralysis effect. Treat the enhancement bonus to Strength as a temporary ability bonus for the first 24 hours the belt is worn.
+This belt grants its wearer a +4 enhancement bonus to Strength, and the ability to ignore difficult terrain while charging or making an overrun, bull rush, or trample attempt. Furthermore, once per day on command, its wearer can spew a 60-foot cone of poisonous green gas as a breath weapon. Any creature caught in the area of the gas can attempt a DC 18 saving throw to resist its effect, but if the creature fails the saving throw, it is paralyzed 1 for 1d4 rounds. At the end of its turn, a creature petrified by this breath weapon can attempt a new save to end the paralysis effect. Treat the enhancement bonus to Strength as a temporary ability bonus for the first 24 hours the belt is worn.
 
 **Construction** Craft Wondrous Items, *bull’s strength*, *feather step*, *poison*; **Cost** 11,500 gp
 

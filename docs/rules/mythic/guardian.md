@@ -41,7 +41,7 @@ As you increase in tier, you gain the following abilities.
 
 You can select these path abilities at any tier.
 
-**Adamantine Mind (Ex)**: Your mind is as hard as any armor, and is dangerous to engage. You gain a bonus equal to your tier on saving throws against mind-affecting effects. Whenever you succeed at a save against a mind-affecting effect, the creature attacking you with that effect must succeed at a Will save (at the same DC) or be stunned for 1 round.
+**Adamantine Mind (Ex)**: Your mind is as hard as any armor, and is dangerous to engage. You gain a bonus equal to your tier on saving throws against mind-affecting effects. Whenever you succeed at a save against a mind-affecting effect, the creature attacking you with that effect must succeed at a Will save (at the same DC) or be stunned 1 for 1 round.
 
 **Additional Call (Ex)**: You learn an additional guardian's call ability. You can select this ability twice.
 

@@ -19,11 +19,11 @@ Any nonevil creature within the area of a *blasphemy* spell suffers the followin
 
 The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.
 
-*Dazed*: The creature can take no actions for 1 round, though it defends itself normally. Save negates.
+*Dazed*: The creature is [dazed](../../rules/appendices/conditions.md#dazed) for 1 round: it has a 50% chance to fail any action it attempts. Save negates.
 
 *Weakened*: The creature’s Strength score decreases by 2d6 points for 2d4 rounds. Save for half.
 
-*Paralyzed*: The creature is [paralyzed](../../rules/appendices/conditions.md#paralyzed) and [helpless](../../rules/appendices/conditions.md#helpless) for 1d10 minutes. Save reduces the paralyzed effect to 1 round.
+*Paralyzed*: The creature is [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) for 1d10 minutes. Save reduces the paralyzed effect to 1 round.
 
 *Killed*: Living creatures die. Undead creatures are destroyed. Save negates. If the save is successful, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).
 

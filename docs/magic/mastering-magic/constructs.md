@@ -230,7 +230,7 @@ The following are some of the more common shatter stashes, though others exist.
 
 ### Corrosive Jet Stash
 
-A 15-foot burst of corrosive liquid sprays out of the modified construct’s stash. Creatures within the burst must succeed on a DC 15 Fortitude saving throw or take 2d6 points of acid damage and be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d4 rounds. On a successful save, the afflicted creature takes no damage but is [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
+A 15-foot burst of corrosive liquid sprays out of the modified construct’s stash. Creatures within the burst must succeed on a DC 15 Fortitude saving throw or take 2d6 points of acid damage and be [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1d4 rounds. On a successful save, the afflicted creature takes no damage but is [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
 
 **Requirements**: fireball; **Cost**: 1,200 gp
 

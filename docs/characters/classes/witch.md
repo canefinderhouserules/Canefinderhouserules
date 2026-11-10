@@ -118,11 +118,11 @@ The witch can cause a creature within 30 feet to suffer grave misfortune for 1 r
 
 #### Slumber (Su)
 
-A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action. A witch can use this hex on the same target twice per 24 hours. The [Accursed Hex](../../rules/feats/accursed-hex.md) feat lets her use it on that target 2 more times, instead of 1 more time.
+A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature gains [sleep 1](../../rules/appendices/conditions.md#sleep) for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action. A witch can use this hex on the same target twice per 24 hours. The [Accursed Hex](../../rules/feats/accursed-hex.md) feat lets her use it on that target 2 more times, instead of 1 more time.
 
 ??? note "Original rule"
 
-    **Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action.
+    **Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature gains [sleep 1](../../rules/appendices/conditions.md#sleep) for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action.
 
 This hex ends immediately if the creature takes damage.
 
@@ -148,7 +148,7 @@ Starting at 10th level, and every two levels thereafter, a witch can choose one 
 
 #### Agony (Su)
 
-With a quick incantation, a witch can place this hex on one creature within 60 feet, causing them to suffer intense pain. The target is [nauseated](../../rules/appendices/conditions.md#nauseated) for a number of rounds equal to the witch’s level. A Fortitude save negates this effect. If the saving throw is failed, the target can attempt a new save each round to end the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+With a quick incantation, a witch can place this hex on one creature within 60 feet, causing them to suffer intense pain. The target is [nauseated 1](../../rules/appendices/conditions.md#nauseated) for a number of rounds equal to the witch’s level. A Fortitude save negates this effect. If the saving throw is failed, the target can attempt a new save each round to end the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
 #### Hag’s Eye (Su)
 

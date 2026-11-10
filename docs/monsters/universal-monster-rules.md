@@ -110,7 +110,7 @@ A few other creatures require combinations of different types of attacks to over
 
 *Format: Disease Name (Ex or Su) Bite—injury; save Fort DC 15, onset 1d3 days, frequency 1/day, effect 1 Con damage, cure 2 consecutive saves; Location: Special Attacks and individual attacks.*
 
-**Distraction** (Ex) A creature with this ability can nauseate the creatures that it damages. Any living creature that takes damage from a creature with the distraction ability is nauseated for 1 round; a Fortitude save (DC = 10 + 1/2 the distracting creature’s HD + that creature’s Constitution modifier) negates the effect.
+**Distraction** (Ex) A creature with this ability can nauseate the creatures that it damages. Any living creature that takes damage from a creature with the distraction ability is nauseated 1 for 1 round; a Fortitude save (DC = 10 + 1/2 the distracting creature’s HD + that creature’s Constitution modifier) negates the effect.
 
 *Format: distraction; Location: Special Attacks.*
 
@@ -316,7 +316,7 @@ Individual creatures vary from these values as appropriate.
 
 *Format: ooze traits; Location: Immune.*
 
-**Paralysis** (Ex or Su) This special attack renders the victim immobile. Paralyzed creatures can’t move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (DC = 10 + 1/2 the paralyzing creature’s racial HD + that creature’s Constitution modifier; the DC is given in the creature’s description). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is paralyzed cannot flap its wings and falls. A swimmer can’t swim and might drown. The duration of the paralysis varies and is included in the creature’s description.
+**Paralysis** (Ex or Su) This special attack makes the victim [paralyzed 1](../rules/appendices/conditions.md#paralyzed): it loses its move action and keeps only its standard action. A victim paralyzed again while still paralyzed becomes paralyzed 2: it can’t move, speak, or take any physical actions, and is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (DC = 10 + 1/2 the paralyzing creature’s racial HD + that creature’s Constitution modifier; the DC is given in the creature’s description). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air when it becomes paralyzed 2 cannot flap its wings and falls. A paralyzed 2 swimmer can’t swim and might drown. The duration of the paralysis varies and is included in the creature’s description.
 
 *Format: paralysis (1d4 rounds, DC 18); Location: Special Attacks and individual attacks.*
 

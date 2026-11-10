@@ -169,8 +169,8 @@ On any item the adamantine shears can fit around (such as a chain or iron bar, b
 **Halo Mushroom Toxin**: Extracted from mushrooms that grow commonly in caves and forests, this toxin is occasionally used as a recreational drug despite its dangerous side effects. A creature that fails its initial saving throws sees displaced auras of color and light around other creatures and objects. The creature treats all targets as if they had concealment, suffering a 20% miss chance on all attack rolls until the creature is cured or the poison has run its course.  
 *Type* poison, ingested; *Save* Fortitude DC 18; *Onset* 10 minutes; *Frequency* 1/minute for 6 minutes; *Initial Effect* distraction (see above); *Secondary Effect* 1d4 Wisdom damage; *Cure* 2 consecutive saves
 
-**Cold-Waste Tears**: Made from the distilled tears and sweat of creatures of a bleak, icy otherworldly waste, this substance causes hallucinations and temporary paralysis. A creature that fails its initial saving throw is paralyzed and experiences terrifying hallucinations of wandering through an icy, windswept waste. The creature’s paralysis ends if it is cured or once the poison runs its course, though memories of the vivid hallucinations may haunt it for some time.  
-*Type* poison, contact; *Save* Fortitude DC 18; *Onset* 1 round; *Frequency* 1/10 minutes for 1 hour; *Effect* 1d2 Wisdom damage and paralyzed for 10 minutes; *Cure* 1 save
+**Cold-Waste Tears**: Made from the distilled tears and sweat of creatures of a bleak, icy otherworldly waste, this substance causes hallucinations and temporary paralysis. A creature that fails its initial saving throw is paralyzed 1 and experiences terrifying hallucinations of wandering through an icy, windswept waste. The creature’s paralysis ends if it is cured or once the poison runs its course, though memories of the vivid hallucinations may haunt it for some time.  
+*Type* poison, contact; *Save* Fortitude DC 18; *Onset* 1 round; *Frequency* 1/10 minutes for 1 hour; *Effect* 1d2 Wisdom damage and paralyzed 1 for 10 minutes; *Cure* 1 save
 
 **Night’s-Eye Dust**: This fine powder is extracted from the wings of night’s-eye moths. Creatures inhaling this poison become shaken and experience slowly building pressure behind the eyes, leading to blindness that persists until the creature is cured or the poison has run its course. A creature immune to fear cannot be shaken by the poison’s initial effect and receives a +4 bonus on its saving throw against the poison’s secondary effect.  
 *Type* poison, inhaled; *Save* Fortitude DC 14; *Onset* immediate; *Frequency* 1/round for 6 rounds; *Initial Effect* shaken; *Secondary Effect* blinded for 6 rounds; *Cure* 2 consecutive saves
@@ -294,7 +294,7 @@ If you are a vishkanya, the snake-tongue concoction instead applies the poison g
 | 2–3 | The concoctions react explosively… inside you. You take 5d12 points of fire damage. |
 | 4–7 | You are rendered permanently blind or deaf (determined randomly). A *remove blindness/deafness* spell or similar effect is required to restore your lost sense. |
 | 8–12 | The concoctions thin your blood so that any injury causes rapid bleeding. Whenever you take piercing or slashing damage during the next 24 hours, you also take 1 point of bleed damage. This bleed damage stacks with itself and with other bleed effects. |
-| 13–25 | The concoctions render you violently ill. You become nauseated for 2d6 rounds. |
+| 13–25 | The concoctions render you violently ill. You become nauseated 1 for 2d6 rounds. |
 | 26–33 | The concoctions unsettle your health. You become sickened for 3d4 minutes. |
 | 34–40 | The concoctions meddle with your mind. You are confused during the first round of each combat during the next 24 hours. |
 | 41–50 | The concoctions sap your energy. You are fatigued until you rest for 2d12 minutes. |

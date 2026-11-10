@@ -600,7 +600,7 @@ Each of these *+2 glamered chain shirts* bears a permanent illusion of being a f
 
 **Slot** armor; **Price** 68,400 gp; **Weight** 45 lbs.
 
-This distinctive *+4 adamantine glamered o-yoroi* was designed for scions of an eastern empire’s imperial families and their highest-ranking and most loyal samurai, providing its wearer with DR 3/—. In addition, the armor stores the kinetic energy from blows made against it. Once the armor has negated 15 total points of damage, the wearer can release the stored energy as a swift action against a single creature within 10 feet. This energy takes the form of a force effect, and the wearer must make an attack roll at his base attack bonus +10. The energy deals 15 points of force damage to the target, and the target must make a DC 22 Fortitude save or be stunned for 1 round. If the wearer chooses not to release this energy, the armor still provides damage reduction but absorbs no more energy until the stored energy is released.
+This distinctive *+4 adamantine glamered o-yoroi* was designed for scions of an eastern empire’s imperial families and their highest-ranking and most loyal samurai, providing its wearer with DR 3/—. In addition, the armor stores the kinetic energy from blows made against it. Once the armor has negated 15 total points of damage, the wearer can release the stored energy as a swift action against a single creature within 10 feet. This energy takes the form of a force effect, and the wearer must make an attack roll at his base attack bonus +10. The energy deals 15 points of force damage to the target, and the target must make a DC 22 Fortitude save or be stunned 1 for 1 round. If the wearer chooses not to release this energy, the armor still provides damage reduction but absorbs no more energy until the stored energy is released.
 
 **Construction**
 
@@ -1450,7 +1450,7 @@ In addition, once per week, *felhart’s* wielder can summon a reliable steed as
 
 **Slot** none; **Price** 24,310 gp; **Weight** 12 lbs.
 
-A *flaying halberd* is a *+1 halberd* that can be used to slice off large swaths of a creature’s skin. In combat, a character can denote a maximum of one attack per round to be a flaying strike. This attack deals normal damage, but the resulting wound is particularly painful as skin is torn away from the target’s body. This causes an additional 1d6 points of bleed damage, and as long as a victim suffers from this bleed damage, it is staggered. A successful DC 15 Fortitude save made at the time the flaying strike occurs negates the bleed damage and staggered condition. The bleed effect can be stopped by a successful DC 15 Heal check or any spell that cures hit point damage. A flaying strike that results in a critical hit also deals 1d4 points of Charisma damage (no save) to the victim. Creatures immune to ability damage and critical hits are immune to flaying strikes.
+A *flaying halberd* is a *+1 halberd* that can be used to slice off large swaths of a creature’s skin. In combat, a character can denote a maximum of one attack per round to be a flaying strike. This attack deals normal damage, but the resulting wound is particularly painful as skin is torn away from the target’s body. This causes an additional 1d6 points of bleed damage, and as long as a victim suffers from this bleed damage, it is staggered. A successful DC 15 Fortitude save made at the time the flaying strike occurs negates the bleed damage and staggered condition. The bleed effect can be stopped by a successful DC 20 Heal check or any spell that cures hit point damage. A flaying strike that results in a critical hit also deals 1d4 points of Charisma damage (no save) to the victim. Creatures immune to ability damage and critical hits are immune to flaying strikes.
 
 **Construction**
 
@@ -2328,7 +2328,7 @@ This weapon looks like the barbed spine of a humanoid. A *spine flail* functions
 
 **Slot** none; **Price** 75,315 gp; **Weight** 4 lbs.
 
-This *+2 cruel furyborn scimitar* was created accidentally by a demon lord when he plunged a glaistig’s scimitar through her own chest. Images of shriveled vines and wilted flowers decorate its blade. Three times per day as an immediate action after dealing damage to a creature, the wielder can cause the blighted plant life depicted on the blade to animate, embedding thorny vines in the creature’s wounds. The creeping, twisting vines cause the creature to become entangled for 1d4 rounds, and it is nauseated by the pain while the entangled condition persists. A successful DC 22 Fortitude saving throw negates the nauseated condition.
+This *+2 cruel furyborn scimitar* was created accidentally by a demon lord when he plunged a glaistig’s scimitar through her own chest. Images of shriveled vines and wilted flowers decorate its blade. Three times per day as an immediate action after dealing damage to a creature, the wielder can cause the blighted plant life depicted on the blade to animate, embedding thorny vines in the creature’s wounds. The creeping, twisting vines cause the creature to become entangled for 1d4 rounds, and it is nauseated 1 by the pain while the entangled condition persists. A successful DC 22 Fortitude saving throw negates the nauseated condition.
 
 **Construction**
 
@@ -4678,7 +4678,7 @@ If the piece of outsider is removed, the *blessed keepsake* is inactive until a 
 
 This red elixir is always the temperature of freshly spilled blood. A creature can consume a gobbet of flesh and drink this liquid as a single standard action.
 
-If the drinker is an animal, it is stunned for 1 round, and must succeed at a DC 17 Will save or permanently acquire the maneating animal template. If the *blood of the minotaur lord* is consumed with humanoid flesh, the animal receives no saving throw.
+If the drinker is an animal, it is stunned 1 for 1 round, and must succeed at a DC 17 Will save or permanently acquire the maneating animal template. If the *blood of the minotaur lord* is consumed with humanoid flesh, the animal receives no saving throw.
 
 If the drinker is not an animal, it enters a frenzy, as the *rage* spell. The drinker must succeed at a DC 17 Will save or be confused for as long as it rages. If the *blood of the minotaur lord* is consumed with humanoid flesh (a chaotic evil act), the drinker receives no saving throw.
 
@@ -6347,7 +6347,7 @@ As an immediate action, the sliver can guide the action of one ally within 30 fe
 
 **Slot** none; **Price** 1,400 gp; **Weight** —
 
-This foul-smelling concoction bestows upon the drinker the ability to exhale a 15-foot cone of disgusting vapor as a standard action up to three times. Living creatures caught in the cone must succeed at a DC 14 Fortitude save or become nauseated for 1d4+1 rounds. Unused rancid breaths dissipate 1 hour after the liquid is consumed.
+This foul-smelling concoction bestows upon the drinker the ability to exhale a 15-foot cone of disgusting vapor as a standard action up to three times. Living creatures caught in the cone must succeed at a DC 14 Fortitude save or become nauseated 1 for 1d4+1 rounds. Unused rancid breaths dissipate 1 hour after the liquid is consumed.
 
 **Construction**
 
@@ -6844,7 +6844,7 @@ This small flask smokes with an odorless black mist when opened. Each flask cont
 
 The ebon flame can cure damage caused by fire— each creature in the burst is healed 5d6 points of damage caused by fire effects.
 
-A creature with the fire subtype inside the area of the burst takes 5d6 points of damage and is stunned for 1 round—a successful DC 15 Fortitude save halves the damage and negates the stun effect.
+A creature with the fire subtype inside the area of the burst takes 5d6 points of damage and is stunned 1 for 1 round—a successful DC 15 Fortitude save halves the damage and negates the stun effect.
 
 Ebon flame is unstable, and when combined in doses larger than a single use, or when not stored in a specially prepared flask, it dissipates harmlessly in a cloud of faint black smoke. Overlapping areas of ebon flame do not stack their effects.
 
@@ -8111,9 +8111,9 @@ A *jar of mottled clay* can optionally be filled with an alchemical item. Fillin
 
 **Slot** none; **Price** 2,250 gp; **Weight** 4 lbs.
 
-A kapre’s 2-foot-long cigar never goes out. It burns with a glow that sheds light like a candle, but does not burn other organic material. Smoking the cigar is dangerous for any but a kapre—and not just because of its size. Only a Medium or larger creature can attempt to smoke the cigar. Creatures doing so must succeed at a DC 16 Fortitude save or become nauseated for 1 hour. Each time a creature attempts to inhale, he or she must make another save, but receives a cumulative +1 bonus for each successful inhalation in the past 24 hours.
+A kapre’s 2-foot-long cigar never goes out. It burns with a glow that sheds light like a candle, but does not burn other organic material. Smoking the cigar is dangerous for any but a kapre—and not just because of its size. Only a Medium or larger creature can attempt to smoke the cigar. Creatures doing so must succeed at a DC 16 Fortitude save or become nauseated 1 for 1 hour. Each time a creature attempts to inhale, he or she must make another save, but receives a cumulative +1 bonus for each successful inhalation in the past 24 hours.
 
-Once inhaled, the smoke can be exhanled to the detriment of nearby foes. The smoking creature must exhale within 1 round of inhaling or be nauseated for 1 round, coughing up the potent smoke into its own square. A Medium creature can blow the smoke as a standard action at one adjacent enemy. A Large or larger creature can blow the smoke in a 15-foot cone, also as a standard action. Creatures caught in the smoky cloud must succeed at a DC 16 Fortitude save or be nauseated for 1 round.
+Once inhaled, the smoke can be exhanled to the detriment of nearby foes. The smoking creature must exhale within 1 round of inhaling or be nauseated 1 for 1 round, coughing up the potent smoke into its own square. A Medium creature can blow the smoke as a standard action at one adjacent enemy. A Large or larger creature can blow the smoke in a 15-foot cone, also as a standard action. Creatures caught in the smoky cloud must succeed at a DC 16 Fortitude save or be nauseated 1 for 1 round.
 
 **Construction**
 
@@ -10404,7 +10404,7 @@ As long as a creature carries a *shadow stylus* on her person, she gains a +2 bo
 
 **Slot** none; **Price** 1,500 gp; **Weight** —
 
-*Shadowblood* is among the most notorious of drugs—a fluid infused with a shadow demon’s essence. Anyone who drinks this substance must succeed at a DC 20 Fortitude save or take 1d6 points of cold damage and 1d4 points of Wisdom damage, and become nauseated for 1d6 rounds. Thereafter, the target gains 1d10+5 temporary hit points, cold resistance 5, and darkvision 60 feet. These effects persist for 1 hour, during which demons take a –4 penalty on saving throws against the drinker’s spells and spell-like abilities of the shadow subschool.
+*Shadowblood* is among the most notorious of drugs—a fluid infused with a shadow demon’s essence. Anyone who drinks this substance must succeed at a DC 20 Fortitude save or take 1d6 points of cold damage and 1d4 points of Wisdom damage, and become nauseated 1 for 1d6 rounds. Thereafter, the target gains 1d10+5 temporary hit points, cold resistance 5, and darkvision 60 feet. These effects persist for 1 hour, during which demons take a –4 penalty on saving throws against the drinker’s spells and spell-like abilities of the shadow subschool.
 
 *Shadowblood* is exceedingly addictive and carries some significant disadvantages. Each time a creature takes a dose of *shadowblood*, it must succeed at a DC 20 Fortitude save or become addicted—*shadowblood* addiction is a severe addiction. A creature under the influence of *shadowblood* or suffering from *shadowblood* addiction takes a –4 penalty on all saving throws against possession type effects made by demons, and can never gain the benefits of *protection from evil* or similar spells against such effects.
 
@@ -10954,7 +10954,7 @@ If the wearer possesses mythic tiers (see *Pathfinder RPG Mythic Adventures*), s
 
 **Slot** none; **Price** 350 gp; **Weight** 1 lb.
 
-This naturally occurring, glowing purple crystal can be thrown as a ranged attack with a range increment of 20 feet. When it strikes a target or hard surface (or is struck hard), the crystal shatters in a burst of sound and light. Every creature in a 10-foot-radius spread is outlined in *faerie fire*, takes 1d8 points of sonic damage, and must make a DC 13 Fortitude save or be stunned for 1 round.
+This naturally occurring, glowing purple crystal can be thrown as a ranged attack with a range increment of 20 feet. When it strikes a target or hard surface (or is struck hard), the crystal shatters in a burst of sound and light. Every creature in a 10-foot-radius spread is outlined in *faerie fire*, takes 1d8 points of sonic damage, and must make a DC 13 Fortitude save or be stunned 1 for 1 round.
 
 **Construction**
 
@@ -11291,7 +11291,7 @@ Alternatively, if the wearer is an inquisitor or has the bane class feature, she
 
 **Slot** hand; **Price** 2,500 gp; **Weight** —
 
-This thin disk of woven material is 2-1/2 inches in diameter. From its edges protrude fine, hair-like fibers about half an inch long. A *touch of avolition* is in fact an example of migo technology—as much fungus as anything else. Creatures like mi-go can handle a *touch of avolition* with ease, but humanoids and other fleshy users must wear gloves to avoid becoming the target of the item’s effect. Applying a *touch of avolition* requires a successful touch attack. When placed against flesh (any living, corporeal, non-plant or non-ooze creature), a *touch of avolition’s* fibers swiftly merge with the target unless the creature succeeds at a DC 15 Fortitude save. On a failed save, the victim becomes paralyzed for 7 rounds. It can attempt a new Fortitude as a standard action after the first round to end the effect early.
+This thin disk of woven material is 2-1/2 inches in diameter. From its edges protrude fine, hair-like fibers about half an inch long. A *touch of avolition* is in fact an example of migo technology—as much fungus as anything else. Creatures like mi-go can handle a *touch of avolition* with ease, but humanoids and other fleshy users must wear gloves to avoid becoming the target of the item’s effect. Applying a *touch of avolition* requires a successful touch attack. When placed against flesh (any living, corporeal, non-plant or non-ooze creature), a *touch of avolition’s* fibers swiftly merge with the target unless the creature succeeds at a DC 15 Fortitude save. On a failed save, the victim becomes paralyzed 1 for 7 rounds. It can attempt a new Fortitude as a standard action after the first round to end the effect early.
 
 Once a victim recovers from the paralysis effect, the *touch of avolition* saps the user’s willpower and dulls the senses, making creatures under these effects easier to mentally manipulate. The victim’s Wisdom is reduced by 6 (minimum 1) as long as the *touch of avolition* remains attached. The fungal filaments of a *touch of avolition* dig deep, and merely ripping the patch free from the skin doesn’t remove this Wisdom penalty, though the removal itself deals 1d4 points of damage to the victim. The effect is a curse effect, and it (and the paralysis) can be removed as such via *remove curse* or similar spells.
 
@@ -12505,7 +12505,7 @@ Used in warfare during the Great War, mustard gas (along with other gases such a
 
 Mustard gas is normally deployed via gas cylinders or chemical grenades. A cloud of mustard gas obscures vision like fog cloud and looks like a bank of fog, except that its vapors are yellowish-brown.
 
-Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
+Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated 1 and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
 
 ### Madsen light machine gun
 
@@ -12559,7 +12559,7 @@ Used in warfare during the Great War, mustard gas (along with other gases such a
 
 Mustard gas is normally deployed via gas cylinders or chemical grenades. A cloud of mustard gas obscures vision like fog cloud and looks like a bank of fog, except that its vapors are yellowish-brown.
 
-Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
+Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated 1 and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
 
 ### Nine-ring Broadsword
 
@@ -12651,7 +12651,7 @@ This sword is used almost exclusively by the life-hating urdefhans. The sword is
 
 **Category** Ammunition; **Proficiency** Ammunition
 
-These sling stones require only a touch attack to succeed. When they strike a target, they burst, releasing a cloud of noxious gas that requires the creature struck to attempt a DC 13 Fortitude save. If the save fails, the target is nauseated for 2 rounds. A smoke bullets costs 100 gp.
+These sling stones require only a touch attack to succeed. When they strike a target, they burst, releasing a cloud of noxious gas that requires the creature struck to attempt a DC 13 Fortitude save. If the save fails, the target is nauseated 1 for 2 rounds. A smoke bullets costs 100 gp.
 
 ### Spider-leg sickle
 
@@ -13327,7 +13327,7 @@ These unholy symbols have been desecrated by clerics of the goddess of undeath a
 
 **Category** Alchemical Weapons
 
-Giant alchemists make these items by manipulating the controlled decomposition of a dead hog. This greater splash weapon deals no damage, but those within its primary area of effect—the target and those within 5 feet of the target or those within 5 feet of the intersection—must succeed at a DC 20 Fortitude save or be nauseated for 1d4 rounds.
+Giant alchemists make these items by manipulating the controlled decomposition of a dead hog. This greater splash weapon deals no damage, but those within its primary area of effect—the target and those within 5 feet of the target or those within 5 feet of the intersection—must succeed at a DC 20 Fortitude save or be nauseated 1 for 1d4 rounds.
 
 **Greater Splash Weapon**
 
@@ -14353,7 +14353,7 @@ These curled, spiral, or hooked horns must be affixed to holes drilled into the 
 
 **Slot** none; **Price** 6,000 gp; **Weight** 1 lb.
 
-This pulsating lump of reddish-black muscle can be implanted only if the recipient’s own heart is first removed—removing the recipient’s heart deals 2d4 points of Constitution damage and 1 point of Constitution bleed to the recipient, and at the beginning of its next turn the recipient is reduced to –1 hit points and begins dying. Implanting the *demon heart* requires a successful DC 20 Heal check made as a full-round action, and causes it to graft itself into the recipient’s chest and halt the Constitution bleed. Once in place, the* demon heart* pumps with unrighteous might—the recipient gains a +4 profane bonus on saving throws against fear effects. In addition, if the recipient is suffering a bleed effect, as a full-round action it can cause the* demon heart* to flood its bloodstream with tainted ichor, ending the bleed effect but causing it to become nauseated for 1 round.
+This pulsating lump of reddish-black muscle can be implanted only if the recipient’s own heart is first removed—removing the recipient’s heart deals 2d4 points of Constitution damage and 1 point of Constitution bleed to the recipient, and at the beginning of its next turn the recipient is reduced to –1 hit points and begins dying. Implanting the *demon heart* requires a successful DC 20 Heal check made as a full-round action, and causes it to graft itself into the recipient’s chest and halt the Constitution bleed. Once in place, the* demon heart* pumps with unrighteous might—the recipient gains a +4 profane bonus on saving throws against fear effects. In addition, if the recipient is suffering a bleed effect, as a full-round action it can cause the* demon heart* to flood its bloodstream with tainted ichor, ending the bleed effect but causing it to become nauseated 1 for 1 round.
 
 **Construction**
 

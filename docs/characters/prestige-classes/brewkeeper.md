@@ -94,7 +94,7 @@ At 6th level, the brewkeeper adds the following harmful homebrews to the list of
 At 9th level, the brewkeeper adds the following homebrews to the list of those she can select.
 
 - *Exhausted*: The target is [exhausted](../../rules/appendices/conditions.md#exhausted) for 1 round, and then fatigued for 1 round after that. The brewkeeper must have applied the fatigued condition to the harmful homebrew before selecting this effect.
-- *Nauseated*: The target is [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round.
+- *Nauseated*: The target is [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1 round.
 
 #### Potion Master (Ex)
 

@@ -252,7 +252,7 @@
 
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 
 **Evocation**
 
@@ -638,7 +638,7 @@
 - **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
 - **[Aura Sight](aura-sight.md)**: This spell makes your eyes glow and allows you to see alignment auras within 120 feet of you.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
-- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Babble](babble.md)**: Target becomes nauseated 1 and nearby creatures become fascinated.
 - **[Barrow Haze](barrow-haze.md)**: Fog obscures the vision of others and extends the range of your hexes.
 - **[Battering Blast](battering-blast.md)**: A ball of force damages and bull rushes one target or object.
 - **[Black Sword of War](black-sword-of-war.md)**: A weapon deals bleed damage equal to half your caster level.
@@ -2080,7 +2080,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 - **[Epidemic](epidemic.md)**: Infect a subject with a highly contagious disease.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
-- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
+- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned 1. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
 - **[Lunar Veil](lunar-veil.md)**: Dispel light and revert lycanthropes.
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
 - **[Resonating Word](resonating-word.md)**: Target is damaged, staggered, and stunned.

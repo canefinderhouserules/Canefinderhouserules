@@ -259,7 +259,7 @@ In a marsh, pockets of flammable gas can build up under the surface before viole
 
 In a marsh, PCs can attempt a DC 15 Perception check to notice the smell and swelling before it erupts. The eruption deals 2d6 points of bludgeoning damage in a 20-foot radius, or 4d6 points of fire damage if the area contains open flame.
 
-In a desert, PCs can attempt a DC 15 Perception check to notice the fumes and get out of their path before coming to harm. Otherwise, they must succeed at a DC 15 Fortitude save or take 1d4 points of Constitution damage and be nauseated for 10 minutes.
+In a desert, PCs can attempt a DC 15 Perception check to notice the fumes and get out of their path before coming to harm. Otherwise, they must succeed at a DC 15 Fortitude save or take 1d4 points of Constitution damage and be nauseated 1 for 10 minutes.
 
 ### Dust Devil (Desert, Hill, Plain)
 

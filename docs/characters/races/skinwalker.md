@@ -164,7 +164,7 @@ Nightskulks are short, wiry and watchful, and they have learned to hide among th
 
 - Bite attack that deals 1d6 points of damage
 - Climb speed of 30 feet
-- Distraction (as the swarm ability; any living creature that begins its turn in the skinwalker's space must succeed at a Fortitude save, DC 10 + 1/2 the skinwalker's character level + her Constitution modifier, or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round)
+- Distraction (as the swarm ability; any living creature that begins its turn in the skinwalker's space must succeed at a Fortitude save, DC 10 + 1/2 the skinwalker's character level + her Constitution modifier, or be [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1 round)
 - Scent to a range of 30 feet
 
 ### Wereshark-Kin (Seascarred)

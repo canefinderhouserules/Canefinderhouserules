@@ -32,7 +32,7 @@ The pacts below focus on abilities useful to bards, rogues, and other shifty ind
 
 **Requirement**: Bardic knowledge.
 
-**Terrible Secret (Su)**: Once per day as a standard action, you can transmit some tiny fragment of the lore that broke the mind of a god to an opponent within 30 feet. Though too horrific for a mortal mind to retain, this knowledge transcends mere language and consciousness, allowing you to make virtually any sentient creature quake in its boots. The target must make a Will save (DC = 10 + 1/2 your level + your Cha modifier) or be nauseated for 1 round.
+**Terrible Secret (Su)**: Once per day as a standard action, you can transmit some tiny fragment of the lore that broke the mind of a god to an opponent within 30 feet. Though too horrific for a mortal mind to retain, this knowledge transcends mere language and consciousness, allowing you to make virtually any sentient creature quake in its boots. The target must make a Will save (DC = 10 + 1/2 your level + your Cha modifier) or be nauseated 1 for 1 round.
 
 **Honoring Your Debt**: Your access to the terrible secret sometimes leaves you melancholy and scattered. Each day, when you first enter combat, you must forgo your first attack action to pull yourself together for the battle to come. If you choose to take some other action at the start of combat, you need not pause in this way, but you must always forfeit your first attack of the day once you decide to make it.
 

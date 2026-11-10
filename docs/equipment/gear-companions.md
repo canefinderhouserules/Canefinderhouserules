@@ -322,7 +322,7 @@ This small cauldron of alchemically treated tar gives off thick, acrid smoke whe
 
 The smoke is entirely opaque, which means creatures above the smoke can't see the ground, and those on the ground have a visual ceiling of 25 feet. Creatures on the other side of the smoke have total concealment (50% miss chance, and the attacker can't use sight to locate the target).
 
-Smoke cover is noxious, and any creature that begins its turn inside the smoke must succeed at a DC 18 Fortitude save or become sickened for 1d4 rounds. Previously sickened creatures that fail their saves are instead nauseated for 1d6 rounds. Creatures immune to poison are not affected by smoke cover's sickening effects.
+Smoke cover is noxious, and any creature that begins its turn inside the smoke must succeed at a DC 18 Fortitude save or become sickened for 1d4 rounds. Previously sickened creatures that fail their saves are instead nauseated 1 for 1d6 rounds. Creatures immune to poison are not affected by smoke cover's sickening effects.
 
 ### Spotlight
 
@@ -776,7 +776,7 @@ This pitch-black liquid slows your heart rate, putting you in an almost tranceli
 
 **Price** 300 gp; **Weight** —; **Craft DC** 30
 
-This silvery liquid amplifies magical energies. For 1 hour after drinking this tincture, treat your caster level as 2 higher for the purpose of determining spells' durations and ranges. The liquid unsettles the stomach, imposing a –1 penalty on Fortitude and Reflex saves for the same duration. Whenever you fail a Fortitude or Reflex save while under these effects, you must succeed at a DC 20 Fortitude saving throw or become nauseated for 1 round.
+This silvery liquid amplifies magical energies. For 1 hour after drinking this tincture, treat your caster level as 2 higher for the purpose of determining spells' durations and ranges. The liquid unsettles the stomach, imposing a –1 penalty on Fortitude and Reflex saves for the same duration. Whenever you fail a Fortitude or Reflex save while under these effects, you must succeed at a DC 20 Fortitude saving throw or become nauseated 1 for 1 round.
 
 ### Starlight Juice
 
@@ -938,7 +938,7 @@ Loading this long bronze tube with a dose of ingested poison and 10 gp worth of 
 
 **Price** 40 gp; **Weight** 1/2 lb.
 
-When you imbibe this syrupy black serum, your blood thins dramatically and gushes forth from even minor wounds. Anytime you take bleed damage, any creatures adjacent to you must succeed at a Fortitude save (DC 10 + the amount of bleed damage taken) or be nauseated for 1 round. A dose of bloodgorge lasts for 1 hour.
+When you imbibe this syrupy black serum, your blood thins dramatically and gushes forth from even minor wounds. Anytime you take bleed damage, any creatures adjacent to you must succeed at a Fortitude save (DC 10 + the amount of bleed damage taken) or be nauseated 1 for 1 round. A dose of bloodgorge lasts for 1 hour.
 
 **Recipe** (5 cold iron + 10 dew of lunary)/filtration; **Craft DC** 25; **Time** 10 minutes; **Tools** filter; **Type** alchemical remedy
 
@@ -1088,7 +1088,7 @@ Despite their name, dwarven magic ales are alchemical items rather than magic it
 
 **Price** 25 gp; **Weight** 2 lbs.
 
-This malty ale has a legendarily thick, creamy head. It creates a pleasant buzz and sense of euphoria that dull the effects of pain and concussions, granting the drinker a +1 alchemical bonus on saving throws to avoid becoming dazed, staggered, or stunned, or against any effect with the pain descriptor for 1 hour. In addition, a dose of boulderhead bock grants the drinker 1d6 temporary hit points that apply exclusively against nonlethal damage. Multiple doses of boulderhead bock stack, to a maximum alchemical bonus of +5 and a maximum of 20 temporary hit points.
+This malty ale has a legendarily thick, creamy head. It creates a pleasant buzz and sense of euphoria that dull the effects of pain and concussions, granting the drinker a +1 alchemical bonus on saving throws to avoid becoming dazed, staggered, or stunned 1, or against any effect with the pain descriptor for 1 hour. In addition, a dose of boulderhead bock grants the drinker 1d6 temporary hit points that apply exclusively against nonlethal damage. Multiple doses of boulderhead bock stack, to a maximum alchemical bonus of +5 and a maximum of 20 temporary hit points.
 
 **Recipe** (4 gold + 15 spirit of wine)/fermentation; **Craft DC** 19; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
 
@@ -1104,7 +1104,7 @@ This rare and unusual brew is fortified by a process of repeated partial freezin
 
 **Price** 20 gp; **Weight** 1 lb.
 
-One of the oldest known dwarven ales, longbeard lambic is fermented with wild airborne yeasts and cultures, especially those that proliferate in the dank caves where it has been brewed since long before dwarves first emerged onto the surface. Longbeard lambic has a bracing effect that shocks the system. If the drinker is fatigued, shaken, or staggered, she can ignore these conditions for 1d4 rounds after imbibing longbeard lambic. In addition, a dose of longbeard lambic can reduce the exhausted condition to fatigued or the frightened condition to shaken (drinker's choice) for the same duration. If you consume a second longbeard lambic within 1 minute of the previous dose, you must succeed at a DC 15 Fortitude save or be nauseated for 1d4 rounds. The DC increases by 5 for each dose imbibed within the same time span. Dwarves gain a +5 racial bonus on this saving throw.
+One of the oldest known dwarven ales, longbeard lambic is fermented with wild airborne yeasts and cultures, especially those that proliferate in the dank caves where it has been brewed since long before dwarves first emerged onto the surface. Longbeard lambic has a bracing effect that shocks the system. If the drinker is fatigued, shaken, or staggered, she can ignore these conditions for 1d4 rounds after imbibing longbeard lambic. In addition, a dose of longbeard lambic can reduce the exhausted condition to fatigued or the frightened condition to shaken (drinker's choice) for the same duration. If you consume a second longbeard lambic within 1 minute of the previous dose, you must succeed at a DC 15 Fortitude save or be nauseated 1 for 1d4 rounds. The DC increases by 5 for each dose imbibed within the same time span. Dwarves gain a +5 racial bonus on this saving throw.
 
 **Recipe** (3 gold + 5 quicksilver + 4 spirit of wine)/fermentation; **Craft DC** 18; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
 
@@ -2206,7 +2206,7 @@ This small leather pouch is filled with a faintly radioactive ore called caphori
 
 **Price** 75 gp; **Weight** 1/2 lb.
 
-Harvested from the cytillesh fungus commonly found in the Underworld, these small vials emit a bright blue glow. When broken, a stun vial releases a flash of blue light consisting of bright light in a 10-foot radius and dim light in a 20-foot radius. All creatures within the flash area must make a DC 20 Will save. Creatures that fail are stunned for 1d2 rounds if they're in the area of bright light, or are confused for 1 round if in the area of dim light. Crafting this item requires a successful DC 30 Craft (alchemy) check.
+Harvested from the cytillesh fungus commonly found in the Underworld, these small vials emit a bright blue glow. When broken, a stun vial releases a flash of blue light consisting of bright light in a 10-foot radius and dim light in a 20-foot radius. All creatures within the flash area must make a DC 20 Will save. Creatures that fail are stunned 1 for 1d2 rounds if they're in the area of bright light, or are confused for 1 round if in the area of dim light. Crafting this item requires a successful DC 30 Craft (alchemy) check.
 
 ### Paper Wall Paste
 
@@ -3080,7 +3080,7 @@ Dropped into the eyes, this clear liquid awakens the senses but makes the user m
 
 **Frequency** 1/round for 4 rounds
 
-**Effect** 1d2 Dex damage (a creature who takes Dexterity damage equal to its Dexterity score from this poison becomes petrified; each day, a petrified victim can attempt a new DC 12 Fortitude save to recover from the venom and become unpetrified with an amount of Dexterity damage equal to 1 point less than its Dexterity score)
+**Effect** 1d2 Dex damage (a creature who takes Dexterity damage equal to its Dexterity score from this poison becomes petrified 1; each day, a petrified victim can attempt a new DC 12 Fortitude save to recover from the venom and become unpetrified with an amount of Dexterity damage equal to 1 point less than its Dexterity score)
 
 **Cure** 1 save
 
@@ -3116,7 +3116,7 @@ Dropped into the eyes, this clear liquid awakens the senses but makes the user m
 
 **Frequency** 1/round for 2 rounds
 
-**Initial Effect** staggered for 1d6 rounds; **Secondary Effect** paralyzed for 1d6 minutes
+**Initial Effect** staggered for 1d6 rounds; **Secondary Effect** paralyzed 1 for 1d6 minutes
 
 **Cure** 1 save
 
@@ -3374,7 +3374,7 @@ Usable in catapults and trebuchets, this ammunition consists of a wooden crate p
 
 **Onset** 1 day; **Frequency** 1/day
 
-**Effect** speed reduced by 5 feet and 1d3 Dex damage, creatures reduced to 0 feet are permanently paralyzed
+**Effect** speed reduced by 5 feet and 1d3 Dex damage, creatures reduced to 0 feet are permanently paralyzed 1
 
 **Cure** 2 consecutive saves, or completely skinning or burning the affected area (inflicting 1d8 points of damage)
 
@@ -3494,7 +3494,7 @@ The best cure for this disease is dosing the patient with the poison arsenic—i
 
 **Onset** 1 minute; **Frequency** 1/round for 5 rounds
 
-**Effect** 1d3 Dex damage, 1 Con damage, and nauseated for 1 round
+**Effect** 1d3 Dex damage, 1 Con damage, and nauseated 1 for 1 round
 
 **Cure** 2 saves
 
@@ -3506,7 +3506,7 @@ The best cure for this disease is dosing the patient with the poison arsenic—i
 
 **Onset** 1 round (injury), 30 minutes (ingested); **Frequency** 1/minute for 5 minutes
 
-**Effect** 1d3 Str damage, 1 Con damage, paralyzed for 1d3 rounds
+**Effect** 1d3 Str damage, 1 Con damage, paralyzed 1 for 1d3 rounds
 
 **Cure** 2 saves
 
@@ -3709,7 +3709,7 @@ Identifying the effects of a dose of alien fluids presents a challenge, as the c
 | 21-30 | The drinker contracts a random form of insanity for 1d4 days. |
 | 31-35 | The fluids impart 1d4 negative levels to the drinker (Fortitude DC 20 to remove). |
 | 36-40 | The drinker is rendered unconscious until the effects of the dose wear off. Mild addiction. |
-| 41-50 | The drinker is nauseated for 2d6×10 minutes. |
+| 41-50 | The drinker is nauseated 1 for 2d6×10 minutes. |
 | 51-60 | The drinker is sickened until the effects of the dose wear off. |
 | 61-65 | The drinker is fascinated by visions of a far-off reality for 1d4 hours. An interruption that ends the fascination provokes incoherent anger (attack nearest creature) for 1d4 rounds. Strong addiction. |
 | 66-70 | The drinker exudes an unpleasant odor, as the stench ability, for 24 hours. |

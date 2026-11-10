@@ -119,7 +119,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
@@ -150,7 +150,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
-- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Babble](babble.md)**: Target becomes nauseated 1 and nearby creatures become fascinated.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
@@ -370,7 +370,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.

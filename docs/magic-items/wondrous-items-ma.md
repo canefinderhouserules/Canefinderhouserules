@@ -304,7 +304,7 @@ A mythic creature can expend one use of mythic power when using the *beast shape
 
 When a humanoid consumes these bitter herbs, they awaken the animal within him, no matter how civilized the consumer believes himself to be. They grant the partaker low-light vision and the scent ability for 1 hour. If the consumer has the rage class feature, he can expend one use of mythic power as part of entering a rage to take the form of an animal (as *beast shape II*) while gaining the usual benefits of rage. When the rage ends, any remaining duration of the herbs is lost.
 
-A creature without the humanoid type, including a monstrous humanoid, gains no benefits from the herbs. It instead becomes nauseated for 1 round, then sickened for 1d4 rounds. A successful DC 13 Fortitude save leaves the creature sickened for 1 round and negates the nausea.
+A creature without the humanoid type, including a monstrous humanoid, gains no benefits from the herbs. It instead becomes nauseated 1 for 1 round, then sickened for 1d4 rounds. A successful DC 13 Fortitude save leaves the creature sickened for 1 round and negates the nausea.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *beast shape II*; **Cost** 700 gp
 

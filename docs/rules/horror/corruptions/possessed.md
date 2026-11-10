@@ -8,7 +8,7 @@ An evil spirit, soul, or personality—hereafter referred to as a spirit—has t
 
 ### Progression
 
-The corruption progresses when you give up control to use the spirit’s power. Like a medium’s spirits (*Occult Adventures* 30), the spirit possessing you can give you more power when you give it influence (this doesn’t interact with medium spirits; the influence is separate). Each day at sunrise, the number of points of influence the spirit has over you returns to 1. The spirit gains 1 point of influence whenever you fall asleep (or perform your daily rest) or become confused, dazed, frightened, panicked, or stunned. You lose any immunity to confusion, daze, fear, and stun.
+The corruption progresses when you give up control to use the spirit’s power. Like a medium’s spirits (*Occult Adventures* 30), the spirit possessing you can give you more power when you give it influence (this doesn’t interact with medium spirits; the influence is separate). Each day at sunrise, the number of points of influence the spirit has over you returns to 1. The spirit gains 1 point of influence whenever you fall asleep (or perform your daily rest) or become confused, dazed, frightened, panicked, or stunned 1. You lose any immunity to confusion, daze, fear, and stun.
 
 When the spirit has at least 3 points of influence, you have visible difficulty controlling your body, and you shift back and forth between your own personality and a blend with the spirit. When the spirit has 5 points of influence, you must attempt a Will save (DC = 15 + your manifestation level). If you succeed, influence drops to 4 points; otherwise, the corruption progresses to the next stage. If you must attempt this saving throw again before the next sunrise, the DC increases by 2 for every previous attempt.
 
@@ -68,7 +68,7 @@ You channel all your negative emotions into the spirit.
 
 The spirit focuses on one hand.
 
-**Gift**: A number of times per day equal to your manifestation level, you can use traitorous hand to make a touch attack that confounds foes with the spirit’s influence. The target is nauseated for 1 round per point of influence the spirit has over you (Will negates). Even if the target succeeds, it can’t make attacks of opportunity for 1 round. A creature affected by this ability becomes immune for 24 hours.
+**Gift**: A number of times per day equal to your manifestation level, you can use traitorous hand to make a touch attack that confounds foes with the spirit’s influence. The target is nauseated 1 for 1 round per point of influence the spirit has over you (Will negates). Even if the target succeeds, it can’t make attacks of opportunity for 1 round. A creature affected by this ability becomes immune for 24 hours.
 
 **Stain**: You take a –2 penalty on attack rolls and Dexterity-based checks involving your hands. Whenever you become dazed or stunned, if the spirit has 3 or more points of influence over you after adding the point, the hand attacks you (or a vulnerable ally, GM’s discretion) with a held item or unarmed strike as if proficient, dealing damage equal to 1d8 + your Strength modifier (regardless of the held item).
 

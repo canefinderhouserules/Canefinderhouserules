@@ -14,7 +14,7 @@ You can sense the presence of evil. The amount of information revealed depends o
 
 *2nd Round*: Number of evil auras (creatures, objects, or spells) in the area and the power of the most potent evil aura present.
 
-If you are of good alignment, and the strongest evil aura’s power is overwhelming (see below), and the HD or level of the aura’s source is at least twice your character level, you are [stunned](../../rules/appendices/conditions.md#stunned) for 1 round and the spell ends.
+If you are of good alignment, and the strongest evil aura’s power is overwhelming (see below), and the HD or level of the aura’s source is at least twice your character level, you are [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round and the spell ends.
 
 *3rd Round*: The power and location of each aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.
 

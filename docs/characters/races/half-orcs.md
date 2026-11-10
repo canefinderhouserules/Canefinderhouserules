@@ -48,7 +48,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Hatred**: Half-orcs raised among orcs must prove themselves against their people's enemies. Half-orcs with this racial trait gain a +1 racial bonus on attack rolls against humanoids of the dwarf, elf, and human subtypes because of their special training against these hated foes. This racial trait replaces intimidating and orc ferocity.
 
-**Plagueborn**: Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming [nauseated](../../rules/appendices/conditions.md#nauseated) or [sickened](../../rules/appendices/conditions.md#sickened). This racial trait replaces the intimidating and orc ferocity racial traits.
+**Plagueborn**: Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming [nauseated 1](../../rules/appendices/conditions.md#nauseated) or [sickened](../../rules/appendices/conditions.md#sickened). This racial trait replaces the intimidating and orc ferocity racial traits.
 
 **Rock Climber**: Half-orcs from mountainous regions are excellent climbers, and sometimes ambush prey by leaping down from above. Half-orcs with this racial trait gain a +1 bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks. This racial trait replaces the intimidating trait.
 

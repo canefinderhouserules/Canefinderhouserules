@@ -84,7 +84,7 @@ The water is boiling hot or freezing cold, dealing 1d6 points of fire or cold da
 
 The bludgeoning damage increases to 4d8 points of damage and the cold damage increases to 3d6 points of damage. The ground in the area is covered in ice and hailstones, acting as though a grease spell were cast on it. Dealing 5 or more points of fire damage to a square melts the ice and hail, negating the grease effect.
 
-**Augmented (6th)**: If you expend two uses of mythic power, one creature in the area is [paralyzed](../../rules/appendices/conditions.md#paralyzed) (as if by hold person) and gains vulnerability to fire as long as it's paralyzed.
+**Augmented (6th)**: If you expend two uses of mythic power, one creature in the area is [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) (as if by hold person) and gains vulnerability to fire as long as it's paralyzed.
 
 ## Ill Omen
 
@@ -130,7 +130,7 @@ With either form, you can direct the creature like a marionette as a move action
 
 **Source** *Advanced Race Guide*
 
-Starting on the second round of the spell, the affected target must succeed at a Fortitude save on your turn or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round, as if distracted by an actual swarm.
+Starting on the second round of the spell, the affected target must succeed at a Fortitude save on your turn or be [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1 round, as if distracted by an actual swarm.
 
 ## Knock
 
@@ -168,7 +168,7 @@ The damage dealt increases to 1d8 points of electricity damage per caster level 
 
 The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 10d8). Any creature that fails its save is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
-**Augmented (3rd)**: If you expend two uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its save is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round.
+**Augmented (3rd)**: If you expend two uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its save is [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round.
 
 ## Limited Wish
 

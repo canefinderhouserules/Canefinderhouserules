@@ -32,7 +32,7 @@ You can weaken foes with a glare.
 
 **Prerequisite**: Manifestation level 6th.
 
-**Gift**: Once per day, when you successfully use Intimidate to demoralize a creature within 30 feet, you can curse that target as a swift action. The victim must succeed at a Will save or be staggered permanently. If you use this ability on a creature that is still under the effects of your baleful glare from a previous day, the target must succeed at a Fortitude saving throw or be paralyzed with fear for 3 days. At the end of each day the target spends paralyzed with fear, it must succeed at another Fortitude saving throw or die. Your effective caster level for these curses is equal to your character level.
+**Gift**: Once per day, when you successfully use Intimidate to demoralize a creature within 30 feet, you can curse that target as a swift action. The victim must succeed at a Will save or be staggered permanently. If you use this ability on a creature that is still under the effects of your baleful glare from a previous day, the target must succeed at a Fortitude saving throw or be paralyzed 1 with fear for 3 days. At the end of each day the target spends paralyzed with fear, it must succeed at another Fortitude saving throw or die. Your effective caster level for these curses is equal to your character level.
 
 **Stain**: One eye becomes bulging and bloodshot or each eye turns a different color. You take a –4 penalty on Perception checks. This transformation can’t be hidden by magic.
 

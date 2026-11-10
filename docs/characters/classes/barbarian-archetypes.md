@@ -484,7 +484,7 @@ Some barbarians wear marks of prowess and savagery upon their bodies. The scarre
 
 **Scarification (Ex)**: At 3rd level, a scarred rager can ignore 1 point of bleed damage per round. This amount increases by 1 every three levels beyond 3rd. At 15th level, a scarred rager can ignore 1 bleed effect each round. This ability replaces [trap sense](barbarian.md#trap-sense-ex).
 
-**Improved Tolerance (Ex)**: At 5th level, a scarred rager’s tolerance ability also applies to effects that would cause her to become [dazed](../../rules/appendices/conditions.md#dazed), frightened, shaken, or [stunned](../../rules/appendices/conditions.md#stunned).
+**Improved Tolerance (Ex)**: At 5th level, a scarred rager’s tolerance ability also applies to effects that would cause her to become [dazed](../../rules/appendices/conditions.md#dazed), frightened, shaken, or [stunned 1](../../rules/appendices/conditions.md#stunned).
 
 This replaces [improved uncanny dodge](barbarian.md#improved-uncanny-dodge-ex).
 
@@ -1002,7 +1002,7 @@ At 12th level, a beastkin berserker is able to use feral transformation to take 
 
 **Psychopomp Totem, Greater**: While raging, the barbarian can detect and locate undead creatures within 30 feet, just as if it had the blindsight ability, and any weapons she wields are treated as if they had the ghost touch special ability. A barbarian must have the psychopomp totem rage power and be at least 10th level to select this rage power.
 
-**Unrestrained Rage**: While raging, the barbarian is immune to paralysis. If the barbarian is targeted by an effect that would cause her to become [paralyzed](../../rules/appendices/conditions.md#paralyzed), she can enter a rage as an immediate action, as long as she still has rounds of rage remaining. A barbarian must be at least 12th level to select this rage power.
+**Unrestrained Rage**: While raging, the barbarian is immune to paralysis. If the barbarian is targeted by an effect that would cause her to become [paralyzed 1](../../rules/appendices/conditions.md#paralyzed), she can enter a rage as an immediate action, as long as she still has rounds of rage remaining. A barbarian must be at least 12th level to select this rage power.
 
 ## Other Rage Powers
 

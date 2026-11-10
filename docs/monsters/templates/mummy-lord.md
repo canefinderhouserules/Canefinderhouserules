@@ -12,7 +12,7 @@
 
 **Aura:** A mummy lord gains the following aura.
 
-***Great Despair Aura (Su).*** All creatures within a 30-foot radius that see a mummy lord must succeed at a Will saving throw or be paralyzed with fear for 1d4 rounds, then shaken for the following 1d4 rounds. Whether or not the saving throw is successful, that creature cannot be affected again by the same mummy lord’s great despair aura ability for 24 hours. This is a mind-affecting paralysis and fear affect. The save DC is Charisma-based.
+***Great Despair Aura (Su).*** All creatures within a 30-foot radius that see a mummy lord must succeed at a Will saving throw or be paralyzed 1 with fear for 1d4 rounds, then shaken for the following 1d4 rounds. Whether or not the saving throw is successful, that creature cannot be affected again by the same mummy lord’s great despair aura ability for 24 hours. This is a mind-affecting paralysis and fear affect. The save DC is Charisma-based.
 
 **Armor Class:** A mummy lord has either a +1 natural armor bonus for every 2 Hit Dice it possesses or the base creature’s natural armor bonus, whichever of the two leads to a higher result.
 

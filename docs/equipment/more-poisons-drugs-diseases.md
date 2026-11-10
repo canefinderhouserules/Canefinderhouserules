@@ -180,7 +180,7 @@ Creatures that do not need to breathe gain a +2 bonus on saves made to resist th
 
 **Onset** eating food; **Frequency** 1/hour for 8 hours
 
-**Effect** nauseated for 1 hour and then sickened for 1 day
+**Effect** nauseated 1 for 1 hour and then sickened for 1 day
 
 **Cure** 1 save
 
@@ -230,7 +230,7 @@ Blood veil takes its name from its most apparent symptoms: a rash and mask of bl
 
 **Onset** 1 round
 
-**Effect** nauseated for 5 rounds
+**Effect** nauseated 1 for 5 rounds
 
 **Cure** 1 save
 

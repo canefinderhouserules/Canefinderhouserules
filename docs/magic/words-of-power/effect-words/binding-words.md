@@ -1,6 +1,6 @@
 # Binding Words
 
-Words from this family cause objects to become stationary and creatures to become [paralyzed](../../../rules/appendices/conditions.md#paralyzed).
+Words from this family cause objects to become stationary and creatures to become [paralyzed 1](../../../rules/appendices/conditions.md#paralyzed).
 
 ## Lock Ward (Binding)
 
@@ -19,7 +19,7 @@ Target Restrictions selected This effect word causes one unattended object to cl
 **Saving Throw** Will negates; **Spell Resistance** yes  
 **Target Restrictions** selected
 
-The target of a wordspell with this effect word is paralyzed and cannot move. It is aware and can breathe normally, but cannot take any actions. At the end of each of the creature’s turns, it can attempt a new saving throw to end the effect. Flying creatures that rely on wings to fly fall, and swimmers cannot swim and may drown. Wordspells with this effect word only affect creatures of the humanoid type.
+The target of a wordspell with this effect word is paralyzed 1 and cannot move. It is aware and can breathe normally, but cannot take any actions. At the end of each of the creature’s turns, it can attempt a new saving throw to end the effect. Flying creatures that rely on wings to fly fall, and swimmers cannot swim and may drown. Wordspells with this effect word only affect creatures of the humanoid type.
 
 ## Paralyze Creature (Binding)
 

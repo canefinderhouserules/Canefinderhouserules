@@ -8,4 +8,4 @@
 **Duration** 1 round/3 levels  
 **Saving Throw** Will partial (see text); **Spell Resistance** yes
 
-The target is overcome with intense pain, causing it to be [stunned](../../rules/appendices/conditions.md#stunned) on a failed save or [dazed](../../rules/appendices/conditions.md#dazed) for 1 round on a successful save.
+The target is overcome with intense pain, causing it to be [stunned 1](../../rules/appendices/conditions.md#stunned) on a failed save or [dazed](../../rules/appendices/conditions.md#dazed) for 1 round on a successful save.

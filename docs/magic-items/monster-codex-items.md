@@ -304,7 +304,7 @@ This simple harness, basically just a leather lash, straps a combatant's arm to 
 
 This oversized, sooty cauldron has two sets of rings aligned on opposite sides. Through these rings, large shafts can be inserted in order for two bearers to lift and carry the cauldron. The inside of the oversized pot is caked with baked-on residue that smells foul and is greasy to the touch. Once per day, a horde of up to 100 orcs can consume a thick soup or gruel prepared within the cauldron. This substance makes the orcs uncannily stealthy and difficult to track. For the next 2 hours, any overland movement by the horde leaves few traces. When a creature attempts a Survival check to discover the horde's tracks, the effect negates the penalty to the DC for the number of orcs in the group.
 
-Any non-orc who consumes even a single spoonful of the soup or gruel immediately becomes nauseated for 10 minutes and does not gain any benefits.
+Any non-orc who consumes even a single spoonful of the soup or gruel immediately becomes nauseated 1 for 10 minutes and does not gain any benefits.
 
 **Construction Requirements:** Craft Wondrous Item, *pass without trace*; **Cost** 14,000 gp
 
@@ -436,7 +436,7 @@ This animated wood and metal snake squirms and hisses when handled, attempting t
 
 **Aura** moderate transmutation
 
-A *cave dweller's greataxe* appears to be a thin slab of stone crudely lashed to a bone haft. It's as serviceable as a metal weapon of the same type would be, and functions as a +1 *greataxe*. Once per day when the wielder of a *cave dweller's greataxe* hits a creature, the wielder can speak a command word to force the hit creature to attempt a DC 16 Fortitude save. If the creature fails, it becomes slowed for 1 round. At the end of that round, the creature is no longer slowed, but it must succeed at a second saving throw or it becomes petrified for 1d4 rounds.
+A *cave dweller's greataxe* appears to be a thin slab of stone crudely lashed to a bone haft. It's as serviceable as a metal weapon of the same type would be, and functions as a +1 *greataxe*. Once per day when the wielder of a *cave dweller's greataxe* hits a creature, the wielder can speak a command word to force the hit creature to attempt a DC 16 Fortitude save. If the creature fails, it becomes slowed for 1 round. At the end of that round, the creature is no longer slowed, but it must succeed at a second saving throw or it becomes petrified 1 for 1d4 rounds.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *calcific touch*; **Cost** 4,305 gp
 

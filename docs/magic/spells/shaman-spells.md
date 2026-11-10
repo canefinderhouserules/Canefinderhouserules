@@ -107,7 +107,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
@@ -435,7 +435,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Restoration](restoration.md)**: Restores level and ability score drains.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.

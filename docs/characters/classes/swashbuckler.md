@@ -144,7 +144,7 @@ At 19th level, when the swashbuckler confirms a critical hit with a light or one
 
 #### Stunning Stab (Ex)
 
-At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler's level + the swashbuckler's Dexterity modifier) or [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler's level + the swashbuckler's Dexterity modifier) or [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
 ### Swashbuckler Finesse (Ex)
 

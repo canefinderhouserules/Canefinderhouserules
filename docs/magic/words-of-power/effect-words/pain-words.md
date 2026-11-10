@@ -24,4 +24,4 @@ The targets of a wordspell with this effect word are [sickened](../../../rules/a
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The targets of a wordspell with this effect word are [nauseated](../../../rules/appendices/conditions.md#nauseated); they receive another save at the end of their turn to end this effect.
+The targets of a wordspell with this effect word are [nauseated 1](../../../rules/appendices/conditions.md#nauseated); they receive another save at the end of their turn to end this effect.

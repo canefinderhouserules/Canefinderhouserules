@@ -24,7 +24,7 @@
 
 **Special Qualities:** An alter ego gains the following special qualities.
 
-***Progenitor Dependence (Su).*** An alter ego is nauseated whenever it is more than 1 mile from the original creature of which it is a copy, so long as the original creature is alive.
+***Progenitor Dependence (Su).*** An alter ego is nauseated 1 whenever it is more than 1 mile from the original creature of which it is a copy, so long as the original creature is alive.
 
 ***Replicated Gear (Su).*** An alter ego has a copy of each item of clothing and equipment (including any magic items other than single-or limited-use items such as wands, scrolls, and potions) that was in its progenitor’s possession at the moment when the alter ego was created. This equipment is fabricated of ectoplasm held in place by the alter ego’s mental energy. This equipment operates as normal for the alter ego. One round after leaving the alter ego’s possession (or 1 round after the alter ego is destroyed), this fabricated equipment dissolves into a thin, silvery mucus.
 

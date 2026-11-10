@@ -232,7 +232,7 @@ These crystal lenses fit over the user’s eyes, enabling him to cast doom upon 
 **Aura** faint divination; **CL** 3rd  
 **Slot** eyes; **Price** 2,500 gp; **Weight** —
 
-These items are made of special crystal and fit over the eyes of the wearer. These lenses grant a +5 competence bonus on Perception checks. Wearing only one of the pair causes a character to become dizzy and stunned for 1 round. Both lenses must be worn for the magic item to take effect.
+These items are made of special crystal and fit over the eyes of the wearer. These lenses grant a +5 competence bonus on Perception checks. Wearing only one of the pair causes a character to become dizzy and stunned 1 for 1 round. Both lenses must be worn for the magic item to take effect.
 
 **Requirements** Craft Wondrous Item, clairaudience/clairvoyance; **Cost** 1,250 gp
 

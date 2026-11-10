@@ -469,7 +469,7 @@
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Rusting Grasp](rusting-grasp.md)**: Your touch corrodes iron and alloys.

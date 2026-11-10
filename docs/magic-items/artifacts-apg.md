@@ -24,7 +24,7 @@ Evil (black flame): Bearer is constantly under the effect of protection from goo
 **Aura** strong evocation, necromancy, and transmutation; **CL** 20th  
 **Slot** none; **Weight** 15 lbs.
 
-This +3 Large returning warhammer deals 2d6 points of damage on a successful hit. In the hands of a wielder who wears a belt of giant strength and knows the weapon is a hammer of thunderbolts (not just the +3 warhammer it appears to be), it becomes a +5 Large giant-bane returning thundering warhammer with the following two properties. One, when the bearer hits with the hammer as a thrown attack, it emits a powerful clap of thunder, causing all creatures within 90 feet to be stunned for 1 round (DC 15 Fortitude negates); the wielder is not immune to this effect. Two, the hammer’s range increment increases to 30 feet.
+This +3 Large returning warhammer deals 2d6 points of damage on a successful hit. In the hands of a wielder who wears a belt of giant strength and knows the weapon is a hammer of thunderbolts (not just the +3 warhammer it appears to be), it becomes a +5 Large giant-bane returning thundering warhammer with the following two properties. One, when the bearer hits with the hammer as a thrown attack, it emits a powerful clap of thunder, causing all creatures within 90 feet to be stunned 1 for 1 round (DC 15 Fortitude negates); the wielder is not immune to this effect. Two, the hammer’s range increment increases to 30 feet.
 
 **Destruction** A hammer of thunderbolts is destroyed if heated in a fire giant’s forge and quenched in the blood of a good-aligned humanoid, which causes the iron of the hammer to become so brittle it shatters the next time it is used to strike. Only bathing it in a fire giant’s blood can reverse its brittleness; once shattered, nothing can do so.
 
@@ -48,7 +48,7 @@ At first sight, the artifact appears to be nothing more than a piece of bone wor
 | 5 | Veh | The character is blinded as with blindness/deafness (no saving throw). |
 | 6 | Chu | The character takes 5d10 points of cold damage (DC 25 Fort save for half) and moves at half speed for the next hour (a successful saving throw does not negate the reduced speed). |
 | 7 | Roh | For the next 24 hours, the character suffers a –2 penalty on all skill and ability checks. |
-| 8 | Seh | The character is paralyzed for 2d12 hours, as with hold monster, except he cannot attempt new saving throws to overcome the effect. |
+| 8 | Seh | The character is paralyzed 1 for 2d12 hours, as with hold monster, except he cannot attempt new saving throws to overcome the effect. |
 | 9 | Kog | For the next week, the character emits a horrible smell. He suffers a –4 penalty on Diplomacy and Stealth checks. |
 | 10 | Vis | Once, during the next 24 hours, the character can reroll a single die roll he has just made and take the second result, as if using the good fortune ability from the Luck domain. |
 | 11 | Fyeh | The character gains 100 points of fire immunity, as if using protection from energy. |

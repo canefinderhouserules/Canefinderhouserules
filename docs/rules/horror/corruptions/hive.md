@@ -110,7 +110,7 @@ Your body produces a resinous spittle.
 
 **Gift**: As a standard action, you can expel spittle that rapidly hardens into a resin. This effect is identical to the *web* spell with a caster level equal to your manifestation level, except it targets a single 5-foot space, has a hardness of 1, and has 2 hit points per manifestation level you have. Creatures caught in the spray can attempt a Reflex save to avoid the effect. The resin lasts for 1 minute before crumbling to dust.
 
-**Stain**: Whenever you use your resin secretion gift, you are nauseated until the end of your next turn. Immunities don’t prevent this nauseated condition, and you can’t remove it early by any means.
+**Stain**: Whenever you use your resin secretion gift, you are nauseated 1 until the end of your next turn. Immunities don’t prevent this nauseated condition, and you can’t remove it early by any means.
 
 **Special**: Upon receiving this manifestation, you must take both the gift and the stain, even with the useful corruption or vile corruption variants.
 

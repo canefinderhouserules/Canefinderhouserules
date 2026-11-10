@@ -124,7 +124,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Memorize Page](memorize-page.md)**: Target perfectly memorizes one page of information.
 - **[Memory Lapse](memory-lapse.md)**: Subject forgets events back to last turn.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 
 **Evocation**:
 

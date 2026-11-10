@@ -554,9 +554,9 @@ At 11th level, whenever a whirling dervish is in conditions of dim light or brig
 
 **Dance of Mercy (Ex)**
 
-At 19th level, when a whirling dervish hits a creature with a melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be [stunned](../../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+At 19th level, when a whirling dervish hits a creature with a melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be [stunned 1](../../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
-Alternatively, if the whirling dervish confirms a critical hit with a melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the dervish’s class level + her Dexterity modifier) or take an amount of nonlethal damage equal to its current hit points + 1, as well as becomes [paralyzed](../../../rules/appendices/conditions.md#paralyzed) for 1 hour. Performing this deed doesn’t grant the swashbuckler a panache point. This deed replaces deadly stab.
+Alternatively, if the whirling dervish confirms a critical hit with a melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the dervish’s class level + her Dexterity modifier) or take an amount of nonlethal damage equal to its current hit points + 1, as well as becomes [paralyzed 1](../../../rules/appendices/conditions.md#paralyzed) for 1 hour. Performing this deed doesn’t grant the swashbuckler a panache point. This deed replaces deadly stab.
 
 **Dervish Finesse (Ex)**
 

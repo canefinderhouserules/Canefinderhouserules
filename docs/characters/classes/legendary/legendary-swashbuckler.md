@@ -106,7 +106,7 @@ Swashbucklers spend panache points to accomplish deeds. Most deeds grant the swa
 
 - *Cheat Death (Ex)* At 19th level, whenever the swashbuckler is reduced to 0 hit points or fewer, she can spend all of her remaining panache to instead be reduced to 1 hit point. She must have at least 1 panache to spend. Effects that kill the swashbuckler outright without dealing hit point damage are not affected by this ability.
 
-- *Deadly Stab (Ex)* At 19th level, when a swashbuckler hits a creature with a melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be [stunned](../../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect. Alternatively, if the swashbuckler confirms a critical hit against an opponent, she can spend 1 panache point to outright kill the target. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or die. This is a death attack. Performing this deed does not grant the swashbuckler a panache point. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
+- *Deadly Stab (Ex)* At 19th level, when a swashbuckler hits a creature with a melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be [stunned 1](../../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect. Alternatively, if the swashbuckler confirms a critical hit against an opponent, she can spend 1 panache point to outright kill the target. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or die. This is a death attack. Performing this deed does not grant the swashbuckler a panache point. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
 
 #### Personage (Ex)
 
@@ -352,7 +352,7 @@ This ability is a mind-affecting fear effect. The swashbuckler may only use this
 
 At 19th level, when a phantom swashbuckler uses the Intimidate skill to demoralize an opponent or hits an opponent with a melee weapon that deals nonlethal damage, he can spend 1 panache point to attack to knock out or frighten the opponent into unconsciousness.
 
-The target must succeed at a Will saving throw or immediately fall asleep for 3d6 x 10 minutes. Such creatures can be awakened from as a standard action (an application of the aid another action) and slapping or dealing lethal damage awakens the creature, but normal noise does not.
+The target must succeed at a Will saving throw or immediately gain [sleep 1](../../../rules/appendices/conditions.md#sleep) for 3d6 x 10 minutes. Such creatures can be awakened from as a standard action (an application of the aid another action) and slapping or dealing lethal damage awakens the creature, but normal noise does not.
 
 ##### Raider
 

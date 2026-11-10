@@ -69,7 +69,7 @@ This kit includes a bear trap, a footprint book, a scent cloak, and monster bait
 
 ## Odor Stalk
 
-These alchemically treated incense sticks contain pheromones that certain creatures find repellent. Each odor stalk is created to irritate a specific creature type. After burning for 1 round, an odor stalk fills a 10-foot square with a clear gas that causes any living creature of the prescribed type to become nauseated for 1 round, then sickened for as long as it remains in the area. On a successful DC 12 Fortitude save, the creature negates the nauseated condition but not the sickened condition. This is a poison effect. The cloud lasts for 10 minutes, but can be dispersed like *obscuring mist*. Additionally, odor stalks can be used as an additional spell component for the following spells to modify the spell’s effects.
+These alchemically treated incense sticks contain pheromones that certain creatures find repellent. Each odor stalk is created to irritate a specific creature type. After burning for 1 round, an odor stalk fills a 10-foot square with a clear gas that causes any living creature of the prescribed type to become nauseated 1 for 1 round, then sickened for as long as it remains in the area. On a successful DC 12 Fortitude save, the creature negates the nauseated condition but not the sickened condition. This is a poison effect. The cloud lasts for 10 minutes, but can be dispersed like *obscuring mist*. Additionally, odor stalks can be used as an additional spell component for the following spells to modify the spell’s effects.
 
 **Ghoul touch**: The stench only affects creatures of the odor stalk’s associated creature type.
 

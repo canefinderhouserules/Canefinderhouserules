@@ -8,4 +8,4 @@
 **Duration** 1 round/level; see text  
 **Saving Throw** Will partial (see text); **Spell Resistance** yes
 
-You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are [stunned](../../rules/appendices/conditions.md#stunned) for 1 round and are [staggered](../../rules/appendices/conditions.md#staggered) for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.
+You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round and are [staggered](../../rules/appendices/conditions.md#staggered) for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.

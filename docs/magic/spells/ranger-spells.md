@@ -264,7 +264,7 @@
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
 - **[Remove Disease](remove-disease.md)**: Cures all diseases affecting subject.
 - **[Repel Vermin](repel-vermin.md)**: Insects, spiders, and other vermin stay 10 ft. away.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Sand Table](sand-table.md)**: Create a scale model of the surrounding battlefield

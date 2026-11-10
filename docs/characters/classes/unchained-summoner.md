@@ -140,7 +140,7 @@ At 16th level, as a full-round action, a summoner can touch his eidolon and the 
 
 The summoner can cast spells while inside the eidolon by taking control of the eidolon for the duration of the casting. Any material components used for these spells are taken from the summoner’s gear, even though they are otherwise inaccessible. The summoner can direct all of the eidolon’s actions while merged, can perceive through its senses, and can speak through its voice.
 
-The summoner can use this ability for a number of rounds per day equal to his summoner level. He can end this effect at any time as a swift action. The summoner emerges in a square adjacent to the eidolon if able. If the eidolon is returned to its home plane while the summoner is merged with it, the summoner is immediately ejected, takes 4d6 points of damage, and is stunned for 1 round.
+The summoner can use this ability for a number of rounds per day equal to his summoner level. He can end this effect at any time as a swift action. The summoner emerges in a square adjacent to the eidolon if able. If the eidolon is returned to its home plane while the summoner is merged with it, the summoner is immediately ejected, takes 4d6 points of damage, and is stunned 1 for 1 round.
 
 ### Greater Aspect (Su)
 

@@ -21,7 +21,7 @@ The effects are cumulative and concurrent. A successful Will save reduces or eli
 
 *Deafened*: The creature is [deafened](../../rules/appendices/conditions.md#deafened) for 1d4 rounds. Save negates.
 
-*Stunned*: The creature is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Save negates.
+*Stunned*: The creature is [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round. Save negates.
 
 *Confused*: The creature is [confused](../../rules/appendices/conditions.md#confused) for 1d10 minutes. This is a mind-affecting enchantment effect. Save reduces the confused effect to 1 round.
 

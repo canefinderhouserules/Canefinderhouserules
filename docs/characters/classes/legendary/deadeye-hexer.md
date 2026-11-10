@@ -196,7 +196,7 @@ When the deadeye hexer strikes a target with this bullet hex, the attack deals d
 
 #### Stone Dead (Su)
 
-When the deadeye hexer strikes a creature with this bullet hex, the attack deals damage as normal, and the target must succeed at a Fortitude save or be [petrified](../../../rules/appendices/conditions.md#petrified) as if affected by *lesh to stone*. If the target is returned to its original state, however, it must make another Fort save at the same DC or die. The second save is a death effect. Creatures killed in this manner can be returned to life with *raise dead*, *resurrection*, or similar effects. A *miracle* or *wish* can restore the creature to its original state and negate the death effect. Creatures immune to petrification are unaffected by this bullet hex. Whether or not the save is successful, a creature cannot be the target of this bullet hex again for 1 day.
+When the deadeye hexer strikes a creature with this bullet hex, the attack deals damage as normal, and the target must succeed at a Fortitude save or be [petrified 1](../../../rules/appendices/conditions.md#petrified) as if affected by *lesh to stone*. If the target is returned to its original state, however, it must make another Fort save at the same DC or die. The second save is a death effect. Creatures killed in this manner can be returned to life with *raise dead*, *resurrection*, or similar effects. A *miracle* or *wish* can restore the creature to its original state and negate the death effect. Creatures immune to petrification are unaffected by this bullet hex. Whether or not the save is successful, a creature cannot be the target of this bullet hex again for 1 day.
 
 ## Favored Class Options
 

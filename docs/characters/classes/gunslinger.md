@@ -158,7 +158,7 @@ At 19th level, when the gunslinger scores a critical hit, she can spend 1 grit p
 
 #### Stunning Shot (Ex)
 
-At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger’s level + the gunslinger’s Wisdom modifier). If the creature fails, it is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger’s level + the gunslinger’s Wisdom modifier). If the creature fails, it is [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
 ### Nimble (Ex)
 

@@ -106,6 +106,6 @@ Inflicting pain is one of the few sensations that still stirs you.
 
 **Prerequisite**: Eerie perception*.
 
-**Gift**: Whenever you deal weapon damage to a creature that you are flanking or a creature that is denied its Dexterity bonus to its AC against you, you can inflict a painful wound as an immediate action. The target must succeed at a Fortitude saving throw or be nauseated by pain for 1 round. If the target succeeds at the save, it is sickened for 1 round and becomes immune to your further uses of this ability for 24 hours.
+**Gift**: Whenever you deal weapon damage to a creature that you are flanking or a creature that is denied its Dexterity bonus to its AC against you, you can inflict a painful wound as an immediate action. The target must succeed at a Fortitude saving throw or be nauseated 1 by pain for 1 round. If the target succeeds at the save, it is sickened for 1 round and becomes immune to your further uses of this ability for 24 hours.
 
 **Stain**: Your eyes turn a milky white, utter black, or pale yellow, making you appear blind although you can see normally in most circumstances. You gain light blindness, causing you to be blinded for 1 round whenever you are exposed to daylight or another source of bright light and dazzled for as long as you remain in bright light thereafter.

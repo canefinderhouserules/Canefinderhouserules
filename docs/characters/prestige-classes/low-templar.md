@@ -60,7 +60,7 @@ A low templar melds the stately forms of jousting and chivalric standards with t
 | d6 | Result |
 |---|---|
 | 1 | Target is staggered for 1 round |
-| 2 | Target is nauseated for 1 round |
+| 2 | Target is nauseated 1 for 1 round |
 | 3 | Target is deafened for 1 round |
 | 4 | Target is blinded for 1 round |
 | 5 | Target is sickened for 1 minute |

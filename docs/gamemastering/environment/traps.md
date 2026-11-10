@@ -380,7 +380,7 @@ The following traps are available to kobolds. At the GM’s discretion, other ra
 
 **Type** mechanical; **Perception** DC 25; **Disable Device** DC 25  
 **Trigger** location; **Reset** repair  
-**Effect** Atk +10 melee (1d6+6); rotting badger (nauseated for 1d3 rounds, DC 20 Fortitude negates); multiple targets (all targets within 10 feet must attempt to save against the rotting badger)
+**Effect** Atk +10 melee (1d6+6); rotting badger (nauseated 1 for 1d3 rounds, DC 20 Fortitude negates); multiple targets (all targets within 10 feet must attempt to save against the rotting badger)
 
 ## Trap Challenge Rating Tables
 

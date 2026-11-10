@@ -519,7 +519,7 @@ This quartet of books is held together by a shining silver strand wound around t
 
 These four cloth-bound books are neatly printed—as with a printing press or some other form of mechanical transcription— with a title page, a table of contents, and a useful cross-referenced index. They have been treated well and are clearly reference works, rather than laboratory notes; the writer was obviously a most disciplined and focused inventor.
 
-**Protection** The cover is treated with tears of death poison (contact; save Fort DC 22; onset 1 minute; frequency 1/ minute for 6 minutes; effect 1d6 Con damage and [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1 minute).
+**Protection** The cover is treated with tears of death poison (contact; save Fort DC 22; onset 1 minute; frequency 1/ minute for 6 minutes; effect 1d6 Con damage and [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) for 1 minute).
 
 **Value** 6,500 gp (11,000 gp with the preparation ritual)
 

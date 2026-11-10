@@ -23,7 +23,7 @@ The effects are concurrent. A creature can attempt a Will save to reduce or nega
 
 **Staggered**: The creature is [staggered](../../rules/appendices/conditions.md#staggered) for 2d4 rounds, or for 1d4 rounds on a successful Will save.
 
-**Nauseated**: The creature is [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d10 minutes, or for 1d4 rounds on a successful Will save.
+**Nauseated**: The creature is [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1d10 minutes, or for 1d4 rounds on a successful Will save.
 
 **Killed**: Living creatures die, and undead creatures are destroyed. On a successful Will save, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).
 

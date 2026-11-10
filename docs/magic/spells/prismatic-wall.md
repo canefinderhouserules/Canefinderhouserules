@@ -22,7 +22,7 @@ The wall can be destroyed, color by color, in consecutive order, by casting the 
 | 2nd | Orange | Stops magical ranged weapons. Deals 40 points of acid damage (Reflex half). |
 | 3rd | Yellow | Stops poisons, gases, and petrification. Deals 80 points of electricity damage (Reflex half). |
 | 4th | Green Poison (frequency: 1/rd. for 6 rd.; init. effect: death, sec. effect: 1 Con/rd.; cure 2 consecutive Fort saves). | Stops breath weapons. |
-| 5th | Blue | Stops divination and mental attacks. Turned to stone (Fortitude negates). |
+| 5th | Blue | Stops divination and mental attacks. [Petrified 1](../../rules/appendices/conditions.md#petrified), as *flesh to stone* (Fortitude negates). |
 | 6th | Indigo | Stops all spells. Will save or become insane (as *insanity* spell). |
 | 7th | Violet | Energy field destroys all objects and effects.* Creatures sent to another plane (Will negates). |
 | * magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above). | The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain |  |

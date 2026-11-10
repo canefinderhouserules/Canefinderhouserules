@@ -776,7 +776,7 @@ Your blast bores through an enemy’s brain, effectively destroying it. Those af
 
 **Associated Blast(s):** acidic bolt, electric, encephalon, false reality, gigawatt, mental, thunder flash.
 
-Your blast overloads a target’s mind, causing them to seize up. A foe dealt damage by this infusion is [paralyzed](../../../rules/appendices/conditions.md#paralyzed) for 1 round per 3 kineticist levels you possess.
+Your blast overloads a target’s mind, causing them to seize up. A foe dealt damage by this infusion is [paralyzed 1](../../../rules/appendices/conditions.md#paralyzed) for 1 round per 3 kineticist levels you possess.
 
 **Notes**
 

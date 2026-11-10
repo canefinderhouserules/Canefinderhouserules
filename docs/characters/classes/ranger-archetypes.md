@@ -244,7 +244,7 @@ Effect The trap resonates at a high-pitched frequency audible only to creatures 
 
 **Effects**
 
-Effect A ranger can add this to a smoke trap. The smoke this trap creates is extremely noxious. Any breathing creature must succeed at a Fortitude saving throw (in addition to the Fortitude save for the smoke trap) or be [nauseated](../../rules/appendices/conditions.md#nauseated) every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. If this is an extraordinary trap, the ranger must use a toxic material when setting the trap, such as a noxious aromatic.
+Effect A ranger can add this to a smoke trap. The smoke this trap creates is extremely noxious. Any breathing creature must succeed at a Fortitude saving throw (in addition to the Fortitude save for the smoke trap) or be [nauseated 1](../../rules/appendices/conditions.md#nauseated) every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. If this is an extraordinary trap, the ranger must use a toxic material when setting the trap, such as a noxious aromatic.
 
 ### Transdimensional Trap\* (Su)
 
@@ -1101,11 +1101,11 @@ Lantern lighters help rescue those imprisoned by the drow and help individual dr
 
 **Poison Immunity (Ex)**: At 12th level, a lantern lighter gains immunity to poison. This ability replaces [camouflage](ranger.md#camouflage-ex).
 
-**Stunning Light (Su)**: At 13th level, a lantern lighter learns to increase the effectiveness of bright light on creatures with light blindness. *Daylight* spells cast by the lantern lighter or other sources of bright light he wields cause creatures with light blindness within the area of bright light to become [stunned](../../rules/appendices/conditions.md#stunned) for 1 round in addition to being blinded. This ability replaces the favored terrain gained at 13th level.
+**Stunning Light (Su)**: At 13th level, a lantern lighter learns to increase the effectiveness of bright light on creatures with light blindness. *Daylight* spells cast by the lantern lighter or other sources of bright light he wields cause creatures with light blindness within the area of bright light to become [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round in addition to being blinded. This ability replaces the favored terrain gained at 13th level.
 
 **Camouflage (Ex)**: At 17th level, a lantern lighter gains camouflage, as the [ranger class feature](ranger.md#camouflage-ex). This ability replaces [hide in plain sight](ranger.md#hide-in-plain-sight-ex).
 
-**Paralyzing Light (Su)**: At 18th level, a lantern lighter can stop light-blind enemies in their tracks. *Daylight* spells cast by the lantern lighter or sources of bright light wielded by him cause creatures with light blindness within the area of bright light to become [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1 round in addition to being blinded and stunned. This ability replaces the favored terrain gained at 18th level.
+**Paralyzing Light (Su)**: At 18th level, a lantern lighter can stop light-blind enemies in their tracks. *Daylight* spells cast by the lantern lighter or sources of bright light wielded by him cause creatures with light blindness within the area of bright light to become [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) for 1 round in addition to being blinded and stunned. This ability replaces the favored terrain gained at 18th level.
 
 ## Raven Master
 

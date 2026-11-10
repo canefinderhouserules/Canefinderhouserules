@@ -8,7 +8,7 @@ Your possessed hand can act independently.
 
 **Benefit**: You reduce the penalties for fighting with two weapons (including fighting with double weapons or when throwing weapons from each hand) by 2, to a minimum penalty of –1. This benefit stacks with the [Two-Weapon Fighting](two-weapon-fighting.md) feat.
 
-When you are [unconscious](../appendices/conditions.md#unconscious), [paralyzed](../appendices/conditions.md#paralyzed), asleep, or [stunned](../appendices/conditions.md#stunned), your possessed hand can still act on your behalf in a limited fashion. The hand uses your statistics when performing any action in this manner. The hand can't take attacks of opportunity, but can draw attacks of opportunity from actions it takes. The hand can perform the following actions each turn on your initiative count.
+When you are [unconscious](../appendices/conditions.md#unconscious), [paralyzed 1](../appendices/conditions.md#paralyzed), asleep, or [stunned](../appendices/conditions.md#stunned), your possessed hand can still act on your behalf in a limited fashion. The hand uses your statistics when performing any action in this manner. The hand can't take attacks of opportunity, but can draw attacks of opportunity from actions it takes. The hand can perform the following actions each turn on your initiative count.
 
 - The hand can retrieve or pick up an item or weapon as a standard action.
 - The hand can attempt any of the following skill checks at a –4 penalty: [Disable Device](../skills/disable-device.md), [Escape Artist](../skills/escape-artist.md), [Heal](../skills/heal.md), [Sleight of Hand](../skills/sleight-of-hand.md), or [Use Magic Device](../skills/use-magic-device.md).

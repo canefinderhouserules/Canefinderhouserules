@@ -157,7 +157,7 @@ Unless otherwise indicated, drawbacks remain in effect as long as the item is po
 | 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it. |
 | 50–51 | Character’s alignment changes. |
 | 52–54 | Character must attack nearest creature (5% chance [01–05 on d%] each day). |
-| 55–57 | Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day). |
+| 55–57 | Character is stunned 1 for 1d4 rounds once item function is finished (or randomly, 1/day). |
 | 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision). |
 | 61–64 | Character gains one negative level. |
 | 65 | Character gains two negative levels. |

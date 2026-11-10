@@ -22,7 +22,7 @@ A character who has the channel energy ability from a class other than cleric ma
 
 **Air/Sky/Wind**: Heal—Creatures gain a channel bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Fly](../../rules/skills/fly.md) checks, saving throws against wind effects, and effects with the air descriptor until the end of your next turn. Harm—Creatures are buffeted with wind until the end of your next turn; this wind gives them a channel penalty on ranged attacks, and their movement is halved if they move toward you.
 
-**Ale/Wine**: Heal—Creatures ignore the [nauseated](../../rules/appendices/conditions.md#nauseated) and [sickened](../../rules/appendices/conditions.md#sickened) conditions, as well as ability damage and drain from poison, until the end of your next turn. This does not bring back to life creatures killed by Constitution damage. Harm—Creatures are nauseated for 1 round.
+**Ale/Wine**: Heal—Creatures ignore the [nauseated](../../rules/appendices/conditions.md#nauseated) and [sickened](../../rules/appendices/conditions.md#sickened) conditions, as well as ability damage and drain from poison, until the end of your next turn. This does not bring back to life creatures killed by Constitution damage. Harm—Creatures are nauseated 1 for 1 round.
 
 **Art/Music**: Heal—Creatures gain a channel bonus on [Perform](../../rules/skills/perform.md) checks and on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute. Harm—Creatures take a channel penalty on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute.
 
@@ -86,7 +86,7 @@ Alternatively, you may repair damage to metal objects and metal constructs as if
 
 **Pain**: Heal—Creatures gain a channel bonus on pain effect saves for 1 minute.
 
-Harm—Creatures are sickened until the end of your next turn, plus a number of rounds equal to your channel penalty. At cleric level 10, you may select one creature to be nauseated in addition to the effects of the channeled energy.
+Harm—Creatures are sickened until the end of your next turn, plus a number of rounds equal to your channel penalty. At cleric level 10, you may select one creature to be nauseated 1 in addition to the effects of the channeled energy.
 
 **Poison**: Heal—Creatures gain a channel bonus on poison saves for 1 minute. Harm—Creatures take 1 point of Strength, Dexterity, or Constitution damage (your choice) as a poison effect.
 
@@ -275,7 +275,7 @@ Unlike most clerics, a fiendish vessel must pick as her patron an evil deity, an
 | Demon lord | CE | Chaos, Evil, and two others | Quasit |
 | Horseman | NE | Evil, plus Death, Destruction, or War | Cacodaemon |
 
-Channeling this evil causes a burst that affects all creatures in a 30-foot radius centered on the fiendish vessel. In the case of evil creatures, the amount of damage healed is equal to 1d4 points of damage and increases by 1d4 at every two levels beyond 1st (to a maximum of 10d4 at 19th level). Good creatures in the burst receive a Will saving throw to negate this damage. Good creatures that fail their saving throws are sickened for 1d4 rounds. Good creatures with a number of Hit Dice less than or equal to the fiendish vessel’s class level – 5 that fail their saving throws are nauseated for 1 round and then sickened for 1d4 rounds instead. The DC of this save is equal to 10 + 1/2 the fiendish vessel’s level + the fiendish vessel’s Charisma bonus. Neutral creatures are unaffected by this burst of evil energy.
+Channeling this evil causes a burst that affects all creatures in a 30-foot radius centered on the fiendish vessel. In the case of evil creatures, the amount of damage healed is equal to 1d4 points of damage and increases by 1d4 at every two levels beyond 1st (to a maximum of 10d4 at 19th level). Good creatures in the burst receive a Will saving throw to negate this damage. Good creatures that fail their saving throws are sickened for 1d4 rounds. Good creatures with a number of Hit Dice less than or equal to the fiendish vessel’s class level – 5 that fail their saving throws are nauseated 1 for 1 round and then sickened for 1d4 rounds instead. The DC of this save is equal to 10 + 1/2 the fiendish vessel’s level + the fiendish vessel’s Charisma bonus. Neutral creatures are unaffected by this burst of evil energy.
 
 A fiendish vessel may channel this energy a number of times per day equal to 3 + her Charisma modifier. Doing so is a standard action that does not provoke attacks of opportunity. A fiendish vessel can choose whether or not to include herself in this effect. A fiendish vessel must present her unholy symbol or use her familiar as the divine focus for this ability.
 

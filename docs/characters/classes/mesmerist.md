@@ -312,7 +312,7 @@ The mesmerist can choose a spell to strike back at enemy spellcasters. When the 
 
 #### Vision of Blood
 
-When an enemy is struck by the subject, it believes its wound is far more severe, and the shock overwhelms it. The mesmerist can trigger this trick when the subject hits with an attack using a weapon, a natural weapon, or an unarmed strike. The attack’s target must succeed at a Will saving throw or be stunned for 1 round. If the triggering attack was a critical hit, the target doesn’t get a saving throw.
+When an enemy is struck by the subject, it believes its wound is far more severe, and the shock overwhelms it. The mesmerist can trigger this trick when the subject hits with an attack using a weapon, a natural weapon, or an unarmed strike. The attack’s target must succeed at a Will saving throw or be stunned 1 for 1 round. If the triggering attack was a critical hit, the target doesn’t get a saving throw.
 
 ### Rule Minds (Su)
 

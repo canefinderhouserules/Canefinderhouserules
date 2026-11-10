@@ -20,7 +20,7 @@ This armor pushes back against anything that threatens to knock its wearer to th
 
 This armor exudes an exceptionally vile and bitter taste whenever something bites or swallows a creature that is wearing it. Any creature that grapples the wearer with a bite attack (or any other attack using the mouth) must succeed at a DC 14 Fortitude save to avoid immediately ending the grapple.
 
-If the wearer is swallowed whole, the swallowing creature must succeed at a DC 14 Fortitude save at the start of each turn that the armored victim remains alive inside of the creature or become nauseated for 1 round. The creature may vomit up the victim as a standard action. This is a poison effect.
+If the wearer is swallowed whole, the swallowing creature must succeed at a DC 14 Fortitude save at the start of each turn that the armored victim remains alive inside of the creature or become nauseated 1 for 1 round. The creature may vomit up the victim as a standard action. This is a poison effect.
 
 *Faint transmutation; CL 5th; Craft Magic Arms and Armor, stinking cloud; Price +1 bonus.*
 
@@ -396,7 +396,7 @@ This muddy brown *+1 hide armor* carries a fetid stench like raw sewage, and occ
 
 Any creature ending its turn adjacent to the wearer becomes sickened (Fortitude DC 13 negates) for as long as it remains adjacent to the wearer and for 1 round thereafter. A creature that strikes the wearer with a bite attack is affected the same way, even if it possesses exceptional reach and attacks while not adjacent to the wearer. If the wearer is swallowed whole, the attacker is automatically sickened and must succeed at a DC 13 Fortitude save at the beginning of its turn or be forced to regurgitate and drop the wearer harmlessly in an adjacent square (though the wearer is knocked prone during the regurgitation). Creatures with the scent ability suffer a –2 penalty to their saving throw against the stench of the *otyugh armor*. These abilities are poison effects; creatures immune to poison are immune to these effects as well. The wearer is immune to this effect.
 
-The wearer gains a +2 competence bonus on saves against disease, poison, and any effect that would cause her to become nauseated or sickened.
+The wearer gains a +2 competence bonus on saves against disease, poison, and any effect that would cause her to become nauseated 1 or sickened.
 
 **Construction** Craft Magic Arms and Armor, *contagion, stinking cloud*; **Cost** 1,365 gp
 
@@ -452,7 +452,7 @@ The wearer can reintegrate a weapon back into the *warden of the woods* as a mov
 **Aura** strong evocation; **CL** 12th  
 **Price** 19,170 gp; **Weight** 10 lbs.
 
-The front of this *+1 bashing heavy steel shield* looks as though it is crafted from hundreds of bits of rubble and larger stones. When used to make a shield bash attack, stones fall from shield and cling to the target of the shield bash. The target must succeed at a DC 14 Fortitude saving throw or be entangled for 1d4 rounds. Once per day on command, the target’s wielder can choose to petrify the target of a shield bash instead. The target must succeed at a DC 16 Fortitude saving throw or become petrified for 1 minute.
+The front of this *+1 bashing heavy steel shield* looks as though it is crafted from hundreds of bits of rubble and larger stones. When used to make a shield bash attack, stones fall from shield and cling to the target of the shield bash. The target must succeed at a DC 14 Fortitude saving throw or be entangled for 1d4 rounds. Once per day on command, the target’s wielder can choose to petrify the target of a shield bash instead. The target must succeed at a DC 16 Fortitude saving throw or become petrified 1 for 1 minute.
 
 **Construction** Craft Magic Arms and Armor, *bull’s strength*, *shape stone*, *flesh to stone*; **Cost** 9,670 gp
 

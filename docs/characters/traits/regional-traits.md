@@ -374,7 +374,7 @@ These traits are granted by a specific breed of mount. A mount trait counts agai
 
 **Fleet of Foot** *(hill courser; statistics as a horse)*: While riding a hill courser, you treat your mount's base speed as 10 feet faster for the purpose of using the run or withdraw actions.
 
-**Nauseating Spit** *(trade camel; statistics as a camel)*: Trade camels are larger and shaggier than their cousins, with two humps and long hair. They are also ill-tempered even by camel standards, with a penchant for spitting when annoyed. Once per hour, a trade camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet as a ranged touch attack. The target must succeed at a Fortitude save (DC = 10 + half the camel's Hit Dice + the camel's Constitution modifier) or be nauseated for 1 round.
+**Nauseating Spit** *(trade camel; statistics as a camel)*: Trade camels are larger and shaggier than their cousins, with two humps and long hair. They are also ill-tempered even by camel standards, with a penchant for spitting when annoyed. Once per hour, a trade camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet as a ranged touch attack. The target must succeed at a Fortitude save (DC = 10 + half the camel's Hit Dice + the camel's Constitution modifier) or be nauseated 1 for 1 round.
 
 **Relentless Fortitude** *(dromedary; statistics as a camel)*: A dromedary heals nonlethal damage at a rate of 2 hit points per hour per Hit Die. This trait does not stack with other effects that increase a creature's rate of healing nonlethal damage.
 

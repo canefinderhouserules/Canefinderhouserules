@@ -274,7 +274,7 @@ A pack of ravenous ghouls descended upon a once-peaceful town, killing or transf
 **Notice** Perception DC 20 (to hear teeth scraping against bone)  
 **hp** 40; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: A swarm of disembodied mouths fills the area. Each humanoid creature in the area must succeed at a DC 21 Fortitude save or be paralyzed, as per *mass hold person*. The maws swarm around paralyzed creatures, dealing them 4d6 points of damage per round. Elves are immune to the effects of this haunt.
+**Effect**: A swarm of disembodied mouths fills the area. Each humanoid creature in the area must succeed at a DC 21 Fortitude save or be paralyzed 1, as per *mass hold person*. The maws swarm around paralyzed creatures, dealing them 4d6 points of damage per round. Elves are immune to the effects of this haunt.
 
 **Destruction**: Living (though not necessarily sentient) creatures with a combined weight of at least 10,000 pounds must be left in the area to be devoured over the course of a single day.
 
@@ -366,7 +366,7 @@ Tales of a legendary linnorm have drawn many daring adventurers who wish to prov
 **Notice** Perception DC 20 (to hear the sound of bones snapping)  
 **hp** 58; **Trigger** proximity; **Reset** 1 hour
 
-**Effect**: Several copies of the same colossal dragon’s tail snake through the haunt’s area. Each round, the tails attempt to grab and constrict each creature in the area (+18 to hit, 2d6+6 points of damage plus grab, CMB +35, constrict 2d6+18 points of damage). Each round a creature takes damage from the tail’s constrict ability, one of its limbs (randomly determined) snaps into pieces, and it must succeed at a DC 22 Fortitude save or be nauseated for 1d4 rounds. Cure spells are not sufficient to repair the severely broken bones this haunt produces—only *heal* or stronger magic can mend them. Snapped limbs cannot be used for any purpose; having a snapped leg reduces a creature’s movement speed by half when using its legs, and having more than half a creature’s legs snapped prevents it from using any form of movement that uses its legs.
+**Effect**: Several copies of the same colossal dragon’s tail snake through the haunt’s area. Each round, the tails attempt to grab and constrict each creature in the area (+18 to hit, 2d6+6 points of damage plus grab, CMB +35, constrict 2d6+18 points of damage). Each round a creature takes damage from the tail’s constrict ability, one of its limbs (randomly determined) snaps into pieces, and it must succeed at a DC 22 Fortitude save or be nauseated 1 for 1d4 rounds. Cure spells are not sufficient to repair the severely broken bones this haunt produces—only *heal* or stronger magic can mend them. Snapped limbs cannot be used for any purpose; having a snapped leg reduces a creature’s movement speed by half when using its legs, and having more than half a creature’s legs snapped prevents it from using any form of movement that uses its legs.
 
 **Destruction**: The crushing terror haunt is destroyed if the bodies of the linnorm’s victims are retrieved from the cave where it stores them, reassembled, and buried.
 

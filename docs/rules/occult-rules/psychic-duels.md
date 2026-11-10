@@ -88,7 +88,7 @@ If the manifestation allows a saving throw, the creator can spend additional MP 
 
 **Entangled (2 MP)**: The affected creatures are entangled until they take a full-round action to end this condition. This condition can be applied only to manifestations that require Reflex saves.
 
-**Nauseated (4 MP)**: The affected creatures are nauseated for 1 round. A nauseated creature can create only defensive manifestations. This condition can be applied only to manifestations that require Fortitude saves.
+**Nauseated (4 MP)**: The affected creatures are nauseated 1 for 1 round. A nauseated creature can create only defensive manifestations. This condition can be applied only to manifestations that require Fortitude saves.
 
 **Shaken (1 MP)**: The affected creatures are shaken for 1d4 rounds. This condition can be applied only to manifestations that require Will saves.
 

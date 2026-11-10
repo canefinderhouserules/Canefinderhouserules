@@ -126,7 +126,7 @@ Devoted muses spend panache points to accomplish deeds. Most deeds grant the dev
 
 - **Deadly Stab (Ex)**: At 19th level, when the devoted muse confirms a critical hit with a light or one-handed piercing melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw or die. The DC of this save is 10 + 1/2 the devoted muse’s level + the devoted muse’s Dexterity modifier. This is a death attack. Performing this deed does not grant the devoted muse a panache point.
 
-- **Stunning Stab (Ex)**: At 19th level, when a devoted muse hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the devoted muse’s level + the devoted muse’s Dexterity modifier) or [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+- **Stunning Stab (Ex)**: At 19th level, when a devoted muse hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the devoted muse’s level + the devoted muse’s Dexterity modifier) or [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
 #### Aligned Class (Ex)
 

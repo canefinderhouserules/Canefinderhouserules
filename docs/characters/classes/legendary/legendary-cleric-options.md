@@ -576,7 +576,7 @@ As a swift action, you can spend 1 point of faith to double all morale bonuses a
 
 At 16th level, your visage becomes so impressive that it roots people to the ground.
 
-When you successfully demoralize a shaken enemy, you can spend 1 point of faith to make them [staggered](../../../rules/appendices/conditions.md#staggered) instead for the same duration. When you successfully demoralize a staggered enemy, you can spend 1 point of faith to make them paralyzed for one round.
+When you successfully demoralize a shaken enemy, you can spend 1 point of faith to make them [staggered](../../../rules/appendices/conditions.md#staggered) instead for the same duration. When you successfully demoralize a staggered enemy, you can spend 1 point of faith to make them paralyzed 1 for one round.
 
 **Doctrine of Victory**
 
@@ -1030,7 +1030,7 @@ You become permanently under the effects of death ward. As a standard action, yo
 
 **Exhausting Channel (Su)**
 
-Starting at 16th level, you can spend 1 point of faith and a use of channel as a standard action to sap the energy from creatures around you. Enemies within 30 feet of you must make a Will save against your channel DC. Living creatures who fail become [fatigued](../../../rules/appendices/conditions.md#fatigued), and undead creatures become staggered for the duration of the Turn Undead effect. A living creature who is already fatigued instead falls asleep, while an undead creature who is already staggered becomes paralyzed, even if they would be immune to paralysis.
+Starting at 16th level, you can spend 1 point of faith and a use of channel as a standard action to sap the energy from creatures around you. Enemies within 30 feet of you must make a Will save against your channel DC. Living creatures who fail become [fatigued](../../../rules/appendices/conditions.md#fatigued), and undead creatures become staggered for the duration of the Turn Undead effect. A living creature who is already fatigued instead gains [sleep 1](../../../rules/appendices/conditions.md#sleep), while an undead creature who is already staggered becomes paralyzed, even if they would be immune to paralysis.
 
 **Domain Spells**
 
@@ -1180,7 +1180,7 @@ As a swift action, you can spend 1 point of faith to grow one size category, as 
 
 **Titanic Blows (Su)**
 
-Starting at 16th level, while you are under the effects of might of the gods or giant’s stature, any creature struck by one of your melee attacks must succeed at a Fortitude save or be [stunned](../../../rules/appendices/conditions.md#stunned) for one round.
+Starting at 16th level, while you are under the effects of might of the gods or giant’s stature, any creature struck by one of your melee attacks must succeed at a Fortitude save or be [stunned 1](../../../rules/appendices/conditions.md#stunned) for one round.
 
 **Domain Spells**
 
@@ -1340,7 +1340,7 @@ Burdened with this knowledge, you invoke the powers of the absurd as devastating
 
 **All-Consuming Expanse (Su)**
 
-Whenever you use part the veil, you may affect a number of creatures up to half your cleric level. In addition, rather than confused, you may choose to have targets that fail their Will save become frightened for the duration they would be confused or stunned for 1 round.
+Whenever you use part the veil, you may affect a number of creatures up to half your cleric level. In addition, rather than confused, you may choose to have targets that fail their Will save become frightened for the duration they would be confused or stunned 1 for 1 round.
 
 **Roguish Escape (Su)**
 

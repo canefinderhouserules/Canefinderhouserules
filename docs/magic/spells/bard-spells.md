@@ -149,7 +149,7 @@
 - **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Sotto Voce](sotto-voce.md)**: Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
@@ -200,7 +200,7 @@
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
-- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Babble](babble.md)**: Target becomes nauseated 1 and nearby creatures become fascinated.
 - **[Beacon of Guilt](beacon-of-guilt.md)**: Curse a thief to glow with red light
 - **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
@@ -504,7 +504,7 @@
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Respectful Quiet](respectful-quiet.md)**: All targets are rendered silent, as per silence.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
 - **[Sand Table](sand-table.md)**: Create a scale model of the surrounding battlefield
@@ -848,7 +848,7 @@ New spells from *Ultimate Magic*. An M or F after a name marks a material or foc
 ### 5th-Level Bard Spells
 
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
-- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned.
+- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned 1.
 - **[Resonating Word](resonating-word.md)**: Target is damaged, staggered, and stunned.
 - **[Shadowbard](shadowbard.md)**: Shadowy duplicate starts a bardic performance.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.

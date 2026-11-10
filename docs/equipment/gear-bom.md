@@ -32,7 +32,7 @@ These pouchlike boots come in sets of four, and can be placed on an animal's paw
 
 **Price** 180 gp; **Weight** —
 
-A creature with DR/silver can swallow these bitter-tasting capsules of concentrated alchemical silver to convert its damage reduction to DR/— for 2d4 rounds. When this effect ends, the creature is nauseated for 1 round. A creature can only benefit from silver drops once per 24 hours. Crafting this item requires a successful DC 30 Craft (alchemy) check.
+A creature with DR/silver can swallow these bitter-tasting capsules of concentrated alchemical silver to convert its damage reduction to DR/— for 2d4 rounds. When this effect ends, the creature is nauseated 1 for 1 round. A creature can only benefit from silver drops once per 24 hours. Crafting this item requires a successful DC 30 Craft (alchemy) check.
 
 ## Silvercloud Oil
 

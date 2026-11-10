@@ -132,7 +132,7 @@ The following racial traits augment the defenses of members of the race.
 
 **Plagueborn (1 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming nauseated or sickened.
+*Benefit*: Members of this race gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming nauseated 1 or sickened.
 
 **Poison Resistance (3 RP)**  
 *Prerequisites*: None  

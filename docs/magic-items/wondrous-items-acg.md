@@ -520,7 +520,7 @@ This grotesque collar is useful to any witch who is eager to form a coven, but w
 
 ***Champion of the Unbound Coven***: If the wearer joins a coven, the coven can ignore the requirement to have at least one hag as a member. Each of the coven members must still have the coven hex, and one of the members must be at least a 9th-level witch.
 
-***Dreadful Gaze***: Three times per day as a swift action, the wearer can command the hags' heads to lock their terrible gazes on one humanoid within 30 feet. The target of this gaze attack must succeed at a DC 15 Will save or become paralyzed with terror (as the effect of the *hold person* spell). This is a mind-affecting fear effect.
+***Dreadful Gaze***: Three times per day as a swift action, the wearer can command the hags' heads to lock their terrible gazes on one humanoid within 30 feet. The target of this gaze attack must succeed at a DC 15 Will save or become paralyzed 1 with terror (as the effect of the *hold person* spell). This is a mind-affecting fear effect.
 
 ***Hag Form***: Once per day as a standard action, the wearer can assume the form of a powerfully built Medium crone that resembles the horrific union of an annis hag, a green hag, and a sea hag. This metamorphosis is identical to the *transformation* spell, including the violent change to the wearer's mindset and the loss of spellcasting ability.
 

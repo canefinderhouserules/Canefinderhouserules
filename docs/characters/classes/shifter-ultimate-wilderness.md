@@ -216,7 +216,7 @@ The aspect of the electric eel imparts the ability to charge attacks with electr
 
 **Minor Form**: Your attacks deal 1 point of electricity damage in addition to their normal damage. This additional electricity damage increases to 1d3 at 8th level and 1d6 at 15th level.
 
-**Major Form**: Your shape changes to that of an electric eel. While in this form, you gain a swim speed of 30 feet, low-light vision, electricity resistance 5, a bite attack (1d6), and a tail attack (a secondary natural touch attack that deals 1d6 points of electricity damage). At 8th level, your electricity resistance increases to 10 and you gain a +4 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks. At 15th level, on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be [stunned](../../rules/appendices/conditions.md#stunned) for 1d4 rounds.
+**Major Form**: Your shape changes to that of an electric eel. While in this form, you gain a swim speed of 30 feet, low-light vision, electricity resistance 5, a bite attack (1d6), and a tail attack (a secondary natural touch attack that deals 1d6 points of electricity damage). At 8th level, your electricity resistance increases to 10 and you gain a +4 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks. At 15th level, on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be [stunned 1](../../rules/appendices/conditions.md#stunned) for 1d4 rounds.
 
 ### Falcon
 

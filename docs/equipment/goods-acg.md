@@ -324,7 +324,7 @@ Applying this herbal salve to a bleeding wound cures 1 point of damage and preve
 
 **Price** 20 gp; **Weight** 1 lb.
 
-This liquid causes a pleasant warming sensation when consumed. For the next hour, you gain a +2 morale bonus on saving throws against fear. Using more than 1 dose within 24 hours causes you to become nauseated for 1 hour.
+This liquid causes a pleasant warming sensation when consumed. For the next hour, you gain a +2 morale bonus on saving throws against fear. Using more than 1 dose within 24 hours causes you to become nauseated 1 for 1 hour.
 
 ### Poison Ward Salve
 

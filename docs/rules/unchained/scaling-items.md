@@ -730,7 +730,7 @@ These ragged robes are threadbare and frayed, caked with dirt and grime. Through
 
 **13th Level**: The rags’ diseases become more communicable. Any living creature striking the wearer with a bite attack contracts filth fever. A successful DC 14 Fortitude negates the disease. Oozes and vermin are immune to this effect, as are creatures such as otyughs and rats that are at home in exceptional filth.
 
-**16th Level**: Army ants build a colony within the rags, and the rags’ filth becomes utterly vile. The wearer can also choose army ants when using vomit swarm. Any biting creature that fails its saving throw against the rags’ filth fever becomes nauseated for 1d4 rounds, and even on a successful save, the creature is still sickened for 1 round.
+**16th Level**: Army ants build a colony within the rags, and the rags’ filth becomes utterly vile. The wearer can also choose army ants when using vomit swarm. Any biting creature that fails its saving throw against the rags’ filth fever becomes nauseated 1 for 1d4 rounds, and even on a successful save, the creature is still sickened for 1 round.
 
 **Requirements** Craft Wondrous Item, contagion, remove sickness, stinking cloud, vomit swarm; **Cost** 23,625 gp
 

@@ -165,7 +165,7 @@ This orange liquid burns regardless of temperature, which its drow creators clai
 
 **Type** poison, ingested; **Save** Fortitude DC 12  
 **Onset** 10 minutes; **Frequency** 1/minute for 2 minutes  
-**Effect** After the first failed saving throw, the target is sickened for 1 minute, and after a second failure, the target is nauseated for 1 minute; **Cure** 1 save
+**Effect** After the first failed saving throw, the target is sickened for 1 minute, and after a second failure, the target is nauseated 1 for 1 minute; **Cure** 1 save
 
 This mixture is a favorite of pranksters, who use the colonic concoction for any number of reasons, such as to incommode a nosy interlocutor.
 
@@ -281,7 +281,7 @@ Crafted by interrogators as an apparent truth serum, gray justice makes victims 
 
 **Type** poison, contact; **Save** Fortitude DC 16  
 **Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
-**Initial Effect** 1 Dex drain and nauseated for 1 minute; **Secondary Effect** 1d2 Dex drain and sickened for 1 minute; **Cure** 1 save
+**Initial Effect** 1 Dex drain and nauseated 1 for 1 minute; **Secondary Effect** 1d2 Dex drain and sickened for 1 minute; **Cure** 1 save
 
 **Recipe** (70 dew of lunary + 35 realgar + 70 urea)/digestion; **Craft DC** 16; **Time** 1 day; **Tools** heat source; **Type** poison
 
@@ -315,7 +315,7 @@ The wise alchemist takes careful precautions whenever handling hydrofluoric acid
 
 **Type** poison, inhaled; **Save** Fortitude DC 10 (creatures with the vermin type take a –5 penalty on the save)  
 **Frequency** 1/round for 3 rounds  
-**Effect** 1 Str damage (creatures with the vermin type are stunned for 1 round); **Cure** 1 save
+**Effect** 1 Str damage (creatures with the vermin type are stunned 1 for 1 round); **Cure** 1 save
 
 Farmers protecting their crops and landlords maintaining their properties use insecticide to clear out pest infestations, but they must avoid the fumes of this dangerous gas. While it is formulated to exterminate vermin, the poison poses a danger to anyone. A single dose of insecticide immediately fills a 10-foot-by-10-foot area. It can be thrown at a range of 20 feet, and it dissipates after 1d6 rounds in a well-ventilated area. A moderate wind disperses the gas in 1 round.
 
@@ -349,7 +349,7 @@ Swindlers claim this green capsule restores the victim's youth. After 1 day, any
 
 **Type** poison, ingested; **Save** Fortitude DC 20  
 **Onset** 1 minute; **Frequency** 1/round for 6 rounds  
-**Effect** 1d2 Constitution drain and 1d4 points of bleed damage. Blood (or an equivalent bodily fluid, if the imbiber does not have blood) flows from the target's eyes, causing the subject to be blinded for the duration of the bleed effect. This bleeding can be stopped as normal (with a successful DC 15 Heal check or the application of any magical healing); **Cure** 2 saves
+**Effect** 1d2 Constitution drain and 1d4 points of bleed damage. Blood (or an equivalent bodily fluid, if the imbiber does not have blood) flows from the target's eyes, causing the subject to be blinded for the duration of the bleed effect. This bleeding can be stopped as normal (with a successful DC 20 Heal check or the application of any magical healing); **Cure** 2 saves
 
 Consuming the flowers of this plant weakens the walls of the imbiber's veins, causing them to rupture.
 
@@ -446,7 +446,7 @@ Ossivane mimics the petrification capability of cockatrices, but the toxin relie
 
 **Type** poison, ingested; **Save** Fortitude DC 10  
 **Onset** 10 minutes; **Frequency** 1/minute for 15 minutes  
-**Effect** sickened for 1 minute; if the target is affected by a second dose while already under the effects of this poison, the victim is instead nauseated for 1 minute; **Cure** 1 save
+**Effect** sickened for 1 minute; if the target is affected by a second dose while already under the effects of this poison, the victim is instead nauseated 1 for 1 minute; **Cure** 1 save
 
 This mostly benign, malodorous mold induces temporary illness with no lasting effect, and it can be detected in food or drink with a DC 15 Perception check, unless the food is particularly pungent, in which case the Perception DC increases by up to 5. Named for students wishing to convincingly feign illness, anyone can easily cultivate this mold in dark, moist spaces.
 
@@ -529,7 +529,7 @@ This poison causes the affected creature to be sluggish and slow to react.
 
 **Type** poison, contact; **Save** Fortitude DC 22  
 **Onset** 1 minute; **Frequency** 1/minute for 6 minutes  
-**Effect** 1d6 Con damage and paralyzed for 1 minute
+**Effect** 1d6 Con damage and paralyzed 1 for 1 minute
 
 ### Terinav Root
 

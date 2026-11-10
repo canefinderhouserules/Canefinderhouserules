@@ -19,4 +19,4 @@ This spell creates an animated replica of the target drawn from the target's sub
 | 66–75 | Target is staggered (Fortitude negates) |
 | 76–85 | Target is fascinated by the living memory (Will negates) |
 | 86–95 | Target is frightened by the living memory (Will negates) |
-| 96–100 | Target is nauseated (Fortitude negates) |
+| 96–100 | Target is nauseated 1 (Fortitude negates) |

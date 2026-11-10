@@ -328,7 +328,7 @@ This black, iron bell is inscribed with diabolical symbols. The spherical clappe
 
 Once per day, when the wielder speaks a command word while ringing the bell (a standard action), lawful neutral or lawful evil creatures within a 20-foot radius that hear the toll and worship the bell's patron can say a prayer to that patron as a move action to be affected as per *ward the faithful*. The supplication must be said before the beginning of the wielder's next turn and within 20 feet of the bell.
 
-Chaotic or good creatures within a 20-foot radius that hear the toll must instead succeed at a DC 13 Will save or be affected as per *doom*. Creatures that are both chaotic and good that fail the Will save take 1d8 points of sonic damage and must succeed at a DC 13 Fortitude save or be stunned for 1 round.
+Chaotic or good creatures within a 20-foot radius that hear the toll must instead succeed at a DC 13 Will save or be affected as per *doom*. Creatures that are both chaotic and good that fail the Will save take 1d8 points of sonic damage and must succeed at a DC 13 Fortitude save or be stunned 1 for 1 round.
 
 Finally, any living creatures within a 20-foot radius that have –1 or fewer hit points must succeed at a DC 13 Will save or be slain as per *death knell*. At the beginning of the wielder's next turn, if the bell's *death knell* effect slew a creature, the wielder can then choose to grant the benefits of *death knell* to either himself or any one creature within sight that is benefiting from the bell's *ward the faithful* effect. Even if multiple enemy creatures fail their saving throws versus the *death knell* effect, only one creature gains the benefits.
 

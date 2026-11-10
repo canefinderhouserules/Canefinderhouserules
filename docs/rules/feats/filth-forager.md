@@ -4,4 +4,4 @@ Your regular exposure to the filth and unfortunate residues common to sewers and
 
 **Prerequisites**: —.
 
-**Benefit**: You gain a +4 bonus on all saving throws against diseases and any effect that would cause you to become [nauseated](../appendices/conditions.md#nauseated) or [sickened](../appendices/conditions.md#sickened).
+**Benefit**: You gain a +4 bonus on all saving throws against diseases and any effect that would cause you to become [nauseated 1](../appendices/conditions.md#nauseated) or [sickened](../appendices/conditions.md#sickened).

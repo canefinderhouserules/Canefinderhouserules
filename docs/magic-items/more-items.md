@@ -585,7 +585,7 @@ This staff is made of a single icicle that tapers to a sharpened point at each e
 
 This blade is a +1 human bane trident that has been passed down from chieftain to chieftain in a tribe for generations. This blade’s three-pronged head is crafted of magically strengthened seashells, and its haft is composed of rough, twisted coral that deals 1 point of damage each time it is grasped, unless the wielder has a natural armor bonus or is wearing gauntlets.
 
-As an immediate action after a successful melee attack with the trident, this blade’s wielder can transmute the substance of the target creature into rigid coral. This attack deals 1d4 points of Dexterity damage and slows the target (as the spell) for 1 round as its flesh calcifies. A DC 16 Fortitude save negates the slow effect but not the ability damage. A target reduced to 0 Dexterity is permanently petrified, transformed into inert, mindless coral. Break enchantment or restoration reverses all of the effects of this calcification. This ability can be used up to 7 times per day.
+As an immediate action after a successful melee attack with the trident, this blade’s wielder can transmute the substance of the target creature into rigid coral. This attack deals 1d4 points of Dexterity damage and slows the target (as the spell) for 1 round as its flesh calcifies. A DC 16 Fortitude save negates the slow effect but not the ability damage. A target reduced to 0 Dexterity is permanently petrified 1, transformed into inert, mindless coral. Break enchantment or restoration reverses all of the effects of this calcification. This ability can be used up to 7 times per day.
 
 ### Doubleshot Pepperbox
 

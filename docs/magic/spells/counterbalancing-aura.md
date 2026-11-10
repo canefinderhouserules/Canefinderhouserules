@@ -16,4 +16,4 @@ Second, a warded creature gains spell resistance 23 against spells cast by chaot
 
 Third, the spell protects warded creatures from possession and influence by such creatures (otherwise as [*protection from evil*](protection-from-evil.md)).
 
-Finally, if a chaotic neutral, lawful neutral, neutral evil, or neutral good creature successfully hits a warded creature with a melee attack, the attacker is [sickened](../../rules/appendices/conditions.md#sickened) for 1d6 rounds (Fortitude negates). If a neutral creature successfully hits a warded creature with a melee attack, the attacker is instead [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d6 rounds (Fortitude negates).
+Finally, if a chaotic neutral, lawful neutral, neutral evil, or neutral good creature successfully hits a warded creature with a melee attack, the attacker is [sickened](../../rules/appendices/conditions.md#sickened) for 1d6 rounds (Fortitude negates). If a neutral creature successfully hits a warded creature with a melee attack, the attacker is instead [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1d6 rounds (Fortitude negates).

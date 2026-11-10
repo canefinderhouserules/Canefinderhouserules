@@ -103,7 +103,7 @@ Once worn for 24 consecutive hours, an *eldritch scholar’s monocle* also prote
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** hands; **Price** 8,400 gp; **Weight** 1/2 lb.
 
-Each of these leather gloves has a large, ragged hole in the palm. Upon donning the gloves, the wearer is nauseated with pain for 1 round as the skin on his palms rips open, revealing terrible gashes that each sprout fangs, lips, and a tongue. While the wearer’s hands are empty, he can breathe, eat, drink, and speak through the mouths on his hands (though this doesn’t allow him to drink more potions in a round, speak with more than one voice at a time, or otherwise take more actions than normal). The wearer retains the use of his hands; the mouths remain shut while the wearer is holding items in his hands.
+Each of these leather gloves has a large, ragged hole in the palm. Upon donning the gloves, the wearer is nauseated 1 with pain for 1 round as the skin on his palms rips open, revealing terrible gashes that each sprout fangs, lips, and a tongue. While the wearer’s hands are empty, he can breathe, eat, drink, and speak through the mouths on his hands (though this doesn’t allow him to drink more potions in a round, speak with more than one voice at a time, or otherwise take more actions than normal). The wearer retains the use of his hands; the mouths remain shut while the wearer is holding items in his hands.
 
 The wearer receives a +2 enhancement bonus on combat maneuver checks to grapple a foe with his hands. If he begins his turn grappling with his hands, the wearer can make a free bite attack with one of the mouths on his hands. The bite is treated as a natural weapon and deals an amount of damage equal to 1d4 + his Strength modifier for a Medium wearer (1d3 + his Strength modifier if he’s Small).
 
@@ -297,7 +297,7 @@ This amethyst necklace is carved in the shape of a scarab beetle. When the weare
 
 #### Triskelion Talisman
 
-This bronze talisman is carved in the shape of three interlocking spirals. When the wearer fails a saving throw against an effect that would cause him to become entangled, paralyzed, or slowed, he receives a second saving throw. If he succeeds at the second saving throw, the wearer instead gains the benefits of *longstrider* for 5 rounds.
+This bronze talisman is carved in the shape of three interlocking spirals. When the wearer fails a saving throw against an effect that would cause him to become entangled, paralyzed 1, or slowed, he receives a second saving throw. If he succeeds at the second saving throw, the wearer instead gains the benefits of *longstrider* for 5 rounds.
 
 **Aura** faint transmutation; **CL** 3rd; **Price** 600 gp; **Requirements** Craft Wondrous Item, *longstrider*, *remove paralysis*; **Cost** 300 gp
 

@@ -76,7 +76,7 @@ This small bright-blue flower has five petals arrayed in a star shape and looks 
 
 **Price** 400 gp; **Weight** —
 
-**Type** poison, ingested; **Save** Fortitude DC 15; **Onset** 1 round; **Effect** nauseated for 5 rounds; **Cure** 1 save
+**Type** poison, ingested; **Save** Fortitude DC 15; **Onset** 1 round; **Effect** nauseated 1 for 5 rounds; **Cure** 1 save
 
 Invented as part of a series of dares between feuding goblin camps, this noxious brew fermented from a slurry of swamp flora is a favored concoction of goblin tribes. The potent intoxicant is popular among goblinoids (who are immune to its nauseating effect), but all other races that partake of this frothy drink are wracked with nausea.
 
@@ -108,7 +108,7 @@ This yellow-brown mushroom is commonly found in deserts and other dry environmen
 
 **Price** 75 gp; **Weight** —
 
-**Type** poison, ingested; **Save** Fortitude DC 13; **Onset** 1 minute; **Frequency** 1/minute for 6 minutes; **Effect** 1 Con damage and the creature is nauseated for 1 minute; **Cure** 1 save
+**Type** poison, ingested; **Save** Fortitude DC 13; **Onset** 1 minute; **Frequency** 1/minute for 6 minutes; **Effect** 1 Con damage and the creature is nauseated 1 for 1 minute; **Cure** 1 save
 
 These bright red seeds feature a single black dot each, giving them a superficial resemblance to an eye. The bright colors of the seeds make them attractive to certain animals, as well as those unfamiliar with wilderness lore. A character who succeeds at a DC 15 Knowledge (nature) or Survival check identifies the seed as poisonous. In some places, the seeds are used as jewelry.
 

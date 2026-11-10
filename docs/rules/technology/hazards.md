@@ -33,7 +33,7 @@ Glitching armor that loses its ability to function still provides the normal arm
 | d% | Glitch |
 |---|---|
 | 01–02 | Armor abilities don’t function. All remaining charges are drained. |
-| 03–05 | Armor seizes up and abilities don’t function. The wearer is paralyzed for 1 round. |
+| 03–05 | Armor seizes up and abilities don’t function. The wearer is paralyzed 1 for 1 round. |
 | 06–10 | Armor doesn’t function, but still consumes the normal number of charges. |
 | 11–18 | Armor doesn’t function, but no charges are lost. |
 | 19–50 | Armor uses twice as many charges as normal (or expends an extra activation’s worth of charges if already active). |
@@ -51,7 +51,7 @@ Timeworn pharmaceuticals have a chance of glitching when the dose is administere
 |---|---|
 | 01–02 | Spoiled. Treat as poisoning by dark reaver powder. |
 | 03–11 | Spoiled. Treat as exposure to red ache. |
-| 12–20 | Spoiled. Patient is nauseated for 1d6 rounds. |
+| 12–20 | Spoiled. Patient is nauseated 1 for 1d6 rounds. |
 | 21–30 | Spoiled. Patient sickened for 1d6 × 10 minutes. |
 | 31–40 | Spoiled. No effect. |
 | 41–50 | Less potent. Decrease all save DCs by 2*. Use minimum values for all random results (such as healing). Decrease durations by 50%. |

@@ -1369,7 +1369,7 @@ N Diminutive plant
 
 #### Special Abilities
 
-**Self-Petrification (Ex)** A petrifern can petrify itself as a standard action in order to defend itself from predators. When it does so, the petrifern’s natural armor bonus to AC increases by 5, it gains resistance 10 to cold and fire, and it can take 20 on Stealth checks to appear as a sprout or fallen tree branch. While [petrified](../../rules/appendices/conditions.md#petrified), the petrifern can’t move or take any actions. A petrifern can remain petrified indefinitely, and it can cease its petrification as a standard action.
+**Self-Petrification (Ex)** A petrifern can petrify itself as a standard action in order to defend itself from predators. When it does so, the petrifern’s natural armor bonus to AC increases by 5, it gains resistance 10 to cold and fire, and it can take 20 on Stealth checks to appear as a sprout or fallen tree branch. While [petrified](../../rules/appendices/conditions.md#petrified), the petrifern can’t move or take any actions. A petrifern can remain petrified 1 indefinitely, and it can cease its petrification as a standard action.
 
 **Toxic Secretion (Ex)** Petriferns secrete a bitter toxin meant to make them distasteful to predators. Once per day when a creature touches a petrifern, the plant can release its toxin, causing the attacker to become sickened for 1d4 rounds if it fails a DC 11 Fortitude saving throw. The save DC is Constitution-based.
 

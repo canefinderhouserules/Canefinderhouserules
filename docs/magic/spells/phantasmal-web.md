@@ -8,7 +8,7 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will disbelief, then Fortitude partial; see text; **Spell Resistance** yes
 
-You implant within the minds of your targets the illusion that they are engulfed in tangled webs teeming with swarms of tiny spiders. Those who fail to disbelieve the phantasmal web are treated as if in a web spell, but must also make a Fortitude save at the beginning of each turn or become [nauseated](../../rules/appendices/conditions.md#nauseated) for that round by the phantasmal spiders.
+You implant within the minds of your targets the illusion that they are engulfed in tangled webs teeming with swarms of tiny spiders. Those who fail to disbelieve the phantasmal web are treated as if in a web spell, but must also make a Fortitude save at the beginning of each turn or become [nauseated 1](../../rules/appendices/conditions.md#nauseated) for that round by the phantasmal spiders.
 
 As the phantasmal web exists only in the minds of the targets, it cannot be burned or destroyed, and it provides no cover (though it does provide concealment) against attacks made by the targets. Targets cannot escape the phantasmal web by moving, even by teleportation. Freedom of movement allows unobstructed movement but does not negate the concealment or nausea effects.
 

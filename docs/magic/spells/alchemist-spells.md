@@ -250,7 +250,7 @@ Alchemist spells. Spells from other books will be added as they are transcribed.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Qlippoth Appearance](qlippoth-appearance.md)**: Your face looks subtly wrong, and you can reveal the face beneath to harm one viewer.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.

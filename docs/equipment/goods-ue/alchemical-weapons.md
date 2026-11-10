@@ -16,7 +16,7 @@ Electricity crackles along a metal filament inside this small glass bottle. You 
 
 **Price** 35 gp; **Weight** 1 lb.
 
-This simple clay pot has two sealed, airtight inner chambers containing alchemical liquids. The jar is thrown as a splash weapon. It shatters on impact, covering the target with a mixture of the two liquids. One round later on your turn, the liquids react and explode with concussive force. The target takes 1 point of sonic damage, is deafened for 1d4 rounds, and must make a DC 12 Fortitude save or be stunned for 1 round. Creatures within 5 feet of the explosion take 1 point of sonic damage. The target can use a full-round action to scrape or wash off the liquid before it detonates, depositing the material in its square or an adjacent square; the material detonates as normal, though the original target only takes damage as if it were within 5 feet of the explosion. Crafting this item is a DC 25 Craft (alchemy) check.
+This simple clay pot has two sealed, airtight inner chambers containing alchemical liquids. The jar is thrown as a splash weapon. It shatters on impact, covering the target with a mixture of the two liquids. One round later on your turn, the liquids react and explode with concussive force. The target takes 1 point of sonic damage, is deafened for 1d4 rounds, and must make a DC 12 Fortitude save or be stunned 1 for 1 round. Creatures within 5 feet of the explosion take 1 point of sonic damage. The target can use a full-round action to scrape or wash off the liquid before it detonates, depositing the material in its square or an adjacent square; the material detonates as normal, though the original target only takes damage as if it were within 5 feet of the explosion. Crafting this item is a DC 25 Craft (alchemy) check.
 
 ### Flame Fountain Firework
 
@@ -36,7 +36,7 @@ This hollow clay container holds a small charge of black power and a slow-burnin
 
 **Price** 50 gp; **Weight** 1 lb.
 
-Harvested and concentrated from the remains of slain ghasts, this foul-smelling powder is kept in tightly sealed flasks. It is thrown as a splash weapon and the flask breaks on impact, releasing noxious dust. The target is nauseated for 1 round and sickened for 3 rounds after that. A successful DC 12 Fortitude save prevents the nauseated condition, but not the sickened condition. Creatures within 5 feet of where the flank hits are sickened for 1 round. This is a poison effect. Crafting this item is a DC 20 Craft (alchemy) check.
+Harvested and concentrated from the remains of slain ghasts, this foul-smelling powder is kept in tightly sealed flasks. It is thrown as a splash weapon and the flask breaks on impact, releasing noxious dust. The target is nauseated 1 for 1 round and sickened for 3 rounds after that. A successful DC 12 Fortitude save prevents the nauseated condition, but not the sickened condition. Creatures within 5 feet of where the flank hits are sickened for 1 round. This is a poison effect. Crafting this item is a DC 20 Craft (alchemy) check.
 
 ### Itching Powder
 
@@ -48,7 +48,7 @@ This fine gray powder causes targets to suffer from uncontrollable itching until
 
 **Price** 5 gp; **Weight** —
 
-Also known as firebreather’s oil, this bitter liquid is harder to ignite than common oil but burns quickly at a low temperature, making it ideal for exotic performers such as fire-spinners and flame-spitters. You may spit a mouthful of keros oil past an open flame (such as a candle, tindertwig, or torch) to ignite it, creating a brief burst of fire. If you use it to attack, the attack is a ranged touch attack with a maximum range of 5 feet that deals 1d3 points of fire damage. If you roll a 1 on your attack roll, you accidentally inhale or swallow some of the burning fuel; you take 1d6 points of fire damage and are nauseated for 1 round. A bottle of keros oil holds enough for 10 mouthfuls; taking a mouthful from the bottle is a standard action (the Rapid Reload feat reduces this to a move action). Crafting this item is a DC 15 Craft (alchemy) check.
+Also known as firebreather’s oil, this bitter liquid is harder to ignite than common oil but burns quickly at a low temperature, making it ideal for exotic performers such as fire-spinners and flame-spitters. You may spit a mouthful of keros oil past an open flame (such as a candle, tindertwig, or torch) to ignite it, creating a brief burst of fire. If you use it to attack, the attack is a ranged touch attack with a maximum range of 5 feet that deals 1d3 points of fire damage. If you roll a 1 on your attack roll, you accidentally inhale or swallow some of the burning fuel; you take 1d6 points of fire damage and are nauseated 1 for 1 round. A bottle of keros oil holds enough for 10 mouthfuls; taking a mouthful from the bottle is a standard action (the Rapid Reload feat reduces this to a move action). Crafting this item is a DC 15 Craft (alchemy) check.
 
 ### Liquid Blade
 

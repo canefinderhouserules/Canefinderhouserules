@@ -151,7 +151,7 @@ These steel pauldrons seem to be emblazoned with stampeding horses until they ar
 **Aura** moderate transmutation; **CL** 11th  
 **Slot** shoulders; **Weight** 1 lb.
 
-This gray magical cloak seems to be a protective cloak, but when it is donned, the wearer must succeed at a DC 20 Fortitude save or be instantly petrified. If the initial saving throw succeeds, the creature wearing the cloak must make further checks at the start of each of its turns. On any failed saving throw the creature becomes petrified. A *remove curse* or *stone to flesh* transforms the wearer back, at least long enough for someone to take the cloak off the wearer.
+This gray magical cloak seems to be a protective cloak, but when it is donned, the wearer must succeed at a DC 20 Fortitude save or be instantly petrified. If the initial saving throw succeeds, the creature wearing the cloak must make further checks at the start of each of its turns. On any failed saving throw the creature becomes petrified 1. A *remove curse* or *stone to flesh* transforms the wearer back, at least long enough for someone to take the cloak off the wearer.
 
 **Creation** (associated magic items): any cloak
 

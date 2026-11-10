@@ -48,9 +48,9 @@ The devoted servants of nature corrupted, ruined, and destroyed, blight druids a
 
 Vermin have a starting attitude of unfriendly. The blight druid can also improve the attitude of animals and mindless undead creatures that were formerly animals, but she takes a –4 penalty on the check unless the animal or undead has a disease special attack. This ability replaces wild empathy.
 
-**Miasma (Ex)**: Starting at 5th level, if a blight druid is adjacent to a creature at the beginning of its turn, the creature must succeed at a Fortitude save with a DC of 10 + 1/2 the druid’s level + the druid’s Wisdom modifier or become [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. A creature of the animal, fey, or plant type that fails its save is [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round and sickened for 1 minute thereafter. If the creature makes its save, it is immune to this effect for 24 hours, as are creatures immune to disease. This ability replaces trackless step and resist nature’s lure.
+**Miasma (Ex)**: Starting at 5th level, if a blight druid is adjacent to a creature at the beginning of its turn, the creature must succeed at a Fortitude save with a DC of 10 + 1/2 the druid’s level + the druid’s Wisdom modifier or become [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. A creature of the animal, fey, or plant type that fails its save is [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1 round and sickened for 1 minute thereafter. If the creature makes its save, it is immune to this effect for 24 hours, as are creatures immune to disease. This ability replaces trackless step and resist nature’s lure.
 
-**Blightblooded (Ex)**: At 9th level, a blight druid gains immunity to all diseases, including natural and supernatural diseases. She also becomes immune to effects that would cause her to become sickened or nauseated.
+**Blightblooded (Ex)**: At 9th level, a blight druid gains immunity to all diseases, including natural and supernatural diseases. She also becomes immune to effects that would cause her to become sickened or nauseated 1.
 
 This ability replaces venom immunity.
 

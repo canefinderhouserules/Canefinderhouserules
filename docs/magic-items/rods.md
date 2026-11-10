@@ -241,7 +241,7 @@ This rod strikes as a +2 heavy mace. Once per day, upon command, the head of the
 
 Constructed of iron set with silver rivets, this rod has the properties of a +2 light mace. Its other powers are as follows.
 
-- Thunder: Once per day, the rod can strike as a +3 light mace, and the opponent struck is stunned from the noise of the rod’s impact (Fortitude DC 16 negates). Activating this sonic power counts as a free action, and it works if the wielder strikes an opponent within 1 round.
+- Thunder: Once per day, the rod can strike as a +3 light mace, and the opponent struck is stunned 1 from the noise of the rod’s impact (Fortitude DC 16 negates). Activating this sonic power counts as a free action, and it works if the wielder strikes an opponent within 1 round.
 
 - Lightning: Once per day, when the wielder desires, a short spark of electricity can leap forth when the rod strikes an opponent to deal the normal damage for a +2 light mace (1d6+2) and an extra 2d6 points of electricity damage. Even when the rod might not score a normal hit in combat, if the roll was good enough to count as a successful melee touch attack, then the 2d6 points of electricity damage still apply. The wielder activates this power as a free action, and it works if he strikes an opponent within 1 round.
 

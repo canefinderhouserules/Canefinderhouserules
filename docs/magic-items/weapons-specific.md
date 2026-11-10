@@ -272,7 +272,7 @@ This +1 arrow is keyed to a particular type or subtype of creature. If it strike
 **Aura** faint enchantment; **CL** 5th  
 **Slot** none; **Price** 132 gp; **Weight** 1/10 lb.
 
-This +1 arrow is painted white and has white fletching. If it strikes a foe so that it would normally deal damage, it instead bursts into magical energy that deals nonlethal damage (in the same amount as would lethal damage) and forces the target to make a DC 11 Will save or fall asleep.
+This +1 arrow is painted white and has white fletching. If it strikes a foe so that it would normally deal damage, it instead bursts into magical energy that deals nonlethal damage (in the same amount as would lethal damage) and forces the target to make a DC 11 Will save or gain [sleep 1](../rules/appendices/conditions.md#sleep).
 
 **Requirements** Craft Magic Arms and Armor, sleep; **Cost** 70 gp
 

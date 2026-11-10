@@ -70,7 +70,7 @@ Your paralyzing touch is even stronger.
 
 **Prerequisites**: Manifestation level 7th, paralysis*, rending claws*, staggering claw*.
 
-**Gift**: A creature that fails its save against your paralysis manifestation is paralyzed for 1d4 rounds instead of 1 round. Elves are immune to this effect.
+**Gift**: A creature that fails its save against your paralysis manifestation is paralyzed 1 for 1d4 rounds instead of 1 round. Elves are immune to this effect.
 
 **Stain**: Your connection to negative energy is so intense you recoil from its anathema. Whenever you take damage from a positive energy source, you are frightened for 1 round.
 
@@ -80,7 +80,7 @@ The smell surrounding you becomes overwhelming.
 
 **Prerequisites**: Manifestation level 6th, corpse armor*, stench of the grave*.
 
-**Gift**: Creatures that fail their saves against your stench of the grave manifestation become nauseated for 1 round before being sickened for 1d6 rounds. Once they have become nauseated in this way, they are immune to the nausea effect of your stench for 1 hour. A creature that succeeds at its save becomes immune to both your stench’s nausea and sickened conditions for 24 hours.
+**Gift**: Creatures that fail their saves against your stench of the grave manifestation become nauseated 1 for 1 round before being sickened for 1d6 rounds. Once they have become nauseated 1 in this way, they are immune to the nausea effect of your stench for 1 hour. A creature that succeeds at its save becomes immune to both your stench’s nausea and sickened conditions for 24 hours.
 
 **Stain**: Your stench is so great that it makes interacting with you almost impossible, as others retch and vomit just from being near you. Living creatures with a sense of smell refuse to engage with you at all, so you fail checks like Diplomacy and Handle Animal with living creatures before you can even attempt them.
 
@@ -90,7 +90,7 @@ A slash from your claws can render a creature helpless.
 
 **Prerequisites**: Manifestation level 6th, rending claws*, staggering claw*.
 
-**Gift**: When you confirm a critical hit against a living creature, it must succeed at a Fortitude save or become paralyzed for 1 round. Elves are immune to this effect.
+**Gift**: When you confirm a critical hit against a living creature, it must succeed at a Fortitude save or become paralyzed 1 for 1 round. Elves are immune to this effect.
 
 **Stain**: You are inured to negative energy. You are treated as an undead creature when subjected to channeled energy, *cure* spells, and *inflict* spells.
 

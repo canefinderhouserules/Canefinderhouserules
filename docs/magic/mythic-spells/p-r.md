@@ -60,7 +60,7 @@ Treat the target's current hit point total as though it were lowered by 5 times 
 
 You can target a creature with more hit points than this spell could normally affect, causing it to become dazed for 1 round.
 
-**Augmented (6th)**: If you expend three uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit points are reduced enough to put it in a lower category for the spell's effects, the spell affects the creature according to its new hit point total. For example, a creature in the 1 01-150 hp category reduced to 80 hp is immediately [stunned](../../rules/appendices/conditions.md#stunned) for an additional 1d4 rounds. The spell's effects don't diminish if the target regains hit points.
+**Augmented (6th)**: If you expend three uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit points are reduced enough to put it in a lower category for the spell's effects, the spell affects the creature according to its new hit point total. For example, a creature in the 1 01-150 hp category reduced to 80 hp is immediately [stunned 1](../../rules/appendices/conditions.md#stunned) for an additional 1d4 rounds. The spell's effects don't diminish if the target regains hit points.
 
 ## Pox Pustules
 
@@ -134,7 +134,7 @@ The damage dealt increases to 8d6 points on the 1st and 2nd rounds and 15d6 on t
 
 ## Reverse Gravity
 
-Creatures in the area or that enter the area must succeed at a Fortitude save or be [nauseated](../../rules/appendices/conditions.md#nauseated).
+Creatures in the area or that enter the area must succeed at a Fortitude save or be [nauseated 1](../../rules/appendices/conditions.md#nauseated).
 
 **Augmented (8th)**: If you expend three uses of mythic power, once per round as a move action you may select one secured creature (one that succeeded at its Reflex save) or attached object (such as a tree or cottage) and force it to attempt a Fortitude save against the spell. The selected creature or object can weigh no more than 100 pounds per caster level. If it fails the save, it's pulled free and falls upward.
 

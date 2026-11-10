@@ -156,7 +156,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Shield](shield.md)**: Invisible disc gives +3 to AC, blocks *magic missiles.*
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
@@ -417,7 +417,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
 - **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
-- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Babble](babble.md)**: Target becomes nauseated 1 and nearby creatures become fascinated.
 - **[Bleed Glory](bleed-glory.md)**: Increase the cost to use mythic power.
 - **[Blink](blink.md)**: You randomly vanish and reappear for 1 round per level.
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
@@ -436,7 +436,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Cup of Dust](cup-of-dust.md)**: Causes a creature to become dehydrated.
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
-- **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned or dazed.
+- **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned 1 or dazed.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
@@ -927,7 +927,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mental Barrier V](mental-barrier-v.md)**: As mental barrier III, plus 50% chance to prevent critical hits and sneak attacks.
-- **[Mind Thrust VI](mind-thrust-vi.md)**: As mind thrust IV, but maximum 20d8 points of damage and target is exhausted and stunned for 1 round.
+- **[Mind Thrust VI](mind-thrust-vi.md)**: As mind thrust IV, but maximum 20d8 points of damage and target is exhausted and stunned 1 for 1 round.
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage for every caster level.
 - **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
@@ -1003,7 +1003,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Instant Summons](instant-summons.md)**: Prepared object appears in your hand.
 - **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: This functions as per invisibility bubble, but the spell affects the areas of each target creature, regardless of the
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
-- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
+- **[Ki Shout](ki-shout.md)**: Target takes 1d6 sonic/level and is stunned 1. Lightning Rod: Absorb electrical attacks and gain immunity to electricity.
 - **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.
 - **[Limited Wish](limited-wish.md)**: Alters reality (within limits).
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.

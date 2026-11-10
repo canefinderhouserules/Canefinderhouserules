@@ -4,4 +4,4 @@ When you dispel an enemy’s magical defenses, those defenses crash down with de
 
 **Prerequisites**: Ability to cast dispel magic or greater dispel magic, caster level 11th.
 
-**Benefit**: When you successfully make a targeted dispel check against an opponent, that opponent must succeed at a Fortitude save (DC equals the DC of the spell used to dispel) or be [stunned](../appendices/conditions.md#stunned) until the start of your next turn. If the save succeeds, the opponent is instead [sickened](../appendices/conditions.md#sickened) until the start of your next turn.
+**Benefit**: When you successfully make a targeted dispel check against an opponent, that opponent must succeed at a Fortitude save (DC equals the DC of the spell used to dispel) or be [stunned 1](../appendices/conditions.md#stunned) until the start of your next turn. If the save succeeds, the opponent is instead [sickened](../appendices/conditions.md#sickened) until the start of your next turn.

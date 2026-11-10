@@ -176,7 +176,7 @@ At 2nd level and every three levels thereafter, a legendary gunslinger gains one
 
 - *Legs*: On a failed Reflex save, the target’s base land speed is reduced by 1/2 for a number of rounds equal to the legendary gunslinger’s Wisdom modifier.
 
-- *Torso*: On a failed Fortitude save, the target is [sickened](../../../rules/appendices/conditions.md#sickened) for a number of rounds equal to the legendary gunslinger’s Wisdom modifier. If the legendary gunslinger successfully confirms a critical hit while targeting a creature’s torso, that creature is instead [nauseated](../../../rules/appendices/conditions.md#nauseated) for 1 round upon failing this saving throw.
+- *Torso*: On a failed Fortitude save, the target is [sickened](../../../rules/appendices/conditions.md#sickened) for a number of rounds equal to the legendary gunslinger’s Wisdom modifier. If the legendary gunslinger successfully confirms a critical hit while targeting a creature’s torso, that creature is instead [nauseated 1](../../../rules/appendices/conditions.md#nauseated) for 1 round upon failing this saving throw.
 
 - *Wings*: On a failed Reflex save, the target is unable to fly for a number of rounds equal to the legendary gunslinger’s Wisdom modifier. If the legendary gunslinger has the expanded targeting mastery, she also gains the following options:
 

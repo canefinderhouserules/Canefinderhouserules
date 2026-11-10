@@ -184,7 +184,7 @@ The following format is used for all feat descriptions.
 | [Deafening Critical\*](deafening-critical.md) | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is deafened |
 | [Sickening Critical\*](sickening-critical.md) | Critical Focus, base attack bonus +11 | Whenever you score a critical hit, the target is sickened |
 | [Staggering Critical\*](staggering-critical.md) | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is staggered |
-| [Stunning Critical\*](stunning-critical.md) | Staggering Critical, base attack bonus +17 | Whenever you score a critical hit, the target is stunned |
+| [Stunning Critical\*](stunning-critical.md) | Staggering Critical, base attack bonus +17 | Whenever you score a critical hit, the target is stunned 1 |
 | [Tiring Critical\*](tiring-critical.md) | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is fatigued |
 | [Exhausting Critical\*](exhausting-critical.md) | Tiring Critical, base attack bonus +15 | Whenever you score a critical hit, the target is exhausted |
 | [Deadly Aim\*](deadly-aim.md) | Dex 13, base attack bonus +1 | Trade ranged attack bonus for damage |

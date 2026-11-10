@@ -262,7 +262,7 @@ At 8th level, when you study a target via any means, they remain your target unt
 
 **Pacification (Ex)**
 
-At 12th level, you may spend 1 inspiration to make a melee attack against a humanoid or monstrous humanoid creature that is no greater than one size larger than you. If this attack hits, in addition to normal damage, the target must make a Fortitude saving throw against a DC equal to 10 + half your class level + your Intelligence modifier or they are [stunned](../../../rules/appendices/conditions.md#stunned) for 1d4 rounds. This attack is a standard action.
+At 12th level, you may spend 1 inspiration to make a melee attack against a humanoid or monstrous humanoid creature that is no greater than one size larger than you. If this attack hits, in addition to normal damage, the target must make a Fortitude saving throw against a DC equal to 10 + half your class level + your Intelligence modifier or they are [stunned 1](../../../rules/appendices/conditions.md#stunned) for 1d4 rounds. This attack is a standard action.
 
 **Unconventional Methods (Sp)**
 

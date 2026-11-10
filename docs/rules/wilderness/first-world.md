@@ -55,7 +55,7 @@ Animals, humanoids, and monstrous humanoids that come within 30 feet of a plant 
 
 Affected creatures take a –5 penalty on Perception checks and a –2 penalty on saving throws against sleep effects; each such creature must attempt an additional Will save at the end of each round it remains within the area or become fascinated and unwilling to leave. If the fascinate effect is broken by an attack or through the help of an ally, a drowsy creature must attempt a new Will save each round to avoid becoming fascinated again.
 
-In addition, each minute a drowsy creature remains within an area of pixie pollen, it must also succeed at a DC 10 Fortitude save or become fatigued (or exhausted if already fatigued). An exhausted creature that fails this save falls asleep for 1 minute, after which time it can attempt a new Fortitude save once per hour to awaken. Creatures with the Endurance feat can apply that bonus on their Fortitude save against this effect.
+In addition, each minute a drowsy creature remains within an area of pixie pollen, it must also succeed at a DC 10 Fortitude save or become fatigued (or exhausted if already fatigued). An exhausted creature that fails this save gains [sleep 1](../../rules/appendices/conditions.md#sleep) for 1 minute, after which time it can attempt a new Fortitude save once per hour to awaken. Creatures with the Endurance feat can apply that bonus on their Fortitude save against this effect.
 
 The effects of pixie pollen are supernatural, mind-affecting sleep effects.
 

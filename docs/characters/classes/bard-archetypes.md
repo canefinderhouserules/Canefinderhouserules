@@ -174,7 +174,7 @@ You perform a song of such beauty that it touches the soul of any who hear it, a
 
 **Cost**: Feat or 3rd-level bard spell known.
 
-**Effect**: At the end of the round on which you complete this song, all allies within 30 feet who observed your performance gain a new saving throw to end the ongoing effects of certain debilitating conditions. An ally who is exhausted, fatigued, nauseated, sickened, staggered, or stunned as the result of a previously failed saving throw can attempt a new saving throw to immediately end one of the above effects. Characters under multiple effects must choose which effect they wish to attempt to end prematurely. Effects that did not grant a save to resist (such as the stun effect of [*power word stun*](../../magic/spells/power-word-stun.md)) can't be ended by this masterpiece. In addition, anyone who observed this performance gains the effects of [*delay poison*](../../magic/spells/delay-poison.md) at a caster level equal to your bard level.
+**Effect**: At the end of the round on which you complete this song, all allies within 30 feet who observed your performance gain a new saving throw to end the ongoing effects of certain debilitating conditions. An ally who is exhausted, fatigued, nauseated 1, sickened, staggered, or stunned 1 as the result of a previously failed saving throw can attempt a new saving throw to immediately end one of the above effects. Characters under multiple effects must choose which effect they wish to attempt to end prematurely. Effects that did not grant a save to resist (such as the stun effect of [*power word stun*](../../magic/spells/power-word-stun.md)) can't be ended by this masterpiece. In addition, anyone who observed this performance gains the effects of [*delay poison*](../../magic/spells/delay-poison.md) at a caster level equal to your bard level.
 
 **Use**: 3 bardic performance rounds.
 
@@ -400,7 +400,7 @@ This confusing dirge of melody and counter-melody was composed for choirs celebr
 
 **Cost**: 5th-level bard spell known.
 
-**Effect**: Evil creatures that hear the performance and fail a Will save against the effect are blinded and deafened for the duration. On a successful save, they are shaken instead. Undead or creatures with the evil subtype that fail their saves are stunned for the duration, while those that succeed are staggered.
+**Effect**: Evil creatures that hear the performance and fail a Will save against the effect are blinded and deafened for the duration. On a successful save, they are shaken instead. Undead or creatures with the evil subtype that fail their saves are stunned 1 for the duration, while those that succeed are staggered.
 
 **Use**: 3 bardic performance rounds, +1 round per additional round of duration.
 

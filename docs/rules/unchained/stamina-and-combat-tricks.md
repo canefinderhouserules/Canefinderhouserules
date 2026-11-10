@@ -468,7 +468,7 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Hammer the Gap (Combat)**: When you use this feat, you can spend 5 stamina points to increase the amount of extra damage dealt by 1 point per consecutive hit you make.
 
-**Hard-Headed (Combat)**: When targeted by a spell or a special ability that could cause you to become staggered or stunned, you can spend up to 2 stamina points before attempting the save to gain a bonus on the saving throw equal to the number of stamina points you spent.
+**Hard-Headed (Combat)**: When targeted by a spell or a special ability that could cause you to become staggered or stunned 1, you can spend up to 2 stamina points before attempting the save to gain a bonus on the saving throw equal to the number of stamina points you spent.
 
 **Haunted Gnome (Combat)**: You can spend 5 stamina points to use haunted fey aspect an additional time in a day.
 
@@ -878,7 +878,7 @@ Nearly every combat feat has a combat trick associated with it. Some very basic 
 
 **Shot on the Run (Combat)**: You can spend 5 stamina points to use this feat as a standard action instead of a full-round action.
 
-**Sickening Critical (Combat, Critical)**: When you threaten a critical hit using this feat, before rolling the confirmation roll, you can spend 5 stamina points. If you do and the critical hit is confirmed, the foe is nauseated for 1d4+1 rounds unless it succeeds at a Fortitude save with a DC equal to 10 + your base attack bonus, which reduces the effect to the normal sickened condition.
+**Sickening Critical (Combat, Critical)**: When you threaten a critical hit using this feat, before rolling the confirmation roll, you can spend 5 stamina points. If you do and the critical hit is confirmed, the foe is nauseated 1 for 1d4+1 rounds unless it succeeds at a Fortitude save with a DC equal to 10 + your base attack bonus, which reduces the effect to the normal sickened condition.
 
 **Sidestep (Combat)**: When this feat lets you move, you can spend 2 stamina points to move 10 feet instead of 5. You must still remain in your opponent’s threatened area. You still lose your 5-foot step or 5 feet of movement—the movement lost doesn’t increase to 10 feet.
 

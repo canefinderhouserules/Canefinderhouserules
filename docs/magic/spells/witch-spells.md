@@ -153,7 +153,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Shield Companion](shield-companion.md)**: As
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
-- **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
+- **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
@@ -435,7 +435,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Aura of Cannibalism](aura-of-cannibalism.md)**: Drain life from creatures of your own kind
 - **[Aura Sight](aura-sight.md)**: This spell makes your eyes glow and allows you to see alignment auras within 120 feet of you.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
-- **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
+- **[Babble](babble.md)**: Target becomes nauseated 1 and nearby creatures become fascinated.
 - **[Barrow Haze](barrow-haze.md)**: Fog obscures the vision of others and extends the range of your hexes.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
@@ -460,7 +460,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Deathwine](deathwine.md)**: A healing potion boosts your next necromancy spell instead.
-- **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned or dazed.
+- **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned 1 or dazed.
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
 - **[Deflect Blame](deflect-blame.md)**: Blame someone else for your actions.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
@@ -753,7 +753,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
-- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
+- **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated 1.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.

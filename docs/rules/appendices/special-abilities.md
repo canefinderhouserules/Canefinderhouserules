@@ -181,9 +181,11 @@ Spells, magic items, and certain monsters can affect characters with fear. In mo
 
 **Shaken**: Characters who are shaken take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks.
 
-**Frightened**: Characters who are frightened are shaken, and in addition they flee from the source of their fear as quickly as they can. They can choose the paths of their flight. Other than that stipulation, once they are out of sight (or hearing) of the source of their fear, they can act as they want. If the duration of their fear continues, however, characters can be forced to flee if the source of their fear presents itself again. Characters unable to flee can fight (though they are still shaken).
+**Frightened**: Characters who are frightened take a –4 penalty on attack rolls, saving throws, skill checks, and ability checks, and they cannot cast spells with psychic components. They do not have to flee.
 
-**Panicked**: Characters who are panicked are shaken, and they run away from the source of their fear as quickly as they can, dropping whatever they are holding. Other than running away from the source, their paths are random. They flee from all other dangers that confront them rather than facing those dangers. Once they are out of sight (or hearing) of any source of danger, they can act as they want. Panicked characters cower if they are prevented from fleeing.
+**Panicked**: Characters who are panicked take a –4 penalty on attack rolls, saving throws, skill checks, and ability checks, and they flee from the source of their fear as quickly as they can. They can choose the paths of their flight. Once they are out of sight (or hearing) of the source of their fear, they can act as they want. If the duration of their fear continues, however, characters can be forced to flee if the source of their fear presents itself again. Characters unable to flee can fight (though they still take the penalty).
+
+**Cowering**: Characters who are cowering are frozen in fear and can take no actions. They take a –2 penalty to Armor Class and lose their Dexterity bonus (if any).
 
 **Becoming Even More Fearful**: Fear effects are cumulative. A shaken character who is made shaken again becomes frightened, and a shaken character who is made frightened becomes panicked instead. A frightened character who is made shaken or frightened becomes panicked instead.
 
@@ -233,9 +235,9 @@ Characters with low-light vision have eyes that are so sensitive to light that t
 
 Some monsters and spells have the supernatural or spell-like ability to paralyze their victims, immobilizing them through magical means. Paralysis from poison is discussed in the Afflictions section.
 
-A paralyzed character cannot move, speak, or take any physical action. He is rooted to the spot, frozen and helpless. Not even friends can move his limbs. He may take purely mental actions, such as casting a spell with no components.
+Paralysis makes a character [paralyzed 1](conditions.md#paralyzed): he loses his move action and keeps only his standard action. A character paralyzed again while still paralyzed becomes paralyzed 2: he cannot move, speak, or take any physical action. He is rooted to the spot, frozen and helpless. Not even friends can move his limbs. He may take purely mental actions, such as casting a spell with no components.
 
-A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
+A winged creature flying in the air when it becomes paralyzed 2 cannot flap its wings and falls. A paralyzed 2 swimmer can’t swim and may drown.
 
 ## Scent
 

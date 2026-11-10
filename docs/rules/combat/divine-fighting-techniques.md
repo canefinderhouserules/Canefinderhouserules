@@ -52,7 +52,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Advanced Prerequisite**: Base attack bonus +10.
 
-**Advanced Benefit**: Whenever you sicken a foe with pain using a spiked chain (whether by flensing, as a dirty trick combat maneuver, or otherwise), the victim must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom bonus) or be nauseated for the first round of the duration.
+**Advanced Benefit**: Whenever you sicken a foe with pain using a spiked chain (whether by flensing, as a dirty trick combat maneuver, or otherwise), the victim must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom bonus) or be nauseated 1 for the first round of the duration.
 
 ## Greatsword Fury
 
@@ -72,7 +72,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 *Alignment: chaotic evil.* A deity of monsters and misbirth teaches grisly techniques for sowing fear and blood.
 
-**Initial Benefit**: As a standard action, you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack—instead, add an amount of bleed damage equal to this modifier. The bleeding can be stopped by a successful DC 15 Heal check or any amount of magical healing. Bleed damage from this benefit doesn't stack with itself.
+**Initial Benefit**: As a standard action, you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack—instead, add an amount of bleed damage equal to this modifier. The bleeding can be stopped by a successful DC 20 Heal check or any amount of magical healing. Bleed damage from this benefit doesn't stack with itself.
 
 **Advanced Prerequisites**: Str 13; Dazing Assault; Divine Fighting Technique; Power Attack.
 

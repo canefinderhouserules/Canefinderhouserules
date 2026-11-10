@@ -26,7 +26,7 @@ cases, the transformation requires a new fey creature to be bound in blighted fu
 
 ***Daughter of the Blight (Su).*** Fey creatures who normally have close ties to a specific plant gain this specific quality. For example, blighted fey dryads are no longer dependent upon a specific tree. A dryad’s tree dependent special ability is modified (but not replaced) so blighted fey dryads are required only to remain within 300 yards of any blighted tree. This ability applies only to dryads and other fey who bond with plants in a similar manner.
 
-***Tainted Blood (Ex).*** A blighted fey’s blood and flesh are rife with disease. Any creature that deals damage with a bite attack against a blighted fey, swallows one whole, or otherwise ingests part of one must succeed at a Fortitude save (as per Special Attacks above) or take 1 point of Strength damage and 1 point of Dexterity damage. One minute later, the affected creature must succeed at a second save at the same DC or be nauseated for 1 minute and take 1d6 points of Strength damage and 1d6 points of Dexterity damage. This is a disease effect.
+***Tainted Blood (Ex).*** A blighted fey’s blood and flesh are rife with disease. Any creature that deals damage with a bite attack against a blighted fey, swallows one whole, or otherwise ingests part of one must succeed at a Fortitude save (as per Special Attacks above) or take 1 point of Strength damage and 1 point of Dexterity damage. One minute later, the affected creature must succeed at a second save at the same DC or be nauseated 1 for 1 minute and take 1d6 points of Strength damage and 1d6 points of Dexterity damage. This is a disease effect.
 
 **Ability Scores:** Str +4, Con +4, Cha +2.
 

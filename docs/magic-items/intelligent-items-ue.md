@@ -191,9 +191,9 @@ These rings are typically quite emphatic on their desire to fulfill their obsess
 
 This rod is a fusion of magic and the limb of a dangerous, nearly mindless aberration. This rod features a single writhing tentacle at one end. The rod contains the mind of a living creature, but it does not have the ability to communicate via speech, empathy, or telepathy. If allowed, the rod attempts to attack creatures within reach, and must be stowed in a bag or backpack when the wielder is sleeping to keep it from grasping at the wielder or other creatures.
 
-On command, the tentacle attacks an adjacent creature as a melee touch attack (attack bonus +8). On a successful hit, the tentacle deals 2d8 points of acid damage and the target must succeed at a DC 14 Will saving throw or be paralyzed for 1 round. This paralysis is a mind-affecting fear effect.
+On command, the tentacle attacks an adjacent creature as a melee touch attack (attack bonus +8). On a successful hit, the tentacle deals 2d8 points of acid damage and the target must succeed at a DC 14 Will saving throw or be paralyzed 1 for 1 round. This paralysis is a mind-affecting fear effect.
 
-The greater version of this rod has four tentacles, which attack the same target simultaneously on command (attack bonus +12). The tentacles collectively deal 4d8 points of acid damage and the target must succeed at a DC 18 Will saving throw or be paralyzed for 1 round. This paralysis is a mind-affecting fear effect. The greater rods have a dedicated purpose: serve a bloodthirsty master.
+The greater version of this rod has four tentacles, which attack the same target simultaneously on command (attack bonus +12). The tentacles collectively deal 4d8 points of acid damage and the target must succeed at a DC 18 Will saving throw or be paralyzed 1 for 1 round. This paralysis is a mind-affecting fear effect. The greater rods have a dedicated purpose: serve a bloodthirsty master.
 
 **Requirements** Craft Rod, *summon monster III* (lesser), *summon monster V* (greater); **Cost** 6,000 gp (lesser), 20,000 gp (greater)
 

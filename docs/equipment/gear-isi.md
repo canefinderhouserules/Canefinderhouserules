@@ -73,7 +73,7 @@ This poison is culled from specially bred thornapples, and is often administered
 
 **Price** 750 gp; **Weight** —
 
-**Type** contact; **Save** Fortitude DC 19; **Onset** eating food; **Frequency** 1/hour for 8 hours; **Effect** nauseated for 1 hour and then sickened for 1 day; **Cure** 1 save
+**Type** contact; **Save** Fortitude DC 19; **Onset** eating food; **Frequency** 1/hour for 8 hours; **Effect** nauseated 1 for 1 hour and then sickened for 1 day; **Cure** 1 save
 
 This poison is used by covert agents to render targets too ill to work for a day—long enough to impersonate them.
 

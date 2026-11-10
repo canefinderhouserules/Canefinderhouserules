@@ -504,7 +504,7 @@ DC 30 check, and unlike the normal rules about kaiju and attacks of opportunity,
 
 Doing so does not requires an action. A kaiju can attempt a new save to end the effect as often as it wishes, but can attempt to remove only one such effect per round. Once per year, if a kaiju takes an amount of damage that would normally kill it by reducing its hit points to a negative amount equal to its Constitution score, the damage instead heals the kaiju of twice the amount of damage—but this healing leaves the kaiju disoriented and demoralized.
 
-At this point, the creature becomes nauseated and seeks only to return to its lair. Any amount of damage dealt to it by an external source before it reaches its lair, though, immediately negates the nauseated effect and allows the kaiju to end its retreat and attack.
+At this point, the creature becomes nauseated 1 and seeks only to return to its lair. Any amount of damage dealt to it by an external source before it reaches its lair, though, immediately negates the nauseated effect and allows the kaiju to end its retreat and attack.
 
 - Resistance 30 to acid, cold, electricity, fire, negative energy, and sonic.
 
@@ -732,9 +732,9 @@ Target is entangled by filaments of energy for 1d4 rounds.
 
 Target becomes fatigued (or exhausted if already fatigued).
 
-Target becomes nauseated for 1d4 rounds.
+Target becomes nauseated 1 for 1d4 rounds.
 
-Target is stunned for 1d4 rounds.
+Target is stunned 1 for 1d4 rounds.
 
 Target is sickened for 1d4 rounds.
 
@@ -822,7 +822,7 @@ Robots are intelligent constructs created by advanced scientific means. They hav
 
 Climb, Disable Device, Fly, Knowledge (all), Linguistics, Perception, and Sense Motive.
 
-- Vulnerable to Critical Hits: Whenever a robot takes extra damage from a critical hit, it must succeed at a DC 15 Fortitude save or be stunned for 1 round. If the robot succeeds at the save, it is staggered for 1 round. The robot remains immune to all other sources of the stunned condition.
+- Vulnerable to Critical Hits: Whenever a robot takes extra damage from a critical hit, it must succeed at a DC 15 Fortitude save or be stunned 1 for 1 round. If the robot succeeds at the save, it is staggered for 1 round. The robot remains immune to all other sources of the stunned condition.
 
 - Vulnerable to Electricity: Robots take 150% as much damage as normal from electricity attacks.
 
@@ -988,7 +988,7 @@ All creatures that ride as a part of the wild hunt are chaotic neutral fey that 
 
 - Speak with Nature (Sp): Wild hunt creatures have know direction, speak with animals, and speak with plants as constant spell-like abilities, and can cast stone tell as a spell-like ability 3 times per day.
 
-- Wild Gaze (Su): All creatures within 30 feet that fail a Will save against the gaze of a member of the wild hunt instinctively recognize their power. Humanoids and monstrous humanoids stand frozen in awe, becoming paralyzed.
+- Wild Gaze (Su): All creatures within 30 feet that fail a Will save against the gaze of a member of the wild hunt instinctively recognize their power. Humanoids and monstrous humanoids stand frozen in awe, becoming paralyzed 1.
 
 Magical beasts and animals become frightened, and all other creatures become confused. These effects last for 1 round, and multiple failed saving throws against multiple members of the wild hunt in a single round do not cause this duration to stack. A creature that succeeds on a saving throw against this special attack is immune to the wild gaze from any member of the wild hunt for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
 

@@ -15,7 +15,7 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Bitter**: You have been hurt repeatedly by those you trusted, and it has become difficult for you to accept help. When you receive healing from an ally's class feature, spell, or spell-like ability, reduce the amount of that healing by 1 hit point.
 
-**Cowardly**: You might face dangerous situations with bravado, but you are constantly afraid. Your base speed when [frightened](../../rules/appendices/conditions.md#frightened) and fleeing increases by 5 feet, and the penalties you take from having the [cowering](../../rules/appendices/conditions.md#cowering), frightened, [panicked](../../rules/appendices/conditions.md#panicked), or [shaken](../../rules/appendices/conditions.md#shaken) conditions increase by 1. If you would normally be immune to fear, you do not take these penalties but instead lose your immunity to fear (regardless of its source).
+**Cowardly**: You might face dangerous situations with bravado, but you are constantly afraid. Your base speed when [panicked](../../rules/appendices/conditions.md#panicked) and fleeing increases by 5 feet, and the penalties you take from having the [cowering](../../rules/appendices/conditions.md#cowering), frightened, [panicked](../../rules/appendices/conditions.md#panicked), or [shaken](../../rules/appendices/conditions.md#shaken) conditions increase by 1. If you would normally be immune to fear, you do not take these penalties but instead lose your immunity to fear (regardless of its source).
 
 **Dependent**: You are dependent upon the acceptance of others. Whenever you fail a [Diplomacy](../../rules/skills/diplomacy.md) check, you become shaken for 1 hour.
 

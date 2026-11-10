@@ -32,7 +32,7 @@
 | DC 16 | You are shaken for 1d4 rounds. |
 | DC 12 | You are shaken until the object of your phobia goes away. |
 | DC 8 | You must flee the scene. |
-| Natural 1 | You are paralyzed. |
+| Natural 1 | You are paralyzed 1. |
 
 **Disgust** (100 XP): something fills your character with absolute revulsion (rats, insects, drinking from the same cup; your choice). You must make a DC 12 Will save to interact with the object, or end up making a scene. A natural 1 means vomiting or retching.
 

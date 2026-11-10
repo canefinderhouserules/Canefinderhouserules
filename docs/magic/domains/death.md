@@ -4,7 +4,7 @@
 
 ***Granted Powers**: You can cause the living to bleed at a touch, and find comfort in the presence of the dead.*
 
-*Bleeding Touch (Sp): As a swift action melee touch attack, you can cause a living creature to take 1d6 points of damage per round. This effect persists for a number of rounds equal to your cleric level or until stopped with a DC 15 Heal check or any spell or effect that heals damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Bleeding Touch (Sp): As a swift action melee touch attack, you can cause a living creature to take 1d6 points of damage per round. This effect persists for a number of rounds equal to your cleric level or until stopped with a DC 20 Heal check or any spell or effect that heals damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *Death's Embrace (Ex): At 4th level, you heal damage instead of taking damage from channeled negative energy. If the channeled negative energy targets undead, you heal hit points just like undead in the area.*
 

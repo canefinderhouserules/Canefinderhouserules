@@ -12,8 +12,8 @@ You speak a terrible word of power, setting up potentially lethal vibrations in 
 
 On the first round, the target takes 5d6 points of sonic damage and is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. A successful save halves the damage and negates the staggered effect.
 
-On the second round, the target takes 5d6 points of damage and is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. A successful save halves the damage and negates the stunning effect.
+On the second round, the target takes 5d6 points of damage and is [stunned 1](../../rules/appendices/conditions.md#stunned) for 1 round. A successful save halves the damage and negates the stunning effect.
 
-On the third round, the target takes 10d6 points of damage and is stunned for 1d4+1 rounds. A successful save halves the damage and negates the stunning effect.
+On the third round, the target takes 10d6 points of damage and is stunned 1 for 1d4+1 rounds. A successful save halves the damage and negates the stunning effect.
 
 The resonating word has no power after the third round, even if the spell’s duration is increased.

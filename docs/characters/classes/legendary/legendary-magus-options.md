@@ -442,7 +442,7 @@ You summon dozens of magically replicated pieces of ammunition that rain down on
 
 ### Lich’s Touch
 
-Your hands become gaunt and dehydrated, shimmering with necrotic power. Each living creature you touch takes negative energy damage equal to 3d10 + 1 point per caster level and is [paralyzed](../../../rules/appendices/conditions.md#paralyzed) for 1d2 rounds. A successful Fortitude saving throw halves the damage and negates the paralysis. You can use this melee touch attack up to one time per level.
+Your hands become gaunt and dehydrated, shimmering with necrotic power. Each living creature you touch takes negative energy damage equal to 3d10 + 1 point per caster level and is [paralyzed 1](../../../rules/appendices/conditions.md#paralyzed) for 1d2 rounds. A successful Fortitude saving throw halves the damage and negates the paralysis. You can use this melee touch attack up to one time per level.
 
 ### Rending Touch
 

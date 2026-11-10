@@ -725,7 +725,7 @@ As an immediate action, you can expend one use of mythic power to hinder a melee
 
 ### Adamantine Mind (Ex) \[1\]
 
-> Your mind is as hard as any armor, and is dangerous to engage. You gain a bonus equal to your tier on saving throws against mind-affecting effects. Whenever you succeed at a save against a mind-affecting effect, the creature attacking you with that effect must succeed at a Will save (at the same DC) or be stunned for 1 round.
+> Your mind is as hard as any armor, and is dangerous to engage. You gain a bonus equal to your tier on saving throws against mind-affecting effects. Whenever you succeed at a save against a mind-affecting effect, the creature attacking you with that effect must succeed at a Will save (at the same DC) or be stunned 1 for 1 round.
 
 ### Affliction Resistance (Ex) \[1\]
 
@@ -1159,7 +1159,7 @@ At 9th tier, you can also choose from among the blinded, deafened, paralyzed, an
 
 ### Hear the Word (Su) \[1\]
 
-When you cast a spell such as *augury* that gives you information directly from a divine source, you can expend one use of mythic power to reduce the casting time to a standard action and have the answer be audible in the unmistakable voice of your deity, granting you a bonus equal to your tier on Diplomacy and Intimidate checks against those who hear the voice for a number of hours equal to your tier. If you expend one additional use of mythic power, the voice deals 1d6 points of sonic damage per tier to enemies within 60 feet of you who can hear it, and they are stunned for 1 round.
+When you cast a spell such as *augury* that gives you information directly from a divine source, you can expend one use of mythic power to reduce the casting time to a standard action and have the answer be audible in the unmistakable voice of your deity, granting you a bonus equal to your tier on Diplomacy and Intimidate checks against those who hear the voice for a number of hours equal to your tier. If you expend one additional use of mythic power, the voice deals 1d6 points of sonic damage per tier to enemies within 60 feet of you who can hear it, and they are stunned 1 for 1 round.
 
 A successful Fortitude save (DC = 10 + your tier + your Wis modifier) halves the damage and negates the stun effect.
 

@@ -12,7 +12,7 @@ There are seven variants of this spell, one for each of seven ancient schools of
 
 *Abjuration*: All beneficial magical effects on the target last half as long as normal.
 
-*Conjuration*: The target is [nauseated](../../rules/appendices/conditions.md#nauseated). This is a poison effect.
+*Conjuration*: The target is [nauseated 1](../../rules/appendices/conditions.md#nauseated). This is a poison effect.
 
 *Enchantment*: The target takes a 1d6 penalty to Intelligence, Wisdom, and Charisma. This is a compulsion effect.
 

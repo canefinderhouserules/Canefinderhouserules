@@ -608,7 +608,7 @@ This ability replaces [banner](cavalier.md#banner-ex) and [greater banner](caval
 
 This ability replaces [mighty charge](cavalier.md#mighty-charge-ex).
 
-**Deadly Charge (Ex)**: At 20th level, whenever a disciple of the pike makes a charge attack with a polearm or spear, he deals double the normal amount of damage. In addition, if he confirms a critical hit on a deadly charge, the target is [stunned](../../rules/appendices/conditions.md#stunned) for 1d4 rounds. If the target succeeds at a Will save (DC = 10 + the cavalier’s base attack bonus), it is instead staggered for 1d4 rounds.
+**Deadly Charge (Ex)**: At 20th level, whenever a disciple of the pike makes a charge attack with a polearm or spear, he deals double the normal amount of damage. In addition, if he confirms a critical hit on a deadly charge, the target is [stunned 1](../../rules/appendices/conditions.md#stunned) for 1d4 rounds. If the target succeeds at a Will save (DC = 10 + the cavalier’s base attack bonus), it is instead staggered for 1d4 rounds.
 
 This ability replaces [supreme charge](cavalier.md#supreme-charge-ex).
 
@@ -704,7 +704,7 @@ Dangerous wastelands where magic is warped or dead are places few venture withou
 
 **Infamous Deeds (Ex)**: At 17th level, a drifter can select two additional gunslinger deeds which he can use with his Amateur Gunslinger feat. The drifter can choose one deed from the list of deeds available to 7th-level gunslingers and one from the list available to 11th-level gunslingers. This ability replaces [master tactician](cavalier.md#master-tactician-ex).
 
-**Tough as Nails (Ex)**: At 20th level, a drifter is able to select three additional deeds for use with his Amateur Gunslinger feat—two from the list of deeds available to 15th-level gunslingers, and one from the list available to 19th-level gunslingers. In addition, if the drifter confirms a critical hit on an attack made with a firearm, the target is stunned for 1d4 rounds. A successful Will saving throw (DC = 10 + the drifter's base attack bonus) reduces this effect to staggered instead of stunned. This ability replaces [supreme charge](cavalier.md#supreme-charge-ex).
+**Tough as Nails (Ex)**: At 20th level, a drifter is able to select three additional deeds for use with his Amateur Gunslinger feat—two from the list of deeds available to 15th-level gunslingers, and one from the list available to 19th-level gunslingers. In addition, if the drifter confirms a critical hit on an attack made with a firearm, the target is stunned 1 for 1d4 rounds. A successful Will saving throw (DC = 10 + the drifter's base attack bonus) reduces this effect to staggered instead of stunned. This ability replaces [supreme charge](cavalier.md#supreme-charge-ex).
 
 ## Wave Rider
 
@@ -796,7 +796,7 @@ A castellan is a cavalier who dedicates himself to the defense of a castle or wa
 
 **Defending Challenge (Ex)**: At 12th level, the castellan takes no penalty to Armor Class when using his challenge ability. This ability replaces [demanding challenge](cavalier.md#demanding-challenge-ex).
 
-**Supreme Defense (Ex)**: At 20th level, whenever the castellan readies an action to make a melee attack against a creature that is not yet adjacent to him, his readied attack deals double the normal amount of damage (or triple the damage if using a brace weapon against a charge). In addition, if the cavalier confirms a critical hit on the readied attack, the target is stunned for 1d4 rounds. A successful Will save (DC = 10 + the cavalier's class level + the cavalier's Strength modifier) reduces this to being staggered for 1d4 rounds. This ability replaces [supreme charge](cavalier.md#supreme-charge-ex).
+**Supreme Defense (Ex)**: At 20th level, whenever the castellan readies an action to make a melee attack against a creature that is not yet adjacent to him, his readied attack deals double the normal amount of damage (or triple the damage if using a brace weapon against a charge). In addition, if the cavalier confirms a critical hit on the readied attack, the target is stunned 1 for 1d4 rounds. A successful Will save (DC = 10 + the cavalier's class level + the cavalier's Strength modifier) reduces this to being staggered for 1d4 rounds. This ability replaces [supreme charge](cavalier.md#supreme-charge-ex).
 
 ## Hooded Knight
 

@@ -897,7 +897,7 @@ Vexing dodgers take advantage of their smaller size to outmaneuver larger foes s
 
 **Underfoot Trickster (Ex)**: At 4th level, a vexing dodger can move through the space of a creature two size categories larger than herself without needing to attempt an Acrobatics check. She would still need to succeed at Acrobatics checks to avoid attacks of opportunity provoked by leaving a threatened space; this ability covers only the ability to move. Additionally, whenever the vexing dodger hits a larger foe with a melee sneak attack, she can choose to forgo the sneak attack bonus damage and instead attempt a dirty trick combat maneuver as a swift action. This ability replaces [uncanny dodge](rogue.md#uncanny-dodge-ex).
 
-**Distracting Climber (Ex)**: At 8th level, when a vexing dodger attempts a dirty trick maneuver against a creature she's climbing, she gets a bonus on the combat maneuver check equal to the number of sneak attack dice she has. If she chooses to sicken the target with her dirty trick and succeeds at her combat maneuver check, the target must succeed at a Fortitude saving throw (DC 10 + 1/2 the vexing dodger's level + her Intelligence modifier) or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round. This ability replaces [improved uncanny dodge](rogue.md#improved-uncanny-dodge-ex).
+**Distracting Climber (Ex)**: At 8th level, when a vexing dodger attempts a dirty trick maneuver against a creature she's climbing, she gets a bonus on the combat maneuver check equal to the number of sneak attack dice she has. If she chooses to sicken the target with her dirty trick and succeeds at her combat maneuver check, the target must succeed at a Fortitude saving throw (DC 10 + 1/2 the vexing dodger's level + her Intelligence modifier) or be [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1 round. This ability replaces [improved uncanny dodge](rogue.md#improved-uncanny-dodge-ex).
 
 **Rogue Talents (Ex)**: A vexing dodger can choose uncanny dodge as a rogue talent starting at 4th level, and she can choose improved uncanny dodge as an advanced rogue talent. The following talents complement the vexing dodger archetype: befuddling strike, confounding blades, peerless maneuver, positioning attack, slow reactions, wall scramble.
 
@@ -1116,7 +1116,7 @@ Smugglers specialize in moving contraband from one area to another while avoidin
 | 3 | As 2 sneak attack dice, except creatures are sickened on a failed save. |
 | 4 | As 2 sneak attack dice, except creatures are fascinated on a failed save. |
 | 5 | As 2 sneak attack dice, except creatures are staggered on a failed save. |
-| 6 | As 2 sneak attack dice, except creatures are nauseated on a failed save. |
+| 6 | As 2 sneak attack dice, except creatures are nauseated 1 on a failed save. |
 
 This replaces the ninja trick gained at 2nd level.
 

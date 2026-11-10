@@ -282,13 +282,13 @@ These abilities are typically supernatural or inhuman in nature. If a monster is
 
 **Disease**: One of the monster’s attacks causes disease unless the target succeeds at a Fortitude save. The basic disease has onset 1d3 days, frequency 1/day, effect 1 point of damage to any one ability score (chosen when the monster gains this option), cure 2 consecutive saves. Choose two of the following additional advantages, plus one advantage for every 5 CR the monster has: decrease the onset to 1 day (can be chosen multiple times to reduce the onset to 1 hour, then to —), change the frequency to 1 hour, increase the effect to 1d3 points of damage (this option can be chosen multiple times to further increase the damage to 1d4, then to 1d6), damage an additional ability score (using the same amount of damage as the primary ability damage effect), or change the cure to —.
 
-**Distraction**: A creature damaged by this monster is nauseated for 1 round (Fortitude negates).
+**Distraction**: A creature damaged by this monster is nauseated 1 for 1 round (Fortitude negates).
 
 **Draining Touch**: The monster can make a melee touch attack as though it had the ability damage option dealing ability drain. Each time the monster drains an ability score in this way, it heals 5 points of damage to itself.
 
 **Energy Drain**: This monster bestows 1 negative level with its attacks (or attacks of a particular type) and gains 5 temporary hit points for each negative level bestowed. The number of negative levels bestowed increases to 2 at CR 10 and 3 at CR 20.
 
-**Engulf**: This functions as the universal monster rule, but uses the monster’s ability DC from its array. The monster can either deal its high weapon damage to engulfed creatures, or deal its low weapon damage and inflict one of the following conditions: bleed, blinded (Fortitude negates), deafened, energy drain (as the option; see above), frightened (Will negates), nauseated (Fortitude negates), or paralyzed (Fortitude negates).
+**Engulf**: This functions as the universal monster rule, but uses the monster’s ability DC from its array. The monster can either deal its high weapon damage to engulfed creatures, or deal its low weapon damage and inflict one of the following conditions: bleed, blinded (Fortitude negates), deafened, energy drain (as the option; see above), frightened (Will negates), nauseated (Fortitude negates), or paralyzed 1 (Fortitude negates).
 
 **Fast Healing**: This monster regains 2 hit points per round. This healing increases to 5 hit points per round at CR 4, 10 at CR 11, 15 at CR 16, and 20 at CR 21.
 
@@ -314,9 +314,9 @@ These abilities are typically supernatural or inhuman in nature. If a monster is
 
 **Negative Healing**: You heal damage instead of taking damage from negative energy.
 
-**Paralysis**: The monster’s attacks paralyze a target for 1d2 rounds unless it succeeds at a Fortitude save. For every 3 CR, improve this ability by increasing the number of rounds (to 1d3, 1d4, 1d6, 1d8, and finally 2d6). At CR 18, targets are paralyzed for 1 round even on a success.
+**Paralysis**: The monster’s attacks paralyze a target for 1d2 rounds unless it succeeds at a Fortitude save. For every 3 CR, improve this ability by increasing the number of rounds (to 1d3, 1d4, 1d6, 1d8, and finally 2d6). At CR 18, targets are paralyzed 1 for 1 round even on a success.
 
-**Paralyzing Touch**: The monster gains a touch attack. A living creature hit by this attack must succeed at a Fortitude save (DC = the monster’s ability DC – 5) or be permanently paralyzed. Remove paralysis or any spell that can remove a curse can free the victim. The effect cannot be dispelled. Anyone paralyzed by this attack seems dead, though a successful DC 20 Perception check or a successful DC 15 Heal check reveals that the creature is still alive.
+**Paralyzing Touch**: The monster gains a touch attack. A living creature hit by this attack must succeed at a Fortitude save (DC = the monster’s ability DC – 5) or be permanently paralyzed 1. Remove paralysis or any spell that can remove a curse can free the victim. The effect cannot be dispelled. Anyone paralyzed by this attack seems dead, though a successful DC 20 Perception check or a successful DC 15 Heal check reveals that the creature is still alive.
 
 **Poisonous Blood**: This functions as the poison option, but affects any creature that confirms a critical hit against the monster using a piercing or slashing melee weapon (unless the weapon has reach).
 
@@ -342,7 +342,7 @@ These options are most appropriate for monsters with high Strength or that rely 
 
 **Awesome Blow**: As a standard action, the monster can attempt an awesome blow combat maneuver. If it succeeds, the target takes damage as if it had been hit by one of the monster’s attacks, is knocked 10 feet in a direction of the monster’s choice, and falls prone. The target must be moved in a straight line; if it hits an obstacle, both it and the obstacle take 1d6 points of damage.
 
-**Bleed**: The monster’s attacks deal 1d6 points of bleed damage. This increases to 1d8 at CR 6, 1d10 at CR 11, 2d6 at CR 16, and 3d6 at CR 21. Bleeding can be stopped by a successful DC 15 Heal check or with any magical healing.
+**Bleed**: The monster’s attacks deal 1d6 points of bleed damage. This increases to 1d8 at CR 6, 1d10 at CR 11, 2d6 at CR 16, and 3d6 at CR 21. Bleeding can be stopped by a successful DC 20 Heal check or with any magical healing.
 
 **Burn**: This uses the same damage values as the bleed option (see above), but deals fire damage and requires the target to succeed at a Reflex save or catch fire.
 
@@ -368,7 +368,7 @@ CR 19: The monster instead gains hp equal to quadruple its CR, deals 6 extra poi
 
 **Slaying Attack**: Once per day as a standard action, the monster can make a single attack that can kill a creature outright. On a hit, the attack deals normal damage and the target must succeed at a save or die. The type of save is either Fortitude or Will, chosen when the monster gains this option. This option typically appears only on monsters of CR 19 or higher.
 
-**Stun Attack**: The monster can make one of its attacks a stun attack once per round. On a hit, the target takes damage normally and must succeed at a Fortitude save (DC = the monster’s ability DC – 5) or become stunned for 1 round. A creature is immune to this ability if it is a construct, ooze, plant, or undead, or if it is incorporeal or immune to critical hits. The monster can use this option a number of times per day equal to its CR.
+**Stun Attack**: The monster can make one of its attacks a stun attack once per round. On a hit, the target takes damage normally and must succeed at a Fortitude save (DC = the monster’s ability DC – 5) or become stunned 1 for 1 round. A creature is immune to this ability if it is a construct, ooze, plant, or undead, or if it is incorporeal or immune to critical hits. The monster can use this option a number of times per day equal to its CR.
 
 **Trample**: The monster can automatically overrun creatures smaller than itself as a full-round action. It automatically deals its high weapon damage to each creature it runs over in this way (dealing damage only once per round to any given creature). A creature being trampled can either attempt an attack of opportunity at a –4 penalty or attempt a Reflex save (DC = 2 × the monster’s ability DC – 10) to take half damage.
 
@@ -580,7 +580,7 @@ These abilities manipulate mental states to either hinder enemies or boost allie
 
 **Inspire Fear**: As a standard action, the monster forces each enemy creature within 30 feet of it that can hear it to attempt a Will saving throw.
 
-On a failure, the target becomes frightened and must flee from the monster’s presence for 1 minute or until it can no longer hear the monster.
+On a failure, the target becomes [panicked](../../appendices/conditions.md#panicked) and must flee from the monster’s presence for 1 minute or until it can no longer hear the monster.
 
 If successful, the target becomes immune to this effect for 24 hours.
 

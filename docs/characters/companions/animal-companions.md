@@ -365,7 +365,7 @@ Its unmistakable black-and-white-striped coloration gives a clear warning sign t
 
 **Starting Statistics**: Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 9, Dex 14, Con 13, Int 2, Wis 12, Cha 9; Special Attacks spray (ranged touch attack, 30-ft. range, musk, usable 1/day); Special Qualities low-light vision, musk (Fort save or sickened for 1d6 rounds, Con-based DC), scent.
 
-**7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d3 rounds).
+**7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1d3 rounds).
 
 ### Sea Crawler
 

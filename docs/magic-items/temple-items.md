@@ -298,7 +298,7 @@ A *demon talon* must be held against the raw flesh of a fresh stump—preparing 
 
 **Aura** faint evocation [evil]
 
-A character who drinks a dose of this black, bubbling ichor becomes nauseated for 1d6 rounds if he fails a DC 15 Fortitude save. He also gains an enhanced capacity to affect demons: demons suffer a –2 penalty on their saving throws against the user's spells and spell-like abilities, and the user gains a +2 bonus on caster level checks made to penetrate a demon's spell resistance. *Demon blood* is somewhat addictive, and every day for a week after a user stops daily doses of the ichor, he must make a DC 15 Fortitude save to avoid taking 1 point of Wisdom damage and being sickened for the entire day. As with all demonic implants (see *demon senses*), it imparts a negative level to a lawful or good user while its effects last.
+A character who drinks a dose of this black, bubbling ichor becomes nauseated 1 for 1d6 rounds if he fails a DC 15 Fortitude save. He also gains an enhanced capacity to affect demons: demons suffer a –2 penalty on their saving throws against the user's spells and spell-like abilities, and the user gains a +2 bonus on caster level checks made to penetrate a demon's spell resistance. *Demon blood* is somewhat addictive, and every day for a week after a user stops daily doses of the ichor, he must make a DC 15 Fortitude save to avoid taking 1 point of Wisdom damage and being sickened for the entire day. As with all demonic implants (see *demon senses*), it imparts a negative level to a lawful or good user while its effects last.
 
 **Construction Requirements:** Craft Wondrous Item, *desecrate*; **Cost** 400 gp
 
