@@ -57,9 +57,17 @@ At 1st level, a gunslinger gains one of the following firearms of her choice: bl
 
 ### Grit (Ex)
 
-A gunslinger makes her mark upon the world with daring deeds. Some gunslingers claim they belong to a mystical way of the gun, but it’s more likely that the volatile nature of firearms simply prunes the unlucky and careless from their ranks. Whatever the reason, all gunslingers have grit. In game terms, grit is a fluctuating measure of a gunslinger’s ability to perform amazing actions in combat. At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1).
+A gunslinger makes her mark upon the world with daring deeds. Some gunslingers claim they belong to a mystical way of the gun, but it’s more likely that the volatile nature of firearms simply prunes the unlucky and careless from their ranks. Whatever the reason, all gunslingers have grit. In game terms, grit is a fluctuating measure of a gunslinger’s ability to perform amazing actions in combat. At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier + her gunslinger level (minimum 1).
 
-Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1), though some feats and magic items may affect this maximum. A gunslinger spends grit to accomplish deeds (see below), and regains grit in the following ways.
+??? note "Original rule"
+
+    A gunslinger makes her mark upon the world with daring deeds. Some gunslingers claim they belong to a mystical way of the gun, but it’s more likely that the volatile nature of firearms simply prunes the unlucky and careless from their ranks. Whatever the reason, all gunslingers have grit. In game terms, grit is a fluctuating measure of a gunslinger’s ability to perform amazing actions in combat. At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1).
+
+Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier + her gunslinger level (minimum 1), though some feats and magic items may affect this maximum. A gunslinger spends grit to accomplish deeds (see below), and regains grit in the following ways.
+
+??? note "Original rule"
+
+    Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1), though some feats and magic items may affect this maximum. A gunslinger spends grit to accomplish deeds (see below), and regains grit in the following ways.
 
 #### Critical Hit with a Firearm
 
