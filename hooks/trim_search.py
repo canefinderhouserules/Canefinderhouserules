@@ -24,6 +24,18 @@ def _short(text):
     return cut + "…"
 
 
+WORKER = re.compile(r'("search":\s*")([^"]*?)assets/javascripts/workers/search\.[0-9a-f]+\.min\.js"')
+
+
+def on_post_page(output, page, config, **kwargs):
+    """Points the search box to the wiki's own search worker (docs/javascripts/canefinder-search.js).
+
+    It ranks the exact name first ("Fireball" before "Controlled Fireball"), then names that start
+    with the search, then names holding every word, and needs no index to be built in the browser.
+    """
+    return WORKER.sub(lambda m: m.group(1) + m.group(2) + 'javascripts/canefinder-search.js"', output)
+
+
 def on_post_build(config, **kwargs):
     path = os.path.join(config["site_dir"], "search", "search_index.json")
     if not os.path.exists(path):
