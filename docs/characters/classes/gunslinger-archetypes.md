@@ -202,6 +202,7 @@ This deed replaces the gunslinger initiative deed.
 
 While gunslingers are full of sound and fury, there is a class of gunslingers that never soil their hands with powder or feel the sting of gun smoke. They commit their deeds in a more hushed manner, but with just as much flair.
 
+**Crossbow Maven**: A bolt ace is proficient with all crossbows instead of all firearms and begins play with a masterwork crossbow of her choice. This ability alters the gunslinger’s weapon proficiencies and replaces gunsmith.
 **Grit (Ex)**: A bolt ace regains grit when she scores a critical hit or deals a killing blow with any kind of crossbow. This ability modifies the [grit](gunslinger.md#grit-ex) class feature.
 
 **Deeds**: A bolt ace can perform the following deeds with a crossbow instead of a firearm: gunslinger initiative, pistol-whip, dead shot, targeting, bleeding wound, death's shot, and stunning shot. The bolt ace swaps the following deeds.

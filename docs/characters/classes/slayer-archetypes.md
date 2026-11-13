@@ -178,7 +178,7 @@ At 5th, 10th, 15th, and 20th levels, the bonuses from falling strike increase by
 
 Mounted harriers, saboteurs, and skirmishers, dune riders can disrupt even the most organized opposition.
 
-**Sand Foot (Ex)**: The dune rider adds half his level as a bonus on Ride checks in warm deserts, hills, and mountains. At 11th level, the dune rider and his mount no longer treat sand or rocky ground as difficult terrain, and they gain a +10-foot enhancement bonus to their base speed in warm deserts, hills, and mountains. This replaces [track](slayer.md#track-ex) and fast tracker.
+**Sand Foot (Ex)**: The dune rider adds half his level as a bonus on Ride checks in warm deserts, hills, and mountains. At 11th level, the dune rider and his mount no longer treat sand or rocky ground as difficult terrain, and they gain a +10-foot enhancement bonus to their base speed in warm deserts, hills, and mountains. This replaces [track](slayer.md#track-ex) and [swift tracker](slayer.md#swift-tracker-ex).
 
 **Desert Skirmisher (Ex)**: The dune rider excels in combat in warm deserts, hills, and mountains. While in such terrain, he gains a +2 bonus on initiative, Perception, and Stealth checks, and a +1 bonus on attack and damage rolls. At 5th level and every 5 levels thereafter, the bonus on initiative, Perception, and Stealth checks increases by 2 (maximum +10) and the bonus on attack and damage rolls increases by 1 (maximum +5). This replaces [studied target](slayer.md#studied-target-ex).
 
@@ -194,6 +194,7 @@ Slayers characterized by cunning and patience, guerrillas specialize in ambush a
 
 Strike First, Strike Last (Ex): A guerrilla adds half his level on Stealth checks when remaining motionless and reduces the penalty on Stealth checks when sniping by an equal amount. He also gains this bonus on his initiative checks in surprise rounds whenever he is aware of the surprise round and at least one enemy is unaware. This replaces [track](slayer.md#track-ex) and [swift tracker](slayer.md#swift-tracker-ex).
 
+**Strike First, Strike Last (Ex)**: A guerrilla adds half his level on Stealth checks when remaining motionless and reduces the penalty on Stealth checks when sniping by an equal amount. He also gains this bonus on his initiative checks in surprise rounds whenever he is aware of the surprise round and at least one enemy is unaware. This replaces track and swift tracker.
 **Quick Start (Ex)**: At 6th level, the guerrilla can take a normal charge action during the surprise round, rather than a charge with half the usual distance. This replaces the 6th-level slayer talent.
 
 **Astonishing Strike (Ex)**: At 14th level, when the guerrilla deals sneak attack damage to a target of his studied target ability during the surprise round, that target is denied its Dexterity bonus to AC against attacks from the same guerrilla until the end of the guerrilla’s next turn. When the guerrilla reaches 19th level, this ability works any time he deals sneak attack damage to a target of his studied target ability during the first round of combat, whether or not it’s a surprise round. This replaces [quarry](slayer.md#quarry-ex) and [improved quarry](slayer.md#improved-quarry-ex).

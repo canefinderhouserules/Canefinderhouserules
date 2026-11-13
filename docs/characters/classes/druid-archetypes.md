@@ -404,6 +404,8 @@ A wild whisperer is an expert at studying, predicting, and explaining animal beh
 
 **Natural Expertise (Ex)**: At 6th level, a wild whisperer's powers of observation give her an advantage when she's fighting natural creatures. When using inspiration on an attack roll against an animal or a vermin or on a saving throw against an effect from an animal or a vermin, a wild whisperer has to expend only one use of inspiration instead of two. This ability replaces the increase to wild shape given at 6th level. Investigator Talent: At 8th level, wild whisperer selects an investigator talent. This ability replaces the increase to wild shape given at 8th level.
 
+**Investigator Talent**: At 8th level, a wild whisperer selects an investigator talent. This ability replaces the additional use of wild shape at 8th level.
+
 **Investigator Talents**: The following investigator talents complement the wild whisperer archetype: amazing inspiration, effortless aid, eidetic recollection, empathy, inspirational expertise, inspired alertness, inspired intimidator, perceptive tracking, tenacious inspiration.
 
 ## Ape Shaman
@@ -946,6 +948,8 @@ At every level after 2nd, up to 12th level, a kraken caller can grow an addition
 
 While in this form, a kraken caller can expel a 10-foot-radius cloud of ink once per minute as a standard action. This cloud provides total concealment in water and persists for 1 round per level. The ink has no effect out of water. This ability alters [wild shape](druid.md#wild-shape-su).
 
+While in this form, a kraken caller can expel a 10-footradius cloud of ink once per minute as a standard action. This cloud provides total concealment in water and persists for 1 round per level. The ink has no effect out of water. This ability alters wild shape.
+
 **Beast of the Depths (Su)**: At 13th level, a kraken caller gains a swim speed equal to her base land speed and can breathe water as though affected by the spell [*water breathing*](../../magic/spells/water-breathing.md). This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Green Scourge
@@ -1078,11 +1082,12 @@ Additionally, at 7th level, a druid can create any herbal concoction in 1 minute
 
 Some druids come to worship the storm as an aspect of pure elemental fury in the world. Tempest druids seek not to venerate it, but to study and learn its mysteries so they can survive it, and use this knowledge to protect themselves and others in storm-wracked wilderness.
 
-**Armor and Weapon Proficiencies**: A tempest druid is proficient with the [trident](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This is in addition to the armor and weapon proficiencies of a normal druid.
+**Alignment**: The beliefs held by tempest druids are inherently more chaotic than those held by most druids, and as a result, tempest druids must be chaotic neutral. This alters the druid’s alignment.
+**Armor and Weapon Proficiencies**: A tempest druid is proficient with the [trident](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This is in addition to the armor and weapon proficiencies of a normal druid. This alters the druid’s armor and weapon proficiencies.
 
 **Spontaneous Domain Casting**: A tempest druid can channel stored spell energy into domain spells that she has not prepared ahead of time. She can "lose" a prepared spell in order to cast any domain spell of the same level or lower. This replaces the druid's normal ability to spontaneously cast summon spells.
 
-**Nature Bond (Ex)**: A tempest druid may not choose an animal companion, and must instead select a domain when she gains the Nature Bond ability. A tempest druid must choose the Air or Weather domain, the Cloud, Storm, or Wind subdomain, or the Aquatic or Swamp domain.
+**Nature Bond (Ex)**: A tempest druid may not choose an animal companion, and must instead select a domain when she gains the Nature Bond ability. A tempest druid must choose the Air or Weather domain, the Cloud, Storm, or Wind subdomain, or the Aquatic or Swamp domain. This alters nature bond.
 
 **Shore Sense (Ex)**: A tempest druid gains a +4 bonus on Knowledge (nature) and Survival checks in coastal and marshy lands. This ability replaces [nature sense](druid.md#nature-sense-ex).
 

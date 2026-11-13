@@ -12,6 +12,8 @@ A magus with this class feature cannot take the familiar magus arcana, and canno
 
 The bladebound magus’s arcane pool has a number of points equal to 1/3 his level (minimum 1) plus his Intelligence bonus. This ability replaces the magus arcana gained at 3rd level.
 
+Instead of the normal arcane pool amount, the bladebound magus’s arcane pool has a number of points equal to 1/3 his level (minimum 1) plus his Intelligence bonus. This ability changes the Arcane Pool class feature and replaces the magus arcana gained at 3rd level.
+
 **Magus Arcana**: The following magus arcana complement the bladebound magus archetype: arcane accuracy, broad study, dispelling strike, and reflection.
 
 **Black Blade Basics**: A black blade is bonded to a particular magus, much like a familiar, but in more of a partnership than a master-servant relationship.

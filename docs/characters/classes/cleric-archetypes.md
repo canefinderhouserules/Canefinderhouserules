@@ -182,6 +182,8 @@ Eschewing physical armor for protection via the strength of his faith, an eccles
 
 **Ecclesitheurge's Vow**: At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast [cleric spells](cleric.md#spells).
 
+**Blessing of the Faithful (Su)**: As a standard action, the ecclesitheurge can bless one ally within close range (25 ft. + 5 ft./2 levels). A blessed ally gains a +2 sacred or profane bonus (depending on whether the ecclesitheurge channels positive or negative energy) on attack rolls, skill checks, ability checks, or saving throws or to AC until the ecclesitheurge’s next turn. The ecclesitheurge can expend 1 use of channel energy when activating this ability to increase the duration to a number of rounds equal to the number of dice of his channel energy.
+
 **Domain Mastery**: At 1st level, when an ecclesitheurge chooses his [cleric domains](cleric.md#domains_1), he designates one as his primary domain and the other as his secondary domain. An ecclesitheurge can use his non-domain spell slots to prepare spells from his primary domain's spell list. Each day when he prepares spells, an ecclesitheurge can select a different domain granted by his deity to gain access to that domain's spell list instead of his secondary domain spell list. He does not lose access to his actual secondary domain's granted powers or gain access to the other domain's granted powers. For example, an ecclesitheurge with the Glory domain as his primary domain and the Good domain as his secondary domain can choose to gain access to the Healing domain; until the next time he prepares spells, he uses the Healing domain spell list as his secondary domain spell list instead of the Good domain spell list, but still keeps the granted powers of the Good domain and does not gain the granted powers of the Healing domain.
 
 This ability alters the normal domain ability.
@@ -675,6 +677,8 @@ Priest-judges presided over justice in a fallen realm, driven by a zeal for disc
 **Divine Judgment**: A lawspeaker must select the Law domain or any subdomain of Law offered by her deity. She does not gain a second domain. This alters [domains](cleric.md#domains_1).
 
 **Circumvent Obfuscation (Sp)**: As a standard action, a lawspeaker can expend two uses of channel energy to expose truths and banish falsehoods. The energy manifests as a spell-like ability, and this action does not count as channeling for the purposes of abilities and feats. Unless listed otherwise, the resulting abilities use the lawspeaker's cleric level as her caster level and have the same range and required components as the corresponding spell. The spell-like abilities available are cumulative and are listed below at the level at which the lawspeaker can first access them.
+
+Level 11: Greater dispel magic (30-foot burst; targets only illusion spells, polymorph effects, and spells granting a bonus on Bluff and Disguise checks).
 
 | Level | Spell-Like Ability |
 |---|---|

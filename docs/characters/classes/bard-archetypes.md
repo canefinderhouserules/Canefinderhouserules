@@ -922,6 +922,8 @@ Animals of this kind have a starting attitude of at least “indifferent” towa
 
 Animal companions and magically controlled animals can be directed to attack the bard if the controlling creature wins an opposed Charisma check against the bard (this check can be made once per round until it succeeds, after which no further checks are needed). Supernatural versions of animals (such as animals with the fiendish template) can attempt an opposed Charisma check against the bard with a +4 bonus on its roll to overcome this hesitation. This ability has no effect on creatures other than animals. This ability replaces fascinate.
 
+Animal companions and magically controlled animals of the bard's chosen kind can be directed to attack the bard if the controlling creature wins an opposed Charisma check against the bard (this check can be made once per round until it succeeds, after which no further checks are needed). Supernatural versions of animals (such as animals with the fiendish template) can attempt an opposed Charisma check against the bard with a +4 bonus on its roll to overcome this hesitation. This ability has no effect on creatures other than animals. This ability replaces fascinate.
+
 **Nature’s Speaker**: At 5th, 11th, and 17th level, the animal speaker selects another kind of animal friend. The bard can use speak with animals at will on animals of his selected kinds. This ability replaces [well-versed](bard.md#well-versed-ex).
 
 **Bardic Performance**: An animal speaker gains the following types of bardic performance.

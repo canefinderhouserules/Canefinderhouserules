@@ -8,7 +8,19 @@ Rather than assume aspects taken from the traits of natural animals, a leafshift
 
 **Shifter’s Slam (Ex)**: This ability functions as the shifter claws class feature, except the leafshifter gains two slam attacks instead of two claw attacks. These slam attacks are made with her arms, which are covered in jagged bark and thorns, so these attacks deal bludgeoning and piercing damage. This alters [shifter claws](shifter-ultimate-wilderness.md#shifter-claws-su).
 
-**Leafshifter’s Aspect (Su)**: This ability functions as the shifter aspect ability of the standard shifter, except a leafshifter doesn’t gain the minor forms of her aspects. Instead, whenever she gains a new aspect, she chooses one of the plant focus abilities from the plant master hunter archetype to associate with her new aspect. This choice cannot be changed once made. This alters [shifter aspect](shifter-ultimate-wilderness.md#shifter-aspect-su).
+**Leafshifter’s Aspect (Su)**: This ability functions as the shifter aspect ability of the standard shifter, except a leafshifter doesn’t gain the minor forms of her aspects. Instead, whenever she gains a new aspect, she chooses one of the plant focus abilities from the plant master hunter archetype to associate with her new aspect. This choice cannot be changed once made. This alters [shifter aspect](shifter-ultimate-wilderness.md#shifter-aspect-su). This alters shifter aspect.
+
+**Plant Focus Abilities**: A leafshifter chooses her aspects from the following plants.
+
+- *Assassin Vine*: The creature gains a +2 bonus on combat maneuver checks to grapple. This bonus increases to +3 at 8th level and +4 at 15th level.
+- *Brambles*: When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. This increases to 2 points at 8th level and 3 points at 15th level.
+- *Creeping Vine*: The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Giant Flytrap*: The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Mushroom*: The creature gains a +4 enhancement bonus on saves against poison. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Oak*: The creature gains a +2 enhancement bonus to CMD. This bonus increases to +4 at 8th level and +6 at 15th level.
+- *Shrieker*: The creature gains darkvision with a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense with a range of 10 feet.
+- *Spore*: The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Water Lily*: The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 ## Elementalist Shifter
 

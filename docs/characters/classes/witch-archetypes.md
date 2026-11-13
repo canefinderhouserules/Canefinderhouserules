@@ -358,6 +358,7 @@ An autumn witch has dominion over the provision of the land and the passing of l
 
 The scarred witch doctor draws power from her ability to endure pain and suffering. She mutilates her own flesh, inflicting horrific scars, in order to attract the attention of her patron. Rather than call forth a familiar, she creates a repulsive fetish mask that she uses as a repository for her power. A scarred witch doctor has the following class features.
 
+**Fierce Intelligence**: A scarred witch doctor treats her Intelligence score as 2 points higher when determining the highest level of spells she can cast, the number of spells she can cast per day, her spell save DCs, her number of spells known at 1st level, and any effects of her hexes determined by her Intelligence.
 **Constitution Dependent**: A scarred witch doctor uses Constitution instead of Intelligence when determining the highest level of spells she can cast, her spell save DCs, number of spells known at 1st level, and any effects of her hexes normally determined by her Intelligence.
 
 **Hex Scar**: Whenever a scarred witch doctor learns a hex, she must carve or brand a symbol in her flesh to represent this hex. She can disguise these scars with mundane or magical means, but they cannot be permanently removed.
@@ -620,7 +621,7 @@ These strange and often solitary witches have a strong connection to curses, the
 
 At 3rd level, a bouda can use her fetish to deliver touch spells a number of times per day equal to 1/4 her witch level (minimum 1). When casting a touch spell, as a free action she can use this ability. When she does, she can deliver her spell as a ranged touch spell within a range of 30 feet. At 10th level, she can deliver these spells within a range of 60 feet. At 15th level and higher, she can deliver these spells within a range of 90 feet.
 
-This ability replaces the familiar class feature.
+This ability replaces the familiar class feature. This ability replaces the familiar class feature.
 
 **Bouda's Eye (Su)**: A bouda's gaze can bestow ill fortune on her enemies. This hex can affect a creature within 30 feet that the bouda can see. The target takes a –2 penalty on one of the following (bouda's choice): AC, ability checks, attack rolls, saving throws, or skill checks. The hex lasts for a number of rounds equal to 3 + the bouda's Intelligence modifier. A successful Will saving throw reduces the duration of the hex to 1 round. Once per day when the bouda uses this hex, she can impose two different penalties on the target instead of just one. If the bouda takes the evil eye hex, it increases the number of different penalties she can impose on the hex's target by 1. At 8th level, the penalties imposed by this hex increase to –4. This is a mind-affecting effect.
 
@@ -643,6 +644,8 @@ The mirror is essentially an immobile familiar. The mirror witch can activate it
 If the patron mirror is destroyed, the mirror witch can replace it 1 day later through a special ritual, attuning a new mirror to a different fragment of her patron. The mirror witch must purchase or procure a new, suitable mirror and spend 500 gp per witch level she has. The ritual takes 8 hours to complete, and when it is finished, the mirror witch establishes a connection with a new fragment of her patron and loses access to spells stored in the previous mirror, as normal for a lost witch's familiar.
 
 As the mirror witch progresses in level, the mirror's defenses increase, and the connection between it and the mirror witch becomes stronger, allowing the patron to manifest more of its personality. Instead of using the familiar abilities table in the witch class description, use the table below to determine the strength of a mirror witch's patron mirror.
+
+Instead of using the familiar abilities table on page 83 of the Pathfinder RPG Core Rulebook, use the table below to determine the strength of a mirror witch’s patron mirror.
 
 | Witch Class Level | Hardness | Hit Points | Int | Special |
 |---|---|---|---|---|

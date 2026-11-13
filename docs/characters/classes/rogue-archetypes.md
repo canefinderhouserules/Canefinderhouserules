@@ -1170,7 +1170,7 @@ This replaces the ninja trick gained at 2nd level.
 
 The construct saboteur harnesses arcane energy to combat the golems and eldritch guardians that prowl the depths of ancient ruins.
 
-**Class Skills**: A construct saboteur has Knowledge (arcana) and Knowledge (engineering) as class skills, but not Knowledge (dungeoneering) or Knowledge (local).
+**Class Skills**: A construct saboteur has Knowledge (arcana) and Knowledge (engineering) as class skills, but not Knowledge (dungeoneering) or Knowledge (local). This alters the rogue’s class skills.
 
 **Arcane Strike (Ex)**: A construct saboteur gains [Arcane Strike](../../rules/feats/arcane-strike.md) as a bonus feat, even if she does not meet the prerequisites, using her construct saboteur class level in place of her caster level for the feat's effects. This replaces [trapfinding](rogue.md#trapfinding).
 

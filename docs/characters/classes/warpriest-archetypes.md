@@ -82,6 +82,7 @@ If a divine commander's mount dies and the divine commander finds another mount,
 
 Armorers of exquisite skill, forgepriests take inspiration from their deity to produce the most perfect weapons and armor they can, the better to equip the armies of the faithful. Blessings: A forgepriest selects only one blessing. This alters the [blessings](warpriest.md#blessings-su) class feature.
 
+**Blessings**: A forgepriest selects only one blessing. This alters the blessings class feature.
 **Smith's Spells**: A forgepriest adds the following spells to his spell list: 1st-jury r(g, shield; 2nd-heat metal, shatter; 3rd-keen edge, quench, versatile weapon; 4th-wreath of blades; 5th-fabricate, major creation; 6th-mage's sword.
 
 **Forge Mastery (Ex)**: A 2nd level, the forgepriest adds a bonus equal to half his level to all [Craft](../../rules/skills/craft.md) checks to make metal items, armor, and weapons. (This benefit is gained from the altered version of blessings, above.)
@@ -89,6 +90,8 @@ Armorers of exquisite skill, forgepriests take inspiration from their deity to p
 **Bonus Feats**: A forgepriest can select item creation feats in addition to combat feats when he gains a bonus feat. This ability alters [bonus feats](warpriest.md#bonus-feats).
 
 [Craft Magic Arms and Armor](../../rules/feats/craft-magic-arms-and-armor.md) At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
+
+**Craft Magic Arms and Armor**: At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
 
 **Creator's Bond (Su)**: At 4th level, when a forgepriest uses his sacred weapon ability with an item he created personally, he can expend two uses of his fervor ability to increase the bonus granted by 1 Once the forgepriest has the sacred armor ability, he can also use this ability in conjunction with that. This ability replaces [channel energy](warpriest.md#channel-energy-su).
 

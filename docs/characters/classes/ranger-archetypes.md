@@ -1307,6 +1307,8 @@ A freebooter is a natural leader, a pirate who works well with a variety of peop
 
 **Freebooter's Bane (Ex)**: At 1st level, the freebooter can, as a move action, indicate an enemy in combat and rally her allies to focus on that target. The freebooter and her allies gain a +1 bonus on weapon attack and damage rolls against the target. This applies only to allies who can see or hear the freebooter and are within 30 feet of her when she activates the ability. At 5th level and every 5 levels thereafter, the bonus increases by 1. The bane lasts until the target dies or the freebooter selects a new target. This ability replaces [favored enemy](ranger.md#favored-enemy-ex).
 
+The freebooter’s bane lasts until the target dies or the freebooter selects a new target. This ability replaces favored enemy.
+
 **Freebooter's Bond (Ex)**: At 4th level, a freebooter can spend a move action to grant her allies extra combat prowess when they work as a team. All allies within 30 feet who can see or hear the freebooter gain an additional +2 bonus on attack rolls when flanking with the freebooter or with another ally affected by this ability. This ability replaces [hunter's bond](ranger.md#hunters-bond-ex).
 
 **Fast Swimmer (Ex)**: At 7th level, a freebooter may swim half her speed as a move action or her normal speed as a full-round action with a successful Swim check. She gains a +2 bonus on Swim checks. This ability replaces [woodland stride](ranger.md#woodland-stride-ex).

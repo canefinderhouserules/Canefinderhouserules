@@ -790,6 +790,10 @@ Though named for the wild savages who fight alongside rabid dogs, mad dogs emplo
 
 **Rage Powers**: The following rage powers complement the mad dog archetype: animal fury, beast totem, bestial leaper, primal scent, raging leaper, reckless abandon, scent, sprint, swift foot and terrifying howl, as well as ferocious beast and greater ferocious beast (see New Rage Powers).
 
+Ferocious Beast (Ex): While the barbarian is raging, her animal companion also gains the benefits of rage (including greater rage, mighty rage, and tireless rage), though the barbarian must spend 1 additional round of rage per round if her companion begins or ends its turn adjacent to her, and 2 additional rounds of rage per round if not.
+
+Ferocious Beast, Greater (Ex): While the barbarian is raging, her animal companion shares the benefits of the barbarian’s rage powers that are constant in effect. It gains no benefit from rage powers that require actions to activate, even if they are free actions. A barbarian must have the ferocious beast rage power and be at least 8th level to select this rage power.
+
 ## Burn Rider
 
 Tribes who live in lands plagued by deadly firestorms may turn those storms into a rite of passage. A few who survive the experience begin to embrace the adrenaline and surge of joy that comes from dancing along the edge of a whirling firestorm. These thrill-seekers are known as burn riders. Burn riders learn early on that speed and lightning-quick reactions are essential to avoid becoming trapped by the fickle whims of a raging firestorm. They have an uncanny understanding of fire and can read the currents in the smoke.

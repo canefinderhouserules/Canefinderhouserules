@@ -8,9 +8,37 @@ Instead of calling upon a phantom from the Ethereal Plane, an ectoplasmatist inf
 
 **Ectoplasmic Lash (Su)**: At 1st level, as a full-round action an ectoplasmatist can manifest one or two lashes of ectoplasm tethered to her by wispy, ectoplasmic tendrils. If she manifests two lashes, she can wield them both as light melee weapons, each dealing 1d6 points of slashing damage (1d4 if the ectoplasmatist is Small) with a critical threat range and multiplier of 19–20/×2. If the ectoplasmatist manifests only one lash, she can manifest it either as a single one-handed melee weapon that deals 1d8 points of slashing damage (1d6 if the ectoplasmatist is Small) with a critical threat range and multiplier of 19–20/×2, or as a two-handed melee weapon that deals 2d6 points of bludgeoning damage (1d10 if the ectoplasmatist is Small) with a critical multiplier of ×2. Only the ectoplasmatist can wield or use these lashes. Dismissing any or all manifested lashes is a free action.
 
-At 2nd level, the ectoplasmatist’s lashes gain a +1 enhancement bonus on attack and damage rolls, and are treated as magic weapons.
+At 2nd level, the ectoplasmatist’s lashes gain a +1 enhancement bonus on attack and damage rolls, and are treated as magic weapons.
 
-At 4th level, the ectoplasmatist can use her lashes as reach weapons or use them to manipulate objects from a distance. When used as weapons, the lashes gain an additional 5 feet of reach. Unlike most other weapons with reach, the lashes can be used to attack foes anywhere within the ectoplasmatist’s reach (including adjacent foes). Attacks with the lashes’ extended reach provoke attacks of opportunity just as if the ectoplasmatist were attacking with a ranged weapon. When the lashes are used to manipulate items, they have the same manual dexterity as the ectoplasmatist’s hands. Using the lashes to manipulate items always provokes attacks of opportunity, even if the action the ectoplasmatist is taking normally wouldn’t. At 6th level, the lashes’ enhancement bonus increases to +2, and they are treated as having the ectoplasmatist’s alignment for the purpose of overcoming damage reduction. At 8th level, the ectoplasmatist’s lashes become ghost touch weapons and their reach increases by another 5 feet (for a total increase of 10 feet). Additionally, attacks with the lashes against nonadjacent foes no longer provoke attacks of opportunity. Using the lashes to manipulate objects from a distance still provokes attacks of opportunity, but only if the action the ectoplasmatist is taking would normally provoke such attacks (instead of always provoking). This ability replaces [spiritual interference](spiritualist.md#spiritual-interference-ex-or-su) and [greater spiritual interference](spiritualist.md#greater-spiritual-interference-ex-or-su).
+At 4th level, the ectoplasmatist can use her lashes as reach weapons or use them to manipulate objects from a distance. When used as weapons, the lashes gain an additional 5 feet of reach. Unlike most other weapons with reach, the lashes can be used to attack foes anywhere within the ectoplasmatist’s reach (including adjacent foes). Attacks with the lashes’ extended reach provoke attacks of opportunity just as if the ectoplasmatist were attacking with a ranged weapon. When the lashes are used to manipulate items, they have the same manual dexterity as the ectoplasmatist’s hands. Using the lashes to manipulate items always provokes attacks of opportunity, even if the action the ectoplasmatist is taking normally wouldn’t.
+
+At 6th level, the lashes’ enhancement bonus increases to +2, and they are treated as having the ectoplasmatist’s alignment for the purpose of overcoming damage reduction.
+
+At 8th level, the ectoplasmatist’s lashes become *ghost touch* weapons and their reach increases by another 5 feet (for a total increase of 10 feet). Additionally, attacks with the lashes against nonadjacent foes no longer provoke attacks of opportunity. Using the lashes to manipulate objects from a distance still provokes attacks of opportunity, but only if the action the ectoplasmatist is taking would normally provoke such attacks (instead of always provoking).
+
+At 10th level, the lashes’ enhancement bonus increases to +3.
+
+At 12th level, the ectoplasmatist chooses a single emotional focus (anger, dedication, despair, fear, hatred, jealousy, or zeal). The ectoplasmatist’s lashes gain a special weapon ability as if affected by a *spirit-bound blade* spell (see page 187) matching the emotional energy of the focus the ectoplasmatist has chosen.
+
+At 14th level, the lashes’ enhancement bonus increases to +4.
+
+At 16th level, the ectoplasmatist chooses a second emotional focus, and her lashes gain the special weapon abilities as if affected by a *spirit-bound blade* spell with the special weapon ability of both of the ectoplasmatist’s chosen emotional foci.
+
+At 18th level, the lashes’ enhancement bonus increases to +5.
+
+This ability replaces etheric tether, phantom, shared consciousness, fused consciousness, spiritual bond, and empowered consciousness.
+
+**Spiritual Combat (Su)**: At 3rd level, as a full-round action, an ectoplasmatist can make all of her attacks with a single light or one-handed ectoplasmic lash wielded in one hand, and also cast a single spiritualist spell with a casting time of one standard action as a free action either before or after making the ectoplasmic lash attacks. The ectoplasmatist takes a –2 penalty on her attack rolls when using spiritual combat. If she decides to cast the spell defensively, she can choose to take an additional penalty on her attack rolls up to her Wisdom bonus, and add the same amount as a circumstance bonus on her concentration check. If the concentration check fails, the spell is wasted, but the attacks still take the penalty.
+
+Also, when the ectoplasmatist casts a spiritualist spell with a range of touch, she can deliver the spell through one of her ectoplasmic lashes. Instead of making the free melee touch attack she would normally use to deliver the spell, the ectoplasmatist can choose to make a free ectoplasmic lash attack at her highest base attack bonus. A successful lash attack deals damage normally and imparts the spell’s effects. The ectoplasmatist can’t hold the charge if her lash attack misses.
+
+This ability replaces bonded manifestation, phantom recall, and dual bond.
+
+**Ectoplasmic Armor (Su)**: At 4th level when an ectoplasmatist manifests her spiritual lash ability, tendrils of ectoplasmic material envelop her body, granting her a +4 armor bonus to AC.
+
+At 12th level, the ectoplasmatist’s armor bonus to AC increases to +6 and is treated as *ghost touch* armor.
+
+This ability replaces spiritual interference and greater spiritual interference.
 
 ## Fractured Mind
 
@@ -465,6 +493,52 @@ Some devotees of the Four Horsemen can form spiritual manifestations of the daem
 When the grim phantom is banished to the Ethereal Plane, the grim apostle takes an amount of damage equal to 1d4 × the grim phantom’s number of Hit Dice. This ability modifies the [phantom](spiritualist.md#phantom) ability and replaces the phantom’s emotional focus.
 
 **Hardened Soul (Su)**: At 1st level, while a grim phantom is confined in the grim apostle’s consciousness, the grim apostle gains a +4 bonus on saving throws against death effects and effects that would remove or subsume the grim apostle’s soul (such as [*possession*](../../magic/spells/possession.md) or [*trap the soul*](../../magic/spells/trap-the-soul.md)). At 6th level and every 6 levels thereafter, this bonus increases by 2 (to a maximum of +10 at 18th level). This ability replaces [shared consciousness](spiritualist.md#shared-consciousness-su) and [fused consciousness](spiritualist.md#fused-consciousness-su).
+
+**Horseman Focus**: Instead of an emotional focus, a grim phantom has one of the following Horseman foci. The DC for a saving throw against any of the grim phantom’s abilities is equal to 10 + 1/2 the grim phantom’s Hit Dice + the grim phantom’s Charisma modifier. For any spell-like abilities a grim phantom receives, it uses its Hit Dice as its caster level.
+
+***Death***
+
+Grim phantoms influenced by the Horseman of Death are dark, almost shapeless specters.
+- **Skills**: The grim phantom gains ranks in Knowledge (history) and Stealth equal to its number of Hit Dice.
+- **Good Saves**: Fortitude and Will.
+- **Fleet**: The grim phantom gains Fleet as a bonus feat.
+- **Marked for Death (Su)**: When manifested in ectoplasmic form, the grim phantom gains a +1 bonus on attack rolls against a creature the grim apostle has hit with a melee or ranged attack since its last turn (the phantom’s “marked target”). Additionally, such an attack by the grim phantom deals an additional 1d6 points of negative energy damage. At 5th level and every 5 spiritualist levels thereafter, the negative energy damage increases by 1d6.
+- **Fatal Aura (Su)**: At 7th level, the grim phantom can create a 10-foot-radius aura as a swift action that makes healing more difficult. The DC of Heal checks to provide first aid and treat deadly wounds within the aura is increased by 5. Any creature within the aura that casts a conjuration (healing) spell, or casts another spell or uses an ability that restores hit points, must succeed at a Will saving throw or lose the spell or use of the ability. Ending the aura is a free action.
+- **No Escape (Su)**: At 12th level, the grim phantom gains the benefits of the Following Step, Step Up, and Step Up and Strike feats but only against its marked target (see above).
+- **Killing Word (Sp)**: At 17th level, the grim phantom can cast *power word kill* once per day as a spell-like ability.
+
+***Famine***
+
+Grim phantoms influenced by the Horseman of Famine are gaunt with jackal-like features.
+- **Skills**: The grim phantom gains ranks in Perception and Sense Motive equal to its number of Hit Dice.
+- **Good Saves**: Reflex and Will.
+- **Weapon Finesse**: The grim phantom gains Weapon Finesse as a bonus feat.
+- **Ravenous Bite (Ex)**: The grim phantom’s natural attacks take the form of bites that deal piercing damage as a creature one size category larger than its current size. It also gains Power Attack as a bonus feat.
+- **Aura of Starvation (Su)**: At 7th level, the grim phantom can create a 10-foot-radius aura of starvation as a swift action. Enemies within the aura take a –2 penalty on attack and damage rolls. Ending the aura is a free action.
+- **Wail of the Hungry (Sp)**: At 12th level, the grim phantom can cast *waves of fatigue* once per day as a spell-like ability.
+- **Distended Gullet (Su)**: At 17th level, as a swift action, the grim phantom in ectoplasmic form gains the swallow whole ability (4d8 negative energy damage, AC 17, one-tenth the phantom’s total hit points) for a number of rounds equal to its Charisma modifier. This ability can affect creatures no more than two size categories larger than the phantom. Each creature the grim phantom swallows is shunted into an extradimensional space that can hold any number of creatures. When the duration of this ability ends, any creatures still within the extradimensional space appear adjacent to the grim phantom. The grim phantom is exhausted for 1 hour after using this ability and can’t use it again during that time.
+
+***Pestilence***
+
+Grim phantoms influenced by the Horseman of Pestilence often have rams’ skulls for heads.
+- **Skills**: The grim phantom gains ranks in Acrobatics and Heal equal to its number of Hit Dice.
+- **Good Saves**: Fortitude and Will.
+- **Great Fortitude**: The grim phantom gains Great Fortitude as a bonus feat.
+- **Weakening Strike (Su)**: A creature hit by the grim phantom’s slam attack must succeed at a Fortitude saving throw or take a –2 penalty on ability checks, attack rolls, saving throws, and skill checks for 1d4 rounds. This is a disease effect. Penalties from multiple hits don’t stack.
+- **Aura of Flies (Su)**: At 7th level, the grim phantom can surround itself with a cloud of biting flies as a swift action. Any creature that ends its turn adjacent to the grim phantom takes 1d6 piercing damage. This damage increases by 1d6 for every 4 spiritualist levels beyond 7th. Ending the aura is a free action.
+- **Contagious Touch (Sp)**: At 12th level, the grim phantom can cast *contagion* three times per day as a spell-like ability.
+- **Virulent Attack (Su)**: At 17th level, any creature under the effects of the grim phantom’s weakening strike becomes a dangerous vector for disease. Any creature that ends its turn adjacent to the target creature is immediately exposed to any diseases the target creature has, no matter the normal method of contracting that disease. The creature must immediately attempt a saving throw against that disease, and the onset period doesn’t apply.
+
+***War***
+
+Grim phantoms influenced by the Horseman of War look like sinister, black-winged angels.
+- **Skills**: The grim phantom gains ranks in Intimidate and Survival equal to its number of Hit Dice.
+- **Good Saves**: Fortitude and Reflex.
+- **Strength Focus**: The grim phantom gains a +2 bonus to Strength and a –2 penalty to Dexterity. The phantom gains bonuses to Strength instead of Dexterity as the grim apostle gains spiritualist levels.
+- **Ruthless Combatant (Su)**: The grim phantom threatens a critical hit with its slam attack on a roll of 19–20. At 11th level, the phantom’s critical modifier with slam attacks increases to ×3. This doesn’t stack with Improved Critical or similar effects.
+- **Aura of Fury (Su)**: At 7th level, the grim phantom can create a 20-foot-radius aura as a swift action. Creatures within the aura gain a +2 bonus on melee attack rolls but take a –2 penalty to AC. Ending the aura is a free action.
+- **Bloodlust (Su)**: At 12th level, the grim phantom regains 1d6 hit points with each successful slam attack it makes.
+- **Juggernaut (Su)**: At 17th level, the grim phantom becomes immune to any effects that would cause it to become cowering, exhausted, fatigued, frightened, panicked, shaken, or slowed (as the *slow* spell).
 
 ## Fated Guide (Spiritualist)
 

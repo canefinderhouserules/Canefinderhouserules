@@ -512,6 +512,8 @@ Rather than invite strange entities and departed souls into their bodies, outer 
 
 **Servitor (Ex)**: At 3rd level, an outer channeler can summon the spirit of an outsider of his chosen subtype and house it within the body of an ordinary animal. Initially, the outsider takes the form of this animal and acts in all ways as an ordinary familiar of that type. At 7th level, the animal transforms into an outsider, taking the form of an improved familiar with the outer channeler's chosen outsider subtype (such as a cassisian for an angel-invoking medium). The outer channeler doesn't need to meet the prerequisites to gain this improved familiar, and the improved familiar gains the ability to change shape between its outsider form and its animal form at will (as per *beast shape II*). This ability replaces a [medium's haunt channeler](medium.md#haunt-channeler-su) and connection channel.
 
+**Site Channeling (Su)**: At 5th level, an outer channeler can invoke outsiders from any site tied to any of the following: creatures of his chosen subtype, deities that grant his chosen subtype as a cleric subdomain, or planes that creatures of his chosen subtype are native to. This is in addition to the usual list of sites from which he can channel his outsiders. This ability replaces location channel.
+
 **Ask the Planes (Sp)**: At 14th level, an outer channeler gains the ask the spirits ability of the standard medium, except he sends his consciousness to a native plane of his chosen outsider subtype (an upper plane for archons, a lower plane for devils, any good-aligned plane for angels, and so on). This ability alters [ask the spirits](medium.md#ask-the-spirits-sp) and replaces [astral journey](medium.md#astral-journey-sp).
 
 ### Outsider Spirits

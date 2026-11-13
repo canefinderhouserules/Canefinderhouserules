@@ -150,6 +150,8 @@ The totemic skald forms a close connection to an animal totem. Through the power
 
 **Totem (Su)**: At 3rd level, the totemic skald chooses one animal from the [hunter's animal focus](hunter.md#animal-focus-su) list. Once selected, this choice cannot be changed. This animal becomes the skald's personal totem animal and influences his later abilities. He gains the following rage power.
 
+Song of the Beast (Su): The totemic skald grants the animal focus abilities of his totem animal (as the hunter’s animal focus ability) to all allies affected by his raging song. He treats his skald level as his hunter level for determining the abilities of the animal focus (such as the improvements gained at 8th and 15th level). This ability replaces the rage power gained at 3rd level.
+
 **Sant of the Beast (Su)**: The totemic skald grants the animal focus abilities of his totem animal (as the [hunter's animal focus](hunter.md#animal-focus-su) ability) to all allies affected by his raging song. He treats his skald level as his hunter level for determining the abilities of the animal focus (such as the improvements gained at 8th and 15th level). This ability replaces the rage power gained at 3rd level.
 
 Totem Empathy (Ex and Sp): At 4th level, the totemic skald can improve the attitude of animals of the same type as his totem. This ability functions just like a Diplomacy check to improve the attitude of a person. The skald rolls 1d20 and adds his skald level and his Charisma modifier to determine the totem empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
