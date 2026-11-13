@@ -1,0 +1,7 @@
+{
+  "fighter": {
+    "Dragoon": { "Spear Training (Ex)": { "replaces": "weapon training 1" } },
+    "Siegebreaker": { "Persistent Menace (Ex)": { "replaces": "the bonus feat gained at 4th level" } },
+    "Swarm Fighter": { "Bonus Teamwork Feats (Ex)": { "replaces": "the bonus feats gained at 2nd, 6th, 10th, 14th, and 18th level" } }
+  }
+}

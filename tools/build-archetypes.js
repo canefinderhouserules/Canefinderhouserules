@@ -28,6 +28,8 @@ for (const dir of [C, C + 'legendary/']) {
     if (list) CLASSES[m[1]] = { page: dir + f, archetypes: list };
   }
 }
+// Hand-checked corrections (against Archives of Nethys) for archetypes whose text doesn't say what they replace.
+const OVERRIDES = fs.existsSync(path.join(__dirname, 'archetype-overrides.json')) ? JSON.parse(fs.readFileSync(path.join(__dirname, 'archetype-overrides.json'), 'utf8')) : {};
 const read = f => fs.readFileSync(path.join(ROOT, f), 'utf8').replace(/\r/g, '');
 const plain = s => String(s || '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/<[^>]+>/g, '').replace(/[*_`]/g, '').replace(/\\([\[\]*_])/g, '$1').replace(/\s+/g, ' ').trim();
 const slug = s => plain(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’'`]/g, '').replace(/[^a-z0-9 _-]/g, '').trim().replace(/\s+/g, '-');
@@ -132,18 +134,33 @@ let CLS = '';
 // Words that sit between the parts of a feature name in archetype text ("the fighter's normal bonus combat feat").
 const filler = t => t.replace(new RegExp('\\b(' + CLS + 's?|normal|normally|combat|regular|usual|base)\\b', 'g'), ' ').replace(/\s+/g, ' ');
 // Other names archetypes use for a class feature (unchained or older versions of the class).
-const ALIAS = [[/\bdanger sense\b/g, 'trap sense'], [/\b(spellcasting|spells? class feature)\b/g, 'spells']];
+const ALIAS = [[/\bdanger sense\b/g, 'trap sense'], [/\b(spellcasting|spells? class feature)\b/g, 'spells'], [/\bfinal judgment\b/g, 'true judgment'], [/\bjudgement\b/g, 'judgment'], [/\bfrightening performance\b/g, 'frightening tune'], [/\bloremaster\b/g, 'lore master'], [/\btrapsense\b/g, 'trap sense']];
 function findBase(text, bs) {
   let n = norm(text);
   for (const [re, to] of ALIAS) if (!bs.some(b => re.test(b))) n = n.replace(re, to);
   const ts = [' ' + n + ' ', ' ' + filler(n) + ' '];
-  for (const t of ts) for (const b of bs) {
-    const alts = [b, b + 's', b.replace(/y$/, 'ies'), b.replace(/^the /, '')];
-    if (alts.some(a => t.includes(' ' + a + ' '))) return b;
+  // the feature named first in the text wins ("the mutagen class ability ... discovery" is mutagen);
+  // at the same place, the longest name ("second judgment" over "judgment")
+  for (const t of ts) {
+    let best = null, at = Infinity;
+    for (const b of bs) {
+      for (const a of [b, b + 's', b.replace(/y$/, 'ies'), b.replace(/^the /, '')]) {
+        const i = t.indexOf(' ' + a + ' ');
+        if (i >= 0 && (i < at || (i === at && b.length > best.length))) { best = b; at = i; }
+      }
+    }
+    // a name inside a longer one that starts earlier ("judgment" in "second judgment") loses to it
+    if (best) return best;
   }
   const t = ts[1];
   // singular in the text, plural base ("bonus feats" vs "bonus feat")
   for (const tt of ts) for (const b of bs) if (tt.includes(' ' + b.replace(/s$/, '') + ' ')) return b;
+  // a shorter name for one feature ("familiar" for "witch's familiar", "combat style" for "combat style feat")
+  const core = n.replace(/^(the|his|her|their|a|an) /, '').replace(/\b(class feature|ability|abilities)\b/g, '').trim();
+  if (core.length > 3) {
+    const c = bs.filter(b => (' ' + b + ' ').includes(' ' + core + ' ') || (' ' + b + ' ').includes(' ' + core.replace(/s$/, '') + ' '));
+    if (c.length === 1) return c[0];
+  }
   // loose names: any proficiency, any skills, any feat
   if (/proficien/.test(t)) { const b = bs.find(x => /proficien/.test(x)); if (b) return b; }
   if (/ skill/.test(t)) return 'class skills';
@@ -155,15 +172,27 @@ function levelsIn(s) { return [...s.matchAll(new RegExp(ORD, 'g'))].map(m => +m[
 // Resolves a phrase like "weapon training 3 and 4", "the bonus feat gained at 2nd level", "bravery" to unit ids.
 function resolve(phrase, units, bs) {
   const ids = new Set(); const miss = [];
-  const parts = plain(phrase).replace(/\bas well as\b/g, ',').split(/\s*,\s*(?:and\s+|or\s+)?|\s+and\s+(?!\d+(?:st|nd|rd|th) level)|\s+or\s+/i).map(x => x.trim()).filter(Boolean);
+  // keep feature names with "and"/"or" in them whole ("opportune parry and riposte", "tongue of the sun and moon")
+  let ph = plain(phrase).replace(/[’']/g, '')
+    // "gained at second level" -> "gained at 2nd level"
+    .replace(/\b(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|eleventh|twelfth|thirteenth|fourteenth|fifteenth|sixteenth|seventeenth|eighteenth|nineteenth|twentieth)(?=(-|\s+)level)/gi,
+      w => { const n = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth', 'thirteenth', 'fourteenth', 'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth', 'nineteenth', 'twentieth'].indexOf(w.toLowerCase()) + 1; return n + (n % 10 === 1 && n !== 11 ? 'st' : n % 10 === 2 && n !== 12 ? 'nd' : n % 10 === 3 && n !== 13 ? 'rd' : 'th'); });
+  // "the 2nd- and 8th-level rage powers" -> "rage powers gained at 2nd and 8th level"
+  ph = ph.replace(/((?:\b\d+(?:st|nd|rd|th)-?\s*(?:,\s*(?:and\s+|or\s+)?|\s+and\s+|\s+or\s+))+\d+(?:st|nd|rd|th))[- ]level\s+([a-z ]+?)(?=$|,|;|\s+and\s|\s+as\s|\s+of\s)/gi,
+    (m, lv, name) => name + ' gained at ' + lv.replace(/-/g, '') + ' level');
+  let pending = [];
+  for (const b of bs) if (/ (and|or) /.test(b)) ph = ph.replace(new RegExp(b.split(' ').join('\\W+'), 'ig'), b.replace(/ /g, '_'));
+  const parts = ph.replace(/\bas well as\b/g, ',').split(/\s*,\s*(?:and\s+|or\s+)?|\s+and\s+(?!\d+(?:st|nd|rd|th) level)|\s+or\s+/i).map(x => x.trim().replace(/_/g, ' ')).filter(Boolean);
   let last = null;
   for (let part of parts) {
     const whole = part;
     part = part.replace(/^(?:the|his|her|their|a|an)\s+/i, '').replace(/\s+(?:class features?|abilities|ability|features?)$/i, '').trim();
     let b = findBase(part, bs) || findBase(whole, bs);
     // an exact table entry ("poison resistance +6")
-    const exact = units.find(u => norm(u.label) === norm(part));
+    const exact = /\d/.test(part) && units.find(u => norm(u.label) === norm(part));
     if (exact) { ids.add(exact.id); last = exact.base; continue; }
+    // "the 2nd- and 8th-level rage powers": levels waiting for the feature named after them
+    if (!b && !last && levelsIn(part).length && !/[a-z]{4,}/i.test(part.replace(/\d+(st|nd|rd|th)|level|-|and|the/gi, ''))) { pending.push(...levelsIn(part)); continue; }
     const bare = part.match(/^(\d+)$/);
     if (!b && bare && last) { b = last; }
     if (!b) {
@@ -174,7 +203,7 @@ function resolve(phrase, units, bs) {
     const own = units.filter(u => u.base === b);
     const rest = filler(norm(part).replace(b, ' ').replace(b.replace(/s$/, ''), ' '));
     const nums = (bare ? [+bare[1]] : [...rest.matchAll(/(?:^|\s)(\d+)(?=\s|$)/g)].map(m => +m[1]));
-    const lv = levelsIn(part);
+    const lv = levelsIn(part).concat(pending); pending = [];
     let sel;
     if (lv.length) sel = own.filter(u => lv.includes(u.lvl));
     else if (nums.length) sel = own.filter(u => nums.includes(u.idx));
@@ -188,35 +217,85 @@ function resolve(phrase, units, bs) {
 
 function references(text, units, bs) {
   const out = { replaces: new Set(), modifies: new Set(), miss: [] };
-  const t = plain(text);
-  const re = /\b(replaces?|replacing|in place of|instead of|alters?|altering|modif(?:y|ies|ying)|changes?)\s+(.+?)(?=\.(?:\s|$)|;|$)/gi;
+  // "1 through 4" -> "1, 2, 3, and 4"
+  const t = plain(text).replace(/\b(\d+)\s+(?:through|to|-|–)\s+(\d+)\b/g, (m, a, b) => { const r = []; for (let i = +a; i <= +b && i - a < 20; i++) r.push(i); return r.join(', '); });
+  // a phrase ends at the period, at a semicolon, or where the next verb starts ("replaces bravery and alters class skills")
+  const re = /\b(replaces?|replacing|in place of|instead of|alters?|altering|modif(?:y|ies|ying)|changes?)\s+(.+?)(?=\.(?:\s|$)|;|$|,?\s+(?:and\s+|but\s+)?(?:replaces?|alters?|modif(?:y|ies))\b)/gi;
   let m;
   while ((m = re.exec(t))) {
     const verb = m[1].toLowerCase();
-    let phrase = m[2];
+    // only sentences about the archetype's own abilities ("This ability replaces ...", "It alters ...");
+    // not "he can replace the previous feat" or "the new speech replaces the old one"
+    const before = t.slice(Math.max(0, t.lastIndexOf('.', m.index) + 1), m.index);
+    if (!/(\b(this|these|which|it|they|that)(\s+[\w’'-]+){0,3}|\bthe (ability|abilities|performance|power|talent|deed)|\band|,)\s*$/i.test(before) && !/^\s*$/.test(before)) continue;
+    // asides in parentheses, and the alternative for another version of the class, are not what is replaced
+    let phrase = m[2].replace(/\([^)]*\)/g, ' ').replace(/,?\s+or\s+[^.;]*\b(unchained|for an? \w+ \w+)\b.*$/i, '').replace(/\s+for an? unchained \w+.*$/i, '');
     if (/^(?:instead of|in place of)/.test(verb) && !findBase(phrase, bs)) continue;
     if (/^chang/.test(verb) && !/^(?:the |his |her )?(?:[a-z ]+ )?(?:class feature|ability)/i.test(phrase) && !findBase(phrase.split(/\s+(?:to|so|into|by)\s+/)[0], bs)) continue;
     phrase = phrase.replace(/^(?:the |all )?(?:increases?|improvements?|bonus(?:es)?) (?:to|in|of) /i, '');
+    // "a bard's normal armor proficiencies" is the bard's own feature
+    // (but not when the possessive is part of the name: "the gunslinger's dodge deed", "the witch's familiar")
+    const owner = phrase.match(/^\s*(?:an?|the) ([\w-]+(?: [\w-]+)?)[’']s\s+(.*)$/i);
+    if (owner) {
+      const whole = findBase(owner[1] + 's ' + owner[2], bs), rest = findBase(owner[2], bs);
+      if (!(whole && (!rest || whole.length > rest.length) && (owner[1] + 's ' + owner[2]).toLowerCase().replace(/[’']/g, '').includes(whole))) phrase = owner[2];
+    }
     // "replaces an existing deed", "one of the following", "any rogue talent": no specific feature
-    if (/^(?:an?|any|one|another|each|some|other|either)\b(?! \d)/i.test(phrase.trim())) continue;
+    // ("a thousand faces" is a feature)
+    if (/^(?:an?|any|one|another|each|some|other|either)\b(?! \d)/i.test(phrase.trim()) && !bs.some(b => norm(phrase).startsWith(b) && /^(a|an|one) /.test(b))) continue;
     phrase = phrase.split(/\s+(?:in the following ways|as follows|to|so that|into|but|except)\b/i)[0];
     const r = resolve(phrase, units, bs);
     const kind = /^(replac|in place|instead)/.test(verb) ? 'replaces' : 'modifies';
     r.ids.forEach(id => out[kind].add(id));
     if (!r.ids.length && /replac|alter|modif/.test(verb)) out.miss.push(phrase.slice(0, 80));
   }
+  // "A duettist does not gain the well-versed or jack-of-all-trades class features", "she loses the ... class feature": lost features
+  for (const g of t.matchAll(/\b(?:does not gain|doesn[’']t gain|do not gain|don[’']t gain|does not receive|doesn[’']t receive|loses|lose|no longer gains?)\s+(?:the |any |her |his |their )?(.+?)(?=\.(?:\s|$)|;|$|\s+(?:and|but) (?:instead|gains?)\b)/gi)) {
+    // only the character itself ("the target loses the spell" is not about the class)
+    const who = t.slice(Math.max(0, t.lastIndexOf('.', g.index) + 1), g.index);
+    if (/\b(target|creature|opponent|foe|enemy|enemies|ally|allies|familiar|companion|eidolon|victim|subject|mount|phantom|spirit|it)\b/i.test(who)) continue;
+    const ph = g[1].replace(/\([^)]*\)/g, ' ').split(/\s+(?:in exchange|because|when|while|if|until|and instead)\b/i)[0];
+    if (!findBase(ph, bs) || /^\d|point|round|use|bonus|penalt|ability to|access|hit point/i.test(ph)) continue;
+    resolve(ph, units, bs).ids.forEach(id => out.replaces.add(id));
+  }
+  // "chooses only one domain", "does not gain a second domain", "selects one domain": a change to domains
+  if (/\b(only one domain|one fewer domain|a single domain|second domain|one domain\b|one domain only|sole domain)/i.test(t)) {
+    const d = bs.find(b => /^domains?$/.test(b)); if (d) units.filter(u => u.base === d).forEach(u => out.modifies.add(u.id));
+  }
+  // "This ability functions as rage, except ..." / "A wild rager's rage functions as normal, except ...": a change to that feature
+  if (!out.replaces.size && !out.modifies.size) {
+    const f = [t.match(/(?:^|\.\s+)(?:an? [\w’' -]+?[’']s |the [\w’' -]+?[’']s |her |his |their )?([\w’' -]{3,40}?) (?:functions?|works?) (?:as normal|normally|as usual)(?:,| except| but)/i),
+      t.match(/\b(?:functions?|works?) (?:as|like) (?:the |a |an )?([\w’' -]{3,40}?)(?: class feature| ability)?(?:,| except| but| with|\.)/i)].find(x => x && findBase(x[1], bs));
+    if (f) resolve(f[1], units, bs).ids.forEach(id => out.modifies.add(id));
+  }
   for (const id of out.replaces) out.modifies.delete(id);
   return { replaces: [...out.replaces], modifies: [...out.modifies], miss: out.miss };
 }
 
 // ---- archetypes ----
+// Sections of archetype pages that are lists of options (rage powers, bloodlines, mysteries...), not archetypes.
+const OPTION_LIST = /\b(powers|discover(y|ies)|hex(es)?|bloodlines|wildblooded|mysteries|masterpieces|inquisitions|domains|traps|arcana|talents|spirits|orders|channeling|companions|vows|sagas|schools|dares|combat styles?|mercies|divine bonds|models|anointings|blades|spellcasting vigilantes|weapon groups?|weapon group members|oaths?|evolutions|patron themes|patron spells|base forms?)\b|^order of |orders$/i;
 function archetypes(file, units) {
   const s = read(file);
   const bs = bases(units);
   const res = [];
-  const parts = s.split(/\n(?=## )/).slice(1);
+  // "## Group" headings with no abilities of their own hold archetypes as "### Name" (the Advanced Player's Guide ones);
+  // in a "## Archetype", "###" headings are parts of it
+  const blocks = s.split(/\n(?=#{2,3} )/).slice(1).map(b => ({ lv: b.match(/^(#+)/)[1].length, name: b.match(/^#+ (.+)/)[1].trim(), body: b.split('\n').slice(1).join('\n') }));
+  const parts = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const b = blocks[i];
+    if (b.lv === 2) {
+      const kids = []; for (let j = i + 1; j < blocks.length && blocks[j].lv === 3; j++) kids.push(blocks[j]);
+      if (OPTION_LIST.test(b.name)) { i += kids.length; continue; }
+      if (kids.length && !/^\*\*[^*]+\*\*/m.test(b.body)) { kids.forEach(k => parts.push('## ' + k.name + '\n' + k.body)); i += kids.length; }
+      else { parts.push('## ' + b.name + '\n' + b.body + kids.map(k => '\n\n**' + k.name + '**: ' + k.body.trim()).join('')); i += kids.length; }
+    }
+  }
   for (const p of parts) {
     const name = p.match(/^## (.+)/)[1].trim();
+    const ov = (OVERRIDES[CLS] || {})[name] || {};
+    if (ov._skip) continue;
     const body = p.split('\n').slice(1).join('\n');
     // abilities: paragraphs starting with a bold name; following plain paragraphs belong to it
     const paras = body.split(/\n\s*\n/).map(x => x.trim()).filter(Boolean);
@@ -228,6 +307,11 @@ function archetypes(file, units) {
       const option = m && prev && /\b(following|below)\b/i.test(plain(prev.md)) && !/\b(replac|alter|modif)/i.test(m[2]) &&
         !new RegExp('\\b' + ORD + ' level').test(plain(m[2])) && !/proficien|skills/i.test(m[1]);
       if (option) prev.md += '\n\n- **' + m[1].replace(/:$/, '').trim() + '**: ' + m[2].replace(/\n+/g, ' ');
+      else if (m && ov._merge && ov._merge[m[1].replace(/:$/, '').trim()]) {
+        // part of another ability (an option of it), as Nethys shows it
+        const host = abil.find(x => x.name === ov._merge[m[1].replace(/:$/, '').trim()]) || prev;
+        host.md += '\n\n- **' + m[1].replace(/:$/, '').trim() + '**: ' + m[2].replace(/\n+/g, ' ');
+      }
       else if (m && !/^(Table|Prerequisite)/i.test(m[1])) abil.push({ name: m[1].replace(/:$/, '').trim(), md: m[2] });
       else if (abil.length) abil[abil.length - 1].md += '\n\n' + para;
       else intro.push(para);
@@ -247,33 +331,50 @@ function archetypes(file, units) {
       }
       else if (own && (nm === own || nm === own + 's' || nm.replace(/s$/, '') === own) && !r.replaces.length && !r.modifies.length) {
         const us = units.filter(u => u.base === own);
-        (/proficien/.test(nm) ? r.replaces : r.modifies).push(...us.map(u => u.id));
+        r.modifies.push(...us.map(u => u.id));
       }
-      return { name: a.name, lvl: lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss };
+      const o = ov[a.name];
+      if (o) {
+        if ('replaces' in o) r.replaces = o.replaces ? resolve(o.replaces, units, bs).ids : [];
+        if ('modifies' in o) r.modifies = o.modifies ? resolve(o.modifies, units, bs).ids : [];
+        r.miss = [];
+      }
+      return { name: a.name, lvl: o && o.lvl ? o.lvl : lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss };
     });
     // sections of the page that are not archetypes (rage powers, bloodlines, schools...) change no class feature
     // (a long list where few entries replace anything is a list of options like bloodlines or mysteries)
     const changing = abilities.filter(b => b.replaces.length || b.modifies.length).length;
-    const optionList = /\b(powers|discover(y|ies)|hex(es)?|bloodlines|wildblooded|mysteries|masterpieces|inquisitions|domains|traps|arcana|talents|spirits|orders|channeling|companions|vows|sagas|schools|dares|combat styles?|mercies|divine bonds|models|anointings|blades|spellcasting vigilantes|weapon group)\b/i.test(name);
-    if (!abilities.length || (optionList && changing < abilities.length * 0.5) || (abilities.length > 40 && changing < abilities.length * 0.4)) continue;
-    res.push({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities });
+    const optionList = OPTION_LIST.test(name);
+    if (!changing || (optionList && changing < abilities.length * 0.5) || (abilities.length > 40 && changing < abilities.length * 0.4)) continue;
+    // "This archetype can no longer be combined with Sound Striker": a house rule that forbids a combination
+    const excl = [];
+    const names = g => g[1].split(/\s*,\s*(?:or\s+|and\s+)?|\s+or\s+|\s+and\s+/).map(x => x.replace(/^the\s+/i, '').replace(/\s+archetypes?$/i, '').trim()).filter(Boolean);
+    for (const g of plain(body).matchAll(/\bthis archetype\s+(?:can no longer|cannot|can not|can[’']t|may not) be (?:combined|taken|used) (?:together )?with (?:the )?(.+?)(?:\s+archetypes?)?(?=\.|;|$)/gi)) excl.push(...names(g));
+    // "but this archetype may still be combined with the recondite mechanist archetype": allowed although they share a feature
+    const allow = [];
+    for (const g of plain(body).matchAll(/\bthis archetype\s+(?:may|can) (?:still )?be combined with (?:the )?([\w’' -]+?) archetype\b/gi)) allow.push(...names(g));
+    res.push(Object.assign({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities }, excl.length ? { excl } : {}, allow.length ? { allow } : {}));
   }
   return res;
 }
 
-fs.mkdirSync(OUT, { recursive: true });
-let unmatched = 0, total = 0;
-for (const [cls, cfg] of Object.entries(CLASSES)) {
-  CLS = cls;
-  const { units } = classUnits(cfg.page);
-  const archs = cfg.archetypes.flatMap(f => archetypes(f, units));
-  fs.writeFileSync(path.join(OUT, cls + '.json'), JSON.stringify({ cls, units, archetypes: archs }));
-  for (const a of archs) for (const b of a.abilities) {
-    total++;
-    const none = !b.replaces.length && !b.modifies.length;
-    if (b.miss.length || none) unmatched++;
-    if (REPORT && (b.miss.length || none)) console.log(cls, '|', a.name, '|', b.name, '|', b.miss.length ? 'MISS: ' + b.miss.join(' / ') : 'no reference');
+module.exports = { CLASSES, classUnits, archetypes, resolve, references, bases, plain, norm, setClass: c => { CLS = c; } };
+if (require.main === module) {
+  fs.mkdirSync(OUT, { recursive: true });
+  let unmatched = 0, total = 0;
+  for (const [cls, cfg] of Object.entries(CLASSES)) {
+    CLS = cls;
+    const { units } = classUnits(cfg.page);
+    const archs = cfg.archetypes.flatMap(f => archetypes(f, units));
+    // (retried: on Windows another program can hold the file for a moment)
+    for (let k = 0; ; k++) { try { fs.writeFileSync(path.join(OUT, cls + '.json'), JSON.stringify({ cls, units, archetypes: archs })); break; } catch (e) { if (k > 20) throw e; const t = Date.now(); while (Date.now() - t < 100); } }
+    for (const a of archs) for (const b of a.abilities) {
+      total++;
+      const none = !b.replaces.length && !b.modifies.length;
+      if (b.miss.length || none) unmatched++;
+      if (REPORT && (b.miss.length || none)) console.log(cls, '|', a.name, '|', b.name, '|', b.miss.length ? 'MISS: ' + b.miss.join(' / ') : 'no reference');
+    }
+    console.log(cls + ': ' + units.length + ' features, ' + archs.length + ' archetypes');
   }
-  console.log(cls + ': ' + units.length + ' features, ' + archs.length + ' archetypes');
+  console.log('abilities ' + total + ', without a clear reference ' + unmatched);
 }
-console.log('abilities ' + total + ', without a clear reference ' + unmatched);
