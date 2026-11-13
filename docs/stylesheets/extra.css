@@ -79,7 +79,10 @@
 .md-typeset .ap-item[hidden] { display: none; }
 .md-typeset .ap-ext { font-size: .6rem; text-decoration: none; }
 .md-typeset .ap-why { display: block; padding-left: 1.4em; font-size: .6rem; color: var(--md-typeset-del-color, #c62828); }
-.md-typeset .ap-clash .ap-name { color: #c62828; }
+.md-typeset .ap-clash:not(.ap-clash-sel) { opacity: .45; }
+.md-typeset .ap-clash:not(.ap-clash-sel) .ap-name { text-decoration: line-through; }
+.md-typeset .ap-clash-sel .ap-name { color: #c62828; font-weight: 600; }
+.md-typeset .ap-why:empty { display: none; }
 .md-typeset .ap-msg:not(:empty) { margin-bottom: .5rem; padding: .4em .7em; font-size: .68rem; border-left: .2rem solid #c62828; background: rgba(198, 40, 40, .08); }
 .md-typeset .ap-gone { display: none; }
 .md-typeset .ap-gone-h { text-decoration: line-through; opacity: .6; }
@@ -95,3 +98,4 @@
 .md-typeset .ap-intro { font-size: .7rem; margin: .4em 0; }
 .md-typeset .ap-new a { font-weight: 600; }
 .md-typeset .ap-show { cursor: pointer; color: var(--md-accent-fg-color); font-size: .64rem; }
+.md-typeset .ap-legend { margin: 0 0 .4rem; font-size: .62rem; color: var(--md-default-fg-color--light); }

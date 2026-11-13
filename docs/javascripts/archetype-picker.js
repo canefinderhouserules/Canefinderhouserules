@@ -31,7 +31,7 @@
     box.innerHTML = '<summary><span class="ap-title">Archetypes</span> <span class="ap-count"></span><span class="ap-hint">Tick archetypes to see the class with them</span></summary>' +
       '<div class="ap-body"><div class="ap-top"><input type="search" class="ap-search" placeholder="Filter archetypes…" aria-label="Filter archetypes">' +
       '<button type="button" class="ap-clear md-button">Clear</button></div>' +
-      '<div class="ap-msg" role="status"></div><div class="ap-list"></div></div>';
+      '<div class="ap-msg" role="status"></div><p class="ap-legend">Struck-out archetypes change the same class features as one you ticked (hover them to see which).</p><div class="ap-list"></div></div>';
     h2.parentNode.insertBefore(box, h2);
     var list = box.querySelector('.ap-list'), msg = box.querySelector('.ap-msg'), count = box.querySelector('.ap-count');
     d.archetypes.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).forEach(function (a) {
@@ -79,7 +79,8 @@
       d.archetypes.forEach(function (a) {
         var clash = sel.filter(function (b) { return b !== a && Object.keys(a.touch).some(function (id) { return b.touch[id]; }); });
         a.label.classList.toggle('ap-clash', clash.length > 0);
-        a.label.querySelector('.ap-why').textContent = clash.length ? ' — conflicts with ' + clash.map(function (b) { return b.name; }).join(', ') : '';
+        a.label.classList.toggle('ap-clash-sel', clash.length > 0 && a.box.checked);
+        a.label.querySelector('.ap-why').textContent = clash.length && a.box.checked ? 'conflicts with ' + clash.map(function (b) { return b.name; }).join(', ') : '';
         a.label.title = clash.length ? 'Changes the same class features as ' + clash.map(function (b) {
           return b.name + ' (' + Object.keys(a.touch).filter(function (id) { return b.touch[id]; }).map(function (id) { return units[id].label; }).join(', ') + ')';
         }).join('; ') : '';
