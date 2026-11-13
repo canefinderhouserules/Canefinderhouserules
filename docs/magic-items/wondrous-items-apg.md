@@ -331,6 +331,15 @@ These supple leather gloves grant the wearer gains a +4 bonus to his CMD against
 
 **Requirements** Craft Wondrous Item, greater magic weapon; **Cost** 7,500 gp
 
+### Gloves of Dueling, Lesser
+
+**Aura** faint transmutation; **CL** 3rd  
+**Slot** hands; **Price** 4,000 gp; **Weight** —
+
+These worn leather gloves are a weaker version of the [gloves of dueling](#gloves-of-dueling). The wearer gains a +1 bonus to his CMD against disarm attacks, attempts to sunder his wielded weapons, and effects that cause him to lose his grip on his weapons (such as grease). If the wearer has the weapon training class feature and is using an appropriate weapon, his weapon training bonus increases by +1.
+
+**Requirements** Craft Wondrous Item, magic weapon; **Cost** 2,000 gp
+
 ### Glowing Glove
 
 **Aura** faint universal; **CL** 1st  
