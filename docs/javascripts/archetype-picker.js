@@ -111,11 +111,23 @@
     }
     var secs = {};
     d.units.forEach(function (u) { if (u.sec && !secs[u.sec]) { var s = section(u.sec); if (s) secs[u.sec] = s; } });
-    // abilities that replace nothing go at the end of the class features
+    // class feature headings in page order, with the level each is first gained (for placing abilities that replace nothing)
     var cf = document.getElementById('class-features');
-    var endMark = cf; if (cf) { var n = cf.nextElementSibling; while (n && !(/^H[12]$/.test(n.tagName))) { endMark = n; n = n.nextElementSibling; } }
+    var order = [], endMark = cf;
+    if (cf) {
+      var hl = +cf.tagName[1], n = cf.nextElementSibling;
+      while (n && !(/^H[1-6]$/.test(n.tagName) && +n.tagName[1] <= hl)) {
+        if (n.tagName === 'H' + (hl + 1) && n.id) {
+          var us = d.units.filter(function (u) { return u.sec === n.id; });
+          order.push({ h: n, lvl: us.length ? Math.min.apply(null, us.map(function (u) { return u.lvl; })) : (order.length ? order[order.length - 1].lvl : 1) });
+        }
+        endMark = n; n = n.nextElementSibling;
+      }
+    }
+    // archetype summaries go at the top of the class features; abilities with no later feature go after the last one
     var extra = el('div', 'ap-x ap-extra'); extra.hidden = true;
-    if (endMark) endMark.parentNode.insertBefore(extra, endMark.nextSibling);
+    if (cf) { var top = cf.nextElementSibling; while (top && !/^H/.test(top.tagName)) top = top.nextElementSibling; cf.parentNode.insertBefore(extra, top || endMark.nextSibling); }
+    var tail = el('div', 'ap-x'); if (endMark) endMark.parentNode.insertBefore(tail, endMark.nextSibling);
 
     function abId(x) { return 'ap-' + x.a.anchor + '-' + x.b.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-$/, ''); }
     function abLevel(x) {
@@ -123,11 +135,11 @@
       var ids = x.b.replaces.concat(x.b.modifies); return ids.length ? Math.min.apply(null, ids.map(function (id) { return units[id].lvl; })) : 1;
     }
     function link(x) { return '<a href="#' + abId(x) + '">' + esc(x.b.name.replace(/\s*\((Ex|Su|Sp)\)$/, '')) + '</a>'; }
-    function abilityHtml(x) {
+    function abilityHtml(x, extraAbility) {
       var rep = x.b.replaces.length ? names(x.b.replaces) : '', mod = x.b.modifies.length ? names(x.b.modifies) : '';
       return '<div class="ap-ab ap-x" id="' + abId(x) + '"><h4>' + esc(x.b.name) + ' <span class="ap-tag">' + esc(x.a.name) + '</span>' +
         (x.b.lvl ? ' <span class="ap-lvl">' + ORD(x.b.lvl) + ' level</span>' : '') + '</h4>' +
-        ((rep || mod) ? '<p class="ap-rep">' + (rep ? 'Replaces ' + esc(rep) : '') + (rep && mod ? '. ' : '') + (mod ? 'Modifies ' + esc(mod) : '') + '.</p>' : '') +
+        ((rep || mod) ? '<p class="ap-rep">' + (rep ? 'Replaces ' + esc(rep) : '') + (rep && mod ? '. ' : '') + (mod ? 'Modifies ' + esc(mod) : '') + '.</p>' : extraAbility ? '<p class="ap-rep">Gained in addition to the class features (replaces nothing).</p>' : '') +
         fixLinks(x.b.html) + '</div>';
     }
 
@@ -215,16 +227,21 @@
         });
       });
 
-      // the rest: archetype abilities that replace nothing
-      var rest = abil.filter(function (x) { return !placed[abId(x)]; });
-      extra.hidden = !rest.length && !sel.some(function (a) { return a.intro; });
-      if (!extra.hidden) {
-        extra.innerHTML = '<h3 id="archetype-features">Other Archetype Features</h3><p class="ap-sub">Abilities of ' + sel.map(function (a) {
-          return '<a href="' + new URL(a.page + '#' + a.anchor, base).href + '">' + esc(a.name) + '</a>';
-        }).join(', ') + ' that don’t replace a class feature.</p>' +
-          sel.filter(function (a) { return a.intro; }).map(function (a) { return '<div class="ap-intro"><strong>' + esc(a.name) + ':</strong> ' + fixLinks(a.intro).replace(/^<p>|<\/p>$/g, '') + '</div>'; }).join('') +
-          rest.map(abilityHtml).join('');
-      }
+      // the rest: archetype abilities that replace nothing go among the class features by level,
+      // before the first class feature gained at a higher level (no level given: 1st level)
+      abil.filter(function (x) { return !placed[abId(x)]; }).forEach(function (x) {
+        var lv = x.b.lvl || 1;
+        var next = order.find(function (s) { return s.lvl > lv; });
+        var div = el('div'); div.innerHTML = abilityHtml(x, true);
+        var ab = div.firstChild;
+        if (next) next.h.parentNode.insertBefore(ab, next.h); else tail.parentNode.insertBefore(ab, tail);
+        placed[abId(x)] = 1;
+      });
+      // what each archetype is about, at the top of the class features
+      extra.hidden = !sel.some(function (a) { return a.intro; });
+      extra.innerHTML = sel.filter(function (a) { return a.intro; }).map(function (a) {
+        return '<div class="ap-intro"><strong><a href="' + new URL(a.page + '#' + a.anchor, base).href + '">' + esc(a.name) + '</a>:</strong> ' + fixLinks(a.intro).replace(/^<p>|<\/p>$/g, '') + '</div>';
+      }).join('');
       // keep the choice in the address
       var u = new URL(location.href);
       if (sel.length) u.searchParams.set('arch', sel.map(function (a) { return a.anchor; }).join(','));
