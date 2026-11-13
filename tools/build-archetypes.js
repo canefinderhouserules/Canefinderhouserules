@@ -201,6 +201,7 @@ function archetypes(file, units) {
       }
       return { name: a.name, lvl: lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss };
     });
+    if (!abilities.length) continue; // reference sections on the archetype page (weapon groups...), not archetypes
     res.push({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities });
   }
   return res;
