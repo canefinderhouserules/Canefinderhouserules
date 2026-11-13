@@ -24,6 +24,20 @@
       a.i = i; a.touch = {};
       a.abilities.forEach(function (b) { b.replaces.concat(b.modifies).forEach(function (id) { a.touch[id] = true; }); });
     });
+    // "bravery +1, bravery +2 ... +5" -> "bravery"; "armor training 1, 2" -> "armor training 1, 2"
+    function names(ids) {
+      var out = [], done = {};
+      ids.forEach(function (id) {
+        var u = units[id]; if (done[u.base]) return; done[u.base] = true;
+        var all = d.units.filter(function (x) { return x.base === u.base; });
+        var mine = all.filter(function (x) { return ids.indexOf(x.id) >= 0; });
+        var name = u.label.replace(/\s*(\+?\d+)$/, '');
+        if (mine.length === all.length) out.push(name);
+        else if (mine.length === 1) out.push(u.label);
+        else out.push(name + ' ' + mine.map(function (x) { var m = x.label.match(/(\+?\d+)$/); return m ? m[1] : ORD(x.lvl) + ' level'; }).join(', '));
+      });
+      return out.join('; ');
+    }
     var byAnchor = {}; d.archetypes.forEach(function (a) { byAnchor[a.anchor] = a; });
 
     // ---- the picker ----
@@ -82,7 +96,7 @@
         a.label.classList.toggle('ap-clash-sel', clash.length > 0 && a.box.checked);
         a.label.querySelector('.ap-why').textContent = clash.length && a.box.checked ? 'conflicts with ' + clash.map(function (b) { return b.name; }).join(', ') : '';
         a.label.title = clash.length ? 'Changes the same class features as ' + clash.map(function (b) {
-          return b.name + ' (' + Object.keys(a.touch).filter(function (id) { return b.touch[id]; }).map(function (id) { return units[id].label; }).join(', ') + ')';
+          return b.name + ' (' + names(Object.keys(a.touch).filter(function (id) { return b.touch[id]; })) + ')';
         }).join('; ') : '';
       });
       var bad = sel.filter(function (a) { return a.label.classList.contains('ap-clash'); });
@@ -135,7 +149,7 @@
         hit.forEach(function (u) {
           fate[u.id].by.forEach(function (x) {
             var k = abId(x); if (!seen[k]) { seen[k] = { x: x, rep: [], mod: [] }; lines.push(seen[k]); }
-            (x.b.replaces.indexOf(u.id) >= 0 ? seen[k].rep : seen[k].mod).push(u.label);
+            (x.b.replaces.indexOf(u.id) >= 0 ? seen[k].rep : seen[k].mod).push(u.id);
           });
         });
         note.hidden = false;
@@ -143,7 +157,7 @@
         note.innerHTML = '<p class="admonition-title">' + (gone ? 'Replaced by your archetype' : 'Changed by your archetype') + '</p>' +
           lines.map(function (l) {
             return '<p>' + link(l.x) + ' <span class="ap-tag">' + esc(l.x.a.name) + '</span> ' +
-              (l.rep.length ? 'replaces ' + esc(l.rep.join(', ')) : '') + (l.rep.length && l.mod.length ? '; ' : '') + (l.mod.length ? 'modifies ' + esc(l.mod.join(', ')) : '') + '</p>';
+              (l.rep.length ? 'replaces ' + esc(names(l.rep)) : '') + (l.rep.length && l.mod.length ? '; ' : '') + (l.mod.length ? 'modifies ' + esc(names(l.mod)) : '') + '</p>';
           }).join('') + (gone ? '<p><button type="button" class="ap-show">Show the original text</button></p>' : '');
         var btn = note.querySelector('.ap-show');
         if (btn) btn.addEventListener('click', function () { s.els.forEach(function (e) { e.classList.toggle('ap-gone'); }); btn.textContent = s.els[0] && s.els[0].classList.contains('ap-gone') ? 'Show the original text' : 'Hide the original text'; });
@@ -158,7 +172,7 @@
         }).join(', ') + '. Each ability says which class features it replaces.</p>' +
           sel.filter(function (a) { return a.intro; }).map(function (a) { return '<div class="ap-intro"><strong>' + esc(a.name) + ':</strong> ' + fixLinks(a.intro).replace(/^<p>|<\/p>$/g, '') + '</div>'; }).join('') +
           abil.map(function (x) {
-            var rep = x.b.replaces.map(function (id) { return units[id].label; }), mod = x.b.modifies.map(function (id) { return units[id].label; });
+            var rep = x.b.replaces.length ? [names(x.b.replaces)] : [], mod = x.b.modifies.length ? [names(x.b.modifies)] : [];
             return '<div class="ap-ab" id="' + abId(x) + '"><h4>' + esc(x.b.name) + ' <span class="ap-tag">' + esc(x.a.name) + '</span>' +
               (x.b.lvl ? ' <span class="ap-lvl">' + ORD(x.b.lvl) + ' level</span>' : '') + '</h4>' +
               ((rep.length || mod.length) ? '<p class="ap-rep">' + (rep.length ? 'Replaces ' + esc(rep.join(', ')) : '') + (rep.length && mod.length ? '. ' : '') + (mod.length ? 'Modifies ' + esc(mod.join(', ')) : '') + '</p>' : '') +

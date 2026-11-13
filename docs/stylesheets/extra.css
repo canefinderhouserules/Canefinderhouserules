@@ -65,7 +65,7 @@
 
 /* Archetype picker on class pages (javascripts/archetype-picker.js) */
 .md-typeset .ap { margin: 1em 0; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .2rem; }
-.md-typeset .ap > summary { cursor: pointer; padding: .6em .9em; display: flex; flex-wrap: wrap; gap: .2em .6em; align-items: baseline; }
+.md-typeset .ap > summary { cursor: pointer; padding: .6em 1.8rem .6em 2rem; display: flex; flex-wrap: wrap; gap: .2em .6em; align-items: baseline; }
 .md-typeset .ap .ap-title { font-weight: 700; }
 .md-typeset .ap .ap-hint { color: var(--md-default-fg-color--light); font-size: .64rem; }
 .md-typeset .ap .ap-count:not(:empty) { padding: 0 .5em; border-radius: 1em; background: var(--md-accent-fg-color); color: var(--md-accent-bg-color); font-size: .64rem; font-weight: 700; }
