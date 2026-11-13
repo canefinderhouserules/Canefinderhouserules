@@ -60,7 +60,7 @@
         '</div></details>';
     });
     html += '</div><p class="ss-note">Within one filter a spell needs any of the ticked options; across filters it needs all of them. ' +
-      'Level counts for the ticked classes when there are any.</p><p class="ss-status" aria-live="polite"></p>' +
+      'Classes and domains are spell lists: a spell needs to be on any of the ticked lists, and the level counts on those lists.</p><p class="ss-status" aria-live="polite"></p>' +
       '<div class="ss-table-wrap"><table class="ss-table"><thead><tr>' +
       '<th data-sort="name">Name</th><th data-sort="school">School</th><th data-sort="level">Level</th><th>Casting Time</th><th>Range</th><th>Duration</th><th>Save / SR</th><th>Description</th>' +
       '</tr></thead><tbody></tbody></table></div><p class="ss-morewrap"><button type="button" class="md-button ss-more">Show more</button></p>';
@@ -96,9 +96,12 @@
     update(false);
   }
 
+  // A domain is one more spell list, like a class: with classes or domains ticked, a spell needs to be on any
+  // of those lists, and its level is the level it has on them.
   function relevantLevels(s) {
-    var out = [];
-    for (var c in s.l) if (!state.cls.size || state.cls.has(c)) out.push(s.l[c]);
+    var out = [], any = state.cls.size || state.dom.size;
+    for (var c in s.l) if (!any || state.cls.has(c)) out.push(s.l[c]);
+    if (s.dom) for (var d in s.dom) if (state.dom.has(d)) out.push(s.dom[d]);
     return out;
   }
 
@@ -107,17 +110,16 @@
       var words = fold(state.text).split(/\s+/).filter(Boolean);
       for (var i = 0; i < words.length; i++) if (s.key.indexOf(words[i]) < 0) return false;
     }
-    if (state.cls.size && !Object.keys(s.l).some(function (c) { return state.cls.has(c); })) return false;
+    if ((state.cls.size || state.dom.size) && !relevantLevels(s).length) return false;
     if (state.lvl.size && !relevantLevels(s).some(function (l) { return state.lvl.has(String(l)); })) return false;
     if (state.sch.size && !state.sch.has(s.s)) return false;
     if (state.sub.size && !(s.ss || []).some(function (x) { return state.sub.has(x); })) return false;
     if (state.dsc.size && !(s.d || []).some(function (x) { return state.dsc.has(x); })) return false;
-    if (state.dom.size && !Object.keys(s.dom || {}).some(function (x) { return state.dom.has(x); })) return false;
     return true;
   }
 
   function levelText(s) {
-    var keys = Object.keys(s.l).filter(function (c) { return !state.cls.size || state.cls.has(c); });
+    var keys = Object.keys(s.l).filter(function (c) { return !(state.cls.size || state.dom.size) || state.cls.has(c); });
     keys.sort(function (a, b) { return CLASS_ORDER.indexOf(a) - CLASS_ORDER.indexOf(b); });
     var parts = keys.map(function (c) { return (SHORT[c] || c) + ' ' + s.l[c]; });
     if (state.dom.size) Object.keys(s.dom || {}).filter(function (d) { return state.dom.has(d); }).forEach(function (d) { parts.push(d + ' ' + s.dom[d]); });
