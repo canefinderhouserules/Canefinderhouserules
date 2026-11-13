@@ -183,7 +183,12 @@ function archetypes(file, units) {
     const intro = []; const abil = [];
     for (const para of paras) {
       const m = para.match(/^\*\*([^*]+?)\*\*:?\s*([\s\S]*)$/) || para.match(/^\*\*([^*]+?):\*\*\s*([\s\S]*)$/);
-      if (m && !/^(Table|Prerequisite)/i.test(m[1])) abil.push({ name: m[1].replace(/:$/, '').trim(), md: m[2] });
+      const prev = abil[abil.length - 1];
+      // an option of the ability above ("choose one of the specializations below"): no level and no replacement of its own
+      const option = m && prev && /\b(following|below)\b/i.test(plain(prev.md)) && !/\b(replac|alter|modif)/i.test(m[2]) &&
+        !new RegExp('\\b' + ORD + ' level').test(plain(m[2])) && !/proficien|skills/i.test(m[1]);
+      if (option) prev.md += '\n\n- **' + m[1].replace(/:$/, '').trim() + '**: ' + m[2].replace(/\n+/g, ' ');
+      else if (m && !/^(Table|Prerequisite)/i.test(m[1])) abil.push({ name: m[1].replace(/:$/, '').trim(), md: m[2] });
       else if (abil.length) abil[abil.length - 1].md += '\n\n' + para;
       else intro.push(para);
     }
