@@ -239,6 +239,10 @@ function archetypes(file, units) {
       const nm = norm(a.name);
       if (/^(class )?skills?$|^skill ranks( per level)?$/.test(nm)) { if (!r.replaces.includes('class-skills-1')) r.modifies.push('class-skills-1'); }
       else if (/complement|recommended|suggested/i.test(plain(a.md).slice(0, 300) + a.name)) { /* a list of suggested options, not a change */ }
+      else if (/^diminished spell(casting|s)$/.test(nm) && !r.replaces.length && !r.modifies.length) {
+        const sp = units.filter(u => /^spells?$|spellcasting/.test(u.base));
+        r.modifies.push(...sp.map(u => u.id));
+      }
       else if (own && (nm === own || nm === own + 's' || nm.replace(/s$/, '') === own) && !r.replaces.length && !r.modifies.length) {
         const us = units.filter(u => u.base === own);
         (/proficien/.test(nm) ? r.replaces : r.modifies).push(...us.map(u => u.id));
@@ -248,7 +252,8 @@ function archetypes(file, units) {
     // sections of the page that are not archetypes (rage powers, bloodlines, schools...) change no class feature
     // (a long list where few entries replace anything is a list of options like bloodlines or mysteries)
     const changing = abilities.filter(b => b.replaces.length || b.modifies.length).length;
-    if (!changing || (abilities.length > 20 && changing < abilities.length * 0.4)) continue;
+    const optionList = /\b(powers|discover(y|ies)|hex(es)?|bloodlines|wildblooded|mysteries|masterpieces|inquisitions|domains|traps|arcana|talents|spirits|orders|channeling|companions|vows|sagas|schools|dares|combat styles?|mercies|divine bonds|models|anointings|blades|spellcasting vigilantes|weapon group)\b/i.test(name);
+    if (!abilities.length || (optionList && changing < abilities.length * 0.5) || (abilities.length > 40 && changing < abilities.length * 0.4)) continue;
     res.push({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities });
   }
   return res;
