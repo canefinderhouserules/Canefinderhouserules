@@ -20,6 +20,7 @@ jobs:
           python-version: '3.x'
       - run: pip install -r requirements.txt
       - run: node tools/build-spells.js
+      - run: node tools/build-archetypes.js
       - run: mkdocs build
       - run: node tools/build-fulltext.js site
       - uses: actions/upload-pages-artifact@v3
