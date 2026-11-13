@@ -56,7 +56,9 @@ nav:
     - Magus:
         - Magus: magus.md
         - Archetypes: magus-archetypes.md
-    - omdura.md
+    - Omdura:
+        - Omdura: omdura.md
+        - Archetypes: omdura-archetypes.md
     - Oracle:
         - Oracle: oracle.md
         - Archetypes: oracle-archetypes.md

@@ -339,6 +339,10 @@ This trick allows a ninja to use her ki to walk through the air. Whenever the ni
 
 At 20th level, a ninja becomes a true master of her art. She can, as a standard action, cast greater invisibility on herself. While invisible in this way, she cannot be detected by any means, and not even invisibility purge, see invisibility, and true seeing can reveal her. She uses her ninja level as her caster level for this ability. Using this ability consumes 3 ki points from her ki pool. In addition, whenever the ninja deals sneak attack damage, she can sacrifice additional damage dice to apply a penalty to one ability score of the target equal to the number of dice sacrificed for 1 minute. This penalty does not stack with itself and cannot reduce an ability score below 1.
 
+## Ninja Archetypes
+
+The ninja has these archetypes: [frozen shadow](#frozen-shadow-archetype) and [hunting serpent](#hunting-serpent-archetype) (below), and [gunpowder bombardier](rogue-archetypes.md#gunpowder-bombardier), [masked enforcer](rogue-archetypes.md#masked-enforcer), and [petal ninja](rogue-archetypes.md#petal-ninja) (on the rogue archetypes page).
+
 ## Frozen Shadow Archetype
 
 Frozen shadows belong to a rare ninja clan operating in the frozen north, working as thieves, power brokers, and spies loosely guided by secretive masters with unknown agendas.

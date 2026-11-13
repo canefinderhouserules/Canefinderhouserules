@@ -16,6 +16,26 @@ As their powers are influenced by their faith, all omduras must focus their wors
 
 | Level | BAB | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 1st | +0 | +2 | +0 | +2 | Aura, detect alignment, invocation, orisons, spells | 1 | — | — | — | — | — |
+| 2nd | +1 | +3 | +0 | +3 | Divine touch | 2 | — | — | — | — | — |
+| 3rd | +2 | +3 | +1 | +3 | Divine infusion | 3 | — | — | — | — | — |
+| 4th | +3 | +4 | +1 | +4 | Divine might | 3 | 1 | — | — | — | — |
+| 5th | +3 | +4 | +1 | +4 | Divine weapon | 4 | 2 | — | — | — | — |
+| 6th | +4 | +5 | +2 | +5 | Divine infusion | 4 | 3 | — | — | — | — |
+| 7th | +5 | +5 | +2 | +5 | Commune 1/day | 4 | 3 | 1 | — | — | — |
+| 8th | +6/+1 | +6 | +2 | +6 | Divine weapon | 4 | 4 | 2 | — | — | — |
+| 9th | +6/+1 | +6 | +3 | +6 | Divine might 2/day, divine infusion | 5 | 4 | 3 | — | — | — |
+| 10th | +7/+2 | +7 | +3 | +7 | — | 5 | 4 | 3 | 1 | — | — |
+| 11th | +8/+3 | +7 | +3 | +7 | Divine weapon +3, improved invocation | 5 | 4 | 4 | 2 | — | — |
+| 12th | +9/+4 | +8 | +4 | +8 | Divine infusion | 5 | 5 | 4 | 3 | — | — |
+| 13th | +9/+4 | +8 | +4 | +8 | — | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | +10/+5 | +9 | +4 | +9 | Divine might 3/day, divine weapon | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | +11/+6/+1 | +9 | +5 | +9 | Commune 2/day, divine infusion | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | +12/+7/+2 | +10 | +5 | +10 | — | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | +12/+7/+2 | +10 | +5 | +10 | Divine weapon +5 | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | +13/+8/+3 | +11 | +6 | +11 | Divine infusion, greater divine might | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | +14/+9/+4 | +11 | +6 | +11 | Divine might 4/day | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | +15/+10/+5 | +12 | +6 | +12 | Divine weapon +6, greater invocation | 5 | 5 | 5 | 5 | 5 | 5 |
 
 ## Class Skills
 
@@ -65,6 +85,26 @@ An omdura can’t cast spells of an alignment opposed to her own or her deity’
 
 | Level | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th |
 |---|---|---|---|---|---|---|---|
+| 1st | 4 | 2 | — | — | — | — | — |
+| 2nd | 5 | 3 | — | — | — | — | — |
+| 3rd | 6 | 4 | — | — | — | — | — |
+| 4th | 6 | 4 | 2 | — | — | — | — |
+| 5th | 6 | 4 | 3 | — | — | — | — |
+| 6th | 6 | 4 | 4 | — | — | — | — |
+| 7th | 6 | 5 | 4 | 2 | — | — | — |
+| 8th | 6 | 5 | 4 | 3 | — | — | — |
+| 9th | 6 | 5 | 4 | 4 | — | — | — |
+| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
+| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
+| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
+| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
+| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
+| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
+| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
+| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
+| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
+| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
+| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
 
 ### Detect Alignment (Sp)
 
@@ -153,55 +193,9 @@ At 20th level, each day when the omdura regains her spell slots, she chooses one
 
 An omdura who grossly violates the code of conduct required by her god loses all spells and class features, except for her armor, shield, and weapon proficiencies and bonus feats. She cannot thereafter gain levels as an omdura of that god until she atones for her deeds (see the [*atonement*](../../magic/spells/atonement.md) spell).
 
-## Arcane Exemplar
+## Archetypes
 
-In some cases, especially with regards to gods of magic, an omdura learns to manipulate magical forces and arcane secrets to aid her god. These omduras do not receive spells from their god, but instead gain arcane insight from their god that allows them to manipulate arcane energies.
-
-**Arcane Insight**
-
-An arcane exemplar casts arcane spells drawn from the magus spell list, as a magus of her level. She uses her Charisma score and modifier in place of her Intelligence score and modifier for the purposes of learning spells, casting spells, determining spell DCs and bonus spells, and any other effects related to spellcasting.
-
-An arcane exemplar must study a spellbook each day to prepare her spells, as a magus. She begins play with a spellbook containing all 0-level magus spells plus three 1st-level [magus spells](magus.md#spells) of her choice. The arcane exemplar also selects a number of additional 1st-level magus spells equal to her Charisma modifier to add to her spellbook. At each new arcane exemplar level, she adds two new magus spells of any spell level or levels that she can cast (based on her new arcane exemplar level) to her spellbook. At any time, an arcane exemplar can also add spells found in other spellbooks to her own.
-
-This alters spells and orisons.
-
-**Spellstrike (Su)**
-
-At 2nd level, an arcane exemplar gains the [magus’s spellstrike](magus.md#spellstrike-su) class feature.
-
-This replaces divine touch.
-
-**Divine Arcana (Ex)**
-
-At 3rd level, an arcane exemplar gains one magus arcana. She gains an additional magus arcana at 6th level and every 3 levels thereafter. The arcane exemplar treats her omdura level as her magus level for the purpose of meeting prerequisites of a magus arcana.
-
-If a magus arcana requires the arcane exemplar to expend points from the [magus arcane pool](magus.md#arcane-pool-su), the arcane exemplar can expend either minutes of her invocation ability or prepared spells in place of the required points. If she expends minutes of her invocation ability, each minute expended in this way counts as 1 point expended from the [magus arcane pool](magus.md#arcane-pool-su). If she expends prepared spells, the number of points expended from the magus arcane pool is equal to the level of the expended prepared spell.
-
-This replaces divine infusion.
-
-**Spell Recall (Su)**
-
-At 5th level, an arcane exemplar can recall a spell she has already cast. Once per day as a swift action, she can recall any single magus spell that she has already prepared and cast that day. The spell she recalls must be at least 1 level below the highest spell level the arcane exemplar can cast. At 17th level, she can recall any spell, regardless of its level. She can use this ability one additional time per day at 11th level and at 17th level. In addition, she can expend minutes of her invocation ability to recall a spell as a swift action. She must expend a number of minutes equal to the level of spell she is attempting to recall when recalling a spell in this way.
-
-This replaces divine weapon.
-
-## Exemplar of War
-
-Some omduras are chosen by their gods to lead their followers into combat, waging war against the enemies of the faith. These warriors are unable to cast spells, but they command exceptional combat prowess that allows them to excel on the battlefield.
-
-**Divine Training (Ex)**
-
-An exemplar of war gains a bonus feat at 1st level and every 3 levels thereafter. These bonus feats must be selected from those listed as combat feats.
-
-At 5th level and every 3 levels thereafter, an exemplar of war can learn a new bonus feat in place of a bonus feat she has already learned. In effect, the exemplar of war loses the old bonus feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. An exemplar of war can swap out only one feat at any given level and must choose whether or not to swap the feat at the time she gains a new bonus feat for the level.
-
-This replaces spells.
-
-**Chosen Warrior (Ex)**
-
-At 3rd level, an exemplar of war gains the [Chosen One](../../rules/feats/chosen-one.md) feat as a bonus feat. At 6th level and every 3 levels thereafter, the exemplar of war gains an additional bonus feat. These feats must be selected from the following list: [Blessed by a God or Dragon](../../rules/feats/blessed-by-a-god-or-dragon.md), [Chosen One’s Might](../../rules/feats/chosen-ones-might.md), or [Chosen One’s Resilience](../../rules/feats/chosen-ones-resilience.md). At 9th level, the following feats are added to the list: [Chosen One’s Determination](../../rules/feats/chosen-ones-determination.md) and [Chosen One’s Wrath](../../rules/feats/chosen-ones-wrath.md). An exemplar of war can ignore any level prerequisites for these bonus feats, but she must meet all other prerequisites. If the exemplar of war selects Blessed by a God or Dragon as a bonus feat, she can plea for assistance from her god once per day instead of once per week.
-
-This replaces divine infusion.
+The omdura archetypes (arcane exemplar, exemplar of war, and judge of souls) are on the [Omdura Archetypes](omdura-archetypes.md) page.
 
 ## Favored Class Bonuses
 

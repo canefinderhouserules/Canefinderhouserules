@@ -101,3 +101,63 @@ At 10th level, a sword saint learns to focus faster and is able to make an iaiju
 **Terrifying Iaijutsu (Ex)**: At 5th level, a sword saint’s iaijutsu strike devastates the morale of foes that witness it. When a sword saint successfully hits with an iaijutsu strike, all foes within 30 feet must succeed at a Will save (DC 10 + 1/2 the sword saint’s class level + the sword saint’s Cha modifier) or become [shaken](../../rules/appendices/conditions.md#shaken) for 1d4+1 rounds. This ability replaces [banner](samurai.md#banner-ex).
 
 **Roaring Iaijutsu (Ex)**: At 14th level, a sword saint’s iaijutsu strike deafens foes upon impact. When a sword saint successfully hits with an iaijutsu strike, all foes within 30 feet must succeed at a Fortitude save (DC 10 + 1/2 the sword saint’s class level + the sword saint’s Str modifier) or be [deafened](../../rules/appendices/conditions.md#deafened) for 1d4 minutes. This ability replaces [greater banner](samurai.md#greater-banner-ex).
+
+## Brawling Blademaster
+
+While some martial arts traditions focus on the strength of the body, most schools of combat and self-defense know the importance of using weapons as well. Brawling blademaster samurai use weapon strikes and unarmed attacks in equal measure—foes expecting to defend themselves against a dagger or a sword are often caught off guard by a brawling blademaster’s brutal kicks or punches.
+
+**Weapon and Armor Proficiency**: Brawling blademasters are proficient with all simple and martial weapons, plus the katana and wakizashi. Brawling blademasters are proficient with light armor, but not with shields.
+
+This alters the samurai’s weapon and armor proficiency.
+
+**Empty Hand (Ex)**: A brawling blademaster gains Improved Unarmed Strike as a bonus feat. She uses her samurai level as her monk level for determining the amount of damage she deals with an unarmed strike. These levels stack with monk levels to determine the brawling blademaster’s unarmed strike damage.
+
+This replaces mount.
+
+**Nimble (Ex)**: At 2nd level, a brawling blademaster gains the gunslinger’s nimble class feature, using her samurai level as his gunslinger level.
+
+**Dual Expertise (Ex)**: At 3rd level, a brawling blademaster gains Two-Weapon Fighting as a bonus feat, even if she doesn’t meet the prerequisites. Furthermore, when the brawling blademaster selects a feat with the bonus feat class feature, she can ignore any Dexterity requirements for the feat if its prerequisites include the Two-Weapon Fighting feat. This replaces weapon expertise.
+
+**Harmonious Flow (Ex)**: At 4th level, the brawling blademaster becomes skilled at combining weapon attacks and unarmed strikes into a harmonious combat style. When attacking the target of her challenge, the brawling blademaster doesn’t take the usual –2 penalty on attack rolls associated with attacking with two weapons if her main-hand weapon is a light or one-handed manufactured weapon and her off-hand weapon is an unarmed strike (or vice versa). While she’s using this ability, one of her hands must be empty even if she uses another body part to make an unarmed strike.
+
+This replaces mounted archer.
+
+**Perfect Clarity (Ex)**: At 5th level, the brawling blademaster sees all her foes with perfect clarity even when focused on one opponent. She no longer takes a penalty to her AC during a challenge.
+
+This ability replaces banner.
+
+**Superior Focus (Ex)**: At 14th level, the brawling blademaster gains a +2 bonus on saving throws during a challenge.
+
+This replaces greater banner.
+
+## Ironbound Sword
+
+The ironbound sword’s fighting style, focused on incapacitating opponents rather than killing them, is founded on a philosophy that cares both for the samurai and for her attacker. This style became prevalent during the peaceful and stable periods of an ancient eastern empire, and reflected those values. Using these techniques, an ironbound sword can subdue a foe without causing permanent harm, leaving the soul of the samurai unstained by deaths of her enemies.
+
+**Merciful Combatant (Ex)**: At 3rd level, an ironbound sword becomes an expert at defeating foes without killing them. An ironbound sword can use any weapon to deal nonlethal damage without taking the normal –4 penalty on attack rolls. Additionally, the ironbound sword gains a +2 bonus on combat maneuvers against a target so long as the last successful attack she made against that target dealt nonlethal damage. Her samurai levels count as fighter levels and stack with fighter levels for the purposes of fighter and samurai prerequisites and class features.
+
+This replaces weapon expertise.
+
+**Subduing Knockout (Ex)**: At 5th level, once per day, an ironbound sword can unleash a devastating attack that can instantly knock a target unconscious. She must announce this intent before making her attack roll. If the ironbound sword’s attack hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + half the ironbound sword’s level + the higher of the ironbound sword’s Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target can attempt a new saving throw to end the effect as a full-round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the ironbound sword can use this ability twice per day; at 15th level, she can use it three times per day.
+
+This replaces banner.
+
+**Blade Reversal (Ex)**: At 14th level, an ironbound sword can turn the force of an opponent’s attacks back against them. Whenever the ironbound sword takes a full defense action, she can expend an attack of opportunity to attempt to counter melee attacks made against her. This counter is a single attack roll at the ironbound blade’s full base attack bonus that resolves before the enemy’s attack. If the counter successfully hits the attacking enemy’s AC and if the ironbound sword’s attack roll is higher than the attacking creature’s attack roll, the ironbound sword takes no damage from the enemy’s attack and can initiate a disarm combat maneuver against the attacking enemy as a free action. If the triggering attack was made with a natural attack or unarmed strike, a successful disarm combat maneuver renders that natural attack or unarmed strike unusable until the victim spends a standard action to reset dislocated joints. In addition, the ironbound sword can spend one use of her resolve when she hits with a nonlethal attack to initiate a disarm combat maneuver against her target as a free action.
+
+This replaces greater banner.
+
+## Yojimbo
+
+Yojimbo are highly trained bodyguards favored by the nobles and warlords of distant eastern lands. Yojimbo who follow the order of the warrior loyally guard a single master, while ronin serve whoever can pay for their protection. Yojimbo often accompany visitors from those lands; a few have chosen to stay, and some have even passed on their training to local bodyguards.
+
+**Resolute Defense (Ex)**: At 1st level, whenever a yojimbo issues a challenge, he can select one ally as his ward for the duration of the challenge. Whenever the yojimbo is adjacent to his ward, he can use resolve, greater resolve, and true resolve on his ward rather than targeting himself.
+
+This ability replaces mount.
+
+**Armor Expertise (Ex)**: At 3rd level, a yojimbo selects one type of armor, such as chain shirt or scale mail. The yojimbo gains armor training, treating his samurai level as his fighter level, when wearing the selected armor.
+
+This ability replaces weapon expertise.
+
+**Intercept (Ex)**: At 4th level, a yojimbo learns to better disrupt the attacks of his enemies. He gains BodyguardAPG as a bonus feat, even if he does not meet the prerequisite. In addition, whenever the yojimbo uses the aid another action to increase an ally’s Armor Class, the bonus to Armor Class from the aid another action increases by 1.
+
+This ability replaces mounted archer.
