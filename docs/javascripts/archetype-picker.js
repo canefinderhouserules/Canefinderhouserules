@@ -175,7 +175,7 @@
       // the class table: what you get at each level
       rows.forEach(function (row) {
         if (!sel.length) { row.td.innerHTML = row.orig; return; }
-        var parts = d.units.filter(function (u) { return u.lvl === row.lvl && u.base !== 'class skills' && !/proficien/.test(u.base); }).map(function (u) {
+        var parts = d.units.filter(function (u) { return u.lvl === row.lvl && !u.sub && u.base !== 'class skills' && !/proficien/.test(u.base); }).map(function (u) {
           var f = fate[u.id];
           if (!f) return linkLabel(u.label, u.sec);
           return f.kind === 'replaced' ? '<del title="Replaced by ' + esc(f.by.map(function (x) { return x.b.name; }).join(', ')) + '">' + esc(u.label) + '</del>'
