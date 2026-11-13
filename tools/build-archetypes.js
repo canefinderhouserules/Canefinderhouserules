@@ -14,11 +14,26 @@ const REPORT = process.argv.includes('--report');
 // class page -> archetype pages (paths relative to docs/). Every <class>.md with a <class>-archetypes.md is found on its own;
 // EXTRA adds archetype pages with other names.
 const C = 'characters/classes/';
+// An entry is a page, or { file, only: [archetype names], except: [names] }.
+// Unchained classes use their base class's archetypes (Pathfinder Unchained: an archetype that replaces trap sense
+// replaces danger sense instead); the unchained monk and summoner only the ones printed for them (as Nethys lists them).
+const UNCHAINED_MONK = ['Black Asp', 'Brazen Disciple', 'Disciple of Wholeness', 'Elemental Monk', 'Invested Regent', 'Lifting Hand', 'Monk of the Mantis', 'Perfect Scholar', 'Sage Counselor', 'Scaled Fist', 'Serpent-Fire Adept', 'Softstrike Monk', 'Soul Shepherd', 'Windstep Master'];
+const UNCHAINED_SUMMONER = ['Construct Caller (Unchained Summoner)', 'Devil Binder (Unchained Summoner)', 'Devil Impostor (Unchained Summoner)', 'Fey Caller', 'God Caller', 'Leshy Caller', 'Soulbound Summoner', 'Storm Caller', 'Twinned Summoner'];
+// ninja archetypes the wiki keeps on the rogue archetypes page (Masked Enforcer is Nethys's "Mask of the Living God")
+const NINJA = ['Petal Ninja', 'Gunpowder Bombardier', 'Masked Enforcer'];
 const EXTRA = {
   shifter: [C + 'canefinder-shifter-archetypes.md', C + 'shifter-archetypes.md'],
   'shifter-ultimate-wilderness': [C + 'shifter-archetypes.md'],
   witch: [C + 'witch-archetypes.md', C + 'white-haired-witch.md'],
+  rogue: [{ file: C + 'rogue-archetypes.md', except: NINJA }],
+  ninja: [{ file: C + 'ninja.md', only: ['Frozen Shadow Archetype', 'Hunting Serpent Archetype'] }, { file: C + 'rogue-archetypes.md', only: NINJA }],
+  summoner: [{ file: C + 'summoner-archetypes.md', except: UNCHAINED_SUMMONER.filter(n => /Unchained|God Caller/.test(n)) }],
+  'unchained-summoner': [{ file: C + 'summoner-archetypes.md', only: UNCHAINED_SUMMONER }],
+  'unchained-monk': [{ file: C + 'monk-archetypes.md', only: UNCHAINED_MONK }],
+  'unchained-barbarian': [C + 'barbarian-archetypes.md'],
+  'unchained-rogue': [{ file: C + 'rogue-archetypes.md', except: NINJA }],
 };
+const fileOf = e => typeof e === 'string' ? e : e.file;
 const CLASSES = {};
 for (const dir of [C, C + 'legendary/']) {
   for (const f of fs.readdirSync(path.join(ROOT, dir))) {
@@ -249,6 +264,9 @@ function references(text, units, bs) {
     if (!/(\b(this|these|which|it|they|that)(\s+[\w’'-]+){0,3}|\bthe (ability|abilities|performance|power|talent|deed)|\band|,)\s*$/i.test(before) && !/^\s*$/.test(before) &&
       !/^\s*(?!(?:the|a|an|he|she|his|her|their|each|any|if|when|whenever|once|while)\b)[A-Z][\w’'-]*(\s+[a-z][\w’'-]*){0,3}\s*$/.test(before)) continue;
     // asides in parentheses, and the alternative for another version of the class, are not what is replaced
+    // (for an unchained class, its alternative: "replaces slow fall or the ki power gained at 4th level for an unchained monk")
+    const alt = /^unchained/.test(CLS) && m[2].match(/,?\s+or\s+([^.;]*?)\s*\(?\s*for an? unchained \w+\)?/i);
+    if (alt) m[2] = alt[1];
     let phrase = m[2].replace(/\([^)]*\)/g, ' ').replace(/,?\s+or\s+[^.;]*\b(unchained|for an? \w+ \w+)\b.*$/i, '').replace(/\s+for an? unchained \w+.*$/i, '');
     if (/^(?:instead of|in place of)/.test(verb) && !findBase(phrase, bs)) continue;
     if (/^chang/.test(verb) && !/^(?:the |his |her )?(?:[a-z ]+ )?(?:class feature|ability)/i.test(phrase) && !findBase(phrase.split(/\s+(?:to|so|into|by)\s+/)[0], bs)) continue;
@@ -296,7 +314,9 @@ function references(text, units, bs) {
 // ---- archetypes ----
 // Sections of archetype pages that are lists of options (rage powers, bloodlines, mysteries...), not archetypes.
 const OPTION_LIST = /\b(powers|discover(y|ies)|hex(es)?|bloodlines|wildblooded|mysteries|masterpieces|inquisitions|domains|traps|arcana|talents|spirits|orders|channeling|companions|vows|sagas|schools|dares|combat styles?|mercies|divine bonds|models|anointings|blades|spellcasting vigilantes|weapon groups?|weapon group members|oaths?|evolutions|patron themes|patron spells|base forms?)\b|^order of |orders$/i;
-function archetypes(file, units) {
+function archetypes(entry, units) {
+  const file = fileOf(entry);
+  const keep = n => (!entry.only || entry.only.includes(n)) && !(entry.except || []).includes(n);
   const s = read(file);
   const bs = bases(units);
   const res = [];
@@ -391,6 +411,7 @@ function archetypes(file, units) {
     // "but this archetype may still be combined with the recondite mechanist archetype": allowed although they share a feature
     const allow = [];
     for (const g of plain(body).matchAll(/\bthis archetype\s+(?:may|can) (?:still )?be combined with (?:the )?([\w’' -]+?) archetype\b/gi)) allow.push(...names(g));
+    if (!keep(name)) continue;
     res.push(Object.assign({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities }, excl.length ? { excl } : {}, allow.length ? { allow } : {}));
   }
   return res;
