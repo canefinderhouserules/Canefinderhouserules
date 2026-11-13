@@ -1,11 +1,11 @@
 # Familiar Figment
 
-**School** illusion (figment); **Level** sorcerer/wizard 2, witch 2
-**Casting Time** 1 standard action
-**Components** V, S
-**Range** touch
-**Target** your familiar
-**Duration** 1 round/level (D)
+**School** illusion (figment); **Level** sorcerer/wizard 2, witch 2  
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** touch  
+**Target** your familiar  
+**Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
 You create an illusory duplicate of your familiar that moves erratically around your familiar's space, frequently moving through the familiar's body with a blurring effect that makes it indistinguishable from the real creature. Attacks against the familiar have a 50% miss chance; attacks that miss instead target the familiar figment, which reacts as if damaged as appropriate to the attack but, unlike a [*mirror image*](mirror-image.md), is not destroyed when struck. This spell does not grant your familiar concealment or prevent it from being targeted by spell effects that do not require an attack roll.

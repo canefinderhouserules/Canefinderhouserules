@@ -3,7 +3,7 @@
 **School** evocation [fire]; **Level** bloodrager 4, magus 5, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (two balls of guano)  
-**Range** personal
+**Range** personal  
 **Duration** 1 round/level; see text  
 **Saving Throw** Reflex half; **Spell Resistance** yes
 

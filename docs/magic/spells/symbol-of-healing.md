@@ -2,7 +2,7 @@
 
 **School** conjuration (healing); **Level** cleric 3, occultist 3, paladin 4, witch 4  
 **Casting Time** 10 minutes  
-**Components** V, S, M (mercury and phosphorous, plus   powdered diamond and opal worth a total of 500 gp)
+**Components** V, S, M (mercury and phosphorous, plus   powdered diamond and opal worth a total of 500 gp)  
 **Range** 0 ft.; see text  
 **Effect** one symbol  
 **Duration** see text  

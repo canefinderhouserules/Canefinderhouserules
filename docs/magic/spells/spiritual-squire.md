@@ -3,7 +3,7 @@
 **School** evocation [force]; **Level** antipaladin 2, cleric 2, inquisitor 2, paladin 2, shaman 2, spiritualist 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft./level)  
 **Duration** 1 minute/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 

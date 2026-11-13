@@ -1,10 +1,10 @@
 # Energy Hack
 
-**School** transmutation [acid, cold, electricity, or fire; see below]; **Level** sorcerer/wizard 4
-**Casting Time** 1 immediate action
-**Components** V
-**Range** personal
-**Target** you
+**School** transmutation [acid, cold, electricity, or fire; see below]; **Level** sorcerer/wizard 4  
+**Casting Time** 1 immediate action  
+**Components** V  
+**Range** personal  
+**Target** you  
 **Duration** 1 round/level (see below)
 
 You can cast this spell only when you take 10 or more points of acid, cold, electricity, or fire damage from a spell or spell-like ability; this spell has the same energy descriptors as the damaging effect. When you use a spell or spell-like ability with the acid, cold, electricity, or fire descriptor, or use an arcanist exploit, arcane school power, bloodline power, magus arcana, or hex that deals acid, cold, electricity, or fire damage, you can choose to change the energy type and descriptor to match one of the descriptors of energy hack. Any other effect of that spell or power remains the same.

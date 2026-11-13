@@ -552,7 +552,7 @@ As long as the book is carried, the user is immediately aware of any action that
 
 ### Greatcube of Magic
 
-**Aura** powerful (all schools); **CL** 20th
+**Aura** powerful (all schools); **CL** 20th  
 **Slot** none; **Weight** 4,000 lbs.
 
 This polished cube is 3 feet across and bears countless symbols, patterns, lines, and tiny holes that pierce it no deeper than the thickness of a fingernail. Predominantly a rich gray but veined with white and gold like luxurious marble, it is somehow aligned to the flow of magical energy in its vicinity, and has been known to turn itself suddenly, usually less than an inch but rarely a foot or more. Across its long history it has turned up in the hands of arcane lords, gold dragons, strange mystics, petty magical tyrants, the church of the god of magic, and even a crafty linnorm, always for a short while before vanishing again.
@@ -567,7 +567,7 @@ The cube may also contain secrets of the planes and the strange colors between t
 
 ### Shaping Spring
 
-**Aura** powerful transmutation; **CL** 20th
+**Aura** powerful transmutation; **CL** 20th  
 **Slot** none; **Weight** 5 lbs.
 
 This long, straight staff bears a rough crystal at the top, wrapped in wire extending to the base. When the staff moves, something liquid shifts within the crystal. The staff tends to right itself if left alone, balancing easily on its lower end, easily moved or toppled but quickly returning to its upright position if left undisturbed for a few minutes. Though the creator of this item is uncertain, most believe it has ties to a powerful devil with an interest in conquest and breeding stronger slaves, who is likely to have played a role in its most famous work—the hobgoblin. Over the centuries the staff has appeared, usually in the hands of someone wanting to create a new slave race or to inflict a particularly cruel punishment on an enemy (such as when a bandit king used it to transform his enemy’s army into catfish in the middle of a hot summer battle).
@@ -580,7 +580,7 @@ Many stories of magical fountains or springs may be tales of this staff, whose c
 
 ### Shattered Shield of the General
 
-**Aura** powerful abjuration; **CL** 20th
+**Aura** powerful abjuration; **CL** 20th  
 **Slot** shield; **Weight** 10 lbs.
 
 At first glance this item is just a collection of wooden shards on a large black silk pillow. If assembled, these 12 shards would form a round shield with a piece in the center missing. The shield is incredibly old and the entire outer surface is carved to look like a winged eye in a circle, the holy symbol of a dead god of humanity.
@@ -597,7 +597,7 @@ Any attempt to repair the shield requires all of its pieces, and barring the dir
 
 ### Wanderer’s Rapier
 
-**Aura** strong conjuration; **CL** 20th
+**Aura** strong conjuration; **CL** 20th  
 **Slot** none; **Weight** 2 lbs.
 
 Despite its best-known name, the *wanderer’s rapier* is not necessarily a rapier. This weapon is a *+3 keen speed sword*, with the type of sword varying from wielder to wielder. Upon being taken up by a new owner, the weapon transforms into any type of sword of the wielder’s choosing, mundane or exotic. From that point on, the weapon always transforms into that type of sword whenever it is held by that individual. While bearing the *wanderer’s rapier*, the wielder gains a +4 bonus on Bluff and Diplomacy checks made to influence humanoids, and can use the rapier like a compass to point in the direction of the closest collection of gems, silver, or drinkable water as a standard action at will.

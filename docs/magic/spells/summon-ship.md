@@ -3,7 +3,7 @@
 **School** conjuration (creation); **Level** bard 4, cleric 4, occultist 3, psychic 4, sorcerer/wizard 4, summoner 3  
 **Casting Time** 10 minutes  
 **Components** V, S, F (a miniature ship; see text)  
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Duration** 1 day/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 

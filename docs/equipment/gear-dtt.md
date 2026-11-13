@@ -85,7 +85,7 @@ A spike hilt can be added to any one-handed or two-handed sword or hafted weapon
 
 A venom trap is a special bear trap that includes a reservoir that can hold up to 3 doses of injury poison, and a pump system designed to recoat the trap as a trapped target struggles to escape it. The spring-loaded, hinged jaws of the trap are attached to a chain, which in turn is secured to a spike driven into the ground to ensure that the victim cannot simply crawl away. Prying open the jaws or pulling the spike from the ground requires a successful DC 21 Strength check. On a failed check, the jaws are coated in a dose of poison from the reservoir and clamp back shut, making another attack against the trapped target. The venom trap can make only one attack each round. The base CR of a venom trap is 2, but the CR varies depending on the poison used.
 
-**Venom Trap** (CR varies)
-**Type** mechanical; **Perception** DC 15; **Disable Device** DC 21
-**Trigger** location; **Reset** manual
+**Venom Trap** (CR varies)  
+**Type** mechanical; **Perception** DC 15; **Disable Device** DC 21  
+**Trigger** location; **Reset** manual  
 **Effect** Atk +11 melee (2d6+4 plus poison); sharp jaws spring shut around the creature's ankle and halve the creature's base speed (or hold the creature immobile if the trap is attached to a solid object); the creature can escape with a successful DC 20 Disable Device check, DC 22 Escape Artist check, or DC 26 Strength check.

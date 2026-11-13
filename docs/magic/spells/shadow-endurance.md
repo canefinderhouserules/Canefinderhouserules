@@ -3,7 +3,7 @@
 **School** illusion (shadow) [shadow]; **Level** bard 5, mesmerist 5, shaman 5, sorcerer/wizard 6, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a fetchling's tooth)  
-**Range** personal
+**Range** personal  
 **Duration** 1 hour/level until discharged, then 1 minute/level; see text  
 **Saving Throw** Will disbelief (if interacted with); varies; see text; **Spell Resistance** see text
 

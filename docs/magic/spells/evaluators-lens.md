@@ -3,7 +3,7 @@
 **School** conjuration (creation); **Level** inquisitor 2, occultist 3, sorcerer/wizard 3, summoner 2, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
-**Range** personal
+**Range** personal  
 **Duration** 1 minute/level or until discharged
 
 You summon an insubstantial lens of force 4 inches in diameter that hovers in front of your face. When you attempt a saving throw against a spell with the figment or pattern descriptor, you can roll twice and take the higher result. You gain a +10 enhancement bonus on [Appraise](../../rules/skills/appraise.md) checks to appraise the worth of an item viewed through the lens, and you never judge an item's value wildly inaccurately. If you successfully identify that the item has magical properties, you can immediately attempt a [Spellcraft](../../rules/skills/spellcraft.md) check to determine the item's properties, as if you had cast [*detect magic*](detect-magic.md) on the item and examined it for 3 rounds. This effect cannot determine the properties of artifacts.

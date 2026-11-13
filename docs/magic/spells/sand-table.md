@@ -3,7 +3,7 @@
 **School** divination; **Level** bard 3, medium 3, ranger 3, sorcerer/wizard 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (handful of sand)  
-**Range** see text
+**Range** see text  
 **Duration** 1 hour/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 

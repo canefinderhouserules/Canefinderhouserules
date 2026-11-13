@@ -218,36 +218,36 @@ See also *buoyancy* as an emergency spell granting several targets swiftly risin
 
 ### Aquatic Trail
 
-**School** divination [water]; **Level** druid 3, inquisitor 3, ranger 2, shaman 3
-**Casting Time** 1 standard action; **Components** V, S
-**Range** medium; **Area** circle centered on you, radius 100 ft. + 10 ft./level; **Duration** 1 hour/level
+**School** divination [water]; **Level** druid 3, inquisitor 3, ranger 2, shaman 3  
+**Casting Time** 1 standard action; **Components** V, S  
+**Range** medium; **Area** circle centered on you, radius 100 ft. + 10 ft./level; **Duration** 1 hour/level  
 **Saving Throw** none; **Spell Resistance** no
 
 You track creatures through the water as if across soft ground as long as they passed through the area less than 1 week ago. The area moves with you, and others can follow the trail as long as they move with you. Trails may be covered by those of other creatures in the busy upper zones; the spell is more useful in the deep zones.
 
 ### Extreme Buoyancy
 
-**School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2
-**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF
-**Range** touch; **Target** creature touched; **Duration** 10 minutes/level
+**School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2  
+**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF  
+**Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 The target's buoyancy becomes and stays swiftly rising regardless of how dense it and its gear are.
 
 ### Free Swim
 
-**School** abjuration; **Level** alchemist 3, bard 3, cleric 3, druid 3, inquisitor 3, medium 3, mesmerist 3, occultist 3, psychic 3, ranger 3, spiritualist 3
-**Casting Time** 1 standard action; **Components** V, S, M (a strip of kelp bound to the target), DF
-**Range** touch; **Target** creature touched; **Duration** 10 minutes/level
+**School** abjuration; **Level** alchemist 3, bard 3, cleric 3, druid 3, inquisitor 3, medium 3, mesmerist 3, occultist 3, psychic 3, ranger 3, spiritualist 3  
+**Casting Time** 1 standard action; **Components** V, S, M (a strip of kelp bound to the target), DF  
+**Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 The target moves and attacks underwater normally without the usual penalties, as if under *freedom of movement*, but gains no protection against grapple, paralysis and magical effects that impede movement (*solid fog*, *slow*, *web*).
 
 ### Invisibility Bubble
 
-**School** illusion (glamer); **Level** alchemist 2, antipaladin 2, bard 2, inquisitor 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner (unchained) 2
-**Casting Time** 1 standard action; **Components** V, S, M (a needle from a sea urchin)
-**Range** touch; **Area** touched creature's space, up to one 5-foot cube; **Duration** 1 minute/level (D)
+**School** illusion (glamer); **Level** alchemist 2, antipaladin 2, bard 2, inquisitor 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner (unchained) 2  
+**Casting Time** 1 standard action; **Components** V, S, M (a needle from a sea urchin)  
+**Range** touch; **Area** touched creature's space, up to one 5-foot cube; **Duration** 1 minute/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 A glamered bubble surrounds the target's space, making her completely invisible underwater by hiding both her and the water she displaces. Works only on Medium or smaller targets. Other objects and creatures within the space are invisible while they stay there, which might reveal the spell to an observer who notices fish disappearing into the bubble. Creatures inside can see each other, so foes who can pinpoint the bubble can stick their heads in to see the target. Any creature inside that takes an action that would break invisibility pops the bubble and ends the spell. On land the bubble is clearly visible. The inside blocks light from escaping, so light sources inside neither illuminate past the edge nor reveal a telltale glow.
@@ -258,53 +258,53 @@ A glamered bubble surrounds the target's space, making her completely invisible 
 
 ### Lead Anchor
 
-**School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2, witch 2
-**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF
-**Range** touch; **Target** creature touched; **Duration** 10 minutes/level
+**School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2, witch 2  
+**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF  
+**Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 The target's buoyancy becomes and stays swiftly sinking regardless of density. It can walk on the bottom, but needs a DC 20 Swim check to swim toward the surface and stay above the bottom. Useful for exploring the sea floor and for drowning an air-breathing foe.
 
 ### Life Current
 
-**School** conjuration (healing) [water]; **Level** cleric 3, druid 3, paladin 3, ranger 3, shaman 3
-**Casting Time** 1 standard action; **Components** V, S, DF
-**Range** medium; **Area** current or portion of current up to 20 feet wide and 100 feet long; **Duration** 1 round
+**School** conjuration (healing) [water]; **Level** cleric 3, druid 3, paladin 3, ranger 3, shaman 3  
+**Casting Time** 1 standard action; **Components** V, S, DF  
+**Range** medium; **Area** current or portion of current up to 20 feet wide and 100 feet long; **Duration** 1 round  
 **Saving Throw** Will half; **Spell Resistance** yes
 
 You infuse the current with positive energy. At the start of their turn when the current moves them, living creatures in the area heal 1d6 hit points per 10 feet of the current's speed (maximum 6d6). Undead take an equal amount of damage instead.
 
 ### Neutral Buoyancy
 
-**School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2
-**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF
-**Range** touch; **Target** creature touched; **Duration** 10 minutes/level
+**School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2  
+**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF  
+**Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 The target's buoyancy becomes and stays neutral regardless of density.
 
 ### Pressure Adaptation
 
-**School** abjuration; **Level** alchemist 3, bloodrager 3, cleric 3, druid 3, paladin 3, psychic 3, ranger 3, shaman 3, summoner (unchained) 3
-**Casting Time** 1 standard action; **Components** V, S, M (slime from a cephalopod)
-**Range** touch; **Target** creature touched; **Duration** 1 hour/level
+**School** abjuration; **Level** alchemist 3, bloodrager 3, cleric 3, druid 3, paladin 3, psychic 3, ranger 3, shaman 3, summoner (unchained) 3  
+**Casting Time** 1 standard action; **Components** V, S, M (slime from a cephalopod)  
+**Range** touch; **Target** creature touched; **Duration** 1 hour/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 The target adjusts to 100 feet of new pressure (or the entire shift, for an instantaneous shift within its native range) after just one successful Fortitude save instead of five.
 
 ### Stabilize Pressure
 
-**School** abjuration; **Level** alchemist 2, bloodrager 2, cleric 2, druid 2, paladin 2, psychic 2, ranger 2, shaman 2, summoner (unchained) 2
-**Casting Time** 1 standard action; **Components** V, S, M (a piece of shell)
-**Range** touch; **Target** creature touched; **Duration** instantaneous
+**School** abjuration; **Level** alchemist 2, bloodrager 2, cleric 2, druid 2, paladin 2, psychic 2, ranger 2, shaman 2, summoner (unchained) 2  
+**Casting Time** 1 standard action; **Components** V, S, M (a piece of shell)  
+**Range** touch; **Target** creature touched; **Duration** instantaneous  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 The target instantly adjusts to its current pressure all at once. This doesn't help it readjust to future changes.
 
 ### Steam Ray Fusillade
 
-**School** evocation [fire, water]; **Level** sorcerer/wizard 7
-**Casting Time** 1 standard action; **Components** V, S, M (a scraping from a hydrothermal vent)
+**School** evocation [fire, water]; **Level** sorcerer/wizard 7  
+**Casting Time** 1 standard action; **Components** V, S, M (a scraping from a hydrothermal vent)  
 **Range** personal; **Target** you; **Duration** 1 round/level
 
 For the duration you can fire three rays of steam once per round as a standard action (and three as part of casting). They function like *scorching ray* (close range, ranged touch attacks, 4d6 fire damage each, spell resistance applies), but work underwater and above water without a caster level check for being a fire spell.
@@ -317,8 +317,8 @@ As *life current*, but with negative energy: it heals undead and harms living cr
 
 ### Wave Form
 
-**School** transmutation [water]; **Level** bloodrager 4, cleric 4, druid 4, shaman 4, sorcerer/wizard 4
-**Casting Time** 1 standard action; **Components** V, S
+**School** transmutation [water]; **Level** bloodrager 4, cleric 4, druid 4, shaman 4, sorcerer/wizard 4  
+**Casting Time** 1 standard action; **Components** V, S  
 **Range** personal; **Duration** instantaneous; **Saving Throw** see text
 
 You become a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and surge in a straight line up to twice your base speed before returning to normal form. This movement doesn't provoke attacks of opportunity. While in wave form you are immune to weapon attacks and attacks that target a specific number of creatures. All creatures and unattended objects in your path take 4d6 bludgeoning damage and are knocked prone; a successful Reflex save prevents being knocked prone.

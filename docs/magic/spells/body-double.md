@@ -1,11 +1,11 @@
 # Body Double
 
-**School** illusion (glamer); **Level** bard 2, bloodrager 2, magus 2, sorcerer/wizard 2
-**Casting Time** 1 standard action
-**Components** V, S, M (two glass beads)
-**Range** close (25 ft. + 5 ft./2 levels)
-**Target** two creatures; see text
-**Duration** 1 round/level
+**School** illusion (glamer); **Level** bard 2, bloodrager 2, magus 2, sorcerer/wizard 2  
+**Casting Time** 1 standard action  
+**Components** V, S, M (two glass beads)  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** two creatures; see text  
+**Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 Upon casting this spell, choose a primary target and a secondary target, both of which must be within range. If the primary target fails or forfeits its saving throw, its appearance, scent, sounds, and mannerisms change to match those of the secondary target.

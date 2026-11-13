@@ -3,7 +3,7 @@
 **School** abjuration [lawful]; **Level** inquisitor 2, paladin 1  
 **Casting Time** 1 immediate action  
 **Components** V, S, DF  
-**Range** personal
+**Range** personal  
 **Duration** instantaneous  
 **Saving Throw** none
 

@@ -111,7 +111,7 @@ The complete tome radiates a permanent *unhallow* effect in a 150-foot radius an
 
 ### Thornheart Blade
 
-**Aura** strong conjuration, necromancy and transmutation; **CL** 20th; **Slot** none; **Weight** 6 lbs.
+**Aura** strong conjuration, necromancy and transmutation; **CL** 20th; **Slot** none; **Weight** 6 lbs.  
 **Alignment** CN; **Ego** 23; **Senses** 120 ft., darkvision; **Int** 10, **Wis** 10, **Cha** 16; **Communication** empathy, speech, telepathy; **Languages** Aklo, Common, Sylvan
 
 This bastard sword appears grown rather than forged, its elaborate hilt and blade set with strange gem-like growths in deeper-than-emerald shades and blooming with fine silver. It is an intelligent +5 cold iron *vorpal* bastard sword whose special purpose is to defeat denizens of the fey realm. It is the living embodiment of the passions of the fey queen it was torn from.
@@ -452,7 +452,7 @@ It consumes enormous magical energy: enough to ward a structure for 24 hours, af
 
 ### Chitin Sabre
 
-**Aura** strong evocation; **CL** 20th; **Slot** none; **Weight** 2 lbs.
+**Aura** strong evocation; **CL** 20th; **Slot** none; **Weight** 2 lbs.  
 **Alignment** LE; **Ego** 16; **Senses** 60 ft., darkvision; **Int** 10, **Wis** 12, **Cha** 14; **Communication** telepathy; **Special Purpose** slay all
 
 An intelligent +2 *axiomatic* sawtooth sabre of red chitin forming a curved serrated blade. It grants a +1d6 sneak attack (as the rogue ability, stacking with the wielder's own). When a creature is wounded with the blade, as a swift action the wielder can activate its *bane* ability (+2 enhancement bonus and +2d6 damage only against the type of creature struck) for 10 minutes, once per day. *Spell-like abilities* (CL 20th): 3/day *alter self*, *darkness*, *spider climb*, *true strike*; 1/day *clairaudience/clairvoyance*, *deeper darkness*, *dimension door*, *greater invisibility*.
@@ -461,8 +461,8 @@ An intelligent +2 *axiomatic* sawtooth sabre of red chitin forming a curved serr
 
 ### Warlord's Cursed Greatsword
 
-**Aura** strong evocation; **CL** 20th; **Slot** none; **Weight** 12 lbs.
-**Alignment** CN; **Ego** 25; **Senses** 60 ft.; **Int** 11, **Wis** 12, **Cha** 15; **Communication** empathy; **Special Purpose** defeat/slay all; **Dedicated Power** wielder gains *freedom of movement* and *dispel magic* (CL 20th) against opposing attacks and effects (it dispels any offensive effect only once, as it first takes effect on the wielder)
+**Aura** strong evocation; **CL** 20th; **Slot** none; **Weight** 12 lbs.  
+**Alignment** CN; **Ego** 25; **Senses** 60 ft.; **Int** 11, **Wis** 12, **Cha** 15; **Communication** empathy; **Special Purpose** defeat/slay all; **Dedicated Power** wielder gains *freedom of movement* and *dispel magic* (CL 20th) against opposing attacks and effects (it dispels any offensive effect only once, as it first takes effect on the wielder)  
 **Spell-like abilities** (CL 17th): 3/day *aid*; 1/day *modify memory*
 
 A cursed intelligent +3 *wounding* greatsword. When it succeeds at a contest of wills, it uses *modify memory* to mislead its wielder into believing he is a dead barbarian warlord and that anyone around him not obviously of his tribe is a mortal enemy. It also slowly changes the wielder's features over days or weeks to appear as those of the original warlord. If unchecked, these powers seemingly bring the warlord back to life. The curse can only be cured by casting both a spell that prevents mental control (like *protection from evil*) and *remove curse*.
@@ -489,8 +489,8 @@ A gold-plated +3 *undead bane* heavy mace, the holy symbol of office of a bishop
 
 ### Radiant Crusader Sword
 
-**Aura** strong abjuration; **CL** 17th; **Slot** none; **Weight** 5 lbs.
-**Alignment** LG; **Ego** 14; **Senses** 60 ft.; **Int** 13, **Wis** 10, **Cha** 13; **Communication** empathy; **Special Purpose** defeat followers of a dark god of pain; **Dedicated Power** wielder gains *death ward* and *freedom of movement* against attacks and effects from followers of that god
+**Aura** strong abjuration; **CL** 17th; **Slot** none; **Weight** 5 lbs.  
+**Alignment** LG; **Ego** 14; **Senses** 60 ft.; **Int** 13, **Wis** 10, **Cha** 13; **Communication** empathy; **Special Purpose** defeat followers of a dark god of pain; **Dedicated Power** wielder gains *death ward* and *freedom of movement* against attacks and effects from followers of that god  
 **Spell-like abilities** (CL 17th): 3/day *cure moderate wounds*, *zone of truth* (DC 13)
 
 A +4 *holy* bane (against followers of the dark god) bastard sword. Though made of steel, it is treated as made of both cold iron and silver for overcoming damage reduction. It glows with the equivalent of *continual flame*, which the wielder can extinguish or ignite as a move action. It gains a further +2 enhancement bonus and deals an extra 2d6 damage against foes who serve or worship the dark god. Though lawful good, as long as its wielder is dedicated to defeating the dragon tyrant and those he has corrupted, it does not try to seize control; if the wielder goes against its wishes it tries to force him to relinquish it to a more appropriate wielder.
@@ -533,8 +533,8 @@ Each time one of the torc's powers is used there is a cumulative 5% chance that 
 
 ### Totem of the Beast Lord
 
-**Aura** strong necromancy and transmutation; **CL** 20th; **Slot** none; **Weight** 150 lbs.
-**Alignment** CE; **Ego** 18; **Senses** 30 ft. hearing and tremorsense, *true seeing*; **Int** 7, **Wis** 14, **Cha** 13; **Communication** empathy; **Special Purpose** slay all non-worshipers of the demon lord who created it
+**Aura** strong necromancy and transmutation; **CL** 20th; **Slot** none; **Weight** 150 lbs.  
+**Alignment** CE; **Ego** 18; **Senses** 30 ft. hearing and tremorsense, *true seeing*; **Int** 7, **Wis** 14, **Cha** 13; **Communication** empathy; **Special Purpose** slay all non-worshipers of the demon lord who created it  
 **Spell-like abilities** (CL 20th, concentration +21): at will *weird* (DC 20); 1/day *reincarnate* (see below); 1/year *reincarnate* (see below)
 
 Dangerous artifacts created by a demon lord of beasts, several of these totems lie hidden in deep jungle. Each is an intelligent artifact largely in control of itself. A totem radiates an aura that forces all non-worshipers of its demon lord within 30 feet to succeed at a DC 15 Will save or become panicked for 1 round (a mind-affecting fear effect). It can use its own spell-like abilities as it pleases, frequently lashing out with *weird*. Its size and direct connection to its creator's power prevent it from being easily used by others: anyone who would employ its powers must touch it, and those who are not chaotic evil worshipers of the demon lord must also enter a contest of wills with the totem to use its powers that day (see Intelligent Items in the Core Rulebook). If a creature wins the contest, it can direct the totem to use its abilities. Additionally, the creature is immune to the totem's panic aura for 24 hours and the totem cannot use its spell-like abilities against it for that day.

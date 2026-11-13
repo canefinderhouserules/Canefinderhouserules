@@ -1,10 +1,10 @@
 # Hide Weapon
 
-**School** transmutation; **Level** antipaladin 1, bloodrager 1, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 1
-**Casting Time** 1 standard action
-**Components** V, S
-**Range** personal
-**Target** you
+**School** transmutation; **Level** antipaladin 1, bloodrager 1, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 1  
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** personal  
+**Target** you  
 **Duration** 1 hour/level (D)
 
 Upon casting this spell, a light or one-handed melee weapon in your hand melds with your flesh, accompanied by a disgusting sucking sound. The weapon disappears completely inside your arm, and thereafter for the duration of the spell, you can extend and retract the weapon as a move action.

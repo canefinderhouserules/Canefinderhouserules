@@ -22,7 +22,7 @@ Several types of magical bullets have been developed to be used with firearms. T
 
 ### Burrowing Bullet
 
-**Aura** moderate necromancy; **CL** 9th (burrowing bullet) or 13th (greater burrowing bullet)
+**Aura** moderate necromancy; **CL** 9th (burrowing bullet) or 13th (greater burrowing bullet)  
 **Slot** none; **Price** 1,722 gp (burrowing bullet) or 3,447 gp (greater burrowing bullet); **Weight** —
 
 This +1 firearm bullet deals normal damage, but when it hits a living creature, it burrows into the creature’s flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. While these bullets burrow, the creature is staggered. This effect lasts for 1d3 rounds or until the bullet is removed with a DC 15 Heal check made as a standard action. Greater burrowing bullets take longer to pass though the bodies of living creatures (the staggered effect lasts 1d3+2 rounds) and are harder to remove (DC 20 Heal check as a standard action).
@@ -31,7 +31,7 @@ This +1 firearm bullet deals normal damage, but when it hits a living creature, 
 
 ### Tracer Bullet
 
-**Aura** faint evocation; **CL** 2nd
+**Aura** faint evocation; **CL** 2nd  
 **Slot** none; **Price** 100 gp; **Weight** —
 
 These +1 firearm bullets deal no damage, but instead cause a pale glow to outline the target, granting the effect of a faerie fire spell and causing the target to take a –2 penalty to AC against ranged attacks. These effects last for 1d4 rounds.
@@ -80,7 +80,7 @@ The following wondrous items either enhance firearms or protect against them.
 
 ### Amulet of Bullet Protection
 
-**Aura** faint abjuration; **CL** 5th
+**Aura** faint abjuration; **CL** 5th  
 **Slot** neck; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), or 37,500 gp (+5); **Weight** —
 
 This amulet, usually crafted from the splintered remains of spent firearm bullets shaped into a rough holy symbol or clover, grants the wearer a luck bonus to AC against firearm attacks that target touch AC.
@@ -89,7 +89,7 @@ This amulet, usually crafted from the splintered remains of spent firearm bullet
 
 ### Dry Load Powder Horn
 
-**Aura** faint conjuration; **CL** 3rd
+**Aura** faint conjuration; **CL** 3rd  
 **Slot** none (see below); **Price** 2,000 gp; **Weight** 1 lb.
 
 This magical powder horn holds 20 doses of black powder. Furthermore, when a firearm is loaded with black powder directly from this horn, the horn creates a small pocket of air that envelops the gun and allows that shot to be fired underwater or in an area lacking air, such as a vacuum. Once the gun is loaded with powder from the dry load powder horn, it retains the pocket of air for 10 minutes or until the firearm is fired, whichever comes first.
@@ -100,7 +100,7 @@ Firing a firearm that has been loaded from this horn underwater still incurs the
 
 ### Far-Reaching Sight
 
-**Aura** faint divination; **CL** 3rd
+**Aura** faint divination; **CL** 3rd  
 **Slot** none (see below); **Price** 4,000 gp; **Weight** 1 lb.
 
 This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action. A firearm wielder can choose to spend a full-round action to make a single shot with a firearm that has this sight. When she does, she can resolve the attack against the touch AC of her target regardless of the range increment. A firearm can have only one sight attached to it at a time.
@@ -109,7 +109,7 @@ This sight can be attached to a single two-handed firearm. When this is done, th
 
 ### Figurine of Wondrous Power (Slate Spider)
 
-**Aura** moderate transmutation; **CL** 11th
+**Aura** moderate transmutation; **CL** 11th  
 **Slot** none; **Price** 10,000 gp; **Weight** 1 lb.
 
 This figure of wondrous power uses the same general rules for all magic items of this type.
@@ -122,7 +122,7 @@ When animated, a slate spider has 1 hit point and is considered an attended obje
 
 ### Oil of Silence
 
-**Aura** faint illusion; **CL** 5th
+**Aura** faint illusion; **CL** 5th  
 **Slot** none; **Price** 250 gp; **Weight** —
 
 When applied to a one-handed or two-handed firearm, this strange grayish oil renders that firearm silent for 1 hour. Five vials of oil of silence can be used in conjunction to silence a Large firearm siege engine, and 10 can be used to silence a Huge firearm siege engine. The oil does not work on firearm siege engines that are larger than Huge.
@@ -131,7 +131,7 @@ When applied to a one-handed or two-handed firearm, this strange grayish oil ren
 
 ### Seeker’s Sight
 
-**Aura** moderate divination; **CL** 8th
+**Aura** moderate divination; **CL** 8th  
 **Slot** none (see below); **Price** 12,000 gp; **Weight** 1 lb.
 
 This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action. A firearm wielder using a firearm that has this sight can choose to spend a full-round action to either locate an invisible creature within line of sight or make a single shot that ignores the invisibility of a creature that she knows is in the area. A firearm can have only one sight attached to it at a time.

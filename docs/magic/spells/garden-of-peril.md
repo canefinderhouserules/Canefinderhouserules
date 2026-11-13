@@ -1,11 +1,11 @@
 # Garden of Peril
 
-**School** conjuration (creation) [poison]; **Level** druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2
-**Casting Time** 1 standard action
-**Components** V, S, M/DF (a pinch of spores)
-**Range** medium (100 ft. + 10 ft./level)
-**Effect** one poisonous mushroom/level, no two of which can be more than 30 ft. apart
-**Duration** 1 round/level (D)
+**School** conjuration (creation) [poison]; **Level** druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2  
+**Casting Time** 1 standard action  
+**Components** V, S, M/DF (a pinch of spores)  
+**Range** medium (100 ft. + 10 ft./level)  
+**Effect** one poisonous mushroom/level, no two of which can be more than 30 ft. apart  
+**Duration** 1 round/level (D)  
 **Saving Throw** Fortitude negates; **Spell Resistance** no
 
 Vividly colored poisonous mushrooms instantly spring into existence in squares you select. The mushrooms can appear on any solid surface, even growing horizontally from walls or upside down from the ceiling.

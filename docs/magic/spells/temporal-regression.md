@@ -3,7 +3,7 @@
 **School** conjuration (teleportation); **Level** druid 9, psychic 8, sorcerer/wizard 8, witch 8  
 **Casting Time** 1 standard action  
 **Components** V, S, F (hourglass filled with powdered horacalcum worth 1,500 gp)  
-**Range** personal and close (25 ft. + 5 ft./2 levels; see below)
+**Range** personal and close (25 ft. + 5 ft./2 levels; see below)  
 **Duration** 1 round/level or until discharged  
 **Saving Throw** none; **Spell Resistance** no
 

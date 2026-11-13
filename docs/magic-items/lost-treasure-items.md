@@ -71,7 +71,7 @@ The bell can be heard up to 1 mile away in most conditions, but has no effect on
 
 ## Assassin Lord's Mask
 
-*Aura* moderate divination, enchantment and illusion; *Slot* head; *Price* 52,500 gp; *Weight* 1 lb.
+*Aura* moderate divination, enchantment and illusion; *Slot* head; *Price* 52,500 gp; *Weight* 1 lb.  
 *Alignment* lawful evil; *Senses* 30 ft.; *Int* 12, *Wis* 15, *Cha* 10; *Ego* 12; *Language* speech (Common, Infernal)
 
 This crimson mask has two enormous insectile eyes, a mouth with short mandibles and two thick, shorn-off antennae. It has three charges per day, which replenish every 24 hours. Each charge grants the wearer two of the following abilities for 30 minutes: darkvision to 60 feet, the effects of *see invisibility*, the effects of *death watch*, or a +5 competence bonus on Perception checks. Three times per day the wearer can also use *disguise self*, though the mask's stubby antennae always remain and must be hidden with hair or a hood. If the wearer strikes a target with a melee attack during a surprise round, that target cannot speak or cast spells with verbal components for 1 round.
@@ -92,7 +92,7 @@ Because of the successor deity's blessing, a cleric of that deity who prepares s
 
 ## Strategist's Warhammer
 
-*Aura* moderate conjuration and transmutation; *Slot* none; *Price* 58,312 gp; *Weight* 5 lbs.
+*Aura* moderate conjuration and transmutation; *Slot* none; *Price* 58,312 gp; *Weight* 5 lbs.  
 *Alignment* lawful neutral; *Senses* 120 ft.; *Int* 12, *Wis* 14, *Cha* 10; *Ego* 14; *Language* empathy
 
 This +1 *defiant* *transformative* warhammer houses the mind of a cunning schemer and brilliant military tactician. It has a deep sense of patriotism for its homeland and seeks to help its owner rise through that nation's military ranks. It never willingly reveals its name until it feels its job as a military tutor is nearly complete. It enjoys hearing military strategies and empathically communicates its feelings on tactics to its owner. It evaluates the owner's underlings and despises incompetent or untrustworthy comrades, generals and commanders, urging the owner to dismiss them. With a well-meaning but tactically inept owner, it tries to assert its ego during military matters.
@@ -123,7 +123,7 @@ If the lost archmage ever answers the beacon, the egg can transport the user and
 
 ## Demonbane Axe
 
-*Aura* moderate conjuration and evocation; *Slot* none; *Price* 28,715 gp; *Weight* 6 lbs.
+*Aura* moderate conjuration and evocation; *Slot* none; *Price* 28,715 gp; *Weight* 6 lbs.  
 *Alignment* lawful good; *Senses* 60 ft.; *Int* 10, *Wis* 14, *Cha* 12; *Ego* 10; *Language* empathy
 
 This well-made +1 battleaxe has the *bane* ability against demons and constantly emits a susurrus of faint, overlapping voices that swells to a cacophony of angry cries in the presence of demons. The voices are individually unintelligible; the axe communicates by empathy because its intelligence is a collection of several dozen essences rather than one personality. It has the destruction of demons as its special purpose and the dedicated power to detect demons within 60 feet, even when hidden or in disguise. Three times per day it can cast *bless weapon* on itself, and three times per day *lesser restoration* on its wielder. If its bearer dawdles in taking the fight to demonkind, its muttering grows into surly grumbles; after weeks without demonic activity, it tries to assert control or find a more suitable wielder.
@@ -186,7 +186,7 @@ The Kiss can be removed by cutting the skin away, which deals a further 1d6 poin
 
 ## Guardian Doll
 
-*Aura* moderate transmutation; *Slot* none; *Price* 28,500 gp; *Weight* 2 lbs.
+*Aura* moderate transmutation; *Slot* none; *Price* 28,500 gp; *Weight* 2 lbs.  
 *Alignment* neutral; *Senses* 60 ft., blindsense; *Int* 10, *Wis* 16, *Cha* 12; *Ego* 10; *Language* empathy
 
 This well-worn rag doll is 18 inches tall, with floppy limbs and fine clothing patched in several places. Pressing the left button-eye makes the doll preternaturally rigid and fixes it in space as an *immovable rod*, with hardness 20 while in this state. It can hold this state for 1 minute before returning to plush; pressing the right eye returns it to its original state immediately. Pressing either eye is a move action.
@@ -285,7 +285,7 @@ This battle-scarred white steel longsword is a variant *luck blade*, a +3 longsw
 
 ## Trapped Phylactery
 
-*Aura* moderate necromancy (evil); *Slot* none; *Price* 135,000 gp
+*Aura* moderate necromancy (evil); *Slot* none; *Price* 135,000 gp  
 *Alignment* neutral; *Senses* 60 ft.; *Int* 16, *Wis* 14, *Cha* 14; *Ego* 19; *Language* speech (Common, Necril, one regional language)
 
 This item is a receptacle for a lich's soul, broken into five pieces. Individually, each piece can do no more than whisper the lich's name. When all pieces are gathered within 30 feet of each other they become an intelligent item with the memories and will of the trapped lich, who retains only fractured memories but understands how to escape and reclaim them. The combined pieces teach their owner how to find the path to lichdom, a process unique to each soul, with a +13 bonus on Knowledge (religion) checks for this purpose.
@@ -306,7 +306,7 @@ It grants its wearer a +4 bonus on Diplomacy and Intimidate checks. Once per day
 
 ## Ring of Elemental Mastery
 
-*Aura* moderate abjuration and enchantment; *Slot* ring; *Price* 14,800 gp
+*Aura* moderate abjuration and enchantment; *Slot* ring; *Price* 14,800 gp  
 *Alignment* neutral; *Senses* 30 ft.; *Int* 12, *Wis* 10, *Cha* 11; *Ego* 7; *Language* empathy
 
 The spirit of an ancient elementalist still echoes within this silver ring, which provides a measure of control over elemental creatures and issues a sense of smug arrogance. Its special purpose is controlling or defeating elementals. Once per day the wearer can attempt to charm a creature with the elemental subtype (as *charm monster*, Will DC 15 negates). Once per day the ring can also affect its wearer with *resist energy*; it uses this only when the wearer faces a hostile elemental, making an educated guess about the most applicable energy type, and is quick to provide it when the wearer tries and fails to charm an elemental, with a clear impression of patronizing disappointment.
@@ -355,10 +355,10 @@ Even casual use can scar the landscape for centuries, and elementals, fey and ka
 
 This long papyrus scroll appears ancient, but its writing and florid illuminations are vivid and clear because the inks were infused with unguent of timelessness. It collects nearly 50 ancient tales and songs by a legendary genie bard, many from the point of view of a genie princess defending her home and allies against bandit-kings, tempests and evil magic. A bard with access to a complete copy can learn the defensive songs in it as the masterpiece below by paying the normal masterpiece cost.
 
-**Ballad of the Warding Princess** (Oratory, Sing)
-*Prerequisite* Perform (oratory) or Perform (sing) 10 ranks.
-*Cost* Feat or 4th-level bard spell known.
-*Effect* The words of this ballad tell of a benevolent genie princess and the shelter she gave her allies from mundane and magical depredations. When you complete the performance, the words whirl around you like an invisible cloying buffer for 10 minutes, reducing your base speed to half but providing soft cover against all attacks. You can additionally affect up to one willing creature per bard level within 30 feet, expending 1 round of bardic performance for each creature other than yourself. Creatures that leave the area lose the bonus and do not regain it by moving back.
+**Ballad of the Warding Princess** (Oratory, Sing)  
+*Prerequisite* Perform (oratory) or Perform (sing) 10 ranks.  
+*Cost* Feat or 4th-level bard spell known.  
+*Effect* The words of this ballad tell of a benevolent genie princess and the shelter she gave her allies from mundane and magical depredations. When you complete the performance, the words whirl around you like an invisible cloying buffer for 10 minutes, reducing your base speed to half but providing soft cover against all attacks. You can additionally affect up to one willing creature per bard level within 30 feet, expending 1 round of bardic performance for each creature other than yourself. Creatures that leave the area lose the bonus and do not regain it by moving back.  
 *Use* 5 bardic performance rounds, +1 round per additional creature affected. *Action* 1 minute.
 
 ## Soul Jar

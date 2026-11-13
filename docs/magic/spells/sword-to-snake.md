@@ -1,11 +1,11 @@
 # Sword to Snake
 
-**School** transmutation [poison]; **Level** cleric 4, druid 4, shaman 4, sorcerer/wizard 4, summoner 4
-**Casting Time** 1 standard action
-**Components** V, S, M/DF (a hair from a spider)
-**Range** close (25 ft. + 5 ft./2 levels)
-**Target** one Medium or smaller item
-**Duration** 1 round/level (D)
+**School** transmutation [poison]; **Level** cleric 4, druid 4, shaman 4, sorcerer/wizard 4, summoner 4  
+**Casting Time** 1 standard action  
+**Components** V, S, M/DF (a hair from a spider)  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** one Medium or smaller item  
+**Duration** 1 round/level (D)  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
 When you make an undulating gesture using your hand, the target item changes slightly in shape and appearance to resemble a cross between its original form and that of a venomous animal. For example, a staff might change to resemble a snake, a shield might change to resemble an enormous venomous beetle, or the hilt of a sword might change to resemble a scorpion's tail.

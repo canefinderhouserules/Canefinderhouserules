@@ -1,11 +1,11 @@
 # Shifting Shadows
 
-**School** evocation [darkness]; **Level** bard 3, sorcerer/wizard 3, witch 3
-**Casting Time** 1 standard action
-**Components** V, S, M (a drop of ink)
-**Range** medium (100 ft. + 10 ft./level)
-**Area** 20-ft.-radius emanation centered on a point in space
-**Duration** 1 round/level (D)
+**School** evocation [darkness]; **Level** bard 3, sorcerer/wizard 3, witch 3  
+**Casting Time** 1 standard action  
+**Components** V, S, M (a drop of ink)  
+**Range** medium (100 ft. + 10 ft./level)  
+**Area** 20-ft.-radius emanation centered on a point in space  
+**Duration** 1 round/level (D)  
 **Saving Throw** none, see text; **Spell Resistance** no
 
 Waves of shifting shadows obscure the appearance of all creatures caught within the emanation, making it harder to tell friends from foes.

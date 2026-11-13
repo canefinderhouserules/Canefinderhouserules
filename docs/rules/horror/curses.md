@@ -27,61 +27,61 @@ The curses below supplement those presented in the *Core Rulebook*.
 
 ### Blasted Vitality
 
-**Type** curse; **Save** Fortitude DC 19
+**Type** curse; **Save** Fortitude DC 19  
 **Effect** The victim’s mind and body become unreliable, imposing a –4 penalty on all ability scores. Whenever the victim enters combat, he must succeed at a Fortitude save against the curse’s DC or become fatigued.
 
 ### Haunting, Major
 
-**Type** curse; **Save** Will DC 17
+**Type** curse; **Save** Will DC 17  
 **Effect** The victim is haunted by a ghost as described in minor haunting (see below).
 
 **Cure** Unlike a minor haunting, a major haunting can be ended only by putting the ghost to rest, though casting *remove curse* directly after the ghost is destroyed prevents it from reviving for 2d4 days.
 
 ### Haunting, Minor
 
-**Type** curse; **Save** Will DC 13
+**Type** curse; **Save** Will DC 13  
 **Effect** The victim is haunted by a poltergeist. Once per day, the victim must attempt a Will save against the curse. If she succeeds, she takes a cumulative –1 penalty on future saving throws against the curse. If she fails, the poltergeist manifests within 300 feet and begins stalking her over the course of 2d12 hours, attempting to kill her when she appears to be most vulnerable. When combat begins, the victim automatically becomes shaken for 1 minute. The curse revives the destroyed poltergeist to haunt the victim again the next time she fails the saving throw against this curse.
 
 **Cure** In addition to the normal means for removing a curse, this one can be ended by determining the poltergeist’s reason for existence and setting right whatever prevents it from resting in peace.
 
 ### Hunt of the Ankou
 
-**Type** curse; **Save** Will DC 22
+**Type** curse; **Save** Will DC 22  
 **Effect** The victim is hunted by an ankou as described in hunt of the bogeyman.
 
 **Cure** Only a *miracle* or *wish* can free the victim.
 
 ### Hunt of the Bogeyman
 
-**Type** curse; **Save** Will DC 19
+**Type** curse; **Save** Will DC 19  
 **Effect** The victim is hunted by a bogeyman. Once per day, the victim must attempt a Will save against the curse. If he succeeds, he takes a cumulative –1 penalty on future saving throws against the curse. If he fails, a bogeyman is called within 1 mile and begins stalking him over the course of 2d12 hours, attempting to kill him when he appears to be most vulnerable. When combat begins with the bogeyman, the victim automatically becomes shaken for 1 minute. The curse revives the slain bogeyman to hunt the victim again the next time he fails the saving throw against this curse.
 
 **Cure** Only a *limited wish*, *miracle*, or *wish* can free the hunted.
 
 ### Sealed Fate
 
-**Type** curse; **Save** Will DC 23 negates, Fortitude DC 23 partial
+**Type** curse; **Save** Will DC 23 negates, Fortitude DC 23 partial  
 **Effect** The target is doomed to die in an appointed fashion (this curse can also be an unintended consequence of an attempt to prevent the target’s death by other means). The victim gains a +4 luck bonus on Constitution checks to stabilize when dying as long as she is not suffering from injuries tied to the named cause of death. Whenever the target is damaged by the named cause of death, fails a save against that cause of death, or otherwise fails to withstand the named cause of death in a way that doesn’t involve damage or saving throws (for instance, failing a Constitution check against suffocation), she must attempt a Fortitude save against this curse. If she fails, she dies instantly; if she succeeds, she is staggered for 1 round.
 
 **Cure** Sealed fate can be removed only by *miracle* or *wish*.
 
 ### Shattered Self
 
-**Type** curse; **Save** Will DC 20 negates; **Frequency** no more than 1/day (see text)
+**Type** curse; **Save** Will DC 20 negates; **Frequency** no more than 1/day (see text)  
 **Effect** The victim’s mind splits into two coexisting personas, one normal, the other malicious and self-destructive. When in control, the self-destructive persona sabotages the victim’s efforts and plots the demise of the victim’s friends and loved ones. It takes care to conceal its actions and intent from others. The normal persona has no sense of missing time. Exactly when the alternate persona takes control is up to the GM, but it does so no more than once per day. Each time the alternate persona surfaces, the victim must succeed at a save or the alternate persona takes control for 1d6 minutes. Normally these takeovers happen when the victim is alone or with just one person, but moments of extreme stress can force the victim to attempt a save against this effect as well. The alternate persona has full access to the normal persona’s memories and abilities, and it receives a +10 bonus on Bluff checks to conceal its presence. Despite the malevolent nature of this affliction, the victim’s alignment remains unchanged when under the curse’s effects, so for instance, the self-destructive persona could still use a paladin victim’s abilities.
 
 **Cure** Shattered self can be cured only by successfully casting *remove curse* and either *heal*, *greater restoration*, or *psychic surgery* on the victim within 1 minute of each other.
 
 ### Tormenting Visions
 
-**Type** curse; **Save** Will DC 15 negates
+**Type** curse; **Save** Will DC 15 negates  
 **Effect** The target is haunted by horrible phantasmal visions that distract him at critical moments. He takes a –4 penalty on concentration checks and on saving throws against effects that would impose any of the following conditions on him: confused, dazed, nauseated, shaken, sickened, or stunned. Once per day, when alone or confronted by something novel and strange, he must succeed at a Will save or take 1d3 points of Wisdom damage (or 1d6 points of sanity damage if using the sanity system).
 
 **Cure** The tormenting visions curse can be removed only by *remove curse* followed by *banishment*, each cast within 1 minute of each another.
 
 ### Weeping Wound
 
-**Type** curse; **Save** Fortitude DC 14 negates
+**Type** curse; **Save** Fortitude DC 14 negates  
 **Effect** The victim has a wound that cannot heal, effectively reducing her maximum hit points by an amount equal to her level or 5, whichever is more. Magical healing that would raise a victim’s hit points above this reduced maximum is wasted.
 
 ### Optional Rule: Spontaneous Curses
@@ -178,50 +178,50 @@ Sometimes, a creature’s punishment curse and a land’s curse are the same. A 
 
 ### Cursed Earth
 
-**Type** regional curse; **Area** 1-mile-radius emanation; **Save** Will DC 23 to remove (see spell text)
+**Type** regional curse; **Area** 1-mile-radius emanation; **Save** Will DC 23 to remove (see spell text)  
 **Effect** The area is cursed with famine, living death, or plague, as described in *cursed earth*.
 
 ### Endless Night
 
-**Type** regional curse; **Area** 1-mile-radius emanation; **Save** Will DC 22 negates
+**Type** regional curse; **Area** 1-mile-radius emanation; **Save** Will DC 22 negates  
 **Effect** Nonmagical light and magical light sources that produce normal light create only dim light in the cursed area, and even direct sunlight leads to only an ambient dim light in the area (similar to a full moon). Twilight and night are always dark. Creatures harmed or weakened by daylight can move about during the day in this area and the only impairment they take from the dimmed sunlight is that they become dazzled in its area. Plant growth in the area is stunted, as per the stunt growth usage of *diminish plants*. Any spellcaster attempting to cast *daylight* or a spell that creates true daylight or bright light in the area fails unless she succeeds at a Will saving throw against the curse. Success leads to normal light, rather than bright light.
 
 **Cure** An endless night can be lifted only by successfully casting *remove curse* followed by *sunburst* at noon on a clear day.
 
 ### Jealous Structure
 
-**Type** regional curse; **Area** 1 structure; **Save** Will DC 19 negates effects
+**Type** regional curse; **Area** 1 structure; **Save** Will DC 19 negates effects  
 **Effect** A building can take on a life of its own if enough memories, fears, or other strong emotions become bound up in it. Such a building seeks to force residents to stay and either keep it company, serve it, protect it, or feed its unearthly hungers. The jealous structure is similar to a building-sized intelligent magic item of any evil alignment with Intelligence, Wisdom, and Charisma scores of 16, fast healing 5, and the ability to use the following spell-like abilities at caster level 11th a minimum of the number of times per day listed below: 3/day—*animate objects* (furniture only), heightened *fear* (DC 19), heightened *telekinesis* (unattended objects only; DC 19); 1/day—*guards and wards*.
 
 **Cure** A jealous structure can be put to rest only by a casting of *remove curse* followed by a casting of *hallow* over the entire structure.
 
 ### Perilous Demesne, Grand
 
-**Type** regional curse; **Area** 18-mile-radius emanation; **Save** Will DC 22 to remove
+**Type** regional curse; **Area** 18-mile-radius emanation; **Save** Will DC 22 to remove  
 **Effect** As per major perilous demesne, except up to seven hazards, each of CR 14 or less, imperil creatures in the area. The hazards are arranged so that if any are encountered together, the encounter’s effective CR from hazards must be no more than 15 (for instance, two CR 13 hazards could be encountered together).
 
 **Cure** *Remove curse* removes a grand perilous demesne only if followed by a casting of *hallow* at the effect’s center, and then casting *disintegrate* on each of the hazards before the next nightfall or midnight.
 
 ### Perilous Demesne, Greater
 
-**Type** regional curse; **Area** 6-mile-radius emanation; **Save** Will DC 19 to remove
+**Type** regional curse; **Area** 6-mile-radius emanation; **Save** Will DC 19 to remove  
 **Effect** As per major perilous demesne (see below), except up to six hazards, each of CR 10 or less, imperil creatures in the area. The hazards are arranged so that if any are encountered together, the encounter’s effective CR from hazards must be no more than 11 (for instance, two CR 9 hazards could be encountered together).
 
 **Cure** *Remove curse* removes a greater perilous demesne only if followed by a casting of *hallow* at the effect’s center.
 
 ### Perilous Demesne, Major
 
-**Type** regional curse; **Area** 1-mile-radius emanation; **Save** Will DC 16 to remove
+**Type** regional curse; **Area** 1-mile-radius emanation; **Save** Will DC 16 to remove  
 **Effect** As per minor perilous demesne (see below), except this can involve up to four hazards, each of CR 6 or less, imperil creatures in the area. If any hazards are encountered together, the encounter’s effective CR from hazards must be no more than 7 (for instance, two CR 5 hazards could be encountered together).
 
 ### Perilous Demesne, Minor
 
-**Type** regional curse; **Area** 300-foot-radius emanation; **Save** Will DC 13 to remove
+**Type** regional curse; **Area** 300-foot-radius emanation; **Save** Will DC 13 to remove  
 **Effect** Up to three hazards (see the Environments section), each of CR 3 or less, imperil creatures in the area, though never with more than one hazard at a time. If a creature places this curse, it can choose the hazards. The hazards must be appropriate to the type of terrain (at the GM’s discretion). Any of the hazards that are rendered safe reset themselves and become dangerous again at each midnight.
 
 ### Unseasonable Weather
 
-**Type** regional curse; **Area** 2-mile-radius emanation; **Save** Will DC 23 to remove
+**Type** regional curse; **Area** 2-mile-radius emanation; **Save** Will DC 23 to remove  
 **Effect** The weather in the cursed region changes drastically, even bringing snow to a blazing desert. The area is plagued by your choice of cold weather conditions, very hot conditions, or frequent powerful storms. The weather remains unpredictable, and can change over time (as determined by the GM), but the baseline weather is altered as long as the curse remains.
 
 **Cure** The cursed weather can be returned to normal only by casting *remove curse* at the center of the affected area, followed by a casting of *control weather*.

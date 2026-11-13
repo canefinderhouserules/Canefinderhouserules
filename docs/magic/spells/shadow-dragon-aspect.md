@@ -3,7 +3,7 @@
 **School** illusion (shadow) [shadow]; **Level** bard 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
-**Range** personal
+**Range** personal  
 **Duration** 1 round/level  
 **Saving Throw** Will disbelief (if interacted with), see text; **Spell Resistance** yes, see text
 
