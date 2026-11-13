@@ -21,15 +21,25 @@ A weapon used with armed jutsu is always considered loaded, and does not need to
 **Shinobi Talents (Ex or Su):** An arsenal sniper adds the following shinobi talents to the list of those available to them:
 
 *Automatic Blast (Ex):* An arsenal sniper channeling their kinetic blast though a weapon that could make a line attack (such as a [machine gun](../../../equipment/weapons-firearms.md)) can make a standard attack with that weapon’s automatic quality, although it cannot be used with [kunai](../../../equipment/weapons-simple.md#simple-light-melee-weapons) grenade or as part of a full attack. An arsenal sniper must be proficient in [firearms](../../../equipment/weapons-firearms.md) and be 9th level or higher to select this talent.
+
 *Cautious Sniper (Ex):* An arsenal sniper gains the studied defense investigator talent. An arsenal sniper must be 3rd level or higher to select this talent.
+
 *Light Weapons (Su):* An arsenal sniper can spend 1 ki point to treat 1 one handed firearm or crossbow they wield as a light weapon for 24 hours.
+
 *Patient Sniper (Ex):* An arsenal sniper gains the prolonged studyACO investigator talent, replacing Intelligence with Charisma to determine the new duration. An arsenal sniper must be 13th level or higher to select this talent.
+
 *Safe Shot (Ex):* As long as an arsenal sniper has 1 or more points in their ki pool, they gain the quick clear deed from the gunslinger class, allowing them to spend ki in place of grit. An arsenal sniper must be proficient in firearms to select this talent.
+
 *Safe Shot, Improved (Su):* An arsenal sniper can spend 1 ki point to reduce the misfire chance of 1 firearm they wield by 2 for 24 hours.
+
 *Speed Study (Ex):* An arsenal sniper gains the quick study investigator talent. An arsenal sniper must be 5th level or higher to select this talent.
+
 *Spread Sniper (Ex):* An arsenal sniper channeling their kinetic blast through weapons that could make a spread attack (such as a [blunderbuss](../../../equipment/weapons-firearms.md) or [shotgun](../../../equipment/weapons-firearms.md)) can make a standard attack with that weapon’s spread quality, although it cannot be used with [kunai](../../../equipment/weapons-simple.md#simple-light-melee-weapons) grenade or as part of a full attack. An arsenal sniper must be proficient in [firearms](../../../equipment/weapons-firearms.md) and be 5th level or higher to select this talent.
+
 *Trained Sniper (Ex):* An arsenal sniper gains the timed strikeACO investigator talent. An arsenal sniper must be 5th level or higher to select this talent.
+
 *Twin Shot (Ex):* An arsenal sniper can channel their kinetic blast through two weapons at once, allowing them to make ranged attacks with their armed jutsu while two weapon fighting. This is treated as the twin star advanced hadou technique for the purpose of how it interacts with other shinobi talents and class features.
+
 *Utility Jutsu (Ex):* As long as an arsenal sniper has 1 or more points of ki in their ki pool, they gain the utility shot deed from the gunslinger class. An arsenal sniper must be 3rd level or higher to select this talent.
 
 **Sniper’s Eye (Ex):** At 3rd level, an arsenal sniper gains the studied combat class feature of the investigator class as well as the [Ranged Study](../../../rules/feats/ranged-study.md) feat even if they don’t meet the prerequisites, being able to apply it to both crossbows and non double barreled firearms. Any effect that would increase the distance from which a studied combat or studied strike can be made instead increases the distance in which a studied combat and studied strike can be made, and an arsenal sniper uses their Charisma modifier to determine the duration of this ability.
@@ -193,6 +203,7 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 **Shinobi Talents:** The hand of the kami has access to the following shinobi talents:
 
 *Qinggong Power (Su):* The hand of the kami selects a qinggong monk ki power for which they qualify, treating their hand of the kami level -1 as their monk level. They can select this shinobi talent multiple times, but must select a different qinggong power each time, and cannot select the dragon’s breath or [Elemental Fist](../../../rules/feats/elemental-fist.md) ki powers.
+
 *Stunning Fist (Ex):* The hand of the kami gains [Stunning Fist](../../../rules/feats/stunning-fist.md) as a bonus feat, ignoring its prerequisites, treating themselves as a monk of their hand of the kami level to determine its effects.
 
 The hand of the kami cannot select the following shinobi talents: bomb blast, calculated strike, deadeye jutsu, double toxin art, hadou admixture, hadou expert, master trick, ninja trick, shadow hadou, sneaking jutsu, starstorm art, and swarm jutsu.
@@ -306,9 +317,13 @@ In addition, if the user has a grit, luck, or panache pool, the points in those 
 **Shinobi Talents:** A needler has access to the following shinobi talents:
 
 *Advanced Talents (Ex or Su):* A needler can choose one advanced rogue talent for which they qualify, using their needler level as their unchained rogue level for this purpose. This counts as having the advanced talents class feature. They cannot select master trick this way. This talent can be selected multiple times. A needler must be 11th level or higher to select this talent.
+
 *Fine Point (Su):* The needler chooses a simple kinetic blast they possess which normally deals only bludgeoning damage. That blast can now deal piercing or slashing damage instead. A needler who selects this talent at 1st level can choose an element which possesses a simple blast which normally deals only bludgeoning damage.
+
 *Kinetic Darts (Su):* The needler treats thrown piercing weapons and piercing kinetic blasts affected by their kinetic kunai hadou technique as light piercing melee weapons for all feats and abilities that require such a weapon.
+
 *Kinetic Partisan (Su):* The needler treats two-handed melee piercing weapons and piercing kinetic blasts affected by their kinetic katana hadou technique as one-handed piercing melee weapons for all feats and abilities that require such a weapon.
+
 *Kinetic Sidearm (Su):* The needler treats one-handed projectile piercing weapons as one-handed piercing melee weapons for all feats and abilities that require such a weapon. In addition, they can use elemental main gauche and kinetic kunai simultaneously with any light or one-handed piercing weapon in their main hand, treating their blast as a light ranged piercing weapon. A needler must possess the kinetic darts talent to select this talent.
 *Rogue Talent (Ex or Su):* A needler can choose one rogue talent for which they qualify, using their needler level as their unchained rogue level for this purpose. They cannot select ninja trick this way. This talent can be selected multiple times.
 

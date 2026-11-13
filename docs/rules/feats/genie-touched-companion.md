@@ -20,6 +20,7 @@ Your animal companion is descended from creatures from one of the Elemental Plan
 #### Istaheq
 The stoic istaheq is the favored mount of desert horse-breeding tribes. Istaheqs are dark gray or black.
 **Resist** acid 10 **Languages** Terran (cannot speak any language)
+
 **Scion of Stone (Ex)** Istaheqs are immune to petrification. An istaheq does not treat rubble or other uneven stone or rocky footing as difficult terrain, and it is immune to the effects of spike stones and caltrops. Finally, an istaheq’s natural armor bonus is +10, rather than the typical +8 for most genie-touched horses.
 
 **Steadfast (Ex)** An istaheq gains a +4 racial bonus on saving throws against all mind-affecting and fear effects. While serving willingly as a mount, an istaheq is immune to fear effects.
@@ -28,6 +29,7 @@ The stoic istaheq is the favored mount of desert horse-breeding tribes. Istaheqs
 #### Misayyah
 Temperamental, fierce, and courageous, a misayyah usually tolerates only one rider, with whom it forms a close bond—it often grows despondent if separated from its chosen partner. Misayyahs’ coats are a shimmering metallic gold or bay, and they have intense amber eyes.
 **Resist** Fire 10 **Languages** Ignan (cannot speak any language)
+
 **Firesight (Ex)** A misayyah can see through fire and smoke without penalties. It is immune to the [dazzled](../appendices/conditions.md#dazzled) condition, and it gains a +4 saving throw on Fortitude saves against blindness caused by bright light.
 
 **Flaming Trail (Su)** Once per day when a misayyah charges, it can leave behind a trail of fire up to 20 feet in length along its path. This functions as per [*wall of fire*](../../magic/spells/wall-of-fire.md) (CL 7th) and lasts for 1 round. If the misayyah makes a single hoof attack after using flaming trail, it deals an additional 2d6 points of fire damage on a successful hit. A creature that takes this fire damage must succeed at a DC 18 Reflex save or catch on fire. The save DC is Constitution-based
@@ -36,6 +38,7 @@ Temperamental, fierce, and courageous, a misayyah usually tolerates only one rid
 #### Tuanu
 Tuanus are known for their fluid gait and intuitive responses. They are dark dappled gray with blue eyes.
 **Resist** Cold 10 **Languages** Aquan (cannot speak any language)
+
 **Fluid Movement (Ex)** A tuanu gains a +2 bonus to its CMD. A tuanu’s rider gains a +5 circumstance bonus on [Ride](../skills/ride.md) checks to stay in the saddle and on concentration checks attempted as a result of the motion while riding the tuanu. However, the bonus does not apply to concentration checks triggered by other causes, such as being injured while casting or when casting defensively.
 
 **Water Sense (Ex)** A tuanu can use Survival to dowse for water. A tuanu does not require a dowsing rod to use this ability, and it gains a +4 racial bonus on [Survival](../skills/survival.md) checks (for a total bonus of +9) to dowse for water.
@@ -44,6 +47,7 @@ Tuanus are known for their fluid gait and intuitive responses. They are dark dap
 #### Zefaheen
 Intelligent, strong willed, and fast as the wind, zefaheens are silvery gray in color and have startling gray eyes.
 **Resist** Electricity 10 **Languages** Auran (cannot speak any language)
+
 **Air Walker (Sp)** Once per day, a zefaheen can use [*air walk*](../../magic/spells/air-walk.md) as a spell-like ability (CL 7th).
 
 **Desert Walker (Ex)** A zefaheen suffers no harm from hot environments, and it never treats natural desert terrain as difficult terrain. It gains a +4 bonus on all Survival checks made while in a desert. A zefaheen does not leave tracks in a desert, as if under the effects of [*pass without trace*](../../magic/spells/pass-without-trace.md).

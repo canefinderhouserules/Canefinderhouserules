@@ -46,8 +46,11 @@ If your firearms have been removed from your remains after your destruction, the
 In addition, you may spend one point of grit to perform any of the following special deeds for which you qualify:
 
 *Desolate Cry (Su):* As a move action, you can expend 1 grit point while unleashing a deathly scream of despair and loss, causing all creatures within 30 ft. who can hear you to become [shaken](../../../rules/appendices/conditions.md#shaken) (no save) until the beginning of your next turn. You can maintain this ability in subsequent rounds as a free action by spending additional points of grit. This ability also causes mundane and non-magical vegetation in the area, causing it to blacken and shrivel, with a 50% chance each round of crumbling to dust. It otherwise functions identically to the dirge of doom bardic performance ability. You must have at least 8 Hit Dice to use this deed.
+
 *Ghost Rider (Sp):* As a full-round action, you can use *phantom steed* as a spell-like ability, using your Hit Dice as your caster level. This spectral or skeletal speed has a unique and distinctive appearance, which is the same each time it is created. You must have at least 6 Hit Dice to use this deed.
+
 *Hideous Wound (Su):* If your undead form possesses a supernatural special attack that is normally conveyed by a melee attack, such as a vampire’s energy drain or a ghoul’s disease or paralysis, as a swift action you can expend 1 grit point to add the effects to a single firearm attack you make. You must choose to use this ability before the attack roll is made. If the attack misses, the effect is wasted. You must have at least 4 Hit Dice to use this deed.
+
 *Shake Off Control (Ex):* Whenever you fail a saving throw that would take control of your undead form, such as the Command Undead feat or *command undead* spell, you can expend 1 grit point to reroll the saving throw. You must accept the result of the second roll. You must have at least 2 Hit Dice to use this deed.
 
 ### Whiskey-Soaked Drifter

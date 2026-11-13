@@ -8,39 +8,75 @@ The bullet hexes, major bullet hexes and grand bullet hexes are listed in the de
 
 ### Deadeye Hexer Deed
 
-**Deadeye Hexer Deeds**
+**Gunslinger Deed**: At any level where a deadeye hexer gains deeds, he can choose to replace any one deed with a gunslinger deed received by a gunslinger at a lower level.
 
-*Gunslinger Deed*: At any level where a deadeye hexer gains deeds, he can choose to replace any one deed with a gunslinger deed received by a gunslinger at a lower level.
+| Level | Deeds |
+|---|---|
+| 2nd | [Desperation Spell](#desperation-spell-su), [Eldritch Aim](#eldritch-aim-su), [Eldritch Draw](#eldritch-draw-su) |
+| 6th | [Greater Eldritch Aim](#greater-eldritch-aim-su), [Greater Eldritch Draw](#greater-eldritch-draw-su), [Gun Whisperer](#gun-whisperer-su) |
+| 10th | [Deadeye Shot](#deadeye-shot-ex), [Eldritch Reload](#eldritch-reload-su), [Pellet Blast](#pellet-blast-su) |
+| 14th | [Greater Eldritch Reload](#greater-eldritch-reload-su), [Hexer’s Blessing](#hexers-blessing-su), [Lightning Fast](#lightning-fast-ex) |
+| 18th | [Greater Deadeye Shot](#greater-deadeye-shot-ex), [Master of Arms](#master-of-arms-ex), [Quicker Than Lightning](#quicker-than-lightning-ex) |
 
-**Level 2**
+#### Desperation Spell (Su)
 
-*Desperation Spell (Su):* At 2nd level, by spending 1 point of mana, the deadeye hexer can cast any spell that his firearm familiar knows, even if the spell is not prepared, which he is of a high enough level to cast. This spell is treated like any other spell cast by the deadeye hexer, including casting time, duration, and other effects dependent on the deadeye hexer’s level. This spell cannot be modified by metamagic feats or other abilities.
-*Eldritch Aim (Su):* At 2nd level, if the deadeye hexer misses with an attack with his firearm due to concealment, he can reroll the miss chance percentile roll to determine if the shot hits. The deadeye hexer can use this deed as long as there is at least 1 point in his mana pool.
-*Eldritch Draw (Su):* At 2nd level, the deadeye hexer can spend 1 point of mana to summon an unattended firearm to his hand as an immediate action, so long as the firearm is within 5 feet per class level of the deadeye hexer.
+At 2nd level, by spending 1 point of mana, the deadeye hexer can cast any spell that his firearm familiar knows, even if the spell is not prepared, which he is of a high enough level to cast. This spell is treated like any other spell cast by the deadeye hexer, including casting time, duration, and other effects dependent on the deadeye hexer’s level. This spell cannot be modified by metamagic feats or other abilities.
 
-**Level 6**
+#### Eldritch Aim (Su)
 
-*Greater Eldritch Aim (Su):* At 6th level, the deadeye hexer can spend 1 point of mana to allow his next attack with a firearm to ignore concealment and cover. The bullet veers around or over obstacles to strike its target.
-*Greater Eldritch Draw (Su):* At 6th level, the deadeye hexer can spend 1 point of mana to summon a firearm to his hand as an immediate action, so long as the firearm is within 10 feet per class level of the deadeye hexer. If the firearm is wielded or carried by another creature, then the deadeye hexer must make a successful disarm (if wielded) or steal (if carried) combat maneuver check, using his Intelligence modifier in place of his Strength modifier. If the roll is successful, the item vanishes from its location and appears in the deadeye hexer’s hand. The deadeye hexer must have a free hand to use this deed.
-*Gun Whisperer (Su):* At 6th level, as long as the deadeye hexer has 1 point of mana, he may use another deadeye hexer’s firearm familiar as if it were his own if its owner gives permission to do so. This does not allow the deadeye hexer to access spells known by the familiar, but he can use it in combat with no penalties and may use it in conjunction with bullet hexes and deeds as normal. By spending 1 point of mana and a full round action to exert control over it, a deadeye hexer with this deed can force a firearm familiar to work for him, even without the owner’s permission, for 1 minute. The deadeye hexer may renew control by spending an additional point of mana and another full round action to do so.
+At 2nd level, if the deadeye hexer misses with an attack with his firearm due to concealment, he can reroll the miss chance percentile roll to determine if the shot hits. The deadeye hexer can use this deed as long as there is at least 1 point in his mana pool.
 
-**Level 10**
+#### Eldritch Draw (Su)
 
-*Deadeye Shot (Ex):* At 10th level, the deadeye hexer can spend one point of mana to automatically confirm a critical hit against a target. Performing this deed does not allow the deadeye hexer to regain mana from confirming a critical hit.
-*Eldritch Reload (Su):* At 10th level, the deadeye hexer can spend one point of mana to reload a firearm as a swift action. One dose of powder and a bullet are conjured into the firearm. These remain in the firearm until it is fired. If they leave the gun by any means other than being fired, they disappear. Alternately, a bullet and powder or alchemical cartridge that the deadeye hexer carries on his person can be magically loaded into the gun. The deadeye hexer does not need a free hand to reload in this fashion and this action does not provoke attacks of opportunity.
-*Pellet Blast (Su):* At 10th level, the deadeye hexer can spend one point of mana to cause a single bullet fired from his firearm to turn into a spray of pellets in a 15-foot cone. This provides the firearm with the scatter weapon quality for that particular shot. If the loaded bullet was crafted of a special material or possessed a particular property— magical or otherwise—then those properties apply to the pellets. If this deed is used in conjunction with a bullet hex that affects a struck target, the hex still only applies to one target, but the deadeye hexer can apply it to any target within the area of effect that is struck by the pellets.
+At 2nd level, the deadeye hexer can spend 1 point of mana to summon an unattended firearm to his hand as an immediate action, so long as the firearm is within 5 feet per class level of the deadeye hexer.
 
-**Level 14**
+#### Greater Eldritch Aim (Su)
 
-*Greater Eldritch Reload (Su):* At 14th level, as long as the deadeye hexer has 1 point of mana, he can reload a firearm with conjured powder and bullet as a free action. This allows multiple attacks with an early firearm as part of a full attack action. This deed otherwise acts as eldritch reload.
-*Hexer’s Blessing (Su):* At 14th level, the deadeye hexer can spend 2 points of mana to add his Intelligence modifier as a bonus to a saving throw.
-*Lightning Fast (Ex):* At 14th level, the deadeye hexer can spend 1 point of mana to act during a surprise round, even if he failed a [Perception](../../../rules/skills/perception.md) check to notice a foe. The deadeye hexer is still considered [flat-footed](../../../rules/appendices/conditions.md#flat-footed) until he takes an action.
+At 6th level, the deadeye hexer can spend 1 point of mana to allow his next attack with a firearm to ignore concealment and cover. The bullet veers around or over obstacles to strike its target.
 
-**Level 18**
+#### Greater Eldritch Draw (Su)
 
-*Greater Deadeye Shot (Ex):* At 18th level, when the deadeye hexer scores a critical hit, he can spend 1 mana point to deal normal damage, and the target must succeed at a Fortitude save with a DC equal to 10 + 1/2 the deadeye hexer’s level + the deadeye hexer’s Intelligence modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the deadeye hexer to regain mana from confirming a critical hit or making a killing blow.
-*Master of Arms (Ex):* At 18th level, as long as the deadeye hexer has 1 point of mana, a misfire with a broken early firearm does not cause the weapon to explode. If a firearm wielded by the deadeye hexer misfires, he can spend a mana point to prevent the firearm from gaining the broken condition.
-*Quicker Than Lightning (Ex):* At 18th level, as long as the deadeye hexer has 1 point of mana, he always acts during a surprise round, even if he failed a Perception check to notice a foe. The deadeye hexer is still considered flat-footed until he takes an action. If the deadeye hexer spends 1 point of mana, he gains a bonus to his Initiative equal to 1/3 of his class level.
+At 6th level, the deadeye hexer can spend 1 point of mana to summon a firearm to his hand as an immediate action, so long as the firearm is within 10 feet per class level of the deadeye hexer. If the firearm is wielded or carried by another creature, then the deadeye hexer must make a successful disarm (if wielded) or steal (if carried) combat maneuver check, using his Intelligence modifier in place of his Strength modifier. If the roll is successful, the item vanishes from its location and appears in the deadeye hexer’s hand. The deadeye hexer must have a free hand to use this deed.
+
+#### Gun Whisperer (Su)
+
+At 6th level, as long as the deadeye hexer has 1 point of mana, he may use another deadeye hexer’s firearm familiar as if it were his own if its owner gives permission to do so. This does not allow the deadeye hexer to access spells known by the familiar, but he can use it in combat with no penalties and may use it in conjunction with bullet hexes and deeds as normal. By spending 1 point of mana and a full round action to exert control over it, a deadeye hexer with this deed can force a firearm familiar to work for him, even without the owner’s permission, for 1 minute. The deadeye hexer may renew control by spending an additional point of mana and another full round action to do so.
+
+#### Deadeye Shot (Ex)
+
+At 10th level, the deadeye hexer can spend one point of mana to automatically confirm a critical hit against a target. Performing this deed does not allow the deadeye hexer to regain mana from confirming a critical hit.
+
+#### Eldritch Reload (Su)
+
+At 10th level, the deadeye hexer can spend one point of mana to reload a firearm as a swift action. One dose of powder and a bullet are conjured into the firearm. These remain in the firearm until it is fired. If they leave the gun by any means other than being fired, they disappear. Alternately, a bullet and powder or alchemical cartridge that the deadeye hexer carries on his person can be magically loaded into the gun. The deadeye hexer does not need a free hand to reload in this fashion and this action does not provoke attacks of opportunity.
+
+#### Pellet Blast (Su)
+
+At 10th level, the deadeye hexer can spend one point of mana to cause a single bullet fired from his firearm to turn into a spray of pellets in a 15-foot cone. This provides the firearm with the scatter weapon quality for that particular shot. If the loaded bullet was crafted of a special material or possessed a particular property— magical or otherwise—then those properties apply to the pellets. If this deed is used in conjunction with a bullet hex that affects a struck target, the hex still only applies to one target, but the deadeye hexer can apply it to any target within the area of effect that is struck by the pellets.
+
+#### Greater Eldritch Reload (Su)
+
+At 14th level, as long as the deadeye hexer has 1 point of mana, he can reload a firearm with conjured powder and bullet as a free action. This allows multiple attacks with an early firearm as part of a full attack action. This deed otherwise acts as eldritch reload.
+
+#### Hexer’s Blessing (Su)
+
+At 14th level, the deadeye hexer can spend 2 points of mana to add his Intelligence modifier as a bonus to a saving throw.
+
+#### Lightning Fast (Ex)
+
+At 14th level, the deadeye hexer can spend 1 point of mana to act during a surprise round, even if he failed a [Perception](../../../rules/skills/perception.md) check to notice a foe. The deadeye hexer is still considered [flat-footed](../../../rules/appendices/conditions.md#flat-footed) until he takes an action.
+
+#### Greater Deadeye Shot (Ex)
+
+At 18th level, when the deadeye hexer scores a critical hit, he can spend 1 mana point to deal normal damage, and the target must succeed at a Fortitude save with a DC equal to 10 + 1/2 the deadeye hexer’s level + the deadeye hexer’s Intelligence modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the deadeye hexer to regain mana from confirming a critical hit or making a killing blow.
+
+#### Master of Arms (Ex)
+
+At 18th level, as long as the deadeye hexer has 1 point of mana, a misfire with a broken early firearm does not cause the weapon to explode. If a firearm wielded by the deadeye hexer misfires, he can spend a mana point to prevent the firearm from gaining the broken condition.
+
+#### Quicker Than Lightning (Ex)
+
+At 18th level, as long as the deadeye hexer has 1 point of mana, he always acts during a surprise round, even if he failed a Perception check to notice a foe. The deadeye hexer is still considered flat-footed until he takes an action. If the deadeye hexer spends 1 point of mana, he gains a bonus to his Initiative equal to 1/3 of his class level.
 
 ### Deadeye Hexer Patron
 

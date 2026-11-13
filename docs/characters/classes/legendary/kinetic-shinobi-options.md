@@ -9,17 +9,29 @@ Shinobi talents represent the techniques a kinetic shinobi can utilize, the resu
 **Legendary Hybrids: Kinetic Shinobi**
 
 *Advanced Jutsu (Sp):* A kinetic shinobi gains a composite blast associated with either their expanded element (such as metal blast for earth or blue flame blast for fire) and all of their primary element’s simple blasts, or gains a composite blast which requires a simple blast they possess (such as mud blast for water blast or plasma blast for air blast) and all other simple blasts that composite requires. This composite blast deals 2d4 + Cha damage when used with physical jutsu or 2d4 when used with elemental jutsu. A kinetic shinobi using a composite blast with the kinetic katana hadou technique instead deals 2d8 + 1 1/2 Cha for physical jutsu or 2d8 + 1/2 Cha for elemental jutsu. If the composite blast is one which affects another blast (such as aetheric boost, gravitic boost, or negative admixture), it instead acts as it normally would. Using blasts in this way requires the kinetic shinobi to spend a number of points from their *ki* pool equal to its burn cost in addition to the costs of any infusions applied to it; this additional cost cannot be reduced by ninjutsu specialist. A kinetic shinobi must be 11th level or higher to select this talent.
+
 *Aligned Ki Strike (Su):* A kinetic shinobi’s unarmed strikes are treated as both of their alignments for the purpose of bypassing damage reduction. A kinetic shinobi must be chaotic evil, chaotic good, lawful evil, or lawful good, have the *ki* strike talent and be 11th level or higher to select this talent.
+
 *Bomb Blast (Sp):* A kinetic shinobi can use a Smoke Bomb as part of a ranged kinetic blast, delivering the bomb to the blast’s target. They must pay the cost to use the bomb and the kinetic blast simultaneously, plus an additional 1 *ki* point. This can be used with Poison Bomb, Choking Bomb, and/or Blinding Bomb. A kinetic shinobi must possess the smoke bomb talent and be 11th level or higher to select this talent.
+
 *Bushin Rush (Ex):* Whenever a kinetic shinobi makes a charge attack or uses the Spring Attack feat with their kinetic blast, they can apply the focused shinobi talent to the attack. A kinetic shinobi must possess the focused jutsu talent and be 5th level or higher to select this talent.
+
 *Calculated Strike (Ex):* Whenever a kinetic shinobi would make an attack that would qualify for sneak attack damage with their kinetic blast, they can reduce their sneak attack damage dice by 1 to gain a +1 bonus to attack and damage rolls. They can reduce their sneak attack damage by as many dice as they wish, gaining an additional +1 to attack and damage rolls for each die reduced in this way. A kinetic shinobi must possess the sneak attack class feature to select this talent.
+
 *Deadeye Jutsu (Ex):* The distance from which a kinetic shinobi can make a sneak attack with their kinetic blast increases by an additional 5 ft. per 2 kinetic shinobi levels; this stacks with other effects which increase the range at which one can make sneak attacks. A kinetic shinobi must possess the extended kunai talent and the sneak attack class feature to select this talent.
+
 *Double Toxin Art (Ex):* A kinetic shinobi can hold a vial of poison in each hand when using their kinetic blast. If they use it with dual jutsu, each of the weapons formed has one of the doses of poison applied to it. If they use kinetic katana or kinetic yeoman, the two poisons are combined, both being applied simultaneously if they are different, or increasing the DC of the poison by +2 if both doses are the same type of poison. A kinetic shinobi must be 11th level or higher to select this talent.
+
 *Dragonbreath (Su):* Whenever a kinetic shinobi uses their focused jutsu shinobi talent, they can instead create a 10 ft. cone or 20 ft. line of elemental energy emanating from their square, allowing a reflex save for half damage. This talent deals the same amount of damage to any creatures hit that focused jutsu would normally deal. At 8th level they can spend 1 *ki* point to increase this to a 20 ft. cone or 40 ft. line, and at 12th level they can spend an additional *ki* point to increase this to a 30 ft. cone or 60 ft. line. A kinetic shinobi must possess the focused jutsu talent to select this talent.
+
 *Empower Weapons (Sp):* By spending 1 point from their *ki* pool as a free action, a kinetic shinobi can empower up to 1 manufactured or natural weapon or 10 pieces of ammunition per 3 kinetic shinobi levels they possess with elemental power (each end of a double weapon counts as a separate weapon for this purpose). Empowering a weapon or ammunition in this way lasts for 1 minute, and weapons empowered in this way deal an additional 1d4 damage of the damage type dealt by their kinetic blast. A kinetic shinobi must be 5th level or higher to select this talent.
+
 *Empower Weapons, Greater (Sp):* By spending an additional 2 points from their *ki* pool when using empower weapons, the kinetic shinobi can apply the composite blast gained through advanced jutsu to their weapons. If the composite blast deals multiple types of damage, empowered weapons deal an additional 1d4 damage of each type; otherwise they deal an additional 2d4 damage of the blast’s damage type. A kinetic shinobi must possess the advanced jutsu talent and empower weapons to select this talent.
+
 *Extended Kunai (Su):* A kinetic shinobi increases the range of their kinetic kunai hadou technique to 90 ft. and does not provoke attacks of opportunity when attacking with kinetic kunai. A kinetic shinobi must possess to kinetic kunai hadou technique to select this talent
+
 *Focused Jutsu (Su):* A kinetic shinobi can use their kinetic blast to make a single attack as a standard action, increasing its damage by +1d4 for every 3 kinetic shinobi levels they possess. If a kinetic shinobi uses the kinetic katana hadou technique with this ability, it instead increases by +1d8 per 3 kinetic shinobi levels they possess. A kinetic shinobi must be 3rd level or higher to select this talent.
+
 *Hadou Admixture (Su):* A kinetic shinobi gains one of the following advanced hadou techniques:
 
 - *Titangrip Technique (Su):* A kinetic shinobi can use their dual jutsu and kinetic katana hadou techniques simultaneously. Doing so inflicts a -1 penalty on AC and reflex saves for 1 round.
@@ -29,6 +41,7 @@ Shinobi talents represent the techniques a kinetic shinobi can utilize, the resu
 - *Weighted Kunai (Su):* A kinetic shinobi can use their kinetic katana and kinetic kunai hadou techniques simultaneously. Doing so reduces the range of this kinetic blast by 10 ft. (to a minimum of 5 ft.).
 
 A kinetic shinobi can select this talent up to 3 times, each time selecting a different advanced hadou technique, and must possess both basic hadou techniques listed for the chosen advanced hadou technique and be 5th level or higher to select this talent.
+
 *Hadou Expert (Su):* A kinetic shinobi gains one of the following advanced hadou techniques:
 
 - *Heavy Katana (Su):* Increase the critical multiplier a kinetic shinobi’s kinetic katana by 1 (to 3x). This effect does not stack with other effects which increase critical multipliers.
@@ -38,38 +51,69 @@ A kinetic shinobi can select this talent up to 3 times, each time selecting a di
 - *Twinblade Fury (Su):* When a kinetic shinobi uses their dual jutsu, they receive a +2 shield bonus to AC until their next turn, and the next attack made against them which fails it attack roll provokes an attack of opportunity even if it normally would not.
 
 A kinetic shinobi can select this talent up to 3 times, each time selecting a different advanced hadou technique, and must possess the basic hadou technique listed for the chosen advanced hadou technique and be 7th level or higher to select this talent.
+
 *Infused Weapons (Su):* Whenever a kinetic shinobi uses the empowered weapon talent, they can also apply a substance infusion to their weapons, applying its effects upon each successful attack (they must still pay any *ki* cost for using it, although ninjutsu specialist can still reduce this *ki* cost) until the beginning of their next round. A kinetic shinobi must possess the empowered weapons talent to select this talent.
+
 *Ki Strike (Su):* As long as the kinetic shinobi has at least one point in their *ki* pool, they treat their unarmed strikes as magic for the purpose of overcoming damage reduction. Starting at 7th their unarmed strikes are also treated as cold iron and silver for the purpose of bypassing damage reduction. At 10th the kinetic shinobi chooses one of their non-neutral alignments (if any) and their unarmed strikes are also treated as that alignment for the purpose of bypassing damage reduction (a true neutral kinetic shinobi does not gain this benefit). At 16th their unarmed strikes also count as adamantine, also counting as such for bypassing hardness. A kinetic shinobi must possess the Improved Unarmed Strike feat to select this talent.
+
 *Ki Suffusion (Su):* A kinetic shinobi’s *ki* strike applies to their kinetic blast. A kinetic shinobi must be 11th level or higher and have *ki* strike to select this talent.
+
 *Kinetic Naginata (Su):* When a kinetic shinobi uses their kinetic blast to make a melee attack, they can grant it the reach weapon quality.
+
 *Kinetic Shadow (Su):* When attacking with a kinetic blast to which a hadou technique has not been applied, a kinetic shinobi can surround the blast with elemental energy or matter as a swift action. This creates a small flurry of elemental debris that surrounds them as an after-effect of their attack. Attacks made against them have a 10% miss chance until the beginning of their next round; this stacks with miss chance provided by cover or concealment.
+
 *Kinetic Yeoman (Sp):* A kinetic shinobi’s kinetic blast can produce a projectile weapon and appropriate ammunition made of kinetic matter or energy, providing it with ten 90 ft. range increments. A kinetic blast must be used with the kinetic kunai hadou technique to benefit from kinetic yeoman. A kinetic shinobi must possess the extended kunai talent and be 9th level or higher to select this talent.
+
 *Master Trick (Ex):* A kinetic shinobi can select a master trick. This talent can be taken multiple times and a kinetic shinobi with this talent is treated as having the master tricks class feature. A kinetic shinobi must be 11th level or higher to select this talent.
+
 *Ninja Trick (Ex):* A kinetic shinobi can select a ninja trick. This talent can be selected multiple times.
+
 *Ninjutsu Knowledge (Sp):* A kinetic shinobi learns a new substance infusion for which they qualify. This talent can be selected multiple times, but a kinetic shinobi must be 5th level or higher to select this talent.
+
 *Oni Force (Su):* A kinetic shinobi can spend 1 point from their *ki* pool when using their kinetic blast to manifest a more deadly weapon, increasing its damage dice by one step. At 16th level they can increase its damage dice by two steps instead. A kinetic shinobi must be 9th level or higher to select this talent.
+
 *Rapid Gather (Su):* A kinetic shinobi can gather power as a standard action rather than a full-round action to reduce the cost of their kinetic blast used the next turn by 2 points from their *ki* pool; doing this ends their turn. A kinetic shinobi must possess the gather power class feature and be 13th level or higher to select this talent.
+
 *Razor Jutsu (Ex):* A kinetic shinobi increases the critical range of their kinetic blast to 19-20/x2; this effect does not stack with other effects that increase critical range, such as the Improved Critical feat. If a kinetic shinobi threatens a critical hit with their kinetic blast, increase the DC of any applied infusions by +1. A kinetic shinobi must be 5th level or higher to select this talent.
+
 *Shadow Hadou (Su):* A kinetic shinobi can select a basic hadou technique, allowing them to use the kinetic shadow talent with that hadou technique. Using a shadow hadou requires spending a swift action and must be announced before that attack roll is made. A kinetic shinobi can select this talent a second time, selecting an advanced hadou technique that can be used with kinetic shadow. A kinetic shinobi must possess the kinetic shadow talent and the chosen hadou technique as well as be 5th level or higher to select this talent.
+
 *Sneaking Jutsu (Ex):* Whenever a kinetic shinobi makes an attack with their kinetic blast that would qualify for sneak attack damage, they can reduce the amount of sneak attack dice they would deal by 2 to reduce the burn cost of an infusion applied to it by 1 (this affects all hits from a full-attack to which multiple hits apply sneak attack damage). A kinetic shinobi must possess the sneak attack class feature and be 7th level or higher to select this talent.
+
 *Speed Strike (Ex):* A kinetic shinobi can spend 1 point from their *ki* pool as a swift action while making a full attack or flurry of blows to make an additional attack at their highest attack bonus. A kinetic shinobi must be 9th level or higher to select this talent.
+
 *Starbound Technique (Sp):* As long as they have at least 1 point remaining in their *ki* pool, the kinetic shinobi gains the Startoss Style feat, treating their kinetic blast as being in the thrown fighter weapon group as long as kinetic kunai is applied to it. They cannot benefit from this if they use hadou admixture or kinetic yeoman, or if they are carrying a weapon or shield in their off-hand (except for a buckler). This talent qualifies as the Startoss Style feat for the prerequisites of feats, but the kinetic shinobi’s kinetic blasts cannot benefit from any feat with Startoss Style as a prerequisite if they have less than 1 point remaining in their *ki* pool. A kinetic shinobi must possess the PointBlank Shot and Weapon Focus (kinetic blast) feats to select this talent.
+
 *Starstorm Art (Sp):* A kinetic shinobi can apply the effects of flurry of stars to their kinetic blast, but only when used to only make ranged attacks with shuriken or kinetic blast. A kinetic shinobi must possess the extended kunai and flurry of stars talents and be 9th level or higher and to select this talent.
+
 *Stealthy Gathering (Ex):* A kinetic shinobi’s gather power lacks all noise or visual display (except for somatic components). A kinetic shinobi must possess the gather power class feature and be 5th level or higher and to select this talent.
+
 *Style Jutsu (Ex):* Choose one style strike, as per the unchained monk class feature. A kinetic shinobi applying empower weapons or greater empower weapons to their unarmed strikes while making a full attack or flurry of blows can apply the chosen style strike to one of their attacks once per round. A kinetic shinobi must possess the empower weapons talent and the Improved Unarmed Strike feat and be 7th level or higher and to select this talent.
+
 *Swarm Technique (Su):* While using the Ghost Step ninja master trick, the kinetic shinobi deals 1d4 damage of the same type as their simple blast to any creatures they pass through. If they possess more than one simple blast they must choose which one to apply to this talent when it’s used. A kinetic shinobi must possess the ghost step ninja trick to select this talent.
+
 *Supercharge (Su):* A kinetic shinobi’s gather power is treated as supercharge. A kinetic shinobi must possess the gather energy class feature and be 19th level or higher to select this talent.
+
 *Thought Detection (Sp):* The kinetic shinobi can spend 1 point from their *ki* pool to cast detect thoughts as a spelllike ability. Their kinetic shinobi level acts as their caster level for this ability. At 16th level, the kinetic shinobi can spend 1 point from their *ki* pool to cast telepathic bond as a spell-like ability using their kinetic shinobi level as their caster level. They cannot leave themselves out of a telepathic bond cast in this way. A kinetic shinobi must be at least 7th level or higher to select this talent.
+
 *Toxic Jutsu (Ex):* A kinetic shinobi is trained in the use of poison and cannot accidentally poison themselves when applying poison to a weapon. In addition, they can hold a vial of poison in their hand as part of using their kinetic blast, shattering the vial and applying the poison to their kinetic blast. If their kinetic blast affects more than 1 creature, they must select 1 to affect with the poison. This is treated as the poison use class feature for all purposes (meaning a kinetic shinobi cannot select poison use as a rogue talent or slayer talent).
+
 *Toxic Jutsu, Improved (Ex):* Whenever a kinetic shinobi uses toxic jutsu, they can affect 1 additional creature with the applied poison per 4 kinetic shinobi levels they possess. A kinetic shinobi must possess the toxic jutsu talent and be 5th level or higher to select this talent.
+
 *Toxic Jutsu, Potent (Ex):* When a kinetic shinobi uses toxic jutsu, they can instead replace the DC of the poison being used to the DC of their substance infusion. A kinetic shinobi must possess the toxic jutsu talent and be 11th level or higher to select this talent.
+
 *True Hadou Fusion (Su):* A kinetic shinobi can select two advanced hadou techniques and use them simultaneously as long as they both share a prerequisite basic hadou technique (such as kunai grenade, twinstar fury, and weighted kunai). A kinetic shinobi must be 11th level or higher to select this talent.
+
 *Unlock Skill (Ex):* The kinetic shinobi gains Signature Skill as a bonus feat, treating it as the rogue’s edge class feature for the purpose of qualifying for the Cutting Edge advanced rogue talent. A kinetic shinobi must be 5th level or higher and must meet the prerequisites for Signature Skill to select this talent.
 *Utility Ninjutsu (Sp or Su):* A kinetic shinobi gains a utility wild talent up to 3rd level (ignoring its prerequisites), treating their kinetic shinobi level as their kineticist level for the purposes of qualifying for it. If the wild talent would require them to accept burn, they instead spend a number of points from their *ki* pool equal to its burn cost. At 4th level and every 2 levels thereafter, they can swap out this utility wild talent for a different one of 3rd level or lower. This talent can be selected multiple times, but a kinetic shinobi must be 3rd level or higher to select this talent.
 *Utility Ninjutsu, Greater (Sp or Su):* A kinetic shinobi gains a utility wild talent of up to 6th level (ignoring its prerequisites), treating their kinetic shinobi level as their kineticist level for the purposes of qualifying for it. If the wild talent would require them to accept burn, they instead spend a number of points from their *ki* pool equal to its burn cost. At 10th level and every 2 levels thereafter, they can swap out this utility wild talent for a different one of 6th level or lower. This talent can be selected multiple times, but a kinetic shinobi must be 9th level or higher to select this talent.
+
 *Vigilant Blade (Su):* A kinetic shinobi threatens all adjacent squares to themselves with their kinetic blast. If anyone provokes an attack of opportunity from them, they can form their melee kinetic blast and make the attack, after which the weapon disappears.
+
 *Vigilant Blade, Greater (Ex):* A kinetic shinobi threatens all squares within 10 ft. of themselves with their vigilant blade talent, and can use a ranged attack as their attack of opportunity without provoking an attack of opportunity themselves. A kinetic shinobi must possess the vigilant blade and either extended kunai or kinetic naginata talent be 7th level or higher to select this talent.
+
 *Wall of Elements (Su):* The kinetic shinobi’s kinetic shadow creates a tower shield when used, providing them with a +4 shield bonus to AC until their next turn. In addition, instead of taking an attack action to use kinetic shadow, as a standard action they can choose one edge of their space to treat as if it was a solid wall for attacks targeting only them, giving them total cover only along that edge in addition to kinetic shadow’s other benefits. This effect does not work against targeted spells. This does not provide the same encumbrance as a real tower shield, so the kinetic shinobi does not apply any of the penalties normally associated with one. A kinetic shinobi must possess the kinetic shadow talent and be 9th level or higher to select this talent.
+
 *Ward of Elements (Su):* The kinetic shinobi gains their primary element’s defense wild talent, treating their kineticist level as their kinetic shinobi level -4 to determine its effects. They can spend points from their *ki* pool on this in the same way as a kineticist could spend burn; *ki* spent this way cannot be recovered in any way until the kinetic shinobi has had a full night’s rest. A kinetic shinobi must be 9th level or higher to select this talent.
 
 ## Feats
