@@ -40,3 +40,6 @@ extra_css:
 
 extra_javascript:
   - javascripts/section-preview.js
+  - javascripts/deep-search-link.js
+  - javascripts/deep-search.js
+  - javascripts/spell-search.js

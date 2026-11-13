@@ -13,3 +13,52 @@
 
 /* Use more of wide screens so long tables fit. */
 .md-grid { max-width: 90rem; }
+
+/* Quick search: link to the Deep Search page (javascripts/deep-search-link.js). */
+.cf-deep-link { display: block; padding: .6rem 1.2rem; font-size: .64rem; border-bottom: 1px solid var(--md-default-fg-color--lightest); color: var(--md-accent-fg-color); }
+.cf-deep-link:hover { background: var(--md-accent-fg-color--transparent); }
+
+/* Deep Search page (javascripts/deep-search.js). */
+.ds-form { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.ds-input, .ss-text { flex: 1 1 18rem; min-width: 0; padding: .5em .7em; font: inherit; color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color); border: 1px solid var(--md-default-fg-color--lighter); border-radius: .2rem; }
+.ds-form .md-button, .ss-top .md-button { margin: 0; padding: .4em 1.2em; }
+.ds-options { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: .3rem 1.2rem; font-size: .7rem; }
+.ds-status, .ss-status { color: var(--md-default-fg-color--light); }
+.ds-cats { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1rem; }
+.ds-cats a { padding: .15em .6em; font-size: .68rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 1em; }
+.ds-cats a span, .md-typeset .ds-cat h2 small, .ds-hits, .ss-opts label span { color: var(--md-default-fg-color--light); font-weight: normal; }
+.md-typeset .ds-cat h2 { margin-top: 1.4em; }
+.ds-page { margin: .7em 0 1em; }
+.ds-page__title { font-weight: 700; }
+.ds-hits { font-size: .64rem; }
+.ds-hits::before { content: "×"; }
+.md-typeset .ds-hit { margin: .2em 0 .2em 1rem; font-size: .7rem; line-height: 1.5; }
+.ds-sec { font-weight: 600; }
+.ds-sec::after { content: " —"; color: var(--md-default-fg-color--light); font-weight: normal; }
+.md-typeset .ds-more { margin: .2em 0 .2em 1rem; font-size: .7rem; }
+.md-typeset .ds-more summary { cursor: pointer; color: var(--md-accent-fg-color); }
+
+/* Spell Search page (javascripts/spell-search.js). */
+.ss-top { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin-bottom: .6rem; }
+.ss-filters { display: flex; flex-wrap: wrap; gap: .4rem; align-items: flex-start; }
+.ss-filter { position: relative; font-size: .7rem; }
+.ss-filter summary { cursor: pointer; list-style: none; padding: .3em .8em; border: 1px solid var(--md-default-fg-color--lighter); border-radius: 1em; user-select: none; }
+.ss-filter summary::-webkit-details-marker { display: none; }
+.ss-filter summary::after { content: " ▾"; color: var(--md-default-fg-color--light); }
+.ss-filter[open] summary { border-color: var(--md-accent-fg-color); }
+.ss-count:not(:empty) { display: inline-block; min-width: 1.3em; padding: 0 .3em; margin-left: .2em; text-align: center; border-radius: 1em;
+  background: var(--md-accent-fg-color); color: var(--md-accent-bg-color); font-weight: 700; }
+.ss-opts { position: absolute; z-index: 5; top: calc(100% + .3rem); left: 0; width: max-content; max-width: min(36rem, 90vw); max-height: 50vh; overflow: auto;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); gap: .1rem .8rem; padding: .6rem .8rem;
+  background: var(--md-default-bg-color); border: 1px solid var(--md-default-fg-color--lightest); border-radius: .2rem; box-shadow: var(--md-shadow-z2); }
+.ss-opts label { white-space: nowrap; cursor: pointer; }
+.ss-note { font-size: .64rem; color: var(--md-default-fg-color--light); }
+.ss-table-wrap { overflow-x: auto; }
+.md-typeset .ss-table { font-size: .64rem; width: 100%; border-collapse: collapse; }
+.md-typeset .ss-table th { position: sticky; top: 0; text-align: left; white-space: nowrap; background: var(--md-default-bg-color); }
+.md-typeset .ss-table th[data-sort] { cursor: pointer; }
+.md-typeset .ss-table th.ss-sorted::after { content: " " attr(data-dir); }
+.md-typeset .ss-table td, .md-typeset .ss-table th { padding: .35em .6em; vertical-align: top; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
+.md-typeset .ss-table td:first-child { font-weight: 600; white-space: nowrap; }
+.ss-desc { min-width: 16rem; color: var(--md-default-fg-color--light); }
