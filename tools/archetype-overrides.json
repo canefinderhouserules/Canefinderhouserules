@@ -1,7 +1,348 @@
 {
+  "alchemist": {
+    "Deep Bomber": {
+      "Targeting Bomb": {
+        "replaces": "swift alchemy and instant alchemy"
+      }
+    },
+    "Bramble Brewer": {
+      "Dendrite Mutagen (Su)": {
+        "modifies": "mutagen, greater mutagen, and grand mutagen"
+      }
+    },
+    "Metamorph": {
+      "Shapechanger (Su)": {
+        "replaces": "alchemy, bomb, and throw anything"
+      }
+    },
+    "Dragonblood Chymist": {
+      "Dragonblood Mutagen (Su)": {
+        "replaces": "the discoveries gained at 2nd, 12th, and 16th level",
+        "modifies": "mutagen"
+      }
+    }
+  },
+  "arcanist": {
+    "Twilight Sage": {
+      "Consume Life (Su)": {
+        "replaces": "consume spells",
+        "modifies": "spells"
+      }
+    }
+  },
+  "barbarian": {
+    "Hateful Rager": {
+      "Reduced Rage (Ex)": {
+        "modifies": "rage"
+      },
+      "Favored Enemy (Ex)": {
+        "replaces": "the rage powers gained at 2nd, 8th, 14th, and 20th level"
+      }
+    }
+  },
+  "bard": {
+    "Dragon Yapper": {
+      "Bardic Performance": {
+        "replaces": "fascinate and dirge of doom",
+        "modifies": "versatile performance"
+      }
+    }
+  },
+  "bloodrager": {
+    "Crossblooded Rager": {
+      "_merge": {
+        "For example": "Bonus Spells"
+      },
+      "Bonus Feats": {
+        "modifies": "bloodline feat"
+      },
+      "Bonus Spells": {
+        "modifies": "spells"
+      }
+    }
+  },
+  "cavalier": {
+    "Honor Guard": {
+      "Sworn Defense (Ex)": {
+        "replaces": null,
+        "modifies": "challenge"
+      },
+      "Intercept (Ex)": {
+        "replaces": "cavalier's charge"
+      }
+    },
+    "Vermin Tamer": {
+      "Underworld Mount (Ex)": {
+        "replaces": "mount and expert trainer"
+      }
+    }
+  },
+  "cleric": {
+    "Scroll Scholar": {
+      "Diligent Student (Ex)": {
+        "modifies": "domains"
+      }
+    },
+    "Hidden Priest": {
+      "False Arcanist (Ex)": {
+        "modifies": "domains"
+      },
+      "Unseen Devotion (Su)": {
+        "modifies": "domains"
+      }
+    }
+  },
+  "druid": {
+    "Shark Shaman": {
+      "Wild Shape (Su)": {
+        "replaces": "wild shape and a thousand faces"
+      }
+    },
+    "Bat Shaman": {
+      "Wild Shape (Su)": {
+        "replaces": "wild shape and a thousand faces"
+      }
+    },
+    "Boar Shaman": {
+      "Wild Shape (Su)": {
+        "replaces": "wild shape and a thousand faces"
+      }
+    },
+    "Treesinger": {
+      "Plant Bond (Ex)": {
+        "replaces": "nature bond"
+      },
+      "Wild Shape (Su)": {
+        "modifies": "wild shape"
+      }
+    },
+    "Feyspeaker": {
+      "Fey Magic": {
+        "replaces": "spontaneous casting",
+        "modifies": "spells"
+      }
+    }
+  },
   "fighter": {
-    "Dragoon": { "Spear Training (Ex)": { "replaces": "weapon training 1" } },
-    "Siegebreaker": { "Persistent Menace (Ex)": { "replaces": "the bonus feat gained at 4th level" } },
-    "Swarm Fighter": { "Bonus Teamwork Feats (Ex)": { "replaces": "the bonus feats gained at 2nd, 6th, 10th, 14th, and 18th level" } }
+    "Dragoon": {
+      "Spear Training (Ex)": {
+        "replaces": "weapon training 1"
+      }
+    },
+    "Siegebreaker": {
+      "Persistent Menace (Ex)": {
+        "replaces": "the bonus feat gained at 4th level"
+      }
+    },
+    "Swarm Fighter": {
+      "Bonus Teamwork Feats (Ex)": {
+        "replaces": "the bonus feats gained at 2nd, 6th, 10th, 14th, and 18th level"
+      }
+    }
+  },
+  "gunslinger": {
+    "Bushwhacker": {
+      "Trembling Grit (Ex)": {
+        "modifies": "grit"
+      }
+    },
+    "Experimental Gunsmith": {
+      "Experimental Firearm (Ex)": {
+        "replaces": "gunsmith"
+      }
+    }
+  },
+  "shifter": {
+    "Leafshifter": {
+      "_merge": {
+        "Plant Focus Abilities": "Leafshifter’s Aspect (Su)"
+      }
+    }
+  },
+  "shifter-ultimate-wilderness": {
+    "Leafshifter": {
+      "_merge": {
+        "Plant Focus Abilities": "Leafshifter’s Aspect (Su)"
+      }
+    }
+  },
+  "spiritualist": {
+    "Grim Apostle": {
+      "Horseman Focus": {
+        "modifies": "phantom"
+      }
+    },
+    "Hag-Haunted": {
+      "Death Curse (Sp)": {
+        "modifies": "spells"
+      }
+    },
+    "Quintessentialist": {
+      "Unfocused Spellcasting": {
+        "modifies": "spells"
+      }
+    }
+  },
+  "inquisitor": {
+    "Immolator": {
+      "Judgment (Su)": {
+        "replaces": "smiting"
+      }
+    },
+    "Vampire Hunter": {
+      "Judgment": {
+        "modifies": "purity and smiting"
+      }
+    }
+  },
+  "monk": {
+    "Karmic Monk": {
+      "Karmic Disruption (Su)": {
+        "replaces": "the slow fall gained at 16th level",
+        "modifies": "the slow fall gained at 20th level"
+      }
+    }
+  },
+  "paladin": {
+    "Divine Guardian": {
+      "Martial Focus": {
+        "replaces": "spells"
+      }
+    }
+  },
+  "psychic": {
+    "Starseeker": {
+      "Written in the Stars": {
+        "replaces": "discipline spells, the phrenic amplifications gained at 1st and 11th level"
+      }
+    },
+    "Esoteric Starseeker": {
+      "Written in the Stars": {
+        "replaces": "discipline spells, the phrenic amplifications gained at 1st and 11th level"
+      }
+    }
+  },
+  "ranger": {
+    "Demonslayer": {
+      "Expanded Spell List": {
+        "modifies": "spells"
+      },
+      "Fiendish Quarry (Su)": {
+        "modifies": "quarry"
+      },
+      "Improved Fiendish Quarry (Su)": {
+        "modifies": "improved quarry"
+      }
+    },
+    "Bow Nomad": {
+      "Combat Style (Ex)": {
+        "modifies": "combat style feat"
+      }
+    },
+    "Witch Guard": {
+      "Patron (Su)": {
+        "modifies": "spells"
+      }
+    }
+  },
+  "rogue": {
+    "Knife Master": {
+      "Sneak Stab (Ex)": {
+        "modifies": "sneak attack"
+      }
+    }
+  },
+  "shaman": {
+    "Spirit Warden": {
+      "Unnatural Mien (Ex)": {
+        "modifies": "class skills"
+      }
+    },
+    "Serendipity Shaman": {
+      "Luck Magic": {
+        "modifies": "spirit magic"
+      }
+    }
+  },
+  "sorcerer": {
+    "Scorpion": {
+      "_skip": true
+    },
+    "Imperious Bloodline": {
+      "_skip": true
+    },
+    "Martyred Bloodline": {
+      "_skip": true
+    },
+    "Daemon Bloodline": {
+      "_skip": true
+    },
+    "Crossblooded": {
+      "Drawbacks": {
+        "modifies": "spells"
+      }
+    }
+  },
+  "summoner": {
+    "Pyroclast": {
+      "Bound to Fire (Ex)": {
+        "modifies": "eidolon"
+      }
+    },
+    "Fey Caller": {
+      "Fey Eidolon": {
+        "modifies": "eidolon"
+      }
+    },
+    "First Worlder": {
+      "Summon Nature's Ally (Sp)": {
+        "replaces": "summon monster i"
+      }
+    },
+    "Devil Binder (Unchained Summoner)": {
+      "Smite Chaos (Su)": {
+        "replaces": "maker's call and devotion"
+      }
+    },
+    "Story Summoner": {
+      "Storykin Eidolon": {
+        "modifies": "eidolon"
+      }
+    }
+  },
+  "witch": {
+    "Mountain Witch": {
+      "Spells": {
+        "modifies": "spells"
+      }
+    },
+    "Scarred Witch Doctor": {
+      "Fetish Mask (Su)": {
+        "replaces": "witch's familiar",
+        "modifies": "spells"
+      }
+    },
+    "Tatterdemalion": {
+      "Witchweaver": {
+        "replaces": "the hexes gained at 4th, 8th, 12th, and 16th level"
+      }
+    },
+    "Spellspy": {
+      "Infiltrating Vessel (Su)": {
+        "replaces": "deliver touch spells"
+      }
+    },
+    "Vellemancer": {
+      "Keen Counselor": {
+        "modifies": "class skills"
+      }
+    }
+  },
+  "wizard": {
+    "Cruoromancer": {
+      "Perfect Infusion (Su)": {
+        "replaces": "the bonus feat gained at 20th level"
+      }
+    }
   }
 }
