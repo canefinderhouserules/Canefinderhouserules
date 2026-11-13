@@ -91,11 +91,20 @@ function parseSpell(file) {
 
 // "1st—[*obscuring mist*](../spells/obscuring-mist.md), 2nd—..." → [[1, 'obscuring-mist'], ...]
 function domainList(line, bySlug) {
+  // Spells are written either as links ("[*fireball*](../spells/fireball.md)") or as plain names ("fireball").
+  const linked = new Map();
+  const clean = line.replace(/\[\*?([^\]*]+)\*?\]\(([^)]+)\)/g, (m, name, url) => {
+    linked.set(slugOf(name), path.basename(url.split('#')[0], '.md'));
+    return name;
+  }).replace(/\*/g, '');
   const out = [];
-  for (const m of line.matchAll(/(\d)(?:st|nd|rd|th)\s*[—–-]\s*(\[\*?([^\]*]+)\*?\]\(([^)]+)\)|\*([^*]+)\*)/g)) {
-    const link = m[4] ? path.basename(m[4].split('#')[0], '.md') : null;
-    const slug = link && bySlug.has(link) ? link : slugOf(m[3] || m[5]);
-    if (bySlug.has(slug)) out.push([ord(m[1]), slug]);
+  for (const m of clean.matchAll(/(\d)(?:st|nd|rd|th)\s*[—–-]\s*([^,;]+)/g)) {
+    const name = m[2].replace(/\(.*$/, '').replace(/\.\s*$/, '').trim();
+    const slug = slugOf(name.replace(/\\$/, ''));
+    // "mass cure critical wounds" is the page "Cure Critical Wounds, Mass"
+    const flipped = slug.replace(/^(mass|lesser|greater|communal)-(.+)$/, '$2-$1');
+    const target = linked.has(slug) && bySlug.has(linked.get(slug)) ? linked.get(slug) : bySlug.has(slug) ? slug : flipped;
+    if (bySlug.has(target)) out.push([ord(m[1]), target]);
   }
   return out;
 }
@@ -107,13 +116,13 @@ function addDomains(spells) {
     const src = fs.readFileSync(path.join(DOMAINS, file), 'utf8').replace(/\r/g, '');
     const domain = plain((src.match(/^#\s+(.+)$/m) || [])[1] || '');
     if (!domain || /overview/i.test(domain)) continue;
-    const main = src.match(/^\*\*Domain Spells\*\*:?\s*(.+)$/m);
+    const main = src.match(/^\*{2,3}Domain Spells\*\*:?\s*(.+)$/m);
     if (!main) continue;
     const base = domainList(main[1], bySlug);
     const lists = [[domain, base]];
     for (const sec of src.split(/^###\s+/m).slice(1)) {
       const sub = plain(sec.split('\n')[0]).replace(/\s*Subdomain\s*$/i, '');
-      const rep = sec.match(/^\*\*Replacement Domain Spells\*\*:?\s*(.+)$/m);
+      const rep = sec.match(/^\*{2,3}Replacement Domain Spells\*\*:?\s*(.+)$/m);
       if (!sub || !rep) continue;
       const repl = domainList(rep[1], bySlug);
       const byLevel = new Map(base.map(([lv, s]) => [lv, s]));
