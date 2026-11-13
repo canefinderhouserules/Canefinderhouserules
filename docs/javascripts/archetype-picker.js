@@ -82,7 +82,7 @@
     box.innerHTML = '<summary><span class="ap-title">Archetypes</span> <span class="ap-count"></span><span class="ap-hint">Tick archetypes to see the class with them</span></summary>' +
       '<div class="ap-body"><div class="ap-top"><input type="search" class="ap-search" placeholder="Filter archetypes…" aria-label="Filter archetypes">' +
       '<button type="button" class="ap-clear md-button">Clear</button></div>' +
-      '<div class="ap-msg" role="status"></div><p class="ap-legend">Struck-out archetypes change the same class features as one you ticked (hover them to see which).</p><div class="ap-list"></div></div>';
+      '<div class="ap-msg" role="status"></div><p class="ap-legend">Archetypes in red change the same class features as one you ticked, so the rules don’t normally let you combine them. You can still tick them (for a house rule); hover one to see which features they share.</p><div class="ap-list"></div></div>';
     var anchor = table; while (anchor.parentNode !== content) anchor = anchor.parentNode;
     var cap = anchor.previousElementSibling;
     if (cap && cap.tagName === 'P' && /^table\b/i.test(cap.textContent.trim())) anchor = cap;
@@ -156,7 +156,7 @@
         }).join('; ') : '';
       });
       var bad = sel.filter(function (a) { return a.label.classList.contains('ap-clash'); });
-      msg.innerHTML = bad.length ? '<strong>These archetypes change the same class features</strong>, so they cannot be combined: ' + bad.map(function (a) { return esc(a.name); }).join(', ') + '. Hover an archetype to see which features.' : '';
+      msg.innerHTML = bad.length ? '<strong>Not normally combinable:</strong> ' + bad.map(function (a) { return esc(a.name); }).join(', ') + ' change the same class features. The page still shows them together, in case a house rule allows it; hover an archetype to see which features.' : '';
       count.textContent = sel.length ? sel.length + ' selected' : '';
       box.classList.toggle('ap-on', sel.length > 0);
 
