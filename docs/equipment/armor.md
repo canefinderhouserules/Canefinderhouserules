@@ -2,6 +2,92 @@
 
 For most, armor is the simplest way to protect oneselfin a world of rampant threats and dangers. Many characters can wear only the simplest of armors, and only some can use shields. To wear heavier armor effectively, a character can select the Armor Proficiency feats, but most classes are automatically proficient with the armors that work best for them.
 
+## All Armor and Shields
+
+Every armor and shield of the wiki in one table. Click a name to read its description, which may be on another page.
+
+| Armor | Cost | Armor/Shield Bonus | Max Dex Bonus | Armor Check Penalty | Arcane Spell Failure | Speed (30 ft.) | Speed (20 ft.) | Weight |
+|---|---|---|---|---|---|---|---|---|
+| **Light armor** | | | | | | | | |
+| [Dancing scarves](armor-aa2.md#dancing-scarves) | 150 gp | see text | — | 0 | — | 30 ft. | 20 ft. | 8 lbs. |
+| [Reinforced tunic](armor-aa2.md#reinforced-tunic) | 1 gp | +1 | +5 | 0 | 5% | 30 ft. | 20 ft. | 5 lbs. |
+| [Haramaki](armor-eastern.md) | 3 gp | +1 | — | 0 | 0% | 30 ft. | 20 ft. | 1 lb. |
+| [Padded](#armor-descriptions) | 5 gp | +1 | +8 | 0 | 5% | 30 ft. | 20 ft. | 10 lbs. |
+| [Armored kilt](../magic-items/adventure-items.md#armored-kilt) | 20 gp | +1 | +6 | 0 | 0% | 30 ft. | 20 ft. | 10 lbs. |
+| [Silken ceremonial armor](armor-eastern.md) | 30 gp | +1 | — | 0 | 0% | 30 ft. | 20 ft. | 4 lbs. |
+| [Quilted cloth](armor-apg.md#armor-descriptions) | 100 gp | +1 | +8 | 0 | 10% | 30 ft. | 20 ft. | 15 lbs. |
+| [Leather](#armor-descriptions) | 10 gp | +2 | +6 | 0 | 10% | 30 ft. | 20 ft. | 15 lbs. |
+| [Lamellar cuirass](armor-eastern.md) | 15 gp | +2 | +4 | 0 | 5% | 30 ft. | 20 ft. | 8 lbs. |
+| [Rosewood armor](../magic-items/adventure-items.md#rosewood-armor) | 50 gp | +2 | +6 | 0 | 10% | 30 ft. | 20 ft. | 15 lbs. |
+| [Hide shirt](gear-companions.md#hide-shirt) | 20 gp | +3 | +4 | –1 | 15% | 30 ft. | 20 ft. | 18 lbs. |
+| [Wooden](armor-apg.md#armor-descriptions) | 20 gp | +3 | +3 | –1 | 15% | 30 ft. | 20 ft. | 25 lbs. |
+| [Parade](arms-and-armor-ue.md#parade) | 25 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 20 lbs. |
+| [Studded leather](#armor-descriptions) | 25 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 20 lbs. |
+| [Hell knight leather](gear-ag.md#hell-knight-leather) | 30 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 25 lbs. |
+| [Leaf armor](../magic-items/adventure-items.md#leaf-armor) | 500 gp | +3 | +5 | 0 | 15% | 30 ft. | 20 ft. | 20 lbs. |
+| [Spider-silk bodysuit](armor-aa2.md#spider-silk-bodysuit) | 850 gp | +3 | +6 | –1 | 10% | 30 ft. | 20 ft. | 4 lbs. |
+| [Lamellar, leather](armor-eastern.md) | 60 gp | +4 | +3 | –2 | 20% | 30 ft. | 20 ft. | 25 lbs. |
+| [Chain shirt](#armor-descriptions) | 100 gp | +4 | +4 | –2 | 20% | 30 ft. | 20 ft. | 25 lbs. |
+| **Medium armor** | | | | | | | | |
+| [Hide](#armor-descriptions) | 15 gp | +4 | +4 | –3 | 20% | 25 ft. | 15 ft. | 25 lbs. |
+| [Armored coat](armor-apg.md#armor-descriptions) | 50 gp | +4 | +3 | –2 | 20% | 25 ft. | 15 ft. | 20 lbs. |
+| [Chain coat](armor-aa2.md#chain-coat) | 75 gp | +4 | +5 | –2 | 30% | 25 ft. | 15 ft. | 40 lbs. |
+| [Arctic coat](armor-aa2.md#arctic-coat) | 80 gp | +4 | +3 | –2 | 20% | 25 ft. | 15 ft. | 24 lbs. |
+| [Scale mail](#armor-descriptions) | 50 gp | +5 | +3 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| [Lamellar, horn](armor-eastern.md) | 100 gp | +5 | +3 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| [Do-maru](armor-eastern.md) | 200 gp | +5 | +4 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| [Kikko armor](armor-eastern.md) | 250 gp | +5 | +4 | –3 | 20% | 25 ft. | 15 ft. | 25 lbs. |
+| [Four-mirror armor](armor-eastern.md) | 125 gp | +6 | +2 | –5 | 30% | 25 ft. | 15 ft. | 45 lbs. |
+| [Chainmail](#armor-descriptions) | 150 gp | +6 | +2 | –5 | 30% | 25 ft. | 15 ft. | 40 lbs. |
+| [Lamellar, steel](armor-eastern.md) | 150 gp | +6 | +3 | –5 | 25% | 25 ft. | 15 ft. | 35 lbs. |
+| [Breastplate](#armor-descriptions) | 200 gp | +6 | +3 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| [Mountain pattern armor](armor-eastern.md) | 250 gp | +6 | +3 | –4 | 30% | 25 ft. | 15 ft. | 40 lbs. |
+| [Agile breastplate](armor-apg.md#armor-descriptions) | 400 gp | +6 | +3 | –4 | 25% | 25 ft. | 15 ft. | 25 lbs. |
+| **Heavy armor** | | | | | | | | |
+| [Lamellar, iron](armor-eastern.md) | 200 gp | +7 | 0 | –7 | 40% | 20 ft. | 15 ft. | 50 lbs. |
+| [Splint mail](#armor-descriptions) | 200 gp | +7 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 45 lbs. |
+| [Banded mail](#armor-descriptions) | 250 gp | +7 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 35 lbs. |
+| [Kusari gusoku](armor-eastern.md) | 350 gp | +7 | +1 | –7 | 35% | 20 ft. | 15 ft. | 45 lbs. |
+| [Tatami-do](armor-eastern.md) | 1,000 gp | +7 | +3 | –6 | 35% | 20 ft. | 15 ft. | 45 lbs. |
+| [Field plate](../magic-items/adventure-items.md#field-plate) | 1,200 gp | +7 | +1 | –5 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Lamellar, stone](armor-eastern.md) | 500 gp | +8 | 0 | –7 | 40% | 20 ft. | 15 ft. | 45 lbs. |
+| [Half-plate](#armor-descriptions) | 600 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Agile half-plate](armor-apg.md#armor-descriptions) | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 55 lbs. |
+| [Hell knight half-plate](gear-ag.md#hell-knight-half-plate) | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [O-yoroi](armor-eastern.md) | 1,700 gp | +8 | +2 | –6 | 35% | 20 ft. | 15 ft. | 45 lbs. |
+| [Fortress plate](armor-aa2.md#fortress-plate) | 2,100 gp | +8 | +0 | –7 | 40% | 20 ft. | 15 ft. | 75 lbs. |
+| [Full plate](#armor-descriptions) | 1,500 gp | +9 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Scar soldier plate](gear-ag.md#scar-soldier-plate) | 1,500 gp | +9 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Stoneplate](arms-and-armor-ue.md#stoneplate) | 1,800 gp | +9 | +1 | –6 | 35% | 15 ft.¹ | 10 ft.¹ | 75 lbs. |
+| [Hell knight plate](gear-ag.md#hell-knight-plate) | 2,000 gp | +9 | +1 | –5 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
+| **Shields** | | | | | | | | |
+| [Shield, light wooden](#armor-descriptions) | 3 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
+| [Buckler](#armor-descriptions) | 5 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
+| [Shield, light steel](#armor-descriptions) | 9 gp | +1 | — | –1 | 5% | — | — | 6 lbs. |
+| [Spiked light shield](arms-and-armor-ue.md#spiked-light-shield) | as light shield +10 gp | +1 | — | –1 | 5% | — | — | +5 lbs. |
+| [Klar](weapons-martial.md) | 12 gp | +1 | — | –1 | 5% | — | — | 6 lbs. |
+| [Madu, leather](gladiator-weapons.md) | 30 gp | +1 | — | –2 | 5% | — | — | 5 lbs. |
+| [Madu, steel](gladiator-weapons.md) | 40 gp | +1 | — | –2 | 5% | — | — | 6 lbs. |
+| [War-shield, dwarven](armor-aa2.md#war-shield-dwarven) | 50 gp | +1 | — | –1 | 20% | — | — | 8 lbs. |
+| [Quickdraw shield, light wooden](armor-apg.md#armor-descriptions) | 53 gp | +1 | — | –2 | 5% | — | — | 6 lbs. |
+| [Quickdraw shield, light steel](armor-apg.md#armor-descriptions) | 59 gp | +1 | — | –2 | 5% | — | — | 7 lbs. |
+| [Shield, heavy wooden](#armor-descriptions) | 7 gp | +2 | — | –2 | 15% | — | — | 10 lbs. |
+| [Spiked heavy shield](arms-and-armor-ue.md#spiked-heavy-shield) | as heavy shield +10 gp | +2 | — | –2 | 15% | — | — | +5 lbs. |
+| [Shield, heavy steel](#armor-descriptions) | 20 gp | +2 | — | –2 | 15% | — | — | 15 lbs. |
+| [Snarlshield, wooden](armor-aa2.md) | 37 gp | +2 | — | –3 | 15% | — | — | 15 lbs. |
+| [Snarlshield, steel](armor-aa2.md) | 50 gp | +2 | — | –3 | 15% | — | — | 20 lbs. |
+| [Shield, tower](#armor-descriptions) | 30 gp | +4³ | +2 | –10 | 50% | — | — | 45 lbs. |
+| **Extras** | | | | | | | | |
+| [Gauntlet, locked](#armor-descriptions) | 8 gp | — | — | special | n/a⁴ | — | — | +5 lbs. |
+| [Shield spikes](#armor-descriptions) | +10 gp | — | — | — | — | — | — | +5 lbs. |
+| [Armor spikes](#armor-descriptions) | +50 gp | — | — | — | — | — | — | +10 lbs. |
+| [Throwing shield](gladiator-weapons.md) | +50 gp | — | — | — | — | — | — | — |
+| [Shield boss](gear-companions.md#shield-boss) | 30–120 gp | — | — | — | — | — | — | 10 lbs. |
+
+Medium armor costs 5 feet of speed (see Speed above). ² When running in heavy armor, you move only triple your speed, not quadruple.
+
+## Armor Rules
+
 Here is the format for armor entries (given as column headings on Table 6–6).
 
 **Cost**: The cost in gold pieces of the armor for Small or Medium humanoid creatures. See Table 6–8 for armor prices for other creatures.

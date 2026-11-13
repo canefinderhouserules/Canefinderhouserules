@@ -38,15 +38,15 @@ Lamellar armor can be crafted into various shapes, including partial pieces such
 | Lamellar cuirass | 15 gp | +2 | +4 | 0 | 5% | 30 ft. | 20 ft. | 8 lbs. |
 | Lamellar, leather | 60 gp | +4 | +3 | –2 | 20% | 30 ft. | 20 ft. | 25 lbs. |
 | **Medium Armor** | | | | | | | | |
-| Do-maru | 200 gp | +5 | +4 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
-| Kikko armor | 250 gp | +5 | +4 | –3 | 20% | 20 ft. | 15 ft. | 25 lbs. |
-| Lamellar, horn | 100 gp | +5 | +3 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
-| Four-mirror armor | 125 gp | +6 | +2 | –5 | 30% | 20 ft. | 15 ft. | 45 lbs. |
-| Lamellar, steel | 150 gp | +6 | +3 | –5 | 25% | 20 ft. | 15 ft. | 35 lbs. |
-| Lamellar, stone | 500 gp | +8 | 0 | –7 | 40% | 20 ft. | 15 ft. | 45 lbs. |
-| Mountain pattern armor | 250 gp | +6 | +3 | –4 | 30% | 20 ft. | 15 ft. | 40 lbs. |
+| Do-maru | 200 gp | +5 | +4 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| Kikko armor | 250 gp | +5 | +4 | –3 | 20% | 25 ft. | 15 ft. | 25 lbs. |
+| Lamellar, horn | 100 gp | +5 | +3 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| Four-mirror armor | 125 gp | +6 | +2 | –5 | 30% | 25 ft. | 15 ft. | 45 lbs. |
+| Lamellar, steel | 150 gp | +6 | +3 | –5 | 25% | 25 ft. | 15 ft. | 35 lbs. |
+| Mountain pattern armor | 250 gp | +6 | +3 | –4 | 30% | 25 ft. | 15 ft. | 40 lbs. |
 | **Heavy Armor** | | | | | | | | |
 | Kusari gusoku | 350 gp | +7 | +1 | –7 | 35% | 20 ft. | 15 ft. | 45 lbs. |
 | Lamellar, iron | 200 gp | +7 | 0 | –7 | 40% | 20 ft. | 15 ft. | 50 lbs. |
 | Tatami-do | 1,000 gp | +7 | +3 | –6 | 35% | 20 ft. | 15 ft. | 45 lbs. |
+| Lamellar, stone | 500 gp | +8 | 0 | –7 | 40% | 20 ft. | 15 ft. | 45 lbs. |
 | O-yoroi | 1,700 gp | +8 | +2 | –6 | 35% | 20 ft. | 15 ft. | 45 lbs. |

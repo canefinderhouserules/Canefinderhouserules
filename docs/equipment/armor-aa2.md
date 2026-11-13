@@ -9,8 +9,8 @@
 | Spider-silk bodysuit | 850 gp | +3 | +6 | –1 | 10% | 30 ft. | 20 ft. | 4 lbs. |
 | Dancing scarves | 150 gp | see text | — | 0 | — | 30 ft. | 20 ft. | 8 lbs. |
 | *Medium armor* | | | | | | | | |
-| Chain coat | 75 gp | +4 | +5 | –2 | 30% | 20 ft. | 15 ft. | 40 lbs. |
-| Arctic coat | 80 gp | +4 | +3 | –2 | 20% | 20 ft. | 15 ft. | 24 lbs. |
+| Chain coat | 75 gp | +4 | +5 | –2 | 30% | 25 ft. | 15 ft. | 40 lbs. |
+| Arctic coat | 80 gp | +4 | +3 | –2 | 20% | 25 ft. | 15 ft. | 24 lbs. |
 | *Heavy armor* | | | | | | | | |
 | Fortress plate | 2,100 gp | +8 | +0 | –7 | 40% | 20 ft. | 15 ft. | 75 lbs. |
 | *Shields* | | | | | | | | |

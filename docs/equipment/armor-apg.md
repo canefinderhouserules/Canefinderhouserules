@@ -10,8 +10,8 @@ These armors follow the same rules as the armors presented in the Pathfinder RPG
 | Quilted cloth | 100 gp | +1 | +8 | 0 | 10% | 30 ft. | 20 ft. | 15 lbs. |
 | Wooden | 20 gp | +3 | +3 | –1 | 15% | 30 ft. | 20 ft. | 25 lbs. |
 | *Medium armor* | | | | | | | | |
-| Armored coat | 50 gp | +4 | +3 | –2 | 20% | 20 ft. | 15 ft. | 20 lbs. |
-| Agile breastplate | 400 gp | +6 | +3 | –4 | 25% | 20 ft. | 15 ft. | 25 lbs. |
+| Armored coat | 50 gp | +4 | +3 | –2 | 20% | 25 ft. | 15 ft. | 20 lbs. |
+| Agile breastplate | 400 gp | +6 | +3 | –4 | 25% | 25 ft. | 15 ft. | 25 lbs. |
 | *Heavy armor* | | | | | | | | |
 | Agile half-plate | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 55 lbs. |
 | *Shields* | | | | | | | | |
