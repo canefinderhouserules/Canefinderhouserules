@@ -129,7 +129,7 @@
           if (!f) return esc(u.label);
           return f.kind === 'replaced' ? '<del title="Replaced">' + esc(u.label) + '</del>' : esc(u.label) + '<sup title="Modified by ' + esc(f.by.map(function (x) { return x.b.name; }).join(', ')) + '">*</sup>';
         });
-        abil.forEach(function (x) { if (abLevel(x) === row.lvl && (x.b.lvl || x.b.replaces.length || x.b.modifies.length)) parts.push('<span class="ap-new">' + link(x) + '</span>'); });
+        abil.forEach(function (x) { if (abLevel(x) === row.lvl && (x.b.lvl || x.b.replaces.length) && !/proficien|^(class )?skills/i.test(x.b.name)) parts.push('<span class="ap-new">' + link(x) + '</span>'); });
         row.td.innerHTML = parts.join(', ') || '—';
       });
 
