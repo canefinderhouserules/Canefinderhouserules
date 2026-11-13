@@ -10,12 +10,6 @@ Oracles typically use their spells and revelations to further their understandin
 
 **Hit Dice**: d8.
 
-## Class Skills
-
-The oracle’s class skills are Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (history) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int). In addition, oracles receive additional class skills depending upon their oracle mystery.
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Oracle**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -40,6 +34,12 @@ The oracle’s class skills are Craft (Int), Diplomacy (Cha), Heal (Wis), Knowle
 | 18th | +13/+8/+3 | +6 | +6 | +11 | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
 | 19th | +14/+9/+4 | +6 | +6 | +11 | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
 | 20th | +15/+10/+5 | +6 | +6 | +12 | Final revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+
+## Class Skills
+
+The oracle’s class skills are Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (history) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int). In addition, oracles receive additional class skills depending upon their oracle mystery.
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 **Table: Oracle Spells Known**
 

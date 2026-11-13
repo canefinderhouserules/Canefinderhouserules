@@ -31,12 +31,6 @@ The knight errant, the conquering warlord, the royal bodyguard – these positio
 
 **Starting Wealth**: 5d6 × 10 gp (average 175 gp)
 
-### Class Skills
-
-The fighter’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str). In addition, fighters receive additional class skills of their choice from the bonus skills class feature.
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Legendary Fighters**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
@@ -61,6 +55,12 @@ The fighter’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), 
 | 18 | +18 | +11 | +6 | +6 | Bonus feat, perseverance |
 | 19 | +19 | +11 | +6 | +6 | Armor mastery, assured strike |
 | 20 | +20 | +12 | +6 | +6 | Bonus feat, weapon mastery |
+
+### Class Skills
+
+The fighter’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str). In addition, fighters receive additional class skills of their choice from the bonus skills class feature.
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ### Class Features
 

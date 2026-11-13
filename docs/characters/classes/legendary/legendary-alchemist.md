@@ -21,12 +21,6 @@ While the legendary alchemist shares some similarities with its base class, the 
 
 **Starting Wealth**: 5d6 x 10 gp (average 175 gp). In addition, each character begins play with an outfit worth 10 gp or less.
 
-## Class Skills
-
-The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable Device (Dex), Fly (Dex), Heal (Wis), Knowledge (arcana) (Int), Knowledge (engineering) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex) Survival(Wis), Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table 1-1: Legendary Alchemist**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -51,6 +45,12 @@ The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable De
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Discovery | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Discipline defense, ultimate bomb | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Grand discovery, quintessence surge +5 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable Device (Dex), Fly (Dex), Heal (Wis), Knowledge (arcana) (Int), Knowledge (engineering) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex) Survival(Wis), Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

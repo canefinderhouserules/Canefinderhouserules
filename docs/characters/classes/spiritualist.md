@@ -10,12 +10,6 @@ Becoming a spiritualist is not a calling—it’s a phenomenon. When a creature 
 
 **Starting Wealth**: 2d6 × 10 gp (average 70 gp).
 
-## Class Skills
-
-The spiritualist’s class skills are Bluff (Cha), Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), Spellcraft (Int), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Spiritualist**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -40,6 +34,12 @@ The spiritualist’s class skills are Bluff (Cha), Craft (Int), Fly (Dex), Heal 
 | 18th | +13/+8/+3 | +11 | +6 | +11 | Bonded manifestation increase, phantom recall 4/day | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Calm spirit 4/day | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +6 | +12 | Empowered consciousness | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The spiritualist’s class skills are Bluff (Cha), Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), Spellcraft (Int), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 **Table: Spiritualist Spells Known**
 

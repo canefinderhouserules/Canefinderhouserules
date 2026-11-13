@@ -8,12 +8,6 @@ Shifters are masters of the wild who focus their supernatural powers inward to g
 
 **Starting Wealth**: 3d6 × 10 gp (average 105 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 
-### Class Skills
-
-The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha). Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis). Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks Per Level**: 4 + Int Modifier
-
 **Table: Canefinder Shifter**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
@@ -38,6 +32,12 @@ The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | — |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter claws (—) |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, defensive instinct (+5), master of many forms |
+
+### Class Skills
+
+The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha). Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis). Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks Per Level**: 4 + Int Modifier
 
 ### Class Features
 

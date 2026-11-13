@@ -10,12 +10,6 @@ Not all beings who stalk the night hunt mortal prey. Out of honor, desperation, 
 
 **Starting Wealth**: 5d6 × 10 gp (average 175 gp).
 
-## Class Skills
-
-The vampire hunter’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (geography) (Int), Knowledge (local) (Int), Knowledge (religion) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Vampire Hunter**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th |
@@ -40,6 +34,12 @@ The vampire hunter’s class skills are Bluff (Cha), Climb (Str), Craft (Int), H
 | 18th | +18/+13/+8/+3 | +6 | +11 | +11 | Technique feat | 4 | 3 | 2 | 2 |
 | 19th | +19/+14/+9/+4 | +6 | +11 | +11 | Improved quarry | 4 | 3 | 3 | 2 |
 | 20th | +20/+15/+10/+5 | +6 | +12 | +12 | Master vampire hunter | 4 | 4 | 3 | 3 |
+
+## Class Skills
+
+The vampire hunter’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (geography) (Int), Knowledge (local) (Int), Knowledge (religion) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ## Class Features
 

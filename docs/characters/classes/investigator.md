@@ -12,12 +12,6 @@ Whether on the trail of a fugitive, a long-lost treasure trove, or a criminal ma
 
 **Starting Wealth**: 3d6 x 10 gp (average 105 gp).
 
-## Class Skills
-
-The investigator's class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Heal (Wis), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Investigator**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -42,6 +36,12 @@ The investigator's class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha
 | 18th | +13/+8/+3 | +6 | +11 | +11 | Studied strike +8d6, trap sense +6 | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +6 | +11 | +11 | Investigator talent | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Studied strike +9d6, true inspiration | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The investigator's class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Heal (Wis), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ## Class Features
 

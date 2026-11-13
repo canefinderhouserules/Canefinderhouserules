@@ -12,12 +12,6 @@ Skalds are poets, historians, and keepers of lore who use their gifts for oratio
 
 **Starting Wealth**: 3d6 x 10 gp (average 105 gp).
 
-## Class Skills
-
-The skald's class skills are Acrobatics (Dex), Appraise (Int), Bluff(Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Handle Animal (Cha), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (oratory, percussion, sing, string) (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Swim (Str), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Skald**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -42,6 +36,12 @@ The skald's class skills are Acrobatics (Dex), Appraise (Int), Bluff(Cha), Climb
 | 18th | +13/+8/+3 | +6 | +11 | +11 | Rage power | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +6 | +11 | +11 | DR 3/—, lore master 3/day | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Inspired rage +6, master skald | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The skald's class skills are Acrobatics (Dex), Appraise (Int), Bluff(Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Handle Animal (Cha), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Perform (oratory, percussion, sing, string) (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Swim (Str), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

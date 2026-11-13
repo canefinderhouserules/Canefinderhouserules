@@ -8,12 +8,6 @@ Whether secreted away in a smoky basement laboratory or gleefully experimenting 
 
 **Hit Die**: d8.
 
-## Class Skills
-
-The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable Device (Dex), Fly (Dex), Heal (Wis), Knowledge (arcana) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Alchemist**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -38,6 +32,12 @@ The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable De
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Discovery, instant alchemy | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Bomb 10d6 | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Grand discovery This discovery cannot be used to dilute extracts or mutagens. An alchemist must be at least 12th level before selecting this discovery. | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable Device (Dex), Fly (Dex), Heal (Wis), Knowledge (arcana) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Spellcraft (Int), Survival (Wis), Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

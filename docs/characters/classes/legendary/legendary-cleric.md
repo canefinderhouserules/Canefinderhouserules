@@ -19,12 +19,6 @@ The legendary cleric’s component elements are similar in nature to the base ve
 
 **Starting Wealth**: 4d6 x 10 gp (average 140 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 
-### Class Skills
-
-The legendary cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nobility) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
-
-**Skill Ranks Per Level**: 4 + Int modifier.
-
 **Table 1-1: Legendary Cleric**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -49,6 +43,12 @@ The legendary cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy
 | 18th | +13/+8/+3 | +11 | +6 | +11 | Secondary domain | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Channel energy 10d6 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
 | 20th | +15/+10/+5 | +12 | +6 | +12 | True faith | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+
+### Class Skills
+
+The legendary cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nobility) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
+
+**Skill Ranks Per Level**: 4 + Int modifier.
 
 ### Class Features
 

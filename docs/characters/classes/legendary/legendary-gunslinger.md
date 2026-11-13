@@ -17,12 +17,6 @@ Gunslingers are a bold and mysterious lot. While there are those treat the secre
 
 **Starting Wealth**: 5d6 × 10 gp (average 175 gp.) In addition, each character begins play with an outfit worth 10 gp or less, and the legendary gunslinger begins with her starting firearm.
 
-### Class Skills
-
-The legendary cavalier’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +2 | +2 | +0 | Deeds, grit, gunsmith, gun training |
@@ -45,6 +39,12 @@ The legendary cavalier’s class skills are Acrobatics (Dex), Bluff (Cha), Climb
 | 18th | +13/+8/ | +11 | +11 | +6 | Gunner’s style |
 | 19th | +14/+9/ | +11 | +11 | +6 | Combat grit, deeds |
 | 20th | +15/+10 | +12 | +12 | +6 | Gritty offense +4, gun mastery, nimble +5, true grit |
+
+### Class Skills
+
+The legendary cavalier’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ### Class Features
 

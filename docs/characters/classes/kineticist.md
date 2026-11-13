@@ -10,12 +10,6 @@ Kineticists are living channels for elemental matter and energy, manipulating th
 
 **Starting Wealth**: 1d6 × 10 gp (average 35 gp).
 
-## Class Skills
-
-The kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), Intimidate (Cha), Perception (Wis), Profession (Wis), Stealth (Dex), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Kineticist**
 
 | Level | BAB | Fort | Ref | Will | Special |
@@ -40,6 +34,12 @@ The kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), I
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Elemental overflow +6, utility wild talent |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Infusion, metakinetic master |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Infusion specialization 6, omnikinesis, utility wild talent |
+
+## Class Skills
+
+The kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), Intimidate (Cha), Perception (Wis), Profession (Wis), Stealth (Dex), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

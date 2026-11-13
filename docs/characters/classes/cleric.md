@@ -10,32 +10,6 @@ As their powers are influenced by their faith, all clerics must focus their wors
 
 **Hit Die**: d8.
 
-## Class Skills
-
-The cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nobility) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
-
-**Skill Ranks per Level:** 2 + Int modifier.
-
-## Class Features
-
-The following are class features of the cleric.
-
-### Weapon and Armor Proficiency
-
-Clerics are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
-
-### Aura (Ex)
-
-A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the [*detect evil*](../../magic/spells/detect-evil.md) spell for details).
-
-### Spells
-
-A cleric casts divine spells which are drawn from the cleric spell list presented in Chapter 10. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells in the spell descriptions. A cleric must choose and prepare her spells in advance.
-
-To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
-
-Like other spellcasters, a cleric can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 3–5. In addition, she receives bonus spells per day if she has a high Wisdom score (see Table 1–3).
-
 **Table 3–5: Cleric**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                    | Spells per Day |     |     |     |     |     |     |     |     |     |
@@ -61,6 +35,32 @@ Like other spellcasters, a cleric can cast only a certain number of spells of ea
 | 18th  | +13/+8/+3         | +11       | +6       | +11       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |
 | 19th  | +14/+9/+4         | +11       | +6       | +11       | Channel energy 10d8                        | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 |
 | 20th  | +15/+10/+5        | +12       | +6       | +12       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 |
+
+## Class Skills
+
+The cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nobility) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
+
+**Skill Ranks per Level:** 2 + Int modifier.
+
+## Class Features
+
+The following are class features of the cleric.
+
+### Weapon and Armor Proficiency
+
+Clerics are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
+
+### Aura (Ex)
+
+A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the [*detect evil*](../../magic/spells/detect-evil.md) spell for details).
+
+### Spells
+
+A cleric casts divine spells which are drawn from the cleric spell list presented in Chapter 10. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells in the spell descriptions. A cleric must choose and prepare her spells in advance.
+
+To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
+
+Like other spellcasters, a cleric can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 3–5. In addition, she receives bonus spells per day if she has a high Wisdom score (see Table 1–3).
 
 Note: “+1” represents the domain spell slot
 

@@ -12,16 +12,16 @@ As their powers are influenced by their faith, all omduras must focus their wors
 
 **Starting Wealth**: 4d6 x 10 gp (average 140 gp).
 
+**Table: Omdura**
+
+| Level | BAB | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+
 ## Class Skills
 
 The omdura’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Diplomacy (Cha), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (nobility) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
 
 **Skill Ranks per Level**: 4 + Int modifier.
-
-**Table: Omdura**
-
-| Level | BAB | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 
 ## Class Features
 

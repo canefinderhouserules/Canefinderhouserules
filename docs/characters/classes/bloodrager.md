@@ -12,12 +12,6 @@ While many ferocious combatants can tap into a deep reservoir of buried rage, bl
 
 **Starting Wealth**: 3d6 x 10 gp (average 105 gp).
 
-## Class Skills
-
-The bloodrager's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (arcana) (Int), Perception (Wis), Ride (Dex), Spellcraft (Int), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Bloodrager**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th |
@@ -42,6 +36,12 @@ The bloodrager's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Ha
 | 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bloodline feat | 4 | 3 | 2 | 2 |
 | 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Damage reduction 5/— | 4 | 3 | 3 | 2 |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Bloodline power, mighty bloodrage | 4 | 4 | 3 | 2 |
+
+## Class Skills
+
+The bloodrager's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (arcana) (Int), Perception (Wis), Ride (Dex), Spellcraft (Int), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 **Table: Bloodrager Spells Known**
 

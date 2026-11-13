@@ -27,12 +27,6 @@ While the rare druidic circle might bar shifters from its order, and while some 
 
 **Starting Wealth**: 3d6 × 10 gp (average 105 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 
-### Class Skills
-
-The legendary shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha). Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis). Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks Per Level**: 4 + Int Modifier
-
 **Table 5-1: Legendary Shifter Class Features**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Shifter Evolution Damage |
@@ -57,6 +51,12 @@ The legendary shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft 
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Instant shift | 2d8 |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter evolution (—) | 2d8 |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, defensive instinct (+5), master of many forms | 2d10 |
+
+### Class Skills
+
+The legendary shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha). Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis). Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks Per Level**: 4 + Int Modifier
 
 ### Class features
 

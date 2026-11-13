@@ -12,12 +12,6 @@ Capable of calling upon the power of the gods in the form of blessings and spell
 
 **Starting Wealth**: 5d6 x 10 gp (average 175 gp).
 
-## Class Skills
-
-The warpriest's class skills are Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Warpriest**
 
 | Level | BAB | Fort | Ref | Will | Special | Sacred Weapon Damage* | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -42,6 +36,12 @@ The warpriest's class skills are Climb (Str), Craft (Int), Diplomacy (Cha), Hand
 | 18th | +13/+8/+3 | +11 | +6 | +11 | Bonus feat | 2d6 | 5 | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Sacred armor +5 | 2d6 | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +6 | +12 | Aspect of war, fervor 7d6, sacred weapon +5 | 2d8 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The warpriest's class skills are Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 \* The values shown are for Medium warpriests. See the sacred weapon class feature for Small and Large warpriests.
 

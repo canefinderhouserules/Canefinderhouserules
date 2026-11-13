@@ -19,14 +19,6 @@ For those leaning toward the causes of law and good, the path of the shifter is 
 
 **Starting Wealth**: 3d6 × 10 gp (average 105 gp).
 
-## Class Skills
-
-The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
-## Class Features
-
 **Table: Shifter**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
@@ -51,6 +43,14 @@ The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Wild shape (8/day) |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter claws increase |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Defensive instinct (+5), final aspect |
+
+## Class Skills
+
+The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
+
+## Class Features
 
 ### Weapon and Armor Proficiency
 

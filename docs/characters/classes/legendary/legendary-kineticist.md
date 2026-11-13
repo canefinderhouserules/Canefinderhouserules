@@ -15,12 +15,6 @@ For example, a fusion kineticist’s elemental balance class feature – normall
 
 **Starting Wealth**: 1d6 × 10 gp (average 35 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 
-### Class Skills
-
-The legendary kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), Intimidate (Cha), Perception (Wis), Profession (Wis), Stealth (Dex), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Legendary Kineticist**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
@@ -45,6 +39,12 @@ The legendary kineticist’s class skills are Acrobatics (Dex), Craft (Int), Hea
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Battle burn 3, elemental overflow +6, utility wild talent |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Infusion, metakinetic master |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Infusion specialization 6, omnikinesis, utility wild talent (persistent) |
+
+### Class Skills
+
+The legendary kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), Intimidate (Cha), Perception (Wis), Profession (Wis), Stealth (Dex), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 #### Weapon and Armor Proficiencies
 

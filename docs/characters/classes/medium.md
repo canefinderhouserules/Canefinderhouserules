@@ -10,12 +10,6 @@ Mediums channel spirits into themselves, using their own bodies as vessels for a
 
 **Starting Wealth**: 4d6 × 10 gp (average 140 gp).
 
-## Class Skills
-
-The medium’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spellcraft (Int), and Use Magic Device (Wis).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Medium**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th |
@@ -40,6 +34,12 @@ The medium’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly (
 | 18th | +13/+8/+3 | +6 | +6 | +11 | Spacious soul | 4 | 3 | 2 | 2 |
 | 19th | +14/+9/+4 | +6 | +6 | +11 | Spirit mastery | 4 | 3 | 3 | 2 |
 | 20th | +15/+10/+5 | +6 | +6 | +12 | Astral beacon, spirit bonus +6, spirit surge 1d10 | 4 | 4 | 3 | 2 |
+
+## Class Skills
+
+The medium’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Spellcraft (Int), and Use Magic Device (Wis).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 **Table: Medium Spells Known**
 

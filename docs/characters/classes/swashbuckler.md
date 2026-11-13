@@ -12,12 +12,6 @@ Whereas many warriors brave battle encased in suits of armor and wielding large 
 
 **Starting Wealth**: 5d6 x 10 gp (average 175 gp).
 
-## Class Skills
-
-The swashbuckler's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (local) (Int), Knowledge (nobility) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Sleight of Hand (Dex), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Swashbuckler**
 
 | Level | BAB | Fort | Ref | Will | Special |
@@ -42,6 +36,12 @@ The swashbuckler's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), 
 | 18th | +18/+13/+8/+3 | +6 | +11 | +6 | Charmed life 7/day |
 | 19th | +19/+14/+9/+4 | +6 | +11 | +6 | Deeds, nimble +5 |
 | 20th | +20/+15/+10/+5 | +6 | +12 | +6 | Bonus feat, swashbuckler weapon mastery |
+
+## Class Skills
+
+The swashbuckler's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (local) (Int), Knowledge (nobility) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Sleight of Hand (Dex), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

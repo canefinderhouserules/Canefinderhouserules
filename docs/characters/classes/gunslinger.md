@@ -12,12 +12,6 @@ Gunslingers are a bold and mysterious lot. While many treat the secrets of black
 
 **Starting Wealth**: 5d6 × 10 gp (average 175 gp).
 
-## Class Skills
-
-The gunslinger’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sleight of Hand (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Gunslinger**
 
 | Level | BAB | Fort | Ref | Will | Special |
@@ -42,6 +36,12 @@ The gunslinger’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), 
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Nimble +5 |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Deeds |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, true grit |
+
+## Class Skills
+
+The gunslinger’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sleight of Hand (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

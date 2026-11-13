@@ -12,12 +12,6 @@ Not all vigilantes are out to make the world a better place. Some criminals hide
 
 **Starting Wealth**: 5d6 × 10 (average 175 gp).
 
-## Class Skills
-
-A vigilante’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Survival (Wis), Swim (Str), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Vigilante**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
@@ -42,6 +36,12 @@ A vigilante’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), 
 | 18th | +13/+8/+3 | +6 | +11 | +11 | Vigilante talent |
 | 19th | +14/+9/+4 | +6 | +11 | +11 | Social talent |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Vengeance strike, vigilante talent |
+
+## Class Skills
+
+A vigilante’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Survival (Wis), Swim (Str), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ## Class Features
 

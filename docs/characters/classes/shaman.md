@@ -12,12 +12,6 @@ While some heroes speak to gods or consort with otherworldly muses, shamans comm
 
 **Starting Wealth**: 3d6 x 10 gp (average 105 gp).
 
-## Class Skills
-
-The shaman's class skills are Craft (Int), Diplomacy (Cha), Fly (Dex), Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), and Survival (Wis).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Shaman**
 
 | Level | BAB | Fort | Ref | Will | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -42,6 +36,12 @@ The shaman's class skills are Craft (Int), Diplomacy (Cha), Fly (Dex), Handle An
 | 18th | +13/+8/+3 | +6 | +6 | +11 | Hex | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
 | 19th | +14/+9/+4 | +6 | +6 | +11 | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
 | 20th | +15/+10/+5 | +6 | +6 | +12 | Hex, manifestation, wandering spirit (true) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+
+## Class Skills
+
+The shaman's class skills are Craft (Int), Diplomacy (Cha), Fly (Dex), Handle Animal (Cha), Heal (Wis), Knowledge (nature) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), and Survival (Wis).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

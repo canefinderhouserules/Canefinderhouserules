@@ -8,12 +8,6 @@ There are those who spend their lives poring over ancient tomes and texts, unloc
 
 **Hit Die**: d8.
 
-## Class Skills
-
-The magus’s class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (planes) (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), Swim (Str), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Magus**
 
 | Level | BAB | Fort | Ref | Will | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -38,6 +32,12 @@ The magus’s class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (
 | 18th | +13/+8/+3 | +11 | +6 | +11 | Magus arcana | 5 | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Greater spell access | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +6 | +12 | True magus | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The magus’s class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (planes) (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), Swim (Str), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 ## Class Features
 

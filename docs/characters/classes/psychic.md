@@ -10,12 +10,6 @@ Within the mind of any sentient being lies power to rival that of the greatest m
 
 **Starting Wealth**: 2d6 × 10 gp (average 70 gp).
 
-## Class Skills
-
-The psychic’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly (Dex), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Psychic**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -40,6 +34,12 @@ The psychic’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly 
 | 18th | +9/+4 | +6 | +6 | +11 | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
 | 19th | +9/+4 | +6 | +6 | +11 | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
 | 20th | +10/+5 | +6 | +6 | +12 | Remade self | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+
+## Class Skills
+
+The psychic’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly (Dex), Intimidate (Cha), Knowledge (all) (Int), Linguistics (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 **Table: Psychic Spells Known**
 

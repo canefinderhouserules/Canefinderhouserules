@@ -10,14 +10,6 @@ Experts at charm and deceit, mesmerists compel others to heed their words and be
 
 **Starting Wealth**: 3d6 × 10 gp (average 105 gp).
 
-## Class Skills
-
-The mesmerist’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (history)
-
-(Int), Knowledge (local) (Int), Knowledge (nobility) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Mesmerist**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -42,6 +34,14 @@ The mesmerist’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Dip
 | 18th | +13/+8/+3 | +6 | +11 | +11 | Mesmerist trick | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +6 | +11 | +11 | Bold stare | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +6 | +12 | +12 | Mesmerist trick, rule minds | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The mesmerist’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (history)
+
+(Int), Knowledge (local) (Int), Knowledge (nobility) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), Stealth (Dex), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 **Table: Mesmerist Spells Known**
 

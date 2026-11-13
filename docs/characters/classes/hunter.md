@@ -12,12 +12,6 @@ Hunters are warriors of the wilds that have forged close bonds with trusted anim
 
 **Starting Wealth**: 4d6 x 10 gp (average 140 gp).
 
-## Class Skills
-
-The hunter's class skills are Climb (Str), Craft(Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Hunter**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -42,6 +36,12 @@ The hunter's class skills are Climb (Str), Craft(Int), Handle Animal (Cha), Heal
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Bonus trick | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Master hunter | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The hunter's class skills are Climb (Str), Craft(Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Knowledge (nature) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 **Table: Hunter Spells Known**
 

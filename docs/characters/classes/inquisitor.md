@@ -8,12 +8,6 @@ Grim and determined, the inquisitor roots out enemies of the faith, using tricke
 
 **Hit Dice**: d8.
 
-## Class Skills
-
-The inquisitor’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (nature) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Inquisitor**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -37,6 +31,12 @@ The inquisitor’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplo
 | 17th | +12/+7/+2 | +10 | +5 | +10 | Slayer | 5 | 5 | 5 | 4 | 4 | 2 |
 | 18th | +13/+8/+3 | +11 | +6 | +11 | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Judgment 7/day | 5 | 5 | 5 | 5 | 5 | 4 |
+
+## Class Skills
+
+The inquisitor’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (dungeoneering) (Int), Knowledge (nature) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 **Table: Inquisitor Spells Known**
 

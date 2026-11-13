@@ -12,14 +12,6 @@ Deadly even with nothing in her hands, a brawler eschews using the fighter's hea
 
 **Starting Wealth**: 3d6 x 10 gp (average 105 gp).
 
-## Class Skills
-
-The brawler's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Handle Animal (Cha), Intimidate (Cha), Knowledge (dungeoneering)
-
-(Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Brawler**
 
 | Level | BAB | Fort | Ref | Will | Unarmed Damage | Special |
@@ -44,6 +36,14 @@ The brawler's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escap
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | 2d8 | AC bonus +4 |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | 2d8 | Maneuver training 5 |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | 2d10 | Bonus combat feat, improved awesome blow, martial flexibility (any number) |
+
+## Class Skills
+
+The brawler's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Handle Animal (Cha), Intimidate (Cha), Knowledge (dungeoneering)
+
+(Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

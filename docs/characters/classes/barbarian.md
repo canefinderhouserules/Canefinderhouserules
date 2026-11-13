@@ -6,24 +6,6 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 
 **Alignment**: Any nonlawful. **Hit Die**: d12.
 
-## Class Skills
-
-The barbarian’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
-## Class Features
-
-All of the following are class features of the barbarian.
-
-### Weapon and Armor Proficiency
-
-A barbarian is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
-
-### Fast Movement (Ex)
-
-A barbarian’s base speed is faster than the norm for her race by +10 feet. This benefit applies only when she is wearing no armor, light armor, or medium armor, and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the barbarian’s base speed.
-
 **Table 3–2: Barbarian**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
@@ -48,6 +30,24 @@ A barbarian’s base speed is faster than the norm for her race by +10 feet. Thi
 | 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Rage power, Trap sense +6, Damage reduction 9/— |
 | 19th | +19/+14/+9/+4 | +11 | +6 | +6 |  |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Mighty rage, Rage power, Damage reduction 10/— |
+
+## Class Skills
+
+The barbarian’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
+
+## Class Features
+
+All of the following are class features of the barbarian.
+
+### Weapon and Armor Proficiency
+
+A barbarian is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+
+### Fast Movement (Ex)
+
+A barbarian’s base speed is faster than the norm for her race by +10 feet. This benefit applies only when she is wearing no armor, light armor, or medium armor, and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the barbarian’s base speed.
 
 ### Rage (Ex)
 

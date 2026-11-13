@@ -10,12 +10,6 @@ These warriors, known as cavaliers, swear themselves to a purpose, serving it ab
 
 **Hit Dice**: d10.
 
-## Class Skills
-
-The cavalier’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Cavalier**
 
 | Level | BAB | Fort | Ref | Will | Special |
@@ -40,6 +34,12 @@ The cavalier’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 | 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat |
 | 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Supreme charge |
+
+## Class Skills
+
+The cavalier’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

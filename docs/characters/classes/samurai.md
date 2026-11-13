@@ -10,12 +10,6 @@ Few warriors are more dedicated to honor and the code of the warrior than the sa
 
 **Starting Wealth**: 5d6 × 10 gp (average 175 gp).
 
-## Class Skills
-
-The samurai’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Samurai**
 
 | Level | BAB | Fort | Ref | Will | Special |
@@ -40,6 +34,12 @@ The samurai’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomac
 | 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat |
 | 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Last stand |
+
+## Class Skills
+
+The samurai’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

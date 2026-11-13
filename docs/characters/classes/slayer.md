@@ -12,12 +12,6 @@ Skilled at tracking down targets, slayers are consummate hunters, living for the
 
 **Starting Wealth**: 5d6 x 10 gp (average 175 gp).
 
-## Class Skills
-
-The slayer's class skills are Acrobatics (Dex), Bluff(Cha), Climb (Str), Craft (Int), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Stealth (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 6 + Int modifier.
-
 **Table: Slayer**
 
 | Level | BAB | Fort | Ref | Will | Special |
@@ -42,6 +36,12 @@ The slayer's class skills are Acrobatics (Dex), Bluff(Cha), Climb (Str), Craft (
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Slayer talent, sneak attack +6d6 |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Improved quarry |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | 5th studied target, master slayer, slayer talent |
+
+## Class Skills
+
+The slayer's class skills are Acrobatics (Dex), Bluff(Cha), Climb (Str), Craft (Int), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (geography) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 6 + Int modifier.
 
 ## Class Features
 

@@ -8,12 +8,6 @@ There are those who take a different path when pursuing the arcane arts, reachin
 
 **Hit Die**: d8.
 
-## Class Skills
-
-The summoner’s class skills are Craft (Int), Fly (Dex), Handle Animal (Cha), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Unchained Summoner** (spells per day in the 1st–6th columns)
 
 | Level | Base Attack Bonus | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -38,6 +32,12 @@ The summoner’s class skills are Craft (Int), Fly (Dex), Handle Animal (Cha), K
 | 18th | +13/+8/+3 | +6 | +6 | +11 | Greater aspect | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +6 | +6 | +11 | Gate | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +6 | +6 | +12 | Twin eidolon | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The summoner’s class skills are Craft (Int), Fly (Dex), Handle Animal (Cha), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Ride (Dex), Spellcraft (Int), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 **Table: Unchained Summoner Spells Known**
 

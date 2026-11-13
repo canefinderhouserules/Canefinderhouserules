@@ -12,12 +12,6 @@ The occultist channels his psychic might through implements—items that allow h
 
 **Starting Wealth**: 4d6 × 10 gp (average 140 gp).
 
-## Class Skills
-
-The occultist’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Fly (Dex), Knowledge (arcana) (Int), Knowledge (engineering) (Int), Knowledge (history) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Occultist**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -42,6 +36,12 @@ The occultist’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha),
 | 18th | +13/+8/+3 | +11 | +6 | +11 | Implements 7 | 5 | 5 | 5 | 5 | 4 | 3 |
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Focus power | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +6 | +12 | Implement mastery, outside contact 4 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+## Class Skills
+
+The occultist’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Fly (Dex), Knowledge (arcana) (Int), Knowledge (engineering) (Int), Knowledge (history) (Int), Knowledge (planes) (Int), Knowledge (religion) (Int), Linguistics (Int), Perception (Wis), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Spellcraft (Int), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

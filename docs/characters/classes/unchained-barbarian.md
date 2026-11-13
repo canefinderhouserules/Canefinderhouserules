@@ -8,14 +8,6 @@ For some heroes, the rage that lives within them can’t be contained. Whether t
 
 **Hit Die**: d12.
 
-## Class Skills
-
-The barbarian’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
-All of the following are class features of the barbarian.
-
 **Table: Unchained Barbarian**
 
 | Level | Base Attack Bonus | Fort | Ref | Will | Special |
@@ -40,6 +32,14 @@ All of the following are class features of the barbarian.
 | 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Danger sense +6, rage power |
 | 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Damage reduction 5/— |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Mighty rage, rage power |
+
+## Class Skills
+
+The barbarian’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
+
+All of the following are class features of the barbarian.
 
 ## Class Features
 

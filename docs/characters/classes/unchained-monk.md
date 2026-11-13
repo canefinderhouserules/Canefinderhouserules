@@ -8,12 +8,6 @@ Physical and mental perfection—that is the life goal of every monk. For these 
 
 **Hit Die**: d10.
 
-## Class Skills
-
-The monk’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Intimidate (Cha), Knowledge (history) (Int), Knowledge (religion) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Stealth (Dex), and Swim (Str).
-
-**Skill Ranks per Level**: 4 + Int modifier.
-
 **Table: Unchained Monk**
 
 | Level | Base Attack Bonus | Fort | Ref | Will | Special | Unarmed Damage | AC Bonus | Fast Movement |
@@ -38,6 +32,12 @@ The monk’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape
 | 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Bonus feat, ki power | 2d8 | +4 | +60 ft. |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Flawless mind | 2d8 | +4 | +60 ft. |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Ki power, perfect self | 2d10 | +5 | +60 ft. |
+
+## Class Skills
+
+The monk’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Intimidate (Cha), Knowledge (history) (Int), Knowledge (religion) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Stealth (Dex), and Swim (Str).
+
+**Skill Ranks per Level**: 4 + Int modifier.
 
 ## Class Features
 

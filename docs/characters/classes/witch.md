@@ -8,12 +8,6 @@ Some gain power through study, some through devotion, others through blood, but 
 
 **Hit Die**: d6.
 
-## Class Skills
-
-The witch’s class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nature) (Int), Knowledge (planes) (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Witch**
 
 | Level | BAB | Fort | Ref | Will | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -37,6 +31,12 @@ The witch’s class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (C
 | 17th | +8/+3 | +5 | +5 | +10 |  | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
 | 18th | +9/+4 | +6 | +6 | +11 | Hex, grand hex | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
 | 19th | +9/+4 | +6 | +6 | +11 |  | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
+
+## Class Skills
+
+The witch’s class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (Cha), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (nature) (Int), Knowledge (planes) (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 ## Class Features
 

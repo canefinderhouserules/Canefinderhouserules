@@ -12,12 +12,6 @@ Some spellcasters seek the secrets of magic, pursuing the power to make the impo
 
 **Starting Wealth**: 2d6 x 10 gp (average 70 gp).
 
-## Class Skills
-
-The arcanist's class skills are Appraise (Int), Craft (Int), Fly (Dex), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Arcanist**
 
 | Level | BAB | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -42,6 +36,12 @@ The arcanist's class skills are Appraise (Int), Craft (Int), Fly (Dex), Knowledg
 | 18th | +9/+4 | +6 | +6 | +11 | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 |
 | 19th | +9/+4 | +6 | +6 | +11 | Arcanist exploit | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 |
 | 20th | +10/+5 | +6 | +6 | +12 | Magical supremacy | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+
+## Class Skills
+
+The arcanist's class skills are Appraise (Int), Craft (Int), Fly (Dex), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Spellcraft (Int), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 **Table: Arcanist Spells Prepared**
 

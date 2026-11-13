@@ -8,12 +8,6 @@ Thief, sneak, charmer, diplomat—all of these and more describe the rogue. When
 
 **Hit Die**: d8.
 
-## Class Skills
-
-The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (local) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Swim (Str), and Use Magic Device (Cha).
-
-**Skill Ranks per Level**: 8 + Int modifier.
-
 **Table: Unchained Rogue**
 
 | Level | Base Attack Bonus | Fort | Ref | Will | Special |
@@ -38,6 +32,12 @@ The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 | 18th | +13/+8/+3 | +6 | +11 | +6 | Danger sense +6, rogue talent |
 | 19th | +14/+9/+4 | +6 | +11 | +6 | Bonus combat feat, sneak attack +10d6 |
 | 20th | +15/+10/+5 | +6 | +12 | +6 | Master strike, rogue talent |
+
+## Class Skills
+
+The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (local) (Int), Linguistics (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Swim (Str), and Use Magic Device (Cha).
+
+**Skill Ranks per Level**: 8 + Int modifier.
 
 ## Class Features
 

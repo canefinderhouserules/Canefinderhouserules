@@ -14,12 +14,6 @@ As an alternate paladin class, the antipaladin uses Table 2–13 to determine it
 
 **Hit Die**: d10.
 
-## Class Skills
-
-The antipaladin’s class skills are Bluff (Cha), Craft (Int), Disguise (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), and Stealth (Dex).
-
-**Skill Ranks per Level**: 2 + Int modifier.
-
 **Table: Antipaladin**
 
 | Level | Base Attack Bonus | Fort | Ref | Will | Special | 1st | 2nd | 3rd | 4th |
@@ -44,6 +38,12 @@ The antipaladin’s class skills are Bluff (Cha), Craft (Int), Disguise (Cha), H
 | 18th | +18/+13/+8/+3 | +11 | +6 | +11 | Cruelty | 4 | 3 | 2 | 2 |
 | 19th | +19/+14/+9/+4 | +11 | +6 | +11 | Smite good 7/day | 4 | 3 | 3 | 2 |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +12 | Unholy champion | 4 | 4 | 3 | 3 |
+
+## Class Skills
+
+The antipaladin’s class skills are Bluff (Cha), Craft (Int), Disguise (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), Spellcraft (Int), and Stealth (Dex).
+
+**Skill Ranks per Level**: 2 + Int modifier.
 
 ## Class Features
 
