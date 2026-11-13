@@ -7,6 +7,7 @@ find spells, feats, classes and rules by name, and makes the index several times
 import json
 import os
 import re
+import shutil
 
 MAX_CHARS = 150
 TAG = re.compile(r"<[^>]+>")
@@ -40,6 +41,9 @@ def on_post_build(config, **kwargs):
     path = os.path.join(config["site_dir"], "search", "search_index.json")
     if not os.path.exists(path):
         return
+    # The Deep Search page needs the whole text: keep an untrimmed copy for tools/build-fulltext.js,
+    # which splits it into small files after the build and deletes the copy.
+    shutil.copyfile(path, os.path.join(os.path.dirname(path), "full_index.json"))
     with open(path, encoding="utf-8") as f:
         index = json.load(f)
     for doc in index.get("docs", []):
