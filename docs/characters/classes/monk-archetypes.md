@@ -282,7 +282,7 @@ A wildcat is a student of the school of hard knocks, who dedicates himself to le
 
 **Brawler Maneuver Training (Ex)**: At 4th level, a wildcat gains additional training with the dirty trick combat maneuver (Advanced Player's Guide 320 ). He gains a +1 bonus on combat maneuver checks when attempting this combat maneuver and a +1 bonus to his CMD when defending against this maneuver.
 
-At 7th, ioth, and 16th levels, a wildcat becomes further trained in another combat maneuver, gaining the above +1 bonus on combat maneuver checks and to CMD. In addition, the bonuses granted by previous maneuver training increase by 1 each. For example, when a wildcat reaches 7th level, he gains a +1 bonus on one type of combat maneuver, +1 to her CMD against that combat maneuver, and the bonuses for the dirty trick combat maneuver increase to +2.
+At 7th, 10th, and 16th levels, a wildcat becomes further trained in another combat maneuver, gaining the above +1 bonus on combat maneuver checks and to CMD. In addition, the bonuses granted by previous maneuver training increase by 1 each. For example, when a wildcat reaches 7th level, he gains a +1 bonus on one type of combat maneuver, +1 to her CMD against that combat maneuver, and the bonuses for the dirty trick combat maneuver increase to +2.
 
 This ability replaces [ki pool](monk.md#ki-pool-su) and [high jump](monk.md#high-jump-ex).
 

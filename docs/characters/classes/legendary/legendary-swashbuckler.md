@@ -311,7 +311,7 @@ At 18th level, whenever a madcap swashbuckler regains 1 or more panache points, 
 
 **Overkill (Ex)**
 
-At 3th level, a madcap swashbuckler can spend 1 panache point when she makes an attack in order to gain a +1 competence bonus on her attack roll and a +1 competence bonus to the saving throw DC of all swashbuckler deeds that she uses until the end of her turn. She can spend an additional number of panache points when using this deed to increase these bonus by +1 per panache point spent, up to a maximum bonus equal to the swashbuckler’s Charisma modifier (minimum 1).
+At 3rd level, a madcap swashbuckler can spend 1 panache point when she makes an attack in order to gain a +1 competence bonus on her attack roll and a +1 competence bonus to the saving throw DC of all swashbuckler deeds that she uses until the end of her turn. She can spend an additional number of panache points when using this deed to increase these bonus by +1 per panache point spent, up to a maximum bonus equal to the swashbuckler’s Charisma modifier (minimum 1).
 
 **Fearless (Ex)**
 
@@ -417,7 +417,7 @@ At 18th level, a raider adds her Charisma bonus (if any) to the total number of 
 
 **Plunder (Ex)**
 
-At 3th level, as a full-round action a raider swashbuckler can make a single melee attack against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the swashbuckler also pilfers a small, loose item from her target as if she had succeeded at a [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) or steal combat maneuver check. She doesn’t need to attempt a Sleight of Hand check, but if she does so and surpasses the target’s opposed Perception check, the target is unaware that the item is stolen. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
+At 3rd level, as a full-round action a raider swashbuckler can make a single melee attack against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the swashbuckler also pilfers a small, loose item from her target as if she had succeeded at a [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) or steal combat maneuver check. She doesn’t need to attempt a Sleight of Hand check, but if she does so and surpasses the target’s opposed Perception check, the target is unaware that the item is stolen. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
 
 **Rope Mastery (Ex)**
 

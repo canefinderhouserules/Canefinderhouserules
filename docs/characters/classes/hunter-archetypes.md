@@ -38,7 +38,7 @@ A feral hunter has forged a bond with nature that's so strong that she doesn't m
 
 When a feral hunter uses this ability, her body takes on cosmetic aspects of an animal, such as furry skin, longer nails, elongated teeth, and oddly colored eyes; these changes do not grant her any abilities other than what is stated in the animal focus, and end when she takes on a different aspect or ends the ability. This physical change is a polymorph effect, though the effects of the animal focus are not.
 
-This ability replaces the [animal focus](hunter.md#animal-focus-su), [hunter tactics](hunter.md#hunter-tactics-ex), and speak with master class abilities.
+This ability alters [animal focus](hunter.md#animal-focus-su) and replaces the [hunter tactics](hunter.md#hunter-tactics-ex) and speak with master class abilities.
 
 **Precise Summoned Animal (Ex)**: This functions like the precise companion class ability, except if the hunter chooses Outflank as a bonus feat, she grants it to all animals she summons with summon nature's ally. This ability alters [precise companion](hunter.md#precise-companion-ex).
 

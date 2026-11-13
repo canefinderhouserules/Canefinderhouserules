@@ -114,7 +114,7 @@ Black powder and firearms are a natural extension of the alchemical experimentat
 
 **Weapon and Armor Proficiency**: Steel hounds are proficient with [simple weapons](../../equipment/weapons-simple.md), plus the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), the [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), and one type of firearm selected at 1st level. They are proficient in [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md). This replaces the investigator's weapon and armor proficiencies.
 
-**Packing Heat (Ex)**: At 2nd level, the steel hound gains both the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) and Gunsmithing feats as bonus feats. He also gains a battered gun identical to the one gained by the gunslinger. This ability replaces poison use.
+**Packing Heat (Ex)**: At 2nd level, the steel hound gains both the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) and Gunsmithing feats as bonus feats. He also gains a battered gun identical to the one gained by the gunslinger. This ability replaces [poison lore](investigator.md#poison-lore-ex).
 
 **Investigator Talents**: The steel hound can select the [Extra Grit](../../rules/feats/extra-grit.md) or [Rapid Reload](../../rules/feats/rapid-reload.md) feats in place of an investigator talent.
 

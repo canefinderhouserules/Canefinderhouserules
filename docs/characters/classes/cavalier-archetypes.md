@@ -712,7 +712,7 @@ Wave riders patrol harbors, keeping them safe from dangerous sea creatures and w
 
 **Weapon and Armor Proficiency**: Wave riders are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with light and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This replaces the cavalier's weapon and armor proficiencies.
 
-**Seafaring Companion**: At 1st level, a wave rider gains Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) as a bonus feat. The wave rider can use this feat only to select a hippocampus mount. Otherwise, this ability functions identically to the [cavalier's mount](cavalier.md#mount-ex) class feature, and replaces it.
+**Seafaring Companion**: At 1st level, a wave rider gains Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) as a bonus feat. The wave rider can use this feat only to select a hippocampus mount. Otherwise, this ability functions identically to and replaces the [cavalier’s mount](cavalier.md#mount-ex) class feature.
 
 ## Dune Horselord
 

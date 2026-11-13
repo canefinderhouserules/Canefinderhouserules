@@ -930,9 +930,9 @@ Animal companions and magically controlled animals can be directed to attack the
 
 If the bard already has wild empathy from another class, he adds the class levels that provide wild empathy to the result of his Perform check to influence an animal. This ability replaces inspire competence.
 
-**Attract Rats**: At 5th level, the animal speaker can use bardic performance to summon 1d3 rat swarms; they remain as long as he continues performing. At 11th level, he summons 2d3 swarms instead of 1d3 and the swarms have the advanced creature simple template. At 17th level, the number of swarms he summons increases to 3d3. This ability replaces [lore master](bard.md#lore-master-ex).
+**Attract Rats**: At 5th level, the animal speaker can use bardic performance to summon 1d3 rat swarms; they remain as long as he continues performing. At 11th level, he summons 2d3 swarms instead of 1d3 and the swarms have the advanced creature simple template. At 17th level, the number of swarms he summons increases to 3d3. This ability replaces [suggestion](bard.md#suggestion-sp).
 
-**Summon Nature’s Ally**: At 1st level, the animal speaker adds summon nature’s ally I to his bard spell list and bard spells known as a 1st-level spell. At 4th level (when he gains access to 2nd-level spells) he adds summon nature’s ally II to his spell list and spells known as a 2nd-level spell, and so on every 3 levels thereafter, until 16th level when he adds summon nature’s ally VI to his 6th-level spell list and spells known.
+**Summon Nature’s Ally**: At 1st level, the animal speaker adds summon nature’s ally I to his bard spell list and bard spells known as a 1st-level spell. At 4th level (when he gains access to 2nd-level spells) he adds summon nature’s ally II to his spell list and spells known as a 2nd-level spell, and so on every 3 levels thereafter, until 16th level when he adds summon nature’s ally VI to his 6th-level spell list and spells known. This replaces [mass suggestion](bard.md#mass-suggestion-sp).
 
 ## Celebrity
 

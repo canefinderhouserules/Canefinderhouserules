@@ -77,6 +77,10 @@
       return out.join('; ');
     }
     var byAnchor = {}; d.archetypes.forEach(function (a) { byAnchor[a.anchor] = a; });
+    // house rules written in the archetypes: "can no longer be combined with X", "may still be combined with X"
+    function lists(a, key, b) { return (a[key] || []).some(function (n) { return norm(n) === norm(b.name); }); }
+    function forbidden(a, b) { return lists(a, 'excl', b) || lists(b, 'excl', a); }
+    function allowed(a, b) { return lists(a, 'allow', b) || lists(b, 'allow', a); }
 
     // ---- the picker, right above the class table ----
     var box = el('details', 'ap');
@@ -147,16 +151,17 @@
       var sel = d.archetypes.filter(function (a) { return a.box.checked; });
       // conflicts: two archetypes that change the same class feature
       d.archetypes.forEach(function (a) {
-        var clash = sel.filter(function (b) { return b !== a && Object.keys(a.touch).some(function (id) { return b.touch[id]; }); });
+        var clash = sel.filter(function (b) { return b !== a && (forbidden(a, b) || (!allowed(a, b) && Object.keys(a.touch).some(function (id) { return b.touch[id]; }))); });
         a.label.classList.toggle('ap-clash', clash.length > 0);
         a.label.classList.toggle('ap-clash-sel', clash.length > 0 && a.box.checked);
         a.label.querySelector('.ap-why').textContent = clash.length && a.box.checked ? 'conflicts with ' + clash.map(function (b) { return b.name; }).join(', ') : '';
-        a.label.title = clash.length ? 'Changes the same class features as ' + clash.map(function (b) {
-          return b.name + ' (' + names(Object.keys(a.touch).filter(function (id) { return b.touch[id]; })) + ')';
+        a.label.title = clash.length ? clash.map(function (b) {
+          return forbidden(a, b) ? 'Can’t be combined with ' + b.name + ' (a rule of the archetype)'
+            : 'Changes the same class features as ' + b.name + ' (' + names(Object.keys(a.touch).filter(function (id) { return b.touch[id]; })) + ')';
         }).join('; ') : '';
       });
       var bad = sel.filter(function (a) { return a.label.classList.contains('ap-clash'); });
-      msg.innerHTML = bad.length ? '<strong>Not normally combinable:</strong> ' + bad.map(function (a) { return esc(a.name); }).join(', ') + ' change the same class features. The page still shows them together, in case a house rule allows it; hover an archetype to see which features.' : '';
+      msg.innerHTML = bad.length ? '<strong>Not normally combinable:</strong> ' + bad.map(function (a) { return esc(a.name); }).join(', ') + ' change the same class features, or one of them says it can’t be combined with the other. The page still shows them together, in case a house rule allows it; hover an archetype to see why.' : '';
       count.textContent = sel.length ? sel.length + ' selected' : '';
       box.classList.toggle('ap-on', sel.length > 0);
 

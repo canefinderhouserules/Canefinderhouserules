@@ -352,7 +352,7 @@ A holy guide believes that it's his sacred calling to clear the roads of bandits
 
 **Favored Terrain (Ex)**: At 3rd level, a holy guide chooses a favored terrain from the ranger favored terrains table. This otherwise functions like the [ranger ability](ranger.md#favored-terrain-ex) of the same name. This ability replaces the mercy gained at 3rd level. Every time a holy guide would be able to select another mercy, he can instead select another favored terrain and increase his bonuses for one existing favored terrain, just like a ranger.
 
-**Teamwork Feat (Ex)**: At 5th level, a holy guide gains a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action, He can expend one use of smite evil to grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 levels the holy guide possesses. Allies do not need to meet the prerequisites of this bonus feat. Evil creatures do not gain the benefit of this teamwork feat, even if the paladin considers them allies. This ability replaces the mercy gained at 5th level.
+**Teamwork Feat (Ex)**: At 6th level, a holy guide gains a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action, He can expend one use of smite evil to grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 levels the holy guide possesses. Allies do not need to meet the prerequisites of this bonus feat. Evil creatures do not gain the benefit of this teamwork feat, even if the paladin considers them allies. This ability replaces the mercy gained at 6th level.
 
 ## Temple Champion
 

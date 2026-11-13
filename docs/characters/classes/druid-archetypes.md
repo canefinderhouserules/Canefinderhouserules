@@ -258,7 +258,7 @@ Your totem is the legendary dragon, fearsome and deadly yet cunning and wise, a 
 
 **Totemic Summons (Su)**: At 5th level, a dragon shaman may cast summon nature’s ally as a standard action when summoning lizards, and summoned lizards gain temporary hit points equal to her druid level. She can apply the young template to any lizard to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
-**Wild Shape (Su)**: At 6th level, a dragon shaman’s wild shape ability functions at her druid level – 4. If she takes on the form of a lizard, she instead uses her unmodified druid level.
+**Wild Shape (Su)**: At 6th level, a dragon shaman’s wild shape ability functions at her druid level – 4. If she takes on the form of a lizard, she instead uses her unmodified druid level. This ability replaces wild shape.
 
 **Dragon Bite (Su)**: At 8th level, a dragon shaman’s bite attack (whether using totem transformation or wild shape to take the form of a lizard) deals +1d6 points of energy damage (acid, cold, electricity, or fire). She chooses what kind of energy damage that she deals each time she bites. This ability replaces the additional use of wild shape at 8th level.
 
@@ -332,7 +332,7 @@ If choosing a domain, a saurian shaman must choose from the Animal, Destruction,
 
 **Totemic Summons (Su)**: At 5th level, a saurian shaman may cast summon nature’s ally as a standard action when summoning reptiles and dinosaurs, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the dragon shaman’s totemic summons ability.
 
-**Wild Shape (Su)**: At 6th level, a saurian shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a reptile or a dinosaur, she instead uses her druid level +2.
+**Wild Shape (Su)**: At 6th level, a saurian shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a reptile or a dinosaur, she instead uses her druid level +2. This ability replaces wild shape.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, a saurian shaman gains one of the following bonus feats: [Improved Overrun](../../rules/feats/improved-overrun.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus ([Intimidate](../../rules/skills/intimidate.md)), or [Vital Strike](../../rules/feats/vital-strike.md). She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
@@ -348,7 +348,7 @@ Some druids emulate the deadly shark, a remorseless hunter that marine dwellers 
 
 **Totemic Summons (Su)**: At 5th level, a shark shaman may cast summon nature’s ally as a standard action when summoning rays and sharks, and summoned rays and sharks gain temporary hit points equal to her druid level. This ability otherwise functions as the dragon shaman’s totemic summons ability.
 
-**Wild Shape (Su)**: At 6th level, a shark shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a shark, she instead uses her druid level +2.
+**Wild Shape (Su)**: At 6th level, a shark shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a shark, she instead uses her druid level +2. This ability replaces wild shape.
 
 **Bonus Feat**: At 9th level and every 4 levels thereafter, a shark shaman gains one of the following bonus feats: [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Self-Sufficient, or Skill Focus ([Swim](../../rules/skills/swim.md)). She must meet prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
@@ -420,7 +420,7 @@ While using totem transformation, the ape shaman may speak normally and can cast
 
 **Totemic Summons (Su)**: At 5th level, an ape shaman may cast summon nature’s ally as a standard action when summoning primates, and these summoned creatures gain temporary hit points equal to her druid level. She can apply the young template to any primate to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
-**Wild Shape (Su)**: At 6th level, an ape shaman’s wild shape ability functions at her druid level –2. If she takes on the form of an ape, she instead uses her druid level +2.
+**Wild Shape (Su)**: At 6th level, an ape shaman’s wild shape ability functions at her druid level –2. If she takes on the form of an ape, she instead uses her druid level +2. This ability replaces wild shape.
 
 **Bonus Feat**: At 9th level and every four levels thereafter, an ape shaman gains one of the following bonus feats:
 
@@ -440,7 +440,7 @@ While using totem transformation, the bat shaman may speak normally and can cast
 
 **Totemic Summons (Su)**: At 5th level, a bat shaman may cast summon nature’s ally as a standard action when summoning bats, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the ape shaman ability.
 
-**Wild Shape (Su)**: At 6th level, a bat shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a bat, she instead uses her druid level + 2.
+**Wild Shape (Su)**: At 6th level, a bat shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a bat, she instead uses her druid level + 2. This ability replaces wild shape.
 
 **Bonus Feat**: At 9th level and every four levels thereafter, a bat shaman gains one of the following bonus feats:
 
@@ -458,7 +458,7 @@ A boar shaman chooses the stolid and ferocious boar as her totem. Content to be 
 
 **Totemic Summons (Su)**: At 5th level, a boar shaman may cast summon nature’s ally as a standard action when summoning boars or other porcine creatures, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the ape shaman ability.
 
-**Wild Shape (Su)**: At 6th level, a boar shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a boar, she instead uses her druid level +2.
+**Wild Shape (Su)**: At 6th level, a boar shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a boar, she instead uses her druid level +2. This ability replaces wild shape.
 
 **Bonus Feat**: At 9th level and every four levels thereafter, a boar shaman gains one of the following bonus feats:
 
@@ -468,7 +468,7 @@ Bleeding Critical, Blind-Fight, Diehard, or Improved Overrun. She must meet the 
 
 While all druids traverse the wilderness with ease, the world walkers take it upon themselves to travel the entire world. Some act as messengers and scouts for druidic circles, while others have a seemingly unquenchable wanderlust; each new land provides new mysteries to discover and new wisdom to be gained from mastering those mysteries.
 
-**Favored Terrain (Ex)**: At 3rd level, the world walker gains the [ranger’s favored terrain](ranger.md#favored-terrain-ex) ability. She treats her druid level as her ranger level for this ability. If she has levels in both classes, both class’s levels stack for determining the effect of this ability. This ability replaces [trackless step](druid.md#trackless-step-ex) and resist nature’s lore.
+**Favored Terrain (Ex)**: At 3rd level, the world walker gains the [ranger’s favored terrain](ranger.md#favored-terrain-ex) ability. She treats her druid level as her ranger level for this ability. If she has levels in both classes, both class’s levels stack for determining the effect of this ability. This ability replaces [trackless step](druid.md#trackless-step-ex) and resist nature’s lure.
 
 **Path of Trees (Su)**: At 9th level, once a day, a wanderer can step within a tree and then teleport from that tree to another one in a manner similar to the tree stride spell. She gains an extra use of this ability each day at 12th level, and a third use of this ability at 15th level. Furthermore, a world walker of 13th level or higher can use this ability to teleport to any other tree of its type up to 100 miles away. This ability replaces both venom immunity and [timeless body](druid.md#timeless-body-ex).
 

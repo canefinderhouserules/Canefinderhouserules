@@ -489,7 +489,7 @@ Some inquisitors create a strong bond with an animal companion, and they hunt an
 
 **Animal Companion (Ex)**: At 1st level, a sacred huntsmaster forms a bond with an animal companion. This ability works as the [hunter class feature](hunter.md#animal-companion-ex) of the same name, using her inquisitor level as her hunter level. This ability replaces judgment 1/day.
 
-**Hunter Tactics (Ex)**: At 3rd level, a sacred huntsmaster automatically grants her teamwork feats to her animal companion. The companion doesn't need to meet the prerequisites of these teamwork feats.
+**Hunter Tactics (Ex)**: At 3rd level, a sacred huntsmaster automatically grants her teamwork feats to her animal companion. The companion doesn't need to meet the prerequisites of these teamwork feats. This ability replaces [solo tactics](inquisitor.md#solo-tactics-ex).
 
 **Animal Focus (Su)**: At 4th level, a sacred huntsmaster can take on the aspects of an animal as a swift action. This ability works as the [hunter's animal focus](hunter.md#animal-focus-su) class feature, with her inquisitor level serving as her hunter level. This ability replaces later iterations of the judgment ability.
 
