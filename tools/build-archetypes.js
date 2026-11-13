@@ -90,18 +90,20 @@ function classUnits(file) {
     }
   }
   // sections: the headings one level below "Class Features", and the ones below those (deeds, ki powers...)
+  // (pages skip heading levels, so the feature level is the level of the first heading after "Class Features",
+  // or after the class table when there is no such heading)
   const secs = [], subs = [];
-  let cf = 0;
-  lines.forEach((l, i) => {
-    const h = l.match(/^(#{2,6}) (.+?)\s*$/); if (!h) return;
-    const lv = h[1].length, title = h[2];
-    if (/^class features$/i.test(title)) { cf = lv; return; }
-    if (!cf) return;
-    if (lv <= cf) { cf = 0; return; }
-    const item = { title, anchor: slug(title), base: norm(title), line: i };
-    if (lv === cf + 1) secs.push(item);
-    else if (lv === cf + 2 && secs.length) { item.parent = secs[secs.length - 1]; subs.push(item); }
-  });
+  const hs = []; lines.forEach((l, i) => { const h = l.match(/^(#{2,6}) (.+?)\s*$/); if (h) hs.push({ lv: h[1].length, title: h[2], line: i }); });
+  const cfh = hs.find(h => /^class features$/i.test(h.title));
+  const start = cfh ? cfh.line : hi;
+  const after = hs.filter(h => h.line > start && (!cfh || h.lv > cfh.lv));
+  const fl = after.length ? after[0].lv : 0;
+  for (const h of hs.filter(h => h.line > start)) {
+    if ((cfh && h.lv <= cfh.lv) || h.lv < fl || /^favored class/i.test(h.title)) break;
+    const item = { title: h.title, anchor: slug(h.title), base: norm(h.title), line: h.line };
+    if (h.lv === fl) secs.push(item);
+    else if (secs.length) { item.parent = secs[secs.length - 1]; subs.push(item); }
+  }
   const matches = (a, b) => a === b || a.startsWith(b + ' ') || b.startsWith(a + ' ');
   // features with a section but no table entry (weapon and armor proficiency...) are 1st-level units
   for (const sec of secs) {
