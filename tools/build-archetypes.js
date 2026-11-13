@@ -11,11 +11,23 @@ const ROOT = path.join(__dirname, '..', 'docs');
 const OUT = path.join(ROOT, 'tools', 'archetypes');
 const REPORT = process.argv.includes('--report');
 
-// class page -> archetype pages (paths relative to docs/)
-const CLASSES = {
-  fighter: { page: 'characters/classes/fighter.md', archetypes: ['characters/classes/fighter-archetypes.md'] },
+// class page -> archetype pages (paths relative to docs/). Every <class>.md with a <class>-archetypes.md is found on its own;
+// EXTRA adds archetype pages with other names.
+const C = 'characters/classes/';
+const EXTRA = {
+  shifter: [C + 'canefinder-shifter-archetypes.md', C + 'shifter-archetypes.md'],
+  'shifter-ultimate-wilderness': [C + 'shifter-archetypes.md'],
+  witch: [C + 'witch-archetypes.md', C + 'white-haired-witch.md'],
 };
-
+const CLASSES = {};
+for (const dir of [C, C + 'legendary/']) {
+  for (const f of fs.readdirSync(path.join(ROOT, dir))) {
+    const m = f.match(/^(.+).md$/); if (!m || /-archetypes$/.test(m[1])) continue;
+    const arch = dir + m[1] + '-archetypes.md';
+    const list = EXTRA[m[1]] || (fs.existsSync(path.join(ROOT, arch)) ? [arch] : null);
+    if (list) CLASSES[m[1]] = { page: dir + f, archetypes: list };
+  }
+}
 const read = f => fs.readFileSync(path.join(ROOT, f), 'utf8').replace(/\r/g, '');
 const plain = s => String(s || '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/<[^>]+>/g, '').replace(/[*_`]/g, '').replace(/\\([\[\]*_])/g, '$1').replace(/\s+/g, ' ').trim();
 const slug = s => plain(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’'`]/g, '').replace(/[^a-z0-9 _-]/g, '').trim().replace(/\s+/g, '-');
@@ -72,28 +84,42 @@ function classUnits(file) {
     const special = plain(c[si]);
     if (!special || special === '—' || special === '-') continue;
     for (const label of special.split(/,(?![^(]*\))/).map(x => x.trim()).filter(Boolean)) {
-      const base = norm(label.replace(/\s*(\+\d+|\d+d\d+|\d+\/day|\(.*?\)|\d+)\s*$/g, '').replace(/\s*(\+\d+|\d+)\s*$/, ''));
+      const base = norm(label.replace(/\(.*?\)\s*$/, '')).replace(/(\s+(\d+(st|nd|rd|th)?|\d+d\d+|\d+ (day|days|round|rounds|minutes|ft|feet)|\d+ \d+))+$/, '').trim();
       count[base] = (count[base] || 0) + 1;
       units.push({ id: base.replace(/ /g, '-') + '-' + count[base], lvl, label, base, idx: count[base] });
     }
   }
-  // sections: ### headings under Class Features
-  const secs = [];
-  let inFeatures = false;
-  for (const l of lines) {
-    if (/^## /.test(l)) inFeatures = /^## Class Features/i.test(l);
-    const m = inFeatures && l.match(/^### (.+)$/);
-    if (m) secs.push({ title: m[1].trim(), anchor: slug(m[1]), base: norm(m[1]) });
-  }
+  // sections: the headings one level below "Class Features", and the ones below those (deeds, ki powers...)
+  const secs = [], subs = [];
+  let cf = 0;
+  lines.forEach((l, i) => {
+    const h = l.match(/^(#{2,6}) (.+?)\s*$/); if (!h) return;
+    const lv = h[1].length, title = h[2];
+    if (/^class features$/i.test(title)) { cf = lv; return; }
+    if (!cf) return;
+    if (lv <= cf) { cf = 0; return; }
+    const item = { title, anchor: slug(title), base: norm(title), line: i };
+    if (lv === cf + 1) secs.push(item);
+    else if (lv === cf + 2 && secs.length) { item.parent = secs[secs.length - 1]; subs.push(item); }
+  });
+  const matches = (a, b) => a === b || a.startsWith(b + ' ') || b.startsWith(a + ' ');
   // features with a section but no table entry (weapon and armor proficiency...) are 1st-level units
   for (const sec of secs) {
-    if (!units.some(u => u.base === sec.base || sec.base.startsWith(u.base) || u.base.startsWith(sec.base)))
+    if (!units.some(u => matches(u.base, sec.base) || sec.base.startsWith(u.base) || u.base.startsWith(sec.base)))
       units.unshift({ id: sec.base.replace(/ /g, '-') + '-1', lvl: 1, label: sec.title.replace(/\s*\((Ex|Su|Sp)\)$/, ''), base: sec.base, idx: 1 });
   }
   units.unshift({ id: 'class-skills-1', lvl: 1, label: 'Class skills', base: 'class skills', idx: 1 });
   for (const u of units) {
     const sec = secs.find(x => x.base === u.base) || secs.find(x => x.base.startsWith(u.base) || u.base.startsWith(x.base));
     u.sec = u.base === 'class skills' ? 'class-skills' : sec ? sec.anchor : null;
+  }
+  // abilities under a class feature (each deed, ki power...) that the table doesn't list: their level comes from their text
+  for (const sub of subs) {
+    if (units.some(u => u.base === sub.base)) continue;
+    let text = ''; for (let j = sub.line + 1; j < lines.length && !/^#/.test(lines[j]); j++) text += lines[j] + ' ';
+    const lv = plain(text).match(new RegExp(ORD + ' level', 'i')) || plain(text).match(new RegExp('level ' + '(\\d+)', 'i'));
+    const lvl = lv ? +lv[1] : (units.find(u => u.sec === sub.parent.anchor) || { lvl: 1 }).lvl;
+    units.push({ id: sub.base.replace(/ /g, '-') + '-1', lvl, label: sub.title.replace(/\s*\((Ex|Su|Sp)\)$/, ''), base: sub.base, idx: 1, sec: sub.anchor, sub: true });
   }
   return { units, secs };
 }
@@ -103,14 +129,19 @@ function bases(units) { return [...new Set(units.map(u => u.base))].sort((a, b) 
 let CLS = '';
 // Words that sit between the parts of a feature name in archetype text ("the fighter's normal bonus combat feat").
 const filler = t => t.replace(new RegExp('\\b(' + CLS + 's?|normal|normally|combat|regular|usual|base)\\b', 'g'), ' ').replace(/\s+/g, ' ');
+// Other names archetypes use for a class feature (unchained or older versions of the class).
+const ALIAS = [[/\bdanger sense\b/g, 'trap sense'], [/\b(spellcasting|spells? class feature)\b/g, 'spells']];
 function findBase(text, bs) {
-  const t = ' ' + filler(norm(text)) + ' ';
-  for (const b of bs) {
+  let n = norm(text);
+  for (const [re, to] of ALIAS) if (!bs.some(b => re.test(b))) n = n.replace(re, to);
+  const ts = [' ' + n + ' ', ' ' + filler(n) + ' '];
+  for (const t of ts) for (const b of bs) {
     const alts = [b, b + 's', b.replace(/y$/, 'ies'), b.replace(/^the /, '')];
     if (alts.some(a => t.includes(' ' + a + ' '))) return b;
   }
+  const t = ts[1];
   // singular in the text, plural base ("bonus feats" vs "bonus feat")
-  for (const b of bs) if (t.includes(' ' + b.replace(/s$/, '') + ' ')) return b;
+  for (const tt of ts) for (const b of bs) if (tt.includes(' ' + b.replace(/s$/, '') + ' ')) return b;
   // loose names: any proficiency, any skills, any feat
   if (/proficien/.test(t)) { const b = bs.find(x => /proficien/.test(x)); if (b) return b; }
   if (/ skill/.test(t)) return 'class skills';
@@ -125,8 +156,12 @@ function resolve(phrase, units, bs) {
   const parts = plain(phrase).replace(/\bas well as\b/g, ',').split(/\s*,\s*(?:and\s+|or\s+)?|\s+and\s+(?!\d+(?:st|nd|rd|th) level)|\s+or\s+/i).map(x => x.trim()).filter(Boolean);
   let last = null;
   for (let part of parts) {
+    const whole = part;
     part = part.replace(/^(?:the|his|her|their|a|an)\s+/i, '').replace(/\s+(?:class features?|abilities|ability|features?)$/i, '').trim();
-    let b = findBase(part, bs);
+    let b = findBase(part, bs) || findBase(whole, bs);
+    // an exact table entry ("poison resistance +6")
+    const exact = units.find(u => norm(u.label) === norm(part));
+    if (exact) { ids.add(exact.id); last = exact.base; continue; }
     const bare = part.match(/^(\d+)$/);
     if (!b && bare && last) { b = last; }
     if (!b) {
@@ -135,7 +170,7 @@ function resolve(phrase, units, bs) {
     }
     last = b;
     const own = units.filter(u => u.base === b);
-    const rest = filler(norm(part)).replace(b, ' ').replace(b.replace(/s$/, ''), ' ');
+    const rest = filler(norm(part).replace(b, ' ').replace(b.replace(/s$/, ''), ' '));
     const nums = (bare ? [+bare[1]] : [...rest.matchAll(/(?:^|\s)(\d+)(?=\s|$)/g)].map(m => +m[1]));
     const lv = levelsIn(part);
     let sel;
@@ -159,6 +194,7 @@ function references(text, units, bs) {
     let phrase = m[2];
     if (/^(?:instead of|in place of)/.test(verb) && !findBase(phrase, bs)) continue;
     if (/^chang/.test(verb) && !/^(?:the |his |her )?(?:[a-z ]+ )?(?:class feature|ability)/i.test(phrase) && !findBase(phrase.split(/\s+(?:to|so|into|by)\s+/)[0], bs)) continue;
+    phrase = phrase.replace(/^(?:the |all )?(?:increases?|improvements?|bonus(?:es)?) (?:to|in|of) /i, '');
     phrase = phrase.split(/\s+(?:in the following ways|as follows|to|so that|into|but|except)\b/i)[0];
     const r = resolve(phrase, units, bs);
     const kind = /^(replac|in place|instead)/.test(verb) ? 'replaces' : 'modifies';
@@ -199,14 +235,18 @@ function archetypes(file, units) {
       // an ability named like a class feature modifies it (Weapon and Armor Proficiency, Class Skills, Weapon Mastery...)
       const own = findBase(a.name.replace(/\((Ex|Su|Sp)\)/, ''), bs);
       const nm = norm(a.name);
-      if (/^(class )?skills?$/.test(nm)) { if (!r.replaces.includes('class-skills-1')) r.modifies.push('class-skills-1'); }
+      if (/^(class )?skills?$|^skill ranks( per level)?$/.test(nm)) { if (!r.replaces.includes('class-skills-1')) r.modifies.push('class-skills-1'); }
+      else if (/complement|recommended|suggested/i.test(plain(a.md).slice(0, 300) + a.name)) { /* a list of suggested options, not a change */ }
       else if (own && (nm === own || nm === own + 's' || nm.replace(/s$/, '') === own) && !r.replaces.length && !r.modifies.length) {
         const us = units.filter(u => u.base === own);
         (/proficien/.test(nm) ? r.replaces : r.modifies).push(...us.map(u => u.id));
       }
       return { name: a.name, lvl: lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss };
     });
-    if (!abilities.length) continue; // reference sections on the archetype page (weapon groups...), not archetypes
+    // sections of the page that are not archetypes (rage powers, bloodlines, schools...) change no class feature
+    // (a long list where few entries replace anything is a list of options like bloodlines or mysteries)
+    const changing = abilities.filter(b => b.replaces.length || b.modifies.length).length;
+    if (!changing || (abilities.length > 20 && changing < abilities.length * 0.4)) continue;
     res.push({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities });
   }
   return res;
