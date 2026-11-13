@@ -59,6 +59,7 @@
     var units = {}; d.units.forEach(function (u) { units[u.id] = u; });
     d.archetypes.forEach(function (a, i) {
       a.i = i; a.touch = {};
+      a.abilities.forEach(function (b, k) { b.k = k; });
       a.abilities.forEach(function (b) { b.replaces.concat(b.modifies).forEach(function (id) { a.touch[id] = true; }); });
     });
     // "bravery +1 ... +5" -> "bravery"; two of eleven bonus feats -> "bonus feat (1st, 2nd level)"
@@ -111,25 +112,24 @@
     }
     var secs = {};
     d.units.forEach(function (u) { if (u.sec && !secs[u.sec]) { var s = section(u.sec); if (s) secs[u.sec] = s; } });
-    // class feature headings in page order, with the level each is first gained (for placing abilities that replace nothing)
-    var cf = document.getElementById('class-features');
-    var order = [], endMark = cf;
-    if (cf) {
-      var hl = +cf.tagName[1], n = cf.nextElementSibling;
-      while (n && !(/^H[1-6]$/.test(n.tagName) && +n.tagName[1] <= hl)) {
-        if (n.tagName === 'H' + (hl + 1) && n.id) {
-          var us = d.units.filter(function (u) { return u.sec === n.id; });
-          order.push({ h: n, lvl: us.length ? Math.min.apply(null, us.map(function (u) { return u.lvl; })) : (order.length ? order[order.length - 1].lvl : 1) });
-        }
-        endMark = n; n = n.nextElementSibling;
-      }
-    }
-    // archetype summaries go at the top of the class features; abilities with no later feature go after the last one
+    // class feature headings in page order (the sections of the table's features), with the level each is first gained,
+    // for placing abilities that replace nothing
+    var seen = {}, order = [];
+    d.units.forEach(function (u) {
+      if (u.sub || !u.sec || seen[u.sec] || !secs[u.sec]) return; seen[u.sec] = 1;
+      var us = d.units.filter(function (x) { return x.sec === u.sec; });
+      order.push({ h: secs[u.sec].h, lvl: Math.min.apply(null, us.map(function (x) { return x.lvl; })) });
+    });
+    order.sort(function (p, q) { return p.h.compareDocumentPosition(q.h) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1; });
+    order = order.filter(function (o) { return o.h.id !== 'class-skills'; });
+    var lastSec = order.length ? secs[order[order.length - 1].h.id] : null;
+    var endMark = lastSec ? (lastSec.els[lastSec.els.length - 1] || lastSec.h) : null;
+    // archetype summaries go before the first class feature; abilities with no later feature go after the last one
     var extra = el('div', 'ap-x ap-extra'); extra.hidden = true;
-    if (cf) { var top = cf.nextElementSibling; while (top && !/^H/.test(top.tagName)) top = top.nextElementSibling; cf.parentNode.insertBefore(extra, top || endMark.nextSibling); }
+    if (order.length) order[0].h.parentNode.insertBefore(extra, order[0].h);
     var tail = el('div', 'ap-x'); if (endMark) endMark.parentNode.insertBefore(tail, endMark.nextSibling);
 
-    function abId(x) { return 'ap-' + x.a.anchor + '-' + x.b.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-$/, ''); }
+    function abId(x) { return 'ap-' + x.a.anchor + '-' + x.b.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-$/, '') + (x.a.abilities.filter(function (o) { return o.name === x.b.name; }).length > 1 ? '-' + x.b.k : ''); }
     function abLevel(x) {
       if (x.b.lvl) return x.b.lvl;
       var ids = x.b.replaces.concat(x.b.modifies); return ids.length ? Math.min.apply(null, ids.map(function (id) { return units[id].lvl; })) : 1;
@@ -234,7 +234,7 @@
         var next = order.find(function (s) { return s.lvl > lv; });
         var div = el('div'); div.innerHTML = abilityHtml(x, true);
         var ab = div.firstChild;
-        if (next) next.h.parentNode.insertBefore(ab, next.h); else tail.parentNode.insertBefore(ab, tail);
+        if (next) next.h.parentNode.insertBefore(ab, next.h); else if (tail.parentNode) tail.parentNode.insertBefore(ab, tail); else content.appendChild(ab);
         placed[abId(x)] = 1;
       });
       // what each archetype is about, at the top of the class features
