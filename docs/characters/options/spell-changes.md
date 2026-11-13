@@ -53,7 +53,7 @@
 
 ### [Summon Monster I–IX](../../magic/spells/summon-monster-i.md) (rework)
 
-**Casting Time** 1 round; **Components** V, S, F/DF (a tiny bag and a small candle)
+**Casting Time** 1 round; **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels); **Effect** one summoned creature; **Duration** 1 round/level (D); **Saving Throw** none; **Spell Resistance** no
 
 Summons one or more creatures. There is no longer a fixed list: you can choose any monster from the Bestiary (if it is a unique, named individual rather than an ordinary creature of its kind, the GM is very likely to mess with you, so be careful). The creature has its own desires and ambitions, so be careful with that too (though it is predisposed to obey you, because you can banish it with a thought).
@@ -66,8 +66,8 @@ The Superior Summoning feat increases the maximum CR you can summon by 1.
 
 ### [Mark and Recall](../../magic/spells/mark-and-recall.md)
 
-**School** conjuration (teleportation); **Level** shaman 2, druid 3, unchained summoner 2, witch 3; **Domain** travel 3; **Elemental School** void 3
-**Casting Time** 1 round; **Components** V, S
+**School** conjuration (teleportation); **Level** shaman 2, druid 3, unchained summoner 2, witch 3; **Domain** travel 3; **Elemental School** void 3  
+**Casting Time** 1 round; **Components** V, S  
 **Range** personal; **Target** you; **Duration** instantaneous; **Saving Throw** none; **Spell Resistance** no
 
 Cast it once to mark a place; cast it a second time to return to the marked place. It has a maximum distance of 100 miles per caster level. The mark lasts forever or until you place it somewhere else, but it can be detected with *detect magic* and altered or erased.

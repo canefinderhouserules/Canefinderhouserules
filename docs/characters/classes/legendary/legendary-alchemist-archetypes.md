@@ -75,7 +75,9 @@ If an archaic philosopher releases their bound elemental, they may gain a new on
 **Archaic Breakthrough (Ex):** At 5th level and every six levels afterwards, an alchemist experiences a mystic fusion with their bound elemental, gaining the following benefits:
 
 *Assimilating Command (Ex):* At 5th level, when an archaic philosopher spends quintessence to command their bound elemental, they gain 10 temporary hit points and a +2 bonus to saving throws against paralysis, poison, sleep effects, and stunning. These temporary hit points and bonuses last for a number of rounds equal to the tinker alchemist’s Intelligence modifier. They increase to 20 temporary hit points and +4 at 10th level and 30 temporary hit points and +6 at 20th level.
+
 *Life Link (Ex):* At 11th level, as an immediate action when either the archaic philosopher or their bound elemental would take damage, the archaic philosopher may divide the damage taken between the two in any way they wish. This occurs before the damage is taken and so may prevent either from dying due to damage taken.
+
 *Gentle Fetters (Ex):* At 17th level, an archaic philosopher no longer needs to spend quintessence to command their bound elemental as a free action. If they have Assimilating Command, they gain the bonuses from that breakthrough whenever they command their automaton.
 
 *This alters discipline breakthrough, but this archetype may still be combined with the subtle alchemist archetype. The archaic alchemist cannot also choose the tinker discipline with the subtle alchemist archetype.*
@@ -176,8 +178,11 @@ At 6th level, a beastborn shifter can use bestial transformation to change into 
 **Alchemical Deeds (Ex):** At each listed level, the black powder research gains the listed deeds:
 
 *Gunslinger’s Reflexes:* At 1st level, the black powder researcher gains an uncanny knack for knowing how to avoid attacks. As long as the black powder researcher has at least 1 point of quintessence, they do not provoke attacks of opportunity for firing or reloading a firearm.
+
 *Quick Clear*: At 1st level, as a standard action, the black powder researcher can remove the broken condition from a single firearm they are currently wielding, as long as that condition was gained by a firearm misfire. The black powder researcher must have at least 1 point of quintessence to perform this deed. Alternatively, if the black powder researcher spends 1 quintessence to perform this deed, they can perform quick clear as a move action instead of a standard action.
+
 *Ricochet Shot:* At 5th level, the black powder researcher can make a surprise attack, being able fire a shot at a wall or piece of solid terrain, and have it ricochet off. When they do, they use the square immediately in front of the wall or piece of solid terrain to determine line of sight to a target, and this square is considered the new origin square of the attack, although their attack roll takes a -2 penalty. The attack uses that square to determine the effects of cover, and the black powder researcher’s own square to determine the effects of concealment. The black powder researcher can make this shot as long as they have at least 1 grit point. When making this shot, they can spend 1 quintessence to ignore the effects of all cover or concealment. The black powder researcher must choose to spend the quintessence before they make the attack roll.
+
 *Speedloader:* At 3rd level, as long as the black powder researcher has at least 1 quintessence, they reduce the action needed to load a firearm as long as it would be able to be loaded as a full action or quicker; from a full round to a standard, standard to move, and move to free action.
 
 In addition, the black powder researcher can select [[Legendary Gunslinger Deed |]] or gun masteries (legendary gunslinger) in place of discoveries, treating their black powder researcher level as their gunslinger level for the purpose of meeting the prerequisites.

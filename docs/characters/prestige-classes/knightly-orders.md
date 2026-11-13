@@ -26,9 +26,9 @@ The orders below use these generic names.
 
 ## Order of Shackles
 
-**Members** guards, sleuths, trackers, victims of outlaws.
-**Armor Features** lock-and-chain design, manacle-like gauntlets, helms reminiscent of iron prisoners' masks.
-**Favored Weapon** flail.
+**Members** guards, sleuths, trackers, victims of outlaws.  
+**Armor Features** lock-and-chain design, manacle-like gauntlets, helms reminiscent of iron prisoners' masks.  
+**Favored Weapon** flail.  
 **Reckoning** Crush your limbs with tightened chains. Gain a +2 bonus on combat maneuver checks when attempting to disarm, grapple or trip opponents.
 
 **Boons**
@@ -39,9 +39,9 @@ The orders below use these generic names.
 
 ## Order of the Portal
 
-**Members** intellectuals, planar-blooded outcasts, spellcasters, those who consort with fiends.
-**Armor Features** helm with a vortex-like pattern, crimson robes.
-**Favored Weapon** dagger.
+**Members** intellectuals, planar-blooded outcasts, spellcasters, those who consort with fiends.  
+**Armor Features** helm with a vortex-like pattern, crimson robes.  
+**Favored Weapon** dagger.  
 **Reckoning** Etch complex symbols of penitence into your flesh with a dagger. Gain a +4 bonus on Will saves to resist divination spells and spell-like abilities.
 
 **Boons**
@@ -52,9 +52,9 @@ The orders below use these generic names.
 
 ## Order of the Faithful
 
-**Members** crusaders, religious zealots.
-**Armor Features** breastplate with clawlike vambraces, clawlike helm.
-**Favored Weapon** morningstar.
+**Members** crusaders, religious zealots.  
+**Armor Features** breastplate with clawlike vambraces, clawlike helm.  
+**Favored Weapon** morningstar.  
 **Reckoning** Flagellate yourself with a five-tailed lash. Whenever you are the target of a lawful divine caster's spell that heals hit point damage, you heal 1 additional point per die rolled. If you cast divine spells, you can use the holy symbols of the five lawful faiths this order draws upon interchangeably (choose five lawful deities of your campaign).
 
 **Boons**
@@ -65,9 +65,9 @@ The orders below use these generic names.
 
 ## Order of the Spike
 
-**Members** frontiersmen, settlers, victims of barbarian and monster attacks.
-**Armor Features** breastplate emblazoned with a fiendish face, horned helm.
-**Favored Weapon** lance or halberd.
+**Members** frontiersmen, settlers, victims of barbarian and monster attacks.  
+**Armor Features** breastplate emblazoned with a fiendish face, horned helm.  
+**Favored Weapon** lance or halberd.  
 **Reckoning** Pierce your flesh with sharp metal. Gain a +4 bonus on [Knowledge](../../rules/skills/knowledge.md) (geography) checks. If you are trained in Knowledge (geography), you automatically succeed at using it to identify a creature's ethnicity or accent, as long as you are familiar with it.
 
 **Boons**
@@ -80,9 +80,9 @@ The orders below use these generic names.
 
 ## Order of the Brazier
 
-**Members** atheists, former cultists, members of mainstream religions, victims of dangerous radicals.
-**Armor Features** bladed armor, horned and skull-like helm.
-**Favored Weapon** glaive.
+**Members** atheists, former cultists, members of mainstream religions, victims of dangerous radicals.  
+**Armor Features** bladed armor, horned and skull-like helm.  
+**Favored Weapon** glaive.  
 **Reckoning** Burn yourself over an open flame. Once per day as an immediate action, gain fire resistance 10 for 10 minutes. This does not stack with [*resist energy*](../../magic/spells/resist-energy.md) or other fire resistance and overlaps with [*protection from energy*](../../magic/spells/protection-from-energy.md).
 
 **Boons**
@@ -93,9 +93,9 @@ The orders below use these generic names.
 
 ## Order of Austerity
 
-**Members** denigrators of art and poetry, patriots, technology-haters, traditionalists.
-**Armor Features** muscular design, sleek helm, flayed cloak.
-**Favored Weapon** longsword or whip.
+**Members** denigrators of art and poetry, patriots, technology-haters, traditionalists.  
+**Armor Features** muscular design, sleek helm, flayed cloak.  
+**Favored Weapon** longsword or whip.  
 **Reckoning** Endure internal burns. Gain a +4 bonus on Fortitude saves to resist poison (+6 against ingested poisons).
 
 **Boons**
@@ -106,9 +106,9 @@ The orders below use these generic names.
 
 ## Order of the Lash
 
-**Members** constables, informants, the poor, victims of organized crime.
-**Armor Features** serrated breastplate, horned helm.
-**Favored Weapon** heavy mace, scourge or whip.
+**Members** constables, informants, the poor, victims of organized crime.  
+**Armor Features** serrated breastplate, horned helm.  
+**Favored Weapon** heavy mace, scourge or whip.  
 **Reckoning** Lash yourself with a scourge or whip. Take 1 fewer point of bleed damage per round from bleed effects, and gain a +4 bonus on [Heal](../../rules/skills/heal.md) checks to stop bleeding.
 
 **Boons**

@@ -1000,7 +1000,7 @@ Your kinetic blast can drain your foes’ vitality to replenish your own. If you
 
 **Element** universal; **Type** substance infusion; **Level** 2; **Burn** 2
 
-**Prerequisite** venom speaker
+**Prerequisite** venom speaker  
 **Associated Blasts** any simple or composite; **Saving Throw** see text
 
 You can infuse your kinetic blast with poison. To use this infusion, you must be holding a dose of poison or have at least one use of a feat or racial trait that produces poison (such as the [Spit Venom](../../rules/feats/spit-venom.md) feat or the toxic skin grippli alternate racial trait). One dose of poison or one use of your feat or racial trait is consumed if applicable, and creatures damaged by the infused blast are affected by the poison. Use the same type, save, save DC, frequency, effect, and cure as the consumed poison.
@@ -1009,7 +1009,7 @@ You can infuse your kinetic blast with poison. To use this infusion, you must be
 
 **Element** universal; **Type** substance infusion; **Level** 4; **Burn** 3
 
-**Prerequisite** venom speaker
+**Prerequisite** venom speaker  
 **Associated Blasts** any simple or composite; **Saving Throw** Fortitude negates
 
 All of your blasts are mildly toxic. Creatures that take damage from your blast are [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
@@ -1018,7 +1018,7 @@ All of your blasts are mildly toxic. Creatures that take damage from your blast 
 
 **Element** universal; **Type** substance infusion; **Level** 7; **Burn** 4
 
-**Prerequisites** venom speaker, venom infusion
+**Prerequisites** venom speaker, venom infusion  
 **Associated Blasts** any simple or composite; **Saving Throw** Fortitude negates
 
 This talent functions as the greater toxic infusion wild talent, except it affects any creature that takes any type of damage from the blast.

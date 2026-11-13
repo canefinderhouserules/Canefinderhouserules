@@ -331,19 +331,28 @@ Those who attune themselves to a mind saturation might be granted the following 
 **Chosen Element:** At 1st level the cavalier selects a kineticist element and gains the basic utility wild talent associated with that element. The various schools, domains, bloodlines, descriptors, etc. that their edicts and challenge are affected by depend upon this choice, as well as their class skills gained.
 
 *Aether* - Abjuration school; Magic and Protection domains; Arcane and Psychic bloodlines; Occult mystery; Dimensions and Ethereal patrons; force descriptor
+
 *Air* - Air school; Air and Weather domains; Djinni, Draconic (blue or bronze), Elemental (air), and Stormborn bloodlines; Dragon (electric) and Wind mysteries; Storms patron; Wind spirit; air and electricity descriptors
+
 *Earth* - Earth and Metal schools; Earth and Mountain domains; Deep Earth, Draconic (black, copper, or green), Elemental (earth), and Shaitan bloodlines; Dragon (acid), Metal, and Stone mysteries; Mountain patron; Stone spirit; acid and earth descriptors
+
 *Fire* - Fire school; Fire and Sun domains; Draconic (brass, gold, or red), Efreeti, Elemental (fire), and Orc bloodlines; Dragon (fire), Flame, Solar, and Volcano mysteries; Summer patron; Flame spirit; fire descriptor
+
 *Mind* - Divination and Enchantment school; Charm, Knowledge, and Madness domains; Dreamspun and Maestro bloodlines; Lore mystery; Enchantment, Insanity, and Mind patrons; Lore spirit; mind-affecting descriptor
+
 *Void* - Necromancy and Void schools; Darkness, Death, and Void domains; Accursed, Ghoul, Shadow, Starsoul, and Undead bloodlines; Bones, Dark Tapestry, and Shadow mysteries; Death patron; Bones spirit; darkness and shadow descriptors
+
 *Water* - Water school; Water domain; Aquatic, Boreal, Draconic (silver or white), Elemental (water), and Marid bloodlines; Dragon (cold), Waves, and Winter mysteries; Water and Winter patrons; Waves spirit; cold and water descriptors
+
 *Wood* - Wood school; Plant domain; Sylvan and Verdant bloodlines; Wood mystery; Plant and Thorns patrons; Wood spirit
 
 Other abilities or class features can be included in the above lists at GM discretion.
 
 *Kinetic Joust (Sp):* At 2nd level, the cavalier gains a simple kinetic blast, treating their chosen element as their elemental focus to determine what blasts they can choose from. They can use this blast at will for no burn cost, dealing damage as if from a 1st level kineticist and treating it as if affected by the kinetic whip infusion. At 7th level they can expend one use of their challenge to have it deal damage as if from a 3rd level kineticist against the target of their challenge. Their kinetic blast counts as a lance to determine its damage when making a charge. This counts as possessing the kinetic blade infusion for the purpose of qualifying for feats.
 At 15th level, the cavalier gains one composite blast of their choice; it must either include their simple blast as a prerequisite (such as magma blast with earth and fire blasts) or require their chosen element as both its primary and expanded elements (such as blue flame blast), and it cannot have a burn cost greater than 2. By expending two uses of their challenge, they can use this composite blast instead of the simple blast, otherwise functioning the same as having used their simple blast. If a composite blast which modifies another blast is chosen this way (such as aetheric boost), it cannot be used to modify a composite blast.
+
 *Elemental Parapet (Su):* At 8th level, the cavalier gains their chosen element’s defense wild talent, treating their kineticist level as 1/2 their cavalier level to determine its effects. In addition, they can grant this defense wild talent to their allies as if they were granting a teamwork feat through their tactician ability (they must possess tactician to do so).
+
 *Planar Overflow (Sp):* At 15th level, the cavalier is rewarded for their devotion to their element with the power to overcharge themselves with power, gaining the [kineticist’s elemental overflow](../kineticist.md#elemental-overflow-ex) class feature. Rather than spending burn, they can erupt with their element’s power as a full-round action, treating themselves as if they’d accepted any amount of burn up to 1/2 their cavalier levels to determine their elemental overflow’s effects for 1 minute. Unlike a kineticist, they cannot suppress this ability once it’s been activated. After the duration ends, the cavalier becomes exhausted for a number of minutes equal to the amount of simulated burn they chose to accept, they are now treated as having accepted 0 points of burn to determine their elemental overflow’s effects, and they cannot use their kinetic joust or planar overflow abilities until the exhaustion wears off. This exhaustion ignores any effect which would normally cure it or make the cavalier immune to it.
 
 ## Feats

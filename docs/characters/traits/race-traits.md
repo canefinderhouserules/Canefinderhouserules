@@ -561,6 +561,7 @@ Only tieflings may select one of these traits.
 **Family Connections**: Your dark ancestry gives you a special insight into how to motivate or placate fiends and their kin. You gain a +2 trait bonus on Bluff and Diplomacy checks made against outsiders belonging to the evil subtype.
 
 **Fiendish Sniper**: You instinctively hide after you shoot your opponents, waiting for an opportune moment to strike again. You gain a +5 trait bonus on Stealth checks following a sniping attack.
+
 **Friendless**: You have grown used to looking after yourself without help. You can make Heal checks on yourself for the purposes of treating deadly wounds, diseases, and poisons.
 
 **Inciter**: You always seem to know the perfect words to sow discord. You gain a +2 trait bonus on Bluff checks made to convince creatures to attack each other.

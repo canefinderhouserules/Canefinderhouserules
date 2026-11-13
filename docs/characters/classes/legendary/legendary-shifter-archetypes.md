@@ -25,8 +25,11 @@
 **Dragon-Blooded (Ex):** A dragon touched must select one type of dragon, using its energy type for his abilities.
 
 *Red, Brass, Gold:* fire
+
 *Black, Green, Copper:* acid
+
 *Blue, Bronze:* electricity
+
 *White, Silver:* cold
 
 This choice cannot be changed later, and affects the dragon touched’s breath weapon class features.

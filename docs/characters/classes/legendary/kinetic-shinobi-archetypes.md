@@ -235,8 +235,11 @@ A Hi-Den noble must be born, or otherwise raised, into the Hi-Den. Though other 
 A Hi-Den noble gains bonuses based on their clan affiliation.
 
 *Mask of the Jade Dragon:* A Hi-Den noble connected with the Jade Dragons treats all [Perform](../../../rules/skills/perform.md) skills as class skills. They can choose one Perform skill. While in their shinobi identity a Jade Dragon’s add their shinobi class level to their Perform skill ranks. If this exceeds their maximum number of ranks they add 1/2 their remaining shinobi levels to their skill checks with that specific Perform check. While in their shinobi identity they can also always take 10 on Perform checks. A Jade Dragon’s shinobi identity usually also serves a public role as a mysterious performer.
+
 *Tiger’s Fury:* A Hi-Den noble connected with the boisterous Hi-Den Tiger Rebels add Intimidate to the skills that gain a bonus from Charming.
+
 *True Hi-Den:* A Hi-Den noble born to the inbred True Hi-Den adds Disguise to the list of skills that gains a bonus from Charming. This can be used to protect their vigilante identity in public.
+
 *Enlightened Knowledge:* A Hi-Den noble serving the Enlightened Dragon chooses one other Knowledge skill and adds it to their Knowing class feature.
 
 Players from minor clans may work with their GM to work out another bonus based on their Hi-Den affiliation. Alternatively, they can choose to gain the bonus from a clan served by their own.
@@ -296,6 +299,7 @@ A kinetic blast used as a mutable blast cannot benefit from hadou admixture (twi
 **Daring Ki Pool (Su):** A needler’s ki functions far differently than that of the typical ki user. Their ki pool has a number of points equal to their Charisma modifier (minimum 1) and is gained at 1st level. They can recover points in their ki pool, though typically it will never rise above their Charisma modifier (although some feats and magic items may alter this). Needlers do not gain the ability to spend points from their ki pool to grant themselves a bonus to their attack or damage rolls, to Acrobatics skill checks, or to skill checks associated with their primary element. They can recover their ki in the following ways:
 
 *Critical Hit with a Light or One-Handed Piercing Melee Weapon:* Each time the needler confirms a critical hit with a light or onehanded piercing melee weapon, they recover 1 point in their ki pool. Confirming a critical hit on a [helpless](../../../rules/appendices/conditions.md#helpless) or unaware creature or a creature that has fewer Hit Dice than half the needler’s character level doesn’t restore ki.
+
 *Killing Blow with a Light or One-Handed Piercing Melee Weapon:* When the needler reduces a creature to 0 or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, they recover 1 point in their ki pool. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer hit points, or reducing a creature that has fewer Hit Dice than half the needler’s character level to 0 or fewer hit points doesn’t restore any ki.
 
 In addition, if the user has a grit, luck, or panache pool, the points in those pools stack with the points in their ki pool (for example, a needler with grit would gain twice their Charisma in this combined grit/ki pool) and may use points from this pool interchangeably (spending grit, luck, or panache for shinobi talents, or spending ki for deeds).
@@ -325,6 +329,7 @@ In addition, if the user has a grit, luck, or panache pool, the points in those 
 *Kinetic Partisan (Su):* The needler treats two-handed melee piercing weapons and piercing kinetic blasts affected by their kinetic katana hadou technique as one-handed piercing melee weapons for all feats and abilities that require such a weapon.
 
 *Kinetic Sidearm (Su):* The needler treats one-handed projectile piercing weapons as one-handed piercing melee weapons for all feats and abilities that require such a weapon. In addition, they can use elemental main gauche and kinetic kunai simultaneously with any light or one-handed piercing weapon in their main hand, treating their blast as a light ranged piercing weapon. A needler must possess the kinetic darts talent to select this talent.
+
 *Rogue Talent (Ex or Su):* A needler can choose one rogue talent for which they qualify, using their needler level as their unchained rogue level for this purpose. They cannot select ninja trick this way. This talent can be selected multiple times.
 
 A needler cannot select any of the following shinobi talents: bomb blast, calculated strike, deadeye jutsu, master trick, ninja trick, sneaking jutsu, starstorm art, and swarm technique.
