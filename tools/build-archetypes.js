@@ -197,6 +197,8 @@ function references(text, units, bs) {
     if (/^(?:instead of|in place of)/.test(verb) && !findBase(phrase, bs)) continue;
     if (/^chang/.test(verb) && !/^(?:the |his |her )?(?:[a-z ]+ )?(?:class feature|ability)/i.test(phrase) && !findBase(phrase.split(/\s+(?:to|so|into|by)\s+/)[0], bs)) continue;
     phrase = phrase.replace(/^(?:the |all )?(?:increases?|improvements?|bonus(?:es)?) (?:to|in|of) /i, '');
+    // "replaces an existing deed", "one of the following", "any rogue talent": no specific feature
+    if (/^(?:an?|any|one|another|each|some|other|either)\b(?! \d)/i.test(phrase.trim())) continue;
     phrase = phrase.split(/\s+(?:in the following ways|as follows|to|so that|into|but|except)\b/i)[0];
     const r = resolve(phrase, units, bs);
     const kind = /^(replac|in place|instead)/.test(verb) ? 'replaces' : 'modifies';
