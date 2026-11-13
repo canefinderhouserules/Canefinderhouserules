@@ -4,9 +4,9 @@
 
 Your spells are harder to resist.
 
-**Benefit**: The saving throw DC of a focused spell increases by 3. Spells that do not require a saving throw to resist or lessen the spell’s effect do not benefit from this feat.
+**Benefit**: The saving throw DC of a focused spell increases by 3, or by 2 if it is a save-or-suck or save-or-die spell. Spells that do not require a saving throw to resist or lessen the spell’s effect do not benefit from this feat.
 
-**Level Increase**: +1 (+2 for a save-or-suck or save-or-die spell)
+**Level Increase**: +1
 
 **Category**: Powerful
 
