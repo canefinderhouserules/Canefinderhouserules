@@ -4,9 +4,9 @@
 
 Your spells go farther than normal.
 
-**Benefit**: You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long.Spells modified by this feat that require melee touch attacks instead require ranged touch attacks. Spells that do not have a range of touch, close, or medium do not benefit from this feat.
+**Benefit**: You can alter a spell with a range of touch, close, or medium to increase its range by two range categories (up to long), using the following order: touch, close, medium, and long. If you increase the range by only one category and the spell’s range is not touch, this becomes a +0 metamagic. Spells modified by this feat that require melee touch attacks instead require ranged touch attacks. Spells that do not have a range of touch, close, or medium do not benefit from this feat.
 
-**Level Increase**: +1
+**Level Increase**: +1 (+0 to increase the range by one category from close or medium)
 
 **Category**: Common
 

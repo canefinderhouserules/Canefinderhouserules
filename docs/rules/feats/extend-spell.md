@@ -4,7 +4,7 @@
 
 You can make your spells last twice as long.
 
-**Benefit**: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat.
+**Benefit**: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat. A harmless spell can instead move up to the next duration tier rather than doubling its duration (for example, from rounds per level to minutes per level).
 
 **Level Increase**: +1
 

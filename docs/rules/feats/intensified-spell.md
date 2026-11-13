@@ -4,7 +4,7 @@
 
 Your spells can go beyond several normal limitations.
 
-**Benefit**: An intensified spell increases the maximum number of damage dice by 5 levels. You must actually have sufficient caster levels to surpass the maximum in order to benefit from this feat. No other variables of the spell are affected, and spells that inflict damage that is not modified by caster level are not affected by this feat.
+**Benefit**: An intensified spell increases the caster level for damage dice by 5 levels. You must actually have sufficient caster levels to surpass the maximum in order to benefit from this feat. No other variables of the spell are affected, and spells that inflict damage that is not modified by caster level are not affected by this feat.
 
 **Level Increase**: +1
 

@@ -4,7 +4,7 @@
 
 Your emotion-affecting magic causes psychic trauma in your opponents.
 
-**Benefit**: When a creature fails a saving throw against a scarring spell, for the next 24 hours that creature takes a –2 penalty on saving throws against emotion and fear effects you create, and a –1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring spells don’t stack. This metamagic feat can be applied only to spells with the emotion or fear descriptor.
+**Benefit**: When a creature fails a saving throw against a scarring spell, for the next 24 hours that creature takes a –2 penalty on saving throws against emotion and fear effects you create, and a –1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring spells do stack. This metamagic feat can be applied only to spells with the emotion or fear descriptor.
 
 **Level Increase**: +1
 

@@ -141,7 +141,7 @@ You can alter a spell with a range of close, medium, or long to increase its ran
 
 **Extend Spell +1 \[Common\]**
 
-An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat. A Harmless spell can be upgrade to the next duration tier instead of twice the duration (round/lvl to minute/lvl etc.)
+An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat. A harmless spell can instead move up to the next duration tier rather than doubling its duration (for example, from rounds per level to minutes per level).
 
 **Familiar Spell +3 Familiar class feature. \[Powerful\]**
 
@@ -161,7 +161,7 @@ A fleeting spell’s duration becomes dismissible, if it is not already. You can
 
 **Focused Spell +1 \[Powerful\]**
 
-The saving throw DC of the spell increases by 3, or by 2 if it is a save-or-die spell.
+The saving throw DC of the spell increases by 3. If the spell is a save-or-suck or save-or-die spell, this becomes a +2 metamagic.
 
 **Furious Spell +1 \[Powerful\]**
 
@@ -181,17 +181,17 @@ Any creature that fails its saving throw against a jinxed spell also suffers the
 
 **Latent Curse +0 \[Common\]**
 
-You can alter a spell with the curse descriptor to target an object rather than a person. Your spell immediately targets the next creature to pick up, handle, or interact with the object as if that creature were the spell’s original target. The curse affects only the first creature to use the item, even if the curse originally affected multiple targets, it triggers as an area effect when someone touches it. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
+You can alter a spell with the curse descriptor to target an object rather than a person. Your spell immediately targets the next creature to pick up, handle, or interact with the object as if that creature were the spell’s original target. The curse affects only the first creature to use the item, if the curse originally affected multiple targets, it instead triggers as an area effect when someone touches the object. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
 
 As with all cursed items, someone studying the object’s magic aura recognizes that it is cursed only if her [Spellcraft](../../rules/skills/spellcraft.md) check exceeds the target DC by 10 or more.
 
-So long as a latent curse remains active in an item, you cannot recover the spell slot used to cast that spell. A latent curse remains active in an item for 1 day per caster level, but you can dispel the latent curse whenever you recover your spells as a free action, rending the cursed object harmless and regaining the expended spell slot. You can make this metamagic a +1 to be able to recover the spell on the next rest.
+So long as a latent curse remains active in an item, you cannot recover the spell slot used to cast that spell. A latent curse remains active in an item for 1 day per caster level, but you can dispel the latent curse whenever you recover your spells as a free action, rending the cursed object harmless and regaining the expended spell slot. If you apply this metamagic as a +1 metamagic instead, you recover the spell slot on your next rest even while the curse stays active.
 
 **Lingering Spell +1 \[Common\]**
 
 You may cause an instantaneous spell that affects an area to persist for spell lvl/turn. Those already in the area suffer no additional harm, but other creatures or objects entering the area are subject to its effects. A lingering spell with a visual manifestation obscures vision, providing concealment (20% miss chance) beyond 5 feet and total concealment (50% miss chance) beyond 20 feet.
 
-**Logical Spell +1 \[trait\]**
+**Logical Spell +1 \[Trait\]**
 
 A logical spell can be cast without emotion components. Spells that don’t require emotion components are not affected.
 
@@ -207,7 +207,7 @@ You can apply Murky Spell only to a mist or fog spell that normally doesn’t wo
 
 Whenever a creature targeted by a persistent spell or within its area succeeds on its saving throw against the spell, it must make another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the spell, as if it had failed its first saving throw.
 
-If the spell is a save or suck/die, this becomes a +2 metamagic.
+If the spell is a save-or-suck or save-or-die spell, this becomes a +2 metamagic.
 
 **Piercing Spell +1 \[Common\]**
 
@@ -219,9 +219,9 @@ Cast spell as a swift action. This does not allow two damaging spells to be used
 
 **Reach Spell +1 \[Common\]**
 
-You can alter a spell with a range of touch, close, or medium to increase its range to a two higher range category, using the following order: touch, close, medium, and long.
+You can alter a spell with a range of touch, close, or medium to increase its range by two range categories (up to long), using the following order: touch, close, medium, and long.
 
-It can become a +0 metamagic if it changes the range by 1 category and the initial category isn't Touch.
+If you increase the range by only one category and the spell’s range is not touch, this becomes a +0 metamagic.
 
 **Rime Spell +1 \[Powerful\]**
 
@@ -281,7 +281,7 @@ You can apply Steam Spell only to a spell with the fire descriptor. A steam spel
 
 When casting a studied spell, designate one target affected by the spell. Attempt an appropriate [Knowledge](../../rules/skills/knowledge.md) check based on that target’s creature type as you cast the spell. The DC for this check is equal to 20 + the creature’s CR based on its race and not including any class levels or template (a creature that is defined by class levels has an effective CR of 0 for this ability). If you succeed, your studied spell ignores any energy resistance or damage reduction the target has because of its race as well as any bonuses on saving throws against the spell granted by the target’s race (such as the bonus from a dwarf’s hardy ability or a halfling’s halfling luck ability). Your studied spell doesn’t ignore energy resistance, damage reduction, or saving throw bonuses granted by other spells and effects. If you fail the Knowledge check, the spell still has its normal effects.
 
-**Stygian Spell +2 \[trait\]**
+**Stygian Spell +2 \[Trait\]**
 
 You can enhance any spell with the water descriptor that targets at least one creature to become a Stygian spell. Any creature successfully hit by a Stygian spell (if the spell requires an attack roll) or that fails its saving throw against a Stygian spell must succeed at a Will save (using the save DC of the original spell) or suffer the fugue lesser madness in addition to the spell’s normal effects. If the attack is a confirmed critical hit or the original saving throw result is a natural 1, the creature must instead succeed at a Will save (again using the same DC) or suffer the amnesia greater madness (Horror Adventures 186). Madness gained this way lasts indefinitely, but can be treated using the normal methods for curing madness. This is a mind-affecting effect, and creatures native to the River Styx are immune to it.
 

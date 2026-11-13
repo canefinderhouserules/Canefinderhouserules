@@ -4,9 +4,9 @@
 
 You can modify a spell to become more tenacious when its targets resist its effect.
 
-**Benefit**: Whenever a creature targeted by a persistent spell or within its area succeeds on its saving throw against the spell, it must make another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the spell, as if it had failed its first saving throw.Spells that do not require a saving throw to resist or lessen the spell’s effect do not benefit from this feat.
+**Benefit**: Whenever a creature targeted by a persistent spell or within its area succeeds on its saving throw against the spell, it must make another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the spell, as if it had failed its first saving throw. Spells that do not require a saving throw to resist or lessen the spell’s effect do not benefit from this feat. If the spell is a save-or-suck or save-or-die spell, this becomes a +2 metamagic.
 
-**Level Increase**: +1
+**Level Increase**: +1 (+2 for a save-or-suck or save-or-die spell)
 
 **Category**: Powerful
 
