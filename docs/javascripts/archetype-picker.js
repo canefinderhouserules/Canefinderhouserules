@@ -52,7 +52,7 @@
     r.orig = r.td.innerHTML;
   });
 
-  fetch(new URL('tools/archetypes/' + m[1] + '.json', base)).then(function (r) { return r.ok ? r.json() : null; })
+  fetch(new URL('tools/archetypes/' + m[1] + '.json', base), { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : null; })
     .then(function (d) { if (d && d.archetypes.length) init(d); }).catch(function () {});
 
   function init(d) {
