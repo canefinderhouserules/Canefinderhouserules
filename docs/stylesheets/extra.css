@@ -102,3 +102,5 @@
 .md-typeset .ap-sub { grid-column: 1 / -1; margin: .5rem 0 .1rem; padding-top: .35rem; border-top: 1px solid var(--md-default-fg-color--lightest); font-size: .65rem; color: var(--md-default-fg-color--light); }
 .md-typeset .ap-sub strong { color: var(--md-default-fg-color); }
 .md-typeset .ap-alttag { font-size: .8em; color: var(--md-default-fg-color--light); margin-left: .25em; white-space: nowrap; }
+.md-typeset .ap-house .ap-name, .md-typeset .ap-hr { color: #6a3fb5; }
+[data-md-color-scheme="slate"] .md-typeset .ap-house .ap-name, [data-md-color-scheme="slate"] .md-typeset .ap-hr { color: #b39ddb; }

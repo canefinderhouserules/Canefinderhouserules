@@ -61,7 +61,25 @@
       a.i = i; a.touch = {};
       a.abilities.forEach(function (b, k) { b.k = k; });
       a.abilities.forEach(function (b) { b.replaces.concat(b.modifies).forEach(function (id) { a.touch[id] = true; }); });
+      // how it changes each feature: 3 replaces, 2 changes, 1 only adds something (takes nothing away)
+      a.how = {};
+      a.abilities.forEach(function (b) {
+        b.modifies.forEach(function (id) { a.how[id] = Math.max(a.how[id] || 0, b.adds ? 1 : 2); });
+        b.replaces.forEach(function (id) { a.how[id] = 3; });
+      });
     });
+    // two archetypes on one feature: fine if either only adds to it; a house-rule mix if one changes it and the other
+    // removes it altogether (the change is simply lost); otherwise they clash
+    function pair(a, b) {
+      var shared = Object.keys(a.how).filter(function (id) { return b.how[id]; });
+      var res = { clash: [], house: [] };
+      shared.forEach(function (id) {
+        var x = a.how[id], y = b.how[id];
+        if (x === 1 || y === 1) return;
+        (x !== y ? res.house : res.clash).push(id);
+      });
+      return res;
+    }
     // "bravery +1 ... +5" -> "bravery"; two of eleven bonus feats -> "bonus feat (1st, 2nd level)"
     function names(ids) {
       var out = [], done = {};
@@ -87,7 +105,7 @@
     box.innerHTML = '<summary><span class="ap-title">Archetypes</span> <span class="ap-count"></span><span class="ap-hint">Tick archetypes to see the class with them</span></summary>' +
       '<div class="ap-body"><div class="ap-top"><input type="search" class="ap-search" placeholder="Filter archetypes…" aria-label="Filter archetypes">' +
       '<button type="button" class="ap-clear md-button">Clear</button></div>' +
-      '<div class="ap-msg" role="status"></div><p class="ap-legend">Archetypes marked “banned” can’t be used under the house rules. Other archetypes in red change the same class features as one you ticked, so the rules don’t normally let you combine them. You can still tick them (for a house rule); hover one to see which features they share.</p><div class="ap-list"></div></div>';
+      '<div class="ap-msg" role="status"></div><p class="ap-legend">Archetypes marked “banned” can’t be used under the house rules. Other archetypes in red change the same class features as one you ticked, so the rules don’t normally let you combine them; you can still tick them (for a house rule). <span class="ap-hr">Violet</span> ones can be mixed by house rule: one removes a class feature the other only changes, and that change is simply lost. Changes that only add something to a feature (an extra option, spell or skill) never block a mix. Hover an archetype to see why.</p><div class="ap-list"></div></div>';
     var anchor = table; while (anchor.parentNode !== content) anchor = anchor.parentNode;
     var cap = anchor.previousElementSibling;
     if (cap && cap.tagName === 'P' && /^table\b/i.test(cap.textContent.trim())) anchor = cap;
@@ -160,18 +178,29 @@
       var sel = d.archetypes.filter(function (a) { return a.box.checked; });
       // conflicts: two archetypes that change the same class feature
       d.archetypes.forEach(function (a) {
-        var clash = sel.filter(function (b) { return b !== a && (forbidden(a, b) || (!allowed(a, b) && Object.keys(a.touch).some(function (id) { return b.touch[id]; }))); });
+        var clash = [], house = [], why = [];
+        sel.forEach(function (b) {
+          if (b === a) return;
+          if (forbidden(a, b)) { clash.push(b); why.push('Can’t be combined with ' + b.name + ' (a rule of the archetype)'); return; }
+          if (allowed(a, b)) return;
+          var p = pair(a, b);
+          if (p.clash.length) { clash.push(b); why.push('Changes the same class features as ' + b.name + ' (' + names(p.clash) + ')'); }
+          else if (p.house.length) {
+            house.push(b);
+            why.push('House rule: one of them removes ' + names(p.house) + ' and the other only changes it; the change is lost, so they can be mixed (with ' + b.name + ')');
+          }
+        });
         a.label.classList.toggle('ap-clash', clash.length > 0);
-        a.label.classList.toggle('ap-clash-sel', clash.length > 0 && a.box.checked);
-        a.label.querySelector('.ap-why').textContent = clash.length && a.box.checked ? 'conflicts with ' + clash.map(function (b) { return b.name; }).join(', ') : '';
-        a.label.title = clash.length ? clash.map(function (b) {
-          return forbidden(a, b) ? 'Can’t be combined with ' + b.name + ' (a rule of the archetype)'
-            : 'Changes the same class features as ' + b.name + ' (' + names(Object.keys(a.touch).filter(function (id) { return b.touch[id]; })) + ')';
-        }).join('; ') : '';
+        a.label.classList.toggle('ap-house', !clash.length && house.length > 0);
+        a.label.classList.toggle('ap-clash-sel', (clash.length > 0 || house.length > 0) && a.box.checked);
+        a.label.querySelector('.ap-why').textContent = a.box.checked ? (clash.length ? 'conflicts with ' + clash.map(function (b) { return b.name; }).join(', ') : house.length ? 'house rule with ' + house.map(function (b) { return b.name; }).join(', ') : '') : '';
+        a.label.title = why.join('; ');
         if (a.banned) a.label.title = 'Banned by house rule' + (a.label.title ? '; ' + a.label.title : '');
       });
       var bad = sel.filter(function (a) { return a.label.classList.contains('ap-clash'); });
-      msg.innerHTML = bad.length ? '<strong>Not normally combinable:</strong> ' + bad.map(function (a) { return esc(a.name); }).join(', ') + ' change the same class features, or one of them says it can’t be combined with the other. The page still shows them together, in case a house rule allows it; hover an archetype to see why.' : '';
+      var hr = sel.filter(function (a) { return a.label.classList.contains('ap-house'); });
+      msg.innerHTML = (bad.length ? '<strong>Not normally combinable:</strong> ' + bad.map(function (a) { return esc(a.name); }).join(', ') + ' change the same class features, or one of them says it can’t be combined with the other. The page still shows them together, in case a house rule allows it; hover an archetype to see why.' : '') +
+        (hr.length ? (bad.length ? '<br>' : '') + '<strong class="ap-hr">Combinable by house rule:</strong> ' + hr.map(function (a) { return esc(a.name); }).join(', ') + ' — one removes a class feature the other only changes, so that change is simply lost.' : '');
       var ban = sel.filter(function (a) { return a.banned; });
       if (ban.length) msg.innerHTML = '<strong>Banned by house rule:</strong> ' + ban.map(function (a) { return esc(a.name); }).join(', ') + ' can’t be used.' + (msg.innerHTML ? '<br>' + msg.innerHTML : '');
       count.textContent = sel.length ? sel.length + ' selected' : '';
