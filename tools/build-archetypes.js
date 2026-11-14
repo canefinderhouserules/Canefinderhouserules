@@ -412,7 +412,7 @@ function archetypes(entry, units) {
     const allow = [];
     for (const g of plain(body).matchAll(/\bthis archetype\s+(?:may|can) (?:still )?be combined with (?:the )?([\w’' -]+?) archetype\b/gi)) allow.push(...names(g));
     if (!keep(name)) continue;
-    res.push(Object.assign({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities }, excl.length ? { excl } : {}, allow.length ? { allow } : {}));
+    res.push(Object.assign({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities }, /^!!! danger "Banned"/m.test(body) ? { banned: true } : {}, excl.length ? { excl } : {}, allow.length ? { allow } : {}));
   }
   return res;
 }
