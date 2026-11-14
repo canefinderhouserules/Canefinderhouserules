@@ -87,9 +87,9 @@
         var u = units[id]; if (done[u.base]) return; done[u.base] = true;
         var all = d.units.filter(function (x) { return x.base === u.base; });
         var mine = all.filter(function (x) { return ids.indexOf(x.id) >= 0; });
-        var name = u.label.replace(/\s*(\+?\d+)$/, '');
+        var name = u.label.replace(/\s*(\d+d\d+|\+?\d+)$/, '');
         if (mine.length === all.length) out.push(name);
-        else if (mine.every(function (x) { return /\d$/.test(x.label); }) && !/^bonus/i.test(name)) out.push(name + ' ' + mine.map(function (x) { return x.label.match(/(\+?\d+)$/)[1]; }).join(', '));
+        else if (mine.every(function (x) { return /\d$/.test(x.label); }) && !/^bonus/i.test(name)) out.push(name + ' ' + mine.map(function (x) { return x.label.match(/(\d+d\d+|\+?\d+)$/)[1]; }).join(', '));
         else out.push(name + ' (' + mine.map(function (x) { return ORD(x.lvl); }).join(', ') + ' level)');
       });
       return out.join('; ');
