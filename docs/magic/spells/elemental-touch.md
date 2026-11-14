@@ -1,7 +1,7 @@
 # Elemental Touch
 
 **School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 2, bloodrager 2, magus 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a bit of the chosen element: earth, water, air, or fire)  
 **Range** personal  
 **Target** you  

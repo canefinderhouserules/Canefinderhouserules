@@ -1,7 +1,7 @@
 # Touch of Combustion
 
 **School** evocation [fire]; **Level** bloodrager 1, druid 1, inquisitor 1, magus 1, psychic 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature or object touched  

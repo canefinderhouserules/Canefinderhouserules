@@ -1,7 +1,7 @@
 # Hedging Weapons
 
 **School** abjuration [force]; **Level** antipaladin 1, cleric 1, inquisitor 1, paladin 1  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  
