@@ -28,6 +28,14 @@
         "replaces": "consume spells",
         "modifies": "spells"
       }
+    },
+    "Enlightened Initiate": {
+      "Halcyon Spell Lore (Su)": {
+        "replaces": "the arcanist exploits gained at 1st, 9th, and 17th levels"
+      },
+      "Spell Mastery": {
+        "replaces": "the arcanist exploit gained at 5th level"
+      }
     }
   },
   "barbarian": {
@@ -45,6 +53,14 @@
       "Bardic Performance": {
         "replaces": "fascinate and dirge of doom",
         "modifies": "versatile performance"
+      }
+    },
+    "Dervish Dancer": {
+      "Battle Dance": {
+        "lvl": 1
+      },
+      "Fleet (Su)": {
+        "lvl": 1
       }
     }
   },
@@ -213,7 +229,8 @@
   "psychic": {
     "Starseeker": {
       "Written in the Stars": {
-        "replaces": "discipline spells, the phrenic amplifications gained at 1st and 11th level"
+        "replaces": "discipline spells, the phrenic amplifications gained at 1st and 11th level",
+        "lvl": 1
       }
     },
     "Esoteric Starseeker": {
@@ -342,6 +359,41 @@
     "Cruoromancer": {
       "Perfect Infusion (Su)": {
         "replaces": "the bonus feat gained at 20th level"
+      }
+    }
+  },
+  "investigator": {
+    "Psychic Detective": {
+      "_merge": {
+        "Psychic Detective Spells": "Spells"
+      },
+      "Spells": {
+        "lvl": 1
+      }
+    }
+  },
+  "magus": {
+    "Eldritch Scion": {
+      "Spells": {
+        "replaces": "spellbooks",
+        "lvl": 1
+      }
+    }
+  },
+  "occultist": {
+    "Construct Collector": {
+      "Constructed Focus (Su)": {
+        "replaces": "the focus powers gained at 3rd, 9th, and 15th level"
+      }
+    }
+  },
+  "vigilante": {
+    "Servile Infiltrator": {
+      "Crop Vigilance (Ex)": {
+        "lvl": 1
+      },
+      "Obsequious (Ex)": {
+        "lvl": 1
       }
     }
   }
