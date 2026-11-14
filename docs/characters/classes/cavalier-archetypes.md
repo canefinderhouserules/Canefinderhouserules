@@ -4,9 +4,19 @@ The following options and archetypes are available to the cavalier.
 
 ## New Cavalier Orders
 
-In the deepest wilderness, there are cavaliers who are dedicated to the flora and fauna of unspoiled lands. Order of the Beast A cavalier who belongs to this order serves nature in all its forms. These cavaliers believe that animals make the most loyal companions, and keep close to woodland creatures. Edicts: An order of the beast cavalier must strive to protect nature-including animals and magical beasts-from the encroachment of civilization and from those that seek to harm it. He can slay enraged animals and magical beasts only when attempts to calm or pacify them fail. Challenge: Whenever an order of the beast cavalier issues a challenge, his mount gains a +1 circumstance bonus on melee attack rolls against the target of his challenge whenever the cavalier is threatening the target. This bonus increases by 1 for every 4 cavalier levels.
+In the deepest wilderness, there are cavaliers who are dedicated to the flora and fauna of unspoiled lands.
 
-**Class Skills**: An order of the beast cavalier adds KKnowledge (nature) and Survival to his list of class skills. When the cavalier uses Survival to follow tracks, he gains a bonus on the check equal to 1/2 his cavalier level (minimum +1). Order Abilities: An order of the beast cavalier gains the following abilities as he increases in level.
+### Order of the Beast
+
+A cavalier who belongs to this order serves nature in all its forms. These cavaliers believe that animals make the most loyal companions, and keep close to woodland creatures.
+
+**Edicts**: An order of the beast cavalier must strive to protect nature-including animals and magical beasts-from the encroachment of civilization and from those that seek to harm it. He can slay enraged animals and magical beasts only when attempts to calm or pacify them fail.
+
+**Challenge**: Whenever an order of the beast cavalier issues a challenge, his mount gains a +1 circumstance bonus on melee attack rolls against the target of his challenge whenever the cavalier is threatening the target. This bonus increases by 1 for every 4 cavalier levels.
+
+**Class Skills**: An order of the beast cavalier adds Knowledge (nature) and Survival to his list of class skills. When the cavalier uses Survival to follow tracks, he gains a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+
+**Order Abilities**: An order of the beast cavalier gains the following abilities as he increases in level.
 
 **Wild Empathy (Ex)**: At 2nd level, the cavalier can improve the attitude of an animal. This ability functions as the [druid ability](druid.md#wild-empathy-ex) of the same name. The cavalier uses his level as his effective druid level when using this ability.
 

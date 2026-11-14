@@ -252,7 +252,9 @@ A hex channeler is a witch who devotes herself to either life-healing the wounde
 
 Channeling energy causes a burst that affects all creatures of one type (either undead or living) in a 30 -foot radius centered on the witch. The witch can channel energy a number of times per day equal to 3 + her Charisma modifier (minimum 1). This otherwise functions as a cleric using channel energy, except the witch does not require a holy symbol to use this ability. The hex channeler uses her witch level as her cleric level for all other effects dependent upon channel energy (except increasing the amount of damage healed or dealt). The hex channeler can choose whether or not to include herself or her familiar in this effect. This burst heals or deals 1d6 points of damage. Every time the hex channeler is able to learn a new hex (including major or grand hexes), she can instead increase her channel energy amount by 1d6. This ability replaces the hex gained at 2nd level.
 
-**Hexes**: The following witch hexes complement the hex channeler archetype: blight, healing, poison steep, and ward. Major Hexes: The following major hexes complement the hex channeler archetype: agony, cook people, infected wounds, major healing, and retribution.
+**Hexes**: The following witch hexes complement the hex channeler archetype: blight, healing, poison steep, and ward.
+
+**Major Hexes**: The following major hexes complement the hex channeler archetype: agony, cook people, infected wounds, major healing, and retribution.
 
 **Grand Hexes**: The following grand hexes complement the hex channeler archetype: death curse, dire prophecy, life giver, and summon spirit.
 
@@ -260,9 +262,15 @@ Channeling energy causes a burst that affects all creatures of one type (either 
 
 Mountains can be sanctuaries for witches hunted by society. Here they form bonds with the spirits of the lofty reaches.
 
-**Spells**: A mountain witch replaces some of her patron spells with the following: 2nd-magic stone, 4th-stone call, 6th meld into stone, 8th-stoneskin, 10th-wall of stone, 12th-stone tell, 14th-statue, 16th-repel metal or stone, 18th-clashing rocks. Stone Spirit Hex: A mountain witch can select hexes from the shaman's stone spirit as if they were witch hexes. She uses her witch level as her shaman level to determine the effect of the hex, and Intelligence instead of Wisdom to determine its DC. This ability alters [hex](witch.md#hex).
+**Spells**: A mountain witch replaces some of her patron spells with the following: 2nd-magic stone, 4th-stone call, 6th-meld into stone, 8th-stoneskin, 10th-wall of stone, 12th-stone tell, 14th-statue, 16th-repel metal or stone, 18th-clashing rocks.
 
-**Mountain Beast Empathy (Ex)**: At 2nd level, a mountain witch can influence the attitude of mountain-dwelling animals, as the [druid's wild empathy](druid.md#wild-empathy-ex) class feature but only on animals native to mountainous environments. The mountain witch uses her witch level as her druid level for this ability. This ability replaces the hex gained at 2nd level. Hexes: The following witch hexes complement the mountain witch archetype: beast of ill-omen, crystal sight*, lodestone*, metal curse*, stone stability*, and ward of stone*. (Those with asterisks [*] are detailed in the shaman class.) Major Hexes: The following major hexes complement the mountain witch archetype: beast eye, hidden home, hoarfrost, and weather control.
+**Stone Spirit Hex**: A mountain witch can select hexes from the shaman's stone spirit as if they were witch hexes. She uses her witch level as her shaman level to determine the effect of the hex, and Intelligence instead of Wisdom to determine its DC. This ability alters [hex](witch.md#hex).
+
+**Mountain Beast Empathy (Ex)**: At 2nd level, a mountain witch can influence the attitude of mountain-dwelling animals, as the [druid's wild empathy](druid.md#wild-empathy-ex) class feature but only on animals native to mountainous environments. The mountain witch uses her witch level as her druid level for this ability. This ability replaces the hex gained at 2nd level.
+
+**Hexes**: The following witch hexes complement the mountain witch archetype: beast of ill-omen, crystal sight*, lodestone*, metal curse*, stone stability*, and ward of stone*. (Those with asterisks [*] are detailed in the shaman class.)
+
+**Major Hexes**: The following major hexes complement the mountain witch archetype: beast eye, hidden home, hoarfrost, and weather control.
 
 **Grand Hexes**: The following grand hexes complement the mountain witch archetype: eternal slumber, natural disaster, and witch's hut.
 

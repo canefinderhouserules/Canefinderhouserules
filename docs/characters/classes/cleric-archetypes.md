@@ -604,8 +604,6 @@ The roaming exorcist travels far and wide to root out possessions, hauntings, an
 
 **Curse Eater (Su)**: At 11th level, a roaming exorcist gains [Improved Disarm](../../rules/feats/improved-disarm.md) as a bonus feat, regardless of whether she meets the feat's prerequisites. The roaming exorcist gains a +2 bonus on combat maneuver checks to disarm a creature of a magic item she knows to be cursed. If the roaming exorcist successfully disarms a creature of a cursed item without using a weapon, she may automatically pick up the disarmed cursed item without immediately succumbing to the item's curse. She may wield or hold this cursed item for a number of rounds equal to her Charisma modifier (minimum 1 round)—during which time she may use the item normally, as if it were not cursed—before the item's curse manifests again.
 
-These abilities replace the cleric's second domain, channel energy options, and other class features as appropriate to the GM's judgment.
-
 ## Herald Caller
 
 Unlike warpriests or paladins, who charge headlong into battle in the name of their patron deities, herald callers are adept at calling powerful outsiders to aid their brethren in battle.

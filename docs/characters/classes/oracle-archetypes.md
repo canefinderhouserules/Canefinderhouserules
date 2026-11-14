@@ -468,7 +468,7 @@ If the target is possessed (such as by a [*magic jar*](../../magic/spells/magic-
 
 The shigenjo walks the path of enlightenment and transcendence by seeking oneness with the celestial spirits. In doing so, she unlocks the martial potential of her own spiritual power. A shigenjo has the following class features.
 
-**Class Skills**: A shigenjo adds Knowledge (nature), Knowledge (religion), Knowledge (planes), and Survival to her list of class skills. These replace the additional class skills from her mystery.
+**Class Skills**: A shigenjo adds Survival to her list of class skills in place of Diplomacy.
 
 **Alignment**: Any neutral.
 

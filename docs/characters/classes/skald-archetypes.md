@@ -118,7 +118,9 @@ Even the loudest voice can often times be drowned out by the din of battle. Whet
 
 **Horn Call (Su)**: At 7th level, a herald's horn enhances his sonic spells. If a skald spell with the sonic descriptor is cast using the horn, its DC increases by 1. These DCs increase by an additional 1 at 13th and 19th levels. This ability replaces [lore master](skald.md#lore-master-ex).
 
-**Crumbling Blast (Su)**: At 11th level, a herald of the horn can use his horn to create a devastating shock wave of energy. Once per day, he can sound a note on the horn that functions like a horn of blasting (DC = 10 + 1/2 the herald of the horn's level + his Charisma bonus). At 17th level, the herald of the horn can use this ability twice per day and it functions like a greater horn of blasting. Unlike an actual horn of blasting, this ability does not carry the risk of destroying the horn. This ability replaces the second and third daily uses of spell kenning gained at 11th and 17th levels. Rage Powers: The following rage powers complement the herald of the horn archetype: battle roar*, energy absorption, energy eruption, fearless rage, knockback, knockdown, smasher, and swift foot. (Those with asterisks [*] are listed in the rage powers section above.)
+**Crumbling Blast (Su)**: At 11th level, a herald of the horn can use his horn to create a devastating shock wave of energy. Once per day, he can sound a note on the horn that functions like a horn of blasting (DC = 10 + 1/2 the herald of the horn's level + his Charisma bonus). At 17th level, the herald of the horn can use this ability twice per day and it functions like a greater horn of blasting. Unlike an actual horn of blasting, this ability does not carry the risk of destroying the horn. This ability replaces the second and third daily uses of spell kenning gained at 11th and 17th levels.
+
+**Rage Powers**: The following rage powers complement the herald of the horn archetype: battle roar*, energy absorption, energy eruption, fearless rage, knockback, knockdown, smasher, and swift foot. (Those with asterisks [*] are listed in the rage powers section above.)
 
 ## Spell Warrior
 

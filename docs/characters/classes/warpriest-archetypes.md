@@ -18,7 +18,9 @@ Some worshipers of a god of assassination hold such strong faith that they gain 
 
 ## Champion of the Faith
 
-Champions of the faith are crusaders who use the power of their divine patron to annihilate the faith's enemies. Chosen Alignment: At 1st level, a champion of the faith must select one of the following as his chosen alignment: chaos, evil, good, or law. This choice must be one of the alignments shared by the champion of the faith and his deity. Champions of the faith who are neutral with no other alignment components (or whose deity is) can choose any of the above alignments for this purpose. Additionally, a champion of the faith must select the blessing corresponding to his chosen alignment, even if it's not on his deity's list of domains. His chosen alignment's opposite is referred to as his opposed alignment. Good and evil oppose one another, just as law and chaos oppose one another.
+Champions of the faith are crusaders who use the power of their divine patron to annihilate the faith's enemies.
+
+**Chosen Alignment**: At 1st level, a champion of the faith must select one of the following as his chosen alignment: chaos, evil, good, or law. This choice must be one of the alignments shared by the champion of the faith and his deity. Champions of the faith who are neutral with no other alignment components (or whose deity is) can choose any of the above alignments for this purpose. Additionally, a champion of the faith must select the blessing corresponding to his chosen alignment, even if it's not on his deity's list of domains. His chosen alignment's opposite is referred to as his opposed alignment. Good and evil oppose one another, just as law and chaos oppose one another.
 
 **Sacred Weapon (Su)**: At 1st level, a champion of the faith gains the sacred weapon class feature as normal. However, this ability does not grant the 4th-level ability to enhance the champion of the faith's weapon with divine power, nor does it grant any subsequent increases to that ability. Instead, at 4th level, any sacred weapon wielded by a champion of the faith counts as having his chosen alignment for the purposes of overcoming damage reduction.
 
@@ -80,20 +82,19 @@ If a divine commander's mount dies and the divine commander finds another mount,
 
 ## Forgepriest
 
-Armorers of exquisite skill, forgepriests take inspiration from their deity to produce the most perfect weapons and armor they can, the better to equip the armies of the faithful. Blessings: A forgepriest selects only one blessing. This alters the [blessings](warpriest.md#blessings-su) class feature.
+Armorers of exquisite skill, forgepriests take inspiration from their deity to produce the most perfect weapons and armor they can, the better to equip the armies of the faithful.
 
-**Blessings**: A forgepriest selects only one blessing. This alters the blessings class feature.
-**Smith's Spells**: A forgepriest adds the following spells to his spell list: 1st-jury r(g, shield; 2nd-heat metal, shatter; 3rd-keen edge, quench, versatile weapon; 4th-wreath of blades; 5th-fabricate, major creation; 6th-mage's sword.
+**Blessings**: A forgepriest selects only one blessing. This alters the [blessings](warpriest.md#blessings-su) class feature.
 
-**Forge Mastery (Ex)**: A 2nd level, the forgepriest adds a bonus equal to half his level to all [Craft](../../rules/skills/craft.md) checks to make metal items, armor, and weapons. (This benefit is gained from the altered version of blessings, above.)
+**Smith's Spells**: A forgepriest adds the following spells to his spell list: 1st—*jury rig*, *shield*; 2nd—*heat metal*, *shatter*; 3rd—*keen edge*, *quench*, *versatile weapon*; 4th—*wreath of blades*; 5th—*fabricate*, *major creation*; 6th—*mage's sword*.
+
+**Forge Mastery (Ex)**: At 2nd level, the forgepriest adds a bonus equal to half his level to all [Craft](../../rules/skills/craft.md) checks to make metal items, armor, and weapons. (This benefit is gained from the altered version of blessings, above.)
 
 **Bonus Feats**: A forgepriest can select item creation feats in addition to combat feats when he gains a bonus feat. This ability alters [bonus feats](warpriest.md#bonus-feats).
 
-[Craft Magic Arms and Armor](../../rules/feats/craft-magic-arms-and-armor.md) At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
+**Craft Magic Arms and Armor**: At 3rd level, a forgepriest gains [Craft Magic Arms and Armor](../../rules/feats/craft-magic-arms-and-armor.md) as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
 
-**Craft Magic Arms and Armor**: At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
-
-**Creator's Bond (Su)**: At 4th level, when a forgepriest uses his sacred weapon ability with an item he created personally, he can expend two uses of his fervor ability to increase the bonus granted by 1 Once the forgepriest has the sacred armor ability, he can also use this ability in conjunction with that. This ability replaces [channel energy](warpriest.md#channel-energy-su).
+**Creator's Bond (Su)**: At 4th level, when a forgepriest uses his sacred weapon ability with an item he created personally, he can expend two uses of his fervor ability to increase the bonus granted by 1. Once the forgepriest has the sacred armor ability, he can also use this ability in conjunction with that. This ability replaces [channel energy](warpriest.md#channel-energy-su).
 
 **Heat of the Forge (Su)**: At 6th level, a forgepriest gains fire resistance 5. At 13th level, this resistance increases to 10. This ability replaces the bonus feat gained at 6th level.
 

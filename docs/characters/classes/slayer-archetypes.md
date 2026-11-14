@@ -52,7 +52,9 @@ A cleaner is responsible for destroying or removing incriminating evidence from 
 
 ## Cutthroat
 
-Street-smart and extremely resourceful, cutthroats stalk city streets and alleyways, preying on those unfortunate enough to catch their eye. More opportunists than careful planners, they don't care who they rob or kill, and take advantage of whatever circumstances put them near a suitable target. Class Skills: A cutthroat gains [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (nobility), and Linguistics as class skills, but does not gain Knowledge (dungeoneering), Knowledge (geography), or Survival as class skills.
+Street-smart and extremely resourceful, cutthroats stalk city streets and alleyways, preying on those unfortunate enough to catch their eye. More opportunists than careful planners, they don't care who they rob or kill, and take advantage of whatever circumstances put them near a suitable target.
+
+**Class Skills**: A cutthroat gains [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (nobility), and Linguistics as class skills, but does not gain Knowledge (dungeoneering), Knowledge (geography), or Survival as class skills.
 
 **Street Stalker (Ex)**: At 1st level, a cutthroat selects the [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), or Knowledge (local) skill. Once selected, this cannot be changed. When in urban environments, the cutthroat adds 1/2 his slayer level (minimum 1) to checks attempted with this skill. This ability replaces [track](slayer.md#track-ex).
 
@@ -78,7 +80,9 @@ Also known as a divine assassin, god's blade, or wrath-bringer, a deliverer is a
 
 **True Believer (Ex)**: At 6th level, mortal wounds cannot stop a deliverer from performing his divine duty. On any round in which he attacks an opponent whose alignment is at least two steps away from his own (see Determined Zeal, above) while benefiting from the Diehard feat, he isn't [staggered](../../rules/appendices/conditions.md#staggered) from having negative hit points, nor does he automatically lose 1 hit point per round. This ability replaces the slayer talent gained at 6th level.
 
-**Divine Anathema (Ex)**: At 10th level, as a free action a deliverer can declare a studied target to be his divine anathema. The studied target's alignment must be at least two steps away from that of the deliverer. Against this target, the deliverer's attacks deal an additional 2d6 points of damage; this damage is directly from divine power and does not stack with the bonus damage from a holy or unholy weapon, or a weapon with a similar weapon special ability or effect. A deliverer can have only one divine anathema at a time. This ability replaces the advanced slayer talent gained at 10th level. Slayer Talents: The following slayer talents (and rogue talents) complement the deliverer archetype: combat trick, finesse rogue, foil scrutiny*, terrain mastery, trap spotter, and trapfinding*. (Those with asterisks [*] are detailed in the [slayer class](slayer.md).)
+**Divine Anathema (Ex)**: At 10th level, as a free action a deliverer can declare a studied target to be his divine anathema. The studied target's alignment must be at least two steps away from that of the deliverer. Against this target, the deliverer's attacks deal an additional 2d6 points of damage; this damage is directly from divine power and does not stack with the bonus damage from a holy or unholy weapon, or a weapon with a similar weapon special ability or effect. A deliverer can have only one divine anathema at a time. This ability replaces the advanced slayer talent gained at 10th level.
+
+**Slayer Talents**: The following slayer talents (and rogue talents) complement the deliverer archetype: combat trick, finesse rogue, foil scrutiny*, terrain mastery, trap spotter, and trapfinding*. (Those with asterisks [*] are detailed in the [slayer class](slayer.md).)
 
 **Advanced Slayer Talents**: The following advanced slayer talents (and advanced rogue talents) complement the deliverer archetype: assassinate*, evasion, hunter's surprise, and master of disguise.
 
@@ -154,7 +158,9 @@ Vanguards are battlefield commanders who focus on the brutality of combat and le
 
 **Vanguard's Bond (Ex)**: At 4th level, a vanguard forms a bond with his fighting companions. As a move action, he can choose one of his current studied targets and grant half his studied target bonus against that target to all allies within 30 feet who can see or hear him. This bonus lasts for a number of rounds equal to the slayer's Intelligence modifier (minimum 1). This bonus does not stack with any favored enemy or studied target bonuses possessed by his allies; they use whichever bonus is higher. This ability replaces the slayer talent gained at 4th level.
 
-**Ever Ready (Ex)**: At 7th level, a vanguard is never considered an unaware combatant (Core Core Rulebook) and is always able to act in the surprise round. The vanguard is still [flat-footed](../../rules/appendices/conditions.md#flat-footed) in the surprise round until he acts. This ability replaces [stalker](slayer.md#stalker-ex). Slayer Talents: The following slayer talents complement the vanguard archetype: combat trick, finesse rogue, hard to fool, rogue crawl, surprise attack, terrain mastery, and weapon training.
+**Ever Ready (Ex)**: At 7th level, a vanguard is never considered an unaware combatant and is always able to act in the surprise round. The vanguard is still [flat-footed](../../rules/appendices/conditions.md#flat-footed) in the surprise round until he acts. This ability replaces [stalker](slayer.md#stalker-ex).
+
+**Slayer Talents**: The following slayer talents complement the vanguard archetype: combat trick, finesse rogue, hard to fool, rogue crawl, surprise attack, terrain mastery, and weapon training.
 
 **Advanced Slayer Talents**: The following advanced slayer talents (and advanced rogue talents) complement the vanguard archetype: feat, opportunist, slayer camouflage*, and unwitting ally. (Those with asterisks [*] are detailed in the [slayer class](slayer.md).)
 

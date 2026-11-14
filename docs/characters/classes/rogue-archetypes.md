@@ -155,7 +155,9 @@ Charlatans and stage magicians use slight of hand to fake magic. A counterfeit m
 
 **Signature Wand (Ex)**: At 4th level, a counterfeit mage can spend 1 hour practicing with a wand to designate it as his signature wand. He can draw that wand as a free action, and can activate it without having to succeed at a Use Magic Device check. He can change his signature wand once per day. This ability replaces the rogue talent gained at 4th level.
 
-**Wand Adept (Ex)**: At 6th level, a counterfeit mage can use his Dexterity modifier in place of his Charisma modifier when attempting Use Magic Device checks to activate wands. Rogue Talents: The following rogue talents complement the counterfeit mage archetype: deft palm, esoteric scholar, honeyed words, major magic, minor magic, and trap spotter.
+**Wand Adept (Ex)**: At 6th level, a counterfeit mage can use his Dexterity modifier in place of his Charisma modifier when attempting Use Magic Device checks to activate wands.
+
+**Rogue Talents**: The following rogue talents complement the counterfeit mage archetype: deft palm, esoteric scholar, honeyed words, major magic, minor magic, and trap spotter.
 
 **Advanced Talents**: The following advanced rogue talents complement the counterfeit mage archetype: dispelling attack, familiar, and slippery mind.
 
@@ -169,7 +171,9 @@ She adds 1/2 her level to Craft (alchemy) checks. This ability replaces [evasion
 
 **Precise Splash Weapons (Ex)**: At 4th level, an underground chemist can deal sneak attack damage with splash weapons. The attack must be her first attack that round, qualify for dealing sneak attack damage (such as against a flat-footed target), and be directed at a creature rather than a square. This ability replaces the rogue talent gained at 4th level.
 
-**Discovery (Su)**: At 10th level, an underground chemist can select one of the following alchemist discoveries in place of a rogue talent: concentrate poison, dilution, enhance potion, extend potion, mummification, nauseating flesh, poison conversion, preserve organs, spontaneous healing, or sticky poison. She uses her rogue level as her alchemist level for determining the effects of her discoveries and whether she is able to select one. This ability alters [advanced talents](rogue.md#advanced-talents). Rogue Talents: The following rogue talents complement the underground chemist archetype: black market connections, fast fingers, lasting poison, sniper's eye, and swift poison Advanced Talents: The following advanced rogue talents complement the underground chemist archetype: deadly cocktail and thoughtful reexamining_
+**Discovery (Su)**: At 10th level, an underground chemist can select one of the following alchemist discoveries in place of a rogue talent: concentrate poison, dilution, enhance potion, extend potion, mummification, nauseating flesh, poison conversion, preserve organs, spontaneous healing, or sticky poison. She uses her rogue level as her alchemist level for determining the effects of her discoveries and whether she is able to select one. This ability alters [advanced talents](rogue.md#advanced-talents).
+
+**Rogue Talents**: The following rogue talents complement the underground chemist archetype: black market connections, fast fingers, lasting poison, sniper's eye, and swift poison Advanced Talents: The following advanced rogue talents complement the underground chemist archetype: deadly cocktail and thoughtful reexamining_
 
 ## Escapologist
 

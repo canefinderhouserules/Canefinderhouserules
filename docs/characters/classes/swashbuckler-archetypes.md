@@ -22,7 +22,9 @@ Not known for their flashy entrances or for standing out in a crowd, a daring in
 
 **Bonus Feats**: In addition to combat feats, a daring infiltrator's bonus feats at 2nd, 10th, and 18th level can come from the following list: Alertness, Antagonize, Cosmopolitan, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Disarming Threat*, Persuasive, Prodigy, and Skill Focus. (Those marked with an asterisk [*] are detailed in this book.) This alters the bonus feat class ability.
 
-**Quick-Tongued (Ex)**: At 2nd level, a daring infiltrator gains a +1 bonus on [Bluff](../../rules/skills/bluff.md) checks. This bonus increases by 1 for every 4 levels beyond 2nd. This ability replaces [charmed life](swashbuckler.md#charmed-life-ex). Deeds: A daring infiltrator gains the following deeds, each of which replaces an existing deed.
+**Quick-Tongued (Ex)**: At 2nd level, a daring infiltrator gains a +1 bonus on [Bluff](../../rules/skills/bluff.md) checks. This bonus increases by 1 for every 4 levels beyond 2nd. This ability replaces [charmed life](swashbuckler.md#charmed-life-ex).
+
+**Deeds**: A daring infiltrator gains the following deeds, each of which replaces an existing deed.
 
 **Clandestine Expertise (Ex)**: At 3rd level, a daring infiltrator with at least 1 panache point gains a +2 bonus on Disguise and [Stealth](../../rules/skills/stealth.md) checks. Also, as long as she has at least 1 panache point, when she successfully aids another with a Disguise or Stealth check, she grants the subject a +4 bonus on the skill check instead of the normal +2. This deed replaces [swashbuckler initiative](swashbuckler.md#swashbuckler-initiative-ex).
 
@@ -82,7 +84,9 @@ An inspired blade is both a force of personality and a sage of swordplay dedicat
 
 Unlike other swashbucklers, an inspired blade gains no panache from a killing blow. She gains panache only from scoring a critical hit with a rapier. This ability alters the [panache](swashbuckler.md#panache-ex) class feature.
 
-**Inspired Finesse (Ex)**: At 1st level, an inspired blade gains the benefits of [Weapon Finesse](../../rules/feats/weapon-finesse.md) with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat. This ability replaces [swashbuckler finesse](swashbuckler.md#swashbuckler-finesse-ex). Deeds: The inspired blade gains the following deeds, each of which replaces an existing deed.
+**Inspired Finesse (Ex)**: At 1st level, an inspired blade gains the benefits of [Weapon Finesse](../../rules/feats/weapon-finesse.md) with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat. This ability replaces [swashbuckler finesse](swashbuckler.md#swashbuckler-finesse-ex).
+
+**Deeds**: The inspired blade gains the following deeds, each of which replaces an existing deed.
 
 **Inspired Strike (Ex)**: At 11th level, an inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The cost of this deed cannot be reduced by abilities such as [Signature Deed](../../rules/feats/signature-deed.md). This ability replaces [bleeding wound](swashbuckler.md#bleeding-wound-ex).
 
@@ -110,7 +114,9 @@ A number of organizations and kingdoms search for warriors who are brave (or foo
 
 **Weapon Proficiency**: A musketeer gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and [martial weapons](../../equipment/weapons-martial.md), as well as one-handed and [two-handed firearms](../../equipment/weapons-firearms.md). This ability replaces the swashbuckler's weapon proficiencies.
 
-**Musketeer Instruction (Ex)**: At 1st level, a musketeer gains the benefits of the Weapon Finesse feature with the rapier (this counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites), as well as both Rapid Reload (musket)uc and Gunsmithing feats as bonus feats. This ability replaces [swashbuckler finesse](swashbuckler.md#swashbuckler-finesse-ex). Deed: The musketeer gains the following deed, which replaces an existing deed.
+**Musketeer Instruction (Ex)**: At 1st level, a musketeer gains the benefits of the Weapon Finesse feature with the rapier (this counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites), as well as both Rapid Reload (musket)uc and Gunsmithing feats as bonus feats. This ability replaces [swashbuckler finesse](swashbuckler.md#swashbuckler-finesse-ex).
+
+**Deed**: The musketeer gains the following deed, which replaces an existing deed.
 
 **Quick Clear (Ex)**: At 1st level, as a standard action the musketeer can spend 1 panache point to remove the broken condition from a single firearm he is currently wielding, as long as the firearm gained that condition through a misfire. This deed replaces [dodging panache](swashbuckler.md#dodging-panache-ex).
 
@@ -118,7 +124,9 @@ A number of organizations and kingdoms search for warriors who are brave (or foo
 
 While some swashbucklers fight for queen and country, and others for coin, glory, or just the enhancement of their own reputations, the mysterious avenger fights directly for a cause. Instead of gaining personal glory for her heroic deeds, she keeps her identity hidden in order to fight for those who cannot fight for themselves.
 
-**Alignment**: A mysterious avenger must be of a good alignment, and must be dedicated to the protection of the good and the powerless under her care. If she ceases to be good or betrays the trust of those she was sworn to protect, she loses her secret identity and greater charmed life class features. She can regain them if she atones for her violations by some means that the GM sees fit (possibly by way of the atonement spell if the mysterious avenger is especially religious). Class Skills: A mysterious avenger adds Disguise to her list of class skills. This alters the swashbuckler's class skills.
+**Alignment**: A mysterious avenger must be of a good alignment, and must be dedicated to the protection of the good and the powerless under her care. If she ceases to be good or betrays the trust of those she was sworn to protect, she loses her secret identity and greater charmed life class features. She can regain them if she atones for her violations by some means that the GM sees fit (possibly by way of the atonement spell if the mysterious avenger is especially religious).
+
+**Class Skills**: A mysterious avenger adds Disguise to her list of class skills. This alters the swashbuckler's class skills.
 
 **Weapon and Armor Proficiency**: A mysterious avenger loses her proficiency with [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), but gains proficiency in the [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) exotic weapon. This alters the [swashbuckler's weapon and armor proficiency](swashbuckler.md#weapon-and-armor-proficiency).
 
