@@ -103,7 +103,7 @@
       }
       var lab = el('label', 'ap-item' + (a.kind === 'alt' ? ' ap-alt' : ''));
       lab.innerHTML = '<input type="checkbox" value="' + a.i + '"> <span class="ap-name">' + esc(a.name) + '</span>' +
-        ' <a class="ap-ext" href="' + new URL(a.page + '#' + a.anchor, base).href + '" title="' + (a.kind === 'alt' ? 'Open the alternate class features' : 'Open the archetype') + '" target="_blank" rel="noopener">↗</a>' +
+        ' <a class="ap-ext" href="' + new URL(a.page + '#' + (a.link || a.anchor), base).href + '" title="' + (a.kind === 'alt' ? 'Open the alternate class features' : 'Open the archetype') + '" target="_blank" rel="noopener">↗</a>' +
         (a.kind === 'alt' ? ' <span class="ap-alttag">alt · ' + esc(a.instead) + '</span>' : '') + '<span class="ap-why"></span>' + (a.banned ? ' <span class="ap-ban">banned</span>' : '');
       a.label = lab; a.box = lab.querySelector('input');
       if (a.banned) lab.classList.add('ap-banned');
@@ -257,7 +257,7 @@
       // what each archetype is about, at the top of the class features
       extra.hidden = !sel.some(function (a) { return a.intro; });
       extra.innerHTML = sel.filter(function (a) { return a.intro; }).map(function (a) {
-        return '<div class="ap-intro"><strong><a href="' + new URL(a.page + '#' + a.anchor, base).href + '">' + esc(a.name) + '</a>:</strong> ' + fixLinks(a.intro).replace(/^<p>|<\/p>$/g, '') + '</div>';
+        return '<div class="ap-intro"><strong><a href="' + new URL(a.page + '#' + (a.link || a.anchor), base).href + '">' + esc(a.name) + '</a>:</strong> ' + fixLinks(a.intro).replace(/^<p>|<\/p>$/g, '') + '</div>';
       }).join('');
       // keep the choice in the address
       var u = new URL(location.href);
