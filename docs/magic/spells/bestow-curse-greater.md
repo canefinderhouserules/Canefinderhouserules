@@ -1,7 +1,7 @@
 # Bestow Curse, Greater
 
 **School** necromancy; **Level** cleric 7, sorcerer/wizard 8, witch 7  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

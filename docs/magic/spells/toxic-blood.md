@@ -1,7 +1,7 @@
 # Toxic Blood
 
 **School** transmutation [poison]; **Level** alchemist 3, bloodrager 3, cleric 3, druid 3, magus 3, ranger 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (vial of black adder venom)  
 **Range** touch  
 **Target** creature touched  

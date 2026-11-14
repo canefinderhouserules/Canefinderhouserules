@@ -73,6 +73,8 @@ Reloading as a standard action costs 2 AP. Each improvement that makes it faster
 | Immediate action spells | 1 AP of your next turn |
 | Concentrating on or maintaining a spell | 1 AP |
 
+**Touch spells** follow the same categories: a touch spell is not weak because it needs a touch, so one whose damage grows with your level (*shocking grasp*, *vampiric touch*) or that curses, disables or poisons (*bestow curse*, *contagion*) costs 2 AP. With spell combat, a magus pays 1 AP for it, never less.
+
 There is no limit on how many spells you cast in a turn, other than your AP. Each spell's cost appears next to its casting time. **Spontaneous casters** applying a metamagic feat pay 1 extra AP instead of taking a full-round action. **Quicken Spell** lowers the cost by 1 AP (minimum 1 AP).
 
 **Haste:** a 3rd-level spell on one target and a 4th-level spell as an area (mass) version; for the medium, 2nd and 3rd level.

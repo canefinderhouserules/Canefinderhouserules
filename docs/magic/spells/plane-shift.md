@@ -1,7 +1,7 @@
 # Plane Shift
 
 **School** conjuration (teleportation); **Level** cleric 5, medium 4, psychic 5, shaman 7, sorcerer/wizard 7, spiritualist 5, summoner 5, witch 7  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a forked metal rod attuned to the plane of travel)  
 **Range** touch  
 **Target** creature touched, or up to eight willing creatures joining hands  

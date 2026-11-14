@@ -1,7 +1,7 @@
 # Plague Bearer
 
 **School** necromancy [disease, evil]; **Level** alchemist 6, antipaladin 6, cleric 6, druid 6, inquisitor 6, sorcerer/wizard 7, witch 6  
-**Casting Time** 1 standard action (1 AP)  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one living creature  
