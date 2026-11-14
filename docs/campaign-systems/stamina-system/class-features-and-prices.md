@@ -2,7 +2,7 @@
 
 ## Class Features and Their Prices
 
-Every class feature is priced as Iconic, OP, Common or Weak. Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak).
+Every class feature is priced as Iconic, OP, Common or Weak. Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **From 12th level on, the class features gained at 12th, 14th, 16th and 18th level are smaller: each one gives you only 1 Common or 2 Weak class features (never OP or Iconic).**
 
 **Limits:** you can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature). An Iconic class feature costs the same as an OP one; the category only exists to stop combinations of the strongest class features. Iconic class features are the ones that define a class or are far better than other OP class features.
 

@@ -69,13 +69,13 @@ The Warrior’s Class Skills are 8 of your choice.
 | 9th | +9/+4 | +6 | +6 | +3 |  | 6 | 5 | 4 | — | — |
 | 10th | +10/+5 | +7 | +7 | +3 | Class Feature 6 | 6 | 5 | 4 | 2 | — |
 | 11th | +11/+6/+1 | +7 | +7 | +3 |  | 6 | 5 | 4 | 3 | — |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | Class Feature 7 | 6 | 6 | 5 | 4 | — |
+| 12th | +12/+7/+2 | +8 | +8 | +4 | Class Feature 7 (Common) | 6 | 6 | 5 | 4 | — |
 | 13th | +13/+8/+3 | +8 | +8 | +4 |  | 6 | 6 | 5 | 4 | 2 |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | Class Feature 8 | 6 | 6 | 5 | 4 | 3 |
+| 14th | +14/+9/+4 | +9 | +9 | +4 | Class Feature 8 (Common) | 6 | 6 | 5 | 4 | 3 |
 | 15th | +15/+10/+5 | +9 | +9 | +5 |  | 6 | 6 | 6 | 5 | 4 |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Class Feature 9 | 6 | 6 | 6 | 5 | 4 |
+| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Class Feature 9 (Common) | 6 | 6 | 6 | 5 | 4 |
 | 17th | +17/+12/+7/+2 | +10 | +10 | +5 |  | 6 | 6 | 6 | 5 | 4 |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Class Feature 10 | 6 | 6 | 6 | 6 | 5 |
+| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Class Feature 10 (Common) | 6 | 6 | 6 | 6 | 5 |
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 |  | 6 | 6 | 6 | 6 | 5 |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Capstone | 6 | 6 | 6 | 6 | 5 |
 
@@ -92,7 +92,7 @@ This is completely experimental, but for now the only tiny rules for keeping som
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **From 12th level on, the class features gained at 12th, 14th, 16th and 18th level are smaller: each one gives you only 1 Common or 2 Weak class features (never OP or Iconic).** **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
 
 <!-- class-feature-list:warrior -->
 
@@ -134,13 +134,13 @@ The Specialist’s Class Skills are 12 of your choice.
 | 9th       | +6/+1      | +4       | +4      | +4       |                  | 6                | 5       | 4       | 4       | —       | —       | —       |
 | 10th      | +7/+2      | +4       | +4      | +4       | Class Feature 6  | 6                | 5       | 5       | 4       | 2       | —       | —       |
 | 11th      | +8/+3      | +5       | +5      | +5       |                  | 6                | 6       | 5       | 4       | 3       | —       | —       |
-| 12th      | +9/+4      | +5       | +5      | +5       | Class Feature 7  | 6                | 6       | 5       | 4       | 4       | —       | —       |
+| 12th      | +9/+4      | +5       | +5      | +5       | Class Feature 7 (Common) | 6                | 6       | 5       | 4       | 4       | —       | —       |
 | 13th      | +9/+4      | +5       | +5      | +5       |                  | 6                | 6       | 5       | 5       | 4       | 2       | —       |
-| 14th      | +10/+5     | +6       | +6      | +6       | Class Feature 8  | 6                | 6       | 6       | 5       | 4       | 3       | —       |
+| 14th      | +10/+5     | +6       | +6      | +6       | Class Feature 8 (Common) | 6                | 6       | 6       | 5       | 4       | 3       | —       |
 | 15th      | +11/+6/+1  | +6       | +6      | +6       |                  | 6                | 6       | 6       | 5       | 4       | 4       | —       |
-| 16th      | +12/+7/+2  | +6       | +6      | +6       | Class Feature 9  | 6                | 6       | 6       | 5       | 5       | 4       | 2       |
+| 16th      | +12/+7/+2  | +6       | +6      | +6       | Class Feature 9 (Common) | 6                | 6       | 6       | 5       | 5       | 4       | 2       |
 | 17th      | +12/+7/+2  | +7       | +7      | +7       |                  | 6                | 6       | 6       | 6       | 5       | 4       | 3       |
-| 18th      | +13/+8/+3  | +7       | +7      | +7       | Class Feature 10 | 6                | 6       | 6       | 6       | 5       | 4       | 4       |
+| 18th      | +13/+8/+3  | +7       | +7      | +7       | Class Feature 10 (Common) | 6                | 6       | 6       | 6       | 5       | 4       | 4       |
 | 19th      | +14/+9/+4  | +7       | +7      | +7       |                  | 6                | 6       | 6       | 6       | 5       | 5       | 4       |
 | 20th      | +15/+10/+5 | +8       | +8      | +8       | Capstone         | 6                | 6       | 6       | 6       | 6       | 5       | 5       |
 
@@ -157,7 +157,7 @@ This is completely experimental, but for now the only tiny rule for keeping some
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **From 12th level on, the class features gained at 12th, 14th, 16th and 18th level are smaller: each one gives you only 1 Common or 2 Weak class features (never OP or Iconic).** **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
 
 <!-- class-feature-list:specialist -->
 
@@ -191,13 +191,13 @@ The [Power Master]’s Class Skills are 8 of your choice.
 | 9th | +4 | +3 | +3 | +6 |  | 8 | 5 | 4 | 3 | 2 | — | — | — | — | — |
 | 10th | +5 | +3 | +3 | +7 | Class Feature 6 | 9 | 5 | 4 | 3 | 2 | 1 | — | — | — | — |
 | 11th | +5 | +3 | +3 | +7 |  | 9 | 5 | 5 | 4 | 3 | 2 | — | — | — | — |
-| 12th | +6/+1 | +4 | +4 | +8 | Class Feature 7 | 9 | 5 | 5 | 4 | 3 | 2 | 1 | — | — | — |
+| 12th | +6/+1 | +4 | +4 | +8 | Class Feature 7 (Common) | 9 | 5 | 5 | 4 | 3 | 2 | 1 | — | — | — |
 | 13th | +6/+1 | +4 | +4 | +8 |  | 9 | 5 | 5 | 4 | 4 | 3 | 2 | — | — | — |
-| 14th | +7/+2 | +4 | +4 | +9 | Class Feature 8 | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
+| 14th | +7/+2 | +4 | +4 | +9 | Class Feature 8 (Common) | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
 | 15th | +7/+2 | +5 | +5 | +9 |  | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | — | — |
-| 16th | +8/+3 | +5 | +5 | +10 | Class Feature 9 | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | — |
+| 16th | +8/+3 | +5 | +5 | +10 | Class Feature 9 (Common) | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | — |
 | 17th | +8/+3 | +5 | +5 | +10 |  | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 18th | +9/+4 | +6 | +6 | +11 | Class Feature 10 | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 1 |
+| 18th | +9/+4 | +6 | +6 | +11 | Class Feature 10 (Common) | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 1 |
 | 19th | +9/+4 | +6 | +6 | +11 |  | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +10/+5 | +6 | +6 | +12 | Capstone | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
 
@@ -217,7 +217,7 @@ This is completely experimental, but for now the only tiny rule for keeping some
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **From 12th level on, the class features gained at 12th, 14th, 16th and 18th level are smaller: each one gives you only 1 Common or 2 Weak class features (never OP or Iconic).** **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
 
 <!-- class-feature-list:consular -->
 
@@ -236,7 +236,7 @@ These favored class bonuses belong to this subsystem's three classes. Each time 
 
 ## Class Features and Their Prices
 
-Every class feature is priced as Iconic, OP, Common or Weak. Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak).
+Every class feature is priced as Iconic, OP, Common or Weak. Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **From 12th level on, the class features gained at 12th, 14th, 16th and 18th level are smaller: each one gives you only 1 Common or 2 Weak class features (never OP or Iconic).**
 
 **Limits:** you can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature). An Iconic class feature costs the same as an OP one; the category only exists to stop combinations of the strongest class features. Iconic class features are the ones that define a class or are far better than other OP class features.
 
