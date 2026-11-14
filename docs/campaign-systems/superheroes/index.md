@@ -1,7 +1,7 @@
-# Stamina System
+# Superhero Subsystem
 
 !!! warning "House system"
-    An optional alternative to spell slots. Characters have a stamina pool instead, and abilities cost stamina. Experimental and open to negotiation with the GM.
+    A subsystem for superhero campaigns, in the style of comic-book heroes with superpowers. Instead of spell slots, characters have a stamina pool, and their powers cost stamina. Experimental and open to negotiation with the GM.
 
 **Stamina:** a fixed number (by class type) × level, plus the casting ability modifier × level (like hit points with Constitution, but using the ability that suits the power).
 
