@@ -335,6 +335,8 @@ function archetypes(entry, units) {
   }
   for (const p of parts) {
     const name = p.match(/^## (.+)/)[1].trim();
+    // a section of alternate class features: each option is its own entry, so several can be mixed with archetypes
+    if (/Altern(ate|ative) Class Features$/i.test(name)) { res.push(...altFeatures(name, p.split('\n').slice(1).join('\n'), file, units, bs)); continue; }
     const ov = (OVERRIDES[CLS] || {})[name] || {};
     if (ov._skip) continue;
     const body = p.split('\n').slice(1).join('\n');
@@ -415,6 +417,43 @@ function archetypes(entry, units) {
     res.push(Object.assign({ name, anchor: slug(name), page: siteUrl(file), intro: intro.length ? html(file, intro[0]) : '', abilities }, /^!!! danger "Banned"/m.test(body) ? { banned: true } : {}, excl.length ? { excl } : {}, allow.length ? { allow } : {}));
   }
   return res;
+}
+
+// "## X Alternate Class Features": groups headed by a bold line ("**Blessing of the Faith**") and
+// "The following options can be taken in place of ...", then one bold-named paragraph per option.
+function altFeatures(section, body, file, units, bs) {
+  const paras = body.split(/\n\s*\n/).map(x => x.trim()).filter(Boolean);
+  const groups = []; let head = null, g = null;
+  for (const para of paras) {
+    const only = para.match(/^\*\*([^*]+?):?\*\*:?$/);
+    const place = plain(para).match(/(?:can be taken|are available|may be taken)?\s*in place of (.+?)[.:]?$/i);
+    const m = para.match(/^\*\*([^*]+?):?\*\*:?\s*([\s\S]+)$/);
+    if (only) { head = only[1].trim(); continue; }
+    if (place && !m && head) { g = { title: head, phrase: place[1], opts: [] }; groups.push(g); continue; }
+    if (!g) continue;
+    const prev = g.opts[g.opts.length - 1];
+    if (m && /^AC Bonus/i.test(m[1]) && prev) prev.md += '\n\n- **' + m[1].trim() + '**: ' + m[2].replace(/\n+/g, ' ');
+    else if (m) g.opts.push({ name: m[1].trim(), md: m[2] });
+    else if (prev) prev.md += '\n\n' + para.replace(/^\*([^*]+?)\*:?\s*/, '- **$1**: ');
+  }
+  const all = groups.flatMap(x => x.opts.map(o => o.name));
+  const out = [];
+  for (const x of groups) {
+    const phrase = x.phrase.replace(/^the legendary [\w-]+[’']s (normal )?/i, '').replace(/ class feature$/i, '');
+    let ids = resolve(phrase, units, bs).ids;
+    if (!ids.length) ids = resolve(x.title, units, bs).ids;
+    if (!ids.length && /proficien/i.test(phrase)) { const p = bs.find(b => /proficien/.test(b)); if (p) ids = units.filter(u => u.base === p).map(u => u.id); }
+    x.opts.forEach((o, i) => {
+      const inGroup = x.opts.filter(y => y.name === o.name).length > 1;
+      const name = o.name + (inGroup ? ' ' + String.fromCharCode(65 + x.opts.filter((y, j) => j < i && y.name === o.name).length) : '') +
+        (all.filter(n => n === o.name).length > x.opts.filter(y => y.name === o.name).length ? ' (' + x.title + ')' : '');
+      const t = plain(o.md);
+      const lv = t.match(new RegExp('(?:^|\\b)(?:At|Starting at|Beginning at)\\s+' + ORD + '(?:\\s+level)?', 'i'));
+      out.push({ name, kind: 'alt', instead: x.title, anchor: slug(section), page: siteUrl(file), intro: '',
+        abilities: [{ name, lvl: /proficien/i.test(x.title) ? 1 : lv ? +lv[1] : ((units.find(u => u.id === ids[0]) || {}).lvl || null), html: html(file, o.md), replaces: ids, modifies: [], miss: [] }] });
+    });
+  }
+  return out;
 }
 
 module.exports = { CLASSES, classUnits, archetypes, resolve, references, bases, plain, norm, setClass: c => { CLS = c; } };
