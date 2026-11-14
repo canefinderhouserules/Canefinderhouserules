@@ -51,27 +51,27 @@ The myths of one ancient island nation tell of powerful (and often vengeful) wit
 
 ### Hexes
 
-**Combat Hypnosis (Su)**: The witch can lull her enemies into a trance, even in the chaos of combat. This hex functions as [*hypnotism*](../../magic/spells/hypnotism.md), except it can affect only one creature at a time, and the target creature does not receive the usual +2 bonus on its saving throw while in combat. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+**Combat Hypnosis (Su)**: (1 AP) The witch can lull her enemies into a trance, even in the chaos of combat. This hex functions as [*hypnotism*](../../magic/spells/hypnotism.md), except it can affect only one creature at a time, and the target creature does not receive the usual +2 bonus on its saving throw while in combat. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
 **Dark Apothecary (Ex)**: The witches of ancient times were masters of herbalism, crafting potent drugs and poisons. The witch receives a +4 insight bonus on checks to craft and apply poison.
 
 **Minor Prophecy (Su)**: The witch can call on her prophetic ancestors to cast [*augury*](../../magic/spells/augury.md) once per day. She can spend a full hour casting the spell to negate the need for material components, but this reduces the accuracy of the spell by 5%.
 
-**Swine (Su)**: The witch can partially transform an enemy into a pig. The effects of the transformation are mostly cosmetic and do not change the creature's size category or overall shape, but the affected creature takes a –2 penalty on Will saving throws for a number of rounds equal to the witch's Intelligence modifier (Will negates). At 8th level, the affected creature's hands (or paws) turn into hooves, preventing it from using claw attacks or taking any action that would require the creature to use its fingers.
+**Swine (Su)**: (1 AP) The witch can partially transform an enemy into a pig. The effects of the transformation are mostly cosmetic and do not change the creature's size category or overall shape, but the affected creature takes a –2 penalty on Will saving throws for a number of rounds equal to the witch's Intelligence modifier (Will negates). At 8th level, the affected creature's hands (or paws) turn into hooves, preventing it from using claw attacks or taking any action that would require the creature to use its fingers.
 
 ### Major Hexes
 
-**Beast's Gift (Su)**: The witch can use her magic to grant her allies ferocious animal abilities. The witch can partially transform a willing ally, granting him natural attacks for a number of minutes equal to the witch's level. Choose one: the creature gains one bite attack that deals 1d8 points of damage and one secondary attack of the witch's choice that deals 1d6 points of damage, or the creature gains two claw attacks that deal 1d4 points of damage each. These attacks follow the standard rules for natural attacks.
+**Beast's Gift (Su)**: (1 AP) The witch can use her magic to grant her allies ferocious animal abilities. The witch can partially transform a willing ally, granting him natural attacks for a number of minutes equal to the witch's level. Choose one: the creature gains one bite attack that deals 1d8 points of damage and one secondary attack of the witch's choice that deals 1d6 points of damage, or the creature gains two claw attacks that deal 1d4 points of damage each. These attacks follow the standard rules for natural attacks.
 
-**Drugged (Su)**: The witch can combine her magic with her poisons to weaken her enemies' minds. When the witch creates a poison, she can require the target of the poison to attempt a Will save rather than a Fortitude save. The witch must use this hex when she crafts the poison, and once used, the hex can't be undone without remaking the poison.
+**Drugged (Su)**: (1 AP) The witch can combine her magic with her poisons to weaken her enemies' minds. When the witch creates a poison, she can require the target of the poison to attempt a Will save rather than a Fortitude save. The witch must use this hex when she crafts the poison, and once used, the hex can't be undone without remaking the poison.
 
-**False Hospitality (Su)**: These witches are known for greeting travelers with warmth only to reveal their powers once their enemies have lowered their defenses. A witch can use this hex to gain the benefits of [*glibness*](../../magic/spells/glibness.md) with a caster level equal to the witch's level. This hex can be used once per day.
+**False Hospitality (Su)**: (1 AP) These witches are known for greeting travelers with warmth only to reveal their powers once their enemies have lowered their defenses. A witch can use this hex to gain the benefits of [*glibness*](../../magic/spells/glibness.md) with a caster level equal to the witch's level. This hex can be used once per day.
 
 **Prophecy (Su)**: The witch can call on her prophetic ancestors and cast [*divination*](../../magic/spells/divination.md) once per day. She can spend a full hour casting the spell in place of providing the usual material components.
 
 ### Grand Hex
 
-**Animal Servant (Su)**: The witch can use this hex to turn a humanoid enemy into an animal and rob it of its free will. The transformation works as *beast shape II* and is negated by a successful Will save. The transformed creature retains its Intelligence score and known languages, if any, but the witch controls its mind. This effect functions as [*dominate monster*](../../magic/spells/dominate-monster.md), except the creature does not receive further saving throws to resist the hex. The effect can be removed only with [*wish*](../../magic/spells/wish.md) or similar magic, although slaying the witch also ends the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+**Animal Servant (Su)**: (2 AP) The witch can use this hex to turn a humanoid enemy into an animal and rob it of its free will. The transformation works as *beast shape II* and is negated by a successful Will save. The transformed creature retains its Intelligence score and known languages, if any, but the witch controls its mind. This effect functions as [*dominate monster*](../../magic/spells/dominate-monster.md), except the creature does not receive further saving throws to resist the hex. The effect can be removed only with [*wish*](../../magic/spells/wish.md) or similar magic, although slaying the witch also ends the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
 ## Psychic Phrenic Amplifications
 

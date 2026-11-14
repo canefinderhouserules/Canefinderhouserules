@@ -184,7 +184,7 @@ If your target is two size categories larger than the friendly characters it is 
 
 *Precise Shot*: If you have the Precise Shot feat, you don’t take this penalty.
 
-**Fighting Defensively as a Standard Action (1 AP)**: You can choose to fight defensively when attacking. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC until the start of your next turn.
+**Fighting Defensively as a Standard Action**: You can choose to fight defensively when attacking. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC until the start of your next turn.
 
 **Critical Hits**: When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target’s Armor Class, and you have scored a “threat,” meaning the hit might be a critical hit (or “crit”). To find out if it’s a critical hit, you immediately make an attempt to “confirm” the critical hit—another attack roll with all the same modifiers as the attack roll you just made. If the confirmation roll also results in a hit against the target’s AC, your original hit is a critical hit. (The critical roll just needs to hit to give you a crit, it doesn’t need to come up 20 again.) If the confirmation roll is a miss, then your hit is just a regular hit.
 
@@ -320,7 +320,7 @@ If you get multiple attacks because your base attack bonus is high enough, you m
 
 **Deciding between an Attack or a Full Attack**: After your first attack, you can decide to take a move action (1 AP) instead of making your remaining attacks, depending on how the first attack turns out and assuming you have not already taken a move action (1 AP) this round. If you’ve already taken a 5-foot step, you can’t use your move action (1 AP) to move any distance, but you could still use a different kind of move action (1 AP).
 
-**Fighting Defensively as a Full-Round Action (3 AP)**: You can choose to fight defensively when taking a full-attack action. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC until the start of your next turn.
+**Fighting Defensively as a Full-Round Action**: You can choose to fight defensively when taking a full-attack action. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC until the start of your next turn.
 
 ??? tip apr "Action Points (optional rule)"
     There is no full attack: each attack costs 1 AP, and the second and third attacks of a turn take –5 and –10. See [Attacks](../combat-variants/action-points.md#attacks).

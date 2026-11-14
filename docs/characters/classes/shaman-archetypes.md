@@ -6,7 +6,7 @@ The following options and archetypes are available to the shaman.
 
 The following hex is available to shamans and uses the standard rules for shaman hexes.
 
-**Silkstring Snare (Su)**: The shaman causes ribbons of spider silk to erupt from the ground beneath a single creature. The target must succeed at a Reflex save or be [entangled](../../rules/appendices/conditions.md#entangled) and anchored in place. The foe can escape the silk as a standard action (1 AP) with a successful [Escape Artist](../../rules/skills/escape-artist.md) or Strength check at the same DC, or by dealing an amount of damage to the silk equal to double the shaman's class level (the silk has hardness 0). This hex lasts a number of rounds equal to 3 + the shaman's Wisdom modifier. A creature affected by this hex cannot be affected by it again for 24 hours.
+**Silkstring Snare (Su)**: (2 AP) The shaman causes ribbons of spider silk to erupt from the ground beneath a single creature. The target must succeed at a Reflex save or be [entangled](../../rules/appendices/conditions.md#entangled) and anchored in place. The foe can escape the silk as a standard action (1 AP) with a successful [Escape Artist](../../rules/skills/escape-artist.md) or Strength check at the same DC, or by dealing an amount of damage to the silk equal to double the shaman's class level (the silk has hardness 0). This hex lasts a number of rounds equal to 3 + the shaman's Wisdom modifier. A creature affected by this hex cannot be affected by it again for 24 hours.
 
 ## Animist
 

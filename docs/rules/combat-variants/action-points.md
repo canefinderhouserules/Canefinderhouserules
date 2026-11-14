@@ -42,11 +42,11 @@ Each character has **3 AP** on its turn. Standard, move and swift actions stop b
 
 **Two-Weapon Fighting:** 2 AP for one attack with each weapon, both at –2. A third attack that turn takes –10. With Improved Two-Weapon Fighting the third attack takes –5 instead, and once your base attack bonus is high enough for Greater Two-Weapon Fighting all three attacks take –2.
 
-**Rapid Shot:** works like Two-Weapon Fighting: 2 AP for two shots at –2, and a third shot that turn at –10. **Manyshot** works as it does now.
+**Rapid Shot:** works like Two-Weapon Fighting: 2 AP for two shots at –2, and a third shot that turn at –10. **Manyshot** costs 2 AP for one bow attack that fires two arrows; with Rapid Shot, all your bow attacks that turn take –2 (Manyshot plus one more shot: three arrows, all at –2).
 
 **Flurry of blows:** the unchained monk's flurry gives two attacks with no penalty for 2 AP, and a third attack that turn takes –10. The monk (core) works like Two-Weapon Fighting (–2) but uses his monk level as his base attack bonus, as now. **Ki extra attack:** spending 1 ki point makes the third attack of the turn take no penalty instead of –10; it still costs 1 AP.
 
-**Other attack feats:** Vital Strike (any version) costs 2 AP. Cleave, Whirlwind Attack and Spring Attack cost 2 AP.
+**Other attack feats:** Vital Strike (any version) costs 2 AP. Cleave, Whirlwind Attack and Spring Attack cost 2 AP; the attacks of Cleave and Whirlwind Attack take no multiple attack penalty among themselves.
 
 **Natural attacks:** each different natural attack you have is one attack with no MAP, up to three (a bite and two claws: three attacks with no penalty). Repeated ones do not avoid the MAP (two claws: two attacks with no penalty and a third at –10; a single bite takes the MAP like any weapon). Secondary natural attacks keep their –5 and half Strength to damage. A creature with more than three natural attacks has a special 3 AP action to attack with all of them.
 
@@ -80,7 +80,7 @@ There is no limit on how many spells you cast in a turn, other than your AP. Eac
 ## Class Features
 
 - **Anything a feat or class feature does as a standard, move or swift action costs 1 AP.**
-- **Supernatural and spell-like abilities that work like a spell** (hexes, channel energy, wild shape, lay on hands…) cost what that kind of spell costs: 2 AP to control or to deal damage in an area, 1 AP for buffs and weak effects. Abilities that are attacks (kinetic blast, bombs) cost 1 AP each and take the MAP.
+- **Supernatural and spell-like abilities that work like a spell** (hexes, channel energy, wild shape, lay on hands…) cost what that kind of spell costs: 2 AP to control or to deal damage in an area, 1 AP for buffs and weak effects. Each hex shows its cost at the start of its text. Abilities that are attacks (kinetic blast, bombs) cost 1 AP each and take the MAP.
 - **Faster actions:** when a class feature makes an action faster, the cost drops 1 AP if it started at 2 AP or more. An action that already costs 1 AP stays at 1 AP when it becomes a swift action. Anything that becomes a free action is free.
 - **Bardic performance:** starting a performance costs 2 AP, and 1 AP once the bard can start it as a move or swift action.
 - **Fervor:** gives 1 free extra AP each turn that can only be spent casting spells on yourself.

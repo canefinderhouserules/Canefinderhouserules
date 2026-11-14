@@ -99,7 +99,7 @@ A shaman can spontaneously cast a limited number of spells per day beyond those 
 
 A shaman learns a number of magical tricks, called hexes, which grant her powers or weaken foes. At 2nd level, a shaman learns one hex. At 4th, 8th, 10th, 12th, 16th, 18th, and 20th level, the shaman learns new hexes. A shaman can select from any of the following hexes or from any of the hexes listed in the description of her chosen spirit. A shaman cannot select a hex more than once unless noted otherwise.
 
-Using a hex is a standard action (1 AP) that doesn't provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
+Using a hex is a standard action, which costs (1 AP) or (2 AP) as marked on each hex that doesn't provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
 
 #### Chant (Ex)
 
@@ -107,11 +107,11 @@ A shaman can chant as a move action (1 AP). Any creature that is within 30 feet 
 
 #### Charm (Su)
 
-A shaman charms an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the shaman had successfully used the [Diplomacy](../../rules/skills/diplomacy.md) skill. The effect lasts for a number of rounds equal to the shaman's Wisdom modifier (minimum 1). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours. At 8th level, this effect improves the attitude of the creature by 2 steps. This is a mind-affecting charm effect.
+(2 AP) A shaman charms an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the shaman had successfully used the [Diplomacy](../../rules/skills/diplomacy.md) skill. The effect lasts for a number of rounds equal to the shaman's Wisdom modifier (minimum 1). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours. At 8th level, this effect improves the attitude of the creature by 2 steps. This is a mind-affecting charm effect.
 
 #### Evil Eye (Su)
 
-The shaman causes doubt to creep into the mind of a foe within 30 feet that she can see. The target takes a-2 penalty on one of the following (shaman's choice): ability checks, AC, attack rolls, saving throws, or skill checks. This hex lasts a number of rounds equal to 3 + the shaman's Wisdom modifier. A successful Will saving throw reduces this to just 1 round. At 8th level, the penalty increases to -4.
+(1 AP) The shaman causes doubt to creep into the mind of a foe within 30 feet that she can see. The target takes a-2 penalty on one of the following (shaman's choice): ability checks, AC, attack rolls, saving throws, or skill checks. This hex lasts a number of rounds equal to 3 + the shaman's Wisdom modifier. A successful Will saving throw reduces this to just 1 round. At 8th level, the penalty increases to -4.
 
 #### Fetish (Ex)
 
@@ -119,19 +119,19 @@ The shaman receives [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.
 
 #### Fortune (Su)
 
-The shaman grants a creature within 30 feet a bit of good luck for 1 round. The target can call upon this good luck once per round, allowing it to reroll any ability check, attack roll, saving throw, or skill check, taking the better result. The target creature must to decide to use this ability before the first roll is made. At 8th and 16th levels, the duration of this hex increases by 1 round. Once a creature has benefited from the fortune hex, it cannot benefit from it again for 24 hours.
+(1 AP) The shaman grants a creature within 30 feet a bit of good luck for 1 round. The target can call upon this good luck once per round, allowing it to reroll any ability check, attack roll, saving throw, or skill check, taking the better result. The target creature must to decide to use this ability before the first roll is made. At 8th and 16th levels, the duration of this hex increases by 1 round. Once a creature has benefited from the fortune hex, it cannot benefit from it again for 24 hours.
 
 #### Fury (Su)
 
-A shaman incites a creature within 30 feet into a primal fury. The target receives a +2 morale bonus on attack rolls and a +2 resistance bonus on saving throws against fear for a number of rounds equal to the shaman's Wisdom modifier. At 8th and 16th levels, these bonuses increase by 1 Once a creature has benefited from the fury hex, it cannot benefit from it again for 24 hours.
+(1 AP) A shaman incites a creature within 30 feet into a primal fury. The target receives a +2 morale bonus on attack rolls and a +2 resistance bonus on saving throws against fear for a number of rounds equal to the shaman's Wisdom modifier. At 8th and 16th levels, these bonuses increase by 1 Once a creature has benefited from the fury hex, it cannot benefit from it again for 24 hours.
 
 #### Healing (Su)
 
-A shaman soothes the wounds of those she touches. This acts as cure light wounds, using the shaman's caster level. Once a creature has benefited from the healing hex, it cannot benefit from it again for 24 hours. At 5th level, this acts as cure moderate wounds.
+(1 AP) A shaman soothes the wounds of those she touches. This acts as cure light wounds, using the shaman's caster level. Once a creature has benefited from the healing hex, it cannot benefit from it again for 24 hours. At 5th level, this acts as cure moderate wounds.
 
 #### Misfortune (Su)
 
-The shaman causes a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A successful Will saving throw negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
+(1 AP) The shaman causes a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A successful Will saving throw negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
 
 #### Secret (Ex)
 
@@ -147,7 +147,7 @@ The shaman understands any spoken language for a number of minutes per day equal
 
 #### Ward (Su)
 
-The shaman places a protective ward over one creature. The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This effect lasts until the warded creature is hit or fails a saving throw. A shaman knows when a warded creature is no longer protected. A shaman can have only one ward active at a time. If the shaman uses this hex while a previous ward is still active, that previous ward immediately ends. A shaman cannot use this ability on herself. At 8th and 16th levels, the bonuses provided by this ward increase by 1 Witch Hex: The shaman selects any one hex normally available through the [witch's hex](witch.md#hex) class feature. She treats her shaman level as her witch level when determining the powers and abilities of the hex. She uses her Wisdom modifier in place of her Intelligence modifier for the hex. She cannot select major hexes or grand hexes using this ability. The shaman cannot select a witch hex that has the same name as a shaman hex.
+(1 AP) The shaman places a protective ward over one creature. The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This effect lasts until the warded creature is hit or fails a saving throw. A shaman knows when a warded creature is no longer protected. A shaman can have only one ward active at a time. If the shaman uses this hex while a previous ward is still active, that previous ward immediately ends. A shaman cannot use this ability on herself. At 8th and 16th levels, the bonuses provided by this ward increase by 1 Witch Hex: The shaman selects any one hex normally available through the [witch's hex](witch.md#hex) class feature. She treats her shaman level as her witch level when determining the powers and abilities of the hex. She uses her Wisdom modifier in place of her Intelligence modifier for the hex. She cannot select major hexes or grand hexes using this ability. The shaman cannot select a witch hex that has the same name as a shaman hex.
 
 ### Wandering Spirit (Su)
 
