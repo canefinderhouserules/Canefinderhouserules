@@ -314,6 +314,8 @@ function references(text, units, bs) {
 // ---- archetypes ----
 // Sections of archetype pages that are lists of options (rage powers, bloodlines, mysteries...), not archetypes.
 const OPTION_LIST = /\b(powers|discover(y|ies)|hex(es)?|bloodlines|wildblooded|mysteries|masterpieces|inquisitions|domains|traps|arcana|talents|spirits|orders|channeling|companions|vows|sagas|schools|dares|combat styles?|mercies|divine bonds|models|anointings|blades|spellcasting vigilantes|weapon groups?|weapon group members|oaths?|evolutions|patron themes|patron spells|base forms?)\b|^order of |orders$/i;
+const ADDS = /\badd(?:s|ed)?\b[^.]{0,120}?\bto (?:the |his |her |their |its )?(?:[\w’' -]{0,40} )?lists?\b|\b(?:can|may) (?:also|additionally) (?:select|choose|take|learn|pick|gain)\b|\bin addition to (?:the |his |her |their |its )?(?:normal|usual|other|regular)\b|\badded to (?:the |his |her |their |its )?(?:[\w’' -]{0,40} )?lists?\b|\bas (?:an )?additional (?:option|choice)s?\b/i;
+const TAKES = /\b(instead|remov\w*|except|must be (?:chosen|selected)|only|from the following list|rather than|in place of|cannot|can ?not|can[’']t|no longer|loses?|lost|only (?:select|choose|gain|take|use)|reduc\w*|decreas\w*|replac\w*|must (?:select|choose)|does not gain|doesn[’']t gain|in exchange|fewer|penalty|limited to|restricted)\b/i;
 function archetypes(entry, units) {
   const file = fileOf(entry);
   const keep = n => (!entry.only || entry.only.includes(n)) && !(entry.except || []).includes(n);
@@ -399,7 +401,9 @@ function archetypes(entry, units) {
         if ('modifies' in o) r.modifies = o.modifies ? resolve(o.modifies, units, bs).ids : [];
         r.miss = [];
       }
-      return { name: a.name, lvl: o && o.lvl ? o.lvl : lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss };
+      // a change that only adds options or benefits to a feature, taking nothing away ("adds X to the list", "can also select")
+      const adds = o && 'adds' in o ? o.adds : r.modifies.length && ADDS.test(t) && !TAKES.test(t);
+      return Object.assign({ name: a.name, lvl: o && o.lvl ? o.lvl : lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss }, adds ? { adds: true } : {});
     });
     // sections of the page that are not archetypes (rage powers, bloodlines, schools...) change no class feature
     // (a long list where few entries replace anything is a list of options like bloodlines or mysteries)
