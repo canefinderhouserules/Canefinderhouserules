@@ -1,7 +1,7 @@
 # Disguise Weapon
 
 **School** illusion (glamer); **Level** bard 1, magus 1, medium 1, mesmerist 1, occultist 1, psychic 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** manufactured weapon touched  

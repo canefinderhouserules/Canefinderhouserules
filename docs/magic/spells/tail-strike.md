@@ -1,7 +1,7 @@
 # Tail Strike
 
 **School** transmutation [draconic]; **Level** alchemist 4, antipaladin 3, bloodrager 3, medium 3, paladin 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a dragon scale)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Neutral Buoyancy
 
 **School** evocation; **Level** alchemist 2, bard 2, druid 2, hunter 2, investigator 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a bag of air), DF  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Unseen Crew
 
 **School** conjuration (creation); **Level** bard 4, sorcerer/wizard 5, summoner 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** one invisible sailor per level  

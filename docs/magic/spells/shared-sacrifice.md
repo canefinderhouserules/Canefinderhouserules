@@ -1,7 +1,7 @@
 # Shared Sacrifice
 
 **School** necromancy [evil]; **Level** antipaladin 3, cleric 2, shaman 2, summoner 3, witch 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

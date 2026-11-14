@@ -44,3 +44,4 @@ extra_javascript:
   - javascripts/deep-search.js
   - javascripts/spell-search.js
   - javascripts/archetype-picker.js
+  - javascripts/action-points.js

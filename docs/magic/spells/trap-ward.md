@@ -1,7 +1,7 @@
 # Trap Ward
 
 **School** abjuration; **Level** sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (masterwork thieves’ tools worth 100 gp)  
 **Range** personal  
 **Target** you  

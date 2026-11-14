@@ -1,7 +1,7 @@
 # Healing Flames
 
 **School** conjuration (healing) [fire, good]; **Level** cleric 4, inquisitor 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Area** 10-ft.-radius burst, centered on you  
 **Duration** instantaneous  

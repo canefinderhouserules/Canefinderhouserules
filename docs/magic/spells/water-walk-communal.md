@@ -1,7 +1,7 @@
 # Water Walk, Communal
 
 **School** transmutation [water]; **Level** cleric 2, psychic 4, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creatures touched  

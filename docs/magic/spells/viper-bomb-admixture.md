@@ -1,7 +1,7 @@
 # Viper Bomb Admixture
 
 **School** conjuration (creation); **Level** alchemist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Seismic Fissure
 
 **School** transmutation [earth]; **Level** druid 7, shaman 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** 10-ft.-by-80-ft. fissure in the earth, 40 ft. deep  

@@ -1,7 +1,7 @@
 # Shield of Shards
 
 **School** transmutation; **Level** bloodrager 1, cleric 2, inquisitor 2, magus 2, medium 2, paladin 1, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a shield)  
 **Range** personal  
 **Target** one shield you wield  

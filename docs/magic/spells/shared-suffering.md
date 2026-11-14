@@ -1,7 +1,7 @@
 # Shared Suffering
 
 **School** necromancy [evil]; **Level** antipaladin 2, inquisitor 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, F (a silver dagger inlaid with onyx and jade worth 100 gp)  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one living creature  

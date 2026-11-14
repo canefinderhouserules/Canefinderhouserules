@@ -1,7 +1,7 @@
 # Death Ward
 
 **School** necromancy; **Level** alchemist 4, cleric 4, druid 5, inquisitor 4, medium 4, occultist 4, paladin 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** living creature touched  

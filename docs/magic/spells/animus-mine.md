@@ -1,7 +1,7 @@
 # Animus Mine
 
 **School** abjuration [mind-affecting]; **Level** mesmerist 2, psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Duration** 1 hour/level or until discharged  

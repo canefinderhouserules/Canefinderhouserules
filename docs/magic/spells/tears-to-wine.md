@@ -1,7 +1,7 @@
 # Tears to Wine
 
 **School** transmutation; **Level** alchemist 1, bard 1, cleric 2, druid 1, medium 1, occultist 1, shaman 1, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a single grape)  
 **Range** 10 ft.  
 **Target** 1 cu. ft./2 levels of liquid (see text)  

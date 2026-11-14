@@ -1,7 +1,7 @@
 # Hairline Fractures
 
 **School** transmutation [earth]; **Level** cleric 1, druid 1, shaman 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a broken twig)  
 **Range** touch  
 **Target** 5-foot-square section of stone or a creature with the earth subtype  

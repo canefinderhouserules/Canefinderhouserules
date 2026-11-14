@@ -1,7 +1,7 @@
 # Pressure Adaptation
 
 **School** abjuration; **Level** alchemist 3, bloodrager 3, cleric 3, druid 3, hunter 3, investigator 3, oracle 3, psychic 3, ranger 3, shaman 3, summoner (unchained) 3, summoner 3, warpriest 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (slime from a cephalopod)  
 **Range** touch  
 **Target** creature touched  

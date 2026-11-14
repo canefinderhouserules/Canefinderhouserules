@@ -1,7 +1,7 @@
 # Read Magic
 
 **School** divination; **Level** antipaladin 1, bard 0, cleric 0, druid 0, inquisitor 0, magus 0, medium 0, mesmerist 0, occultist 0, paladin 1, psychic 0, ranger 1, shaman 0, sorcerer/wizard 0, spiritualist 0, summoner 0, witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a clear crystal or mineral prism)  
 **Range** personal  
 **Target** you  

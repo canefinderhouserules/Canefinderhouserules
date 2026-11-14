@@ -1,7 +1,7 @@
 # Caustic Safeguard
 
 **School** abjuration [acid]; **Level** alchemist 3, bloodrager 3, magus 3, sorcerer/wizard 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a thin metal wire and a vial of acid)  
 **Range** touch  
 **Target** object touched  

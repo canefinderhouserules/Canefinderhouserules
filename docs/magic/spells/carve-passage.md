@@ -1,7 +1,7 @@
 # Carve Passage
 
 **School** transmutation [earth]; **Level** druid 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a tiny diamond pick worth 500 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** dirt or loose rock in one 5-ft. cube/level  

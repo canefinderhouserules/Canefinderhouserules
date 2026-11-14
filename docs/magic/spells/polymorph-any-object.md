@@ -1,7 +1,7 @@
 # Polymorph Any Object
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (mercury, gum arabic, and smoke)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature, or one nonmagical object of up to 100 cu. ft./level  

@@ -1,7 +1,7 @@
 # Locate Object
 
 **School** divination; **Level** bard 2, cleric 3, inquisitor 3, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a forked twig)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** circle, centered on you, with a radius of 400 ft. + 40 ft./level  

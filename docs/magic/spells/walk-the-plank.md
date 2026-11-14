@@ -1,7 +1,7 @@
 # Walk the Plank
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a shark tooth and a splinter of a ship's hull)  
 **Range** close (25 ft. + 5 ft./level)  
 **Effect** 20-ft.-by-20-ft. hole, 10 ft. deep/4 levels  

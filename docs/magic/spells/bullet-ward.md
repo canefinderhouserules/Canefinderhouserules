@@ -1,7 +1,7 @@
 # Bullet Ward
 
 **School** abjuration; **Level** antipaladin 2, bard 2, inquisitor 2, paladin 2, psychic 2, ranger 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (one to four adamantine bullets, each worth 61 gp)  
 **Range** personal  
 **Target** you  

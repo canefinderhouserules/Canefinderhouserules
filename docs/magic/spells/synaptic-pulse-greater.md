@@ -1,7 +1,7 @@
 # Synaptic Pulse, Greater
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** mesmerist 4, psychic 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** 30 ft.  
 **Area** 30-ft.-radius spread centered on you  

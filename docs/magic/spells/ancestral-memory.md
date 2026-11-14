@@ -1,7 +1,7 @@
 # Ancestral Memory
 
 **School** divination; **Level** alchemist 5, cleric 5, druid 4, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

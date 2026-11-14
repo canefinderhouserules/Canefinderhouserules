@@ -1,7 +1,7 @@
 # Evaluator's Lens
 
 **School** conjuration (creation); **Level** inquisitor 2, occultist 3, sorcerer/wizard 3, summoner 2, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Duration** 1 minute/level or until discharged

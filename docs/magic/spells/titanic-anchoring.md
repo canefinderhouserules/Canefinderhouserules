@@ -1,7 +1,7 @@
 # Titanic Anchoring
 
 **School** transmutation; **Level** antipaladin 3, bloodrager 3, cleric 3, magus 3, paladin 3, ranger 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a shaving of oak root)  
 **Range** personal  
 **Target** you  

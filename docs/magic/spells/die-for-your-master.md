@@ -1,7 +1,7 @@
 # Die for Your Master
 
 **School** enchantment (compulsion); **Level** antipaladin 4, druid 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** touch  
 **Target** your animal companion, familiar, or fiendish servant  

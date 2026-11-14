@@ -1,7 +1,7 @@
 # Debilitating Portent
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 4, psychic 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

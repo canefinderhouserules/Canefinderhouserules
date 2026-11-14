@@ -1,7 +1,7 @@
 # Spell Immunity
 
 **School** abjuration; **Level** alchemist 4, cleric 4, inquisitor 4, occultist 4, psychic 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

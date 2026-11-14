@@ -1,7 +1,7 @@
 # Blade Tutor's Spirit
 
 **School** conjuration (creation); **Level** antipaladin 2, magus 1, paladin 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

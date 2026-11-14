@@ -1,7 +1,7 @@
 # Spore Burst
 
 **School** conjuration [poison]; **Level** druid 2, ranger 3, shaman 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a tiny puffball mushroom)  
 **Range** touch  
 **Target** one plant creature; see text  

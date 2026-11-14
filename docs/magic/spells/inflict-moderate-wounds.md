@@ -1,7 +1,7 @@
 # Inflict Moderate Wounds
 
 **School** necromancy; **Level** antipaladin 3, cleric 2, inquisitor 2, occultist 2, shaman 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

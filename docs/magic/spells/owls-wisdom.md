@@ -1,7 +1,7 @@
 # Owl’s Wisdom
 
 **School** transmutation; **Level** alchemist 2, cleric 2, druid 2, medium 2, paladin 2, psychic 2, ranger 2, shaman 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (feathers or droppings from an owl)  
 **Range** touch  
 **Target** creature touched  

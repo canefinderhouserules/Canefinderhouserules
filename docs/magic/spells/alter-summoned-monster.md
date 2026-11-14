@@ -1,7 +1,7 @@
 # Alter Summoned Monster
 
 **School** conjuration (summoning); **Level** antipaladin 2, bard 2, cleric 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one summoned creature  

@@ -1,7 +1,7 @@
 # Tar Pool
 
 **School** transmutation [earth, fire]; **Level** druid 6, sorcerer/ wizard 6, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a ball of hardened tar)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 20-ft.-radius burst  

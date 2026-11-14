@@ -1,7 +1,7 @@
 # Retrieve Item
 
 **School** conjuration (calling); **Level** bard 2, sorcerer/wizard 2  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** an unattended object weighing 1 lb. or less whose longest dimension is 6 inches or less  

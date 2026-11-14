@@ -1,7 +1,7 @@
 # Detect Metal
 
 **School** divination; **Level** alchemist 1, bard 1, sorcerer/wizard 1, summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a magnetized nail or nugget of ore)  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

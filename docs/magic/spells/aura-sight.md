@@ -1,7 +1,7 @@
 # Aura Sight
 
 **School** divination; **Level** alchemist 3, cleric 3, inquisitor 4, mesmerist 3, psychic 3, shaman 3, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

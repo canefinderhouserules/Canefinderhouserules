@@ -1,7 +1,7 @@
 # Geyser
 
 **School** conjuration (creation) [fire, water]; **Level** druid 4, magus 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a piece of lava rock)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** spout of boiling water filling a 5 ft. square and spraying upward 10 ft./2 levels  

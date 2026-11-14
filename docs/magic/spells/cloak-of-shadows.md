@@ -1,7 +1,7 @@
 # Cloak of Shadows
 
 **School** illusion (shadow) [evil, shadow]; **Level** antipaladin 4, bard 5, mesmerist 5, sorcerer/wizard 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

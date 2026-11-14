@@ -1,7 +1,7 @@
 # Peacemaker's Parley
 
 **School** enchantment (charm) [language-dependent, mind-affecting]; **Level** cleric 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** creatures in a 20-ft.-radius spread  

@@ -1,7 +1,7 @@
 # Ward the Faithful
 
 **School** abjuration; **Level** inquisitor 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Area** 10-ft.-radius emanation from touched creature  

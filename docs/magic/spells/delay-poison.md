@@ -1,7 +1,7 @@
 # Delay Poison
 
 **School** conjuration (healing); **Level** alchemist 2, bard 2, cleric 2, druid 2, inquisitor 2, mesmerist 2, occultist 2, paladin 2, ranger 1, shaman 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

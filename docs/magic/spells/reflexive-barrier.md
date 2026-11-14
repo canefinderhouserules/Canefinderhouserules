@@ -1,7 +1,7 @@
 # Reflexive Barrier
 
 **School** evocation [force]; **Level** magus 3, psychic 3  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

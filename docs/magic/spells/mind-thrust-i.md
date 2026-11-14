@@ -1,7 +1,7 @@
 # Mind Thrust I
 
 **School** divination [mind-affecting]; **Level** psychic 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

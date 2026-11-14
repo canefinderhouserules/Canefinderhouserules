@@ -1,7 +1,7 @@
 # Codespeak
 
 **School** transmutation; **Level** bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a complex rune inscribed on a slip of paper that is then placed under your tongue)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** you plus one willing creature per 2 levels, no two of which can be more than 30 ft. apart  

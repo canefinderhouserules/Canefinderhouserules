@@ -1,7 +1,7 @@
 # Icicle Dagger
 
 **School** conjuration (creation) [cold]; **Level** bloodrager 1, occultist 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** one icicle  

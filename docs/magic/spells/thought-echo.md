@@ -1,7 +1,7 @@
 # Thought Echo
 
 **School** illusion (glamer); **Level** mesmerist 1, psychic 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V  
 **Range** touch  
 **Target** living creature touched  

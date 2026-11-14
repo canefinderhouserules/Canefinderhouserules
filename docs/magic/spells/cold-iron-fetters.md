@@ -1,7 +1,7 @@
 # Cold Iron Fetters
 
 **School** conjuration (creation); **Level** cleric 5, inquisitor 4, occultist 5, ranger 3, shaman 5, sorcerer/wizard 5, summoner 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (miniature cold iron shackle)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

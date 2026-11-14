@@ -1,7 +1,7 @@
 # Creeping Ice
 
 **School** evocation [cold]; **Level** druid 4, sorcerer/wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** anchored plane of ice, up to one 10-ft. square /level  

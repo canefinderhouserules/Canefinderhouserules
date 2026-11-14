@@ -1,7 +1,7 @@
 # Betraying Sting
 
 **School** evocation; **Level** bard 6, cleric 6, occultist 6, psychic 6, shaman 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature  

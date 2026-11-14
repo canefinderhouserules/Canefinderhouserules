@@ -1,7 +1,7 @@
 # Dance of a Thousand Cuts
 
 **School** transmutation; **Level** bard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

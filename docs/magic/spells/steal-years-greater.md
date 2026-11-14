@@ -1,7 +1,7 @@
 # Steal Years, Greater
 
 **School** transmutation; **Level** cleric 5, druid 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a handful of ash)  
 **Range** touch  
 **Target** creature touched  

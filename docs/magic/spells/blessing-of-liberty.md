@@ -1,7 +1,7 @@
 # Blessing of Liberty
 
 **School** abjuration; **Level** bard 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a feather or small object that symbolizes good fortune)  
 **Range** personal  
 **Target** you  

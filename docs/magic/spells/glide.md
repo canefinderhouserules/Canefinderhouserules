@@ -1,7 +1,7 @@
 # Glide
 
 **School** transmutation; **Level** druid 2, occultist 2, psychic 2, ranger 1, shaman 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a leaf)  
 **Range** personal  
 **Target** you  

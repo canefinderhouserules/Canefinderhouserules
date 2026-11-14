@@ -1,7 +1,7 @@
 # Bloody Claws
 
 **School** necromancy; **Level** druid 4, ranger 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** living creature touched  

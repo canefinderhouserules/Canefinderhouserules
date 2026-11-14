@@ -1,7 +1,7 @@
 # Violent Misfire, Mass
 
 **School** evocation; **Level** sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a small piece of flint)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one early or advanced firearm/level, no two of which can be more than 30 ft. apart  

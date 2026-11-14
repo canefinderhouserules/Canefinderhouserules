@@ -1,7 +1,7 @@
 # Ward of the Season
 
 **School** abjuration; **Level** cleric 4, druid 3, ranger 3, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one creature  

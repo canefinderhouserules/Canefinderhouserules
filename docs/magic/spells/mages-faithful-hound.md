@@ -1,7 +1,7 @@
 # Mage’s Faithful Hound
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5, spiritualist 5, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a tiny silver whistle, a piece of bone, and a thread)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** phantom watchdog  

@@ -1,7 +1,7 @@
 # Blood in the Water
 
 **School** necromancy (emotion); **Level** cleric 2, mesmerist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** 20 ft.  
 **Area** 20-ft.-radius emanation centered on you  

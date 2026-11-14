@@ -1,7 +1,7 @@
 # Bloodbath
 
 **School** necromancy; **Level** antipaladin 1, bloodrager 1, cleric 2, inquisitor 2, medium 1, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a ceremonial dagger)  
 **Range** close (25 ft. + 5 ft./level)  
 **Target** up to one living creature/level, no two of which can be more than 30 feet apart  

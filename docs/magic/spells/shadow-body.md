@@ -1,7 +1,7 @@
 # Shadow Body
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 7, spiritualist 5, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

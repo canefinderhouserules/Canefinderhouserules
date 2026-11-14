@@ -1,7 +1,7 @@
 # Wall of Suppression
 
 **School** abjuration; **Level** psychic 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (powdered adamantine worth 1,000 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** anti-magic wall occupying up to two 5 ft. cubes/level (S)  

@@ -1,7 +1,7 @@
 # Speak with Plane
 
 **School** divination; **Level** cleric 4, medium 3, shaman 4, sorcerer/wizard 4, summoner 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F/DF (a small glass bead)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one plane with a sentient structure  

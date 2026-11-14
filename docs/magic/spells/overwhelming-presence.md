@@ -1,7 +1,7 @@
 # Overwhelming Presence
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 9, inquisitor 6, mesmerist 6, psychic 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a swan feather)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** one creature/level, no two of which can be more than 30 ft. apart  

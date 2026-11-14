@@ -1,7 +1,7 @@
 # Enchantment Foil
 
 **School** abjuration; **Level** alchemist 4, cleric 4, inquisitor 4, mesmerist 3, occultist 4, psychic 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

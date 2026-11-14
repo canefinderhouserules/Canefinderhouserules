@@ -1,7 +1,7 @@
 # Mirror Polish
 
 **School** transmutation; **Level** occultist 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a soft cloth)  
 **Range** touch  
 **Target** one metal item of up to 1 sq. ft.  

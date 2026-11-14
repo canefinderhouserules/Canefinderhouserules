@@ -1,7 +1,7 @@
 # Follow Aura
 
 **School** divination [chaotic, evil, good, or lawful]; **Level** inquisitor 2, occultist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

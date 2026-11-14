@@ -1,7 +1,7 @@
 # Diamond Spray
 
 **School** evocation [earth]; **Level** sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a lump of coal)  
 **Range** 20 ft.  
 **Area** cone-shaped burst  

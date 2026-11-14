@@ -1,7 +1,7 @@
 # Tongues, Communal
 
 **School** divination; **Level** alchemist 4, bard 3, cleric 5, mesmerist 3, psychic 4, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M/DF (a clay model of a ziggurat)  
 **Range** touch  
 **Target** creatures touched  

@@ -1,7 +1,7 @@
 # Rend Body IV
 
 **School** evocation; **Level** psychic 8  
-**Casting Time** 1 full-round action  
+**Casting Time** 1 full-round action (3 AP)  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Devolution
 
 **School** transmutation; **Level** psychic 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a chameleon scale)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one eidolon  

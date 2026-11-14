@@ -1,7 +1,7 @@
 # Tactical Formation
 
 **School** abjuration; **Level** cleric 3, paladin 3, ranger 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** up to one creature/level, no two of which may be more than 30 ft. apart  

@@ -1,7 +1,7 @@
 # Majestic Image
 
 **School** transmutation; **Level** bard 4, cleric 4, medium 4, mesmerist 4, occultist 4, sorcerer/wizard 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of paint and a ball of clay)  
 **Range** 200 ft./level  
 **Effect** transfer consciousness to an object bearing your likeness  

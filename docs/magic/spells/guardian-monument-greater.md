@@ -1,7 +1,7 @@
 # Guardian Monument, Greater
 
 **School** abjuration; **Level** bard 5, inquisitor 5, occultist 5, psychic 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S, F (an unattended, nonmagical object)  
 **Range** touch  
 **Area** 40-ft. radius from touched object or 60-ft. radius from touched object; see text  

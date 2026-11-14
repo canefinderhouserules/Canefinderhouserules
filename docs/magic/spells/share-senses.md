@@ -1,7 +1,7 @@
 # Share Senses
 
 **School** divination (scrying); **Level** medium 3, psychic 3, sorcerer/wizard 4, witch 3  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S, M (a hair, scale, or feather from your familiar)  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** your familiar  

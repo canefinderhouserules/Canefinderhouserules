@@ -1,7 +1,7 @@
 # Cat’s Grace
 
 **School** transmutation; **Level** alchemist 2, bard 2, bloodrager 2, druid 2, magus 2, medium 2, mesmerist 2, psychic 2, ranger 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (pinch of cat fur)  
 **Range** touch  
 **Target** creature touched  

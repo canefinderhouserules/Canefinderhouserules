@@ -1,7 +1,7 @@
 # Sleep
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, mesmerist 1, occultist 1, psychic 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (fine sand, rose petals, or a live cricket)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** one or more living creatures within a 10-ft.-radius burst  

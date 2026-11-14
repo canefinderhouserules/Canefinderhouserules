@@ -1,7 +1,7 @@
 # Hydrophobia
 
 **School** necromancy [emotion, fear, mind-affecting]; **Level** bard 2, cleric 3, druid 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 30-ft.-radius burst  

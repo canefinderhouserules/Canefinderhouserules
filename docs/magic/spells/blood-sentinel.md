@@ -1,7 +1,7 @@
 # Blood Sentinel
 
 **School** transmutation; **Level** alchemist 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a life-sized animal sculpture of a familiar made of clay, cloth, stone, or wood, plus mandrake root worth 25 gp)  
 **Range** touch  
 **Target** one animal sculpture  

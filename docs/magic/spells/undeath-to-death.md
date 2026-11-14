@@ -1,7 +1,7 @@
 # Undeath to Death
 
 **School** necromancy; **Level** cleric 6, inquisitor 6, sorcerer/wizard 6, spiritualist 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (diamond powder worth 500 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** several undead creatures within a 40-ft.-radius burst  

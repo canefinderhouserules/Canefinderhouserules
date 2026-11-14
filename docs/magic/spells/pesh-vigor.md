@@ -1,7 +1,7 @@
 # Pesh Vigor
 
 **School** transmutation; **Level** alchemist 1, antipaladin 1, bloodrager 1, cleric 1, druid 1, magus 1, medium 1, psychic 1, shaman 1, sorcerer/wizard 1, summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a dose of pesh worth 15 gp)  
 **Range** touch  
 **Target** living creature touched  

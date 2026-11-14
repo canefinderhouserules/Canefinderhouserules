@@ -1,7 +1,7 @@
 # Trial by Fire
 
 **School** evocation [fire]; **Level** antipaladin 3, cleric 3, inquisitor 3, paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

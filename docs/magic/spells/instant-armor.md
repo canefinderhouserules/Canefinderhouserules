@@ -1,7 +1,7 @@
 # Instant Armor
 
 **School** conjuration (creation) [force]; **Level** cleric 2, paladin 2, psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

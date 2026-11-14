@@ -1,7 +1,7 @@
 # Tsunami
 
 **School** conjuration (creation) [water]; **Level** druid 9, shaman 9, sorcerer/ wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** 10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level  

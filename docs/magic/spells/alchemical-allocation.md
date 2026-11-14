@@ -1,7 +1,7 @@
 # Alchemical Allocation
 
 **School** transmutation; **Level** alchemist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** personal  
 **Target** you  

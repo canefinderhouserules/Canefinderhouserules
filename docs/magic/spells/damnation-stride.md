@@ -1,7 +1,7 @@
 # Damnation Stride
 
 **School** conjuration (teleportation) [fire]; **Level** sorcerer/wizard 5, summoner 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Target** self and creatures within a 10-foot-radius burst (see below)  
 **Duration** 1 minutes/level  

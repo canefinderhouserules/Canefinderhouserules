@@ -1,7 +1,7 @@
 # Apport Object
 
 **School** conjuration (teleportation); **Level** bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** touch  
 **Target** one touched object of up to 1 lb. and 1 cu. ft.  

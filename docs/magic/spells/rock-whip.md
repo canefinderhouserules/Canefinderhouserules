@@ -1,7 +1,7 @@
 # Rock Whip
 
 **School** conjuration (creation); **Level** cleric 2, druid 2, magus 2, ranger 1, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 0 ft  
 **Effect** whip of earth and stone  

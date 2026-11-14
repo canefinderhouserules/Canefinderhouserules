@@ -1,7 +1,7 @@
 # Kreighton’s Perusal
 
 **School** divination; **Level** bard 1, cleric 1, magus 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** book touched  

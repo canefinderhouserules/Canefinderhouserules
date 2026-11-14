@@ -1,7 +1,7 @@
 # Songbird
 
 **School** conjuration (good); **Level** bard 1, cleric 1, mesmerist 1, paladin 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Catatonia
 
 **School** necromancy; **Level** alchemist 2, bard 2, cleric 3, medium 2, mesmerist 2, psychic 3, sorcerer/wizard 3, spiritualist 2, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** touch  
 **Target** willing creature touched  

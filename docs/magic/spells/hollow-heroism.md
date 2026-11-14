@@ -1,7 +1,7 @@
 # Hollow Heroism
 
 **School** enchantment (compulsion) [mind-affecting, ruse]; **Level** bard 3, bloodrager 4, inquisitor 4, medium 3, psychic 4, sorcerer/wizard 4, spiritualist 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

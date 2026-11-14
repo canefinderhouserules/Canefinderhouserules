@@ -1,7 +1,7 @@
 # Shadow Barbs
 
 **School** illusion (shadow) [darkness]; **Level** cleric 4, inquisitor 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a single link from a spiked chain)  
 **Range** 0 ft.  
 **Effect** spiked chain-like shadowy weapon  

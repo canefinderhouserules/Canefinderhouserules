@@ -1,7 +1,7 @@
 # Cloak of Shade
 
 **School** abjuration; **Level** druid 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a leaf from a shade tree)  
 **Range** touch  
 **Target** one creature per level  

@@ -1,7 +1,7 @@
 # Illusory Wall
 
 **School** illusion (figment); **Level** mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** image 1 ft. by 10 ft. by 10 ft.  

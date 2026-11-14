@@ -1,7 +1,7 @@
 # Dancing Darkness
 
 **School** evocation [darkness, shadow]; **Level** antipaladin 1, bard 1, magus 1, shaman 1, psychic 1, sorcerer/wizard 1, spiritualist 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** up to four spheres, all within a 10-ft.-radius area  

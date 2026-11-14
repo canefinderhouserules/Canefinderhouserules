@@ -1,7 +1,7 @@
 # Hellmouth Lash
 
 **School** transmutation [acid, electricity, or fire]; **Level** bloodrager 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

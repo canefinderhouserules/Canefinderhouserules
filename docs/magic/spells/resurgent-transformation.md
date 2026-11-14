@@ -1,7 +1,7 @@
 # Resurgent Transformation
 
 **School** conjuration (healing); **Level** alchemist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of meteoric iron worth 100 gp)  
 **Range** personal  
 **Target** you  

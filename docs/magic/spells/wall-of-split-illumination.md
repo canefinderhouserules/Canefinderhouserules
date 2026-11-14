@@ -1,7 +1,7 @@
 # Wall of Split Illumination
 
 **School** evocation [darkness, light]; **Level** bard 3, cleric 3, sorcerer/wizard 3, inquisitor 3, magus 3, occultist 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 10-ft.-high vertical sheet of illumination up to 5 ft. long/level  

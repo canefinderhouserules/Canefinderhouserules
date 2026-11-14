@@ -1,7 +1,7 @@
 # Allied Cloak
 
 **School** abjuration; **Level** bard 3, bloodrager 3, magus 3, occultist 2, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (cloak or outer garment)  
 **Range** personal  
 **Target** you  

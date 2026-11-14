@@ -1,7 +1,7 @@
 # Coin Shot
 
 **School** transmutation; **Level** alchemist 1, antipaladin 1, bard 1, bloodrager 1, magus 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** touch  
 **Target** up to three coins touched  

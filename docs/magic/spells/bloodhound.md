@@ -1,7 +1,7 @@
 # Bloodhound
 
 **School** transmutation; **Level** alchemist 3, inquisitor 2, occultist 3, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of blood and a pinch of cinnamon)  
 **Range** personal  
 **Target** you  

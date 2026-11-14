@@ -1,7 +1,7 @@
 # Watchful Eye
 
 **School** abjuration; **Level** cleric 1, paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a pair of silver or gold rings worth 10 gp, worn by both you and the target)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

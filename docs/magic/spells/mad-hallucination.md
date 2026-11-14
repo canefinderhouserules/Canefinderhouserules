@@ -1,7 +1,7 @@
 # Mad Hallucination
 
 **School** illusion (phantasm); **Level** bard 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (20 ft.)  
 **Target** one humanoid creature  

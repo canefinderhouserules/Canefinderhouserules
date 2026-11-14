@@ -1,7 +1,7 @@
 # Hallucinogenic Smoke
 
 **School** conjuration [poison]; **Level** cleric 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M (tobacco leaves, ingested)  
 **Range** personal  
 **Target** you  

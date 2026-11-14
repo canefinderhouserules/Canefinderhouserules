@@ -1,7 +1,7 @@
 # Make Whole, Greater
 
 **School** transmutation; **Level** cleric 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 10 ft.  
 **Target** one object of up to 5 lb./level  

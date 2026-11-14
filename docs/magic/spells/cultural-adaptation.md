@@ -1,7 +1,7 @@
 # Cultural Adaptation
 
 **School** divination; **Level** bard 1, cleric 1, medium 1, occultist 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a document written in the language of the culture to be emulated)  
 **Range** personal  
 **Target** you  

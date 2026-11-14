@@ -1,7 +1,7 @@
 # Gust of Wind
 
 **School** evocation [air]; **Level** bloodrager 2, druid 2, magus 2, occultist 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Effect** line-shaped gust of severe wind emanating out from you to the extreme of the range  

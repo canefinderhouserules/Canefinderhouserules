@@ -1,7 +1,7 @@
 # Unbearable Brightness
 
 **School** evocation [light]; **Level** alchemist 4, occultist 4, psychic 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** personal and 30 ft. (see text)  
 **Area** 30-ft.-radius emanation centered on you  

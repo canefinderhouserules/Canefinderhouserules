@@ -1,7 +1,7 @@
 # Eagle Aerie
 
 **School** conjuration (summoning) [good]; **Level** druid 6, summoner 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** summoned eagles  

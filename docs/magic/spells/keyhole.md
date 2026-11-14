@@ -1,7 +1,7 @@
 # Keyhole
 
 **School** transmutation; **Level** arcanist 1, cleric 1, oracle 1, sorcerer/wizard 1, warpriest 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, DF  
 **Range** touch  
 **Target** one touched door or portal  

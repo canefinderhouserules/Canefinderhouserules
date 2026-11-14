@@ -1,7 +1,7 @@
 # Miasmal Dread
 
 **School** enchantment (compulsion) [fear, mind-affecting]; **Level** antipaladin 2, bard 2, bloodrager 2, inquisitor 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 feet  
 **Area** cone-shaped burst  

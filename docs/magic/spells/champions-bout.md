@@ -1,7 +1,7 @@
 # Champion’s Bout
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, cleric 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** two creatures  

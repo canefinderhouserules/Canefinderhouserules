@@ -1,7 +1,7 @@
 # Enchantment Sight
 
 **School** divination; **Level** alchemist 2, bard 2, cleric 2, inquisitor 2, medium 2, mesmerist 2, occultist 2, paladin 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Permanent Hallucination
 
 **School** illusion (phantasm) [mind-affecting]; **Level** psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Target** one creature  
 **Duration** permanent (D)  

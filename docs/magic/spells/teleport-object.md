@@ -1,7 +1,7 @@
 # Teleport Object
 
 **School** conjuration (teleportation); **Level** psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** touch  
 **Target** one touched object of up to 50 lbs./level and 3 cu. ft./level  

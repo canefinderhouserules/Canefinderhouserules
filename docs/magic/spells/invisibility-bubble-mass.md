@@ -1,7 +1,7 @@
 # Invisibility Bubble, Mass
 
 **School** illusion (glamer); **Level** arcanist 7, mesmerist 6, psychic 7, sorcerer/wizard 7, summoner (unchained) 6, summoner 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (needle from a sea urchin)  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** any number of creatures, no two of which can be more than 180 ft. apart  

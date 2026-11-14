@@ -1,7 +1,7 @@
 # Impenetrable Veil
 
 **School** abjuration; **Level** bard 6, mesmerist 6, psychic 9, sorcerer/wizard 9, spiritualist 6, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (dream dust worth 1,250 gp)  
 **Range** touch  
 **Target** creature touched  

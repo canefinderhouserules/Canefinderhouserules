@@ -1,7 +1,7 @@
 # Litany of Righteousness
 
 **School** evocation [good, language-dependent]; **Level** inquisitor 3, paladin 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

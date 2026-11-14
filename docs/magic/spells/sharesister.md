@@ -1,7 +1,7 @@
 # Sharesister
 
 **School** necromancy; **Level** cleric 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of your own blood)  
 **Range** touch  
 **Target** you and one creature of your gender  

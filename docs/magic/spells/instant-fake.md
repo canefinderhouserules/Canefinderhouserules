@@ -1,7 +1,7 @@
 # Instant Fake
 
 **School** illusion (figment); **Level** bard 3, inquisitor 3, magus 4, mesmerist 3, occultist 3, ranger 3, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of costume jewelry)  
 **Range** 1 object touched  
 **Target** one object weighing no more than 1 lb./level  

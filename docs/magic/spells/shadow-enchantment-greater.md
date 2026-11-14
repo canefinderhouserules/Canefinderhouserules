@@ -1,7 +1,7 @@
 # Shadow Enchantment, Greater
 
 **School** illusion (shadow) [shadow]; **Level** bard 6, mesmerist 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** see text  
 **Effect** see text  

@@ -1,7 +1,7 @@
 # Judgment Light
 
 **School** evocation [light]; **Level** inquisitor 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** personal  
 **Area** 30-ft.-radius burst  

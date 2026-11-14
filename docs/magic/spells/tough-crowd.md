@@ -1,7 +1,7 @@
 # Tough Crowd
 
 **School** abjuration; **Level** bard 4, inquisitor 4, mesmerist 4, psychic 3, sorcerer/wizard 4, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** 1 creature/level  

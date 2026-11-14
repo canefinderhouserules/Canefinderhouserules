@@ -1,7 +1,7 @@
 # Debilitating Pain, Mass
 
 **School** enchantment (compulsion) [mind-affecting, pain]; **Level** psychic 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/4 levels  

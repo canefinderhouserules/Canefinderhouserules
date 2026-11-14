@@ -1,7 +1,7 @@
 # Raven's Flight
 
 **School** transmutation; **Level** bard 3, druid 3, inquisitor 3, magus 2, ranger 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

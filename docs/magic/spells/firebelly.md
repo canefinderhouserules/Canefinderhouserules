@@ -1,7 +1,7 @@
 # Firebelly
 
 **School** abjuration; **Level** alchemist 1, bloodrager 1, cleric 1, druid 1, paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

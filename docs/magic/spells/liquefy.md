@@ -1,7 +1,7 @@
 # Liquefy
 
 **School** transmutation; **Level** alchemist 3, bard 3, druid 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a specially prepared glass bottle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 object weighing up to 1 pound/level  

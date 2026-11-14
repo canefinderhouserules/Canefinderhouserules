@@ -1,7 +1,7 @@
 # Soulreaver
 
 **School** necromancy [death]; **Level** cleric 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** living creatures in a 20-ft.-radius spread  

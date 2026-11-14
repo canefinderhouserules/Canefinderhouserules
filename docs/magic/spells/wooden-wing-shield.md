@@ -1,7 +1,7 @@
 # Wooden Wing Shield
 
 **School** transmutation; **Level** bloodrager 4, druid 4, magus 5, shaman 4, summoner 4  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** S  
 **Range** personal  
 **Target** you  

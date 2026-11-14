@@ -1,7 +1,7 @@
 # Discordant Blast
 
 **School** evocation [sonic]; **Level** bard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 10 ft. or 30 ft.  
 **Area** see text  

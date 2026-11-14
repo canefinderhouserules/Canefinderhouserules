@@ -1,7 +1,7 @@
 # Salvage
 
 **School** transmutation; **Level** cleric 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** one shipwreck  

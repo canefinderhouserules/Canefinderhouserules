@@ -1,7 +1,7 @@
 # Infernal Healing
 
 **School** conjuration (healing) [evil]; **Level** bloodrager 1, cleric 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (1 drop of devil blood or 1 dose of unholy water)  
 **Range** touch  
 **Target** creature touched  

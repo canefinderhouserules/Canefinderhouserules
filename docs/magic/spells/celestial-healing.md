@@ -1,7 +1,7 @@
 # Celestial Healing
 
 **School** conjuration (healing) [good]; **Level** bloodrager 1, cleric 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (1 drop of blood from a good outsider or 1 dose of holy water)  
 **Range** touch  
 **Target** creature touched  

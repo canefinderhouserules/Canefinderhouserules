@@ -1,7 +1,7 @@
 # Lost Legacy
 
 **School** enchantment [curse, mind-affecting]; **Level** bard 6, cleric 7, inquisitor 6, occultist 6, psychic 7, sorcerer/wizard 7, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF/F (a holy symbol of a dead or forgotten deity, or flag of a fallen or forgotten nation)  
 **Range** touch  
 **Target** creature touched  

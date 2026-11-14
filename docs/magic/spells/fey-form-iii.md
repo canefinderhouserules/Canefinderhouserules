@@ -1,7 +1,7 @@
 # Fey Form III
 
 **School** transmutation (polymorph); **Level** alchemist 6, druid 6, shaman 6, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  
 **Target** you  

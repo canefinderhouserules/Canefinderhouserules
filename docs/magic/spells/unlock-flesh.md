@@ -1,7 +1,7 @@
 # Unlock Flesh
 
 **School** necromancy; **Level** sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (any slashing weapon or cutting tool)  
 **Range** touch  
 **Area** creature touched  

@@ -1,7 +1,7 @@
 # Joyful Rapture
 
 **School** conjuration (healing) [emotion]; **Level** bard 5, cleric 6, mesmerist 5, psychic 6, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** all allies and opponents within a 60-ft.-radius burst centered on you  

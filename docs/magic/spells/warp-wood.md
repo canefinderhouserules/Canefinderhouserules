@@ -1,7 +1,7 @@
 # Warp Wood
 
 **School** transmutation; **Level** druid 2, occultist 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 Small wooden object/level, all within a 20-ft. radius  

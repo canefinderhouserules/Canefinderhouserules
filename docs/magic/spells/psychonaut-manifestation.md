@@ -1,7 +1,7 @@
 # Psychonaut Manifestation
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a small piece of psychoactive cactus)  
 **Range** personal  
 **Target** you  

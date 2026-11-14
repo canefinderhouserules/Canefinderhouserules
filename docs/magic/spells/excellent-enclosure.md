@@ -1,7 +1,7 @@
 # Excellent Enclosure
 
 **School** abjuration [force]; **Level** sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a sphere of glass worth 100 gp and an iron nail, with which you pierce the glass on casting)  
 **Range** touch  
 **Area** immobile 10-ft.-radius emanation  

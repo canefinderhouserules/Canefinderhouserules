@@ -1,7 +1,7 @@
 # Music of the Spheres
 
 **School** conjuration (healing) [sonic]; **Level** bard 5, cleric 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a stick of incense treated with special balms)  
 **Range** 20 ft.  
 **Area** 20-ft.-radius spherical emanation, centered on you  

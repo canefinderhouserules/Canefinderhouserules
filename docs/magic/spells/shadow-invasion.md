@@ -1,7 +1,7 @@
 # Shadow Invasion
 
 **School** conjuration (summoning); **Level** magus 4, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a masterwork piercing or slashing weapon)  
 **Range** 30 ft.  
 **Area** 30-ft. radius emanation centered on you  

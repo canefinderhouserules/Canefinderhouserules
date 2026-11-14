@@ -1,7 +1,7 @@
 # Rumormonger
 
 **School** divination; **Level** bard 2, inquisitor 2, medium 1, mesmerist 2, psychic 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** 1 rumor  

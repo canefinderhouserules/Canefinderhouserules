@@ -1,7 +1,7 @@
 # Reviving Finale
 
 **School** conjuration (healing); **Level** bard 3  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Area** a 20-ft.-radius burst centered on you  

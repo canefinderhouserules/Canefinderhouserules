@@ -1,7 +1,7 @@
 # Disguise Other
 
 **School** illusion (glamer); **Level** bard 2, inquisitor 2, medium 2, occultist 2, psychic 2, sorcerer/ wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

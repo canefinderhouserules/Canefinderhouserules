@@ -1,7 +1,7 @@
 # Elude Time
 
 **School** transmutation; **Level** alchemist 5, psychic 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (powdered diamond, emerald, ruby, and sapphire dust worth 500 gp)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Angelic Aspect, Greater
 
 **School** transmutation [good]; **Level** cleric 8, paladin 4, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Sensory Amplifier
 
 **School** divination [mind-affecting]; **Level** druid 4, medium 2, mesmerist 3, psychic 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** personal  
 **Area** 10-ft.-radius emanation centered on you  

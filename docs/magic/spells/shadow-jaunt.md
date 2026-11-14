@@ -1,7 +1,7 @@
 # Shadow Jaunt
 
 **School** illusion (shadow) [shadow]; **Level** antipaladin 3, bard 4, sorcerer/wizard 4, spiritualist 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** you  

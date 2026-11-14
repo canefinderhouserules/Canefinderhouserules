@@ -1,7 +1,7 @@
 # Hide Bruises
 
 **School** illusion (glamer); **Level** antipaladin 1, bard 1, inquisitor 1, mesmerist 1, occultist 1, psychic 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (drop of blood)  
 **Range** touch  
 **Target** one creature touched  

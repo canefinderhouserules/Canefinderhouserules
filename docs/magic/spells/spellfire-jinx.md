@@ -1,7 +1,7 @@
 # Spellfire Jinx
 
 **School** evocation [curse]; **Level** antipaladin 4, bard 4, cleric 6, inquisitor 5, occultist 5, psychic 6, shaman 5, sorcerer/wizard 6, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

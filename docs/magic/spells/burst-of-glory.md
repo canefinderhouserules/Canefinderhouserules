@@ -1,7 +1,7 @@
 # Burst of Glory
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 5, inquisitor 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Area** 10-ft.-radius burst, centered on you  
 **Duration** 1 round/level (D; see text)  

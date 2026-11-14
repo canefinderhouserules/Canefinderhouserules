@@ -1,7 +1,7 @@
 # Detect Undead
 
 **School** divination; **Level** alchemist 1, cleric 1, inquisitor 1, medium 1, mesmerist 1, paladin 1, psychic 1, shaman 1, sorcerer/wizard 1, spiritualist 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (earth from a grave)  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

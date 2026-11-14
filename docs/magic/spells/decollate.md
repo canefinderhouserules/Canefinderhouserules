@@ -1,7 +1,7 @@
 # Decollate
 
 **School** necromancy; **Level** alchemist 4, antipaladin 4, cleric 5, psychic 6, sorcerer/wizard 5, spiritualist 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a red wax pencil)  
 **Range** touch  
 **Target** one willing humanoid or monstrous humanoid creature  

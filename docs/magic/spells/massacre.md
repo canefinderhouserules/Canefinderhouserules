@@ -1,7 +1,7 @@
 # Massacre
 
 **School** necromancy [death]; **Level** cleric 9, psychic 9, shaman 9, sorcerer/wizard 9, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a flask of ectoplasmic residue)  
 **Area** 60-ft. line  
 **Duration** instantaneous  

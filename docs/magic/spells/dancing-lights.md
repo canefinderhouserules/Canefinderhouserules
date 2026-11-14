@@ -1,7 +1,7 @@
 # Dancing Lights
 
 **School** evocation [light]; **Level** bard 0, magus 0, medium 0, mesmerist 0, occultist 0, psychic 0, shaman 0, sorcerer/wizard 0, witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** Up to four lights, all within a 10-ft.-radius area  

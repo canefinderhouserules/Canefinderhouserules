@@ -1,7 +1,7 @@
 # Billowing Skirt
 
 **School** transmutation; **Level** bard 2, inquisitor 2, occultist 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a skirt, kilt, or gown)  
 **Range** personal  
 **Target** you  

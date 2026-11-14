@@ -1,7 +1,7 @@
 # Steady Saddle
 
 **School** transmutation; **Level** antipaladin 1, druid 1, paladin 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** saddle touched  

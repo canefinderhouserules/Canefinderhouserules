@@ -1,7 +1,7 @@
 # Fiery Body
 
 **School** transmutation [fire]; **Level** sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

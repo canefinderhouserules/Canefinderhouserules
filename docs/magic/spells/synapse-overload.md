@@ -1,7 +1,7 @@
 # Synapse Overload
 
 **School** divination [mind-affecting]; **Level** mesmerist 4, psychic 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** touch  
 **Target** living creature touched  

@@ -1,7 +1,7 @@
 # Fear
 
 **School** necromancy [fear, mind-affecting]; **Level** antipaladin 4, bard 3, bloodrager 4, inquisitor 4, medium 4, mesmerist 3, occultist 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (the heart of a hen or a white feather)  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

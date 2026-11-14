@@ -1,7 +1,7 @@
 # Transfer Tattoo
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (tattooing needle)  
 **Range** touch  
 **Target** one magic tattoo  

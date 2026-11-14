@@ -1,7 +1,7 @@
 # Challenge Evil
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one evil creature  

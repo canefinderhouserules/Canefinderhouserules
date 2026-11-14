@@ -1,7 +1,7 @@
 # Antitech Field
 
 **School** abjuration; **Level** druid 6, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (pinch of rust)  
 **Range** 10 ft.  
 **Target** 10-ft.-radius emanation centered on you  

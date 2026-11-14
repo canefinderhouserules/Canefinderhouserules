@@ -1,7 +1,7 @@
 # Control Water
 
 **School** transmutation [water]; **Level** cleric 4, druid 4, shaman 4, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a pinch of dust for *lower water or* a drop of water for *raise water*)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)  

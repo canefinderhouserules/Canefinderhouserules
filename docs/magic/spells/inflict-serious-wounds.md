@@ -1,7 +1,7 @@
 # Inflict Serious Wounds
 
 **School** necromancy; **Level** antipaladin 4, cleric 3, inquisitor 3, occultist 3, shaman 3, spiritualist 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

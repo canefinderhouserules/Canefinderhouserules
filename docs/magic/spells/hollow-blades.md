@@ -1,7 +1,7 @@
 # Hollow Blades
 
 **School** transmutation; **Level** magus 2, ranger 1, shaman 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

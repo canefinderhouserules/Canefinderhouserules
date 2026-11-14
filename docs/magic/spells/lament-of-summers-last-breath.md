@@ -1,7 +1,7 @@
 # Lament of Summer’s Last Breath
 
 **School** abjuration [fire, good]; **Level** bard 2, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 30-ft. radius spread centered on a creature, object, or point in space  

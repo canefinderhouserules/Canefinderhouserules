@@ -1,7 +1,7 @@
 # Shield Speech, Greater
 
 **School** abjuration; **Level** cleric 4, druid 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** 30-ft. emanation centered on you  

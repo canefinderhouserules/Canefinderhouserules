@@ -1,7 +1,7 @@
 # Id Insinuation II
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** psychic 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Targets** two creatures  
 **Duration** concentration + 1 round  

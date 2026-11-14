@@ -1,7 +1,7 @@
 # Form of the Exotic Dragon III
 
 **School** transmutation (polymorph); **Level** druid 9, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a scale of the dragon type you plan to assume)  
 **Range** personal  
 **Target** you  

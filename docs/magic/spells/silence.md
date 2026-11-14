@@ -1,7 +1,7 @@
 # Silence
 
 **School** illusion (glamer); **Level** antipaladin 2, bard 2, cleric 2, inquisitor 2, mesmerist 2, psychic 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 20-ft.-radius emanation centered on a creature, object, or point in space  

@@ -1,7 +1,7 @@
 # Film of Filth
 
 **School** transmutation [poison]; **Level** cleric 4, druid 4, ranger 3, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

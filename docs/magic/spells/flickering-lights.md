@@ -1,7 +1,7 @@
 # Flickering Lights
 
 **School** evocation [darkness, light]; **Level** bard 2, cleric 2, inquisitor 2, magus 2, occultist 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a patch of white cloth and a patch of black cloth)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** contiguous area consisting of one 10-foot cube/level (S)  

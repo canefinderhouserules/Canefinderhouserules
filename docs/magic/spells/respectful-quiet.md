@@ -1,7 +1,7 @@
 # Respectful Quiet
 
 **School** illusion (glamer); **Level** bard 3, cleric 5, inquisitor 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** any number of creatures in a 30-ft.-radius burst  

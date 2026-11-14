@@ -1,7 +1,7 @@
 # Toxic Gift
 
 **School** necromancy [poison]; **Level** antipaladin 2, occultist 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

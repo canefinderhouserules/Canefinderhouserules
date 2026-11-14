@@ -1,7 +1,7 @@
 # Font of Spirit Magic
 
 **School** conjuration; **Level** shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (gold dust worth 50 gp)  
 **Range** 30 ft.  
 **Area** 30-ft.-radius emanation centered on you  

@@ -1,7 +1,7 @@
 # Frostbite
 
 **School** transmutation [cold]; **Level** bloodrager 1, druid 1, magus 1, shaman 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Targets** creature touched  

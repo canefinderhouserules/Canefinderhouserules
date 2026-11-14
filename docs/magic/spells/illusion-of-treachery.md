@@ -1,7 +1,7 @@
 # Illusion of Treachery
 
 **School** illusion (figment); **Level** antipaladin 3, magus 4, mesmerist 3, occultist 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, F (a tiny marionette)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

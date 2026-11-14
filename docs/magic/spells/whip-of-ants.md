@@ -1,7 +1,7 @@
 # Whip of Ants
 
 **School** conjuration (summoning); **Level** bard 6, druid 6, sorcerer/wizard 6, summoner 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a square of red cloth)  
 **Range** 0 ft.  
 **Effect** whiplike swarm  

@@ -1,7 +1,7 @@
 # Divine Trident
 
 **School** evocation [electricity]; **Level** bloodrager 2, cleric 2, druid 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** 0 ft.  
 **Effect** trident-like bolt of electricity  

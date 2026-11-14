@@ -1,7 +1,7 @@
 # Martial Marionette
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a marionette’s crossbar)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 creature  

@@ -1,7 +1,7 @@
 # Accept Affliction
 
 **School** conjuration (healing) [good]; **Level** bard 3, cleric 3, druid 3, paladin 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (dove’s heart)  
 **Range** touch  
 **Target** creature touched  

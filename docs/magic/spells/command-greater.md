@@ -1,7 +1,7 @@
 # Command, Greater
 
 **School** enchantment (compulsion) [language-dependent, mind- affecting]; **Level** cleric 5, inquisitor 5, medium 4, mesmerist 4, occultist 5, psychic 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Targets** one creature/level, no two of which can be more than 30 ft. apart  
 **Duration** 1 round/level  

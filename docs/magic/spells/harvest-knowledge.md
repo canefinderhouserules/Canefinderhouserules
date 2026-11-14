@@ -1,7 +1,7 @@
 # Harvest Knowledge
 
 **School** divination [mind-affecting]; **Level** alchemist 4, antipaladin 4, bard 4, cleric 4, inquisitor 4, mesmerist 4, psychic 4, ranger 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a piece of lodestone)  
 **Range** touch (see text)  
 **Target** one creature or object; see text  

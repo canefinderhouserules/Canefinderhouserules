@@ -1,7 +1,7 @@
 # Perfected Potential
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** medium 1, mesmerist 1, psychic 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a gold dragon scale)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Rapid Repair
 
 **School** transmutation; **Level** cleric 5, occultist 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** construct touched  

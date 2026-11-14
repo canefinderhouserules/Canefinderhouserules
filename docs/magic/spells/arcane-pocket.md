@@ -1,7 +1,7 @@
 # Arcane Pocket
 
 **School** conjuration (creation); **Level** sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a pocket and a silver button)  
 **Range** touch  
 **Effect** extradimensional space up to 1 cu. ft./level  

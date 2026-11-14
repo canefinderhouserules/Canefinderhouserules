@@ -1,7 +1,7 @@
 # Waterproof
 
 **School** abjuration [water]; **Level** alchemist 1, bard 1, bloodrager 1, cleric 1, druid 1, magus 1, ranger 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one touched creature, or one touched object of up to 10 lbs./level  

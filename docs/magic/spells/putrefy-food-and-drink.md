@@ -1,7 +1,7 @@
 # Putrefy Food and Drink
 
 **School** transmutation; **Level** witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 10 ft.  
 **Target** 1 cu. ft./level of food and water or one potion; see text  

@@ -1,7 +1,7 @@
 # Surefoot Boots
 
 **School** transmutation; **Level** druid 2, occultist 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (footwear)  
 **Range** personal  
 **Target** you  

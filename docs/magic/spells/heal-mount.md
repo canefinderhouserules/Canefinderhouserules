@@ -1,7 +1,7 @@
 # Heal Mount
 
 **School** conjuration (healing); **Level** paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** your mount touched  

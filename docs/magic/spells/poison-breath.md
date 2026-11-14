@@ -1,7 +1,7 @@
 # Poison Breath
 
 **School** evocation [poison]; **Level** cleric 7, druid 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a spider's mandible)  
 **Range** 15 ft.  
 **Area** cone-shaped burst  

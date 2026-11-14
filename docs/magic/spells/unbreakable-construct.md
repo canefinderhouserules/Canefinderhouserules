@@ -1,7 +1,7 @@
 # Unbreakable Construct
 
 **School** abjuration; **Level** occultist 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (powdered adamantine worth 100 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one construct  

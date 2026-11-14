@@ -1,7 +1,7 @@
 # Calm Air
 
 **School** abjuration [air]; **Level** druid 4, sorcerer/wizard 5, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** cylinder (5-ft./level radius, 40 ft. high)  

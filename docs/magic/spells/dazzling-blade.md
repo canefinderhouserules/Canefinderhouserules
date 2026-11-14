@@ -1,7 +1,7 @@
 # Dazzling Blade
 
 **School** illusion (pattern); **Level** bard 1, sorcerer/wizard 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one metal weapon  

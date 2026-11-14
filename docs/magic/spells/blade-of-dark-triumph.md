@@ -1,7 +1,7 @@
 # Blade of Dark Triumph
 
 **School** transmutation [evil]; **Level** antipaladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** your fiendish boon weapon  

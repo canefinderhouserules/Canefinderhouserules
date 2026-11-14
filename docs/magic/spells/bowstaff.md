@@ -1,7 +1,7 @@
 # Bowstaff
 
 **School** transmutation; **Level** inquisitor 1, occultist 2, paladin 1, ranger 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** one weapon (bow)  

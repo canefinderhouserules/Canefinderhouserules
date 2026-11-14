@@ -1,7 +1,7 @@
 # Shout, Greater
 
 **School** evocation [sonic]; **Level** bard 6, psychic 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** : V, S, F (a metal or ivory horn)  
 **Range** 60 ft.  
 **Duration** instantaneous  

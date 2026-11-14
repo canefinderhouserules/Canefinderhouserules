@@ -1,7 +1,7 @@
 # Haunting Mists
 
 **School** illusion (figment) [fear, shadow]; **Level** bard 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high  

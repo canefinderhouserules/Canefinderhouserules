@@ -1,7 +1,7 @@
 # Ghoul Army
 
 **School** necromancy [evil]; **Level** cleric 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a handful of ghoul’s teeth)  
 **Range** 5 feet  
 **Effect** 1d4+1 ghouls and 1 ghast  

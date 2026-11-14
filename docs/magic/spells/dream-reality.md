@@ -1,7 +1,7 @@
 # Dream Reality
 
 **School** illusion (compulsion) [mind-affecting]; **Level** alchemist 5, bard 5, cleric 6, mesmerist 5, occultist 5, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

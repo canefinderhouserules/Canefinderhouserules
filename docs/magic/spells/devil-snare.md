@@ -1,7 +1,7 @@
 # Devil Snare
 
 **School** abjuration [good]; **Level** cleric 4, sorcerer/wizard 5  
-**Casting Time** 1 full-round action  
+**Casting Time** 1 full-round action (3 AP)  
 **Components** V, S, M (a pouch of silvered powder worth 25 gp)  
 **Range** touch  
 **Effect** 10-ft.-radius circle  

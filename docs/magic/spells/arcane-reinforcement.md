@@ -1,7 +1,7 @@
 # Arcane Reinforcement
 
 **School** transmutation; **Level** sorcerer/wizard 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Sign of the Dawn
 
 **School** transmutation; **Level** cleric 0, druid 0, paladin 1, ranger 1 (worshipers of a sun deity only)  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, F (your holy symbol, or a depiction of your sun deity’s holy symbol or of the deity itself)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature/level  

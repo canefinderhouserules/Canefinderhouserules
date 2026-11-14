@@ -1,7 +1,7 @@
 # Motes of Dusk and Dawn
 
 **School** evocation [darkness, light]; **Level** bard 3, magus 3, medium 3, mesmerist 3, occultist 3, psychic 3, shaman 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** up to four motes, all within a 10-ft.-radius area  

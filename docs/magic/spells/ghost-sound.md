@@ -1,7 +1,7 @@
 # Ghost Sound
 
 **School** illusion (figment); **Level** bard 0, magus 0, medium 0, mesmerist 0, occultist 0, psychic 0, sorcerer/wizard 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a bit of wool or a small lump of wax)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** illusory sounds  

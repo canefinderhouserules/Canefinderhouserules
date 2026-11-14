@@ -1,7 +1,7 @@
 # Venomous Bolt
 
 **School** necromancy; **Level** ranger 3  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Target** one arrow or bolt  

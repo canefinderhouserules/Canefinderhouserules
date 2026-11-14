@@ -1,7 +1,7 @@
 # Mark of the Reptile God
 
 **School** transmutation (curse); **Level** antipaladin 4, cleric 4, inquisitor 4, oracle 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

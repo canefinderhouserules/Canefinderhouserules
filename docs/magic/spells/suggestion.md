@@ -1,7 +1,7 @@
 # Suggestion
 
 **School** enchantment (compulsion) [language-dependent, mind- affecting]; **Level** bard 2, medium 2, mesmerist 2, occultist 3, psychic 2, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a snake’s tongue and a honeycomb)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  

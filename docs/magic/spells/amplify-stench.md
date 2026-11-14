@@ -1,7 +1,7 @@
 # Amplify Stench
 
 **School** transmutation; **Level** cleric 2, druid 2, psychic 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

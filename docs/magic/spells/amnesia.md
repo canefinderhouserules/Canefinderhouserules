@@ -1,7 +1,7 @@
 # Amnesia
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, medium 3, mesmerist 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  

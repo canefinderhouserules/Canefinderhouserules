@@ -1,7 +1,7 @@
 # Locate Portal
 
 **School** divination; **Level** bard 2, cleric 2, druid 2, psychic 2, ranger 1, shaman 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 1 mile/level  
 **Area** circle, centered on you, with a radius of 1 mile/level  

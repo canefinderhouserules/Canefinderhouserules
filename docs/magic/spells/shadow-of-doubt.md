@@ -1,7 +1,7 @@
 # Shadow of Doubt
 
 **School** enchantment (compulsion) [darkness, emotion, evil, mind-affecting]; **Level** antipaladin 4, bard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature/3 levels  

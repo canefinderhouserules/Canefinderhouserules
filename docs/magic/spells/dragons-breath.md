@@ -1,7 +1,7 @@
 # Dragon’s Breath
 
 **School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 4, bloodrager 4, magus 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a dragon scale)  
 **Range** 30 ft. or 60 ft.  
 **Area** cone-shaped burst or line  

@@ -1,7 +1,7 @@
 # Detoxify
 
 **School** transmutation; **Level** cleric 3, druid 3, inquisitor 3, paladin 3, ranger 2, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a dandelion stem)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

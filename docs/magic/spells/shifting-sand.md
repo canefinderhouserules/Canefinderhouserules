@@ -1,7 +1,7 @@
 # Shifting Sand
 
 **School** transmutation [earth]; **Level** druid 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a handful of sand)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** 20-ft. spread  

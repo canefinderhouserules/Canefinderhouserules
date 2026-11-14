@@ -1,7 +1,7 @@
 # Seed Spies
 
 **School** divination; **Level** druid 2, occultist 2, ranger 2, shaman 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a drop of honey)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** up to one insect spy/4 levels  

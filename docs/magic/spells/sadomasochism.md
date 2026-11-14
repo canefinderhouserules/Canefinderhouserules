@@ -1,7 +1,7 @@
 # Sadomasochism
 
 **School** necromancy [pain]; **Level** antipaladin 3, bloodrager 4, cleric 3, inquisitor 3, magus 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

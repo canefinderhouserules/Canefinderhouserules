@@ -1,7 +1,7 @@
 # Hero's Spellsword
 
 **School** transmutation; **Level** bard 4, bloodrager 4, magus 3, occultist 4, sorcerer/wizard 3, witch 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a magic rod or staff)  
 **Range** touch  
 **Effect** one melee weapon sized appropriately for you  

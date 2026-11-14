@@ -1,7 +1,7 @@
 # Align Weapon
 
 **School** transmutation [see text]; **Level** cleric 2, inquisitor 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one weapon or group of 50 projectiles (each group must be together at the time of casting)/level, no two of which can be more than 30 ft. apart  

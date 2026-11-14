@@ -1,7 +1,7 @@
 # Heal
 
 **School** conjuration (healing); **Level** alchemist 6, cleric 6, druid 7, inquisitor 6, occultist 6, shaman 7, spiritualist 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Hurricane Blast
 
 **School** evocation [air]; **Level** druid 3, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Area** 5-ft.-radius burst/2 levels (maximum 25-ft.-radius burst)  

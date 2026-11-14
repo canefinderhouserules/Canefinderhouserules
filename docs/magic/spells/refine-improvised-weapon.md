@@ -1,7 +1,7 @@
 # Refine Improvised Weapon
 
 **School** transmutation; **Level** cleric 1, inquisitor 1, occultist 1, ranger 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** one improvised weapon  

@@ -1,7 +1,7 @@
 # Weapons against Evil
 
 **School** transmutation; **Level** cleric 1, inquisitor 1, paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one weapon/level, no two of which can be more than 20 ft. apart  

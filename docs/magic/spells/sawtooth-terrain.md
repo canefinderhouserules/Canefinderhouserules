@@ -1,7 +1,7 @@
 # Sawtooth Terrain
 
 **School** transmutation [earth]; **Level** cleric 5, druid 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one 10-foot square of difficult and damaging terrain  

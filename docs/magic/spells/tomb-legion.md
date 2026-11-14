@@ -1,7 +1,7 @@
 # Tomb Legion
 
 **School** necromancy [evil]; **Level** cleric 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** three or more advanced mummies, no two of which can be more than 30 ft. apart; see text  

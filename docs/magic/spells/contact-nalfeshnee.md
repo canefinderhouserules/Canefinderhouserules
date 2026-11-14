@@ -1,7 +1,7 @@
 # Contact Nalfeshnee
 
 **School** divination; **Level** cleric 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (powdered sapphire worth 250 gp), F (bejeweled cold iron mirror worth at least 2,000 gp)  
 **Range** personal  
 **Target** you  

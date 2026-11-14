@@ -1,7 +1,7 @@
 # Malicious Spite
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, mesmerist 3, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (powdered turquoise worth 150 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

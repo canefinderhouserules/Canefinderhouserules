@@ -1,7 +1,7 @@
 # Shadow Dragon Aspect
 
 **School** illusion (shadow) [shadow]; **Level** bard 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** personal  
 **Duration** 1 round/level  

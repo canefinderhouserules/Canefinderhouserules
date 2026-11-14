@@ -1,7 +1,7 @@
 # Phantom Limb
 
 **School** necromancy; **Level** psychic 6, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one creature  

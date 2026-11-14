@@ -1,7 +1,7 @@
 # Body Double
 
 **School** illusion (glamer); **Level** bard 2, bloodrager 2, magus 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (two glass beads)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** two creatures; see text  

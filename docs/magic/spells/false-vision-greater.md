@@ -1,7 +1,7 @@
 # False Vision, Greater
 
 **School** illusion (glamer); **Level** bard 6, mesmerist 6, psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a jade sphere worth 500 gp)  
 **Range** see text  
 **Target** one creature  

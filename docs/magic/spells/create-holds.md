@@ -1,7 +1,7 @@
 # Create Holds
 
 **School** transmutation; **Level** druid 4, ranger 3, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (handful of pebbles)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** path of handholds  

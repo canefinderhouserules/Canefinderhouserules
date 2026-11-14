@@ -1,7 +1,7 @@
 # Deeper Darkness
 
 **School** evocation [darkness]; **Level** antipaladin 3, cleric 3, inquisitor 3, occultist 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M/DF (bat fur and a piece of coal)  
 **Range** touch  
 **Target** object touched  

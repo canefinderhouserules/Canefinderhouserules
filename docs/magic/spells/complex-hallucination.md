@@ -1,7 +1,7 @@
 # Complex Hallucination
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 4, magus 4, medium 3, mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

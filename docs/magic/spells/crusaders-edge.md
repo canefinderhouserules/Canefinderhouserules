@@ -1,7 +1,7 @@
 # Crusader’s Edge
 
 **School** transmutation [good]; **Level** cleric 4, inquisitor 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (dried blood from an evil outsider, sprinkled on the weapon)  
 **Range** touch  
 **Target** melee weapon touched  

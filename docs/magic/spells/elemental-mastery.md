@@ -1,7 +1,7 @@
 # Elemental Mastery
 
 **School** transmutation [see text]; **Level** bloodrager 4, druid 4, magus 4, ranger 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

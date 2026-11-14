@@ -1,7 +1,7 @@
 # Inveigle Person
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 3, mesmerist 3, psychic 3, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a drop of alcohol)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one humanoid creature  

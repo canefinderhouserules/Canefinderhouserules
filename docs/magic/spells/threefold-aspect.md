@@ -1,7 +1,7 @@
 # Threefold Aspect
 
 **School** transmutation; **Level** druid 5, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, F (silver crescent worth 5 gp)  
 **Range** personal  
 **Target** you  

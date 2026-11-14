@@ -1,7 +1,7 @@
 # Darkvision, Greater
 
 **School** transmutation; **Level** alchemist 4, antipaladin 4, medium 4, occultist 4, psychic 4, ranger 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (either a pinch of dried carrot or an agate)  
 **Range** touch  
 **Target** creature touched  

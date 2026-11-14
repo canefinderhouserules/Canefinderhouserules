@@ -1,7 +1,7 @@
 # Foretell Failure
 
 **School** divination; **Level** bard 4, occultist 5, psychic 4, sorcerer/wizard 5, witch 4  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

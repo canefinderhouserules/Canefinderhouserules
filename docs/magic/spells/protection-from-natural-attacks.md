@@ -1,7 +1,7 @@
 # Protection from Natural Attacks
 
 **School** abjuration; **Level** alchemist 3, druid 4, psychic 4, ranger 2, shaman 4, spiritualist 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a scale from a lizard)  
 **Range** touch  
 **Target** creature touched  

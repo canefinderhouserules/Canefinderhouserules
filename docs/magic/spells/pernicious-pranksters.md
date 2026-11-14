@@ -1,7 +1,7 @@
 # Pernicious Pranksters
 
 **School** conjuration (summoning); **Level** bard 3, druid 5, occultist 3, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (three drops of honey rolled in a sycamore leaf)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** fey pranksters  

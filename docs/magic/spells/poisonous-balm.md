@@ -1,7 +1,7 @@
 # Poisonous Balm
 
 **School** conjuration (healing) [poison, ruse]; **Level** cleric 4, druid 5, occultist 4, shaman 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

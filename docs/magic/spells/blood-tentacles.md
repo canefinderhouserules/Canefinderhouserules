@@ -1,7 +1,7 @@
 # Blood Tentacles
 
 **School** necromancy; **Level** antipaladin 4, cleric 5, shaman 5, sorcerer/wizard 5, summoner 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a fresh handful of the caster's blood)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Suppress Primal Magic
 
 **School** abjuration; **Level** cleric 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of sand from a magic-blasted wasteland)  
 **Range** 10 ft.  
 **Area** 10-ft.-radius emanation centered on you  

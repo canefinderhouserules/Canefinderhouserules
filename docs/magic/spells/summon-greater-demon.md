@@ -1,7 +1,7 @@
 # Summon Greater Demon
 
 **School** conjuration (summoning) [chaotic, evil]; **Level** cleric 9, sorcerer/wizard 9, witch 9  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one summoned creature  

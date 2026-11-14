@@ -1,7 +1,7 @@
 # Ice Crystal Teleport
 
 **School** conjuration (teleportation) [cold]; **Level** sorcerer/ wizard 6, summoner 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature  

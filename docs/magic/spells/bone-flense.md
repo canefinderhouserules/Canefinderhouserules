@@ -1,7 +1,7 @@
 # Bone Flense
 
 **School** transmutation; **Level** bloodrager 2, cleric 3, druid 3, inquisitor 3, magus 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** M/F (a jagged shard of bone from a humanoid creature)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  

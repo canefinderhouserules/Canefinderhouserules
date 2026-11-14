@@ -1,7 +1,7 @@
 # Sea Steed
 
 **School** transmutation (polymorph); **Level** druid 2, paladin 2, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** a creature you are mounted upon  

@@ -1,7 +1,7 @@
 # Wing Bounty
 
 **School** conjuration (creation); **Level** druid 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** 0 ft.  
 **Effect** 2d4 berries + 2 berries/level  

@@ -1,7 +1,7 @@
 # Neutralize Poison
 
 **School** conjuration (healing); **Level** alchemist 4, bard 4, cleric 4, druid 3, inquisitor 4, paladin 4, ranger 3, shaman 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (charcoal)  
 **Range** touch  
 **Target** creature or object of up to 1 cu. ft./level touched  

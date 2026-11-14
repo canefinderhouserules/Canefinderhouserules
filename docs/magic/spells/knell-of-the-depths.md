@@ -1,7 +1,7 @@
 # Knell of the Depths
 
 **School** conjuration [curse, water]; **Level** druid 3, magus 2, shaman 3, sorcerer/wizard 3, summoner 3, witch 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one creature  

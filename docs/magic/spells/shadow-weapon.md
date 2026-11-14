@@ -1,7 +1,7 @@
 # Shadow Weapon
 
 **School** illusion (shadow) [shadow]; **Level** bloodrager 1, occultist 1, psychic 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** one shadow weapon  

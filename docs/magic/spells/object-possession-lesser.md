@@ -1,7 +1,7 @@
 # Object Possession, Lesser
 
 **School** necromancy; **Level** medium 2, mesmerist 3, occultist 2, psychic 3, sorcerer/wizard 4, spiritualist 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** unattended Tiny or Small object  

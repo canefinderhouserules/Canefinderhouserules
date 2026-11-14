@@ -1,7 +1,7 @@
 # Thorn Javelin
 
 **School** conjuration (creation) [poison]; **Level** druid 1, ranger 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** javelin-like thorn  

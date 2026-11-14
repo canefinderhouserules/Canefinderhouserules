@@ -1,7 +1,7 @@
 # Bless Weapon
 
 **School** transmutation; **Level** paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** weapon touched  

@@ -1,7 +1,7 @@
 # Create Soul Gem
 
 **School** necromancy [death, evil]; **Level** cleric 3, occultist 3, shaman 3, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (crystal lens worth 500 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one dying or recently dead creature  

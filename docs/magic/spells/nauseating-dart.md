@@ -1,7 +1,7 @@
 # Nauseating Dart
 
 **School** conjuration (creation) [poison]; **Level** druid 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S, DF  
 **Range** close (25 ft. +5 ft./2 levels)  
 **Effect** one poisonous stinger  

@@ -1,7 +1,7 @@
 # Charm Monster
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 3, mesmerist 3, occultist 4, psychic 4, sorcerer/wizard 4, summoner 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Target** one living creature  
 **Duration** 1 day/level  

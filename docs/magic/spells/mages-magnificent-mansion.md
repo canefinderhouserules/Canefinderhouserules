@@ -1,7 +1,7 @@
 # Mage’s Magnificent Mansion
 
 **School** conjuration (creation); **Level** psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a miniature ivory door, a piece of polished marble, and a silver spoon, each worth 5 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** extradimensional mansion, up to three 10-ft. cubes/level (S)  

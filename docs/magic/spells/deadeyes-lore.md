@@ -1,7 +1,7 @@
 # Deadeye’s Lore
 
 **School** divination; **Level** bard 1, cleric 1, druid 1, inquisitor 1, ranger 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

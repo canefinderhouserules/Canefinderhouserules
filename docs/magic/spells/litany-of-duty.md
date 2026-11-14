@@ -1,7 +1,7 @@
 # Litany of Duty
 
 **School** abjuration [lawful]; **Level** inquisitor 2, paladin 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, DF  
 **Range** personal  
 **Duration** instantaneous  

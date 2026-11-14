@@ -1,7 +1,7 @@
 # Guardian Armor
 
 **School** conjuration (teleportation); **Level** antipaladin 1, bloodrager 1, cleric 1, inquisitor 1, magus 1, occultist 1, paladin 1, sorcerer/wizard 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, F (armor worn)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one willing creature; see below  

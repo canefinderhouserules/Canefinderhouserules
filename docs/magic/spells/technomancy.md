@@ -1,7 +1,7 @@
 # Technomancy
 
 **School** divination; **Level** bard 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (oil stirred with a coil of wires)  
 **Range** 60 ft.  
 **Target** cone-shaped emanation  

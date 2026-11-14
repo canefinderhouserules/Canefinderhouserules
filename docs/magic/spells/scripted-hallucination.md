@@ -1,7 +1,7 @@
 # Scripted Hallucination
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 5, magus 5, medium 4, mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

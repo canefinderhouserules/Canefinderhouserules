@@ -1,7 +1,7 @@
 # See Alignment
 
 **School** divination; **Level** alchemist 1, bard 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (eye of newt)  
 **Range** personal  
 **Target** you  

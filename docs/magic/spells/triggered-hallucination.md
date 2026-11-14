@@ -1,7 +1,7 @@
 # Triggered Hallucination
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 6, magus 6, mesmerist 6, occultist 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (jade dust worth 25 gp)  
 **Target** one creature  
 **Duration** permanent until triggered, then 1 minute/level  

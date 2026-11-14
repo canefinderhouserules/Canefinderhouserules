@@ -1,7 +1,7 @@
 # Master's Escape
 
 **School** conjuration (teleportation); **Level** cleric 4, druid 4, sorcerer/wizard 4, summoner 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** you and one summoned creature you control  

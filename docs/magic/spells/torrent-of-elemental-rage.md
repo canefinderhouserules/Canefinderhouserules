@@ -1,7 +1,7 @@
 # Torrent of Elemental Rage
 
 **School** evocation [air, earth, fire, water]; **Level** sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF  
 **Range** **Effect** persistent line of elements 30 ft. long  
 **Effect** persistent line of elements 30 ft. long  

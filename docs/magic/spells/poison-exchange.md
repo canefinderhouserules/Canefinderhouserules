@@ -1,7 +1,7 @@
 # Poison Exchange
 
 **School** transmutation [poison]; **Level** alchemist 2, cleric 3, druid 2, occultist 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a dose of poison)  
 **Range** personal  
 **Target** you  

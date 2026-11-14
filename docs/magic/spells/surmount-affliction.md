@@ -1,7 +1,7 @@
 # Surmount Affliction
 
 **School** abjuration; **Level** cleric 2, inquisitor 2, spiritualist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** you  
 **Target** personal  

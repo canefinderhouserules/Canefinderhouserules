@@ -1,7 +1,7 @@
 # Bleed for Your Master
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 2, druid 3, ranger 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** touch  
 **Target** your animal companion, familiar, or fiendish servant  

@@ -1,7 +1,7 @@
 # Warp Metal
 
 **School** transmutation [earth]; **Level** bloodrager 4, cleric 4, druid 4, medium 4, occultist 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a twisted wire)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** 1 Small metal object/level, all within a 20-ft. radius; see text  

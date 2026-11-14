@@ -1,7 +1,7 @@
 # Banishing Blade
 
 **School** abjuration; **Level** antipaladin 4, bloodrager 4, inquisitor 5, magus 5, medium 4, paladin 4, shaman 5, sorcerer/wizard 5, spiritualist 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one melee weapon  

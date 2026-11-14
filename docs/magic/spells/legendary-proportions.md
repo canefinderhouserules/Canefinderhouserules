@@ -1,7 +1,7 @@
 # Legendary Proportions
 
 **School** transmutation; **Level** alchemist 6, druid 7, shaman 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a dinosaur bone and powdered amber worth at least 200 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 creature (see text)  

@@ -1,7 +1,7 @@
 # Gift of the Deep
 
 **School** transmutation (polymorph); **Level** cleric 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one non-mutated sahuagin/level, no two of which can be more than 30 ft. apart  

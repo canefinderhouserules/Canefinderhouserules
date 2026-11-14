@@ -1,7 +1,7 @@
 # Detect Desires
 
 **School** divination [mind-affecting]; **Level** antipaladin 2, bard 2, cleric 3, inquisitor 3, medium 2, mesmerist 3, paladin 3, psychic 2, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a medallion)  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

@@ -1,7 +1,7 @@
 # Summon Instrument
 
 **School** conjuration (summoning); **Level** bard 0  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** one summoned handheld musical instrument  

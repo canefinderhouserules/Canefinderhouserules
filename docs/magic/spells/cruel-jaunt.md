@@ -1,7 +1,7 @@
 # Cruel Jaunt
 
 **School** conjuration (teleportation) [evil, fear, mind-affecting]; **Level** antipaladin 4, cleric 6, inquisitor 6, magus 6, psychic 6, shaman 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a dilated human eyeball)  
 **Range** medium (100 feet + 10 ft./level)  
 **Target** you  

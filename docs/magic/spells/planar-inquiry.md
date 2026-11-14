@@ -1,7 +1,7 @@
 # Planar Inquiry
 
 **School** conjuration (calling); **Level** cleric 3, druid 3, inquisitor 3, shaman 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (offerings worth 100 gp per HD of creature called)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one called outsider who answers questions  

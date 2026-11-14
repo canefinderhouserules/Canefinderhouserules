@@ -1,7 +1,7 @@
 # Waves of Blood
 
 **School** conjuration (creation); **Level** bloodrager 3, magus 3, psychic 3, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of the caster’s blood)  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

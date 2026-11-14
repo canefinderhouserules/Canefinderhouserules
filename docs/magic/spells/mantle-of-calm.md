@@ -1,7 +1,7 @@
 # Mantle of Calm
 
 **School** enchantment (compulsion); **Level** cleric 3, inquisitor 3, mesmerist 2, paladin 3, psychic 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

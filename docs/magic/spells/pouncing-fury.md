@@ -1,7 +1,7 @@
 # Pouncing Fury
 
 **School** transmutation; **Level** alchemist 2, bloodrager 2, druid 2, magus 2, ranger 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

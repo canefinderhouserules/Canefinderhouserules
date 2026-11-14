@@ -1,7 +1,7 @@
 # Magic Aura, Greater
 
 **School** illusion (glamer); **Level** bard 3, mesmerist 3, occultist 3, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a woolen handkerchief)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature, or one object weighing up to 20 lbs./level  

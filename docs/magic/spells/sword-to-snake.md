@@ -1,7 +1,7 @@
 # Sword to Snake
 
 **School** transmutation [poison]; **Level** cleric 4, druid 4, shaman 4, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a hair from a spider)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one Medium or smaller item  

@@ -1,7 +1,7 @@
 # Path of Glory, Greater
 
 **School** conjuration (healing); **Level** bard 4, cleric 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch (see text)  
 **Area** four 5-ft. squares/level (see text)  

@@ -1,7 +1,7 @@
 # Shadowfade
 
 **School** illusion (shadow); **Level** bard 1, inquisitor 1, mesmerist 1, sorcerer/wizard 1, summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a blindfold)  
 **Range** touch  
 **Target** creature touched  

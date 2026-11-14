@@ -1,7 +1,7 @@
 # Signifer’s Rally
 
 **School** conjuration (teleportation) [evil]; **Level** cleric 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (100 gp worth of bloodstone for every ally teleported)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one willing ally/5 levels  

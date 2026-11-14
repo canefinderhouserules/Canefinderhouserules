@@ -1,7 +1,7 @@
 # Languid Venom
 
 **School** necromancy [poison]; **Level** alchemist 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (herbs used in antitoxins worth 25 gp)  
 **Range** touch  
 **Target** one dose of poison or one venomous creature  

@@ -1,7 +1,7 @@
 # Flurry of Snowballs
 
 **School** evocation [cold, water]; **Level** druid 2, magus 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

@@ -1,7 +1,7 @@
 # Fairy Ring Retreat
 
 **School** conjuration (creation); **Level** druid 7, shaman 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** extradimensional meadow, up to three 10-ft. cubes/ level (S)  

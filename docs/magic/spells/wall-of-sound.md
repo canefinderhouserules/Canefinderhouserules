@@ -1,7 +1,7 @@
 # Wall of Sound
 
 **School** evocation [sonic]; **Level** bard 4, bloodrager 4, magus 4, psychic 5, sorcerer/wizard 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a tuning fork and a quartz crystal)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** translucent wall of sound up to 20 ft. long/level or a ring of sound with a radius of up to 5 ft./two levels; either form 20 ft. high  

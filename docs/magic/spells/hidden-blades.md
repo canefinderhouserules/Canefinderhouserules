@@ -1,7 +1,7 @@
 # Hidden Blades
 
 **School** illusion (glamer); **Level** alchemist 2, antipaladin 2, bard 2, inquisitor 2, magus 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a shard of glass)  
 **Range** touch  
 **Target** weapon or ammunition touched; see text  

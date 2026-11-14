@@ -1,7 +1,7 @@
 # Locate Gate
 
 **School** divination; **Level** bard 5, cleric 5, occultist 5, psychic 5, sorcerer/wizard 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F/DF (a small lodestone sphere)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** circle centered on you with a radius of 400 ft. + 40 ft./level  

@@ -1,7 +1,7 @@
 # Phase Door
 
 **School** conjuration (creation); **Level** psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** touch  
 **Effect** ethereal 5-ft.-by-8-ft. opening, 10 ft. deep + 5 ft. deep per three levels  

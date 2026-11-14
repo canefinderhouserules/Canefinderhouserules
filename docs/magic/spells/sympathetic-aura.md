@@ -1,7 +1,7 @@
 # Sympathetic Aura
 
 **School** illusion (glamer); **Level** bard 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a small square of silk that must be passed over the object that receives the aura)  
 **Range** touch  
 **Target** one touched object weighing up to 5 lbs./level  

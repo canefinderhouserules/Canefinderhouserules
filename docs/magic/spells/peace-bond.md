@@ -1,7 +1,7 @@
 # Peace Bond
 
 **School** abjuration; **Level** bard 1, cleric 1, druid 1, inquisitor 1, paladin 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a glass cube)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one or more 5-ft. cubes, no two of which can be more than 30 ft. apart  

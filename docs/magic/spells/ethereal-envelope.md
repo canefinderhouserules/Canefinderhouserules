@@ -1,7 +1,7 @@
 # Ethereal Envelope
 
 **School** conjuration (teleportation); **Level** psychic 5, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M (empty crystal box)  
 **Range** personal  
 **Target** you  

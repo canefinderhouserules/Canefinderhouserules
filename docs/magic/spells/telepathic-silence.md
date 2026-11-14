@@ -1,7 +1,7 @@
 # Telepathic Silence
 
 **School** illusion (glamer); **Level** medium 4, mesmerist 4, occultist 4, psychic 4, spiritualist 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 60-ft.-radius emanation centered on a point in space  

@@ -1,7 +1,7 @@
 # Spiritual Weapon
 
 **School** evocation [force]; **Level** cleric 2, inquisitor 2, medium 2, shaman 2, spiritualist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** magic weapon of force  

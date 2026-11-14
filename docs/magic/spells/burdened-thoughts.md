@@ -1,7 +1,7 @@
 # Burdened Thoughts
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 2, shaman 2, sorcerer/wizard 3, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a lead bearing wrapped in clay)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

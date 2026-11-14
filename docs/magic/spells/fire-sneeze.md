@@ -1,7 +1,7 @@
 # Fire Sneeze
 
 **School** evocation [air, fire]; **Level** alchemist 2, druid 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (hot pepper soaked in oil)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Sun Metal
 
 **School** transmutation [fire]; **Level** cleric 1, paladin 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one melee weapon  

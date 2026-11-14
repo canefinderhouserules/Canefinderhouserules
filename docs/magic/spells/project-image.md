@@ -1,7 +1,7 @@
 # Project Image
 
 **School** illusion (shadow); **Level** bard 6, mesmerist 6, occultist 6, psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a small replica of you worth 5 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** one shadow duplicate  

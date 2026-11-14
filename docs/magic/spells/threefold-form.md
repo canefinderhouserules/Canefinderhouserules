@@ -1,7 +1,7 @@
 # Threefold Form
 
 **School** divination; **Level** druid 9, psychic 9, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a green, three-pointed knot made of mithral worth 729 gp)  
 **Range** personal  
 **Target** you  

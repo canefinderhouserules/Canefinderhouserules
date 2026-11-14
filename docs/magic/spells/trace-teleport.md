@@ -1,7 +1,7 @@
 # Trace Teleport
 
 **School** divination; **Level** psychic 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a magnifying lens)  
 **Range** 40 feet  
 **Area** 40-ft.-radius emanation centered on you  

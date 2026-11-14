@@ -1,7 +1,7 @@
 # Drowned Souls' Grasp
 
 **School** necromancy (haunted) [emotion, fear, mind-affecting]; **Level** cleric 6, inquisitor 6, shaman 6, spiritualist 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a vial of sea water)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one 5-ft. cube/level (S)  

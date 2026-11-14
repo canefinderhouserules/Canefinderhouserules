@@ -1,7 +1,7 @@
 # Open/Close
 
 **School** transmutation; **Level** bard 0, magus 0, medium 0, mesmerist 0, occultist 0, psychic 0, sorcerer/wizard 0, spiritualist 0, summoner 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a brass key)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** object weighing up to 30 lbs. or portal that can be opened or closed  

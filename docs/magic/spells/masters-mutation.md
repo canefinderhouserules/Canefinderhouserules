@@ -1,7 +1,7 @@
 # Master's Mutation
 
 **School** transmutation (polymorph); **Level** druid 5, sorcerer/wizard 5, summoner 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./level)  
 **Target** you and one summoned creature you control  

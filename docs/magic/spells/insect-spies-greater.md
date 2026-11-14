@@ -1,7 +1,7 @@
 # Insect Spies, Greater
 
 **School** divination; **Level** druid 6, sorcerer/wizard 7, summoner 6, witch 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a drop of honey)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** up to one insect spy/4 levels  

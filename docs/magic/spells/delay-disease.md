@@ -1,7 +1,7 @@
 # Delay Disease
 
 **School** conjuration (healing); **Level** alchemist 2, cleric 2, druid 2, inquisitor 2, mesmerist 2, paladin 2, ranger 2, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

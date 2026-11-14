@@ -1,7 +1,7 @@
 # Rampart
 
 **School** conjuration (creation) [earth]; **Level** druid 7, sorcerer/ wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a handful of earth)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 10-ft.-high earthen wall, in a line up to 10 ft. long/2 levels, or a circle with radius of up to 3 ft. + 1 ft./level  

@@ -1,7 +1,7 @@
 # Audiovisual Hallucination
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 3, magus 3, medium 2, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

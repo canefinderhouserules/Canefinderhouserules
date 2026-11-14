@@ -1,7 +1,7 @@
 # Aura of Distraction
 
 **School** enchantment [mind-affecting]; **Level** psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Area** 20-ft.-radius emanation centered on you  
 **Duration** 1 minute/level (D)  

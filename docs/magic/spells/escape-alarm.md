@@ -1,7 +1,7 @@
 # Escape Alarm
 
 **School** abjuration; **Level** bard 2, inquisitor 2, occultist 2, psychic 2, ranger 2, sorcerer/wizard 2, spiritualist 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a short segment of a chain)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** ten 10-foot cubes/level  

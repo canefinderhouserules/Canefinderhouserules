@@ -1,7 +1,7 @@
 # Shifting Shadows
 
 **School** evocation [darkness]; **Level** bard 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of ink)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** 20-ft.-radius emanation centered on a point in space  

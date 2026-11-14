@@ -1,7 +1,7 @@
 # Spear of Purity
 
 **School** evocation [good]; **Level** cleric 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** spear-shaped projectile of chaotic energy  

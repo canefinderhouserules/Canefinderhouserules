@@ -1,7 +1,7 @@
 # Qlippoth Appearance
 
 **School** transmutation (polymorph) [mind-affecting]; **Level** alchemist 3, antipaladin 2, cleric 3, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

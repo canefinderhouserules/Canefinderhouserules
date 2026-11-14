@@ -1,7 +1,7 @@
 # Sylvan Hideaway
 
 **School** conjuration (creation); **Level** druid 3, ranger 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (one pound of unworked stone or wood)  
 **Range** touch  
 **Target** one 5-foot square of touched earth  

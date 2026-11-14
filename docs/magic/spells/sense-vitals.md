@@ -1,7 +1,7 @@
 # Sense Vitals
 
 **School** divination; **Level** antipaladin 2, bard 2, ranger 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of blood)  
 **Range** personal  
 **Target** you  

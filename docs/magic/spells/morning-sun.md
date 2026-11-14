@@ -1,7 +1,7 @@
 # Morning Sun
 
 **School** evocation [light]; **Level** cleric 7, druid 7, inquisitor 6, shaman 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (500 gp worth of gold dust)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 60-ft. radius  

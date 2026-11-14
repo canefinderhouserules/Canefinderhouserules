@@ -1,7 +1,7 @@
 # Barbed Chains
 
 **School** conjuration (summoning) [emotion, fear, mind-affecting]; **Level** antipaladin 1, bloodrager 1, cleric 1, inquisitor 1, occultist 1, shaman 1, summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a length of chain doused with fresh blood)  
 **Range** close (25 ft. + 5 ft./level)  
 **Effect** a chain sharpened at one end  

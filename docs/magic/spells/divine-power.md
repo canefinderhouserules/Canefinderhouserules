@@ -1,7 +1,7 @@
 # Divine Power
 
 **School** evocation; **Level** cleric 4, inquisitor 4, shaman 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

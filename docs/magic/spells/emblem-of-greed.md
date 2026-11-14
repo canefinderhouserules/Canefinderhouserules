@@ -1,7 +1,7 @@
 # Emblem of Greed
 
 **School** transmutation (polymorph); **Level** cleric 6, inquisitor 6, magus 6, medium 6, shaman 7, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a masterwork or magical melee weapon)  
 **Range** touch  
 **Target** 1 masterwork melee weapon touched  

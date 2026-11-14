@@ -1,7 +1,7 @@
 # Night Blindness
 
 **School** necromancy [curse]; **Level** antipaladin 1, bard 1, bloodrager 1, cleric 2, mesmerist 1, psychic 1, shaman 2, sorcerer/wizard 1, spiritualist 2, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one living creature  

@@ -1,7 +1,7 @@
 # Haste
 
 **School** transmutation; **Level** alchemist 3, bard 3, bloodrager 3, magus 3, medium 2, occultist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a shaving of licorice root)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

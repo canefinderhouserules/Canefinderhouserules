@@ -1,7 +1,7 @@
 # Weird
 
 **School** illusion (phantasm) [fear, mind-affecting]; **Level** psychic 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Targets** any number of creatures, no two of which can be more than 30 ft. apart  
 **Duration** instantaneous  

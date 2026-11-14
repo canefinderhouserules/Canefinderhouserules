@@ -1,7 +1,7 @@
 # Guidance
 
 **School** divination; **Level** cleric 0, druid 0, inquisitor 0, medium 0, occultist 0, shaman 0, spiritualist 0, summoner 0, witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

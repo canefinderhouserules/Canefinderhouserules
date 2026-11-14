@@ -1,7 +1,7 @@
 # Stumble Gap
 
 **School** conjuration (creation); **Level** sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (miniature shovel costing 10 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** see text  

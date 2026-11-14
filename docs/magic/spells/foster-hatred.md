@@ -1,7 +1,7 @@
 # Foster Hatred
 
 **School** enchantment (compulsion) [emotion]; **Level** antipaladin 4, inquisitor 5, mesmerist 5, psychic 6, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** any number of living creatures, no two of which can be more than 30 ft. apart  

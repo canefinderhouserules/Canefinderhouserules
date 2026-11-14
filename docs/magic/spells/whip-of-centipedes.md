@@ -1,7 +1,7 @@
 # Whip of Centipedes
 
 **School** conjuration (summoning); **Level** bard 5, druid 5, sorcerer/wizard 5, summoner 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a square of red cloth)  
 **Range** 0 ft.  
 **Effect** whiplike swarm  

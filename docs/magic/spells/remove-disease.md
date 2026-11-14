@@ -1,7 +1,7 @@
 # Remove Disease
 
 **School** conjuration (healing); **Level** alchemist 3, cleric 3, druid 3, inquisitor 3, ranger 3, shaman 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

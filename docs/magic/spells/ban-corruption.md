@@ -1,7 +1,7 @@
 # Ban Corruption
 
 **School** abjuration [good]; **Level** cleric 5, inquisitor 4, medium 3, occultist 4, paladin 4, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a ceremonial dagger)  
 **Area** 30-ft.-radius emanation centered on you  
 **Duration** concentration plus 1 round/level, up to 1 hour/level  

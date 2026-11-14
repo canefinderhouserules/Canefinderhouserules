@@ -1,7 +1,7 @@
 # Object Possession, Greater
 
 **School** necromancy; **Level** occultist 5, psychic 6, sorcerer/ wizard 7, spiritualist 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** unattended Gargantuan or smaller object (minimum Tiny) or construct  

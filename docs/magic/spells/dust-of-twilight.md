@@ -1,7 +1,7 @@
 # Dust of Twilight
 
 **School** conjuration [darkness]; **Level** bard 2, bloodrager 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (coal dust)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** creatures and objects in a 10-ft. spread  

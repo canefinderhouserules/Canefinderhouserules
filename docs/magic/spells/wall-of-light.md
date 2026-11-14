@@ -1,7 +1,7 @@
 # Wall of Light
 
 **School** evocation [light]; **Level** arcanist 5, druid 5, hunter 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a chip of mica)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 10-ft.-high vertical sheet of light up to 5 ft. long/level  

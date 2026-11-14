@@ -1,7 +1,7 @@
 # Impossible Angles
 
 **School** illusion (figment); **Level** medium 3, mesmerist 4, occultist 4, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a melted prism)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** contiguous area up to one 5-foot cube/caster level (S)  

@@ -1,7 +1,7 @@
 # Magic Stone
 
 **School** transmutation; **Level** cleric 1, druid 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Targets** up to three pebbles touched  

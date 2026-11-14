@@ -1,7 +1,7 @@
 # Shadowy Haven
 
 **School** transmutation; **Level** psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a small black silk bag)  
 **Range** touch  
 **Target** one 5-foot square of floor touched  

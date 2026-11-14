@@ -1,7 +1,7 @@
 # Burst of Force
 
 **School** evocation [force]; **Level** psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Area** 20-ft.-radius burst centered on you  
 **Duration** instantaneous  

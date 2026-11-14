@@ -1,7 +1,7 @@
 # Infuse Self
 
 **School** transmutation (polymorph); **Level** alchemist 3, bard 3, bloodrager 3, magus 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  
 **Target** you  

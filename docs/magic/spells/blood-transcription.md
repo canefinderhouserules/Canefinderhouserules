@@ -1,7 +1,7 @@
 # Blood Transcription
 
 **School** divination [evil]; **Level** alchemist 2, magus 2, wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** touch  
 **Target** one dead spellcaster  

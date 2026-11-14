@@ -1,7 +1,7 @@
 # Force Anchor
 
 **School** conjuration (creation) [force]; **Level** inquisitor 2, magus 2, sorcerer/wizard 3, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a twisted nail)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** one anchor of force  

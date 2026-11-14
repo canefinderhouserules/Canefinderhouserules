@@ -1,7 +1,7 @@
 # Waft
 
 **School** transmutation; **Level** cleric 5, druid 5, magus 5, occultist 5, shaman 5, sorcerer/wizard 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a dandelion seed)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** up to one creature per 2 levels, no two of which can be more than 30 ft. apart  

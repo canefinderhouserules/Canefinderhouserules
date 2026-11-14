@@ -1,7 +1,7 @@
 # Dictum
 
 **School** evocation [lawful, sonic]; **Level** cleric 7, inquisitor 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** 40 ft.  
 **Area** nonlawful creatures in a 40-ft.-radius spread centered on you  

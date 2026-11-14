@@ -1,7 +1,7 @@
 # Litany of Entanglement
 
 **School** conjuration (calling) [language-dependent]; **Level** antipaladin 2, inquisitor 3, paladin 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Lend Path
 
 **School** transmutation; **Level** bard 4, cleric 5, druid 5, magus 4, medium 2, psychic 5, sorcerer/wizard 5, summoner 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

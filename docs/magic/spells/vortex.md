@@ -1,7 +1,7 @@
 # Vortex
 
 **School** evocation [water]; **Level** druid 7, shaman 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a stirring spoon)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** whirlpool 50 ft. deep, 30 ft. wide at top, and 5 ft. wide at base  

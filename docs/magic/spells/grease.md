@@ -1,7 +1,7 @@
 # Grease
 
 **School** conjuration (creation); **Level** bard 1, magus 1, mesmerist 1, sorcerer/wizard 1, summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (butter)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one object or 10-ft. square  

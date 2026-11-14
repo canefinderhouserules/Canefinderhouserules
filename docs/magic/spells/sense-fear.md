@@ -1,7 +1,7 @@
 # Sense Fear
 
 **School** divination; **Level** antipaladin 1, bloodrager 1, cleric 2, druid 2, inquisitor 2, medium 1, mesmerist 2, occultist 2, psychic 2, ranger 2, shaman 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a patch of fur)  
 **Range** personal  
 **Target** you  

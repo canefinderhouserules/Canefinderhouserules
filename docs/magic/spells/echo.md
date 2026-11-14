@@ -1,7 +1,7 @@
 # Echo
 
 **School** illusion (figment); **Level** bard 1, druid 1, medium 1, mesmerist 1, occultist 1, psychic 1, ranger 1, spiritualist 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S, F (a conch shell)  
 **Range** close (25 ft. + 5 ft./2 levels) or long (400 ft. + 40 ft./level); see text  
 **Area** one 10-ft. cube/level (S)  

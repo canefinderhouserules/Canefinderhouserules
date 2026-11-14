@@ -1,7 +1,7 @@
 # Free Spirit
 
 **School** abjuration; **Level** bard 3, cleric 3, druid 3, medium 3, shaman 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

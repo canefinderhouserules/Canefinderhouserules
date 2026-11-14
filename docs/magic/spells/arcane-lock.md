@@ -1,7 +1,7 @@
 # Arcane Lock
 
 **School** abjuration; **Level** occultist 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (gold dust worth 25 gp)  
 **Range** touch  
 **Target** door, chest, or portal touched, up to 30 sq. ft./level in size  

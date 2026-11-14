@@ -1,7 +1,7 @@
 # Force Sword
 
 **School** evocation [force]; **Level** bloodrager 2, magus 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** one sword-shaped weapon of force  

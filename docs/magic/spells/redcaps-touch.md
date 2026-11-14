@@ -1,7 +1,7 @@
 # Redcap's Touch
 
 **School** transmutation; **Level** antipaladin 4, bloodrager 4, druid 6, ranger 4, shaman 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (1 ounce of blood)  
 **Range** touch  
 **Target** one nonmagical hat touched  

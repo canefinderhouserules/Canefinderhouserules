@@ -1,7 +1,7 @@
 # Cloud of Seasickness
 
 **School** conjuration (creation) [poison]; **Level** cleric 2, druid 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a piece of seaweed)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high  

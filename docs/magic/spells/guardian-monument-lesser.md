@@ -1,7 +1,7 @@
 # Guardian Monument, Lesser
 
 **School** abjuration; **Level** bard 3, inquisitor 3, magus 3, occultist 3, paladin 3, psychic 3, shaman 4, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S, F (an unattended, nonmagical object)  
 **Range** touch  
 **Area** 40-ft. radius from touched object or 60-ft. radius from touched object; see text  

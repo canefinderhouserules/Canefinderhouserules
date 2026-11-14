@@ -1,7 +1,7 @@
 # Iron Spine
 
 **School** transmutation; **Level** cleric 4, magus 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (cold iron ingot)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one living creature  

@@ -1,7 +1,7 @@
 # Suffocation, Slow
 
 **School** necromancy [death]; **Level** pesh adept 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

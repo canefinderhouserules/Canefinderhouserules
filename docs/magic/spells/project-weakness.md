@@ -1,7 +1,7 @@
 # Project Weakness
 
 **School** necromancy [curse, evil]; **Level** cleric 3, sorcerer/wizard 4, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

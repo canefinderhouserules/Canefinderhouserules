@@ -1,7 +1,7 @@
 # Aquatic Trail
 
 **School** divination [water]; **Level** druid 3, hunter 2, inquisitor 3, ranger 2, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** circle centered on you, with a radius of 100 feet + 10 feet per level  

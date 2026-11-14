@@ -1,7 +1,7 @@
 # Frost Mammoth
 
 **School** conjuration (creation) [cold]; **Level** cleric 7, druid 7, shaman 7, sorcerer/wizard 7, summoner 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a fragment of mammoth tusk)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one frost mammoth  

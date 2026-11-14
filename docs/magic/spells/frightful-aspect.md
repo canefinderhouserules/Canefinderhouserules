@@ -1,7 +1,7 @@
 # Frightful Aspect
 
 **School** transmutation (polymorph); **Level** cleric 8, druid 8, psychic 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (the skin of a toad)  
 **Range** personal  
 **Target** you  

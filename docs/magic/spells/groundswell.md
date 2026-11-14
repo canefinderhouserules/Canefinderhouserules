@@ -1,7 +1,7 @@
 # Groundswell
 
 **School** transmutation [earth]; **Level** cleric 2, druid 2, magus 2, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

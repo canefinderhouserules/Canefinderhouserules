@@ -1,7 +1,7 @@
 # Planetarium
 
 **School** illusion (figment); **Level** bard 2, cleric 2, druid 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 15-ft.-radius spherical projection of night sky  

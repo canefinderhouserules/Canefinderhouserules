@@ -1,7 +1,7 @@
 # Archon’s Trumpet
 
 **School** evocation [good, sonic]; **Level** bard 5, cleric 7, paladin 4, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

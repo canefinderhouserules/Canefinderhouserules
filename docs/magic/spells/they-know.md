@@ -1,7 +1,7 @@
 # They Know
 
 **School** enchantment (compulsion) [emotion, fear]; **Level** bard 3, inquisitor 3, mesmerist 3, paladin 3, psychic 4, shaman 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF, M (a drop of black ink)  
 **Range** medium (100 ft. plus 10 ft./level)  
 **Target** one intelligent creature  

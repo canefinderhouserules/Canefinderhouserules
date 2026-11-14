@@ -1,7 +1,7 @@
 # Psychic Asylum
 
 **School** illusion (phantasm) [mind-affecting]; **Level** mesmerist 5, psychic 5, sorcerer/wizard 6  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

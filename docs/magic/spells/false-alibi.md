@@ -1,7 +1,7 @@
 # False Alibi
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, cleric 3, inquisitor 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (emerald dust worth 100 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  

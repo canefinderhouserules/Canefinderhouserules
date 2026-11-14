@@ -1,7 +1,7 @@
 # Unliving Rage
 
 **School** necromancy; **Level** cleric 2, mesmerist 2, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** one willing undead creature per 3 levels, no two of which can be more than 30 ft. apart  

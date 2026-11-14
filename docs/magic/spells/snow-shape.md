@@ -1,7 +1,7 @@
 # Snow Shape
 
 **School** transmutation [water]; **Level** cleric 2, druid 1, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a miniature shovel)  
 **Range** touch  
 **Target** snow or snow-sculpted object touched, up to 5 cu. ft. + 1 cu. ft./level  

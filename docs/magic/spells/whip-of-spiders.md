@@ -1,7 +1,7 @@
 # Whip of Spiders
 
 **School** conjuration (summoning); **Level** bard 2, druid 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a square of red cloth)  
 **Range** 0 ft.  
 **Effect** whiplike swarm  

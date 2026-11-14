@@ -1,7 +1,7 @@
 # Fabricate Bullets
 
 **School** transmutation; **Level** sorcerer/wizard 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (1 pound of lead or other soft metal worth 2 gp)  
 **Range** touch  
 **Target** 1 pound of soft metal  

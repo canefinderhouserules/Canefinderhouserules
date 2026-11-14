@@ -1,7 +1,7 @@
 # Animal Growth
 
 **School** transmutation; **Level** druid 5, ranger 4, shaman 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one animal (Gargantuan or smaller)  

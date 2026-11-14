@@ -1,7 +1,7 @@
 # Soulswitch
 
 **School** necromancy; **Level** bard 5, cleric 5, druid 5, inquisitor 5, magus 5, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (two brass collars worth 50 gp each)  
 **Range** touch  
 **Targets** you and your familiar  

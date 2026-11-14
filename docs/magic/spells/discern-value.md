@@ -1,7 +1,7 @@
 # Discern Value
 
 **School** divination; **Level** bard 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (platinum monocle worth 100 gp)  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

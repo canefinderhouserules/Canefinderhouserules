@@ -1,7 +1,7 @@
 # Positive Pulse
 
 **School** necromancy; **Level** cleric 1, inquisitor 1, paladin 1, shaman 1, sorcerer/wizard 1, spiritualist 1, summoner 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 5-ft.-radius burst  

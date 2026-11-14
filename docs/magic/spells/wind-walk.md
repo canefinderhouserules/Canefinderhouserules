@@ -1,7 +1,7 @@
 # Wind Walk
 
 **School** transmutation [air]; **Level** alchemist 6, cleric 6, druid 7, shaman 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Targets** you and one touched creature per three levels  

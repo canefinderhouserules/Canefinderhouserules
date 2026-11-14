@@ -1,7 +1,7 @@
 # Track Ship
 
 **School** divination (scrying) [travel]; **Level** bard 2, cleric 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (piece of ship)  
 **Range** see text  
 **Effect** magical icon  

@@ -1,7 +1,7 @@
 # Limp Lash
 
 **School** necromancy; **Level** sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a dead wasp)  
 **Range** 20 ft.  
 **Target** 1 creature  

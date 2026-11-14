@@ -1,7 +1,7 @@
 # Cold Ice Strike
 
 **School** evocation [cold]; **Level** cleric 6, occultist 6, sorcerer/wizard 6  
-**Casting Time** swift action  
+**Casting Time** swift action (1 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** cone-shaped burst  

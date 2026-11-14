@@ -1,7 +1,7 @@
 # Vermin Shape II
 
 **School** transmutation (polymorph); **Level** alchemist 5, druid 4, magus 5, sorcerer/wizard 5, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  
 **Target** you  

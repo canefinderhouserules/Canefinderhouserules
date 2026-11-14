@@ -1,7 +1,7 @@
 # Lesser Nondetection
 
 **School** abjuration; **Level** alchemist 2, antipaladin 2, inquisitor 2, ranger 3, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of mercury)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** creature touched  

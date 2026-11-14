@@ -1,7 +1,7 @@
 # Deadly Juggernaut
 
 **School** necromancy [death]; **Level** antipaladin 3, cleric 3, inquisitor 3, paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

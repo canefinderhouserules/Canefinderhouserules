@@ -1,7 +1,7 @@
 # Beacon of Guilt
 
 **School** evocation [curse]; **Level** bard 2, inquisitor 2, occultist 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one object  

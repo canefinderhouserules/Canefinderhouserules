@@ -1,7 +1,7 @@
 # Hymn of Mercy
 
 **School** enchantment (compulsion) [good, mind-affecting]; **Level** bard 5, cleric 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** 30-ft.-radius burst centered on you  

@@ -1,7 +1,7 @@
 # Ooze Form III
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a bit of the creature whose form you plan to assume)  
 **Range** personal  
 **Target** you  

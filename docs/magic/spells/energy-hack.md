@@ -1,7 +1,7 @@
 # Energy Hack
 
 **School** transmutation [acid, cold, electricity, or fire; see below]; **Level** sorcerer/wizard 4  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Wall of Fire
 
 **School** evocation [fire]; **Level** bloodrager 4, druid 5, magus 4, occultist 4, shaman 5, sorcerer/wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a piece of phosphor)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high  

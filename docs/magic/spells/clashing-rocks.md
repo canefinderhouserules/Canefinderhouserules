@@ -1,7 +1,7 @@
 # Clashing Rocks
 
 **School** conjuration (creation) [earth]; **Level** druid 9, sorcerer/ wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** see text  

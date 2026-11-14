@@ -1,7 +1,7 @@
 # Dungeonsight
 
 **School** divination; **Level** bard 4, cleric 5, inquisitor 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a small glass orb worth 150 gp)  
 **Range** personal  
 **Area** 60-ft.-radius emanation  

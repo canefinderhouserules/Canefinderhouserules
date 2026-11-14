@@ -1,7 +1,7 @@
 # Anti-Summoning Shield
 
 **School** abjuration; **Level** bard 2, inquisitor 3, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** 50-ft.-radius  

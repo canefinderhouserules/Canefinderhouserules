@@ -1,7 +1,7 @@
 # Natural Rhythm
 
 **School** transmutation; **Level** druid 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a handful of pebbles dropped one by one onto the ground)  
 **Range** touch  
 **Target** creature touched  

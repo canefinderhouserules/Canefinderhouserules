@@ -1,7 +1,7 @@
 # Healing Thief
 
 **School** necromancy; **Level** mesmerist 1, occultist 3, psychic 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a bit of sponge, damp with tears)  
 **Range** touch  
 **Target** creature touched  

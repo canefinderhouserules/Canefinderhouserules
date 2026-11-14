@@ -1,7 +1,7 @@
 # Cure Moderate Wounds
 
 **School** conjuration (healing); **Level** alchemist 2, bard 2, cleric 2, druid 3, inquisitor 2, occultist 2, paladin 3, ranger 3, shaman 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

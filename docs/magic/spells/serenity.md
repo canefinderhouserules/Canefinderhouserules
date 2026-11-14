@@ -1,7 +1,7 @@
 # Serenity
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, cleric 5, mesmerist 4, psychic 5, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** one creature/level, no two of which can be more than 30 ft. apart  

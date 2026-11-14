@@ -1,7 +1,7 @@
 # Jester’s Jaunt
 
 **School** conjuration (teleportation); **Level** bard 3, mesmerist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one living creature  

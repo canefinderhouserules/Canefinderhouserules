@@ -1,7 +1,7 @@
 # Masochistic Shadow
 
 **School** necromancy [evil, shadow]; **Level** antipaladin 4, bloodrager 4, magus 4, occultist 4, shaman 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./level)  
 **Target** one creature  

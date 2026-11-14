@@ -1,7 +1,7 @@
 # Identity Validation
 
 **School** divination; **Level** alchemist 1, inquisitor 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a bit of hair, a fingernail, or a similar portion of a creature)  
 **Range** touch  
 **Target** creature touched  

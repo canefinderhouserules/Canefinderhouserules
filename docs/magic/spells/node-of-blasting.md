@@ -1,7 +1,7 @@
 # Node of Blasting
 
 **School** abjuration [mind-affecting]; **Level** medium 3, mesmerist 3, occultist 2, psychic 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** touch  
 **Target** one touched object weighing no more than 10 lbs.  

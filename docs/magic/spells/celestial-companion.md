@@ -1,7 +1,7 @@
 # Celestial Companion
 
 **School** transmutation; **Level** druid 2, paladin 1, ranger 2, shaman 2, sorcerer/wizard 2, summoner 1, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF/M  
 **Range** touch  
 **Target** animal companion, eidolon, familiar, or mount  

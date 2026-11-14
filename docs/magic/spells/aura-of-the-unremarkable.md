@@ -1,7 +1,7 @@
 # Aura of the Unremarkable
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, medium 2, mesmerist 3, psychic 3, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a white feather)  
 **Range** 30 ft.  
 **Target** non-allied creatures within a 30-ft. emanation  

@@ -1,7 +1,7 @@
 # Spell Absorption
 
 **School** abjuration; **Level** sorcerer/wizard 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a prism)  
 **Range** personal  
 **Target** you  

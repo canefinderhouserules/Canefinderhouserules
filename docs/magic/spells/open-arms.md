@@ -1,7 +1,7 @@
 # Open Arms
 
 **School** transmutation; **Level** sorcerer/wizard 5  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, F (a magical or masterwork melee weapon)  
 **Range** touch  
 **Target** melee weapon touched  

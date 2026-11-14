@@ -1,7 +1,7 @@
 # Major Image
 
 **School** illusion (figment); **Level** bard 3, magus 3, medium 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a bit of fleece)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** visual figment that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)  

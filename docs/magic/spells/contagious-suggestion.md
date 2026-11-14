@@ -1,7 +1,7 @@
 # Contagious Suggestion
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 4, medium 4, mesmerist 4, occultist 5, psychic 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./level)  
 **Target** one living creature  

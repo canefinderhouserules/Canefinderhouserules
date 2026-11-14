@@ -1,7 +1,7 @@
 # Mind Swap
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** medium 3, mesmerist 5, occultist 4, psychic 5, sorcerer/ wizard 6, spiritualist 4, summoner 5, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

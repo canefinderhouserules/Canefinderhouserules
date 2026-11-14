@@ -1,7 +1,7 @@
 # Repugnant Taste
 
 **School** transmutation [poison]; **Level** alchemist 3, bard 3, druid 4, mesmerist 3, ranger 3, shaman 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (mustard seed)  
 **Range** touch  
 **Target** creature touched  

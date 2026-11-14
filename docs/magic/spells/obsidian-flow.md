@@ -1,7 +1,7 @@
 # Obsidian Flow
 
 **School** transmutation [earth, fire]; **Level** druid 4, sorcerer/ wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a small piece of obsidian)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 20-ft.-radius burst  

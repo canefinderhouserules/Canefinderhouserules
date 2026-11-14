@@ -1,7 +1,7 @@
 # Fool’s Forbiddance
 
 **School** abjuration [mind-affecting]; **Level** bard 6, psychic 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a ring of keys)  
 **Range** 10 ft.  
 **Area** 10-ft.-radius spherical emanation centered on you  

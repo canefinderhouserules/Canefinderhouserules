@@ -1,7 +1,7 @@
 # Path of the Winds
 
 **School** evocation [air]; **Level** druid 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, **Range** 100 ft.  
 **Effect** 40-ft.-high downdraft of wind in a 100-foot line  
 **Duration** concentration + 1 round  

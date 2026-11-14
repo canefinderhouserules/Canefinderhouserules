@@ -1,7 +1,7 @@
 # Primal Regression
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 6, mesmerist 5, psychic 6, shaman 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/2 levels, no two of which can be more than 30 feet apart  

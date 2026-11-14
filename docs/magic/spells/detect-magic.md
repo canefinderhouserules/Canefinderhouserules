@@ -1,7 +1,7 @@
 # Detect Magic
 
 **School** divination; **Level** bard 0, cleric 0, druid 0, inquisitor 0, magus 0, medium 0, mesmerist 0, occultist 0, psychic 0, shaman 0, sorcerer/wizard 0, spiritualist 0, summoner 0, witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

@@ -1,7 +1,7 @@
 # Unfetter
 
 **School** transmutation; **Level** summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a broken chain)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** your eidolon  

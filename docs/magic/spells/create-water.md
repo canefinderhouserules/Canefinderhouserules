@@ -1,7 +1,7 @@
 # Create Water
 
 **School** conjuration (creation) [water]; **Level** cleric 0, druid 0, inquisitor 0, occultist 0, paladin 1, shaman 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** up to 2 gallons of water/level  

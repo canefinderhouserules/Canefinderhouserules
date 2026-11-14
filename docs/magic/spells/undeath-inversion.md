@@ -1,7 +1,7 @@
 # Undeath Inversion
 
 **School** necromancy; **Level** cleric 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a gold piece with one scratched face)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one undead creature  

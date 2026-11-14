@@ -1,7 +1,7 @@
 # Darkvault
 
 **School** abjuration; **Level** alchemist 3, cleric 5, druid 5, psychic 5, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a stone that has never seen sunlight)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 30-ft.-radius emanation  

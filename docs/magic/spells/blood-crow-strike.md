@@ -1,7 +1,7 @@
 # Blood Crow Strike
 
 **School** evocation [evil, fire]; **Level** cleric 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

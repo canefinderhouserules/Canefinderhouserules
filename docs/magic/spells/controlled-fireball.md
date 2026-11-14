@@ -1,7 +1,7 @@
 # Controlled Fireball
 
 **School** evocation [fire, ruse]; **Level** bloodrager 4, magus 4, occultist 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a ball of bat guano and sulfur)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 20-foot-radius spread  

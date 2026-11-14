@@ -1,7 +1,7 @@
 # Hollow Heroism, Greater
 
 **School** enchantment (compulsion) [mind-affecting, ruse]; **Level** bard 6, psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Paladin’s Sacrifice
 
 **School** abjuration; **Level** paladin 2  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

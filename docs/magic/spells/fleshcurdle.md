@@ -1,7 +1,7 @@
 # Fleshcurdle
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (scrap of pickled flesh)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living or undead creature  

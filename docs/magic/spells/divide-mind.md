@@ -1,7 +1,7 @@
 # Divide Mind
 
 **School** enchantment [mind-affecting]; **Level** psychic 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

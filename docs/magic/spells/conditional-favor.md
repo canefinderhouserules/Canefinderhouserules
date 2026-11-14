@@ -1,7 +1,7 @@
 # Conditional Favor
 
 **School** abjuration; **Level** antipaladin 1, bard 2, cleric 2, inquisitor 2, mesmerist 2, occultist 2, paladin 1, witch 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Target** 1 creature  
 **Duration** 1 day/level (D)  

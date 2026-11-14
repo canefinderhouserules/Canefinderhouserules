@@ -1,7 +1,7 @@
 # Night Terrors
 
 **School** illusion (phantasm) [emotion, evil, mind-affecting]; **Level** bard 6, mesmerist 6, psychic 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a drop of black ink)  
 **Range** touch  
 **Target** intelligent creature touched  

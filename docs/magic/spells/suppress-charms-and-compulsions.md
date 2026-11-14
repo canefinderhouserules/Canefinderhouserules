@@ -1,7 +1,7 @@
 # Suppress Charms and Compulsions
 
 **School** abjuration; **Level** bard 2, cleric 2, mesmerist 2, paladin 2, psychic 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature plus one additional creature per 4 levels, no two of which can be more than 30 ft. apart  

@@ -1,7 +1,7 @@
 # Grasp
 
 **School** divination; **Level** bard 0, cleric 0, druid 0, magus 0, psychic 0, sorcerer/wizard 0, witch 0  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** personal  
 **Target** you  

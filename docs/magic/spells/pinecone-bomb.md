@@ -1,7 +1,7 @@
 # Pinecone Bomb
 
 **School** evocation; **Level** druid 2, ranger 3, shaman 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a pinecone)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 10-ft.-radius spread  

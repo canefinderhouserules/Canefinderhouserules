@@ -1,7 +1,7 @@
 # Eaglesoul
 
 **School** conjuration (summoning) [good]; **Level** cleric 6, paladin 4, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (vellum inscribed with good outsider’s name)  
 **Range** personal  
 **Target** you  

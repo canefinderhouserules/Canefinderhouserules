@@ -1,7 +1,7 @@
 # Domination Link
 
 **School** divination [mind-affecting]; **Level** bard 3, inquisitor 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a copper piece)  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

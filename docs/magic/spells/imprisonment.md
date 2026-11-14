@@ -1,7 +1,7 @@
 # Imprisonment
 
 **School** abjuration; **Level** psychic 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

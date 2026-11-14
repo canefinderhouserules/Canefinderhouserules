@@ -1,7 +1,7 @@
 # Riding Possession
 
 **School** necromancy; **Level** medium 2, mesmerist 4, occultist 3, psychic 4, sorcerer/wizard 4, spiritualist 3, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

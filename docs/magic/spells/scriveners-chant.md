@@ -1,7 +1,7 @@
 # Scrivener’s Chant
 
 **School** transmutation; **Level** bard 0, cleric 0, sorcerer/wizard 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (fine sand and a vial of ink)  
 **Range** 5 ft.  
 **Target** one or more written objects  

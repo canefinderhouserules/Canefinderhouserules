@@ -1,7 +1,7 @@
 # Mark of Blood
 
 **School** transmutation [curse]; **Level** bloodrager 2, inquisitor 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of your blood)  
 **Range** touch  
 **Targets** one weapon touched  

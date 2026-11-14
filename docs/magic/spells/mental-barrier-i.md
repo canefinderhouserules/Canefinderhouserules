@@ -1,7 +1,7 @@
 # Mental Barrier I
 
 **School** abjuration; **Level** psychic 2  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** personal  
 **Target** you  

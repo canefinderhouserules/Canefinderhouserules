@@ -1,7 +1,7 @@
 # Profane Nimbus
 
 **School** evocation [evil]; **Level** antipaladin 4, cleric 5, inquisitor 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

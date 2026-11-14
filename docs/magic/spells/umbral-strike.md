@@ -1,7 +1,7 @@
 # Umbral Strike
 
 **School** necromancy (shadow) [darkness]; **Level** cleric 7, druid 7, inquisitor 6, magus 6, occultist 6, psychic 7, shaman 7, sorcerer/wizard 7, spiritualist 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a black crossbow bolt)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

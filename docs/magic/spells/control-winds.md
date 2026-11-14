@@ -1,7 +1,7 @@
 # Control Winds
 
 **School** transmutation [air]; **Level** druid 5, occultist 5, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 40 ft./level  
 **Area** 40 ft./level radius cylinder 40 ft. high  

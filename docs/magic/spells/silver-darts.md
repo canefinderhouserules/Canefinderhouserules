@@ -1,7 +1,7 @@
 # Silver Darts
 
 **School** conjuration (creation); **Level** bloodrager 3, magus 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a silver needle)  
 **Range** 15 ft.  
 **Area** cone-shaped burst  

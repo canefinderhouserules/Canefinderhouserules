@@ -1,7 +1,7 @@
 # Flaming Aura
 
 **School** transmutation [fire]; **Level** bloodrager 4, cleric 4, magus 4, shaman 4, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a small piece of charcoal)  
 **Range** personal  
 **Target** you (see text)  

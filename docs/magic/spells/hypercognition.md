@@ -1,7 +1,7 @@
 # Hypercognition
 
 **School** divination; **Level** alchemist 3, bard 3, medium 2, psychic 2, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

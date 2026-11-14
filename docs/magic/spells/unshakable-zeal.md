@@ -1,7 +1,7 @@
 # Unshakable Zeal
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 5, inquisitor 6, psychic 7, spiritualist 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, F (a silver circlet)  
 **Range** touch  
 **Target** creature touched  

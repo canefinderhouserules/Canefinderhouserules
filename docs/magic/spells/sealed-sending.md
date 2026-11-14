@@ -1,7 +1,7 @@
 # Sealed Sending
 
 **School** conjuration (creation) [language-dependent]; **Level** sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** unlimited  
 **Effect** one nonmagical parchment with a written message  

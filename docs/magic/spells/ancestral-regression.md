@@ -1,7 +1,7 @@
 # Ancestral Regression
 
 **School** transmutation (polymorph); **Level** alchemist 2, antipaladin 3, cleric 2, psychic 2, sorcerer/wizard 3, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** willing drow touched  

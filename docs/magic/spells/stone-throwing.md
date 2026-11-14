@@ -1,7 +1,7 @@
 # Stone Throwing
 
 **School** transmutation; **Level** bloodrager 1, cleric 2, druid 2, magus 2, ranger 1, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (powdered stone)  
 **Range** touch  
 **Target** creature touched  

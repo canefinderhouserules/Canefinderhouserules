@@ -1,7 +1,7 @@
 # Spirit Call
 
 **School** enchantment; **Level** druid 1, shaman 1  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S, DF  
 **Range** 100 ft.  
 **Effect** 100-ft.-radius spread centered on you  

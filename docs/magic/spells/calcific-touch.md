@@ -1,7 +1,7 @@
 # Calcific Touch
 
 **School** transmutation [earth]; **Level** bloodrager 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature or creatures touched (up to one per level)  

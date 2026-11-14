@@ -1,7 +1,7 @@
 # What Grows Within
 
 **School** necromancy [evil]; **Level** bard 6, cleric 6, druid 6, mesmerist 6, psychic 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Effect** you  

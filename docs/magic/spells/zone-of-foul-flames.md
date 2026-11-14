@@ -1,7 +1,7 @@
 # Zone of Foul Flames
 
 **School** transmutation; **Level** druid 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a sliver of tree bark from a burnt tree)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 20-ft.-radius spread  

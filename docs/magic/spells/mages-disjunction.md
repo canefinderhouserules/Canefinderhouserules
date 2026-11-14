@@ -1,7 +1,7 @@
 # Mage’s Disjunction
 
 **School** abjuration; **Level** psychic 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** all magical effects and magic items within a 40-ft.-radius burst, or one magic item (see text)  

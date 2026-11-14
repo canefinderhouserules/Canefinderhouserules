@@ -1,7 +1,7 @@
 # Rally Point
 
 **School** enchantment (compulsion) [good, mind-affecting]; **Level** paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** 5 ft.  
 **Area** one 5-ft. square  

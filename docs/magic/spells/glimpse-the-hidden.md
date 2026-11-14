@@ -1,7 +1,7 @@
 # Glimpse the Hidden
 
 **School** divination; **Level** alchemist 3, inquisitor 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of magnesium and platinum)  
 **Range** touch  
 **Target** creature touched  

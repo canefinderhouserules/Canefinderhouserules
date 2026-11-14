@@ -1,7 +1,7 @@
 # Hobble
 
 **School** transmutation; **Level** bard 1, bloodrager 1, inquisitor 1, magus 1, mesmerist 1, ranger 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of glue)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature/level, no two of which can be more than 20 feet apart  

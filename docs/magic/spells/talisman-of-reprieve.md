@@ -1,7 +1,7 @@
 # Talisman of Reprieve
 
 **School** abjuration; **Level** cleric 5, inquisitor 4, occultist 5, paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 20-ft.-radius emanation centered on an item  

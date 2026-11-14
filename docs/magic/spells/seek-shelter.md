@@ -1,7 +1,7 @@
 # Seek Shelter
 
 **School** enchantment (compulsion) [fear, mind-affecting]; **Level** bard 4, cleric 5, inquisitor 4, mesmerist 4, psychic 5, sorcerer/wizard 5, summoner 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** all non-hostile creatures with 4 or fewer HD in a 30-ft. spread  

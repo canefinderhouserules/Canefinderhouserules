@@ -1,7 +1,7 @@
 # Wall of Bone
 
 **School** necromancy; **Level** antipaladin 4, bloodrager 4, cleric 4, psychic 4, sorcerer/wizard 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a polished humanoid femur)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** solid wall of humanoid bones with an area of up to one 5-ft. square/level  

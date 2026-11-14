@@ -1,7 +1,7 @@
 # Ablative Barrier
 
 **School** conjuration (creation) [force]; **Level** alchemist 2, bloodrager 2, magus 2, occultist 2, psychic 3, sorcerer/wizard 3, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of metal cut from a shield)  
 **Range** touch  
 **Target** creature touched  

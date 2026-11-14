@@ -1,7 +1,7 @@
 # Siphon Magic
 
 **School** abjuration; **Level** cleric 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a coiled length of copper wire wrapped around the palm)  
 **Range** touch  
 **Target** creature touched  

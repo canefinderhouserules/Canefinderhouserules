@@ -1,7 +1,7 @@
 # Lullaby
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 0, mesmerist 0, psychic 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** living creatures within a 10-ft.-radius burst  

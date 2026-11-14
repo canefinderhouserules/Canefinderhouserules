@@ -1,7 +1,7 @@
 # Blast of Wind
 
 **School** evocation [air]; **Level** druid 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Effect** line-shaped blast of hurricane-force wind emanating out from you to the extreme of the range  

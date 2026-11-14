@@ -1,7 +1,7 @@
 # Detect Aberration
 
 **School** divination; **Level** druid 1, psychic 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** cone-shaped emanation  

@@ -1,7 +1,7 @@
 # Hammer of Mending
 
 **School** transmutation; **Level** cleric 6, sorcerer/wizard 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a small mithral hammer worth 300 gp), DF  
 **Area** 30-ft.-radius burst centered on you  
 **Duration** instantaneous  

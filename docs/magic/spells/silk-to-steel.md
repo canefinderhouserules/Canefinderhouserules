@@ -1,7 +1,7 @@
 # Silk to Steel
 
 **School** transmutation; **Level** bard 2, occultist 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one scarf  

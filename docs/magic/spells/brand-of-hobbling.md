@@ -1,7 +1,7 @@
 # Brand of Hobbling
 
 **School** transmutation [curse]; **Level** inquisitor 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

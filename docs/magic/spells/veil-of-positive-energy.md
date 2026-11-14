@@ -1,7 +1,7 @@
 # Veil of Positive Energy
 
 **School** abjuration [good]; **Level** paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal or 5 ft.; see text  
 **Target** you or all creatures within 5 ft.; see text  

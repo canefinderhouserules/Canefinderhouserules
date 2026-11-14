@@ -1,7 +1,7 @@
 # Reduce Animal
 
 **School** transmutation; **Level** druid 2, ranger 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one willing animal of Small, Medium, Large, or Huge size  

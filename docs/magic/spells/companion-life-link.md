@@ -1,7 +1,7 @@
 # Companion Life Link
 
 **School** necromancy; **Level** druid 2, ranger 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a drop of eidolon ichor)  
 **Range** touch  
 **Target** one of your animal companions or - your familiar  

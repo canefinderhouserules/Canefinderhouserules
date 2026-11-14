@@ -1,7 +1,7 @@
 # Soul-Rending Claws
 
 **School** necromancy [evil]; **Level** cleric 6, magus 5, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

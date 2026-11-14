@@ -1,7 +1,7 @@
 # Night of Blades
 
 **School** evocation; **Level** antipaladin 4, inquisitor 3, ranger 4, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** wall of blades up to 10 ft. long/level and 10 ft. tall  

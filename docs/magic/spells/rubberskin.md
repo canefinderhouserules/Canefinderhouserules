@@ -1,7 +1,7 @@
 # Rubberskin
 
 **School** transmutation; **Level** alchemist 4, magus 4, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of rubber or drop of tar)  
 **Range** personal  
 **Duration** 10 minutes/level

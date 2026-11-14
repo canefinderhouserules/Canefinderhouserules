@@ -1,7 +1,7 @@
 # Banishment
 
 **School** abjuration; **Level** cleric 6, inquisitor 5, psychic 7, shaman 6, sorcerer/wizard 7, spiritualist 6, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (see text)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one or more extraplanar creatures, no two of which can be more than 30 ft. apart  

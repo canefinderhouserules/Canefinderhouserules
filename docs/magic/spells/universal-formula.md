@@ -1,7 +1,7 @@
 # Universal Formula
 
 **School** transmutation; **Level** alchemist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (quicksilver and powdered platinum worth 100 gp)  
 **Range** personal  
 **Target** you  

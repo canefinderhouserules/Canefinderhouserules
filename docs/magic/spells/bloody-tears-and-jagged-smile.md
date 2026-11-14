@@ -1,7 +1,7 @@
 # Bloody Tears and Jagged Smile
 
 **School** necromancy; **Level** cleric 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal and see text  
 **Target** you and see text  

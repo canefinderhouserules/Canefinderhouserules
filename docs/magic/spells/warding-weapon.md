@@ -1,7 +1,7 @@
 # Warding Weapon
 
 **School** abjuration; **Level** bloodrager 1, magus 1, occultist 1, psychic 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (one melee weapon you are proficient in and you are holding)  
 **Range** personal  
 **Target** you  

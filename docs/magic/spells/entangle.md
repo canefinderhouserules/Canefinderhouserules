@@ -1,7 +1,7 @@
 # Entangle
 
 **School** transmutation; **Level** druid 1, ranger 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** plants in a 40-ft.-radius spread  

@@ -1,7 +1,7 @@
 # Effortless Armor
 
 **School** transmutation; **Level** cleric 1, inquisitor 1, magus 1, occultist 2, paladin 1, psychic 2, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

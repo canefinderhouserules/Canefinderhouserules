@@ -1,7 +1,7 @@
 # Burst of Adrenaline
 
 **School** transmutation; **Level** mesmerist 1, psychic 1, spiritualist 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

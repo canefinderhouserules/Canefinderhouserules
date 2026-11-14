@@ -1,7 +1,7 @@
 # Spirit-Bound Blade
 
 **School** evocation; **Level** medium 4, occultist 4, shaman 4, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** touch  
 **Target** weapon touched  

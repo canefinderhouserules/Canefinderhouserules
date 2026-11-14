@@ -1,7 +1,7 @@
 # Shadow Endurance
 
 **School** illusion (shadow) [shadow]; **Level** bard 5, mesmerist 5, shaman 5, sorcerer/wizard 6, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a fetchling's tooth)  
 **Range** personal  
 **Duration** 1 hour/level until discharged, then 1 minute/level; see text  

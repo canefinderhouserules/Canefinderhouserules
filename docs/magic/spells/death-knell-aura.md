@@ -1,7 +1,7 @@
 # Death Knell Aura
 
 **School** necromancy [death, evil]; **Level** cleric 4, inquisitor 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Area** 20-ft.-radius emanation, centered on you  

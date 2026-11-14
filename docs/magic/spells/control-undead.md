@@ -1,7 +1,7 @@
 # Control Undead
 
 **School** necromancy; **Level** sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of bone and a piece of raw meat)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** up to 2 HD/level of undead creatures, no two of which can be more than 30 ft. apart  

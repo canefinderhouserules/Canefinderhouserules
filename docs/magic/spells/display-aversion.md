@@ -1,7 +1,7 @@
 # Display Aversion
 
 **School** illusion (shadow); **Level** bard 2, cleric 2, inquisitor 2, sorcerer/wizard 3, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of holy water)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** visual figment that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)  

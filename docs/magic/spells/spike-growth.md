@@ -1,7 +1,7 @@
 # Spike Growth
 
 **School** transmutation; **Level** druid 3, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** one 20-ft. square/level  

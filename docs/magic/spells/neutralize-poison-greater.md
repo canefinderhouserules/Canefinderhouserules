@@ -1,7 +1,7 @@
 # Neutralize Poison, Greater
 
 **School** conjuration (healing); **Level** alchemist 6, bard 6, cleric 6, druid 5, inquisitor 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a lump of charcoal)  
 **Range** touch  
 **Target** creature or object of up to 1 cu. ft./level touched  

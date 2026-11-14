@@ -1,7 +1,7 @@
 # Stoneskin, Communal
 
 **School** abjuration; **Level** alchemist 5, druid 6, inquisitor 5, occultist 5, psychic 5, sorcerer/wizard 5, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (granite and diamond dust worth 250 gp per creature affected)  
 **Range** touch  
 **Target** creatures touched  

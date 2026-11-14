@@ -1,7 +1,7 @@
 # Soul Transfer
 
 **School** conjuration (summoning); **Level** cleric 7, psychic 7, shaman 7, sorcerer/wizard 7, spiritualist 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one petitioner, incorporeal soul, or similar creature  

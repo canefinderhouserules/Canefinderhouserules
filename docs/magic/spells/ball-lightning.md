@@ -1,7 +1,7 @@
 # Ball Lightning
 
 **School** evocation [air, electricity]; **Level** bloodrager 4, druid 4, magus 4, occultist 4, shaman 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a small iron ring)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** two or more 5-ft.-diameter spheres  

@@ -1,7 +1,7 @@
 # Memory of Function
 
 **School** transmutation; **Level** cleric 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, powdered skymetal worth 10,000 gp  
 **Range** touch  
 **Target** object or construct touched  

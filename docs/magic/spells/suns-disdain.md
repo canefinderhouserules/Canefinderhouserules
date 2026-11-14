@@ -1,7 +1,7 @@
 # Sun’s Disdain
 
 **School** transmutation [curse]; **Level** bloodrager 2, cleric 2, inquisitor 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a piece of glass)  
 **Range** touch  
 **Target** creature touched  

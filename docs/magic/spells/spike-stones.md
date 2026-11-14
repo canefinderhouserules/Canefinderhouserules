@@ -1,7 +1,7 @@
 # Spike Stones
 
 **School** transmutation [earth]; **Level** druid 4, shaman 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** one 20-ft. square/level  

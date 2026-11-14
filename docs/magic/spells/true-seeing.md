@@ -1,7 +1,7 @@
 # True Seeing
 
 **School** divination; **Level** alchemist 6, cleric 5, druid 7, inquisitor 5, magus 6, medium 4, mesmerist 6, occultist 5, psychic 5, shaman 5, sorcerer/wizard 6, spiritualist 6, summoner 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (an eye ointment that costs 250 gp)  
 **Range** touch  
 **Target** creature touched  

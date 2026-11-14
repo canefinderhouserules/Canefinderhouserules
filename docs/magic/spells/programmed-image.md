@@ -1,7 +1,7 @@
 # Programmed Image
 
 **School** illusion (figment); **Level** bard 6, mesmerist 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (fleece and jade dust worth 25 gp)  
 **Effect** visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)  
 **Duration** permanent until triggered, then 1 round/level  

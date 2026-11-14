@@ -1,7 +1,7 @@
 # Air Walk
 
 **School** transmutation [air]; **Level** alchemist 4, cleric 4, druid 4, occultist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature (Gargantuan or smaller) touched  

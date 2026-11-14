@@ -1,7 +1,7 @@
 # Ether Step
 
 **School** transmutation; **Level** magus 5, sorcerer/wizard 6, summoner 5  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** S  
 **Range** personal  
 **Target** you  

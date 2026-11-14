@@ -1,7 +1,7 @@
 # Duelist’s Feint
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Target** one creature  

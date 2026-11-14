@@ -1,7 +1,7 @@
 # Vestment of the Champion
 
 **School** abjuration; **Level** antipaladin 2, paladin 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** armor or shield touched  

@@ -1,7 +1,7 @@
 # Thorny Entanglement
 
 **School** transmutation; **Level** druid 3, ranger 3, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** plants in a 40-ft.-radius spread  

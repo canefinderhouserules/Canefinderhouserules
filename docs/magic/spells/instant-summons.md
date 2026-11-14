@@ -1,7 +1,7 @@
 # Instant Summons
 
 **School** conjuration (summoning); **Level** psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (sapphire worth 1,000 gp)  
 **Range** see text  
 **Target** one object weighing 10 lbs. or less whose longest dimension is 6 ft. or less  

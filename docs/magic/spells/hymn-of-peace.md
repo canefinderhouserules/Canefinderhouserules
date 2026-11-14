@@ -1,7 +1,7 @@
 # Hymn of Peace
 
 **School** abjuration [good]; **Level** bard 6, cleric 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 40 ft.  
 **Area** 40-ft.-radius burst centered on you  

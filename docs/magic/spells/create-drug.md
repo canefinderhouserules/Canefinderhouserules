@@ -1,7 +1,7 @@
 # Create Drug
 
 **School** conjuration (creation); **Level** alchemist 3, cleric 4, druid 3, occultist 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** 1 dose of a drug/3 levels  

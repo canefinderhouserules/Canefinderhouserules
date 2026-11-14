@@ -1,7 +1,7 @@
 # Aura of Cannibalism
 
 **School** necromancy [evil]; **Level** cleric 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a piece of flesh from another creature of your species)  
 **Range** personal  
 **Area** 20-ft.-radius emanation centered on you  

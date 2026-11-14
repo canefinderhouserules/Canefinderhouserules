@@ -1,7 +1,7 @@
 # Fester, Mass
 
 **School** necromancy; **Level** inquisitor 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (rotted meat)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  
 **Duration** 1 round/level or 1 round; see text  

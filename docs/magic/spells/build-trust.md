@@ -1,7 +1,7 @@
 # Build Trust
 
 **School** divination; **Level** bard 2, cleric 2, inquisitor 2, mesmerist 2, paladin 1, psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a gold piece)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

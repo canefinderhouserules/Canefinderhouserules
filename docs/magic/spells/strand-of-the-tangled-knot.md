@@ -1,7 +1,7 @@
 # Strand of the Tangled Knot
 
 **School** abjuration; **Level** cleric 1, inquisitor 1, oracle 1, shaman 1, warpriest 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a small knot of twin)  
 **Range** personal  
 **Target** you  

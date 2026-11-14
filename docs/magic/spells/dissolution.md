@@ -1,7 +1,7 @@
 # Dissolution
 
 **School** transmutation; **Level** alchemist 4, sorcerer/wizard 5, spiritualist 6, summoner 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (vial of alchemical reagents worth 50 gp)  
 **Range** touch  
 **Target** Tiny or smaller object touched  

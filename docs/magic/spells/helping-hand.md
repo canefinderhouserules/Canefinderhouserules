@@ -1,7 +1,7 @@
 # Helping Hand
 
 **School** evocation; **Level** cleric 3, medium 2, psychic 3, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** 5 miles  
 **Effect** ghostly hand  

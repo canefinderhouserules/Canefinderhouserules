@@ -1,7 +1,7 @@
 # Shadow Enchantment
 
 **School** illusion (shadow) [shadow]; **Level** bard 3, mesmerist 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** see text  
 **Effect** see text  

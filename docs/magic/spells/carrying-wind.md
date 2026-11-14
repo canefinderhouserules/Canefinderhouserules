@@ -1,7 +1,7 @@
 # Carrying Wind
 
 **School** conjuration [air]; **Level** druid 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

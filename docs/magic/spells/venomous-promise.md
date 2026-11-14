@@ -1,7 +1,7 @@
 # Venomous Promise
 
 **School** transmutation [language-dependent, poison]; **Level** antipaladin 3, bard 3, mesmerist 3, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M (a vial of poison)  
 **Range** touch  
 **Target** one creature  

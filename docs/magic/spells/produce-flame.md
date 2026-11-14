@@ -1,7 +1,7 @@
 # Produce Flame
 
 **School** evocation [fire]; **Level** druid 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** flame in your palm  

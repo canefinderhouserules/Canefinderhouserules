@@ -1,7 +1,7 @@
 # Reinforce Armaments
 
 **School** transmutation; **Level** cleric 1, magus 1, occultist 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a metal pin)  
 **Range** touch  
 **Target** one armor suit or weapon touched  

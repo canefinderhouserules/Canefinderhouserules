@@ -1,7 +1,7 @@
 # Summon Infernal Host
 
 **School** conjuration (summoning) [evil, lawful]; **Level** bard 5, cleric 5, sorcerer/wizard 5, summoner 5, witch 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (strip of rune-inscribed parchment)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 1d4+1 lesser host devils or 1 greater host devil  

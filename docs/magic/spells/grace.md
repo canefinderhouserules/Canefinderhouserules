@@ -1,7 +1,7 @@
 # Grace
 
 **School** abjuration; **Level** cleric 2, paladin 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

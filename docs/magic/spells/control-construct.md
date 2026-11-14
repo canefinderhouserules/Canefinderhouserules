@@ -1,7 +1,7 @@
 # Control Construct
 
 **School** transmutation; **Level** occultist 6, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one construct  

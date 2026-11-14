@@ -1,7 +1,7 @@
 # Curse of Dragonflies
 
 **School** conjuration [air, curse]; **Level** druid 3, magus 3, shaman 4, sorcerer/wizard 4, summoner 4, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a paper insect)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

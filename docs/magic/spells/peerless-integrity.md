@@ -1,7 +1,7 @@
 # Peerless Integrity
 
 **School** illusion (glamer); **Level** antipaladin 2, bard 2, mesmerist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Area** 10-ft.-radius emanation centered on you  

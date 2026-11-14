@@ -1,7 +1,7 @@
 # Eyes of the Void
 
 **School** transmutation; **Level** alchemist 4, antipaladin 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of dried carrot or an agate)  
 **Range** personal  
 **Target** you  

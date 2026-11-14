@@ -1,7 +1,7 @@
 # Compulsive Liar
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, mesmerist 1, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

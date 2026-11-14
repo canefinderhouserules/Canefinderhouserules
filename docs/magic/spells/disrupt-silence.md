@@ -1,7 +1,7 @@
 # Disrupt Silence
 
 **School** abjuration; **Level** bard 2, cleric 3, inquisitor 3, psychic 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M (tiny silver bell, chime, or gong)  
 **Range** touch  
 **Area** 10-ft.-radius emanation centered on a creature, object, or point in space  

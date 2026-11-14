@@ -1,7 +1,7 @@
 # Rejuvenate Eidolon, Greater
 
 **School** conjuration (healing); **Level** summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of your blood)  
 **Range** touch  
 **Target** eidolon touched  

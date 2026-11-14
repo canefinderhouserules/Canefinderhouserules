@@ -1,7 +1,7 @@
 # Reveal Mirage
 
 **School** divination; **Level** cleric 3, druid 2, ranger 1, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a small prism)  
 **Range** personal  
 **Target** you  

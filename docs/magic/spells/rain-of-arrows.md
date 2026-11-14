@@ -1,7 +1,7 @@
 # Rain of Arrows
 
 **School** conjuration (creation); **Level** sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a quiver full of 20 arrows worth 1 gp)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** 15-ft.-radius cloud of arrows  

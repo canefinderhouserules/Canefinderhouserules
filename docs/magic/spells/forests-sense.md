@@ -1,7 +1,7 @@
 # Forest’s Sense
 
 **School** divination (scrying); **Level** druid 4, ranger 3, shaman 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 1 mile/level  
 **Target** one creature  

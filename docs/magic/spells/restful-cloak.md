@@ -1,7 +1,7 @@
 # Restful Cloak
 
 **School** conjuration (healing); **Level** cleric 2, druid 2, occultist 2, paladin 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (cloak)  
 **Range** personal  
 **Target** you  

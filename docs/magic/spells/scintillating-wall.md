@@ -1,7 +1,7 @@
 # Scintillating Wall
 
 **School** illusion (pattern) [mind-affecting]; **Level** bard 4, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a handful of crushed d'ziriak chitin)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** wall with an area of up to one 10-ft. square/level  

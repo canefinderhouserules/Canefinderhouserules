@@ -1,7 +1,7 @@
 # Magic Missile
 
 **School** evocation [force]; **Level** bloodrager 1, magus 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** up to five creatures, no two of which can be more than 15 ft. apart  

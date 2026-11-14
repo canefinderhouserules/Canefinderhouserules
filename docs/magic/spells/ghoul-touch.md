@@ -1,7 +1,7 @@
 # Ghoul Touch
 
 **School** necromancy; **Level** bloodrager 2, sorcerer/wizard 2, spiritualist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (cloth from a ghoul or earth from a ghoul’s lair)  
 **Range** touch  
 **Target** living humanoid touched  

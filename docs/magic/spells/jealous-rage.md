@@ -1,7 +1,7 @@
 # Jealous Rage
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** antipaladin 2, bard 2, bloodrager 2, mesmerist 2, psychic 3, shaman 3, spiritualist 2, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one living creature  

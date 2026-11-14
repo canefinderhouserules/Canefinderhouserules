@@ -1,7 +1,7 @@
 # Hold Portal
 
 **School** abjuration; **Level** occultist 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one portal, up to 20 sq. ft./level  

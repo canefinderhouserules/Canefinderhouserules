@@ -1,7 +1,7 @@
 # Consecrate
 
 **School** evocation [good]; **Level** cleric 2, inquisitor 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a vial of holy water and 25 gp worth of silver dust), DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 20-ft.-radius emanation  

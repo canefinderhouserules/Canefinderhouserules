@@ -1,7 +1,7 @@
 # Shroud of Darkness
 
 **School** evocation [darkness]; **Level** antipaladin 4, bard 5, cleric 5, inquisitor 5, mesmerist 4, shaman 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a pinch of black sand)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** one creature/3 levels, no two of which can be more than 30 ft. apart  

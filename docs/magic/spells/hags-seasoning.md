@@ -1,7 +1,7 @@
 # Hag's Seasoning
 
 **School** transmutation [curse]; **Level** antipaladin 2, bloodrager 2, druid 3, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M (a handful of spices)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

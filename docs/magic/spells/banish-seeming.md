@@ -1,7 +1,7 @@
 # Banish Seeming
 
 **School** abjuration; **Level** inquisitor 3, psychic 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a cold iron nail)  
 **Range** touch  
 **Target** one creature or object  

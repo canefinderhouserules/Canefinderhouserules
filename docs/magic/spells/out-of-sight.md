@@ -1,7 +1,7 @@
 # Out of Sight
 
 **School** enchantment [mind-affecting]; **Level** medium 3, mesmerist 3, psychic 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a strip of black cloth)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Appearance of Life
 
 **School** illusion (glamer) [evil]; **Level** cleric 3, medium 2, mesmerist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (one Tiny or larger living creature)  
 **Range** long (400 ft. + 40 ft./caster level)  
 **Target** one or more undead creatures  

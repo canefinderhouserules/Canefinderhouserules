@@ -1,7 +1,7 @@
 # Cursed Gold
 
 **School** transmutation; **Level** alchemist 1, antipaladin 1, arcanist 2, bard 1, investigator 1, mesmerist 1, occultist 2, psychic 1, shaman 2, skald 1, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a lump of gold worth 5 gp)  
 **Range** touch  
 **Target** 1 gold piece/level touched  

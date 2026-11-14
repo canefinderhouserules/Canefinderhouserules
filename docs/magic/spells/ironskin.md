@@ -1,7 +1,7 @@
 # Ironskin
 
 **School** transmutation [earth]; **Level** alchemist 2, antipaladin 2, bloodrager 2, cleric 2, druid 2, paladin 2, psychic 2, ranger 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF/M (a pinch of forge soot)  
 **Range** personal  
 **Target** you  

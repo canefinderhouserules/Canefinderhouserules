@@ -1,7 +1,7 @@
 # Wing Thorns
 
 **School** transmutation [poison]; **Level** alchemist 3, antipaladin 3, bloodrager 3, druid 3, magus 4, shaman 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

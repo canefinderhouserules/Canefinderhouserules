@@ -1,7 +1,7 @@
 # Jury-Rig
 
 **School** transmutation; **Level** bard 1, magus 1, occultist 1, psychic 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of tree resin)  
 **Range** touch  
 **Target** one broken object of up to 2 lbs./level  

@@ -1,7 +1,7 @@
 # Sanctify Corpse
 
 **School** evocation [good]; **Level** cleric 1, inquisitor 1, paladin 1, spiritualist 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF, M (a pinch of silver dust)  
 **Range** touch  
 **Area** corpse touched  

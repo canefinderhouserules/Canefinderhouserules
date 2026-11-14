@@ -1,7 +1,7 @@
 # Selective Alarm
 
 **School** abjuration; **Level** bard 3, inquisitor 3, occultist 3, psychic 3, ranger 2, sorcerer/wizard 3, spiritualist 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F/DF (a slender iron rod 1 foot in length)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** up to 20-ft.-radius emanation centered on a point in space  

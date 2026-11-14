@@ -1,7 +1,7 @@
 # Invisibility, Mass
 
 **School** illusion (glamer); **Level** mesmerist 6, psychic 7, sorcerer/wizard 7, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (an eyelash encased in gum arabic)  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** any number of creatures, no two of which can be more than 180 ft. apart  

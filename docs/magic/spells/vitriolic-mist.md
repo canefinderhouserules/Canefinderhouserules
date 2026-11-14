@@ -1,7 +1,7 @@
 # Vitriolic Mist
 
 **School** evocation [acid]; **Level** alchemist 4, bloodrager 4, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece oflemon rind)  
 **Range** personal  
 **Target** you  

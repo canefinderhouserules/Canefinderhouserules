@@ -1,7 +1,7 @@
 # Fear the Sun
 
 **School** transmutation; **Level** antipaladin 1, bloodrager 1, cleric 2, druid 2, inquisitor 2, occultist 2, psychic 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drow eyelash)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** up to one creature/level, no two of which can be more than 30 ft. apart  

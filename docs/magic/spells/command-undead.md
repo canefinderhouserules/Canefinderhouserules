@@ -1,7 +1,7 @@
 # Command Undead
 
 **School** necromancy; **Level** sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a shred of raw meat and a splinter of bone)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one undead creature  

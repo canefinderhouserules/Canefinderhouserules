@@ -1,7 +1,7 @@
 # Siege Scatter
 
 **School** evocation [earth]; **Level** druid 5, ranger 4, shaman 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 50-ft.-radius spread  

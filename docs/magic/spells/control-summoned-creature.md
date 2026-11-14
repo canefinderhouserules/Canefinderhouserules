@@ -1,7 +1,7 @@
 # Control Summoned Creature
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, cleric 4, mesmerist 3, occultist 3, psychic 4, sorcerer/wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one summoned creature  

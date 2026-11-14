@@ -1,7 +1,7 @@
 # Silt Sphere
 
 **School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a smooth stone)  
 **Range** 20 ft.  
 **Effect** 20-ft.-radius sphere centered on you  

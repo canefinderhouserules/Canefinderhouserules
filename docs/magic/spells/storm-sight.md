@@ -1,7 +1,7 @@
 # Storm Sight
 
 **School** divination (scrying); **Level** cleric 2, druid 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a storm, either natural or magical)  
 **Range** personal  
 **Target** you  

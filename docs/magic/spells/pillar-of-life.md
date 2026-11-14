@@ -1,7 +1,7 @@
 # Pillar of Life
 
 **School** conjuration (healing) [light]; **Level** cleric 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 5-ft.-square pillar of positive energy, 20 ft. high  

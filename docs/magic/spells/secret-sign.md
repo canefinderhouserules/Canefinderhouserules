@@ -1,7 +1,7 @@
 # Secret Sign
 
 **School** illusion (glamer); **Level** bard 1, inquisitor 1, shaman 1, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a lemon peel)  
 **Range** touch  
 **Target** one creature or object  

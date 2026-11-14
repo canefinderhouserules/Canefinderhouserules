@@ -1,7 +1,7 @@
 # Fickle Winds
 
 **School** transmutation [air]; **Level** cleric 5, druid 5, ranger 3, sorcerer/wizard 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a tiny fan and an exotic feather)  
 **Targets** one or more  
 **Duration** 1 minute/level (D)  

@@ -1,7 +1,7 @@
 # Rainbow Pattern
 
 **School** illusion (pattern) [mind-affecting]; **Level** bard 4, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V (bard only), S, M (a piece of phosphor), F (a crystal prism); see text  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** colorful lights with a 20-ft.-radius spread  

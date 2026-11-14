@@ -1,7 +1,7 @@
 # Cloak of Dreams
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, mesmerist 5, occultist 6, psychic 6, shaman 7, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a rose petal and a drop of perfume)  
 **Range** 5 ft.  
 **Area** 5-ft.-radius emanation centered on you  

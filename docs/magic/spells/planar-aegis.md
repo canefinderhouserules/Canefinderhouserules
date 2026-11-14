@@ -1,7 +1,7 @@
 # Planar Aegis
 
 **School** abjuration; **Level** druid 5, occultist 4, ranger 3, sorcerer/wizard 5, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a fistful of naturally occurring material from a plane)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Fleshworm Infestation
 
 **School** conjuration (summoning) [evil]; **Level** cleric 4, inquisitor 4, psychic 4, sorcerer/wizard 4, witch 4 Preparation Time 40 minutes  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

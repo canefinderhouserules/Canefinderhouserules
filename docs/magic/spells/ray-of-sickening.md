@@ -1,7 +1,7 @@
 # Ray of Sickening
 
 **School** necromancy; **Level** bloodrager 1, cleric 1, druid 1, mesmerist 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of sweat)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** ray  

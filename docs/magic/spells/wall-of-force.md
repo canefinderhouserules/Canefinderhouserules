@@ -1,7 +1,7 @@
 # Wall of Force
 
 **School** evocation [force]; **Level** magus 5, occultist 5, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (powdered quartz)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** wall whose area is up to one 10-ft. square/level  

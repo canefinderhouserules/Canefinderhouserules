@@ -1,7 +1,7 @@
 # Hunger for Flesh
 
 **School** necromancy [evil, mind-affecting]; **Level** antipaladin 3, cleric 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a ghoul fang)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one humanoid, magical beast, or monstrous humanoid  

@@ -1,7 +1,7 @@
 # Conversing Wind
 
 **School** transmutation [air]; **Level** bard 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 1 mile/level  
 **Area** 10-ft.-radius spread  

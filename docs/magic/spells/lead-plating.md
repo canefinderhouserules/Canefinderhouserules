@@ -1,7 +1,7 @@
 # Lead Plating
 
 **School** conjuration (creation); **Level** alchemist 3, cleric 2, druid 2, ranger 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (an ounce of lead)  
 **Range** touch  
 **Target** a creature or object weighing up to 100 lbs./level  

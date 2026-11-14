@@ -1,7 +1,7 @@
 # Unsettling Presence
 
 **School** necromancy (haunted) [emotion, fear, mind-affecting]; **Level** bard 2, medium 1, mesmerist 2, occultist 2, psychic 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one 5-ft. cube/level (S)  

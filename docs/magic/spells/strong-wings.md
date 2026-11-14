@@ -1,7 +1,7 @@
 # Strong Wings
 
 **School** transmutation; **Level** bloodrager 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

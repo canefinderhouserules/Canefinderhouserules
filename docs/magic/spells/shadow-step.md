@@ -1,7 +1,7 @@
 # Shadow Step
 
 **School** illusion (shadow) [shadow]; **Level** bard 4, psychic 4, sorcerer/ wizard 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** you  

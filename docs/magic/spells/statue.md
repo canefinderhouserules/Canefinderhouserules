@@ -1,7 +1,7 @@
 # Statue
 
 **School** transmutation; **Level** alchemist 6, occultist 6, sorcerer/wizard 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (lime, sand, and a drop of water stirred by an iron spike)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Incendiary Runes
 
 **School** abjuration [fire]; **Level** occultist 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one touched object weighing no more than 10 lbs.  

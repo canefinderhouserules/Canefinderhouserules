@@ -1,7 +1,7 @@
 # Whirlwind
 
 **School** evocation [air]; **Level** druid 8, shaman 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall  

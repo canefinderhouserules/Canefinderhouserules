@@ -1,7 +1,7 @@
 # Sift
 
 **School** divination; **Level** bard 0, inquisitor 0, medium 0, occultist 0, psychic 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** one 10-ft. cube  

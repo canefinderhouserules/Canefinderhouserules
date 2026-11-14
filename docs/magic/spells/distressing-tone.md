@@ -1,7 +1,7 @@
 # Distressing Tone
 
 **School** evocation [sonic]; **Level** bard 2, inquisitor 2  
-**Casting Time** 2 standard actions  
+**Casting Time** 2 standard actions (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1d4 living creatures  

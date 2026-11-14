@@ -1,7 +1,7 @@
 # Arcane Mark
 
 **School** universal; **Level** magus 0, psychic 0, shaman 0, sorcerer/wizard 0, summoner 0, witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Effect** one personal rune or mark, all of which must fit within 1 sq. ft.  

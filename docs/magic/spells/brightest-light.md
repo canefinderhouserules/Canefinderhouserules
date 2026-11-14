@@ -1,7 +1,7 @@
 # Brightest Light
 
 **School** evocation [light]; **Level** bard 4, cleric 4, druid 4, inquisitor 4, magus 4, occultist 4, paladin 4, ranger 4, shaman 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** object touched  

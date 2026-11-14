@@ -1,7 +1,7 @@
 # Windy Escape
 
 **School** transmutation [air]; **Level** bard 1, bloodrager 1, druid 1, magus 1, sorcerer/wizard 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

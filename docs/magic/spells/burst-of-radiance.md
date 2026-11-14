@@ -1,7 +1,7 @@
 # Burst of Radiance
 
 **School** evocation [good, light]; **Level** cleric 2, druid 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a piece of flint and a pinch of silver dust)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 10-ft.-radius burst  

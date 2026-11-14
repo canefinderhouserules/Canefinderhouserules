@@ -1,7 +1,7 @@
 # Echolocation
 
 **School** transmutation [sonic]; **Level** alchemist 4, bard 4, druid 4, occultist 4, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

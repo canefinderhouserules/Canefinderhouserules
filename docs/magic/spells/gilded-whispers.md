@@ -1,7 +1,7 @@
 # Gilded Whispers
 
 **School** divination; **Level** cleric 4, sorcerer/wizard 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (100 gp of powdered gemstones)  
 **Range** touch  
 **Target** a gold or platinum coin  

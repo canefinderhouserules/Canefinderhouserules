@@ -1,7 +1,7 @@
 # Human Potential
 
 **School** transmutation; **Level** alchemist 2, bard 2, medium 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a human hair)  
 **Range** touch  
 **Target** creature touched  

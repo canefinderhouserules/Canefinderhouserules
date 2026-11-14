@@ -1,7 +1,7 @@
 # Cackling Skull
 
 **School** illusion (glamer); **Level** witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one skull  

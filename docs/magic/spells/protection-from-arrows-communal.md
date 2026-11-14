@@ -1,7 +1,7 @@
 # Protection from Arrows, Communal
 
 **School** abjuration; **Level** alchemist 3, psychic 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a piece of tortoiseshell or turtle shell)  
 **Range** touch  
 **Target** creatures touched  

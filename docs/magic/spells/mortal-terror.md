@@ -1,7 +1,7 @@
 # Mortal Terror
 
 **School** enchantment [fear, mind-affecting]; **Level** antipaladin 2, bard 2, cleric 2, inquisitor 2, mesmerist 2, psychic 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Vicarious View
 
 **School** divination (scrying); **Level** bard 4, medium 3, mesmerist 4, occultist 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Effect** magical sensor  

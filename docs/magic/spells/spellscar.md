@@ -1,7 +1,7 @@
 # Spellscar
 
 **School** abjuration; **Level** cleric 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of sand from a magic-scarred desert)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** two 10-ft. cubes per level (S)  

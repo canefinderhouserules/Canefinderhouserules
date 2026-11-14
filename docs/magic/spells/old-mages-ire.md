@@ -1,7 +1,7 @@
 # Old Mage's Ire
 
 **School** transmutation [good]; **Level** druid 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (octopus or squid tentacle)  
 **Area** 120-ft.-radius spread  
 **Duration** 1 round/level (D)  

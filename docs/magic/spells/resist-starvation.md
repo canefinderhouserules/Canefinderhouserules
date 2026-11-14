@@ -1,7 +1,7 @@
 # Resist Starvation
 
 **School** transmutation; **Level** antipaladin 1, cleric 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (crumb of food)  
 **Range** touch  
 **Target** one living creature touched  

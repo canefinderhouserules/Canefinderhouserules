@@ -1,7 +1,7 @@
 # Condensed Ether
 
 **School** transmutation; **Level** psychic 4, sorcerer/wizard 5, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (crushed amber)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** 20-ft.-radius spread  

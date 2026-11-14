@@ -1,7 +1,7 @@
 # Thoughtsense
 
 **School** divination [mind-affecting]; **Level** medium 4, mesmerist 4, psychic 4, sorcerer/wizard 5, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a bit of dried brain tissue)  
 **Range** personal  
 **Target** you  

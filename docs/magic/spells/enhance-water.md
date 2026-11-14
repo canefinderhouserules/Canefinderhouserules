@@ -1,7 +1,7 @@
 # Enhance Water
 
 **School** transmutation; **Level** bard 1, cleric 1, paladin 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** 1 pint of water/level  

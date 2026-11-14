@@ -1,7 +1,7 @@
 # Rebuke
 
 **School** evocation [sonic]; **Level** inquisitor 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** 20 ft.  
 **Area** 20-ft.-radius burst centered on you  

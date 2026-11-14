@@ -1,7 +1,7 @@
 # Befuddled Combatant
 
 **School** enchantment (compulsion) [curse, mind-affecting]; **Level** bard 5, mesmerist 5, psychic 5, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (cooked noodles)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Absolution
 
 **School** abjuration; **Level** cleric 4, paladin 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a vial of holy water), DF  
 **Range** touch  
 **Target** living creature touched  

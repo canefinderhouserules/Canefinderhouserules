@@ -1,7 +1,7 @@
 # Remove Paralysis
 
 **School** conjuration (healing); **Level** cleric 2, inquisitor 2, paladin 2, shaman 2, spiritualist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** up to four creatures, no two of which can be more than 30 ft. apart  

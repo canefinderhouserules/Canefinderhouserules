@@ -1,7 +1,7 @@
 # Fallback Strategy
 
 **School** abjuration; **Level** cleric 1, inquisitor 1, paladin 1, magus 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

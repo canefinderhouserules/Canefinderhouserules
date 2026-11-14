@@ -1,7 +1,7 @@
 # Frigid Souls
 
 **School** necromancy (haunted) [cold, emotion, fear, mind-affecting]; **Level** cleric 4, druid 4, ranger 3, shaman 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF/M (a bloody icicle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one 5-ft. cube/level (S)  

@@ -1,7 +1,7 @@
 # Wither Limb
 
 **School** necromancy; **Level** cleric 6, inquisitor 6, shaman 6, sorcerer/wizard 6, spiritualist 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

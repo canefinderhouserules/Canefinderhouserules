@@ -1,7 +1,7 @@
 # Daywalker
 
 **School** necromancy; **Level** antipaladin 4, cleric 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a black glass vial containing unholy water)  
 **Range** touch  
 **Target** undead creature touched  

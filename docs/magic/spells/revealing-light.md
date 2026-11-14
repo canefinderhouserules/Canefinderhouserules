@@ -1,7 +1,7 @@
 # Revealing Light
 
 **School** evocation [light]; **Level** bard 1, cleric 2, inquisitor 2, medium 1, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M/DF (piece of a mirror)  
 **Range** touch  
 **Target** object touched  

@@ -1,7 +1,7 @@
 # Business Booms
 
 **School** enchantment; **Level** bard 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (promotional materials such as flyers and posters worth 10 gp)  
 **Range** touch  
 **Target** one building  

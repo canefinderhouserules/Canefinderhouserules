@@ -1,7 +1,7 @@
 # Black Sword of War
 
 **School** necromancy; **Level** antipaladin 3, cleric 3, ranger 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F  
 **Range** touch  
 **Target** piercing or slashing manufactured weapon touched  

@@ -1,7 +1,7 @@
 # Sabotage Construct
 
 **School** transmutation; **Level** bard 5, inquisitor 5, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S, V  
 **Range** touch  
 **Duration** 1 round/level  

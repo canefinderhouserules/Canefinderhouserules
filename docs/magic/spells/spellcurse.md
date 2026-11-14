@@ -1,7 +1,7 @@
 # Spellcurse
 
 **School** necromancy [curse]; **Level** antipaladin 2, cleric 3, inquisitor 2, occultist 4, psychic 3, shaman 4, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a fragment of a destroyed magical item)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

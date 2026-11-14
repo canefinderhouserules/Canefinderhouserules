@@ -1,7 +1,7 @@
 # Flesh Wall
 
 **School** necromancy [evil]; **Level** cleric 6, shaman 6, sorcerer/wizard 6, spiritualist 5, summoner 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (one corpse for every 5-ft. square of the wall), DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** a wall of corpses with an area of up to one 5-ft. square/level (S)  

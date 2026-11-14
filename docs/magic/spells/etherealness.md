@@ -1,7 +1,7 @@
 # Etherealness
 
 **School** transmutation; **Level** cleric 9, psychic 8, shaman 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch; see text  
 **Targets** you and one other touched creature per three levels  

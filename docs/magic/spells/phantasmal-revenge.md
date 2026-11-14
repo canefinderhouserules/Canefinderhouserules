@@ -1,7 +1,7 @@
 # Phantasmal Revenge
 
 **School** illusion (phantasm) [fear, mind-affecting]; **Level** mesmerist 6, psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch and unlimited; see text  
 **Target** dead body touched  

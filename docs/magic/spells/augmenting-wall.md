@@ -1,7 +1,7 @@
 # Augmenting Wall
 
 **School** evocation [see text]; **Level** magus 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 20-ft.-high wall of energy whose area is up to one 10-ft. square/level  

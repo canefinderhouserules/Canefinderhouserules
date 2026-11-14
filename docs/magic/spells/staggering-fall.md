@@ -1,7 +1,7 @@
 # Staggering Fall
 
 **School** transmutation; **Level** cleric 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one falling creature  

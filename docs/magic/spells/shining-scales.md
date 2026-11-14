@@ -1,7 +1,7 @@
 # Shining Scales
 
 **School** evocation [draconic, good]; **Level** alchemist 3, bloodrager 3, medium 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of mercury)  
 **Range** personal  
 **Target** you  

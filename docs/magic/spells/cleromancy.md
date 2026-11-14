@@ -1,7 +1,7 @@
 # Cleromancy
 
 **School** divination; **Level** cleric 2, druid 3, inquisitor 3, sorcerer/wizard 3  
-**Casting Time** full-round action  
+**Casting Time** full-round action (3 AP)  
 **Components** V, S, F/DF (a set of 64 chicken bones)  
 **Range** personal  
 **Target** you  

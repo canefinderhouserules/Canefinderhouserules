@@ -1,7 +1,7 @@
 # Purging Finale
 
 **School** conjuration (healing); **Level** bard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  

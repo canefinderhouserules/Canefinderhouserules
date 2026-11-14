@@ -1,7 +1,7 @@
 # Stalwart Resolve
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 2, cleric 2, inquisitor 1, paladin 1, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

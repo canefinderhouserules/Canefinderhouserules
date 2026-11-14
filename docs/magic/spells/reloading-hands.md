@@ -1,7 +1,7 @@
 # Reloading Hands
 
 **School** conjuration (creation); **Level** magus 2, ranger 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** projectile weapon touched  

@@ -1,7 +1,7 @@
 # Dread Bolt
 
 **School** evocation [evil]; **Level** cleric 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** arrow-shaped projectile of evil energy  

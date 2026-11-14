@@ -1,7 +1,7 @@
 # Purify Body
 
 **School** conjuration (healing); **Level** alchemist 4, cleric 4, medium 4, paladin 4, psychic 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

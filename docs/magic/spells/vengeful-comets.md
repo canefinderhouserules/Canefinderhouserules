@@ -1,7 +1,7 @@
 # Vengeful Comets
 
 **School** evocation [cold]; **Level** druid 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** 1 comet per 4 levels  

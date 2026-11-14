@@ -1,7 +1,7 @@
 # Reveal Secrets
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** antipaladin 1, bard 1, cleric 1, inquisitor 1, mesmerist 1, psychic 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of alcoholic liquid)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Secluded Grimoire
 
 **School** conjuration (summoning); **Level** magus 1, sorcerer/wizard 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** spellbook touched  

@@ -1,7 +1,7 @@
 # Rift of Ruin
 
 **School** conjuration (calling) [chaotic, evil]; **Level** cleric 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** 5-ft.-wide, 60-ft.-deep extradimensional hole, up to 5 ft. long per level (S)  

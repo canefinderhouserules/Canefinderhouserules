@@ -1,7 +1,7 @@
 # Animal Shapes
 
 **School** transmutation (polymorph); **Level** druid 8, shaman 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** up to one willing creature per level, all within 30 ft. of each other  

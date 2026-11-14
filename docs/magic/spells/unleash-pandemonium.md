@@ -1,7 +1,7 @@
 # Unleash Pandemonium
 
 **School** conjuration [chaotic]; **Level** cleric 5, summoner 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 30-foot-radius spread  

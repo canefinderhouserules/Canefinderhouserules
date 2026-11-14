@@ -1,7 +1,7 @@
 # Release the Hounds
 
 **School** conjuration (summoning); **Level** bard 5, druid 5, shaman 5, sorcerer/wizard 5, summoner 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (shards of a canine's fang)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one pack of canines  

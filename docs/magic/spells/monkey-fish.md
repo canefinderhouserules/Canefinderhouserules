@@ -1,7 +1,7 @@
 # Monkey Fish
 
 **School** transmutation; **Level** alchemist 1, druid 1, magus 1, psychic 1, shaman 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

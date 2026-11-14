@@ -1,7 +1,7 @@
 # Peacebond, Greater
 
 **School** abjuration; **Level** inquisitor 4, occultist 4, psychic 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** up to one weapon/level, no two of which can be more than 30 ft. apart  

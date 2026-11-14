@@ -1,7 +1,7 @@
 # Transfiguring Touch
 
 **School** transmutation; **Level** alchemist 5, occultist 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (alchemical reagents worth 1 gp or the value of the created material, whichever is more)  
 **Range** touch  
 **Target** object touched, up to 1 cubic foot per level  

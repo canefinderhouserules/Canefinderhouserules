@@ -1,7 +1,7 @@
 # Curse of the Outcast
 
 **School** enchantment (compulsion) [curse, emotion, mind-affecting]; **Level** bard 4, cleric 6, inquisitor 4, mesmerist 4, shaman 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a handful of earthworms)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

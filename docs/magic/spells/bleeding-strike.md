@@ -1,7 +1,7 @@
 # Bleeding Strike
 
 **School** necromancy; **Level** antipaladin 1, cleric 1, ranger 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Effect** one slashing melee weapon touched  

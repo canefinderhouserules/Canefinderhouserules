@@ -1,7 +1,7 @@
 # Duelist’s Parry
 
 **School** transmutation; **Level** bard 1, magus 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Impede Speech
 
 **School** necromancy; **Level** arcanist 3, bard 2, skald 2, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

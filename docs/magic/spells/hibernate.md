@@ -1,7 +1,7 @@
 # Hibernate
 
 **School** necromancy; **Level** druid 1, hunter 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

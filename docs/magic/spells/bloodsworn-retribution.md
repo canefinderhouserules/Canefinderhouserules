@@ -1,7 +1,7 @@
 # Bloodsworn Retribution
 
 **School** necromancy; **Level** cleric 6, paladin 4, ranger 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (your blood)  
 **Range** personal  
 **Target** you  

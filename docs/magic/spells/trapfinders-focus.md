@@ -1,7 +1,7 @@
 # Trapfinder’s Focus
 
 **School** divination; **Level** alchemist 2, bard 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (masterwork thieves’ tools worth 100 gp)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Stay the Hand
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** paladin 4  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

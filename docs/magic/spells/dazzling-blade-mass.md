@@ -1,7 +1,7 @@
 # Dazzling Blade, Mass
 
 **School** illusion (pattern); **Level** sorcerer/wizard 3  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one metal weapon/level, no two of which can be more than 30 ft. apart  

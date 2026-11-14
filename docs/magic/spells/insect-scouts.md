@@ -1,7 +1,7 @@
 # Insect Scouts
 
 **School** divination; **Level** antipaladin 4, bard 4, druid 2, inquisitor 3, psychic 4, ranger 2, shaman 2, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** S, M (a drop of honey)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one insect scout/4 levels  

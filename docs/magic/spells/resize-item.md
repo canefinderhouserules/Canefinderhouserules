@@ -1,7 +1,7 @@
 # Resize Item
 
 **School** transmutation; **Level** sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (silver calipers worth 25 gp)  
 **Range** touch  
 **Target** one weapon or suit of armor weighing up to 25 lbs./level  

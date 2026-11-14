@@ -1,7 +1,7 @@
 # Spirit Share
 
 **School** transmutation; **Level** alchemist 1, bard 1, cleric 1, druid 1, occultist 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (liquid to be shared)  
 **Range** personal  
 **Target** you  

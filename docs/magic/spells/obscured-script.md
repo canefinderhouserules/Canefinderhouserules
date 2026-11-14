@@ -1,7 +1,7 @@
 # Obscured Script
 
 **School** illusion (phantasm); **Level** bard 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a scrap of paper bearing a simple sentence written in at least five languages)  
 **Range** touch  
 **Target** one touched page, scroll, inscription, book, or other document no more than 3 feet in any dimension  

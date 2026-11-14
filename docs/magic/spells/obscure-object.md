@@ -1,7 +1,7 @@
 # Obscure Object
 
 **School** abjuration; **Level** bard 1, cleric 3, inquisitor 3, mesmerist 1, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (chameleon skin)  
 **Range** touch  
 **Target** one object touched of up to 100 lbs./level  

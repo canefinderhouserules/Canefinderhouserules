@@ -1,7 +1,7 @@
 # Wake of Light
 
 **School** evocation [good]; **Level** paladin 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** 120 ft.  
 **Effect** a 10-ft.-wide path in a straight line, up to 120 ft. long  

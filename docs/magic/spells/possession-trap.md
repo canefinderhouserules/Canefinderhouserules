@@ -1,7 +1,7 @@
 # Possession Trap
 
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a gem or crystal worth at least 500 gp)  
 **Range** personal  
 **Target** you  

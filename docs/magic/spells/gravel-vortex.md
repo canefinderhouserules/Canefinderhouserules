@@ -1,7 +1,7 @@
 # Gravel Vortex
 
 **School** conjuration (creation) [earth]; **Level** druid 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (handful of pebbles)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** cylinder (20-ft. radius, 40 ft. high)  

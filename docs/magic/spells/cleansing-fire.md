@@ -1,7 +1,7 @@
 # Cleansing Fire
 
 **School** evocation [fire, good]; **Level** cleric 5, inquisitor 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Area** 30-ft. radius emanating from the touched point  

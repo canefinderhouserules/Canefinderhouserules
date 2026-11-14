@@ -1,7 +1,7 @@
 # Mask Dweomer
 
 **School** illusion (glamer); **Level** occultist 1, psychic 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of gauze)  
 **Range** touch  
 **Target** creature or object touched  

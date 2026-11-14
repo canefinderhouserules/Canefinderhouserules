@@ -1,7 +1,7 @@
 # Elemental Assessor
 
 **School** evocation [acid, cold, electricity, fire]; **Level** cleric 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (four needles)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one elemental ray  

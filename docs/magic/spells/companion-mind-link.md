@@ -1,7 +1,7 @@
 # Companion Mind Link
 
 **School** enchantment (charm) [mind-affecting]; **Level** druid 3, ranger 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** your animal companion  

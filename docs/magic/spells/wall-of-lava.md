@@ -1,7 +1,7 @@
 # Wall of Lava
 
 **School** conjuration (creation) [earth, fire]; **Level** druid 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a chunk of dried lava)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** lava wall whose area is up to one 5-ft. square/level (S)  

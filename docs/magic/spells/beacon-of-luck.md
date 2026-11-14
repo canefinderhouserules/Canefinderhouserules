@@ -1,7 +1,7 @@
 # Beacon of Luck
 
 **School** divination; **Level** bard 3, cleric 3, inquisitor 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a tuft of rabbit fur)  
 **Range** personal; see text  
 **Target** you  

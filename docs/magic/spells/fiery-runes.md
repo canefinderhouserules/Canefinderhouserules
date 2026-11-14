@@ -1,7 +1,7 @@
 # Fiery Runes
 
 **School** evocation [fire]; **Level** alchemist 2, bloodrager 2, druid 2, magus 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** melee weapon touched  

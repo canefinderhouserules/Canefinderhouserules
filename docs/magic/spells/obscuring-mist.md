@@ -1,7 +1,7 @@
 # Obscuring Mist
 
 **School** conjuration (creation); **Level** cleric 1, druid 1, magus 1, mesmerist 1, shaman 1, sorcerer/wizard 1, spiritualist 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Effect** cloud spreads in 20-ft. radius from you, 20 ft. high  

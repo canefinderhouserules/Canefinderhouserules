@@ -1,7 +1,7 @@
 # Cloudkill
 
 **School** conjuration (creation); **Level** magus 5, sorcerer/wizard 5, spiritualist 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high  

@@ -1,7 +1,7 @@
 # Delectable Flesh
 
 **School** transmutation [mind-affecting, polymorph]; **Level** druid 7, shaman 7, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** all creatures in a 15-foot-radius burst centered on a single living creature  

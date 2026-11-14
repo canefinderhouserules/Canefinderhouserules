@@ -1,7 +1,7 @@
 # Storm of Vengeance
 
 **School** conjuration (summoning); **Level** cleric 9, druid 9, shaman 9, witch 9  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** 360-ft.-radius storm cloud  

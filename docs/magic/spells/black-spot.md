@@ -1,7 +1,7 @@
 # Black Spot
 
 **School** necromancy; **Level** cleric 4, sorcerer/wizard 5, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

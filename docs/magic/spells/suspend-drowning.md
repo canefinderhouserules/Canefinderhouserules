@@ -1,7 +1,7 @@
 # Suspend Drowning
 
 **School** transmutation; **Level** bard 1, cleric 1, druid 1, ranger 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one Medium or smaller drowning creature/level, no two of which can be more than 20 ft. apart  

@@ -1,7 +1,7 @@
 # Heroism, Greater
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, psychic 6, sorcerer/wizard 6, spiritualist 6, summoner 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Heightened Reflexes
 
 **School** transmutation; **Level** bard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** allies within a 30-ft.-radius burst centered on you  

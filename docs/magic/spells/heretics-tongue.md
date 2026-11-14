@@ -1,7 +1,7 @@
 # Heretic’s Tongue
 
 **School** enchantment [mind-affecting]; **Level** cleric 5, inquisitor 5, mesmerist 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** living creature  

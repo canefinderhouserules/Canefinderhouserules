@@ -1,7 +1,7 @@
 # Blazing Rainbow
 
 **School** evocation [light]; **Level** druid 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a drop of rainwater)  
 **Range** 0 ft. or 10 ft./level  
 **Effect** bow or bridge of light  

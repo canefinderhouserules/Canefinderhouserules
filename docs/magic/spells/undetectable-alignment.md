@@ -1,7 +1,7 @@
 # Undetectable Alignment
 
 **School** abjuration; **Level** alchemist 2, antipaladin 2, bard 1, cleric 2, inquisitor 2, mesmerist 1, paladin 2, psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or object  

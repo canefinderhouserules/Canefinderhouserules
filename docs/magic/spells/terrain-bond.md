@@ -1,7 +1,7 @@
 # Terrain Bond
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** ranger 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of earth taken from your most favored terrain)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Shield of Darkness
 
 **School** evocation [darkness, shadow]; **Level** antipaladin 3, cleric 3, inquisitor 3, shaman 3, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Darting Duplicate
 
 **School** illusion (figment); **Level** antipaladin 1, bard 1, magus 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** 5 ft.  
 **Effect** visual figment of the caster  

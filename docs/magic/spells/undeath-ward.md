@@ -1,7 +1,7 @@
 # Undeath Ward
 
 **School** abjuration; **Level** cleric 5, inquisitor 4, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (powdered silver)  
 **Range** 10 ft.  
 **Area** 10-ft.-radius emanation, centered on you  

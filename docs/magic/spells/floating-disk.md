@@ -1,7 +1,7 @@
 # Floating Disk
 
 **School** evocation [force]; **Level** magus 1, occultist 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of mercury)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 3-ft.-diameter disk of force  

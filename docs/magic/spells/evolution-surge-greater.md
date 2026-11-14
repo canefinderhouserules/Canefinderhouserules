@@ -1,7 +1,7 @@
 # Evolution Surge, Greater
 
 **School** transmutation; **Level** summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a chameleon scale)  
 **Range** touch  
 **Target** your eidolon  

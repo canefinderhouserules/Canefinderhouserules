@@ -1,7 +1,7 @@
 # Last Hero's Defending Sword
 
 **School** evocation [force]; **Level** magus 6, occultist 6, psychic 7, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a miniature platinum sword worth 250 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one sword  

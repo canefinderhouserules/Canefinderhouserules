@@ -1,7 +1,7 @@
 # Alter River
 
 **School** transmutation [water]; **Level** cleric 4, druid 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S, V, M (silt from a dry riverbed)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** area of river up to 5 ft. wide/2 levels and 10 ft. long/level  

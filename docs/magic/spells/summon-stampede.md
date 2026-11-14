@@ -1,7 +1,7 @@
 # Summon Stampede
 
 **School** conjuration (summoning); **Level** cleric 6, druid 6, summoner 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (piece of fur from a herd animal)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 20-ft.-radius herd of animals  

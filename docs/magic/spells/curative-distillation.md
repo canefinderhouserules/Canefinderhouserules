@@ -1,7 +1,7 @@
 # Curative Distillation
 
 **School** conjuration (healing); **Level** alchemist 2, cleric 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (healing herb, alchemical remedy, or potion of a healing spell worth at least 50 gp)  
 **Range** touch  
 **Target** one living creature touched  

@@ -1,7 +1,7 @@
 # Medusa's Bane
 
 **School** abjuration; **Level** sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (tiny fragment of a mirror)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Knock
 
 **School** transmutation; **Level** inquisitor 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one door, box, or chest with an area of up to 10 sq. ft./level  

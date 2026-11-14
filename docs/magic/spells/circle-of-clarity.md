@@ -1,7 +1,7 @@
 # Circle of Clarity
 
 **School** abjuration; **Level** cleric 7, psychic 7, shaman 8, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a crystal lens worth 100 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 20-ft.-radius emanation centered on a willing creature  

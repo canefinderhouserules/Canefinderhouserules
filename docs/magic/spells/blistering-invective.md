@@ -1,7 +1,7 @@
 # Blistering Invective
 
 **School** evocation [fire, language-dependant]; **Level** alchemist 2, bard 2, inquisitor 2, mesmerist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Area** 30-ft. radius  

@@ -1,7 +1,7 @@
 # Maze
 
 **School** conjuration (teleportation); **Level** psychic 8, sorcerer/wizard 8, summoner 6, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

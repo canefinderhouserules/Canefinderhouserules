@@ -1,7 +1,7 @@
 # Find Fault
 
 **School** divination; **Level** bard 3, bloodrager 3, inquisitor 3, magus 3, medium 3, psychic 3, shaman 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** 1 creature  

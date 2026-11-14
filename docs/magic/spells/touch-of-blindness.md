@@ -1,7 +1,7 @@
 # Touch of Blindness
 
 **School** necromancy [darkness, shadow]; **Level** antipaladin 1, bard 1, cleric 1, sorcerer/wizard 1, shaman 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** touch  
 **Target** creature or creatures touched (up to one/level)  

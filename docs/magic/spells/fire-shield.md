@@ -1,7 +1,7 @@
 # Fire Shield
 
 **School** evocation [fire or cold]; **Level** alchemist 4, bloodrager 4, magus 4, occultist 4, sorcerer/wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (phosphorus for the *warm shield;* a firefly or glowworm for the *chill shield)*  
 **Range** personal  
 **Target** you  

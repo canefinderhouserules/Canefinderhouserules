@@ -1,7 +1,7 @@
 # Conditional Curse
 
 **School** necromancy [curse]; **Level** antipaladin 4, cleric 4, inquisitor 4, medium 3, mesmerist 3, occultist 4, psychic 5, shaman 4, sorcerer/wizard 5, spiritualist 5, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

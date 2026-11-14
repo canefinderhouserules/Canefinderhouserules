@@ -1,7 +1,7 @@
 # Magic Weapon, Greater
 
 **School** transmutation; **Level** antipaladin 3, bloodrager 3, cleric 4, inquisitor 3, magus 3, occultist 3, paladin 3, shaman 4, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (powdered lime and carbon)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one weapon or 50 projectiles (all of which must be together at the time of casting); for divine casters, one weapon or group of projectiles/level, no two of which can be more than 30 ft. apart  

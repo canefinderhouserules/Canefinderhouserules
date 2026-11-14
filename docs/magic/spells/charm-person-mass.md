@@ -1,7 +1,7 @@
 # Charm Person, Mass
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 4, mesmerist 4, occultist 4, psychic 5, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Target** one or more humanoid creatures, no two of which can be more than 30 ft. apart  
 **Duration** 1 hour/level  

@@ -1,7 +1,7 @@
 # Bless Army
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** 1 hex  
 **Target** one army  

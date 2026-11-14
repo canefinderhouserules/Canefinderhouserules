@@ -1,7 +1,7 @@
 # Perfect Placement
 
 **School** divination; **Level** bard 2, bloodrager 2, magus 3, psychic 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a chess piece)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

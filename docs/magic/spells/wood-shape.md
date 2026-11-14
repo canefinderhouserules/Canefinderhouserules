@@ -1,7 +1,7 @@
 # Wood Shape
 
 **School** transmutation; **Level** druid 2, occultist 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** one touched piece of wood no larger than 10 cu. ft. + 1 cu. ft./level  

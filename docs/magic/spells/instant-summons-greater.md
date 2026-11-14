@@ -1,7 +1,7 @@
 # Instant Summons, Greater
 
 **School** conjuration (summoning); **Level** psychic 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (sapphires worth 1,000 gp each)  
 **Range** see text  
 **Target** up to one object per 3 caster levels, each weighing 10 lbs. or less whose longest dimension is 6 ft. or less  

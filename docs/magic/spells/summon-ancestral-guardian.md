@@ -1,7 +1,7 @@
 # Summon Ancestral Guardian
 
 **School** conjuration (summoning); **Level** bard 3, cleric 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (stone or metal image of your ancestor)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** two summoned ancestor spirits  

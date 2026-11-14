@@ -1,7 +1,7 @@
 # Pierce Facade
 
 **School** divination; **Level** alchemist 1, bard 1, cleric 1, inquisitor 1, psychic 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (an eagle's eye)  
 **Range** touch  
 **Target** creature touched  

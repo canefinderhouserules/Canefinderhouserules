@@ -1,7 +1,7 @@
 # Rope Trick
 
 **School** transmutation; **Level** medium 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (powdered corn and a twisted loop of parchment)  
 **Range** touch  
 **Target** one touched piece of rope from 5 ft. to 30 ft. long  

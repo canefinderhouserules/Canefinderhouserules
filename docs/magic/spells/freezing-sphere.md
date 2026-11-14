@@ -1,7 +1,7 @@
 # Freezing Sphere
 
 **School** evocation [cold]; **Level** magus 6, occultist 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a small crystal sphere)  
 **Range** long (400 ft. + 40 ft./level)  
 **Duration** instantaneous or 1 round/level; see text  

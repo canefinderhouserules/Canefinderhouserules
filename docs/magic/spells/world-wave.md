@@ -1,7 +1,7 @@
 # World Wave
 
 **School** transmutation [earth, water]; **Level** druid 9, sorcerer/ wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** see text  
 **Effect** see text  

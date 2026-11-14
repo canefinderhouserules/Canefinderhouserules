@@ -1,7 +1,7 @@
 # Blood Rage
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of blood from each creature to be affected)  
 **Range** close (25 ft. + 5 ft./level)  
 **Targets** one willing living creature per 2 levels, no two of which may be more than 30 ft. apart  

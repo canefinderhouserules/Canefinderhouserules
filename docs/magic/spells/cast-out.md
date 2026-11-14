@@ -1,7 +1,7 @@
 # Cast Out
 
 **School** abjuration; **Level** inquisitor 3, medium 2, psychic 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

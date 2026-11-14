@@ -1,7 +1,7 @@
 # Revelation
 
 **School** divination; **Level** arcanist 3, bard 2, cleric 3, oracle 3, skald 2, sorcerer/wizard 3, warpriest 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

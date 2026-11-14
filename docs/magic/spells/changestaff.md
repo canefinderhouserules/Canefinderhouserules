@@ -1,7 +1,7 @@
 # Changestaff
 
 **School** transmutation; **Level** druid 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a quarterstaff that has been carved and polished for 28 days)  
 **Range** touch  
 **Target** your touched staff  

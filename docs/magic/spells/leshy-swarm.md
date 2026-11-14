@@ -1,7 +1,7 @@
 # Leshy Swarm
 
 **School** conjuration (summoning); **Level** bard 3, druid 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M/DF (a bundle of seeds)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 10-ft.-square swarm of leshys  

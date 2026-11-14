@@ -1,7 +1,7 @@
 # Doom
 
 **School** necromancy [fear, mind-affecting]; **Level** antipaladin 1, cleric 1, inquisitor 1, mesmerist 1, shaman 1, spiritualist 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one living creature  

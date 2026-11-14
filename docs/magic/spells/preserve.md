@@ -1,7 +1,7 @@
 # Preserve
 
 **School** necromancy; **Level** cleric 1, medium 1, occultist 1, ranger 1, shaman 1, sorcerer/wizard 1, spiritualist 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a pinch of salt)  
 **Range** touch  
 **Target** one or more objects touched, up to 1 lb./level  

@@ -1,7 +1,7 @@
 # Vampiric Touch
 
 **School** necromancy; **Level** antipaladin 3, bloodrager 3, magus 3, medium 3, mesmerist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

@@ -1,7 +1,7 @@
 # Synesthesia
 
 **School** illusion (phantasm) [mind-affecting]; **Level** mesmerist 3, psychic 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one living creature  

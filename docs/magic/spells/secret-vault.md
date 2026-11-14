@@ -1,7 +1,7 @@
 # Secret Vault
 
 **School** conjuration (summoning); **Level** sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (see text)  
 **Range** touch  
 **Target** one chamber and up to 10 cu. ft. of goods/caster level  

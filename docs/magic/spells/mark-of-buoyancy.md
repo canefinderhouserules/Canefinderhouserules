@@ -1,7 +1,7 @@
 # Mark of Buoyancy
 
 **School** transmutation; **Level** bard 3, cleric 3, magus 3, occultist 3, psychic 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** touched object weighing up to 10 lbs./level  

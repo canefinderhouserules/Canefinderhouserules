@@ -1,7 +1,7 @@
 # Ancestral Gift
 
 **School** conjuration (summoning); **Level** bard 4, cleric 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (stone or metal image of your ancestor)  
 **Range** personal  
 **Effect** magical weapon  

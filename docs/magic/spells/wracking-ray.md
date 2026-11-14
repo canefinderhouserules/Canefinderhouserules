@@ -1,7 +1,7 @@
 # Wracking Ray
 
 **School** necromancy [evil, pain]; **Level** sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, M (an old bone, broken in the casting)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** ray  

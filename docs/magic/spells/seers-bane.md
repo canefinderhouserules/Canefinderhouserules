@@ -1,7 +1,7 @@
 # Seer’s Bane
 
 **School** abjuration; **Level** cleric 6, inquisitor 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature or object touched  

@@ -1,7 +1,7 @@
 # Dark Whispers
 
 **School** illusion (shadow) [language-dependent, shadow]; **Level** antipaladin 1, bard 2, cleric 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a scrap of black cloth)  
 **Range** long (400 ft. plus 40 ft./level)  
 **Targets** one creature/level  

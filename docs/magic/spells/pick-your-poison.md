@@ -1,7 +1,7 @@
 # Pick Your Poison
 
 **School** conjuration (healing) [mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

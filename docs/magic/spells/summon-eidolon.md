@@ -1,7 +1,7 @@
 # Summon Eidolon
 
 **School** conjuration (summoning); **Level** summoner 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a silver coin)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one eidolon  

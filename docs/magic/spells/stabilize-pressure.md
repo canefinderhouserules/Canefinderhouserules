@@ -1,7 +1,7 @@
 # Stabilize Pressure
 
 **School** abjuration; **Level** alchemist 2, bloodrager 2, cleric 2, druid 2, hunter 2, investigator 2, oracle 2, psychic 2, ranger 2, shaman 2, summoner (unchained) 2, summoner 2, warpriest 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of shell)  
 **Range** touch  
 **Target** creature touched  

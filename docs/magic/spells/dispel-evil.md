@@ -1,7 +1,7 @@
 # Dispel Evil
 
 **School** abjuration [good]; **Level** cleric 5, inquisitor 5, paladin 4, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target or Targets** you and a touched evil creature from another plane, or you and an enchantment or evil spell on a touched creature or object  

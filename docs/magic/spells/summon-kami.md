@@ -1,7 +1,7 @@
 # Summon Kami
 
 **School** conjuration (summoning); **Level** druid 5, shaman 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one or more kami  

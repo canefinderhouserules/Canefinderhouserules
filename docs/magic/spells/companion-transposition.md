@@ -1,7 +1,7 @@
 # Companion Transposition
 
 **School** conjuration (teleportation); **Level** antipaladin 4, druid 5, paladin 4, ranger 4, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a feather, tuft of fur, or similar memento from your target)  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** yourself and one animal companion, familiar, or spirit animal within range  

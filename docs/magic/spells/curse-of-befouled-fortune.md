@@ -1,7 +1,7 @@
 # Curse of Befouled Fortune
 
 **School** necromancy [curse]; **Level** antipaladin 3, bloodrager 4, cleric 3, shaman 3, sorcerer/wizard 4, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

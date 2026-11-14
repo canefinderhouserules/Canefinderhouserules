@@ -1,7 +1,7 @@
 # Hex Ward
 
 **School** abjuration; **Level** inquisitor 1, occultist 1, shaman 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

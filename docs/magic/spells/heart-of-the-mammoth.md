@@ -1,7 +1,7 @@
 # Heart of the Mammoth
 
 **School** transmutation; **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a fetish of mammoth hair soaked in dragon's blood)  
 **Range** touch  
 **Target** creature touched  

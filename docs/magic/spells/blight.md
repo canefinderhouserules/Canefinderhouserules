@@ -1,7 +1,7 @@
 # Blight
 
 **School** necromancy; **Level** druid 4, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** plant touched  

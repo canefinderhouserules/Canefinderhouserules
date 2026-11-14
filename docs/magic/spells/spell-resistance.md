@@ -1,7 +1,7 @@
 # Spell Resistance
 
 **School** abjuration; **Level** alchemist 5, cleric 5, inquisitor 5, occultist 5, psychic 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

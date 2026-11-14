@@ -1,7 +1,7 @@
 # Sound Burst
 
 **School** evocation [sonic]; **Level** bard 2, cleric 2, occultist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a musical instrument)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 10-ft.-radius spread  

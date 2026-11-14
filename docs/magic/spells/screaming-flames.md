@@ -1,7 +1,7 @@
 # Screaming Flames
 
 **School** evocation [evil, fire, mind-affecting]; **Level** antipaladin 3, cleric 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a charred animal or humanoid skull fragment)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** a sheet of flame up to 15 ft. long and 10 ft. high that moves 15 ft. in a straight line.  

@@ -1,7 +1,7 @@
 # Web
 
 **School** conjuration (creation); **Level** magus 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (spider web)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** webs in a 20-ft.-radius spread  

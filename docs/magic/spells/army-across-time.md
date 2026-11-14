@@ -1,7 +1,7 @@
 # Army Across Time
 
 **School** conjuration (summoning); **Level** bard 4, cleric 5, inquisitor 4, medium 3, psychic 5, ranger 3, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** five 5-ft. cubes of temporal possibility plus one additional cube/level  

@@ -1,7 +1,7 @@
 # Corrosive Consumption
 
 **School** conjuration (creation) [acid]; **Level** magus 5, sorcerer/ wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

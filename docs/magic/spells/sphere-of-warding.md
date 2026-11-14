@@ -1,7 +1,7 @@
 # Sphere of Warding
 
 **School** abjuration; **Level** cleric 5, inquisitor 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Effect** 10-ft.-radius sphere emanating from point touched  

@@ -1,7 +1,7 @@
 # Flame Strike
 
 **School** evocation [fire]; **Level** cleric 5, druid 4, inquisitor 5, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** cylinder (10-ft. radius, 40-ft. high)  

@@ -1,7 +1,7 @@
 # Zephyr’s Fleetness
 
 **School** transmutation [air]; **Level** ranger 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** one creature/2 levels  

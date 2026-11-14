@@ -1,7 +1,7 @@
 # Magic Vestment
 
 **School** transmutation; **Level** cleric 3, inquisitor 3, occultist 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** armor or shield touched  

@@ -1,7 +1,7 @@
 # Bereave
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, cleric 4, mesmerist 3, psychic 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a broken chain link)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** all creatures in a 15-ft.-radius burst  

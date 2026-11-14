@@ -1,7 +1,7 @@
 # Untold Wonder
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, cleric 5, mesmerist 4, paladin 3, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

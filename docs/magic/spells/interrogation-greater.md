@@ -1,7 +1,7 @@
 # Interrogation, Greater
 
 **School** necromancy [evil, pain]; **Level** inquisitor 4, psychic 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

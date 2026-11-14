@@ -1,7 +1,7 @@
 # Trail of the Rose
 
 **School** illusion (phantasm); **Level** bard 2, cleric 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a rose)  
 **Range** touch  
 **Target** 1 rose touched  

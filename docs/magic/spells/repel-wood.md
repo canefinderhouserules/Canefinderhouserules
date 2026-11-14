@@ -1,7 +1,7 @@
 # Repel Wood
 
 **School** transmutation; **Level** druid 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** 60-ft. line-shaped emanation from you  

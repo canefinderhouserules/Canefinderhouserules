@@ -1,7 +1,7 @@
 # Abstemiousness
 
 **School** transmutation; **Level** bard 1, cleric 1, druid 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** touch  
 **Target** a handful of berries, grains, nuts, or rice  

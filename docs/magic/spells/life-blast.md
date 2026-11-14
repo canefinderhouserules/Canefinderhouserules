@@ -1,7 +1,7 @@
 # Life Blast
 
 **School** necromancy; **Level** druid 4, ranger 3, shaman 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a dead leaf)  
 **Range** 150 ft.  
 **Area** 150-ft. line  

@@ -1,7 +1,7 @@
 # Resist Energy, Communal
 
 **School** abjuration; **Level** alchemist 3, cleric 3, druid 3, inquisitor 3, occultist 3, paladin 3, psychic 3, ranger 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creatures touched  

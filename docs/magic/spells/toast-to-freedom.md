@@ -1,7 +1,7 @@
 # Toast to Freedom
 
 **School** conjuration (teleportation); **Level** bard 5, cleric 5, inquisitor 5, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a small amount of ale in a flagon)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

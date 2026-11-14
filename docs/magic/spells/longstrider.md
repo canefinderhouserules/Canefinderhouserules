@@ -1,7 +1,7 @@
 # Longstrider
 
 **School** transmutation; **Level** druid 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of dirt)  
 **Range** personal  
 **Target** you  

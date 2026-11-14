@@ -1,7 +1,7 @@
 # Interplanetary Teleport
 
 **School** conjuration (teleportation); **Level** cleric 9, psychic 9, sorcerer/ wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal and touch  
 **Target** you and touched objects or other touched willing creatures  

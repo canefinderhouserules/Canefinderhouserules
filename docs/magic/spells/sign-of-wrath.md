@@ -1,7 +1,7 @@
 # Sign of Wrath
 
 **School** evocation [force]; **Level** cleric 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a gem worth 1,000 gp inscribed with an ancient symbol of wrath)  
 **Range** personal  
 **Area** 25-ft.-radius burst centered on you  

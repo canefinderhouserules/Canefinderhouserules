@@ -1,7 +1,7 @@
 # Draconic Bloodlust
 
 **School** enchantment (compulsion) [draconic, evil, mind-affecting]; **Level** mesmerist 5, occultist 5, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a dried drop of blood)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Final Sacrifice
 
 **School** evocation; **Level** antipaladin 3, bloodrager 2, cleric 3, shaman 3, sorcerer/wizard 3, summoner 2, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one summoned creature  

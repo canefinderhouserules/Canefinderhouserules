@@ -1,7 +1,7 @@
 # Dimensional Blade
 
 **School** transmutation; **Level** antipaladin 4, bloodrager 4, cleric 6, inquisitor 5, magus 5, paladin 4, sorcerer/wizard 6  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Brittle Portal
 
 **School** transmutation; **Level** antipaladin 2, cleric 2, druid 2, inquisitor 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 5-ft.-radius spread  

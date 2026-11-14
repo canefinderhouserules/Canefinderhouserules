@@ -1,7 +1,7 @@
 # Necromancer’s Realm’s Hammer
 
 **School** necromancy; **Level** sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a leather glove coated in dried embalming herbs)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** sphere of undead remains composed of 3 or more destroyed undead  

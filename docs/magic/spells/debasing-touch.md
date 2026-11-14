@@ -1,7 +1,7 @@
 # Debasing Touch
 
 **School** transmutation [curse]; **Level** alchemist 2, bard 2, cleric 3, inquisitor 2, magus 2, occultist 2, sorcerer/wizard 3, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a copper piece)  
 **Range** touch  
 **Target** creature touched  

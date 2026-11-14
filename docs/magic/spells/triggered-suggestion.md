@@ -1,7 +1,7 @@
 # Triggered Suggestion
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 3, mesmerist 3, psychic 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a snake’s tongue and a honeycomb)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  

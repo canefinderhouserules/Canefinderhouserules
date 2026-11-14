@@ -1,7 +1,7 @@
 # Ice Spears
 
 **School** conjuration [cold]; **Level** druid 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a small stalagmite-shaped crystal)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 1 ice spear/4 levels  

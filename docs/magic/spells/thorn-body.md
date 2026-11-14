@@ -1,7 +1,7 @@
 # Thorn Body
 
 **School** transmutation; **Level** alchemist 3, druid 4, shaman 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

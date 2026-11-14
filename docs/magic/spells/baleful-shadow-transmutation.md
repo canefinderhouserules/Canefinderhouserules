@@ -1,7 +1,7 @@
 # Baleful Shadow Transmutation
 
 **School** illusion (shadow) [shadow]; **Level** alchemist 6, bard 6, druid 7, medium 6, shaman 6, sorcerer/wizard 6, spiritualist 6, summoner 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Authenticating Gaze
 
 **School** divination; **Level** alchemist 1, cleric 1, inquisitor 1, occultist 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF/M (a miniature magnifying glass or spectacles)  
 **Range** personal  
 **Duration** 1 minute/level

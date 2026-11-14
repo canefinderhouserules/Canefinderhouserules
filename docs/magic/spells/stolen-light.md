@@ -1,7 +1,7 @@
 # Stolen Light
 
 **School** illusion (figment); **Level** bard 3, sorcerer/wizard 3  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S, F (a gem worth at least 500 gp)  
 **Range** touch  
 **Target** transparent gem touched  

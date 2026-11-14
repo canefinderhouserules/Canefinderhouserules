@@ -1,7 +1,7 @@
 # Particulate Form
 
 **School** transmutation; **Level** cleric 7, occultist 5, psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a pinch of fine sand)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** 1 creature/level, no two of which can be more than 30 ft. apart  

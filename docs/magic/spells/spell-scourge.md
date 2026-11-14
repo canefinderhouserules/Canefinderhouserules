@@ -1,7 +1,7 @@
 # Spell Scourge
 
 **School** abjuration; **Level** cleric 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

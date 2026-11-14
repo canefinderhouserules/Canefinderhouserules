@@ -1,7 +1,7 @@
 # Mage’s Decree
 
 **School** evocation; **Level** bard 5, cleric 6, inquisitor 5, mesmerist 5, psychic 6, sorcerer/wizard 6, summoner 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a brass cone or trumpet)  
 **Range** up to 1 mile/level; see text  
 **Targets** see text  

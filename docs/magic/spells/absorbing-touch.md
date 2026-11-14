@@ -1,7 +1,7 @@
 # Absorbing Touch
 
 **School** transmutation; **Level** alchemist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** touch  
 **Target** object touched  

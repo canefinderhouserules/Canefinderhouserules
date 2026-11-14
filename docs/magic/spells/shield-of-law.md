@@ -1,7 +1,7 @@
 # Shield of Law
 
 **School** abjuration [lawful]; **Level** cleric 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a reliquary worth 500 gp)  
 **Range** 20 ft.  
 **Targets** one creature/level in a 20-ft.-radius burst centered on you  

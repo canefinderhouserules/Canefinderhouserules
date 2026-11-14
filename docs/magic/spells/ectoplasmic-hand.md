@@ -1,7 +1,7 @@
 # Ectoplasmic Hand
 
 **School** evocation; **Level** occultist 5, psychic 5, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./level)  
 **Effect** one ectoplasmic appendage  

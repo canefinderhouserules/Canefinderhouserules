@@ -1,7 +1,7 @@
 # Zone of Silence
 
 **School** illusion (glamer); **Level** bard 4, mesmerist 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Area** 5-ft.-radius emanation centered on you  

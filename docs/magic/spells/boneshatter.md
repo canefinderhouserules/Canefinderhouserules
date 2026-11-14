@@ -1,7 +1,7 @@
 # Boneshatter
 
 **School** necromancy; **Level** cleric 5, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a broken bone)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one corporeal creature or object  

@@ -1,7 +1,7 @@
 # Summon Accuser
 
 **School** conjuration (summoning) [evil, lawful]; **Level** bard 4, cleric 4, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (chunk of rotten meat)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 1 accuser devil  

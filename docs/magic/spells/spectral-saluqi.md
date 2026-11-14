@@ -1,7 +1,7 @@
 # Spectral Saluqi
 
 **School** necromancy; **Level** sorcerer/wizard 6, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a precious metal canine statue worth 100 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one spectral dog  

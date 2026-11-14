@@ -1,7 +1,7 @@
 # Poisonous Cloud
 
 **School** conjuration (creation) [poison]; **Level** bloodrager 4, magus 4, shaman 4, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (small drop of poison)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high  

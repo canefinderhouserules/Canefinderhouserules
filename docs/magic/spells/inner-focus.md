@@ -1,7 +1,7 @@
 # Inner Focus
 
 **School** illusion (glamer); **Level** antipaladin 1, cleric 2, druid 2, inquisitor 2, paladin 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

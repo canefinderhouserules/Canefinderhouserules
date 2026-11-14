@@ -1,7 +1,7 @@
 # Ice Slick
 
 **School** evocation [cold]; **Level** druid 2, magus 2, ranger 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 5-ft.-radius burst  

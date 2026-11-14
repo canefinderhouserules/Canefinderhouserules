@@ -1,7 +1,7 @@
 # Temporal Divergence
 
 **School** transmutation; **Level** psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, M (mithral wishbone worth 100 gp)  
 **Range** personal  
 **Target** you  

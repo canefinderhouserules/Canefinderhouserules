@@ -1,7 +1,7 @@
 # Penumbra
 
 **School** evocation [darkness]; **Level** sorcerer/wizard 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a bit of soot)  
 **Range** touch  
 **Target** creature or object touched  

@@ -1,7 +1,7 @@
 # Vomit Twin
 
 **School** conjuration (creation, teleportation); **Level** alchemist 3, magus 3, psychic 4, sorcerer/wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Effect** creates one ooze duplicate of the caster  

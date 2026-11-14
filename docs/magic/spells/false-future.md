@@ -1,7 +1,7 @@
 # False Future
 
 **School** illusion (glamer); **Level** bard 3, cleric 4, medium 3, mesmerist 3, psychic 4, shaman 4, sorcerer/wizard 5, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (crushed jade worth 100 gp)  
 **Range** touch  
 **Target** creature or object touched  

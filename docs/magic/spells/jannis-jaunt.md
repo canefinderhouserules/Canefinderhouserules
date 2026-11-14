@@ -1,7 +1,7 @@
 # Janni's Jaunt
 
 **School** conjuration (teleportation); **Level** cleric 4, medium 3, psychic 4, shaman 6, sorcerer/wizard 6, summoner 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a forked metal rod attuned to the plane of travel)  
 **Range** touch  
 **Target** Up to eight willing creatures joining hands  

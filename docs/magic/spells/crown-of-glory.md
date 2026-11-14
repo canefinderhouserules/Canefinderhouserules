@@ -1,7 +1,7 @@
 # Crown of Glory
 
 **School** evocation  
-**Casting Time** 1 full round  
+**Casting Time** 1 full round (3 AP)  
 **Components** V, S, M, DF  
 **Range** personal  
 **Area** 120-ft.-radius emanation centered on you  

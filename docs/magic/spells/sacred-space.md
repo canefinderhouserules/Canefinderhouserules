@@ -1,7 +1,7 @@
 # Sacred Space
 
 **School** evocation [good]; **Level** cleric 2, paladin 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a vial of ambrosia)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 20-ft.-radius emanation  

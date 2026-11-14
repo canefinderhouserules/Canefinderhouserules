@@ -1,7 +1,7 @@
 # Darkness
 
 **School** evocation [darkness]; **Level** antipaladin 2, bard 2, cleric 2, inquisitor 2, magus 2, occultist 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M/DF (bat fur and a piece of coal)  
 **Range** touch  
 **Target** object touched  

@@ -1,7 +1,7 @@
 # Healing Token
 
 **School** conjuration (healing); **Level** cleric 2, druid 2, inquisitor 2, paladin 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** one touched holy symbol per 3 caster levels  

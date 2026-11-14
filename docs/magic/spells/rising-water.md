@@ -1,7 +1,7 @@
 # Rising Water
 
 **School** conjuration [water]; **Level** bloodrager 3, druid 4, magus 4, occultist 4, psychic 4, ranger 3, shaman 4, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a lily pad)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** cylinder (20-ft. radius, 10 ft. high)  

@@ -1,7 +1,7 @@
 # Pack Empathy
 
 **School** divination; **Level** bloodrager 3, druid 3, inquisitor 3, medium 2, ranger 2, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** you plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart  

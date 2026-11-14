@@ -1,7 +1,7 @@
 # Magic Siege Engine, Greater
 
 **School** transmutation; **Level** antipaladin 4, cleric 5, inquisitor 4, occultist 4, paladin 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (black powder)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one siege engine touched  

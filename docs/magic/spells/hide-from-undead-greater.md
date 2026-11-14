@@ -1,7 +1,7 @@
 # Hide from Undead, Greater
 
 **School** abjuration; **Level** cleric 3, inquisitor 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Targets** one touched creature/level  

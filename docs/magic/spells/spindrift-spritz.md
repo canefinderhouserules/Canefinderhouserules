@@ -1,7 +1,7 @@
 # Spindrift Spritz
 
 **School** conjuration (healing) [water]; **Level** cleric 2, druid 2, inquisitor 2, paladin 1, ranger 1, shaman 2, spiritualist 2  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Numerological Evocation
 
 **School** evocation; **Level** magus 3, sorcerer/wizard 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** see text  
 **Target** see text  

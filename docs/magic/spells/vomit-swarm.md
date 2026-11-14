@@ -1,7 +1,7 @@
 # Vomit Swarm
 
 **School** conjuration (summoning); **Level** alchemist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S  
 **Range** personal  
 **Effect** one swarm of spiders  

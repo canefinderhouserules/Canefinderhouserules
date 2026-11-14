@@ -1,7 +1,7 @@
 # Summon Nature’s Ally VIII
 
 **School** conjuration (summoning) [see text]; **Level** druid 8, shaman 8  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one or more summoned creatures  

@@ -1,7 +1,7 @@
 # Mathematical Curse
 
 **School** necromancy [curse]; **Level** antipaladin 2, bard 2, cleric 3, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a full set of 10 fingernails)  
 **Range** touch  
 **Target** one living creature  

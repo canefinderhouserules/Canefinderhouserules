@@ -1,7 +1,7 @@
 # Climbing Beanstalk
 
 **School** conjuration (creation); **Level** druid 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 5-ft. square of climbable beanstalks  

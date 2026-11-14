@@ -1,7 +1,7 @@
 # Horrid Wilting
 
 **School** necromancy; **Level** shaman 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a bit of sponge)  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** living creatures, no two of which can be more than 60 ft. apart  

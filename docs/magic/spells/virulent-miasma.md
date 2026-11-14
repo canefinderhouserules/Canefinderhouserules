@@ -1,7 +1,7 @@
 # Virulent Miasma
 
 **School** necromancy; **Level** antipaladin 2, bloodrager 3, druid 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a dried scab from a diseased creature)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high  

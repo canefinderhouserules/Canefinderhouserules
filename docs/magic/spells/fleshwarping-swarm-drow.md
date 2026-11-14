@@ -1,7 +1,7 @@
 # Fleshwarping Swarm (Drow)
 
 **School** conjuration (summoning); **Level** sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M/DF (a square of red cloth)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one swarm of bats, rats, or spiders  

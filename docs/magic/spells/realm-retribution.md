@@ -1,7 +1,7 @@
 # Realm Retribution
 
 **School** conjuration (teleportation); **Level** cleric 8, inquisitor 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

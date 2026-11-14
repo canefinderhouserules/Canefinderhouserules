@@ -1,7 +1,7 @@
 # Apathy
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, mesmerist 4, psychic 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, V, M (a shiny bead)  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature  

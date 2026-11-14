@@ -1,7 +1,7 @@
 # Plague Carrier
 
 **School** necromancy [disease, evil]; **Level** cleric 4, druid 4, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

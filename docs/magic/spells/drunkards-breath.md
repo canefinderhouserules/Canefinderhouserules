@@ -1,7 +1,7 @@
 # Drunkard’s Breath
 
 **School** conjuration (creation); **Level** bard 2, cleric 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a rotten egg or cabbage leaves)  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

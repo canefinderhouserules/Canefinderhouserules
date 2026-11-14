@@ -1,7 +1,7 @@
 # Remove Radioactivity, Greater
 
 **School** conjuration (healing); **Level** cleric 8, druid 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature or object touched  

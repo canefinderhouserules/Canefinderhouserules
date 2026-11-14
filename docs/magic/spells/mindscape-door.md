@@ -1,7 +1,7 @@
 # Mindscape Door
 
 **School** illusion (phantasm) [mind-affecting]; **Level** medium 3, mesmerist 3, psychic 3, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one illusory portal  

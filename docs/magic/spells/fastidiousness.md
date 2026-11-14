@@ -1,7 +1,7 @@
 # Fastidiousness
 
 **School** abjuration; **Level** bard 1, cleric 1, mesmerist 1, occultist 1, paladin 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Shield of Dawn
 
 **School** evocation [fire, good, light]; **Level** bard 4, cleric 4, magus 4, paladin 4, ranger 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

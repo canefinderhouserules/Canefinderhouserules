@@ -1,7 +1,7 @@
 # Transmute Wine to Blood
 
 **School** transmutation; **Level** cleric 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of animal blood)  
 **Range** touch  
 **Target** bottle of wine worth at least 10 gp  

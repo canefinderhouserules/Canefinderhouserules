@@ -1,7 +1,7 @@
 # Repel Metal or Stone
 
 **School** abjuration [earth]; **Level** druid 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** 60-ft. line from you  

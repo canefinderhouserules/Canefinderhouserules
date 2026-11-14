@@ -1,7 +1,7 @@
 # Reinforce Armaments, Communal
 
 **School** transmutation; **Level** cleric 2, magus 2, occultist 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a metal pin)  
 **Range** touch  
 **Target** armor suits or weapons touched  

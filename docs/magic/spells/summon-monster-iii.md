@@ -1,7 +1,7 @@
 # Summon Monster III
 
 **School** conjuration (summoning); **Level** antipaladin 3, bard 3, cleric 3, psychic 3, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one or more summoned creatures  

@@ -1,7 +1,7 @@
 # Elemental Aura
 
 **School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 3, bloodrager 3, magus 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

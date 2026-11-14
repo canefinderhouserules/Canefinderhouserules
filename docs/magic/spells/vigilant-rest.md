@@ -1,7 +1,7 @@
 # Vigilant Rest
 
 **School** abjuration; **Level** antipaladin 3, bard 4, medium 3, mesmerist 4, occultist 3, paladin 3, psychic 4, ranger 3, shaman 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a handful of crushed glass)  
 **Range** touch  
 **Target** 1 living creature touched  

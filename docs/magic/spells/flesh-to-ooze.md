@@ -1,7 +1,7 @@
 # Flesh to Ooze
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (alchemical reagents worth 100 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 creature or see text  

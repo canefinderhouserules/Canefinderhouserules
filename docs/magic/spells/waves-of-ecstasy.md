@@ -1,7 +1,7 @@
 # Waves of Ecstasy
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 7, mesmerist 6, psychic 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

@@ -1,7 +1,7 @@
 # Life Bubble
 
 **School** abjuration; **Level** cleric 5, druid 4, occultist 4, psychic 5, ranger 3, sorcerer/ wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a bit of eggshell)  
 **Range** touch  
 **Target** creatures touched, up to one/level  

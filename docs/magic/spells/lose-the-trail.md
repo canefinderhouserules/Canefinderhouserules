@@ -1,7 +1,7 @@
 # Lose the Trail
 
 **School** illusion (glamer); **Level** antipaladin 2, ranger 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature/level  

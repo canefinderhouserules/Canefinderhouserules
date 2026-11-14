@@ -1,7 +1,7 @@
 # Absorbing Barrier
 
 **School** abjuration; **Level** alchemist 4, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a jagged scrap of metal)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** 40-ft.-radius sphere; see text (S)  

@@ -1,7 +1,7 @@
 # Ironbeard
 
 **School** transmutation; **Level** antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

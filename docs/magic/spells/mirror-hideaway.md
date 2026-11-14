@@ -1,7 +1,7 @@
 # Mirror Hideaway
 
 **School** transmutation; **Level** occultist 2, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a glass or metal marble and a twisted loop of parchment)  
 **Range** touch  
 **Target** one mirror  

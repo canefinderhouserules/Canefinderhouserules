@@ -1,7 +1,7 @@
 # Dreadscape
 
 **School** illusion (phantasm) [emotion, fear, mind-affecting]; **Level** bard 3, medium 3, mesmerist 3, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a pinch of black sand)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** up to one creature/level, no two of which can be more than 30 feet apart  

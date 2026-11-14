@@ -1,7 +1,7 @@
 # Invisibility Bubble, Giant
 
 **School** illusion (glamer); **Level** bard 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (needle from a sea urchin)  
 **Range** touch  
 **Area** 10-ft..-radius emanation centered on the touched creature’s space  

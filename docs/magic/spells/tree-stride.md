@@ -1,7 +1,7 @@
 # Tree Stride
 
 **School** conjuration (teleportation); **Level** druid 5, ranger 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

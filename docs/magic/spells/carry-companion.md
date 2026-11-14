@@ -1,7 +1,7 @@
 # Carry Companion
 
 **School** transmutation; **Level** druid 2, paladin 2, ranger 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of sand or limestone dust)  
 **Range** touch  
 **Target** one willing creature touched  

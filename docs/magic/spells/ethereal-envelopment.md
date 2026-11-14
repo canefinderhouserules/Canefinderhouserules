@@ -1,7 +1,7 @@
 # Ethereal Envelopment
 
 **School** conjuration (teleportation); **Level** psychic 7, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** S, M (empty crystal box)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

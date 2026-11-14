@@ -1,7 +1,7 @@
 # Deja Vu
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, mesmerist 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

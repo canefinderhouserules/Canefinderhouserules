@@ -1,7 +1,7 @@
 # Pox Pustules
 
 **School** necromancy; **Level** druid 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (leaves from a toxic plant)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

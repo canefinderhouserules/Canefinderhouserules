@@ -1,7 +1,7 @@
 # Litany of Sight
 
 **School** divination; **Level** antipaladin 3, inquisitor 4, paladin 3  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

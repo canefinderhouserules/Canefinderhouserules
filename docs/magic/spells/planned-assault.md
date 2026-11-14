@@ -1,7 +1,7 @@
 # Planned Assault
 
 **School** transmutation; **Level** cleric 3, paladin 3, ranger 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one creature/level, no two of which can be more than 30 ft. apart  

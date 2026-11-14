@@ -1,7 +1,7 @@
 # Aquatic Cavalry
 
 **School** conjuration (summoning); **Level** antipaladin 2, druid 2, paladin 2, ranger 2, shaman 2, summoner 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 1 hippocampus plus 1 hippocampus/3 caster levels  

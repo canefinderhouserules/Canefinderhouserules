@@ -1,7 +1,7 @@
 # Magic Weapon
 
 **School** transmutation; **Level** antipaladin 1, bloodrager 1, cleric 1, inquisitor 1, magus 1, occultist 1, paladin 1, shaman 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch; close (25 ft. + 5 ft./2 levels) for divine casters  
 **Target** weapon touched; for divine casters, one weapon/level, no two of which can be more than 30 ft. apart  

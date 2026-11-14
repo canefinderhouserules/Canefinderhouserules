@@ -1,7 +1,7 @@
 # Page-Bound Epiphany
 
 **School** divination; **Level** bard 2, cleric 2, magus 2, sorcerer/wizard 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a book with blank pages)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Acute Senses
 
 **School** transmutation; **Level** alchemist 2, bard 2, inquisitor 2, psychic 2, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a glass lens)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Black Mark
 
 **School** necromancy [curse, fear]; **Level** druid 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a flask of seawater)  
 **Range** touch  
 **Target** one creature  

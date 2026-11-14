@@ -1,7 +1,7 @@
 # Boneshaker
 
 **School** necromancy; **Level** antipaladin 1, cleric 2, inquisitor 2, sorcerer/wizard 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (human-shaped fetish made of bones)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one living creature or undead creature with a skeleton  

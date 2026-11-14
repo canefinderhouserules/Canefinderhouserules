@@ -1,7 +1,7 @@
 # Blade Barrier
 
 **School** evocation [force]; **Level** cleric 6, inquisitor 6, occultist 6, psychic 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** wall of whirling blades up to 20 ft. long/level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form is 20 ft. high  

@@ -1,7 +1,7 @@
 # Kiss of the First World
 
 **School** transmutation; **Level** bard 4, druid 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (diamond dust worth 100 gp)  
 **Range** touch  
 **Area** living or undead creature touched  

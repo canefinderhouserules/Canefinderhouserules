@@ -1,7 +1,7 @@
 # Resounding Blow
 
 **School** evocation [sonic]; **Level** antipaladin 4, inquisitor 5, paladin 4  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

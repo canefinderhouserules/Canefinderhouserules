@@ -1,7 +1,7 @@
 # Shadowmind
 
 **School** illusion [phantasm]; **Level** antipaladin 2, cleric 3, druid 3, inquisitor 2, mesmerist 3, occultist 3, psychic 3, shaman 3, sorcerer/wizard 3, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a small square of black silk)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** up to one creature/level, no two of which can be more than 30 ft. apart  

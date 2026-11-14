@@ -1,7 +1,7 @@
 # Counterbalancing Aura
 
 **School** abjuration; **Level** cleric 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a set of scales worth 500 gp)  
 **Range** 20 ft.  
 **Target** one creature/level in a 20-ft.-radius burst centered on you  

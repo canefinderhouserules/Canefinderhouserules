@@ -1,7 +1,7 @@
 # Pesh Addiction, Lesser
 
 **School** necromancy; **Level** pesh adept 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, M (a dose of pesh whey)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature with 7 HD or less  

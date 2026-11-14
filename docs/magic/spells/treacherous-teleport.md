@@ -1,7 +1,7 @@
 # Treacherous Teleport
 
 **School** conjuration (teleportation) [ruse]; **Level** magus 6, occultist 6, psychic 6, sorcerer/wizard 6, spiritualist 6, summoner 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal and touch  
 **Target** you and touched objects or other touched willing creatures  

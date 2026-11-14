@@ -1,7 +1,7 @@
 # Spawn Ward
 
 **School** necromancy; **Level** cleric 5, inquisitor 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

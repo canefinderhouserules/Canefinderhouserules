@@ -1,7 +1,7 @@
 # Wave Shield
 
 **School** abjuration [water]; **Level** bloodrager 1, druid 1, magus 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** personal  
 **Target** you  

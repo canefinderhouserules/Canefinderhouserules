@@ -1,7 +1,7 @@
 # Depilate
 
 **School** necromancy; **Level** bard 1, druid 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** S, M (a sliver of cow’s tongue)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature with hair or fur  

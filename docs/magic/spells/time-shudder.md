@@ -1,7 +1,7 @@
 # Time Shudder
 
 **School** transmutation; **Level** magus 2, psychic 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a tiny hourglass)  
 **Range** 30 ft.  
 **Area** 30-ft.-radius emanation centered on you  

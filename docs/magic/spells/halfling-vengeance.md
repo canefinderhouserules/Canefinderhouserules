@@ -1,7 +1,7 @@
 # Halfling Vengeance
 
 **School** divination; **Level** antipaladin 1, cleric 2, inquisitor 2, oracle 2, warpriest 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one Small or smaller creature touched  

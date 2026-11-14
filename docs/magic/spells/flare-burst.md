@@ -1,7 +1,7 @@
 # Flare Burst
 
 **School** evocation (light); **Level** bard 1, bloodrager 1, druid 1, magus 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 10-ft.-radius burst of light  

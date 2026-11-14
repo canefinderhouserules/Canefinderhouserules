@@ -1,7 +1,7 @@
 # Forest Friend
 
 **School** abjuration; **Level** druid 2, ranger 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a pinch of manure)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one willing living creature per three levels, no two of which may be more than 30 ft. apart.  

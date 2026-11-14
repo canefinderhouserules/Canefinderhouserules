@@ -1,7 +1,7 @@
 # Blood Money
 
 **School** transmutation; **Level** magus 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** 1 material component  

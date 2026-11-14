@@ -1,7 +1,7 @@
 # Constricting Coils
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a snakeskin)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one living creature  

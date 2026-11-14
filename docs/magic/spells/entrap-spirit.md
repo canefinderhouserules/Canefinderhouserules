@@ -1,7 +1,7 @@
 # Entrap Spirit
 
 **School** necromancy; **Level** medium 4, occultist 5, psychic 5, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a small silver mirror)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** incorporeal creature or haunt  

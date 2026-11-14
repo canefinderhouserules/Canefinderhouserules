@@ -1,7 +1,7 @@
 # Mark and Recall
 
 **School** conjuration (teleportation); **Level** druid 3, shaman 2, summoner (unchained) 2, witch 3; **Domain** travel 3; **Elemental School** void 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Ignoble Form
 
 **School** transmutation (polymorph); **Level** alchemist 2, antipaladin 2, bard 2, druid 3, medium 2, ranger 2, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a half-elf ear)  
 **Range** touch  
 **Target** one drow  

@@ -1,7 +1,7 @@
 # Unseen Engineers
 
 **School** conjuration (creation); **Level** sorcerer/wizard 3, summoner 2, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (materials required to construct the trap)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** a team of tiny, invisible engineers  

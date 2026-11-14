@@ -1,7 +1,7 @@
 # Phasic Challenge
 
 **School** transmutation; **Level** cleric 8, psychic 8, shaman 8, sorcerer/wizard 8, spiritualist 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a scrap of a knight's banner)  
 **Range** short (25 ft. + 5 ft./2 levels)  
 **Targets** two creatures within 60 feet of one another; see text  

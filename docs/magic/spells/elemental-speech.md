@@ -1,7 +1,7 @@
 # Elemental Speech
 
 **School** divination [air, earth, fire, or water]; **Level** bard 3, cleric 3, druid 2, mesmerist 3, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (iron filings)  
 **Range** personal  
 **Target** you  

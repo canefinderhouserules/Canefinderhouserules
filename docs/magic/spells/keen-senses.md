@@ -1,7 +1,7 @@
 # Keen Senses
 
 **School** transmutation; **Level** alchemist 1, druid 1, occultist 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M/DF (a hawk’s feather)  
 **Range** touch  
 **Target** creature touched  

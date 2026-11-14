@@ -1,7 +1,7 @@
 # Pocketful of Vipers
 
 **School** conjuration (summoning); **Level** druid 3, occultist 3, ranger 3, shaman 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a snake scale and fang)  
 **Range** touch  
 **Target** object touched  

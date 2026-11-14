@@ -1,7 +1,7 @@
 # Tidal Surge
 
 **School** conjuration (creation) [water]; **Level** druid 5, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 30 ft. or 60 ft.; see text  
 **Area** cone-shaped burst or line; see text  

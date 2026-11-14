@@ -1,7 +1,7 @@
 # Summon Vanth
 
 **School** conjuration (summoning); **Level** cleric 6, sorcerer/wizard 6, summoner 5, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (a vulture skull funerary mask)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one summoned vanth psychopomp  

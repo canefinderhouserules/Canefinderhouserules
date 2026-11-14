@@ -1,7 +1,7 @@
 # Flash Flood
 
 **School** conjuration (creation) [water]; **Level** druid 6, shaman 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (water-smoothed pebble)  
 **Range** 60 ft.  
 **Area** cone-shaped burst  

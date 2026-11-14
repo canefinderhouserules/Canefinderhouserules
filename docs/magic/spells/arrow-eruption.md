@@ -1,7 +1,7 @@
 # Arrow Eruption
 
 **School** conjuration (creation); **Level** ranger 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (arrow or crossbow bolt)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 30-ft.-radius burst  

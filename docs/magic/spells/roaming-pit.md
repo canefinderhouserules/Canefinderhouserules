@@ -1,7 +1,7 @@
 # Roaming Pit
 
 **School** conjuration (creation); **Level** cleric 6, druid 6, occultist 6, psychic 6, sorcerer/wizard 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (powdered diamond dust worth 10 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** mobile 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels  

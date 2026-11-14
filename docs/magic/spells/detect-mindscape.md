@@ -1,7 +1,7 @@
 # Detect Mindscape
 
 **School** divination; **Level** medium 2, mesmerist 2, psychic 2, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

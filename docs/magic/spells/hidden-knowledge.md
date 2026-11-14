@@ -1,7 +1,7 @@
 # Hidden Knowledge
 
 **School** transmutation; **Level** bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a drop of ink)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Conjure Black Pudding
 
 **School** conjuration (summoning) [acid]; **Level** psychic 6, sorcerer/wizard 6, summoner 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a flask of acid worth 10 gp)  
 **Range** close (25 ft. + 5 ft./2 level)  
 **Effect** one summoned black pudding  

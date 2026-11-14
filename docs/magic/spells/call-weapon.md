@@ -1,7 +1,7 @@
 # Call Weapon
 
 **School** transmutation; **Level** bard 1, magus 1, ranger 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** 30 feet  
 **Target** one melee weapon wielded by an ally  

@@ -1,7 +1,7 @@
 # Sky Steed
 
 **School** transmutation (polymorph); **Level** paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** a creature you are mounted upon  

@@ -1,7 +1,7 @@
 # Flash Forward
 
 **School** conjuration (teleportation); **Level** alchemist 4, antipaladin 4, bard 4, bloodrager 4, inquisitor 4, magus 4, medium 4, occultist 4, paladin 4, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a single gear or bit of clockwork)  
 **Range** personal  
 **Target** you  

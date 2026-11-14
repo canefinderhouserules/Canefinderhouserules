@@ -1,7 +1,7 @@
 # Prismatic Sphere
 
 **School** abjuration; **Level** sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** 10 ft.  
 **Effect** 10-ft.-radius sphere centered on you  

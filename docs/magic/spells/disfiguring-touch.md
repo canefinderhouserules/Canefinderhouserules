@@ -1,7 +1,7 @@
 # Disfiguring Touch
 
 **School** transmutation [curse]; **Level** bloodrager 2, cleric 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

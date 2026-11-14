@@ -1,7 +1,7 @@
 # Summon Monster VIII
 
 **School** conjuration (summoning); **Level** cleric 8, psychic 8, sorcerer/wizard 8, summoner 6, witch 8  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one or more summoned creatures  

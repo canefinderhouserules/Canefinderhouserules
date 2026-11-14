@@ -1,7 +1,7 @@
 # Pugwampi’s Grace
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pugwampi’s hair)  
 **Range** short (25 ft. + 5 ft./2 levels)  
 **Target** one creature (see below)  

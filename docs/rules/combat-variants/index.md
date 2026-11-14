@@ -8,6 +8,7 @@ Some players and Game Masters, however, may wish to replace whole sections of th
 
 ## What's in This Chapter
 
+- [Action Points](action-points.md): an optional house rule where every turn has 3 action points (AP) to spend on anything.
 - [Armor as Damage Reduction](armor-as-damage-reduction.md): view armor as protection that makes a character harder to damage, not harder to hit.
 - [Called Shots](called-shots.md): target specific areas of an opponent, with corresponding results.
 - [Piecemeal Armor](piecemeal-armor.md): rules for mixing and matching armor pieces.

@@ -1,7 +1,7 @@
 # Heavy Water
 
 **School** transmutation [water]; **Level** cleric 4, druid 4, ranger 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** cylinder of water (5-ft. radius/level, 30 ft. deep)  

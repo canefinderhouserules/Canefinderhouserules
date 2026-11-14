@@ -1,7 +1,7 @@
 # Torpid Reanimation
 
 **School** necromancy [evil]; **Level** antipaladin 4, cleric 4, occultist 4, shaman 4, sorcerer/wizard 5, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (an onyx gem worth at least 25 gp per HD of the undead)  
 **Range** touch  
 **Targets** one or more corpses touched  

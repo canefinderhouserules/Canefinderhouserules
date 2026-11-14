@@ -1,7 +1,7 @@
 # Thunder Arrow
 
 **School** evocation [electricity]; **Level** bloodrager 1, cleric 2, druid 1, inquisitor 1, magus 1, paladin 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (one arrow)  
 **Range** medium (100 ft. + 10 ft./level) or see text  
 **Effect** arrow of electricity  

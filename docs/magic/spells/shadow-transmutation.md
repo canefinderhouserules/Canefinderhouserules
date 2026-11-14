@@ -1,7 +1,7 @@
 # Shadow Transmutation
 
 **School** illusion (shadow) [shadow]; **Level** bard 6, medium 6, shaman 6, sorcerer/wizard 6, spiritualist 6, summoner 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** see text  
 **Target** see text  

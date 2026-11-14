@@ -1,7 +1,7 @@
 # Defile Armor
 
 **School** abjuration [evil]; **Level** inquisitor 4, antipaladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** armor touched  

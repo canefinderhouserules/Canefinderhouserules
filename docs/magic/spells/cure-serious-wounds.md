@@ -1,7 +1,7 @@
 # Cure Serious Wounds
 
 **School** conjuration (healing); **Level** alchemist 3, bard 3, cleric 3, druid 4, inquisitor 3, occultist 3, paladin 4, ranger 4, shaman 3, spiritualist 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

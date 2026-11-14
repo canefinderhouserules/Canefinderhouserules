@@ -1,7 +1,7 @@
 # Burst Bonds
 
 **School** evocation; **Level** inquisitor 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** touch  
 **Target** one object or creature restraining you  

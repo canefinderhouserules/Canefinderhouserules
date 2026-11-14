@@ -1,7 +1,7 @@
 # Overwhelming Poison
 
 **School** necromancy [poison]; **Level** antipaladin 4, cleric 6, druid 6, ranger 4, shaman 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (an adder’s fang)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or one dose of poison; see text  

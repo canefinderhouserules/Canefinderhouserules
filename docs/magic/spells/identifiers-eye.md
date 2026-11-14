@@ -1,7 +1,7 @@
 # Identifier's Eye
 
 **School** divination; **Level** alchemist 2, bard 2, sorcerer/wizard 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a wine-stained pearl)  
 **Range** touch  
 **Target** creature touched  

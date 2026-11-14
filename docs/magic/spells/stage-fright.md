@@ -1,7 +1,7 @@
 # Stage Fright
 
 **School** enchantment (compulsion) [emotion, fear, mind-affecting]; **Level** antipaladin 3, bard 3, inquisitor 3, mesmerist 3, psychic 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** 1 creature/level, no two of which may be more than 30 ft. apart  

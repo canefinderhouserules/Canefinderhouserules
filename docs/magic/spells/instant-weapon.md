@@ -1,7 +1,7 @@
 # Instant Weapon
 
 **School** conjuration (creation) [force]; **Level** bard 2, bloodrager 2, cleric 2, inquisitor 2, magus 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** melee weapon of opaque force  

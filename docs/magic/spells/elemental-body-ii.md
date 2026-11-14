@@ -1,7 +1,7 @@
 # Elemental Body II
 
 **School** transmutation (polymorph); **Level** alchemist 5, magus 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (the element you plan to assume)  
 **Range** personal  
 **Target** you  

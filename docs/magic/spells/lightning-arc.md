@@ -1,7 +1,7 @@
 # Lightning Arc
 
 **School** evocation [electricity]; **Level** sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (fur and two glass figurines)  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** two creatures or objects which must be no more than 60 ft. apart  

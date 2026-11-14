@@ -1,7 +1,7 @@
 # Sunburst
 
 **School** evocation [light]; **Level** druid 8, shaman 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (sunstone and fire source)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 80-ft.-radius burst  

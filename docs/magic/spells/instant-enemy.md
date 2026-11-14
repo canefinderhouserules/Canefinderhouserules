@@ -1,7 +1,7 @@
 # Instant Enemy
 
 **School** enchantment; **Level** ranger 1; 2 for other classes that cast up to 6th-level spells and gain favored enemy in some way  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature that is not your favored enemy.  

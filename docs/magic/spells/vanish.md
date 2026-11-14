@@ -1,7 +1,7 @@
 # Vanish
 
 **School** illusion (glamer); **Level** bard 1, magus 1, mesmerist 1, occultist 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

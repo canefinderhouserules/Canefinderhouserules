@@ -1,7 +1,7 @@
 # Shatter
 
 **School** evocation [sonic]; **Level** bard 2, bloodrager 2, cleric 2, magus 2, occultist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a chip of mica)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area or Target** 5-ft.-radius spread; or one solid object or one crystalline creature  

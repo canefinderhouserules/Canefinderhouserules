@@ -1,7 +1,7 @@
 # Necrostasis
 
 **School** necromancy; **Level** cleric 2, inquisitor 2, shaman 2, sorcerer/wizard 3, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a finger bone)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one undead creature  

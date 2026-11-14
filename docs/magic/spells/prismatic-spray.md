@@ -1,7 +1,7 @@
 # Prismatic Spray
 
 **School** evocation; **Level** sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** cone-shaped burst  

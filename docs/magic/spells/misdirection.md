@@ -1,7 +1,7 @@
 # Misdirection
 
 **School** illusion (glamer); **Level** bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or object, up to a 10-ft. cube in size  

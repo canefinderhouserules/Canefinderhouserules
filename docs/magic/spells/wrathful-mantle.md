@@ -1,7 +1,7 @@
 # Wrathful Mantle
 
 **School** evocation [force, light]; **Level** cleric 3, paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch or 5 ft.; see text  
 **Target** creature touched or all creatures within 5 ft.; see text  

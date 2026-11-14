@@ -1,7 +1,7 @@
 # Dream Shield
 
 **School** abjuration; **Level** alchemist 2, bard 2, medium 2, mesmerist 2, psychic 3, shaman 2, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (hollow glass ball or dreamcatcher)  
 **Range** touch  
 **Target** creature touched  

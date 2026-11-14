@@ -1,7 +1,7 @@
 # Shadow Walk
 
 **School** illusion (shadow); **Level** alchemist 6, bard 5, mesmerist 5, sorcerer/wizard 6, spiritualist 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Targets** up to one touched creature/level  

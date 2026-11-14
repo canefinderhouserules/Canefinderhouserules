@@ -1,7 +1,7 @@
 # Dream Scan
 
 **School** divination [mind-affecting]; **Level** bard 6, medium 4, mesmerist 5, psychic 5, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** unlimited  
 **Target** one living creature  

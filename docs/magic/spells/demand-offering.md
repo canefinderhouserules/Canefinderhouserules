@@ -1,7 +1,7 @@
 # Demand Offering
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, bard 2, inquisitor 2, mesmerist 1, occultist 2, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 5 ft.  
 **Target** one creature  

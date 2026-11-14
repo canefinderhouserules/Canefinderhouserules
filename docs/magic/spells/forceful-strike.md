@@ -1,7 +1,7 @@
 # Forceful Strike
 
 **School** evocation [force]; **Level** cleric 4, inquisitor 4, magus 4, paladin 4  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** touch or reach of melee weapon  
 **Target** 1 creature  

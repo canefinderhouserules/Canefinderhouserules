@@ -1,7 +1,7 @@
 # Heart of the Metal
 
 **School** transmutation [earth]; **Level** magus 3, occultist 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a chunk of adamantine worth 100 gp, or a chunk of cold iron or silver worth 20 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one weapon per level  

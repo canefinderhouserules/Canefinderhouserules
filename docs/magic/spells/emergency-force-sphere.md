@@ -1,7 +1,7 @@
 # Emergency Force Sphere
 
 **School** evocation [force]; **Level** sorcerer/wizard 4  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** 5 ft.  
 **Effect** 5-ft.-radius hemisphere of force centered on you  

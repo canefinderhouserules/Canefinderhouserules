@@ -1,7 +1,7 @@
 # Empower Holy Water
 
 **School** transmutation [good]; **Level** alchemist 2, bard 2, paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one or more vials of holy water  

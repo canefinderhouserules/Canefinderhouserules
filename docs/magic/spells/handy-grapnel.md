@@ -1,7 +1,7 @@
 # Handy Grapnel
 
 **School** transmutation; **Level** inquisitor 1, ranger 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (an arrowhead)  
 **Range** touch  
 **Target** one ropelike object, length up to 50 ft. + 5 ft./level  

@@ -1,7 +1,7 @@
 # Feeblemind
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** medium 4, mesmerist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a handful of clay, crystal, or glass spheres)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

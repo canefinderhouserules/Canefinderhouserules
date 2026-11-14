@@ -1,7 +1,7 @@
 # Telekinetic Storm
 
 **School** evocation [force]; **Level** psychic 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Area** 40-ft.-radius burst centered on you  
 **Duration** instantaneous  

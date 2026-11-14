@@ -1,7 +1,7 @@
 # Honeyed Tongue
 
 **School** transmutation; **Level** bard 2, inquisitor 2, mesmerist 2, paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M/DF (a drop of honey)  
 **Range** personal  
 **Target** you  

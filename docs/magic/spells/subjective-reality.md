@@ -1,7 +1,7 @@
 # Subjective Reality
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 6, medium 5, mesmerist 5, psychic 6, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

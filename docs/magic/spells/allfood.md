@@ -1,7 +1,7 @@
 # Allfood
 
 **School** transmutation; **Level** ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a pinch of salt and pepper)  
 **Range** touch  
 **Target** object touched, weighing up to 5 lbs./level  

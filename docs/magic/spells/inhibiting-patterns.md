@@ -1,7 +1,7 @@
 # Inhibiting Patterns
 
 **School** illusion (pattern) [mind-affecting]; **Level** bard 3, psychic 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a sprinkle of ground glass)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** one cylinder (10-ft. radius, 40-ft. high)/3 levels  

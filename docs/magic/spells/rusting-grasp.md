@@ -1,7 +1,7 @@
 # Rusting Grasp
 
 **School** transmutation; **Level** druid 4, occultist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** one nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point) or one ferrous creature  

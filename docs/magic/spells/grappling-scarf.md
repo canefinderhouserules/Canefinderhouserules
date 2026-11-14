@@ -1,7 +1,7 @@
 # Grappling Scarf
 
 **School** transmutation; **Level** bard 1, inquisitor 1, occultist 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (scarf)  
 **Range** personal  
 **Target** you  

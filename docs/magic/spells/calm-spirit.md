@@ -1,7 +1,7 @@
 # Calm Spirit
 
 **School** necromancy; **Level** cleric 2, medium 1, shaman 2, spiritualist 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one incorporeal undead creature or haunt  

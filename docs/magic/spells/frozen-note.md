@@ -1,7 +1,7 @@
 # Frozen Note
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Area** 30-ft.-radius emanation centered on you  
 **Target** any number of creatures within area  

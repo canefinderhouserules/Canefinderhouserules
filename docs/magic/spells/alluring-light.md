@@ -1,7 +1,7 @@
 # Alluring Light
 
 **School** enchantment (compulsion); **Level** bard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** 30-ft.-radius emanation centered on you  

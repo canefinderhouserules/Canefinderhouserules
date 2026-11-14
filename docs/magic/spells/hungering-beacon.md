@@ -1,7 +1,7 @@
 # Hungering Beacon
 
 **School** necromancy (haunted) [emotion, evil, fear, mind-affecting]; **Level** antipaladin 2, cleric 2, inquisitor 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one 5-ft. cube/level (S)  

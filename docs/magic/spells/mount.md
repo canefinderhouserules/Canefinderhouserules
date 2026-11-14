@@ -1,7 +1,7 @@
 # Mount
 
 **School** conjuration (summoning); **Level** bloodrager 1, magus 1, occultist 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a bit of horse hair)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one mount  

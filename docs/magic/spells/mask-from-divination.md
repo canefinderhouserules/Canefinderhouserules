@@ -1,7 +1,7 @@
 # Mask from Divination
 
 **School** divination; **Level** alchemist 5, bloodrager 4, magus 5, shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (an eyeless mask), M (diamond dust worth 200 gp)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Aspect of the Nightingale
 
 **School** transmutation (polymorph); **Level** bard 1, cleric 1, druid 1, inquisitor 1, paladin 1, ranger 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Duration** 1 minute/level

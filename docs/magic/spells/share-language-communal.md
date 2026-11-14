@@ -1,7 +1,7 @@
 # Share Language, Communal
 
 **School** divination; **Level** bard 2, cleric 3, druid 3, mesmerist 2, occultist 3, psychic 2, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a page from a dictionary)  
 **Range** touch  
 **Target** creatures touched  

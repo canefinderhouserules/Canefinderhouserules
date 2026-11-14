@@ -1,7 +1,7 @@
 # Dream Travel
 
 **School** conjuration (teleportation) [mind-affecting]; **Level** mesmerist 6, psychic 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** you and one creature/level  

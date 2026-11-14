@@ -1,7 +1,7 @@
 # Stormbolts
 
 **School** evocation [electricity]; **Level** cleric 8, druid 8, shaman 8, sorcerer/ wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a copper rod)  
 **Range** 30 ft.  
 **Area** a 30-ft.-radius spread, centered on you  

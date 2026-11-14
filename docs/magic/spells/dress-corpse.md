@@ -1,7 +1,7 @@
 # Dress Corpse
 
 **School** necromancy; **Level** cleric 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pickled herring)  
 **Range** touch  
 **Target** corpse touched  

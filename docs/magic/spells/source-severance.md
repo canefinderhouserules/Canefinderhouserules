@@ -1,7 +1,7 @@
 # Source Severance
 
 **School** abjuration; **Level** cleric 6, druid 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (an unworked lodestone)  
 **Range** 5 feet  
 **Area** 5-ft.-radius emanation, centered on you  

@@ -1,7 +1,7 @@
 # Puzzle Box
 
 **School** enchantment (compulsion) [curse , mind-affecting]; **Level** arcanist 3, bard 2, skald 2, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or one object up to 5 lbs./level  

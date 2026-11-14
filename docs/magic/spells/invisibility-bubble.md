@@ -1,7 +1,7 @@
 # Invisibility Bubble
 
 **School** illusion (glamer); **Level** alchemist 2, antipaladin 2, arcanist 2, bard 2, inquisitor 2, investigator 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, skald 2, sorcerer/wizard 2, spiritualist 2, summoner (unchained) 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (needle from a sea urchin)  
 **Range** touch  
 **Area** touched creature's space, up to one 5-foot-cube  

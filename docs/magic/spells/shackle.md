@@ -1,7 +1,7 @@
 # Shackle
 
 **School** conjuration (creation); **Level** cleric 2, inquisitor 2, ranger 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Effect** one set of restraints; see text  

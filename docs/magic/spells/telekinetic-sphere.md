@@ -1,7 +1,7 @@
 # Telekinetic Sphere
 
 **School** evocation [force]; **Level** psychic 7, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a crystal sphere and a pair of small magnets)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 1-ft.-diameter/level sphere, centered around creatures or objects  

@@ -1,7 +1,7 @@
 # Fractions of Heal and Harm
 
 **School** transmutation; **Level** bard 3, bloodrager 3, cleric 3, sorcerer/wizard 3  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

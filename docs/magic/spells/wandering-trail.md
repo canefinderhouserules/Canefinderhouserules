@@ -1,7 +1,7 @@
 # Wandering Trail
 
 **School** transmutation; **Level** druid 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 1 mile/level  
 **Target** up to one creature/level within 180 feet  

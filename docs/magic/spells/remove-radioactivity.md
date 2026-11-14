@@ -1,7 +1,7 @@
 # Remove Radioactivity
 
 **School** conjuration (healing); **Level** bard 4, cleric 4, druid 4, inquisitor 4, paladin 4, ranger 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature or object touched  

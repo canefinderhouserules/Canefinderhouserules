@@ -1,7 +1,7 @@
 # Hungry Darkness
 
 **School** evocation [darkness, force]; **Level** sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a bat’s tooth)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 60-ft.-radius spread  

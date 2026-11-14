@@ -1,7 +1,7 @@
 # Age Resistance, Greater
 
 **School** transmutation; **Level** alchemist 5, druid 7, occultist 5, psychic 7, sorcerer/ wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

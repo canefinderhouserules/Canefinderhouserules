@@ -1,7 +1,7 @@
 # Line in the Sand
 
 **School** abjuration; **Level** bloodrager 1, magus 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 5 ft.  
 **Area** 5-ft. burst centered on you  

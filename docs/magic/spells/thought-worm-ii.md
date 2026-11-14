@@ -1,7 +1,7 @@
 # Thought Worm II
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** psychic 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

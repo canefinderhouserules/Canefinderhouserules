@@ -1,7 +1,7 @@
 # Flesh Puppet
 
 **School** necromancy [evil]; **Level** antipaladin 2, cleric 3, occultist 3, shaman 3, sorcerer/wizard 4, spiritualist 3, witch 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (an onyx worth 25 gp and a silken string)  
 **Range** touch  
 **Target** one corpse touched  

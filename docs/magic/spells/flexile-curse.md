@@ -1,7 +1,7 @@
 # Flexile Curse
 
 **School** transmutation [curse]; **Level** bard 3, cleric 5, inquisitor 3, psychic 5, sorcerer/wizard 5, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Quieting Weapons
 
 **School** illusion (glamer); **Level** bard 4, cleric 4, inquisitor 4, magus 4, occultist 4, psychic 4, ranger 3, sorcerer/wizard 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** up to one natural or manufactured weapon per 3 caster levels  

@@ -1,7 +1,7 @@
 # Draconic Malice
 
 **School** enchantment [draconic]; **Level** antipaladin 3, bard 3, bloodrager 3, cleric 3, inquisitor 3, mesmerist 3, psychic 3, shaman 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you; **Effect** 10-foot aura centered on you  

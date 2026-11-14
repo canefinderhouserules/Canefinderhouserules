@@ -1,7 +1,7 @@
 # Enervation
 
 **School** necromancy; **Level** bloodrager 4, mesmerist 4, sorcerer/wizard 4, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** ray of negative energy  

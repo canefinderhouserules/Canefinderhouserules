@@ -1,7 +1,7 @@
 # Sweat Poison
 
 **School** necromancy [poison]; **Level** alchemist 2, druid 3, inquisitor 3, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

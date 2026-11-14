@@ -1,7 +1,7 @@
 # Gentle Repose
 
 **School** necromancy; **Level** cleric 2, medium 2, occultist 3, shaman 2, sorcerer/wizard 3, spiritualist 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (salt and a copper piece for each of the corpse’s eyes)  
 **Range** touch  
 **Target** corpse touched  

@@ -1,7 +1,7 @@
 # Glimpse of the Akashic
 
 **School** divination; **Level** psychic 8  
-**Casting Time** 1 full-round action  
+**Casting Time** 1 full-round action (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

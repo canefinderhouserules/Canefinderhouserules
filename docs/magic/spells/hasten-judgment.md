@@ -1,7 +1,7 @@
 # Hasten Judgment
 
 **School** necromancy (curse); **Level** antipaladin 4, cleric 5, druid 5, inquisitor 4, sorcerer/wizard 6, spiritualist 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (2 silver pieces)  
 **Range** touch  
 **Target** one living or corporeal undead creature  

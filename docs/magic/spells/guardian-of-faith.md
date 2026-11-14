@@ -1,7 +1,7 @@
 # Guardian of Faith
 
 **School** abjuration [see text]; **Level** cleric 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (parchment with a holy text written on it)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one ally  

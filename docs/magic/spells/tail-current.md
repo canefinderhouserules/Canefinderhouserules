@@ -1,7 +1,7 @@
 # Tail Current
 
 **School** transmutation [water]; **Level** bloodrager 4, cleric 4, druid 3, magus 4, occultist 3, ranger 3, shaman 3, sorcerer/wizard 4, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 120 ft.  
 **Targets** one or more creatures, no two of which can be more than 120 feet apart  

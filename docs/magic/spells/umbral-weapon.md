@@ -1,7 +1,7 @@
 # Umbral Weapon
 
 **School** illusion [cold, shadow]; **Level** antipaladin 2, bard 2, magus 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a pair of miniature swords)  
 **Range** touch  
 **Target** melee weapon touched  

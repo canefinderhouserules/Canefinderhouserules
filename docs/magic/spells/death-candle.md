@@ -1,7 +1,7 @@
 # Death Candle
 
 **School** necromancy [death, evil, fire]; **Level** antipaladin 1, cleric 2, inquisitor 2, witch 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

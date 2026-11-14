@@ -1,7 +1,7 @@
 # Lighten Object
 
 **School** transmutation; **Level** bard 1, cleric 1, magus 1, sorcerer/wizard 1, summoner 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (goose down)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 object of up to 1 cubic ft./level  

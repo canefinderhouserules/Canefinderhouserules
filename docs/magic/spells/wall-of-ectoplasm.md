@@ -1,7 +1,7 @@
 # Wall of Ectoplasm
 
 **School** evocation; **Level** cleric 5, psychic 5, sorcerer/wizard 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (small bit of gauze)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** opaque sheet of ectoplasm up to 10 ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level  

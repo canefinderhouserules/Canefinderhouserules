@@ -1,7 +1,7 @@
 # Garrulous Grin
 
 **School** necromancy [fear, mind-affecting]; **Level** antipaladin 2, bard 2, inquisitor 2, mesmerist 2, psychic 2, shaman 2, spiritualist 2, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

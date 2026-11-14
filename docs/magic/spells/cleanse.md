@@ -1,7 +1,7 @@
 # Cleanse
 
 **School** evocation; **Level** cleric 5, inquisitor 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, DF  
 **Range** personal  
 **Target** you  

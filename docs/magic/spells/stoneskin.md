@@ -1,7 +1,7 @@
 # Stoneskin
 
 **School** abjuration; **Level** alchemist 4, bloodrager 4, druid 5, inquisitor 4, magus 4, occultist 4, psychic 4, shaman 5, sorcerer/wizard 4, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (granite and diamond dust worth 250 gp)  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Weaponwand
 
 **School** transmutation; **Level** bard 1, cleric 1, inquisitor 1, magus 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a magic wand)  
 **Range** touch  
 **Target** one weapon  

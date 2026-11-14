@@ -1,7 +1,7 @@
 # Hungry Pit
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (miniature shovel costing 10 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels  

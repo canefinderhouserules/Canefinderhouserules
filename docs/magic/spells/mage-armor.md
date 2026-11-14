@@ -1,7 +1,7 @@
 # Mage Armor
 
 **School** conjuration (creation) [force]; **Level** bloodrager 1, occultist 1, psychic 1, sorcerer/wizard 1, spiritualist 1, summoner 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a piece of cured leather)  
 **Range** touch  
 **Target** creature touched  

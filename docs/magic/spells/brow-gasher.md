@@ -1,7 +1,7 @@
 # Brow Gasher
 
 **School** necromancy; **Level** bloodrager 2, inquisitor 2, magus 2, occultist 2, ranger 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Area** one slashing melee weapon touched  

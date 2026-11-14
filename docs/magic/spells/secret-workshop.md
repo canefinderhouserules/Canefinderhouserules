@@ -1,7 +1,7 @@
 # Secret Workshop
 
 **School** abjuration; **Level** medium 4, mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, summoner 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (diamond dust worth 150 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** any number of creatures or objects in range  

@@ -1,7 +1,7 @@
 # Bless
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 1, inquisitor 1, paladin 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** 50 ft.  
 **Area** The caster and all allies within a 50-ft. burst, centered on the caster  

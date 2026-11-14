@@ -1,7 +1,7 @@
 # Absorb Rune II
 
 **School** abjuration; **Level** bard 6, cleric 6, magus 6, occultist 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a white silk glove worth 25 gp)  
 **Range** touch  
 **Target** one spell effect  

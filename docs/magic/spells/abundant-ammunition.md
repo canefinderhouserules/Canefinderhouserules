@@ -1,7 +1,7 @@
 # Abundant Ammunition
 
 **School** conjuration (summoning); **Level** bard 1, cleric 1, psychic 1, ranger 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a single piece of ammunition)  
 **Target** one container touched  
 **Duration** 1 minute/level  

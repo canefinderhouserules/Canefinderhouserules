@@ -1,7 +1,7 @@
 # Acidic Spray
 
 **School** conjuration (creation) [acid]; **Level** magus 5, sorcerer/ wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a vial of acid worth 10 gp)  
 **Range** 60 ft.  
 **Effect** 60-ft. line  

@@ -1,7 +1,7 @@
 # Protection from Spells
 
 **School** abjuration; **Level** psychic 8, sorcerer/wizard 8, summoner 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (diamond worth 500 gp), F (One 1,000 gp diamond per target. Each subject must carry the gem for the duration of the spell. If a subject loses the gem, the spell ceases to affect him.)  
 **Range** touch  
 **Targets** up to one creature touched per four levels  

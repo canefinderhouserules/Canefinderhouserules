@@ -1,7 +1,7 @@
 # Wind Blades
 
 **School** transmutation [air]; **Level** druid 5, magus 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

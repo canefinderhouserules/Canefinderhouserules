@@ -2,7 +2,7 @@
 
 **School** abjuration; **Level** cleric 6, druid 6, psychic 6, shaman 6  
 **Components** V, S, DF  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Range** 10 ft.  
 **Area** 10-ft.-radius emanation, centered on you  
 **Duration** 1 min./level (D)  

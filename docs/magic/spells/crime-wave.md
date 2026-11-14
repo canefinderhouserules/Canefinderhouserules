@@ -1,7 +1,7 @@
 # Crime Wave
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 4, bard 5, mesmerist 5, psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a tarnished coin)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

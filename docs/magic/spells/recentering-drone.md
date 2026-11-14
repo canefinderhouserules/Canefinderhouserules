@@ -1,7 +1,7 @@
 # Recentering Drone
 
 **School** abjuration; **Level** cleric 2, druid 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature/2 levels (no two of which may be more than 30 ft. apart)  

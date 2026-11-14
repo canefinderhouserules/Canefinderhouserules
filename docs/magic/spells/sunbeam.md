@@ -1,7 +1,7 @@
 # Sunbeam
 
 **School** evocation [light]; **Level** druid 7, shaman 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** 60 ft.  
 **Area** line from your hand  

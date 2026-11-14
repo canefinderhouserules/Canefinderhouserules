@@ -1,7 +1,7 @@
 # Holy Ice Weapon
 
 **School** transmutation [cold, good, water]; **Level** cleric 2, inquisitor 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a flask of holy water, or 5 pounds of powdered silver worth 25 gp)  
 **Range** 0 ft.  
 **Effect** one ice weapon  

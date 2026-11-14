@@ -1,7 +1,7 @@
 # Decapitate
 
 **School** evocation; **Level** inquisitor 5, magus 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, F (a sliver from a guillotine blade)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature (see text)  

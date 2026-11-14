@@ -1,7 +1,7 @@
 # Telempathic Projection
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** mesmerist 1, psychic 1, spiritualist 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

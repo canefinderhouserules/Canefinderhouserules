@@ -1,7 +1,7 @@
 # Telepathy
 
 **School** divination [mind-affecting]; **Level** medium 4, mesmerist 4, psychic 5, sorcerer/wizard 6, spiritualist 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

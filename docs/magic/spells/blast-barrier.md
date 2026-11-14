@@ -1,7 +1,7 @@
 # Blast Barrier
 
 **School** transmutation [sonic]; **Level** druid 4, ranger 3, sorcerer/wizard 3, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (handful of snow, earth, or gravel)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 1-ft.-thick wall up to 10 ft. high by 20 ft. wide  

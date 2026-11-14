@@ -1,7 +1,7 @@
 # Orchid’s Drop
 
 **School** transmutation; **Level** alchemist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a much-diluted drop of rare orchid nectar worth 500 gp)  
 **Range** personal  
 **Target** you  

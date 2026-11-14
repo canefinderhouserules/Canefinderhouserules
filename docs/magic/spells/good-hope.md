@@ -1,7 +1,7 @@
 # Good Hope
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** one living creature/level, no two of which may be more than 30 ft. apart  

@@ -1,7 +1,7 @@
 # Verminous Transformation
 
 **School** transmutation (polymorph); **Level** alchemist 6, shaman 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a handful of bat wings, insects, and rat tails)  
 **Range** personal  
 **Target** you  

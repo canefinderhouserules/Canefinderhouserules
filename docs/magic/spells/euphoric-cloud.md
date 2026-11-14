@@ -1,7 +1,7 @@
 # Euphoric Cloud
 
 **School** conjuration (creation) [poison]; **Level** druid 2, magus 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (rare mushrooms worth 5 gp)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** fog spreads in 20-ft. radius, 20 ft. high  

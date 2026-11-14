@@ -1,7 +1,7 @@
 # Aerial Tracks
 
 **School** divination [air]; **Level** druid 4, inquisitor 4, ranger 3, shaman 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** circle centered on you, with a radius of 100 feet + 10 feet per level  

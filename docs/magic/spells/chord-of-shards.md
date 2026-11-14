@@ -1,7 +1,7 @@
 # Chord of Shards
 
 **School** evocation; **Level** bard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 15 ft.  
 **Area** cone-shaped burst  

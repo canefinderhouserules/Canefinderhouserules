@@ -1,7 +1,7 @@
 # Wall of Thorns
 
 **School** conjuration (creation); **Level** druid 5, shaman 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** wall of thorny brush, up to one 10-ft. cube/level (S)  

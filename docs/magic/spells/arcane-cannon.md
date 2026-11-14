@@ -1,7 +1,7 @@
 # Arcane Cannon
 
 **School** transmutation; **Level** sorcerer/wizard 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (an ornate miniature cannon forged with a drop of your blood that costs 5,000 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one magically animated cannon  

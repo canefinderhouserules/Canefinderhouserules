@@ -1,7 +1,7 @@
 # Seeming
 
 **School** illusion (glamer); **Level** bard 5, medium 4, mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature per two levels, no two of which can be more than 30 ft. apart  

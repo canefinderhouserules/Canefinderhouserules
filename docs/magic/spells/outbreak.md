@@ -1,7 +1,7 @@
 # Outbreak
 
 **School** necromancy; **Level** antipaladin 2, bloodrager 3, cleric 2, druid 2, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 20-ft. burst  

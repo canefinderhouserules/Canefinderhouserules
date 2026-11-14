@@ -1,7 +1,7 @@
 # Touch of Slumber
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, cleric 5, druid 5, psychic 6, shaman 5, sorcerer/wizard 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a bit of seaweed)  
 **Range** touch  
 **Target** nonhostile creature touched  

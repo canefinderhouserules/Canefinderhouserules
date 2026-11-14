@@ -1,7 +1,7 @@
 # Voluminous Vocabulary
 
 **School** divination; **Level** alchemist 3, bard 2, cleric 3, inquisitor 2, medium 2, mesmerist 2, occultist 2, psychic 3, shaman 4, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a quill)  
 **Range** touch  
 **Target** creature touched  

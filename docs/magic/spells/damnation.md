@@ -1,7 +1,7 @@
 # Damnation
 
 **School** evocation [good]; **Level** cleric 3, inquisitor 3, paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a drop of holy water)  
 **Area** 30-ft.-radius burst centered on you  
 **Duration** instantaneous  

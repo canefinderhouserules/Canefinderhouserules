@@ -1,7 +1,7 @@
 # Quaking Fury
 
 **School** transmutation; **Level** bloodrager 2, cleric 2, inquisitor 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

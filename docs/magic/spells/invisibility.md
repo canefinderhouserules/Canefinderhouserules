@@ -1,7 +1,7 @@
 # Invisibility
 
 **School** illusion (glamer); **Level** alchemist 2, antipaladin 2, bard 2, inquisitor 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (an eyelash encased in gum arabic)  
 **Range** personal or touch  
 **Target** you or a creature or object weighing no more than 100 lbs./level  

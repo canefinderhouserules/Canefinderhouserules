@@ -1,7 +1,7 @@
 # Psychic Image
 
 **School** illusion (shadow); **Level** psychic 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** one shadow duplicate  

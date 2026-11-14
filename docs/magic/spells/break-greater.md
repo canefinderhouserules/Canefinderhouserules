@@ -1,7 +1,7 @@
 # Break, Greater
 
 **School** transmutation; **Level** bloodrager 4, occultist 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (an unbroken platinum tuning fork worth 100 gp)  
 **Range** 30 ft.  
 **Targets** all Medium or smaller objects in a 30-ft. burst centered on you  

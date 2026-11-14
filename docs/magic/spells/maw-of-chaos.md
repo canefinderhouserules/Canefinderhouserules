@@ -1,7 +1,7 @@
 # Maw of Chaos
 
 **School** conjuration (teleportation) [chaotic]; **Level** cleric 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a gold-plated, cold iron ring that was forged in the Abyss)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 5-foot-radius spread  

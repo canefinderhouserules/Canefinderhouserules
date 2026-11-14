@@ -1,7 +1,7 @@
 # Skeleton Crew
 
 **School** necromancy; **Level** cleric 3, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M  
 **Range** touch  
 **Targets** one or more humanoid corpses touched  

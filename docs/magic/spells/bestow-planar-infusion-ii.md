@@ -1,7 +1,7 @@
 # Bestow Planar Infusion II
 
 **School** evocation; **Level** cleric 4, inquisitor 4, magus 4, medium 4, occultist 4, psychic 4, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

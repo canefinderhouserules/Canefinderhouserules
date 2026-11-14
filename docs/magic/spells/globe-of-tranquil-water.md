@@ -1,7 +1,7 @@
 # Globe of Tranquil Water
 
 **School** abjuration; **Level** cleric 4, druid 4, shaman 4, sorcerer/wizard 5, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a glass globe)  
 **Range** 20 ft.  
 **Area** 20-ft.-radius emanation, centered on you  

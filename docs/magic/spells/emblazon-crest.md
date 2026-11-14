@@ -1,7 +1,7 @@
 # Emblazon Crest
 
 **School** transmutation; **Level** magus 1, paladin 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, F (an example of the crest or coat of arms)  
 **Range** touch  
 **Target** creature touched  

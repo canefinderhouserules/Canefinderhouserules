@@ -1,7 +1,7 @@
 # Litany of Defense
 
 **School** transmutation; **Level** antipaladin 2, inquisitor 2, paladin 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

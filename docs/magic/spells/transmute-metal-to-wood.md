@@ -1,7 +1,7 @@
 # Transmute Metal to Wood
 
 **School** transmutation; **Level** druid 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** all metal objects within a 40-ft.-radius burst  

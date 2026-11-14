@@ -1,7 +1,7 @@
 # Charitable Impulse
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (a miniature collection plate)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one humanoid creature  

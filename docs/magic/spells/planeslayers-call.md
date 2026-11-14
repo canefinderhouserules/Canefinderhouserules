@@ -1,7 +1,7 @@
 # Planeslayer’s Call
 
 **School** enchantment (compulsion) [see text]; **Level** cleric 5, inquisitor 4, occultist 4, paladin 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** 20 ft.  
 **Targets** allies within a 40-ft.-radius burst centered on you  

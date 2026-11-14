@@ -1,7 +1,7 @@
 # Endothermic Touch
 
 **School** transmutation; **Level** druid 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a small bit of snakeskin)  
 **Range** touch  
 **Target** one living creature that has the dragon type or the reptilian subtype  

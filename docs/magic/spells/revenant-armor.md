@@ -1,7 +1,7 @@
 # Revenant Armor
 
 **School** transmutation; **Level** antipaladin 3, cleric 4, magus 4, medium 4, occultist 4, paladin 3, shaman 3, sorcerer/wizard 4, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (one suit of armor)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one suit of armor  

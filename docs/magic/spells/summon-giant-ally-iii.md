@@ -1,7 +1,7 @@
 # Summon Giant Ally III
 
 **School** conjuration (summoning) [see text]; **Level** druid 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F/DF (bit of cloth from a giant’s bag)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one or more giants  

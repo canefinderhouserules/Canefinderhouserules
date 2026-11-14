@@ -1,7 +1,7 @@
 # Tactical Adaptation
 
 **School** transmutation; **Level** magus 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a gold and sapphire ring worth 500 gp, which the caster must wear for the spell’s duration)  
 **Range** personal  
 **Target** you  

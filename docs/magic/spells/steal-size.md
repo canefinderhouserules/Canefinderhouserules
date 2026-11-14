@@ -1,7 +1,7 @@
 # Steal Size
 
 **School** transmutation; **Level** bloodrager 2, druid 3, magus 3, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of iron shaped like a scale tray)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one humanoid creature larger than you  

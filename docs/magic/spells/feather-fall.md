@@ -1,7 +1,7 @@
 # Feather Fall
 
 **School** transmutation; **Level** bard 1, bloodrager 1, magus 1, occultist 1, psychic 1, sorcerer/wizard 1, spiritualist 1, summoner 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one Medium or smaller freefalling object or creature/ level, no two of which may be more than 20 ft. apart  

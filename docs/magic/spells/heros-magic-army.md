@@ -1,7 +1,7 @@
 # Hero's Magic Army
 
 **School** transmutation; **Level** shaman 8, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** weapons carried by allies  

@@ -1,7 +1,7 @@
 # Suppressing Stone
 
 **School** evocation; **Level** sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (one *ioun stone* worth at least 1,000 gp)  
 **Range** personal  
 **Target** you  

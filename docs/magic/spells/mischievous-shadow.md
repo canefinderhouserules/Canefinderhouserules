@@ -1,7 +1,7 @@
 # Mischievous Shadow
 
 **School** necromancy (haunted) [emotion, fear, mind-affecting]; **Level** bard 4, magus 4, medium 3, shaman 4, sorcerer/wizard 4, spiritualist 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a black candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one 5-ft. cube/level (S)  

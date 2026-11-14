@@ -1,7 +1,7 @@
 # Storm of Blades
 
 **School** conjuration (creation); **Level** cleric 3, magus 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a sword)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

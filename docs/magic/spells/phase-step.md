@@ -1,7 +1,7 @@
 # Phase Step
 
 **School** conjuration (teleportation); **Level** alchemist 3, bard 3, magus 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one willing creature touched  

@@ -1,7 +1,7 @@
 # Pied Piping
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V or F (musical instrument)  
 **Range** 90 ft.  
 **Area** 90-ft.-radius emanation, centered on you  

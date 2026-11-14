@@ -1,7 +1,7 @@
 # Sonic Form
 
 **School** transmutation (polymorph) [sonic]; **Level** alchemist 6, bard 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a pinch of dust gathered from a gravestone or a sacred shrine)  
 **Range** personal  
 **Target** you  

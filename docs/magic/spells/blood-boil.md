@@ -1,7 +1,7 @@
 # Blood Boil
 
 **School** necromancy; **Level** magus 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a drop of mercury)  
 **Range** touch  
 **Target** one living creature  

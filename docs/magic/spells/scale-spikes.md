@@ -1,7 +1,7 @@
 # Scale Spikes
 
 **School** transmutation; **Level** alchemist 2, bloodrager 2, druid 2, ranger 2, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a small thorn)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature/level that is a reptile, has the dragon type, or has the reptilian subtype, and that also has a natural armor bonus of at least +1  

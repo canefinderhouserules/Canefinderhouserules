@@ -1,7 +1,7 @@
 # Cave Fangs
 
 **School** conjuration (creation) [earth]; **Level** druid 5, shaman 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a sharp gemstone fragment worth 150 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** one 5-ft. square/level (S); the area must be a stone surface  

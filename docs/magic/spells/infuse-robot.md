@@ -1,7 +1,7 @@
 # Infuse Robot
 
 **School** transmutation; **Level** cleric 7, druid 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one robot  

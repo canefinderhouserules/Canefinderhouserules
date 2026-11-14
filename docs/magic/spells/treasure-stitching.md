@@ -1,7 +1,7 @@
 # Treasure Stitching
 
 **School** transmutation; **Level** bard 4, cleric 5, occultist 4, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a piece of embroidered cloth no larger than 10-ft. square worth 100 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** all objects on cloth  

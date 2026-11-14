@@ -1,7 +1,7 @@
 # Maddening Oubliette
 
 **School** conjuration (teleportation); **Level** cleric 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (the powdered bones of a creature that died in prison)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

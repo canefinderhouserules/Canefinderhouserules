@@ -1,7 +1,7 @@
 # Anywhere But Here
 
 **School** conjuration (teleportation); **Level** magus 4, psychic 4, sorcerer/wizard 4, summoner 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** touch  
 **Target** you and up to four willing creatures, none of whom can be on their home plane  

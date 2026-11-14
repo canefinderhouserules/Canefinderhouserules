@@ -1,7 +1,7 @@
 # Selective Invisibility
 
 **School** illusion (glamer); **Level** alchemist 3, antipaladin 3, bard 3, inquisitor 3, magus 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (three translucent pebbles)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** you and one other creature  

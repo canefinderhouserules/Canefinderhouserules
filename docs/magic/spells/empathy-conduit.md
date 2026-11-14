@@ -1,7 +1,7 @@
 # Empathy Conduit
 
 **School** necromancy; **Level** shaman 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a glass rod)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** an animal companion, familiar, or other bonded creature and its master (which may be no more than 30 ft. apart)  

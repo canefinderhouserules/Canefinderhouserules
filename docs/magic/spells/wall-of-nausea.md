@@ -1,7 +1,7 @@
 # Wall of Nausea
 
 **School** illusion (pattern) [mind-affecting]; **Level** bard 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** transparent wall whose area is up to one 10-ft. square/level  

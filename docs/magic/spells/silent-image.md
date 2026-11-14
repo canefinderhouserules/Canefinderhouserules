@@ -1,7 +1,7 @@
 # Silent Image
 
 **School** illusion (figment); **Level** bard 1, magus 1, medium 1, mesmerist 1, occultist 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a bit of fleece)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** visual figment that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)  

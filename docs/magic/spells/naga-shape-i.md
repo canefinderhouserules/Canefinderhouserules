@@ -1,7 +1,7 @@
 # Naga Shape I
 
 **School** transmutation (polymorph); **Level** alchemist 4, bloodrager 4, magus 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of the creature whose form you want to assume)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Probe History
 
 **School** divination; **Level** bard 3, cleric 4, inquisitor 4, sorcerer/wizard 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature  

@@ -1,7 +1,7 @@
 # Contact High
 
 **School** transmutation; **Level** alchemist 2, bard 2, cleric 3, mesmerist 3, shaman 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creatures touched (up to one per level)  

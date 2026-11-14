@@ -1,7 +1,7 @@
 # Cure Critical Wounds, Mass
 
 **School** conjuration (healing); **Level** cleric 8, druid 9, shaman 8, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

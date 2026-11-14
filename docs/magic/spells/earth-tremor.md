@@ -1,7 +1,7 @@
 # Earth Tremor
 
 **School** transmutation [earth]; **Level** bloodrager 3, druid 3, magus 3, shaman 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** up to 30 ft. (see text)  
 **Area** 30-ft. line, 20-ft. cone-shaped spread, or 10-ft.-radius spread (see text)  

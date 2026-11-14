@@ -1,7 +1,7 @@
 # Shield of Dawn, Greater
 
 **School** evocation [fire, good, light]; **Level** bard 6, cleric 6, magus 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

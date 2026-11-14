@@ -1,7 +1,7 @@
 # Poisoned Egg
 
 **School** transmutation [poison]; **Level** bard 1, cleric 1, inquisitor 1, magus 1, shaman 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** one egg  

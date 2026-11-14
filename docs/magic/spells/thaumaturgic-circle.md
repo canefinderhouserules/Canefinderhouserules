@@ -1,7 +1,7 @@
 # Thaumaturgic Circle
 
 **School** abjuration; **Level** cleric 4, inquisitor 4, medium 3, occultist 3, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a 3-ft.-diameter circle of powdered silver), DF  
 **Range** touch  
 **Area** 10-ft.-radius emanation from touched creature  

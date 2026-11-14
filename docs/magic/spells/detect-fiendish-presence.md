@@ -1,7 +1,7 @@
 # Detect Fiendish Presence
 
 **School** divination; **Level** bard 0, cleric 0, magus 0, sorcerer/wizard 0, witch 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

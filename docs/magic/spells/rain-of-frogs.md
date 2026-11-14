@@ -1,7 +1,7 @@
 # Rain of Frogs
 
 **School** conjuration (summoning); **Level** bard 3, druid 3, psychic 3, shaman 4, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M/DF (a square of red cloth)  
 **Effect** one swarm of poisonous frogs  
 **Duration** concentration + 2 rounds  

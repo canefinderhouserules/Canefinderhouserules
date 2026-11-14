@@ -1,7 +1,7 @@
 # Open and Shut
 
 **School** illusion (glamer); **Level** bard 1, inquisitor 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, F (a doornail, doorknob, or hinge)  
 **Range** touch  
 **Target** one door, window, or similar portal no more than 10 feet by 10 feet in area  

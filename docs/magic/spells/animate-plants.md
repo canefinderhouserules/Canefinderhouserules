@@ -1,7 +1,7 @@
 # Animate Plants
 
 **School** transmutation; **Level** druid 7, shaman 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one Large plant per three caster levels or all plants within range; see text  

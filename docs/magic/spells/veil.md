@@ -1,7 +1,7 @@
 # Veil
 
 **School** illusion (glamer); **Level** bard 6, mesmerist 6, psychic 6, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Targets** one or more creatures, no two of which can be more than 30 ft. apart  

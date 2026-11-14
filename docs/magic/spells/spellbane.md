@@ -1,7 +1,7 @@
 # Spellbane
 
 **School** abjuration; **Level** sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (cold iron scepter worth at least 1,000 gp)  
 **Range** 10 ft.  
 **Area** 10-ft.-radius emanation, centered on you  

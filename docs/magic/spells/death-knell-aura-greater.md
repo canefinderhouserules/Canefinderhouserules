@@ -1,7 +1,7 @@
 # Death Knell Aura, Greater
 
 **School** necromancy [death, evil]; **Level** cleric 6, inquisitor 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Area** 20-ft.-radius emanation, centered on you  

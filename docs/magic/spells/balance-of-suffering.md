@@ -1,7 +1,7 @@
 # Balance of Suffering
 
 **School** conjuration (healing) [death]; **Level** cleric 6, inquisitor 6, occultist 6, shaman 6, spiritualist 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one living creature and another single living or undead creature  

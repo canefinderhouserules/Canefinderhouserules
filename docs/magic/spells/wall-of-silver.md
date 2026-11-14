@@ -1,7 +1,7 @@
 # Wall of Silver
 
 **School** abjuration [good]; **Level** bard 5, cleric 6, inquisitor 5, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** transparent wall 20 ft. high by up to 20 ft. long/level  

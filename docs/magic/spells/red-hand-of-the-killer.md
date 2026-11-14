@@ -1,7 +1,7 @@
 # Red Hand of the Killer
 
 **School** necromancy; **Level** bard 4, cleric 4, inquisitor 4, medium 3, occultist 4, paladin 4, psychic 5, sorcerer/wizard 5, spiritualist 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a black candle), F (a corpse slain no more than 1 day ago per caster level)  
 **Range** see text  
 **Target** one creature  

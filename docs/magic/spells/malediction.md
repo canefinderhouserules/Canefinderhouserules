@@ -1,7 +1,7 @@
 # Malediction
 
 **School** necromancy [death, evil]; **Level** antipaladin 4, cleric 4, shaman 4, sorcerer/wizard 3, spiritualist 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (onyx dust worth 500 gp)  
 **Range** touch  
 **Target** living creature touched  

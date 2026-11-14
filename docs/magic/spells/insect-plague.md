@@ -1,7 +1,7 @@
 # Insect Plague
 
 **School** conjuration (summoning); **Level** cleric 5, druid 5, shaman 5, summoner 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** one swarm of wasps per three levels, each of which must be adjacent to at least one other swarm  

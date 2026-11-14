@@ -1,7 +1,7 @@
 # Sickening Entanglement
 
 **School** transmutation [poison]; **Level** druid 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** plants in a 40-ft.-radius spread  

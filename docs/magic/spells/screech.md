@@ -1,7 +1,7 @@
 # Screech
 
 **School** evocation [sonic]; **Level** witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** 30 ft.  
 **Area** 30-ft.-radius spread centered on you  

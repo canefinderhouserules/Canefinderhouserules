@@ -1,7 +1,7 @@
 # Repair Undead, Mass
 
 **School** necromancy; **Level** sorcerer/wizard 5, spiritualist 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one undead creature /level, no two of which can be more than 30 ft. apart  

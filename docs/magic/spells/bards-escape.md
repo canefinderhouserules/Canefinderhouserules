@@ -1,7 +1,7 @@
 # Bard’s Escape
 
 **School** conjuration (teleportation); **Level** bard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (pieces of a smashed fiddle)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** you and up to 1 willing creature/2 caster levels, no two of which can be more than 30 ft. apart  

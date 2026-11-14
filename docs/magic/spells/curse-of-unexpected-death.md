@@ -1,7 +1,7 @@
 # Curse of Unexpected Death
 
 **School** necromancy [curse, death]; **Level** cleric 4, shaman 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

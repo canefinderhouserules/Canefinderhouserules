@@ -1,7 +1,7 @@
 # Suffocation, Mass
 
 **School** necromancy; **Level** psychic 9, sorcerer/wizard 9, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a vial containing a bit of the caster’s breath)  
 **Target** one living creature/2 levels (no two of which may be more than 30 feet apart)  
 **Duration** 1 round/level  

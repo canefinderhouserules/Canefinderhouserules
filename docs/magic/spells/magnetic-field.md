@@ -1,7 +1,7 @@
 # Magnetic Field
 
 **School** abjuration; **Level** alchemist 6, cleric 7, magus 6, sorcerer/wizard 7, summoner 6, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** 30-ft.-radius emanation  

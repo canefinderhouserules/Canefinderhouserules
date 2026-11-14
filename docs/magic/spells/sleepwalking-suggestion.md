@@ -1,7 +1,7 @@
 # Sleepwalking Suggestion
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, medium 3, mesmerist 4, psychic 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (two doses of oil of taggit worth 180 gp total)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

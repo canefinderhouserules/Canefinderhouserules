@@ -1,7 +1,7 @@
 # Wall of Brine
 
 **School** conjuration (creation) [water]; **Level** druid 4, magus 4, ranger 3, shaman 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a bit of coral)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** wall up to 10 ft./level long and 5 ft./level high (S)  

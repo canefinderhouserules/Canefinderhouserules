@@ -1,7 +1,7 @@
 # Concealed Breath
 
 **School** transmutation; **Level** alchemist 4, cleric 4, druid 4, shaman 4, sorcerer/wizard 4, summoner 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M/DF (a palm-sized stone)  
 **Range** touch  
 **Target** living creature touched  

@@ -1,7 +1,7 @@
 # Summon Elder Worm
 
 **School** conjuration (summoning); **Level** druid 9  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one summoned creature  

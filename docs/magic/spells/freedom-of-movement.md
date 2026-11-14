@@ -1,7 +1,7 @@
 # Freedom of Movement
 
 **School** abjuration; **Level** alchemist 4, bard 4, cleric 4, druid 4, inquisitor 4, medium 4, mesmerist 4, occultist 4, psychic 4, ranger 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a leather strip bound to the target), DF  
 **Range** personal or touch  
 **Target** you or creature touched  

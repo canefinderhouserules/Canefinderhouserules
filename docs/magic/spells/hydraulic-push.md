@@ -1,7 +1,7 @@
 # Hydraulic Push
 
 **School** evocation [water]; **Level** bloodrager 1, druid 1, magus 1, shaman 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or object  

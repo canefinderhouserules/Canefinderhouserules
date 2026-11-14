@@ -1,7 +1,7 @@
 # Green Caress
 
 **School** transmutation; **Level** druid 6, ranger 4, shaman 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (pinch of moss or a kudzu leaf)  
 **Range** touch  
 **Target** one living creature  

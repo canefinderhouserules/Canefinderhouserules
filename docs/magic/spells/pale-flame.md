@@ -1,7 +1,7 @@
 # Pale Flame
 
 **School** evocation [fire]; **Level** druid 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (caphorite shard)  
 **Range** 0 ft.  
 **Effect** flame in your palm  

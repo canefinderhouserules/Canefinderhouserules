@@ -1,7 +1,7 @@
 # Sympathetic Wounds
 
 **School** abjuration [evil]; **Level** cleric 2, druid 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (250 gp of powdered amber)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Erase Impressions
 
 **School** abjuration; **Level** medium 3, mesmerist 4, occultist 3, psychic 5, spiritualist 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** object touched  

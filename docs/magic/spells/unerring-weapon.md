@@ -1,7 +1,7 @@
 # Unerring Weapon
 
 **School** transmutation; **Level** bloodrager 1, inquisitor 1, magus 1, medium 1, occultist 2, psychic 1, sorcerer/ wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one weapon or 20 projectiles, all of which must be together at the time of casting  

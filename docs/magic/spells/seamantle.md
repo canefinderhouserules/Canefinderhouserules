@@ -1,7 +1,7 @@
 # Seamantle
 
 **School** conjuration (creation) [water]; **Level** druid 8, sorcerer/ wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a cup of water)  
 **Range** personal  
 **Target** you  

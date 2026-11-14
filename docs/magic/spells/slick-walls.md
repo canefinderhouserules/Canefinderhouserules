@@ -1,7 +1,7 @@
 # Slick Walls
 
 **School** conjuration (creation); **Level** bard 2, magus 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (drop of oil)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 30-ft.-radius emanation centered on a point in space  

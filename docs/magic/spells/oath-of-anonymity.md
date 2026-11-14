@@ -1,7 +1,7 @@
 # Oath of Anonymity
 
 **School** illusion (glamer); **Level** bard 0, inquisitor 0, medium 0, paladin 0, sorcerer/wizard 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

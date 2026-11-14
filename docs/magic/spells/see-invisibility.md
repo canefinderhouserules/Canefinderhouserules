@@ -1,7 +1,7 @@
 # See Invisibility
 
 **School** divination; **Level** alchemist 2, bard 3, bloodrager 2, inquisitor 2, mesmerist 3, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (talc and powdered silver)  
 **Range** personal  
 **Target** you  

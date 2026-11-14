@@ -1,7 +1,7 @@
 # Murderous Crow
 
 **School** conjuration (summoning) [see text]; **Level** antipaladin 1, cleric 1, paladin 1, sorcerer/wizard 1, summoner 1, witch 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a crow’s feather)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Effect** one crow  

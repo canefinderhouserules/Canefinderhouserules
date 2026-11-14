@@ -1,7 +1,7 @@
 # Rags to Riches
 
 **School** transmutation; **Level** alchemist 3, bard 3, cleric 4, medium 3, occultist 3, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a bit of burlap wrapped over a copper coin)  
 **Range** touch  
 **Target** 1 weapon, suit of armor, shield, tool, or skill kit touched/5 levels  

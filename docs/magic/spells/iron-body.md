@@ -1,7 +1,7 @@
 # Iron Body
 
 **School** transmutation; **Level** psychic 8, sorcerer/wizard 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a piece of iron from an iron golem, a hero’s armor, or a war machine)  
 **Range** personal  
 **Target** you  

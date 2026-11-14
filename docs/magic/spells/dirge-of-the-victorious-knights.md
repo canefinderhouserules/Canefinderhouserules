@@ -1,7 +1,7 @@
 # Dirge of the Victorious Knights
 
 **School** illusion (shadow); **Level** bard 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a medal from a dead hell knight or a copy of an opera script, either worth at least 100 gp)  
 **Range** 120 ft.  
 **Effect** 120-ft. line, 10 ft. wide  

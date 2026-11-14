@@ -1,7 +1,7 @@
 # Defensive Shock
 
 **School** evocation [electricity]; **Level** alchemist 2, bloodrager 2, magus 2, occultist 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a hollow metal sphere)  
 **Range** personal  
 **Target** you  

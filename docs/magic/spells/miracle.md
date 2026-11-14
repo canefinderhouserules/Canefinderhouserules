@@ -1,7 +1,7 @@
 # Miracle
 
 **School** evocation; **Level** cleric 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S; see text  
 **Range** see text  
 **Duration** see text  

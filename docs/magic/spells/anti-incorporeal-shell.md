@@ -1,7 +1,7 @@
 # Anti-Incorporeal Shell
 
 **School** abjuration; **Level** cleric 4, psychic 4, shaman 4, spiritualist 4, witch 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** 10 ft.  
 **Area** 10-ft.-radius emanation centered on you  

@@ -1,7 +1,7 @@
 # Reaper's Coterie
 
 **School** necromancy [evil]; **Level** antipaladin 2, bloodrager 2, cleric 3, inquisitor 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** weapon touched  

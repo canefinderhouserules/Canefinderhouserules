@@ -1,7 +1,7 @@
 # Lend Judgment
 
 **School** divination; **Level** inquisitor 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, DF  
 **Range** touch  
 **Target** one ally  

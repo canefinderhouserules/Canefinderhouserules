@@ -1,7 +1,7 @@
 # True Skill
 
 **School** divination; **Level** alchemist 1, bard 1, magus 1, medium 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, V  
 **Range** personal  
 **Target** you  

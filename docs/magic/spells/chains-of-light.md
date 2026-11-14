@@ -1,7 +1,7 @@
 # Chains of Light
 
 **School** conjuration (creation) [good]; **Level** cleric 6, inquisitor 5, paladin 4, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a length of fine golden chain)  
 **Range** short (25 ft. + 5 ft./level)  
 **Target** one creature  

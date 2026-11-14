@@ -1,7 +1,7 @@
 # Possess Object
 
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a gem or crystal worth at least 100 gp)  
 **Target** one object; see text  
 **Duration** 1 hour/level or until you return to your body  

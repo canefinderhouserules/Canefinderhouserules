@@ -1,7 +1,7 @@
 # Teratoid Caress
 
 **School** conjuration (calling) [chaotic, curse, evil]; **Level** cleric 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** 1 living non-evil creature  

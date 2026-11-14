@@ -1,7 +1,7 @@
 # Mindwipe
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** medium 4, mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

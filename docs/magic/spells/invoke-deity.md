@@ -1,7 +1,7 @@
 # Invoke Deity
 
 **School** transmutation [see text]; **Level** antipaladin 4, cleric 6, inquisitor 6, medium 4, occultist 6, paladin 4, ranger 4, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (incense worth 1,000 gp), F (a bejeweled holy symbol of your patron deity worth 2,500 gp)  
 **Range** personal  
 **Target** you  

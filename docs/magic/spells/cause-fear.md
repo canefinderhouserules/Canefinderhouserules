@@ -1,7 +1,7 @@
 # Cause Fear
 
 **School** necromancy [fear, mind-affecting]; **Level** antipaladin 1, bard 1, bloodrager 1, cleric 1, inquisitor 1, medium 1, mesmerist 1, occultist 1, psychic 1, shaman 1, sorcerer/wizard 1, spiritualist 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature with 5 or fewer HD  

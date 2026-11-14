@@ -1,7 +1,7 @@
 # Baleful Polymorph
 
 **School** transmutation (polymorph); **Level** druid 5, magus 5, shaman 5, sorcerer/wizard 5, summoner 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

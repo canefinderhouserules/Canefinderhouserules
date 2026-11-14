@@ -1,7 +1,7 @@
 # Vacuous Vessel
 
 **School** illusion (glamer); **Level** bard 0, sorcerer/wizard 0  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** touch  
 **Target** container touched  

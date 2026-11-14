@@ -1,7 +1,7 @@
 # Touch of Bloodletting
 
 **School** necromancy; **Level** antipaladin 2, bloodrager 1, cleric 1, druid 1, shaman 2, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

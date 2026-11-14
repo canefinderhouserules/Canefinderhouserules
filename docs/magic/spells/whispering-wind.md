@@ -1,7 +1,7 @@
 # Whispering Wind
 
 **School** transmutation [air]; **Level** bard 2, inquisitor 2, medium 2, mesmerist 2, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 1 mile/level  
 **Area** 10-ft.-radius spread  

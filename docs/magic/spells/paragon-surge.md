@@ -1,7 +1,7 @@
 # Paragon Surge
 
 **School** transmutation (polymorph); **Level** alchemist 3, bloodrager 3, cleric 3, magus 4, medium 3, paladin 4, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal (half-elf only)  
 **Duration** 1 minute/level

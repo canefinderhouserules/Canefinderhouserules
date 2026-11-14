@@ -1,7 +1,7 @@
 # Sure Casting
 
 **School** divination; **Level** bard 1, cleric 1, inquisitor 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, F (a square of cloth and a needle)  
 **Range** personal  
 **Target** you  

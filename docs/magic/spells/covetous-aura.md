@@ -1,7 +1,7 @@
 # Covetous Aura
 
 **School** abjuration; **Level** arcanist 5, sorcerer/wizard 5, witch 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** personal  
 **Area** 25-ft.-radius emanation centered on you  

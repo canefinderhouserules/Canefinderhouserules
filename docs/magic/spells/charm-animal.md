@@ -1,7 +1,7 @@
 # Charm Animal
 
 **School** enchantment (charm) [mind-affecting]; **Level** druid 1, psychic 1, ranger 1, shaman 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Target** one animal  
 **Duration** 1 hour/level  

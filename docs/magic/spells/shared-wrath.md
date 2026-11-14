@@ -1,7 +1,7 @@
 # Shared Wrath
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a thorny vine)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** up to one creature/level, no two of which can be more than 30 ft. apart  

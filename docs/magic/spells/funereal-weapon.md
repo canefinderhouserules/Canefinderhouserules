@@ -1,7 +1,7 @@
 # Funereal Weapon
 
 **School** transmutation; **Level** cleric 1, inquisitor 1, occultist 1, paladin 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** weapon touched or 50 projectiles (all of which must be together at the time of casting)  

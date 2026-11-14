@@ -1,7 +1,7 @@
 # Vengeful Outrage
 
 **School** enchantment (compulsion) [emotion, language-dependent, mind-affecting]; **Level** bard 5, mesmerist 5, psychic 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

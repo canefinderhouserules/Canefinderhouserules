@@ -1,7 +1,7 @@
 # Brand of Conformity
 
 **School** transmutation [curse]; **Level** inquisitor 1  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

@@ -1,7 +1,7 @@
 # Share Skin
 
 **School** necromancy; **Level** druid 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one animal touched  

@@ -1,7 +1,7 @@
 # Shadow Transmutation, Greater
 
 **School** illusion (shadow) [shadow]; **Level** shaman 9, sorcerer/wizard 9, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** see text  
 **Target** see text  

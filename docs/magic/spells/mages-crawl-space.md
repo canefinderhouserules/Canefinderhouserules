@@ -1,7 +1,7 @@
 # Mage's Crawl Space
 
 **School** transmutation; **Level** bard 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of clay)  
 **Range** personal  
 **Effect** 5-foot sphere centered on yourself  

@@ -1,7 +1,7 @@
 # Air Bubble
 
 **School** conjuration (creation); **Level** cleric 1, druid 1, psychic 1, ranger 1, sorcerer/wizard 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M/DF (a small bladder filled with air)  
 **Range** touch  
 **Target** one creature or one object no larger than a Large two-handed weapon  

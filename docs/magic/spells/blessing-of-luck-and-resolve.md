@@ -1,7 +1,7 @@
 # Blessing of Luck and Resolve
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, inquisitor 2, paladin 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** one living creature touched  

@@ -1,7 +1,7 @@
 # Create Mindscape, Greater
 
 **School** illusion (phantasm) [mind-affecting]; **Level** mesmerist 6, psychic 6, sorcerer/wizard 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Target** one creature/level  
 **Duration** 1 day/level  

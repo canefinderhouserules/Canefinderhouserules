@@ -1,7 +1,7 @@
 # Dance of a Hundred Cuts
 
 **School** transmutation; **Level** bard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

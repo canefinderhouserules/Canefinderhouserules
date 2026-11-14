@@ -1,7 +1,7 @@
 # Piercing Shriek
 
 **School** evocation [pain, sonic]; **Level** bard 2, psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V  
 **Range** medium (100 ft. + 10ft./level)  
 **Target** one creature  

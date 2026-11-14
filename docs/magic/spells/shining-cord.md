@@ -1,7 +1,7 @@
 # Shining Cord
 
 **School** evocation [force]; **Level** magus 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a small length of fine silver chain worth 100 gp)  
 **Range** 30 ft.  
 **Target** 1 creature  

@@ -1,7 +1,7 @@
 # Flesh to Stone
 
 **School** transmutation; **Level** magus 6, shaman 6, sorcerer/wizard 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (lime, water, and earth)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature  

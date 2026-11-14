@@ -1,7 +1,7 @@
 # Stone Shield
 
 **School** conjuration (creation) [earth]; **Level** bloodrager 1, cleric 1, druid 1, magus 2, shaman 1, sorcerer/wizard 1, summoner 1  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, DF  
 **Range** 0 ft.  
 **Effect** stone wall whose area is one 5-ft. square  

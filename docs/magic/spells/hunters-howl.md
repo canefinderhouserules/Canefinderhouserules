@@ -1,7 +1,7 @@
 # Hunter’s Howl
 
 **School** necromancy [fear, mind-affecting]; **Level** ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 20 ft.  
 **Area** 20-ft.-radius burst  

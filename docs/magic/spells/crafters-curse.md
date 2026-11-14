@@ -1,7 +1,7 @@
 # Crafter’s Curse
 
 **School** transmutation; **Level** occultist 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a broken tool)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

@@ -1,7 +1,7 @@
 # Artificer's Curse
 
 **School** transmutation; **Level** bard 6, cleric 7, inquisitor 6, occultist 6, shaman 7, sorcerer/wizard 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a blank scroll or page from a spellbook)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** 1 magical item  

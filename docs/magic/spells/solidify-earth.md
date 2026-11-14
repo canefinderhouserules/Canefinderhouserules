@@ -1,7 +1,7 @@
 # Solidify Earth
 
 **School** transmutation [earth]; **Level** cleric 2, druid 2, shaman 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Area** up to two 10-foot cubes per level (S)  

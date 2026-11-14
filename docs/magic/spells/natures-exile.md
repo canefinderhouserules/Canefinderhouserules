@@ -1,7 +1,7 @@
 # Nature’s Exile
 
 **School** transmutation; **Level** druid 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** creature touched  

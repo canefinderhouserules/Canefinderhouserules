@@ -1,7 +1,7 @@
 # Limited Wish
 
 **School** universal; **Level** psychic 7, sorcerer/wizard 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (diamond worth 1,500 gp)  
 **Range** see text  
 **Duration** see text  

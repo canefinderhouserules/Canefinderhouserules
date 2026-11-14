@@ -1,7 +1,7 @@
 # Frigid Touch
 
 **School** evocation [cold]; **Level** bloodrager 2, druid 2, magus 2, sorcerer/ wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** creature touched  

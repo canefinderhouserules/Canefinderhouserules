@@ -1,7 +1,7 @@
 # Twisted Space
 
 **School** transmutation; **Level** magus 2, psychic 2, sorcerer/wizard 2, summoner 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a length of wire bent into a circle)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

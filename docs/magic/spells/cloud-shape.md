@@ -1,7 +1,7 @@
 # Cloud Shape
 
 **School** transmutation [air]; **Level** druid 4, ranger 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M/DF (a bit of gauze and a wisp of smoke)  
 **Range** personal  
 **Target** you  

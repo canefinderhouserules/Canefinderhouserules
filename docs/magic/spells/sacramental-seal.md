@@ -1,7 +1,7 @@
 # Sacramental Seal
 
 **School** necromancy; **Level** cleric 8  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (an object worth at least 2,000 gp)  
 **Range** touch  
 **Target** creature touched  

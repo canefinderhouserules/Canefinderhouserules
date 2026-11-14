@@ -1,7 +1,7 @@
 # Tireless Pursuers
 
 **School** transmutation; **Level** inquisitor 4, ranger 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a hard biscuit broken into pieces)  
 **Range** touch  
 **Target** you plus one touched creature/3 levels  

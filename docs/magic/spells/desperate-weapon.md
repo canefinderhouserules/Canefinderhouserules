@@ -1,7 +1,7 @@
 # Desperate Weapon
 
 **School** conjuration (creation); **Level** antipaladin 1, bard 1, bloodrager 1, cleric 1, inquisitor 1, magus 1, occultist 1, ranger 1, sorcerer/wizard 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Effect** one-handed improvised weapon  

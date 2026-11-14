@@ -1,7 +1,7 @@
 # Slough
 
 **School** transmutation [evil]; **Level** cleric 5, occultist 4, psychic 5, sorcerer/wizard 5, spiritualist 4, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a pinch of dried skin flakes)  
 **Range** medium (100 ft. + 10 ft./levels)  
 **Target** one living creature  

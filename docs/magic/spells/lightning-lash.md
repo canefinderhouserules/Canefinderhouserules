@@ -1,7 +1,7 @@
 # Lightning Lash
 
 **School** evocation [electricity]; **Level** cleric 3, inquisitor 3, ranger 2, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Area** 20-foot-radius spread  

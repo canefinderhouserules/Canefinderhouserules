@@ -1,7 +1,7 @@
 # Fair Is Foul
 
 **School** transmutation [curse]; **Level** antipaladin 2, cleric 3, shaman 3, sorcerer/wizard 4, spiritualist 3, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a newt eye)  
 **Range** touch  
 **Target** creature touched  

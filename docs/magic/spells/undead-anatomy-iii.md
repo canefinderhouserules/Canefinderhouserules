@@ -1,7 +1,7 @@
 # Undead Anatomy III
 
 **School** transmutation (polymorph); **Level** alchemist 6, magus 6, sorcerer/wizard 6, spiritualist 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Recharge
 
 **School** evocation; **Level** bard 2, cleric 3, magus 3, sorcerer/wizard 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (500 gp of diamond dust)  
 **Range** touch  
 **Target** object touched  

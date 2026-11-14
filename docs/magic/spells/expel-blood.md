@@ -1,7 +1,7 @@
 # Expel Blood
 
 **School** conjuration [evil, water]; **Level** sorcerer/wizard 7, summoner 6, witch 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a drop of blood from each of three different creatures)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one Small or larger living creature  

@@ -1,7 +1,7 @@
 # Rotting Alliance
 
 **School** necromancy [curse, disease]; **Level** cleric 8, druid 8, inquisitor 6, occultist 6, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature/level, no two of which can be more than 60 feet apart  

@@ -1,7 +1,7 @@
 # Placebo Effect
 
 **School** illusion (phantasm) [mind-affecting]; **Level** medium 2, mesmerist 2, psychic 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a sugar cube)  
 **Range** touch  
 **Target** creature touched  

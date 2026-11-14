@@ -1,7 +1,7 @@
 # Burn Corruption
 
 **School** evocation [fire, good]; **Level** bloodrager 4, magus 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 10-ft. cube/level (S)  

@@ -1,7 +1,7 @@
 # Claim Identity
 
 **School** transmutation (polymorph); **Level** alchemist 3, antipaladin 3, bard 3, druid 4, inquisitor 3, shaman 4, sorcerer/wizard 4, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a needle and thread)  
 **Range** touch  
 **Target** humanoid creature touched  

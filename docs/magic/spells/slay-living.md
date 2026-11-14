@@ -1,7 +1,7 @@
 # Slay Living
 
 **School** necromancy [death]; **Level** antipaladin 4, cleric 5, shaman 6, spiritualist 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** living creature touched  

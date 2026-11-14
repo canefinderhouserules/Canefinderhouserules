@@ -1,7 +1,7 @@
 # Sleepwalk
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4, mesmerist 4, psychic 4, witch 4  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a sprig of belladonna worth 100 gp)  
 **Range** touch  
 **Target** unconscious creature touched  

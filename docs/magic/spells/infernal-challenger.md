@@ -1,7 +1,7 @@
 # Infernal Challenger
 
 **School** conjuration (calling) [lawful]; **Level** cleric 3, sorcerer/wizard 3, summoner 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F/DF (an iron badge or medallion)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one called bearded devil and testing ground; see text  

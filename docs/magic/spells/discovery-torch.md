@@ -1,7 +1,7 @@
 # Discovery Torch
 
 **School** evocation [light]; **Level** bard 2, cleric 3, inquisitor 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** object touched  

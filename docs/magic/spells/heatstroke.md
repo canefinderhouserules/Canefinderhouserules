@@ -1,7 +1,7 @@
 # Heatstroke
 
 **School** evocation [fire]; **Level** druid 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of sweat)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** ray  

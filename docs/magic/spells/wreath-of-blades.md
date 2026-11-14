@@ -1,7 +1,7 @@
 # Wreath of Blades
 
 **School** abjuration; **Level** bloodrager 4, magus 4, occultist 4, psychic 5, sorcerer/wizard 5, summoner 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (four mithral daggers, each worth at least 502 gp)  
 **Range** personal  
 **Target** you  

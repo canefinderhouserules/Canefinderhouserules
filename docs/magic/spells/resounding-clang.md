@@ -1,7 +1,7 @@
 # Resounding Clang
 
 **School** transmutation; **Level** bard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, F (bell, chimes, gong, or cymbals)  
 **Range** 30 ft.  
 **Area** 30-ft.-radius burst, centered on you  

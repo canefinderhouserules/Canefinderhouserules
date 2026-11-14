@@ -1,7 +1,7 @@
 # Collaborative Thaumaturgy
 
 **School** universal; **Level** bard 3, cleric 3, druid 3, magus 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, F (a bronze tuning fork)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

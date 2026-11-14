@@ -1,7 +1,7 @@
 # Epidemic
 
 **School** necromancy [disease, evil]; **Level** cleric 6, druid 6, sorcerer/wizard 7, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** living creature  

@@ -1,7 +1,7 @@
 # Ironbloom Sprouts
 
 **School** transmutation; **Level** cleric 1, druid 1, hunter 1, oracle 1, warpriest 1 (god of the forge)  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF, M (1 gp worth of powdered iron)  
 **Range** touch  
 **Target** 2d4 fresh mushrooms touched  

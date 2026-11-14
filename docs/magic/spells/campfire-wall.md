@@ -1,7 +1,7 @@
 # Campfire Wall
 
 **School** evocation [fire, light]; **Level** bard 3, druid 2, occultist 2, ranger 2, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (ash made from burnt thorns)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 20-ft.-radius sphere centered on fire source  

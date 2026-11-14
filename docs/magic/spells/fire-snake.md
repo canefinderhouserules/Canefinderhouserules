@@ -1,7 +1,7 @@
 # Fire Snake
 
 **School** evocation [fire]; **Level** druid 5, magus 5, occultist 5, sorcerer/wizard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a snake scale)  
 **Range** 60 ft.  
 **Area** see text  

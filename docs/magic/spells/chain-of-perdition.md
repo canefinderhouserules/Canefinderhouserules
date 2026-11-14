@@ -1,7 +1,7 @@
 # Chain of Perdition
 
 **School** evocation [force]; **Level** bloodrager 3, cleric 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (chain link)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** 10-ft. chain  

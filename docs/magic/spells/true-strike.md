@@ -1,7 +1,7 @@
 # True Strike
 
 **School** divination; **Level** alchemist 1, bloodrager 1, inquisitor 1, magus 1, medium 1, psychic 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, F (small wooden replica of an archery target)  
 **Range** personal  
 **Target** you  

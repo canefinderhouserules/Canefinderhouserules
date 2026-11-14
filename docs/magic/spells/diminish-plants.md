@@ -1,7 +1,7 @@
 # Diminish Plants
 
 **School** transmutation; **Level** druid 3, ranger 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** see text  
 **Target or Area** see text  

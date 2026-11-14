@@ -1,7 +1,7 @@
 # Burning Disarm
 
 **School** transmutation [fire]; **Level** cleric 1, druid 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** held metal item of one creature or 15 lbs. of unattended metal  

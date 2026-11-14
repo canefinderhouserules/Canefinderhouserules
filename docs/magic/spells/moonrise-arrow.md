@@ -1,7 +1,7 @@
 # Moonrise Arrow
 
 **School** evocation [light]; **Level** cleric 3, inquisitor 3, magus 3, occultist 3, paladin 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** up to 50 pieces of ammunition, all of which must be together at the time of casting  

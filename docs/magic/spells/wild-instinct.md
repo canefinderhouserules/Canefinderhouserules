@@ -1,7 +1,7 @@
 # Wild Instinct
 
 **School** divination; **Level** bloodrager 2, druid 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Nondetection
 
 **School** abjuration; **Level** alchemist 3, antipaladin 3, inquisitor 3, medium 2, mesmerist 3, occultist 3, psychic 3, ranger 4, sorcerer/wizard 3, spiritualist 3, summoner 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (diamond dust worth 50 gp)  
 **Range** touch  
 **Target** creature or object touched  

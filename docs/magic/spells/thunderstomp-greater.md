@@ -1,7 +1,7 @@
 # Thunderstomp, Greater
 
 **School** evocation [earth]; **Level** bloodrager 3, druid 3, magus 3, ranger 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 60 ft.  
 **Area** 60-ft. line  

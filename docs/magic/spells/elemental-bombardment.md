@@ -1,7 +1,7 @@
 # Elemental Bombardment
 
 **School** conjuration (summoning) [see text]; **Level** druid 7, sorcerer/wizard 7  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** one or more summoned elementals  

@@ -1,7 +1,7 @@
 # Canopic Conversion
 
 **School** necromancy [death, evil]; **Level** cleric 9, sorcerer/wizard 9  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (four alabaster canopic jars worth 100 gp each), M (black onyx worth 100 gp per hit die of the target)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living humanoid  

@@ -1,7 +1,7 @@
 # Banshee Blast
 
 **School** necromancy [death, fear, mind-affecting, sonic]; **Level** sorcerer/wizard 6, spiritualist 6, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 30 ft.  
 **Area** cone-shaped burst  

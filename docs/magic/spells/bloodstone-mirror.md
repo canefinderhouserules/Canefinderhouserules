@@ -1,7 +1,7 @@
 # Bloodstone Mirror
 
 **School** abjuration; **Level** cleric 7, occultist 5, oracle 7, witch 7  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a red bloodstone worth 500 gp)  
 **Range** personal  
 **Target** you  

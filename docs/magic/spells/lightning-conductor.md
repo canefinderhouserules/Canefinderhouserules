@@ -1,7 +1,7 @@
 # Lightning Conductor
 
 **School** transmutation [air]; **Level** bloodrager 2, druid 3, magus 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a miniature metal rod)  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Sundered Serpent Coil
 
 **School** conjuration (creation); **Level** magus 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a snake scale)  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** one 5-foot square  

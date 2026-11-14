@@ -1,7 +1,7 @@
 # Hideous Laughter
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, medium 2, mesmerist 1, psychic 2, sorcerer/wizard 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (tiny fruit tarts and a feather)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature; see text  

@@ -1,7 +1,7 @@
 # Ash Storm
 
 **School** conjuration (creation) [fire]; **Level** druid 3, sorcerer/ wizard 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (a pinch of ash)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** cylinder (40-ft. radius, 20 ft. high)  

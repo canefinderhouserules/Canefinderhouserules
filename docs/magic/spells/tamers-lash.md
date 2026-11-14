@@ -1,7 +1,7 @@
 # Tamer’s Lash
 
 **School** evocation [sonic]; **Level** bard 1, bloodrager 1, magus 1, ranger 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** 0 ft.  
 **Effect** a whip of magical sound  

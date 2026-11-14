@@ -1,7 +1,7 @@
 # Summon Barghest II
 
 **School** conjuration (summoning) [evil]; **Level** cleric 6  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one summoned greater barghest or 1d3 summoned barghest  

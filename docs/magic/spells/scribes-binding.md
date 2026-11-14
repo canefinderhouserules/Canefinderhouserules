@@ -1,7 +1,7 @@
 # Scribe’s Binding
 
 **School** transmutation (polymorph); **Level** occultist 6, sorcerer/wizard 9, witch 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a book bound in precious metals and treated with rare oils, worth 1,000 gp per HD of the target)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** creature touched  

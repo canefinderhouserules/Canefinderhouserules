@@ -1,7 +1,7 @@
 # Swarm of Fangs
 
 **School** conjuration (summoning); **Level** druid 3, psychic 3, sorcerer/wizard 3, summoner 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a lizard's tooth)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one swarm of animate teeth  

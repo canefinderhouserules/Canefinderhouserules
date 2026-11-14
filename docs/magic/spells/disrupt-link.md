@@ -1,7 +1,7 @@
 # Disrupt Link
 
 **School** abjuration; **Level** antipaladin 2, bard 3, inquisitor 3, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Targets** one creature and her animal companion, familiar, or other bonded creature (which may be no more than 30 ft. apart)  

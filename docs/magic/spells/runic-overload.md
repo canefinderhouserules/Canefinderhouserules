@@ -1,7 +1,7 @@
 # Runic Overload
 
 **School** evocation [sonic]; **Level** bloodrager 3, magus 4, sorcerer/wizard 5, witch 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a small rune carved from stone)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or object  

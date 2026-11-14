@@ -1,7 +1,7 @@
 # Create Mindscape
 
 **School** illusion (phantasm) [mind-affecting]; **Level** medium 4, mesmerist 4, psychic 4, sorcerer/wizard 5  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  
 **Target** one creature  

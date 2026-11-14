@@ -1,7 +1,7 @@
 # Instant Restoration
 
 **School** conjuration (healing); **Level** cleric 4, druid 4, shaman 4, summoner 4, witch 4  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V, S, F/DF (a thimble of water and a seed)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one summoned creature you control  

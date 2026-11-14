@@ -1,7 +1,7 @@
 # Analyze Aura
 
 **School** divination; **Level** medium 2, mesmerist 3, occultist 2, psychic 3, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature or object  

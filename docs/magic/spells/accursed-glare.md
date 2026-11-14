@@ -1,7 +1,7 @@
 # Accursed Glare
 
 **School** necromancy [curse]; **Level** antipaladin 3, sorcerer/wizard 3, witch 3  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature  

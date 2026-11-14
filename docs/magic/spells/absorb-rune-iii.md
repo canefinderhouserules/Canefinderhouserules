@@ -1,7 +1,7 @@
 # Absorb Rune III
 
 **School** abjuration; **Level** cleric 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a white silk glove worth 25 gp)  
 **Range** touch  
 **Target** one spell effect  

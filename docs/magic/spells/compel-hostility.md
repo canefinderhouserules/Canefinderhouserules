@@ -1,7 +1,7 @@
 # Compel Hostility
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, medium 1, mesmerist 1, paladin 1, psychic 1, ranger 1, summoner 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of your blood)  
 **Range** personal  
 **Target** you  

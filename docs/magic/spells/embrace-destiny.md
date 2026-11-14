@@ -1,7 +1,7 @@
 # Embrace Destiny
 
 **School** divination; **Level** oracle 1, sorcerer/wizard 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

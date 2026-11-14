@@ -1,7 +1,7 @@
 # Borrow Fortune
 
 **School** evocation; **Level** cleric 3, medium 3, oracle 3, psychic 3  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** personal  
 **Target** you  

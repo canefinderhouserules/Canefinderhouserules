@@ -1,7 +1,7 @@
 # Knot of Fate
 
 **School** abjuration; **Level** cleric 1, inquisitor 1, shaman 1, witch 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a small knot of twine)  
 **Range** personal  
 **Target** you  

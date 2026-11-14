@@ -1,7 +1,7 @@
 # Gaseous Form
 
 **School** transmutation; **Level** alchemist 3, bard 3, magus 3, medium 3, occultist 3, psychic 3, sorcerer/wizard 3, spiritualist 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, M/DF (a bit of gauze and a wisp of smoke)  
 **Range** touch  
 **Target** willing corporeal creature touched  

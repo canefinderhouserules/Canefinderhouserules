@@ -1,7 +1,7 @@
 # Blood Ties
 
 **School** necromancy [evil]; **Level** antipaladin 4, cleric 5, druid 5, inquisitor 5, psychic 5, shaman 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a small length of crimson string)  
 **Range** unlimited (see text)  
 **Target** two living creatures  

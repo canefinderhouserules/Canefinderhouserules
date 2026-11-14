@@ -1,7 +1,7 @@
 # Perceive Cues
 
 **School** transmutation; **Level** alchemist 2, inquisitor 2, mesmerist 2, occultist 2, psychic 2, ranger 2, witch 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a drop of water)  
 **Range** personal  
 **Target** you  

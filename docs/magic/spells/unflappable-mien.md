@@ -1,7 +1,7 @@
 # Unflappable Mien
 
 **School** evocation [force]; **Level** bard 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (a diamond clasp, brooch, or pin worth at least 100 gp)  
 **Range** personal  
 **Target** you  

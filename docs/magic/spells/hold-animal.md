@@ -1,7 +1,7 @@
 # Hold Animal
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 2, mesmerist 2, psychic 2, ranger 2  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one animal  

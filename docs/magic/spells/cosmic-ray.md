@@ -1,7 +1,7 @@
 # Cosmic Ray
 
 **School** evocation; **Level** magus 5, sorcerer/wizard 6  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a piece of meteorite)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** ray  

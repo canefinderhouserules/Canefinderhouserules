@@ -1,7 +1,7 @@
 # Cheetah's Sprint
 
 **School** transmutation; **Level** bloodrager 1, druid 1, ranger 1, shaman 1, witch 1  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V  
 **Range** personal  
 **Target** you  

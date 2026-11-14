@@ -1,7 +1,7 @@
 # Cacophonous Call, Mass
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a scrap of sheet music)  
 **Target** one creature/level (all of which must be within 30 feet)  
 **Duration** 1 round/level  

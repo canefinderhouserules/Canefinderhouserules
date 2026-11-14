@@ -1,7 +1,7 @@
 # Conjuration Foil
 
 **School** abjuration; **Level** bard 4, magus 3, medium 4, occultist 4, psychic 4, sorcerer/wizard 4, spiritualist 4, summoner 3, witch 4  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Area** 20-foot radius spread  

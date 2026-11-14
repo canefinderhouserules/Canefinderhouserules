@@ -1,7 +1,7 @@
 # Innocuous Shape
 
 **School** transmutation (polymorph); **Level** alchemist 4, psychic 4, shaman 4, sorcerer/wizard 4, witch 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a handful of dandelion seeds)  
 **Range** touch  
 **Target** living creature touched  

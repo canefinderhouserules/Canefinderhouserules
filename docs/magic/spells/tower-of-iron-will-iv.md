@@ -1,7 +1,7 @@
 # Tower of Iron Will IV
 
 **School** abjuration; **Level** psychic 8  
-**Casting Time** 1 immediate action  
+**Casting Time** 1 immediate action (1 AP of your next turn)  
 **Components** V  
 **Range** 10 ft.  
 **Area** 10-ft.-radius emanation centered on you  

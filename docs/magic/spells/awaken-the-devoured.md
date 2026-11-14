@@ -1,7 +1,7 @@
 # Awaken the Devoured
 
 **School** divination [pain]; **Level** cleric 5, inquisitor 4, psychic 5, shaman 5, sorcerer/wizard 5, spiritualist 5, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
 **Target** one daemon  

@@ -1,7 +1,7 @@
 # Snapdragon Fireworks
 
 **School** transmutation [fire, light]; **Level** bard 2, sorcerer/ wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** S, V, M (a bundle of sulfur wrapped in cloth)  
 **Range** long (400 ft. + 40 ft./level)  
 **Effect** dragon-shaped fireworks  

@@ -1,7 +1,7 @@
 # Full Pouch
 
 **School** transmutation; **Level** alchemist 2, bard 2, druid 2, inquisitor 3, occultist 3, ranger 3, sorcerer/wizard 2  
-**Casting Time** 1 swift action  
+**Casting Time** 1 swift action (1 AP)  
 **Components** V, S, M (alchemical reagents or herbs worth 1 gp)  
 **Range** touch  
 **Target** 1 object touched  

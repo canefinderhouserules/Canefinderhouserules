@@ -1,7 +1,7 @@
 # Claim Identity, Greater
 
 **School** transmutation (polymorph); **Level** alchemist 5, antipaladin 4, bard 5, druid 6, inquisitor 5, shaman 6, sorcerer/wizard 6, witch 5  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a silver needle costing 100 gp)  
 **Range** touch  
 **Target** humanoid creature touched  

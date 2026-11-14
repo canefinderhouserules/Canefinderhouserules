@@ -1,7 +1,7 @@
 # Rotgut
 
 **School** transmutation; **Level** antipaladin 2, bard 2, cleric 2, inquisitor 2, occultist 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, M (a pinch of hops)  
 **Range** close (25 ft. + 5 ft./level)  
 **Target** 1 gallon of water/level  

@@ -1,7 +1,7 @@
 # Sacred Bond
 
 **School** conjuration (healing); **Level** cleric 3, inquisitor 2, paladin 2  
-**Casting Time** 1 round  
+**Casting Time** 1 round (3 AP)  
 **Components** V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)  
 **Range** touch; see text  
 **Target** creature touched  

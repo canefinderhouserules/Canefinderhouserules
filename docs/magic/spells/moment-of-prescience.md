@@ -1,7 +1,7 @@
 # Moment of Prescience
 
 **School** divination; **Level** psychic 8, sorcerer/wizard 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** personal  
 **Target** you  

@@ -1,7 +1,7 @@
 # Coordinated Effort
 
 **School** divination; **Level** bard 3, inquisitor 3, psychic 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** you plus one willing creature per 3 levels, no two of which can be more than 30 ft. part  

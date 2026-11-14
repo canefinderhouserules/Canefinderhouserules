@@ -1,7 +1,7 @@
 # Fireball
 
 **School** evocation [fire]; **Level** bloodrager 3, magus 3, occultist 3, sorcerer/wizard 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a ball of bat guano and sulfur)  
 **Range** long (400 ft. + 40 ft./level)  
 **Area** 20-ft.-radius spread  

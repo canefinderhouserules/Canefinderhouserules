@@ -1,7 +1,7 @@
 # Bed of Iron
 
 **School** necromancy; **Level** inquisitor 1, magus 1, paladin 1, sorcerer/wizard 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (a feather or swatch of soft fabric)  
 **Range** touch  
 **Target** one creature touched/level  

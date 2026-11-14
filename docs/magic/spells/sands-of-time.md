@@ -1,7 +1,7 @@
 # Sands of Time
 
 **School** necromancy; **Level** cleric 3, occultist 3, psychic 3, shaman 4, sorcerer/wizard 3, spiritualist 3, witch 3  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
 **Range** touch  
 **Target** touched creature or object  

@@ -1,7 +1,7 @@
 # Nine Lives
 
 **School** abjuration; **Level** cleric 8, witch 8  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (a cat's whisker)  
 **Range** touch  
 **Target** one creature touched  

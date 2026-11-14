@@ -1,7 +1,7 @@
 # Aura of Doom
 
 **School** necromancy [emotion, fear, mind-affecting]; **Level** cleric 4, psychic 4, spiritualist 4  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M/DF (powdered bone)  
 **Range** personal  
 **Area** 20-ft.-radius emanation centered on you  

@@ -1,7 +1,7 @@
 # Purify Food and Drink
 
 **School** transmutation; **Level** cleric 0, druid 0, occultist 0, shaman 0  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
 **Range** 10 ft.  
 **Target** 1 cu. ft./level of contaminated food and water  

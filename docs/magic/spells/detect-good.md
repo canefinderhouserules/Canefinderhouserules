@@ -1,7 +1,7 @@
 # Detect Good
 
 **School** divination; **Level** cleric 1, inquisitor 1, shaman 1, spiritualist 1  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (2 AP)  
 **Components** V, S, DF  
 **Range** 60 ft.  
 **Area** cone-shaped emanation  

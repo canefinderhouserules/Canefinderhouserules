@@ -1,7 +1,7 @@
 # Shapechange
 
 **School** transmutation (polymorph); **Level** druid 9, shaman 9, sorcerer/wizard 9  
-**Casting Time** 1 standard action  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, F (jade circlet worth 1,500 gp)  
 **Range** personal  
 **Target** you  
