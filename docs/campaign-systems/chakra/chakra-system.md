@@ -56,24 +56,24 @@ The \[Shinobi Warrior\]’s Class Skills are 5 of your choice.
 | **Level** | **BAB**        | **Fort** | **Ref** | **Will** | **Special**        | **Spells Known** |         |         |         |         |
 |-----------|----------------|----------|---------|----------|--------------------|------------------|---------|---------|---------|---------|
 |           |                |          |         |          |                    | **0th**          | **1st** | **2nd** | **3rd** | **4th** |
-| 1st       | +1             | +2       | +2      | +0       | Extra Combat Feat  | 2                | 1       | —       | —       | —       |
-| 2nd       | +2             | +3       | +3      | +0       | Class Feature 1    | 3                | 1       | —       | —       | —       |
+| 1st       | +1             | +2       | +2      | +0       | Extra Combat Feat, Class Feature 1 | 2                | 1       | —       | —       | —       |
+| 2nd       | +2             | +3       | +3      | +0       | Class Feature 2    | 3                | 1       | —       | —       | —       |
 | 3rd       | +3             | +3       | +3      | +1       | Extra Combat Feat  | 4                | 1       | —       | —       | —       |
-| 4th       | +4             | +4       | +4      | +1       | Class Feature 2    | 4                | 2       | —       | —       | —       |
+| 4th       | +4             | +4       | +4      | +1       | Class Feature 3    | 4                | 2       | —       | —       | —       |
 | 5th       | +5             | +4       | +4      | +1       |                    | 5                | 3       | —       | —       | —       |
-| 6th       | +6/+1          | +5       | +5      | +2       | Class Feature 3    | 5                | 4       | —       | —       | —       |
+| 6th       | +6/+1          | +5       | +5      | +2       | Class Feature 4    | 5                | 4       | —       | —       | —       |
 | 7th       | +7/+2          | +5       | +5      | +2       | Elemental Affinity | 6                | 4       | 2       | —       | —       |
-| 8th       | +8/+3          | +6       | +6      | +2       | Class Feature 4    | 6                | 4       | 3       | —       | —       |
+| 8th       | +8/+3          | +6       | +6      | +2       | Class Feature 5    | 6                | 4       | 3       | —       | —       |
 | 9th       | +9/+4          | +6       | +6      | +3       |                    | 6                | 5       | 4       | —       | —       |
-| 10th      | +10/+5         | +7       | +7      | +3       | Class Feature 5    | 6                | 5       | 4       | 2       | —       |
+| 10th      | +10/+5         | +7       | +7      | +3       | Class Feature 6    | 6                | 5       | 4       | 2       | —       |
 | 11th      | +11/+6/+1      | +7       | +7      | +3       |                    | 6                | 5       | 4       | 3       | —       |
-| 12th      | +12/+7/+2      | +8       | +8      | +4       | Class Feature 6    | 6                | 6       | 5       | 4       | —       |
+| 12th      | +12/+7/+2      | +8       | +8      | +4       | Class Feature 7    | 6                | 6       | 5       | 4       | —       |
 | 13th      | +13/+8/+3      | +8       | +8      | +4       |                    | 6                | 6       | 5       | 4       | 2       |
-| 14th      | +14/+9/+4      | +9       | +9      | +4       | Class Feature 7    | 6                | 6       | 5       | 4       | 3       |
+| 14th      | +14/+9/+4      | +9       | +9      | +4       | Class Feature 8    | 6                | 6       | 5       | 4       | 3       |
 | 15th      | +15/+10/+5     | +9       | +9      | +5       |                    | 6                | 6       | 6       | 5       | 4       |
-| 16th      | +16/+11/+6/+1  | +10      | +10     | +5       | Class Feature 8    | 6                | 6       | 6       | 5       | 4       |
+| 16th      | +16/+11/+6/+1  | +10      | +10     | +5       | Class Feature 9    | 6                | 6       | 6       | 5       | 4       |
 | 17th      | +17/+12/+7/+2  | +10      | +10     | +5       |                    | 6                | 6       | 6       | 5       | 4       |
-| 18th      | +18/+13/+8/+3  | +11      | +11     | +6       | Class Feature 9    | 6                | 6       | 6       | 6       | 5       |
+| 18th      | +18/+13/+8/+3  | +11      | +11     | +6       | Class Feature 10   | 6                | 6       | 6       | 6       | 5       |
 | 19th      | +19/+14/+9/+4  | +11      | +11     | +6       |                    | 6                | 6       | 6       | 6       | 5       |
 | 20th      | +20/+15/+10/+5 | +12      | +12     | +6       | Capstone           | 6                | 6       | 6       | 6       | 5       |
 
@@ -87,7 +87,7 @@ A \[Shinobi Warrior\] is proficient in \[all weapon types\] and \[all armor type
 
 **Warrior Class Feature (Ex, Sp, Su)**
 
-At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
+At 1st level, 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
 This is completely experimental, but for now the only tiny rules for keeping some degree of sense are:
 
@@ -119,24 +119,24 @@ The \[Class\]’s Class Skills are 10 of your choice.
 | **Level** | **BAB**    | **Fort** | **Ref** | **Will** | **Special**        | **Spells Known** |         |         |         |         |         |         |
 |-----------|------------|----------|---------|----------|--------------------|------------------|---------|---------|---------|---------|---------|---------|
 |           |            |          |         |          |                    | **0th**          | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** |
-| 1st       | +0         | +1       | +1      | +1       |                    | 4                | 2       | —       | —       | —       | —       | —       |
-| 2nd       | +1         | +1       | +1      | +1       | Class Feature 1    | 5                | 3       | —       | —       | —       | —       | —       |
+| 1st       | +0         | +1       | +1      | +1       | Class Feature 1    | 4                | 2       | —       | —       | —       | —       | —       |
+| 2nd       | +1         | +1       | +1      | +1       | Class Feature 2    | 5                | 3       | —       | —       | —       | —       | —       |
 | 3rd       | +2         | +2       | +2      | +2       | Elemental Affinity | 6                | 4       | —       | —       | —       | —       | —       |
-| 4th       | +3         | +2       | +2      | +2       | Class Feature 2    | 6                | 4       | 2       | —       | —       | —       | —       |
+| 4th       | +3         | +2       | +2      | +2       | Class Feature 3    | 6                | 4       | 2       | —       | —       | —       | —       |
 | 5th       | +3         | +3       | +3      | +3       |                    | 6                | 4       | 3       | —       | —       | —       | —       |
-| 6th       | +4         | +3       | +3      | +3       | Class Feature 3    | 6                | 4       | 4       | —       | —       | —       | —       |
+| 6th       | +4         | +3       | +3      | +3       | Class Feature 4    | 6                | 4       | 4       | —       | —       | —       | —       |
 | 7th       | +5         | +3       | +3      | +3       |                    | 6                | 5       | 4       | 2       | —       | —       | —       |
-| 8th       | +6/+1      | +4       | +4      | +4       | Class Feature 4    | 6                | 5       | 4       | 3       | —       | —       | —       |
+| 8th       | +6/+1      | +4       | +4      | +4       | Class Feature 5    | 6                | 5       | 4       | 3       | —       | —       | —       |
 | 9th       | +6/+1      | +4       | +4      | +4       |                    | 6                | 5       | 4       | 4       | —       | —       | —       |
-| 10th      | +7/+2      | +4       | +4      | +4       | Class Feature 5    | 6                | 5       | 5       | 4       | 2       | —       | —       |
+| 10th      | +7/+2      | +4       | +4      | +4       | Class Feature 6    | 6                | 5       | 5       | 4       | 2       | —       | —       |
 | 11th      | +8/+3      | +5       | +5      | +5       |                    | 6                | 6       | 5       | 4       | 3       | —       | —       |
-| 12th      | +9/+4      | +5       | +5      | +5       | Class Feature 6    | 6                | 6       | 5       | 4       | 4       | —       | —       |
+| 12th      | +9/+4      | +5       | +5      | +5       | Class Feature 7    | 6                | 6       | 5       | 4       | 4       | —       | —       |
 | 13th      | +9/+4      | +5       | +5      | +5       |                    | 6                | 6       | 5       | 5       | 4       | 2       | —       |
-| 14th      | +10/+5     | +6       | +6      | +6       | Class Feature 7    | 6                | 6       | 6       | 5       | 4       | 3       | —       |
+| 14th      | +10/+5     | +6       | +6      | +6       | Class Feature 8    | 6                | 6       | 6       | 5       | 4       | 3       | —       |
 | 15th      | +11/+6/+1  | +6       | +6      | +6       |                    | 6                | 6       | 6       | 5       | 4       | 4       | —       |
-| 16th      | +12/+7/+2  | +6       | +6      | +6       | Class Feature 8    | 6                | 6       | 6       | 5       | 5       | 4       | 2       |
+| 16th      | +12/+7/+2  | +6       | +6      | +6       | Class Feature 9    | 6                | 6       | 6       | 5       | 5       | 4       | 2       |
 | 17th      | +12/+7/+2  | +7       | +7      | +7       |                    | 6                | 6       | 6       | 6       | 5       | 4       | 3       |
-| 18th      | +13/+8/+3  | +7       | +7      | +7       | Class Feature 9    | 6                | 6       | 6       | 6       | 5       | 4       | 4       |
+| 18th      | +13/+8/+3  | +7       | +7      | +7       | Class Feature 10   | 6                | 6       | 6       | 6       | 5       | 4       | 4       |
 | 19th      | +14/+9/+4  | +7       | +7      | +7       |                    | 6                | 6       | 6       | 6       | 5       | 5       | 4       |
 | 20th      | +15/+10/+5 | +8       | +8      | +8       | Capstone           | 6                | 6       | 6       | 6       | 6       | 5       | 5       |
 
@@ -150,7 +150,7 @@ A \[Shinobi Specialist\] is proficient in \[Simple and Martial weapons\] and \[L
 
 **Specialist Class Feature (Ex, Sp, Su)**
 
-At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
+At 1st level, 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
 This is completely experimental, but for now the only tiny rule for keeping some degree of sense is:
 
@@ -182,24 +182,24 @@ The \[Jutsu Master\]’s Class Skills are 5 of your choice.
 | **Level** | **BAB** | **Fort** | **Ref** | **Will** | **Special**        | **Spells Known** |         |         |         |         |         |         |         |         |         |
 |-----------|---------|----------|---------|----------|--------------------|------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |           |         |          |         |          |                    | **0th**          | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** |
-| 1st       | +0      | +0       | +0      | +2       | Elemental Affinity | 4                | 2       | —       | —       | —       | —       | —       | —       | —       | —       |
-| 2nd       | +1      | +0       | +0      | +3       | Class Feature 1    | 5                | 2       | —       | —       | —       | —       | —       | —       | —       | —       |
+| 1st       | +0      | +0       | +0      | +2       | Elemental Affinity, Class Feature 1 | 4                | 2       | —       | —       | —       | —       | —       | —       | —       | —       |
+| 2nd       | +1      | +0       | +0      | +3       | Class Feature 2    | 5                | 2       | —       | —       | —       | —       | —       | —       | —       | —       |
 | 3rd       | +1      | +1       | +1      | +3       |                    | 5                | 3       | —       | —       | —       | —       | —       | —       | —       | —       |
-| 4th       | +2      | +1       | +1      | +4       | Class Feature 2    | 6                | 3       | 1       | —       | —       | —       | —       | —       | —       | —       |
+| 4th       | +2      | +1       | +1      | +4       | Class Feature 3    | 6                | 3       | 1       | —       | —       | —       | —       | —       | —       | —       |
 | 5th       | +2      | +1       | +1      | +4       |                    | 6                | 4       | 2       | —       | —       | —       | —       | —       | —       | —       |
-| 6th       | +3      | +2       | +2      | +5       | Class Feature 3    | 7                | 4       | 2       | 1       | —       | —       | —       | —       | —       | —       |
+| 6th       | +3      | +2       | +2      | +5       | Class Feature 4    | 7                | 4       | 2       | 1       | —       | —       | —       | —       | —       | —       |
 | 7th       | +3      | +2       | +2      | +5       |                    | 7                | 5       | 3       | 2       | —       | —       | —       | —       | —       | —       |
-| 8th       | +4      | +2       | +2      | +6       | Class Feature 4    | 8                | 5       | 3       | 2       | 1       | —       | —       | —       | —       | —       |
+| 8th       | +4      | +2       | +2      | +6       | Class Feature 5    | 8                | 5       | 3       | 2       | 1       | —       | —       | —       | —       | —       |
 | 9th       | +4      | +3       | +3      | +6       |                    | 8                | 5       | 4       | 3       | 2       | —       | —       | —       | —       | —       |
-| 10th      | +5      | +3       | +3      | +7       | Class Feature 5    | 9                | 5       | 4       | 3       | 2       | 1       | —       | —       | —       | —       |
+| 10th      | +5      | +3       | +3      | +7       | Class Feature 6    | 9                | 5       | 4       | 3       | 2       | 1       | —       | —       | —       | —       |
 | 11th      | +5      | +3       | +3      | +7       |                    | 9                | 5       | 5       | 4       | 3       | 2       | —       | —       | —       | —       |
-| 12th      | +6/+1   | +4       | +4      | +8       | Class Feature 6    | 9                | 5       | 5       | 4       | 3       | 2       | 1       | —       | —       | —       |
+| 12th      | +6/+1   | +4       | +4      | +8       | Class Feature 7    | 9                | 5       | 5       | 4       | 3       | 2       | 1       | —       | —       | —       |
 | 13th      | +6/+1   | +4       | +4      | +8       |                    | 9                | 5       | 5       | 4       | 4       | 3       | 2       | —       | —       | —       |
-| 14th      | +7/+2   | +4       | +4      | +9       | Class Feature 7    | 9                | 5       | 5       | 4       | 4       | 3       | 2       | 1       | —       | —       |
+| 14th      | +7/+2   | +4       | +4      | +9       | Class Feature 8    | 9                | 5       | 5       | 4       | 4       | 3       | 2       | 1       | —       | —       |
 | 15th      | +7/+2   | +5       | +5      | +9       |                    | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 2       | —       | —       |
-| 16th      | +8/+3   | +5       | +5      | +10      | Class Feature 8    | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 2       | 1       | —       |
+| 16th      | +8/+3   | +5       | +5      | +10      | Class Feature 9    | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 2       | 1       | —       |
 | 17th      | +8/+3   | +5       | +5      | +10      |                    | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 3       | 2       | —       |
-| 18th      | +9/+4   | +6       | +6      | +11      | Class Feature 9    | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 3       | 2       | 1       |
+| 18th      | +9/+4   | +6       | +6      | +11      | Class Feature 10   | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 3       | 2       | 1       |
 | 19th      | +9/+4   | +6       | +6      | +11      |                    | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 3       | 3       | 2       |
 | 20th      | +10/+5  | +6       | +6      | +12      | Capstone           | 9                | 5       | 5       | 4       | 4       | 4       | 3       | 3       | 3       | 3       |
 
@@ -213,7 +213,7 @@ A \[Jutsu Master\] is proficient in \[Simple Weapons\] and \[Light armor\].
 
 **Jutsu Master Class Feature (Ex, Sp, Su)**
 
-At 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
+At 1st level, 2nd level and every 2 levels thereafter you gain a class feature of your choice, ranging from a custom feature representing something very unique and different (to be systematized and balanced with the GM) to one borrowed from a Pathfinder class.
 
 This is completely experimental, but for now the only tiny rule for keeping some degree of sense is:
 
