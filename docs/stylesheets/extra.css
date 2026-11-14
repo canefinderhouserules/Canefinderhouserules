@@ -99,3 +99,6 @@
 .md-typeset .ap-new a { font-weight: 600; }
 .md-typeset .ap-show { cursor: pointer; color: var(--md-accent-fg-color); font-size: .64rem; }
 .md-typeset .ap-legend { margin: 0 0 .4rem; font-size: .62rem; color: var(--md-default-fg-color--light); }
+.md-typeset .ap-sub { grid-column: 1 / -1; margin: .5rem 0 .1rem; padding-top: .35rem; border-top: 1px solid var(--md-default-fg-color--lightest); font-size: .65rem; color: var(--md-default-fg-color--light); }
+.md-typeset .ap-sub strong { color: var(--md-default-fg-color); }
+.md-typeset .ap-alttag { font-size: .8em; color: var(--md-default-fg-color--light); margin-left: .25em; white-space: nowrap; }

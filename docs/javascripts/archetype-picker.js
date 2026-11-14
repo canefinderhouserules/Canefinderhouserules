@@ -93,10 +93,18 @@
     if (cap && cap.tagName === 'P' && /^table\b/i.test(cap.textContent.trim())) anchor = cap;
     content.insertBefore(box, anchor);
     var list = box.querySelector('.ap-list'), msg = box.querySelector('.ap-msg'), count = box.querySelector('.ap-count');
-    d.archetypes.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).forEach(function (a) {
-      var lab = el('label', 'ap-item');
+    // archetypes first, then the alternate class features (each one ticked on its own, like a small archetype)
+    var altHead = null;
+    d.archetypes.slice().sort(function (a, b) { return (a.kind === 'alt') - (b.kind === 'alt') || a.name.localeCompare(b.name); }).forEach(function (a) {
+      if (a.kind === 'alt' && !altHead) {
+        altHead = el('div', 'ap-sub');
+        altHead.innerHTML = '<strong>Alternate class features</strong> — not archetypes: each swaps one class feature and can be mixed with archetypes that leave that feature alone.';
+        list.appendChild(altHead);
+      }
+      var lab = el('label', 'ap-item' + (a.kind === 'alt' ? ' ap-alt' : ''));
       lab.innerHTML = '<input type="checkbox" value="' + a.i + '"> <span class="ap-name">' + esc(a.name) + '</span>' +
-        ' <a class="ap-ext" href="' + new URL(a.page + '#' + a.anchor, base).href + '" title="Open the archetype" target="_blank" rel="noopener">↗</a><span class="ap-why"></span>' + (a.banned ? ' <span class="ap-ban">banned</span>' : '');
+        ' <a class="ap-ext" href="' + new URL(a.page + '#' + a.anchor, base).href + '" title="' + (a.kind === 'alt' ? 'Open the alternate class features' : 'Open the archetype') + '" target="_blank" rel="noopener">↗</a>' +
+        (a.kind === 'alt' ? ' <span class="ap-alttag">alt · ' + esc(a.instead) + '</span>' : '') + '<span class="ap-why"></span>' + (a.banned ? ' <span class="ap-ban">banned</span>' : '');
       a.label = lab; a.box = lab.querySelector('input');
       if (a.banned) lab.classList.add('ap-banned');
       list.appendChild(lab);

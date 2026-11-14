@@ -285,7 +285,7 @@ Alternate class features are small, modular archetypes. They swap out a single c
 
 The following options can be taken in place of the legendary alchemist’s normal weapon and armor proficiencies:
 
-**Weapon and Armor Proficiencies Alchemists** are proficient with all [simple weapons](../../../equipment/weapons-simple.md), bows, and weapons with 'alchemical' in their name. They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
+**Weapon and Armor Proficiencies**: Alchemists are proficient with all [simple weapons](../../../equipment/weapons-simple.md), bows, and weapons with 'alchemical' in their name. They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
 
 **Weapon and Armor Proficiencies** Alchemists are proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md). They are also proficient with [light armor](../../../equipment/armor.md), [medium armor](../../../equipment/armor.md), [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), and [light shields](../../../equipment/weapons-martial.md#martial-light-melee-weapons).
 
