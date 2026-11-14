@@ -315,7 +315,47 @@ function references(text, units, bs) {
 // Sections of archetype pages that are lists of options (rage powers, bloodlines, mysteries...), not archetypes.
 const OPTION_LIST = /\b(powers|discover(y|ies)|hex(es)?|bloodlines|wildblooded|mysteries|masterpieces|inquisitions|domains|traps|arcana|talents|spirits|orders|channeling|companions|vows|sagas|schools|dares|combat styles?|mercies|divine bonds|models|anointings|blades|spellcasting vigilantes|weapon groups?|weapon group members|oaths?|evolutions|patron themes|patron spells|base forms?)\b|^order of |orders$/i;
 const ADDS = /\badd(?:s|ed)?\b[^.]{0,120}?\bto (?:the |his |her |their |its )?(?:[\w’' -]{0,40} )?lists?\b|\b(?:can|may) (?:also|additionally) (?:select|choose|take|learn|pick|gain)\b|\bin addition to (?:the |his |her |their |its )?(?:normal|usual|other|regular)\b|\badded to (?:the |his |her |their |its )?(?:[\w’' -]{0,40} )?lists?\b|\bas (?:an )?additional (?:option|choice)s?\b/i;
-const TAKES = /\b(instead|remov\w*|except|must be (?:chosen|selected)|only|from the following list|rather than|in place of|cannot|can ?not|can[’']t|no longer|loses?|lost|only (?:select|choose|gain|take|use)|reduc\w*|decreas\w*|replac\w*|must (?:select|choose)|does not gain|doesn[’']t gain|in exchange|fewer|penalty|limited to|restricted)\b/i;
+const TAKES = /\b(instead|does not have|doesn[’']t have|but not|remov\w*|except|must be (?:chosen|selected)|only|from the following list|rather than|in place of|cannot|can ?not|can[’']t|no longer|loses?|lost|only (?:select|choose|gain|take|use)|reduc\w*|decreas\w*|replac\w*|must (?:select|choose)|does not gain|doesn[’']t gain|in exchange|fewer|penalty|limited to|restricted)\b/i;
+// Which class skills a change adds and removes: {add, rem} (skill names, "knowledge (*)" for all Knowledge skills),
+// or {all: true} when it rewrites the list or can't be read; skill ranks per level is its own thing ({ranks: true}).
+const SKILLS = ['acrobatics', 'appraise', 'bluff', 'climb', 'craft', 'diplomacy', 'disable device', 'disguise', 'escape artist', 'fly', 'handle animal', 'heal', 'intimidate', 'linguistics', 'perception', 'perform', 'profession', 'ride', 'sense motive', 'sleight of hand', 'spellcraft', 'stealth', 'survival', 'swim', 'use magic device'];
+function skillNames(s) {
+  s = s.toLowerCase().replace(/\((?:str|dex|con|int|wis|cha)\)/g, '');
+  const out = new Set();
+  if (/\ball (?:remaining |other )?knowledge skills\b|\bknowledge \(all\)|\ball knowledges\b/.test(s)) out.add('knowledge (*)');
+  for (const m of s.matchAll(/knowledge\s*\(([^)]+)\)/g)) m[1].split(/\s*,\s*(?:and\s+|or\s+)?|\s+and\s+|\s+or\s+/).forEach(k => k.trim() && out.add('knowledge (' + k.trim() + ')'));
+  for (const k of SKILLS) if (new RegExp('\\b' + k + '\\b').test(s)) out.add(k);
+  return [...out];
+}
+function skillChange(name, t) {
+  const ranks = /skill ranks|skill points/i.test(name + ' ' + t);
+  const rest = t.replace(/this (?:ability )?alters the [\w’' ]+class skills\.?/i, '');
+  if ((/skill ranks|skill points/i.test(name) || /^\s*\d+ \+ int(?:elligence)? modifier\b/i.test(t)) && !/class skill/i.test(rest)) return { ranks: true };
+  const add = new Set(), rem = new Set(); let all = false;
+  const names = (s, set) => { const n = skillNames(s); n.forEach(x => set.add(x)); return n.length; };
+  let prevSkills = false;
+  for (const sent of t.split(/(?<=\.)\s*(?=[A-Z])/)) {
+    // ("Eliminate Diplomacy and Heal from the class skill list. Add Intimidate and Knowledge (arcana).")
+    const about = /class skills?|class spells|skill list|list of skills/i.test(sent) || (prevSkills && /^(add|remove)\b/i.test(sent));
+    prevSkills = about; if (!about) continue;
+    // the class skills an oracle's mystery (or a bloodline) grants
+    if (/\b(?:replaces?|in place of|instead of)\b[^.]*class skills? (?:granted by|gained from|from) (?:the |his |her |their )?[\w’' ]*(?:mystery|bloodline)|no additional class skills? from (?:his |her |their )?(?:mystery|bloodline)/i.test(sent)) rem.add('mystery or bloodline skills');
+    if (/class skills (?:are|is)\b|\bclass skills? (?:list )?(?:becomes?|consists?)\b|\breplaces? (?:his|her|their|the) (?:list of )?class skills\b(?! (?:granted|gained|from))/i.test(sent)) { all = true; continue; }
+    if (/\ball skills as class skills\b/i.test(sent)) add.add('*');
+    for (const c of sent.split(/,?\s+but\s+|;\s*|\.\s*|,?\s+and\s+(?=(?:removes?|loses?|does|doesn|eliminates?)\b)/i)) {
+      let m;
+      if ((m = c.match(/\b(?:adds?|gains?|receives?|treats?)\b(.+?)(?:\bin place of\b|\binstead of\b)(.+)/i))) { names(m[1], add); names(m[2], rem); }
+      else if ((m = c.match(/^(.+?)\b(?:are|is) not (?:a )?class skills?/i))) names(m[1], rem);
+      else if ((m = c.match(/\bremoves?\b(.+)/i)) || (m = c.match(/\beliminates?\b(.+)/i)) || (m = c.match(/\b(?:does not|doesn[’']t|do not|no longer) (?:gain|have|receive|get|treat|count)\b(.+)/i)) || (m = c.match(/\bloses?\b(.+)/i)) || (m = c.match(/^not\b(.+)/i)) || (m = c.match(/\bnot (?:as )?class skills?\b(.*)/i))) names(m[1], rem);
+      else if ((m = c.match(/^(.+?)\b(?:is|are) (?:a |all |also )?class skills?\b/i)) || (m = c.match(/\bhas\b(.+?)\bas (?:a )?class skills?/i)) || (m = c.match(/\b(?:adds?|gains?|receives?|treats?|chooses?|selects?)\b(.+)/i)) || (m = c.match(/^add\b(.+)/i))) names(m[1], add);
+    }
+  }
+  if (all) return { all: true };
+  // nothing readable: a skill-named ability is treated as changing the whole list; an ability that only mentions
+  // class skills in passing (a bloodline's class skill, an ability score swap) adds something and blocks nothing
+  if (!add.size && !rem.size) return /skill/i.test(name) ? { all: true } : Object.assign({ add: ['(other)'], rem: [] }, ranks ? { ranks: true } : {});
+  return Object.assign({ add: [...add], rem: [...rem] }, ranks ? { ranks: true } : {});
+}
 function archetypes(entry, units) {
   const file = fileOf(entry);
   const keep = n => (!entry.only || entry.only.includes(n)) && !(entry.except || []).includes(n);
@@ -403,7 +443,8 @@ function archetypes(entry, units) {
       }
       // a change that only adds options or benefits to a feature, taking nothing away ("adds X to the list", "can also select")
       const adds = o && 'adds' in o ? o.adds : r.modifies.length && ADDS.test(t) && !TAKES.test(t);
-      return Object.assign({ name: a.name, lvl: o && o.lvl ? o.lvl : lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss }, adds ? { adds: true } : {});
+      const touchesSkills = r.replaces.includes('class-skills-1') || r.modifies.includes('class-skills-1');
+      return Object.assign({ name: a.name, lvl: o && o.lvl ? o.lvl : lv ? +lv[1] : (/proficien|skills/i.test(a.name) ? 1 : null), html: html(file, a.md), replaces: r.replaces, modifies: r.modifies, miss: r.miss }, adds ? { adds: true } : {}, touchesSkills ? { skills: skillChange(a.name, t) } : {});
     });
     // sections of the page that are not archetypes (rage powers, bloodlines, schools...) change no class feature
     // (a long list where few entries replace anything is a list of options like bloodlines or mysteries)
