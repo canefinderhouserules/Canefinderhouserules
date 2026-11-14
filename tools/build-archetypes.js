@@ -449,7 +449,7 @@ function altFeatures(section, body, file, units, bs) {
         (all.filter(n => n === o.name).length > x.opts.filter(y => y.name === o.name).length ? ' (' + x.title + ')' : '');
       const t = plain(o.md);
       const lv = t.match(new RegExp('(?:^|\\b)(?:At|Starting at|Beginning at)\\s+' + ORD + '(?:\\s+level)?', 'i'));
-      out.push({ name, kind: 'alt', instead: x.title, anchor: slug(section), page: siteUrl(file), intro: '',
+      out.push({ name, kind: 'alt', instead: x.title, anchor: slug(section) + '--' + slug(name), link: slug(section), page: siteUrl(file), intro: '',
         abilities: [{ name, lvl: /proficien/i.test(x.title) ? 1 : lv ? +lv[1] : ((units.find(u => u.id === ids[0]) || {}).lvl || null), html: html(file, o.md), replaces: ids, modifies: [], miss: [] }] });
     });
   }
