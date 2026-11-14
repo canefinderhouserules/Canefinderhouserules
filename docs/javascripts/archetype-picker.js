@@ -209,7 +209,7 @@
           if (forbidden(a, b)) { clash.push(b); why.push('Can’t be combined with ' + b.name + ' (a rule of the archetype)'); return; }
           if (allowed(a, b)) return;
           var p = pair(a, b);
-          if (p.clash.length) { clash.push(b); why.push('Changes the same class features as ' + b.name + ' (' + names(p.clash) + (p.skills.length ? ': ' + p.skills.join(', ') : '') + ')'); }
+          if (p.clash.length) { clash.push(b); why.push('Changes the same class features as ' + b.name + ' (' + [p.skills.length ? 'class skills: ' + p.skills.join(', ') : ''].concat(names(p.clash.filter(function (id) { return !p.skills.length || id !== 'class-skills-1'; })) || []).filter(Boolean).join('; ') + ')'); }
           else if (p.house.length) {
             house.push(b);
             why.push('House rule: one of them removes ' + names(p.house) + ' and the other only changes it; the change is lost, so they can be mixed (with ' + b.name + ')');
