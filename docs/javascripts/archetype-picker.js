@@ -87,7 +87,7 @@
     box.innerHTML = '<summary><span class="ap-title">Archetypes</span> <span class="ap-count"></span><span class="ap-hint">Tick archetypes to see the class with them</span></summary>' +
       '<div class="ap-body"><div class="ap-top"><input type="search" class="ap-search" placeholder="Filter archetypes…" aria-label="Filter archetypes">' +
       '<button type="button" class="ap-clear md-button">Clear</button></div>' +
-      '<div class="ap-msg" role="status"></div><p class="ap-legend">Archetypes in red change the same class features as one you ticked, so the rules don’t normally let you combine them. You can still tick them (for a house rule); hover one to see which features they share.</p><div class="ap-list"></div></div>';
+      '<div class="ap-msg" role="status"></div><p class="ap-legend">Archetypes marked “banned” can’t be used under the house rules. Other archetypes in red change the same class features as one you ticked, so the rules don’t normally let you combine them. You can still tick them (for a house rule); hover one to see which features they share.</p><div class="ap-list"></div></div>';
     var anchor = table; while (anchor.parentNode !== content) anchor = anchor.parentNode;
     var cap = anchor.previousElementSibling;
     if (cap && cap.tagName === 'P' && /^table\b/i.test(cap.textContent.trim())) anchor = cap;
@@ -96,8 +96,9 @@
     d.archetypes.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).forEach(function (a) {
       var lab = el('label', 'ap-item');
       lab.innerHTML = '<input type="checkbox" value="' + a.i + '"> <span class="ap-name">' + esc(a.name) + '</span>' +
-        ' <a class="ap-ext" href="' + new URL(a.page + '#' + a.anchor, base).href + '" title="Open the archetype" target="_blank" rel="noopener">↗</a><span class="ap-why"></span>';
+        ' <a class="ap-ext" href="' + new URL(a.page + '#' + a.anchor, base).href + '" title="Open the archetype" target="_blank" rel="noopener">↗</a><span class="ap-why"></span>' + (a.banned ? ' <span class="ap-ban">banned</span>' : '');
       a.label = lab; a.box = lab.querySelector('input');
+      if (a.banned) lab.classList.add('ap-banned');
       list.appendChild(lab);
     });
     box.querySelector('.ap-search').addEventListener('input', function () {
@@ -159,9 +160,12 @@
           return forbidden(a, b) ? 'Can’t be combined with ' + b.name + ' (a rule of the archetype)'
             : 'Changes the same class features as ' + b.name + ' (' + names(Object.keys(a.touch).filter(function (id) { return b.touch[id]; })) + ')';
         }).join('; ') : '';
+        if (a.banned) a.label.title = 'Banned by house rule' + (a.label.title ? '; ' + a.label.title : '');
       });
       var bad = sel.filter(function (a) { return a.label.classList.contains('ap-clash'); });
       msg.innerHTML = bad.length ? '<strong>Not normally combinable:</strong> ' + bad.map(function (a) { return esc(a.name); }).join(', ') + ' change the same class features, or one of them says it can’t be combined with the other. The page still shows them together, in case a house rule allows it; hover an archetype to see why.' : '';
+      var ban = sel.filter(function (a) { return a.banned; });
+      if (ban.length) msg.innerHTML = '<strong>Banned by house rule:</strong> ' + ban.map(function (a) { return esc(a.name); }).join(', ') + ' can’t be used.' + (msg.innerHTML ? '<br>' + msg.innerHTML : '');
       count.textContent = sel.length ? sel.length + ' selected' : '';
       box.classList.toggle('ap-on', sel.length > 0);
 
