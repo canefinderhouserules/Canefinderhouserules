@@ -154,7 +154,7 @@ Despite the fact that some see use of firearms itself as a kind of magic, bullet
 
 **Class Skills**
 
-The bullet wizard adds [Knowledge](../../../rules/skills/knowledge.md) (arcana) and Spellcraft to her list of class spells instead of Acrobatics, [Ride](../../../rules/skills/ride.md), and [Survival](../../../rules/skills/survival.md). This alters the legendary gunslinger’s class skills.
+The bullet wizard adds [Knowledge](../../../rules/skills/knowledge.md) (arcana) and Spellcraft to her list of class skills instead of Acrobatics, [Ride](../../../rules/skills/ride.md), and [Survival](../../../rules/skills/survival.md). This alters the legendary gunslinger’s class skills.
 
 **Weapon and Armor Proficiencies**
 

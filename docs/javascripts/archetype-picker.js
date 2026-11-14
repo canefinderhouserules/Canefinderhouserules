@@ -66,15 +66,40 @@
       a.abilities.forEach(function (b) {
         b.modifies.forEach(function (id) { a.how[id] = Math.max(a.how[id] || 0, b.adds ? 1 : 2); });
         b.replaces.forEach(function (id) { a.how[id] = 3; });
+        // class skills: which skills it adds and removes
+        if (b.skills) {
+          a.sk = a.sk || { add: [], rem: [], all: false, ranks: false };
+          a.sk.add = a.sk.add.concat(b.skills.add || []); a.sk.rem = a.sk.rem.concat(b.skills.rem || []);
+          a.sk.all = a.sk.all || !!b.skills.all; a.sk.ranks = a.sk.ranks || !!b.skills.ranks;
+        }
       });
     });
+    // the same skill ("knowledge (*)" is every Knowledge skill, "*" every skill)
+    function sameSkill(x, y) {
+      return x === y || x === '*' || y === '*' || (x === 'knowledge (*)' && /^knowledge/.test(y)) || (y === 'knowledge (*)' && /^knowledge/.test(x));
+    }
+    // class skills: two archetypes clash only if one removes a skill the other adds (or both change skill ranks,
+    // or one rewrites the whole list); changing different skills mixes fine
+    function skillClash(a, b) {
+      if (!a.sk || !b.sk) return null;
+      if (a.sk.all || b.sk.all) return ['the whole class skill list'];
+      var out = [];
+      if (a.sk.ranks && b.sk.ranks) out.push('skill ranks per level');
+      function opp(p, q) { p.rem.forEach(function (x) { q.add.forEach(function (y) { if (sameSkill(x, y) && x !== '(other)' && y !== '(other)') out.push(x === '*' ? y : x); }); }); }
+      opp(a.sk, b.sk); opp(b.sk, a.sk);
+      return out.filter(function (x, i) { return out.indexOf(x) === i; });
+    }
     // two archetypes on one feature: fine if either only adds to it; a house-rule mix if one changes it and the other
     // removes it altogether (the change is simply lost); otherwise they clash
     function pair(a, b) {
       var shared = Object.keys(a.how).filter(function (id) { return b.how[id]; });
-      var res = { clash: [], house: [] };
+      var res = { clash: [], house: [], skills: [] };
       shared.forEach(function (id) {
         var x = a.how[id], y = b.how[id];
+        if (id === 'class-skills-1') {
+          var s = skillClash(a, b);
+          if (s) { if (s.length) { res.clash.push(id); res.skills = s; } return; }
+        }
         if (x === 1 || y === 1) return;
         (x !== y ? res.house : res.clash).push(id);
       });
@@ -184,7 +209,7 @@
           if (forbidden(a, b)) { clash.push(b); why.push('Can’t be combined with ' + b.name + ' (a rule of the archetype)'); return; }
           if (allowed(a, b)) return;
           var p = pair(a, b);
-          if (p.clash.length) { clash.push(b); why.push('Changes the same class features as ' + b.name + ' (' + names(p.clash) + ')'); }
+          if (p.clash.length) { clash.push(b); why.push('Changes the same class features as ' + b.name + ' (' + names(p.clash) + (p.skills.length ? ': ' + p.skills.join(', ') : '') + ')'); }
           else if (p.house.length) {
             house.push(b);
             why.push('House rule: one of them removes ' + names(p.house) + ' and the other only changes it; the change is lost, so they can be mixed (with ' + b.name + ')');

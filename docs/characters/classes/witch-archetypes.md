@@ -385,7 +385,7 @@ The scarred witch doctor draws power from her ability to endure pain and sufferi
 
 A changeling dreamweaver draws upon her hag heritage to ply the dream realms in order to touch mortal minds and souls, for good or ill. A dreamweaver witch has the following class features.
 
-**Class Skills**: The dreamweaver adds Sense Motive to her list of class skills and removes Healing from her list of class skills.
+**Class Skills**: The dreamweaver adds Sense Motive to her list of class skills and removes Heal from her list of class skills.
 
 **Patron**: A dreamweaver’s patron is normally portents or stars.
 
