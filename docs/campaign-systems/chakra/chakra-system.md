@@ -3,7 +3,7 @@
 !!! warning "House system"
     A fully alternative power system, separate from the normal Pathfinder spellcasting rules. Inspired by ninja fiction, it replaces spell slots with a chakra pool, and spells with jutsu. Experimental and open to negotiation with the GM.
 
-**Chakra:** a fixed number (by class) × level, plus the mental ability modifier × level (like hit points with Constitution, but with a mental ability).
+**Chakra:** a fixed number (by class type) × level, plus the mental ability modifier × level (like hit points with Constitution, but with a mental ability).
 
 **The fixed numbers are:**
 
@@ -12,6 +12,8 @@
 | 9th-level caster class | 12 |
 | 6th-level caster class | 8 |
 | 4th-level caster class | 6 |
+
+The fixed number is the maximum of the class’s chakra die, the same way hit points take the maximum of every Hit Die: Shinobi Warrior d6 = 6 per level, Shinobi Specialist d8 = 8, Jutsu Master d12 = 12.
 
 **Jutsu cost** (by spell level):
 
@@ -27,6 +29,8 @@
 | 7 | 61–70 |
 | 8 | 71–80 |
 | 9 | 81–100 |
+
+**Lower-level jutsu get cheaper:** each time you gain access to a new spell level, jutsu of the previous spell level cost half. This does not apply to level-0 jutsu. For example, a 2nd-level jutsu that normally costs 20 costs 10 once you unlock 3rd-level jutsu. Round odd costs up: a jutsu that costs 7 costs 4.
 
 A character can die from negative chakra, under the same rules as dying from negative hit points, but using the casting ability instead of Constitution.
 
@@ -89,7 +93,9 @@ This is completely experimental, but for now the only tiny rules for keeping som
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value: Strong, Common or Weak. Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](class-features-and-prices.md#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+
+The class features a Shinobi Warrior can copy are listed in [Shinobi Warrior Class Features](class-features-shinobi-warrior.md). Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md).
 
 **Elemental Affinity (Ex, Sp, Su)**
 
@@ -150,7 +156,9 @@ This is completely experimental, but for now the only tiny rule for keeping some
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value: Strong, Common or Weak. Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](class-features-and-prices.md#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+
+The class features a Shinobi Specialist can copy are listed in [Shinobi Specialist Class Features](class-features-shinobi-specialist.md). Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md).
 
 **Elemental Affinity (Ex, Sp, Su)**
 
@@ -211,10 +219,21 @@ This is completely experimental, but for now the only tiny rule for keeping some
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value: Strong, Common or Weak. Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](class-features-and-prices.md#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+
+The class features a Jutsu Master can copy are listed in [Jutsu Master Class Features](class-features-jutsu-master.md). Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md).
 
 **Elemental Affinity (Ex, Sp, Su)**
 
 You gain an elemental affinity, allowing you to learn jutsu of that element.
 
 The Jutsu Master gains another elemental affinity at 5th, 10th and 15th level.
+
+## Favored Class Bonuses
+
+These favored class bonuses belong to this system’s three classes. Each time you gain a level in your favored class, choose one:
+
+- +1 chakra.
+- 1/8 of an extra Common class feature.
+- 1/2 of an extra class skill.
+- 1/3 of an extra Weak class feature.

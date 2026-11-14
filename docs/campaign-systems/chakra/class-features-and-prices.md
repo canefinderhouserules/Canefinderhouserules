@@ -1,14 +1,31 @@
 # Class Features and Prices
 
-**Strong:** AC bonus, flurry, spirit (medium), hexes, spell combat, sneak attack, wild shape, fervor, sacred weapon, mutagen, eidolon, challenge, bardic performance, bloodline, domains, companion, bane, kinetic blast, and any class feature of the form "take this talent or feat every 2 levels", meaning not just a single pick but gaining one every so many levels (rage powers, rogue talents, slayer talents, ki powers, and so on).
+## Class Features and Their Prices
 
-**Common:** favored enemy (depending on the role it can become Strong), smite evil (can become Strong depending on the role), channel energy, lay on hands, rage, weapon training, armor training, martial flexibility, bombs, discovery, tactician, blessings, animal focus, judgments, solo tactics, inspiration, fast movement, evasion, uncanny dodge, resolve, shifter claws, familiar/arcane bond, arcane discoveries.
+Every class feature is priced as Iconic, OP, Common or Weak. Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak).
 
-**Weak:** poisons, trackless step, wild empathy, woodland stride, unarmed strike, favored terrain, trapfinding, trap sense, dual identity.
+**Limits:** you can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature). An Iconic class feature costs the same as an OP one; the category only exists to stop combinations of the strongest class features. Iconic class features are the ones that define a class or are far better than other OP class features.
 
-## Feats Unique to This System
+**Prestige classes:** in this system, a prestige class feature counts as 3 levels higher than the level at which its prestige class gains it (a feature gained at 5th level counts as 8th level). The lists below already include this; the prestige classes themselves do not change.
 
-**Extra Class Feature:** gives you one extra class feature choice. It cannot be of the Strong category, although it may be negotiable to allow it if it is 4 levels lower.
+The class features each class can copy are listed by level and price:
+
+- [Shinobi Warrior Class Features](class-features-shinobi-warrior.md)
+- [Shinobi Specialist Class Features](class-features-shinobi-specialist.md)
+- [Jutsu Master Class Features](class-features-jutsu-master.md)
+
+Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md): instead of copying one of them, you take the generic version and choose what it applies to. These exist only in this system.
+
+## Feats and Class Features Unique to This System
+
+**Extra Class Feature [Feat]:** Grants one extra class feature choice. If it is of the same level as the feat you are spending, it cannot be OP, and it only gives you 1 Common or 2 Weak features. If it is 4 levels lower, it can be OP (negotiable), and you can take 2 Common or 4 Weak features, or a combination of both.  
+It can be taken multiple times. It is NOT a combat feat (so no abusing it with a full-BAB class).
+
+**Accelerated Caster [Common Class Feature]:** Exclusive to the Jutsu Master. It gives you an accelerated spell progression similar to a wizard's: essentially you gain 1 spell known of the next spell level one class level earlier, and the rest stays the same (for example, at level 3 you gain 1 known 2nd-level spell, which stays at only 1 at level 4, and at level 5 you gain the second one and the first 3rd-level one).
+
+**Level as BAB [OP Class Feature]:** Only for the Shinobi Specialist. Your level counts as your base attack bonus. You also use the Shinobi Warrior's chakra (6 per level instead of 8), and you lose 1 spell known of each spell level.
+
+**Caster Specialist [OP Class Feature]:** Only for the Jutsu Master. Your base attack bonus advances as 3/4 instead of 1/2. Your chakra die drops to d8.
 
 **Individual Blood Contract:** you have convinced and signed an official contract with a particular member of one of the many ninja animal groups. Reduces the cost of summoning it by 30%.
 

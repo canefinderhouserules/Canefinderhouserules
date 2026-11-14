@@ -3,7 +3,7 @@
 !!! warning "House system"
     An optional alternative to spell slots. Characters have a stamina pool instead, and abilities cost stamina. Experimental and open to negotiation with the GM.
 
-**Stamina:** a fixed number (by class) × level, plus the casting ability modifier × level (like hit points with Constitution, but using the ability that suits the power).
+**Stamina:** a fixed number (by class type) × level, plus the casting ability modifier × level (like hit points with Constitution, but using the ability that suits the power).
 
 **The fixed numbers are:**
 
@@ -12,6 +12,8 @@
 | 9th-level caster class | 12 |
 | 6th-level caster class | 8 |
 | 4th-level caster class | 6 |
+
+The fixed number is the maximum of the class’s stamina die, the same way hit points take the maximum of every Hit Die: Warrior d6 = 6 per level, Specialist d8 = 8, Power Master d12 = 12.
 
 **Ability cost** (by spell level):
 
@@ -27,6 +29,8 @@
 | 7 | 61–70 |
 | 8 | 71–80 |
 | 9 | 81–100 |
+
+**Lower-level powers get cheaper:** each time you gain access to a new spell level, powers of the previous spell level cost half. This does not apply to level-0 powers. For example, a 2nd-level power that normally costs 20 costs 10 once you unlock 3rd-level powers. Round odd costs up: a power that costs 7 costs 4.
 
 **Casting ability:** as a general rule, the casting ability is Intelligence. The Power Master may choose any of the 3 abilities; the other 2 classes can spend XP or a feat to change it from Intelligence to another.
 
@@ -87,7 +91,9 @@ This is completely experimental, but for now the only tiny rules for keeping som
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value: Strong, Common or Weak (see [Class Features and Prices](class-features-and-prices.md)). Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](class-features-and-prices.md#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+
+The class features a Warrior can copy are listed in [Warrior Class Features](class-features-warrior.md). Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md).
 
 **Powerless (Ex, Sp, Su)**
 
@@ -152,7 +158,9 @@ This is completely experimental, but for now the only tiny rules for keeping som
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value: Strong, Common or Weak (see [Class Features and Prices](class-features-and-prices.md)). Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](class-features-and-prices.md#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+
+The class features a Specialist can copy are listed in [Specialist Class Features](class-features-specialist.md). Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md).
 
 **Mutation (Ex, Sp, Su)**
 
@@ -213,10 +221,21 @@ This is completely experimental, but for now the only tiny rules for keeping som
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value: Strong, Common or Weak (see [Class Features and Prices](class-features-and-prices.md)). Each time you choose a class feature you can take 1 Strong, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). The GM will probably limit this to 2 Strong features, or may ban some combinations. All negotiable.
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](class-features-and-prices.md#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
+
+The class features a Power Master can copy are listed in [Power Master Class Features](class-features-power-master.md). Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md).
 
 **Mutation (Ex, Sp, Su)**
 
 More than a class feature, this is a boundary on the type of powers and abilities you can develop with the character. It is more narrative than anything, but depending on what you choose it can be cooler or more interesting, or even strong by variety. The GM may attach a price, or make something stronger the more limiting it is (or charge XP the broader it is).
 
 This is decided at 1st level and the GM must know about it.
+
+## Favored Class Bonuses
+
+These favored class bonuses belong to this system’s three classes. Each time you gain a level in your favored class, choose one:
+
+- +1 stamina.
+- 1/8 of an extra Common class feature.
+- 1/2 of an extra class skill.
+- 1/3 of an extra Weak class feature.
