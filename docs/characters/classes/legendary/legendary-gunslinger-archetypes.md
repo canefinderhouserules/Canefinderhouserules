@@ -16,7 +16,7 @@ An alchemical hotshot uses her Intelligence modifier in place of her Wisdom to d
 
 An alchemical hotshot is able to use rare reagents along with traces of metal to infuse her bullets and gun with strange and mystic powers. To use a metallurgy bullet, an alchemical hotshot must spend 1 grit point as a free action, infusing her bullet with the chosen metal (it is also treated as that metal for the purpose of penetrating damage reduction). An alchemical hotshot can also spend 8 hours with a firearm and reduce her maximum grit by 1 to infuse a firearm with the power of metallurgy; at the beginning of each day when she regains her grit, she can spend an hour to either transfer this effect to another firearm or end it (the alchemical hotshot must have the affected firearm on their person to gain its effects, and this infusion ends if the firearm is out of her possession for more than 24 hours). As long as an alchemical hotshot has access to an alchemist lab, she is treated as though she has enough of a metal to infuse bullets and firearms. The saving throw against metallurgy effects is 10 + 1/2 the alchemical hotshot’s level + her Intelligence modifier.
 
-In addition, as a standard action, the alchemical hotshot can remove the broken condition from a firearm infused with a metal, as long as that condition was gained by a firearm misfire. An alchemical hotshot must have at least 1 grit point to use this ability.
+In addition, as a standard action (1 AP), the alchemical hotshot can remove the broken condition from a firearm infused with a metal, as long as that condition was gained by a firearm misfire. An alchemical hotshot must have at least 1 grit point to use this ability.
 
 **Lead (Su):** At 1st level, an alchemical hotshot gains access to lead.
 
@@ -78,7 +78,7 @@ An anthem gunner uses her Charisma modifier in place of her Wisdom to determine 
 
 **Song of Strife (Su)**
 
-At 1st level, an anthem gunner can spend 1 grit point as a swift action while making an attack with a firearm as a standard action to begin a song of strife, using her voice and the report of her firearm to fill in the sounds of battle with a focusing rhythm for her allies. For a number of rounds equal to her Charisma modifier, all allies who can perceive the sound of her firearm gain a +1 morale bonus to attack rolls. If an anthem gunner fails to sing or make an attack with her firearm while her song of strife is active, it immediately ends, regardless of its remaining duration. At 5th level and every 5 levels afterwards, this bonus increases by +1, to a maximum of +5 at 20th level. This ability replaces the deadeye deed and gritty offense.
+At 1st level, an anthem gunner can spend 1 grit point as a swift action (1 AP) while making an attack with a firearm as a standard action (2 AP) to begin a song of strife, using her voice and the report of her firearm to fill in the sounds of battle with a focusing rhythm for her allies. For a number of rounds equal to her Charisma modifier, all allies who can perceive the sound of her firearm gain a +1 morale bonus to attack rolls. If an anthem gunner fails to sing or make an attack with her firearm while her song of strife is active, it immediately ends, regardless of its remaining duration. At 5th level and every 5 levels afterwards, this bonus increases by +1, to a maximum of +5 at 20th level. This ability replaces the deadeye deed and gritty offense.
 
 **Conductor Deeds**
 
@@ -88,7 +88,7 @@ An anthem gunner gains the following deeds:
 
 *Deadly Duet (Su):* At 7th level, whenever an anthem gunner begins a song of strife, she can choose to have it only affect a single ally. If she does, once per round, if that ally successfully confirms a critical hit or kills a creature, the anthem gunner regains 1 grit point. Confirming a critical hit on a [helpless](../../../rules/appendices/conditions.md#helpless) or unaware creature or defeating a creature that possesses fewer Hit Dice than half her ally’s own level does not restore grit.
 
-*Succor Symphony (Su):* At 7th level, whenever an anthem gunner has an active song of strife, she can spend 1 grit point as a swift action to heal all allies affected by the song of strife by an amount equal to 1/2 her class level + her Charisma modifier. The deed’s cost cannot be reduced by the true grit class ability, the [Signature Deed](../../../rules/feats/signature-deed.md) feat, or any other effect that reduces the amount of grit a deed costs.
+*Succor Symphony (Su):* At 7th level, whenever an anthem gunner has an active song of strife, she can spend 1 grit point as a swift action (1 AP) to heal all allies affected by the song of strife by an amount equal to 1/2 her class level + her Charisma modifier. The deed’s cost cannot be reduced by the true grit class ability, the [Signature Deed](../../../rules/feats/signature-deed.md) feat, or any other effect that reduces the amount of grit a deed costs.
 
 *Strengthening Sonata (Su):* At 11th level, whenever an anthem gunner begins a song of strife, she can spend an additional grit point. If she does, all those affected by the song of strife gain a number of temporary hit points equal to 1/2 her class level for the duration of the song of strife or until they are lost. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.
 
@@ -132,7 +132,7 @@ A black powder bandit gains the following deeds:
 
 - *Blade and Pistol*: At 1st level, as long as the black powder bandit has 1 grit point, she treats all one-handed firearms as light weapons for the purpose of dual wielding penalties. In addition, she can reload a one-handed firearm without requiring a free hand.
 
-- *Cannoneer*: At 7th level, as long as the black powder bandit has 1 grit point, she treats herself as 1 additional person for the purposes of the crew needed to operate a cannon and reduces the number of rounds needed to load a cannon by 1 (minimum 0). A black flag bandit can spend 1 grit point as a standard action to grant this deed to all creatures benefiting from her raise the flag class feature for 1 hour.
+- *Cannoneer*: At 7th level, as long as the black powder bandit has 1 grit point, she treats herself as 1 additional person for the purposes of the crew needed to operate a cannon and reduces the number of rounds needed to load a cannon by 1 (minimum 0). A black flag bandit can spend 1 grit point as a standard action (1 AP) to grant this deed to all creatures benefiting from her raise the flag class feature for 1 hour.
 
 This ability replaces the deadeye and interrogation shot deeds.
 
@@ -174,13 +174,13 @@ A bullet wizard uses her Intelligence modifier in place of her Wisdom to determi
 
 **Magic Gun (Su)**
 
-A bullet wizard treats her starting weapon as a bonded object, and treats any hand holding it as though it was empty for the purpose of performing somatic components for a magus spell. If the bullet wizard gains a new bonded object, it must also be a firearm. In addition, as a standard action, the bullet wizard can remove the broken condition from her bonded object, as long as that condition was gained by a firearm misfire. A bullet wizard must have at least 1 grit point to use this ability. This ability alters gunsmith.
+A bullet wizard treats her starting weapon as a bonded object, and treats any hand holding it as though it was empty for the purpose of performing somatic components for a magus spell. If the bullet wizard gains a new bonded object, it must also be a firearm. In addition, as a standard action (1 AP), the bullet wizard can remove the broken condition from her bonded object, as long as that condition was gained by a firearm misfire. A bullet wizard must have at least 1 grit point to use this ability. This ability alters gunsmith.
 
 **Arcane Shot (Ex)**
 
-At 2nd level, whenever a bullet wizard casts a ranged touch attack spell with a casting time of 1 standard action, she can spend 1 grit point as a free action to make an attack roll with her bonded firearm, channeling the spell into the bullet and delivering the spell with a successful ranged attack. If the spell is delivered the target is affected by the spell normally but the spell does not need to make an additional touch attack, on a miss the spell has no effect. This attack uses the weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage uses its own critical modifier.
+At 2nd level, whenever a bullet wizard casts a ranged touch attack spell with a casting time of 1 standard action (1 AP), she can spend 1 grit point as a free action to make an attack roll with her bonded firearm, channeling the spell into the bullet and delivering the spell with a successful ranged attack. If the spell is delivered the target is affected by the spell normally but the spell does not need to make an additional touch attack, on a miss the spell has no effect. This attack uses the weapon’s critical range (20, 19–20, or 18–20 and modified by the keen weapon property or similar effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage uses its own critical modifier.
 
-Even if the spell can normally affect multiple targets, only a single missile, ray, or effect accompanies the attack. At 8th level, whenever a bullet wizard uses her arcane shot class feature, she can spend an additional grit point to make a second attack with a -5 penalty. At 17th level, she can instead spend 2 additional grit points to be able to cast a second touch spell with a casting time of 1 standard action as a free action, channeling it into this second attack.
+Even if the spell can normally affect multiple targets, only a single missile, ray, or effect accompanies the attack. At 8th level, whenever a bullet wizard uses her arcane shot class feature, she can spend an additional grit point to make a second attack with a -5 penalty. At 17th level, she can instead spend 2 additional grit points to be able to cast a second touch spell with a casting time of 1 standard action (1 AP) as a free action, channeling it into this second attack.
 
 This ability replaces the 2nd, 8th, and 17th level gun masteries.
 
@@ -192,7 +192,7 @@ Whenever a bullet wizard gains a gun mastery which would grant her a deed, she u
 
 At 2nd level, a bullet wizard selects two Charisma or Wisdom based skill; she may choose to use her Intelligence modifier in place of her Charisma or Wisdom when determining her bonus for those skills. This ability alters slinger’s quirk.
 
-**Arcane Artillery (Su):** At 3rd level, the bullet wizard can expend a spell slot as a swift action to treat one of her firearms as if it was always loaded for a number of minutes equal to the expended spells level (she can dismiss this ability as a free action). When she uses this ability, she selects one of the following energy types: acid, cold, electricity, or fire; her bullets deal this type of damage for the duration of this ability. In addition, she deals additional damage per shot depending on the level of the spell which was sacrificed:
+**Arcane Artillery (Su):** At 3rd level, the bullet wizard can expend a spell slot as a swift action (1 AP) to treat one of her firearms as if it was always loaded for a number of minutes equal to the expended spells level (she can dismiss this ability as a free action). When she uses this ability, she selects one of the following energy types: acid, cold, electricity, or fire; her bullets deal this type of damage for the duration of this ability. In addition, she deals additional damage per shot depending on the level of the spell which was sacrificed:
 
 - *1st*: +1d4 damage
 
@@ -304,7 +304,7 @@ At 2nd level, a faded stranger may use her Wisdom modifier in place of her Chari
 
 **Fade Away (Su)**
 
-At 4th level, a faded stranger can spend 1 grit point as a swift action to disappear for a number of rounds equal to her Wisdom modifier. This ability functions as invisibility. At 14th level, she can spend an additional grit point while using this ability to have it instead function as greater invisibility. This ability replaces the 4th and 14th level combat grit.
+At 4th level, a faded stranger can spend 1 grit point as a swift action (1 AP) to disappear for a number of rounds equal to her Wisdom modifier. This ability functions as invisibility. At 14th level, she can spend an additional grit point while using this ability to have it instead function as greater invisibility. This ability replaces the 4th and 14th level combat grit.
 
 **No History (Ex)**
 
@@ -314,7 +314,7 @@ In addition, any attempt to scry on a faded stranger requires a successful caste
 
 **No Existence (Su)**
 
-At 19th level, a faded stranger cannot be detected by blindsense, blindsight, tremorsense, greensight, telepathy, and is immune to divination spells, spells such as legend lore turn up no information on her, and any attempt to revive her from the dead must also include a part of her body. A faded stranger can spend 1 grit point as a swift action to target one creature within 60 ft. of herself, forcing that creature to make a successful Will save (DC 20 + her Wisdom modifier) or forget everything they know about the faded stranger and gain 2 negative levels as she removes a part of their soul from existence. This ability replaces the 19th level combat grit.
+At 19th level, a faded stranger cannot be detected by blindsense, blindsight, tremorsense, greensight, telepathy, and is immune to divination spells, spells such as legend lore turn up no information on her, and any attempt to revive her from the dead must also include a part of her body. A faded stranger can spend 1 grit point as a swift action (1 AP) to target one creature within 60 ft. of herself, forcing that creature to make a successful Will save (DC 20 + her Wisdom modifier) or forget everything they know about the faded stranger and gain 2 negative levels as she removes a part of their soul from existence. This ability replaces the 19th level combat grit.
 
 ## Firearm Striker
 
@@ -344,7 +344,7 @@ A firearm striker gains the following deeds:
 
 *Steel Fist:* At 3rd level, as long as a firearm striker has at least 1 grit point, her unarmed strikes deal damage as though she was a monk of her class level.
 
-*Gun Flurry:* At 7th level, whenever the firearm striker deals damage to a creature with a firearm, she can spend 1 grit point as an immediate action to make an attack with her unarmed strike. If there are no targets within her natural reach, she can move up to half her speed (this movement provokes attacks of opportunity), making an attack with her unarmed strike at the end of her movement. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.
+*Gun Flurry:* At 7th level, whenever the firearm striker deals damage to a creature with a firearm, she can spend 1 grit point as an immediate action (1 AP of your next turn) to make an attack with her unarmed strike. If there are no targets within her natural reach, she can move up to half her speed (this movement provokes attacks of opportunity), making an attack with her unarmed strike at the end of her movement. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.
 
 *Empowered Firearm:*At 11th level, a firearm striker can spend 1 grit point as a free action to have any firearm she wields deal damage equal to her unarmed strike for 1 minute. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.
 
@@ -378,7 +378,7 @@ This ability alters gunsmith.
 
 **Turret Stance (Ex)**
 
-At 1st level, as long as a living turret has at least 1 grit point and is wearing medium or heavy armor, she can enter a turret stance as a move action. As long as a living turret is in her turret stance, she is treated as though she is supported, although she still suffers a -2 penalty on attack rolls while wielding a culverin in this fashion. In addition, she gains DR 1/- and +2 circumstance bonus to her CMD; while in her turret stance, she treats her class level as her base attack bonus for the purpose of calculating her CMD. At the beginning of each of her turns, a living turret can decide to maintain her turret stance as a free action.
+At 1st level, as long as a living turret has at least 1 grit point and is wearing medium or heavy armor, she can enter a turret stance as a move action (1 AP). As long as a living turret is in her turret stance, she is treated as though she is supported, although she still suffers a -2 penalty on attack rolls while wielding a culverin in this fashion. In addition, she gains DR 1/- and +2 circumstance bonus to her CMD; while in her turret stance, she treats her class level as her base attack bonus for the purpose of calculating her CMD. At the beginning of each of her turns, a living turret can decide to maintain her turret stance as a free action.
 
 At the end of each round a living turret spends in her turret stance, she gains a number of temporary hit points equal to her Wisdom modifier (minimum 1) which last until her turret stance ends or until lost normally; temporary hit points gained from this ability cannot exceed her class level. If a living turret moves more than 5 feet during her turret stance, it instantly ends. At 7th level, a living turret no longer takes a penalty to attack rolls while wielding a culverin in this fashion and instead gains temporary hit points equal to two times her wisdom modifier. At 16th level, she instead gains temporary hit points equal to three times her Wisdom modifier.
 
@@ -438,7 +438,7 @@ Special: A muzzle roarer using the standard gunslinger class may choose any rogu
 
 A muzzle roarer’s weapons erupt with a deafening bang with every shot. The Perception penalty to hear her gunshots at a distance is reduced to -1 per 50 feet. Any creature struck by a shot from her firearm is deafened for 1 round (1 minute on a critical hit) unless it succeeds on a Fortitude save (DC 10 + 1/2 her gunslinger level + her Wisdom modifier). The duration from multiple failed saves stacks. In addition, as long as the muzzle roarer has at least 1 grit point, any enemy adjacent to her when she shoots her firearm must save or be deafened for 1 round as well. The muzzle roarer cannot be deafened by her own gunshots.
 
-This deafening sound is highly distracting and frightening, granting the muzzle roarer a +2 circumstance bonus on [Intimidate](../../../rules/skills/intimidate.md) checks made within 1 round of shooting her firearm. This bonus increases by 2 at 5th level and every 5 levels thereafter. A muzzle roarer can expend 1 grit point to make an Intimidate check as a swift action after shooting her firearm.
+This deafening sound is highly distracting and frightening, granting the muzzle roarer a +2 circumstance bonus on [Intimidate](../../../rules/skills/intimidate.md) checks made within 1 round of shooting her firearm. This bonus increases by 2 at 5th level and every 5 levels thereafter. A muzzle roarer can expend 1 grit point to make an Intimidate check as a swift action (1 AP) after shooting her firearm.
 
 At 7th level, a muzzle roarer can expend grit when firing her weapon to dispel a magical silence effect (as a targeted dispel magic) or to duplicate the effect of piercing shriek or screech. At 15th level, she also can duplicate primal scream or sonic thrust. Creating these effects functions as spell-like abilities from her cursed countenance ability above, and she also must expend one shot of powder and ammunition with no chance of misfire (or one shot for each creature or object, if affecting multiple targets with sonic thrust).
 
@@ -448,7 +448,7 @@ This replaces evasion and improved evasion. Special: A muzzle roarer using the s
 
 A muzzle roarer gains access to the following unique deeds, which she may learn in place of one of her normal deeds. Any effects that duplicate spells follow the same limitations as cursed countenance spell-like abilities described above.
 
-*Branding Barrel:* As long as muzzle roarer has at least 1 grit point, she can make a firearm attack and then use the hot barrel to halt a bleed effect on herself or an adjacent creature. This does not require an attack roll. Alternatively, she can make a melee touch attack with the hot barrel as a move action, affecting the target as brand. At 10th level and above, she can expend 2 grit points to make a melee touch attack with the hot barrel as a move action, affecting the target as greater brand. instead. Alternatively, the muzzle roarer can expend 1 additional grit point as a swift action to use this brand or greater brand ability against a creature she has just hit with her firearm attack.
+*Branding Barrel:* As long as muzzle roarer has at least 1 grit point, she can make a firearm attack and then use the hot barrel to halt a bleed effect on herself or an adjacent creature. This does not require an attack roll. Alternatively, she can make a melee touch attack with the hot barrel as a move action (1 AP), affecting the target as brand. At 10th level and above, she can expend 2 grit points to make a melee touch attack with the hot barrel as a move action (1 AP), affecting the target as greater brand. instead. Alternatively, the muzzle roarer can expend 1 additional grit point as a swift action (1 AP) to use this brand or greater brand ability against a creature she has just hit with her firearm attack.
 
 *Doomwalker:* A muzzle roarer walks with callous certainty in the utter and awful end of all things, blunting attempts to manipulate their emotions. She gains a +2 circumstance bonus on saving throws against fear and other emotion effects, as well as curses. In addition, whenever she would be affected by a fear effect, she can expend 1 point of grit as a free action to reduce the effect of that fear by one step: [panicked](../../../rules/appendices/conditions.md#panicked), [cowering](../../../rules/appendices/conditions.md#cowering), or [paralyzed](../../../rules/appendices/conditions.md#paralyzed) becomes frightened; frightened becomes [shaken](../../../rules/appendices/conditions.md#shaken); shaken becomes unaffected. This does not affect other types of fear effects, such as phantasmal killer.
 
@@ -478,7 +478,7 @@ This ability replaces the 5th, 11th, and 17th level gun masteries.
 
 **Cruel Malediction (Ex)**
 
-At 6th level, whenever a creature within the pale slinger’s aura of misfortune attempts a saving throw or skill check, she can spend 1 grit point as an immediate action to impose a -2 penalty to that roll. At 17th level, if the creature under the effects of this ability fails their saving throw or skill check, the pale slinger regains 1 grit point. A creature that has fewer Hit Dice than half the pale slinger’s character level failing a saving throw or skill check does not restore grit.
+At 6th level, whenever a creature within the pale slinger’s aura of misfortune attempts a saving throw or skill check, she can spend 1 grit point as an immediate action (1 AP of your next turn) to impose a -2 penalty to that roll. At 17th level, if the creature under the effects of this ability fails their saving throw or skill check, the pale slinger regains 1 grit point. A creature that has fewer Hit Dice than half the pale slinger’s character level failing a saving throw or skill check does not restore grit.
 
 This ability replaces steely resolve and skilled resolve.
 
@@ -506,7 +506,7 @@ Some gunslingers rely on a rugged sense of determination and duty to drive them 
 
 **Drunken Grit (Ex)**
 
-At 1st level, a rumslinger can drink a tankard of ale or strong alcohol and gain one point of grit. The act of drinking is a standard action that does not provoke attacks of opportunity. The gunslinger can gain a maximum number of drunken grit points equal to 1 plus one additional point for every two levels thereafter (5th, 7th, and so on). These drunken grit points last for 1 hour or until spent, whichever is shorter. As long as he has at least 1 drunken grit point, the gunslinger can spend 1 point of drunken grit as a swift action to move 5 feet without provoking attacks of opportunity. The gunslinger only recovers grit by drinking.
+At 1st level, a rumslinger can drink a tankard of ale or strong alcohol and gain one point of grit. The act of drinking is a standard action (1 AP) that does not provoke attacks of opportunity. The gunslinger can gain a maximum number of drunken grit points equal to 1 plus one additional point for every two levels thereafter (5th, 7th, and so on). These drunken grit points last for 1 hour or until spent, whichever is shorter. As long as he has at least 1 drunken grit point, the gunslinger can spend 1 point of drunken grit as a swift action (1 AP) to move 5 feet without provoking attacks of opportunity. The gunslinger only recovers grit by drinking.
 
 This ability replaces grit.
 
@@ -514,7 +514,7 @@ This ability replaces grit.
 
 A rumslinger gains access to a handful of unique deeds that replace some of the standard [gunslinger deeds](../gunslinger.md#deeds).
 
-*Wobbling Shot*: At 7th level, a rumslinger can spend 1 point of drunken grit as a swift action to roll twice on an attack roll and choose the higher of the two results. At 12th level, the gunslinger may spend 2 drunken grit points to roll three times on an attack roll. At 17th level, the gunslinger may spend 4 drunken grit points to gain the benefit of true strike instead of rolling multiple times on the attack roll. The gunslinger must have at least 1 drunken grit point to use this ability. This deed replaces dead shot.
+*Wobbling Shot*: At 7th level, a rumslinger can spend 1 point of drunken grit as a swift action (1 AP) to roll twice on an attack roll and choose the higher of the two results. At 12th level, the gunslinger may spend 2 drunken grit points to roll three times on an attack roll. At 17th level, the gunslinger may spend 4 drunken grit points to gain the benefit of true strike instead of rolling multiple times on the attack roll. The gunslinger must have at least 1 drunken grit point to use this ability. This deed replaces dead shot.
 
 *Drunken Courage*: At 11th level, a rumslinger may spend 1 point of drunken grit to become immune to fear effects for 1 hour. This deed replaces expert loading.
 
@@ -646,7 +646,7 @@ This ability replaces slinger’s quirk.
 
 **Traveler’s Judgement (Su)**
 
-At 3rd level, a solemn traveler gains the judgement ability as though she was an inquisitor of her solemn traveler level, although rather than having a specific amount of uses per day, she must spend 1 grit point to use this ability. At 11th level, whenever the solemn traveler uses her judgement ability, she selects two different judgements instead of one. Doing so still only cost 1 grit point. As a swift action, she can change one of these judgments to another type.
+At 3rd level, a solemn traveler gains the judgement ability as though she was an inquisitor of her solemn traveler level, although rather than having a specific amount of uses per day, she must spend 1 grit point to use this ability. At 11th level, whenever the solemn traveler uses her judgement ability, she selects two different judgements instead of one. Doing so still only cost 1 grit point. As a swift action (1 AP), she can change one of these judgments to another type.
 
 This ability replaces the ricochet shot, dead shot, and lighting reflexes deeds and the gritty offense gained at 10th and 20th level.
 

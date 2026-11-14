@@ -20,7 +20,7 @@ This creature can send opponents flying.
 
 **Prerequisites**: Str 25, Improved Bull Rush, Power Attack, size Large or larger.
 
-**Benefit**: As a standard action, the creature may attempt an awesome blow combat maneuver. If the creature’s maneuver succeeds against a corporeal opponent smaller than itself, its opponent takes damage (typically slam damage plus Strength bonus) and is knocked flying 10 feet in a direction of the attacking creature’s choice and falls prone. The attacking creature can only push the opponent in a straight line, and the opponent can’t move closer to the attacking creature than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.
+**Benefit**: As a standard action (1 AP), the creature may attempt an awesome blow combat maneuver. If the creature’s maneuver succeeds against a corporeal opponent smaller than itself, its opponent takes damage (typically slam damage plus Strength bonus) and is knocked flying 10 feet in a direction of the attacking creature’s choice and falls prone. The attacking creature can only push the opponent in a straight line, and the opponent can’t move closer to the attacking creature than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.
 
 ## Craft Construct
 
@@ -48,13 +48,13 @@ The creature can only select a spell-like ability duplicating a spell with a lev
 
 ## Flyby Attack
 
-This creature can make an attack during its move action while flying.
+This creature can make an attack during its move action (1 AP) while flying.
 
 **Prerequisite**: Fly speed.
 
-**Benefit**: When the creature takes a move action while flying, it can take its standard action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack.
+**Benefit**: When the creature takes a move action (1 AP) while flying, it can take its standard action (1 AP) at any point during the move. The creature cannot take a second move action (1 AP) during a round when it makes a flyby attack.
 
-**Normal**: Without this feat, the creature takes a standard action either before or after its move.
+**Normal**: Without this feat, the creature takes a standard action (1 AP) either before or after its move.
 
 ## Hover
 
@@ -122,11 +122,11 @@ This creature can use one of its spell-like abilities with next to no effort.
 
 **Benefit**: Choose one of the creature’s spell-like abilities, subject to the restrictions described in this feat. The creature can use that spell-like ability as a quickened spell-like ability three times per day (or fewer, if the ability is normally usable only once or twice per day).
 
-Using a quickened spell-like ability is a swift action that does not provoke an attack of opportunity. The creature can perform another action—including the use of another spell-like ability (but not another swift action)—in the same round that it uses a quickened spell-like ability. The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level – 4. For a summary, see the table below.
+Using a quickened spell-like ability is a swift action (1 AP) that does not provoke an attack of opportunity. The creature can perform another action—including the use of another spell-like ability (but not another swift action (1 AP))—in the same round that it uses a quickened spell-like ability. The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level – 4. For a summary, see the table below.
 
 A spell-like ability that duplicates a spell with a casting time greater than 1 full round cannot be quickened.
 
-**Normal**: The use of a spell-like ability requires a standard action (at the very least) and provokes an attack of opportunity.
+**Normal**: The use of a spell-like ability requires a standard action (1 AP) (at the very least) and provokes an attack of opportunity.
 
 **Special**: This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability.
 
@@ -143,7 +143,7 @@ This creature can grab other creatures with ease.
 
 **Benefits**: The creature can start a grapple when it hits with a claw or bite attack, as though it had the grab ability. If it grapples a creature three or more sizes smaller than itself, it squeezes each round for automatic bite or claw damage with a successful grapple check. A snatched opponent held in the creature’s mouth is not allowed a Reflex save against the creature’s breath weapon, if it has one.
 
-The creature can drop a creature it has snatched as a free action or use a standard action to fling it aside. A flung creature travels 1d6 × 10 feet and takes 1d6 points of damage per 10 feet traveled. If the creature flings a snatched opponent while flying, the opponent takes this amount or falling damage, whichever is greater.
+The creature can drop a creature it has snatched as a free action or use a standard action (1 AP) to fling it aside. A flung creature travels 1d6 × 10 feet and takes 1d6 points of damage per 10 feet traveled. If the creature flings a snatched opponent while flying, the opponent takes this amount or falling damage, whichever is greater.
 
 ## Wingover
 

@@ -75,4 +75,4 @@ At 6th level, you gain [Explosive Weapon](../../rules/feats/explosive-weapon.md)
 
 #### Spell Critical (Su)
 
-At 10th level, whenever an eldritch knight successfully confirms a critical hit, he can cast a spell as a swift action. The spell must include the target of the attack as one of its targets or in its area of effect. Casting this spell does not provoke an attack of opportunity. The caster must still meet all of the spell’s components and must roll for arcane spell failure if necessary.
+At 10th level, whenever an eldritch knight successfully confirms a critical hit, he can cast a spell as a swift action (1 AP). The spell must include the target of the attack as one of its targets or in its area of effect. Casting this spell does not provoke an attack of opportunity. The caster must still meet all of the spell’s components and must roll for arcane spell failure if necessary.

@@ -14,7 +14,7 @@ You excel in a particular area thanks to your noble family's field of expertise.
 
 **Scion of Peace**: Choose one Wisdom-based skill. Once per day when you take 10 on this skill, you treat the result as if you had rolled an 18 instead of a 10.
 
-**Scion of War**: After rolling initiative, you can attempt a [Bluff](../skills/bluff.md) check as an immediate action to feint against a creature or an [Intimidate](../skills/intimidate.md) check to demoralize a creature. This can only affect creatures that act after you in the initiative count.
+**Scion of War**: After rolling initiative, you can attempt a [Bluff](../skills/bluff.md) check as an immediate action (1 AP of your next turn) to feint against a creature or an [Intimidate](../skills/intimidate.md) check to demoralize a creature. This can only affect creatures that act after you in the initiative count.
 
 ## Noble Scion Benefits by Court
 

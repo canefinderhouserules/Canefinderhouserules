@@ -289,7 +289,7 @@ Furthermore, when an agile plate torso armor piece is worn alone, it is consider
 
 **Armored Coat**: This sturdy leather coat is reinforced with metal plates sewn into the lining.
 
-While more cumbersome than other torso armor pieces, and less effective, it can be donned or removed with a move action (there is no “don hastily” option for the armored coat). This torso armor piece can be worn with other armors, but the wearer takes the best armor bonus instead of adding up all the armor bonuses.
+While more cumbersome than other torso armor pieces, and less effective, it can be donned or removed with a move action (1 AP) (there is no “don hastily” option for the armored coat). This torso armor piece can be worn with other armors, but the wearer takes the best armor bonus instead of adding up all the armor bonuses.
 
 **Banded Torso Armor Piece**: This armor piece is a shirt of overlapping metal plates reinforcing leather.
 

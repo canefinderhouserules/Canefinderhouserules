@@ -4,6 +4,6 @@ Your gaze is naturally drawn to valuable glittering objects.
 
 **Prerequisite**: Tengu.
 
-**Benefit**: You gain a +2 bonus on [Appraise](../skills/appraise.md) checks. You may determine the most valuable item in a hoard as a standard action and gain an additional +2 bonus on the Appraise check to do so. In addition, if you fail an Appraise check by 5 or more, you treat the check as if you had failed by less than 5.
+**Benefit**: You gain a +2 bonus on [Appraise](../skills/appraise.md) checks. You may determine the most valuable item in a hoard as a standard action (1 AP) and gain an additional +2 bonus on the Appraise check to do so. In addition, if you fail an Appraise check by 5 or more, you treat the check as if you had failed by less than 5.
 
-**Normal**: Determining the most valuable object in a treasure hoard takes 1 full-round action.
+**Normal**: Determining the most valuable object in a treasure hoard takes 1 full-round action (3 AP).

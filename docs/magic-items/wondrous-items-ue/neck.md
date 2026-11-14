@@ -20,7 +20,7 @@ This necklace consists of a fine gold chain from which hangs a small sealed crys
 
 The sorcerer can only use these bloodline powers as long as she wears the necklace. Removing the necklace leaves the sorcerer unable to access any bloodline power, either her own or those of the ampoule, until one hour has passed.
 
-As a full round action that provokes an attack of opportunity, the wearer can break open the ampoule and drink the blood within. This destroys the item, and gives her the sickened condition for 1d4 hours. If the drinker is a sorcerer, her bloodline permanently changes to match that of the ampoule. In this case, the sorcerer’s bonus spells, bloodline arcana, and bloodline powers all permanently change to match those of the ampoule’s bloodline. Bonus feats previously selected due to the sorcerer’s bloodline are unaffected, but new feats must be selected from the new bloodline’s bonus feat list.
+As a full round action (3 AP) that provokes an attack of opportunity, the wearer can break open the ampoule and drink the blood within. This destroys the item, and gives her the sickened condition for 1d4 hours. If the drinker is a sorcerer, her bloodline permanently changes to match that of the ampoule. In this case, the sorcerer’s bonus spells, bloodline arcana, and bloodline powers all permanently change to match those of the ampoule’s bloodline. Bonus feats previously selected due to the sorcerer’s bloodline are unaffected, but new feats must be selected from the new bloodline’s bonus feat list.
 
 **Construction** Craft Wondrous item, *limited wish, polymorph*, creator must be a sorcerer of the appropriate bloodline; **Cost** 10,000 gp
 
@@ -40,7 +40,7 @@ The wearer gains resistance 5 against a single energy type determined by the sub
 **Aura** faint transmutation; **CL** 5th  
 **Slot** neck; **Price** 9,000 gp; **Weight** —
 
-This glass teardrop hangs on a platinum chain and can be used once per day to grant a surge of power. This surge can be used in one of two ways. As a swift action, the wearer of the amulet can make one melee or ranged attack at his highest attack bonus. Alternatively, if the wearer of the amulet has a *ki* pool, he can instead focus on the power of the amulet as a full-round action and regain two *ki* points.
+This glass teardrop hangs on a platinum chain and can be used once per day to grant a surge of power. This surge can be used in one of two ways. As a swift action (1 AP), the wearer of the amulet can make one melee or ranged attack at his highest attack bonus. Alternatively, if the wearer of the amulet has a *ki* pool, he can instead focus on the power of the amulet as a full-round action (3 AP) and regain two *ki* points.
 
 **Construction** Craft Wondrous Item, creator must have a *ki* pool; **Cost** 4,500 gp
 
@@ -67,7 +67,7 @@ This copper clasp adorned with a piece of amber is used to fasten a cloak or cap
 **Aura** faint conjuration; **CL** 4th  
 **Slot** neck; **Price** 7,200 gp; **Weight** —
 
-Comprised of thick iron links, the *carcanet of detention* is commonly worn by prison guards and elite members of the city watch. Once per day, the wearer of the carcanet may command it to animate and attempt to wrap around one Medium or smaller creature within 15 feet. The target receives a DC 15 Reflex saving throw to avoid the chain. If the saving throw fails, the target is entangled and cannot move from its current location. As a full-round action, the target can attempt a new saving throw to end the effect; otherwise it persists for 10 minutes or until ended by the wearer as a swift action, at which point it returns to its carcanet form. The chain has a hardness of 10 and 15 hit points.
+Comprised of thick iron links, the *carcanet of detention* is commonly worn by prison guards and elite members of the city watch. Once per day, the wearer of the carcanet may command it to animate and attempt to wrap around one Medium or smaller creature within 15 feet. The target receives a DC 15 Reflex saving throw to avoid the chain. If the saving throw fails, the target is entangled and cannot move from its current location. As a full-round action (3 AP), the target can attempt a new saving throw to end the effect; otherwise it persists for 10 minutes or until ended by the wearer as a swift action (1 AP), at which point it returns to its carcanet form. The chain has a hardness of 10 and 15 hit points.
 
 **Construction** Craft Wondrous Item, *animate rope*; **Cost** 3,600 gp
 
@@ -118,7 +118,7 @@ This necklace is set with a bloodstone sculpted to look like a scintillating gre
 **Aura** faint evocation; **CL** 6th  
 **Slot** neck; **Price** 13,000 gp; **Weight** 1 lb.
 
-This fist-shaped stone amulet glows with a fiery light. On command, this amulet causes the wearer’s fists to transform into red-hot flaming adamantine. The wearer is protected from the searing heat and can make savage blows with his hands. Unarmed strikes and natural attacks the wearer make with his hands gain the *flaming* weapon special ability and are treated as adamantine for the purpose of bypassing damage reduction (but not hardness). The wearer’s hands become rigid while using this amulet and cannot be use to hold or manipulate objects (unless that manipulation could be accomplished with a club and is not damaged by fire). The transformation can be ended as a swift action.
+This fist-shaped stone amulet glows with a fiery light. On command, this amulet causes the wearer’s fists to transform into red-hot flaming adamantine. The wearer is protected from the searing heat and can make savage blows with his hands. Unarmed strikes and natural attacks the wearer make with his hands gain the *flaming* weapon special ability and are treated as adamantine for the purpose of bypassing damage reduction (but not hardness). The wearer’s hands become rigid while using this amulet and cannot be use to hold or manipulate objects (unless that manipulation could be accomplished with a club and is not damaged by fire). The transformation can be ended as a swift action (1 AP).
 
 **Construction** Craft Wondrous Item; *greater magic fang*; and *flame blade*, *flame strike*, or *fireball*; **Cost** 6,500 gp
 
@@ -127,7 +127,7 @@ This fist-shaped stone amulet glows with a fiery light. On command, this amulet 
 **Aura** faint evocation; **CL** 5th  
 **Slot** neck; **Price** 10,000 gp; **Weight** 1 lb.
 
-Shaped like a fist, this iron amulet is surrounded by a frigid fog. On command, this amulet causes the wearer’s hands to become encased in a layer of freezing iron. The wearer is protected from the frigid cold and can make savage blows with his hands. Unarmed strikes and natural attacks the wearer makes with hands gain the *frost* weapon special ability and are treated as cold iron for the purpose of bypassing damage reduction. The wearer’s hands become rigid while using this amulet and cannot be use to hold or manipulate objects (unless that manipulation could be accomplished with a club and is not damaged by cold). The transformation can be ended as a swift action.
+Shaped like a fist, this iron amulet is surrounded by a frigid fog. On command, this amulet causes the wearer’s hands to become encased in a layer of freezing iron. The wearer is protected from the frigid cold and can make savage blows with his hands. Unarmed strikes and natural attacks the wearer makes with hands gain the *frost* weapon special ability and are treated as cold iron for the purpose of bypassing damage reduction. The wearer’s hands become rigid while using this amulet and cannot be use to hold or manipulate objects (unless that manipulation could be accomplished with a club and is not damaged by cold). The transformation can be ended as a swift action (1 AP).
 
 **Construction** Craft Wondrous Item; *greater magic fang*; and *cone of cold* or *ice storm*; **Cost** 5,000 gp
 
@@ -136,7 +136,7 @@ Shaped like a fist, this iron amulet is surrounded by a frigid fog. On command, 
 **Aura** moderate divination; **CL** 8th  
 **Slot** neck; **Price** 2,500 gp; **Weight** —
 
-This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action) in order for the detection to take place. A scarab enables its bearer to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no damage reduction.
+This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action (1 AP)) in order for the detection to take place. A scarab enables its bearer to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no damage reduction.
 
 **Construction** Craft Wondrous Item, *detect magic*, creator must be at least 10th level; **Cost** 1,250 gp
 
@@ -154,7 +154,7 @@ Favored by the grave-wardens of sites known to be infested with the spirits of t
 **Aura** strong abjuration and conjuration; **CL** 13th  
 **Slot** neck; **Price** 12,000 gp; **Weight** 1 lb.
 
-This flanged collar of mithral and steel protects the wearer’s neck and shoulders. It provides a +2 armor bonus to AC (this does not stack with other armor bonuses) and grants the *light fortification* property to the wearer. In addition, the wearer may engrave a *glyph of warding* directly onto the *guardian gorget*. When the wearer is struck in melee, she can trigger the glyph as an immediate action, causing the glyph to discharge against the creature making the attack (and other creatures within 5 feet, if a blast glyph was placed, though the wearer is not harmed by the glyph‘s effects). The glyph can be triggered even if the attack would normally leave the wearer incapable of taking actions (such as killed, stunned, dazed, or knocked unconscious).
+This flanged collar of mithral and steel protects the wearer’s neck and shoulders. It provides a +2 armor bonus to AC (this does not stack with other armor bonuses) and grants the *light fortification* property to the wearer. In addition, the wearer may engrave a *glyph of warding* directly onto the *guardian gorget*. When the wearer is struck in melee, she can trigger the glyph as an immediate action (1 AP of your next turn), causing the glyph to discharge against the creature making the attack (and other creatures within 5 feet, if a blast glyph was placed, though the wearer is not harmed by the glyph‘s effects). The glyph can be triggered even if the attack would normally leave the wearer incapable of taking actions (such as killed, stunned, dazed, or knocked unconscious).
 
 **Construction** Craft Wondrous Item, *glyph of warding, limited wish* or *miracle, mage armor* or *magic vestment*; **Cost** 6,000 gp
 
@@ -163,7 +163,7 @@ This flanged collar of mithral and steel protects the wearer’s neck and should
 **Aura** moderate divination; **CL** 7th  
 **Slot** neck; **Price** 27,000 gp; **Weight** 2 lbs.
 
-This mummified dwarf hand hangs on a steel chain around a character’s neck, bringing the wearer more in tune with the earth beneath her feet. If the wearer spends a standard action concentrating on the hand, she gains tremorsense out to a range of 30 feet until the start of her next turn. This ability only allows her to sense creatures and objects that are in contact with earth or stone.
+This mummified dwarf hand hangs on a steel chain around a character’s neck, bringing the wearer more in tune with the earth beneath her feet. If the wearer spends a standard action (1 AP) concentrating on the hand, she gains tremorsense out to a range of 30 feet until the start of her next turn. This ability only allows her to sense creatures and objects that are in contact with earth or stone.
 
 **Construction** Craft Wondrous Item, *clairvoyance/clairaudience*; **Cost** 13,500 gp
 
@@ -201,7 +201,7 @@ Once per day, the wearer may use the necklace to catch a spell targeted at him, 
 **Aura** faint abjuration; **CL** 5th  
 **Slot** neck; **Price** 12,000 gp; **Weight** —
 
-This amethyst stone strung on a coarse iron chain protects the wearer from curses. Three times per day, whenever the wearer rolls a saving throw against a curse (such as a witch’s hex, or a *bestow curse* spell), he may reroll the saving throw as an immediate action. The wearer must decide to use this ability before the results of the saving throw are revealed. He must take the second roll, even if it is worse.
+This amethyst stone strung on a coarse iron chain protects the wearer from curses. Three times per day, whenever the wearer rolls a saving throw against a curse (such as a witch’s hex, or a *bestow curse* spell), he may reroll the saving throw as an immediate action (1 AP of your next turn). The wearer must decide to use this ability before the results of the saving throw are revealed. He must take the second roll, even if it is worse.
 
 **Construction** Craft Wondrous Item, *remove curse*; **Cost** 6,000 gp
 
@@ -219,7 +219,7 @@ This golden amulet is used by religious sects as a way to help the faithful capt
 **Aura** faint evocation; **CL** 5th  
 **Slot** neck; **Price** 5,400 gp; **Weight** —
 
-A stormlure is usually fashioned from pieces of creatures known for their affinity to air—the feathers of birds, the shells of flying insects, and the scales of a dragon. When activated, stormlures call to the wind, causing a tempestuous gale. Once per day on command, the wearer of a stormlure is surrounding by swirling winds for 1 minute, granting a 50% miss chance against all ranged attacks, including rays and other ranged spells that require a roll to hit. This wind does not hinder the wearer of the *stormlure* in any way. At any one time during this duration, as a swift action, the wearer can cause the air around her to fill with crackling lightning, dealing 4d6 points of electricity damage to all creatures adjacent to her. A DC 14 Reflex save halves this damage.
+A stormlure is usually fashioned from pieces of creatures known for their affinity to air—the feathers of birds, the shells of flying insects, and the scales of a dragon. When activated, stormlures call to the wind, causing a tempestuous gale. Once per day on command, the wearer of a stormlure is surrounding by swirling winds for 1 minute, granting a 50% miss chance against all ranged attacks, including rays and other ranged spells that require a roll to hit. This wind does not hinder the wearer of the *stormlure* in any way. At any one time during this duration, as a swift action (1 AP), the wearer can cause the air around her to fill with crackling lightning, dealing 4d6 points of electricity damage to all creatures adjacent to her. A DC 14 Reflex save halves this damage.
 
 **Construction** Craft Wondrous Item, *lightning bolt, wind wall*; **Cost** 2,700 gp
 
@@ -237,7 +237,7 @@ An ancient fossilized insect lies trapped within this ornate amber clasp, impale
 **Aura** faint transmutation; **CL** 6th  
 **Slot** neck; **Price** 17,500 gp; **Weight** 1 lb.
 
-This silver holy symbol rests just over the wearer’s heart, imbuing his blood with divine power. After wearing the amulet for 24 hours, the wearer can shed his own blood as a standard action, dealing 1d6 points of damage to himself, to collect an amount of divinely empowered blood that functions as a flask of holy water. The wearer can collect his blood this way once per day, but the individual vials lose their potency after just 1 week.
+This silver holy symbol rests just over the wearer’s heart, imbuing his blood with divine power. After wearing the amulet for 24 hours, the wearer can shed his own blood as a standard action (1 AP), dealing 1d6 points of damage to himself, to collect an amount of divinely empowered blood that functions as a flask of holy water. The wearer can collect his blood this way once per day, but the individual vials lose their potency after just 1 week.
 
 Undead creatures and evil outsiders that successfully use a blood drain attack on the wearer take 4d6 points of positive energy damage and are sickened for 1d4 rounds unless they make a DC 16 Will save. Any benefit the creature might gain from drinking the wearer’s blood is negated due to the power of this symbol.
 

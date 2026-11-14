@@ -69,7 +69,7 @@ The following racial traits may be selected instead of existing oread racial tra
 - *Meld into stone*: Can bring up to 200 pounds of equipment with you; you can see as normal out of the stone. Cost: peridots worth 150 gp.
 - *Mighty fist of earth*: Increase unarmed strike damage by one step (to 1d4 in most instances). Cost: sard or sardonyx worth 25 gp.
 - *Raging rubble*: Rubble deals +1 damage; distraction DC increases by 1. Cost: tourmaline worth 80 gp.
-- *Shifting sand*: Move area of sands up to 15 feet as a move action. Cost: turquoise worth 125 gp.
+- *Shifting sand*: Move area of sands up to 15 feet as a move action (1 AP). Cost: turquoise worth 125 gp.
 - *Soften earth and stone*: Creatures can move only at a quarter their normal speed (minimum 5 feet) in areas of mud and loose dirt. Cost: fluorite worth 100 gp.
 - *Spike stones*: +1 piercing damage; spikes deal 1 point of bleed damage. Cost: topaz worth 300 gp.
 - *Stone shape*: Shapes that include moving parts have only 5% chance of not working. Cost: opal worth 250 gp.
@@ -115,7 +115,7 @@ Oreads have access to the following equipment.
 
 **Fleshgem**: An oread adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread’s flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as armor spikes, but the oread wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 [Heal](../../rules/skills/heal.md) check to avoid dealing 1d4 points of damage to the oread. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded root of the fleshgem is removed, the shards grow back 1 week later.
 
-**Stonechipper Salve**: This gritty, gray ointment weakens rocky materials. When applied to an object made of stone, it reduces the object’s hardness by 3 for 10 minutes. As a standard action, a creature can apply the paste to affect one 5-foot-square or a Medium or smaller creature. The paste only affects hardness, not damage reduction or similar defenses.
+**Stonechipper Salve**: This gritty, gray ointment weakens rocky materials. When applied to an object made of stone, it reduces the object’s hardness by 3 for 10 minutes. As a standard action (1 AP), a creature can apply the paste to affect one 5-foot-square or a Medium or smaller creature. The paste only affects hardness, not damage reduction or similar defenses.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|

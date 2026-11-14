@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the bramble armor power of the Plant domain.*
 
-*Aura of Decay (Su): At 8th level, you can emit a 30-foot aura of decay as a standard action. Living creatures in this aura (except you) take 1d6 points of damage per round as their flesh rots. They also take a cumulative –1 penalty to Strength each round they remain in the aura. Once outside the aura, the penalty fades at the rate of –1 per round, but it begins building again if they reenter the aura. Plant creatures take 2d6 points of damage per round. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.*
+*Aura of Decay (Su): At 8th level, you can emit a 30-foot aura of decay as a standard action (1 AP). Living creatures in this aura (except you) take 1d6 points of damage per round as their flesh rots. They also take a cumulative –1 penalty to Strength each round they remain in the aura. Once outside the aura, the penalty fades at the rate of –1 per round, but it begins building again if they reenter the aura. Plant creatures take 2d6 points of damage per round. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.*
 
 ***Replacement Domain Spells**: 3rd—contagion, 4th—poison, 6th—harm.*
 
@@ -30,7 +30,7 @@
 
 ***Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.*
 
-*Enlarge (Su): As a swift action you can enlarge yourself for 1 round, as if you were the target of the enlarge person spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Enlarge (Su): As a swift action (1 AP) you can enlarge yourself for 1 round, as if you were the target of the enlarge person spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—enlarge person, 5th—righteous might.*
 
@@ -44,7 +44,7 @@
 
 *Leshy Caller (Sp): You can spontaneously swap out any of your domain spells for a summon nature’s ally spell of the same level or lower, to a maximum of summon nature’s ally VII. If you do, you must use the spell to summon one or more leshys. Add leaf leshy, gourd leshy, fungus leshy, seaweed leshy, and lotus leshy to your summon nature’s ally I, II, III, IV, and V lists, respectively. You count as a plant creature for the purpose of creating leshys.*
 
-*As a standard action, you can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll before the start of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*As a standard action (1 AP), you can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll before the start of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—tree shape, 5th—commune with nature.*
 
@@ -58,7 +58,7 @@
 
 ***Replacement Power**: The following granted power replaces the wooden fist power of the Plant domain.*
 
-*Cruel Thicket (Su): As a standard action, you can cause the ground in a 5-foot-radius burst centered on you to sprout twisting, thorny vines. Any creature moving through it must travel at half speed or take bleed damage equal to half your cleric level; if you activate this ability in an area with numerous plants (grass, weeds, trees, etc.), the area also becomes difficult terrain. These effects last for 1 minute, after which the vines crumble to dust. Creatures able to move through natural undergrowth unhindered ignore the effects of this ability. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Cruel Thicket (Su): As a standard action (1 AP), you can cause the ground in a 5-foot-radius burst centered on you to sprout twisting, thorny vines. Any creature moving through it must travel at half speed or take bleed damage equal to half your cleric level; if you activate this ability in an area with numerous plants (grass, weeds, trees, etc.), the area also becomes difficult terrain. These effects last for 1 minute, after which the vines crumble to dust. Creatures able to move through natural undergrowth unhindered ignore the effects of this ability. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—thorn javelin, 3rd— thorny entanglement, 4th—thorn body.*
 
@@ -74,6 +74,6 @@ You have a strong connection to these little manifestations of nature spirits.
 
 **Leshy Caller (Sp)**: You can spontaneously swap out any of your domain spells for a summon nature’s ally spell of the same level or lower, to a maximum of summon nature’s ally VII. If you do, you must use the spell to summon one or more leshys. Add leaf leshy, gourd leshy, fungus leshy, seaweed leshy, and lotus leshy to your summon nature’s ally I, II, III, IV, and V lists, respectively. You count as a plant creature for the purpose of creating leshys.
 
-As a standard action, you can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll before the start of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+As a standard action (1 AP), you can grant a single leshy within 30 feet a +4 sacred bonus on its next attack roll before the start of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 1st—tree shape, 5th—commune with nature.

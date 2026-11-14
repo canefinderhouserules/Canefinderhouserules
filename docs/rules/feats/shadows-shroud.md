@@ -6,7 +6,7 @@ You can camouflage yourself in shadows and gloom.
 
 **Prerequisites**: Knowledge (planes) 5 ranks.
 
-**Benefit**: As a swift action, you can shroud yourself in shifting, camouflaging shadow. While shrouded in this fashion, you can attempt [Stealth](../skills/stealth.md) checks as though you had concealment, even in areas of normal or bright light. Creatures that can see normally in supernatural darkness can still see you normally.
+**Benefit**: As a swift action (1 AP), you can shroud yourself in shifting, camouflaging shadow. While shrouded in this fashion, you can attempt [Stealth](../skills/stealth.md) checks as though you had concealment, even in areas of normal or bright light. Creatures that can see normally in supernatural darkness can still see you normally.
 
 You can use this feat's benefit for a number of rounds per day equal to your ranks in [Knowledge](../skills/knowledge.md) (planes). These rounds need not be consecutive.
 

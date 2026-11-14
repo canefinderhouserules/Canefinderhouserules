@@ -25,7 +25,7 @@ Your training allows you to slip out of bonds and escape from grapples.
 | Masterwork manacles | 35 |
 | Grappler | Grappler’s CMD |
 
-**Action**: Making an Escape Artist check to escape from rope bindings, manacles, or other restraints (except a grappler) requires 1 minute of work. Escaping from a net or an *animate rope, command plants, control plants,* or *entangle* spell is a full-round action. Escaping from a grapple or pin is a standard action. Squeezing through a tight space takes at least 1 minute, maybe longer, depending on how long the space is.
+**Action**: Making an Escape Artist check to escape from rope bindings, manacles, or other restraints (except a grappler) requires 1 minute of work. Escaping from a net or an *animate rope, command plants, control plants,* or *entangle* spell is a full-round action (3 AP). Escaping from a grapple or pin is a standard action (1 AP). Squeezing through a tight space takes at least 1 minute, maybe longer, depending on how long the space is.
 
 **Try Again**: Varies. You can make another check after a failed check if you’re squeezing your way through a tight space, making multiple checks. If the situation permits, you can make additional checks, or even take 20, as long as you’re not being actively opposed. If the DC to escape from rope or bindings is higher than 20 + your Escape Artist skill bonus, you cannot escape from the bonds using Escape Artist.
 

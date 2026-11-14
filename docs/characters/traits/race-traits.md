@@ -96,7 +96,7 @@ Only gnomes may select one of these traits.
 
 **Devout Zealot**: You aren't just faithful to the worship of your patron deity—you are obsessively loyal to all of the faith's tenets and guidelines. Your devotion is an anchor that keeps you from drifting away into the throes of the Bleaching, and you cling to it like the life raft it is. You must match the alignment of your chosen deity exactly. You gain a +1 trait bonus on Knowledge (religion) checks, and that skill is a class skill for you. As long as you remain completely faithful to the tenets of your faith (as determined by the GM), you never suffer from the Bleaching.
 
-**Charlatan**: Your talent for illusion goes beyond a mere knack for figments and phantasms. You can actually channel spell energy into simple illusions that augment your attempts at deception. As a swift action, you may expend one prepared spell or spell slot to gain a bonus on the next Bluff check you make, provided the check takes place before the beginning of your next turn. The bonus on this check is equal to the level of the spell consumed. You may use this ability 3 times per day. Only gnomes of nonlawful alignment may take this trait.
+**Charlatan**: Your talent for illusion goes beyond a mere knack for figments and phantasms. You can actually channel spell energy into simple illusions that augment your attempts at deception. As a swift action (1 AP), you may expend one prepared spell or spell slot to gain a bonus on the next Bluff check you make, provided the check takes place before the beginning of your next turn. The bonus on this check is equal to the level of the spell consumed. You may use this ability 3 times per day. Only gnomes of nonlawful alignment may take this trait.
 
 **Naturally Gifted**: For unknown reasons, you have deeper reserves of magical energy than those around you. You gain an additional use of one of your gnome magic spell-like abilities each day. This does not always have to be the same spell-like ability—one day you might use [*dancing lights*](../../magic/spells/dancing-lights.md) twice, only to use the additional casting for [*speak with animals*](../../magic/spells/speak-with-animals.md) the next day.
 
@@ -122,7 +122,7 @@ Only gnomes may select one of these traits.
 
 Only goblins may select one of these traits.
 
-**Advantageous Distraction**: Like most goblins, you're easily distracted. Unlike most goblins, though, you have a knack for being distracted at the right time, especially when it comes to avoiding pain. Once per day as a swift action, you can be momentarily distracted in combat—ducking an axe swing to inspect a toadstool, or stooping behind a tree to lick some bark and accidentally avoiding an arrow, and so on. When you activate this ability, you gain a +2 dodge bonus to your AC for 1 round.
+**Advantageous Distraction**: Like most goblins, you're easily distracted. Unlike most goblins, though, you have a knack for being distracted at the right time, especially when it comes to avoiding pain. Once per day as a swift action (1 AP), you can be momentarily distracted in combat—ducking an axe swing to inspect a toadstool, or stooping behind a tree to lick some bark and accidentally avoiding an arrow, and so on. When you activate this ability, you gain a +2 dodge bonus to your AC for 1 round.
 
 **Balloon Headed**: Your head is particularly wide and large, even for a goblin. You gain a +1 trait bonus on Perception checks, and Perception is always a class skill for you. Any Escape Artist checks that require you to squeeze your head through a tight space take a –8 penalty.
 
@@ -134,7 +134,7 @@ Only goblins may select one of these traits.
 
 **Dog-Sniff-Hate**: You gain the scent special quality but only against canine creatures, like dogs or wolves, including monstrous hounds such as hell hounds, yeth hounds, and even werewolves. You gain a +2 trait bonus on attack rolls against dogs you can smell.
 
-**Foul Belch**: Once per day as a standard action, you can force a particularly odious belch at a single opponent within 5 feet. The character affected must make a DC 12 Fortitude save or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d6 rounds. The save DC is Constitution-based.
+**Foul Belch**: Once per day as a standard action (1 AP), you can force a particularly odious belch at a single opponent within 5 feet. The character affected must make a DC 12 Fortitude save or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d6 rounds. The save DC is Constitution-based.
 
 **Goblin Foolhardiness**: You have a tendency toward gross overconfidence in combat. When facing an enemy that's larger than you are, if you have no allies in any adjacent squares, your posturing, bravado, and cussing grant you a +1 trait bonus on attack rolls with non-reach melee weapons.
 
@@ -160,7 +160,7 @@ Only goblins may select one of these traits.
 
 **Strength of the Barghest** (worship of a goblin deity of supremacy): The blood of the barghests is strong in you. Once per day as a free action, you can gain a +2 trait bonus on any Strength check or Strength-based skill check.
 
-**Wolf Cub** (worship of a goblin deity of dog killing and fire): Your body has clumps of ugly fur, a sure sign of wolf blood! Once per day as a standard action, you can take a deep breath through your nose to gain the scent ability for 1 minute.
+**Wolf Cub** (worship of a goblin deity of dog killing and fire): Your body has clumps of ugly fur, a sure sign of wolf blood! Once per day as a standard action (1 AP), you can take a deep breath through your nose to gain the scent ability for 1 minute.
 
 ## Half-Elf Traits
 
@@ -202,7 +202,7 @@ Only half-orcs may select one of these traits.
 
 **Irritable Diplomat**: Most people expect half-orcs to be savage and violent, and you're used to working a little harder to overcome their assumptions. Unfortunately, you're still working on keeping patient when they ignore your efforts. Once per day, you may choose to gain a +5 trait bonus on any Diplomacy check, but if it fails, you take a –2 penalty on all Charisma-based checks for the next 10 minutes.
 
-**Wild Ferocity**: Select one terrain type from the ranger's favored terrain list. While in this terrain type, taking a standard action while disabled does not cause you to take the normal 1 point of damage. You can use this trait when acting as if disabled despite having a negative hit point total as a result of orc ferocity or the Diehard feat.
+**Wild Ferocity**: Select one terrain type from the ranger's favored terrain list. While in this terrain type, taking a standard action (1 AP) while disabled does not cause you to take the normal 1 point of damage. You can use this trait when acting as if disabled despite having a negative hit point total as a result of orc ferocity or the Diehard feat.
 
 ## Halfling Traits
 
@@ -270,7 +270,7 @@ Only humans may select one of these traits.
 
 **Master of the Sudden Strike** (eastern culture): You have mastered the deadly fighting arts of your people, and when you wield a masterwork version of any sword, you become one with its blade. If you act before your opponent during the surprise round, you gain a +2 trait bonus on weapon damage rolls for the surprise round only. This additional damage is precision damage.
 
-**Open Palm** (martial-arts culture): Your practice of the tenets of your people's martial arts has granted you a perfect balance between body and spirit. You gain a +1 trait bonus on Acrobatics and Knowledge (religion) checks. If you have a ki pool, once per day as a swift action, you may channel your ki during an unarmed strike, gaining a +2 trait bonus on one damage roll. This additional damage is precision damage.
+**Open Palm** (martial-arts culture): Your practice of the tenets of your people's martial arts has granted you a perfect balance between body and spirit. You gain a +1 trait bonus on Acrobatics and Knowledge (religion) checks. If you have a ki pool, once per day as a swift action (1 AP), you may channel your ki during an unarmed strike, gaining a +2 trait bonus on one damage roll. This additional damage is precision damage.
 
 **Operatic** (lawful empire): You grew up in wonder of the theater, and spent countless hours in opera houses and even more time perfecting your voice. You gain a +1 trait bonus on Perform (sing) checks. Furthermore you have memorized the librettos of many works sung in an ancient tongue, granting you a +2 trait bonus on Linguistics checks when trying to decipher that ancient language.
 
@@ -374,7 +374,7 @@ Only kobolds may select these traits. Kobold characters aren't restricted from t
 
 ### Black-Scaled
 
-**Bog Scamp**: You were raised in the sludgy swamps, and are used to moving through boggy terrain. You can swim through a deep bog at up to half your speed as a move action, instead of the normal quarter speed. Failing a Swim check while in a deep bog doesn't cause you to go underwater, even if you fail by 5 or more, though such a failure still results in a lack of progress.
+**Bog Scamp**: You were raised in the sludgy swamps, and are used to moving through boggy terrain. You can swim through a deep bog at up to half your speed as a move action (1 AP), instead of the normal quarter speed. Failing a Swim check while in a deep bog doesn't cause you to go underwater, even if you fail by 5 or more, though such a failure still results in a lack of progress.
 
 **Ooze Defense**: The murky tunnels of your tribal home were infested with voracious oozes, so you and your tribespeople never strayed far without anti-ooze acid. You begin play with three alkali flasks. These don't count against your starting character wealth.
 
@@ -468,7 +468,7 @@ Only orcs and half-orcs may select these traits.
 
 **Water Brave** (river lands): Travel through dangerous waters has given your tribe special skills in relation to them. You receive a +1 trait bonus on Swim checks, and it becomes a class skill.
 
-**Blessing of the Feast** (cannibal cult): You come from a cannibal tribe, and find strength in the flesh of your foes. Whenever you eat the flesh or drink the blood of another orc (a full-round action that provokes attacks of opportunity), you gain a +1 natural armor bonus for 1 minute/level. You can only receive this benefit once per day.
+**Blessing of the Feast** (cannibal cult): You come from a cannibal tribe, and find strength in the flesh of your foes. Whenever you eat the flesh or drink the blood of another orc (a full-round action (3 AP) that provokes attacks of opportunity), you gain a +1 natural armor bonus for 1 minute/level. You can only receive this benefit once per day.
 
 **Fury** (god of destruction): The flood of battle and destruction stirs deep within you. When wielding a greataxe, you receive a +2 trait bonus on attack rolls to confirm critical hits.
 
@@ -482,7 +482,7 @@ Only androids may select these traits.
 
 **Cellular Match**: Whenever you are affected by a polymorph spell or effect, your nanites adjust completely at a molecular level. For the duration of the polymorph effect, you are treated as only a humanoid for the purpose of effects that target creatures by type. For example, a ranger's favored enemy bonus against constructs wouldn't apply to you while you are polymorphed, but nor would spells such as [*make whole*](../../magic/spells/make-whole.md). This trait modifies part of the android's constructed racial trait, but otherwise that trait is unchanged (a polymorphed android still can't gain morale bonuses, is still immune to fear, and so on).
 
-**Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or [helpless](../../rules/appendices/conditions.md#helpless). This does not count as a use of your nanite surge ability.
+**Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action (1 AP of your next turn), you can command your nanites to stabilize you while you are dying, even while unconscious or [helpless](../../rules/appendices/conditions.md#helpless). This does not count as a use of your nanite surge ability.
 
 **Blood Algorithm**: Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor. Additionally, once per day when you are healed by a spell that targets constructs (such as a [*make whole*](../../magic/spells/make-whole.md) spell), you heal 1 extra hit point per level of the spell.
 
@@ -490,7 +490,7 @@ Only androids may select these traits.
 
 Only kasathas may select these traits.
 
-**Adroit**: If one of your hands is free and your base attack bonus is +1 or higher, you can draw a weapon as a free action combined with any move action (including move actions to direct spells, manipulate items, stand up, and so on).
+**Adroit**: If one of your hands is free and your base attack bonus is +1 or higher, you can draw a weapon as a free action combined with any move action (1 AP) (including move actions to direct spells, manipulate items, stand up, and so on).
 
 **Spidery Climber**: More hands means more handholds. You gain a +1 trait bonus on Climb checks. In addition, as long as you have two hands free, the DC to catch yourself on a wall while falling is equal to the wall's DC + 10, and the DC to catch yourself on a slope is equal to the slope's DC + 5.
 
@@ -500,7 +500,7 @@ Only lashunta may select these traits.
 
 **Skilled Telepath**: The range of your limited telepathy racial ability increases by 5 feet.
 
-**Tactile Telekinesis**: Once per day as a swift action, you can add a trait bonus equal to your Intelligence modifier on Strength checks and Strength-based skill checks you attempt before the beginning of your next turn.
+**Tactile Telekinesis**: Once per day as a swift action (1 AP), you can add a trait bonus equal to your Intelligence modifier on Strength checks and Strength-based skill checks you attempt before the beginning of your next turn.
 
 ## Triaxian Traits
 
@@ -554,7 +554,7 @@ Only tieflings may select one of these traits.
 
 **Dark Magic Affinity**: You have an instinctive talent for unleashing the vilest spells, letting the taint in your blood empower your malicious magic. Whenever you cast a spell with the evil descriptor, you act as if you were one level higher for the purpose of determining that spell's effects.
 
-**Enduring Heritage**: You can channel your evil ancestry to take advantage of any effects for which such an identity would matter (such as [*detect evil*](../../magic/spells/detect-evil.md)). You detect as an evil outsider with the same number of HD as you possess. You can begin or end this effect as a swift action. You can maintain this effect for a number of rounds per day equal to your HD.
+**Enduring Heritage**: You can channel your evil ancestry to take advantage of any effects for which such an identity would matter (such as [*detect evil*](../../magic/spells/detect-evil.md)). You detect as an evil outsider with the same number of HD as you possess. You can begin or end this effect as a swift action (1 AP). You can maintain this effect for a number of rounds per day equal to your HD.
 
 **Ever Wary**: Constant fear that your fiendish nature might provoke a sudden attack ensures that you never completely let down your guard. During the surprise round and before your first action in combat, you can apply half your Dexterity bonus (if any) to your AC. You still count as flat-footed for the purposes of attacks and effects.
 
@@ -577,7 +577,7 @@ Only tieflings may select one of these traits.
 
 **Shadow Stabber**: An instinct for dishonorable conduct serves you well when fighting opponents who are blind, oblivious, or blundering around in the dark. You gain a +2 trait bonus on melee weapon damage rolls made against foes that cannot see you.
 
-**Suicidal**: Shame and horror fill your subconscious, and you never stop looking for ways to grant yourself the peace of the grave. Once per day, as an immediate action, you can make yourself the target of any attack originally directed against a creature occupying an adjacent square.
+**Suicidal**: Shame and horror fill your subconscious, and you never stop looking for ways to grant yourself the peace of the grave. Once per day, as an immediate action (1 AP of your next turn), you can make yourself the target of any attack originally directed against a creature occupying an adjacent square.
 
 **Twilight Zeal**: The gloom of night and of the places beyond the reach of the sun gives you comfort and courage. You gain a +1 trait bonus on Will saving throws when in dim light or darkness.
 
@@ -597,13 +597,13 @@ Only ifrits may select one of these traits.
 
 **Fiery Glare**: You can use your unearthly nature to frighten others. You can always take 10 on Intimidate checks, even in combat.
 
-**Snap Ignition**: You are a pyromaniac by nature and love nothing more than setting fires. As a full-round action, you can produce a small flame at the end of your finger that ignites combustible materials as a tindertwig. Alternatively, you can maintain a flame equivalent to a candle by spending a standard action each round to concentrate on it.
+**Snap Ignition**: You are a pyromaniac by nature and love nothing more than setting fires. As a full-round action (3 AP), you can produce a small flame at the end of your finger that ignites combustible materials as a tindertwig. Alternatively, you can maintain a flame equivalent to a candle by spending a standard action (1 AP) each round to concentrate on it.
 
 ## Oread Traits
 
 Only oreads may select one of these traits.
 
-**Earthsense**: You were inexplicably transformed in the womb by elemental forces, making your connection to the earth exceptionally strong. As a swift action, you can gain tremorsense to a range of 60 feet until the beginning of your next turn. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and every 5 levels thereafter, to a maximum of five times per day at 20th level.
+**Earthsense**: You were inexplicably transformed in the womb by elemental forces, making your connection to the earth exceptionally strong. As a swift action (1 AP), you can gain tremorsense to a range of 60 feet until the beginning of your next turn. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and every 5 levels thereafter, to a maximum of five times per day at 20th level.
 
 **Statuesque**: You inherited the statuesque physical features of your genie ancestor. Disguise becomes a class skill for you, and you gain a +2 trait bonus on Disguise checks to disguise yourself as a statue made of a specific type of stone, such as marble, sandstone, or alabaster. Furthermore, you take none of the penalties normally associated with disguising yourself as a different type of creature. You must choose the type of stone you resemble when you take this trait; once chosen, it cannot be changed.
 
@@ -723,7 +723,7 @@ Only skinwalkers may select the traits in this section (the heritage sections ar
 
 **Crocodile Swim**: You grew up near crocodiles, learning to move as they do. You gain a +2 trait bonus on Swim and Stealth checks while moving at half speed or less and mostly or completely underwater. One of these skills (your choice) becomes a class skill for you.
 
-**Terrifying Lunge**: Once badly bitten by a stronger werecrocodile-kin, you learned the importance of showing your strength. Once per day, when you hit a flat-footed foe with a melee attack, you can make an Intimidate check to demoralize that foe as a swift action. Intimidate becomes a class skill for you.
+**Terrifying Lunge**: Once badly bitten by a stronger werecrocodile-kin, you learned the importance of showing your strength. Once per day, when you hit a flat-footed foe with a melee attack, you can make an Intimidate check to demoralize that foe as a swift action (1 AP). Intimidate becomes a class skill for you.
 
 ### Wererat-Kin Traits
 
@@ -745,9 +745,9 @@ Only skinwalkers may select the traits in this section (the heritage sections ar
 
 ### Werewolf-Kin Traits
 
-**Lycanthropic Bloodlust**: When your lycanthropic heritage awakened, you thrilled at any excuse for violence. Although you might have learned to focus or suppress this urge, it still gives you energy in a fight. Once per day, when you deal damage to a foe with a natural attack, you may gain 1d6 temporary hit points as an immediate action. These temporary hit points last for 1 minute.
+**Lycanthropic Bloodlust**: When your lycanthropic heritage awakened, you thrilled at any excuse for violence. Although you might have learned to focus or suppress this urge, it still gives you energy in a fight. Once per day, when you deal damage to a foe with a natural attack, you may gain 1d6 temporary hit points as an immediate action (1 AP of your next turn). These temporary hit points last for 1 minute.
 
-**Shared Curse**: A portion of your ancestor's fell curse still courses through your blood. Once per day as a standard action, you can share a portion of your accursed heritage with a willing ally by dealing 1 point of damage to that ally with a natural weapon. The ally gains a natural bite attack, as if from your skinwalker ability, for 2 rounds.
+**Shared Curse**: A portion of your ancestor's fell curse still courses through your blood. Once per day as a standard action (1 AP), you can share a portion of your accursed heritage with a willing ally by dealing 1 point of damage to that ally with a natural weapon. The ally gains a natural bite attack, as if from your skinwalker ability, for 2 rounds.
 
 **Curse in the Blood**: You gain a +1 trait bonus on saving throws against curses. You treat your caster level as 1 higher when casting spells and spell-like abilities with the curse descriptor.
 
@@ -769,7 +769,7 @@ Only changelings can select these traits.
 
 Only drow can select these traits.
 
-**Arcane Prodigy**: Once per day as an immediate action, you can double the duration of one of your racial spell-like abilities, as if using the [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat.
+**Arcane Prodigy**: Once per day as an immediate action (1 AP of your next turn), you can double the duration of one of your racial spell-like abilities, as if using the [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat.
 
 **Poisonous Upbringing**: There were a few touchy moments in your education in the use of poisons. You gain a +2 trait bonus on all saves to resist poison effects.
 

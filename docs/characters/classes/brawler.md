@@ -59,17 +59,17 @@ If the brawler's Intelligence score is less than 13, it counts as 13 for the pur
 
 ### Martial Flexibility (Ex)
 
-A brawler can take a move action to gain the benefit of a combat feat she doesn't possess. This effect lasts for 1 minute. The brawler must meet all the feat's prerequisites. She may use this ability a number of times per day equal to 3 + 1/2 her brawler level (minimum 1).
+A brawler can take a move action (1 AP) to gain the benefit of a combat feat she doesn't possess. This effect lasts for 1 minute. The brawler must meet all the feat's prerequisites. She may use this ability a number of times per day equal to 3 + 1/2 her brawler level (minimum 1).
 
 The brawler can use this ability again before the duration expires in order to replace the previous combat feat with another choice.
 
 If a combat feat has a daily use limitation (such as [Stunning Fist](../../rules/feats/stunning-fist.md)), any uses of that combat feat while using this ability count toward that feat's daily limit.
 
-At 6th level, a brawler can use this ability to gain the benefit of two combat feats at the same time. She may select one feat as a swift action or two feats as a move action. She may use one of these feats to meet a prerequisite of the second feat; doing so means that she cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward her daily uses of this ability. At 10th level, a brawler can use this ability to gain the benefit of three combat feats at the same time. She may select one feat as a free action, two feats as a swift action, or three feats as a move action. She may use one of the feats to meet a prerequisite of the second and third feats, and use the second feat to meet a prerequisite of the third feat. Each individual feat selected counts toward her daily uses of this ability.
+At 6th level, a brawler can use this ability to gain the benefit of two combat feats at the same time. She may select one feat as a swift action (1 AP) or two feats as a move action (1 AP). She may use one of these feats to meet a prerequisite of the second feat; doing so means that she cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward her daily uses of this ability. At 10th level, a brawler can use this ability to gain the benefit of three combat feats at the same time. She may select one feat as a free action, two feats as a swift action (1 AP), or three feats as a move action (1 AP). She may use one of the feats to meet a prerequisite of the second and third feats, and use the second feat to meet a prerequisite of the third feat. Each individual feat selected counts toward her daily uses of this ability.
 
-At 12th level, a brawler can use this ability to gain the benefit of one combat feat as an immediate action or three combat feats as a swift action. Each individual feat selected counts toward her daily uses of this ability.
+At 12th level, a brawler can use this ability to gain the benefit of one combat feat as an immediate action (1 AP of your next turn) or three combat feats as a swift action (1 AP). Each individual feat selected counts toward her daily uses of this ability.
 
-At 20th level, a brawler can use this ability to gain the benefit of any number of combat feats as a swift action. Each feat selected counts toward her daily uses of this ability.
+At 20th level, a brawler can use this ability to gain the benefit of any number of combat feats as a swift action (1 AP). Each feat selected counts toward her daily uses of this ability.
 
 ### Martial Training (Ex)
 
@@ -104,6 +104,9 @@ Starting at 2nd level, a brawler can make a brawler's flurry as a full-attack ac
 
 A brawler applies her full Strength modifier to her damage rolls for all attacks made with brawler's flurry, whether the attacks are made with an off-hand weapon or a weapon wielded in both hands. A brawler can substitute disarm, sunder, and trip combat maneuvers for unarmed attacks as part of brawler's flurry. A brawler with natural weapons can't use such weapons as part of brawler's flurry, nor can she make natural weapon attacks in addition to her brawler's flurry attacks. At 8th level, the brawler gains use of the [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md) feat when using brawler's flurry. At 15th level, she gains use of the [Greater Two-Weapon Fighting](../../rules/feats/greater-two-weapon-fighting.md) feat when using brawler's flurry.
 
+??? tip apr "Action Points (optional rule)"
+    Brawler's flurry works like [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md): 2 AP for two attacks at –2, and a third attack that turn at –10 (–5 and then –2 as the brawler gains the improved and greater versions).
+
 ### Maneuver Training (Ex)
 
 At 3rd level, a brawler can select one combat maneuver to receive additional training. She gains a +1 bonus on combat maneuver checks when performing that combat maneuver and a +1 bonus to her CMD when defending against that maneuver.
@@ -118,7 +121,7 @@ These bonuses to AC apply against touch attacks. She loses these bonuses while i
 
 ### Knockout (Ex)
 
-At 4th level, once per day a brawler can unleash a devastating attack that can instantly knock a target [unconscious](../../rules/appendices/conditions.md#unconscious). She must announce this intent before making her attack roll. If the brawler hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the brawler's level + the higher of the brawler's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full-round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the brawler may use this ability twice per day; at 16th level, she may use it three times per day.
+At 4th level, once per day a brawler can unleash a devastating attack that can instantly knock a target [unconscious](../../rules/appendices/conditions.md#unconscious). She must announce this intent before making her attack roll. If the brawler hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the brawler's level + the higher of the brawler's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full-round action (3 AP) that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the brawler may use this ability twice per day; at 16th level, she may use it three times per day.
 
 ### Brawler's Strike (Ex)
 
@@ -130,11 +133,11 @@ At 5th level, a brawler's damage with close weapons increases. When wielding a c
 
 ### Awesome Blow (Ex)
 
-At 16th level, the brawler can as a standard action perform an awesome blow combat maneuver against a corporeal creature of her size or smaller. If the combat maneuver check succeeds, the opponent takes damage as if the brawler hit it with the close weapon she is wielding or an unarmed strike, it is knocked flying 10 feet in a direction of the brawler's choice, and it falls [prone](../../rules/appendices/conditions.md#prone). The brawler can only push the opponent in a straight line, and the opponent can't move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle. (Unlike the Awesome Blow monster feat, the brawler can be of any size to use this ability.)
+At 16th level, the brawler can as a standard action (1 AP) perform an awesome blow combat maneuver against a corporeal creature of her size or smaller. If the combat maneuver check succeeds, the opponent takes damage as if the brawler hit it with the close weapon she is wielding or an unarmed strike, it is knocked flying 10 feet in a direction of the brawler's choice, and it falls [prone](../../rules/appendices/conditions.md#prone). The brawler can only push the opponent in a straight line, and the opponent can't move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle. (Unlike the Awesome Blow monster feat, the brawler can be of any size to use this ability.)
 
 ### Improved Awesome Blow (Ex)
 
-At 20th level, the brawler can use her awesome blow ability as an attack rather than as a standard action. She may use it on creatures of any size. If the maneuver roll is a natural 20, the brawler can immediately attempt to confirm the critical by rolling another combat maneuver check with all the same modifiers as the one just rolled; if the confirmation roll is successful, the attack deals double damage, and the damage from hitting an obstacle (if any) is also doubled.
+At 20th level, the brawler can use her awesome blow ability as an attack rather than as a standard action (1 AP). She may use it on creatures of any size. If the maneuver roll is a natural 20, the brawler can immediately attempt to confirm the critical by rolling another combat maneuver check with all the same modifiers as the one just rolled; if the confirmation roll is successful, the attack deals double damage, and the damage from hitting an obstacle (if any) is also doubled.
 
 ## Favored Class Bonuses
 

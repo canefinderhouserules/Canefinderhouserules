@@ -78,15 +78,15 @@ As a low templar advances, he must eventually decide how closely he wishes to he
 
 #### Live to Fight Another Day (Ex)
 
-At 6th level, a low templar can use the withdraw action as a standard action, although if he does so, he can only move at his speed (not double his speed).
+At 6th level, a low templar can use the withdraw action as a standard action (1 AP), although if he does so, he can only move at his speed (not double his speed).
 
 #### Ruthless (Ex)
 
-Whenever a low templar kills a foe or reduces it to a dying state with a melee attack, he can immediately make another attack with the same weapon at the same attack bonus as a swift action. This additional attack can be made on any legal target. The low templar gains a bonus on damage rolls with this swift action attack equal to his character level.
+Whenever a low templar kills a foe or reduces it to a dying state with a melee attack, he can immediately make another attack with the same weapon at the same attack bonus as a swift action (1 AP). This additional attack can be made on any legal target. The low templar gains a bonus on damage rolls with this swift action (1 AP) attack equal to his character level.
 
 #### Parting Shot (Ex)
 
-At 9th level, a low templar can use the withdraw action as a move action, although if he does so, he can only move at his speed (not double his speed).
+At 9th level, a low templar can use the withdraw action as a move action (1 AP), although if he does so, he can only move at his speed (not double his speed).
 
 #### Damnation/Redemption (Su)
 

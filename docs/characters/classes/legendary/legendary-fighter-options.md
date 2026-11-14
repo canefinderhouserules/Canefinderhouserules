@@ -46,9 +46,9 @@ When the fighter deals a critical hit with a weapon he has selected with the Wea
 
 **Dazzling Intimidation (Ex)**
 
-While wielding a weapon, the fighter applies his weapon training bonus on [Intimidate](../../../rules/skills/intimidate.md) checks and can attempt an Intimidate check to demoralize an opponent as a move action instead of a standard action. If he has the Dazzling Display feat, he can use it as a standard action instead of a full-round action.
+While wielding a weapon, the fighter applies his weapon training bonus on [Intimidate](../../../rules/skills/intimidate.md) checks and can attempt an Intimidate check to demoralize an opponent as a move action (1 AP) instead of a standard action. If he has the Dazzling Display feat, he can use it as a standard action (1 AP) instead of a full-round action.
 
-If the fighter succeeds at demoralizing a creature as part of successfully attacking it with a weapon, or using a free, immediate, or swift action triggered by a successful attack on a creature (such as the Cornugon Smash Devils or Enforcer feats), then the demoralizing effect’s duration on that creature increases by a number of rounds equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus.
+If the fighter succeeds at demoralizing a creature as part of successfully attacking it with a weapon, or using a free, immediate, or swift action (1 AP) triggered by a successful attack on a creature (such as the Cornugon Smash Devils or Enforcer feats), then the demoralizing effect’s duration on that creature increases by a number of rounds equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus.
 
 **Defensive Weapon Training (Ex)**
 
@@ -88,7 +88,7 @@ If the fighter has the Stand Still feat, when he hits an adjacent foe with an at
 
 **Spell Parry (Su)**
 
-As an immediate action while wielding a weapon, the fighter can expend a use of an attack of opportunity to add his weapon training bonus to his saving throw against a spell, spell-like ability, or supernatural ability that allows a Reflex save or that targets him. The fighter cannot use this option against ongoing magical effects he is already affected by, only on the initial saving throw against such an effect. The fighter must have the Disruptive feat to choose this option.
+As an immediate action (1 AP of your next turn) while wielding a weapon, the fighter can expend a use of an attack of opportunity to add his weapon training bonus to his saving throw against a spell, spell-like ability, or supernatural ability that allows a Reflex save or that targets him. The fighter cannot use this option against ongoing magical effects he is already affected by, only on the initial saving throw against such an effect. The fighter must have the Disruptive feat to choose this option.
 
 **Spell Smash (Su)**
 
@@ -132,7 +132,7 @@ The fighter gains a weapon mastery feat that he meets the prerequisites for as a
 
 **Weapon Sacrifice (Ex)**
 
-When damage would cause the fighter or an adjacent ally to be knocked [unconscious](../../../rules/appendices/conditions.md#unconscious) or killed, as a swift or immediate action the fighter can instead direct the damage to a weapon that he is wielding. The original target takes no damage, but the weapon receives only half its normal hardness. The fighter can use this option a number of times per day equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus. He cannot use this option with natural weapons or unarmed attacks.
+When damage would cause the fighter or an adjacent ally to be knocked [unconscious](../../../rules/appendices/conditions.md#unconscious) or killed, as a swift or immediate action (1 AP of your next turn) the fighter can instead direct the damage to a weapon that he is wielding. The original target takes no damage, but the weapon receives only half its normal hardness. The fighter can use this option a number of times per day equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus. He cannot use this option with natural weapons or unarmed attacks.
 
 **Implementation**
 
@@ -188,7 +188,7 @@ Your understanding of intricate combat tricks lets you rapidly adapt to foes’ 
 
 **Prerequisites**: Base attack bonus +8, weapon training class feature with a melee weapon.
 
-**Benefit**: Whenever a foe attempts a combat maneuver and uses a combat feat, special ability, or special attack to avoid provoking an attack of opportunity, then you can analyze this as an immediate action. For the next minute, if that foe attempts the analyzed maneuver against you then this provokes an attack of opportunity from you even if the feat, special ability, or special attack would normally prevent this. If the attack of opportunity hits, apply the amount of damage dealt as a penalty to any attack roll made by the foe to perform the combat maneuver. Examples of this include the barbarian’s knockback rage power, the Shield Slam feat, any of the ‘improved maneuver’ feats (such as Improved Trip), as well as the grab, push, pull, and trip universal monster abilities.
+**Benefit**: Whenever a foe attempts a combat maneuver and uses a combat feat, special ability, or special attack to avoid provoking an attack of opportunity, then you can analyze this as an immediate action (1 AP of your next turn). For the next minute, if that foe attempts the analyzed maneuver against you then this provokes an attack of opportunity from you even if the feat, special ability, or special attack would normally prevent this. If the attack of opportunity hits, apply the amount of damage dealt as a penalty to any attack roll made by the foe to perform the combat maneuver. Examples of this include the barbarian’s knockback rage power, the Shield Slam feat, any of the ‘improved maneuver’ feats (such as Improved Trip), as well as the grab, push, pull, and trip universal monster abilities.
 
 **Combat Trick**: When you hit with an attack of opportunity gained through this feat, you can spend up to 5 stamina points to increase your CMD against that combat maneuver by an amount equal to the number of stamina points you spent.
 
@@ -198,9 +198,9 @@ You can react and exchange a series of blows with enemies when they strike at yo
 
 **Prerequisites**: Base attack bonus +14, weapon training class feature with a melee weapon.
 
-**Benefit**: As a full round action, you can ready a full attack. If your readied action interrupts another character’s turn, then when it triggers, you can take the first attack of your full attack, and then the character whose turn you interrupted can continue to act. During that character’s interrupted turn, each time that character takes a move or standard action or makes an attack, you can interrupt with the next attack in your full attack. If you still have attacks remaining from your full attack after the other character finishes acting, you can complete your full attack, but if you do so then your initiative result changes so that you act immediately after the character whose action triggered your readied action, rather than immediately ahead of that character.
+**Benefit**: As a full round action (3 AP), you can ready a full attack. If your readied action interrupts another character’s turn, then when it triggers, you can take the first attack of your full attack, and then the character whose turn you interrupted can continue to act. During that character’s interrupted turn, each time that character takes a move or standard action (1 AP) or makes an attack, you can interrupt with the next attack in your full attack. If you still have attacks remaining from your full attack after the other character finishes acting, you can complete your full attack, but if you do so then your initiative result changes so that you act immediately after the character whose action triggered your readied action, rather than immediately ahead of that character.
 
-**Normal**: You can only ready a standard action, a move action, a swift action, or a free action.
+**Normal**: You can only ready a standard action (1 AP), a move action (1 AP), a swift action (1 AP), or a free action.
 
 **Combat Trick**: After taking a readied full attack, you can spend 5 stamina points to act immediately ahead of the character whose action triggered your readied action, even if you made attacks after the other character finished acting.
 
@@ -276,7 +276,7 @@ The fighter gains an armor mastery feat or a shield mastery feat as a bonus feat
 
 **Armored Sacrifice (Ex)**
 
-When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, the fighter can instead direct the damage to a suit of armor that he is wearing or a shield he is using as an immediate action. The original target takes no damage, but the armor or shield is treated as if it had only half its normal hardness. The fighter can use this option once per day, plus one additional time each day at 11th level and every 8 fighter levels thereafter, to a maximum of three times per day at 19th level.
+When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, the fighter can instead direct the damage to a suit of armor that he is wearing or a shield he is using as an immediate action (1 AP of your next turn). The original target takes no damage, but the armor or shield is treated as if it had only half its normal hardness. The fighter can use this option once per day, plus one additional time each day at 11th level and every 8 fighter levels thereafter, to a maximum of three times per day at 19th level.
 
 **Armored Strike (Ex)**
 
@@ -318,7 +318,7 @@ The fighter can don armor in a hurry without reducing its effectiveness, and rem
 | Medium armor | 1 minute | 5 rounds | 1 minute |
 | Heavy armor | 2 minutes | 1 minute | 1d4 minutes |
 
-Additionally, when wearing hastily donned armor, the fighter can attempt a Strength or Dexterity check as a full-round action to remove the penalties associated with wearing hastily donned armor (DC = 10 + his armor’s unmodified armor bonus). If he succeeds at the check, he is treated as having properly donned his armor rather than having hastily donned it. He can even remove sections of armor to escape grapples and similar grasping hindrances. Whenever the fighter attempts a combat maneuver check, an [Escape Artist](../../../rules/skills/escape-artist.md) check, or a Strength check to escape from an effect that reduces or restricts his ability to move or act, he can reduce the armor bonus of any armor that he is wearing by up to half his armor’s base armor bonus. If he does so, he gains a bonus on his check equal to the amount by which he reduced his armor’s armor bonus.
+Additionally, when wearing hastily donned armor, the fighter can attempt a Strength or Dexterity check as a full-round action (3 AP) to remove the penalties associated with wearing hastily donned armor (DC = 10 + his armor’s unmodified armor bonus). If he succeeds at the check, he is treated as having properly donned his armor rather than having hastily donned it. He can even remove sections of armor to escape grapples and similar grasping hindrances. Whenever the fighter attempts a combat maneuver check, an [Escape Artist](../../../rules/skills/escape-artist.md) check, or a Strength check to escape from an effect that reduces or restricts his ability to move or act, he can reduce the armor bonus of any armor that he is wearing by up to half his armor’s base armor bonus. If he does so, he gains a bonus on his check equal to the amount by which he reduced his armor’s armor bonus.
 
 Multiple uses of this ability cannot reduce the armor’s armor bonus below half its base armor bonus, and the reduction to the armor’s armor bonus lasts until the fighter recovers and dons the removed pieces of armor.
 
@@ -352,7 +352,7 @@ Mithral armor provides a bonus 1 lower than normal for armor of its type. A figh
 
 **Warding Shield (Ex)**
 
-While wearing a heavy, light, or tower shield, if the fighter makes a successful Reflex saving throw against an attack which normally deals half damage on a successful save, as an immediate action he can make a second Reflex save against the same DC to direct the remaining damage to his shield. He gains a bonus on this second saving throw equal to the total shield bonus (including enhancement bonuses) of this shield. The shield is treated as if it had only half its normal hardness against this damage.
+While wearing a heavy, light, or tower shield, if the fighter makes a successful Reflex saving throw against an attack which normally deals half damage on a successful save, as an immediate action (1 AP of your next turn) he can make a second Reflex save against the same DC to direct the remaining damage to his shield. He gains a bonus on this second saving throw equal to the total shield bonus (including enhancement bonuses) of this shield. The shield is treated as if it had only half its normal hardness against this damage.
 
 **Table: Armor Training Options**
 
@@ -520,7 +520,7 @@ Unless indicated, a fighter cannot select an option more than once.
 
 **Battle Clarity (Ex)**
 
-The fighter gains immunity to the [dazed](../../../rules/appendices/conditions.md#dazed) condition. At 10th level, if the fighter is [staggered](../../../rules/appendices/conditions.md#staggered) then addition to taking a single move action or standard action, he can also take a move action to move but can only move up to half his speed during this action. The fighter cannot combine this additional move action with a standard action to perform a full-round action.
+The fighter gains immunity to the [dazed](../../../rules/appendices/conditions.md#dazed) condition. At 10th level, if the fighter is [staggered](../../../rules/appendices/conditions.md#staggered) then addition to taking a single move action (1 AP) or standard action (1 AP), he can also take a move action (1 AP) to move but can only move up to half his speed during this action. The fighter cannot combine this additional move action (1 AP) with a standard action (1 AP) to perform a full-round action (3 AP).
 
 At 14th level, the fighter gains immunity to stunning.
 
@@ -544,7 +544,7 @@ The fighter gains a +1 morale bonus when repeating an attack roll, ability check
 
 - Combat maneuver checks of the same type (trip, sunder, etc.) made against the same creature.
 
-- Skill or ability checks of the same type (Acrobatics, Strength, etc.) that require at least a move action to perform. Opposed checks only gain the bonus if performed against the same creature.
+- Skill or ability checks of the same type (Acrobatics, Strength, etc.) that require at least a move action (1 AP) to perform. Opposed checks only gain the bonus if performed against the same creature.
 
 This morale bonus also increases by an additional +1 for the first time it applies in the current round if the fighter failed the same attack roll, check, or saving throw in the previous round. The fighter can also apply his dogged obstinacy bonus to an activity that takes place over a longer period of time that requires checks or saves and involves the continually doing the same thing, even though the fighter may not be making rolls each round. These include [Swim](../../../rules/skills/swim.md) checks to swim for hours, Fortitude saves made against the effects of a forced march, and so on.
 
@@ -554,11 +554,11 @@ The fighter becomes immune to fear. If the fighter is subject to a fear effect, 
 
 **Focused Resolve (Ex)**
 
-The fighter can use focused resolve three times per day. At 10th level and every 4 levels thereafter, this number increases by one (to a maximum of 6 times per day at 18th level). As an immediate action, before attempting a saving throw, the fighter can expend one daily use of focused resolve to roll twice and take the better result. He must decide to use this ability before he rolls the saving throw. At 10th level, as a standard action, the fighter can expend a daily use of this ability to focus his mind and will. Once during the next minute, he can choose to roll an attack roll, skill check, or saving throw three times and take the best result. He must decide to use this ability before the roll is made. The fighter cannot use both of these options on the same saving throw.
+The fighter can use focused resolve three times per day. At 10th level and every 4 levels thereafter, this number increases by one (to a maximum of 6 times per day at 18th level). As an immediate action (1 AP of your next turn), before attempting a saving throw, the fighter can expend one daily use of focused resolve to roll twice and take the better result. He must decide to use this ability before he rolls the saving throw. At 10th level, as a standard action (1 AP), the fighter can expend a daily use of this ability to focus his mind and will. Once during the next minute, he can choose to roll an attack roll, skill check, or saving throw three times and take the best result. He must decide to use this ability before the roll is made. The fighter cannot use both of these options on the same saving throw.
 
 **Hard-Bitten (Ex)**
 
-The fighter gains a +1 bonus on saving throws and to his CMD to resist effects triggered by a critical hit, including critical feats. These bonuses increase by +1 for every four levels beyond 6th. Whenever the fighter is struck by a critical hit, he only takes half of the extra damage caused by the critical hit. For example, an arrow trap (1d8+1/x3) deals a critical hit to a fighter with this ability. The damage rolls are 4 from the arrow’s regular damage and 5 + 7 from the additional dice rolled take a move action without further injuring himself, but if he performs any standard action (or any other action deemed as strenuous, including some swift actions, such as casting a quickened spell) he takes 1 point of damage after completing the act. If the fighter takes damage from any source, including taking damage from taking a strenuous action or from failing to stabilize on his turn, then he gains the helpless condition unless he spends a use of his undying ability.
+The fighter gains a +1 bonus on saving throws and to his CMD to resist effects triggered by a critical hit, including critical feats. These bonuses increase by +1 for every four levels beyond 6th. Whenever the fighter is struck by a critical hit, he only takes half of the extra damage caused by the critical hit. For example, an arrow trap (1d8+1/x3) deals a critical hit to a fighter with this ability. The damage rolls are 4 from the arrow’s regular damage and 5 + 7 from the additional dice rolled take a move action (1 AP) without further injuring himself, but if he performs any standard action (1 AP) (or any other action deemed as strenuous, including some swift actions, such as casting a quickened spell) he takes 1 point of damage after completing the act. If the fighter takes damage from any source, including taking damage from taking a strenuous action or from failing to stabilize on his turn, then he gains the helpless condition unless he spends a use of his undying ability.
 
 At the start of his turn, when the fighter is conscious but has the helpless condition from being on negative hit points, he can spend a use of his undying ability to remove this helpless condition and if the fighter is dying and takes damage from failing to stabilize this round then he doesn’t gain the helpless condition from taking that damage.
 
@@ -677,7 +677,7 @@ The fighter chooses a weapon group he possesses and becomes proficient with all 
 
 **Combat Spontaneity (Ex)**
 
-Once per day as a move action, the fighter gains the benefit of a combat feat that he does not possess for 1 minute. He must meet the feat’s requirements. Any latent feat the fighter has, but doesn’t currently gain the benefits of, can also be chosen with this ability. If a combat feat has a daily use limitation (such as Stunning Fist), any uses of the combat feat gained while using this ability count toward that feat’s daily limit.
+Once per day as a move action (1 AP), the fighter gains the benefit of a combat feat that he does not possess for 1 minute. He must meet the feat’s requirements. Any latent feat the fighter has, but doesn’t currently gain the benefits of, can also be chosen with this ability. If a combat feat has a daily use limitation (such as Stunning Fist), any uses of the combat feat gained while using this ability count toward that feat’s daily limit.
 
 **Critical Master (Ex)**
 
@@ -733,15 +733,15 @@ When substituting in this way, the fighter uses his total Intimidate skill bonus
 
 When the fighter uses his combat spontaneity prowess option he can gain the benefits of two applicable feats. She may use one of these feats to meet a prerequisite of the second feat.
 
-This still only counts as one daily use of combat spontaneity. Additionally, the fighter can use his combat spontaneity prowess option as a move action or a swift action. The fighter must have the combat spontaneity prowess option before taking this option.
+This still only counts as one daily use of combat spontaneity. Additionally, the fighter can use his combat spontaneity prowess option as a move action (1 AP) or a swift action (1 AP). The fighter must have the combat spontaneity prowess option before taking this option.
 
 **Inspiring Confidence (Ex)**
 
-As a swift action or move action, the fighter can allow one ally within 30 feet that can see or hear him to attempt a new saving throw against an ongoing fear effect that causes the ally to cower or to become frightened, panicked, or shaken. If the ally succeeds at the save, the effect ends. A fighter can only grant an ally one new saving throw against a specific feat effect with this prowess option. If the fighter uses the fearless zeal perseverance option, their ally gains a bonus on this saving throw equal to the fighter’s bonus from the bravery perseverance option. The fighter cannot use this prowess option if he is suffering from a feat effect himself. The fighter must have the bravery perseverance option to choose this prowess option.
+As a swift action (1 AP) or move action (1 AP), the fighter can allow one ally within 30 feet that can see or hear him to attempt a new saving throw against an ongoing fear effect that causes the ally to cower or to become frightened, panicked, or shaken. If the ally succeeds at the save, the effect ends. A fighter can only grant an ally one new saving throw against a specific feat effect with this prowess option. If the fighter uses the fearless zeal perseverance option, their ally gains a bonus on this saving throw equal to the fighter’s bonus from the bravery perseverance option. The fighter cannot use this prowess option if he is suffering from a feat effect himself. The fighter must have the bravery perseverance option to choose this prowess option.
 
 **Latent Recall (Ex)**
 
-The maximum number of latent feats the fighter can possess increases by 1. As a move action the fighter gains the benefits of one of his latent feats. The fighter retains the benefits of this feat until he uses this ability again to gain the benefits of another latent feat. If a feat has a daily use limitation (such as Stunning Fist), any uses of the feat while using this ability count toward that feat’s daily limit.
+The maximum number of latent feats the fighter can possess increases by 1. As a move action (1 AP) the fighter gains the benefits of one of his latent feats. The fighter retains the benefits of this feat until he uses this ability again to gain the benefits of another latent feat. If a feat has a daily use limitation (such as Stunning Fist), any uses of the feat while using this ability count toward that feat’s daily limit.
 
 **Master Armorer (Ex)**
 
@@ -765,13 +765,13 @@ A fighter can enter or switch the stance employed by a fighting style as a free 
 
 **Style Training (Ex)**
 
-The fighter can blend style feats that he knows into a more flexible style. The fighter can have an additional style feat stance active simultaneously. He can enter all of his allowed stances as a move action or one stance as a swift action. A fighter can select this prowess option up to three times, each time increasing the number of additional stances he can have simultaneously active by one. The fighter must have at least two style feats to select this option.
+The fighter can blend style feats that he knows into a more flexible style. The fighter can have an additional style feat stance active simultaneously. He can enter all of his allowed stances as a move action (1 AP) or one stance as a swift action (1 AP). A fighter can select this prowess option up to three times, each time increasing the number of additional stances he can have simultaneously active by one. The fighter must have at least two style feats to select this option.
 
 **Tactical Training (Ex)**
 
-As a move action, the fighter can select a teamwork feat he knows and grant that feat to all allies within 30 feet who can see and hear him for 3 rounds plus 1 round for every two fighter levels. Allies do not need to meet the prerequisites of this feat. The fighter can use this prowess option twice per day and at 10th level and every 5 levels thereafter (15th and 20th) the fighter gains an additional use per day of this ability.
+As a move action (1 AP), the fighter can select a teamwork feat he knows and grant that feat to all allies within 30 feet who can see and hear him for 3 rounds plus 1 round for every two fighter levels. Allies do not need to meet the prerequisites of this feat. The fighter can use this prowess option twice per day and at 10th level and every 5 levels thereafter (15th and 20th) the fighter gains an additional use per day of this ability.
 
-At 9th level, using this ability becomes a swift action and at 17th level the fighter can grant any two teamwork feats he knows when using this ability. If the fighter gains the tactician ability from levels in another class, these levels stack for the purpose of determining his effective fighter level with this prowess option.
+At 9th level, using this ability becomes a swift action (1 AP) and at 17th level the fighter can grant any two teamwork feats he knows when using this ability. If the fighter gains the tactician ability from levels in another class, these levels stack for the purpose of determining his effective fighter level with this prowess option.
 
 If the fighter gains the tactician ability from a fighter archetype, his fighter level increases by half (+50%) when determining his effective level with this prowess option.
 
@@ -1170,7 +1170,7 @@ In many cases when one listing missed putting a weapon in a weapon group, such a
 
 **Prerequisites:** Base attack bonus +8, weapon training class feature with a melee weapon.
 
-**Benefit:** Whenever a foe attempts a combat maneuver and uses a combat feat, special ability, or special attack to avoid provoking an attack of opportunity, then you can analyze this as an immediate action. For the next minute, if that foe attempts the analyzed maneuver against you then this provokes an attack of opportunity from you even if the feat, special ability, or special attack would normally prevent this. If the attack of opportunity hits, apply the amount of damage dealt as a penalty to any attack roll made by the foe to perform the combat maneuver. Examples of this include the barbarian’s Knockback rage power, the Shield Slam feat, any of the 'improved maneuver' feats (such as Improved Trip), as well as the grab, push, pull, and trip universal monster abilities.
+**Benefit:** Whenever a foe attempts a combat maneuver and uses a combat feat, special ability, or special attack to avoid provoking an attack of opportunity, then you can analyze this as an immediate action (1 AP of your next turn). For the next minute, if that foe attempts the analyzed maneuver against you then this provokes an attack of opportunity from you even if the feat, special ability, or special attack would normally prevent this. If the attack of opportunity hits, apply the amount of damage dealt as a penalty to any attack roll made by the foe to perform the combat maneuver. Examples of this include the barbarian’s Knockback rage power, the Shield Slam feat, any of the 'improved maneuver' feats (such as Improved Trip), as well as the grab, push, pull, and trip universal monster abilities.
 
 **Combat Trick**
 
@@ -1184,9 +1184,9 @@ When you hit with an attack of opportunity gained through this feat, you can spe
 
 **Prerequisites:** Base attack bonus +14, weapon training class feature with a melee weapon.
 
-**Benefit:** As a full-round action, you can ready a full attack. If your readied action interrupts another character’s turn, then when it triggers, you can take the first attack of your full attack, and then the character whose turn you interrupted can continue to act. During that character’s interrupted turn, each time that character takes a move or standard action or makes an attack, you can interrupt with the next attack in your full attack. If you still have attacks remaining from your full attack after the other character finishes acting, you can complete your full attack, but if you do so then your initiative result changes so that you act immediately after the character whose action triggered your readied action, rather than immediately ahead of that character.
+**Benefit:** As a full-round action (3 AP), you can ready a full attack. If your readied action interrupts another character’s turn, then when it triggers, you can take the first attack of your full attack, and then the character whose turn you interrupted can continue to act. During that character’s interrupted turn, each time that character takes a move or standard action (1 AP) or makes an attack, you can interrupt with the next attack in your full attack. If you still have attacks remaining from your full attack after the other character finishes acting, you can complete your full attack, but if you do so then your initiative result changes so that you act immediately after the character whose action triggered your readied action, rather than immediately ahead of that character.
 
-**Normal:** You can only ready a standard action, a move action, a swift action, or a free action.
+**Normal:** You can only ready a standard action (1 AP), a move action (1 AP), a swift action (1 AP), or a free action.
 
 **Combat Trick**
 

@@ -12,6 +12,9 @@ When you use the Whirlwind Attack feat, you also forfeit any bonus or extra atta
 
 If you make this attack with a two-handed weapon, you gain reach while doing so (so with a reach weapon, a full 15 feet).
 
+??? tip apr "Action Points (optional rule)"
+    Whirlwind Attack costs 2 AP. You make one attack against each opponent within reach, all at your full attack bonus; together they count as a single attack for the [multiple attack penalty](../combat-variants/action-points.md#attacks).
+
 ??? note "Original rule"
 
     *(Combat)*

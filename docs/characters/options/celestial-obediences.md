@@ -94,7 +94,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 1. **Communicator (Sp)**: [*comprehend languages*](../../magic/spells/comprehend-languages.md) 3/day, [*whispering wind*](../../magic/spells/whispering-wind.md) 2/day, or [*sculpt sound*](../../magic/spells/sculpt-sound.md) 1/day
 2. **Quiet Muse (Sp)**: You can cast silenced [*brilliant inspiration*](../../magic/spells/brilliant-inspiration.md) three times per day.
-3. **Paralyzing Song (Su)**: You make music with such skill and pathos that all around you become frozen still. Once per day as a full-round action, you may attempt a [Perform](../../rules/skills/perform.md) (keyboard instruments, percussion instruments, string instruments, wind instruments, or sing) check. All enemies within 30 feet who can hear you must make a successful Will save (DC equal to the result of your Perform check) or be affected as though by [*hold monster*](../../magic/spells/hold-monster.md) for as long as you continue playing.
+3. **Paralyzing Song (Su)**: You make music with such skill and pathos that all around you become frozen still. Once per day as a full-round action (3 AP), you may attempt a [Perform](../../rules/skills/perform.md) (keyboard instruments, percussion instruments, string instruments, wind instruments, or sing) check. All enemies within 30 feet who can hear you must make a successful Will save (DC equal to the result of your Perform check) or be affected as though by [*hold monster*](../../magic/spells/hold-monster.md) for as long as you continue playing.
 
 ## Empyreal lord of consolation, respect and security (LG)
 
@@ -104,7 +104,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 1. **Comfort of Faith (Sp)**: [*sanctuary*](../../magic/spells/sanctuary.md) 3/day, [*align weapon*](../../magic/spells/align-weapon.md) (law or good only) 2/day, or *magic circle against chaos/evil* 1/day
 2. **Demanding Presence (Sp)**: You can cast silenced [*dictum*](../../magic/spells/dictum.md) once per day.
-3. **Divine Gaze (Su)**: Your eyes become the golden eyes of a crow. You gain darkvision out to a range of 60 feet (or, if you already have darkvision, extend your current range by 60 feet). Once per day as a standard action, you can shower yourself and any allies within 30 feet with divine light from your eyes, granting each affected target a +4 sacred bonus to AC, a +4 resistance bonus on all saving throws, and SR 25 for 1 round per HD you possess.
+3. **Divine Gaze (Su)**: Your eyes become the golden eyes of a crow. You gain darkvision out to a range of 60 feet (or, if you already have darkvision, extend your current range by 60 feet). Once per day as a standard action (1 AP), you can shower yourself and any allies within 30 feet with divine light from your eyes, granting each affected target a +4 sacred bonus to AC, a +4 resistance bonus on all saving throws, and SR 25 for 1 round per HD you possess.
 
 ## Empyreal lord of constellations, homesickness and northern lights (CG)
 
@@ -133,7 +133,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Boons
 
 1. **Inventor's Tools (Sp)**: [*grease*](../../magic/spells/grease.md) 3/day, [*fox’s cunning*](../../magic/spells/foxs-cunning.md) 2/day, or [*secret page*](../../magic/spells/secret-page.md) 1/day
-2. **Improve Item (Su)**: Three times per day, you can enhance the effects of a magic item that either is consumed during use or has charges. As a swift action, you can enhance a held expendable item’s effects as if using either the [Empower Spell](../../rules/feats/empower-spell.md), [Enlarge Spell](../../rules/feats/enlarge-spell.md), or [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat. You must use the item during the same round you improve it in order to gain the benefits of the selected metamagic feat.
+2. **Improve Item (Su)**: Three times per day, you can enhance the effects of a magic item that either is consumed during use or has charges. As a swift action (1 AP), you can enhance a held expendable item’s effects as if using either the [Empower Spell](../../rules/feats/empower-spell.md), [Enlarge Spell](../../rules/feats/enlarge-spell.md), or [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat. You must use the item during the same round you improve it in order to gain the benefits of the selected metamagic feat.
 3. **Transmogrify (Sp)**: You can cast extended [*polymorph any object*](../../magic/spells/polymorph-any-object.md) once per day.
 
 ## Empyreal lord of dancers, lonely spirits and moonlight (CG)
@@ -149,7 +149,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Evangelist Boons
 
 1. **Celestial Guide (Sp)**: [*bless*](../../magic/spells/bless.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*guiding star*](../../magic/spells/guiding-star.md) 1/day
-2. **Touch of Freedom (Su)**: As a standard action, you can touch an ally to grant it the benefits of the [*freedom of movement*](../../magic/spells/freedom-of-movement.md) spell until the beginning of your next turn. While under this effect, the target gains a +10-foot enhancement bonus to her base speed when taking the withdraw action and can, as an immediate action when she fails a saving throw against a charm or compulsion effect, reroll that saving throw. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+2. **Touch of Freedom (Su)**: As a standard action (1 AP), you can touch an ally to grant it the benefits of the [*freedom of movement*](../../magic/spells/freedom-of-movement.md) spell until the beginning of your next turn. While under this effect, the target gains a +10-foot enhancement bonus to her base speed when taking the withdraw action and can, as an immediate action (1 AP of your next turn) when she fails a saving throw against a charm or compulsion effect, reroll that saving throw. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 3. **Navigator Wisp (Sp)**: Once per day, you can cast an extended [*find the path*](../../magic/spells/find-the-path.md) on yourself with a caster level equal to your character level. The effect of the spell manifests as a mote of light that is visible to only you. If the route would take you through dangerous territory (such as a river with a very strong current or a hidden pit of acid), the wisp glows yellow. If the route would take you past hidden creatures, the wisp flashes red, giving you a +10 circumstance bonus on [Perception](../../rules/skills/perception.md) checks to notice them.
 
 ### Exalted Boons
@@ -251,7 +251,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Boons
 
 1. **Martial Excellence (Sp)**: [*divine favor*](../../magic/spells/divine-favor.md) 3/day, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) 2/day, or *greater magic weapon* 1/day
-2. **Strong Arm (Su)**: As a swift action, you can increase the damage die of your weapon by one step for a number of rounds per day equal to your HD. These rounds need not be consecutive.
+2. **Strong Arm (Su)**: As a swift action (1 AP), you can increase the damage die of your weapon by one step for a number of rounds per day equal to your HD. These rounds need not be consecutive.
 3. **Warrior’s Rings (Su)**: Once per day, you can summon a floating array of giant iron rings that provide cover or attack foes, as if you had cast [*crushing hand*](../../magic/spells/crushing-hand.md).
 
 ## Empyreal lord of foresight, forgiveness and peace (NG)
@@ -261,7 +261,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Boons
 
 1. **Harmonic (Sp)**: [*bless*](../../magic/spells/bless.md) 3/day, *augury* 2/day, or [*mad monkeys*](../../magic/spells/mad-monkeys.md) 1/day
-2. **Steady Hand (Su)**: Three times per day as a swift action, you can choose to deal nonlethal damage with a weapon that normally deals lethal damage for 1 hour. When you use this ability, you do not take the normal –4 penalty on attack rolls for dealing nonlethal damage with a lethal weapon, and the damage die of your weapon increases by one step as long as you deal nonlethal damage with it.
+2. **Steady Hand (Su)**: Three times per day as a swift action (1 AP), you can choose to deal nonlethal damage with a weapon that normally deals lethal damage for 1 hour. When you use this ability, you do not take the normal –4 penalty on attack rolls for dealing nonlethal damage with a lethal weapon, and the damage die of your weapon increases by one step as long as you deal nonlethal damage with it.
 3. **Quietude (Su)**: You maintain an aura of utter peace. A continual *sanctuary* effect surrounds you, requiring enemies to succeed at a Will save (DC 11 + 1/2 your HD) to directly attack you. Extraplanar creatures that manage to attack you directly must succeed at an additional Will save (DC 14 + 1/2 your HD) or return to their plane of origin as though affected by a [*dismissal*](../../magic/spells/dismissal.md) spell. If you attack another creature, the *sanctuary* effect temporarily subsides for 1d4+1 rounds.
 
 ## Empyreal lord of freedom, physical beauty and sexuality (NG)

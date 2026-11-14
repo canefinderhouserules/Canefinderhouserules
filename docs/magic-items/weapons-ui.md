@@ -82,7 +82,7 @@ Magic weapons can have either abilities that need to be activated to function or
 **Aura** faint conjuration and illusion; **CL** 5th  
 **Slot** none; **Price** 10,305 gp; **Weight** —
 
-Elegant as it is deadly, this *+1 fighting fan* is under a minor glamer that causes it to resemble a nonlethal fan intended for courtly or social affairs, though the glamer lacks the full protections of the *glamered* weapon quality. Dozens of sharp barbs adorn the top of the fan, typically hidden by the glamer effect. Up to three times per day as a standard action, the wielder can cause these blades to shoot forth, dealing 3d4 points of piercing damage to all creatures in a 15-foot cone (Reflex DC 14 half).
+Elegant as it is deadly, this *+1 fighting fan* is under a minor glamer that causes it to resemble a nonlethal fan intended for courtly or social affairs, though the glamer lacks the full protections of the *glamered* weapon quality. Dozens of sharp barbs adorn the top of the fan, typically hidden by the glamer effect. Up to three times per day as a standard action (1 AP), the wielder can cause these blades to shoot forth, dealing 3d4 points of piercing damage to all creatures in a 15-foot cone (Reflex DC 14 half).
 
 As with all fighting fans, the tips of the weapon can be poisoned. Applied injury poison affects all creatures that take damage from the fan’s hail of blades, though the save DCs for such poison are reduced by 2 due to the low dosage.
 
@@ -93,7 +93,7 @@ As with all fighting fans, the tips of the weapon can be poisoned. Applied injur
 **Aura** faint conjuration; **CL** 3rd  
 **Slot** none; **Price** 206 gp; **Weight** —
 
-This *+1 featherweight dart* is designed to be fired from a small wrist launcher. As with a normal featherweight dart, it deals no damage; it instead administers 1 dose of an applied poison as long as the target doesn’t have damage reduction, hardness, or the like. Once the dart has been launched, whether it hits or misses, the creature that fired it can use a swift action to recall the dart to a convenient location, such as the palm of a hand or a pocket, removing the dart from the scene of the attack. The magical recovery of the dart does not prevent it from being damaged, so as with other magical ammunition, it can’t be reused.
+This *+1 featherweight dart* is designed to be fired from a small wrist launcher. As with a normal featherweight dart, it deals no damage; it instead administers 1 dose of an applied poison as long as the target doesn’t have damage reduction, hardness, or the like. Once the dart has been launched, whether it hits or misses, the creature that fired it can use a swift action (1 AP) to recall the dart to a convenient location, such as the palm of a hand or a pocket, removing the dart from the scene of the attack. The magical recovery of the dart does not prevent it from being damaged, so as with other magical ammunition, it can’t be reused.
 
 **Requirements** Craft Magic Arms and Armor, *apport object*; **Cost** 106 gp
 
@@ -102,7 +102,7 @@ This *+1 featherweight dart* is designed to be fired from a small wrist launcher
 **Aura** moderate illusion; **CL** 6th  
 **Slot** none; **Price** 10,550 gp; **Weight** 2 lbs.
 
-Twice per day, as a swift action when the wielder of this *+1 heavy wrist launcher* makes an attack with the weapon, he can have the launcher make no sound, and can instead create a false sound of a crossbow being fired from another location within 40 feet of him. In addition, for 6 rounds, any auras upon the wielder that would normally be revealed by divination spells, such as *detect* spells, are redirected to the same location as the crossbow sound.
+Twice per day, as a swift action (1 AP) when the wielder of this *+1 heavy wrist launcher* makes an attack with the weapon, he can have the launcher make no sound, and can instead create a false sound of a crossbow being fired from another location within 40 feet of him. In addition, for 6 rounds, any auras upon the wielder that would normally be revealed by divination spells, such as *detect* spells, are redirected to the same location as the crossbow sound.
 
 **Requirements** Craft Magic Arms and Armor, *ghost sound*, *misdirection*; **Cost** 5,550 gp
 
@@ -137,7 +137,7 @@ The brass hilt of this curved *+1 dagger* resembles a snake coiled around a bone
 
 When the user places the tip of the dagger in a vial of injury poison, the dagger absorbs the dose of poison and stores it in an extradimensional space. The stored toxin retains its save DC, effects, and all other properties. The dagger can hold a maximum of 5 doses of poison.
 
-As a swift action, the user can whisper the name of one of the poisons stored in the dagger, releasing the poison from its extradimensional space onto the blade of the dagger. When poisoning the dagger in this manner, the wielder can’t accidentally poison himself, though he still poisons himself if he rolls a natural 1 on an attack roll.
+As a swift action (1 AP), the user can whisper the name of one of the poisons stored in the dagger, releasing the poison from its extradimensional space onto the blade of the dagger. When poisoning the dagger in this manner, the wielder can’t accidentally poison himself, though he still poisons himself if he rolls a natural 1 on an attack roll.
 
 **Requirements** Craft Magic Arms and Armor, *secret chest*; **Cost** 5,302 gp
 

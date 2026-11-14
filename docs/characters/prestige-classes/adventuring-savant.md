@@ -61,7 +61,7 @@ At 3rd level, a savant can use his own caster level instead of the item’s cast
 
 #### Quick Identification (Sp)
 
-At 4th level, a savant can use [*identify*](../../magic/spells/identify.md) as a swift action (caster level equals his character level). He can do this once per day per 2 class levels.
+At 4th level, a savant can use [*identify*](../../magic/spells/identify.md) as a swift action (1 AP) (caster level equals his character level). He can do this once per day per 2 class levels.
 
 #### Sigil Master (Su)
 
@@ -81,11 +81,11 @@ At 7th level, if the savant prepares and casts spells like a wizard, he can spon
 
 #### Symbol Master (Su)
 
-At 8th level, a savant gains power over magical symbol spells (such as [*symbol of death*](../../magic/spells/symbol-of-death.md)). When he casts any symbol spell, the save DC to resist its effects, the [Perception](../../rules/skills/perception.md) DC to notice the symbol, and the [Disable Device](../../rules/skills/disable-device.md) DC to remove the symbol increase by 2. Once per day as an immediate action, the savant can double the bonus granted by his sigil master ability when he attempts a saving throw against a symbol. He can activate this ability after he rolls the saving throw, but must do so before the results are revealed. A savant does not automatically fail a saving throw against a symbol effect on a natural 1.
+At 8th level, a savant gains power over magical symbol spells (such as [*symbol of death*](../../magic/spells/symbol-of-death.md)). When he casts any symbol spell, the save DC to resist its effects, the [Perception](../../rules/skills/perception.md) DC to notice the symbol, and the [Disable Device](../../rules/skills/disable-device.md) DC to remove the symbol increase by 2. Once per day as an immediate action (1 AP of your next turn), the savant can double the bonus granted by his sigil master ability when he attempts a saving throw against a symbol. He can activate this ability after he rolls the saving throw, but must do so before the results are revealed. A savant does not automatically fail a saving throw against a symbol effect on a natural 1.
 
 #### Spellcasting Master (Ex)
 
-At 9th level, a savant can focus his mind three times per day as a swift action. Once he’s focused in this way, any spells he casts for the remainder of that round do not provoke attacks of opportunity. Spells with a duration of concentration that he casts in this round persist for a number of rounds after the savant ceases concentrating equal to his Intelligence, Wisdom, or Charisma modifier (whichever is highest).
+At 9th level, a savant can focus his mind three times per day as a swift action (1 AP). Once he’s focused in this way, any spells he casts for the remainder of that round do not provoke attacks of opportunity. Spells with a duration of concentration that he casts in this round persist for a number of rounds after the savant ceases concentrating equal to his Intelligence, Wisdom, or Charisma modifier (whichever is highest).
 
 #### Item Master (Su)
 

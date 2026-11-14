@@ -37,7 +37,7 @@ At will—charm animal (DC 15), charm person (DC 15), detect thoughts (DC 16)
 **Feats** Blind-Fight, Dazzling Display, Distracting Charge, Improved Critical (greatsword), Improved Initiative, Iron Will, Outflank, Power Attack, Step Up, Toughness, Weapon Focus (greatsword)  
 **Skills** Climb +9, Handle Animal +18, Intimidate +18, Knowledge (history) +8, Knowledge (nobility) +8, Perception +10, Ride +12 (+17 on mount), Sense Motive +13, Swim +9  
 **Languages** Common, Draconic, Infernal  
-**SQ** expert trainer +5, greater tactician (3/day, 8 rounds, swift action), mount (horse), one with the land, order of the cockatrice (braggart, steal glory)
+**SQ** expert trainer +5, greater tactician (3/day, 8 rounds, swift action (1 AP)), mount (horse), one with the land, order of the cockatrice (braggart, steal glory)
 
 **Ecology**
 
@@ -112,7 +112,7 @@ LE medium outsider (augmented humanoid, kyton, native)
 
 **Speed** 30 ft.  
 **Melee** +1 cold iron sickle +18/+13/+8 (1d6+5 plus 1d6 bleed), +1 cold iron sickle +18/+13/+8 (1d6+5 plus 1d6 bleed)  
-**Special Attacks** agonizing prayer (11d6, DC 20), bleeding touch (1d6), seductive oration (2d6 Wisdom or 6 sanity, DC 20), sneak attack +3d6, studied target +3 (3rd, swift action), unnerving gaze (30 ft.; DC 20)  
+**Special Attacks** agonizing prayer (11d6, DC 20), bleeding touch (1d6), seductive oration (2d6 Wisdom or 6 sanity, DC 20), sneak attack +3d6, studied target +3 (3rd, swift action (1 AP)), unnerving gaze (30 ft.; DC 20)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 1/day—shadow walk
 

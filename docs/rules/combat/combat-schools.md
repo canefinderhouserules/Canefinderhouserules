@@ -270,7 +270,7 @@ Populated by brazen but cunning thugs, this guild built its reputation on smuggl
 
 **Extracurricular Task – The Reaper’s Service (+1 Fame)**: You perform a task in the aid of a cult of the same evil god unaffiliated with the specific one that controls the guild.
 
-**Inner Circle (30 Fame, 15 PP)**: You’ve taken the first steps toward joining the cult that secretly runs the guild. Once per day per 10 points of Fame you possess, you can pray to the cult’s patron as a swift action to gain sneak attack +1d6 until the end of your turn. This is a supernatural ability.
+**Inner Circle (30 Fame, 15 PP)**: You’ve taken the first steps toward joining the cult that secretly runs the guild. Once per day per 10 points of Fame you possess, you can pray to the cult’s patron as a swift action (1 AP) to gain sneak attack +1d6 until the end of your turn. This is a supernatural ability.
 
 **Shadow Stab (25 Fame, 10 PP)**: When making an attack from concealment granted by dim light or darkness, treat each weapon or precision damage die rolled as if its result were 1 higher. Additionally, when under concealment granted by dim light or darkness, you gain a +2 insight bonus on attack rolls to confirm critical hits made with light or one-handed slashing weapons.
 
@@ -356,7 +356,7 @@ In the heart of a land of firearms and firearm technology, the preeminent school
 
 **Extracurricular Task – Trade Secrets (+1 Fame)**: The land closely guards the secrets of firearm manufacture and gunpowder production. You can claim the bounty on a spy, traitor, or other enemy of the industry who attempts to sell or share these secrets with a party outside the realm to increase your standing within the hall.
 
-**Eagle Eye Shot (15 Fame, 5 PP)**: As a move action, you can attempt a Perception check with a DC equal to your opponent’s Armor Class. If successful, you deal an amount of bonus precision damage equal to your Wisdom modifier on all firearm damage rolls until the end of your turn.
+**Eagle Eye Shot (15 Fame, 5 PP)**: As a move action (1 AP), you can attempt a Perception check with a DC equal to your opponent’s Armor Class. If successful, you deal an amount of bonus precision damage equal to your Wisdom modifier on all firearm damage rolls until the end of your turn.
 
 **Gunnery Captain (25 Fame, 10 PP)**: You can reduce the number of additional actions required to move, aim, or load a firearm siege engine by 2 (to a minimum of 1 extra round) when operating one with less than a full crew.
 

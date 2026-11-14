@@ -8,4 +8,4 @@ Your charge ends with a mighty haymaker.
 
 **Benefit**: When using Pummeling Style, you can charge and make a Pummeling Style attack at the end of your charge as part of the charge action.
 
-**Normal**: Making a Pummeling Style attack is a full round action.
+**Normal**: Making a Pummeling Style attack is a full round action (3 AP).

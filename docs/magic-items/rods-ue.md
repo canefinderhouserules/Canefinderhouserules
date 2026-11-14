@@ -29,7 +29,7 @@ Furthermore, once per day, as a free action, after hitting a foe with this rod, 
 **Aura** faint abjuration; **CL** 5th  
 **Slot** none; **Price** 12,000 gp; **Weight** 10 lbs.
 
-This 6-foot-long silver rod is capped with a copper ball at one end, and a multipronged iron spike at the other. Three times per day, the spiked end can be driven into sand, mud, or loose earth as a move action, into dense soil or loose gravel as a standard action, or into stone or harder materials as a full-round action. Once anchored, the rod emits a field that inhibits electrical charges within a 40-foot radius. All creatures within this radius gain resistance 5 to electricity, and anyone attempting to cast a spell with the electricity descriptor must make a caster level check (DC 16) or lose the spell.
+This 6-foot-long silver rod is capped with a copper ball at one end, and a multipronged iron spike at the other. Three times per day, the spiked end can be driven into sand, mud, or loose earth as a move action (1 AP), into dense soil or loose gravel as a standard action (1 AP), or into stone or harder materials as a full-round action (3 AP). Once anchored, the rod emits a field that inhibits electrical charges within a 40-foot radius. All creatures within this radius gain resistance 5 to electricity, and anyone attempting to cast a spell with the electricity descriptor must make a caster level check (DC 16) or lose the spell.
 
 Removing the rod from the ground and deactivating it requires the same type of action as anchoring it.
 
@@ -51,7 +51,7 @@ Once per day on command, the wielder can use *break enchantment*, as the spell.
 **Aura** faint abjuration; **CL** 5th  
 **Slot** none; **Price** 15,000 gp; **Weight** 5 lbs.
 
-This short, slender rod appears to be crafted from solid iron, though it is incredibly light. In this shortened form, the rod has no powers. However, when the wielder pushes a small button on one end of the rod (a move action), the rod springs open to a 5-foot length, and its powers become available for use.
+This short, slender rod appears to be crafted from solid iron, though it is incredibly light. In this shortened form, the rod has no powers. However, when the wielder pushes a small button on one end of the rod (a move action (1 AP)), the rod springs open to a 5-foot length, and its powers become available for use.
 
 Once extended, the rod possesses several powers that add to the wielder’s acrobatic abilities. The wielder of the rod receives a +10 competence bonus on all Acrobatics checks involving long jumps and high jumps; additionally, the wielder covers double the normal distance for a jump when making an Acrobatics check. The individual holding the rod also gain a +4 dodge bonus to AC when fighting defensively instead of the usual +2 bonus. Also, while using this item, the user of the rod cannot be knocked prone, and takes only half damage from falling. A rod of balance emits a faint aura of the abjuration and transmutation schools.
 
@@ -96,7 +96,7 @@ This rod looks like a long sliver of ice and is cold to the touch, but deals no 
 This rod is a simple, unadorned piece of clear crystal that has been magically hardened. The wielder of the rod is under a constant *nondetection* effect, as the spell. Furthermore, the rod has the following powers.
 
 - Three times per day on command, the user of the rod can use it to detect thoughts as the spell.
-- Once per day as an immediate action, the wielder may determine whether someone is lying to her, as the discern
+- Once per day as an immediate action (1 AP of your next turn), the wielder may determine whether someone is lying to her, as the discern
 
 *lies* spell.
 
@@ -163,7 +163,7 @@ This mahogany rod is etched with the image of whirling storm clouds. Once per da
 
 This rod appears to be the limbless trunk and branching roots of a miniature tree. It grants its wielder a +5 competence bonus on Survival checks to get along in the wild and to keep from getting lost. Additionally the wielder and any allies within a 20-foot radius of the wielder gain the benefits of the ranger’s woodland stride class feature.
 
-If thrust into any natural ground or earth and allowed to stand for 1 hour, the rod grows and blooms into a large tree bearing edible fruit. A sapling rod produces 2d4 pieces of fruit. A creature that consumes an entire piece of fruit gains the benefits of either a *cure moderate wounds* or *lesser restoration* spell (recipient’s choice). Consuming a piece of fruit from a sapling rod is a full-round action that provokes attacks of opportunity, and no single creature can benefit from more than two piece of fruit from a single blooming. A sapling rod can bloom once per week and after doing so reverts to its original state after all the fruit is picked, or after 24 hours, whichever comes first. Fruit harvested from the tree lasts for 24 hours before shriveling into useless husks.
+If thrust into any natural ground or earth and allowed to stand for 1 hour, the rod grows and blooms into a large tree bearing edible fruit. A sapling rod produces 2d4 pieces of fruit. A creature that consumes an entire piece of fruit gains the benefits of either a *cure moderate wounds* or *lesser restoration* spell (recipient’s choice). Consuming a piece of fruit from a sapling rod is a full-round action (3 AP) that provokes attacks of opportunity, and no single creature can benefit from more than two piece of fruit from a single blooming. A sapling rod can bloom once per week and after doing so reverts to its original state after all the fruit is picked, or after 24 hours, whichever comes first. Fruit harvested from the tree lasts for 24 hours before shriveling into useless husks.
 
 **Requirements** Craft Rod, *cure moderate wounds, grove of respite**, lesser restoration*; **Cost** 8,325 gp
 

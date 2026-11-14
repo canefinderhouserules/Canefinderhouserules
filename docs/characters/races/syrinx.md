@@ -28,10 +28,10 @@ From lofty monastery-cities entrenched in soaring cliff sides and high mountain 
 
 **Oppressive**
 
-Syrinxes often have a natural talent for sensing how to unsettle and oppress other creatures. As a swift action, a syrinx can attempt a [Sense Motive](../../rules/skills/sense-motive.md) check against a DC of 10 + a creature’s Hit Dice + its Charisma modifier or a DC of 10 + the creature’s Bluff modifier, whichever is higher. On a success, syrinx gains a +4 racial bonus on [Intimidate](../../rules/skills/intimidate.md) checks against that target and a +1 racial bonus to the DC of any fear effects she uses against that target. This racial trait replaces nocturnal and pride.
+Syrinxes often have a natural talent for sensing how to unsettle and oppress other creatures. As a swift action (1 AP), a syrinx can attempt a [Sense Motive](../../rules/skills/sense-motive.md) check against a DC of 10 + a creature’s Hit Dice + its Charisma modifier or a DC of 10 + the creature’s Bluff modifier, whichever is higher. On a success, syrinx gains a +4 racial bonus on [Intimidate](../../rules/skills/intimidate.md) checks against that target and a +1 racial bonus to the DC of any fear effects she uses against that target. This racial trait replaces nocturnal and pride.
 
 ## Alternate Racial Traits
 
 ### Oppressive
 
-Syrinxes often have a natural talent for sensing how to unsettle and oppress other creatures. As a swift action, a syrinx can attempt a Sense Motive check against a DC of 10 + a creature’s Hit Dice + its Charisma modifier or a DC of 10 + the creature’s Bluff modifier, whichever is higher. On a success, syrinx gains a +4 racial bonus on Intimidate checks against that target and a +1 racial bonus to the DC of any fear effects she uses against that target. This racial trait replaces nocturnal and pride.
+Syrinxes often have a natural talent for sensing how to unsettle and oppress other creatures. As a swift action (1 AP), a syrinx can attempt a Sense Motive check against a DC of 10 + a creature’s Hit Dice + its Charisma modifier or a DC of 10 + the creature’s Bluff modifier, whichever is higher. On a success, syrinx gains a +4 racial bonus on Intimidate checks against that target and a +1 racial bonus to the DC of any fear effects she uses against that target. This racial trait replaces nocturnal and pride.

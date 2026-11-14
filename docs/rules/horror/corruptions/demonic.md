@@ -78,7 +78,7 @@ The following are manifestations of the demonic corruption.
 
 **Prerequisite**: Manifestation level 5th.
 
-**Gift**: You can see the truth, as per *true seeing*, as a full-round action. You can use this gift for a number of rounds per day equal to your manifestation level, and the rounds need not be used consecutively.
+**Gift**: You can see the truth, as per *true seeing*, as a full-round action (3 AP). You can use this gift for a number of rounds per day equal to your manifestation level, and the rounds need not be used consecutively.
 
 **Stain**: When you cease to use this manifestation's gift, you become confused for a number of rounds equal to the number of rounds you used the gift.
 

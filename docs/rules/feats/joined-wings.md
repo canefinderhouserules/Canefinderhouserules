@@ -6,4 +6,4 @@ You have developed a deep rapport with your comrades that allows you to swiftly 
 
 **Prerequisites**: Fervor or lay on hands class feature.
 
-**Benefit**: You can use your lay on hands or the healing granted by fervor on allies with this feat as a swift action.
+**Benefit**: You can use your lay on hands or the healing granted by fervor on allies with this feat as a swift action (1 AP).

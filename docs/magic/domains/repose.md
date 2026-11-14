@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the ward against death power of the Repose domain.*
 
-*Speak With Dead (Su): At 8th level, as a standard action, you can ask one question of a dead creature as if using speak with dead. The dead creature you are questioning does not gain a Will saving throw if your alignments are different. You can use this ability a number of times per day equal to your cleric level.*
+*Speak With Dead (Su): At 8th level, as a standard action (1 AP), you can ask one question of a dead creature as if using speak with dead. The dead creature you are questioning does not gain a Will saving throw if your alignments are different. You can use this ability a number of times per day equal to your cleric level.*
 
 ***Replacement Domain Spells**: 4th—rest eternal, 6th—geas/quest.*
 
@@ -30,7 +30,7 @@
 
 ***Replacement Power**: The following granted power replaces the death’s embrace ability of the Death domain or the ward against death ability of the Repose domain. Psychopomps are a race of neutral outsiders.*
 
-*Spirit Touch (Su): At 6th level, as a swift action, you can give your natural weapons or any weapons you wield the ghost touch weapon special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
+*Spirit Touch (Su): At 6th level, as a swift action (1 AP), you can give your natural weapons or any weapons you wield the ghost touch weapon special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 
 ***Replacement Domain Spells**: 3rd—chain of perdition, 6th—planar ally (psychopomps only), 8th—trap the soul.*
 
@@ -61,6 +61,6 @@
 
 *The goddess of graves seeks the destruction of undead, be they corporeal or manifested spirits. Inquisitors of the goddess scour the world for signs of the undead, destroying such abominations on sight by means both traditional and esoteric in nature. As a result, most people come first to the church of the goddess when seeking assistance against foul spirits. One unusual facet of the goddess’s faithful is their reluctance to excise non-undead spirits, such as demons or devils. Only the most altruistic of her priests offer their services against possessing outsiders, as most faithful see battling such foes as being beyond their true calling.*
 
-***Exorcism of Undeath (Sp)**: Once per day as a full-round action, you can try to end any possession spells or effects, or effects that directly exercise mental control over a creature, as long as the effect was caused by an undead creature. You must touch the affected creature (this requires a melee touch attack if the target is neither willing nor [helpless](../../rules/appendices/conditions.md#helpless)) and use a vial of holy water as a material component that is consumed as part of using this ability. The target must immediately attempt a new Will save against the original save DC of the controlling effect. If the save is successful, the possession effect immediately ends, as if the target had succeeded at its original saving throw. If the possessing force is a ghost or similar undead, it manifests adjacent to the target and is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.*
+***Exorcism of Undeath (Sp)**: Once per day as a full-round action (3 AP), you can try to end any possession spells or effects, or effects that directly exercise mental control over a creature, as long as the effect was caused by an undead creature. You must touch the affected creature (this requires a melee touch attack if the target is neither willing nor [helpless](../../rules/appendices/conditions.md#helpless)) and use a vial of holy water as a material component that is consumed as part of using this ability. The target must immediately attempt a new Will save against the original save DC of the controlling effect. If the save is successful, the possession effect immediately ends, as if the target had succeeded at its original saving throw. If the possessing force is a ghost or similar undead, it manifests adjacent to the target and is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.*
 
 *This replaces the ward against death domain power of the Repose domain.*

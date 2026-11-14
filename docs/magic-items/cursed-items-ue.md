@@ -70,7 +70,7 @@ This is a *+2 shortspear*, but each time it is used in melee against a foe and t
 **Aura** moderate evocation; **CL** 8th  
 **Slot** none; **Weight** 2 lbs.
 
-This weapon appears to be a *+2 returning throwing axe*. Instead of the normal returning ability, this axe only returns when the wielder misses her target. When it does return, it attacks the wielder. It uses the wielder’s full base attack bonus with this attack. If it hits, it sticks in the wielder, and the wielder can pull out the axe with a swift action. If it misses the wielder, it falls to a random unoccupied square adjacent to the wielder and must be picked up as soon as possible. The wielder of the *deadly returns throwing axe* always uses it as her primary weapon until subject to a *remove curse* spell or similar effect.
+This weapon appears to be a *+2 returning throwing axe*. Instead of the normal returning ability, this axe only returns when the wielder misses her target. When it does return, it attacks the wielder. It uses the wielder’s full base attack bonus with this attack. If it hits, it sticks in the wielder, and the wielder can pull out the axe with a swift action (1 AP). If it misses the wielder, it falls to a random unoccupied square adjacent to the wielder and must be picked up as soon as possible. The wielder of the *deadly returns throwing axe* always uses it as her primary weapon until subject to a *remove curse* spell or similar effect.
 
 **Creation** (associated magic items): *+2 returning throwing axe*
 

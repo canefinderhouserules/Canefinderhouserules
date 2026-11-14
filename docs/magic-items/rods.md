@@ -56,7 +56,7 @@ Rods are scepter-like devices that have unique magical powers and do not usually
 **Aura** moderate transmutation; **CL** 10th  
 **Slot** none; **Price** 5,000 gp; **Weight** 5 lbs.
 
-This rod looks like a flat iron bar with a small button on one end. When the button is pushed (a move action), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Several immovable rods can even make a ladder when used together (although only two are needed). An immovable rod can support up to 8,000 pounds before falling to the ground. If a creature pushes against an immovable rod, it must make a DC 30 Strength check to move the rod up to 10 feet in a single round.
+This rod looks like a flat iron bar with a small button on one end. When the button is pushed (a move action (1 AP)), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Several immovable rods can even make a ladder when used together (although only two are needed). An immovable rod can support up to 8,000 pounds before falling to the ground. If a creature pushes against an immovable rod, it must make a DC 30 Strength check to move the rod up to 10 feet in a single round.
 
 **Requirements** Craft Rod, levitate; **Cost** 2,500 gp
 
@@ -76,9 +76,9 @@ A rod of absorption absorbs a maximum of 50 spell levels and can thereafter only
 **Aura** moderate abjuration, divination, enchantment, and evocation; **CL** 11th  
 **Slot** none; **Price** 85,000 gp; **Weight** 4 lbs.
 
-This rod is indistinguishable from a +1 light mace. It has eight flanges on its mace-like head. The rod bestows a +1 insight bonus on initiative checks. If grasped firmly, the rod enables the holder to use detect evil, detect good, detect chaos, detect law, detect magic, discern lies, light, or see invisibility. Each different use is a standard action.
+This rod is indistinguishable from a +1 light mace. It has eight flanges on its mace-like head. The rod bestows a +1 insight bonus on initiative checks. If grasped firmly, the rod enables the holder to use detect evil, detect good, detect chaos, detect law, detect magic, discern lies, light, or see invisibility. Each different use is a standard action (1 AP).
 
-If the head of a rod of alertness is planted in the ground and the possessor wills it to alertness (a standard action), the rod senses any creatures within 120 feet who intend to harm the possessor. At the same time, the rod creates the effect of a prayer spell upon all creatures friendly to the possessor in a 20-foot radius. Immediately thereafter, the rod sends forth a mental alert to these friendly creatures, warning them of any unfriendly creatures within the 120-foot radius. These effects last for 10 minutes, and the rod can perform this function once per day. Last, the rod can be used to simulate the casting of an animate objects spell, utilizing any 11 (or fewer) Small objects located roughly around the perimeter of a 5-foot-radius circle centered on the rod when planted in the ground. Objects remain animated for 11 rounds. The rod can perform this function once per day.
+If the head of a rod of alertness is planted in the ground and the possessor wills it to alertness (a standard action (1 AP)), the rod senses any creatures within 120 feet who intend to harm the possessor. At the same time, the rod creates the effect of a prayer spell upon all creatures friendly to the possessor in a 20-foot radius. Immediately thereafter, the rod sends forth a mental alert to these friendly creatures, warning them of any unfriendly creatures within the 120-foot radius. These effects last for 10 minutes, and the rod can perform this function once per day. Last, the rod can be used to simulate the casting of an animate objects spell, utilizing any 11 (or fewer) Small objects located roughly around the perimeter of a 5-foot-radius circle centered on the rod when planted in the ground. Objects remain animated for 11 rounds. The rod can perform this function once per day.
 
 **Requirements** Craft Rod, alarm, animate objects, detect chaos, detect evil, detect good, detect law, detect magic, discern lies, light, prayer, see invisibility; **Cost** 42,500 gp
 
@@ -96,7 +96,7 @@ This dreaded rod is a bane to magic items, for its touch drains an item of all m
 **Aura** moderate divination; **CL** 10th  
 **Slot** none; **Price** 23,500 gp; **Weight** 5 lbs.
 
-This device pulses in the wielder’s hand and points in the direction of any creature or creatures hostile to the bearer of the device (nearest ones first). These creatures can be invisible, ethereal, hidden, disguised, or in plain sight. Detection range is 60 feet. If the bearer of the rod concentrates for a full round, the rod pinpoints the location of the nearest enemy and indicates how many enemies are within range. The rod can be used to pinpoint three times each day, each use lasting up to 10 minutes. Activating the rod is a standard action.
+This device pulses in the wielder’s hand and points in the direction of any creature or creatures hostile to the bearer of the device (nearest ones first). These creatures can be invisible, ethereal, hidden, disguised, or in plain sight. Detection range is 60 feet. If the bearer of the rod concentrates for a full round, the rod pinpoints the location of the nearest enemy and indicates how many enemies are within range. The rod can be used to pinpoint three times each day, each use lasting up to 10 minutes. Activating the rod is a standard action (1 AP).
 
 **Requirements** Craft Rod, true seeing; **Cost** 11,750 gp
 
@@ -109,7 +109,7 @@ Upon the command of its possessor, the rod activates, changing from a normal-see
 
 Once per day, the wielder can use a free action to cause the rod to grant her a +4 deflection bonus to Armor Class and a +4 resistance bonus on saving throws for 10 minutes. The rod need not be in weapon form to grant this benefit.
 
-Transforming it into a weapon or back into a rod is a move action.
+Transforming it into a weapon or back into a rod is a move action (1 AP).
 
 **Requirements** Craft Rod, Craft Magic Arms and Armor, bless; **Cost** 25,000 gp
 
@@ -118,7 +118,7 @@ Transforming it into a weapon or back into a rod is a move action.
 **Aura** strong transmutation; **CL** 12th  
 **Slot** none; **Price** 15,000 gp; **Weight** 5 lbs.
 
-This rod can extinguish Medium or smaller nonmagical fires with simply a touch (a standard action). For the rod to be effective against other sorts of fires, the wielder must expend 1 or more of the rod’s charges.
+This rod can extinguish Medium or smaller nonmagical fires with simply a touch (a standard action (1 AP)). For the rod to be effective against other sorts of fires, the wielder must expend 1 or more of the rod’s charges.
 
 Extinguishing a Large or larger nonmagical fire, or a magic fire of Medium or smaller (such as that of a flaming weapon or a burning hands spell), expends 1 charge. Continual magic flames, such as those of a weapon or a fire creature, are suppressed for 6 rounds and flare up again after that time. To extinguish an instantaneous fire spell, the rod must be within the area of the effect and the wielder must have used a ready action, effectively countering the entire spell. When applied to Large or larger magic fires, such as those caused by fireball, flame strike, or wall of fire, extinguishing the flames expends 2 charges from the rod.
 
@@ -135,7 +135,7 @@ This rod has functions that are spell-like, and it can also be used as a magic w
 
 - Hold person upon a touched creature, if the wielder so commands (Will DC 14 negates). The wielder must choose to use this power (a free action) and then succeed on a melee touch attack to activate the power. If the attack fails, the effect is lost.
 
-- Fear upon all enemies viewing it, if the wielder so desires (10-foot maximum range, Will DC 16 partial). Invoking this power is a standard action.
+- Fear upon all enemies viewing it, if the wielder so desires (10-foot maximum range, Will DC 16 partial). Invoking this power is a standard action (1 AP).
 
 - Deal 2d4 hit points of damage to an opponent on a successful touch attack (Will DC 17 half) and cure the wielder of the same amount of damage. The wielder must choose to use this power before attacking, as with hold person.
 
@@ -166,7 +166,7 @@ The wielder can retract the pole by pushing button 5.
 **Aura** moderate divination; **CL** 9th  
 **Slot** none; **Price** 10,500 gp; **Weight** 5 lbs.
 
-This rod is valued by treasure hunters and miners alike, for it pulses and hums in the wielder’s hand in the proximity of metal. As the wearer aims the rod, the pulsations grow more noticeable as it points to the largest mass of metal within 30 feet. However, the wielder can concentrate on a specific metal or mineral. If the specific mineral is within 30 feet, the rod points to any places it is located, and the rod wielder knows the approximate quantity as well. If more than one deposit of the specified metal or mineral is within range, the rod points to the largest cache first. Each operation requires a full-round action.
+This rod is valued by treasure hunters and miners alike, for it pulses and hums in the wielder’s hand in the proximity of metal. As the wearer aims the rod, the pulsations grow more noticeable as it points to the largest mass of metal within 30 feet. However, the wielder can concentrate on a specific metal or mineral. If the specific mineral is within 30 feet, the rod points to any places it is located, and the rod wielder knows the approximate quantity as well. If more than one deposit of the specified metal or mineral is within range, the rod points to the largest cache first. Each operation requires a full-round action (3 AP).
 
 **Requirements** Craft Rod, locate object; **Cost** 5,250 gp
 
@@ -184,7 +184,7 @@ This device negates the spell or spell-like function or functions of magic items
 **Aura** strong enchantment; **CL** 20th  
 **Slot** none; **Price** 60,000 gp; **Weight** 8 lbs.
 
-This rod looks like a royal scepter worth at least 5,000 gp in materials and workmanship alone. The wielder can command the obedience and fealty of creatures within 120 feet when she activates the device (a standard action). Creatures totaling 300 Hit Dice can be ruled, but creatures with Intelligence scores of 12 or higher are each entitled to a DC 16 Will save to negate the effect. Ruled creatures obey the wielder as if she were their absolute sovereign. Still, if the wielder gives a command that is contrary to the nature of the creatures commanded, the magic is broken. The rod can be used for 500 total minutes before crumbling to dust. This duration need not be continuous.
+This rod looks like a royal scepter worth at least 5,000 gp in materials and workmanship alone. The wielder can command the obedience and fealty of creatures within 120 feet when she activates the device (a standard action (1 AP)). Creatures totaling 300 Hit Dice can be ruled, but creatures with Intelligence scores of 12 or higher are each entitled to a DC 16 Will save to negate the effect. Ruled creatures obey the wielder as if she were their absolute sovereign. Still, if the wielder gives a command that is contrary to the nature of the creatures commanded, the magic is broken. The rod can be used for 500 total minutes before crumbling to dust. This duration need not be continuous.
 
 **Requirements** Craft Rod, mass charm monster; **Cost** 32,500 gp
 
@@ -195,7 +195,7 @@ This rod looks like a royal scepter worth at least 5,000 gp in materials and wor
 
 This item creates a nondimensional space, a pocket paradise. There the rod’s possessor and as many as 199 other creatures can stay in complete safety for a period of time, up to 200 days divided by the number of creatures affected. All fractions are rounded down. In this pocket paradise, creatures don’t age, and natural healing takes place at twice the normal rate. Fresh water and food (fruits and vegetables only) are in abundance. The climate is comfortable for all creatures involved.
 
-Activating the rod (a standard action) causes the wielder and all creatures touching the rod to be transported instantaneously to the paradise. Members of large groups can hold hands or otherwise maintain physical contact, allowing all connected creatures in a circle or a chain to be affected by the rod. Unwilling creatures get a DC 17 Will save to negate the effect. If such a creature succeeds on its save, other creatures beyond that point in a chain can still be affected by the rod.
+Activating the rod (a standard action (1 AP)) causes the wielder and all creatures touching the rod to be transported instantaneously to the paradise. Members of large groups can hold hands or otherwise maintain physical contact, allowing all connected creatures in a circle or a chain to be affected by the rod. Unwilling creatures get a DC 17 Will save to negate the effect. If such a creature succeeds on its save, other creatures beyond that point in a chain can still be affected by the rod.
 
 When the rod’s effect expires, is dismissed, or is dispelled, all the affected creatures instantly reappear in the location they occupied when the rod was activated. If something else occupies the space that a traveler would be returning to, then his body is displaced a sufficient distance to provide the space required for reentry. The rod’s possessor can dismiss the effect whenever he wishes before the maximum time period expires, but the rod can only be activated once per week.
 
@@ -221,7 +221,7 @@ In addition, the rod has a second special power, usable once per week. Upon comm
 **Aura** moderate transmutation; **CL** 10th  
 **Slot** none; **Price** 13,000 gp; **Weight** 10 lbs.
 
-Unlike most rods, one end of this rod curls and twists back on itself in a crook—the tip of this crook sometimes looks like the head of a snake. The rod itself is about 4 feet long and weighs 10 pounds. It strikes as a +1/+1 quarterstaff. If the user throws the rod to the ground (a standard action), it grows to become a constrictor snake by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 enhancement bonus on attacks and damage possessed by the rod form.) The serpent returns to rod form (a full-round action) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. A rod of the python only functions if the possessor is good.
+Unlike most rods, one end of this rod curls and twists back on itself in a crook—the tip of this crook sometimes looks like the head of a snake. The rod itself is about 4 feet long and weighs 10 pounds. It strikes as a +1/+1 quarterstaff. If the user throws the rod to the ground (a standard action (1 AP)), it grows to become a constrictor snake by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 enhancement bonus on attacks and damage possessed by the rod form.) The serpent returns to rod form (a full-round action (3 AP)) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. A rod of the python only functions if the possessor is good.
 
 **Requirements** Craft Rod, Craft Magic Arms and Armor, baleful polymorph, creator must be good; **Cost** 6,500 gp
 
@@ -245,11 +245,11 @@ Constructed of iron set with silver rivets, this rod has the properties of a +2 
 
 - Lightning: Once per day, when the wielder desires, a short spark of electricity can leap forth when the rod strikes an opponent to deal the normal damage for a +2 light mace (1d6+2) and an extra 2d6 points of electricity damage. Even when the rod might not score a normal hit in combat, if the roll was good enough to count as a successful melee touch attack, then the 2d6 points of electricity damage still apply. The wielder activates this power as a free action, and it works if he strikes an opponent within 1 round.
 
-- Thunderclap: Once per day as a standard action, the wielder can cause the rod to give out a deafening noise, just as a shout spell (Fortitude DC 16 partial, 2d6 points of sonic damage, target deafened for 2d6 rounds).
+- Thunderclap: Once per day as a standard action (1 AP), the wielder can cause the rod to give out a deafening noise, just as a shout spell (Fortitude DC 16 partial, 2d6 points of sonic damage, target deafened for 2d6 rounds).
 
-- Lightning Stroke: Once per day as a standard action, the wielder can cause the rod to shoot out a 5-foot-wide lightning bolt (9d6 points of electricity damage, Reflex DC 16 half) to a range of 200 feet.
+- Lightning Stroke: Once per day as a standard action (1 AP), the wielder can cause the rod to shoot out a 5-foot-wide lightning bolt (9d6 points of electricity damage, Reflex DC 16 half) to a range of 200 feet.
 
-- Thunder and Lightning: Once per week as a standard action, the wielder of the rod can combine the thunderclap described above with a lightning bolt, as in the lightning stroke. The thunderclap affects all within 10 feet of the bolt. The lightning stroke deals 9d6 points of electricity damage (count rolls of 1 or 2 as rolls of 3, for a range of 27 to 54 points), and the thunderclap deals 2d6 points of sonic damage. A single DC 16 Reflex save applies for both effects.
+- Thunder and Lightning: Once per week as a standard action (1 AP), the wielder of the rod can combine the thunderclap described above with a lightning bolt, as in the lightning stroke. The thunderclap affects all within 10 feet of the bolt. The lightning stroke deals 9d6 points of electricity damage (count rolls of 1 or 2 as rolls of 3, for a range of 27 to 54 points), and the thunderclap deals 2d6 points of sonic damage. A single DC 16 Reflex save applies for both effects.
 
 **Requirements** Craft Magic Arms and Armor, Craft Rod, lightning bolt, shout; **Cost** 16,500 gp
 
@@ -267,7 +267,7 @@ A rod of withering acts as a +1 light mace that deals no hit point damage. Inste
 **Aura** moderate enchantment; **CL** 10th  
 **Slot** none; **Price** 12,000 gp; **Weight** 5 lbs.
 
-A rod of wonder is a strange and unpredictable device that randomly generates any number of weird effects each time it is used. Activating the rod is a standard action. Typical powers of the rod include the following.
+A rod of wonder is a strange and unpredictable device that randomly generates any number of weird effects each time it is used. Activating the rod is a standard action (1 AP). Typical powers of the rod include the following.
 
 **Rod of Wonder: Wondrous Effects**
 
@@ -300,7 +300,7 @@ A rod of wonder is a strange and unpredictable device that randomly generates an
 
 ## Metamagic Rods
 
-Metamagic rods hold the essence of a metamagic feat, allowing the user to apply metamagic effects to spells (but not spell-like abilities) as they are cast. This does not change the spell slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast. Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A sorcerer still must take a full-round action when using a metamagic rod, just as if using a metamagic feat he possesses (except for quicken metamagic rods, which can be used as a swift action).
+Metamagic rods hold the essence of a metamagic feat, allowing the user to apply metamagic effects to spells (but not spell-like abilities) as they are cast. This does not change the spell slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast. Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A sorcerer still must take a full-round action (3 AP) when using a metamagic rod, just as if using a metamagic feat he possesses (except for quicken metamagic rods, which can be used as a swift action (1 AP)).
 
 **Lesser and Greater Metamagic Rods**: Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower.
 

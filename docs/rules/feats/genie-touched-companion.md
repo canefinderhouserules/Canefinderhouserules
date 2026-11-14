@@ -25,7 +25,7 @@ The stoic istaheq is the favored mount of desert horse-breeding tribes. Istaheqs
 
 **Steadfast (Ex)** An istaheq gains a +4 racial bonus on saving throws against all mind-affecting and fear effects. While serving willingly as a mount, an istaheq is immune to fear effects.
 
-**Thundering Hooves (Su)** Once per day as a standard action, an istaheq can rear up and slam its hooves down hard against the ground. For 1 round, the ground in a 30-foot radius around the istaheq shakes, allowing the istaheq to attempt a single trip combat maneuver check against all creatures standing in this area. This action does not provoke an attack of opportunity.
+**Thundering Hooves (Su)** Once per day as a standard action (1 AP), an istaheq can rear up and slam its hooves down hard against the ground. For 1 round, the ground in a 30-foot radius around the istaheq shakes, allowing the istaheq to attempt a single trip combat maneuver check against all creatures standing in this area. This action does not provoke an attack of opportunity.
 #### Misayyah
 Temperamental, fierce, and courageous, a misayyah usually tolerates only one rider, with whom it forms a close bond—it often grows despondent if separated from its chosen partner. Misayyahs’ coats are a shimmering metallic gold or bay, and they have intense amber eyes.  
 **Resist** Fire 10 **Languages** Ignan (cannot speak any language)

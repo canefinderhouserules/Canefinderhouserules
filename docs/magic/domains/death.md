@@ -4,7 +4,7 @@
 
 ***Granted Powers**: You can cause the living to bleed at a touch, and find comfort in the presence of the dead.*
 
-*Bleeding Touch (Sp): As a swift action melee touch attack, you can cause a living creature to take 1d6 points of damage per round. This effect persists for a number of rounds equal to your cleric level or until stopped with a DC 20 Heal check or any spell or effect that heals damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Bleeding Touch (Sp): As a swift action (1 AP) melee touch attack, you can cause a living creature to take 1d6 points of damage per round. This effect persists for a number of rounds equal to your cleric level or until stopped with a DC 20 Heal check or any spell or effect that heals damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *Death's Embrace (Ex): At 4th level, you heal damage instead of taking damage from channeled negative energy. If the channeled negative energy targets undead, you heal hit points just like undead in the area.*
 
@@ -33,7 +33,7 @@
 
 ***Replacement Power**: The following granted power replaces the death’s embrace power of the Death domain or the touch of evil power of the Evil domain.*
 
-*Contagion (Su): As a standard action, you can activate a 30ft aura that works like the Contagion Spell. You can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.*
+*Contagion (Su): As a standard action (1 AP), you can activate a 30ft aura that works like the Contagion Spell. You can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.*
 
 ***Replacement Domain Spells**: 1st—ray of sickening, 3rd—contagion, 6th—plague storm, 8th—horrid wilting.*
 
@@ -45,7 +45,7 @@
 
 ***Replacement Power**: The following granted power replaces the death’s embrace ability of the Death domain or the ward against death ability of the Repose domain. Psychopomps are a race of neutral outsiders.*
 
-*Spirit Touch and Bane (Su): At 6th level, as a swift action, you can give your natural weapons or any weapons you wield the ghost touch weapon special ability and the Bane (Undead) weapon Special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
+*Spirit Touch and Bane (Su): At 6th level, as a swift action (1 AP), you can give your natural weapons or any weapons you wield the ghost touch weapon special ability and the Bane (Undead) weapon Special ability. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 
 ***Replacement Domain Spells**: 3rd—chain of perdition, 6th—planar ally (psychopomps only), 8th—trap the soul.*
 
@@ -57,7 +57,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of darkness ability of the Darkness domain or the bleeding touch ability of the Death domain.*
 
-*Whispering Shadows (Su): You can darken the shadows around you and cause them to hiss, confounding and distracting your enemies. As an immediate action, you can force a target within 30 feet to reroll a miss chance due to concealment or a saving throw against an illusion or necromancy spell. The target of this ability must keep the result of the second roll, even if it is worse than the original roll. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Whispering Shadows (Su): You can darken the shadows around you and cause them to hiss, confounding and distracting your enemies. As an immediate action (1 AP of your next turn), you can force a target within 30 feet to reroll a miss chance due to concealment or a saving throw against an illusion or necromancy spell. The target of this ability must keep the result of the second roll, even if it is worse than the original roll. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—ray of enfeeblement, 4th—phantasmal killer, 8th—orb of the void*
 
@@ -69,7 +69,7 @@
 
 ***Replacement Power**: The following granted power replaces the bleeding touch power of the Death domain.*
 
-*Death’s Kiss (Su): As a standard action, you can emit a 30ft aura that causes allies to take on some of the traits of the undead. Allies are treated as undead for the purposes of effects that heal or cause damage based on positive and negative energy. This effect lasts for a number of rounds equal to your cleric level. It does not apply to the [Turn Undead](../../rules/feats/turn-undead.md) or [Command Undead](../../rules/feats/command-undead.md) feats. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Death’s Kiss (Su): As a standard action (1 AP), you can emit a 30ft aura that causes allies to take on some of the traits of the undead. Allies are treated as undead for the purposes of effects that heal or cause damage based on positive and negative energy. This effect lasts for a number of rounds equal to your cleric level. It does not apply to the [Turn Undead](../../rules/feats/turn-undead.md) or [Command Undead](../../rules/feats/command-undead.md) feats. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—ghoul touch, 4th—enervation, 9th—energy drain.*
 
@@ -85,7 +85,7 @@
 
 *A risen spirit is akin to a plant that must be tended. Such are the teachings of the goddess of undeath, who is believed to be the first undead creature. Unlike many of her deific counterparts, she champions the shepherding and protection of haunts and possessing spirits, even to the danger and detriment of her own followers. The faithful of the Pallid Princess believe that by prolonging the torment and tortured existence of a spirit, they create something akin to a beautiful piece of artwork. In a similar manner, servants of the goddess of undeath view the possession of a mortal body by a deceased spirit as a blessing.*
 
-***Necrotic Tending (Sp)**: You can touch an undead creature or area affected by a haunt as a move action, restoring 1d8 hit points for every 2 cleric levels you have. This ability has no effect on other creatures. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+***Necrotic Tending (Sp)**: You can touch an undead creature or area affected by a haunt as a move action (1 AP), restoring 1d8 hit points for every 2 cleric levels you have. This ability has no effect on other creatures. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *This replaces the bleeding touch domain power of the Death domain.*
 
@@ -95,6 +95,6 @@
 
 ***Replacement Power**: The following granted power replaces the death’s embrace power of the Death domain or the touch of evil power of the Evil domain.*
 
-*Touch of Virulence (Su)*: As a standard action, you can touch a diseased creature and exacerbate its condition. If it fails a Fortitude save (DC = 10 + 1/2 your cleric level + your Wisdom modifier), the creature takes damage as though it had failed its Fortitude save against the disease and any remaining onset time for the disease ends. You can use this ability once per day at 8th level, plus one additional time per day at 14th level and 20th level.
+*Touch of Virulence (Su)*: As a standard action (1 AP), you can touch a diseased creature and exacerbate its condition. If it fails a Fortitude save (DC = 10 + 1/2 your cleric level + your Wisdom modifier), the creature takes damage as though it had failed its Fortitude save against the disease and any remaining onset time for the disease ends. You can use this ability once per day at 8th level, plus one additional time per day at 14th level and 20th level.
 
 ***Replacement Domain Spells**: 1st—ray of sickening, 3rd—contagion, 6th—plague storm, 8th—horrid wilting.*

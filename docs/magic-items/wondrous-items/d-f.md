@@ -131,7 +131,7 @@ This item is typically fashioned of brass or bronze, with a lead stopper bearing
 
 An elemental gem comes in one of four different varieties. Each contains a conjuration spell attuned to a specific elemental plane (Air, Earth, Fire, or Water).
 
-When the gem is crushed, smashed, or broken (a standard action), a Large elemental appears as if summoned by a summon nature’s ally spell. The elemental is under the control of the creature that broke the gem.
+When the gem is crushed, smashed, or broken (a standard action (1 AP)), a Large elemental appears as if summoned by a summon nature’s ally spell. The elemental is under the control of the creature that broke the gem.
 
 The coloration of the gem varies with the type of elemental it summons. Air elemental gems are transparent, earth elemental gems are light brown, fire elemental gems are reddish orange, and water elemental gems are blue-green.
 
@@ -223,7 +223,7 @@ These two crystal lenses fit over the user’s eyes. The wearer is able to use c
 **Aura** moderate necromancy; **CL** 11th  
 **Slot** eyes; **Price** 25,000 gp; **Weight** —
 
-These crystal lenses fit over the user’s eyes, enabling him to cast doom upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 Will save are affected as by the doom spell. The wearer also gains the additional power of a continual deathwatch effect and can use fear (Will DC 16 partial) as a normal gaze attack once per week. Both lenses must be worn for the magic item to take effect.
+These crystal lenses fit over the user’s eyes, enabling him to cast doom upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action (1 AP), and those merely looking at the wearer are not affected. Those failing a DC 11 Will save are affected as by the doom spell. The wearer also gains the additional power of a continual deathwatch effect and can use fear (Will DC 16 partial) as a normal gaze attack once per week. Both lenses must be worn for the magic item to take effect.
 
 **Requirements** Craft Wondrous Item, doom, deathwatch, fear; **Cost** 12,500 gp
 

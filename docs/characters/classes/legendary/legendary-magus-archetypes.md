@@ -38,7 +38,7 @@ While a legendary magus is wielding her black blade, she gains the Alertness fea
 
 **Black Blade Strike (Sp)**
 
-As a swift action, the magus can spend 1 point of the black blade’s arcane potential to grant the black blade a +1 bonus on damage rolls for 1 round. For every four levels beyond 1st, this bonus increases by +1, to a maximum of +5 at 17th level.
+As a swift action (1 AP), the magus can spend 1 point of the black blade’s arcane potential to grant the black blade a +1 bonus on damage rolls for 1 round. For every four levels beyond 1st, this bonus increases by +1, to a maximum of +5 at 17th level.
 
 **Bonded Blade (Ex)**
 
@@ -60,13 +60,13 @@ At 5th level, as a free action, a legendary magus can spend 1 point of the black
 
 **Teleport Blade (Sp)**
 
-As a full-round action, a legendary magus of 9th can call his black blade from as far as 1 mile away, causing it to instantaneously teleport to her hand.
+As a full-round action (3 AP), a legendary magus of 9th can call his black blade from as far as 1 mile away, causing it to instantaneously teleport to her hand.
 
-Alternatively, he can do so as a swift action by spending one point of potential, or by spending one point of the black blade’s arcane potential.
+Alternatively, he can do so as a swift action (1 AP) by spending one point of potential, or by spending one point of the black blade’s arcane potential.
 
 **Transfer Arcana (Su)**
 
-At 13th level, a legendary magus can attempt to siphon points from her black blade’s arcane potential into her own. Doing so takes a move action and the legendary magus must succeed at a Will saving throw with a DC equal to the black blade’s ego. If the legendary magus succeeds, she regains 1 point to her arcane potential pool for every 2 points she saps from his black blade. If she fails the saving throw, the legendary magus becomes [fatigued](../../../rules/appendices/conditions.md#fatigued) for 1 minute(but can try again). If she is fatigued, she becomes [exhausted](../../../rules/appendices/conditions.md#exhausted) for 1 minute instead. She cannot use this ability if she is exhausted.
+At 13th level, a legendary magus can attempt to siphon points from her black blade’s arcane potential into her own. Doing so takes a move action (1 AP) and the legendary magus must succeed at a Will saving throw with a DC equal to the black blade’s ego. If the legendary magus succeeds, she regains 1 point to her arcane potential pool for every 2 points she saps from his black blade. If she fails the saving throw, the legendary magus becomes [fatigued](../../../rules/appendices/conditions.md#fatigued) for 1 minute(but can try again). If she is fatigued, she becomes [exhausted](../../../rules/appendices/conditions.md#exhausted) for 1 minute instead. She cannot use this ability if she is exhausted.
 
 **Spell Defense (Sp)**
 
@@ -102,7 +102,7 @@ This bonus increases by +1 at 7th level and every three levels after (to a maxim
 
 **1 Potential**
 
-**Dragon Breath**: As a swift action, the dragon fang unleashes a breath weapon which deals 2d6 points of damage, plus 1d6 points per 2 legendary magus levels beyond 3, of her chosen energy type. This dragon breath takes the shape of a 15-foot cone or a 30-foot line. Those caught in the area of the breath receive a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 her legendary magus level + her Charisma modifier.
+**Dragon Breath**: As a swift action (1 AP), the dragon fang unleashes a breath weapon which deals 2d6 points of damage, plus 1d6 points per 2 legendary magus levels beyond 3, of her chosen energy type. This dragon breath takes the shape of a 15-foot cone or a 30-foot line. Those caught in the area of the breath receive a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 her legendary magus level + her Charisma modifier.
 
 At 9th level, a dragon fang gains a pain of draconic wings, granting her a fly speed of 60 ft. with average maneuverability. These wings can be dismissed or regrown as a free action.
 
@@ -200,7 +200,7 @@ At 3rd level, a first magus gains the woodland stride and trackless step class f
 
 **2 Potential**
 
-**Tempest Strike**: As a swift action, a first magus can call down a lightning bolt on a target within 30 ft., dealing 2d6 points of electricity damage, plus 1d6 points per 2 legendary magus levels beyond 3, plus the first magus’ Wisdom modifier. A successful Reflex save (DC 10 + 1 /2 first magus level + Wisdom modifier) halves this damage.
+**Tempest Strike**: As a swift action (1 AP), a first magus can call down a lightning bolt on a target within 30 ft., dealing 2d6 points of electricity damage, plus 1d6 points per 2 legendary magus levels beyond 3, plus the first magus’ Wisdom modifier. A successful Reflex save (DC 10 + 1 /2 first magus level + Wisdom modifier) halves this damage.
 
 At 9th level, a first magus adds beast shape I to her list of spells known. At 12th level she adds beast shape II to her list of spells known. At 15th level she adds beast shape III to her list of spells known. At 18th level she adds beast shape IV to her list of spells known. When polymorphed their natural attacks are deals damage as if they are one size larger. This effect does not stack with other benefits that increase size, such as the strongjaw spell.
 
@@ -330,7 +330,7 @@ This replaces the bonus feat gained at 11th level.
 
 **Iaijutsu Focus (Ex)**
 
-At 15th level, the legendary kensai may always act and may draw his weapon as a swift action during a surprise round, and gains the uncanny dodge ability, treating his legendary magus level as his rogue level for this ability.
+At 15th level, the legendary kensai may always act and may draw his weapon as a swift action (1 AP) during a surprise round, and gains the uncanny dodge ability, treating his legendary magus level as his rogue level for this ability.
 
 During a surprise round or when attacking a flat-footed opponent, he adds his Intelligence modifier on damage with his chosen weapon (minimum 0).
 
@@ -348,9 +348,9 @@ Spellstriker magi have learned to channel their spells through their weapons to 
 
 **Spellstrike (Su)**
 
-At 1st level, whenever the spellstriker casts a magus spell that calls for a melee or ranged touch attack as a standard action, she can deliver the spell through a weapon she wields as part of an attack. This attack must be delivered through a melee weapon for spells with a range of “touch” and must be delivered with a ranged weapon for spells that call for a ranged touch attack. Instead of the free attack normally allowed to deliver the spell, the spellstriker can make one free attack with their appropriate wielded weapon (at her highest base attack bonus) as part of casting this spell. If this attack is critical hit, the delivered spell’s damage is only multiplied if the critical hit was a natural 20, or 19-20 if it was delivered by a keen weapon property or weapon modified similar effects, and only deals 2x damage.
+At 1st level, whenever the spellstriker casts a magus spell that calls for a melee or ranged touch attack as a standard action (1 AP), she can deliver the spell through a weapon she wields as part of an attack. This attack must be delivered through a melee weapon for spells with a range of “touch” and must be delivered with a ranged weapon for spells that call for a ranged touch attack. Instead of the free attack normally allowed to deliver the spell, the spellstriker can make one free attack with their appropriate wielded weapon (at her highest base attack bonus) as part of casting this spell. If this attack is critical hit, the delivered spell’s damage is only multiplied if the critical hit was a natural 20, or 19-20 if it was delivered by a keen weapon property or weapon modified similar effects, and only deals 2x damage.
 
-If the spell can normally affect multiple targets with a single cast, such as the scorching ray spell, only a single missile, ray, or effect accompanies each attack; if the spell allows multiple attacks and the spellstriker can make additional attacks as part of a full-round action with spell combat, one additional ray, missile, or effect from the spell accompanies each subsequent attack the spellstriker makes in the same round until all attacks allowed by the spell are made. Unused missiles, rays, or effects remaining at the end of the spellstriker’s turn are wasted. If a spell allows you to deliver multiple touch attacks over the course of multiple turns, such as the chill touch spell, these touches can be delivered with weapon attacks, however the spellstriker does not gain any additional weapon attacks to do so from this ability.
+If the spell can normally affect multiple targets with a single cast, such as the scorching ray spell, only a single missile, ray, or effect accompanies each attack; if the spell allows multiple attacks and the spellstriker can make additional attacks as part of a full-round action (3 AP) with spell combat, one additional ray, missile, or effect from the spell accompanies each subsequent attack the spellstriker makes in the same round until all attacks allowed by the spell are made. Unused missiles, rays, or effects remaining at the end of the spellstriker’s turn are wasted. If a spell allows you to deliver multiple touch attacks over the course of multiple turns, such as the chill touch spell, these touches can be delivered with weapon attacks, however the spellstriker does not gain any additional weapon attacks to do so from this ability.
 
 This replaces armaments of the magi.
 
@@ -364,7 +364,7 @@ This ability otherwise functions as spellstrike with regard to the weapon that m
 
 **Vital Striker (Su)**
 
-At 8th level, whenever the spellstriker uses their spellstrike ability as part of a spell cast as a standard action, they can treat the attack made using the ability is treated as an attack action, and may benefit from Vital Strike, as well as other feats and abilities that affect an attack action.
+At 8th level, whenever the spellstriker uses their spellstrike ability as part of a spell cast as a standard action (1 AP), they can treat the attack made using the ability is treated as an attack action, and may benefit from Vital Strike, as well as other feats and abilities that affect an attack action.
 
 **Greater Spellstrike**
 
@@ -380,7 +380,7 @@ These rare warriors have learned to travel within the space between realities, i
 
 **Warping Surge (Sp)**
 
-At first level, as a standard action the warp tempest can teleport herself and up to a heavy load to any location within close (25 feet + 5 feet per two legendary magus levels) range of her. The warp tempest must have line of sight and line of effect to her destination. This is a spell- like ability, and its effective spell level is equal to the highest level magus spell the warp tempest can cast. Using this ability counts as casting a magus spell for the purposes of the warp tempest’s channeled potential ability.
+At first level, as a standard action (1 AP) the warp tempest can teleport herself and up to a heavy load to any location within close (25 feet + 5 feet per two legendary magus levels) range of her. The warp tempest must have line of sight and line of effect to her destination. This is a spell- like ability, and its effective spell level is equal to the highest level magus spell the warp tempest can cast. Using this ability counts as casting a magus spell for the purposes of the warp tempest’s channeled potential ability.
 
 This replaces armaments of the magi.
 
@@ -390,7 +390,7 @@ The warp tempest can utilize their arcane potential to manipulate their ability 
 
 **1 Potential**
 
-**Warp Assault**: When the warp tempest uses her warping surge ability as a standard action, she can activate this talent to make a single melee attack with a weapon she is wielding at a -2 penalty. This attack can be made before or after she teleports.
+**Warp Assault**: When the warp tempest uses her warping surge ability as a standard action (1 AP), she can activate this talent to make a single melee attack with a weapon she is wielding at a -2 penalty. This attack can be made before or after she teleports.
 
 **2 Potential**
 

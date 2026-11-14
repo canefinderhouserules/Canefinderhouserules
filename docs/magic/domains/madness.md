@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the visions of madness power of the Madness domain.*
 
-*Insane Focus (Su): You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 hour. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Insane Focus (Su): You can touch a willing creature as a standard action (1 AP), granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 hour. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 4th—moonstruck, 6th—phantasmal web.*
 
@@ -30,7 +30,7 @@
 
 ***Replacement Power**: The following granted power replaces the vision of madness power of the Madness domain.*
 
-*Fearful Touch (Su): As a standard action, you can make a melee touch attack against a creature, causing it to experience terrible hallucinations for 3 rounds, or 2 rounds if you use a ranged touch attack instead of melee. During this time, the creature loses any immunity to fear effects it might possess and takes a –2 penalty on attack rolls made against you. In addition, the creature takes a penalty on Will saves made against fear effects equal to 1/2 your cleric level (minimum –1). This power is a mind-affecting effect. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.*
+*Fearful Touch (Su): As a standard action (1 AP), you can make a melee touch attack against a creature, causing it to experience terrible hallucinations for 3 rounds, or 2 rounds if you use a ranged touch attack instead of melee. During this time, the creature loses any immunity to fear effects it might possess and takes a –2 penalty on attack rolls made against you. In addition, the creature takes a penalty on Will saves made against fear effects equal to 1/2 your cleric level (minimum –1). This power is a mind-affecting effect. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 4th—phantasmal killer, 6th—cloak of dreams.*
 
@@ -44,6 +44,6 @@
 
 ***Replacement Power**: The following granted power replaces the aura of madness power of the Madness domain.*
 
-*Dawning Realization (Su): At 4th level, you can impart a shared vision of unfathomable ineffability to a living creature you touch as a standard action, after which your turn immediately ends. You are dazed and the target confused for 1 round by what you both learn. On the following round, you are both staggered for 1 round by the ramifications of your discovery. On the third round, you are confused and the target dazed for 1 round as you attempt to regain your bearings. Each round, the target can attempt a Will save with a DC equal to 10 + 1/2 your cleric level + your Wisdom modifier to negate that round’s effects for both of you, though the effect does not end until the end of the third round. This is a mindaffecting effect that you can use a number of times per day equal to 1/2 your class level.*
+*Dawning Realization (Su): At 4th level, you can impart a shared vision of unfathomable ineffability to a living creature you touch as a standard action (1 AP), after which your turn immediately ends. You are dazed and the target confused for 1 round by what you both learn. On the following round, you are both staggered for 1 round by the ramifications of your discovery. On the third round, you are confused and the target dazed for 1 round as you attempt to regain your bearings. Each round, the target can attempt a Will save with a DC equal to 10 + 1/2 your cleric level + your Wisdom modifier to negate that round’s effects for both of you, though the effect does not end until the end of the third round. This is a mindaffecting effect that you can use a number of times per day equal to 1/2 your class level.*
 
 ***Replacement Domain Spells**: 3rd—wall of nausea, 5th—contact other plane, 6th—litany of madness.*

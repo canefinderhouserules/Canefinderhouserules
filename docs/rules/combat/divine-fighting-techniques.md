@@ -18,7 +18,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Optional Replacement**: A chaotic good fighter or swashbuckler of at least 10th level who follows this technique’s patron can replace a bonus feat or deed with the following advanced benefit, even if he doesn’t meet the prerequisites.
 
-**Advanced Benefit**: You can refill your tankard with a beverage, potion, or other liquid from a bottle or vial as a swift action. You gain a +2 bonus on combat maneuver checks to perform dirty tricks with tankards. The effects of such a dirty trick last for 1d4 rounds + 1 round for every 5 points by which the result of your combat maneuver check exceeds the target’s CMD; a standard action is required for the target to remove this penalty.
+**Advanced Benefit**: You can refill your tankard with a beverage, potion, or other liquid from a bottle or vial as a swift action (1 AP). You gain a +2 bonus on combat maneuver checks to perform dirty tricks with tankards. The effects of such a dirty trick last for 1d4 rounds + 1 round for every 5 points by which the result of your combat maneuver check exceeds the target’s CMD; a standard action (1 AP) is required for the target to remove this penalty.
 
 ## Crushing Mandate
 
@@ -28,7 +28,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Advanced Prerequisites**: Int 13; Combat Expertise; Divine Fighting Technique; Improved Feint; base attack bonus +10 or Bluff 10 ranks.
 
-**Advanced Benefit**: An opponent that you hit with a light mace or heavy mace who is denied his Dexterity bonus to AC is also hindered by the attack. You can attempt a dirty trick combat maneuver check as a swift action that doesn't provoke an attack of opportunity immediately after damage from the attack is resolved.
+**Advanced Benefit**: An opponent that you hit with a light mace or heavy mace who is denied his Dexterity bonus to AC is also hindered by the attack. You can attempt a dirty trick combat maneuver check as a swift action (1 AP) that doesn't provoke an attack of opportunity immediately after damage from the attack is resolved.
 
 ## Distracting Shot
 
@@ -36,7 +36,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Optional Replacement**: A lawful good ranger who follows this technique's patron can choose Divine Fighting Technique as the bonus feat granted by his combat style if he chooses archery as his combat style.
 
-**Initial Benefit**: As a standard action, you can fire a distracting shot from your longbow or shortbow; when you do, select one ally who is adjacent to the creature you are targeting with the distracting shot. If you hit the creature, the chosen ally gains a +2 bonus to her Armor Class against that creature. This bonus to her Armor Class lasts until the start of your next turn.
+**Initial Benefit**: As a standard action (1 AP), you can fire a distracting shot from your longbow or shortbow; when you do, select one ally who is adjacent to the creature you are targeting with the distracting shot. If you hit the creature, the chosen ally gains a +2 bonus to her Armor Class against that creature. This bonus to her Armor Class lasts until the start of your next turn.
 
 **Advanced Prerequisites**: Dex 17; Divine Fighting Technique; Point-Blank Shot; Precise Shot; base attack bonus +10.
 
@@ -72,7 +72,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 *Alignment: chaotic evil.* A deity of monsters and misbirth teaches grisly techniques for sowing fear and blood.
 
-**Initial Benefit**: As a standard action, you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack—instead, add an amount of bleed damage equal to this modifier. The bleeding can be stopped by a successful DC 20 Heal check or any amount of magical healing. Bleed damage from this benefit doesn't stack with itself.
+**Initial Benefit**: As a standard action (1 AP), you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack—instead, add an amount of bleed damage equal to this modifier. The bleeding can be stopped by a successful DC 20 Heal check or any amount of magical healing. Bleed damage from this benefit doesn't stack with itself.
 
 **Advanced Prerequisites**: Str 13; Dazing Assault; Divine Fighting Technique; Power Attack.
 
@@ -84,13 +84,13 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Optional Replacement**: A paladin who follows this technique’s patron can replace a mercy with this initial benefit, even if she doesn’t meet its prerequisites.
 
-**Initial Benefit**: While wielding a longsword, you can perform an impressive display of prowess as a full-round action. All allies within 30 feet who can see your display gain a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 round + 1 round per 5 points of base attack bonus you have.
+**Initial Benefit**: While wielding a longsword, you can perform an impressive display of prowess as a full-round action (3 AP). All allies within 30 feet who can see your display gain a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 round + 1 round per 5 points of base attack bonus you have.
 
 **Advanced Prerequisites**: Dazzling Display, Weapon Focus (longsword), base attack bonus +10.
 
 **Optional Replacement**: A paladin of at least 9th level who follows this technique’s patron can replace a mercy with the following advanced benefit, even if she doesn’t meet the benefit’s prerequisites.
 
-**Advanced Benefit**: As a standard action or at the end of a charge, you can make an attack against a foe with a longsword. If you succeed, you grant all allies who can see your attack a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 minute.
+**Advanced Benefit**: As a standard action (1 AP) or at the end of a charge, you can make an attack against a foe with a longsword. If you succeed, you grant all allies who can see your attack a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 minute.
 
 ## Merciful Scimitar
 
@@ -106,11 +106,11 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 *Alignment: neutral evil.* A deity of gluttony and undeath teaches depraved ways to satisfy a hunger for an opponent's flesh and blood in battle.
 
-**Initial Benefit**: A number of times per day equal to your Wisdom bonus, you can feast upon the life essence of a creature that you hit with a scythe. Activating this ability is a swift action. When you do so, you gain a number of temporary hit points equal to the damage you dealt with the scythe attack. These temporary hit points last for 1 minute and don't stack.
+**Initial Benefit**: A number of times per day equal to your Wisdom bonus, you can feast upon the life essence of a creature that you hit with a scythe. Activating this ability is a swift action (1 AP). When you do so, you gain a number of temporary hit points equal to the damage you dealt with the scythe attack. These temporary hit points last for 1 minute and don't stack.
 
 **Advanced Prerequisites**: Divine Fighting Technique; Heal 10 ranks; base attack bonus +7.
 
-**Advanced Benefit**: A number of times per day equal to your Wisdom bonus, you can exacerbate any lingering contagions within a target's body upon making a successful melee attack with a scythe. Activating this ability is a swift action, and causes the target to immediately attempt additional saving throws against all diseases with which it is currently afflicted. Any failed saves cause the target to immediately take the effects of that disease, while a successful save does not count toward the number of consecutive saves that the target must succeed at in order to cure the disease.
+**Advanced Benefit**: A number of times per day equal to your Wisdom bonus, you can exacerbate any lingering contagions within a target's body upon making a successful melee attack with a scythe. Activating this ability is a swift action (1 AP), and causes the target to immediately attempt additional saving throws against all diseases with which it is currently afflicted. Any failed saves cause the target to immediately take the effects of that disease, while a successful save does not count toward the number of consecutive saves that the target must succeed at in order to cure the disease.
 
 ## Patient Strikes
 
@@ -142,13 +142,13 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Optional Replacement**: A chaotic neutral rogue or slayer who follows this technique’s patron can replace one talent with the following initial benefit.
 
-**Initial Benefit**: You can apply poison (your choice) to a whip as a move action. You do not risk poisoning yourself when applying poison to a whip. A whip you wield can deliver contact poison upon a successful combat maneuver check as well as upon a successful attack roll, regardless of whether you deal damage.
+**Initial Benefit**: You can apply poison (your choice) to a whip as a move action (1 AP). You do not risk poisoning yourself when applying poison to a whip. A whip you wield can deliver contact poison upon a successful combat maneuver check as well as upon a successful attack roll, regardless of whether you deal damage.
 
 **Advanced Prerequisites**: Whip Mastery, base attack bonus +10.
 
 **Optional Replacement**: A chaotic neutral rogue or slayer who follows this technique’s patron can replace one advanced talent with the following advanced benefit even if she doesn’t meet the prerequisites.
 
-**Advanced Benefit**: You can apply poison to a whip as a swift action. You can apply up to 3 doses of the same poison to a whip at a time. Foes are exposed to only 1 dose of poison from any one attack.
+**Advanced Benefit**: You can apply poison to a whip as a swift action (1 AP). You can apply up to 3 doses of the same poison to a whip at a time. Foes are exposed to only 1 dose of poison from any one attack.
 
 ## Ravaging Thunder
 
@@ -174,7 +174,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Optional Replacement**: A neutral evil rogue of at least 10th level who follows this technique's patron can replace an advanced rogue talent with the following advanced benefit without meeting its prerequisites.
 
-**Advanced Benefit**: At the start of each round, choose one opponent that you can see and attempt a Stealth check as a swift action. If the result of your check exceeds the target's CMD, treat the target as if it were completely unaware of your presence for the purpose of the initial benefit of this divine fighting technique. If you beat the target's CMD by 5 or more, you also treat it as being completely unaware of your presence for the purposes of all class features and feats you have.
+**Advanced Benefit**: At the start of each round, choose one opponent that you can see and attempt a Stealth check as a swift action (1 AP). If the result of your check exceeds the target's CMD, treat the target as if it were completely unaware of your presence for the purpose of the initial benefit of this divine fighting technique. If you beat the target's CMD by 5 or more, you also treat it as being completely unaware of your presence for the purposes of all class features and feats you have.
 
 ## Spinning Star
 
@@ -188,7 +188,7 @@ Any adventurer can learn a divine fighting technique by taking the [Divine Fight
 
 **Optional Replacement**: A chaotic good bard of at least 10th level who follows this technique's patron can replace a versatile performance with the following advanced benefit without meeting its prerequisites.
 
-**Advanced Benefit**: You can impart a powerful spin to a thrown starknife so that multiple blades strike the target rather than just a single blade of the four, dealing extra damage with the other blades. As a full-round action, you can make a single attack with a thrown starknife, rolling 1d4 to determine how many effective strikes you gain with the attack (if you roll a 1, then only one blade strikes). If the attack hits, all of the effective strikes damage the target. Apply precision-based damage (such as sneak attack damage) and critical hit damage only once for this attack. The damage bonus from your appropriate ability score modifier applies to each strike, as do other damage bonuses, such as a bard's inspire competence bonus. Damage reduction and resistances apply separately to each strike.
+**Advanced Benefit**: You can impart a powerful spin to a thrown starknife so that multiple blades strike the target rather than just a single blade of the four, dealing extra damage with the other blades. As a full-round action (3 AP), you can make a single attack with a thrown starknife, rolling 1d4 to determine how many effective strikes you gain with the attack (if you roll a 1, then only one blade strikes). If the attack hits, all of the effective strikes damage the target. Apply precision-based damage (such as sneak attack damage) and critical hit damage only once for this attack. The damage bonus from your appropriate ability score modifier applies to each strike, as do other damage bonuses, such as a bard's inspire competence bonus. Damage reduction and resistances apply separately to each strike.
 
 ## Thief-Catcher’s Crossbow
 

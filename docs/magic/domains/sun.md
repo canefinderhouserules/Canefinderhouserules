@@ -30,7 +30,7 @@
 
 ***Replacement Power**: The following granted power replaces the sun’s blessing power of the Sun domain.*
 
-*Blinding Flash (Su): As a standard action, you can emit a flash of light from your holy symbol or divine focus. The most powerful light emanates out 20 feet from you. Creatures with fewer Hit Dice than your cleric level within this area are blinded for 1d4 rounds unless they succeed at a Fortitude save. All creatures in this area are dazzled for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Blinding Flash (Su): As a standard action (2 AP), you can emit a flash of light from your holy symbol or divine focus. The most powerful light emanates out 20 feet from you. Creatures with fewer Hit Dice than your cleric level within this area are blinded for 1d4 rounds unless they succeed at a Fortitude save. All creatures in this area are dazzled for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—faerie fire, 3rd—daylight.*
 
@@ -56,7 +56,7 @@
 
 ***Replacement Power**: The following granted power replaces the sun’s blessing power and alters the nimbus of light power of the Sun domain.*
 
-*Wilting Glare (Su): As a standard action, you can leach moisture and vitality from a living, corporeal creature you can see within 30 feet. The target takes an amount of nonlethal damage equal to 1d6 + 1 for every 2 cleric levels you have and becomes fatigued until the beginning of your next turn (Fortitude negates). Plant creatures and those with the aquatic or water subtype take lethal damage from this ability, and they are fatigued for a number of rounds equal to your Wisdom modifier. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Wilting Glare (Su): As a standard action (1 AP), you can leach moisture and vitality from a living, corporeal creature you can see within 30 feet. The target takes an amount of nonlethal damage equal to 1d6 + 1 for every 2 cleric levels you have and becomes fatigued until the beginning of your next turn (Fortitude negates). Plant creatures and those with the aquatic or water subtype take lethal damage from this ability, and they are fatigued for a number of rounds equal to your Wisdom modifier. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *Withering Nimbus (Su): This ability functions as the nimbus of light domain ability, but it damages plants and creatures with the aquatic or water subtype, not undead.*
 

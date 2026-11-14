@@ -20,11 +20,11 @@ Grindylows normally have racial Hit Dice, skills, and other abilities, but PCs c
 
 **Swim Speed**: Grindylows have a swim speed of 30 feet.
 
-**Jet (1 RP)**: Grindylows can swim 200 feet backward as a full-round action. A grindylow must move in a straight line when jetting and does not provoke attacks of opportunity when using this ability.
+**Jet (1 RP)**: Grindylows can swim 200 feet backward as a full-round action (3 AP). A grindylow must move in a straight line when jetting and does not provoke attacks of opportunity when using this ability.
 
 **Bite**: Grindylows have a natural bite attack that deals 1d3 points of damage. This bite is a primary attack, or a secondary attack if the creature is wielding manufactured weapons.
 
-**Tangling Tentacles (4 RP)**: Grindylows have constantly writhing tentacles that reach out to tug at and trip adjacent foes. During the grindylow's turn, it can make a single trip attack against any adjacent foe as a swift action. The grindylow gains a +4 racial bonus on trip attacks with its tangling tentacles, and if it fails to trip a foe, that creature can't attempt to trip the grindylow in retaliation.
+**Tangling Tentacles (4 RP)**: Grindylows have constantly writhing tentacles that reach out to tug at and trip adjacent foes. During the grindylow's turn, it can make a single trip attack against any adjacent foe as a swift action (1 AP). The grindylow gains a +4 racial bonus on trip attacks with its tangling tentacles, and if it fails to trip a foe, that creature can't attempt to trip the grindylow in retaliation.
 
 **Amphibious**: Grindylows have the aquatic subtype, but they can breathe both water and air.
 

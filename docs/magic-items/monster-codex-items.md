@@ -20,7 +20,7 @@ This floppy leather hat allows a boggard or other froglike creature to drain the
 
 **Aura** moderate necromancy
 
-When applied to a creature's skin, scales, or carapace, this greasy unguent causes that creature to sweat poison from its pores. During this time, a creature that strikes the user with a natural weapon attack or unarmed strike is exposed to the poison. As a swift action, the user can apply the poison to a weapon. As a standard action, the user can deliver the poison as a touch attack. The salve creates a total of 3 doses of venomsweat poison, and any unused doses of poison harmlessly evaporate after 1 hour.
+When applied to a creature's skin, scales, or carapace, this greasy unguent causes that creature to sweat poison from its pores. During this time, a creature that strikes the user with a natural weapon attack or unarmed strike is exposed to the poison. As a swift action (1 AP), the user can apply the poison to a weapon. As a standard action (1 AP), the user can deliver the poison as a touch attack. The salve creates a total of 3 doses of venomsweat poison, and any unused doses of poison harmlessly evaporate after 1 hour.
 
 **Venomsweat**: Contact or injury; *save* Fort DC 16; *frequency* 1/round for 6 rounds; *effect* 1d3 Dexterity damage; *cure* 1 save.
 
@@ -84,9 +84,9 @@ If the wearer's unarmed strikes already have magical weapon special abilities (s
 
 Keenly aware of their vulnerability to light and to those who wield it as a weapon, the drow have pioneered many ways to defend themselves against light—magic or otherwise. Light-killer's grease is a pungent, oily alchemical substance harvested from underground fungus and mixed with powdered minerals common in the deep earth.
 
-When combined correctly, this black, tarry mass absorbs light. It must be applied around a creature's eyes (a full-round action) to function. When worn, it negates the dazzled condition from exposure to bright light and grants a +1 alchemical bonus on saving throws against spells and effects with the light descriptor. The grease is considered an overpowering scent for the purpose of the scent special ability, and a creature with scent can pinpoint the wearer's location at a range of 10 feet instead of 5 feet.
+When combined correctly, this black, tarry mass absorbs light. It must be applied around a creature's eyes (a full-round action (3 AP)) to function. When worn, it negates the dazzled condition from exposure to bright light and grants a +1 alchemical bonus on saving throws against spells and effects with the light descriptor. The grease is considered an overpowering scent for the purpose of the scent special ability, and a creature with scent can pinpoint the wearer's location at a range of 10 feet instead of 5 feet.
 
-Once applied, the grease remains potent for 1 hour. Removing the grease is a full-round action that requires a gallon of water or another suitable washing liquid; otherwise, the visual marks can be removed, ending the effect, but the smell remains for the full duration.
+Once applied, the grease remains potent for 1 hour. Removing the grease is a full-round action (3 AP) that requires a gallon of water or another suitable washing liquid; otherwise, the visual marks can be removed, ending the effect, but the smell remains for the full duration.
 
 **Crafting:** Craft (alchemy) DC 15
 
@@ -96,7 +96,7 @@ Once applied, the grease remains potent for 1 hour. Removing the grease is a ful
 
 This alchemical fluid is viscous and clear, and it emits a strong chemical smell when exposed to air. Vermin are attracted to it and perceive anything marked with it as prey. Spiders, insects, and similar vermin gain a +5 bonus on Perception checks and attack rolls against a creature marked with spiderdraw; if these creatures have the scent ability, they can detect a marked creature at five times the normal range, note its direction as a free action, and pinpoint it when it is within 25 feet.
 
-Drow sometimes use spiderdraw as a contact poison or splash weapon against opponents, allowing vermin to focus on the marked targets while the drow retreat, regroup, or move to a more advantageous position. Washing off the spiderdraw is a full-round action requiring at least a gallon of water or other suitable washing liquid; otherwise, the effects last for 1 hour.
+Drow sometimes use spiderdraw as a contact poison or splash weapon against opponents, allowing vermin to focus on the marked targets while the drow retreat, regroup, or move to a more advantageous position. Washing off the spiderdraw is a full-round action (3 AP) requiring at least a gallon of water or other suitable washing liquid; otherwise, the effects last for 1 hour.
 
 **Crafting:** Craft (alchemy) DC 20
 
@@ -177,7 +177,7 @@ These goggles are made of polished rock crystal, with frames of polished brass a
 
 **Aura** moderate necromancy [evil]
 
-This +1 *frost wounding* battleaxe sacrifices the souls of those it kills to the foul patrons of the frost giants. Whenever it kills a creature with at least 1 Hit Die (including creatures killed by its bleed damage), as an immediate action the wielder can activate either *divine favor* on himself or *bless* on himself and his allies.
+This +1 *frost wounding* battleaxe sacrifices the souls of those it kills to the foul patrons of the frost giants. Whenever it kills a creature with at least 1 Hit Die (including creatures killed by its bleed damage), as an immediate action (1 AP of your next turn) the wielder can activate either *divine favor* on himself or *bless* on himself and his allies.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *bleed*, *bless*, *chill metal*, *death knell*, *divine favor*; **Cost** 20,310 gp
 
@@ -197,7 +197,7 @@ These gloves are made of goatskin reinforced with heavy iron strips. They provid
 
 **Aura** moderate conjuration
 
-When this canine fang is crushed or broken as a full-round action, it summons a winter wolf. The wolf is under the control of the creature that broke the fang. The wolf remains for 1 minute or until slain.
+When this canine fang is crushed or broken as a full-round action (3 AP), it summons a winter wolf. The wolf is under the control of the creature that broke the fang. The wolf remains for 1 minute or until slain.
 
 **Construction Requirements:** Craft Wondrous Item, *summon nature's ally V*; **Cost** 1,250 gp
 
@@ -259,7 +259,7 @@ These crude straps are used to secure a goblin or other small creature to the un
 
 Used by hobgoblin alchemists to equip their comrades, these spherical glass vials can each be filled with 1 dose of an alchemical splash weapon, allowing them to be used as ammunition for a sling. On a hit, an alchemical sling bullet shatters, affecting the target with the alchemical solution within. This deals only the splash weapon's damage (if any), not the damage a sling bullet would normally deal. This attack resolves against the target's regular AC (rather than touch AC) as with a standard sling bullet, and uses the sling's range. An alchemical sling bullet does not deal splash damage to squares adjacent to the target. If an attack roll with an alchemical sling bullet misses, the bullet and its alchemical contents are destroyed, and do not risk detonating in another square.
 
-Filling an alchemical sling bullet is a standard action that provokes attacks of opportunity, and you must succeed at a DC 15 Craft (alchemy) or Sleight of Hand check to avoid spilling the alchemical item on yourself. On a failed check, the splash weapon explodes in your square as though you were targeted by the item (including any splash effects on adjacent squares).
+Filling an alchemical sling bullet is a standard action (1 AP) that provokes attacks of opportunity, and you must succeed at a DC 15 Craft (alchemy) or Sleight of Hand check to avoid spilling the alchemical item on yourself. On a failed check, the splash weapon explodes in your square as though you were targeted by the item (including any splash effects on adjacent squares).
 
 
 ### Bombchucker
@@ -294,7 +294,7 @@ This unusual seat is designed so that an orc handler can sit astride a huge war 
 
 **Price** 30 gp; **Weight** 20 lbs.
 
-This simple harness, basically just a leather lash, straps a combatant's arm to the tusk or horn of a Huge or larger animal such as a war beast. Engaging or disengaging a horn harness is a standard action that provokes attacks of opportunity. A horn harness includes a quiver that typically holds up to 12 javelins. A creature in a horn harness gains all the bonuses and takes all the penalties for engaging in combat or casting spells while mounted (see the Ride skill), but also can't do anything that requires using the hand lashed to the mount. If the mount falls in battle, the creature in the horn harness remains attached, but can attempt a DC 25 Ride check to make a soft fall. If the creature in the horn harness falls unconscious, it remains strapped in, but takes an amount of damage equal to the mount's trample damage (if any) each round the monster moves.
+This simple harness, basically just a leather lash, straps a combatant's arm to the tusk or horn of a Huge or larger animal such as a war beast. Engaging or disengaging a horn harness is a standard action (1 AP) that provokes attacks of opportunity. A horn harness includes a quiver that typically holds up to 12 javelins. A creature in a horn harness gains all the bonuses and takes all the penalties for engaging in combat or casting spells while mounted (see the Ride skill), but also can't do anything that requires using the hand lashed to the mount. If the mount falls in battle, the creature in the horn harness remains attached, but can attempt a DC 25 Ride check to make a soft fall. If the creature in the horn harness falls unconscious, it remains strapped in, but takes an amount of damage equal to the mount's trample damage (if any) each round the monster moves.
 
 ### Ambush Cauldron
 
@@ -348,7 +348,7 @@ The beast's mask depicts fearsome tusks, scales, or other features meant to make
 
 **Aura** moderate transmutation
 
-Spikebones are a collection of bleached humanoid bones—typically the ribs, vertebrae, and finger bones—carried in a crude pouch made of the humanoid's skin and connective tissue. Three times per day, the spikebones can be cast upon the ground as a standard action to create an area of dangerous spikes. Bony in color and shape, these sharp protrusions function like a *spike growth* spell. The spikes fill four contiguous 10-foot-square areas, shaped by the user at the time of deployment. The spikes remain effective for up to 3 hours, after which they vanish and the spikebones magically reappearing in their pouch.
+Spikebones are a collection of bleached humanoid bones—typically the ribs, vertebrae, and finger bones—carried in a crude pouch made of the humanoid's skin and connective tissue. Three times per day, the spikebones can be cast upon the ground as a standard action (1 AP) to create an area of dangerous spikes. Bony in color and shape, these sharp protrusions function like a *spike growth* spell. The spikes fill four contiguous 10-foot-square areas, shaped by the user at the time of deployment. The spikes remain effective for up to 3 hours, after which they vanish and the spikebones magically reappearing in their pouch.
 
 **Construction Requirements:** Craft Wondrous Item, *animate dead*, *spike growth*; **Cost** 11,000 gp
 
@@ -372,7 +372,7 @@ If the drummer plays the *war drums of savagery* as part of a bardic performance
 
 **Price** 75 gp; **Weight** 1/2 lb.
 
-When applied to the nose as a standard action, this alchemical paste traps airborne particles and sharpens your olfactory receptors, heightening your sense of smell. You gain the scent ability, except you can detect creatures and odors at only half the distance. If you already have the scent ability, rhinarium paste increases the range at which you can detect creatures by 50%. Rhinarium paste's effect lasts for 1 hour. Crafting this item requires a successful DC 20 Craft (alchemy) check.
+When applied to the nose as a standard action (1 AP), this alchemical paste traps airborne particles and sharpens your olfactory receptors, heightening your sense of smell. You gain the scent ability, except you can detect creatures and odors at only half the distance. If you already have the scent ability, rhinarium paste increases the range at which you can detect creatures by 50%. Rhinarium paste's effect lasts for 1 hour. Crafting this item requires a successful DC 20 Craft (alchemy) check.
 
 ### Catalytic Weapon Ability
 
@@ -380,7 +380,7 @@ When applied to the nose as a standard action, this alchemical paste traps airbo
 
 **Aura** strong evocation
 
-This ability can be placed only on a *corrosive* or *corrosive burst* weapon. When the wielder of a *catalytic* weapon hits a creature, the weapon triggers a devastating chemical reaction that burns the struck creature. The creature struck must succeed at a DC 15 Fortitude save, or take 1d6 points of acid damage at the start of its turn for 1d4 rounds. Successive hits with the *catalytic* weapon increase the duration but don't add to the damage. The creature can attempt to neutralize the reaction as a full-round action as if it were on fire (including bonuses for dropping and rolling on the ground or jumping into water). Anyone who hits a creature subject to this chemical reaction with a natural weapon or unarmed strike takes 1d6 points of acid damage.
+This ability can be placed only on a *corrosive* or *corrosive burst* weapon. When the wielder of a *catalytic* weapon hits a creature, the weapon triggers a devastating chemical reaction that burns the struck creature. The creature struck must succeed at a DC 15 Fortitude save, or take 1d6 points of acid damage at the start of its turn for 1d4 rounds. Successive hits with the *catalytic* weapon increase the duration but don't add to the damage. The creature can attempt to neutralize the reaction as a full-round action (3 AP) as if it were on fire (including bonuses for dropping and rolling on the ground or jumping into water). Anyone who hits a creature subject to this chemical reaction with a natural weapon or unarmed strike takes 1d6 points of acid damage.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *acid arrow*; **Cost** +1 bonus
 
@@ -446,7 +446,7 @@ A *cave dweller's greataxe* appears to be a thin slab of stone crudely lashed to
 
 **Aura** faint conjuration
 
-This fetish of bone, shed reptilian skin, and small stones can be worn around the neck to convert a creature's stench into a breath weapon. It has no benefits for a creature that doesn't have the stench special ability. While a creature wears this amulet, its stench aura is suppressed. Once per hour as a standard action, the wearer can spray a brown slime from its mouth in a 30-foot cone. Any creature hit by the slime must succeed at a Fortitude save or become sickened for the same duration. The save DC and duration are the same as those of the wearer's stench aura.
+This fetish of bone, shed reptilian skin, and small stones can be worn around the neck to convert a creature's stench into a breath weapon. It has no benefits for a creature that doesn't have the stench special ability. While a creature wears this amulet, its stench aura is suppressed. Once per hour as a standard action (1 AP), the wearer can spray a brown slime from its mouth in a 30-foot cone. Any creature hit by the slime must succeed at a Fortitude save or become sickened for the same duration. The save DC and duration are the same as those of the wearer's stench aura.
 
 Furthermore, the floor in the cone becomes coated in the slick slime for 1 minute. This has the same effects as coating a solid surface with a *grease* spell (DC 11), but doesn't require creatures to attempt saving throws if they're in the area when the cone is created—only if they move through the area.
 

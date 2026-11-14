@@ -6,7 +6,7 @@ You can shift your physiology without fully changing your shape, giving you an a
 
 **Prerequisites**: Base attack bonus +3, change shape ability, shapechanger subtype.
 
-**Benefit**: You reshape your body, gaining one of the following benefits. You choose the benefit when you enter the style, and while in the style you can change the benefit as a swift action.
+**Benefit**: You reshape your body, gaining one of the following benefits. You choose the benefit when you enter the style, and while in the style you can change the benefit as a swift action (1 AP).
 
 **Brutal Attack**: Choose one of your natural attacks. You gain a +1 bonus on damage rolls with that attack when using this style, plus an additional +1 for every feat you have that lists Shapeshifter Style as a prerequisite (maximum +3).
 

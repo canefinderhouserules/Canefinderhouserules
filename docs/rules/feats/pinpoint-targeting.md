@@ -6,4 +6,4 @@ You can target the weak points in your opponent’s armor.
 
 **Prerequisites**: Dex 19, [Improved Precise Shot](improved-precise-shot.md), [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), base attack bonus +16.
 
-**Benefit**: As a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.
+**Benefit**: As a standard action (1 AP), make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.

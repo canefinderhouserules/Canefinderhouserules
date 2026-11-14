@@ -4,4 +4,4 @@ You can alter your smite ability, channeling the power of your deity into divine
 
 **Prerequisites**: Smite evil class feature, base attack bonus +5.
 
-**Benefit**: While using your smite evil class feature, as a swift action at the start of your turn, you can forgo the bonus on damage rolls and instead gain half that bonus as a bonus on combat maneuver checks against the target of your smite. The effects of your smite evil feature return to normal at the start of your next turn.
+**Benefit**: While using your smite evil class feature, as a swift action (1 AP) at the start of your turn, you can forgo the bonus on damage rolls and instead gain half that bonus as a bonus on combat maneuver checks against the target of your smite. The effects of your smite evil feature return to normal at the start of your next turn.

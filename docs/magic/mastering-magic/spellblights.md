@@ -73,13 +73,13 @@ The following section details spellblights, split up based on their severity and
 
 The following is a list and descriptions of many of the most common minor spellblights.
 
-**Caster Blank**: A spellcaster with caster blank has a hard time focusing her spells or spell-like abilities on the same creature more than once. After targeting a creature with a spell, the caster cannot target that creature again with a spell until caster blank is removed or suppressed. To suppress caster blank, the afflicted spell caster must spend a standard action concentrating, which shakes off all effects of the caster blank until she casts a targeted spell again. Caster blank only affects spells that target creatures, and a spellcaster can still affect the creature with area spells.
+**Caster Blank**: A spellcaster with caster blank has a hard time focusing her spells or spell-like abilities on the same creature more than once. After targeting a creature with a spell, the caster cannot target that creature again with a spell until caster blank is removed or suppressed. To suppress caster blank, the afflicted spell caster must spend a standard action (1 AP) concentrating, which shakes off all effects of the caster blank until she casts a targeted spell again. Caster blank only affects spells that target creatures, and a spellcaster can still affect the creature with area spells.
 
 Caster blank can be cured by any effect that removes confusion or insanity. Creatures that are immune to mind-affecting effects are immune to this spellblight.
 
 **Caster Croak**: The afflicted spellcaster’s throat or mouth is magically constricted. The spellcaster can barely make her words heard, and then only with great effort.
 
-A creature under this affect can only make itself heard by others by spending a swift action to focus its will on speech. Casting spells with a verbal component has a 20% chance of spell failure, and the save DCs of any spells she casts with the language-dependent descriptor are reduced by 4. Spell-like abilities are not affected by this spellblight because they lack verbal components.
+A creature under this affect can only make itself heard by others by spending a swift action (1 AP) to focus its will on speech. Casting spells with a verbal component has a 20% chance of spell failure, and the save DCs of any spells she casts with the language-dependent descriptor are reduced by 4. Spell-like abilities are not affected by this spellblight because they lack verbal components.
 
 Shouting and screaming is impossible while the creature is affected by this spellblight.
 
@@ -113,7 +113,7 @@ Lassitude can be cured by lesser restoration, restoration, or any effect that co
 
 Spell-like abilities now require a somatic component.
 
-The extra complexity increases swift action casting times to a standard action, standard action casting times to 1 round, and 1 round casting times to 2 rounds. Other casting times are not increased. The extra focus does serve to increase the efficacy of the caster’s spells. All save DCs for spells and spell-like abilities that have their casting time increased with ritualistic obsession are increased by 1.
+The extra complexity increases swift action (1 AP) casting times to a standard action (1 AP), standard action (1 AP) casting times to 1 round, and 1 round casting times to 2 rounds. Other casting times are not increased. The extra focus does serve to increase the efficacy of the caster’s spells. All save DCs for spells and spell-like abilities that have their casting time increased with ritualistic obsession are increased by 1.
 
 Ritualistic obsession is cured by any effect that removes insanity. Creatures that are immune to mind-affecting effects are immune to ritualistic obsession.
 
@@ -191,4 +191,4 @@ A restoration cast on the afflicted spellcaster suppresses this spellblight for 
 
 **Shaken**: While a spellcaster is shaken, once per day she can channel her fear to increase the power of a single spell with the fear descriptor that she casts. When she does so, the spell DC of that spell is increased by 1. She must actually cast the spell; this ability cannot raise the caster level of a spell cast from a magic item.
 
-**Staggered**: Once per day, while a spellcaster is staggered, she can take a 20% chance of spell failure when casting a single spell that takes a swift or standard action to cast. If the spell is successfully cast, she can take a move action directly after casting the spell.
+**Staggered**: Once per day, while a spellcaster is staggered, she can take a 20% chance of spell failure when casting a single spell that takes a swift or standard action (1 AP) to cast. If the spell is successfully cast, she can take a move action (1 AP) directly after casting the spell.

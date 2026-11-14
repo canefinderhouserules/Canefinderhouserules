@@ -67,7 +67,7 @@ If the pain taster wishes to change her routine, she must spend 2,000 gp when fi
 
 At 1st level, a pain taster becomes empowered by pain, and is inured to its effects. She receives a +4 class bonus on saving throws made against pain effects.
 
-Additionally, a pain taster can deal lethal damage to herself at any time to gain a bonus on attack and damage rolls. Doing so is a swift action that deals 2 points of damage to the pain taster, does not require an attack roll, and bypasses any damage reduction the pain taster possesses. For 1 round, the pain taster gains a +1 morale bonus on attack rolls and a +2 bonus on damage rolls. Every 3 levels thereafter (4th, 7th, and 10th), the amount of damage the pain taster deals to herself increases by 2 and the resulting bonus she receives on damage rolls increase by 1 (to a maximum of 8 points of self-inflicted damage and 5 points of bonus damage to other targets at 10th level). At 7th level, the bonus on attack rolls gained when using this ability increases to +2.
+Additionally, a pain taster can deal lethal damage to herself at any time to gain a bonus on attack and damage rolls. Doing so is a swift action (1 AP) that deals 2 points of damage to the pain taster, does not require an attack roll, and bypasses any damage reduction the pain taster possesses. For 1 round, the pain taster gains a +1 morale bonus on attack rolls and a +2 bonus on damage rolls. Every 3 levels thereafter (4th, 7th, and 10th), the amount of damage the pain taster deals to herself increases by 2 and the resulting bonus she receives on damage rolls increase by 1 (to a maximum of 8 points of self-inflicted damage and 5 points of bonus damage to other targets at 10th level). At 7th level, the bonus on attack rolls gained when using this ability increases to +2.
 
 #### Scourge (Ex)
 
@@ -85,11 +85,11 @@ At 2nd level, the pain taster’s incredible resilience grants her a modest amou
 
 At 3rd level, the pain taster gains the ability to control the blood pressure throughout her body. Anytime the pain taster is dealt bleed damage, she reduces the amount of damage taken by 1 per pain taster level (minimum 0). When taking Constitution damage as a result of blood loss (such as a stirge or a vampire’s bite), a pain taster reduces the amount of ability damage dealt by an amount equal to half the pain taster’s class level (minimum 0).
 
-As an immediate action, a pain taster can delay the onset of injury or contact poisons by succeeding at a Will save. The DC of this check is equal to the poison’s save DC. If the save is successful, the poison’s initial and secondary damage are both delayed by 1 minute per pain taster level.
+As an immediate action (1 AP of your next turn), a pain taster can delay the onset of injury or contact poisons by succeeding at a Will save. The DC of this check is equal to the poison’s save DC. If the save is successful, the poison’s initial and secondary damage are both delayed by 1 minute per pain taster level.
 
 #### Torturer’s Mettle (Ex)
 
-At 3rd level, a pain taster can gain a number of temporary hit points equal to her pain taster level as a swift action. These temporary hit points last for 1 minute. This ability is a swift action that can be used once per day at 3rd level and an additional time per day every 3 levels thereafter (6th and 9th).
+At 3rd level, a pain taster can gain a number of temporary hit points equal to her pain taster level as a swift action (1 AP). These temporary hit points last for 1 minute. This ability is a swift action (1 AP) that can be used once per day at 3rd level and an additional time per day every 3 levels thereafter (6th and 9th).
 
 #### Pain Mastery (Ex)
 

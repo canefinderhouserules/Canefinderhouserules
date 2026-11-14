@@ -74,7 +74,7 @@ In addition, the brutal assassin uses their Strength modifier instead of their C
 
 *This ability alters [sneak attack](kinetic-shinobi.md#sneak-attack-ex) and replaces the [ninjutsu training](kinetic-shinobi.md#ninjutsu-training-su) class feature gained at 12th level.*
 
-**Threatening Presence (Ex):** At 3rd level, whenever a brutal assassin deals sneak attack damage, they can attempt an [Intimidate](../../../rules/skills/intimidate.md) check to demoralize any creature dealt by their kinetic blast as a swift action. They receive a +1 bonus on this check at 6th level and for every 3 levels thereafter.
+**Threatening Presence (Ex):** At 3rd level, whenever a brutal assassin deals sneak attack damage, they can attempt an [Intimidate](../../../rules/skills/intimidate.md) check to demoralize any creature dealt by their kinetic blast as a swift action (1 AP). They receive a +1 bonus on this check at 6th level and for every 3 levels thereafter.
 
 *This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
@@ -120,7 +120,7 @@ If an elemental shinobi takes the ward of elements shinobi talent, it functions 
 
 **Ki Pool (Ex):** An elemental shinobi has reduced capacity to access their ki. They can only spend 1 point from their ki pool per round. This limit rises to 2 at 6th level, and by an additional 1 per 3 elemental shinobi levels they possess. Their ki pool has a number of points equal to 3 + their Charisma modifier. An elemental shinobi does not gain the ability to spend points from their ki pool to provide themselves a +20 bonus to [Acrobatics](../../../rules/skills/acrobatics.md) checks made while leaping.
 
-At 6th level, an elemental shinobi can “overburn” their ki. Once per day, as a full-round action, they can increase the size of their ki pool by 1 point by accepting 2 Charisma damage which lasts until they refresh their ki pool and cannot otherwise be removed. They can do this twice per day at 12th level, and 3 times per day at 18th. This additional point of ki lasts for 12 hours or until they refresh their ki pool (whichever comes first), and if it is not spent before this duration ends it is lost. An elemental shinobi with immunity to Charisma damage cannot benefit from this ability.
+At 6th level, an elemental shinobi can “overburn” their ki. Once per day, as a full-round action (3 AP), they can increase the size of their ki pool by 1 point by accepting 2 Charisma damage which lasts until they refresh their ki pool and cannot otherwise be removed. They can do this twice per day at 12th level, and 3 times per day at 18th. This additional point of ki lasts for 12 hours or until they refresh their ki pool (whichever comes first), and if it is not spent before this duration ends it is lost. An elemental shinobi with immunity to Charisma damage cannot benefit from this ability.
 
 'This alters ki pool.**
 
@@ -196,7 +196,7 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 *This replaces the shinobi talents gained at 3rd and 13th levels.*
 
-**Flexible Flow (Su):** At 4th level, a hand of the kami can choose to alter the flow of ki within their bodies. Upon activating this ability and for its duration, they gain a +1 competence bonus to damage rolls with kinetic blasts affected by elemental jutsu or physical jutsu, increasing this bonus by 1 per 4 hand of the kami levels beyond 4th. In addition, their empower weapons does not require them to spend points from their ki pool and can be used as a free action. As a cost for gaining these boons, the hand of the kami must temporarily suppress their ninjutsu specialist ability. Activating and deactivating this ability is a standard action, and it lasts as long as the hand of the kami wishes.
+**Flexible Flow (Su):** At 4th level, a hand of the kami can choose to alter the flow of ki within their bodies. Upon activating this ability and for its duration, they gain a +1 competence bonus to damage rolls with kinetic blasts affected by elemental jutsu or physical jutsu, increasing this bonus by 1 per 4 hand of the kami levels beyond 4th. In addition, their empower weapons does not require them to spend points from their ki pool and can be used as a free action. As a cost for gaining these boons, the hand of the kami must temporarily suppress their ninjutsu specialist ability. Activating and deactivating this ability is a standard action (1 AP), and it lasts as long as the hand of the kami wishes.
 
 *This alters [ninjutsu specialist](kinetic-shinobi.md#ninjutsu-specialist-ex).*
 
@@ -358,7 +358,7 @@ A shadow stepper spell cast by the shadow stepper can be affected by their metaj
 
 1st—[*shadow enchantment*](../../../magic/spells/shadow-enchantment.md), 2nd—[*shadow conjuration*](../../../magic/spells/shadow-conjuration.md), [*shadow step*](../../../magic/spells/shadow-step.md), [*shadow projection*](../../../magic/spells/shadow-projection.md), 3rd—[*shadow evocation*](../../../magic/spells/shadow-evocation.md), *shadow enchantment, greater*, [*shadow walk*](../../../magic/spells/shadow-walk.md) 4th—*shadow conjuration, greater*, *shadow evocation, greater*
 
-Consuming this ki requires a swift action. Any time a shadow stepper casts a spell in this way it is treated in all ways as identical to a normal spell of that level for the shadow stepper. The shadow stepper adds a bonus of +¼ their shadow stepper level -2 to the DCs of these spells.
+Consuming this ki requires a swift action (1 AP). Any time a shadow stepper casts a spell in this way it is treated in all ways as identical to a normal spell of that level for the shadow stepper. The shadow stepper adds a bonus of +¼ their shadow stepper level -2 to the DCs of these spells.
 
 *This alters ki pool.*
 

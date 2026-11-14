@@ -81,7 +81,7 @@ Starting at 4th level, a rage prophet’s spells grow more potent when he rages.
 
 #### Spirit Guardian (Sp)
 
-At 5th level, the competence bonus provided by the spirit guide’s guidance spell increases to half the rage prophet’s class level when used while battling a fey, outsider, undead, or incorporeal creature. As a swift action, the rage prophet can spend 1 round of rage (whether he is raging or not) to give his armor and weapons the ghost touch property for 1 round; this effect ends if the item is no longer in his possession.
+At 5th level, the competence bonus provided by the spirit guide’s guidance spell increases to half the rage prophet’s class level when used while battling a fey, outsider, undead, or incorporeal creature. As a swift action (1 AP), the rage prophet can spend 1 round of rage (whether he is raging or not) to give his armor and weapons the ghost touch property for 1 round; this effect ends if the item is no longer in his possession.
 
 #### Enduring Rage (Su)
 
@@ -93,7 +93,7 @@ At 8th level, a rage prophet is able to cast spells with a range of “personal�
 
 #### Spirit Warrior (Su)
 
-At 9th level, the competence bonus provided by the rage prophet’s guidance increases to his rage prophet level when used while battling a fey, outsider, undead, or incorporeal creature. His ability to give his armor and weapons the ghost touch property becomes an immediate action instead of a swift action.
+At 9th level, the competence bonus provided by the rage prophet’s guidance increases to his rage prophet level when used while battling a fey, outsider, undead, or incorporeal creature. His ability to give his armor and weapons the ghost touch property becomes an immediate action (1 AP of your next turn) instead of a swift action.
 
 #### Greater Rage (Ex)
 

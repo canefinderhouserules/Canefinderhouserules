@@ -6,6 +6,6 @@ You can move, fire a ranged weapon, and move again before your foes can react.
 
 **Prerequisites**: Dex 13, Dodge, [Mobility](mobility.md), [Point-Blank Shot](point-blank-shot.md), base attack bonus +4.
 
-**Benefit**: As a full-round action, you can move up to your speed and make a single ranged attack at any point during your movement.
+**Benefit**: As a full-round action (3 AP), you can move up to your speed and make a single ranged attack at any point during your movement.
 
 **Normal**: You cannot move before and after an attack with a ranged weapon.

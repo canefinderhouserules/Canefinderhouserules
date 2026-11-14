@@ -79,7 +79,7 @@
 
 2a- Beast Shape 1 but only bloodline animal or bat \[Standard\]. 2 claws, 1d6 damage + Str; counts as lethal. \[Standard\]
 
-2b- You bury yourself \[Full round Action\]
+2b- You bury yourself \[Full round Action (3 AP)\]
 
 3- Beast Shape 2 but only Bloodline animal or bat \[Standard\]. Claws damage 1d8 + str. Dark Vision 60. \[Swift\]
 
@@ -101,11 +101,11 @@
 
 **Obtenebration:**
 
-1a- Shadow Double: As a full round action, you create a single, shadowy duplicate. This shadow double remains in his square, mimicking his movements as a single mirror image, except that it lasts until it is destroyed or he chooses to dismiss it as a swift action. At 5th level, and every 5 levels after, you gain 1 extra double.
+1a- Shadow Double: As a full round action (3 AP), you create a single, shadowy duplicate. This shadow double remains in his square, mimicking his movements as a single mirror image, except that it lasts until it is destroyed or he chooses to dismiss it as a swift action (1 AP). At 5th level, and every 5 levels after, you gain 1 extra double.
 
 1b- Darkness.
 
-2a- Mythic Darkness. In addition to using the shadow doubles as mirror images in his square, he can move his doubles as part of his own move action, dividing his movement between himself and his doubles. When outside his square, shadow doubles do not protect the Lasombra as mirror image and are limited in the actions they can take. Shadow doubles provide flanking for the vampire and his allies, but they do not possess teamwork feats or special abilities that alter the effects of flanking or aiding another. As a swift action, he can direct his shadow doubles to use the aid another action, using his own base attack bonus plus his Intelligence modifier for the roll.
+2a- Mythic Darkness. In addition to using the shadow doubles as mirror images in his square, he can move his doubles as part of his own move action (1 AP), dividing his movement between himself and his doubles. When outside his square, shadow doubles do not protect the Lasombra as mirror image and are limited in the actions they can take. Shadow doubles provide flanking for the vampire and his allies, but they do not possess teamwork feats or special abilities that alter the effects of flanking or aiding another. As a swift action (1 AP), he can direct his shadow doubles to use the aid another action, using his own base attack bonus plus his Intelligence modifier for the roll.
 
 2b- Black Tentacles, but single target.
 

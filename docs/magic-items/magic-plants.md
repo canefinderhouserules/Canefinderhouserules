@@ -112,7 +112,7 @@ Fishweed yields up to four leaves per day. A patch of fishweed has no more than 
 **Aura** moderate enchantment; **CL** 10th  
 **Price** 10,500 gp; **Slot** none; **Weight** 50 lbs.
 
-The eyes of those who chew these pale white flowers widen and turn a milky white. The flowers send the user into a furious rage similar to that of a barbarian, granting a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC. These effects remain active for as long as she chews the flower, up to 1 minute. A creature can begin chewing ghostblossom as a move action and can continue to chew as a free action every round.
+The eyes of those who chew these pale white flowers widen and turn a milky white. The flowers send the user into a furious rage similar to that of a barbarian, granting a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC. These effects remain active for as long as she chews the flower, up to 1 minute. A creature can begin chewing ghostblossom as a move action (1 AP) and can continue to chew as a free action every round.
 
 A ghostblossom vine flowers once daily through a single 13-week growing period every summer.
 

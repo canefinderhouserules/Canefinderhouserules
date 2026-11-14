@@ -99,7 +99,7 @@ At 7th level, a Brother of the Seal increases his unarmed strike damage as thoug
 
 #### Rapid Slam (Ex)
 
-At 8th level, a Brother of the Seal can use his Awesome Blow feat once per round as part of a flurry of blows. Alternatively, he can make an awesome blow combat maneuver as part of a charge or as part of the same standard action he uses to perform another combat feat that involves an attack (such as Cleave or [Vital Strike](../../rules/feats/vital-strike.md)). He can still only make an awesome blow maneuver once per round regardless of how many attacks he makes.
+At 8th level, a Brother of the Seal can use his Awesome Blow feat once per round as part of a flurry of blows. Alternatively, he can make an awesome blow combat maneuver as part of a charge or as part of the same standard action (1 AP) he uses to perform another combat feat that involves an attack (such as Cleave or [Vital Strike](../../rules/feats/vital-strike.md)). He can still only make an awesome blow maneuver once per round regardless of how many attacks he makes.
 
 #### Cascading Strike (Ex)
 

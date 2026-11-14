@@ -102,9 +102,9 @@ Add your tier to the base attack bonus of the tentacles. The tentacles also deal
 
 ## Blade Barrier
 
-You may cast this spell as an immediate action. The barrier's damage increases to 1d8 per caster level (maximum 20d8).
+You may cast this spell as an immediate action (1 AP of your next turn). The barrier's damage increases to 1d8 per caster level (maximum 20d8).
 
-**Augmented (3rd)**: If you expend two uses of mythic power, you can spend a move action to move the barrier up to 10 feet in any direction. The shape (flat or ring) and orientation (vertical or horizontal) of the wall must remain the same. If you move the barrier through a creature's space, it can attempt a saving throw to avoid the wall, as if you had created it where the creature is.
+**Augmented (3rd)**: If you expend two uses of mythic power, you can spend a move action (1 AP) to move the barrier up to 10 feet in any direction. The shape (flat or ring) and orientation (vertical or horizontal) of the wall must remain the same. If you move the barrier through a creature's space, it can attempt a saving throw to avoid the wall, as if you had created it where the creature is.
 
 ## Blasphemy
 
@@ -134,9 +134,9 @@ You can cause the target to be both blinded and [deafened](../../rules/appendice
 
 ## Blink
 
-You may spend a move action to remain corporeal or incorporeal until the end of your turn (you automatically resume blinking at the end of your turn).
+You may spend a move action (1 AP) to remain corporeal or incorporeal until the end of your turn (you automatically resume blinking at the end of your turn).
 
-**Augmented (3rd)**: If you expend two uses of mythic power, you can spend either a swift action or a move action to remain corporeal or incorporeal until the end of your turn.
+**Augmented (3rd)**: If you expend two uses of mythic power, you can spend either a swift action (1 AP) or a move action (1 AP) to remain corporeal or incorporeal until the end of your turn.
 
 ## Blistering Invective
 
@@ -184,9 +184,9 @@ The spell heals 5d12 points of damage + 1 point per caster level (maximum +25). 
 
 **Source** *Advanced Player's Guide*
 
-You may focus your burning gaze on a creature or object as a move action instead of as a standard action. The spell's damage dice are d8s instead of d6s, both when you target a creature and for each round it's on fire.
+You may focus your burning gaze on a creature or object as a move action (1 AP) instead of as a standard action (1 AP). The spell's damage dice are d8s instead of d6s, both when you target a creature and for each round it's on fire.
 
-**Augmented**: If you expend two uses of mythic power, once during the spell's duration you can, as a full-round action, direct your burning gaze at up to one creature per caster level.
+**Augmented**: If you expend two uses of mythic power, once during the spell's duration you can, as a full-round action (3 AP), direct your burning gaze at up to one creature per caster level.
 
 ??? note "Original rule"
     The target takes 1d8 points of fire damage for failing its save and for each round it's on fire.

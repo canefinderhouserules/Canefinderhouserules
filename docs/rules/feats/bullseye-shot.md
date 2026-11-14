@@ -6,4 +6,4 @@ You slow your breath, calm yourself, and hit the bullseye, just as you were trai
 
 **Prerequisites**: [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), base attack bonus +5.
 
-**Benefit**: You can spend a move action to steady your shot. When you do, you gain a +4 bonus on your next ranged attack roll before the end of your turn.
+**Benefit**: You can spend a move action (1 AP) to steady your shot. When you do, you gain a +4 bonus on your next ranged attack roll before the end of your turn.

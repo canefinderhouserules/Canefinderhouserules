@@ -12,7 +12,7 @@
 
 **Defensive Abilities:** A nightmare creature gains DR 5/ good or silver and the following defensive abilities.
 
-***Feign Death (Ex).*** Whenever a nightmare creature is unconscious, it appears dead. A conscious nightmare creature can also make itself appear dead as an immediate action. Any creature that physically interacts with a nightmare creature feigning death must succeed at a Heal check or Will saving throw (DC 10 + 1/2 the nightmare creature’s Hit Dice + the nightmare creature’s Intelligence or Charisma modifier, whichever is higher) to recognize it is actually alive.
+***Feign Death (Ex).*** Whenever a nightmare creature is unconscious, it appears dead. A conscious nightmare creature can also make itself appear dead as an immediate action (1 AP of your next turn). Any creature that physically interacts with a nightmare creature feigning death must succeed at a Heal check or Will saving throw (DC 10 + 1/2 the nightmare creature’s Hit Dice + the nightmare creature’s Intelligence or Charisma modifier, whichever is higher) to recognize it is actually alive.
 
 ***Illusion Resistance (Ex).*** A nightmare creature automatically disbelieves illusions (no saving throw required) and has a +4 bonus on saving throws to resist illusion effects. Regeneration 5 (Ex): Good-aligned weapons, silver weapons, and spells with the good descriptor cause a nightmare creature’s regeneration to stop functioning for 1 round.
 

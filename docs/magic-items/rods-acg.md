@@ -17,7 +17,7 @@ Rods are scepterlike devices that have unique magical powers and usually do not 
 
 *Aura* strong (no school); *CL* 17th; *Slot* none; *Price* 35,000 gp; *Weight* 5 lbs.
 
-Three times per day when a wielder of this rod uses a hex (but not an advanced hex or grand hex), she can use this rod's power to activate the hex as a swift action rather than a standard action.
+Three times per day when a wielder of this rod uses a hex (but not an advanced hex or grand hex), she can use this rod's power to activate the hex as a swift action (1 AP) rather than a standard action.
 
 *Construction* Craft Rod, Quicken Spell, creator must possess the hex class feature; Cost 17,500 gp.
 

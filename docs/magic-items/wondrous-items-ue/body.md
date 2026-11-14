@@ -96,7 +96,7 @@ When worn, this simple brown robe confers great ability in unarmed combat. If th
 
 Embroidered images of cherry blossoms and cranes in flight adorn this blue silk kimono. The wearer can move and reposition these images on the kimono at will. The kimono grants its wearer a +4 resistance bonus on all saving throws and a +4 bonus on all caster level checks.
 
-Once per day, the wearer can capture a single creature within 60 feet within the kimono (no save), shunting the victim into an extradimensional space similar to that created by a *maze* spell. Inside this otherworldly prison, the maze appears as an endless cherry orchard filled with “walls” of windblown cherry blossoms and cranes flying overhead. Each round on its turn, the victim inside the kimono may attempt a DC 20 Intelligence check to escape the kimono as a full-round action. If the victim doesn’t escape, it is released after 10 minutes, returning to where it had been before the kimono drew it in. If this location is occupied by another creature or a solid object, the subject appears in the nearest open space. Whenever a creature is drawn inside the kimono, the victim’s image temporarily manifests as another embroidered design among the kimono’s other images. While a victim is trapped inside, the kimono’s bonuses on saving throws and caster level checks are increased by 2 (to +6). The kimono’s increased bonuses return to normal when the victim is freed or released.
+Once per day, the wearer can capture a single creature within 60 feet within the kimono (no save), shunting the victim into an extradimensional space similar to that created by a *maze* spell. Inside this otherworldly prison, the maze appears as an endless cherry orchard filled with “walls” of windblown cherry blossoms and cranes flying overhead. Each round on its turn, the victim inside the kimono may attempt a DC 20 Intelligence check to escape the kimono as a full-round action (3 AP). If the victim doesn’t escape, it is released after 10 minutes, returning to where it had been before the kimono drew it in. If this location is occupied by another creature or a solid object, the subject appears in the nearest open space. Whenever a creature is drawn inside the kimono, the victim’s image temporarily manifests as another embroidered design among the kimono’s other images. While a victim is trapped inside, the kimono’s bonuses on saving throws and caster level checks are increased by 2 (to +6). The kimono’s increased bonuses return to normal when the victim is freed or released.
 
 **Construction** Craft Wondrous Item, Heighten Spell, *maze*, *resistance*; **Cost** 33,500 gp
 
@@ -138,7 +138,7 @@ The pockets of this simple blue robe always seem to carry just what the wearer n
 
 Silver circles and conjuring runes decorate this black robe. Three times per day when the wearer uses a summoning spell or spell-like ability to summon a variable number of creatures, he can choose to summon the maximum number of creatures possible. Creatures summoned in this way step from the shadowy folds of the robe, and appear adjacent to the wearer. If there isn’t sufficient room for all the creatures to appear, the extra creatures are wasted and do not appear.
 
-If the wearer is a summoner, he can call upon the robe to summon his eidolon as a standard action once per day. It must appear adjacent to the summoner when called this way.
+If the wearer is a summoner, he can call upon the robe to summon his eidolon as a standard action (1 AP) once per day. It must appear adjacent to the summoner when called this way.
 
 **Construction** Craft Wondrous Item, Maximize Spell, *gate, summon eidolon*; **Cost** 32,000 gp
 
@@ -147,7 +147,7 @@ If the wearer is a summoner, he can call upon the robe to summon his eidolon as 
 **Aura** moderate conjuration; **CL** 7th  
 **Slot** body; **Price** 1,000 gp; **Weight** 1 lb.
 
-This coarse hempen robe seems made from a single strand of twine. The wearer can draw up to 30 feet of twine or up to 10 feet of hemp rope per round from the robe without harming it. As an immediate action, the wearer can draw up to 150 feet of twine or 50 feet of rope from the robe, but this gives the robe the broken condition and suppresses its powers until it is repaired. Twine or rope drawn from the robe remains connected until cut or torn, but is treated as common material rather than part of a magic item. Pieces removed become normal twine or rope.
+This coarse hempen robe seems made from a single strand of twine. The wearer can draw up to 30 feet of twine or up to 10 feet of hemp rope per round from the robe without harming it. As an immediate action (1 AP of your next turn), the wearer can draw up to 150 feet of twine or 50 feet of rope from the robe, but this gives the robe the broken condition and suppresses its powers until it is repaired. Twine or rope drawn from the robe remains connected until cut or torn, but is treated as common material rather than part of a magic item. Pieces removed become normal twine or rope.
 
 **Construction** Craft Wondrous Item, *minor creation*; **Cost** 500 gp
 
@@ -156,7 +156,7 @@ This coarse hempen robe seems made from a single strand of twine. The wearer can
 **Aura** faint evocation; **CL** 5th  
 **Slot** body; **Price** 1,000 gp; **Weight** 4 lbs.
 
-This dark, hooded robe has six long, silvery, razor-sharp needles protruding from the bottom of its loose sleeves, three on each side. The wearer can launch one needle as a ranged touch attack. The needle counts as a thrown weapon with a range increment of 10 feet. If the needle hits, it embeds itself in the target’s flesh, dealing 1 point of piercing damage and 1 point of bleed damage. A creature can pull out the needle as a full-round action, which ends the bleed effect. The needle is destroyed if an attack with it misses or when it is removed from a creature it was embedded in. The robe regrows all spent needles each morning.
+This dark, hooded robe has six long, silvery, razor-sharp needles protruding from the bottom of its loose sleeves, three on each side. The wearer can launch one needle as a ranged touch attack. The needle counts as a thrown weapon with a range increment of 10 feet. If the needle hits, it embeds itself in the target’s flesh, dealing 1 point of piercing damage and 1 point of bleed damage. A creature can pull out the needle as a full-round action (3 AP), which ends the bleed effect. The needle is destroyed if an attack with it misses or when it is removed from a creature it was embedded in. The robe regrows all spent needles each morning.
 
 **Construction** Craft Wondrous Item, *bleed*; **Cost** 500 gp
 
@@ -187,7 +187,7 @@ If the robe is destroyed or its magic suppressed while the wearer is within the 
 **Aura** moderate evocation; **CL** 10th  
 **Slot** body; **Price** 5,000 gp; **Weight** 1 lb.
 
-This dapper robe enables a sorcerer to add the effects of her 1st-level bloodline power to spells she casts. As a swift action before casting a spell, the wearer expends one use of her 1st-level bloodline power and selects one target of the spell to be affected by that bloodline power. If the spell allows a saving throw, a successful save against the spell means the bloodline power deals half damage (if it normally deals hit point damage) or is negated (if it does not). The robe can be used up to three times per day.
+This dapper robe enables a sorcerer to add the effects of her 1st-level bloodline power to spells she casts. As a swift action (1 AP) before casting a spell, the wearer expends one use of her 1st-level bloodline power and selects one target of the spell to be affected by that bloodline power. If the spell allows a saving throw, a successful save against the spell means the bloodline power deals half damage (if it normally deals hit point damage) or is negated (if it does not). The robe can be used up to three times per day.
 
 **Construction** Craft Wondrous Item, Quicken Spell-Like Ability, creator must be a sorcerer; **Cost** 2,500 gp
 

@@ -95,7 +95,7 @@ At 4th level, a gray warden can use Intimidate instead of Diplomacy to gather in
 
 #### Second Judgment (Su)
 
-At 4th level, whenever a gray warden uses his judgment or harsh judgment ability, he selects two different judgments. This consumes only one use of this ability. As a swift action, he can change one of these judgments to another type.
+At 4th level, whenever a gray warden uses his judgment or harsh judgment ability, he selects two different judgments. This consumes only one use of this ability. As a swift action (1 AP), he can change one of these judgments to another type.
 
 #### Improved Bane (Su)
 

@@ -90,7 +90,7 @@ The following weapons are also available in Stone Age campaigns.
 
 **Atlatl**: An atlatl is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand.
 
-Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The Rapid Reload feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
+Loading an atlatl is a move action (1 AP) that requires two hands and provokes attacks of opportunity. The Rapid Reload feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
 
 **Mere Club**: Traditionally made of sturdy carved stone, a mere (MEH-reh) is a short, flat-sided, sharp-pointed club.
 
@@ -122,7 +122,7 @@ Bronze Age campaigns can feature all the weapons and armor of a Stone Age campai
 
 A harpoon’s weight includes the weight of 50 feet of hemp rope. It can be reduced by using shorter or lighter rope.
 
-**Kestros**: The kestros is an oddly shaped sling used for launching darts. Your Strength modifier applies on damage rolls when you use a kestros, just as it does for thrown weapons. You can fire—but not load—a kestros with one hand. Loading a kestros is a move action that requires two hands and provokes attacks of opportunity. Halflings treat the kestros as a martial weapon.
+**Kestros**: The kestros is an oddly shaped sling used for launching darts. Your Strength modifier applies on damage rolls when you use a kestros, just as it does for thrown weapons. You can fire—but not load—a kestros with one hand. Loading a kestros is a move action (1 AP) that requires two hands and provokes attacks of opportunity. Halflings treat the kestros as a martial weapon.
 
 **Mattock**: Derived from the digging tool of the same name, a mattock resembles a two-handed pick, but with a chisel-like blade instead of a point.
 

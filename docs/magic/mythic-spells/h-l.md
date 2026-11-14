@@ -8,7 +8,7 @@ The damage dealt increases to 15 points of damage per caster level (maximum 225 
 
 ## Haste
 
-Affected creatures gain an additional move action each round. The movement speed increase changes to 50 feet, to a maximum of three times the creature's normal speed for that movement type.
+Affected creatures gain an additional move action (1 AP) each round. The movement speed increase changes to 50 feet, to a maximum of three times the creature's normal speed for that movement type.
 
 **Augmented (3rd)**: If you expend two uses of mythic power, the movement speed increase changes to 70 feet, with no limit based on the creature's normal speed. If an affected creature moves at least 30 feet on its turn, it can travel across liquid as if the liquid were solid. If the liquid deals damage on contact, the creature takes only half damage from moving across it.
 
@@ -50,7 +50,7 @@ If you're at least 6th tier and expend three uses of mythic power, you instead g
 
 A creature of a type different than your own doesn't gain a bonus on its saving throws against this spell. The affected target laughs so hard it hurts, and takes 1d6 points of nonlethal damage each round it spends laughing.
 
-If the target fails its initial save, it must succeed at two follow-up saving throws (each a full-round action that doesn't provoke attacks of opportunity) to end the spell. Succeeding at only one save means the spell no longer deals damage, but the target is still unable to take actions.
+If the target fails its initial save, it must succeed at two follow-up saving throws (each a full-round action (3 AP) that doesn't provoke attacks of opportunity) to end the spell. Succeeding at only one save means the spell no longer deals damage, but the target is still unable to take actions.
 
 **Augmented**: If you expend two uses of mythic power, the target's laughter becomes contagious. When the target's allies are within 30 feet and can hear the laugh, they must successfully save against the spell or be [sickened](../../rules/appendices/conditions.md#sickened) until the target stops laughing. The sickened effect ends if the ally moves more than 30 feet from the target or is unable to hear the target's laughter for an entire round.
 
@@ -90,7 +90,7 @@ The bludgeoning damage increases to 4d8 points of damage and the cold damage inc
 
 **Source** *Advanced Player's Guide*
 
-For the target's unlucky d20 rolls, it must roll three times and take the lowest result. Spending a move action to utter a prayer or good luck charm allows the target to roll twice instead of three times.
+For the target's unlucky d20 rolls, it must roll three times and take the lowest result. Spending a move action (1 AP) to utter a prayer or good luck charm allows the target to roll twice instead of three times.
 
 **Augmented (4th)**: If you expend two uses of mythic power, you afflict the target with especially foul luck. Any natural 20 it rolls counts as a natural 1 instead.
 
@@ -124,7 +124,7 @@ A target affected by unending dance receives a new saving throw at the end of ea
 
 A target affected by the dance of death suffers excruciating pain that inflicts a -4 penalty on attack rolls, saving throws, and skill checks, and it takes 1d4 points of Constitution damage each round it spends dancing.
 
-With either form, you can direct the creature like a marionette as a move action, causing it to take a single move action at half its speed along the path you specify. You must have line of sight to the target and be within Medium range (100 feet + 10 feet per caster level) to command its movement. This movement provokes attacks of opportunity as normal, and doesn't count against the target's movement on its turn. You can't move a target that succeeded at its initial save against the spell.
+With either form, you can direct the creature like a marionette as a move action (1 AP), causing it to take a single move action (1 AP) at half its speed along the path you specify. You must have line of sight to the target and be within Medium range (100 feet + 10 feet per caster level) to command its movement. This movement provokes attacks of opportunity as normal, and doesn't count against the target's movement on its turn. You can't move a target that succeeded at its initial save against the spell.
 
 ## Jitterbugs
 
@@ -150,11 +150,11 @@ The insight bonus increases to +15 plus your tier. If the check is successful, y
 
 ## Levitate
 
-Instead of affecting one creature, you can affect a number of targets up to your caster level, but the total weight supported can be no more than 100 pounds per caster level. You can spend a move action to mentally direct all targets, but you must move all of them identically.
+Instead of affecting one creature, you can affect a number of targets up to your caster level, but the total weight supported can be no more than 100 pounds per caster level. You can spend a move action (1 AP) to mentally direct all targets, but you must move all of them identically.
 
-**Augmented (8th)**: If you expend 10 uses of mythic power, you permanently levitate a 5-foot cube of rock, which you can move 20 feet vertically or horizontally as a move action.
+**Augmented (8th)**: If you expend 10 uses of mythic power, you permanently levitate a 5-foot cube of rock, which you can move 20 feet vertically or horizontally as a move action (1 AP).
 
-If you have created multiple cubes and they are physically touching each other, you can direct them all as a single move action (as if they were one object), even if some of them are out of range. Each levitating cube can support approximately 1,000 pounds of weight, allowing you to use it as a portion of the foundation for a bridge, floating castle, or similar construction project.
+If you have created multiple cubes and they are physically touching each other, you can direct them all as a single move action (1 AP) (as if they were one object), even if some of them are out of range. Each levitating cube can support approximately 1,000 pounds of weight, allowing you to use it as a portion of the foundation for a bridge, floating castle, or similar construction project.
 
 ## Lightning Arc
 

@@ -75,11 +75,11 @@ At 6th level, a master detective can reach new conclusions by reexamining the fa
 
 #### Discern Lies (Sp)
 
-At 7th level, a master detective can use [*discern lies*](../../magic/spells/discern-lies.md), as the spell, for a number of rounds per day equal to her class level (caster level equal to her class level). These rounds need not be consecutive. Activating this ability is an immediate action.
+At 7th level, a master detective can use [*discern lies*](../../magic/spells/discern-lies.md), as the spell, for a number of rounds per day equal to her class level (caster level equal to her class level). These rounds need not be consecutive. Activating this ability is an immediate action (1 AP of your next turn).
 
 #### Predictive Riposte (Ex)
 
-At 8th level, a master detective’s insight into human nature allows her to predict and counter her opponents’ attacks. As a standard action, she can designate an opponent within 30 feet as the target of her predictive riposte, gaining a +4 insight bonus to AC against that opponent’s attacks. Once per round, after a melee attack from the designated target misses her, the detective can spend an immediate action to make a single melee attack against that opponent as long as it is within her threatened area. This counts as her attack of opportunity for this round. If the detective’s attack hits, she may add her sneak attack bonus on her damage roll. The bonuses from this ability last until the end of combat, or until the detective designates a new target of her predictive riposte.
+At 8th level, a master detective’s insight into human nature allows her to predict and counter her opponents’ attacks. As a standard action (1 AP), she can designate an opponent within 30 feet as the target of her predictive riposte, gaining a +4 insight bonus to AC against that opponent’s attacks. Once per round, after a melee attack from the designated target misses her, the detective can spend an immediate action (1 AP of your next turn) to make a single melee attack against that opponent as long as it is within her threatened area. This counts as her attack of opportunity for this round. If the detective’s attack hits, she may add her sneak attack bonus on her damage roll. The bonuses from this ability last until the end of combat, or until the detective designates a new target of her predictive riposte.
 
 #### Pierce Deception (Sp)
 

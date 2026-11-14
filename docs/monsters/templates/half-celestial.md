@@ -16,7 +16,7 @@
 
 **Special Abilities:** A half-celestial gains the following.
 
-***Smite Evil (Su).*** Once per day as a swift action it can smite evil as a paladin of the same level as its Hit Dice. The smite persists until the target is dead or the half-celestial rests.
+***Smite Evil (Su).*** Once per day as a swift action (1 AP) it can smite evil as a paladin of the same level as its Hit Dice. The smite persists until the target is dead or the half-celestial rests.
 
 **Spell-Like Abilities:** A half-celestial with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD (or the caster evel of the base creature’s spell-like abilities, whichever is higher).
 

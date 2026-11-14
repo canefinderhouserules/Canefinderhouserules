@@ -4,4 +4,4 @@ Music plays a key role in goblin culture—at the very least, goblins are fond o
 
 **Prerequisites**: Goblin.
 
-**Benefit**: As a full-round action, you can sing a song so terrible and ear-splitting that each enemy within 15 feet of you that hears it must succeed at a Will save or be [dazed](../appendices/conditions.md#dazed) for 1 round. The DC of this saving throw is equal to 10 + half your level + your Charisma modifier. Whether or not the initial save is successful, a creature cannot be affected by this ability again for 24 hours. This is a mind-affecting effect.
+**Benefit**: As a full-round action (3 AP), you can sing a song so terrible and ear-splitting that each enemy within 15 feet of you that hears it must succeed at a Will save or be [dazed](../appendices/conditions.md#dazed) for 1 round. The DC of this saving throw is equal to 10 + half your level + your Charisma modifier. Whether or not the initial save is successful, a creature cannot be affected by this ability again for 24 hours. This is a mind-affecting effect.

@@ -112,13 +112,13 @@ At will, an omdura can cast [*detect chaos*](../../magic/spells/detect-chaos.md)
 
 ### Invocation (Su)
 
-An omdura can call forth the power of her deity to improve her allies’ abilities as a standard action.
+An omdura can call forth the power of her deity to improve her allies’ abilities as a standard action (1 AP).
 
 When the omdura calls upon this power, she must select one type of invocation from those listed below to grant the benefits to her allies within 30 feet. If the omdura is evil, she grants profane bonuses instead of sacred, as appropriate. Neutral omduras must select profane or sacred bonuses. Once made, this choice cannot be changed. A called invocation cannot be disrupted, but it ends immediately if the omdura is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), or knocked [unconscious](../../rules/appendices/conditions.md#unconscious).
 
-The omdura can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The omdura can change her chosen invocation to another type as a swift action, but doing so expends a 1-minute increment of her invocations.
+The omdura can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The omdura can change her chosen invocation to another type as a swift action (1 AP), but doing so expends a 1-minute increment of her invocations.
 
-At 7th level, an omdura can call an invocation as a move action instead of a standard action. At 13th level, an omdura can call an invocation as a swift action.
+At 7th level, an omdura can call an invocation as a move action (1 AP) instead of a standard action. At 13th level, an omdura can call an invocation as a swift action (1 AP).
 
 - **Destruction**: The omdura’s allies are filled with divine wrath, gaining a +1 sacred bonus on weapon damage rolls. This bonus increases by 1 for every 3 class levels the omdura has.
 
@@ -142,7 +142,7 @@ At 7th level, an omdura can call an invocation as a move action instead of a sta
 
 At 2nd level, an omdura can deliver divine energy by touch. She can deliver either positive energy or negative energy. A good omdura (or a neutral omdura of a good deity) must select positive energy. An evil omdura (or a neutral omdura of an evil deity) must select negative energy. An omdura who is neither good nor evil and whose deity is neither good nor evil can select either positive or negative energy. This choice is made when the omdura gains this ability and cannot be changed.
 
-Each day the omdura can use this ability a number of times equal to half her omdura level plus her Charisma modifier. With one use of this ability, an omdura can use divine energy to restore to a target 1d6 hit points for every 2 omdura levels she has. Using this ability is a standard action, unless the omdura targets herself, in which case it is a swift action. An omdura who delivers negative energy with her touch can instead deal 1d6 points of damage to a living creature for every 2 omdura levels she has. Alternatively, an omdura can use this divine energy to affect undead creatures, dealing damage when delivering positive energy or restoring hit points when delivering negative energy.
+Each day the omdura can use this ability a number of times equal to half her omdura level plus her Charisma modifier. With one use of this ability, an omdura can use divine energy to restore to a target 1d6 hit points for every 2 omdura levels she has. Using this ability is a standard action (1 AP), unless the omdura targets herself, in which case it is a swift action (1 AP). An omdura who delivers negative energy with her touch can instead deal 1d6 points of damage to a living creature for every 2 omdura levels she has. Alternatively, an omdura can use this divine energy to affect undead creatures, dealing damage when delivering positive energy or restoring hit points when delivering negative energy.
 
 An omdura needs only one free hand to use this ability. Using divine touch to harm a creature requires a successful melee touch attack and doesn’t provoke an attack of opportunity. Creatures do not receive a saving throw against the damage from divine touch. Divine touch is modified by any feat, spell, or effect that specifically works with the lay on hands paladin class feature. For example, the [Extra Lay On Hands](../../rules/feats/extra-lay-on-hands.md) feat grants an omdura two additional uses of the divine touch class feature.
 
@@ -152,7 +152,7 @@ At 3rd level and every 3 levels thereafter, an omdura can select one divine infu
 
 ### Divine Might (Su)
 
-At 4th level, an omdura can call on the powers of her god once per day to aid in her struggle against her enemies. As a swift action, the omdura chooses one target within sight to be the focus of her divine might. If the target is opposed to the omdura’s alignment on either the law/chaos or the good/evil axis, the omdura adds half her Charisma bonus (minimum +0) to her attack rolls and adds half her omdura level to damage rolls against the target of her divine might. A neutral omdura can choose any target to be the target of her divine might, but she adds only one-third her Charisma bonus and omdura level.
+At 4th level, an omdura can call on the powers of her god once per day to aid in her struggle against her enemies. As a swift action (1 AP), the omdura chooses one target within sight to be the focus of her divine might. If the target is opposed to the omdura’s alignment on either the law/chaos or the good/evil axis, the omdura adds half her Charisma bonus (minimum +0) to her attack rolls and adds half her omdura level to damage rolls against the target of her divine might. A neutral omdura can choose any target to be the target of her divine might, but she adds only one-third her Charisma bonus and omdura level.
 
 In addition, while divine might is in effect, the omdura gains a deflection bonus equal to half her Charisma modifier (one-third for a neutral omdura) to her AC against attacks made by the target of the divine might. If a non-neutral omdura targets a creature that is not opposed to her alignment, the use of this ability is wasted with no effect.
 
@@ -160,7 +160,7 @@ The divine might effect remains until the target of divine might is dead or the 
 
 ### Divine Weapon (Su)
 
-At 5th level, an omdura forms a divine bond with her god. This bond allows the omdura to enhance her weapon as a standard action by calling upon the aid of a divine spirit. This aid lasts for 1 minute per omdura level. When called, the spirit causes the weapon to shed light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every 3 levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon special abilities: brilliant energy, defending, flaming, flaming burst, keen, or speed.
+At 5th level, an omdura forms a divine bond with her god. This bond allows the omdura to enhance her weapon as a standard action (1 AP) by calling upon the aid of a divine spirit. This aid lasts for 1 minute per omdura level. When called, the spirit causes the weapon to shed light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every 3 levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon special abilities: brilliant energy, defending, flaming, flaming burst, keen, or speed.
 
 A lawful omdura can also choose from axiomatic and merciful. A chaotic omdura can also choose from anarchic and vicious. A good omdura can also choose from disruption and holy.
 

@@ -65,7 +65,7 @@ A master spy of 2nd level or higher can deceive truth-detecting magic. A creatur
 
 #### Mask Alignment (Su)
 
-A master spy of 2nd level or higher can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action, and lasts until she changes it again or ends the effect.
+A master spy of 2nd level or higher can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action (1 AP), and lasts until she changes it again or ends the effect.
 
 #### Nonmagical Aura (Sp)
 
@@ -89,7 +89,7 @@ Starting at 4th level, a master spy can assume a disguise in only 2d4 rounds by 
 
 #### Elude Detection (Sp)
 
-At 5th level, a master spy can befuddle divinations used against her as if she were under the effect of a nondetection spell with a caster level equal to her character level. She can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the nondetection for 1d4 rounds.
+At 5th level, a master spy can befuddle divinations used against her as if she were under the effect of a nondetection spell with a caster level equal to her character level. She can suppress or resume this protection as a standard action (1 AP). If dispelled, the spy cannot resume the nondetection for 1d4 rounds.
 
 #### Slippery Mind (Su)
 
@@ -97,7 +97,7 @@ At 5th level, a master spy can slip away from mental control. This functions as 
 
 #### Shift Alignment (Su)
 
-Starting at 6th level, a master spy’s control over her aura improves. When she assumes a false alignment, she can choose to have all spells and magic items affect her as though she were that alignment; this includes helpful and harmful effects. For example, a neutral good master spy can shift her aura to lawful evil so she can pass through a doorway that shocks creatures that aren’t lawful evil; if hit by holy smite with this shifted aura, she takes damage as if she were evil. A master spy can change her alignment aura from a masked alignment (as per her 2nd-level class feature, where effects still function based on her actual alignment) to a shifted alignment (as per this ability, where effects function based on her assumed alignment) as a standard action. Shifting her alignment aura is a standard action, and lasts until she changes it again or ends the effect.
+Starting at 6th level, a master spy’s control over her aura improves. When she assumes a false alignment, she can choose to have all spells and magic items affect her as though she were that alignment; this includes helpful and harmful effects. For example, a neutral good master spy can shift her aura to lawful evil so she can pass through a doorway that shocks creatures that aren’t lawful evil; if hit by holy smite with this shifted aura, she takes damage as if she were evil. A master spy can change her alignment aura from a masked alignment (as per her 2nd-level class feature, where effects still function based on her actual alignment) to a shifted alignment (as per this ability, where effects function based on her assumed alignment) as a standard action (1 AP). Shifting her alignment aura is a standard action (1 AP), and lasts until she changes it again or ends the effect.
 
 #### Death Attack (Ex)
 
@@ -105,12 +105,12 @@ At 8th level, a master spy learns the art of killing or paralyzing a foe with a 
 
 #### Fool Casting (Su)
 
-A master spy of 8th level or higher can trick an opponent into believing that she has been charmed or dominated. When the master spy succeeds at a saving throw against a magical effect that provides ongoing control (such as charm person, dominate person, or a vampire’s dominate ability), she can allow the spell to take partial effect. To the caster, it appears that the spy failed her saving throw, but the spy is not under the caster’s control. If the spell provides a telepathic link, it functions normally, but the spy is under no obligation to follow the caster’s commands. The master spy can dismiss a fooled spell as a standard action. Fooled casting can be used when the spy succeeds at a subsequent saving throw against an ongoing effect, such as that granted by slippery mind.
+A master spy of 8th level or higher can trick an opponent into believing that she has been charmed or dominated. When the master spy succeeds at a saving throw against a magical effect that provides ongoing control (such as charm person, dominate person, or a vampire’s dominate ability), she can allow the spell to take partial effect. To the caster, it appears that the spy failed her saving throw, but the spy is not under the caster’s control. If the spell provides a telepathic link, it functions normally, but the spy is under no obligation to follow the caster’s commands. The master spy can dismiss a fooled spell as a standard action (1 AP). Fooled casting can be used when the spy succeeds at a subsequent saving throw against an ongoing effect, such as that granted by slippery mind.
 
 #### Hidden Mind (Sp)
 
-At 9th level, a master spy gains the benefit of a constant mind blank spell at a caster level equal to her character level. The spy can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the mind blank for 1d4 rounds.
+At 9th level, a master spy gains the benefit of a constant mind blank spell at a caster level equal to her character level. The spy can suppress or resume this protection as a standard action (1 AP). If dispelled, the spy cannot resume the mind blank for 1d4 rounds.
 
 #### Assumption (Su)
 
-The ultimate ability of the master spy is to take over another persona entirely, making it her own. As a full-round action, the spy can touch a [helpless](../../rules/appendices/conditions.md#helpless) creature and shift her aura to that of her target. This confuses divination effects and spells, even ones as powerful as discern location, such that they register the spy as being the creature she has touched. This ability is not proof against the actions of deities or similarly powerful beings. The assumption of an identity lasts until the master spy ends it (a standard action) or she uses the ability on another creature.
+The ultimate ability of the master spy is to take over another persona entirely, making it her own. As a full-round action (3 AP), the spy can touch a [helpless](../../rules/appendices/conditions.md#helpless) creature and shift her aura to that of her target. This confuses divination effects and spells, even ones as powerful as discern location, such that they register the spy as being the creature she has touched. This ability is not proof against the actions of deities or similarly powerful beings. The assumption of an identity lasts until the master spy ends it (a standard action (1 AP)) or she uses the ability on another creature.

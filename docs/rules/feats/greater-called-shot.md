@@ -8,7 +8,7 @@ You can make multiple called shots where others could land but one.
 
 **Benefit**: Whenever you make an attack, you can choose to replace that attack with a called shot. You can make multiple called shots in a single round. Each additional called shot after the first made in the same round takes a –5 penalty. In addition, a called shot that deals half the creature’s hit points of damage (minimum 40) is a debilitating blow.
 
-**Normal**: You can make only one called shot in a round as a full-round action. A called shot that deals 50 points of damage is a debilitating blow.
+**Normal**: You can make only one called shot in a round as a full-round action (3 AP). A called shot that deals 50 points of damage is a debilitating blow.
 
 ??? note "Original prerequisites"
 

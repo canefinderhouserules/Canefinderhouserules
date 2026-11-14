@@ -95,7 +95,7 @@ Deadeye hexers can prepare a number of cantrips, or 0-level spells, each day, as
 
 Deadeye hexers learn a number of magical abilities with which they can imbue their ammunition, causing additional harmful effects to targets as well as other useful effects. To use a bullet hex, a deadeye hexer must imbue a bullet with power, then fire it from a firearm. At 1st level, a deadeye hexer gains one bullet hex of his choice. He gains an additional bullet hex at 3rd level and for every 2 levels attained after 3rd level, as noted on the Deadeye Hexer Table. A deadeye hexer cannot select an individual bullet hex more than once.
 
-Unless otherwise noted, using a bullet hex is a standard action that provokes an attack of opportunity as a standard ranged attack would. If the bullet hex is an offensive effect, then the bullet must hit its intended target and inflict damage for the bullet hex to take effect. Missed bullet hex attacks do not count against the total number of times per day that a bullet hex can affect a creature. The DC of the save to resist a bullet hex is equal to 10 + 1/2 the deadeye hexer’s level + the deadeye hexer’s Intelligence modifier. If the attack that inflicts the bullet hex is a confirmed critical hit, increase the DC of the bullet hex by 2.
+Unless otherwise noted, using a bullet hex is a standard action (1 AP) that provokes an attack of opportunity as a standard ranged attack would. If the bullet hex is an offensive effect, then the bullet must hit its intended target and inflict damage for the bullet hex to take effect. Missed bullet hex attacks do not count against the total number of times per day that a bullet hex can affect a creature. The DC of the save to resist a bullet hex is equal to 10 + 1/2 the deadeye hexer’s level + the deadeye hexer’s Intelligence modifier. If the attack that inflicts the bullet hex is a confirmed critical hit, increase the DC of the bullet hex by 2.
 
 In addition to the bullet hexes below, the following witch hexes are available to a deadeye hexer as bullet hexes: [evil eye](../witch.md#evil-eye-su), [misfortune](../witch.md#misfortune-su), [scar](../witch-archetypes.md#hexes), and [slumber](../witch.md#slumber-su). When the deadeye hexer uses slumber as a bullet hex, the damage dealt by the shot becomes nonlethal damage.
 
@@ -105,15 +105,15 @@ By firing a shot into an object of nonmagical material, the deadeye hexer can ca
 
 #### Blowback Bullet (Su)
 
-As a standard action, the deadeye hexer fires a shot from a firearm at an opponent. If the attack hits, resolve damage as normal. The shot also acts as a bull rush combat maneuver, using the deadeye hexer’s Intelligence modifier in place of his Strength modifier when calculating the deadeye hexer’s CMB. If the shot is a critical hit, then the deadeye hexer gains a bonus on the roll equal to his class level.
+As a standard action (1 AP), the deadeye hexer fires a shot from a firearm at an opponent. If the attack hits, resolve damage as normal. The shot also acts as a bull rush combat maneuver, using the deadeye hexer’s Intelligence modifier in place of his Strength modifier when calculating the deadeye hexer’s CMB. If the shot is a critical hit, then the deadeye hexer gains a bonus on the roll equal to his class level.
 
 #### Hard Rain (Su)
 
-As a full round action, the deadeye hexer fires a shot from a firearm into the air. The bullet splits into shrapnel, which then falls in a 15 foot radius at a point somewhere within the firearm familiar’s first two range increments. An attack roll is made and applied to the appropriate AC of each creature within the area of effect. If the attack roll hits, apply the firearm damage to that creature. Critical threats are confirmed as normal.
+As a full round action (3 AP), the deadeye hexer fires a shot from a firearm into the air. The bullet splits into shrapnel, which then falls in a 15 foot radius at a point somewhere within the firearm familiar’s first two range increments. An attack roll is made and applied to the appropriate AC of each creature within the area of effect. If the attack roll hits, apply the firearm damage to that creature. Critical threats are confirmed as normal.
 
 #### Smoking Iron (Su)
 
-As a standard action, the deadeye hexer can make an attack with a firearm at an opponent. The smoke from the discharge envelops the deadeye hexer in a 10 foot cloud, providing concealment. The cloud disperses in 3 rounds. A light wind (up to 10 mph) will disperse it in 2 rounds. Higher winds will disperse the cloud in 1 round.
+As a standard action (1 AP), the deadeye hexer can make an attack with a firearm at an opponent. The smoke from the discharge envelops the deadeye hexer in a 10 foot cloud, providing concealment. The cloud disperses in 3 rounds. A light wind (up to 10 mph) will disperse it in 2 rounds. Higher winds will disperse the cloud in 1 round.
 
 #### Speak with Dead (Su)
 
@@ -170,7 +170,7 @@ This bullet hex acts as the hard rain hex, except that the area of effect is inc
 
 #### Dodge Bullet (Su)
 
-As an immediate action, the deadeye hexer can use his magical affinity for firearms to protect against a firearm attack. When using this hex, the deadeye hexer gains a dodge bonus equal to half his class level against the attack. This hex can only be used once against a given firearm per 24 hours. The hex affects the firearm itself, not the opponent, so if an attacker has more than one firearm and uses a different gun to attack the deadeye hexer, this hex may be used against the new firearm.
+As an immediate action (1 AP of your next turn), the deadeye hexer can use his magical affinity for firearms to protect against a firearm attack. When using this hex, the deadeye hexer gains a dodge bonus equal to half his class level against the attack. This hex can only be used once against a given firearm per 24 hours. The hex affects the firearm itself, not the opponent, so if an attacker has more than one firearm and uses a different gun to attack the deadeye hexer, this hex may be used against the new firearm.
 
 #### Heartseeker (Su)
 

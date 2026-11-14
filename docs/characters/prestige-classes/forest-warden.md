@@ -87,9 +87,9 @@ At 2nd, 5th, and 8th levels, a forest warden gains a bonus feat. She must meet t
 
 ##### Guerrilla Tactics (Ex)
 
-A forest warden is an expert at hit-and-run attacks, sabotage, and subterfuge. At 3rd level, she can use the following tactics in combat. She can gain the bonus of only a single tactic at a time, but can switch between them as a swift action. If the forest warden becomes [confused](../../rules/appendices/conditions.md#confused), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), or [shaken](../../rules/appendices/conditions.md#shaken), she cannot gain any bonuses from guerrilla tactics for as long as the condition persists.
+A forest warden is an expert at hit-and-run attacks, sabotage, and subterfuge. At 3rd level, she can use the following tactics in combat. She can gain the bonus of only a single tactic at a time, but can switch between them as a swift action (1 AP). If the forest warden becomes [confused](../../rules/appendices/conditions.md#confused), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), or [shaken](../../rules/appendices/conditions.md#shaken), she cannot gain any bonuses from guerrilla tactics for as long as the condition persists.
 
-*Exploit Weakness*: When flanking an enemy, a forest warden can forgo the +2 bonus on attack rolls from flanking until the start of her next turn in order to further punish the foe. On a successful hit against a flanked enemy while forgoing the attack bonus, the forest warden can perform a disarm, sunder, or trip combat maneuver against the target as a swift action at her full base attack bonus. This action still provokes attacks of opportunity as normal.
+*Exploit Weakness*: When flanking an enemy, a forest warden can forgo the +2 bonus on attack rolls from flanking until the start of her next turn in order to further punish the foe. On a successful hit against a flanked enemy while forgoing the attack bonus, the forest warden can perform a disarm, sunder, or trip combat maneuver against the target as a swift action (1 AP) at her full base attack bonus. This action still provokes attacks of opportunity as normal.
 
 *Sneak Attack*: A forest warden gains sneak attack +1d6. This increases to +2d6 at 6th level and +3d6 at 9th level.
 
@@ -101,13 +101,13 @@ A forest warden is an expert at hit-and-run attacks, sabotage, and subterfuge. A
 
 At 6th level, a forest warden adds the following tactics to her list of choices.
 
-*Preemptive Strike*: The forest warden strikes before her targets can react. When acting during a surprise round, she can take one move action and one standard action. She cannot take a full-round action during a surprise round, as normal.
+*Preemptive Strike*: The forest warden strikes before her targets can react. When acting during a surprise round, she can take one move action (1 AP) and one standard action (1 AP). She cannot take a full-round action (3 AP) during a surprise round, as normal.
 
 *Trick Shot*: This tactic allows the forest warden to attempt Dirty Trick combat maneuver checks with a ranged weapon at a –4 penalty. At 9th level, this penalty changes to –2.
 
 #### Second Tactic (Ex)
 
-At 9th level, a forest warden is able to benefit from two tactics at a time. She can change one of these at a time as a swift action.
+At 9th level, a forest warden is able to benefit from two tactics at a time. She can change one of these at a time as a swift action (1 AP).
 
 #### Phantom Strike (Ex)
 

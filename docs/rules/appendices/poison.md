@@ -12,7 +12,7 @@ No other affliction is so prevalent as poison. From the fangs of a viper to the 
 
 Unlike other afflictions, multiple doses of the same poison stack. Poisons delivered by injury and contact cannot inflict more than one dose of poison at a time, but inhaled and ingested poisons can inflict multiple doses at once. Each additional dose extends the total duration of the poison (as noted under frequency) by half its total duration. In addition, each dose of poison increases the DC to resist the poison by +2. This increase is cumulative. Multiple doses do not alter the cure conditions of the poison, and meeting these conditions ends the affliction for all the doses. For example, a character is bit three times in the same round by a trio of Medium monstrous spiders, injecting him with three doses of Medium spider venom. The unfortunate character must make a DC 18 Fortitude save for the next 8 rounds. Fortunately, just one successful save cures the character of all three doses of the poison.
 
-Applying poison to a weapon or single piece of ammunition is a standard action. Whenever a character applies or readies a poison for use there is a 5% chance that he exposes himself to the poison and must save against the poison as normal. This does not consume the dose of poison. Whenever a character attacks with a poisoned weapon, if the attack roll results in a natural 1, he exposes himself to the poison. This consumes the poison on the weapon. Characters with the poison use class feature do not risk accidentally poisoning themselves.
+Applying poison to a weapon or single piece of ammunition is a standard action (1 AP). Whenever a character applies or readies a poison for use there is a 5% chance that he exposes himself to the poison and must save against the poison as normal. This does not consume the dose of poison. Whenever a character attacks with a poisoned weapon, if the attack roll results in a natural 1, he exposes himself to the poison. This consumes the poison on the weapon. Characters with the poison use class feature do not risk accidentally poisoning themselves.
 
 Poisons can be made using Craft (alchemy). The DC to make a poison is equal to its Fortitude save DC. Rolling a natural 1 on a Craft skill check while making a poison exposes the crafter to the poison. Crafters with the poison use class feature do not risk poisoning themselves when using Craft to make poison.
 
@@ -440,7 +440,7 @@ This iridescent dust clings to weapons. On a hit, nerveblast immediately begins 
 **Frequency** 1/round for 6 rounds (see below)  
 **Effect** 1d3 Dex damage; **Cure** 2 saves
 
-Ossivane mimics the petrification capability of cockatrices, but the toxin relies on the victim's heart pumping hard to spread the poison throughout the body as it stiffens limbs and locks joints. After the initial save, the victim attempts an additional Fortitude save against the poison only during rounds in which she takes a move, standard, or full-round action.
+Ossivane mimics the petrification capability of cockatrices, but the toxin relies on the victim's heart pumping hard to spread the poison throughout the body as it stiffens limbs and locks joints. After the initial save, the victim attempts an additional Fortitude save against the poison only during rounds in which she takes a move, standard, or full-round action (3 AP).
 
 ### Pupil's Friend
 

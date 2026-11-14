@@ -184,5 +184,5 @@ Gathlains have access to the following equipment.
 
 ### Nimbus of Vitality
 
-Gathlains sometimes retain a powerful connection to the fey realm, which allows them to channel life-giving energy. As a standard action once per day, they can surround themselves in an aura that affects them as [*faerie fire*](../../magic/spells/faerie-fire.md) and grants fast healing 2. The nimbus lasts for 3 rounds plus 1 additional round per 2 character levels the gathlain possesses. This racial trait replaces the spell-like ability racial trait.
+Gathlains sometimes retain a powerful connection to the fey realm, which allows them to channel life-giving energy. As a standard action (1 AP) once per day, they can surround themselves in an aura that affects them as [*faerie fire*](../../magic/spells/faerie-fire.md) and grants fast healing 2. The nimbus lasts for 3 rounds plus 1 additional round per 2 character levels the gathlain possesses. This racial trait replaces the spell-like ability racial trait.
 

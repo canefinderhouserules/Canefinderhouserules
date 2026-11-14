@@ -95,7 +95,7 @@ Every intelligent magic item begins with the ability to see and hear within 30 f
 
 ## Intelligent Item Powers
 
-Each intelligent item should possess at least one power, although more powerful items might possess a host of powers. To find the item's specific powers, choose or roll on Table 15–24. All powers function at the direction of the item, although intelligent items generally follow the wishes of their owner. Activating a power or concentrating on an active one is a standard action the item takes. The caster level for these effects is equal to the item's caster level. Save DCs are based off the item's highest mental ability score.
+Each intelligent item should possess at least one power, although more powerful items might possess a host of powers. To find the item's specific powers, choose or roll on Table 15–24. All powers function at the direction of the item, although intelligent items generally follow the wishes of their owner. Activating a power or concentrating on an active one is a standard action (1 AP) the item takes. The caster level for these effects is equal to the item's caster level. Save DCs are based off the item's highest mental ability score.
 
 **Table 15–24: Intelligent Item Powers**
 

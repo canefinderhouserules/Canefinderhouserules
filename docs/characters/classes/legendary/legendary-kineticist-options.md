@@ -96,7 +96,7 @@ You have the crystalline form alternate racial trait instead of earth affinity, 
 
 This ability functions as the statue spell, except you can only use it on yourself, it lasts 1 minute per kineticist level, and you cannot take most actions while in statue form. Instead, you can only take move actions or end this effect as a free action (you cannot return to your statue form without using this wild talent again). While in this state you can make [Stealth](../../../rules/skills/stealth.md) checks to hide even when observed so long as you are within an environment where the presence of a statue would not be unusual, receiving a +4 circumstance bonus on these skill checks.
 
-When you move adjacent to another creature while affected by this wild talent, you can replace your normal expression with a horrifying visage until the end of the round as a free action; if the creature adjacent to you fails to notice your movement but later sees you after you have taken on the horrifying visage, you can attempt an [Intimidate](../../../rules/skills/intimidate.md) check as an immediate action to cause them to become [shaken](../../../rules/appendices/conditions.md#shaken) for a number of rounds equal to your Constitution modifier. Making additional Intimidate checks the same way can advance shaken foes to [frightened](../../../rules/appendices/conditions.md#frightened), or frightened foes to [panicked](../../../rules/appendices/conditions.md#panicked).
+When you move adjacent to another creature while affected by this wild talent, you can replace your normal expression with a horrifying visage until the end of the round as a free action; if the creature adjacent to you fails to notice your movement but later sees you after you have taken on the horrifying visage, you can attempt an [Intimidate](../../../rules/skills/intimidate.md) check as an immediate action (1 AP of your next turn) to cause them to become [shaken](../../../rules/appendices/conditions.md#shaken) for a number of rounds equal to your Constitution modifier. Making additional Intimidate checks the same way can advance shaken foes to [frightened](../../../rules/appendices/conditions.md#frightened), or frightened foes to [panicked](../../../rules/appendices/conditions.md#panicked).
 
 **Fire Saturations**
 
@@ -114,7 +114,7 @@ Those who attune themselves to a fire saturation might be granted one of the fol
 
 **Element(s)**: fire; **Type** utility (Sp); **Level** 4; **Burn** 1
 
-Until the next time you recover from burn, you can apply the fire creature template to or remove it from yourself as a full-round action that does not provoke attacks of opportunity. Applying this template to yourself does not turn you or your natural attacks incorporeal, does not affect your hit dice, saves, or ability scores in any way, and does not grant you the fire leap special quality if you would gain it this way; you can accept 1 additional point of burn when applying the template to ignore these restrictions for 1 minute. The template is removed the next time you recover from burn.
+Until the next time you recover from burn, you can apply the fire creature template to or remove it from yourself as a full-round action (3 AP) that does not provoke attacks of opportunity. Applying this template to yourself does not turn you or your natural attacks incorporeal, does not affect your hit dice, saves, or ability scores in any way, and does not grant you the fire leap special quality if you would gain it this way; you can accept 1 additional point of burn when applying the template to ignore these restrictions for 1 minute. The template is removed the next time you recover from burn.
 
 **Purging Flame**
 
@@ -172,7 +172,7 @@ Those who attune themselves to a mind saturation might be granted the following 
 
 Your mind is a bastion, privy to none but yourself.
 
-Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action before suffering the effects of it. If you do so, you are [dazed](../../../rules/appendices/conditions.md#dazed) for 1 round.
+Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action (1 AP of your next turn) before suffering the effects of it. If you do so, you are [dazed](../../../rules/appendices/conditions.md#dazed) for 1 round.
 
 **Poison Saturations**
 
@@ -218,7 +218,7 @@ Those who attune themselves to a time saturation might be granted the following 
 
 **Element(s)**: time; **Type** utility (Su); **Level** 2; **Burn** —
 
-Whenever you are able to act in the surprise round, you can take both a move and standard action.
+Whenever you are able to act in the surprise round, you can take both a move and standard action (1 AP).
 
 **Viscera Saturations**
 
@@ -353,7 +353,7 @@ At 15th level, the cavalier gains one composite blast of their choice; it must e
 
 *Elemental Parapet (Su):* At 8th level, the cavalier gains their chosen element’s defense wild talent, treating their kineticist level as 1/2 their cavalier level to determine its effects. In addition, they can grant this defense wild talent to their allies as if they were granting a teamwork feat through their tactician ability (they must possess tactician to do so).
 
-*Planar Overflow (Sp):* At 15th level, the cavalier is rewarded for their devotion to their element with the power to overcharge themselves with power, gaining the [kineticist’s elemental overflow](../kineticist.md#elemental-overflow-ex) class feature. Rather than spending burn, they can erupt with their element’s power as a full-round action, treating themselves as if they’d accepted any amount of burn up to 1/2 their cavalier levels to determine their elemental overflow’s effects for 1 minute. Unlike a kineticist, they cannot suppress this ability once it’s been activated. After the duration ends, the cavalier becomes exhausted for a number of minutes equal to the amount of simulated burn they chose to accept, they are now treated as having accepted 0 points of burn to determine their elemental overflow’s effects, and they cannot use their kinetic joust or planar overflow abilities until the exhaustion wears off. This exhaustion ignores any effect which would normally cure it or make the cavalier immune to it.
+*Planar Overflow (Sp):* At 15th level, the cavalier is rewarded for their devotion to their element with the power to overcharge themselves with power, gaining the [kineticist’s elemental overflow](../kineticist.md#elemental-overflow-ex) class feature. Rather than spending burn, they can erupt with their element’s power as a full-round action (3 AP), treating themselves as if they’d accepted any amount of burn up to 1/2 their cavalier levels to determine their elemental overflow’s effects for 1 minute. Unlike a kineticist, they cannot suppress this ability once it’s been activated. After the duration ends, the cavalier becomes exhausted for a number of minutes equal to the amount of simulated burn they chose to accept, they are now treated as having accepted 0 points of burn to determine their elemental overflow’s effects, and they cannot use their kinetic joust or planar overflow abilities until the exhaustion wears off. This exhaustion ignores any effect which would normally cure it or make the cavalier immune to it.
 
 ## Feats
 
@@ -457,7 +457,7 @@ At 15th level, the cavalier gains one composite blast of their choice; it must e
 
 **Benefit**: You can apply a mercy and a metahealer ability to kinetic channeling when using it to heal.
 
-**Special**: When applying the ability to use kinetic healer as a swift action, you instead use kinetic channel as a swift action. You cannot apply the ability to cause kinetic healer to affect both you and another target simultaneously to kinetic channeling.
+**Special**: When applying the ability to use kinetic healer as a swift action (1 AP), you instead use kinetic channel as a swift action (1 AP). You cannot apply the ability to cause kinetic healer to affect both you and another target simultaneously to kinetic channeling.
 
 ### Kinetic Disruption
 
@@ -567,7 +567,7 @@ Thin lines on the face cross vertically over the bearer’s eyes, branching out 
 
 ### Energizing
 
-A set of armor with this quality is riddled with thin crystalline tubes that appear as ornate piping; these are able to sap the power of a kineticist’s abilities. As an immediate action when the wearer is affected by a wild talent for which they are a target, they can activate the armor to convert the kinetic energy, receiving a number of temporary hit points equal to twice the wild talent’s level. The wearer can only use this effect a number of times equal to their Constitution modifier (minimum 1), and these temporary hit points do not stack with each other, lasting up to 1 hour or until lost. Anyone targeting a creature wearing armor with this quality with a wild talent can accept an additional 1 point of burn to prevent the target from using this effect.
+A set of armor with this quality is riddled with thin crystalline tubes that appear as ornate piping; these are able to sap the power of a kineticist’s abilities. As an immediate action (1 AP of your next turn) when the wearer is affected by a wild talent for which they are a target, they can activate the armor to convert the kinetic energy, receiving a number of temporary hit points equal to twice the wild talent’s level. The wearer can only use this effect a number of times equal to their Constitution modifier (minimum 1), and these temporary hit points do not stack with each other, lasting up to 1 hour or until lost. Anyone targeting a creature wearing armor with this quality with a wild talent can accept an additional 1 point of burn to prevent the target from using this effect.
 
 ## Wild Talents
 
@@ -599,7 +599,7 @@ This infusion treats those hit as if affected by *arbitrament*, as the spell, us
 
 ### Basic Neurokinesis
 
-You have learned the basics of neurokinesis, gaining Telepathy (as the universal monster ability) with a range of 5 feet as well as the ability to grant yourself a +2 bonus on any Intelligence-based skill check as a move action. You are also always aware of if a creature has failed a save against one of your mind wild talents.
+You have learned the basics of neurokinesis, gaining Telepathy (as the universal monster ability) with a range of 5 feet as well as the ability to grant yourself a +2 bonus on any Intelligence-based skill check as a move action (1 AP). You are also always aware of if a creature has failed a save against one of your mind wild talents.
 
 ### Cerebral Empowerment
 
@@ -649,7 +649,7 @@ You sap vital water out of a creature’s body, causing it to suffer from dehydr
 
 **Associated Blast(s):** acid rain, charged water, gore, rainbow, steam, subzero, water.
 
-This functions as dehydrating blast, except it can be used with blood blast and bloody murder blast, and causes its target to suffer severe cramps, giving it a -4 penalty to Dexterity for as long as it suffers the damage caused by the infused blast. In addition, if the infused blast damages a creature, it creates a globe of the sapped-away fluid in a space adjacent to the target which you can use as an immediate action to attack with a water blast or any blast for which water blast is a prerequisite (but not blood or bloody murder blast unless the original blast was a blood, bloody murder, or gore blast). The second blast treats the globe of fluid as its point of origin, costs an additional 1 burn, and cannot use dehydrating blast, greater dehydrating blast, or wrack. If you possess the tundra’s wrath wild talent, you can instead make the second blast as a cold blast, ice blast, or any composite blast you possess for which cold blast or ice blast is a prerequisite. If you do not make this second blast, the globe of fluid falls down harmlessly and instantly evaporates to nothing.
+This functions as dehydrating blast, except it can be used with blood blast and bloody murder blast, and causes its target to suffer severe cramps, giving it a -4 penalty to Dexterity for as long as it suffers the damage caused by the infused blast. In addition, if the infused blast damages a creature, it creates a globe of the sapped-away fluid in a space adjacent to the target which you can use as an immediate action (1 AP of your next turn) to attack with a water blast or any blast for which water blast is a prerequisite (but not blood or bloody murder blast unless the original blast was a blood, bloody murder, or gore blast). The second blast treats the globe of fluid as its point of origin, costs an additional 1 burn, and cannot use dehydrating blast, greater dehydrating blast, or wrack. If you possess the tundra’s wrath wild talent, you can instead make the second blast as a cold blast, ice blast, or any composite blast you possess for which cold blast or ice blast is a prerequisite. If you do not make this second blast, the globe of fluid falls down harmlessly and instantly evaporates to nothing.
 
 **Notes**
 
@@ -801,7 +801,7 @@ You assault your foe with pure psionic energy. This blast is a mind-affecting ef
 
 ### Mental Fortress
 
-Your mind is a bastion, privy to none but yourself. Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action before suffering the effects of it. If you do so, you are dazed for 1 round.
+Your mind is a bastion, privy to none but yourself. Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action (1 AP of your next turn) before suffering the effects of it. If you do so, you are dazed for 1 round.
 
 ### Mobile Blast, Improved
 
@@ -809,7 +809,7 @@ Your mind is a bastion, privy to none but yourself. Whenever you would fail a sa
 
 **Associated Blast(s):** Any.
 
-This functions as mobile blast except it can travel as far as 120 feet from you before dissipating and can be moved up to 30 feet as a free action once per turn; this is in addition to moving it with a move action, and it cannot move more than your base speed per round. In addition, if you move it with your move action, you can also have it fire the kinetic blast of which it is composed as an immediate action, dealing damage as a 1st level kineticist with a Constitution score equal to your own (if it stops in the same square as another creature, this blast cannot target that creature and happens before they receive damage from it). Doing so reduces its damage by 1 die if it was composed from a simple blast or 2 dice if it was composed of a composite blast, and its duration immediately ends if it is reduced to 0 damage dice this way.
+This functions as mobile blast except it can travel as far as 120 feet from you before dissipating and can be moved up to 30 feet as a free action once per turn; this is in addition to moving it with a move action (1 AP), and it cannot move more than your base speed per round. In addition, if you move it with your move action (1 AP), you can also have it fire the kinetic blast of which it is composed as an immediate action (1 AP of your next turn), dealing damage as a 1st level kineticist with a Constitution score equal to your own (if it stops in the same square as another creature, this blast cannot target that creature and happens before they receive damage from it). Doing so reduces its damage by 1 die if it was composed from a simple blast or 2 dice if it was composed of a composite blast, and its duration immediately ends if it is reduced to 0 damage dice this way.
 
 ### Nebulous Shape
 
@@ -821,7 +821,7 @@ The matter your blasts create is amorphous, sometimes even intangible. When appl
 
 Your body grows numb to pain, allowing you to stand incredible pain. You can treat up to 2 points of lethal damage you take each round as nonlethal damage and gain a 5% chance to ignore critical hits or sneak attacks. At 4th level and every 4 levels thereafter, you can treat 2 more points of lethal damage as nonlethal damage. You can accept 1 point of burn to increase the amount of lethal damage you can treat as nonlethal damage by 2 and increase your chance of ignoring critical hits or sneak attacks by 5%, up to 100%. The chance of ignoring critical hits and sneak attacks granted by this wild talent stacks with the chance granted by elemental overflow and other wild talents to a maximum of 100%.
 
-Whenever you accept 1 or more points of burn when using a mind wild talent, you gain a competence bonus to will saves equal to 1/2 your Constitution modifier (minimum 1) for 1 round. You can dismiss and restore this effect as an immediate action.
+Whenever you accept 1 or more points of burn when using a mind wild talent, you gain a competence bonus to will saves equal to 1/2 your Constitution modifier (minimum 1) for 1 round. You can dismiss and restore this effect as an immediate action (1 AP of your next turn).
 
 ### Oil Infusion
 
@@ -849,7 +849,7 @@ Your blast overloads a foe’s mind, leaving them unable to focus. A foe dealt d
 
 **Associated Blast(s):** encephalon, false reality, mental, positive, verdant.
 
-Your blast can remove the aggression from a foe. A foe dealt damage by this infusion cannot make an attack roll or target its foes with its extraordinary abilities, spells, spell-like abilities, or supernatural abilities for 1 round per 3 kineticist levels you possess. As a move action, a foe can attempt a Will save against this effect, ignoring it for 1 round on a successful save. If this infusion is applied to a verdant blast, the blast must deal positive energy damage even if it is not beneficial to do so.
+Your blast can remove the aggression from a foe. A foe dealt damage by this infusion cannot make an attack roll or target its foes with its extraordinary abilities, spells, spell-like abilities, or supernatural abilities for 1 round per 3 kineticist levels you possess. As a move action (1 AP), a foe can attempt a Will save against this effect, ignoring it for 1 round on a successful save. If this infusion is applied to a verdant blast, the blast must deal positive energy damage even if it is not beneficial to do so.
 
 **Notes**
 
@@ -879,7 +879,7 @@ Your kinetic blasts leave behind residual chunks of energy or matter that last f
 
 **Associated Blast(s):** encephalon, false reality, mental.
 
-Your blast can forge a connection between your mind and another’s. A foe dealt damage by this infusion become attuned to your mental wavelengths for 1 minute per kineticist level you possess. You can target the creature with any mind wild talent as a full-round action regardless of range as long as they are on the same plane as you, treating them as if you have line of sight to them; blasts targeting this creature appear directly in its space and only affect it; you can accept 1 point to burn to allow the blast to affect other creatures when used this way if it would normally do so. You can only form a psychic connection with one target at a time; if this infusion affects another creature, the previous effect immediately ends. You can end this effect early as a free action. This can not be used with form infusions other than extended range, extreme range, or snake.
+Your blast can forge a connection between your mind and another’s. A foe dealt damage by this infusion become attuned to your mental wavelengths for 1 minute per kineticist level you possess. You can target the creature with any mind wild talent as a full-round action (3 AP) regardless of range as long as they are on the same plane as you, treating them as if you have line of sight to them; blasts targeting this creature appear directly in its space and only affect it; you can accept 1 point to burn to allow the blast to affect other creatures when used this way if it would normally do so. You can only form a psychic connection with one target at a time; if this infusion affects another creature, the previous effect immediately ends. You can end this effect early as a free action. This can not be used with form infusions other than extended range, extreme range, or snake.
 
 **Notes**
 

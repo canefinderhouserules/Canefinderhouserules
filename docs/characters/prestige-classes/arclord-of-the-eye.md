@@ -85,7 +85,7 @@ At 4th level, an arclord can create constructs with the Craft Construct feat in 
 
 #### Improved Third Eye (Sp)
 
-At 5th level, an arclord can activate his Eye of the Arclord feat as a move action. An arclord can expend two uses of his hand of the apprentice ability to add the effect of [*arcane sight*](../../magic/spells/arcane-sight.md) or [*see invisibility*](../../magic/spells/see-invisibility.md) to the benefits of his Eye of the Arclord for 1 minute (or until the duration of the Eye ends, whichever is sooner). He can add both effects by expending four uses of this ability.
+At 5th level, an arclord can activate his Eye of the Arclord feat as a move action (1 AP). An arclord can expend two uses of his hand of the apprentice ability to add the effect of [*arcane sight*](../../magic/spells/arcane-sight.md) or [*see invisibility*](../../magic/spells/see-invisibility.md) to the benefits of his Eye of the Arclord for 1 minute (or until the duration of the Eye ends, whichever is sooner). He can add both effects by expending four uses of this ability.
 
 #### Extradimensional Extension (Su)
 
@@ -93,8 +93,8 @@ At 6th level, the duration of any spell cast by an arclord that creates an extra
 
 #### Call for Aid (Su)
 
-At 8th level, as a standard action, an arclord can sacrifice a prepared spell of 2nd level or higher to call a creature bound to him, including an animal companion, eidolon, familiar, personally controlled construct or undead creature, creature telepathically linked to him (including by [*telepathic bond*](../../magic/spells/telepathic-bond.md), [*dominate person*](../../magic/spells/dominate-person.md), or [*dominate monster*](../../magic/spells/dominate-monster.md)), or an outsider bound with a [*planar binding*](../../magic/spells/planar-binding.md) spell. The named creature appears adjacent to the arclord, or in the nearest open space if all adjacent squares are occupied. This ability functions like *greater teleport*, except the range limit is determined by the level of the sacrificed spell: short (2nd–3rd), medium (4th–5th), long (6th–7th), unlimited (same plane) (8th), or unlimited (any plane) (9th).
+At 8th level, as a standard action (1 AP), an arclord can sacrifice a prepared spell of 2nd level or higher to call a creature bound to him, including an animal companion, eidolon, familiar, personally controlled construct or undead creature, creature telepathically linked to him (including by [*telepathic bond*](../../magic/spells/telepathic-bond.md), [*dominate person*](../../magic/spells/dominate-person.md), or [*dominate monster*](../../magic/spells/dominate-monster.md)), or an outsider bound with a [*planar binding*](../../magic/spells/planar-binding.md) spell. The named creature appears adjacent to the arclord, or in the nearest open space if all adjacent squares are occupied. This ability functions like *greater teleport*, except the range limit is determined by the level of the sacrificed spell: short (2nd–3rd), medium (4th–5th), long (6th–7th), unlimited (same plane) (8th), or unlimited (any plane) (9th).
 
 #### Greater Third Eye (Sp)
 
-At 10th level, an arclord can activate his Eye of the Arclord as a swift action. In addition, he can expend four uses of his hand of the apprentice while opening his third eye to gain *greater arcane sight* or [*true seeing*](../../magic/spells/true-seeing.md) until the beginning of his next turn. He gains both effects if he expends eight uses of this ability.
+At 10th level, an arclord can activate his Eye of the Arclord as a swift action (1 AP). In addition, he can expend four uses of his hand of the apprentice while opening his third eye to gain *greater arcane sight* or [*true seeing*](../../magic/spells/true-seeing.md) until the beginning of his next turn. He gains both effects if he expends eight uses of this ability.

@@ -34,7 +34,7 @@
 
 This choice cannot be changed later, and affects the dragon touched’s breath weapon class features.
 
-**Breath Weapon (Su):** At 1st level, a dragon touched gains a breath weapon; as a standard action she can release a gout of elemental energy from her mouth in either a 15 foot cone or 30 foot line and deals 1d8 + her class level (Reflex for half damage). At 5th level and every five levels afterwards, this damage increases by +1d8.
+**Breath Weapon (Su):** At 1st level, a dragon touched gains a breath weapon; as a standard action (2 AP) she can release a gout of elemental energy from her mouth in either a 15 foot cone or 30 foot line and deals 1d8 + her class level (Reflex for half damage). At 5th level and every five levels afterwards, this damage increases by +1d8.
 
 *This ability replaces the claws gained from shifter evolution.*
 
@@ -52,7 +52,7 @@ At 17th level, a dragon touched’s flight speed increases to 120 feet and her b
 
 **Draconic Shape (Su):** At 1st level, a dragon touched gains the ability to turn herself into a metallic or chromatic Small dragon and back again, although she may only shift into a type of dragon she has selected with her dragon-blooded or chimeric dragon class features. This ability functions like the *form of the dragon I* spell, except as noted here. The effect lasts for a number of hours equal to 1/2 her legendary shifter class level + her Wisdom modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A dragon touched can change form while in her draconic shape, but doing so reduces her total duration by 1 hour. Draconic shape is treated as wild shape for the purpose of feats which would affect it.
 
-In addition, a dragon touched can change her form while in shifter shape as a standard action a number of times per day equal to 1/2 her character level + her Wisdom modifier (minimum 1); doing so does not consume any duration of her draconic shape ability.
+In addition, a dragon touched can change her form while in shifter shape as a standard action (1 AP) a number of times per day equal to 1/2 her character level + her Wisdom modifier (minimum 1); doing so does not consume any duration of her draconic shape ability.
 
 A dragon touched who takes the form of a small dragon does not gain the wing attacks, fly speed, energy resistance, breath weapon or movement types, and she gains a +2 size bonus to Dexterity and +1 natural armor rather than the benefits normally granted by *form of the dragon I*. At 5th level, she gains the fly speed normally granted by *form of the dragon I*. At 8th level, she gains the wing attacks normally granted by *form of the dragon I*. At 11th level, she gains the movement type granted by *form of the dragon I*.
 
@@ -243,7 +243,7 @@ to a lycanthrope’s curse of lycanthropy.
 
 - [*elemental body i*](../../../magic/spells/elemental-body-i.md), *elemental body II*, *elemental body III*
 
-In addition, as a standard action, a number of times per day equal to the metamorphic genius’s Intelligence modifier + 1/3 her class level (minimum 1), when she is under the effects of an extract listed under her advanced study, she can choose to change the effects of it to another extract from her advanced study list of equal or lower level or change the form she has taken with that extract. For example, a 5th level metamorphic genius under the effects of a *beast shape I* spell could choose to change the effect to that of a *monstrous physique I* spell. Doing so does not reset the duration of the extract, nor does it require her to spend an additional extract.
+In addition, as a standard action (1 AP), a number of times per day equal to the metamorphic genius’s Intelligence modifier + 1/3 her class level (minimum 1), when she is under the effects of an extract listed under her advanced study, she can choose to change the effects of it to another extract from her advanced study list of equal or lower level or change the form she has taken with that extract. For example, a 5th level metamorphic genius under the effects of a *beast shape I* spell could choose to change the effect to that of a *monstrous physique I* spell. Doing so does not reset the duration of the extract, nor does it require her to spend an additional extract.
 
 *This ability replaces shifter shape.*
 
@@ -253,7 +253,7 @@ In addition, as a standard action, a number of times per day equal to the metamo
 
 **Intelligent Instinct (Ex):** At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the metamorphic genius adds her Intelligence bonus (if any) to her AC and CMD. If she is wearing armor or using a shield, she instead adds half her Intelligence bonus to her AC (minimum 0). In addition, the metamorphic genius gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 metamorphic genius levels thereafter (up to a maximum of +5 at 20th level).
 
-**Speed Sipper (Ex):** At 6th level, whenever a metamorphic genius consumes an extract from those listed in advanced study, she can choose to imbibe it as a move action. At 11th level, she can instead imbibe one of these extracts as a swift action. At 18th level, she can instead imbibe one of these extracts as an immediate action.
+**Speed Sipper (Ex):** At 6th level, whenever a metamorphic genius consumes an extract from those listed in advanced study, she can choose to imbibe it as a move action (1 AP). At 11th level, she can instead imbibe one of these extracts as a swift action (1 AP). At 18th level, she can instead imbibe one of these extracts as an immediate action (1 AP of your next turn).
 
 *This ability replaces speed shifter, lightning shifter, and instant shifter.*
 
@@ -269,23 +269,23 @@ In addition, as a standard action, a number of times per day equal to the metamo
 
 **Mimic Aspect (Ex):** At 1st level, a mimickin gains darkvision 60 feet and a +1 bonus to [Disguise](../../../rules/skills/disguise.md) checks. For every four levels the mimickin possesses, her bonus to Disguise checks increases by +1.
 
-At 5th level, as a swift action while in mimic shape, a mimickin can secrete a powerful adhesive. Any weapon that strikes an adhesive-coated mimickin is stuck fast unless the wielder succeeds on a Reflex save (DC = 10+ 1/2 the mimickin’s level + her Wisdom modifier). A successful Strength check (DC 10 + the mimickin’s level) is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the mimickin dies.
+At 5th level, as a swift action (1 AP) while in mimic shape, a mimickin can secrete a powerful adhesive. Any weapon that strikes an adhesive-coated mimickin is stuck fast unless the wielder succeeds on a Reflex save (DC = 10+ 1/2 the mimickin’s level + her Wisdom modifier). A successful Strength check (DC 10 + the mimickin’s level) is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the mimickin dies.
 
-At 9th level, a mimickin can change her form while in mimic shape at will as a move action, changing to a different kind of object.
+At 9th level, a mimickin can change her form while in mimic shape at will as a move action (1 AP), changing to a different kind of object.
 
-At 13th level, as a full-round action while in mimic shape, a mimickin can make a single bite attack that deals double base damage and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her mimickin level + Wisdom modifier) at the beginning of each of its turns or become [nauseated 1](../../../rules/appendices/conditions.md#nauseated) for 1 round.
+At 13th level, as a full-round action (3 AP) while in mimic shape, a mimickin can make a single bite attack that deals double base damage and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her mimickin level + Wisdom modifier) at the beginning of each of its turns or become [nauseated 1](../../../rules/appendices/conditions.md#nauseated) for 1 round.
 
-While she has a creature swallowed, a mimickin is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. She can regurgitate a swallowed creature of her choice as a move action, leaving it [prone](../../../rules/appendices/conditions.md#prone) in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the mimickin does (this doesn’t reduce the damage the mimickin takes). If a mimickin leaves mimic form, she must regurgitate any creature she has swallowed with this ability.
+While she has a creature swallowed, a mimickin is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. She can regurgitate a swallowed creature of her choice as a move action (1 AP), leaving it [prone](../../../rules/appendices/conditions.md#prone) in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the mimickin does (this doesn’t reduce the damage the mimickin takes). If a mimickin leaves mimic form, she must regurgitate any creature she has swallowed with this ability.
 
 *At 17th level, a mimickin gains blindsight 30 feet.*
 
 *This ability replaces shifter aspect, chimeric aspect, and greater chimeric aspect.*
 
-**Mimic Shape (Su):** At 1st level, a mimickin can assume the general shape of any Small or Medium object, such as a massive chest, a stout bed, or a door. A mimickin’s body is hard and has a rough texture, no matter what appearance it might present. A mimickin gains a +20 racial bonus on Disguise checks when imitating an object in this manner. Multiple mimickin can join together to form larger objects, although they each occupy their own space. While taking the shape of an object, a mimickin’s speed is reduced to 5 feet. As a swift action while disguised as an object, a mimickin can manifest or hide a pair of clawed hands and a mouth; doing so causes her to lose her racial bonus on Disguise checks, although her speed is no longer reduced by her form. Mimic shape is treated as wild shape for the purpose of feats which would affect it.
+**Mimic Shape (Su):** At 1st level, a mimickin can assume the general shape of any Small or Medium object, such as a massive chest, a stout bed, or a door. A mimickin’s body is hard and has a rough texture, no matter what appearance it might present. A mimickin gains a +20 racial bonus on Disguise checks when imitating an object in this manner. Multiple mimickin can join together to form larger objects, although they each occupy their own space. While taking the shape of an object, a mimickin’s speed is reduced to 5 feet. As a swift action (1 AP) while disguised as an object, a mimickin can manifest or hide a pair of clawed hands and a mouth; doing so causes her to lose her racial bonus on Disguise checks, although her speed is no longer reduced by her form. Mimic shape is treated as wild shape for the purpose of feats which would affect it.
 
 The effect lasts for a number of hours equal to 1/2 her mimickin class level + her Wisdom modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. These bonuses replace the normal bonuses for increasing her size, and this is a polymorph effect.
 
-In addition, a mimickin can change her form while in mimic shape as a standard action a number of times per day equal to 1/2 her character level + her Wisdom modifier (minimum 1); doing so does not consume any duration of her mimic shape ability.
+In addition, a mimickin can change her form while in mimic shape as a standard action (1 AP) a number of times per day equal to 1/2 her character level + her Wisdom modifier (minimum 1); doing so does not consume any duration of her mimic shape ability.
 
 While taking the form of a Small object, a mimickin gains a +2 size bonus to her Dexterity and a +1 bonus to her natural armor. While taking the form of a Medium object, a mimickin gains a +2 size bonus to her Strength and a +2 bonus to her natural armor.
 
@@ -333,7 +333,7 @@ To use wild empathy, the necromorph and the undead must be within 30 feet of one
 
 **Necro Shape (Su):** At 1st level, a legendary shifter gains the ability to turn herself into any Small or Medium corporeal creature of the undead type, which must be vaguely humanoid-shaped (like a ghoul, skeleton, or zombie). This ability functions like the *undead anatomy I* spell, except as noted here. The effect lasts for a number of hours equal to 1/2 her legendary shifter class level + her Charisma modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A necromorph can change form while in her shifter shape, but doing so reduces her total duration by 1 hour.
 
-In addition, a necromorph can change her form while in necro shape as a standard action a number of times per day equal to 1/2 her character level + her Charisma modifier (minimum 1); doing so does not consume any duration of her necro shape ability.
+In addition, a necromorph can change her form while in necro shape as a standard action (1 AP) a number of times per day equal to 1/2 her character level + her Charisma modifier (minimum 1); doing so does not consume any duration of her necro shape ability.
 
 At 6th level, a shifter can use shifter shape to change into a Large or Tiny corporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as *undead anatomy II*.
 
@@ -365,13 +365,13 @@ These bonuses to AC apply even against touch attacks and when the necromorph is 
 
 *The allure of taking on a form that is in itself all forms deeply appeals to an oozeling, allowing them to completely shift their form at a moment’s notice and take on whatever shape they desire.*
 
-**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](../ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is [unconscious](../../../rules/appendices/conditions.md#unconscious)).
+**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](../ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action (1 AP), an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is [unconscious](../../../rules/appendices/conditions.md#unconscious)).
 
 In protoplasmic blob form, the oozemorph is immune to critical hits and precision damage and can’t be flanked. However, she has no magic item slots and she cannot benefit from armor; cast spells; hold objects; speak; or use any magic item that requires activation, is held, or is worn on the body and has a movement speed of 10 feet. Shifting into protoplasmic form is treated as a polymorph effect.
 
 This ability replaces shifter aspects.
 
-**Ooze Weaponry (Ex):** An oozeling can choose to manifest up to 3 natural weapons of her choice as a swift action, each dealing damage equal to her shifter evolution class feature. At 6th level and every six levels afterwards, she can manifest an additional natural weapon. The total number of natural attacks an oozeling has at any given time includes those gained via her current form. For example, an 8th-level oozeling who has taken the form of a wolf with *beast shape I* has a bite attack as part of that form; she can create only three additional natural attacks via ooze weaponry, for a total of four attacks available to her at that level. If the oozeling later reverts to a humanoid form with no natural weapons, she can instead create four morphic weapons.
+**Ooze Weaponry (Ex):** An oozeling can choose to manifest up to 3 natural weapons of her choice as a swift action (1 AP), each dealing damage equal to her shifter evolution class feature. At 6th level and every six levels afterwards, she can manifest an additional natural weapon. The total number of natural attacks an oozeling has at any given time includes those gained via her current form. For example, an 8th-level oozeling who has taken the form of a wolf with *beast shape I* has a bite attack as part of that form; she can create only three additional natural attacks via ooze weaponry, for a total of four attacks available to her at that level. If the oozeling later reverts to a humanoid form with no natural weapons, she can instead create four morphic weapons.
 
 To determine if a natural attack is primary or secondary and it’s damage, refer to **Table 2: Oozeling Natural Weapons**.
 
@@ -430,7 +430,7 @@ An oozeling cannot use her shifter shape to transform into a magical beast.
 
 *This ability replaces shifter shape.*
 
-**Mercurial Shift (Ex):** At 9th level, as a full-round action a protean mutant can change the designation of all of her evolution points a number of times per day equal to her Wisdom modifier. At 14th level, she can use this ability as a swift action as well as changing her base form.
+**Mercurial Shift (Ex):** At 9th level, as a full-round action (3 AP) a protean mutant can change the designation of all of her evolution points a number of times per day equal to her Wisdom modifier. At 14th level, she can use this ability as a swift action (1 AP) as well as changing her base form.
 
 *This ability replaces chimeric aspect and great chimeric aspect.*
 

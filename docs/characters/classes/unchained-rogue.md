@@ -81,7 +81,7 @@ At 2nd level, a rogue can avoid even magical and unusual attacks with great agil
 
 ### Guile Pool (Ex)
 
-At 2nd level, a rogue gains a guile pool equal to half her rogue level + her Charisma modifier or her Intelligence modifier (choose one; minimum 1). She can spend 1 point on any skill check for a +2 bonus on that check; at 10th level, this bonus becomes +4. As a swift action, she can spend 1 point for a +1 circumstance bonus on attack rolls until the end of her turn. This bonus increases by 1 for every 4 levels beyond 2nd (+2 at 6th, +3 at 10th, +4 at 14th), to a maximum of +5 at 18th level. While she has at least 1 point in the pool, she is treated as having the [Improved Feint](../../rules/feats/improved-feint.md) feat.
+At 2nd level, a rogue gains a guile pool equal to half her rogue level + her Charisma modifier or her Intelligence modifier (choose one; minimum 1). She can spend 1 point on any skill check for a +2 bonus on that check; at 10th level, this bonus becomes +4. As a swift action (1 AP), she can spend 1 point for a +1 circumstance bonus on attack rolls until the end of her turn. This bonus increases by 1 for every 4 levels beyond 2nd (+2 at 6th, +3 at 10th, +4 at 14th), to a maximum of +5 at 18th level. While she has at least 1 point in the pool, she is treated as having the [Improved Feint](../../rules/feats/improved-feint.md) feat.
 
 ??? note "Original rule"
 
@@ -181,7 +181,7 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Hold Breath (Ex)**: A rogue with this talent doubles the amount of time she can hold her breath.
 
-**Lasting Poison (Ex)**: A rogue with this talent can apply poison to a weapon in such a way that it is effective for a number of successful attacks equal to her Dexterity modifier (minimum two) instead of one. This poison has a reduced effect, however, and saves made against the poison gain a +2 circumstance bonus. Applying poison in this way is a full-round action, or a standard action if the rogue has the swift poison rogue talent.
+**Lasting Poison (Ex)**: A rogue with this talent can apply poison to a weapon in such a way that it is effective for a number of successful attacks equal to her Dexterity modifier (minimum two) instead of one. This poison has a reduced effect, however, and saves made against the poison gain a +2 circumstance bonus. Applying poison in this way is a full-round action (3 AP), or a standard action (1 AP) if the rogue has the swift poison rogue talent.
 
 **Ledge Walker (Ex)**: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces. In addition, you can do a 5-foot step in difficult terrain once a day.
 
@@ -197,15 +197,15 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Nimble Climber (Ex)**: Whenever the rogue fails a [Climb](../../rules/skills/climb.md) check by 5 or more, she can attempt a Reflex save (using the same DC as the Climb check) to catch herself and avoid falling. Powerful Sneak* (Ex): Whenever a rogue with this talent takes a full-attack action, she can take a –2 penalty on all attack rolls until the start of her next turn. If she does, she can reroll any sneak attack damage dice that result in 1s. She can reroll multiple dice, but she can’t reroll any individual die more than once per attack.
 
-**Quick Disable (Ex)**: It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round). When she uses Disable Device to open a lock that would normally take a full-round action to open, she reduces the duration to a standard action.
+**Quick Disable (Ex)**: It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round). When she uses Disable Device to open a lock that would normally take a full-round action (3 AP) to open, she reduces the duration to a standard action (1 AP).
 
-**Resiliency (Ex)**: Once per day, a rogue with this ability can gain a number of temporary hit points equal to twice her rogue level. Activating this ability is an immediate action that can be performed only when the rogue is brought to below 0 hit points. This ability can be used to prevent the rogue from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls [unconscious](../../rules/appendices/conditions.md#unconscious) and is dying as normal.
+**Resiliency (Ex)**: Once per day, a rogue with this ability can gain a number of temporary hit points equal to twice her rogue level. Activating this ability is an immediate action (1 AP of your next turn) that can be performed only when the rogue is brought to below 0 hit points. This ability can be used to prevent the rogue from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls [unconscious](../../rules/appendices/conditions.md#unconscious) and is dying as normal.
 
 **Rogue Crawl (Ex)**: While [prone](../../rules/appendices/conditions.md#prone), a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling, and she reduces her attack roll and AC penalties for being prone by 2.
 
 **Slow Reactions\* (Ex)**: Opponents damaged by the rogue’s sneak attack can’t make attacks of opportunity for 1 round.
 
-**Stand Up (Ex)**: A rogue with this ability can stand up from a prone position as a swift action without provoking attacks of opportunity, or as a free action that provokes attacks of opportunity.
+**Stand Up (Ex)**: A rogue with this ability can stand up from a prone position as a swift action (1 AP) without provoking attacks of opportunity, or as a free action that provokes attacks of opportunity.
 
 **Surprise Attack (Ex)**: During the surprise round, a rogue with this ability always considers opponents flat-footed, even if they have already acted. A rogue with this ability adds 1/2 her rogue level to her sneak attack damage rolls made during the surprise round.
 
@@ -235,7 +235,7 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Light Walker (Ex)**: The rogue can move at full speed through difficult terrain and can take 5-foot steps into difficult terrain. A rogue must have the ledge walker rogue talent before choosing light walker.
 
-**Master of Disguise (Ex)**: Once per day, a rogue with this talent can don a disguise as a standard action. While wearing that disguise, she gains a +10 bonus on all [Disguise](../../rules/skills/disguise.md) checks. A rogue must have the Quick Disguise talent to select this talent.
+**Master of Disguise (Ex)**: Once per day, a rogue with this talent can don a disguise as a standard action (1 AP). While wearing that disguise, she gains a +10 bonus on all [Disguise](../../rules/skills/disguise.md) checks. A rogue must have the Quick Disguise talent to select this talent.
 
 **Multitalented, Greater (Ex)**: A rogue with this talent can use the multitalented rogue talent to gain additional uses of advanced talents. A rogue must have the multitalented talent to select this talent.
 
@@ -245,7 +245,7 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Slippery Mind (Ex)**: This ability represents the rogue’s ability to wriggle free from magical effects that would otherwise control or compel her. If a rogue with slippery mind is affected by an enchantment spell or effect and fails her saving throw, she can attempt it again 1 round later at the same DC. She can attempt only one additional saving throw against any given effect using this ability.
 
-**Quick Shot (Ex)**: Whenever the rogue rolls initiative, she can also make a single attack with a ranged weapon as a swift action. She can use this ability only if she has a weapon in hand and it is loaded (if applicable). If more than one rogue has this talent, their initiative check results determine the order in which they make their attacks. After these attacks are resolved, the round proceeds as normal.
+**Quick Shot (Ex)**: Whenever the rogue rolls initiative, she can also make a single attack with a ranged weapon as a swift action (1 AP). She can use this ability only if she has a weapon in hand and it is loaded (if applicable). If more than one rogue has this talent, their initiative check results determine the order in which they make their attacks. After these attacks are resolved, the round proceeds as normal.
 
 **Terrain Mastery, Greater (Ex)**: A rogue with this talent can select a single favored terrain. Her bonuses in that terrain increase to +4. At 13th level and 18th level, they increase by an additional +2 (to a maximum of +8). A rogue must have the terrain mastery talent to select this advanced talent.
 

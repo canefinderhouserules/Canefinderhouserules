@@ -26,7 +26,7 @@ A redeemed weapon was once a corrupt *unholy* weapon. The taint of evil has been
 
 *Aura* faint transmutation; *CL* 1st; *Slot* feet; *Price* 1,600 gp; *Weight* 1 lb.
 
-These leather boots bear a knife motif worked into their durable blue leather. Three times per day, the wearer can speak a command word as a swift action, causing a serrated knife to fly from the boots and instantly slice through any nonmagical bond currently restraining the wearer. The knife conjured from bondbreaker’s boots can cut through brambles, ropes, tanglefoot bags, vines, webs, or any other similar nonmagical item restraining the wearer, but cannot help when the owner is actively restrained by a creature. Bondbreaker’s boots also cannot free the wearer if manacles or chains restrain her.
+These leather boots bear a knife motif worked into their durable blue leather. Three times per day, the wearer can speak a command word as a swift action (1 AP), causing a serrated knife to fly from the boots and instantly slice through any nonmagical bond currently restraining the wearer. The knife conjured from bondbreaker’s boots can cut through brambles, ropes, tanglefoot bags, vines, webs, or any other similar nonmagical item restraining the wearer, but cannot help when the owner is actively restrained by a creature. Bondbreaker’s boots also cannot free the wearer if manacles or chains restrain her.
 
 *Construction* Craft Wondrous Item, *unseen servant*; Cost 800 gp.
 
@@ -34,7 +34,7 @@ These leather boots bear a knife motif worked into their durable blue leather. T
 
 *Aura* strong abjuration, conjuration, and evocation; *CL* 17th; *Slot* none; *Price* 66,750 gp; *Weight* 5 lbs.
 
-Forged with a wicked barbed end that resembles a key, this +2 *redeemed* longsword was once the unholy sword of a diabolist—before a party of adventurers retrieved it from his corpse and repurposed the weapon for good. The devil’s key is designed to permanently slay evil outsiders by bringing the fight to their plane of origin so they can be killed outright. Once per day as a swift action after a successful attack against an evil outsider, the wielder can activate the sword to *plane shift* the wielder and the target of the attack to the creature’s home plane. The targeted outsider can resist this effect with a successful DC 20 Will save. Once the target of this ability is slain by the wielder, the sword activates another *plane shift* as an immediate action that brings the wielder back to the exact spot it previously left.
+Forged with a wicked barbed end that resembles a key, this +2 *redeemed* longsword was once the unholy sword of a diabolist—before a party of adventurers retrieved it from his corpse and repurposed the weapon for good. The devil’s key is designed to permanently slay evil outsiders by bringing the fight to their plane of origin so they can be killed outright. Once per day as a swift action (1 AP) after a successful attack against an evil outsider, the wielder can activate the sword to *plane shift* the wielder and the target of the attack to the creature’s home plane. The targeted outsider can resist this effect with a successful DC 20 Will save. Once the target of this ability is slain by the wielder, the sword activates another *plane shift* as an immediate action (1 AP of your next turn) that brings the wielder back to the exact spot it previously left.
 
 *Construction* Craft Magic Arms and Armor, *consecrate*, *holy smite*, *plane shift*, creator must be good; Cost 33,533 gp.
 
@@ -58,7 +58,7 @@ This battered yet lovingly polished +1 *breastplate* is marked by three chipped 
 
 *Aura* strong abjuration and evocation; *CL* 12th; *Slot* none; *Price* 53,000 gp; *Weight* 2 lbs.
 
-Once possessed by a brijidine azata dedicated to ending the depredations of kytons, this potent magic weapon now holds a portion of her essence. This +1 *shock whip* is woven from green leather and crackles with electricity, seemingly writhing of its own volition. Three times per day, when the wielder successfully trips a creature with the whip, the target of the trip attack is subject to a *dimensional anchor* effect. The wielder can choose to suppress this ability as a swift action.
+Once possessed by a brijidine azata dedicated to ending the depredations of kytons, this potent magic weapon now holds a portion of her essence. This +1 *shock whip* is woven from green leather and crackles with electricity, seemingly writhing of its own volition. Three times per day, when the wielder successfully trips a creature with the whip, the target of the trip attack is subject to a *dimensional anchor* effect. The wielder can choose to suppress this ability as a swift action (1 AP).
 
 Furthermore, in the hands of a wielder with a good alignment, the weapon becomes a +1 *kyton bane shock whip*. The scourge is infused with good, and as a result it bestows 1 negative level on any nongood creature wielding it. This negative level persists as long as the weapon is wielded and disappears when the item is put away. The negative level cannot be overcome in any way (including by means of *restoration* spells) while it is wielded.
 
@@ -68,7 +68,7 @@ Furthermore, in the hands of a wielder with a good alignment, the weapon becomes
 
 *Aura* moderate abjuration and conjuration; *CL* 7th; *Slot* shoulders; *Price* 12,200 gp; *Weight* 10 lbs.
 
-This silvery cloak has steel pauldrons built into it, and always seems to fit a little too loosely, no matter who happens to be wearing it. At the start of each day, the owner of a mantle of the protector may spend 10 minutes attuning the mantle to his armor and shield. He may then lend his attuned mantle to an ally, who can activate it as an immediate action at any time to gain the owner’s armor and shield bonus as well as any other special properties the armor may have for 10 minutes. When the mantle is activated this way, the owner’s armor and shield go dormant, and he loses any benefits they may provide for 1 minute.
+This silvery cloak has steel pauldrons built into it, and always seems to fit a little too loosely, no matter who happens to be wearing it. At the start of each day, the owner of a mantle of the protector may spend 10 minutes attuning the mantle to his armor and shield. He may then lend his attuned mantle to an ally, who can activate it as an immediate action (1 AP of your next turn) at any time to gain the owner’s armor and shield bonus as well as any other special properties the armor may have for 10 minutes. When the mantle is activated this way, the owner’s armor and shield go dormant, and he loses any benefits they may provide for 1 minute.
 
 *Construction* Craft Wondrous Item, *shield other*; Cost 6,100 gp.
 

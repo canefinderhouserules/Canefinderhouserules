@@ -67,7 +67,7 @@ A deafened character cannot hear. He takes a –4 penalty on initiative checks, 
 
 ## Disabled
 
-A character with 0 hit points, or one who has negative hit points but has become stable and conscious, is disabled. A disabled character may take a single move action or standard action each round (but not both, nor can he take full-round actions, but he can still take swift, immediate, and free actions). He moves at half speed. Taking move actions doesn’t risk further injury, but performing any standard action (or any other action the GM deems strenuous, including some free actions such as casting a Quicken Spell spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character’s hit points, he is now in negative hit points and dying.
+A character with 0 hit points, or one who has negative hit points but has become stable and conscious, is disabled. A disabled character may take a single move action (1 AP) or standard action (1 AP) each round (but not both, nor can he take full-round actions, but he can still take swift, immediate, and free actions). He moves at half speed. Taking move actions doesn’t risk further injury, but performing any standard action (1 AP) (or any other action the GM deems strenuous, including some free actions such as casting a Quicken Spell spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character’s hit points, he is now in negative hit points and dying.
 
 A disabled character with negative hit points recovers hit points naturally if he is being helped. Otherwise, each day he can attempt a DC 10 Constitution check after resting for 8 hours, to begin recovering hit points naturally. The character takes a penalty on this roll equal to his negative hit point total. Failing this check causes the character to lose 1 hit point, but this does not cause the character to become unconscious. Once a character makes this check, he continues to heal naturally and is no longer in danger of losing hit points naturally.
 
@@ -91,7 +91,7 @@ Some abilities and spells (such as *raise dead*) bestow permanent level drain on
 
 The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a –2 penalty on all attack rolls and a –4 penalty to Dexterity. An entangled character who attempts to cast a spell must make a concentration check (DC 15 + spell level) or lose the spell.  
   
-**House rule:** a move action lets you repeat the save, or make an Escape Artist or Strength check against the original DC that caused it (if it was not caused by something with a DC, the DC becomes 10 + the character's level).
+**House rule:** a move action (1 AP) lets you repeat the save, or make an Escape Artist or Strength check against the original DC that caused it (if it was not caused by something with a DC, the DC becomes 10 + the character's level).
 
 ## Exhausted
 
@@ -99,7 +99,7 @@ An exhausted character moves at half speed, cannot run or charge, and takes a �
 
 ## Fascinated
 
-A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a –4 penalty on skill checks made as reactions, such as Perception checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free of the spell as a standard action.
+A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a –4 penalty on skill checks made as reactions, such as Perception checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free of the spell as a standard action (1 AP).
 
 ## Fatigued
 
@@ -128,7 +128,7 @@ A grappled creature cannot use Stealth to hide from the creature grappling it, e
 
 A helpless character is paralyzed, held, bound, sleeping, unconscious, or otherwise completely at an opponent’s mercy. A helpless target is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged attacks get no special bonus against helpless targets. Rogues can sneak attack helpless targets.
 
-As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets his sneak attack damage bonus against a helpless foe when delivering a coup de grace.)Delivering a coup de grace provokes attacks of opportunity.
+As a full-round action (3 AP), an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets his sneak attack damage bonus against a helpless foe when delivering a coup de grace.)Delivering a coup de grace provokes attacks of opportunity.
 
 Creatures that are immune to critical hits do not take critical damage, nor do they need to make Fortitude saves to avoid being killed by a coup de grace.
 
@@ -160,7 +160,7 @@ A creature can generally notice the presence of an active invisible creature wit
 | Behind an obstacle (door) | +5 |
 | Behind an obstacle (stone wall) | +15 |
 
-A creature can grope about to find an invisible creature. A character can make a touch attack with his hands or a weapon into two adjacent 5-foot squares using a standard action. If an invisible target is in the designated area, there is a 30% miss chance on the touch attack. If successful, the groping character deals no damage but has successfully pinpointed the invisible creature’s current location. If the invisible creature moves, its location, obviously, is once again unknown.
+A creature can grope about to find an invisible creature. A character can make a touch attack with his hands or a weapon into two adjacent 5-foot squares using a standard action (1 AP). If an invisible target is in the designated area, there is a 30% miss chance on the touch attack. If successful, the groping character deals no damage but has successfully pinpointed the invisible creature’s current location. If the invisible creature moves, its location, obviously, is once again unknown.
 
 If an invisible creature strikes a character, the character struck knows the location of the creature that struck him (until, of course, the invisible creature moves). The only exception is if the invisible creature has a reach greater than 5 feet. In this case, the struck character knows the general location of the creature but has not pinpointed the exact location.
 
@@ -196,7 +196,7 @@ Creatures with the nauseated condition experience stomach distress.
 
 **Nauseated 1** gives –4 on all rolls and damage. If nauseated is applied again, it becomes nauseated 2. Any nauseated effect that is resisted (where the save negates) instead leaves you with –2 on all rolls and damage for 1 round.
 
-**Nauseated 2** creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action per turn.
+**Nauseated 2** creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action (1 AP) per turn.
 
 ## Panicked
 
@@ -206,13 +206,13 @@ Panicked is like frightened, except that the creature must flee if possible.
 
 ## Paralyzed
 
-**Paralyzed 1** leaves you without a move action but you still have a standard action, which you cannot convert into a move action. You also keep swift and free actions. If paralyzed is applied again, you become paralyzed 2.
+**Paralyzed 1** leaves you without a move action (1 AP) but you still have a standard action (1 AP), which you cannot convert into a move action (1 AP). You also keep swift and free actions. If paralyzed is applied again, you become paralyzed 2.
 
 A **paralyzed 2** character is frozen in place and unable to move or act. A paralyzed character has effective Dexterity and Strength scores of 0 and is helpless, but can take purely mental actions. A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A paralyzed swimmer can’t swim and may drown. A creature can move through a space occupied by a paralyzed creature—ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares to move through.
 
 ## Petrified
 
-**Petrified 1** leaves you without a move action, with only a standard action, with –4 on all rolls and damage, and with a 30% arcane spell failure chance on spells with somatic components.
+**Petrified 1** leaves you without a move action (1 AP), with only a standard action (1 AP), with –4 on all rolls and damage, and with a 30% arcane spell failure chance on spells with somatic components.
 
 If petrified is applied again, you go from 1 to 2.
 
@@ -243,7 +243,7 @@ A ship that is reduced to 0 or fewer hit points gains the sinking condition. A s
 
 ## Sleep
 
-**Sleep 1** leaves you with a move or a standard action (not both), and –2 on all rolls and damage.
+**Sleep 1** leaves you with a move or a standard action (1 AP) (not both), and –2 on all rolls and damage.
 
 **Sleep 2** leaves you unconscious.
 
@@ -255,11 +255,11 @@ If a character has become stable on his own and hasn’t had help, he is still a
 
 ## Staggered
 
-A staggered creature may take a single move action or standard action each round (but not both, nor can he take full-round actions). A staggered creature can still take free, swift, and immediate actions. A creature with nonlethal damage exactly equal to its current hit points gains the staggered condition.
+A staggered creature may take a single move action (1 AP) or standard action (1 AP) each round (but not both, nor can he take full-round actions). A staggered creature can still take free, swift, and immediate actions. A creature with nonlethal damage exactly equal to its current hit points gains the staggered condition.
 
 ## Stunned
 
-**Stunned 1**: The creature can take only a single move action or standard action each round (not both, and no full-round actions). It takes a –2 penalty to AC and loses its Dexterity bonus to AC (if any). If stunned is applied again, it becomes stunned 2.
+**Stunned 1**: The creature can take only a single move action (1 AP) or standard action (1 AP) each round (not both, and no full-round actions). It takes a –2 penalty to AC and loses its Dexterity bonus to AC (if any). If stunned is applied again, it becomes stunned 2.
 
 **Stunned 2**: A stunned creature drops everything held, can’t take actions, takes a –2 penalty to AC, and loses its Dexterity bonus to AC (if any).
 

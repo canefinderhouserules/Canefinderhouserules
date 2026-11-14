@@ -84,7 +84,7 @@ At 6th level, once per week a prophet of commerce can call in favors from his tr
 
 #### Prophet’s Chest (Sp)
 
-At 8th level, a prophet of commerce can hide a chest on the Ethereal Plane, as per the spell [*secret chest*](../../magic/spells/secret-chest.md), except that the prophet does not need an expensive chest or replica—any chest will do. The prophet can summon the chest back to the Material Plane as a standard action up to three times per day. So long as the prophet accesses the chest once every month, it suffers no chance of being lost on the Ethereal Plane. A prophet of commerce can have only one chest on the Ethereal Plane in this way.
+At 8th level, a prophet of commerce can hide a chest on the Ethereal Plane, as per the spell [*secret chest*](../../magic/spells/secret-chest.md), except that the prophet does not need an expensive chest or replica—any chest will do. The prophet can summon the chest back to the Material Plane as a standard action (1 AP) up to three times per day. So long as the prophet accesses the chest once every month, it suffers no chance of being lost on the Ethereal Plane. A prophet of commerce can have only one chest on the Ethereal Plane in this way.
 
 #### Planar Contacts (Su)
 

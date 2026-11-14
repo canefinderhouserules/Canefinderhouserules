@@ -24,19 +24,19 @@ You are skilled at riding mounts, usually a horse, but possibly something more e
 
 *Fight with a Combat-Trained Mount*: If you direct your war-trained mount to attack in battle, you can still make your own attack or attacks normally. This usage is a free action.
 
-*Cover*: You can react instantly to drop down and hang alongside your mount, using it as cover. You can’t attack or cast spells while using your mount as cover. If you fail your Ride check, you don’t get the cover benefit. Using this option is an immediate action, but recovering from this position is a move action (no check required).
+*Cover*: You can react instantly to drop down and hang alongside your mount, using it as cover. You can’t attack or cast spells while using your mount as cover. If you fail your Ride check, you don’t get the cover benefit. Using this option is an immediate action (1 AP of your next turn), but recovering from this position is a move action (1 AP) (no check required).
 
 *Soft Fall*: You negate damage when you fall off a mount. If you fail the Ride check, you take 1d6 points of damage and are prone. This usage does not take an action.
 
 *Leap*: You can get your mount to leap obstacles as part of its movement. If the ride check to make the leap succeeds, make a check using your Ride modifier or the mount’s jump modifier, whichever is lower, to see how far the creature can jump. If you fail your Ride check to make the leap, you fall off the mount when it leaps and take the appropriate falling damage (at least 1d6 points). This usage does not take an action but is part of the mount’s movement.
 
-*Spur Mount*: You can spur your mount to greater speed with a move action. A successful Ride check increases the mount’s speed by 10 feet for 1 round but deals 1d3 points of damage to the creature. You can use this ability every round, but the mount becomes fatigued after a number of rounds equal to its Constitution score. This ability cannot be used on a fatigued mount.
+*Spur Mount*: You can spur your mount to greater speed with a move action (1 AP). A successful Ride check increases the mount’s speed by 10 feet for 1 round but deals 1d3 points of damage to the creature. You can use this ability every round, but the mount becomes fatigued after a number of rounds equal to its Constitution score. This ability cannot be used on a fatigued mount.
 
-*Control Mount in Battle*: As a move action, you can attempt to control a light horse, pony, heavy horse, or other mount not trained for combat riding while in battle. If you fail the Ride check, you can do nothing else in that round. You do not need to roll for horses or ponies trained for combat.
+*Control Mount in Battle*: As a move action (1 AP), you can attempt to control a light horse, pony, heavy horse, or other mount not trained for combat riding while in battle. If you fail the Ride check, you can do nothing else in that round. You do not need to roll for horses or ponies trained for combat.
 
-*Fast Mount or Dismount*: You can attempt to mount or dismount from a mount of up to one size category larger than yourself as a free action, provided that you still have a move action available that round. If you fail the Ride check, mounting or dismounting is a move action. You can’t use fast mount or dismount on a mount more than one size category larger than yourself.
+*Fast Mount or Dismount*: You can attempt to mount or dismount from a mount of up to one size category larger than yourself as a free action, provided that you still have a move action (1 AP) available that round. If you fail the Ride check, mounting or dismounting is a move action (1 AP). You can’t use fast mount or dismount on a mount more than one size category larger than yourself.
 
-**Action**: Varies. Mounting or dismounting normally is a move action. Other checks are a move action, a free action, or no action at all, as noted above.
+**Action**: Varies. Mounting or dismounting normally is a move action (1 AP). Other checks are a move action (1 AP), a free action, or no action at all, as noted above.
 
 **Special**: If you are riding bareback, you take a –5 penalty on Ride checks.
 

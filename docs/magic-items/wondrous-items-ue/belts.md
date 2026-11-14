@@ -101,7 +101,7 @@ This thin and flexible cotton cord is meant to be wrapped several times around w
 
 This bandolier is made of finely tanned leather. It has slots for up to 200 rounds of ammunition. Pellets and black powder are kept in tiny individual pouches, and bullets in small loops. The bandolier alters itself as needed to accommodate both. There are also places on the *beneficial bandolier* for a gunsmith’s kit and a powder horn. Regardless of what quantities of these items are placed within the *beneficial bandolier*, its weight does not change.
 
-As a swift action, the wearer can command a single round of ammunition from the *beneficial bandolier* to teleport into a firearm of the appropriate type that he is wielding.
+As a swift action (1 AP), the wearer can command a single round of ammunition from the *beneficial bandolier* to teleport into a firearm of the appropriate type that he is wielding.
 
 **Construction** Craft Wondrous Item, *secret chest*; **Cost** 500 gp
 
@@ -195,7 +195,7 @@ This belt grants its wearer a +2 enhancement bonus to Strength, and the ability 
 **Aura** moderate transmutation; **CL** 8th  
 **Slot** belt; **Price** 9,400 gp; **Weight** 1 lb.
 
-This furry brown belt resembles the tail of a monkey. The belt grants the wearer a +2 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. The wearer does not lose his Dexterity bonus to AC while climbing, and does not take a –5 penalty on Climb checks when climbing at half his speed. As a swift action the wearer can command the belt to animate, transforming it into a prehensile tail under the wearer’s control. The tail does not grant the wearer any additional attacks or actions per round, nor can it wield weapons, but it can make unarmed attacks and hold or manipulate objects about as well as the wearer’s normal limbs (though any activity requiring fingers is beyond the tail’s capabilities). The belt can function as a tail for 5 minutes per day. These minutes do not need to be consecutive.
+This furry brown belt resembles the tail of a monkey. The belt grants the wearer a +2 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. The wearer does not lose his Dexterity bonus to AC while climbing, and does not take a –5 penalty on Climb checks when climbing at half his speed. As a swift action (1 AP) the wearer can command the belt to animate, transforming it into a prehensile tail under the wearer’s control. The tail does not grant the wearer any additional attacks or actions per round, nor can it wield weapons, but it can make unarmed attacks and hold or manipulate objects about as well as the wearer’s normal limbs (though any activity requiring fingers is beyond the tail’s capabilities). The belt can function as a tail for 5 minutes per day. These minutes do not need to be consecutive.
 
 **Construction** Craft Wondrous Item, *beast shape I*, *cat’s grace*; **Cost** 4,700 gp
 
@@ -215,7 +215,7 @@ When the wearer speaks the command word to transform the belt into a prehensile 
 **Aura** moderate transmutation; **CL** 8th  
 **Slot** belt; **Price** 5,200 gp; **Weight** 1 lb.
 
-This belt grants its wearer a +2 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. Also, as an immediate action three times per day, the wearer can call upon the belt to reroll a saving throw made to resist a disease or poison. The wearer must use the second roll, even if it is worse.
+This belt grants its wearer a +2 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. Also, as an immediate action (1 AP of your next turn) three times per day, the wearer can call upon the belt to reroll a saving throw made to resist a disease or poison. The wearer must use the second roll, even if it is worse.
 
 **Construction** Craft Wondrous Item, *bear’s endurance*, *neutralize poison*, *remove disease*; **Cost** 2,600 gp
 
@@ -233,7 +233,7 @@ This belt functions as a *plague rat belt*, except it grants the wearer a +2 enh
 **Aura** moderate abjuration; **CL** 10th  
 **Slot** belt; **Price** 25,000 gp; **Weight** 1 lb.
 
-If this belt’s wearer has at least one hand free (holding nothing), he can attempt to deflect a successful melee attack with an immediate action. To do so, he rolls an unarmed strike against the opponent, including any applicable modifiers such as a favored enemy bonus or the penalty for Power Attack. If his attack roll is greater than the opponent’s attack roll, the attack is negated without effect. The unarmed strike itself causes no damage and does not count as a successful attack against the opponent. The opponent does not need to be within the wearer’s reach to use this ability. Whether the attack succeeds or not, the wearer takes a –4 penalty on attack rolls until the end of his next turn.
+If this belt’s wearer has at least one hand free (holding nothing), he can attempt to deflect a successful melee attack with an immediate action (1 AP of your next turn). To do so, he rolls an unarmed strike against the opponent, including any applicable modifiers such as a favored enemy bonus or the penalty for Power Attack. If his attack roll is greater than the opponent’s attack roll, the attack is negated without effect. The unarmed strike itself causes no damage and does not count as a successful attack against the opponent. The opponent does not need to be within the wearer’s reach to use this ability. Whether the attack succeeds or not, the wearer takes a –4 penalty on attack rolls until the end of his next turn.
 
 **Construction** Craft Wondrous Item, Combat Expertise, Improved Unarmed Strike; **Cost** 12,500 gp
 
@@ -242,7 +242,7 @@ If this belt’s wearer has at least one hand free (holding nothing), he can att
 **Aura** faint transmutation; **CL** 5th  
 **Slot** belt; **Price** 12,500 gp; **Weight** 1 lb.
 
-A *security belt* increases the DC of Sleight of Hand checks made against the wearer and checks to locate items or weapons hidden on the wearer’s person by 5. The wearer also gets a +5 bonus to CMD against the steal maneuver. Once per day on command, the wearer can touch a single item of up to 10 cubic feet and shrink it into a tiny cloth duplicate as the *shrink item* spell. With a move action, the wearer can draw one of these items from one of the belt’s pockets and return it to normal size*.* It is difficult to detect a *security belt* and any items in the pockets as magic. They are affected as though a constant *magic aura* spell were making them appear nonmagical.
+A *security belt* increases the DC of Sleight of Hand checks made against the wearer and checks to locate items or weapons hidden on the wearer’s person by 5. The wearer also gets a +5 bonus to CMD against the steal maneuver. Once per day on command, the wearer can touch a single item of up to 10 cubic feet and shrink it into a tiny cloth duplicate as the *shrink item* spell. With a move action (1 AP), the wearer can draw one of these items from one of the belt’s pockets and return it to normal size*.* It is difficult to detect a *security belt* and any items in the pockets as magic. They are affected as though a constant *magic aura* spell were making them appear nonmagical.
 
 **Construction** Craft Wondrous Item, *magic aura*, *shrink item*; **Cost** 6,250 gp
 
@@ -269,7 +269,7 @@ This belt functions as a *serpent belt*, except it grants the wearer a +2 enhanc
 **Aura** strong transmutation; **CL** 17th  
 **Slot** belt; **Price** 110,000 gp; **Weight** —
 
-When wrapped around a wearer’s waist, this belt grants a +6 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. Furthermore, as a swift action, its wearer can become incorporeal. While incorporeal, he does not gain a deflection bonus to AC based on his Charisma, but his natural armor bonus is converted to deflection bonus. The wearer can remain incorporeal for up to 10 rounds per day. The rounds need not be consecutive.
+When wrapped around a wearer’s waist, this belt grants a +6 enhancement bonus to Dexterity. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. Furthermore, as a swift action (1 AP), its wearer can become incorporeal. While incorporeal, he does not gain a deflection bonus to AC based on his Charisma, but his natural armor bonus is converted to deflection bonus. The wearer can remain incorporeal for up to 10 rounds per day. The rounds need not be consecutive.
 
 **Construction** Craft Wondrous Item, *cats grace*, *etherealness*; **Cost** 55,000 gp
 

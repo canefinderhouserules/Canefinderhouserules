@@ -26,7 +26,7 @@
 
 **Special Qualities:** An animal lord gains the following special qualities.
 
-***Change Shape (Su).*** An animal lord has two forms—a humanoid and an animal form. When an animal lord in humanoid form uses the base animal’s defensive abilities, movement types, attacks, and other features, the animal lord’s body instantaneously changes as appropriate to allow the use of that ability, growing wings or claws or fangs as necessary. The animal lord can use this ability to take the shape of the base animal (as shapechange) as a move action.
+***Change Shape (Su).*** An animal lord has two forms—a humanoid and an animal form. When an animal lord in humanoid form uses the base animal’s defensive abilities, movement types, attacks, and other features, the animal lord’s body instantaneously changes as appropriate to allow the use of that ability, growing wings or claws or fangs as necessary. The animal lord can use this ability to take the shape of the base animal (as shapechange) as a move action (1 AP).
 
 ***Dominion (Su).*** In both forms, an animal lord is treated as if constantly under the effects of a speak with animals spell, but this only applies to creatures of the animal lord’s species affinity (see below). In addition, an animal lord can cast charm animal on any animal of its affinity as a spell-like ability at will (CL equals the animal lord’s HD).
 

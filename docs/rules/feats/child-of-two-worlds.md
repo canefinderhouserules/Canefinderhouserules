@@ -12,4 +12,4 @@ You are the child of a land-dwelling creature and an aquatic creature, strugglin
 
 **Goal**: You must live among your other parent's race (the aquatic parent if you are a land dweller, or the land-dwelling parent if you are aquatic), learning to adapt to their strange world and culture until others of that race truly accept you. It isn't enough to badger or sweet-talk a member of that race into accepting you; you must perform significant rites of passage and form real bonds.
 
-**Completion Benefit**: You gain the amphibious subtype (and the aquatic subtype, if you don't have it) and can breathe water and air with equal ease. As a swift action you can transform your feet into a tail fin (swim speed 40 feet) or your tail fin into feet (land speed 30 feet), changing back and forth as often as you wish.
+**Completion Benefit**: You gain the amphibious subtype (and the aquatic subtype, if you don't have it) and can breathe water and air with equal ease. As a swift action (1 AP) you can transform your feet into a tail fin (swim speed 40 feet) or your tail fin into feet (land speed 30 feet), changing back and forth as often as you wish.

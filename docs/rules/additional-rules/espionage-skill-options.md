@@ -20,7 +20,7 @@ You can avoid drawing attention to yourself when performing conspicuous actions 
 
 **Check**: Your Bluff check is opposed by observers’ Sense Motive checks. You can’t attempt the check if your very presence is suspicious (which you could prevent by altering your appearance with the Disguise skill).
 
-**Action**: You attempt the Bluff check as part of performing the action you wish to render inconspicuous. Normally, you must take twice as long as normal to perform the action in order to make it inconspicuous. A standard action becomes a full-round action completed just before the start of your next turn and a free, immediate, move, or swift action becomes a standard action.
+**Action**: You attempt the Bluff check as part of performing the action you wish to render inconspicuous. Normally, you must take twice as long as normal to perform the action in order to make it inconspicuous. A standard action (1 AP) becomes a full-round action (3 AP) completed just before the start of your next turn and a free, immediate, move, or swift action (1 AP) becomes a standard action (1 AP).
 
 ## Intentional Mishap (Use Magic Device)
 
@@ -28,7 +28,7 @@ You can intentionally cause a magic item to produce a mishap.
 
 **Check**: You can cause a magic item to have an intentional magic mishap, as if you had attempted to activate it blindly and failed by 10 or more. The DC to produce an intentional mishap is 30. If you succeed, you have some control over the mishap. The item deals 2d6 points of damage to any one creature or object that the item could have targeted if activated normally. You can attempt to aim it, but if you select an invalid target, you take the damage instead. If you fail the check by 9 or less, you create a normal mishap you do not control. If you fail by 10 or more, nothing happens.
 
-**Action**: Attempting to create a mishap is like activating an item blindly, and requires a standard action during which you try out magic words or other appropriate actions.
+**Action**: Attempting to create a mishap is like activating an item blindly, and requires a standard action (1 AP) during which you try out magic words or other appropriate actions.
 
 ## Palm Weapon (Sleight of Hand)
 

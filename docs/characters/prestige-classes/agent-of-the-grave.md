@@ -72,7 +72,7 @@ Your mind-affecting spells and spell-like abilities treat undead as their origin
 
 #### Negative Energy Conduit (Ex)
 
-Once per day, as a standard action, you can create an aura identical to [*desecrate*](../../magic/spells/desecrate.md) that lasts 10 minutes per level. Undead you create are treated as created within a *desecrate* area.
+Once per day, as a standard action (1 AP), you can create an aura identical to [*desecrate*](../../magic/spells/desecrate.md) that lasts 10 minutes per level. Undead you create are treated as created within a *desecrate* area.
 
 #### Death’s Shroud (Su)
 

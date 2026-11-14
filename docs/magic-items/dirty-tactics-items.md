@@ -8,7 +8,7 @@ The following magic items are meant to enhance the dirty tactics of sneaky heroe
 
 *Aura* moderate conjuration; *CL* 9th; *Slot* none; *Price* +2 bonus; *Weight* —
 
-Once per day as a swift action, the wearer can harden armor possessing this special ability to the strength of adamantine, giving it DR 3/— for 9 rounds. The adamant special ability can be placed on only heavy armor.
+Once per day as a swift action (1 AP), the wearer can harden armor possessing this special ability to the strength of adamantine, giving it DR 3/— for 9 rounds. The adamant special ability can be placed on only heavy armor.
 
 *Construction* Craft Magic Arms and Armor, *mage armor*, *major creation*; Cost +2 bonus.
 
@@ -16,7 +16,7 @@ Once per day as a swift action, the wearer can harden armor possessing this spec
 
 *Aura* moderate evocation; *CL* 10th; *Slot* none; *Price* +2 bonus; *Weight* —
 
-Once per day as a standard action, the wearer of ghost spike armor can command armor spikes made of shimmering force to erupt from the armor for up to 10 rounds. Treat these spikes as +1 ghost touch armor spikes with which the wearer is proficient. While the spikes are active, the wearer can attempt to grapple incorporeal creatures with a –4 penalty on his combat maneuver checks to grapple. The wearer can dismiss the spikes as a free action. The ghost spike ability cannot be placed on spiked armor or on a shield.
+Once per day as a standard action (1 AP), the wearer of ghost spike armor can command armor spikes made of shimmering force to erupt from the armor for up to 10 rounds. Treat these spikes as +1 ghost touch armor spikes with which the wearer is proficient. While the spikes are active, the wearer can attempt to grapple incorporeal creatures with a –4 penalty on his combat maneuver checks to grapple. The wearer can dismiss the spikes as a free action. The ghost spike ability cannot be placed on spiked armor or on a shield.
 
 *Construction* Craft Magic Arms and Armor, *spiritual weapon*; Cost +2 bonus.
 
@@ -24,7 +24,7 @@ Once per day as a standard action, the wearer of ghost spike armor can command a
 
 *Aura* moderate abjuration; *CL* 6th; *Slot* none; *Price* +1 bonus; *Weight* —
 
-A suit of armor or a shield with this ability can absorb and neutralize magical effects, albeit on a limited basis. Once per day as an immediate action, the bearer can command the armor or shield to absorb a spell, spell-like ability, or magical ability created by a magic item that specifically targets only her. It cannot absorb spells, spell-like abilities, or item effects that target an area or multiple targets. The attacker creating the magical effect to be absorbed must succeed at a DC 14 Will saving throw or the shield or armor absorbs and neutralizes the effect.
+A suit of armor or a shield with this ability can absorb and neutralize magical effects, albeit on a limited basis. Once per day as an immediate action (1 AP of your next turn), the bearer can command the armor or shield to absorb a spell, spell-like ability, or magical ability created by a magic item that specifically targets only her. It cannot absorb spells, spell-like abilities, or item effects that target an area or multiple targets. The attacker creating the magical effect to be absorbed must succeed at a DC 14 Will saving throw or the shield or armor absorbs and neutralizes the effect.
 
 *Construction* Craft Magic Arms and Armor, *dispel magic*; Cost +1 bonus.
 
@@ -50,7 +50,7 @@ This special weapon ability can be placed on only melee weapons. When a characte
 
 *Aura* strong necromancy; *CL* 15th; *Slot* none; *Price* +3 bonus; *Weight* —
 
-A gory weapon functions as a wounding weapon, except it deals 1d2 points of bleed damage when it strikes. Additionally, when the wielder confirms a critical hit with this weapon, he can attempt an Intimidate check to demoralize the target as an immediate action with a circumstance bonus equal to his character level.
+A gory weapon functions as a wounding weapon, except it deals 1d2 points of bleed damage when it strikes. Additionally, when the wielder confirms a critical hit with this weapon, he can attempt an Intimidate check to demoralize the target as an immediate action (1 AP of your next turn) with a circumstance bonus equal to his character level.
 
 *Construction* Craft Magic Arms and Armor, *bleed*, *inflict serious wounds*; Cost +3 bonus.
 
@@ -86,7 +86,7 @@ Poison applied to this +1 dagger seeps into the blade, awaiting the perfect mome
 
 *Aura* moderate transmutation; *CL* 10th; *Slot* none; *Price* 12,302 gp; *Weight* 1 lb.
 
-These +1 gauntlets are made of snakeskin and grant a +1 enhancement bonus on grapple checks. Once per day as a standard action, the wielder of a pair of constrictor's gauntlets can target a single creature wearing medium or heavy armor within 30 feet. The target must succeed at a DC 16 Will saving throw or its armor shrinks and constricts, dealing 1d6 points of bludgeoning damage to the target if it's wearing medium armor or 1d8 points of bludgeoning damage if it's wearing heavy armor. The armor deals this damage each round for 3 rounds, and then returns to its normal size. The armor's armor bonus, maximum Dexterity bonus, armor check penalty, and other attributes do not change while it is shrunken.
+These +1 gauntlets are made of snakeskin and grant a +1 enhancement bonus on grapple checks. Once per day as a standard action (1 AP), the wielder of a pair of constrictor's gauntlets can target a single creature wearing medium or heavy armor within 30 feet. The target must succeed at a DC 16 Will saving throw or its armor shrinks and constricts, dealing 1d6 points of bludgeoning damage to the target if it's wearing medium armor or 1d8 points of bludgeoning damage if it's wearing heavy armor. The armor deals this damage each round for 3 rounds, and then returns to its normal size. The armor's armor bonus, maximum Dexterity bonus, armor check penalty, and other attributes do not change while it is shrunken.
 
 *Construction* Craft Magic Arms and Armor, *shrink item*; Cost 6,302 gp.
 
@@ -94,7 +94,7 @@ These +1 gauntlets are made of snakeskin and grant a +1 enhancement bonus on gra
 
 *Aura* moderate illusion; *CL* 7th; *Slot* none; *Price* 18,310 gp; *Weight* 2 lbs.
 
-Once per day as a standard action, the wielder of this +1 short sword can appear as a specific humanoid enemy the blade has injured within the previous 7 minutes. The target must be within one size category of the wielder. The wielder can appear as that humanoid for up to 7 minutes and can dismiss the effect as a free action. Anyone interacting with the wielder of a doppelganger's sword who is familiar with the impersonated humanoid can attempt a DC 14 Will saving throw to disbelieve the illusion.
+Once per day as a standard action (1 AP), the wielder of this +1 short sword can appear as a specific humanoid enemy the blade has injured within the previous 7 minutes. The target must be within one size category of the wielder. The wielder can appear as that humanoid for up to 7 minutes and can dismiss the effect as a free action. Anyone interacting with the wielder of a doppelganger's sword who is familiar with the impersonated humanoid can attempt a DC 14 Will saving throw to disbelieve the illusion.
 
 *Construction* Craft Magic Arms and Armor, *alter self*, *major image*; Cost 9,310 gp.
 
@@ -102,7 +102,7 @@ Once per day as a standard action, the wielder of this +1 short sword can appear
 
 *Aura* faint transmutation; *CL* 3rd; *Slot* none; *Price* 5,005 gp; *Weight* 2 lbs.
 
-On a successful critical hit with this +1 scorpion whip, the wielder can attempt a steal combat maneuver against the target as a swift action as if she had the Improved Steal feat.
+On a successful critical hit with this +1 scorpion whip, the wielder can attempt a steal combat maneuver against the target as a swift action (1 AP) as if she had the Improved Steal feat.
 
 *Construction* Craft Magic Arms and Armor, *mage hand*; Cost 2,655 gp.
 
@@ -170,7 +170,7 @@ This smooth lodestone is gray and streaked with veins of glossy obsidian. As a r
 
 An attached burdenstone increases the target's load by one step. If a target's load is already heavy, the target is knocked prone, its movement is reduced to 10 feet, and it cannot run. An attached burdenstone also prevents the target from flying. A target may not be affected by more than one burdenstone at a time.
 
-A successful DC 20 Strength check made as a full-round action can remove the stone from a target before the duration elapses. Once a burdenstone has been removed or the duration expires, it becomes an ordinary magnetic stone.
+A successful DC 20 Strength check made as a full-round action (3 AP) can remove the stone from a target before the duration elapses. Once a burdenstone has been removed or the duration expires, it becomes an ordinary magnetic stone.
 
 *Construction* Craft Wondrous Item, *burdened thoughts*; Cost 500 gp.
 
@@ -224,11 +224,11 @@ This tattoo typically takes the form of a colorful sunburst. The bearer can acti
 
 *Aura* faint conjuration; *CL* 5th; *Slot* none; *Price* 18,000 gp; *Weight* —
 
-This tattoo typically takes the form of a coiled snake, and once per day the bearer can activate it as a standard action. A viper tattoo must be visible to the bearer and must be touched as part of its activation. The tattoo is not normally placed on the head, neck, or back as a result, since most creatures would require mirrors to activate them.
+This tattoo typically takes the form of a coiled snake, and once per day the bearer can activate it as a standard action (1 AP). A viper tattoo must be visible to the bearer and must be touched as part of its activation. The tattoo is not normally placed on the head, neck, or back as a result, since most creatures would require mirrors to activate them.
 
 When activated, the snake tattoo animates and becomes a viper. It appears in the bearer's space and acts immediately, on the bearer's turn, and obeys the bearer's spoken commands for up to 5 rounds. The viper uses the bearer's base attack bonus when it attacks, and the DC to resist and cure its poison is equal to 10 + 1/2 the bearer's level + the bearer's Constitution modifier. If the bearer has a class feature or an ability that grants it precision damage (such as sneak attack), the viper's attack deals 1 additional point of damage per die of that precision damage.
 
-At the end of the 5 rounds, the viper vanishes and reverts to its tattoo form. If the viper is killed, the tattoo vanishes. As a swift action, the bearer can command the viper to withdraw from an opponent, and in this case, the viper returns to its tattoo form once it reaches the bearer's space.
+At the end of the 5 rounds, the viper vanishes and reverts to its tattoo form. If the viper is killed, the tattoo vanishes. As a swift action (1 AP), the bearer can command the viper to withdraw from an opponent, and in this case, the viper returns to its tattoo form once it reaches the bearer's space.
 
 *Construction* Inscribe Magical Tattoo, *summon nature's ally I*; Cost 9,000 gp.
 
@@ -236,6 +236,6 @@ At the end of the 5 rounds, the viper vanishes and reverts to its tattoo form. I
 
 *Aura* faint conjuration; *CL* 5th; *Slot* none; *Price* 10,000 gp; *Weight* —
 
-This tattoo can store one weapon, sized for the bearer of the tattoo. When no weapon is stored, the tattoo takes the form of an empty sword sheath. When a weapon is stored within the tattoo, it takes the form of the weapon so stored. Storing a weapon in the tattoo is a full-round action, but removing a weapon from the tattoo is only a swift action. This tattoo can only be put on one of the bearer's arms (preventing the other arm from receiving another tattoo), and the weapon automatically appears in the hand of the arm it is tattooed upon. If that hand is not free, the weapon cannot be summoned. If the bearer is tightly constrained in an area too small for the weapon to appear without damaging something, the weapon cannot be summoned. If the tattoo is destroyed while a weapon is in it, the weapon falls to the ground in a random space adjacent to the bearer of the tattoo.
+This tattoo can store one weapon, sized for the bearer of the tattoo. When no weapon is stored, the tattoo takes the form of an empty sword sheath. When a weapon is stored within the tattoo, it takes the form of the weapon so stored. Storing a weapon in the tattoo is a full-round action (3 AP), but removing a weapon from the tattoo is only a swift action (1 AP). This tattoo can only be put on one of the bearer's arms (preventing the other arm from receiving another tattoo), and the weapon automatically appears in the hand of the arm it is tattooed upon. If that hand is not free, the weapon cannot be summoned. If the bearer is tightly constrained in an area too small for the weapon to appear without damaging something, the weapon cannot be summoned. If the tattoo is destroyed while a weapon is in it, the weapon falls to the ground in a random space adjacent to the bearer of the tattoo.
 
 *Construction* Inscribe Magical Tattoo, *disguise weapon*; Cost 5,000 gp.

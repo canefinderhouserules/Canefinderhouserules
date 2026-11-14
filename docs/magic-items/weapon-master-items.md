@@ -36,7 +36,7 @@ This +1 double-barreled pistol contains a single grit feat from the following li
 
 *Aura* moderate conjuration; *CL* 9th; *Slot* none; *Price* 15,302 gp; *Weight* 6 lbs.
 
-When the wielder of this glimmering +1 *ghost touch* spear enters a rage, she can drum the spear against a shield or the ground as a swift action. If she does, colorful lights dance around the spear and the wielder can choose to gain the benefit of *guidance*, grant the touched shield the *ghost touch* special ability, or grant the spear the *returning* special ability. The chosen benefit lasts for the duration of the rage.
+When the wielder of this glimmering +1 *ghost touch* spear enters a rage, she can drum the spear against a shield or the ground as a swift action (1 AP). If she does, colorful lights dance around the spear and the wielder can choose to gain the benefit of *guidance*, grant the touched shield the *ghost touch* special ability, or grant the spear the *returning* special ability. The chosen benefit lasts for the duration of the rage.
 
 *Construction* Craft Magic Arms and Armor, *guidance*, *faerie fire*, *plane shift*; Cost 7,802 gp.
 
@@ -44,7 +44,7 @@ When the wielder of this glimmering +1 *ghost touch* spear enters a rage, she ca
 
 *Aura* moderate enchantment; *CL* 9th; *Slot* none; *Price* 20,315 gp; *Weight* 5 lbs.
 
-Once per day within 1 minute of using this +1 *valiant* scimitar to kill or knock unconscious a foe, as a standard action, the wielder can inspire all allies within 60 feet who can see her. Those allies gain a +2 morale bonus on attack rolls, skill checks, and saving throws for 10 minutes.
+Once per day within 1 minute of using this +1 *valiant* scimitar to kill or knock unconscious a foe, as a standard action (1 AP), the wielder can inspire all allies within 60 feet who can see her. Those allies gain a +2 morale bonus on attack rolls, skill checks, and saving throws for 10 minutes.
 
 *Construction* Craft Magic Arms and Armor, *good hope*, *true strike*; Cost 10,315 gp.
 
@@ -52,6 +52,6 @@ Once per day within 1 minute of using this +1 *valiant* scimitar to kill or knoc
 
 *Aura* moderate divination; *CL* 8th; *Slot* none; *Price* 54,400 gp; *Weight* 3 lbs.
 
-Whenever an arrow fired from this +1 *adaptive seeking* composite longbow damages the wielder's favored enemy or studied target (as per the ranger and slayer class features, respectively), in addition to its normal effects, it also deals 2 points of bleed damage. As long as the bleed effect continues, the wielder can sense that foe's approximate direction and distance twice per day by smelling the wind as a standard action.
+Whenever an arrow fired from this +1 *adaptive seeking* composite longbow damages the wielder's favored enemy or studied target (as per the ranger and slayer class features, respectively), in addition to its normal effects, it also deals 2 points of bleed damage. As long as the bleed effect continues, the wielder can sense that foe's approximate direction and distance twice per day by smelling the wind as a standard action (1 AP).
 
 *Construction* Craft Magic Arms and Armor, *bleed*, *locate creature*, *warp wood*; Cost 27,400 gp.

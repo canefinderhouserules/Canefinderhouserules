@@ -91,7 +91,7 @@ Beginning at 4th level, whenever a fate reader uses her deck casting ability, fo
 
 #### Spirit Deck (Su)
 
-A 5th-level fate reader may, as a standard action, summon a shimmering, translucent fate deck made of force that flies through the air and engulfs a target within 30 feet in a whirling cloud of knife-edged cards. The fate reader then draws a number of fate cards equal to her fate reader level from her personal fate deck, and the spirit deck deals damage based on the number of drawn cards that match her alignment, as shown on the table above. Each exact match deals 5 points of damage, each partial match deals 3 points, each non-matched card deals 1 point, and each opposite match deals 0 points. The fate reader may use this ability a number of times per day equal to 1 + her Charisma modifier (minimum 1/day).
+A 5th-level fate reader may, as a standard action (1 AP), summon a shimmering, translucent fate deck made of force that flies through the air and engulfs a target within 30 feet in a whirling cloud of knife-edged cards. The fate reader then draws a number of fate cards equal to her fate reader level from her personal fate deck, and the spirit deck deals damage based on the number of drawn cards that match her alignment, as shown on the table above. Each exact match deals 5 points of damage, each partial match deals 3 points, each non-matched card deals 1 point, and each opposite match deals 0 points. The fate reader may use this ability a number of times per day equal to 1 + her Charisma modifier (minimum 1/day).
 
 #### Divination (Sp)
 

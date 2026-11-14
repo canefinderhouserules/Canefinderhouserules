@@ -53,15 +53,15 @@ Argent dramaturge levels stack with bard levels to improve bardic performances.
 
 #### Argent Performance
 
-An argent dramaturge can use Perform (sing) to create special magical effects that hinder outsiders (particularly those affected by silver, such as devils) as per the bardic performance bard class feature. She can use this ability for 2 rounds per day for each argent dramaturge level she has, and can use rounds of bardic performance gained from bard levels to perform argent performances and vice-versa. Starting an argent performance is a move action, but it can be maintained each round as a free action.
+An argent dramaturge can use Perform (sing) to create special magical effects that hinder outsiders (particularly those affected by silver, such as devils) as per the bardic performance bard class feature. She can use this ability for 2 rounds per day for each argent dramaturge level she has, and can use rounds of bardic performance gained from bard levels to perform argent performances and vice-versa. Starting an argent performance is a move action (1 AP), but it can be maintained each round as a free action.
 
 An argent performance cannot be disrupted, but ends immediately if the argent dramaturge is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), knocked [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from taking a free action to maintain it each round. An argent performance counts as a bardic performance when determining how many performances the argent dramaturge can have in effect at one time. An argent performance has audible components but not visual components. The save DC against an argent dramaturge’s performance is equal to 10 + the argent dramaturge’s level + her Charisma modifier.
 
-At 7th level, an argent dramaturge can start an argent performance as a swift action if she chooses.
+At 7th level, an argent dramaturge can start an argent performance as a swift action (1 AP) if she chooses.
 
 ??? note "Original rule"
 
-    At 13th level, an argent dramaturge can start an argent performance as a swift action if she chooses.
+    At 13th level, an argent dramaturge can start an argent performance as a swift action (1 AP) if she chooses.
 
 The performance abilities that an argent dramaturge gains are noted below.
 
@@ -75,7 +75,7 @@ When the argent dramaturge uses her argent performance to create the “Song of 
 
     When the argent dramaturge uses her argent performance to create the “Song of Silver,” all weapons (both natural and manufactured) within a 30-foot radius of the argent dramaturge are treated as if they were silver for the purpose of overcoming damage reduction, and a number of targets equal to the argent dramaturge’s Charisma modifier (minimum 1 target) become immune to fear effects and gain a +4 sacred bonus on saving throws against charm and compulsion effects.
 
-At 5th level, once per day as an immediate action, an argent dramaturge can grant a single ally who is currently benefiting from the saving throw bonus from the “Song of Silver” the effects of a [*breath of life*](../../magic/spells/breath-of-life.md) spell (CL = the argent dramaturge’s character level). Granting this effect immediately ends the “Song of Silver” performance, and the argent dramaturge must wait 3 rounds before activating a new “Song of Silver” (but she can activate other argent or bardic performances in the meantime). At 5th level, the “Song of Silver” affects a 60-foot-radius area around the argent dramaturge.
+At 5th level, once per day as an immediate action (1 AP of your next turn), an argent dramaturge can grant a single ally who is currently benefiting from the saving throw bonus from the “Song of Silver” the effects of a [*breath of life*](../../magic/spells/breath-of-life.md) spell (CL = the argent dramaturge’s character level). Granting this effect immediately ends the “Song of Silver” performance, and the argent dramaturge must wait 3 rounds before activating a new “Song of Silver” (but she can activate other argent or bardic performances in the meantime). At 5th level, the “Song of Silver” affects a 60-foot-radius area around the argent dramaturge.
 
 ##### Anchoring Aria (Su)
 
@@ -83,7 +83,7 @@ At 3rd level, the argent dramaturge can use her knowledge of the magical melodie
 
 ##### Righteous Chord (Sp)
 
-At 9th level, as a standard action that costs 2 rounds of argent or bardic performance, the argent dramaturge can affect a single evil outsider within 60 feet as per the spell [*banishment*](../../magic/spells/banishment.md), treating her character level as her caster level. As a free action, the argent dramaturge can attempt a Perform check with a DC equal to 10 + the HD of the targeted outsider. If successful, she is treated as having presented the targeted outsider with one object or substance the target fears or hates for the purpose of determining the effects of the *banishment* spell. Activating this argent performance does not end a currently active argent or bardic performance.
+At 9th level, as a standard action (2 AP) that costs 2 rounds of argent or bardic performance, the argent dramaturge can affect a single evil outsider within 60 feet as per the spell [*banishment*](../../magic/spells/banishment.md), treating her character level as her caster level. As a free action, the argent dramaturge can attempt a Perform check with a DC equal to 10 + the HD of the targeted outsider. If successful, she is treated as having presented the targeted outsider with one object or substance the target fears or hates for the purpose of determining the effects of the *banishment* spell. Activating this argent performance does not end a currently active argent or bardic performance.
 
 #### Dramaturgical Flourish (Su)
 
@@ -91,7 +91,7 @@ At 2nd level and every 2 levels thereafter, an argent dramaturge’s studies int
 
 - **Heartening Song**: An argent dramaturge’s countersong functions against mind-affecting effects that rely on negative emotions (such as crushing despair, rage, or fear effects) as well as sonic and language-dependent effects. An argent dramaturge must have the countersong bardic performance to select this dramaturgical flourish.
 - **Masterpiece**: The argent dramaturge gains a [bardic masterpiece](../classes/bard-archetypes.md) without needing to sacrifice a feat or spell known. She must still meet the prerequisites of the masterpiece. An argent dramaturge can take this flourish more than once, but must select a new bardic masterpiece each time she does so.
-- **Reactive Performance**: The argent dramaturge can activate her countersong or distraction bardic performance as an immediate action. When she does so, she must expend 2 rounds of bardic performance rather than 1. An argent dramaturge must have the countersong and distraction bardic performances to select this dramaturgical flourish.
-- **Sudden Competence**: An argent dramaturge can activate her inspire competence bardic performance as an immediate action by spending 2 rounds of bardic performance. She can even use this ability after an ally has failed a skill check. If the check would have been successful with the inspire competence bonus, the character attempting the check instead succeeds at that check. An argent dramaturge must have the inspire competence bardic performance to select this dramaturgical flourish.
+- **Reactive Performance**: The argent dramaturge can activate her countersong or distraction bardic performance as an immediate action (1 AP of your next turn). When she does so, she must expend 2 rounds of bardic performance rather than 1. An argent dramaturge must have the countersong and distraction bardic performances to select this dramaturgical flourish.
+- **Sudden Competence**: An argent dramaturge can activate her inspire competence bardic performance as an immediate action (1 AP of your next turn) by spending 2 rounds of bardic performance. She can even use this ability after an ally has failed a skill check. If the check would have been successful with the inspire competence bonus, the character attempting the check instead succeeds at that check. An argent dramaturge must have the inspire competence bardic performance to select this dramaturgical flourish.
 - **Ultimate Courage**: Allies who are affected by the argent dramaturge’s inspire courage bardic performance gain double the normal morale bonuses on saving throws against fear and charm effects. An argent dramaturge must have the inspire courage bardic performance to select this dramaturgical flourish.
 

@@ -15,6 +15,9 @@ Neither kind of extra damage is multiplied on a critical hit.
 
 **Example**: A greatsword attack that normally deals 2d6+10 deals either 6d6+10 (weapon dice) or 2d6+20 (static damage).
 
+??? tip apr "Action Points (optional rule)"
+    Vital Strike costs 2 AP for its single attack. It takes the [multiple attack penalty](../combat-variants/action-points.md#attacks) if it is not your first attack of the turn.
+
 ??? note "Original rule"
 
     *(Combat)*

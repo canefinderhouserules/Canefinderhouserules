@@ -45,7 +45,7 @@ The creature can choose one or more of the following abilities (extraordinary un
 - **Burrow (earth)**: A burrow speed equal to half its highest speed. Tunnels it creates always collapse behind it and never leave a usable passage.
 - **Earth Glide (earth)**: The earth glide ability of an earth elemental, usable for only 1 minute per HD (not necessarily consecutive, in 1-minute increments). The creature must have a burrow speed. Selecting this ability a second time allows its use at will.
 - **Flight (air)**: A fly speed equal to its highest speed with average maneuverability (maximum fly speed of 10 feet per HD).
-- **Improved Quickness (Su, fire)**: Three times per day as a swift action, the creature can take an extra move action. It must already have quickness.
+- **Improved Quickness (Su, fire)**: Three times per day as a swift action (1 AP), the creature can take an extra move action (1 AP). It must already have quickness.
 - **Puddle Form (Su, water)**: Once per day, the creature can turn into an animate puddle of water for up to 10 minutes. This functions as *gaseous form*, but the creature instead has both a base speed and swim speed of 10 feet.
 - **Quickness (fire)**: Base movement speed increases by 10 and a +1 bonus on initiative checks. For every 5 HD, speed increases by an additional 10 feet (maximum double its base speed) and the initiative bonus increases by 1 (maximum +5).
 - **Swim (water)**: A swim speed equal to its highest speed (maximum 100 feet). The creature also gains the amphibious and aquatic subtypes.
@@ -54,7 +54,7 @@ The creature can choose one or more of the following abilities (extraordinary un
 
 The creature can choose one or more of the following abilities.
 
-- **Breath Weapon (Su, any)**: A breath weapon (15-foot cone or 30-foot line) usable as a standard action once every minute. It deals 1d6 points of damage of one of its associated energy types (Reflex half, DC = 10 + 1/2 the creature's HD + its Constitution modifier). The damage increases by 1d6 for every 3 HD. If the creature has 10 or more HD, the breath weapon's size doubles.
+- **Breath Weapon (Su, any)**: A breath weapon (15-foot cone or 30-foot line) usable as a standard action (1 AP) once every minute. It deals 1d6 points of damage of one of its associated energy types (Reflex half, DC = 10 + 1/2 the creature's HD + its Constitution modifier). The damage increases by 1d6 for every 3 HD. If the creature has 10 or more HD, the breath weapon's size doubles.
 - **Burn (Ex, fire)**: The creature can set creatures it strikes on fire, as per the burn ability, but only with attacks augmented by its energy attacks ability.
 - **Energy Attacks (Ex, any)**: One of the creature's natural attacks deals an additional 1d6 points of its corresponding energy damage, selected when it gains this ability. The damage increases by 1d6 for every 10 HD. The creature can select this ability multiple times, applying it to two additional natural attacks each time.
 - **Gusting Strike (Ex, air)**: Once per round when the creature hits with a melee attack, it can attempt a bull rush against the target as a free action, without provoking an attack of opportunity.

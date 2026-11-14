@@ -92,7 +92,7 @@ There is a taint in your blood, one that is alien and bizarre. You tend to think
 
 **Bloodline Powers**: Aberrant sorcerers show increasing signs of their tainted heritage as they increase in level, although they are only visible when used.
 
-*Acidic Ray (Sp)*: Starting at 1st level, you can fire an acidic ray as a standard action, targeting any foe within 30 feet as a ranged touch attack. The acidic ray deals 1d6 points of acid damage + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Acidic Ray (Sp)*: Starting at 1st level, you can fire an acidic ray as a standard action (1 AP), targeting any foe within 30 feet as a ranged touch attack. The acidic ray deals 1d6 points of acid damage + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Long Limbs (Ex)*: At 3rd level, your reach increases by 5 feet whenever you are making a melee touch attack. This ability does not otherwise increase your threatened area. At 11th level, this bonus to your reach increases to 10 feet. At 17th level, this bonus to your reach increases to 15 feet.
 
@@ -190,7 +190,7 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 **Bloodline Powers**: Your celestial heritage grants you a great many powers, but they come at a price. The lords of the higher planes are watching you and your actions closely.
 
-*Heavenly Fire (Sp)*: Starting at 1st level, you can unleash a ray of heavenly fire as a standard action, targeting any foe within 30 feet as a ranged touch attack. Against evil creatures, this ray deals 1d4 points of damage + 1 for every two sorcerer levels you possess. This damage is divine and not subject to energy resistance or immunity. This ray heals good creatures of 1d4 points of damage + 1 for every two sorcerer levels you possess. A good creature cannot benefit from your heavenly fire more than once per day. Neutral creatures are neither harmed nor healed by this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Heavenly Fire (Sp)*: Starting at 1st level, you can unleash a ray of heavenly fire as a standard action (1 AP), targeting any foe within 30 feet as a ranged touch attack. Against evil creatures, this ray deals 1d4 points of damage + 1 for every two sorcerer levels you possess. This damage is divine and not subject to energy resistance or immunity. This ray heals good creatures of 1d4 points of damage + 1 for every two sorcerer levels you possess. A good creature cannot benefit from your heavenly fire more than once per day. Neutral creatures are neither harmed nor healed by this effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Celestial Resistances (Ex)*: At 3rd level, you gain resist acid 5 and resist cold 5. At 9th level, your resistances increase to 10.
 
@@ -214,7 +214,7 @@ Your family is destined for greatness in some way. Your birth could have been fo
 
 **Bloodline Powers**: You are destined for great things, and the powers that you gain serve to protect you.
 
-*Touch of Destiny* *(Sp)*: At 1st level, you can touch a creature as a standard action, giving it an insight bonus on attack rolls, skill checks, ability checks, and saving throws equal to 1/2 your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Touch of Destiny* *(Sp)*: At 1st level, you can touch a creature as a standard action (1 AP), giving it an insight bonus on attack rolls, skill checks, ability checks, and saving throws equal to 1/2 your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Fated* *(Su)*: Starting at 3rd level, you gain a +1 luck bonus on all of your saving throws and to your AC during surprise rounds and when you are otherwise unaware of an attack. At 7th level and every four levels thereafter, this bonus increases by +1, to a maximum of +5 at 19th level.
 
@@ -263,7 +263,7 @@ This bonus follows the rules for [Damage-Per-Die Bonuses](damage-per-die-bonuses
 
 *Breath Weapon (Su)*: At 9th level, you gain a breath weapon. This breath weapon deals 1d6 points of damage of your energy type per sorcerer level. Those caught in the area of the breath receive a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. The shape of the breath weapon depends on your dragon type (as indicated on the above chart). At 9th level, you can use this ability once per day. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day.
 
-*Wings* *(Su)*: At 15th level, leathery dragon wings grow from your back as a standard action, giving you a fly speed of 60 feet with average maneuverability. You can dismiss the wings as a free action.
+*Wings* *(Su)*: At 15th level, leathery dragon wings grow from your back as a standard action (1 AP), giving you a fly speed of 60 feet with average maneuverability. You can dismiss the wings as a free action.
 
 *Power of Wyrms* *(Su)*: At 20th level, your draconic heritage becomes manifest. You gain immunity to paralysis, sleep, and damage of your energy type. You also gain blindsense 60 feet.
 
@@ -316,7 +316,7 @@ The power of the elements resides in you, and at times you can hardly control it
 | Fire | Fire | +30 feet base speed |
 | Water | Cold | Swim 60 feet |
 
-*Elemental Ray* *(Sp)*: Starting at 1st level, you can unleash an elemental ray as a standard action, targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d6 points of damage of your energy type + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Elemental Ray* *(Sp)*: Starting at 1st level, you can unleash an elemental ray as a standard action (1 AP), targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d6 points of damage of your energy type + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Elemental Resistance* *(Ex)*: At 3rd level, you gain energy resistance 10 against your energy type. At 9th level, your energy resistance increases to 20.
 
@@ -340,7 +340,7 @@ The capricious nature of the fey runs in your family due to some intermingling o
 
 **Bloodline Powers**: You have always had a tie to the natural world, and as your power increases, so does the influence of the fey over your magic.
 
-*Laughing Touch* *(Sp)*: At 1st level, you can cause a creature to burst out laughing for 1 round as a melee touch attack. A laughing creature can only take a move action but can defend itself normally. Once a creature has been affected by laughing touch, it is immune to its effects for 24 hours. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting effect.
+*Laughing Touch* *(Sp)*: At 1st level, you can cause a creature to burst out laughing for 1 round as a melee touch attack. A laughing creature can only take a move action (1 AP) but can defend itself normally. Once a creature has been affected by laughing touch, it is immune to its effects for 24 hours. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This is a mind-affecting effect.
 
 *Woodland Stride* *(Ex)*: At 3rd level, you can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any other impairment. Thorns, briars, and overgrown areas that have been magically manipulated to impede motion, however, still affect you.
 
@@ -370,7 +370,7 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 *Hellfire (Sp)*: At 9th level, you can call down a column of hellfire. This 10-foot-radius burst does 1d6 points of fire damage per sorcerer level. Those caught in the area of your blast receive a Reflex save for half damage. Good creatures that fail their saves are shaken for a number of rounds equal to your sorcerer level. The DC of this save is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. At 9th level, you can use this ability once per day. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day. This power has a range of 60 feet.
 
-*On Dark Wings* *(Su)*: At 15th level, you can grow fearsome bat wings as a standard action, giving you a fly speed of 60 feet with average maneuverability. The wings can be dismissed as a free action.
+*On Dark Wings* *(Su)*: At 15th level, you can grow fearsome bat wings as a standard action (1 AP), giving you a fly speed of 60 feet with average maneuverability. The wings can be dismissed as a free action.
 
 *Power of the Pit* *(Su)*: At 20th level, your form becomes infused with vile power. You gain immunity to fire and poison. You also gain resistance to acid 10 and cold 10, and the ability to see perfectly in darkness of any kind to a range of 60 feet.
 
@@ -388,7 +388,7 @@ Possessed sorcerers channel their magic potential through a unique bond with a p
 
 **Bloodline Powers**: The mystical connection with your possessing spirit allows you to gain more control over your body and mind.
 
-**Aggressive Possession (Sp)**: At 1st level, you can make a melee touch attack as a standard action. The target must succeed at a Will save or be [confused](../../rules/appendices/conditions.md#confused) for 1 round. The save DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Aggressive Possession (Sp)**: At 1st level, you can make a melee touch attack as a standard action (1 AP). The target must succeed at a Will save or be [confused](../../rules/appendices/conditions.md#confused) for 1 round. The save DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Sight Unseen (Sp)**: At 3rd level, you gain darkvision with a range of up to 30 feet. If you already have darkvision, its range instead increases by 30 feet. At 9th level, you gain lifesense with a range of 30 feet (lifesense allows you to sense and locate living creatures as if you had the blindsight ability).
 
@@ -420,7 +420,7 @@ Psychic power runs thorough your blood, whether it be from a familial predisposi
 
 **Thoughtsense (Sp)**: At 15th level, you can detect the thoughts of others around you, as a constant thoughtsense* effect with a range of 30 feet instead of 60 feet.
 
-**True Thought-Form (Sp)**: At 20th level, you can shed the restrictions of the flesh and become a thought-form—a being that exists independently of its substance. Whenever a creature would kill you, you can attempt to use mind swap* against that creature as an immediate action just before dying.
+**True Thought-Form (Sp)**: At 20th level, you can shed the restrictions of the flesh and become a thought-form—a being that exists independently of its substance. Whenever a creature would kill you, you can attempt to use mind swap* against that creature as an immediate action (1 AP of your next turn) just before dying.
 
 ## Undead
 
@@ -436,7 +436,7 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Bloodline Powers**: You can call upon the foul powers of the afterlife. Unfortunately, the more you draw upon them, the closer you come to joining them.
 
-*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes [frightened](../../rules/appendices/conditions.md#frightened) (see [Conditions](../../rules/appendices/conditions.md)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action (1 AP) that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes [frightened](../../rules/appendices/conditions.md#frightened) (see [Conditions](../../rules/appendices/conditions.md)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Death’s Gift* *(Su)*: At 3rd level, you gain resist cold 5 and DR 5/— against nonlethal damage. At 9th level, your resistance to cold increases to 10 and your DR increases to 10/— against nonlethal damage.
 
@@ -484,11 +484,11 @@ Unicorns are among the most fabled creatures of the deep forests: deeply empathe
 
 **Bloodline Powers**: Your connection to the unicorns' blessing shapes you as you grow, empowering you with the forces of good and restoration.
 
-*Safekeeping (Su)*: At 1st level, you can touch a creature as a standard action, granting it a +2 insight bonus to AC for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Safekeeping (Su)*: At 1st level, you can touch a creature as a standard action (1 AP), granting it a +2 insight bonus to AC for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Pure of Mind (Su)*: At 3rd level, you gain a +2 bonus on saving throws against charm effects and a +4 bonus on saving throws against spells with the evil descriptor. At 9th level, your bonus on saving throws against charm effects increases to +4 and your bonus on saving throws against spells with the evil descriptor increases to +6.
 
-*Righteous Fury (Su)*: At 9th level, once per day you can create a spear of pure light and throw it at a creature within 60 feet as a standard action. This is a ranged touch attack that uses your Charisma modifier in place of your Dexterity modifier to determine the attack bonus. The spear deals 1d6 points of damage per sorcerer level and ignores all damage reduction and hardness. This damage increases to 1d8 points of damage per sorcerer level against an evil creature. At 13th level, you can use this ability twice per day. At 17th level, you can use this ability three times per day.
+*Righteous Fury (Su)*: At 9th level, once per day you can create a spear of pure light and throw it at a creature within 60 feet as a standard action (1 AP). This is a ranged touch attack that uses your Charisma modifier in place of your Dexterity modifier to determine the attack bonus. The spear deals 1d6 points of damage per sorcerer level and ignores all damage reduction and hardness. This damage increases to 1d8 points of damage per sorcerer level against an evil creature. At 13th level, you can use this ability twice per day. At 17th level, you can use this ability three times per day.
 
 *Friend to Nature (Su)*: At 15th level, creatures with the animal or magical beast type and a nonevil alignment instinctually trust you. Such creatures automatically have a starting attitude of indifferent or better toward you unless you or a creature allied with you has attacked or otherwise threatened violence against such a creature.
 
@@ -508,11 +508,11 @@ One of your ancestors bore witness to a phoenix's resurrection and formed a bond
 
 **Bloodline Powers**: The phoenix is an elemental creature of sky and primal fire, and its blood within you sings with a similar power.
 
-*The Unseen World (Su)*: At 1st level, you gain [*detect magic*](../../magic/spells/detect-magic.md) and [*read magic*](../../magic/spells/read-magic.md) as spells known. At 5th level, the phoenix's blood drives you to find and save lost knowledge and magical items. As a swift action, you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.
+*The Unseen World (Su)*: At 1st level, you gain [*detect magic*](../../magic/spells/detect-magic.md) and [*read magic*](../../magic/spells/read-magic.md) as spells known. At 5th level, the phoenix's blood drives you to find and save lost knowledge and magical items. As a swift action (1 AP), you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.
 
-*Immolation (Su)*: At 3rd level, you gain the ability to surround yourself in fire as a swift action. This fire burns for a number of rounds per day equal to your character level plus your Charisma bonus. These rounds do not have to be consecutive. Any unarmed attacks you make while affected by immolation deal an additional 1d6 points of fire damage, and any creature that ends its turn adjacent to you while you're affected by immolation also takes 1d6 points of fire damage.
+*Immolation (Su)*: At 3rd level, you gain the ability to surround yourself in fire as a swift action (1 AP). This fire burns for a number of rounds per day equal to your character level plus your Charisma bonus. These rounds do not have to be consecutive. Any unarmed attacks you make while affected by immolation deal an additional 1d6 points of fire damage, and any creature that ends its turn adjacent to you while you're affected by immolation also takes 1d6 points of fire damage.
 
-*Vermilion Wings (Su)*: At 9th level, you gain the ability to grow a pair of phoenix wings from your back as a standard action. The wings grant you a fly speed of 60 feet with good maneuverability. You can dismiss the wings as a free action.
+*Vermilion Wings (Su)*: At 9th level, you gain the ability to grow a pair of phoenix wings from your back as a standard action (1 AP). The wings grant you a fly speed of 60 feet with good maneuverability. You can dismiss the wings as a free action.
 
 *Restoring Flames (Sp)*: At 15th level, you can cast *greater restoration* once per day as a spell-like ability.
 
@@ -534,9 +534,9 @@ Just as knowledge of the fate deck has passed from generation to generation sinc
 
 *Twisted Fortune (Sp)*: At 1st level, you can use your supernatural insight to hijack the fortunes of a single target within 30 feet. For 1 round, the target becomes confused and cannot directly control its actions (Will negates). Once a creature has been affected by twisted fortune, it is immune to the ability's effects for 24 hours. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-*See It Coming (Su)*: At 3rd level, you gain a +1 luck bonus on the saving throw type of your choice (Fortitude, Reflex, or Will). As a full-round action, you can change which saving throw your luck bonus applies to. At 7th level and every 4 levels thereafter, this bonus increases by 1, to a maximum of +5 at 19th level.
+*See It Coming (Su)*: At 3rd level, you gain a +1 luck bonus on the saving throw type of your choice (Fortitude, Reflex, or Will). As a full-round action (3 AP), you can change which saving throw your luck bonus applies to. At 7th level and every 4 levels thereafter, this bonus increases by 1, to a maximum of +5 at 19th level.
 
-*Invoke the Deck (Su)*: At 9th level, you can draw a random card from a complete [fate deck](../../equipment/fate-deck.md) you own as a standard action and channel the aspects of the card into your body. You take on superficial traits featured on the card and gain a +4 enhancement bonus to the ability score associated with the card's suit. You can invoke the deck for a number of minutes per day equal to your sorcerer level; the duration need not be continuous, but it must be used in 1-minute increments.
+*Invoke the Deck (Su)*: At 9th level, you can draw a random card from a complete [fate deck](../../equipment/fate-deck.md) you own as a standard action (1 AP) and channel the aspects of the card into your body. You take on superficial traits featured on the card and gain a +4 enhancement bonus to the ability score associated with the card's suit. You can invoke the deck for a number of minutes per day equal to your sorcerer level; the duration need not be continuous, but it must be used in 1-minute increments.
 
 *Deck Realm (Sp)*: At 15th level, your otherworldly connection is so strong that your subconscious cleaves off a small portion of the realm of the cards for use as your own private sanctuary. Your deck realm is created the first time you use this ability, and is decorated as a garish reflection of your personality. Thereafter, you always visit this same home. You can place a portal to your deck realm once every 24 hours, but placing a new portal destroys the previous one, and you cannot move the entrance while you are inside. As long as you are not in your deck realm, time ceases to pass for anything and anyone still in your pocket dimension; creatures cannot move, objects do not decay, and everything remains exactly the same as you left it the last time you visited the plane. Time continues as normal whenever you are inside your deck realm. This ability is otherwise identical to [*mage's magnificent mansion*](../../magic/spells/mages-magnificent-mansion.md).
 

@@ -21,11 +21,11 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 
 **Aquatic Focus.** Must choose water as primary element and both expanded elements, and water blast as first simple blast. *Alters expanded element.*
 
-**Basic Aquakinesis (Sp).** As basic hydrokinesis (mild currents), and as a standard action she can set her buoyancy to any level, lasting until she uses it again. *Replaces basic hydrokinesis, alters elemental focus.*
+**Basic Aquakinesis (Sp).** As basic hydrokinesis (mild currents), and as a standard action (1 AP) she can set her buoyancy to any level, lasting until she uses it again. *Replaces basic hydrokinesis, alters elemental focus.*
 
 **Call of the Deep.** At 2nd level gains *waterdancer* as a bonus utility talent. At 6th level gains *watersense*, and while waterdancer is active can ignore currents up to 60 feet. *Replaces the 2nd- and 6th-level utility talents.*
 
-**Ocean's Caress (Su).** At 2nd level she breathes underwater and gains *cold adaptation* as a bonus utility talent, adding half her kineticist level to its cold resistance. Accepting 1 burn adds 3 more cold resistance; at 40 or higher she gains cold immunity. This resistance and immunity also apply to pressure damage, and she adjusts to a new pressure all at once after five Fortitude saves. Whenever she accepts burn using a water talent, her cold resistance doubles for 1 round. She can dismiss or restore the effect as an immediate action. *Replaces the defense talent from elemental defense.*
+**Ocean's Caress (Su).** At 2nd level she breathes underwater and gains *cold adaptation* as a bonus utility talent, adding half her kineticist level to its cold resistance. Accepting 1 burn adds 3 more cold resistance; at 40 or higher she gains cold immunity. This resistance and immunity also apply to pressure damage, and she adjusts to a new pressure all at once after five Fortitude saves. Whenever she accepts burn using a water talent, her cold resistance doubles for 1 round. She can dismiss or restore the effect as an immediate action (1 AP of your next turn). *Replaces the defense talent from elemental defense.*
 
 **Ice Propagation (Su).** At 7th level, her cold blast underwater (which freezes water and deals half piercing damage) can be a physical blast to which she can apply any form or substance infusion usable with ice composite blasts; it still deals damage as a simple physical blast. *Alters cold simple blast.*
 
@@ -42,7 +42,7 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 - **3rd:** a swim speed equal to unmodified base land speed (a racial swim speed instead increases by 10 feet), and neutral buoyancy once per turn as a free action.
 - **7th:** may choose any of the five buoyancy states once per turn as a free action, taking his buoyancy movement as part of it without becoming off-balance or needing a Swim check; may double or halve how far a current moves him.
 - **11th:** when he moves, double moves, withdraws or runs underwater, he can leave a current (speed 10 feet in his movement direction) in the squares along his path, lasting until his next turn.
-- **15th:** as a full-round action he spins to create a whirlpool, dragging all creatures within 120 feet 30 feet closer (creatures within 30 feet circle around him in a direction of his choice). It deals no damage, he is unaffected, and he can make attacks of opportunity against creatures moving in it.
+- **15th:** as a full-round action (3 AP) he spins to create a whirlpool, dragging all creatures within 120 feet 30 feet closer (creatures within 30 feet circle around him in a direction of his choice). It deals no damage, he is unaffected, and he can make attacks of opportunity against creatures moving in it.
 - **19th:** DR 5/— while underwater.
 
 **Underwater Training.** At 5th level choose bludgeoning, slashing or piercing melee weapons. Piercing: +1 on attack and damage rolls with them underwater. Bludgeoning or slashing: ignore the usual underwater penalties. At 9th and 13th level he chooses another type (and gains +1 attack and damage with the earlier types); at 17th level +1 more with all three. *Replaces weapon training.*
@@ -57,7 +57,7 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 - **Aquatic Adaptation (Ex, 4th):** swim speed 30 feet and breathe water and air. 8th: cold resistance 5. 12th: swim speed 60 feet, and the 4th-level benefits are constant, even outside bloodrage.
 - **Watersense (Ex, 8th):** tremorsense 30 feet in water; 60 feet at 12th.
 - **Wavedarter (Sp, Su, 12th):** while underwater, reach +5 feet and the effects of *haste*.
-- **Currentcaller (Su, 16th):** three times per day underwater, as a swift action at the start of your turn, call up a current (speed up to 20 feet, direction of your choice) in your space, moving with you until the end of your turn.
+- **Currentcaller (Su, 16th):** three times per day underwater, as a swift action (1 AP) at the start of your turn, call up a current (speed up to 20 feet, direction of your choice) in your space, moving with you until the end of your turn.
 - **Deep Fury (Su, 20th):** tremorsense 120 feet in water, evasion, and immunity to cold and pressure damage, constantly.
 
 ### Deep Shaman (Shaman Archetype)
@@ -66,7 +66,7 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 
 **Aquatic Hexes (Su).** Beckoning chill on a creature in water makes it fatigued from hypothermia for the duration, and entangled if it takes damage from her spirit abilities or from water-descriptor spells. Her spirit abilities that deal damage count as water-descriptor spells for *crashing waves*. Instead of *mist's shroud* and *watersight*, she can select:
 
-- **Buoyancy Control (Sp).** Touch a willing creature to change its buoyancy to any of the five states for 1 minute (once per 24 hours per creature). She has neutral buoyancy regardless, and can end or resume this as a standard action.
+- **Buoyancy Control (Sp).** Touch a willing creature to change its buoyancy to any of the five states for 1 minute (once per 24 hours per creature). She has neutral buoyancy regardless, and can end or resume this as a standard action (1 AP).
 - **Deep Heart (Su).** Breathe underwater and swim speed equal to base land speed. At 8th level she takes half pressure damage and adjusts to a new pressure all at once after five saves.
 
 **Aquatic Spirit Abilities (Su).** Underwater, *wave strike* deals lethal bludgeoning damage and pushes the target 5 feet + 5 feet per 6 levels. At 11th level, underwater all weapons she holds have *impact* instead of *quenching*. Instead of a swim speed and water breathing, *fluid mastery* grants tremorsense 30 feet in water, and underwater its torrent deals 1d6 per shaman level in a 30-foot cone.
@@ -171,9 +171,9 @@ When gaining a combat style feat, the ranger may choose Aquadynamic Focus, Aquad
 
 **Air tank.** A large air tank is excellent for achieving swiftly rising buoyancy, and can be adjusted to give neutral buoyancy. Every 6 gallons of air lasts roughly 1 minute underwater.
 
-**Air tank, pressurized.** A pressurized tank stores enough air to breathe for 1 hour (the air weighs 7 pounds; an empty tank weighs 23). A small crank releases a breath as a standard action, breathed through a tube with a semipermeable end that lets air out but not water in. Refilling takes 5 gp of materials and a DC 20 Craft (alchemy) check (failure destroys the tank) or a kineticist with basic aerokinesis.
+**Air tank, pressurized.** A pressurized tank stores enough air to breathe for 1 hour (the air weighs 7 pounds; an empty tank weighs 23). A small crank releases a breath as a standard action (1 AP), breathed through a tube with a semipermeable end that lets air out but not water in. Refilling takes 5 gp of materials and a DC 20 Craft (alchemy) check (failure destroys the tank) or a kineticist with basic aerokinesis.
 
-**Bottom-walker's anchor.** A dense anchor on a detachable chain (removal is a move action) that all but guarantees swiftly sinking buoyancy. It increases the armor check penalty by 1 and lowers the maximum Dexterity bonus by 1 (or sets it at +6 if there was none).
+**Bottom-walker's anchor.** A dense anchor on a detachable chain (removal is a move action (1 AP)) that all but guarantees swiftly sinking buoyancy. It increases the armor check penalty by 1 and lowers the maximum Dexterity bonus by 1 (or sets it at +6 if there was none).
 
 **Hippocampus.** Roughly as easy to train as horses. Even combat-trained ones rarely wear barding heavier than leather, which interferes with swimming.
 
@@ -183,11 +183,11 @@ When gaining a combat style feat, the ranger may choose Aquadynamic Focus, Aquad
 
 **Poison sealant.** Applied poison washes off underwater in 1d10 rounds unless inside the weapon. Applying the sealant takes the same effort as applying a poison; it keeps the weapon poisoned underwater. It dissolves in blood, so it doesn't prevent accidental poisoning.
 
-**Pressure pill.** Swallowed as a full-round action, it instantly adjusts you to the surrounding pressure, but you take 3 nonlethal damage per 100 feet of adjustment.
+**Pressure pill.** Swallowed as a full-round action (3 AP), it instantly adjusts you to the surrounding pressure, but you take 3 nonlethal damage per 100 feet of adjustment.
 
 **Scent salts.** Dissolve slowly, scenting the nearby water for about 1 hour.
 
-**Sureseal bladder.** A thin membrane that lets you fill and drink liquids underwater without seawater entering. The mundane bladder holds about 2 cups. The potion bladder is pressurized to expel an entire potion, drunk as a standard action like any potion. Each can be used only once.
+**Sureseal bladder.** A thin membrane that lets you fill and drink liquids underwater without seawater entering. The mundane bladder holds about 2 cups. The potion bladder is pressurized to expel an entire potion, drunk as a standard action (1 AP) like any potion. Each can be used only once.
 
 **Underwater goggles.** Protect a land-dweller's eyes; the wearer can use visual Perception like an aquatic native.
 
@@ -219,7 +219,7 @@ See also *buoyancy* as an emergency spell granting several targets swiftly risin
 ### Aquatic Trail
 
 **School** divination [water]; **Level** druid 3, inquisitor 3, ranger 2, shaman 3  
-**Casting Time** 1 standard action; **Components** V, S  
+**Casting Time** 1 standard action (1 AP); **Components** V, S  
 **Range** medium; **Area** circle centered on you, radius 100 ft. + 10 ft./level; **Duration** 1 hour/level  
 **Saving Throw** none; **Spell Resistance** no
 
@@ -228,7 +228,7 @@ You track creatures through the water as if across soft ground as long as they p
 ### Extreme Buoyancy
 
 **School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a bag of air), DF  
 **Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -237,7 +237,7 @@ The target's buoyancy becomes and stays swiftly rising regardless of how dense i
 ### Free Swim
 
 **School** abjuration; **Level** alchemist 3, bard 3, cleric 3, druid 3, inquisitor 3, medium 3, mesmerist 3, occultist 3, psychic 3, ranger 3, spiritualist 3  
-**Casting Time** 1 standard action; **Components** V, S, M (a strip of kelp bound to the target), DF  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a strip of kelp bound to the target), DF  
 **Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -246,7 +246,7 @@ The target moves and attacks underwater normally without the usual penalties, as
 ### Invisibility Bubble
 
 **School** illusion (glamer); **Level** alchemist 2, antipaladin 2, bard 2, inquisitor 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner (unchained) 2  
-**Casting Time** 1 standard action; **Components** V, S, M (a needle from a sea urchin)  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a needle from a sea urchin)  
 **Range** touch; **Area** touched creature's space, up to one 5-foot cube; **Duration** 1 minute/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -259,7 +259,7 @@ A glamered bubble surrounds the target's space, making her completely invisible 
 ### Lead Anchor
 
 **School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2, witch 2  
-**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a bag of air), DF  
 **Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -268,7 +268,7 @@ The target's buoyancy becomes and stays swiftly sinking regardless of density. I
 ### Life Current
 
 **School** conjuration (healing) [water]; **Level** cleric 3, druid 3, paladin 3, ranger 3, shaman 3  
-**Casting Time** 1 standard action; **Components** V, S, DF  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, DF  
 **Range** medium; **Area** current or portion of current up to 20 feet wide and 100 feet long; **Duration** 1 round  
 **Saving Throw** Will half; **Spell Resistance** yes
 
@@ -277,7 +277,7 @@ You infuse the current with positive energy. At the start of their turn when the
 ### Neutral Buoyancy
 
 **School** evocation; **Level** alchemist 2, bard 2, druid 2, medium 2, occultist 2, psychic 2, ranger 2, shaman 2  
-**Casting Time** 1 standard action; **Components** V, S, M (a bag of air), DF  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a bag of air), DF  
 **Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -286,7 +286,7 @@ The target's buoyancy becomes and stays neutral regardless of density.
 ### Pressure Adaptation
 
 **School** abjuration; **Level** alchemist 3, bloodrager 3, cleric 3, druid 3, paladin 3, psychic 3, ranger 3, shaman 3, summoner (unchained) 3  
-**Casting Time** 1 standard action; **Components** V, S, M (slime from a cephalopod)  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (slime from a cephalopod)  
 **Range** touch; **Target** creature touched; **Duration** 1 hour/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -295,7 +295,7 @@ The target adjusts to 100 feet of new pressure (or the entire shift, for an inst
 ### Stabilize Pressure
 
 **School** abjuration; **Level** alchemist 2, bloodrager 2, cleric 2, druid 2, paladin 2, psychic 2, ranger 2, shaman 2, summoner (unchained) 2  
-**Casting Time** 1 standard action; **Components** V, S, M (a piece of shell)  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a piece of shell)  
 **Range** touch; **Target** creature touched; **Duration** instantaneous  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -304,10 +304,10 @@ The target instantly adjusts to its current pressure all at once. This doesn't h
 ### Steam Ray Fusillade
 
 **School** evocation [fire, water]; **Level** sorcerer/wizard 7  
-**Casting Time** 1 standard action; **Components** V, S, M (a scraping from a hydrothermal vent)  
+**Casting Time** 1 standard action (1 AP); **Components** V, S, M (a scraping from a hydrothermal vent)  
 **Range** personal; **Target** you; **Duration** 1 round/level
 
-For the duration you can fire three rays of steam once per round as a standard action (and three as part of casting). They function like *scorching ray* (close range, ranged touch attacks, 4d6 fire damage each, spell resistance applies), but work underwater and above water without a caster level check for being a fire spell.
+For the duration you can fire three rays of steam once per round as a standard action (1 AP) (and three as part of casting). They function like *scorching ray* (close range, ranged touch attacks, 4d6 fire damage each, spell resistance applies), but work underwater and above water without a caster level check for being a fire spell.
 
 ### Unlife Current
 
@@ -318,7 +318,7 @@ As *life current*, but with negative energy: it heals undead and harms living cr
 ### Wave Form
 
 **School** transmutation [water]; **Level** bloodrager 4, cleric 4, druid 4, shaman 4, sorcerer/wizard 4  
-**Casting Time** 1 standard action; **Components** V, S  
+**Casting Time** 1 standard action (1 AP); **Components** V, S  
 **Range** personal; **Duration** instantaneous; **Saving Throw** see text
 
 You become a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and surge in a straight line up to twice your base speed before returning to normal form. This movement doesn't provoke attacks of opportunity. While in wave form you are immune to weapon attacks and attacks that target a specific number of creatures. All creatures and unattended objects in your path take 4d6 bludgeoning damage and are knocked prone; a successful Reflex save prevents being knocked prone.

@@ -84,7 +84,7 @@ Wondrous items is a catchall category for anything that doesn’t fall into the 
 **Aura** faint conjuration; **CL** 1st  
 **Slot** chest; **Price** 1,800 gp; **Weight** 5 lbs.
 
-The stitching along the many pockets of this light leather vest depicts cheerful laborers going about their daily work. Once per day, as a standard action, the wearer can speak its command word and order it to bring forth all the standard tools required to make checks for any one Craft skill. These tools appear in the countless pockets of the vest or, if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox or cupboard that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them, whichever comes first.
+The stitching along the many pockets of this light leather vest depicts cheerful laborers going about their daily work. Once per day, as a standard action (1 AP), the wearer can speak its command word and order it to bring forth all the standard tools required to make checks for any one Craft skill. These tools appear in the countless pockets of the vest or, if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox or cupboard that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them, whichever comes first.
 
 **Requirements** Craft Wondrous Item, summon instrument; **Cost** 900 gp
 
@@ -129,7 +129,7 @@ This beautiful, ripe red apple appears fresh and tempting. Should anyone bite in
 **Aura** faint transmutation; **CL** 1st  
 **Slot** hands; **Price** 180 gp; **Weight** 1 lb.
 
-The wearer of this simple glove can speak a command word to transform it into a glowing disembodied hand. As a swift action, the wearer can have the glove assist him with a task as if using the aid another action; the glove uses the wearer’s base attack bonus or skill ranks when making the check to see if aid another is successful (it does not gain the benefit of the wearer’s ability scores or other bonuses). The hand remains until it has attempted one action or until 1 minute passes, whichever comes first, at which time it becomes a nonmagical lambskin glove.
+The wearer of this simple glove can speak a command word to transform it into a glowing disembodied hand. As a swift action (1 AP), the wearer can have the glove assist him with a task as if using the aid another action; the glove uses the wearer’s base attack bonus or skill ranks when making the check to see if aid another is successful (it does not gain the benefit of the wearer’s ability scores or other bonuses). The hand remains until it has attempted one action or until 1 minute passes, whichever comes first, at which time it becomes a nonmagical lambskin glove.
 
 **Requirements** Craft Wondrous Item, mage hand, unseen servant; **Cost** 90 gp
 
@@ -192,7 +192,7 @@ This tiny glass bead transforms itself into a small (2-foot-tall) pile of burnin
 **Aura** faint abjuration; **CL** 1st  
 **Slot** shoulders; **Price** 200 gp; **Weight** 3 lbs.
 
-This silvery cape furls and ripples like a flag with every step its owner takes. The wearer can, as a swift action, order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer a concealment (20% miss chance) against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field ends, all magic is lost from the cloak, leaving only a mundane silvery garment.
+This silvery cape furls and ripples like a flag with every step its owner takes. The wearer can, as a swift action (1 AP), order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer a concealment (20% miss chance) against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field ends, all magic is lost from the cloak, leaving only a mundane silvery garment.
 
 **Requirements** Craft Wondrous Item, shield; **Cost** 100 gp
 
@@ -273,7 +273,7 @@ This solid red brick changes its shape to match its bearer’s holy symbol. If t
 **Aura** faint abjuration; **CL** 1st  
 **Slot** shoulders; **Price** 1,800 gp; **Weight** 4 lbs.
 
-This nondescript gray cloak has a hood that can fit over the wearer’s entire face. The wearer can, as a move action, cover his face and drop to a huddling crouch. Any creature seeking to directly attack him while he does this must make a DC 11 Will save to do so (as the sanctuary spell). The wearer cannot see or take any actions while crouching. This makes him effectively blind, with all the normal penalties, but not helpless. The wearer can end his crouch simply by standing up or moving.
+This nondescript gray cloak has a hood that can fit over the wearer’s entire face. The wearer can, as a move action (1 AP), cover his face and drop to a huddling crouch. Any creature seeking to directly attack him while he does this must make a DC 11 Will save to do so (as the sanctuary spell). The wearer cannot see or take any actions while crouching. This makes him effectively blind, with all the normal penalties, but not helpless. The wearer can end his crouch simply by standing up or moving.
 
 **Requirements** Craft Wondrous Item, sanctuary; **Cost** 900 gp
 
@@ -282,7 +282,7 @@ This nondescript gray cloak has a hood that can fit over the wearer’s entire f
 **Aura** moderate conjuration (healing); **CL** 10th  
 **Slot** neck; **Price** 12,000 gp; **Weight** 1 lb.
 
-A simple cotton cord holds this glittering prism in place. A person with the lay on hands class feature can direct one use of this energy into the crystal, which stores it until the wearer speaks a command word to release it. Releasing the energy targets the wearer with the stored lay on hands effect, as if touched by the person who infused the crystal with its power. The crystal can contain a single use of the lay on hands class feature. When filled with this magic, it begins to glow with a pearly white light. The wearer of the crystal can order it to release its energy as a standard action. This acts identically to receiving the lay on hands directly from the person who channeled it into the crystal, including any mercies they had at the time.
+A simple cotton cord holds this glittering prism in place. A person with the lay on hands class feature can direct one use of this energy into the crystal, which stores it until the wearer speaks a command word to release it. Releasing the energy targets the wearer with the stored lay on hands effect, as if touched by the person who infused the crystal with its power. The crystal can contain a single use of the lay on hands class feature. When filled with this magic, it begins to glow with a pearly white light. The wearer of the crystal can order it to release its energy as a standard action (1 AP). This acts identically to receiving the lay on hands directly from the person who channeled it into the crystal, including any mercies they had at the time.
 
 **Requirements** Craft Wondrous Item, cure light wounds, creator must be a paladin; **Cost** 6,000 gp
 
@@ -345,7 +345,7 @@ These sinuous gloves are a lesser version of the [gloves of dueling](#gloves-of-
 **Aura** faint universal; **CL** 1st  
 **Slot** hands; **Price** 2,000 gp; **Weight** —
 
-The wearer of this slender white leather glove may, as a standard action, press it against any surface or object and cause a luminous handprint to appear. This print glows with any color the wearer wishes, sheds light as a candle, and is easily visible from a distance of up to 60 feet. These handprints last for 1 day before fading away. The glowing handprint matches the wearer’s hand in terms of size, position of fingers, and so on. Crystal of Healing Hands Annihilation Spectacles Flying Ointment Manacles of Cooperation Helm of Fearsome Mien
+The wearer of this slender white leather glove may, as a standard action (1 AP), press it against any surface or object and cause a luminous handprint to appear. This print glows with any color the wearer wishes, sheds light as a candle, and is easily visible from a distance of up to 60 feet. These handprints last for 1 day before fading away. The glowing handprint matches the wearer’s hand in terms of size, position of fingers, and so on. Crystal of Healing Hands Annihilation Spectacles Flying Ointment Manacles of Cooperation Helm of Fearsome Mien
 
 **Requirements** Craft Wondrous Item, arcane mark; **Cost** 1,000 gp
 
@@ -372,7 +372,7 @@ This metal helm is made to look like the wearer has horns, tusks, and other feat
 **Aura** faint enchantment; **CL** 3rd  
 **Slot** none; **Price** 20,000 gp; **Weight** 4 lbs.
 
-Carved from the bone of some giant beast, this large horn emits an eerie, heart-lurching moan when sounded. A person with the favored enemy class feature may blow the horn as a standard action to daze one type of favored enemy within 90 feet for 1d4 rounds (DC 13 Will save negates). Creatures suffer a penalty on this save equal to the ranger’s favored enemy bonus against that type of creature. This is a sonic, mind-affecting effect; creatures that cannot hear the horn are immune to its magic. The horn’s magic works once per day.
+Carved from the bone of some giant beast, this large horn emits an eerie, heart-lurching moan when sounded. A person with the favored enemy class feature may blow the horn as a standard action (1 AP) to daze one type of favored enemy within 90 feet for 1d4 rounds (DC 13 Will save negates). Creatures suffer a penalty on this save equal to the ranger’s favored enemy bonus against that type of creature. This is a sonic, mind-affecting effect; creatures that cannot hear the horn are immune to its magic. The horn’s magic works once per day.
 
 **Requirements** Craft Wondrous Item, daze monster; **Cost** 10,000 gp
 
@@ -381,7 +381,7 @@ Carved from the bone of some giant beast, this large horn emits an eerie, heart-
 **Aura** moderate enchantment; **CL** 11th  
 **Slot** none; **Price** 5,000 gp; **Weight** 5 lbs.
 
-This elongated horn curves sharply at the end, almost making it seem more like an enormous pipe than a tool for the hunt. Once each day, a person with the hunter’s bond (companions) class feature may blow the horn as a standard action; this grants his full favored enemy bonus (instead of half) against a single target to all allies within 30 feet who can see and hear him. The effect lasts for 1 minute.
+This elongated horn curves sharply at the end, almost making it seem more like an enormous pipe than a tool for the hunt. Once each day, a person with the hunter’s bond (companions) class feature may blow the horn as a standard action (1 AP); this grants his full favored enemy bonus (instead of half) against a single target to all allies within 30 feet who can see and hear him. The effect lasts for 1 minute.
 
 **Requirements** Craft Wondrous Item, greater heroism; **Cost** 2,500 gp
 
@@ -613,6 +613,6 @@ This padded and slightly bulky vest, made from dyed, red- brown cloth, causes it
 **Aura** faint necromancy; **CL** 1st  
 **Slot** none; **Price** 100 gp; **Weight** —
 
-This thimble-sized clay container of thick, moist face paint has enough material to paint streaks and whorls of any color on one creature’s face. Once applied, the wearer can, as a swift action, make the paint rearrange itself into a ghastly mélange of colors, making his appearance momentarily disturbing and hideous. The wearer chooses one creature who can see his painted face within 30 feet to be affected by cause fear (DC 11). Once the paint is used in this fashion, it loses all magic and becomes normal face paint. Once applied, the wearer has 24 hours to use the paint’s magic; otherwise it fades away.
+This thimble-sized clay container of thick, moist face paint has enough material to paint streaks and whorls of any color on one creature’s face. Once applied, the wearer can, as a swift action (1 AP), make the paint rearrange itself into a ghastly mélange of colors, making his appearance momentarily disturbing and hideous. The wearer chooses one creature who can see his painted face within 30 feet to be affected by cause fear (DC 11). Once the paint is used in this fashion, it loses all magic and becomes normal face paint. Once applied, the wearer has 24 hours to use the paint’s magic; otherwise it fades away.
 
 **Requirements** Craft Wondrous Item, cause fear; **Cost** 50 gp

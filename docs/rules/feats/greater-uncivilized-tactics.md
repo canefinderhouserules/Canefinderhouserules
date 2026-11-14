@@ -6,6 +6,6 @@ Your foes find it difficult to recover from your rough-and-tumble combat style a
 
 **Prerequisites**: Str 13, [Improved Uncivilized Tactics](improved-uncivilized-tactics.md), [Power Attack](power-attack.md), [Uncivilized Tactics](uncivilized-tactics.md).
 
-**Benefit**: You gain a +2 bonus on checks to use [Uncivilized Tactics](uncivilized-tactics.md). This bonus stacks with the bonus granted by [Improved Uncivilized Tactics](improved-uncivilized-tactics.md). Additionally, a foe must take a full-round action to recover the use of a limb or natural attack you've incapacitated with Uncivilized Tactics.
+**Benefit**: You gain a +2 bonus on checks to use [Uncivilized Tactics](uncivilized-tactics.md). This bonus stacks with the bonus granted by [Improved Uncivilized Tactics](improved-uncivilized-tactics.md). Additionally, a foe must take a full-round action (3 AP) to recover the use of a limb or natural attack you've incapacitated with Uncivilized Tactics.
 
-**Normal**: As a standard action, a foe can regain the use of a limb or natural attack incapacitated with Uncivilized Tactics.
+**Normal**: As a standard action (1 AP), a foe can regain the use of a limb or natural attack incapacitated with Uncivilized Tactics.

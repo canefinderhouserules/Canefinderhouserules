@@ -25,7 +25,7 @@ If people are observing you using any of their senses (but typically sight), you
 | Decipher a scroll | 20 + spell level |
 | Craft a magic item | Varies by item |
 
-**Action**: Usually none. Normally, you make a Stealth check as part of movement, so it doesn’t take a separate action. However, using Stealth immediately after a ranged attack (see Sniping, above) is a move action.
+**Action**: Usually none. Normally, you make a Stealth check as part of movement, so it doesn’t take a separate action. However, using Stealth immediately after a ranged attack (see Sniping, above) is a move action (1 AP).
 
 **Special**: If you are invisible, you gain a +40 bonus on Stealth checks if you are immobile, or a +20 bonus on Stealth checks if you’re moving.
 

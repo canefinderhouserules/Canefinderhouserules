@@ -119,7 +119,7 @@ A vigilante with this talent gains an additional social identity in the form of 
 
 #### Immediate Change (Ex)
 
-The vigilante can change identities as a move action, and he no longer needs to spend extra time to adjust his appearance and persona. A vigilante must be at least 13th level and must have the quick change social talent to select this talent.
+The vigilante can change identities as a move action (1 AP), and he no longer needs to spend extra time to adjust his appearance and persona. A vigilante must be at least 13th level and must have the quick change social talent to select this talent.
 
 #### In Vogue (Ex)
 
@@ -159,7 +159,7 @@ The vigilante is relatively unknown socially. In fact, he makes a point of keepi
 
 #### Quick Change (Ex)
 
-The vigilante learns to shift between his identities with ease. Instead of needing 1 minute to change his identity, he can now do so as a full-round action. If, after a quick change, he encounters any creature familiar with both of his identities, he must attempt a Disguise check to avoid the creature seeing through his hastily donned disguise and realizing that the identities are, in fact, the same person. The vigilante can spend 1 additional round adjusting and perfecting his appearance and persona to negate the need for this check. A vigilante must be at least 7th level to select this talent.
+The vigilante learns to shift between his identities with ease. Instead of needing 1 minute to change his identity, he can now do so as a full-round action (3 AP). If, after a quick change, he encounters any creature familiar with both of his identities, he must attempt a Disguise check to avoid the creature seeing through his hastily donned disguise and realizing that the identities are, in fact, the same person. The vigilante can spend 1 additional round adjusting and perfecting his appearance and persona to negate the need for this check. A vigilante must be at least 7th level to select this talent.
 
 #### Renown (Ex)
 
@@ -189,7 +189,7 @@ The vigilante’s disparate identities allow him to defeat magic that detects li
 
 #### Transformation Sequence (Su)
 
-The vigilante's transformation between identities is assisted by magic. This makes it faster than usual, but also more noticeable. The vigilante can complete the switch between his identities in 5 rounds, improving to a standard action if he has the quick change social talent, and to a swift action if he has the immediate change social talent. However, the transformation causes quite a spectacle, involving loud sounds or music, brilliant colorful energies, and swift motions. A vigilante can select this talent only if he is able to cast spells or spell-like abilities (this needn't be from his vigilante class). A vigilante with the magical child archetype effectively gets this social talent for free at 1st level.
+The vigilante's transformation between identities is assisted by magic. This makes it faster than usual, but also more noticeable. The vigilante can complete the switch between his identities in 5 rounds, improving to a standard action (1 AP) if he has the quick change social talent, and to a swift action (1 AP) if he has the immediate change social talent. However, the transformation causes quite a spectacle, involving loud sounds or music, brilliant colorful energies, and swift motions. A vigilante can select this talent only if he is able to cast spells or spell-like abilities (this needn't be from his vigilante class). A vigilante with the magical child archetype effectively gets this social talent for free at 1st level.
 
 #### Triumphant Return (Ex)
 
@@ -249,19 +249,19 @@ The vigilante gains any one combat feat as a bonus feat. He must meet the prereq
 
 #### Concealed Strike (Ex)
 
-Whenever the vigilante attacks an opponent with a concealed weapon that his target wasn’t aware of, he can attempt a Bluff check to feint that opponent as a move action. If he has the [Improved Feint](../../rules/feats/improved-feint.md) feat, he attempts this check as a free action instead. A vigilante must be at least 6th level to select this talent.
+Whenever the vigilante attacks an opponent with a concealed weapon that his target wasn’t aware of, he can attempt a Bluff check to feint that opponent as a move action (1 AP). If he has the [Improved Feint](../../rules/feats/improved-feint.md) feat, he attempts this check as a free action instead. A vigilante must be at least 6th level to select this talent.
 
 #### Cunning Feint (Ex)
 
-The vigilante can feint as a move action or in place of his first attack during a full attack. At 8th level, when the vigilante successfully feints, the opponent is denied its Dexterity bonus to AC against all attacks until the vigilante’s next turn.
+The vigilante can feint as a move action (1 AP) or in place of his first attack during a full attack. At 8th level, when the vigilante successfully feints, the opponent is denied its Dexterity bonus to AC against all attacks until the vigilante’s next turn.
 
 #### Deceitful Trick (Ex)
 
-The vigilante can perform a dirty trick combat maneuver in place of his first attack during a full attack. He can take a –4 penalty on his check in order to inflict two different conditions on his foe if he succeeds at his check. If the vigilante is successful, the target can remove both conditions as a standard action. A vigilante must have [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) and [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) in order to select this vigilante talent.
+The vigilante can perform a dirty trick combat maneuver in place of his first attack during a full attack. He can take a –4 penalty on his check in order to inflict two different conditions on his foe if he succeeds at his check. If the vigilante is successful, the target can remove both conditions as a standard action (1 AP). A vigilante must have [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) and [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) in order to select this vigilante talent.
 
 #### Environment Weapon (Ex)
 
-When the vigilante gains this talent, he must select one type of terrain from the ranger’s list of favored terrains. While in this terrain, as a swift action the vigilante can find an improvised weapon if there are any loose or moveable objects around (subject to the GM’s discretion). He doesn’t take a penalty for using these improvised weapons. For example, if the vigilante selected the urban environment, he might attack a foe with a chair, an empty bottle, or even a door. At 5th, 10th, 15th, and 20th levels, the vigilante can select an additional type of terrain.
+When the vigilante gains this talent, he must select one type of terrain from the ranger’s list of favored terrains. While in this terrain, as a swift action (1 AP) the vigilante can find an improvised weapon if there are any loose or moveable objects around (subject to the GM’s discretion). He doesn’t take a penalty for using these improvised weapons. For example, if the vigilante selected the urban environment, he might attack a foe with a chair, an empty bottle, or even a door. At 5th, 10th, 15th, and 20th levels, the vigilante can select an additional type of terrain.
 
 #### Evasive (Ex)
 
@@ -309,7 +309,7 @@ The vigilante combines strength and speed into incredibly deadly attacks. He gai
 
 #### Living Shield (Ex)
 
-As an immediate action whenever the vigilante is grappling a creature and is targeted by an attack, he can attempt a combat maneuver check against the target of his grapple (this combat maneuver check doesn’t count as a grapple combat maneuver check). If he succeeds, the creature he is grappling becomes the new target of the attack. If the check fails, the creature escapes the grapple and the vigilante is the target of the attack as normal. This ability must be used after the attack is declared against the vigilante, but before the attack is made and the results revealed.
+As an immediate action (1 AP of your next turn) whenever the vigilante is grappling a creature and is targeted by an attack, he can attempt a combat maneuver check against the target of his grapple (this combat maneuver check doesn’t count as a grapple combat maneuver check). If he succeeds, the creature he is grappling becomes the new target of the attack. If the check fails, the creature escapes the grapple and the vigilante is the target of the attack as normal. This ability must be used after the attack is declared against the vigilante, but before the attack is made and the results revealed.
 
 #### Mad Rush (Ex)
 
@@ -333,7 +333,7 @@ The vigilante gains Antagonize as a bonus feat. He can target a creature with th
 
 #### Nothing Can Stop Me (Ex)
 
-Once per round, while the vigilante is moving, he can make one attack as a free action against an unattended object in the way of his path, such as a door or table. If his attack deals enough damage to destroy the object, he can continue to move. If he doesn’t destroy the object, his move ends. This attack is made as part of his move action and doesn’t count against his attacks this round. If his attack inadvertently targets a creature (such as a mimic), it automatically misses and his move ends (although he can still attack the creature as normal at the end of his movement). Only an avenger vigilante can select this talent.
+Once per round, while the vigilante is moving, he can make one attack as a free action against an unattended object in the way of his path, such as a door or table. If his attack deals enough damage to destroy the object, he can continue to move. If he doesn’t destroy the object, his move ends. This attack is made as part of his move action (1 AP) and doesn’t count against his attacks this round. If his attack inadvertently targets a creature (such as a mimic), it automatically misses and his move ends (although he can still attack the creature as normal at the end of his movement). Only an avenger vigilante can select this talent.
 
 #### Perfect Fall (Ex)
 
@@ -341,17 +341,17 @@ As long as there is a wall or another surface within arm’s reach, the vigilant
 
 #### Perfect Vulnerability (Ex)
 
-As a standard action, the vigilante can cleverly strike his foe where that foe is weakest. This attack targets the foe’s touch AC, and the foe is denied her Dexterity bonus against the attack. Once a foe has been the target of perfect vulnerability, she can’t be the target of the same vigilante’s perfect vulnerability for 24 hours. A vigilante must be at least 8th level to select this talent.
+As a standard action (1 AP), the vigilante can cleverly strike his foe where that foe is weakest. This attack targets the foe’s touch AC, and the foe is denied her Dexterity bonus against the attack. Once a foe has been the target of perfect vulnerability, she can’t be the target of the same vigilante’s perfect vulnerability for 24 hours. A vigilante must be at least 8th level to select this talent.
 
 **Pull into the Shadows (Ex)**:
 
-As a full-round action, the vigilante can move up to his speed toward an opponent who is unaware of his presence (or who considers him an ally) and make a single attack against that opponent. If the attack hits, he can attempt a drag combat maneuver against that enemy with a +4 bonus and without provoking an attack of opportunity. If the drag succeeds, the vigilante doesn’t need to have enough movement remaining to move with the enemy. The vigilante can’t use this ability on a true ally or a willing target.
+As a full-round action (3 AP), the vigilante can move up to his speed toward an opponent who is unaware of his presence (or who considers him an ally) and make a single attack against that opponent. If the attack hits, he can attempt a drag combat maneuver against that enemy with a +4 bonus and without provoking an attack of opportunity. If the drag succeeds, the vigilante doesn’t need to have enough movement remaining to move with the enemy. The vigilante can’t use this ability on a true ally or a willing target.
 
 #### Racial Paragon (Ex)
 
-The vigilante can take a move action to gain the benefit of a feat with a racial prerequisite he meets but doesn't have. This effect lasts for 1 minute. The vigilante must meet all the feat's prerequisites. He can use this ability a number of times per day equal to 3 + 1/2 his vigilante level (minimum four times per day). The vigilante can use this ability again before the duration expires to replace a previous racial feat with another choice. If a feat temporarily gained in this way has a daily use limitation, any uses of that feat while using this ability count toward that feat's daily limit.
+The vigilante can take a move action (1 AP) to gain the benefit of a feat with a racial prerequisite he meets but doesn't have. This effect lasts for 1 minute. The vigilante must meet all the feat's prerequisites. He can use this ability a number of times per day equal to 3 + 1/2 his vigilante level (minimum four times per day). The vigilante can use this ability again before the duration expires to replace a previous racial feat with another choice. If a feat temporarily gained in this way has a daily use limitation, any uses of that feat while using this ability count toward that feat's daily limit.
 
-This vigilante talent can be selected multiple times. Each time it is selected after the first, the vigilante can use this ability to gain the benefits of one additional racial feat at the same time, or to reduce the action required to activate this talent by one step (a move action becomes a swift action, a swift action becomes a free action, and a free action becomes an immediate action). If the vigilante chooses to gain the benefits of multiple feats, the feats selected must share the same racial prerequisite. He can use one of these feats to meet a prerequisite of a second feat; doing so means he cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward his daily uses of this ability.
+This vigilante talent can be selected multiple times. Each time it is selected after the first, the vigilante can use this ability to gain the benefits of one additional racial feat at the same time, or to reduce the action required to activate this talent by one step (a move action (1 AP) becomes a swift action (1 AP), a swift action (1 AP) becomes a free action, and a free action becomes an immediate action (1 AP of your next turn)). If the vigilante chooses to gain the benefits of multiple feats, the feats selected must share the same racial prerequisite. He can use one of these feats to meet a prerequisite of a second feat; doing so means he cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward his daily uses of this ability.
 
 #### Returning Weapon (Ex)
 
@@ -419,7 +419,7 @@ The vigilante doesn’t take the usual –4 penalty on attack rolls made to deal
 
 #### Team Player (Ex)
 
-The vigilante gains [Swift Aid](../../rules/feats/swift-aid.md) as a bonus feat, ignoring its prerequisites. Additionally, the vigilante can choose to use the feat as a standard action, in which case it applies to every ally adjacent to the vigilante. At 10th level, he can increase the bonus provided to one ally by this feat to +2 by using the aid another action as a move action rather than a swift action.
+The vigilante gains [Swift Aid](../../rules/feats/swift-aid.md) as a bonus feat, ignoring its prerequisites. Additionally, the vigilante can choose to use the feat as a standard action (1 AP), in which case it applies to every ally adjacent to the vigilante. At 10th level, he can increase the bonus provided to one ally by this feat to +2 by using the aid another action as a move action (1 AP) rather than a swift action.
 
 #### Throat Jab (Ex)
 
@@ -431,15 +431,15 @@ Whenever the vigilante causes an opponent to gain the [shaken](../../rules/appen
 
 #### Unexpected Strike (Ex)
 
-The vigilante gains [Quick Draw](../../rules/feats/quick-draw.md) as a bonus feat. At 8th level, he can draw hidden weapons as a swift action (instead of a move action).
+The vigilante gains [Quick Draw](../../rules/feats/quick-draw.md) as a bonus feat. At 8th level, he can draw hidden weapons as a swift action (1 AP) (instead of a move action).
 
 #### Unkillable (Ex)
 
-The vigilante gains Diehard as a bonus feat, though he does not have to meet the prerequisites for this feat. At 6th level, he doesn’t lose hit points when he takes a standard action while disabled. At 12th level, when he would die from hit point damage, he remains alive for 1 round before dying (and if his hit points rise above a negative amount equal to his Constitution score before that round is over, he doesn’t die). At 18th level, he is no longer disabled at negative hit points and can take a full round’s worth of actions. Only an avenger vigilante can select this talent.
+The vigilante gains Diehard as a bonus feat, though he does not have to meet the prerequisites for this feat. At 6th level, he doesn’t lose hit points when he takes a standard action (1 AP) while disabled. At 12th level, when he would die from hit point damage, he remains alive for 1 round before dying (and if his hit points rise above a negative amount equal to his Constitution score before that round is over, he doesn’t die). At 18th level, he is no longer disabled at negative hit points and can take a full round’s worth of actions. Only an avenger vigilante can select this talent.
 
 #### Up Close and Personal (Ex)
 
-When the vigilante attempts an Acrobatics check to move through an opponent’s space during a move action, he can attempt a single melee attack against that opponent as a swift action. If the Acrobatics check succeeds, this attack applies the vigilante’s hidden strike damage as if the foe were unaware of the vigilante. Otherwise, the vigilante applies the hidden strike damage he would deal if the target were denied its Dexterity bonus to AC. Only a stalker vigilante of at least 4th level can select this talent.
+When the vigilante attempts an Acrobatics check to move through an opponent’s space during a move action (1 AP), he can attempt a single melee attack against that opponent as a swift action (1 AP). If the Acrobatics check succeeds, this attack applies the vigilante’s hidden strike damage as if the foe were unaware of the vigilante. Otherwise, the vigilante applies the hidden strike damage he would deal if the target were denied its Dexterity bonus to AC. Only a stalker vigilante of at least 4th level can select this talent.
 
 #### Vital Punishment (Ex)
 
@@ -499,9 +499,9 @@ The following social and vigilante talents can be chosen by any vigilante, but a
 
 **Gator Wrangle (Ex)**: The vigilante gains a +8 bonus to his CMD against grapple combat maneuvers when using the grab ability, and he halves all damage from constrict attacks. When attacking a creature that is grappling him, an avenger vigilante deals an additional amount of damage equal to half his vigilante level.
 
-**Swamp Concoctions (Ex)**: Twice per day as a full-round action, the vigilante can use the environment weapon vigilante talent to improvise an alchemical weapon worth no more than 15 gp per vigilante level. This improvised weapon cannot be sold and must be used within 3 rounds before it becomes inert. The vigilante gains the benefits of the [Throw Anything](../../rules/feats/throw-anything.md) feat for the purpose of these improvised weapons. This ability cannot create improvised weapons that incorporate special materials unless those materials are also present. To select this talent, the vigilante must have the environment weapon vigilante talent, and he must have selected jungle, swamp, or water for that talent.
+**Swamp Concoctions (Ex)**: Twice per day as a full-round action (3 AP), the vigilante can use the environment weapon vigilante talent to improvise an alchemical weapon worth no more than 15 gp per vigilante level. This improvised weapon cannot be sold and must be used within 3 rounds before it becomes inert. The vigilante gains the benefits of the [Throw Anything](../../rules/feats/throw-anything.md) feat for the purpose of these improvised weapons. This ability cannot create improvised weapons that incorporate special materials unless those materials are also present. To select this talent, the vigilante must have the environment weapon vigilante talent, and he must have selected jungle, swamp, or water for that talent.
 
-**Vortex Splash (Ex)**: When in rain or waist deep in water, the vigilante can make a whirling splash as a full-round action, allowing him to attempt a single dirty trick combat maneuver or feint against each adjacent foe. The vigilante can make a separate choice for each target.
+**Vortex Splash (Ex)**: When in rain or waist deep in water, the vigilante can make a whirling splash as a full-round action (3 AP), allowing him to attempt a single dirty trick combat maneuver or feint against each adjacent foe. The vigilante can make a separate choice for each target.
 
 ### Social Talents
 
@@ -527,7 +527,7 @@ The following social and vigilante talents can be chosen by any vigilante, but a
 
 ### Vigilante Talents
 
-**Animal Patron (Ex)**: The vigilante gains the benefits of one minor shifter aspect for a number of minutes per day equal to 1 + half his vigilante level. He can shift into this minor aspect as a swift action. The vigilante must be at least 5th level to select this talent.
+**Animal Patron (Ex)**: The vigilante gains the benefits of one minor shifter aspect for a number of minutes per day equal to 1 + half his vigilante level. He can shift into this minor aspect as a swift action (1 AP). The vigilante must be at least 5th level to select this talent.
 
 **Leap and Bound (Ex)**: A vigilante with this talent adds his Strength bonus on Acrobatics checks in addition to his Dexterity modifier. He is always treated as having a running start when jumping, and his high jumps are treated as long jumps when determining the DC. When the vigilante jumps, he does not fall until the end of his turn, allowing him to attack or perform other actions in midair. If the vigilante grapples a creature capable of bearing his weight, he does not fall, instead remaining adjacent to the creature as it moves. A vigilante must be at least 10th level to select this talent.
 

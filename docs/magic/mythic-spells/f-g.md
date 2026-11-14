@@ -8,7 +8,7 @@ Outlined creatures are [dazzled](../../rules/appendices/conditions.md#dazzled). 
 
 ## False Life
 
-The temporary hit points gained increase to 2d8 + 2 per caster level (maximum +20). As an immediate action, you can dismiss the remaining duration of the spell to prevent 1 point of Strength, Dexterity, or Constitution damage per 10 temporary hit points remaining from the spell. This takes effect after the attack hits you and the damage is rolled, but before you take the damage. For example, if you have 22 temporary hit points from mythic false life and a wyvern stings you for 3 points of Constitution damage, you can dismiss the spell to prevent 2 points of Constitution damage from that attack.
+The temporary hit points gained increase to 2d8 + 2 per caster level (maximum +20). As an immediate action (1 AP of your next turn), you can dismiss the remaining duration of the spell to prevent 1 point of Strength, Dexterity, or Constitution damage per 10 temporary hit points remaining from the spell. This takes effect after the attack hits you and the damage is rolled, but before you take the damage. For example, if you have 22 temporary hit points from mythic false life and a wyvern stings you for 3 points of Constitution damage, you can dismiss the spell to prevent 2 points of Constitution damage from that attack.
 
 ## Feast of Ashes
 
@@ -80,7 +80,7 @@ The fire damage dealt by this spell bypasses fire resistance and fire immunity. 
 
 ## Flesh to Stone
 
-A creature that succeeds at its saving throw is partially [petrified](../../rules/appendices/conditions.md#petrified), becoming slowed (as the slow spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the slow effect.
+A creature that succeeds at its saving throw is partially [petrified](../../rules/appendices/conditions.md#petrified), becoming slowed (as the slow spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action (3 AP) breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the slow effect.
 
 The spell can affect objects and undead, as long as the target is primarily made of flesh or bone, such as a corpse or zombie. The spell doesn't affect the target's gear. If cast on a creature with equipment, the creature transforms into stone but its gear doesn't.
 
@@ -90,7 +90,7 @@ The spell can affect objects and undead, as long as the target is primarily made
 
 The disk created by this spell lasts for 2 hours per caster level and can carry up to 200 pounds of weight per caster level.
 
-The disk accompanies you regardless of your speed, always catching up no matter how far you move. If you stand or sit on the disk, as a move action you can direct it to travel up to 30 feet in any direction.
+The disk accompanies you regardless of your speed, always catching up no matter how far you move. If you stand or sit on the disk, as a move action (1 AP) you can direct it to travel up to 30 feet in any direction.
 
 Any objects resting on the disk count as weightless parts of your gear for the purpose of teleportation effects (allowing these items to go with you when you teleport despite the weight limit of the teleportation spell).
 
@@ -134,7 +134,7 @@ The spell's bonuses to ability scores increase by 2, the natural armor bonus inc
 
 The damage reduction changes to DR 10/epic and magic, and the fly speed increases to 30 feet. The target can expand itself as a free action, filling an area equal to double its normal space and height (a Medium creature fills a 10-foot-by-10-foot space to a height of about 10 feet) and blocking vision as obscuring mist. Returning from expanded to normal size is also a free action.
 
-**Augmented**: If you expend two uses of mythic power, the target can shift into or out of gaseous form as a move action.
+**Augmented**: If you expend two uses of mythic power, the target can shift into or out of gaseous form as a move action (1 AP).
 
 ## Giant Vermin
 
@@ -182,4 +182,4 @@ You are alerted whenever any creature enters the warded area as if by a mental a
 
 The force of the wind increases to windstorm (approximately 70 mph; Core Rulebook 439). All effects described in the spell affect creatures one size larger. Ranged attacks can't be attempted in the area of the spell. The wind automatically blows out unprotected flames and has a 75% chance of blowing out protected flames.
 
-**Augmented (2nd)**: If you expend two uses of mythic power, the spell lasts for 1 additional round and the range increases by 30 feet. As a swift action at the start of your turn, you can expend another use of mythic power to extend the duration by 1 round and the range by another 30 feet.
+**Augmented (2nd)**: If you expend two uses of mythic power, the spell lasts for 1 additional round and the range increases by 30 feet. As a swift action (1 AP) at the start of your turn, you can expend another use of mythic power to extend the duration by 1 round and the range by another 30 feet.

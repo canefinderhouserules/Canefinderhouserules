@@ -6,4 +6,4 @@ Your coordination is so perfect that you can simply drop ammunition from your ha
 
 **Prerequisites**: Sleight of Hand 1 rank, proficient with sling.
 
-**Benefit**: You can load a sling or one end of a double sling with one hand as a swift action or move action. This does not provoke an attack of opportunity.
+**Benefit**: You can load a sling or one end of a double sling with one hand as a swift action (1 AP) or move action (1 AP). This does not provoke an attack of opportunity.

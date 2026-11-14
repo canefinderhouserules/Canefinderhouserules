@@ -69,7 +69,7 @@ When a nomad horse rider reaches 2nd level, her mount receives the blessing of t
 
 #### Thunderous Charge (Su)
 
-At 2nd level, a number of times per day equal to her nomad horse rider level, she and her mount can make a charge that causes the ground to shake. This is a full-round action and works as a normal charge, except the mount can move only up to its move speed (not double its move speed, as in a normal charge). Creatures within a 5-foot radius of the charge’s ending point must succeed at a Reflex save (DC = 10 + her class level + the mount’s Strength modifier) or fall [prone](../../rules/appendices/conditions.md#prone). For every nomad horse rider level above 2nd she has, she can exclude one creature from the effects of her thunderous charge (one creature at 3rd level, up to a maximum of eight creatures at 10th level). She can resolve her attack at the end of her charge either before or after determining which creatures fall prone. At 6th level, the radius of thunderous charge increases to 10 feet, and at 10th level it increases to 20 feet.
+At 2nd level, a number of times per day equal to her nomad horse rider level, she and her mount can make a charge that causes the ground to shake. This is a full-round action (3 AP) and works as a normal charge, except the mount can move only up to its move speed (not double its move speed, as in a normal charge). Creatures within a 5-foot radius of the charge’s ending point must succeed at a Reflex save (DC = 10 + her class level + the mount’s Strength modifier) or fall [prone](../../rules/appendices/conditions.md#prone). For every nomad horse rider level above 2nd she has, she can exclude one creature from the effects of her thunderous charge (one creature at 3rd level, up to a maximum of eight creatures at 10th level). She can resolve her attack at the end of her charge either before or after determining which creatures fall prone. At 6th level, the radius of thunderous charge increases to 10 feet, and at 10th level it increases to 20 feet.
 
 #### Aura of Courage (Su)
 
@@ -77,7 +77,7 @@ At 3rd level, a nomad horse rider gains an aura of courage like that of a 3rd-le
 
 #### Flank Breaker (Ex)
 
-At 3rd level, if a nomad horse rider successfully damages a foe that is flanking an ally, she can attempt a special combat maneuver check against the target’s CMD as a swift action. If she succeeds, that foe is unable to flank with any creature for 1 round.
+At 3rd level, if a nomad horse rider successfully damages a foe that is flanking an ally, she can attempt a special combat maneuver check against the target’s CMD as a swift action (1 AP). If she succeeds, that foe is unable to flank with any creature for 1 round.
 
 #### Controlled Charge (Ex)
 
@@ -101,15 +101,15 @@ At 6th level, a nomad horse rider’s mount receives the blessing of the marids,
 
 #### Trampling Gallop (Ex)
 
-At 6th level, a nomad horse rider’s mount gains the trample universal monster ability, but only when commanded by her as a full-round action. Damage dealt by the trample is equal to that of the horse’s hoof attack plus 1-1/2 times its Strength modifier.
+At 6th level, a nomad horse rider’s mount gains the trample universal monster ability, but only when commanded by her as a full-round action (3 AP). Damage dealt by the trample is equal to that of the horse’s hoof attack plus 1-1/2 times its Strength modifier.
 
 #### All Eyes on Me (Su)
 
-At 7th level, three times per day as a swift action, a nomad horse rider can call out a challenge. Each opponent within 30 feet must succeed at a Will save (DC = 10 + her character level + her Charisma bonus) or be distracted by the display until the beginning of her next turn. Any creature that fails is considered to be [flat-footed](../../rules/appendices/conditions.md#flat-footed) and takes a –2 penalty to AC against attacks from her allies. This is a mind-affecting, visual effect.
+At 7th level, three times per day as a swift action (1 AP), a nomad horse rider can call out a challenge. Each opponent within 30 feet must succeed at a Will save (DC = 10 + her character level + her Charisma bonus) or be distracted by the display until the beginning of her next turn. Any creature that fails is considered to be [flat-footed](../../rules/appendices/conditions.md#flat-footed) and takes a –2 penalty to AC against attacks from her allies. This is a mind-affecting, visual effect.
 
 #### Inspiring Leader (Su)
 
-At 9th level, a nomad horse rider can call out encouragement to her allies as a move action, bolstering their courage. Allies within 60 feet who can hear her receive a morale bonus equal to her Charisma bonus on attack and damage rolls with weapons for 1 round. She can use this ability three times per day. This is a mind-affecting, language-dependent effect.
+At 9th level, a nomad horse rider can call out encouragement to her allies as a move action (1 AP), bolstering their courage. Allies within 60 feet who can hear her receive a morale bonus equal to her Charisma bonus on attack and damage rolls with weapons for 1 round. She can use this ability three times per day. This is a mind-affecting, language-dependent effect.
 
 #### Janni’s Blessing (Su)
 

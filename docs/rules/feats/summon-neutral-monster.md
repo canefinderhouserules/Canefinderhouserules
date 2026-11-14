@@ -53,7 +53,7 @@ You can summon creatures that embody the forces of balance.
 
 Counterpoised creatures dwell in the Outer Planes where balance between elements or ideologies is paramount, but they can be summoned using spells such as *summon monster* and [*planar ally*](../../magic/spells/planar-ally.md). A counterpoised creature’s CR increases by 1 only if the base creature has 5 or more Hit Dice. A counterpoised creature’s quick and rebuild rules are the same.
 
-**Rebuild Rules**: **Senses* *gains darkvision 60 ft.;* *Defensive Abilities* *gains DR and energy resistance as noted on the table;* *SR** gains SR equal to new CR +5; **Special Attacks* *smite bias 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against a foe that is chaotic evil, chaotic good, lawful evil, or lawful good; smite persists until the target is dead or the counterpoised creature rests). 
+**Rebuild Rules**: **Senses* *gains darkvision 60 ft.;* *Defensive Abilities* *gains DR and energy resistance as noted on the table;* *SR** gains SR equal to new CR +5; **Special Attacks* *smite bias 1/day as a swift action (1 AP) (adds Cha bonus to attack rolls and damage bonus equal to HD against a foe that is chaotic evil, chaotic good, lawful evil, or lawful good; smite persists until the target is dead or the counterpoised creature rests). 
 
 ## Counterpoised Creature Defenses
 

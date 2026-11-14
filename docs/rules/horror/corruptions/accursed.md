@@ -32,7 +32,7 @@ You can weaken foes with a glare.
 
 **Prerequisite**: Manifestation level 6th.
 
-**Gift**: Once per day, when you successfully use Intimidate to demoralize a creature within 30 feet, you can curse that target as a swift action. The victim must succeed at a Will save or be staggered permanently. If you use this ability on a creature that is still under the effects of your baleful glare from a previous day, the target must succeed at a Fortitude saving throw or be paralyzed 1 with fear for 3 days. At the end of each day the target spends paralyzed with fear, it must succeed at another Fortitude saving throw or die. Your effective caster level for these curses is equal to your character level.
+**Gift**: Once per day, when you successfully use Intimidate to demoralize a creature within 30 feet, you can curse that target as a swift action (1 AP). The victim must succeed at a Will save or be staggered permanently. If you use this ability on a creature that is still under the effects of your baleful glare from a previous day, the target must succeed at a Fortitude saving throw or be paralyzed 1 with fear for 3 days. At the end of each day the target spends paralyzed with fear, it must succeed at another Fortitude saving throw or die. Your effective caster level for these curses is equal to your character level.
 
 **Stain**: One eye becomes bulging and bloodshot or each eye turns a different color. You take a –4 penalty on Perception checks. This transformation can’t be hidden by magic.
 
@@ -60,7 +60,7 @@ You can weave magical lies to set victims up for a downfall.
 
 You can twist the strands of fate to your desires.
 
-**Gift**: Once per day as an immediate action, you can reroll an ability check, attack roll, caster level check, saving throw, or skill check after learning the result. At manifestation level 8th, you can also lay a curse of unluck upon a creature (*Core Rulebook* 557) once per day. This takes a standard action, and must target a creature you can see within 30 feet.
+**Gift**: Once per day as an immediate action (1 AP of your next turn), you can reroll an ability check, attack roll, caster level check, saving throw, or skill check after learning the result. At manifestation level 8th, you can also lay a curse of unluck upon a creature (*Core Rulebook* 557) once per day. This takes a standard action (1 AP), and must target a creature you can see within 30 feet.
 
 **Stain**: You can’t benefit from morale bonuses. You take a –2 penalty on Perform and Sense Motive checks. At manifestation level 3rd, the penalty doubles.
 
@@ -78,7 +78,7 @@ You can transform foes into mere beasts.
 
 **Prerequisite**: Manifestation level 5th.
 
-**Gift**: Add 1 to the DCs of your spells and abilities that have the curse descriptor. Once per day as a standard action, you can use *baleful polymorph* as a spell-like ability, with a caster level equal to your character level. This counts as a curse, and the DC of any caster level check to remove it increases by 5.
+**Gift**: Add 1 to the DCs of your spells and abilities that have the curse descriptor. Once per day as a standard action (1 AP), you can use *baleful polymorph* as a spell-like ability, with a caster level equal to your character level. This counts as a curse, and the DC of any caster level check to remove it increases by 5.
 
 **Stain**: You take a –2 penalty on Will saves. If you have this manifestation’s gift, using your *baleful polymorph* curse negates the penalty until the next day.
 
@@ -96,7 +96,7 @@ Your fingernails grow into talons.
 
 **Prerequisite**: Manifestation level 3rd.
 
-**Gift**: Your nails grow into claw natural weapons that deal 1d3 points of damage if you’re Medium (1d2 if Small). Once per day, you can make a weakening claw attack as a standard action. If you hit, you inflict a permanent –4 penalty on the target’s Strength score. The victim can halve the penalty and reduce the duration to 24 hours with a successful Fort save.
+**Gift**: Your nails grow into claw natural weapons that deal 1d3 points of damage if you’re Medium (1d2 if Small). Once per day, you can make a weakening claw attack as a standard action (1 AP). If you hit, you inflict a permanent –4 penalty on the target’s Strength score. The victim can halve the penalty and reduce the duration to 24 hours with a successful Fort save.
 
 **Stain**: You take a –2 penalty on Disable Device checks, Sleight of Hand checks, and attacks with manufactured 1 weapons. Your spells with somatic or emotion (*Occult Adventures* 144) components have a failure chance of 5%. If you have a spell failure chance from other sources, add the chances together.
 
@@ -104,6 +104,6 @@ Your fingernails grow into talons.
 
 Like a fey or genie, you can twist another creature’s wishes.
 
-**Gift**: Once per day as a full-round action, you can duplicate the effect of a witch spell of a spell level lower than your manifestation level. This spell cannot have a material or focus component costing more than 1 gp or a casting time longer than 1 standard action. The spell’s effect must fulfill, in part or in whole, a wish verbally stated by a humanoid creature you can hear (other than yourself).
+**Gift**: Once per day as a full-round action (3 AP), you can duplicate the effect of a witch spell of a spell level lower than your manifestation level. This spell cannot have a material or focus component costing more than 1 gp or a casting time longer than 1 standard action (1 AP). The spell’s effect must fulfill, in part or in whole, a wish verbally stated by a humanoid creature you can hear (other than yourself).
 
 **Stain**: If you cast or use a harmless spell or spell-like ability when you are in combat, you must succeed at a concentration check (DC = 20 + double the spell level) or lose the spell. This also applies to nonharmless spells you cast that target only allies. Additionally, you must attempt saves against your allies’ spells and spell-like abilities, even if they are harmless.

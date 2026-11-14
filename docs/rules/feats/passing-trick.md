@@ -6,7 +6,7 @@ Slipping past a foe gives you the chance to feint.
 
 **Prerequisites**: Dodge, [Improved Feint](improved-feint.md), [Mobility](mobility.md), size Small or smaller.
 
-**Benefit**: Whenever you make a successful [Acrobatics](../skills/acrobatics.md) check to move through an opponent’s space, you can spend a swift action to make a [Bluff](../skills/bluff.md) check against that opponent to feint in combat.
+**Benefit**: Whenever you make a successful [Acrobatics](../skills/acrobatics.md) check to move through an opponent’s space, you can spend a swift action (1 AP) to make a [Bluff](../skills/bluff.md) check against that opponent to feint in combat.
 
 **Special**: If you have the Underfoot feat and the opponent is larger than you, you gain a +2 bonus on the Bluff check this feat allows.
 

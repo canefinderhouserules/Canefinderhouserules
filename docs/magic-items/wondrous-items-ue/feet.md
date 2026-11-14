@@ -70,7 +70,7 @@ These form-fitting, calfskin boots are dyed black and lightly decorated with rav
 **Aura** faint transmutation; **CL** 5th  
 **Slot** feet; **Price** 10,000 gp; **Weight** 2 lbs.
 
-These knee-high black leather boots have prominent and irregularly shaped heels which seem to bulge from the rest of the shoe. As a swift action, the boots’ wearer can cause the boots to let loose a spray of caltrops through the back of the heels as he moves during the remainder of his round. These caltrops fill each square the wearer moves into during that round. Any creature, including the wearer, occupying or who steps into one of these squares suffers the normal effects of coming into contact with caltrops. Once produced, these caltrops remain in existence until removed from their square, at which point they immediately disappear. The shoes can be used for 10 rounds per day. These rounds need not be consecutive.
+These knee-high black leather boots have prominent and irregularly shaped heels which seem to bulge from the rest of the shoe. As a swift action (1 AP), the boots’ wearer can cause the boots to let loose a spray of caltrops through the back of the heels as he moves during the remainder of his round. These caltrops fill each square the wearer moves into during that round. Any creature, including the wearer, occupying or who steps into one of these squares suffers the normal effects of coming into contact with caltrops. Once produced, these caltrops remain in existence until removed from their square, at which point they immediately disappear. The shoes can be used for 10 rounds per day. These rounds need not be consecutive.
 
 **Construction** Craft Wondrous Item, *spike growth*; **Cost** 5,000 gp
 
@@ -115,7 +115,7 @@ These fine silken slippers allow their wearer to ignore the adverse movement eff
 **Aura** moderate conjuration; **CL** 11th  
 **Slot** feet; **Price** 30,000 gp; **Weight** 1 lb.
 
-These rather nondescript boots can, once per day, be attuned to a location their wearer is standing upon. Once the boots are attuned to a location, once per day as a full-round action, the wearer, along with anything she is wearing or carrying, teleports back to the attuned location as the *getaway* spell, except that no allies are teleported when the boots are activated even if they were in the area when the boots were attuned to their location. Once the boots are attuned to a location, they continue to be attuned to the same location until they are attuned to a new location.
+These rather nondescript boots can, once per day, be attuned to a location their wearer is standing upon. Once the boots are attuned to a location, once per day as a full-round action (3 AP), the wearer, along with anything she is wearing or carrying, teleports back to the attuned location as the *getaway* spell, except that no allies are teleported when the boots are activated even if they were in the area when the boots were attuned to their location. Once the boots are attuned to a location, they continue to be attuned to the same location until they are attuned to a new location.
 
 **Construction** Craft Wondrous Item, *getaway*; **Cost** 15,000 gp
 
@@ -162,7 +162,7 @@ These stylish black leather boots are stitched with images of winding roads and 
 **Aura** moderate evocation and transmutation; **CL** 6th  
 **Slot** feet; **Price** 8,500 gp; **Weight** 3 lbs.
 
-Prized by evil warriors, these boots are made of inky black leather trimmed with a crimson mane of fiendish horsehair. Some bear the hair of actual nightmares along their rims, causing them to occasionally flare and crackle with flames reminiscent of the foul equines. When the wearer runs or charges, smoke issues up from the boots, acting as concealment (20% miss chance) when the wearer provokes attacks of opportunity while making those actions. Secondly, three times per day, as a swift action, the wearer can make the boots smoke, which grants her concealment until the end of her turn. Lastly, once per day, when the wearer hits a creature with a melee attack, she can command the boots to ignite. When the boots ignite, all creatures within a 5-foot radius take 2d6 points of fire damage. A DC 13 Reflex saving throw halves the damage.
+Prized by evil warriors, these boots are made of inky black leather trimmed with a crimson mane of fiendish horsehair. Some bear the hair of actual nightmares along their rims, causing them to occasionally flare and crackle with flames reminiscent of the foul equines. When the wearer runs or charges, smoke issues up from the boots, acting as concealment (20% miss chance) when the wearer provokes attacks of opportunity while making those actions. Secondly, three times per day, as a swift action (1 AP), the wearer can make the boots smoke, which grants her concealment until the end of her turn. Lastly, once per day, when the wearer hits a creature with a melee attack, she can command the boots to ignite. When the boots ignite, all creatures within a 5-foot radius take 2d6 points of fire damage. A DC 13 Reflex saving throw halves the damage.
 
 **Construction** Craft Wondrous Item, *burning hands*, *pyrotechnics*; **Cost** 3,750 gp
 
@@ -180,7 +180,7 @@ These horseshoes are made of blackened steel and are typically stamped with infe
 **Aura** faint transmutation; **CL** 4th  
 **Slot** feet; **Price** 4,000 gp; **Weight** 1 lb.
 
-These supple leather sandals grant a burst of speed during times of duress. When the wearer acts during a surprise round, he can take a standard and a move action during the surprise round. If the wearer already has the ability to take a standard and a move action during the surprise round, he instead gains a +10 circumstance bonus to speed when acting during a surprise round.
+These supple leather sandals grant a burst of speed during times of duress. When the wearer acts during a surprise round, he can take a standard and a move action (1 AP) during the surprise round. If the wearer already has the ability to take a standard and a move action (1 AP) during the surprise round, he instead gains a +10 circumstance bonus to speed when acting during a surprise round.
 
 **Construction** Craft Wondrous Item, *anticipate peril*, *haste*; **Cost** 2,000 gp
 
@@ -189,7 +189,7 @@ These supple leather sandals grant a burst of speed during times of duress. When
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** feet; **Price** 5,000 gp; **Weight** 1/2 lb.
 
-These soft leather sandals have soles that consist of a layer of purple velvet decorated with intricate gold stitching. When slipped onto the feet, they feel as weightless as air. In any round when the wearer has already moved at least 10 feet along the ground or another surface (not counting travel on a mount or vehicle), these boots can be activated as a swift action to give the wearer the ability to walk on air (as the *air walk* spell) until the end of the round. If the wearer hasn’t reached a solid surface by the end of the round, she immediately falls back to the ground, taking any applicable falling damage. These sandals can be used up to 5 times per day, but no more often than once per minute.
+These soft leather sandals have soles that consist of a layer of purple velvet decorated with intricate gold stitching. When slipped onto the feet, they feel as weightless as air. In any round when the wearer has already moved at least 10 feet along the ground or another surface (not counting travel on a mount or vehicle), these boots can be activated as a swift action (1 AP) to give the wearer the ability to walk on air (as the *air walk* spell) until the end of the round. If the wearer hasn’t reached a solid surface by the end of the round, she immediately falls back to the ground, taking any applicable falling damage. These sandals can be used up to 5 times per day, but no more often than once per minute.
 
 **Construction** Craft Wondrous Item, *air walk*; **Cost** 2,500 gp
 

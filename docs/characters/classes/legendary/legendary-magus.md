@@ -129,9 +129,9 @@ At 1st level, the legendary magus has access to the following potential techniqu
 
 ###### 1 Potential
 
-- **Arcane Deflection**: As an immediate action when an attack is rolled against the legendary magus or an adjacent ally, the legendary magus can create a miniature projection of force granting herself or her ally a +1 circumstance bonus to AC against the attack for each point of potential spent on this ability. This technique is used after an attack is rolled, but before damage is dealt, allowing it to negate an attack if this technique would cause the attack to miss.
+- **Arcane Deflection**: As an immediate action (1 AP of your next turn) when an attack is rolled against the legendary magus or an adjacent ally, the legendary magus can create a miniature projection of force granting herself or her ally a +1 circumstance bonus to AC against the attack for each point of potential spent on this ability. This technique is used after an attack is rolled, but before damage is dealt, allowing it to negate an attack if this technique would cause the attack to miss.
 
-- **Focused Concentration**: As a swift action, the legendary can select a single creature they can see and gain a +4 bonus to concentration checks against that creature until the beginning of her next turn. This applies to concentration checks as a result of being injured by that creature, affected by its spells, being [grappled](../../../rules/appendices/conditions.md#grappled) by that creature, and for casting defensive in that creature’s threatened area.
+- **Focused Concentration**: As a swift action (1 AP), the legendary can select a single creature they can see and gain a +4 bonus to concentration checks against that creature until the beginning of her next turn. This applies to concentration checks as a result of being injured by that creature, affected by its spells, being [grappled](../../../rules/appendices/conditions.md#grappled) by that creature, and for casting defensive in that creature’s threatened area.
 
 - **Magician’s Assault**: For each point of potential the legendary magus spends on this technique, she gains a +1 circumstance bonus to attack and damage rolls made with weapon attacks until the beginning of her next turn.
 
@@ -147,7 +147,7 @@ At 3rd level, and every 3 levels after that (6th, 9th, 12th, 15th and 18th), a l
 
 #### Spell Combat (Ex)
 
-At 2nd level, a magus learns to cast spells and wield her weapons at the same time. As a full- round action, she can make all of her attacks with a one- handed weapon at a –2 penalty, as if she were making a full attack, and can also cast any spell from the magus spell list with a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If she casts this spell defensively, she can decide to take an additional penalty on his attack rolls, up to her Intelligence bonus, and add the same amount as a circumstance bonus on her concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. A legendary magus can choose to cast the spell first or make the weapon attacks first, but if she has more than one attack, she cannot cast the spell between weapon attacks.
+At 2nd level, a magus learns to cast spells and wield her weapons at the same time. As a full- round action, she can make all of her attacks with a one- handed weapon at a –2 penalty, as if she were making a full attack, and can also cast any spell from the magus spell list with a casting time of 1 standard action (1 AP) (any attack roll made as part of this spell also takes this penalty). If she casts this spell defensively, she can decide to take an additional penalty on his attack rolls, up to her Intelligence bonus, and add the same amount as a circumstance bonus on her concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. A legendary magus can choose to cast the spell first or make the weapon attacks first, but if she has more than one attack, she cannot cast the spell between weapon attacks.
 
 #### Combat Casting
 
@@ -159,7 +159,7 @@ At 5th level, and every three levels thereafter, a legendary magus gains a bonus
 
 #### Spell Recall
 
-At 7th level, the legendary magus can tap in to their arcane potential to cast a spell they have recently expended. As a swift action, the legendary magus can choose a spell they have cast during the current combat and spend a number of points of potential equal to three times its level, allowing them to cast it again this round without requiring or expending a spell slot. The legendary magus can only recall a spell once for each time it is cast and cannot recall a spell cast through this ability. The legendary magus does not gain a point of potential from casting this spell this round, or by casting it as part of spell combat, through their channeled potential ability. If this spell has a duration longer than instantaneous, its effect ends when her arcane potential empties after combat has ended.
+At 7th level, the legendary magus can tap in to their arcane potential to cast a spell they have recently expended. As a swift action (1 AP), the legendary magus can choose a spell they have cast during the current combat and spend a number of points of potential equal to three times its level, allowing them to cast it again this round without requiring or expending a spell slot. The legendary magus can only recall a spell once for each time it is cast and cannot recall a spell cast through this ability. The legendary magus does not gain a point of potential from casting this spell this round, or by casting it as part of spell combat, through their channeled potential ability. If this spell has a duration longer than instantaneous, its effect ends when her arcane potential empties after combat has ended.
 
 #### Legendary Combat Casting (Ex)
 
@@ -181,13 +181,13 @@ At 8th level, the legendary magus’ ability to spend their potential expands, g
 
 - **Modulated Range**: As part of casting a magus spell, the legendary magus can modulate its range, increasing or decreasing its range by one step. If a spell requires a ranged touch attack and has its range reduced to touch, it now requires a melee touch. If a spell requires a melee touch attack and has its range increased to close, it now requires a ranged touch attack. The steps of range are as follows: Touch -> close (25 ft. + 5 ft./2 levels) -> medium (100 ft. + 10 ft./level) -> long (400 ft. + 40 ft./level). A spell cannot have its range increased beyond long, or reduced beyond touch.
 
-- **Rapid Spell Combat**: The legendary magus can perform their spell combat as a standard action, casting a single spell and making a only a single attack with their weapon. This ability is treated as spell combat for all purposes (including spell combat’s penalty to attack rolls), is treated as an attack action, and may benefit from Vital Strike, as well as other feats and abilities that affect an attack action.
+- **Rapid Spell Combat**: The legendary magus can perform their spell combat as a standard action (1 AP), casting a single spell and making a only a single attack with their weapon. This ability is treated as spell combat for all purposes (including spell combat’s penalty to attack rolls), is treated as an attack action, and may benefit from Vital Strike, as well as other feats and abilities that affect an attack action.
 
 ###### 3 Potential
 
 - **Arcane Redoubt**: The legendary magus can create a briefly lived wall of force interposed between themselves, or an adjacent ally, and an enemy of their choice. This wall is one inch thick, 5-ft wide, and 5-ft tall. This wall provides the legendary magus, or their ally, with cover from that enemy until the beginning of the legendary magus’ next turn, granting them a +4 bonus to Armor Class and a +2 bonus on Reflex saving throws. If the opponent’s attack misses them by 4 or less, the attack strikes the wall instead. The wall has hardness 10 and 5 hit points per level of the legendary magus. If the shield is destroyed, the wall crumbles away into nothingness. Spells and effects that damage an area deal damage to the wall.
 
-- **Shifting Position**: As a swift action, the legendary magus can cause their position to shift rapidly between nearby spaces. Until the beginning of her next turn, the legendary magus can treat herself as being in any space adjacent to her when she casts spells, or makes an attack. She is treated as being in the chosen space for all purposes during that action, and then immediately returns to her original space after the action is resolved.
+- **Shifting Position**: As a swift action (1 AP), the legendary magus can cause their position to shift rapidly between nearby spaces. Until the beginning of her next turn, the legendary magus can treat herself as being in any space adjacent to her when she casts spells, or makes an attack. She is treated as being in the chosen space for all purposes during that action, and then immediately returns to her original space after the action is resolved.
 
 #### Improved Spell Recall
 
@@ -195,7 +195,7 @@ At 16th level, the legendary magus’ ability to tap in to their arcane potentia
 
 #### Legendary Apotheosis
 
-At 20th level, the legendary magus has reached the apotheosis of their art. She can use her spell combat ability as a standard action (she can still make all of her available attacks with her weapon, as if she had used spell combat as a full round action), and whenever she uses spell combat she can choose to gain one of the following benefits:
+At 20th level, the legendary magus has reached the apotheosis of their art. She can use her spell combat ability as a standard action (1 AP) (she can still make all of her available attacks with her weapon, as if she had used spell combat as a full round action (3 AP)), and whenever she uses spell combat she can choose to gain one of the following benefits:
 
 - Grant herself a +4 bonus to concentration checks this turn.
 

@@ -28,7 +28,7 @@ The following are manifestations of the plagued corruption.
 
 ### Accelerated Affliction
 
-**Gift**: As a swift action, once per day per 2 manifestation levels you have (minimum once per day), you can cause one creature within 30 feet suffering from any diseases to attempt a saving throw against one randomly determined disease they are suffering. On a failed saving throw, they immediately take that disease's damage. A successful save does not count toward the saving throws required to recover from the disease.
+**Gift**: As a swift action (1 AP), once per day per 2 manifestation levels you have (minimum once per day), you can cause one creature within 30 feet suffering from any diseases to attempt a saving throw against one randomly determined disease they are suffering. On a failed saving throw, they immediately take that disease's damage. A successful save does not count toward the saving throws required to recover from the disease.
 
 **Stain**: You take a –2 penalty to any one ability score of your choice.
 
@@ -44,7 +44,7 @@ The following are manifestations of the plagued corruption.
 
 **Prerequisite**: Accelerated affliction.
 
-**Gift**: Once per day as a swift action, you can suppress the stain of your accelerated affliction for a number of hours equal to your manifestation level.
+**Gift**: Once per day as a swift action (1 AP), you can suppress the stain of your accelerated affliction for a number of hours equal to your manifestation level.
 
 **Stain**: You take a –2 penalty on concentration checks while using false health.
 
@@ -88,6 +88,6 @@ The following are manifestations of the plagued corruption.
 
 **Prerequisite**: Manifestation level 7th, infectious thoughts, miserable company.
 
-**Gift**: As a move action, for as long as you concentrate, you can borrow the senses of any creature suffering from a disease effect you created, as long as the creature is within range of your infectious thoughts. Your body is effectively blind and deaf while you concentrate. The target can resist this intrusion with a successful Will saving throw. At manifestation level 9th, you can possess one such victim as per *possession* once per day as a standard action while you are already sharing its senses.
+**Gift**: As a move action (1 AP), for as long as you concentrate, you can borrow the senses of any creature suffering from a disease effect you created, as long as the creature is within range of your infectious thoughts. Your body is effectively blind and deaf while you concentrate. The target can resist this intrusion with a successful Will saving throw. At manifestation level 9th, you can possess one such victim as per *possession* once per day as a standard action (1 AP) while you are already sharing its senses.
 
 **Stain**: Your senses falter. You take a –4 penalty on Perception checks and Sense Motive checks while you are not using theft of awareness.

@@ -71,7 +71,7 @@ At 5th level, a skyseeker grows more comfortable operating in the lightless dept
 
 #### Runes of Resistance (Su)
 
-At 6th level, a skyseeker can use his armor to shrug off all manner of magical attacks for a short period of time. As a move action, the skyseeker can gain spell resistance equal to 5 + his Hit Dice if wearing light armor or 10 + his Hit Dice if wearing medium or heavy armor. Dismissing this ability is a swift action. A skyseeker can use this ability for a number of rounds per day equal to his class level. These rounds need not be consecutive.
+At 6th level, a skyseeker can use his armor to shrug off all manner of magical attacks for a short period of time. As a move action (1 AP), the skyseeker can gain spell resistance equal to 5 + his Hit Dice if wearing light armor or 10 + his Hit Dice if wearing medium or heavy armor. Dismissing this ability is a swift action (1 AP). A skyseeker can use this ability for a number of rounds per day equal to his class level. These rounds need not be consecutive.
 
 #### Paths of the Ancients (Ex)
 
@@ -83,4 +83,4 @@ At 9th level, a skyseeker has honed his mental resiliency to avoid certain attac
 
 #### Call to Arms (Sp)
 
-At 10th level, a skyseeker grows so attuned with the spirits of his ancestors that he can channel them into the physical world to battle his enemies. Once per day as a full-round action, he can summon up to 1d4+1 ghostly dwarven allies, who must appear within 60 feet of the skyseeker. These dwarves function exactly as an ally produced by the spell [*spiritual ally*](../../magic/spells/spiritual-ally.md) (caster level equal to the skyseeker’s class level), except that they always appear as dwarves wielding warhammers and they share the skyseeker’s favored enemy and favored terrain bonuses (if any). On subsequent turns the skyseeker can direct a single dwarven ally to move as a swift action, or he can direct multiple allies to move simultaneously as a move action.
+At 10th level, a skyseeker grows so attuned with the spirits of his ancestors that he can channel them into the physical world to battle his enemies. Once per day as a full-round action (3 AP), he can summon up to 1d4+1 ghostly dwarven allies, who must appear within 60 feet of the skyseeker. These dwarves function exactly as an ally produced by the spell [*spiritual ally*](../../magic/spells/spiritual-ally.md) (caster level equal to the skyseeker’s class level), except that they always appear as dwarves wielding warhammers and they share the skyseeker’s favored enemy and favored terrain bonuses (if any). On subsequent turns the skyseeker can direct a single dwarven ally to move as a swift action (1 AP), or he can direct multiple allies to move simultaneously as a move action (1 AP).

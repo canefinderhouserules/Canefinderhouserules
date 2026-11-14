@@ -32,7 +32,7 @@
 
 **Special Qualities:** A shadow lord gains the following special quality.
 
-***Planar Thinning (Su).*** Once per day as a full-round action, a shadow lord can thin the barriers between the Material Plane and Shadow Plane, making it considerably easier for creatures to cross between the two. This functions like the planar travel aspect of the gate spell (caster level equal to the shadow lord’s Hit Dice). This planar thinning is immediately dispelled if in an area of normal or bright light.
+***Planar Thinning (Su).*** Once per day as a full-round action (3 AP), a shadow lord can thin the barriers between the Material Plane and Shadow Plane, making it considerably easier for creatures to cross between the two. This functions like the planar travel aspect of the gate spell (caster level equal to the shadow lord’s Hit Dice). This planar thinning is immediately dispelled if in an area of normal or bright light.
 
 **Ability Scores:** Dex +4, Cha +4.
 

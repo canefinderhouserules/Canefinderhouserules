@@ -164,15 +164,15 @@ If the Components line includes F/DF or M/DF, the arcane version of the spell ha
 
 ## Casting Time
 
-Most spells have a casting time of 1 standard action. Others take 1 round or more, while a few require only a swift action.
+Most spells have a casting time of 1 standard action (1 AP). Others take 1 round or more, while a few require only a swift action (1 AP).
 
-A spell that takes 1 round to cast is a full-round action. It comes into effect just before the beginning of your turn in the round after you began casting the spell. You then act normally after the spell is completed.
+A spell that takes 1 round to cast is a full-round action (3 AP). It comes into effect just before the beginning of your turn in the round after you began casting the spell. You then act normally after the spell is completed.
 
-A spell that takes 1 minute to cast comes into effect just before your turn 1 minute later (and for each of those 10 rounds, you are casting a spell as a full-round action, just as noted above for 1-round casting times). These actions must be consecutive and uninterrupted, or the spell automatically fails.
+A spell that takes 1 minute to cast comes into effect just before your turn 1 minute later (and for each of those 10 rounds, you are casting a spell as a full-round action (3 AP), just as noted above for 1-round casting times). These actions must be consecutive and uninterrupted, or the spell automatically fails.
 
 When you begin a spell that takes 1 round or longer to cast, you must continue the concentration from the current round to just before your turn in the next round (at least). If you lose concentration before the casting is complete, you lose the spell.
 
-A spell with a casting time of 1 swift action doesn’t count against your normal limit of one spell per round. However, you may cast such a spell only once per round. Casting a spell with a casting time of 1 swift action doesn’t provoke attacks of opportunity.
+A spell with a casting time of 1 swift action (1 AP) doesn’t count against your normal limit of one spell per round. However, you may cast such a spell only once per round. Casting a spell with a casting time of 1 swift action (1 AP) doesn’t provoke attacks of opportunity.
 
 You make all pertinent decisions about a spell (range, target, area, effect, version, and so forth) when the spell comes into effect.
 
@@ -182,7 +182,7 @@ A spell’s range indicates how far from you it can reach, as defined in the ran
 
 **Personal**: The spell affects only you.
 
-**Touch**: You must touch a creature or object to affect it. A touch spell that deals damage can score a critical hit just as a weapon can. A touch spell threatens a critical hit on a natural roll of 20 and deals double damage on a successful critical hit. Some touch spells allow you to touch multiple targets. You can touch up to 6 willing targets as part of the casting, but all targets of the spell must be touched in the same round that you finish casting the spell. If the spell allows you to touch targets over multiple rounds, touching 6 creatures is a full-round action.
+**Touch**: You must touch a creature or object to affect it. A touch spell that deals damage can score a critical hit just as a weapon can. A touch spell threatens a critical hit on a natural roll of 20 and deals double damage on a successful critical hit. Some touch spells allow you to touch multiple targets. You can touch up to 6 willing targets as part of the casting, but all targets of the spell must be touched in the same round that you finish casting the spell. If the spell allows you to touch targets over multiple rounds, touching 6 creatures is a full-round action (3 AP).
 
 **Close**: The spell reaches as far as 25 feet away from you. The maximum range increases by 5 feet for every two full caster levels.
 
@@ -204,7 +204,7 @@ If the target of a spell is yourself (the Target line of the spell description i
 
 Some spells restrict you to willing targets only. Declaring yourself as a willing target is something that can be done at any time (even if you’re [flat-footed](../rules/appendices/conditions.md#flat-footed) or it isn’t your turn). [Unconscious](../rules/appendices/conditions.md#unconscious) creatures are automatically considered willing, but a character who is conscious but immobile or [helpless](../rules/appendices/conditions.md#helpless) (such as one who is bound, [cowering](../rules/appendices/conditions.md#cowering), grappling, [paralyzed](../rules/appendices/conditions.md#paralyzed), [pinned](../rules/appendices/conditions.md#pinned), or [stunned](../rules/appendices/conditions.md#stunned)) is not automatically willing.
 
-Some spells allow you to redirect the effect to new targets or areas after you cast the spell. Redirecting a spell is a move action that does not provoke attacks of opportunity.
+Some spells allow you to redirect the effect to new targets or areas after you cast the spell. Redirecting a spell is a move action (1 AP) that does not provoke attacks of opportunity.
 
 **Effect**: Some spells create or summon things rather than affecting things that are already present.
 
@@ -287,7 +287,7 @@ A spell’s duration entry tells you how long the magical energy of the spell la
 
 **Permanent**: The energy remains as long as the effect does. This means the spell is vulnerable to *dispel magic*.
 
-**Concentration**: The spell lasts as long as you concentrate on it. Concentrating to maintain a spell is a standard action that does not provoke attacks of opportunity. Anything that could break your concentration when casting a spell can also break your concentration while you’re maintaining one, causing the spell to end. See concentration in the text.
+**Concentration**: The spell lasts as long as you concentrate on it. Concentrating to maintain a spell is a standard action (1 AP) that does not provoke attacks of opportunity. Anything that could break your concentration when casting a spell can also break your concentration while you’re maintaining one, causing the spell to end. See concentration in the text.
 
 You can’t cast a spell while concentrating on another one. Some spells last for a short time after you cease concentrating.
 
@@ -301,7 +301,7 @@ Some touch spells allow you to touch multiple targets as part of the spell. You 
 
 **Discharge**: Occasionally a spells lasts for a set duration or until triggered or discharged.
 
-**(D) Dismissible**: If the duration line ends with “(D),” you can dismiss the spell at will. You must be within range of the spell’s effect and must speak words of dismissal, which are usually a modified form of the spell’s verbal component. If the spell has no verbal component, you can dismiss the effect with a gesture. Dismissing a spell is a standard action that does not provoke attacks of opportunity.
+**(D) Dismissible**: If the duration line ends with “(D),” you can dismiss the spell at will. You must be within range of the spell’s effect and must speak words of dismissal, which are usually a modified form of the spell’s verbal component. If the spell has no verbal component, you can dismiss the effect with a gesture. Dismissing a spell is a standard action (1 AP) that does not provoke attacks of opportunity.
 
 A spell that depends on concentration is dismissible by its very nature, and dismissing it does not take an action, since all you have to do to end the spell is to stop concentrating on your turn.
 
@@ -341,7 +341,7 @@ Spell resistance is a special defensive ability. If your spell is being resisted
 
 The Spell Resistance entry and the descriptive text of a spell description tell you whether spell resistance protects creatures from the spell. In many cases, spell resistance applies only when a resistant creature is targeted by the spell, not when a resistant creature encounters a spell that is already in place.
 
-The terms “object” and “harmless” mean the same thing for spell resistance as they do for saving throws. A creature with spell resistance must voluntarily lower the resistance (a standard action) in order to be affected by such spells without forcing the caster to make a caster level check.
+The terms “object” and “harmless” mean the same thing for spell resistance as they do for saving throws. A creature with spell resistance must voluntarily lower the resistance (a standard action (1 AP)) in order to be affected by such spells without forcing the caster to make a caster level check.
 
 ## Descriptive Text
 

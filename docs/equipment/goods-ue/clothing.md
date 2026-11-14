@@ -22,7 +22,7 @@ This high conical headpiece ends in a tip that usually has a piece of silk or si
 
 **Price** 1 gp; **Weight** 2 lbs.
 
-Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 Acrobatics check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the Acrobatics check rises to 15.
+Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 Acrobatics check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action (3 AP). Skating with only one is possible, but the DC of the Acrobatics check rises to 15.
 
 ### Kilt
 
@@ -76,7 +76,7 @@ This cloak has an outer layer of fabric and an inner layer of a different color.
 
 **Price** 5 gp; **Weight** 20 lb.
 
-Each ski is a flat piece of wood about 5–6 feet long for a Medium wearer, curled up slightly at the front end, with lengthwise grooves along the underside and a wooden or metal bracket with laces on top for holding the wearer’s boot in place. Wearing skis allows you to move on snow and ice at normal speed, but your movement is reduced to 5 feet on all other terrain. You normally use a pair of spiked poles to help you move and maintain balance while skiing, but javelins, shortspears, or even trimmed-down saplings will do if nothing else more suitable is available. Donning or removing a ski is a full-round action, though the laces can be cut as a move action (which requires repairing or replacing the laces if you want to use the skis again).
+Each ski is a flat piece of wood about 5–6 feet long for a Medium wearer, curled up slightly at the front end, with lengthwise grooves along the underside and a wooden or metal bracket with laces on top for holding the wearer’s boot in place. Wearing skis allows you to move on snow and ice at normal speed, but your movement is reduced to 5 feet on all other terrain. You normally use a pair of spiked poles to help you move and maintain balance while skiing, but javelins, shortspears, or even trimmed-down saplings will do if nothing else more suitable is available. Donning or removing a ski is a full-round action (3 AP), though the laces can be cut as a move action (1 AP) (which requires repairing or replacing the laces if you want to use the skis again).
 
 ### Soldier’s Uniform
 
@@ -88,5 +88,5 @@ The exact details of this item varies from country to country, but typically inc
 
 **Price** +5 gp; **Weight** —
 
-Sneaks and thieves know the value of a good disguise. The ability to remove that disguise in a hurry, thus revealing the next layer of disguise, is nearly as valuable. Tear-away clothing is generally loose fitting and allows another layer of clothing to be worn underneath. The seams on this clothing are designed to break easily, making it a simple matter (a standard action) to remove these items and walk away with none the wiser. Any outfit can be crafted as tear-away clothing for an additional price.
+Sneaks and thieves know the value of a good disguise. The ability to remove that disguise in a hurry, thus revealing the next layer of disguise, is nearly as valuable. Tear-away clothing is generally loose fitting and allows another layer of clothing to be worn underneath. The seams on this clothing are designed to break easily, making it a simple matter (a standard action (1 AP)) to remove these items and walk away with none the wiser. Any outfit can be crafted as tear-away clothing for an additional price.
 

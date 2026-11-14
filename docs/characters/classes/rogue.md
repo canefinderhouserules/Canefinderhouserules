@@ -89,7 +89,7 @@ Talents marked with an asterisk add effects to a rogue’s sneak attack. Only on
 
 *Quick Disable (Ex)*: It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round).
 
-*Resiliency (Ex)*: Once per day, a rogue with this ability can gain a number of temporary hit points equal to the rogue’s level. Activating this ability is an immediate action that can only be performed when she is brought to below 0 hit points. This ability can be used to prevent her from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls [unconscious](../../rules/appendices/conditions.md#unconscious) and is dying as normal.
+*Resiliency (Ex)*: Once per day, a rogue with this ability can gain a number of temporary hit points equal to the rogue’s level. Activating this ability is an immediate action (1 AP of your next turn) that can only be performed when she is brought to below 0 hit points. This ability can be used to prevent her from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls [unconscious](../../rules/appendices/conditions.md#unconscious) and is dying as normal.
 
 *Rogue Crawl (Ex)*: While [prone](../../rules/appendices/conditions.md#prone), a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling.
 

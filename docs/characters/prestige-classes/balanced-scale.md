@@ -53,15 +53,15 @@ At every level, the balanced scale gains new spells per day as if she had also g
 
 #### Bypass Ward (Ex)
 
-Ancient ruins often contain locked and sometimes warded doors; as such, a balanced scale can pick the lock of even a magically locked door (such as one sealed by [*arcane lock*](../../magic/spells/arcane-lock.md) or [*hold portal*](../../magic/spells/hold-portal.md)). The Disable Device DC for the door is considered 10 higher than normal due to the effect of the warding spell. A balanced scale also gains a +2 sacred bonus on Disable Device checks. As a full-round action, a balanced scale can make a Disable Device check to disable a magical trap (such as a [*glyph of warding*](../../magic/spells/glyph-of-warding.md)) for 1 minute.
+Ancient ruins often contain locked and sometimes warded doors; as such, a balanced scale can pick the lock of even a magically locked door (such as one sealed by [*arcane lock*](../../magic/spells/arcane-lock.md) or [*hold portal*](../../magic/spells/hold-portal.md)). The Disable Device DC for the door is considered 10 higher than normal due to the effect of the warding spell. A balanced scale also gains a +2 sacred bonus on Disable Device checks. As a full-round action (3 AP), a balanced scale can make a Disable Device check to disable a magical trap (such as a [*glyph of warding*](../../magic/spells/glyph-of-warding.md)) for 1 minute.
 
 #### Appraising Eye (Ex)
 
-A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action, instead of 1 minute, with no penalty.
+A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action (3 AP), instead of 1 minute, with no penalty.
 
 ??? note "Original rule"
 
-    **Appraising Eye (Ex)**: A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action, instead of 1 minute, if she takes a –10 penalty.
+    **Appraising Eye (Ex)**: A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action (3 AP), instead of 1 minute, if she takes a –10 penalty.
 
 #### Bottomless Bag (Su)
 

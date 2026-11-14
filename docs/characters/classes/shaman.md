@@ -99,11 +99,11 @@ A shaman can spontaneously cast a limited number of spells per day beyond those 
 
 A shaman learns a number of magical tricks, called hexes, which grant her powers or weaken foes. At 2nd level, a shaman learns one hex. At 4th, 8th, 10th, 12th, 16th, 18th, and 20th level, the shaman learns new hexes. A shaman can select from any of the following hexes or from any of the hexes listed in the description of her chosen spirit. A shaman cannot select a hex more than once unless noted otherwise.
 
-Using a hex is a standard action that doesn't provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
+Using a hex is a standard action (1 AP) that doesn't provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
 
 #### Chant (Ex)
 
-A shaman can chant as a move action. Any creature that is within 30 feet that is under the effects of the shaman's charm, evil eye, fortune, fury, or misfortune hex has that effect's duration extended by 1 round. A shaman cannot select both this hex and the [witch's cackle](witch.md#cackle-su) hex.
+A shaman can chant as a move action (1 AP). Any creature that is within 30 feet that is under the effects of the shaman's charm, evil eye, fortune, fury, or misfortune hex has that effect's duration extended by 1 round. A shaman cannot select both this hex and the [witch's cackle](witch.md#cackle-su) hex.
 
 #### Charm (Su)
 
@@ -139,7 +139,7 @@ The shaman receives one metamagic feat as a bonus feat. The shaman must meet the
 
 #### Shapeshift (Su)
 
-The shaman transforms herself into another form for a number of minutes per day equal to her level, as alter self. This duration does not need to be consecutive, but must be spent in 1-minute increments. Changing form (including changing back) is a standard action that doesn't provoke an attack of opportunity. At 8th level, this ability works as beast shape I. At 12th level, this ability works as beast shape II. At 16th level, this ability works as beast shape III. At 20th level, this ability works as beast shape IV.
+The shaman transforms herself into another form for a number of minutes per day equal to her level, as alter self. This duration does not need to be consecutive, but must be spent in 1-minute increments. Changing form (including changing back) is a standard action (1 AP) that doesn't provoke an attack of opportunity. At 8th level, this ability works as beast shape I. At 12th level, this ability works as beast shape II. At 16th level, this ability works as beast shape III. At 20th level, this ability works as beast shape IV.
 
 #### Tongues (Su)
 

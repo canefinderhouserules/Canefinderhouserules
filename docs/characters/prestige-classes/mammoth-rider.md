@@ -61,7 +61,7 @@ At 2nd level, a mammoth rider gains a +1 bonus on weapon attacks and damage roll
 
 #### Rapid Straddle (Ex)
 
-At 3rd level, a mammoth rider can attempt [Ride](../../rules/skills/ride.md) checks to fast mount or fast dismount her steed even if it’s more than one size category larger than her, provided she still has a move action available that round.
+At 3rd level, a mammoth rider can attempt [Ride](../../rules/skills/ride.md) checks to fast mount or fast dismount her steed even if it’s more than one size category larger than her, provided she still has a move action (1 AP) available that round.
 
 #### Rugged Steed (Ex)
 

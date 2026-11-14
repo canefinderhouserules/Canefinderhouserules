@@ -10,7 +10,7 @@ Instead of hit points, creatures using this system have a number of wound points
 
 Typically a creature has a number of wound points equal to twice its Constitution score. It also has a wound threshold equal to its Constitution score.
 
-Wound points represent the amount of physical punishment a creature can take before it dies. When a creature’s wound points drop to or below its wound threshold, that creature becomes wounded. When a creature is wounded, it gains the staggered condition until it is no longer wounded. Furthermore, when a creature is wounded, if that creature takes any standard or move action on its turn, its remaining wound points are reduced by 1 and it must make a DC 10 Constitution check. If the creature fails that check, it falls unconscious.
+Wound points represent the amount of physical punishment a creature can take before it dies. When a creature’s wound points drop to or below its wound threshold, that creature becomes wounded. When a creature is wounded, it gains the staggered condition until it is no longer wounded. Furthermore, when a creature is wounded, if that creature takes any standard or move action (1 AP) on its turn, its remaining wound points are reduced by 1 and it must make a DC 10 Constitution check. If the creature fails that check, it falls unconscious.
 
 When a creature reaches 0 or fewer wound points, it is dead.
 

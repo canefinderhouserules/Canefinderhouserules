@@ -28,9 +28,9 @@ The target of a wordspell with this effect word has its base land speed increase
 
 (harmless)
 
-Target Restrictions selected The target of a wordspell with this effect word can take one additional move action each turn. This move action can come before, after, or between other actions, but not during a full-round action.
+Target Restrictions selected The target of a wordspell with this effect word can take one additional move action (1 AP) each turn. This move action (1 AP) can come before, after, or between other actions, but not during a full-round action (3 AP).
 
-**Boost**: If the target takes a full-attack action, it can, instead of taking an extra move action, make one additional attack at its highest attack bonus.
+**Boost**: If the target takes a full-attack action, it can, instead of taking an extra move action (1 AP), make one additional attack at its highest attack bonus.
 
 ## Decelerate (Time)
 
@@ -60,7 +60,7 @@ The target of a wordspell with this effect word can look into the future of one 
 
 (harmless)
 
-Target Restrictions selected The target of a wordspell with this effect word takes either a standard action and a move action or a full-round action immediately after a wordspell with this effect word is cast. The target skips its next turn, but any effects that would occur on its turn or spell effects that would expire on its turn occur normally. The target is not [helpless](../../../rules/appendices/conditions.md#helpless) on its next turn, but can take no actions.
+Target Restrictions selected The target of a wordspell with this effect word takes either a standard action (1 AP) and a move action (1 AP) or a full-round action (3 AP) immediately after a wordspell with this effect word is cast. The target skips its next turn, but any effects that would occur on its turn or spell effects that would expire on its turn occur normally. The target is not [helpless](../../../rules/appendices/conditions.md#helpless) on its next turn, but can take no actions.
 
 **Boost**: Instead of losing its next turn, the target of a wordspell with this effect word is staggered on its next turn.
 

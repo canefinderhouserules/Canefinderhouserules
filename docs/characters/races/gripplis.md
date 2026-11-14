@@ -32,7 +32,7 @@ The following racial traits may be selected instead of existing grippli racial t
 
 **Princely**: The grippli gains proficiency with [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks. This racial trait replaces swamp stride and weapon familiarity.
 
-**Toxic Skin (Ex)**: Once per day as a swift action, a grippli can create a poison that can be applied to a weapon or delivered as a touch attack. Alternatively, the grippli can smear the poison on its own body as a standard action, affecting the first creature to hit it with an unarmed strike or natural weapon. The poison loses its potency after 1 hour. The grippli is immune to its own poison. This racial trait replaces swamp stride and camouflage.
+**Toxic Skin (Ex)**: Once per day as a swift action (1 AP), a grippli can create a poison that can be applied to a weapon or delivered as a touch attack. Alternatively, the grippli can smear the poison on its own body as a standard action (1 AP), affecting the first creature to hit it with an unarmed strike or natural weapon. The poison loses its potency after 1 hour. The grippli is immune to its own poison. This racial trait replaces swamp stride and camouflage.
 
 *Grippli Poison*: Skin or weapon—contact or injury; *save* Fort DC 10 + 1/2 the grippli’s Hit Dice plus its Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d2 Dexterity damage; *cure* 1 save.
 

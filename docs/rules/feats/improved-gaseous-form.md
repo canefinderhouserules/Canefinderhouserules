@@ -4,7 +4,7 @@ Your gaseous state is more potent than that of your peers.
 
 **Prerequisites**: Vampire.
 
-**Benefit**: As a standard action, you can assume [*gaseous form*](../../magic/spells/gaseous-form.md) at will (caster level 5th), but can remain gaseous indefinitely and have a fly speed of 20 feet with perfect maneuverability. This is a supernatural ability.
+**Benefit**: As a standard action (1 AP), you can assume [*gaseous form*](../../magic/spells/gaseous-form.md) at will (caster level 5th), but can remain gaseous indefinitely and have a fly speed of 20 feet with perfect maneuverability. This is a supernatural ability.
 
 If you already possess the gaseous form special quality, you can instead choose to augment your gaseous form in one of the following ways. These effects apply only to creatures that enter your space while you are in gaseous form.
 

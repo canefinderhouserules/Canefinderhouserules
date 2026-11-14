@@ -16,7 +16,7 @@ The following new tricks can be taught to animals by training the animal for a w
 
 **Bury (DC 15)**: An animal with this trick can be instructed to bury an object in its possession. The animal normally seeks a secluded place to bury its object. An animal with both bury and fetch can be instructed to fetch an item it has buried.
 
-**Deliver (DC 15)**: The animal takes an object (one you or an ally gives it, or that it recovers with the fetch trick) to a place or person you indicate. If you indicate a place, the animal drops the item and returns to you. If you indicate a person, the animal stays adjacent to the person until the item is taken. (Retrieving an item from an animal using the deliver trick is a move action.)
+**Deliver (DC 15)**: The animal takes an object (one you or an ally gives it, or that it recovers with the fetch trick) to a place or person you indicate. If you indicate a place, the animal drops the item and returns to you. If you indicate a person, the animal stays adjacent to the person until the item is taken. (Retrieving an item from an animal using the deliver trick is a move action (1 AP).)
 
 **Detect (DC 25)**: The animal is trained to seek out the smells of explosives and poisons, unusual noises or echoes, air currents and other common elements signifying potential dangers or secret passages. When commanded, the animal uses its Perception skill to try to pinpoint the source of anything that strikes it as unusual about a room or location. Because the animal is not intelligent, any number of strange mechanisms, doors, scents or unfamiliar objects may catch the animal's attention, and it cannot attempt the same Perception check more than once in this way.
 

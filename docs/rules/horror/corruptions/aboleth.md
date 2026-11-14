@@ -58,7 +58,7 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: You can hear the thoughts of others when you listen closely. Whenever you succeed at a Sense Motive check to get a hunch about a creature, you can attempt to read that creature's mind as if using *detect anxieties*, *detect desires*, *detect thoughts*, or *sense madness* as a standard action (revealing all the information from 3 rounds of concentration). At manifestation level 6th, you can communicate telepathically with anyone within 30 feet who shares a language with you.
+**Gift**: You can hear the thoughts of others when you listen closely. Whenever you succeed at a Sense Motive check to get a hunch about a creature, you can attempt to read that creature's mind as if using *detect anxieties*, *detect desires*, *detect thoughts*, or *sense madness* as a standard action (1 AP) (revealing all the information from 3 rounds of concentration). At manifestation level 6th, you can communicate telepathically with anyone within 30 feet who shares a language with you.
 
 **Stain**: The constant psychic noise makes it hard for you to stay focused. For 1 hour after you learn information about a creature with any divination spell or effect (including this manifestation), you take a –4 penalty on concentration and Knowledge checks.
 
@@ -66,13 +66,13 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 3rd.
 
-**Gift**: Once per day, when you succeed at a Bluff, Diplomacy, or Intimidate check against a target, you can weave a *suggestion*, as per the spell, into your conversation as a full-round action. At manifestation level 5th, you can instead use *modify memory*. At manifestation level 9th, you can instead use *dominate person*.
+**Gift**: Once per day, when you succeed at a Bluff, Diplomacy, or Intimidate check against a target, you can weave a *suggestion*, as per the spell, into your conversation as a full-round action (3 AP). At manifestation level 5th, you can instead use *modify memory*. At manifestation level 9th, you can instead use *dominate person*.
 
 **Stain**: Aboleths and their kin can read your surface thoughts by concentrating; a successful Will saving throw negates this intrusion. An aboleth or related creature can issue a *suggestion* once per day at any range to anyone whose actions are currently controlled by your mind-affecting effects, automatically overriding your control if the orders conflict.
 
 ### Unconscious Agenda
 
-**Gift**: As an immediate action once per day, when you are subjected to any compulsion effect that allows a saving throw, you can choose to reroll that saving throw after you roll but before you learn the results of your first roll. You can use this ability twice per day at manifestation level 4th, and three times per day at manifestation level 5th, but never more than once per saving throw attempt.
+**Gift**: As an immediate action (1 AP of your next turn) once per day, when you are subjected to any compulsion effect that allows a saving throw, you can choose to reroll that saving throw after you roll but before you learn the results of your first roll. You can use this ability twice per day at manifestation level 4th, and three times per day at manifestation level 5th, but never more than once per saving throw attempt.
 
 **Stain**: You become more vulnerable to mental influence from aberrations and take a –2 penalty on saving throws against compulsions from aberrations. You can still use your reroll ability against such saving throws, but the –2 penalty applies to all of your rolls.
 

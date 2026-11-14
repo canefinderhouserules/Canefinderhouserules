@@ -8,4 +8,4 @@ You are bonded with a terrifying undead mount created through foul daemonic rite
 
 **Skaveling Bat Companion**: Size Large; Speed 20 ft., fly 40 ft. (good); AC +6 natural armor; Attack bite +10 (2d8+6); Ability Scores Str 23, Dex 19, Con —, Int 2, Wis 15, Cha 14; Special Attacks screech (DC 15); Languages none.
 
-*Screech (Su)*: Once per day as a standard action, a skaveling can utter an ear-splitting screech that stuns non-skavelings in a 20-foot burst. All creatures within the area must succeed at a DC 15 Fortitude save or be [stunned 1](../appendices/conditions.md#stunned) for 1d3 rounds. Other skavelings, mobats, and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+*Screech (Su)*: Once per day as a standard action (2 AP), a skaveling can utter an ear-splitting screech that stuns non-skavelings in a 20-foot burst. All creatures within the area must succeed at a DC 15 Fortitude save or be [stunned 1](../appendices/conditions.md#stunned) for 1d3 rounds. Other skavelings, mobats, and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The save DC is Charisma-based.

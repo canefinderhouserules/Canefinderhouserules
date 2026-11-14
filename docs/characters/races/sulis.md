@@ -16,7 +16,7 @@ Sulis, or suli-jann, are the descendents of mortals and jann. They manifest thei
 
 **Negotiator**: Sulis are keen negotiators, and gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
-**Elemental Assault (Su)**: Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type.
+**Elemental Assault (Su)**: Once per day as a swift action (1 AP), a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type.
 
 **Energy Resistance 5**: Sulis have resistance to acid 5, cold 5, electricity 5, and fire 5.
 
@@ -32,7 +32,7 @@ The following racial trait may be selected instead of existing suli racial trait
 
 *Icewalk (cold)*: The suli can walk on water-based liquids as if using [*water walk*](../../magic/spells/water-walk.md), except instead of hovering above the surface, she creates a temporary layer of ice that supports her and immediately melts once she moves away from it. This ice is not slippery to the suli and does not affect her balance or speed, though other ice affects her normally. Other creatures cannot travel on this ice, but the suli may carry a creature while moving.
 
-*Shockshield (electricity)*: Once per round as an immediate action, the suli can shock a creature that touches or attacks her with a natural attack, unarmed strike, or metal melee weapon, dealing 1d6 points of electricity damage to the creature.
+*Shockshield (electricity)*: Once per round as an immediate action (1 AP of your next turn), the suli can shock a creature that touches or attacks her with a natural attack, unarmed strike, or metal melee weapon, dealing 1d6 points of electricity damage to the creature.
 
 This racial trait otherwise works like and replaces elemental assault.
 

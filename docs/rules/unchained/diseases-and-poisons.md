@@ -24,9 +24,9 @@ The disease track simulates the progression of a disease, starting with incubati
 
 **Weakened**: A character weakened by a physical disease suffers all the effects of the sickened and fatigued conditions.
 
-**Impaired**: A character impaired by a physical disease also suffers the effects of the exhausted condition. Whenever he takes a standard action, he must succeed at a Fortitude save at the same DC as the disease’s DC or lose the action and gain the nauseated condition for 1 minute.
+**Impaired**: A character impaired by a physical disease also suffers the effects of the exhausted condition. Whenever he takes a standard action (1 AP), he must succeed at a Fortitude save at the same DC as the disease’s DC or lose the action and gain the nauseated condition for 1 minute.
 
-**Disabled**: A character disabled by a physical disease gains the disabled condition. If he takes a standard action, his hit points drop by 1 or to –1, whichever is worse.
+**Disabled**: A character disabled by a physical disease gains the disabled condition. If he takes a standard action (1 AP), his hit points drop by 1 or to –1, whichever is worse.
 
 **Bedridden**: A character rendered bedridden by a physical disease is awake and can converse, but he can’t stand on his own or take any standard or move actions.
 
@@ -64,7 +64,7 @@ The poison track simulates the progressive effects of poison in the body. A char
 
 **Impaired**: A character impaired by Strength poison experiences rapid muscle atrophy. She takes an additional –2 penalty on the affected Strength-based rolls, and is always considered to be carrying at least a heavy load.
 
-**Staggered**: A character staggered by Strength poison is so weakened that she suffers the effects of the staggered condition (except she can take a full-round action if it is purely mental).
+**Staggered**: A character staggered by Strength poison is so weakened that she suffers the effects of the staggered condition (except she can take a full-round action (3 AP) if it is purely mental).
 
 **Immobile**: A character rendered immobile by Strength poison cannot move her body at all. She is helpless and can take only purely mental actions.
 
@@ -78,7 +78,7 @@ The poison track simulates the progressive effects of poison in the body. A char
 
 **Stiffened**: A character stiffened by Dexterity poison feels numb and stiff. He is considered flat-footed and is denied his Dexterity bonus to AC, even if he has uncanny dodge. He can’t make attacks of opportunity.
 
-**Staggered**: A character staggered by Dexterity poison is so slowed and stiffened that he gains all the effects of the staggered condition (except that he can take a full-round action if it is purely mental).
+**Staggered**: A character staggered by Dexterity poison is so slowed and stiffened that he gains all the effects of the staggered condition (except that he can take a full-round action (3 AP) if it is purely mental).
 
 **Immobile**: A character rendered immobile by Dexterity poison cannot move his body at all. He is helpless and can take only purely mental actions.
 
@@ -92,7 +92,7 @@ The poison track simulates the progressive effects of poison in the body. A char
 
 **Impaired**: A character impaired by Constitution poison takes an additional –2 penalty on the above checks.
 
-**Disabled**: A character disabled by Constitution poison gains the disabled condition. If she takes a standard action, her hit points drop by 1 or to –1, whichever is worse.
+**Disabled**: A character disabled by Constitution poison gains the disabled condition. If she takes a standard action (1 AP), her hit points drop by 1 or to –1, whichever is worse.
 
 **Unconscious**: A character rendered unconscious by Constitution poison enters a state of shock and can’t be woken by any means as long as she remains in this state.
 

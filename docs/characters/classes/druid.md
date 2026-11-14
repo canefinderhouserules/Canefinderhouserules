@@ -114,7 +114,7 @@ Starting at 4th level, a druid gains a +4 bonus on saving throws against the spe
 
 ### Wild Shape (Su)
 
-At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the *beast shape I* spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn’t provoke an attack of opportunity. The form chosen must be that of an animal with which the druid is familiar.
+At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the *beast shape I* spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action (1 AP) and doesn’t provoke an attack of opportunity. The form chosen must be that of an animal with which the druid is familiar.
 
 A druid loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
 
@@ -193,7 +193,7 @@ An animal companion’s abilities are determined by the druid’s level and its 
 
 **Special**: This includes a number of abilities gained by animal companions as they increase in power. Each of these bonuses is described below.
 
-*Link (Ex):* A druid can handle her animal companion as a free action, or push it as a move action, even if she doesn’t have any ranks in the Handle Animal skill. The druid gains a +4 circumstance bonus on all wild empathy checks and Handle Animal checks made regarding an animal companion.
+*Link (Ex):* A druid can handle her animal companion as a free action, or push it as a move action (1 AP), even if she doesn’t have any ranks in the Handle Animal skill. The druid gains a +4 circumstance bonus on all wild empathy checks and Handle Animal checks made regarding an animal companion.
 
 *Share Spells (Ex):* The druid may cast a spell with a target of “You” on her animal companion (as a spell with a range of touch) instead of on herself. A druid may cast spells on her animal companion even if the spells normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come from a class that grants an animal companion. This ability does not allow the animal to share abilities that are not spells, even if they function like spells.
 

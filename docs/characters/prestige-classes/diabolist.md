@@ -89,4 +89,4 @@ At 8th level, the imp can choose two more at-will spell-like abilities from the 
 
 **Hellfire Ray (Sp)**: At 8th level, a diabolist can cast [*hellfire ray*](../../magic/spells/hellfire-ray.md) twice per day as a spell-like ability.
 
-**Master Conjurer (Ex)**: At 10th level, when a diabolist calls a devil whose name she knows, she can cast the calling spell as a standard action and bargain with the devil as a move action. She adds half her [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), or Intimidate modifier to the bargaining Charisma check (if any).
+**Master Conjurer (Ex)**: At 10th level, when a diabolist calls a devil whose name she knows, she can cast the calling spell as a standard action (1 AP) and bargain with the devil as a move action (1 AP). She adds half her [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), or Intimidate modifier to the bargaining Charisma check (if any).

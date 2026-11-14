@@ -32,7 +32,7 @@ The following are new armor or shield special abilities. See the armor rules in 
 
 *Aura* moderate transmutation; *CL* 8th; *Slot* none; *Price* +4,500 gp; *Weight* —
 
-Armor with this special ability grants its wearer a +5 competence bonus on Escape Artist checks and to CMD against grapple combat maneuvers. Additionally, once per day on command, the wearer (along with any gear she is wearing) can take the form of viscous liquid that can pass through any space through which thick mud could reasonably flow. While using this ability, the wearer's speed is reduced by 10 feet, and she can take only move actions. The wearer can take this form for 1 minute or until she spends a move action to return to her normal form. Amorphous armor must be made primarily of leather, fabric, or another flexible, organic material.
+Armor with this special ability grants its wearer a +5 competence bonus on Escape Artist checks and to CMD against grapple combat maneuvers. Additionally, once per day on command, the wearer (along with any gear she is wearing) can take the form of viscous liquid that can pass through any space through which thick mud could reasonably flow. While using this ability, the wearer's speed is reduced by 10 feet, and she can take only move actions. The wearer can take this form for 1 minute or until she spends a move action (1 AP) to return to her normal form. Amorphous armor must be made primarily of leather, fabric, or another flexible, organic material.
 
 *Construction* Craft Magic Arms and Armor, *fluid form*; Cost 2,250 gp.
 
@@ -48,7 +48,7 @@ Burdenless armor distributes the weight of the wearer's load more efficiently, a
 
 *Aura* faint enchantment; *CL* 5th; *Slot* none; *Price* +1 bonus; *Weight* —
 
-Calming armor is dyed or stained a soothing color, usually blue. As a swift action, the wearer can create a 5-foot aura around her that quiets the emotions of any agitated opponent threatening her. A creature that is raging or under an emotion effect must succeed at a DC 15 Will saving throw or those effects are suppressed (but not dispelled) for as long as the aura persists. The aura can be used up to 10 rounds each day, though the rounds don't need to be consecutive. Ending the aura is a swift action.
+Calming armor is dyed or stained a soothing color, usually blue. As a swift action (1 AP), the wearer can create a 5-foot aura around her that quiets the emotions of any agitated opponent threatening her. A creature that is raging or under an emotion effect must succeed at a DC 15 Will saving throw or those effects are suppressed (but not dispelled) for as long as the aura persists. The aura can be used up to 10 rounds each day, though the rounds don't need to be consecutive. Ending the aura is a swift action (1 AP).
 
 *Construction* Craft Magic Arms and Armor, *calm emotions*; Cost +1 bonus.
 
@@ -56,7 +56,7 @@ Calming armor is dyed or stained a soothing color, usually blue. As a swift acti
 
 *Aura* moderate evocation; *CL* 6th; *Slot* none; *Price* +2 bonus; *Weight* —
 
-A shield or set of armor with this ability causes unpleasant resonant vibrations in weapons that strike its wearer. As an immediate action up to three times per day, when the wearer is hit by a melee attack made with a weapon, he can activate the armor or shield to send jarring vibrations back through the weapon. The attacker must succeed at a DC 16 Fortitude saving throw or become dazed for 1 round.
+A shield or set of armor with this ability causes unpleasant resonant vibrations in weapons that strike its wearer. As an immediate action (1 AP of your next turn) up to three times per day, when the wearer is hit by a melee attack made with a weapon, he can activate the armor or shield to send jarring vibrations back through the weapon. The attacker must succeed at a DC 16 Fortitude saving throw or become dazed for 1 round.
 
 *Construction* Craft Magic Arms and Armor, *shatter*; Cost +2 bonus.
 
@@ -88,7 +88,7 @@ A suit of *spell dodging* armor makes it more difficult for attacks from spells 
 
 *Aura* moderate enchantment; *CL* 7th; *Slot* none; *Price* +7,000 gp; *Weight* —
 
-This armor's ability functions only if its wearer has the panache class feature. When a melee attack made by an enemy within the wearer's melee reach would reduce the wearer to fewer than 0 hit points, the wearer can spend 1 panache point as an immediate action. This allows her to make a single melee attack against the creature that reduced her to 0 hit points or fewer. This occurs prior to the wearer falling unconscious or dead.
+This armor's ability functions only if its wearer has the panache class feature. When a melee attack made by an enemy within the wearer's melee reach would reduce the wearer to fewer than 0 hit points, the wearer can spend 1 panache point as an immediate action (1 AP of your next turn). This allows her to make a single melee attack against the creature that reduced her to 0 hit points or fewer. This occurs prior to the wearer falling unconscious or dead.
 
 *Construction* Craft Magic Arms and Armor, *haste*; Cost 3,500 gp.
 
@@ -133,7 +133,7 @@ The following section includes armors and shields with unusual powers and magica
 
 *Aura* moderate necromancy; *CL* 9th; *Slot* shield; *Price* 8,158 gp; *Weight* 8 lbs.
 
-This shield is made of bone and ivory, but has been imbued with magic to function as a *+2 mithral heavy steel shield* (though it is not considered to be made of metal). The shield has stylized animal claws encircling its outer rim. If the wearer is grappled, pinned, or swallowed whole, as a standard action he can cause the claws to animate and make a single melee attack dealing 1d8 points of damage + the wielder's Strength modifier (1d6 + his Strength modifier for a Small wielder) without requiring a successful combat maneuver check to do so. This is considered a weapon attack with a one-handed weapon the wielder is proficient with, not a shield bash.
+This shield is made of bone and ivory, but has been imbued with magic to function as a *+2 mithral heavy steel shield* (though it is not considered to be made of metal). The shield has stylized animal claws encircling its outer rim. If the wearer is grappled, pinned, or swallowed whole, as a standard action (1 AP) he can cause the claws to animate and make a single melee attack dealing 1d8 points of damage + the wielder's Strength modifier (1d6 + his Strength modifier for a Small wielder) without requiring a successful combat maneuver check to do so. This is considered a weapon attack with a one-handed weapon the wielder is proficient with, not a shield bash.
 
 Additionally, the claws can animate to perform the somatic components of a spell as long as the arm holding the shield would be able to provide these components if it weren't carrying a shield. As a result, the shield has no arcane spell failure chance.
 

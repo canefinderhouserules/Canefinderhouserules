@@ -186,7 +186,7 @@ Any special benefits or accessories to the types of armor found on Table 6–6 a
 
 4 Hand not free to cast spells.
 
-It provides a +10 bonus to your Combat Maneuver Defense to keep from being disarmed in combat. Removing a weapon from a locked gauntlet or attaching a weapon to a locked gauntlet is a full-round action that provokes attacks of opportunity.
+It provides a +10 bonus to your Combat Maneuver Defense to keep from being disarmed in combat. Removing a weapon from a locked gauntlet or attaching a weapon to a locked gauntlet is a full-round action (3 AP) that provokes attacks of opportunity.
 
 The price given is for a single locked gauntlet. The weight given applies only if you’re wearing a breastplate, light armor, or no armor. Otherwise, the locked gauntlet replaces a gauntlet you already have as part of the armor.
 
@@ -229,7 +229,7 @@ Like a normal gauntlet, a locked gauntlet lets you deal lethal damage rather tha
 
 2 The wearer must have help to don this armor. Without help, it can be donned only hastily.
 
-**Shield, Tower**: This massive wooden shield is nearly as tall as you are. In most situations, it provides the indicated shield bonus to your AC. As a standard action, however, you can use a tower shield to grant you total cover until the beginning of your next turn. When using a tower shield in this way, you must choose one edge of your space. That edge is treated as a solid wall for attacks targeting you only. You gain total cover for attacks that pass through this edge and no cover for attacks that do not pass through this edge. The shield does not, however, provide cover against targeted spells; a spellcaster can cast a spell on you by targeting the shield you are holding. You cannot bash with a tower shield, nor can you use your shield hand for anything else.
+**Shield, Tower**: This massive wooden shield is nearly as tall as you are. In most situations, it provides the indicated shield bonus to your AC. As a standard action (1 AP), however, you can use a tower shield to grant you total cover until the beginning of your next turn. When using a tower shield in this way, you must choose one edge of your space. That edge is treated as a solid wall for attacks targeting you only. You gain total cover for attacks that pass through this edge and no cover for attacks that do not pass through this edge. The shield does not, however, provide cover against targeted spells; a spellcaster can cast a spell on you by targeting the shield you are holding. You cannot bash with a tower shield, nor can you use your shield hand for anything else.
 
 When employing a tower shield in combat, you take a –2 penalty on attack rolls because of the shield’s encumbrance.
 
@@ -277,8 +277,8 @@ Armor and shields for unusually big creatures, unusually little creatures, and n
 
 The time required to don armor depends on its type; see Table 6–7.
 
-**Don**: This column tells how long it takes a character to put the armor on. (One minute is 10 rounds.) Readying (strapping on) a shield is only a move action.
+**Don**: This column tells how long it takes a character to put the armor on. (One minute is 10 rounds.) Readying (strapping on) a shield is only a move action (1 AP).
 
 **Don Hastily**: This column tells how long it takes to put the armor on in a hurry. The armor check penalty and armor bonus for hastily donned armor are each 1 point worse than normal.
 
-**Remove**: This column tells how long it takes to get the armor off. Removing a shield from the arm and dropping it is only a move action.
+**Remove**: This column tells how long it takes to get the armor off. Removing a shield from the arm and dropping it is only a move action (1 AP).

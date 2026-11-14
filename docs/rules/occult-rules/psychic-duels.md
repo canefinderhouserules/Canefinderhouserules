@@ -4,7 +4,7 @@
 
 A psychic spellcaster creates a binary mindscape when a target fails its save against instigate psychic duel. The caster’s and target’s minds are then merged in a psychic duel within that mindscape until either the spell’s duration ends or the psychic duel reaches its conclusion. If the duel begins during combat, each of the dueling characters retains its initiative order and the psychic duel goes on in conjunction with the initial combat.
 
-If the duel begins outside combat, the initiator can take a swift action to create a supernatural effect called a psychic manifestation (see below) upon entering the binary mindscape, before her opponent’s first turn.
+If the duel begins outside combat, the initiator can take a swift action (1 AP) to create a supernatural effect called a psychic manifestation (see below) upon entering the binary mindscape, before her opponent’s first turn.
 
 While locked in a psychic duel, the combatants’ physical bodies become unresponsive. They retain their positions, but they can take no actions and lose their Dexterity bonuses to Armor Class for the duration of the duel.
 
@@ -84,7 +84,7 @@ If the manifestation allows a saving throw, the creator can spend additional MP 
 
 **Dazed (4 MP)**: The affected creatures are dazed for 1 round. A dazed combatant can continue to concentrate on thought-form creatures and create defensive manifestations, but can’t create thought-form creatures or offensive manifestations. This condition can be applied only to manifestations that require Will saves.
 
-**Entangled (2 MP)**: The affected creatures are entangled until they take a full-round action to end this condition. This condition can be applied only to manifestations that require Reflex saves.
+**Entangled (2 MP)**: The affected creatures are entangled until they take a full-round action (3 AP) to end this condition. This condition can be applied only to manifestations that require Reflex saves.
 
 **Nauseated (4 MP)**: The affected creatures are nauseated 1 for 1 round. A nauseated creature can create only defensive manifestations. This condition can be applied only to manifestations that require Fortitude saves.
 
@@ -94,23 +94,23 @@ If the manifestation allows a saving throw, the creator can spend additional MP 
 
 Defensive manifestations protect a combatant from her opponent’s manifestations. A combatant in a psychic duel can manifest the following defensive abilities.
 
-**Evasive Mind (1 or more MP; swift action)**: The combatant gains a +2 bonus on all saving throws and gains evasion for a number of rounds equal to the number of MP she spent to create this manifestation.
+**Evasive Mind (1 or more MP; swift action (1 AP))**: The combatant gains a +2 bonus on all saving throws and gains evasion for a number of rounds equal to the number of MP she spent to create this manifestation.
 
-**Hardened Mind (1 to 4 MP; swift action)**: For 1 round, the combatant’s Armor Class increases by an amount equal to the number of MP she spent to create this manifestation, and her touch AC increases by half that (minimum +0).
+**Hardened Mind (1 to 4 MP; swift action (1 AP))**: For 1 round, the combatant’s Armor Class increases by an amount equal to the number of MP she spent to create this manifestation, and her touch AC increases by half that (minimum +0).
 
-**Thought Barrier (1 or more MP; swift action)**: A thought barrier reduces the damage dealt to the combatant by offensive manifestations and thought-form creatures by 5 points. This manifestation lasts for a number of rounds equal to the number of MP the combatant spent to create it.
+**Thought Barrier (1 or more MP; swift action (1 AP))**: A thought barrier reduces the damage dealt to the combatant by offensive manifestations and thought-form creatures by 5 points. This manifestation lasts for a number of rounds equal to the number of MP the combatant spent to create it.
 
-**Disruptive Counter (variable MP; immediate action)**: When the combatant’s opponent creates a manifestation, the combatant can spend a number of MP equal to that manifestation’s cost + 2 to counter that manifestation.
+**Disruptive Counter (variable MP; immediate action (1 AP of your next turn))**: When the combatant’s opponent creates a manifestation, the combatant can spend a number of MP equal to that manifestation’s cost + 2 to counter that manifestation.
 
 When she does, any currently active thought-form creatures or defensive manifestations she has are dismissed.
 
-**Nimble Mind (2 MP; immediate action)**: When the combatant is attacked with an offensive manifestation that targets her touch AC, this ability changes it to target her full AC.
+**Nimble Mind (2 MP; immediate action (1 AP of your next turn))**: When the combatant is attacked with an offensive manifestation that targets her touch AC, this ability changes it to target her full AC.
 
-**Psychic Redirect (1 MP; immediate action)**: When the combatant would take damage while she has a thought-form creature active, she can use this ability to apply the damage to her thought-form creature instead. If the attack targets both the combatant and the thought-form creature, the thought-form creature takes the damage for both itself and the combatant and suffers any condition conferred by the attack, but the combatant suffers no effects.
+**Psychic Redirect (1 MP; immediate action (1 AP of your next turn))**: When the combatant would take damage while she has a thought-form creature active, she can use this ability to apply the damage to her thought-form creature instead. If the attack targets both the combatant and the thought-form creature, the thought-form creature takes the damage for both itself and the combatant and suffers any condition conferred by the attack, but the combatant suffers no effects.
 
 ### Thought-Form Creature (1-Round Action)
 
-A thought-form creature is a mentally constructed thrall that takes any form its creator desires. Creating a thought-form creature takes 1 full round (as if the creator were casting a spell with a 1-round casting time) and lasts as long as its creator concentrates on the creature’s existence as a full-round action; a combatant can manifest only one thought-form creature at a time. A thought-form creature must make its attacks against another thought-form creature if one is manifested; if not, it can attack its creator’s opponent. The creature makes its attacks when its creator uses a full-round action to concentrate on the thought-form creature. When a thought-from creature is reduced to 0 or fewer hit points, it disappears and its creator takes an amount of damage equal to the thought-form creature’s psychic backlash (see Thought-Form Creature Statistics below). A thought-form creature can be dismissed as a free action.
+A thought-form creature is a mentally constructed thrall that takes any form its creator desires. Creating a thought-form creature takes 1 full round (as if the creator were casting a spell with a 1-round casting time) and lasts as long as its creator concentrates on the creature’s existence as a full-round action (3 AP); a combatant can manifest only one thought-form creature at a time. A thought-form creature must make its attacks against another thought-form creature if one is manifested; if not, it can attack its creator’s opponent. The creature makes its attacks when its creator uses a full-round action (3 AP) to concentrate on the thought-form creature. When a thought-from creature is reduced to 0 or fewer hit points, it disappears and its creator takes an amount of damage equal to the thought-form creature’s psychic backlash (see Thought-Form Creature Statistics below). A thought-form creature can be dismissed as a free action.
 
 A basic thought-form creature costs 1 MP to create, and has the following base statistics.
 
@@ -136,4 +136,4 @@ Increasing the cost by an additional 2 MP grants it a third attack, but the crea
 
 ## Concluding a Psychic Duel
 
-There are a number of ways a psychic duel can conclude and the combatants’ minds can return to their bodies (aside from the end of the instigate psychic duel spell that started the combat). The duel ends immediately if one of the combatants reaches 0 or fewer hit points or both combatants agree to end the psychic duel. Each combatant can make this agreement as a free action that can be taken even when it isn’t that combatant’s turn. Rarely, a spell or ability can allow combatants to leave a psychic duel. For instance, unlike most spells, mindscape door can be cast while in a psychic duel, allowing the caster to leave the mindscape and end the duel. Lastly, a creature adjacent to the body of a combatant can attempt to shake that creature out of its torpor as a standard action. Doing so is a melee touch attack that deals no damage but allows the combatant to attempt a new saving throw against the effect that started the psychic duel. If the check is successful, the mind of the roused creature returns to its body and the duel ends. A creature in a psychic duel can attempt no more than one additional save per round in this way.
+There are a number of ways a psychic duel can conclude and the combatants’ minds can return to their bodies (aside from the end of the instigate psychic duel spell that started the combat). The duel ends immediately if one of the combatants reaches 0 or fewer hit points or both combatants agree to end the psychic duel. Each combatant can make this agreement as a free action that can be taken even when it isn’t that combatant’s turn. Rarely, a spell or ability can allow combatants to leave a psychic duel. For instance, unlike most spells, mindscape door can be cast while in a psychic duel, allowing the caster to leave the mindscape and end the duel. Lastly, a creature adjacent to the body of a combatant can attempt to shake that creature out of its torpor as a standard action (1 AP). Doing so is a melee touch attack that deals no damage but allows the combatant to attempt a new saving throw against the effect that started the psychic duel. If the check is successful, the mind of the roused creature returns to its body and the duel ends. A creature in a psychic duel can attempt no more than one additional save per round in this way.

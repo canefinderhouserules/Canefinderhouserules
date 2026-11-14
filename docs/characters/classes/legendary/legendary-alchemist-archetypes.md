@@ -4,7 +4,7 @@
 
 *Alchemist tend to stick to earthly knowledge, leaving the forbidden lore of the stars to others with more curiosity than bravery, and yet alienists not only seek this knowledge, but its most horrid teachers. Forming bonds with eldritch horrors, alienists give these waking nightmares form through forbidden rituals, allowing them to exist in our reality.*
 
-**Nightmare Summoner (Su):** The alienist adds *summon monster I*-VI to their formulae list, being able to prepare them without their formulae book. Rather than imbibing this extract, the alienist tosses it as a standard action to a square within 30 feet of themselves, the extract bubbling up before taking the form of a summoned monster of the alienist’s choice known as a summoned horror. The summoned horror only vaguely resembles the creature it is intended to be, looking somehow wrong to all observers except for the alienist and is treated as an aberration for the purpose of effects which would benefit it. Preparing this extract is in effect forming a pact with a specific unique creature from another dimension, causing its soul to temporarily inhabit a body made of alchemical slurry of the alienist’s choice, the creature’s form normally being one that could not exist within reality. Due to this reason, the alienist cannot choose to summon multiple creatures with an extract, even if it would normally be allowed (such as being able to use summon monster II to summon 1d3 creatures from the summon monster I list). A creature summoned through this ability lasts for 1 minute per alienist level. The square (or squares if the creature is larger than Medium) that the monster was summoned to becomes difficult terrain and blocks line of sight for all creatures except the summoned horror and the alienist for a number of minutes equal to the alienist’s intelligence modifier. An alienist cannot summon more than one creature at a time, attempting to do so will cause the extract to fail.
+**Nightmare Summoner (Su):** The alienist adds *summon monster I*-VI to their formulae list, being able to prepare them without their formulae book. Rather than imbibing this extract, the alienist tosses it as a standard action (1 AP) to a square within 30 feet of themselves, the extract bubbling up before taking the form of a summoned monster of the alienist’s choice known as a summoned horror. The summoned horror only vaguely resembles the creature it is intended to be, looking somehow wrong to all observers except for the alienist and is treated as an aberration for the purpose of effects which would benefit it. Preparing this extract is in effect forming a pact with a specific unique creature from another dimension, causing its soul to temporarily inhabit a body made of alchemical slurry of the alienist’s choice, the creature’s form normally being one that could not exist within reality. Due to this reason, the alienist cannot choose to summon multiple creatures with an extract, even if it would normally be allowed (such as being able to use summon monster II to summon 1d3 creatures from the summon monster I list). A creature summoned through this ability lasts for 1 minute per alienist level. The square (or squares if the creature is larger than Medium) that the monster was summoned to becomes difficult terrain and blocks line of sight for all creatures except the summoned horror and the alienist for a number of minutes equal to the alienist’s intelligence modifier. An alienist cannot summon more than one creature at a time, attempting to do so will cause the extract to fail.
 
 At 5th level, the summoned horror can be 1 level higher than the extract’s level (a 5th level alienist who used a summon monster II extract could instead summon a creature as though using summon monster III). At 11th level, the summoned monster can be 2 levels higher than the extract’s level. At 17th level, summoned monster can be 3 levels higher than the extract’s level.
 
@@ -24,7 +24,7 @@ At 5th level, the summoned horror can be 1 level higher than the extract’s lev
 
 *This ability replaces swift alchemy and instant alchemy.*
 
-**Shared Essence (Su):** An alienist’s summoned horror can use quintessence surge as long as the alienist is not currently affected by that ability, using the alchemist’s quintessence as though it was their own. If they do, the alchemist heals an amount of hit points equal to 1/2 their class level and cannot use their quintessence surge until its effects on their summoned horror ends. In addition, as long as either the alienist or their summoned creature is under the effects of quintessence surge and within 120 feet of the square the summoned horror was summoned, they can teleport to that square as a move action.
+**Shared Essence (Su):** An alienist’s summoned horror can use quintessence surge as long as the alienist is not currently affected by that ability, using the alchemist’s quintessence as though it was their own. If they do, the alchemist heals an amount of hit points equal to 1/2 their class level and cannot use their quintessence surge until its effects on their summoned horror ends. In addition, as long as either the alienist or their summoned creature is under the effects of quintessence surge and within 120 feet of the square the summoned horror was summoned, they can teleport to that square as a move action (1 AP).
 
 *This alters quintessence surge.*
 
@@ -32,7 +32,7 @@ At 5th level, the summoned horror can be 1 level higher than the extract’s lev
 
 *This ability replaces discipline defense.*
 
-**Unbound Step (Su):** At 10th level, whenever an alienist or their summoned horror is under the effects of quintessence surge, they can teleport up to 30 feet per round as a move action.
+**Unbound Step (Su):** At 10th level, whenever an alienist or their summoned horror is under the effects of quintessence surge, they can teleport up to 30 feet per round as a move action (1 AP).
 
 *This ability replaces poison immunity.*
 
@@ -66,7 +66,7 @@ Instead of the elemental’s slam being treated as adamantine for the purpose of
 
 - *Wood*: grab
 
-The alchemical binding of elemental to alchemist limits the elemental’s freedom, and so it is limited to taking a single move action per round unless commanded, just as an automaton.
+The alchemical binding of elemental to alchemist limits the elemental’s freedom, and so it is limited to taking a single move action (1 AP) per round unless commanded, just as an automaton.
 
 If an archaic philosopher releases their bound elemental, they may gain a new one by performing a ceremony requiring 24 uninterrupted hours of meditation and alchemical experimentation in an environment infused with that element (e.g. a forge for a metal elemental, a river for a water elemental, or a laboratory filled with candles, braziers, and open flames). The ceremony requires rare reagents with a cost of 100 gp. This ceremony can also replace a bound elemental that has perished.
 
@@ -76,7 +76,7 @@ If an archaic philosopher releases their bound elemental, they may gain a new on
 
 *Assimilating Command (Ex):* At 5th level, when an archaic philosopher spends quintessence to command their bound elemental, they gain 10 temporary hit points and a +2 bonus to saving throws against paralysis, poison, sleep effects, and stunning. These temporary hit points and bonuses last for a number of rounds equal to the tinker alchemist’s Intelligence modifier. They increase to 20 temporary hit points and +4 at 10th level and 30 temporary hit points and +6 at 20th level.
 
-*Life Link (Ex):* At 11th level, as an immediate action when either the archaic philosopher or their bound elemental would take damage, the archaic philosopher may divide the damage taken between the two in any way they wish. This occurs before the damage is taken and so may prevent either from dying due to damage taken.
+*Life Link (Ex):* At 11th level, as an immediate action (1 AP of your next turn) when either the archaic philosopher or their bound elemental would take damage, the archaic philosopher may divide the damage taken between the two in any way they wish. This occurs before the damage is taken and so may prevent either from dying due to damage taken.
 
 *Gentle Fetters (Ex):* At 17th level, an archaic philosopher no longer needs to spend quintessence to command their bound elemental as a free action. If they have Assimilating Command, they gain the bonuses from that breakthrough whenever they command their automaton.
 
@@ -151,7 +151,7 @@ Size Medium; Speed 30 ft.; AC +2 natural armor; Attack slam (1d6); Saves Fort (b
 *More attuned to nature than the more abstract forms other alchemists take, beastborn shifters focus on more traditional forms, instead trying to perfect their own evolution.*
 
 **Bestial Transformation (Su):** At 1st level, beastborn shifters gain the ability to turn themselves into any small or Medium animal and back again, although they are limited to the following forms; badger, bird, camel, cat (small), dire rat, dog, dolphin, horse, manta ray, pony, snake (viper or constrictor), or wolf. This ability functions like the *beast shape I* spell, except as noted here. The effect lasts for a number of hours equal to their beastborn shifter class level + their Intelligence modifier (minimum 1), and they split the duration of this ability however they want. Each use of this ability uses up at least an hour of its duration, regardless of how long they stay in it. A beastborn shifter can change form while in their bestial transformation but doing so reduces their total duration by 1 hour. Bestial transformation is treated as wild shape for the purpose of feats which would affect it.
-A beastborn shifter loses their ability to speak while in animal form because they are limited to the sounds that a normal, untrained animal can make, but they can communicate normally with other animals of the same general grouping as their new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.) In addition, a beastborn shifter can change their form while in bestial transformation as a standard action a number of times per day equal to 1/2 their character level + their Intelligence modifier (minimum 1); doing so does not consume any duration of their bestial transformation ability. At 3rd level, a beastborn shifter is no longer limited in which forms they can take from the options provided by beast shape I.
+A beastborn shifter loses their ability to speak while in animal form because they are limited to the sounds that a normal, untrained animal can make, but they can communicate normally with other animals of the same general grouping as their new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.) In addition, a beastborn shifter can change their form while in bestial transformation as a standard action (1 AP) a number of times per day equal to 1/2 their character level + their Intelligence modifier (minimum 1); doing so does not consume any duration of their bestial transformation ability. At 3rd level, a beastborn shifter is no longer limited in which forms they can take from the options provided by beast shape I.
 
 At 6th level, a beastborn shifter can use bestial transformation to change into a Large or Tiny animal. When taking the form of an animal, a beastborn shifter’s bestial transformation now functions as beast shape II. At 8th level, a beastborn shifter can use bestial transformation to change into a Huge or Diminutive animal or a small or medium magical beast. When taking the form of animals or magical beasts, a beastborn shifter’s shifter shape now functions as beast shape III. At 12th level, a beastborn shifter can use bestial transformation to transform into a Tiny or Large magical beast. When taking the form of magical beasts, a beastborn shifter’s bestial transformation now functions as beast shape IV. At 16th level, a beastborn shifter can use bestial transformation to transform into a Diminutive or Huge magical beast. When taking the form of magical beasts, a beastborn shifter’s bestial transformation now functions as magical beast shape I.
 
@@ -179,7 +179,7 @@ At 6th level, a beastborn shifter can use bestial transformation to change into 
 
 *Gunslinger’s Reflexes:* At 1st level, the black powder researcher gains an uncanny knack for knowing how to avoid attacks. As long as the black powder researcher has at least 1 point of quintessence, they do not provoke attacks of opportunity for firing or reloading a firearm.
 
-*Quick Clear*: At 1st level, as a standard action, the black powder researcher can remove the broken condition from a single firearm they are currently wielding, as long as that condition was gained by a firearm misfire. The black powder researcher must have at least 1 point of quintessence to perform this deed. Alternatively, if the black powder researcher spends 1 quintessence to perform this deed, they can perform quick clear as a move action instead of a standard action.
+*Quick Clear*: At 1st level, as a standard action (1 AP), the black powder researcher can remove the broken condition from a single firearm they are currently wielding, as long as that condition was gained by a firearm misfire. The black powder researcher must have at least 1 point of quintessence to perform this deed. Alternatively, if the black powder researcher spends 1 quintessence to perform this deed, they can perform quick clear as a move action (1 AP) instead of a standard action.
 
 *Ricochet Shot:* At 5th level, the black powder researcher can make a surprise attack, being able fire a shot at a wall or piece of solid terrain, and have it ricochet off. When they do, they use the square immediately in front of the wall or piece of solid terrain to determine line of sight to a target, and this square is considered the new origin square of the attack, although their attack roll takes a -2 penalty. The attack uses that square to determine the effects of cover, and the black powder researcher’s own square to determine the effects of concealment. The black powder researcher can make this shot as long as they have at least 1 grit point. When making this shot, they can spend 1 quintessence to ignore the effects of all cover or concealment. The black powder researcher must choose to spend the quintessence before they make the attack roll.
 
@@ -237,7 +237,7 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 
 **Reality Impressor (Ex):** The esotericist uses Charisma for all alchemist class features that would normally use Intelligence.
 
-**Magnetic Surge (Su):** At 4th level, the esotericist can spend 1 quintessence as a swift action. If they do, they gain a +1 alchemical bonus to the caster level of the next spell they cast before the end of their next turn. At 8th level and every four levels afterwards, this alchemical bonus increases by 1 (to a maximum of +5 at 20th level).
+**Magnetic Surge (Su):** At 4th level, the esotericist can spend 1 quintessence as a swift action (1 AP). If they do, they gain a +1 alchemical bonus to the caster level of the next spell they cast before the end of their next turn. At 8th level and every four levels afterwards, this alchemical bonus increases by 1 (to a maximum of +5 at 20th level).
 
 *This ability replaces quintessence surge.*
 
@@ -273,7 +273,7 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 
 *This replaces the discipline breakthrough at 16th level.*
 
-**Perfect Palette (Ex):** At 19th level, a gourmand’s palette becomes so refined, they can identify the properties of anything that touches their tongue. The gourmand automatically identifies any alchemical substance, potion, or the properties of any food or beverage they taste. In addition, as an immediate action they can spit out any such substance, such as an ingested poison or diseased food.
+**Perfect Palette (Ex):** At 19th level, a gourmand’s palette becomes so refined, they can identify the properties of anything that touches their tongue. The gourmand automatically identifies any alchemical substance, potion, or the properties of any food or beverage they taste. In addition, as an immediate action (1 AP of your next turn) they can spit out any such substance, such as an ingested poison or diseased food.
 
 *This replaces the discipline defence at 19th level.*
 
@@ -317,7 +317,7 @@ These alternative class features can be taken in place of alchemical weapon.
 
 **Alchemical Weapon Transformation (Ex)** At 3rd level, a legendary alchemist can spend 1 minute to transform an alchemist fire into a melee weapon of their choice which is sized for them. This weapon only deals fire damage equal to the weapon’s normal damage, but does not gain the alchemist’s Strength modifier to damage, instead gaining the legendary alchemist’s Intelligence modifier to damage (minimum 1). After a number of minutes equal to the legendary alchemist’s Intelligence modifier, this weapon melts into inert alchemical slime.
 
-**Firebreather (Ex)**: At 3rd level, the legendary alchemist can ingest a dose of a single splash weapon as a move action. Once within a number of rounds equal to their Intelligence modifier (minimum 1), they may breathe it out in a 15-foot cone as a standard action that provokes attacks of opportunity.
+**Firebreather (Ex)**: At 3rd level, the legendary alchemist can ingest a dose of a single splash weapon as a move action (1 AP). Once within a number of rounds equal to their Intelligence modifier (minimum 1), they may breathe it out in a 15-foot cone as a standard action (1 AP) that provokes attacks of opportunity.
 
 All within the area are affected as if struck with the splash weapon. If a target succeeds on a Reflex saving throw (DC 10 + 1/2 the legendary alchemist’s level + their Intelligence modifier) they are instead affected as if by the splash damage (if any). The legendary alchemist may add their Intelligence modifier to the damage if they have the throw anything class feature.
 
@@ -353,7 +353,7 @@ This bonus cannot exceed the martial analyst’s class level.
 
 **Power Gauntlet (Ex):** At 2nd level, the martial analyst gains the ability to create a unique alchemical gauntlet known as a power gauntlet, gaining proficiency with this weapon. No other creature is proficient in its use and treats it as a gauntlet. This unique item is treated as a masterwork alchemical gauntlet; however, it deals damage equal to the martial analyst’s unarmed damage. This gauntlet can be enhanced as a normal item, and the martial analyst can do so by sacrificing gold or valuable items equal to the cost of the enhancement and spending 1 day in study, successfully enhancing her weapon without fail. If the gauntlet is destroyed, the martial analyst can spend 1 day and gp equal to her level x 50 to create a new one.
 
-A power gauntlet also has a unique reservoir that can be filled as a move action, allowing it to be filled with a liquid or powdered alchemical item (including a toxin); the alchemical item takes full effect on the next creature struck by the weapon, but does not splash, spread, affect additional targets, or benefit from any other effects that specifically affect splash weapons. Any extra damage added is not doubled on a critical hit. At 6th level and every six levels afterwards, the martial analyst can add an additional reservoir to their power gauntlet, allowing them to store an additional alchemical item. At 6th level, this reservoir can be filled as a swift action.
+A power gauntlet also has a unique reservoir that can be filled as a move action (1 AP), allowing it to be filled with a liquid or powdered alchemical item (including a toxin); the alchemical item takes full effect on the next creature struck by the weapon, but does not splash, spread, affect additional targets, or benefit from any other effects that specifically affect splash weapons. Any extra damage added is not doubled on a critical hit. At 6th level and every six levels afterwards, the martial analyst can add an additional reservoir to their power gauntlet, allowing them to store an additional alchemical item. At 6th level, this reservoir can be filled as a swift action (1 AP).
 
 *This ability replaces alchemical weapon, poison resistance +4, and poison immunity.*
 
@@ -559,7 +559,7 @@ The red-headed merchant can also select the following social talents in place of
 
 If a teratogenic beastmaster releases their companion from service or their animal companion perishes, they may gain a new one by performing a ceremony requiring 24 uninterrupted hours of alchemical dabbling, producing potent pheromones to attract the new companion in the environment where it typically lives.
 
-**Teratogen:** The teratogenic beastmaster must select the mutagenic discipline at 1st level. The mutagens they create can affect their animal companion in exactly the same way they affect their animal companion, including special effects of [evolution] discoveries. Applying a mutagen to their animal companion companion is a standard action and requires the teratogenic beastmaster to be adjacent to it.
+**Teratogen:** The teratogenic beastmaster must select the mutagenic discipline at 1st level. The mutagens they create can affect their animal companion in exactly the same way they affect their animal companion, including special effects of [evolution] discoveries. Applying a mutagen to their animal companion companion is a standard action (1 AP) and requires the teratogenic beastmaster to be adjacent to it.
 
 *This modifies alchemical discipline. A teratogenic beastmaster cannot also gain an automaton in any way.*
 
@@ -567,15 +567,15 @@ If a teratogenic beastmaster releases their companion from service or their anim
 
 *This replaces poison resistance.*
 
-**Monstrous Link (Ex):** At 5th level, in any round where the teratogenic beastmaster applies a mutagen to their animal companion, they may spend a swift action to allow the animal companion to immediately take a move action to move, even if it isn’t the animal companion’s turn.
+**Monstrous Link (Ex):** At 5th level, in any round where the teratogenic beastmaster applies a mutagen to their animal companion, they may spend a swift action (1 AP) to allow the animal companion to immediately take a move action (1 AP) to move, even if it isn’t the animal companion’s turn.
 
 *This ability replaces the discipline breakthrough gained at 5th level.*
 
-**Extended Mutagen:** At 11th level, the teratogenic beastmaster can spend 1 additional point of quintessence when creating a mutagen to cause its effects to last for 1 hour per alchemist level. This mutagen can only be applied to their animal companion. In addition, the mutagenic alchemist’s animal companion may spend a full-round action to suppress the effects of their mutagen. While suppressed, the animal companion can spend an immediate action to regain the benefits of their mutagen. Both of these actions requires the teratogenic beastmaster to command their animal companion, as though it were a trick. (The animal companion need not spend a trick known to do this.)
+**Extended Mutagen:** At 11th level, the teratogenic beastmaster can spend 1 additional point of quintessence when creating a mutagen to cause its effects to last for 1 hour per alchemist level. This mutagen can only be applied to their animal companion. In addition, the mutagenic alchemist’s animal companion may spend a full-round action (3 AP) to suppress the effects of their mutagen. While suppressed, the animal companion can spend an immediate action (1 AP of your next turn) to regain the benefits of their mutagen. Both of these actions requires the teratogenic beastmaster to command their animal companion, as though it were a trick. (The animal companion need not spend a trick known to do this.)
 
 *This ability replaces the discipline breakthrough gained at 11th level.*
 
-**Anomalous Companion:** At 17th level, the teratogenic beastmaster’s animal companion is considered to permanently be under the effect of one of its master’s mutagens. As a standard action the teratogenic beastmaster may touch their animal companion and spend one point of quintessence to change the [evolution] discoveries the animal companion benefits from and which of their physical ability scores gains a +8 bonus, which gains a +6 bonus, and which gains a +4 bonus. This activates monstrous link class feature as if the teratogenic beastmaster were applying a mutagen to their animal companion. In addition, the teratogenic beastmaster may now benefit from mutagens created with the extended mutagen class feature, though it requires 1 minute for them to suppress the effect and a full-round action to regain it. The animal companion may still suppress and regain the benefits of their mutagen as normal.
+**Anomalous Companion:** At 17th level, the teratogenic beastmaster’s animal companion is considered to permanently be under the effect of one of its master’s mutagens. As a standard action (1 AP) the teratogenic beastmaster may touch their animal companion and spend one point of quintessence to change the [evolution] discoveries the animal companion benefits from and which of their physical ability scores gains a +8 bonus, which gains a +6 bonus, and which gains a +4 bonus. This activates monstrous link class feature as if the teratogenic beastmaster were applying a mutagen to their animal companion. In addition, the teratogenic beastmaster may now benefit from mutagens created with the extended mutagen class feature, though it requires 1 minute for them to suppress the effect and a full-round action (3 AP) to regain it. The animal companion may still suppress and regain the benefits of their mutagen as normal.
 
 *This ability replaces the discipline breakthrough gained at 17th level.*
 
@@ -599,7 +599,7 @@ If a teratogenic beastmaster releases their companion from service or their anim
 
 In addition, at 1st level, and again at each odd level thereafter, the urban adept gains a bonus point of quintessence.
 
-**Tactical Analysis (Ex):** As a move action, an urban adept can target one creature within 60 feet, making a Knowledge check as though they were attempting to identify them. If this check is successful, the urban adept analyzes the creature and grants all allies a +1 circumstance bonus to attack and damage rolls against the analyzed creature for a number of rounds equal to the urban adept’s Intelligence modifier + 1/2 their level (minimum 1). At 5th level and every 4 levels thereafter, this bonus increases by +1 (to a maximum of +5 at 17th level). An ally must be able to either see or hear the urban adept when they analyze a creature to gain this bonus.
+**Tactical Analysis (Ex):** As a move action (1 AP), an urban adept can target one creature within 60 feet, making a Knowledge check as though they were attempting to identify them. If this check is successful, the urban adept analyzes the creature and grants all allies a +1 circumstance bonus to attack and damage rolls against the analyzed creature for a number of rounds equal to the urban adept’s Intelligence modifier + 1/2 their level (minimum 1). At 5th level and every 4 levels thereafter, this bonus increases by +1 (to a maximum of +5 at 17th level). An ally must be able to either see or hear the urban adept when they analyze a creature to gain this bonus.
 
 The type of knowledge check is dependent on the type of creature being analyzed:
 
@@ -615,7 +615,7 @@ The type of knowledge check is dependent on the type of creature being analyzed:
 
 - *Religion:* undead
 
-At 5th level, whenever the urban adept uses their tactical analysis class feature, they can select two creatures to analyze and they can analyze as a move or swift action. At 11th level, they can analyze three creatures and they can analyze as a free action once per round. At 17th level, they can analyze a number of creatures equal to their Intelligence modifier (minimum 4).
+At 5th level, whenever the urban adept uses their tactical analysis class feature, they can select two creatures to analyze and they can analyze as a move or swift action (1 AP). At 11th level, they can analyze three creatures and they can analyze as a free action once per round. At 17th level, they can analyze a number of creatures equal to their Intelligence modifier (minimum 4).
 
 *This ability replaces discipline.*
 
@@ -655,7 +655,7 @@ Despite replicating a divination spell, this effect is nonmagical and not a divi
 
 *Masters of explosions, normal alchemist are already prime examples of those who can destroy an object’s structural stability in the blink of an eye, but void demolitionists take it one step further. Not content with simply destroying physical objects, they revel in using unique explosives to also destroy the tenuous bound of reality, leaving the fabric of dimensions in tatters with their specialized quantum charges.*
 
-**Dimensional Charges (Su):** A void demolitionist can not only blow holes in solid objects, but reality itself. As a standard action, a void demolitionist can spend 1 point of quintessence to create and throw up to two quantum charges which have a range increment of 30 feet; quantum charges can only target empty squares which do not contain hazardous terrain. These quantum charges, once hitting their targeted square, leave a rip in the fabric of reality for 1 minute per void demolitionist level. They can also choose to create and throw quantum charges as a full-round action without needing to spend quintessence.
+**Dimensional Charges (Su):** A void demolitionist can not only blow holes in solid objects, but reality itself. As a standard action (1 AP), a void demolitionist can spend 1 point of quintessence to create and throw up to two quantum charges which have a range increment of 30 feet; quantum charges can only target empty squares which do not contain hazardous terrain. These quantum charges, once hitting their targeted square, leave a rip in the fabric of reality for 1 minute per void demolitionist level. They can also choose to create and throw quantum charges as a full-round action (3 AP) without needing to spend quintessence.
 
 The range increment of these quantum charges increases by 5 feet per void demolitionist level they possess past 1st level. These two-dimensional rips stand 5 feet tall and wide, must be placed vertically upon solid ground, and can be identified by a DC 15 Knowledge (planes) as a dimensional rip. Dimensional rips block line of sight. A rip cannot be created in any space where extra dimensional travel is blocked. A void demolitionist can close one or more rips as a free action. If a rip is closed while a creature is inside of it, they are shunted off to the nearest empty square and take 1d6 damage.
 
@@ -671,7 +671,7 @@ A void demolitionist can maintain a number of rips equal to twice the amount the
 
 *This ability replaces alchemical study.*
 
-**Phase Step (Su):** At 9th level, the void demolitionist can teleport up to 30 feet as a move action. At 19th level, this increases to 100 feet.
+**Phase Step (Su):** At 9th level, the void demolitionist can teleport up to 30 feet as a move action (1 AP). At 19th level, this increases to 100 feet.
 
 *This ability replaces discipline defense.*
 
@@ -713,7 +713,7 @@ The void demolitionist can select the following discoveries:
 
 **Prerequisite(s):** Void demolitionist 6th.
 
-**Benefit:** The void demolitionist can create and throw quantum charges as a move action. If they instead create and throw quantum charges as a standard action, it does not cost quintessence. At 12th level, the void demolitionist can create and throw quantum charges as a swift action. If they instead create and throw quantum charges as a move action, it does not cost quintessence.
+**Benefit:** The void demolitionist can create and throw quantum charges as a move action (1 AP). If they instead create and throw quantum charges as a standard action (1 AP), it does not cost quintessence. At 12th level, the void demolitionist can create and throw quantum charges as a swift action (1 AP). If they instead create and throw quantum charges as a move action (1 AP), it does not cost quintessence.
 
 **Lingering Rips**
 
@@ -725,7 +725,7 @@ The void demolitionist can select the following discoveries:
 
 **Prerequisite(s):** Void demolitionist 6th.
 
-**Benefit:** The void demolitionist can move any number of rips they create up to 30 feet as a move action, although two or more rips cannot occupy the same square. As an immediate action, a void demolitionist can spend 1 point of quintessence to move a rip in the pathway of a charging enemy, forcing them to make a Reflex save or be forced to enter the rip, the void demolitionist choosing through which rip they exit.
+**Benefit:** The void demolitionist can move any number of rips they create up to 30 feet as a move action (1 AP), although two or more rips cannot occupy the same square. As an immediate action (1 AP of your next turn), a void demolitionist can spend 1 point of quintessence to move a rip in the pathway of a charging enemy, forcing them to make a Reflex save or be forced to enter the rip, the void demolitionist choosing through which rip they exit.
 
 **Rip Bomb**
 
@@ -741,7 +741,7 @@ At 20th level, a void demolitionist can select one of the following grand discov
 
 *Quintessence Cost:* 3
 
-**Benefit:** As a standard action, a void demolitionist can move two or more rips into the same square and collapse them in on each other. This forces all creatures within 15 feet of the square to make a Reflex save or be caught in the blast, disintegrating them instantly as per the spell. Those who make their saving throw instead take 10d6 damage. For each two additional rips used in a spatial collapse beyond the second, increase the DC by 1 and the damage taken on a failed save by 2d6.
+**Benefit:** As a standard action (1 AP), a void demolitionist can move two or more rips into the same square and collapse them in on each other. This forces all creatures within 15 feet of the square to make a Reflex save or be caught in the blast, disintegrating them instantly as per the spell. Those who make their saving throw instead take 10d6 damage. For each two additional rips used in a spatial collapse beyond the second, increase the DC by 1 and the damage taken on a failed save by 2d6.
 
 **Planar Breach**
 

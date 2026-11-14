@@ -50,7 +50,7 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Sacred Conduit**: Your birth was particularly painful and difficult for your mother, who needed potent divine magic to ensure that you survived (your mother may or may not have). In any event, that magic infused you from an early age, and you now channel divine energy with greater ease than most. Whenever you channel energy, you gain a +1 trait bonus to the save DC of your channeled energy.
 
-**Sacred Touch**: You were exposed to a potent source of positive energy as a child, perhaps by being born under the right cosmic sign, or maybe because one of your parents was a gifted healer. As a standard action, you may automatically stabilize a dying creature merely by touching it.
+**Sacred Touch**: You were exposed to a potent source of positive energy as a child, perhaps by being born under the right cosmic sign, or maybe because one of your parents was a gifted healer. As a standard action (1 AP), you may automatically stabilize a dying creature merely by touching it.
 
 **Scholar of the Great Beyond**: Your great interests as a child did not lie with current events or the mundane— you have always felt out of place, as if you were born in the wrong era. You take to philosophical discussions of the Great Beyond and of historical events with ease. You gain a +1 trait bonus on Knowledge (history) and Knowledge (planes) checks, and one of these skills (your choice) is always a class skill for you.
 
@@ -148,7 +148,7 @@ These traits suit characters who have lived in or explored the Underworld. Each 
 
 **Allies in the Deep (Social)**: You’ve learned to deal amicably with individuals of questionable morals when necessary. You gain a +1 trait bonus on Charisma-based skill checks to influence evil creatures. You must have a nonevil alignment in order to take this trait.
 
-**Black Blood Heritage (Magic)**: One of your ancestors came in contact with the mystical black blood, granting you an affinity for the substance. You are immune to the negative effects of black blood. Once per day as a swift action, you can channel the essence of black blood, increasing your effective caster level by 1 for any 1st-or 2nd-level necromancy spell you cast. Your blood is pitch black as a result of this trait.
+**Black Blood Heritage (Magic)**: One of your ancestors came in contact with the mystical black blood, granting you an affinity for the substance. You are immune to the negative effects of black blood. Once per day as a swift action (1 AP), you can channel the essence of black blood, increasing your effective caster level by 1 for any 1st-or 2nd-level necromancy spell you cast. Your blood is pitch black as a result of this trait.
 
 **Deep Faith (Faith)**: Your deity was born of the depths, and you’re a child of such realms. Whenever you cast a spell granted by the earth domain (or associated subdomains) while in the Underworld, that spell functions at 1 caster level higher than your actual caster level.
 
@@ -156,7 +156,7 @@ These traits suit characters who have lived in or explored the Underworld. Each 
 
 **Light in the Darkness (Faith)**: You’re destined to bring light to the darkness and expunge the faithless from the deep. Whenever you cast a spell granted by the sun domain (or associated subdomains) while in the Underworld, the spell functions at 1 caster level higher than your actual caster level.
 
-**Radiant Healing (Magic)**: You’ve learned how to infuse your healing magic with lingering traces of light. Whenever you cast a spell from the conjuration (healing) school that has a casting time of a standard action, you can extend its casting time to a full-round action to imbue the target with light, as per light, with a duration of 1 round per caster level.
+**Radiant Healing (Magic)**: You’ve learned how to infuse your healing magic with lingering traces of light. Whenever you cast a spell from the conjuration (healing) school that has a casting time of a standard action (1 AP), you can extend its casting time to a full-round action (3 AP) to imbue the target with light, as per light, with a duration of 1 round per caster level.
 
 **Scourge of the Darkness (Faith)**: Stories of the depredations present in the Underworld drive you to explore its shadowy depths and purge the corruption from within. You gain a +1 trait bonus on saving throws against fear while in the Underworld and a +1 trait bonus on Intimidate checks against creatures native to the Underworld.
 
@@ -164,7 +164,7 @@ These traits suit characters who have lived in or explored the Underworld. Each 
 
 **Underworld Trader (Social)**: You’re familiar with the upper Underworld’s trade routes and negotiation involving the denizens of the Underworld. You gain a +1 trait bonus on Diplomacy checks relating to subterranean trade and on Knowledge (dungeoneering) checks relating to subterranean creatures. Select one of these skills to be a class skill for you.
 
-**Voices in your Head (Social)**: Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an uncanny rapport with those swept up in madness. Once per day as an immediate action, you can issue a command to a [confused](../../rules/appendices/conditions.md#confused) creature within 30 feet. This allows the creature to immediately reroll on the confused condition table, and you can pick which of the two actions—the action of its initial roll or that of the reroll—the creature takes. Confused creatures do not need to understand you for this trait to take effect.
+**Voices in your Head (Social)**: Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an uncanny rapport with those swept up in madness. Once per day as an immediate action (1 AP of your next turn), you can issue a command to a [confused](../../rules/appendices/conditions.md#confused) creature within 30 feet. This allows the creature to immediately reroll on the confused condition table, and you can pick which of the two actions—the action of its initial roll or that of the reroll—the creature takes. Confused creatures do not need to understand you for this trait to take effect.
 
 ## Explorers’ Society Traits
 
@@ -208,7 +208,7 @@ These traits suit members of a society of explorers and treasure seekers. Each l
 
 These traits suit characters raised in or around an empire ruled by devil-worshipers. Each lists its trait category in parentheses.
 
-**Accelerated Drinker (Combat)**: You know how to drink a potion efficiently, such as by not using your hands, tossing it in the air and catching it in your mouth, or opening it with your teeth. You may drink a potion as a move action instead of a standard as long as you start your turn with the potion in your hand.
+**Accelerated Drinker (Combat)**: You know how to drink a potion efficiently, such as by not using your hands, tossing it in the air and catching it in your mouth, or opening it with your teeth. You may drink a potion as a move action (1 AP) instead of a standard as long as you start your turn with the potion in your hand.
 
 **Gnome City Businessman (Social)**: Your time among the gnome elite of a great gnomish city has led to an extensive knowledge of alchemy and ready connections in the business. You gain a +2 trait bonus on all Craft (alchemy) checks. You must be a gnome to take this trait.
 
@@ -268,7 +268,7 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 **Second Tongue (Magic)**: Using an ancient and painful surgical technique, you’ve reshaped your tongue. These surgical mutilations permit you to speak ancient words unpronounceable to most mortals, enhancing your ability to work magic associated with the Great Old Ones. Any summoning or divination spell you cast to summon or contact a Great Old One or one of their minions is cast at +1 caster level. You must be a member of the old cults to take this trait.
 
-**Saint’s Ward (Faith)**: You have learned the secrets of an ancient prayer that wards off the attacks of demons. As a standard action, you can recite a holy chant that affects demons as if you were under the effect of a [*sanctuary*](../../magic/spells/sanctuary.md) spell (caster level equal to 1/2 your Hit Dice + your Charisma modifier). You must be a member of a demon-hunting crusade to take this trait.
+**Saint’s Ward (Faith)**: You have learned the secrets of an ancient prayer that wards off the attacks of demons. As a standard action (1 AP), you can recite a holy chant that affects demons as if you were under the effect of a [*sanctuary*](../../magic/spells/sanctuary.md) spell (caster level equal to 1/2 your Hit Dice + your Charisma modifier). You must be a member of a demon-hunting crusade to take this trait.
 
 **Lich King’s Whisper (Magic)**: You have learned the secrets of sotto voce, the eerie, dry whispering voice used to pass on cult secrets. You may cast [*sotto voce*](../../magic/spells/sotto-voce.md) three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st. You must be a member of a whispering necromancer cult to take this trait.
 

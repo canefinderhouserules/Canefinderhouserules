@@ -57,11 +57,11 @@ A golden knight gains proficiency with all simple and [martial weapons](../../eq
 
 #### Authoritative Command (Ex)
 
-As a swift action, a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a free action.
+As a swift action (1 AP), a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a free action.
 
 ??? note "Original rule"
 
-    **Authoritative Command (Ex)**: As a move action, a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a swift action.
+    **Authoritative Command (Ex)**: As a move action (1 AP), a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a swift action (1 AP).
 
 #### Defy Danger (Ex)
 
@@ -77,7 +77,7 @@ At 2nd level, a golden knight gains a bonus equal to half his class level on com
 
 #### United Defense (Ex)
 
-At 2nd level, a golden knight can select one ally as a swift action. While he is adjacent to this ally, the golden knight takes a –1 penalty to his Armor Class and the selected ally receives a +2 dodge bonus to his Armor Class for 1 round. At 6th level and again at 10th level, the golden knight’s AC takes an additional –1 penalty and the dodge bonus increases by an additional 2.
+At 2nd level, a golden knight can select one ally as a swift action (1 AP). While he is adjacent to this ally, the golden knight takes a –1 penalty to his Armor Class and the selected ally receives a +2 dodge bonus to his Armor Class for 1 round. At 6th level and again at 10th level, the golden knight’s AC takes an additional –1 penalty and the dodge bonus increases by an additional 2.
 
 #### Allied Retribution (Ex)
 
@@ -101,4 +101,4 @@ At 9th level, once per round when a creature threatened by a golden knight attac
 
 #### Guardian of Liberty (Ex)
 
-At 10th level, once per day as an immediate action a golden knight can reroll a single attack roll or saving throw, or force an enemy to reroll an attack roll made against the knight or an adjacent ally, after the result of the attack roll is revealed.
+At 10th level, once per day as an immediate action (1 AP of your next turn) a golden knight can reroll a single attack roll or saving throw, or force an enemy to reroll an attack roll made against the knight or an adjacent ally, after the result of the attack roll is revealed.

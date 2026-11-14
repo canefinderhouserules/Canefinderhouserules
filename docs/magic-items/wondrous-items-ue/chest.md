@@ -16,7 +16,7 @@ This ornate sash of embroidered velvet stretches across the chest from shoulder 
 **Aura** faint enchantment; **CL** 3rd  
 **Slot** chest; **Price** 6,000 gp; **Weight** 2 lbs.
 
-This loose-fitting blouse is adorned with grotesque fetishes and trophies, granting the wearer a +2 competence bonus on Intimidate checks. If the wearer is a witch, she gains the cackle hex. If the wearer already has the cackle hex, twice per day she can use her cackle ability as a swift action instead of a move action.
+This loose-fitting blouse is adorned with grotesque fetishes and trophies, granting the wearer a +2 competence bonus on Intimidate checks. If the wearer is a witch, she gains the cackle hex. If the wearer already has the cackle hex, twice per day she can use her cackle ability as a swift action (1 AP) instead of a move action.
 
 **Construction** Craft Wondrous Item, *hideous laughter* or the cackle hex, creator must have 5 ranks in Intimidate; **Cost** 3,000 gp
 
@@ -25,7 +25,7 @@ This loose-fitting blouse is adorned with grotesque fetishes and trophies, grant
 **Aura** faint necromancy; **CL** 3rd  
 **Slot** chest; **Price** 6,000 gp; **Weight** 1 lb.
 
-This rough vest of black snakeskin is decorated with a fringe of rawhide tassels, each knotted around a bit of bone or a small animal skull. A gunslinger with the deadeye deed reduces the grit point cost to use that deed by 1 (minimum 1 grit). In addition, once per day when the wearer reduces a creature to 0 or fewer hit points with a firearm she can use *death knell* (Will DC 13 negates) against that target as a swift action. She does not have to touch the target to activate this ability, but her range increment penalty for shooting the target also applies to the saving throw DC of the *death knell* (for example, if the range increment penalty is –2, the DC is 11).
+This rough vest of black snakeskin is decorated with a fringe of rawhide tassels, each knotted around a bit of bone or a small animal skull. A gunslinger with the deadeye deed reduces the grit point cost to use that deed by 1 (minimum 1 grit). In addition, once per day when the wearer reduces a creature to 0 or fewer hit points with a firearm she can use *death knell* (Will DC 13 negates) against that target as a swift action (1 AP). She does not have to touch the target to activate this ability, but her range increment penalty for shooting the target also applies to the saving throw DC of the *death knell* (for example, if the range increment penalty is –2, the DC is 11).
 
 **Construction** Craft Wondrous Item, *death knell*, *true strike*; **Cost** 3,000 gp
 
@@ -88,7 +88,7 @@ The sacred stones, graven star-patterns, and wisdom-writings of the ancients on 
 **Aura** faint transmutation; **CL** 5th  
 **Slot** chest; **Price** 1,000 gp; **Weight** —
 
-This shirt is made of light, gossamer-thin fabric embroidered with arrangements of winged feet. Once per day as a swift action, the wearer can take an additional move action to move on his turn.
+This shirt is made of light, gossamer-thin fabric embroidered with arrangements of winged feet. Once per day as a swift action (1 AP), the wearer can take an additional move action (1 AP) to move on his turn.
 
 **Construction** Craft Wondrous Item, *haste*; **Cost** 500 gp
 
@@ -115,7 +115,7 @@ Whenever the wearer is grappling (whether on the offense or defense), this shirt
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** chest; **Price** 5,000 gp; **Weight** 5 lbs.
 
-Absorbent fibers line this heavy canvas coat. Once per day as a standard action, the wearer can pour a potion onto this lining, suffusing it into the coat. If the potion has an instantaneous duration, the wearer can activate the coat as a swift action to consume the potion. If the potion’s duration is measured in rounds, the wearer can activate the coat as a swift action to gain the potion’s benefits for 1 round, repeating as desired each round until the potion’s entire duration has been used. These rounds do not need to be consecutive. The coat absorbs only potions with instantaneous or round-based durations, and only those which affect creatures (for example, it does not work on oils). Once the coat absorbs a potion, the potion cannot be retrieved from it, only used as described above. The absorbed potion loses its powers after 24 hours, even if unused.
+Absorbent fibers line this heavy canvas coat. Once per day as a standard action (1 AP), the wearer can pour a potion onto this lining, suffusing it into the coat. If the potion has an instantaneous duration, the wearer can activate the coat as a swift action (1 AP) to consume the potion. If the potion’s duration is measured in rounds, the wearer can activate the coat as a swift action (1 AP) to gain the potion’s benefits for 1 round, repeating as desired each round until the potion’s entire duration has been used. These rounds do not need to be consecutive. The coat absorbs only potions with instantaneous or round-based durations, and only those which affect creatures (for example, it does not work on oils). Once the coat absorbs a potion, the potion cannot be retrieved from it, only used as described above. The absorbed potion loses its powers after 24 hours, even if unused.
 
 **Construction** Craft Wondrous Item, *amplify elixir*; **Cost** 2,500 gp
 
@@ -133,7 +133,7 @@ A *snakeskin tunic* is a tight, form-fitting shirt crafted from the scales of a 
 **Aura** moderate necromancy; **CL** 5th  
 **Slot** chest; **Price** 26,000 gp; **Weight** —
 
-This thin, bleached cloth covers the wearer’s entire torso. Some also cover the wearer’s face, but don’t interfere with the wearer’s vision. The morbid burial shroud grants the wearer some affinity with the spectral dead. The wearer can discern invisible or ethereal creatures as though using *see invisibility*. Once per day, the wearer can become incorporeal for 10 rounds and gain a fly speed equal to half his base speed with perfect maneuverability. The wearer can’t attack while incorporeal, but can dismiss the effect as a move action.
+This thin, bleached cloth covers the wearer’s entire torso. Some also cover the wearer’s face, but don’t interfere with the wearer’s vision. The morbid burial shroud grants the wearer some affinity with the spectral dead. The wearer can discern invisible or ethereal creatures as though using *see invisibility*. Once per day, the wearer can become incorporeal for 10 rounds and gain a fly speed equal to half his base speed with perfect maneuverability. The wearer can’t attack while incorporeal, but can dismiss the effect as a move action (1 AP).
 
 **Construction** Craft Wondrous Item, *hide from undead, see invisibility*; **Cost** 13,000 gp
 
@@ -151,7 +151,7 @@ This woolen garment is decorated with a pattern of linked chains embroidered in 
 **Aura** faint evocation; **CL** 3rd  
 **Slot** chest; **Price** 6,000 gp; **Weight** 2 lbs.
 
-This tunic is crafted from golden thread, and has silver-hemmed sleeves. The wearer gains a +2 bonus to Combat Maneuver Defense against disarm and sunder combat maneuvers. If the wearer is a samurai, twice per day as a swift action he can apply the effects of the *thundering* weapon special ability to a successful critical hit against the target of his challenge.
+This tunic is crafted from golden thread, and has silver-hemmed sleeves. The wearer gains a +2 bonus to Combat Maneuver Defense against disarm and sunder combat maneuvers. If the wearer is a samurai, twice per day as a swift action (1 AP) he can apply the effects of the *thundering* weapon special ability to a successful critical hit against the target of his challenge.
 
 **Construction** Craft Wondrous Item, *blindness/deafness*, *mage armor*; **Cost** 3,000 gp
 

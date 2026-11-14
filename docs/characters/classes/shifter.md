@@ -55,7 +55,7 @@ A shifter speaks Druidic, a secret language known only to druids and shifters, w
 
 #### Shifter Aspect (Su)
 
-At 1st level, a shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see Aspects) for a number of minutes per day equal to 3 + their shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a form is a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A shifter may switch which aspect’s form they are taking as a swift action.
+At 1st level, a shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see Aspects) for a number of minutes per day equal to 3 + their shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a form is a swift action (1 AP), while ending the effect is a free action that can be taken only on the shifter’s turn. A shifter may switch which aspect’s form they are taking as a swift action (1 AP).
 
 Until a shifter reaches 9th level and gains the chimeric aspect class feature, they can assume only one form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all forms currently manifested. The forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a form while affected by polymorph effects.
 
@@ -67,7 +67,7 @@ At 1st level, a shifter gains the ability to turn herself into any small or Medi
 
 A shifter loses their ability to speak while in animal form because they are limited to the sounds that a normal, untrained animal can make, but they can communicate normally with other animals of the same general grouping as their new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
 
-In addition, a shifter can change their form while in shifter shape as a standard action a number of times per day equal to 1/2 their character level + their Wisdom modifier (minimum 1); doing so does not consume any duration of their shifter shape ability.
+In addition, a shifter can change their form while in shifter shape as a standard action (1 AP) a number of times per day equal to 1/2 their character level + their Wisdom modifier (minimum 1); doing so does not consume any duration of their shifter shape ability.
 
 At 3rd level, a shifter is no longer limited in which forms they can take from the options provided by beast shape I.
 
@@ -81,7 +81,7 @@ At 16th level, a shifter can use shifter shape to transform into a Diminutive or
 
 #### Shifter Claws (Su)
 
-At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
+At will, a shifter in her natural form can extend her claws as a swift action (1 AP) to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
 
 As the shifter gains levels, the power of her claws increases. At 3rd level, her claws ignore DR/cold iron and DR/silver. At 7th level, her claw damage increases to 1d6 (1d4 if Small). At 11th level, her claw damage increases to 1d8 (1d6 if Small). At 13th level, her claw damage increases to 1d10 (1d8 if Small). At 17th level, the damage die does not increase, but the critical multiplier becomes ×3. Lastly, at 19th level, the claws ignore DR/adamantine and DR/—.
 

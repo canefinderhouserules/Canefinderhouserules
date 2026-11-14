@@ -40,7 +40,7 @@ You can feel the unseen.
 
 **Prerequisites**: Manifestation level 2nd, hive mind*.
 
-**Gift**: As a move action, you can force the hive mind to use its senses to assist you. You gain blindsense with a range of 5 feet × 1/2 your manifestation level until the beginning of your next turn; during that time, you negate the penalty on Perception checks from the stain and instead gain a bonus on Perception checks equal to 1/2 your manifestation level.
+**Gift**: As a move action (1 AP), you can force the hive mind to use its senses to assist you. You gain blindsense with a range of 5 feet × 1/2 your manifestation level until the beginning of your next turn; during that time, you negate the penalty on Perception checks from the stain and instead gain a bonus on Perception checks equal to 1/2 your manifestation level.
 
 **Stain**: You gain the light blindness universal monster ability. You take a penalty on Perception checks equal to your manifestation level.
 
@@ -70,7 +70,7 @@ The whispers of the hive call to you when awake or asleep.
 
 **Prerequisites**: Manifestation level 5th, hive mind*.
 
-**Gift**: As a move action, you can communicate telepathically with one creature within 30 feet for 1 round. The hive whispers through the connection, causing a creature that doesn’t have the hive subtype or hive corruption to be shaken for 1 round (Will negates).
+**Gift**: As a move action (1 AP), you can communicate telepathically with one creature within 30 feet for 1 round. The hive whispers through the connection, causing a creature that doesn’t have the hive subtype or hive corruption to be shaken for 1 round (Will negates).
 
 **Stain**: The noise of the hive mind is strongest when you are at your weakest. Whenever damage causes you to drop below half your maximum hit points, you are also staggered for 1 round. Immunities don’t prevent this staggered condition, and you can’t remove it early by any means. This effect doesn’t trigger if you are already below half your maximum hit points before you take damage.
 
@@ -88,7 +88,7 @@ You can sheathe your body in an armored carapace.
 
 **Prerequisites**: Manifestation level 2nd, living weapon*.
 
-**Gift**: As a move action, you can cause chitinous plates of armor to grow out of your flesh. This armor grants a natural armor bonus to your AC equal to 1/2 your manifestation level and persists as long you maintain concentration with a swift action each round. You must succeed at a concentration check as if concentrating on a 0-level spell, and your bonus to this concentration check is equal to your character level + your manifestation level. If you fail a concentration check, the armor retracts.
+**Gift**: As a move action (1 AP), you can cause chitinous plates of armor to grow out of your flesh. This armor grants a natural armor bonus to your AC equal to 1/2 your manifestation level and persists as long you maintain concentration with a swift action (1 AP) each round. You must succeed at a concentration check as if concentrating on a 0-level spell, and your bonus to this concentration check is equal to your character level + your manifestation level. If you fail a concentration check, the armor retracts.
 
 **Stain**: Growing living armor is painful. You take 1 point of damage per manifestation level when you take the action to draw out your living armor and every time you retract the living armor (either voluntarily or by failing a concentration check). While your armor is retracted, you take 1 point of bleed damage whenever you take piercing damage.
 
@@ -108,7 +108,7 @@ Your body produces a resinous spittle.
 
 **Prerequisites**: Manifestation level 5th, living weapon*.
 
-**Gift**: As a standard action, you can expel spittle that rapidly hardens into a resin. This effect is identical to the *web* spell with a caster level equal to your manifestation level, except it targets a single 5-foot space, has a hardness of 1, and has 2 hit points per manifestation level you have. Creatures caught in the spray can attempt a Reflex save to avoid the effect. The resin lasts for 1 minute before crumbling to dust.
+**Gift**: As a standard action (1 AP), you can expel spittle that rapidly hardens into a resin. This effect is identical to the *web* spell with a caster level equal to your manifestation level, except it targets a single 5-foot space, has a hardness of 1, and has 2 hit points per manifestation level you have. Creatures caught in the spray can attempt a Reflex save to avoid the effect. The resin lasts for 1 minute before crumbling to dust.
 
 **Stain**: Whenever you use your resin secretion gift, you are nauseated 1 until the end of your next turn. Immunities don’t prevent this nauseated condition, and you can’t remove it early by any means.
 

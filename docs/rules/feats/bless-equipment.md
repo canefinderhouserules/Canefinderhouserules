@@ -6,7 +6,7 @@ You can bless armor and weapons with a touch to imbue them with magical properti
 
 **Prerequisites**: Caster level 3rd, channel energy class feature.
 
-**Benefit**: As a standard action, you may expend uses of your channel energy ability to touch a single weapon, suit of armor, or shield and temporarily grant it one weapon, armor, or shield special ability. To bless a piece of equipment with a particular blessing, you must expend a number of uses of channel energy equal to the number listed in the table below, and your caster level must be equal to or greater than that listed for the selected blessing.
+**Benefit**: As a standard action (1 AP), you may expend uses of your channel energy ability to touch a single weapon, suit of armor, or shield and temporarily grant it one weapon, armor, or shield special ability. To bless a piece of equipment with a particular blessing, you must expend a number of uses of channel energy equal to the number listed in the table below, and your caster level must be equal to or greater than that listed for the selected blessing.
 
 This blessing lasts for a number of rounds equal to the number of damage dice you are capable of dealing or healing with your channel energy ability (for example, the blessing of a cleric capable of channeling 3d6 points of damage would last for 3 rounds), during which time the item is treated as though it possessed the selected special ability. If the piece of equipment belongs to an unwilling creature, that creature may attempt a Will save to prevent the blessing, as if attempting a saving throw against your channel energy ability (so bonuses from channel resistance and similar effects apply); if the creature succeeds at its save, the channeled energy is expended to no effect.
 

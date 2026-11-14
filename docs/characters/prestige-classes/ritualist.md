@@ -55,7 +55,7 @@ A ritualist adds half her ritualist level (minimum 1) as a bonus on Intelligence
 
 #### Stabilize Ritual (Su)
 
-At 2nd level, once per day as a full-round action, a ritualist can refocus a ritual that has been paused, removing any increases to the ritual's skill check DCs that have accrued thus far due to pausing the ritual.
+At 2nd level, once per day as a full-round action (3 AP), a ritualist can refocus a ritual that has been paused, removing any increases to the ritual's skill check DCs that have accrued thus far due to pausing the ritual.
 
 #### Occult Expertise (Ex)
 

@@ -8,4 +8,4 @@ You can charge and make an attack with your paws.
 
 **Benefit**: When you make a charge, you can make a full attack with your claws.
 
-**Normal**: Charging is a special full-round action that limits you to a single attack.
+**Normal**: Charging is a special full-round action (2 AP) that limits you to a single attack.

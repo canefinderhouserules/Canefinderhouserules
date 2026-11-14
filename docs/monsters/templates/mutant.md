@@ -46,7 +46,7 @@
 
 ***Bulbous Eyes (Ex).*** The mutant has darkvision with a range of 60 feet and low-light vision.
 
-***Celerity (Ex).*** As a swift action, the mutant gains the benefits of haste for 1 round. This ability can be used once every 1d4 rounds. The mutant gains a +2 bonus on Initiative checks.
+***Celerity (Ex).*** As a swift action (1 AP), the mutant gains the benefits of haste for 1 round. This ability can be used once every 1d4 rounds. The mutant gains a +2 bonus on Initiative checks.
 
 ***Echolocation (Ex).*** The mutant has blindsense with a range of 30 feet and gains Blind-Fight as a bonus feat.
 
@@ -62,7 +62,7 @@
 
 ***Leaping (Ex).*** The mutant gains Acrobatics as a class skill and a +10 bonus on Acrobatics checks to jump. The mutant always counts as having a running start when jumping.
 
-***Mental Armor (Su).*** The mutant generates a protective field (as mage armor) while conscious. If its mental armor is removed, the mutant can restore it as a swift action.
+***Mental Armor (Su).*** The mutant generates a protective field (as mage armor) while conscious. If its mental armor is removed, the mutant can restore it as a swift action (1 AP).
 
 ***Rage (Ex).*** The mutant gains the ability to enter a manic rage, as per the barbarian rage class feature. The mutant uses its Hit Dice as its barbarian level. If it also has levels in barbarian, it adds its racial Hit Dice to its barbarian levels to determine its number of rounds of rage per day.
 

@@ -60,7 +60,7 @@ In addition to good and lawful effects, the haunt is vulnerable to other damage 
 
 ### Maddening Influence
 
-These haunts are tied to the reality-warping influence of beings beyond comprehension. The only way to hold these haunts at bay is to draw upon dark knowledge, but such knowledge comes at a cost. As a full-round action, any character within the haunt’s area can attempt an appropriate Knowledge check to perform a short rite, utter an arcane word, or otherwise quell the maddening influence (DC = 15 + the haunt’s CR). If successful, the haunt takes 5 points of damage plus additional damage equal to the amount the character exceeded the DC.
+These haunts are tied to the reality-warping influence of beings beyond comprehension. The only way to hold these haunts at bay is to draw upon dark knowledge, but such knowledge comes at a cost. As a full-round action (3 AP), any character within the haunt’s area can attempt an appropriate Knowledge check to perform a short rite, utter an arcane word, or otherwise quell the maddening influence (DC = 15 + the haunt’s CR). If successful, the haunt takes 5 points of damage plus additional damage equal to the amount the character exceeded the DC.
 
 The whispers from beyond haunt detailed below is an example of a maddening influence formed at the site of a mass ritual suicide. The murmurs worm their way into the minds of all who hear them and leave lasting wounds.
 

@@ -4,4 +4,4 @@ You can repress your conscious mind in favor of a primal state that helps you re
 
 **Prerequisites**: Wis 13, [Wilding](wilding.md).
 
-**Benefit**: Whenever you fail a saving throw against a fear or mind-affecting effect, you can take 1d3 points of Intelligence damage as an immediate action and reroll the saving throw. This damage cannot be reduced or avoided in any way. You must take the new result, even if it is worse.
+**Benefit**: Whenever you fail a saving throw against a fear or mind-affecting effect, you can take 1d3 points of Intelligence damage as an immediate action (1 AP of your next turn) and reroll the saving throw. This damage cannot be reduced or avoided in any way. You must take the new result, even if it is worse.

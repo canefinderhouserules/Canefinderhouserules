@@ -55,9 +55,9 @@ At 2nd level, a storm worker can see through fog, smoke, and other obscuring vap
 
 #### Storm Shape (Su)
 
-At 2nd level, a storm worker becomes a physical embodiment of the fury of the storm. As a standard action, she can transform herself into a whirlwind (as per the universal monster rule) for a number of minutes per day equal to her storm worker level. These minutes need not be consecutive, but must be spent in 1-minute increments. If the storm worker is underwater when she uses this ability, she instead transforms into a vortex of the same size (this functions identically to the whirlwind ability, but can form only underwater and can’t leave the water). The storm worker can breathe water while in vortex form. If the storm worker does not have a fly or swim speed, she gains one (as appropriate to her new form) equal to her base land speed while in storm shape. With a fly speed, she has average maneuverability.
+At 2nd level, a storm worker becomes a physical embodiment of the fury of the storm. As a standard action (1 AP), she can transform herself into a whirlwind (as per the universal monster rule) for a number of minutes per day equal to her storm worker level. These minutes need not be consecutive, but must be spent in 1-minute increments. If the storm worker is underwater when she uses this ability, she instead transforms into a vortex of the same size (this functions identically to the whirlwind ability, but can form only underwater and can’t leave the water). The storm worker can breathe water while in vortex form. If the storm worker does not have a fly or swim speed, she gains one (as appropriate to her new form) equal to her base land speed while in storm shape. With a fly speed, she has average maneuverability.
 
-As a swift action, the storm worker can change the height of her whirlwind form from a minimum of 10 feet tall to a maximum of 20 feet tall. At 4th level and every 2 levels thereafter, the maximum height of the whirlwind increases by 10 feet, to a maximum of 60 feet tall at 10th level. The storm worker can damage and trap Small or smaller creatures caught in her whirlwind, dealing lethal damage equal to her unarmed strike damage to each such creature that fails a Reflex save (DC = 10 + the storm worker’s class level + the storm worker’s Strength modifier) and lifting it into the air if it fails a second Reflex save. At 4th level and every 2 levels thereafter, the size of creatures the storm worker can affect increases by one step, to a maximum of Huge at 8th level.
+As a swift action (1 AP), the storm worker can change the height of her whirlwind form from a minimum of 10 feet tall to a maximum of 20 feet tall. At 4th level and every 2 levels thereafter, the maximum height of the whirlwind increases by 10 feet, to a maximum of 60 feet tall at 10th level. The storm worker can damage and trap Small or smaller creatures caught in her whirlwind, dealing lethal damage equal to her unarmed strike damage to each such creature that fails a Reflex save (DC = 10 + the storm worker’s class level + the storm worker’s Strength modifier) and lifting it into the air if it fails a second Reflex save. At 4th level and every 2 levels thereafter, the size of creatures the storm worker can affect increases by one step, to a maximum of Huge at 8th level.
 
 #### Aura of Calm (Su)
 
@@ -81,11 +81,11 @@ At 7th level, a storm worker becomes immune to damage and detrimental effects fr
 
 #### Fickle Winds (Sp)
 
-At 8th level, as a swift action, a storm worker can call the winds to her defense, protecting her as per the spell [*fickle winds*](../../magic/spells/fickle-winds.md) for a number of rounds per day equal to her level. These rounds need not be consecutive.
+At 8th level, as a swift action (1 AP), a storm worker can call the winds to her defense, protecting her as per the spell [*fickle winds*](../../magic/spells/fickle-winds.md) for a number of rounds per day equal to her level. These rounds need not be consecutive.
 
 #### Echoing Thunder (Su)
 
-At 9th level, anytime a storm worker resists electricity or sonic damage with her oceanic spirit ability, she can spend an immediate action to redirect the damage to another creature within 30 feet. The creature must succeed at a Reflex save (DC = 10 + the storm worker’s class level + the storm worker’s Wisdom modifier) or take an amount of electricity or sonic damage equal to the amount the storm worker resisted.
+At 9th level, anytime a storm worker resists electricity or sonic damage with her oceanic spirit ability, she can spend an immediate action (1 AP of your next turn) to redirect the damage to another creature within 30 feet. The creature must succeed at a Reflex save (DC = 10 + the storm worker’s class level + the storm worker’s Wisdom modifier) or take an amount of electricity or sonic damage equal to the amount the storm worker resisted.
 
 #### Storm Mastery (Su)
 

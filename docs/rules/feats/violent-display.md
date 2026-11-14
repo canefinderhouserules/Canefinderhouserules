@@ -6,4 +6,4 @@ You never miss an opportunity to cow foes.
 
 **Prerequisites**: [Dazzling Display](dazzling-display.md), [Weapon Focus](weapon-focus.md), base attack bonus +6.
 
-**Benefit**: When you land a successful sneak attack or confirm a critical hit against a creature with a weapon with which you have Weapon Focus, you can use [Dazzling Display](dazzling-display.md) as an immediate action.
+**Benefit**: When you land a successful sneak attack or confirm a critical hit against a creature with a weapon with which you have Weapon Focus, you can use [Dazzling Display](dazzling-display.md) as an immediate action (1 AP of your next turn).

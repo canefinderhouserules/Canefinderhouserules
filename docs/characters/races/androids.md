@@ -20,7 +20,7 @@ Androids are defined by their class levels; they do not have racial Hit Dice. Al
 
 **Emotionless (Ex)**: Androids have problems processing emotions properly, and thus take a –4 penalty on [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
-**Nanite Surge (Ex)**: An android's body is infused with nanites. Once per day as an immediate action, an android can cause his nanites to surge, granting him a bonus equal to 3 + the android's character level on any one d20 roll; this ability must be activated before the roll is made. When an android uses this power, his circuitry-tattoos glow with light equivalent to that of a torch for 1 round.
+**Nanite Surge (Ex)**: An android's body is infused with nanites. Once per day as an immediate action (1 AP of your next turn), an android can cause his nanites to surge, granting him a bonus equal to 3 + the android's character level on any one d20 roll; this ability must be activated before the roll is made. When an android uses this power, his circuitry-tattoos glow with light equivalent to that of a torch for 1 round.
 
 **Languages**: Androids begin play speaking Common. Androids with high Intelligence scores can choose any languages (except secret languages, such as Druidic).
 

@@ -11,7 +11,7 @@ Words from the weather family control the forces of nature, summoning wind, rain
 
 This effect word creates a thick fog in its area of effect. It obscures all sight, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, whereas creatures farther away have total concealment. A moderate wind or fire effect removes the fog in the affected area. The fog is stationary.
 
-**Boost**: If a wordspell with this effect word uses the burst target word, it can be directed to move up to 10 feet each round by the caster as a swift action.
+**Boost**: If a wordspell with this effect word uses the burst target word, it can be directed to move up to 10 feet each round by the caster as a swift action (1 AP).
 
 ## Wind Blast (Weather)
 

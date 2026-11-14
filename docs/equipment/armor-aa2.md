@@ -22,7 +22,7 @@
 
 *Price* 80 gp; *Armor Bonus* +4
 
-This heavy parka is treated as an armored coat. It provides the benefits of a cold-weather outfit, and it can be donned or removed as a move action. In addition, the fluffy white fur of the parka blends into arctic landscapes, providing a +2 circumstance bonus on Stealth checks in snowy environments.
+This heavy parka is treated as an armored coat. It provides the benefits of a cold-weather outfit, and it can be donned or removed as a move action (1 AP). In addition, the fluffy white fur of the parka blends into arctic landscapes, providing a +2 circumstance bonus on Stealth checks in snowy environments.
 
 ### Chain Coat
 

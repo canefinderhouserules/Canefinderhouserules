@@ -40,7 +40,7 @@ This crimson liquid is viscous and tastes foul. If you drink it, for the next ho
 
 **Price** 45 gp; **Weight** —
 
-This thick syrup is extracted from bitter herbs and enhanced by alchemy to ward against sleep, paralysis, and the staggered condition. If you drink twitch tonic, you gain a +2 alchemical bonus on saving throws made against these effects for the next hour. If you drink twitch tonic while suffering from any of these effects, you may immediately roll another saving throw against the effect (with the +2 bonus); you may gain this particular benefit only once per day. You can administer twitch tonic to an unconscious or paralyzed creature as a full-round action, similar to administering a potion.
+This thick syrup is extracted from bitter herbs and enhanced by alchemy to ward against sleep, paralysis, and the staggered condition. If you drink twitch tonic, you gain a +2 alchemical bonus on saving throws made against these effects for the next hour. If you drink twitch tonic while suffering from any of these effects, you may immediately roll another saving throw against the effect (with the +2 bonus); you may gain this particular benefit only once per day. You can administer twitch tonic to an unconscious or paralyzed creature as a full-round action (3 AP), similar to administering a potion.
 
 ### Vermin Repellent
 

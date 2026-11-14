@@ -14,7 +14,7 @@ This elevated camp bed is made of wood and canvas, and is particularly useful wh
 
 **Price** 75 gp; **Weight** 5 lbs.
 
-This metal container holds 4 gallons of water. As a standard action that provokes attacks of opportunity, you can use the hand pump and hose at the top to spray water up to 10 feet away. Pumping uses 1 gallon of water for every round of use and can extinguish nonmagical fires in 1 square. A full canister weighs 37 pounds.
+This metal container holds 4 gallons of water. As a standard action (1 AP) that provokes attacks of opportunity, you can use the hand pump and hose at the top to spray water up to 10 feet away. Pumping uses 1 gallon of water for every round of use and can extinguish nonmagical fires in 1 square. A full canister weighs 37 pounds.
 
 ## Alchemical Tools
 
@@ -66,7 +66,7 @@ This frothy tea made from the bone-white, triangular leaves of the night tea pla
 
 **Price** 450 gp; **Weight** 15 lbs.; **Deity** Any
 
-Typically worn by senior members of a faith, these cumbersome but splendidly ornate garments create an aura of dignity and gravitas that few dare to challenge. When activated, the garments make you seem more impressive and worthy of respect to all viewers within 60 feet of you; you may make a single Diplomacy check to change the attitudes of these viewers as a swift action. You can only use this ability on a particular viewer once per day (additional attempts have no effect, though you can still persuade viewers normally without the help of the focus).
+Typically worn by senior members of a faith, these cumbersome but splendidly ornate garments create an aura of dignity and gravitas that few dare to challenge. When activated, the garments make you seem more impressive and worthy of respect to all viewers within 60 feet of you; you may make a single Diplomacy check to change the attitudes of these viewers as a swift action (1 AP). You can only use this ability on a particular viewer once per day (additional attempts have no effect, though you can still persuade viewers normally without the help of the focus).
 
 ### Chains of contrition
 

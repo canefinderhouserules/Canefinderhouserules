@@ -10,7 +10,7 @@ Equipment and magic items used by villainous organizations. Anyone can use them.
 
 **Aura** faint transmutation
 
-These steel cuffs are connected with a 2-foot-long chain. The cuffs are decorated with lead inlays of broken feet. When locked around a helpless or willing creature's ankles as a full-round action, the creature can move only half its normal speed for all its forms of movement. The creature that placed the ankle chains can remove them with a command word, any creature can remove them with a successful DC 30 Disable Device check, and the restrained creature can remove them with a successful DC 30 Escape Artist check. Dispelling the ankle chains doesn't assist in removing them, though it does prevent the creature that placed the ankle chains from using the command word to remove them for as long as their effects are suppressed or dispelled.
+These steel cuffs are connected with a 2-foot-long chain. The cuffs are decorated with lead inlays of broken feet. When locked around a helpless or willing creature's ankles as a full-round action (3 AP), the creature can move only half its normal speed for all its forms of movement. The creature that placed the ankle chains can remove them with a command word, any creature can remove them with a successful DC 30 Disable Device check, and the restrained creature can remove them with a successful DC 30 Escape Artist check. Dispelling the ankle chains doesn't assist in removing them, though it does prevent the creature that placed the ankle chains from using the command word to remove them for as long as their effects are suppressed or dispelled.
 
 **Construction Requirements:** Craft Wondrous Item, *slow*; **Cost** 3,000 gp
 
@@ -132,7 +132,7 @@ Crafted from the skin of a great cat, this +1 *hide armor* provides its wearer a
 
 **Price** 300 gp; **Weight** 1 lb.
 
-This caustic alchemical solution dissolves blood, hair, and small pieces of flesh. Distributing it over a 5-foot square takes one full-round action and increases the DC of Perception checks to find such materials by 20. (A creature that fails the Perception check to find such materials by 5 or less realizes the area has been unnaturally cleared of them.) This applies only to the original Perception DC, not a substituted skill check like those from the cleaner or traceless archetypes. One pot of alchemical cleaner contains enough liquid to cover nine 5-foot squares. A pot of alchemical cleaner can be thrown as a splash weapon and functions as an alkali flask when thrown. Crafting alchemical cleaner requires a successful DC 25 Craft (alchemy) check.
+This caustic alchemical solution dissolves blood, hair, and small pieces of flesh. Distributing it over a 5-foot square takes one full-round action (3 AP) and increases the DC of Perception checks to find such materials by 20. (A creature that fails the Perception check to find such materials by 5 or less realizes the area has been unnaturally cleared of them.) This applies only to the original Perception DC, not a substituted skill check like those from the cleaner or traceless archetypes. One pot of alchemical cleaner contains enough liquid to cover nine 5-foot squares. A pot of alchemical cleaner can be thrown as a splash weapon and functions as an alkali flask when thrown. Crafting alchemical cleaner requires a successful DC 25 Craft (alchemy) check.
 
 ### Guard's Kit
 
@@ -146,7 +146,7 @@ The guard issues a standard set of supplies to each of its members. This kit con
 
 **Aura** faint illusion
 
-As a standard action, the wielder of this solid metal badge can transform its appearance into that of any badge or symbol of authority she legitimately holds. Once per day, the wielder can present the badge as a standard action to reduce the base speed of up to three creatures within 30 feet, as per *hobble* (Fortitude DC 11 negates). If the wielder uses an Intimidate check to force a creature to act friendly and that creature recognizes her as a legitimate authority, its attitude doesn't change to unfriendly after 1d6×10 minutes, and it doesn't report her to local authorities.
+As a standard action (1 AP), the wielder of this solid metal badge can transform its appearance into that of any badge or symbol of authority she legitimately holds. Once per day, the wielder can present the badge as a standard action (1 AP) to reduce the base speed of up to three creatures within 30 feet, as per *hobble* (Fortitude DC 11 negates). If the wielder uses an Intimidate check to force a creature to act friendly and that creature recognizes her as a legitimate authority, its attitude doesn't change to unfriendly after 1d6×10 minutes, and it doesn't report her to local authorities.
 
 **Construction Requirements:** Craft Wondrous Item, *cause fear*, *silent image*; **Cost** 750 gp
 
@@ -156,7 +156,7 @@ As a standard action, the wielder of this solid metal badge can transform its ap
 
 **Aura** faint transmutation
 
-Once per day as a standard action, the holder of this ordinary-looking leather-bound book can erase the writing contained within it. However, the holder cannot erase any writing that required a material component cost, such as a *symbol* spell or a *sepia snake sigil*, with this standard action. An *erasing book* can be used as a spellbook or a formula book—spells written in the book have a material component cost and are immune to the book's erasing effect. Erasing the book also removes smudges, stains, and minor water damage, but it doesn't recover text lost to serious damage.
+Once per day as a standard action (1 AP), the holder of this ordinary-looking leather-bound book can erase the writing contained within it. However, the holder cannot erase any writing that required a material component cost, such as a *symbol* spell or a *sepia snake sigil*, with this standard action (1 AP). An *erasing book* can be used as a spellbook or a formula book—spells written in the book have a material component cost and are immune to the book's erasing effect. Erasing the book also removes smudges, stains, and minor water damage, but it doesn't recover text lost to serious damage.
 
 **Construction Requirements:** Craft Wondrous Item, *erase*; **Cost** 200 gp
 
@@ -198,7 +198,7 @@ Type early firearm, two-handed; Dmg (S) 1d10, Dmg (M) 1d12; Critical ×3; Range 
 
 **Price** 30 gp; **Weight** —
 
-These clips of alchemical cartridges hold three bullets and fit the slot of either the dragoon musket or the dragoon pistol. They allow the wielder of those firearms to fire up to three shots in quick succession without the need to reload. Once the cartridge is spent, reloading another dragoon cartridge takes a full-round action, no matter the type of dragoon firearm in question. Rapid Reload can reduce the action time required, but abilities like the musket master's fast musket have no effect. Unlike other alchemical cartridges, dragoon cartridges don't increase a dragoon firearm's misfire chance by 1. Dragoon cartridges can be used only with dragoon firearms.
+These clips of alchemical cartridges hold three bullets and fit the slot of either the dragoon musket or the dragoon pistol. They allow the wielder of those firearms to fire up to three shots in quick succession without the need to reload. Once the cartridge is spent, reloading another dragoon cartridge takes a full-round action (3 AP), no matter the type of dragoon firearm in question. Rapid Reload can reduce the action time required, but abilities like the musket master's fast musket have no effect. Unlike other alchemical cartridges, dragoon cartridges don't increase a dragoon firearm's misfire chance by 1. Dragoon cartridges can be used only with dragoon firearms.
 
 ### Mage Shot (Acid)
 
@@ -250,7 +250,7 @@ When propelled from a firearm, this +1 alchemical paper cartridge changes the da
 
 **Aura** moderate necromancy
 
-Made from the preserved skins of plague victims, this cloak functions as a +1 *cloak of resistance*. If the wearer is infected with a disease, he can also command the mantle to cast *virulent miasma* once per day. Additionally, as a standard action, a diseased wearer can make a touch attack. If it hits, the target must succeed at a DC 15 Fortitude save or contract one disease the wearer currently has (wearer's choice in the case of multiple diseases).
+Made from the preserved skins of plague victims, this cloak functions as a +1 *cloak of resistance*. If the wearer is infected with a disease, he can also command the mantle to cast *virulent miasma* once per day. Additionally, as a standard action (1 AP), a diseased wearer can make a touch attack. If it hits, the target must succeed at a DC 15 Fortitude save or contract one disease the wearer currently has (wearer's choice in the case of multiple diseases).
 
 **Construction Requirements:** Craft Wondrous Item, *contagion*, *resistance*, *virulent miasma*; **Cost** 3,600 gp
 
@@ -260,7 +260,7 @@ Made from the preserved skins of plague victims, this cloak functions as a +1 *c
 
 **Aura** faint necromancy
 
-This black iron lantern and chain functions as a +1 *heavy flail*. The lantern burns with a cold blue-green flame that sheds light as per a hooded lantern. On command, the wielder can reduce the light to a 5-foot radius of dim light or restore it to full brightness. Once per day, when the wielder hits a creature with the lantern, she can deal an additional 2d6 points of negative energy damage as a swift action. If she does so, she gains a number of temporary hit points equal to the damage she dealt that last for 1 hour.
+This black iron lantern and chain functions as a +1 *heavy flail*. The lantern burns with a cold blue-green flame that sheds light as per a hooded lantern. On command, the wielder can reduce the light to a 5-foot radius of dim light or restore it to full brightness. Once per day, when the wielder hits a creature with the lantern, she can deal an additional 2d6 points of negative energy damage as a swift action (1 AP). If she does so, she gains a number of temporary hit points equal to the damage she dealt that last for 1 hour.
 
 A creature reduced to 0 hit points or fewer by the lantern must succeed at a DC 13 Fortitude save or die. This is a death effect. For 24 hours after a creature is killed this way, the lantern's flame holds an echo of the creature's soul. A *speak with dead* spell cast on the flame yields information as if it were the creature's corpse. The flame can hold the echo of only one creature's soul; if the lantern kills another creature, a new echo replaces the previous one.
 
@@ -314,7 +314,7 @@ Once a creature in possession of the statue loses or abandons it, the statue inf
 
 Devil's spit is a more potent form of unholy water, and acts in most ways like a vial of that substance. However, a direct hit by a flask of devil's spit deals 4d4 points of damage to good outsiders and lawful good creatures, 6d4 points of damage to lawful good outsiders, and 2d4 points of damage to all other good-aligned creatures. All creatures within 5 feet of the point where the flask hits take 2 points of damage if they are good outsiders or lawful good creatures, 3 points of damage if they are lawful good outsiders, and 1 point of damage if they are chaotic good or neutral good.
 
-Devil's spit can also be used to charge a *rod of burning blood* (see below). A single vial of devil's spit provides 5 charges to that item. Charging a *rod of burning blood* with devil's spit is a standard action that provokes attacks of opportunity.
+Devil's spit can also be used to charge a *rod of burning blood* (see below). A single vial of devil's spit provides 5 charges to that item. Charging a *rod of burning blood* with devil's spit is a standard action (1 AP) that provokes attacks of opportunity.
 
 **Construction Requirements:** Craft Wondrous Item, *curse water*; **Cost** 30 gp
 
@@ -326,7 +326,7 @@ Devil's spit can also be used to charge a *rod of burning blood* (see below). A 
 
 This black, iron bell is inscribed with diabolical symbols. The spherical clapper is affixed to a chain, resembling a tyrant's ball and chain. Diabolus bells can be dedicated to different infernal powers, and they act as divine foci for spells granted by associated patrons.
 
-Once per day, when the wielder speaks a command word while ringing the bell (a standard action), lawful neutral or lawful evil creatures within a 20-foot radius that hear the toll and worship the bell's patron can say a prayer to that patron as a move action to be affected as per *ward the faithful*. The supplication must be said before the beginning of the wielder's next turn and within 20 feet of the bell.
+Once per day, when the wielder speaks a command word while ringing the bell (a standard action (1 AP)), lawful neutral or lawful evil creatures within a 20-foot radius that hear the toll and worship the bell's patron can say a prayer to that patron as a move action (1 AP) to be affected as per *ward the faithful*. The supplication must be said before the beginning of the wielder's next turn and within 20 feet of the bell.
 
 Chaotic or good creatures within a 20-foot radius that hear the toll must instead succeed at a DC 13 Will save or be affected as per *doom*. Creatures that are both chaotic and good that fail the Will save take 1d8 points of sonic damage and must succeed at a DC 13 Fortitude save or be stunned 1 for 1 round.
 
@@ -340,7 +340,7 @@ Finally, any living creatures within a 20-foot radius that have –1 or fewer hi
 
 **Aura** moderate divination
 
-These two transparent red crystal lenses fit directly over the wearer's eyes. On command, the wearer can speak a prayer to an infernal patron as a standard action to be granted darkvision with a range of 60 feet; within that range, the wearer can see in darkness of any kind, including that created by *deeper darkness*. While the lenses are activated, they take on the appearance of red-hot, glowing embers, making them extremely distinctive and foiling Disguise checks unless the wearer is disguised as someone or something with glowing red eyes.
+These two transparent red crystal lenses fit directly over the wearer's eyes. On command, the wearer can speak a prayer to an infernal patron as a standard action (1 AP) to be granted darkvision with a range of 60 feet; within that range, the wearer can see in darkness of any kind, including that created by *deeper darkness*. While the lenses are activated, they take on the appearance of red-hot, glowing embers, making them extremely distinctive and foiling Disguise checks unless the wearer is disguised as someone or something with glowing red eyes.
 
 The *eyes of embersight* work for a total of 9 minutes each day. These minutes need not be consecutive, but the eyes must be used in 1-minute increments. Both lenses must be worn by the same wearer for the magic item to take effect.
 
@@ -352,7 +352,7 @@ The *eyes of embersight* work for a total of 9 minutes each day. These minutes n
 
 **Aura** faint illusion
 
-These two clear crystal lenses fit directly over the wearer's eyes. When the wearer activates the lenses by speaking a prayer to an infernal patron as a standard action, her eyes appear to be replaced by orbs of impenetrable blackness. She gains a gaze attack until the beginning of her next turn. The wearer can choose a creature within 30 feet on which to gaze as part of the action of activating the lenses. The target creature must succeed at a DC 14 Will save or be affected as per *vision of Hell* for 5 minutes, except that the effect is a phantasm, rather than glamer, and it follows the affected creature rather than affecting an area. An affected creature continues to see the terrifying hellscape for the duration, regardless of the creature's location. As with *vision of Hell*, devils and all lawful evil creatures are immune to the effect caused by this item. The *eyes of the damned* can be activated up to three times per day. Both lenses must be worn by the same wearer for the magic item to take effect.
+These two clear crystal lenses fit directly over the wearer's eyes. When the wearer activates the lenses by speaking a prayer to an infernal patron as a standard action (1 AP), her eyes appear to be replaced by orbs of impenetrable blackness. She gains a gaze attack until the beginning of her next turn. The wearer can choose a creature within 30 feet on which to gaze as part of the action of activating the lenses. The target creature must succeed at a DC 14 Will save or be affected as per *vision of Hell* for 5 minutes, except that the effect is a phantasm, rather than glamer, and it follows the affected creature rather than affecting an area. An affected creature continues to see the terrifying hellscape for the duration, regardless of the creature's location. As with *vision of Hell*, devils and all lawful evil creatures are immune to the effect caused by this item. The *eyes of the damned* can be activated up to three times per day. Both lenses must be worn by the same wearer for the magic item to take effect.
 
 **Construction Requirements:** Craft Wondrous Item, *vision of Hell*; **Cost** 7,500 gp
 
@@ -362,7 +362,7 @@ These two clear crystal lenses fit directly over the wearer's eyes. When the wea
 
 **Aura** moderate evocation
 
-This rod of blackened iron is inset with rubies and functions as a +1 *cunning* light mace. Unholy water poured over the rod is absorbed, giving the rod 1 charge per vial. When the rod strikes a creature, the wielder can expend 1 charge from the rod to spray the creature with burning blood from the weapon's head. This burning blood deals 1d6 points of damage (half fire, half unholy). Alternatively, the wielder can expend 5 charges at once to create a spray of burning blood in a 15-foot cone. Creatures in the area take 5d4 points of damage (half fire, half unholy; Reflex DC 17 half). The rod can hold at most 10 charges at any one time. Charging the rod with unholy water is a standard action that provokes attacks of opportunity.
+This rod of blackened iron is inset with rubies and functions as a +1 *cunning* light mace. Unholy water poured over the rod is absorbed, giving the rod 1 charge per vial. When the rod strikes a creature, the wielder can expend 1 charge from the rod to spray the creature with burning blood from the weapon's head. This burning blood deals 1d6 points of damage (half fire, half unholy). Alternatively, the wielder can expend 5 charges at once to create a spray of burning blood in a 15-foot cone. Creatures in the area take 5d4 points of damage (half fire, half unholy; Reflex DC 17 half). The rod can hold at most 10 charges at any one time. Charging the rod with unholy water is a standard action (1 AP) that provokes attacks of opportunity.
 
 **Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *flame strike*, *true strike*; **Cost** 5,525 gp
 
@@ -436,11 +436,11 @@ This simple, hollow tube roughly as long as the user's forearm is typically made
 
 **Price** 5 gp (masterwork 55 gp); **Weight** 1 lb.
 
-This blunt iron hook secures to the user's forearm with a sturdy strap. When this item is hooked onto a rope or a similar object that has been fastened at a downward angle, the owner can use it to climb down the rope at a speed of 30 feet as a move action instead of climbing at her normal speed, but the user must take at least one move action doing so each round or she falls. Using a zip-line hook in this way requires a successful DC 5 Climb check for declinations of 90 degrees (straight down), increasing by 5 for every 15 degrees off that baseline in either direction, to a maximum DC of 30 at a 15- or 165-degree declination. It is impossible to utilize a zip-line hook on a rope without a slope, or to ascend an upward-sloping one.
+This blunt iron hook secures to the user's forearm with a sturdy strap. When this item is hooked onto a rope or a similar object that has been fastened at a downward angle, the owner can use it to climb down the rope at a speed of 30 feet as a move action (1 AP) instead of climbing at her normal speed, but the user must take at least one move action (1 AP) doing so each round or she falls. Using a zip-line hook in this way requires a successful DC 5 Climb check for declinations of 90 degrees (straight down), increasing by 5 for every 15 degrees off that baseline in either direction, to a maximum DC of 30 at a 15- or 165-degree declination. It is impossible to utilize a zip-line hook on a rope without a slope, or to ascend an upward-sloping one.
 
 Zip-line hooks are designed for use with two hands. A character can use a zip-line hook one-handed, but if she does so, she takes a –8 penalty on her Climb checks. Moving via a zip line is considered rigorous motion for the purpose of casting spells. If a zip line or its rope becomes broken while in use, the character using the zip line falls.
 
-A zip-line hook can be improvised from cloth, leather, or any flexible hook-shaped object. Each time the character uses a move action to move with an improvised zip-line hook, the hook takes 1d6 points of damage from friction. A masterwork zip-line hook grants a +2 circumstance bonus on Climb checks to descend a rope.
+A zip-line hook can be improvised from cloth, leather, or any flexible hook-shaped object. Each time the character uses a move action (1 AP) to move with an improvised zip-line hook, the hook takes 1d6 points of damage from friction. A masterwork zip-line hook grants a +2 circumstance bonus on Climb checks to descend a rope.
 
 ### Arrow of Latching
 
@@ -450,7 +450,7 @@ A zip-line hook can be improvised from cloth, leather, or any flexible hook-shap
 
 The shaft of this unassuming arrow appears tightly wrapped in 6-1/4 feet of twine from arrowhead to fletching. In reality, the twine actually consists of 100 feet of hemp rope, reduced to one-sixteenth its size. An *arrow of latching* functions as a mundane arrow when fired at a creature, but when fired at a Medium or larger object, it embeds itself if the attack roll hits an AC of 5 + the hardness of the target object.
 
-While the arrow is so lodged, anyone within 200 feet of it can speak the appropriate command word to unfurl and lower the arrow's hemp rope, causing the rope to return to its true size and extend downward 100 feet. If the character who says the command word has a free hand and is within 100 feet of the *arrow of latching* when he utters the command, the rope swings directly into his hand. A character attempting to hit an object with an *arrow of latching* can make a single ranged attack with the arrow and speak the command word to extend the rope after attacking with the arrow as a full-round action. Once the arrow is fixed, the rope can be used for any purpose a rope could serve and can bear up to 1,000 pounds at a time. If this weight limit is exceeded, the *arrow of latching* snaps, and any creature or object supported by the rope falls.
+While the arrow is so lodged, anyone within 200 feet of it can speak the appropriate command word to unfurl and lower the arrow's hemp rope, causing the rope to return to its true size and extend downward 100 feet. If the character who says the command word has a free hand and is within 100 feet of the *arrow of latching* when he utters the command, the rope swings directly into his hand. A character attempting to hit an object with an *arrow of latching* can make a single ranged attack with the arrow and speak the command word to extend the rope after attacking with the arrow as a full-round action (3 AP). Once the arrow is fixed, the rope can be used for any purpose a rope could serve and can bear up to 1,000 pounds at a time. If this weight limit is exceeded, the *arrow of latching* snaps, and any creature or object supported by the rope falls.
 
 The arrow remains embedded within the target object indefinitely, although the user can pull it free from the target object by speaking a second command word or by succeeding at a DC 15 Strength check. If removed, the *arrow of latching* loses its magic, reduced to a common arrow.
 
@@ -462,11 +462,11 @@ The arrow remains embedded within the target object indefinitely, although the u
 
 **Aura** faint enchantment
 
-These garish tokens usually take the form of a colorful adornment for a weapon; attaching a token takes a full-round action and provokes attacks of opportunity. Once per day, when a token is tied to a ranged weapon or thrown melee weapon that the user is wielding, she can use that token's ability, as described below. If the bearer has a grit or panache pool, she can spend grit or panache points to gain one additional use per point spent. A character can benefit from only one token at a time; securing a second token to a weapon provides no additional effects. There are four types of tokens, each offering a different benefit.
+These garish tokens usually take the form of a colorful adornment for a weapon; attaching a token takes a full-round action (3 AP) and provokes attacks of opportunity. Once per day, when a token is tied to a ranged weapon or thrown melee weapon that the user is wielding, she can use that token's ability, as described below. If the bearer has a grit or panache pool, she can spend grit or panache points to gain one additional use per point spent. A character can benefit from only one token at a time; securing a second token to a weapon provides no additional effects. There are four types of tokens, each offering a different benefit.
 
-- **Black Feather**: As a swift action when she takes a 5-foot step, the user can move an additional 5 feet, for a total of 10 feet. This additional movement provokes attacks of opportunity as normal.
-- **Brass Leaf**: When the wielder uses this token as a swift action, her allies don't provide cover against her ranged attacks until the end of her turn.
-- **Silver Chime**: When the user misses with a ranged attack because of concealment, as a swift action she can reroll her miss chance percentile roll to see whether she actually hits.
+- **Black Feather**: As a swift action (1 AP) when she takes a 5-foot step, the user can move an additional 5 feet, for a total of 10 feet. This additional movement provokes attacks of opportunity as normal.
+- **Brass Leaf**: When the wielder uses this token as a swift action (1 AP), her allies don't provide cover against her ranged attacks until the end of her turn.
+- **Silver Chime**: When the user misses with a ranged attack because of concealment, as a swift action (1 AP) she can reroll her miss chance percentile roll to see whether she actually hits.
 - **Teal Bead**: While making a ranged attack, the user doesn't provoke attacks of opportunity.
 
 **Construction Requirements:** Craft Wondrous Item, *haste*, creator must be able to use grit or panache; **Cost** 1,250 gp
@@ -477,7 +477,7 @@ These garish tokens usually take the form of a colorful adornment for a weapon; 
 
 **Aura** faint transmutation
 
-This mithral zip-line hook is attached to a black leather strap with a bronze buckle shaped like a spider. When the hook is attached to a rope, a cable, or a similar object, the user can move along the rope at a speed of 30 feet per move action, regardless of the rope's slope or inclination; a *hook of ascension* can even carry its user straight up vertical ropes in this manner. Furthermore, the user doesn't need to attempt Climb checks while using a *hook of ascension* to climb a rope, and this movement does not constitute vigorous motion for the purpose of casting spells. The hook can even be commanded to stop mid-travel, suspending its user in midair along the rope's path without risk of falling.
+This mithral zip-line hook is attached to a black leather strap with a bronze buckle shaped like a spider. When the hook is attached to a rope, a cable, or a similar object, the user can move along the rope at a speed of 30 feet per move action (1 AP), regardless of the rope's slope or inclination; a *hook of ascension* can even carry its user straight up vertical ropes in this manner. Furthermore, the user doesn't need to attempt Climb checks while using a *hook of ascension* to climb a rope, and this movement does not constitute vigorous motion for the purpose of casting spells. The hook can even be commanded to stop mid-travel, suspending its user in midair along the rope's path without risk of falling.
 
 **Construction Requirements:** Craft Wondrous Item, *levitate*, *spider climb*; **Cost** 6,500 gp
 
@@ -499,7 +499,7 @@ This linen hood is simply decorated with the colors of the forest and designed t
 
 **Aura** faint conjuration
 
-As a swift action up to three times per day, the wearer can create fungi in every square through which she walks during her turn. The fungi in these squares count as difficult terrain. After 1 minute, most of the fungi disappear; those that remain provide no impediment.
+As a swift action (1 AP) up to three times per day, the wearer can create fungi in every square through which she walks during her turn. The fungi in these squares count as difficult terrain. After 1 minute, most of the fungi disappear; those that remain provide no impediment.
 
 **Construction Requirements:** Craft Wondrous Item, *entangle*; **Cost** 1,000 gp
 
@@ -509,7 +509,7 @@ As a swift action up to three times per day, the wearer can create fungi in ever
 
 **Aura** moderate necromancy
 
-This necklace is a string of intricately carved bones that hold fragments of drowned souls. The wearer can mimic the voice of anyone whose spirit is stored in the necklace as if using *sound mimicry*. Additionally, the wearer can destroy a bone as a standard action to summon a drowned shade, which has the stats of a water elemental with the following changes. A drowned shade gains undead immunities and is treated as undead, and it projects a 20-foot-radius drowning aura, which imposes a –5 penalty on Swim checks to creatures without the aquatic or water subtype and negates magical means of breathing underwater. Each round a creature holds its breath within the aura counts as 2 rounds for the purpose of drowning.
+This necklace is a string of intricately carved bones that hold fragments of drowned souls. The wearer can mimic the voice of anyone whose spirit is stored in the necklace as if using *sound mimicry*. Additionally, the wearer can destroy a bone as a standard action (1 AP) to summon a drowned shade, which has the stats of a water elemental with the following changes. A drowned shade gains undead immunities and is treated as undead, and it projects a 20-foot-radius drowning aura, which imposes a –5 penalty on Swim checks to creatures without the aquatic or water subtype and negates magical means of breathing underwater. Each round a creature holds its breath within the aura counts as 2 rounds for the purpose of drowning.
 
 Once per day, if the wearer falls below 0 hit points, she can destroy a bone to heal herself (this is not an action).
 
@@ -531,7 +531,7 @@ This garish signet ring is worth 1,500 gp for its materials and workmanship alon
 
 If the ring's wielder gives a command that is contrary to the nature of a ruled creature, that creature receives another saving throw to shake off the effect. Even if the ruled creature fails the saving throw and remains ruled, it can still refuse that particular command. The GM is the final arbiter of what constitutes a command that is contrary to the nature of a ruled creature, and for most creatures, if the ring's wearer coopts their every moment, the creature can attempt a save every day.
 
-A creature is ruled until one of the following happens: it shakes off the effect after being given a command against its nature, an outside source (such as *break enchantment*) removes the compulsion, the wearer removes the *ring of rulership*, the wearer commands the ring to release the creature (a standard action that need not take place in the creature's presence), or another member of the ruler's family rules the creature using a different *ring of rulership*, whichever comes first.
+A creature is ruled until one of the following happens: it shakes off the effect after being given a command against its nature, an outside source (such as *break enchantment*) removes the compulsion, the wearer removes the *ring of rulership*, the wearer commands the ring to release the creature (a standard action (1 AP) that need not take place in the creature's presence), or another member of the ruler's family rules the creature using a different *ring of rulership*, whichever comes first.
 
 The power of the ring can rule no more than three creatures at a time; to rule a new creature, the ring's wearer must first release one of the three ruled creatures.
 
@@ -557,7 +557,7 @@ While the *commander's tent* is in tent form, the user can utter a third command
 
 **Aura** moderate conjuration
 
-A tangled layer of green moss grown on a thin, damp sheet of sod, this heavy cloak can be wrapped around the wearer to provide a measure of camouflage. When donned in forest or jungle terrain, a *moss cloak* gives its wearer a +10 competence bonus on Stealth checks. In any terrain, the wearer can remove a single poison currently affecting him once per day as a standard action. This causes the moss to turn a sickly shade of brown as it draws the toxins from the wearer's body, negating the Stealth bonus until the cloak heals itself 24 hours later.
+A tangled layer of green moss grown on a thin, damp sheet of sod, this heavy cloak can be wrapped around the wearer to provide a measure of camouflage. When donned in forest or jungle terrain, a *moss cloak* gives its wearer a +10 competence bonus on Stealth checks. In any terrain, the wearer can remove a single poison currently affecting him once per day as a standard action (1 AP). This causes the moss to turn a sickly shade of brown as it draws the toxins from the wearer's body, negating the Stealth bonus until the cloak heals itself 24 hours later.
 
 **Construction Requirements:** Craft Wondrous Item, *invisibility*, *neutralize poison*, *restoration*; **Cost** 9,350 gp
 
@@ -588,7 +588,7 @@ This item appears to be an unremarkable mesh bag with many small openings, but i
 
 While unattended, these rough leather boots appear to be in a slightly different place each time a creature observes them. They seem to flicker around the wearer's feet for the first 24 hours she wears them, reducing her movement speed by 5 feet and imposing a –2 penalty on Acrobatics checks.
 
-After she has worn the boots for 24 hours, the flickering decreases, the penalties end, and she can activate the boots. Three times per day, she can activate the boots as a swift action to avoid provoking attacks of opportunity while moving out of a threatened square. While activated, the boots conceal the wearer's movement in such a way that her foes see only short, blurred flashes of movement. Any creature that has blindsight or a similar nonvisual sense or is affected by *true seeing* can still make attacks of opportunity against the wearer as normal.
+After she has worn the boots for 24 hours, the flickering decreases, the penalties end, and she can activate the boots. Three times per day, she can activate the boots as a swift action (1 AP) to avoid provoking attacks of opportunity while moving out of a threatened square. While activated, the boots conceal the wearer's movement in such a way that her foes see only short, blurred flashes of movement. Any creature that has blindsight or a similar nonvisual sense or is affected by *true seeing* can still make attacks of opportunity against the wearer as normal.
 
 **Construction Requirements:** Craft Wondrous Item, *blur*; **Cost** 1,000 gp
 
@@ -636,7 +636,7 @@ The wearer gains a +2 competence bonus on Appraise and Intimidate checks. Once p
 
 This finely constructed mask of colored cloth and carved bone incorporates parts of the animal it represents, such as its hair, hide, horn, fur, and teeth. Depicting the head of an ape, bear, boar, cat, fox, horse, pig, rat, or wolf, the mask completely covers the wearer's face, but the wearer can see through the mask's eyes as though they were her own.
 
-As a swift action, the wearer can transform her head into the form of the animal depicted by the mask for up to 5 minutes per day, absorbing the mask into her body in the process but leaving in place any other item she wears on her head. While so transformed, the wearer retains the ability to speak normally and can complete verbal spell components, utter command words, and activate spell-completion and spell-trigger items. She also gains low-light vision, scent, and either a bite or gore attack (as appropriate to the animal) that deals 1d4 points of damage for a Medium wearer (1d3 if Small).
+As a swift action (1 AP), the wearer can transform her head into the form of the animal depicted by the mask for up to 5 minutes per day, absorbing the mask into her body in the process but leaving in place any other item she wears on her head. While so transformed, the wearer retains the ability to speak normally and can complete verbal spell components, utter command words, and activate spell-completion and spell-trigger items. She also gains low-light vision, scent, and either a bite or gore attack (as appropriate to the animal) that deals 1d4 points of damage for a Medium wearer (1d3 if Small).
 
 This duration does not need to be consecutive, but it must be used in 1-minute increments.
 
@@ -708,9 +708,9 @@ Once the cycle of destruction begins, each sigil's effect can be stopped only by
 
 **Aura** faint abjuration
 
-This +1 *cestus* of blackened leather is reinforced with strips of dark iron over the fingers and cruel spikes along the back of the hand and forearm. With a mental command, the wearer can cause a series of cords, chains, and braces around the palm to lock a held weapon in place, gaining a +10 bonus to her CMD to prevent that weapon from being disarmed. While the cestus is locked in this manner, the wearer can't use the hand wearing it to complete the somatic component of spells or for skill checks. Locking or unlocking a weapon is a move action.
+This +1 *cestus* of blackened leather is reinforced with strips of dark iron over the fingers and cruel spikes along the back of the hand and forearm. With a mental command, the wearer can cause a series of cords, chains, and braces around the palm to lock a held weapon in place, gaining a +10 bonus to her CMD to prevent that weapon from being disarmed. While the cestus is locked in this manner, the wearer can't use the hand wearing it to complete the somatic component of spells or for skill checks. Locking or unlocking a weapon is a move action (1 AP).
 
-If the wearer drops the weapon or is disarmed, regardless of whether the cestus was locked, a leather strap attached to the weapon prevents it from moving farther than the wielder's square, and the wielder can recover the weapon as a move action. As a move action, the wearer can issue a mental command that causes the strap to detach from the weapon. As with a weapon cord, the wearer cannot otherwise switch to a different weapon in that hand unless the strap is detached or cut (a move action or an attack, hardness 1, 5 hp). If the strap is damaged or destroyed, the cestus's wearer can spend 1 minute wrapping a mundane weapon cord around the cestus, in which case the cestus absorbs the weapon cord into itself and the leather strap mends itself completely.
+If the wearer drops the weapon or is disarmed, regardless of whether the cestus was locked, a leather strap attached to the weapon prevents it from moving farther than the wielder's square, and the wielder can recover the weapon as a move action (1 AP). As a move action (1 AP), the wearer can issue a mental command that causes the strap to detach from the weapon. As with a weapon cord, the wearer cannot otherwise switch to a different weapon in that hand unless the strap is detached or cut (a move action (1 AP) or an attack, hardness 1, 5 hp). If the strap is damaged or destroyed, the cestus's wearer can spend 1 minute wrapping a mundane weapon cord around the cestus, in which case the cestus absorbs the weapon cord into itself and the leather strap mends itself completely.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *animate rope*; **Cost** 2,805 gp
 
@@ -746,7 +746,7 @@ The wearer takes a –2 penalty on Stealth checks while wearing the ghungroos.
 
 **Aura** moderate enchantment
 
-Killers use *smoke orbs of forgetfulness* to conceal their identities and cover their escapes in the event of failed assassination attempts. The smoke orb can be thrown to the ground as a standard action, destroying the item and creating a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick, and can be thrown at the user's feet or as a ranged touch attack with a range of 20 feet.
+Killers use *smoke orbs of forgetfulness* to conceal their identities and cover their escapes in the event of failed assassination attempts. The smoke orb can be thrown to the ground as a standard action (1 AP), destroying the item and creating a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick, and can be thrown at the user's feet or as a ranged touch attack with a range of 20 feet.
 
 Any creature in the smoke cloud that isn't aware of the smoke orb's nature must succeed at a DC 16 Will save or have its memory altered as though its sight had been obscured during the previous 2 rounds. This can cause it to forget the appearance of any creatures with which it had interacted or battled with during that time. From the point the smoke orb is thrown, it functions as normal smoke, giving the user time to escape but no longer protecting its identity from creatures that leave the smoke and can see the user.
 
@@ -760,7 +760,7 @@ A creature that is already aware of the abilities of a *smoke orb of forgetfulne
 
 **Aura** moderate necromancy
 
-This ruby is cut like a droplet of blood and suspended on an elaborate golden necklace. Once per day as a swift action, the wearer can envenom a wielded weapon with her saliva or blood as though she were a vishkanya. The wearer must be injured to use her blood with this ability, but can voluntarily deal 1 point of damage to herself with a piercing or slashing weapon in order to use it.
+This ruby is cut like a droplet of blood and suspended on an elaborate golden necklace. Once per day as a swift action (1 AP), the wearer can envenom a wielded weapon with her saliva or blood as though she were a vishkanya. The wearer must be injured to use her blood with this ability, but can voluntarily deal 1 point of damage to herself with a piercing or slashing weapon in order to use it.
 
 If the wearer is a vishkanya, she can use her toxic racial trait two additional times per day, and the DC of saving throws against her venom increases by 1.
 
@@ -794,7 +794,7 @@ These matching doorknobs or handles with latches are made of solid brass and are
 
 To use the *doorknobs of peregrination*, a user affixes the pair of them upon two entirely separate, unconnected portals. When one of the doors is opened by means of one such doorknob, it causes the other door to open as well, and the user and anyone with him can step through the opening as if the two doors were one. The doorknobs have a range of 400 feet; if the two doors are farther apart, the doorknobs of peregrination don't function, and if the door on either side is locked, stuck, or otherwise secured, the doorknob fails to open the first door (even if the second door is the one that is locked).
 
-Doorknobs of peregrination can be removed and placed on a variety of doors as often as desired (placing a doorknob is a standard action, as is removing one). They can be placed upon different types of doors, as long as the surface of each door is solid rather than open-air. Thus, the knob can't function on a gate or portcullis, but it works on an otherwise solid door with a small, sliding window (such as a prison door) as long as the window is closed at the time of use. A knob can be placed upon a door and activated to connect with its twin, and the user can remove the first knob while the door is open as a standard action that provokes an attack of opportunity in order to bring it with him when he steps through. If he does so, the magic of the portal lasts for 1 additional round and then fades.
+Doorknobs of peregrination can be removed and placed on a variety of doors as often as desired (placing a doorknob is a standard action (1 AP), as is removing one). They can be placed upon different types of doors, as long as the surface of each door is solid rather than open-air. Thus, the knob can't function on a gate or portcullis, but it works on an otherwise solid door with a small, sliding window (such as a prison door) as long as the window is closed at the time of use. A knob can be placed upon a door and activated to connect with its twin, and the user can remove the first knob while the door is open as a standard action (1 AP) that provokes an attack of opportunity in order to bring it with him when he steps through. If he does so, the magic of the portal lasts for 1 additional round and then fades.
 
 **Construction Requirements:** Craft Wondrous Item, *dimension door*; **Cost** 20,000 gp
 

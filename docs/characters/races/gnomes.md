@@ -133,7 +133,7 @@ Gnomes have access to the following equipment.
 
 **Hound’s Blood**: If you apply the thick, red paste known as hound’s blood to your nostrils or upper lip, it greatly enhances your sense of smell. For most creatures, this grants a +2 circumstance bonus on Perception checks for 1 hour. For gnomes, it briefly grants a super-heightened sense of smell, granting the scent ability for 5 minutes, before the potency is reduced to a +2 circumstance bonus on Perception checks for an additional 1 hour.
 
-**Moonrod**: This 1-foot-long, silver-tipped tin rod glows dimly when struck as a standard action. It sheds dim light in a 30-foot radius. However, the light given off by a moonrod is particularly easily to perceive for creatures with low-light vision. For such creatures, a moonrod increases the light level by one step (to a maximum of normal) for a 60-foot radius. It glows for 6 hours, after which the silver tip is burned out and worthless.
+**Moonrod**: This 1-foot-long, silver-tipped tin rod glows dimly when struck as a standard action (1 AP). It sheds dim light in a 30-foot radius. However, the light given off by a moonrod is particularly easily to perceive for creatures with low-light vision. For such creatures, a moonrod increases the light level by one step (to a maximum of normal) for a 60-foot radius. It glows for 6 hours, after which the silver tip is burned out and worthless.
 
 **Obsession Log**: Gnomes use these small books to record information about their obsessions. When a gnome consults her obsession log (taking 1 minute), she gains a +2 circumstance bonus on the next Craft or Profession check she makes, as long as that skill was the one chosen for her obsessive racial trait.
 

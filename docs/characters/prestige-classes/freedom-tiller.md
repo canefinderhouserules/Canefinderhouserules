@@ -45,7 +45,7 @@ The following are class features of the freedom tiller prestige class.
 
 #### Crop (Ex)
 
-As a standard action, a freedom tiller can designate a number of allies up to 3 + her Charisma modifier as part of her crop. Members of a crop must remain within 30 feet of the tiller to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If any leave this range, the tiller must designate these allies again for them to be included in her crop. At 7th level, this range increases to 60 feet.
+As a standard action (1 AP), a freedom tiller can designate a number of allies up to 3 + her Charisma modifier as part of her crop. Members of a crop must remain within 30 feet of the tiller to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If any leave this range, the tiller must designate these allies again for them to be included in her crop. At 7th level, this range increases to 60 feet.
 
 #### Swift Sower (Ex)
 

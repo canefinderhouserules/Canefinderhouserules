@@ -81,11 +81,11 @@ At 2nd level, a death slayer gains undead as a favored enemy. This ability funct
 
 #### Swift Smite (Su)
 
-At 3rd level, a death slayer can use her Channel Smite feat an additional number of times per day equal to her death slayer level without expending a use of her total channel energy uses per day. She cannot use these additional uses of Channel Smite to use channel energy in the regular way. Whenever she uses Channel Smite, she can activate the ability as an immediate action after she rolls for a melee attack but before the result is revealed.
+At 3rd level, a death slayer can use her Channel Smite feat an additional number of times per day equal to her death slayer level without expending a use of her total channel energy uses per day. She cannot use these additional uses of Channel Smite to use channel energy in the regular way. Whenever she uses Channel Smite, she can activate the ability as an immediate action (1 AP of your next turn) after she rolls for a melee attack but before the result is revealed.
 
 #### Infuse Sabre (Su)
 
-Once per day at 4th level, a death slayer can infuse a wielded sawtooth sabre with positive energy as a swift action. This infusion of energy lasts for 3 rounds. When brandishing an infused sabre, a death slayer’s channeled energy damage increases by half (+50%), and undead take a –2 penalty on all saving throws against her channeled energy and against any spell she casts. At 7th level, she can infuse a sabre twice per day, and at 10th level she can do so three times a day, but she can have only one infused sabre at a time.
+Once per day at 4th level, a death slayer can infuse a wielded sawtooth sabre with positive energy as a swift action (1 AP). This infusion of energy lasts for 3 rounds. When brandishing an infused sabre, a death slayer’s channeled energy damage increases by half (+50%), and undead take a –2 penalty on all saving throws against her channeled energy and against any spell she casts. At 7th level, she can infuse a sabre twice per day, and at 10th level she can do so three times a day, but she can have only one infused sabre at a time.
 
 #### Deadly Conviction (Su)
 
@@ -97,4 +97,4 @@ At 8th level, one sawtooth sabre a death slayer wields functions as a bane weapo
 
 #### Aura of Life (Su)
 
-At 10th level, a death slayer can emit a 10-foot aura of positive energy that weakens undead creatures as a swift action. This creates a dim crimson glow around the death slayer. Each undead creature within the aura at the start of its turn takes 4d6 points of positive energy damage. While this aura is active, the death slayer has fast healing 10. A death slayer can activate this aura for up to 10 rounds per day. The duration need not be consecutive, and she can deactivate the aura as a free action.
+At 10th level, a death slayer can emit a 10-foot aura of positive energy that weakens undead creatures as a swift action (1 AP). This creates a dim crimson glow around the death slayer. Each undead creature within the aura at the start of its turn takes 4d6 points of positive energy damage. While this aura is active, the death slayer has fast healing 10. A death slayer can activate this aura for up to 10 rounds per day. The duration need not be consecutive, and she can deactivate the aura as a free action.

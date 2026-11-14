@@ -14,7 +14,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Change Shape, Lesser (3 RP)**  
 *Prerequisite*: Aberration, dragon, fey, humanoid, or monstrous humanoid type  
-*Benefit*: Members of this race gain the following supernatural ability: A member of this race can assume the appearance of a single form of a single humanoid race of its size. The form is static and cannot be changed each time it takes this form. The creature gains a +10 racial bonus on Disguise checks made to appear as the member of the race whose appearance it assumes. Changing its shape is a standard action. This trait otherwise functions as *alter* *self*, save that the creature does not adjust its ability scores.
+*Benefit*: Members of this race gain the following supernatural ability: A member of this race can assume the appearance of a single form of a single humanoid race of its size. The form is static and cannot be changed each time it takes this form. The creature gains a +10 racial bonus on Disguise checks made to appear as the member of the race whose appearance it assumes. Changing its shape is a standard action (1 AP). This trait otherwise functions as *alter* *self*, save that the creature does not adjust its ability scores.
 
 **Deep Magic (3 RP)**  
 *Prerequisite*: Native of the Underworld  
@@ -146,7 +146,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Weather Savvy (1 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Plane of Air or fey type  
-*Benefit*: Members of this race are so in tune with the air and sky they can sense the slightest change in atmospheric conditions. They can spend a full-round action to predict the weather in an area for the next 24 hours. This prediction is always accurate, but cannot account for spells or supernatural effects that might alter the forecast.
+*Benefit*: Members of this race are so in tune with the air and sky they can sense the slightest change in atmospheric conditions. They can spend a full-round action (3 AP) to predict the weather in an area for the next 24 hours. This prediction is always accurate, but cannot account for spells or supernatural effects that might alter the forecast.
 
 ## Advanced Traits
 

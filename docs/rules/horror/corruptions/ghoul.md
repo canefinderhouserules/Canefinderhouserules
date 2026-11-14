@@ -34,7 +34,7 @@ Devouring brains imparts knowledge to you.
 
 **Prerequisites**: Manifestation level 5th, gnashing bite*.
 
-**Gift**: If you eat the brain of a creature with an Intelligence score of 3 or higher, you gain a +2 insight bonus on all skill checks in which the creature possessed ranks for 1 hour. Eating a brain is a full-round action, and the target must be dead or helpless. If the target is alive, you can attempt to eat its brain as a coup de grace attack with your gnashing bite, but you gain the bonus only if your attempt results in the victim’s death.
+**Gift**: If you eat the brain of a creature with an Intelligence score of 3 or higher, you gain a +2 insight bonus on all skill checks in which the creature possessed ranks for 1 hour. Eating a brain is a full-round action (3 AP), and the target must be dead or helpless. If the target is alive, you can attempt to eat its brain as a coup de grace attack with your gnashing bite, but you gain the bonus only if your attempt results in the victim’s death.
 
 **Stain**: You take a –4 penalty on saves to resist ghoul corruption.
 
@@ -108,7 +108,7 @@ Your touch weakens the muscles of your victims.
 
 **Prerequisites**: Manifestation level 4th, rending claws*.
 
-**Gift**: Once per day per manifestation level, you can make a staggering claw attack as a standard action. If you hit, the target must succeed at a Fortitude save or be staggered for a number of rounds equal to 1/2 your manifestation level.
+**Gift**: Once per day per manifestation level, you can make a staggering claw attack as a standard action (1 AP). If you hit, the target must succeed at a Fortitude save or be staggered for a number of rounds equal to 1/2 your manifestation level.
 
 **Stain**: The flesh on your hands is covered with pustules and blisters, and your hunger begins to devour your emotions. The penalty you take on ranged attacks and attacks with manufactured weapons increases to –4. Your spells with somatic or emotion (For example, if you were wearing leather armor and casting arcane spells, you would have a 15% spell failure chance.)
 

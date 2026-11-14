@@ -20,7 +20,7 @@ When your turn comes up in the initiative order, you can commit up to 3 acts. So
 
 Reactions are like actions, but can be taken only when they are triggered, and only during other characters’ turns. Usually, reactions are triggered by actions taken by other combatants. For instance, the most common reaction you’ll likely take is the attack of opportunity: an attack you can make when a foe in your threatened area drops his guard (typically by moving, making a ranged attack, or attempting a complicated attack for which he lacks the proper training). Some reactions may provoke attacks of opportunity—the reaction’s subtype, if any, determines whether it provokes attacks of opportunity.
 
-Other times, something that happens to you might grant you the ability to take a reaction. Spells and abilities that are used as immediate actions in the default action economy are reactions in this system. For example, the spell feather fall is cast an immediate action in the default action economy—in this system, it’s a reaction.
+Other times, something that happens to you might grant you the ability to take a reaction. Spells and abilities that are used as immediate actions in the default action economy are reactions in this system. For example, the spell feather fall is cast an immediate action (1 AP of your next turn) in the default action economy—in this system, it’s a reaction.
 
 ## Action Types and Subtypes
 
@@ -54,7 +54,7 @@ The following are some of the more common actions. To take any of them, you need
 
 **Bull Rush (Attack)**: You push a foe that is at most one size category larger than you straight back. Attempt a bull rush combat maneuver check. If you’re successful, you push the foe back 5 feet. For every 5 by which your check exceeds your foe’s CMD, you push that foe back 5 additional feet. You can choose to move along with the target if you have the necessary acts to do so. The foe’s movement doesn’t provoke attacks of opportunity unless you have the Greater Bull Rush Feat.
 
-**Cast a Swift Spell**: You cast a single spell or use a single spell-like ability with a casting time of 1 swift action.
+**Cast a Swift Spell**: You cast a single spell or use a single spell-like ability with a casting time of 1 swift action (1 AP).
 
 **Control a Frightened Mount (Complex)**: You attempt to control a mount that’s not trained for combat in battle. If you fail the Ride check, you can’t try again until your next turn.
 
@@ -97,7 +97,7 @@ You load a hand crossbow or a light crossbow with a bolt. If you have the Rapid 
 
 **Search**: You use Perception to search a room for salient hidden creatures or clues, or you make a detailed search of a 10-foot-square area to detect traps, triggers, hidden objects, or footprints. When you search an area, this action has the complex subtype.
 
-**Spell Combat (Attack, Complex)**: You make an attack roll with a light or one-handed melee weapon, then cast a spell on the magus spell list with a casting time of 1 standard action. You take a –2 penalty on the melee attack, but the spell is cast regardless of whether the attack hits. If you cast the spell defensively, you can subtract your Intelligence bonus from the result of the attack roll to add the same value as a circumstance bonus on the concentration check. You must have the spell combat class feature to take this action, and can take this action only once per turn. To take this action, you must have one hand free. You can’t also take the following actions this turn: cast a standard-action spell or cast a 1-round-action spell.
+**Spell Combat (Attack, Complex)**: You make an attack roll with a light or one-handed melee weapon, then cast a spell on the magus spell list with a casting time of 1 standard action (1 AP). You take a –2 penalty on the melee attack, but the spell is cast regardless of whether the attack hits. If you cast the spell defensively, you can subtract your Intelligence bonus from the result of the attack roll to add the same value as a circumstance bonus on the concentration check. You must have the spell combat class feature to take this action, and can take this action only once per turn. To take this action, you must have one hand free. You can’t also take the following actions this turn: cast a standard-action spell or cast a 1-round-action spell.
 
 **Stand Up (Move)**: You stand up from being prone.
 
@@ -107,7 +107,7 @@ You load a hand crossbow or a light crossbow with a bolt. If you have the Rapid 
 
 **Trip (Attack)**: You try to trip your opponent. Attempt a trip combat maneuver check against a foe that is no more than one size category larger than you. If you succeed, you knock the target prone. If you fail by 10 or more, you are knocked prone instead. If the target has more than two legs, it gains a +2 bonus to its CMD against this attempt for each additional leg it possesses.
 
-**Use a Swift Ability**: You use a single ability that can be used as a swift action.
+**Use a Swift Ability**: You use a single ability that can be used as a swift action (1 AP).
 
 ### Two-Weapon Fighting and Flurry of Blows
 
@@ -127,7 +127,7 @@ The following is a list of the main advanced actions in this system. The number 
 
 **Cast a 1-Round-Action Spell (Complex; 3 Acts)**: You cast a spell with a casting time of 1 round. You can split the acts over 2 rounds, but those rounds must be consecutive. If you cast the entire spell in 1 turn, you can choose to have the spell’s effects manifest at the end of that turn or at the start of your next turn. This isn’t an attack action, even if the spell requires a ranged attack roll. If you provoke attacks of opportunity when casting the spell, you don’t provoke attacks a second time when making the ranged attack roll.
 
-**Cast a Standard-Action Spell (Complex; 2 Acts)**: You cast a spell with a casting time of 1 standard action. This isn’t an attack action, even if the spell requires a ranged attack roll. If you provoke attacks of opportunity when casting the spell, you don’t provoke attacks a second time when making the ranged attack roll.
+**Cast a Standard-Action Spell (Complex; 2 Acts)**: You cast a spell with a casting time of 1 standard action (1 AP). This isn’t an attack action, even if the spell requires a ranged attack roll. If you provoke attacks of opportunity when casting the spell, you don’t provoke attacks a second time when making the ranged attack roll.
 
 **Charge (Move; 2 Acts)**: You move twice your speed directly toward a designated foe within your line of sight, ending the move in the closest space from which you can attack that foe. You must have a clear path to your foe. If anything hinders or blocks your movement along the path of a charge, you can’t take the charge action. As long as you have a base attack bonus of +1 or higher, you can draw a weapon as a free action at any point during the charge. At the end of the charge, you gain a +2 bonus on any melee attacks, bull rush combat maneuver checks, or overrun combat maneuver checks you attempt until the end of your turn, as long as those attacks or combat maneuver checks are made against the creature you designated when you charged.
 
@@ -135,7 +135,7 @@ The following is a list of the main advanced actions in this system. The number 
 
 **Continue a Grapple (2 Acts)**: You continue a grapple. If you initiated the grapple, you must either take this action at the start of each subsequent turn or end the grapple as a free action. When you take this action, you attempt a grapple combat maneuver check with a +5 bonus. If you’re successful, you can either move, deal damage to, or pin the creature you are grappling. Alternatively, you can attempt to tie up the creature with a rope.
 
-**Move**: If you decide to move your target, immediately after the grapple, you can take a move simple action and move the creature you are grappling with you. At the end of that move action, you can place your target in any space adjacent to you. If you attempt to place your foe in a hazardous location, the target can attempt to free itself from the grapple as a reaction, and gains a +4 bonus on that attempt.
+**Move**: If you decide to move your target, immediately after the grapple, you can take a move simple action and move the creature you are grappling with you. At the end of that move action (1 AP), you can place your target in any space adjacent to you. If you attempt to place your foe in a hazardous location, the target can attempt to free itself from the grapple as a reaction, and gains a +4 bonus on that attempt.
 
 **Damage**: If you decide to damage your opponent, you deal an amount of damage equal to that of your unarmed strike, natural attack, armor spikes, or a light or one- handed weapon you are holding. You can choose to make this damage either lethal or nonlethal.
 
@@ -187,13 +187,13 @@ You drink a potion, elixir, or another liquid, or apply an oil, gaining that liq
 
 **Free Actions Are Always Free Actions**: A free action in the default action economy is a free action in this one. Free actions typically don’t have a subtype, and thus don’t provoke attacks of opportunity. Keep in mind that some free actions are used in conjunction with other actions—that’s still true in this system. To use such a free action, you must take the other action it supports.
 
-**Swift Actions Are Always Simple Actions**: A swift action in the default action economy is always a simple action in this system. You need commit only 1 act to take that action. In rare cases, a GM might want to limit a given swift action to only once per turn.
+**Swift Actions Are Always Simple Actions**: A swift action (1 AP) in the default action economy is always a simple action in this system. You need commit only 1 act to take that action. In rare cases, a GM might want to limit a given swift action (1 AP) to only once per turn.
 
-**Move Actions Are Always Simple Actions**: A move action in the default action economy is always a simple action in this system.
+**Move Actions Are Always Simple Actions**: A move action (1 AP) in the default action economy is always a simple action in this system.
 
 **Standard-Action Attacks Are Typically Simple Actions**:
 
-Most actions that involve an attack roll or a combat maneuver check as a standard action in the standard economy are simple actions in this system. For combat maneuvers that can’t be substituted for one attack in a full-attack action and other complicated attacks, consider making them attack actions that require further consecutive acts to complete. Look at combat maneuvers such as drag, grapple, and reposition for examples of such actions.
+Most actions that involve an attack roll or a combat maneuver check as a standard action (1 AP) in the standard economy are simple actions in this system. For combat maneuvers that can’t be substituted for one attack in a full-attack action and other complicated attacks, consider making them attack actions that require further consecutive acts to complete. Look at combat maneuvers such as drag, grapple, and reposition for examples of such actions.
 
 **Standard-Action Supernatural and Spell-Like Abilities Are Advanced Actions**: Typically, these actions are advanced actions that require 2 acts. Supernatural abilities tend not to have a subtype (unless they involve movement or attacking, in which case it might be fitting to grant them those subtypes), and spell-like abilities typically have the complex subtype.
 
@@ -213,11 +213,11 @@ You can run for a number of rounds equal to your Constitution score; each round 
 
 **Use a Command Word Item (2 Acts)**: You activate a magic item with a command word.
 
-**Use a Spell Completion Item (Complex; 2 Acts)**: You cast a spell with a casting time of 1 standard action from a spell completion item. This isn’t an attack action, even if the spell requires a ranged attack roll. If you provoke attacks of opportunity when casting the spell, you don’t provoke further attacks when making the ranged attack roll.
+**Use a Spell Completion Item (Complex; 2 Acts)**: You cast a spell with a casting time of 1 standard action (1 AP) from a spell completion item. This isn’t an attack action, even if the spell requires a ranged attack roll. If you provoke attacks of opportunity when casting the spell, you don’t provoke further attacks when making the ranged attack roll.
 
 **Use a Spell Trigger Item (2 Acts)**: You cast a spell from a spell trigger item. This isn’t an attack action, even if the spell requires a ranged attack roll. If you provoke attacks of opportunity when casting the spell, you don’t provoke further attacks when making the ranged attack roll.
 
-**Use a Standard-Action Supernatural Ability (2 Acts)**: You use a supernatural ability that can be used as a standard action in the default action economy.
+**Use a Standard-Action Supernatural Ability (2 Acts)**: You use a supernatural ability that can be used as a standard action (1 AP) in the default action economy.
 
 **Use a Touch Spell on up to Six Allies (Complex; 3 Acts)**: If you cast a spell that allows you to touch targets over multiple rounds, this action allows you to touch up to six willing creatures within your melee reach (not counting expanded reach from reach weapons).
 
@@ -265,4 +265,4 @@ The following are the main reactions of this system.
 
 **Spend a Use of an Attack of Opportunity**: If an ability you possess allows you to spend a use of an attack of opportunity to perform some other action in the default action economy, that action is a reaction in this system.
 
-**Use an Immediate-Action Ability**: You can use an ability that can be used as an immediate action in the default action economy, as long as any conditions to use that ability are met.
+**Use an Immediate-Action Ability**: You can use an ability that can be used as an immediate action (1 AP of your next turn) in the default action economy, as long as any conditions to use that ability are met.

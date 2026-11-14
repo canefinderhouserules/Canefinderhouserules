@@ -1,6 +1,6 @@
 # Warpriest Blessings
 
-A warpriest can select any two blessings. Each blessing is named after the domain it represents. Unless otherwise noted, using a blessing is a standard action. A warpriest without a deity can select any two blessings (subject to GM approval). If a blessing’s power duplicates a spell effect, the warpriest’s caster level for that power is equal to his warpriest level. Blessings that affect weapons and armor benefit anyone who wields or wears those items, not just the warpriest.
+A warpriest can select any two blessings. Each blessing is named after the domain it represents. Unless otherwise noted, using a blessing is a standard action (1 AP). A warpriest without a deity can select any two blessings (subject to GM approval). If a blessing’s power duplicates a spell effect, the warpriest’s caster level for that power is equal to his warpriest level. Blessings that affect weapons and armor benefit anyone who wields or wears those items, not just the warpriest.
 
 ## Air Blessing
 
@@ -28,11 +28,11 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Charming Presence (minor)**: At 1st level, you can touch an ally and grant an entrancing blessing. For 1 minute, the ally becomes mesmerizing to her opponents, filling them with either abject admiration or paralyzing fear. This effect functions as sanctuary, except if the ally attacks an opponent, the effect ends with respect to only that opponent. This is a mind-affecting effect.
 
-**Dominance Aura (major)**: At 10th level, you can surround yourself with a tangible aura of majesty for 1 minute. While this aura is active, once per round as a swift action you can issue a command (as the command spell) to one creature within 30 feet; the creature must succeed at a Will saving throw or submit for 1 round.
+**Dominance Aura (major)**: At 10th level, you can surround yourself with a tangible aura of majesty for 1 minute. While this aura is active, once per round as a swift action (1 AP) you can issue a command (as the command spell) to one creature within 30 feet; the creature must succeed at a Will saving throw or submit for 1 round.
 
 ## Community Blessing
 
-**Communal Aid (minor)**: At 1st level, you can touch an ally and grant it the blessing of community. For the next minute, whenever that ally uses the aid another action, the bonus granted increases to +4. You can instead use this ability on yourself as a swift action.
+**Communal Aid (minor)**: At 1st level, you can touch an ally and grant it the blessing of community. For the next minute, whenever that ally uses the aid another action, the bonus granted increases to +4. You can instead use this ability on yourself as a swift action (1 AP).
 
 **Fight as One (major)**: At 10th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe-melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn.
 
@@ -40,7 +40,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Hexing Attack (minor)**: You can touch one weapon and enhance it to inflict a minor curse on the next target it strikes. The struck target must succeed at a Will saving throw or take a –2 penalty on attack rolls, saving throws, skill checks, or ability checks (warpriest's choice) for 1 minute.
 
-**Retributive Curse (major)**: At 10th level, as a swift or immediate action, you can inflict a curse on any adjacent creature that scores a critical hit against you or deals precision damage to you. The target must succeed at a Will saving throw or be cursed. Select one of the following effects: the target takes a –2 penalty to one ability score of your choice (the ability cannot be reduced below 1); the target takes a –2 penalty on attack rolls, saving throws, ability checks, and skill checks; each turn, the target has a 25% chance of taking no action (otherwise, it acts normally). This curse lasts for 1 hour. A creature can be subjected to only one instance of retributive curse at a time. This otherwise functions as [*bestow curse*](../../magic/spells/bestow-curse.md).
+**Retributive Curse (major)**: At 10th level, as a swift or immediate action (1 AP of your next turn), you can inflict a curse on any adjacent creature that scores a critical hit against you or deals precision damage to you. The target must succeed at a Will saving throw or be cursed. Select one of the following effects: the target takes a –2 penalty to one ability score of your choice (the ability cannot be reduced below 1); the target takes a –2 penalty on attack rolls, saving throws, ability checks, and skill checks; each turn, the target has a 25% chance of taking no action (otherwise, it acts normally). This curse lasts for 1 hour. A creature can be subjected to only one instance of retributive curse at a time. This otherwise functions as [*bestow curse*](../../magic/spells/bestow-curse.md).
 
 ## Darkness Blessing
 
@@ -50,7 +50,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Death Blessing
 
-**From the Grave (minor)**: At 1st level, you can take on a corpse-like visage for 1 minute, making you more intimidating and giving you undead-like protection from harm. You gain a +4 bonus on [Disguise](../../rules/skills/disguise.md) checks to resemble an undead creature and on [Intimidate](../../rules/skills/intimidate.md) checks, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun. Death's Touch (major): At 10th level, you can make a melee touch attack against an opponent to deliver grim suffering. If you succeed, you inflict i temporary negative level on the target for 1 minute. Alternatively, you can activate this ability as a swift action upon hitting an opponent with a melee attack. These temporary negative levels stack. You gain no benefit from imposing these negative levels (such as the temporary hit points undead gain from enervation).
+**From the Grave (minor)**: At 1st level, you can take on a corpse-like visage for 1 minute, making you more intimidating and giving you undead-like protection from harm. You gain a +4 bonus on [Disguise](../../rules/skills/disguise.md) checks to resemble an undead creature and on [Intimidate](../../rules/skills/intimidate.md) checks, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun. Death's Touch (major): At 10th level, you can make a melee touch attack against an opponent to deliver grim suffering. If you succeed, you inflict i temporary negative level on the target for 1 minute. Alternatively, you can activate this ability as a swift action (1 AP) upon hitting an opponent with a melee attack. These temporary negative levels stack. You gain no benefit from imposing these negative levels (such as the temporary hit points undead gain from enervation).
 
 ## Destruction Blessing
 
@@ -79,7 +79,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Glory Blessing
 
-**Glorious Presence (minor)**: At 1st level, you can touch an ally and grant it a glorious blessing. For 1 minute, the ally becomes mesmerizing to her foes. This functions as sanctuary, except if the ally attacks an opponent, this effect ends with respect to only that opponent. This is a mind-affecting effect. Demoralizing Glory (major): At 10th level, when you successfully damage an opponent with a melee attack or attack spell, as a swift action you can attempt to demoralize that opponent with the Intimidate skill using your ranks in Intimidate or your warpriest level, whichever is higher.
+**Glorious Presence (minor)**: At 1st level, you can touch an ally and grant it a glorious blessing. For 1 minute, the ally becomes mesmerizing to her foes. This functions as sanctuary, except if the ally attacks an opponent, this effect ends with respect to only that opponent. This is a mind-affecting effect. Demoralizing Glory (major): At 10th level, when you successfully damage an opponent with a melee attack or attack spell, as a swift action (1 AP) you can attempt to demoralize that opponent with the Intimidate skill using your ranks in Intimidate or your warpriest level, whichever is higher.
 
 ## Good Blessing
 
@@ -89,7 +89,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Healing Blessing
 
-**Powerful Healer (minor)**: At 1st level, you can add power to a cure spell as you cast it. As a swift action, you can treat any cure spell as if it were empowered (as the [Empower Spell](../../rules/feats/empower-spell.md) feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.
+**Powerful Healer (minor)**: At 1st level, you can add power to a cure spell as you cast it. As a swift action (1 AP), you can treat any cure spell as if it were empowered (as the [Empower Spell](../../rules/feats/empower-spell.md) feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.
 
 **Fast Healing (major)**: At 10th level, you can touch an ally and grant it fast healing 3 for 1 minute.
 
@@ -97,7 +97,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Lore Keeper (minor)**: At 1st level, you can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if your result on the appropriate [Knowledge](../../rules/skills/knowledge.md) skill check were equal to 15 +your warpriest level + your Wisdom modifier.
 
-**Monster Lore (major)**: At 10th level, when you succeed at a Knowledge check against an opponent to learn about its abilities or weaknesses (or succeed at a touch attack using the lore keeper blessing, above), you can as a swift action gain a +2 insight bonus on attacks, saving throws, and ability and skill checks, as well as to your AC against that creature. This effect lasts for 1 minute.
+**Monster Lore (major)**: At 10th level, when you succeed at a Knowledge check against an opponent to learn about its abilities or weaknesses (or succeed at a touch attack using the lore keeper blessing, above), you can as a swift action (1 AP) gain a +2 insight bonus on attacks, saving throws, and ability and skill checks, as well as to your AC against that creature. This effect lasts for 1 minute.
 
 ## Law Blessing
 
@@ -107,37 +107,37 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Liberation Blessing
 
-**Liberation (minor)**: At 1st level, for 1 round as a swift action, you can ignore impediments to your mobility and effects that cause paralysis (as freedom of movement). You can activate this blessing even if you're otherwise unable to take actions, but not if you're [unconscious](../../rules/appendices/conditions.md#unconscious).
+**Liberation (minor)**: At 1st level, for 1 round as a swift action (1 AP), you can ignore impediments to your mobility and effects that cause paralysis (as freedom of movement). You can activate this blessing even if you're otherwise unable to take actions, but not if you're [unconscious](../../rules/appendices/conditions.md#unconscious).
 
-**Freedom's Shout (major)**: At 10th level, as a swift action you can emit a 30-foot aura that affects all allies with the liberation blessing described above. This effect lasts for 1 round.
+**Freedom's Shout (major)**: At 10th level, as a swift action (1 AP) you can emit a 30-foot aura that affects all allies with the liberation blessing described above. This effect lasts for 1 round.
 
 ## Luck Blessing
 
 **Lucky Presence (minor)**: At 1st level, you can touch an ally and grant it a lucky presence. The target of this luck can call upon it to roll any one ability check, attack roll, saving throw, or skill check twice and take the better result. The decision to use this ability must be made before the roll is made. Once used, the effect ends.
 
-**Unlucky Enemy (major)**: At 10th level, as an immediate action you can force an adjacent opponent to reroll an attack, saving throw, or skill or ability check it just attempted; it must take the lower of the two rolls. You must declare this after the roll is made but before the result is revealed.
+**Unlucky Enemy (major)**: At 10th level, as an immediate action (1 AP of your next turn) you can force an adjacent opponent to reroll an attack, saving throw, or skill or ability check it just attempted; it must take the lower of the two rolls. You must declare this after the roll is made but before the result is revealed.
 
 ## Madness Blessing
 
-**Madness Supremacy (minor)**: At 1st level, as a swift action you can target a creature within 30 feet that has the [cowering](../../rules/appendices/conditions.md#cowering), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), or [paralyzed](../../rules/appendices/conditions.md#paralyzed) condition. That condition is suspended for 1 round, and the chosen creature gains the [confused](../../rules/appendices/conditions.md#confused) condition instead. The confused creature rerolls any result other than "attack self" or "attack nearest creature." The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.
+**Madness Supremacy (minor)**: At 1st level, as a swift action (1 AP) you can target a creature within 30 feet that has the [cowering](../../rules/appendices/conditions.md#cowering), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), or [paralyzed](../../rules/appendices/conditions.md#paralyzed) condition. That condition is suspended for 1 round, and the chosen creature gains the [confused](../../rules/appendices/conditions.md#confused) condition instead. The confused creature rerolls any result other than "attack self" or "attack nearest creature." The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.
 
-**Control Madness (major)**: At 10th level, as a swift action you can choose one behavior for all confused creatures within 30 feet to exhibit (as if all creatures rolled the same result). This effect lasts for 1 round. You can use this ability even while you are confused.
+**Control Madness (major)**: At 10th level, as a swift action (1 AP) you can choose one behavior for all confused creatures within 30 feet to exhibit (as if all creatures rolled the same result). This effect lasts for 1 round. You can use this ability even while you are confused.
 
 ## Magic Blessing
 
 **Hand of the Acolyte (minor)**: At 1st level, you can cause your melee weapon to fly from your grasp and strike an opponent, then instantly return to you. You can make a single attack using a melee weapon at a range of30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (you still add your Strength modifier to the damage roll as normal). This ability cannot be used to perform a combat maneuver.
 
-**Blessed Magic (major)**: At 10th level, you can cast a prepared warpriest spell without expending its spell slot. The spell must have a casting time of 1 standard action and must use a spell slot that is at least 3 spell levels lower than the highest warpriest spell level you can cast. In addition, the spell must be one that damages a creature or causes a creature to take penalties (such as inflict light wounds or bane). For example, if you are 10th level and can cast 4th-level [warpriest spells](warpriest.md#spells), you could use this blessing to cast a 1st-level warpriest spell without expending its spell slot.
+**Blessed Magic (major)**: At 10th level, you can cast a prepared warpriest spell without expending its spell slot. The spell must have a casting time of 1 standard action (1 AP) and must use a spell slot that is at least 3 spell levels lower than the highest warpriest spell level you can cast. In addition, the spell must be one that damages a creature or causes a creature to take penalties (such as inflict light wounds or bane). For example, if you are 10th level and can cast 4th-level [warpriest spells](warpriest.md#spells), you could use this blessing to cast a 1st-level warpriest spell without expending its spell slot.
 
 ## Nobility Blessing
 
 **Inspiring Word (minor)**: At 1st level, you can speak a few words to a creature within 30 feet that fill them with inspiration. You can grant that creature a +2 morale bonus on attack rolls, ability checks, skill checks, or saving throws (your choice). This effect lasts for 1 minute.
 
-**Lead by Example (major)**: At 10th level, as a swift action you can inspire your allies to follow your lead. If the following action on your turn is an attack or skill check, all allies within 30 feet who take the same action against the same foe or obstacle on their next turn gain a +4 morale bonus on that roll.
+**Lead by Example (major)**: At 10th level, as a swift action (1 AP) you can inspire your allies to follow your lead. If the following action on your turn is an attack or skill check, all allies within 30 feet who take the same action against the same foe or obstacle on their next turn gain a +4 morale bonus on that roll.
 
 ## Plant Blessing
 
-**Creeping Vines (minor)**: At 1st level, upon hitting with a melee attack, as a swift action you cause the creature you hit to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates). Battle Companion (major): At 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV, with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature's type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1, to a maximum of summon nature's ally IX at 20th level.
+**Creeping Vines (minor)**: At 1st level, upon hitting with a melee attack, as a swift action (1 AP) you cause the creature you hit to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates). Battle Companion (major): At 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV, with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature's type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1, to a maximum of summon nature's ally IX at 20th level.
 
 ## Protection Blessing
 
@@ -149,7 +149,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Gentle Rest (minor)**: At 1st level, you can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. If the target is already staggered, it gains [sleep 1](../../rules/appendices/conditions.md#sleep) for 1 round instead. An undead creature that's touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).
 
-**Back to the Grave (major)**: At 10th level, when using channel energy to heal living creatures, you can take a swift action on that same turn to also deal damage to undead creatures (as your channel energy ability). Undead take an amount of damage equal to half the amount healed, and can attempt the normal saving throw to halve this damage.
+**Back to the Grave (major)**: At 10th level, when using channel energy to heal living creatures, you can take a swift action (1 AP) on that same turn to also deal damage to undead creatures (as your channel energy ability). Undead take an amount of damage equal to half the amount healed, and can attempt the normal saving throw to halve this damage.
 
 ## Rune Blessing
 
@@ -159,9 +159,9 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Scalykind Blessing
 
-**Scaly Touch (minor)**: At 1st level, you can touch an ally as a standard action to grant it reptilian scales. For 1 minute, the ally gains a +1 enhancement bonus to its natural armor. At 5th level and every 5 levels thereafter, this bonus increases by 1 (to a maximum of +5 at 20th level).
+**Scaly Touch (minor)**: At 1st level, you can touch an ally as a standard action (1 AP) to grant it reptilian scales. For 1 minute, the ally gains a +1 enhancement bonus to its natural armor. At 5th level and every 5 levels thereafter, this bonus increases by 1 (to a maximum of +5 at 20th level).
 
-**Serpent Fang (major)**: At 10th level, as a standard action you can manifest venomous fangs for 1 minute. These fangs grant a bite attack that deals 1d4 points of damage (for a Medium warpriest, 1d3 if Small). A successful bite also afflicts the opponent with a debilitating venom. The poison's save DC is equal to 10 + 1/2 your warpriest level + your Constitution modifier.
+**Serpent Fang (major)**: At 10th level, as a standard action (1 AP) you can manifest venomous fangs for 1 minute. These fangs grant a bite attack that deals 1d4 points of damage (for a Medium warpriest, 1d3 if Small). A successful bite also afflicts the opponent with a debilitating venom. The poison's save DC is equal to 10 + 1/2 your warpriest level + your Constitution modifier.
 
 **Serpent Venom (Ex)**: Bite—injury; *save* Fort negates; *frequency* 1/round for 4 rounds; *effect* 1d2 Con; *cure* 1 save.
 
@@ -169,13 +169,13 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Flicker of Shadows (minor)**: At 1st level, you can cause a weapon you touch to warp and become insubstantial for a split second before an attack. The first attack made with this weapon each round ignores any shield bonus to Armor Class, as well as bonuses from cover. Total cover still provides a creature its full benefit. This effect lasts for 1 minute.
 
-**Swift as Shadow (major)**: At 10th level, you can spend a swift action to empower yourself or an ally within 30 feet to move over the ground as easily as its shadow. The subject's land speed increases by 10 feet and it takes no movement penalties for darkness, difficult terrain, or slickness. The creature can safely move over areas of ice and even those affected by a [*grease*](../../magic/spells/grease.md) spell. When a creature affected by this ability hits with a charge attack, that attack deals an amount of additional cold damage equal to your level.
+**Swift as Shadow (major)**: At 10th level, you can spend a swift action (1 AP) to empower yourself or an ally within 30 feet to move over the ground as easily as its shadow. The subject's land speed increases by 10 feet and it takes no movement penalties for darkness, difficult terrain, or slickness. The creature can safely move over areas of ice and even those affected by a [*grease*](../../magic/spells/grease.md) spell. When a creature affected by this ability hits with a charge attack, that attack deals an amount of additional cold damage equal to your level.
 
 ## Strength Blessing
 
-**Strength Surge (minor)**: At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.
+**Strength Surge (minor)**: At 1st level, as a swift action (1 AP) you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.
 
-**Strength of Will (major)**: At 10th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become [entangled](../../rules/appendices/conditions.md#entangled), staggered, or paralyzed.
+**Strength of Will (major)**: At 10th level, as a swift action (1 AP) you can ignore the movement penalties caused by wearing medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become [entangled](../../rules/appendices/conditions.md#entangled), staggered, or paralyzed.
 
 ## Sun Blessing
 
@@ -185,21 +185,21 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Travel Blessing
 
-**Agile Feet (minor)**: At 1st level, as a swift action you gain increased mobility. For 1 round, you ignore all difficult terrain (including magical terrain) and take no penalties for moving through it.
+**Agile Feet (minor)**: At 1st level, as a swift action (1 AP) you gain increased mobility. For 1 round, you ignore all difficult terrain (including magical terrain) and take no penalties for moving through it.
 
-**Dimensional Hop (major)**: At 10th level, you can teleport up to 20 feet as a move action. You can increase this distance by expending another use of your blessing-each use spent grants an additional 20 feet. You must have line of sight to your destination. This teleportation doesn't provoke attacks of opportunity. You can bring other willing creatures with you, but each such creature requires expending one additional use of your blessing, regardless of the distance traveled. (For example, transporting yourself 40 feet costs 2 uses of your blessing, and transporting an additional person this distance costs i more use.)
+**Dimensional Hop (major)**: At 10th level, you can teleport up to 20 feet as a move action (1 AP). You can increase this distance by expending another use of your blessing-each use spent grants an additional 20 feet. You must have line of sight to your destination. This teleportation doesn't provoke attacks of opportunity. You can bring other willing creatures with you, but each such creature requires expending one additional use of your blessing, regardless of the distance traveled. (For example, transporting yourself 40 feet costs 2 uses of your blessing, and transporting an additional person this distance costs i more use.)
 
 ## Trickery Blessing
 
-**Double (minor)**: At 1st level, as a move action you can create an illusory double of yours el( This double functions as a single mirror image, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. This ability doesn't stack with the additional damage from the mirror image spell.
+**Double (minor)**: At 1st level, as a move action (1 AP) you can create an illusory double of yours el( This double functions as a single mirror image, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. This ability doesn't stack with the additional damage from the mirror image spell.
 
-**Greater Invisibility (major)**: At 10th level, as a swift action you can become invisible for 1 round (as water invisibility).
+**Greater Invisibility (major)**: At 10th level, as a swift action (1 AP) you can become invisible for 1 round (as water invisibility).
 
 ## Void Blessing
 
 **Airless Touch (minor)**: At 1st level, with a successful melee touch attack you can steal the breath from an opponent's lungs, leaving it unable to speak, use breath weapons, cast spells with verbal components, or do anything else requiring breath for 1 round. If the target fails at a Fortitude saving throw, it's also staggered for 1 round as it catches its breath. If the target was attempting to hold its breath, it can no longer do so: it must breathe on its turn or risk suffocation and unconsciousness. Creatures that don't need to breathe are unaffected. Regardless of whether it succeeds at its saving throw, the target is immune to further uses of your airless touch for 24 hours.
 
-**Deny Gravity (major)**: At 10th level, as a standard action you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as *fly*). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as [*life bubble*](../../magic/spells/life-bubble.md)) for 1 minute.
+**Deny Gravity (major)**: At 10th level, as a standard action (1 AP) you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as *fly*). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as [*life bubble*](../../magic/spells/life-bubble.md)) for 1 minute.
 
 ## War Blessing
 
@@ -236,15 +236,15 @@ You see proof of your convictions in the churning waters of a flood.
 
 **Lasting Breath (Minor)**: You can touch an ally to bless it with an extra reserve of breath. For 1 minute, while the ally holds its breath, standard and full-round actions don’t decrease the number of rounds the ally can hold its breath.
 
-**Tsunami Burst (Major)**: At 10th level, when you are hit by a melee attack, you can invoke this blessing as an immediate action. A wave of water blasts out from you at your attacker, attempting a bull rush combat maneuver check using your CMB but adding your Wisdom modifier instead of your Strength modifier.
+**Tsunami Burst (Major)**: At 10th level, when you are hit by a melee attack, you can invoke this blessing as an immediate action (1 AP of your next turn). A wave of water blasts out from you at your attacker, attempting a bull rush combat maneuver check using your CMB but adding your Wisdom modifier instead of your Strength modifier.
 
 ## Tornado Blessing
 
 The howling wrath of a tornado inspires your religion.
 
-**Dust Devil (Minor)**: When you hit with a weapon attack, you can use a swift action to cause a sudden burst of wind and debris to swirl around your target. The target is dazzled for 1 minute.
+**Dust Devil (Minor)**: When you hit with a weapon attack, you can use a swift action (1 AP) to cause a sudden burst of wind and debris to swirl around your target. The target is dazzled for 1 minute.
 
-**Howling Gale (Major)**: At 10th level, you can invoke a howling windstorm around yourself as a standard action. For 1 minute, any Large or smaller creature takes twice as much movement to enter a space adjacent to you due to the winds, and thus can’t take a 5-foot step to move adjacent to you.
+**Howling Gale (Major)**: At 10th level, you can invoke a howling windstorm around yourself as a standard action (1 AP). For 1 minute, any Large or smaller creature takes twice as much movement to enter a space adjacent to you due to the winds, and thus can’t take a 5-foot step to move adjacent to you.
 
 ## Wildfire Blessing
 
@@ -252,7 +252,7 @@ In the flames of a wildfire you take inspiration.
 
 **Leaping Flames (Minor)**: You touch an ally to bless it with the speed of a wildfire for 1 minute. The ally gains a +10-foot enhancement bonus to its base speed, and the ally gains a +1 dodge bonus to its AC against attacks of opportunity.
 
-**Fiery Wake (Major)**: At 10th level, when you move, you can use a swift action to invoke a blazing blessing on yourself. For the rest of your turn, your movement leaves behind a 10-foot-tall wall of opaque fire in your path. The wall burns for 1 minute. A creature that touches the wall takes 2d6 points of fire damage.
+**Fiery Wake (Major)**: At 10th level, when you move, you can use a swift action (1 AP) to invoke a blazing blessing on yourself. For the rest of your turn, your movement leaves behind a 10-foot-tall wall of opaque fire in your path. The wall burns for 1 minute. A creature that touches the wall takes 2d6 points of fire damage.
 
 ## Focused Blessings
 
@@ -294,7 +294,7 @@ If a focused blessing ability calls for a saving throw, the DC of the save is eq
 
 **Replacement Blessing**: The following minor blessing replaces the powerful healer ability of the Healing blessing.
 
-**Ameliorating Touch (minor)**: At 1st level, your touch is a balm to your suffering allies. You can touch an ally as a swift action to temporarily relieve that ally of the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened) condition. This blessing suppresses those conditions for 1 minute. At 2nd level, you can spend two uses of your blessing ability whenever you heal yourself or an ally with your fervor class ability to use this minor blessing as a free action instead of a swift action.
+**Ameliorating Touch (minor)**: At 1st level, your touch is a balm to your suffering allies. You can touch an ally as a swift action (1 AP) to temporarily relieve that ally of the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened) condition. This blessing suppresses those conditions for 1 minute. At 2nd level, you can spend two uses of your blessing ability whenever you heal yourself or an ally with your fervor class ability to use this minor blessing as a free action instead of a swift action.
 
 ### Resurrection Blessing
 

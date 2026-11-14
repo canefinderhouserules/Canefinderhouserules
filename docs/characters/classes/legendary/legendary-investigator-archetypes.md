@@ -38,7 +38,7 @@ Technology can work wonders and the gadgeteer leverages cush wonders in their en
 
 At 1st level, a gadgeteer can create a mechanism, a small device that assists with the execution of an activity. Creating a mechanism requires 1 minute of time and expends 1 use from the gadgeteer’s inspiration pool. A gadgeteer chooses a skill to associate with the mechanism when they create it.
 
-As an immediate action, a mechanism can be activated to grant the gadgeteer’s inspiration die on a check of the associated skill. A gadgeteer can create a mechanism that affects attack rolls or saving throws, but they expend 2 uses from her inspiration pool to do so. Any creature can use a mechanism, but a creature can have only 1 mechanism at a time, as multiple mechanisms interfere with each other while in close proximity. A mechanism remains active for a number of minutes equal to the gadgeteer’s Intelligence modifier (minimum 1). At 5th level, a gadgeteer’s mechanisms remain active for a number of minutes equal to the gadgeteer’s level. At 11th level, a gadgeteer’s mechanisms remain active for a number of hours equal to the gadgeteer’s level.
+As an immediate action (1 AP of your next turn), a mechanism can be activated to grant the gadgeteer’s inspiration die on a check of the associated skill. A gadgeteer can create a mechanism that affects attack rolls or saving throws, but they expend 2 uses from her inspiration pool to do so. Any creature can use a mechanism, but a creature can have only 1 mechanism at a time, as multiple mechanisms interfere with each other while in close proximity. A mechanism remains active for a number of minutes equal to the gadgeteer’s Intelligence modifier (minimum 1). At 5th level, a gadgeteer’s mechanisms remain active for a number of minutes equal to the gadgeteer’s level. At 11th level, a gadgeteer’s mechanisms remain active for a number of hours equal to the gadgeteer’s level.
 
 When created, the gadgeteer must explain to the GM what the device is and how it might aid in the skill check, attack roll or saving throw. This ability replaces danger sense.
 
@@ -70,7 +70,7 @@ A creature that was aware of the infiltrator’s presence prior to being in rang
 
 An infiltrator can affect only one creature with glazed eye at any given time, plus one additional creature at 5th level and every 3 legendary investigator levels thereafter, to a maximum of seven creatures at 19th level. Once an infiltrator reaches that maximum, they can’t affect an additional creature until they end the effect for an already affected creature. If multiple creatures enter the range of glazed eye simultaneously, they all must attempt Perception checks; the glazed eye effect affects the creatures with the lowest Perception check results, in order, until it reaches the maximum number of creatures it can affect.
 
-The infiltrator can suppress or activate glazed eye as a free action, and dismiss its effects on any affected creature within range as a move action.
+The infiltrator can suppress or activate glazed eye as a free action, and dismiss its effects on any affected creature within range as a move action (1 AP).
 
 This ability replaces danger sense and the infiltrator talent gained at 5th level.
 
@@ -102,7 +102,7 @@ This ability replaces the investigator talent gained at 7th level.
 
 At 9th level, an infiltrator benefits from constant nondetection, requiring those who wish to use divinations on them to succeed at a caster level check (DC = 15 + their legendary investigator level).
 
-The infiltrator may raise or lower this protection as a swift action. This ability replaces the investigator talent gained at 9th level.
+The infiltrator may raise or lower this protection as a swift action (1 AP). This ability replaces the investigator talent gained at 9th level.
 
 ## Lamplighter
 
@@ -112,7 +112,7 @@ Some investigators are tasked with being the light in the dark. They make the ni
 
 **Lamplighter (Sp)**
 
-At 1st level, a lamplighter can take a move action to cast the spell spark at will.
+At 1st level, a lamplighter can take a move action (1 AP) to cast the spell spark at will.
 
 **Mastery of Illumination (Su)**
 
@@ -122,7 +122,7 @@ At 3rd level, a lamplighter adds all spells with the light descriptor to his spe
 
 At 3rd level, a lamplighter can use inspiration on initiative checks without spending a use of inspiration. They can use their Intelligence modifier in place of their Dexterity modifier on initiative checks. At 6th level, if the lamplighter has [Quick Draw](../../../rules/feats/quick-draw.md), they can draw a weapon as part of his initiative check. At 9th level, the lamplighter isn’t flatfooted before they acts in the first round of combat.
 
-At 12th level, the lamplighter adds their Intelligence bonus as well as their Dexterity bonus to initiative checks. At 15th level, the lamplighter can act last during the surprise round even if they are otherwise unaware combat has started. At 18th level, the lamplighter is not limited to just a move or standard action during the surprise round—they can act normally. This ability replaces keen recollection and danger sense.
+At 12th level, the lamplighter adds their Intelligence bonus as well as their Dexterity bonus to initiative checks. At 15th level, the lamplighter can act last during the surprise round even if they are otherwise unaware combat has started. At 18th level, the lamplighter is not limited to just a move or standard action (1 AP) during the surprise round—they can act normally. This ability replaces keen recollection and danger sense.
 
 **New Investigator Talent**: A lamplighter may select the following talent when gaining an investigator talent.
 
@@ -150,11 +150,11 @@ A malice binder forgoes alchemy for the study of sympathetic magic that allows t
 
 Every fetter requires a token taken from their desired target: a few hairs, a lost tooth, nail clippings, a scrap of clothing, or a small, treasured possession with some significance. A malice binder can obtain a single token in any of the following ways: a successful Sleight of Hand check against an unsuspecting target, a successful steal combat maneuver, or a successful Perception check (DC = 15 + the creature’s CR) to search an area their target occupied for at least 2 hours. Malice binders can search such a location for additional tokens, but each subsequent Perception check increases the DC by 5, regardless of success or failure. Once a fetter has been acquired, it must be prepared before it can be used.
 
-Preparing a token for use is a move action and a malice binder can maintain one prepared token per class level.
+Preparing a token for use is a move action (1 AP) and a malice binder can maintain one prepared token per class level.
 
-A token is considered prepared until the duration of the fetter it is used in ends or the token is discarded. At 7th level, the malice binder can instead prepare a token as a swift action.
+A token is considered prepared until the duration of the fetter it is used in ends or the token is discarded. At 7th level, the malice binder can instead prepare a token as a swift action (1 AP).
 
-Activating a fetter is a standard action that provokes attacks of opportunity, and unless otherwise stated the target must be within 30 feet, plus 5 feet per 2 levels.
+Activating a fetter is a standard action (1 AP) that provokes attacks of opportunity, and unless otherwise stated the target must be within 30 feet, plus 5 feet per 2 levels.
 
 Each token can be used only to power a fetter targeting the creature it came from, and it is consumed in the process. The DC to resist a fetter is equal to 10 + half the investigator’s class level + the investigator’s Charisma bonus. Once a creature has been the target of a specific fetter, it is immune to that effect for 24 hours.
 
@@ -194,7 +194,7 @@ The malice binder can rub salt into a wound—their own or that of an adjacent a
 
 **Shackle (Su)**
 
-Binding a token to manacles or a length of rope causes the restraints to fly out and entangle the target. A target can avoid this fetter with a successful Reflex save. An [entangled](../../../rules/appendices/conditions.md#entangled) target can attempt to escape as a standard action with either an Escape Artist check or a combat maneuver check using the same DC as the initial saving throw. Using masterwork manacles in this fetter increases the escape DC by 2.
+Binding a token to manacles or a length of rope causes the restraints to fly out and entangle the target. A target can avoid this fetter with a successful Reflex save. An [entangled](../../../rules/appendices/conditions.md#entangled) target can attempt to escape as a standard action (1 AP) with either an Escape Artist check or a combat maneuver check using the same DC as the initial saving throw. Using masterwork manacles in this fetter increases the escape DC by 2.
 
 **Temptation (Su)**
 
@@ -216,7 +216,7 @@ All investigators believe in careful planning; some just prefer to do it after t
 
 The maverick detective must always spend 1 point of inspiration to study a target.
 
-A legendary investigator can use a move action to study a single enemy that they can see. Upon doing so, they add 1/2 their class level (minimum 1) as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. Once a creature is studied, it remains studied until the maverick detective studies someone else, up to a maximum of 24 hours. This modifies studied combat.
+A legendary investigator can use a move action (1 AP) to study a single enemy that they can see. Upon doing so, they add 1/2 their class level (minimum 1) as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. Once a creature is studied, it remains studied until the maverick detective studies someone else, up to a maximum of 24 hours. This modifies studied combat.
 
 **Finishing Strike (Ex)**
 

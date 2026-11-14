@@ -131,7 +131,7 @@ Getting free of restraints, a grapple, or an entanglement requires an Acrobatics
 | Masterwork manacles | 35 |
 | Grappler | Grappler’s CMD |
 
-**Action**: 1 minute for restraints, full-round action for a net or a listed spell, standard action for a grapple or pin.
+**Action**: 1 minute for restraints, full-round action (3 AP) for a net or a listed spell, standard action (1 AP) for a grapple or pin.
 
 **Try Again**: Yes. You can even take 20 if you’re not being actively opposed.
 
@@ -145,7 +145,7 @@ This use of Acrobatics functions as the Fly core skill. The skill alone doesn’
 
 This use of Acrobatics functions as the Ride core skill.
 
-**Action**: Varies. Mounting or dismounting is normally a move action.
+**Action**: Varies. Mounting or dismounting is normally a move action (1 AP).
 
 #### Soften Falls
 
@@ -174,7 +174,7 @@ You can attempt an Acrobatics check to avoid provoking an attack of opportunity 
 
 **Loads**: You can’t tumble when carrying a medium or heavy load or wearing medium or heavy armor unless an ability allows you to move at full speed in such conditions.
 
-**Prone**: You can tumble while prone, but this is a full-round action to move 5 feet, and the DC increases by 5.
+**Prone**: You can tumble while prone, but this is a full-round action (3 AP) to move 5 feet, and the DC increases by 5.
 
 ### Athletics (Str; Armor Check Penalty)
 
@@ -216,7 +216,7 @@ Using Athletics, you can advance up, down, or across a slope, wall, or other ste
 | Bracing against perpendicular walls (corner) | –5 |
 | Surface is slippery | +5 |
 
-**Action**: None. Each move action you take requires a separate Athletics check.
+**Action**: None. Each move action (1 AP) you take requires a separate Athletics check.
 
 **Making Handholds and Footholds**: You can pound pitons into a wall to change the wall’s base DC to 15. This takes 1 minute per piton, and one piton is needed per 5 feet of distance. You can cut your own handholds into an ice wall for the same purpose if you have a handaxe or similar implement.
 
@@ -255,7 +255,7 @@ You can’t exceed your maximum movement for a round by jumping.
 
 #### Swim
 
-A successful Athletics check while you’re in the water allows you to swim at either half your speed as a full-round action or one-quarter your speed as a move action. If you fail by 4 or less, you make no progress. If you fail by 5 or more, you go underwater. Attempt one Athletics check to swim each round.
+A successful Athletics check while you’re in the water allows you to swim at either half your speed as a full-round action (3 AP) or one-quarter your speed as a move action (1 AP). If you fail by 4 or less, you make no progress. If you fail by 5 or more, you go underwater. Attempt one Athletics check to swim each round.
 
 | Water | Athletics DC |
 |---|---|
@@ -265,9 +265,9 @@ A successful Athletics check while you’re in the water allows you to swim at e
 
 * You can’t take 10 on an Athletics check to swim in stormy water.
 
-**Action**: Move action at one-quarter your speed or full- round action at half your speed.
+**Action**: Move action (1 AP) at one-quarter your speed or full- round action at half your speed.
 
-**Holding Your Breath**: When you’re underwater, you can hold your breath for a number of rounds equal to twice your Constitution score. If you take a standard or full-round action, reduce the duration you can continue to hold your breath by 1 round. After you run out of rounds, you must succeed at a DC 10 Constitution check each round or begin to drown. Each round, the DC to resist drowning increases by 1. See the relevant section of the Core Rulebook for the complete rules on drowning.
+**Holding Your Breath**: When you’re underwater, you can hold your breath for a number of rounds equal to twice your Constitution score. If you take a standard or full-round action (3 AP), reduce the duration you can continue to hold your breath by 1 round. After you run out of rounds, you must succeed at a DC 10 Constitution check each round or begin to drown. Each round, the DC to resist drowning increases by 1. See the relevant section of the Core Rulebook for the complete rules on drowning.
 
 **Extended Swimming**: Each hour you swim, you must succeed at a DC 20 Swim check or take 1d6 points of nonlethal damage.
 
@@ -295,7 +295,7 @@ Hiding a small object on your person (such as a light weapon or easily concealed
 
 **Try Again**: Yes, but a second attempt against the same target increases the DC by 10.
 
-**Drawing Weapons**: Drawing a hidden weapon is a standard action that doesn’t provoke attacks of opportunity.
+**Drawing Weapons**: Drawing a hidden weapon is a standard action (1 AP) that doesn’t provoke attacks of opportunity.
 
 #### Disarm Traps or Devices
 
@@ -310,7 +310,7 @@ You can attempt to leave no trace of your tampering, but this increases the DC b
 | Difficult | 2d4 rounds | 20 | Disarm or reset a trap |
 | Extreme | 2d4 rounds | 25 | Disarm a complex trap, cleverly sabotage a clockwork device |
 
-**Action**: Varies (see table). Beginning or continuing the process of disarming is a full-round action.
+**Action**: Varies (see table). Beginning or continuing the process of disarming is a full-round action (3 AP).
 
 **Try Again**: Yes, but only if you fail by 4 or less.
 
@@ -482,7 +482,7 @@ You know a great deal about the natural world, and have the ability to command a
 
 This use of Nature functions as the Handle Animal core skill, but uses Intelligence instead of Charisma.
 
-**Action**: Varies. Handling an animal is a move action, while “pushing” an animal is a full-round action.
+**Action**: Varies. Handling an animal is a move action (1 AP), while “pushing” an animal is a full-round action (3 AP).
 
 **Try Again**: Yes, except for rearing an animal.
 
@@ -609,7 +609,7 @@ You can thoroughly comb an area, looking for hidden traps, doors, and the like. 
 | Find an average secret door | 20 |
 | Find a hidden trap | Varies by trap |
 
-**Action**: Move. Each move action spent allows you to search a 10-foot-by-10-foot area.
+**Action**: Move. Each move action (1 AP) spent allows you to search a 10-foot-by-10-foot area.
 
 **Try Again**: Yes.
 
@@ -780,7 +780,7 @@ By succeeding at a Spellcraft check, you can determine specific types of spells 
 | Identify a spell effect that is in place | 20 + spell level |
 | Identify a spell that just targeted you | 25 + spell level |
 
-**Action**: None, in most cases. Deciphering a scroll is a full-round action, and attempting to identify the properties of a magic item takes 3 rounds per item.
+**Action**: None, in most cases. Deciphering a scroll is a full-round action (3 AP), and attempting to identify the properties of a magic item takes 3 rounds per item.
 
 **Try Again**: You can retry checks to identify a spell. When using detect magic and identify to learn the properties of magic items, you can make only one attempt per item per day.
 
@@ -824,7 +824,7 @@ You are skilled at avoiding detection, allowing you to slip past foes or strike 
 
 This use of Stealth functions as the Stealth core skill.
 
-**Action**: None, though using Stealth immediately after making a ranged attack is a move action.
+**Action**: None, though using Stealth immediately after making a ranged attack is a move action (1 AP).
 
 ### Survival (Wis)
 
@@ -885,7 +885,7 @@ Your Survival check might be modified based on any of the following conditions. 
 | Poor visibility: overcast or moonless night | +6 |
 | Tracked party hides its trail and moves at half speed | +5 |
 
-**Action**: Full-round action or longer.
+**Action**: Full-round action (3 AP) or longer.
 
 **Try Again**: You can retry a failed check after 1 hour (outdoors) or 10 minutes (indoors).
 
@@ -919,7 +919,7 @@ When you predict the weather, you can predict the weather for one additional day
 
 This use of Survival functions as the Heal core skill.
 
-**Action**: Providing first aid, treating a wound, or treating poison is a standard action. Treating a disease or tending to a creature that has been wounded by a spike growth or spike stones spell requires 10 minutes of work. Treating deadly wounds requires 1 hour of work. Providing long-term care requires 8 hours of light activity.
+**Action**: Providing first aid, treating a wound, or treating poison is a standard action (1 AP). Treating a disease or tending to a creature that has been wounded by a spike growth or spike stones spell requires 10 minutes of work. Treating deadly wounds requires 1 hour of work. Providing long-term care requires 8 hours of light activity.
 
 **Try Again**: Varies. Generally speaking, you can’t try to tend wounds and ailments without witnessing proof of the original check’s failure. You can always retry a check to provide first aid if the target is still alive.
 

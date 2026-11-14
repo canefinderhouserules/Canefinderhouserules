@@ -14,7 +14,7 @@ Creatures with the advanced template are fiercer and more powerful than their or
 
 Celestial creatures dwell on good planes. A celestial creature's CR increases by 1 only if the base creature has 5 or more HD.
 
-**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite evil 1/day as a swift action (adds Cha bonus on attack rolls and damage bonus equal to HD against evil foes; smite persists until the target is dead or the celestial creature rests).
+**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite evil 1/day as a swift action (1 AP) (adds Cha bonus on attack rolls and damage bonus equal to HD against evil foes; smite persists until the target is dead or the celestial creature rests).
 
 | Hit Dice | Resist Acid, Cold, and Electricity | DR |
 |---|---|---|
@@ -26,7 +26,7 @@ Celestial creatures dwell on good planes. A celestial creature's CR increases by
 
 Creatures with the entropic template live on planes where chaos is paramount. An entropic creature's CR increases by 1 only if the base creature has 5 or more HD.
 
-**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite law 1/day as a swift action (adds Cha bonus on attack rolls and damage bonus equal to HD against lawful foes; smite persists until the target is dead or the entropic creature rests).
+**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite law 1/day as a swift action (1 AP) (adds Cha bonus on attack rolls and damage bonus equal to HD against lawful foes; smite persists until the target is dead or the entropic creature rests).
 
 | Hit Dice | Resist Acid and Fire | DR |
 |---|---|---|
@@ -38,7 +38,7 @@ Creatures with the entropic template live on planes where chaos is paramount. An
 
 Creatures with the fiendish template live on the evil outer planes, such as the Abyss. A fiendish creature's CR increases by 1 only if the base creature has 5 or more HD.
 
-**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite good 1/day as a swift action (adds Cha bonus on attack rolls and damage bonus equal to HD against good foes; smite persists until the target is dead or the fiendish creature rests).
+**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite good 1/day as a swift action (1 AP) (adds Cha bonus on attack rolls and damage bonus equal to HD against good foes; smite persists until the target is dead or the fiendish creature rests).
 
 | Hit Dice | Resist Cold and Fire | DR |
 |---|---|---|
@@ -50,7 +50,7 @@ Creatures with the fiendish template live on the evil outer planes, such as the 
 
 Creatures with the resolute template live on planes where law is paramount. A resolute creature's CR increases by 1 only if the base creature has 5 or more HD.
 
-**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite chaos 1/day as a swift action (adds Cha bonus on attack rolls and damage bonus equal to HD against chaotic foes; smite persists until the target is dead or the resolute creature rests).
+**Quick Rules/Rebuild Rules:** Senses darkvision 60 ft.; Defensive Abilities DR and energy resistance as noted on the table; SR equal to new CR + 5; Special Attacks smite chaos 1/day as a swift action (1 AP) (adds Cha bonus on attack rolls and damage bonus equal to HD against chaotic foes; smite persists until the target is dead or the resolute creature rests).
 
 | Hit Dice | Resist Acid, Cold, and Fire | DR |
 |---|---|---|

@@ -19,7 +19,7 @@ This pale mass of fungal matter looks something like a spider with a thorny, aci
 
 This surprisingly mobile, multicolored ball of fungus crawls around on a nest of dozens of little filament-like “legs.” Its poisonous spores cause those affected to endure bright, dazzling spots of color.
 
-**Starting Statistics**: Size Small; Speed 30 ft.; AC +1 natural armor; Attack slam (1d4 plus poison); Ability Scores Str 12, Dex 15, Con 14, Int 1, Wis 12, Cha 9; Special Attacks poison (frequency 1 round [4]; effect 1d2 Wis damage and [dazzled](../../rules/appendices/conditions.md#dazzled); cure 1 save; Con-based DC); Special Qualities darkvision 60 ft., defensive puff (1/minute as an immediate action when hit, the fungus can expose one adjacent creature to its poison); CMD can’t be tripped.
+**Starting Statistics**: Size Small; Speed 30 ft.; AC +1 natural armor; Attack slam (1d4 plus poison); Ability Scores Str 12, Dex 15, Con 14, Int 1, Wis 12, Cha 9; Special Attacks poison (frequency 1 round [4]; effect 1d2 Wis damage and [dazzled](../../rules/appendices/conditions.md#dazzled); cure 1 save; Con-based DC); Special Qualities darkvision 60 ft., defensive puff (1/minute as an immediate action (1 AP of your next turn) when hit, the fungus can expose one adjacent creature to its poison); CMD can’t be tripped.
 
 **4th-Level Advancement**: Size Medium; AC +1 natural armor; Attack slam (1d6 plus poison); Ability Scores Str +4, Dex –2, Con +2.
 

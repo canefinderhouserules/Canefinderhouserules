@@ -63,9 +63,9 @@ All battle heralds may use inspiring command to inspire courage (as the bardic p
 
 At 1st level, and every two levels thereafter, the battle herald chooses one command to learn. Unless otherwise noted, these abilities provide a competence bonus equal to the battle herald’s inspiring command bonus to her and to all allies within 60 feet able to see or hear her. Commands marked with an asterisk have the same range as above but only affect a certain number of allies (which can include the battle herald).
 
-Issuing an inspiring command is a move action.
+Issuing an inspiring command is a move action (1 AP).
 
-At 5th level, this becomes a swift action, and at 10th level, it becomes an immediate action.
+At 5th level, this becomes a swift action (1 AP), and at 10th level, it becomes an immediate action (1 AP of your next turn).
 
 Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being [dazed](../../rules/appendices/conditions.md#dazed), [helpless](../../rules/appendices/conditions.md#helpless), or [stunned](../../rules/appendices/conditions.md#stunned)). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../../rules/feats/lingering-performance.md) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
 
@@ -157,7 +157,7 @@ At 5th level, a battle herald may fly a battle standard that inspires her allies
 
 #### Teamwork Feat
 
-At 6th level, a battle herald receives a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. She can use her [cavalier tactician](../classes/cavalier.md#tactician-ex) ability as a move action to grant this feat to allies (if she has the [cavalier greater tactician](../classes/cavalier.md#greater-tactician-ex) ability, this is a swift action).
+At 6th level, a battle herald receives a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. She can use her [cavalier tactician](../classes/cavalier.md#tactician-ex) ability as a move action (1 AP) to grant this feat to allies (if she has the [cavalier greater tactician](../classes/cavalier.md#greater-tactician-ex) ability, this is a swift action (1 AP)).
 
 #### Demanding Challenge (Ex)
 

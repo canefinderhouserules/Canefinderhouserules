@@ -96,7 +96,7 @@ This chalky yellow powder is usually kept in a finely woven canvas pouch. When y
 **Aura** moderate evocation; **CL** 5th  
 **Slot** none; **Price** 7,000 gp; **Weight** 3 lbs.
 
-This brass bullseye lantern is embossed with dancing orbs flitting amid a leaf-and-holly motif. A ghostlight lantern functions as a normal bullseye lantern, but if the remains of a dead will-o’-wisp are placed inside it, the lantern gains additional abilities. The dead will-o’-wisp powers the lantern for a period of 1 week, during which time the lantern sheds a bluish-white light without the need for oil as fuel. Creatures within the 60-foot cone of the lantern’s normal light are outlined with a pale, bluish glow, as faerie fire. Orcs within the cone are dazzled, as if in bright sunlight, for as long as they remain within the light. Additionally, three times per day as a standard action, the wielder of a ghostlight lantern can draw upon the power of the deceased will-o’- wisp fueling it to cast shocking grasp. Lastly, while within the bounds of Ghostlight Marsh in the Hold of Belkzen, a ghostlight lantern unerringly emits a beacon that illuminates a direct path to the circle of standing stones that form the entrance to the Vault of Thorns. After 1 week, the power of the deceased aberration is exhausted, and the ghostlight lantern loses its additional abilities, once again functioning only as a normal bullseye lantern until another dead will-o’-wisp is placed inside.
+This brass bullseye lantern is embossed with dancing orbs flitting amid a leaf-and-holly motif. A ghostlight lantern functions as a normal bullseye lantern, but if the remains of a dead will-o’-wisp are placed inside it, the lantern gains additional abilities. The dead will-o’-wisp powers the lantern for a period of 1 week, during which time the lantern sheds a bluish-white light without the need for oil as fuel. Creatures within the 60-foot cone of the lantern’s normal light are outlined with a pale, bluish glow, as faerie fire. Orcs within the cone are dazzled, as if in bright sunlight, for as long as they remain within the light. Additionally, three times per day as a standard action (1 AP), the wielder of a ghostlight lantern can draw upon the power of the deceased will-o’- wisp fueling it to cast shocking grasp. Lastly, while within the bounds of Ghostlight Marsh in the Hold of Belkzen, a ghostlight lantern unerringly emits a beacon that illuminates a direct path to the circle of standing stones that form the entrance to the Vault of Thorns. After 1 week, the power of the deceased aberration is exhausted, and the ghostlight lantern loses its additional abilities, once again functioning only as a normal bullseye lantern until another dead will-o’-wisp is placed inside.
 
 **Requirements** Craft Wondrous Item, faerie fire, find the path, flare, shocking grasp; **Cost** 3,500 gp
 
@@ -172,7 +172,7 @@ This keffiyeh remains bright white, no matter how many sandstorms it has been in
 **Aura** faint conjuration; **CL** 6th  
 **Slot** none; **Price** 6,600 gp; **Weight** 2 lbs.
 
-This iridescent spiraling shell can be blown once per day as a standard action to activate any one of these functions: Calm rough waters in a 40-foot radius. This reduces the DCs of Swim checks in the area by 5 (to a minimum of 10). This effect lasts for 5 minutes. Summon up to six hippocampi. The creatures appear with bit, bridle, and a riding saddle crafted for aquatic use. They serve willingly and well, entering combat and risking attack unflinchingly if a rider directs them to do so (treat them as combat-trained mounts), though they don’t make attacks of their own. These hippocampi serve the PCs for up to 2 hours. Create a soothing effect in a 40-foot radius that affects only animals and magical beasts with Intelligence scores of 1 or 2 that also have the aquatic or amphibious subtype. This otherwise functions as calm animals (Will DC 12 negates). The sounding of this magical horn can be heard by all tritons within a 1-mile radius.
+This iridescent spiraling shell can be blown once per day as a standard action (1 AP) to activate any one of these functions: Calm rough waters in a 40-foot radius. This reduces the DCs of Swim checks in the area by 5 (to a minimum of 10). This effect lasts for 5 minutes. Summon up to six hippocampi. The creatures appear with bit, bridle, and a riding saddle crafted for aquatic use. They serve willingly and well, entering combat and risking attack unflinchingly if a rider directs them to do so (treat them as combat-trained mounts), though they don’t make attacks of their own. These hippocampi serve the PCs for up to 2 hours. Create a soothing effect in a 40-foot radius that affects only animals and magical beasts with Intelligence scores of 1 or 2 that also have the aquatic or amphibious subtype. This otherwise functions as calm animals (Will DC 12 negates). The sounding of this magical horn can be heard by all tritons within a 1-mile radius.
 
 **Requirements** Craft Wondrous Item, calm animals, communal mount, slipstream, creator must be a triton; **Cost** 3,300 gp
 
@@ -231,9 +231,9 @@ Archbaron Fex’s phlegmatic talisman is tied to the heresy devil Visperthul and
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** none; **Price** 800 gp; **Weight** 1 lb.
 
-This miniature stone stalactite measures 4 to 5 inches long. As a standard action, you can toss a portable stalactite up to any solid surface no more than 20 feet above, whereupon the portable stalactite automatically affixes to the ceiling. If no suitable ceiling exists, the portable stalactite falls at your feet.
+This miniature stone stalactite measures 4 to 5 inches long. As a standard action (1 AP), you can toss a portable stalactite up to any solid surface no more than 20 feet above, whereupon the portable stalactite automatically affixes to the ceiling. If no suitable ceiling exists, the portable stalactite falls at your feet.
 
-Once affixed, the portable stalactite remains in place until you call it back to your hand (a standard action) or until a living creature (except you) walks under it, at which point it drops from the ceiling and makes a +10 attack roll against the target. If it hits, it deals 1d6+1 points of damage.
+Once affixed, the portable stalactite remains in place until you call it back to your hand (a standard action (1 AP)) or until a living creature (except you) walks under it, at which point it drops from the ceiling and makes a +10 attack roll against the target. If it hits, it deals 1d6+1 points of damage.
 
 You can affix as many portable stalactites as you like to an area's ceiling, but you must leave at least 5 feet of space between each. A portable stalactite can be detected and disarmed as if it were a trap—it's a DC 20 Search check to discover, and a DC 15 Disarm Device check to safely detach one.
 
@@ -259,7 +259,7 @@ A retriever drone can be used to usurp control of a retriever that is within 30 
 
 If the retriever fails to resist, it falls under the control of the person who carried the drone—this control is permanent as long as the retriever drone exists and the person who activated the drone is chaotic evil. If the controller isn’t chaotic evil, control granted lasts for only 24 hours. If the retriever controlled by a drone is destroyed, the drone itself crumbles to dust.
 
-As a full-round action while touching an active retriever drone, the user can look through the eyes of a controlled retriever and direct its actions. If the drone is destroyed while the user is linked in this manner, the user takes 1d4 points of Constitution damage (Fortitude DC 16 negates).
+As a full-round action (3 AP) while touching an active retriever drone, the user can look through the eyes of a controlled retriever and direct its actions. If the drone is destroyed while the user is linked in this manner, the user takes 1d4 points of Constitution damage (Fortitude DC 16 negates).
 
 **Requirements** Craft Construct, Craft Wondrous Item, greater planar binding, scrying; **Cost** 4,000 gp
 
@@ -306,9 +306,9 @@ This silk scarf is embroidered with all the colors of a flame and tasseled in ti
 **Aura** moderate divination; **CL** 11th  
 **Slot** none; **Price** 20,000 gp; **Weight** 1 lb.
 
-This telescope is adjustable as a full-round action, allowing magnifications anywhere from ×2 to ×250. The user gains a +5 competence bonus on Knowledge (geography) and Perception checks when using the device to study planets, stars, and other celestial bodies.
+This telescope is adjustable as a full-round action (3 AP), allowing magnifications anywhere from ×2 to ×250. The user gains a +5 competence bonus on Knowledge (geography) and Perception checks when using the device to study planets, stars, and other celestial bodies.
 
-As a full-round action, the user can press the two lenses together, compressing the device to a small assayer’s lens small enough to occupy the eyes slot. In this form, the lens grants a +5 competence bonus on Appraise checks, Perception checks, and Survival checks to follow tracks. Once per week, after studying the possessions or tracks of a creature, the wearer may designate that creature as his quarry. This functions as the ranger’s quarry ability. If the wearer already has the quarry ability, the lens instead allows him to designate a creature as his quarry even if it is not one of his favored enemies.
+As a full-round action (3 AP), the user can press the two lenses together, compressing the device to a small assayer’s lens small enough to occupy the eyes slot. In this form, the lens grants a +5 competence bonus on Appraise checks, Perception checks, and Survival checks to follow tracks. Once per week, after studying the possessions or tracks of a creature, the wearer may designate that creature as his quarry. This functions as the ranger’s quarry ability. If the wearer already has the quarry ability, the lens instead allows him to designate a creature as his quarry even if it is not one of his favored enemies.
 
 **Requirements** Craft Wondrous Item, clairaudience/clairvoyance, true; **Cost** 10,000 gp
 
@@ -317,7 +317,7 @@ As a full-round action, the user can press the two lenses together, compressing 
 **Aura** faint divination; **CL** 1st  
 **Slot** none; **Price** 50 gp; **Weight** 1/2 lb.
 
-This crystalline hand-sized scorpion figurine is so full of cracks and occlusions that it looks as if it could fall apart at any minute. As a standard action you may throw the sentinel scorpion to the ground, causing it to explode into crystalline shards that cover the ground in a 10-foot burst. When any creature steps in the area, the shards make popping sounds as loud as the audible version of the alarm spell. A creature moving in the area of the shards has a 10% chance each round of stepping on the stinger. The stinger injects Large scorpion venom (1d6 Str/1d6 Str, Fort DC 18 negates) and is treated as a trap (Search DC 20, Disable Device DC 20). After 2 hours, the shards decay into harmless powder.
+This crystalline hand-sized scorpion figurine is so full of cracks and occlusions that it looks as if it could fall apart at any minute. As a standard action (1 AP) you may throw the sentinel scorpion to the ground, causing it to explode into crystalline shards that cover the ground in a 10-foot burst. When any creature steps in the area, the shards make popping sounds as loud as the audible version of the alarm spell. A creature moving in the area of the shards has a 10% chance each round of stepping on the stinger. The stinger injects Large scorpion venom (1d6 Str/1d6 Str, Fort DC 18 negates) and is treated as a trap (Search DC 20, Disable Device DC 20). After 2 hours, the shards decay into harmless powder.
 
 **Requirements** Craft Wondrous Item, alarm; **Cost** 25 gp, 2 XP
 
@@ -379,7 +379,7 @@ These delicate sliver bracers are decorated with blue butterflies. While worn, s
 
 This small, lidded jar contains a sizable deformed insect that twitches and wriggles as if constantly undergoing a particularly painful death. A swarmlord’s jar has a lid, but the lid is fused to the rest of the jar and cannot be opened. While a swarmlord’s jar is carried openly in one hand, it grants a +2 luck bonus on all saving throws attempted against the attacks of swarms, and reduces swarm damage taken by the target by 5 points. These effects do not stack if more than one jar is carried.
 
-A swarmlord’s jar can be thrown to shatter at any point within 30 feet. If the jar shatters in a square that isn’t currently occupied by an existing swarm, it creates a locust swarm that follows the thrower’s mental commands; these commands may be issued as a free action. If the jar shatters in a square occupied by a swarm, the swarm must succeed at a DC 15 Will save or become controlled by the thrower. Issuing mental commands to a swarm (whether it’s a freshly created locust swarm or a controlled swarm) is a move action, but once the swarm has been issued orders, it continues to follow those orders until it’s destroyed or the magic of the swarmlord’s jar ends. A locust swarm created by this item lasts for 1 minute if not destroyed earlier. Likewise, control granted by the jar lasts for 1 minute. Used against a worm that walks, a swarmlord’s jar merely deals 6d6 points of damage on a successful touch attack as it shatters (Will DC 15 half).
+A swarmlord’s jar can be thrown to shatter at any point within 30 feet. If the jar shatters in a square that isn’t currently occupied by an existing swarm, it creates a locust swarm that follows the thrower’s mental commands; these commands may be issued as a free action. If the jar shatters in a square occupied by a swarm, the swarm must succeed at a DC 15 Will save or become controlled by the thrower. Issuing mental commands to a swarm (whether it’s a freshly created locust swarm or a controlled swarm) is a move action (1 AP), but once the swarm has been issued orders, it continues to follow those orders until it’s destroyed or the magic of the swarmlord’s jar ends. A locust swarm created by this item lasts for 1 minute if not destroyed earlier. Likewise, control granted by the jar lasts for 1 minute. Used against a worm that walks, a swarmlord’s jar merely deals 6d6 points of damage on a successful touch attack as it shatters (Will DC 15 half).
 
 **Requirements** Craft Wondrous Item, summon swarm; **Cost** 1,500 gp
 
@@ -406,7 +406,7 @@ Seventh Act: the goddess of valor appeared as an image to heal the virtuous and 
 
 Eighth Act: the goddess of valor redeemed a graveknight known as the Black Prince. Study of this act grants the reader a +2 sacred bonus to the DC of the reader’s positive channeled energy.
 
-Ninth Act: the goddess of valor provided nine drops of blood to free her righteous allies from a vampire mage. Study of this act allows the reader to shield his allies. As a swift action up to nine times within the next 12 hours, the reader may take 1d4 points of nonlethal damage in order to add a +2 sacred bonus to an adjacent ally’s AC.
+Ninth Act: the goddess of valor provided nine drops of blood to free her righteous allies from a vampire mage. Study of this act allows the reader to shield his allies. As a swift action (1 AP) up to nine times within the next 12 hours, the reader may take 1d4 points of nonlethal damage in order to add a +2 sacred bonus to an adjacent ally’s AC.
 
 Tenth Act: the goddess of valor defended and ruled the besieged city of Kantaria for a year and a day. Study of this act grants the reader a +4 sacred bonus to AC against attacks from opponents that flank him.
 
@@ -481,7 +481,7 @@ The seafarer spent most of his long life trying to learn how to unlock this supp
 
 An occultist of 7th level or higher who has learned the transmutation implement school and uses the seafarer’s underwater orb as an implement can use the following focus power.
 
-One with the Depths (Sp): As a standard action, you can expend 1 point of mental focus to give yourself a swim speed of 30 feet, as well as a +8 bonus on Swim checks and the ability to take 10 on Swim checks even if distracted or endangered. You can also use the run action while swimming, provided you swim in a straight line. Additionally, this effect allows you to breathe water freely. This effect lasts for 1 hour per occultist level you have.
+One with the Depths (Sp): As a standard action (1 AP), you can expend 1 point of mental focus to give yourself a swim speed of 30 feet, as well as a +8 bonus on Swim checks and the ability to take 10 on Swim checks even if distracted or endangered. You can also use the run action while swimming, provided you swim in a straight line. Additionally, this effect allows you to breathe water freely. This effect lasts for 1 hour per occultist level you have.
 
 **Requirements** Craft Wondrous Item, creator must be a 7th-level occultist who has learned the transmutation implement school; **Cost** 16,000 gp
 
@@ -490,7 +490,7 @@ One with the Depths (Sp): As a standard action, you can expend 1 point of mental
 **Aura** faint enchantment; **CL** 5th  
 **Slot** belt; **Price** 5,000 gp; **Weight** 1 lb.
 
-This thick leather belt is adorned with several oversized iron plates and disks depicting images of orc gladiators in battle. The wearer of a victor’s belt gains a +2 morale bonus on all combat maneuver checks and to Combat Maneuver Defense. In addition, the wearer can enter a rage (as the rage spell) as a standard action once per day. Whenever the wearer takes an amount of damage equal to at least half his current hit points in a single round, there is a 50% chance that the belt activates its rage ability automatically as an immediate action, provided the power has not already been activated that day and the wearer is not already raging. Regardless of how the rage is activated, it lasts for 5 rounds.
+This thick leather belt is adorned with several oversized iron plates and disks depicting images of orc gladiators in battle. The wearer of a victor’s belt gains a +2 morale bonus on all combat maneuver checks and to Combat Maneuver Defense. In addition, the wearer can enter a rage (as the rage spell) as a standard action (1 AP) once per day. Whenever the wearer takes an amount of damage equal to at least half his current hit points in a single round, there is a 50% chance that the belt activates its rage ability automatically as an immediate action (1 AP of your next turn), provided the power has not already been activated that day and the wearer is not already raging. Regardless of how the rage is activated, it lasts for 5 rounds.
 
 **Requirements** Craft Wondrous Item, bull's strength, rage; **Cost** 2,500 gp
 
@@ -499,7 +499,7 @@ This thick leather belt is adorned with several oversized iron plates and disks 
 **Aura** faint abjuration; **CL** 5th  
 **Slot** none; **Price** 1,200 gp; **Weight** —
 
-This waxy amber substance is typically stored in a lidded container that holds 10 applications. One application is enough to plug both of a creature’s ears—applying the wax is a standard action. Once applied, the wax imparts a –2 penalty on Perception checks, but imparts a +4 resistance bonus on all saving throws against charm or language-dependant compulsion effects, like charm monster, command, and suggestion. If placed in the ears of a willing or helpless creature currently under a charm or language-dependant compulsion effect, the dose immediately allows the creature to make a new saving throw against the original effect to throw off the charm or compulsion effect (although without the normal +4 bonus granted by the wax if used when a creature is first targeted by such an effect). A single dose of wax of defiance lasts for 1 hour once applied.
+This waxy amber substance is typically stored in a lidded container that holds 10 applications. One application is enough to plug both of a creature’s ears—applying the wax is a standard action (1 AP). Once applied, the wax imparts a –2 penalty on Perception checks, but imparts a +4 resistance bonus on all saving throws against charm or language-dependant compulsion effects, like charm monster, command, and suggestion. If placed in the ears of a willing or helpless creature currently under a charm or language-dependant compulsion effect, the dose immediately allows the creature to make a new saving throw against the original effect to throw off the charm or compulsion effect (although without the normal +4 bonus granted by the wax if used when a creature is first targeted by such an effect). A single dose of wax of defiance lasts for 1 hour once applied.
 
 **Requirements** Craft Wondrous Item, break enchantment, silence; **Cost** 600 gp
 
@@ -572,7 +572,7 @@ In addition, the staff allows the use of the following spells: clairaudience/cla
 **Aura** strong evocation and transmutation; **CL** 19th  
 **Slot** none; **Price** 228,000 gp; **Weight** 5 lbs.
 
-This staff is made of a single icicle that tapers to a sharpened point at each end. It can be used as a +3 icy burst quarterstaff  (only one end of the staff bears this magical enhancement), even if all of its charges are drained. It allows the use of the following spells and abilities: Frostbite (1 charge) Ice storm (1 charge) Freezing sphere (2 charges) Icy prison (2 charges) Wall of ice (2 charges) Cone of cold (3 charges) Ice body (3 charges)  Like a frost brand, Winter’s Reach extinguishes all nonmagical fires in a 20-foot radius. As a standard action, it can also dispel lasting fire spells, but not instantaneous effects. The bearer must succeed at a dispel check (1d20+19) against each spell to dispel it. The DC to dispel such spells is 11 + the caster level of the fire spell. The staff can also be used to counterspell any spell with the fire descriptor as if with dispel magic. Dispelling or counterspelling a fire spell in this way uses 1 charge.
+This staff is made of a single icicle that tapers to a sharpened point at each end. It can be used as a +3 icy burst quarterstaff  (only one end of the staff bears this magical enhancement), even if all of its charges are drained. It allows the use of the following spells and abilities: Frostbite (1 charge) Ice storm (1 charge) Freezing sphere (2 charges) Icy prison (2 charges) Wall of ice (2 charges) Cone of cold (3 charges) Ice body (3 charges)  Like a frost brand, Winter’s Reach extinguishes all nonmagical fires in a 20-foot radius. As a standard action (1 AP), it can also dispel lasting fire spells, but not instantaneous effects. The bearer must succeed at a dispel check (1d20+19) against each spell to dispel it. The DC to dispel such spells is 11 + the caster level of the fire spell. The staff can also be used to counterspell any spell with the fire descriptor as if with dispel magic. Dispelling or counterspelling a fire spell in this way uses 1 charge.
 
 **Requirements** Craft Staff, cone of cold, dispel magic, freezing sphere, frostbite, ice body, ice storm, icy prison, wall of ice; **Cost** 114,000 gp
 
@@ -585,7 +585,7 @@ This staff is made of a single icicle that tapers to a sharpened point at each e
 
 This blade is a +1 human bane trident that has been passed down from chieftain to chieftain in a tribe for generations. This blade’s three-pronged head is crafted of magically strengthened seashells, and its haft is composed of rough, twisted coral that deals 1 point of damage each time it is grasped, unless the wielder has a natural armor bonus or is wearing gauntlets.
 
-As an immediate action after a successful melee attack with the trident, this blade’s wielder can transmute the substance of the target creature into rigid coral. This attack deals 1d4 points of Dexterity damage and slows the target (as the spell) for 1 round as its flesh calcifies. A DC 16 Fortitude save negates the slow effect but not the ability damage. A target reduced to 0 Dexterity is permanently petrified 1, transformed into inert, mindless coral. Break enchantment or restoration reverses all of the effects of this calcification. This ability can be used up to 7 times per day.
+As an immediate action (1 AP of your next turn) after a successful melee attack with the trident, this blade’s wielder can transmute the substance of the target creature into rigid coral. This attack deals 1d4 points of Dexterity damage and slows the target (as the spell) for 1 round as its flesh calcifies. A DC 16 Fortitude save negates the slow effect but not the ability damage. A target reduced to 0 Dexterity is permanently petrified 1, transformed into inert, mindless coral. Break enchantment or restoration reverses all of the effects of this calcification. This ability can be used up to 7 times per day.
 
 ### Doubleshot Pepperbox
 
@@ -637,7 +637,7 @@ This elegant mithral sword bears a blooming rose on the crossguard, with vines w
 
 A rose knight’s blade is a +1 benevolent mithral longsword. Along with its benevolence special ability, this sword can also provide aid by metaphorically cutting through certain debilitating effects. Three times per day, the wielder of a rose knight’s blade can attempt a new saving throw against one of the following conditions affecting her: dazed, frightened, nauseated, panicked, paralyzed, shaken, staggered, or stunned— but only if the condition was caused by a mind-affecting effect.
 
-Alternatively, the wielder can expend one daily use and touch the blade to an adjacent creature as a standard action to remove one of these mind-affecting conditions from the ally.
+Alternatively, the wielder can expend one daily use and touch the blade to an adjacent creature as a standard action (1 AP) to remove one of these mind-affecting conditions from the ally.
 
 ### Silverfang
 
@@ -646,7 +646,7 @@ Alternatively, the wielder can expend one daily use and touch the blade to an ad
 
 Silverfang is a +1 undead bane mithral rapier originally forged by a cabal of vampire hunters in the gothic lands as a weapon against their hated foes. Ironically, the rapier was claimed by a powerful Nidalese vampire named Volsazni Dezarr as a trophy after he single-handedly slew the entire cabal during their foolish attempt to destroy him. Since then, Volsazni has bequeathed the weapon as a token of his favor to no fewer than a dozen vampiric thralls and five of his dhampir children—Gnaeus being the latest of these recipients.
 
-As long as Silverfang is carried, the user gains a +2 resistance bonus on all saving throws against negative energy and level drain, and whenever he makes a Fortitude save to recover from a negative level, he may roll the save twice, taking the better of the two results as the actual result. Once per day, Silverfang can target an undead creature it just successfully critically hit with a halt undead effect (Will DC 14 negates) as a swift action.
+As long as Silverfang is carried, the user gains a +2 resistance bonus on all saving throws against negative energy and level drain, and whenever he makes a Fortitude save to recover from a negative level, he may roll the save twice, taking the better of the two results as the actual result. Once per day, Silverfang can target an undead creature it just successfully critically hit with a halt undead effect (Will DC 14 negates) as a swift action (1 AP).
 
 ### Sirocco Cannon
 
@@ -687,9 +687,9 @@ Spelunker’s mail is a +1 slick chain shirt and has a dark, lustrous sheen to i
 **Aura** moderate abjuration; **CL** 9th  
 **Slot** armor; **Price** 20,175 gp; **Weight** 20 lbs.
 
-Each of the yellow ribbons that spill from the joints of this jaundiced suit of +3 studded leather armor bears one or more haunting runes. Three times per day, a cleric (or other class with cleric domains) with the Rune domain can use her blast rune domain power to mark one of the ribbons rather than a square. Such blast runes last until the next time the cleric prepares spells and cannot benefit from other domain abilities such as spell rune. As a swift action while wearing this armor, the cleric can cause one of the ribbons to lash out and touch an adjacent creature, triggering the blast rune as if the target had entered the warded square. When marking a ribbon with a blast rune, the cleric can instead expend two daily uses of The Forbidden Name’s ability to also apply the benefits of another Rune domain (or subdomain) power such as spell rune or warding rune to the blast rune.
+Each of the yellow ribbons that spill from the joints of this jaundiced suit of +3 studded leather armor bears one or more haunting runes. Three times per day, a cleric (or other class with cleric domains) with the Rune domain can use her blast rune domain power to mark one of the ribbons rather than a square. Such blast runes last until the next time the cleric prepares spells and cannot benefit from other domain abilities such as spell rune. As a swift action (1 AP) while wearing this armor, the cleric can cause one of the ribbons to lash out and touch an adjacent creature, triggering the blast rune as if the target had entered the warded square. When marking a ribbon with a blast rune, the cleric can instead expend two daily uses of The Forbidden Name’s ability to also apply the benefits of another Rune domain (or subdomain) power such as spell rune or warding rune to the blast rune.
 
-Alternatively, any wearer can expend two daily uses when casting glyph of warding or explosive runes —or three uses when casting greater glyph of warding —on a ribbon to treat it much like a blast rune. As a swift action while wearing the armor, she can trigger the glyph as though she had stepped on it; however, she takes half damage from the effect on a failed Reflex saving throw or no damage if successful.
+Alternatively, any wearer can expend two daily uses when casting glyph of warding or explosive runes —or three uses when casting greater glyph of warding —on a ribbon to treat it much like a blast rune. As a swift action (1 AP) while wearing the armor, she can trigger the glyph as though she had stepped on it; however, she takes half damage from the effect on a failed Reflex saving throw or no damage if successful.
 
 ## Armor
 

@@ -64,7 +64,7 @@ A general leading a legendary last stand against an undead tyrant carried many h
 
 **Four-Item Benefit**: While you are wearing or wielding at least four pieces of this set, you gain a +4 circumstance bonus on Will saving throws against fear effects.
 
-**Five-Item Benefit**: When wearing and wielding all five pieces of this set, once per day as an immediate action you can maximize the effects of a single healing effect targeting you, treating all dice rolled as part of the effect as though they had rolled the maximum possible value.
+**Five-Item Benefit**: When wearing and wielding all five pieces of this set, once per day as an immediate action (1 AP of your next turn) you can maximize the effects of a single healing effect targeting you, treating all dice rolled as part of the effect as though they had rolled the maximum possible value.
 
 ## Corsair's Bounty
 

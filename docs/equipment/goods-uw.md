@@ -50,7 +50,7 @@ This heavy canvas sack can carry adventuring gear and other supplies. It holds 4
 
 **Price** 25 gp; **Weight** 5 lbs.
 
-Reinforced metal bars allow for this leather backpack to withstand a greater degree of stress than a traditional pack. Along with the standard backpack compartment, this pack has an additional pouch and harness at its top. Used together, the harness and pouch can safely contain a Tiny or smaller creature. While harnessed, the creature can’t leave the backpack or see outside of it; it takes a full-round action to remove the harness from a carried creature.
+Reinforced metal bars allow for this leather backpack to withstand a greater degree of stress than a traditional pack. Along with the standard backpack compartment, this pack has an additional pouch and harness at its top. Used together, the harness and pouch can safely contain a Tiny or smaller creature. While harnessed, the creature can’t leave the backpack or see outside of it; it takes a full-round action (3 AP) to remove the harness from a carried creature.
 
 ### Backpack, Hydration
 
@@ -62,7 +62,7 @@ This mostly leather backpack has a series of awkward metallic tubes, which run f
 
 **Price** 25 gp; **Weight** 5 lbs.
 
-This leather backpack includes a small weapons rack. The rack holds up to four weapons, such as battleaxes, longswords, maces, or short swords. Allies adjacent to you can retrieve a weapon from the rack as a move action without provoking attacks of opportunity, as if they were simply drawing a weapon. Like a normal backpack, it can hold 2 cubic feet of material in its main compartment.
+This leather backpack includes a small weapons rack. The rack holds up to four weapons, such as battleaxes, longswords, maces, or short swords. Allies adjacent to you can retrieve a weapon from the rack as a move action (1 AP) without provoking attacks of opportunity, as if they were simply drawing a weapon. Like a normal backpack, it can hold 2 cubic feet of material in its main compartment.
 
 ### Camouflaged Canvas
 
@@ -92,7 +92,7 @@ These rubber boot or shoe inserts cushion your feet and improve your gait, grant
 
 **Price** 100 gp; **Weight** 20 lbs.
 
-Sometimes referred to as a “misery whip,” this long blade (between 4 and 12 feet) is lined with numerous metal teeth. Thick handholds at each end of the blade allow a Medium or larger creature to grip one end with both hands. When a creature pulls on a handle (a move action) with another creature on the opposite side ready to pull after, those wielders can use the duo saw to cut through an object at exceptional speeds. This maneuver deals 10 points of damage per round of sawing to an object, ignoring up to 5 points of hardness on any nonmetallic substance. These saws are typically employed in the felling of large trees.
+Sometimes referred to as a “misery whip,” this long blade (between 4 and 12 feet) is lined with numerous metal teeth. Thick handholds at each end of the blade allow a Medium or larger creature to grip one end with both hands. When a creature pulls on a handle (a move action (1 AP)) with another creature on the opposite side ready to pull after, those wielders can use the duo saw to cut through an object at exceptional speeds. This maneuver deals 10 points of damage per round of sawing to an object, ignoring up to 5 points of hardness on any nonmetallic substance. These saws are typically employed in the felling of large trees.
 
 ### Efficient Tent
 
@@ -148,7 +148,7 @@ An insulated metal cup with a resealable top, this container can hold any sort o
 
 **Price** 60 gp; **Weight** 4 lbs.
 
-A nature climbing harness is a series of buckles, straps, and trusses that can be worn over clothing or light armor. As a standard action, you can secure yourself in place on a vertical surface so that both your hands are free. You can remain in this position without needing to attempt additional Climb checks, and you don’t lose your Dexterity bonus to your AC as long as you remain anchored. As long as you are anchored in this way, you cannot move, but you gain a +5 circumstance bonus on Climb checks to avoid falling whenever you take damage. You can release yourself to start moving again as a move action.
+A nature climbing harness is a series of buckles, straps, and trusses that can be worn over clothing or light armor. As a standard action (1 AP), you can secure yourself in place on a vertical surface so that both your hands are free. You can remain in this position without needing to attempt additional Climb checks, and you don’t lose your Dexterity bonus to your AC as long as you remain anchored. As long as you are anchored in this way, you cannot move, but you gain a +5 circumstance bonus on Climb checks to avoid falling whenever you take damage. You can release yourself to start moving again as a move action (1 AP).
 
 ### Noble’s Excursion Kit
 
@@ -180,13 +180,13 @@ A silent piton is identical to a regular piton, except it has been alchemically 
 
 **Price** 20 gp; **Weight** 1/2 lb.
 
-This kit contains three pliable suction cups, a constrictor strap, a tiny razor, and several vials of snake antivenom. When suffering a poison that was delivered by the bite attack of a snake (or other ophidian creature, such as a serpentfolk), as a full-round action, you can use this kit to gain a +4 circumstance bonus on the ongoing Fortitude saving throws against that poison. A snakebite kit is exhausted after 10 uses.
+This kit contains three pliable suction cups, a constrictor strap, a tiny razor, and several vials of snake antivenom. When suffering a poison that was delivered by the bite attack of a snake (or other ophidian creature, such as a serpentfolk), as a full-round action (3 AP), you can use this kit to gain a +4 circumstance bonus on the ongoing Fortitude saving throws against that poison. A snakebite kit is exhausted after 10 uses.
 
 ### Speed Sheath
 
 **Price** 10 gp; **Weight** 1 lb.
 
-This sheath is designed to be strapped around your forearm, but it is too bulky to be hidden under a long sleeve. It can hold one forearm-length item, such as a dagger, dart, potion, scroll containing a single spell, or wand. As a swift action, you can bend your wrist to cause the sheathed item to drop into your hand (provoking attacks of opportunity as normal for retrieving an item). Placing an item in the sheath is a full-round action that provokes attacks of opportunity. You can wear only one wrist sheath per arm that you have.
+This sheath is designed to be strapped around your forearm, but it is too bulky to be hidden under a long sleeve. It can hold one forearm-length item, such as a dagger, dart, potion, scroll containing a single spell, or wand. As a swift action (1 AP), you can bend your wrist to cause the sheathed item to drop into your hand (provoking attacks of opportunity as normal for retrieving an item). Placing an item in the sheath is a full-round action (3 AP) that provokes attacks of opportunity. You can wear only one wrist sheath per arm that you have.
 
 ### Stretch Cords
 
@@ -204,7 +204,7 @@ This kit contains a fleshing knife, a bottle of tanning solution, a small tannin
 
 **Price** 15 gp; **Weight** 15 lbs.
 
-When fastened over a normal tent, this sheet of resilient waterproof animal gut provides an additional layer of protection against harsh weather and pestering insects. Attaching the cover requires 1 minute of work. The occupants of a tent that is fitted with the cover gain a +5 circumstance bonus on saves to resist the adverse effects of dust storms, rain, snow, and other harmful weather conditions. The occupants also gain DR 5/— against swarm damage caused by swarms composed of Diminutive or smaller creatures outside the tent. If an occupant takes no damage from a swarm as a result of this DR, she is not affected by the swarm’s distraction ability. The swarm can attempt a DC 20 Reflex save as a full-round action to enter the tent and deal full damage in subsequent rounds.
+When fastened over a normal tent, this sheet of resilient waterproof animal gut provides an additional layer of protection against harsh weather and pestering insects. Attaching the cover requires 1 minute of work. The occupants of a tent that is fitted with the cover gain a +5 circumstance bonus on saves to resist the adverse effects of dust storms, rain, snow, and other harmful weather conditions. The occupants also gain DR 5/— against swarm damage caused by swarms composed of Diminutive or smaller creatures outside the tent. If an occupant takes no damage from a swarm as a result of this DR, she is not affected by the swarm’s distraction ability. The swarm can attempt a DC 20 Reflex save as a full-round action (3 AP) to enter the tent and deal full damage in subsequent rounds.
 
 ### Trekking Pole
 
@@ -271,7 +271,7 @@ Susceptibility: Affected creatures are forced to obey one specific, simple comma
 
 **Price** 100 gp; **Weight** —
 
-When applied to your hands, this clear, sticky substance made from alchemically prepared pine sap provides a +2 alchemical bonus to your CMD against disarm attempts, on combat maneuver checks to grapple, and on Climb checks; it also functions underwater. Applying the resin is a standard action, and it wears off 1 hour after being applied.
+When applied to your hands, this clear, sticky substance made from alchemically prepared pine sap provides a +2 alchemical bonus to your CMD against disarm attempts, on combat maneuver checks to grapple, and on Climb checks; it also functions underwater. Applying the resin is a standard action (1 AP), and it wears off 1 hour after being applied.
 
 ### Liniment
 

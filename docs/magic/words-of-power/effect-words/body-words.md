@@ -32,7 +32,7 @@ Target Restriction personal, selected The target of a wordspell with this effect
 
 (harmless)
 
-Target Restriction personal, selected The target of a wordspell with this effect receives a +4 enhancement bonus to either Strength, Dexterity, or Constitution (caster’s choice). The target can end a wordspell with this effect word prematurely as a swift action, gaining a +8 enhancement bonus to the ability score until the end of the target’s turn.
+Target Restriction personal, selected The target of a wordspell with this effect receives a +4 enhancement bonus to either Strength, Dexterity, or Constitution (caster’s choice). The target can end a wordspell with this effect word prematurely as a swift action (1 AP), gaining a +8 enhancement bonus to the ability score until the end of the target’s turn.
 
 ## Perfect Form (Body)
 

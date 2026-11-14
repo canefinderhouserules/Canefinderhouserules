@@ -20,7 +20,7 @@ Target Restrictions selected The target of a wordspell with this effect word fal
 
 (harmless)
 
-Target Restrictions selected The target of a wordspell with this effect word can float in the air, rising or falling at a rate of 30 feet per round as a move action. This effect only allows for vertical movement, but other forces might allow the target to move horizontally as well. The caster has no control over this movement, but can end a wordspell with this effect word prematurely as an immediate action.
+Target Restrictions selected The target of a wordspell with this effect word can float in the air, rising or falling at a rate of 30 feet per round as a move action (1 AP). This effect only allows for vertical movement, but other forces might allow the target to move horizontally as well. The caster has no control over this movement, but can end a wordspell with this effect word prematurely as an immediate action (1 AP of your next turn).
 
 ## Soar (Flight)
 

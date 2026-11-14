@@ -6,6 +6,6 @@ Even when facing a larger foe, you aren’t afraid to take great risks in order 
 
 **Prerequisites**: Str 13, [Power Attack](power-attack.md), base attack bonus +6.
 
-**Benefit**: Against a creature of size Large or larger, you can make a single melee attack as a full-round action, gaining a +4 bonus on the attack roll, damage roll, and critical confirmation roll. You gain an additional +1 on this bonus at base attack bonus +11, +16, and +20 (for a maximum of +7 at base attack +20). After you resolve your attack, the opponent you attack can spend an immediate action to make a single melee attack against you with the same bonuses.
+**Benefit**: Against a creature of size Large or larger, you can make a single melee attack as a full-round action (3 AP), gaining a +4 bonus on the attack roll, damage roll, and critical confirmation roll. You gain an additional +1 on this bonus at base attack bonus +11, +16, and +20 (for a maximum of +7 at base attack +20). After you resolve your attack, the opponent you attack can spend an immediate action (1 AP of your next turn) to make a single melee attack against you with the same bonuses.
 
-**Special**: You can combine the full-round action attack this feat allows with the benefit of [Vital Strike](vital-strike.md), [Improved Vital Strike](improved-vital-strike.md), or [Greater Vital Strike](greater-vital-strike.md).
+**Special**: You can combine the full-round action (3 AP) attack this feat allows with the benefit of [Vital Strike](vital-strike.md), [Improved Vital Strike](improved-vital-strike.md), or [Greater Vital Strike](greater-vital-strike.md).

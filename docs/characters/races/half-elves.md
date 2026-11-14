@@ -76,7 +76,7 @@ Half-elves descended from particular kinds of elves may select the following rac
 
 ### Urban Alternate Racial Traits
 
-**Inspire Imitation**: Whenever a half-elf succeeds at a skill check, she can inspire imitators as a swift action. Any ally within 30 feet who witnesses the successful check and attempts the same check within the next minute gains a +2 bonus on the check as if from the aid another action. This racial trait replaces skilled.
+**Inspire Imitation**: Whenever a half-elf succeeds at a skill check, she can inspire imitators as a swift action (1 AP). Any ally within 30 feet who witnesses the successful check and attempts the same check within the next minute gains a +2 bonus on the check as if from the aid another action. This racial trait replaces skilled.
 
 ### Fey Heritage Alternate Racial Traits
 

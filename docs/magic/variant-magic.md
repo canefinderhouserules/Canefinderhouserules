@@ -99,7 +99,7 @@ Though known to almost any culture that practices ritual tattooing, tattoo magic
 
 *Aura* faint (lesser), moderate (normal), or strong (greater) evocation; *CL* 5th (lesser), 11th (normal), or 17th (greater); *Slot* none; *Price* 6,000 gp (lesser), 21,000 gp (normal), 48,000 gp (greater)
 
-A caster's tattoo is infused with potential magical energy that aids in casting spells that normally utilize verbal and somatic components. Once per day, a spellcaster may activate her caster's tattoo as a swift action to automatically enhance the next spell she casts in that round with both the Still Spell and Silent Spell feats. When she casts the spell, the caster's tattoo flares with light for a moment, then grows faint and faded—it replenishes its energy in 24 hours, after which it becomes bold and colorful and can be used again. Required material components or foci must be in the creature's possession to cast the spell (and are consumed as normal), but need not be held when the spell is cast. Caster's tattoos are available in lesser, standard, and greater versions, allowing the modified casting of a spell of up to 3rd level, 6th level, or 9th level respectively.
+A caster's tattoo is infused with potential magical energy that aids in casting spells that normally utilize verbal and somatic components. Once per day, a spellcaster may activate her caster's tattoo as a swift action (1 AP) to automatically enhance the next spell she casts in that round with both the Still Spell and Silent Spell feats. When she casts the spell, the caster's tattoo flares with light for a moment, then grows faint and faded—it replenishes its energy in 24 hours, after which it becomes bold and colorful and can be used again. Required material components or foci must be in the creature's possession to cast the spell (and are consumed as normal), but need not be held when the spell is cast. Caster's tattoos are available in lesser, standard, and greater versions, allowing the modified casting of a spell of up to 3rd level, 6th level, or 9th level respectively.
 
 *Construction* *Requirements* Inscribe Magical Tattoo, Silent Spell, Still Spell; *Cost* 3,000 gp (lesser), 10,500 gp (normal), 24,000 gp (greater)
 
@@ -107,7 +107,7 @@ A caster's tattoo is infused with potential magical energy that aids in casting 
 
 *Aura* moderate transmutation; *CL* 7th; *Slot* none; *Price* 10,000 gp
 
-Once per day as a standard action, the bearer can transfer into the tattoo an ongoing single-target spell (of up to 3rd level). The spell must be one the bearer cast on itself. While stored in the tattoo, the spell's effects are suppressed, and the spell's duration is similarly suspended. As a standard action, the bearer can bring the spell back into effect on itself. Spells stored in reservoir tattoos are lost when the bearer next prepares spells.
+Once per day as a standard action (1 AP), the bearer can transfer into the tattoo an ongoing single-target spell (of up to 3rd level). The spell must be one the bearer cast on itself. While stored in the tattoo, the spell's effects are suppressed, and the spell's duration is similarly suspended. As a standard action (1 AP), the bearer can bring the spell back into effect on itself. Spells stored in reservoir tattoos are lost when the bearer next prepares spells.
 
 *Construction* *Requirements* Inscribe Magical Tattoo; *Cost* 5,000 gp
 

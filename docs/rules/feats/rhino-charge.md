@@ -8,4 +8,4 @@ Your charges are both violent and unpredictable.
 
 **Benefit**: You may ready a charge, though you may only move up to your speed on the charge.
 
-**Normal**: Charging is a full-round action and allows you to move twice your speed.
+**Normal**: Charging is a full-round action (2 AP) and allows you to move twice your speed.

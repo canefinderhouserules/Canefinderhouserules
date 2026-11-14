@@ -43,7 +43,7 @@ A blissful spell gains the good descriptor, and the additional effect is a mind-
 
 **Bouncing Spell +1 \[Common\]**
 
-Whenever a bouncing spell targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected spell behaves in all ways as if its new target were the original target for the spell. Spells that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner.
+Whenever a bouncing spell targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action (1 AP), redirect it to target another eligible creature within range. The redirected spell behaves in all ways as if its new target were the original target for the spell. Spells that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner.
 
 **Brackish Spell +0 \[Trait\]**
 
@@ -99,7 +99,7 @@ You can modify a spell to daze a creature damaged by the spell. When a creature 
 
 **Delayed Spell +0 \[Common\]**
 
-A delayed spell can be activated as a standard action anytime within 1 minute per spell level of being cast. Only spells that target one or more squares or grid intersections can be affected by Delayed Spell, and the target (as well as any other variables determined at the time of casting) cannot be changed once the delayed spell is cast. You can have as many delayed spells as you wish at any given time, but only one spell can be triggered in a single standard action. Though a delayed spell does not manifest until it is triggered, it emits a magical aura as normal and can be identified with Knowledge (arcana) as a spell effect in place.
+A delayed spell can be activated as a standard action (1 AP) anytime within 1 minute per spell level of being cast. Only spells that target one or more squares or grid intersections can be affected by Delayed Spell, and the target (as well as any other variables determined at the time of casting) cannot be changed once the delayed spell is cast. You can have as many delayed spells as you wish at any given time, but only one spell can be triggered in a single standard action (1 AP). Though a delayed spell does not manifest until it is triggered, it emits a magical aura as normal and can be identified with Knowledge (arcana) as a spell effect in place.
 
 **Disruptive Spell +1 \[Common\]**
 
@@ -157,7 +157,7 @@ Spell with the \[fire\], \[light\], or \[electricity\] descriptor dazzles creatu
 
 **Fleeting Spell +0 \[Trait\]**
 
-A fleeting spell’s duration becomes dismissible, if it is not already. You can dismiss your own fleeting spell as a swift action. When you dismiss a fleeting spell, its lingering aura cannot be detected by magic unless the caster succeeds at a caster level check against a DC equal to 11 + your caster level. The DC of dispel checks to counter a fleeting spell is reduced by 2, and once active, dispel magic removes a fleeting spell without a caster level check. A fleeting spell has half its normal duration (with an extended fleeting spell, these duration adjustments cancel out). Only spells with a duration of at least 2 rounds can be made fleeting, and instantaneous or permanent spells cannot be fleeting spells.
+A fleeting spell’s duration becomes dismissible, if it is not already. You can dismiss your own fleeting spell as a swift action (1 AP). When you dismiss a fleeting spell, its lingering aura cannot be detected by magic unless the caster succeeds at a caster level check against a DC equal to 11 + your caster level. The DC of dispel checks to counter a fleeting spell is reduced by 2, and once active, dispel magic removes a fleeting spell without a caster level check. A fleeting spell has half its normal duration (with an extended fleeting spell, these duration adjustments cancel out). Only spells with a duration of at least 2 rounds can be made fleeting, and instantaneous or permanent spells cannot be fleeting spells.
 
 **Focused Spell +1 \[Powerful\]**
 
@@ -215,7 +215,7 @@ Affected spell treats creatures with SR as having an SR of 10 lower.
 
 **Quicken Spell +3 \[Powerful\]**
 
-Cast spell as a swift action. This does not allow two damaging spells to be used in the same turn.
+Cast spell as a swift action (1 AP). This does not allow two damaging spells to be used in the same turn.
 
 **Reach Spell +1 \[Common\]**
 
@@ -311,7 +311,7 @@ Affected spell’s death effects, energy drain, and negative levels affect undea
 
 You can use this metamagic feat only on illusion (figment) spells.
 
-A threatening illusion spell causes one target to believe your illusion is a threat. Choose one 5-foot square within the area of your illusion; that square threatens the target as long as it is adjacent. Thus, if you or an ally is on the opposite side of the target, it is considered flanking. Normally the area must contain an illusory creature of Small or Medium size. However, you can select one square of a larger illusory creature to threaten the target. For example, an illusory Large ogre takes up four 5-foot squares; you select one square to be the source of the threat, and its other three squares do not threaten anyone. If the target has reason to believe there is an invisible creature in the vicinity, even an auditory illusion with no visual elements (such as ghost sound) is sufficient to convince the target that the selected square contains an actual threat. As long as you maintain the illusion, you can change the location of the threatening square as a swift action. When you threaten a target with this spell, the foe may make a Will save to disbelieve (DC 10 + threatening spell’s level + your spellcasting ability score modifier). If the target makes this save, the threatening effect of this feat no longer applies to it.
+A threatening illusion spell causes one target to believe your illusion is a threat. Choose one 5-foot square within the area of your illusion; that square threatens the target as long as it is adjacent. Thus, if you or an ally is on the opposite side of the target, it is considered flanking. Normally the area must contain an illusory creature of Small or Medium size. However, you can select one square of a larger illusory creature to threaten the target. For example, an illusory Large ogre takes up four 5-foot squares; you select one square to be the source of the threat, and its other three squares do not threaten anyone. If the target has reason to believe there is an invisible creature in the vicinity, even an auditory illusion with no visual elements (such as ghost sound) is sufficient to convince the target that the selected square contains an actual threat. As long as you maintain the illusion, you can change the location of the threatening square as a swift action (1 AP). When you threaten a target with this spell, the foe may make a Will save to disbelieve (DC 10 + threatening spell’s level + your spellcasting ability score modifier). If the target makes this save, the threatening effect of this feat no longer applies to it.
 
 **Threnodic Spell +1 \[Trait\]**
 

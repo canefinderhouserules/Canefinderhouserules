@@ -26,7 +26,7 @@ The illumination in the additional 60 foot radius increases to at least normal l
 
 Increase the spell's range to close (25 feet + 5 feet per 2 caster levels). Increase the temporary hp gained from the spell to 2d8 and the enhancement bonuses to Strength to +4, and gain a +4 enhancement bonus to Dexterity.
 
-**Augmented (3rd)**: If you expend two uses of mythic power, the casting time decreases to 1 immediate action, and you may target a creature that you killed on your last turn as if it were still alive; the dead target gets no save.
+**Augmented (3rd)**: If you expend two uses of mythic power, the casting time decreases to 1 immediate action (1 AP of your next turn), and you may target a creature that you killed on your last turn as if it were still alive; the dead target gets no save.
 
 ## Deep Slumber
 
@@ -50,7 +50,7 @@ Select one alignment component that you have (chaotic, evil, or lawful). Outside
 
 This spell automatically gives you a visual image of the creature scrying you. If it's using a non-mythic means of scrying, you also gain an accurate sense of its direction and distance from you. You automatically succeed at caster level checks to overcome nondetection or similar effects (other than mind blank) that block your ability to detect the creature.
 
-If you learn the creature's direction and distance with this spell, you can, as an immediate action, cast a mind-affecting spell through the scrying sensor to target the creature. This spell affects only the scrying creature, even if the spell normally affects an area or multiple targets. You must expend a number of uses of mythic power equal to the level of the spell you wish to cast against the creature.
+If you learn the creature's direction and distance with this spell, you can, as an immediate action (1 AP of your next turn), cast a mind-affecting spell through the scrying sensor to target the creature. This spell affects only the scrying creature, even if the spell normally affects an area or multiple targets. You must expend a number of uses of mythic power equal to the level of the spell you wish to cast against the creature.
 
 **Augmented (6th)**: If you expend two uses of mythic power, even mind blank doesn't prevent you from detecting the scrying creature. If you teleport to the creature's location within 1 minute, you arrive on target (with no chance of error) and bypass non-mythic effects that block teleportation. Alternatively, you can compel the creature to attempt to teleport to you within 1 minute (Will negates, DC equal to 10 plus double your tier). It must use its own means of teleportation to do so, but you guarantee it arrives on target and bypasses non-mythic effects that block teleportation to your location.
 
@@ -118,7 +118,7 @@ The speed of the movement form provided by the spell increases by 30 feet. This 
 
 ## Dominate Person
 
-The [Sense Motive](../../rules/skills/sense-motive.md) DC to notice your target is dominated increases by double your tier. You can give orders to the target even if it's protected by non-mythic effects that block magical control, such as protection from evil. If the target is protected by a mythic effect, you can attempt to overcome this defense with a caster level check (DC 15 plus the caster level of the effect); add your tier to your roll and the opposing caster's tier to the DC. If the target succeeds at its Will save to break your control, as an immediate action you can expend one use of mythic power to force it to reroll the save and use the lower result.
+The [Sense Motive](../../rules/skills/sense-motive.md) DC to notice your target is dominated increases by double your tier. You can give orders to the target even if it's protected by non-mythic effects that block magical control, such as protection from evil. If the target is protected by a mythic effect, you can attempt to overcome this defense with a caster level check (DC 15 plus the caster level of the effect); add your tier to your roll and the opposing caster's tier to the DC. If the target succeeds at its Will save to break your control, as an immediate action (1 AP of your next turn) you can expend one use of mythic power to force it to reroll the save and use the lower result.
 
 ## Draconic Reservoir
 
@@ -126,13 +126,13 @@ The [Sense Motive](../../rules/skills/sense-motive.md) DC to notice your target 
 
 The amount of energy damage the spell absorbs increases to 10 points per caster level (maximum 100 points). The energy damage from the weapons improves as if using a corrosive burst, flaming burst, icy burst, or shocking burst weapon.
 
-**Augmented (3rd)**: If you expend two uses of mythic power, spending a swift action applies the energy damage to any number of creatures the target hits this round, not just the first.
+**Augmented (3rd)**: If you expend two uses of mythic power, spending a swift action (1 AP) applies the energy damage to any number of creatures the target hits this round, not just the first.
 
 ## Dragon’s Breath
 
 **Source** *Advanced Player's Guide*
 
-The spell's duration changes to 1 minute/level or until discharged. You can use the breath weapon up to three times during this duration. On the round you cast the spell, using the breath weapon is a free action; later uses require a standard action. You must wait 1d4 rounds between each use of the breath weapon. All uses for a particular casting have the same range, area, and energy type. You can have only one dragon's breath spell in effect at a time; casting a new one ends the previous one.
+The spell's duration changes to 1 minute/level or until discharged. You can use the breath weapon up to three times during this duration. On the round you cast the spell, using the breath weapon is a free action; later uses require a standard action (1 AP). You must wait 1d4 rounds between each use of the breath weapon. All uses for a particular casting have the same range, area, and energy type. You can have only one dragon's breath spell in effect at a time; casting a new one ends the previous one.
 
 ## Dream
 

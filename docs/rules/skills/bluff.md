@@ -22,7 +22,7 @@ You know how to tell a lie.
 
 **Action**: Attempting to deceive someone takes at least 1 round, but can possibly take longer if the lie is elaborate (as determined by the GM on a case-by-case basis).
 
-Feinting in combat is a standard action.
+Feinting in combat is a standard action (1 AP).
 
 Using Bluff to deliver a secret message takes twice as long as the message would otherwise take to relay.
 

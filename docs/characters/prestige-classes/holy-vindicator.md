@@ -63,13 +63,13 @@ The vindicator’s class level stacks with levels in any other class that grants
 
 #### Vindicator’s Shield (Su)
 
-A vindicator can channel energy into his shield as a standard action; when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. to being critically hit, even if the attack incapacitates or kills the vindicator.
+A vindicator can channel energy into his shield as a standard action (1 AP); when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. to being critically hit, even if the attack incapacitates or kills the vindicator.
 
 #### Stigmata (Su)
 
-A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. He may stop or start the flow of blood by force of will as a standard action; at 6th level it becomes a move action, and at 10th level it becomes a swift action. Activating stigmata causes bleed damage equal to half the vindicator’s class level, and this bleed damage is not halted by curative magic. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata.
+A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. He may stop or start the flow of blood by force of will as a standard action (1 AP); at 6th level it becomes a move action (1 AP), and at 10th level it becomes a swift action (1 AP). Activating stigmata causes bleed damage equal to half the vindicator’s class level, and this bleed damage is not halted by curative magic. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata.
 
-While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action.
+While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action (1 AP).
 
 #### Faith Healing (Su)
 
@@ -77,7 +77,7 @@ At 3rd level, any cure wounds spells a vindicator casts on himself are automatic
 
 #### Divine Wrath (Sp)
 
-At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action (using the vindicator’s caster level). The save DC is increased by +2 if his weapon has a ×3 damage multiplier, or by +4 if it is ×4. The vindicator can also use this ability in response
+At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action (1 AP of your next turn) (using the vindicator’s caster level). The save DC is increased by +2 if his weapon has a ×3 damage multiplier, or by +4 if it is ×4. The vindicator can also use this ability in response
 
 #### Bloodfire (Su)
 
@@ -93,7 +93,7 @@ At 6th level, a vindicator’s channel energy can instead affect a 30-foot cone 
 
 #### Divine Judgment (Sp)
 
-At 7th level, when a vindicator’s melee attack reduces a creature to –1 or fewer hit points, he may sacrifice a prepared 2nd-level spell or available 2nd- level spell slot to invoke death knell upon the target as an immediate action (using the vindicator’s caster level). As vindicators mete out divine judgment, this is not an evil act. The save DC increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if it is ×4.
+At 7th level, when a vindicator’s melee attack reduces a creature to –1 or fewer hit points, he may sacrifice a prepared 2nd-level spell or available 2nd- level spell slot to invoke death knell upon the target as an immediate action (1 AP of your next turn) (using the vindicator’s caster level). As vindicators mete out divine judgment, this is not an evil act. The save DC increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if it is ×4.
 
 #### Bloodrain (Su)
 
@@ -101,6 +101,6 @@ At 9th level, while his stigmata are bleeding, the vindicator’s harmful channe
 
 #### Divine Retribution (Sp)
 
-At 10th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 3rd- level spell or available 3rd-level spell slot to invoke bestow curse upon the target as an immediate action (using the vindicator’s caster level). The save DC increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if it is ×4. The vindicator can also use this ability in response to being critically hit, even if the attack incapacitates or kills the vindicator.
+At 10th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 3rd- level spell or available 3rd-level spell slot to invoke bestow curse upon the target as an immediate action (1 AP of your next turn) (using the vindicator’s caster level). The save DC increases by +2 if his weapon has a ×3 critical multiplier, or by +4 if it is ×4. The vindicator can also use this ability in response to being critically hit, even if the attack incapacitates or kills the vindicator.
 
 This bonus lasts for 24 hours or until the vindicator is struck in combat, whichever comes first. The shield does not provide this bonus to any other wielder, but the vindicator does not need to be holding the shield for it to retain this power.

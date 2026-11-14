@@ -111,3 +111,6 @@
 .apc-off .md-typeset .apc { display: none; }
 .apc-toggle { font: 700 .7rem/1 var(--md-text-font, sans-serif); letter-spacing: .05em; border: 1px solid currentColor; border-radius: .2rem; padding: .25rem .4rem; margin: 0 .4rem; color: inherit; background: transparent; cursor: pointer; opacity: 1; }
 .apc-toggle[aria-pressed="false"] { opacity: .55; text-decoration: line-through; }
+.md-typeset details.apr { border-color: #00897b; }
+.md-typeset details.apr > summary { background-color: rgba(0, 137, 123, .1); }
+.apc-off .md-typeset details.apr { display: none; }

@@ -64,7 +64,7 @@ Four basic elements (air, earth, fire, and water) and two types of energy (posit
 
 **Air-Dominant**: Consisting mostly of open space, with just a few bits of floating stone or other solid matter. Usually a breathable atmosphere, though regions may include acidic or toxic gas.
 
-**Earth-Dominant**: Mostly solid. Visitors who need to breathe risk suffocation if they don't reach a cavern or other pocket of breathable air. Individuals without the ability to burrow are entombed and must dig their way out (5 feet per full-round action spent digging).
+**Earth-Dominant**: Mostly solid. Visitors who need to breathe risk suffocation if they don't reach a cavern or other pocket of breathable air. Individuals without the ability to burrow are entombed and must dig their way out (5 feet per full-round action (3 AP) spent digging).
 
 **Fire-Dominant**: Composed of flames that continually burn without consuming their fuel source. Extremely hostile to Material Plane creatures; those without resistance or immunity to fire are soon immolated. Unprotected flammable materials catch fire almost immediately, and individuals wearing unprotected flammable clothing catch on fire. All individuals take 3d10 points of fire damage each round. Creatures made of water take 6d10 points of fire damage each round instead.
 

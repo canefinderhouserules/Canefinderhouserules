@@ -62,7 +62,7 @@ At 2nd level, a scar soldier draws upon her indoctrination, tactical training, a
 - **Dispassionate Fury**: The scar soldier can enter a dispassionate, murderous state. This functions as the dreadnought barbarian’s dead calm ability and is usable for a number of rounds each day equal to twice her class level. If the scar soldier has levels in barbarian and has the dreadnought archetype, her scar soldier levels instead stack with her barbarian levels to determine the duration of her rage.
 - **Furious Huntress**: The scar soldier adds her Strength bonus, rather than her Dexterity bonus, to attack rolls made with bows.
 - **Kinslayer**: The scar soldier gains favored enemy (humanoids [humans] +2), as per the ranger ability. If the scar soldier already has the same favored enemy bonus from another class, her existing bonus instead increases by 2.
-- **Merciless Massacre**: When the scar soldier hits a [cowering](../../rules/appendices/conditions.md#cowering) or [panicked](../../rules/appendices/conditions.md#panicked) creature with a melee attack or reduces a creature to negative hit points with a melee attack, as a swift action she can deal additional damage to that creature equal to 1d8 + her class level.
+- **Merciless Massacre**: When the scar soldier hits a [cowering](../../rules/appendices/conditions.md#cowering) or [panicked](../../rules/appendices/conditions.md#panicked) creature with a melee attack or reduces a creature to negative hit points with a melee attack, as a swift action (1 AP) she can deal additional damage to that creature equal to 1d8 + her class level.
 - **Tyrant’s Sword**: The scar soldier’s weapon training bonus with heavy blades increases by 1. The scar soldier must have at least 4 levels in this prestige class and have the weapon training (heavy blades) class feature to select this discipline. The scar soldier can select this discipline a second time when her class level is 8th level or higher.
 - **Unyielding**: While wearing [scar soldier plate](../../equipment/gear-ag.md), the scar soldier gains DR 1/—. The character must have at least 6 levels in this prestige class to select this discipline. The damage reduction increases to DR 2/— at 8th level and to DR 3/— at 10th level. This damage reduction does not stack with damage reduction granted by other sources.
 
@@ -72,7 +72,7 @@ At 3rd level, a scar soldier gains the armor training class feature, treating he
 
 #### Infernal Eye (Su)
 
-At 5th level, a scar soldier gains Alertness as a bonus feat and gains a +4 profane bonus on Will saves against illusions. In addition, once per day as a swift action, the scar soldier can take 1d4 points of Charisma damage to gain the benefits of the [*true seeing*](../../magic/spells/true-seeing.md) spell for a number of rounds equal to her class level.
+At 5th level, a scar soldier gains Alertness as a bonus feat and gains a +4 profane bonus on Will saves against illusions. In addition, once per day as a swift action (1 AP), the scar soldier can take 1d4 points of Charisma damage to gain the benefits of the [*true seeing*](../../magic/spells/true-seeing.md) spell for a number of rounds equal to her class level.
 
 #### Infernal Mystique (Ex and Sp)
 

@@ -70,7 +70,7 @@ Once per day, this good luck charm allows the wearer to reroll a single skill ch
 
 *Aura* faint transmutation; *CL* 5th; *Slot* none; *Price* 18,000 gp; *Weight* 2 lbs.
 
-In outer construction and manner of play, pipes of shifting tempo resemble a typical set of unremarkable pan pipes, but the complex chambers within the pipes are modeled after difficult-to-duplicate ancient instruments. Music created by these pipes sounds unusually mournful, with a strange, almost warbling subtext to the notes. Up to three times per day, a user can attempt to harness these pipes' power by making a DC 15 Perform (wind instruments) check as a standard action. With a successful check, the possessor can play a grave melody to cast *slow* or an allegro melody to cast *haste*. The resulting spell functions as normal for the item's caster level, affecting five creatures per casting.
+In outer construction and manner of play, pipes of shifting tempo resemble a typical set of unremarkable pan pipes, but the complex chambers within the pipes are modeled after difficult-to-duplicate ancient instruments. Music created by these pipes sounds unusually mournful, with a strange, almost warbling subtext to the notes. Up to three times per day, a user can attempt to harness these pipes' power by making a DC 15 Perform (wind instruments) check as a standard action (1 AP). With a successful check, the possessor can play a grave melody to cast *slow* or an allegro melody to cast *haste*. The resulting spell functions as normal for the item's caster level, affecting five creatures per casting.
 
 *Construction* Craft Wondrous Item, *haste*, *slow*, Perform (wind instrument) 5 ranks; Cost 9,000 gp.
 
@@ -78,7 +78,7 @@ In outer construction and manner of play, pipes of shifting tempo resemble a typ
 
 *Aura* faint transmutation; *CL* 5th; *Slot* ring; *Price* 8,000 gp; *Weight* —
 
-Three types of rings of the beast exist; all three appear as yellowed bone carved in the shapes of wild beasts devouring their own tails. The type of beast depicted on each ring depends on the ring's nature, but could be a wolf (ring of the relentless beast), a rhinoceros (ring of the savage beast), or a tiger (ring of the swift beast). Once per day, a ring of the beast can be activated as a standard action to unleash the primal spirit hidden inside even the most peaceful creatures. When the ring is activated, the wearer gains a bonus to a single physical attribute and a penalty to a single mental attribute for 10 minutes, as determined by the type of ring. A ring of the relentless beast grants a +4 enhancement bonus to Constitution and a –2 penalty to Charisma. A ring of the savage beast grants a +4 enhancement bonus to Strength and a –2 penalty to Intelligence. A ring of the swift beast grants a +4 enhancement bonus to Dexterity and a –2 penalty to Wisdom. As long as the effects of this ring are active, the wearer also gains a +2 enhancement bonus to his natural armor bonus.
+Three types of rings of the beast exist; all three appear as yellowed bone carved in the shapes of wild beasts devouring their own tails. The type of beast depicted on each ring depends on the ring's nature, but could be a wolf (ring of the relentless beast), a rhinoceros (ring of the savage beast), or a tiger (ring of the swift beast). Once per day, a ring of the beast can be activated as a standard action (1 AP) to unleash the primal spirit hidden inside even the most peaceful creatures. When the ring is activated, the wearer gains a bonus to a single physical attribute and a penalty to a single mental attribute for 10 minutes, as determined by the type of ring. A ring of the relentless beast grants a +4 enhancement bonus to Constitution and a –2 penalty to Charisma. A ring of the savage beast grants a +4 enhancement bonus to Strength and a –2 penalty to Intelligence. A ring of the swift beast grants a +4 enhancement bonus to Dexterity and a –2 penalty to Wisdom. As long as the effects of this ring are active, the wearer also gains a +2 enhancement bonus to his natural armor bonus.
 
 *Construction* Forge Ring, *barkskin* and either *bear's endurance* (ring of the relentless beast), *bull's strength* (ring of the savage beast), or *cat's grace* (ring of the swift beast); Cost 4,000 gp.
 
@@ -94,7 +94,7 @@ A slender copper band, a tyrant's friend is thin enough to be hidden beneath ano
 
 *Aura* faint divination; *CL* 5th; *Slot* none; *Price* 2,000 gp; *Weight* 1/2 lb.
 
-Upon command, this item draws your surroundings, out to the limits of your normal vision, rendering them as if depicted by a competent but unexceptional artist. It does not record any details you cannot see. The *autonomous cartographer* creates the map as needed to fit upon a 1-foot-by-4-foot parchment or scroll contained within the item. A second command erases the scroll, allowing you to use it again. You may insert or remove a scroll as a full-round action.
+Upon command, this item draws your surroundings, out to the limits of your normal vision, rendering them as if depicted by a competent but unexceptional artist. It does not record any details you cannot see. The *autonomous cartographer* creates the map as needed to fit upon a 1-foot-by-4-foot parchment or scroll contained within the item. A second command erases the scroll, allowing you to use it again. You may insert or remove a scroll as a full-round action (3 AP).
 
 *Construction* Craft Wondrous Item, *erase*, *prestidigitation*; Cost 1,000 gp.
 
@@ -102,7 +102,7 @@ Upon command, this item draws your surroundings, out to the limits of your norma
 
 *Aura* faint necromancy; *CL* 5th; *Slot* shoulders; *Price* 6,000 gp; *Weight* 1 lb.
 
-This dirt-stained cloak was woven in shadow from the burial shroud of a condemned murderer. It prevents nonintelligent undead from detecting you, as per the *hide from undead* spell. Intelligent undead can perceive you if they succeed at a DC 11 Will save. The warding is ended if you touch an undead creature, channel energy against undead, or attack any creature. Once per day as a standard action you can silently call forth the shadows bound into the shroud, rendering you invisible for 5 minutes.
+This dirt-stained cloak was woven in shadow from the burial shroud of a condemned murderer. It prevents nonintelligent undead from detecting you, as per the *hide from undead* spell. Intelligent undead can perceive you if they succeed at a DC 11 Will save. The warding is ended if you touch an undead creature, channel energy against undead, or attack any creature. Once per day as a standard action (1 AP) you can silently call forth the shadows bound into the shroud, rendering you invisible for 5 minutes.
 
 *Construction* Craft Wondrous Item, *hide from undead*, *invisibility*; Cost 3,000 gp.
 
@@ -112,7 +112,7 @@ This dirt-stained cloak was woven in shadow from the burial shroud of a condemne
 
 This cunningly designed bundle of wooden slats unfolds and interlocks to form a 3-foot-by-3-foot frame. Once per day you may place the unfolded frame upon a solid surface to form a passage up to 10 feet deep, as if using a *passwall* spell. The passageway lasts for 1 hour unless the frame is removed earlier.
 
-Folding or unfolding the frame is a full-round action that provokes attacks of opportunity. Using the unfolded frame to create a passage is a standard action. Medium or smaller creatures can easily pass through the tunnel, while Large creatures require an Escape Artist check. The *eldritch egress* can only be removed from outside the surface it was placed on, so careful planning is required when using it.
+Folding or unfolding the frame is a full-round action (3 AP) that provokes attacks of opportunity. Using the unfolded frame to create a passage is a standard action (1 AP). Medium or smaller creatures can easily pass through the tunnel, while Large creatures require an Escape Artist check. The *eldritch egress* can only be removed from outside the surface it was placed on, so careful planning is required when using it.
 
 *Construction* Craft Wondrous Item, *passwall*; Cost 5,000 gp.
 
@@ -138,7 +138,7 @@ With a command word, the wearer can close or open the extradimensional space wit
 
 *Aura* moderate conjuration and transmutation; *CL* 9th; *Slot* chest; *Price* 2,000 gp; *Weight* 1 lb.
 
-This sturdy vest stays dry and spotless in the worst of conditions. You can secure up to six objects (weighing up to 1 pound each) to the vest by holding them to it and speaking a command word. You can retrieve any of these items as a move action.
+This sturdy vest stays dry and spotless in the worst of conditions. You can secure up to six objects (weighing up to 1 pound each) to the vest by holding them to it and speaking a command word. You can retrieve any of these items as a move action (1 AP).
 
 In addition, the vest has four large pockets, each capable of holding as much as 1/2 cubic foot in volume or 5 pounds in weight, and weighing only 1 pound when full. When closed, the pockets are proof against water and the elements. The first pocket contains 1 day’s worth of trail rations, a quart of water in a waterskin, two candles, and a tindertwig. The vest recreates these items if the first pocket is left empty for 3 days.
 
@@ -168,7 +168,7 @@ Tireless wayfinders have burnished copper cases and silver inner workings. In ad
 
 *Aura* faint illusion; *CL* 5th; *Slot* none; *Price* 8,000 gp; *Weight* 1 lb.
 
-Vanishing wayfinders are crafted of ivory chased with gold and silver. In addition to the usual functions of a wayfinder (including the ability to create light), as a standard action the holder of a vanishing wayfinder can press a hidden catch to become invisible (as the spell *invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation counts as a minimum use of 1 minute, even if the user becomes visible because of an attack action or some other event before that minute is up.
+Vanishing wayfinders are crafted of ivory chased with gold and silver. In addition to the usual functions of a wayfinder (including the ability to create light), as a standard action (1 AP) the holder of a vanishing wayfinder can press a hidden catch to become invisible (as the spell *invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation counts as a minimum use of 1 minute, even if the user becomes visible because of an attack action or some other event before that minute is up.
 
 *Construction* Craft Wondrous Item, *invisibility*, *light*; Cost 4,000 gp.
 
@@ -176,7 +176,7 @@ Vanishing wayfinders are crafted of ivory chased with gold and silver. In additi
 
 *Aura* faint divination and evocation; *CL* 6th; *Slot* none; *Price* 8,000 gp; *Weight* 1 lb.
 
-Wayfinders of revelation show a more ornate design than ordinary wayfinders, and are crafted of gold-accented silver. A wayfinder of revelation's light effect is double the normal effect of a *light* spell, illuminating an area twice as large. Once per day as a standard action, while a wayfinder of revelation is creating light, you can fill this 40-foot radius of light with an *invisibility purge* effect (as per the spell). This effect also makes it easier to notice secret doors and hidden compartments—characters who search for such hidden objects and portals inside this area gain a +10 bonus on their Perception checks to do so. Once activated, this effect remains active for 6 rounds.
+Wayfinders of revelation show a more ornate design than ordinary wayfinders, and are crafted of gold-accented silver. A wayfinder of revelation's light effect is double the normal effect of a *light* spell, illuminating an area twice as large. Once per day as a standard action (1 AP), while a wayfinder of revelation is creating light, you can fill this 40-foot radius of light with an *invisibility purge* effect (as per the spell). This effect also makes it easier to notice secret doors and hidden compartments—characters who search for such hidden objects and portals inside this area gain a +10 bonus on their Perception checks to do so. Once activated, this effect remains active for 6 rounds.
 
 *Construction* Craft Wondrous Item, *detect secret doors*, *invisibility purge*, *light*; Cost 4,000 gp.
 
@@ -214,7 +214,7 @@ This *wayfinder* has a mother-of-pearl casing with perfect swirls of pink and gr
 
 In addition to the standard functions of a *wayfinder* (including the ability to create *light*), a *hypnotic wayfinder* can be used once per day to mesmerize weak-minded creatures that can see it. When dangled by its fob and swung gently in a pendulumlike motion, the *hypnotic wayfinder* seems to change colors as light plays off its pearlescent exterior. This replicates the effects of *hypnotic pattern* (Will DC 13 negates), centered on the *hypnotic wayfinder*, but creates no visible light aside from the illusory color-shifts on the *wayfinder* itself. The *wayfinder’s* wielder is immune to this effect, as are sightless creatures.
 
-While the effect is active, the wielder must remain stationary or the effect immediately ends. Otherwise, the effect lasts as long as the wielder swings the *wayfinder* at the end of its fob (a standard action) and for 2 rounds thereafter.
+While the effect is active, the wielder must remain stationary or the effect immediately ends. Otherwise, the effect lasts as long as the wielder swings the *wayfinder* at the end of its fob (a standard action (1 AP)) and for 2 rounds thereafter.
 
 *Construction* Craft Wondrous Item, *hypnotic pattern*, *light*; Cost 1,500 gp.
 

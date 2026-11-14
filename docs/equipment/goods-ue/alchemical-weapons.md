@@ -10,19 +10,19 @@ This small firework burns brightly and makes a loud, eerie whistling sound. It c
 
 **Price** 40 gp; **Weight** 1 lb.
 
-Electricity crackles along a metal filament inside this small glass bottle. You can open the bottle as a standard action, unleashing a small bolt of lightning toward an enemy within 20 feet of you. This is a ranged touch attack that deals 1d8 points of electricity damage. Any creature in a line between you and the target (including the target) takes 1 point of sonic damage from the terrific clap of thunder the bolt generates (Reflex DC 15 negates). Crafting bottled lightning is a DC 25 Craft (alchemy) check.
+Electricity crackles along a metal filament inside this small glass bottle. You can open the bottle as a standard action (1 AP), unleashing a small bolt of lightning toward an enemy within 20 feet of you. This is a ranged touch attack that deals 1d8 points of electricity damage. Any creature in a line between you and the target (including the target) takes 1 point of sonic damage from the terrific clap of thunder the bolt generates (Reflex DC 15 negates). Crafting bottled lightning is a DC 25 Craft (alchemy) check.
 
 ### Burst Jar
 
 **Price** 35 gp; **Weight** 1 lb.
 
-This simple clay pot has two sealed, airtight inner chambers containing alchemical liquids. The jar is thrown as a splash weapon. It shatters on impact, covering the target with a mixture of the two liquids. One round later on your turn, the liquids react and explode with concussive force. The target takes 1 point of sonic damage, is deafened for 1d4 rounds, and must make a DC 12 Fortitude save or be stunned 1 for 1 round. Creatures within 5 feet of the explosion take 1 point of sonic damage. The target can use a full-round action to scrape or wash off the liquid before it detonates, depositing the material in its square or an adjacent square; the material detonates as normal, though the original target only takes damage as if it were within 5 feet of the explosion. Crafting this item is a DC 25 Craft (alchemy) check.
+This simple clay pot has two sealed, airtight inner chambers containing alchemical liquids. The jar is thrown as a splash weapon. It shatters on impact, covering the target with a mixture of the two liquids. One round later on your turn, the liquids react and explode with concussive force. The target takes 1 point of sonic damage, is deafened for 1d4 rounds, and must make a DC 12 Fortitude save or be stunned 1 for 1 round. Creatures within 5 feet of the explosion take 1 point of sonic damage. The target can use a full-round action (3 AP) to scrape or wash off the liquid before it detonates, depositing the material in its square or an adjacent square; the material detonates as normal, though the original target only takes damage as if it were within 5 feet of the explosion. Crafting this item is a DC 25 Craft (alchemy) check.
 
 ### Flame Fountain Firework
 
 **Price** 100 gp; **Weight** —
 
-This hollow metal or wooden tube contains slow-burning powder. When you light the fuse (a move action), it creates a 3-foot-long, blazing fountain of red-hot fiery sparks. You wield this fountain of sparks as if it were a heavy mace. Attacks with the fountain are melee touch attacks. The fountain deals 1d8 points of fire damage (your Strength modifier does not apply to the damage).
+This hollow metal or wooden tube contains slow-burning powder. When you light the fuse (a move action (1 AP)), it creates a 3-foot-long, blazing fountain of red-hot fiery sparks. You wield this fountain of sparks as if it were a heavy mace. Attacks with the fountain are melee touch attacks. The fountain deals 1d8 points of fire damage (your Strength modifier does not apply to the damage).
 
 The fountain sheds light as a torch and can ignite combustible materials such as parchment, straw, dry sticks, and cloth. Once ignited, it lasts for 1 minute. If extinguished before this time, the remaining duration is wasted. Crafting this item is a DC 25 Craft (alchemy) check.
 
@@ -30,7 +30,7 @@ The fountain sheds light as a torch and can ignite combustible materials such as
 
 **Price** 100 gp; **Weight** 1 lb.
 
-This hollow clay container holds a small charge of black power and a slow-burning fuse. Lighting the fuse is a move action; 1d3 rounds later the grenade explodes, dealing 2d6 points of bludgeoning damage and 1d6 points of fire damage in a 10-foot-radius burst (Reflex DC 15 halves). You throw a fuse grenade as if it were a splash weapon. Crafting this item is a DC 25 Craft (alchemy) check.
+This hollow clay container holds a small charge of black power and a slow-burning fuse. Lighting the fuse is a move action (1 AP); 1d3 rounds later the grenade explodes, dealing 2d6 points of bludgeoning damage and 1d6 points of fire damage in a 10-foot-radius burst (Reflex DC 15 halves). You throw a fuse grenade as if it were a splash weapon. Crafting this item is a DC 25 Craft (alchemy) check.
 
 ### Ghast Retch Flask
 
@@ -48,13 +48,13 @@ This fine gray powder causes targets to suffer from uncontrollable itching until
 
 **Price** 5 gp; **Weight** —
 
-Also known as firebreather’s oil, this bitter liquid is harder to ignite than common oil but burns quickly at a low temperature, making it ideal for exotic performers such as fire-spinners and flame-spitters. You may spit a mouthful of keros oil past an open flame (such as a candle, tindertwig, or torch) to ignite it, creating a brief burst of fire. If you use it to attack, the attack is a ranged touch attack with a maximum range of 5 feet that deals 1d3 points of fire damage. If you roll a 1 on your attack roll, you accidentally inhale or swallow some of the burning fuel; you take 1d6 points of fire damage and are nauseated 1 for 1 round. A bottle of keros oil holds enough for 10 mouthfuls; taking a mouthful from the bottle is a standard action (the Rapid Reload feat reduces this to a move action). Crafting this item is a DC 15 Craft (alchemy) check.
+Also known as firebreather’s oil, this bitter liquid is harder to ignite than common oil but burns quickly at a low temperature, making it ideal for exotic performers such as fire-spinners and flame-spitters. You may spit a mouthful of keros oil past an open flame (such as a candle, tindertwig, or torch) to ignite it, creating a brief burst of fire. If you use it to attack, the attack is a ranged touch attack with a maximum range of 5 feet that deals 1d3 points of fire damage. If you roll a 1 on your attack roll, you accidentally inhale or swallow some of the burning fuel; you take 1d6 points of fire damage and are nauseated 1 for 1 round. A bottle of keros oil holds enough for 10 mouthfuls; taking a mouthful from the bottle is a standard action (1 AP) (the Rapid Reload feat reduces this to a move action (1 AP)). Crafting this item is a DC 15 Craft (alchemy) check.
 
 ### Liquid Blade
 
 **Price** 40 gp; **Weight** 2 lbs.
 
-You can empty the contents of this palm-sized metal tube with a quick flick of your wrist (a move action), causing the bubbling transparent liquid within to instantly solidify into a jagged crystalline blade. By holding the tube, you can then use the crystalline blade as if it were a Medium short sword with the fragile quality. The blade lasts for 10 minutes, after which it evaporates, leaving nothing behind but the tube. You can add one dose of poison to the liquid in the bottle, which acts like applying a dose of poison to a weapon except it is a full-round action; when the liquid turns into a solid blade, the weapon includes one application of that poison. When the blade evaporates, the poison does so as well. Crafting a liquid blade is a DC 15 Craft (alchemy) check.
+You can empty the contents of this palm-sized metal tube with a quick flick of your wrist (a move action (1 AP)), causing the bubbling transparent liquid within to instantly solidify into a jagged crystalline blade. By holding the tube, you can then use the crystalline blade as if it were a Medium short sword with the fragile quality. The blade lasts for 10 minutes, after which it evaporates, leaving nothing behind but the tube. You can add one dose of poison to the liquid in the bottle, which acts like applying a dose of poison to a weapon except it is a full-round action (3 AP); when the liquid turns into a solid blade, the weapon includes one application of that poison. When the blade evaporates, the poison does so as well. Crafting a liquid blade is a DC 15 Craft (alchemy) check.
 
 ### Paper Candle Firework
 

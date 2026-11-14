@@ -11,7 +11,7 @@ Since haunted spells derive their power from ambient emotional energy, a given a
 
 Once a haunted spell is cast on an area or object, it remains in place for 1 week or until it is activated, triggering its haunt-like manifestation. Once an area or object hosts a haunted spell, it cannot host another haunted spell for at least 7 days after the first one activates. A single area or object cannot host a haunted spell and a regular haunt at the same time.
 
-As long as a haunted spell remains latent in an area, its caster can't prepare a new spell in that slot or regain that spell slot. When the haunted spell triggers, the caster can sense it but gains no insight or information about what triggered the haunt beyond what he can directly observe. A caster can dismiss a haunted spell as a swift action in order to prepare a new spell in that slot or to regain a spell slot; doing so causes the haunted spell to dissipate.
+As long as a haunted spell remains latent in an area, its caster can't prepare a new spell in that slot or regain that spell slot. When the haunted spell triggers, the caster can sense it but gains no insight or information about what triggered the haunt beyond what he can directly observe. A caster can dismiss a haunted spell as a swift action (1 AP) in order to prepare a new spell in that slot or to regain a spell slot; doing so causes the haunted spell to dissipate.
 
 Haunted spells don't have histories like regular haunts do, so effects that reveal such information merely expose that the haunted spell is a magical effect. Efforts to communicate with haunted spells using talking boards, the spells *call spirit* and *speak with haunt*, or similar methods automatically fail.
 

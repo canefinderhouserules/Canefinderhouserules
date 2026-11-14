@@ -18,7 +18,7 @@
 
 **Special Attacks:** A half-fiend gains the following.
 
-***Smite Good (Su).*** Once per day as a swift action it can smite good as the smite evil ability of a paladin of its Hit Dice, except affecting a good target. The smite persists until the target is dead or the half-fiend rests.
+***Smite Good (Su).*** Once per day as a swift action (1 AP) it can smite good as the smite evil ability of a paladin of its Hit Dice, except affecting a good target. The smite persists until the target is dead or the half-fiend rests.
 
 **Spell-Like Abilities:** A half-fiend with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1/day. CL equals the creature’s HD (or the CL of the base creature’s spell-like abilities, whichever is higher).
 

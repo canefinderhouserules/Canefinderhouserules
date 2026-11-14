@@ -82,7 +82,7 @@ At 3rd level, a hearth warden moves with ease through natural and agrarian envir
 
 #### Chosen Kin (Su)
 
-At 4th level, as a standard action, a hearth warden can designate a number of allies up to 3 + his Wisdom modifier to be his chosen kin. Allies so designated gain half the hearth warden's favored terrain (hinterland) bonus and half of the bonuses granted by defended hearth. Members of his chosen kin must remain within 30 feet of the hearth warden in order to gain these benefits. At 7th level, this range increases to 60 feet.
+At 4th level, as a standard action (1 AP), a hearth warden can designate a number of allies up to 3 + his Wisdom modifier to be his chosen kin. Allies so designated gain half the hearth warden's favored terrain (hinterland) bonus and half of the bonuses granted by defended hearth. Members of his chosen kin must remain within 30 feet of the hearth warden in order to gain these benefits. At 7th level, this range increases to 60 feet.
 
 #### Defended Hearth (Su)
 
@@ -94,4 +94,4 @@ At 7th level, a hearth warden gains the ability to place a spell that affects an
 
 #### Waymarker Travel (Sp)
 
-At 10th level, a hearth warden gains the ability to create a waymarker anywhere within the area of a defended hearth. The hearth warden can maintain up to five waymarkers at a time—if the hearth warden creates a sixth waymarker, he chooses which of the previous five deactivates. Once per day as a move action, the hearth warden can cast [*word of recall*](../../magic/spells/word-of-recall.md) as a spell-like ability to teleport to any of his active waymarkers.
+At 10th level, a hearth warden gains the ability to create a waymarker anywhere within the area of a defended hearth. The hearth warden can maintain up to five waymarkers at a time—if the hearth warden creates a sixth waymarker, he chooses which of the previous five deactivates. Once per day as a move action (1 AP), the hearth warden can cast [*word of recall*](../../magic/spells/word-of-recall.md) as a spell-like ability to teleport to any of his active waymarkers.

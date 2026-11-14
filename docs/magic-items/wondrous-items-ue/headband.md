@@ -43,7 +43,7 @@ This headband has three swirling patterns of red, green, and blue crystals archi
 **Aura** strong abjuration; **CL** 13th  
 **Slot** headband; **Price** 20,000 gp; **Weight** 1 lb.
 
-This metal headband grants a +5 insight bonus on Spellcraft checks made to identify a spell as it is being cast. Furthermore, once per day the wearer can attempt to counter a spell by casting the appropriate spell as an immediate action instead of doing so with a readied action. The wearer must first identify the spell being cast before countering a spell with this headband.
+This metal headband grants a +5 insight bonus on Spellcraft checks made to identify a spell as it is being cast. Furthermore, once per day the wearer can attempt to counter a spell by casting the appropriate spell as an immediate action (1 AP of your next turn) instead of doing so with a readied action. The wearer must first identify the spell being cast before countering a spell with this headband.
 
 **Construction** Craft Wondrous Item, *spell turning*; **Cost** 10,000 gp
 
@@ -76,7 +76,7 @@ Any effect that gives the wearer a luck bonus (such as a *divine favor* or *pray
 
 This band of raggedly stitched animal skins and teeth focuses a barbarian wearer’s bloodlust. When the wearer enters a rage, she selects one of her rage powers. For the duration of the rage, that power functions as if the wearer’s barbarian level were four levels higher.
 
-Once per day when the wearer is attacked or has to make a saving throw against a hostile effect, she may spend 2 rounds of rage to begin a rage as an immediate action. This rage becomes active prior to resolving the attack that triggered it and lasts until the start of her next turn (at which time she may continue to rage as if she had begun the rage in the normal manner).
+Once per day when the wearer is attacked or has to make a saving throw against a hostile effect, she may spend 2 rounds of rage to begin a rage as an immediate action (1 AP of your next turn). This rage becomes active prior to resolving the attack that triggered it and lasts until the start of her next turn (at which time she may continue to rage as if she had begun the rage in the normal manner).
 
 **Construction** Craft Wondrous Item, *rage*; **Cost** 4,000 gp
 
@@ -85,7 +85,7 @@ Once per day when the wearer is attacked or has to make a saving throw against a
 **Aura** faint divination; **CL** 3rd  
 **Slot** headband; **Price** 7,000 gp; **Weight** 1 lb.
 
-This headband gives its wearer the gift of foresight, effectively allowing her to determine whether or not a particular course of action will grant weal and/or woe. Three times per day the wearer of this headband can, as a standard action, gain information about a specified course of action as if using the *augury* spell, except that the wearer always gets a meaningful reply.
+This headband gives its wearer the gift of foresight, effectively allowing her to determine whether or not a particular course of action will grant weal and/or woe. Three times per day the wearer of this headband can, as a standard action (1 AP), gain information about a specified course of action as if using the *augury* spell, except that the wearer always gets a meaningful reply.
 
 **Construction** Craft Wondrous Item, *augury*; **Cost** 3,500 gp
 
@@ -123,7 +123,7 @@ In addition, the headband grants the wearer a +2 enhancement bonus to Intelligen
 **Aura** faint abjuration; **CL** 1st  
 **Slot** headband; **Price** 15,000 gp; **Weight** 1 lb.
 
-This simple black cloth band focuses the wearer’s *ki*, helping her use subtle misdirection against opponents in combat. The wearer gains a +2 competence bonus on Bluff checks made to feint and combat maneuver checks made to reposition, and once per day she can attempt a feint or reposition maneuver as a swift action. The wearer also gains a +2 insight bonus on attack rolls on sneak attacks and can sneak attack creatures with concealment or total concealment, though miss chances apply normally.
+This simple black cloth band focuses the wearer’s *ki*, helping her use subtle misdirection against opponents in combat. The wearer gains a +2 competence bonus on Bluff checks made to feint and combat maneuver checks made to reposition, and once per day she can attempt a feint or reposition maneuver as a swift action (1 AP). The wearer also gains a +2 insight bonus on attack rolls on sneak attacks and can sneak attack creatures with concealment or total concealment, though miss chances apply normally.
 
 **Construction** Craft Wondrous Item, *eagle’s splendor, see invisibility*; **Cost** 7,500 gp
 
@@ -134,7 +134,7 @@ This simple black cloth band focuses the wearer’s *ki*, helping her use subtle
 
 This black leather headband has two small amber gemstones set so they rest on the wearer’s forehead. The headband grants the wearer a +2 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. It also grants skill ranks as a *headband of vast intelligence*, but always grants ranks in a Knowledge skill.
 
-As a swift action three times per day, the wearer can call upon the headband to reveal the abilities and weaknesses of a creature within line of sight. The headband fills the wearer’s mind with information as though the wearer had made a Knowledge check with a natural roll of a 5, adding her bonuses to the check as normal. At the start of her next turn, the wearer receives additional information as though she had made the check with a natural roll of 10. At the start of her turn after that, the wearer receives a final piece of information, treating her natural roll as 15.
+As a swift action (1 AP) three times per day, the wearer can call upon the headband to reveal the abilities and weaknesses of a creature within line of sight. The headband fills the wearer’s mind with information as though the wearer had made a Knowledge check with a natural roll of a 5, adding her bonuses to the check as normal. At the start of her next turn, the wearer receives additional information as though she had made the check with a natural roll of 10. At the start of her turn after that, the wearer receives a final piece of information, treating her natural roll as 15.
 
 **Construction** Craft Wondrous Item, *know the enemy*; **Cost** 2,550 gp
 
@@ -154,7 +154,7 @@ This plain white band makes the wearer seem more attractive. The wearer gains a 
 
 This simple white cotton headband is decorated with a stylized imperial dragon coiled above the wearer’s forehead. The headband grants the wearer a +2 enhancement bonus to her Wisdom score. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
 
-Whenever the wearer suffers a fear effect, she may spend an immediate action to reduce the severity of the fear effect by one step. If the wearer would become panicked, she is instead frightened. If she would become frightened, she is instead shaken. If the wearer would become shaken, the effect is negated entirely. The wearer can use this ability up to three times per day.
+Whenever the wearer suffers a fear effect, she may spend an immediate action (1 AP of your next turn) to reduce the severity of the fear effect by one step. If the wearer would become panicked, she is instead frightened. If she would become frightened, she is instead shaken. If the wearer would become shaken, the effect is negated entirely. The wearer can use this ability up to three times per day.
 
 **Construction** Craft Wondrous Item, *owl’s wisdom*, *remove fear*; **Cost** 2,800 gp
 
@@ -181,7 +181,7 @@ This simple headband of braided hide grants a +5 competence bonus on Survival ch
 **Aura** faint divination; **CL** 3rd  
 **Slot** headband; **Price** 7,000 gp; **Weight** 1 lb.
 
-Three times per day on command, the phylactery’s wearer can determine the current health and overall well-being of any one ally within 30 feet. This effect acts as the *status* spell. If the wearer has the ability to channel energy or lay on hands, he can as a swift action choose to apply the effects of that class feature to an ally he is currently evaluating so long as that ally is within 30 feet of him, but doing so ends the effect of the phylactery’s *status*.
+Three times per day on command, the phylactery’s wearer can determine the current health and overall well-being of any one ally within 30 feet. This effect acts as the *status* spell. If the wearer has the ability to channel energy or lay on hands, he can as a swift action (1 AP) choose to apply the effects of that class feature to an ally he is currently evaluating so long as that ally is within 30 feet of him, but doing so ends the effect of the phylactery’s *status*.
 
 **Construction** Craft Wondrous Item, *status*; **Cost** 3,500 gp
 
@@ -205,7 +205,7 @@ If the wearer is a creature who uses magic to change form, she gains the followi
 
 *Shifter’s headband +2*: The wearer treats her caster level as if it were one level higher when casting spells or creating extracts of the polymorph subschool.
 
-*Shifter’s headband +4*: Once per day while under the effect of a polymorph spell or extract, the wearer can assume another form allowed by that effect. This is a standard action.
+*Shifter’s headband +4*: Once per day while under the effect of a polymorph spell or extract, the wearer can assume another form allowed by that effect. This is a standard action (1 AP).
 
 *Shifter’s headband +6*: Whenever the wearer changes her shape with a polymorph effect, she gains DR 5/silver for 1 minute (this ends if she returns to her natural form).
 

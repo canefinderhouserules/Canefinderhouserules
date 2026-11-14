@@ -7,7 +7,7 @@
 
 ## Description
 
-A *gory* weapon functions as a wounding (*Pathfinder RPG Ultimate Equipment* 149) weapon, except it deals 1d2 points of bleed damage when it strikes. Additionally, when the wielder confirms a critical hit with this weapon, he can attempt an Intimidate check to demoralize the target as an immediate action with a circumstance bonus equal to his character level.
+A *gory* weapon functions as a wounding (*Pathfinder RPG Ultimate Equipment* 149) weapon, except it deals 1d2 points of bleed damage when it strikes. Additionally, when the wielder confirms a critical hit with this weapon, he can attempt an Intimidate check to demoralize the target as an immediate action (1 AP of your next turn) with a circumstance bonus equal to his character level.
 
 ## Construction
 

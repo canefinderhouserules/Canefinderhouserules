@@ -38,9 +38,9 @@ This ability allows the legendary magus to use their ranged weapons range rather
 
 **Arcane Salvo**
 
-At 9th level, a legendary magus can fire a salvo of magical projectiles as a full-round action, targeting a number of enemies equal to her Intelligence modifier within the first range increment of her ranged weapon. This attack only uses a single piece of ammunition, however if this ammunition is magical its effects only apply to a single creature of the legendary magus’ choice, determined before the attack is rolled. She rolls one attack at her highest attack bonus and applies it to the AC of each target. Before rolling for the attack, the legendary magus can choose to take a -2 to her attack roll and expend a spell slot as a free action, dealing an additional amount of damage equal to 1d10 per level of the expended spell slot. This damage is magical in nature and bypasses any damage reduction.
+At 9th level, a legendary magus can fire a salvo of magical projectiles as a full-round action (3 AP), targeting a number of enemies equal to her Intelligence modifier within the first range increment of her ranged weapon. This attack only uses a single piece of ammunition, however if this ammunition is magical its effects only apply to a single creature of the legendary magus’ choice, determined before the attack is rolled. She rolls one attack at her highest attack bonus and applies it to the AC of each target. Before rolling for the attack, the legendary magus can choose to take a -2 to her attack roll and expend a spell slot as a free action, dealing an additional amount of damage equal to 1d10 per level of the expended spell slot. This damage is magical in nature and bypasses any damage reduction.
 
-In addition, reloading a ranged weapon using Rapid Reload now reduces the time it takes to reload the weapon by an additional step, down to a free action for a heavy crossbow or one-handed firearm, and to a move action for a two-handed firearm.
+In addition, reloading a ranged weapon using Rapid Reload now reduces the time it takes to reload the weapon by an additional step, down to a free action for a heavy crossbow or one-handed firearm, and to a move action (1 AP) for a two-handed firearm.
 
 **Impossible Shots (Su)**
 
@@ -82,7 +82,7 @@ At 3rd level, if the legendary magus hits with both her main hand and off-hand w
 
 **Bladeweave Casting**
 
-At 9th level, the legendary magus gains Improved Two- Weapon Fighting as a bonus feat. She does not need to meet the prerequisites for this feat. In addition, whenever the legendary magus casts as spell as a Standard action and is wielding a double weapon or one weapon in each hand with which she is proficient, she may make an attack with both her main and off-hand weapons (or an attack with both ends of a double weapon) as a swift action at a -4 penalty.
+At 9th level, the legendary magus gains Improved Two- Weapon Fighting as a bonus feat. She does not need to meet the prerequisites for this feat. In addition, whenever the legendary magus casts as spell as a Standard action (1 AP) and is wielding a double weapon or one weapon in each hand with which she is proficient, she may make an attack with both her main and off-hand weapons (or an attack with both ends of a double weapon) as a swift action (1 AP) at a -4 penalty.
 
 **Dancing Gemini**
 
@@ -150,7 +150,7 @@ Instead of the free melee touch attack normally allowed to deliver the spell, sh
 
 **Pugilist’s Response**
 
-At 9th level, whenever the legendary magus is damaged by a melee a melee attack made by a creature within reach of her unarmed strike, she can make an unarmed strike against that creature as an immediate action. In addition, she gains the Stunning Fist feat (even if she does not meet its prerequisites), treating her magus level as her monk level for the purposes of determining the number of times she may use it each day, and uses her Intelligence to determine its DC.
+At 9th level, whenever the legendary magus is damaged by a melee a melee attack made by a creature within reach of her unarmed strike, she can make an unarmed strike against that creature as an immediate action (1 AP of your next turn). In addition, she gains the Stunning Fist feat (even if she does not meet its prerequisites), treating her magus level as her monk level for the purposes of determining the number of times she may use it each day, and uses her Intelligence to determine its DC.
 
 **Pummeling Spellflurry**
 
@@ -172,7 +172,7 @@ At 3rd level, when the legendary magus casts a spell with a range of “touch”
 
 At 9th level, the legendary magus gains Whirlwind Attack as a bonus feat, even if she does not meet the feats prerequisites.
 
-If she already has this feat, she gains another bonus combat feat of her choice. When the legendary magus uses her spell combat as a full round action, rather than making her normal attacks she can instead choose to attack each opponent within her reach, as if she was using the Whirlwind Attack feat. These attacks still suffer from all the penalties that would normally apply to attacks made during spell combat.
+If she already has this feat, she gains another bonus combat feat of her choice. When the legendary magus uses her spell combat as a full round action (3 AP), rather than making her normal attacks she can instead choose to attack each opponent within her reach, as if she was using the Whirlwind Attack feat. These attacks still suffer from all the penalties that would normally apply to attacks made during spell combat.
 
 **Dancer’s Lunge**
 
@@ -244,7 +244,7 @@ If the legendary magus has the Masked Magus legendary magus arcana (or the dual 
 
 **Benefit(s)**: While in the throes of combat, the legendary magus’ mental acuity is enhanced by her arcane potential, allowing her to unlock her mind and change the spells she has prepared. The legendary magus gains the following potential technique:
 
-- **Dynamic Study [1 Potential]**: As a standard action, the magus can prepare a 0 or 1st level magus spell in place of another 0 or 1st level magus spell she has prepared. The prepared spell must be of the same level (or effective level, if metamagic is applied) as the spell it is replacing. For each point of potential she spends beyond the first, the maximum level of spell she can prepare using this technique is increased by 1 (to a maximum of 6th level spells). The legendary magus does not need to reference her spell book to prepare a spell in this way, but the spell she prepares must be one she has in her spell book.
+- **Dynamic Study [1 Potential]**: As a standard action (1 AP), the magus can prepare a 0 or 1st level magus spell in place of another 0 or 1st level magus spell she has prepared. The prepared spell must be of the same level (or effective level, if metamagic is applied) as the spell it is replacing. For each point of potential she spends beyond the first, the maximum level of spell she can prepare using this technique is increased by 1 (to a maximum of 6th level spells). The legendary magus does not need to reference her spell book to prepare a spell in this way, but the spell she prepares must be one she has in her spell book.
 
 **Elemental Blade (Su, Blade)**
 
@@ -286,7 +286,7 @@ If the legendary magus has the Masked Magus legendary magus arcana (or the dual 
 
 **Prerequisite(s)**: Proficiency with firearms
 
-**Benefit(s)**: The legendary magus can reload firearms at incredible speeds. The time it takes her to reload a firearm is reduced to a move action (one-handed firearm), or a standard action (two-handed firearm). This reduction in reload speed stacks with the Rapid Reload feat, alchemical cartridges, and other similar abilities. Whenever she reloads a firearm, she reduces its misfire chance by 1 for that attack.
+**Benefit(s)**: The legendary magus can reload firearms at incredible speeds. The time it takes her to reload a firearm is reduced to a move action (1 AP) (one-handed firearm), or a standard action (2 AP) (two-handed firearm). This reduction in reload speed stacks with the Rapid Reload feat, alchemical cartridges, and other similar abilities. Whenever she reloads a firearm, she reduces its misfire chance by 1 for that attack.
 
 **Ghost Blade (Su, Blade)**
 
@@ -310,7 +310,7 @@ If the legendary magus has the Masked Magus legendary magus arcana (or the dual 
 
 **Prerequisite(s)**: Masked magus legendary magus arcana
 
-**Benefit(s)**: The legendary magus has learned to use her magical abilities to change and hide her identity with greater speed and prowess. She can change between her vigilante identity and social identity in 5 rounds, though this improves to a standard action with the quick change social talent and a swift action with the immediate change social talent. In addition, the legendary magus can use her Intelligence in place of her Charisma for the [Disguise](../../../rules/skills/disguise.md) skill and treats Disguise as a class skill.
+**Benefit(s)**: The legendary magus has learned to use her magical abilities to change and hide her identity with greater speed and prowess. She can change between her vigilante identity and social identity in 5 rounds, though this improves to a standard action (1 AP) with the quick change social talent and a swift action (1 AP) with the immediate change social talent. In addition, the legendary magus can use her Intelligence in place of her Charisma for the [Disguise](../../../rules/skills/disguise.md) skill and treats Disguise as a class skill.
 
 **Maneuver Mastery (Ex)**
 
@@ -348,7 +348,7 @@ She can also use any material components or focuses she possesses, even if such 
 
 **School Study**
 
-**Benefit(s)**: The legendary magus can select one arcane school from any of the schools available to a character with the arcane school wizard class feature, but does not have to select any opposition schools. The legendary magus gains one ability of that arcane school as though she were a 1st- level wizard. The ability must be one gained at 1st level, and she treats her legendary magus level as her wizard level for the purposes of the chosen ability. If the chosen ability is one that she can use to affect no more than one opponent, when she successfully strikes a foe with a weapon attack, she can use her swift action to deliver the effects of the chosen school power to that opponent. Doing so provokes no attacks of opportunity. If the legendary magus already has the chosen arcane school (or gains it later), taking this arcana allows her legendary magus levels to stack with the levels of the class that granted the chosen arcane school when determining the powers and abilities of her arcane school.
+**Benefit(s)**: The legendary magus can select one arcane school from any of the schools available to a character with the arcane school wizard class feature, but does not have to select any opposition schools. The legendary magus gains one ability of that arcane school as though she were a 1st- level wizard. The ability must be one gained at 1st level, and she treats her legendary magus level as her wizard level for the purposes of the chosen ability. If the chosen ability is one that she can use to affect no more than one opponent, when she successfully strikes a foe with a weapon attack, she can use her swift action (1 AP) to deliver the effects of the chosen school power to that opponent. Doing so provokes no attacks of opportunity. If the legendary magus already has the chosen arcane school (or gains it later), taking this arcana allows her legendary magus levels to stack with the levels of the class that granted the chosen arcane school when determining the powers and abilities of her arcane school.
 
 **Spell Access**
 
@@ -402,13 +402,13 @@ The wearer’s bonus damage granted by the Arcane Strike feat is increased by +2
 
 This *+1 potential amplifying* Armored coat is incredibly light and finely crafted, appearing to casual observation as nothing more than a plain black overcoat. It has a maximum Dexterity bonus of +6, an armor check penalty of 0, and an arcane spell failure chance of 10%. It is considered light armor, and does not hinder its wearer’s movement speed.
 
-As a full-round action the overcoat can be turned inside out, causing its physical appearance to change to match its wearer’s desires; however, the overcoat always resembles a long coat of some type. This ability allows the coat to grant its wearer a +2 circumstance bonus on Disguise checks if the coat is used as part of the disguise, or to [Stealth](../../../rules/skills/stealth.md) checks made to hide in a crowd if the coat is changed to resemble typical outerwear of other creatures in the crowd.
+As a full-round action (3 AP) the overcoat can be turned inside out, causing its physical appearance to change to match its wearer’s desires; however, the overcoat always resembles a long coat of some type. This ability allows the coat to grant its wearer a +2 circumstance bonus on Disguise checks if the coat is used as part of the disguise, or to [Stealth](../../../rules/skills/stealth.md) checks made to hide in a crowd if the coat is changed to resemble typical outerwear of other creatures in the crowd.
 
 ### Ring Of Stored Potential
 
 This ring is carved from a single solid gemstone and glows with an inner light that pulses with its wearer’s heartbeat.
 
-Rings of stored potential come in three forms, each allowing a legendary magus wearing it to store arcane potential in the ring as a swift action for use later in the day. This stored potential can be accessed as if it were part of the magus' normal potential and remains stored in the ring until used. The wearer can still only use their potential technique while in combat.
+Rings of stored potential come in three forms, each allowing a legendary magus wearing it to store arcane potential in the ring as a swift action (1 AP) for use later in the day. This stored potential can be accessed as if it were part of the magus' normal potential and remains stored in the ring until used. The wearer can still only use their potential technique while in combat.
 
 A least ring of potential is carved from a single large quartz gemstone and can store 2 points of potential.
 
@@ -420,7 +420,7 @@ A greater ring of potential is carved from a single large diamond and can store 
 
 This sleek bracer is made of a dull black metal and is thin enough to be easily and comfortable worn under clothing. Its entire surface is carved with faintly visible necromantic runes.
 
-A living creature who wears this vambrace can activate it as a swift action, causing them to be aff ected by the *inflict light wounds* spell. The creature wearing the vambrace can choose to forgo the Will saving throw to halve the damage if they wish. At the beginning of each of the wearer’s turns, until the vambrace is deactivated using another swift action, the wearer is aff ected by *inflict light wounds*. If the wearer is [helpless](../../../rules/appendices/conditions.md#helpless) or willing, another creature can activate or deactivate the bracers as a full-round action. The damage dealt by this item cannot be prevented, and it does not aff ect undead creatures or creatures who would normally be healed by negative energy.
+A living creature who wears this vambrace can activate it as a swift action (1 AP), causing them to be aff ected by the *inflict light wounds* spell. The creature wearing the vambrace can choose to forgo the Will saving throw to halve the damage if they wish. At the beginning of each of the wearer’s turns, until the vambrace is deactivated using another swift action (1 AP), the wearer is aff ected by *inflict light wounds*. If the wearer is [helpless](../../../rules/appendices/conditions.md#helpless) or willing, another creature can activate or deactivate the bracers as a full-round action (3 AP). The damage dealt by this item cannot be prevented, and it does not aff ect undead creatures or creatures who would normally be healed by negative energy.
 
 The vambrace of pain was originally designed by a cleric who wished to explore positive-energy aligned planes without the risk of dying from overexposure to positive energy, but the design has since been used for more nefarious purposes. Many magi have discovered a more niche use for this intriguing item, allowing them to take continuous magical damage to fuel their arcane potential.
 

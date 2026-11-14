@@ -4,6 +4,6 @@ You can change shape more quickly than most kitsune.
 
 **Prerequisites**: Dex 13, base attack bonus +6, kitsune.
 
-**Benefit**: You can assume human or kitsune form as a swift action. If you have the [Fox Shape](fox-shape.md) feat, you can assume fox form as a swift action as well.
+**Benefit**: You can assume human or kitsune form as a swift action (1 AP). If you have the [Fox Shape](fox-shape.md) feat, you can assume fox form as a swift action (1 AP) as well.
 
-**Normal**: A kitsune’s change shape ability is a standard action.
+**Normal**: A kitsune’s change shape ability is a standard action (1 AP).

@@ -62,7 +62,7 @@ At 8th level, your study of arcana has given you insight into the workings of sp
 
 **Quick Reference (Ex)**
 
-At 12th level, not only do you keep your spells in mind for the day, but you remember the basics of your other spells so you can quickly reference your spellbook and focus on other spells. You can take a full-round action to change your prepared spells. Each spell changed in this way costs a number of inspiration equal to its spell level. This does not allow you to regain expended spell slots. If these spells benefit from a Spell Mastery feat, reduce the inspiration to 1 instead of 1 per spell level.
+At 12th level, not only do you keep your spells in mind for the day, but you remember the basics of your other spells so you can quickly reference your spellbook and focus on other spells. You can take a full-round action (3 AP) to change your prepared spells. Each spell changed in this way costs a number of inspiration equal to its spell level. This does not allow you to regain expended spell slots. If these spells benefit from a Spell Mastery feat, reduce the inspiration to 1 instead of 1 per spell level.
 
 **Arcane Preparedness (Sp)**
 
@@ -78,11 +78,11 @@ A study in astrology is a focus on the interaction of the planes and stars and t
 
 **Ill Portents (Su)**
 
-At 1st-level, your knowledge of the placement of astral bodies allows you to quickly identify when a particular set of signs is an evil portent. As a standard action you may expend a point of inspiration to direct this bad alignment against a single target. They must make a Will save or take a -2 penalty to AC, ability checks, attack rolls, saving throws, and skill checks. This bad luck lasts for a number of rounds equal to 3 + the your Intelligence modifier. A successful save reduces this to just 1 round. Once a creature has been affected by this ability, they are immune to it for 1d4 days when the astral bodies align in a different pattern.
+At 1st-level, your knowledge of the placement of astral bodies allows you to quickly identify when a particular set of signs is an evil portent. As a standard action (1 AP) you may expend a point of inspiration to direct this bad alignment against a single target. They must make a Will save or take a -2 penalty to AC, ability checks, attack rolls, saving throws, and skill checks. This bad luck lasts for a number of rounds equal to 3 + the your Intelligence modifier. A successful save reduces this to just 1 round. Once a creature has been affected by this ability, they are immune to it for 1d4 days when the astral bodies align in a different pattern.
 
 **Prediction of Danger (Su)**
 
-At 4th level, your consultation of your astrological implements has warned you of an impending danger for you or your allies in the coming day. You may expend a point of inspiration as an immediate action to add your studied combat bonus to you or your ally’s AC or saving throws until the beginning of your next turn. If you apply this benefit to yourself, double the bonus for your intimate knowledge of the impending danger.
+At 4th level, your consultation of your astrological implements has warned you of an impending danger for you or your allies in the coming day. You may expend a point of inspiration as an immediate action (1 AP of your next turn) to add your studied combat bonus to you or your ally’s AC or saving throws until the beginning of your next turn. If you apply this benefit to yourself, double the bonus for your intimate knowledge of the impending danger.
 
 **Chart the Day’s Course (Sp)**
 
@@ -90,11 +90,11 @@ At 8th level, you have figured out how to determine the outcomes of certain cour
 
 **Shifting of the Signs (Su)**
 
-At 12th level, you have learned ways in which to make subtle changes in your environment to shift astral positioning. As a standard action, you may expend a point of inspiration to reverse the bonuses or penalties a target is affected by to the opposite. For example, if used on a creature benefiting from heroism you would change the +2 morale bonus to a -2 penalty. This effect lasts for a number of rounds equal to your 3 + your Intelligence modifier. A successful Will save reduces this to just 1 round. Once a creature has been affected by this ability, they are immune to it for 1d4 days when the astral bodies align in a different pattern.
+At 12th level, you have learned ways in which to make subtle changes in your environment to shift astral positioning. As a standard action (1 AP), you may expend a point of inspiration to reverse the bonuses or penalties a target is affected by to the opposite. For example, if used on a creature benefiting from heroism you would change the +2 morale bonus to a -2 penalty. This effect lasts for a number of rounds equal to your 3 + your Intelligence modifier. A successful Will save reduces this to just 1 round. Once a creature has been affected by this ability, they are immune to it for 1d4 days when the astral bodies align in a different pattern.
 
 **Curse of the Stars (Sp)**
 
-At 16th level, you can make such minor adjustments to the cosmos to bring incredibly poor luck to an individual. By expending a point of inspiration as a standard action you may afflict a target with a curse as per the spell bestow curse if they fail a Will save. If you expend 2 points of inspiration, this is increased to greater bestow curse. This curse cannot be removed by remove curse or but it does expire after a number of days equal to your legendary investigator class level. Limited wish, wish, or miracle can end this effect. If the target succeeds on their will save, they are still affected by the curse, but only for 1 day and the penalties from the curse are halved. The target of this ability may not be subject to the effects of this ability again until the duration of the ongoing curse of the stars expires.
+At 16th level, you can make such minor adjustments to the cosmos to bring incredibly poor luck to an individual. By expending a point of inspiration as a standard action (1 AP) you may afflict a target with a curse as per the spell bestow curse if they fail a Will save. If you expend 2 points of inspiration, this is increased to greater bestow curse. This curse cannot be removed by remove curse or but it does expire after a number of days equal to your legendary investigator class level. Limited wish, wish, or miracle can end this effect. If the target succeeds on their will save, they are still affected by the curse, but only for 1 day and the penalties from the curse are halved. The target of this ability may not be subject to the effects of this ability again until the duration of the ongoing curse of the stars expires.
 
 **Ballistics**
 
@@ -136,7 +136,7 @@ At 1st level, you may add the following spells to your spell list:
 
 **Quick Clear (Ex)**
 
-At 4th level, you may spend 1 inspiration point to remove the broken condition from a single firearm you are currently wielding as a move action.
+At 4th level, you may spend 1 inspiration point to remove the broken condition from a single firearm you are currently wielding as a move action (1 AP).
 
 **Blind Shot (Su)**
 
@@ -152,7 +152,7 @@ At 8th level, you can draw your preferred firearm as a free action.
 
 **Targeted Shot (Ex)**
 
-At 12th level, you may spend 1 point of inspiration to make a single attack as a standard action that targets a specific part of the body. You gain the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. Creatures that are immune to sneak attacks are immune to these effects.
+At 12th level, you may spend 1 point of inspiration to make a single attack as a standard action (1 AP) that targets a specific part of the body. You gain the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. Creatures that are immune to sneak attacks are immune to these effects.
 
 **Arms**: On a hit, the target takes no damage from the hit but drops one carried item of the gunslinger’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet are not dropped on a hit.
 
@@ -168,7 +168,7 @@ At 12th level, you may spend 1 point of inspiration to make a single attack as a
 
 **Lightning Reload (Ex)**
 
-At 12th level, you can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If you have the Rapid Reload feat or are using an alchemical cartridge, you can reload a single barrel of the weapon as a free action each round instead. Furthermore, you do not provoke attacks of opportunity by reloading.
+At 12th level, you can reload a single barrel of a one-handed or two-handed firearm as a swift action (1 AP) once per round. If you have the Rapid Reload feat or are using an alchemical cartridge, you can reload a single barrel of the weapon as a free action each round instead. Furthermore, you do not provoke attacks of opportunity by reloading.
 
 **Menacing Shot (Ex)**
 
@@ -262,7 +262,7 @@ At 8th level, when you study a target via any means, they remain your target unt
 
 **Pacification (Ex)**
 
-At 12th level, you may spend 1 inspiration to make a melee attack against a humanoid or monstrous humanoid creature that is no greater than one size larger than you. If this attack hits, in addition to normal damage, the target must make a Fortitude saving throw against a DC equal to 10 + half your class level + your Intelligence modifier or they are [stunned 1](../../../rules/appendices/conditions.md#stunned) for 1d4 rounds. This attack is a standard action.
+At 12th level, you may spend 1 inspiration to make a melee attack against a humanoid or monstrous humanoid creature that is no greater than one size larger than you. If this attack hits, in addition to normal damage, the target must make a Fortitude saving throw against a DC equal to 10 + half your class level + your Intelligence modifier or they are [stunned 1](../../../rules/appendices/conditions.md#stunned) for 1d4 rounds. This attack is a standard action (1 AP).
 
 **Unconventional Methods (Sp)**
 
@@ -270,7 +270,7 @@ At 12th level, you can expend one use of his inspiration to use the spell discer
 
 **Restraints (Sp)**
 
-At 16th level, as a standard action, you may spend 1 spell point to conjure restraints around a target made from material in the vicinity. You must make a melee touch attack. Spell resistance does not apply. The creature becomes [entangled](../../../rules/appendices/conditions.md#entangled) by restraints that are anchored to the ground (though they can be cut loose from the ground easily enough). If the target is flying, then the restraints become anchored if the target falls to the ground at any time. In addition, the restraints gag the target, making it impossible for them to speak. The restraints last for 1 hour per class level before disintegrating. A restrained creature can escape by making a Strength or [Escape Artist](../../../rules/skills/escape-artist.md) check with DC equal to 10 + half your class level + your Intelligence modifier.
+At 16th level, as a standard action (1 AP), you may spend 1 spell point to conjure restraints around a target made from material in the vicinity. You must make a melee touch attack. Spell resistance does not apply. The creature becomes [entangled](../../../rules/appendices/conditions.md#entangled) by restraints that are anchored to the ground (though they can be cut loose from the ground easily enough). If the target is flying, then the restraints become anchored if the target falls to the ground at any time. In addition, the restraints gag the target, making it impossible for them to speak. The restraints last for 1 hour per class level before disintegrating. A restrained creature can escape by making a Strength or [Escape Artist](../../../rules/skills/escape-artist.md) check with DC equal to 10 + half your class level + your Intelligence modifier.
 
 **Dueling**
 
@@ -294,11 +294,11 @@ Additionally you are considered to have Combat Expertise for prerequisite purpos
 
 **Practiced Defense (Ex)**
 
-At 4th level, your skill with your weapon is such that you are prepared to shift targets and deflect incoming blows. When attacked you may initiate your studied combat against the attacker as an immediate action. Additionally, when wielding your focused weapon, you may attempt to deflect incoming damage from the target of your studied combat. To do so, you must succeed at a combat maneuver of your choice against the attacker’s CMD and use an attack of opportunity. If this attempt is successful, you reduce the damage by half. If you exceed the attacker’s CMD by 5 or more, the damage is reduced to 1/4. If you fail this combat maneuver attempt but by less than 5 you still reduce the damage by 1/4. You may expend a point of inspiration instead of an attack of opportunity when using this ability. Regardless of the success or failure of this special combat maneuver, the other benefits or failure conditions are not applied, though thematically, they should contribute to how the damage was avoided.
+At 4th level, your skill with your weapon is such that you are prepared to shift targets and deflect incoming blows. When attacked you may initiate your studied combat against the attacker as an immediate action (1 AP of your next turn). Additionally, when wielding your focused weapon, you may attempt to deflect incoming damage from the target of your studied combat. To do so, you must succeed at a combat maneuver of your choice against the attacker’s CMD and use an attack of opportunity. If this attempt is successful, you reduce the damage by half. If you exceed the attacker’s CMD by 5 or more, the damage is reduced to 1/4. If you fail this combat maneuver attempt but by less than 5 you still reduce the damage by 1/4. You may expend a point of inspiration instead of an attack of opportunity when using this ability. Regardless of the success or failure of this special combat maneuver, the other benefits or failure conditions are not applied, though thematically, they should contribute to how the damage was avoided.
 
 **Feinting Technique (Ex)**
 
-At 8th level, you have learned a masterful set of moves to open up your enemy to your advanced maneuvers. Whenever you successfully feint an enemy while using the weapon from your focused weapon ability, you may automatically attempt a combat maneuver against them. Additionally, you may spend points of inspiration to reduce the action for a feint attempt by one step to a minimum of a swift action. For example if the feint is a standard action, one point would reduce it to a move action, a second point would reduce it to a swift action. However, if you have Improved Feint, it only takes 1 point of Inspiration to reduce it to a swift action.
+At 8th level, you have learned a masterful set of moves to open up your enemy to your advanced maneuvers. Whenever you successfully feint an enemy while using the weapon from your focused weapon ability, you may automatically attempt a combat maneuver against them. Additionally, you may spend points of inspiration to reduce the action for a feint attempt by one step to a minimum of a swift action (1 AP). For example if the feint is a standard action (1 AP), one point would reduce it to a move action (1 AP), a second point would reduce it to a swift action (1 AP). However, if you have Improved Feint, it only takes 1 point of Inspiration to reduce it to a swift action (1 AP).
 
 **Counterattack (Ex)**
 
@@ -332,7 +332,7 @@ Additionally, you may take 10 on [Disable Device](../../../rules/skills/disable-
 
 At 8th level, you have learned the resonant frequencies of various materials and have learned to use sound to cause physical changes in the objects. you can use a tuning fork or any other resonant item (crystal glasses, lute, etc.) to affect a target item, construct or predominantly construct-like creature, like an inevitable within 30 feet.
 
-To do so, you expend a point of inspiration as a standard action that does not provoke an opportunity. The target construct, structure or item (including magic items) takes 1d6 sonic damage per class level that ignores hardness (if applicable). Alternatively, the resonance created can remove any immunity or spell resistance to magic the target may have for 1 minute. The target creature or magic item may attempt a Fortitude save to half the damage or duration of the effect. This ability does not work within or on a target within an area of magical silence.
+To do so, you expend a point of inspiration as a standard action (1 AP) that does not provoke an opportunity. The target construct, structure or item (including magic items) takes 1d6 sonic damage per class level that ignores hardness (if applicable). Alternatively, the resonance created can remove any immunity or spell resistance to magic the target may have for 1 minute. The target creature or magic item may attempt a Fortitude save to half the damage or duration of the effect. This ability does not work within or on a target within an area of magical silence.
 
 **Applied Engineering (Ex)**
 
@@ -356,11 +356,11 @@ A study in mathematics is a focus on numbers, statistics, and geometry. It entai
 
 **Calculate Trajectory (Ex)**
 
-At 1st level, your ability to quickly calculate the geometry and physics of your situation is beyond compare. You may as a move action apply your Intelligence bonus to your next attack roll, including from a spell, made during the round. This bonus is in addition to the normal ability bonus applied to the roll. If the bonus is not used before the end of your turn, it is lost due to the changing circumstances of the battlefield.
+At 1st level, your ability to quickly calculate the geometry and physics of your situation is beyond compare. You may as a move action (1 AP) apply your Intelligence bonus to your next attack roll, including from a spell, made during the round. This bonus is in addition to the normal ability bonus applied to the roll. If the bonus is not used before the end of your turn, it is lost due to the changing circumstances of the battlefield.
 
 **Never Tell Me the Odds (Ex)**
 
-At 4th level, your ability to quickly know the probability of events allows you to intuitively shift factors in your favor. By spending a point of inspiration as an immediate action you may shift the result of a d% roll up or down by up to your legendary investigator class levels. For example, if you are an 8th-level legendary investigator and you are attacking a creature with concealment, you roll a 45 on your d100 which would be a miss due to concealment, you may expend inspiration to add your level to the roll making the result a 53. Conversely, if an enemy were affected by the spell confusion and on their turn they roll an 80 on their d100 to attack the nearest creature, you could expend a point of inspiration as an immediate action to reduce the result to a 72, causing them to deal damage to themself.
+At 4th level, your ability to quickly know the probability of events allows you to intuitively shift factors in your favor. By spending a point of inspiration as an immediate action (1 AP of your next turn) you may shift the result of a d% roll up or down by up to your legendary investigator class levels. For example, if you are an 8th-level legendary investigator and you are attacking a creature with concealment, you roll a 45 on your d100 which would be a miss due to concealment, you may expend inspiration to add your level to the roll making the result a 53. Conversely, if an enemy were affected by the spell confusion and on their turn they roll an 80 on their d100 to attack the nearest creature, you could expend a point of inspiration as an immediate action (1 AP of your next turn) to reduce the result to a 72, causing them to deal damage to themself.
 
 **Absolute Number (Ex)**
 
@@ -372,7 +372,7 @@ At 12th level, your ability to calculate trajectories, paths of travel and force
 
 **Golden Ratio (Su)**
 
-At 16th level, your understanding of mathematics has reached a supernatural height allowing you to adjust the geometry of certain spells. As an immediate action that expends a point of inspiration, you may move 5 feet of an existing wall spell, like wall of force, or spell that affects a geometric area, like an aura, burst, cone or line, to another square within 30 feet of the original square, by rolling a relevant Knowledge check corresponding to the nature of the spell affected. The Knowledge check DC is 10 + the spell level + the caster’s spellcasting ability score modifier. For every 5 by which you exceed the Knowledge check DC you may move an additional 5 feet of the spell. For example, if you are looking to exclude some spaces from a fireball spell cast by an enemy wizard, you would roll Knowledge (arcana). If your roll exceeds a DC 17 (10 + 3rd level spell + the Wizards +4 Intelligence modifier) you may shift 5 feet of the spell, say the 5 feet affecting you, to a square occupied by an enemy goblin 25 feet away. If you exceed the DC by 5, you may also move an additional 5-foot square, say occupied by your ally. Squares of a spell moved in such a way cannot be moved to the same location. However, at 20th level, your understanding expands and you are able to place moved squares of spells into the same square, in effect overlapping the effect. Each overlapped square costs an additional 1 inspiration. The effects of the overlapped squares are treated as though the creature in the square were affected multiple times. This means damage is multiplied, and effects are increased in duration (though not severity). The save, if applicable, for the overlapped effects is only rolled once and the success or failure is applied to the entire overlapped effect.
+At 16th level, your understanding of mathematics has reached a supernatural height allowing you to adjust the geometry of certain spells. As an immediate action (1 AP of your next turn) that expends a point of inspiration, you may move 5 feet of an existing wall spell, like wall of force, or spell that affects a geometric area, like an aura, burst, cone or line, to another square within 30 feet of the original square, by rolling a relevant Knowledge check corresponding to the nature of the spell affected. The Knowledge check DC is 10 + the spell level + the caster’s spellcasting ability score modifier. For every 5 by which you exceed the Knowledge check DC you may move an additional 5 feet of the spell. For example, if you are looking to exclude some spaces from a fireball spell cast by an enemy wizard, you would roll Knowledge (arcana). If your roll exceeds a DC 17 (10 + 3rd level spell + the Wizards +4 Intelligence modifier) you may shift 5 feet of the spell, say the 5 feet affecting you, to a square occupied by an enemy goblin 25 feet away. If you exceed the DC by 5, you may also move an additional 5-foot square, say occupied by your ally. Squares of a spell moved in such a way cannot be moved to the same location. However, at 20th level, your understanding expands and you are able to place moved squares of spells into the same square, in effect overlapping the effect. Each overlapped square costs an additional 1 inspiration. The effects of the overlapped squares are treated as though the creature in the square were affected multiple times. This means damage is multiplied, and effects are increased in duration (though not severity). The save, if applicable, for the overlapped effects is only rolled once and the success or failure is applied to the entire overlapped effect.
 
 **Medicine**
 
@@ -388,7 +388,7 @@ At 1st level, your training and knowledge of the medical arts helps you instead 
 
 **Competent Treatment (Ex)**
 
-At 4th level, you are so sure in your medical knowledge that you can perform your duties quicker and more skillfully than your peers. The time required to perform the various Heal skill actions is halved. The actions only requiring a standard action become a move action. Additionally, when treating deadly wounds or performing long-term care you may expend a point of inspiration to apply 1d6 plus your Intelligence modifier as additional healing. At 7th level and every 4 levels thereafter, the healing added by the inspiration increases by 1d6 to a maximum of 5d6 + your Intelligence modifier at 19th level.
+At 4th level, you are so sure in your medical knowledge that you can perform your duties quicker and more skillfully than your peers. The time required to perform the various Heal skill actions is halved. The actions only requiring a standard action (1 AP) become a move action (1 AP). Additionally, when treating deadly wounds or performing long-term care you may expend a point of inspiration to apply 1d6 plus your Intelligence modifier as additional healing. At 7th level and every 4 levels thereafter, the healing added by the inspiration increases by 1d6 to a maximum of 5d6 + your Intelligence modifier at 19th level.
 
 **Heal the Whole Patient (Ex)**
 
@@ -414,7 +414,7 @@ At 12th level, your skill in the medical arts surpasses all of your peers, so lo
 
 At 16th level, your competence with medicine and your understanding of anatomy and physiology extends beyond the realm of living bodies.
 
-You can spend a point of inspiration to perform a special Heal check using 2 uses of a healer’s kit. You can bring a creature that has recently died back to -1 hit points and stable by making a Heal skill check against a DC equal to the number of hit points below -1 they are. Doing so is a full-round action that provokes attacks of opportunity and may only be performed on creatures that have died within the last minute. You may expend an additional inspiration to affect creatures that have died within the last hour but the DC for such a Heal check is doubled. This ability is effective on creatures killed by a death effect, but their body must be intact enough for the creature to live normally; e.g., a disintegrated creature cannot be affected, but a creature might have their head reattached.
+You can spend a point of inspiration to perform a special Heal check using 2 uses of a healer’s kit. You can bring a creature that has recently died back to -1 hit points and stable by making a Heal skill check against a DC equal to the number of hit points below -1 they are. Doing so is a full-round action (3 AP) that provokes attacks of opportunity and may only be performed on creatures that have died within the last minute. You may expend an additional inspiration to affect creatures that have died within the last hour but the DC for such a Heal check is doubled. This ability is effective on creatures killed by a death effect, but their body must be intact enough for the creature to live normally; e.g., a disintegrated creature cannot be affected, but a creature might have their head reattached.
 
 **Naturalism**
 
@@ -464,7 +464,7 @@ A study in spiritualism is a focus on souls and spirits, on the ethereal which b
 
 **Ether Sight (Su)**
 
-At 1st level, you gain the ability to see things as they might appear on the ethereal plane. By focusing your attention on a single creature within 30 feet as a standard action you can determine if they are alive, undead, an outsider or possessed. You see a vague outline of the creature’s true form but otherwise glean no additional information. At 7th level you can see invisible creatures within 5 feet of you, at 11th level this range extends to 15 feet, and at 15th level it extends to 30 feet. In any case, this is considered a divination effect with a caster level equal to your own for the purposes of overcoming nondetection and similar magic and can be blocked by other methods which block divination effects.
+At 1st level, you gain the ability to see things as they might appear on the ethereal plane. By focusing your attention on a single creature within 30 feet as a standard action (1 AP) you can determine if they are alive, undead, an outsider or possessed. You see a vague outline of the creature’s true form but otherwise glean no additional information. At 7th level you can see invisible creatures within 5 feet of you, at 11th level this range extends to 15 feet, and at 15th level it extends to 30 feet. In any case, this is considered a divination effect with a caster level equal to your own for the purposes of overcoming nondetection and similar magic and can be blocked by other methods which block divination effects.
 
 **Disrupt Ether (Su)**
 
@@ -478,7 +478,7 @@ When attempting to force a creature to answer a question they make a Will save, 
 
 **Master of the Unseen World (Su)**
 
-At 12th level, you are able to extend your knowledge and experience with spirits to others. As a full-round action you grant all allies within 30 feet of you your studied strike ability, though it is only usable against incorporeal creatures, outsiders, possessed creatures, and creatures benefiting from shape changing or illusion magic. Each of these allies also benefits from your Disrupt Ether ability.
+At 12th level, you are able to extend your knowledge and experience with spirits to others. As a full-round action (3 AP) you grant all allies within 30 feet of you your studied strike ability, though it is only usable against incorporeal creatures, outsiders, possessed creatures, and creatures benefiting from shape changing or illusion magic. Each of these allies also benefits from your Disrupt Ether ability.
 
 **Banish the Ephemeral (Su)**
 
@@ -520,7 +520,7 @@ The undead servant gains +4 channel resistance.
 
 - **Claws (Ex)*** The undead servant gains a set of claws on the ends of its forelimbs. These are primary natural attacks which deal 1d4 damage if the servant is medium size. A quadrupedal undead servant can gain this ability twice though if it does all claw attacks become secondary natural attacks.
 
-- **Fearsome Bellow (Su)** The undead servant gains a special attack. As a standard action it can bellow and force all living creatures within 60 feet to make a Will saving throw or become shaken for 1d4 rounds.
+- **Fearsome Bellow (Su)** The undead servant gains a special attack. As a standard action (1 AP) it can bellow and force all living creatures within 60 feet to make a Will saving throw or become shaken for 1d4 rounds.
 
 - **Lifesense (Su)*** The undead servant gains the ability to sense living creatures even those benefiting from invisibility and cover. This acts as blindsense 30 ft, but only in regards to living creatures. Selecting this ability again increases the range to 60 ft.
 
@@ -544,7 +544,7 @@ It gains a bite attack dealing 1d6 damage if the undead servant is medium. This 
 
 **Stench (Ex)**
 
-The undead servant can release truly wretched odors. As a standard action the undead servant can cause a terrible stench to fill the air around it in a 20 feet radius. Living creatures in this area must make a fortitude save equal to 10 + 1/2 the undead servants hit die each round or become sickened for as long as they remain within 20 feet of the undead servant. Its master is unaffected by this ability and can grant others immunity to it as well, doing so requires 10 minutes and produces a tincture which renders the user immune to the stench for 24 hours.
+The undead servant can release truly wretched odors. As a standard action (1 AP) the undead servant can cause a terrible stench to fill the air around it in a 20 feet radius. Living creatures in this area must make a fortitude save equal to 10 + 1/2 the undead servants hit die each round or become sickened for as long as they remain within 20 feet of the undead servant. Its master is unaffected by this ability and can grant others immunity to it as well, doing so requires 10 minutes and produces a tincture which renders the user immune to the stench for 24 hours.
 
 **Toughened Hide (Ex)***
 
@@ -566,7 +566,7 @@ At 12th level, you have learned to directly control the energy present in undead
 
 **Resculpt Servant (Su)**
 
-At 16th level, you have mastered the energies within your undead servant completely, its flesh now as shapeable to you as clay. You may spend 1 hour and 1000 gp or more in supplies to change the abilities granted to your servant by the Greater Undead Servant ability. Each ability you wish to change costs 1,000 gp in supplies but the process always takes only one hour. You can expend a 5th level spell slot to instead use this ability as a full-round action, causing the flesh of the servant to slough and twist to suit its new form.
+At 16th level, you have mastered the energies within your undead servant completely, its flesh now as shapeable to you as clay. You may spend 1 hour and 1000 gp or more in supplies to change the abilities granted to your servant by the Greater Undead Servant ability. Each ability you wish to change costs 1,000 gp in supplies but the process always takes only one hour. You can expend a 5th level spell slot to instead use this ability as a full-round action (3 AP), causing the flesh of the servant to slough and twist to suit its new form.
 
 In either case this process can only be undergone by the servant once per day.
 
@@ -608,13 +608,13 @@ At 8th level, the fact that you know the creature’s name makes them unable to 
 
 **A Name is a Sword (Sp)**
 
-At 12th level, you can use the name of the outsider as a weapon against them. As a standard action using a point of inspiration, you may intone their name with some other words of power choosing one of the effects below. The outsider may make the listed saving throw or have the effect shown applied, otherwise they get the effect from the success column. The outsider must be within 60 feet to be able to be affected but does not need to be visible to you.
+At 12th level, you can use the name of the outsider as a weapon against them. As a standard action (1 AP) using a point of inspiration, you may intone their name with some other words of power choosing one of the effects below. The outsider may make the listed saving throw or have the effect shown applied, otherwise they get the effect from the success column. The outsider must be within 60 feet to be able to be affected but does not need to be visible to you.
 
 **A Name can Unmake (Sp)**
 
 At 16th level, you can use the name of the outsider to rend the fabric of their being.
 
-As a full-round action using a point of inspiration, you may affect them with the disintegrate spell using your legendary investigator levels as the caster level and using your class DC instead of the normal spell DC. You need not make the attack roll. If the target succeeds or survives the attempt, they may not be affected by this ability again. Additionally, this power is taxing and may not be used more than once per day. If the creature is destroyed by this ability, they do not return to their home plane and are forever destroyed.
+As a full-round action (3 AP) using a point of inspiration, you may affect them with the disintegrate spell using your legendary investigator levels as the caster level and using your class DC instead of the normal spell DC. You need not make the attack roll. If the target succeeds or survives the attempt, they may not be affected by this ability again. Additionally, this power is taxing and may not be used more than once per day. If the creature is destroyed by this ability, they do not return to their home plane and are forever destroyed.
 
 **Theatrics**
 
@@ -638,7 +638,7 @@ At 1st level, while you are in your alternate identity, you gain a competence bo
 
 **Frightening Display (Ex)**
 
-At 4th level, when you damage a creature with a melee attack, you may make an Intimidate check as a swift action to attempt to demoralize them.
+At 4th level, when you damage a creature with a melee attack, you may make an Intimidate check as a swift action (1 AP) to attempt to demoralize them.
 
 The target does need to be able to see you.
 
@@ -646,7 +646,7 @@ The target does need to be able to see you.
 
 At 8th level, while in your disguised identity, you may cast invisibility as a spell-like ability.
 
-The effect ends if you leave your disguised identity. This is a move action.
+The effect ends if you leave your disguised identity. This is a move action (1 AP).
 
 **True Fear (Su)**
 
@@ -654,7 +654,7 @@ At 12th level, creatures within 30 feet of you lose their immunity to fear while
 
 **Shocking Appearance (Ex)**
 
-At 16th level, as a standard action, you may make an Intimidate check to demoralize all enemies that can see you that are within 30 feet of you. If you are invisible, you become visible, but resume your invisibility at the end of your turn. You must be in your disguised identity to use this ability.
+At 16th level, as a standard action (1 AP), you may make an Intimidate check to demoralize all enemies that can see you that are within 30 feet of you. If you are invisible, you become visible, but resume your invisibility at the end of your turn. You must be in your disguised identity to use this ability.
 
 **Theology**
 
@@ -682,7 +682,7 @@ At 12th level, you have studied the observances of the most faithful you may spe
 
 **Deific Blindspot (Su)**
 
-At 16th level, through extensive study you have figured out how to avoid the attention and judgments of the gods. If you are faced with a creature with divine spellcasting, you may make a Knowledge (religion) check as a free action to determine which deity is providing their spellcasting capacity. The DC for the check is equal to 10 + the target’s divine caster level plus their spellcasting ability modifier. If you succeed, you may attempt to be unaffected by their divine spells, if you so choose. If you have identified the target’s divine patron, you may, as an immediate action using a point of inspiration, be excluded from a spell as if under the effects of an antimagic field, as the spell. If you are the sole target, neither the spell and action to cast are wasted. If you fail your initial Knowledge check to identify the deific patron of the target, you may retry on subsequent rounds, but no more than once per round.
+At 16th level, through extensive study you have figured out how to avoid the attention and judgments of the gods. If you are faced with a creature with divine spellcasting, you may make a Knowledge (religion) check as a free action to determine which deity is providing their spellcasting capacity. The DC for the check is equal to 10 + the target’s divine caster level plus their spellcasting ability modifier. If you succeed, you may attempt to be unaffected by their divine spells, if you so choose. If you have identified the target’s divine patron, you may, as an immediate action (1 AP of your next turn) using a point of inspiration, be excluded from a spell as if under the effects of an antimagic field, as the spell. If you are the sole target, neither the spell and action to cast are wasted. If you fail your initial Knowledge check to identify the deific patron of the target, you may retry on subsequent rounds, but no more than once per round.
 
 **The Arts**
 
@@ -768,19 +768,19 @@ You may choose any animal available to the druid, rather than only those availab
 
 **Backdown Command (Ex)**
 
-At 8th level, you have learned techniques to cow certain creatures that may be acting aggressively or doing something you do not wish for them to do. When a creature is about to perform an action you do not want to happen, like move or attack, as an immediate action you may prevent it with a Handle Animal check. You make the Handle Animal check against their current disposition improvement DC (per the Diplomacy skill). If the check succeeds, the target creature loses the action, and may perform a similar action until their next turn. Additionally, the creature is shaken for 1 minute. The creature needs to be able to see or hear the command to be affected and must be of a type affected by your zoological encyclopedia ability.
+At 8th level, you have learned techniques to cow certain creatures that may be acting aggressively or doing something you do not wish for them to do. When a creature is about to perform an action you do not want to happen, like move or attack, as an immediate action (1 AP of your next turn) you may prevent it with a Handle Animal check. You make the Handle Animal check against their current disposition improvement DC (per the Diplomacy skill). If the check succeeds, the target creature loses the action, and may perform a similar action until their next turn. Additionally, the creature is shaken for 1 minute. The creature needs to be able to see or hear the command to be affected and must be of a type affected by your zoological encyclopedia ability.
 
 This ability may also be used to grant the target creature an additional Will save to resist a spell or other ability affecting them, like charm animal, fear, or rage.
 
 **Affirmative Command (Ex)**
 
-At 12th level, you can make motions and sounds as a standard action to command a creature to follow your orders for a time. If you succeed at a Handle Animal check against a qualifying creature versus the creature’s current disposition DC (per the Diplomacy skill), they follow your orders for a number of rounds equal to your Intelligence modifier.
+At 12th level, you can make motions and sounds as a standard action (1 AP) to command a creature to follow your orders for a time. If you succeed at a Handle Animal check against a qualifying creature versus the creature’s current disposition DC (per the Diplomacy skill), they follow your orders for a number of rounds equal to your Intelligence modifier.
 
 A qualifying creature is one that is affected by your zoological encyclopedia ability. You can communicate basic commands to the target like ordering movement, fighting and basic ability usage. For example, you could tell a creature to use their breath weapon generally on a group of foes but not tell them to open a door and drag out the man wearing the purple cape.
 
 Others can tell that the creature is acting out of the ordinary for a creature of their type while under your control with a DC 20 Knowledge check (depending on the creature type). However, if your commands follow the normal patterns and behaviors for the creature, it is impossible to tell it is under your control.
 
-You may change your orders or maintain them as a swift action up to the normal duration. Any round that you do not use a Swift action to at least maintain the commands, they may make a Will save. If they succeed, they end the effect early and may act normally.
+You may change your orders or maintain them as a swift action (1 AP) up to the normal duration. Any round that you do not use a Swift action (1 AP) to at least maintain the commands, they may make a Will save. If they succeed, they end the effect early and may act normally.
 
 Creatures gain a cumulative +2 bonus to their Will saves and DCs regarding this ability for each time they have been the target within the last 24 hours.
 

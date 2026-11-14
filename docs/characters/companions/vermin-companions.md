@@ -13,7 +13,7 @@ Vermin companions for druids and similar classes were first introduced in *Ultim
 
 This long-legged, beetle-like insect can spew a stream of poison at its foes from a distance.
 
-**Starting Statistics**: Size Small; Speed 30 ft., fly 30 ft. (clumsy); AC +2 natural armor; Attack bite (1d4 plus poison), 2 claws (1d3); Ability Scores Str 13, Dex 15, Con 13, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex; cure 1 save; Con-based DC), poison stream (exposes all creatures in a 15-ft. line to poison, Reflex save negates; Dex-based DC; usable every 1d4 rounds as a standard action); Special Qualities darkvision 60 ft.; CMD trip +8.
+**Starting Statistics**: Size Small; Speed 30 ft., fly 30 ft. (clumsy); AC +2 natural armor; Attack bite (1d4 plus poison), 2 claws (1d3); Ability Scores Str 13, Dex 15, Con 13, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex; cure 1 save; Con-based DC), poison stream (exposes all creatures in a 15-ft. line to poison, Reflex save negates; Dex-based DC; usable every 1d4 rounds as a standard action (1 AP)); Special Qualities darkvision 60 ft.; CMD trip +8.
 
 **4th-Level Advancement**: Size Medium; AC +1 natural armor; Attack bite (1d6 plus poison), 2 claws (1d4); Ability Scores Str +4, Dex –2, Con +2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex; cure 2 saves; Con-based DC).
 

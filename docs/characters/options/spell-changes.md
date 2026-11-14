@@ -41,7 +41,7 @@
 
 **[Fiery Shuriken](../../magic/spells/fiery-shuriken.md):** at caster level 6 the shuriken increase to 2d8 each.
 
-**[Hedging Weapons](../../magic/spells/hedging-weapons.md):** gain an additional weapon every 4 levels, to a maximum of 4. Throwing them is a touch attack, and can be a full-round action to throw more than one if you can attack more than once (rapid shot, iterative attacks, and so on). They have the returning property, and you lose the bonus only while attacking. Each weapon thrown reduces the duration by 1 minute.
+**[Hedging Weapons](../../magic/spells/hedging-weapons.md):** gain an additional weapon every 4 levels, to a maximum of 4. Throwing them is a touch attack, and can be a full-round action (3 AP) to throw more than one if you can attack more than once (rapid shot, iterative attacks, and so on). They have the returning property, and you lose the bonus only while attacking. Each weapon thrown reduces the duration by 1 minute.
 
 ## New Spells
 

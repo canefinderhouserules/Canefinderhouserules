@@ -6,4 +6,4 @@ When you are knocked [prone](../appendices/conditions.md#prone), you are skilled
 
 **Prerequisites**: Int 13, [Combat Expertise](combat-expertise.md), [Improved Trip](improved-trip.md).
 
-**Benefit**: Whenever an opponent successfully trips you, you can attempt to trip that opponent as an immediate action.
+**Benefit**: Whenever an opponent successfully trips you, you can attempt to trip that opponent as an immediate action (1 AP of your next turn).

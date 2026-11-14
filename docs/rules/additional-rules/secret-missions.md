@@ -52,7 +52,7 @@ You are tasked with assaulting your foes quickly and quietly.
 
 **Prerequisites**: Fame 20, 1 PP.
 
-**Benefit**: Once per day as a standard action, you can allow up to five allies within 30 feet to take 10 on Stealth checks even if stress and distraction would normally prevent them from doing so.
+**Benefit**: Once per day as a standard action (1 AP), you can allow up to five allies within 30 feet to take 10 on Stealth checks even if stress and distraction would normally prevent them from doing so.
 
 **Goal**: Within 1 month, spring a surprise attack upon an oppressive military that thwarts a challenging group of foes.
 
@@ -76,11 +76,11 @@ You must act with others to present a united front.
 
 **Prerequisites**: Fame 10, 3 PP.
 
-**Benefit**: As a full-round action, you can use Intimidate to aid an ally’s Bluff or Diplomacy checks (chosen when you gain this award). If you successfully aid another, the bonus added to your ally’s check is +3 rather than the normal +2.
+**Benefit**: As a full-round action (3 AP), you can use Intimidate to aid an ally’s Bluff or Diplomacy checks (chosen when you gain this award). If you successfully aid another, the bonus added to your ally’s check is +3 rather than the normal +2.
 
 **Goal**: Within 1 week, thwart an investigation into your organization’s connection to a useful politician or business leader without escalating the situation.
 
-**Completion Award**: Your Fame score increases by 2, and you can use Intimidate to aid an ally on Bluff and Diplomacy checks as a standard action.
+**Completion Award**: Your Fame score increases by 2, and you can use Intimidate to aid an ally on Bluff and Diplomacy checks as a standard action (1 AP).
 
 ### Establish an Asset
 

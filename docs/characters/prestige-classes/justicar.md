@@ -68,4 +68,4 @@ Direct and indirect attempts to violate the agreement end the link; swearing not
 
 The creature who breaks the agreement is cursed with a raised physical mark on the forehead (or other obvious place) indicating his willing violation of the agreement. The target takes a –4 penalty on Diplomacy and Diplomacy checks when dealing with those who dislike oathbreakers. Magical attempts to remove the mark—such as via [*remove curse*](../../magic/spells/remove-curse.md)—require a successful caster level check (DC 10 + justiciar’s character level). Even if the curse is removed, the other party in the agreement still knows of the betrayal. The mark is colored and textured as the justicar chooses, and cannot be hidden with makeup, tattoos, or scars, although greater physical obstructions (such as a long wig or low-hanging hat) can conceal it.
 
-This is a permanent divination effect. Creating a link is a standard action. The justiciar may use this ability up to three times per day.
+This is a permanent divination effect. Creating a link is a standard action (1 AP). The justiciar may use this ability up to three times per day.

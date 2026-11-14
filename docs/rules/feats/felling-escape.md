@@ -6,4 +6,4 @@ Through the use of fluid contortions and manipulations of leverage, you can thro
 
 **Prerequisites**: Int 13, [Combat Expertise](combat-expertise.md), [Improved Trip](improved-trip.md).
 
-**Benefit**: When you break an opponent’s grapple with a combat maneuver check or [Escape Artist](../skills/escape-artist.md) check, you can spend a swift action to make a trip attempt against that opponent.
+**Benefit**: When you break an opponent’s grapple with a combat maneuver check or [Escape Artist](../skills/escape-artist.md) check, you can spend a swift action (1 AP) to make a trip attempt against that opponent.

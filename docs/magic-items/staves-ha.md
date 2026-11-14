@@ -7,7 +7,7 @@ A staff is a long shaft that stores several spells. Staves usually hold spells g
 **Aura** moderate conjuration; **CL** 11th  
 **Slot** none; **Price** 22,800 gp; **Weight** 4 lbs.
 
-This dark mahogany staff is carved in the shape of a squid’s tentacle and smells strongly of seawater. When grasped, the staff animates, writhing momentarily until it regains its rigid, wooden form. As a swift action, the wielder can transform the staff into a long, flexible weapon that functions as a masterwork whip. The staff reverts to its normal form at the beginning of the wielder’s next turn.
+This dark mahogany staff is carved in the shape of a squid’s tentacle and smells strongly of seawater. When grasped, the staff animates, writhing momentarily until it regains its rigid, wooden form. As a swift action (1 AP), the wielder can transform the staff into a long, flexible weapon that functions as a masterwork whip. The staff reverts to its normal form at the beginning of the wielder’s next turn.
 
 The staff allows the use of the following spells.
 
@@ -39,7 +39,7 @@ The staff allows the use of the following spells.
 **Aura** moderate divination; **CL** 9th  
 **Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
 
-Whenever the user is holding this wooden staff, 10 bulging eyes carved along the length of the staff animate, granting the user a +5 competence bonus on Perception checks as long as he is grasping the staff. As a move action, the wielder can select a creature within 100 feet and see through its eyes with no saving throw. The creature selected must be either a spider summoned with the staff or a creature blinded by a *blindness/deafness* spell cast from the staff (the wielder ignores the *blindness/deafness* effect). The connection lasts as long as the wielder and the target creature remain within 100 feet of each other, though the wielder can end it as a free action. The effect also ends if the target was a blinded creature and regains the ability to see. The wielder is blinded while maintaining this connection.
+Whenever the user is holding this wooden staff, 10 bulging eyes carved along the length of the staff animate, granting the user a +5 competence bonus on Perception checks as long as he is grasping the staff. As a move action (1 AP), the wielder can select a creature within 100 feet and see through its eyes with no saving throw. The creature selected must be either a spider summoned with the staff or a creature blinded by a *blindness/deafness* spell cast from the staff (the wielder ignores the *blindness/deafness* effect). The connection lasts as long as the wielder and the target creature remain within 100 feet of each other, though the wielder can end it as a free action. The effect also ends if the target was a blinded creature and regains the ability to see. The wielder is blinded while maintaining this connection.
 
 The staff allows the use of the following spells.
 

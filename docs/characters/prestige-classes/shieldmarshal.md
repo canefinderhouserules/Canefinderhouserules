@@ -49,7 +49,7 @@ A shieldmarshal adds his Intelligence bonus as well as his Wisdom bonus on [Perc
 
 #### Legal Judgment (Ex)
 
-A shieldmarshal can pronounce legal judgment upon his foes as a swift action, providing a bonus or ability based on the type of judgment made. Once activated, the ability lasts until the combat ends. If the shieldmarshal is [dazed](../../rules/appendices/conditions.md#dazed), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise unable to participate in combat, the effect does not end but provides no benefit until he is again able to participate in combat. As a swift action, the shieldmarshal can change his legal judgment to another type.
+A shieldmarshal can pronounce legal judgment upon his foes as a swift action (1 AP), providing a bonus or ability based on the type of judgment made. Once activated, the ability lasts until the combat ends. If the shieldmarshal is [dazed](../../rules/appendices/conditions.md#dazed), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise unable to participate in combat, the effect does not end but provides no benefit until he is again able to participate in combat. As a swift action (1 AP), the shieldmarshal can change his legal judgment to another type.
 
 This ability can be used once per day, plus once for every three levels beyond 1st. It is equivalent to an [inquisitor’s judgment](../classes/inquisitor.md#judgment-su) ability for the purpose of feats, magic items, or other game effects that affect the judgment ability; however, levels in the two classes do not stack.
 
@@ -72,7 +72,7 @@ Starting at 2nd level, a shieldmarshal gains deeds as a gunslinger of half his l
 
 #### Labyrinthine Cunning (Ex)
 
-At 3rd level, a shieldmarshal never becomes lost in urban terrain, and he never takes penalties to movement for poor visibility in urban terrain, even while temporarily [blinded](../../rules/appendices/conditions.md#blinded). A shieldmarshal can open or close doors as a swift action instead of a move action.
+At 3rd level, a shieldmarshal never becomes lost in urban terrain, and he never takes penalties to movement for poor visibility in urban terrain, even while temporarily [blinded](../../rules/appendices/conditions.md#blinded). A shieldmarshal can open or close doors as a swift action (1 AP) instead of a move action.
 
 #### Urban Commando (Ex)
 
@@ -84,7 +84,7 @@ A shieldmarshal is well versed in covert operations, especially in urban setting
 
 #### Double Jeopardy (Ex)
 
-At 8th level, whenever a shieldmarshal uses his legal judgment ability, he selects two different judgments, instead of one. This consumes only one use of his legal judgment ability. As a swift action, he can change one of these effects to another type.
+At 8th level, whenever a shieldmarshal uses his legal judgment ability, he selects two different judgments, instead of one. This consumes only one use of his legal judgment ability. As a swift action (1 AP), he can change one of these effects to another type.
 
 #### Quarry (Ex)
 

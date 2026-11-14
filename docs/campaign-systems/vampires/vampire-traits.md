@@ -13,7 +13,7 @@
 - Undead do not breathe, eat or sleep.
 - DR 10/slashing, resistance to cold 10, vulnerability to fire.
 - Exposing any vampire to direct sunlight staggers it on the first round of exposure and destroys it utterly on the second consecutive round of exposure if it does not escape.
-- Driving a wooden stake through a helpless vampire's heart instantly slays it (this is a full-round action). However, it returns to life if the stake is removed, unless the head is also severed.
+- Driving a wooden stake through a helpless vampire's heart instantly slays it (this is a full-round action (3 AP)). However, it returns to life if the stake is removed, unless the head is also severed.
 - You can't rest and don't recover hit points.
 - Disciplines.
 - Blood points.

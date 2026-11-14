@@ -6,7 +6,7 @@
 
 *Guarded Mind (Ex): You gain a +2 insight bonus on saving throws against all mind-affecting effects.*
 
-*Part the Veil (Su): At 8th level, you can lace spells you cast with the raw madness that waits in the outer darkness. Activating this ability is a swift action that you must use as you cast a spell that targets a single creature and that allows a Will saving throw to negate or reduce the spell’s primary effect. If the target fails to resist the spell, the target is also confused for a number of rounds equal to the spell’s level as visions of the void cause temporary insanity.*
+*Part the Veil (Su): At 8th level, you can lace spells you cast with the raw madness that waits in the outer darkness. Activating this ability is a swift action (1 AP) that you must use as you cast a spell that targets a single creature and that allows a Will saving throw to negate or reduce the spell’s primary effect. If the target fails to resist the spell, the target is also confused for a number of rounds equal to the spell’s level as visions of the void cause temporary insanity.*
 
 *The victim must succeed at a new saving throw each round to end the effect— these additional saving throws apply only to the additional confusion effect and not to the original spell effect. Part the veil is a mind-affecting effect. You can use this ability a number of times per day equal to 1/2 your class level.*
 
@@ -32,7 +32,7 @@
 
 ***Replacement Power**: The following granted power replaces the part the veil power of the Void domain.*
 
-*Aura of Isolation (Su): As a standard action, you can create a 20-foot aura that causes enemies within to be overcome with feelings of isolation and loss. Your enemies treat the aura as difficult terrain, as they become sluggish within its area of effect. Furthermore, while within the aura, your enemies can’t flank with one another, nor can they use or benefit from the aid another action. The aura lasts for a number of rounds equal to 3 + your Wisdom modifier, but the rounds need not be consecutive. This is a mind-affecting emotion effect.*
+*Aura of Isolation (Su): As a standard action (1 AP), you can create a 20-foot aura that causes enemies within to be overcome with feelings of isolation and loss. Your enemies treat the aura as difficult terrain, as they become sluggish within its area of effect. Furthermore, while within the aura, your enemies can’t flank with one another, nor can they use or benefit from the aid another action. The aura lasts for a number of rounds equal to 3 + your Wisdom modifier, but the rounds need not be consecutive. This is a mind-affecting emotion effect.*
 
 ***Replacement Domain Spells**: 4th—crushing despair, 6th—wall of force, 8th—prismatic wall.*
 

@@ -87,11 +87,11 @@ At 1st level, the gunslinger can resolve an attack against touch AC instead of n
 
 #### Gunslinger’s Dodge (Ex)
 
-At 1st level, the gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action; doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop [prone](../../rules/appendices/conditions.md#prone) to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load.
+At 1st level, the gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action (1 AP of your next turn); doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop [prone](../../rules/appendices/conditions.md#prone) to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load.
 
 #### Quick Clear (Ex)
 
-At 1st level, as a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.
+At 1st level, as a standard action (1 AP), the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.
 
 #### Gunslinger Initiative (Ex)
 
@@ -99,7 +99,7 @@ At 3rd level, as long as the gunslinger has at least 1 grit point, she gains the
 
 #### Pistol-Whip (Ex)
 
-At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action. When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. [One-handed firearms](../../equipment/weapons-firearms.md) deal 1d6 points of damage (1d4 if wielded by Small creatures) and [two-handed firearms](../../equipment/weapons-firearms.md) deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger’s size, the critical multiplier of this attack is 20/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.
+At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action (1 AP). When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. [One-handed firearms](../../equipment/weapons-firearms.md) deal 1d6 points of damage (1d4 if wielded by Small creatures) and [two-handed firearms](../../equipment/weapons-firearms.md) deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger’s size, the critical multiplier of this attack is 20/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.
 
 #### Utility Shot (Ex)
 
@@ -112,17 +112,17 @@ At 3rd level, if the gunslinger has at least 1 grit point, she can perform all o
 
 #### Dead Shot (Ex)
 
-At 7th level, as a full-round action, the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger’s single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers.
+At 7th level, as a full-round action (3 AP), the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger’s single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers.
 
 Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this deed. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0). The gunslinger only misfires on a dead shot if all the attack rolls are misfires. She cannot perform this deed with a blunderbuss or other scatter weapon when attacking creatures in a cone. The gunslinger must spend 1 grit point to perform this deed.
 
 #### Startling Shot (Ex)
 
-At 7th level, a gunslinger with least 1 grit point can spend a standard action to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes [flat-footed](../../rules/appendices/conditions.md#flat-footed) until the start of its next turn.
+At 7th level, a gunslinger with least 1 grit point can spend a standard action (1 AP) to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes [flat-footed](../../rules/appendices/conditions.md#flat-footed) until the start of its next turn.
 
 #### Targeting (Ex)
 
-At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets. Creatures that are immune to sneak attacks are immune to these effects.
+At 7th level, as a full-round action (3 AP), the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets. Creatures that are immune to sneak attacks are immune to these effects.
 
 - **Arms**: On a hit, the target takes no damage from the hit but drops one carried item of the gunslinger’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet are not dropped on a hit.
 - **Head**: On a hit, the target is damaged normally, and is also [confused](../../rules/appendices/conditions.md#confused) for 1 round. This is a mind-affecting effect.
@@ -142,7 +142,7 @@ At 11th level, whenever the gunslinger rolls a misfire with a gun that has the b
 
 #### Lightning Reload (Ex)
 
-At 11th level, as long as the gunslinger has at least 1 grit point, she can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If she has the [Rapid Reload](../../rules/feats/rapid-reload.md) feat or is using an alchemical cartridge (or both), she can reload a single barrel of the weapon as a free action each round instead. Furthermore, using this deed does not provoke attacks of opportunity.
+At 11th level, as long as the gunslinger has at least 1 grit point, she can reload a single barrel of a one-handed or two-handed firearm as a swift action (1 AP) once per round. If she has the [Rapid Reload](../../rules/feats/rapid-reload.md) feat or is using an alchemical cartridge (or both), she can reload a single barrel of the weapon as a free action each round instead. Furthermore, using this deed does not provoke attacks of opportunity.
 
 #### Evasive (Ex)
 

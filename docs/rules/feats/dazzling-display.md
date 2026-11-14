@@ -6,7 +6,7 @@ Your skill with your favored weapon can frighten enemies.
 
 **Prerequisite**: [Weapon Focus](weapon-focus.md), proficiency with the selected weapon.
 
-**Benefit**: While wielding the weapon in which you have Weapon Focus, you can perform a bewildering show of prowess as a move action. Make an [Intimidate](../skills/intimidate.md) check to demoralize all foes within 30 feet who can see your display.
+**Benefit**: While wielding the weapon in which you have Weapon Focus, you can perform a bewildering show of prowess as a move action (1 AP). Make an [Intimidate](../skills/intimidate.md) check to demoralize all foes within 30 feet who can see your display.
 
 ??? note "Original rule"
 
@@ -16,4 +16,4 @@ Your skill with your favored weapon can frighten enemies.
 
     **Prerequisite**: Weapon Focus, proficiency with the selected weapon.
 
-    **Benefit**: While wielding the weapon in which you have Weapon Focus, you can perform a bewildering show of prowess as a full-round action. Make an Intimidate check to demoralize all foes within 30 feet who can see your display.
+    **Benefit**: While wielding the weapon in which you have Weapon Focus, you can perform a bewildering show of prowess as a full-round action (3 AP). Make an Intimidate check to demoralize all foes within 30 feet who can see your display.

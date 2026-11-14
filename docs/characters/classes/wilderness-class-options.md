@@ -34,7 +34,7 @@ As ancestral warriors or admirers of primeval predators, barbarians channel thei
 
 **Eclipsing Rage, Greater (Su)**: Whenever the barbarian rages, the light level within 20 feet of her lowers by two steps instead of one. She still can’t decrease the light level below normal darkness with this ability. A barbarian must be at least 10th level and have the eclipsing rage† power to choose this rage power.
 
-**Hissing Rage (Su)**: Once per hour, the barbarian can spit venom at an adjacent enemy as a standard action. She must make a touch attack to successfully spit on a foe in this way, but she can also apply this poison as a swift action when she hits with a bite attack. The DC of the save against this poison is equal to 10 + half the barbarian’s level + the barbarian’s Constitution modifier.
+**Hissing Rage (Su)**: Once per hour, the barbarian can spit venom at an adjacent enemy as a standard action (1 AP). She must make a touch attack to successfully spit on a foe in this way, but she can also apply this poison as a swift action (1 AP) when she hits with a bite attack. The DC of the save against this poison is equal to 10 + half the barbarian’s level + the barbarian’s Constitution modifier.
 
 Hissing Rage Poison (Su) Bite—contact or injury; save Fort; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 2 consecutive saves.
 
@@ -44,7 +44,7 @@ Hissing Rage Poison (Su) Bite—contact or injury; save Fort; frequency 1/round 
 
 **Raging Flyer (Ex)**: When raging, the barbarian adds her level as an enhancement bonus to Fly checks.
 
-**Raging Whirlwind (Su)**: The barbarian can create a whirlwind with a powerful spinning move as an immediate action after she confirms a critical hit with a melee attack. The whirlwind circles the target of her melee attack, lifting it in the air slightly until the end of the barbarian’s turn. The creature can attempt a Fortitude save (DC = 10 + half the barbarian’s level + the barbarian’s Constitution modifier) to negate this effect. If it fails the save, the target loses its Dexterity modifier to AC for the rest of the barbarian’s turn and lands prone on the ground at the end of her turn. Raging whirlwind has no effect on flying creatures. A barbarian must be at least 12th level to choose this rage power.
+**Raging Whirlwind (Su)**: The barbarian can create a whirlwind with a powerful spinning move as an immediate action (1 AP of your next turn) after she confirms a critical hit with a melee attack. The whirlwind circles the target of her melee attack, lifting it in the air slightly until the end of the barbarian’s turn. The creature can attempt a Fortitude save (DC = 10 + half the barbarian’s level + the barbarian’s Constitution modifier) to negate this effect. If it fails the save, the target loses its Dexterity modifier to AC for the rest of the barbarian’s turn and lands prone on the ground at the end of her turn. Raging whirlwind has no effect on flying creatures. A barbarian must be at least 12th level to choose this rage power.
 
 **Spring Rage (Su)**: The barbarian’s rage rejuvenates her physically and spiritually. While raging, she ignores penalties to her ability scores due to aging. She also ignores penalties from negative levels, though she retains any negative levels she has until they are removed normally. A barbarian can have only one season-themed rage power, choosing between spring, summer, autumn, or winter rage.
 
@@ -56,7 +56,7 @@ Hissing Rage Poison (Su) Bite—contact or injury; save Fort; frequency 1/round 
 
 **Tyrant Totem, Lesser (Ex)**: While raging, the barbarian’s bite attack deals damage as if the barbarian were one size larger than her actual size. The barbarian must have the animal fury rage power or a natural bite attack to choose this rage power.
 
-**Winter Rage (Su)**: As a standard action, the barbarian can bellow a 20-foot cone of frigid, snowy air. Until the beginning of the barbarian’s next turn, creatures moving through the cone move at half speed. A barbarian can have only one season-themed rage power, choosing between spring, summer, autumn, or winter rage.
+**Winter Rage (Su)**: As a standard action (1 AP), the barbarian can bellow a 20-foot cone of frigid, snowy air. Until the beginning of the barbarian’s next turn, creatures moving through the cone move at half speed. A barbarian can have only one season-themed rage power, choosing between spring, summer, autumn, or winter rage.
 
 ## Cavalier Order: Order of the Green
 
@@ -86,7 +86,7 @@ You are in touch with the most primal part of your subconscious. Your training a
 
 **Discipline Powers**: Through your psychic training, you can unleash the most animalistic portions of your subconscious, enhancing your senses and physical capabilities.
 
-**Enhanced Senses (Ex)**: Your mind can process sensory stimuli with exceptional efficiency, awakening you to a world most humanoids cannot comprehend. You gain scent as per the universal monster rule. You can spend 1 point from your phrenic pool as a standard action to amplify your sense of smell, gaining blindsense with a range of 30 feet for 1 minute. At 11th level, your blindsense is continuously active, and you can spend 1 point from your phrenic pool as a standard action to gain blindsight with a range of 30 feet for 1 minute.
+**Enhanced Senses (Ex)**: Your mind can process sensory stimuli with exceptional efficiency, awakening you to a world most humanoids cannot comprehend. You gain scent as per the universal monster rule. You can spend 1 point from your phrenic pool as a standard action (1 AP) to amplify your sense of smell, gaining blindsense with a range of 30 feet for 1 minute. At 11th level, your blindsense is continuously active, and you can spend 1 point from your phrenic pool as a standard action (1 AP) to gain blindsight with a range of 30 feet for 1 minute.
 
 **Survival Instinct (Ex)**: Through sheer willpower, you can keep your body going longer than should be possible. You add your Wisdom bonus (minimum +1) to your Constitution score to determine the negative hit point total at which you die, and as a bonus on Constitution checks to become stable or regain consciousness.
 
@@ -104,7 +104,7 @@ Like pollen on the wind or the roots of plants in the ground, your thoughts perm
 
 **Discipline Powers**: Your powers allow you to connect with and manipulate natural life.
 
-**Animal Mastery (Su)**: As a standard action, you can project your mind into the mind of an animal you can see, establishing a mental link that allows you to share the animal’s senses—hearing, seeing, smelling, tasting, and touching everything the animal does. You cannot use this ability on an animal if its Hit Dice exceed your psychic level. The animal can attempt a Will save to resist the effect. If it is successful, the animal is immune to this ability for 24 hours.
+**Animal Mastery (Su)**: As a standard action (1 AP), you can project your mind into the mind of an animal you can see, establishing a mental link that allows you to share the animal’s senses—hearing, seeing, smelling, tasting, and touching everything the animal does. You cannot use this ability on an animal if its Hit Dice exceed your psychic level. The animal can attempt a Will save to resist the effect. If it is successful, the animal is immune to this ability for 24 hours.
 
 While sharing an animal’s senses, your body is effectively unconscious, but you can end the effect as a free action. You can maintain the link for 1 hour per level, but the link is immediately severed if the animal moves beyond a range of 1 mile per psychic level you have. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -116,7 +116,7 @@ One with Nature (Sp, Su): You can cast detect animals or plants as a spell-like 
 
 At 9th level and every 4 levels thereafter, you gain an additional daily use of this ability.
 
-**Animate Tree (Su)**: At 13th level, you can animate a tree within 180 feet as a standard action. This functions as a treant’s animate trees ability, with the following exceptions. Each day, you can animate a number of trees equal to 3 + your Charisma modifier, and you can control up to one tree at a time, plus an additional tree at 15th level and every 2 levels thereafter. A tree remains animated for 10 minutes per level, or until dismissed by you or destroyed.
+**Animate Tree (Su)**: At 13th level, you can animate a tree within 180 feet as a standard action (1 AP). This functions as a treant’s animate trees ability, with the following exceptions. Each day, you can animate a number of trees equal to 3 + your Charisma modifier, and you can control up to one tree at a time, plus an additional tree at 15th level and every 2 levels thereafter. A tree remains animated for 10 minutes per level, or until dismissed by you or destroyed.
 
 ## Slayer Talents
 
@@ -124,7 +124,7 @@ The following slayer talents can be taken by any slayer who meets their prerequi
 
 **Sticks and Stones (Ex)**: The slayer gains [Catch Off-Guard](../../rules/feats/catch-off-guard.md) as a bonus feat.
 
-**Sunlight Strike (Ex)**: The slayer can reflect sunlight (or other sources of bright light) into the eyes of an adjacent target as a swift action, causing it to gain the [dazzled](../../rules/appendices/conditions.md#dazzled) condition for 1 round.
+**Sunlight Strike (Ex)**: The slayer can reflect sunlight (or other sources of bright light) into the eyes of an adjacent target as a swift action (1 AP), causing it to gain the [dazzled](../../rules/appendices/conditions.md#dazzled) condition for 1 round.
 
 **Sure Footing (Ex)**: The slayer gains a +5 bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to move on narrow surfaces and loose or uneven ground.
 

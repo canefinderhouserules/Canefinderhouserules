@@ -40,7 +40,7 @@ This armor functions as *hallowed chain*, except that it protects as a suit of +
 
 **Aura** moderate transmutation
 
-Thanks to the unusually light and fine links of this halfling-made +2 chain shirt, it imposes no armor check penalty and the wearer's maximum Dexterity bonus is +5. After a melee attack hits the wearer, he can take a 5-foot step as an immediate action, even if he already took a 5-foot step during his turn. Taking such a step does not interfere with the wearer's movement during his next turn. A suit of mail of sly steps is usually sized for Small creatures.
+Thanks to the unusually light and fine links of this halfling-made +2 chain shirt, it imposes no armor check penalty and the wearer's maximum Dexterity bonus is +5. After a melee attack hits the wearer, he can take a 5-foot step as an immediate action (1 AP of your next turn), even if he already took a 5-foot step during his turn. Taking such a step does not interfere with the wearer's movement during his next turn. A suit of mail of sly steps is usually sized for Small creatures.
 
 **Construction Requirements:** Craft Magic Arms and Armor, *expeditious retreat*, creator must be a halfling; **Cost** 13,400 gp
 
@@ -194,7 +194,7 @@ This small mithral anvil is sized for fine jewelry work and small enough for adv
 
 **Aura** strong conjuration
 
-These supple, leather-heeled boots can be worn comfortably whether the wearer has feet or hooves. The wearer can use *fog cloud* once per day by clicking the boots' heels together as a swift action. If the wearer is a tiefling, he can simultaneously teleport up to 1,000 feet as per *dimension door*.
+These supple, leather-heeled boots can be worn comfortably whether the wearer has feet or hooves. The wearer can use *fog cloud* once per day by clicking the boots' heels together as a swift action (1 AP). If the wearer is a tiefling, he can simultaneously teleport up to 1,000 feet as per *dimension door*.
 
 **Construction Requirements:** Craft Wondrous Item, Quicken Spell, *dimension door*, *fog cloud*, creator must be a tiefling; **Cost** 22,500 gp
 
@@ -288,7 +288,7 @@ This green leather eye patch allows a half-orc wearer to use the Intimidate skil
 
 Once per day on command, this beaded cord allows the wearer to make any choices for an ongoing nonpermanent illusion as if she were casting the illusion, although its duration is not reset and she cannot change its target or area. The spell's effect changes to match those choices, and its remaining duration plays out as if the wearer were its original caster. To affect the illusion, the wearer must succeed at a caster level check (with a +13 bonus for the headband's caster level) with a DC equal to 11 + the illusion's creator's caster level.
 
-If the wearer is an elf, she can use a second command word to cause the headband to produce illusory duplicates of up to six allies similar to how *mirror image* functions, once per day. The wearer can control any number of the duplicates with a move action provided they all receive the same commands, but otherwise they mimic the actions of the originals and remain in the original's square. When in the original creature's square, the image functions exactly as *mirror image*, but when the headband's wearer directs them separately, the images have an AC equal to the original's AC – 5 and are destroyed by any successful attack roll against that AC.
+If the wearer is an elf, she can use a second command word to cause the headband to produce illusory duplicates of up to six allies similar to how *mirror image* functions, once per day. The wearer can control any number of the duplicates with a move action (1 AP) provided they all receive the same commands, but otherwise they mimic the actions of the originals and remain in the original's square. When in the original creature's square, the image functions exactly as *mirror image*, but when the headband's wearer directs them separately, the images have an AC equal to the original's AC – 5 and are destroyed by any successful attack roll against that AC.
 
 **Construction Requirements:** Craft Wondrous Item, *dispel magic*, *mirror image*, *project image*, creator must be an elf; **Cost** 20,000 gp
 
@@ -298,7 +298,7 @@ If the wearer is an elf, she can use a second command word to cause the headband
 
 **Aura** faint evocation
 
-A cord of leather attached to this large, hollow animal horn allows it to hang from the neck, wrist, or belt. The bearer can blow the horn as a standard action up to three times per day to create a blast of sound that can be heard at a distance of up to 5 miles. If the blower is a half-orc, she can encode a message of up to 25 words (usually an order for deployed troops) into the sound and designate any number of allies within range. The designated allies automatically sense the blower's intention and learn the message.
+A cord of leather attached to this large, hollow animal horn allows it to hang from the neck, wrist, or belt. The bearer can blow the horn as a standard action (1 AP) up to three times per day to create a blast of sound that can be heard at a distance of up to 5 miles. If the blower is a half-orc, she can encode a message of up to 25 words (usually an order for deployed troops) into the sound and designate any number of allies within range. The designated allies automatically sense the blower's intention and learn the message.
 
 **Construction Requirements:** Craft Wondrous Item, *whispering wind*, creator must be a half-orc; **Cost** 6,000 gp
 
@@ -308,7 +308,7 @@ A cord of leather attached to this large, hollow animal horn allows it to hang f
 
 **Aura** moderate abjuration
 
-This shirt is stitched with dozens of symbols meant to attract bad luck, including bloodshot eyes and tengu skulls. Whenever an ally within 60 feet is subject to a curse, hex, jinx, or effect that would force her to roll multiple times for the same check and take the worse result, a tengu wearer can attempt to eat the effect as an immediate action. The wearer attempts a caster level check with a DC of 11 + the effect originator's caster level (or HD for an ability that has no caster level). If the attempt is successful, the wearer suffers the effect instead of the original target, and the wearer gains a number of temporary hit points equal to the effect's caster level or the target's HD, whichever is lower. These temporary hit points last for 1 minute. A jinx eater's shirt can successfully redirect an effect originating from a given creature only once each day, but otherwise has no limitation on usage.
+This shirt is stitched with dozens of symbols meant to attract bad luck, including bloodshot eyes and tengu skulls. Whenever an ally within 60 feet is subject to a curse, hex, jinx, or effect that would force her to roll multiple times for the same check and take the worse result, a tengu wearer can attempt to eat the effect as an immediate action (1 AP of your next turn). The wearer attempts a caster level check with a DC of 11 + the effect originator's caster level (or HD for an ability that has no caster level). If the attempt is successful, the wearer suffers the effect instead of the original target, and the wearer gains a number of temporary hit points equal to the effect's caster level or the target's HD, whichever is lower. These temporary hit points last for 1 minute. A jinx eater's shirt can successfully redirect an effect originating from a given creature only once each day, but otherwise has no limitation on usage.
 
 **Construction Requirements:** Craft Wondrous Item, *remove curse*, creator must be a tengu; **Cost** 11,300 gp
 

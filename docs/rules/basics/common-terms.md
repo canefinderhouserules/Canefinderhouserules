@@ -4,13 +4,13 @@ The Pathfinder RPG uses a number of terms, abbreviations, and definitions in pre
 
 **Ability Score**: Each creature has six ability scores: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. These scores represent a creature’s most basic attributes. The higher the score, the more raw potential and talent your character possesses.
 
-**Action**: An action is a discrete measurement of time during a round of combat. Using abilities, casting spells, and making attacks all require actions to perform. There are a number of different kinds of actions, such as a standard action, move action, swift action, free action, and full-round action.
+**Action**: An action is a discrete measurement of time during a round of combat. Using abilities, casting spells, and making attacks all require actions to perform. There are a number of different kinds of actions, such as a standard action (1 AP), move action (1 AP), swift action (1 AP), free action, and full-round action (3 AP).
 
 **Alignment**: Alignment represents a creature’s basic moral and ethical attitude. Alignment has two components: one describing whether a creature is lawful, neutral, or chaotic, followed by another that describes whether a character is good, neutral, or evil. Alignments are usually abbreviated using the first letter of each alignment component, such as LN for lawful neutral or CE for chaotic evil. Creatures that are neutral in both components are denoted by a single “N.”
 
 **Armor Class (AC)**: All creatures in the game have an Armor Class. This score represents how hard it is to hit a creature in combat. As with other scores, higher is better.
 
-**Base Attack Bonus (BAB)**: Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round action—see Chapter 8).
+**Base Attack Bonus (BAB)**: Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round action (3 AP)—see Chapter 8).
 
 **Bonus**: Bonuses are numerical values that are added to checks and statistical scores. Most bonuses have a type, and as a general rule, bonuses of the same type are not cumulative (do not “stack”)—only the greater bonus granted applies.
 
@@ -82,4 +82,4 @@ The Pathfinder RPG uses a number of terms, abbreviations, and definitions in pre
 
 **Supernatural Abilities (Su)**: Supernatural abilities are magical attacks, defenses, and qualities. These abilities can be always active or they can require a specific action to utilize. The supernatural ability’s description includes information on how it is used and its effects.
 
-**Turn**: In a round, a creature receives one turn, during which it can perform a wide variety of actions. Generally in the course of one turn, a character can perform one standard action, one move action, one swift action, and a number of free actions. Less-common combinations of actions are permissible as well, see Chapter 8 for more details.
+**Turn**: In a round, a creature receives one turn, during which it can perform a wide variety of actions. Generally in the course of one turn, a character can perform one standard action (1 AP), one move action (1 AP), one swift action (1 AP), and a number of free actions. Less-common combinations of actions are permissible as well, see Chapter 8 for more details.

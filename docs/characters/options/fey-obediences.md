@@ -53,7 +53,7 @@ Fey lords are listed by their portfolio rather than by name.
 ### Feysworn Boons
 
 1. **Twist Time (Sp)**: [*entropic shield*](../../magic/spells/entropic-shield.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*haste*](../../magic/spells/haste.md) 1/day
-2. **Borrowed Memories (Su)**: Once per day as a standard action, you can gain the effects of [*legend lore*](../../magic/spells/legend-lore.md), save that the legends are recalled immediately and you gain the most complete level of knowledge (as if the person, place, or thing were at hand, regardless of its actual position). Your recollection of the legend takes the form of a memory borrowed from someone familiar with the subject matter.
+2. **Borrowed Memories (Su)**: Once per day as a standard action (1 AP), you can gain the effects of [*legend lore*](../../magic/spells/legend-lore.md), save that the legends are recalled immediately and you gain the most complete level of knowledge (as if the person, place, or thing were at hand, regardless of its actual position). Your recollection of the legend takes the form of a memory borrowed from someone familiar with the subject matter.
 3. **Pause (Sp)**: You gain the ability to pause time for yourself or one creature you designate within 30 feet once per day. This functions as per [*time stop*](../../magic/spells/time-stop.md) but with a duration of 1 round.
 
 ## Fey lord of forgotten things, sadness and solitude
@@ -63,7 +63,7 @@ Fey lords are listed by their portfolio rather than by name.
 ### Feysworn Boons
 
 1. **Knowledge of the Lost (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*locate object*](../../magic/spells/locate-object.md) 2/day, or [*crushing despair*](../../magic/spells/crushing-despair.md) 1/day
-2. **Forgetfulness (Sp)**: Three times per day as a standard action, you can alter a creature’s memories as per [*modify memory*](../../magic/spells/modify-memory.md), except that doing so takes only a standard action regardless of how much time is edited. By expending two uses of this ability at once, you can modify up to 1 hour of the creature’s memory; by expending all three uses at once, you can modify up to 1 day.
+2. **Forgetfulness (Sp)**: Three times per day as a standard action (1 AP), you can alter a creature’s memories as per [*modify memory*](../../magic/spells/modify-memory.md), except that doing so takes only a standard action (1 AP) regardless of how much time is edited. By expending two uses of this ability at once, you can modify up to 1 hour of the creature’s memory; by expending all three uses at once, you can modify up to 1 day.
 3. **Absolute Solitude (Sp)**: Once per day, you can cast [*imprisonment*](../../magic/spells/imprisonment.md).
 
 ## Fey lord of laughter, mischief and transformation

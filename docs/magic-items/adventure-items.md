@@ -38,7 +38,7 @@ The following suit of armor is generally available only to members of the indica
 
 Spikes of impractical length adorn this *+1 spiked breastplate*. The armor’s enhancement bonus applies on attack rolls and damage rolls for attacks made with the armor spikes, as well as to its armor bonus to AC.
 
-As a full-round action, the wearer can claim a trophy from a slain foe and mount it on the armor’s spikes, gaining a +1 competence bonus on Intimidate checks and a +1 morale bonus on Will saves against fear. Each additional trophy mounted on the armor’s spikes increases these bonuses by 1. As an immediate action before rolling to confirm a critical hit, the wearer can call upon the armor to gain a morale bonus on the attack roll to confirm the critical hit equal to the total number of trophies on the armor. Doing so consumes one of the trophies.
+As a full-round action (3 AP), the wearer can claim a trophy from a slain foe and mount it on the armor’s spikes, gaining a +1 competence bonus on Intimidate checks and a +1 morale bonus on Will saves against fear. Each additional trophy mounted on the armor’s spikes increases these bonuses by 1. As an immediate action (1 AP of your next turn) before rolling to confirm a critical hit, the wearer can call upon the armor to gain a morale bonus on the attack roll to confirm the critical hit equal to the total number of trophies on the armor. Doing so consumes one of the trophies.
 
 The armor can hold up to four trophies. To provide any benefit, trophies must be from creatures that were slain by the wearer and whose Hit Dice were equal to at least half of the wearer’s total Hit Dice. The armor’s magic keeps the trophies from rotting away completely, but does nothing to keep them fresh or hide the stench of rotting flesh.
 
@@ -54,7 +54,7 @@ Suits of *armor of grim triumph* find use mainly among the orcs of the orc hold 
 
 **Slot** armor; **Price** 23,300 gp; **Weight** 25 lbs.
 
-This gold-plated *+1 mithral full plate armor* has images of the goddess of valor’s symbol etched into its immaculately gleaming surface. The armor requires 24 hours to attune itself to the wearer and her patron deity, after which point the images on the armor shift to match the symbol of the wearer’s patron deity (or remain associated with the goddess of valor if the wearer doesn’t worship a deity). Thereafter, once per day the armor’s wearer can offer a prayer to her deity (or the goddess of valor) as a swift action to increase the armor’s enhancement bonus to +2 for 10 rounds. For this duration, the armor also grants a +2 sacred bonus on saving throws. A paladin wearing *armor of the pious* can use her lay on hands ability one additional time per day; a mythic paladin wearing *armor of the pious* also gains one additional use of mythic power per day. An evil character who wears *armor of the pious* gains 2 negative levels. These negative levels remain as long as the armor is worn and disappear when the armor is removed—they never become permanent but can’t be overcome in any way as long as the armor is worn.
+This gold-plated *+1 mithral full plate armor* has images of the goddess of valor’s symbol etched into its immaculately gleaming surface. The armor requires 24 hours to attune itself to the wearer and her patron deity, after which point the images on the armor shift to match the symbol of the wearer’s patron deity (or remain associated with the goddess of valor if the wearer doesn’t worship a deity). Thereafter, once per day the armor’s wearer can offer a prayer to her deity (or the goddess of valor) as a swift action (1 AP) to increase the armor’s enhancement bonus to +2 for 10 rounds. For this duration, the armor also grants a +2 sacred bonus on saving throws. A paladin wearing *armor of the pious* can use her lay on hands ability one additional time per day; a mythic paladin wearing *armor of the pious* also gains one additional use of mythic power per day. An evil character who wears *armor of the pious* gains 2 negative levels. These negative levels remain as long as the armor is worn and disappear when the armor is removed—they never become permanent but can’t be overcome in any way as long as the armor is worn.
 
 **Construction**
 
@@ -92,7 +92,7 @@ This blue-black *+1 defiant* *chainmail* has a metal badge depicting the goddess
 
 This jet-black uniform is assigned to top agents in the merchant theocracy’s military—the Mercenary League. Wearers of this *+3 armored coat* continually benefit from the spell* undetectable alignment*. When following the orders of a member of the merchant priests, the wearer receives a +2 morale bonus on all attack rolls, saves, and skill checks related to completion of her mission.
 
-Anytime the wearer tries to disregard an order given by a member of the merchant priests, she must attempt a Will save with a DC equal to 10 + 1/2 the total Hit Dice of the creature giving the order. If she fails, she must follow the order to the best of her ability. If she succeeds, she can remove the armor as a move action to ignore the command.
+Anytime the wearer tries to disregard an order given by a member of the merchant priests, she must attempt a Will save with a DC equal to 10 + 1/2 the total Hit Dice of the creature giving the order. If she fails, she must follow the order to the best of her ability. If she succeeds, she can remove the armor as a move action (1 AP) to ignore the command.
 
 **Construction**
 
@@ -104,7 +104,7 @@ Anytime the wearer tries to disregard an order given by a member of the merchant
 
 **Slot** none; **Price** 2,370 gp; **Weight** 15 lbs.
 
-This *+1 heavy steel shield* is often stylized by its dwarven crafters to look like a door or archway. Once per day after uttering a command word, the wielder can press this shield against a portal to secure it as per the *hold portal* spell. The shield remains adhered to the portal for 3 minutes, after which the shield comes free. The wielder can remove the shield from her arm as a move action, leaving the shield attached to the portal for the remainder of the duration. Before the end of the duration, the wielder can pull the shield from the portal, automatically ending the effect.
+This *+1 heavy steel shield* is often stylized by its dwarven crafters to look like a door or archway. Once per day after uttering a command word, the wielder can press this shield against a portal to secure it as per the *hold portal* spell. The shield remains adhered to the portal for 3 minutes, after which the shield comes free. The wielder can remove the shield from her arm as a move action (1 AP), leaving the shield attached to the portal for the remainder of the duration. Before the end of the duration, the wielder can pull the shield from the portal, automatically ending the effect.
 
 **Construction**
 
@@ -116,7 +116,7 @@ This *+1 heavy steel shield* is often stylized by its dwarven crafters to look l
 
 **Slot** shield; **Price** 4,279 gp; **Weight** 6 lbs.
 
-This *+1 light steel shield* is decorated with bronze gears and vaguely resembles a feminine metal mask with a rune on its forehead. As a standard action, the wearer can command it to noisily transform into a buckler or back into its light shield form. Once per day, the wearer can use it to deliver a* shocking grasp*.
+This *+1 light steel shield* is decorated with bronze gears and vaguely resembles a feminine metal mask with a rune on its forehead. As a standard action (1 AP), the wearer can command it to noisily transform into a buckler or back into its light shield form. Once per day, the wearer can use it to deliver a* shocking grasp*.
 
 **Construction**
 
@@ -152,7 +152,7 @@ This style of *+1 chain shirt* is decorated with small agates, and was first cre
 
 **Slot** armor quality; **Price** +5,000 gp; **Weight** —
 
-This armor is usually decorated with engravings of storm clouds and lightning bolts. If an attack strikes the wearer and deals at least 10 points of electricity damage, the armor becomes visibly charged with electricity for 1 round. As a swift action on the wearer’s next turn that does not provoke an attack of opportunity, she may use *shocking grasp* as a spell-like ability, dealing 1d6 points of electricity damage for every 10 points of damage dealt to the wearer since her last turn (maximum 5d6 for 50 or more points of electrical damage taken). Determine the effect of the *shocking grasp* based on how much damage the triggering electrical attack would have dealt the wearer before any applicable resistances or immunities.
+This armor is usually decorated with engravings of storm clouds and lightning bolts. If an attack strikes the wearer and deals at least 10 points of electricity damage, the armor becomes visibly charged with electricity for 1 round. As a swift action (1 AP) on the wearer’s next turn that does not provoke an attack of opportunity, she may use *shocking grasp* as a spell-like ability, dealing 1d6 points of electricity damage for every 10 points of damage dealt to the wearer since her last turn (maximum 5d6 for 50 or more points of electrical damage taken). Determine the effect of the *shocking grasp* based on how much damage the triggering electrical attack would have dealt the wearer before any applicable resistances or immunities.
 
 **Construction**
 
@@ -180,7 +180,7 @@ When out of the water, a *coat of shells* keeps its wearer’s skin wet and cool
 
 **Slot** armor; **Price** 5,425 gp; **Weight** 20 lbs.
 
-This mottled green-and-brown *+1 shadow studded leather* has the symbol of the god of farming and hunting burned into the shoulder. Once per day as a standard action, the wearer can prepare a perfectly aimed shot; as long as the wearer’s next attack roll is made before the end of the next round, this attack ignores the target’s miss chance and AC bonus from cover and concealment (but not total concealment).
+This mottled green-and-brown *+1 shadow studded leather* has the symbol of the god of farming and hunting burned into the shoulder. Once per day as a standard action (1 AP), the wearer can prepare a perfectly aimed shot; as long as the wearer’s next attack roll is made before the end of the next round, this attack ignores the target’s miss chance and AC bonus from cover and concealment (but not total concealment).
 
 **Construction**
 
@@ -192,7 +192,7 @@ This mottled green-and-brown *+1 shadow studded leather* has the symbol of the g
 
 **Slot** armor; **Price** 20,550 gp; **Weight** 30 lbs.
 
-Once per day as a standard action, the wearer of this *+2 do-maru armor* can activate the armor to heal 4d8+9 points of damage and end any and all of the following conditions affecting the wearer: ability damage, blinded, confused, dazzled, deafened, diseased, exhausted, fatigued, nauseated, poisoned, and sickened. In addition, this effect functions as *break enchantment* upon a single additional effect of the wearer’s choice that is affecting the wearer and that can be legally affected by this effect. Such healing, however, comes at a cost. The *do-maru of broken flesh* creates vivid, ugly scars on the wearer, who takes 1d4 points of Charisma damage each time this ability is used.
+Once per day as a standard action (1 AP), the wearer of this *+2 do-maru armor* can activate the armor to heal 4d8+9 points of damage and end any and all of the following conditions affecting the wearer: ability damage, blinded, confused, dazzled, deafened, diseased, exhausted, fatigued, nauseated, poisoned, and sickened. In addition, this effect functions as *break enchantment* upon a single additional effect of the wearer’s choice that is affecting the wearer and that can be legally affected by this effect. Such healing, however, comes at a cost. The *do-maru of broken flesh* creates vivid, ugly scars on the wearer, who takes 1d4 points of Charisma damage each time this ability is used.
 
 Do-maru is medium armor that provides a +5 armor bonus. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +4, and an armor check penalty of -4. Do-maru costs 200 gp and weighs 30 lbs.
 
@@ -206,7 +206,7 @@ Do-maru is medium armor that provides a +5 armor bonus. The armor has an arcane 
 
 **Slot** shield; **Price** 2,527 gp; **Weight** 10 lbs.
 
-This *+1 heavy wooden shield* looks like it is made from pieces of driftwood lashed together with seaweed. The bearer may use* know direction* at will. Once per day when s truck by a melee attack, the bearer of a* driftwood shield* can use* warp wood* as an immediate action, affecting one Small or smaller wooden object wielded, held, or carried by the opponent who attacked her.
+This *+1 heavy wooden shield* looks like it is made from pieces of driftwood lashed together with seaweed. The bearer may use* know direction* at will. Once per day when s truck by a melee attack, the bearer of a* driftwood shield* can use* warp wood* as an immediate action (1 AP of your next turn), affecting one Small or smaller wooden object wielded, held, or carried by the opponent who attacked her.
 
 **Construction**
 
@@ -218,7 +218,7 @@ This *+1 heavy wooden shield* looks like it is made from pieces of driftwood las
 
 **Slot** armor; **Price** 60,500 gp; **Weight** 6 lbs.
 
-This suit of *+4 bolstering* *grinding* *adamantine full plate* bristles with long thorns and barbs along the edges of its heavy plates. These are gained from the* grinding* special ability, and also act as* +1 cruel* *armor spikes*. As a swift action whenever* Ebon Thorn’s* spikes damage an opponent, its wearer can attempt a Intimidate check to demoralize that opponent. The wearer doesn’t take the normal –4 penalty on Intimidate checks made against larger opponents.
+This suit of *+4 bolstering* *grinding* *adamantine full plate* bristles with long thorns and barbs along the edges of its heavy plates. These are gained from the* grinding* special ability, and also act as* +1 cruel* *armor spikes*. As a swift action (1 AP) whenever* Ebon Thorn’s* spikes damage an opponent, its wearer can attempt a Intimidate check to demoralize that opponent. The wearer doesn’t take the normal –4 penalty on Intimidate checks made against larger opponents.
 
 **Construction**
 
@@ -230,7 +230,7 @@ This suit of *+4 bolstering* *grinding* *adamantine full plate* bristles with lo
 
 **Slot** armor; **Price** 33,810 gp; **Weight** 15 lbs.
 
-This red *+2 slick electricity resistance leather armor* is crafted from the skin of the crimson hagfish, more commonly known as the slime eel. The armor exudes a slippery slime that grants its wearer a +5 competence bonus on Escape Artist and Swim checks. In addition, as a standard action once per day, the wearer can form an aura of electricity around himself that persists for 5 rounds. Creatures adjacent to the wearer when this power is activated and at the start of the wearer’s turn take 2d6 points of electricity damage and are staggered for 1 round. A successful DC 14 Reflex save halves the damage and negates the staggering effect. The aura persists for 5 rounds.
+This red *+2 slick electricity resistance leather armor* is crafted from the skin of the crimson hagfish, more commonly known as the slime eel. The armor exudes a slippery slime that grants its wearer a +5 competence bonus on Escape Artist and Swim checks. In addition, as a standard action (1 AP) once per day, the wearer can form an aura of electricity around himself that persists for 5 rounds. Creatures adjacent to the wearer when this power is activated and at the start of the wearer’s turn take 2d6 points of electricity damage and are staggered for 1 round. A successful DC 14 Reflex save halves the damage and negates the staggering effect. The aura persists for 5 rounds.
 
 **Construction**
 
@@ -242,7 +242,7 @@ This red *+2 slick electricity resistance leather armor* is crafted from the ski
 
 **Slot** armor; **Price** 4,890 gp; **Weight** 30 lbs.
 
-This *+1 stanching* *breastplate* is battle-scarred but polished with great care, and has a small sword-and-mountain symbol of the god of battle hammered just below the gorget. Once per day, the wearer can use* compel hostility*; if an adjacent ally is reduced to negative hit points or killed, the wearer may activate this as an immediate action instead of a standard action.
+This *+1 stanching* *breastplate* is battle-scarred but polished with great care, and has a small sword-and-mountain symbol of the god of battle hammered just below the gorget. Once per day, the wearer can use* compel hostility*; if an adjacent ally is reduced to negative hit points or killed, the wearer may activate this as an immediate action (1 AP of your next turn) instead of a standard action.
 
 **Construction**
 
@@ -254,7 +254,7 @@ This *+1 stanching* *breastplate* is battle-scarred but polished with great care
 
 **Slot** armor; **Price** 4,890 gp; **Weight** 30 lbs.
 
-This *+1 glamered scale mail* is decorated with fangs and is usually made from the hide of a reptilian beast such as a basilisk. The wearer can use* burst bonds* and* wrath* each once per day; as a full-round action, the wearer can activate both of these abilities at the same time.
+This *+1 glamered scale mail* is decorated with fangs and is usually made from the hide of a reptilian beast such as a basilisk. The wearer can use* burst bonds* and* wrath* each once per day; as a full-round action (3 AP), the wearer can activate both of these abilities at the same time.
 
 **Construction**
 
@@ -266,9 +266,9 @@ This *+1 glamered scale mail* is decorated with fangs and is usually made from t
 
 **Slot** armor; **Price** 30,350 gp; **Weight** 30 lbs.
 
-This pale-blue *+2 breastplate* is made from flowing ocean water enchanted to retain its shape. The armor check penalty of a suit of *flowing fortress armor* doesn’t apply to Swim checks. When the wearer speaks a command word, the armor flows on or off the wearer, allowing it to be donned or removed with a single move action from up to 10 feet away.
+This pale-blue *+2 breastplate* is made from flowing ocean water enchanted to retain its shape. The armor check penalty of a suit of *flowing fortress armor* doesn’t apply to Swim checks. When the wearer speaks a command word, the armor flows on or off the wearer, allowing it to be donned or removed with a single move action (1 AP) from up to 10 feet away.
 
-A suit of *flowing fortress armor* has 3 charges, which refresh automatically every day at sunrise. By spending 1 charge as a standard action, the wearer transforms into water for one of two effects.
+A suit of *flowing fortress armor* has 3 charges, which refresh automatically every day at sunrise. By spending 1 charge as a standard action (1 AP), the wearer transforms into water for one of two effects.
 
 **Gush**: The wearer transforms into water and bursts forward like a geyser up to 40 feet in any direction, then returns to her normal form, allowing her to cross chasms or vault obstacles. The wearer may attempt bull rush combat maneuvers against any creatures and moveable objects along her path, regardless of size. The wearer rolls a single combat maneuver check and applies the result to each creature within the area. This bull rush does not provoke an attack of opportunity. If the wearer encounters an immovable object, she may attempt a Strength check to destroy that object as a free action. On a failed bull rush combat maneuver check or Strength check, the wearer’s progress is stopped and she reforms next to the obstacle that blocked her path.
 
@@ -284,7 +284,7 @@ A suit of *flowing fortress armor* has 3 charges, which refresh automatically ev
 
 **Slot** armor; **Price** 4,180 gp; **Weight** 50 lbs.
 
-This *+1 half-plate* is usually sized for a dwarf and decorated with one or more sacred hammer symbols of the god of the forge. Once per day, the wearer may use* mending*,* protection from evil*, and* spark*. Once per day as a full-round action, the wearer can attempt a Knowledge check (with a +10 bonus) to identify a creature he is currently in combat with, even if he possesses no ranks in the appropriate Knowledge skill.
+This *+1 half-plate* is usually sized for a dwarf and decorated with one or more sacred hammer symbols of the god of the forge. Once per day, the wearer may use* mending*,* protection from evil*, and* spark*. Once per day as a full-round action (3 AP), the wearer can attempt a Knowledge check (with a +10 bonus) to identify a creature he is currently in combat with, even if he possesses no ranks in the appropriate Knowledge skill.
 
 **Construction**
 
@@ -296,7 +296,7 @@ This *+1 half-plate* is usually sized for a dwarf and decorated with one or more
 
 **Slot** armor; **Price** 22,675 gp; **Weight** 45 lbs.
 
-Crafted by spirit-shamans of the high ice, this ancient *+1 ghost touch four-mirror armor* consists of four polished steel plates harnessed together with leather shoulder straps. Two round plates protect the wearer’s front and back, while two smaller rectangular plates cover the sides of the torso. The wearer of *ghost mirror armor* can cast *deathwatch* (caster level 1st) three times per day. In addition, when the wearer is attacked by an incorporeal undead creature, the armor automatically casts *protection from evil* on the wearer as an immediate action up to once per day.
+Crafted by spirit-shamans of the high ice, this ancient *+1 ghost touch four-mirror armor* consists of four polished steel plates harnessed together with leather shoulder straps. Two round plates protect the wearer’s front and back, while two smaller rectangular plates cover the sides of the torso. The wearer of *ghost mirror armor* can cast *deathwatch* (caster level 1st) three times per day. In addition, when the wearer is attacked by an incorporeal undead creature, the armor automatically casts *protection from evil* on the wearer as an immediate action (1 AP of your next turn) up to once per day.
 
 **Construction**
 
@@ -322,7 +322,7 @@ This thick coat of *+2 scale mail* is crafted from waxy scales of varying sizes 
 
 The following suit of armor is generally available only to members of the indicated race or ethnicity.
 
-A suit of *gnome scrap armor* protects its wearer as* +2 studded leather armor*, but myriad metal trinkets festoon it in place of studs. A number of these badges bear a special dweomer; each such badge can be removed as a move action, at which point it turns into a full-sized version of the trinket. The wearer automatically recognizes which badges have this property, and only the wearer can detach them.
+A suit of *gnome scrap armor* protects its wearer as* +2 studded leather armor*, but myriad metal trinkets festoon it in place of studs. A number of these badges bear a special dweomer; each such badge can be removed as a move action (1 AP), at which point it turns into a full-sized version of the trinket. The wearer automatically recognizes which badges have this property, and only the wearer can detach them.
 
 A fully stocked suit of *gnome scrap armor* holds 20 badges representing the following gear: a flask of acid, two flasks of alchemist’s fire, a block and tackle, a buckler, a crowbar, a heavy pick, a folded net, a* potion of invisibility*, a* potion of lesser restoration*, a shovel, two lit sunrods, two tanglefoot bags, a throwing axe, a thunderstone, a warhammer, a bottle of fine wine, and a winter blanket. When the armor has 10 or fewer badges remaining, it is reduced to* +1 studded leather armor* until sufficient badges are returned. If all the patches are removed, the armor becomes nonmagical masterwork studded leather armor.
 
@@ -398,7 +398,7 @@ This sleek and mobile armor is magically streamlined to assist in swimming rathe
 
 **Slot** armor; **Price** 2,380 gp; **Weight** 40 lbs.
 
-This ugly *+1 chainmail* resists polishing and easily acquires bent links and other cosmetic damage from everyday use, though such blemishes never impair its function as armor. Once per day as a standard action, the wearer can afflict one target within 30 feet with bad luck, giving it a –2 penalty to Armor Class, on attack rolls, or on saving throws (wearer’s choice) for 1 minute. In addition, once per day, the wearer can use* protection from good*.
+This ugly *+1 chainmail* resists polishing and easily acquires bent links and other cosmetic damage from everyday use, though such blemishes never impair its function as armor. Once per day as a standard action (1 AP), the wearer can afflict one target within 30 feet with bad luck, giving it a –2 penalty to Armor Class, on attack rolls, or on saving throws (wearer’s choice) for 1 minute. In addition, once per day, the wearer can use* protection from good*.
 
 **Construction**
 
@@ -422,7 +422,7 @@ As the *guarding* property, except as a free action, the wearer selects any numb
 
 **Slot** armor; **Price** 22,165 gp; **Weight** 25 lbs.
 
-This grotesque suit of *+1 hide armor* is stitched together from the hides of gugs from the underworld of the Dreamlands and the nightmare realm of Leng. The wearer of a suit of* gug hide* gains the benefits of Leng’s basic infusion when in an underground environment. Once per day as a standard action, the wearer can cause his arms to each split into two arms at the elbow, each bearing a furred hand like that of a horrid subterranean gug. The wearer must designate one hand as his primary hand; all others are considered off hands. He can use any of his hands for other purposes that require free hands. A user who has Two Weapon Fighting is treated as if he had Multi-Weapon Fighting while these extra arms are activated. This ability lasts for 10 minutes and has no effect if the wearer already has more than two arms.
+This grotesque suit of *+1 hide armor* is stitched together from the hides of gugs from the underworld of the Dreamlands and the nightmare realm of Leng. The wearer of a suit of* gug hide* gains the benefits of Leng’s basic infusion when in an underground environment. Once per day as a standard action (1 AP), the wearer can cause his arms to each split into two arms at the elbow, each bearing a furred hand like that of a horrid subterranean gug. The wearer must designate one hand as his primary hand; all others are considered off hands. He can use any of his hands for other purposes that require free hands. A user who has Two Weapon Fighting is treated as if he had Multi-Weapon Fighting while these extra arms are activated. This ability lasts for 10 minutes and has no effect if the wearer already has more than two arms.
 
 **Construction**
 
@@ -472,7 +472,7 @@ When a great permanent storm drowned their coast, its inhabitants have been forc
 
 This immaculate set of *+1 full plate* adorned with gilt flourishes and imagery of lions, and embossed red accents. When worn, the armor grants its wearer a +2 sacred bonus on all saves against spells with the evil descriptor or cast by evil creatures.
 
-Once per day as a swift action, the wearer of *honor’s panoply* can call upon the goddess of valor for protection. For the next 5 minutes, the armor glows with an aura of golden light, and any hostile creature within 20 feet of the wearer must succeed at a DC 14 Will save or take a –2 penalty to its Armor Class and on attack rolls and saving throws for the duration, or until it hits the wearer with an attack. The wearer can dismiss this effect before the duration expires as a swift action on his turn to heal itself of 3d8+5 points of damage in a burst of healing energy.
+Once per day as a swift action (1 AP), the wearer of *honor’s panoply* can call upon the goddess of valor for protection. For the next 5 minutes, the armor glows with an aura of golden light, and any hostile creature within 20 feet of the wearer must succeed at a DC 14 Will save or take a –2 penalty to its Armor Class and on attack rolls and saving throws for the duration, or until it hits the wearer with an attack. The wearer can dismiss this effect before the duration expires as a swift action (1 AP) on his turn to heal itself of 3d8+5 points of damage in a burst of healing energy.
 
 A creature with the Craft Magic Arms and Armor feat and at least 5 ranks in the Craft (armor) skill can perform a ritual to corrupt *honor’s panoply*, shifting its dedication to an evil deity. This ritual takes 6 days to complete, costs 2,000 gp in incense and materials, and requires a successful DC 19 Craft (armor) check. Once performed, the ritual transforms the armor into* infamy’s panoply*; the armor turns black, the lions become animals sacred to the evil deity to which the armor is dedicated, and the red accents turn the crimson of fresh blood. The ritual also inverts the armor’s effects: the save bonus is now profane and applies to spells with the good descriptor or cast by good creatures, and the armor now emanates a palpable aura of horror, causing non-allies to be shaken on a failed save. Dismissing this effect now grants the wearer fast healing 2 for 1 minute.
 
@@ -486,7 +486,7 @@ A creature with the Craft Magic Arms and Armor feat and at least 5 ranks in the 
 
 **Slot** armor; **Price** 20,375 gp; **Weight** 20 lbs.
 
-This suit of *+3 studded leather armor* is decorated with metal skulls. Once per day as a standard action, the wearer can command the skulls to unleash a cacophonous chorus of howls, causing all creatures within a 30-foot spread to make a DC 16 Will save to avoid becoming frightened for 1d4 rounds. The wearer can choose up to three targets (plus himself) in the area of effect to be exempt from the effect. The wearer of a suit of* howling skull armor *gains a +4 bonus on all saving throws against fear effects. Each time the wearer of* howling skull armor *succeeds at a saving throw against a fear effect created by someone other than himself, he gains a +2 bonus on Will saves for 1 round.
+This suit of *+3 studded leather armor* is decorated with metal skulls. Once per day as a standard action (1 AP), the wearer can command the skulls to unleash a cacophonous chorus of howls, causing all creatures within a 30-foot spread to make a DC 16 Will save to avoid becoming frightened for 1d4 rounds. The wearer can choose up to three targets (plus himself) in the area of effect to be exempt from the effect. The wearer of a suit of* howling skull armor *gains a +4 bonus on all saving throws against fear effects. Each time the wearer of* howling skull armor *succeeds at a saving throw against a fear effect created by someone other than himself, he gains a +2 bonus on Will saves for 1 round.
 
 **Construction**
 
@@ -550,7 +550,7 @@ This large iron shield acts as a *+1 animated light fortification heavy steel sh
 
 The overlapping leather plates of this *+2 lamellar cuirass* oddly feel more like insect chitin than the supple leather they are crafted from. This armor’s lightweight construction gives it a maximum Dexterity bonus of +6.
 
-The wearer of a *locust cuirass* can take 10 on Acrobatics checks to jump even if distracted or in danger. Once per day as an immediate action, the wearer can summon a swarm of locusts that surround her and support her weight during a fall, causing her to drift slowly down to the ground, similar to *feather fall*. While falling, the wearer can move up to 5 feet in any horizontal direction for every 1 foot she falls, at a speed of 60 feet per round. The wearer takes no damage upon landing. The effect ends as soon as the wearer touches the ground or after 6 rounds, whichever comes first. If the effect expires while the wearer is still in the air, she falls the remaining distance as normal.
+The wearer of a *locust cuirass* can take 10 on Acrobatics checks to jump even if distracted or in danger. Once per day as an immediate action (1 AP of your next turn), the wearer can summon a swarm of locusts that surround her and support her weight during a fall, causing her to drift slowly down to the ground, similar to *feather fall*. While falling, the wearer can move up to 5 feet in any horizontal direction for every 1 foot she falls, at a speed of 60 feet per round. The wearer takes no damage upon landing. The effect ends as soon as the wearer touches the ground or after 6 rounds, whichever comes first. If the effect expires while the wearer is still in the air, she falls the remaining distance as normal.
 
 **Construction**
 
@@ -574,7 +574,7 @@ This *+1 chainmail* is decorated with a row of small metal disks, each stamped w
 
 **Slot** armor; **Price** 32,350 gp; **Weight** 75 lbs.
 
-Three times per day, as an immediate action when struck by a melee attack while he is touching the ground, the wearer of this *+1 titanic* *stoneplate* can cause the earth around him to shake, turning the area into difficult terrain. The radius of this effect is equal to 1d4 x 5 feet, and any creature in the affected area must succeed at a DC 15 Reflex save or fall prone.
+Three times per day, as an immediate action (1 AP of your next turn) when struck by a melee attack while he is touching the ground, the wearer of this *+1 titanic* *stoneplate* can cause the earth around him to shake, turning the area into difficult terrain. The radius of this effect is equal to 1d4 x 5 feet, and any creature in the affected area must succeed at a DC 15 Reflex save or fall prone.
 
 **Construction**
 
@@ -600,7 +600,7 @@ Each of these *+2 glamered chain shirts* bears a permanent illusion of being a f
 
 **Slot** armor; **Price** 68,400 gp; **Weight** 45 lbs.
 
-This distinctive *+4 adamantine glamered o-yoroi* was designed for scions of an eastern empire’s imperial families and their highest-ranking and most loyal samurai, providing its wearer with DR 3/—. In addition, the armor stores the kinetic energy from blows made against it. Once the armor has negated 15 total points of damage, the wearer can release the stored energy as a swift action against a single creature within 10 feet. This energy takes the form of a force effect, and the wearer must make an attack roll at his base attack bonus +10. The energy deals 15 points of force damage to the target, and the target must make a DC 22 Fortitude save or be stunned 1 for 1 round. If the wearer chooses not to release this energy, the armor still provides damage reduction but absorbs no more energy until the stored energy is released.
+This distinctive *+4 adamantine glamered o-yoroi* was designed for scions of an eastern empire’s imperial families and their highest-ranking and most loyal samurai, providing its wearer with DR 3/—. In addition, the armor stores the kinetic energy from blows made against it. Once the armor has negated 15 total points of damage, the wearer can release the stored energy as a swift action (1 AP) against a single creature within 10 feet. This energy takes the form of a force effect, and the wearer must make an attack roll at his base attack bonus +10. The energy deals 15 points of force damage to the target, and the target must make a DC 22 Fortitude save or be stunned 1 for 1 round. If the wearer chooses not to release this energy, the armor still provides damage reduction but absorbs no more energy until the stored energy is released.
 
 **Construction**
 
@@ -624,7 +624,7 @@ This black *+1 spiked studded leather armor* is outfitted with dozens of intimid
 
 **Slot** armor; **Price** 3,300 gp; **Weight** 40 lbs.
 
-The links of this *+1 chainmail* are a dull, sickly white color that resembles old bone, and the suit’s gauntlets are tipped with silver-black finger spikes. Once per day as a standard action, the wearer can ask one question of an undead creature or a destroyed undead creature’s corpse, as if using* speak with dead*, except the target can only answer questions that pertain to events that occurred after it became undead.
+The links of this *+1 chainmail* are a dull, sickly white color that resembles old bone, and the suit’s gauntlets are tipped with silver-black finger spikes. Once per day as a standard action (1 AP), the wearer can ask one question of an undead creature or a destroyed undead creature’s corpse, as if using* speak with dead*, except the target can only answer questions that pertain to events that occurred after it became undead.
 
 **Construction**
 
@@ -686,7 +686,7 @@ This *+1 bitter* *leather armor* looks much like a blacksmith’s apron or an al
 
 **Slot** armor; **Price** 24,175 gp; **Weight** 30 lbs.
 
-This tattered suit of *+1 deathless studded leather* has a black leather hood attached to the neck. Although the face of the hood is open and doesn’t impair the wearer’s senses, the wearer’s face is always hidden in deep shadow regardless of the ambient light level. Once per day as an immediate action, when the wearer reduces an undead creature to 0 or fewer hit points, the wearer can draw upon the departed creature’s essence to gain treat her level as 2 higher spells and spell-like abilities with the death descriptor and spells and spell-like abilities from the Death and Repose domains. This effect lasts for 1 hour.
+This tattered suit of *+1 deathless studded leather* has a black leather hood attached to the neck. Although the face of the hood is open and doesn’t impair the wearer’s senses, the wearer’s face is always hidden in deep shadow regardless of the ambient light level. Once per day as an immediate action (1 AP of your next turn), when the wearer reduces an undead creature to 0 or fewer hit points, the wearer can draw upon the departed creature’s essence to gain treat her level as 2 higher spells and spell-like abilities with the death descriptor and spells and spell-like abilities from the Death and Repose domains. This effect lasts for 1 hour.
 
 **Construction**
 
@@ -712,7 +712,7 @@ This metallic *+1 chain shirt* is woven with the petals, buds, and stalks of num
 
 This *+1 light steel shield* is fashioned in the shape of a scarab beetle—a creature that functions as a psychopomp for the goddess of death, guiding the souls of the departed into the afterlife.* Scarab shields *are especially favored by archaeologists and tomb raiders for the protection they grant against guardians and vermin frequently found in ancient ruins and forgotten tombs.
 
-Once per day on command, a *scarab shield* grants its wielder a +2 sacred bonus on saving throws against fear and death effects for 3 minutes. At any time while this bonus is in effect, the wielder can end the effect as a swift action for a burst of healing energy. The wielder loses the saving throw bonus, but is healed of 1d8+3 points of damage.
+Once per day on command, a *scarab shield* grants its wielder a +2 sacred bonus on saving throws against fear and death effects for 3 minutes. At any time while this bonus is in effect, the wielder can end the effect as a swift action (1 AP) for a burst of healing energy. The wielder loses the saving throw bonus, but is healed of 1d8+3 points of damage.
 
 In addition, a *scarab shield* can protect its wielder from swarms. If a mindless swarm attempts to enter the wielder’s space, the swarm must attempt a DC 11 Will save. If the save succeeds, the swarm can enter the wielder’s space and attack the wielder normally. If the save fails, the swarm instinctively avoids the space occupied by the wielder, completely ignoring the wielder for 3 rounds. This effect ends if the wielder makes any attacks, but the wielder may use non-attack spells or otherwise act without ending the effect. This ability functions once per day.
 
@@ -780,7 +780,7 @@ This *+1 scale mail* is made from hardened, reinforced snakeskin scales. The arm
 
 **Slot** shield; **Price** 14,170 gp; **Weight** 15 lbs.
 
-This *+2 mirrored heavy steel shield* is infused with the spite of divs, allowing its bearer to terrify and disgust foes with twisted reflections of themselves. As a move action up to three times per day, the wielder can show an adjacent creature its reflection in the shield’s mirrored surface. As the creature looks at its mirror image, the image changes to show the creature hideously warped, covered with plague sores, or otherwise twisted. The creature must succeed at a DC 16 Will save or become shaken and sickened for 2d4 rounds. This is a mind-affecting fear effect, and it can be avoided as though it were a gaze attack.
+This *+2 mirrored heavy steel shield* is infused with the spite of divs, allowing its bearer to terrify and disgust foes with twisted reflections of themselves. As a move action (1 AP) up to three times per day, the wielder can show an adjacent creature its reflection in the shield’s mirrored surface. As the creature looks at its mirror image, the image changes to show the creature hideously warped, covered with plague sores, or otherwise twisted. The creature must succeed at a DC 16 Will save or become shaken and sickened for 2d4 rounds. This is a mind-affecting fear effect, and it can be avoided as though it were a gaze attack.
 
 **Construction**
 
@@ -794,7 +794,7 @@ This *+2 mirrored heavy steel shield* is infused with the spite of divs, allowin
 
 This *+2 buckler* is emblazoned with a swirl of stars and comets. Many star-gazing monks commissioned these bucklers as markers of high social standing; they had them each decorated with unique depictions of constellations, comets, phases of the moon, or other distinctive astronomical sights, and used them as much as decor as for defense.
 
-As a swift action, the user of a *starsling buckler* can cause the face to illuminate and whirl to life, duplicating the effect of the *light* spell. The stars, comets, and sun begin to glow as they lift off the shield and spin around in a brilliant display. They can be fired from the spinning celestial vortex as if via a *+2 sling* (the user is considered proficient with the sling for purposes of resolving such attacks from a *starsling buckler*). All feats and proficiencies related to slings apply to stars fired from a *starsling buckler*. These sling attacks cannot be made as offhand weapon attacks. The shield contains five sling stars— once all five have been fired, new sling stars are restored to the shield automatically after 1 minute.
+As a swift action (1 AP), the user of a *starsling buckler* can cause the face to illuminate and whirl to life, duplicating the effect of the *light* spell. The stars, comets, and sun begin to glow as they lift off the shield and spin around in a brilliant display. They can be fired from the spinning celestial vortex as if via a *+2 sling* (the user is considered proficient with the sling for purposes of resolving such attacks from a *starsling buckler*). All feats and proficiencies related to slings apply to stars fired from a *starsling buckler*. These sling attacks cannot be made as offhand weapon attacks. The shield contains five sling stars— once all five have been fired, new sling stars are restored to the shield automatically after 1 minute.
 
 **Construction**
 
@@ -846,7 +846,7 @@ This red-and-gold *+1 spell storing chain shirt* is designed to be worn over or 
 
 The face of this *+2 heavy steel shield* is lined with sheets of riveted steel to absorb more impact. A *surefooted shield* grants its wielder a +2 bonus on his CMD versus awesome blow, bull rush, and overrun combat maneuvers and on Reflex saves against trample attacks.
 
-Additionally, up to three times per day, whenever an enemy’s melee attack misses the wielder, an enemy fails a combat maneuver against the wielder, or the wielder succeeds at a Reflex save against a trample attack, the wielder can move 5 feet as an immediate action; this movement does not provoke attacks of opportunity and does not count as a 5-foot step.
+Additionally, up to three times per day, whenever an enemy’s melee attack misses the wielder, an enemy fails a combat maneuver against the wielder, or the wielder succeeds at a Reflex save against a trample attack, the wielder can move 5 feet as an immediate action (1 AP of your next turn); this movement does not provoke attacks of opportunity and does not count as a 5-foot step.
 
 **Construction**
 
@@ -910,7 +910,7 @@ This suit of *+1 stanching*UE* padded armor *is of traditional desert design, co
 
 **Slot** armor; **Price** 2,780 gp; **Weight** 15 lbs.
 
-This *+1 leather armor* usually looks like heavy protective work clothing, such as the garb of a professional blacksmith, butcher, or woodcutter. Once per day when an adjacent ally falls unconscious, the wearer can use* cure light wounds* on that ally as a swift action; if the wearer falls unconscious and this ability has not already been expended for the day, it automatically triggers on the wearer.
+This *+1 leather armor* usually looks like heavy protective work clothing, such as the garb of a professional blacksmith, butcher, or woodcutter. Once per day when an adjacent ally falls unconscious, the wearer can use* cure light wounds* on that ally as a swift action (1 AP); if the wearer falls unconscious and this ability has not already been expended for the day, it automatically triggers on the wearer.
 
 **Construction**
 
@@ -948,7 +948,7 @@ Narrow strips of brilliant silk cloth are woven through the rings of this *+1 ch
 
 Cut from the colorful flesh of an enormous frog, this *+1 hide armor* squishes thickly and tightly around the body as it is donned. Light sheens brightly off the slippery skin, revealing vivid patterns in myriad hues.
 
-Five times per day as a swift action, the wearer of a *vibrant frog hide* can cause the armor to ooze a virulent toxin. The next creature that touches the wearer must succeed at a DC 16 Fortitude save or take 1d3 points of Wisdom damage every round for 4 rounds. A poisoned creature can attempt the save again at the beginning of each of its turns, and is cured after one successful save. Successful unarmed strikes and natural weapon attacks made by or against the wearer count as touching. The wearer is immune to his own *vibrant frog hide’s* poison.
+Five times per day as a swift action (1 AP), the wearer of a *vibrant frog hide* can cause the armor to ooze a virulent toxin. The next creature that touches the wearer must succeed at a DC 16 Fortitude save or take 1d3 points of Wisdom damage every round for 4 rounds. A poisoned creature can attempt the save again at the beginning of each of its turns, and is cured after one successful save. Successful unarmed strikes and natural weapon attacks made by or against the wearer count as touching. The wearer is immune to his own *vibrant frog hide’s* poison.
 
 After being worn for 24 hours, a suit of *vibrant frog hide* armor causes the wearer to grow a froglike tongue. The tongue acts as a whip for the purposes of damage, reach, and special features, except that it is a natural weapon with which the wearer is automatically proficient. In addition to its normal trip and disarm weapon features, the tongue may also be used to perform a dragAPG combat maneuver with a +2 circumstance bonus, but only to pull a creature closer to the wearer (the wearer cannot step back as part of this attack). The wearer cannot speak or cast spells with verbal components for 1 round after he uses his new tongue to attack (including any attacks of opportunity).
 
@@ -988,7 +988,7 @@ This flat, gray *+1 breastplate* is embossed with the iron fin symbol of the Wav
 
 Sleek dull gray stripes line the sides of this *+1 mithral chain shirt*, slightly marring the otherwise shining metal. When worn, the wearer’s clothing and hair dance about as though caught in a faint breeze, no matter the prevailing weather conditions.
 
-Three times per day as a standard action, the wearer can momentarily transform into a surge of living wind, moving up to 60 feet in a straight line. This line need not be horizontal; the effect can be used to traverse hazards or reach elevated platforms. All creatures in the line between the wearer’s starting point and destination are blasted by the squall. The wearer attempts a trip combat maneuver against every creature in the area, with a +5 circumstance bonus on those checks. Failed trip attempts do not stop the wearer’s movement, and these maneuvers and movement do not provoke any attacks of opportunity. Any flying creature in the area must succeed at a DC 15 Fly check or fall 20 feet, taking appropriate damage and falling prone if it reaches a solid surface.
+Three times per day as a standard action (1 AP), the wearer can momentarily transform into a surge of living wind, moving up to 60 feet in a straight line. This line need not be horizontal; the effect can be used to traverse hazards or reach elevated platforms. All creatures in the line between the wearer’s starting point and destination are blasted by the squall. The wearer attempts a trip combat maneuver against every creature in the area, with a +5 circumstance bonus on those checks. Failed trip attempts do not stop the wearer’s movement, and these maneuvers and movement do not provoke any attacks of opportunity. Any flying creature in the area must succeed at a DC 15 Fly check or fall 20 feet, taking appropriate damage and falling prone if it reaches a solid surface.
 
 Creatures more than one size category larger than the wearer are not affected by a wearer taking advantage of a suit of *windstrider mail’s* living wind effect, but they do not inhibit the wearer’s movement. If the wearer’s path is blocked by an object, such as a door, she may continue moving forward with a successful Strength check to break the obstacle as a free action. If this check fails, her movement is halted and she takes damage as if she had fallen the distance that she traveled. If the wearer’s movement does not end on a surface that can support her weight, she falls to the ground upon transforming back.
 
@@ -1006,7 +1006,7 @@ Creatures more than one size category larger than the wearer are not affected by
 
 Black feathers adorn the tips of this ebony *+1 composite longbow* (+5 Strength bonus). The bow gives off the faint scent of brimstone when the string is drawn back.
 
-Three times per day as a swift action, the wielder of an *angelfall bow* can imbue the next arrow she fires that round with the bow’s inherent raging energy. On a hit, the attack deals damage as normal and acts as a trip combat maneuver to knock the target prone, treating the result of the wielder’s attack roll as the combat maneuver check result. If the target is flying, it must immediately succeed at a DC 25 Fly check to stay aloft or plummet to the ground.
+Three times per day as a swift action (1 AP), the wielder of an *angelfall bow* can imbue the next arrow she fires that round with the bow’s inherent raging energy. On a hit, the attack deals damage as normal and acts as a trip combat maneuver to knock the target prone, treating the result of the wielder’s attack roll as the combat maneuver check result. If the target is flying, it must immediately succeed at a DC 25 Fly check to stay aloft or plummet to the ground.
 
 Once per day when the wielder of an *angelfall bow* would be affected by a spell or spell-like ability with the light descriptor, she can attempt an immediate dispel check (using the caster level of the bow) to counter the effect. This manifests as a pulsating darkness emerging from the bow and swallowing the light.
 
@@ -1020,7 +1020,7 @@ Once per day when the wielder of an *angelfall bow* would be affected by a spell
 
 **Slot** none; **Price** 12,312 gp; **Weight** 5 lbs.
 
-This pitch-black *+1 flaming warhammer* is bereft of any ornamentation beyond an engraving on its face of a bull’s head with an open flame, the unholy symbol of the archdevil the archdevil of fire and sacrifice. Whenever the wielder of *ash hammer* successfully strikes a creature with the hammer, he can create a cloud of ash around the target as an immediate action. This ash shares the target’s space and persists for 1 round before dissipating. The ash does not obscure sight, but the target and any creatures that enter the cloud must succeed at a DC 14 Fortitude save or take a –2 penalty on attack rolls for 1 round as they cough and choke on the fiery ash. Holding one’s breath provides no benefit, but creatures that don’t breathe or that have any kind of fire immunity or resistance are immune to the cloud’s effects.
+This pitch-black *+1 flaming warhammer* is bereft of any ornamentation beyond an engraving on its face of a bull’s head with an open flame, the unholy symbol of the archdevil the archdevil of fire and sacrifice. Whenever the wielder of *ash hammer* successfully strikes a creature with the hammer, he can create a cloud of ash around the target as an immediate action (1 AP of your next turn). This ash shares the target’s space and persists for 1 round before dissipating. The ash does not obscure sight, but the target and any creatures that enter the cloud must succeed at a DC 14 Fortitude save or take a –2 penalty on attack rolls for 1 round as they cough and choke on the fiery ash. Holding one’s breath provides no benefit, but creatures that don’t breathe or that have any kind of fire immunity or resistance are immune to the cloud’s effects.
 
 If the archdevil of fire and sacrifice is the wielder’s patron, the wielder can forge masterwork armor and weapons with *ash hammer*, which reduces the DC of the Craft check for items’ masterwork components to 10 (the Craft DC for the items’ standard components are unchanged). Items crafted in this way have a faint evil aura for the purposes of detect evil or similar effects.
 
@@ -1046,7 +1046,7 @@ This *+1 dagger* is forged for Assassin City assassins by Lady Smilos’s orders
 
 **Slot** none; **Price** 5,310 gp; **Weight** 6 lbs.
 
-An *axe of the imperative* is a *+1 battleaxe* that cuts through willpower and resolve as surely as it hews flesh and bone. On a successful hit against a creature, the wielder can utter a short command as an immediate action to prohibit the struck creature from a specific course of action. This command must consist five words or fewer, such as, “Never attack me again!” or “Never cast an enchantment spell!” or “Don’t set foot in the capital!” Once the imperative is uttered, the wound caused by the hit glows with faint golden light, as does the blade of the axe. This glow persists even after the damage is healed. The imperative lasts until one of two things occurs. It ends if the wielder utters another imperative (only one imperative can be in effect at a time), or if the target creature attempts an action that would break the imperative. When the target takes that action, it takes damage as if struck with a successful critical hit by the wielder of the *axe of the imperative*. A successful DC 15 Fortitude save negates this damage. When this occurs, the wielder immediately knows that the target broke the imperative. A lingering imperative can be removed without harming the target as if it were a curse effect. The imperative is a sonic language-dependent effect.
+An *axe of the imperative* is a *+1 battleaxe* that cuts through willpower and resolve as surely as it hews flesh and bone. On a successful hit against a creature, the wielder can utter a short command as an immediate action (1 AP of your next turn) to prohibit the struck creature from a specific course of action. This command must consist five words or fewer, such as, “Never attack me again!” or “Never cast an enchantment spell!” or “Don’t set foot in the capital!” Once the imperative is uttered, the wound caused by the hit glows with faint golden light, as does the blade of the axe. This glow persists even after the damage is healed. The imperative lasts until one of two things occurs. It ends if the wielder utters another imperative (only one imperative can be in effect at a time), or if the target creature attempts an action that would break the imperative. When the target takes that action, it takes damage as if struck with a successful critical hit by the wielder of the *axe of the imperative*. A successful DC 15 Fortitude save negates this damage. When this occurs, the wielder immediately knows that the target broke the imperative. A lingering imperative can be removed without harming the target as if it were a curse effect. The imperative is a sonic language-dependent effect.
 
 **Construction**
 
@@ -1058,7 +1058,7 @@ An *axe of the imperative* is a *+1 battleaxe* that cuts through willpower and r
 
 **Price** 4,315 gp; **Weight** —
 
-The tines of this trident are fang-like, and its haft is wrapped in small-scaled dark green leather. Three times per day on command as a swift action, the weapon can extend its reach by 10 feet for a single attack. The weapon is otherwise a *+1 trident*.
+The tines of this trident are fang-like, and its haft is wrapped in small-scaled dark green leather. Three times per day on command as a swift action (1 AP), the weapon can extend its reach by 10 feet for a single attack. The weapon is otherwise a *+1 trident*.
 
 **Construction**
 
@@ -1082,7 +1082,7 @@ The fire-blackened blade of this hopeknife bears the inscription “my love” i
 
 **Slot** none; **Price** 4,410 gp; **Weight** 1 lb.
 
-The blade of this *+1 short sword* appears to be nothing more than a shadow, but is quite solid and as sharp as steel. Five times per day, the wielder can as a move action create a featureless black “mask” of illusory cloth on the face of a willing target he touches. This mask obscures the wearer’s identity and lasts for 10 minutes. Once per day, the wielder can activate the sword as a swift action; 1 minute afterward, the sword completely erases the wielder’s memory of the previous minute (as if using* modify memory*).
+The blade of this *+1 short sword* appears to be nothing more than a shadow, but is quite solid and as sharp as steel. Five times per day, the wielder can as a move action (1 AP) create a featureless black “mask” of illusory cloth on the face of a willing target he touches. This mask obscures the wearer’s identity and lasts for 10 minutes. Once per day, the wielder can activate the sword as a swift action (1 AP); 1 minute afterward, the sword completely erases the wielder’s memory of the previous minute (as if using* modify memory*).
 
 **Construction**
 
@@ -1094,7 +1094,7 @@ The blade of this *+1 short sword* appears to be nothing more than a shadow, but
 
 **Slot** none; **Price** 32,310 gp; **Weight** 2 lbs.
 
-An unnaturally cold, razor-thin blade of magically-hardened ice juts from the pommel of this *+1 frost keen short sword*. On a confirmed critical hit, an ice shard breaks off into the wound and inflicts numbing cold. For the next 5 rounds, the victim takes 2 points of cold damage and is staggered for that round if he takes this damage. This is a bleed effect. The shard can be removed as a standard action with a successful DC 15 Heal check or with the application of any magical healing, and is destroyed instantly if the victim takes at least 5 points of fire damage from any attack. The shard lasts for only 1 round when inflicted on a creature with the fire subtype. A *blade of the ice stalker* can implant an ice shard once per minute.
+An unnaturally cold, razor-thin blade of magically-hardened ice juts from the pommel of this *+1 frost keen short sword*. On a confirmed critical hit, an ice shard breaks off into the wound and inflicts numbing cold. For the next 5 rounds, the victim takes 2 points of cold damage and is staggered for that round if he takes this damage. This is a bleed effect. The shard can be removed as a standard action (1 AP) with a successful DC 15 Heal check or with the application of any magical healing, and is destroyed instantly if the victim takes at least 5 points of fire damage from any attack. The shard lasts for only 1 round when inflicted on a creature with the fire subtype. A *blade of the ice stalker* can implant an ice shard once per minute.
 
 **Construction**
 
@@ -1158,7 +1158,7 @@ This wicked-looking *+1 greatsword* is engraved with glowing northern runes that
 
 **Slot** none; **Price** 4,308 gp; **Weight** 9 lbs.
 
-This *+1 boarding pike* is an 8-foot-long pole topped with a tapered metal spearpoint and a backward-facing hook, used to draw vessels closer together or repel boarders. A metal skull caps the butt of the pike. On command, a *boarding pike of repelling* can be extended as a swift action, giving its wielder a reach of 20 feet for 1 round. While the pike is extended, the wielder does not threaten adjacent creatures or creatures up to 15 feet away. A *boarding pike of repelling* can also be extended in this way to draw vessels closer together for boarding.
+This *+1 boarding pike* is an 8-foot-long pole topped with a tapered metal spearpoint and a backward-facing hook, used to draw vessels closer together or repel boarders. A metal skull caps the butt of the pike. On command, a *boarding pike of repelling* can be extended as a swift action (1 AP), giving its wielder a reach of 20 feet for 1 round. While the pike is extended, the wielder does not threaten adjacent creatures or creatures up to 15 feet away. A *boarding pike of repelling* can also be extended in this way to draw vessels closer together for boarding.
 
 **Construction**
 
@@ -1210,7 +1210,7 @@ This simple but finely crafted *+1 rapier* has a hilt in the shape of a tankard,
 
 This *+3 aberration-bane conserving heavy crossbow* is crafted with a darkwood body and embedded with brass, gold, and silver inlays. A creature struck by a bolt from this crossbow is affected by *calm emotions* (Will DC 16). On a confirmed critical hit, the save DC for this effect increases by 4.
 
-Up to three times per day as a swift action, the wielder can modify a loaded bolt into a brain-boring shot. These shots are not replenished by the *conserving* property of the weapon and are destroyed on impact or miss.
+Up to three times per day as a swift action (1 AP), the wielder can modify a loaded bolt into a brain-boring shot. These shots are not replenished by the *conserving* property of the weapon and are destroyed on impact or miss.
 
 **Brain-Boring Shot**: The bolt is magically capped with a reinforced metal head. When the bolt hits, it automatically strikes somewhere near the target’s brain (this attack has no effect against a target without a brain). The bolt head detaches and bores into the target’s flesh, dealing an additional 6d6 points of damage before dissolving. This damage is not multiplied on a critical hit. If the target is affected by an ongoing mind-affecting effect, it can immediately attempt a new Will save to remove the effect. If the brain-boring shot was a confirmed critical hit, the target gains a +4 circumstance bonus on its Will save.
 
@@ -1224,7 +1224,7 @@ Up to three times per day as a swift action, the wielder can modify a loaded bol
 
 **Slot** none; **Price** 3,110 gp; **Weight** 12 lbs.
 
-This *+1 ranseur* is warm to the touch. Once per day as an immediate action after successfully attacking a target with the ranseur, the wielder can command it to burst into flames, dealing an extra 2d6 points of fire damage to the target and 1d6 points of fire damage to the wielder. The fire goes out immediately afterward.
+This *+1 ranseur* is warm to the touch. Once per day as an immediate action (1 AP of your next turn) after successfully attacking a target with the ranseur, the wielder can command it to burst into flames, dealing an extra 2d6 points of fire damage to the target and 1d6 points of fire damage to the wielder. The fire goes out immediately afterward.
 
 **Construction**
 
@@ -1236,9 +1236,9 @@ This *+1 ranseur* is warm to the touch. Once per day as an immediate action afte
 
 **Price** 2,500 gp; **Weight** 24 lbs.
 
-This Large masterwork repeating heavy crossbow is powered by a system of clockwork gears and torsion springs. It functions like its normal counterpart above water, but it can also be used underwater, where it has a range increment of 50 feet. Pulling a lever on the crossbow as a move action extends and retracts the weapon’s stock and opens and collapses its limbs for easy stowage, making it small enough for a Medium character to carry in a backpack. The crossbow can be enchanted with weapon abilities like any normal masterwork crossbow.
+This Large masterwork repeating heavy crossbow is powered by a system of clockwork gears and torsion springs. It functions like its normal counterpart above water, but it can also be used underwater, where it has a range increment of 50 feet. Pulling a lever on the crossbow as a move action (1 AP) extends and retracts the weapon’s stock and opens and collapses its limbs for easy stowage, making it small enough for a Medium character to carry in a backpack. The crossbow can be enchanted with weapon abilities like any normal masterwork crossbow.
 
-When mounted on the pincers of an *apparatus of the crab* or another similar device (which takes a full-round action), a character operating the vehicle can aim and shoot the crossbow up to twice per round (attack bonus +12) by pulling the lever that normally snaps the pincers. While using the crossbow in this way, a character without Exotic Weapon Proficiency (repeating heavy crossbow) doesn’t take a penalty for nonproficiency. While the crossbow is thus mounted, the apparatus can’t make attacks with the pincers. If a character operates the lever that extends and retracts the pincers and feelers while the crossbow is mounted, the apparatus ejects the crossbow instead, enabling the vehicle to make pincer attacks again.
+When mounted on the pincers of an *apparatus of the crab* or another similar device (which takes a full-round action (3 AP)), a character operating the vehicle can aim and shoot the crossbow up to twice per round (attack bonus +12) by pulling the lever that normally snaps the pincers. While using the crossbow in this way, a character without Exotic Weapon Proficiency (repeating heavy crossbow) doesn’t take a penalty for nonproficiency. While the crossbow is thus mounted, the apparatus can’t make attacks with the pincers. If a character operates the lever that extends and retracts the pincers and feelers while the crossbow is mounted, the apparatus ejects the crossbow instead, enabling the vehicle to make pincer attacks again.
 
 ### Crusader’s Quill
 
@@ -1298,7 +1298,7 @@ The *daikyu of commanding presence* is an ancestral weapon of a noble family, on
 
 **Slot** none; **Price** 12,392 gp; **Weight** 3 lbs.
 
-This *+1 kusarigama* makes a shrill whistling sound whenever it is used in combat. Once per day as a standard action, the wielder of *Dancing Wasp* can whirl the weapon above his head as a full-round action to summon a giant wasp. The wasp appears in the air above the wielder’s head and follows the wielder’s mental commands to the best of its ability as long as the user continues to twirl the weapon (requiring a standard action each round), to a maximum of 5 rounds, after which the wasp vanishes.
+This *+1 kusarigama* makes a shrill whistling sound whenever it is used in combat. Once per day as a standard action (1 AP), the wielder of *Dancing Wasp* can whirl the weapon above his head as a full-round action (3 AP) to summon a giant wasp. The wasp appears in the air above the wielder’s head and follows the wielder’s mental commands to the best of its ability as long as the user continues to twirl the weapon (requiring a standard action (1 AP) each round), to a maximum of 5 rounds, after which the wasp vanishes.
 
 **Construction**
 
@@ -1322,7 +1322,7 @@ This *+1 scimitar* has a twisted hilt that evokes a stylized version of the godd
 
 **Slot** none; **Price** 14,318 gp; **Weight** 10 lbs.
 
-*Death bills* are greatly coveted by redcaps, and the loss of a *death bill* is considered a great shame punishable by exile or even death. A *death bill* is a *+1 scythe* that leaves particularly unsightly wounds in its victims’ flesh—these wounds do not bleed, and have dry, flaking edges, almost as if the wound had been desiccated by desert winds. Three times per day, the wielder of a* death bill *can swing the weapon as a standard action to create a scythe-shaped arc of dust that sweeps out from the user in a 30-foot cone. All creatures in this area take 2d4 points of slashing damage plus an amount of additional damage equal to the user’s Charisma modifier, and are staggered for 1 round by the pain of having moisture drawn from their bodies by the supernatural effect. A successful DC 13 Reflex save halves the damage and negates the staggered effect. Once per day as a swift action, as a* death bill *is used to reduce a foe to negative hit points with a melee attack, the user may cast a* death knell *on that victim (Will DC 13 negates).
+*Death bills* are greatly coveted by redcaps, and the loss of a *death bill* is considered a great shame punishable by exile or even death. A *death bill* is a *+1 scythe* that leaves particularly unsightly wounds in its victims’ flesh—these wounds do not bleed, and have dry, flaking edges, almost as if the wound had been desiccated by desert winds. Three times per day, the wielder of a* death bill *can swing the weapon as a standard action (1 AP) to create a scythe-shaped arc of dust that sweeps out from the user in a 30-foot cone. All creatures in this area take 2d4 points of slashing damage plus an amount of additional damage equal to the user’s Charisma modifier, and are staggered for 1 round by the pain of having moisture drawn from their bodies by the supernatural effect. A successful DC 13 Reflex save halves the damage and negates the staggered effect. Once per day as a swift action (1 AP), as a* death bill *is used to reduce a foe to negative hit points with a melee attack, the user may cast a* death knell *on that victim (Will DC 13 negates).
 
 **Construction**
 
@@ -1362,7 +1362,7 @@ This M1914 concussion grenade can be thrown up to 680 feet away, as it teleports
 
 The bars of this *+2 nunchaku* are solid iron, wrapped in leather decorated with an imperial dragon motif, and connected by a chain. Once per day, when the wielder of a* dragonmaw nunchaku *confirms a critical hit against an opponent with the nunchaku, he can cast* confusion *on that creature as a free action. The confusion effect lasts for 8 rounds, and a DC 16 Will save negates the effect.
 
-In addition, in the round following a successful disarm attack with the *dragonmaw nunchaku*, the wielder can spin the nunchaku as a standard action, creating a curtain of whirling force replicas of the disarmed weapon around himself for 1 round. This functions as a ringed* blade barrier* with a radius of 10 feet around the wielder (Reflex DC 19). The disarmed weapon determines the damage dice of the *blade barrier* (i.e., 12d6 for a wakizashi, 12d8 for a katana, and so on). The disarmed weapon is unaffected, and drops to the ground as normal. The wielder can create the* blade barrier *once per day, and only in the round following a successful disarm attack.
+In addition, in the round following a successful disarm attack with the *dragonmaw nunchaku*, the wielder can spin the nunchaku as a standard action (1 AP), creating a curtain of whirling force replicas of the disarmed weapon around himself for 1 round. This functions as a ringed* blade barrier* with a radius of 10 feet around the wielder (Reflex DC 19). The disarmed weapon determines the damage dice of the *blade barrier* (i.e., 12d6 for a wakizashi, 12d8 for a katana, and so on). The disarmed weapon is unaffected, and drops to the ground as normal. The wielder can create the* blade barrier *once per day, and only in the round following a successful disarm attack.
 
 **Construction**
 
@@ -1374,7 +1374,7 @@ In addition, in the round following a successful disarm attack with the *dragonm
 
 **Slot** none; **Price** 20,340 gp; **Weight** 18 lbs.
 
-Molded and crafted from a single large chunk of raw iron ore, this *+1 thundering earth breaker*UE is as cool as loose soil to the touch. Three times per day as a standard action, the wielder may slam an* earthcracker* against the ground, causing earth and stone to rise and fall in a violent wave that travels in a 30-foot line from the wielder’s location. All of the affected squares become difficult terrain. The wielder can perform a free trip combat maneuver on a single creature within the affected squares; this attempt does not provoke attacks of opportunity and the wielder is not knocked prone if the attempt fails. If the trip combat maneuver check is a natural 20, the blow is so mighty that it also deals 2d8 points of sonic damage to the target.
+Molded and crafted from a single large chunk of raw iron ore, this *+1 thundering earth breaker*UE is as cool as loose soil to the touch. Three times per day as a standard action (1 AP), the wielder may slam an* earthcracker* against the ground, causing earth and stone to rise and fall in a violent wave that travels in a 30-foot line from the wielder’s location. All of the affected squares become difficult terrain. The wielder can perform a free trip combat maneuver on a single creature within the affected squares; this attempt does not provoke attacks of opportunity and the wielder is not knocked prone if the attempt fails. If the trip combat maneuver check is a natural 20, the blow is so mighty that it also deals 2d8 points of sonic damage to the target.
 
 **Construction**
 
@@ -1386,7 +1386,7 @@ Molded and crafted from a single large chunk of raw iron ore, this *+1 thunderin
 
 **Slot** none; **Price** 12,806 gp; **Weight** 2 lbs.
 
-*Emberchill* is a *+1 frost sickle* whose cruel blade is crafted entirely of magical ice. The weapon itself is immune to fire damage. It is believed that one of a winter realm’s past queens originally forged* Emberchill*, and over the succeeding centuries, tradition has kept the weapon in the hands of the white witches. A spellcaster can store a single spell of any level with the cold descriptor and a casting time of one standard action in* Emberchill*. The wielder can use the stored spell to counterspell any spell with the fire descriptor, provided that the stored cold spell is 1 or more levels higher than the target fire spell (unless the cold spell specifically counters the fire spell). The wielder must still ready an action and succeed at a Spellcraft check to identify the spell to counterspell it. Once stored in the weapon, the cold spell cannot be used for any other purpose, but the wielder can harmlessly discharge the stored spell as a swift action to make room for another spell. Abilities that grant the cold descriptor to spells, such as the frozen caress hex of the winter witch archetype, make those spells suitable for storing within* Emberchill*.
+*Emberchill* is a *+1 frost sickle* whose cruel blade is crafted entirely of magical ice. The weapon itself is immune to fire damage. It is believed that one of a winter realm’s past queens originally forged* Emberchill*, and over the succeeding centuries, tradition has kept the weapon in the hands of the white witches. A spellcaster can store a single spell of any level with the cold descriptor and a casting time of one standard action (1 AP) in* Emberchill*. The wielder can use the stored spell to counterspell any spell with the fire descriptor, provided that the stored cold spell is 1 or more levels higher than the target fire spell (unless the cold spell specifically counters the fire spell). The wielder must still ready an action and succeed at a Spellcraft check to identify the spell to counterspell it. Once stored in the weapon, the cold spell cannot be used for any other purpose, but the wielder can harmlessly discharge the stored spell as a swift action (1 AP) to make room for another spell. Abilities that grant the cold descriptor to spells, such as the frozen caress hex of the winter witch archetype, make those spells suitable for storing within* Emberchill*.
 
 **Construction**
 
@@ -1476,7 +1476,7 @@ This hefty *+1 warhammer* is crafted to resemble a dwarven face and is decorated
 
 This oversized *+2 warhammer* is forged from blue steel and engraved with Abyssal runes that read, “There are no screams for those who die the frozen death.” A *frost-thunder hammer* is sized for giants; it is a two-handed weapon for Medium-sized creatures, who take a –2 penalty on attack rolls for wielding an oversized weapon.
 
-Once per day as a ranged touch attack, the wielder of a *frost-thunder hammer* can slam the weapon against the ground to release a crackling bolt of ice that shoots across the ground toward a single target up to 100 feet away. On a successful hit, the ice immediately freezes around the target, trapping it within a 9-inch-thick solid block of pale blue ice. The ice blocks line of effect to the entrapped victim, who is helpless (but can still breathe) and takes 9 points of cold damage per round until freed. The ice has hardness 0 and 27 hit points; if the ice is broken, the creature is freed. A creature can break the ice as a full-round action with a successful DC 24 Strength check.
+Once per day as a ranged touch attack, the wielder of a *frost-thunder hammer* can slam the weapon against the ground to release a crackling bolt of ice that shoots across the ground toward a single target up to 100 feet away. On a successful hit, the ice immediately freezes around the target, trapping it within a 9-inch-thick solid block of pale blue ice. The ice blocks line of effect to the entrapped victim, who is helpless (but can still breathe) and takes 9 points of cold damage per round until freed. The ice has hardness 0 and 27 hit points; if the ice is broken, the creature is freed. A creature can break the ice as a full-round action (3 AP) with a successful DC 24 Strength check.
 
 **Construction**
 
@@ -1564,7 +1564,7 @@ This wicked-looking *+2 adamantine spiked chain* is favored by those who associa
 
 Originally made from the winding intestines of a scrag, the first version of this *+2 corrosive* *whip* was crafted by a blood-bard who fought in Green Blood on a Black Rock. After the blood-bard’s stunning victory, these weapons have gained popularity across the drowned lands and the pirate isles. Unless damaged by fire, a *greenblood scourge* regenerates hit points at a rate of 1 hit point per minute.
 
-In performance combat, the wielder of a *greenblood scourge* can spend a victory point as a swift action to give the weapon the *corrosive burst* special ability. Also, the wielder no longer needs to attempt a performance combat check when using the withdraw action during performance combat, as the weapon’s blasts of acid prevent the enemy from approaching.
+In performance combat, the wielder of a *greenblood scourge* can spend a victory point as a swift action (1 AP) to give the weapon the *corrosive burst* special ability. Also, the wielder no longer needs to attempt a performance combat check when using the withdraw action during performance combat, as the weapon’s blasts of acid prevent the enemy from approaching.
 
 **Construction**
 
@@ -1576,7 +1576,7 @@ In performance combat, the wielder of a *greenblood scourge* can spend a victory
 
 **Slot** none; **Price** 80,000 gp; **Weight** 5 lbs.
 
-This *+3 impact warhammer* deals 2d6 points of bludgeoning damage when it hits. As a swift action, the wielder can will the hammer’s crystalline head to grow jagged spikes, switching its damage type to piercing for a single blow. When the bearer confirms a critical hit with the *hammer of seismic assault*, a concussive blast emits from the hammer in a 10-foot-radius spread, causing a tremor to rip through the ground. Any creatures standing on the ground in this area with a CMD equal to or lower than the result of the confirmation roll are knocked prone. This damaged area is considered rough terrain for 10 minutes.
+This *+3 impact warhammer* deals 2d6 points of bludgeoning damage when it hits. As a swift action (1 AP), the wielder can will the hammer’s crystalline head to grow jagged spikes, switching its damage type to piercing for a single blow. When the bearer confirms a critical hit with the *hammer of seismic assault*, a concussive blast emits from the hammer in a 10-foot-radius spread, causing a tremor to rip through the ground. Any creatures standing on the ground in this area with a CMD equal to or lower than the result of the confirmation roll are knocked prone. This damaged area is considered rough terrain for 10 minutes.
 
 **Construction**
 
@@ -1642,7 +1642,7 @@ Fitted with a menacingly cruel 2-foot-long barbed iron head, this Large *+1 gian
 
 **Slot** none; **Price** 10,305 gp; **Weight** 4 lbs.
 
-This *+1 flaming light mace* has an iron shaft and a polished ruby-red stone head, similar to a gemstone. Sometimes a diabolical eye or face is visible for a moment within the stone. The stone is suitable for use as a scrying device for spells such as* scrying*. Once per day as a swift action, the wielder can transform the mace’s flames to hellfire for 1 minute. This hellfire deals half fire damage and half damage from unholy energy. Evil creatures and creatures with the evil subtype take no damage from this unholy energy; good creatures and those with the good subtype take double the usual damage from it.* Protection from evil* and similar effects protect against the damage from unholy energy.
+This *+1 flaming light mace* has an iron shaft and a polished ruby-red stone head, similar to a gemstone. Sometimes a diabolical eye or face is visible for a moment within the stone. The stone is suitable for use as a scrying device for spells such as* scrying*. Once per day as a swift action (1 AP), the wielder can transform the mace’s flames to hellfire for 1 minute. This hellfire deals half fire damage and half damage from unholy energy. Evil creatures and creatures with the evil subtype take no damage from this unholy energy; good creatures and those with the good subtype take double the usual damage from it.* Protection from evil* and similar effects protect against the damage from unholy energy.
 
 **Construction**
 
@@ -1682,9 +1682,9 @@ On a successful ranged attack with this *+1 returning huntsman* *hunga munga*, t
 
 **Slot** none; **Price** 39,515 gp; **Weight** 2 lbs.
 
-This *+2 frost short sword* has a blade made of sparkling blue ice. Anyone wielding an *ice fang* is protected from cold weather as if they were affected by *endure elements*. As a move action, the wielder may cause the blade to either grow to the size of a longsword, melt away to the size of a dagger, or return to its original size. An *ice fang* left unattended automatically reverts to its original size in 1 minute. An *ice fang* functions as a dagger, short sword, or longsword depending on the current size of its blade.
+This *+2 frost short sword* has a blade made of sparkling blue ice. Anyone wielding an *ice fang* is protected from cold weather as if they were affected by *endure elements*. As a move action (1 AP), the wielder may cause the blade to either grow to the size of a longsword, melt away to the size of a dagger, or return to its original size. An *ice fang* left unattended automatically reverts to its original size in 1 minute. An *ice fang* functions as a dagger, short sword, or longsword depending on the current size of its blade.
 
-Once per day upon confirming a critical hit, the wielder may choose to have the blade shatter and send razor-sharp shards of ice flying in a 15-foot cone. The original target of the attack must be within this cone’s area of effect. Roll the damage for the critical hit normally and apply to the original target. All other creatures in the cone take damage equal to the amount of the critical hit; one half of this damage is piercing, the other half is cold damage. A successful DC 16 Reflex saving throw reduces the damage by half. After using this ability, the wielder must spend a standard action to reform the blade of the *ice fang*, at any size, before it can be used as a weapon again.
+Once per day upon confirming a critical hit, the wielder may choose to have the blade shatter and send razor-sharp shards of ice flying in a 15-foot cone. The original target of the attack must be within this cone’s area of effect. Roll the damage for the critical hit normally and apply to the original target. All other creatures in the cone take damage equal to the amount of the critical hit; one half of this damage is piercing, the other half is cold damage. A successful DC 16 Reflex saving throw reduces the damage by half. After using this ability, the wielder must spend a standard action (1 AP) to reform the blade of the *ice fang*, at any size, before it can be used as a weapon again.
 
 **Construction**
 
@@ -1784,7 +1784,7 @@ This stout *+1 longbow* is engraved with images of leaping deer. Designed to pre
 
 **Slot** none; **Price** 13,400 gp; **Weight** 3 lbs.
 
-Etchings of small, hairy folk adorn this knotty *+1 thundering club*. Once per day as a standard action, a wielder can animate his own hair to wield the club without his hands for 4 rounds, as if the* korrigan club* had the *dancing* weapon special ability. A wielder’s head hair or beard hair must be at least 2 feet long to activate this ability. Sundering the wielder’s hair (hp 2) immediately causes the *korrigan club* to fall to the ground and renders the wielder unable to activate this special ability until the lost length regrows.
+Etchings of small, hairy folk adorn this knotty *+1 thundering club*. Once per day as a standard action (1 AP), a wielder can animate his own hair to wield the club without his hands for 4 rounds, as if the* korrigan club* had the *dancing* weapon special ability. A wielder’s head hair or beard hair must be at least 2 feet long to activate this ability. Sundering the wielder’s hair (hp 2) immediately causes the *korrigan club* to fall to the ground and renders the wielder unable to activate this special ability until the lost length regrows.
 
 **Construction**
 
@@ -1824,7 +1824,7 @@ A *lesser Leng flail* is a* +1 heavy flail* that allows its wielder to use spide
 
 This *+2 ominous harpoon* is carved from a bleached whale bone and bound with the spirit of an ancient beast that rumbles with a low, mournful call each time the barbed tip strikes. Holding the weapon fills the wielder with the nerve to face even the most imposing foes, granting her a +2 morale bonus on saving throws against the frightful presence universal monster ability. She does not take the usual –4 penalty to use the Intimidate skill on a target larger than her as long as she carries the *leviathan’s terror* on her person.
 
-Three times per day, the wielder of a *leviathan’s terror* can call on the spirit in the weapon to enlarge her musculature, drain the color from her skin, and turn her exhalations to rolling fog for a 1-minute period. During this time, once as a standard action, she can attempt an Intimidate check to demoralize all enemies that are at least one size category larger than her within a 30-foot radius. During this period, the wielder also gains a +1 size bonus on combat maneuver checks and to CMD and is treated as one size category larger for the purposes of determining the effects of attacks and abilities that limit their use on larger creatures (such as tripping creatures of a larger size category or for determining what creatures can be targeted by the grab ability), although her actual size category does not change.
+Three times per day, the wielder of a *leviathan’s terror* can call on the spirit in the weapon to enlarge her musculature, drain the color from her skin, and turn her exhalations to rolling fog for a 1-minute period. During this time, once as a standard action (1 AP), she can attempt an Intimidate check to demoralize all enemies that are at least one size category larger than her within a 30-foot radius. During this period, the wielder also gains a +1 size bonus on combat maneuver checks and to CMD and is treated as one size category larger for the purposes of determining the effects of attacks and abilities that limit their use on larger creatures (such as tripping creatures of a larger size category or for determining what creatures can be targeted by the grab ability), although her actual size category does not change.
 
 **Construction**
 
@@ -1836,7 +1836,7 @@ Three times per day, the wielder of a *leviathan’s terror* can call on the spi
 
 **Slot** none; **Price** 26,380 gp; **Weight** 7 lbs.
 
-The long blade of this weapon bears shifting black and yellow patterns, resembling the markings of a wasp. This *+1 heartseeker* *elven curve blade* has three slots built into the hilt for storing doses of poison. Adding or removing a dose of poison from the blade is a swift action that requires a free hand.
+The long blade of this weapon bears shifting black and yellow patterns, resembling the markings of a wasp. This *+1 heartseeker* *elven curve blade* has three slots built into the hilt for storing doses of poison. Adding or removing a dose of poison from the blade is a swift action (1 AP) that requires a free hand.
 
 Any creatures struck by a *lust-goddess kiss* take a –4 penalty on any saving throw against the poison applied to the weapon. The frequency of any poison applied to the lust-goddess kiss increases by 2 (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with a skill or magic take a –4 penalty.
 
@@ -1886,7 +1886,7 @@ A *mournful razor* is a *+3 vorpal war razor* capable of inflicting particularly
 
 **Slot** none; **Price** 5,318 gp; **Weight** 10 lbs.
 
-This *+1 scythe* has five onyx gems set into its blade. A creature with the ability to channel negative energy can expend one use of that ability to charge the weapon with power, causing one onyx gem per 1d6 points of channeled energy to glow (multiple channels do not stack; the wielder must be able to channel 5d6 points of negative energy to activate all five gems). Anytime the wielder deals damage to a creature with the scythe, he can activate one charged gem as a swift action, releasing its energy and dealing 1d6 points of channeled negative energy damage to the target. Alternatively, as a standard action the wielder can touch the scythe to a willing creature healed by negative energy (such as undead) and release any number of stored charges, each of which heals the target for 1d6 points of damage.
+This *+1 scythe* has five onyx gems set into its blade. A creature with the ability to channel negative energy can expend one use of that ability to charge the weapon with power, causing one onyx gem per 1d6 points of channeled energy to glow (multiple channels do not stack; the wielder must be able to channel 5d6 points of negative energy to activate all five gems). Anytime the wielder deals damage to a creature with the scythe, he can activate one charged gem as a swift action (1 AP), releasing its energy and dealing 1d6 points of channeled negative energy damage to the target. Alternatively, as a standard action (1 AP) the wielder can touch the scythe to a willing creature healed by negative energy (such as undead) and release any number of stored charges, each of which heals the target for 1d6 points of damage.
 
 **Construction**
 
@@ -1926,7 +1926,7 @@ This *+1 light ballista bolt* functions as a *greater undead slaying arrow*, exc
 
 This broad-bladed *+1 ghost touch nine-ring broadsword* is crafted of silvery-gray steel, with nine golden rings threaded through its spine that glow with magical power. Streamers of blue and purple silk hang from the sword’s pommel.
 
-The *nine-fold spirit sword* has 9 charges, represented by its nine rings. As a swift action, the wielder can discharge the energy in these rings to create one of three effects.
+The *nine-fold spirit sword* has 9 charges, represented by its nine rings. As a swift action (1 AP), the wielder can discharge the energy in these rings to create one of three effects.
 
 By expending 1 charge, the wielder can add the *undead bane* special ability to the sword for 1 minute.
 
@@ -2032,7 +2032,7 @@ This *+1 quarterstaff* is made of wood carved and dyed to look like two entwined
 
 **Slot** none; **Price** 4,310 gp; **Weight** 12 lbs.
 
-A* ranseur of the gargoyle *appears to have a head crafted of obsidian, but is in fact as hard and resilient as steel. This weapon functions as a* +1 ranseur* that grants a +4 bonus on disarm checks rather than the typical +2 bonus a ranseur grants. Up to 5 times per day as a swift action, the wielder of a *ranseur of the gargoyle* can cause its skin to harden for 1 round, gaining a +2 enhancement bonus to its natural armor score.
+A* ranseur of the gargoyle *appears to have a head crafted of obsidian, but is in fact as hard and resilient as steel. This weapon functions as a* +1 ranseur* that grants a +4 bonus on disarm checks rather than the typical +2 bonus a ranseur grants. Up to 5 times per day as a swift action (1 AP), the wielder of a *ranseur of the gargoyle* can cause its skin to harden for 1 round, gaining a +2 enhancement bonus to its natural armor score.
 
 **Construction**
 
@@ -2044,7 +2044,7 @@ A* ranseur of the gargoyle *appears to have a head crafted of obsidian, but is i
 
 **Slot** none; **Price** 6,320 gp; **Weight** 2 lbs.
 
-When the command word is spoken as a move action, this *+1 morningstar* transforms into a pendant in the shape of a single red rose that does not radiate magic. Only true seeing or similar magic reveals the true nature of this weapon.
+When the command word is spoken as a move action (1 AP), this *+1 morningstar* transforms into a pendant in the shape of a single red rose that does not radiate magic. Only true seeing or similar magic reveals the true nature of this weapon.
 
 Once per day as part of an initiative check, as long as she holds the *everbloom thorn* in its pendant shape in one hand, the wielder can cause the pendant to instantaneously transform back into its +1 morningstar form. When she does so, the wielder of the everbloom thorn adds her Charisma bonus (minimum of +1) to her initiative check.
 
@@ -2070,11 +2070,11 @@ Often created by evangelistic clerics of the goddess of uprisings, a *rebel’s 
 
 **Slot** none; **Price** 16,955 gp; **Weight** 4 lbs.
 
-This *+1 frost scimitar* has been forged from a single piece of razor-sharp, super-hardened ice. A *rimeblade* automatically resizes itself to match the size of its wielder, and if a *rimeblade* is damaged, the wielder can cause the blade to melt away and reform with full hit points as a full-round action. This ability cannot be used if the weapon is destroyed.
+This *+1 frost scimitar* has been forged from a single piece of razor-sharp, super-hardened ice. A *rimeblade* automatically resizes itself to match the size of its wielder, and if a *rimeblade* is damaged, the wielder can cause the blade to melt away and reform with full hit points as a full-round action (3 AP). This ability cannot be used if the weapon is destroyed.
 
 Once per day on command, the wielder can transform a *rimeblade* into a beam of ice-cold flame called rimefire. The weapon is still wielded as scimitar, and attacks with the blade-like beam are melee touch attacks that deal 1d8+3 points of cold damage (regardless of the wielder’s size). Because the beam is immaterial, the wielder’s Strength modifier doesn’t apply to damage. In addition, a creature that takes cold damage from the rimefire beam is covered in clinging frost and is entangled for 1 round. The rimefire beam lasts for 1 minute, after which the weapon returns to its normal form.
 
-In addition, once per day as a swift action before an attack, a *rimeblade’s* wielder can cause the blade to glow with a pale blue radiance. On a successful attack, the *rimeblade* deals an additional 4d6 points of cold damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead. This effect ends after a single attack, regardless of whether the attack is successful or not.
+In addition, once per day as a swift action (1 AP) before an attack, a *rimeblade’s* wielder can cause the blade to glow with a pale blue radiance. On a successful attack, the *rimeblade* deals an additional 4d6 points of cold damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead. This effect ends after a single attack, regardless of whether the attack is successful or not.
 
 **Construction**
 
@@ -2098,7 +2098,7 @@ In addition, once per day as a swift action before an attack, a *rimeblade’s* 
 
 **Slot** none; **Price** 8,320 gp; **Weight** 12 lbs.
 
-This *+1 greataxe* has a corroded edge that constantly sheds metal shards and rusty powder, though the blade never gets any smaller and this doesn’t weaken the weapon in any way. Whenever the axe damages a creature, the target must succeed at a DC 14 Reflex save or a shard from the weapon lodges in the creature’s flesh; the target is sickened until the shard is removed. Removing a shard deals 1d4+1 points of damage to the target, unless whoever is removing the shard succeeds at a DC 15 Heal check as a full-round action. For every 5 by which the check exceeds the DC, an additional shard is removed. A* rusting grasp* spell immediately destroys all shards embedded in the target.
+This *+1 greataxe* has a corroded edge that constantly sheds metal shards and rusty powder, though the blade never gets any smaller and this doesn’t weaken the weapon in any way. Whenever the axe damages a creature, the target must succeed at a DC 14 Reflex save or a shard from the weapon lodges in the creature’s flesh; the target is sickened until the shard is removed. Removing a shard deals 1d4+1 points of damage to the target, unless whoever is removing the shard succeeds at a DC 15 Heal check as a full-round action (3 AP). For every 5 by which the check exceeds the DC, an additional shard is removed. A* rusting grasp* spell immediately destroys all shards embedded in the target.
 
 **Construction**
 
@@ -2110,9 +2110,9 @@ This *+1 greataxe* has a corroded edge that constantly sheds metal shards and ru
 
 **Slot** held; **Price** 1,802 gp; **Weight** —
 
-An ashen shaft with a steel blade, this finely crafted masterwork shortspear holds a removable shard of carnelian at its base. By crushing the gem as a move action, the spear explodes as per the spell *fireball*. This detonation is centered on the spear and deals 5d6 points of fire damage to all creatures within a 20-foot-radius spread. The spear’s bearer or allies are not immune to this damage (unless they have immunity to fire from another source) and the weapon is destroyed.
+An ashen shaft with a steel blade, this finely crafted masterwork shortspear holds a removable shard of carnelian at its base. By crushing the gem as a move action (1 AP), the spear explodes as per the spell *fireball*. This detonation is centered on the spear and deals 5d6 points of fire damage to all creatures within a 20-foot-radius spread. The spear’s bearer or allies are not immune to this damage (unless they have immunity to fire from another source) and the weapon is destroyed.
 
-A *sacrificial spear* can be detonated at a range by spending a full-round action to throw the spear and crush the gem. If the attack roll hits the target, the *fireball* is centered on the target, otherwise refer to the thrown weapons chart to determine where the spear lands (PH 158). Each spear has a specific shard attuned to it at the time of its creation, which can be removed or reaffixed to its spear as a standard action.
+A *sacrificial spear* can be detonated at a range by spending a full-round action (3 AP) to throw the spear and crush the gem. If the attack roll hits the target, the *fireball* is centered on the target, otherwise refer to the thrown weapons chart to determine where the spear lands (PH 158). Each spear has a specific shard attuned to it at the time of its creation, which can be removed or reaffixed to its spear as a standard action (1 AP).
 
 **Construction**
 
@@ -2258,7 +2258,7 @@ This bright *+1 starknife* is engraved with a beautiful moth icon. When wielded,
 
 **Slot** none; **Price** 10,305 gp; **Weight** 2 lbs.
 
-This *+1 light mace* is forged of black iron and topped with what appears to be a clenched fist with spikes protruding from between the fingers. As a move action, the wielder can expend 1 point from his arcane pool (as per a magus), 1 point from his arcane reservoir (as per an arcanist), or one use of fervor (as per a warpriest) to make a single melee attack with the* signifer’s fist*. Characters without any of these options can instead activate a signifer’s fist in this way as a standard action once per day. If the attack deals damage to a creature, the* signifer’s fist* gains the* bane* weapon special ability against that creature’s type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn’t apply if the target is immune to bleed, though the attack still deals damage normally.
+This *+1 light mace* is forged of black iron and topped with what appears to be a clenched fist with spikes protruding from between the fingers. As a move action (1 AP), the wielder can expend 1 point from his arcane pool (as per a magus), 1 point from his arcane reservoir (as per an arcanist), or one use of fervor (as per a warpriest) to make a single melee attack with the* signifer’s fist*. Characters without any of these options can instead activate a signifer’s fist in this way as a standard action (1 AP) once per day. If the attack deals damage to a creature, the* signifer’s fist* gains the* bane* weapon special ability against that creature’s type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn’t apply if the target is immune to bleed, though the attack still deals damage normally.
 
 **Construction**
 
@@ -2286,7 +2286,7 @@ The second ability causes a bolt fired from the crossbow to function as a *screa
 
 **Slot** none; **Price** 3,925 gp; **Weight** 8 lbs.
 
-A 2-foot-long blade extends from the heavy crossbar of this *+1 boar spear*UE. Designed to catch and hold humanoid prey, a* spear of manhunting *automatically resizes to match the size of its wielder when grasped. Once per day on a successful critical hit, the wielder of a* spear of manhunting *can cast* hold person *as an immediate action on the target hit by the attack (Will DC 13 negates). The* hold person *effect immediately ends if the spear is dropped or withdrawn, such as by making additional attacks with the weapon.
+A 2-foot-long blade extends from the heavy crossbar of this *+1 boar spear*UE. Designed to catch and hold humanoid prey, a* spear of manhunting *automatically resizes to match the size of its wielder when grasped. Once per day on a successful critical hit, the wielder of a* spear of manhunting *can cast* hold person *as an immediate action (1 AP of your next turn) on the target hit by the attack (Will DC 13 negates). The* hold person *effect immediately ends if the spear is dropped or withdrawn, such as by making additional attacks with the weapon.
 
 **Construction**
 
@@ -2298,9 +2298,9 @@ A 2-foot-long blade extends from the heavy crossbar of this *+1 boar spear*UE. D
 
 **Slot** weapon; **Price** 8,462 gp; **Weight** 6 lbs.
 
-This magically strengthened bronze-tipped *+1 spear* enables its wielder to better face a variety of foes. Originally created by priests of the god of magic for use by their temple guards, a* spear of the watchful guardian* also grants its wielder arcane aid to strike true. Once per day as a standard action, the wielder of a *spear of the watchful guardian* can alter the physical properties of the weapon, allowing it to bypass damage reduction of one of the following types: bludgeoning, cold iron, silver, or slashing. This change lasts for 5 minutes.
+This magically strengthened bronze-tipped *+1 spear* enables its wielder to better face a variety of foes. Originally created by priests of the god of magic for use by their temple guards, a* spear of the watchful guardian* also grants its wielder arcane aid to strike true. Once per day as a standard action (1 AP), the wielder of a *spear of the watchful guardian* can alter the physical properties of the weapon, allowing it to bypass damage reduction of one of the following types: bludgeoning, cold iron, silver, or slashing. This change lasts for 5 minutes.
 
-In addition, if the wielder of a *spear of the watchful guardian* fails an attack roll, as an immediate action once per day, she can retroactively add a +1 competence bonus on that roll. If this bonus is enough to make the failure a success, the attack roll succeeds.
+In addition, if the wielder of a *spear of the watchful guardian* fails an attack roll, as an immediate action (1 AP of your next turn) once per day, she can retroactively add a +1 competence bonus on that roll. If this bonus is enough to make the failure a success, the attack roll succeeds.
 
 Finally, a *spear of the watchful guardian* sharpens the senses of its wielder, granting her a +2 insight bonus on Perception checks.
 
@@ -2328,7 +2328,7 @@ This weapon looks like the barbed spine of a humanoid. A *spine flail* functions
 
 **Slot** none; **Price** 75,315 gp; **Weight** 4 lbs.
 
-This *+2 cruel furyborn scimitar* was created accidentally by a demon lord when he plunged a glaistig’s scimitar through her own chest. Images of shriveled vines and wilted flowers decorate its blade. Three times per day as an immediate action after dealing damage to a creature, the wielder can cause the blighted plant life depicted on the blade to animate, embedding thorny vines in the creature’s wounds. The creeping, twisting vines cause the creature to become entangled for 1d4 rounds, and it is nauseated 1 by the pain while the entangled condition persists. A successful DC 22 Fortitude saving throw negates the nauseated condition.
+This *+2 cruel furyborn scimitar* was created accidentally by a demon lord when he plunged a glaistig’s scimitar through her own chest. Images of shriveled vines and wilted flowers decorate its blade. Three times per day as an immediate action (1 AP of your next turn) after dealing damage to a creature, the wielder can cause the blighted plant life depicted on the blade to animate, embedding thorny vines in the creature’s wounds. The creeping, twisting vines cause the creature to become entangled for 1d4 rounds, and it is nauseated 1 by the pain while the entangled condition persists. A successful DC 22 Fortitude saving throw negates the nauseated condition.
 
 **Construction**
 
@@ -2376,7 +2376,7 @@ This *+1 trident* has a green-blue metal head, a pole made of driftwood, and a s
 
 **Slot** none; **Price** 11,275 gp; **Weight** 2 lbs.
 
-This *+2 composite shortbow* is carved of withered juniper wood to resemble a swarming mass of wasps. Favored by the mystical bee-people called the thriae, a* swarmbow *has a considerable draw, requiring a minimum Strength modifier of +5 to use it without penalty. Once per day on a successful strike with an arrow fired from a* swarmbow*, the wielder can cause a* wasp swarm* to appear around the target of the attack as an immediate action. The swarm attacks any creatures occupying its area, but remains stationary and does not pursue fleeing creatures. The wasp swarm remains for 1d4+2 rounds or until destroyed.
+This *+2 composite shortbow* is carved of withered juniper wood to resemble a swarming mass of wasps. Favored by the mystical bee-people called the thriae, a* swarmbow *has a considerable draw, requiring a minimum Strength modifier of +5 to use it without penalty. Once per day on a successful strike with an arrow fired from a* swarmbow*, the wielder can cause a* wasp swarm* to appear around the target of the attack as an immediate action (1 AP of your next turn). The swarm attacks any creatures occupying its area, but remains stationary and does not pursue fleeing creatures. The wasp swarm remains for 1d4+2 rounds or until destroyed.
 
 **Construction**
 
@@ -2462,7 +2462,7 @@ Wielded by a barbarian, *the rage hammer* becomes a *+5 thundering warhammer*. T
 
 **Slot** none; **Price** 16,101 gp; **Weight** 1 lb.
 
-The cross-guard and tines of this *+2 adamantine sai* are crafted of a mysterious red metal, adorned with grinning skulls. The haft is wrapped with delicate white crane feathers. Only a handful of* tsuruhashi *are known to exist, each one crafted as a silent killer. The weapon grants a +1 bonus to the DC of Fortitude saves made against an assassin’s death attack or ninja’s assassinate ability. In addition, while executing such an attack, the wielder of a* tsuruhashi *may cast* silence *upon his victim as a swift action. This ability can be used once per day and affects only the victim of the attack.
+The cross-guard and tines of this *+2 adamantine sai* are crafted of a mysterious red metal, adorned with grinning skulls. The haft is wrapped with delicate white crane feathers. Only a handful of* tsuruhashi *are known to exist, each one crafted as a silent killer. The weapon grants a +1 bonus to the DC of Fortitude saves made against an assassin’s death attack or ninja’s assassinate ability. In addition, while executing such an attack, the wielder of a* tsuruhashi *may cast* silence *upon his victim as a swift action (1 AP). This ability can be used once per day and affects only the victim of the attack.
 
 **Construction**
 
@@ -2474,7 +2474,7 @@ The cross-guard and tines of this *+2 adamantine sai* are crafted of a mysteriou
 
 **Slot** none; **Price** 28,415 gp; **Weight** 9 lbs.
 
-Once per day as a standard action, the bearer of this *+1 thundering naginata*  can strike the blade against the ground, causing it to ring with a deafening clangor that functions as the *shout* spell.
+Once per day as a standard action (1 AP), the bearer of this *+1 thundering naginata*  can strike the blade against the ground, causing it to ring with a deafening clangor that functions as the *shout* spell.
 
 Stolen by a thief years ago, the *thundering blade* is the ancestral weapon of the an Eastern Noble family, one of the five imperial families of the eastern empire. The *thundering blade* is imbued with royal honor, and bestows one permanent negative level on any creature without honor that attempts to wield it (such as oni, traitors, kinslayers, and the like). The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including by *restoration* spells) while the weapon is wielded.
 
@@ -2492,7 +2492,7 @@ A naginata is a two-handed martial melee weapon that deals 1d8 points of slashin
 
 The following weapon is generally available only to members of the indicated race or ethnicity.
 
-The hematite head of this *+1 earth breaker* crackles with electricity, dealing an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit. Three times per day, after a confirmed critical hit, the wielder can trigger a great thunderclap as an immediate action, stunning the target of the critical hit for 1 round unless that target succeeds at a DC 16 Fortitude save.
+The hematite head of this *+1 earth breaker* crackles with electricity, dealing an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit. Three times per day, after a confirmed critical hit, the wielder can trigger a great thunderclap as an immediate action (1 AP of your next turn), stunning the target of the critical hit for 1 round unless that target succeeds at a DC 16 Fortitude save.
 
 **Construction**
 
@@ -2546,7 +2546,7 @@ A *torment of the Midnight Lord* can be used as an unholy symbol divine focus of
 
 This *+1 mithral bladed scarf* is unusually long and ornate, patched and expanded over several generations into a garish collection of colors and stitching in the shapes of wandering nomad names and stylized map icons. Because of its extra length and magically enhanced balance and accuracy, when the wielder makes a full attack with* Trailwalker*, he can strike foes with it as if the item had the reach quality and still attack opponents adjacent to the wielder. This doesn’t expand the wielder’s reach for any attacks beyond those made as part of the full attack (such as attacks of opportunity).
 
-Once per day as a standard action, *Trailwalker’s* wielder can whirl the scarf through the air and teleport as though using* dimension door*. The wielder can’t transport other creatures with this ability. If this ability is used to take the wielder from one spot on a road or trail to another spot on that or a connected road or trail (even if the connection is lengthy or indirect), this is a move action instead.
+Once per day as a standard action (1 AP), *Trailwalker’s* wielder can whirl the scarf through the air and teleport as though using* dimension door*. The wielder can’t transport other creatures with this ability. If this ability is used to take the wielder from one spot on a road or trail to another spot on that or a connected road or trail (even if the connection is lengthy or indirect), this is a move action (1 AP) instead.
 
 **Construction**
 
@@ -2584,7 +2584,7 @@ This bloodstained spiked chain has a large handle-ring that glows a pale violet 
 
 **Slot** none; **Price** 266 gp; **Weight** 1 lb.
 
-The warped clay sphere of this *+1 fuse grenade* is painted with a crimson bull’s-eye symbol and its fuse is dyed red. An unerring grenade can be lit as a move action and thrown like a splash weapon. An unerring grenade veers toward its target, whether a creature or a grid intersection, negating any miss chances that would otherwise apply, such as from concealment. The thrower still has to aim at the right square or grid intersection. An *unerring grenade* otherwise functions as a normal fuse grenade (Reflex DC 16 half).
+The warped clay sphere of this *+1 fuse grenade* is painted with a crimson bull’s-eye symbol and its fuse is dyed red. An unerring grenade can be lit as a move action (1 AP) and thrown like a splash weapon. An unerring grenade veers toward its target, whether a creature or a grid intersection, negating any miss chances that would otherwise apply, such as from concealment. The thrower still has to aim at the right square or grid intersection. An *unerring grenade* otherwise functions as a normal fuse grenade (Reflex DC 16 half).
 
 **Construction**
 
@@ -2596,7 +2596,7 @@ The warped clay sphere of this *+1 fuse grenade* is painted with a crimson bull�
 
 **Slot** none; **Price** 11,501 gp; **Weight** 2 lbs.
 
-This *+1 deadly* *whip* is made of braided black and yellow leather cords, and is as strong as a silk rope. The bearer of a* vengeful kiss* can activate the weapon as a standard action to make it stretch up to 50 feet long or retract to normal whip length (although it cannot be used to attack when greater than its normal length). Once per day, a creature wielding the whip can use* invigorate*.
+This *+1 deadly* *whip* is made of braided black and yellow leather cords, and is as strong as a silk rope. The bearer of a* vengeful kiss* can activate the weapon as a standard action (1 AP) to make it stretch up to 50 feet long or retract to normal whip length (although it cannot be used to attack when greater than its normal length). Once per day, a creature wielding the whip can use* invigorate*.
 
 **Construction**
 
@@ -2620,7 +2620,7 @@ This *+1 returning harpoon* is made from the jagged, scrimshaw-carved tusk of a 
 
 **Slot** none; **Price** 9,875 gp; **Weight** 8 lbs.
 
-This *+1 flaming falchion* is engraved with leering, long-tongued demonic faces. As a standard action, the bearer can will the weapon to transform into a* +1 flaming kukri* or back to its larger form. The weapon has an affinity for humanoid blood and remains slick and wet with it long after it would normally dry. If the wielder kills a humanoid with* a Warlord’s Daughter*, she can lick clean this blood as a move action to heal 1d4 hit points. the goddess of monsters’s church also creates a similar weapon called* Chillheart’s Daughter*, which is a* +1 frost falchion* that otherwise has the same properties as this weapon.
+This *+1 flaming falchion* is engraved with leering, long-tongued demonic faces. As a standard action (1 AP), the bearer can will the weapon to transform into a* +1 flaming kukri* or back to its larger form. The weapon has an affinity for humanoid blood and remains slick and wet with it long after it would normally dry. If the wielder kills a humanoid with* a Warlord’s Daughter*, she can lick clean this blood as a move action (1 AP) to heal 1d4 hit points. the goddess of monsters’s church also creates a similar weapon called* Chillheart’s Daughter*, which is a* +1 frost falchion* that otherwise has the same properties as this weapon.
 
 **Construction**
 
@@ -2698,9 +2698,9 @@ A *wizard hook* is a *+1 hook hand* and a useful item for any arcane spellcaster
 
 **Slot** none; **Price** 34,335 gp; **Weight** 6 lbs.
 
-This *+2 huntsman bastard sword* has a grip bound in leather and trimmed with fur. Once per round when the wielder strikes a target with the sword, he can allow an ally of his choice to perform a trip combat maneuver against the target as an immediate action, provided the ally is adjacent to the target struck. This trip attempt doesn’t provoke attacks of opportunity. If the attempt fails, the wielder’s ally is not tripped in return.
+This *+2 huntsman bastard sword* has a grip bound in leather and trimmed with fur. Once per round when the wielder strikes a target with the sword, he can allow an ally of his choice to perform a trip combat maneuver against the target as an immediate action (1 AP of your next turn), provided the ally is adjacent to the target struck. This trip attempt doesn’t provoke attacks of opportunity. If the attempt fails, the wielder’s ally is not tripped in return.
 
-As a standard action on command three times per day, the wielder can unleash a spine-chilling howl. When he does so, he attempts a single Intimidate check to demoralize all opponents within 30 feet that can hear the howl. Allies within 30 feet can join the howl as an immediate action to aid the wielder’s Intimidate check, granting a +2 bonus to the wielder’s check for each ally who succeeds at a DC 10 Intimidate check. Allies who howl can also immediately take a 5-foot step. This movement does not count against their ability to move or take a 5-foot step earlier or later in the round.
+As a standard action (1 AP) on command three times per day, the wielder can unleash a spine-chilling howl. When he does so, he attempts a single Intimidate check to demoralize all opponents within 30 feet that can hear the howl. Allies within 30 feet can join the howl as an immediate action (1 AP of your next turn) to aid the wielder’s Intimidate check, granting a +2 bonus to the wielder’s check for each ally who succeeds at a DC 10 Intimidate check. Allies who howl can also immediately take a 5-foot step. This movement does not count against their ability to move or take a 5-foot step earlier or later in the round.
 
 **Construction**
 
@@ -2778,7 +2778,7 @@ This silver ring is engraved with a skull flanked by twin hourglasses. It functi
 
 This richly colored, burnished brass ring appears to be crimson red, sunset orange, or golden yellow depending on how it is held. Clerics of the goddess of the sun and redemption prize *glorious flame rings* as facets through which they may channel their deity’s divine will. Once per day, the wearer may speak the ring’s command word to create a 5-foot-radius burst of flame centered on herself. This burst of flame deals 1d6 points of damage to any adjacent creatures (Reflex DC 14 halves), though the wearer is safe from this effect.
 
-If the wearer is capable of channeling positive energy, she may as a standard action expend one use of channeled energy to activate the ring’s burst of flame, even if she has already spoken the ring’s command word for the day. If the wearer also has the Selective Channeling feat, she may select a number of allies equal to her Charisma modifier to exclude from the burst of flame; these allies are not affected by the flame. This effect is otherwise identical to creating the ring’s burst of flame by speaking the command word.
+If the wearer is capable of channeling positive energy, she may as a standard action (1 AP) expend one use of channeled energy to activate the ring’s burst of flame, even if she has already spoken the ring’s command word for the day. If the wearer also has the Selective Channeling feat, she may select a number of allies equal to her Charisma modifier to exclude from the burst of flame; these allies are not affected by the flame. This effect is otherwise identical to creating the ring’s burst of flame by speaking the command word.
 
 **Construction**
 
@@ -2818,7 +2818,7 @@ This small wooden ring resembles a serpent with tiny gemstone eyes coiling aroun
 
 Three times per day as a free action, the wearer of the ring may cause her fangs to drip with venom, making her bite attack poisonous for 1 round. The save DC of this poison is equal to 10 + 1/2 the wearer’s Hit Dice + the wearer’s Constitution modifier, but otherwise acts as black adder venom. If the wearer rolls a natural 1 on an attack with her poisonous bite, she is exposed to the poison.
 
-Once per day as a standard action, the wearer may command her tongue to lengthen and become forked for 1 minute, gaining the scent special ability. While this ability is active, the wearer has a 20% chance of failure when casting any spell with a verbal component, as the tongue makes it difficult to speak.
+Once per day as a standard action (1 AP), the wearer may command her tongue to lengthen and become forked for 1 minute, gaining the scent special ability. While this ability is active, the wearer has a 20% chance of failure when casting any spell with a verbal component, as the tongue makes it difficult to speak.
 
 The ring makes its wearer more sensitive to cold. She takes a –2 penalty to saves against spells with the cold descriptor and the effects of cold weather. Additionally, if the wearer is successfully affected by a spell with the cold descriptor, she is slowed for 1 round.
 
@@ -2856,7 +2856,7 @@ This white gold ring is engraved with the images of a mastiff and a thundercloud
 
 **Slot** ring; **Price** 12,000 gp; **Weight** —
 
-This iron ring is set with a polished bloodstone. When created, a *ring of blood calling* creates a link between a single mortal creature devoted to the god of tyranny and contracts and a specific devil with no more than 12 Hit Dice who willingly agrees to be bound by the item. Once per day as a standard action, the ring’s wearer can place a drop of his own blood on the ring’s gem (provoking attacks of opportunity) to immediately call the devil linked to the ring to any space within 30 feet. While the wearer does not control the devil, most wearers make agreements with the devil linked to the ring for protection or some other service when called. The called devil remains for 1 hour, or the wearer can dismiss the devil as a free action.
+This iron ring is set with a polished bloodstone. When created, a *ring of blood calling* creates a link between a single mortal creature devoted to the god of tyranny and contracts and a specific devil with no more than 12 Hit Dice who willingly agrees to be bound by the item. Once per day as a standard action (1 AP), the ring’s wearer can place a drop of his own blood on the ring’s gem (provoking attacks of opportunity) to immediately call the devil linked to the ring to any space within 30 feet. While the wearer does not control the devil, most wearers make agreements with the devil linked to the ring for protection or some other service when called. The called devil remains for 1 hour, or the wearer can dismiss the devil as a free action.
 
 If the devil linked to the ring is killed, the ring crumbles to dust. If wearer linked to the ring is killed, a new wearer can summon the linked devil, but can compel the devil to perform only one service, as per planar binding, which severs the devil’s link to the ring when the task is completed unless the new wearer makes his own deal with the devil, reestablishing the link between the wearer, the devil, and the ring.
 
@@ -2910,7 +2910,7 @@ Once per day, if the wearer is killed or reduced to negative hit points, a plagu
 
 Powerful gillmen who suspect they harbor unwitting allegiance to hidden masters use *rings of refusal* to resist such bonds. The wearer of a* ring of refusal* gains a +2 bonus on saving throws against enchantment spells and effects. When the wearer is targeted by* break enchantment* or a similar effect that ends an enchantment, the caster gains a +2 bonus on caster level checks to resolve the effect.
 
-The wearer can also activate the ring once per day as an immediate action to gain spell resistance 25 against a single enchantment spell or effect.
+The wearer can also activate the ring once per day as an immediate action (1 AP of your next turn) to gain spell resistance 25 against a single enchantment spell or effect.
 
 **Construction**
 
@@ -2970,7 +2970,7 @@ This bronze band is covered in geometric shapes and studded with tiny pearls. Th
 
 **Slot** ring; **Price** 180,000 gp; **Weight** —
 
-This extravagant ring is heavy with precious jewels. As fashions change (or as the wearer’s fancy shifts), the wearer can alter the appearance of her armor, clothing, and even weaponry at will as a standard action; this change is illusory and doesn’t affect the actual abilities of gear or weapons (although drastic changes in size are beyond the scope of this ability). A ring of splendid security’s primary purpose, though, is to grant the wearer protection from harm. As long as it is worn, the ring grants the wearer a +5 deflection bonus to her AC, a +5 resistance bonus on saving throws, and spell resistance 22.
+This extravagant ring is heavy with precious jewels. As fashions change (or as the wearer’s fancy shifts), the wearer can alter the appearance of her armor, clothing, and even weaponry at will as a standard action (1 AP); this change is illusory and doesn’t affect the actual abilities of gear or weapons (although drastic changes in size are beyond the scope of this ability). A ring of splendid security’s primary purpose, though, is to grant the wearer protection from harm. As long as it is worn, the ring grants the wearer a +5 deflection bonus to her AC, a +5 resistance bonus on saving throws, and spell resistance 22.
 
 **Construction**
 
@@ -2982,7 +2982,7 @@ This extravagant ring is heavy with precious jewels. As fashions change (or as t
 
 **Slot** ring; **Price** 3,820 gp; **Weight** —
 
-A stair-step pattern of stars wraps around the outside of this dark blue ring. In addition to the powers of a *ring of feather falling*, a* ring of stairs and stars* allows the wearer to use* magic missile* once per day, with the missiles taking the shape of shooting stars. As a standard action, the wearer may create an illusory butterfly that flits about within the wearer’s square for 1 minute before fading away.
+A stair-step pattern of stars wraps around the outside of this dark blue ring. In addition to the powers of a *ring of feather falling*, a* ring of stairs and stars* allows the wearer to use* magic missile* once per day, with the missiles taking the shape of shooting stars. As a standard action (1 AP), the wearer may create an illusory butterfly that flits about within the wearer’s square for 1 minute before fading away.
 
 **Construction**
 
@@ -2994,7 +2994,7 @@ A stair-step pattern of stars wraps around the outside of this dark blue ring. I
 
 **Slot** ring; **Price** 18,000 gp; **Weight** —
 
-A *ring of stony flesh* gives the wearer’s skin the appearance of flexible stone. Once per day, the wearer can expend a charge as a standard action to gain the benefits of *stoneskin*. While under this effect, the wearer gains the earth glide ability, allowing her to move through unworked stone or earth as easily as a fish swims through water. The wearer cannot move through stone composed of multiple blocks—such as the walls of a tomb or castle—with this ability, only through solid masses of stone. In addition, a* ring of stony flesh* automatically nullifies any petrification effect that targets the wearer by expending 2 charges, provided the ring has at least 2 charges remaining. The ring’s protection effect activates before the wearer attempts a saving throw against the petrification attempt. A *ring of stony flesh* has 10 charges when created.
+A *ring of stony flesh* gives the wearer’s skin the appearance of flexible stone. Once per day, the wearer can expend a charge as a standard action (1 AP) to gain the benefits of *stoneskin*. While under this effect, the wearer gains the earth glide ability, allowing her to move through unworked stone or earth as easily as a fish swims through water. The wearer cannot move through stone composed of multiple blocks—such as the walls of a tomb or castle—with this ability, only through solid masses of stone. In addition, a* ring of stony flesh* automatically nullifies any petrification effect that targets the wearer by expending 2 charges, provided the ring has at least 2 charges remaining. The ring’s protection effect activates before the wearer attempts a saving throw against the petrification attempt. A *ring of stony flesh* has 10 charges when created.
 
 **Construction**
 
@@ -3030,7 +3030,7 @@ Sculpted into the intricate form of a golden cacodaemon, this ring features a de
 
 **Price** 18,000 gp; **Weight** —
 
-This delicate ring of forged bronze is formed into the shape of two hands, which do not quite touch as they meet at the top of the wearer’s finger. A *ring of the clean hands* grants use of *telekinesis* as a standard action and has 10 charges. These charges return at the start of the next day.
+This delicate ring of forged bronze is formed into the shape of two hands, which do not quite touch as they meet at the top of the wearer’s finger. A *ring of the clean hands* grants use of *telekinesis* as a standard action (1 AP) and has 10 charges. These charges return at the start of the next day.
 
 The ring’s charges can be expended to create the following effects:
 
@@ -3052,7 +3052,7 @@ The ring’s charges can be expended to create the following effects:
 
 **Slot** ring; **Price** 10,800 gp; **Weight** —
 
-Crudely cut amethysts and a single engraved skull decorate the band of this thick iron ring. The ring grants its wearer a +5 competence bonus on Appraise checks to determine the most valuable item in a treasure hoard and a +5 competence bonus on Heal checks to ascertain details of a dead creature’s demise. Once per day as a standard action, the wearer can touch the ring to a corpse or piece of a corpse to learn the dead creature’s name, gender, race, and profession or role, as well as the manner of the creature’s death. The wearer also becomes aware of the location of other pieces of the corpse if they’re within 1,200 feet. If the body part comes from a creature that’s still alive or undead, the wearer gains no information. The *ring of the iron skull* must be worn for 24 hours before it starts to function for the wearer.
+Crudely cut amethysts and a single engraved skull decorate the band of this thick iron ring. The ring grants its wearer a +5 competence bonus on Appraise checks to determine the most valuable item in a treasure hoard and a +5 competence bonus on Heal checks to ascertain details of a dead creature’s demise. Once per day as a standard action (1 AP), the wearer can touch the ring to a corpse or piece of a corpse to learn the dead creature’s name, gender, race, and profession or role, as well as the manner of the creature’s death. The wearer also becomes aware of the location of other pieces of the corpse if they’re within 1,200 feet. If the body part comes from a creature that’s still alive or undead, the wearer gains no information. The *ring of the iron skull* must be worn for 24 hours before it starts to function for the wearer.
 
 **Construction**
 
@@ -3094,7 +3094,7 @@ This gold ring bears three dagger-shaped marks. It functions as a *ring of prote
 
 This mithral ring is engraved with a pattern of rolling waves that encircles the entire band. The *saltspray ring* is immune to rust, both from natural oxidation and rust caused by magical effects.
 
-Upon command, the ring causes a thick vapor to continuously surround its owner as per *obscuring mist*, except the mist has a 10-foot radius from the wearer and the area of effect moves with the wearer. This mist is exceedingly wet and extinguishes all nonmagical fires within its area. Magical fires and creatures with the fire subtype are not dispelled or adversely affected by the mist, though such creatures find being in the fog to be an uncomfortable experience. The mist does not permit aquatic creatures without the amphibious special quality to breathe out of water, but creatures that must remain wet or suffer a negative effect or condition have that requirement satisfied by the ring’s effect. This effect can be dismissed as a standard action. The ring has no effect whatsoever underwater.
+Upon command, the ring causes a thick vapor to continuously surround its owner as per *obscuring mist*, except the mist has a 10-foot radius from the wearer and the area of effect moves with the wearer. This mist is exceedingly wet and extinguishes all nonmagical fires within its area. Magical fires and creatures with the fire subtype are not dispelled or adversely affected by the mist, though such creatures find being in the fog to be an uncomfortable experience. The mist does not permit aquatic creatures without the amphibious special quality to breathe out of water, but creatures that must remain wet or suffer a negative effect or condition have that requirement satisfied by the ring’s effect. This effect can be dismissed as a standard action (1 AP). The ring has no effect whatsoever underwater.
 
 **Construction**
 
@@ -3108,7 +3108,7 @@ Upon command, the ring causes a thick vapor to continuously surround its owner a
 
 This otherwise plain ring is adorned with a tiny seven-pointed rune. These rings were given to agents and allies of ancient archmages as badges of office and tokens of appreciation for their work—sometimes, they were given as bribes to those an archmage was attempting to win to his cause. Like the more common *seven-pointed medallion*, those archmages had special links to* seven-pointed rings* that aid in scrying and observation of the world around the wearer of the ring.
 
-A *seven-pointed ring* grants a +3 deflection bonus to AC, a +3 resistance bonus on all saving throws, and protects the wearer with a constant *endure elements* effect. At will, as a standard action, the wearer can use the *seven-pointed ring* to change the appearance of his clothing or armor into any other kind of clothing or armor. The actual clothing and armor worn retain all their properties (including weight) when glamered. Only *true seeing* or similar magic reveals the true nature of the adornments.
+A *seven-pointed ring* grants a +3 deflection bonus to AC, a +3 resistance bonus on all saving throws, and protects the wearer with a constant *endure elements* effect. At will, as a standard action (1 AP), the wearer can use the *seven-pointed ring* to change the appearance of his clothing or armor into any other kind of clothing or armor. The actual clothing and armor worn retain all their properties (including weight) when glamered. Only *true seeing* or similar magic reveals the true nature of the adornments.
 
 **Construction**
 
@@ -3158,7 +3158,7 @@ This 3-foot-long iron rod has a flanged, conical head and strikes as a *+1 light
 
 **Slot** held; **Price** 24,000 gp; **Weight** 3 lbs.
 
-A *famine rod* is a 2-foot length of ebony carved in the likeness of a gaunt, emaciated man. As a standard action, the wielder can expend 1 charge to make a ranged touch attack against a foe within 60 feet, dealing 2d6 points of damage on a hit. The wielder gains temporary hit points equal to half of the damage the rod deals. The temporary hit points disappear 1 hour later. The wielder can expend 3 charges to deal 4d6 points of damage instead.
+A *famine rod* is a 2-foot length of ebony carved in the likeness of a gaunt, emaciated man. As a standard action (1 AP), the wielder can expend 1 charge to make a ranged touch attack against a foe within 60 feet, dealing 2d6 points of damage on a hit. The wielder gains temporary hit points equal to half of the damage the rod deals. The temporary hit points disappear 1 hour later. The wielder can expend 3 charges to deal 4d6 points of damage instead.
 
 A *famine rod* has 10 charges when found. Spent charges are renewed once per week, so that a wielder can expend up to 10 charges in any 1-week period.
 
@@ -3174,9 +3174,9 @@ A *famine rod* has 10 charges when found. Spent charges are renewed once per wee
 
 This wooden marotte is topped with a jester’s head whose comical face takes on the likeness of the wielder. As a free action, the wielder of a *fool’s scepter* can speak through the jester’s head and imitate voices and sounds with a volume up to that of a dragon’s roar. The wielder can also cause the jester’s face to transform into the comic likeness of any creature she can visualize. Using a *fool’s scepter* in this manner grants a +5 circumstance bonus to Perform (comedy) checks.
 
-Once per day as a standard action, the wielder can cause the jester head to take on the likeness of an individual creature within 60 feet and then harangue that creature with magically honed mockery. If the creature possesses an Intelligence of 3 or higher, they are dazed with humiliation for 2d6 rounds and shaken for 10 minutes. This is a mind-affecting, language-dependent compulsion effect, and is negated by a successful DC 15 Will saving throw.
+Once per day as a standard action (1 AP), the wielder can cause the jester head to take on the likeness of an individual creature within 60 feet and then harangue that creature with magically honed mockery. If the creature possesses an Intelligence of 3 or higher, they are dazed with humiliation for 2d6 rounds and shaken for 10 minutes. This is a mind-affecting, language-dependent compulsion effect, and is negated by a successful DC 15 Will saving throw.
 
-Once per week as a standard action, the wielder can query the jester’s head for information regarding an individual creature. The head transforms into the likeness of that creature and recites a number of jocular stories over the next 2d6 × 10 minutes, providing information as per the *legend lore* spell. If the subject of the wielder’s query is present and within 60 feet, the head also provides information regarding the subject’s thoughts, desires, personality, and motivations as if using *detect thoughts*, though the subject may negate this divination with a successful DC 15 Will save. In this circumstance, the head always answers in a voice that is loud enough to be audible to the subject of the query.
+Once per week as a standard action (1 AP), the wielder can query the jester’s head for information regarding an individual creature. The head transforms into the likeness of that creature and recites a number of jocular stories over the next 2d6 × 10 minutes, providing information as per the *legend lore* spell. If the subject of the wielder’s query is present and within 60 feet, the head also provides information regarding the subject’s thoughts, desires, personality, and motivations as if using *detect thoughts*, though the subject may negate this divination with a successful DC 15 Will save. In this circumstance, the head always answers in a voice that is loud enough to be audible to the subject of the query.
 
 **Construction**
 
@@ -3188,7 +3188,7 @@ Once per week as a standard action, the wielder can query the jester’s head fo
 
 **Slot** none; **Price** 80,000 gp; **Weight** 8 lbs.
 
-This irregularly shaped iron rod is studded with orange gems. It can be wielded as a *+2 club*. For 10 rounds per day, the rod can be wielded as a* +2 flaming burst club*. These rounds need not be consecutive. Additionally, three times per day as a standard action, a creature wielding this rod can use it to spray a 30-foot cone of lava droplets that deals 13d6 points of fire damage (Reflex DC 20 half). Once per day as a standard action, the wielder can instead release a cone of harmless pebbles that fall to the ground and cover the area. These pebbles transform into tiny blobs of lava up to 5 rounds later. The user determines the round upon which the pebbles transform into lava when initially activating the rod for this effect. Any creature in the area of the pebbles when they transform takes 13d6 points of fire damage (Reflex DC 20 half).
+This irregularly shaped iron rod is studded with orange gems. It can be wielded as a *+2 club*. For 10 rounds per day, the rod can be wielded as a* +2 flaming burst club*. These rounds need not be consecutive. Additionally, three times per day as a standard action (1 AP), a creature wielding this rod can use it to spray a 30-foot cone of lava droplets that deals 13d6 points of fire damage (Reflex DC 20 half). Once per day as a standard action (1 AP), the wielder can instead release a cone of harmless pebbles that fall to the ground and cover the area. These pebbles transform into tiny blobs of lava up to 5 rounds later. The user determines the round upon which the pebbles transform into lava when initially activating the rod for this effect. Any creature in the area of the pebbles when they transform takes 13d6 points of fire damage (Reflex DC 20 half).
 
 **Construction**
 
@@ -3217,9 +3217,9 @@ A *nightmare rod* is a wooden rod with a smooth, purple, crystalline octopus clu
 
 This 3-foot-long, magically reinforced obsidian rod is capped with a globe of volcanic glass at one end, and a gleaming spike at the other. Veins of molten earth glow faintly beneath the rod’s surface, flowing from a swirling fiery mass at the orb’s core.
 
-Once per day, the spiked end can be driven into sand, mud, or loose earth as a move action, into dense soil or loose gravel as a standard action, or into stone or metal as a full-round action. Once anchored, the earth in a path that is 5 feet wide and 30 feet long cracks and erupts with superheated gases in the direction of the wielder’s choosing, originating in a square adjacent to the *pyroclastic spike*. Creatures standing in the path take 2d6 points of fire damage (Reflex DC 16 half) from the flaming jets of sulfuric gases as the ground beneath them begins to liquefy.
+Once per day, the spiked end can be driven into sand, mud, or loose earth as a move action (1 AP), into dense soil or loose gravel as a standard action (1 AP), or into stone or metal as a full-round action (3 AP). Once anchored, the earth in a path that is 5 feet wide and 30 feet long cracks and erupts with superheated gases in the direction of the wielder’s choosing, originating in a square adjacent to the *pyroclastic spike*. Creatures standing in the path take 2d6 points of fire damage (Reflex DC 16 half) from the flaming jets of sulfuric gases as the ground beneath them begins to liquefy.
 
-One round after anchoring the rod, liquid fire begins to pour from the *pyroclastic spike* along the affected area, creating a molten river 2 feet deep. The pyroclastic flow deals 10d6 points of fire damage to any barriers it encounters until it is able to flow freely forward to the full range of effect. Creatures in the area of effect automatically take 2d6 points of fire damage each round; those falling prone or held under the liquid fire take 10d6 points of fire damage each round. The molten river persists until the *pyroclastic spike* is removed from the ground as a full-round action, at which point the affected area immediately cools. Any creature in the molten terrain becomes entangled when the rock cools, but may escape with a successful DC 16 Reflex save.
+One round after anchoring the rod, liquid fire begins to pour from the *pyroclastic spike* along the affected area, creating a molten river 2 feet deep. The pyroclastic flow deals 10d6 points of fire damage to any barriers it encounters until it is able to flow freely forward to the full range of effect. Creatures in the area of effect automatically take 2d6 points of fire damage each round; those falling prone or held under the liquid fire take 10d6 points of fire damage each round. The molten river persists until the *pyroclastic spike* is removed from the ground as a full-round action (3 AP), at which point the affected area immediately cools. Any creature in the molten terrain becomes entangled when the rock cools, but may escape with a successful DC 16 Reflex save.
 
 **Construction**
 
@@ -3247,7 +3247,7 @@ The rod creates as many of the four *walls of fire* as it can, though barriers a
 
 One half of this rod is made of gray, semisolid fog, while the other half glows from within as if filled with flickering embers. A *rod of gripping smoke* acts as a *+1 ghost touch light mace*. Three times per day, as the wielder casts a spell that creates fog or smoke, it can make the effect particularly cloying, causing the area of the spell to count as difficult terrain. This ability can’t modify fog or smoke spells that already specifically impede movement (like* solid fog*).
 
-Additionally, three times per day as a move action, the wielder of a *rod of gripping smoke* can point the rod at any single target within an area of fog, mist, smoke, or similar vapor within 60 feet (including the area of foglike spells such as *cloudkill* or *incendiary cloud*) and cause the vapor to tighten around that target. The wielder attempts a disarm, grapple, or steal combat maneuver at a +16 bonus against the target’s CMD. This combat maneuver doesn’t provoke an attack of opportunity. If the check to disarm succeeds, the disarmed weapon falls in a random square adjacent to the target. If the check to grapple succeeds, the target gains the grappled condition for 1 round. While grappled in this way, the victim can’t move without first breaking the grapple (CMD 26). If the check to steal succeeds, the stolen item lands in a random square adjacent to the target; unless the target succeeds at a DC 20 Perception check at the time the item is stolen, it doesn’t realize the item is missing until it either leaves the affected area or attempts to use or retrieve the item.
+Additionally, three times per day as a move action (1 AP), the wielder of a *rod of gripping smoke* can point the rod at any single target within an area of fog, mist, smoke, or similar vapor within 60 feet (including the area of foglike spells such as *cloudkill* or *incendiary cloud*) and cause the vapor to tighten around that target. The wielder attempts a disarm, grapple, or steal combat maneuver at a +16 bonus against the target’s CMD. This combat maneuver doesn’t provoke an attack of opportunity. If the check to disarm succeeds, the disarmed weapon falls in a random square adjacent to the target. If the check to grapple succeeds, the target gains the grappled condition for 1 round. While grappled in this way, the victim can’t move without first breaking the grapple (CMD 26). If the check to steal succeeds, the stolen item lands in a random square adjacent to the target; unless the target succeeds at a DC 20 Perception check at the time the item is stolen, it doesn’t realize the item is missing until it either leaves the affected area or attempts to use or retrieve the item.
 
 **Construction**
 
@@ -3813,7 +3813,7 @@ The wielder can cast up to three spells per day that are widened as though using
 
 This carved stone rod is capped with a flat metal trowel blade. The rod can be used three times per day, in any combination of the following abilities.
 - The blade end can produce enough mortar each day to hold together a brick or stone wall 10 feet long, 10 feet high, and 1 foot thick, which takes approximately 8 hours of work (the rod does not create the other building materials, such as bricks or stones). The mortar fully cures after 8 hours. The blade produces mortar as needed as part of normal use (instead of all at once).
-- If a command word is spoken and the butt end is pointed at a piece of rock or stone weighing up to 1,000 pounds (approximately a 24-inch cube), the wielder can move that stone vertically as if using *levitate*, and can move the levitating stone horizontally 5 feet as a move action. Each such use of the rod lasts up to 10 minutes, and the wielder can divide this duration among multiple stones (but can move only one stone at a time).
+- If a command word is spoken and the butt end is pointed at a piece of rock or stone weighing up to 1,000 pounds (approximately a 24-inch cube), the wielder can move that stone vertically as if using *levitate*, and can move the levitating stone horizontally 5 feet as a move action (1 AP). Each such use of the rod lasts up to 10 minutes, and the wielder can divide this duration among multiple stones (but can move only one stone at a time).
 - If a second command word is spoken, the wielder can draw a line on the ground with the trowel blade, and over the course of the next 10 rounds, the line grows a wall of stone at a rate of 1 foot per round. The wall is masonry instead of natural stone. The wall grows to a maximum of 10 feet high and 10 feet long. It merges with existing masonry, or creates a smooth seam against natural stone or a wooden frame (such as a doorway). This ability functions only if the floor is stone (whether natural or worked).
 
 **Construction**
@@ -3826,7 +3826,7 @@ This carved stone rod is capped with a flat metal trowel blade. The rod can be u
 
 **Price** 65,000 gp; **Weight** 10 lbs.
 
-This ornate, adamantine rod appears to be a cross between a halberd and a strange scepter of alien design. Despite its rigid appearance, the rod is surprisingly flexible and can extend in combat—the weapon functions as a *+3 keen adamantine halberd* that has reach but can still function normally against adjacent foes. As a full-round action up to five times per day, the rod can be used to fire razors. Treat these as* +3 keen adamantine arrows *fired from a longbow (any feats possessed by the user that function with longbows work with these flechettes).
+This ornate, adamantine rod appears to be a cross between a halberd and a strange scepter of alien design. Despite its rigid appearance, the rod is surprisingly flexible and can extend in combat—the weapon functions as a *+3 keen adamantine halberd* that has reach but can still function normally against adjacent foes. As a full-round action (3 AP) up to five times per day, the rod can be used to fire razors. Treat these as* +3 keen adamantine arrows *fired from a longbow (any feats possessed by the user that function with longbows work with these flechettes).
 
 **Construction**
 
@@ -3840,7 +3840,7 @@ This ornate, adamantine rod appears to be a cross between a halberd and a strang
 
 The head of this rod is carved to resemble the visage of an ancient desert god of chaos, darkness, destruction, and snakes. A *rod of the devoured dawn* can be wielded as a *+1 heavy mace*. When holding the rod, the wielder gains darkvision with a range of 30 feet. Once per day, the rod can create a shadowy* hypnotic pattern* that also functions as *dispel magic* and targets any spells with the light descriptor in the area of effect.
 
-When the wielder confirms a critical hit with a *rod of the devoured dawn* on a Medium or smaller foe, the head of the rod animates and grants an automatic grapple check against the creature struck (this does not provoke an attack of opportunity). If the grapple check is successful, the rod’s jaw unhinges and expands momentarily to swallow the creature, gulping it into a flesh-walled extradimensional space. The swallowed target gains the grappled condition and takes 1d8 points of bludgeoning damage per round on its turn. The creature can cut its way out (AC 14, hp 24) or wriggle out with a successful DC 25 Escape Artist check as a full-round action—either method of escape causes the victim to be disgorged from the rod into an adjacent space. The rod automatically disgorges a swallowed victim if the swallowed creature dies or if the rod is destroyed. Only one creature can be swallowed at a time. A *rod of the devoured dawn* only functions if its wielder is chaotic.
+When the wielder confirms a critical hit with a *rod of the devoured dawn* on a Medium or smaller foe, the head of the rod animates and grants an automatic grapple check against the creature struck (this does not provoke an attack of opportunity). If the grapple check is successful, the rod’s jaw unhinges and expands momentarily to swallow the creature, gulping it into a flesh-walled extradimensional space. The swallowed target gains the grappled condition and takes 1d8 points of bludgeoning damage per round on its turn. The creature can cut its way out (AC 14, hp 24) or wriggle out with a successful DC 25 Escape Artist check as a full-round action (3 AP)—either method of escape causes the victim to be disgorged from the rod into an adjacent space. The rod automatically disgorges a swallowed victim if the swallowed creature dies or if the rod is destroyed. Only one creature can be swallowed at a time. A *rod of the devoured dawn* only functions if its wielder is chaotic.
 
 **Construction**
 
@@ -3940,7 +3940,7 @@ This black poker has a cherry-red tip, as though fresh from a searing fire. The 
 
 **Slot** none; **Price** 240,000 gp; **Weight** 5 lbs.
 
-The Archmage’s staff is a variant staff of power that allows the wielder to cast a wide range of spells. *Fireball* (heightened to 5th level; 1 charge)*Flame arrow* (1 charge)*Invisibility* (1 charge)*Knock* (1 charge)*Nondetection* (1 charge)Widened* fog cloud* (1 charge)*Break enchantment* (2 charges)*Greater dispel magic* (2 charges)*Repulsion* (2 charges)*Wall of force* (in a 10-foot-diameter hemisphere around the caster only; 2 charges)* the Archmage’s Staff* is a* +2 quarterstaff* that grants its wielder a +2 luck bonus to AC and on saving throws. Like a* staff of power*, it can be intentionally broken by its wielder as a retributive strike. Doing so is a standard action. All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge, those within 40 feet take 15 points of damage per charge, and those within 60 feet take 10 points of damage per charge. Anyone affected who succeeds at a DC 17 Reflex save takes only half damage, though the wielder is always destroyed.
+The Archmage’s staff is a variant staff of power that allows the wielder to cast a wide range of spells. *Fireball* (heightened to 5th level; 1 charge)*Flame arrow* (1 charge)*Invisibility* (1 charge)*Knock* (1 charge)*Nondetection* (1 charge)Widened* fog cloud* (1 charge)*Break enchantment* (2 charges)*Greater dispel magic* (2 charges)*Repulsion* (2 charges)*Wall of force* (in a 10-foot-diameter hemisphere around the caster only; 2 charges)* the Archmage’s Staff* is a* +2 quarterstaff* that grants its wielder a +2 luck bonus to AC and on saving throws. Like a* staff of power*, it can be intentionally broken by its wielder as a retributive strike. Doing so is a standard action (1 AP). All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge, those within 40 feet take 15 points of damage per charge, and those within 60 feet take 10 points of damage per charge. Anyone affected who succeeds at a DC 17 Reflex save takes only half damage, though the wielder is always destroyed.
 
 The retributive strike destroys the staff, although it reforms on the anniversary of the Archmage’s death 10d10 years later somewhere on the Material Plane within 100 miles of one of the Archmage’s descendants.
 
@@ -3978,7 +3978,7 @@ This iron staff, silvered and inlaid with diamonds, curves at one end like a she
 
 Both the *spiritual weapon* and *spiritual ally* gain a +1 enhancement bonus to attack and damage, and any *spiritual weapon* or *spiritual ally* created by the crook is invisible as per *greater invisibility*, gaining the usual benefits when attacking creatures are unable to see it.
 
-The wielder of a *crook of unseen forces* can spend 1 or more charges as a standard action to create an invisible wave of force in a 30-foot line. This wave of force attempts a dragAPG, repositionAPG, or trip combat maneuver (wielder’s choice) against one creature in this line for each charge expended. This special combat maneuver check does not provoke attacks of opportunity and uses the better of the wielder’s Charisma, Intelligence, or Wisdom modifiers in place of his Strength modifier to his CMB.
+The wielder of a *crook of unseen forces* can spend 1 or more charges as a standard action (1 AP) to create an invisible wave of force in a 30-foot line. This wave of force attempts a dragAPG, repositionAPG, or trip combat maneuver (wielder’s choice) against one creature in this line for each charge expended. This special combat maneuver check does not provoke attacks of opportunity and uses the better of the wielder’s Charisma, Intelligence, or Wisdom modifiers in place of his Strength modifier to his CMB.
 
 **Construction**
 
@@ -4031,7 +4031,7 @@ A *staff of stoneweaving* is a staff of rough-hewn obsidian with a glowing ruby 
 - *Stone to flesh* (2 charges)
 - *Stoneskin* (2 charges)
 
-Additionally, the *staff of stoneweaving* acts as a *+1 halfling sling-staff*. The staff creates its own ammunition—ruby sling bullets which disappear after striking or missing their target. These bullets are created by tapping the head of the staff against the ground (a move action). The user cannot pick up bullets after firing them or otherwise harvest them; at the end of the round after a bullet is created, it disappears from existence.
+Additionally, the *staff of stoneweaving* acts as a *+1 halfling sling-staff*. The staff creates its own ammunition—ruby sling bullets which disappear after striking or missing their target. These bullets are created by tapping the head of the staff against the ground (a move action (1 AP)). The user cannot pick up bullets after firing them or otherwise harvest them; at the end of the round after a bullet is created, it disappears from existence.
 
 **Construction**
 
@@ -4100,7 +4100,7 @@ This slender silver cane feels more unwieldy than its low weight might suggest, 
 
 As long as the staff’s *anchoring* special ability is in effect, these spells work differently when cast by the wielder, as noted below.
 
-*Kinetic reverberation* not only damages an attacker’s weapon, but also pushes the attacker away. Immediately after the spell’s damage is dealt, as an immediate action, the wielder may attempt a bull rush combat maneuver against his attacker, using his opponent’s attack bonus as his combat maneuver bonus. This combat maneuver does not provoke attacks of opportunity and the wielder does not move with his opponent.
+*Kinetic reverberation* not only damages an attacker’s weapon, but also pushes the attacker away. Immediately after the spell’s damage is dealt, as an immediate action (1 AP of your next turn), the wielder may attempt a bull rush combat maneuver against his attacker, using his opponent’s attack bonus as his combat maneuver bonus. This combat maneuver does not provoke attacks of opportunity and the wielder does not move with his opponent.
 
 *Force hook charge* pulls the target to a square adjacent to the staff on a successful ranged touch attack, rather than pulling the staff and wielder toward the target. The spell’s target may resist this pull with a successful Fortitude save. This movement does not provoke attacks of opportunity.
 
@@ -4152,7 +4152,7 @@ Increases the caster level of divination spells by 1.
 
 **Slot** none; **Price** 8,000 gp; **Weight** 3 lbs.
 
-This sturdy tool has a wooden haft topped with a curved pick head backed with a sharp adze blade at one end and capped with an iron spike on the other. When used as a climbing aid, an *alpine ice axe* grants a +2 circumstance bonus on Climb checks to scale rock or ice walls. In addition, an *alpine ice axe* negates any Climb DC modifiers for climbing a slippery surface. Three times per day as a standard action, the wielder can strike an area of ice or snow with the ice axe to instantly create a series of sturdy handholds in the ice covering a distance of up to 40 feet. An ice wall with these handholds has a Climb DC of 15.
+This sturdy tool has a wooden haft topped with a curved pick head backed with a sharp adze blade at one end and capped with an iron spike on the other. When used as a climbing aid, an *alpine ice axe* grants a +2 circumstance bonus on Climb checks to scale rock or ice walls. In addition, an *alpine ice axe* negates any Climb DC modifiers for climbing a slippery surface. Three times per day as a standard action (1 AP), the wielder can strike an area of ice or snow with the ice axe to instantly create a series of sturdy handholds in the ice covering a distance of up to 40 feet. An ice wall with these handholds has a Climb DC of 15.
 
 An *alpine ice axe* is a tool, not a weapon, but it may be used as an improvised weapon with the usual –4 penalty on attack rolls made with it. An *alpine ice axe* wielded as a weapon functions either as a *+1 light pick* when striking with the pick spike or as a *+1 hand axe* when striking with the adze blade. The ice axe uses the standard threat range and critical modifier for those weapons. An *alpine ice axe* deals double damage against inanimate ice or snow, and if used as a weapon against a creature made mostly of ice (such as an ice elemental or ice golem), an *alpine ice axe* bypasses that creature’s damage reduction.
 
@@ -4252,7 +4252,7 @@ This stone functions as a normal *amethyst pyramid ioun stone*, but against unde
 
 **Slot** neck; **Price** 4,800 gp; **Weight** —
 
-This amulet is crafted from a dragon scale hung on a thin wire of twisted mithral. There are 10 different types of *amulet of dragon’s breath*, each corresponding to one of the 10 dragon types. As a standard action, the wearer of an* amulet of dragon’s breath* can breathe out a blast of energy similar to a dragon’s breath weapon. This breath weapon deals 8d6 points of energy damage (Reflex DC 16 for half). The breath weapon’s shape and energy type depend on the type of dragon scale used to craft the amulet. A new *amulet of dragon’s breath* can be used three times before the dragon scale cracks and the amulet becomes useless.
+This amulet is crafted from a dragon scale hung on a thin wire of twisted mithral. There are 10 different types of *amulet of dragon’s breath*, each corresponding to one of the 10 dragon types. As a standard action (1 AP), the wearer of an* amulet of dragon’s breath* can breathe out a blast of energy similar to a dragon’s breath weapon. This breath weapon deals 8d6 points of energy damage (Reflex DC 16 for half). The breath weapon’s shape and energy type depend on the type of dragon scale used to craft the amulet. A new *amulet of dragon’s breath* can be used three times before the dragon scale cracks and the amulet becomes useless.
 
 **Construction**
 
@@ -4298,7 +4298,7 @@ This crystalline amulet holds a fragment from the fey realm domain of one of the
 
 **Slot** neck; **Price** 21,000 gp; **Weight** —
 
-This amulet can be worn by both corporeal and incorporeal creatures. If worn by a corporeal creature, it confers the *ghost touch* special ability on her natural attacks and weapons she wields (even thrown weapons and projectiles). Once per day as a swift action, the wearer can make the next spell she casts affect incorporeal creatures as though she were using the Ectoplasmic SpellAPG metamagic feat but without increasing the spell level.
+This amulet can be worn by both corporeal and incorporeal creatures. If worn by a corporeal creature, it confers the *ghost touch* special ability on her natural attacks and weapons she wields (even thrown weapons and projectiles). Once per day as a swift action (1 AP), the wearer can make the next spell she casts affect incorporeal creatures as though she were using the Ectoplasmic SpellAPG metamagic feat but without increasing the spell level.
 
 When an incorporeal creature wears the amulet, it can interact with its surroundings. Any item in its possession becomes incorporeal, allowing the incorporeal creature to take items and phase through objects with them. An incorporeal creature without a Strength score uses its Charisma score to determine how much it can carry.
 
@@ -4423,7 +4423,7 @@ With a few strokes to an inanimate object, this ordinary-looking brush animates 
 
 This lens, mounted in a round silver frame, fits snugly in the eye orbit of any Medium or Small user. Three times per day on command, the monocle allows the user to read magical inscriptions (including scrolls) as if affected by *read magic*.
 
-Once per day, by speaking a second command word, the user can activate a 1st-level spell from a scroll even if she doesn’t have the spell on her class list or meet the other requirements. Activating a scroll with the monocle is a full-round action (or the spell’s casting time, whichever is longer).
+Once per day, by speaking a second command word, the user can activate a 1st-level spell from a scroll even if she doesn’t have the spell on her class list or meet the other requirements. Activating a scroll with the monocle is a full-round action (3 AP) (or the spell’s casting time, whichever is longer).
 
 **Construction**
 
@@ -4435,7 +4435,7 @@ Once per day, by speaking a second command word, the user can activate a 1st-lev
 
 **Slot** shoulders; **Price** 9,000 gp; **Weight** 8 lbs.
 
-Images of ballistae ornament this metallic cloak, which fits easily over armor and other bulky clothing. The wearer can activate this cloak as a swift action, causing the garment to splay outward for 1 round, its jagged hem protruding around the wearer in stiff, sharp points. While the cloak is active, the wearer counts as wearing masterwork armor spikes with which she is proficient, and she can walk on air (as though using the *air walk* spell). If she’s riding a mount, the *air walk* effect instead affects the mount while the cloak is active, and the mount can move with the item’s help even if it’s not specially trained to move with the aid of *air walk*. If the wearer (or her mount) isn’t standing on a solid surface by the end of the round, she immediately falls, taking any applicable falling damage.
+Images of ballistae ornament this metallic cloak, which fits easily over armor and other bulky clothing. The wearer can activate this cloak as a swift action (1 AP), causing the garment to splay outward for 1 round, its jagged hem protruding around the wearer in stiff, sharp points. While the cloak is active, the wearer counts as wearing masterwork armor spikes with which she is proficient, and she can walk on air (as though using the *air walk* spell). If she’s riding a mount, the *air walk* effect instead affects the mount while the cloak is active, and the mount can move with the item’s help even if it’s not specially trained to move with the aid of *air walk*. If the wearer (or her mount) isn’t standing on a solid surface by the end of the round, she immediately falls, taking any applicable falling damage.
 
 In addition, on her first successful charge attack during the round the cloak is active, the wearer deals an additional 1d6 points of piercing damage (1d4 if she is Small), plus another 1d6 (or 1d4 if she is Small) for every 20 feet the wearer traveled in a straight line during the charge (maximum 3d6).
 
@@ -4523,7 +4523,7 @@ This rugged leather baldric can hold one weapon in its sheath and has pockets su
 
 **Slot** none; **Price** 6,750 gp; **Weight** 5 lbs.
 
-This heavy bronze bowl, etched with outlines of waves, feels cool to the touch. Once per day as a standard action, the bowl can be commanded to grow in size and fill with 25 gallons of cool, fresh water. In its enlarged state, the basin can accommodate a Medium or smaller creature. The basin remains enlarged for 1 hour or until the user commands it to shrink. All water in the basin disappears when the item shrinks, and any creatures or objects that don’t fit in the shrunken bowl are expelled into an adjacent square.
+This heavy bronze bowl, etched with outlines of waves, feels cool to the touch. Once per day as a standard action (1 AP), the bowl can be commanded to grow in size and fill with 25 gallons of cool, fresh water. In its enlarged state, the basin can accommodate a Medium or smaller creature. The basin remains enlarged for 1 hour or until the user commands it to shrink. All water in the basin disappears when the item shrinks, and any creatures or objects that don’t fit in the shrunken bowl are expelled into an adjacent square.
 
 **Construction**
 
@@ -4535,7 +4535,7 @@ This heavy bronze bowl, etched with outlines of waves, feels cool to the touch. 
 
 **Slot** head; **Price** 6,300 gp; **Weight** 1 lb.
 
-This pot of multicolored makeup was created by warpriests of the goddess of beauty who wanted to be beautiful as well as deadly in battle. It can be used as conventional makeup, stage makeup, or war paint. It can be applied quickly for a lesser effect, but its true power is revealed when it’s applied with great care. If the wearer applies the makeup as a full-round action, she gains the effects of *bless* and* expeditious retreat*. If the wearer applies the makeup over the course of 10 minutes, she gains the effects of* good hope* and* haste*. Applying the makeup provokes attacks of opportunity. The finished makeup has no effect until the wearer activates it as a swift action, at which time its magic lasts either 5 minutes or 5 rounds, depending on the duration of the activated spells (thereafter, the makeup lasts as long as high-quality nonmagical makeup). The magic of the makeup fades after 24 hours if not activated.
+This pot of multicolored makeup was created by warpriests of the goddess of beauty who wanted to be beautiful as well as deadly in battle. It can be used as conventional makeup, stage makeup, or war paint. It can be applied quickly for a lesser effect, but its true power is revealed when it’s applied with great care. If the wearer applies the makeup as a full-round action (3 AP), she gains the effects of *bless* and* expeditious retreat*. If the wearer applies the makeup over the course of 10 minutes, she gains the effects of* good hope* and* haste*. Applying the makeup provokes attacks of opportunity. The finished makeup has no effect until the wearer activates it as a swift action (1 AP), at which time its magic lasts either 5 minutes or 5 rounds, depending on the duration of the activated spells (thereafter, the makeup lasts as long as high-quality nonmagical makeup). The magic of the makeup fades after 24 hours if not activated.
 
 The makeup uses only the head magic item slot when applied (the pot does not use a magic item slot). The pot contains enough makeup for three uses.
 
@@ -4600,7 +4600,7 @@ A *bilious bottle* appears to be a tightly stoppered container of water. It can 
 
 This delicate black veil is made of black lace and crepe and affixed to a midnight blue bonnet. When it’s donned, amorphous shadows swirl beneath the veil across the wearer’s face.
 
-Whenever an ally within 30 feet of the wearer falls unconscious by taking lethal damage, the *bitter widow’s veil* gains 1 charge. The wearer can expend 1 charge as a standard action to unleash a bereaved scream in a 30-foot cone. Creatures within the area must succeed at a DC 16 Will save or become shaken for 4 minutes. If a creature that brought a humanoid or monstrous humanoid to fewer than 0 hit points within the past 12 hours fails the save, it’s dazed for 1 round as it is consumed with sorrow, after which it’s subject to the shaken effect.
+Whenever an ally within 30 feet of the wearer falls unconscious by taking lethal damage, the *bitter widow’s veil* gains 1 charge. The wearer can expend 1 charge as a standard action (1 AP) to unleash a bereaved scream in a 30-foot cone. Creatures within the area must succeed at a DC 16 Will save or become shaken for 4 minutes. If a creature that brought a humanoid or monstrous humanoid to fewer than 0 hit points within the past 12 hours fails the save, it’s dazed for 1 round as it is consumed with sorrow, after which it’s subject to the shaken effect.
 
 As long as the *bitter widow’s veil* has an unspent charge, the wearer can see and hear ethereal creatures as though affected by *see invisibility*. The veil can contain only 1 charge at a time. Unused charges dissipate after 1 hour.
 
@@ -4648,7 +4648,7 @@ A *blackwick cauldron* can also be used as a focus or inexpensive material compo
 
 Contrary to the name, a *blasphemous chalice* takes the form of an enchanted box, usually sumptuously decorated, with a lump of unidentifiable tissue inside. This tissue seems to somehow be alive and bleeds a watery, greenish-black blood.
 
-To benefit from the chalice’s power, a character must bite the tissue and drink the blood as a full-round action. The alien blood twists and rearranges the character’s organs. For the next hour, when the affected creature is hit by a critical hit or a sneak attack, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. A *blasphemous chalice* produces enough blood for a single use per day.
+To benefit from the chalice’s power, a character must bite the tissue and drink the blood as a full-round action (3 AP). The alien blood twists and rearranges the character’s organs. For the next hour, when the affected creature is hit by a critical hit or a sneak attack, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. A *blasphemous chalice* produces enough blood for a single use per day.
 
 **Construction**
 
@@ -4676,7 +4676,7 @@ If the piece of outsider is removed, the *blessed keepsake* is inactive until a 
 
 **Slot** none; **Price** 2,250 gp; **Weight** —
 
-This red elixir is always the temperature of freshly spilled blood. A creature can consume a gobbet of flesh and drink this liquid as a single standard action.
+This red elixir is always the temperature of freshly spilled blood. A creature can consume a gobbet of flesh and drink this liquid as a single standard action (1 AP).
 
 If the drinker is an animal, it is stunned 1 for 1 round, and must succeed at a DC 17 Will save or permanently acquire the maneating animal template. If the *blood of the minotaur lord* is consumed with humanoid flesh, the animal receives no saving throw.
 
@@ -4746,7 +4746,7 @@ Three times per day, the wearer can activate the boots to cause up to 9 5-foot s
 
 The initial affected square must be adjacent to the wearer. Each additional affected square must be adjacent to another affected square, but otherwise the effect can take any shape the wearer desires.
 
-As a standard action, the wearer can rearrange the affected squares. Multiple uses of the boots can create larger areas of bog. The effect lasts until dismissed by the wearer (a free action), the wearer moves more than 5 feet beyond the affected area, the wearer becomes unconscious, or the boots are removed.
+As a standard action (1 AP), the wearer can rearrange the affected squares. Multiple uses of the boots can create larger areas of bog. The effect lasts until dismissed by the wearer (a free action), the wearer moves more than 5 feet beyond the affected area, the wearer becomes unconscious, or the boots are removed.
 
 Additionally, once per day, the wearer can travel as per *dimension door* from one affected square to another.
 
@@ -4760,7 +4760,7 @@ Additionally, once per day, the wearer can travel as per *dimension door* from o
 
 **Slot** wrist; **Price** 6,000 gp; **Weight** —
 
-This bracelet of tiny carved skulls allows its wearer to command up to 8 HD worth of mindless undead creatures as the *command undead* spell. It is a standard action to establish control over an undead creature, and a free action to relinquish control. If the wearer attempts to control more than 8 HD of undead, the new creatures fall under the wearer’s control, and any previously controlled undead in excess of this amount become uncontrolled.
+This bracelet of tiny carved skulls allows its wearer to command up to 8 HD worth of mindless undead creatures as the *command undead* spell. It is a standard action (1 AP) to establish control over an undead creature, and a free action to relinquish control. If the wearer attempts to control more than 8 HD of undead, the new creatures fall under the wearer’s control, and any previously controlled undead in excess of this amount become uncontrolled.
 
 **Construction**
 
@@ -4772,7 +4772,7 @@ This bracelet of tiny carved skulls allows its wearer to command up to 8 HD wort
 
 **Slot** none; **Price** 6,700 gp; **Weight** 2 lbs.
 
-This calfskin drum is painted with an image of a grinning skull, and comes with a giant’s finger bones to use as beaters. A creature with at least 1 rank in Perform (percussion) can play a steady rhythm on the drum as a standard action each round. Doing so grants all undead creatures within 30 feet of the drummer a +2 profane bonus on attack rolls, damage rolls, and Will saves each round the drum is played.
+This calfskin drum is painted with an image of a grinning skull, and comes with a giant’s finger bones to use as beaters. A creature with at least 1 rank in Perform (percussion) can play a steady rhythm on the drum as a standard action (1 AP) each round. Doing so grants all undead creatures within 30 feet of the drummer a +2 profane bonus on attack rolls, damage rolls, and Will saves each round the drum is played.
 
 Alternatively, the drummer can instead force undead creatures in the area to dance in place to the beat of the drum. Affected undead within 30 feet can’t leave their spaces and take a –2 penalty to Armor Class and on Reflex saves for as long as the drummer plays. Intelligent undead can attempt a DC 12 Will save to resist this effect; those that succeed can move and take actions normally, but still take the –2 penalty on Reflex saves and must succeed at concentration checks to cast spells (DC = 10 + the spell’s level). Mindless undead receive no save and can take no actions other than dancing.
 
@@ -4804,7 +4804,7 @@ This black grimoire’s pages are mostly blank, but a few contain rough watercol
 
 A creature whose shadow is stolen must succeed at a DC 18 Will save or be sickened by a nameless melancholy until its shadow is returned (in the meantime, the creature casts no shadow). Losing its shadow has no adverse effect on a creature that cannot be sickened. A *remove curse* spell cast on the creature ends the effect and retrieves the shadow from the book.
 
-As a standard action, the book’s bearer may release a shadow from the book, conjuring an illusory duplicate of the shadow’s owner as if with the spell *shadow conjuration* (DC 18 Will save to recognize that the conjuration is an illusion). The shadow is intelligent and can follow complex commands, but cannot speak and lacks the memories or personality of the creature that cast it. The shadow serves the character who released it for 1 hour or until destroyed, whichever comes first. The shadow then returns instantly and permanently to its original owner, wherever he or she may be. It cannot be commanded to return to the book and cannot be stolen again. The book’s magic can sustain up to five active shadows at a time.
+As a standard action (1 AP), the book’s bearer may release a shadow from the book, conjuring an illusory duplicate of the shadow’s owner as if with the spell *shadow conjuration* (DC 18 Will save to recognize that the conjuration is an illusion). The shadow is intelligent and can follow complex commands, but cannot speak and lacks the memories or personality of the creature that cast it. The shadow serves the character who released it for 1 hour or until destroyed, whichever comes first. The shadow then returns instantly and permanently to its original owner, wherever he or she may be. It cannot be commanded to return to the book and cannot be stolen again. The book’s magic can sustain up to five active shadows at a time.
 
 A *Book of Night without Moon* purchased or found as treasure contains 2d6 shadows, chosen by the GM.
 
@@ -4818,7 +4818,7 @@ A *Book of Night without Moon* purchased or found as treasure contains 2d6 shado
 
 **Slot** feet; **Price** 5,000 gp; **Weight** 5 lbs.
 
-These sturdy leather dwarven boots have soles made of thick gray marble. As a move action, the wearer can plant her feet and draw strength from the earth, gaining fast healing 1 and a +4 bonus to CMD to resist bull rush, reposition, and trip combat maneuver attempts. These effects end if the wearer moves or is moved, knocked prone, or rendered unconscious.
+These sturdy leather dwarven boots have soles made of thick gray marble. As a move action (1 AP), the wearer can plant her feet and draw strength from the earth, gaining fast healing 1 and a +4 bonus to CMD to resist bull rush, reposition, and trip combat maneuver attempts. These effects end if the wearer moves or is moved, knocked prone, or rendered unconscious.
 
 **Construction**
 
@@ -4842,7 +4842,7 @@ Crafted of stout, wax-treated leather and wrapped with warm fur reminiscent of a
 
 **Slot** none; **Price** 12,000 gp; **Weight** 1 lb.
 
-This copper-and-bronze whistle is played by blowing through the mouthpiece while opening and closing one’s hand over the hole to modify the pitch. The whistle has 3 charges, which are automatically restored at sunrise each day. As a standard action, the user can attempt a Perform (wind) check and expend the indicated number of charges to produce one of the following effects.
+This copper-and-bronze whistle is played by blowing through the mouthpiece while opening and closing one’s hand over the hole to modify the pitch. The whistle has 3 charges, which are automatically restored at sunrise each day. As a standard action (1 AP), the user can attempt a Perform (wind) check and expend the indicated number of charges to produce one of the following effects.
 
 *0 charges*: Wake all allies within 30 feet (DC 15).
 
@@ -4858,7 +4858,7 @@ This copper-and-bronze whistle is played by blowing through the mouthpiece while
 
 The charge is expended even if the Perform check fails.
 
-A user of the *bosun’s call* who has the bardic performance class feature can, as a swift action, expend a number of rounds of bardic performance equal to the number of charges needed to produce the effect instead of expending those charges.
+A user of the *bosun’s call* who has the bardic performance class feature can, as a swift action (1 AP), expend a number of rounds of bardic performance equal to the number of charges needed to produce the effect instead of expending those charges.
 
 **Construction**
 
@@ -4902,7 +4902,7 @@ Either use of a *bottled cloud* can be dispersed by a severe wind (31+ mph) in a
 
 **Slot** none; **Price** 3,000 gp; **Weight** 200 lbs.
 
-This immense bag is always full of hefty, good-sized rocks and can be carried over the shoulder or on the belt of a Large or larger creature, though doing so does not take up an item slot. On command as a swift action, a Large or larger creature wearing the *boulder bag* can reach into the bag and pull out a rock two size categories smaller than itself that is suitable for use of the rock throwing ability. No matter how many rocks are taken out, the bag never empties. Furthermore, if a boulder-shaped alchemical item (such as the fiery boulder presented in this article) is placed in the bag, it takes up no weight within the bag, and can also be drawn on command as a swift action, as if it were one of the rocks the bag normally produces.
+This immense bag is always full of hefty, good-sized rocks and can be carried over the shoulder or on the belt of a Large or larger creature, though doing so does not take up an item slot. On command as a swift action (1 AP), a Large or larger creature wearing the *boulder bag* can reach into the bag and pull out a rock two size categories smaller than itself that is suitable for use of the rock throwing ability. No matter how many rocks are taken out, the bag never empties. Furthermore, if a boulder-shaped alchemical item (such as the fiery boulder presented in this article) is placed in the bag, it takes up no weight within the bag, and can also be drawn on command as a swift action (1 AP), as if it were one of the rocks the bag normally produces.
 
 **Construction**
 
@@ -4914,7 +4914,7 @@ This immense bag is always full of hefty, good-sized rocks and can be carried ov
 
 **Slot** wrists; **Price** 9,000 gp; **Weight** —
 
-These azure-and-white marbled bracelets feel smooth and perpetually cool to the touch. When worn, they activate once per day as an immediate action to safeguard against sudden airborne attacks and effects by automatically surrounding their wearer in a cylinder of pure wind and elemental air. This effect functions simultaneously as both *air bubble* and *wind wall*, protecting against missile weapons, gases, and most gaseous breath weapons. It also activates underwater if the wearer begins to drown. Once activated, the effect lasts for 10 rounds.
+These azure-and-white marbled bracelets feel smooth and perpetually cool to the touch. When worn, they activate once per day as an immediate action (1 AP of your next turn) to safeguard against sudden airborne attacks and effects by automatically surrounding their wearer in a cylinder of pure wind and elemental air. This effect functions simultaneously as both *air bubble* and *wind wall*, protecting against missile weapons, gases, and most gaseous breath weapons. It also activates underwater if the wearer begins to drown. Once activated, the effect lasts for 10 rounds.
 
 **Construction**
 
@@ -4956,7 +4956,7 @@ When in the area of an *unhallow* spell cast by a worshiper of the minotaur lord
 
 **Slot** head; **Price** 40,000 gp; **Weight** 2 lbs.
 
-Studded with shards of inert soul gems, this bridle imbues its wearer with a fraction of the power of the Pale Horse, the Horseman of Death’s steed. Once per day as an immediate action, the rider of a creature wearing this item can activate it as part of the mount’s movement. It becomes incorporeal during its movement, though it must stop in an unoccupied space. Any object the creature passes through during its incorporeal movement begins to crumble, having its hit points reduced by half (ignoring hardness). Any living creatures’ spaces the mount passes through during its incorporeal movement feel the cold wind of death and must succeed at a DC 20 Fortitude save or take a -4 penalty to its Strength, Dexterity, and Constitution scores that lasts for 1 minute.
+Studded with shards of inert soul gems, this bridle imbues its wearer with a fraction of the power of the Pale Horse, the Horseman of Death’s steed. Once per day as an immediate action (1 AP of your next turn), the rider of a creature wearing this item can activate it as part of the mount’s movement. It becomes incorporeal during its movement, though it must stop in an unoccupied space. Any object the creature passes through during its incorporeal movement begins to crumble, having its hit points reduced by half (ignoring hardness). Any living creatures’ spaces the mount passes through during its incorporeal movement feel the cold wind of death and must succeed at a DC 20 Fortitude save or take a -4 penalty to its Strength, Dexterity, and Constitution scores that lasts for 1 minute.
 
 **Construction**
 
@@ -4996,7 +4996,7 @@ This pair of leather bracers is marked by runes of bondage from ancient days. Ea
 
 Built by a group of forgotten arcanists and researchers in a secret outpost deep within the desert desert, the bronze sentinel is a magical vehicle shaped as a 15-foot-tall bronze humanoid statue, crafted in the shape of a muscular man wearing a silver headband that resembles two serpents twined together. When the sentinel is active, its eyes shine with green light and a triangle of runes on its chest glows silver.
 
-Close examination and a successful DC 25 Perception check reveal a secret catch that opens a hatch in the statue’s back. Anyone who crawls inside finds seating for one Medium or Small occupant and eight unlabeled levers and pedals. These controls allow a character inside to activate and control the sentinel’s movements and actions. Operating a lever is normally a move action, but operating the lever to extend or retract the sentinel’s arms (such as to attack) is a standard action. No lever can be operated more than once per round.
+Close examination and a successful DC 25 Perception check reveal a secret catch that opens a hatch in the statue’s back. Anyone who crawls inside finds seating for one Medium or Small occupant and eight unlabeled levers and pedals. These controls allow a character inside to activate and control the sentinel’s movements and actions. Operating a lever is normally a move action (1 AP), but operating the lever to extend or retract the sentinel’s arms (such as to attack) is a standard action (1 AP). No lever can be operated more than once per round.
 
 | Lever (d8) | Lever Function |
 |---|---|
@@ -5069,7 +5069,7 @@ This statue takes the form of a bull or a bull-headed humanoid. A hatch in the i
 
 **Slot** none; **Price** 300 gp; **Weight** 4 lbs.
 
-Exquisitely carved from the very finest dark mahogany and polished to a smooth sheen, this 4-inch-long stick feels surprisingly heavy for its size when hefted in the palm. Three notches divide the twig into four 1-inch segments. Snapping the twig at any notch is a swift action that creates smaller twigs of appropriate sizes.
+Exquisitely carved from the very finest dark mahogany and polished to a smooth sheen, this 4-inch-long stick feels surprisingly heavy for its size when hefted in the palm. Three notches divide the twig into four 1-inch segments. Snapping the twig at any notch is a swift action (1 AP) that creates smaller twigs of appropriate sizes.
 
 The first *caber twigs* were created not for combat applications but for performances at tournaments or other festivities. When thrown, a length of *caber twig* releases a thunderous crack and transforms into a massive log. For every segment of twig used, this log measures 5 feet long and weighs 300 pounds. No matter the length, the log created is always 2 feet in diameter. Only one length can be thrown at a time. The dramatic expansion of a *caber twig* segment proved a popular element of festivals throughout a coast later drowned by a great storm, in much the same way fireworks help accentuate celebrations elsewhere in the world.
 
@@ -5150,7 +5150,7 @@ At the end of 1 hour, the inscribed name fades, and the cartouche loses all its 
 
 **Slot** body; **Price** 34,000 gp; **Weight** 1 lb.
 
-This ankle-length black robe, cut in the style favored by Orthodox priests, bears little outward ornamentation beyond its gold buttons, though subtle occult symbols embroidered in black thread decorate the skirt’s hem. The *cassock of the Black Monk* grants a +4 luck bonus to the wearer’s touch AC. In addition, while wearing the cassock, an oracle of the occult mystery gains access to the spectral spells revelation and may use it as if he had it as a normal class feature. If the wearer already has that revelation, he can use that ability one additional time per day. This ability has no effect if worn by a non-oracle. If the wearer is an oracle but does not have the occult mystery, once per day he can cast a spell with the Ectoplasmic Spell feat as a standard action that does not increase the level of the spell. This ability has no effect if the wearer is a non-oracle.
+This ankle-length black robe, cut in the style favored by Orthodox priests, bears little outward ornamentation beyond its gold buttons, though subtle occult symbols embroidered in black thread decorate the skirt’s hem. The *cassock of the Black Monk* grants a +4 luck bonus to the wearer’s touch AC. In addition, while wearing the cassock, an oracle of the occult mystery gains access to the spectral spells revelation and may use it as if he had it as a normal class feature. If the wearer already has that revelation, he can use that ability one additional time per day. This ability has no effect if worn by a non-oracle. If the wearer is an oracle but does not have the occult mystery, once per day he can cast a spell with the Ectoplasmic Spell feat as a standard action (1 AP) that does not increase the level of the spell. This ability has no effect if the wearer is a non-oracle.
 
 **Construction**
 
@@ -5162,7 +5162,7 @@ This ankle-length black robe, cut in the style favored by Orthodox priests, bear
 
 **Slot** feet; **Price** 2,000 gp; **Weight** 1 lb.
 
-These soft-soled boots provide their wearer with a +2 competence bonus on Acrobatics, Climb, and Stealth checks. Once per day as an immediate action, the wearer of *cat burglar’s boots* can reroll any one failed Acrobatics, Climb, or Stealth check, taking the result of that check in place of the first failed check (even if the second result is worse). In addition, a secret pocket in the boots is built to hold a fully functional set of masterwork thieves’ tools. A DC 22 Perception check is required to notice this pocket. Any other object in the pocket causes it to bulge and become obvious to even casual observation.
+These soft-soled boots provide their wearer with a +2 competence bonus on Acrobatics, Climb, and Stealth checks. Once per day as an immediate action (1 AP of your next turn), the wearer of *cat burglar’s boots* can reroll any one failed Acrobatics, Climb, or Stealth check, taking the result of that check in place of the first failed check (even if the second result is worse). In addition, a secret pocket in the boots is built to hold a fully functional set of masterwork thieves’ tools. A DC 22 Perception check is required to notice this pocket. Any other object in the pocket causes it to bulge and become obvious to even casual observation.
 
 **Construction**
 
@@ -5198,7 +5198,7 @@ Typically crafted of bronze, brass, or copper with an upper section of silver or
 
 **Slot** none; **Price** 3,750 gp; **Weight** 1 lb.
 
-Once per day, a creature can pour a potion with a duration longer than instantaneous into the chalice, then drink it as a standard action that provokes attacks of opportunity. The bearer and up to two willing allies within 30 feet gain the benefits as though they had consumed the potion; however, the duration is divided evenly between all recipients (including the bearer), rounded down to the nearest round.
+Once per day, a creature can pour a potion with a duration longer than instantaneous into the chalice, then drink it as a standard action (1 AP) that provokes attacks of opportunity. The bearer and up to two willing allies within 30 feet gain the benefits as though they had consumed the potion; however, the duration is divided evenly between all recipients (including the bearer), rounded down to the nearest round.
 
 **Construction**
 
@@ -5296,7 +5296,7 @@ All of the charts’ benefits only apply within the geographic region of the pir
 
 **Slot** none; **Price** 9,000 gp; **Weight** 10 lbs.
 
-A *chest of keeping* is a large container capable of holding up to 1,000 pounds of contents, with a volume limit of 150 cubic feet. While the chest’s lid is closed, the contents are preserved so that they resist the passage of time and do not decay. Living creatures placed inside the chest have no need to eat or drink, but they age normally. The chest is airtight when the lid is closed, with enough air to last a living creature for up to 10 minutes before it suffocates. Once the lid is closed, a *chest of keeping* can be folded up, compacting down to the size of a typical loaf of bread. When the chest is compressed in this way, its contents do not add to the chest’s standard weight of 10 pounds, as they are shunted into an extradimensional space for storage. Folding or unfolding a *chest of keeping* is a full-round action, and a *chest of keeping* cannot be opened when it is folded.
+A *chest of keeping* is a large container capable of holding up to 1,000 pounds of contents, with a volume limit of 150 cubic feet. While the chest’s lid is closed, the contents are preserved so that they resist the passage of time and do not decay. Living creatures placed inside the chest have no need to eat or drink, but they age normally. The chest is airtight when the lid is closed, with enough air to last a living creature for up to 10 minutes before it suffocates. Once the lid is closed, a *chest of keeping* can be folded up, compacting down to the size of a typical loaf of bread. When the chest is compressed in this way, its contents do not add to the chest’s standard weight of 10 pounds, as they are shunted into an extradimensional space for storage. Folding or unfolding a *chest of keeping* is a full-round action (3 AP), and a *chest of keeping* cannot be opened when it is folded.
 
 **Construction**
 
@@ -5320,7 +5320,7 @@ Cheya is a smaller, immobile cousin of the assassin vine native to the elven kin
 
 **Slot** none; **Price** 6,750 gp; **Weight** 1 lb.
 
-This copper chime can be struck as a standard action, producing a cloud of mist around the user equivalent to an *obscuring mist* spell. If struck again before the mist disperses, the user can call down the fury of a storm on a single target within the clouded area, either striking it with a bolt of lightning (3d6 electricity damage, Reflex DC 15 half) or buffeting it with a *gust of wind* for 1 round, equivalent to the spell *gust of wind*. Either use immediately disperses the cloud of mist and renders the *chime of storm calling* inert for 24 hours. If the *chime of storm calling* is not struck again, the mist disperses after 5 minutes, after which it may be used again to create new banks of mist.
+This copper chime can be struck as a standard action (1 AP), producing a cloud of mist around the user equivalent to an *obscuring mist* spell. If struck again before the mist disperses, the user can call down the fury of a storm on a single target within the clouded area, either striking it with a bolt of lightning (3d6 electricity damage, Reflex DC 15 half) or buffeting it with a *gust of wind* for 1 round, equivalent to the spell *gust of wind*. Either use immediately disperses the cloud of mist and renders the *chime of storm calling* inert for 24 hours. If the *chime of storm calling* is not struck again, the mist disperses after 5 minutes, after which it may be used again to create new banks of mist.
 
 A *chime of storm calling* cannot summon lightning or wind while underground, indoors, or in an arid climate.
 
@@ -5334,7 +5334,7 @@ A *chime of storm calling* cannot summon lightning or wind while underground, in
 
 **Slot** none; **Price** 9,800 gp; **Weight** —
 
-This 1-inch steel cube bears a variety of unique, intricate carvings upon each face. On command, the cube sprouts wings and arms and becomes a Diminutive-sized, cube-shaped mechanical construct (treat as a thrush with hardness 10). The creature obeys and serves whoever activated the cube. It understands Common but cannot speak. The *chirurgeon cube* is skilled at healing constructs. As a standard action, the cube can use the magnets and small hooks embedded on its underside to attach itself to a construct and quickly stitch together any torn and broken pieces. This provides the construct with fast healing 2 for as long as the* chirurgeon cube* remains in contact with it. A* chirurgeon cube* can be activated for up to 10 minutes each day, spent in 1-minute increments. If the* chirurgeon cube* is broken or destroyed in either form, it is forever ruined.
+This 1-inch steel cube bears a variety of unique, intricate carvings upon each face. On command, the cube sprouts wings and arms and becomes a Diminutive-sized, cube-shaped mechanical construct (treat as a thrush with hardness 10). The creature obeys and serves whoever activated the cube. It understands Common but cannot speak. The *chirurgeon cube* is skilled at healing constructs. As a standard action (1 AP), the cube can use the magnets and small hooks embedded on its underside to attach itself to a construct and quickly stitch together any torn and broken pieces. This provides the construct with fast healing 2 for as long as the* chirurgeon cube* remains in contact with it. A* chirurgeon cube* can be activated for up to 10 minutes each day, spent in 1-minute increments. If the* chirurgeon cube* is broken or destroyed in either form, it is forever ruined.
 
 **Construction**
 
@@ -5350,9 +5350,9 @@ A detailed bronze figurine of a crowned honeybee adorns this iron choker. The fi
 
 When this choker is placed on a living creature’s neck, the bee springs to life and latches itself to the wearer, embeds its stinger deep into her neck, and fills the wearer’s throat with swarming bees. Although it produces a disconcerting feeling, this sting and the bees do no harm to the wearer other than to give her voice an aggressive buzzing quality that grants her a +2 competence bonus on Intimidate checks.
 
-Once per day as a standard action, the wearer can swallow some of the bees in her throat as a swift action, which coats her throat in soothing, golden honey. For the next hour, her voice sounds silken and smooth, and she gains a +2 competence bonus on Diplomacy checks rather than on Intimidate checks.
+Once per day as a standard action (1 AP), the wearer can swallow some of the bees in her throat as a swift action (1 AP), which coats her throat in soothing, golden honey. For the next hour, her voice sounds silken and smooth, and she gains a +2 competence bonus on Diplomacy checks rather than on Intimidate checks.
 
-Finally, the wearer can release the entire swarm as a standard action once per day. When she does so, she exhales a 15-foot cone of angry bees from her mouth. Those caught in the cone take 4d6 points of piercing damage and are staggered by the painful stings for 1d4 rounds. A successful DC 16 Reflex saving throw halves the damage inflicted and negates the staggered condition.
+Finally, the wearer can release the entire swarm as a standard action (1 AP) once per day. When she does so, she exhales a 15-foot cone of angry bees from her mouth. Those caught in the cone take 4d6 points of piercing damage and are staggered by the painful stings for 1d4 rounds. A successful DC 16 Reflex saving throw halves the damage inflicted and negates the staggered condition.
 
 **Construction**
 
@@ -5364,9 +5364,9 @@ Finally, the wearer can release the entire swarm as a standard action once per d
 
 **Slot** neck; **Price** 8,000 gp; **Weight** —
 
-This choker consists of a thin gold chain with a small scorpion charm that presses snugly against the neck when worn. Once per day as an immediate action, the wearer of this item can forgo her saving throw against a poison effect, and instead let the scorpion charm siphon the poison, filling to its maximum capacity of 1 dose. The wearer suffers no effects from the poison in this manner. While filled, the charm doesn’t protect against poison.
+This choker consists of a thin gold chain with a small scorpion charm that presses snugly against the neck when worn. Once per day as an immediate action (1 AP of your next turn), the wearer of this item can forgo her saving throw against a poison effect, and instead let the scorpion charm siphon the poison, filling to its maximum capacity of 1 dose. The wearer suffers no effects from the poison in this manner. While filled, the charm doesn’t protect against poison.
 
-As a full-round action, the wearer can remove the choker and affix it to her melee weapon by pressing the scorpion against the weapon and allowing the chain to automatically secure itself around the weapon’s hilt or handle. If the weapon hits, the wearer can choose to dose the target with the poison (in addition to any effects the attack would normally have) as though the weapon were coated with a dose of the poison. This drains the scorpion of its stored dose. The target can attempt a Fortitude save as normal (using the poison’s original DC) to resist the effect.
+As a full-round action (3 AP), the wearer can remove the choker and affix it to her melee weapon by pressing the scorpion against the weapon and allowing the chain to automatically secure itself around the weapon’s hilt or handle. If the weapon hits, the wearer can choose to dose the target with the poison (in addition to any effects the attack would normally have) as though the weapon were coated with a dose of the poison. This drains the scorpion of its stored dose. The target can attempt a Fortitude save as normal (using the poison’s original DC) to resist the effect.
 
 **Construction**
 
@@ -5419,7 +5419,7 @@ The wearer may use this effect 1d3 times per day. The GM determines how many tim
 
 **Slot** neck; **Price** 8,000 gp; **Weight** —
 
-This dark iron pin used to fasten a cloak or cape is the shape of a fly with glittering fragments of soul gems for eyes and is usually crafted by those who venerate the Horseman of Pestilence. Once per day as a standard action, the wearer can exhale a cloud of black flies in a 15-foot cone. Any creature caught in the cone takes 8d6 points of slashing damage as the flies bite its flesh. A successful DC 18 Reflex save halves this damage. If a living creature takes damage from these flies, it must also succeed at a DC 18 Fortitude save or be sickened for 1 minute. Daemons are immune to these effects
+This dark iron pin used to fasten a cloak or cape is the shape of a fly with glittering fragments of soul gems for eyes and is usually crafted by those who venerate the Horseman of Pestilence. Once per day as a standard action (1 AP), the wearer can exhale a cloud of black flies in a 15-foot cone. Any creature caught in the cone takes 8d6 points of slashing damage as the flies bite its flesh. A successful DC 18 Reflex save halves this damage. If a living creature takes damage from these flies, it must also succeed at a DC 18 Fortitude save or be sickened for 1 minute. Daemons are immune to these effects
 
 **Construction**
 
@@ -5451,7 +5451,7 @@ Sustains creature without food or water.
 
 **Resonance**
 
-The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action (1 AP of your next turn), but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
 
 **Construction**
 
@@ -5467,7 +5467,7 @@ This stone sustains the wearer on half the normal amount of food.
 
 **Resonance**
 
-The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action (1 AP of your next turn), but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
 
 **Construction**
 
@@ -5483,7 +5483,7 @@ This stone sustains the wearer without food but he must consume twice the normal
 
 **Resonance**
 
-The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action (1 AP of your next turn), but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
 
 **Construction**
 
@@ -5495,7 +5495,7 @@ The wearer can cast *protection from chaos/evil/good/law* on himself once per da
 
 **Slot** back; **Price** 30,000 gp; **Weight** —
 
-The beauty of this red cloak hides its sinister nature, as at any moment it is capable of shredding into numerous hideous creatures known as nightmare bats. As a free action, you can release 1d4 nightmare bats. These bats remain until destroyed and can be recalled into the cloak as a move action. Bats recalled to the cloak are healed of all damage after 1 hour. A newly crafted *cloak of nightmares* contains eight bats. When a bat is destroyed completely before it can be recalled, it cannot be replaced and the cloak’s upper limit is reduced by one.
+The beauty of this red cloak hides its sinister nature, as at any moment it is capable of shredding into numerous hideous creatures known as nightmare bats. As a free action, you can release 1d4 nightmare bats. These bats remain until destroyed and can be recalled into the cloak as a move action (1 AP). Bats recalled to the cloak are healed of all damage after 1 hour. A newly crafted *cloak of nightmares* contains eight bats. When a bat is destroyed completely before it can be recalled, it cannot be replaced and the cloak’s upper limit is reduced by one.
 
 **Construction**
 
@@ -5509,7 +5509,7 @@ The beauty of this red cloak hides its sinister nature, as at any moment it is c
 
 The following wondrous item is generally available only to members of the indicated race or ethnicity.
 
-This quilted silk cloak is trimmed with thick white feathers. As a move action once per day, the wearer can whirl the cloak about himself to activate a *fire shield* effect. It activates as a* warm shield* if the ambient temperature is 65 degrees Fahrenheit or colder, or as a* chill shield* if the ambient temperature is 66 degrees Fahrenheit or hotter.
+This quilted silk cloak is trimmed with thick white feathers. As a move action (1 AP) once per day, the wearer can whirl the cloak about himself to activate a *fire shield* effect. It activates as a* warm shield* if the ambient temperature is 65 degrees Fahrenheit or colder, or as a* chill shield* if the ambient temperature is 66 degrees Fahrenheit or hotter.
 
 If the wearer is a Triaxian, he gains energy resistance for as long as he wears the cloak. If he’s summerborn, he gains fire resistance 10. If he’s winterborn, he gains cold resistance 10. If he is transitional, he gains resistance 5 to both cold and fire.
 
@@ -5559,7 +5559,7 @@ The cloak summons creatures only when laid down outdoors on naturally occurring 
 
 **Slot** body; **Price** 2,000 gp; **Weight** 1 lb.
 
-When carefully wrapped around the body of a Medium-sized creature (a process that takes 10 minutes), these magical linen wrappings protect the wearer from fire and provide defense against physical attacks. As an immediate action, the wearer can immolate herself in wispy blue flames that protect the wearer as the *chill shield* version of *fire shield* and deal 1d6+10 points of cold damage to attackers. This protection lasts for 10 rounds before the wrappings crumble away into fine ash.
+When carefully wrapped around the body of a Medium-sized creature (a process that takes 10 minutes), these magical linen wrappings protect the wearer from fire and provide defense against physical attacks. As an immediate action (1 AP of your next turn), the wearer can immolate herself in wispy blue flames that protect the wearer as the *chill shield* version of *fire shield* and deal 1d6+10 points of cold damage to attackers. This protection lasts for 10 rounds before the wrappings crumble away into fine ash.
 
 **Construction**
 
@@ -5765,7 +5765,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 This flowing, black silken cloak glitters with an iridescent sheen like the feathers of a crow’s wing. When the wearer moves, the fabric seems to dance on the air, as though it longed to take flight. The wearer can speak with birds while wearing the cloak, as if under the effects of *speak with animals*. Northern druids have long favored these cloaks as a means of communicating with birds of the region, but they grew increasingly popular among several sects in a southern land as well— despite the fact that crows themselves are not native to that particular land. Certainly, the exotic nature of the ebon feathers had an aesthetic appeal, for in a land where brightly colored songbirds were the norm, the concept of a midnight black avian couldn’t help but to be somewhat intriguing to the residents.
 
-As a move action, the wearer of a *crow brother’s cloak* can command the item to dissolve into a swirling murder of crows, which faithfully surround the wearer for up to 13 rounds per day. These rounds need not be consecutive. The murder of crows functions as a bat swarm. The murder of crows deals no damage to the wearer and provides concealment as long as the wearer remains within it. As a free action, the wearer can recall the swarm into cloak form or issue it a simple command (such as to direct its movement or to instruct it to follow the wearer). If the swarm is reduced to 0 hit points, it returns to its cloak form immediately and cannot be transformed again for 24 hours.
+As a move action (1 AP), the wearer of a *crow brother’s cloak* can command the item to dissolve into a swirling murder of crows, which faithfully surround the wearer for up to 13 rounds per day. These rounds need not be consecutive. The murder of crows functions as a bat swarm. The murder of crows deals no damage to the wearer and provides concealment as long as the wearer remains within it. As a free action, the wearer can recall the swarm into cloak form or issue it a simple command (such as to direct its movement or to instruct it to follow the wearer). If the swarm is reduced to 0 hit points, it returns to its cloak form immediately and cannot be transformed again for 24 hours.
 
 **Construction**
 
@@ -5831,7 +5831,7 @@ These goggles have dark, almost black lenses bound in brown leather cured from t
 
 **Slot** head; **Price** 5,600 gp; **Weight** 5 lbs.
 
-This helm is made from the husk of a cyclops’s shrunken head, and grants a limited version of that creature’s flash of insight ability. Once per day as an immediate action, the wearer can choose the result of the die roll instead of rolling her next attack roll, saving throw, skill check, or ability check.
+This helm is made from the husk of a cyclops’s shrunken head, and grants a limited version of that creature’s flash of insight ability. Once per day as an immediate action (1 AP of your next turn), the wearer can choose the result of the die roll instead of rolling her next attack roll, saving throw, skill check, or ability check.
 
 **Construction**
 
@@ -5907,7 +5907,7 @@ The wearer no longer takes penalties on Perception checks for being distracted o
 
 Four sunstone-embedded sunflowers adorn this golden diadem. The first *daylight diadems* were created far to the east by worshipers of the goddess of the sun and redemption, but their usefulness in battling undead has seen them become quite widespread. In often overcast lands, these magical diadems offer an additional comfort to those who enjoy the sun as well, serving as a constant reminder that regardless of the cloud cover above, the sun remains steadfast in its guardianship over the day.
 
-As part of a standard action taken to channel positive energy, the wearer can activate a *daylight diadem* by removing a flower to extend the range of her channel positive energy ability to 60 feet. The removed flower is consumed upon use.
+As part of a standard action (1 AP) taken to channel positive energy, the wearer can activate a *daylight diadem* by removing a flower to extend the range of her channel positive energy ability to 60 feet. The removed flower is consumed upon use.
 
 The wearer can also release the full brilliance of her *daylight diadem* in a single burst. With a command word, she causes all of the sunflowers remaining on the daylight diadem to be consumed and shed bright light in a 60-foot radius. This light counters or dispels any darkness spells of 4th level or lower and is treated as natural sunlight—the effect persists for a number of rounds equal to double the number of sunflowers consumed. While within the area of this light, all weapons are treated as good-aligned for the purpose of bypassing damage reduction and deal an additional 1d6 points of damage to evil creatures. This additional damage results directly from divine power and is therefore not subject to being reduced by resistance to energy. Creatures that are specifically hindered or harmed by sunlight take double this amount (2d6 points of damage per hit).
 
@@ -5965,9 +5965,9 @@ Death cults use this elixir to prevent their enemies from stealing their members
 
 **Slot** none; **Price** 10,380 gp; **Weight** 1 lb.
 
-This seemingly ordinary deck of 54 playing cards is held in an ornate wooden box with a simple clasp, decorated with wasp-themed art. The clergy of the goddess of lust and revenge sometimes gifts decks of this kind to its more devout and covert spies. As a move action, the owner of a *deck of the hellwasp’s sting* can draw a card from the deck and speak a command word to transform that card into a thrown weapon (treat as a *+1 flaming dart*). Alternatively, the user can draw and activate a card covertly as a standard action, using Sleight of Hand to palm it and treat it as a hidden weapon for a subsequent attack. A card is always destroyed after being thrown, even if it doesn’t hit the target. If the thrower uses the Arcane Strike feat with this attack, the feat’s bonus damage doubles.
+This seemingly ordinary deck of 54 playing cards is held in an ornate wooden box with a simple clasp, decorated with wasp-themed art. The clergy of the goddess of lust and revenge sometimes gifts decks of this kind to its more devout and covert spies. As a move action (1 AP), the owner of a *deck of the hellwasp’s sting* can draw a card from the deck and speak a command word to transform that card into a thrown weapon (treat as a *+1 flaming dart*). Alternatively, the user can draw and activate a card covertly as a standard action (1 AP), using Sleight of Hand to palm it and treat it as a hidden weapon for a subsequent attack. A card is always destroyed after being thrown, even if it doesn’t hit the target. If the thrower uses the Arcane Strike feat with this attack, the feat’s bonus damage doubles.
 
-In addition, as long as there are at least 20 cards remaining in the deck, the entire deck can be sacrificed by speaking a command word and tossing the cards into the air as a full-round action. The cards transform into a swarm of burning, poisonous paper with the same statistics as a hellwasp swarm, except the swarm doesn’t gain the inhabit ability, and all damage dealt by its swarm attack is fire damage. The character who activated the ability can control the swarm as if it were summoned by the *summon swarm* spell for up to 10 rounds, at which point the swarm dissipates.
+In addition, as long as there are at least 20 cards remaining in the deck, the entire deck can be sacrificed by speaking a command word and tossing the cards into the air as a full-round action (3 AP). The cards transform into a swarm of burning, poisonous paper with the same statistics as a hellwasp swarm, except the swarm doesn’t gain the inhabit ability, and all damage dealt by its swarm attack is fire damage. The character who activated the ability can control the swarm as if it were summoned by the *summon swarm* spell for up to 10 rounds, at which point the swarm dissipates.
 
 **Construction**
 
@@ -6083,7 +6083,7 @@ This elaborate silver diadem features stylized antennae similar to those of a la
 
 Equal parts grisly and lovely, this unusual harp-like musical instrument is crafted from a corpse, with a bone frame, skin stretched around the soundbox for percussion, and strings of twisted hair. When played, it can summon forth a soul bound to it. Initially, the soul is that of the person whose corpse was used to make the instrument. The spirit manifests in an adjacent square as a translucent, intangible image of the person as he was in life. The image cannot attack or be attacked in any way. It is clearly distressed by the musician’s playing; it wails an eerie, pained accompaniment that nonetheless enhances the music’s quality, granting a +4 circumstance bonus on Performance checks made with the instrument and (if the performer is a bard) adding 1 to the DC of a dirge of doom, frightening tune, or deadly performance played on the instrument.
 
-If an undead is within 30 feet, the musician can command the bound soul to seize it as a standard action. The undead must attempt a DC 20 Will save. If it’s successful, the image dissipates for 1 day; if it fails, the soul rides the undead for 1d4+1 rounds, acting as *control undead* cast by the musician. If the musician has the bardic performance ability, she can continue playing and spend a round of bardic performance as a free action each round to prevent that round from counting toward the duration of this effect. The soul dissipates for 1 day after the effect ends.
+If an undead is within 30 feet, the musician can command the bound soul to seize it as a standard action (1 AP). The undead must attempt a DC 20 Will save. If it’s successful, the image dissipates for 1 day; if it fails, the soul rides the undead for 1d4+1 rounds, acting as *control undead* cast by the musician. If the musician has the bardic performance ability, she can continue playing and spend a round of bardic performance as a free action each round to prevent that round from counting toward the duration of this effect. The soul dissipates for 1 day after the effect ends.
 
 Crafting the instrument destroys the original body; that creature cannot be brought back to life via *raise dead*. As long as the instrument exists,* resurrection *and* true resurrection *can revive the creature only if they’re cast on the instrument itself; doing so destroys the instrument. The instrument cannot be affected by spells that target corpses, such as* animate dead* or* decompose corpse*.
 
@@ -6117,7 +6117,7 @@ Once opened, a *discord bottle* must be restoppered and recharge for 24 hours be
 
 Created ages ago by the cult of the god of oblivion, *doomsday keys* are used by the cult to seal certain doors in their temples, as well as the legendary *Doomsday Doors* themselves. See the adventure in this volume for examples of the types of unique locks that *doomsday keys* can work with.
 
-Up to three times per day as a standard action made by twisting the key in the air (as if unlocking an invisible lock), a *doomsday key* causes up to four creatures chosen by and within 20 feet of the user to become shaken for 1 minute (Will DC 14 negates)—this is a mind-affecting effect. A *doomsday key* can also be used to inflict *bestow curse* (Will DC 14 negates) once per day—this use requires a successful touch attack. While worn about the neck (and thus taking up the neck item slot), a *doomsday key* bestows a +4 resistance bonus on the wearer’s saving throws made against curse effects; this protection does not help against curses the wearer may already be suffering from.
+Up to three times per day as a standard action (1 AP) made by twisting the key in the air (as if unlocking an invisible lock), a *doomsday key* causes up to four creatures chosen by and within 20 feet of the user to become shaken for 1 minute (Will DC 14 negates)—this is a mind-affecting effect. A *doomsday key* can also be used to inflict *bestow curse* (Will DC 14 negates) once per day—this use requires a successful touch attack. While worn about the neck (and thus taking up the neck item slot), a *doomsday key* bestows a +4 resistance bonus on the wearer’s saving throws made against curse effects; this protection does not help against curses the wearer may already be suffering from.
 
 **Construction**
 
@@ -6295,7 +6295,7 @@ In addition, an *effigy of the burial god* can be used to bring a dead creature 
 
 An *effigy of the favored servant* is a thumb-sized *figurine of wondrous power* depicting a marble, toga-wearing slave. When commanded, the statue grows and animates with the same statistics as a hill giant. The giant has no hint of personality, but is capable of telepathically receiving orders from the item’s possessor up to a range of 100 feet. The item can be used twice a week for up to 6 hours per use. If animated in an area too small for the giant to appear in, the figurine simply doesn’t animate, with no weekly use expended.
 
-In addition to its use as a *figurine of wondrous power*, an *effigy of the favored servant* can be used as the repository of a dying soul once per day. By spending a full round action on a sentient, living creature reduced to –1 or fewer hit points, the effigy’s bearer can draw its soul into the statuette, killing the creature if it fails a DC 22 Will save. From that time forward, the giant summoned by the figurine has the same personality as the killed creature. The creature must obey the figurine bearer’s commands, and the effigy functions as normal. The creature retains none of the skills or abilities it had in life, being effectively trapped within the statuette. The creature cannot be resurrected or otherwise returned to life unless the effigy is destroyed. If the effigy is used to trap another dying soul, the first is released and may be raised normally.
+In addition to its use as a *figurine of wondrous power*, an *effigy of the favored servant* can be used as the repository of a dying soul once per day. By spending a full round action (3 AP) on a sentient, living creature reduced to –1 or fewer hit points, the effigy’s bearer can draw its soul into the statuette, killing the creature if it fails a DC 22 Will save. From that time forward, the giant summoned by the figurine has the same personality as the killed creature. The creature must obey the figurine bearer’s commands, and the effigy functions as normal. The creature retains none of the skills or abilities it had in life, being effectively trapped within the statuette. The creature cannot be resurrected or otherwise returned to life unless the effigy is destroyed. If the effigy is used to trap another dying soul, the first is released and may be raised normally.
 
 **Construction**
 
@@ -6307,7 +6307,7 @@ In addition to its use as a *figurine of wondrous power*, an *effigy of the favo
 
 **Slot** wrists; **Price** 32,000 gp; **Weight** 1 lb.
 
-This rune-carved bracelet is made of thick, bright gold and allows the wearer to manipulate time through electricity magic. As a swift action, the wearer can activate the bracer, creating a nimbus of crackling blue energy that surrounds the hand wearing the *electro-temporal bracer* for up to 3 minutes each day. This duration need not be continuous, but it must be used in 1-minute increments. While the nimbus is active, spells with the electricity descriptor cast by the wearer have an additional effect, chosen by the wearer as each spell is cast: the spell dazzles all targets of the spell for 1 round, the spell staggers a single target of the spell for 1 round, or the spell provides a single target of the spell the benefits of *haste* for 1 round. The staggered and *haste* effects affect only one target selected by the caster as the spell is cast, even if the spell affects multiple targets. There is no saving throw for these additional effects, but a target that avoids the effects of the electricity spell entirely (such as by negating the effect with a successful save, or by having immunity to the spell’s damage) is not subject to the additional effect. (A target of an additional effect that successfully saves against the electricity spell but still takes partial damage is still subject to the additional effect.)
+This rune-carved bracelet is made of thick, bright gold and allows the wearer to manipulate time through electricity magic. As a swift action (1 AP), the wearer can activate the bracer, creating a nimbus of crackling blue energy that surrounds the hand wearing the *electro-temporal bracer* for up to 3 minutes each day. This duration need not be continuous, but it must be used in 1-minute increments. While the nimbus is active, spells with the electricity descriptor cast by the wearer have an additional effect, chosen by the wearer as each spell is cast: the spell dazzles all targets of the spell for 1 round, the spell staggers a single target of the spell for 1 round, or the spell provides a single target of the spell the benefits of *haste* for 1 round. The staggered and *haste* effects affect only one target selected by the caster as the spell is cast, even if the spell affects multiple targets. There is no saving throw for these additional effects, but a target that avoids the effects of the electricity spell entirely (such as by negating the effect with a successful save, or by having immunity to the spell’s damage) is not subject to the additional effect. (A target of an additional effect that successfully saves against the electricity spell but still takes partial damage is still subject to the additional effect.)
 
 If the wearer takes at least 50 points of electricity damage from a single source (such as a trap or a spell), the wearer immediately benefits from the effects of time stop, and the *electro-temporal bracer* ceases functioning for 1 month.
 
@@ -6335,7 +6335,7 @@ This elixir is barely an ounce of blue-gold bubbling liquid. For 1 minute after 
 
 If a character drinks this gray liquid, the next time (within 24 hours) he falls below 0 hit points, he exhales a sliver of his consciousness—whether he is alive or dead. If a character drinks multiple elixirs in a 24-hour period, only one is effective.
 
-As an immediate action, the sliver can guide the action of one ally within 30 feet of the drinker’s body. This guidance gives a +2 luck bonus on that ally’s next attack roll, to the ally’s AC against the next attack made against her, or on the ally’s next skill check. The drinker decides the type of bonus and the ally. The bonus must be used within 1 round.
+As an immediate action (1 AP of your next turn), the sliver can guide the action of one ally within 30 feet of the drinker’s body. This guidance gives a +2 luck bonus on that ally’s next attack roll, to the ally’s AC against the next attack made against her, or on the ally’s next skill check. The drinker decides the type of bonus and the ally. The bonus must be used within 1 round.
 
 **Construction**
 
@@ -6347,7 +6347,7 @@ As an immediate action, the sliver can guide the action of one ally within 30 fe
 
 **Slot** none; **Price** 1,400 gp; **Weight** —
 
-This foul-smelling concoction bestows upon the drinker the ability to exhale a 15-foot cone of disgusting vapor as a standard action up to three times. Living creatures caught in the cone must succeed at a DC 14 Fortitude save or become nauseated 1 for 1d4+1 rounds. Unused rancid breaths dissipate 1 hour after the liquid is consumed.
+This foul-smelling concoction bestows upon the drinker the ability to exhale a 15-foot cone of disgusting vapor as a standard action (1 AP) up to three times. Living creatures caught in the cone must succeed at a DC 14 Fortitude save or become nauseated 1 for 1d4+1 rounds. Unused rancid breaths dissipate 1 hour after the liquid is consumed.
 
 **Construction**
 
@@ -6431,7 +6431,7 @@ When placed in an open socket within the mouth, an *elocution tooth* translates 
 
 **Slot** none; **Price** 5,000 gp; **Weight** —
 
-This small, rusty iron bell contains great magic. When the bell is rung as a standard action, all creatures within 60 feet who can hear the bell must make a DC 14 Will save or be compelled to seek out the source of the sound for 7 rounds, moving at their normal speeds. If the sound leads its subjects into a dangerous area, each affected creature gets a second save. This is a mindaffecting compulsion effect. The bell affects a maximum of 24 HD of creatures. A bell can be used 5 times before it crumbles away into rusty flakes and becomes useless.
+This small, rusty iron bell contains great magic. When the bell is rung as a standard action (1 AP), all creatures within 60 feet who can hear the bell must make a DC 14 Will save or be compelled to seek out the source of the sound for 7 rounds, moving at their normal speeds. If the sound leads its subjects into a dangerous area, each affected creature gets a second save. This is a mindaffecting compulsion effect. The bell affects a maximum of 24 HD of creatures. A bell can be used 5 times before it crumbles away into rusty flakes and becomes useless.
 
 **Construction**
 
@@ -6443,7 +6443,7 @@ This small, rusty iron bell contains great magic. When the bell is rung as a sta
 
 **Slot** none; **Price** 4,800 gp; **Weight** 1/2 lb.
 
-This minty-smelling salve is commonly used by lust-goddess elves to render unsuspecting victims more susceptible to magical manipulation, typically to glean information from them in intricate revenge plots. When applied to the skin as a standard action—usually incorporated into a massage or cosmetic procedure—*the elven kingdom bliss* creates a sense of mild euphoria that lasts for 10 minutes (Will DC 14 negates). The salve can be applied to an unwilling creature as a melee touch attack. A creature affected by* the elven kingdom bliss* must attempt a concentration check to cast spells (DC = 15 + the spell’s level). Additionally, the victim rolls twice and takes the lower result on saving throws against divinations, enchantments, and illusions. This is a mind-affecting poison effect.
+This minty-smelling salve is commonly used by lust-goddess elves to render unsuspecting victims more susceptible to magical manipulation, typically to glean information from them in intricate revenge plots. When applied to the skin as a standard action (1 AP)—usually incorporated into a massage or cosmetic procedure—*the elven kingdom bliss* creates a sense of mild euphoria that lasts for 10 minutes (Will DC 14 negates). The salve can be applied to an unwilling creature as a melee touch attack. A creature affected by* the elven kingdom bliss* must attempt a concentration check to cast spells (DC = 15 + the spell’s level). Additionally, the victim rolls twice and takes the lower result on saving throws against divinations, enchantments, and illusions. This is a mind-affecting poison effect.
 
 **Construction**
 
@@ -6517,7 +6517,7 @@ An *emerald wedge ioun* stone is a bit larger than most ioun stones. This *ioun 
 
 **Slot** gloves; **Price** 18,000 gp; **Weight** —
 
-The *empty hands* are an innocuous looking pair of wellcrafted gloves made of soft, tanned brown leather. As a standard action, the wearer can cause any weapon or item he holds to become invisible for 3 minutes, during which it is clear the wearer is holding something, but it’s not possible to see exactly what it is. The wearer gains a +1 circumstance bonus on attack rolls with an invisible weapon, a +5 circumstance bonus on opposed Bluff checks made to feint in combat or claim to be unarmed, and a +10 circumstance bonus on opposed Sleight of Hand checks made to conceal a weapon or item. This invisibility can be dismissed as a free action. The 3 minutes a held item is invisible need not be consecutive, but must be expended in 1-minute increments. Empty hands grant no bonuses against foes able to see invisible objects, as per spells like *see invisibility* or *true seeing*. *Empty hands* can only affect one item at a time, even if one item is held in each hand.
+The *empty hands* are an innocuous looking pair of wellcrafted gloves made of soft, tanned brown leather. As a standard action (1 AP), the wearer can cause any weapon or item he holds to become invisible for 3 minutes, during which it is clear the wearer is holding something, but it’s not possible to see exactly what it is. The wearer gains a +1 circumstance bonus on attack rolls with an invisible weapon, a +5 circumstance bonus on opposed Bluff checks made to feint in combat or claim to be unarmed, and a +10 circumstance bonus on opposed Sleight of Hand checks made to conceal a weapon or item. This invisibility can be dismissed as a free action. The 3 minutes a held item is invisible need not be consecutive, but must be expended in 1-minute increments. Empty hands grant no bonuses against foes able to see invisible objects, as per spells like *see invisibility* or *true seeing*. *Empty hands* can only affect one item at a time, even if one item is held in each hand.
 
 **Construction**
 
@@ -6571,7 +6571,7 @@ This leather pouch is decorated with fresh mistletoe and sprigs of holly that ar
 
 This device is made of a strange metallic alloy. A bellows or tapered accordion structure protrudes from the box, with handles and controls at the wide end and a bright metal disk or lens at the other. The controls seem to have been designed for operation by large creatures with only two fingers, though the smaller but more agile hands of humanoids can manipulate them after some practice.
 
-As a standard action, the operator can hold the device in front of herself with two hands and use the controls to unleash a blast that deals 10d12 points of electricity damage on a successful ranged touch attack against a single target within 120 feet. The lightning blast sets fire to combustibles and damages objects that it strikes. It can melt metals that have a low melting point, such as lead, gold, copper, silver, or bronze.
+As a standard action (1 AP), the operator can hold the device in front of herself with two hands and use the controls to unleash a blast that deals 10d12 points of electricity damage on a successful ranged touch attack against a single target within 120 feet. The lightning blast sets fire to combustibles and damages objects that it strikes. It can melt metals that have a low melting point, such as lead, gold, copper, silver, or bronze.
 
 **Construction**
 
@@ -6651,7 +6651,7 @@ Made from the exotic mineral called veinstone, the *eye of the overwatched* is a
 
 He failed to create a traditional magic item, but an occultist who has learned the abjuration implement school and uses the *eye of the overwatched* as an implement can use the following focus power.
 
-**Spellarmor (Sp)**: As a swift action, you can expend 1 point of mental focus to try to shake off unwanted magical effects. If you are under the effect of an enemy’s spell or spell-like ability when you activate this ward, you immediately receive a new saving throw with a +2 circumstance bonus. This focus power does not grant a saving throw if the original effect did not allow one.
+**Spellarmor (Sp)**: As a swift action (1 AP), you can expend 1 point of mental focus to try to shake off unwanted magical effects. If you are under the effect of an enemy’s spell or spell-like ability when you activate this ward, you immediately receive a new saving throw with a +2 circumstance bonus. This focus power does not grant a saving throw if the original effect did not allow one.
 
 **Construction**
 
@@ -6665,7 +6665,7 @@ He failed to create a traditional magic item, but an occultist who has learned t
 
 The following wondrous item is generally available only to members of the indicated race or ethnicity.
 
-These large goggles feature adjustable lenses. When calibrated correctly, they sense the thoughts of a particular creature and send them into the wearer’s mind. If the wearer spends 3 rounds studying a creature, spending a standard action each round to calibrate the lenses, she may scan a target’s surface thoughts as if she had spent 3 rounds studying the target with *detect thoughts*. The target can attempt a DC 13 Will save to negate the effect. The wearer must spend three consecutive standard actions each time she wishes to read the mind of a new creature.
+These large goggles feature adjustable lenses. When calibrated correctly, they sense the thoughts of a particular creature and send them into the wearer’s mind. If the wearer spends 3 rounds studying a creature, spending a standard action (1 AP) each round to calibrate the lenses, she may scan a target’s surface thoughts as if she had spent 3 rounds studying the target with *detect thoughts*. The target can attempt a DC 13 Will save to negate the effect. The wearer must spend three consecutive standard actions each time she wishes to read the mind of a new creature.
 
 If the wearer is an android, he can spend a nanite surge to immediately detect surface thoughts instead of concentrating for 3 rounds.
 
@@ -6693,7 +6693,7 @@ This peculiar idol, carved from some unknown green stone, depicts a seven-legged
 
 This brass orb is a bit larger than a human fist. It is covered with symbols of goodness and law and thick studs. If used as an improvised weapon, it deals 1d6 points of bludgeoning damage and serves as a good weapon for the purpose of overcoming damage reduction.
 
-The *faith orb* is activated when a special stud is depressed (usually marked by a different metal). activating the orb is a standard action, but the orb may be thrown as a ranged touch attack (10-foot range increment) with the same action that is used to activate it. at the end of the action or when it hits its target (use the chart on PHB 158 to see where it goes if you miss), it triggers a *flame strike* centered on the orb. Creatures caught in the blast area suffer 9d6 damage as the spell, or half with a Dc 17 Reflex save. The *faith orb* is consumed in the process.
+The *faith orb* is activated when a special stud is depressed (usually marked by a different metal). activating the orb is a standard action (1 AP), but the orb may be thrown as a ranged touch attack (10-foot range increment) with the same action that is used to activate it. at the end of the action or when it hits its target (use the chart on PHB 158 to see where it goes if you miss), it triggers a *flame strike* centered on the orb. Creatures caught in the blast area suffer 9d6 damage as the spell, or half with a Dc 17 Reflex save. The *faith orb* is consumed in the process.
 
 **Construction**
 
@@ -6707,7 +6707,7 @@ The *faith orb* is activated when a special stud is depressed (usually marked by
 
 This metal headdress is shaped like a falcon’s head and enameled in brilliant colors. Originally crafted for a wizard dedicated to the sky god as a reward from his pharaoh for his prowess on the battlefield, the *falcon crown* was believed lost when the wizard was struck down by an ancient blue dragon. Centuries later, however, archaeologists discovered the *falcon crown* among desert ruins. Researcher-priests of the god of magic acquired the crown shortly after, and when one of their priestesses became pharaoh, she claimed the *falcon crown* for herself.
 
-The wearer of the *falcon crown* gains a +2 insight bonus to her Armor Class. In addition, up to three times per day as an immediate action, the wearer of the *falcon crown* can sacrifice a prepared spell or unused spell slot of 1st level or higher and transform it into a damaging ray, targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d4 points of damage for every level of the spell or spell slot sacrificed. A non-spellcaster cannot create rays with the *falcon crown*, but can still gain the AC bonus.
+The wearer of the *falcon crown* gains a +2 insight bonus to her Armor Class. In addition, up to three times per day as an immediate action (1 AP of your next turn), the wearer of the *falcon crown* can sacrifice a prepared spell or unused spell slot of 1st level or higher and transform it into a damaging ray, targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d4 points of damage for every level of the spell or spell slot sacrificed. A non-spellcaster cannot create rays with the *falcon crown*, but can still gain the AC bonus.
 
 **Construction**
 
@@ -6749,11 +6749,11 @@ This telescoping brass spyglass functions as a normal spyglass and allows clear 
 
 Members of the great city’s prominent houses sometimes employ this variant fate deck to communicate covertly with their fellow schemers. The deck includes the standard 54 cards plus an additional six trump cards. The trumps cards can be removed from the deck, which can then be used to perform normal harrowings.
 
-As a standard action, the user can hand a trump card from the deck to a willing creature. By performing a variant harrowing that involves only the user and takes 10 minutes to complete, the user can learn the name of the most recent spell or magic item used to divine information about the trump card’s recipient or learn the content of messages sent concerning the recipient within 1 mile.
+As a standard action (1 AP), the user can hand a trump card from the deck to a willing creature. By performing a variant harrowing that involves only the user and takes 10 minutes to complete, the user can learn the name of the most recent spell or magic item used to divine information about the trump card’s recipient or learn the content of messages sent concerning the recipient within 1 mile.
 
 Once per day, the user can speak a command word to reveal the information carried by the most recent such divination or message, as well as an identifying feature of the caster or item user. The caster or item user can negate this intrusion with a successful DC 16 Will saving throw. (If the saving throw fails and the user later casts *scrying* or uses a similar magical effect targeting the caster or item user, the user is treated as if he had met the target.)
 
-The recipient of the trump card can convey a simple message of up to 25 words to the deck’s user by concentrating while tearing up the card as a standard action. The next variant harrowing performed as described above reveals the message instead of its usual effect. Once all six trumps have been destroyed, the deck loses its power. A trump card can be returned to the deck instead of being used to convey a message.
+The recipient of the trump card can convey a simple message of up to 25 words to the deck’s user by concentrating while tearing up the card as a standard action (1 AP). The next variant harrowing performed as described above reveals the message instead of its usual effect. Once all six trumps have been destroyed, the deck loses its power. A trump card can be returned to the deck instead of being used to convey a message.
 
 **Construction**
 
@@ -6781,7 +6781,7 @@ The golden thread is vulnerable to severe twists of fate, though. If the result 
 
 **Slot** none; **Price** 3,600 gp; **Weight** 1 lb.
 
-The blades of these antique scissors are engraved with images of an infant, a child, an adult, and an elder (female images on one blade, male images on the other). The blades are permanently coated with *salve of slipperiness* and therefore adhesives do not stick to them, making them especially suitable for cutting through sticky things (such as spiderwebs, cave fisher filaments, and so on). If used in combat, the shears function as a masterwork dagger. Once per day as an immediate action, the bearer can point the shears at a creature within 30 feet and force that creature to reroll its most recent attack, check, or save, and use the result of the second roll; the bearer is staggered on her next turn after using this ability. In addition, the bearer can use* deathwatch* once per day.
+The blades of these antique scissors are engraved with images of an infant, a child, an adult, and an elder (female images on one blade, male images on the other). The blades are permanently coated with *salve of slipperiness* and therefore adhesives do not stick to them, making them especially suitable for cutting through sticky things (such as spiderwebs, cave fisher filaments, and so on). If used in combat, the shears function as a masterwork dagger. Once per day as an immediate action (1 AP of your next turn), the bearer can point the shears at a creature within 30 feet and force that creature to reroll its most recent attack, check, or save, and use the result of the second roll; the bearer is staggered on her next turn after using this ability. In addition, the bearer can use* deathwatch* once per day.
 
 **Construction**
 
@@ -6931,7 +6931,7 @@ When in operation, a *flying platform* also reduces the effect of rushing wind u
 
 **Slot** none; **Price** 6,000 gp; **Weight** 2 lbs.
 
-This ornate glass jar is filled with greenish fluid and the slick, writhing forms of many large black leeches. Though bloatmages often use leeches to help them regulate their overloaded circulatory systems, this particular batch adds additional benefits usable by anyone. To attach this jar’s leeches, the user merely needs to open the jar and upend the contents over his head and torso as a standard action—the leeches do the rest, attaching to the user’s body almost instantaneously. These leeches impart a +2 enhancement bonus to Constitution, but also a –4 penalty on Diplomacy checks against creatures that might find such a practice grotesque (such as most civilized races). Once applied, the leeches persist for 8 hours before they die. The leeches are immediately destroyed if the wearer takes more than 20 points of damage from any area-effect energy damage. The jar automatically refills with a new *batch of fortifying leeches* after 24 hours.
+This ornate glass jar is filled with greenish fluid and the slick, writhing forms of many large black leeches. Though bloatmages often use leeches to help them regulate their overloaded circulatory systems, this particular batch adds additional benefits usable by anyone. To attach this jar’s leeches, the user merely needs to open the jar and upend the contents over his head and torso as a standard action (1 AP)—the leeches do the rest, attaching to the user’s body almost instantaneously. These leeches impart a +2 enhancement bonus to Constitution, but also a –4 penalty on Diplomacy checks against creatures that might find such a practice grotesque (such as most civilized races). Once applied, the leeches persist for 8 hours before they die. The leeches are immediately destroyed if the wearer takes more than 20 points of damage from any area-effect energy damage. The jar automatically refills with a new *batch of fortifying leeches* after 24 hours.
 
 While the *fortifying leeches* are applied, a bloatmage immediately regains 2 bonus points to her blood pool—this cannot increase her blood points to higher than her normal maximum. In addition, whenever the bloatmage uses her bloat ability to gain extra blood points, she may roll her bloat dice twice and take the more favorable result.
 
@@ -7063,9 +7063,9 @@ Winning a game of senet with the *game of fortunate passing* (either against ano
 
 **Slot** none; **Price** 6,500 gp; **Weight** 50 lbs.
 
-This tarnished canister appears to be a normal gas cylinder for releasing poisonous gases, but it is actually a strange combination of arcane magic and modern technology designed to trap free-roaming vaporous creatures. A *gas-trap cylinder* can be armed as a standard action, and the device activates 1 round later. Once a *gas-trap cylinder* is activated, it remains so for 10 minutes, and any creature composed primarily of air, fog, mist, or other vapor (including air elementals, hungry fogs, mihstus, trench mists, vampiric mists, and creatures in *gaseous form*) within 30 feet of the cylinder must succeed at a DC 22 Fortitude save or be sucked into the device, becoming trapped within. Once trapped, a creature is held in stasis until released. A* gas-trap cylinder* can hold one Gargantuan or Huge creature, or up to two Large creatures, four Medium creatures, or eight Small or smaller creatures.
+This tarnished canister appears to be a normal gas cylinder for releasing poisonous gases, but it is actually a strange combination of arcane magic and modern technology designed to trap free-roaming vaporous creatures. A *gas-trap cylinder* can be armed as a standard action (1 AP), and the device activates 1 round later. Once a *gas-trap cylinder* is activated, it remains so for 10 minutes, and any creature composed primarily of air, fog, mist, or other vapor (including air elementals, hungry fogs, mihstus, trench mists, vampiric mists, and creatures in *gaseous form*) within 30 feet of the cylinder must succeed at a DC 22 Fortitude save or be sucked into the device, becoming trapped within. Once trapped, a creature is held in stasis until released. A* gas-trap cylinder* can hold one Gargantuan or Huge creature, or up to two Large creatures, four Medium creatures, or eight Small or smaller creatures.
 
-Releasing creatures trapped in a *gas-trap cylinder* follows the same process as arming the cylinder. Arming the device requires a standard action, and the trapped creatures are released 1 round later. A *gas-trap cylinder* can also be perforated (hardness 10, hp 30) to release those trapped within. All of the creatures trapped within the cylinder are released at one time. Freed creatures are not under the control of the device’s user and are free to act as they wish—often violently.
+Releasing creatures trapped in a *gas-trap cylinder* follows the same process as arming the cylinder. Arming the device requires a standard action (1 AP), and the trapped creatures are released 1 round later. A *gas-trap cylinder* can also be perforated (hardness 10, hp 30) to release those trapped within. All of the creatures trapped within the cylinder are released at one time. Freed creatures are not under the control of the device’s user and are free to act as they wish—often violently.
 
 A *gas-trap cylinder* can hold a creature or creatures indefinitely, but once the trapped creatures are released, the cylinder becomes nonmagical.
 
@@ -7103,7 +7103,7 @@ These gloves are covered in fish scales and always feel cold and wet to the touc
 
 **Slot** none; **Price** 4,550 gp; **Weight** 1 lb.
 
-Tiny white crystals hang suspended in a clear fluid inside this fist-sized glass ball, which contains a miniature scene of leafless trees in a snow-covered landscape. Shaking the globe (a move action) activates it, and causes the crystals inside to fly wildly about the globe, taking on the appearance of a mad snowstorm for 1d6 minutes until they settle back down. Shattering an activated globe (hardness 1, hp 2) creates raging blizzard conditions in a 2-mile-radius circle centered on the location where the globe was shattered. In this area, temperatures drop to below freezing, winds blow at over 50 miles per hour, and heavy snow falls. It takes 10 minutes for the blizzard to form, and the conditions last for 1 hour before dissipating, at which point normal weather conditions in the area return. Once shattered, a *globe of blizzards* is destroyed.
+Tiny white crystals hang suspended in a clear fluid inside this fist-sized glass ball, which contains a miniature scene of leafless trees in a snow-covered landscape. Shaking the globe (a move action (1 AP)) activates it, and causes the crystals inside to fly wildly about the globe, taking on the appearance of a mad snowstorm for 1d6 minutes until they settle back down. Shattering an activated globe (hardness 1, hp 2) creates raging blizzard conditions in a 2-mile-radius circle centered on the location where the globe was shattered. In this area, temperatures drop to below freezing, winds blow at over 50 miles per hour, and heavy snow falls. It takes 10 minutes for the blizzard to form, and the conditions last for 1 hour before dissipating, at which point normal weather conditions in the area return. Once shattered, a *globe of blizzards* is destroyed.
 
 **Construction**
 
@@ -7248,7 +7248,7 @@ The most prominent features of the *Golden Carriage* are the four spectral steed
 
 **Slot** none; **Price** 3,600 gp; **Weight** 2 lbs.
 
-This painted silk kite depicts a shining golden dragon. In an area with 40 feet or more of vertical space and in conditions of light to moderate wind, a *golden dragon kite* can be unfolded and raised into the air as a full-round action. The user can direct the kite to move up to 100 feet from him in a single turn (but no farther). Three times per day, the kite can cast *burning hands*. The spell originates from the kite but acts as normal in all other ways. This spell can only be reproduced while the kite is flying, a process that takes 1 minute to achieve.
+This painted silk kite depicts a shining golden dragon. In an area with 40 feet or more of vertical space and in conditions of light to moderate wind, a *golden dragon kite* can be unfolded and raised into the air as a full-round action (3 AP). The user can direct the kite to move up to 100 feet from him in a single turn (but no farther). Three times per day, the kite can cast *burning hands*. The spell originates from the kite but acts as normal in all other ways. This spell can only be reproduced while the kite is flying, a process that takes 1 minute to achieve.
 
 Rumors say that in the far east, versions of these kites exist that deliver other spells at great range.
 
@@ -7274,7 +7274,7 @@ This ornate, crested helmet of gold is typical of those worn by palace and house
 
 **Slot** neck; **Price** 15,000 gp; **Weight** —
 
-Once per day as a standard action, the wearer of this collar can speak a suggested course of action. Her words coalesce into a living whisper—a sinuous creature with blue runes lining its back—that appears in a square adjacent to her. The living whisper uses the statistics of a fiendish venomous snake, but has an Intelligence score of 3 and can communicate telepathically with the gorget’s wearer. Instead of being poisoned, any creature bitten by the living whisper must succeed at a DC 14 Will save or be affected by a *suggestion* spell (CL 9th). This *suggestion* is determined when the living whisper is summoned and affects all creatures bitten by it. Creatures that can read Aklo can read the runes on the living whisper and know what *suggestion* is carried by its bite. A living whisper lasts for 1 minute or until slain.
+Once per day as a standard action (1 AP), the wearer of this collar can speak a suggested course of action. Her words coalesce into a living whisper—a sinuous creature with blue runes lining its back—that appears in a square adjacent to her. The living whisper uses the statistics of a fiendish venomous snake, but has an Intelligence score of 3 and can communicate telepathically with the gorget’s wearer. Instead of being poisoned, any creature bitten by the living whisper must succeed at a DC 14 Will save or be affected by a *suggestion* spell (CL 9th). This *suggestion* is determined when the living whisper is summoned and affects all creatures bitten by it. Creatures that can read Aklo can read the runes on the living whisper and know what *suggestion* is carried by its bite. A living whisper lasts for 1 minute or until slain.
 
 **Construction**
 
@@ -7396,7 +7396,7 @@ Crafted from bronze, brass, or countless other semiprecious metals, these miniat
 
 **Slot** none; **Price** 6,000 gp; **Weight** 5 lbs.
 
-These small hand drums have pitted metal frames, with dark skin bearing furry patches or rough scales stretched across it. The flaws in the drum’s skin render the drum difficult to play, imposing a –4 penalty on the user’s Profession (percussion) checks. Though undesirable as musical instruments, *gremlin-skin drums* are icons of ill luck and therefore prized by followers of the god of accidents. These drums are usually planted in an area to encourage accidents or other misfortune there. As a standard action, the user can activate a *gremlin-skin drum* by setting it down and beating it three times. Once activated, the *gremlin-skin drum’s* effect (see below) continually targets all creatures within 30 feet until the drum is picked up or moved, at which point the effect ends. A *gremlin-skin drum* can be activated up to five times before it becomes a nonmagical drum of poor craftsmanship.
+These small hand drums have pitted metal frames, with dark skin bearing furry patches or rough scales stretched across it. The flaws in the drum’s skin render the drum difficult to play, imposing a –4 penalty on the user’s Profession (percussion) checks. Though undesirable as musical instruments, *gremlin-skin drums* are icons of ill luck and therefore prized by followers of the god of accidents. These drums are usually planted in an area to encourage accidents or other misfortune there. As a standard action (1 AP), the user can activate a *gremlin-skin drum* by setting it down and beating it three times. Once activated, the *gremlin-skin drum’s* effect (see below) continually targets all creatures within 30 feet until the drum is picked up or moved, at which point the effect ends. A *gremlin-skin drum* can be activated up to five times before it becomes a nonmagical drum of poor craftsmanship.
 
 Several types of *gremlin-skin drums* exist, and each drum’s powers depend on the type of gremlin flesh used as its skin. These effects appear to be mere mischance upon casual observation; an observer must succeed at a DC 20 Perception check to notice that whenever a creature suffers a *gremlin-skin drum’s* effect, the skin of the drum shudders slightly. The effects of multiple versions of the same type of *gremlin-skin drums* don’t stack.
 
@@ -7440,7 +7440,7 @@ A creature that comes within 20 feet of the wearer must succeed at a Will save (
 
 This heavy cloak is made from the hide of a bulette, its thick gray leather heavily abraded and seemingly always dusty, and features a plated dorsal fin that protrudes from between the wearer’s shoulders.
 
-As a standard action, the wearer of a *groundbreaker cloak* can dive into the ground, gaining a burrow speed of 20 feet through sand, soil, gravel, and loose stone. While burrowing, the wearer cannot run or charge and must travel along the surface, leaving the exposed dorsal plate visible from above. As the wearer burrows, displaced dirt swells before her and collapses behind her to create difficult terrain in her wake. She has cover from attacks while burrowing. Unless the wearer has some other means of breathing while submerged, she must hold her breath while burrowing. Emerging from the ground is a move action that doesn’t provoke attacks of opportunity.
+As a standard action (1 AP), the wearer of a *groundbreaker cloak* can dive into the ground, gaining a burrow speed of 20 feet through sand, soil, gravel, and loose stone. While burrowing, the wearer cannot run or charge and must travel along the surface, leaving the exposed dorsal plate visible from above. As the wearer burrows, displaced dirt swells before her and collapses behind her to create difficult terrain in her wake. She has cover from attacks while burrowing. Unless the wearer has some other means of breathing while submerged, she must hold her breath while burrowing. Emerging from the ground is a move action (1 AP) that doesn’t provoke attacks of opportunity.
 
 Once per day, the wearer can perform a charge attack by diving deep into the ground, burrowing up to 40 feet in a straight line (ignoring any obstacles that don’t extend at least 10 feet into the ground) and bursting forth into a square adjacent to a target creature. This use of the cloak does not disturb the terrain as noted above, except where the wearer enters and exits the ground. The wearer ends this movement standing and the target of the charge is considered flat-footed against the attack.
 
@@ -7484,7 +7484,7 @@ All pieces of the *habit of the winter explorer* must be worn for the item to fu
 
 **Slot** hand; **Price** 25,000 gp; **Weight** —
 
-The wearer of this single, black silk glove can use *death knell* on command. The target of* death knell* dies if it fails a DC 13 Fortitude save as normal, but the glove’s wearer does not immediately benefit from the death; instead the siphoned life energy is stored inside the glove. The glove indefinitely holds a reservoir of up to five deaths. The wearer can tap into these deaths anytime thereafter by touching herself with the glove as a swift action, granting her* death knell’s* benefits with a duration of 10 minutes. She can spend more than one death at a time, if she wishes. Temporary hit points from multiple deaths stack, but the bonuses to caster level and Strength do not. If multiple deaths are spent at the same time, add their durations together.
+The wearer of this single, black silk glove can use *death knell* on command. The target of* death knell* dies if it fails a DC 13 Fortitude save as normal, but the glove’s wearer does not immediately benefit from the death; instead the siphoned life energy is stored inside the glove. The glove indefinitely holds a reservoir of up to five deaths. The wearer can tap into these deaths anytime thereafter by touching herself with the glove as a swift action (1 AP), granting her* death knell’s* benefits with a duration of 10 minutes. She can spend more than one death at a time, if she wishes. Temporary hit points from multiple deaths stack, but the bonuses to caster level and Strength do not. If multiple deaths are spent at the same time, add their durations together.
 
 **Construction**
 
@@ -7510,7 +7510,7 @@ The wearer of a *hand of the honest man* is riddled with guilt over any untruths
 
 **Slot** neck; **Price** 20,258 gp; **Weight** 2 lbs.
 
-This nearly perfect pearl replica of a hand is attached to a gold chain and can be worn as an amulet. Once per day, the wearer can animate the hand as an immediate action. The hand attempts to grapple an adjacent foe of Medium size or smaller, using the wearer’s CMB. If it succeeds, the hand deals 1d4 non-lethal damage every round it maintains a grapple. If the grapple attempt fails or the victim escapes the grapple, the hand ceases its activity. If any creature within reach of the amulet (including the wearer) attempts to steal anything, the hand activates and attempts to choke the creature. If the amulet is not currently worn, it uses the victim’s own CMB and Strength to determine the attack bonus and damage.
+This nearly perfect pearl replica of a hand is attached to a gold chain and can be worn as an amulet. Once per day, the wearer can animate the hand as an immediate action (1 AP of your next turn). The hand attempts to grapple an adjacent foe of Medium size or smaller, using the wearer’s CMB. If it succeeds, the hand deals 1d4 non-lethal damage every round it maintains a grapple. If the grapple attempt fails or the victim escapes the grapple, the hand ceases its activity. If any creature within reach of the amulet (including the wearer) attempts to steal anything, the hand activates and attempts to choke the creature. If the amulet is not currently worn, it uses the victim’s own CMB and Strength to determine the attack bonus and damage.
 
 **Construction**
 
@@ -7522,7 +7522,7 @@ This nearly perfect pearl replica of a hand is attached to a gold chain and can 
 
 **Slot** none; **Price** 16,000 gp; **Weight** —
 
-This large crystal, sized and shaped like a loosely clenched human fist, perfectly accepts any wand. As a standard action, the hand can be loosed to activate a wand on its own at any target within range. Any such activation costs 3 charges from the wand. The hand can activate the wand for up to 4 rounds and then drops. It is considered attended by you for all effects that target items, and it exists within your space. The *hand of the theurge* accompanies you everywhere, whether you move by physical or magical means. If you have an unoccupied hand, you can grasp it while it is activating on its own as a free action; when so retrieved, the hand can’t animate again for 4 rounds.
+This large crystal, sized and shaped like a loosely clenched human fist, perfectly accepts any wand. As a standard action (1 AP), the hand can be loosed to activate a wand on its own at any target within range. Any such activation costs 3 charges from the wand. The hand can activate the wand for up to 4 rounds and then drops. It is considered attended by you for all effects that target items, and it exists within your space. The *hand of the theurge* accompanies you everywhere, whether you move by physical or magical means. If you have an unoccupied hand, you can grasp it while it is activating on its own as a free action; when so retrieved, the hand can’t animate again for 4 rounds.
 
 **Construction**
 
@@ -7536,7 +7536,7 @@ This large crystal, sized and shaped like a loosely clenched human fist, perfect
 
 These glass vials are held within stylized cold-iron casings etched with strange runes, necromantic designs, or other eldritch markings. Within the vial roils a small wisp of white vapor, churning as if caught in a miniature vortex of air.
 
-To capture a haunt’s energies within a *haunt siphon*, you need only twist the metal casing to open the vial in the same round that the haunt manifests (a standard action)—this can be before or after the haunt has acted. You must be within the haunt’s area of influence to use a* haunt siphon*. When you activate a* haunt siphon*, it deals 3d6 points of positive energy damage to a single haunt. If it deals enough damage to the haunt to reduce the haunt’s hit points to 0, the mist inside the* haunt siphon* glows green—if it does not reduce the haunt to 0 hit points, the* haunt siphon* is still expended and becomes nonmagical. It may take multiple* haunt siphons* to destroy powerful haunts. A haunt that is neutralized by a* haunt siphon* takes a –5 penalty on its caster level check to manifest again after its reset time passes.
+To capture a haunt’s energies within a *haunt siphon*, you need only twist the metal casing to open the vial in the same round that the haunt manifests (a standard action (1 AP))—this can be before or after the haunt has acted. You must be within the haunt’s area of influence to use a* haunt siphon*. When you activate a* haunt siphon*, it deals 3d6 points of positive energy damage to a single haunt. If it deals enough damage to the haunt to reduce the haunt’s hit points to 0, the mist inside the* haunt siphon* glows green—if it does not reduce the haunt to 0 hit points, the* haunt siphon* is still expended and becomes nonmagical. It may take multiple* haunt siphons* to destroy powerful haunts. A haunt that is neutralized by a* haunt siphon* takes a –5 penalty on its caster level check to manifest again after its reset time passes.
 
 A *haunt siphon* that neutralizes a haunt can no longer be used to harm haunts, but it can be used as a grenadelike splash weapon that deals 1d6 points of negative energy damage with a direct hit. Every creature within 5 feet of the point where the* haunt siphon* hits takes 1 point of negative energy damage from the splash.
 
@@ -7570,7 +7570,7 @@ The inside of this long, thick shawl is cool muslin, while the outside is decora
 
 A *hearth mantle’s* wearer gains a +2 competence bonus on saving throws against fire-based effects; the mantle itself is immune to fire damage. Once per day, the wearer can cause the leather exterior of the mantle to smolder for 1 minute. While smoldering, the *hearth mantle* sheds light as a torch.
 
-If the user takes a full-round action to carefully spread a *hearth mantle* on the ground with its exterior facing up, a campfire ignites on the mantle’s fire rune. This campfire burns for 8 hours and requires no fuel. Any creature that sleeps within 20 feet of the mantle for the full duration of the campfire recovers a number of hit points equal to twice its character level, as if it had undergone complete bed rest for a full 24 hours. The campfire is automatically extinguished if the *hearth mantle* is picked up, but can also be extinguished through normal means.
+If the user takes a full-round action (3 AP) to carefully spread a *hearth mantle* on the ground with its exterior facing up, a campfire ignites on the mantle’s fire rune. This campfire burns for 8 hours and requires no fuel. Any creature that sleeps within 20 feet of the mantle for the full duration of the campfire recovers a number of hit points equal to twice its character level, as if it had undergone complete bed rest for a full 24 hours. The campfire is automatically extinguished if the *hearth mantle* is picked up, but can also be extinguished through normal means.
 
 **Construction**
 
@@ -7582,7 +7582,7 @@ If the user takes a full-round action to carefully spread a *hearth mantle* on t
 
 **Slot** none; **Price** 1,900 gp; **Weight** —
 
-This bubbling red liquid is stored within a glass and iron syringe of diabolical craftsmanship that is warm to the touch. When injected into a living creature (a standard action that provokes attacks of opportunity), the fiery liquid surges through the subject’s veins, filling it with hellish ferocity and an outwardly fiendish appearance. While under the effects of a *hellfire infusion*, the subject creature gains a +2 morale bonus on attack rolls, saves, and skill checks. Its skin turns crimson, its eyes change to burnished yellow, and short horns sprout from its head. By all appearances, the subject transforms into a fiendish creature, although the alteration is only superficial. These effects last for 50 minutes.
+This bubbling red liquid is stored within a glass and iron syringe of diabolical craftsmanship that is warm to the touch. When injected into a living creature (a standard action (1 AP) that provokes attacks of opportunity), the fiery liquid surges through the subject’s veins, filling it with hellish ferocity and an outwardly fiendish appearance. While under the effects of a *hellfire infusion*, the subject creature gains a +2 morale bonus on attack rolls, saves, and skill checks. Its skin turns crimson, its eyes change to burnished yellow, and short horns sprout from its head. By all appearances, the subject transforms into a fiendish creature, although the alteration is only superficial. These effects last for 50 minutes.
 
 **Construction**
 
@@ -7606,7 +7606,7 @@ This small jeweled pendant looks like a tiny dagger set with handsome blue gems,
 
 **Slot** neck; **Price** 1,000 gp; **Weight** —
 
-This red maggot constantly writhes and distends, snapping a small pair of pincers. A combination of hellwasp and worm, the *hivebrain symbiote* grants an echo of a hive mind when attached to an intelligent creature. When placed on the back of a host’s neck as a standard action, the *hivebrain symbiote* attaches painlessly and immediately boosts the host’s mental faculties. While having a *hivebrain symbiote* attached, as an immediate action the host can reroll a concentration check or an Intelligence-based check. The host must take the second roll, even if it is worse. An attached *hivebrain symbiote* continues to function for a number of hours equal to the host’s Intelligence modifier (minimum 1 hour) before falling off and dying. A *hivebrain symbiote* dies immediately if removed before this time elapses.
+This red maggot constantly writhes and distends, snapping a small pair of pincers. A combination of hellwasp and worm, the *hivebrain symbiote* grants an echo of a hive mind when attached to an intelligent creature. When placed on the back of a host’s neck as a standard action (1 AP), the *hivebrain symbiote* attaches painlessly and immediately boosts the host’s mental faculties. While having a *hivebrain symbiote* attached, as an immediate action (1 AP of your next turn) the host can reroll a concentration check or an Intelligence-based check. The host must take the second roll, even if it is worse. An attached *hivebrain symbiote* continues to function for a number of hours equal to the host’s Intelligence modifier (minimum 1 hour) before falling off and dying. A *hivebrain symbiote* dies immediately if removed before this time elapses.
 
 **Construction**
 
@@ -7642,7 +7642,7 @@ This coiled battle horn is crafted from fine brass. When blown, its clarion call
 
 **Price** 7,000 gp; **Weight** 5 lbs.
 
-As a standard action, this gold-plated drinking horn can produce a golden draught. A creature that imbibes or is anointed with this liquid is freed from enchantments, transmutations, and curses as if subjected to a *break enchantment* spell. If the user suffers from no such conditions, her skin instead takes on a golden hue and becomes almost impervious to blows, as per *stoneskin*. A* horn of the golden draught* can produce up to five draughts of each version of the draught before it turns to brass and becomes nonmagical.
+As a standard action (1 AP), this gold-plated drinking horn can produce a golden draught. A creature that imbibes or is anointed with this liquid is freed from enchantments, transmutations, and curses as if subjected to a *break enchantment* spell. If the user suffers from no such conditions, her skin instead takes on a golden hue and becomes almost impervious to blows, as per *stoneskin*. A* horn of the golden draught* can produce up to five draughts of each version of the draught before it turns to brass and becomes nonmagical.
 
 **Construction**
 
@@ -7684,7 +7684,7 @@ Three times per day, an eastern imperial wearer or rider can speak another comma
 
 **Slot** none; **Price** 5,000 gp; **Weight** 3 lbs.
 
-A luxurious crimson silk hammock embroidered with gold thread and gold fringed tassels, a *hospitality’s hammock* is a beauty to behold, but no self-respecting seaman would ever be caught using it. Aside from the hammock’s considerable looks, a single night’s rest in it eliminates any sign of seasickness. Additionally, a *hospitality’s hammock* is so comfortable that those who sleep in it for a full 8 hours regain hit points as if they had an entire day of bed rest. Climbing into or out of the hammock is a fullround action. A successful DC 5 Dexterity check reduces this to a move action.
+A luxurious crimson silk hammock embroidered with gold thread and gold fringed tassels, a *hospitality’s hammock* is a beauty to behold, but no self-respecting seaman would ever be caught using it. Aside from the hammock’s considerable looks, a single night’s rest in it eliminates any sign of seasickness. Additionally, a *hospitality’s hammock* is so comfortable that those who sleep in it for a full 8 hours regain hit points as if they had an entire day of bed rest. Climbing into or out of the hammock is a fullround action. A successful DC 5 Dexterity check reduces this to a move action (1 AP).
 
 The captain of the *Man’s Promise* was particularly susceptible to seasickness, and commissioned this item to make his long voyages away from home more comfortable. Although he would never admit it to those under his command, he was pleasantly surprised to find the *hospitality’s hammock* in his cabin when he took command of the *Man’s Promise*, and has slept in it every night since.
 
@@ -7712,7 +7712,7 @@ A *howdah of leisurely travel* grants a constant *endure elements* effect to all
 
 **Slot** none; **Price** 3,300 gp; **Weight** —
 
-This water-polished stone is carved in the shape of a frog-like head and decorated with evil runes. It feels lighter than it should, as if hollow and partially filled with liquid. When a *hydrodaemon runestone* is crushed, smashed, or broken (a standard action), a hydrodaemon appears as if summoned by a* summon monster VI* spell. Normally, the daemon is under the control of the creature that broke the runestone, but there is a 25% chance that the daemon is uncontrolled and attacks its summoner.
+This water-polished stone is carved in the shape of a frog-like head and decorated with evil runes. It feels lighter than it should, as if hollow and partially filled with liquid. When a *hydrodaemon runestone* is crushed, smashed, or broken (a standard action (1 AP)), a hydrodaemon appears as if summoned by a* summon monster VI* spell. Normally, the daemon is under the control of the creature that broke the runestone, but there is a 25% chance that the daemon is uncontrolled and attacks its summoner.
 
 **Construction**
 
@@ -7724,7 +7724,7 @@ This water-polished stone is carved in the shape of a frog-like head and decorat
 
 **Slot** shoulders; **Price** 16,000 gp; **Weight** 2 lbs.
 
-This ragged piece of fur and skin contains powerful magic. Once per day, when draped over the head and shoulders, the skin grants its wearer the physical characteristics of a hyena for 10 minutes as the *aspect of the wolf* spell. The wearer gains a +4 enhancement bonus to Strength and Dexterity, the scent ability, and a +2 enhancement bonus on trip attacks, and she can make a trip combat maneuver as a swift action that does not provoke attacks of opportunity.
+This ragged piece of fur and skin contains powerful magic. Once per day, when draped over the head and shoulders, the skin grants its wearer the physical characteristics of a hyena for 10 minutes as the *aspect of the wolf* spell. The wearer gains a +4 enhancement bonus to Strength and Dexterity, the scent ability, and a +2 enhancement bonus on trip attacks, and she can make a trip combat maneuver as a swift action (1 AP) that does not provoke attacks of opportunity.
 
 **Construction**
 
@@ -7874,7 +7874,7 @@ A character can attempt a DC 35 Disable Device check or a DC 25 Intelligence che
 
 A *infernal crux* can be forced open with a successful DC 28 Strength check or destroyed through physical damage (hardness 10, hp 30). If a crux is forced open in either of these ways, it explodes into a 10-foot-radius burst of fire, dealing 3d6+6 points of fire damage (Reflex DC 15 half) to all creatures and objects within the burst, including any objects held within the crux. If forced open or destroyed, the crux crumbles to ashes, and any objects it contained fall to the ground at the site of the fiery burst.
 
-When opened properly, the crux unfolds into a 2-footsquare flat sheet of metal and wood. Any objects the crux contains sit on the center of the sheet. An unfolded crux automatically folds up again as soon as a character attempts to bend any of the sheet’s four corners (a move action). The crux automatically folds up around any objects that sit upon its face at this time—objects that would exceed the crux’s capacity are pushed gently aside by the refolding action. Once a particular crux’s combination is known, a character can open it automatically with 3 consecutive full-round actions.
+When opened properly, the crux unfolds into a 2-footsquare flat sheet of metal and wood. Any objects the crux contains sit on the center of the sheet. An unfolded crux automatically folds up again as soon as a character attempts to bend any of the sheet’s four corners (a move action (1 AP)). The crux automatically folds up around any objects that sit upon its face at this time—objects that would exceed the crux’s capacity are pushed gently aside by the refolding action. Once a particular crux’s combination is known, a character can open it automatically with 3 consecutive full-round actions.
 
 A *infernal crux* can hold up to 200 pounds of objects. As an object that creates an extradimensional space, a *infernal crux* functions as a *bag of holding* for the purpose of determining how long a living creature within can survive, or what happens when the box is placed in another extradimensional object like a portable hole
 
@@ -7916,7 +7916,7 @@ When magic scrolls are stored inside this electrum scroll case, glowing blue run
 
 Much like *wayfinders*, an* ioun gauntlet* grants enhanced or altogether new abilities depending on the type of *ioun stone* inserted into its matrix. In its base form, an *ioun gauntlet* grants its wearer the ability to cast *detect magic* as a spell-like ability once per day. When the *detect magic* effect is active, the gauntlet also sheds illumination as *light* in the 60- foot cone of the *detect magic* effect.
 
-An *ioun gauntlet* features a single matrix in the back of the hand, suitable for one *ioun stone*. When an* ioun stone* is inserted into the matrix as a standard action, the wearer gains the associated bonus from the *ioun stone* as well an additional effect based on the shape of the *ioun stone* inserted, as listed below. While a creature can put on two *ioun gauntlets*, the wearer gains the additional benefit from only one inserted* ioun stone*.
+An *ioun gauntlet* features a single matrix in the back of the hand, suitable for one *ioun stone*. When an* ioun stone* is inserted into the matrix as a standard action (1 AP), the wearer gains the associated bonus from the *ioun stone* as well an additional effect based on the shape of the *ioun stone* inserted, as listed below. While a creature can put on two *ioun gauntlets*, the wearer gains the additional benefit from only one inserted* ioun stone*.
 
 *Cabochon*: +1 enhancement bonus on Acrobatics checks.
 
@@ -8037,11 +8037,11 @@ This headband grants a +4 bonus on saving throws against all enchantment spells.
 
 This mithral helm has a faceplate resembling a frost giant’s face, complete with a beard formed from layered, thin metal rods. While wearing a *iron beard*, a creature gains a +5 competence bonus on Intimidate checks and a +2 circumstance bonus on Disguise checks to impersonate a frost giant or svathurim (though the helm does nothing to increase the wearer’s size).
 
-Once per day as an immediate action after being successfully hit by a melee weapon, the wearer of a *lesser iron beard* can order the helm to animate, whereupon the thin metal rods of the helm’s beard reach out to grasp the weapon. This functions as a disarm combat maneuver that does not provoke an attack of opportunity.
+Once per day as an immediate action (1 AP of your next turn) after being successfully hit by a melee weapon, the wearer of a *lesser iron beard* can order the helm to animate, whereupon the thin metal rods of the helm’s beard reach out to grasp the weapon. This functions as a disarm combat maneuver that does not provoke an attack of opportunity.
 
 A *lesser iron beard* has a CMB of +23; the wearer can use the helm’s CMB or her own CMB, whichever is higher.
 
-A *greater iron beard* functions identically to the lesser version, but offers more protection for the wearer’s vulnerable neck. Once per day as an immediate action after a critical hit is confirmed against the wearer with a melee weapon, the wearer can force the attacker to reroll the confirmation roll and take the worse result.
+A *greater iron beard* functions identically to the lesser version, but offers more protection for the wearer’s vulnerable neck. Once per day as an immediate action (1 AP of your next turn) after a critical hit is confirmed against the wearer with a melee weapon, the wearer can force the attacker to reroll the confirmation roll and take the worse result.
 
 **Construction**
 
@@ -8065,7 +8065,7 @@ The metal filings within this pouch are a mixture of adamantine, cold iron, mith
 
 **Slot** none; **Price** 500 gp; **Weight** 1 lb.
 
-This bag of powder has a sharp metallic odor. *Ironmorph dust* can be applied to a willing adjacent creature as a standard action, or thrown as a ranged touch attack with a range increment of 10 feet. On contact, it causes the target’s clothing to stiffen and harden (Reflex DC 15 negates). If the target is wearing light or no armor, his clothing is treated as chainmail for all purposes—including armor bonus, arcane spell failure chance, and armor check penalty—except weight. Exceptionally light clothing (such as a nightshirt or silks) is instead treated as a chain shirt. Exceptionally heavy clothing (such as a cold-weather outfit or elaborate ceremonial garb) is instead treated as full plate. If the target is already wearing medium or heavy armor, he instead gains DR 5/adamantine, but the maximum Dexterity bonus of his armor decreases by 3 (to a minimum of +0), and its armor check penalty increases by 3.
+This bag of powder has a sharp metallic odor. *Ironmorph dust* can be applied to a willing adjacent creature as a standard action (1 AP), or thrown as a ranged touch attack with a range increment of 10 feet. On contact, it causes the target’s clothing to stiffen and harden (Reflex DC 15 negates). If the target is wearing light or no armor, his clothing is treated as chainmail for all purposes—including armor bonus, arcane spell failure chance, and armor check penalty—except weight. Exceptionally light clothing (such as a nightshirt or silks) is instead treated as a chain shirt. Exceptionally heavy clothing (such as a cold-weather outfit or elaborate ceremonial garb) is instead treated as full plate. If the target is already wearing medium or heavy armor, he instead gains DR 5/adamantine, but the maximum Dexterity bonus of his armor decreases by 3 (to a minimum of +0), and its armor check penalty increases by 3.
 
 After 5 rounds, affected clothing returns to normal. *Ironmorph dust* has no effect on creatures not wearing clothing or armor.
 
@@ -8113,7 +8113,7 @@ A *jar of mottled clay* can optionally be filled with an alchemical item. Fillin
 
 A kapre’s 2-foot-long cigar never goes out. It burns with a glow that sheds light like a candle, but does not burn other organic material. Smoking the cigar is dangerous for any but a kapre—and not just because of its size. Only a Medium or larger creature can attempt to smoke the cigar. Creatures doing so must succeed at a DC 16 Fortitude save or become nauseated 1 for 1 hour. Each time a creature attempts to inhale, he or she must make another save, but receives a cumulative +1 bonus for each successful inhalation in the past 24 hours.
 
-Once inhaled, the smoke can be exhanled to the detriment of nearby foes. The smoking creature must exhale within 1 round of inhaling or be nauseated 1 for 1 round, coughing up the potent smoke into its own square. A Medium creature can blow the smoke as a standard action at one adjacent enemy. A Large or larger creature can blow the smoke in a 15-foot cone, also as a standard action. Creatures caught in the smoky cloud must succeed at a DC 16 Fortitude save or be nauseated 1 for 1 round.
+Once inhaled, the smoke can be exhanled to the detriment of nearby foes. The smoking creature must exhale within 1 round of inhaling or be nauseated 1 for 1 round, coughing up the potent smoke into its own square. A Medium creature can blow the smoke as a standard action (1 AP) at one adjacent enemy. A Large or larger creature can blow the smoke in a 15-foot cone, also as a standard action (1 AP). Creatures caught in the smoky cloud must succeed at a DC 16 Fortitude save or be nauseated 1 for 1 round.
 
 **Construction**
 
@@ -8142,7 +8142,7 @@ This tea set includes an array of utensils, painted with pictures of willows and
 
 **Slot** head; **Price** 63,000 gp; **Weight** 3 lbs.
 
-This traditional desert crown—known as a khepresh, or “war crown”—made of hardened blue leather and adorned with discs of blue-tinted electrum and a rearing, hooded cobra of gold, was crafted specifically for a pharaoh of the sky. The *khepresh of refuge* grants its wearer a +3 deflection bonus to AC and fire resistance 10. In addition, the crown has 3 charges per day. When struck by a critical hit or sneak attack, the wearer can spend 1 charge as an immediate action to negate the critical hit or sneak attack (as the *fortification* armor special ability, but without requiring a roll). The damage is instead rolled normally. Alternatively, the wearer can spend 1 charge as an immediate action to reroll a failed saving throw. He must take the result of the reroll, even if it’s worse.
+This traditional desert crown—known as a khepresh, or “war crown”—made of hardened blue leather and adorned with discs of blue-tinted electrum and a rearing, hooded cobra of gold, was crafted specifically for a pharaoh of the sky. The *khepresh of refuge* grants its wearer a +3 deflection bonus to AC and fire resistance 10. In addition, the crown has 3 charges per day. When struck by a critical hit or sneak attack, the wearer can spend 1 charge as an immediate action (1 AP of your next turn) to negate the critical hit or sneak attack (as the *fortification* armor special ability, but without requiring a roll). The damage is instead rolled normally. Alternatively, the wearer can spend 1 charge as an immediate action (1 AP of your next turn) to reroll a failed saving throw. He must take the result of the reroll, even if it’s worse.
 
 **Construction**
 
@@ -8174,7 +8174,7 @@ The *Kiss of Noctura* can be removed by cutting the flap of skin away, which dea
 
 The dark cosmetic in this small decorative tube is made from finely ground minerals. Favored by desert men and women alike, nonmagical kohl is applied around the eyes and is used to reduce the glare from the desert sun, and cosmetically to cause the whites of the wearer’s eyes to stand out distinctly.
 
-When applied to the eyes, *kohl of uncanny discernment* grants its wearer low-light vision and a +2 competence bonus on Perception checks. If the wearer already has low-light vision, the kohl doubles the distance the wearer can see. The wearer also gains a +2 resistance bonus on saving throws against gaze attacks, patterns, visual effects, and sight-based attacks. These effects last for 1 hour. Applying the kohl is a full-round action, and it must be applied to both eyes to function. An unopened tube of *kohl of uncanny discernment* contains 5 applications.
+When applied to the eyes, *kohl of uncanny discernment* grants its wearer low-light vision and a +2 competence bonus on Perception checks. If the wearer already has low-light vision, the kohl doubles the distance the wearer can see. The wearer also gains a +2 resistance bonus on saving throws against gaze attacks, patterns, visual effects, and sight-based attacks. These effects last for 1 hour. Applying the kohl is a full-round action (3 AP), and it must be applied to both eyes to function. An unopened tube of *kohl of uncanny discernment* contains 5 applications.
 
 **Construction**
 
@@ -8204,7 +8204,7 @@ Absorbs spells of 8th level or lower. After absorbing 50 spell levels, the stone
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 
 **Construction**
 
@@ -8220,7 +8220,7 @@ This stone absorbs spells of 2nd level or lower. After absorbing 10 spell levels
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 
 **Construction**
 
@@ -8236,7 +8236,7 @@ This stone absorbs spells of 6th level or lower, which deals 2 hit points of dam
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 
 **Construction**
 
@@ -8248,9 +8248,9 @@ If the bearer is holding the *wayfinder*, he can use the stone’s absorption ab
 
 **Slot** wrists; **Price** 10,000 gp; **Weight** 1 lb.
 
-This bronze, serpentine bracelet has five dangling charms, each depicting an open and staring eye. Once per day as a standard action, the wearer can touch the bracelet to a creature with a gaze attack (requiring a successful touch attack for unwilling creatures) and become immune to natural gaze attacks from all creatures of that kind for the following 24 hours. The wearer could, for example, touch the bracelet to a basilisk to gain immunity to the gaze attacks of all basilisks, but would not be immune to the gaze of a medusa. This ability does not grant immunity to gaze attacks from spells or magic items such as *eyes of doom*. For the duration of this immunity, the charms on the bracelet each appear to be closed eyes.
+This bronze, serpentine bracelet has five dangling charms, each depicting an open and staring eye. Once per day as a standard action (1 AP), the wearer can touch the bracelet to a creature with a gaze attack (requiring a successful touch attack for unwilling creatures) and become immune to natural gaze attacks from all creatures of that kind for the following 24 hours. The wearer could, for example, touch the bracelet to a basilisk to gain immunity to the gaze attacks of all basilisks, but would not be immune to the gaze of a medusa. This ability does not grant immunity to gaze attacks from spells or magic items such as *eyes of doom*. For the duration of this immunity, the charms on the bracelet each appear to be closed eyes.
 
-When the wearer fails a save against a gaze attack, she can expend a charm from the bracelet as an immediate action to reroll that saving throw, but must take the second result even if it is worse. An expended charm crumbles to dust. When the last charm is expended, the *lidless charm bracelet* loses all magical properties.
+When the wearer fails a save against a gaze attack, she can expend a charm from the bracelet as an immediate action (1 AP of your next turn) to reroll that saving throw, but must take the second result even if it is worse. An expended charm crumbles to dust. When the last charm is expended, the *lidless charm bracelet* loses all magical properties.
 
 **Construction**
 
@@ -8262,7 +8262,7 @@ When the wearer fails a save against a gaze attack, she can expend a charm from 
 
 **Slot** none; **Price** 2,000 gp; **Weight** 1 lb.
 
-These tiny spheres, crafted from a dull gray material and studded with tiny copper protuberances, come in sets of four. As a standard action, a user can throw four or more spheres at a single target as a ranged touch attack with a 30-foot range increment. On a hit, the spheres explode outward, forming an immobile cage of semi-solid lightning around the target. Any creature attempting to pass through the cage wall automatically takes 10d6 points of electricity damage. Four *lightning trap spheres* thrown simultaneously can capture a Medium target, eight spheres can capture a Large target, 12 spheres can capture a Huge target, and 16 spheres can capture a Gargantuan target. The trap persists for 1 minute for each set of spheres used, then dissipates, consuming the spheres in the process. The price above is for a set of four *lightning trap spheres*.
+These tiny spheres, crafted from a dull gray material and studded with tiny copper protuberances, come in sets of four. As a standard action (1 AP), a user can throw four or more spheres at a single target as a ranged touch attack with a 30-foot range increment. On a hit, the spheres explode outward, forming an immobile cage of semi-solid lightning around the target. Any creature attempting to pass through the cage wall automatically takes 10d6 points of electricity damage. Four *lightning trap spheres* thrown simultaneously can capture a Medium target, eight spheres can capture a Large target, 12 spheres can capture a Huge target, and 16 spheres can capture a Gargantuan target. The trap persists for 1 minute for each set of spheres used, then dissipates, consuming the spheres in the process. The price above is for a set of four *lightning trap spheres*.
 
 **Construction**
 
@@ -8358,7 +8358,7 @@ This item takes the form of a half-dozen brown beans, usually contained in a sim
 
 **Slot** mantle; **Price** 23,000 gp; **Weight** —
 
-This intimidating mantle of gold and silver is set with several large gems, which seem to change in cut and type of stone every time it’s viewed. The wearer of this mantle always appears to be clean, uninjured, and calm, granting him a +5 bonus on Diplomacy checks. Also, once per day as a standard action, the wearer can bellow a single word in a thundering, imperious tone. This functions as the spell *shout*, and the word can be heard by any creature within 200 feet. If this word is one of the five orders detailed by the spell *command*, in addition to the effects of shout, all creatures within 25 feet must make a DC 16 Will save or be affected as if by the spell *command*. Those damaged by *shout* take a –4 penalty on this Will save.
+This intimidating mantle of gold and silver is set with several large gems, which seem to change in cut and type of stone every time it’s viewed. The wearer of this mantle always appears to be clean, uninjured, and calm, granting him a +5 bonus on Diplomacy checks. Also, once per day as a standard action (1 AP), the wearer can bellow a single word in a thundering, imperious tone. This functions as the spell *shout*, and the word can be heard by any creature within 200 feet. If this word is one of the five orders detailed by the spell *command*, in addition to the effects of shout, all creatures within 25 feet must make a DC 16 Will save or be affected as if by the spell *command*. Those damaged by *shout* take a –4 penalty on this Will save.
 
 **Construction**
 
@@ -8382,7 +8382,7 @@ This vellum map depicts the Crown of the World, and delineates a path across the
 
 **Slot** eyes; **Price** 12,000 gp; **Weight** —
 
-This pirate’s eye patch typically features at least one jewel set into a leather patch. Upon uttering a command word as a standard action, the eye patch allows the wearer to use the following abilities once per day each: *comprehend languages*,* scorching ray*, and* see invisibility*.
+This pirate’s eye patch typically features at least one jewel set into a leather patch. Upon uttering a command word as a standard action (1 AP), the eye patch allows the wearer to use the following abilities once per day each: *comprehend languages*,* scorching ray*, and* see invisibility*.
 
 **Construction**
 
@@ -8408,7 +8408,7 @@ This mask is white on one side and black on the other, with glittering gem lense
 
 These dark-gray leather gloves are extremely supple and are popular among the worshipers of the god of secrets and murder. They grant a +10 bonus on Sleight of Hands checks to take something from a creature unnoticed.
 
-Additionally, three times per day, when a creature notices the wearer’s Sleight of Hand check to take something from it, the wearer can cause the object to become invisible as an immediate action, allowing the wearer to disavow the theft.
+Additionally, three times per day, when a creature notices the wearer’s Sleight of Hand check to take something from it, the wearer can cause the object to become invisible as an immediate action (1 AP of your next turn), allowing the wearer to disavow the theft.
 
 **Construction**
 
@@ -8436,7 +8436,7 @@ Once per day, the wearer can speak a trigger phrase in the Aboleth language to c
 
 The *medal of the hero’s heart* is an honorary pendant frequently bestowed upon noble crusaders and warriors of goodly churches. The church of the goddess of valor frequently award these medals to heroes on the front lines of the demonic rift. Though it may take a variety of appearances depending on its crafter and the champion it is awarded to, a* medal of the hero’s heart* nearly always features some depiction of a human heart. The wearer of a* medal of the hero’s heart* gains a +4 sacred bonus on saving throws to remove temporary negative levels.
 
-Alternatively, the wearer of the *medal of the hero’s heart* can expend the medal’s magic as an immediate action to avoid gaining 1 permanent negative level. Doing so causes the medal to shatter, destroying it.
+Alternatively, the wearer of the *medal of the hero’s heart* can expend the medal’s magic as an immediate action (1 AP of your next turn) to avoid gaining 1 permanent negative level. Doing so causes the medal to shatter, destroying it.
 
 **Construction**
 
@@ -8500,7 +8500,7 @@ The information in a *mnemonic repository* can be recalled in a similar fashion,
 
 The plainly lacquered exterior of this wooden puzzle box cunningly hides the devious clockwork mechanism inside. To those unversed in its abilities, *Monkey King’s puzzle box* seems to be little more than a frustratingly impossible child’s toy that is adorned with the holy symbol of the Monkey King.
 
-Once per day as a standard action, the user can unlock *Monkey King’s puzzle box* to create two simultaneous effects. First, a shower of golden sparks envelops the user, causing her to become invisible and immediately teleporting her exactly 20 feet in a direction of her choice. Second, a monkey swarm bursts from the same square the user left.
+Once per day as a standard action (1 AP), the user can unlock *Monkey King’s puzzle box* to create two simultaneous effects. First, a shower of golden sparks envelops the user, causing her to become invisible and immediately teleporting her exactly 20 feet in a direction of her choice. Second, a monkey swarm bursts from the same square the user left.
 
 Although the monkey swarm isn’t under the control of the user, the monkeys keep at least 20 feet from the user at all times and attempt to surround as many of her opponents as possible. This effect otherwise acts as *mad monkeys* with a CMB of +12. Both the invisibility effect and the monkey swarm last for 10 rounds.
 
@@ -8594,7 +8594,7 @@ This stone grants a +1 competence bonus on Appraise checks.
 
 **Slot** head; **Price** 8,000 gp; **Weight** 1 lb.
 
-The snakelike *mouthpiece of the Dominion* has a fanged mouth for a “head” and a trachea for a “tail.” Though not mobile, the mouthpiece periodically thrashes and bites. As a full-round action that provokes attacks of opportunity, a *mouthpiece of the Dominion* can be forced into or pulled out of the throat of a Small or Medium creature that is willing or helpless. Installing or removing a mouthpiece deals 2 points of Constitution damage to the wearer.
+The snakelike *mouthpiece of the Dominion* has a fanged mouth for a “head” and a trachea for a “tail.” Though not mobile, the mouthpiece periodically thrashes and bites. As a full-round action (3 AP) that provokes attacks of opportunity, a *mouthpiece of the Dominion* can be forced into or pulled out of the throat of a Small or Medium creature that is willing or helpless. Installing or removing a mouthpiece deals 2 points of Constitution damage to the wearer.
 
 The *mouthpiece of the Dominion* merges with the wearer’s own mouth and throat. The wearer gains a bite attack that deals 1d6 points of damage (1d4 if the wearer is Small). If the wearer already has a natural bite attack, its damage is increased by one step. In addition, the wearer gains a +1 bonus to the DC of his audible bardic performances and any sonic or language-dependent spells and spell-like abilities he uses.
 
@@ -8610,7 +8610,7 @@ Any neh-thalggu within telepathic range of the wearer can speak audibly through 
 
 **Slot** none; **Price** 9,250 gp; **Weight** 1 lb.
 
-When you take a full-round action to mold this perpetually moist lump of clay into an animal, it flashes to life and grows to full size, attacking your enemies or following your commands if you have the means to communicate with animals. After 9 rounds the animal reverts to nonmagical clay. You may use the clay to create any sort of creature that *summon nature’s ally I*, *II*, *III*, *IV*, or *V* can summon. There is enough clay to create up to five spell levels of creatures. For example, you could expend 3 spell levels of clay to create a lion (from the *summon nature’s ally III* list) and still have 2 spell levels left over. Each use of the clay produces only one creature.
+When you take a full-round action (3 AP) to mold this perpetually moist lump of clay into an animal, it flashes to life and grows to full size, attacking your enemies or following your commands if you have the means to communicate with animals. After 9 rounds the animal reverts to nonmagical clay. You may use the clay to create any sort of creature that *summon nature’s ally I*, *II*, *III*, *IV*, or *V* can summon. There is enough clay to create up to five spell levels of creatures. For example, you could expend 3 spell levels of clay to create a lion (from the *summon nature’s ally III* list) and still have 2 spell levels left over. Each use of the clay produces only one creature.
 
 **Construction**
 
@@ -8782,7 +8782,7 @@ Miss chance against incorporeal creatures decreases to 25%.
 
 Unlike the heavy cast-brass mariner’s astrolabes normally used at sea, this astrolabe is of the more common type found on land, made of flat discs of brass. A famed navigator-astrologer from a drowned land was said to have sacrificed her eye to the instrument to grant her knowledge of things beyond mortal sight, thus giving the astrolabe its name.
 
-In addition to an astrolabe’s normal +2 circumstance bonus, *navigator’s eye* grants a further +2 competence bonus on Knowledge (geography), Profession (sailor), and Survival checks when used to navigate on land or sea. Once per day, the user can make a DC 20 Perception check while using *navigator’s eye* as a move action to catch a glimpse of how things really are for 1 round, as if with a* true seeing *spell. While using the astrolabe’s* true seeing *ability, the user can also see through concealment caused by smoke or fog and gains a +10 competence bonus on Perception checks to spot hidden or disguised creatures or objects.
+In addition to an astrolabe’s normal +2 circumstance bonus, *navigator’s eye* grants a further +2 competence bonus on Knowledge (geography), Profession (sailor), and Survival checks when used to navigate on land or sea. Once per day, the user can make a DC 20 Perception check while using *navigator’s eye* as a move action (1 AP) to catch a glimpse of how things really are for 1 round, as if with a* true seeing *spell. While using the astrolabe’s* true seeing *ability, the user can also see through concealment caused by smoke or fog and gains a +10 competence bonus on Perception checks to spot hidden or disguised creatures or objects.
 
 **Construction**
 
@@ -8808,9 +8808,9 @@ This necklace grants an aquatic wearer the ability to breathe air, and renders i
 
 This repugnant and cruel magic item consists of a chain of cold iron on which dangle six tiny, cold iron cages, each of which contains a living but miniaturized pixie. While the pixies are free to shriek and yell and cry, the item prevents them from taking any action that would directly free them from their cage and suppresses all of their supernatural and spell-like abilities.
 
-As a swift action, the wearer of a *necklace of lovelies* can redirect hit point damage inflicted on him from any single attack or effect that damages him onto one of the pixies on the necklace—doing so automatically kills the poor pixie in a tiny explosion of blood. Once all of the necklace’s pixies are dead or released, the necklace becomes nonmagical.
+As a swift action (1 AP), the wearer of a *necklace of lovelies* can redirect hit point damage inflicted on him from any single attack or effect that damages him onto one of the pixies on the necklace—doing so automatically kills the poor pixie in a tiny explosion of blood. Once all of the necklace’s pixies are dead or released, the necklace becomes nonmagical.
 
-The magic of a *necklace of lovelies* can also be released by breaking open one of the tiny pixie cages (hardness 10; hp 10; Break DC 20). If the cage contains a living pixie, the grateful fey quickly escapes and returns to normal size—in so doing, the wash of energy allows the pixie to bestow luck upon the creature who broke that particular cage if the pixie so chooses (most pixies are grateful enough to a rescuer to automatically grant this boon). An instant after the luck is bestowed, the grateful pixie vanishes (presumably back to the area in which he or she was first imprisoned in the necklace during its creation). The luck granted by this effect can be used at any point once during the next 7 days as a swift action whenever a d20 is rolled—it allows the lucky soul to roll 2d20 and pick which result he wishes to accept.
+The magic of a *necklace of lovelies* can also be released by breaking open one of the tiny pixie cages (hardness 10; hp 10; Break DC 20). If the cage contains a living pixie, the grateful fey quickly escapes and returns to normal size—in so doing, the wash of energy allows the pixie to bestow luck upon the creature who broke that particular cage if the pixie so chooses (most pixies are grateful enough to a rescuer to automatically grant this boon). An instant after the luck is bestowed, the grateful pixie vanishes (presumably back to the area in which he or she was first imprisoned in the necklace during its creation). The luck granted by this effect can be used at any point once during the next 7 days as a swift action (1 AP) whenever a d20 is rolled—it allows the lucky soul to roll 2d20 and pick which result he wishes to accept.
 
 **Construction**
 
@@ -8892,7 +8892,7 @@ A *nightglass* can also be used once per day to communicate with creatures with 
 
 **Slot** none; **Price** 1,500 gp; **Weight** —
 
-This small iron key has the number 9 and a right triangle engraved upon it. While the *Nine-Eaves key* is held, the bearer can use *open/close* at will, but only to open, not to close. Once per day as a standard action, the bearer can touch the *Nine-Eaves key* to a magic item. For the following 24 hours, all Use Magic Device skill checks to use or activate the touched magic item gain a +4 insight bonus.
+This small iron key has the number 9 and a right triangle engraved upon it. While the *Nine-Eaves key* is held, the bearer can use *open/close* at will, but only to open, not to close. Once per day as a standard action (1 AP), the bearer can touch the *Nine-Eaves key* to a magic item. For the following 24 hours, all Use Magic Device skill checks to use or activate the touched magic item gain a +4 insight bonus.
 
 **Construction**
 
@@ -8906,7 +8906,7 @@ This small iron key has the number 9 and a right triangle engraved upon it. Whil
 
 When a necromancer was lynched long ago, his final utterance of hatred infused the very rope that was cutting into his flesh, resulting in the first *noose of terminal embrace*. Since then, many others have duplicated the magic item, yet the original remains lost—though some say it still hangs about the neck of its undead master.
 
-When a *noose of terminal embrace* is placed around the neck, it immediately activates, tightening and dealing 2d4 points of damage at that moment. Removing the noose thereafter requires a full-round action and a successful DC 18 Strength check (with failure resulting in an additional 2d4 points of damage).
+When a *noose of terminal embrace* is placed around the neck, it immediately activates, tightening and dealing 2d4 points of damage at that moment. Removing the noose thereafter requires a full-round action (3 AP) and a successful DC 18 Strength check (with failure resulting in an additional 2d4 points of damage).
 
 While the noose is worn, its frayed end dangles a foot or so from the neck, but once per day if the wearer of the noose is successfully grappled by a Large or smaller creature, the wearer may will the noose’s length to extend and lash out at the attacker. This allows the wearer to immediately attempt a grapple check against the attacker; if successful, he establishes the grapple on the attacker rather than the other way around, and the attacker’s attempt automatically fails (although the attacker may attempt to grapple the wearer in the future).
 
@@ -8922,7 +8922,7 @@ While the noose is worn, its frayed end dangles a foot or so from the neck, but 
 
 The following wondrous item is generally available only to members of the indicated race or ethnicity.
 
-This elixir is generally stored in a palm-sized crystal jar. When applied under the eyes as a standard action, it reveals the magical nature of illusions and some creatures. For 1 hour after applying the ointment, whenever the user first perceives an illusion, she can attempt a Will save to disbelieve it even without interacting with it. An northern user recognizes fey animals and creatures that have changed their shape into human or animal forms as more than they appear, though she does not learn their true nature.
+This elixir is generally stored in a palm-sized crystal jar. When applied under the eyes as a standard action (1 AP), it reveals the magical nature of illusions and some creatures. For 1 hour after applying the ointment, whenever the user first perceives an illusion, she can attempt a Will save to disbelieve it even without interacting with it. An northern user recognizes fey animals and creatures that have changed their shape into human or animal forms as more than they appear, though she does not learn their true nature.
 
 **Construction**
 
@@ -9248,7 +9248,7 @@ Absorbs spells of 4th level or lower. After absorbing 20 spell levels, the stone
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 
 **Construction**
 
@@ -9264,7 +9264,7 @@ This stone absorbs spells of 1st level or lower. After absorbing 5 spell levels,
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 
 **Construction**
 
@@ -9280,7 +9280,7 @@ This stone absorbs spells of 3rd level or lower, which deals 2 hit points of dam
 
 **Resonance**
 
-If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 
 **Construction**
 
@@ -9404,7 +9404,7 @@ Once the proper command is given, a seam appears around the chest, and nested hi
 
 **Slot** eyes; **Price** 750 gp; **Weight** 1 lb.
 
-These spectacles fit firmly over eyes and are held in place by two crystalline stems. The lenses are initially clear and don’t hinder the wearer’s vision. When the wearer is targeted with an illusion spell or spell-like ability of the pattern subschool (such as *color spray*), the spectacles absorb the magic and darken, protecting the wearer from the pattern effect. Once the spectacles absorb a spell and become opaque, the wearer becomes blinded until the spectacles are removed (a swift action). *Patternward spectacles* protect against spells or spell-like abilities of only 3rd level or lower; higher-level effects affect the wearer as normal. Once the spectacles absorb an effect, they lose their magic.
+These spectacles fit firmly over eyes and are held in place by two crystalline stems. The lenses are initially clear and don’t hinder the wearer’s vision. When the wearer is targeted with an illusion spell or spell-like ability of the pattern subschool (such as *color spray*), the spectacles absorb the magic and darken, protecting the wearer from the pattern effect. Once the spectacles absorb a spell and become opaque, the wearer becomes blinded until the spectacles are removed (a swift action (1 AP)). *Patternward spectacles* protect against spells or spell-like abilities of only 3rd level or lower; higher-level effects affect the wearer as normal. Once the spectacles absorb an effect, they lose their magic.
 
 **Construction**
 
@@ -9418,7 +9418,7 @@ These spectacles fit firmly over eyes and are held in place by two crystalline s
 
 **Slot** none; **Price** 48,000 gp; **Weight** —
 
-This *ioun stone* resembles a small, pearl-white tetrahedron. This stone grants the *ghost touch* special ability to the user’s unarmed strikes and to melee weapons she wields. The user can also focus her gaze as a standard action and gain the benefits of *see invisibility* for 1 round. If the user is incorporeal, corporeal melee weapons she touches gain the *ghost touch* special ability, allowing her to pick up and use corporeal melee weapons as normal.
+This *ioun stone* resembles a small, pearl-white tetrahedron. This stone grants the *ghost touch* special ability to the user’s unarmed strikes and to melee weapons she wields. The user can also focus her gaze as a standard action (1 AP) and gain the benefits of *see invisibility* for 1 round. If the user is incorporeal, corporeal melee weapons she touches gain the *ghost touch* special ability, allowing her to pick up and use corporeal melee weapons as normal.
 
 **Cracked version**
 
@@ -9522,9 +9522,9 @@ The wearer of a *pendant of the souk* gains a +5 competence bonus on Appraise ch
 
 **Slot** none; **Price** 6,000 gp; **Weight** 1/2 lb.
 
-Roughly the size of a saucer, this thin ceramic disc is painted red and marked with an inverted pentagram, the unholy symbol of the god of tyranny and contracts. A *pentacle token* must first be attuned to a devil by touching the token to a devil as a standard action. A single *pentacle token* can be attuned to one devil of CR 9 or higher, or up to five devils of CR 8 or lower. An individual devil can be attuned to only one *pentacle token* at a time. Attuning a *pentacle token* to additional devils beyond these limits replaces earlier attunements, starting with the earliest attunement.
+Roughly the size of a saucer, this thin ceramic disc is painted red and marked with an inverted pentagram, the unholy symbol of the god of tyranny and contracts. A *pentacle token* must first be attuned to a devil by touching the token to a devil as a standard action (1 AP). A single *pentacle token* can be attuned to one devil of CR 9 or higher, or up to five devils of CR 8 or lower. An individual devil can be attuned to only one *pentacle token* at a time. Attuning a *pentacle token* to additional devils beyond these limits replaces earlier attunements, starting with the earliest attunement.
 
-An attuned *pentacle token* can be broken as a standard action, immediately alerting all devils attuned to that token of the owner’s location and the distance and direction to it. If the devil has the *greater teleport* spell-like ability, it can use that ability as an immediate action to transport itself to a square adjacent to the broken *pentacle token*. Teleporting to the token’s location in this way increases the devil’s damage reduction by 5 (for example, from DR 10/good to DR 15/good) for 1 hour (if the devil does not already have damage reduction, it gains DR 5/good for 1 hour). The creature breaking a pentacle token has no control over or command of any devils attuned to that token. Once a* pentacle token* is broken, it loses its magic and cannot be used again.
+An attuned *pentacle token* can be broken as a standard action (1 AP), immediately alerting all devils attuned to that token of the owner’s location and the distance and direction to it. If the devil has the *greater teleport* spell-like ability, it can use that ability as an immediate action (1 AP of your next turn) to transport itself to a square adjacent to the broken *pentacle token*. Teleporting to the token’s location in this way increases the devil’s damage reduction by 5 (for example, from DR 10/good to DR 15/good) for 1 hour (if the devil does not already have damage reduction, it gains DR 5/good for 1 hour). The creature breaking a pentacle token has no control over or command of any devils attuned to that token. Once a* pentacle token* is broken, it loses its magic and cannot be used again.
 
 **Construction**
 
@@ -9536,7 +9536,7 @@ An attuned *pentacle token* can be broken as a standard action, immediately aler
 
 **Slot** none; **Price** 600 gp; **Weight** —
 
-the goddess of beauty’s association with harmony and music inspires many composers to pen glorious songs in the Eternal Rose’s honor, and numerous tools have been devised by her church to improve the performances of such melodies. The *perfect tuning fork* provides the ideal pitch to quickly begin an inspirational tune. When holding a* perfect tuning fork* in the hand, the wielder can strike the fork as part of the action of beginning a bardic performance. If the wielder can start a bardic performance as a standard action, she can do so as a move action instead. If the wielder can start a bardic performance as a move action, she can do so as a swift action instead. A* perfect tuning fork* loses its magic after one use, but it can be used as an ordinary tuning fork thereafter.
+the goddess of beauty’s association with harmony and music inspires many composers to pen glorious songs in the Eternal Rose’s honor, and numerous tools have been devised by her church to improve the performances of such melodies. The *perfect tuning fork* provides the ideal pitch to quickly begin an inspirational tune. When holding a* perfect tuning fork* in the hand, the wielder can strike the fork as part of the action of beginning a bardic performance. If the wielder can start a bardic performance as a standard action (2 AP), she can do so as a move action (1 AP) instead. If the wielder can start a bardic performance as a move action (1 AP), she can do so as a swift action (1 AP) instead. A* perfect tuning fork* loses its magic after one use, but it can be used as an ordinary tuning fork thereafter.
 
 **Construction**
 
@@ -9562,7 +9562,7 @@ Unless the person identifying a *periapt of placebos* succeeds at her Spellcraft
 
 **Slot** none; **Price** 7,500 gp; **Weight** 15 lbs.
 
-Handles of polished bone and grim skulls decorate this ornately carved ship’s wheel. When grasped, the wheel’s handles feel comfortably smooth. Those who stand watch at the wheel claim to hear the whispered guidance of a long-dead captain, and occasionally feel ghostly hands holding the ship’s course true. When fitted to the helm of a ship, *phantom captain’s wheel* grants a +5 competence bonus on sailing checks to turn the ship with the hard to port or hard to starboard actions. The wheel also halves the penalty on sailing checks made when turning the ship while traveling at three or more times the ship’s acceleration. In addition, the ship’s pilot can combine a hard to port or hard to starboard action with a full ahead or heave to action as a full-round action up to three times per day.
+Handles of polished bone and grim skulls decorate this ornately carved ship’s wheel. When grasped, the wheel’s handles feel comfortably smooth. Those who stand watch at the wheel claim to hear the whispered guidance of a long-dead captain, and occasionally feel ghostly hands holding the ship’s course true. When fitted to the helm of a ship, *phantom captain’s wheel* grants a +5 competence bonus on sailing checks to turn the ship with the hard to port or hard to starboard actions. The wheel also halves the penalty on sailing checks made when turning the ship while traveling at three or more times the ship’s acceleration. In addition, the ship’s pilot can combine a hard to port or hard to starboard action with a full ahead or heave to action as a full-round action (3 AP) up to three times per day.
 
 **Construction**
 
@@ -9728,7 +9728,7 @@ While at a height greater than 40 feet, the wearer of the *plumed mantle* receiv
 
 **Slot** none; **Price** 1,250 gp; **Weight** —
 
-Poison gum is often used by agents of the god of secrets and murder, particularly those alchemists and poisoners who venerate the insidious god as the Poison Master. Chewing a piece of *poison gum*—which resembles nothing so much as a lump of congealed sap—is a move action that provokes attacks of opportunity, though the user can continue to chew the gum as a free action on consecutive rounds. Doing so fills the user’s mouth with three doses of Medium spider venom. This poison lasts for up to 5 minutes before losing its potency. As a swift action while chewing* poison gum*, the user can apply the poison to a wielded weapon. If the user lacks the poison use class feature, there is a 5% chance that he exposes herself to the poison while chewing the gum or applying the poison to a weapon, and if he rolls a natural 1 on an attack roll with a poisoned weapon, he also exposes himself to the poison.
+Poison gum is often used by agents of the god of secrets and murder, particularly those alchemists and poisoners who venerate the insidious god as the Poison Master. Chewing a piece of *poison gum*—which resembles nothing so much as a lump of congealed sap—is a move action (1 AP) that provokes attacks of opportunity, though the user can continue to chew the gum as a free action on consecutive rounds. Doing so fills the user’s mouth with three doses of Medium spider venom. This poison lasts for up to 5 minutes before losing its potency. As a swift action (1 AP) while chewing* poison gum*, the user can apply the poison to a wielded weapon. If the user lacks the poison use class feature, there is a 5% chance that he exposes herself to the poison while chewing the gum or applying the poison to a weapon, and if he rolls a natural 1 on an attack roll with a poisoned weapon, he also exposes himself to the poison.
 
 **Construction**
 
@@ -9820,7 +9820,7 @@ A *quicksand cloak* of any size can contain only one creature at a time; a creat
 
 These tight-fitting gloves have silver tips at the end of each finger. When worn, the silver spreads to cover the gloves so they appear to be covered in liquid metal.
 
-As a swift action, the wearer can command the gloves to coat a held weapon with silver. The affected weapon is treated as silver for the purpose of overcoming damage reduction. The effect can be applied only to light or onehanded weapons made primarily of metal. This ability can be used for up to 10 rounds each day, though these rounds need not be consecutive.
+As a swift action (1 AP), the wearer can command the gloves to coat a held weapon with silver. The affected weapon is treated as silver for the purpose of overcoming damage reduction. The effect can be applied only to light or onehanded weapons made primarily of metal. This ability can be used for up to 10 rounds each day, though these rounds need not be consecutive.
 
 Once per day, the gloves’ wearer can make an extra attack with a melee weapon as if using a *speed* weapon. This benefit does not stack with similar effects, such as a *haste* spell.
 
@@ -9834,7 +9834,7 @@ Once per day, the gloves’ wearer can make an extra attack with a melee weapon 
 
 **Slot** feet; **Price** 8,500 gp; **Weight** 1 lb.
 
-On command, these rat-fur boots summon a rat swarm underneath the wearer that moves with her and acts as a living carpet. As a move action, the wearer can travel on the backs of the rats as they swim, moving up to 15 feet across the surface of calm waters. If surface conditions become worse than calm, the rats disperse and the wearer falls. On land, the swarm allows the wearer to ignore difficult terrain’s effects on her movement for up to 15 feet of movement per round. The swarm can be used for up to 10 minutes per day. This duration doesn’t need to be continuous, but must be used in 1-minute increments.
+On command, these rat-fur boots summon a rat swarm underneath the wearer that moves with her and acts as a living carpet. As a move action (1 AP), the wearer can travel on the backs of the rats as they swim, moving up to 15 feet across the surface of calm waters. If surface conditions become worse than calm, the rats disperse and the wearer falls. On land, the swarm allows the wearer to ignore difficult terrain’s effects on her movement for up to 15 feet of movement per round. The swarm can be used for up to 10 minutes per day. This duration doesn’t need to be continuous, but must be used in 1-minute increments.
 
 If the wearer falls unconscious while *rat-tread boots* are active, on the wearer’s next turn the swarm tries to move her away from the nearest foe, moving 5 feet before dispersing. This movement doesn’t provoke attacks of opportunity. If such movement is impossible, the swarm disperses.
 
@@ -9862,7 +9862,7 @@ The wearer of a *reaper’s mask* gains a +2 competence bonus on Perception chec
 
 **Slot** none; **Price** 1,500 gp; **Weight** 2 lbs.
 
-A *regression mine* is a nondescript plate of metal that can be armed to deliver a terrible, mind-affecting curse. Arming the mine requires a move action, and deploying it in an adjacent square requires a standard action. An armed *regression mine* must be deployed within 3 rounds; otherwise, it must be rearmed before it can be deployed.
+A *regression mine* is a nondescript plate of metal that can be armed to deliver a terrible, mind-affecting curse. Arming the mine requires a move action (1 AP), and deploying it in an adjacent square requires a standard action (1 AP). An armed *regression mine* must be deployed within 3 rounds; otherwise, it must be rearmed before it can be deployed.
 
 Once it has been deployed, a *regression mine* triggers when any creature enters its space. The triggered mine emits an invisible magical field in a 20-foot-radius burst centered on itself, which lasts for 1 minute before dissipating. Creatures in this field when the mine activates or that enter it while it remains active are confused and take a –4 penalty to their Intelligence scores as long as they remain in the field and for 1 minute thereafter. When a creature with the confused condition from this effect determines its action, it must reroll any result that isn’t “attack nearest creature” and take the second result.
 
@@ -9932,7 +9932,7 @@ If the gnome god of gems is the bearer’s patron, the bearer gains a +1 luck bo
 
 **Slot** none; **Price** 6,000 gp; **Weight** —
 
-These ornate military medals are awarded to crusaders and adventurers who excel and deserve commendation in the war against a demonic rift. A medal must be affixed to a worn article of clothing to function, but doesn’t have to be worn visibly. Any number of righteous medals can be worn, but the effects of multiple medals of a single type don’t stack. A righteous medal functions only if the wearer has legitimately achieved the feat for which she received the medal. As a swift action, the wearer can gain a +2 sacred bonus to the medal’s associated ability score for 1 minute. In addition, each *righteous medal* grants a constant sacred bonus on one type of roll, as detailed below.
+These ornate military medals are awarded to crusaders and adventurers who excel and deserve commendation in the war against a demonic rift. A medal must be affixed to a worn article of clothing to function, but doesn’t have to be worn visibly. Any number of righteous medals can be worn, but the effects of multiple medals of a single type don’t stack. A righteous medal functions only if the wearer has legitimately achieved the feat for which she received the medal. As a swift action (1 AP), the wearer can gain a +2 sacred bonus to the medal’s associated ability score for 1 minute. In addition, each *righteous medal* grants a constant sacred bonus on one type of roll, as detailed below.
 
 *Righteous Medal of Agility*: This triangular iron medal shows a demonic face surrounded by three swords. It is awarded to a hero who delivers a death blow to a demon in combat before that demon gets a chance to act in the combat. This medal is associated with Dexterity and grants a +1 sacred bonus on Initiative checks.
 
@@ -9958,7 +9958,7 @@ A mythic character who wears all six *righteous medals* gains one additional use
 
 **Slot** shoulders; **Price** 3,350 gp; **Weight** 5 lbs.
 
-This snow-white fur pelt of a winter wolf can be worn over the shoulders as a cloak. The pelt functions as furs, granting its wearer a +2 bonus on Fortitude saves to resist cold weather. The wearer can, as a standard action, transform into a Large winter wolf as if using *beast shape IV*. In certain special locations where winter wolves have the ability to take human form, such as a winter realm’s witch-ruled cities, the wearer of a* rimepelt* in wolf form can take human form as winter wolves do, appearing as a whitehaired, blue-eyed human. In either wolf or human form, the wearer of a *rimepelt* smells like a winter wolf to other winter wolves and creatures with the scent ability. When the wearer returns to his normal form, or after 2 hours have elapsed, the rimepelt becomes a mundane winter wolf pelt.
+This snow-white fur pelt of a winter wolf can be worn over the shoulders as a cloak. The pelt functions as furs, granting its wearer a +2 bonus on Fortitude saves to resist cold weather. The wearer can, as a standard action (1 AP), transform into a Large winter wolf as if using *beast shape IV*. In certain special locations where winter wolves have the ability to take human form, such as a winter realm’s witch-ruled cities, the wearer of a* rimepelt* in wolf form can take human form as winter wolves do, appearing as a whitehaired, blue-eyed human. In either wolf or human form, the wearer of a *rimepelt* smells like a winter wolf to other winter wolves and creatures with the scent ability. When the wearer returns to his normal form, or after 2 hours have elapsed, the rimepelt becomes a mundane winter wolf pelt.
 
 Very rarely, a properly skinned winter wolf pelt manifests the properties of a *rimepelt* without requiring additional enchantment. A winter wolf whose pelt has such potential usually manifests some telltale physical attribute, such as heterochromatic eyes. Creating a *rimepelt* from such a rare creature requires a successful DC 25 Profession (hunter) or Survival check. Taking 20 is not allowed in this situation, and a failed check results in the pelt being utterly ruined for any use.
 
@@ -10010,7 +10010,7 @@ The traditional robes of the ancient archmage of greed are known as the *robes o
 
 **Slot** body; **Price** 164,000 gp; **Weight** 1 lb.
 
-The robes of lust grant a +5 armor bonus to AC and spell resistance 20, and they cause the wearer to cast all abjuration spells at +1 caster level. Two of the robe’s pockets function as *handy haversacks*. In addition, the robes protect the wearer with energy resistance 10 for an energy type of the wearer’s choice—this energy resistance can be changed once per day as a standard action.
+The robes of lust grant a +5 armor bonus to AC and spell resistance 20, and they cause the wearer to cast all abjuration spells at +1 caster level. Two of the robe’s pockets function as *handy haversacks*. In addition, the robes protect the wearer with energy resistance 10 for an energy type of the wearer’s choice—this energy resistance can be changed once per day as a standard action (1 AP).
 
 **Construction**
 
@@ -10122,7 +10122,7 @@ A *sashimono of comfort* is a purple silk banner, typically 3 feet tall and 1 fo
 
 **Slot** none; **Price** 2,500 gp; **Weight** 1 lb.
 
-This rugged black leather scabbard is wrapped in jet black chains that allow it to easily be hung from one’s belt. A *scabbard of pain* grants it bearer knowledge of advanced torturing techniques used by depraved cultists of the Midnight Lord. It grows or shrinks to fit any bladed weapon sized for a Medium or Small creature. Three times per day, the bearer can declare that he is attempting to deliver a painful strike with a melee attack. If the attack hits, the opponent must succeed at a DC 11 Fortitude save or be affected by* ray of sickening*. The bearer can expend one use of the scabbard’s painful strike as an immediate action to affect himself with the* ray of sickening* effect and voluntarily fail the saving throw. Doing so allows the bearer to reroll a failed saving throw against a mind-affecting effect.
+This rugged black leather scabbard is wrapped in jet black chains that allow it to easily be hung from one’s belt. A *scabbard of pain* grants it bearer knowledge of advanced torturing techniques used by depraved cultists of the Midnight Lord. It grows or shrinks to fit any bladed weapon sized for a Medium or Small creature. Three times per day, the bearer can declare that he is attempting to deliver a painful strike with a melee attack. If the attack hits, the opponent must succeed at a DC 11 Fortitude save or be affected by* ray of sickening*. The bearer can expend one use of the scabbard’s painful strike as an immediate action (1 AP of your next turn) to affect himself with the* ray of sickening* effect and voluntarily fail the saving throw. Doing so allows the bearer to reroll a failed saving throw against a mind-affecting effect.
 
 **Construction**
 
@@ -10158,7 +10158,7 @@ These simple silver brooches are often found pinned to the capes of merchant mar
 
 **Slot** neck; **Price** 12,000 gp; **Weight** —
 
-This gold amulet is fashioned in the shape of a winged scarab beetle holding a large ruby that represents the solar disk. The scarab grants its wearer a +4 bonus on saving throws against fear effects, and enables its wearer to detect any mummy within 60 feet, although he must concentrate as a standard action to use this ability. In addition, anytime the wearer would be affected by a curse or disease effect, the *scarab of mummy defense* can absorb the effect with no harm to the wearer. Upon absorbing 12 such effects, the scarab turns to dust and is destroyed. An effect that’s both a curse and a disease, such as mummy rot, is considered a single effect for these purposes.
+This gold amulet is fashioned in the shape of a winged scarab beetle holding a large ruby that represents the solar disk. The scarab grants its wearer a +4 bonus on saving throws against fear effects, and enables its wearer to detect any mummy within 60 feet, although he must concentrate as a standard action (1 AP) to use this ability. In addition, anytime the wearer would be affected by a curse or disease effect, the *scarab of mummy defense* can absorb the effect with no harm to the wearer. Upon absorbing 12 such effects, the scarab turns to dust and is destroyed. An effect that’s both a curse and a disease, such as mummy rot, is considered a single effect for these purposes.
 
 **Construction**
 
@@ -10298,7 +10298,7 @@ A *scintillating garment* can become either a tight-fitting tunic of any style o
 
 **Slot** none; **Price** 18,000 gp; **Weight** 12 lbs.
 
-This sight can be attached to a single direct-fire siege engine. When this is done, the sight becomes part of the siege engine, but can be removed from that siege engine with a full-round action. A character firing a siege engine that has this sight attached can look through the scope to see through magical and normal fog, mist, smoke, and similar obscurement, ignoring the miss chance for these obstructions. In addition, a character using this scope can choose to take a full-round action to either locate an invisible creature within line of sight or make a single shot that ignores the invisibility of a creature that she knows is in the area.
+This sight can be attached to a single direct-fire siege engine. When this is done, the sight becomes part of the siege engine, but can be removed from that siege engine with a full-round action (3 AP). A character firing a siege engine that has this sight attached can look through the scope to see through magical and normal fog, mist, smoke, and similar obscurement, ignoring the miss chance for these obstructions. In addition, a character using this scope can choose to take a full-round action (3 AP) to either locate an invisible creature within line of sight or make a single shot that ignores the invisibility of a creature that she knows is in the area.
 
 **Construction**
 
@@ -10340,7 +10340,7 @@ Created by the infernal empire as a weapon capable of scouring the battlefield i
 
 **Slot** none; **Price** 1,500 gp; **Weight** —
 
-This brooch features the heraldry of a noble family, marking the wearer as an aide to the associated senator. All senate aide badges are part of a set, attuned to a single *master senator badge* during their creation. A creature wearing the pinned brooch can receive telepathic communications sent from the wearer of the *master senator badge*. Once the wearer of the* senate aide badge* receives a message, she has 1 minute to send a telepathic reply of up to 25 words. Sending a reply requires a full-round action of concentration. The wearer of the *master senator badge* can send up to 10 telepathic messages per day, targeting either a specific badge or broadcasting to all badge wearers, and knows the approximate direction and distance to all wearers of *senate aid badges* attuned to the master badge.
+This brooch features the heraldry of a noble family, marking the wearer as an aide to the associated senator. All senate aide badges are part of a set, attuned to a single *master senator badge* during their creation. A creature wearing the pinned brooch can receive telepathic communications sent from the wearer of the *master senator badge*. Once the wearer of the* senate aide badge* receives a message, she has 1 minute to send a telepathic reply of up to 25 words. Sending a reply requires a full-round action (3 AP) of concentration. The wearer of the *master senator badge* can send up to 10 telepathic messages per day, targeting either a specific badge or broadcasting to all badge wearers, and knows the approximate direction and distance to all wearers of *senate aid badges* attuned to the master badge.
 
 *Senate aide badges* are often further enchanted with emergency effects that mimic the ** spell, whisking endangered staff to safety or casting protective magic. The exact conditions and effects vary, and their cost is added the badge’s construction cost.
 
@@ -10646,7 +10646,7 @@ This triangular amulet of gold and lapis lazuli depicts a stylized eye—the sym
 
 An *sky god’s eye amulet* grants its wearer a +2 resistance bonus on all saving throws. In addition, once per day, the wearer can surround herself with an aura of shimmering sunlight that protects her as *dispel evil*. Using this effect to drive an evil extraplanar creature back to its home plane or to end either an evil spell or an enchantment spell cast by an evil creature cancels this effect.
 
-Lastly, if the wearer of an *sky god’s eye amulet* is targeted by an effect that causes blindness, she can, as an immediate action, cause the amulet to absorb the effect. The wearer suffers no harm from the effect, but the amulet cracks in half, rendering it forever useless thereafter.
+Lastly, if the wearer of an *sky god’s eye amulet* is targeted by an effect that causes blindness, she can, as an immediate action (1 AP of your next turn), cause the amulet to absorb the effect. The wearer suffers no harm from the effect, but the amulet cracks in half, rendering it forever useless thereafter.
 
 **Construction**
 
@@ -10670,7 +10670,7 @@ Lastly, if the wearer of an *sky god’s eye amulet* is targeted by an effect th
 
 **Slot** none; **Price** 900 gp; **Weight** —
 
-Killers use *smoke bombs of forgetfulness* to conceal their identities and cover their escapes in the event of failed assassination attempts. The smoke bomb can be thrown to the ground as a standard action, destroying the item and creating a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick, and can be thrown at the user’s feet or as a ranged touch attack with a range of 20 feet.
+Killers use *smoke bombs of forgetfulness* to conceal their identities and cover their escapes in the event of failed assassination attempts. The smoke bomb can be thrown to the ground as a standard action (1 AP), destroying the item and creating a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick, and can be thrown at the user’s feet or as a ranged touch attack with a range of 20 feet.
 
 Any creature in the smoke cloud that isn’t aware of the smoke bomb’s nature must succeed at a DC 16 Will save or have its memory altered as though its sight had been obscured during the previous 2 rounds. This can cause it to forget the appearance of any creatures with which it had interacted or battled with during that time. From the point the smoke bomb is thrown, it functions as normal smoke, giving the user time to escape but no longer protecting its identity from creatures that leave the smoke and can see the user.
 
@@ -10688,7 +10688,7 @@ A creature that is already aware of the abilities of a *smoke bomb of forgetfuln
 
 Two distinct songs are etched on the entwined pipes of this flute. Playing the first creates a soothing, rhythmic melody that lulls snakes and serpents into compliance. This tune grants a +5 competence bonus on Handle Animal and wild empathy checks to influence snakes as well as snakelike animals and magical beasts. If the musician lacks the wild empathy class feature, she can still use this song to influence snakes and snakelike creatures as if she had wild empathy, applying only her Charisma modifier and the flute’s +5 bonus to the roll.
 
-The second song of the snake charmer’s flute can be performed only once per day as a full-round action. When used, it summons an advanced giant anaconda. This serpent obeys the musician’s mental commands and remains as long as the user continues to spend a move action each round maintaining the tune, up to a maximum of 3 minutes.
+The second song of the snake charmer’s flute can be performed only once per day as a full-round action (3 AP). When used, it summons an advanced giant anaconda. This serpent obeys the musician’s mental commands and remains as long as the user continues to spend a move action (1 AP) each round maintaining the tune, up to a maximum of 3 minutes.
 
 **Construction**
 
@@ -10700,7 +10700,7 @@ The second song of the snake charmer’s flute can be performed only once per da
 
 **Slot** head; **Price** 9,000 gp; **Weight** 3 lbs.
 
-A *sniper’s helmet* looks like the simple steel soldier’s helmet common to the European trenches of the First World War, with the addition of a steel eye shield. Once per day, the wearer of a *sniper’s helmet* can, as a standard action, denote one creature within her line of sight as her target. The wearer can perceive the target when it is invisible or ethereal as though using the *see invisibility* spell, and gains a +20 competence bonus on Perception checks to locate the target. The wearer ignores concealment provided by fog or mist, *blur*,* displacement*,* invisibility*, and similar effects affecting the target, but not concealment provided by darkness. These bonuses last for 5 minutes or until the target creature is dead. The* sniper’s helmet* provides no benefits to the wearer’s allies, and the wearer gains no benefits against creatures other than her chosen target.
+A *sniper’s helmet* looks like the simple steel soldier’s helmet common to the European trenches of the First World War, with the addition of a steel eye shield. Once per day, the wearer of a *sniper’s helmet* can, as a standard action (1 AP), denote one creature within her line of sight as her target. The wearer can perceive the target when it is invisible or ethereal as though using the *see invisibility* spell, and gains a +20 competence bonus on Perception checks to locate the target. The wearer ignores concealment provided by fog or mist, *blur*,* displacement*,* invisibility*, and similar effects affecting the target, but not concealment provided by darkness. These bonuses last for 5 minutes or until the target creature is dead. The* sniper’s helmet* provides no benefits to the wearer’s allies, and the wearer gains no benefits against creatures other than her chosen target.
 
 In addition, once per day, the wearer of a *sniper’s helmet* can create a magical sensor up to 600 feet above her that gives her a full 360-degree viewpoint as if she were actually there. The wearer perceives with her normal visual senses, and though the sensor cannot penetrate solid surfaces, it is unaffected by foliage and the like.
 
@@ -10714,7 +10714,7 @@ In addition, once per day, the wearer of a *sniper’s helmet* can create a magi
 
 **Slot** feet; **Price** 4,300 gp; **Weight** 4 lbs.
 
-These masterwork snowshoes provide greater stability and weight distribution in snow. The snowshoes completely negate the effects of normal snow on movement, and reduce the movement penalties in heavy snow by half (i.e., it only costs 2 squares of movement to enter a square covered with heavy snow instead of 4 squares of movement). In addition, the wearer can increase her land speed in snowy terrain by 10 feet for up to 10 rounds per day. This is considered an enhancement bonus and the duration need not be spent in consecutive rounds. Finally, as a standard action once per day, the snowshoes can generate a ripple effect that removes all trace of tracks left in the snow in a 60-foot radius.
+These masterwork snowshoes provide greater stability and weight distribution in snow. The snowshoes completely negate the effects of normal snow on movement, and reduce the movement penalties in heavy snow by half (i.e., it only costs 2 squares of movement to enter a square covered with heavy snow instead of 4 squares of movement). In addition, the wearer can increase her land speed in snowy terrain by 10 feet for up to 10 rounds per day. This is considered an enhancement bonus and the duration need not be spent in consecutive rounds. Finally, as a standard action (1 AP) once per day, the snowshoes can generate a ripple effect that removes all trace of tracks left in the snow in a 60-foot radius.
 
 **Construction**
 
@@ -10752,9 +10752,9 @@ If the *sovereign shabti* still exists when the bound individual dies, its magic
 
 **Slot** none; **Price** 3,300 gp; **Weight** —
 
-*Spartoi seeds* appear as teeth stained by ash. The teeth themselves typically take the form of tiny dragon teeth, though some appear to come from a serpent, wolf, or human. When a tooth is cast upon the earth as a standard action, a spartolos under the user’s command erupts on the following round. The spartolos lasts for 1 hour or until destroyed. A spartolos’s equipment vanishes if its owner is destroyed or after an hour.
+*Spartoi seeds* appear as teeth stained by ash. The teeth themselves typically take the form of tiny dragon teeth, though some appear to come from a serpent, wolf, or human. When a tooth is cast upon the earth as a standard action (1 AP), a spartolos under the user’s command erupts on the following round. The spartolos lasts for 1 hour or until destroyed. A spartolos’s equipment vanishes if its owner is destroyed or after an hour.
 
-These seeds are typically found in simple pouches of leather or velvet containing 2d4 teeth. Up to six seeds can be sown by a single standard action.
+These seeds are typically found in simple pouches of leather or velvet containing 2d4 teeth. Up to six seeds can be sown by a single standard action (1 AP).
 
 **Construction**
 
@@ -10878,7 +10878,7 @@ A worshiper of the god of farming and hunting who wears this helm may utilize th
 
 **Slot** feet; **Price** 2,000 gp; **Weight** 1 lb.
 
-These calf-high leather boots are inscribed with the god of freedom and ale’s holy symbol. The wearer can stand up from prone without provoking attacks of opportunity and gains a +4 bonus to CMD against bull rush and trip combat maneuvers. Once per day as an immediate action, the wearer can move up to 30 feet; this movement provokes attacks of opportunity as normal.
+These calf-high leather boots are inscribed with the god of freedom and ale’s holy symbol. The wearer can stand up from prone without provoking attacks of opportunity and gains a +4 bonus to CMD against bull rush and trip combat maneuvers. Once per day as an immediate action (1 AP of your next turn), the wearer can move up to 30 feet; this movement provokes attacks of opportunity as normal.
 
 **Construction**
 
@@ -10940,7 +10940,7 @@ This simple iron key looks like something a castellan or majordomo would carry o
 
 **Slot** hands; **Price** 45,000 gp; **Weight** 5 lbs.
 
-These speckled metal gauntlets provide a noticeable prickling sensation when donned. Three times per day when the wearer would take electricity damage, she can attempt a Strength check as an immediate action to catch the electricity and crush it into harmless sparks that deal no damage (DC = 10 + 1 per 10 points of damage).
+These speckled metal gauntlets provide a noticeable prickling sensation when donned. Three times per day when the wearer would take electricity damage, she can attempt a Strength check as an immediate action (1 AP of your next turn) to catch the electricity and crush it into harmless sparks that deal no damage (DC = 10 + 1 per 10 points of damage).
 
 If the wearer possesses mythic tiers (see *Pathfinder RPG Mythic Adventures*), she can also expend one use of her mythic power to reshape the crushed lightning into a variety of forms: blasts of electric force, blinding showers of sparks, or even lassos. This allows the wearer to perform a bull rush, dirty trick, grapple, reposition, or trip combat maneuver on her next turn against any opponent within range (10 feet per mythic tier she possesses). If the wearer succeeds at this combat maneuver check, her opponent also takes an amount of electricity damage equal to the wearer’s combat maneuver check result (up to a maximum of the original electricity effect’s damage). Creatures immune to electricity damage are immune to this ability. If the wearer expends the mythic power but doesn’t attempt to use the crushed lightning by her next turn, the energy surges out, dealing the original effect’s electricity damage to the wearer with no save granted.
 
@@ -10980,7 +10980,7 @@ A single dose of these dried tea leaves is enough to brew a cup of savory tea fo
 
 This ornate pectoral necklace is crafted out of articulated gold plates arranged in the shape of a falcon—the sacred animal of the sky god, an ancient desert god of the sun and the sky.
 
-When outdoors and in an area with direct, natural sunlight, the wearer of a *sun falcon pectoral* can call down dazzling beams of sunlight from the sky once per day. As a standard action each round for 5 rounds, the wearer can call down a 5-foot-wide, 30-foot-long vertical sunbeam anywhere within 100 feet. A creature struck by a beam takes 3d6 points of damage and is blinded (a successful DC 14 Reflex save halves the damage and negates the blindness). The wearer does not need to call down a sunbeam each round, but once 5 rounds have passed, no more beams can be called down.
+When outdoors and in an area with direct, natural sunlight, the wearer of a *sun falcon pectoral* can call down dazzling beams of sunlight from the sky once per day. As a standard action (1 AP) each round for 5 rounds, the wearer can call down a 5-foot-wide, 30-foot-long vertical sunbeam anywhere within 100 feet. A creature struck by a beam takes 3d6 points of damage and is blinded (a successful DC 14 Reflex save halves the damage and negates the blindness). The wearer does not need to call down a sunbeam each round, but once 5 rounds have passed, no more beams can be called down.
 
 Indoors, underground, or in areas of darkness, the wearer can instead create a *daylight* effect from the necklace once per day. The daylight effect lasts up to 2 hours. Whether used to create *daylight* or sunbeams, a *sun falcon pectoral* can only be used once per day.
 
@@ -11020,7 +11020,7 @@ Named after the goddess of the sun and redemption’s herald, the Sun Lord, this
 
 When the wearer of these jet-black leather gloves reaches for an item carried by another creature, inky strands of gloom swirl around the gloves, making the wearer’s hand movements difficult to follow. The wearer does not provoke an attack of opportunity when attempting a disarm or steal combat maneuver check while wearing a pair of *swindler’s gloves*. She also ignores the penalty on her combat maneuver check for attempting to disarm a foe while she is unarmed.
 
-Once per day as a swift action, upon using the *swindler’s gloves* to steal from or disarm a foe, the wearer can activate an illusion that causes the enemy to believe the maneuver failed. The item taken via the maneuver becomes invisible and an illusory duplicate of the item appears in the target’s possession for 1 minute. This illusory item looks and feels like the original, but the target can attempt a DC 14 Will saving throw to realize the item he now holds is an illusory duplicate. In any event, when the user drops the item or attempts to use it, the shadow item fades away into shadows and is gone. The illusory duplicate is a shadow effect.
+Once per day as a swift action (1 AP), upon using the *swindler’s gloves* to steal from or disarm a foe, the wearer can activate an illusion that causes the enemy to believe the maneuver failed. The item taken via the maneuver becomes invisible and an illusory duplicate of the item appears in the target’s possession for 1 minute. This illusory item looks and feels like the original, but the target can attempt a DC 14 Will saving throw to realize the item he now holds is an illusory duplicate. In any event, when the user drops the item or attempts to use it, the shadow item fades away into shadows and is gone. The illusory duplicate is a shadow effect.
 
 **Construction**
 
@@ -11064,7 +11064,7 @@ A reader who possesses the Godless Healing feat can use the healing granted by t
 
 **Slot** neck; **Price** 5,400 gp; **Weight** 3 lbs.
 
-This carved cacodaemon skull bears dozens of sharp teeth and is strung on a thin iron chain adorned with vertebrae. Once per day as a full-round action, the wearer can use the skull to draw forth the life essence of a dying or recently dead creature to cast *create soul gem*. The wearer can ingest this soul gem as a standard action. This frees the soul within the gem, which can be raised from the dead normally. The wearer then gains fast healing 2 for a number of rounds equal to the consumed soul’s Hit Dice when it was still living. Draining a soul with the necklace or consuming a soul gem is an evil act.
+This carved cacodaemon skull bears dozens of sharp teeth and is strung on a thin iron chain adorned with vertebrae. Once per day as a full-round action (3 AP), the wearer can use the skull to draw forth the life essence of a dying or recently dead creature to cast *create soul gem*. The wearer can ingest this soul gem as a standard action (1 AP). This frees the soul within the gem, which can be raised from the dead normally. The wearer then gains fast healing 2 for a number of rounds equal to the consumed soul’s Hit Dice when it was still living. Draining a soul with the necklace or consuming a soul gem is an evil act.
 
 **Construction**
 
@@ -11150,7 +11150,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Slot** none; **Price** 13,000 gp (Horse), 16,000 gp (Warrior), 22,000 gp (Hound); **Weight** 1 lb.
 
-These ceramic statuettes are molded in the likenesses of armored soldiers, horses, or dogs, and are considered symbols of good fortune in battle. Once per day, the possessor of a *terra-cotta talisman* can reroll a single attack roll as an immediate action, with a +1 luck bonus on the reroll, and keep the most favorable result. A *terra-cotta talisman* also contains the vestige of a spirit of an ancient warrior or warbeast that can be called upon once per day as a standard action to manifest itself as a spiritual force. The powers of the talismans are as follows:
+These ceramic statuettes are molded in the likenesses of armored soldiers, horses, or dogs, and are considered symbols of good fortune in battle. Once per day, the possessor of a *terra-cotta talisman* can reroll a single attack roll as an immediate action (1 AP of your next turn), with a +1 luck bonus on the reroll, and keep the most favorable result. A *terra-cotta talisman* also contains the vestige of a spirit of an ancient warrior or warbeast that can be called upon once per day as a standard action (1 AP) to manifest itself as a spiritual force. The powers of the talismans are as follows:
 - Terra-Cotta Horse: *phantom steed* 
 - Terra-Cotta Hound: *mage’s faithful hound* 
 - Terra-Cotta Warrior: *spiritual ally* 
@@ -11165,7 +11165,7 @@ These ceramic statuettes are molded in the likenesses of armored soldiers, horse
 
 **Slot** shoulders; **Price** 5,000 gp; **Weight** —
 
-What once was a fine red cape is now tattered and torn nearly in two. Once per day, as a standard action, you can *dimension door* to a range of 40 feet, but you cannot bring additional targets. When you disappear, you leave behind a cloud of smoke, appearing in a similar fashion at your destination.
+What once was a fine red cape is now tattered and torn nearly in two. Once per day, as a standard action (1 AP), you can *dimension door* to a range of 40 feet, but you cannot bring additional targets. When you disappear, you leave behind a cloud of smoke, appearing in a similar fashion at your destination.
 
 **Construction**
 
@@ -11253,7 +11253,7 @@ Once per day, the wearer of a *token of the fey lords* can use* commune with nat
 
 Once per day, the wearer can expend one use of mythic power to cast *charm monster* on a creature (DC 16 negates); fey creatures targeted by this effect take a –4 penalty on the saving throw.
 
-Finally, as an immediate action the wearer can expend one use of mythic power to reroll any saving throw against a spell, spelllike ability, or supernatural ability of a fey, receiving a +2 bonus on the new saving throw. This ability must be used after the save but before the results are revealed. The wearer must take the result of the second roll, even if it’s worse.
+Finally, as an immediate action (1 AP of your next turn) the wearer can expend one use of mythic power to reroll any saving throw against a spell, spelllike ability, or supernatural ability of a fey, receiving a +2 bonus on the new saving throw. This ability must be used after the save but before the results are revealed. The wearer must take the result of the second roll, even if it’s worse.
 
 **Construction**
 
@@ -11265,7 +11265,7 @@ Finally, as an immediate action the wearer can expend one use of mythic power to
 
 **Slot** none; **Price** 36,000 gp; **Weight** 15 lbs.
 
-This massive, metal-bound tome is filled with 20 thin pages of beaten copper, each indented with arcane sigils and ancient runes. These runes seem to shimmer and twist and writhe when read, and the phrases and words they spell out are utter nonsense. By studying a page with a successful DC 20 Linguistics check, a person can make sense of the runes and as a full-round action can cause the runes on that page to swim together into a single shape that immediately leaps off the page to serve the user in one of three ways. The rune can manifest as a living rune that serves the user for 15 rounds, as if it had been summoned via a *summon monster* spell. The rune can infest and deactivate any symbol, *glyph of warding*, or other trap made of magical writing with a +25 Disable Device check. The rune can also be made to float around the user’s head for 10 rounds, during which time it can be used as an additional material component when casting a spell that creates magical writing. Doing so causes the spell to be cast at +1 caster level. Once a rune is activated, the page in the* tome of living runes* on which the rune was written goes blank. Only one rune can be active at any one time.
+This massive, metal-bound tome is filled with 20 thin pages of beaten copper, each indented with arcane sigils and ancient runes. These runes seem to shimmer and twist and writhe when read, and the phrases and words they spell out are utter nonsense. By studying a page with a successful DC 20 Linguistics check, a person can make sense of the runes and as a full-round action (3 AP) can cause the runes on that page to swim together into a single shape that immediately leaps off the page to serve the user in one of three ways. The rune can manifest as a living rune that serves the user for 15 rounds, as if it had been summoned via a *summon monster* spell. The rune can infest and deactivate any symbol, *glyph of warding*, or other trap made of magical writing with a +25 Disable Device check. The rune can also be made to float around the user’s head for 10 rounds, during which time it can be used as an additional material component when casting a spell that creates magical writing. Doing so causes the spell to be cast at +1 caster level. Once a rune is activated, the page in the* tome of living runes* on which the rune was written goes blank. Only one rune can be active at any one time.
 
 **Construction**
 
@@ -11291,7 +11291,7 @@ Alternatively, if the wearer is an inquisitor or has the bane class feature, she
 
 **Slot** hand; **Price** 2,500 gp; **Weight** —
 
-This thin disk of woven material is 2-1/2 inches in diameter. From its edges protrude fine, hair-like fibers about half an inch long. A *touch of avolition* is in fact an example of migo technology—as much fungus as anything else. Creatures like mi-go can handle a *touch of avolition* with ease, but humanoids and other fleshy users must wear gloves to avoid becoming the target of the item’s effect. Applying a *touch of avolition* requires a successful touch attack. When placed against flesh (any living, corporeal, non-plant or non-ooze creature), a *touch of avolition’s* fibers swiftly merge with the target unless the creature succeeds at a DC 15 Fortitude save. On a failed save, the victim becomes paralyzed 1 for 7 rounds. It can attempt a new Fortitude as a standard action after the first round to end the effect early.
+This thin disk of woven material is 2-1/2 inches in diameter. From its edges protrude fine, hair-like fibers about half an inch long. A *touch of avolition* is in fact an example of migo technology—as much fungus as anything else. Creatures like mi-go can handle a *touch of avolition* with ease, but humanoids and other fleshy users must wear gloves to avoid becoming the target of the item’s effect. Applying a *touch of avolition* requires a successful touch attack. When placed against flesh (any living, corporeal, non-plant or non-ooze creature), a *touch of avolition’s* fibers swiftly merge with the target unless the creature succeeds at a DC 15 Fortitude save. On a failed save, the victim becomes paralyzed 1 for 7 rounds. It can attempt a new Fortitude as a standard action (1 AP) after the first round to end the effect early.
 
 Once a victim recovers from the paralysis effect, the *touch of avolition* saps the user’s willpower and dulls the senses, making creatures under these effects easier to mentally manipulate. The victim’s Wisdom is reduced by 6 (minimum 1) as long as the *touch of avolition* remains attached. The fungal filaments of a *touch of avolition* dig deep, and merely ripping the patch free from the skin doesn’t remove this Wisdom penalty, though the removal itself deals 1d4 points of damage to the victim. The effect is a curse effect, and it (and the paralysis) can be removed as such via *remove curse* or similar spells.
 
@@ -11365,7 +11365,7 @@ The bearer of this shrunken monkey head can use it to cast *dispel evil*. While 
 
 **Slot** none; **Price** 900 gp (Blue), 900 gp (Green), 900 gp (Orange), 900 gp (Red), 900 gp (Silver), 900 gp (Yellow), 1,800 gp (Black), 1,800 gp (White); **Weight** —
 
-The highland tribes have developed numerous types of magical war paint, each providing a specific benefit to aid their hunters, warriors, and heroes in a variety of tasks. *Tribal war paint* can be applied to any visible part of the body—typically the face, shoulders, legs, or arms. Applying a dose of war paint is a full-round action that provokes an attack of opportunity. *tribal war paint* does not take up a magic item slot, but you can benefit from only one color of *tribal war paint* at a time and applying a dose of a different color replaces the effects of the previous application. Once *tribal war paint* is applied, its effects last for 24 hours. Below are the eight most common colors and their effects. Black (1,800 gp): The wearer becomes cloaked in shadows and smoke, gaining the effects of a *blur* spell. Blue (900 gp): The wearer gains a 30-foot enhancement bonus to her base move speed. Green (900 gp): When the wearer uses bardic performance to inspire courage, the morale bonus she grants increases by 1. Orange (900 gp): The wearer gains damage reduction 1/—. This effect stacks with damage reduction gained via a character class, such as barbarian. Red (900 gp): The wearer gains fire resistance 10. Silver (900 gp): The wearer gains a +3 deflection bonus to her AC. White (1,800 gp): The wearer gains a +4 resistance bonus on all saving throws against energy drain and negative energy. As soon as the wearer takes a negative level from an energy drain attack, the white war paint absorbs the negative level and then fades away, ending the ongoing duration of the paint’s effect immediately. Yellow (900 gp): The wearer gains a +5 competence bonus on Perception checks.
+The highland tribes have developed numerous types of magical war paint, each providing a specific benefit to aid their hunters, warriors, and heroes in a variety of tasks. *Tribal war paint* can be applied to any visible part of the body—typically the face, shoulders, legs, or arms. Applying a dose of war paint is a full-round action (3 AP) that provokes an attack of opportunity. *tribal war paint* does not take up a magic item slot, but you can benefit from only one color of *tribal war paint* at a time and applying a dose of a different color replaces the effects of the previous application. Once *tribal war paint* is applied, its effects last for 24 hours. Below are the eight most common colors and their effects. Black (1,800 gp): The wearer becomes cloaked in shadows and smoke, gaining the effects of a *blur* spell. Blue (900 gp): The wearer gains a 30-foot enhancement bonus to her base move speed. Green (900 gp): When the wearer uses bardic performance to inspire courage, the morale bonus she grants increases by 1. Orange (900 gp): The wearer gains damage reduction 1/—. This effect stacks with damage reduction gained via a character class, such as barbarian. Red (900 gp): The wearer gains fire resistance 10. Silver (900 gp): The wearer gains a +3 deflection bonus to her AC. White (1,800 gp): The wearer gains a +4 resistance bonus on all saving throws against energy drain and negative energy. As soon as the wearer takes a negative level from an energy drain attack, the white war paint absorbs the negative level and then fades away, ending the ongoing duration of the paint’s effect immediately. Yellow (900 gp): The wearer gains a +5 competence bonus on Perception checks.
 
 **Construction**
 
@@ -11497,7 +11497,7 @@ When a *tyrant’s mark* is created, it is keyed to a matching black diamond wor
 
 Created by a race of unknown undersea creatures only passingly familiar with humanoid physiology, these tall, uncomfortable boots are made of slimy skin that wriggles slightly. The boots function as *slippers of the triton*, allowing the wearer to breathe and swim underwater. The boots constantly murmur telepathically to the wearer, alternating between sycophantic praise of the wearer’s prowess and smug assurance that the boots will ensure that the wearer comes to no harm while underwater. The* unctuous waders* urge the wearer to explore beneath the waves, hoping to find some clues as to their creators and purpose, which the boots have long ago forgotten. If the wearer goes for more than a week without submerging herself in the ocean, the unctuous waders become less obsequious and more demanding. The unctuous waders can remove the ability to allow the wielder to breathe underwater, which they might do as a threat to compel obedience, or out of mere petulance.
 
-Three times per day as a standard action, the unctuous waders can exude slimy water from the heels to propel the user, as the *slipstream* spell.
+Three times per day as a standard action (1 AP), the unctuous waders can exude slimy water from the heels to propel the user, as the *slipstream* spell.
 
 **Construction**
 
@@ -11537,7 +11537,7 @@ If the ushabti’s owner inscribes his or her own name on the figurine (which re
 
 **Slot** head; **Price** 4,500 gp; **Weight** —
 
-This large, furry hat is sewn from the thick pelt of an animal native to the frozen north, and has earflaps that can be pulled down or folded up over the crown of the hat. When worn, an *ushanka of the northlands* grants its wearer a +2 resistance bonus on saving throws against cold effects and a +5 competence bonus on Survival checks. When the earflaps are pulled down, the wearer gains a +2 bonus on saving throws against sonic effects, but also takes a –2 penalty on Perception checks made to hear. Pulling the earflaps down is a move action.
+This large, furry hat is sewn from the thick pelt of an animal native to the frozen north, and has earflaps that can be pulled down or folded up over the crown of the hat. When worn, an *ushanka of the northlands* grants its wearer a +2 resistance bonus on saving throws against cold effects and a +5 competence bonus on Survival checks. When the earflaps are pulled down, the wearer gains a +2 bonus on saving throws against sonic effects, but also takes a –2 penalty on Perception checks made to hear. Pulling the earflaps down is a move action (1 AP).
 
 **Construction**
 
@@ -11645,7 +11645,7 @@ Stores three levels of spells, as a *ring of spell storing*.
 
 **Resonance**
 
-As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+As a standard action (1 AP), the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
 
 **Construction**
 
@@ -11661,7 +11661,7 @@ This stone stores one spell level, as a *ring of spell storing (minor)*.
 
 **Resonance**
 
-As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+As a standard action (1 AP), the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
 
 **Construction**
 
@@ -11673,11 +11673,11 @@ As a standard action, the bearer can expend a stored spell to refresh a cast spe
 
 **Slot** none; **Price** 36,000 gp; **Weight** —
 
-This stone stores three levels of spells, as a *ring of spell storing (minor)*, except casting spells out of the stone requires at least a full-round action.
+This stone stores three levels of spells, as a *ring of spell storing (minor)*, except casting spells out of the stone requires at least a full-round action (3 AP).
 
 **Resonance**
 
-As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+As a standard action (1 AP), the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
 
 **Construction**
 
@@ -11735,7 +11735,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Slot** special; **Price** 2,500 gp; **Weight** 1 lb.
 
-Each *voidstick* is 6 to 10 inches long, with a diameter of about an inch. Carved from single pieces of polished darkwood, they often display markings or symbols sacred to the deity of their creator, but can just as easily be plain and smooth. Planting a *voidstick* into the ground with an appropriate prayer is a full-round action that provokes attacks of opportunity. The device floods the area with negative energy, producing an effect identical to the *desecrate* spell in a 20- foot radius. In addition, any evil divine caster within 20 feet of the *voidstick* may cast her spells without the need for any material component with a value of 10 gp or less, or any focus item with a value of 50 gp or less. This ability functions only for the individual planting the *voidstick* and persists until the stick is uprooted.
+Each *voidstick* is 6 to 10 inches long, with a diameter of about an inch. Carved from single pieces of polished darkwood, they often display markings or symbols sacred to the deity of their creator, but can just as easily be plain and smooth. Planting a *voidstick* into the ground with an appropriate prayer is a full-round action (3 AP) that provokes attacks of opportunity. The device floods the area with negative energy, producing an effect identical to the *desecrate* spell in a 20- foot radius. In addition, any evil divine caster within 20 feet of the *voidstick* may cast her spells without the need for any material component with a value of 10 gp or less, or any focus item with a value of 50 gp or less. This ability functions only for the individual planting the *voidstick* and persists until the stick is uprooted.
 
 While this is a useful tool for shamans in locations poorly serviced by trade in magical goods, it pales in comparison to the *voidstick’s* most potent function: the creation of undead. Creating a voidstick zombie requires an hour-long ritual during which foul symbols are drawn across a corpse’s flesh. At the end of the hour, the creator must make a DC 25 Knowledge (religion) check before driving the first *voidstick* into the victim’s heart. If this check succeeds, the victim is transformed into a voidstick zombie. To fully animate the creature, one *voidstick* must be used for each Hit Die the base creature has. In 12 rounds, the creature rises under its own power, eager to spread its negative energy and snuff out life nearby. Undead created using voidsticks are not under the control of their creator but can be commanded using channeled negative energy, spells, or similar effects.
 
@@ -11799,7 +11799,7 @@ The *wave harp* is an unusual musical instrument that was popular in an ancient 
 
 The music of a *wave harp* is usually thin and high pitched, even when the lower notes are played closest to the plate. A *wave harp* is generally placed upon a stool or table at waist height to the musician, but it can be fitted with a strap to hang in front of the musician like a marching drum. As the necessary finger-motions are something between playing an organ and a zither, a musician can use either Perform (keyboard) or Perform (strings) to play a *wave harp*, although a musician without ranks in both skills takes a –4 penalty on his Perform checks.
 
-There is no limit to the time a *wave harp* can be played as a mundane instrument, but the device has two additional magical effects that can be activated by anyone playing the *wave harp* as a standard action three times per day. First, the musician can conjure a pair of ghostly hands made of sonic energy to assist in plucking the air for 1 minute; the hands automatically assist the wearer with Perform checks, providing a +2 bonus on Perform checks with the instrument for 1 minute. These hands also absorb errant noises that would impact the performance, providing the musician with sonic resistance 10. Second, the musician can cause the *wave harp* to emit a discordant wail. The musician attempts a DC 15 Perform check with the *wave harp*; on a success, all creatures within 30 feet other than the musician take a –2 penalty on saving throws against sonic effects for 1 round, plus 1 additional round for every 5 points by which the Perform check result exceeds the DC.
+There is no limit to the time a *wave harp* can be played as a mundane instrument, but the device has two additional magical effects that can be activated by anyone playing the *wave harp* as a standard action (1 AP) three times per day. First, the musician can conjure a pair of ghostly hands made of sonic energy to assist in plucking the air for 1 minute; the hands automatically assist the wearer with Perform checks, providing a +2 bonus on Perform checks with the instrument for 1 minute. These hands also absorb errant noises that would impact the performance, providing the musician with sonic resistance 10. Second, the musician can cause the *wave harp* to emit a discordant wail. The musician attempts a DC 15 Perform check with the *wave harp*; on a success, all creatures within 30 feet other than the musician take a –2 penalty on saving throws against sonic effects for 1 round, plus 1 additional round for every 5 points by which the Perform check result exceeds the DC.
 
 **Construction**
 
@@ -11823,11 +11823,11 @@ This rune-carved wooden statuette of a fish feels very slippery. When placed at 
 
 **Slot** none; **Price** 45,000 gp; **Weight** —
 
-This bronze *wayfinder* is decorated with garnets and emeralds, and even without its magical properties would be worth a small fortune. A *wayfinder of infinite doorways* has 10 charges; these charges automatically replenish at a rate of 1 charge every 24 hours. The *wayfinder* has one *ioun stone* slot—as a standard action, the user can drain the power of an *ioun stone* inserted in the *wayfinder* to restore a number of charges equal to the *ioun stone’s* cost divided by 2,000 (thus, draining an *ioun stone* worth 8,000 points would instantly restore 4 charges). The item can be used to activate any of the following powers as a standard action that expends a variable number of charges.
+This bronze *wayfinder* is decorated with garnets and emeralds, and even without its magical properties would be worth a small fortune. A *wayfinder of infinite doorways* has 10 charges; these charges automatically replenish at a rate of 1 charge every 24 hours. The *wayfinder* has one *ioun stone* slot—as a standard action (1 AP), the user can drain the power of an *ioun stone* inserted in the *wayfinder* to restore a number of charges equal to the *ioun stone’s* cost divided by 2,000 (thus, draining an *ioun stone* worth 8,000 points would instantly restore 4 charges). The item can be used to activate any of the following powers as a standard action (1 AP) that expends a variable number of charges.
 - The *wayfinder of infinite doorways* can be used cast *detect secret doors*. Using the item this way costs no charges, but can only be done if at least 1 charge remains in the wayfinder.
 - It can be used to cast *knock* at the cost of 1 charge.
 - It can be used to cast *dimension door* at the cost of 2 charges.
-- The *wayfinder of infinite doorways* can be used to transform any regular door within 10 feet into a portal that functions as a *word of recall*, causing any creatures that step through the targeted doorway to step out of another doorway that has been preselected. If no target doorway has been selected, this use of the* wayfinder* fails. Using the *wayfinder* in this way costs 4 charges. Attuning the *wayfinder* to a destination doorway requires a full-round action and 1 charge, and the user must be standing within the doorway when she does so.
+- The *wayfinder of infinite doorways* can be used to transform any regular door within 10 feet into a portal that functions as a *word of recall*, causing any creatures that step through the targeted doorway to step out of another doorway that has been preselected. If no target doorway has been selected, this use of the* wayfinder* fails. Using the *wayfinder* in this way costs 4 charges. Attuning the *wayfinder* to a destination doorway requires a full-round action (3 AP) and 1 charge, and the user must be standing within the doorway when she does so.
 
 **Construction**
 
@@ -11863,7 +11863,7 @@ A *shining wayfinder* appears as a polished silver compass. In addition to the u
 
 **Slot** none; **Price** 8,000 gp; **Weight** 1 lb.
 
-*Vanishing wayfinders* are crafted of ivory chased with gold and silver. In addition to the usual functions of a* wayfinder* (including the ability to create* light*), the bearer of a* vanishing wayfinder* can press a hidden catch as a standard action to become invisible (as the spell* invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation uses 1 minute of duration, even if the user becomes visible by making an attack or by some other means before that minute is up.
+*Vanishing wayfinders* are crafted of ivory chased with gold and silver. In addition to the usual functions of a* wayfinder* (including the ability to create* light*), the bearer of a* vanishing wayfinder* can press a hidden catch as a standard action (1 AP) to become invisible (as the spell* invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation uses 1 minute of duration, even if the user becomes visible by making an attack or by some other means before that minute is up.
 
 **Construction**
 
@@ -12173,7 +12173,7 @@ Craft Magic Arms and Armor, *bless weapon*,* lesser restoration*,* summon monste
 
 **Communication** empathy
 
-This well-worn doll is 18 inches tall, and its floppy limbs and fine clothing are patched in several places. Pressing the doll’s left button-eye causes it to become preternaturally rigid and affix itself in space, as an *immovable rod*. While in this state, the doll has hardness 20. The doll can maintain this state for 1 minute before returning to its usual plush composition; pressing the doll’s right eye causes it to return to its original state immediately. Pressing either eye is a move action.* Lady a Noblewoman’s Doll* has the protection of children as its special purpose and particularly prioritizes the protection of its owner if its owner is a child.* Lady a Noblewoman’s Doll* does not impose a negative level on an owner who is a child, regardless of the child’s alignment.
+This well-worn doll is 18 inches tall, and its floppy limbs and fine clothing are patched in several places. Pressing the doll’s left button-eye causes it to become preternaturally rigid and affix itself in space, as an *immovable rod*. While in this state, the doll has hardness 20. The doll can maintain this state for 1 minute before returning to its usual plush composition; pressing the doll’s right eye causes it to return to its original state immediately. Pressing either eye is a move action (1 AP).* Lady a Noblewoman’s Doll* has the protection of children as its special purpose and particularly prioritizes the protection of its owner if its owner is a child.* Lady a Noblewoman’s Doll* does not impose a negative level on an owner who is a child, regardless of the child’s alignment.
 
 *Lady a Noblewoman’s Doll* is satisfied to lie inert most of the time, watching its owner’s environment carefully for threats. The doll rarely attempts to communicate other than to encourage feelings of calm and safety. If danger presents itself, the doll is able to move up to 10 feet under its own power, become immobile as above, or take the aid another action to grant its owner an AC bonus. Once per day, the doll can act as if it had the In Harms Way feat. Aware that its immobility is temporary, the doll empathically urges its owner to escape while it holds the menace at bay.* Lady a Noblewoman’s Doll* can move under its own power, but only to block a perceived threat.
 
@@ -12237,7 +12237,7 @@ Forge Ring, *charm monster*,* resist energy*; **Price** 7,400 gp
 
 **Category** Siege; **Proficiency** Exotic
 
-The Aasen mortar is an indirect-fire advanced siege firearm, consisting of a heavy steel barrel, a loading mechanism, and a folding bipod stand, and is used to launch explosives to penetrate enemy defensive lines. Aiming the mortar is part of the standard action required to fire it. Reloading the mortar is a full-round action, and the user loads a grenade-like projectile into the breech of the weapon’s steel barrel, along with a blank rifle round that propels the bomb when triggered. The weapon uses indirect fire to lob bombs in slow-moving, high arcs, and the user targets a specific square. Rules for indirect-fire siege weapons are
+The Aasen mortar is an indirect-fire advanced siege firearm, consisting of a heavy steel barrel, a loading mechanism, and a folding bipod stand, and is used to launch explosives to penetrate enemy defensive lines. Aiming the mortar is part of the standard action (1 AP) required to fire it. Reloading the mortar is a full-round action (3 AP), and the user loads a grenade-like projectile into the breech of the weapon’s steel barrel, along with a blank rifle round that propels the bomb when triggered. The weapon uses indirect fire to lob bombs in slow-moving, high arcs, and the user targets a specific square. Rules for indirect-fire siege weapons are
 
 . Mortars can also be fired as direct-fire siege engines. When used for direct fire, they take a –4 penalty on attack rolls and their range increment is halved, but they do not have a minimum range. After the point of impact is determined, the shell explodes and deals 6d6 points of bludgeoning, piercing, and slashing damage to all creatures in a 30-foot radius
 
@@ -12341,7 +12341,7 @@ All radium weapons use radium cartridges for ammunition. As a result. in additio
 
 **Category** Ranged; **Proficiency** Exotic
 
-At first glance resembling a baton-like stick with a sling dangling from each end, this weapon requires extraordinary skill, or halfling acrobatics, to use to full effect. You can use a double sling as a normal sling, or use the second end to make one additional ranged attack each round. You take the normal penalties for fighting with two weapons when you use both ends of a double sling (as if it were a double weapon); the Two- Weapon Fighting feat reduces these penalties as normal. Reloading one end of a double sling is a move action ( just like a normal sling), so unless you have an ability or feat (such as Ammo Drop) that allows you to quickly reload a sling, you cannot normally make multiple attacks per round for several consecutive rounds with this weapon.
+At first glance resembling a baton-like stick with a sling dangling from each end, this weapon requires extraordinary skill, or halfling acrobatics, to use to full effect. You can use a double sling as a normal sling, or use the second end to make one additional ranged attack each round. You take the normal penalties for fighting with two weapons when you use both ends of a double sling (as if it were a double weapon); the Two- Weapon Fighting feat reduces these penalties as normal. Reloading one end of a double sling is a move action (1 AP) ( just like a normal sling), so unless you have an ability or feat (such as Ammo Drop) that allows you to quickly reload a sling, you cannot normally make multiple attacks per round for several consecutive rounds with this weapon.
 
 You can hurl ordinary stones with a double sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you, and you take a –1 penalty on attack rolls.
 
@@ -12385,7 +12385,7 @@ These bullets are actually made from a porous stone or heavy wood that absorbs l
 
 **Category** Ranged; **Proficiency** Exotic
 
-Technically not a unique kind of weapon, a stitched sling is a sling, staff sling, or double sling whose cup is sewn closed around the ammunition, creating a weak sort of light flail. The ammunition sewn into the sling is irrelevant to the type and amount of damage it causes. A stitched sling cannot be used to fire ammunition unless the thread or cord holding the cup closed is cut open (a full-round action that provokes attacks of opportunity).
+Technically not a unique kind of weapon, a stitched sling is a sling, staff sling, or double sling whose cup is sewn closed around the ammunition, creating a weak sort of light flail. The ammunition sewn into the sling is irrelevant to the type and amount of damage it causes. A stitched sling cannot be used to fire ammunition unless the thread or cord holding the cup closed is cut open (a full-round action (3 AP) that provokes attacks of opportunity).
 
 ### Heavy Slaver’s Crossbow
 
@@ -12449,7 +12449,7 @@ When using a flamethrower, the wielder projects a
 
 Vital Strike. Effects that grant concealment, such as fog or smoke, or the *blur*,* invisibility*, or* mirror image* spells, do not foil this line attack. If any of the rolls threatens a critical hit, the wielder confirms the critical for that roll alone.
 
-All affected creatures take 4d6 points of damage, and any creature hit by the flaming stream must also succeed at succeed at a DC 20 Reflex save or catch fire, taking an additional 2d6 points of damage each round until the flames are extinguished. A burning creature can attempt a new save as a full-round action, and dropping and rolling on the ground grants a +2 bonus on this save.
+All affected creatures take 4d6 points of damage, and any creature hit by the flaming stream must also succeed at succeed at a DC 20 Reflex save or catch fire, taking an additional 2d6 points of damage each round until the flames are extinguished. A burning creature can attempt a new save as a full-round action (3 AP), and dropping and rolling on the ground grants a +2 bonus on this save.
 
 The device’s tanks and backpacks are awkward, and the wielder takes a –4 armor check penalty when wearing the cumbersome device. In addition, the tanks have hardness
 
@@ -12529,7 +12529,7 @@ This imposing machine gun is light enough to be transported and wielded by a sin
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-This heavy machine gun uses 7.6254mmR ammunition in 250-round belts. Although a single person can fire a Maxim, it typically has a two-person crew: the gunner, and a loader who assists with feeding the ammunition belt into the weapon. As a full-round action, the loader can use a special aid another action to grant the gunner a +2 bonus on his next attack roll. Because of its size and heavy weight, a Maxim is often either mounted on a wheeled chassis with a gun shield for trench defensive use, or on the back of a horse-drawn wagon. Assuming a user can even lift the weapon, firing a Maxim M1910 machine gun that is not mounted imparts a –4 penalty on attack rolls and the recoil knocks the wielder prone. The Maxim M1910 is automatic-fire only. The armored shield provides cover when firing the weapon from the prone position.
+This heavy machine gun uses 7.6254mmR ammunition in 250-round belts. Although a single person can fire a Maxim, it typically has a two-person crew: the gunner, and a loader who assists with feeding the ammunition belt into the weapon. As a full-round action (3 AP), the loader can use a special aid another action to grant the gunner a +2 bonus on his next attack roll. Because of its size and heavy weight, a Maxim is often either mounted on a wheeled chassis with a gun shield for trench defensive use, or on the back of a horse-drawn wagon. Assuming a user can even lift the weapon, firing a Maxim M1910 machine gun that is not mounted imparts a –4 penalty on attack rolls and the recoil knocks the wielder prone. The Maxim M1910 is automatic-fire only. The armored shield provides cover when firing the weapon from the prone position.
 
 ### Mosin-Nagant M1891 rifle
 
@@ -12541,7 +12541,7 @@ This heavy machine gun uses 7.6254mmR ammunition in 250-round belts. Although a 
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-This bolt-action rifle is the mainstay of Russian military forces. It is similar to the advanced firearms rifle with the following differences. It uses the same 7.6254mmR ammunition as the Madsen machine gun, and is fed from a 5-round internal, nondetachable magazine that is typically loaded with 5-round stripper clips (loading it is a move action). Without stripper clips, you may only reload up to 2 rounds of ammunition as a move action. Ammunition is typically sold in groups of 5 rounds. The rifle has a lug for the attachment of a socket bayonet, and can be equipped with a unique sidemount scope system (see below).
+This bolt-action rifle is the mainstay of Russian military forces. It is similar to the advanced firearms rifle with the following differences. It uses the same 7.6254mmR ammunition as the Madsen machine gun, and is fed from a 5-round internal, nondetachable magazine that is typically loaded with 5-round stripper clips (loading it is a move action (1 AP)). Without stripper clips, you may only reload up to 2 rounds of ammunition as a move action (1 AP). Ammunition is typically sold in groups of 5 rounds. The rifle has a lug for the attachment of a socket bayonet, and can be equipped with a unique sidemount scope system (see below).
 
 ### Nagant M1895 revolver
 
@@ -12661,7 +12661,7 @@ These sling stones require only a touch attack to succeed. When they strike a ta
 
 **Category** Light; **Proficiency** Simple
 
-This wickedly curved sickle is cast in the form of a segmented spider’s leg. It has the same statistics as a normal sickle and can trip opponents, but deals piercing damage rather than slashing damage. The leather-wrapped handle contains a hollow recess that can hold a single dose of poison. Filling the reservoir is a full-round action that carries the usual risks of poisoning yourself. Once filled, the reservoir keeps the blade saturated and viable for up to 2 hours. The first successful attack made with the spider-leg sickle during this time administers and expends the dose of poison. Mog-Lathar’s deacons carry masterwork versions of these weapons. The cult uses blue whinnis poison, and within the radius of the *dreamstone*’s effects the unconsciousness effect may trigger lucid dreaming.
+This wickedly curved sickle is cast in the form of a segmented spider’s leg. It has the same statistics as a normal sickle and can trip opponents, but deals piercing damage rather than slashing damage. The leather-wrapped handle contains a hollow recess that can hold a single dose of poison. Filling the reservoir is a full-round action (3 AP) that carries the usual risks of poisoning yourself. Once filled, the reservoir keeps the blade saturated and viable for up to 2 hours. The first successful attack made with the spider-leg sickle during this time administers and expends the dose of poison. Mog-Lathar’s deacons carry masterwork versions of these weapons. The cult uses blue whinnis poison, and within the radius of the *dreamstone*’s effects the unconsciousness effect may trigger lucid dreaming.
 
 **Mustard Gas**
 
@@ -12705,7 +12705,7 @@ An underwater light crossbow functions like its normal counterpart above water, 
 
 **Category** Alchemical Tools
 
-This jar contains 6 ounces of alchemically preserved aboleth mucus. When 1 ounce of the extract is applied to a living creature’s mouth, nose, and throat (a full-round action), the target loses its ability to breathe air but gains the ability to breathe water for 1 hour. An unwilling target can attempt a DC 14 Fortitude save to negate the effect. If additional doses are applied to the same creature, the duration of the effect extends by 1 hour for each ounce used, to a maximum of 3 hours.
+This jar contains 6 ounces of alchemically preserved aboleth mucus. When 1 ounce of the extract is applied to a living creature’s mouth, nose, and throat (a full-round action (3 AP)), the target loses its ability to breathe air but gains the ability to breathe water for 1 hour. An unwilling target can attempt a DC 14 Fortitude save to negate the effect. If additional doses are applied to the same creature, the duration of the effect extends by 1 hour for each ounce used, to a maximum of 3 hours.
 
 ### Alchemical Recipe
 
@@ -12721,7 +12721,7 @@ This jar contains 6 ounces of alchemically preserved aboleth mucus. When 1 ounce
 
 This congealed incendiary functions like alchemist’s fire, but its white-hot flames deal 2d6 points of fire damage on a direct hit and 1d6 points of splash damage to adjacent creatures.
 
-**Mythic**: You can expend one use of mythic power while throwing a flask of Alchemist’s fire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of Alchemist’s fire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action. This effect lasts for a number of rounds equal to the user’s mythic tier, and otherwise acts as the burn universal monster rule. Alchemist’s fire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water.
+**Mythic**: You can expend one use of mythic power while throwing a flask of Alchemist’s fire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of Alchemist’s fire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action (3 AP). This effect lasts for a number of rounds equal to the user’s mythic tier, and otherwise acts as the burn universal monster rule. Alchemist’s fire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water.
 
 ### Alchemy Crafting Kit
 
@@ -12999,7 +12999,7 @@ This heavy armor is similar to full plate but lighter in construction, sacrifici
 
 **Category** Alchemical Weapons
 
-A fiery boulder is a large, roughly boulder-shaped version of alchemist’s fire favored by giants. A direct hit from a fiery boulder deals 2d6 points of fire damage and 5 points of fire damage to every creature affected by its splash damage. All creatures affected by a fiery boulder’s direct damage take an additional 2d6 points of fire damage the following round; affected creatures can use a full-round action to attempt to extinguish the flames before taking this additional damage.
+A fiery boulder is a large, roughly boulder-shaped version of alchemist’s fire favored by giants. A direct hit from a fiery boulder deals 2d6 points of fire damage and 5 points of fire damage to every creature affected by its splash damage. All creatures affected by a fiery boulder’s direct damage take an additional 2d6 points of fire damage the following round; affected creatures can use a full-round action (3 AP) to attempt to extinguish the flames before taking this additional damage.
 
 ### Fire Carrier
 
@@ -13163,7 +13163,7 @@ This massive balloon is connected to a large basket for passengers. It ascends a
 
 **Category** Alchemical Tools
 
-A blend of finely ground plaster, burning spices, and insect secretions, houndbane dust deters tracking animals. A single pouch can be spread over a 5-foot area as a standard action. For 24 hours thereafter, any creature with the scent ability that enters that square takes 1d2 points of damage and loses its sense of smell for 24 hours. Creatures that succeed at a DC 15 Fortitude saving throw take no damage and lose their sense of smell for only 3d6 minutes. Crafting a pouch of houndbane dust requires a successful DC 25 Craft (alchemy) check.
+A blend of finely ground plaster, burning spices, and insect secretions, houndbane dust deters tracking animals. A single pouch can be spread over a 5-foot area as a standard action (1 AP). For 24 hours thereafter, any creature with the scent ability that enters that square takes 1d2 points of damage and loses its sense of smell for 24 hours. Creatures that succeed at a DC 15 Fortitude saving throw take no damage and lose their sense of smell for only 3d6 minutes. Crafting a pouch of houndbane dust requires a successful DC 25 Craft (alchemy) check.
 
 **Construction**
 
@@ -13257,7 +13257,7 @@ A small number of Leng rubies (10%) can be used as the focus of a *plane shift* 
 
 **Arcane Spell Failure Chance** 5%; **Speed** —/—
 
-This light steel shield is specially crafted with a series of straps to allow a character proficient in shields to ready or stow it on her back quickly and easily. If you have a base attack bonus of +1 or higher, you may don or put away a quickdraw shield as a swift action combined with a regular move. If you have the Two-Weapon Fighting feat, you can draw a light or onehanded weapon with one hand and a quickdraw shield with the other in the time it would normally take you to draw one weapon. If you have the Quick Draw feat, you may don or put away a quickdraw shield as a free action.
+This light steel shield is specially crafted with a series of straps to allow a character proficient in shields to ready or stow it on her back quickly and easily. If you have a base attack bonus of +1 or higher, you may don or put away a quickdraw shield as a swift action (1 AP) combined with a regular move. If you have the Two-Weapon Fighting feat, you can draw a light or onehanded weapon with one hand and a quickdraw shield with the other in the time it would normally take you to draw one weapon. If you have the Quick Draw feat, you may don or put away a quickdraw shield as a free action.
 
 ### Light Wooden Quickdraw
 
@@ -13281,7 +13281,7 @@ A wooden quickdraw shield is essentially the same as a steel quickdraw shield, e
 
 **Category** Alchemical Remedies
 
-This gray, greasy topical lotion strengthens and straightens the leg muscles of bandy-legged hobgoblins. Applying loping ointment requires 1 full-round action. A hobgoblin under the effects of loping ointment gains a 10-foot alchemical bonus to his speed when using the charge, run, or withdraw action. This bonus lasts for 10 minutes. Loping ointment is specifically created to enhance hobgoblin physiology; other creatures gain no benefit from this ointment and find it unpleasantly itchy. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+This gray, greasy topical lotion strengthens and straightens the leg muscles of bandy-legged hobgoblins. Applying loping ointment requires 1 full-round action (3 AP). A hobgoblin under the effects of loping ointment gains a 10-foot alchemical bonus to his speed when using the charge, run, or withdraw action. This bonus lasts for 10 minutes. Loping ointment is specifically created to enhance hobgoblin physiology; other creatures gain no benefit from this ointment and find it unpleasantly itchy. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 **Construction**
 
@@ -13387,7 +13387,7 @@ These husky, shaggy beasts are sometimes domesticated as pack animals in the Cro
 
 **Category** Alchemical Tools
 
-This small vial contains an alchemical suspension that preserves a sample of pallid gift. This functions like plague powder for pallid gift, allowing the user to apply pallid gift to a weapon (a standard action, or whatever action the character normally takes to apply poison to a weapon if that is better) and deliver it as with an injury poison. Just as for plague powder, the creation of a pallid suspension exposes the crafter to the disease on each day of crafting.
+This small vial contains an alchemical suspension that preserves a sample of pallid gift. This functions like plague powder for pallid gift, allowing the user to apply pallid gift to a weapon (a standard action (1 AP), or whatever action the character normally takes to apply poison to a weapon if that is better) and deliver it as with an injury poison. Just as for plague powder, the creation of a pallid suspension exposes the crafter to the disease on each day of crafting.
 
 ### Pathfinder Chronicle
 
@@ -13437,7 +13437,7 @@ Maybe it’s the wide heads, but more likely it’s the lack of common sense tha
 
 **Price** 400 gp (empty), 300 gp (fuel); **Weight** 4 lbs. (empty), 1 lb. (fuel)
 
-This steel sphere is about the size of a standard cannon ball, though it’s significantly lighter. Small holes pock the surface of the sphere, which can be unscrewed into two hemispherical pieces. By filling the intricate hollows in an opened powder ball with a specific mixture of volatile chemical reagents (which can typically be purchased in a great dwarven hold for around 200 gp) and inserting a proprietary fuse, an individual can use the weapon as a time-delayed explosive device, throwing it as a splash weapon or simply placing it where she wants it to explode. The fuse can be ignited as a move action; 1d4 rounds afterward, the powder ball explodes, dealing 2d6 points of fire damage to anything in a 10-foot-radius burst (DC 15 for half ). A powder ball explodes in this way three times— the second explosion occurs 1d3 rounds after the initial explosion, and the third explosion occurs 1d2 rounds after the second. After the third explosion, the empty powder ball can be refilled and used again.
+This steel sphere is about the size of a standard cannon ball, though it’s significantly lighter. Small holes pock the surface of the sphere, which can be unscrewed into two hemispherical pieces. By filling the intricate hollows in an opened powder ball with a specific mixture of volatile chemical reagents (which can typically be purchased in a great dwarven hold for around 200 gp) and inserting a proprietary fuse, an individual can use the weapon as a time-delayed explosive device, throwing it as a splash weapon or simply placing it where she wants it to explode. The fuse can be ignited as a move action (1 AP); 1d4 rounds afterward, the powder ball explodes, dealing 2d6 points of fire damage to anything in a 10-foot-radius burst (DC 15 for half ). A powder ball explodes in this way three times— the second explosion occurs 1d3 rounds after the initial explosion, and the third explosion occurs 1d2 rounds after the second. After the third explosion, the empty powder ball can be refilled and used again.
 
 ### Quieting needles
 
@@ -13495,7 +13495,7 @@ Developed by desert riders, a satrapy saddle is sturdy but minimal, allowing hor
 
 **Category** Adventuring Gear
 
-A second-story harness is a series of straps, trusses, and buckles that can be worn over clothing or armor. A second-story harness allows the wearer to, as a move action, secure herself in place on a vertical surface so that both her hands are free. The wearer can remain in this position without needing to make additional Climb checks, and does not lose her Dexterity bonus to AC as long as she remains anchored. As long as the wearer is anchored in this way, she cannot move and gains a +5 circumstance bonus on Climb checks made to avoid falling whenever she takes damage. The wearer can release herself to start moving again as a move action. A second-story harness costs 55 gp and weighs 3 pounds.
+A second-story harness is a series of straps, trusses, and buckles that can be worn over clothing or armor. A second-story harness allows the wearer to, as a move action (1 AP), secure herself in place on a vertical surface so that both her hands are free. The wearer can remain in this position without needing to make additional Climb checks, and does not lose her Dexterity bonus to AC as long as she remains anchored. As long as the wearer is anchored in this way, she cannot move and gains a +5 circumstance bonus on Climb checks made to avoid falling whenever she takes damage. The wearer can release herself to start moving again as a move action (1 AP). A second-story harness costs 55 gp and weighs 3 pounds.
 
 ### Sheep
 
@@ -13573,13 +13573,13 @@ This thin bladder splits when it hits a target. You can throw a gas bladder as a
 
 **Price** 2 sp (common), 5 gp (masterwork); **Weight** 10 lbs. (common), 10 lbs. (masterwork)
 
-This item consists of a pair of wooden poles with a footrest halfway up. By standing on the footrests and holding the tops of the poles you can avoid certain ground-based threats to your feet. For example, you can use stilts to cross water without getting wet, but you would still activate a trap that triggers when you walk in a certain area. Using stilts reduces your base speed from 30 feet to 20 feet, or from 20 feet to 15 feet. You can hop off your stilts as a move action, or as a free action with a successful DC 10 Acrobatics check.
+This item consists of a pair of wooden poles with a footrest halfway up. By standing on the footrests and holding the tops of the poles you can avoid certain ground-based threats to your feet. For example, you can use stilts to cross water without getting wet, but you would still activate a trap that triggers when you walk in a certain area. Using stilts reduces your base speed from 30 feet to 20 feet, or from 20 feet to 15 feet. You can hop off your stilts as a move action (1 AP), or as a free action with a successful DC 10 Acrobatics check.
 
-You must use both your hands to walk with stilts. Walking with stilts requires a DC 5 Acrobatics check for each move. Failing this check means you do not move for that move action; failing by 5 or more means you fall off the stilts. If you want to use one hand for something else while standing on stilts, you must succeed at a DC 10 Acrobatics check or lose the action; if you want to use two hands, the DC increases to 20.
+You must use both your hands to walk with stilts. Walking with stilts requires a DC 5 Acrobatics check for each move. Failing this check means you do not move for that move action (1 AP); failing by 5 or more means you fall off the stilts. If you want to use one hand for something else while standing on stilts, you must succeed at a DC 10 Acrobatics check or lose the action; if you want to use two hands, the DC increases to 20.
 
 Stilts for a Medium creature raise you 2 feet above the ground; stilts for a Small creature raise you 1 foot from the ground. You can use taller stilts, but each additional foot of elevation increases the Acrobatics DCs of using stilts by +5. A stilt has hardness 5 and 10 hit points. If you only have one stilt, your speed drops to 5 feet because you can only hop rather than walk.
 
-*Masterwork Stilts*: These stilts strap to your feet and legs, allowing you to use your hands for other tasks without penalty. Walking on masterwork stilts requires a DC 10 Acrobatics check. Attaching or removing a masterwork stilt is a full-round action.
+*Masterwork Stilts*: These stilts strap to your feet and legs, allowing you to use your hands for other tasks without penalty. Walking on masterwork stilts requires a DC 10 Acrobatics check. Attaching or removing a masterwork stilt is a full-round action (3 AP).
 
 ### Sting grenade
 
@@ -13587,7 +13587,7 @@ Stilts for a Medium creature raise you 2 feet above the ground; stilts for a Sma
 
 **Category** Alchemical Weapons
 
-This hollow clay container holds black powder, a slow-burning fuse, and rock salt or hard beads of resin or rubber. Lighting the fuse is a move action; 1d3 rounds later, the sting grenade explodes, dealing 2d6 points of nonlethal damage and 1d6 points of fire damage in a 10-foot-radius burst (Reflex DC 15 half). A sting grenade is treated as a splash weapon with a range increment of 10 feet. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+This hollow clay container holds black powder, a slow-burning fuse, and rock salt or hard beads of resin or rubber. Lighting the fuse is a move action (1 AP); 1d3 rounds later, the sting grenade explodes, dealing 2d6 points of nonlethal damage and 1d6 points of fire damage in a 10-foot-radius burst (Reflex DC 15 half). A sting grenade is treated as a splash weapon with a range increment of 10 feet. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 **Construction**
 
@@ -13673,7 +13673,7 @@ A greater splash weapon can be used only by Large or larger creatures, though it
 
 **Category** Tools
 
-A tossglove is a hefty leather and metal glove made for holding and throwing an insect, snake, or other tiny creature that would otherwise bite the goblin. Those who don’t use a tossglove when attempting to sling such creatures provoke an attack of opportunity from the animal they attempt to throw or stash. The glove has overlapping plates that cover the goblin’s arm up to the elbow. It’s a full-round action to put on or take off a tossglove, and while it’s worn, that hand can’t be used to perform acts of fine manipulation (such as making a Disable Device check or firing an arrow). The gloved hand can still wield a melee weapon.
+A tossglove is a hefty leather and metal glove made for holding and throwing an insect, snake, or other tiny creature that would otherwise bite the goblin. Those who don’t use a tossglove when attempting to sling such creatures provoke an attack of opportunity from the animal they attempt to throw or stash. The glove has overlapping plates that cover the goblin’s arm up to the elbow. It’s a full-round action (3 AP) to put on or take off a tossglove, and while it’s worn, that hand can’t be used to perform acts of fine manipulation (such as making a Disable Device check or firing an arrow). The gloved hand can still wield a melee weapon.
 
 ### Trail Rations
 
@@ -13721,7 +13721,7 @@ Poached from the northern plains, these hairy pachyderms are used by the orcs of
 
 **Category** Adventuring Gear
 
-This is a sheath designed to be strapped to your forearm and hidden under a long sleeve. The sheath can hold one forearmlength item, such as a dagger, dart, or wand, or up to five arrows or crossbow bolts. As a move action, you can bend your wrist to cause some or all of these items to drop into your hand (provoking attacks of opportunity as normal). You have a +2 bonus on Sleight of Hand checks made to oppose the Perception check of someone observing or frisking you to determine items in the sheath. You can only wear one wrist sheath per arm.
+This is a sheath designed to be strapped to your forearm and hidden under a long sleeve. The sheath can hold one forearmlength item, such as a dagger, dart, or wand, or up to five arrows or crossbow bolts. As a move action (1 AP), you can bend your wrist to cause some or all of these items to drop into your hand (provoking attacks of opportunity as normal). You have a +2 bonus on Sleight of Hand checks made to oppose the Perception check of someone observing or frisking you to determine items in the sheath. You can only wear one wrist sheath per arm.
 
 ## Altars
 
@@ -14043,7 +14043,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Ritual**
 
-**Avoiding Spell (Su)** Whenever you cast a transmutation spell, you can spend this boon as a swift action to gain a +1 dodge bonus to your AC for a number of rounds equal to the spell’s level.
+**Avoiding Spell (Su)** Whenever you cast a transmutation spell, you can spend this boon as a swift action (1 AP) to gain a +1 dodge bonus to your AC for a number of rounds equal to the spell’s level.
 
 ### Healer’s Remedies
 
@@ -14057,7 +14057,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Ritual**
 
-**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
+**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action (1 AP). If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
 
 ### Healer’s Remedies (Formula Book, Level 3 Alchemist)
 
@@ -14071,7 +14071,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Ritual**
 
-**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
+**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action (1 AP). If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
 
 ### Revolutionary Cookbook (Formula Book, Level 8 Alchemist)
 
@@ -14089,7 +14089,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Ritual**
 
-**Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb’s normal area of effect.
+**Blast Finesse (Su)** As an immediate action (1 AP of your next turn) when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb’s normal area of effect.
 
 ### Sage’s Workbook
 
@@ -14155,7 +14155,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Ritual**
 
-**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action to add the chosen spell to your list of bard or skald spells known for 1 round.
+**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action (1 AP) to add the chosen spell to your list of bard or skald spells known for 1 round.
 
 ### The Guide’s Analects
 
@@ -14215,7 +14215,7 @@ While the Shield of the dead god of humanity, now known as the *Shattered Shield
 
 **Four-Item Benefit**: While you are wearing or wielding at least four pieces of this set, you gain a +4 circumstance bonus on Will saving throws against fear effects.
 
-**Five-Item Benefit**: When wearing and wielding all five pieces of this set, once per day as an immediate action you can maximize the effects of a single healing effect targeting you, treating all dice rolled as part of the effect as though they had rolled the maximum possible value.
+**Five-Item Benefit**: When wearing and wielding all five pieces of this set, once per day as an immediate action (1 AP of your next turn) you can maximize the effects of a single healing effect targeting you, treating all dice rolled as part of the effect as though they had rolled the maximum possible value.
 
 ### Dread Demonic Armor
 
@@ -14353,7 +14353,7 @@ These curled, spiral, or hooked horns must be affixed to holes drilled into the 
 
 **Slot** none; **Price** 6,000 gp; **Weight** 1 lb.
 
-This pulsating lump of reddish-black muscle can be implanted only if the recipient’s own heart is first removed—removing the recipient’s heart deals 2d4 points of Constitution damage and 1 point of Constitution bleed to the recipient, and at the beginning of its next turn the recipient is reduced to –1 hit points and begins dying. Implanting the *demon heart* requires a successful DC 20 Heal check made as a full-round action, and causes it to graft itself into the recipient’s chest and halt the Constitution bleed. Once in place, the* demon heart* pumps with unrighteous might—the recipient gains a +4 profane bonus on saving throws against fear effects. In addition, if the recipient is suffering a bleed effect, as a full-round action it can cause the* demon heart* to flood its bloodstream with tainted ichor, ending the bleed effect but causing it to become nauseated 1 for 1 round.
+This pulsating lump of reddish-black muscle can be implanted only if the recipient’s own heart is first removed—removing the recipient’s heart deals 2d4 points of Constitution damage and 1 point of Constitution bleed to the recipient, and at the beginning of its next turn the recipient is reduced to –1 hit points and begins dying. Implanting the *demon heart* requires a successful DC 20 Heal check made as a full-round action (3 AP), and causes it to graft itself into the recipient’s chest and halt the Constitution bleed. Once in place, the* demon heart* pumps with unrighteous might—the recipient gains a +4 profane bonus on saving throws against fear effects. In addition, if the recipient is suffering a bleed effect, as a full-round action (3 AP) it can cause the* demon heart* to flood its bloodstream with tainted ichor, ending the bleed effect but causing it to become nauseated 1 for 1 round.
 
 **Construction**
 
@@ -14377,7 +14377,7 @@ This puckered black tongue replaces the recipient’s original tongue, which mus
 
 **Slot** none; **Price** 16,000 gp; **Weight** 3 lbs.
 
-This lumpy gray and green slurry, made from the pureed brains of a dozen dretches, must be consumed as a full-round action in order to take effect, as this demonic cocktail invades and infuses the recipient’s central nervous system, forming a mantle around every lobe, chiasm, and node of the recipient’s brain. This mantle splinters the recipient’s consciousness into dissociated and disorganized fragments linked only by this cortical mantle, making it more difficult for the recipient’s mind to be compromised by outside influences.
+This lumpy gray and green slurry, made from the pureed brains of a dozen dretches, must be consumed as a full-round action (3 AP) in order to take effect, as this demonic cocktail invades and infuses the recipient’s central nervous system, forming a mantle around every lobe, chiasm, and node of the recipient’s brain. This mantle splinters the recipient’s consciousness into dissociated and disorganized fragments linked only by this cortical mantle, making it more difficult for the recipient’s mind to be compromised by outside influences.
 
 The *splintered mind* grants the recipient a +4 profane bonus on saving throws against mind-affecting effects. Also, if the recipient is affected by any effect that is neither instantaneous nor permanent, it can attempt a new saving throw each round at the end of its turn to end the effect. The splintering of the recipient’s mind is not without risk, nor is it a universal protection, as its benefits do not apply against effects that cause confusion or insanity. In addition, the recipient’s disorganized thoughts impose a –2 penalty on initiative checks.
 
@@ -14445,7 +14445,7 @@ This seal is a disk of mithral inscribed with dozens of spiraling arcane and mag
 
 **Slot** genie seal; **Price** 12,000 gp; **Weight** —
 
-This seal is perhaps the most hated by geniekind, for it uses the power of the imprisoned genie to dominate other elemental creatures. The *master of four quarters* is made of ivory and set with red and blue jewels at the corners. Once per day, a character who takes a standard action to present the seal and the bottle it graces can use a* charm monster* spell against a single elemental creature in range of the spell. The targeted elemental can resist the charm with a DC 16 Will save, but if the targeted elemental has the same elemental subtype as that of the imprisoned genie, the elemental suffers a –4 penalty to his saving throw.
+This seal is perhaps the most hated by geniekind, for it uses the power of the imprisoned genie to dominate other elemental creatures. The *master of four quarters* is made of ivory and set with red and blue jewels at the corners. Once per day, a character who takes a standard action (1 AP) to present the seal and the bottle it graces can use a* charm monster* spell against a single elemental creature in range of the spell. The targeted elemental can resist the charm with a DC 16 Will save, but if the targeted elemental has the same elemental subtype as that of the imprisoned genie, the elemental suffers a –4 penalty to his saving throw.
 
 **Construction**
 

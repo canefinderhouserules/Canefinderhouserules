@@ -204,7 +204,7 @@ This poison is used by Twilight Talons to render targets too ill to work for a d
 
 **Price** 2,000 gp
 
-**Effect** An affected creature that succeeds at an additional DC 20 Will saving throw has its consciousness transported into a distant mindscape, where it can linger for as long as it likes and return as a full-round action whenever it so pleases. Those that fail this secondary saving throw sleep fitfully for 2d4 hours and wake remembering snippets of surreal dreams.
+**Effect** An affected creature that succeeds at an additional DC 20 Will saving throw has its consciousness transported into a distant mindscape, where it can linger for as long as it likes and return as a full-round action (3 AP) whenever it so pleases. Those that fail this secondary saving throw sleep fitfully for 2d4 hours and wake remembering snippets of surreal dreams.
 
 **Damage** 1d4 Str damage
 

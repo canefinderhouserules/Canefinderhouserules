@@ -6,4 +6,4 @@ You instinctively channel your latent magical abilities through your firearm.
 
 **Prerequisites**: [Amateur Gunslinger](amateur-gunslinger.md) feat or grit class feature, Spellcraft 5 ranks.
 
-**Benefit**: As a swift action, you can spend 1 grit point to convert your gun's damage into acid, fire, electricity, or cold damage for 1 round. You can choose a different damage type each time you use this ability. This still counts as a ranged weapon attack for critical hit multipliers and abilities such as [Deadly Aim](deadly-aim.md).
+**Benefit**: As a swift action (1 AP), you can spend 1 grit point to convert your gun's damage into acid, fire, electricity, or cold damage for 1 round. You can choose a different damage type each time you use this ability. This still counts as a ranged weapon attack for critical hit multipliers and abilities such as [Deadly Aim](deadly-aim.md).

@@ -10,7 +10,7 @@ Words from this family deal specifically with alignment, detecting, damaging, or
 
 (harmless)
 
-Target Restrictions selected When a wordspell with this effect word is cast, the wordcaster selects one alignment: good, evil, chaotic, or lawful. The target of this wordspell is protected from that alignment and receives a +2 deflection bonus to AC on attacks made from creatures of that alignment and a +2 resistance bonus on saving throws made on spells and effects from creatures of that alignment. The target of a wordspell with this effect word can choose to end this effect as an immediate action to reroll any one saving throw made against a spell or effect from the chosen alignment, but must take the second result, even if it is worse.
+Target Restrictions selected When a wordspell with this effect word is cast, the wordcaster selects one alignment: good, evil, chaotic, or lawful. The target of this wordspell is protected from that alignment and receives a +2 deflection bonus to AC on attacks made from creatures of that alignment and a +2 resistance bonus on saving throws made on spells and effects from creatures of that alignment. The target of a wordspell with this effect word can choose to end this effect as an immediate action (1 AP of your next turn) to reroll any one saving throw made against a spell or effect from the chosen alignment, but must take the second result, even if it is worse.
 
 ## Alignment Assault (Alignment)
 

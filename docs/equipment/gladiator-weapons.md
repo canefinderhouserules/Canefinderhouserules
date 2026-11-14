@@ -18,9 +18,9 @@ There is another way in which a weapon can gain the performance quality. A creat
 
 Presented below are descriptions for weapons popular among gladiators, pit fighters, and other such warriors.
 
-**Aklys**: The aklys is a hooked throwing club with a 20- foot cord; you can retrieve the aklys after throwing it as a move action. The hook allows you to make trip attacks at range. Some aklyses have holes drilled through them and whistle when flung.
+**Aklys**: The aklys is a hooked throwing club with a 20- foot cord; you can retrieve the aklys after throwing it as a move action (1 AP). The hook allows you to make trip attacks at range. Some aklyses have holes drilled through them and whistle when flung.
 
-**Amentum**: An amentum is a long leather thong that attaches to a javelin. Before throwing, the amentum is wound about the javelin’s shaft. You then throw the javelin while gripping the amentum, imparting spin to the weapon and greatly improving its range. Attaching an amentum to a javelin is a move action, and winding it is a full-round action. Javelins can be stored with amenta already wound about them. A javelin wound with an amentum is considered a martial weapon.
+**Amentum**: An amentum is a long leather thong that attaches to a javelin. Before throwing, the amentum is wound about the javelin’s shaft. You then throw the javelin while gripping the amentum, imparting spin to the weapon and greatly improving its range. Attaching an amentum to a javelin is a move action (1 AP), and winding it is a full-round action (3 AP). Javelins can be stored with amenta already wound about them. A javelin wound with an amentum is considered a martial weapon.
 
 **Flying Blade**: A flying blade is a large, crescent-shaped blade anchored to a 10-foot chain. You fight with a flying blade by spinning it about your head or by snapping it toward an opponent. The flying blade is a clumsy weapon and receives a –2 penalty on attack rolls, but when you make attacks of opportunity provoked by movement, you receive a +2 bonus on attack rolls instead of the penalty.
 
@@ -36,7 +36,7 @@ Presented below are descriptions for weapons popular among gladiators, pit fight
 
 **Quadrens**: A quadrens looks like a dagger, but with four spikes mounted in a square pattern in place of a blade. When you score a critical hit with a quadrens, the resulting gaping wound causes 1 point of bleed damage.
 
-**Scizore**: The scizore is a hardened tube that fits your forearm, ending in a semicircular blade used for devastating bladed punch attacks. The scizore grants a +1 shield bonus to AC, but if you attack with the blade, you lose the AC bonus that round and take a –1 penalty on attack rolls with the scizore. While wearing a scizore, you cannot use that hand for anything else. A scizore provides a +10 bonus to your CMD against being disarmed of your scizore. Donning a scizore is a full-round action.
+**Scizore**: The scizore is a hardened tube that fits your forearm, ending in a semicircular blade used for devastating bladed punch attacks. The scizore grants a +1 shield bonus to AC, but if you attack with the blade, you lose the AC bonus that round and take a –1 penalty on attack rolls with the scizore. While wearing a scizore, you cannot use that hand for anything else. A scizore provides a +10 bonus to your CMD against being disarmed of your scizore. Donning a scizore is a full-round action (3 AP).
 
 **Scorpion Whip**: This whip has a series of razor-sharp blades and fangs inset along its tip. It deals lethal damage, even to creatures with armor bonuses. If you are proficient with both the scorpion whip and whip, you can use a scorpion whip in either the normal way (as a light performance weapon) or as a whip. When you use a scorpion whip as a whip, it is equivalent to a whip, but deals lethal damage and can harm creatures regardless of their armor bonus.
 

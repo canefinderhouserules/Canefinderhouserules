@@ -34,6 +34,6 @@ This sturdy ring allows the user to ignore the nonproficiency penalty for using 
 
 *Aura* faint transmutation; *CL* 3rd; *Slot* none; *Price* 500 gp; *Weight* —
 
-When this leather strap is tied around the grip of a broken weapon, the user can ignore the effects of the broken condition on that weapon. If the weapon loses its remaining hit points, it is destroyed as normal. Tying or untying the strap is a full-round action.
+When this leather strap is tied around the grip of a broken weapon, the user can ignore the effects of the broken condition on that weapon. If the weapon loses its remaining hit points, it is destroyed as normal. Tying or untying the strap is a full-round action (3 AP).
 
 *Construction* Craft Wondrous Item, *mending*; Cost 250 gp.

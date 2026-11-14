@@ -69,7 +69,7 @@ The ninja must be able to see the target well enough to pick out a vital spot, a
 
 At 2nd level, a ninja gains a pool of ki points, supernatural energy she can use to accomplish amazing feats. The number of points in the ninja’s ki pool is equal to 1/2 her ninja level + her Charisma modifier. As long as she has at least 1 point in her ki pool, she treats any [Acrobatics](../../rules/skills/acrobatics.md) skill check made to jump as if she had a running start. At 10th level, she also reduces the DC of Acrobatics skill checks made to jump by 1/2 (although she still cannot move farther than her speed allows).
 
-By spending 1 point from her ki pool, a ninja can make one additional attack at her highest attack bonus, but she can do so only when making a full attack. In addition, she can spend 1 point to increase her speed by 20 feet for 1 round. Finally, a ninja can spend 1 point from her ki pool to give herself a +4 insight bonus on [Stealth](../../rules/skills/stealth.md) checks for 1 round. Each of these powers is activated as a swift action. A ninja can gain additional powers that consume points from her ki pool by selecting certain ninja tricks.
+By spending 1 point from her ki pool, a ninja can make one additional attack at her highest attack bonus, but she can do so only when making a full attack. In addition, she can spend 1 point to increase her speed by 20 feet for 1 round. Finally, a ninja can spend 1 point from her ki pool to give herself a +4 insight bonus on [Stealth](../../rules/skills/stealth.md) checks for 1 round. Each of these powers is activated as a swift action (1 AP). A ninja can gain additional powers that consume points from her ki pool by selecting certain ninja tricks.
 
 The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the ninja possesses levels in another class that grants points to a ki pool, ninja levels stack with the levels of that class to determine the total number of ki points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is set. The ninja can now use ki points from this pool to power the abilities of every class she possesses that grants a ki pool.
 
@@ -81,7 +81,7 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 
 #### Acrobatic Master (Su)
 
-As a swift action, a ninja with this trick can focus her ki to grant her a +20 bonus on one Acrobatics check of her choice made before the start of her next turn. Using this ability expends 1 ki point from her ki pool.
+As a swift action (1 AP), a ninja with this trick can focus her ki to grant her a +20 bonus on one Acrobatics check of her choice made before the start of her next turn. Using this ability expends 1 ki point from her ki pool.
 
 **Bleeding Attack* (Ex)**: A ninja with this trick can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the ninja’s sneak attack. Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 [Heal](../../rules/skills/heal.md) check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any DR the creature might possess.
 
@@ -95,7 +95,7 @@ A ninja who selects this trick gains a bonus combat feat.
 
 #### Darkvision (Su)
 
-This trick allows the ninja to use her ki to enhance her sight, granting darkvision out to a range of 60 feet. Using this trick is a standard action that costs 1 ki point. The enhanced senses last for 1 hour.
+This trick allows the ninja to use her ki to enhance her sight, granting darkvision out to a range of 60 feet. Using this trick is a standard action (1 AP) that costs 1 ki point. The enhanced senses last for 1 hour.
 
 #### Deadly Range (Ex)
 
@@ -111,11 +111,11 @@ A ninja with this trick can move at full speed using the Stealth skill without p
 
 #### Feather Fall (Su)
 
-As an immediate action, the ninja can slow her descent as if using feather fall. This ability uses her ninja level as the caster level. Each use of this ability uses up 1 ki point.
+As an immediate action (1 AP of your next turn), the ninja can slow her descent as if using feather fall. This ability uses her ninja level as the caster level. Each use of this ability uses up 1 ki point.
 
 #### Flurry of Stars (Ex)
 
-A ninja with this ability can expend 1 ki point from her ki pool as a swift action before she makes a full attack with shuriken. During that attack, she can throw two additional shuriken at her highest attack bonus, but all of her shuriken attacks are made at a –2 penalty, including the two extra attacks.
+A ninja with this ability can expend 1 ki point from her ki pool as a swift action (1 AP) before she makes a full attack with shuriken. During that attack, she can throw two additional shuriken at her highest attack bonus, but all of her shuriken attacks are made at a –2 penalty, including the two extra attacks.
 
 #### Forgotten Trick (Ex)
 
@@ -123,11 +123,11 @@ A ninja with this ability can recall one trick taught to her by her ancient mast
 
 #### Herbal Compound (Ex)
 
-A ninja with this trick can consume specially prepared herbs to strengthen her mind. The ninja can spend 1 ki point and smoke, eat, or inject an herbal compound as a move action. The ninja takes a –2 penalty to AC and on Reflex saves but gains a +4 alchemical bonus on Will saves for 10 minutes per ninja level.
+A ninja with this trick can consume specially prepared herbs to strengthen her mind. The ninja can spend 1 ki point and smoke, eat, or inject an herbal compound as a move action (1 AP). The ninja takes a –2 penalty to AC and on Reflex saves but gains a +4 alchemical bonus on Will saves for 10 minutes per ninja level.
 
 #### Hidden Weapons (Ex)
 
-A ninja with this ability can easily conceal weapons on her body. The ninja adds her level on opposed [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal a weapon. In addition, she can draw hidden weapons as a move action, instead of as a standard action.
+A ninja with this ability can easily conceal weapons on her body. The ninja adds her level on opposed [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal a weapon. In addition, she can draw hidden weapons as a move action (1 AP), instead of as a standard action (1 AP).
 
 #### High Jumper (Ex)
 
@@ -137,15 +137,15 @@ When a ninja with this trick makes a high jump, the DC for that jump is half the
 
 #### Breath of the Ancestor (Su)
 
-The ninja chooses one imperial dragon type (forest, sea, sky, sovereign, or underworld) when she gains this trick, and the choice can’t be changed. She can use supplies similar to those used for ninja smoke bombs to produce an alchemical breath weapon that deals the same kind of damage as the selected dragon (piercing damage for forest dragons, fire for sea dragons, and so on). The breath weapon deals the same amount of damage as the ninja’s sneak attack, with a Reflex save allowed for half damage. The breath weapon is a 15-foot cone (or a 30-foot line if the underworld dragon is selected). The save DC is equal to 10 + 1/2 the ninja’s class level + the ninja’s Intelligence modifier. Using this ability is a standard action that expends up to 2 ki points, and once used it cannot be used again for 1d4 rounds.
+The ninja chooses one imperial dragon type (forest, sea, sky, sovereign, or underworld) when she gains this trick, and the choice can’t be changed. She can use supplies similar to those used for ninja smoke bombs to produce an alchemical breath weapon that deals the same kind of damage as the selected dragon (piercing damage for forest dragons, fire for sea dragons, and so on). The breath weapon deals the same amount of damage as the ninja’s sneak attack, with a Reflex save allowed for half damage. The breath weapon is a 15-foot cone (or a 30-foot line if the underworld dragon is selected). The save DC is equal to 10 + 1/2 the ninja’s class level + the ninja’s Intelligence modifier. Using this ability is a standard action (1 AP) that expends up to 2 ki points, and once used it cannot be used again for 1d4 rounds.
 
 #### Ki Charge (Su)
 
-A ninja with this trick can invest a portion of her ki into a single thrown weapon, such as a shuriken, and throw it as a standard action. The thrown weapon explodes on impact in a 5-foot burst, dealing 1d6 points of fire damage plus 1d6 points of fire damage for every four levels of the ninja above 2nd, to a maximum 4d6 at 18th level. Creatures caught in the blast receive a Reflex save to halve the damage. The DC of this save is 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. If the thrown weapon hits a creature, that creature takes a –2 penalty on the saving throw. If the thrown weapon misses, treat it as a thrown splash weapon. Using this ability expends 1 ki point from her ki pool.
+A ninja with this trick can invest a portion of her ki into a single thrown weapon, such as a shuriken, and throw it as a standard action (2 AP). The thrown weapon explodes on impact in a 5-foot burst, dealing 1d6 points of fire damage plus 1d6 points of fire damage for every four levels of the ninja above 2nd, to a maximum 4d6 at 18th level. Creatures caught in the blast receive a Reflex save to halve the damage. The DC of this save is 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. If the thrown weapon hits a creature, that creature takes a –2 penalty on the saving throw. If the thrown weapon misses, treat it as a thrown splash weapon. Using this ability expends 1 ki point from her ki pool.
 
 #### Ki Venom (Ex)
 
-A ninja with this trick knows how to make poisons from innocuous herbs or minerals. Creating ki venom is a full-round action that costs 1 ki point. The poison lasts for 24 hours before becoming inert. The poison deals either Strength or Dexterity damage, chosen when the venom is created. The ninja can spend additional ki as part of the process of creating the ki venom to improve the venom in one or more of the following ways: spend 1 ki point to increase the damage die to a d6, spend 1 ki point to change the ability damage dealt to Intelligence, Wisdom, or Charisma damage, or spend 1 ki point to increase the number of saves required to cure the poison by 1.
+A ninja with this trick knows how to make poisons from innocuous herbs or minerals. Creating ki venom is a full-round action (3 AP) that costs 1 ki point. The poison lasts for 24 hours before becoming inert. The poison deals either Strength or Dexterity damage, chosen when the venom is created. The ninja can spend additional ki as part of the process of creating the ki venom to improve the venom in one or more of the following ways: spend 1 ki point to increase the damage die to a d6, spend 1 ki point to change the ability damage dealt to Intelligence, Wisdom, or Charisma damage, or spend 1 ki point to increase the number of saves required to cure the poison by 1.
 
 *Ki Venom*: Type poison, injury; Save Fortitude DC = 10 + 1/2 the ninja's level + her Charisma modifier; Frequency 1/round for rounds equal to the ninja's Charisma modifier; Effect 1d4 ability damage (see above); Cure 1 save.
 
@@ -161,7 +161,7 @@ The ninja can select a rogue talent in place of a ninja trick. The ninja cannot 
 
 #### Shadow Clone (Su)
 
-The ninja can create 1d4 shadowy duplicates of herself that conceal her true location. This ability functions as mirror image, using the ninja’s level as her caster level. Using this ability is a standard action that uses up 1 ki point.
+The ninja can create 1d4 shadowy duplicates of herself that conceal her true location. This ability functions as mirror image, using the ninja’s level as her caster level. Using this ability is a standard action (1 AP) that uses up 1 ki point.
 
 #### Slow Metabolism (Ex)
 
@@ -171,7 +171,7 @@ The ninja has a slower-than-normal metabolism. She can hold her breath for twice
 
 #### Smoke Bomb (Ex)
 
-This ability allows a ninja to throw a smoke bomb that creates a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick. The ninja can center this smoke on herself, or throw the bomb as a ranged touch attack with a range of 20 feet. Using this ability is a standard action. Each use of this ability uses up 1 ki point.
+This ability allows a ninja to throw a smoke bomb that creates a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick. The ninja can center this smoke on herself, or throw the bomb as a ranged touch attack with a range of 20 feet. Using this ability is a standard action (1 AP). Each use of this ability uses up 1 ki point.
 
 #### Snatch Arrows
 
@@ -187,11 +187,11 @@ A ninja who selects this ninja trick gains a style feat that she qualifies for a
 
 #### Sudden Disguise (Su)
 
-As a swift action, a ninja can change her appearance for 1 minute per level. This ability functions as disguise self. Each use of this ability uses up 1 ki point.
+As a swift action (1 AP), a ninja can change her appearance for 1 minute per level. This ability functions as disguise self. Each use of this ability uses up 1 ki point.
 
 #### Swift Poisoner (Ex)
 
-A ninja with this trick can apply a dose of poison to a weapon as a swift action.
+A ninja with this trick can apply a dose of poison to a weapon as a swift action (1 AP).
 
 #### Unarmed Combat Training
 
@@ -203,11 +203,11 @@ Whenever a ninja with this trick uses Disable Device to sabotage or disable a de
 
 #### Vanishing Trick (Su)
 
-As a swift action, the ninja can disappear for 1 round per level. This ability functions as invisibility. Using this ability uses up 1 ki point.
+As a swift action (1 AP), the ninja can disappear for 1 round per level. This ability functions as invisibility. Using this ability uses up 1 ki point.
 
 #### Ventriloquism (Su)
 
-As a swift action, the ninja can throw her voice as if using the spell ventriloquism. She can use this ability for 1 minute per ninja level. Each use of this ability uses up 1 ki point.
+As a swift action (1 AP), the ninja can throw her voice as if using the spell ventriloquism. She can use this ability for 1 minute per ninja level. Each use of this ability uses up 1 ki point.
 
 #### Wall Climber (Su)
 
@@ -227,7 +227,7 @@ Starting at 4th level, a ninja can react to danger before her senses would norma
 
 ### Light Steps (Ex)
 
-At 6th level, a ninja learns to move while barely touching the surface underneath her. As a full-round action, she can move up to twice her speed, ignoring difficult terrain. While moving in this way, any surface will support her, no matter how much she weighs. This allows her to move across water, lava, or even the thinnest tree branches. She must end her move on a surface that can support her normally. She cannot move across air in this way, nor can she walk up walls or other vertical surfaces. When moving in this way, she does not take damage from surfaces or hazards that react to being touched, such as lava or caltrops, nor does she need to make Acrobatics checks to avoid falling on slippery or rough surfaces. Finally, when using light steps, the ninja ignores any mechanical traps that use a location-based trigger.
+At 6th level, a ninja learns to move while barely touching the surface underneath her. As a full-round action (3 AP), she can move up to twice her speed, ignoring difficult terrain. While moving in this way, any surface will support her, no matter how much she weighs. This allows her to move across water, lava, or even the thinnest tree branches. She must end her move on a surface that can support her normally. She cannot move across air in this way, nor can she walk up walls or other vertical surfaces. When moving in this way, she does not take damage from surfaces or hazards that react to being touched, such as lava or caltrops, nor does she need to make Acrobatics checks to avoid falling on slippery or rough surfaces. Finally, when using light steps, the ninja ignores any mechanical traps that use a location-based trigger.
 
 ### Improved Uncanny Dodge (Ex)
 
@@ -241,7 +241,7 @@ At 10th level, and every two levels thereafter, a ninja can select one of the fo
 
 #### Acceleration of Form (Su)
 
-A ninja with this trick can spend 1 ki point as a standard action to gain the benefits of displacement and haste for 1 round per 2 ninja levels.
+A ninja with this trick can spend 1 ki point as a standard action (1 AP) to gain the benefits of displacement and haste for 1 round per 2 ninja levels.
 
 #### Advanced Talents
 
@@ -253,7 +253,7 @@ Certain master ninjas possess a seemingly limitless supply of their trusted weap
 
 #### Assassinate (Ex)
 
-A ninja with this master trick can kill foes that are unable to defend themselves. To attempt to assassinate a target, the ninja must first study her target for 1 round as a standard action. On the following round, if the ninja makes a sneak attack against the target and the target is denied its Dexterity bonus to AC, the sneak attack has the additional effect of possibly killing the target. This attempt automatically fails if the target recognizes the ninja as an enemy. If the sneak attack is successful and the target of this attack fails a Fortitude save, it dies. The DC of this save is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. If the save is successful, the target still takes the sneak attack damage as normal, but it is immune to that ninja’s assassinate ability for 1 day.
+A ninja with this master trick can kill foes that are unable to defend themselves. To attempt to assassinate a target, the ninja must first study her target for 1 round as a standard action (1 AP). On the following round, if the ninja makes a sneak attack against the target and the target is denied its Dexterity bonus to AC, the sneak attack has the additional effect of possibly killing the target. This attempt automatically fails if the target recognizes the ninja as an enemy. If the sneak attack is successful and the target of this attack fails a Fortitude save, it dies. The DC of this save is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. If the save is successful, the target still takes the sneak attack damage as normal, but it is immune to that ninja’s assassinate ability for 1 day.
 
 #### Blinding Bomb (Ex)
 
@@ -263,11 +263,11 @@ The ninja must have the choking bomb ninja trick before selecting this trick.
 
 #### Deadly Shuriken (Ex)
 
-As a full-round action, a ninja with this master trick can take careful aim and pool all of her attack potential into a single, deadly shuriken throw. When she does this, she throws a single shuriken at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the attack hits. For each additional successful attack roll beyond the first, the ninja increases the damage by 1d6. Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this advanced talent. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0).
+As a full-round action (3 AP), a ninja with this master trick can take careful aim and pool all of her attack potential into a single, deadly shuriken throw. When she does this, she throws a single shuriken at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the attack hits. For each additional successful attack roll beyond the first, the ninja increases the damage by 1d6. Precision damage and extra damage from weapon special abilities (such as flaming) are added with damage modifiers and are not increased by this advanced talent. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0).
 
 #### Deep Cover (Ex)
 
-A ninja with this trick gains the dual identity and seamless guise class feature as a vigilante, except that the ninja can spend 1 ki point to change identities as a move action. The ninja's identities are referred to as social and ninja, rather than social and vigilante.
+A ninja with this trick gains the dual identity and seamless guise class feature as a vigilante, except that the ninja can spend 1 ki point to change identities as a move action (1 AP). The ninja's identities are referred to as social and ninja, rather than social and vigilante.
 
 #### Evasion (Ex)
 
@@ -283,11 +283,11 @@ A ninja may gain any feat that she qualifies for in place of a ninja trick.
 
 #### Fractured Mirror (Su)
 
-By sending phantom selves across the battlefield, one may fight as many. When a ninja with this trick uses the shadow clone ninja trick, she gains an additional clone for every 3 ninja levels she has, to a maximum of eight clones. In addition, while she has shadow clones deployed, the ninja can cause any number of her clones to split from herself as part of a move action. The shadow clones move up to the ninja's speed at her will each time she uses a move action to move. Shadow clones separated in this way are not considered part of the shadow clone trick until they return to the ninja's square, though they can still be destroyed while separated. Shadow clones separated from the ninja have an AC equal to the ninja's AC – 5 and cannot take any actions, though they can provide flanking. Shadow clones do not occupy any space and a creature can freely enter a shadow clone's square. The ninja must have the shadow clone ninja trick to select this trick.
+By sending phantom selves across the battlefield, one may fight as many. When a ninja with this trick uses the shadow clone ninja trick, she gains an additional clone for every 3 ninja levels she has, to a maximum of eight clones. In addition, while she has shadow clones deployed, the ninja can cause any number of her clones to split from herself as part of a move action (1 AP). The shadow clones move up to the ninja's speed at her will each time she uses a move action (1 AP) to move. Shadow clones separated in this way are not considered part of the shadow clone trick until they return to the ninja's square, though they can still be destroyed while separated. Shadow clones separated from the ninja have an AC equal to the ninja's AC – 5 and cannot take any actions, though they can provide flanking. Shadow clones do not occupy any space and a creature can freely enter a shadow clone's square. The ninja must have the shadow clone ninja trick to select this trick.
 
 #### Ghost Step (Su)
 
-As a swift action, a ninja with this trick can pass through walls as if she were a ghost. Until the end of her turn, she can pass through a wall or other surface that is up to 5 feet thick per level as if she were incorporeal. She must exit the solid material by the end of her turn. Each use of this ability uses up 1 ki point.
+As a swift action (1 AP), a ninja with this trick can pass through walls as if she were a ghost. Until the end of her turn, she can pass through a wall or other surface that is up to 5 feet thick per level as if she were incorporeal. She must exit the solid material by the end of her turn. Each use of this ability uses up 1 ki point.
 
 #### Greater Ki Venom (Ex)
 
@@ -313,7 +313,7 @@ A ninja with this trick can still her mind to bypass magical detection. The ninj
 
 #### See the Unseen (Su)
 
-A ninja with this trick learns how to see that which cannot be seen. As a swift action, the ninja can cast see invisibility, using her level as the caster level. Each use of this ability uses up 1 ki point.
+A ninja with this trick learns how to see that which cannot be seen. As a swift action (1 AP), the ninja can cast see invisibility, using her level as the caster level. Each use of this ability uses up 1 ki point.
 
 #### Shadow Split (Su)
 
@@ -337,7 +337,7 @@ This trick allows a ninja to use her ki to walk through the air. Whenever the ni
 
 ### Hidden Master (Su)
 
-At 20th level, a ninja becomes a true master of her art. She can, as a standard action, cast greater invisibility on herself. While invisible in this way, she cannot be detected by any means, and not even invisibility purge, see invisibility, and true seeing can reveal her. She uses her ninja level as her caster level for this ability. Using this ability consumes 3 ki points from her ki pool. In addition, whenever the ninja deals sneak attack damage, she can sacrifice additional damage dice to apply a penalty to one ability score of the target equal to the number of dice sacrificed for 1 minute. This penalty does not stack with itself and cannot reduce an ability score below 1.
+At 20th level, a ninja becomes a true master of her art. She can, as a standard action (1 AP), cast greater invisibility on herself. While invisible in this way, she cannot be detected by any means, and not even invisibility purge, see invisibility, and true seeing can reveal her. She uses her ninja level as her caster level for this ability. Using this ability consumes 3 ki points from her ki pool. In addition, whenever the ninja deals sneak attack damage, she can sacrifice additional damage dice to apply a penalty to one ability score of the target equal to the number of dice sacrificed for 1 minute. This penalty does not stack with itself and cannot reduce an ability score below 1.
 
 ## Ninja Archetypes
 
@@ -367,17 +367,17 @@ The order dispatches specially trained killers to hunt relentlessly and fight fr
 
 **Relentless Pursuit (Ex)**: At 3rd level, a hunting serpent gains a +1 bonus on Diplomacy checks to gather information and on Survival checks to identify or follow tracks. The bonus increases by 1 for every 3 ninja levels beyond 3rd. This ability replaces no trace.
 
-**Death Mark (Ex)**: At 4th level, as a swift action once per day, a hunting serpent can mark an opponent damaged by her sneak attack for death. A hunting serpent gains a +1 competence bonus on attack and damage rolls against an opponent affected by death mark as well as on Survival checks to track the marked creature. The bonuses from death mark and its number of uses per day increase by 1 at 8th, 12th, and 16th levels. The effects of death mark last for 24 hours, until the marked creature is slain, or until the hunting serpent chooses to mark another creature, whichever comes first. This ability replaces uncanny dodge, improved uncanny dodge, and the ninja tricks gained at 12th and 16th levels.
+**Death Mark (Ex)**: At 4th level, as a swift action (1 AP) once per day, a hunting serpent can mark an opponent damaged by her sneak attack for death. A hunting serpent gains a +1 competence bonus on attack and damage rolls against an opponent affected by death mark as well as on Survival checks to track the marked creature. The bonuses from death mark and its number of uses per day increase by 1 at 8th, 12th, and 16th levels. The effects of death mark last for 24 hours, until the marked creature is slain, or until the hunting serpent chooses to mark another creature, whichever comes first. This ability replaces uncanny dodge, improved uncanny dodge, and the ninja tricks gained at 12th and 16th levels.
 
 **Certain Demise (Ex)**: At 10th level, the hunting serpent's sneak attack damage applies on the first attack she makes each round against the target of her death mark ability, even if it normally wouldn't. Other effects that trigger on a sneak attack do not apply with this ability. This ability replaces the ninja trick gained at 10th level.
 
 ## More Ninja Tricks
 
-**Blood Debt (Su)**: A ninja with this ability gains [In Harm’s Way](../../rules/feats/in-harm-s-way.md) as a bonus feat, even if she doesn’t meet the prerequisites. When the ninja intercepts an attack using this feat, she can spend 1 ki point to impose a blood debt on the aided ally. The ninja’s ki pool is reduced by 1 until she ends this effect, which she may do as an immediate action. If the ninja ends the blood debt in response to a successful attack against her by a creature the indebted ally threatens, the ally (who must be willing) takes full damage from that attack and any associated effects instead of the ninja.
+**Blood Debt (Su)**: A ninja with this ability gains [In Harm’s Way](../../rules/feats/in-harm-s-way.md) as a bonus feat, even if she doesn’t meet the prerequisites. When the ninja intercepts an attack using this feat, she can spend 1 ki point to impose a blood debt on the aided ally. The ninja’s ki pool is reduced by 1 until she ends this effect, which she may do as an immediate action (1 AP of your next turn). If the ninja ends the blood debt in response to a successful attack against her by a creature the indebted ally threatens, the ally (who must be willing) takes full damage from that attack and any associated effects instead of the ninja.
 
 **Kamikaze (Su)**: A ninja with this ability strikes without concern for her own well-being. The ninja can spend 1 point from her *ki* pool to give her unarmed strikes and any weapons she wields the *vicious *weapon special ability for 1 round per level. The ninja can spend 1 *ki* point to dismiss this effect.
 
-**Kawarimi (Su)**: Once per day when a successful attack is made against a ninja with this ability, as an immediate action she can spend 1 *ki* point to attempt a Stealth check opposed by the attacker’s Perception check. The ninja can attempt this check while being observed as long as she has cover or concealment (or an ability that allows her to attempt Stealth checks without cover or concealment). If she’s successful, the opponent’s attack hits an inanimate object that the attacker mistook for the ninja, and the ninja may move into an adjacent square and is hidden from the attacker.
+**Kawarimi (Su)**: Once per day when a successful attack is made against a ninja with this ability, as an immediate action (1 AP of your next turn) she can spend 1 *ki* point to attempt a Stealth check opposed by the attacker’s Perception check. The ninja can attempt this check while being observed as long as she has cover or concealment (or an ability that allows her to attempt Stealth checks without cover or concealment). If she’s successful, the opponent’s attack hits an inanimate object that the attacker mistook for the ninja, and the ninja may move into an adjacent square and is hidden from the attacker.
 
 **Redirect Force (Ex)**: If the ninja has a feat that allows her to attempt a combat maneuver without provoking attacks of opportunity, she can choose to provoke them anyway when she performs that maneuver. If she does so and takes damage from the attack of opportunity, the ninja adds the damage as a bonus on her attack roll instead of as a penalty.
 

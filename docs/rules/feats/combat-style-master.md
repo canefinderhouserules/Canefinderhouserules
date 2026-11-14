@@ -8,4 +8,4 @@ You shift between combat styles, combining them to increased effect.
 
 **Benefit**: You can switch your style as a free action. At the start of combat, pick one of your styles. You start the combat in that style, even in the surprise round.
 
-**Normal**: It takes a swift action to begin or switch your styles.
+**Normal**: It takes a swift action (1 AP) to begin or switch your styles.

@@ -161,15 +161,15 @@ They have an inspiration pool equal to 1/2 their legendary investigator level + 
 
 They can use inspiration on any Intelligence-based skill checks without expending a use of inspiration, provided they’re trained in the skill. This includes skills in which the legendary investigator substitutes their Intelligence modifier for the skill’s typical ability modifier.
 
-Inspiration can also be used on attack rolls and saving throws, at the cost of spending two uses of inspiration each time from the legendary investigator’s pool. In the case of saving throws, using inspiration is an immediate action rather than a free action.
+Inspiration can also be used on attack rolls and saving throws, at the cost of spending two uses of inspiration each time from the legendary investigator’s pool. In the case of saving throws, using inspiration is an immediate action (1 AP of your next turn) rather than a free action.
 
 Temporary increases to Intelligence, like from the spell fox’s cunning do not increase the number of points of inspiration the investigator has or can have.
 
 #### Studied Combat (Ex)
 
-A life of a legendary investigator typically leads them into danger, so they must always be ready to bring their wits to bear in a fight. By taking the time to observe the movements and tactics of their opponent, a legendary investigator can take advantage of openings in the opponent’s guard and faults in their skill. At 1st level, a legendary investigator can use a move action to study a single enemy that they can see. Upon doing so, they add 1/2 their investigator level (minimum 1) as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. This effect lasts for a number of rounds equal to their Intelligence modifier (minimum 1) or until they deal damage with a studied strike, whichever comes first. The bonus on damage rolls is precision damage and is not multiplied on a critical hit.
+A life of a legendary investigator typically leads them into danger, so they must always be ready to bring their wits to bear in a fight. By taking the time to observe the movements and tactics of their opponent, a legendary investigator can take advantage of openings in the opponent’s guard and faults in their skill. At 1st level, a legendary investigator can use a move action (1 AP) to study a single enemy that they can see. Upon doing so, they add 1/2 their investigator level (minimum 1) as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. This effect lasts for a number of rounds equal to their Intelligence modifier (minimum 1) or until they deal damage with a studied strike, whichever comes first. The bonus on damage rolls is precision damage and is not multiplied on a critical hit.
 
-A legendary investigator can only have one target of studied combat at a time, and once a creature has become the target of their studied combat, it cannot become the target of the same legendary investigator’s studied combat again for 24 hours unless the legendary investigator expends one use of inspiration when taking the move action to use this ability.
+A legendary investigator can only have one target of studied combat at a time, and once a creature has become the target of their studied combat, it cannot become the target of the same legendary investigator’s studied combat again for 24 hours unless the legendary investigator expends one use of inspiration when taking the move action (1 AP) to use this ability.
 
 #### Studied Strike (Ex)
 

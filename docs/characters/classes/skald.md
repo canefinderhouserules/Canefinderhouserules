@@ -98,9 +98,9 @@ At 5th level and every 3 levels thereafter, a skald can choose to learn a new sp
 
 A skald is trained to use music, oration, and similar performances to inspire his allies to feats of strength and ferocity. At 1st level, a skald can use this ability for a number of rounds per day equal to 3 + his Charisma modifier. For each level thereafter, he can use raging song for 2 additional rounds per day.
 
-Starting a raging song is a standard action, but it can be maintained each round as a free action. A raging song cannot be disrupted, but it ends immediately if the skald is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), knocked [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from taking a free action each round to maintain it. A raging song counts as the [bard's bardic performance](bard.md#bardic-performance) special ability for any effect that affects bardic performances. A skald may learn bard masterpieces.
+Starting a raging song is a standard action (2 AP), but it can be maintained each round as a free action. A raging song cannot be disrupted, but it ends immediately if the skald is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), knocked [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from taking a free action each round to maintain it. A raging song counts as the [bard's bardic performance](bard.md#bardic-performance) special ability for any effect that affects bardic performances. A skald may learn bard masterpieces.
 
-A raging song has audible components, but not visual components. Affected allies must be able to hear the skald for the song to have any effect. A deaf skald has a 20% chance to fail when attempting to use a raging song. If he fails this check, the attempt still counts against his daily limit. Deaf creatures are immune to raging songs. If a raging song affects allies, when the skald begins a raging song and at the start of each ally's turn in which they can hear the raging song, the skald's allies must decide whether to accept or refuse its effects. This is not an action. Unconscious allies automatically accept the song. If accepted, the raging song's effects last for that ally's turn or until the song ends, whichever comes first. At 7th level, a skald can start a raging song as a move action instead of a standard action. At 13th level, a skald can start a raging song as a swift action instead. 
+A raging song has audible components, but not visual components. Affected allies must be able to hear the skald for the song to have any effect. A deaf skald has a 20% chance to fail when attempting to use a raging song. If he fails this check, the attempt still counts against his daily limit. Deaf creatures are immune to raging songs. If a raging song affects allies, when the skald begins a raging song and at the start of each ally's turn in which they can hear the raging song, the skald's allies must decide whether to accept or refuse its effects. This is not an action. Unconscious allies automatically accept the song. If accepted, the raging song's effects last for that ally's turn or until the song ends, whichever comes first. At 7th level, a skald can start a raging song as a move action (1 AP) instead of a standard action. At 13th level, a skald can start a raging song as a swift action (1 AP) instead. 
 
 #### Inspired Rage (Su)
 
@@ -140,7 +140,7 @@ At 2nd level, the skald becomes resistant to sonic effects. The skald gains a +4
 
 ### Rage Powers (Ex)
 
-At 3rd level and every 3 levels thereafter, a skald learns a rage power (see [Barbarian](barbarian.md)) that affects the skald and any allies under the influence of his inspired rage. This cannot be a rage power that requires the creature to spend a standard action or rounds of rage to activate it. For example, the skald cannot choose terrifying howl (which requires a standard action to activate), but can choose knockback (which is made in place of a melee attack).
+At 3rd level and every 3 levels thereafter, a skald learns a rage power (see [Barbarian](barbarian.md)) that affects the skald and any allies under the influence of his inspired rage. This cannot be a rage power that requires the creature to spend a standard action (1 AP) or rounds of rage to activate it. For example, the skald cannot choose terrifying howl (which requires a standard action (1 AP) to activate), but can choose knockback (which is made in place of a melee attack).
 
 Unless otherwise noted, a skald cannot select an individual rage power more than once.
 
@@ -162,7 +162,7 @@ At 5th level, a skald is learned in the magic of other spellcasters, and can use
 
 ### Lore Master (Ex)
 
-At 7th level, the skald becomes a master of many different types of lore, and can choose to take 10 on any Knowledge skill check that he has ranks in. Once per day, the skald can take 20 on any Knowledge skill check as a standard action, instead of spending the normal time taking 20 requires. He can use this ability to take 20 on a Knowledge skill check twice per day at 13th level and three times per day 19th level.
+At 7th level, the skald becomes a master of many different types of lore, and can choose to take 10 on any Knowledge skill check that he has ranks in. Once per day, the skald can take 20 on any Knowledge skill check as a standard action (1 AP), instead of spending the normal time taking 20 requires. He can use this ability to take 20 on a Knowledge skill check twice per day at 13th level and three times per day 19th level.
 
 ### Improved Uncanny Dodge (Ex)
 

@@ -30,7 +30,7 @@ You can influence others subtly, but lose your reflection.
 
 **Gift**: You gain a +2 racial bonus on Bluff, Diplomacy, and Intimidate checks. At manifestation level 3rd, these bonuses increase to +4.
 
-**Stain**: You cast no reflection. While you’re within 10 feet of a mirror or reflective surface, nearby creatures may notice something amiss (Perception DC 20). If they succeed by 5 or more, they notice your lack of reflection. When you reach manifestation level 3rd, a creature can present a mirror to you as a standard action to repel you. You must stay at least 5 feet away from the mirror and can’t touch or make melee attacks against that creature. After 1 round, if the creature continues presenting the mirror, you can attempt a DC 25 Will save each round to ignore the repulsion for that round.
+**Stain**: You cast no reflection. While you’re within 10 feet of a mirror or reflective surface, nearby creatures may notice something amiss (Perception DC 20). If they succeed by 5 or more, they notice your lack of reflection. When you reach manifestation level 3rd, a creature can present a mirror to you as a standard action (1 AP) to repel you. You must stay at least 5 feet away from the mirror and can’t touch or make melee attacks against that creature. After 1 round, if the creature continues presenting the mirror, you can attempt a DC 25 Will save each round to ignore the repulsion for that round.
 
 ### Children of the Night
 
@@ -54,7 +54,7 @@ Your powers of persuasion allow you to compel the weak.
 
 Your canines grow unnaturally long when you are angry.
 
-**Gift**: You can, as a swift action, grow fangs that grant you a bite attack. This is a primary natural attack that deals 1d6 points of piercing damage if your size is Medium (1d4 if Small). You can dismiss the fangs as a move action. You can drain blood with your bite from a helpless creature as a standard action, or a pinned creature as a free action once per round immediately after succeeding at a combat maneuver check to pin the creature or maintain your pin. Each time you drain blood, you deal 1 point of Constitution damage. This counts toward the feeding you must do to avoid your corruption progressing; you needn’t entirely drain and kill the creature. Draining blood changes your alignment only if you feed on an unwilling innocent.
+**Gift**: You can, as a swift action (1 AP), grow fangs that grant you a bite attack. This is a primary natural attack that deals 1d6 points of piercing damage if your size is Medium (1d4 if Small). You can dismiss the fangs as a move action (1 AP). You can drain blood with your bite from a helpless creature as a standard action (1 AP), or a pinned creature as a free action once per round immediately after succeeding at a combat maneuver check to pin the creature or maintain your pin. Each time you drain blood, you deal 1 point of Constitution damage. This counts toward the feeding you must do to avoid your corruption progressing; you needn’t entirely drain and kill the creature. Draining blood changes your alignment only if you feed on an unwilling innocent.
 
 **Stain**: To avoid a saving throw against your corruption progressing, you must drink the requisite amount of blood each day instead of each week.
 
@@ -94,7 +94,7 @@ You heal at a phenomenal rate.
 
 **Prerequisite**: Manifestation level 3rd.
 
-**Gift**: As a standard action a number of times per day equal to 1/2 your manifestation level, you can grant yourself fast healing 1 for 1 minute.
+**Gift**: As a standard action (1 AP) a number of times per day equal to 1/2 your manifestation level, you can grant yourself fast healing 1 for 1 minute.
 
 **Stain**: While you’re in direct sunlight, you become shaken. Nothing can remove this condition, nor does immunity to fear prevent it, but it ends as soon as you are no longer in sunlight.
 

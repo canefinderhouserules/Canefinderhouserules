@@ -4,7 +4,7 @@
 
 ***Granted Powers**: Your touch staves off pain and death, and your healing magic is particularly vital and potent.*
 
-*Rebuke Death (Sp): You can touch a living creature as a standard action, healing it for 1d4 points of damage plus 1d4 for every two cleric levels you possess. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Rebuke Death (Sp): You can touch a living creature as a standard action (1 AP), healing it for 1d4 points of damage plus 1d4 for every two cleric levels you possess. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *Healer's Blessing (Su): At 6th level, all of your cure spells are treated as if they were empowered, increasing the amount of damage healed by half (+50%). This does not apply to damage dealt to undead with a cure spell. This does not stack with the [Empower Spell](../../rules/feats/empower-spell.md) metamagic feat.*
 
@@ -60,6 +60,6 @@
 
 *Through the teachings of an ascetic faith, impurities in oneself and in the world are overcome. Its followers are some of the most self-disciplined of the faithful, believing that knowledge is the best weapon one can wield against the shackles of possession. They rarely directly involve themselves in battling those intruding forces, instead hoping the afflicted can overcome their situations through their own force of will. Haunts are the one exception to this mantra of nonintervention. As spirits beyond the mortal cycle, haunts are often targeted by the servants of that faith as being stains on the delicate fabric of the world.*
 
-***Exorcise Haunt (Sp)**: You can emit a burst of positive energy as a standard action. Any haunt or ghost like undead within 15 feet of you takes 1d8 points of damage plus 1d8 for every 2 cleric levels you have. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+***Exorcise Haunt (Sp)**: You can emit a burst of positive energy as a standard action (2 AP). Any haunt or ghost like undead within 15 feet of you takes 1d8 points of damage plus 1d8 for every 2 cleric levels you have. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *This replaces the rebuke death domain power of the Healing domain.*

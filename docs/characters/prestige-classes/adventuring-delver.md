@@ -43,7 +43,7 @@ This ability is identical to the bard class feature of the same name. Levels in 
 
 #### Master Explorer (Ex)
 
-A delver adds half his class level (minimum 1) as a bonus on all [Disable Device](../../rules/skills/disable-device.md) and [Perception](../../rules/skills/perception.md) checks. A delver can disable intricate and complex traps in half the normal amount of time (minimum 1 round) and open a lock as a standard action instead of a full-round action. He can always take 10 on Disable Device and [Stealth](../../rules/skills/stealth.md) checks, even if distracted or endangered, and he can use Disable Device to disarm magical traps.
+A delver adds half his class level (minimum 1) as a bonus on all [Disable Device](../../rules/skills/disable-device.md) and [Perception](../../rules/skills/perception.md) checks. A delver can disable intricate and complex traps in half the normal amount of time (minimum 1 round) and open a lock as a standard action (1 AP) instead of a full-round action. He can always take 10 on Disable Device and [Stealth](../../rules/skills/stealth.md) checks, even if distracted or endangered, and he can use Disable Device to disarm magical traps.
 
 #### Surefooted (Ex)
 
@@ -55,7 +55,7 @@ This ability functions as (and stacks with) the rogue class feature of the same 
 
 #### Thrilling Escape (Ex)
 
-At 3rd level, a delver can attempt to delay a trap immediately after triggering it. To use this ability, he attempts a Disable Device check as an immediate action against the trap’s Disable Device DC; if he’s successful, the trap’s activation is delayed until the end of his next turn. The delver can attempt this check even if the trap was triggered by a failed Disable Device check. The delver can do this once per day at 3rd level, twice per day at 7th level, and three times per day at 9th level.
+At 3rd level, a delver can attempt to delay a trap immediately after triggering it. To use this ability, he attempts a Disable Device check as an immediate action (1 AP of your next turn) against the trap’s Disable Device DC; if he’s successful, the trap’s activation is delayed until the end of his next turn. The delver can attempt this check even if the trap was triggered by a failed Disable Device check. The delver can do this once per day at 3rd level, twice per day at 7th level, and three times per day at 9th level.
 
 #### Guardbreaker (Ex)
 
@@ -83,4 +83,4 @@ At 9th level, a delver can use [*true seeing*](../../magic/spells/true-seeing.md
 
 #### Nick of Time (Ex)
 
-Once per day at 10th level, a delver can use an immediate action to perform an action that normally requires a standard action to perform.
+Once per day at 10th level, a delver can use an immediate action (1 AP of your next turn) to perform an action that normally requires a standard action (1 AP) to perform.

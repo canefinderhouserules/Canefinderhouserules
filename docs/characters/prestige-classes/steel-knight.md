@@ -65,7 +65,7 @@ At 3rd level, the steel knight gains [Learn Ranger Trap](../../rules/feats/learn
 
 #### Comrade’s Bond (Ex)
 
-At 4th level, once per day as a move action, a steel knight can grant her allies half her enemy of slavers bonus against all appropriate targets in sight; the allies must be within 30 feet and able to see or hear her. This bonus lasts for a number of rounds equal to the steel knight’s Charisma bonus (minimum 1). This bonus does not stack with any favored enemy bonuses her allies have; they use whichever bonus is higher. At 7th level, the steel knight can use comrade’s bond twice per day, and activating it is a swift action. At 10th level, she can use this ability three times per day, and activating it is a free action.
+At 4th level, once per day as a move action (1 AP), a steel knight can grant her allies half her enemy of slavers bonus against all appropriate targets in sight; the allies must be within 30 feet and able to see or hear her. This bonus lasts for a number of rounds equal to the steel knight’s Charisma bonus (minimum 1). This bonus does not stack with any favored enemy bonuses her allies have; they use whichever bonus is higher. At 7th level, the steel knight can use comrade’s bond twice per day, and activating it is a swift action (1 AP). At 10th level, she can use this ability three times per day, and activating it is a free action.
 
 #### Superior Aid (Ex)
 
@@ -73,11 +73,11 @@ At 4th level, when performing the aid another action, a steel knight grants a +4
 
 #### Subtle Manipulator (Ex)
 
-At 5th level, if the steel knight spends a full-round action studying a target, she can attempt a Sense Motive check opposed by the target’s Will save. If she succeeds, she gains a +5 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks against that opponent for a number of days equal to her Wisdom modifier. This ability can be used on a given target once per day, and a successful use resets its duration.
+At 5th level, if the steel knight spends a full-round action (3 AP) studying a target, she can attempt a Sense Motive check opposed by the target’s Will save. If she succeeds, she gains a +5 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks against that opponent for a number of days equal to her Wisdom modifier. This ability can be used on a given target once per day, and a successful use resets its duration.
 
 #### Celestial Blessing (Su)
 
-At 5th level, a steel knight gains the blessing of a celestial patron. She gains a +10 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to make high or long jumps, a +4 bonus on Perception checks, and the benefits of [*feather fall*](../../magic/spells/feather-fall.md) at all times. If this effect is dispelled, she can reactivate it as a move action.
+At 5th level, a steel knight gains the blessing of a celestial patron. She gains a +10 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to make high or long jumps, a +4 bonus on Perception checks, and the benefits of [*feather fall*](../../magic/spells/feather-fall.md) at all times. If this effect is dispelled, she can reactivate it as a move action (1 AP).
 
 #### Chainbreaker (Ex)
 
@@ -85,4 +85,4 @@ At 6th level, a steel knight’s attacks against bindings, chains, and manacles 
 
 #### Celestial Fury (Su)
 
-At 8th level, once per day as a standard action, a steel knight can channel her rage at the injustice in the world, transforming her countenance into a terrifying display of righteous fury, giving her a fear aura with a range of 30 feet. Enemies within this radius are affected by a [*fear*](../../magic/spells/fear.md) spell (CL 10th, Will DC 15 + the steel knight’s Charisma bonus). All other creatures in the area (including the steel knight) are bolstered by her wrath and can immediately attempt new saving throws against any charm, compulsion, or possession effects currently affecting them. The steel knight can use this ability if she is conscious, even if [paralyzed](../../rules/appendices/conditions.md#paralyzed) or under the effect of a charm, compulsion, or possession that affects her judgment.
+At 8th level, once per day as a standard action (2 AP), a steel knight can channel her rage at the injustice in the world, transforming her countenance into a terrifying display of righteous fury, giving her a fear aura with a range of 30 feet. Enemies within this radius are affected by a [*fear*](../../magic/spells/fear.md) spell (CL 10th, Will DC 15 + the steel knight’s Charisma bonus). All other creatures in the area (including the steel knight) are bolstered by her wrath and can immediately attempt new saving throws against any charm, compulsion, or possession effects currently affecting them. The steel knight can use this ability if she is conscious, even if [paralyzed](../../rules/appendices/conditions.md#paralyzed) or under the effect of a charm, compulsion, or possession that affects her judgment.

@@ -34,7 +34,7 @@ Ghoran architecture consists of round, multifloor greenhouse towers composed of 
 
 **Natural Magic (Sp)**: Ghorans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—detect poison, goodberry (created berries bud from the ghoran’s own body), and purify food and drink. The caster level is equal to the ghoran’s level. The DC for these spells is equal to 10 + the spell’s level + the ghoran’s Charisma bonus.
 
-**Seed (Ex)**: As a full-round action, a ghoran can expel the seed from an orifice in its abdomen. If planted in fertile ground and left undisturbed for 2d6 days, the seed grows into a healthy duplicate of the original ghoran, save that the duplicate can reallocate all skill ranks upon sprouting. Once a ghoran expels this seed, it gains 1 negative level, and it dies as soon as the duplicate sprouts. This duplicate replaces the previous ghoran character.
+**Seed (Ex)**: As a full-round action (3 AP), a ghoran can expel the seed from an orifice in its abdomen. If planted in fertile ground and left undisturbed for 2d6 days, the seed grows into a healthy duplicate of the original ghoran, save that the duplicate can reallocate all skill ranks upon sprouting. Once a ghoran expels this seed, it gains 1 negative level, and it dies as soon as the duplicate sprouts. This duplicate replaces the previous ghoran character.
 
 **Light Dependent**: Ghorans take 1d4 points of Constitution damage each day they go without exposure to sunlight.
 

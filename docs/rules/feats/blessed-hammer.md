@@ -6,4 +6,4 @@ Your god’s power radiates from your warhammer.
 
 **Benefit**: You can use any warhammer you wield as a holy symbol when casting spells that require a divine focus or when you channel energy.
 
-Furthermore, as a swift action when you cast a divine touch spell, you can choose to have the warhammer carry the charge of the spell instead of your hand. When you deliver a touch spell with your warhammer you can do so as part of a melee attack made with the warhammer. If you drop the warhammer or the warhammer is disarmed while carrying a charge, the charge is lost.
+Furthermore, as a swift action (1 AP) when you cast a divine touch spell, you can choose to have the warhammer carry the charge of the spell instead of your hand. When you deliver a touch spell with your warhammer you can do so as part of a melee attack made with the warhammer. If you drop the warhammer or the warhammer is disarmed while carrying a charge, the charge is lost.

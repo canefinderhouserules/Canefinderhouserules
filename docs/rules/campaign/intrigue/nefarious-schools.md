@@ -52,7 +52,7 @@ Criminal enterprises often recruit students from affiliated families or society�
 
 Rebel groups exist to overthrow the power of what they view as dangerous governments. They attract a variety of members who believe their motives and end goals are more important than their methods, and the older members serve as tutors and teachers for young, idealistic recruits. As the Fame score of a rebel increases, she gains the following rewards.
 
-**Troublemaker (5 Fame)**: You are skilled at sabotaging the functioning of the government and its tools. You can use Disable Device to sabotage an item as a standard action even if you are untrained in that skill.
+**Troublemaker (5 Fame)**: You are skilled at sabotaging the functioning of the government and its tools. You can use Disable Device to sabotage an item as a standard action (1 AP) even if you are untrained in that skill.
 
 **Proven Innocent (20 Fame)**: Your allies are willing to construct an alibi for you once per term. The alibi can take the form of false testimony, forged paperwork, or other misleading evidence, as needed. A successful Linguistics, Perception, or Sense Motive check (as appropriate for the evidence type) disproves the alibi. The DC is equal to 5 + your Fame score.
 
@@ -100,7 +100,7 @@ Spy academies train their pupils to be utterly confident and impossible to detec
 *Sample awards*:
 
 - **Aristocratic Contacts (5 Fame, 1 PP)**: You can call upon the academy’s connections to get a low-level aristocrat to write you a letter of introduction, provide an alibi by claiming you visited the aristocrat for up to 8 hours on a particular day, or otherwise provide simple assistance.
-- **Mind Reader (15 Fame, 10 PP)**: You learn to glean the thoughts hidden by lies. Once per day as a full-round action, when you discern a lie with a successful Sense Motive check, you can learn the liar’s surface thoughts (as per the third round of concentration during a *detect thoughts* spell). The target can negate your intrusion with a successful Will saving throw (DC = 10 + 1/2 your character level + your Charisma modifier). This is a mind-affecting divination spell-like ability.
+- **Mind Reader (15 Fame, 10 PP)**: You learn to glean the thoughts hidden by lies. Once per day as a full-round action (3 AP), when you discern a lie with a successful Sense Motive check, you can learn the liar’s surface thoughts (as per the third round of concentration during a *detect thoughts* spell). The target can negate your intrusion with a successful Will saving throw (DC = 10 + 1/2 your character level + your Charisma modifier). This is a mind-affecting divination spell-like ability.
 - **Subcontracted Spy (5 Fame, 1 PP)**: You can call upon an NPC spy serving the school to learn information about a target of your choice with a CR less than your character level. You receive the report after 1d4 days, and it includes at least as much information as if you had succeeded at a Diplomacy check to gather information about the subject with a result equal to 10 + 1/2 your Fame score.
 - **Poison Use (5 Fame, 1 PP)**: You are trained to handle poisons safely. You never risk accidentally poisoning yourself.
 - **Quicker than the Eye (5 Fame, 1 PP)**: You become specialized in the Sleight of Hand skill.

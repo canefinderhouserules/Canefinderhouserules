@@ -89,23 +89,23 @@ At 1st level, a swashbuckler can spend 1 panache point when she makes a skill ch
 
 ##### Opportune Parry and Riposte (Ex)
 
-At 1st level, when an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The swashbuckler makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a –2 penalty on this roll. If her result is greater than the attacking creature’s result, the creature’s attack automatically misses. The swashbuckler must declare the use of this ability after the creature’s attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach.
+At 1st level, when an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The swashbuckler makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a –2 penalty on this roll. If her result is greater than the attacking creature’s result, the creature’s attack automatically misses. The swashbuckler must declare the use of this ability after the creature’s attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action (1 AP of your next turn) make an attack against the creature whose attack she parried, provided that creature is within her reach.
 
 ##### Precise Strike (Ex)
 
-At 1st level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with any weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training (though not natural weapons), adding her swashbuckler level to the damage dealt. The swashbuckler only gains the benefit of this deed with a weapon held in her primary hand; weapon attacks made with her secondary hand do not receive this benefit. If she is wielding a weapon in two hands or in her off-hand, she adds half of her swashbuckler level to the damage dealt (minimum 0) instead of her full swashbuckler level. The swashbuckler can use this ability with thrown weapons, so long as the target is within 30 feet of her. Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn’t multiplied on a critical hit. As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the [Signature Deed](../../../rules/feats/signature-deed.md) feat).
+At 1st level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with any weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training (though not natural weapons), adding her swashbuckler level to the damage dealt. The swashbuckler only gains the benefit of this deed with a weapon held in her primary hand; weapon attacks made with her secondary hand do not receive this benefit. If she is wielding a weapon in two hands or in her off-hand, she adds half of her swashbuckler level to the damage dealt (minimum 0) instead of her full swashbuckler level. The swashbuckler can use this ability with thrown weapons, so long as the target is within 30 feet of her. Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn’t multiplied on a critical hit. As a swift action (1 AP), a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the [Signature Deed](../../../rules/feats/signature-deed.md) feat).
 
 ##### Charmed Life (Ex)
 
-At 3rd level, while the swashbuckler has at least 1 panache point as an immediate action before attempting a saving throw to add her Charisma modifier to the result of the save. She must choose to do this before the roll is made.
+At 3rd level, while the swashbuckler has at least 1 panache point as an immediate action (1 AP of your next turn) before attempting a saving throw to add her Charisma modifier to the result of the save. She must choose to do this before the roll is made.
 
 ##### Daring Stride (Ex)
 
-At 3rd level, a swashbuckler can spend 1 panache point as an immediate action to move 5 feet; doing so grants the swashbuckler a dodge bonus to AC equal to her Charisma modifier (minimum 0) against all attacks made against her until the start of her next turn. Anything that causes the swashbuckler to lose her Dexterity bonus to AC also causes her to lose this dodge bonus. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed. If the swashbuckler uses this deed in response to a melee attack, this movement doesn’t negate the attack, which is still resolved as if the swashbuckler had not moved from the original square. The swashbuckler can only perform this deed while wearing light or no armor, and while carrying no heavier than a light load.
+At 3rd level, a swashbuckler can spend 1 panache point as an immediate action (1 AP of your next turn) to move 5 feet; doing so grants the swashbuckler a dodge bonus to AC equal to her Charisma modifier (minimum 0) against all attacks made against her until the start of her next turn. Anything that causes the swashbuckler to lose her Dexterity bonus to AC also causes her to lose this dodge bonus. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed. If the swashbuckler uses this deed in response to a melee attack, this movement doesn’t negate the attack, which is still resolved as if the swashbuckler had not moved from the original square. The swashbuckler can only perform this deed while wearing light or no armor, and while carrying no heavier than a light load.
 
 ##### Kip-Up (Ex)
 
-At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from [prone](../../../rules/appendices/conditions.md#prone) as a move action without provoking an attack of opportunity. She can kip-up from prone as a move action without provoking an attack of opportunity. She can kip-up as a swift action instead by spending 1 panache point.
+At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from [prone](../../../rules/appendices/conditions.md#prone) as a move action (1 AP) without provoking an attack of opportunity. She can kip-up from prone as a move action (1 AP) without provoking an attack of opportunity. She can kip-up as a swift action (1 AP) instead by spending 1 panache point.
 
 ##### Swashbuckler’s Initiative (Ex)
 
@@ -113,7 +113,7 @@ At 3rd level, while the swashbuckler has at least 1 panache point, she gains a +
 
 ##### Targeted Strike (Ex)
 
-At 7th level, as a full-round action the swashbuckler can spend 1 panache point to make an attack with a single melee weapon that cripples a foe’s body. The swashbuckler chooses a part of the body to target. If the attack succeeds, in addition to the attack’s normal damage, the target suffers one of the following effects based on the part of the body targeted. If a creature doesn’t have one of the listed body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a creature from targeted strikes. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training. **Arms**: The target takes no damage from the attack, but it drops one carried item of the swashbuckler’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet cannot be chosen.
+At 7th level, as a full-round action (3 AP) the swashbuckler can spend 1 panache point to make an attack with a single melee weapon that cripples a foe’s body. The swashbuckler chooses a part of the body to target. If the attack succeeds, in addition to the attack’s normal damage, the target suffers one of the following effects based on the part of the body targeted. If a creature doesn’t have one of the listed body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a creature from targeted strikes. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training. **Arms**: The target takes no damage from the attack, but it drops one carried item of the swashbuckler’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet cannot be chosen.
 
 - **Head**: The target is [confused](../../../rules/appendices/conditions.md#confused) for 1 round. This is a mind-affecting effect.
 - **Legs**: The target is knocked prone. Creatures with four or more legs or that are immune to trip attacks are immune to this effect.
@@ -129,7 +129,7 @@ At 11th level, while a swashbuckler has at least 1 panache point, she is immune 
 
 ##### Perfect Thrust (Ex)
 
-At 15th level, while the swashbuckler has at least 1 panache point, she can as a full-round action make a perfect thrust, pooling all of her attack potential into a single melee attack made with a weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training. When she does, she makes the attack against the target’s touch AC, and ignores all damage reduction.
+At 15th level, while the swashbuckler has at least 1 panache point, she can as a full-round action (3 AP) make a perfect thrust, pooling all of her attack potential into a single melee attack made with a weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training. When she does, she makes the attack against the target’s touch AC, and ignores all damage reduction.
 
 ##### Swashbuckler’s Edge (Ex)
 
@@ -157,7 +157,7 @@ Although they come in very different shapes, styles, and temperaments, all swash
 
 **Braggart (Ex)**
 
-At 2nd level, a braggart swashbuckler can spend a standard action to extol her own accomplishments and battle prowess. She receives [Dazzling Display](../../../rules/feats/dazzling-display.md) as a bonus feat. She does not need a weapon in hand to use this ability.
+At 2nd level, a braggart swashbuckler can spend a standard action (1 AP) to extol her own accomplishments and battle prowess. She receives [Dazzling Display](../../../rules/feats/dazzling-display.md) as a bonus feat. She does not need a weapon in hand to use this ability.
 
 The swashbuckler receives a +2 morale bonus on melee attack rolls made against demoralized targets and she ignores the Weapon Focus prerequisite for all feats that also list Dazzling Display as a prerequisite.
 
@@ -173,7 +173,7 @@ At 18th level, a braggart swashbuckler adds her Charisma bonus (if any) on attac
 
 **Psychological Assault (Ex)**
 
-At 3rd level, when a braggart swashbuckler makes a successful melee attack against an opponent, she can spend 1 panache point to attempt to demoralize, feint, or antagonize her target as a swift action. If Psychological Combat by Everyman Gaming, LLC is available, the antagonize attempt functions as described therein; otherwise, the antagonize attempt functions as if using the Diplomacy option of the Antagonize feat. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
+At 3rd level, when a braggart swashbuckler makes a successful melee attack against an opponent, she can spend 1 panache point to attempt to demoralize, feint, or antagonize her target as a swift action (1 AP). If Psychological Combat by Everyman Gaming, LLC is available, the antagonize attempt functions as described therein; otherwise, the antagonize attempt functions as if using the Diplomacy option of the Antagonize feat. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
 
 **Mind Games (Ex)**
 
@@ -185,7 +185,7 @@ At 11th level, a braggart swashbuckler can use her overwhelming ego and self-con
 
 **Massive Ego (Ex)**
 
-At 15th level, while she has at least 1 panache point, a braggart swashbuckler adds her Charisma bonus (if any) as an insight bonus on saving throws against mind-affecting effects. If she has the [Steadfast Personality](../../../rules/feats/steadfast-personality.md) feat, this ability grants her a +2 bonus on saving throws against mind-affecting effects instead. By spending 1 panache point as an immediate action after making a saving throw against a mind-affecting effect, she can reroll her saving throw.
+At 15th level, while she has at least 1 panache point, a braggart swashbuckler adds her Charisma bonus (if any) as an insight bonus on saving throws against mind-affecting effects. If she has the [Steadfast Personality](../../../rules/feats/steadfast-personality.md) feat, this ability grants her a +2 bonus on saving throws against mind-affecting effects instead. By spending 1 panache point as an immediate action (1 AP of your next turn) after making a saving throw against a mind-affecting effect, she can reroll her saving throw.
 
 She must use the new result, even if it’s worse. She must use this ability before the result of her saving throw has been revealed.
 
@@ -227,15 +227,15 @@ At 3rd level, a dandy swashbuckler can spend 1 panache point after making a Dext
 
 **Aristocratic Certainty (Ex)**
 
-At 7th level, a dandy can spend 1 panache point as an immediate action before making a Dexterity-, Intelligence-, or Charisma-based skill check to roll her skill check twice and use the better result.
+At 7th level, a dandy can spend 1 panache point as an immediate action (1 AP of your next turn) before making a Dexterity-, Intelligence-, or Charisma-based skill check to roll her skill check twice and use the better result.
 
 **Inspired Negotiations (Ex)**
 
-At 11th level, a dandy can spend 1 panache point as a swift action in order to gain the benefits of one rogue talent from among those listed by her aristocratic negotiations ability that she doesn’t already know until the end of her turn. She must be able to fulfill that talent’s prerequisites.
+At 11th level, a dandy can spend 1 panache point as a swift action (1 AP) in order to gain the benefits of one rogue talent from among those listed by her aristocratic negotiations ability that she doesn’t already know until the end of her turn. She must be able to fulfill that talent’s prerequisites.
 
 **Hasty Influence (Ex)**
 
-At 15th level, a dandy can spend 1 panache point as a swift action in order to attempt to change a creature’s attitude using Diplomacy or Intimidate as a full-round action. If she rolls a natural 20 on her skill check with this deed, she regains 1 panache point.
+At 15th level, a dandy can spend 1 panache point as a swift action (1 AP) in order to attempt to change a creature’s attitude using Diplomacy or Intimidate as a full-round action (3 AP). If she rolls a natural 20 on her skill check with this deed, she regains 1 panache point.
 
 **Negotiation Mastery (Ex)**
 
@@ -281,11 +281,11 @@ At 11th level, while she has at least 1 panache point, a daredevil swashbuckler 
 
 **Rapid Attack (Ex)**
 
-At 15th level, a daredevil swashbuckler can spend 1 panache point when she uses the Spring Attack feat in order to make a full-attack as a standard action. The swashbuckler may use these attacks at any point during her movement, and the attacks do not need to target the same creature. In addition, the swashbuckler’s movement doesn’t provoke attacks of opportunity from any creature whose threatened area she moves through while using this ability.
+At 15th level, a daredevil swashbuckler can spend 1 panache point when she uses the Spring Attack feat in order to make a full-attack as a standard action (1 AP). The swashbuckler may use these attacks at any point during her movement, and the attacks do not need to target the same creature. In addition, the swashbuckler’s movement doesn’t provoke attacks of opportunity from any creature whose threatened area she moves through while using this ability.
 
 **Relentless Pursuit (Ex)**
 
-At 19th level, while she has at least 1 panache point, a daredevil swashbuckler can make multiple attacks against an opponent that moves through her threatened area. An opponent provokes one attack of opportunity for each of the swashbuckler’s threatened squares that it moves out of. By spending 1 panache point as an immediate action, the swashbuckler can make an attack of opportunity against an opponent that moves out from one of her threatened squares by using a 5-foot step or the withdraw action.
+At 19th level, while she has at least 1 panache point, a daredevil swashbuckler can make multiple attacks against an opponent that moves through her threatened area. An opponent provokes one attack of opportunity for each of the swashbuckler’s threatened squares that it moves out of. By spending 1 panache point as an immediate action (1 AP of your next turn), the swashbuckler can make an attack of opportunity against an opponent that moves out from one of her threatened squares by using a 5-foot step or the withdraw action.
 
 ##### Madcap
 
@@ -357,7 +357,7 @@ At 2nd level, this region is a settlement or settlements with a total population
 
 At 10th level, the phantom swashbuckler can effortlessly shift between his social and phantom personages.
 
-Instead of needing 1 minute to change his personage, he can do so as a full-round action. If she uses this ability and encounters any creature familiar with both of her personages, she must make a Disguise skill check to avoid the creature seeing through her hastily donned disguise and realizing that they are, in fact, the same person. The swashbuckler can spend 1 additional round adjusting and perfecting his appearance and personage to negate the need for this check.
+Instead of needing 1 minute to change his personage, he can do so as a full-round action (3 AP). If she uses this ability and encounters any creature familiar with both of her personages, she must make a Disguise skill check to avoid the creature seeing through her hastily donned disguise and realizing that they are, in fact, the same person. The swashbuckler can spend 1 additional round adjusting and perfecting his appearance and personage to negate the need for this check.
 
 **Extended Influence (Ex)**
 
@@ -387,7 +387,7 @@ This ability is a mind-affecting fear effect. The swashbuckler may only use this
 
 At 19th level, when a phantom swashbuckler uses the Intimidate skill to demoralize an opponent or hits an opponent with a melee weapon that deals nonlethal damage, he can spend 1 panache point to attack to knock out or frighten the opponent into unconsciousness.
 
-The target must succeed at a Will saving throw or immediately gain [sleep 1](../../../rules/appendices/conditions.md#sleep) for 3d6 x 10 minutes. Such creatures can be awakened from as a standard action (an application of the aid another action) and slapping or dealing lethal damage awakens the creature, but normal noise does not.
+The target must succeed at a Will saving throw or immediately gain [sleep 1](../../../rules/appendices/conditions.md#sleep) for 3d6 x 10 minutes. Such creatures can be awakened from as a standard action (1 AP) (an application of the aid another action) and slapping or dealing lethal damage awakens the creature, but normal noise does not.
 
 ##### Raider
 
@@ -401,13 +401,13 @@ At 1st level, a raider swashbuckler gains Sea Legs as a bonus feat, ignoring the
 
 **Liquid Courage (Ex)**
 
-At 2nd level, a raider swashbuckler gains the ability to fortify her grit with strong drink. The act of drinking is a standard action that provokes attacks of opportunity, and each drink provides 1 grog point. Grog points can be used in place of panache points to fuel deeds or panache feats (including those requiring a minimum of 1 panache point to use). The swashbuckler can gain a maximum number of grog points each day equal to her Constitution modifier (minimum 1), and they last for 1 hour or until used, whichever comes first.
+At 2nd level, a raider swashbuckler gains the ability to fortify her grit with strong drink. The act of drinking is a standard action (1 AP) that provokes attacks of opportunity, and each drink provides 1 grog point. Grog points can be used in place of panache points to fuel deeds or panache feats (including those requiring a minimum of 1 panache point to use). The swashbuckler can gain a maximum number of grog points each day equal to her Constitution modifier (minimum 1), and they last for 1 hour or until used, whichever comes first.
 
 While she has at least 1 grog point, the swashbuckler gains a morale bonus on saves against fear and a dodge bonus to AC against attacks of opportunity equal to her current grog point total, up to a maximum of a +1 bonus at 1st level. The maximum bonus that the swashbuckler can gain from this ability increases by +1 at 6th level and every 4 levels thereafter.
 
 **Swagger (Ex)**
 
-At 10nd level, a raider swashbuckler’s confident swagger unnerves her foes and inspires her allies. She gains a +2 bonus on Intimidate checks, and the DC of Intimidate checks made against her increases by 2. She and her allies gain a +1 morale bonus on Profession (sailor) checks. These bonuses and her Intimidate DC increase by 1 for every 3 levels beyond 10th. In addition, whenever the raider succeeds at a saving throw against an opponent’s attack or ability, she can attempt an Intimidate check to demoralize that opponent as an immediate action.
+At 10nd level, a raider swashbuckler’s confident swagger unnerves her foes and inspires her allies. She gains a +2 bonus on Intimidate checks, and the DC of Intimidate checks made against her increases by 2. She and her allies gain a +1 morale bonus on Profession (sailor) checks. These bonuses and her Intimidate DC increase by 1 for every 3 levels beyond 10th. In addition, whenever the raider succeeds at a saving throw against an opponent’s attack or ability, she can attempt an Intimidate check to demoralize that opponent as an immediate action (1 AP of your next turn).
 
 **Greater Liquid Courage (Ex)**
 
@@ -417,7 +417,7 @@ At 18th level, a raider adds her Charisma bonus (if any) to the total number of 
 
 **Plunder (Ex)**
 
-At 3rd level, as a full-round action a raider swashbuckler can make a single melee attack against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the swashbuckler also pilfers a small, loose item from her target as if she had succeeded at a [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) or steal combat maneuver check. She doesn’t need to attempt a Sleight of Hand check, but if she does so and surpasses the target’s opposed Perception check, the target is unaware that the item is stolen. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
+At 3rd level, as a full-round action (3 AP) a raider swashbuckler can make a single melee attack against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the swashbuckler also pilfers a small, loose item from her target as if she had succeeded at a [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) or steal combat maneuver check. She doesn’t need to attempt a Sleight of Hand check, but if she does so and surpasses the target’s opposed Perception check, the target is unaware that the item is stolen. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
 
 **Rope Mastery (Ex)**
 
@@ -467,7 +467,7 @@ At 3rd level, while she has at least 1 panache point, a vagabond swashbuckler do
 
 **Superior Feint (Ex)**
 
-At 7th level, a vagabond swashbuckler with at least 1 panache point can, as a standard action, purposefully miss a creature she could make a melee attack against with a wielded melee weapon. When she does, the creature is denied its Dexterity bonus to AC until the start of the swashbuckler’s next turn. By spending 1 panache point when she uses this ability, the creature is denied its Dexterity bonus until the end of the swashbuckler’s next turn instead.
+At 7th level, a vagabond swashbuckler with at least 1 panache point can, as a standard action (1 AP), purposefully miss a creature she could make a melee attack against with a wielded melee weapon. When she does, the creature is denied its Dexterity bonus to AC until the start of the swashbuckler’s next turn. By spending 1 panache point when she uses this ability, the creature is denied its Dexterity bonus until the end of the swashbuckler’s next turn instead.
 
 **Flanking Foil (Ex)**
 

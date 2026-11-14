@@ -59,7 +59,7 @@ At 2nd level, a faithless enforcer gains the ability to cast [*detect magic*](..
 
 #### Voice of Law (Ex)
 
-At 2nd level, a faithless enforcer can, as a standard action, attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize all worshipers of a specific deity within 30 feet. Spellcasters who are affected by this ability also take a –4 penalty on concentration checks to cast divine spells as long as they are [shaken](../../rules/appendices/conditions.md#shaken).
+At 2nd level, a faithless enforcer can, as a standard action (1 AP), attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize all worshipers of a specific deity within 30 feet. Spellcasters who are affected by this ability also take a –4 penalty on concentration checks to cast divine spells as long as they are [shaken](../../rules/appendices/conditions.md#shaken).
 
 #### Confiscate (Ex)
 
@@ -67,11 +67,11 @@ At 4th level, the faithless enforcer gains a +2 bonus on combat maneuver checks 
 
 #### Decree of Law (Ex)
 
-At 4th level, the faithless enforcer can use his voice of law ability as a move action. Additionally, the enforcer gains a +2 morale bonus on attack and damage rolls against creatures affected by his voice of law ability.
+At 4th level, the faithless enforcer can use his voice of law ability as a move action (1 AP). Additionally, the enforcer gains a +2 morale bonus on attack and damage rolls against creatures affected by his voice of law ability.
 
 #### Discern Lies (Sp)
 
-At 5th level, a faithless enforcer can [*discern lies*](../../magic/spells/discern-lies.md), as per the spell, for a number of rounds per day equal to his enforcer level. These rounds don't need to be consecutive. Activating this ability is an immediate action.
+At 5th level, a faithless enforcer can [*discern lies*](../../magic/spells/discern-lies.md), as per the spell, for a number of rounds per day equal to his enforcer level. These rounds don't need to be consecutive. Activating this ability is an immediate action (1 AP of your next turn).
 
 #### Disruptive Critical (Su)
 
@@ -79,7 +79,7 @@ At 5th level, when a faithless enforcer confirms a critical hit against a divine
 
 #### Edict of Law (Ex)
 
-At 6th level, the faithless enforcer can use his voice of law ability as a swift action, and if he is successful, creatures affected are shaken for a minimum of 1 minute instead of 1 round. The duration of this effect is still increased by 1 round for every 5 by which the enforcer exceeds the DC.
+At 6th level, the faithless enforcer can use his voice of law ability as a swift action (1 AP), and if he is successful, creatures affected are shaken for a minimum of 1 minute instead of 1 round. The duration of this effect is still increased by 1 round for every 5 by which the enforcer exceeds the DC.
 
 #### Iconoclast (Ex)
 

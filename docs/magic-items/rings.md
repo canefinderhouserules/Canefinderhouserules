@@ -6,7 +6,7 @@ A character can only effectively wear two magic rings. A third magic ring doesn�
 
 **Physical Description**: Rings have no appreciable weight. Although exceptions exist that are crafted from glass or bone, the vast majority of rings are forged from metal—usually precious metals such as gold, silver, and platinum. A ring has AC 13, 2 hit points, hardness 10, and a break DC of 25.
 
-**Activation**: A ring’s ability is usually activated by a spoken command word (a standard action that does not provoke attacks of opportunity) or its effects work continually. Some rings have unusual activations, as mentioned in the ring’s specific description.
+**Activation**: A ring’s ability is usually activated by a spoken command word (a standard action (1 AP) that does not provoke attacks of opportunity) or its effects work continually. Some rings have unusual activations, as mentioned in the ring’s specific description.
 
 **Special Qualities**: Roll d%. A result of 01 indicates the ring is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes (see [Intelligent Items](intelligent-items.md)). Rings with charges can never be intelligent.
 
@@ -143,7 +143,7 @@ On command, this ring makes the wearer blink, as the blink spell.
 **Aura** faint illusion; **CL** 3rd  
 **Slot** ring; **Price** 12,700 gp; **Weight** —
 
-As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her Stealth checks. As a standard action, she can also use the spell disguise self as often as she wants.
+As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her Stealth checks. As a standard action (1 AP), she can also use the spell disguise self as often as she wants.
 
 **Requirements** Forge Ring, disguise self, invisibility; **Cost** 6,350 gp
 
@@ -177,7 +177,7 @@ This ring might seem to be a ring of spell storing upon first examination. Howev
 **Aura** strong conjuration; **CL** 17th  
 **Slot** ring; **Price** 125,000 gp; **Weight** —
 
-One of the many rings of fable, this “genie” ring is useful indeed. It serves as a special gate by means of which a specific djinni (see the Pathfinder RPG Bestiary) can be called from the Plane of Air. When the ring is rubbed (a standard action), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.
+One of the many rings of fable, this “genie” ring is useful indeed. It serves as a special gate by means of which a specific djinni (see the Pathfinder RPG Bestiary) can be called from the Plane of Air. When the ring is rubbed (a standard action (1 AP)), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.
 
 **Requirements** Forge Ring, gate; **Cost** 62,500 gp
 
@@ -424,7 +424,7 @@ As the minor ring of spell storing, except it holds up to 10 levels of spells.
 **Aura** faint evocation; **CL** 5th  
 **Slot** ring; **Price** 18,000 gp; **Weight** —
 
-A minor ring of spell storing contains up to three levels of spells (either divine or arcane, or even a mix of both spell types) that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. The user need not provide any material components or focus to cast the spell, and there is no arcane spell failure chance for wearing armor (because the ring wearer need not gesture). The activation time for the ring is the same as the casting time for the relevant spell, with a minimum of 1 standard action.
+A minor ring of spell storing contains up to three levels of spells (either divine or arcane, or even a mix of both spell types) that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. The user need not provide any material components or focus to cast the spell, and there is no arcane spell failure chance for wearing armor (because the ring wearer need not gesture). The activation time for the ring is the same as the casting time for the relevant spell, with a minimum of 1 standard action (1 AP).
 
 For a randomly generated ring, treat it as a scroll to determine what spells are stored in it. If you roll a spell that would put the ring over the three-level limit, ignore that roll; the ring has no more spells in it.
 
@@ -513,13 +513,13 @@ A newly created ring has 50 charges. When all the charges are expended, the ring
 **Aura** moderate conjuration; **CL** 9th  
 **Slot** ring; **Price** 7,400 gp; **Weight** —
 
-This gray ring looks like stone, but the material is soft and flexible. Once per day, as a standard action, you can touch a stone wall with your hand to create a stone duplicate of yourself.
+This gray ring looks like stone, but the material is soft and flexible. Once per day, as a standard action (1 AP), you can touch a stone wall with your hand to create a stone duplicate of yourself.
 
 Immediately upon activating the ring of the stone sibling, your double steps out of the wall. It appears to be a stone statue carved in an exact likeness of you. The stone double stands 10 feet away from you and mimics your movements, as if reflected in a mirror. As a move-equivalent action, you can mentally command the stone sibling to move to a new location, but it must remain within 30 feet of you at all times.
 
-The stone sibling has hardness 8 and 50 hit points. It can take no actions other than to aid you, which it does every round on your turn. The stone sibling makes a +5 aid another check each round, either to aid your attack rolls or your Armor Class, as you command. It continues to render the same aid indefinitely until you command it otherwise (which requires a move action).
+The stone sibling has hardness 8 and 50 hit points. It can take no actions other than to aid you, which it does every round on your turn. The stone sibling makes a +5 aid another check each round, either to aid your attack rolls or your Armor Class, as you command. It continues to render the same aid indefinitely until you command it otherwise (which requires a move action (1 AP)).
 
-The stone sibling lasts for 10 minutes, until it is destroyed, or until you dismiss it (a standard action), whichever comes first. Construction
+The stone sibling lasts for 10 minutes, until it is destroyed, or until you dismiss it (a standard action (1 AP)), whichever comes first. Construction
 
 **Requirements** Forge Ring, mirror image, stone shape; **Cost** 3,700 gp, 296 XP
 
@@ -564,7 +564,7 @@ On command, this ring gives its wearer the ability to see into and through solid
 **Aura** moderate abjuration; **CL** 10th  
 **Slot** ring; **Price** 16,000 gp; **Weight** —
 
-This adamantine band is capped with a stone sigil of the first clan to settle a sky citadel. This ring is keyed to interact with several devices and traps within the vaults—storehouses of ancient history and family wealth—of the sky citadel. The ring grants its wearer acid resistance 10. Three times per day as a swift action, the wearer can make himself undetectable by crafted and magical traps and creatures of the construct type for the following minute. This functions like greater invisibility within these limits and also prevents the character’s weight or presence from triggering traps. Construction
+This adamantine band is capped with a stone sigil of the first clan to settle a sky citadel. This ring is keyed to interact with several devices and traps within the vaults—storehouses of ancient history and family wealth—of the sky citadel. The ring grants its wearer acid resistance 10. Three times per day as a swift action (1 AP), the wearer can make himself undetectable by crafted and magical traps and creatures of the construct type for the following minute. This functions like greater invisibility within these limits and also prevents the character’s weight or presence from triggering traps. Construction
 
 **Requirements** Forge Ring, resist energy, sanctuary; **Cost** 8,000 gp
 
@@ -586,6 +586,6 @@ This ring’s abilities can be used a total of three times per day, in any combi
 **Aura** moderate divination; **CL** 7th  
 **Slot** ring; **Price** 25,200 gp; **Weight** —
 
-This ring’s deep red stone hides the image of an eye within an eye or the symbol of a secret society, since many secret societies create these rings to protect their most important agents and leaders. By concentrating on the ring as a move action, the wearer learns whether he is being observed and whether it is by one or by more than one creature. Once per day, the wearer can use locate creature on command to target creatures that are currently observing him. In addition, the wearer can cast detect scrying once per day on command. Construction
+This ring’s deep red stone hides the image of an eye within an eye or the symbol of a secret society, since many secret societies create these rings to protect their most important agents and leaders. By concentrating on the ring as a move action (1 AP), the wearer learns whether he is being observed and whether it is by one or by more than one creature. Once per day, the wearer can use locate creature on command to target creatures that are currently observing him. In addition, the wearer can cast detect scrying once per day on command. Construction
 
 **Requirements** Forge Ring, detect scrying, locate creature; **Cost** 12,600 gp

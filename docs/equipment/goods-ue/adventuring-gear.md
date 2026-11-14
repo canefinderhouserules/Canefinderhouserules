@@ -64,7 +64,7 @@ These masterwork chains are easy to break, even though they look like normal cha
 
 **Price** 20 gp; **Weight** 5 lbs.
 
-This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. Camouflage netting must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on Stealth checks as long as you remain immobile and prone. Covering up with camouflage netting is a full-round action requiring a DC 10 Survival check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on Stealth checks). You have the entangled condition when using the netting, except your Dexterity penalty does not affect your initiative or Stealth checks. Taking off camouflage netting is a move action, or a swift action if combined with a move action to stand up from a prone position.
+This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. Camouflage netting must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on Stealth checks as long as you remain immobile and prone. Covering up with camouflage netting is a full-round action (3 AP) requiring a DC 10 Survival check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on Stealth checks). You have the entangled condition when using the netting, except your Dexterity penalty does not affect your initiative or Stealth checks. Taking off camouflage netting is a move action (1 AP), or a swift action (1 AP) if combined with a move action (1 AP) to stand up from a prone position.
 
 You may spend 1 minute covering an object with camouflage netting. Make a Survival check with a –10 penalty and use the total as the Stealth check result for the object. Creatures who fail a Perception check against this Stealth DC do not recognize what the object is and usually treat it as a natural part of the terrain. For example, you can conceal a wagon as a rock or patch of brush. Covering a Large object requires two nets. Covering a Huge or Gargantuan object requires five nets and takes 10 minutes of work, and the Survival check penalty is –20 instead of –10. Camouflaging a Colossal object depends on its shape but generally requires at least 10 camouflage nets and takes 1 hour of work, and the Survival check penalty is –30 instead of –10.
 
@@ -122,7 +122,7 @@ After 10 minutes of assembly, this collection of wooden slats provides support f
 
 **Price** 4 sp; **Weight** 10 lbs.
 
-Hinged in two places, collapsible planks can hold 250 pounds before breaking. The 10-foot-long plank folds down into a 3-foot-by-1-foot-by-6-inch bundle. Folding or unfolding it is a standard action.
+Hinged in two places, collapsible planks can hold 250 pounds before breaking. The 10-foot-long plank folds down into a 3-foot-by-1-foot-by-6-inch bundle. Folding or unfolding it is a standard action (1 AP).
 
 ### Cooking Kit
 
@@ -182,7 +182,7 @@ These oversized shoes are worn over normal footwear. They create footprints or b
 
 **Price** 65 gp; **Weight** 2 lbs.
 
-These manacles are nearly indistinguishable from standard manacles upon inspection (Perception DC 25). A wearer who knows the location of the secret catch can open them as a standard action; otherwise they act like masterwork manacles. Some appear to be of common quality, though false manacles are always masterwork.
+These manacles are nearly indistinguishable from standard manacles upon inspection (Perception DC 25). A wearer who knows the location of the secret catch can open them as a standard action (1 AP); otherwise they act like masterwork manacles. Some appear to be of common quality, though false manacles are always masterwork.
 
 ### False-Bottomed Chest
 
@@ -218,7 +218,7 @@ This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iro
 
 **Price** 10 gp; **Weight** 4 lbs.
 
-This snug leather hood has built-in goggles and a filtration tube containing sponges. A filter hood uses your helm slot and imposes a –2 penalty on hearing- and sight-based Perception checks. While the sponges are moist, the hood grants you a +2 resistance bonus on saving throws against inhaled poisons and other airborne attacks that require you to breathe them. Moistening the sponges with water is a standard action. The sponges dry out after 1d4 × 10 minutes and should be thoroughly rinsed after each use.
+This snug leather hood has built-in goggles and a filtration tube containing sponges. A filter hood uses your helm slot and imposes a –2 penalty on hearing- and sight-based Perception checks. While the sponges are moist, the hood grants you a +2 resistance bonus on saving throws against inhaled poisons and other airborne attacks that require you to breathe them. Moistening the sponges with water is a standard action (1 AP). The sponges dry out after 1d4 × 10 minutes and should be thoroughly rinsed after each use.
 
 ### Fishing Kit
 
@@ -236,19 +236,19 @@ This simple folding chair has a wooden frame and canvas seat and back, making it
 
 **Price** 2 gp; **Weight** 16 lbs.
 
-The hook, pole, and rungs of this 10-foot ladder are hinged, allowing you to fold it into a 3-foot-by-1-foot-by-1-foot bundle. Folding or unfolding it is a standard action.
+The hook, pole, and rungs of this 10-foot ladder are hinged, allowing you to fold it into a 3-foot-by-1-foot-by-1-foot bundle. Folding or unfolding it is a standard action (1 AP).
 
 ### Folding Pole
 
 **Price** 2 sp; **Weight** 10 lbs.
 
-This hinged pole can be unfolded and locked in place with sliding pins, creating a 10-foot pole. When collapsed, it is only 3 feet long. Assembling or collapsing the pole is a full-round action. The hinges and pins mean it is not as strong as a one-piece pole, and is best used for probing rather than vaulting or climbing.
+This hinged pole can be unfolded and locked in place with sliding pins, creating a 10-foot pole. When collapsed, it is only 3 feet long. Assembling or collapsing the pole is a full-round action (3 AP). The hinges and pins mean it is not as strong as a one-piece pole, and is best used for probing rather than vaulting or climbing.
 
 ### Folding Table
 
 **Price** 10 gp; **Weight** 20 lbs.
 
-This wooden table has jointed legs and a hinge down the middle. When fully extended, it is a 2-foot-by-4-foot table, but collapses down to 2 feet by 2 feet by 2 inches. Setting up the table is a full-round action; collapsing it is 2 full-round actions.
+This wooden table has jointed legs and a hinge down the middle. When fully extended, it is a 2-foot-by-4-foot table, but collapses down to 2 feet by 2 feet by 2 inches. Setting up the table is a full-round action (3 AP); collapsing it is 2 full-round actions.
 
 ### Gambler’s Kit
 
@@ -290,7 +290,7 @@ This pouch of toiletries includes a comb, scissors, a nail file, a sponge, a hai
 
 **Price** 1 sp; **Weight** 3 lbs.
 
-This blanket or net is attached to strong ropes, allowing you to hang it from a heavy branch or two trees and sleep above the ground. Climbing into or out of a hammock is a full-round action. A successful DC 5 Dexterity check reduces this to a move action.
+This blanket or net is attached to strong ropes, allowing you to hang it from a heavy branch or two trees and sleep above the ground. Climbing into or out of a hammock is a full-round action (3 AP). A successful DC 5 Dexterity check reduces this to a move action (1 AP).
 
 ### Helmet Candle
 
@@ -392,7 +392,7 @@ Most perfumes and colognes are derived from the essential oils of flowers. Perfu
 
 **Price** 50 gp; **Weight** 1 lb.
 
-This scabbard contains strips of natural sea sponges on its interior. By carefully pouring a dose of poison into the empty scabbard (a full-round action), you saturate the sponges with the toxin, which keeps it viable and wet for up to 4 hours. Preparing the scabbard carries the normal risk of poisoning yourself, just like poisoning a weapon. The next weapon you draw from the scabbard is automatically poisoned as if you had directly applied poison to it (but does not risk poisoning you); this consumes the poison in the scabbard. A scabbard only fits one type of bladed weapon, such as a dagger, shortsword, or longsword. This kind of item is usually illegal in areas that outlaw poison.
+This scabbard contains strips of natural sea sponges on its interior. By carefully pouring a dose of poison into the empty scabbard (a full-round action (3 AP)), you saturate the sponges with the toxin, which keeps it viable and wet for up to 4 hours. Preparing the scabbard carries the normal risk of poisoning yourself, just like poisoning a weapon. The next weapon you draw from the scabbard is automatically poisoned as if you had directly applied poison to it (but does not risk poisoning you); this consumes the poison in the scabbard. A scabbard only fits one type of bladed weapon, such as a dagger, shortsword, or longsword. This kind of item is usually illegal in areas that outlaw poison.
 
 ### Portable Bridge
 
@@ -452,7 +452,7 @@ This soft leather case contains a vial for holding ink, an ink pen, spare pen ni
 
 **Price** 5 gp; **Weight** 1 lb.
 
-This wooden box easily holds 10 scrolls and has small clips or bookmarks for easier indexing. Retrieving a scroll from a held scroll box is a move action. A scroll box has hardness 5, 5 hit points, a break DC of 20. A scroll box is water-tight.
+This wooden box easily holds 10 scrolls and has small clips or bookmarks for easier indexing. Retrieving a scroll from a held scroll box is a move action (1 AP). A scroll box has hardness 5, 5 hit points, a break DC of 20. A scroll box is water-tight.
 
 ### Sentry Mannequin
 
@@ -482,7 +482,7 @@ Common Mithral This 8-inch-diameter skillet has a long handle and feet so you ca
 
 **Price** 5 gp; **Weight** —
 
-Common Masterwork This waterproof wooden tube has a curved end with a mouthpiece. When you hold the mouthpiece in your mouth, the tube extends past your face and toward the back of your head, allowing you to breathe indefinitely when swimming facedown or barely submerged. If you submerge the tip of the snorkel, it floods with water and can’t be used to breathe until you clear the water from it (requiring a move action and full access to air). A typical snorkel’s length is about 15 inches; any shorter than this and it tends to fill with water when you swim, but any longer and you’re not moving enough fresh air through the snorkel to be effective.
+Common Masterwork This waterproof wooden tube has a curved end with a mouthpiece. When you hold the mouthpiece in your mouth, the tube extends past your face and toward the back of your head, allowing you to breathe indefinitely when swimming facedown or barely submerged. If you submerge the tip of the snorkel, it floods with water and can’t be used to breathe until you clear the water from it (requiring a move action (1 AP) and full access to air). A typical snorkel’s length is about 15 inches; any shorter than this and it tends to fill with water when you swim, but any longer and you’re not moving enough fresh air through the snorkel to be effective.
 
 *Masterwork Snorkel*: This snorkel has a valve at the top to keep out of the water, keeping it from being flooded from splashes or when you submerge. It also has a sump and valve near your mouth, preventing water from reaching your mouth and automatically draining excess water when you surface.
 

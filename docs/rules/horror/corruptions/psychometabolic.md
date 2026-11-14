@@ -56,7 +56,7 @@ You lift yourself with your mind.
 
 **Prerequisites**: Defy gravity, manifestation level 5th.
 
-**Gift**: By spending 3 points of psychometabolic power as a swift action, you can use *fly* as a spell-like ability.
+**Gift**: By spending 3 points of psychometabolic power as a swift action (1 AP), you can use *fly* as a spell-like ability.
 
 **Stain**: Your limbs slow as they weaken. Your speed for all nonmagical movement types is reduced by 10 feet.
 

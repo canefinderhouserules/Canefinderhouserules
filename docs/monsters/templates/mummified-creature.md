@@ -35,7 +35,7 @@
 
 **Special Attacks:** A mummified creature gains the following special attacks.
 
-***Burst of Vengeance (Su).*** Despite its slow, lumbering nature, a mummified creature is capable of lurching forward to attack with a short but surprising explosion of speed. Twice per day as a swift action, a mummified creature may act as if affected by a haste spell for 1 round.
+***Burst of Vengeance (Su).*** Despite its slow, lumbering nature, a mummified creature is capable of lurching forward to attack with a short but surprising explosion of speed. Twice per day as a swift action (1 AP), a mummified creature may act as if affected by a haste spell for 1 round.
 
 ***Dust Stroke (Su).*** A creature killed by a mummified creature’s natural attack or slam attack is disintegrated into a cloud of dust and ash, completely destroying the victim’s body (as disintegrate).
 

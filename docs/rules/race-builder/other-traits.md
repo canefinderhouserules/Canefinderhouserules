@@ -18,7 +18,7 @@ This category covers various traits that other categories do not, which can augm
 
 **Light and Dark (1 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race gain the following supernatural ability: Once per day as an immediate action, a member of this race can treat positive and negative energies as if it were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.
+*Benefit*: Members of this race gain the following supernatural ability: Once per day as an immediate action (1 AP of your next turn), a member of this race can treat positive and negative energies as if it were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.
 
 **Multitalented (2 RP)**  
 *Prerequisites*: None  
@@ -26,7 +26,7 @@ This category covers various traits that other categories do not, which can augm
 
 **Prehensile Tail (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race have a long, flexible tail that can be used to carry objects. They cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a swift action.
+*Benefit*: Members of this race have a long, flexible tail that can be used to carry objects. They cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a swift action (1 AP).
 
 **Rodent Empathy (1 RP)**  
 *Prerequisite*: Ratfolk subtype  

@@ -17,11 +17,11 @@
 
 **[Greater Vital Strike](../../rules/feats/greater-vital-strike.md):** ×5 the weapon damage dice, or ×4 the static damage bonuses.
 
-**[Cleave](../../rules/feats/cleave.md)** *(total rework; prerequisites: Str 13, BAB +1)*: as a standard action, you make a single melee attack against 2 adjacent squares (adjacent to you and to each other), attacking whatever is in them with that one attack. With a two-handed weapon you affect 3 adjacent squares. With a reach weapon you affect 2 or 3 adjacent squares and the squares directly behind them. You can use Cleave as a full-round action, in which case instead of an attack it becomes a Reflex save for half, with a DC of 10 + half your level + your Strength modifier. On a turn in which you use either method of Cleave, you take –2 AC.
+**[Cleave](../../rules/feats/cleave.md)** *(total rework; prerequisites: Str 13, BAB +1)*: as a standard action (1 AP), you make a single melee attack against 2 adjacent squares (adjacent to you and to each other), attacking whatever is in them with that one attack. With a two-handed weapon you affect 3 adjacent squares. With a reach weapon you affect 2 or 3 adjacent squares and the squares directly behind them. You can use Cleave as a full-round action (3 AP), in which case instead of an attack it becomes a Reflex save for half, with a DC of 10 + half your level + your Strength modifier. On a turn in which you use either method of Cleave, you take –2 AC.
 
 **[Great Cleave](../../rules/feats/great-cleave.md)** *(rework; prerequisites: Cleave, BAB +4)*: using Cleave no longer costs you 2 AC.
 
-**[Cleaving Finish](../../rules/feats/cleaving-finish.md)** *(rework; prerequisites: Cleave, BAB +6)*: landing the final melee blow on a target with Cleave grants you another standard action, which must be used strictly for a nonmagical offensive action, once per round.
+**[Cleaving Finish](../../rules/feats/cleaving-finish.md)** *(rework; prerequisites: Cleave, BAB +6)*: landing the final melee blow on a target with Cleave grants you another standard action (1 AP), which must be used strictly for a nonmagical offensive action, once per round.
 
 **[Improved Cleaving Finish](../../rules/feats/improved-cleaving-finish.md)** *(rework; prerequisites: Cleaving Finish, BAB +8)*: twice per round.
 
@@ -49,7 +49,7 @@
 
 **[Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md):** prerequisites: Dex 15, Two-Weapon Fighting, BAB +6. In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, at a –5 penalty. Once your BAB reaches +11, you also gain a third attack with your off-hand weapon, at a –10 penalty.
 
-**[Dazzling Display](../../rules/feats/dazzling-display.md):** is now a move action.
+**[Dazzling Display](../../rules/feats/dazzling-display.md):** is now a move action (1 AP).
 
 **[Arcane Strike](../../rules/feats/arcane-strike.md):** is now a free action.
 

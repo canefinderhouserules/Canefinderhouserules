@@ -506,7 +506,7 @@ This exotic and expensive vehicle is held aloft by a massive balloon connected b
 **CMB** +8; **CMD** 18  
 **Ramming Damage** 8d8
 
-This ship is made of wood and is usually crafted in the shape of a dragon. It is held aloft purely by its alchemical engine, a complicated and dangerous device that has a tendency to explode when the vehicle becomes wrecked. When this happens, if the alchemical dragon has a driver, that driver can make a DC 30 driving check as an immediate action. If the check fails, the alchemical engine explodes, dealing 10d10 points of fire damage to all objects and creatures within a 60-foot radius of the alchemical engine. A DC 20 Reflex save halves the damage. An alchemical dragon can carry up to 20 tons of cargo or 70 passengers.
+This ship is made of wood and is usually crafted in the shape of a dragon. It is held aloft purely by its alchemical engine, a complicated and dangerous device that has a tendency to explode when the vehicle becomes wrecked. When this happens, if the alchemical dragon has a driver, that driver can make a DC 30 driving check as an immediate action (1 AP of your next turn). If the check fails, the alchemical engine explodes, dealing 10d10 points of fire damage to all objects and creatures within a 60-foot radius of the alchemical engine. A DC 20 Reflex save halves the damage. An alchemical dragon can carry up to 20 tons of cargo or 70 passengers.
 
 **Propulsion** alchemical (6 squares of alchemical engines in the middle of the ship; hardness 8, hp 120)  
 **Driving Check** Craft (alchemy) or Knowledge (arcana) +10 to the DC  

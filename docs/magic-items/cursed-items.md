@@ -345,7 +345,7 @@ This net provides a +3 bonus on attack rolls but can only be used underwater. Un
 **Aura** moderate abjuration; **CL** 10th  
 **Slot** neck; **Weight** —
 
-This engraved gem appears to be of little value. If any character keeps the periapt in her possession for more than 24 hours, she contracts a terrible rotting affliction that permanently drains 1 point of Dexterity, Constitution, and Charisma every week. The periapt (and the affliction) can be removed only by application of a remove curse spell followed by a cure disease and then a heal, miracle, limited wish, or wish spell. The rotting can also be countered by crushing a periapt of health and sprinkling its dust upon the afflicted character (a full-round action), whereupon the periapt of foul rotting likewise crumbles to dust.
+This engraved gem appears to be of little value. If any character keeps the periapt in her possession for more than 24 hours, she contracts a terrible rotting affliction that permanently drains 1 point of Dexterity, Constitution, and Charisma every week. The periapt (and the affliction) can be removed only by application of a remove curse spell followed by a cure disease and then a heal, miracle, limited wish, or wish spell. The rotting can also be countered by crushing a periapt of health and sprinkling its dust upon the afflicted character (a full-round action (3 AP)), whereupon the periapt of foul rotting likewise crumbles to dust.
 
 **Creation** (associated magic items): periapt of health, periapt of proof against poison, periapt of wound closure
 

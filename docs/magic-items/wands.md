@@ -4,7 +4,7 @@ A wand is a thin baton that contains a single spell of 4th level or lower. A wan
 
 **Physical Description**: A wand is 6 to 12 inches long, 1/4 inch thick, and weighs no more than 1 ounce. Most wands are wood, but some are bone, metal, or even crystal. A typical wand has AC 7, 5 hit points, hardness 5, and a break DC of 16.
 
-**Activation**: Wands use the spell trigger activation method, so casting a spell from a wand is usually a standard action that doesn’t provoke attacks of opportunity. (If the spell being cast has a longer casting time than 1 action, however, it takes that long to cast the spell from a wand.) To activate a wand, a character must hold it in hand (or whatever passes for a hand, for nonhumanoid creatures) and point it in the general direction of the target or area. A wand may be used while grappling or while swallowed whole.
+**Activation**: Wands use the spell trigger activation method, so casting a spell from a wand is usually a standard action (1 AP) that doesn’t provoke attacks of opportunity. (If the spell being cast has a longer casting time than 1 action, however, it takes that long to cast the spell from a wand.) To activate a wand, a character must hold it in hand (or whatever passes for a hand, for nonhumanoid creatures) and point it in the general direction of the target or area. A wand may be used while grappling or while swallowed whole.
 
 **Special Qualities**: Roll d%. A 01–30 result indicates that something (a design, inscription, or the like) provides some clue to the wand’s function, and 31–100 indicates no special qualities.
 

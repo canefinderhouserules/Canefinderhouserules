@@ -4,4 +4,4 @@ You brand an enemy with your bane weapon, making it more vulnerable to your alli
 
 **Prerequisite**: Bane class feature.
 
-**Benefit**: As a standard action, expend 3 rounds of your bane class feature and make a melee touch attack with the weapon affected by bane. If you hit, your target takes no damage but is branded until the start of your next turn. While this brand remains, your allies’ weapons are considered to have the bane ability with which your weapon is imbued when they attack the branded creature.
+**Benefit**: As a standard action (1 AP), expend 3 rounds of your bane class feature and make a melee touch attack with the weapon affected by bane. If you hit, your target takes no damage but is branded until the start of your next turn. While this brand remains, your allies’ weapons are considered to have the bane ability with which your weapon is imbued when they attack the branded creature.

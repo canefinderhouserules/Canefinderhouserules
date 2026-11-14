@@ -32,7 +32,7 @@ You embrace freedom above all things. You never tie yourself to one place, alway
 
 **Powerful Wind (Su)**
 
-You can spend 1 point of faith as a swift action to extend your wind out over a wide distance for one minute. Allies within 30 feet of you gain the benefits of your protective wind ability. If there are no allies within 30 feet, or if you choose not to share the ability, the increased wind concentrates on you, intensifying and making you immune to ranged attacks made with physical weapons, including massive weapons.
+You can spend 1 point of faith as a swift action (1 AP) to extend your wind out over a wide distance for one minute. Allies within 30 feet of you gain the benefits of your protective wind ability. If there are no allies within 30 feet, or if you choose not to share the ability, the increased wind concentrates on you, intensifying and making you immune to ranged attacks made with physical weapons, including massive weapons.
 
 **Freedom of the Sky (Sp)**
 
@@ -44,11 +44,11 @@ You venerate the power of air, the raw force of winds in a tornado and the crack
 
 **Thunderstorm (Sp)**
 
-You can use the electric blast wild talent or the thunderstorm composite blast. Instead of accepting burn, you must spend 1 point of faith to use thunderstorm blast. When casting a spell with the electricity descriptor or your lightning or thunderstorm blast, you can spend 1 point of faith as a swift action to designate one creature within line of sight. The spell or blast’s damage is increased by 50% against that target.
+You can use the electric blast wild talent or the thunderstorm composite blast. Instead of accepting burn, you must spend 1 point of faith to use thunderstorm blast. When casting a spell with the electricity descriptor or your lightning or thunderstorm blast, you can spend 1 point of faith as a swift action (1 AP) to designate one creature within line of sight. The spell or blast’s damage is increased by 50% against that target.
 
 **Lightning Rod (Su)**
 
-At 16th level, lightning is drawn to you like a moth to the flame. You become immune to electricity. As an immediate action while within 30 feet of the target or center of a spell or ability that does electricity damage, you can spend 1 point of faith to redirect all of the electricity damage to yourself. This does not affect any other damage from the spell or ability.
+At 16th level, lightning is drawn to you like a moth to the flame. You become immune to electricity. As an immediate action (1 AP of your next turn) while within 30 feet of the target or center of a spell or ability that does electricity damage, you can spend 1 point of faith to redirect all of the electricity damage to yourself. This does not affect any other damage from the spell or ability.
 
 **Domain Spells**
 
@@ -62,7 +62,7 @@ The domain of the animal is one of respect for the beasts of the world. As a leg
 
 **Call of the Wild (Su)**
 
-When you first gain this domain, choose from a 1d6 bite, a 1d6 gore, or two 1d4 claws. As a swift action, you can spend 1 point of faith to gain the natural attack(s) you chose for one minute per cleric level. You can only gain them while in your natural form.
+When you first gain this domain, choose from a 1d6 bite, a 1d6 gore, or two 1d4 claws. As a swift action (1 AP), you can spend 1 point of faith to gain the natural attack(s) you chose for one minute per cleric level. You can only gain them while in your natural form.
 
 In addition, you are permanently under the effects of speak with animals.
 
@@ -84,7 +84,7 @@ Your natural attacks from call of the wild are infused with the power of your fa
 
 **Natural Form (Su)**
 
-At 16th level, you shed the last anchors you have to humanity, becoming truly one with the beast inside. You can use wild shape at will, and the duration becomes permanent. In addition, while in a wild shape form you can change to any form your wild shape would allow as a swift action. You can dismiss your wild shape at any time as an immediate action.
+At 16th level, you shed the last anchors you have to humanity, becoming truly one with the beast inside. You can use wild shape at will, and the duration becomes permanent. In addition, while in a wild shape form you can change to any form your wild shape would allow as a swift action (1 AP). You can dismiss your wild shape at any time as an immediate action (1 AP of your next turn).
 
 **Doctrine of Domestication**
 
@@ -92,11 +92,11 @@ You recognize the power of animals and humanoids working together. You encourage
 
 **Animal Ally (Su)**
 
-You become aware of all animals within a 100-foot radius of you at all times. As a full round action, you can spend 3 points of faith to call a nearby animal to aid you. This animal becomes an animal companion to you, using your level as your druid level to determine their statistics but gaining no feats for their hit dice. Available companions vary based on your environment. The companion will only stay with you for the duration of the task you have for it, although this task can be as open ended as “accompany me through this dungeon.”
+You become aware of all animals within a 100-foot radius of you at all times. As a full round action (3 AP), you can spend 3 points of faith to call a nearby animal to aid you. This animal becomes an animal companion to you, using your level as your druid level to determine their statistics but gaining no feats for their hit dice. Available companions vary based on your environment. The companion will only stay with you for the duration of the task you have for it, although this task can be as open ended as “accompany me through this dungeon.”
 
 **Aura of Domestication (Su)**
 
-At 16th level, most animals are automatically friendly to you. Animals allied with or owned by your enemies and magical beasts are indifferent to you. In either case, they will not attack you or your allies without provocation, even if ordered to. As a standard action, you can make a Handle Animal check against any animal or magical beast to perform a task or trick, even if you aren’t its trainer.
+At 16th level, most animals are automatically friendly to you. Animals allied with or owned by your enemies and magical beasts are indifferent to you. In either case, they will not attack you or your allies without provocation, even if ordered to. As a standard action (1 AP), you can make a Handle Animal check against any animal or magical beast to perform a task or trick, even if you aren’t its trainer.
 
 **Domain Spells**
 
@@ -112,7 +112,7 @@ The domain of artifice is one of craftsmanship and pride in one’s work. As a l
 
 A skilled eye for detail replaces any need for magic in identifying magic items. You can use Craft in place of Spellcraft to identify magic items.
 
-By spending 1 point of faith you can do so at a glance, taking a swift action rather than 3 rounds to identify a magic item.
+By spending 1 point of faith you can do so at a glance, taking a swift action (1 AP) rather than 3 rounds to identify a magic item.
 
 **Master of the Craft (Ex)**
 
@@ -120,7 +120,7 @@ At 4th level you gain Master Craftsman as a bonus feat. You can craft any magic 
 
 **Sharpen (Su)**
 
-At 8th level you can spend 1 point of faith as a standard action to make a quick, temporary improvement on a weapon or suit of armor. This increases the enhancement bonus of that weapon, armor, or shield by +1 for 1 minute. This bonus can increase an enhancement bonus above +5 or +10.
+At 8th level you can spend 1 point of faith as a standard action (1 AP) to make a quick, temporary improvement on a weapon or suit of armor. This increases the enhancement bonus of that weapon, armor, or shield by +1 for 1 minute. This bonus can increase an enhancement bonus above +5 or +10.
 
 **Doctrine of Creation**
 
@@ -166,7 +166,7 @@ At 4th level, when you cast a harmless spell with a clearly beneficial effect su
 
 **Charming Smile (Sp)**
 
-At 8th level you can spend 1 point of faith to cast charm person on a single target as a swift action. This does not benefit from honeyed words, but the target does not gain benefits for being in combat or hostile allies. If the target fails, they treat you and all of your allies as friendly. You can only affect one target at a time with this effect; if you use it again, the previous target is no longer affected.
+At 8th level you can spend 1 point of faith to cast charm person on a single target as a swift action (1 AP). This does not benefit from honeyed words, but the target does not gain benefits for being in combat or hostile allies. If the target fails, they treat you and all of your allies as friendly. You can only affect one target at a time with this effect; if you use it again, the previous target is no longer affected.
 
 **Doctrine of Friendship**
 
@@ -192,7 +192,7 @@ When you make a request of someone and roll Diplomacy, you can spend 1 point of 
 
 **Domination (Sp)**
 
-At 16th level, your words can completely bend someone to your will. As a standard action, you can spend 1 point of faith to control a creature within close range as per dominate person, save that it affects them regardless of creature type. This is a mind-affecting effect and the target is allowed a Will saving throw to resist it. The effect lasts only one minute per cleric level you possess. You cannot affect more than one target at a time, and regardless of whether they save they cannot be affected by this ability again for 24 hours.
+At 16th level, your words can completely bend someone to your will. As a standard action (1 AP), you can spend 1 point of faith to control a creature within close range as per dominate person, save that it affects them regardless of creature type. This is a mind-affecting effect and the target is allowed a Will saving throw to resist it. The effect lasts only one minute per cleric level you possess. You cannot affect more than one target at a time, and regardless of whether they save they cannot be affected by this ability again for 24 hours.
 
 **Domain Spells**
 
@@ -206,7 +206,7 @@ The domain of community is one of trust and respect among neighbors and comrades
 
 **Communal Font (Su)**
 
-When you cast a harmless spell that targets multiple creatures, you can spend 1 point of faith as a swift action to modify it with the Extend Spell feat. This does not increase their level or casting time. If a creature attempts a save against the spell, this ability has no effect.
+When you cast a harmless spell that targets multiple creatures, you can spend 1 point of faith as a swift action (1 AP) to modify it with the Extend Spell feat. This does not increase their level or casting time. If a creature attempts a save against the spell, this ability has no effect.
 
 **Team Support (Ex)**
 
@@ -222,7 +222,7 @@ You believe that communities, united under skilled leadership, can accomplish fa
 
 **Supporting Bonds (Ex)**
 
-The increased bonus to aid another from team support improves by an additional +1. In addition, you may aid another as a swift action.
+The increased bonus to aid another from team support improves by an additional +1. In addition, you may aid another as a swift action (1 AP).
 
 **Effective Leadership (Ex)**
 
@@ -238,7 +238,7 @@ Your presence connects your allies, improving their coordination. Allies within 
 
 **Sacrifice Play (Su)**
 
-At 16th level, when multiple allies within 30 feet make a saving throw against the same effect, you can spend 1 point of faith as an immediate action to allow any two willing allies to swap their results for the saving throw. Characters with abilities such as Stalwart and Evasion do not pass these abilities to other creatures.
+At 16th level, when multiple allies within 30 feet make a saving throw against the same effect, you can spend 1 point of faith as an immediate action (1 AP of your next turn) to allow any two willing allies to swap their results for the saving throw. Characters with abilities such as Stalwart and Evasion do not pass these abilities to other creatures.
 
 **Domain Spells**
 
@@ -252,15 +252,15 @@ The domain of darkness is one of concealment, secrecy and security. As a legenda
 
 **Night Vision (Su)**
 
-You gain darkvision to a range of 60 feet. If you already have darkvision, you instead increase its range by 60 feet. Darkvision gained from this ability does not work in magical darkness except from your cloak of shadows ability. As a swift action, you can spend a point of faith to grant this ability to your allies within 30 feet for one minute.
+You gain darkvision to a range of 60 feet. If you already have darkvision, you instead increase its range by 60 feet. Darkvision gained from this ability does not work in magical darkness except from your cloak of shadows ability. As a swift action (1 AP), you can spend a point of faith to grant this ability to your allies within 30 feet for one minute.
 
 **Cloak of Shadow (Su)**
 
-At 4th level, light seems to fade around you, leaving you surrounded by shadow. The light level within 10 feet of you is reduced by one step. You can suppress or resume this aura as a standard action. You cannot use concealment granted by this ability to enter stealth, as the aura reveals your location.
+At 4th level, light seems to fade around you, leaving you surrounded by shadow. The light level within 10 feet of you is reduced by one step. You can suppress or resume this aura as a standard action (1 AP). You cannot use concealment granted by this ability to enter stealth, as the aura reveals your location.
 
 **Eyes in the Dark (Su)**
 
-At 8th level you can spend 1 point of faith as a swift action to gain the see in darkness universal monster ability to yourself and any allies affected by your Night Vision ability for one minute.
+At 8th level you can spend 1 point of faith as a swift action (1 AP) to gain the see in darkness universal monster ability to yourself and any allies affected by your Night Vision ability for one minute.
 
 **Doctrine of the Nocturnal**
 
@@ -286,7 +286,7 @@ You can spend 1 point of faith when casting a spell that creates darkness. If yo
 
 **Claim on the Night (Su)**
 
-At 16th level, your power over darkness trumps all others, innate or otherwise. As a standard action, you can spend 1 point of faith to target any number of creatures within 30 feet. These creatures must make a Will save or lose any darkvision they have as well as the see in darkness universal monster ability for one round per cleric level.
+At 16th level, your power over darkness trumps all others, innate or otherwise. As a standard action (1 AP), you can spend 1 point of faith to target any number of creatures within 30 feet. These creatures must make a Will save or lose any darkvision they have as well as the see in darkness universal monster ability for one round per cleric level.
 
 **Domain Spells**
 
@@ -300,11 +300,11 @@ The domain of death is one of change. As a legendary cleric of the death domain,
 
 **Death’s Touch (Su)**
 
-As a standard action, you can spend 1 point of faith to draw on the power of death and decay to remind others of their mortality. You deal negative energy damage to a target within 30 feet equal to 1d6 + your Wisdom modifier and make them shaken for one round. A Fortitude save halves this damage and negates the shaken condition. At 4th level, and every 3 levels thereafter this damage increases by 1d6. This effect damages undead and creatures with negative energy affinity rather than healing them.
+As a standard action (1 AP), you can spend 1 point of faith to draw on the power of death and decay to remind others of their mortality. You deal negative energy damage to a target within 30 feet equal to 1d6 + your Wisdom modifier and make them shaken for one round. A Fortitude save halves this damage and negates the shaken condition. At 4th level, and every 3 levels thereafter this damage increases by 1d6. This effect damages undead and creatures with negative energy affinity rather than healing them.
 
 **Reaper’s Grace (Su)**
 
-At 4th level as an immediate action you can spend 1 point of faith to grant allies within 30 feet of you a sacred bonus equal to your Wisdom modifier on saving throws against death effects, negative levels and disease for one round.
+At 4th level as an immediate action (1 AP of your next turn) you can spend 1 point of faith to grant allies within 30 feet of you a sacred bonus equal to your Wisdom modifier on saving throws against death effects, negative levels and disease for one round.
 
 **Negative Surgery (Su)**
 
@@ -330,7 +330,7 @@ New life grows from the death of the old. The death of a deer feeds a wolf, the 
 
 **Channel Life (Su)**
 
-When a creature fails a saving throw against a spell you cast, you can spend 1 point of faith as a swift action to affect them with death’s touch with no save for half damage.
+When a creature fails a saving throw against a spell you cast, you can spend 1 point of faith as a swift action (1 AP) to affect them with death’s touch with no save for half damage.
 
 **Lay to Rest (Su)**
 
@@ -352,13 +352,13 @@ Your weapons carry more impact behind them, meant to obliterate anything they co
 
 **Explosive Strike (Su)**
 
-Starting at 4th level when you successfully make a melee attack, you can spend 1 point of faith as a swift action to create an explosion.
+Starting at 4th level when you successfully make a melee attack, you can spend 1 point of faith as a swift action (1 AP) to create an explosion.
 
 This deals force damage equal to 1d8 + your Wisdom modifier to all creatures (including yourself ) in a 10- foot radius. This damage increases by 1d8 at 4th level and every 3 levels thereafter.
 
 **Destructive **Aura** (Su)**
 
-As a standard action you can spend 1 point of faith to emit a 30-foot aura of destruction for a number of rounds equal to your cleric level. All attacks made against targets in this aura (including you) gain a sacred bonus on damage equal to ½ your cleric level and all critical threats are automatically confirmed.
+As a standard action (1 AP) you can spend 1 point of faith to emit a 30-foot aura of destruction for a number of rounds equal to your cleric level. All attacks made against targets in this aura (including you) gain a sacred bonus on damage equal to ½ your cleric level and all critical threats are automatically confirmed.
 
 **Doctrine of Devastation**
 
@@ -370,7 +370,7 @@ The radius of your explosive strike increases to 15 feet. When you use your expl
 
 **Final Flash (Su)**
 
-At 16th level, as a standard action you can spend 3 points of faith to create a massive, powerful explosion that tears through everything in its path.
+At 16th level, as a standard action (1 AP) you can spend 3 points of faith to create a massive, powerful explosion that tears through everything in its path.
 
 This deals force damage equal to 20d12 + your cleric level + double your Wisdom modifier to every creature and object within a 60 foot radius, including yourself.
 
@@ -408,7 +408,7 @@ At 4th level you can raise stone from the ground to create cover for yourself an
 
 **Shatter Earth (Su)**
 
-At 8th level as a swift action, you can spend 1 point of faith to turn a 10 foot square of dirt or stone within 50 feet of you into difficult terrain. You can instead use this ability to turn a 10 foot square of difficult terrain into normal terrain if it is made of dirt or stone.
+At 8th level as a swift action (1 AP), you can spend 1 point of faith to turn a 10 foot square of dirt or stone within 50 feet of you into difficult terrain. You can instead use this ability to turn a 10 foot square of difficult terrain into normal terrain if it is made of dirt or stone.
 
 **Doctrine of Roots**
 
@@ -430,11 +430,11 @@ It makes the strongest structures and the most durable weapons. You show your de
 
 **Effortless Geokinesis (Su)**
 
-You can use your basic geokinesis and stone wall abilities as a swift action. In addition, as a swift action you can spend 1 point of faith to dig deep pits. This functions as create pit, but deals no damage to creatures in the area of the pit when you use this ability.
+You can use your basic geokinesis and stone wall abilities as a swift action (1 AP). In addition, as a swift action (1 AP) you can spend 1 point of faith to dig deep pits. This functions as create pit, but deals no damage to creatures in the area of the pit when you use this ability.
 
 **Mold Earth (Sp)**
 
-At 16th level, the earth bends entirely at your whims. You can cast stone shape as a swift action by spending a point of faith.
+At 16th level, the earth bends entirely at your whims. You can cast stone shape as a swift action (1 AP) by spending a point of faith.
 
 **Domain Spells**
 
@@ -448,7 +448,7 @@ The domain of freedom is one of reflection, detachment, and perpetual striving. 
 
 **Breaker of Chains (Su)**
 
-By spending a faith point as an immediate action, you may grant an ally within 30 feet a sacred bonus to [Acrobatics](../../../rules/skills/acrobatics.md) checks, [Escape Artist](../../../rules/skills/escape-artist.md) checks, CMD, and saving throws against effects which would restrict their movement for 1 round. This bonus is equal to half your cleric level (minimum 2).
+By spending a faith point as an immediate action (1 AP of your next turn), you may grant an ally within 30 feet a sacred bonus to [Acrobatics](../../../rules/skills/acrobatics.md) checks, [Escape Artist](../../../rules/skills/escape-artist.md) checks, CMD, and saving throws against effects which would restrict their movement for 1 round. This bonus is equal to half your cleric level (minimum 2).
 
 **Freedom’s Call (Su)**
 
@@ -482,7 +482,7 @@ You no longer need to eat, drink, or breathe and become immune to poisons and di
 
 **Shed Body (Su)**
 
-At 16th level, you may become incorporeal as a move action and remain incorporeal as long as you wish. You may choose to have your equipment become incorporeal with you. Unlike other incorporeal creatures, you do not gain a deflection bonus to Armor Class from your Charisma modifier.
+At 16th level, you may become incorporeal as a move action (1 AP) and remain incorporeal as long as you wish. You may choose to have your equipment become incorporeal with you. Unlike other incorporeal creatures, you do not gain a deflection bonus to Armor Class from your Charisma modifier.
 
 During this time, your body fades into an immaterial form that retains your basic likeness. While incorporeal, you gain a fly speed equal to your land speed (perfect maneuverability).
 
@@ -502,11 +502,11 @@ You gain the fire blast wild talent and the kinetic blast class feature, treatin
 
 **Purifying Flames (Su)**
 
-At 4th level you can select a mercy as a paladin of your level. You can spend 1 point of faith to touch a willing creature as a standard action, healing them for an amount equal to your kinetic blast damage and applying any mercies you’ve chosen. Every 3 levels after you gain this ability, you can select another mercy.
+At 4th level you can select a mercy as a paladin of your level. You can spend 1 point of faith to touch a willing creature as a standard action (1 AP), healing them for an amount equal to your kinetic blast damage and applying any mercies you’ve chosen. Every 3 levels after you gain this ability, you can select another mercy.
 
 **Blue Flames (Su)**
 
-Starting at 8th level, whenever you cast a spell that deals fire damage or use your fire blast, you can spend 1 point of faith as a swift action to treat the fire resistance of any affected creature as 10 lower. If an affected creature is immune to fire, they are instead treated as though they had fire resistance 30.
+Starting at 8th level, whenever you cast a spell that deals fire damage or use your fire blast, you can spend 1 point of faith as a swift action (1 AP) to treat the fire resistance of any affected creature as 10 lower. If an affected creature is immune to fire, they are instead treated as though they had fire resistance 30.
 
 **Doctrine of Incineration**
 
@@ -552,13 +552,13 @@ Those who seek recognition do just as great of things as those who do great thin
 
 **Victorious Strike (Su)**
 
-As an immediate action when you reduce a creature below 0 hit points, you can spend 1 point of faith to release a burst of celebratory healing.
+As an immediate action (1 AP of your next turn) when you reduce a creature below 0 hit points, you can spend 1 point of faith to release a burst of celebratory healing.
 
 All allies within 30 feet are healed as though you had just channeled to heal, even if they would normally be unaffected (for instance, if they were living creatures and you channel negative energy). This ability has no effect if the triggering creature was [helpless](../../../rules/appendices/conditions.md#helpless), unaware, or had fewer Hit Dice than half your character level.
 
 **Glorious Presence (Su)**
 
-At 4th level you gain Dazzling Display as a bonus feat, even if you do not meet the prerequisites. You can use Dazzling Display as a standard action and demoralize an enemy as a swift action. You can also use your [Perform](../../../rules/skills/perform.md) skill in place of Intimidate whenever you attempt to demoralize a foe, including using Dazzling Display.
+At 4th level you gain Dazzling Display as a bonus feat, even if you do not meet the prerequisites. You can use Dazzling Display as a standard action (1 AP) and demoralize an enemy as a swift action (1 AP). You can also use your [Perform](../../../rules/skills/perform.md) skill in place of Intimidate whenever you attempt to demoralize a foe, including using Dazzling Display.
 
 **Victorious Momentum (Su)**
 
@@ -570,7 +570,7 @@ To your faith, while true heroism may not inherently be about the reward or the 
 
 **Heroic **Aura** (Su)**
 
-As a swift action, you can spend 1 point of faith to double all morale bonuses allies within 30 feet of you are benefiting from for one round.
+As a swift action (1 AP), you can spend 1 point of faith to double all morale bonuses allies within 30 feet of you are benefiting from for one round.
 
 **Awesome Presence (Su)**
 
@@ -608,7 +608,7 @@ A healing cleric’s work is rarely if ever done. The most important aspect of b
 
 **Channel Life (Su)**
 
-If you chose to channel negative energy at 1st level, you gain the ability to channel positive energy as well. If you chose to channel positive energy, you can channel energy as a move action instead of a standard. If you do not have the channel energy class feature, you gain it, but can only choose to channel positive energy.
+If you chose to channel negative energy at 1st level, you gain the ability to channel positive energy as well. If you chose to channel positive energy, you can channel energy as a move action (1 AP) instead of a standard. If you do not have the channel energy class feature, you gain it, but can only choose to channel positive energy.
 
 **Merciful Healer (Su)**
 
@@ -628,7 +628,7 @@ When you channel or cast a spell with the healing subdomain, you can spend 2 poi
 
 **Word of Restoration (Su)**
 
-Starting at 16th level you can spend 3 points of faith as a standard action to select one negative effect that an ally within 30 feet is suffering from. This effect can include any negative condition, poison, disease or spell except for death. All willing allies within 30 feet have this effect removed. If it is a magical effect with a caster level greater than your cleric level, the effect is instead suppressed for a number of rounds equal to your Wisdom modifier.
+Starting at 16th level you can spend 3 points of faith as a standard action (1 AP) to select one negative effect that an ally within 30 feet is suffering from. This effect can include any negative condition, poison, disease or spell except for death. All willing allies within 30 feet have this effect removed. If it is a magical effect with a caster level greater than your cleric level, the effect is instead suppressed for a number of rounds equal to your Wisdom modifier.
 
 **Doctrine of Recovery**
 
@@ -640,7 +640,7 @@ When you spontaneously cast a spell with the healing subtype from your domains, 
 
 **Miraculous Healer (Su)**
 
-Starting at 16th level you can spend 3 points of faith as a standard action to restore a single adjacent target to their maximum hit points. A creature can only benefit from this ability once per day.
+Starting at 16th level you can spend 3 points of faith as a standard action (1 AP) to restore a single adjacent target to their maximum hit points. A creature can only benefit from this ability once per day.
 
 **Domain Spells**
 
@@ -658,7 +658,7 @@ All Knowledge skills are class skills for you. You add your Wisdom modifier in p
 
 **Identify Weakness (Su)**
 
-Starting at 4th level, when you successfully identify a creature you can spend 1 point of faith as a swift action to grant allies who can hear you a +1 sacred bonus on attack and damage rolls against creatures of that type for one minute. These bonuses increase by 1 for every 4 levels you possess beyond 4th level.
+Starting at 4th level, when you successfully identify a creature you can spend 1 point of faith as a swift action (1 AP) to grant allies who can hear you a +1 sacred bonus on attack and damage rolls against creatures of that type for one minute. These bonuses increase by 1 for every 4 levels you possess beyond 4th level.
 
 **Lore Master (Ex)**
 
@@ -708,7 +708,7 @@ Starting at 4th level, allies within 30 feet of you add your Wisdom score to the
 
 **Donate Life (Su)**
 
-At 8th level, you can give your allies a portion of your own life force. As an immediate action, you can spend 1 point of faith and reduce your hit points by any amount. You can then distribute an equal number of hit points among allies you are life linked to, healing them for the amount distributed to them.
+At 8th level, you can give your allies a portion of your own life force. As an immediate action (1 AP of your next turn), you can spend 1 point of faith and reduce your hit points by any amount. You can then distribute an equal number of hit points among allies you are life linked to, healing them for the amount distributed to them.
 
 **Doctrine of the Body**
 
@@ -720,7 +720,7 @@ When an ally would gain a poison, disease, or curse effect, you can spend 1 poin
 
 **One Body, One Heart (Su)**
 
-At 16th level, you can connect the life forces of yourself and your allies to share all of your burdens. As a swift action you can spend 3 points of faith. For one minute, whenever you or a creature you are life linked to would take damage, that damage is evenly distributed to that creature, yourself, and all other creatures you are life linked to. A creature under your life link can dismiss the effect as a free action before damage is calculated.
+At 16th level, you can connect the life forces of yourself and your allies to share all of your burdens. As a swift action (1 AP) you can spend 3 points of faith. For one minute, whenever you or a creature you are life linked to would take damage, that damage is evenly distributed to that creature, yourself, and all other creatures you are life linked to. A creature under your life link can dismiss the effect as a free action before damage is calculated.
 
 **Doctrine of the Soul**
 
@@ -732,7 +732,7 @@ If you have at least 10 points of faith remaining, you can spend all of your rem
 
 **Lifeline (Su)**
 
-Starting at 16th level, if a creature that was life linked to you dies, you can spend 3 points of faith as an immediate action to tether their soul to their body. They fall unconscious but remain alive for three rounds. If their hit point total is increased to a negative amount less than their Constitution score or higher and any other negative effects responsible for their death are removed, they do not die. If they were killed by a death effect that instantly killed them, that effect can be removed with dispel magic or similar effects.
+Starting at 16th level, if a creature that was life linked to you dies, you can spend 3 points of faith as an immediate action (1 AP of your next turn) to tether their soul to their body. They fall unconscious but remain alive for three rounds. If their hit point total is increased to a negative amount less than their Constitution score or higher and any other negative effects responsible for their death are removed, they do not die. If they were killed by a death effect that instantly killed them, that effect can be removed with dispel magic or similar effects.
 
 **Domain Spells**
 
@@ -756,7 +756,7 @@ Reroll the failed check.
 
 **Aura of Luck (Su)**
 
-As a standard action, you can spend 1 point of faith to exude an aura of good luck. All allies within a 30’ radius gain a +1 luck bonus on attack rolls and saving throws for one round. At 13th level and 18th level this bonus increases by +1, to a maximum of +3.
+As a standard action (1 AP), you can spend 1 point of faith to exude an aura of good luck. All allies within a 30’ radius gain a +1 luck bonus on attack rolls and saving throws for one round. At 13th level and 18th level this bonus increases by +1, to a maximum of +3.
 
 This aura can be maintained each round as a free action, but costs 1 point of faith each round.
 
@@ -766,11 +766,11 @@ You seek to bring good luck into yours and your allies’ lives as much as you c
 
 **Bit of Luck (Su)**
 
-As an immediate action before an ally within 30 feet makes an attack roll, skill check or saving throw, you can spend 1 point of faith to bestow a bit of luck on them. Until the start of their next turn, they roll twice and take the better result on all d20 rolls.
+As an immediate action (1 AP of your next turn) before an ally within 30 feet makes an attack roll, skill check or saving throw, you can spend 1 point of faith to bestow a bit of luck on them. Until the start of their next turn, they roll twice and take the better result on all d20 rolls.
 
 **Lucky Surge (Su)**
 
-Starting at 16th level, you can spend 1 point of faith as an immediate action to double the bonuses granted by your aura of luck for one round. You can use this ability after an ally fails an attack roll or saving throw, potentially changing the results of that check. After this ability ends, your aura of luck ends, and you cannot use it again for one minute. This does not stack with other abilities which double luck bonuses.
+Starting at 16th level, you can spend 1 point of faith as an immediate action (1 AP of your next turn) to double the bonuses granted by your aura of luck for one round. You can use this ability after an ally fails an attack roll or saving throw, potentially changing the results of that check. After this ability ends, your aura of luck ends, and you cannot use it again for one minute. This does not stack with other abilities which double luck bonuses.
 
 **Doctrine of Misfortune**
 
@@ -778,7 +778,7 @@ You impose ill fate upon your foes and drive situations towards their worst poss
 
 **Accident (Su)**
 
-As a swift action, you can spend 1 point of faith to curse an enemy with bad luck. That target must roll twice and take the worse result on all d20 rolls for one round.
+As a swift action (1 AP), you can spend 1 point of faith to curse an enemy with bad luck. That target must roll twice and take the worse result on all d20 rolls for one round.
 
 **Aura of Bad Luck (Su)**
 
@@ -848,15 +848,15 @@ As a legendary cleric of the nobility domain, you are likely part of the noble c
 
 **Inspiring Command (Su)**
 
-As a standard action, you can spend 1 point of faith to issue an inspiring command to your allies within 30 feet. Affected allies gain a +2 sacred bonus on attack rolls, AC, combat maneuver defense, saving throws and skill checks for 1 round. This is a language-dependent mind-affecting effect.
+As a standard action (1 AP), you can spend 1 point of faith to issue an inspiring command to your allies within 30 feet. Affected allies gain a +2 sacred bonus on attack rolls, AC, combat maneuver defense, saving throws and skill checks for 1 round. This is a language-dependent mind-affecting effect.
 
 **Noble Visage (Su)**
 
-At 4th level, you gain a natural aura of nobility that makes you seem more impressive to others. You gain a +2 bonus on Diplomacy, [Bluff](../../../rules/skills/bluff.md) and [Intimidate](../../../rules/skills/intimidate.md) skill checks. This bonus increases by 1 at 9th level and every 4 levels thereafter, to a maximum of +5 at 17th level. As a standard action, you can spend 1 point of faith to touch an ally and grant them this bonus for a number of minutes equal to your Wisdom modifier.
+At 4th level, you gain a natural aura of nobility that makes you seem more impressive to others. You gain a +2 bonus on Diplomacy, [Bluff](../../../rules/skills/bluff.md) and [Intimidate](../../../rules/skills/intimidate.md) skill checks. This bonus increases by 1 at 9th level and every 4 levels thereafter, to a maximum of +5 at 17th level. As a standard action (1 AP), you can spend 1 point of faith to touch an ally and grant them this bonus for a number of minutes equal to your Wisdom modifier.
 
 **Aura of Valor (Su)**
 
-At 8th level, you gain an aura that inspires others. Allies within 30 feet of you gain a +2 morale bonus on saves against fear and compulsion effects. You can spend 1 point of faith as a standard action to grant immunity to those effects for 1 minute but allies already under such an effect do not gain this immunity.
+At 8th level, you gain an aura that inspires others. Allies within 30 feet of you gain a +2 morale bonus on saves against fear and compulsion effects. You can spend 1 point of faith as a standard action (1 AP) to grant immunity to those effects for 1 minute but allies already under such an effect do not gain this immunity.
 
 **Doctrine of Rulership**
 
@@ -870,7 +870,7 @@ Your voice itself becomes layered with power. Whenever you cast a spell that has
 
 **King’s Order (Su)**
 
-Starting at 16th level your command is great enough to stir others to action past their own limits. As a swift action, you can spend 1 point of faith to command a willing target. The target can take any move action or the attack action as an immediate action.
+Starting at 16th level your command is great enough to stir others to action past their own limits. As a swift action (1 AP), you can spend 1 point of faith to command a willing target. The target can take any move action (1 AP) or the attack action as an immediate action (1 AP of your next turn).
 
 **Doctrine of Chivalry**
 
@@ -878,7 +878,7 @@ Much is expected from those who receive much, and so a crucial component of nobi
 
 **On the Front (Su)**
 
-You join your comrades in the thick of battle, inspiring them with your willingness to fight alongside them. On any turn in which you make a melee attack against an enemy, you can use your inspiring command as a swift action.
+You join your comrades in the thick of battle, inspiring them with your willingness to fight alongside them. On any turn in which you make a melee attack against an enemy, you can use your inspiring command as a swift action (1 AP).
 
 **Knight’s Command (Su)**
 
@@ -906,7 +906,7 @@ At 4th level, your knowledge of plants allows effective healing, even without ma
 
 **Woodland **Aura** (Su)**
 
-Starting at 8th level, you and allies within 30 feet of you can move through any sort of natural undergrowth (such as thorns, briars, overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any other impairment. At a swift action, you can spend 1 point of faith to make this aura effect magically created or manipulated undergrowth as well.
+Starting at 8th level, you and allies within 30 feet of you can move through any sort of natural undergrowth (such as thorns, briars, overgrown areas, and similar terrain) at your normal speed and without taking damage or suffering any other impairment. At a swift action (1 AP), you can spend 1 point of faith to make this aura effect magically created or manipulated undergrowth as well.
 
 **Doctrine of Herbalism**
 
@@ -958,7 +958,7 @@ At 4th level, healing energy in excess of what you need can be converted into a 
 
 **Emergency Barrier (Su)**
 
-At 8th level, you can quickly respond to your allies in danger. As an immediate action when an ally would be hit by an attack, you can spend 1 point of faith to grant them a +2 sacred bonus to armor class and temporary hp equal to your level + your Wisdom modifier for one round. If the attack would miss their new armor class, it is negated.
+At 8th level, you can quickly respond to your allies in danger. As an immediate action (1 AP of your next turn) when an ally would be hit by an attack, you can spend 1 point of faith to grant them a +2 sacred bonus to armor class and temporary hp equal to your level + your Wisdom modifier for one round. If the attack would miss their new armor class, it is negated.
 
 **Doctrine of the Disciplinarian**
 
@@ -980,7 +980,7 @@ As a follower of the doctrine of the guardian, your focus lies upon protecting y
 
 **Guardian Beacon (Su)**
 
-As a swift action you can spend 1 point of faith to empower your guardian’s aura, declaring your allies under your protection. For 1 minute, enemies take a penalty to attack rolls against creatures within your aura equal to the resistance bonus granted by the aura. This benefit does not apply to you.
+As a swift action (1 AP) you can spend 1 point of faith to empower your guardian’s aura, declaring your allies under your protection. For 1 minute, enemies take a penalty to attack rolls against creatures within your aura equal to the resistance bonus granted by the aura. This benefit does not apply to you.
 
 **Emergency Force Field (Su)**
 
@@ -1026,11 +1026,11 @@ The fundamental goal of the repose domain is to ensure peaceful, secure rest for
 
 **Peaceful Rest (Su)**
 
-You become permanently under the effects of death ward. As a standard action, you can spend 1 point of faith to extend this effect into an aura affecting allies within 30 feet for a number of minutes equal to your Wisdom modifier. A creature who dies under this effect does not rise as an undead, even if an effect such as ghoul fever or create spawn would cause them to.
+You become permanently under the effects of death ward. As a standard action (1 AP), you can spend 1 point of faith to extend this effect into an aura affecting allies within 30 feet for a number of minutes equal to your Wisdom modifier. A creature who dies under this effect does not rise as an undead, even if an effect such as ghoul fever or create spawn would cause them to.
 
 **Exhausting Channel (Su)**
 
-Starting at 16th level, you can spend 1 point of faith and a use of channel as a standard action to sap the energy from creatures around you. Enemies within 30 feet of you must make a Will save against your channel DC. Living creatures who fail become [fatigued](../../../rules/appendices/conditions.md#fatigued), and undead creatures become staggered for the duration of the Turn Undead effect. A living creature who is already fatigued instead gains [sleep 1](../../../rules/appendices/conditions.md#sleep), while an undead creature who is already staggered becomes paralyzed, even if they would be immune to paralysis.
+Starting at 16th level, you can spend 1 point of faith and a use of channel as a standard action (1 AP) to sap the energy from creatures around you. Enemies within 30 feet of you must make a Will save against your channel DC. Living creatures who fail become [fatigued](../../../rules/appendices/conditions.md#fatigued), and undead creatures become staggered for the duration of the Turn Undead effect. A living creature who is already fatigued instead gains [sleep 1](../../../rules/appendices/conditions.md#sleep), while an undead creature who is already staggered becomes paralyzed, even if they would be immune to paralysis.
 
 **Domain Spells**
 
@@ -1046,7 +1046,7 @@ As a legendary cleric of the rune domain, you understand the value of the writte
 
 **Written Magic (Sp)**
 
-You gain Scribe Scroll as a bonus feat and can use Linguistics in place of Spellcraft when crafting scrolls. You can spend 1 point of faith as a standard action to cast comprehend languages as a spell-like ability.
+You gain Scribe Scroll as a bonus feat and can use Linguistics in place of Spellcraft when crafting scrolls. You can spend 1 point of faith as a standard action (1 AP) to cast comprehend languages as a spell-like ability.
 
 **Divine Translation (Su)**
 
@@ -1064,7 +1064,7 @@ Methods of communication form a cornerstone of civilization, and those with a ma
 
 **Polyglot (Sp)**
 
-You become permanently under the effects of tongues. As a standard action, you can spend 1 point of faith to grant your allies within 30 feet the effects of tongues for 10 minutes.
+You become permanently under the effects of tongues. As a standard action (1 AP), you can spend 1 point of faith to grant your allies within 30 feet the effects of tongues for 10 minutes.
 
 **Scrollmaster (Su)**
 
@@ -1094,15 +1094,15 @@ The domain of scalykind is unusual in its specific focus on snakes, lizards and 
 
 **Leather Skin (Su)**
 
-Your skin doesn’t bear the scales of your venerated creatures but is naturally tougher than most. You gain a +1 natural armor bonus to your armor class. This bonus increases by +1 at 5th level and every 4 levels thereafter, to a maximum of +5 at 17th level. As an immediate action you can spend 1 point of faith to double this bonus for 1 round, your skin turning to a facsimile of real scales. If the bonus is already doubled, you may spend a faith point as a free action to extend the duration for an additional round.
+Your skin doesn’t bear the scales of your venerated creatures but is naturally tougher than most. You gain a +1 natural armor bonus to your armor class. This bonus increases by +1 at 5th level and every 4 levels thereafter, to a maximum of +5 at 17th level. As an immediate action (1 AP of your next turn) you can spend 1 point of faith to double this bonus for 1 round, your skin turning to a facsimile of real scales. If the bonus is already doubled, you may spend a faith point as a free action to extend the duration for an additional round.
 
 **Snapping Fangs (Su)**
 
-Starting at 4th level, your canine teeth elongate, granting you a more fearsome visage. You can intimidate to demoralize creatures as a move action. As a swift action, you can spend 1 point of faith to grow your fangs larger and widen your jaw, granting you a bite natural attack that deals 1d6 points of damage for 1 minute.
+Starting at 4th level, your canine teeth elongate, granting you a more fearsome visage. You can intimidate to demoralize creatures as a move action (1 AP). As a swift action (1 AP), you can spend 1 point of faith to grow your fangs larger and widen your jaw, granting you a bite natural attack that deals 1d6 points of damage for 1 minute.
 
 **Hypnotic Gaze (Su)**
 
-At 8th level, you learn to harness the natural mind-altering powers many scalykind possess. As a standard action, you can spend 1 point of faith to fascinate a single creature for 1 round (Will negates). This fascination is only broken if the target is dealt damage.
+At 8th level, you learn to harness the natural mind-altering powers many scalykind possess. As a standard action (1 AP), you can spend 1 point of faith to fascinate a single creature for 1 round (Will negates). This fascination is only broken if the target is dealt damage.
 
 **Doctrine of Dragonkind**
 
@@ -1150,7 +1150,7 @@ You gain either Dirty Fighting or Power Attack as a bonus feat, ignoring prerequ
 
 **Might of the Gods (Su)**
 
-At 4th level, you can spend 1 point of faith as an immediate action to infuse your muscles with divine energy, adding your cleric level as an enhancement bonus to your Strength score for one round. This bonus only applies to combat maneuvers, carrying capacity, Strength-based skill checks, and Strength checks.
+At 4th level, you can spend 1 point of faith as an immediate action (1 AP of your next turn) to infuse your muscles with divine energy, adding your cleric level as an enhancement bonus to your Strength score for one round. This bonus only applies to combat maneuvers, carrying capacity, Strength-based skill checks, and Strength checks.
 
 **Powerful Presence (Su)**
 
@@ -1176,7 +1176,7 @@ Strength is a force that allows one to tower over any obstacle and tread them un
 
 **Giant’s Stature (Su)**
 
-As a swift action, you can spend 1 point of faith to grow one size category, as enlarge person. This effect lasts for 1 minute. Whenever you cast a spell which would increase your size, you may spend 1 point of faith to increase your size by one additional size category, increasing any size bonuses you receive to Strength or Constitution by 2.
+As a swift action (1 AP), you can spend 1 point of faith to grow one size category, as enlarge person. This effect lasts for 1 minute. Whenever you cast a spell which would increase your size, you may spend 1 point of faith to increase your size by one additional size category, increasing any size bonuses you receive to Strength or Constitution by 2.
 
 **Titanic Blows (Su)**
 
@@ -1244,7 +1244,7 @@ At 1st level, you can expend 1 point of faith to gain one of the following natur
 
 **Ominous Presence (Ex)**
 
-At 4th level, your appearance begins to take on the aspects of the monstrous creatures you venerate. This allows you to use Intimidate to demoralize as a move action and you can expend 1 point of faith as a free action to increase the DCs of any spells you cast with the fear descriptor by 1/4 your class level for 1 round.
+At 4th level, your appearance begins to take on the aspects of the monstrous creatures you venerate. This allows you to use Intimidate to demoralize as a move action (1 AP) and you can expend 1 point of faith as a free action to increase the DCs of any spells you cast with the fear descriptor by 1/4 your class level for 1 round.
 
 **New Forms (Su)**
 
@@ -1268,7 +1268,7 @@ At 4th level, all of your movement speeds increase by 10 feet. You may spend a f
 
 **Dimensional Hop (Sp)**
 
-At 8th level, you can teleport up to 10 feet per cleric level per day as a move action. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature brought.
+At 8th level, you can teleport up to 10 feet per cleric level per day as a move action (1 AP). This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature brought.
 
 **Doctrine of Gateways**
 
@@ -1294,7 +1294,7 @@ The benefits of blessed alacrity apply to all allies within 30 feet of you. For 
 
 **Make Your Way (Su)**
 
-At 16th level, any ally which starts their turn benefiting from your pathforger ability may spend a swift action to move up to their speed once per round.
+At 16th level, any ally which starts their turn benefiting from your pathforger ability may spend a swift action (1 AP) to move up to their speed once per round.
 
 **Domain Spells**
 
@@ -1308,7 +1308,7 @@ The domain of trickery is one of subterfuge and deception. As a legendary cleric
 
 **Copycat (Sp)**
 
-You can create an illusory double of yourself as a move action by spending a faith point. This double functions as a single mirror image and lasts for a number of rounds equal to your cleric level or until the illusory duplicate is dispelled or destroyed. An additional mirror image is created at 4th level and every 3 cleric levels thereafter. You can have no more than one copycat effect at a time. This ability does not stack with the mirror image spell.
+You can create an illusory double of yourself as a move action (1 AP) by spending a faith point. This double functions as a single mirror image and lasts for a number of rounds equal to your cleric level or until the illusory duplicate is dispelled or destroyed. An additional mirror image is created at 4th level and every 3 cleric levels thereafter. You can have no more than one copycat effect at a time. This ability does not stack with the mirror image spell.
 
 **Domain Spells**
 
@@ -1326,7 +1326,7 @@ You gain either the telekinetic blast or gravity blast wild talent and the kinet
 
 **Fortified Mind (Su)**
 
-At 4th level, you and all allies within 10 feet of you gain a +2 bonus on saving throws against mind-affecting effects. You may spend a faith point as an immediate action to increase this bonus to half your cleric level (minimum +3) for 1 round.
+At 4th level, you and all allies within 10 feet of you gain a +2 bonus on saving throws against mind-affecting effects. You may spend a faith point as an immediate action (1 AP of your next turn) to increase this bonus to half your cleric level (minimum +3) for 1 round.
 
 **Part the Veil (Su)**
 
@@ -1344,7 +1344,7 @@ Whenever you use part the veil, you may affect a number of creatures up to half 
 
 **Roguish Escape (Su)**
 
-Starting at 4th level, as an immediate action, after you are missed by an attack or succeed at a saving throw, you can spend a faith point to teleport up to 10 feet to a space that you can see.
+Starting at 4th level, as an immediate action (1 AP of your next turn), after you are missed by an attack or succeed at a saving throw, you can spend a faith point to teleport up to 10 feet to a space that you can see.
 
 **Subtle Caster (Su)**
 
@@ -1428,7 +1428,7 @@ You gain an additional teamwork feat as a bonus feat plus a third teamwork feat 
 
 **Rally ‘Round the Flag (Ex)**
 
-At 16th level, you gain the banner and greater banner class features of a cavalier of your cleric level, and your banner is considered visible so long as your holy symbol is visible. You may select an alternate banner if you so wish. By spending a faith point, you may wave your standard as a move action rather than a standard action.
+At 16th level, you gain the banner and greater banner class features of a cavalier of your cleric level, and your banner is considered visible so long as your holy symbol is visible. You may select an alternate banner if you so wish. By spending a faith point, you may wave your standard as a move action (1 AP) rather than a standard action.
 
 **Doctrine of the Soldier**
 

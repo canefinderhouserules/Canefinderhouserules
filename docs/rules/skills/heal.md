@@ -32,7 +32,7 @@ A creature wounded by a *spike growth* or *spike stones* spell must succeed on a
 
 *Treat Disease*: To treat a disease means to tend to a single diseased character. Every time the diseased character makes a saving throw against disease effects, you make a Heal check. If your Heal check exceeds the DC of the disease, the character receives a +4 competence bonus on his saving throw against the disease.
 
-**Action**: Providing first aid, treating a wound, or treating poison is a standard action. Treating a disease or tending a creature wounded by a *spike growth* or *spike stones* spell takes 10 minutes of work. Treating deadly wounds takes 1 hour of work. Providing long-term care requires 8 hours of light activity.
+**Action**: Providing first aid, treating a wound, or treating poison is a standard action (1 AP). Treating a disease or tending a creature wounded by a *spike growth* or *spike stones* spell takes 10 minutes of work. Treating deadly wounds takes 1 hour of work. Providing long-term care requires 8 hours of light activity.
 
 **Try Again**: Varies. Generally speaking, you can’t try a Heal check again without witnessing proof of the original check’s failure. You can always retry a check to provide first aid, assuming the target of the previous attempt is still alive.
 

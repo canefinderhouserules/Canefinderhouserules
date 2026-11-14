@@ -20,6 +20,6 @@ Monkey goblins lead savage lives, and many take levels in the barbarian class, t
 
 **Natural Climber**: Monkey goblins have a climb speed of 30 feet.
 
-**Prehensile Tail (Ex)**: All monkey goblins have long, flexible tails that they can use to carry objects. They cannot wield weapons with their tails, but the tails do allow them to retrieve small objects stowed on their persons as a swift action.
+**Prehensile Tail (Ex)**: All monkey goblins have long, flexible tails that they can use to carry objects. They cannot wield weapons with their tails, but the tails do allow them to retrieve small objects stowed on their persons as a swift action (1 AP).
 
 **Languages**: Monkey goblins begin play speaking Goblin. Monkey goblins with high Intelligence scores can choose from the following: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, Orc.

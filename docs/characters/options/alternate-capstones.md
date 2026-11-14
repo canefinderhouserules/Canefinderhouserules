@@ -58,7 +58,7 @@ The following capstone abilities are available for characters of specific classe
 
 **Rogue or Unchained Rogue—Masterful Talent (Ex)**: At 20th level, the rogue has been a thief, an actor, a merchant, a scout, a confessor, a friend, an assassin, and a dozen more things besides. The rogue gains a +4 bonus on all of her skills.
 
-**Samurai—Indomitable Spirit (Ex)**: At 20th level, the sight of the samurai on the battlefield gives heart to even the most doomed force. The range of the samurai's banner increases by 90 feet, the bonuses offered by the banner increase by 2, and the samurai can wave his banner to use its ability as a move action instead of a standard action.
+**Samurai—Indomitable Spirit (Ex)**: At 20th level, the sight of the samurai on the battlefield gives heart to even the most doomed force. The range of the samurai's banner increases by 90 feet, the bonuses offered by the banner increase by 2, and the samurai can wave his banner to use its ability as a move action (1 AP) instead of a standard action.
 
 **Shaman—Hex Mastery (Su)**: At 20th level, the shaman has learned ever more terrible hexes. She can select one grand hex from the list available to witches.
 
@@ -120,4 +120,4 @@ Rather than gaining a capstone, an alchemist can select the following grand disc
 
 Rather than gaining a capstone, a witch can select the following grand hex.
 
-**Witch's Dance (Ex)**: Once per day as a standard action, the witch can proclaim a celebration, leading her friends in a riotous and bloodthirsty dance. All allies within 30 feet gain the ability to fly (as per the flight hex) and a +2 dodge bonus to AC, and when they take a 5-foot step, they can instead move up to 10 feet instead of just 5 feet. The benefits remain for 1 round but can be extended with the cackle hex.
+**Witch's Dance (Ex)**: Once per day as a standard action (1 AP), the witch can proclaim a celebration, leading her friends in a riotous and bloodthirsty dance. All allies within 30 feet gain the ability to fly (as per the flight hex) and a +2 dodge bonus to AC, and when they take a 5-foot step, they can instead move up to 10 feet instead of just 5 feet. The benefits remain for 1 round but can be extended with the cackle hex.

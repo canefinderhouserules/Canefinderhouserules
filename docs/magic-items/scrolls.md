@@ -8,7 +8,7 @@ To protect it from wrinkling or tearing, a scroll is rolled up from both ends to
 
 **Activation**: To activate a scroll, a spellcaster must read the spell written on it. This involves several steps and conditions.
 
-**Decipher the Writing**: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a read magic spell or a successful Spellcraft check (DC 20 + spell level). Deciphering a scroll is a full-round action.
+**Decipher the Writing**: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a read magic spell or a successful Spellcraft check (DC 20 + spell level). Deciphering a scroll is a full-round action (3 AP).
 
 Deciphering a scroll to determine its contents does not activate its magic unless it is a specially prepared cursed scroll. A character can decipher the writing on a scroll in advance so that she can proceed directly to the next step when the time comes to use the scroll.
 
@@ -24,7 +24,7 @@ Arcane spellcasters (wizards, sorcerers, and bards) can only use scrolls contain
 
 - The user must have the requisite ability score.
 
-If the user meets all the requirements noted above, and her caster level is at least equal to the spell’s caster level, she can automatically activate the spell without a check. If she meets all three requirements but her own caster level is lower than the scroll spell’s caster level, then she has to make a caster level check (DC = scroll’s caster level + 1) to cast the spell successfully. If she fails, she must make a DC 5 Wisdom check to avoid a mishap (see Scroll Mishaps below). A natural roll of 1 always fails, whatever the modifiers. If the caster level check fails but no mishap occurs, the scroll is not expended. Activating a scroll is a standard action (or the spell’s casting time, whichever is longer) and it provokes attacks of opportunity exactly as casting a spell does.
+If the user meets all the requirements noted above, and her caster level is at least equal to the spell’s caster level, she can automatically activate the spell without a check. If she meets all three requirements but her own caster level is lower than the scroll spell’s caster level, then she has to make a caster level check (DC = scroll’s caster level + 1) to cast the spell successfully. If she fails, she must make a DC 5 Wisdom check to avoid a mishap (see Scroll Mishaps below). A natural roll of 1 always fails, whatever the modifiers. If the caster level check fails but no mishap occurs, the scroll is not expended. Activating a scroll is a standard action (1 AP) (or the spell’s casting time, whichever is longer) and it provokes attacks of opportunity exactly as casting a spell does.
 
 **Determine Effect**: A spell successfully activated from a scroll works exactly like a spell prepared and cast the normal way. Assume the scroll spell’s caster level is always the minimum level required to cast the spell for the character who scribed the scroll, unless the scriber specifically desired otherwise. The writing for an activated spell disappears from the scroll as the spell is cast.
 

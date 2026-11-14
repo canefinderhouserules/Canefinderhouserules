@@ -16,7 +16,7 @@ Vanaras are intelligent, monkeylike humanoids that live in deep, warm forests an
 
 **Nimble**: Vanaras have a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Stealth](../../rules/skills/stealth.md) checks.
 
-**Prehensile Tail**: A vanara has a long, flexible tail that she can use to carry objects. She cannot wield weapons with her tail, but the tail allows her to retrieve a small, stowed object carried on her person as a swift action.
+**Prehensile Tail**: A vanara has a long, flexible tail that she can use to carry objects. She cannot wield weapons with her tail, but the tail allows her to retrieve a small, stowed object carried on her person as a swift action (1 AP).
 
 **Languages**: Vanaras begin play speaking Common and Vanaran. Vanaras with high Intelligence scores can choose from the following: Aklo, Celestial, Elven, Gnome, Goblin, and Sylvan.
 
@@ -30,7 +30,7 @@ The following racial traits may be selected instead of existing vanara racial tr
 
 **Acrobatic**: Vanaras are often extraordinarily agile, capable of dancing around slower-moving humans with playful grace. They gain a +2 racial bonus on Acrobatics and [Escape Artist](../../rules/skills/escape-artist.md) checks. This racial trait replaces nimble.
 
-**Change Size (Su)**: One vanara in every 500 is gifted with limited shapeshifting ability. Such a creature can adjust her size at will. She gains the change shape ability and the shapeshifter subtype. Instead of changing appearance, she can use change shape to reduce her size category to Small. Her ability scores don't change, only her size (and thus her weapon damage); normal size penalties and bonuses to AC and CMD and on attack and skill rolls apply. Changing size or returning to her true size is a full-round action. This racial trait alters the vanara's type and replaces nimble.
+**Change Size (Su)**: One vanara in every 500 is gifted with limited shapeshifting ability. Such a creature can adjust her size at will. She gains the change shape ability and the shapeshifter subtype. Instead of changing appearance, she can use change shape to reduce her size category to Small. Her ability scores don't change, only her size (and thus her weapon damage); normal size penalties and bonuses to AC and CMD and on attack and skill rolls apply. Changing size or returning to her true size is a full-round action (3 AP). This racial trait alters the vanara's type and replaces nimble.
 
 ## Favored Class Options
 

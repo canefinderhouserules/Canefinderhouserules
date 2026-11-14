@@ -46,7 +46,7 @@ This crudely carved wax doll is roughly humanoid in shape. If the bearer of a *c
 
 *Aura* moderate enchantment and evocation; *CL* 7th; *Slot* none; *Price* 700 gp; *Weight* 1 lb.
 
-Silvery, pearlescent light seeps out of this skull-sized glass orb. When shattered (a standard action), the globe floods a 30-foot-radius burst in moonlight. Creatures that are affected by the light of the full moon (such as an afflicted lycanthrope) are affected as if exposed to such light, and effects that rely on moonlight function within range of this effect. This moonlight persists for 1 minute, is treated as dim light (replacing any current illumination in the area), and is equivalent to a 4th-level *light* spell for the purpose of interacting with other light or darkness effects.
+Silvery, pearlescent light seeps out of this skull-sized glass orb. When shattered (a standard action (1 AP)), the globe floods a 30-foot-radius burst in moonlight. Creatures that are affected by the light of the full moon (such as an afflicted lycanthrope) are affected as if exposed to such light, and effects that rely on moonlight function within range of this effect. This moonlight persists for 1 minute, is treated as dim light (replacing any current illumination in the area), and is equivalent to a 4th-level *light* spell for the purpose of interacting with other light or darkness effects.
 
 *Construction* Craft Wondrous Item, *light*, *moonstruck*; Cost 350 gp.
 
@@ -54,7 +54,7 @@ Silvery, pearlescent light seeps out of this skull-sized glass orb. When shatter
 
 *Aura* moderate divination; *CL* 7th; *Slot* none; *Price* 2,650 gp; *Weight* —
 
-This intricate mechanism opens like a pocket watch to reveal a set of dials indicating the current phase of the moon, as well as the previous and upcoming phases. A moon clock can be destroyed as a standard action to release a powerful blast of lunar energy in a 30-foot-radius burst. Lycanthropes in the area of this blast must succeed at a DC 20 Will save or revert to their humanoid forms.
+This intricate mechanism opens like a pocket watch to reveal a set of dials indicating the current phase of the moon, as well as the previous and upcoming phases. A moon clock can be destroyed as a standard action (1 AP) to release a powerful blast of lunar energy in a 30-foot-radius burst. Lycanthropes in the area of this blast must succeed at a DC 20 Will save or revert to their humanoid forms.
 
 *Construction* Craft Wondrous Item, *divination*, *lunar veil*; Cost 1,325 gp.
 
@@ -62,9 +62,9 @@ This intricate mechanism opens like a pocket watch to reveal a set of dials indi
 
 *Aura* faint divination; *CL* 3rd; *Slot* head; *Price* 11,475 gp; *Weight* —
 
-This item allows its wearer to smell curses as an unearthly odor with traces of brimstone and iron. As a standard action, the wearer can bring its nose near an object or creature and sniff the target to glean information as if using *detect magic*, except this effect only detects curses and cursed items. The wearer must concentrate as normal to learn all possible information about the object or creature in question.
+This item allows its wearer to smell curses as an unearthly odor with traces of brimstone and iron. As a standard action (1 AP), the wearer can bring its nose near an object or creature and sniff the target to glean information as if using *detect magic*, except this effect only detects curses and cursed items. The wearer must concentrate as normal to learn all possible information about the object or creature in question.
 
-Once per day as a standard action, the wearer can sniff the air for signs of danger while considering a specific course of action to gain an effect similar to *augury*. The perceived smell of a favorite food indicates "weal" and the smell of death indicates "woe."
+Once per day as a standard action (1 AP), the wearer can sniff the air for signs of danger while considering a specific course of action to gain an effect similar to *augury*. The perceived smell of a favorite food indicates "weal" and the smell of death indicates "woe."
 
 *Construction* Craft Wondrous Item, *augury*, *detect magic*; Cost 5,737 gp 5 sp.
 
@@ -99,6 +99,6 @@ Other pelts of the beast may be available at the GM's discretion.
 
 *Aura* moderate transmutation; *CL* 11th; *Slot* none; *Price* 12,000 gp; *Weight* —
 
-Carved from a piece of bone from the kind of animal it depicts, this primitive charm can hold (but not cast) up to 3 levels of spells as a minor *ring of spell storing*. When the bearer uses a polymorph effect or other ability to transform into an animal that matches the animal the totem depicts (including dire versions), it can use one of the spells stored within on itself as a swift action. This spell must be able to target the bearer in its animal form. The bearer does not need to be able to cast the spell contained within a spell totem in order to use this item. When the bearer changes shape again, either by taking the form of a different creature or by reverting to its natural form, the spell cast from the totem immediately ends, as though the duration had expired. Spell totems can be crafted in the form of animals or magical beasts.
+Carved from a piece of bone from the kind of animal it depicts, this primitive charm can hold (but not cast) up to 3 levels of spells as a minor *ring of spell storing*. When the bearer uses a polymorph effect or other ability to transform into an animal that matches the animal the totem depicts (including dire versions), it can use one of the spells stored within on itself as a swift action (1 AP). This spell must be able to target the bearer in its animal form. The bearer does not need to be able to cast the spell contained within a spell totem in order to use this item. When the bearer changes shape again, either by taking the form of a different creature or by reverting to its natural form, the spell cast from the totem immediately ends, as though the duration had expired. Spell totems can be crafted in the form of animals or magical beasts.
 
 *Construction* Craft Wondrous Item, Quicken Spell, *contingency*, *imbue with spell ability*; Cost 6,000 gp.

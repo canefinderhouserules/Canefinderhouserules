@@ -79,7 +79,7 @@ At 2nd level, a Green Faith acolyte gains the [druid’s wild shape](../classes/
 
 #### Hibernate (Su)
 
-At 3rd level, a Green Faith acolyte can enter a state of suspended animation as a full-round action. This state is similar to the effect of [*sepia snake sigil*](../../magic/spells/sepia-snake-sigil.md), except that the Green Faith acolyte is aware of changes in her surroundings or harm to her body as if deeply asleep. She can end this state at any time as a full-round action. If she remains in hibernation for at least a week before emerging, her body is renewed as if by both a [*heal*](../../magic/spells/heal.md) spell and a [*restoration*](../../magic/spells/restoration.md) spell. A Green Faith acolyte can remain in this state for up to 1 week per class level, after which she must wait 1 day for each week spent hibernating before entering hibernation again.
+At 3rd level, a Green Faith acolyte can enter a state of suspended animation as a full-round action (3 AP). This state is similar to the effect of [*sepia snake sigil*](../../magic/spells/sepia-snake-sigil.md), except that the Green Faith acolyte is aware of changes in her surroundings or harm to her body as if deeply asleep. She can end this state at any time as a full-round action (3 AP). If she remains in hibernation for at least a week before emerging, her body is renewed as if by both a [*heal*](../../magic/spells/heal.md) spell and a [*restoration*](../../magic/spells/restoration.md) spell. A Green Faith acolyte can remain in this state for up to 1 week per class level, after which she must wait 1 day for each week spent hibernating before entering hibernation again.
 
 #### Power over Nature (Su)
 

@@ -79,7 +79,7 @@ At 3rd level, a gray knight gains a +2 bonus on weapon attack and damage rolls a
 
 #### Breathe Easy (Sp)
 
-At 4th level, a gray knight can cast [*water breathing*](../../magic/spells/water-breathing.md) once per day as a spell-like ability (CL = the gray knight’s class level). The gray knight can use this ability as a move action or an immediate action if he so chooses. When used as a move action, the ability can affect only one creature, but can do so at a range of 120 feet. When used as an immediate action, the ability can affect only one creature, but can do so at a range of 60 feet, and its duration is reduced to 1 minute per level. A gray knight can use this ability twice per day at 7th level, and up to three times per day at 10th level.
+At 4th level, a gray knight can cast [*water breathing*](../../magic/spells/water-breathing.md) once per day as a spell-like ability (CL = the gray knight’s class level). The gray knight can use this ability as a move action (1 AP) or an immediate action (1 AP of your next turn) if he so chooses. When used as a move action (1 AP), the ability can affect only one creature, but can do so at a range of 120 feet. When used as an immediate action (1 AP of your next turn), the ability can affect only one creature, but can do so at a range of 60 feet, and its duration is reduced to 1 minute per level. A gray knight can use this ability twice per day at 7th level, and up to three times per day at 10th level.
 
 #### Grim Resolve (Ex)
 
@@ -87,7 +87,7 @@ At 5th level, a gray knight becomes immune to fear effects and adds his Wisdom b
 
 #### Grant Freedom (Sp)
 
-At 9th level, a gray knight gains the effects of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) as a constant spell-like ability (his effective caster level equals his class level). As a swift action, he can transfer this effect to a creature by touch, but in this case the effect persists for only 1 minute per effective caster level. When he does so, he regains the benefits of this ability 24 hours later.
+At 9th level, a gray knight gains the effects of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) as a constant spell-like ability (his effective caster level equals his class level). As a swift action (1 AP), he can transfer this effect to a creature by touch, but in this case the effect persists for only 1 minute per effective caster level. When he does so, he regains the benefits of this ability 24 hours later.
 
 #### Whisk to Freedom (Sp)
 

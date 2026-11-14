@@ -18,6 +18,9 @@ All of the hasted creature’s modes of movement (including land movement, burro
 
 Once per turn, a hasted creature can cast a spell at least 2 levels lower than the highest-level spell it can cast as if it were quickened, under the same rules as the [Quicken Spell](../../rules/feats/quicken-spell.md) feat. This does not stack with [Quicken Spell](../../rules/feats/quicken-spell.md).
 
+??? tip apr "Action Points (optional rule)"
+    *Haste* costs 2 AP. Each hasted creature gets 1 extra AP every turn, for anything, while the spell lasts, together with the speed, attack, AC and Reflex bonuses; it no longer grants an extra attack on a full attack. As a house rule with action points, *haste* on one creature is a 3rd-level spell and on many creatures a 4th-level spell (for the medium, 2nd and 3rd level).
+
 ??? note "Original rule"
 
     **School** transmutation; **Level** bard 3, sorcerer/wizard 3  

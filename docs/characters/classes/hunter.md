@@ -102,9 +102,9 @@ At 1st level, a hunter forms a bond with an animal companion. A hunter may begin
 
 ### Animal Focus (Su)
 
-At 1st level, a hunter can take on the aspect of an animal as a swift action. She must select one type of animal to emulate, gaining a bonus or special ability based on the type of animal emulated and her hunter level. The hunter can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but must be spent in I-minute increments. The hunter can emulate only one animal at a time.
+At 1st level, a hunter can take on the aspect of an animal as a swift action (1 AP). She must select one type of animal to emulate, gaining a bonus or special ability based on the type of animal emulated and her hunter level. The hunter can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but must be spent in I-minute increments. The hunter can emulate only one animal at a time.
 
-The hunter can also apply one of these aspects to her animal companion. Unlike with the hunter herself, there is no duration on the animal aspect applied to her animal companion. An aspect applied in this way does not count against the hunter's minutes of duration per day-it remains in effect until the hunter changes it. The companion's aspect can be the same aspect the ranger has taken on or a different one. The hunter can select or change the animal foci on 5 5 5 5 4 3 5 5 5 5 5 4 5 5 5 5 5 5 both herself and her animal companion as part of the same swift action.
+The hunter can also apply one of these aspects to her animal companion. Unlike with the hunter herself, there is no duration on the animal aspect applied to her animal companion. An aspect applied in this way does not count against the hunter's minutes of duration per day-it remains in effect until the hunter changes it. The companion's aspect can be the same aspect the ranger has taken on or a different one. The hunter can select or change the animal foci on 5 5 5 5 4 3 5 5 5 5 5 4 5 5 5 5 5 5 both herself and her animal companion as part of the same swift action (1 AP).
 
 If the hunter's animal companion is dead, the hunter can apply her companion's animal focus to herself instead of her animal companion. This is in addition to the normal one she can choose, and (as with a companion's focus) remains in effect until the hunter changes it instead of counting against her minutes per day.
 
@@ -184,13 +184,13 @@ At 3rd level, the hunter automatically grants her teamwork feats to her animal c
 
 At 3rd level and every 3 levels thereafter, the hunter gains a bonus teamwork feat in addition to those gained from normal advancement. The hunter must meet the prerequisites of the selected bonus teamwork feat.
 
-As a standard action, the hunter can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat she has already learned.
+As a standard action (1 AP), the hunter can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat she has already learned.
 
 In effect, the hunter loses the bonus feat in exchange for the new one. She can change only the most recent teamwork feat gained, and must meet the prerequisites for the newly selected feat. A hunter can change her most recent teamwork feat a number of times per day equal to her Wisdom modifier (minimum 1). Whenever she gains a new teamwork feat, her previous teamwork feats become permanent.
 
 ### Improved Empathic Link (Su)
 
-At 4th level, the hunter gains an empathic link with her animal companion. This functions like an empathic link with a familiar, except the hunter can also see through a companion's eyes as a swift action, maintaining this connection as long as she likes (as long as the companion is within 1 mile) and ending it as a free action. The hunter is [blinded](../../rules/appendices/conditions.md#blinded) while maintaining this connection.
+At 4th level, the hunter gains an empathic link with her animal companion. This functions like an empathic link with a familiar, except the hunter can also see through a companion's eyes as a swift action (1 AP), maintaining this connection as long as she likes (as long as the companion is within 1 mile) and ending it as a free action. The hunter is [blinded](../../rules/appendices/conditions.md#blinded) while maintaining this connection.
 
 ### Woodland Stride (Ex)
 
@@ -226,7 +226,7 @@ At 14th level, the range of the hunter's empathic link with her animal companion
 
 At 17th level, the hunter and her animal companion are respected or even feared by other animals, so long as the animals are approximately of the same type as any of the hunter's current animal foci: bat for bats, tiger with felines, falcon for birds, snake for reptiles, and so on. No animal in this category (including dire varieties) willingly attacks the hunter or her companion unless magically compelled to or if the hunter or companion attacks it first.
 
-The hunter and her companion can attempt to demoralize animals in the appropriate category as a swift action, rolling 1d20 and adding the hunter's level and her Charisma modifier to determine the [Intimidate](../../rules/skills/intimidate.md) check result.
+The hunter and her companion can attempt to demoralize animals in the appropriate category as a swift action (1 AP), rolling 1d20 and adding the hunter's level and her Charisma modifier to determine the [Intimidate](../../rules/skills/intimidate.md) check result.
 
 ### Master Hunter (Ex)
 

@@ -22,7 +22,7 @@ The flash is usually a combination of a visual and aural stimulation, which disp
 
 An aeon’s envisaging functions as a non-verbal form of telepathy. Aeons cannot read the thoughts of any creature immune to mind-affecting effects.
 
-Extension of All (Ex) Through an aeon’s connection to the multiverse, it gains access to strange and abstruse knowledge that filters through all existence. Much of the knowledge is timeless, comprised of events long past, present, and potentially even those yet to come. Aeons gain a racial bonus equal to half their racial Hit Dice on all Knowledge skill checks. This same connection also binds them to other aeons. As a result, they can communicate with each other freely, over great distances as if using telepathy. This ability also works across planes, albeit less effectively, allowing the communication of vague impressions or feelings, not specific details or sights. Due to the vast scope of the aeon race’s multiplanar concerns, though, even the most dire reports of a single aeon rarely inspire dramatic or immediate action.
+Extension of All (Ex) Through an aeon’s connection to the multiverse, it gains access to strange and abstruse knowledge that filters through all existence. Much of the knowledge is timeless, comprised of events long past, present, and potentially even those yet to come. Aeons gain a racial bonus equal to half their racial Hit Dice on all Knowledge skill checks. This same connection also binds them to other aeons. As a result, they can communicate with each other freely, over great distances as if using telepathy. This ability also works across planes, albeit less effectively, allowing the communication of vague impressions or feelings, not specific details or sights. Due to the vast scope of the aeon race’s multiplanar concerns, though, even the most dire reports of a single aeon rarely inspire dramatic or immediate action (1 AP of your next turn).
 
 Void Form (Su) Though aeons aren’t incorporeal, their forms are only a semi-tangible manifestation of something greater. An aeon’s void form grants it a deflection bonus equal to 1/4 its Hit Dice (rounded down).
 
@@ -162,7 +162,7 @@ A behemoth is a neutral Colossal magical beast of great strength and power. Behe
 
 - Behemoths eat, but do not breathe or sleep.
 
-- Ruinous (Su) A behemoth’s natural attacks penetrate damage reduction as if they were epic and magic, and ignore up to 20 points of hardness on objects struck. As a swift action, whenever it strikes a creature or object with a spell effect in place, it can attempt to dispel one randomly determined spell effect on that creature as if with a greater dispel magic (CL 20th).
+- Ruinous (Su) A behemoth’s natural attacks penetrate damage reduction as if they were epic and magic, and ignore up to 20 points of hardness on objects struck. As a swift action (1 AP), whenever it strikes a creature or object with a spell effect in place, it can attempt to dispel one randomly determined spell effect on that creature as if with a greater dispel magic (CL 20th).
 
 - Unstoppable (Ex) If a behemoth starts its turn suffering from any or all of the following conditions, it recovers from them at the end of its turn: blind, confused, dazed, deafened, dazzled, exhausted, fatigued, nauseated, sickened, slowed, staggered, and stunned.
 
@@ -232,11 +232,11 @@ Colossi are mythic constructs of Gargantuan size or larger. Unless otherwise not
 
 - Mythic Creation (Ex): A colossus can be created only by a creator with a mythic tier or rank equal to or greater than that of the colossus it is attempting to create.
 
-- Mythic Quickening (Sp): As a swift action, a colossus can expend one use of mythic power to cast or activate one of its spell-like abilities as a free action.
+- Mythic Quickening (Sp): As a swift action (1 AP), a colossus can expend one use of mythic power to cast or activate one of its spell-like abilities as a free action.
 
-- Mythic Resilience (Ex): A colossus can expend one use of mythic power as swift action to double its damage resistance for 1 round.
+- Mythic Resilience (Ex): A colossus can expend one use of mythic power as swift action (1 AP) to double its damage resistance for 1 round.
 
-- Pinning Stomp (Ex): When a colossus is in its normal form, as a swift action it can make a single melee attack at its highest base attack against a target three or more size categories smaller than the colossus. This attack deals an amount of damage equal to twice that of its slam attack + 1-1/2 times the colossus’s Strength bonus. If the colossus hits with this attack, it can attempt a grapple check as a free action. This grapple doesn’t provoke attacks of opportunity. If the grapple is successful, the target is pinned and takes an amount of damage equal to that of the colossus’s slam attack each round at the start of the colossus’s turn until either the pinned creature frees itself or the colossus moves out of the pinned creature’s space. The colossus doesn’t need to attempt grapple checks to continue the pin, nor can it attempt a check to move, further damage, or tie up the grappled creature. A colossus can have at most two creatures pinned with this attack at one time.
+- Pinning Stomp (Ex): When a colossus is in its normal form, as a swift action (1 AP) it can make a single melee attack at its highest base attack against a target three or more size categories smaller than the colossus. This attack deals an amount of damage equal to twice that of its slam attack + 1-1/2 times the colossus’s Strength bonus. If the colossus hits with this attack, it can attempt a grapple check as a free action. This grapple doesn’t provoke attacks of opportunity. If the grapple is successful, the target is pinned and takes an amount of damage equal to that of the colossus’s slam attack each round at the start of the colossus’s turn until either the pinned creature frees itself or the colossus moves out of the pinned creature’s space. The colossus doesn’t need to attempt grapple checks to continue the pin, nor can it attempt a check to move, further damage, or tie up the grappled creature. A colossus can have at most two creatures pinned with this attack at one time.
 
 - Selective Antimagic Aura (Su): A colossus exudes a constant antimagic field, as the spell, with a radius equal to its reach.
 
@@ -430,7 +430,7 @@ A Great Old One is a powerful, alien entity. All Great Old Ones are chaotic, and
 
 - Immunity to ability damage, ability drain, aging, cold, death effects, disease, energy drain, mind-affecting effects, paralysis, and petrification.
 
-- Insanity (Ex): Any creature that attempts to interact directly with a Great Old One’s thoughts (such as via detect thoughts or telepathy) must succeed at a Will save or be driven permanently insane. The save DC is equal to 10 + 1/2 the Great Old One’s Hit Dice + the Great Old One’s Charisma modifier. This duplicates the effect of the insanity spell, or the insanity rules in the Pathfinder RPG GameMastery Guide (in which case the save DC is also the ongoing insanity DC). A Great Old One using its telepathy to communicate doesn’t activate this ability unless it spends a standard action to focus its mind on one opponent. This is a mindaffecting effect.
+- Insanity (Ex): Any creature that attempts to interact directly with a Great Old One’s thoughts (such as via detect thoughts or telepathy) must succeed at a Will save or be driven permanently insane. The save DC is equal to 10 + 1/2 the Great Old One’s Hit Dice + the Great Old One’s Charisma modifier. This duplicates the effect of the insanity spell, or the insanity rules in the Pathfinder RPG GameMastery Guide (in which case the save DC is also the ongoing insanity DC). A Great Old One using its telepathy to communicate doesn’t activate this ability unless it spends a standard action (1 AP) to focus its mind on one opponent. This is a mindaffecting effect.
 
 - Mythic (Su): A Great Old One has mythic power (10/day, surge +1d12) and counts as a 10th-rank mythic creature. A Great Old One can use any of its spell-like abilities as the mythic versions of those spells (if a mythic version of that spell exists), expending mythic power as normal. It can also expend mythic power to use the augmented versions of these spell-like abilities.
 
@@ -514,7 +514,7 @@ A kami has the following traits unless otherwise noted in a creature’s entry.
 
 - Fast Healing (Ex): As long as a kami is within 120 feet of its ward, it gains fast healing. The amount of fast healing it gains depends on the type of kami.
 
-- Merge with Ward (Su): As a standard action, a kami can merge its body and mind with its ward. When merged, the kami can observe the surrounding region with its senses as if it were using its own body, as well as via any senses its ward might have. It has no control over its ward, nor can it communicate or otherwise take any action other than to emerge from its ward as a standard action. A kami must be adjacent to its ward to merge with or emerge from it. If its ward is a creature, plant, or object, the kami can emerge mounted on the creature provided the kami’s body is at least one size category smaller than the creature.
+- Merge with Ward (Su): As a standard action (1 AP), a kami can merge its body and mind with its ward. When merged, the kami can observe the surrounding region with its senses as if it were using its own body, as well as via any senses its ward might have. It has no control over its ward, nor can it communicate or otherwise take any action other than to emerge from its ward as a standard action (1 AP). A kami must be adjacent to its ward to merge with or emerge from it. If its ward is a creature, plant, or object, the kami can emerge mounted on the creature provided the kami’s body is at least one size category smaller than the creature.
 
 If its ward is a location, the kami may emerge at any point within that location.
 
@@ -562,7 +562,7 @@ A leshy is a nature spirit that inhabits the body of a specially grown plant. Re
 
 - Change Shape (Su): All leshys can transform into plants, with results similar to the tree shape spell. Unlike that spell, this ability only allows transformation into Small plants of the same type of growth the leshy is related to.
 
-In this form, the leshy appears as a particularly healthy specimen of that particular plant. A leshy can assume plant form or revert to its true form as a swift action.
+In this form, the leshy appears as a particularly healthy specimen of that particular plant. A leshy can assume plant form or revert to its true form as a swift action (1 AP).
 
 - Plantspeech (Ex): All leshys can speak with plants as if subject to a continual speak with plants spell, but only with species they are related to.
 
@@ -588,7 +588,7 @@ Format: adaptive 10; Location: Resist.
 
 - Formless (Su): Most manasaputras are not defined by physical form, and choose to adopt a corporeal form at their leisure.
 
-Manasaputras with this ability can transition between corporeal and incorporeal forms as a move action. When a manasaputra becomes corporeal, it retains its Charisma modifier as a deflection bonus to AC. A manasaputra’s natural attacks, unarmed strikes, and manufactured weapon attacks are only available while the manasaputra is in its corporeal form, with the exception of ghost touch weapons.
+Manasaputras with this ability can transition between corporeal and incorporeal forms as a move action (1 AP). When a manasaputra becomes corporeal, it retains its Charisma modifier as a deflection bonus to AC. A manasaputra’s natural attacks, unarmed strikes, and manufactured weapon attacks are only available while the manasaputra is in its corporeal form, with the exception of ghost touch weapons.
 
 - Positive Energy Affinity (Ex): Manasaputras can exist comfortably on the Positive Energy Plane, and do not benefit (or suffer) from that plane’s overwhelming infusions of life-giving energies. Whenever a manasaputra is subjected to a magical healing effect, that effect functions at its full potential, as if enhanced by the Maximize Spell feat.
 
@@ -690,7 +690,7 @@ Proteans are serpentine outsiders of pure chaos. They have the following traits 
 
 A protean automatically recovers from physical blindness or deafness after 1 round by growing new sensory organs to replace those that were compromised.
 
-- Change Shape (Su): A protean’s form is not fixed. Once per day as a standard action, a protean may change shape into any Small, Medium, or Large animal, elemental, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. A protean can assume its true form as a free action, and when it does so, it gains the effects of a heal spell (CL equal to the protean’s HD).
+- Change Shape (Su): A protean’s form is not fixed. Once per day as a standard action (1 AP), a protean may change shape into any Small, Medium, or Large animal, elemental, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. A protean can assume its true form as a free action, and when it does so, it gains the effects of a heal spell (CL equal to the protean’s HD).
 
 - Warpwave (Su): Many proteans can create ripples in reality known as warpwaves. Yet even a protean can’t predict what effects a warpwave might have. When a creature is affected by a warpwave, roll 1d20 and consult the table below to see what effect the entropic energies have.
 
@@ -745,7 +745,7 @@ Qlippoth are chaotic evil outsiders from the deepest reaches of the Abyss. They 
 
 - Resistance to acid 10, electricity 10, and fire 10.
 
-- Horrific Appearance (Su) All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth’s horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth’s Hit Dice + the qlippoth’s Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
+- Horrific Appearance (Su) All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action (1 AP) to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth’s horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth’s Hit Dice + the qlippoth’s Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
 
 - Telepathy.
 
@@ -835,7 +835,7 @@ Sahkils are neutral evil outsiders native to the Ethereal Plane. They have the f
 
 - Look of Fear (Su): All sahkils have a gaze attack that instills dread in those they look upon. This gaze attack has a range of 30 feet (though when a sahkil is on the Ethereal Plane, it functions against creatures on the Material Plane that can see ethereal creatures), and can be negated by a Will save—the exact effects caused by a particular sahkil’s look of fear depend on the type of sahkil. All sahkils are immune to their own look of fear and that of other sahkils. This is a mind-affecting fear effect. The save DC is Charisma-based and includes the +2 bonus from the sahkil’s emotional focus ability.
 
-- Skip Between (Su): Many sahkils can shift between the Ethereal Plane and the Material Plane as a move action. This ability is otherwise identical to ethereal jaunt (CL 15th).
+- Skip Between (Su): Many sahkils can shift between the Ethereal Plane and the Material Plane as a move action (1 AP). This ability is otherwise identical to ethereal jaunt (CL 15th).
 
 - Spirit Touch (Ex): A sahkil’s natural weapons, as well as any weapon it wields, are treated as though they had the ghost touch weapon special ability.
 

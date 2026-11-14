@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of evil ability of the Evil domain.*
 
-*Consume the Enemy (Su): You gain a Primary Bite attack, dealing 1d3 points of damage (Medium). By consuming the creature’s flesh on a successful attack (It has to deal damage), as a swift action, you gain a +1 profane bonus on Attack, damage, and saving throw DCs for all spells, spell-like abilities, and supernatural abilities you use against creatures of the same type (and subtype, if humanoid or outsider) as the cannibalized creature. This effect lasts for a number of minutes equal to your cleric level or until you use this ability against a different creature. At 4th, 8th, 12th, and 16th level, this bonus increases by 1 (+5 maximum). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Consume the Enemy (Su): You gain a Primary Bite attack, dealing 1d3 points of damage (Medium). By consuming the creature’s flesh on a successful attack (It has to deal damage), as a swift action (1 AP), you gain a +1 profane bonus on Attack, damage, and saving throw DCs for all spells, spell-like abilities, and supernatural abilities you use against creatures of the same type (and subtype, if humanoid or outsider) as the cannibalized creature. This effect lasts for a number of minutes equal to your cleric level or until you use this ability against a different creature. At 4th, 8th, 12th, and 16th level, this bonus increases by 1 (+5 maximum). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—magic fang, 2nd— enemy’s heart, 3rd—greater magic fang.*
 
@@ -42,7 +42,7 @@
 
 ***Replacement Power**: The following granted power replaces the scythe of evil power of the Evil domain. Daemons are a race of neutral evil outsiders.*
 
-*Whispering Evil (Su): At 4th level, as a standard action, you can whisper a hypnotizing litany of empty promises. Each enemy within a 30-foot emanation that can hear you must succeed on a Will saving throw or become fascinated for as long as you continue the litany. You can use this power a number of rounds per day equal to your cleric level, but these rounds do not need to be consecutive. This is a mind-affecting effect.*
+*Whispering Evil (Su): At 4th level, as a standard action (1 AP), you can whisper a hypnotizing litany of empty promises. Each enemy within a 30-foot emanation that can hear you must succeed on a Will saving throw or become fascinated for as long as you continue the litany. You can use this power a number of rounds per day equal to your cleric level, but these rounds do not need to be consecutive. This is a mind-affecting effect.*
 
 ***Replacement Domain Spells**: 1st—cause fear, 3rd—vampiric touch, 6th—planar binding (daemons only).*
 
@@ -66,7 +66,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of chaos power of the Chaos domain or the touch of evil power of the Evil domain. Demons are a race of chaotic evil outsiders.*
 
-*Fury of the Abyss (Su): As a swift action, you can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus stack with magic weapons up to +5. This bonus lasts for 1 round. During this round, you take a –2 penalty to AC. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.*
+*Fury of the Abyss (Su): As a swift action (1 AP), you can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus stack with magic weapons up to +5. This bonus lasts for 1 round. During this round, you take a –2 penalty to AC. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—doom, 3rd—rage, 6th—planar binding (demons only).*
 
@@ -90,7 +90,7 @@
 
 ***Replacement Power**: The following granted power replaces the scythe of evil power of the Evil domain.*
 
-*Feed on Fear (Su): At 4th level, as an immediate action upon successfully landing a melee attack on a creature that is already suffering from a fear effect, you deal 2d6 extra points of damage and gain an equal amount of temporary hit points. These temporary hit points last for 24 hours or until lost. You can use this ability for a number of times per day equal to your Wisdom modifier.*
+*Feed on Fear (Su): At 4th level, as an immediate action (1 AP of your next turn) upon successfully landing a melee attack on a creature that is already suffering from a fear effect, you deal 2d6 extra points of damage and gain an equal amount of temporary hit points. These temporary hit points last for 24 hours or until lost. You can use this ability for a number of times per day equal to your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—cause fear, 3rd— scare, 4th—fear.*
 
@@ -102,7 +102,7 @@
 
 ***Replacement Power**: The following granted power replaces the scythe of evil ability of the Evil domain or the staff of order ability of the Law domain.*
 
-*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 18 concentration check as an immediate action. If you succeed, you gain the benefits of a blessing of fervor spell for a number of rounds equal to your cleric level. If you fail, this ability is expended with no effect. You can use this ability for a number of times per day equal to your Wisdom modifier.*
+*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 18 concentration check as an immediate action (1 AP of your next turn). If you succeed, you gain the benefits of a blessing of fervor spell for a number of rounds equal to your cleric level. If you fail, this ability is expended with no effect. You can use this ability for a number of times per day equal to your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—delay pain, 2nd—instrument of agony, 3rd—agonize, 5th—symbol of pain.*
 
@@ -114,7 +114,7 @@
 
 ***Replacement Power**: The following granted power replaces the death’s embrace power of the Death domain or the touch of evil power of the Evil domain.*
 
-*Contagion (Su): As a standard action, you can activate a 30ft aura that works like the Contagion Spell. You can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.*
+*Contagion (Su): As a standard action (1 AP), you can activate a 30ft aura that works like the Contagion Spell. You can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.*
 
 ***Replacement Domain Spells**: 1st—ray of sickening, 3rd—contagion, 6th—plague storm, 8th—horrid wilting.*
 

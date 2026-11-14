@@ -47,11 +47,11 @@ Pit fighters are proficient with all simple and [martial weapons](../../equipmen
 
 #### Poor Equipment (Ex)
 
-Pit fighters are often forced to fight with poorly maintained equipment. At 1st level, a pit fighter can spend a swift action to ignore the broken condition of a single weapon or piece of armor he wields or wears for the remainder of the encounter. The selected weapon or piece of armor is treated in all ways as though it did not have the broken condition, though its hit points remain unchanged. The pit fighter can affect only one item at a time with this ability; if he selects a second item, the first immediately regains the broken condition.
+Pit fighters are often forced to fight with poorly maintained equipment. At 1st level, a pit fighter can spend a swift action (1 AP) to ignore the broken condition of a single weapon or piece of armor he wields or wears for the remainder of the encounter. The selected weapon or piece of armor is treated in all ways as though it did not have the broken condition, though its hit points remain unchanged. The pit fighter can affect only one item at a time with this ability; if he selects a second item, the first immediately regains the broken condition.
 
 #### Showmanship (Ex)
 
-Once per day at 1st level, a pit fighter can treat a regular combat as a performance combat, with the crowd’s starting attitude being indifferent. He makes performance checks, may use performance feats, and takes bonuses or penalties based on the crowd’s reaction as normal, even if there is no crowd actually watching the fight. Only the pit fighter is affected by this ability. Activating this ability is a swift action. The encounter’s CR determines the DC of the pit fighter’s performance checks, as summarized in the table below.
+Once per day at 1st level, a pit fighter can treat a regular combat as a performance combat, with the crowd’s starting attitude being indifferent. He makes performance checks, may use performance feats, and takes bonuses or penalties based on the crowd’s reaction as normal, even if there is no crowd actually watching the fight. Only the pit fighter is affected by this ability. Activating this ability is a swift action (1 AP). The encounter’s CR determines the DC of the pit fighter’s performance checks, as summarized in the table below.
 
 | Starting or Current Attitude | DC to Improve Attitude |
 |---|---|
@@ -81,7 +81,7 @@ At 6th level, a pit fighter gains [Quick Dirty Trick](../../rules/feats/quick-di
 
 #### Brutal Trick (Ex)
 
-At 9th level, a pit fighter gains [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) as a bonus feat. In addition, a creature that spends a standard action to remove a condition applied by the pit fighter’s dirty trick combat maneuver provokes an attack of opportunity from the pit fighter.
+At 9th level, a pit fighter gains [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) as a bonus feat. In addition, a creature that spends a standard action (1 AP) to remove a condition applied by the pit fighter’s dirty trick combat maneuver provokes an attack of opportunity from the pit fighter.
 
 #### Greater Roar of the Crowd (Ex)
 

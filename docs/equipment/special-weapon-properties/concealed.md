@@ -11,7 +11,7 @@ This special ability can be placed only on a light or one-handed melee weapon. A
 
 While transformed, a *concealed* weapon doesn’t register as magical, as per *magic aura*, though it retains the weight, hit points, and any hardness of its original form. A *concealed* weapon cannot assume the form of an object made from a special material (such as adamantine) unless it is already made of that material. For instance, a wooden club cannot transform into a mithral frying pan, but a mithral dagger can.
 
-Transforming a *concealed* weapon into a mundane form requires a standard action, while returning it to its weapon form requires a move action. This transformation lasts until it is changed back into its original form or has been left unattended for 8 hours, whichever comes sooner.
+Transforming a *concealed* weapon into a mundane form requires a standard action (1 AP), while returning it to its weapon form requires a move action (1 AP). This transformation lasts until it is changed back into its original form or has been left unattended for 8 hours, whichever comes sooner.
 
 #### Construction
 

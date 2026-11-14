@@ -4,4 +4,4 @@ You expend some of your rage to throw one opponent at another.
 
 **Prerequisites**: Str 13, Con 13, rage class feature, [Improved Bull Rush](improved-bull-rush.md), [Power Attack](power-attack.md), base attack bonus +6.
 
-**Benefit**: While raging, when you attempt a bull rush combat maneuver, you can spend 1 additional round of your rage as a swift action to add your Constitution bonus on your combat maneuver check to the bull rush. Further, if you bull rush an opponent into a square another creature occupies or into a solid object, the opponent and the creature or object take bludgeoning damage equal to your Strength modifier + your Constitution modifier.
+**Benefit**: While raging, when you attempt a bull rush combat maneuver, you can spend 1 additional round of your rage as a swift action (1 AP) to add your Constitution bonus on your combat maneuver check to the bull rush. Further, if you bull rush an opponent into a square another creature occupies or into a solid object, the opponent and the creature or object take bludgeoning damage equal to your Strength modifier + your Constitution modifier.

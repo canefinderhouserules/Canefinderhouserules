@@ -101,7 +101,7 @@ This staff is made from high-quality wood and festooned with brass rods and keys
 - sculpt sound (2 charges)
 - wall of sound (2 charges)
 
-In addition, as a swift action, the wielder of the *musical staff* can cause it to transform into a string or wind instrument. Any Perform skill checks made with the *musical staff* gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
+In addition, as a swift action (1 AP), the wielder of the *musical staff* can cause it to transform into a string or wind instrument. Any Perform skill checks made with the *musical staff* gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
 
 **Requirements** Craft Staff, *ghost sound*, *piercing shriek*, *sculpt sound*, *wall of sound*; **Cost** 16,000 gp
 
@@ -350,7 +350,7 @@ This staff also allows the wielder to use *mage hand* at will.
 **Aura** moderate evocation; **CL** 8th  
 **Slot** none; **Price** 23,200 gp; **Weight** 5 lbs.
 
-This silver-tipped willow staff constantly emits light, as if from a *light* spell—the radiance is emitted from the staff’s metallic end and flickers as if with flame. The staff’s wielder can deactivate or activate this glowing light as a swift action. In addition, a *staff of radiance* allows use of the following spells:
+This silver-tipped willow staff constantly emits light, as if from a *light* spell—the radiance is emitted from the staff’s metallic end and flickers as if with flame. The staff’s wielder can deactivate or activate this glowing light as a swift action (1 AP). In addition, a *staff of radiance* allows use of the following spells:
 
 - glitterdust (1 charge)
 - daylight (2 charges)
@@ -391,7 +391,7 @@ This staff is constructed from thousands of carefully prepared spiderwebs packed
 **Aura** moderate evocation; **CL** 10th  
 **Slot** none; **Price** 37,310 gp; **Weight** 5 lbs.
 
-This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action, the wielder of the staff can cause it to change into a *+2 lance*, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
+This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action (1 AP), the wielder of the staff can cause it to change into a *+2 lance*, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
 
 - bless weapon (1 charge, cast on the staff only)
 - shield other (1 charge)

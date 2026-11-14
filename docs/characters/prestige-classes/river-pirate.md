@@ -79,11 +79,11 @@ If the pirate isles pirate hits the target ship, she then makes an opposed Stren
 
 #### Shipmind (Su)
 
-At 8th level, the pirate isles pirate can, once per day as a standard action, control her ship with a thought. The pirate isles pirate must be on the deck of the ship she wishes to control and she must be conscious.
+At 8th level, the pirate isles pirate can, once per day as a standard action (1 AP), control her ship with a thought. The pirate isles pirate must be on the deck of the ship she wishes to control and she must be conscious.
 
 Once the pirate isles pirate activates her shipmind, she can feel the ship as if it were an extension of her body. She can “see” from the ship anywhere she wants, and adjusting her point of view is a free action. The pirate isles pirate can move the ship as if it were her own body, and it moves over water at her base move or the ship’s normal speed, whichever is greater. She and her ship can move forward and backward, make right angle turns, and come to a dead stop, despite the ship’s size or the weather conditions.
 
-While the pirate isles pirate uses her shipmind ability, her body appears [paralyzed](../../rules/appendices/conditions.md#paralyzed) and unresponsive. She is considered [helpless](../../rules/appendices/conditions.md#helpless) and cannot defend herself, but she retains an awareness of what goes on around her body (and can see her body from her perspective on the ship if she wishes). She may end the shipmind effect as an immediate action. This ability lasts for 1 round per class level.
+While the pirate isles pirate uses her shipmind ability, her body appears [paralyzed](../../rules/appendices/conditions.md#paralyzed) and unresponsive. She is considered [helpless](../../rules/appendices/conditions.md#helpless) and cannot defend herself, but she retains an awareness of what goes on around her body (and can see her body from her perspective on the ship if she wishes). She may end the shipmind effect as an immediate action (1 AP of your next turn). This ability lasts for 1 round per class level.
 
 #### Fogcraft (Su)
 

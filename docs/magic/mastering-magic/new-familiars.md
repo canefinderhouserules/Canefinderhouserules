@@ -46,9 +46,9 @@ Treasure none
 
 **Special Abilities**
 
-**Ink Cloud (Ex)**: While within water, an octopus can emit a 5-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
+**Ink Cloud (Ex)**: While within water, an octopus can emit a 5-foot-radius sphere of ink once per minute as a swift action (1 AP). This ink provides total concealment and persists for 1 minute.
 
-**Jet (Ex)**: The octopus can jet 60 feet in a straight line as a full-round action. This does not provoke attacks of opportunity.
+**Jet (Ex)**: The octopus can jet 60 feet in a straight line as a full-round action (3 AP). This does not provoke attacks of opportunity.
 
 **Poison (Ex)**: Bite—injury; save Fort DC 10; frequency 1/round for 6 rounds; effect 1 Str; cure 1 save.
 
@@ -185,7 +185,7 @@ Treasure none
 
 **Special Abilities**
 
-**Spiny Defense (Ex)**: As a move action, a hedgehog can roll itself up into a spiny ball. While rolled up, it gains a +1 enhancement bonus to its existing natural armor, and any creature attempting to grapple the hedgehog takes 1d3 damage on making a grapple check. While rolled up, a hedgehog cannot take any action other than leaving this state. The hedgehog can leave this state as a move action. Hedgehogs are spiny, insectivorous mammals. When threatened, a hedgehog rolls up into a spiny ball as a defense mechanism.
+**Spiny Defense (Ex)**: As a move action (1 AP), a hedgehog can roll itself up into a spiny ball. While rolled up, it gains a +1 enhancement bonus to its existing natural armor, and any creature attempting to grapple the hedgehog takes 1d3 damage on making a grapple check. While rolled up, a hedgehog cannot take any action other than leaving this state. The hedgehog can leave this state as a move action (1 AP). Hedgehogs are spiny, insectivorous mammals. When threatened, a hedgehog rolls up into a spiny ball as a defense mechanism.
 
 ## House Centipede (CR 1/8)
 
@@ -351,6 +351,6 @@ Treasure none
 
 **Special Abilities**
 
-**Shell Retreat (Ex)**: A turtle can retreat within its shell as a swift action, gaining a +2 enhancement bonus to its existing natural armor. While in its shell, a turtle cannot take any action except to end the retreat. The turtle can end its retreat with a free action on its turn.
+**Shell Retreat (Ex)**: A turtle can retreat within its shell as a swift action (1 AP), gaining a +2 enhancement bonus to its existing natural armor. While in its shell, a turtle cannot take any action except to end the retreat. The turtle can end its retreat with a free action on its turn.
 
 Turtles are slow-moving reptiles with hard shells that they can retreat into when threatened. Many turtles have flippers and are better suited for swimming than walking. These statistics can also be used for tortoises, which have feet instead of flippers and live in arid regions.

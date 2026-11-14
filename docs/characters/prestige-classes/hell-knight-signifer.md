@@ -93,7 +93,7 @@ At 2nd level, a hell knight signifer must choose a class they belonged to before
 
 #### Arcane Armor Expertise (Ex)
 
-At 2nd level, if a hell knight signifer has the Arcane Armor Training feat, he gains [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md) as a bonus feat. At 5th level, the action required to use this feat changes from a swift action to a free action.
+At 2nd level, if a hell knight signifer has the Arcane Armor Training feat, he gains [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md) as a bonus feat. At 5th level, the action required to use this feat changes from a swift action (1 AP) to a free action.
 
 #### Signifer Armor Training (Ex)
 
@@ -101,7 +101,7 @@ At 3rd level, while a hell knight signifer wears hell knight armor, he reduces t
 
 #### Assiduous Gaze
 
-At 4th level and again at 7th level, a hell knight signifer gains an assiduous gaze ability chosen from the list below. He can use each assiduous gaze ability he has for a number of rounds per day equal to half his class level. These rounds need not be consecutive. He can activate an assiduous gaze ability as a swift action to examine a single creature, object, or 5-foot square within 30 feet. He must be wearing his signifer mask to use these abilities, and his caster level while using the ability is equal to his character level.
+At 4th level and again at 7th level, a hell knight signifer gains an assiduous gaze ability chosen from the list below. He can use each assiduous gaze ability he has for a number of rounds per day equal to half his class level. These rounds need not be consecutive. He can activate an assiduous gaze ability as a swift action (1 AP) to examine a single creature, object, or 5-foot square within 30 feet. He must be wearing his signifer mask to use these abilities, and his caster level while using the ability is equal to his character level.
 
 - **Elucidation (Su)**: The signifer can discern each active spell on the target, including the spell’s effect and caster level.
 - **Morality (Sp)**: The signifer can determine whether the target is chaotic, evil, good, or lawful, as well as the strength of its aura as if he had studied it for 3 rounds using [*detect chaos*](../../magic/spells/detect-chaos.md), [*detect evil*](../../magic/spells/detect-evil.md), [*detect good*](../../magic/spells/detect-good.md), and *detect law*.

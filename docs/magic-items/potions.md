@@ -10,11 +10,11 @@ The person applying an oil is the effective caster, but the object is the target
 
 **Activation**: Drinking a potion or applying an oil requires no special skill. The user merely removes the stopper and swallows the potion or smears on the oil. The following rules govern potion and oil use.
 
-Drinking a potion or using an oil is a standard action. The potion or oil takes effect immediately. Using a potion or oil provokes attacks of opportunity. An enemy may direct an attack of opportunity against the potion or oil container rather than against the character. A successful attack of this sort can destroy the container, preventing the character from drinking the potion or applying the oil.
+Drinking a potion or using an oil is a standard action (1 AP). The potion or oil takes effect immediately. Using a potion or oil provokes attacks of opportunity. An enemy may direct an attack of opportunity against the potion or oil container rather than against the character. A successful attack of this sort can destroy the container, preventing the character from drinking the potion or applying the oil.
 
 A creature must be able to swallow a potion or smear on an oil. Because of this, incorporeal creatures cannot use potions or oils. Any corporeal creature can imbibe a potion or use an oil.
 
-A character can carefully administer a potion to an unconscious creature as a full-round action, trickling the liquid down the creature’s throat. Likewise, it takes a full-round action to apply an oil to an unconscious creature.
+A character can carefully administer a potion to an unconscious creature as a full-round action (3 AP), trickling the liquid down the creature’s throat. Likewise, it takes a full-round action (3 AP) to apply an oil to an unconscious creature.
 
 **Table 15–12: Potions**
 

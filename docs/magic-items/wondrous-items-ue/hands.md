@@ -16,7 +16,7 @@ These nondescript white gloves are a boon to minor spellcasters and fakes who ar
 **Aura** faint transmutation; **CL** 1st  
 **Slot** hands; **Price** 180 gp; **Weight** 1 lb.
 
-The wearer of these simple gloves can speak a command word create a glowing disembodied hand. As a swift action, the wearer can have the hand assist him with a task as if using the aid another action. The hand uses the wearer’s base attack bonus or skill ranks when making the check to see if aid another is successful (it does not gain the benefit of the wearer’s ability scores or other bonuses). The hand remains until it has attempted one action or until 1 minute passes, whichever comes first, at which time the gloves become nonmagical.
+The wearer of these simple gloves can speak a command word create a glowing disembodied hand. As a swift action (1 AP), the wearer can have the hand assist him with a task as if using the aid another action. The hand uses the wearer’s base attack bonus or skill ranks when making the check to see if aid another is successful (it does not gain the benefit of the wearer’s ability scores or other bonuses). The hand remains until it has attempted one action or until 1 minute passes, whichever comes first, at which time the gloves become nonmagical.
 
 **Construction** Craft Wondrous Item, *mage hand*, *unseen servant*; **Cost** 90 gp
 
@@ -34,7 +34,7 @@ These supple, velvet gloves are the sort that might be thrown down in challenge 
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** hands; **Price** 1,300 gp; **Weight** 1 lb.
 
-Strapped to the hands, these spiked climbing claws grant a +2 competence bonus on Climb checks and Acrobatics checks made when using both hands to aid in movement, and allow the wearer to ignore the normal penalties on those skills for slippery or icy surfaces. In addition, up to 3 times per day, the wearer can activate the claws as a swift action to gain the benefits of *spider climb* for 1 round. The wearer cannot hold anything else in her hands while using claws of the ice bear. If used as a weapon, *claws of the ice bear* function as spiked gauntlets.
+Strapped to the hands, these spiked climbing claws grant a +2 competence bonus on Climb checks and Acrobatics checks made when using both hands to aid in movement, and allow the wearer to ignore the normal penalties on those skills for slippery or icy surfaces. In addition, up to 3 times per day, the wearer can activate the claws as a swift action (1 AP) to gain the benefits of *spider climb* for 1 round. The wearer cannot hold anything else in her hands while using claws of the ice bear. If used as a weapon, *claws of the ice bear* function as spiked gauntlets.
 
 **Construction** Craft Wondrous Item, *spider climb*; **Cost** 750 gp
 
@@ -90,7 +90,7 @@ The wearer of these gauntlets gains a +2 bonus on one type of combat maneuver ch
 **Aura** strong conjuration; **CL** 10th  
 **Slot** hands; **Price** 110,000 gp; **Weight** 5 lbs.
 
-These gauntlets come in a variety of forms. Some are mostly leather with small steel plates, and are suited for fine swordplay. Others are fully articulated plate favored by knights in full plate. On command, the wearer of the gauntlet can store a single weapon he is holding in the gauntlets. When he does so, a graven image of the weapon appears on the gauntlet’s plates. The wearer can store up to 10 weapons in the gauntlets in this manner. Retrieving a weapon requires the wearer to touch the image of the weapon he wants. Doing so is a swift action. When a weapon is retrieved, it appears in the hands of the wearer and any weapons the wearer had in his hands is stored in the gauntlets. If there is no room in the gauntlet for the weapons the wearer is holding, those weapons are dropped. The gauntlets can only store weapons; other items cannot be placed in the gauntlet. Furthermore, three times per day on command, the gloves affect the wearer as the *greater heroism spell*.
+These gauntlets come in a variety of forms. Some are mostly leather with small steel plates, and are suited for fine swordplay. Others are fully articulated plate favored by knights in full plate. On command, the wearer of the gauntlet can store a single weapon he is holding in the gauntlets. When he does so, a graven image of the weapon appears on the gauntlet’s plates. The wearer can store up to 10 weapons in the gauntlets in this manner. Retrieving a weapon requires the wearer to touch the image of the weapon he wants. Doing so is a swift action (1 AP). When a weapon is retrieved, it appears in the hands of the wearer and any weapons the wearer had in his hands is stored in the gauntlets. If there is no room in the gauntlet for the weapons the wearer is holding, those weapons are dropped. The gauntlets can only store weapons; other items cannot be placed in the gauntlet. Furthermore, three times per day on command, the gloves affect the wearer as the *greater heroism spell*.
 
 **Construction** Craft Wondrous Item, *heroism*, *rope trick*; **Cost** 55,000 gp
 
@@ -99,7 +99,7 @@ These gauntlets come in a variety of forms. Some are mostly leather with small s
 **Aura** faint divination and evocation; **CL** 5th  
 **Slot** hands; **Price** 4,000 gp; **Weight** —
 
-These gloves are made of pale gray silk; each is adorned with an embroidered silver eye on the back. Once per day the wearer may activate them, as a standard action, by bowing her head and pressing her hands to her eyes. The embroidered silver eyes flare and open, and when the wearer lowers her hands, deep pools of swirling gray mist hide her own eyes and allow her to more clearly see the restless dead for the next 10 rounds. While active, *ghostvision gloves* grant the following effects.
+These gloves are made of pale gray silk; each is adorned with an embroidered silver eye on the back. Once per day the wearer may activate them, as a standard action (1 AP), by bowing her head and pressing her hands to her eyes. The embroidered silver eyes flare and open, and when the wearer lowers her hands, deep pools of swirling gray mist hide her own eyes and allow her to more clearly see the restless dead for the next 10 rounds. While active, *ghostvision gloves* grant the following effects.
 
 - The wearer can see all undead within 60 feet clearly, including ethereal undead and incorporeal undead hiding in objects or walls to a depth of 5 feet.
 - If the wearer has the channel positive energy class ability, she may expend one use of channeled positive energy to make a ranged touch attack against one undead creature within channel range. If the ranged touch attack hits, she rolls channel energy damage against that target (affecting no other creatures), except she rolls d12s instead of d6s.
@@ -112,7 +112,7 @@ These gloves are made of pale gray silk; each is adorned with an embroidered sil
 **Aura** moderate transmutation; **CL** 8th  
 **Slot** hands; **Price** 20,000 gp; **Weight** 5 lbs.
 
-As a swift action, the wearer of these rough leather gauntlets can expand her hands to twice normal size and harden to the consistency of hardwood. This transformation lasts for up to 20 rounds per day, though they need not be consecutive rounds. If the wearer hits with an unarmed strike or natural attack using her enlarged hands, she may attempt to bull rush her opponent as a free action.
+As a swift action (1 AP), the wearer of these rough leather gauntlets can expand her hands to twice normal size and harden to the consistency of hardwood. This transformation lasts for up to 20 rounds per day, though they need not be consecutive rounds. If the wearer hits with an unarmed strike or natural attack using her enlarged hands, she may attempt to bull rush her opponent as a free action.
 
 **Construction** Craft Wondrous Item, *enlarge person*; **Cost** 10,000 gp
 
@@ -176,7 +176,7 @@ Three times per day, the wearer can attempt to take control of a summoned creatu
 **Aura** moderate conjuration; **CL** 9th  
 **Slot** hands; **Price** 27,000 gp; **Weight** —
 
-Once per day on command, the wearer of these oxblood leather gloves can bend space to extend her reach to a nonadjacent square within line of sight. For the next 10 rounds, she can touch anything in that square as if it were her own square, as long as she has line of effect to the target square. She may change the targeted square as a swift action.
+Once per day on command, the wearer of these oxblood leather gloves can bend space to extend her reach to a nonadjacent square within line of sight. For the next 10 rounds, she can touch anything in that square as if it were her own square, as long as she has line of effect to the target square. She may change the targeted square as a swift action (1 AP).
 
 When using the gloves to touch, attack, or manipulate anything in the square, the wearer’s arms and hands also appear in that square, allowing creatures and effects to target her as if she were in that square. She cannot use this connection to transfer anything from her square to the target square, or vice versa. If she drops anything, it lands in her square. She can use her hands (including natural attacks from those hands, if any), hand-held objects (such as lockpicks), and melee weapons in that square as if she were there. The square is part of her threatened area, though she cannot use the gloves to provide flanking for herself. She cannot use the gloves to grapple, make ranged attacks, or make attacks that require her to move out of her actual square (such as a bull rush combat maneuver).
 
@@ -209,7 +209,7 @@ These pure-white leather gloves bear symbols of healing and faith on the back of
 
 This elbow-length scaled metal gauntlet flares at the wrist like a cobra’s hood. Up to three times per day, the wearer way transform the gauntlet into an iron cobra, which crawls from the wearer’s wrist and obeys his commands, leaving behind a simple bracelet of linked scales. Whoever wears the bracelet is the iron cobra’s master. The iron cobra can remain animated for a total of 1 hour per day.
 
-If the snake is within hearing range of the master and commanded to revert to gauntlet form (a standard action), it travels to its master as fast as possible, crawls onto its master’s arm, and as a free action reverts to its inactive shape. If the snake’s duration expires before it can reach its master, it reverts to gauntlet form, but automatically melds with the bracelet if the two touch.
+If the snake is within hearing range of the master and commanded to revert to gauntlet form (a standard action (1 AP)), it travels to its master as fast as possible, crawls onto its master’s arm, and as a free action reverts to its inactive shape. If the snake’s duration expires before it can reach its master, it reverts to gauntlet form, but automatically melds with the bracelet if the two touch.
 
 If slain in cobra form, the snake reverts to gauntlet form and cannot be used again for 24 hours. If destroyed in gauntlet form, the item is destroyed. The wearer can refill the iron cobra’s poison reservoir in snake form or gauntlet form.
 
@@ -220,7 +220,7 @@ If slain in cobra form, the snake reverts to gauntlet form and cannot be used ag
 **Aura** faint conjuration; **CL** 3rd  
 **Slot** hands; **Price** 6,000 gp; **Weight** —
 
-These thin leather gloves have delicate steel wires running through them. Three times per day as a standard action, the wearer of these gloves may attempt a disarm combat maneuver on a target within 30 feet. The target’s item must be mostly made of metal. If the combat maneuver check is successful, the target is disarmed and the item falls to the ground in the target’s square. For every 5 by which the check exceeds the DC, the item lands 1 square closer to the wearer. If this would place the item in the wearer’s square, the wearer may attempt to catch the item with a DC 10 Dexterity check; otherwise it lands in the wearer’s square. The wearer can only use this ability if she has at least one hand free. If the wearer fails the combat maneuver check, she is not disarmed.
+These thin leather gloves have delicate steel wires running through them. Three times per day as a standard action (1 AP), the wearer of these gloves may attempt a disarm combat maneuver on a target within 30 feet. The target’s item must be mostly made of metal. If the combat maneuver check is successful, the target is disarmed and the item falls to the ground in the target’s square. For every 5 by which the check exceeds the DC, the item lands 1 square closer to the wearer. If this would place the item in the wearer’s square, the wearer may attempt to catch the item with a DC 10 Dexterity check; otherwise it lands in the wearer’s square. The wearer can only use this ability if she has at least one hand free. If the wearer fails the combat maneuver check, she is not disarmed.
 
 **Construction** Craft Wondrous Item, *telekinesis*; **Cost** 3,000 gp
 
@@ -229,7 +229,7 @@ These thin leather gloves have delicate steel wires running through them. Three 
 **Aura** strong transmutation; **CL** 9th  
 **Slot** hands; **Price** 10,000 gp; **Weight** —
 
-Wearing these form-fitting fingerless black gloves makes the wearer’s arms and body more flexible. As a swift action, the wearer can lengthen his arms for up to 10 rounds per day, gaining an additional 5 feet of reach. These rounds need not be consecutive. Attacking with these extended arms is unwieldy, and the wearer takes a –2 penalty on attack rolls, increasing to –4 if he is using two-handed weapons. Even when his limbs aren’t extended, the wearer gains a +5 enhancement bonus on Escape Artist checks and Acrobatics checks to avoid falling damage. The wearer is still able to use hand-based natural attacks such as claws while wearing the gloves.
+Wearing these form-fitting fingerless black gloves makes the wearer’s arms and body more flexible. As a swift action (1 AP), the wearer can lengthen his arms for up to 10 rounds per day, gaining an additional 5 feet of reach. These rounds need not be consecutive. Attacking with these extended arms is unwieldy, and the wearer takes a –2 penalty on attack rolls, increasing to –4 if he is using two-handed weapons. Even when his limbs aren’t extended, the wearer gains a +5 enhancement bonus on Escape Artist checks and Acrobatics checks to avoid falling damage. The wearer is still able to use hand-based natural attacks such as claws while wearing the gloves.
 
 **Construction** Craft Wondrous Item, *liquid form*; **Cost** 5,000 gp
 
@@ -238,7 +238,7 @@ Wearing these form-fitting fingerless black gloves makes the wearer’s arms and
 **Aura** faint transmutation; **CL** 5th  
 **Slot** hands; **Price** 5,000 gp; **Weight** —
 
-These black, rubbery gloves have sharpened digits. Fine channels lead to the tip of each finger, which are often stained with foul chemicals. The gloves are used primarily by assassins to deliver poisons while in combat. Each glove may be filled with a single dose of poison, a potion, alchemist infusion, holy water, or similar liquid as long as the liquid would not harm the gloves (for example, alchemist’s fire and acid cannot be used). The wearer can deliver the dose to a target as a melee touch attack or as part of an unarmed strike or natural attack with the hands (such as a claw or slam attack). The wearer can use both gloves in the same round using two-weapon fighting or multiple natural attacks (such as 2 slams or 2 claws). Each glove can be used once per day. Filling a glove is a full-round action that provokes attacks of opportunity.
+These black, rubbery gloves have sharpened digits. Fine channels lead to the tip of each finger, which are often stained with foul chemicals. The gloves are used primarily by assassins to deliver poisons while in combat. Each glove may be filled with a single dose of poison, a potion, alchemist infusion, holy water, or similar liquid as long as the liquid would not harm the gloves (for example, alchemist’s fire and acid cannot be used). The wearer can deliver the dose to a target as a melee touch attack or as part of an unarmed strike or natural attack with the hands (such as a claw or slam attack). The wearer can use both gloves in the same round using two-weapon fighting or multiple natural attacks (such as 2 slams or 2 claws). Each glove can be used once per day. Filling a glove is a full-round action (3 AP) that provokes attacks of opportunity.
 
 **Construction** Craft Wondrous Item, *touch injection*; **Cost** 2,500 gp
 

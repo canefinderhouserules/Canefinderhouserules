@@ -188,7 +188,7 @@ Additionally, you may speak as if you were in your base form while under a polym
 
 **Prerequisites:** Studied target class feature, defensive instinct class feature
 
-**Benefit:** If you have levels in both legendary shifter and slayer, those levels stack for determining the bonus granted by your studied combat class feature and your bonus to AC from your defensive instinct class feature. Additionally, if you have the studied combat class feature and one of the shifter shape, draconic shape, giant shape, mimic shape, mutant shape, or necro shape class features, whenever a studied target attempts an attack roll against you, you may use your shifter shape class feature (or equivalent listed above) as an immediate action.
+**Benefit:** If you have levels in both legendary shifter and slayer, those levels stack for determining the bonus granted by your studied combat class feature and your bonus to AC from your defensive instinct class feature. Additionally, if you have the studied combat class feature and one of the shifter shape, draconic shape, giant shape, mimic shape, mutant shape, or necro shape class features, whenever a studied target attempts an attack roll against you, you may use your shifter shape class feature (or equivalent listed above) as an immediate action (1 AP of your next turn).
 
 **Special:** You may use the intelligent instinct, whimsical aura, or unsettling aura class features instead of the defensive instinct class feature to qualify for this feat. If you do, the qualifying class feature is affected by this feat the same way as defensive instinct would.
 

@@ -26,9 +26,9 @@ This system doesn’t apply to spellcasters such as paladins and rangers, who ga
 
 ## Metamagic
 
-When using a metamagic feat to modify a spell cast from a spell pool, the caster is treated as if he were a spontaneous caster (increasing the casting time to a full-round action if applicable). The spell must still fall under the level he can cast with his pool. Otherwise, he must still expend one of his spell slots to prepare it.
+When using a metamagic feat to modify a spell cast from a spell pool, the caster is treated as if he were a spontaneous caster (increasing the casting time to a full-round action (3 AP) if applicable). The spell must still fall under the level he can cast with his pool. Otherwise, he must still expend one of his spell slots to prepare it.
 
-For instance, our example 13th-level necromancer could cast an enlarged fireball as a full-round action using his spell pool, but to cast an empowered fireball, he would have to expend a 5th-level spell slot to prepare it, since 5th-level spells aren’t part of his pool.
+For instance, our example 13th-level necromancer could cast an enlarged fireball as a full-round action (3 AP) using his spell pool, but to cast an empowered fireball, he would have to expend a 5th-level spell slot to prepare it, since 5th-level spells aren’t part of his pool.
 
 ## Pearls of Power
 

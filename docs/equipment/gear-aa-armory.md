@@ -13,7 +13,7 @@ Additional weapons, adventuring gear, alchemical goods and clothing for the well
 | Launching crossbow | Exotic (ranged) | 75 gp | — | — | — | — | 8 lbs. | — | see text |
 | Spear-thrower | — | 1 gp | — | — | — | — | 1 lb. | — | see text |
 
-**Butterfly Knife**: A butterfly knife has a blade concealed between two halves of the handle that can be brought to bear quickly. If you are proficient with the butterfly knife (or have the Quick Draw feat) and are holding it in your hand, you may open it as a free action; a nonproficient user must spend a move action to open it. Otherwise, treat this weapon as a dagger.
+**Butterfly Knife**: A butterfly knife has a blade concealed between two halves of the handle that can be brought to bear quickly. If you are proficient with the butterfly knife (or have the Quick Draw feat) and are holding it in your hand, you may open it as a free action; a nonproficient user must spend a move action (1 AP) to open it. Otherwise, treat this weapon as a dagger.
 
 **Dwarven Maulaxe**: This versatile weapon looks like a heavy-headed axe, but a proficient wielder can use the blunt back of the head to deal bludgeoning damage (as well as piercing or slashing).
 
@@ -21,9 +21,9 @@ Additional weapons, adventuring gear, alchemical goods and clothing for the well
 
 **Syringe Spear**: The blade of this weapon contains a thin tube or bore that connects to a hollow container just beneath the crosspiece. A successful hit with the spear injects the liquid contents of the container (typically poison) into the target. Refilling a syringe spear takes 1 minute.
 
-**Launching Crossbow**: This stubby-looking crossbow has a cup-like attachment rather than a groove for a bolt. It is designed to launch splash weapons. Loading a launching crossbow is a full-round action.
+**Launching Crossbow**: This stubby-looking crossbow has a cup-like attachment rather than a groove for a bolt. It is designed to launch splash weapons. Loading a launching crossbow is a full-round action (3 AP).
 
-**Spear-Thrower**: This is little more than a handle with a cup, loop, or spur to hold the butt of a dart, javelin, or shortspear. Using a spear-thrower to throw such a weapon doubles the projectile’s range increment. Setting a weapon into a spear-thrower is a move action; by taking the [Rapid Reload](../rules/feats/rapid-reload.md) (spear-thrower) feat, you reduce this to a free action.
+**Spear-Thrower**: This is little more than a handle with a cup, loop, or spur to hold the butt of a dart, javelin, or shortspear. Using a spear-thrower to throw such a weapon doubles the projectile’s range increment. Setting a weapon into a spear-thrower is a move action (1 AP); by taking the [Rapid Reload](../rules/feats/rapid-reload.md) (spear-thrower) feat, you reduce this to a free action.
 
 ## Adventuring Gear
 

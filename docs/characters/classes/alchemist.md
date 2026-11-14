@@ -61,7 +61,7 @@ An alchemist can create only a certain number of extracts of each level per day.
 
 When an alchemist mixes an extract, he infuses the chemicals and reagents in the extract with magic siphoned from his own magical aura. An extract immediately becomes inert if it leaves the alchemist’s possession, reactivating as soon as it returns to his keeping—an alchemist cannot normally pass out his extracts for allies to use (but see the “infusion” discovery below). An extract, once created, remains potent for 1 day before losing its magic, so an alchemist must re-prepare his extracts every day. Mixing an extract takes 1 minute of work—most alchemists prepare many extracts at the start of the day or just before going on an adventure, but it’s not uncommon for an alchemist to keep some (or even all) of his daily extract slots open so that he can prepare extracts in the field as needed.
 
-Although the alchemist doesn’t actually cast spells, he does have a formulae list that determines what extracts he can create. An alchemist can utilize spell-trigger items if the spell appears on his formulae list, but not spell-completion items (unless he uses Use Magic Device to do so). An extract is “cast” by drinking it, as if imbibing a potion—the effects of an extract exactly duplicate the spell upon which its formula is based, save that the spell always affects only the drinking alchemist. An alchemist can draw and drink an extract as a standard action. The alchemist uses his level as the caster level to determine any effect based on caster level.
+Although the alchemist doesn’t actually cast spells, he does have a formulae list that determines what extracts he can create. An alchemist can utilize spell-trigger items if the spell appears on his formulae list, but not spell-completion items (unless he uses Use Magic Device to do so). An extract is “cast” by drinking it, as if imbibing a potion—the effects of an extract exactly duplicate the spell upon which its formula is based, save that the spell always affects only the drinking alchemist. An alchemist can draw and drink an extract as a standard action (1 AP). The alchemist uses his level as the caster level to determine any effect based on caster level.
 
 Creating extracts consumes raw materials, but the cost of these materials is insignificant—comparable to the valueless material components of most spells. If a spell normally has a costly material component, that component is expended during the consumption of that particular extract.
 
@@ -75,7 +75,7 @@ An alchemist may know any number of formulae. He stores his formulae in a specia
 
 In addition to magical extracts, alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can use a number of bombs each day equal to his class level + his Intelligence modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become inert—their method of creation prevents large volumes of explosive material from being created and stored. In order to create a bomb, the alchemist must use a small vial containing an ounce of liquid catalyst—the alchemist can create this liquid catalyst from small amounts of chemicals from an alchemy lab, and these supplies can be readily refilled in the same manner as a spellcaster’s component pouch. Most alchemists create a number of catalyst vials at the start of the day equal to the total number of bombs they can create in that day—once created, a catalyst vial remains usable by the alchemist for years.
 
-Drawing the components of, creating, and throwing a bomb requires a standard action that provokes an attack of opportunity. Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are considered weapons and can be selected using feats such as [Point-Blank Shot](../../rules/feats/point-blank-shot.md) and Weapon Focus. On a direct hit, an alchemist’s bomb inflicts 1d6 points of fire damage + additional damage equal to the alchemist’s Intelligence modifier. The damage of an alchemist’s bomb increases by 1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit or by using feats such as [Vital Strike](../../rules/feats/vital-strike.md)). Splash damage from an alchemist bomb is always equal to the bomb’s minimum damage (so if the bomb would deal 2d6+4 points of fire damage on a direct hit, its splash damage would be 6 points of fire damage). Those caught in the splash damage can attempt a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier. Alchemists can learn new types of bombs as discoveries (see the Discovery ability) as they level up. An alchemist’s bomb, like an extract, becomes inert if used or carried by anyone else.
+Drawing the components of, creating, and throwing a bomb requires a standard action (1 AP) that provokes an attack of opportunity. Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are considered weapons and can be selected using feats such as [Point-Blank Shot](../../rules/feats/point-blank-shot.md) and Weapon Focus. On a direct hit, an alchemist’s bomb inflicts 1d6 points of fire damage + additional damage equal to the alchemist’s Intelligence modifier. The damage of an alchemist’s bomb increases by 1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit or by using feats such as [Vital Strike](../../rules/feats/vital-strike.md)). Splash damage from an alchemist bomb is always equal to the bomb’s minimum damage (so if the bomb would deal 2d6+4 points of fire damage on a direct hit, its splash damage would be 6 points of fire damage). Those caught in the splash damage can attempt a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier. Alchemists can learn new types of bombs as discoveries (see the Discovery ability) as they level up. An alchemist’s bomb, like an extract, becomes inert if used or carried by anyone else.
 
 ### Brew Potion (Ex)
 
@@ -85,7 +85,7 @@ At 1st level, alchemists receive [Brew Potion](../../rules/feats/brew-potion.md)
 
 At 1st level, if an alchemist has an Intelligence score of at least 15, he discovers how to create a mutagen that he can imbibe in order to heighten his physical prowess at the cost of his personality. It takes 1 hour to brew a dose of mutagen, and once brewed, it remains potent until used. An alchemist can only maintain one dose of mutagen at a time—if he brews a second dose, any existing mutagen becomes inert. As with an extract or bomb, a mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks it up again. This requirement applies to any class or archetype that grants a mutagen or an ability that works like one.
 
-When an alchemist brews a mutagen, he selects one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes the alchemist to grow bulkier and more bestial, granting him a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is in effect, the alchemist takes a –2 penalty to one of his mental ability scores. If the mutagen enhances his Strength, it applies a penalty to his Intelligence. If it enhances his Dexterity, it applies a penalty to his Wisdom. If it enhances his Constitution, it applies a penalty to his Charisma.
+When an alchemist brews a mutagen, he selects one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action (1 AP) to drink a mutagen. Upon being imbibed, the mutagen causes the alchemist to grow bulkier and more bestial, granting him a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is in effect, the alchemist takes a –2 penalty to one of his mental ability scores. If the mutagen enhances his Strength, it applies a penalty to his Intelligence. If it enhances his Dexterity, it applies a penalty to his Wisdom. If it enhances his Constitution, it applies a penalty to his Charisma.
 
 A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier) or become [nauseated 1](../../rules/appendices/conditions.md#nauseated) for 1 hour—a non-alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever an alchemist drinks a mutagen, the effects of any previous mutagen immediately end.
 
@@ -143,7 +143,7 @@ A number of times per day equal to his Intelligence modifier, the alchemist can 
 
 If an alchemist drinks a potion that he extends, the effects of that potion become permanent until he chooses to make another potion effect permanent. An alchemist must be at least 16th level and must possess the extend potion discovery before selecting this discovery.
 
-Explosive bomb*: The alchemist’s bombs now have a splash radius of 10 feet rather than 5 feet. Creatures that take a direct hit from an explosive bomb catch fire, taking 1d6 points of fire damage each round until the fire is extinguished. Extinguishing the flames is a full-round action that requires a Reflex save. Rolling on the ground provides the target with a +2 to the save. Dousing the target with at least 2 gallons of water automatically extinguishes the flames.
+Explosive bomb*: The alchemist’s bombs now have a splash radius of 10 feet rather than 5 feet. Creatures that take a direct hit from an explosive bomb catch fire, taking 1d6 points of fire damage each round until the fire is extinguished. Extinguishing the flames is a full-round action (3 AP) that requires a Reflex save. Rolling on the ground provides the target with a +2 to the save. Dousing the target with at least 2 gallons of water automatically extinguishes the flames.
 
 #### Extend potion
 
@@ -151,7 +151,7 @@ A number of times per day equal to his Intelligence modifier, the alchemist can 
 
 #### Fast bombs
 
-An alchemist with this discovery can quickly create enough bombs to throw more than one in a single round. The alchemist can prepare and throw additional bombs as a full-round action if his base attack bonus is high enough to grant him additional attacks. This functions just like a full-attack with a ranged weapon. An alchemist must be at least 8th level before selecting this discovery.
+An alchemist with this discovery can quickly create enough bombs to throw more than one in a single round. The alchemist can prepare and throw additional bombs as a full-round action (3 AP) if his base attack bonus is high enough to grant him additional attacks. This functions just like a full-attack with a ranged weapon. An alchemist must be at least 8th level before selecting this discovery.
 
 #### Feral mutagen
 
@@ -221,11 +221,11 @@ Alchemists are trained in the use of poison and starting at 2nd level, cannot ac
 
 ### Swift Alchemy (Ex)
 
-At 3rd level, an alchemist can create alchemical items with astounding speed. It takes an alchemist half the normal amount of time to create alchemical items, and he can apply poison to a weapon as a move action.
+At 3rd level, an alchemist can create alchemical items with astounding speed. It takes an alchemist half the normal amount of time to create alchemical items, and he can apply poison to a weapon as a move action (1 AP).
 
 ### Swift Poisoning (Ex)
 
-At 6th level, an alchemist can apply a dose of poison to a weapon as a swift action.
+At 6th level, an alchemist can apply a dose of poison to a weapon as a swift action (1 AP).
 
 ### Persistent Mutagen (Su)
 
@@ -235,7 +235,7 @@ At 14th level, the effects of a mutagen last for 1 hour per level.
 
 At 18th level, an alchemist can create alchemical items with almost supernatural speed.
 
-He can create any alchemical item as a full-round action if he succeeds at the Craft (alchemy) check and has the appropriate resources at hand to fund the creation. He can apply poison to a weapon as an immediate action.
+He can create any alchemical item as a full-round action (3 AP) if he succeeds at the Craft (alchemy) check and has the appropriate resources at hand to fund the creation. He can apply poison to a weapon as an immediate action (1 AP of your next turn).
 
 ### Grand Discovery (Su)
 

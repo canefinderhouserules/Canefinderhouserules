@@ -16,7 +16,7 @@ Weapons are grouped into several interlocking sets of categories. These categori
 
 The character can also choose to use a double weapon two-handed, attacking with only one end of it. A creature wielding a double weapon in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 
-*Thrown Weapons*: Daggers, clubs, shortspears, spears, darts, javelins, throwing axes, light hammers, tridents, shuriken, and nets are thrown weapons. The wielder applies his Strength modifier to damage dealt by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn’t designed to be thrown (that is, a melee weapon that doesn’t have a numeric entry in the Range column on Table 6–4), and a character who does so takes a –4 penalty on the attack roll. Throwing a light or one-handed weapon is a standard action, while throwing a two-handed weapon is a full-round action. Regardless of the type of weapon, such an attack scores a threat only on a natural roll of 20 and deals double damage on a critical hit. Such a weapon has a range increment of 10 feet.
+*Thrown Weapons*: Daggers, clubs, shortspears, spears, darts, javelins, throwing axes, light hammers, tridents, shuriken, and nets are thrown weapons. The wielder applies his Strength modifier to damage dealt by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn’t designed to be thrown (that is, a melee weapon that doesn’t have a numeric entry in the Range column on Table 6–4), and a character who does so takes a –4 penalty on the attack roll. Throwing a light or one-handed weapon is a standard action (1 AP), while throwing a two-handed weapon is a full-round action (3 AP). Regardless of the type of weapon, such an attack scores a threat only on a natural roll of 20 and deals double damage on a critical hit. Such a weapon has a range increment of 10 feet.
 
 *Projectile Weapons*: Blowguns, light crossbows, slings, heavy crossbows, shortbows, composite shortbows, longbows, composite longbows, halfling sling staves, hand crossbows, and repeating crossbows are projectile weapons. Most projectile weapons require two hands to use (see specific weapon descriptions). A character gets no Strength bonus on damage rolls with a projectile weapon unless it’s a specially built composite shortbow or longbow, or a sling. If the character has a penalty for low Strength, apply it to damage rolls when he uses a bow or a sling.
 
@@ -231,11 +231,11 @@ Weapons found on Table 6–4 are described below. Splash weapons are described u
 
 **Chain, Spiked**: A spiked chain is about 4 feet in length, covered in wicked barbs. You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiked chain sized for you, even though it isn’t a light weapon.
 
-**Crossbow, Hand**: You can draw a hand crossbow back by hand. Loading a hand crossbow is a move action that provokes attacks of opportunity.
+**Crossbow, Hand**: You can draw a hand crossbow back by hand. Loading a hand crossbow is a move action (1 AP) that provokes attacks of opportunity.
 
 You can shoot, but not load, a hand crossbow with one hand at no penalty. You can shoot a hand crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see [Combat](../rules/combat/special-attacks.md)).
 
-**Crossbow, Heavy**: You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a full-round action that provokes attacks of opportunity.
+**Crossbow, Heavy**: You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a full-round action (3 AP) that provokes attacks of opportunity.
 
 **Table 6–5: Tiny and Large Weapon Damage**
 
@@ -255,11 +255,11 @@ You can shoot, but not load, a hand crossbow with one hand at no penalty. You ca
 
 Normally, operating a heavy crossbow requires two hands. However, you can shoot, but not load, a heavy crossbow with one hand at a –4 penalty on attack rolls. You can shoot a heavy crossbow with each hand, but you take a penalty on attack rolls as if attacking with two one-handed weapons (see [Combat](../rules/combat/special-attacks.md)). This penalty is cumulative with the penalty for one-handed firing.
 
-**Crossbow, Light**: You draw a light crossbow back by pulling a lever. Loading a light crossbow is a move action that provokes attacks of opportunity.
+**Crossbow, Light**: You draw a light crossbow back by pulling a lever. Loading a light crossbow is a move action (1 AP) that provokes attacks of opportunity.
 
 Normally, operating a light crossbow requires two hands. However, you can shoot, but not load, a light crossbow with one hand at a –2 penalty on attack rolls. You can shoot a light crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see [Combat](../rules/combat/special-attacks.md)). This penalty is cumulative with the penalty for one-handed firing.
 
-**Crossbow, Repeating**: The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity.
+**Crossbow, Repeating**: The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action (3 AP) that provokes attacks of opportunity.
 
 You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.
 
@@ -317,7 +317,7 @@ For purposes of Weapon Proficiency and similar feats, a composite longbow is tre
 
 **Net**: A net is used to entangle enemies. When you throw a net, you make a ranged touch attack against your target. A net’s maximum range is 10 feet. If you hit, the target is entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty on Dexterity, can move at only half speed, and cannot charge or run. If you control the trailing rope by succeeding on an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must make a concentration check with a DC of 15 + the spell’s level or be unable to cast the spell.
 
-An entangled creature can escape with a DC 20 Escape Artist check (a full-round action). The net has 5 hit points and can be burst with a DC 25 Strength check (also a full-round action). A net is useful only against creatures within one size category of you.
+An entangled creature can escape with a DC 20 Escape Artist check (a full-round action (3 AP)). The net has 5 hit points and can be burst with a DC 25 Strength check (also a full-round action (3 AP)). A net is useful only against creatures within one size category of you.
 
 A net must be folded to be thrown effectively. The first time you throw your net in a fight, you make a normal ranged touch attack roll. After the net is unfolded, you take a –4 penalty on attack rolls with it. It takes 2 rounds for a proficient user to fold a net and twice that long for a nonproficient one to do so.
 
@@ -347,11 +347,11 @@ For purposes of Weapon Proficiency, Weapon Focus, and similar feats, a composite
 
 **Siangham**: This weapon is a handheld shaft fitted with a pointed tip for stabbing foes.
 
-**Sling**: A sling is little more than a leather cup attached to a pair of strings. Your Strength modifier applies to damage rolls when you use a sling, just as it does for thrown weapons. You can fire, but not load, a sling with one hand. Loading a sling is a move action that requires two hands and provokes attacks of opportunity.
+**Sling**: A sling is little more than a leather cup attached to a pair of strings. Your Strength modifier applies to damage rolls when you use a sling, just as it does for thrown weapons. You can fire, but not load, a sling with one hand. Loading a sling is a move action (1 AP) that requires two hands and provokes attacks of opportunity.
 
 You can hurl ordinary stones with a sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you and you take a –1 penalty on attack rolls.
 
-**Sling Staff, Halfling**: Made from a specially designed sling attached to a short club, a halfling sling staff can be used by a proficient wielder to devastating effect. Your Strength modifier applies to damage rolls when you use a halfling sling staff, just as it does for thrown weapons. You can fire, but not load, a halfling sling staff with one hand. Loading a halfling sling staffis a move action that requires two hands and provokes attacks of opportunity.
+**Sling Staff, Halfling**: Made from a specially designed sling attached to a short club, a halfling sling staff can be used by a proficient wielder to devastating effect. Your Strength modifier applies to damage rolls when you use a halfling sling staff, just as it does for thrown weapons. You can fire, but not load, a halfling sling staff with one hand. Loading a halfling sling staffis a move action (1 AP) that requires two hands and provokes attacks of opportunity.
 
 You can hurl ordinary stones with a halfling sling staff, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you and you take a –1 penalty on attack rolls.
 

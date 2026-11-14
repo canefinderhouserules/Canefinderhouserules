@@ -26,7 +26,7 @@ A suit of locksmith armor does not apply its armor check penalty to its wearer�
 
 *Aura* moderate illusion; *CL* 7th; *Price* +2 bonus
 
-Three times per day, the wearer of a suit of phantasmal armor can leave an illusory afterimage of herself in a square she occupied as part of a move action. This double is created through illusion magic from the shadow subschool and is partly real. The illusory double cannot move from its designated square but otherwise reacts and maneuvers as directed by the wearer of a suit of phantasmal armor. The double cannot attack, but it can menace opponents and distract them, and thus counts as an ally for the purpose of determining flanking. The illusory double has an AC equal to 12 + the enhancement bonus of the phantasmal armor. A successful melee or ranged attack against the illusory double (or any damage from an area effect attack) dismisses the effect. The phantasmal special ability can be applied only to light armor.
+Three times per day, the wearer of a suit of phantasmal armor can leave an illusory afterimage of herself in a square she occupied as part of a move action (1 AP). This double is created through illusion magic from the shadow subschool and is partly real. The illusory double cannot move from its designated square but otherwise reacts and maneuvers as directed by the wearer of a suit of phantasmal armor. The double cannot attack, but it can menace opponents and distract them, and thus counts as an ally for the purpose of determining flanking. The illusory double has an AC equal to 12 + the enhancement bonus of the phantasmal armor. A successful melee or ranged attack against the illusory double (or any damage from an area effect attack) dismisses the effect. The phantasmal special ability can be applied only to light armor.
 
 *Construction* Craft Magic Arms and Armor, *shadow projection*; *Cost* +2 bonus.
 
@@ -34,7 +34,7 @@ Three times per day, the wearer of a suit of phantasmal armor can leave an illus
 
 *Aura* strong conjuration; *CL* 13th; *Price* 9,100 gp
 
-Phase lurching armor takes on a shifting and immaterial appearance and radiates ghostly clouds of ectoplasm. The wearer of phase lurching armor has the ability to pass through walls or material obstacles once per day as a move action. The wall or obstacle can be up to 5 feet thick, and the wearer moves through it as if it were ethereal. The wearer is not considered ethereal for any other purpose, and can’t move through corporeal creatures or through force effects (such as a *wall of force*) using this ability. Any surface the character moves through is coated with a thin, silvery mucus that lingers for 1 minute. The phase lurching special ability can be applied only to light armor.
+Phase lurching armor takes on a shifting and immaterial appearance and radiates ghostly clouds of ectoplasm. The wearer of phase lurching armor has the ability to pass through walls or material obstacles once per day as a move action (1 AP). The wall or obstacle can be up to 5 feet thick, and the wearer moves through it as if it were ethereal. The wearer is not considered ethereal for any other purpose, and can’t move through corporeal creatures or through force effects (such as a *wall of force*) using this ability. Any surface the character moves through is coated with a thin, silvery mucus that lingers for 1 minute. The phase lurching special ability can be applied only to light armor.
 
 *Construction* Craft Magic Arms and Armor, *phase door*; *Cost* 4,550 gp.
 
@@ -42,7 +42,7 @@ Phase lurching armor takes on a shifting and immaterial appearance and radiates 
 
 *Aura* faint transmutation; *CL* 5th; *Price* 15,000 gp
 
-Venom-eating armor allows its wearer to store poisons from venomous creatures for later use. Whenever the wearer of venom-eating armor is subjected to a poison attack and succeeds at a saving throw to resist the initial exposure, the venom-eating armor absorbs 1 dose of the poison. At any time after absorbing a dose of poison, the wearer of venom-eating armor can envenom a held weapon with the stored poison as a standard action without risk of poisoning himself. Venom-eating armor can hold a maximum number of poison doses equal to the total enhancement bonus of the venom-eating armor, but all doses must be the same type of poison. If the wearer of a suit of venom-eating armor succeeds at a saving throw against a new type of poison, that poison is stored in the armor and all doses of the old poison are lost. The venom-eating special ability can be applied only to armor made primarily from leather, such as leather, studded leather, and armor made of dragonhide.
+Venom-eating armor allows its wearer to store poisons from venomous creatures for later use. Whenever the wearer of venom-eating armor is subjected to a poison attack and succeeds at a saving throw to resist the initial exposure, the venom-eating armor absorbs 1 dose of the poison. At any time after absorbing a dose of poison, the wearer of venom-eating armor can envenom a held weapon with the stored poison as a standard action (1 AP) without risk of poisoning himself. Venom-eating armor can hold a maximum number of poison doses equal to the total enhancement bonus of the venom-eating armor, but all doses must be the same type of poison. If the wearer of a suit of venom-eating armor succeeds at a saving throw against a new type of poison, that poison is stored in the armor and all doses of the old poison are lost. The venom-eating special ability can be applied only to armor made primarily from leather, such as leather, studded leather, and armor made of dragonhide.
 
 *Construction* Craft Magic Arms and Armor, *delay poison*, *poison*; *Cost* 7,500 gp.
 
@@ -88,7 +88,7 @@ Most of the following armor special abilities can be applied only to medium armo
 
 *Aura* moderate abjuration and evocation; *CL* 11th; *Price* +3 bonus
 
-Armor with the arrow-collecting special ability grants the wearer a 20% miss chance against ranged projectile attacks (but not thrown weapon attacks, ranged spell effects such as rays, or massive ranged projectiles such as those fired from siege weapons). When a projectile misses the wearer of arrow-collecting armor because of this miss chance, the projectile begins to orbit the wearer. Arrow-collecting armor can hold up to 5 pieces of ammunition in this fashion. Any projectiles that would be collected beyond that limit drop at the wearer’s feet. As a standard action, the wearer of arrow-collecting armor can shoot all collected projectiles currently floating around the armor at a single target within 30 feet. Make a separate attack roll for each projectile, using the wearer’s ranged attack modifier and any enhancement bonus the projectile might have. If the projectiles are not used in this way within 5 minutes, or if anyone tries to grab or move them, they break and become useless. The arrow-collecting special ability can be applied only to medium armor.
+Armor with the arrow-collecting special ability grants the wearer a 20% miss chance against ranged projectile attacks (but not thrown weapon attacks, ranged spell effects such as rays, or massive ranged projectiles such as those fired from siege weapons). When a projectile misses the wearer of arrow-collecting armor because of this miss chance, the projectile begins to orbit the wearer. Arrow-collecting armor can hold up to 5 pieces of ammunition in this fashion. Any projectiles that would be collected beyond that limit drop at the wearer’s feet. As a standard action (1 AP), the wearer of arrow-collecting armor can shoot all collected projectiles currently floating around the armor at a single target within 30 feet. Make a separate attack roll for each projectile, using the wearer’s ranged attack modifier and any enhancement bonus the projectile might have. If the projectiles are not used in this way within 5 minutes, or if anyone tries to grab or move them, they break and become useless. The arrow-collecting special ability can be applied only to medium armor.
 
 *Construction* Craft Magic Arms and Armor, *entropic shield*, *telekinesis*; *Cost* +3 bonus.
 
@@ -96,7 +96,7 @@ Armor with the arrow-collecting special ability grants the wearer a 20% miss cha
 
 *Aura* faint evocation; *CL* 3rd; *Price* +1 bonus
 
-As an immediate action, the wearer of a suit of balanced armor can reduce the enhancement bonus of the armor to gain an equal enhancement bonus on one type of saving throw (Fortitude, Reflex, or Will) designated when the armor is created. This effect lasts until the beginning of the wearer’s next turn. This ability can be applied only to medium armor.
+As an immediate action (1 AP of your next turn), the wearer of a suit of balanced armor can reduce the enhancement bonus of the armor to gain an equal enhancement bonus on one type of saving throw (Fortitude, Reflex, or Will) designated when the armor is created. This effect lasts until the beginning of the wearer’s next turn. This ability can be applied only to medium armor.
 
 *Construction* Craft Magic Arms and Armor, *resistance*; *Cost* +1 bonus.
 
@@ -138,7 +138,7 @@ A suit of withstanding armor is inscribed with eldritch runes across its surface
 
 *Aura* moderate illusion and transmutation; *CL* 9th; *Slot* armor; *Price* 24,200 gp; *Weight* 20 lbs.
 
-These +2 armored coats are traditionally worn by elite duelists. The wearer of this armor gains a +2 enhancement bonus on initiative checks and a +2 circumstance bonus on attacks of opportunity if the attacks are made with a longsword or rapier. Once per day when the wearer of a duelist’s coat is the target of a melee attack, she can make an attack with a longsword or rapier as an immediate action. If the result of her attack roll is higher than that of her attacker, the wearer of the duelist’s coat parries the attack and takes no damage.
+These +2 armored coats are traditionally worn by elite duelists. The wearer of this armor gains a +2 enhancement bonus on initiative checks and a +2 circumstance bonus on attacks of opportunity if the attacks are made with a longsword or rapier. Once per day when the wearer of a duelist’s coat is the target of a melee attack, she can make an attack with a longsword or rapier as an immediate action (1 AP of your next turn). If the result of her attack roll is higher than that of her attacker, the wearer of the duelist’s coat parries the attack and takes no damage.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *cat’s grace*, *symbol of striking*; *Cost* 12,200 gp.
 
@@ -182,7 +182,7 @@ A suit of armor with the advancing special ability allows its wearer to move thr
 
 *Aura* strong transmutation; *CL* 15th; *Price* +5 bonus
 
-As an immediate action, the wearer of a suit of dread wing armor can order it to disassemble and reconfigure itself as a pair of immense dragon’s wings. These wings grant the armor’s wearer a fly speed of 60 feet (average maneuverability) and can be used as secondary natural weapons. These bladed wings each deal 1d6 points of damage for a Medium wearer (1d4 points of damage for a Small wearer). The wings are treated as the same kind of material as the base armor for the purpose of penetrating damage reduction. While the wings are unfurled, a suit of dread wing armor’s total armor bonus decreases by half. The dread wing special ability can be applied only to full plate.
+As an immediate action (1 AP of your next turn), the wearer of a suit of dread wing armor can order it to disassemble and reconfigure itself as a pair of immense dragon’s wings. These wings grant the armor’s wearer a fly speed of 60 feet (average maneuverability) and can be used as secondary natural weapons. These bladed wings each deal 1d6 points of damage for a Medium wearer (1d4 points of damage for a Small wearer). The wings are treated as the same kind of material as the base armor for the purpose of penetrating damage reduction. While the wings are unfurled, a suit of dread wing armor’s total armor bonus decreases by half. The dread wing special ability can be applied only to full plate.
 
 *Construction* Craft Magic Arms and Armor, *fly*, *iron body*; *Cost* +5 bonus.
 
@@ -198,7 +198,7 @@ On command, the wearer of a suit of radiant flight armor can conjure a pair of b
 
 *Aura* faint conjuration and transmutation; *CL* 3rd; *Price* +2 bonus
 
-When the wearer of a suit of rampaging armor charges or attempts a bull rush combat maneuver check, he can ignore difficult terrain. Once per day as a swift action, when the wearer of a suit of rampaging armor charges or performs a bull rush combat maneuver, he can turn each square he moves through into difficult terrain as he demolishes everything in his path. This change of terrain remains for 1 minute. The rampaging special ability can be applied only to heavy armor.
+When the wearer of a suit of rampaging armor charges or attempts a bull rush combat maneuver check, he can ignore difficult terrain. Once per day as a swift action (1 AP), when the wearer of a suit of rampaging armor charges or performs a bull rush combat maneuver, he can turn each square he moves through into difficult terrain as he demolishes everything in his path. This change of terrain remains for 1 minute. The rampaging special ability can be applied only to heavy armor.
 
 *Construction* Craft Magic Arms and Armor, *feather step*, *stone call*; *Cost* +2 bonus.
 
@@ -206,7 +206,7 @@ When the wearer of a suit of rampaging armor charges or attempts a bull rush com
 
 *Aura* moderate conjuration and evocation; *CL* 9th; *Price* +5 bonus
 
-When the wearer of unbowed armor would be reduced to 0 hit points or fewer by an attack that deals hit point damage, the wearer can negate all of that attack’s damage as an immediate action. Using this effect permanently destroys the unbowed armor and causes it to explode in a shower of metal shrapnel, dealing 1d6 points of piercing damage per point of armor bonus to AC granted by the armor. This damage affects all creatures within 10 feet of the wearer (but not the wearer herself). A successful DC 20 Reflex save halves this damage. The unbowed special ability can be applied only to heavy armor.
+When the wearer of unbowed armor would be reduced to 0 hit points or fewer by an attack that deals hit point damage, the wearer can negate all of that attack’s damage as an immediate action (1 AP of your next turn). Using this effect permanently destroys the unbowed armor and causes it to explode in a shower of metal shrapnel, dealing 1d6 points of piercing damage per point of armor bonus to AC granted by the armor. This damage affects all creatures within 10 feet of the wearer (but not the wearer herself). A successful DC 20 Reflex save halves this damage. The unbowed special ability can be applied only to heavy armor.
 
 *Construction* Craft Magic Arms and Armor, *breath of life*, *shatter*; *Cost* +5 bonus.
 
@@ -218,9 +218,9 @@ When the wearer of unbowed armor would be reduced to 0 hit points or fewer by an
 
 This suit of +2 field plate is composed of durable plates of steel layered over an intricate framework of gears, springs, and pistons that move with mechanical precision. A suit of clockwork armor requires a special winding key to function; this key is created as part of making a suit of clockwork armor.
 
-In order to function, a suit of clockwork armor must be fully wound as a full-round action. Once fully wound, a suit of clockwork armor functions for 4 hours. If a suit of clockwork armor is not fully wound, its gears grind to a halt and it imposes double its normal armor check penalty and a –2 penalty to its wearer’s Strength and Dexterity scores. Donning or removing a suit of unwound clockwork armor requires 10 minutes.
+In order to function, a suit of clockwork armor must be fully wound as a full-round action (3 AP). Once fully wound, a suit of clockwork armor functions for 4 hours. If a suit of clockwork armor is not fully wound, its gears grind to a halt and it imposes double its normal armor check penalty and a –2 penalty to its wearer’s Strength and Dexterity scores. Donning or removing a suit of unwound clockwork armor requires 10 minutes.
 
-When fully wound, a suit of clockwork armor can be donned or removed as a full-round action that provokes attacks of opportunity. It grants the wearer a +4 temporary enhancement bonus to Strength and Constitution, and its weight does not count against the wearer’s total encumbrance. A single crossbow or firearm sized appropriately for the wearer can be added to the armor with a successful DC 20 Craft (armor) check. Such a weapon can be fired once as a standard action by the wearer, then automatically reloads itself in 2d4 rounds, as long as the wearer has the appropriate ammunition in his gear.
+When fully wound, a suit of clockwork armor can be donned or removed as a full-round action (3 AP) that provokes attacks of opportunity. It grants the wearer a +4 temporary enhancement bonus to Strength and Constitution, and its weight does not count against the wearer’s total encumbrance. A single crossbow or firearm sized appropriately for the wearer can be added to the armor with a successful DC 20 Craft (armor) check. Such a weapon can be fired once as a standard action (2 AP) by the wearer, then automatically reloads itself in 2d4 rounds, as long as the wearer has the appropriate ammunition in his gear.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *animate objects*; *Cost* 17,350 gp.
 
@@ -230,7 +230,7 @@ When fully wound, a suit of clockwork armor can be donned or removed as a full-r
 
 This gilded suit of +2 banded mail is decorated with images of celestial beings holding their weapons high. Legion armor is typically worn by high-ranking angels and archons directly combating the forces of evil on the Material Plane.
 
-Once per day as a standard action, the wearer of a suit of legion armor can cast the spell *spiritual ally* with a duration of 1 minute. This ally typically takes on the appearance of an imposing angelic warrior. At any time while the armor’s spiritual ally is conjured, the wearer of a suit of legion armor can dismiss the effect as a standard action, causing the spiritual ally to explode with a thunderous choir of voices and blaring trumpets. This effect causes each evil-aligned creature within 100 feet to become shaken unless it succeeds at a DC 20 Will save.
+Once per day as a standard action (1 AP), the wearer of a suit of legion armor can cast the spell *spiritual ally* with a duration of 1 minute. This ally typically takes on the appearance of an imposing angelic warrior. At any time while the armor’s spiritual ally is conjured, the wearer of a suit of legion armor can dismiss the effect as a standard action (1 AP), causing the spiritual ally to explode with a thunderous choir of voices and blaring trumpets. This effect causes each evil-aligned creature within 100 feet to become shaken unless it succeeds at a DC 20 Will save.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *cause fear*, *spiritual ally*; *Cost* 6,900 gp.
 
@@ -238,7 +238,7 @@ Once per day as a standard action, the wearer of a suit of legion armor can cast
 
 *Aura* moderate abjuration and evocation; *CL* 7th; *Slot* armor; *Price* 20,750 gp; *Weight* 50 lbs.
 
-This +1 half-plate is emblazoned with holy script and religious iconography. The wearer gains a +2 sacred bonus on saving throws against channeled negative energy and to resist negative levels. When worn by a character with the smite evil class feature, the armor sheds light like a torch at all times. A wearer with the smite evil class feature can expend one use of this ability as an immediate action to create a defensive ward around an adjacent creature, granting the target a deflection bonus to AC and a resistance bonus on saves equal to the wearer’s Charisma bonus against attacks and effects originating from creatures with an evil alignment. This effect lasts for 1 round.
+This +1 half-plate is emblazoned with holy script and religious iconography. The wearer gains a +2 sacred bonus on saving throws against channeled negative energy and to resist negative levels. When worn by a character with the smite evil class feature, the armor sheds light like a torch at all times. A wearer with the smite evil class feature can expend one use of this ability as an immediate action (1 AP of your next turn) to create a defensive ward around an adjacent creature, granting the target a deflection bonus to AC and a resistance bonus on saves equal to the wearer’s Charisma bonus against attacks and effects originating from creatures with an evil alignment. This effect lasts for 1 round.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *holy smite*, *protection from evil*; *Cost* 10,750 gp.
 
@@ -274,7 +274,7 @@ A bastion shield grants its wielder the ability to shrug off mind-affecting effe
 
 *Aura* strong conjuration and transmutation; *CL* 13th; *Price* +1 bonus
 
-On command, a folding shield transforms to take on the form of another shield. As a move action, the wearer of a folding shield can change the shield from its current form into a buckler, heavy shield, or tower shield. The wearer of a folding shield must be proficient with the type of shield into which he wishes to transform the folding shield.
+On command, a folding shield transforms to take on the form of another shield. As a move action (1 AP), the wearer of a folding shield can change the shield from its current form into a buckler, heavy shield, or tower shield. The wearer of a folding shield must be proficient with the type of shield into which he wishes to transform the folding shield.
 
 *Construction* Craft Magic Arms and Armor, *instant summons*, *masterwork transformation*; *Cost* +1 bonus.
 
@@ -308,7 +308,7 @@ If a spellrending shield successfully protects its wearer from a spell effect, t
 
 *Aura* faint abjuration; *CL* 1st; *Slot* shield; *Price* 5,170 gp; *Weight* 15 lbs.
 
-This +1 heavy steel shield bears a martial emblem on its face. In the hands of a character with the challenge class feature, this shield grants additional abilities. By spending one use of her challenge class feature as an immediate action, the wearer of a challenging shield can apply her Charisma bonus to her shield bonus to AC against a target of her challenge for 1 minute.
+This +1 heavy steel shield bears a martial emblem on its face. In the hands of a character with the challenge class feature, this shield grants additional abilities. By spending one use of her challenge class feature as an immediate action (1 AP of your next turn), the wearer of a challenging shield can apply her Charisma bonus to her shield bonus to AC against a target of her challenge for 1 minute.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *nereid’s grace*; *Cost* 3,670 gp.
 
@@ -324,7 +324,7 @@ The top edge of this +1 mithral buckler features a notched gun rest. A character
 
 *Aura* moderate evocation; *CL* 7th; *Slot* shield; *Price* 29,170 gp; *Weight* 30 lbs.
 
-The matte surface of this +1 voidglass heavy shield is cold to the touch. The shield’s face contains a disorienting field of flickering stars. On command, the wearer of this shield can take 1 point of Wisdom drain to banish a single creature within 30 feet into the airless void between the stars. The target of this ability must succeed at a DC 16 Will save or be teleported into the void. The target can attempt a new saving throw as a full-round action each round to return. While banished in this way, the target takes 3d6 points of cold damage per round and must hold its breath or begin to suffocate. If the Wisdom damage is negated or does not occur, the ability does not function. If the Wisdom drain is healed, any banished creature returns, and the shield becomes permanently nonmagical.
+The matte surface of this +1 voidglass heavy shield is cold to the touch. The shield’s face contains a disorienting field of flickering stars. On command, the wearer of this shield can take 1 point of Wisdom drain to banish a single creature within 30 feet into the airless void between the stars. The target of this ability must succeed at a DC 16 Will save or be teleported into the void. The target can attempt a new saving throw as a full-round action (3 AP) each round to return. While banished in this way, the target takes 3d6 points of cold damage per round and must hold its breath or begin to suffocate. If the Wisdom damage is negated or does not occur, the ability does not function. If the Wisdom drain is healed, any banished creature returns, and the shield becomes permanently nonmagical.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *teleport*; *Cost* 15,670 gp.
 
@@ -332,7 +332,7 @@ The matte surface of this +1 voidglass heavy shield is cold to the touch. The sh
 
 *Aura* moderate evocation; *CL* 7th; *Slot* shield; *Price* 14,080 gp; *Weight* 30 lbs.
 
-Once per day as a standard action, the wielder of this +2 adamantine tower shield can conjure two spiritual allies (as per the spell). These conjured allies last for 1 minute and can neither attack nor move beyond spaces that are adjacent to the wielder of the phalanx shield. Both allies gain a +4 enhancement bonus to AC and have the Shield Wall teamwork feat.
+Once per day as a standard action (1 AP), the wielder of this +2 adamantine tower shield can conjure two spiritual allies (as per the spell). These conjured allies last for 1 minute and can neither attack nor move beyond spaces that are adjacent to the wielder of the phalanx shield. Both allies gain a +4 enhancement bonus to AC and have the Shield Wall teamwork feat.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *spiritual ally*; *Cost* 9,580 gp.
 

@@ -10,6 +10,6 @@ You have a rival, and the two of you try to sabotage, humiliate, or otherwise de
 
 **Goal**: Thwart your rival without anyone else directly interfering. Achieving your rival’s goal before her in a manner that humiliates her or completely steals her glory through your direct actions also qualifies.
 
-**Completion Benefit**: Once per day, you can take 20 on a single skill check as a standard action if the skill check is one that would allow you to take 20.
+**Completion Benefit**: Once per day, you can take 20 on a single skill check as a standard action (1 AP) if the skill check is one that would allow you to take 20.
 
 **Special**: Thwarting you becomes an all-consuming goal for your rival. Your rival gains a +2 bonus on initiative checks, saving throws, and skill checks against you. Your rival attempts to steal or undermine accomplishments which you strive to achieve.

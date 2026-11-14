@@ -32,7 +32,7 @@ This device appears to be a silver medallion in the shape of a beetle. If it is 
 **Aura** moderate divination; **CL** 8th  
 **Slot** neck; **Price** 2,500 gp; **Weight** —
 
-This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action) in order for the detection to take place. A scarab enables its possessor to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no damage reduction.
+This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action (1 AP)) in order for the detection to take place. A scarab enables its possessor to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no damage reduction.
 
 **Requirements** Craft Wondrous Item, detect magic, creator must be at least 10th level; **Cost** 1,250 gp
 
@@ -41,7 +41,7 @@ This beetle-shaped pin enables its wearer to detect any golem within 60 feet, al
 **Aura** faint transmutation; **CL** 5th  
 **Slot** none; **Price** 250 gp; **Weight** —
 
-This shimmering paste-like substance can be applied to a weapon as a standard action. It gives the weapon the properties of alchemical silver for 1 hour, replacing the properties of any other special material it might have. One vial coats a single melee weapon or 20 units of ammunition.
+This shimmering paste-like substance can be applied to a weapon as a standard action (1 AP). It gives the weapon the properties of alchemical silver for 1 hour, replacing the properties of any other special material it might have. One vial coats a single melee weapon or 20 units of ammunition.
 
 **Requirements** Craft Wondrous Item; **Cost** 125 gp
 
@@ -59,7 +59,7 @@ When worn, a pair of these slippers enables movement on vertical surfaces or eve
 **Aura** strong transmutation; **CL** 20th  
 **Slot** none; **Price** 2,400 gp (per ounce); **Weight** —
 
-This pale amber substance is thick and viscous. Because of its particular powers, it can be contained only in a flask whose inside has been coated with 1 ounce of salve of slipperiness, and each time any of the bonding agent is poured from the flask, a new application of the salve of slipperiness must be put in the flask within 1 round to prevent the remaining glue from adhering to the side of the container. A flask of sovereign glue, when found, holds anywhere from 1 to 7 ounces of the stuff (1d8–1, minimum 1), with the other ounce of the flask’s capacity taken up by the salve of slipperiness. One ounce of this adhesive covers 1 square foot of surface, bonding virtually any two substances together in a permanent union. The glue takes 1 round to set. If the objects are pulled apart (a move action) before that time has elapsed, that application of the glue loses its stickiness and is worthless. If the glue is allowed to set, then attempting to separate the two bonded objects has no effect, except when universal solvent is applied to the bond. Sovereign glue is dissolved by universal solvent.
+This pale amber substance is thick and viscous. Because of its particular powers, it can be contained only in a flask whose inside has been coated with 1 ounce of salve of slipperiness, and each time any of the bonding agent is poured from the flask, a new application of the salve of slipperiness must be put in the flask within 1 round to prevent the remaining glue from adhering to the side of the container. A flask of sovereign glue, when found, holds anywhere from 1 to 7 ounces of the stuff (1d8–1, minimum 1), with the other ounce of the flask’s capacity taken up by the salve of slipperiness. One ounce of this adhesive covers 1 square foot of surface, bonding virtually any two substances together in a permanent union. The glue takes 1 round to set. If the objects are pulled apart (a move action (1 AP)) before that time has elapsed, that application of the glue loses its stickiness and is worthless. If the glue is allowed to set, then attempting to separate the two bonded objects has no effect, except when universal solvent is applied to the bond. Sovereign glue is dissolved by universal solvent.
 
 **Requirements** Craft Wondrous Item, make whole; **Cost** 1,200 gp
 
@@ -167,7 +167,7 @@ When applied to any matter that was once alive, such as wood, paper, or a dead b
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** none; **Price** 50 gp; **Weight** —
 
-This substance has the unique property of being able to dissolve sovereign glue, tanglefoot bags, and all other adhesives. Applying the solvent is a standard action.
+This substance has the unique property of being able to dissolve sovereign glue, tanglefoot bags, and all other adhesives. Applying the solvent is a standard action (1 AP).
 
 **Requirements** Craft Wondrous Item, acid arrow; **Cost** 25 gp
 

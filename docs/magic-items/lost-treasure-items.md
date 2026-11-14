@@ -44,9 +44,9 @@ If the bonsai is fully restored, a character who spends 15 minutes tending it an
 
 This heavy cast-iron bullseye lantern has dull blue glass and frost-themed scrollwork. Using any of its powers requires a special lamp oil made only by a coven of winter witches; it holds enough oil to burn for 8 hours. When lit it burns with a cold light, and if the burning oil is used as a weapon it deals cold damage instead of fire damage.
 
-As a standard action the wielder can focus the beam on a single living creature as a ranged touch attack. This consumes 1 minute's worth of oil and opens a small portal from the frozen north to the inside of the target's body. The target takes 1d6 cold damage and suffers frostbite and hypothermia (treated as fatigued until all nonlethal damage is healed). Any creature that dies from this cold damage rises the following midnight as a draugr.
+As a standard action (1 AP) the wielder can focus the beam on a single living creature as a ranged touch attack. This consumes 1 minute's worth of oil and opens a small portal from the frozen north to the inside of the target's body. The target takes 1d6 cold damage and suffers frostbite and hypothermia (treated as fatigued until all nonlethal damage is healed). Any creature that dies from this cold damage rises the following midnight as a draugr.
 
-Also as a standard action, the user can focus the light on a depiction of a specific ship, creating a 5-foot-wide portal connecting the depiction to the ship's main mast. Any creature that touches one side of the portal appears at the other. The portals look like shimmering blue-white patches of light and you cannot see through them. They stay open as long as the lantern is lit, even if it no longer shines on the depiction.
+Also as a standard action (1 AP), the user can focus the light on a depiction of a specific ship, creating a 5-foot-wide portal connecting the depiction to the ship's main mast. Any creature that touches one side of the portal appears at the other. The portals look like shimmering blue-white patches of light and you cannot see through them. They stay open as long as the lantern is lit, even if it no longer shines on the depiction.
 
 Finally, if the lit beacon hangs on the prow of a ship, a ship-sized portal opens before the vessel and lets it sail through. This portal always leads to the harbor of the witches' frozen capital, and immediately closes any other portals the lantern has opened. Creating a portal of any size consumes 10 minutes' worth of oil.
 
@@ -105,7 +105,7 @@ The weapon has a +12 bonus on Profession (soldier) checks and a +7 bonus on Sens
 
 *Aura* moderate enchantment and necromancy; *Slot* armor; *Price* 60,500 gp; *Weight* 50 lbs.
 
-This suit of +4 *bolstering* *grinding* adamantine full plate bristles with long thorns and barbs along the edges of its heavy plates. The thorns come from the *grinding* special ability and also act as +1 *cruel* armor spikes. As a swift action whenever the spikes damage an opponent, the wearer can attempt an Intimidate check to demoralize that opponent. The wearer does not take the normal –4 penalty on Intimidate checks against larger opponents.
+This suit of +4 *bolstering* *grinding* adamantine full plate bristles with long thorns and barbs along the edges of its heavy plates. The thorns come from the *grinding* special ability and also act as +1 *cruel* armor spikes. As a swift action (1 AP) whenever the spikes damage an opponent, the wearer can attempt an Intimidate check to demoralize that opponent. The wearer does not take the normal –4 penalty on Intimidate checks against larger opponents.
 
 *Construction* Craft Magic Arms and Armor, *cause fear*, *death knell*, *heroism*, *keen edge*; Cost 38,500 gp.
 
@@ -189,7 +189,7 @@ The Kiss can be removed by cutting the skin away, which deals a further 1d6 poin
 *Aura* moderate transmutation; *Slot* none; *Price* 28,500 gp; *Weight* 2 lbs.  
 *Alignment* neutral; *Senses* 60 ft., blindsense; *Int* 10, *Wis* 16, *Cha* 12; *Ego* 10; *Language* empathy
 
-This well-worn rag doll is 18 inches tall, with floppy limbs and fine clothing patched in several places. Pressing the left button-eye makes the doll preternaturally rigid and fixes it in space as an *immovable rod*, with hardness 20 while in this state. It can hold this state for 1 minute before returning to plush; pressing the right eye returns it to its original state immediately. Pressing either eye is a move action.
+This well-worn rag doll is 18 inches tall, with floppy limbs and fine clothing patched in several places. Pressing the left button-eye makes the doll preternaturally rigid and fixes it in space as an *immovable rod*, with hardness 20 while in this state. It can hold this state for 1 minute before returning to plush; pressing the right eye returns it to its original state immediately. Pressing either eye is a move action (1 AP).
 
 The doll has the protection of children as its special purpose and prioritizes protecting its owner if the owner is a child. It does not impose a negative level on an owner who is a child, regardless of the child's alignment. It is content to lie inert most of the time, watching its owner's surroundings for threats (Perception +13), and rarely tries to communicate other than to encourage feelings of calm and safety. If danger presents itself, it can move up to 10 feet under its own power, become immobile as above, or take the aid another action to grant its owner an AC bonus. Once per day it can act as if it had the In Harm's Way feat. Aware that its immobility is temporary, it empathically urges its owner to escape while it holds the menace at bay. It can move under its own power only to block a perceived threat.
 
@@ -214,7 +214,7 @@ This darkwood staff is shod with cold iron, but hair-thin cracks spiderweb acros
 | *Repulsion* | 2 |
 | *Wall of force* (as a 10-foot-diameter hemisphere around the caster only) | 2 |
 
-It is also a +2 quarterstaff that grants its wielder a +2 luck bonus to AC and on saving throws. Like a *staff of power*, it can be broken intentionally as a retributive strike (standard action). All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge remaining, those within 40 feet take 15 points per charge, and those within 60 feet take 10 points per charge; a DC 17 Reflex save halves the damage, though the wielder is always destroyed. The staff is destroyed by the strike, but reforms 10d10 years after the anniversary of its last wielder's death, somewhere on the Material Plane within 100 miles of one of that wielder's descendants. It tends to turn up in a freedom fighter's hands soon after reforming.
+It is also a +2 quarterstaff that grants its wielder a +2 luck bonus to AC and on saving throws. Like a *staff of power*, it can be broken intentionally as a retributive strike (standard action (1 AP)). All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge remaining, those within 40 feet take 15 points per charge, and those within 60 feet take 10 points per charge; a DC 17 Reflex save halves the damage, though the wielder is always destroyed. The staff is destroyed by the strike, but reforms 10d10 years after the anniversary of its last wielder's death, somewhere on the Material Plane within 100 miles of one of that wielder's descendants. It tends to turn up in a freedom fighter's hands soon after reforming.
 
 *Construction* Craft Magic Arms and Armor, Craft Staff, Heighten Spell, Widen Spell, *break enchantment*, *fireball*, *flame arrow*, *fog cloud*, *greater dispel magic*, *invisibility*, *knock*, *nondetection*, *repulsion*, *wall of force*; Cost 120,000 gp.
 
@@ -391,7 +391,7 @@ This vicious-looking bullwhip is made of spider silk hardened to the consistency
 
 This +1 mithral bladed scarf is unusually long and ornate, patched and expanded over several generations into a garish collection of colors and stitching in the shapes of names and stylized map icons. Because of its extra length and magically enhanced balance and accuracy, when the wielder makes a full attack with it she can strike foes as if it had the reach quality and still attack adjacent opponents. This doesn't expand her reach for attacks beyond those made as part of the full attack (such as attacks of opportunity).
 
-Once per day as a standard action the wielder can whirl the scarf through the air and teleport as though using *dimension door*; she can't bring other creatures. If this is used to move from one spot on a road or trail to another spot on that or a connected road or trail (even if the connection is lengthy or indirect), it is a move action instead.
+Once per day as a standard action (1 AP) the wielder can whirl the scarf through the air and teleport as though using *dimension door*; she can't bring other creatures. If this is used to move from one spot on a road or trail to another spot on that or a connected road or trail (even if the connection is lengthy or indirect), it is a move action (1 AP) instead.
 
 *Construction* Craft Magic Arms and Armor, *dimension door*; Cost 20,186 gp.
 
@@ -399,9 +399,9 @@ Once per day as a standard action the wielder can whirl the scarf through the ai
 
 *Aura* strong necromancy; *Slot* none; *Price* 78,302 gp; *Weight* 1 lb.
 
-A wolf's head glares from the steel blade of this savage dagger, whose hilt is crafted of bone and ruby. If this +2 *ghost touch* dagger reduces a creature to fewer than 0 hit points, the wielder can embed it in the corpse. Once embedded, it imprisons the slain creature's soul within its body, preventing its spirit from passing on and preventing spells such as *speak with dead* and *resurrection* from functioning (even *true resurrection* or *wish* used to communicate with the spirit). The dagger can be removed as a standard action but never simply falls out. When it is removed the soul is freed and can be restored to life normally. However, being trapped within one's own corpse is traumatic: for each year a spirit is trapped there is a cumulative 1% chance (to a maximum of 50%) that on removal it emerges as a ghost or similar incorporeal undead.
+A wolf's head glares from the steel blade of this savage dagger, whose hilt is crafted of bone and ruby. If this +2 *ghost touch* dagger reduces a creature to fewer than 0 hit points, the wielder can embed it in the corpse. Once embedded, it imprisons the slain creature's soul within its body, preventing its spirit from passing on and preventing spells such as *speak with dead* and *resurrection* from functioning (even *true resurrection* or *wish* used to communicate with the spirit). The dagger can be removed as a standard action (1 AP) but never simply falls out. When it is removed the soul is freed and can be restored to life normally. However, being trapped within one's own corpse is traumatic: for each year a spirit is trapped there is a cumulative 1% chance (to a maximum of 50%) that on removal it emerges as a ghost or similar incorporeal undead.
 
-If an undead creature created this way is damaged by the weapon, it must succeed at a DC 22 Will save or be affected as by *trap the soul* (using the blade as the container). The dagger cannot imprison any other spirit, in a corpse or in itself, while a spirit is within the blade. The wielder can release an undead creature from the dagger as a full-round action.
+If an undead creature created this way is damaged by the weapon, it must succeed at a DC 22 Will save or be affected as by *trap the soul* (using the blade as the container). The dagger cannot imprison any other spirit, in a corpse or in itself, while a spirit is within the blade. The wielder can release an undead creature from the dagger as a full-round action (3 AP).
 
 *Construction* Craft Magic Arms and Armor, *plane shift*, *trap the soul*; Cost 39,302 gp.
 

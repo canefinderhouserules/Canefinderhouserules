@@ -83,7 +83,7 @@ At 4th level, whenever a soul warden destroys an undead creature using channel p
 
 #### Undead Imposition (Su)
 
-At 5th level, as a standard action a soul warden may expend one use of channel damage to control an undead creature within 30 feet. The target can negate this effect with a successful Will save (DC 10 + 1/2 the soul warden's level + the soul warden's Cha modifier). Failure means the creature falls under the soul warden's control, obeying his commands to the best of its ability for a number of rounds equal to the soul warden's class level. This ability is otherwise identical to *control undead*.
+At 5th level, as a standard action (1 AP) a soul warden may expend one use of channel damage to control an undead creature within 30 feet. The target can negate this effect with a successful Will save (DC 10 + 1/2 the soul warden's level + the soul warden's Cha modifier). Failure means the creature falls under the soul warden's control, obeying his commands to the best of its ability for a number of rounds equal to the soul warden's class level. This ability is otherwise identical to *control undead*.
 
 #### Negative Energy Ward (Su)
 

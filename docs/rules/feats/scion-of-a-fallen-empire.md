@@ -6,4 +6,4 @@ Though you might not be able to trace your lineage back to an ancient empire, yo
 
 **Prerequisites**: Human.
 
-**Benefit**: While you’re adjacent to a human ally who also has this feat, you gain a +2 competence bonus on a single attack roll, saving throw, ability check, or skill check as an immediate action. You must choose to use this ability before making the roll.
+**Benefit**: While you’re adjacent to a human ally who also has this feat, you gain a +2 competence bonus on a single attack roll, saving throw, ability check, or skill check as an immediate action (1 AP of your next turn). You must choose to use this ability before making the roll.

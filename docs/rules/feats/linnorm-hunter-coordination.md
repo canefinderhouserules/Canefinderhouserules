@@ -6,6 +6,6 @@ You are adept at working with your animal companion to strike the same location 
 
 **Prerequisites**: Cha 13, Dex 13, [Dodge](dodge.md), [Linnorm Hunter Retreat](linnorm-hunter-retreat.md), [Linnorm Hunter Style](linnorm-hunter-style.md), base attack bonus +6, must have or be an animal companion.
 
-**Benefit**: When you and an ally with this feat are using Linnorm Hunter Style and threatening the same target, you can make a single melee attack at your highest base attack bonus against that target as a full-round action. If your attack is successful, you deal extra damage with this feat equal to the damage of one of your ally’s natural attacks. This extra damage is not multiplied on a critical hit.
+**Benefit**: When you and an ally with this feat are using Linnorm Hunter Style and threatening the same target, you can make a single melee attack at your highest base attack bonus against that target as a full-round action (3 AP). If your attack is successful, you deal extra damage with this feat equal to the damage of one of your ally’s natural attacks. This extra damage is not multiplied on a critical hit.
 
 **Special**: Animal companions with an Intelligence score of 1 or 2 can take this feat.

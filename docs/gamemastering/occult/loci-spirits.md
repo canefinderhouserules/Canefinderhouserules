@@ -30,7 +30,7 @@ The ceremony to manifest a loci spirit’s ceremonial effect requires the celebr
 
 **Coterie**: The effect targets all creatures in the loci spirit’s area or is potentially useful to creatures other than the celebrant (for instance, creating something that anyone could use would be a coterie manifestation).
 
-**Boon**: The effect targets all creatures in the loci spirit’s area with a boon allowing affected characters to use the effect within the next 24 hours as an immediate action. A creature can benefit from only one boon from a loci spirit at a time.
+**Boon**: The effect targets all creatures in the loci spirit’s area with a boon allowing affected characters to use the effect within the next 24 hours as an immediate action (1 AP of your next turn). A creature can benefit from only one boon from a loci spirit at a time.
 
 After a loci spirit manifests its ceremonial effect, or after a failed ceremony, the spirit can’t manifest the effect again for another 24 hours.
 

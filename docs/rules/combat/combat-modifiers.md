@@ -111,7 +111,7 @@ A helpless opponent is someone who is bound, sleeping, paralyzed, unconscious, o
 
 **Regular Attack**: A helpless character takes a –4 penalty to AC against melee attacks. In addition, a helpless character is treated as having a Dexterity of 0, giving him a –5 penalty to AC against both melee and ranged attacks (for a total of –9 against melee and –5 against ranged). A helpless character is also flat-footed.
 
-**Coup de Grace**: As a full-round action, you can use a melee weapon to deliver a coup de grace (pronounced “coo day grahs”) to a helpless opponent. You can also use a bow or crossbow, provided you are adjacent to the target.
+**Coup de Grace**: As a full-round action (3 AP), you can use a melee weapon to deliver a coup de grace (pronounced “coo day grahs”) to a helpless opponent. You can also use a bow or crossbow, provided you are adjacent to the target.
 
 You automatically hit and score a critical hit. The defender does not get a Fortitude save to avoid death: the attack simply deals its critical hit damage, and a coup de grace only kills if that damage is enough to reduce the target to death by itself. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace.
 

@@ -78,7 +78,7 @@ Contact with a tainted, necromantic blood (by you or one of your ancestors) tran
 
 **Bloodline Powers**: The insidious magic of black blood grants you profane powers and hideous resistances.
 
-**Black Blood (Su)**: At 1st level, your blood runs black. You are immune to the effects (both beneficial and destructive) of black blood. You have this benefit constantly, even while not bloodraging. When you take damage from a slashing or piercing attack while bloodraging, as an immediate action you can grant your melee attacks the frost weapon special ability for 2 rounds. You can use this ability three times per day.
+**Black Blood (Su)**: At 1st level, your blood runs black. You are immune to the effects (both beneficial and destructive) of black blood. You have this benefit constantly, even while not bloodraging. When you take damage from a slashing or piercing attack while bloodraging, as an immediate action (1 AP of your next turn) you can grant your melee attacks the frost weapon special ability for 2 rounds. You can use this ability three times per day.
 
 **Abnormal Reach (Su)**: At 4th level, the black blood pumping within you twists and elongates your limbs. Your reach increases by 5 feet.
 
@@ -188,7 +188,7 @@ The power of the elements resides in you, and at times you can hardly control it
 | Fire | Fire | +30 feet base land speed |
 | Water | Cold | Swim 60 feet |
 
-**Elemental Strikes (Su)**: At 1st level, three times a day as a swift action you can imbue your melee attacks with elemental energy. For 1 round, your melee attacks deal 1d6 points of additional damage of your energy type. At 8th level, you can use this ability up to five times per day. At 20th level, all your melee attacks deal this damage, and this ability no longer requires a swift action to activate.
+**Elemental Strikes (Su)**: At 1st level, three times a day as a swift action (1 AP) you can imbue your melee attacks with elemental energy. For 1 round, your melee attacks deal 1d6 points of additional damage of your energy type. At 8th level, you can use this ability up to five times per day. At 20th level, all your melee attacks deal this damage, and this ability no longer requires a swift action (1 AP) to activate.
 
 **Elemental Resistance (Ex)**: At 4th level, you gain energy resistance 10 against your energy type.
 
@@ -218,7 +218,7 @@ One of your ancestors was fey, or the fey realm somehow intermixed with your blo
 
 **Quickling Bloodrage (Sp)**: At 12th level, while bloodraging you're treated as if you are under the effects of haste.
 
-**One with Nature (Su)**: At 16th level, creatures of the animal or plant types don't attack you unless compelled to do so by magic or you attack them first. Three times per day, you can transport yourself from one tree to another tree, as tree stride with half the transport range. Moving from one tree to another in this manner is a move action. You gain these abilities even while not bloodraging.
+**One with Nature (Su)**: At 16th level, creatures of the animal or plant types don't attack you unless compelled to do so by magic or you attack them first. Three times per day, you can transport yourself from one tree to another tree, as tree stride with half the transport range. Moving from one tree to another in this manner is a move action (1 AP). You gain these abilities even while not bloodraging.
 
 **Fury of the Fey (Su)**: At 20th level, when entering a bloodrage you can choose one type of creature (and subtype for humanoids or outsiders) that can be affected by the bane weapon special ability. All of your melee attacks are considered to have bane against that type. This ability doesn't stack with other forms of bane.
 
@@ -232,7 +232,7 @@ The Pit lives in your blood. Maybe one of your ancestors was seduced by the powe
 
 **Bloodline Powers**: When you bloodrage, hellfire infuses your blood with terrifying effects.
 
-**Hellfire Strike (Su)**: At 1st level, as a swift action up to three times a day you can infuse your attacks with hellfire. When you do, your melee attacks gain the flaming weapon special ability for 1 round. At 12th level, you can use this ability five times per day, and the effect is treated as flaming burst.
+**Hellfire Strike (Su)**: At 1st level, as a swift action (1 AP) up to three times a day you can infuse your attacks with hellfire. When you do, your melee attacks gain the flaming weapon special ability for 1 round. At 12th level, you can use this ability five times per day, and the effect is treated as flaming burst.
 
 **Infernal Resistance (Ex)**: At 4th level, you gain fire resistance 5, as well as a +2 bonus on saving throws against poison. At 8th level, your fire resistance increases to 10, and the bonus on saving throws against poison increases to +4.
 
@@ -300,13 +300,13 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 **Shifting Aspect (Su)**: At 1st level, you gain the benefit of the [Aspect of the Beast](../../rules/feats/aspect-of-the-beast.md) feat while bloodraging. As part of the action to enter a bloodrage, you can choose any one of the four manifestations to affect you for the duration of your bloodrage.
 
-**Spontaneous Change (Sp)**: At 4th level, when entering a bloodrage, you can cast a transmutation spell that affects only you as a swift action, provided that the spell's normal casting time is 1 round or shorter. The spell lasts for as long as you continue bloodraging, regardless of the spell's normal duration. You can use this ability only to cast [bloodrager spells](bloodrager.md#spells) you know.
+**Spontaneous Change (Sp)**: At 4th level, when entering a bloodrage, you can cast a transmutation spell that affects only you as a swift action (1 AP), provided that the spell's normal casting time is 1 round or shorter. The spell lasts for as long as you continue bloodraging, regardless of the spell's normal duration. You can use this ability only to cast [bloodrager spells](bloodrager.md#spells) you know.
 
 **Evolving Aspect (Su)**: At 8th level, you gain Aspect of the Beast as a bonus feat even if you don't meet the prerequisites. As normal for the feat, you must choose one of the manifestations, and you gain its benefits even while not bloodraging. When you enter a bloodrage, you can choose a second manifestation to affect you simultaneously for the duration of your bloodrage.
 
 **Beastskin (Su)**: At 12th level, when entering a bloodrage, you can cause your skin to grow thicker and more bestial. Your damage reduction from your bloodrager levels increases by 2, but it can be bypassed with silver weapons. Your natural attacks (including unarmed strikes) are then treated as silver for the purpose of overcoming damage reduction.
 
-**Shed Skin (Su)**: At 16th level, when your bloodrage ends, you can choose one spell or spell-like ability affecting you and attempt to shake it off as an immediate action. Attempt a dispel check (1d20 + your bloodrager level) as if you were casting [*dispel magic*](../../magic/spells/dispel-magic.md). If you succeed, the effect is dispelled.
+**Shed Skin (Su)**: At 16th level, when your bloodrage ends, you can choose one spell or spell-like ability affecting you and attempt to shake it off as an immediate action (1 AP of your next turn). Attempt a dispel check (1d20 + your bloodrager level) as if you were casting [*dispel magic*](../../magic/spells/dispel-magic.md). If you succeed, the effect is dispelled.
 
 **True Shapeshifter (Sp)**: At 20th level, you are immune to all transmutation spells and effects unless you are a willing target. You can also use *greater polymorph* at will as a spell-like ability with a caster level equal to your bloodrager level targeting only yourself. These effects function even while you're not bloodraging.
 
@@ -322,7 +322,7 @@ Those who successfully traded riddles with sphinxes sometimes find themselves or
 
 **Claws (Su)**: At 1st level, you grow claws while bloodraging. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack, using your full base attack bonus. These attacks deal 1d6 points of damage each (1d4 if you are Small) plus your Strength modifier. At 4th level, these claws are considered magic weapons for the purpose of overcoming damage reduction. At 8th level, the damage increases to 1d8 points (1d6 if you are Small). At 12th level, the critical threat range for these claws increases to 19–20.
 
-**Roar (Su)**: At 4th level, the bloodrager learns the secrets of the sphinx's roar. He can roar as a standard action a number of times per day equal to 3 + his Charisma modifier. Enemies within 60 feet of the bloodrager that can hear the roar must succeed at a Will save (DC = 10 + half the bloodrager's character level + his Charisma modifier) or become [frightened](../../rules/appendices/conditions.md#frightened) for 1d6 rounds. At 10th level, the bloodrager can instead cause the targets to be [panicked](../../rules/appendices/conditions.md#panicked) or stunned 1 (bloodrager's choice) and [deafened](../../rules/appendices/conditions.md#deafened) for the duration; at 16th level, the bloodrager can instead cause the targets to be [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) for 1 round. Whether or not the save is successful, a creature cannot be the target of the bloodrager's roar again for 24 hours.
+**Roar (Su)**: At 4th level, the bloodrager learns the secrets of the sphinx's roar. He can roar as a standard action (2 AP) a number of times per day equal to 3 + his Charisma modifier. Enemies within 60 feet of the bloodrager that can hear the roar must succeed at a Will save (DC = 10 + half the bloodrager's character level + his Charisma modifier) or become [frightened](../../rules/appendices/conditions.md#frightened) for 1d6 rounds. At 10th level, the bloodrager can instead cause the targets to be [panicked](../../rules/appendices/conditions.md#panicked) or stunned 1 (bloodrager's choice) and [deafened](../../rules/appendices/conditions.md#deafened) for the duration; at 16th level, the bloodrager can instead cause the targets to be [paralyzed 1](../../rules/appendices/conditions.md#paralyzed) for 1 round. Whether or not the save is successful, a creature cannot be the target of the bloodrager's roar again for 24 hours.
 
 **Desert Fortitude (Su)**: At 8th level, you gain resistance 5 to electricity and fire. In addition, you gain [*endure elements*](../../magic/spells/endure-elements.md) as a constant spell-like ability and a +2 competence bonus on saves against arcane spells. At 16th level, your resistance to electricity and fire increases to 10.
 
@@ -348,7 +348,7 @@ The foul corruption of undeath is a part of you. Somewhere in the past, death be
 
 **Death's Gift (Su)**: At 8th level, you gain cold resistance 10, as well as DR 10/- against nonlethal damage.
 
-**Frightful Strikes (Su)**: At 12th level, as a swift action once per bloodrage you can empower your melee attacks with fear. For 1 round, creatures you hit with your melee attacks become shaken. Creatures who are already shaken become frightened. At 16th level, those who are already frightened become panicked. This is a mind-affecting fear effect.
+**Frightful Strikes (Su)**: At 12th level, as a swift action (1 AP) once per bloodrage you can empower your melee attacks with fear. For 1 round, creatures you hit with your melee attacks become shaken. Creatures who are already shaken become frightened. At 16th level, those who are already frightened become panicked. This is a mind-affecting fear effect.
 
 **Incorporeal Bloodrager (Su)**: At 16th level, once per day you can choose to become incorporeal. You take only half damage from magic corporeal sources, and you take no damage from non-magic weapons and objects. Your attacks deal damage as normal due to your ghost strike bloodrage power.
 
@@ -368,9 +368,9 @@ Your body is suffused with raw plant life. When you bloodrage, your plantlike ch
 
 **Oaken Skin (Ex)**: At 4th level, when entering a bloodrage, your skin thickens like bark and you gain a +2 enhancement bonus to your natural armor. At 8th level and every 4 levels thereafter, this bonus increases by 1.
 
-**Botanical Plasticity (Su)**: At 8th level, as a swift action you can bend and twist the plant life within your body to elongate your limbs. Your reach increases by 5 feet until the end of your turn.
+**Botanical Plasticity (Su)**: At 8th level, as a swift action (1 AP) you can bend and twist the plant life within your body to elongate your limbs. Your reach increases by 5 feet until the end of your turn.
 
-**Verdant Call (Sp)**: At 12th level, when entering a bloodrage, as a swift action you can animate nearby plants to aid you in combat, functioning as wilderness soldiers, using your Charisma modifier instead of your Wisdom modifier. This effect lasts for as long as you continue bloodraging, regardless of the spell’s normal duration.
+**Verdant Call (Sp)**: At 12th level, when entering a bloodrage, as a swift action (1 AP) you can animate nearby plants to aid you in combat, functioning as wilderness soldiers, using your Charisma modifier instead of your Wisdom modifier. This effect lasts for as long as you continue bloodraging, regardless of the spell’s normal duration.
 
 **Nature’s Thorns (Su)**: At 16th level, creatures that hit you in melee (other than those using manufactured reach weapons) take 4d6 points of piercing damage. A creature takes this damage only on its first successful attack against you in a combat round, and not on subsequent attacks in that round.
 
@@ -386,17 +386,17 @@ You are the descendant of great heroes from a lost civilization.
 
 **Bloodline Powers**: When you bloodrage, you transform into an ancestor or another notable figure from a lost civilization.
 
-**Warrior's Discipline (Su)**: At 1st level, you tap into untold generations of battle experience to control your battle fury. As a swift action, you can halve any morale bonuses gained from bloodrage to be able to use Intelligence- or Charisma-based skills, or any abilities requiring patience or concentration. This effect lasts for 1 round.
+**Warrior's Discipline (Su)**: At 1st level, you tap into untold generations of battle experience to control your battle fury. As a swift action (1 AP), you can halve any morale bonuses gained from bloodrage to be able to use Intelligence- or Charisma-based skills, or any abilities requiring patience or concentration. This effect lasts for 1 round.
 
-**Ancient Tactics (Su)**: At 4th level, while you are bloodraging, whenever you or an ally within 30 feet of you would gain a bonus on attack rolls or to AC due to battlefield position (such as flanking or cover), that bonus is increased by 1. Allies must be able to see and hear you to gain this bonus. You can expend a spell slot as an immediate action to further increase this bonus by 1 per level of the spell slot expended until the beginning of your next turn.
+**Ancient Tactics (Su)**: At 4th level, while you are bloodraging, whenever you or an ally within 30 feet of you would gain a bonus on attack rolls or to AC due to battlefield position (such as flanking or cover), that bonus is increased by 1. Allies must be able to see and hear you to gain this bonus. You can expend a spell slot as an immediate action (1 AP of your next turn) to further increase this bonus by 1 per level of the spell slot expended until the beginning of your next turn.
 
 **Legacy Style (Su)**: At 8th level, select any one style feat. You can use this style feat while bloodraging; however, if you do not meet all of the style feat's prerequisites, you must expend a spell slot when entering the style's stance, and the benefits last for only 1 round per level of the spell slot expended or for the duration of your bloodrage, whichever is shorter. If you already have this style feat, you can enter the style's stance as part of the free action to bloodrage.
 
 **War's Memory (Sp)**: At 12th level, you can manifest an illusion of an ancestor's bloody battlefield once per day. This functions as [*hallucinatory terrain*](../../magic/spells/hallucinatory-terrain.md), except it can create only battlefields drawn from a civilization's past, and the effect ends when your bloodrage ends. The saving throw to disbelieve is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. The horrifying scene causes creatures within the area of effect to take a –2 penalty on saves versus fear effects until they disbelieve the illusion. If a creature fails the Will save to disbelieve the illusion, it gains the shaken condition until your bloodrage ends, or until it leaves the area of effect. This is an illusion (glamer) and fear effect.
 
-**Legacy Conduit (Su)**: At 16th level, when using the legacy style bloodline power, you can expend a spell slot as a swift action to share the benefits of the selected style feat with all allies within 30 feet. The benefits last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as a swift action.
+**Legacy Conduit (Su)**: At 16th level, when using the legacy style bloodline power, you can expend a spell slot as a swift action (1 AP) to share the benefits of the selected style feat with all allies within 30 feet. The benefits last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as a swift action (1 AP).
 
-**Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as [*spiritual ally*](../../magic/spells/spiritual-ally.md) with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.
+**Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as [*spiritual ally*](../../magic/spells/spiritual-ally.md) with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action (1 AP). Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.
 
 ## Medusa
 
@@ -408,7 +408,7 @@ No magical creature is more iconic in some legends than the medusa. Perhaps your
 
 **Bloodline Powers**: The cold fury of your cursed rage can freeze others in their tracks.
 
-**Gaze (Su)**: At 1st level, you can harness the power of the medusa through your gaze. As a standard action, choose a creature within your line of sight who is within 30 feet of you. The creature must succeed at a Fortitude saving throw or have its speed halved for a number of rounds equal to your Constitution modifier (minimum 1 round). The DC of this save is equal to 10 + half your bloodrager level + your Constitution modifier.
+**Gaze (Su)**: At 1st level, you can harness the power of the medusa through your gaze. As a standard action (1 AP), choose a creature within your line of sight who is within 30 feet of you. The creature must succeed at a Fortitude saving throw or have its speed halved for a number of rounds equal to your Constitution modifier (minimum 1 round). The DC of this save is equal to 10 + half your bloodrager level + your Constitution modifier.
 
 **Gift of the Ancients (Su)**: At 4th level, you gain a +2 resistance bonus on saving throws against gaze attacks and to resist poison. You also gain a +2 competence bonus on Perception checks. At 8th level, these bonuses increase by 2.
 
@@ -474,7 +474,7 @@ Hags interbreed with other races frequently, and those children who escape their
 
 **Bloodline Powers**: While bloodraging, you manifest the physical power and arcane corruption of your hag ancestor.
 
-**Evil Eye (Su)**: At 1st level, you can curse an opponent with a wicked glance. As a standard action, you can afflict one target within 30 feet that you can see, causing it to take a –2 penalty to AC and on attack rolls for 1 round per class level or until the target hits you with an attack. The target can negate this effect with a successful Will saving throw (DC = 10 + half your bloodrager level + your Charisma modifier). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Evil Eye (Su)**: At 1st level, you can curse an opponent with a wicked glance. As a standard action (1 AP), you can afflict one target within 30 feet that you can see, causing it to take a –2 penalty to AC and on attack rolls for 1 round per class level or until the target hits you with an attack. The target can negate this effect with a successful Will saving throw (DC = 10 + half your bloodrager level + your Charisma modifier). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Hag Fortitude (Su)**: At 4th level, you become immune to mundane and magical diseases. At 8th level, you also become immune to poison.
 
@@ -494,7 +494,7 @@ One of your ancestors paid the ultimate price for her beliefs. This distant rela
 
 **Bloodline Powers**: When you bloodrage, you channel the power of your ancestor's self-sacrifice to urge yourself and your allies on to greater feats of strength than would otherwise be possible.
 
-**Ancestral Strikes (Su)**: At 1st level, three times per day as a swift action, you can imbue your melee attacks with a measure of your ancestor's power. For 1 round, your melee attacks deal 1d6 additional points of good-aligned damage if you are good, or they deal 1d6 additional points of evil-aligned damage if you are evil. If you are neutral, you must choose which type of damage this ability deals when you choose this bloodline, and the decision cannot be changed later. At 8th level, you can use this ability up to five times per day. At 20th level, all your melee attacks deal this additional damage, and you don't need to activate this ability.
+**Ancestral Strikes (Su)**: At 1st level, three times per day as a swift action (1 AP), you can imbue your melee attacks with a measure of your ancestor's power. For 1 round, your melee attacks deal 1d6 additional points of good-aligned damage if you are good, or they deal 1d6 additional points of evil-aligned damage if you are evil. If you are neutral, you must choose which type of damage this ability deals when you choose this bloodline, and the decision cannot be changed later. At 8th level, you can use this ability up to five times per day. At 20th level, all your melee attacks deal this additional damage, and you don't need to activate this ability.
 
 **Martyr's Resistances (Su)**: At 4th level, you gain fire resistance 5 and you gain a +2 bonus on saving throws against fear and pain effects. At 8th level, your fire resistance increases to 10, and the bonus on saving throws against fear and pain effects increases to +4.
 
@@ -502,6 +502,6 @@ One of your ancestors paid the ultimate price for her beliefs. This distant rela
 
 **Ancestral Champion (Su)**: At 12th level, when your ancestral strikes target a creature whose alignment is opposite to the type of damage the strikes deal, your ancestral strikes instead deal 2d6 additional points of damage of that type.
 
-**Sacrificial Exchange (Su)**: At 16th level, as a swift action once per day while you are bloodraging, you can take a –2 penalty to Armor Class to grant one ally within 30 feet a +4 morale bonus to one ability score. (This penalty to your AC stacks with the penalty from your bloodrage.) The penalty and bonus last for the duration of your bloodrage. At 20th level, the penalty this ability imposes changes to –4, and the ally's bonus increases to +6.
+**Sacrificial Exchange (Su)**: At 16th level, as a swift action (1 AP) once per day while you are bloodraging, you can take a –2 penalty to Armor Class to grant one ally within 30 feet a +4 morale bonus to one ability score. (This penalty to your AC stacks with the penalty from your bloodrage.) The penalty and bonus last for the duration of your bloodrage. At 20th level, the penalty this ability imposes changes to –4, and the ally's bonus increases to +6.
 
 **Eternal Martyr (Su)**: Your ancestor's sacrifice transcends time and space, keeping you alive when you otherwise shouldn't be and sanctifying your form. At 20th level, your ancestor's act of martyrdom infuses your spirit. You become immune to death effects. Material components for spells and effects to bring you back to life (such as [*raise dead*](../../magic/spells/raise-dead.md) or [*resurrection*](../../magic/spells/resurrection.md)) cost half as much as normal. Your body cannot be turned into an undead creature, as though you were affected by a permanent [*hallow*](../../magic/spells/hallow.md) effect (caster level = your bloodrager level). You have these benefits constantly, even while not bloodraging.

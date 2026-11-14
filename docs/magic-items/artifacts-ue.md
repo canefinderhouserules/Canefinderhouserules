@@ -16,7 +16,7 @@ This verdant branch glows with a soothing, pale green light. Carefully pruned fr
 **Aura** strong enchantment; **CL** 18th  
 **Slot** head; **Weight** 3 lbs.
 
-The creation of some long-forgotten tyrant, this iron crown is fitted with four retractable spikes that can slide into the crown’s interior. When the *crown of the iron king* is placed on a creature’s head, these spikes burrow violently inward. The wearer becomes the thrall of the creature who placed the crown on it for as long as it wears the crown. The crown must be placed on either a willing or unconscious creature, which takes a full-round action that provokes attacks of opportunity. Taking off the crown also takes a full-round action that provokes attacks of opportunity and can be taken only by the creature who put the crown on the wearer, or at the command of that creature. Although the crown’s spikes dig into the head of the wearer, it does no permanent harm aside from leaving four vicious-looking scars once the crown is removed.
+The creation of some long-forgotten tyrant, this iron crown is fitted with four retractable spikes that can slide into the crown’s interior. When the *crown of the iron king* is placed on a creature’s head, these spikes burrow violently inward. The wearer becomes the thrall of the creature who placed the crown on it for as long as it wears the crown. The crown must be placed on either a willing or unconscious creature, which takes a full-round action (3 AP) that provokes attacks of opportunity. Taking off the crown also takes a full-round action (3 AP) that provokes attacks of opportunity and can be taken only by the creature who put the crown on the wearer, or at the command of that creature. Although the crown’s spikes dig into the head of the wearer, it does no permanent harm aside from leaving four vicious-looking scars once the crown is removed.
 
 Once a creature becomes a thrall of the crown’s user, it must do everything the user commands, as per the spell *dominate person*—though the crown’s dominance is not limited to humanoids, lasts as long the creature is wearing the crown, and allows no saving throw.
 
@@ -101,7 +101,7 @@ This charm resembles an orrery composed of small, freely orbiting orbs circling 
 **Aura** strong transmutation; **CL** 20th  
 **Slot** none; **Weight** 3 lbs.
 
-Each time this jar gains a new user it produces 2d4 dragon teeth. When one of these teeth is swallowed, it grants the user the following powers for 1 full week or until it is dismissed as a standard action that does not provoke attacks of opportunity.
+Each time this jar gains a new user it produces 2d4 dragon teeth. When one of these teeth is swallowed, it grants the user the following powers for 1 full week or until it is dismissed as a standard action (1 AP) that does not provoke attacks of opportunity.
 
 - The user is immediately polymorphed into a dragon, as if subject to *form of the dragon I*, *II*, or *III*, depending on the user’s Hit Dice. If the creature swallowing the tooth has 12 HD or fewer, it is affected as per *form of the dragon I*. Those with 13 to 18 HD are affected as per *form of the dragon II*, and those 19 or more Hit Dice are affected as per *form of the dragon III*. The type of dragon is chosen by the user based on its alignment.
     - *Lawful good*: bronze dragon, gold dragon, or silver dragon

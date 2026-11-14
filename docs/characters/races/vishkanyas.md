@@ -22,7 +22,7 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 **Poison Use**: Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison.
 
-**Toxic**: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action.
+**Toxic**: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action (1 AP).
 
 *Vishkanya Venom*: Injury; *save* Fort DC 10 + 1/2 the vishkanya’s Hit Dice + the vishkanya’s Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d2 Dex; *cure* 1 save.
 

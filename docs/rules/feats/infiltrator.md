@@ -6,7 +6,7 @@ You have sacrificed your true identity in order to achieve your goal.
 
 **Prerequisite**: Must have adopted an assumed or secret identity associated with an enemy organization.
 
-**Benefit**: Once per day when you succeed at a saving throw to negate a divination, you learn what the divination would have revealed and can spend an immediate action to cause the divination to return appropriate false information you imagine that would fit with your cover identity.
+**Benefit**: Once per day when you succeed at a saving throw to negate a divination, you learn what the divination would have revealed and can spend an immediate action (1 AP of your next turn) to cause the divination to return appropriate false information you imagine that would fit with your cover identity.
 
 **Goal**: Thwart the organization you have infiltrated, defeating or turning to your cause an appropriate number of challenging foes in the process.
 

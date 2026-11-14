@@ -33,7 +33,7 @@ You also can rig simple devices such as saddles or wagon wheels to work normally
 
 **Action**: The amount of time needed to make a Disable Device check depends on the task, as noted above.
 
-Disabling a simple device takes 1 round and is a full-round action. A tricky or difficult device requires 1d4 or 2d4 rounds. Attempting to open a lock is a full-round action.
+Disabling a simple device takes 1 round and is a full-round action (3 AP). A tricky or difficult device requires 1d4 or 2d4 rounds. Attempting to open a lock is a full-round action (3 AP).
 
 **Try Again**: Varies. You can retry checks made to disable traps if you miss the check by 4 or less. You can retry checks made to open locks.
 

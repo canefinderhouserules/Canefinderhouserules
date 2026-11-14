@@ -8,7 +8,7 @@ These spells appear in their source without any class list. Your GM decides whic
 
 **Casting**
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S, DF
 
@@ -30,7 +30,7 @@ This spell envelops the target in shadows that can, if you desire, conceal the c
 
 **Casting**
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S, DF
 
@@ -52,7 +52,7 @@ You fire a ray of positive energy. A creature struck takes varying damage, depen
 
 **Casting**
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S
 
@@ -172,7 +172,7 @@ This spell protects you (but not your gear) from a natural occurrence or conditi
 
 **Casting**
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S
 
@@ -220,7 +220,7 @@ You create a completely real, nonmagical, unattended object of any sort of matte
 
 **Casting**
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S, DF
 

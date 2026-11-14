@@ -59,7 +59,7 @@ At 2nd level, a first magic arcanist casts spells with the good descriptor at +1
 
 #### Intoned Recollection (Ex)
 
-At 3rd level, by performing a special ritual lasting 1 minute, a first magic arcanist can prepare a spell into an open arcane spell slot. The open spell slot must have purposefully been left empty at the beginning of the day when she prepared her spells. She must be able to read her spellbook or have mastered the spell with the Spell Mastery feat to prepare it with this ability. She doesn’t need to rest for 8 hours beforehand, but all other requirements of the preparation process still apply. At 9th level, she can do this as a full-round action, provided she has her spellbook in hand or has mastered the spell with the Spell Mastery feat. She can use this ability a number of times per day equal to her Intelligence modifier.
+At 3rd level, by performing a special ritual lasting 1 minute, a first magic arcanist can prepare a spell into an open arcane spell slot. The open spell slot must have purposefully been left empty at the beginning of the day when she prepared her spells. She must be able to read her spellbook or have mastered the spell with the Spell Mastery feat to prepare it with this ability. She doesn’t need to rest for 8 hours beforehand, but all other requirements of the preparation process still apply. At 9th level, she can do this as a full-round action (3 AP), provided she has her spellbook in hand or has mastered the spell with the Spell Mastery feat. She can use this ability a number of times per day equal to her Intelligence modifier.
 
 #### Lasting Goodness (Su)
 
@@ -71,7 +71,7 @@ At 4th level, a first magic arcanist can lose any prepared spell to cast a spell
 
 #### Blessed Warding (Sp)
 
-At 5th level, a first magic arcanist is under a constant [*protection from evil*](../../magic/spells/protection-from-evil.md) effect (CL equal to her class level). If this effect is dispelled, she can reactivate it as a swift action.
+At 5th level, a first magic arcanist is under a constant [*protection from evil*](../../magic/spells/protection-from-evil.md) effect (CL equal to her class level). If this effect is dispelled, she can reactivate it as a swift action (1 AP).
 
 #### Immediate Spell Mastery (Sp)
 
@@ -87,7 +87,7 @@ At 9th level, a first magic arcanist expands her skill at translating divine mag
 
 #### Altruistic Guardian (Su)
 
-At 10th level, once per day when a spell or supernatural effect that allows spell resistance targets a first magic arcanist’s allies or if they are within its area of effect, as an immediate action she can redirect the effects to herself. She can do this for a number of allies up to her Intelligence modifier, provided they are within 30 feet of her. The arcanist must attempt the appropriate saving throws for each ally, possibly attempting multiple saving throws against the same spell or effect. She takes all damage and suffers all conditions and other effects that her allies would have taken, possibly taking these multiple times. This protects allies only from damage and conditions they’d take at the time she spends the immediate action, not from any they might later suffer from a non-instantaneous spell or effect.
+At 10th level, once per day when a spell or supernatural effect that allows spell resistance targets a first magic arcanist’s allies or if they are within its area of effect, as an immediate action (1 AP of your next turn) she can redirect the effects to herself. She can do this for a number of allies up to her Intelligence modifier, provided they are within 30 feet of her. The arcanist must attempt the appropriate saving throws for each ally, possibly attempting multiple saving throws against the same spell or effect. She takes all damage and suffers all conditions and other effects that her allies would have taken, possibly taking these multiple times. This protects allies only from damage and conditions they’d take at the time she spends the immediate action (1 AP of your next turn), not from any they might later suffer from a non-instantaneous spell or effect.
 
 #### Timeless Body (Ex)
 

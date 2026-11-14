@@ -20,7 +20,7 @@ This divine food comes in many forms, from a light and airy honeyed cake to a de
 
 This belt looks like nothing more than iron chains connecting large pieces of slate. It grants its wearer a +5 inherent bonus to combat maneuver defense against bull rush, drag, grapple, overrun, reposition, and trip combat maneuvers and a +5 inherent bonus on saving throws against any effect that attempts to move the wearer with physical force or energy. Furthermore, if the wearer is a mythic creature and targeted by an effect that would teleport her, she can choose whether or not she wishes to be teleported.
 
-As a standard action, the wearer can expend one use of mythic power to create a 30-foot-radius aura that affects all enemy creatures within it as though they were subject to a *dimensional anchor* spell. This aura lasts for a number of rounds equal to the wearer's mythic tier.
+As a standard action (1 AP), the wearer can expend one use of mythic power to create a 30-foot-radius aura that affects all enemy creatures within it as though they were subject to a *dimensional anchor* spell. This aura lasts for a number of rounds equal to the wearer's mythic tier.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *bull’s strength*, *dimensional anchor*; **Cost** 30,000 gp
 
@@ -29,7 +29,7 @@ As a standard action, the wearer can expend one use of mythic power to create a 
 **Aura** strong divination; **CL** 13th  
 **Slot** head; **Price** 85,000 gp; **Weight** 3 lbs.
 
-This plain steel helm completely covers the face, lacking even eyeholes or a slit to peer out of. Its wearer is blinded by the helm, but gains blindsense with a range of 60 feet. As a swift action, the wearer can expend one use of mythic power to gain blindsight with a range of 60 feet for 1 minute, or instead expend two uses of mythic power to gain blindsight with a range of 120 feet for 1 minute. The wearer can expend three uses of mythic power to gain the effects of truesight for 1 minute.
+This plain steel helm completely covers the face, lacking even eyeholes or a slit to peer out of. Its wearer is blinded by the helm, but gains blindsense with a range of 60 feet. As a swift action (1 AP), the wearer can expend one use of mythic power to gain blindsight with a range of 60 feet for 1 minute, or instead expend two uses of mythic power to gain blindsight with a range of 120 feet for 1 minute. The wearer can expend three uses of mythic power to gain the effects of truesight for 1 minute.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *echolocation*, *true seeing*; **Cost** 42,500 gp
 
@@ -38,7 +38,7 @@ This plain steel helm completely covers the face, lacking even eyeholes or a sli
 **Aura** strong abjuration; **CL** 18th  
 **Slot** none; **Price** 50,000 gp; **Weight** 2 lbs.
 
-This immense tome contains dozens of banishing rituals, each written in an ever-changing mix of languages. It can be read only by way of *comprehend languages* or a similar translating effect. As a full-round action, a mythic creature can flip to and read an appropriate ritual of banishment for a particular category of extraplanar creatures, such as angels or devils. Creatures not of that category are unaffected. The reader's caster level for this ritual is double her mythic tier. Once the ritual is read, the book counts as an object that the chosen creatures hate and fear, granting a +2 bonus on the reader's caster level check to overcome the chosen creatures' spell resistance. If other objects and substances that can affect the caster level check to overcome spell resistance are available, the book's user can apply those objects and substances when using the banishment ritual, further increasing her bonus.
+This immense tome contains dozens of banishing rituals, each written in an ever-changing mix of languages. It can be read only by way of *comprehend languages* or a similar translating effect. As a full-round action (3 AP), a mythic creature can flip to and read an appropriate ritual of banishment for a particular category of extraplanar creatures, such as angels or devils. Creatures not of that category are unaffected. The reader's caster level for this ritual is double her mythic tier. Once the ritual is read, the book counts as an object that the chosen creatures hate and fear, granting a +2 bonus on the reader's caster level check to overcome the chosen creatures' spell resistance. If other objects and substances that can affect the caster level check to overcome spell resistance are available, the book's user can apply those objects and substances when using the banishment ritual, further increasing her bonus.
 
 A book of banishing can be safely read once per day. If read additional times during that period (regardless of who reads it), the reader must succeed at a DC 20 Will save or suffer the effects of a feeblemind spell. This save DC increases by 5 each additional time the book is read that day.
 
@@ -51,7 +51,7 @@ A book of banishing can be safely read once per day. If read additional times du
 
 This small, weathered journal contains 10,000 jokes that change to be perfectly suited for particular audiences. The book grants its owner a +5 bonus on any Diplomacy check to influence the attitude of a creature. Additionally, up to three times per day the book can be used to cast *hideous laughter* (Will DC 13 negates).
 
-By expending one use of mythic power as a standard action, the book's reader can make a brutal verbal tirade mocking a creature. The target creature is enraged per the *rage* spell, and all other enemies within 30 feet of the target begin laughing uncontrollably, as *hideous laughter* (Will DC 14 negates either effect). The book contains only one perfect joke for any given creature, so attempting to use the book on a creature a second time yields no effect.
+By expending one use of mythic power as a standard action (1 AP), the book's reader can make a brutal verbal tirade mocking a creature. The target creature is enraged per the *rage* spell, and all other enemies within 30 feet of the target begin laughing uncontrollably, as *hideous laughter* (Will DC 14 negates either effect). The book contains only one perfect joke for any given creature, so attempting to use the book on a creature a second time yields no effect.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *hideous laughter*, *rage*; **Cost** 13,500 gp
 
@@ -69,7 +69,7 @@ These strange, heavy, leather-and-steel boots feature a pair of ever-fluttering 
 **Aura** moderate transmutation; **CL** 6th  
 **Slot** none; **Price** 4,000 gp; **Weight** 1 lb.
 
-This oddly shaped, transparent bottle has one chamber nested inside the other and two separate spouts, one leading into the smaller inner bottle, and the other into the outer bottle. To use the bottle, the inner chamber is filled with a potion and the outer chamber filled with water. When left alone for 24 hours, the water in the outer chamber slowly takes on the properties of the potion in the inner chamber, creating a second dose of the potion (though the bottle is unable to replicate potions with expensive material components). The second dose of created potion must be quaffed from the bountiful bottle to be effective, and loses its potency if transferred to another container. By expending one use of mythic power, the time it takes to transform a potion is shortened to a full-round action.
+This oddly shaped, transparent bottle has one chamber nested inside the other and two separate spouts, one leading into the smaller inner bottle, and the other into the outer bottle. To use the bottle, the inner chamber is filled with a potion and the outer chamber filled with water. When left alone for 24 hours, the water in the outer chamber slowly takes on the properties of the potion in the inner chamber, creating a second dose of the potion (though the bottle is unable to replicate potions with expensive material components). The second dose of created potion must be quaffed from the bountiful bottle to be effective, and loses its potency if transferred to another container. By expending one use of mythic power, the time it takes to transform a potion is shortened to a full-round action (3 AP).
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *universal formula*; **Cost** 2,000 gp
 
@@ -78,7 +78,7 @@ This oddly shaped, transparent bottle has one chamber nested inside the other an
 **Aura** moderate transmutation; **CL** 10th  
 **Slot** wrists; **Price** 10,000 gp; **Weight** 1/2 lb.
 
-These golden bracers are sculpted to depict a pair of mighty stags rearing up in triumph. They grant a +4 bonus on all Strength ability checks and Strength-based skill checks. As a swift action up to three times per day, the wearer can call upon the power of these bracers to gain a +4 sacred bonus to Strength for 1 round. The wearer can expend one use of mythic power to treat one Strength ability check or Strength-based skill check as if he rolled a natural 20.
+These golden bracers are sculpted to depict a pair of mighty stags rearing up in triumph. They grant a +4 bonus on all Strength ability checks and Strength-based skill checks. As a swift action (1 AP) up to three times per day, the wearer can call upon the power of these bracers to gain a +4 sacred bonus to Strength for 1 round. The wearer can expend one use of mythic power to treat one Strength ability check or Strength-based skill check as if he rolled a natural 20.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *bull’s strength*; **Cost** 5,000 gp
 
@@ -89,7 +89,7 @@ These golden bracers are sculpted to depict a pair of mighty stags rearing up in
 
 These heavy, bronze bracers depict scenes of epic battle and heroic sacrifice. When worn together, they provide no benefit. When two individuals each wear a single bracer, each wearer gains a +2 shield bonus to AC as long as the two remain within 100 feet of each other.
 
-By expending one use of mythic power as a swift action, the wearer of one of the bracers can teleport up to 100 feet per mythic tier to any unoccupied space adjacent to the other wearer. The wearer acts normally for the remainder of her turn, then immediately teleports back to her original space when her turn ends. Effects that prevent dimensional travel either from the wearer's space or to her destination block this ability.
+By expending one use of mythic power as a swift action (1 AP), the wearer of one of the bracers can teleport up to 100 feet per mythic tier to any unoccupied space adjacent to the other wearer. The wearer acts normally for the remainder of her turn, then immediately teleports back to her original space when her turn ends. Effects that prevent dimensional travel either from the wearer's space or to her destination block this ability.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *dimension door*, *shield*; **Cost** 20,000 gp
 
@@ -117,7 +117,7 @@ By expending one use of mythic power, the bearer can instead take the form of th
 | +4 bonus/+5 Will | 24,000 gp | 12,000 gp |
 | +5 bonus/+6 Will | 37,500 gp | 18,750 gp |
 
-The wearer of this brightly colored patchwork cape gains a bonus on all saving throws, as with a cloak of resistance, but the resistance bonus on Will saves is one greater. Furthermore, if the wearer fails a Will saving throw, he can expend one use of mythic power as an immediate action to reroll that saving throw. If the wearer fails the saving throw on the reroll, he can't use this ability again for 24 hours.
+The wearer of this brightly colored patchwork cape gains a bonus on all saving throws, as with a cloak of resistance, but the resistance bonus on Will saves is one greater. Furthermore, if the wearer fails a Will saving throw, he can expend one use of mythic power as an immediate action (1 AP of your next turn) to reroll that saving throw. If the wearer fails the saving throw on the reroll, he can't use this ability again for 24 hours.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *resistance*, the creator must have the mythic saves ability; **Cost** varies (see table)
 
@@ -126,7 +126,7 @@ The wearer of this brightly colored patchwork cape gains a bonus on all saving t
 **Aura** faint abjuration; **CL** 3rd  
 **Slot** none; **Price** 18,000 gp; **Weight** 2 lbs.
 
-When a block of incense is placed inside this censer and ignited, the bearer gains the benefits of a heightened 2nd-level *sanctuary* spell for as long as the incense burns (1 hour per stick of incense) or until the bearer breaks the effect by attacking. Placing the incense is a move action, and igniting it is a standard action. If incense of meditation is burned instead of normal incense, the *sanctuary* effect is heightened to 7th level.
+When a block of incense is placed inside this censer and ignited, the bearer gains the benefits of a heightened 2nd-level *sanctuary* spell for as long as the incense burns (1 hour per stick of incense) or until the bearer breaks the effect by attacking. Placing the incense is a move action (1 AP), and igniting it is a standard action (1 AP). If incense of meditation is burned instead of normal incense, the *sanctuary* effect is heightened to 7th level.
 
 While lighting the censer, the bearer can expend one use of mythic power to grant the benefits of the censer's *sanctuary* to all allies within a 20-foot-radius emanation of the censer for 10 minutes. Allies who attack break the *sanctuary* effect only for themselves. The incense extinguishes 1 round after the bearer ceases to use. If incense of meditation is extinguished before 8 hours of burning, the remainder becomes normal incense.
 
@@ -154,7 +154,7 @@ When struck, this heavy iron tube produces a discordant tone and draws the surro
 | +4 bonus/+5 Reflex | 24,000 gp | 12,000 gp |
 | +5 bonus/+6 Reflex | 37,500 gp | 18,750 gp |
 
-The wearer of this light, short cloak gains a bonus on all saving throws, as with a cloak of resistance, but the resistance bonus on Reflex saves is one greater. Furthermore, if the wearer fails a Reflex saving throw, she can expend one use of mythic power as an immediate action to reroll that saving throw. If the wearer fails the saving throw on the reroll, she can't use this ability again for 24 hours.
+The wearer of this light, short cloak gains a bonus on all saving throws, as with a cloak of resistance, but the resistance bonus on Reflex saves is one greater. Furthermore, if the wearer fails a Reflex saving throw, she can expend one use of mythic power as an immediate action (1 AP of your next turn) to reroll that saving throw. If the wearer fails the saving throw on the reroll, she can't use this ability again for 24 hours.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *resistance*, the creator must have the mythic saves ability; **Cost** varies (see table)
 
@@ -187,7 +187,7 @@ If the user expends one use of mythic power when inverting the horn, it instead 
 
 This black leather bandolier is adorned with three brass bells of various sizes and shapes. Each bell can be rung to produce its own effect, or all can be rung at once to create a *death ward*. The death warden's bandolier can be used three times per day. A mythic creature can expend one use of mythic power to use the bandolier without expending one of the item's daily uses.
 
-**Undead Ward Bell**: This long, thin bell produces a high-pitched, piercing ring. When it is rung as a standard action, it creates a 30-foot-burst aura that keeps out undead creatures. An undead creature can't enter the aura unless it succeeds at a DC 16 Will save. Undead within the aura take a -2 penalty on all attack rolls, combat maneuver checks, skill checks, and ability checks. The aura lasts for 5 rounds, but can be extended to 1 minute by expending one use of mythic power.
+**Undead Ward Bell**: This long, thin bell produces a high-pitched, piercing ring. When it is rung as a standard action (1 AP), it creates a 30-foot-burst aura that keeps out undead creatures. An undead creature can't enter the aura unless it succeeds at a DC 16 Will save. Undead within the aura take a -2 penalty on all attack rolls, combat maneuver checks, skill checks, and ability checks. The aura lasts for 5 rounds, but can be extended to 1 minute by expending one use of mythic power.
 
 **Channeling Bell**: This large, bulbous bell creates a rich, reverberating tone. When it's rung as part of the action to channel positive energy to harm undead, it can take the place of the holy symbol needed for channeling. When it's used in such a manner, undead creatures within the area take an additional 2 points of damage per each die of the channelled energy. The undead take this extra damage even if they succeed at their Will saving throws.
 
@@ -242,7 +242,7 @@ This grisly, knotted rope is tied into a noose, and at first glance appears to b
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** hands; **Price** 20,000 gp; **Weight** —
 
-As a move action, the wearer of these fine leather gloves can pick up an unattended object (weighing no more than 20 pounds) that is up to 30 feet away, and move it up to 30 feet. The object falls to the ground at the end of the movement unless the wearer of the gloves moves it into his hand. This action doesn't provoke attacks of opportunity.
+As a move action (1 AP), the wearer of these fine leather gloves can pick up an unattended object (weighing no more than 20 pounds) that is up to 30 feet away, and move it up to 30 feet. The object falls to the ground at the end of the movement unless the wearer of the gloves moves it into his hand. This action doesn't provoke attacks of opportunity.
 
 By expending one use of mythic power as a free action on his turn, the wearer can focus the power of the gloves, allowing him to make unarmed strikes and combat maneuvers to bull rush, disarm, or trip against foes up to 30 feet away until the end of his turn. Treat these attacks as though the wearer had 30 feet of reach. When attacking a non-adjacent target in this manner, the wearer can't be affected by feats and abilities like Strike Back or *fire shield* that require touching or coming near the target. The gloves don't increase the wearer's threatened area.
 
@@ -255,7 +255,7 @@ By expending one use of mythic power as a free action on his turn, the wearer ca
 
 These thin gloves are covered in reflective glyphs and sigils, and the palms are slightly tacky. Like gloves of arrow snaring, twice per day the wearer can act as if she had the Snatch Arrow feat, even if she doesn't meet the prerequisites for that feat. In addition, the wearer can expend one of this item's uses per day to use the Snatch Arrows feat on a projectile targeting an ally in a space adjacent to her.
 
-As an immediate action, the wearer can expend one use of mythic power and one of this item's uses per day to block a spell targeting her or an adjacent ally, as the parry spell guardian path ability.
+As an immediate action (1 AP of your next turn), the wearer can expend one use of mythic power and one of this item's uses per day to block a spell targeting her or an adjacent ally, as the parry spell guardian path ability.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *shield*, *spell turning*, creator must have the parry spell path ability; **Cost** 4,500 gp
 
@@ -277,7 +277,7 @@ If the wearer expends one use of mythic power when casting a divine spell that u
 
 Uncomfortably sharp protrusions bristle on the inner edge of this heavy, bronze headband. It grants its wearer a +4 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. It also grants skill ranks as a headband of vast intelligence +4. The wearer is protected from all effects that gather information about her via divination, and gains a bonus equal to her mythic tier on saving throws against mind-affecting effects. This protection otherwise functions as *mind blank*, except the headband provides no protection against *limited wish*, miracle, and wish, and it doesn't grant a resistance bonus on saving throws.
 
-When the wearer succeeds at a saving throw against a mind-affecting effect, she can rebound the effect onto the caster as an immediate action by expending one use of mythic power. Treat this as the original spell or effect, except the wearer is treated as the caster and the original caster as the target. The rebounded spell affects only the original caster, and rebounding doesn't prevent the original spell from affecting targets other than the wearer of the headband of sealed thoughts.
+When the wearer succeeds at a saving throw against a mind-affecting effect, she can rebound the effect onto the caster as an immediate action (1 AP of your next turn) by expending one use of mythic power. Treat this as the original spell or effect, except the wearer is treated as the caster and the original caster as the target. The rebounded spell affects only the original caster, and rebounding doesn't prevent the original spell from affecting targets other than the wearer of the headband of sealed thoughts.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *fox’s cunning*, *mind blank*, *spell turning*; **Cost** 75,000 gp
 
@@ -313,7 +313,7 @@ A creature without the humanoid type, including a monstrous humanoid, gains no b
 **Aura** moderate evocation; **CL** 6th  
 **Slot** shoulders; **Price** 65,000 gp; **Weight** 1 lb.
 
-An immolation cloak grants its wearer resist fire 20. As a swift action, the wearer can command the cloak to burst into flame, providing the benefits of a *fire shield* (warm flames only). The wearer can dismiss the flames as a free action. The cloak can be used for a maximum of 10 rounds per day, which don't have to be consecutive. By expending one use of mythic power, the cloak's wearer can recharge its immolation abilities. In addition, the wearer can expend one use of mythic power to detonate in a fiery explosion, dealing 1d8 points of fire damage per character level in a 30-foot-radius spread. A successful Reflex save (DC 10 + the wearer's mythic tier + the wearer's Charisma modifier) halves this damage. Though apparently destroyed in the explosion, the wearer reforms just prior to the start of his next turn in the space he exploded in (or the nearest open space if that space is unavailable).
+An immolation cloak grants its wearer resist fire 20. As a swift action (1 AP), the wearer can command the cloak to burst into flame, providing the benefits of a *fire shield* (warm flames only). The wearer can dismiss the flames as a free action. The cloak can be used for a maximum of 10 rounds per day, which don't have to be consecutive. By expending one use of mythic power, the cloak's wearer can recharge its immolation abilities. In addition, the wearer can expend one use of mythic power to detonate in a fiery explosion, dealing 1d8 points of fire damage per character level in a 30-foot-radius spread. A successful Reflex save (DC 10 + the wearer's mythic tier + the wearer's Charisma modifier) halves this damage. Though apparently destroyed in the explosion, the wearer reforms just prior to the start of his next turn in the space he exploded in (or the nearest open space if that space is unavailable).
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *detonate*, *fire shield*, *resist fire*; **Cost** 32,500 gp
 
@@ -417,9 +417,9 @@ While in this sleep, the helpless creature's heart rate and breathing slow to a 
 **Aura** moderate evocation; **CL** 9th  
 **Slot** neck; **Price** 35,500 gp; **Weight** —
 
-When worn, this silver-and-turquoise necklace melds with the skin, turning into an intricately patterned tattoo on the wearer's chest. It ignores any wearer with an Intelligence score lower than 3, failing to meld or function. The necklace can be removed as a full-round action by concentrating on the tattoo to call the necklace back into existence. While in tattoo form, the amulet grants a +1 bonus on attack and damage rolls with unarmed strikes (but not natural weapons) and provides the benefits of the ghost touch weapon special ability on unarmed strikes. As a swift action, the wearer can spend a ki point to make one unarmed strike—whether as a single attack or part of a full attack-an incorporeal touch attack.
+When worn, this silver-and-turquoise necklace melds with the skin, turning into an intricately patterned tattoo on the wearer's chest. It ignores any wearer with an Intelligence score lower than 3, failing to meld or function. The necklace can be removed as a full-round action (3 AP) by concentrating on the tattoo to call the necklace back into existence. While in tattoo form, the amulet grants a +1 bonus on attack and damage rolls with unarmed strikes (but not natural weapons) and provides the benefits of the ghost touch weapon special ability on unarmed strikes. As a swift action (1 AP), the wearer can spend a ki point to make one unarmed strike—whether as a single attack or part of a full attack-an incorporeal touch attack.
 
-As an immediate action, the wearer can expend one use of mythic power to become incorporeal for 1 round. This lasts until either just before his next turn (if used during his turn) or at the end of his next turn (if used outside his turn). While incorporeal, the wearer has no Strength score, so his Dexterity modifier applies to his melee attacks, ranged attacks, and combat maneuver checks. Since the necklace provides the ghost touch ability, the wearer can make unarmed strikes against corporeal creatures while incorporeal. The wearer can remain inside solid objects as long as he continues expending mythic power to remain incorporeal. If he fails to do so, he materializes inside the object and instantly dies.
+As an immediate action (1 AP of your next turn), the wearer can expend one use of mythic power to become incorporeal for 1 round. This lasts until either just before his next turn (if used during his turn) or at the end of his next turn (if used outside his turn). While incorporeal, the wearer has no Strength score, so his Dexterity modifier applies to his melee attacks, ranged attacks, and combat maneuver checks. Since the necklace provides the ghost touch ability, the wearer can make unarmed strikes against corporeal creatures while incorporeal. The wearer can remain inside solid objects as long as he continues expending mythic power to remain incorporeal. If he fails to do so, he materializes inside the object and instantly dies.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *magic weapon*, *plane shift*; **Cost** 17,750 gp
 
@@ -428,7 +428,7 @@ As an immediate action, the wearer can expend one use of mythic power to become 
 **Aura** strong conjuration; **CL** 12th  
 **Slot** none; **Price** 5,000 gp; **Weight** 1 lb.
 
-This fragrant mead is made from the purest honey gathered from sunny meadows, mixed with rare herbs in the moonlight, and fermented in earthen jars. Consuming nectar of the gods is a standard action that restores 1d4+1 uses of mythic power to a mythic creature (up to the creature's maximum). If a non-mythic creature consumes this drink, it works like the *heroism* spell, lasting for 1 day. A jar contains only a single draft of this potent beverage.
+This fragrant mead is made from the purest honey gathered from sunny meadows, mixed with rare herbs in the moonlight, and fermented in earthen jars. Consuming nectar of the gods is a standard action (1 AP) that restores 1d4+1 uses of mythic power to a mythic creature (up to the creature's maximum). If a non-mythic creature consumes this drink, it works like the *heroism* spell, lasting for 1 day. A jar contains only a single draft of this potent beverage.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *heroism*; **Cost** 2,500 gp
 
@@ -445,7 +445,7 @@ This fragrant mead is made from the purest honey gathered from sunny meadows, mi
 | +4 bonus/+5 Fortitude | 24,000 gp | 12,000 gp |
 | +5 bonus/+6 Fortitude | 37,500 gp | 18,750 gp |
 
-The wearer of these elegant, polished steel pauldrons gains a bonus on all saving throws, as with a cloak of resistance, but the resistance bonus on Fortitude saves is one greater. Furthermore, if the wearer fails a Fortitude saving throw, he can expend one use of mythic power as an immediate action to reroll that saving throw. If the wearer fails the saving throw on the reroll, he can't use this ability again for 24 hours.
+The wearer of these elegant, polished steel pauldrons gains a bonus on all saving throws, as with a cloak of resistance, but the resistance bonus on Fortitude saves is one greater. Furthermore, if the wearer fails a Fortitude saving throw, he can expend one use of mythic power as an immediate action (1 AP of your next turn) to reroll that saving throw. If the wearer fails the saving throw on the reroll, he can't use this ability again for 24 hours.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *resistance*, the creator must have the mythic saves ability; **Cost** varies (see table)
 
@@ -496,7 +496,7 @@ If the wearer takes damage that would reduce her below 0 hit points, she can exp
 
 On command, this battered pewter tankard fills with ale perfectly matched to the bearer's taste and desire. Ale poured out the tankard quickly loses its flavor and virtue, becoming common swill within minutes. The tankard prevents most of the ill effects of excessive drinking, such as hangovers and blackouts, as long as it remains in its owner's possession. It also provides a +4 bonus on saving throws against poison.
 
-Once per hour as a move action, by drinking the contents of the tankard and voicing a toast the imbiber gains a +2 morale bonus to Strength and Constitution, but takes a -2 penalty on Dexterity- and Intelligence-based ability and skill checks. These effects last for 10 minutes. If the tankard is empty, it must be filled prior to drinking. If the imbiber expends one use of mythic power while drinking from the cup, the morale bonus increases to +4, the penalties to -4, and the duration of the tankard's effects to 1 hour.
+Once per hour as a move action (1 AP), by drinking the contents of the tankard and voicing a toast the imbiber gains a +2 morale bonus to Strength and Constitution, but takes a -2 penalty on Dexterity- and Intelligence-based ability and skill checks. These effects last for 10 minutes. If the tankard is empty, it must be filled prior to drinking. If the imbiber expends one use of mythic power while drinking from the cup, the morale bonus increases to +4, the penalties to -4, and the duration of the tankard's effects to 1 hour.
 
 **Requirements** Craft Wondrous Item, Mythic Crafter, *create food and water*, *heroism*, *neutralize poison*; **Cost** 8,250 gp
 
@@ -520,7 +520,7 @@ This fibrous powder is ground from bark harvested from the roots of trees growin
 **Aura** moderate transmutation; **CL** 10th  
 **Slot** feet; **Price** 80,000 gp; **Weight** 1 lb.
 
-These well-worn boots act as boots of speed combined with boots of striding and springing. The wearer can expend one use of mythic power as a move action to take a 7-league step. The step functions as teleportation with a 21 -mile range, except the wearer must have an uninterrupted path to her intended destination, though this path doesn't have to follow a straight line. Harmful environments between the wearer and the destination cause her no harm.
+These well-worn boots act as boots of speed combined with boots of striding and springing. The wearer can expend one use of mythic power as a move action (1 AP) to take a 7-league step. The step functions as teleportation with a 21 -mile range, except the wearer must have an uninterrupted path to her intended destination, though this path doesn't have to follow a straight line. Harmful environments between the wearer and the destination cause her no harm.
 
 If the wearer's path is blocked, her travel ends just short of the obstacle blocking her. If she tries to step too far, she appears in the closest available space to her destination without going beyond 21 miles of where she started.
 

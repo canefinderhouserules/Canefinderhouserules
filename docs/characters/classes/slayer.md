@@ -53,11 +53,11 @@ A slayer is proficient with all simple and [martial weapons](../../equipment/wea
 
 ### Studied Target (Ex)
 
-A slayer can study an opponent he can see as a move action. The slayer then gains a +1 bonus on [Bluff](../../rules/skills/bluff.md), [Knowledge](../../rules/skills/knowledge.md), [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), and [Survival](../../rules/skills/survival.md) checks attempted against that opponent, and a +1 bonus on weapon attack and damage rolls against it. The DCs of slayer class abilities against that opponent increase by 1 A slayer can only maintain these bonuses against one opponent at a time; these bonuses remain in effect until either the opponent is dead or the slayer studies a new target. If a slayer deals sneak attack damage to a target, he can study that target as an immediate action, allowing him to apply his studied target bonuses against that target (including to the normal weapon damage roll).
+A slayer can study an opponent he can see as a move action (1 AP). The slayer then gains a +1 bonus on [Bluff](../../rules/skills/bluff.md), [Knowledge](../../rules/skills/knowledge.md), [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), and [Survival](../../rules/skills/survival.md) checks attempted against that opponent, and a +1 bonus on weapon attack and damage rolls against it. The DCs of slayer class abilities against that opponent increase by 1 A slayer can only maintain these bonuses against one opponent at a time; these bonuses remain in effect until either the opponent is dead or the slayer studies a new target. If a slayer deals sneak attack damage to a target, he can study that target as an immediate action (1 AP of your next turn), allowing him to apply his studied target bonuses against that target (including to the normal weapon damage roll).
 
 At 5th, 10th, 15th, and 20th levels, the bonuses on weapon attack and damage rolls, as well as the bonus to slayer ability DCs against a studied, target increase by 1 In addition, at each such interval, the slayer is able to maintain these bonuses against an additional studied target at the same time. The slayer may discard this connection to a studied target as a free action, allowing him to study another target in its place.
 
-At 7th level, a slayer can study an opponent as a move or swift action.
+At 7th level, a slayer can study an opponent as a move or swift action (1 AP).
 
 ### Track (Ex)
 
@@ -101,7 +101,7 @@ A slayer can select one of the following rogue talents in place of a slayer tale
 
 #### Studied Ally (Ex)
 
-The slayer can study an ally or friendly creature he can see as a move action. The slayer gains a +1 bonus on checks and attack rolls to use the aid another action to help with that ally's skill checks, attacks, or AC. This bonus increases at the same rate as a slayer's studied target bonus. At 7th level, a slayer can study an ally as a move or swift action. A slayer's studied ally counts against the number of studied targets he can have active at once.
+The slayer can study an ally or friendly creature he can see as a move action (1 AP). The slayer gains a +1 bonus on checks and attack rolls to use the aid another action to help with that ally's skill checks, attacks, or AC. This bonus increases at the same rate as a slayer's studied target bonus. At 7th level, a slayer can study an ally as a move or swift action (1 AP). A slayer's studied ally counts against the number of studied targets he can have active at once.
 
 #### Trapfinding
 
@@ -125,7 +125,7 @@ At 10th level and every 2 levels thereafter, a slayer can select one of the foll
 
 #### Assassinate (Ex)
 
-A slayer with this advanced talent can kill foes that are unable to defend themselves. To attempt to assassinate a target, the slayer must first study his target for 1 round as a standard action. On the following round, if the slayer makes a sneak attack against the target and that target is denied its Dexterity bonus to AC, the sneak attack has the additional effect of possibly killing the target. This attempt automatically fails if the target recognizes the slayer as an enemy. If the sneak attack is successful, the target must attempt a Fortitude saving throw with a DC equal to 10 + 1/2 the slayer's level + the slayer's Intelligence modifier. If the target fails this save, it dies; otherwise, the target takes the sneak attack damage as normal and is then immune to that slayer's assassinate ability for 24 hours.
+A slayer with this advanced talent can kill foes that are unable to defend themselves. To attempt to assassinate a target, the slayer must first study his target for 1 round as a standard action (1 AP). On the following round, if the slayer makes a sneak attack against the target and that target is denied its Dexterity bonus to AC, the sneak attack has the additional effect of possibly killing the target. This attempt automatically fails if the target recognizes the slayer as an enemy. If the sneak attack is successful, the target must attempt a Fortitude saving throw with a DC equal to 10 + 1/2 the slayer's level + the slayer's Intelligence modifier. If the target fails this save, it dies; otherwise, the target takes the sneak attack damage as normal and is then immune to that slayer's assassinate ability for 24 hours.
 
 #### Rogue and Ninja Advanced Talents
 
@@ -145,11 +145,11 @@ At 11th level, a slayer can move at his normal speed while using Survival to fol
 
 ### Slayer's Advance (Ex)
 
-At 13th level, a slayer can once per day move up to twice his base speed as a move action. He may use Stealth as part of this movement, but takes a -10 penalty to his check for doing so. At 17th level, he can do this twice per day.
+At 13th level, a slayer can once per day move up to twice his base speed as a move action (1 AP). He may use Stealth as part of this movement, but takes a -10 penalty to his check for doing so. At 17th level, he can do this twice per day.
 
 ### Quarry (Ex)
 
-At 14th level, a slayer can as a standard action denote one target within his line of sight as his quarry. Whenever he is following the tracks of his quarry, a slayer can take 10 on his Survival skill checks while moving at normal speed, without penalty. In addition, he gains a +2 insight bonus on attack rolls made against his quarry, and all critical threats against his quarry are automatically confirmed. A slayer can have no more than one quarry at a time, and the target must be selected as a studied target. He can dismiss this effect at any time as a free action, but he cannot select a new quarry target for 24 hours. If the slayer sees proof that his quarry is dead, he can select a new quarry target after 1 hour.
+At 14th level, a slayer can as a standard action (1 AP) denote one target within his line of sight as his quarry. Whenever he is following the tracks of his quarry, a slayer can take 10 on his Survival skill checks while moving at normal speed, without penalty. In addition, he gains a +2 insight bonus on attack rolls made against his quarry, and all critical threats against his quarry are automatically confirmed. A slayer can have no more than one quarry at a time, and the target must be selected as a studied target. He can dismiss this effect at any time as a free action, but he cannot select a new quarry target for 24 hours. If the slayer sees proof that his quarry is dead, he can select a new quarry target after 1 hour.
 
 ### Improved Quarry (Ex)
 
@@ -157,7 +157,7 @@ At 19th level, the slayer's ability to hunt his quarry improves. He can now sele
 
 ### Master Slayer (Ex)
 
-At 20th level, the slayer becomes a master at capturing or killing his studied targets. As a standard action, he can make a single attack against a studied target at his full attack bonus, choosing one of the following effects: kill, knock [unconscious](../../rules/appendices/conditions.md#unconscious) for 1d4 hours, or paralyze for 2d6 rounds. If the attack succeeds, the target takes damage normally and must succeed at a Fortitude saving throw or suffer the additional effect. The DC for this save is 10 + 1/2 the slayer's level + the slayer's Intelligence modifier. Whether or not the target succeeds, it cannot be targeted by this ability again (by any slayer) for 24 hours.
+At 20th level, the slayer becomes a master at capturing or killing his studied targets. As a standard action (1 AP), he can make a single attack against a studied target at his full attack bonus, choosing one of the following effects: kill, knock [unconscious](../../rules/appendices/conditions.md#unconscious) for 1d4 hours, or paralyze for 2d6 rounds. If the attack succeeds, the target takes damage normally and must succeed at a Fortitude saving throw or suffer the additional effect. The DC for this save is 10 + 1/2 the slayer's level + the slayer's Intelligence modifier. Whether or not the target succeeds, it cannot be targeted by this ability again (by any slayer) for 24 hours.
 
 ## Poisoner Slayer Talents
 
@@ -165,7 +165,7 @@ The following talents serve slayers who wish to add more poisons to their arsena
 
 **Focused Poison (Ex)**: The slayer can focus his poison delivery to be especially deadly to his studied target. When the slayer studies a target, he can immediately reduce the number of additional studied targets he can maintain. Reducing this number does not require an action. For each target reduced in this way, the DC of poisons used against his studied target increases by 1. The slayer must be at least 6th level and have the poison use talent to select this talent.
 
-**Redirect Poison (Ex)**: The slayer can divert poisoned attacks against him. When a creature unsuccessfully attacks the slayer with a poisoned weapon or a natural weapon that would poison him, the slayer can attempt to redirect the attack to a creature within his reach (including, possibly, the creature that unsuccessfully attacked the slayer). As an immediate action, the slayer can make an attack roll against the creature to which he would redirect the poison. On a success, the poison is redirected to the target, and the target must attempt a saving throw against the poison as normal. This attack only redirects the poison and does not otherwise damage the targeted creature. This ability cannot affect a creature that attacked the slayer with a poisoned natural weapon, but it can affect a creature that attacked him with a poisoned manufactured weapon.
+**Redirect Poison (Ex)**: The slayer can divert poisoned attacks against him. When a creature unsuccessfully attacks the slayer with a poisoned weapon or a natural weapon that would poison him, the slayer can attempt to redirect the attack to a creature within his reach (including, possibly, the creature that unsuccessfully attacked the slayer). As an immediate action (1 AP of your next turn), the slayer can make an attack roll against the creature to which he would redirect the poison. On a success, the poison is redirected to the target, and the target must attempt a saving throw against the poison as normal. This attack only redirects the poison and does not otherwise damage the targeted creature. This ability cannot affect a creature that attacked the slayer with a poisoned natural weapon, but it can affect a creature that attacked him with a poisoned manufactured weapon.
 
 ## Samsaran Slayer Talents
 
@@ -173,15 +173,15 @@ Samsarans are most often associated with quiet reflection, piety, and peaceful s
 
 **Eternal Opposition (Ex)**: While most imperial dragons, undead, and other long-enduring foes can count on outlasting their mortal adversaries, the samsaran slayer has pledged to oppose their machinations across all his lifetimes. When his studied target is of the dragon, fey, outsider, or undead type, the slayer gains a +2 insight bonus to his AC against its attacks and on saving throws against its abilities.
 
-**Experience Across Ages (Ex)**: Once per day, a samsaran slayer can draw upon insights from his previous lifetimes to help identify a foe or recall a key piece of information. As a swift action, the slayer can attempt a Knowledge check as if he had a number of ranks in the appropriate Knowledge skill equal to his slayer level. A slayer can use this talent one additional time per day for every 5 slayer levels he has.
+**Experience Across Ages (Ex)**: Once per day, a samsaran slayer can draw upon insights from his previous lifetimes to help identify a foe or recall a key piece of information. As a swift action (1 AP), the slayer can attempt a Knowledge check as if he had a number of ranks in the appropriate Knowledge skill equal to his slayer level. A slayer can use this talent one additional time per day for every 5 slayer levels he has.
 
-**Inured to Terror (Ex)**: With their knowledge of the cyclical nature of existence, there are few experiences that can daunt samsaran slayers for long. As an immediate action when a slayer fails a saving throw against a fear effect, he can attempt the saving throw a second time to reduce the severity of the effect from [panicked](../../rules/appendices/conditions.md#panicked) to [frightened](../../rules/appendices/conditions.md#frightened), frightened to [shaken](../../rules/appendices/conditions.md#shaken), or shaken to unaffected. Additionally, the DC of Intimidate checks to demoralize him increases by 2.
+**Inured to Terror (Ex)**: With their knowledge of the cyclical nature of existence, there are few experiences that can daunt samsaran slayers for long. As an immediate action (1 AP of your next turn) when a slayer fails a saving throw against a fear effect, he can attempt the saving throw a second time to reduce the severity of the effect from [panicked](../../rules/appendices/conditions.md#panicked) to [frightened](../../rules/appendices/conditions.md#frightened), frightened to [shaken](../../rules/appendices/conditions.md#shaken), or shaken to unaffected. Additionally, the DC of Intimidate checks to demoralize him increases by 2.
 
 **Mountainside Ambush (Ex)**: Fighting in mountainous terrain has trained samsaran slayers to strike the unwary with deadly attacks from above. If a slayer deals sneak attack damage to a creature that is unaware of his presence while he is standing on higher ground than his target, he does not have to roll sneak attack damage; instead, the sneak attack deals maximum damage. The samsaran must be standing on solid ground to use this ability.
 
 **Mystic Veil (Sp)**: Samsaran slayers are adept at obscuring the passes of their mountain homes from intruders. The slayer can cast silent image as a spell-like ability once per day for every 2 slayer levels he has, using his slayer level as his caster level. The slayer uses his Intelligence modifier on concentration checks when using this ability, and the DC to disbelieve the illusion is equal to 11 + the slayer's Intelligence modifier. The slayer must have an Intelligence score of at least 11 to select this talent.
 
-**Recall Training (Ex)**: By calling on the memories of previous incarnations, a samsaran slayer can use martial techniques that transcend his usual capabilities. Once per day, the slayer can take a move action to gain the benefit of a combat feat he doesn't have. This effect lasts for 1 minute per slayer level he has. The slayer must meet all the feat's prerequisites.
+**Recall Training (Ex)**: By calling on the memories of previous incarnations, a samsaran slayer can use martial techniques that transcend his usual capabilities. Once per day, the slayer can take a move action (1 AP) to gain the benefit of a combat feat he doesn't have. This effect lasts for 1 minute per slayer level he has. The slayer must meet all the feat's prerequisites.
 
 ## Additional Advanced Slayer Talents
 

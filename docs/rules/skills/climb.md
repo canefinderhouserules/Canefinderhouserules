@@ -39,7 +39,7 @@ You need both hands free to climb, but you may cling to a wall with one hand whi
 
 *Catch a Falling Character While Climbing*: If someone climbing above you or adjacent to you falls, you can attempt to catch the falling character if he or she is within your reach. Doing so requires a successful melee touch attack against the falling character (though he or she can voluntarily forego any Dexterity bonus to AC if desired). If you hit, you must immediately attempt a Climb check (DC = wall’s DC + 10). Success indicates that you catch the falling character, but his total weight, including equipment, cannot exceed your heavy load limit or you automatically fall. If you fail your Climb check by 4 or less, you fail to stop the character’s fall but don’t lose your grip on the wall. If you fail by 5 or more, you fail to stop the character’s fall and begin falling as well.
 
-**Action**: Climbing is part of movement, so it’s generally part of a move action (and may be combined with other types of movement in a move action). Each move action that includes any climbing requires a separate Climb check. Catching yourself or another falling character doesn’t take an action.
+**Action**: Climbing is part of movement, so it’s generally part of a move action (1 AP) (and may be combined with other types of movement in a move action (1 AP)). Each move action (1 AP) that includes any climbing requires a separate Climb check. Catching yourself or another falling character doesn’t take an action.
 
 **Special**: You can use a rope to haul a character upward (or lower a character) through sheer strength. You can lift double your maximum load in this manner.
 

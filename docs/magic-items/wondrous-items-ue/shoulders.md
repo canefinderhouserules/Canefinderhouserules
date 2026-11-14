@@ -74,7 +74,7 @@ These black iron pauldrons are studded with jagged spikes of various lengths. *D
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** shoulders; **Price** 7,000 gp; **Weight** 1 lb.
 
-Large eagle feathers decorate the back and arms of this magnificent cape. Should the cape’s wearer fall more than 5 feet, the cape spreads out behind the wearer and she gently drifts to the ground. This acts exactly like a *feather fall* spell for the wearer only. Once per day, if the wearer grasps the edges of the cape and spreads her arms, she transforms into an eagle (as per the *beast shape I* spell, except that it allows only eagle form and the wearer gains the eagle’s full fly speed of 80 feet). This effect lasts for 10 minutes but can be ended prematurely as a standard action. In addition, while in eagle form, the wearer gains a +5 competence bonus on Perception checks.
+Large eagle feathers decorate the back and arms of this magnificent cape. Should the cape’s wearer fall more than 5 feet, the cape spreads out behind the wearer and she gently drifts to the ground. This acts exactly like a *feather fall* spell for the wearer only. Once per day, if the wearer grasps the edges of the cape and spreads her arms, she transforms into an eagle (as per the *beast shape I* spell, except that it allows only eagle form and the wearer gains the eagle’s full fly speed of 80 feet). This effect lasts for 10 minutes but can be ended prematurely as a standard action (1 AP). In addition, while in eagle form, the wearer gains a +5 competence bonus on Perception checks.
 
 **Construction** Craft Wondrous Item, *beast shape I*, *feather fall, perceive clues*; **Cost** 3,500 gp
 
@@ -83,7 +83,7 @@ Large eagle feathers decorate the back and arms of this magnificent cape. Should
 **Aura** moderate abjuration; **CL** 6th  
 **Slot** shoulders; **Price** 14,000 gp; **Weight** 1 lb.
 
-The abjurations woven into this woolen poncho not only defend against gunfire, but also insulate the wearer from dangerous magic. The wearer gains a +2 luck bonus to touch AC. Once per day as an immediate action, the wearer can negate a single ranged touched attack targeted at him, but cannot use this ability if the attack is a confirmed critical hit. When the wearer uses this ability, he must fall prone.
+The abjurations woven into this woolen poncho not only defend against gunfire, but also insulate the wearer from dangerous magic. The wearer gains a +2 luck bonus to touch AC. Once per day as an immediate action (1 AP of your next turn), the wearer can negate a single ranged touched attack targeted at him, but cannot use this ability if the attack is a confirmed critical hit. When the wearer uses this ability, he must fall prone.
 
 **Construction** Craft Wondrous Item, *bullet shield*; **Cost** 7,000 gp
 
@@ -92,7 +92,7 @@ The abjurations woven into this woolen poncho not only defend against gunfire, b
 **Aura** faint transmutation; **CL** 5th  
 **Slot** shoulders; **Price** 32,500 gp; **Weight** 1 lb.
 
-This reversible multicolored cape marks the wearer’s flamboyant audacity when turned with its bright colors outward, granting a +5 competence bonus on Bluff checks. Reversible as a move action, the dappled camouflage of its other side grants a +5 competence bonus on Stealth checks. Furthermore, the wearer is subject to a constant effect like that of the spell *liberating command* regardless of the cape’s current facing.
+This reversible multicolored cape marks the wearer’s flamboyant audacity when turned with its bright colors outward, granting a +5 competence bonus on Bluff checks. Reversible as a move action (1 AP), the dappled camouflage of its other side grants a +5 competence bonus on Stealth checks. Furthermore, the wearer is subject to a constant effect like that of the spell *liberating command* regardless of the cape’s current facing.
 
 **Construction** Craft Wondrous Item, *liberating command*; **Cost** 16,250 gp
 
@@ -119,7 +119,7 @@ This billowing white cape renders the wearer almost invisible the moment she is 
 **Aura** faint necromancy; **CL** 5th  
 **Slot** shoulders; **Price** 40,000 gp; **Weight** 1 lb.
 
-These massive pauldrons take the shape of a pair of clenched fists made of beaten bronze. They bestow a +4 bonus on CMD, and grant the wearer the ferocity ability. On command, the wearer can increase its size, as though subject to an *enlarge person* spell, and can revert to regular size with another command. Three times per day, as an immediate action after the pauldrons’ wearer kills an opponent, the wearer gains the benefit of the *deadly juggernaut* spell for 1 minute.
+These massive pauldrons take the shape of a pair of clenched fists made of beaten bronze. They bestow a +4 bonus on CMD, and grant the wearer the ferocity ability. On command, the wearer can increase its size, as though subject to an *enlarge person* spell, and can revert to regular size with another command. Three times per day, as an immediate action (1 AP of your next turn) after the pauldrons’ wearer kills an opponent, the wearer gains the benefit of the *deadly juggernaut* spell for 1 minute.
 
 **Construction** Craft Wondrous Item, *deadly juggernaut*, *enlarge person*, *rage*; **Cost** 20,000 gp
 
@@ -137,7 +137,7 @@ Made from a single male lion’s coat with the mane surrounding its hood, the *l
 **Aura** faint necromancy; **CL** 5th  
 **Slot** shoulders; **Price** 13,400 gp; **Weight** 1 lb.
 
-This mantle grants the wearer a +4 resistance bonus on saving throws against disease. Once per day, the wearer can flourish the cape as a swift action to surround himself with a cloud of deadly spores. Creatures adjacent to the wearer take 1d6 points of damage from the spores, plus 1d3 points of damage per round for 3 rounds as the spores grow into fuzzy green mold. After these rounds the mold becomes harmless, and can be washed away with a minute of scrubbing. The spores can be destroyed by making a DC 15 Heal check on an affected creature, or by effects that remove diseases. The spores are a disease effect.
+This mantle grants the wearer a +4 resistance bonus on saving throws against disease. Once per day, the wearer can flourish the cape as a swift action (1 AP) to surround himself with a cloud of deadly spores. Creatures adjacent to the wearer take 1d6 points of damage from the spores, plus 1d3 points of damage per round for 3 rounds as the spores grow into fuzzy green mold. After these rounds the mold becomes harmless, and can be washed away with a minute of scrubbing. The spores can be destroyed by making a DC 15 Heal check on an affected creature, or by effects that remove diseases. The spores are a disease effect.
 
 **Construction** Craft Wondrous Item, *contagion*; **Cost** 6,700 gp
 
@@ -164,7 +164,7 @@ Constructed of mithral, each of these pauldrons bears an embossed device of a vi
 **Aura** faint necromancy; **CL** 5th  
 **Slot** shoulders; **Price** 10,800 gp; **Weight** 3 lbs.
 
-These steel and brass pauldrons feature two brass lion heads, one on each shoulder. Twice a day as an immediate action when a creature successfully makes an Acrobatics check to move through the wearer’s threatened area or its space without provoking an attack of opportunity, a shadowy lion can animate from one of the pauldrons and attack that creature. The attack uses the wearer’s base attack bonus + Dexterity modifier and attacks the target’s touch AC. On a hit, the lion deals 2d6 points of piercing damage (×2 critical).
+These steel and brass pauldrons feature two brass lion heads, one on each shoulder. Twice a day as an immediate action (1 AP of your next turn) when a creature successfully makes an Acrobatics check to move through the wearer’s threatened area or its space without provoking an attack of opportunity, a shadowy lion can animate from one of the pauldrons and attack that creature. The attack uses the wearer’s base attack bonus + Dexterity modifier and attacks the target’s touch AC. On a hit, the lion deals 2d6 points of piercing damage (×2 critical).
 
 **Construction** Craft Wondrous Item, Craft Magic Arms and Armor, *spectral hand*; **Cost** 5,400 gp
 
@@ -173,7 +173,7 @@ These steel and brass pauldrons feature two brass lion heads, one on each should
 **Aura** faint illusion and transmutation; **CL** 5th  
 **Slot** shoulders; **Price** 17,200 gp; **Weight** 1 lb.
 
-This short black cloak grants its wearer a +8 competence bonus on Slight of Hand checks. Furthermore, as a full-round action, the cloak can be removed and placed on an single object that takes up a 5-foot square or less and weighs 100 lbs. or less, at which point the object disappears and is stored within an extradimensional space within the cloak. The object can remain in the cloak for no more than 1 hour, at which point it falls out of the cloak in a square adjacent to the cloak or its wearer. The wearer can also command the cloak to dispel the object into an adjacent square.
+This short black cloak grants its wearer a +8 competence bonus on Slight of Hand checks. Furthermore, as a full-round action (3 AP), the cloak can be removed and placed on an single object that takes up a 5-foot square or less and weighs 100 lbs. or less, at which point the object disappears and is stored within an extradimensional space within the cloak. The object can remain in the cloak for no more than 1 hour, at which point it falls out of the cloak in a square adjacent to the cloak or its wearer. The wearer can also command the cloak to dispel the object into an adjacent square.
 
 **Construction** Craft Wondrous Item, *guidance*, *rope trick*; **Cost** 8,600 gp
 
@@ -200,7 +200,7 @@ The yarn making up this knitted gray wrap is frayed and tattered. As soon as a c
 **Aura** faint abjuration; **CL** 4th  
 **Slot** shoulders; **Price** 1,000 gp; **Weight** 1 lb.
 
-The wearer of this rough, gray cloak can, as a move action, grasp the garment’s edge and cause it to harden. The wearer can use the hardened edge it as if it were a masterwork light wooden shield. Using the cloak in this fashion imposes no armor check penalty, but does impose a 5% arcane spell failure chance. The edge of the cloak can be dropped and made pliant again as a free action. Shield enhancement bonuses and special abilities can be added to the cloak as if it were a masterwork shield.
+The wearer of this rough, gray cloak can, as a move action (1 AP), grasp the garment’s edge and cause it to harden. The wearer can use the hardened edge it as if it were a masterwork light wooden shield. Using the cloak in this fashion imposes no armor check penalty, but does impose a 5% arcane spell failure chance. The edge of the cloak can be dropped and made pliant again as a free action. Shield enhancement bonuses and special abilities can be added to the cloak as if it were a masterwork shield.
 
 **Construction** Craft Wondrous Item, Craft Magic Arms and Armor, *shield*; **Cost** 500 gp
 
@@ -209,7 +209,7 @@ The wearer of this rough, gray cloak can, as a move action, grasp the garment’
 **Aura** faint illusion and transmutation; **CL** 5th  
 **Slot** shoulders; **Price** 20,000 gp; **Weight** 1 lb.
 
-This thick burgundy cloak is trimmed with mithral plates and cut to fit handsomely over heavy armor. As a full-round action, the wearer can spin in his space, damaging each creature within 5 feet. This attack uses the wearer’s highest base attack bonus against each creature, and deals 2d6 damage on a hit. The wearer is considered proficient with this attack. Furthermore, the cloak can be magically enhanced like a melee weapon, adding the cost of the melee weapon property to the cloak’s cost.
+This thick burgundy cloak is trimmed with mithral plates and cut to fit handsomely over heavy armor. As a full-round action (3 AP), the wearer can spin in his space, damaging each creature within 5 feet. This attack uses the wearer’s highest base attack bonus against each creature, and deals 2d6 damage on a hit. The wearer is considered proficient with this attack. Furthermore, the cloak can be magically enhanced like a melee weapon, adding the cost of the melee weapon property to the cloak’s cost.
 
 **Construction** Craft Wondrous Item, *blade barrier*; **Cost** 10,000 gp; **Cost** 10,000 gp
 
@@ -236,7 +236,7 @@ This cloak is identical to the *stone cloak*, save that it provides DR 10/adaman
 **Aura** faint abjuration; **CL** 5th  
 **Slot** shoulders; **Price** 10,000 gp; **Weight** 1 lb.
 
-This mottled gray cloak looks like granite or some other light gray stone. The wearer can pull a *minor stone cloak* tight around herself and freeze in place as a move action, which causes the cloak to harden like the stone it resembles. When she does this, the wearer can take no actions other than free actions and is denied her Dexterity bonus to AC but gains DR 5/adamantine. She also gains a +5 circumstance bonus to Stealth checks while protected in this manner. This effect can be dismissed as a free action.
+This mottled gray cloak looks like granite or some other light gray stone. The wearer can pull a *minor stone cloak* tight around herself and freeze in place as a move action (1 AP), which causes the cloak to harden like the stone it resembles. When she does this, the wearer can take no actions other than free actions and is denied her Dexterity bonus to AC but gains DR 5/adamantine. She also gains a +5 circumstance bonus to Stealth checks while protected in this manner. This effect can be dismissed as a free action.
 
 **Construction** Craft Wondrous Item, *stone shape*; **Cost** 5,000 gp
 
@@ -263,7 +263,7 @@ This long green cloak’s back features an embroidered image of an ancient oak. 
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** shoulders; **Price** 72,000 gp; **Weight** 3 lbs.
 
-These cloth shoulder straps have many pebbles stitched into them. The wearer of the straps can command them to unfurl a pair of wings made from a hard gray stone. These wings grant her a fly speed of 60 feet and average maneuverability. When these wings are present her skin also takes on a noticeable stone-like appearance and she gains DR 10/ adamantine. The wearer can furl and unfurl these wings as a swift action. The wings can be used for up to 5 minutes each day. The duration need not be continuous, but it must be used in 1-minute increments.
+These cloth shoulder straps have many pebbles stitched into them. The wearer of the straps can command them to unfurl a pair of wings made from a hard gray stone. These wings grant her a fly speed of 60 feet and average maneuverability. When these wings are present her skin also takes on a noticeable stone-like appearance and she gains DR 10/ adamantine. The wearer can furl and unfurl these wings as a swift action (1 AP). The wings can be used for up to 5 minutes each day. The duration need not be continuous, but it must be used in 1-minute increments.
 
 **Construction** Craft Wondrous Item, *fly*, stoneskin; **Cost** 36,000 gp
 
@@ -272,7 +272,7 @@ These cloth shoulder straps have many pebbles stitched into them. The wearer of 
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** shoulders; **Price** 78,600 gp; **Weight** 1 lb.
 
-This heavy cloak is made of blue scaled leather and has a pointed hem that hangs near the ground. The cloak provides the wearer a +4 resistance bonus on Will saves, a continuous *feather fall* effect (as the spell), and the ability to use *fly* once per day. At will as a swift action, the wearer can form the hem into a stinger, granting her a sting natural weapon. This sting deals 1d6 points of damage plus *poison* (as the spell; DC 16). Reverting the stinger to its normal, inconspicuous shape is a free action.
+This heavy cloak is made of blue scaled leather and has a pointed hem that hangs near the ground. The cloak provides the wearer a +4 resistance bonus on Will saves, a continuous *feather fall* effect (as the spell), and the ability to use *fly* once per day. At will as a swift action (1 AP), the wearer can form the hem into a stinger, granting her a sting natural weapon. This sting deals 1d6 points of damage plus *poison* (as the spell; DC 16). Reverting the stinger to its normal, inconspicuous shape is a free action.
 
 **Construction** Craft Wondrous Item, *feather fall*, *fly*, *poison*, *resistance*, creator must be at least caster level 12; **Cost** 39,300 gp
 

@@ -28,7 +28,7 @@ Sometimes all the combatants on a side are aware of their opponents, sometimes n
 
 Determining awareness may call for Perception checks or other checks.
 
-**The Surprise Round**: If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take a standard or move action during the surprise round. You can also take free actions during the surprise round. If no one or everyone is surprised, no surprise round occurs.
+**The Surprise Round**: If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take a standard or move action (1 AP) during the surprise round. You can also take free actions during the surprise round. If no one or everyone is surprised, no surprise round occurs.
 
 **Unaware Combatants**: Combatants who are unaware at the start of battle don’t get to act in the surprise round. Unaware combatants are flat-footed because they have not acted yet, so they lose any Dexterity bonus to AC.
 

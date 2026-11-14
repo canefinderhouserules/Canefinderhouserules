@@ -81,13 +81,13 @@ The living weapon must be 7th level to select this option.
 
 **Awesome Blow (Ex)**
 
-A living weapon can as a standard action perform an awesome blow combat maneuver against a corporeal creature of his size or smaller. The living weapon adds his weapon training bonus to this combat maneuver check. If the combat maneuver check succeeds, the opponent takes damage as if the living weapon hit it with an unarmed strike, it is knocked flying 10 feet in a direction of the living weapon’s choice, and it falls [prone](../../../rules/appendices/conditions.md#prone). The living weapon can only push the opponent in a straight line, and the opponent can’t move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.
+A living weapon can as a standard action (1 AP) perform an awesome blow combat maneuver against a corporeal creature of his size or smaller. The living weapon adds his weapon training bonus to this combat maneuver check. If the combat maneuver check succeeds, the opponent takes damage as if the living weapon hit it with an unarmed strike, it is knocked flying 10 feet in a direction of the living weapon’s choice, and it falls [prone](../../../rules/appendices/conditions.md#prone). The living weapon can only push the opponent in a straight line, and the opponent can’t move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.
 
 The living weapon must be 15th level to select this option.
 
 **Penetrating Blow (Ex)**
 
-At 11th level, as part of an unarmed strike attack, a fighter can deliver a penetrating blow as a swift action. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack.
+At 11th level, as part of an unarmed strike attack, a fighter can deliver a penetrating blow as a swift action (1 AP). If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack.
 
 This ability replaces autonomic grasp.
 
@@ -113,11 +113,11 @@ At 3rd level, a lore warden adds his weapon training bonus on all CMB checks and
 
 **Enemy Assessment**
 
-At 7th level a lore warden gains access to the know thy enemy advanced weapon training option (see below). At 9th level if the lore warden has the know thy enemy ability he can replace an advanced armor training option to use his know thy enemy ability as a move action, and at 11th level he can replace a second advanced armor training option to also be able to use it as a swift action.
+At 7th level a lore warden gains access to the know thy enemy advanced weapon training option (see below). At 9th level if the lore warden has the know thy enemy ability he can replace an advanced armor training option to use his know thy enemy ability as a move action (1 AP), and at 11th level he can replace a second advanced armor training option to also be able to use it as a swift action (1 AP).
 
 **Know Thy Enemy (Ex)**
 
-When the lore warden succeeds at a Knowledge check to identify a creature’s abilities and weaknesses, he can also use a standard action to grant himself a +2 insight bonus on all attack and weapon damage rolls made against that enemy. This bonus lasts for a number of rounds equal to half his class level, or until the lore warden uses this ability against a different creature.
+When the lore warden succeeds at a Knowledge check to identify a creature’s abilities and weaknesses, he can also use a standard action (1 AP) to grant himself a +2 insight bonus on all attack and weapon damage rolls made against that enemy. This bonus lasts for a number of rounds equal to half his class level, or until the lore warden uses this ability against a different creature.
 
 **Crucial Avoidance**
 
@@ -125,7 +125,7 @@ At 12th level, a lore warden gains access to the following prowess option:
 
 **Hair’s Breadth (Ex)**
 
-When subject to a critical hit, the lore warden can attempt an [Acrobatics](../../../rules/skills/acrobatics.md) check to reduce the damage as an immediate action. If the result of this Acrobatics check is greater than the opponent’s confirmation roll then the lore warden negates the critical hit; the attack still hits and deals normal damage.
+When subject to a critical hit, the lore warden can attempt an [Acrobatics](../../../rules/skills/acrobatics.md) check to reduce the damage as an immediate action (1 AP of your next turn). If the result of this Acrobatics check is greater than the opponent’s confirmation roll then the lore warden negates the critical hit; the attack still hits and deals normal damage.
 
 **Know Weakness (Ex)**
 
@@ -141,7 +141,7 @@ Each day, a spirit warrior designates a weapon he is proficient with. He gains t
 
 **Eldritch Weapon (Su)**
 
-At 1st level, a spirit warrior gains the [Arcane Strike](../../../rules/feats/arcane-strike.md) feat, but he can only use this feat on his spirit weapon. He does not need to meet this feat’s prerequisites. In addition, three times per day as a standard action a spirit warrior can grant his spirit weapon a +1 enhancement bonus for 1 minute.
+At 1st level, a spirit warrior gains the [Arcane Strike](../../../rules/feats/arcane-strike.md) feat, but he can only use this feat on his spirit weapon. He does not need to meet this feat’s prerequisites. In addition, three times per day as a standard action (1 AP) a spirit warrior can grant his spirit weapon a +1 enhancement bonus for 1 minute.
 
 This ability replaces the spirit warrior’s 1st-level bonus feat.
 
@@ -151,11 +151,11 @@ At 5th level, a spirit warrior gains access to the following advanced weapon tra
 
 **Spirit Power**
 
-For the purpose of the Arcane Strike feat, a spirit warrior’s caster level is equal to his class level. Additionally, he no longer needs to spend a swift action to use Arcane Strike—it is always in effect.
+For the purpose of the Arcane Strike feat, a spirit warrior’s caster level is equal to his class level. Additionally, he no longer needs to spend a swift action (1 AP) to use Arcane Strike—it is always in effect.
 
 **Warrior Spirit (Su)**
 
-When a spirit warrior designates a spirit weapon he gains a number of points of spiritual energy equal to 1 + his weapon training bonus. As a standard action, he can spend 1 point of spiritual energy to grant the weapon an enhancement bonus equal to his weapon training bonus. Enhancement bonuses gained by this advanced weapon training option stack with those of the weapon, to a maximum of +5. The spirit warrior can also imbue the weapon with any one weapon special ability with an equivalent enhancement bonus less than or equal to his maximum bonus by reducing the granted enhancement bonus by the amount of the equivalent enhancement bonus. The item must have an enhancement bonus of at least +1 (from the item itself or from warrior spirit) to gain a weapon special ability. Alternatively, instead of granting a weapon special ability, the spirit warrior can reduce the granted enhancement bonus by 1 to temporarily gain any one combat feat that he meets the prerequisites for. This ability lasts for 1 minute.
+When a spirit warrior designates a spirit weapon he gains a number of points of spiritual energy equal to 1 + his weapon training bonus. As a standard action (1 AP), he can spend 1 point of spiritual energy to grant the weapon an enhancement bonus equal to his weapon training bonus. Enhancement bonuses gained by this advanced weapon training option stack with those of the weapon, to a maximum of +5. The spirit warrior can also imbue the weapon with any one weapon special ability with an equivalent enhancement bonus less than or equal to his maximum bonus by reducing the granted enhancement bonus by the amount of the equivalent enhancement bonus. The item must have an enhancement bonus of at least +1 (from the item itself or from warrior spirit) to gain a weapon special ability. Alternatively, instead of granting a weapon special ability, the spirit warrior can reduce the granted enhancement bonus by 1 to temporarily gain any one combat feat that he meets the prerequisites for. This ability lasts for 1 minute.
 
 **Note**: If using this archetype then the warrior spirit advanced weapon option should be unavailable.
 
@@ -211,7 +211,7 @@ At 5th level, a weapon master gains access to the following advanced weapon trai
 
 **Reliable Strike (Ex)**
 
-When attacking with his chosen weapon, a weapon master may reroll an attack roll, critical hit confirmation roll, miss chance check, or damage roll as an immediate action after the roll is made but before the result is determined. He must accept the second roll even if it is worse. He can use this ability a number of times per day equal to his weapon training bonus.
+When attacking with his chosen weapon, a weapon master may reroll an attack roll, critical hit confirmation roll, miss chance check, or damage roll as an immediate action (1 AP of your next turn) after the roll is made but before the result is determined. He must accept the second roll even if it is worse. He can use this ability a number of times per day equal to his weapon training bonus.
 
 **Mirror Mastery (Ex)**
 
@@ -219,8 +219,8 @@ A weapon master gains his weapon training bonus as an insight bonus to AC when a
 
 **Unstoppable Strike (Ex)**
 
-A weapon master can take a standard action to make one attack with his chosen weapon as a touch attack that ignores damage reduction (or hardness, if attacking an object). The weapon master must be 11th level to select this option.
+A weapon master can take a standard action (1 AP) to make one attack with his chosen weapon as a touch attack that ignores damage reduction (or hardness, if attacking an object). The weapon master must be 11th level to select this option.
 
 **Deadly Critical (Ex)**
 
-When a weapon master confirms a critical hit with his chosen weapon, he can increase the weapon’s damage multiplier by +1 as an immediate action. He can use this ability a number of times per day equal to half his weapon training bonus. The weapon master must be 13th level to select this option.
+When a weapon master confirms a critical hit with his chosen weapon, he can increase the weapon’s damage multiplier by +1 as an immediate action (1 AP of your next turn). He can use this ability a number of times per day equal to half his weapon training bonus. The weapon master must be 13th level to select this option.

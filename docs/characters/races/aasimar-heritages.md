@@ -55,7 +55,7 @@ Lawbringers reflect the patience of their archon ancestors in their daily lives;
 
 **Good Influence**: You possess an innate ability to motivate and inspire others to do the right thing. You gain a +1 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks when attempting to persuade a nongood creature to make a decision that benefits the cause of good, and when persuading a nonlawful creature to make a decision in line with the laws of the region. These bonuses stack if you attempt to persuade a nongood, nonlawful creature to take a lawful good action.
 
-**Lantern Spirit**: Your celestial ancestor was a lantern archon for centuries before ascending to a higher rank. You feel a strange sense of nostalgia whenever you use your [*continual flame*](../../magic/spells/continual-flame.md) spell-like ability, and can use it as a move action instead of a standard action.
+**Lantern Spirit**: Your celestial ancestor was a lantern archon for centuries before ascending to a higher rank. You feel a strange sense of nostalgia whenever you use your [*continual flame*](../../magic/spells/continual-flame.md) spell-like ability, and can use it as a move action (1 AP) instead of a standard action.
 
 ## Azata-Blooded (Musetouched)
 
@@ -70,7 +70,7 @@ The capricious aasimars known as musetouched are the most likely of their kind t
 
 ### Musetouched Traits
 
-**Bralani's Step**: Your ancestor was a bralani, an azata known for its untamed speed in battle. When in combat, you feel a fierce surge of energy through your limbs. Once per day, you may move an additional 5 feet as part of a move action.
+**Bralani's Step**: Your ancestor was a bralani, an azata known for its untamed speed in battle. When in combat, you feel a fierce surge of energy through your limbs. Once per day, you may move an additional 5 feet as part of a move action (1 AP).
 
 **Lillend's Harp**: Your ancestor was a lillend, a being of exceptional grace and singular musical talent. You gain a +1 trait bonus on Perform (string) checks. This bonus increases to +2 when you make a Perform check as part of a bardic performance.
 

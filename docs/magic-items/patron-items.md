@@ -108,7 +108,7 @@ If the god of farming and hunting is the bearer’s patron, once per day the bea
 
 This brilliant red cloak bears a golden symbol of an upright winged sword. The wearer can use *bless* once per day.
 
-If the goddess of valor is the wearer’s patron, the wearer gains a +1 enhancement bonus to her natural armor. As a standard action, the wearer can create an illusory image of the goddess’s banner, which floats 2 to 5 feet above the wearer’s head and remains in place as long as the wearer is conscious. If the wearer has the banner class feature, she can use this battle standard as her banner.
+If the goddess of valor is the wearer’s patron, the wearer gains a +1 enhancement bonus to her natural armor. As a standard action (1 AP), the wearer can create an illusory image of the goddess’s banner, which floats 2 to 5 feet above the wearer’s head and remains in place as long as the wearer is conscious. If the wearer has the banner class feature, she can use this battle standard as her banner.
 
 **Construction Requirements:** Craft Wondrous Item, *barkskin*, *bless*, *silent image*; **Cost** 1,350 gp
 
@@ -120,7 +120,7 @@ If the goddess of valor is the wearer’s patron, the wearer gains a +1 enhancem
 
 This dark hooded cloak is decorated with embroidered comets, moons, and stars along its edge. If the wearer sleeps while wearing the cloak, it protects him from hot and cold environments, as *endure elements*, and the wearer can sleep in medium armor without becoming fatigued. The wearer can use *know direction* once per day.
 
-If the goddess of dreams and stars is the wearer’s patron, as a standard action the wearer can cause additional celestial bodies to appear on the cloak so that they match the current configuration in the sky above the wearer. The wearer can use *longstrider* once per day. Once per day, the wearer can throw a tiny, white-burning meteor that acts as a *flare* effect. Some priests of this goddess claim to have cloaks of this type that also allow them to travel from shadow to shadow when under a starry night sky.
+If the goddess of dreams and stars is the wearer’s patron, as a standard action (1 AP) the wearer can cause additional celestial bodies to appear on the cloak so that they match the current configuration in the sky above the wearer. The wearer can use *longstrider* once per day. Once per day, the wearer can throw a tiny, white-burning meteor that acts as a *flare* effect. Some priests of this goddess claim to have cloaks of this type that also allow them to travel from shadow to shadow when under a starry night sky.
 
 **Construction Requirements:** Craft Wondrous Item, *disguise self*, *endure elements*, *flare*, *know direction*, *lesser restoration*, *longstrider*; **Cost** 1,250 gp
 
@@ -144,7 +144,7 @@ If the goddess of piracy is the wearer’s patron, the wearer automatically floa
 
 This long strip of red fabric from the desert satrapy is wrapped around the wearer’s waist or head several times and held in place by an ankh-shaped clasp of red gold. The wearer is protected as if by *endure elements*, but only in warm environments. If the wearer unwraps the sash to its full length and holds the clasp in her hand, she can use *feather fall* once per day, briefly leaving behind a trail of pleasant red-gold light as bright as a torch that lasts for 1 round.
 
-If the goddess of the sun and redemption is the wearer’s patron, the wearer can use the sash to cast *cure light wounds* once per day on command. The wearer can trigger this ability as an immediate action if reduced to –1 hit points or fewer, though thereafter the sash must be recharged by placing it in strong sunlight for 8 continuous hours. As a swift action, the wearer can cause the clasp to shine as brightly as a torch or cease this illumination; the light is warm, feels like sunlight, and is bright enough to make sun-fearing creatures slightly uncomfortable but not so bright as to cause them harm.
+If the goddess of the sun and redemption is the wearer’s patron, the wearer can use the sash to cast *cure light wounds* once per day on command. The wearer can trigger this ability as an immediate action (1 AP of your next turn) if reduced to –1 hit points or fewer, though thereafter the sash must be recharged by placing it in strong sunlight for 8 continuous hours. As a swift action (1 AP), the wearer can cause the clasp to shine as brightly as a torch or cease this illumination; the light is warm, feels like sunlight, and is bright enough to make sun-fearing creatures slightly uncomfortable but not so bright as to cause them harm.
 
 **Construction Requirements:** Craft Wondrous Item, *cure light wounds*, *endure elements*, *feather fall*, *light*; **Cost** 1,250 gp
 
@@ -276,7 +276,7 @@ If this living god is your patron, gain a +2 competence bonus on Heal and Intimi
 
 This gray stone carving of a gaunt older woman is usually painted with black hair and black clothing with red trim. Once per day, the bearer can use it to cast *stabilize*, *resistance*, and *virtue*—this is usually enough to ensure that a mother and newborn both live through a difficult birth.
 
-If the goddess of death is the bearer’s patron, the bearer can use the icon to cast *augury* once per day. As a standard action, the bearer can touch a pregnant woman and know whether she is carrying a boy or girl and whether it will be a single birth or multiple. Once per day, the bearer can consecrate a corpse so if it is buried within 24 hours it cannot be reanimated as an undead.
+If the goddess of death is the bearer’s patron, the bearer can use the icon to cast *augury* once per day. As a standard action (1 AP), the bearer can touch a pregnant woman and know whether she is carrying a boy or girl and whether it will be a single birth or multiple. Once per day, the bearer can consecrate a corpse so if it is buried within 24 hours it cannot be reanimated as an undead.
 
 **Construction Requirements:** Craft Wondrous Item, *augury*, *consecrate*, *stabilize*, *resistance*, *virtue*; **Cost** 1,750 gp
 
@@ -346,7 +346,7 @@ If the goddess of undeath and gluttony is the wearer’s patron, the wearer can 
 
 **Aura** moderate conjuration and transmutation
 
-This brightly colored robe is made of fine silk and cut in an eastern style. As a full-round action, the wearer can shift the original hue of the garment slightly (from red to pink or crimson, from blue to cyan or sapphire, and so on) or return it to its original color; the robe instantly reverts to its original color if the wearer removes the robe. The wearer gains a +2 competence bonus on Perform (dance) checks.
+This brightly colored robe is made of fine silk and cut in an eastern style. As a full-round action (3 AP), the wearer can shift the original hue of the garment slightly (from red to pink or crimson, from blue to cyan or sapphire, and so on) or return it to its original color; the robe instantly reverts to its original color if the wearer removes the robe. The wearer gains a +2 competence bonus on Perform (dance) checks.
 
 If the god of self-perfection is the wearer’s patron, once per day as a free action the wearer can touch a tiny button on the wrist of the robe, granting her the effects of *haste* for 1 round. Once per day, the wearer can also perform a healing dance that lasts 5 minutes. When she does so, up to 7 allies within 30 feet heal 1 hit point.
 
@@ -436,7 +436,7 @@ The *starknife of the void* is a *+2 returning starknife*. If the wielder scores
 
 This tiny dagger has a black leather hilt and a gold-inlaid pattern of stripes and sharp angles on its steel blade. It can transform into a delicate necklace or ornate finger-ring at the wearer’s command. The wearer gains a +3 competence bonus on Perception checks while the item is carried or worn. The wearer can also use it to cast *ghost sound* once per day.
 
-If the goddess of lust and revenge is the wearer’s patron, once per day the wearer may speak a command word to use *fox’s cunning*. As a standard action, the wearer can prick her finger with the dagger and swear an oath on her own blood to avenge herself against a particular named creature; the wearer gains a +1 competence bonus on her next attack roll within 1 minute against that creature. Speaking a new vengeance-oath removes the old one, whether or not the wearer has achieved her vengeance.
+If the goddess of lust and revenge is the wearer’s patron, once per day the wearer may speak a command word to use *fox’s cunning*. As a standard action (1 AP), the wearer can prick her finger with the dagger and swear an oath on her own blood to avenge herself against a particular named creature; the wearer gains a +1 competence bonus on her next attack roll within 1 minute against that creature. Speaking a new vengeance-oath removes the old one, whether or not the wearer has achieved her vengeance.
 
 **Construction Requirements:** Craft Wondrous Item, *fox's cunning*, *ghost sound*, *guidance*, creator must have 5 ranks in Perception; **Cost** 2,250 gp
 
@@ -600,7 +600,7 @@ Any attempt to repair the shield requires all of its pieces, and barring the dir
 **Aura** strong conjuration; **CL** 20th  
 **Slot** none; **Weight** 2 lbs.
 
-Despite its best-known name, the *wanderer’s rapier* is not necessarily a rapier. This weapon is a *+3 keen speed sword*, with the type of sword varying from wielder to wielder. Upon being taken up by a new owner, the weapon transforms into any type of sword of the wielder’s choosing, mundane or exotic. From that point on, the weapon always transforms into that type of sword whenever it is held by that individual. While bearing the *wanderer’s rapier*, the wielder gains a +4 bonus on Bluff and Diplomacy checks made to influence humanoids, and can use the rapier like a compass to point in the direction of the closest collection of gems, silver, or drinkable water as a standard action at will.
+Despite its best-known name, the *wanderer’s rapier* is not necessarily a rapier. This weapon is a *+3 keen speed sword*, with the type of sword varying from wielder to wielder. Upon being taken up by a new owner, the weapon transforms into any type of sword of the wielder’s choosing, mundane or exotic. From that point on, the weapon always transforms into that type of sword whenever it is held by that individual. While bearing the *wanderer’s rapier*, the wielder gains a +4 bonus on Bluff and Diplomacy checks made to influence humanoids, and can use the rapier like a compass to point in the direction of the closest collection of gems, silver, or drinkable water as a standard action (1 AP) at will.
 
 The sword also grants the wielder the ability to either slip or tighten the bonds of the physical world, granting her the ability to cast *dimension door*, *dimensional lock*, or *greater teleport*. These powers have limits, though, as they can drain the sword’s magical abilities for the day—*dimensional lock* and *greater teleport* can be used once per day and drain the sword immediately after their use; *dimension door* can be used at will, but drains the sword after 3 uses, though the wielder can continue to use *dimension door* even if the sword is drained (this is the only effect that functions even when the sword is drained). If the sword becomes drained, it loses all of its magical properties (aside from *dimension door*), including its +3 enhancement bonus, skill bonuses, and the *keen* and *speed* special abilities. All of these properties are restored every day at midnight.
 

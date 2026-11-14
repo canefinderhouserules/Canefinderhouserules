@@ -66,9 +66,9 @@ A bard adds half his class level (minimum 1) to all [Knowledge](../../rules/skil
 
 A bard is trained to use the [Perform](../../rules/skills/perform.md) skill to create magical effects on those around him, including himselfif desired. He can use this ability for a number of rounds per day equal to 4 + his Charisma modifier. At each level after 1st a bard can use bardic performance for 2 additional rounds per day. Each round, the bard can produce any one of the types of bardic performance that he has mastered, as indicated by his level.
 
-Starting a bardic performance is a standard action, but it can be maintained each round as a free action. Changing a bardic performance from one effect to another requires the bard to stop the previous performance and start a new one as a standard action. A bardic performance cannot be disrupted, but it ends immediately if the bard is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), knocked [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from taking a free action to maintain it each round. A bard cannot have more than one bardic performance in effect at one time.
+Starting a bardic performance is a standard action (2 AP), but it can be maintained each round as a free action. Changing a bardic performance from one effect to another requires the bard to stop the previous performance and start a new one as a standard action (2 AP). A bardic performance cannot be disrupted, but it ends immediately if the bard is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), knocked [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from taking a free action to maintain it each round. A bard cannot have more than one bardic performance in effect at one time.
 
-At 7th level, a bard can start a bardic performance as a move action instead of a standard action. At 13th level, a bard can start a bardic performance as a swift action.
+At 7th level, a bard can start a bardic performance as a move action (1 AP) instead of a standard action. At 13th level, a bard can start a bardic performance as a swift action (1 AP).
 
 Each bardic performance has audible components, visual components, or both.
 
@@ -116,7 +116,7 @@ Fascinate is an enchantment (compulsion), mind-affecting ability. Fascinate reli
 | 19th  | 6            | 6   | 6   | 6   | 5   | 5   | 4   |
 | 20th  | 6            | 6   | 6   | 6   | 6   | 5   | 5   |
 
-*Suggestion (Sp)*: A bard of 6th level or higher can use his performance to make a [*suggestion*](../../magic/spells/suggestion.md) (as per the spell) to a creature he has already fascinated (see above). Using this ability does not disrupt the fascinate effect, but it does require a standard action to activate (in addition to the free action to continue the fascinate effect). A bard can use this ability more than once against an individual creature during an individual performance.
+*Suggestion (Sp)*: A bard of 6th level or higher can use his performance to make a [*suggestion*](../../magic/spells/suggestion.md) (as per the spell) to a creature he has already fascinated (see above). Using this ability does not disrupt the fascinate effect, but it does require a standard action (1 AP) to activate (in addition to the free action to continue the fascinate effect). A bard can use this ability more than once against an individual creature during an individual performance.
 
 Making a *suggestion* does not count against a bard’s total rounds per day of bardic performance. A Will saving throw (DC 10 + 1/2 the bard’s level + the bard’s Cha modifier) negates the effect. This ability affects only a single creature. *Suggestion* is an enchantment (compulsion), mind affecting, language-dependent ability and relies on audible components.
 
@@ -134,6 +134,9 @@ Making a *suggestion* does not count against a bard’s total rounds per day of 
 
 *Deadly Performance (Su)*: A bard of 20th level or higher can use his performance to cause one enemy to die from joy or sorrow. To be affected, the target must be able to see and hear the bard perform for 1 full round and be within 30 feet. The target receives a Will save (DC 10 + 1/2 the bard’s level + the bard’s Cha modifier) to negate the effect. If a creature’s saving throw succeeds, the target is [staggered](../../rules/appendices/conditions.md#staggered) for 1d4 rounds, and the bard cannot use deadly performance on that creature again for 24 hours. If a creature’s saving throw fails, it dies. Deadly performance is a mind-affecting death effect that relies on audible and visual components.
 
+??? tip apr "Action Points (optional rule)"
+    Starting a bardic performance costs 2 AP. Once you can start it as a move action (7th level), it costs 1 AP, and it stays at 1 AP when it becomes a swift action (13th level). Keeping it going each round is free.
+
 ### Cantrips
 
 Bards learn a number of cantrips, or 0-level spells, as noted on Table 3–4 under “Spells Known.” These spells are cast like any other spell, but they do not consume any slots and may be used again.
@@ -150,7 +153,7 @@ At 2nd level, the bard becomes resistant to the bardic performance of others, an
 
 ### Lore Master (Ex)
 
-At 5th level, the bard becomes a master of lore and can take 10 on any Knowledge skill check that he has ranks in. A bard can choose not to take 10 and can instead roll normally. In addition, once per day, the bard can take 20 on any Knowledge skill check as a standard action. He can use this ability one additional time per day for every six levels he possesses beyond 5th, to a maximum of three times per day at 17th level.
+At 5th level, the bard becomes a master of lore and can take 10 on any Knowledge skill check that he has ranks in. A bard can choose not to take 10 and can instead roll normally. In addition, once per day, the bard can take 20 on any Knowledge skill check as a standard action (1 AP). He can use this ability one additional time per day for every six levels he possesses beyond 5th, to a maximum of three times per day at 17th level.
 
 ### Jack-of-All-Trades (Ex)
 

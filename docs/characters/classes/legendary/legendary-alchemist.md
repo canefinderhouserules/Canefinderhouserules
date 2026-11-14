@@ -64,9 +64,9 @@ They are also proficient with [light armor](../../../equipment/armor.md) and [bu
 
 #### Alchemy (Su)
 
-When using craft (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to their class level on the [Craft](../../../rules/skills/craft.md) (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. They must hold the potion for 1 round to make such a check. In addition, whenever an alchemist uses an alchemical item as a weapon or otherwise, its DC is increased to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier (unless it would normally be higher). An alchemist can draw alchemical items (such as alchemist’s fire) as a part of making an attack with them, rather than requiring a move action to do so.
+When using craft (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to their class level on the [Craft](../../../rules/skills/craft.md) (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. They must hold the potion for 1 round to make such a check. In addition, whenever an alchemist uses an alchemical item as a weapon or otherwise, its DC is increased to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier (unless it would normally be higher). An alchemist can draw alchemical items (such as alchemist’s fire) as a part of making an attack with them, rather than requiring a move action (1 AP) to do so.
 
-An alchemist can spend 1 point of quintessence as a swift action to cause an alchemical item to deal an additional die of damage (an alchemist fire would deal 2d6 damage, while bottled lightning would deal 2d8 damage), this effect lasts until the end of the alchemist’s next turn. At 5th level and every five levels afterwards, whenever the alchemist spends quintessence for this ability, they increase the damage by an additional damage die, up to a maximum of five additional damage dice at 20th level.
+An alchemist can spend 1 point of quintessence as a swift action (1 AP) to cause an alchemical item to deal an additional die of damage (an alchemist fire would deal 2d6 damage, while bottled lightning would deal 2d8 damage), this effect lasts until the end of the alchemist’s next turn. At 5th level and every five levels afterwards, whenever the alchemist spends quintessence for this ability, they increase the damage by an additional damage die, up to a maximum of five additional damage dice at 20th level.
 
 #### Extracts (Su)
 
@@ -130,13 +130,13 @@ At 10th level, an alchemist becomes completely immune to poison.
 
 #### Alchemical Weapon (Ex)
 
-At 2nd level, an alchemist can infuse a weapon or piece of ammunition with a single harmful alchemical liquid or powder, such as alchemist’s fire or sneezing powder, as a move action.
+At 2nd level, an alchemist can infuse a weapon or piece of ammunition with a single harmful alchemical liquid or powder, such as alchemist’s fire or sneezing powder, as a move action (1 AP).
 
 This action consumes the alchemical item but transfers its effect to the weapon in question. The alchemical item takes full effect on the next creature struck by the weapon, but does not splash, spread, affect additional targets, or benefit from any other effects that specifically affect splash weapons, nor does it gain the additional damage from Throw Anything.
 
 Any extra damage added is not doubled on a critical hit.
 
-The alchemical treatment causes no harm to the weapon treated and wears off 1 minute after being applied if no blow is struck. Infusing a new alchemical item also removes the effect of any alchemical liquid or powder previously applied with this ability. At 6th level, a alchemist can use their alchemical weapon ability as a swift action. At 15th level, this ability becomes a free action.
+The alchemical treatment causes no harm to the weapon treated and wears off 1 minute after being applied if no blow is struck. Infusing a new alchemical item also removes the effect of any alchemical liquid or powder previously applied with this ability. At 6th level, a alchemist can use their alchemical weapon ability as a swift action (1 AP). At 15th level, this ability becomes a free action.
 
 #### Discoveries (Ex)
 
@@ -156,7 +156,7 @@ At 3rd level, alchemists receive [Brew Potion](../../../rules/feats/brew-potion.
 
 At 3rd level, an alchemist can create alchemical items with astounding speed.
 
-It takes an alchemist half the normal amount of time to create alchemical items, and they can apply poison to a weapon as a move action.
+It takes an alchemist half the normal amount of time to create alchemical items, and they can apply poison to a weapon as a move action (1 AP).
 
 #### Quintessence Surge (Su)
 
@@ -182,7 +182,7 @@ Mutagenic discipline alchemists gain the following class feature:
 
 At 1st level, if a mutagenic alchemist has an Intelligence score of at least 15, they discover how to create a mutagen that they can imbibe in order to heighten their physical prowess at the cost of their personality. The mutagenic alchemist must spend 1 point of quintessence and 10 minutes to brew a dose of mutagen, and once brewed, it remains potent until 24 hours have passed, becoming inert after that. A mutagenic alchemist can create as many mutagens as they wish at a time, allowing them to create backups. A mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks it up again.
 
-When a mutagenic alchemist brews a mutagen, they select one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes the mutagenic alchemist to grow bulkier and more bestial, granting them a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level.
+When a mutagenic alchemist brews a mutagen, they select one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action (1 AP) to drink a mutagen. Upon being imbibed, the mutagen causes the mutagenic alchemist to grow bulkier and more bestial, granting them a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level.
 
 A non-alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another [alchemist’s mutagen](../alchemist.md#mutagen-su) if they drink it. (Although if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever a mutagenic alchemist drinks a mutagen, the effects of any previous mutagen immediately end.
 
@@ -202,7 +202,7 @@ Whenever a mutagenic alchemist imbibes their mutagen, they gain a number of temp
 
 #### Enduring Mutagen (Ex)
 
-The mutagenic alchemist can spend 1 additional point of quintessence when creating a mutagen to cause its effects to last for 1 hour per alchemist level. In addition, the mutagenic alchemist can spend 1 minute to suppress the effects of their mutagen. While suppressed, the mutagenic alchemists can spend a full-round action to regain the benefits of their mutagen.
+The mutagenic alchemist can spend 1 additional point of quintessence when creating a mutagen to cause its effects to last for 1 hour per alchemist level. In addition, the mutagenic alchemist can spend 1 minute to suppress the effects of their mutagen. While suppressed, the mutagenic alchemists can spend a full-round action (3 AP) to regain the benefits of their mutagen.
 
 17th
 
@@ -218,9 +218,9 @@ A tinker alchemist gains the following abilities:
 
 At 1st level, a tinker alchemist gains the ability to create a powerful mechanical ally called an automaton. This being’s nature—whether of fleshcraft, gears, or alchemical hydraulics—may vary depending on the alchemist that created it, and its form may mimic any creature or be entirely fantastical but it is always obvious that it is not a natural creature unless somehow disguised.
 
-Automata are normally passive, taking only a single move action each round. If the alchemist actively commands their automaton, however, it may take a full round of actions (move, standard, and swift) that round. Commanding an automaton is a standard action that requires the alchemist to be within 100 feet of their automaton and to be able to communicate with it in some way, whether by speech, signs, or some more exotic means. By spending a point of quintessence, the alchemist may instead command it as a free action; if they do so, the command allows the automaton to take a full round of actions each round for a number of rounds equal to the alchemist’s Intelligence modifier.
+Automata are normally passive, taking only a single move action (1 AP) each round. If the alchemist actively commands their automaton, however, it may take a full round of actions (move, standard, and swift) that round. Commanding an automaton is a standard action (1 AP) that requires the alchemist to be within 100 feet of their automaton and to be able to communicate with it in some way, whether by speech, signs, or some more exotic means. By spending a point of quintessence, the alchemist may instead command it as a free action; if they do so, the command allows the automaton to take a full round of actions each round for a number of rounds equal to the alchemist’s Intelligence modifier.
 
-Only the alchemist that created it may command their automaton in this way; if another creature somehow gains control of the automaton, it can only ever take a move action each round. Even if the alchemist does not actively command their automaton, it follows its master’s wishes to the best of its abilities, and the alchemist may communicate their wishes in any way they could communicate with other creatures.
+Only the alchemist that created it may command their automaton in this way; if another creature somehow gains control of the automaton, it can only ever take a move action (1 AP) each round. Even if the alchemist does not actively command their automaton, it follows its master’s wishes to the best of its abilities, and the alchemist may communicate their wishes in any way they could communicate with other creatures.
 
 Should the automaton be destroyed, it may be repaired by the alchemist spending 100 gp worth of alchemical substances and 8 hours of work. Alternatively, the alchemist may create a completely new automaton by spending 24 hours of work and 300 gp worth of alchemical substances; any automaton they previously had becomes irreversibly non-functional. This allows the alchemist to choose new customizations and even base forms, if they so choose.
 
@@ -244,7 +244,7 @@ These bonuses increase to +20 feet and +2 at 10th level and +30 feet and +3 at 2
 
 #### Bulwark Automaton (Ex)
 
-As an immediate action when a tinker alchemist is targeted with a weapon or natural attack and their automaton is within twice its movement speed of the alchemist a tinker alchemist may call their automaton to their side. The attack, and any other such attacks the attacker attempts to make against the alchemist until the end of its turn, targets the automaton instead. The alchemist may use this ability after an attack is rolled, but before the result is revealed.
+As an immediate action (1 AP of your next turn) when a tinker alchemist is targeted with a weapon or natural attack and their automaton is within twice its movement speed of the alchemist a tinker alchemist may call their automaton to their side. The attack, and any other such attacks the attacker attempts to make against the alchemist until the end of its turn, targets the automaton instead. The alchemist may use this ability after an attack is rolled, but before the result is revealed.
 
 17th
 
@@ -258,13 +258,13 @@ A toxicologist alchemist gains the following ability:
 
 #### Poisoner (Ex)
 
-A toxicologist alchemist can create a variety of toxins, a special type of poison like tools. Doing so costs 1 point of quintessence and 10 minutes to create a number of toxins equal to the toxicologist alchemist’s Intelligence modifier, each toxin being placed inside of a vial or other similar receptacle that is not exposed to open air. A toxicologist alchemist can never possess an amount of toxins greater than their Intelligence modifier, and toxins remain potent for 24 hours before becoming inert, although they become inert 1 round after being exposed to open air. The toxicologist alchemist can prevent this by applying it to a weapon; drawing and applying a toxin to a weapon can be done as a move action, the toxin remaining active for a number of rounds equal to the toxicologist alchemist’s Intelligence modifier (this can be done by characters with the Use Poison class feature). a character without the use poison or poisoner class feature cannot apply a toxin to a weapon, automatically exposing themselves to the poison when attempting to do so. Due to the toxicologist alchemist’s bond with their toxins, they are always aware if a creature within 60 feet of themselves has failed a saving throw against their toxins.
+A toxicologist alchemist can create a variety of toxins, a special type of poison like tools. Doing so costs 1 point of quintessence and 10 minutes to create a number of toxins equal to the toxicologist alchemist’s Intelligence modifier, each toxin being placed inside of a vial or other similar receptacle that is not exposed to open air. A toxicologist alchemist can never possess an amount of toxins greater than their Intelligence modifier, and toxins remain potent for 24 hours before becoming inert, although they become inert 1 round after being exposed to open air. The toxicologist alchemist can prevent this by applying it to a weapon; drawing and applying a toxin to a weapon can be done as a move action (1 AP), the toxin remaining active for a number of rounds equal to the toxicologist alchemist’s Intelligence modifier (this can be done by characters with the Use Poison class feature). a character without the use poison or poisoner class feature cannot apply a toxin to a weapon, automatically exposing themselves to the poison when attempting to do so. Due to the toxicologist alchemist’s bond with their toxins, they are always aware if a creature within 60 feet of themselves has failed a saving throw against their toxins.
 
 When a toxin is created, the toxicologist alchemist can decide the method in which the toxin is delivered, being either inhaled, contact, or digested. When inside of their vials, thrown toxins have a range of 30 feet and use the Throw Splash Weapon special attack, lasting for 1 round before evaporating into harmless smoke, and a thrown toxin covers a 5 foot square. The toxicologist alchemist can modify their poisons with [additive] discoveries, causing the effects of the toxin to change accordingly; these discoveries are applied when the toxin is created.
 
 The toxicologist alchemist is immune to their own toxin unless they decide otherwise upon creating it, but any creature exposed to this toxin (according to its type) must succeed at a Fortitude save (DC = 10 + 1/2 the alchemist’s class level + the alchemist’s Intelligence modifier). On a failed save, the target takes an amount of damage equal to the toxicologist alchemist’s Intelligence modifier and is [sickened](../../../rules/appendices/conditions.md#sickened) for 1 minute, and the toxicologist alchemist can decide to create a toxin which does not deal damage. A creature can only be exposed to a single toxin from a toxicologist alchemist each round (multiple toxicologist alchemists can affect the same creature in a round); if a creature is exposed to additional toxins in the same round, they are unaffected by it. This is a poison effect.
 
-At 6th level, a toxicologist can apply a toxin to a weapon as a swift action and a toxin applied to a weapon remains active for a number of minutes equal to the toxicologist alchemist’s Intelligence modifier. At 12th level, a toxicologist alchemist can apply two [additive] talents to a single toxin, each requiring their own successful saving throw to avoid their effects (if the toxins require saving throws). At 18th level, the toxicologist alchemist can select a single [additive] talent applied to their toxin, a creature who successfully makes a saving throw against that toxin must make an additional saving throw against that discovery at the beginning of their next turn; passing this additional saving throw does not force them to make another saving throw against that poison.
+At 6th level, a toxicologist can apply a toxin to a weapon as a swift action (1 AP) and a toxin applied to a weapon remains active for a number of minutes equal to the toxicologist alchemist’s Intelligence modifier. At 12th level, a toxicologist alchemist can apply two [additive] talents to a single toxin, each requiring their own successful saving throw to avoid their effects (if the toxins require saving throws). At 18th level, the toxicologist alchemist can select a single [additive] talent applied to their toxin, a creature who successfully makes a saving throw against that toxin must make an additional saving throw against that discovery at the beginning of their next turn; passing this additional saving throw does not force them to make another saving throw against that poison.
 
 ### Discipline Breakthroughs
 
@@ -272,19 +272,19 @@ At 6th level, a toxicologist can apply a toxin to a weapon as a swift action and
 
 #### Poison Absorption (Ex)
 
-A toxicologist alchemist can absorb any poison or toxin in their possession into themselves without suffering its effects; although they can only have one such poison at a time. A number of times per day equal to 1/2 their alchemist level, they can metabolize a poison or toxin inside of themselves as a move action, recovering a number of hit points equal to their class level + their Intelligence modifier. Whenever a toxicologist alchemist is exposed to a poison which is not in their possession (but not a poison effect), if they successfully save against its effects, they can absorb that poison as a free action (if the toxicologist alchemist is immune to poison, they can choose to absorb it or not). Any poison or toxin absorbed by the toxicologist alchemist disperses from their body after 8 hours of rest.
+A toxicologist alchemist can absorb any poison or toxin in their possession into themselves without suffering its effects; although they can only have one such poison at a time. A number of times per day equal to 1/2 their alchemist level, they can metabolize a poison or toxin inside of themselves as a move action (1 AP), recovering a number of hit points equal to their class level + their Intelligence modifier. Whenever a toxicologist alchemist is exposed to a poison which is not in their possession (but not a poison effect), if they successfully save against its effects, they can absorb that poison as a free action (if the toxicologist alchemist is immune to poison, they can choose to absorb it or not). Any poison or toxin absorbed by the toxicologist alchemist disperses from their body after 8 hours of rest.
 
 11th
 
 #### Poison Adaptation (Ex)
 
-A toxicologist alchemist can have a number of poisons or toxins absorbed into themselves equal to their Intelligence modifier. In addition, they can apply poison or toxins (including absorbed poison and toxins) to a weapon as a free action once per round; they can instead spend a swift action to do this. If they do so, the poison or toxin’s DC is increased by +2. A toxicologist alchemist can also metabolize a poison as a swift action.
+A toxicologist alchemist can have a number of poisons or toxins absorbed into themselves equal to their Intelligence modifier. In addition, they can apply poison or toxins (including absorbed poison and toxins) to a weapon as a free action once per round; they can instead spend a swift action (1 AP) to do this. If they do so, the poison or toxin’s DC is increased by +2. A toxicologist alchemist can also metabolize a poison as a swift action (1 AP).
 
 17th
 
 #### Poison Assimilation (Ex)
 
-Whenever a toxicologist alchemist uses a swift action to apply a toxin to a weapon, any creature exposed to that toxin must roll two saving throws instead of one, taking the lower result. In addition, if the toxicologist alchemist has the poison absorption discipline breakthrough, whenever they recover hit points from metabolizing a poison, they can make a saving throw against one ongoing condition from which they are suffering, instantly ending that condition if the saving throw is successful.
+Whenever a toxicologist alchemist uses a swift action (1 AP) to apply a toxin to a weapon, any creature exposed to that toxin must roll two saving throws instead of one, taking the lower result. In addition, if the toxicologist alchemist has the poison absorption discipline breakthrough, whenever they recover hit points from metabolizing a poison, they can make a saving throw against one ongoing condition from which they are suffering, instantly ending that condition if the saving throw is successful.
 
 #### Multi Bomb (Ex)
 
@@ -318,7 +318,7 @@ At 15th level, whenever an alchemist creates a bomb, they can create three bombs
 
 #### Instant Alchemy (Ex)
 
-At 18th level, an alchemist can create alchemical items with almost supernatural speed. They can create any alchemical item as a full-round action if they succeed at the Craft (alchemy) check and have the appropriate resources at hand to fund the creation.
+At 18th level, an alchemist can create alchemical items with almost supernatural speed. They can create any alchemical item as a full-round action (3 AP) if they succeed at the Craft (alchemy) check and have the appropriate resources at hand to fund the creation.
 
 #### Ultimate Bomb (Ex)
 

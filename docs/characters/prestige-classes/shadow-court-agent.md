@@ -75,7 +75,7 @@ At 4th level, a Shadow Court agent gains the ability to supernaturally travel be
 
 #### Unnerving Gaze (Su)
 
-At 5th level, a Shadow Court agent gains a gaze attack similar to the kyton ability of the same name. Creatures within 30 feet of the agent must succeed at a Will save (DC 10 + the agent’s level + the agent’s Wisdom modifier) or be [shaken](../../rules/appendices/conditions.md#shaken) for 1 round. The agent can use this ability for a number of rounds per day equal to his level; these rounds do not need to be consecutive. Activating this ability is a swift action. The agent is immune to the unnerving gaze of kytons (whether or not his own unnerving gaze is active). This is a mind-affecting fear effect that follows all the normal rules for a gaze attack.
+At 5th level, a Shadow Court agent gains a gaze attack similar to the kyton ability of the same name. Creatures within 30 feet of the agent must succeed at a Will save (DC 10 + the agent’s level + the agent’s Wisdom modifier) or be [shaken](../../rules/appendices/conditions.md#shaken) for 1 round. The agent can use this ability for a number of rounds per day equal to his level; these rounds do not need to be consecutive. Activating this ability is a swift action (1 AP). The agent is immune to the unnerving gaze of kytons (whether or not his own unnerving gaze is active). This is a mind-affecting fear effect that follows all the normal rules for a gaze attack.
 
 As the agent gains levels, his unnerving gaze grows more potent. At 7th level, creatures that fail their save are shaken for 1d4 rounds. At 9th level, they are [staggered](../../rules/appendices/conditions.md#staggered) for 1 round and shaken for 1d4 rounds after.
 

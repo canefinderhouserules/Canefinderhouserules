@@ -69,7 +69,7 @@ As the introspective emissary grows in power and prestige, the effective *summon
 
 #### Manifest Will (Su)
 
-At 3rd level, spiritual energy flows both into and out of the introspective emissary, allowing her to overcome the limitations of her physical body by sheer force of will. The introspective emissary selects either Strength, Dexterity, or Constitution. As an immediate action, she can substitute her Wisdom modifier for her selected ability’s modifier on a single ability check, attack roll, saving throw, or skill check. She can use this ability a number of times per day equal to her Charisma modifier + half her introspective emissary level. At 6th level and again at 9th level, she can select one more physical ability score she can affect with this ability.
+At 3rd level, spiritual energy flows both into and out of the introspective emissary, allowing her to overcome the limitations of her physical body by sheer force of will. The introspective emissary selects either Strength, Dexterity, or Constitution. As an immediate action (1 AP of your next turn), she can substitute her Wisdom modifier for her selected ability’s modifier on a single ability check, attack roll, saving throw, or skill check. She can use this ability a number of times per day equal to her Charisma modifier + half her introspective emissary level. At 6th level and again at 9th level, she can select one more physical ability score she can affect with this ability.
 
 #### Parley (Sp)
 

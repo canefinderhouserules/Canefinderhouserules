@@ -6,7 +6,7 @@ After much practice, you and an ally have become adept at fighting in close prox
 
 **Prerequisites**: [Back to Back](back-to-back.md).
 
-**Benefit**: This negates even outflank. As an immediate action, you can give the effects of these two feats to an adjacent ally who does not have them.
+**Benefit**: This negates even outflank. As an immediate action (1 AP of your next turn), you can give the effects of these two feats to an adjacent ally who does not have them.
 
 **Category**: Common
 
@@ -18,4 +18,4 @@ After much practice, you and an ally have become adept at fighting in close prox
 
     **Prerequisites**: [Back to Back](back-to-back.md), Perception 5 ranks.
 
-    **Benefit**: While you are adjacent to an ally who is flanked and also has this feat, you can spend a swift action to gain a +2 bonus to AC against all flankers until the start of your next turn.
+    **Benefit**: While you are adjacent to an ally who is flanked and also has this feat, you can spend a swift action (1 AP) to gain a +2 bonus to AC against all flankers until the start of your next turn.

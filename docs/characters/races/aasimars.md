@@ -97,7 +97,7 @@ Aasimars have access to the following equipment.
 
 **Ambrosia**: Upon consumption, this heavenly elixir, brewed from holy water and blessed herbs, grants a +2 sacred bonus on saving throws against negative energy, energy drain, and death effects for 1 hour, including saves to remove negative levels. Ambrosia affects undead and evil outsiders as holy water.
 
-**Anointing Oil**: This sacred oil, infused with aromatic spices and distilled holy water, may be applied to a creature while casting a harmless divine spell with a range of touch, increasing the casting time to a full-round action but also increasing the caster’s effective caster level by +1 for that spell.
+**Anointing Oil**: This sacred oil, infused with aromatic spices and distilled holy water, may be applied to a creature while casting a harmless divine spell with a range of touch, increasing the casting time to a full-round action (3 AP) but also increasing the caster’s effective caster level by +1 for that spell.
 
 **Celestial Censer**: This blessed thurible holds up to 10 pieces of incense, and burns at a rate of 1 stick per hour. If a smokestick is added to the incense in the censer while it burns, creatures with the evil subtype are dazzled for as long as they remain within the area of the resulting smoke.
 

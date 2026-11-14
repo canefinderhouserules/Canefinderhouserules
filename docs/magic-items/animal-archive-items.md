@@ -18,7 +18,7 @@ This thin, silver circlet allows an animal wearing it to speak, even if it is no
 
 This collar of bright red leather bears a small golden pendant and makes the wearer much more biddable and compliant. The wearer takes a –4 penalty on saving throws against mind-affecting effects used by the creature that placed the collar on it, and that creature gains a +4 bonus on Handle Animal checks to train or push the wearer. Any other creatures take a –4 penalty on Handle Animal checks against the wearer, and the wearer gains a +2 resistance bonus on saving throws against their mind-affecting effects.
 
-A *collar of obedience* can be placed on any Small, Medium or Large creature. Placing a *collar of obedience* on a creature is a full-round action that requires a successful grapple maneuver. Removing the collar is also a full-round action, and the creature removing it must have precise digits capable of working the locking mechanism. A creature made helpful with wild empathy does not resist having the collar equipped or removed.
+A *collar of obedience* can be placed on any Small, Medium or Large creature. Placing a *collar of obedience* on a creature is a full-round action (3 AP) that requires a successful grapple maneuver. Removing the collar is also a full-round action (3 AP), and the creature removing it must have precise digits capable of working the locking mechanism. A creature made helpful with wild empathy does not resist having the collar equipped or removed.
 
 *Construction* Craft Wondrous Item, *charm animal* or *mind fog*; Cost 2,500 gp.
 
@@ -44,7 +44,7 @@ This dull brass ring is typically placed in the nose or muzzle, or elsewhere on 
 
 This nacreous saddle is carved from giant mollusk shells, lashed with braided kelp, and designed to be worn by aquatic mounts. On command, an arcing torrent of water rises up from an existing body of water, allowing the mount to use its swim speed to move through the air. This functions as *air walk* and can be used a total of 7 minutes per day, usable in 1-minute increments. The arc of water trails behind the mount and rider and can be used by other swimming creatures to move through the air (Swim DC 15). When the effect ends, the suspended water disappears with a negligible amount of water falling on creatures underneath the path of the arc.
 
-The sky-river created by the saddle does not harm creatures, though it does extinguish nonmagical fires in areas it overlaps with them. As a standard action, the rider can expend 2 minutes of the sky-river's duration to produce a *hydraulic torrent* with a CMB of +9.
+The sky-river created by the saddle does not harm creatures, though it does extinguish nonmagical fires in areas it overlaps with them. As a standard action (1 AP), the rider can expend 2 minutes of the sky-river's duration to produce a *hydraulic torrent* with a CMB of +9.
 
 *Construction* Craft Wondrous Item, *air walk*, *hydraulic torrent*, *water walk*; Cost 8,000 gp.
 
@@ -96,6 +96,6 @@ The head of this bronze scepter is shaped like a roaring lion leaping forward. W
 
 *Aura* moderate conjuration and enchantment [mind-affecting, sonic]; *CL* 8th; *Slot* none; *Price* 11,901 gp; *Weight* 2 lbs.
 
-This leathern lash is dyed with special unguents that give it a disturbing crimson hue. A *tamer's whip* is a +1 *animal-bane* whip that deals lethal damage to animals and magical beasts regardless of their natural armor bonus. Cracking a *tamer's whip* as a move action grants the wielder the following benefits until the end of her turn: a +4 competence bonus on Intimidate checks made against animals and magical beasts, a +4 competence bonus on Handle Animal checks made to push them, and a +2 bonus on any combat maneuvers against animals or magical beasts.
+This leathern lash is dyed with special unguents that give it a disturbing crimson hue. A *tamer's whip* is a +1 *animal-bane* whip that deals lethal damage to animals and magical beasts regardless of their natural armor bonus. Cracking a *tamer's whip* as a move action (1 AP) grants the wielder the following benefits until the end of her turn: a +4 competence bonus on Intimidate checks made against animals and magical beasts, a +4 competence bonus on Handle Animal checks made to push them, and a +2 bonus on any combat maneuvers against animals or magical beasts.
 
 *Construction* Craft Magic Arms and Armor, *animal trance*, *snare*, *summon nature's ally I*; Cost 6,101 gp.

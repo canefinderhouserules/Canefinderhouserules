@@ -63,7 +63,7 @@ Levels of the winter witch prestige class stack with witch levels for determinin
 
 #### Freeze and Thaw (Su)
 
-At 2nd level, a winter witch can freeze water or melt ice and snow with a touch. As a standard action, a winter witch can melt an adjacent 5-foot cube of ice or a 10-foot cube of snow. Melting snow produces a volume of water equal to 10% the snow’s volume. Alternatively, a winter witch can freeze 5 cubic feet of water into solid ice. This freezing takes place gradually over 1 round, making it almost impossible to trap a creature unless it’s [helpless](../../rules/appendices/conditions.md#helpless). This cannot affect water within a creature. One cubic foot of ice contains roughly 8 gallons of water and weighs about 60 pounds.
+At 2nd level, a winter witch can freeze water or melt ice and snow with a touch. As a standard action (1 AP), a winter witch can melt an adjacent 5-foot cube of ice or a 10-foot cube of snow. Melting snow produces a volume of water equal to 10% the snow’s volume. Alternatively, a winter witch can freeze 5 cubic feet of water into solid ice. This freezing takes place gradually over 1 round, making it almost impossible to trap a creature unless it’s [helpless](../../rules/appendices/conditions.md#helpless). This cannot affect water within a creature. One cubic foot of ice contains roughly 8 gallons of water and weighs about 60 pounds.
 
 This ability works on fresh water and saltwater, but has no effect on water creatures; on liquids (frozen or otherwise) other than water; or on magical water, ice, or snow. A winter witch can use this ability a number of times per day equal to 1/2 her class level.
 
@@ -81,7 +81,7 @@ At 5th level and every two levels thereafter, a winter witch gains the following
 
 #### Numbing Chill (Su)
 
-Whenever the winter witch casts a spell that deals cold damage, she can imbue the spell with a debilitating eldritch chill as a swift action. She chooses one of the spell’s targets or a creature within the spell effect. If that creature takes cold damage from the spell, it must also succeed at a Fortitude save or take 1d4 points of Dexterity damage and be [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. The creature need only make this saving throw once per spell, even if the spell deals damage multiple times. If the target saves successfully, it is immune to this hex for 1 day. This is a cold effect.
+Whenever the winter witch casts a spell that deals cold damage, she can imbue the spell with a debilitating eldritch chill as a swift action (1 AP). She chooses one of the spell’s targets or a creature within the spell effect. If that creature takes cold damage from the spell, it must also succeed at a Fortitude save or take 1d4 points of Dexterity damage and be [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. The creature need only make this saving throw once per spell, even if the spell deals damage multiple times. If the target saves successfully, it is immune to this hex for 1 day. This is a cold effect.
 
 #### Blizzard Sight (Su)
 
@@ -93,7 +93,7 @@ At 8th level, a winter [witch’s spells](../classes/witch.md#spells), spell-lik
 
 #### Iceglide (Su)
 
-At 10th level, a winter witch can move effortlessly at her base land speed through ice or snow. This leaves behind no tunnel or hole, and doesn’t create any ripple or other sign of passage. While icegliding, a winter witch can breathe normally. A [*control water*](../../magic/spells/control-water.md) spell cast on an area containing an icegliding winter witch flings her back 30 feet in a random direction, stunning her for 1 round unless she succeeds at a DC 15 Fortitude save. A winter witch can use this ability for 10 minutes per day. This time need not be consecutive, but must be spent in 1-minute increments. Activating this ability is a swift action.
+At 10th level, a winter witch can move effortlessly at her base land speed through ice or snow. This leaves behind no tunnel or hole, and doesn’t create any ripple or other sign of passage. While icegliding, a winter witch can breathe normally. A [*control water*](../../magic/spells/control-water.md) spell cast on an area containing an icegliding winter witch flings her back 30 feet in a random direction, stunning her for 1 round unless she succeeds at a DC 15 Fortitude save. A winter witch can use this ability for 10 minutes per day. This time need not be consecutive, but must be spent in 1-minute increments. Activating this ability is a swift action (1 AP).
 
 #### Inexorable Cold (Su)
 

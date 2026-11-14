@@ -6,9 +6,9 @@ When you pull a dirty trick, your foe is truly hindered.
 
 **Prerequisites**: [Deft Maneuvers](deft-maneuvers.md), [Improved Dirty Trick](improved-dirty-trick.md), base attack bonus +6.
 
-**Benefit**: You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by [Improved Dirty Trick](improved-dirty-trick.md). Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target’s CMD. In addition, removing the condition requires the target to spend a standard action.
+**Benefit**: You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by [Improved Dirty Trick](improved-dirty-trick.md). Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target’s CMD. In addition, removing the condition requires the target to spend a standard action (1 AP).
 
-**Normal**: The condition imposed by a dirty trick lasts for 1 round plus 1 round for every 5 by which your attack exceeds the target’s CMD. Removing the condition requires the target to spend a move action.
+**Normal**: The condition imposed by a dirty trick lasts for 1 round plus 1 round for every 5 by which your attack exceeds the target’s CMD. Removing the condition requires the target to spend a move action (1 AP).
 
 ??? note "Original rule"
 
@@ -18,6 +18,6 @@ When you pull a dirty trick, your foe is truly hindered.
 
     **Prerequisites**: Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6.
 
-    **Benefit**: You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by Improved Dirty Trick. Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target’s CMD. In addition, removing the condition requires the target to spend a standard action.
+    **Benefit**: You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by Improved Dirty Trick. Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target’s CMD. In addition, removing the condition requires the target to spend a standard action (1 AP).
 
-    **Normal**: The condition imposed by a dirty trick lasts for 1 round plus 1 round for every 5 by which your attack exceeds the target’s CMD. Removing the condition requires the target to spend a move action.
+    **Normal**: The condition imposed by a dirty trick lasts for 1 round plus 1 round for every 5 by which your attack exceeds the target’s CMD. Removing the condition requires the target to spend a move action (1 AP).

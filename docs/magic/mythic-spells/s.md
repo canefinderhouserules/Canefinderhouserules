@@ -46,7 +46,7 @@ Add your tier as a bonus on the saving throw reroll.
 
 The damage dealt increases to 3d6 points of fire damage. This otherwise makes the same changes as mythic gaseous form.
 
-**Augmented**: If you expend two uses of mythic power, the target can shift into or out of scorching ash form as a move action.
+**Augmented**: If you expend two uses of mythic power, the target can shift into or out of scorching ash form as a move action (1 AP).
 
 ## Scorching Ray
 
@@ -58,7 +58,7 @@ Each ray's damage increases to 6d6 points of fire damage. The first ray bypasses
 
 The spell's damage increases to 4d8 points of piercing damage. Any creature in the area at the start of your turn must succeed at a Reflex save or be [blinded](../../rules/appendices/conditions.md#blinded) for as long as it remains in the area and for 1d4 rounds after it leaves.
 
-**Augmented (5th)**: If you expend two uses of mythic power, the sandstorm's radius and height each increase to 40 feet, and the damage dealt increases to 6d8 points of piercing damage. Each round, you can either move the storm up to 50 feet as a move action or up to 10 feet as a swift action.
+**Augmented (5th)**: If you expend two uses of mythic power, the sandstorm's radius and height each increase to 40 feet, and the damage dealt increases to 6d8 points of piercing damage. Each round, you can either move the storm up to 50 feet as a move action (1 AP) or up to 10 feet as a swift action (1 AP).
 
 ## Searing Light
 
@@ -82,7 +82,7 @@ Add your tier to the CMD of the shadow tether. A creature attempting to escape t
 
 Add your tier to your caster level when determining what enhancement bonus or weapon special abilities the weapon can have. The weapon deals half damage to creatures that disbelieve in it and to objects, instead of only 1 point.
 
-You can spend a swift action to transform the weapon into a dull black metal ring on your finger, or to return it from its ring form to its weapon form in your hand.
+You can spend a swift action (1 AP) to transform the weapon into a dull black metal ring on your finger, or to return it from its ring form to its weapon form in your hand.
 
 ## Shatter
 
@@ -148,7 +148,7 @@ The damage dealt increases to 2d6 points of piercing damage plus 1 point of blee
 
 ## Spiritual Weapon
 
-The weapon gains your choice of one of the following magic weapon special abilities: flaming, frost, keen, merciful, shock, or thundering. Before or after the weapon attempts all of its attacks for the round, you can redirect it to a different target as a swift action instead of a move action.
+The weapon gains your choice of one of the following magic weapon special abilities: flaming, frost, keen, merciful, shock, or thundering. Before or after the weapon attempts all of its attacks for the round, you can redirect it to a different target as a swift action (1 AP) instead of a move action.
 
 ## Stinking Cloud
 
@@ -156,7 +156,7 @@ Creatures that succeed at their saves are [sickened](../../rules/appendices/cond
 
 ## Stone Shape
 
-The duration changes to 1 round/level and instantaneous (see text). Each round after the round you cast the spell, you can spend a standard action to shape up to 5 additional cubic feet of stone you touch. Shaped stone has an instantaneous duration (meaning it does not revert to its previous form when the spell ends).
+The duration changes to 1 round/level and instantaneous (see text). Each round after the round you cast the spell, you can spend a standard action (1 AP) to shape up to 5 additional cubic feet of stone you touch. Shaped stone has an instantaneous duration (meaning it does not revert to its previous form when the spell ends).
 
 ## Stoneskin
 

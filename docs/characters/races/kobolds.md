@@ -58,7 +58,7 @@ The following racial traits may be selected instead of existing kobold racial tr
 
 **Frightener**: Like the great dragons, you can strike fear in the hearts of your foes with your majestic presence. You gain a +1 racial bonus to the DC of saving throws against spells you cast with the fear descriptor. This racial trait replaces the armor racial trait.
 
-**Prehensile Tail**: Your tail is especially flexible and strong, so you've learned to use it for both movement and simple tricks. You gain a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks, and you can use your tail to draw a hidden weapon as a move action instead of as a standard action. This racial trait replaces the armor racial trait.
+**Prehensile Tail**: Your tail is especially flexible and strong, so you've learned to use it for both movement and simple tricks. You gain a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks, and you can use your tail to draw a hidden weapon as a move action (1 AP) instead of as a standard action (1 AP). This racial trait replaces the armor racial trait.
 
 **Secret Strider**: You have the ability to traverse the wilderness without a trace. Twice per day, you can move through natural surroundings without leaving a trail for 1 minute, increasing the DC of any attempts to track you by 10. This racial trait replaces crafty.
 
@@ -121,7 +121,7 @@ These archetypes are typically only taken by kobolds, but members of other races
 
 Kobolds have access to the following equipment.
 
-**Alchemical Coal**: A kobold who chews and swallows this alchemically treated piece of coal (a full-round action) can make one breath weapon attack during the next minute. If the kobold fails to make a breath attack before this minute expires, it is [sickened](../../rules/appendices/conditions.md#sickened) for 1 hour. Other humanoid creatures that eat alchemical coal are sickened for 1 hour (though certain other creatures may be able to use them, at the GM’s discretion). Creatures that are immune to poison are immune to the sickened effect. The type of breath weapon depends on the type of alchemical coal that is chewed by the kobold.
+**Alchemical Coal**: A kobold who chews and swallows this alchemically treated piece of coal (a full-round action (3 AP)) can make one breath weapon attack during the next minute. If the kobold fails to make a breath attack before this minute expires, it is [sickened](../../rules/appendices/conditions.md#sickened) for 1 hour. Other humanoid creatures that eat alchemical coal are sickened for 1 hour (though certain other creatures may be able to use them, at the GM’s discretion). Creatures that are immune to poison are immune to the sickened effect. The type of breath weapon depends on the type of alchemical coal that is chewed by the kobold.
 
 *Blinding Cinders*: This jagged bit of dusty red coal allows a kobold to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not [blinded](../../rules/appendices/conditions.md#blinded).
 
@@ -129,7 +129,7 @@ Kobolds have access to the following equipment.
 
 **Cave Whistle**: Fashioned from the spongy stem of a rare mushroom, this whistle produces a sound that only kobolds and dragons can hear. Kobolds often create complicated codes made up of notes that they use to coordinate ambushes and raids.
 
-**Kobold Tail Attachments**: A kobold with the [Tail Terror](../../rules/feats/tail-terror.md) feat (see below) can slip this device over the tip of his tail to augment his natural attack. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. It takes a full-round action to slip on a kobold tail attachment, and the kobold gains a +4 bonus against disarm attempts made to remove his tail attachment.
+**Kobold Tail Attachments**: A kobold with the [Tail Terror](../../rules/feats/tail-terror.md) feat (see below) can slip this device over the tip of his tail to augment his natural attack. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. It takes a full-round action (3 AP) to slip on a kobold tail attachment, and the kobold gains a +4 bonus against disarm attempts made to remove his tail attachment.
 
 While a kobold is wearing a kobold tail attachment, the attack deals the tail attachment damage, and some attachments gain a special feature. Tail attachments are light weapons and can be improved by feats that can improve weapon attacks (such as Weapon Focus and [Weapon Specialization](../../rules/feats/weapon-specialization.md)). All kobold tail attachments make up a kobold tail attachment weapon group that can be improved by the fighter’s weapon training class ability. Tail attachments can be constructed of special material and made into masterwork or magic items. There are five types of common tail attachments.
 

@@ -89,7 +89,7 @@ This weapon special ability can be applied only to brass knuckles, a cestus, a s
 
 *Aura* faint transmutation; *CL* 5th; *Slot* none; *Price* +1 bonus; *Weight* —
 
-When the wielder confirms a critical hit with a *confounding* weapon, she can spend 1 panache point to attempt a combat maneuver to disarm, reposition, sunder, or trip the target as an immediate action, gaining a bonus on the combat maneuver check equal to the enhancement bonus of the *confounding* weapon. This combat maneuver does not provoke an attack of opportunity. The wielder can't use panache gained by confirming the critical hit to activate this ability.
+When the wielder confirms a critical hit with a *confounding* weapon, she can spend 1 panache point to attempt a combat maneuver to disarm, reposition, sunder, or trip the target as an immediate action (1 AP of your next turn), gaining a bonus on the combat maneuver check equal to the enhancement bonus of the *confounding* weapon. This combat maneuver does not provoke an attack of opportunity. The wielder can't use panache gained by confirming the critical hit to activate this ability.
 
 *Construction* Craft Magic Arms and Armor, *eagle's splendor*; Cost +1 bonus.
 
@@ -129,7 +129,7 @@ This ability can be placed only on melee weapons. An *exhausting* weapon can bri
 
 *Aura* faint necromancy; *CL* 5th; *Slot* none; *Price* +1 bonus; *Weight* —
 
-This special ability can be placed only on melee weapons. When a *fate-stealing* weapon strikes a creature that possesses either grit or panache, the wielder can steal 1 grit point or panache point as a swift action. When the wielder steals a grit or panache point, she can regain 1 grit point or 1 panache point (if the wielder has any). The wielder can use a foe's grit to restore her own panache, or use a foe's panache to restore her own grit.
+This special ability can be placed only on melee weapons. When a *fate-stealing* weapon strikes a creature that possesses either grit or panache, the wielder can steal 1 grit point or panache point as a swift action (1 AP). When the wielder steals a grit or panache point, she can regain 1 grit point or 1 panache point (if the wielder has any). The wielder can use a foe's grit to restore her own panache, or use a foe's panache to restore her own grit.
 
 If the wielder attempts to use this ability against a foe that isn't a grit or panache user, or that currently has no points of grit or panache remaining, the wielder doesn't expend an action, and the attempt fails.
 
@@ -157,7 +157,7 @@ This special ability can be placed only on one-handed or light piercing melee we
 
 *Aura* strong transmutation; *CL* 16th; *Slot* none; *Price* +5 bonus; *Weight* —
 
-This ability can be placed only on melee weapons. A *flying* weapon acts as a *dancing* weapon, but while dancing it can be directed to attack foes up to 30 feet away. Additionally, at any time (even if the weapon is not dancing), the last wielder to draw the weapon can will it to return to him as a swift action. It flies up to 500 feet per round to return to its wielder, making one sunder attempt per round to penetrate any barrier it can't fly around and a combat maneuver check (using its last wielder's CMB) against the CMD of any creature that attempts to hold or restrain it (bursting free on a successful check). When it returns to its wielder, the weapon flies into an empty hand or, if its wielder does not have a free hand, falls at his feet. If the weapon can't return after 4 rounds, it falls inert.
+This ability can be placed only on melee weapons. A *flying* weapon acts as a *dancing* weapon, but while dancing it can be directed to attack foes up to 30 feet away. Additionally, at any time (even if the weapon is not dancing), the last wielder to draw the weapon can will it to return to him as a swift action (1 AP). It flies up to 500 feet per round to return to its wielder, making one sunder attempt per round to penetrate any barrier it can't fly around and a combat maneuver check (using its last wielder's CMB) against the CMD of any creature that attempts to hold or restrain it (bursting free on a successful check). When it returns to its wielder, the weapon flies into an empty hand or, if its wielder does not have a free hand, falls at his feet. If the weapon can't return after 4 rounds, it falls inert.
 
 *Construction* Craft Magic Arms and Armor, *animate objects*; Cost +5 bonus.
 
@@ -191,7 +191,7 @@ The listed price is for 50 pieces of phantom ammunition.
 
 *Aura* moderate enchantment; *CL* 7th; *Slot* none; *Price* +2,500 gp; *Weight* —
 
-This special ability can be placed only on a whip. A *prehensile* whip can, as a swift action, be attached to an object as if it were a grappling hook. The whip can then be used to climb surfaces or to swing across a room or any open area. By spending 1 panache point as a free action, a swashbuckler increases a *prehensile* whip's reach to 20 feet for a single attack, and can use the whip with his precise strike ability even though it's not a light or one-handed piercing weapon.
+This special ability can be placed only on a whip. A *prehensile* whip can, as a swift action (1 AP), be attached to an object as if it were a grappling hook. The whip can then be used to climb surfaces or to swing across a room or any open area. By spending 1 panache point as a free action, a swashbuckler increases a *prehensile* whip's reach to 20 feet for a single attack, and can use the whip with his precise strike ability even though it's not a light or one-handed piercing weapon.
 
 *Construction* Craft Magic Arms and Armor, *rope trick*; Cost +1,250 gp.
 
@@ -252,7 +252,7 @@ The following section includes weapons with unusual powers and magical abilities
 
 *Aura* strong transmutation; *CL* 13th; *Slot* none; *Price* 35,320 gp; *Weight* 2 lbs.
 
-This *+2 countering dueling rapier* is particularly well balanced, and features a stout steel ball on the pommel. Three times per day, the wielder can make a surprise melee attack with the pommel as a swift action, as if proficient with the attack and at her normal attack bonus. The attack deals 1d6+2 points of bludgeoning damage, and the critical multiplier is 20/×2.
+This *+2 countering dueling rapier* is particularly well balanced, and features a stout steel ball on the pommel. Three times per day, the wielder can make a surprise melee attack with the pommel as a swift action (1 AP), as if proficient with the attack and at her normal attack bonus. The attack deals 1d6+2 points of bludgeoning damage, and the critical multiplier is 20/×2.
 
 *Construction* Combat Reflexes, Craft Magic Arms and Armor, *cat's grace*, *daze*; Cost 17,820 gp.
 
@@ -260,7 +260,7 @@ This *+2 countering dueling rapier* is particularly well balanced, and features 
 
 *Aura* moderate necromancy and transmutation; *CL* 9th; *Slot* none; *Price* 13,850 gp; *Weight* 8 lbs.
 
-This scalpel-sharp greatsword has a simple black handle and crosspiece, and is made of unusually dark steel etched with an organic wave pattern. Once per day, the wielder of this *+1 keen greatsword* can attempt to assassinate a target, per the slayer advanced talent of the same name. If the wielder is not a slayer, he must spend a full-round action studying the target before attempting the assassination, and the target's DC to avoid death is 15. In the hands of a slayer, the sword's enhancement bonus on attack rolls is 2 better against a studied target, and the DC to avoid death from an assassination attempt increases by 2. Additionally, if the assassination attempt is successful, the target is decapitated instead of merely slain.
+This scalpel-sharp greatsword has a simple black handle and crosspiece, and is made of unusually dark steel etched with an organic wave pattern. Once per day, the wielder of this *+1 keen greatsword* can attempt to assassinate a target, per the slayer advanced talent of the same name. If the wielder is not a slayer, he must spend a full-round action (3 AP) studying the target before attempting the assassination, and the target's DC to avoid death is 15. In the hands of a slayer, the sword's enhancement bonus on attack rolls is 2 better against a studied target, and the DC to avoid death from an assassination attempt increases by 2. Additionally, if the assassination attempt is successful, the target is decapitated instead of merely slain.
 
 *Construction* Craft Magic Arms and Armor, *keen edge*, *slay living*; Cost 7,100 gp.
 
@@ -268,7 +268,7 @@ This scalpel-sharp greatsword has a simple black handle and crosspiece, and is m
 
 *Aura* moderate transmutation; *CL* 7th; *Slot* none; *Price* 30,320 gp; *Weight* 2 lbs.
 
-This *+2 rapier* has elegant lines and a stylish basket hilt. The wielder of this weapon gains a +5 competence bonus on Acrobatics checks made to move through an enemy's threatened area or through its space. As a swift action after hitting with a melee attack using this weapon, the wielder can spend 1 panache point to move 10 feet without provoking attacks of opportunity.
+This *+2 rapier* has elegant lines and a stylish basket hilt. The wielder of this weapon gains a +5 competence bonus on Acrobatics checks made to move through an enemy's threatened area or through its space. As a swift action (1 AP) after hitting with a melee attack using this weapon, the wielder can spend 1 panache point to move 10 feet without provoking attacks of opportunity.
 
 *Construction* Craft Magic Arms and Armor, *freedom of movement*, creator must have 10 ranks in Craft (weapons); Cost 15,350 gp.
 

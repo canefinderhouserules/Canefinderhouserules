@@ -4,6 +4,6 @@ You are accustomed to diving deeper than most would dare swim and can do so with
 
 **Prerequisite**: [Endurance](endurance.md).
 
-**Benefit**: You gain a +4 bonus on [Acrobatics](../skills/acrobatics.md) checks to reduce falling damage when diving into water and on [Perception](../skills/perception.md) checks in dim light or darkness underwater. When attempting a [Swim](../skills/swim.md) check to swim downward (at least 45 degrees down from the horizontal), on a successful check you can swim half your speed as a move action, or your speed as a full-round action. If you have a swim speed, it increases by 10 feet when you spend a move action to swim only downward.
+**Benefit**: You gain a +4 bonus on [Acrobatics](../skills/acrobatics.md) checks to reduce falling damage when diving into water and on [Perception](../skills/perception.md) checks in dim light or darkness underwater. When attempting a [Swim](../skills/swim.md) check to swim downward (at least 45 degrees down from the horizontal), on a successful check you can swim half your speed as a move action (1 AP), or your speed as a full-round action (3 AP). If you have a swim speed, it increases by 10 feet when you spend a move action (1 AP) to swim only downward.
 
 In addition, you can hold your breath for a number of rounds equal to three times your Constitution score, and you gain a +4 bonus on Constitution checks to continue holding your breath after this time and to resist the effects of the cold environment underwater. Pressure damage you take from deep water is halved.

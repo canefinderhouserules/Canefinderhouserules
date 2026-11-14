@@ -8,13 +8,13 @@ Mundane and alchemical gear from the player companion books, grouped by theme.
 
 **Price** 150 gp; **Weight** 1/2 lb.
 
-The powder in this minute glass vial is made of caustic soda treated with consecrated ashes, and is harmless to living flesh but dangerous to the deceased. Necrosalt can be thrown as a splash weapon with a range increment of 5 feet. On a successful ranged touch attack, 1 dose of necrosalt deals 1d4 points of damage to a struck corporeal undead creature. For 3 rounds afterward, it deals an additional 1d4 points of damage to its victim at the beginning of the victim's turn. Intelligent undead creatures can brush necrosalt off their bodies and end its effect as a move action. Crafting this item requires a successful DC 30 Craft (alchemy) check.
+The powder in this minute glass vial is made of caustic soda treated with consecrated ashes, and is harmless to living flesh but dangerous to the deceased. Necrosalt can be thrown as a splash weapon with a range increment of 5 feet. On a successful ranged touch attack, 1 dose of necrosalt deals 1d4 points of damage to a struck corporeal undead creature. For 3 rounds afterward, it deals an additional 1d4 points of damage to its victim at the beginning of the victim's turn. Intelligent undead creatures can brush necrosalt off their bodies and end its effect as a move action (1 AP). Crafting this item requires a successful DC 30 Craft (alchemy) check.
 
 ### Warding Ash
 
 **Price** 100 gp; **Weight** 1/2 lb.
 
-This flaky compound of blessed ashes is steeped in juniper berries, giving it a warm, chestnut color. Unintelligent undead instinctively recoil upon touching warding ash. If an unintelligent undead creature moves into a space covered in warding ash, it must immediately end its movement in that space (Reflex DC 14 negates). A single dose of warding ash is enough to cover a 5-foot-square space. Applying warding ash is a move action that provokes attacks of opportunity. The warding ash becomes inert 1 minute after being laid, or after the ash is disturbed in any way (such as being stepped on by a creature). Crafting this item requires a successful DC 25 Craft (alchemy) check.
+This flaky compound of blessed ashes is steeped in juniper berries, giving it a warm, chestnut color. Unintelligent undead instinctively recoil upon touching warding ash. If an unintelligent undead creature moves into a space covered in warding ash, it must immediately end its movement in that space (Reflex DC 14 negates). A single dose of warding ash is enough to cover a 5-foot-square space. Applying warding ash is a move action (1 AP) that provokes attacks of opportunity. The warding ash becomes inert 1 minute after being laid, or after the ash is disturbed in any way (such as being stepped on by a creature). Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 ### Skeleton Slayer Kit
 
@@ -48,7 +48,7 @@ A laboratory-created version of an expensive and infamous drug, synthetic mumia 
 
 **Price** 25 gp; **Weight** 2 lbs.
 
-This large glass jar is vacuum-sealed with an airtight wax plug. Inside, festering chunks of monkey meat are covered in fungal mycelium and seeded with fly eggs, though the mixture's potency is not evident until it's exposed to air. Once the jar is opened (a standard action), the stench quickly becomes overpowering as the jar's contents swell and rot at an accelerated rate. Any living creature within 15 feet of the jar when it is opened must succeed at a DC 12 Fortitude save or be sickened for 1d4 rounds. Vermin and undead have a hard time distinguishing carrion bait from rotten human flesh, but intelligent undead that succeed at a DC 15 Perception check realize the difference. Regardless, any creature that spends more than 1 round eating the carrion bait quickly realizes its error, since the bait continues to swell and grow even as it's digested. One round after eating carrion bait, an affected undead or vermin becomes staggered for 1d4 rounds as its belly bulges to incredible proportions (other creature types cannot stomach carrion bait and instead are nauseated for 2d4 rounds). If the affected creature is already staggered, its movement speed instead decreases by 10 feet for the duration of the carrion bait's effect. Crafting carrion bait requires a successful DC 19 Craft (alchemy) check.
+This large glass jar is vacuum-sealed with an airtight wax plug. Inside, festering chunks of monkey meat are covered in fungal mycelium and seeded with fly eggs, though the mixture's potency is not evident until it's exposed to air. Once the jar is opened (a standard action (1 AP)), the stench quickly becomes overpowering as the jar's contents swell and rot at an accelerated rate. Any living creature within 15 feet of the jar when it is opened must succeed at a DC 12 Fortitude save or be sickened for 1d4 rounds. Vermin and undead have a hard time distinguishing carrion bait from rotten human flesh, but intelligent undead that succeed at a DC 15 Perception check realize the difference. Regardless, any creature that spends more than 1 round eating the carrion bait quickly realizes its error, since the bait continues to swell and grow even as it's digested. One round after eating carrion bait, an affected undead or vermin becomes staggered for 1d4 rounds as its belly bulges to incredible proportions (other creature types cannot stomach carrion bait and instead are nauseated for 2d4 rounds). If the affected creature is already staggered, its movement speed instead decreases by 10 feet for the duration of the carrion bait's effect. Crafting carrion bait requires a successful DC 19 Craft (alchemy) check.
 
 ### Necrobane Formaldehyde
 
@@ -62,7 +62,7 @@ If an undead creature ingests necrobane formaldehyde (perhaps by eating part of 
 
 **Price** 200 gp; **Weight** 2 lbs.
 
-As a standard action, this ornate rectangular jar can be vigorously shaken to cause its contents to mix and activate. Once shaken, the contents of the jar shed light as a sunrod for 6 hours. A jar of activated bottled sunlight can be thrown as a splash weapon with a range increment of 10 feet. Upon striking a solid object, the bottled sunlight creates a 30-foot-radius burst of natural sunlight that persists for 1 round, after which all light from the jar fades. Throwing an inactive jar of bottled sunlight destroys the item, leaving only a smoldering pile of ashes where it struck. Crafting this item requires a successful DC 30 Craft (alchemy) check.
+As a standard action (1 AP), this ornate rectangular jar can be vigorously shaken to cause its contents to mix and activate. Once shaken, the contents of the jar shed light as a sunrod for 6 hours. A jar of activated bottled sunlight can be thrown as a splash weapon with a range increment of 10 feet. Upon striking a solid object, the bottled sunlight creates a 30-foot-radius burst of natural sunlight that persists for 1 round, after which all light from the jar fades. Throwing an inactive jar of bottled sunlight destroys the item, leaving only a smoldering pile of ashes where it struck. Crafting this item requires a successful DC 30 Craft (alchemy) check.
 
 ### Ectoplasmic Tracer
 
@@ -74,7 +74,7 @@ This small canister has a hand pump, allowing it to forcefully eject the semi-et
 
 **Price** 300 gp; **Weight** 1 lb.
 
-When you slash this alchemically treated iron spike against your flesh—a move action that deals 1d6 points of damage—the spike extends and becomes a short sword with the *ghost touch* weapon special ability. The spike reverts to its old form after 10 minutes, corroded and useless. Should a spiritbane spike rematerialize within a corporeal body, it is shunted to the nearest empty space without effect. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+When you slash this alchemically treated iron spike against your flesh—a move action (1 AP) that deals 1d6 points of damage—the spike extends and becomes a short sword with the *ghost touch* weapon special ability. The spike reverts to its old form after 10 minutes, corroded and useless. Should a spiritbane spike rematerialize within a corporeal body, it is shunted to the nearest empty space without effect. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 ### Tomb Explorer Kit
 
@@ -118,7 +118,7 @@ This stained mahogany box contains tools that aid in contacting supernatural bei
 
 **Price** 10 gp; **Weight** —
 
-This barbed, cold iron arrowhead is alchemically treated to inflict additional harm while embedded in creatures that are vulnerable to cold iron. For every angel quill arrowhead that damages a target with DR/cold iron, the target's damage reduction decreases by 1. Up to five angel quill arrowheads can affect a single target at any one time, reducing the target's DR/cold iron by up to 5 (additional arrowheads have no effect aside from dealing damage as normal). An affected target can pull out a number of arrowheads equal to her Dexterity modifier (minimum 1) as a full-round action with a successful DC 15 Heal check. Alternatively, the application of any magical healing causes all angel quill arrowheads embedded in the creature to instantly fall out.
+This barbed, cold iron arrowhead is alchemically treated to inflict additional harm while embedded in creatures that are vulnerable to cold iron. For every angel quill arrowhead that damages a target with DR/cold iron, the target's damage reduction decreases by 1. Up to five angel quill arrowheads can affect a single target at any one time, reducing the target's DR/cold iron by up to 5 (additional arrowheads have no effect aside from dealing damage as normal). An affected target can pull out a number of arrowheads equal to her Dexterity modifier (minimum 1) as a full-round action (3 AP) with a successful DC 15 Heal check. Alternatively, the application of any magical healing causes all angel quill arrowheads embedded in the creature to instantly fall out.
 
 Angel quill arrowheads of silver and adamantine are also available for the same price, and affect creatures with DR/silver or DR/adamantine, respectively. Crafting any type of angel quill arrowhead requires a successful DC 25 Craft (alchemy) check.
 
@@ -144,9 +144,9 @@ This reinforced wooden box bears the symbol of a specific good-aligned deity, wh
 
 **Price** 110 gp; **Weight** 1 lb.
 
-This hollow metal cylinder is etched with various religious symbols and contains a reservoir of holy water. When you light its fuse (a move action), a holy fountain firework fills a 10-foot-radius burst with holy water and bright light for as long as it burns. Any creature in the affected area is treated as though it had been struck with a flask of holy water, except a holy fountain firework only deals 1d4 points of damage and does not harm creatures in spaces adjacent to the affected area. Once ignited, the firework lasts for 1 minute.
+This hollow metal cylinder is etched with various religious symbols and contains a reservoir of holy water. When you light its fuse (a move action (1 AP)), a holy fountain firework fills a 10-foot-radius burst with holy water and bright light for as long as it burns. Any creature in the affected area is treated as though it had been struck with a flask of holy water, except a holy fountain firework only deals 1d4 points of damage and does not harm creatures in spaces adjacent to the affected area. Once ignited, the firework lasts for 1 minute.
 
-As a standard action, the firework can be extinguished before this time by being fully submerged or forcing its tip into the ground or a similar surface, but the remaining duration is wasted. A lit holy fountain firework can be picked up and moved, but the fountain's burst of holy water and light doesn't function during this time and the creature carrying the lit firework takes 1d4 points of fire damage each round she holds it. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+As a standard action (1 AP), the firework can be extinguished before this time by being fully submerged or forcing its tip into the ground or a similar surface, but the remaining duration is wasted. A lit holy fountain firework can be picked up and moved, but the fountain's burst of holy water and light doesn't function during this time and the creature carrying the lit firework takes 1d4 points of fire damage each round she holds it. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 ### Interrogation Tools
 
@@ -202,13 +202,13 @@ A barbed spear is a 10-foot-long polearm with a four-pronged head similar to a c
 
 **Price** 30 gp; **Type** exotic two-handed melee weapon; **Dmg (S)** 1d8; **Dmg (M)** 1d6; **Critical** ×3; **Weight** 9 lbs.; **Damage Type** piercing; **Special** reach, see text
 
-This pike has a hollow spot near its tip into which a flask can be strapped. If the flask is filled with an alchemical splash weapon and you hit a creature with the pike, the target is also hit with the splash weapon. This uses up the contents of the flask. Because of the added weight of a flask, attacks with the flask pike take a –2 penalty when it's loaded with one. Reloading the flask pike is a full-round action that provokes attacks of opportunity.
+This pike has a hollow spot near its tip into which a flask can be strapped. If the flask is filled with an alchemical splash weapon and you hit a creature with the pike, the target is also hit with the splash weapon. This uses up the contents of the flask. Because of the added weight of a flask, attacks with the flask pike take a –2 penalty when it's loaded with one. Reloading the flask pike is a full-round action (3 AP) that provokes attacks of opportunity.
 
 ### Dire Bolas
 
 **Price** 20 gp; **Type** exotic ranged weapon; **Dmg (S)** 1d6; **Dmg (M)** 1d4; **Critical** ×2; **Range** 10 ft.; **Weight** 4 lbs.; **Damage Type** bludgeoning; **Special** nonlethal, trip
 
-This specialized bolas can be used to perform ranged trip combat maneuvers against creatures far larger than the wielder. It consists of a pair of metal weights connected by a silk rope 20 feet long. Because of the great size and weight of the bolas, you need both hands to swing it around your head, and considerable time to get the weights up to speed. Making a ranged attack with it is a full-round action. You can use a dire bolas to trip a creature whose size is up to three size categories larger than yours.
+This specialized bolas can be used to perform ranged trip combat maneuvers against creatures far larger than the wielder. It consists of a pair of metal weights connected by a silk rope 20 feet long. Because of the great size and weight of the bolas, you need both hands to swing it around your head, and considerable time to get the weights up to speed. Making a ranged attack with it is a full-round action (3 AP). You can use a dire bolas to trip a creature whose size is up to three size categories larger than yours.
 
 ### Adamantine Chain (10 ft.)
 
@@ -344,7 +344,7 @@ A wind platform has AC 4, hardness 5, and 250 hp, and takes double damage from a
 
 **Price** 75 gp; **Weight** 1–20 lbs.
 
-This large weight is attached to a sharp steel hook which doubles as a carabiner. Once the steel hook is punched through the skin of a flying creature's wing, the carabiner locks shut. The weight then acts as an anchor, unbalancing the creature's wings, which prevents the creature from flying. The application of wing hobbles causes 1d4 points of piercing damage, and does not permanently disable the creature should the hobble be removed. A wing hobble can be attached to a pinned creature's wing with a successful grapple check. Removing a wing hobble from a creature's wing is a full-round action that provokes attacks of opportunity and requires the use of two hands.
+This large weight is attached to a sharp steel hook which doubles as a carabiner. Once the steel hook is punched through the skin of a flying creature's wing, the carabiner locks shut. The weight then acts as an anchor, unbalancing the creature's wings, which prevents the creature from flying. The application of wing hobbles causes 1d4 points of piercing damage, and does not permanently disable the creature should the hobble be removed. A wing hobble can be attached to a pinned creature's wing with a successful grapple check. Removing a wing hobble from a creature's wing is a full-round action (3 AP) that provokes attacks of opportunity and requires the use of two hands.
 
 ### Ballista Net (siege ammunition)
 
@@ -376,7 +376,7 @@ This barbed ballista bolt is equipped with a heavy weight at the end of a long c
 
 **Price** 50 gp; **Weight** 1/2 lb.
 
-Made with dragon's gall, which is harvested from a recently deceased dragon's liver, *dragon's fire* is a volatile alchemical reagent. Though inherently inert, the substance ignites when it comes into contact with fast-moving air, which makes it ideal for application to blades or arrows. When applied to a weapon or piece of ammunition as a standard action, the weapon deals an extra 2d6 points of fire damage on the next successful hit. The Dragoncrafting feat and a successful DC 20 Craft (alchemy) check are required to convert 1 vial of dragon's gall into 1 application of dragon's fire.
+Made with dragon's gall, which is harvested from a recently deceased dragon's liver, *dragon's fire* is a volatile alchemical reagent. Though inherently inert, the substance ignites when it comes into contact with fast-moving air, which makes it ideal for application to blades or arrows. When applied to a weapon or piece of ammunition as a standard action (1 AP), the weapon deals an extra 2d6 points of fire damage on the next successful hit. The Dragoncrafting feat and a successful DC 20 Craft (alchemy) check are required to convert 1 vial of dragon's gall into 1 application of dragon's fire.
 
 ### Draconic Perfume
 
@@ -407,7 +407,7 @@ Renowned for its energizing and defensive properties, dragon's blood has a varie
 A dragon's stomach contains highly corrosive acid that can be crafted into an alchemical item called dragon's gut. When used as a thrown splash weapon, dragon's gut deals 2d4 points of acid damage plus, on a direct hit, an additional 1d4 points of acid damage the following round, and it deals 1 point of acid damage to all creatures within 5 feet of the impact point as normal splash damage. Additionally, dragon's gut has alternate effects when used in place of acid as an alchemical power component.
 
 - *Acid arrow*: The spell lasts 1d3 rounds longer than usual.
-- *Acid fog*: The fog takes on a sticky quality and clings to creatures within it. Any creature damaged by the *acid fog* takes an additional 2d6 points of acid damage on the round after leaving the fog's area of effect. The creature can negate this additional damage by spending a standard action to wipe the clinging acid from its body.
+- *Acid fog*: The fog takes on a sticky quality and clings to creatures within it. Any creature damaged by the *acid fog* takes an additional 2d6 points of acid damage on the round after leaving the fog's area of effect. The creature can negate this additional damage by spending a standard action (1 AP) to wipe the clinging acid from its body.
 - *Acidic spray*: The spell deals 1d8 points of acid damage per caster level (maximum 15d8) instead of the normal 1d6 per caster level on the round of its casting (Reflex half). It still deals 1d6 points of damage per two caster levels on the following round as normal.
 
 The Dragoncrafting feat and a successful DC 20 Craft (alchemy) check are required to convert 1 vial of stomach acid into 1 vial of dragon's gut.
@@ -438,7 +438,7 @@ Normally, if a suit of dragonhide armor has energy immunity, one may enhance suc
 
 **Price** 400 gp; **Dmg** 1d8 (S), 1d10 (M); **Critical** 19–20/×2; **Range** 120 ft.; **Weight** 12 lbs.; **Type** piercing; exotic ranged weapon
 
-This heavy crossbow has a winch mounted below the stock. Up to 50 feet of silk rope can be wound onto the winch as a full-round action that provokes attacks of opportunity. The wound rope can be attached to a barbed bolt or grappling bolt as part of a loading action. After firing such a bolt, the wielder can use the winch to retract the rope or pull herself along the rope if the bolt is secure. When used with a barbed bolt, the winch provides a +2 bonus on grapple combat maneuver checks to pull the target toward you. When used with a grappling bolt, the winch provides a +2 bonus on Climb checks.
+This heavy crossbow has a winch mounted below the stock. Up to 50 feet of silk rope can be wound onto the winch as a full-round action (3 AP) that provokes attacks of opportunity. The wound rope can be attached to a barbed bolt or grappling bolt as part of a loading action. After firing such a bolt, the wielder can use the winch to retract the rope or pull herself along the rope if the bolt is secure. When used with a barbed bolt, the winch provides a +2 bonus on grapple combat maneuver checks to pull the target toward you. When used with a grappling bolt, the winch provides a +2 bonus on Climb checks.
 
 ### Crank Crossbow, Light
 
@@ -450,7 +450,7 @@ This weapon functions as a heavy crank crossbow, except that its damage, critica
 
 **Price** —; **Dmg** 1d3 (S), 1d4 (M); **Critical** ×2; **Range** 60 ft.; **Weight** —; **Type** piercing; martial ranged weapon
 
-This simple fiber or leather cord has a knot at either end. One end is wound once around the notch of a throwing arrow. The cord runs taut along the shaft to the front of the arrow, where you hold the arrow to throw. The remainder of the cord wraps around your hand. The cord dramatically increases the throwing arrow's range. Attaching the cord to a throwing arrow is a move action that requires two hands and provokes attacks of opportunity. The Rapid Reload feat can be taken for throwing arrow cords, allowing you to load a throwing arrow as a free action.
+This simple fiber or leather cord has a knot at either end. One end is wound once around the notch of a throwing arrow. The cord runs taut along the shaft to the front of the arrow, where you hold the arrow to throw. The remainder of the cord wraps around your hand. The cord dramatically increases the throwing arrow's range. Attaching the cord to a throwing arrow is a move action (1 AP) that requires two hands and provokes attacks of opportunity. The Rapid Reload feat can be taken for throwing arrow cords, allowing you to load a throwing arrow as a free action.
 
 ### Barbed Arrow
 
@@ -462,7 +462,7 @@ The head of a barbed arrow resembles that of a harpoon. When a barbed arrow is a
 
 **Price** 10 gp (20); **Weight** 3 lbs.
 
-A metal cage behind this arrow's point contains flammable material. You take a –1 penalty on attack rolls when firing incendiary arrows. You can light up to six incendiary arrows as a full-round action (a standard action if you use a tindertwig) that provokes attacks of opportunity. Once lit, the arrow burns for 2 rounds. A lit incendiary arrow deals an additional 1 point of fire damage. On a critical hit, the target must succeed at a DC 15 Reflex save or catch fire. Incendiary bolts exist for crossbows.
+A metal cage behind this arrow's point contains flammable material. You take a –1 penalty on attack rolls when firing incendiary arrows. You can light up to six incendiary arrows as a full-round action (3 AP) (a standard action (1 AP) if you use a tindertwig) that provokes attacks of opportunity. Once lit, the arrow burns for 2 rounds. A lit incendiary arrow deals an additional 1 point of fire damage. On a critical hit, the target must succeed at a DC 15 Reflex save or catch fire. Incendiary bolts exist for crossbows.
 
 ### Pronged Arrow
 
@@ -590,7 +590,7 @@ This wood-and-leather harness fits over clothing or armor and provides small han
 
 **Price** 180 gp; **Weight** 3 lbs.
 
-These masterwork manacles are designed to swiftly secure a restrained creature. The price includes a quick-release mechanism that, when attached to a belt or pack, allows you to retrieve the quickcatch manacles with one hand as a swift action. Quickcatch manacles include a good lock that locks automatically when the manacles are applied. When you take the tie up action in a grapple, you can lock your opponent in quickcatch manacles instead of using rope. The quickcatch manacles must be sized appropriately for your opponent. Quickcatch manacles can be constructed for creatures of different sizes using the same multipliers as ordinary manacles.
+These masterwork manacles are designed to swiftly secure a restrained creature. The price includes a quick-release mechanism that, when attached to a belt or pack, allows you to retrieve the quickcatch manacles with one hand as a swift action (1 AP). Quickcatch manacles include a good lock that locks automatically when the manacles are applied. When you take the tie up action in a grapple, you can lock your opponent in quickcatch manacles instead of using rope. The quickcatch manacles must be sized appropriately for your opponent. Quickcatch manacles can be constructed for creatures of different sizes using the same multipliers as ordinary manacles.
 
 ### Melee Contingency Kit
 
@@ -602,7 +602,7 @@ This kit contains items necessary for a melee combatant to overcome the most com
 
 **Price** 50 gp; **Weight** 25 lbs.
 
-Two separate compartments make up this black glass canister the size of a helmet. The large lower compartment contains hundreds of jagged shards of obsidian. The upper airtight chamber contains a sticky resin that hardens immediately upon contact with air. When you strike the canister with a bludgeoning melee weapon as a standard action, both compartments shatter, causing the obsidian shards to adhere to the weapon. The weapon deals piercing damage rather than bludgeoning damage for 10 minutes, at which point the resin dries and the shards fall off, or until you roll a natural 1 on an attack roll, which causes the shards to break off prematurely. If the weapon is made of a special material, the special properties of its material are suppressed while the obsidian shards adhere to the weapon. If you use a rockshard canister to coat an unarmed strike or natural weapon, you take 2d6 points of piercing damage when shattering the canister to apply the shards. For unarmed attacks, this can be avoided by carefully applying thick leather or rope straps to your hands and feet, which requires 5 minutes of work, prior to smashing the canister.
+Two separate compartments make up this black glass canister the size of a helmet. The large lower compartment contains hundreds of jagged shards of obsidian. The upper airtight chamber contains a sticky resin that hardens immediately upon contact with air. When you strike the canister with a bludgeoning melee weapon as a standard action (1 AP), both compartments shatter, causing the obsidian shards to adhere to the weapon. The weapon deals piercing damage rather than bludgeoning damage for 10 minutes, at which point the resin dries and the shards fall off, or until you roll a natural 1 on an attack roll, which causes the shards to break off prematurely. If the weapon is made of a special material, the special properties of its material are suppressed while the obsidian shards adhere to the weapon. If you use a rockshard canister to coat an unarmed strike or natural weapon, you take 2d6 points of piercing damage when shattering the canister to apply the shards. For unarmed attacks, this can be avoided by carefully applying thick leather or rope straps to your hands and feet, which requires 5 minutes of work, prior to smashing the canister.
 
 ### Shield Boss
 
@@ -612,11 +612,11 @@ A shield boss is a sturdy steel device that fastens to the front of a shield, pr
 
 A **reinforcing boss** provides extra protection to a shield, increasing the shield's current and maximum hit points by 10. The boss makes the shield 10 pounds heavier and more unwieldy—if the shield imposes a penalty on attack rolls, as do bucklers and tower shields, the penalty increases by 1. Common improvements to the basic reinforcing boss include the following.
 
-**Breakaway Boss**: The metal stud at the center of the reinforcing boss holds a compartment large enough to insert a single splash weapon, such as a vial of acid or alchemist's fire, as a full-round action. On a successful shield bash attack, the weapon vial breaks and deals damage to the target as though it were directly hit by the splash weapon. The shield takes the normal amount of splash damage for being adjacent to the target, but no other creatures adjacent to the target take splash damage from this effect. A new splash weapon must be inserted into the breakaway boss for it to be used again.
+**Breakaway Boss**: The metal stud at the center of the reinforcing boss holds a compartment large enough to insert a single splash weapon, such as a vial of acid or alchemist's fire, as a full-round action (3 AP). On a successful shield bash attack, the weapon vial breaks and deals damage to the target as though it were directly hit by the splash weapon. The shield takes the normal amount of splash damage for being adjacent to the target, but no other creatures adjacent to the target take splash damage from this effect. A new splash weapon must be inserted into the breakaway boss for it to be used again.
 
 **Hooked Boss**: The struts on this reinforcing boss bear large, sturdy hooks, which can be used to snag an opponent's clothing or armor, causing it to stumble. You can attempt trip combat maneuver checks with this shield. If the combat maneuver check is successful, the opponent does not fall prone, but is considered flat-footed until the beginning of its next turn.
 
-**Illuminating Boss**: The stud at the center of this reinforcing boss contains a covered slot large enough to insert a sunrod. Installing a lit sunrod into an illuminating boss is a full-round action. If you shake the shield firmly as a move action, you can flip a metal flap fitted over the slot to conceal or reveal the sunrod's glow.
+**Illuminating Boss**: The stud at the center of this reinforcing boss contains a covered slot large enough to insert a sunrod. Installing a lit sunrod into an illuminating boss is a full-round action (3 AP). If you shake the shield firmly as a move action (1 AP), you can flip a metal flap fitted over the slot to conceal or reveal the sunrod's glow.
 
 **Masterwork Boss**: Any of the bosses listed above, including the basic reinforcing boss, can be masterwork. A masterwork reinforcing boss increases the shield's current and maximum hit points by 15 instead of 10 and doesn't increase the attack roll penalty.
 
@@ -624,7 +624,7 @@ A **reinforcing boss** provides extra protection to a shield, increasing the shi
 
 **Price** 35 gp; **Weight** 2 lbs.
 
-This lumpy, lardlike, alchemical substance is designed to protect armor and weapons from dents and cracks that commonly develop in close-combat equipment. When liberally applied to armor or weapons, the material provides a greasy surface that blunts impacts, causes blades to slide aside, and strengthens the gear it is applied to. A single container holds enough sunderblock to coat a single weapon or suit of armor as a full-round action. The effects aren't pronounced enough to increase the Armor Class bonus of a suit of armor, but the hardness of armors and weapons coated with sunderblock increases by 5. This bonus lasts for 12 hours, at which point the greasy substance dries and flakes away.
+This lumpy, lardlike, alchemical substance is designed to protect armor and weapons from dents and cracks that commonly develop in close-combat equipment. When liberally applied to armor or weapons, the material provides a greasy surface that blunts impacts, causes blades to slide aside, and strengthens the gear it is applied to. A single container holds enough sunderblock to coat a single weapon or suit of armor as a full-round action (3 AP). The effects aren't pronounced enough to increase the Armor Class bonus of a suit of armor, but the hardness of armors and weapons coated with sunderblock increases by 5. This bonus lasts for 12 hours, at which point the greasy substance dries and flakes away.
 
 ### Surefoot Training Blocks
 
@@ -682,7 +682,7 @@ This ornately etched censer has a small hidden compartment under the heat source
 
 **Price** 500 gp; **Duration** 1 hour; **Saving Throw** DC 14
 
-The subject's skin secretes a transparent, sticky substance, granting the creature a 15-foot climb speed. *Penalty*: The subject takes a –4 penalty to CMD against grapple checks and must use a move action (instead of a free action) to drop a held object.
+The subject's skin secretes a transparent, sticky substance, granting the creature a 15-foot climb speed. *Penalty*: The subject takes a –4 penalty to CMD against grapple checks and must use a move action (1 AP) (instead of a free action) to drop a held object.
 
 **Creation Requirements** Fleshwarper, Craft (alchemy) 8 ranks; Heal DC 18; **Cost** 250 gp
 
@@ -782,7 +782,7 @@ This silvery liquid amplifies magical energies. For 1 hour after drinking this t
 
 **Price** 300 gp; **Weight** —; **Craft DC** 30
 
-This clear liquid glows with pale light. For 4 hours after drinking this tincture, you emit light as a torch. You are constantly dazzled during this time. If any effect would cause you to become dazzled during this time, you are instead blinded. While under the effect of this tincture, you can intensify your glow as a swift action to that of bright light, as per *daylight*, for 1 round. After activating the bright light effect, you emit only dim light with a range of 10 feet for the remainder of the tincture's duration.
+This clear liquid glows with pale light. For 4 hours after drinking this tincture, you emit light as a torch. You are constantly dazzled during this time. If any effect would cause you to become dazzled during this time, you are instead blinded. While under the effect of this tincture, you can intensify your glow as a swift action (1 AP) to that of bright light, as per *daylight*, for 1 round. After activating the bright light effect, you emit only dim light with a range of 10 feet for the remainder of the tincture's duration.
 
 ### Stout Solution
 
@@ -926,13 +926,13 @@ Scholars and students are often willing to accept the clumsiness and slow reacti
 
 **Price** 50 gp; **Weight** 1/2 lb.
 
-Pain wheels are used by orc marauders to blight the lands of their foes and despoil the earth for generations to come. When you whirl this cruel weapon above your head as a standard action, it scatters salt in a 5-foot radius centered on your space. Creatures in the affected area (including you) that have fewer than their maximum number of hit points must succeed at a DC 11 Fortitude save or be sickened by pain for 1d6 rounds. Creatures affected by bleed effects take a –5 penalty on their saves. A successful DC 11 Heal check ends the sickened condition, as does the application of any effect that heals hit point damage. A pain wheel must be loaded with a pound of salt (a move action) before it can be used. You can also load a dose of itching powder or another alchemical powder normally used as a splash weapon into a pain wheel; when a pain wheel is used this way, the affected area (including your square) is treated as the splash radius for the purpose of determining the powder's effects, and there is no way to deal a direct hit with the powder.
+Pain wheels are used by orc marauders to blight the lands of their foes and despoil the earth for generations to come. When you whirl this cruel weapon above your head as a standard action (1 AP), it scatters salt in a 5-foot radius centered on your space. Creatures in the affected area (including you) that have fewer than their maximum number of hit points must succeed at a DC 11 Fortitude save or be sickened by pain for 1d6 rounds. Creatures affected by bleed effects take a –5 penalty on their saves. A successful DC 11 Heal check ends the sickened condition, as does the application of any effect that heals hit point damage. A pain wheel must be loaded with a pound of salt (a move action (1 AP)) before it can be used. You can also load a dose of itching powder or another alchemical powder normally used as a splash weapon into a pain wheel; when a pain wheel is used this way, the affected area (including your square) is treated as the splash radius for the purpose of determining the powder's effects, and there is no way to deal a direct hit with the powder.
 
 ### Poison Belcher
 
 **Price** 50 gp; **Weight** 1/2 lb.
 
-Loading this long bronze tube with a dose of ingested poison and 10 gp worth of gold dust is a standard action. When you blow on a poison belcher like a blowgun, it sprays the poison out the other end. The poison belcher is a simple weapon that strikes as a ranged touch attack with a range increment of 10 feet and a maximum range of 30 feet. If hit, the target must save against the poison as if it had been ingested.
+Loading this long bronze tube with a dose of ingested poison and 10 gp worth of gold dust is a standard action (1 AP). When you blow on a poison belcher like a blowgun, it sprays the poison out the other end. The poison belcher is a simple weapon that strikes as a ranged touch attack with a range increment of 10 feet and a maximum range of 30 feet. If hit, the target must save against the poison as if it had been ingested.
 
 ### Bloodgorge
 
@@ -946,7 +946,7 @@ When you imbibe this syrupy black serum, your blood thins dramatically and gushe
 
 **Price** 300 gp; **Weight** 1 lb.
 
-This bone-white paste makes your face appear skeletal and emotionless, like a visage of death itself. When you apply frightful war paint to yourself (or to a willing adjacent creature) as a full-round action, attempt a Disguise or Charisma check. Living creatures within 30 feet of the wearer must succeed at a Will save (DC equal to the result of your Disguise or Charisma check, maximum DC 20) or become shaken for 1d4 rounds. Blind creatures and creatures out of line of sight are unaffected. A creature that succeeds at its check becomes immune to this frightful war paint for 24 hours. Frightful war paint can be worn indefinitely, but it contains quicksilver and realgar, which have deleterious mental effects. If you wear frightful war paint for more than 1 minute per day (whether as a single use of it or as multiple uses over several periods of time), you take 1 point of Constitution damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
+This bone-white paste makes your face appear skeletal and emotionless, like a visage of death itself. When you apply frightful war paint to yourself (or to a willing adjacent creature) as a full-round action (3 AP), attempt a Disguise or Charisma check. Living creatures within 30 feet of the wearer must succeed at a Will save (DC equal to the result of your Disguise or Charisma check, maximum DC 20) or become shaken for 1d4 rounds. Blind creatures and creatures out of line of sight are unaffected. A creature that succeeds at its check becomes immune to this frightful war paint for 24 hours. Frightful war paint can be worn indefinitely, but it contains quicksilver and realgar, which have deleterious mental effects. If you wear frightful war paint for more than 1 minute per day (whether as a single use of it or as multiple uses over several periods of time), you take 1 point of Constitution damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
 
 **Recipe** (40 dew of lunary + 40 quicksilver + 50 realgar)/earth; **Craft DC** 30; **Reagents** dew of lunary (40), quicksilver (40), realgar (40); **Time** 10 minutes; **Tools** —; **Type** alchemical tool
 
@@ -954,7 +954,7 @@ This bone-white paste makes your face appear skeletal and emotionless, like a vi
 
 **Price** 70 gp; **Weight** 1/2 lb.
 
-This gritty red paste makes you appear as if you were covered in dried blood. When you apply imposing war paint as a full-round action, you gain a +4 alchemical bonus on Intimidate checks and the duration of any fear effects you create increases by 50% as long as you wear the war paint. Unfortunately, imposing war paint is made with realgar, which is toxic to living creatures. If you wear imposing war paint for more than 1 minute per day, you take 1 point of Constitution damage, plus 1 point of Constitution damage for every minute you wear the war paint that day after the first.
+This gritty red paste makes you appear as if you were covered in dried blood. When you apply imposing war paint as a full-round action (3 AP), you gain a +4 alchemical bonus on Intimidate checks and the duration of any fear effects you create increases by 50% as long as you wear the war paint. Unfortunately, imposing war paint is made with realgar, which is toxic to living creatures. If you wear imposing war paint for more than 1 minute per day, you take 1 point of Constitution damage, plus 1 point of Constitution damage for every minute you wear the war paint that day after the first.
 
 **Recipe** (12 dew of lunary + 10 realgar)/earth; **Craft DC** 25; **Time** 10 minutes; **Tools** —; **Type** alchemical tool
 
@@ -962,7 +962,7 @@ This gritty red paste makes you appear as if you were covered in dried blood. Wh
 
 **Price** 90 gp; **Weight** 1 lb.
 
-The ground carcasses of goldbelly stinkbugs—insects native to mountain ranges—give this paint its characteristic yellow hue. When applied as a full-round action, this fine paste makes your head glow as though with an unearthly halo. You gain a +2 alchemical bonus to your caster level for any spells you cast that target one or more of your allies. The quicksilver in shaman's paint is harmful to living creatures. If you wear shaman's paint for more than 1 minute per day, you take 1 point of Wisdom damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
+The ground carcasses of goldbelly stinkbugs—insects native to mountain ranges—give this paint its characteristic yellow hue. When applied as a full-round action (3 AP), this fine paste makes your head glow as though with an unearthly halo. You gain a +2 alchemical bonus to your caster level for any spells you cast that target one or more of your allies. The quicksilver in shaman's paint is harmful to living creatures. If you wear shaman's paint for more than 1 minute per day, you take 1 point of Wisdom damage, plus 1 point of Wisdom damage for every minute you wear the paint that day after the first.
 
 **Recipe** (30 quicksilver + 25 saltpeter)/earth; **Craft DC** 20; **Time** 10 minutes; **Tools** —; **Type** alchemical tool
 
@@ -970,7 +970,7 @@ The ground carcasses of goldbelly stinkbugs—insects native to mountain ranges�
 
 **Price** 45 gp; **Weight** 1 lb.
 
-This yellow ball of volatile resin has a hemp wick. Lighting the fuse is a move action; 1d3–1 rounds later (a result of 0 rounds takes place at the end of your turn), the shriek bomb explodes, dealing 2d6 points of sonic damage to creatures in a 10-foot-radius burst (Fortitude DC 15 half). A shriek bomb can be thrown as a splash weapon with a range of 10 feet.
+This yellow ball of volatile resin has a hemp wick. Lighting the fuse is a move action (1 AP); 1d3–1 rounds later (a result of 0 rounds takes place at the end of your turn), the shriek bomb explodes, dealing 2d6 points of sonic damage to creatures in a 10-foot-radius burst (Fortitude DC 15 half). A shriek bomb can be thrown as a splash weapon with a range of 10 feet.
 
 **Recipe** (20 magnesium + 30 myrrh + 5 saltpeter)/congelation; **Craft DC** 20; **Time** 10 minutes; **Tools** alchemist's lab; **Type** alchemical weapon
 
@@ -990,7 +990,7 @@ If you are using spontaneous alchemy, adding urea to the alchemical recipe delay
 
 **Price** 35 gp; **Weight** —
 
-This fiber is composed of tiny strands of razor-sharp glass laced with alchemical elements. Anyone who touches it finds her skin irritated by countless tiny abrasions. Though it causes only minor discomfort, it opens the skin enough for poison to seep through, allowing injury poisons to be delivered to the affected creature as if they were contact poisons. The abrasions last for 1 hour or until cleaned and treated with a successful DC 10 Heal check (a full-round action). Poisoners sometimes place spirit of glass in a target's wardrobe or amid her personal effects along with a rag soaked in poison. Spirit of glass is often mistaken for lint or loose cloth, though it and the abrasions it causes can be identified with a successful DC 15 Craft (alchemy) check or DC 17 Heal check. Spirit of glass can be used only once before it is expended.
+This fiber is composed of tiny strands of razor-sharp glass laced with alchemical elements. Anyone who touches it finds her skin irritated by countless tiny abrasions. Though it causes only minor discomfort, it opens the skin enough for poison to seep through, allowing injury poisons to be delivered to the affected creature as if they were contact poisons. The abrasions last for 1 hour or until cleaned and treated with a successful DC 10 Heal check (a full-round action (3 AP)). Poisoners sometimes place spirit of glass in a target's wardrobe or amid her personal effects along with a rag soaked in poison. Spirit of glass is often mistaken for lint or loose cloth, though it and the abrasions it causes can be identified with a successful DC 15 Craft (alchemy) check or DC 17 Heal check. Spirit of glass can be used only once before it is expended.
 
 **Recipe** (2 cold iron + 7 darkwood + 5 gold)/calcination; **Craft DC** 25; **Time** 1 hour; **Tools** crucible; **Type** alchemical tool
 
@@ -1036,7 +1036,7 @@ Mindcap spores seeded beneath the subject's skin enable the subject to extend an
 
 **Price** 20 gp; **Weight** 4 lbs.
 
-This ruby-red earth can be sprinkled over a 5-foot patch of ground as a standard action that provokes attacks of opportunity. Non-creature plants and fungi in the area grow with alarming speed, and the ground becomes weedy, difficult terrain for non-plant creatures. Any non-plant creature in the square must succeed at a DC 15 Reflex save or it becomes entangled by the surging plants. Any plant creature in the affected square is healed of 1d6 points of damage.
+This ruby-red earth can be sprinkled over a 5-foot patch of ground as a standard action (1 AP) that provokes attacks of opportunity. Non-creature plants and fungi in the area grow with alarming speed, and the ground becomes weedy, difficult terrain for non-plant creatures. Any non-plant creature in the square must succeed at a DC 15 Reflex save or it becomes entangled by the surging plants. Any plant creature in the affected square is healed of 1d6 points of damage.
 
 **Recipe** (15 magnesium + 20 phosphorus + 10 salt)/calcination; **Craft DC** 20; **Time** 1 hour; **Tools** crucible; **Type** alchemical tool
 
@@ -1052,7 +1052,7 @@ This enzyme is derived from a parasitic fungus that breaks down most organic tis
 
 **Price** 30 gp; **Weight** —
 
-These alchemically prepared fungal spores are suspended in a thick green ichor. They grow in patterns that match any plant or fungal material they touch, even dead wood, causing any cuts or breaks in the matter to mend as if it had never been damaged. When applied as a full-round action, mimic fibers heal 1d10+10 points of damage to one object made of wood, paper, earth, or other living or once-living material. Even a destroyed item can be repaired (treat as if at 0 hit points) as long as the item is in no more than two pieces and is held together at the break as the spores are applied.
+These alchemically prepared fungal spores are suspended in a thick green ichor. They grow in patterns that match any plant or fungal material they touch, even dead wood, causing any cuts or breaks in the matter to mend as if it had never been damaged. When applied as a full-round action (3 AP), mimic fibers heal 1d10+10 points of damage to one object made of wood, paper, earth, or other living or once-living material. Even a destroyed item can be repaired (treat as if at 0 hit points) as long as the item is in no more than two pieces and is held together at the break as the spores are applied.
 
 **Recipe** (6 magnesium + 6 mindcap spores)/filtration; **Craft DC** 20; **Time** 10 minutes; **Tools** filter; **Type** alchemical tool
 
@@ -1112,7 +1112,7 @@ One of the oldest known dwarven ales, longbeard lambic is fermented with wild ai
 
 **Price** 30 gp; **Weight** 1 lb.
 
-This green-tinged brew has a pungent, bitter bite. It's flavored with a variety of foul-smelling herbs and is intensely carbonated through a unique fermentation process. Sometimes given to visitors as a prank, wyrm's breath bitter causes the drinker to become sickened for 1d6 minutes (Fortitude DC 12 negates; dwarves gain a +5 racial bonus on this saving throw). After drinking a dose of wyrm's breath bitter, the drinker can, as a move action, unleash a thunderous and noxious belch in either a 5-foot-radius spread or a 10-foot cone. Creatures in the area are deafened and sickened for 1 round (Fortitude DC 12 negates). The drinker must wait 1d4 rounds before belching again, but can belch as often as desired for up to 10 minutes after drinking a wyrm's breath bitter.
+This green-tinged brew has a pungent, bitter bite. It's flavored with a variety of foul-smelling herbs and is intensely carbonated through a unique fermentation process. Sometimes given to visitors as a prank, wyrm's breath bitter causes the drinker to become sickened for 1d6 minutes (Fortitude DC 12 negates; dwarves gain a +5 racial bonus on this saving throw). After drinking a dose of wyrm's breath bitter, the drinker can, as a move action (1 AP), unleash a thunderous and noxious belch in either a 5-foot-radius spread or a 10-foot cone. Creatures in the area are deafened and sickened for 1 round (Fortitude DC 12 negates). The drinker must wait 1d4 rounds before belching again, but can belch as often as desired for up to 10 minutes after drinking a wyrm's breath bitter.
 
 **Recipe** (2 black powder + 10 brimstone + 20 spirit of wine)/digestion; **Craft DC** 21; **Time** 1 week; **Tools** brewer's kit; **Type** alcohol
 
@@ -1160,7 +1160,7 @@ When ingested, this thin serum awakens your potential for independent action. If
 
 **Price** 150 gp; **Weight** —
 
-This bright pink liquid can be added to the eyes of a willing homunculus as a standard action. If you are the homunculus's master, you gain the ability to see through the homunculus's eyes by closing yours and concentrating, and the homunculus can see through yours in the same fashion. The eye drops also extend the range of the homunculus's telepathic link to 1 mile. The effects of the eye drops fade after 1 day.
+This bright pink liquid can be added to the eyes of a willing homunculus as a standard action (1 AP). If you are the homunculus's master, you gain the ability to see through the homunculus's eyes by closing yours and concentrating, and the homunculus can see through yours in the same fashion. The eye drops also extend the range of the homunculus's telepathic link to 1 mile. The effects of the eye drops fade after 1 day.
 
 **Recipe** (20 dew of lunary + 20 saltpeter + 80 spirit of wine)/distillation; **Craft DC** 25; **Time** 1 day; **Tools** retort; **Type** alchemical remedy
 
@@ -1192,7 +1192,7 @@ When combined with a drop of a humanoid's blood, this solution allows the homunc
 
 **Price** 60 gp; **Weight** 1 lb.
 
-This ashen powder can be thrown as a splash weapon, muffling all sound within a 15-foot-radius sphere centered on the point of impact. Perception checks to notice anything emanating from or passing through the cloud take a –10 penalty. Alternatively, applying a dose of silence dust to your feet as a standard action grants you a +5 circumstance bonus on Stealth checks to avoid being heard while walking. The dust is effective for 1 minute before it disperses.
+This ashen powder can be thrown as a splash weapon, muffling all sound within a 15-foot-radius sphere centered on the point of impact. Perception checks to notice anything emanating from or passing through the cloud take a –10 penalty. Alternatively, applying a dose of silence dust to your feet as a standard action (1 AP) grants you a +5 circumstance bonus on Stealth checks to avoid being heard while walking. The dust is effective for 1 minute before it disperses.
 
 **Recipe** (12 dew of lunary + 40 myrrh)/calcination; **Craft DC** 20; **Time** 1 hour; **Tools** crucible; **Type** alchemical tool
 
@@ -1202,7 +1202,7 @@ This ashen powder can be thrown as a splash weapon, muffling all sound within a 
 
 **Price** 400 gp; **Weight** 10 lbs.
 
-The bowl of this glass water pipe can be loaded with any inhalable drug, alchemical powder, or alchemical liquid. You must set down a hookah in a free space (a move action) and fill the water jar with half a gallon of water (another move action) before the hookah can be used. You can consume the contents of an adjacent hookah by sucking on one of the pipe's four hoses as a move action. Up to 5 doses of a single substance can be loaded in the hookah at a time, and up to four adjacent creatures can use the hookah during the same round. Reloading a hookah is a standard action, regardless of the number of doses so reloaded.
+The bowl of this glass water pipe can be loaded with any inhalable drug, alchemical powder, or alchemical liquid. You must set down a hookah in a free space (a move action (1 AP)) and fill the water jar with half a gallon of water (another move action (1 AP)) before the hookah can be used. You can consume the contents of an adjacent hookah by sucking on one of the pipe's four hoses as a move action (1 AP). Up to 5 doses of a single substance can be loaded in the hookah at a time, and up to four adjacent creatures can use the hookah during the same round. Reloading a hookah is a standard action (1 AP), regardless of the number of doses so reloaded.
 
 Substances not intended for bodily consumption can cause harmful or even fatal effects (GM's discretion) if loaded into a hookah and inhaled, and often destroy the hookah in the process.
 
@@ -1210,7 +1210,7 @@ Substances not intended for bodily consumption can cause harmful or even fatal e
 
 **Price** 1,000 gp; **Weight** 15 lbs.
 
-A premium hookah is similar to a standard hookah, except it sports enough hoses for up to eight adjacent creatures to use, and the bowl has three separate compartments, each of which can store a different type of inhalable drug, alchemical powder, or alchemical liquid. Each compartment can hold up to 3 doses of an inhalable substance (so a premium hookah can hold up to 9 doses total). Consuming these contents is still a move action. You can reload a single compartment as a move action, or you can reload all three compartments as a full-round action.
+A premium hookah is similar to a standard hookah, except it sports enough hoses for up to eight adjacent creatures to use, and the bowl has three separate compartments, each of which can store a different type of inhalable drug, alchemical powder, or alchemical liquid. Each compartment can hold up to 3 doses of an inhalable substance (so a premium hookah can hold up to 9 doses total). Consuming these contents is still a move action (1 AP). You can reload a single compartment as a move action (1 AP), or you can reload all three compartments as a full-round action (3 AP).
 
 ### Purity Test
 
@@ -1222,13 +1222,13 @@ This set of special disposable reagents can be used in conjunction with an alche
 
 **Price** 1,500 gp; **Weight** 4 lbs.
 
-This portable hookah can be worn as a backpack, obviating the need to set the hookah down before filling it with water. Up to four creatures (including the wearer and any adjacent creatures) can use a traveler's hookah during the same round. While wearing a traveler's hookah, you can stopper the hookah's bowl valve as an immediate action to prevent unwanted individuals from using it until the valve is reopened as a free action. If you are knocked unconscious or otherwise fall prone while wearing a traveler's hookah, you must succeed at a DC 13 Reflex save or the hookah is smashed during the fall. A traveler's hookah can hold up to 5 doses of a single substance, and has four hoses.
+This portable hookah can be worn as a backpack, obviating the need to set the hookah down before filling it with water. Up to four creatures (including the wearer and any adjacent creatures) can use a traveler's hookah during the same round. While wearing a traveler's hookah, you can stopper the hookah's bowl valve as an immediate action (1 AP of your next turn) to prevent unwanted individuals from using it until the valve is reopened as a free action. If you are knocked unconscious or otherwise fall prone while wearing a traveler's hookah, you must succeed at a DC 13 Reflex save or the hookah is smashed during the fall. A traveler's hookah can hold up to 5 doses of a single substance, and has four hoses.
 
 ### Amp
 
 **Price** 30 gp; **Weight** —
 
-This liquid intensifier can be added to a drug as a move action no more than 1 round before the drug is taken. Amp increases all numeric effects of a drug by 50%, including any bonuses, penalties, and ability damage inflicted by the drug. Using amp with a drug increases the save DC to avoid becoming addicted to that drug by 2 for 1d4 days; this increase stacks. If a drug combined with amp is not consumed within 1 round, the amp spoils and the drug becomes tainted, as if cut with bunk.
+This liquid intensifier can be added to a drug as a move action (1 AP) no more than 1 round before the drug is taken. Amp increases all numeric effects of a drug by 50%, including any bonuses, penalties, and ability damage inflicted by the drug. Using amp with a drug increases the save DC to avoid becoming addicted to that drug by 2 for 1d4 days; this increase stacks. If a drug combined with amp is not consumed within 1 round, the amp spoils and the drug becomes tainted, as if cut with bunk.
 
 **Recipe** (6 quicksilver + 10 realgar)/distillation; **Craft DC** 20; **Time** 10 minutes; **Tools** retort; **Type** alchemical tool
 
@@ -1260,7 +1260,7 @@ A drug favored in the back-alley dens of large trading cities.
 
 A refined, potent form of a narcotic cactus resin.
 
-**Effects** 1 hour; +1d4 alchemical bonus to Strength and Constitution, –2 penalty on saves against illusions and mind-affecting effects. Anytime the user could attempt a Strength check as a standard action or quicker, she can elect to attempt the check as a full-round action, adding a +2 alchemical bonus to the check. Doing so deals 1d6 points of nonlethal damage to the user as she strains herself. If the user takes lethal damage from any source while under the effects of black dream cactus, she must succeed at a DC 16 Will save or become confused for 1d4 rounds.  
+**Effects** 1 hour; +1d4 alchemical bonus to Strength and Constitution, –2 penalty on saves against illusions and mind-affecting effects. Anytime the user could attempt a Strength check as a standard action (1 AP) or quicker, she can elect to attempt the check as a full-round action (3 AP), adding a +2 alchemical bonus to the check. Doing so deals 1d6 points of nonlethal damage to the user as she strains herself. If the user takes lethal damage from any source while under the effects of black dream cactus, she must succeed at a DC 16 Will save or become confused for 1d4 rounds.  
 **Damage** 1d4 Con
 
 **Recipe** (30 brimstone + 6 dream cactus resin + 20 urea)/sublimation; **Craft DC** 22; **Time** 1 day; **Tools** retort; **Type** drug
@@ -1314,7 +1314,7 @@ This arrow ends in a crystalline bubble filled with a viscous alchemical dyeing 
 
 **Price** 10 gp; **Weight** —
 
-This heavy iron arrowhead is sealed with an alchemical resin. Pulling a small string (a move action) breaks the seal and triggers a reaction in the arrowhead, greatly increasing its magnetic properties. You gain a +4 circumstance bonus on attack rolls when firing a lodestone arrow at a target wearing metal armor or a target made of metal, but the magnetized arrow deals only half damage on a successful hit. The increased magnetism fades 1 round after you activate a lodestone arrow, after which it becomes a normal arrow.
+This heavy iron arrowhead is sealed with an alchemical resin. Pulling a small string (a move action (1 AP)) breaks the seal and triggers a reaction in the arrowhead, greatly increasing its magnetic properties. You gain a +4 circumstance bonus on attack rolls when firing a lodestone arrow at a target wearing metal armor or a target made of metal, but the magnetized arrow deals only half damage on a successful hit. The increased magnetism fades 1 round after you activate a lodestone arrow, after which it becomes a normal arrow.
 
 **Recipe** (8 myrrh + 6 salt + 4 silver)/exposure; **Craft DC** 25; **Time** 1 hour; **Tools** —; **Type** alchemical weapon
 
@@ -1386,7 +1386,7 @@ These earthenware vats are made from a special clay sludge dredged from the cent
 
 **Price** 15 gp; **Weight** —
 
-This alkaline salt counteracts the properties of oozes' acid. You can apply acid neutralizer to a piece of equipment such as a weapon or shield as a move action. For 1 minute afterward, any acid damage that would be dealt to the protected equipment is reduced by 5 points. This does not reduce acid damage dealt to you or unprotected equipment.
+This alkaline salt counteracts the properties of oozes' acid. You can apply acid neutralizer to a piece of equipment such as a weapon or shield as a move action (1 AP). For 1 minute afterward, any acid damage that would be dealt to the protected equipment is reduced by 5 points. This does not reduce acid damage dealt to you or unprotected equipment.
 
 You can apply a dose of acid neutralizer to an adjacent ooze creature by emptying the container on it. Treat this as a ranged touch attack that does not provoke attacks of opportunity. When used in this way, acid neutralizer prevents the ooze creature from dealing acid damage (assuming it is normally able to do so) for 1 round.
 
@@ -1396,7 +1396,7 @@ You can apply a dose of acid neutralizer to an adjacent ooze creature by emptyin
 
 **Price** 25 gp; **Weight** —
 
-This thin vial of viscous purple fluid can be thrown at an ooze creature as a splash weapon with a range increment of 10 feet. On a direct hit, the solution causes an ooze creature to become bloated and turgid, suppressing its compression ability and reducing the save DC of any constrict, engulf, and entrap attacks made by the ooze by 2. Bloating solution also reduces an ooze creature's reach by 5 feet for the purpose of determining when the ooze can make attacks of opportunity (to a minimum reach of 0 feet). The effects of bloating solution last 1 minute. An affected intelligent ooze creature can attempt a DC 15 Fortitude save as a full-round action to end the effect early.
+This thin vial of viscous purple fluid can be thrown at an ooze creature as a splash weapon with a range increment of 10 feet. On a direct hit, the solution causes an ooze creature to become bloated and turgid, suppressing its compression ability and reducing the save DC of any constrict, engulf, and entrap attacks made by the ooze by 2. Bloating solution also reduces an ooze creature's reach by 5 feet for the purpose of determining when the ooze can make attacks of opportunity (to a minimum reach of 0 feet). The effects of bloating solution last 1 minute. An affected intelligent ooze creature can attempt a DC 15 Fortitude save as a full-round action (3 AP) to end the effect early.
 
 **Recipe** (15 phosphorus + 30 salt + 20 urea)/distillation; **Craft DC** 20; **Time** 10 minutes; **Tools** retort; **Type** alchemical weapon
 
@@ -1496,7 +1496,7 @@ Although most of the following items can be crafted and used by non-mythic creat
 
 This congealed incendiary functions like alchemist's fire, but its white-hot flames deal 2d6 points of fire damage on a direct hit and 1d6 points of splash damage to adjacent creatures.
 
-**Mythic**: You can expend one use of mythic power while throwing a flask of whitefire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of whitefire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action. This effect lasts for a number of rounds equal to the user's mythic tier. This effect otherwise acts as the burn universal monster rule. Whitefire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water.
+**Mythic**: You can expend one use of mythic power while throwing a flask of whitefire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of whitefire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action (3 AP). This effect lasts for a number of rounds equal to the user's mythic tier. This effect otherwise acts as the burn universal monster rule. Whitefire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water.
 
 **Recipe** (20 magnesium + 25 saltpeter + 30 spirit of wine)/congelation; **Craft DC** 30; **Time** 1 hour; **Tools** alchemist's lab; **Type** alchemical weapon
 
@@ -1554,17 +1554,17 @@ This small sack of green-gray powder is thrown as a splash weapon with a range i
 
 Unless otherwise noted in an item's description, the following rules apply to all fireworks. Fireworks are alchemical weapons.
 
-Before a firework can detonate, it must be ignited, which is typically done by lighting its fuse. You can light a firework's fuse by using flint and steel (a full-round action); using a tindertwig (a move action followed by a standard action); casting *spark* (a standard action); or using a torch, candle, *flaming* weapon, or other open fire (a standard action). If a firework must be thrown or set down to function, treat this as a separate action.
+Before a firework can detonate, it must be ignited, which is typically done by lighting its fuse. You can light a firework's fuse by using flint and steel (a full-round action (3 AP)); using a tindertwig (a move action (1 AP) followed by a standard action (1 AP)); casting *spark* (a standard action (1 AP)); or using a torch, candle, *flaming* weapon, or other open fire (a standard action (1 AP)). If a firework must be thrown or set down to function, treat this as a separate action.
 
 **Misfires**: When a firework misfires, its charges detonate in an undesirable and often destructive manner. A misfiring firework explodes in a 5-foot-radius burst. Creatures and objects in the area are blinded for 1d4 rounds and take 1d6 points of fire damage for every 100 gp of the firework's price (minimum 1d6). A successful Reflex save halves the damage and a successful Fortitude save reduces the blindness condition to 1 round; the DC of these saves is equal to the Craft DC of the firework – 10 (minimum 1). Certain fireworks may cause less or more destructive effects, at the GM's discretion.
 
-**Standing Fireworks**: Some fireworks must be set down on a stable surface to function properly. You can set a firework down safely as a move action that provokes attacks of opportunity, or drop it as a free action and hope it lands upright (50% chance that the firework tips over and falls on its side). A creature can tip over an adjacent standing firework as a move action or as part of a charge, provoking attacks of opportunity either way. When a standing firework tips over, there is a 50% chance that it immediately misfires. An undetonated, tipped standing firework can be reset as a move action that provokes attacks of opportunity; a tipped, lit standing firework misfires if it detonates.
+**Standing Fireworks**: Some fireworks must be set down on a stable surface to function properly. You can set a firework down safely as a move action (1 AP) that provokes attacks of opportunity, or drop it as a free action and hope it lands upright (50% chance that the firework tips over and falls on its side). A creature can tip over an adjacent standing firework as a move action (1 AP) or as part of a charge, provoking attacks of opportunity either way. When a standing firework tips over, there is a 50% chance that it immediately misfires. An undetonated, tipped standing firework can be reset as a move action (1 AP) that provokes attacks of opportunity; a tipped, lit standing firework misfires if it detonates.
 
 **Advanced Firework Techniques**: Characters who possess ranks in the Craft (alchemy) skill can use the following advanced techniques to improve their fireworks.
 
-*Fuse Lengths*: Fireworks often have a slow-burning fuse, which allows the user to get away to a safe distance. A character with 3 or more ranks in Craft (alchemy) can increase the fuse length of a firework (a full-round action) to cause a 1- to 2-round delay between ignition and detonation. A character with 6 or more ranks in Craft (alchemy) can adjust the fuse length to create up to a 1-minute delay.
+*Fuse Lengths*: Fireworks often have a slow-burning fuse, which allows the user to get away to a safe distance. A character with 3 or more ranks in Craft (alchemy) can increase the fuse length of a firework (a full-round action (3 AP)) to cause a 1- to 2-round delay between ignition and detonation. A character with 6 or more ranks in Craft (alchemy) can adjust the fuse length to create up to a 1-minute delay.
 
-*Lighting Multiple Fuses*: A character with 5 or more ranks in Craft (alchemy) can light a number of fireworks within reach equal to 1 + her Dexterity modifier as a full-round action.
+*Lighting Multiple Fuses*: A character with 5 or more ranks in Craft (alchemy) can light a number of fireworks within reach equal to 1 + her Dexterity modifier as a full-round action (3 AP).
 
 *Shortening Fuses*: A character with 2 or more ranks in Craft (alchemy) can cut a fuse so that the firework detonates at the end of her turn; however, if the wielder rolls a natural 1 on her attack roll when throwing a firework with a shortened fuse, the firework misfires in her hand.
 
@@ -1580,7 +1580,7 @@ This dinner-plate-sized packet contains three jumping jennies, each of which mov
 
 **Price** 10 gp; **Weight** —
 
-These small paper or cloth cylinders or spheres are filled with a tiny charge of black powder. One round after lighting a firecracker in an adjacent square, the firework detonates with a loud bang, dealing 1d2+1 points of nonlethal damage to any creatures in the square and deafening them for 1d4 rounds (Fortitude DC 11 halves damage and duration of deafness). The bang also causes unintelligent animals within 20 feet of it to become frightened for 1d3 rounds; an animal can overcome this effect with a successful DC 11 Will save or if an adjacent ally calms the animal with a successful DC 11 Handle Animal check (an immediate action).
+These small paper or cloth cylinders or spheres are filled with a tiny charge of black powder. One round after lighting a firecracker in an adjacent square, the firework detonates with a loud bang, dealing 1d2+1 points of nonlethal damage to any creatures in the square and deafening them for 1d4 rounds (Fortitude DC 11 halves damage and duration of deafness). The bang also causes unintelligent animals within 20 feet of it to become frightened for 1d3 rounds; an animal can overcome this effect with a successful DC 11 Will save or if an adjacent ally calms the animal with a successful DC 11 Handle Animal check (an immediate action (1 AP of your next turn)).
 
 **Recipe** (1 black powder + 1 saltpeter)/calcination; **Craft DC** 20; **Time** 10 minutes; **Tools** crucible; **Type** alchemical weapon
 
@@ -1630,13 +1630,13 @@ A holy text records the rites and practices of a faith. Most weigh 2 pounds and 
 
 **Price** 75 gp; **Weight** 2 lbs.
 
-This metal canister contains alchemical reactants separated by parchment and a slow-burning fuse. Lighting the fuse is a move action; 1d3 rounds later, the chroma grenade explodes, spewing luminescent sparks and gases that fill a 10-foot-radius area. Creatures in the area are dazzled and take a –2 penalty on saving throws against illusion (pattern) spells for 3 rounds (DC 15 Will negates). A chroma grenade can be thrown as though it were a splash weapon with a range increment of 10 feet. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+This metal canister contains alchemical reactants separated by parchment and a slow-burning fuse. Lighting the fuse is a move action (1 AP); 1d3 rounds later, the chroma grenade explodes, spewing luminescent sparks and gases that fill a 10-foot-radius area. Creatures in the area are dazzled and take a –2 penalty on saving throws against illusion (pattern) spells for 3 rounds (DC 15 Will negates). A chroma grenade can be thrown as though it were a splash weapon with a range increment of 10 feet. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 ### Vine Tube
 
 **Price** 40 gp; **Weight** —
 
-This sealed copper tube contains a packet of alchemical fertilizer and several sprouted seedlings from a wild fey realm. Once shaken and opened as a standard action, the tube exudes a multitude of vines that spill into an adjacent square for 3 rounds. Left alone, these vines create an area of difficult terrain in the square, but a creature holding the tube can shape the vines as they emerge into a crude tool, piece of furniture, or other object of wood or rope weighing 20 pounds or less with a successful DC 10 Craft (baskets or carpentry) check. The vine construct lasts for 10 minutes before crumbling to pieces. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+This sealed copper tube contains a packet of alchemical fertilizer and several sprouted seedlings from a wild fey realm. Once shaken and opened as a standard action (1 AP), the tube exudes a multitude of vines that spill into an adjacent square for 3 rounds. Left alone, these vines create an area of difficult terrain in the square, but a creature holding the tube can shape the vines as they emerge into a crude tool, piece of furniture, or other object of wood or rope weighing 20 pounds or less with a successful DC 10 Craft (baskets or carpentry) check. The vine construct lasts for 10 minutes before crumbling to pieces. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 ## Dwarven Gear
 
@@ -1670,13 +1670,13 @@ This waxed leather harness is designed to withstand submersion and is adjustable
 
 **Price** 50 gp; **Weight** 15 lbs.
 
-Flexible tubes connect a hand pump and a breathing mask to this reinforced leather backpack. When the hand pump is pressed, the artificial gills draw in oxygen from the surrounding water and feed it through the mask, allowing the wearer to breathe underwater for extended periods of time. The hand pump must be regularly depressed, requiring you to have a free hand and use a move action each round. If you do not squeeze the hand pump in a round, you must hold your breath or begin to suffocate. Artificial gills eventually become clogged with particulates and must be disassembled and cleaned after 1 hour of being submerged, although this time can be dramatically shortened by murky or polluted water. Artificial gills provide no protection against temperature dangers or pressure damage in the open seas. If artificial gills are submerged more than 100 feet below the surface, they take 1d6 points of damage per round until they are either brought into shallower water or they rupture from the pressure. Artificial gills have a hardness of 0, 10 hit points, and a break DC of 30.
+Flexible tubes connect a hand pump and a breathing mask to this reinforced leather backpack. When the hand pump is pressed, the artificial gills draw in oxygen from the surrounding water and feed it through the mask, allowing the wearer to breathe underwater for extended periods of time. The hand pump must be regularly depressed, requiring you to have a free hand and use a move action (1 AP) each round. If you do not squeeze the hand pump in a round, you must hold your breath or begin to suffocate. Artificial gills eventually become clogged with particulates and must be disassembled and cleaned after 1 hour of being submerged, although this time can be dramatically shortened by murky or polluted water. Artificial gills provide no protection against temperature dangers or pressure damage in the open seas. If artificial gills are submerged more than 100 feet below the surface, they take 1d6 points of damage per round until they are either brought into shallower water or they rupture from the pressure. Artificial gills have a hardness of 0, 10 hit points, and a break DC of 30.
 
 ### Blood Neutralizer
 
 **Price** 25 gp; **Weight** 1 lb.
 
-When you release this vial of alchemical particles into the water as a standard action, the particles immediately neutralize the scent of exposed blood within 20 feet, rendering the blood undetectable by scent (to a hunting shark, for example). Blood neutralizer has no effect on any blood that enters the area after the particles have been used. Blood neutralizer can be crafted with a successful DC 25 Craft (alchemy) skill check.
+When you release this vial of alchemical particles into the water as a standard action (1 AP), the particles immediately neutralize the scent of exposed blood within 20 feet, rendering the blood undetectable by scent (to a hunting shark, for example). Blood neutralizer has no effect on any blood that enters the area after the particles have been used. Blood neutralizer can be crafted with a successful DC 25 Craft (alchemy) skill check.
 
 ### Click-Claw
 
@@ -1768,13 +1768,13 @@ Gathered within this tightly woven, alchemically treated canvas sack is a sample
 
 **Price** 275 gp; **Weight** 3 lbs.; **Craft DC** 25
 
-This intricate glass and metal jug vibrates gently, and contains a light cloud of white vapor and crackling blue electricity. Djinn of the Plane of Air use thunder kettles to capture the essence of air and lightning elementals within planar super storms. When uncorked as a standard action, a thunder kettle releases a rumbling cacophony of thunder in a 10-foot-radius burst. Creatures in the area must succeed at a DC 16 Fortitude save or take 1d6 points of sonic damage and become staggered for 1 round. A successful save halves the damage and negates the staggered condition.
+This intricate glass and metal jug vibrates gently, and contains a light cloud of white vapor and crackling blue electricity. Djinn of the Plane of Air use thunder kettles to capture the essence of air and lightning elementals within planar super storms. When uncorked as a standard action (1 AP), a thunder kettle releases a rumbling cacophony of thunder in a 10-foot-radius burst. Creatures in the area must succeed at a DC 16 Fortitude save or take 1d6 points of sonic damage and become staggered for 1 round. A successful save halves the damage and negates the staggered condition.
 
 ### Planar Alchemical Catalyst
 
 **Price** 200 gp; **Weight** 2 lbs.; **Craft DC** —
 
-This vibrant, variegated gemstone is found naturally on the Elemental Plane of Earth but can also be artificially reproduced, albeit with a fair amount of difficulty. The catalyst is highly sought for its remarkable ability to enhance and alter alchemical tools and weapons. As a move action, you can apply the catalyst to one of the following items to enhance or alter the alchemical item's effects. If the item is not used within 3 rounds, the benefit of the enhanced alchemical item is lost and the item reverts to normal. Once applied to an item, a planar alchemical catalyst is expended.
+This vibrant, variegated gemstone is found naturally on the Elemental Plane of Earth but can also be artificially reproduced, albeit with a fair amount of difficulty. The catalyst is highly sought for its remarkable ability to enhance and alter alchemical tools and weapons. As a move action (1 AP), you can apply the catalyst to one of the following items to enhance or alter the alchemical item's effects. If the item is not used within 3 rounds, the benefit of the enhanced alchemical item is lost and the item reverts to normal. Once applied to an item, a planar alchemical catalyst is expended.
 
 - **Alchemist's fire**: The type of energy damage changes to acid, cold, or electricity (user's choice).
 - **Flash powder**: The DC of the Fortitude save increases to 15, and targets are dazzled for 1d4+1 rounds whether or not they succeed at their saving throw.
@@ -1782,7 +1782,7 @@ This vibrant, variegated gemstone is found naturally on the Elemental Plane of E
 - **Impact foam**: The foam does not dissolve when exposed to acid or water, and instead becomes a pliable-yet-rigid platform that can be dragged onto water and used as a makeshift raft for up to 5 Medium creatures. The 10-minute duration still applies.
 - **Liquid blade**: The blade deals 2 points of bleed damage on a hit (this does not stack with bleed damage from other sources).
 - **Liquid ice**: In addition to its normal effects, the liquid ice acts as a smokestick, except it emits dense white fog rather than smoke.
-- **Shard gel**: The shard gel remains embedded in the target on a direct hit, continuing to deal 1d3 points of damage each round after until the gel dissolves (5 rounds) or the target takes a full-round action to remove it.
+- **Shard gel**: The shard gel remains embedded in the target on a direct hit, continuing to deal 1d3 points of damage each round after until the gel dissolves (5 rounds) or the target takes a full-round action (3 AP) to remove it.
 - **Tanglefoot bag**: The DC of the Reflex saving throw increases to 17, the penalty on attack rolls is –3, and the tanglefoot bag can affect targets up to size category Huge.
 - **Thunderstone**: In addition to being deafened, targets that fail their Fortitude saves are staggered for 1 round. Affected targets are deafened for 1d4 rounds whether or not they succeed at their saving throw.
 
@@ -1808,7 +1808,7 @@ This elixir turns its imbiber fiery red, making it easier to pass as an efreeti.
 
 **Price** 50 gp; **Weight** 1/2 lb.; **Craft DC** 20 (alchemy)
 
-This 5-foot square of paper is covered in alchemical tar on both sides. Removing its protective wax cover and applying the tar paper to a surface requires a full-round action. Any creature that enters this space must succeed at a DC 15 Reflex save or be glued to the floor, unable to move away. A victim can break free with a successful DC 17 Strength check or by dealing 15 points of damage with a slashing weapon. Once the creature moves (even if flying) at half speed, the tar paper turns brittle and falls away, freeing trapped or hindered creatures, after 2d4 rounds. A creature that succeeds at a DC 10 Perception check notices the tar paper in time to avoid stepping on it. Alchemical tar paper cannot be reused.
+This 5-foot square of paper is covered in alchemical tar on both sides. Removing its protective wax cover and applying the tar paper to a surface requires a full-round action (3 AP). Any creature that enters this space must succeed at a DC 15 Reflex save or be glued to the floor, unable to move away. A victim can break free with a successful DC 17 Strength check or by dealing 15 points of damage with a slashing weapon. Once the creature moves (even if flying) at half speed, the tar paper turns brittle and falls away, freeing trapped or hindered creatures, after 2d4 rounds. A creature that succeeds at a DC 10 Perception check notices the tar paper in time to avoid stepping on it. Alchemical tar paper cannot be reused.
 
 ### Autosniper
 
@@ -1826,7 +1826,7 @@ The general bulkiness of an autosniper's framework imposes a –2 penalty on any
 
 This crossbow-style device is modified to throw splash weapons or contact poisons rather than firing bolts. Its trigger connects to a long spool of wire, which can be strung across one or two 5-foot squares within 10 feet. Once set, the flask launcher can be loaded with a thrown splash weapon or vial of contact poison (which must be purchased separately). The flask launcher fires automatically at the first Tiny or larger creature that disturbs its tripwire. Alchemist bombs cannot be fired by a flask launcher.
 
-The flask launcher isn't designed to be used as a ranged weapon; treat it as an improvised weapon with a 10-foot range increment. Reloading the launcher is a full-round action that requires two hands and provokes an attack of opportunity.
+The flask launcher isn't designed to be used as a ranged weapon; treat it as an improvised weapon with a 10-foot range increment. Reloading the launcher is a full-round action (3 AP) that requires two hands and provokes an attack of opportunity.
 
 **Flask Launcher Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 15; **Disable Device** DC 15; **Trigger** touch; **Reset** manual; **Effect** Atk +5 ranged touch (effects vary by payload)
 
@@ -1852,7 +1852,7 @@ This delicate needle is attached to fine springs and a small reservoir that cont
 
 **Price** 150 gp; **Weight** 2 lbs.; **Craft DC** 25 (alchemy)
 
-This clay container resembles a fuse grenade, but trails a pulley and wire rather than a fuse. Pulling the cord (a move action) sparks a flint and steel within the device, causing the grenade to explode. The pull cord can be attached to a door or drawer within 5 feet, or strung across a 5-foot square, causing the grenade to detonate when its tripwire is disturbed. A pull-cord grenade cannot be reused.
+This clay container resembles a fuse grenade, but trails a pulley and wire rather than a fuse. Pulling the cord (a move action (1 AP)) sparks a flint and steel within the device, causing the grenade to explode. The pull cord can be attached to a door or drawer within 5 feet, or strung across a 5-foot square, causing the grenade to detonate when its tripwire is disturbed. A pull-cord grenade cannot be reused.
 
 **Pull-Cord Grenade Trap (CR 1/2)**: **Type** mechanical; **Perception** DC 15; **Disable Device** DC 15; **Trigger** touch; **Reset** none; **Effect** explosion (2d6 bludgeoning damage and 1d6 fire damage; Reflex DC 15 half; multiple targets (all targets within 10 feet))
 
@@ -1924,7 +1924,7 @@ This bitter coffee cultivar increases the drinker's alertness to nearby threats.
 
 **Price** 45 gp; **Weight** 2 lbs.
 
-This stuffed badger is realistic enough to fool most other animals into thinking it is real. As a move action, a wielder can use a free hand to present the plush; any Small or smaller animal with an Intelligence score of 1 or 2 that can see it takes a –2 penalty on initiative checks.
+This stuffed badger is realistic enough to fool most other animals into thinking it is real. As a move action (1 AP), a wielder can use a free hand to present the plush; any Small or smaller animal with an Intelligence score of 1 or 2 that can see it takes a –2 penalty on initiative checks.
 
 ### Clockwork Dial
 
@@ -1936,7 +1936,7 @@ This brass timepiece can be wound with a small key, causing it to count down unt
 
 **Price** 5 gp; **Weight** 1/2 lb.
 
-This foot-long strip of double-sided alchemical adhesive is sealed with waxed paper. When unsealed (this requires a move action) and pressed between two surfaces (this also requires a move action), a remora pad creates a firm and waterproof bond between two creatures or objects for up to 24 hours. If two creatures connect themselves in this way, both gain the grappled condition. However, if they are different size categories, only the smaller creature gains this condition. This bond survives light buffeting and movement, such as that created by incoming tides or by one attached surface dragging the other along underwater. Sharp tugs can break the seal fairly easily, and a willingly attached creature can pull free of the pad with a successful DC 5 Strength check as a standard action (DC 10 as a swift action). This weakness makes remora pads fairly ineffective when attempting to grapple a target, though a grappling creature that sticks itself to a target with a remora pad receives a +6 circumstance bonus on grapple combat maneuver checks to sustain the grapple in subsequent rounds (instead of the normal +5 bonus). A remora pad's bond is strong enough to support 200 pounds of material, so bonding two heavier objects together requires multiple pads. Underwater travelers often use remora pads to attach themselves to trained aquatic animals for long journeys.
+This foot-long strip of double-sided alchemical adhesive is sealed with waxed paper. When unsealed (this requires a move action (1 AP)) and pressed between two surfaces (this also requires a move action (1 AP)), a remora pad creates a firm and waterproof bond between two creatures or objects for up to 24 hours. If two creatures connect themselves in this way, both gain the grappled condition. However, if they are different size categories, only the smaller creature gains this condition. This bond survives light buffeting and movement, such as that created by incoming tides or by one attached surface dragging the other along underwater. Sharp tugs can break the seal fairly easily, and a willingly attached creature can pull free of the pad with a successful DC 5 Strength check as a standard action (1 AP) (DC 10 as a swift action (1 AP)). This weakness makes remora pads fairly ineffective when attempting to grapple a target, though a grappling creature that sticks itself to a target with a remora pad receives a +6 circumstance bonus on grapple combat maneuver checks to sustain the grapple in subsequent rounds (instead of the normal +5 bonus). A remora pad's bond is strong enough to support 200 pounds of material, so bonding two heavier objects together requires multiple pads. Underwater travelers often use remora pads to attach themselves to trained aquatic animals for long journeys.
 
 ### Siphon Ray
 
@@ -1978,7 +1978,7 @@ Musicians in the jungle make frequent use of carved harps strung with strings ma
 
 **Price** 2 gp; **Weight** 1 lb.
 
-These thick, fur-lined gloves have several internal pockets containing segmented packets of alchemical reagents that produce heat for 4 hours when broken and mixed. The wearer can massage the gloves to activate these heat packets as a full-round action. While the heat packets last, the wearer ignores the Strength and Dexterity penalties from the fatigued condition when performing Climb, Disable Device, and Sleight of Hand checks. Replacement heat packets cost 1 gp, and the heat packets in the gloves can be replaced with 1 minute of uninterrupted work.
+These thick, fur-lined gloves have several internal pockets containing segmented packets of alchemical reagents that produce heat for 4 hours when broken and mixed. The wearer can massage the gloves to activate these heat packets as a full-round action (3 AP). While the heat packets last, the wearer ignores the Strength and Dexterity penalties from the fatigued condition when performing Climb, Disable Device, and Sleight of Hand checks. Replacement heat packets cost 1 gp, and the heat packets in the gloves can be replaced with 1 minute of uninterrupted work.
 
 ### Warka Jar
 
@@ -2026,7 +2026,7 @@ One end of this short length of petrified wood burns with a flame of ever-changi
 
 **Price** 500 gp; **Weight** 1 lb.
 
-This bizarre fruit appears to be carved from stone, though it has a lovely aroma and is easily consumed. Eating a stone fruit hardens flesh and restores vitality. When a creature eats the fruit as a full-round action that provokes attacks of opportunity, it immediately recovers 2d6 hit points and gains a +2 enhancement bonus to its natural armor for 1 minute.
+This bizarre fruit appears to be carved from stone, though it has a lovely aroma and is easily consumed. Eating a stone fruit hardens flesh and restores vitality. When a creature eats the fruit as a full-round action (3 AP) that provokes attacks of opportunity, it immediately recovers 2d6 hit points and gains a +2 enhancement bonus to its natural armor for 1 minute.
 
 ### Monument Claws
 
@@ -2038,13 +2038,13 @@ This tiny set of sculpted claws, made from stone carefully chipped from a monume
 
 **Price** 450 gp; **Weight** 1/2 lb.
 
-This handheld metal cylinder is embossed with traditional symbols tied to protectiveness and has a handle that can be used to spin it. Mantra wheels are often used by divine spellcasters who are blind or have difficulty with fine gestures, or who simply enjoy using this traditional device. As a move action, a scroll of a divine spell can be placed inside the wheel. The handle is then spun, activating the scroll without the use of verbal or somatic components. If the wheel's user would need to attempt a caster level check to activate the scroll successfully, the wheel provides a +3 bonus on that check. Spinning the wheel is part of the normal action required to activate the scroll (usually a standard action or the spell's casting time, whichever is longer). Using the wheel to activate a scroll provokes attacks of opportunity exactly as activating a scroll (or casting the spell) normally would. The wheel can hold only one divine scroll at a time. Removing an expended scroll from a mantra wheel is a swift action.
+This handheld metal cylinder is embossed with traditional symbols tied to protectiveness and has a handle that can be used to spin it. Mantra wheels are often used by divine spellcasters who are blind or have difficulty with fine gestures, or who simply enjoy using this traditional device. As a move action (1 AP), a scroll of a divine spell can be placed inside the wheel. The handle is then spun, activating the scroll without the use of verbal or somatic components. If the wheel's user would need to attempt a caster level check to activate the scroll successfully, the wheel provides a +3 bonus on that check. Spinning the wheel is part of the normal action required to activate the scroll (usually a standard action (1 AP) or the spell's casting time, whichever is longer). Using the wheel to activate a scroll provokes attacks of opportunity exactly as activating a scroll (or casting the spell) normally would. The wheel can hold only one divine scroll at a time. Removing an expended scroll from a mantra wheel is a swift action (1 AP).
 
 ### Monkey Statue
 
 **Price** 150 gp; **Weight** 1/2 lb.
 
-For some unknown reason, this finely crafted but mundane monkey statue repulses oni. Any creature with the oni subtype that is within 30 feet of a monkey statue takes a –1 penalty on all d20 rolls. The monkey statue can be unattended or presented by its wielder as a swift action to cause this effect; the statue has no effect on oni if it is simply stored on a wielder's person. A wielder must have a free hand available to present the statue and gain its effect. This penalty does not stack with that from other monkey statues.
+For some unknown reason, this finely crafted but mundane monkey statue repulses oni. Any creature with the oni subtype that is within 30 feet of a monkey statue takes a –1 penalty on all d20 rolls. The monkey statue can be unattended or presented by its wielder as a swift action (1 AP) to cause this effect; the statue has no effect on oni if it is simply stored on a wielder's person. A wielder must have a free hand available to present the statue and gain its effect. This penalty does not stack with that from other monkey statues.
 
 ### Spirit Offering
 
@@ -2082,7 +2082,7 @@ Named after a ferocious horned, tiger-clawed beast, this suit of scale mail bard
 
 **Price** 150 gp; **Weight** 3 lbs.
 
-**Type** exotic ranged weapon; **Dmg (S)** 1d6; **Dmg (M)** 1d8; **Critical** ×3; **Range** 110 ft.; **Damage Type** P. The horse bow functions like a composite longbow, but it is designed to be used on horseback. A rider using a horse bow can make ranged attacks while mounted; furthermore, she does not take a penalty to attack rolls when her mount is taking a double move action, and she takes only a –4 penalty on attack rolls when her mount is running. The price of this item is for a default horse bow; each point of Strength bonus granted by the horse bow adds 150 gp to its cost.
+**Type** exotic ranged weapon; **Dmg (S)** 1d6; **Dmg (M)** 1d8; **Critical** ×3; **Range** 110 ft.; **Damage Type** P. The horse bow functions like a composite longbow, but it is designed to be used on horseback. A rider using a horse bow can make ranged attacks while mounted; furthermore, she does not take a penalty to attack rolls when her mount is taking a double move action (1 AP), and she takes only a –4 penalty on attack rolls when her mount is running. The price of this item is for a default horse bow; each point of Strength bonus granted by the horse bow adds 150 gp to its cost.
 
 ### Horse Whip
 
@@ -2116,7 +2116,7 @@ A crier can be hired to spread a rumor. An untrained crier usually has a +0 bonu
 
 **Price** 2 gp; **Weight** 2 lbs.
 
-Once exposed to air, this greenish alchemical sludge quickly takes on a faint glow. This glow provides dim illumination in the area immediately surrounding the fist-sized lump of false ectoplasm. This glow-in-the-dark effect lasts for 1 hour before the substance begins to decompose into a brownish goo. A successful DC 20 Sleight of Hand check allows a user to open a vial of false ectoplasm and deposit it on an adjacent surface as a move action; a successful opposed Perception check is enough to notice this trickery.
+Once exposed to air, this greenish alchemical sludge quickly takes on a faint glow. This glow provides dim illumination in the area immediately surrounding the fist-sized lump of false ectoplasm. This glow-in-the-dark effect lasts for 1 hour before the substance begins to decompose into a brownish goo. A successful DC 20 Sleight of Hand check allows a user to open a vial of false ectoplasm and deposit it on an adjacent surface as a move action (1 AP); a successful opposed Perception check is enough to notice this trickery.
 
 ### Mindburn Incense
 
@@ -2146,7 +2146,7 @@ A quicksilver barometer consists of a slender glass tube, closed at the top, con
 
 **Price** 100 gp; **Weight** 1/2 lb.
 
-This fine alchemical salt has been developed to work against particular types of foes. A batch of repellent salts is attuned to undead or a selected outsider race, such as angels, demons, or devils. As a full-round action that provokes attacks of opportunity, a dose of repellent salts can be applied to a 5-foot-square area that functions as difficult terrain for the salt's attuned creature type. Any creature can sweep the salts aside as a move action (or as a full-round action for an attuned creature, which deals that creature 2d4 points of acid damage in the process); moderate wind also disperses all repellent salts in a square (including the draft created by a winged creature of at least Medium size that flies within 5 feet of the salts). Alternatively, a vial of repellent salts can be used as a splash weapon against the target creature, with a successful hit dealing 2d4 points of acid damage to the creature struck (or 1 point to an attuned creature within 5 feet of the target and thus exposed to the attack's splash).
+This fine alchemical salt has been developed to work against particular types of foes. A batch of repellent salts is attuned to undead or a selected outsider race, such as angels, demons, or devils. As a full-round action (3 AP) that provokes attacks of opportunity, a dose of repellent salts can be applied to a 5-foot-square area that functions as difficult terrain for the salt's attuned creature type. Any creature can sweep the salts aside as a move action (1 AP) (or as a full-round action (3 AP) for an attuned creature, which deals that creature 2d4 points of acid damage in the process); moderate wind also disperses all repellent salts in a square (including the draft created by a winged creature of at least Medium size that flies within 5 feet of the salts). Alternatively, a vial of repellent salts can be used as a splash weapon against the target creature, with a successful hit dealing 2d4 points of acid damage to the creature struck (or 1 point to an attuned creature within 5 feet of the target and thus exposed to the attack's splash).
 
 ### Storm Glass
 
@@ -2212,7 +2212,7 @@ Harvested from the cytillesh fungus commonly found in the Underworld, these smal
 
 **Price** 10 gp; **Weight** 2 lbs.
 
-This jar of thick, gritty paste is made from coarsely ground plant matter, weak epoxy, and bat guano. When exposed to air, the moldable substance quickly creates a thin, paperlike surface, which is ideal for creating false earthen walls. Creating a 5-foot-by-5-foot section of paper wall requires a full-round action. Though this false wall is easy to punch through, it requires a successful DC 13 Perception check to identify the wall as a fake. If the creator spends an additional full-round action disguising the wall with dirt and pebbles, the DC increases by 2. Crafting this item requires a successful DC 15 Craft (alchemy) check.
+This jar of thick, gritty paste is made from coarsely ground plant matter, weak epoxy, and bat guano. When exposed to air, the moldable substance quickly creates a thin, paperlike surface, which is ideal for creating false earthen walls. Creating a 5-foot-by-5-foot section of paper wall requires a full-round action (3 AP). Though this false wall is easy to punch through, it requires a successful DC 13 Perception check to identify the wall as a fake. If the creator spends an additional full-round action (3 AP) disguising the wall with dirt and pebbles, the DC increases by 2. Crafting this item requires a successful DC 15 Craft (alchemy) check.
 
 ### Decoy Triggers
 
@@ -2246,7 +2246,7 @@ These rough-hewn discs of metal are covered in highly reflective, gold-colored p
 
 **Type** mechanical traps
 
-Kobold artisans are constantly looking for new ways to increase the effectiveness of their traps while decreasing their setup time. Trapped items are replica items with traps built into them, and can be armed in a standard action. They're self-contained, single-use, and as easily transportable as the items they mimic.
+Kobold artisans are constantly looking for new ways to increase the effectiveness of their traps while decreasing their setup time. Trapped items are replica items with traps built into them, and can be armed in a standard action (1 AP). They're self-contained, single-use, and as easily transportable as the items they mimic.
 
 ### Trapped Disguise Kit
 
@@ -2284,7 +2284,7 @@ This potent performance enhancer is a sweet alchemical elixir with a metallic af
 
 **Price** 75 gp; **Weight** 1 lb.
 
-This spiraled metal rod has alchemically treated bristles that can be used in the barrel of an early or advanced firearm to liquefy grime and bullet fouling while leaving a thin protective film in the bore. Using this brush is a standard action, and the protective film grants a 5-foot alchemical bonus to the firearm's first range increment and a +1 alchemical bonus on attack rolls. These effects last for 1 hour or until the firearm is fired. A newly crafted bore brush contains 5 applications. Crafting a bore brush requires a successful DC 15 Craft (alchemy) check.
+This spiraled metal rod has alchemically treated bristles that can be used in the barrel of an early or advanced firearm to liquefy grime and bullet fouling while leaving a thin protective film in the bore. Using this brush is a standard action (1 AP), and the protective film grants a 5-foot alchemical bonus to the firearm's first range increment and a +1 alchemical bonus on attack rolls. These effects last for 1 hour or until the firearm is fired. A newly crafted bore brush contains 5 applications. Crafting a bore brush requires a successful DC 15 Craft (alchemy) check.
 
 ### Firearm Oil
 
@@ -2302,7 +2302,7 @@ This sealed vial contains a highly potent indigo liquid and is an essential item
 
 **Price** 200 gp; **Weight** 10 lbs.
 
-Used by dwarven miners to excavate precious crystals from deep underground, this heavy ceramic canister is packed with inert fibers surrounding a large alchemically infused blackpowder charge with a fuse. Lighting the fuse is a move action; 1d3 rounds after the fuse is lit, the charge explodes, dealing 2d6 points of bludgeoning damage and 2d6 points of sonic damage in a 10-foot-radius burst (Reflex DC 15 half). Creatures in the area of effect are knocked prone and deafened (a successful saving throw negates being knocked prone and reduces the deafened condition to 1 round). Crafting a thunderclap charge requires a successful DC 25 Craft (alchemy) check.
+Used by dwarven miners to excavate precious crystals from deep underground, this heavy ceramic canister is packed with inert fibers surrounding a large alchemically infused blackpowder charge with a fuse. Lighting the fuse is a move action (1 AP); 1d3 rounds after the fuse is lit, the charge explodes, dealing 2d6 points of bludgeoning damage and 2d6 points of sonic damage in a 10-foot-radius burst (Reflex DC 15 half). Creatures in the area of effect are knocked prone and deafened (a successful saving throw negates being knocked prone and reduces the deafened condition to 1 round). Crafting a thunderclap charge requires a successful DC 25 Craft (alchemy) check.
 
 ## Space Travel Gear
 
@@ -2310,7 +2310,7 @@ Used by dwarven miners to excavate precious crystals from deep underground, this
 
 **Price** 300 gp; **Weight** 25 lbs.
 
-An anchoring balloon is a single-use alchemical device designed to provide a standing platform on a gaseous planet. When a cord is pulled as a standard action, an alchemical reaction fills the balloon with hydrogen gas almost instantly. Twenty-foot-long ropes attach the balloon to a lightweight, collapsible 10-foot-square steel basket with 5-foot-high sides. The inflated balloon is a Gargantuan object. Although it moves with the wind horizontally, the basket maintains its initial altitude to within a few feet so long as its load is less than 2,000 pounds (divided by the planet's gravity multiplier). Beyond that weight limit, the balloon may sink or the basket may break (at the GM's discretion). The balloon remains inflated for 24 hours before its seals fail.
+An anchoring balloon is a single-use alchemical device designed to provide a standing platform on a gaseous planet. When a cord is pulled as a standard action (1 AP), an alchemical reaction fills the balloon with hydrogen gas almost instantly. Twenty-foot-long ropes attach the balloon to a lightweight, collapsible 10-foot-square steel basket with 5-foot-high sides. The inflated balloon is a Gargantuan object. Although it moves with the wind horizontally, the basket maintains its initial altitude to within a few feet so long as its load is less than 2,000 pounds (divided by the planet's gravity multiplier). Beyond that weight limit, the balloon may sink or the basket may break (at the GM's discretion). The balloon remains inflated for 24 hours before its seals fail.
 
 ### Compressed Air
 
@@ -2322,7 +2322,7 @@ Longer lasting than an air bladder, a jar of compressed air comes with a breathi
 
 **Price** 1,000 gp; **Weight** 2 lbs. (1 lb. for Small characters)
 
-These devices strap onto a character's legs in order to allow for easier movement in low- or high-gravity environments. A character wearing leg stabilizers can move and attempt Acrobatics checks in gravity between ×1 and ×3 as if in gravity ×1. A character wearing them in gravity stronger than ×1/3 but weaker than ×1 gains a +10-foot circumstance bonus to his land speed. This device has no effect on other actions. Attaching or removing leg stabilizers is a full-round action.
+These devices strap onto a character's legs in order to allow for easier movement in low- or high-gravity environments. A character wearing leg stabilizers can move and attempt Acrobatics checks in gravity between ×1 and ×3 as if in gravity ×1. A character wearing them in gravity stronger than ×1/3 but weaker than ×1 gains a +10-foot circumstance bonus to his land speed. This device has no effect on other actions. Attaching or removing leg stabilizers is a full-round action (3 AP).
 
 ### Rations, Space (per day)
 
@@ -2401,7 +2401,7 @@ A burner is a metal or ceramic cylinder, open at the top and perforated with air
 
 **Price** 3 sp; **Weight** —; **Craft DC** 15
 
-Small nuggets of compressed fibers, resins, and dung, fuel pellets give off very little smoke when burned. Each pellet burns for 10 minutes, providing enough heat to boil water, and can be lit as a move action.
+Small nuggets of compressed fibers, resins, and dung, fuel pellets give off very little smoke when burned. Each pellet burns for 10 minutes, providing enough heat to boil water, and can be lit as a move action (1 AP).
 
 ### Purification Pellet
 
@@ -2519,7 +2519,7 @@ Prostheses are usually carved of wood and painted to match the wearer's skin ton
 
 **Price** 15 gp; **Weight** 2 lbs.; **Craft DC** 15
 
-A head-sized lump of tar is wrapped around a rope and set on fire. You use the rope to lob the burning tar onto an enemy's deck, where it sticks and sets the ship alight. It functions as a less potent alchemist's fire: a ranged touch attack with a range increment of 10 feet. Lighting a tar bomb is a move action. A hit deals 1d4 points of fire damage and can set the struck object or creature on fire, causing an additional 1d6 points of fire damage each round unless the target or an adjacent creature makes a DC 15 Reflex save to extinguish the flames as a full-round action. Knocking the tar bomb or the burning creature or object into water, or magically extinguishing the flames, automatically smothers the fire. It lacks splash damage.
+A head-sized lump of tar is wrapped around a rope and set on fire. You use the rope to lob the burning tar onto an enemy's deck, where it sticks and sets the ship alight. It functions as a less potent alchemist's fire: a ranged touch attack with a range increment of 10 feet. Lighting a tar bomb is a move action (1 AP). A hit deals 1d4 points of fire damage and can set the struck object or creature on fire, causing an additional 1d6 points of fire damage each round unless the target or an adjacent creature makes a DC 15 Reflex save to extinguish the flames as a full-round action (3 AP). Knocking the tar bomb or the burning creature or object into water, or magically extinguishing the flames, automatically smothers the fire. It lacks splash damage.
 
 ### Tattoo
 
@@ -2597,7 +2597,7 @@ These full-length gloves of layered silk are popular among merchant aristocrats 
 
 **Price** 200 gp; **Weight** —
 
-This alchemical perfume is distilled from a blend of humanoid pheromones and fey sweat. When applied as a full-round action, it grants the wearer a +2 circumstance bonus on all Charisma checks and Charisma-based skill checks for 1 hour. During this time, the wearer takes a –2 penalty on saving throws against charm and fascination effects originating from fey. Long-term use of lover's breath eventually results in physical changes, causing the user to vaguely resemble a fey creature such as a nymph or dryad, although these changes are only cosmetic.
+This alchemical perfume is distilled from a blend of humanoid pheromones and fey sweat. When applied as a full-round action (3 AP), it grants the wearer a +2 circumstance bonus on all Charisma checks and Charisma-based skill checks for 1 hour. During this time, the wearer takes a –2 penalty on saving throws against charm and fascination effects originating from fey. Long-term use of lover's breath eventually results in physical changes, causing the user to vaguely resemble a fey creature such as a nymph or dryad, although these changes are only cosmetic.
 
 ### Ostentatious Garment
 
@@ -2695,7 +2695,7 @@ The canny half-elf sometimes needs a little something extra to look like a full 
 
 **Price** 1,505 gp; **Weight** 3 lbs.
 
-This mithral buckler is painted black with three deep grooves running over the surface, each fitted with a slot that can hold a vial of poison, allowing quick application of exactly the right poison in the middle of combat. As a move action, the user can swipe a weapon over the surface of the buckler, coating it with a single dose of poison. The buckler can hold 3 doses of poison. If the wearer does not have the poison use ability, she faces the standard risk of poisoning herself.
+This mithral buckler is painted black with three deep grooves running over the surface, each fitted with a slot that can hold a vial of poison, allowing quick application of exactly the right poison in the middle of combat. As a move action (1 AP), the user can swipe a weapon over the surface of the buckler, coating it with a single dose of poison. The buckler can hold 3 doses of poison. If the wearer does not have the poison use ability, she faces the standard risk of poisoning herself.
 
 ## Faith Gear
 
@@ -2747,7 +2747,7 @@ These fine garments come in assorted vibrant colors and are used in the most imp
 
 **Price** 250 gp; **Weight** 50 lbs.
 
-*Alchemical weapon.* This large barrel-shaped sparkler is imbued with mysterious, hellish forces. The fuse can be lit as a standard action; 1d4 rounds later, the sparkler crackles violently with sickly-green sparks that take the form of an army of ferocious devils. Creatures within a 10-foot-radius burst take 3d6 points of fire damage and become shaken for 2 rounds; a target can attempt a DC 15 Will save to halve the damage and the duration of the shaken condition. Crafting a hellfire sparkler requires a successful DC 25 Craft (alchemy) check.
+*Alchemical weapon.* This large barrel-shaped sparkler is imbued with mysterious, hellish forces. The fuse can be lit as a standard action (1 AP); 1d4 rounds later, the sparkler crackles violently with sickly-green sparks that take the form of an army of ferocious devils. Creatures within a 10-foot-radius burst take 3d6 points of fire damage and become shaken for 2 rounds; a target can attempt a DC 15 Will save to halve the damage and the duration of the shaken condition. Crafting a hellfire sparkler requires a successful DC 25 Craft (alchemy) check.
 
 ### Portable Hive
 
@@ -2804,7 +2804,7 @@ The shimmering, multicolored whimsy star captures the mutability of the fey real
 
 **Price** 45 gp; **Weight** 1/2 lb.
 
-*Alchemical tool.* This volatile gray paste sticks to solid surfaces and creates a concentrated blast when exposed to fire, making it a valuable excavation tool. You can apply 1 dose of blasting jelly to a 5-foot square as a standard action. The paste can be ignited with another standard action by striking it from an adjacent square with a metal weapon or object. When thus ignited or otherwise exposed to fire, the jelly explodes, dealing 2d6 points of fire damage to creatures and unattended objects within the treated square. If the ignited square is adjacent to another square containing blasting jelly, that square ignites as well. Blasting jelly deals full damage to objects made of stone or softer material. Blasting jelly decays relatively quickly when exposed to air, becoming inert after 4 hours if not ignited.
+*Alchemical tool.* This volatile gray paste sticks to solid surfaces and creates a concentrated blast when exposed to fire, making it a valuable excavation tool. You can apply 1 dose of blasting jelly to a 5-foot square as a standard action (1 AP). The paste can be ignited with another standard action (1 AP) by striking it from an adjacent square with a metal weapon or object. When thus ignited or otherwise exposed to fire, the jelly explodes, dealing 2d6 points of fire damage to creatures and unattended objects within the treated square. If the ignited square is adjacent to another square containing blasting jelly, that square ignites as well. Blasting jelly deals full damage to objects made of stone or softer material. Blasting jelly decays relatively quickly when exposed to air, becoming inert after 4 hours if not ignited.
 
 ### Blightburn Reader
 
@@ -2828,7 +2828,7 @@ The shimmering, multicolored whimsy star captures the mutability of the fey real
 
 **Price** 100 gp; **Weight** 1 lb.
 
-*Alchemical tool.* Underworld explorers who frequently run afoul of troglodytes, pockets of natural gas, and toxic fumes from magma flows use this dense flask to ease their breathing. You can open the flask as a standard action or throw it as a splash weapon. When opened or broken, the flask releases a burst of cleansing, breathable air in a 10-foot-radius burst, providing a +4 alchemical bonus on saving throws against gases, inhaled poisons, or other breathable hazards. The cloud of fresh air lasts for 1d4 rounds. If you hit a creature that has the stench ability with a thrown flask of deep breath, the DC of its stench is reduced by 4 for the duration of the cloud.
+*Alchemical tool.* Underworld explorers who frequently run afoul of troglodytes, pockets of natural gas, and toxic fumes from magma flows use this dense flask to ease their breathing. You can open the flask as a standard action (1 AP) or throw it as a splash weapon. When opened or broken, the flask releases a burst of cleansing, breathable air in a 10-foot-radius burst, providing a +4 alchemical bonus on saving throws against gases, inhaled poisons, or other breathable hazards. The cloud of fresh air lasts for 1d4 rounds. If you hit a creature that has the stench ability with a thrown flask of deep breath, the DC of its stench is reduced by 4 for the duration of the cloud.
 
 ### Drought Powder
 
@@ -2858,13 +2858,13 @@ The shimmering, multicolored whimsy star captures the mutability of the fey real
 
 **Price** 25 gp; **Weight** —
 
-*Alchemical weapon.* These secretions are only one of the many spores and fluids that mu spores produce, but this is one of the few that surface dwellers have learned to safely use. This clear secretion can be added to any alchemical weapon, including an alchemist’s bombs, as a move action. When mixed in this way, the affected alchemical weapon ignores half the hardness of any wooden objects it strikes. Alternatively, against creatures primarily made of wood (such as treants or wood golems), such weapons ignore the first 5 points of damage reduction the creatures has.
+*Alchemical weapon.* These secretions are only one of the many spores and fluids that mu spores produce, but this is one of the few that surface dwellers have learned to safely use. This clear secretion can be added to any alchemical weapon, including an alchemist’s bombs, as a move action (1 AP). When mixed in this way, the affected alchemical weapon ignores half the hardness of any wooden objects it strikes. Alternatively, against creatures primarily made of wood (such as treants or wood golems), such weapons ignore the first 5 points of damage reduction the creatures has.
 
 ### Muscle Grout
 
 **Price** 100 gp; **Weight** 1 lb.
 
-*Alchemical remedy.* A gritty salve with an earthy odor, muscle grout is frequently sold in areas where giant spiders or ropers haunt local trade routes. When massaged into the muscles as a full-round action, this ointment provides a +2 alchemical bonus on saving throws to resist nonmagical effects that cause Strength damage. Any Strength damage you take manifests gradually as the salve slows muscle decay; anytime you take Strength damage, you take only 1 point per round until the full amount of damage is dealt. Additional Strength damage adds to the total, but is dealt only at a maximum rate of 1 point per round, as long as the grout is active. A dose of muscle grout lasts for 10 minutes. One dose of muscle grout is sufficient for a Medium or smaller creature; Large creatures require 2 doses, Huge creatures require 4 doses, and so on.
+*Alchemical remedy.* A gritty salve with an earthy odor, muscle grout is frequently sold in areas where giant spiders or ropers haunt local trade routes. When massaged into the muscles as a full-round action (3 AP), this ointment provides a +2 alchemical bonus on saving throws to resist nonmagical effects that cause Strength damage. Any Strength damage you take manifests gradually as the salve slows muscle decay; anytime you take Strength damage, you take only 1 point per round until the full amount of damage is dealt. Additional Strength damage adds to the total, but is dealt only at a maximum rate of 1 point per round, as long as the grout is active. A dose of muscle grout lasts for 10 minutes. One dose of muscle grout is sufficient for a Medium or smaller creature; Large creatures require 2 doses, Huge creatures require 4 doses, and so on.
 
 ### Ooze Attractant
 
@@ -2944,7 +2944,7 @@ Favored by some highland tribes, totem spears combine deadly weapons with mournf
 
 *Light armor.* **Armor Bonus** +3; **Max Dex Bonus** +4; **Armor Check Penalty** –1; **Arcane Spell Failure Chance** 15%; **Speed** 30 ft./20 ft.
 
-Made from animal hide and giant lizard scales over a shirt of interwoven cords, these chest and shoulder coverings protect tribal riders without restricting their mobility. The wearer of a hide shirt can make a DC 15 Strength check as a standard action. If he succeeds, the armor gains the broken condition and drops to the ground rather than requiring the usual 1 minute it would take to remove it. The armor must be repaired as though it had taken 8 points of damage before it can be used again; a broken hide shirt grants no bonus to Armor Class.
+Made from animal hide and giant lizard scales over a shirt of interwoven cords, these chest and shoulder coverings protect tribal riders without restricting their mobility. The wearer of a hide shirt can make a DC 15 Strength check as a standard action (1 AP). If he succeeds, the armor gains the broken condition and drops to the ground rather than requiring the usual 1 minute it would take to remove it. The armor must be repaired as though it had taken 8 points of damage before it can be used again; a broken hide shirt grants no bonus to Armor Class.
 
 ### Barbarian Chew
 
@@ -3002,7 +3002,7 @@ Forged by the smiths of a crusader nation out of iron and a rare mineral, this b
 
 **Price** 30 gp; **Weight** 25 lbs.
 
-A cannon ball is the ammunition of a cannon and many other siege firearms. Picking up or drawing a cannon ball requires a move action for Medium and Small creatures, but is a free action for Large and larger creatures.
+A cannon ball is the ammunition of a cannon and many other siege firearms. Picking up or drawing a cannon ball requires a move action (1 AP) for Medium and Small creatures, but is a free action for Large and larger creatures.
 
 ### First-Tree Wood
 
@@ -3192,7 +3192,7 @@ Designed by dwarves, this iron potbellied stove is about the size of a halfling.
 
 **Price** 50 gp; **Weight** 1 lb.
 
-This alchemical concoction can be spread over a Medium or Small creature’s body as a full-round action. It provides a +5 alchemical bonus on Escape Artist checks, grapple checks to avoid a grapple, and Reflex saves to avoid an ooze’s improved grab or engulf abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as Climb). One application lasts for up to 1 hour and can be removed with soap and water.
+This alchemical concoction can be spread over a Medium or Small creature’s body as a full-round action (3 AP). It provides a +5 alchemical bonus on Escape Artist checks, grapple checks to avoid a grapple, and Reflex saves to avoid an ooze’s improved grab or engulf abilities, but gives a –5 penalty to disarm checks, grapple checks to start or maintain a grapple or pin, and other checks that may be hindered by a loose grip (such as Climb). One application lasts for up to 1 hour and can be removed with soap and water.
 
 **Craft (Alchemy)** DC 25
 
@@ -3236,7 +3236,7 @@ To be worn properly, a litchina must be attached to a helm or headpiece of some 
 
 **Cost** 65 gp; **Weight** 12 lbs.; **Damage** 1d10 (small), 1d12 (medium); **Critical** 19–20/×2; **Range** 120 ft.; **Type** P; martial ranged.
 
-The gastraphetes, sometimes called a “belly bow,” is an oversized crossbow reloaded by pressing one end against the ground, the other against one’s abdomen, and locking the string in place through ratchet action. Reloading takes a full-round action, uses two hands, and requires that the wielder be standing. Wielding a gastraphetes requires two hands, and due to the weapon’s bulk, firing it while standing without support (such as a wall, a window, or a stand) imposes a –4 penalty on attack rolls; you take no penalty for firing a gastraphetes while prone. A Large or larger creature can use a gastraphetes one size smaller than itself without any support, but takes the normal penalty for firing an inappropriately sized weapon.
+The gastraphetes, sometimes called a “belly bow,” is an oversized crossbow reloaded by pressing one end against the ground, the other against one’s abdomen, and locking the string in place through ratchet action. Reloading takes a full-round action (3 AP), uses two hands, and requires that the wielder be standing. Wielding a gastraphetes requires two hands, and due to the weapon’s bulk, firing it while standing without support (such as a wall, a window, or a stand) imposes a –4 penalty on attack rolls; you take no penalty for firing a gastraphetes while prone. A Large or larger creature can use a gastraphetes one size smaller than itself without any support, but takes the normal penalty for firing an inappropriately sized weapon.
 
 ### Phaleros
 
@@ -3308,7 +3308,7 @@ These metal caps must be specially fitted to a creature’s horns or tusks; a bl
 
 **Crew** 4; **Aim** 0; **Load** 0; **Speed** 0 ft.
 
-The bulk of this weapon is a steel roller nearly 10 feet wide. Handles or a harness project from the axle, allowing four orcs or one Large beast to push the crushing wheel from behind. As a full-round action, its crew can roll the crushing wheel over creatures in front of it. This functions as the trample monster ability except as noted here. Creatures that are overrun fall prone and take 4d6 points of damage. Targets that succeed at a DC 15 Reflex saving throw take only half damage and avoid falling prone. A crushing wheel has a hardness of 10 and 100 hit points.
+The bulk of this weapon is a steel roller nearly 10 feet wide. Handles or a harness project from the axle, allowing four orcs or one Large beast to push the crushing wheel from behind. As a full-round action (3 AP), its crew can roll the crushing wheel over creatures in front of it. This functions as the trample monster ability except as noted here. Creatures that are overrun fall prone and take 4d6 points of damage. Targets that succeed at a DC 15 Reflex saving throw take only half damage and avoid falling prone. A crushing wheel has a hardness of 10 and 100 hit points.
 
 A crushing wheel is a Large siege engine.
 
@@ -3338,7 +3338,7 @@ An earthmaul is a Huge siege engine.
 
 When launched from a ballista, this specialized bolt unfurls into a large net. An attack with entangling ammunition is a ranged touch attack, but it’s only effective within one range increment. If it hits, the target is entangled, but the attack deals no damage.
 
-An entangled creature can escape with a successful DC 20 Escape Artist check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action). Entangling ammunition is useful only against creatures within one size category of the firing ballista.
+An entangled creature can escape with a successful DC 20 Escape Artist check (a full-round action (3 AP)). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action (3 AP)). Entangling ammunition is useful only against creatures within one size category of the firing ballista.
 
 ### Manticore’s Tail
 
@@ -3770,7 +3770,7 @@ For the pocketed and reinforced versions, see Clothing in the Ultimate Equipment
 
 **Cure** 1 save
 
-The morlock creepers brew a potent and fragrant poison harvested from the bright red sap of brain-shaped mushrooms that flourish in the lower caverns. Creatures struck by the poisoned darts are marked with a pungent fungal aroma for 10 minutes, even if they succeed at their Fortitude save. The scent is particularly potent to morlocks, allowing them to detect creatures tainted by it with their scent ability at a range of 100 feet even in the still air of the caves. The smell can be scrubbed off as a full round action with an alkalai substance, such as milk or soap.
+The morlock creepers brew a potent and fragrant poison harvested from the bright red sap of brain-shaped mushrooms that flourish in the lower caverns. Creatures struck by the poisoned darts are marked with a pungent fungal aroma for 10 minutes, even if they succeed at their Fortitude save. The scent is particularly potent to morlocks, allowing them to detect creatures tainted by it with their scent ability at a range of 100 feet even in the still air of the caves. The smell can be scrubbed off as a full round action (3 AP) with an alkalai substance, such as milk or soap.
 
 One dose of bloodbrain venom costs 400 gp.
 

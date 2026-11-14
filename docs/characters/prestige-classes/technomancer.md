@@ -63,11 +63,11 @@ At 5th level, he picks another spell from the list above, and at 8th level, he p
 
 #### Arcane Battery (Su)
 
-At 3rd level as a swift action, a technomancer can expend an unused spell slot (if he’s a spontaneous caster) or a prepared spell (if he prepares spells) to power a technological device he touches. Each spell level expended in this way grants the device 1 charge. Any charges unused at the end of the round are lost, and any charges used by the device that round that aren’t provided by the technomancer must come from the device’s own power reserves. He can use this ability to power timeworn technology. He can’t power devices that don’t use charges.
+At 3rd level as a swift action (1 AP), a technomancer can expend an unused spell slot (if he’s a spontaneous caster) or a prepared spell (if he prepares spells) to power a technological device he touches. Each spell level expended in this way grants the device 1 charge. Any charges unused at the end of the round are lost, and any charges used by the device that round that aren’t provided by the technomancer must come from the device’s own power reserves. He can use this ability to power timeworn technology. He can’t power devices that don’t use charges.
 
 #### Study Technology (Ex)
 
-At 3rd level, a technomancer can study a robot, technological object, or technological trap within 30 feet as a move action and attempt a Knowledge (engineering) check to identify it. If he succeeds, he gains a competence bonus equal to 1/2 his level on attack rolls, combat maneuver checks, saving throws, and skill checks involving the studied creature, object, or trap, as well as a dodge bonus of the same amount against attacks from the subject of his study. This bonus lasts a number of rounds equal to his Intelligence modifier (minimum 1). If he studies a new subject, he loses his bonus against the previous subject.
+At 3rd level, a technomancer can study a robot, technological object, or technological trap within 30 feet as a move action (1 AP) and attempt a Knowledge (engineering) check to identify it. If he succeeds, he gains a competence bonus equal to 1/2 his level on attack rolls, combat maneuver checks, saving throws, and skill checks involving the studied creature, object, or trap, as well as a dodge bonus of the same amount against attacks from the subject of his study. This bonus lasts a number of rounds equal to his Intelligence modifier (minimum 1). If he studies a new subject, he loses his bonus against the previous subject.
 
 #### Recycle Technology (Ex)
 
@@ -82,7 +82,7 @@ At 4th level, a technomancer can dismantle existing technological items and cons
 
 #### Command Robot (Sp)
 
-At 5th level, a technomancer can issue a command to a robot within 30 feet as a standard action once per day. The command must be in a language the robot can understand. The robot can resist the effects of this ability by succeeding at a Will saving throw against a DC of 10 + 1/2 the technomancer’s class level + the technomancer’s Charisma or Intelligence modifier (whichever is higher). At 7th level, a technomancer can use this ability twice per day, and at 9th level he can use it three times per day. This ability otherwise functions as [*suggestion*](../../magic/spells/suggestion.md), save that it is not mind-affecting and can only affect constructs with the robot subtype.
+At 5th level, a technomancer can issue a command to a robot within 30 feet as a standard action (1 AP) once per day. The command must be in a language the robot can understand. The robot can resist the effects of this ability by succeeding at a Will saving throw against a DC of 10 + 1/2 the technomancer’s class level + the technomancer’s Charisma or Intelligence modifier (whichever is higher). At 7th level, a technomancer can use this ability twice per day, and at 9th level he can use it three times per day. This ability otherwise functions as [*suggestion*](../../magic/spells/suggestion.md), save that it is not mind-affecting and can only affect constructs with the robot subtype.
 
 #### Unified Energy (Su)
 

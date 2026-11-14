@@ -86,7 +86,7 @@ This ring is made of thin but strong vines braided together in an elegant weave.
 
 *Aura* moderate evocation; *CL* 9th; *Slot* ring; *Price* 3,000 gp; *Weight* —
 
-When the wearer of this ring is bloodraging and casts a spell, as a swift action he can increase the save DC of the spell by 1. The wearer can do this a maximum of three times per day. This has no effect on spells that do not require saving throws.
+When the wearer of this ring is bloodraging and casts a spell, as a swift action (1 AP) he can increase the save DC of the spell by 1. The wearer can do this a maximum of three times per day. This has no effect on spells that do not require saving throws.
 
 *Construction* Forge Ring, Spell Focus, creator must have the bloodrage class feature; Cost 1,500 gp.
 
@@ -198,6 +198,6 @@ This ring has an odd, disquieting texture that always reveals greater layers of 
 
 *Aura* moderate abjuration; *CL* 11th; *Slot* ring; *Price* 5,400 gp; *Weight* —
 
-This claw ring is made of red metal tinged with orange, and a long nail made of obsidian extends from the tip. It allows its wearer to cast a spell as an attack of opportunity. Three times per day, if the wearer is bloodraging and a foe provokes an attack of opportunity from him, the wearer can cast a spell with a casting time of 1 standard action or less as the attack of opportunity. The spell must target the creature that provoked the attack or include it in the spell's area, and must be no higher than 3rd level. This counts as one of the wearer's attacks of opportunity for the round; casting this spell does not itself provoke an attack of opportunity.
+This claw ring is made of red metal tinged with orange, and a long nail made of obsidian extends from the tip. It allows its wearer to cast a spell as an attack of opportunity. Three times per day, if the wearer is bloodraging and a foe provokes an attack of opportunity from him, the wearer can cast a spell with a casting time of 1 standard action (1 AP) or less as the attack of opportunity. The spell must target the creature that provoked the attack or include it in the spell's area, and must be no higher than 3rd level. This counts as one of the wearer's attacks of opportunity for the round; casting this spell does not itself provoke an attack of opportunity.
 
 *Construction* Combat Reflexes, Forge Ring, Quicken Spell; Cost 17,500 gp.

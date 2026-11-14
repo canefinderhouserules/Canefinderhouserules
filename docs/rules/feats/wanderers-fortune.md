@@ -6,6 +6,6 @@ The promise of Elysium's freedom liberates you from all forms of restraint, allo
 
 **Prerequisites**: Knowledge (planes) 3 ranks.
 
-**Benefit**: As a swift action, you gain the benefits of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) until the end of your turn or until you benefit from the effects to escape a grapple or magical restraint, whichever comes first.
+**Benefit**: As a swift action (1 AP), you gain the benefits of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) until the end of your turn or until you benefit from the effects to escape a grapple or magical restraint, whichever comes first.
 
 You can use this feat's benefit once per day, plus an additional time per day for every 5 ranks you have in [Knowledge](../skills/knowledge.md) (planes).

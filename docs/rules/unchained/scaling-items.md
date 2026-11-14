@@ -146,7 +146,7 @@ This bright, silver-and-gold +1 chainmail is so fine and light that it can be wo
 
 **15th Level**: The armor is +4 chainmail, the maximum Dexterity bonus increases to +8, and the armor check penalty decreases to –1.
 
-**17th Level**: The armor is +5 chainmail, and the wearer can activate the fly ability on command as a swift action.
+**17th Level**: The armor is +5 chainmail, and the wearer can activate the fly ability on command as a swift action (1 AP).
 
 **19th Level**: The armor causes the wearer to grow feathery white wings, granting her a constant fly speed of 60 feet with good maneuverability.
 
@@ -176,7 +176,7 @@ The following section includes weapons with unusual powers and magical abilities
 **Aura** faint transmutation; **CL** 4th  
 **Slot** none; **Price** 305 gp; **Weight** 1/10 lb.; **Scaling** bauble
 
-This ornately carved arrow always survives being fired. By concentrating as a standard action, the last person to shoot the arrow can sense the direction in which it lies, up to a distance of 1 mile. This effect fades 24 hours after firing. Initially, a legacy arrow acts merely as a masterwork arrow, but it always retains its ability to survive and be recovered after use. Legacy arrows can be found as other sorts of ammunition, including bolts, shuriken, sling bullets, and even firearm bullets.
+This ornately carved arrow always survives being fired. By concentrating as a standard action (1 AP), the last person to shoot the arrow can sense the direction in which it lies, up to a distance of 1 mile. This effect fades 24 hours after firing. Initially, a legacy arrow acts merely as a masterwork arrow, but it always retains its ability to survive and be recovered after use. Legacy arrows can be found as other sorts of ammunition, including bolts, shuriken, sling bullets, and even firearm bullets.
 
 **6th Level**: The arrow has the distance special ability, normally not available to ammunition. When fired, it loses this weapon special ability and any gained at higher levels for 1 day.
 
@@ -184,11 +184,11 @@ This ornately carved arrow always survives being fired. By concentrating as a st
 
 **11th Level**: When fired, the arrow regains its special abilities after 10 minutes instead of 1 day.
 
-**14th Level**: Once per day as a standard action, the arrow’s wielder can designate it as a bane arrow for a category of her choice. It retains its current bane properties until they are changed. The arrow still takes 10 minutes to regain the use of bane, as usual.
+**14th Level**: Once per day as a standard action (1 AP), the arrow’s wielder can designate it as a bane arrow for a category of her choice. It retains its current bane properties until they are changed. The arrow still takes 10 minutes to regain the use of bane, as usual.
 
 **16th Level**: The arrow retains its bane, distance, and seeking special abilities after being fired.
 
-**18th Level**: Once per week, the wielder can take a standard action to fire the arrow, giving it the properties of a greater slaying arrow (keyed to the same category as its bane ability) in addition to its other special abilities. After being fired, the arrow loses all special abilities for 1 week.
+**18th Level**: Once per week, the wielder can take a standard action (1 AP) to fire the arrow, giving it the properties of a greater slaying arrow (keyed to the same category as its bane ability) in addition to its other special abilities. After being fired, the arrow loses all special abilities for 1 week.
 
 **20th Level**: The greater slaying ability can be used once per day (after which the arrow loses all special abilities for 1 day) rather than once per week. The arrow overcomes damage reduction as though adamantine.
 
@@ -199,7 +199,7 @@ This ornately carved arrow always survives being fired. By concentrating as a st
 **Aura** moderate transmutation; **CL** 6th  
 **Slot** none; **Price** 2,650 gp; **Weight** 4 lbs.; **Scaling** prize
 
-This +1 light mace has bands of several different metals around its hilt, each band one inch thick. Once per day, the mace’s owner can transform the mace into a different metal as a standard action. The multimetal mace remains that type of metal until transformed again. To begin with, it can transform to silver or back to steel. It retains all magical abilities when it transforms, along with any ongoing spells and effects currently affecting it.
+This +1 light mace has bands of several different metals around its hilt, each band one inch thick. Once per day, the mace’s owner can transform the mace into a different metal as a standard action (1 AP). The multimetal mace remains that type of metal until transformed again. To begin with, it can transform to silver or back to steel. It retains all magical abilities when it transforms, along with any ongoing spells and effects currently affecting it.
 
 **8th Level**: The multimetal mace can be transformed into cold iron.
 
@@ -224,7 +224,7 @@ This masterwork cold iron longsword becomes a +1 cold iron longsword in the hand
 
 **14th Level**: The sacred avenger becomes a +5 cold iron longsword in the hands of a paladin.
 
-**17th Level**: The sacred avenger allows a paladin to use the area dispel version of greater dispel magic at will as a standard action and grants the paladin and adjacent allies spell resistance equal to 5 + her paladin level.
+**17th Level**: The sacred avenger allows a paladin to use the area dispel version of greater dispel magic at will as a standard action (1 AP) and grants the paladin and adjacent allies spell resistance equal to 5 + her paladin level.
 
 **Requirements** Craft Magic Arms and Armor, holy aura, creator must be good; **Cost** 64,500 gp
 
@@ -277,7 +277,7 @@ Rings bestow magical powers upon their wearers. Anyone can use a ring, but a cha
 **Aura** moderate evocation; **CL** 10th  
 **Slot** ring; **Price** 10,800 gp; **Weight** —; **Scaling** prize
 
-These five golden rings are each set with a fire opal and are linked together by thin golden chains (making them take up only a single ring item slot). The wearer can release up to five scorching rays each day, one from each of the five rings. She can release one ray as a standard action or two rays (from two different rings) as a full-round action.
+These five golden rings are each set with a fire opal and are linked together by thin golden chains (making them take up only a single ring item slot). The wearer can release up to five scorching rays each day, one from each of the five rings. She can release one ray as a standard action (1 AP) or two rays (from two different rings) as a full-round action (3 AP).
 
 **12th Level**: Each day, the wearer can ignore up to 40 points of fire damage as if using protection from energy. This fire damage is absorbed into the fivefold rings of fire; when this happens, if the wearer has already expended one or more of her scorching rays for the day, she can recharge one of the rings for every 20 points of fire damage she absorbs.
 
@@ -298,7 +298,7 @@ Carved from a red stone in the shape of a dragon with glowing wings, this ring g
 
 **14th Level**: The ring grants fire resistance 20.
 
-**17th Level**: The ring grants fire resistance 30. The wearer increases her land speed by 5 feet. Once per day, the ring’s wearer can make a primary bite attack as a swift action. If she does not already possess a bite attack, her teeth elongate into draconic fangs as part of the swift action, granting a bite attack that deals 1d6 points of damage for a Medium wearer (1d4 for a Small wearer).
+**17th Level**: The ring grants fire resistance 30. The wearer increases her land speed by 5 feet. Once per day, the ring’s wearer can make a primary bite attack as a swift action (1 AP). If she does not already possess a bite attack, her teeth elongate into draconic fangs as part of the swift action (1 AP), granting a bite attack that deals 1d6 points of damage for a Medium wearer (1d4 for a Small wearer).
 
 **20th Level**: The ring’s wearer can transform into a flame drake once per day. This functions as transforming into a red dragon via form of the dragon II, except that the wearer’s fire breath weapon damages a 20-foot-radius spread within 180 feet of her.
 
@@ -317,7 +317,7 @@ The stone ring has an acidic smell that lingers when it protects its wearer.
 
 **14th Level**: The ring grants acid resistance 20.
 
-**17th Level**: The ring grants acid resistance 30. The wearer gains the ability to breathe underwater. Once per day, the ring’s wearer can make a primary bite attack as a swift action. If she does not possess a bite attack, her teeth elongate into draconic fangs as part of the swift action, granting a bite attack that deals 1d6 damage for a Medium wearer (1d4 for a Small wearer).
+**17th Level**: The ring grants acid resistance 30. The wearer gains the ability to breathe underwater. Once per day, the ring’s wearer can make a primary bite attack as a swift action (1 AP). If she does not possess a bite attack, her teeth elongate into draconic fangs as part of the swift action (1 AP), granting a bite attack that deals 1d6 damage for a Medium wearer (1d4 for a Small wearer).
 
 **20th Level**: The ring’s wearer can transform into a forest drake once per day. This functions as transforming into a green dragon via form of the dragon II, except that the wearer’s acid breath weapon damages a 10-foot-radius spread within 60 feet of her and remains in place as an obscuring mist for 1d4 rounds.
 
@@ -334,7 +334,7 @@ Carved from a white stone in the shape of a coiled dragon, this ring grants its 
 
 **14th Level**: The ring grants cold resistance 20.
 
-**17th Level**: The ring grants cold resistance 30. The wearer can see perfectly in snowy conditions, and does not take any penalties on Perception checks while in snow. Once per day, the ring’s wearer can make a primary bite attack as a swift action. If she does not possess a bite attack, her teeth elongate into draconic fangs as part of the swift action, granting a bite attack that deals 1d6 points of damage for a Medium wearer (1d4 for a Small wearer).
+**17th Level**: The ring grants cold resistance 30. The wearer can see perfectly in snowy conditions, and does not take any penalties on Perception checks while in snow. Once per day, the ring’s wearer can make a primary bite attack as a swift action (1 AP). If she does not possess a bite attack, her teeth elongate into draconic fangs as part of the swift action (1 AP), granting a bite attack that deals 1d6 points of damage for a Medium wearer (1d4 for a Small wearer).
 
 **20th Level**: The ring’s wearer can transform into a frost drake once per day. This functions as transforming into a white dragon via form of the dragon II, except that the wearer’s cold breath weapon affects a 10-foot-radius spread within 60 feet of her. All surfaces within the spread are coated with slippery ice that turns the area into difficult terrain for 2d4 rounds.
 
@@ -351,7 +351,7 @@ Carved from a blue-green stone in the shape of a swimming dragon, this ring gran
 
 **14th Level**: The ring grants electricity resistance 20.
 
-**17th Level**: The ring grants electricity resistance 30. The wearer gains the ability to breathe underwater. Once per day, the ring’s wearer can make a primary bite attack as a swift action. If she does not already possess a bite attack, her teeth elongate into draconic fangs as part of the swift action, granting a bite attack that deals 1d6 points of damage for a Medium wearer (1d4 for a Small wearer).
+**17th Level**: The ring grants electricity resistance 30. The wearer gains the ability to breathe underwater. Once per day, the ring’s wearer can make a primary bite attack as a swift action (1 AP). If she does not already possess a bite attack, her teeth elongate into draconic fangs as part of the swift action (1 AP), granting a bite attack that deals 1d6 points of damage for a Medium wearer (1d4 for a Small wearer).
 
 **20th Level**: The ring’s wearer can transform into a sea drake once per day. This functions as transforming into a blue dragon via form of the dragon II, except that the wearer’s electricity breath weapon targets one creature within 100 feet of her, then arcs to up to seven secondary targets within 20 feet of the primary target. The secondary bolts each strike one target and deal as much damage as the primary bolt.
 
@@ -383,7 +383,7 @@ This stone ring is constantly covered in a thin layer of dirt. It grants its wea
 **Aura** faint illusion; **CL** 4th  
 **Slot** ring; **Price** 1,080 gp; **Weight** —; **Scaling** prize
 
-This five-piece puzzle ring must be properly assembled before it can be placed on a finger. Once per day as a move action, the wearer can create a single mirror image as if using the Trickery domain’s copycat power. If the wearer is a cleric with the Trickery domain and the copycat power, she instead gains two additional uses of that ability.
+This five-piece puzzle ring must be properly assembled before it can be placed on a finger. Once per day as a move action (1 AP), the wearer can create a single mirror image as if using the Trickery domain’s copycat power. If the wearer is a cleric with the Trickery domain and the copycat power, she instead gains two additional uses of that ability.
 
 **6th Level**: The wearer can use prestidigitation at will.
 
@@ -393,7 +393,7 @@ This five-piece puzzle ring must be properly assembled before it can be placed o
 
 **12th Level**: By spending 10 minutes reconfiguring the ring’s puzzle, the wearer can find a way to solve the puzzle with four of the pieces while twisting the final piece into a tiny shape that grows into a new object as major creation, except that the wearer uses Disable Device rather than Craft to create a complex object. The fifth piece mysteriously reappears 24 hours after the new object vanishes. The wearer cannot use any of the ring’s creation powers without all five pieces.
 
-**15th Level**: Once per day as a standard action, the wearer can create a duplicate while becoming invisible, as mislead.
+**15th Level**: Once per day as a standard action (1 AP), the wearer can create a duplicate while becoming invisible, as mislead.
 
 **Requirements** Forge Ring, major creation, mirror image, prestidigitation; **Cost** 18,000 gp
 
@@ -429,7 +429,7 @@ This baton and the small skull that tops it are both made of blackened adamantin
 
 **15th Level**: If the wielder confirms a critical hit, instead of gaining a temporary negative level the target gains a permanent negative level with no saving throw. Each day thereafter, the target must succeed at a Fortitude save (using the same DC as the 13th-level unlockable ability) or acquire another negative level. This is a curse effect that continues until removed (DC 23) or until the target dies. A target slain by this curse cannot be revived from death until the curse is removed.
 
-**17th Level**: The rod’s enhancement bonus increases to +3. Once per day, the rod’s owner can tap the rod on the ground as a standard action to duplicate the effects of animate dead. The total HD of undead the owner can control in this way is equal to her level. If she controls other undead from castings of animate dead, she uses only the highest maximum she can control—the values do not stack. She ceases to control undead created by the rod if the rod leaves her possession.
+**17th Level**: The rod’s enhancement bonus increases to +3. Once per day, the rod’s owner can tap the rod on the ground as a standard action (1 AP) to duplicate the effects of animate dead. The total HD of undead the owner can control in this way is equal to her level. If she controls other undead from castings of animate dead, she uses only the highest maximum she can control—the values do not stack. She ceases to control undead created by the rod if the rod leaves her possession.
 
 **Requirements** Craft Rod, bestow curse, enervation, major creation, spectral hand; **Cost** 67,505 gp
 
@@ -480,7 +480,7 @@ This wooden staff is carved with intricate patterns of waves, wind, trails, and 
 
 **18th Level**: The staff allows the use of find the path for 3 charges. The cost for water breathing decreases to 1 charge.
 
-**20th Level**: The staff grants its owner a fly speed of 30 feet (poor maneuverability). Find the path now costs 2 charges, and freedom of movement costs only 1 charge. If the staff’s wielder breaks the staff in two as a full-round action, she can transport herself and up to 19 allies to a safe location she knows extremely well. This ability ignores local conditions as if it were the transport travelers effect of a wish.
+**20th Level**: The staff grants its owner a fly speed of 30 feet (poor maneuverability). Find the path now costs 2 charges, and freedom of movement costs only 1 charge. If the staff’s wielder breaks the staff in two as a full-round action (3 AP), she can transport herself and up to 19 allies to a safe location she knows extremely well. This ability ignores local conditions as if it were the transport travelers effect of a wish.
 
 **Requirements** Craft Staff, expeditious retreat, find the path, fly, freedom of movement, longstrider, monkey fish, spider climb, water breathing; **Cost** 66,500 gp
 
@@ -503,7 +503,7 @@ This red-and-violet silk garment, delicately embroidered with a barely perceptib
 
 **14th Level**: Normal spiders, including spider swarms and unusually large spiders, will not attack the cloak’s wearer unless she attacks them first or they are instructed to do so by some other creature, such as through a use of vermin empathy or a spell. The cloak’s wearer can summon forth a swarm of spiders once per day as the spell summon swarm.
 
-**16th Level**: The cloak’s wearer can attempt to influence spiders, as the mite’s vermin empathy ability. The wearer does not gain a racial bonus to vermin empathy. She can change into the form of a Small or Medium spider and back at will as a standard action, as vermin shape I.
+**16th Level**: The cloak’s wearer can attempt to influence spiders, as the mite’s vermin empathy ability. The wearer does not gain a racial bonus to vermin empathy. She can change into the form of a Small or Medium spider and back at will as a standard action (1 AP), as vermin shape I.
 
 **17th Level**: The cloak’s wearer can summon a swarm of spiders at will, instead of once per day. When she changes into the form of a spider, she can change into the form of a Tiny, Small, Medium, or Large spider as vermin shape II.
 
@@ -575,7 +575,7 @@ These tight-fitting, black leather boots make their wearer more prepared before 
 
 **11th Level**: The wearer of these boots can’t be caught flat-footed.
 
-**13th Level**: Before the wearer has taken her first turn in combat, she can move up to her speed as an immediate action without provoking attacks of opportunity. She can no longer use this ability once her first turn arrives, even if she delays.
+**13th Level**: Before the wearer has taken her first turn in combat, she can move up to her speed as an immediate action (1 AP of your next turn) without provoking attacks of opportunity. She can no longer use this ability once her first turn arrives, even if she delays.
 
 **Requirements** Craft Wondrous Item, haste, moment of prescience; **Cost** 3,500 gp
 
@@ -635,7 +635,7 @@ When this plain gray cloak is worn with the hood drawn up around the head, the w
 
 **14th Level**: The cloak grants its wearer the camouflage ranger ability in forested areas.
 
-**18th Level**: At will, when the wearer envelops herself in the cloak as a standard action, she can become invisible as invisibility.
+**18th Level**: At will, when the wearer envelops herself in the cloak as a standard action (1 AP), she can become invisible as invisibility.
 
 **20th Level**: If the wearer also wears the boots of the elven spirit, she can focus the cloak’s invisibility effect. As a free action, she can choose to make it so her attacks do not end the invisibility effect for 1 round. She can use this ability for 10 rounds per day, but the rounds need not be consecutive.
 
@@ -648,9 +648,9 @@ When this plain gray cloak is worn with the hood drawn up around the head, the w
 
 When tied around the waist, this humble, coarse rope grants its wearer a +10 competence bonus on Acrobatics checks relating to balance.
 
-**9th Level**: Once per day as a swift action, the wearer can gain a +30-foot enhancement bonus to his base speed for 1 round. During this round, he ignores the adverse movement effects of terrain and his movement doesn’t provoke attacks of opportunity.
+**9th Level**: Once per day as a swift action (1 AP), the wearer can gain a +30-foot enhancement bonus to his base speed for 1 round. During this round, he ignores the adverse movement effects of terrain and his movement doesn’t provoke attacks of opportunity.
 
-**11th Level**: The wearer can stand from prone as an immediate action that does not provoke attacks of opportunity.
+**11th Level**: The wearer can stand from prone as an immediate action (1 AP of your next turn) that does not provoke attacks of opportunity.
 
 **12th Level**: The wearer can use the belt’s ability to increase his speed and ignore difficult terrain three times per day.
 
@@ -665,9 +665,9 @@ This elaborate tiara looks as though it’s made of intricately carved ice adorn
 
 **5th Level**: Once per day, the wearer can summon a Small ice elemental as summon monster II.
 
-**7th Level**: As a standard action, the wearer can launch an icicle at a foe within 30 feet as a ranged attack. On a hit, the icicle deals 1d6 points of piercing damage and 1d6 points of cold damage. In addition, the wearer can walk across icy ground without slipping.
+**7th Level**: As a standard action (1 AP), the wearer can launch an icicle at a foe within 30 feet as a ranged attack. On a hit, the icicle deals 1d6 points of piercing damage and 1d6 points of cold damage. In addition, the wearer can walk across icy ground without slipping.
 
-**10th Level**: As part of her move action, the wearer can step into the air, creating crystalline stairs beneath her feat, adding new steps in whichever direction she travels. These steps melt away behind her. If others try to climb the steps, they crumble away, leaving only the portions beneath the wearer’s feet intact. This otherwise acts as the air walk spell. She can use this ability each day for 10 minutes per level, divided any way she chooses in 10-minute intervals.
+**10th Level**: As part of her move action (1 AP), the wearer can step into the air, creating crystalline stairs beneath her feat, adding new steps in whichever direction she travels. These steps melt away behind her. If others try to climb the steps, they crumble away, leaving only the portions beneath the wearer’s feet intact. This otherwise acts as the air walk spell. She can use this ability each day for 10 minutes per level, divided any way she chooses in 10-minute intervals.
 
 **12th Level**: Once per day, the wearer can call forth an ice storm. When she uses the tiara to summon ice elementals, she can summon either 1d4 Small ice elementals or one Medium ice elemental as summon monster IV.
 
@@ -675,9 +675,9 @@ This elaborate tiara looks as though it’s made of intricately carved ice adorn
 
 **16th Level**: The wearer can use the tiara to call up a tower of ice, as an instant fortress (except that the tiara does not transform into the tower, the tower takes 1 minute to rise instead of 1 round, the walls of the tower have only hardness 12, and damage to the tower does not carry over between multiple uses of this ability).
 
-**18th Level**: When the wearer calls forth a tower of ice, if there is enough open space, she can choose to call forth a small palace instead, 100 feet square at the base with 20-foot- high rooms, with a central tower 20 feet square and 100 feet high. At will, she can spend 5 rounds to transform into a flurry of snowflakes that can move at incredible speed. Treat this as wind walk except she gains vulnerability to fire. It normally takes 5 rounds to transform back into her normal shape. However, she can revert to her original form early as a standard action. If she does so, she cannot transform into snowflakes again for 24 hours. When she uses the tiara to summon ice elementals, she can choose to summon 1d4+1 Medium ice elementals, 1d3 Large ice elementals, or one Huge ice elemental as summon monster VI.
+**18th Level**: When the wearer calls forth a tower of ice, if there is enough open space, she can choose to call forth a small palace instead, 100 feet square at the base with 20-foot- high rooms, with a central tower 20 feet square and 100 feet high. At will, she can spend 5 rounds to transform into a flurry of snowflakes that can move at incredible speed. Treat this as wind walk except she gains vulnerability to fire. It normally takes 5 rounds to transform back into her normal shape. However, she can revert to her original form early as a standard action (1 AP). If she does so, she cannot transform into snowflakes again for 24 hours. When she uses the tiara to summon ice elementals, she can choose to summon 1d4+1 Medium ice elementals, 1d3 Large ice elementals, or one Huge ice elemental as summon monster VI.
 
-**20th Level**: The wearer gains cold resistance 30. When she uses the tiara to summon ice elementals, she can also choose to summon 1d4+1 Huge ice elementals, 1d3 greater ice elementals, or one elder ice elemental as summon monster VIII. She can create ice stairs without a daily limit, and if she wishes, they last for 1 minute before melting, even if another creature tries to climb them. If she chooses to make them last longer, she can dismiss the stairs behind her as a swift action, potentially causing creatures climbing the stairs to fall.
+**20th Level**: The wearer gains cold resistance 30. When she uses the tiara to summon ice elementals, she can also choose to summon 1d4+1 Huge ice elementals, 1d3 greater ice elementals, or one elder ice elemental as summon monster VIII. She can create ice stairs without a daily limit, and if she wishes, they last for 1 minute before melting, even if another creature tries to climb them. If she chooses to make them last longer, she can dismiss the stairs behind her as a swift action (1 AP), potentially causing creatures climbing the stairs to fall.
 
 **Requirements** Craft Wondrous Item, air walk, ice crystal teleport, ice storm, summon monster VIII, wind walk; **Cost** 132,000 gp
 
@@ -703,7 +703,7 @@ Embroidered dragons of gold thread adorn this red silk robe. The wearer gains a 
 **Aura** faint conjuration; **CL** 4th  
 **Slot** none; **Price** 2,650 gp; **Weight** —; **Scaling** bauble
 
-This small, colorful feather waves gently as if blown by a constant breeze. As a standard action, the feather’s owner can change its form into another variety of feather token. Any owner can use an eternal feather token to duplicate the effects of an anchor feather token. Higher-level owners have additional options. The token remains transformed until its owner commands it to change again, or until it is activated in that form like a normal feather token. Once activated, the token reverts to the appearance of a normal feather of a dingy gray color. Over the next week, it slowly regains its color. A week after its last activation, it can be used again.
+This small, colorful feather waves gently as if blown by a constant breeze. As a standard action (1 AP), the feather’s owner can change its form into another variety of feather token. Any owner can use an eternal feather token to duplicate the effects of an anchor feather token. Higher-level owners have additional options. The token remains transformed until its owner commands it to change again, or until it is activated in that form like a normal feather token. Once activated, the token reverts to the appearance of a normal feather of a dingy gray color. Over the next week, it slowly regains its color. A week after its last activation, it can be used again.
 
 **7th Level**: The feather can become a fan feather token.
 
@@ -836,7 +836,7 @@ These gloves are woven of a fine copper mesh and wire, and infuse the wearer’s
 
 This gilded neckpiece is inlaid with sunstone and diamond and engraved with wreaths of laurel. The wearer possesses great eloquence and gravitas, gaining a +5 competence bonus on Diplomacy, Intimidate, and Perform (oratory) checks.
 
-**10th Level**: The wearer’s speeches can fill her allies with purpose. As a full-round action, she can attempt a DC 20 Perform (oratory) check to affect all allies who can hear her with good hope for 1 round. If she fails the check, all allies who heard her ineloquent speech cannot benefit from this ability for 24 hours.
+**10th Level**: The wearer’s speeches can fill her allies with purpose. As a full-round action (3 AP), she can attempt a DC 20 Perform (oratory) check to affect all allies who can hear her with good hope for 1 round. If she fails the check, all allies who heard her ineloquent speech cannot benefit from this ability for 24 hours.
 
 **12th Level**: The wearer can improve someone’s attitude up to three steps when using Diplomacy. When she uses Intimidate to influence someone, she can present herself as glorious and powerful without threatening them, causing the attempt to operate like a Diplomacy check to influence instead.
 
@@ -866,11 +866,11 @@ Alternatively, the wearer can use the gloves to disperse an existing cloud of ga
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** neck; **Price** 14,000 gp; **Weight** —; **Scaling** wonder
 
-This carved darkwood amulet resembles a human heart. As a move action while standing on earth, stone, or wood, its wearer can sprout woody, rootlike tendrils from his legs that anchor his feet to the ground. While so anchored, he gains a +4 bonus to his CMD against bull rush, drag, grapple, overrun, reposition, trip, and other combat maneuvers that would force him from his space, as well as on saving throws against effects that would force him from his space on a failed save. The roots fall away if the wearer moves from his space, even involuntarily.
+This carved darkwood amulet resembles a human heart. As a move action (1 AP) while standing on earth, stone, or wood, its wearer can sprout woody, rootlike tendrils from his legs that anchor his feet to the ground. While so anchored, he gains a +4 bonus to his CMD against bull rush, drag, grapple, overrun, reposition, trip, and other combat maneuvers that would force him from his space, as well as on saving throws against effects that would force him from his space on a failed save. The roots fall away if the wearer moves from his space, even involuntarily.
 
 **11th Level**: When anchored to the ground, the wearer’s roots interfere with adjacent foes. Foes adjacent to the wearer must succeed at a DC 13 Reflex save each round or be entangled by the roots as if by the spell entangle. If the wearer’s roots fall away due to movement, all entangled enemies are immediately released.
 
-**13th Level**: When struck by a nonliving wooden or wooden- hafted weapon of Huge size or smaller, the wearer can lash back and affect that weapon with warp wood as an immediate action (Will DC 20 negates). This ability is usable three times per day.
+**13th Level**: When struck by a nonliving wooden or wooden- hafted weapon of Huge size or smaller, the wearer can lash back and affect that weapon with warp wood as an immediate action (1 AP of your next turn) (Will DC 20 negates). This ability is usable three times per day.
 
 **15th Level**: The wearer can make a secondary natural attack with his roots, dealing an amount of damage equal to 1d4 + 1/2 the user’s Strength bonus. At the beginning of the wearer’s turn, if he still possesses roots from a previous round, the secondary root attack gains 5 feet of reach. This increase stacks with itself to a maximum of triple the wearer’s natural reach, but it doesn’t stack with any other increases. The reach resets whenever the roots fall away.
 
@@ -889,7 +889,7 @@ This elaborate military saddle is embellished with intricate tooling and a panop
 
 **10th Level**: The mount gains a +1 resistance bonus on saving throws and a +1 deflection bonus to Armor Class.
 
-**11th Level**: Once per day as a full-round action, the rider of a mount wearing a heroic saddle can command the heroic saddle to grant the mount 1d8 + 10 temporary hit points. These temporary hit points last for 24 hours or until expended, and they do not stack with themselves but do stack with temporary hit points from other sources.
+**11th Level**: Once per day as a full-round action (3 AP), the rider of a mount wearing a heroic saddle can command the heroic saddle to grant the mount 1d8 + 10 temporary hit points. These temporary hit points last for 24 hours or until expended, and they do not stack with themselves but do stack with temporary hit points from other sources.
 
 **13th Level**: The saddle’s bonuses on saving throws and to AC increase to +2.
 
@@ -904,7 +904,7 @@ This elaborate military saddle is embellished with intricate tooling and a panop
 
 This small pendant of brass and glass is crafted in the shape of a lantern and continuously sheds light as a light spell.
 
-As a move action, the wearer can open the miniature lantern pendant and direct the tiny phantasmal fire within to float to any point within 110 feet. This functions as dancing lights, but the wearer can create a number of lights equal to 1/2 his character level, up to a maximum of four, and can create only torchlike lights, not glowing spheres or humanoid shapes. While the dancing lights are active, the light of the lantern pendant itself is extinguished.
+As a move action (1 AP), the wearer can open the miniature lantern pendant and direct the tiny phantasmal fire within to float to any point within 110 feet. This functions as dancing lights, but the wearer can create a number of lights equal to 1/2 his character level, up to a maximum of four, and can create only torchlike lights, not glowing spheres or humanoid shapes. While the dancing lights are active, the light of the lantern pendant itself is extinguished.
 
 **6th Level**: Once per day, the wearer can command the phantasmal fire to fly forth and limn all creatures in an area as faerie fire. Just as when using dancing lights, the pendant’s light is extinguished throughout the duration.
 
@@ -925,7 +925,7 @@ An ebony skull adorns this tarnished silver band. When the wearer successfully d
 
 **11th Level**: Once per day, the wearer can attempt to frighten a creature with an Intimidate check instead of demoralizing it. She must declare she is doing so before attempting the Intimidate check. The penalty increase for checks and rolls involving the wearer also applies if the creature is frightened in this way.
 
-**14th Level**: The wearer can attempt to demoralize opponents as a move action instead of as a standard action. If the wearer can already do so because of the intimidating glare barbarian power or a similar ability, she can instead demoralize opponents as a swift action.
+**14th Level**: The wearer can attempt to demoralize opponents as a move action (1 AP) instead of as a standard action (1 AP). If the wearer can already do so because of the intimidating glare barbarian power or a similar ability, she can instead demoralize opponents as a swift action (1 AP).
 
 **Requirements** Craft Wondrous Item, cause fear, doom; **Cost** 4,625 gp
 
@@ -1041,7 +1041,7 @@ When donned, this sheer, sleeved robe fades to near invisibility. It grants the 
 
 The wearer of these ornate crystal lenses gains a +6 competence bonus on Sense Motive checks. When she uses Sense Motive to determine whether someone is lying to her, she gets a brief flash of the liar’s thoughts at that instant.
 
-**9th Level**: When the wearer concentrates, she can perceive the thoughts of a single creature as writing in the air, rendered in the subject’s native language. This functions as though the wearer had concentrated on the creature for 3 rounds using detect thoughts, and can be blocked with a successful Will save with a DC equal to the wearer’s character level + 6 (to a maximum DC of 20). A creature that succeeds at its save can’t be affected again for 24 hours. Maintaining concentration requires a standard action each round (as for a spell), and once the wearer ceases concentrating on a creature, she cannot observe thoughts again for 1 minute. This ability can be used for a total of 5 minutes per day. These minutes do not need to be consecutive, but must be used in 1-minute increments. The glasses fail to function against creatures with an Intelligence score of 2 or lower or without a written language.
+**9th Level**: When the wearer concentrates, she can perceive the thoughts of a single creature as writing in the air, rendered in the subject’s native language. This functions as though the wearer had concentrated on the creature for 3 rounds using detect thoughts, and can be blocked with a successful Will save with a DC equal to the wearer’s character level + 6 (to a maximum DC of 20). A creature that succeeds at its save can’t be affected again for 24 hours. Maintaining concentration requires a standard action (1 AP) each round (as for a spell), and once the wearer ceases concentrating on a creature, she cannot observe thoughts again for 1 minute. This ability can be used for a total of 5 minutes per day. These minutes do not need to be consecutive, but must be used in 1-minute increments. The glasses fail to function against creatures with an Intelligence score of 2 or lower or without a written language.
 
 **11th Level**: The competence bonus on Sense Motive checks increases to +8. The detect thoughts effect can be used for 10 minutes per day. In addition to seeing the creature’s thoughts in its native language, the wearer gets visual impressions of the creature’s thoughts. She might see the face of someone the creature is thinking about, for instance, or see an image of that creature stabbing someone if it’s planning an attack.
 
@@ -1126,9 +1126,9 @@ This garment is lined with gilded leaves, magically preserved in their autumnal 
 
 Woven of aranea silk, this vest grants potent protection against spells that would warp the wearer’s mind or body. Its wearer gains a +2 bonus on saving throws against curses, enchantments, and transmutations.
 
-**11th Level**: Once per day, the wearer can remove the shaken or sickened condition from himself or an ally with a touch. This is a standard action, or a swift action if he cures himself. In addition, the wearer can’t be compelled to keep a cursed item. This doesn’t prevent the cursed item’s effects, but does allow the wearer to freely discard the item.
+**11th Level**: Once per day, the wearer can remove the shaken or sickened condition from himself or an ally with a touch. This is a standard action (1 AP), or a swift action (1 AP) if he cures himself. In addition, the wearer can’t be compelled to keep a cursed item. This doesn’t prevent the cursed item’s effects, but does allow the wearer to freely discard the item.
 
-**13th Level**: Once per day as an immediate action, the wearer can use break enchantment against an effect that has just taken hold of him, even if the effect causes him to lose consciousness or control of his actions. Only a single effect can be targeted by this use of break enchantment. This protection can be recharged by casting break enchantment on the vest.
+**13th Level**: Once per day as an immediate action (1 AP of your next turn), the wearer can use break enchantment against an effect that has just taken hold of him, even if the effect causes him to lose consciousness or control of his actions. Only a single effect can be targeted by this use of break enchantment. This protection can be recharged by casting break enchantment on the vest.
 
 **15th Level**: The conditions the wearer can remove with a touch now also include cursed (as remove curse), dazed, and frightened.
 

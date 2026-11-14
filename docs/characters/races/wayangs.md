@@ -14,7 +14,7 @@ The wayangs are a race of small supernatural humanoids who trace their ancestry 
 
 **Darkvision**: Wayangs can see in the dark up to 60 feet.
 
-**Light and Dark (Su)**: Once per day as an immediate action, a wayang can treat positive and negative energy effects as if she were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.
+**Light and Dark (Su)**: Once per day as an immediate action (1 AP of your next turn), a wayang can treat positive and negative energy effects as if she were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.
 
 **Lurker**: Wayangs gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) and Stealth checks.
 

@@ -14,7 +14,7 @@
 
 **Special Attacks:** A broken soul gains the following special attacks. Save DCs are equal to 10 + 1/2 the broken soul’s Hit Dice + the broken soul’s Charisma modifier unless otherwise noted.
 
-***Agonized Wail (Su).*** As a standard action, a broken soul can emit an agonized wail that inspires terror in those who hear it. All creatures within 120 feet must succeed at a Will save or become shaken for as long as they remain within 120 feet of the broken soul. A successful save renders a creature immune to that broken soul’s agonized wail for 24 hours. This is a sonic mind-affecting fear effect.
+***Agonized Wail (Su).*** As a standard action (1 AP), a broken soul can emit an agonized wail that inspires terror in those who hear it. All creatures within 120 feet must succeed at a Will save or become shaken for as long as they remain within 120 feet of the broken soul. A successful save renders a creature immune to that broken soul’s agonized wail for 24 hours. This is a sonic mind-affecting fear effect.
 
 ***Baleful Gaze (Su).*** Any creature within 60 feet of a broken soul must succeed at a Fortitude save or take 1d4 points of Strength, Constitution, and Charisma drain. Whatever the result of the saving throw, the creature cannot be affected by the same broken soul’s baleful gaze again for 1 minute.
 

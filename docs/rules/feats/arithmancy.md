@@ -4,7 +4,7 @@ You are able to unravel the hidden meanings behind words by translating them int
 
 **Prerequisites**: Int 13, Spell Focus (divination), Spellcraft 3 ranks.
 
-**Benefit**:  Immediately before casting a spell, as a swift action, you can attempt to augment a spell’s casting using Arithmancy. To do so, determine the digital root of the name of the spell you are casting.
+**Benefit**:  Immediately before casting a spell, as a swift action (1 AP), you can attempt to augment a spell’s casting using Arithmancy. To do so, determine the digital root of the name of the spell you are casting.
 
 To find the digital root of a spell name, first assign a numerical value to each letter of the name, per the Letter Values table. Once you have a string of digits, sum them.
 

@@ -25,7 +25,7 @@ Several types of magical bullets have been developed to be used with firearms. T
 **Aura** moderate necromancy; **CL** 9th (burrowing bullet) or 13th (greater burrowing bullet)  
 **Slot** none; **Price** 1,722 gp (burrowing bullet) or 3,447 gp (greater burrowing bullet); **Weight** —
 
-This +1 firearm bullet deals normal damage, but when it hits a living creature, it burrows into the creature’s flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. While these bullets burrow, the creature is staggered. This effect lasts for 1d3 rounds or until the bullet is removed with a DC 15 Heal check made as a standard action. Greater burrowing bullets take longer to pass though the bodies of living creatures (the staggered effect lasts 1d3+2 rounds) and are harder to remove (DC 20 Heal check as a standard action).
+This +1 firearm bullet deals normal damage, but when it hits a living creature, it burrows into the creature’s flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. While these bullets burrow, the creature is staggered. This effect lasts for 1d3 rounds or until the bullet is removed with a DC 15 Heal check made as a standard action (1 AP). Greater burrowing bullets take longer to pass though the bodies of living creatures (the staggered effect lasts 1d3+2 rounds) and are harder to remove (DC 20 Heal check as a standard action (1 AP)).
 
 **Construction** Craft Magic Arms and Armor, symbol of pain (burrowing bullet) or symbol of stunning (greater burrowing bullet); **Cost** 861 gp (burrowing bullet) or 1,723 gp (greater burrowing bullet)
 
@@ -103,7 +103,7 @@ Firing a firearm that has been loaded from this horn underwater still incurs the
 **Aura** faint divination; **CL** 3rd  
 **Slot** none (see below); **Price** 4,000 gp; **Weight** 1 lb.
 
-This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action. A firearm wielder can choose to spend a full-round action to make a single shot with a firearm that has this sight. When she does, she can resolve the attack against the touch AC of her target regardless of the range increment. A firearm can have only one sight attached to it at a time.
+This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action (3 AP). A firearm wielder can choose to spend a full-round action (3 AP) to make a single shot with a firearm that has this sight. When she does, she can resolve the attack against the touch AC of her target regardless of the range increment. A firearm can have only one sight attached to it at a time.
 
 **Construction** Craft Wondrous Item, true strike; **Cost** 2,000 gp
 
@@ -134,7 +134,7 @@ When applied to a one-handed or two-handed firearm, this strange grayish oil ren
 **Aura** moderate divination; **CL** 8th  
 **Slot** none (see below); **Price** 12,000 gp; **Weight** 1 lb.
 
-This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action. A firearm wielder using a firearm that has this sight can choose to spend a full-round action to either locate an invisible creature within line of sight or make a single shot that ignores the invisibility of a creature that she knows is in the area. A firearm can have only one sight attached to it at a time.
+This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action (3 AP). A firearm wielder using a firearm that has this sight can choose to spend a full-round action (3 AP) to either locate an invisible creature within line of sight or make a single shot that ignores the invisibility of a creature that she knows is in the area. A firearm can have only one sight attached to it at a time.
 
 **Construction** Craft Wondrous Item, true seeing; **Cost** 6,000 gp
 

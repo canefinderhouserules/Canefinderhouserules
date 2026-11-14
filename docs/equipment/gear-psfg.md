@@ -36,7 +36,7 @@ Nonmagical and alchemical items useful to explorers and field agents.
 
 ## Alchemical and Clockwork Items
 
-**Air Crystals**: These unpleasant-tasting, alchemically grown crystals release breathable air when chewed. A pouch of air crystals provides 1 minute of breathable air. Placing air crystals in your mouth takes a standard action; chewing them each round is a free action. Any attempt to speak while chewing air crystals negates any remaining duration.
+**Air Crystals**: These unpleasant-tasting, alchemically grown crystals release breathable air when chewed. A pouch of air crystals provides 1 minute of breathable air. Placing air crystals in your mouth takes a standard action (1 AP); chewing them each round is a free action. Any attempt to speak while chewing air crystals negates any remaining duration.
 
 **Clockwork Prowler**: This 2-foot-tall wooden clockwork automaton is shaped roughly like a short-backed, wheeled chair. When wound up with the folding handle at its side, the clockwork prowler trundles forward at a speed of 15 feet per round for up to 2 minutes. A clockwork prowler cannot move through difficult terrain. Each round of vigorous winding powers 2 rounds of movement. If its brake is not released immediately after winding, the prowler loses 1 round of movement for every 2 rounds it sits idle. The clockwork prowler can carry up to 20 pounds of weight at full speed, or up to 50 pounds at a speed of 10 feet. Higher weights prevent the prowler from moving. A clockwork prowler has hardness 5 and 90 hit points, and when in motion has AC 12 (a motionless clockwork prowler has AC 5).
 

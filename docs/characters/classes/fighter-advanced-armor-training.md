@@ -16,7 +16,7 @@ Fighters can also gain advanced armor training options via the [Advanced Armor T
 
 **Armored Master**: The fighter gains an armor mastery feat or a shield mastery feat as a bonus feat. He must meet all of the feat's prerequisites.
 
-**Armored Sacrifice (Ex)**: When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, the fighter can instead direct the damage to a suit of armor that he is wearing or a shield he is using as an immediate action. The original target takes no damage, but the armor or shield is treated as if it had only half its normal hardness. The fighter can use this option once per day, plus one additional time each day at 11th level and every 8 fighter levels thereafter, to a maximum of three times per day at 19th level.
+**Armored Sacrifice (Ex)**: When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, the fighter can instead direct the damage to a suit of armor that he is wearing or a shield he is using as an immediate action (1 AP of your next turn). The original target takes no damage, but the armor or shield is treated as if it had only half its normal hardness. The fighter can use this option once per day, plus one additional time each day at 11th level and every 8 fighter levels thereafter, to a maximum of three times per day at 19th level.
 
 **Armored Sprint (Ex)**: The fighter gains Run as a bonus feat. If the fighter is proficient with [heavy armor](../../equipment/armor.md), he treats heavy armor as if it were one category lighter for the purpose of determining how fast he can move while running in armor.
 
@@ -32,7 +32,7 @@ Fighters can also gain advanced armor training options via the [Advanced Armor T
 | Medium armor | 1 minute | 5 rounds | 1 minute |
 | Heavy armor | 2 minutes | 1 minute | 1d4 minutes |
 
-Additionally, when wearing hastily donned armor, the fighter can attempt a Strength or Dexterity check as a full-round action to remove the penalties associated with wearing hastily donned armor (DC = 10 + his armor's unmodified armor bonus). If he succeeds at the check, he is treated as having properly donned his armor rather than having hastily donned it.
+Additionally, when wearing hastily donned armor, the fighter can attempt a Strength or Dexterity check as a full-round action (3 AP) to remove the penalties associated with wearing hastily donned armor (DC = 10 + his armor's unmodified armor bonus). If he succeeds at the check, he is treated as having properly donned his armor rather than having hastily donned it.
 
 The fighter can also remove his armor in the same amount of time that it takes him to don his armor hastily. He can even remove sections of armor to escape grapples and similar grasping hindrances. Whenever the fighter attempts a combat maneuver check, an Escape Artist check, or a Strength check to escape from an effect that reduces or restricts his ability to move or act, he can reduce the armor bonus of any armor that he is wearing by up to half his armor's base armor bonus. If he does so, he gains a bonus on his check equal to the amount by which he reduced his armor's armor bonus. Multiple uses of this ability cannot reduce the armor's armor bonus below half its base armor bonus, and the reduction to the armor's armor bonus lasts until the fighter recovers and dons the removed pieces of armor.
 

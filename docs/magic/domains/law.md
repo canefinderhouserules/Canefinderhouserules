@@ -4,7 +4,7 @@
 
 ***Granted Powers**: You follow a strict and ordered code of laws, and in so doing, achieve enlightenment.*
 
-*Touch of Law (Sp): You can touch a willing creature as a standard action, infusing it with the power of divine order and allowing it to treat all attack rolls, skill checks, ability checks, and saving throws as if the natural d20 roll resulted in an 11, for 3 rounds. You can use this ability as a ranged touch attack, but it lasts 1 less round. You can use this ability as a move action, but it lasts 2 less rounds. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Touch of Law (Sp): You can touch a willing creature as a standard action (1 AP), infusing it with the power of divine order and allowing it to treat all attack rolls, skill checks, ability checks, and saving throws as if the natural d20 roll resulted in an 11, for 3 rounds. You can use this ability as a ranged touch attack, but it lasts 1 less round. You can use this ability as a move action (1 AP), but it lasts 2 less rounds. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *Staff of Order (Su): At 4th level, you can give a weapon touched the axiomatic special weapon quality for a number of rounds equal to your cleric level. You can use this ability once per day at 4th level, and an additional time per day for every four levels beyond 4th.*
 
@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the holy lance power of the Good domain or the staff of order power of the Law domain. Archons are a race of lawful good outsiders.*
 
-*Aura of Menace (Su): At 6th level, you can emit a 30-foot aura of menace as a standard action. Enemies in this aura take a –2 penalty to AC and on attacks and saves as long as they remain inside the aura. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.*
+*Aura of Menace (Su): At 6th level, you can emit a 30-foot aura of menace as a standard action (1 AP). Enemies in this aura take a –2 penalty to AC and on attacks and saves as long as they remain inside the aura. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.*
 
 ***Replacement Domain Spells**: 1st—divine favor, 3rd—prayer, 6th—planar ally (archon only).*
 
@@ -42,7 +42,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain. Inevitables are a race of lawful neutral outsiders.*
 
-*Command (Su): As a standard action, you can give a creature an emotionless yet undeniable order, as per the spell command. A Will save negates this effect. You cannot target a creature more than once per day with this ability. You can use this Ability as a Move action but it consumes 3 uses instead of 1. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Command (Su): As a standard action (1 AP), you can give a creature an emotionless yet undeniable order, as per the spell command. A Will save negates this effect. You cannot target a creature more than once per day with this ability. You can use this Ability as a Move action (1 AP) but it consumes 3 uses instead of 1. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 3rd—command undead, 5th—command (greater), 6th—planar binding (inevitables only).*
 
@@ -54,7 +54,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of law ability of the Law domain.*
 
-*Chastisement (Su): As a standard action, you can cast a strengthened spell against a creature that damaged you since your last turn. This spell must target the creature that damaged you, and is cast at +3 caster level. Area of effect spells cannot be used in conjunction with this ability, but other spells that target multiple creatures may be. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Chastisement (Su): As a standard action (1 AP), you can cast a strengthened spell against a creature that damaged you since your last turn. This spell must target the creature that damaged you, and is cast at +3 caster level. Area of effect spells cannot be used in conjunction with this ability, but other spells that target multiple creatures may be. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—castigate, 4th—rebuke, 5th—mark of justice.*
 
@@ -66,7 +66,7 @@
 
 ***Replacement Power**: The following granted power replaces the scythe of evil ability of the Evil domain or the staff of order ability of the Law domain.*
 
-*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 25 concentration check as an immediate action. If you succeed, you gain the benefits of a blessing of fervor spell for a number of rounds equal to 1/2 your cleric level. If you fail, this ability is expended with no effect. You can use this ability once at 4th level, plus an additional time for every 2 levels you are beyond 4th.*
+*Pain Is Power (Su): At 4th level, after taking damage from any source, you may attempt a DC 25 concentration check as an immediate action (1 AP of your next turn). If you succeed, you gain the benefits of a blessing of fervor spell for a number of rounds equal to 1/2 your cleric level. If you fail, this ability is expended with no effect. You can use this ability once at 4th level, plus an additional time for every 2 levels you are beyond 4th.*
 
 ***Replacement Domain Spells**: 1st—delay pain, 2nd—instrument of agony, 3rd—agonize, 5th—symbol of pain.*
 
@@ -78,7 +78,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain or the blast rune power of the Rune domain.*
 
-*Prohibition (Su): As a standard action, you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell forbid action). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1d6 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Prohibition (Su): As a standard action (1 AP), you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell forbid action). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1d6 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *If you have the spell rune domain power, you can attach a spell effect to the prohibition as if it were the spell rune domain ability; the spell takes effect if the creature performs the named action. This spell must be of at least 1 level lower than the highest-level cleric spell you can cast, and it must target one or more creatures. Regardless of the number of targets the spell can normally affect, it affects only the creature that triggers the rune. Attaching a spell in this way extends the duration of the prohibition by a number of rounds equal to the spell’s level, or until it is discharged.*
 
@@ -92,7 +92,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain.*
 
-*Touch of Loyalty (Su): As a standard action, you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Touch of Loyalty (Su): As a standard action (1 AP), you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—remove fear, 5th—greater command.*
 
@@ -128,7 +128,7 @@
 
 ***Replacement Power**: The following granted power replaces the staff of order power of the Law domain.*
 
-*Tyrannical Strike (Su): At 4th level, as an immediate action upon successfully landing a melee attack on an opponent, you can choose to forgo the damage (but not any other effects of the attack) to instead affect the creature you hit as per a greater command spell, with a caster level equal to your class level. You can use this ability once per day at 4th level, and an additional time per day for every 4 levels beyond 4th.*
+*Tyrannical Strike (Su): At 4th level, as an immediate action (1 AP of your next turn) upon successfully landing a melee attack on an opponent, you can choose to forgo the damage (but not any other effects of the attack) to instead affect the creature you hit as per a greater command spell, with a caster level equal to your class level. You can use this ability once per day at 4th level, and an additional time per day for every 4 levels beyond 4th.*
 
 ***Replacement Domain Spells**: 1st—command, 3rd— bestow curse, 7th—symbol of persuasion.*
 
@@ -138,7 +138,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain or the blast rune power of the Rune domain.*
 
-*Prohibition (Su)*: As a standard action, you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell [*forbid action*](../spells/forbid-action.md)). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Prohibition (Su)*: As a standard action (1 AP), you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell [*forbid action*](../spells/forbid-action.md)). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 If you have the spell rune domain power, you can attach a spell effect to the prohibition as if it were the spell rune domain ability; the spell takes effect if the creature performs the named action. This spell must be of at least 1 level lower than the highest-level cleric spell you can cast, and it must target one or more creatures. Regardless of the number of targets the spell can normally affect, it affects only the creature that triggers the rune. Attaching a spell in this way extends the duration of the prohibition by a number of rounds equal to the spell’s level, or until it is discharged.
 

@@ -4,7 +4,7 @@ Magic is among the most powerful methods to obscure and discover secrets, yet it
 
 When a spellcaster casts a spell modified by the Stylized Spell metamagic feat, she can reduce the DC of the Spellcraft or Knowledge (arcana) check to identify the spell by 5 to disguise the spell in one of the following ways.
 
-**Apparent Descriptor**: A stylized spell can appear to have a descriptor it lacks or appear to lack a descriptor it truly has. Changing an apparent energy descriptor changes the superficial manifestation of the energy in the spell effect but does not change the type of damage the spell deals. If the energy damages any creatures or objects, an observer who succeeds at a DC 15 Knowledge (arcana) or Perception check as a move action can identify the actual type of damage dealt based on sensory clues.
+**Apparent Descriptor**: A stylized spell can appear to have a descriptor it lacks or appear to lack a descriptor it truly has. Changing an apparent energy descriptor changes the superficial manifestation of the energy in the spell effect but does not change the type of damage the spell deals. If the energy damages any creatures or objects, an observer who succeeds at a DC 15 Knowledge (arcana) or Perception check as a move action (1 AP) can identify the actual type of damage dealt based on sensory clues.
 
 **Apparent School**: A stylized spell can appear to be of a different school or subschool when studied with *detect magic*.
 

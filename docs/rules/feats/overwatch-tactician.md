@@ -6,4 +6,4 @@ You quickly prepare to react to your enemies’ actions.
 
 **Prerequisites**: [Overwatch Style](overwatch-style.md), [Precise Shot](precise-shot.md), [Rapid Shot](rapid-shot.md), Weapon Focus with the chosen weapon.
 
-**Benefit**: While using [Overwatch Style](overwatch-style.md), you can ready two ranged attacks as a standard action, rather than a full-round action.
+**Benefit**: While using [Overwatch Style](overwatch-style.md), you can ready two ranged attacks as a standard action (1 AP), rather than a full-round action.

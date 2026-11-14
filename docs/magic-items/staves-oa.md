@@ -19,7 +19,7 @@ This hollow, silver staff is covered in intricate glyphs and flute-like keys, an
 - Telekinesis (2 charges)
 - Repulsion (3 charges)
 
-If the wielder of a vril staff is a spellcaster, as a standard action, she can expend 1 charge and sacrifice a prepared spell or unused spell slot of 1st level or higher to channel the power through the staff as a blast of raw magical energy known as vril.
+If the wielder of a vril staff is a spellcaster, as a standard action (1 AP), she can expend 1 charge and sacrifice a prepared spell or unused spell slot of 1st level or higher to channel the power through the staff as a blast of raw magical energy known as vril.
 
 This ray resolves as a ranged touch attack with a range of 30 feet, and the wielder chooses whether it deals damage or heals.
 

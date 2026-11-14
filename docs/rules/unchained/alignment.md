@@ -80,7 +80,7 @@ You spread chaos wherever you go.
 
 **Prerequisites**: 10 Hit Dice, chaotic neutral alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast lesser confusion as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. The duration of this effect on a failed save is 1d4 rounds. Lastly, you gain a +2 bonus on weapon and spell damage rolls against lawful creatures. This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast lesser confusion as a spell-like ability as a standard action (1 AP), with a caster level equal to your Hit Dice. The duration of this effect on a failed save is 1d4 rounds. Lastly, you gain a +2 bonus on weapon and spell damage rolls against lawful creatures. This is an alignment-based effect.
 
 **Residual**: If you have this feat but are no longer chaotic neutral, you continue to gain the +2 bonus on weapon and spell damage against lawful creatures.
 
@@ -120,7 +120,7 @@ It is your mission to do as much good as possible.
 
 **Prerequisites**: 10 Hit Dice, neutral good alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation and touch a creature as a standard action to remove a single condition or harmful effect from the list of paladin mercies (using your Hit Dice as your paladin level to determine which mercies you can use and their effects). Lastly, you gain a +2 bonus on weapon and spell damage rolls against evil creatures. This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation and touch a creature as a standard action (1 AP) to remove a single condition or harmful effect from the list of paladin mercies (using your Hit Dice as your paladin level to determine which mercies you can use and their effects). Lastly, you gain a +2 bonus on weapon and spell damage rolls against evil creatures. This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer neutral good, you continue to gain the +2 bonus on weapon and spell damage rolls against evil creatures.
 
@@ -130,7 +130,7 @@ Things would be better if everyone just did as you wished.
 
 **Prerequisites**: 10 Hit Dice, neutral evil alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation and touch a creature as a standard action to bestow a single condition or harmful effect from the list of antipaladin cruelties (using your Hit Dice as your antipaladin level to determine which cruelties you can use and their effects). Lastly, you gain a +2 bonus on weapon and spell damage rolls against good creatures. This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation and touch a creature as a standard action (1 AP) to bestow a single condition or harmful effect from the list of antipaladin cruelties (using your Hit Dice as your antipaladin level to determine which cruelties you can use and their effects). Lastly, you gain a +2 bonus on weapon and spell damage rolls against good creatures. This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer neutral evil, you continue to gain the +2 bonus on weapon and spell damage rolls against good creatures.
 
@@ -150,7 +150,7 @@ The harmony of law is your highest ideal.
 
 **Prerequisites**: 10 Hit Dice, lawful neutral alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast calm emotions as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. Lastly, you gain a +2 bonus on weapon and spell damage rolls against chaotic creatures. This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast calm emotions as a spell-like ability as a standard action (1 AP), with a caster level equal to your Hit Dice. Lastly, you gain a +2 bonus on weapon and spell damage rolls against chaotic creatures. This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer lawful neutral, you continue to gain the +2 bonus on weapon and spell damage rolls against chaotic creatures.
 
@@ -160,6 +160,6 @@ You must beat down the masses to have true order.
 
 **Prerequisites**: 10 Hit Dice, lawful evil alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast hold person as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. You gain a +2 bonus on weapon and spell damage rolls against chaotic and good creatures (or +4 if the creature is both chaotic and good). This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast hold person as a spell-like ability as a standard action (1 AP), with a caster level equal to your Hit Dice. You gain a +2 bonus on weapon and spell damage rolls against chaotic and good creatures (or +4 if the creature is both chaotic and good). This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer lawful evil, you continue to gain the +2 bonus on weapon and spell damage rolls against chaotic and good creatures (or a +4 bonus if the creature is both chaotic and good).

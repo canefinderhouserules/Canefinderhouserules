@@ -7,7 +7,7 @@ The following wondrous items occupy the head slot. Items listed here are new rel
 **Aura** moderate transmutation; **CL** 10th  
 **Slot** head; **Price** 26,000 gp; **Weight** 3 lbs.
 
-This oily bronze helm is fashioned in the shape of a frog’s head. Three times per day as a swift action, the helm fires an unerring tongue of force at a visible target within 20 feet.
+This oily bronze helm is fashioned in the shape of a frog’s head. Three times per day as a swift action (1 AP), the helm fires an unerring tongue of force at a visible target within 20 feet.
 
 If the target is an unattended object weighing 250 pounds or less, it is pulled 20 feet toward the wearer. If the target is a creature of the wearer’s size or smaller, the wearer may make a combat maneuver check as a free action to pull the target 20 feet toward him.
 
@@ -20,7 +20,7 @@ If the target is a creature larger than the wearer, an unattended object weighin
 **Aura** faint conjuration; **CL** 1st  
 **Slot** head; **Price** 2,000 gp; **Weight** 1 lb.
 
-This cloth hat is floppy and shapeless. It offers its wearer an unusual amount of protection against particularly devastating blows. Once per day when struck by a critical hit, the wearer can spend an immediate action to convert the bonus damage of the critical hit into nonlethal damage. The cap has no effect if the wearer is immune to nonlethal damage.
+This cloth hat is floppy and shapeless. It offers its wearer an unusual amount of protection against particularly devastating blows. Once per day when struck by a critical hit, the wearer can spend an immediate action (1 AP of your next turn) to convert the bonus damage of the critical hit into nonlethal damage. The cap has no effect if the wearer is immune to nonlethal damage.
 
 **Construction** Craft Wondrous Item, *shield*; **Cost** 1,000 gp
 
@@ -62,9 +62,9 @@ The circlet does not interfere with the wearer’s ability to see normally. If t
 
 This slim golden diadem, bejeweled with diamonds and sapphires, grants its wearer fluency in Celestial and allows her to *detect evil* at will and use *tongues* once per day, both on command. She also gains a +5 sacred bonus on Knowledge (planes) checks regarding outsiders with the good or evil subtypes, and any effect she creates with the good descriptor takes effect at +1 caster level.
 
-A *crown*, an *orb*, and a *scepter of heaven*—collectively known as a *regalia of heaven*—increase in power when used together. If the wearer of a *crown of heaven* wields an *orb* or *scepter of heaven*, effects she creates with the good descriptor gain an additional +1 caster level, and she gains a +1 sacred bonus to AC and on saves against attacks or effects created by evil creatures. She also radiates an *aura of menace* in a 20-foot radius. Any evil creature within this aura takes a –2 penalty on attack rolls, on saving throws, and to AC until it successfully hits the wearer of the regalia (DC 20 Will negates). A creature that saves is immune to this effect for 24 hours. If the aura is dispelled, the wearer can restore it as a standard action.
+A *crown*, an *orb*, and a *scepter of heaven*—collectively known as a *regalia of heaven*—increase in power when used together. If the wearer of a *crown of heaven* wields an *orb* or *scepter of heaven*, effects she creates with the good descriptor gain an additional +1 caster level, and she gains a +1 sacred bonus to AC and on saves against attacks or effects created by evil creatures. She also radiates an *aura of menace* in a 20-foot radius. Any evil creature within this aura takes a –2 penalty on attack rolls, on saving throws, and to AC until it successfully hits the wearer of the regalia (DC 20 Will negates). A creature that saves is immune to this effect for 24 hours. If the aura is dispelled, the wearer can restore it as a standard action (1 AP).
 
-If the crown is worn while the wearer is wielding both an *orb* and *scepter of heaven*, the crown’s caster level increases to 15th, effects the wearer creates with the good descriptor gain an additional +1 caster level increase, and her sacred bonus to AC and saves increases to +2. In addition, as a full-round action, the wearer can create an *aura of sanctity* for as long as she concentrates. This aura provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws against attacks made or effects created by evil creatures, as well as the benefits of a *magic circle against evil* and a *lesser globe of invulnerability*.
+If the crown is worn while the wearer is wielding both an *orb* and *scepter of heaven*, the crown’s caster level increases to 15th, effects the wearer creates with the good descriptor gain an additional +1 caster level increase, and her sacred bonus to AC and saves increases to +2. In addition, as a full-round action (3 AP), the wearer can create an *aura of sanctity* for as long as she concentrates. This aura provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws against attacks made or effects created by evil creatures, as well as the benefits of a *magic circle against evil* and a *lesser globe of invulnerability*.
 
 A *crown of heaven* bestows one negative level on any evil creature bearing it, which cannot be removed or overcome while carrying the crown. If the same creature carries an *orb* or *scepter of heaven*, it gains one additional negative level per object. An evil creature intentionally donning a *crown of heaven* gains an additional negative level and is affected as *bestow curse* (DC 17) immediately and every 24 hours that the crown is worn. A neutral character can attempt a DC 17 Fortitude save to avoid gaining these negative levels.
 
@@ -128,7 +128,7 @@ This simple cold iron circle has no markings or ornamentation upon it, and is al
 **Aura** strong divination; **CL** 15th  
 **Slot** head; **Price** 5,000 gp; **Weight** 3 lbs.
 
-This conical iron jingasa, or war hat, grants the wearer a +1 luck bonus to AC. Once per day when struck by a critical hit or sneak attack, the wearer can spend an immediate action to negate the critical hit or sneak attack (similar to the *fortification* armor special ability, but without requiring a roll). The damage is instead rolled normally.
+This conical iron jingasa, or war hat, grants the wearer a +1 luck bonus to AC. Once per day when struck by a critical hit or sneak attack, the wearer can spend an immediate action (1 AP of your next turn) to negate the critical hit or sneak attack (similar to the *fortification* armor special ability, but without requiring a roll). The damage is instead rolled normally.
 
 **Construction** Craft Wondrous Item, *divine favor*, *moment of prescience*; **Cost** 2,500 gp
 
@@ -146,7 +146,7 @@ This flowing wig of white ringlets grants its wearer an unmistakable impression 
 **Aura** faint enchantment; **CL** 3rd  
 **Slot** head; **Price** 30,000 gp; **Weight** —
 
-Laurel leaves crafted from fine gold decorate this circlet that imparts powers of persuasion and leadership. The wearer’s voice carries great authority and can inspire others to victory. As a swift action, the wearer can speak words of encouragement or advice to an ally within 30 feet. That ally gains a +2 morale bonus on attack rolls, saving throws, skill checks, and ability checks until the start of the wearer’s next turn. The wearer can use the laurel to grant this bonus to himself. A creature cannot gain this bonus more than once per day.
+Laurel leaves crafted from fine gold decorate this circlet that imparts powers of persuasion and leadership. The wearer’s voice carries great authority and can inspire others to victory. As a swift action (1 AP), the wearer can speak words of encouragement or advice to an ally within 30 feet. That ally gains a +2 morale bonus on attack rolls, saving throws, skill checks, and ability checks until the start of the wearer’s next turn. The wearer can use the laurel to grant this bonus to himself. A creature cannot gain this bonus more than once per day.
 
 **Construction** Craft Wondrous Item, *heroism*; **Cost** 15,000 gp
 
@@ -211,7 +211,7 @@ Each helm is modeled after a particular type of chromatic or metallic dragon. On
 **Aura** moderate transmutation; **CL** 11th  
 **Slot** head; **Price** 10,000 gp; **Weight** 1 lb.
 
-This intricate mask is made of gold-plated iron. Writhing snake tails radiate from a gemstone upon the brow, almost as if they were medusa-like hair. The mask grants a +4 bonus on all saving throws against visual effects, including gaze attacks and sight-based illusions. Once per day as a standard action, the wearer can cause the central gemstone to glow with pale green light, at which point she may target any one creature within 30 feet. The targeted creature must succeed at a DC 15 Fortitude save or be petrified 1 for 1 minute, as if by *flesh to stone*.
+This intricate mask is made of gold-plated iron. Writhing snake tails radiate from a gemstone upon the brow, almost as if they were medusa-like hair. The mask grants a +4 bonus on all saving throws against visual effects, including gaze attacks and sight-based illusions. Once per day as a standard action (1 AP), the wearer can cause the central gemstone to glow with pale green light, at which point she may target any one creature within 30 feet. The targeted creature must succeed at a DC 15 Fortitude save or be petrified 1 for 1 minute, as if by *flesh to stone*.
 
 **Construction** Craft Wondrous Item, *flesh to stone*, *resistance*; **Cost** 5,000 gp
 
@@ -247,7 +247,7 @@ This stylized bird mask consists of a pair of goggles attached to a ceramic beak
 **Aura** faint illusion; **CL** 5th  
 **Slot** head; **Price** 3,500 gp; **Weight** 1 lb.
 
-Preserved sections harvested from several different human faces cover this mask. When worn, the mask desaturates the wearer’s color, making him appear shadowy and granting a +5 competence bonus on Stealth checks. Once per day as a full-round action, the wearer can cause the mask’s features to take on the appearance of any creature of the wearer’s basic size and shape within 60 feet that he observes, allowing the wearer to adopt that creature’s appearance for 1 hour. This grants him a +10 bonus on Disguise checks made to appear as the creature. The mask also grants the wearer a +1 bonus on attack rolls and weapon damage rolls made against the creature he is disguised as, as the mask builds upon the wearer’s rage and jealousy of the target’s appearance.
+Preserved sections harvested from several different human faces cover this mask. When worn, the mask desaturates the wearer’s color, making him appear shadowy and granting a +5 competence bonus on Stealth checks. Once per day as a full-round action (3 AP), the wearer can cause the mask’s features to take on the appearance of any creature of the wearer’s basic size and shape within 60 feet that he observes, allowing the wearer to adopt that creature’s appearance for 1 hour. This grants him a +10 bonus on Disguise checks made to appear as the creature. The mask also grants the wearer a +1 bonus on attack rolls and weapon damage rolls made against the creature he is disguised as, as the mask builds upon the wearer’s rage and jealousy of the target’s appearance.
 
 **Construction** Craft Wondrous Item, *disguise self*, *rage*; **Cost** 1,750 gp
 
@@ -267,7 +267,7 @@ Time spent under the cap’s influence counts against the duration of the daze o
 **Aura** strong transmutation; **CL** 10th  
 **Slot** head; **Price** 35,000 gp; **Weight** 3 lbs.
 
-Two large horns jut from the sides of this iron helm, each of them carved with runes representing storms, thunder, and lightning. The runes give the wearer the ability to control the elements and bring forth a great storm. Once per day, the wearer can call upon the magic of the helm to call a thunderstorm, as if casting the *control weather* spell. Like that spell, it takes 10 minutes to call the weather and an additional 10 minutes for the thunderstorm to manifest. Once it does, the wearer can *call lighting* (as the spell) for 10 minutes or until the wearer dismisses the thunderstorm with a standard action.
+Two large horns jut from the sides of this iron helm, each of them carved with runes representing storms, thunder, and lightning. The runes give the wearer the ability to control the elements and bring forth a great storm. Once per day, the wearer can call upon the magic of the helm to call a thunderstorm, as if casting the *control weather* spell. Like that spell, it takes 10 minutes to call the weather and an additional 10 minutes for the thunderstorm to manifest. Once it does, the wearer can *call lighting* (as the spell) for 10 minutes or until the wearer dismisses the thunderstorm with a standard action (1 AP).
 
 **Construction** Craft Wondrous Item, *call lightning, control weather*; **Cost** 17,500 gp
 

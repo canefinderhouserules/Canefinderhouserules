@@ -71,7 +71,7 @@ The defender adds his armor check penalty as a bonus to the DC of opponents atte
 
 ##### Clear Mind (Ex)
 
-The stalwart defender may reroll a failed Will save. This power is used as an immediate action after the first save is attempted, but before the results are revealed by the GM. The stalwart defender must take the second result, even if it is worse. This power can only be used once per defensive stance.
+The stalwart defender may reroll a failed Will save. This power is used as an immediate action (1 AP of your next turn) after the first save is attempted, but before the results are revealed by the GM. The stalwart defender must take the second result, even if it is worse. This power can only be used once per defensive stance.
 
 ##### Fearless Defense (Ex)
 
@@ -91,7 +91,7 @@ The stalwart defender’s damage reduction from this class increases by 1/—. T
 
 ##### Intercept (Ex)
 
-Once a round as an immediate action, when a melee or ranged weapon would successfully strike an adjacent ally, the stalwart defender can choose to have the weapon strike him instead of the intended target. The attack automatically hits the stalwart defender, regardless his AC or any miss chance in effect, and he suffers the normal consequences of the attack.
+Once a round as an immediate action (1 AP of your next turn), when a melee or ranged weapon would successfully strike an adjacent ally, the stalwart defender can choose to have the weapon strike him instead of the intended target. The attack automatically hits the stalwart defender, regardless his AC or any miss chance in effect, and he suffers the normal consequences of the attack.
 
 ##### Internal Fortitude (Ex)
 
@@ -103,7 +103,7 @@ The stalwart defender automatically negates the additional damage of one success
 
 ##### Renewed Defense (Ex)
 
-As a standard action, the stalwart defender heals 1d8 points of damage + his Constitution modifier. For every two levels the stalwart defender has attained above 2nd, this healing increases by 1d8, to a maximum of 5d8 at 10th level. This power can be used only once per day and only while in a defensive stance.
+As a standard action (1 AP), the stalwart defender heals 1d8 points of damage + his Constitution modifier. For every two levels the stalwart defender has attained above 2nd, this healing increases by 1d8, to a maximum of 5d8 at 10th level. This power can be used only once per day and only while in a defensive stance.
 
 ##### Roused Defense (Ex)
 

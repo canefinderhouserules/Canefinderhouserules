@@ -18,7 +18,7 @@ These scarred and worn armbands have clearly seen rough use, and are constructed
 
 This simple pair of leather shooting bracers are designed to protect the wearer’s wrist from being snapped by bowstrings. They appear similar to a set of *bracers of archery*, but a wearer notices the difference as soon as she dons them.
 
-The wearer of these bracers gains damage reduction 5/ magic against ranged weapons, as well as a +1 deflection bonus against ranged attacks. In addition, once per day, as a swift action, the wearer can grant herself a +20 insight bonus on her next ranged attack roll before the end of her next turn.
+The wearer of these bracers gains damage reduction 5/ magic against ranged weapons, as well as a +1 deflection bonus against ranged attacks. In addition, once per day, as a swift action (1 AP), the wearer can grant herself a +20 insight bonus on her next ranged attack roll before the end of her next turn.
 
 **Construction** Craft Wondrous Item, Craft Magic Arms and Armor, *protection from arrows*, *true strike*; **Cost** 6,950 gp
 
@@ -36,7 +36,7 @@ This heavy gold band can be worn openly as a display of wealth or concealed bene
 **Aura** moderate conjuration; **CL** 9th  
 **Slot** wrists; **Price** 15,750 gp; **Weight** —
 
-This bracelet is adorned with seven coral beads carved in intricate designs. When a critical hit or sneak attack is confirmed on the wearer, as an immediate action before damage is rolled, he can choose to convert the critical hit into a normal hit. Each time the wearer negates a critical hit or sneak attack in this manner, one bead shatters. When all seven are used up, the bracelet itself crumbles into powder.
+This bracelet is adorned with seven coral beads carved in intricate designs. When a critical hit or sneak attack is confirmed on the wearer, as an immediate action (1 AP of your next turn) before damage is rolled, he can choose to convert the critical hit into a normal hit. Each time the wearer negates a critical hit or sneak attack in this manner, one bead shatters. When all seven are used up, the bracelet itself crumbles into powder.
 
 **Construction** Craft Wondrous Item, *breath of life*; **Cost** 7,875 gp
 
@@ -101,7 +101,7 @@ On command, these plain leather bracers can transform into a set of masterwork t
 **Aura** faint varied; **CL** 5th  
 **Slot** wrists; **Price** 8,000 gp; **Weight** —
 
-Tiny ornaments of gold hang from the links of a *charm bracelet*. In addition to 1d4+4 nonmagical charms, each bracelet carries one of each of the following magic charms. These magic charms can be activated with a command, producing the listed effect, but each charm can be only used once. After a charm is used, it dissolves into a thick vapor and dissipates. *Arming Sword*: When detached, this charm transforms into a masterwork heavy wooden shield and a masterwork longsword. They can either appear on the ground or within the hands of the creature that activated the charm, ready to use. These items last for 1 hour before turning into vapor. *Healthy Apple*: When detached, this charm becomes an apple that when eaten (a standard action that provokes attacks of opportunity) heals 2d8 hit points. In addition, if the creature eating the apple is afflicted with any poison or diseases, it can attempt a new saving throw against each such affliction. Each successful saving throw immediately ends the corresponding affliction. *Loving Heart*: Upon detaching this charm, the wearer can use *charm person* as a spell-like ability (as the spell, Will DC 11) any time before the end of her next turn. *Lucky Star*: When this charm is activated, it releases good luck in a 20-foot-radius burst centered on the wearer. The wearer and her allies within the burst gain a +2 luck bonus on ability checks, attack rolls, saving throws, and skill checks for 1 round. *Peaceful Dove*: Detaching this dove calms tempers within a 20-foot-radius burst centered on the wearer as though *calm*
+Tiny ornaments of gold hang from the links of a *charm bracelet*. In addition to 1d4+4 nonmagical charms, each bracelet carries one of each of the following magic charms. These magic charms can be activated with a command, producing the listed effect, but each charm can be only used once. After a charm is used, it dissolves into a thick vapor and dissipates. *Arming Sword*: When detached, this charm transforms into a masterwork heavy wooden shield and a masterwork longsword. They can either appear on the ground or within the hands of the creature that activated the charm, ready to use. These items last for 1 hour before turning into vapor. *Healthy Apple*: When detached, this charm becomes an apple that when eaten (a standard action (1 AP) that provokes attacks of opportunity) heals 2d8 hit points. In addition, if the creature eating the apple is afflicted with any poison or diseases, it can attempt a new saving throw against each such affliction. Each successful saving throw immediately ends the corresponding affliction. *Loving Heart*: Upon detaching this charm, the wearer can use *charm person* as a spell-like ability (as the spell, Will DC 11) any time before the end of her next turn. *Lucky Star*: When this charm is activated, it releases good luck in a 20-foot-radius burst centered on the wearer. The wearer and her allies within the burst gain a +2 luck bonus on ability checks, attack rolls, saving throws, and skill checks for 1 round. *Peaceful Dove*: Detaching this dove calms tempers within a 20-foot-radius burst centered on the wearer as though *calm*
 
 *emotions* (Will DC 13) had been cast. A creature affected by rage takes a –2 penalty on this saving throw.
 
@@ -132,7 +132,7 @@ Constructed of blackened steel, these vambraces augment the protection granted t
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** wrists; **Price** 7,200 gp; **Weight** 1 lb.
 
-These bracers are constructed from woven strands of bamboo. Three times per day, as a swift action, the wearer can stretch her arms beyond their limits, increasing her reach by 5 feet until the start of her next turn. Her weapon attack rolls take a –4 penalty, while unarmed strikes and natural weapons using the arms take no penalty.
+These bracers are constructed from woven strands of bamboo. Three times per day, as a swift action (1 AP), the wearer can stretch her arms beyond their limits, increasing her reach by 5 feet until the start of her next turn. Her weapon attack rolls take a –4 penalty, while unarmed strikes and natural weapons using the arms take no penalty.
 
 **Construction** Craft Wondrous Item, *alter self*; **Cost** 3,600 gp
 
@@ -190,7 +190,7 @@ Typically made of leather dyed blue and decorated with star-shaped studs, these 
 **Aura** faint abjuration; **CL** 5th  
 **Slot** wrists; **Price** 6,000 gp; **Weight** 3 lbs.
 
-These polished steel vambraces grant a +1 deflection bonus to AC. Once per day, as an immediate action, if the wearer has at least one hand free, when he would normally be hit with an attack from a ranged weapon, he may deflect it with the bracers, taking no damage from it, as if he had the Deflect Arrows feat.
+These polished steel vambraces grant a +1 deflection bonus to AC. Once per day, as an immediate action (1 AP of your next turn), if the wearer has at least one hand free, when he would normally be hit with an attack from a ranged weapon, he may deflect it with the bracers, taking no damage from it, as if he had the Deflect Arrows feat.
 
 **Construction** Craft Wondrous Item, *shield*; **Cost** 3,000 gp
 
@@ -216,7 +216,7 @@ These bracers are decorated with icons representing air, earth, fire, or water, 
 **Aura** moderate enchantment; **CL** 7th  
 **Slot** wrists; **Price** 8,000 gp; **Weight** 3 lbs.
 
-These vambraces change their appearance depending on who wears them. If the wearer is a cavalier, these vambraces display the symbol of his order. When unworn or in the hands of a non-cavalier, they appear to be an ordinary pair of steel vambraces. A cavalier wearing these vambraces is considered two class levels higher for purposes of determining the effects of his challenge class feature. Furthermore, once per day as a swift action, a cavalier with the tactician class feature can increase the area in which he grants teamwork feats. Before the end of his next turn, when the cavalier grants his allies a teamwork feat, he can grant it to all allies within 60 feet, though they must still be able to see and hear him.
+These vambraces change their appearance depending on who wears them. If the wearer is a cavalier, these vambraces display the symbol of his order. When unworn or in the hands of a non-cavalier, they appear to be an ordinary pair of steel vambraces. A cavalier wearing these vambraces is considered two class levels higher for purposes of determining the effects of his challenge class feature. Furthermore, once per day as a swift action (1 AP), a cavalier with the tactician class feature can increase the area in which he grants teamwork feats. Before the end of his next turn, when the cavalier grants his allies a teamwork feat, he can grant it to all allies within 60 feet, though they must still be able to see and hear him.
 
 **Construction** Craft Wondrous Item, *heroism*; **Cost** 4,000 gp
 

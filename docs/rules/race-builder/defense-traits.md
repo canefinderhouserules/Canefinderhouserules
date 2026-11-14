@@ -18,7 +18,7 @@ The following racial traits augment the defenses of members of the race.
 
 **Breeze-Kissed (4 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Plane of Air or fey type  
-*Benefit*: Members of this race are surrounded by swirling winds, gaining a +2 racial bonus to AC against nonmagical ranged attacks. They can calm or renew these winds as a swift action. Once per day, a member of this race can channel this wind into a single gust, making a bull rush or trip combat maneuver attempt against one creature within 30 feet. Doing so exhausts the user’s breeze-kissed ability for 24 hours. This is a supernatural ability.
+*Benefit*: Members of this race are surrounded by swirling winds, gaining a +2 racial bonus to AC against nonmagical ranged attacks. They can calm or renew these winds as a swift action (1 AP). Once per day, a member of this race can channel this wind into a single gust, making a bull rush or trip combat maneuver attempt against one creature within 30 feet. Doing so exhausts the user’s breeze-kissed ability for 24 hours. This is a supernatural ability.
 
 **Cat’s Luck (1 RP)**  
 *Prerequisite*: The race has at least a +2 racial bonus to Dexterity  

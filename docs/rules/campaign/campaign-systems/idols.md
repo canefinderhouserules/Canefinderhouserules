@@ -58,7 +58,7 @@ Three days per year are especially holy to idol-worshiping cults. Each month can
 
 An idol gains one of the following special abilities for every 5 points of Ego it has, and for every 10 points of Ego the idol has, it can select one additional special ability that it can access only on its holy days. Some abilities have another ability or a minimum Ego score as prerequisites. These abilities can be selected only once unless otherwise specified.
 
-Activating an ability or concentrating on an active ability is a standard action for the idol, unless otherwise stated in the ability's description. The caster level for these effects is equal to half the idol's Ego score.
+Activating an ability or concentrating on an active ability is a standard action (1 AP) for the idol, unless otherwise stated in the ability's description. The caster level for these effects is equal to half the idol's Ego score.
 
 **Animate (Su)**: This item can animate at will, as per the spell *animate objects*. The idol retains its mental ability scores as normal in this animated form.
 

@@ -7,7 +7,7 @@
 
 **Aura** strong evocation and transmutation; **CL** 19th; **Slot** none; **Price** 20,000 gp; **Weight** 400 lbs.
 
-An inactive apparatus appears as a large sealed iron barrel big enough to hold two Medium creatures. A DC 20 Perception check reveals a secret catch that opens a hatch at one end. Inside are 10 unlabeled levers and seating for two Medium or Small occupants. Operating a lever is a full-round action and no lever may be operated more than once per round; with two occupants the apparatus can perform up to two actions per round. It functions in water up to 5,000 feet deep and holds enough air for two occupants for 2d4+2 hours (twice as long for one).
+An inactive apparatus appears as a large sealed iron barrel big enough to hold two Medium creatures. A DC 20 Perception check reveals a secret catch that opens a hatch at one end. Inside are 10 unlabeled levers and seating for two Medium or Small occupants. Operating a lever is a full-round action (3 AP) and no lever may be operated more than once per round; with two occupants the apparatus can perform up to two actions per round. It functions in water up to 5,000 feet deep and holds enough air for two occupants for 2d4+2 hours (twice as long for one).
 
 | Lever | Function |
 |---|---|

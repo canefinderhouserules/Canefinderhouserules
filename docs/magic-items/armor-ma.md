@@ -58,6 +58,6 @@ This +2 improved shadow leather armor is attractive, yet eerie. It grants its we
 **Aura** strong abjuration; **CL** 13th  
 **Slot** armor; **Price** 22,350 gp; **Weight** 40 lbs.
 
-The burden of this weighty +1 light fortification breastplate gives it an armor check penalty of -5. As an immediate action, the wearer can negate the effects of a successful combat maneuver made to bull rush, overrun, or trip her. As a swift action, the wearer can expend one use of mythic power to gain immunity to ability damage, ability drain, critical hits, and sneak attacks. This effect lasts for 1 round per mythic tier the wearer possesses.
+The burden of this weighty +1 light fortification breastplate gives it an armor check penalty of -5. As an immediate action (1 AP of your next turn), the wearer can negate the effects of a successful combat maneuver made to bull rush, overrun, or trip her. As a swift action (1 AP), the wearer can expend one use of mythic power to gain immunity to ability damage, ability drain, critical hits, and sneak attacks. This effect lasts for 1 round per mythic tier the wearer possesses.
 
 **Requirements** Craft Magic Arms and Armor, Mythic Crafter, *iron body*, either *limited wish* or *miracle*; **Cost** 11,350 gp

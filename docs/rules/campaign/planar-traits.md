@@ -68,7 +68,7 @@ Four basic elements (air, earth, fire, and water) and two types of energy (posit
 
 **Air-Dominant**: Consisting mostly of open space, planes with this trait have just a few bits of floating stone or other solid matter. They usually have a breathable atmosphere, though such a plane may include regions of acidic or toxic gas.
 
-**Earth-Dominant**: Planes with this trait are mostly solid. Visitors who need to breathe run the risk of suffocation if they don't reach a cavern or other pocket of breathable air within the earth. Worse yet, individuals without the ability to burrow are entombed in the earth and must dig their way out (at a rate of 5 feet per full-round action spent digging).
+**Earth-Dominant**: Planes with this trait are mostly solid. Visitors who need to breathe run the risk of suffocation if they don't reach a cavern or other pocket of breathable air within the earth. Worse yet, individuals without the ability to burrow are entombed in the earth and must dig their way out (at a rate of 5 feet per full-round action (3 AP) spent digging).
 
 **Fire-Dominant**: Planes with this trait are composed of flames that continually burn without consuming their fuel source. Fire-dominant planes are extremely hostile to Material Plane creatures, and those without resistance or immunity to fire are soon immolated. Unprotected flammable materials catch fire almost immediately, and individuals wearing unprotected flammable clothing catch on fire. In addition, all individuals take 3d10 points of fire damage each round while on a fire-dominant plane. Creatures of the water subtype are extremely uncomfortable on fire-dominant planes, while those that are made of water take 6d10 points of fire damage from the plane each round, rather than 3d10.
 

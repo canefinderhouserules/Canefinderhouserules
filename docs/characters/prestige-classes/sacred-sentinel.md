@@ -51,7 +51,7 @@ A sacred sentinel has dedicated her life to serving as a protective shield of he
 
 #### Strategic Protection (Su)
 
-As a move action, a sacred sentinel can establish a magic aura that protects one or more of her allies. When she establishes her aura, she selects a number of allies up to her Charisma bonus that she can see and that are within 20 feet. As long as these allies remain within 30 feet of the sacred sentinel, they gain a +3 bonus to their CMDs and on Constitution checks to stabilize when dying. The bonus increases to +4 at 4th level, to +5 at 7th level, and to +6 at 10th level. The radius of this aura increases by 10 feet at each of these levels. The bonuses from strategic protection last until the beginning of the sacred sentinel's next turn.
+As a move action (1 AP), a sacred sentinel can establish a magic aura that protects one or more of her allies. When she establishes her aura, she selects a number of allies up to her Charisma bonus that she can see and that are within 20 feet. As long as these allies remain within 30 feet of the sacred sentinel, they gain a +3 bonus to their CMDs and on Constitution checks to stabilize when dying. The bonus increases to +4 at 4th level, to +5 at 7th level, and to +6 at 10th level. The radius of this aura increases by 10 feet at each of these levels. The bonuses from strategic protection last until the beginning of the sacred sentinel's next turn.
 
 #### Renewed Bonds (Ex)
 

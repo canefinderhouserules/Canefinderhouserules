@@ -74,7 +74,7 @@ This amulet allows the wearer to use the same spells many drow can cast innately
 **Aura** faint enchantment; **CL** 3rd  
 **Slot** none; **Price** 150 gp; **Weight** 1 lb.
 
-This magical alcoholic beverage was invented by gnome brewers engaged in a contest to produce the most inventive heady ale. It is most often drunk willingly, though some bartenders serve it to unsuspecting patrons as an expensive but ultimately harmless prank. The drinker finds any joke unbearably funny for 1 minute. Any Perform (comedy) check with a result of at least 10 + the drinker’s Will save modifier attempted within 30 feet causes the drinker to collapse in gales of laughter, unable to take any action but attempt to suppress the laughter as a full-round action (Will DC 15). If the drinker succeeds at the save, that laughing fit ends, but this success offers no protection against future jokes.
+This magical alcoholic beverage was invented by gnome brewers engaged in a contest to produce the most inventive heady ale. It is most often drunk willingly, though some bartenders serve it to unsuspecting patrons as an expensive but ultimately harmless prank. The drinker finds any joke unbearably funny for 1 minute. Any Perform (comedy) check with a result of at least 10 + the drinker’s Will save modifier attempted within 30 feet causes the drinker to collapse in gales of laughter, unable to take any action but attempt to suppress the laughter as a full-round action (3 AP) (Will DC 15). If the drinker succeeds at the save, that laughing fit ends, but this success offers no protection against future jokes.
 
 **Requirements** Craft Wondrous Item, *hideous laughter*; **Cost** 75 gp
 ### Chalice of Poison
@@ -90,7 +90,7 @@ This chalice can be made to a variety of specifications, but is usually elegantl
 **Aura** moderate enchantment; **CL** 7th  
 **Slot** none; **Price** 750 gp; **Weight** —
 
-This small stick of colored wax is encased in a wooden cylinder to allow for easier application to the lips. As a standard action, a dose of *charmer’s kiss* can be applied to the user’s lips; this dose lasts for 4 hours or until discharged. During that time, the user can deliver the lipstick to one target creature as a standard action (for willing targets) or a melee touch attack. The target of this attack must succeed at a DC 16 Will saving throw or be affected by *charm monster* for 7 minutes. A target of a creature type different from the wearer receives a +2 bonus on this saving throw. One stick of *charmer’s kiss* has enough wax for 3 doses. This is a mind-affecting charm and poison effect.
+This small stick of colored wax is encased in a wooden cylinder to allow for easier application to the lips. As a standard action (1 AP), a dose of *charmer’s kiss* can be applied to the user’s lips; this dose lasts for 4 hours or until discharged. During that time, the user can deliver the lipstick to one target creature as a standard action (1 AP) (for willing targets) or a melee touch attack. The target of this attack must succeed at a DC 16 Will saving throw or be affected by *charm monster* for 7 minutes. A target of a creature type different from the wearer receives a +2 bonus on this saving throw. One stick of *charmer’s kiss* has enough wax for 3 doses. This is a mind-affecting charm and poison effect.
 
 **Requirements** Craft Wondrous Item, *charm monster*; **Cost** 375 gp
 ### Elixir of Amnesia
@@ -106,7 +106,7 @@ This elixir, derived from ambergris and cytillesh fungus, is used by spies, secr
 **Aura** faint enchantment; **CL** 3rd  
 **Slot** none; **Price** 500 gp; **Weight** 1/2 lb.
 
-This minty-smelling salve is commonly used to render unsuspecting victims more susceptible to magical manipulation, typically to glean information from them in intricate revenge plots. When applied to the skin as a standard action—usually incorporated into a massage or cosmetic procedure—the salve creates a sense of mild euphoria that lasts for 10 minutes (Will DC 14 negates). The salve can be applied to an unwilling creature as a melee touch attack. A creature affected by the salve must attempt a concentration check to cast spells (DC = 15 + the spell’s level). Additionally, the victim rolls twice and takes the lower result on saving throws against divinations, enchantments, and illusions. This is a mind-affecting poison effect.
+This minty-smelling salve is commonly used to render unsuspecting victims more susceptible to magical manipulation, typically to glean information from them in intricate revenge plots. When applied to the skin as a standard action (1 AP)—usually incorporated into a massage or cosmetic procedure—the salve creates a sense of mild euphoria that lasts for 10 minutes (Will DC 14 negates). The salve can be applied to an unwilling creature as a melee touch attack. A creature affected by the salve must attempt a concentration check to cast spells (DC = 15 + the spell’s level). Additionally, the victim rolls twice and takes the lower result on saving throws against divinations, enchantments, and illusions. This is a mind-affecting poison effect.
 
 **Requirements** Craft Wondrous Item, *touch of idiocy*; **Cost** 250 gp
 ### Forger’s Friend
@@ -124,7 +124,7 @@ This leather satchel contains a forger’s kit—quills, ink, parchment, and sea
 
 These dark-gray leather gloves are extremely supple and are popular among thieves. They grant a +10 bonus on Sleight of Hand checks to take something from a creature unnoticed.
 
-Additionally, three times per day, when a creature notices the wearer’s Sleight of Hand check to take something from it, the wearer can cause the object to become invisible as an immediate action, allowing the wearer to disavow the theft.
+Additionally, three times per day, when a creature notices the wearer’s Sleight of Hand check to take something from it, the wearer can cause the object to become invisible as an immediate action (1 AP of your next turn), allowing the wearer to disavow the theft.
 
 **Requirements** Craft Wondrous Item, *invisibility*; **Cost** 2,700 gp
 ### Hat of Infinite Disguises
@@ -140,7 +140,7 @@ This large, elaborate, and colorful hat is festooned with trinkets from at least
 **Aura** moderate illusion; **CL** 10th  
 **Slot** none; **Price** 4,000 gp; **Weight** —
 
-Each end of this unassuming, 8-inch leather cord is adorned by a polished silver bead. A wand around which a *holdout wand wrap* has been wound and tied (a standard action) can be commanded to change its shape and appearance to assume the form of another object of a similar size and shape (such as a feather, a folded fan, or a spoon). The wand retains all its properties (including its weight) when so disguised but does not radiate magic. Only *true seeing* or similar magic reveals the true nature of a wand disguised by a *holdout wand wrap*. Whenever the disguised wand is activated, the *holdout wand wrap*’s effects are suppressed for 1 minute.
+Each end of this unassuming, 8-inch leather cord is adorned by a polished silver bead. A wand around which a *holdout wand wrap* has been wound and tied (a standard action (1 AP)) can be commanded to change its shape and appearance to assume the form of another object of a similar size and shape (such as a feather, a folded fan, or a spoon). The wand retains all its properties (including its weight) when so disguised but does not radiate magic. Only *true seeing* or similar magic reveals the true nature of a wand disguised by a *holdout wand wrap*. Whenever the disguised wand is activated, the *holdout wand wrap*’s effects are suppressed for 1 minute.
 
 **Requirements** Craft Wondrous Item, *disguise self*, *magic aura*; **Cost** 2,000 gp
 ### Dictation Pen
@@ -196,7 +196,7 @@ This silver, oval-shaped platter can hold up to 1 cubic foot worth of food. Once
 **Aura** moderate conjuration; **CL** 9th  
 **Slot** none; **Price** 25,000 gp; **Weight** 5 lbs.
 
-This twisted wooden rod resembles the horn of a unicorn. Three times per day, the user can touch the rod to a target as a standard action and heal it with *cure light wounds*. Once per day, the user can heal a creature in this way with *cure moderate wounds*. Once per day, the user can also cast *neutralize poison* on a target in this way.
+This twisted wooden rod resembles the horn of a unicorn. Three times per day, the user can touch the rod to a target as a standard action (1 AP) and heal it with *cure light wounds*. Once per day, the user can heal a creature in this way with *cure moderate wounds*. Once per day, the user can also cast *neutralize poison* on a target in this way.
 
 **Requirements** Craft Rod, *cure light wounds*, *cure moderate wounds*, *neutralize poison*, creator must be good-aligned; **Cost** 12,500 gp
 ### Seamless Skin
@@ -220,7 +220,7 @@ These eyeglasses are engraved with owl’s feathers. The wearer can understand t
 **Aura** strong illusion; **CL** 18th  
 **Slot** ring; **Price** 56,160 gp; **Weight** —
 
-This ring is shaped like a silver snake with an onyx in its mouth. Once per day, if the wearer would be reduced to 0 or fewer hit points but not dead, she is instead reduced to 0 hit points and subject to an effect similar to *mislead*. Her illusory double appears to die or to take on the dying condition in her place, as appropriate for the negated effect. The wearer cannot control the double. In addition, the wearer can touch the ring’s stone as a standard action once per day to use *dimension door* but only while the ring’s *mislead* effect is active.
+This ring is shaped like a silver snake with an onyx in its mouth. Once per day, if the wearer would be reduced to 0 or fewer hit points but not dead, she is instead reduced to 0 hit points and subject to an effect similar to *mislead*. Her illusory double appears to die or to take on the dying condition in her place, as appropriate for the negated effect. The wearer cannot control the double. In addition, the wearer can touch the ring’s stone as a standard action (1 AP) once per day to use *dimension door* but only while the ring’s *mislead* effect is active.
 
 **Requirements** Forge Ring, *death ward*, *dimension door*, *mislead*; **Cost** 28,080 gp
 ### Toastmaster’s Teacup
@@ -248,6 +248,6 @@ Three times per day, the wearer of the *triple eyes of vivid auras* can use *gre
 **Aura** moderate divination; **CL** 7th  
 **Slot** ring; **Price** 25,200 gp; **Weight** —
 
-This ring’s deep red stone hides the image of an eye within an eye or the symbol of a secret society, since many secret societies create these rings to protect their most important agents and leaders. By concentrating on the ring as a move action, the wearer learns whether he is being observed and whether it is by one or by more than one creature. Once per day, the wearer can use *locate creature* on command to target creatures that are currently observing him. In addition, the wearer can cast *detect scrying* once per day on command.
+This ring’s deep red stone hides the image of an eye within an eye or the symbol of a secret society, since many secret societies create these rings to protect their most important agents and leaders. By concentrating on the ring as a move action (1 AP), the wearer learns whether he is being observed and whether it is by one or by more than one creature. Once per day, the wearer can use *locate creature* on command to target creatures that are currently observing him. In addition, the wearer can cast *detect scrying* once per day on command.
 
 **Requirements** Forge Ring, *detect scrying*, *locate creature*; **Cost** 12,600 gp

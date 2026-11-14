@@ -16,7 +16,7 @@ This glue is stored as two flasks of syrupy liquid. When mixed together and allo
 
 **Price** 25 gp; **Weight** —
 
-This tiny dropper contains a liquid that speeds up the cure time of alchemical glue. Applying the accelerant is a standard action. Accelerated glue is tacky after 1 round and fully cured in 1 minute. The dropper contains 20 doses; each dose is sufficient to cure one small application of alchemical glue. The entire dropper must be used to cure a full square foot of glue.
+This tiny dropper contains a liquid that speeds up the cure time of alchemical glue. Applying the accelerant is a standard action (1 AP). Accelerated glue is tacky after 1 round and fully cured in 1 minute. The dropper contains 20 doses; each dose is sufficient to cure one small application of alchemical glue. The entire dropper must be used to cure a full square foot of glue.
 
 ### Armor Ointment
 
@@ -36,7 +36,7 @@ Blackfire clay only produces heat, never light, smoke, or odor. The clay emits w
 
 **Price** 10 gp; **Weight** 1 lb.
 
-This fist-sized alchemically treated animal bladder is tightly sealed around a small wooden grip. By giving the handle a sharp twist you break a tiny glass ampoule just inside the bladder, filling the bag with buoyant gas and causing it to swell into a 3-foot-diameter sphere. Inflating the balloon is a move action. Once filled, the balloon floats upward at a speed of 60 feet per round. The balloon can lift up to 20 pounds of weight as it rises, though carrying more than 10 pounds reduces its speed to 30 feet per round. Multiple balloons attached to a single object add their carrying capacities together when determining how much weight they can lift. If a balloon is not held or bound in place in some manner, it continues to rise until it reaches a height of 600 feet, or until 10 minutes have passed, after which it pops or deflates and is destroyed.
+This fist-sized alchemically treated animal bladder is tightly sealed around a small wooden grip. By giving the handle a sharp twist you break a tiny glass ampoule just inside the bladder, filling the bag with buoyant gas and causing it to swell into a 3-foot-diameter sphere. Inflating the balloon is a move action (1 AP). Once filled, the balloon floats upward at a speed of 60 feet per round. The balloon can lift up to 20 pounds of weight as it rises, though carrying more than 10 pounds reduces its speed to 30 feet per round. Multiple balloons attached to a single object add their carrying capacities together when determining how much weight they can lift. If a balloon is not held or bound in place in some manner, it continues to rise until it reaches a height of 600 feet, or until 10 minutes have passed, after which it pops or deflates and is destroyed.
 
 ### Candlerod
 
@@ -48,7 +48,7 @@ Similar to but weaker than a sunrod, this stick glows like a candle when struck 
 
 **Price** 15 gp; **Weight** 1 lb.
 
-This sticky light blue paste grows pleasantly cool to the touch whenever it is exposed to light. Spreading a dose on your face and hands takes a full-round action and grants you a +2 alchemical bonus on saves to resist hot weather. In areas of bright light this bonus increases to +4, while in areas of dim light or darkness it is negated. A dose of chill cream lasts for 1 hour after being applied. A newly crafted bottle of chill cream holds 5 doses.
+This sticky light blue paste grows pleasantly cool to the touch whenever it is exposed to light. Spreading a dose on your face and hands takes a full-round action (3 AP) and grants you a +2 alchemical bonus on saves to resist hot weather. In areas of bright light this bonus increases to +4, while in areas of dim light or darkness it is negated. A dose of chill cream lasts for 1 hour after being applied. A newly crafted bottle of chill cream holds 5 doses.
 
 ### Defoliant
 
@@ -84,7 +84,7 @@ This milky white liquid bubbles into a 1-foot-thick semisolid sheet of foam when
 
 **Price** Simple 2 gp, Average 10 gp, Good 25 gp, Superior 75 gp; **Weight** —
 
-Invisible ink is a staple of spies, rebels, and secret societies everywhere. Messages written with invisible ink only become visible under specific circumstances. Revealing the secret message with the proper triggering agent is a full-round action per page of text. A successful Craft (alchemy) check reveals the message without the proper trigger and takes 1 hour (the DC varies by ink quality).
+Invisible ink is a staple of spies, rebels, and secret societies everywhere. Messages written with invisible ink only become visible under specific circumstances. Revealing the secret message with the proper triggering agent is a full-round action (3 AP) per page of text. A successful Craft (alchemy) check reveals the message without the proper trigger and takes 1 hour (the DC varies by ink quality).
 
 *Simple*: This ink is keyed to a single, fairly common trigger, such as heat or vinegar (DC 20 to reveal without the trigger).
 
@@ -124,5 +124,5 @@ This collection of coarsely ground spices, seeds, musk, and alchemical reagents 
 
 **Price** 25 gp; **Weight** 1 lb.
 
-This fist-sized blue sponge absorbs up to 1 pint of water; squeezing the water out of the sponge filters and purifies it, making it safe for drinking, washing, and similar activities. Filling and emptying the sponge is a full-round action. The filtration is enough to remove mundane impurities and common diseases, but does nothing to protect against poisons, magic, and other exotic threats. Each sponge can cleanse 25 pints of water before deteriorating and becoming useless.
+This fist-sized blue sponge absorbs up to 1 pint of water; squeezing the water out of the sponge filters and purifies it, making it safe for drinking, washing, and similar activities. Filling and emptying the sponge is a full-round action (3 AP). The filtration is enough to remove mundane impurities and common diseases, but does nothing to protect against poisons, magic, and other exotic threats. Each sponge can cleanse 25 pints of water before deteriorating and becoming useless.
 

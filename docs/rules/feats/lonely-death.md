@@ -6,4 +6,4 @@ Whether because you were lost in wilderness or quarantined during a plague, you 
 
 **Prerequisites**: Duskwalker.
 
-**Benefit**: Twice per day, if you are reduced below 0 hit points, as an immediate action you can move up to twice your base speed. If this brings you into cover or concealment, you can also attempt a [Stealth](../skills/stealth.md) check to hide. At 11th level, you can use this feat two additional times per day.
+**Benefit**: Twice per day, if you are reduced below 0 hit points, as an immediate action (1 AP of your next turn) you can move up to twice your base speed. If this brings you into cover or concealment, you can also attempt a [Stealth](../skills/stealth.md) check to hide. At 11th level, you can use this feat two additional times per day.

@@ -72,7 +72,7 @@ You can become an animal.
 
 **Gift**: When you use shift form, you can instead take your animal form, as if using *polymorph*. Nonmagical clothing and gear don’t meld into your animal form. You don’t gain any ability score adjustments (other than those gained from other manifestations), but you do gain all of the other abilities granted by *polymorph* for your new form.
 
-**Stain**: While you’re shifted, you’re treated as a lycanthrope and shapeshifter for abilities, items, or spells that target lycanthropes or shapeshifters. In addition, when you shift involuntarily, you can’t shift back until you spend a full-round action and succeed at a DC 20 Constitution check. If you don’t succeed, you remain in your shifted form, automatically consuming a daily use of shifting each minute until you have used up all of your uses for the day.
+**Stain**: While you’re shifted, you’re treated as a lycanthrope and shapeshifter for abilities, items, or spells that target lycanthropes or shapeshifters. In addition, when you shift involuntarily, you can’t shift back until you spend a full-round action (3 AP) and succeed at a DC 20 Constitution check. If you don’t succeed, you remain in your shifted form, automatically consuming a daily use of shifting each minute until you have used up all of your uses for the day.
 
 ### Lunar Call
 
@@ -96,7 +96,7 @@ You can relate to the creatures that share your type.
 
 You have some control over your shift to a feral nature.
 
-**Gift**: You can attempt a DC 15 Constitution check as a full-round action to shift into a feral form, with a bonus equal to your manifestation level. This form grants you a bite natural attack that deals 1d6 points of piercing damage if you’re Medium (1d4 if Small). You retain the use of your abilities and gear. You can remain in this form for up to 1 minute, but can revert back as a move action at any time. If the duration expires, you can extend it by 1 minute by spending another use of this ability as a free action. You can use this ability a number of times per day equal to your manifestation level.
+**Gift**: You can attempt a DC 15 Constitution check as a full-round action (3 AP) to shift into a feral form, with a bonus equal to your manifestation level. This form grants you a bite natural attack that deals 1d6 points of piercing damage if you’re Medium (1d4 if Small). You retain the use of your abilities and gear. You can remain in this form for up to 1 minute, but can revert back as a move action (1 AP) at any time. If the duration expires, you can extend it by 1 minute by spending another use of this ability as a free action. You can use this ability a number of times per day equal to your manifestation level.
 
 **Stain**: When you are struck by a confirmed critical hit and aren’t in your shifted form, you must attempt a Will save (DC = 15 + your manifestation level). If you fail, you automatically shift form on your next turn without attempting a check. This consumes one use of that ability. You must also attempt this save if you take damage equal to or greater than your manifestation level while not in combat or before you’ve acted in combat.
 

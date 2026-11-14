@@ -43,7 +43,7 @@ These blood red crystal lenses fit snugly over the wearer’s eyes. The wearer g
 **Aura** moderate necromancy; **CL** 11th  
 **Slot** eyes; **Price** 30,000 gp; **Weight** —
 
-These glasses look like golden teeth holding a pair of green-tinted lenses. The wearer may use *eyebite* 11 times per day on command, affecting one target for each use of the spell. The wearer does not need to use these rounds consecutively, but each activation is a standard action (unlike the spell, in which targeting a new foe is a swift action). If the wearer removes the glasses, the *eyebite* effects immediately end.
+These glasses look like golden teeth holding a pair of green-tinted lenses. The wearer may use *eyebite* 11 times per day on command, affecting one target for each use of the spell. The wearer does not need to use these rounds consecutively, but each activation is a standard action (1 AP) (unlike the spell, in which targeting a new foe is a swift action (1 AP)). If the wearer removes the glasses, the *eyebite* effects immediately end.
 
 **Construction** Craft Wondrous Item, *eyebite*; **Cost** 15,000 gp
 

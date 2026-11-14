@@ -66,7 +66,7 @@ You can target a creature with more hit points than this spell could normally af
 
 **Source** *Advanced Player's Guide*
 
-The Dexterity penalty increases to -6. The target takes 1 point of bleed damage each round. If the target spends a move action scratching, increase its bleed damage each round by 1. If the bleeding is stopped, scratching causes it to start again at 1 point of bleed per round.
+The Dexterity penalty increases to -6. The target takes 1 point of bleed damage each round. If the target spends a move action (1 AP) scratching, increase its bleed damage each round by 1. If the bleeding is stopped, scratching causes it to start again at 1 point of bleed per round.
 
 ## Prayer
 
@@ -114,11 +114,11 @@ Mythic reduce person counters and dispels mythic enlarge person.
 
 ## Regenerate
 
-The casting time changes to 1 standard action and the target changes to 1 living creature or corpse touched. The spell removes the blinded, [dazzled](../../rules/appendices/conditions.md#dazzled), and [deafened](../../rules/appendices/conditions.md#deafened) conditions. The target gains regeneration equal to your tier (overcome by acid and fire) for 1 round per caster level. If the target was killed by amputation or decapitation (such as from a vorpal weapon) within the past 1 round, the spell regenerates lost body parts and brings the creature back to life (as breath of life), treating it as if it had negative hp equal to its Constitution score.
+The casting time changes to 1 standard action (1 AP) and the target changes to 1 living creature or corpse touched. The spell removes the blinded, [dazzled](../../rules/appendices/conditions.md#dazzled), and [deafened](../../rules/appendices/conditions.md#deafened) conditions. The target gains regeneration equal to your tier (overcome by acid and fire) for 1 round per caster level. If the target was killed by amputation or decapitation (such as from a vorpal weapon) within the past 1 round, the spell regenerates lost body parts and brings the creature back to life (as breath of life), treating it as if it had negative hp equal to its Constitution score.
 
 ## Repel Wood
 
-The casting time changes to 1 immediate action. You may cause one affected wooden object up to 5 inches in diameter to splinter and break.
+The casting time changes to 1 immediate action (1 AP of your next turn). You may cause one affected wooden object up to 5 inches in diameter to splinter and break.
 
 **Augmented (3rd)**: If you expend two uses of mythic power, the area changes to a 60-foot, cone-shaped emanation from you.
 
@@ -136,7 +136,7 @@ The damage dealt increases to 8d6 points on the 1st and 2nd rounds and 15d6 on t
 
 Creatures in the area or that enter the area must succeed at a Fortitude save or be [nauseated 1](../../rules/appendices/conditions.md#nauseated).
 
-**Augmented (8th)**: If you expend three uses of mythic power, once per round as a move action you may select one secured creature (one that succeeded at its Reflex save) or attached object (such as a tree or cottage) and force it to attempt a Fortitude save against the spell. The selected creature or object can weigh no more than 100 pounds per caster level. If it fails the save, it's pulled free and falls upward.
+**Augmented (8th)**: If you expend three uses of mythic power, once per round as a move action (1 AP) you may select one secured creature (one that succeeded at its Reflex save) or attached object (such as a tree or cottage) and force it to attempt a Fortitude save against the spell. The selected creature or object can weigh no more than 100 pounds per caster level. If it fails the save, it's pulled free and falls upward.
 
 ## Ricochet Shot
 

@@ -6,6 +6,6 @@ Your sniping is quick enough that you can fire a small volley unnoticed.
 
 **Prerequisites**: [Expert Sniper](expert-sniper.md), [Rapid Shot](rapid-shot.md), Stealth 6 ranks.
 
-**Benefit**: While hiding, you can make two ranged attacks at your highest attack bonus as a full-round action and then immediately use Stealth again. You take the normal penalties on your [Stealth](../skills/stealth.md) check to remain hidden. Effects that modify sniping apply to this full-round action. These attack rolls take a –2 penalty.
+**Benefit**: While hiding, you can make two ranged attacks at your highest attack bonus as a full-round action (3 AP) and then immediately use Stealth again. You take the normal penalties on your [Stealth](../skills/stealth.md) check to remain hidden. Effects that modify sniping apply to this full-round action (3 AP). These attack rolls take a –2 penalty.
 
 **Normal**: You can fire only once when sniping.

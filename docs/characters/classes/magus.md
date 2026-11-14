@@ -65,7 +65,7 @@ A magus can learn spells from a wizard’s spellbook, just as a wizard can from 
 
 At 1st level, the magus gains a reservoir of mystical arcane energy that he can draw upon to fuel his powers and enhance his weapon. This arcane pool has a number of points equal to 1/2 his magus level (minimum 1) + his Intelligence modifier. The pool refreshes once per day when the magus prepares his spells.
 
-At 1st level, a magus can expend 1 point from his arcane pool as a swift action to grant any weapon he is holding a +1 enhancement bonus for 1 minute. For every four levels beyond 1st, the weapon gains another +1 enhancement bonus, to a maximum of +5 at 17th level. These bonuses can be added to the weapon, stacking with existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with themselves.
+At 1st level, a magus can expend 1 point from his arcane pool as a swift action (1 AP) to grant any weapon he is holding a +1 enhancement bonus for 1 minute. For every four levels beyond 1st, the weapon gains another +1 enhancement bonus, to a maximum of +5 at 17th level. These bonuses can be added to the weapon, stacking with existing weapon enhancement to a maximum of +5. Multiple uses of this ability do not stack with themselves.
 
 At 5th level, these bonuses can be used to add any of the following weapon properties: dancing, flaming, flaming burst, frost, icy burst, keen, shock, shocking burst, speed, or vorpal. Adding these properties consumes an amount of bonus equal to the property’s base price modifier (see the magic weapon special ability tables). These properties are added to any the weapon already has, but duplicates do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. These bonuses and properties are decided when the arcane pool point is spent and cannot be changed until the next time the magus uses this ability. These bonuses do not function if the weapon is wielded by anyone other than the magus.
 
@@ -77,7 +77,10 @@ A magus can prepare a number of cantrips, or 0-level spells, each day, as noted 
 
 ### Spell Combat (Ex)
 
-At 1st level, a magus learns to cast spells and wield his weapons at the same time. This functions much like two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, the magus must have one hand free (even if the spell being cast does not have somatic components), while wielding a light or one-handed melee weapon in the other hand. As a full-round action, he can make all of his attacks with his melee weapon at a –2 penalty and can also cast any spell from the magus spell list with a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If he casts this spell defensively, he can decide to take an additional penalty on his attack rolls, up to his Intelligence bonus, and add the same amount as a circumstance bonus on his concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. A magus can choose to cast the spell first or make the weapon attacks first, but if he has more than one attack, he cannot cast the spell between weapon attacks.
+At 1st level, a magus learns to cast spells and wield his weapons at the same time. This functions much like two-weapon fighting, but the off-hand weapon is a spell that is being cast. To use this ability, the magus must have one hand free (even if the spell being cast does not have somatic components), while wielding a light or one-handed melee weapon in the other hand. As a full-round action (3 AP), he can make all of his attacks with his melee weapon at a –2 penalty and can also cast any spell from the magus spell list with a casting time of 1 standard action (1 AP) (any attack roll made as part of this spell also takes this penalty). If he casts this spell defensively, he can decide to take an additional penalty on his attack rolls, up to his Intelligence bonus, and add the same amount as a circumstance bonus on his concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. A magus can choose to cast the spell first or make the weapon attacks first, but if he has more than one attack, he cannot cast the spell between weapon attacks.
+
+??? tip apr "Action Points (optional rule)"
+    With spell combat, a damage spell costs 1 AP instead of 2, so you can cast it and make two weapon attacks in one turn. If the spell needs an attack roll, or you deliver it with spellstrike, that attack is made at –2 like the weapon attacks, and a third attack that turn takes –10, as with [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md).
 
 ### Spellstrike (Su)
 
@@ -89,7 +92,7 @@ As he gains levels, a magus learns arcane secrets tailored to his specific way o
 
 #### Arcane Accuracy (Su)
 
-The magus can expend 1 point from his arcane pool as a swift action to grant himself an insight bonus equal to his Intelligence bonus on all attack rolls until the end of his turn.
+The magus can expend 1 point from his arcane pool as a swift action (1 AP) to grant himself an insight bonus equal to his Intelligence bonus on all attack rolls until the end of his turn.
 
 #### Arcane Dealer (Su)
 
@@ -109,11 +112,11 @@ The magus can reroll any concentration check he has just made with a +4 bonus. H
 
 #### Critical Strike (Su)
 
-Whenever the magus scores a critical hit with a melee weapon, he may cast a spell with a range of touch as a swift action, then make a touch attack with that spell against the target of the critical hit as a free action. The magus can use this ability once per day. The magus must be at least 12th level before selecting this arcana.
+Whenever the magus scores a critical hit with a melee weapon, he may cast a spell with a range of touch as a swift action (1 AP), then make a touch attack with that spell against the target of the critical hit as a free action. The magus can use this ability once per day. The magus must be at least 12th level before selecting this arcana.
 
 #### Dispelling Strike (Su)
 
-The magus can spend 1 or more points from his arcane pool as a swift action to imbue his weapon with a special power. If the weapon strikes a creature within the next minute, that creature is the subject of a targeted dispel magic using the magus’s level as the caster level, except that this effect cannot dispel a spell of a level higher than the number of arcane pool points expended to activate this ability (treat higher-level spells as if they do not exist and apply the dispel attempt to the remaining spells with the highest caster level). Once the strike is made, the power dissipates, even if the dispel attempt is unsuccessful. The magus must be at least 9th level before selecting this arcana.
+The magus can spend 1 or more points from his arcane pool as a swift action (1 AP) to imbue his weapon with a special power. If the weapon strikes a creature within the next minute, that creature is the subject of a targeted dispel magic using the magus’s level as the caster level, except that this effect cannot dispel a spell of a level higher than the number of arcane pool points expended to activate this ability (treat higher-level spells as if they do not exist and apply the dispel attempt to the remaining spells with the highest caster level). Once the strike is made, the power dissipates, even if the dispel attempt is unsuccessful. The magus must be at least 9th level before selecting this arcana.
 
 #### Empowered Magic (Su)
 
@@ -125,7 +128,7 @@ The magus gains a familiar, using his magus level as his effective wizard level.
 
 #### Hasted Assault (Su)
 
-The magus can expend 1 point from his arcane pool as a swift action to move more quickly. This functions as haste, but only targets the magus and lasts for a number of rounds equal to the magus’s Intelligence bonus. The magus must be at least 9th level before selecting this magus arcana.
+The magus can expend 1 point from his arcane pool as a swift action (1 AP) to move more quickly. This functions as haste, but only targets the magus and lasts for a number of rounds equal to the magus’s Intelligence bonus. The magus must be at least 9th level before selecting this magus arcana.
 
 #### Maneuver Mastery (Ex)
 
@@ -137,7 +140,7 @@ The magus can cast one spell per day as if it were modified by the [Maximize Spe
 
 #### Pool Strike (Su)
 
-The magus can expend 1 point from his arcane pool as a standard action to charge his free hand with energy. He can make a melee touch attack with that hand as a free action as part of activating this ability. If the touch attack hits, it releases the charge and deals 2d6 points of energy damage (acid, cold, electricity, or fire, chosen when he spends the arcane pool point to activate this ability). He can use this ability with the spellstrike class feature. If he misses with this attack, he can hold the charge for up to 1 minute before it dissipates. At 6th level, and every three levels thereafter, the amount of damage dealt by this attack increases by 1d6.
+The magus can expend 1 point from his arcane pool as a standard action (1 AP) to charge his free hand with energy. He can make a melee touch attack with that hand as a free action as part of activating this ability. If the touch attack hits, it releases the charge and deals 2d6 points of energy damage (acid, cold, electricity, or fire, chosen when he spends the arcane pool point to activate this ability). He can use this ability with the spellstrike class feature. If he misses with this attack, he can hold the charge for up to 1 minute before it dissipates. At 6th level, and every three levels thereafter, the amount of damage dealt by this attack increases by 1d6.
 
 #### Quickened Magic (Su)
 
@@ -145,7 +148,7 @@ The magus can cast one spell per day as if it were modified by the [Quicken Spel
 
 #### Reflection (Su)
 
-The magus can sacrifice 1 or more points from his arcane pool as an immediate action to reflect a spell back at its caster. This functions as spell turning, but only if the targeted spell is of a level equal to or lower than the number of points expended. If insufficient points are expended, they instead grant an insight bonus on any saving throws allowed by the spell, equal to the number of points spent. The magus must be at least 15th level before selecting this magus arcana.
+The magus can sacrifice 1 or more points from his arcane pool as an immediate action (1 AP of your next turn) to reflect a spell back at its caster. This functions as spell turning, but only if the targeted spell is of a level equal to or lower than the number of points expended. If insufficient points are expended, they instead grant an insight bonus on any saving throws allowed by the spell, equal to the number of points spent. The magus must be at least 15th level before selecting this magus arcana.
 
 #### Silent Magic (Su)
 
@@ -161,7 +164,7 @@ Whenever the magus casts a spell of the polymorph subschool on himself, he can d
 
 #### Spell Shield (Su)
 
-The magus can expend a point from his arcane pool as an immediate action to grant himself a shield bonus to AC equal to his Intelligence bonus until the end of his next turn.
+The magus can expend a point from his arcane pool as an immediate action (1 AP of your next turn) to grant himself a shield bonus to AC equal to his Intelligence bonus until the end of his next turn.
 
 #### Still Magic (Su)
 
@@ -177,7 +180,7 @@ The magus can activate a wand or staff in place of casting a spell when using sp
 
 ### Spell Recall (Su)
 
-At 4th level, the magus learns to use his arcane pool to recall spells he has already cast. With a swift action he can recall any single magus spell that he has already prepared and cast that day by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The spell is prepared again, just as if it had not been cast.
+At 4th level, the magus learns to use his arcane pool to recall spells he has already cast. With a swift action (1 AP) he can recall any single magus spell that he has already prepared and cast that day by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The spell is prepared again, just as if it had not been cast.
 
 ### Bonus Feats
 
@@ -203,7 +206,7 @@ Starting at 10th level, a magus counts 1/2 his total magus level as his fighter 
 
 ### Improved Spell Recall (Su)
 
-At 11th level, the magus’s ability to recall spells using his arcane pool becomes more efficient. Whenever he recalls a spell with spell recall, he expends a number of points from his arcane pool equal to 1/2 the spell’s level (minimum 1). Furthermore, instead of recalling a used spell, as a swift action the magus can prepare a spell of the same level that he has in his spellbook. He does so by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The magus cannot apply metamagic feats to a spell prepared in this way. The magus does not need to reference his spellbook to prepare a spell in this way.
+At 11th level, the magus’s ability to recall spells using his arcane pool becomes more efficient. Whenever he recalls a spell with spell recall, he expends a number of points from his arcane pool equal to 1/2 the spell’s level (minimum 1). Furthermore, instead of recalling a used spell, as a swift action (1 AP) the magus can prepare a spell of the same level that he has in his spellbook. He does so by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The magus cannot apply metamagic feats to a spell prepared in this way. The magus does not need to reference his spellbook to prepare a spell in this way.
 
 ### Heavy Armor (Ex)
 

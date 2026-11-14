@@ -91,7 +91,7 @@ A drake companion has the following features.
 
 **Flight, Improved**: The drake's fly speed improves to 60 feet (average). To select improved flight, a drake must have glide and flight and its charge must be at least 11th level.
 
-**Glide**: The drake is able to take ranks in [Fly](../../rules/skills/fly.md). It can slow its fall to 60 feet per round, and it takes no falling damage as long as it can take actions and succeeds at a DC 15 Fly check each round. As it falls, it can take a move action to move up to 30 feet laterally in a straight line, or two move actions to move up to 60 feet laterally in a straight line. The drake can't gain height while gliding.
+**Glide**: The drake is able to take ranks in [Fly](../../rules/skills/fly.md). It can slow its fall to 60 feet per round, and it takes no falling damage as long as it can take actions and succeeds at a DC 15 Fly check each round. As it falls, it can take a move action (1 AP) to move up to 30 feet laterally in a straight line, or two move actions to move up to 60 feet laterally in a straight line. The drake can't gain height while gliding.
 
 **Intellect**: The drake's Intelligence score increases by 4.
 

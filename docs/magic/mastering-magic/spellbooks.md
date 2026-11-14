@@ -127,7 +127,7 @@ The steel cover of this slim journal has taken its fair share of abuse; acid sca
 
 **Preparation Ritual**
 
-**Alchemical Protection (Su)** The alchemical knowledge granted by this book protects you from poisons and alchemical items. Spend this boon’s effect as an immediate action when you make a saving throw against poison or an alchemical item but before rolling the saving throw. You gain a +4 bonus on that saving throw.
+**Alchemical Protection (Su)** The alchemical knowledge granted by this book protects you from poisons and alchemical items. Spend this boon’s effect as an immediate action (1 AP of your next turn) when you make a saving throw against poison or an alchemical item but before rolling the saving throw. You gain a +4 bonus on that saving throw.
 
 ## Book of the Grave
 
@@ -150,7 +150,7 @@ This tome reeks of decomposing flesh or some even fouler stench. Grave mold clin
 
 **Preparation Ritual**
 
-**Breath of the Grave (Su)** As a swift action, spend this boon’s effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells) or be [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on [Diplomacy](../../rules/skills/diplomacy.md) and [Stealth](../../rules/skills/stealth.md) checks until you prepare spells again.
+**Breath of the Grave (Su)** As a swift action (1 AP), spend this boon’s effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells) or be [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on [Diplomacy](../../rules/skills/diplomacy.md) and [Stealth](../../rules/skills/stealth.md) checks until you prepare spells again.
 
 ## Grimoire of Glittering Eyes
 
@@ -221,7 +221,7 @@ This medium-sized book has a creased spine and supple gray leather covers. The l
 
 **Preparation Ritual**
 
-**Eyes of the Diviner (Su)** You use a trick perfected by a master diviner to ferret out invisible creatures. Spend this boon’s effect as a swift action. You gain the effects of see invisibility for 1 round.
+**Eyes of the Diviner (Su)** You use a trick perfected by a master diviner to ferret out invisible creatures. Spend this boon’s effect as a swift action (1 AP). You gain the effects of see invisibility for 1 round.
 
 ## Journal of the Beast Within
 
@@ -402,7 +402,7 @@ These three well-made books are covered with runes of warding against outsiders 
 
 **Preparation Ritual**
 
-**Guardian Trick (Su)** With a quick phrase of power, you attempt to foil an attack. Spend this boon’s effect as an immediate action when an undead or outsider hits you with an attack. The attacking creature must reroll the attack, taking the second roll even if it is lower.
+**Guardian Trick (Su)** With a quick phrase of power, you attempt to foil an attack. Spend this boon’s effect as an immediate action (1 AP of your next turn) when an undead or outsider hits you with an attack. The attacking creature must reroll the attack, taking the second roll even if it is lower.
 
 ## Mysteries of Shadow
 
@@ -458,7 +458,7 @@ This trio of books is bound in leather as black as a starless night, clasped tog
 
 **Preparation Ritual**
 
-**Improved Eyes of the Diviner (Su)** This improved boon allows you to see invisible creatures. You can activate the boon’s effect as a swift action to gain the effects of see invisibility for up to 10 rounds. The rounds need not be consecutive, but you must spend a swift action each time you activate the boon’s effect. The boon’s effect is only spent when all 10 rounds of see invisibility are used up, or the next time you prepare wizard spells.
+**Improved Eyes of the Diviner (Su)** This improved boon allows you to see invisible creatures. You can activate the boon’s effect as a swift action (1 AP) to gain the effects of see invisibility for up to 10 rounds. The rounds need not be consecutive, but you must spend a swift action (1 AP) each time you activate the boon’s effect. The boon’s effect is only spent when all 10 rounds of see invisibility are used up, or the next time you prepare wizard spells.
 
 ## Manual of Binding
 
@@ -511,7 +511,7 @@ This quartet of books is held together by a shining silver strand wound around t
 
 **Preparation Ritual**
 
-**Defensive Boon (Su)** You throw up a quick burst of arcane energy that deflects an incoming spell attack. As an immediate action when targeted with a touch spell or spell-like ability, you can spend this boon’s effect to gain a +4 deflection bonus to AC against the triggering attack.
+**Defensive Boon (Su)** You throw up a quick burst of arcane energy that deflects an incoming spell attack. As an immediate action (1 AP of your next turn) when targeted with a touch spell or spell-like ability, you can spend this boon’s effect to gain a +4 deflection bonus to AC against the triggering attack.
 
 ## The Formulae of the Master Alchemist
 
@@ -534,7 +534,7 @@ These four cloth-bound books are neatly printed—as with a printing press or so
 
 **Preparation Ritual**
 
-**Spontaneous Bomb (Su)** When it comes to bombs, you have a special trick up your sleeve. Once per day as a swift action, you can apply a discovery that you qualify for (but do not already know) to a bomb. This does not allow you to stack non-stacking discoveries on a bomb.
+**Spontaneous Bomb (Su)** When it comes to bombs, you have a special trick up your sleeve. Once per day as a swift action (1 AP), you can apply a discovery that you qualify for (but do not already know) to a bomb. This does not allow you to stack non-stacking discoveries on a bomb.
 
 ## Mastery of Word and Thought
 
@@ -563,7 +563,7 @@ This massive tome is the size of four normal spellbooks, bound in leather as har
 
 **Preparation Ritual**
 
-**Curse of Names (Su)** When you are finished preparing your spells with this book, write the proper name of a single creature among the list of names in this book. As a swift action, when you are within 30 feet of the named creature, you can call out its name to bestow the curse of names on it. This spends the boon’s effect. The target creature takes a –2 penalty on all attack rolls, and a –4 penalty on all attack rolls against you, for 1 minute. When you activate this curse, the name is crossed out in the back of the book. That creature cannot be the target of a curse of names originating from you ever again. The penalties of two instances of curse of names on the same creature do not stack.
+**Curse of Names (Su)** When you are finished preparing your spells with this book, write the proper name of a single creature among the list of names in this book. As a swift action (1 AP), when you are within 30 feet of the named creature, you can call out its name to bestow the curse of names on it. This spends the boon’s effect. The target creature takes a –2 penalty on all attack rolls, and a –4 penalty on all attack rolls against you, for 1 minute. When you activate this curse, the name is crossed out in the back of the book. That creature cannot be the target of a curse of names originating from you ever again. The penalties of two instances of curse of names on the same creature do not stack.
 
 ## Apothecary's Remedies
 
@@ -579,7 +579,7 @@ The first three pages of this book contain pressed flowers and botanical diagram
 
 **Preparation Ritual**
 
-**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
+**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action (1 AP). If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
 
 ## Songs of the Northern Kings
 
@@ -597,7 +597,7 @@ This book's cover is made of scales that are warm to the touch.
 
 **Preparation Ritual**
 
-**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action to add the chosen spell to your list of bard or skald spells known for 1 round.
+**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action (1 AP) to add the chosen spell to your list of bard or skald spells known for 1 round.
 
 ## Journeyman's Manual
 
@@ -615,7 +615,7 @@ This book is bound in glittering silver bark, and its title is printed in golden
 
 **Preparation Ritual**
 
-**Avoiding Spell (Su)** Whenever you cast a transmutation spell, you can spend this boon as a swift action to gain a +1 dodge bonus to your AC for a number of rounds equal to the spell's level.
+**Avoiding Spell (Su)** Whenever you cast a transmutation spell, you can spend this boon as a swift action (1 AP) to gain a +1 dodge bonus to your AC for a number of rounds equal to the spell's level.
 
 ## Scorched Cookbook
 
@@ -633,7 +633,7 @@ This book's cover is illegibly scorched and the pages are wrinkled from water da
 
 **Preparation Ritual**
 
-**Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb's normal area of effect.
+**Blast Finesse (Su)** As an immediate action (1 AP of your next turn) when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb's normal area of effect.
 
 ## Swordsman's Analects
 
@@ -650,7 +650,7 @@ This book's worn leather cover is emblazoned with a winged sword with an eye at 
 
 **Preparation Ritual**
 
-**Shielding Weapon (Su)** Your spells infuse a weapon with protective magic. Spend this boon as an immediate action whenever you cast an abjuration spell. When you do, a weapon you wield grants you a shield bonus to your AC equal to 1 + 1/2 the spell's level for 1 round.
+**Shielding Weapon (Su)** Your spells infuse a weapon with protective magic. Spend this boon as an immediate action (1 AP of your next turn) whenever you cast an abjuration spell. When you do, a weapon you wield grants you a shield bonus to your AC equal to 1 + 1/2 the spell's level for 1 round.
 
 ## Guide's Analects
 
@@ -820,7 +820,7 @@ Golden arcane runes and sigils seem to change or move constantly across the gree
 
 **Preparation Ritual**
 
-**Change Magic (Su)** Even the nature of magic is susceptible to your powerful transmutations. You can spend this boon as a swift action to declare a non-transmutation spell you are casting to be "changed magic." This spell becomes a transmutation effect, and benefits from any abilities or feats that influence your transmutation spells and can be applied to the spell you cast (such as Spell Focus).
+**Change Magic (Su)** Even the nature of magic is susceptible to your powerful transmutations. You can spend this boon as a swift action (1 AP) to declare a non-transmutation spell you are casting to be "changed magic." This spell becomes a transmutation effect, and benefits from any abilities or feats that influence your transmutation spells and can be applied to the spell you cast (such as Spell Focus).
 
 ## Cold Irony
 

@@ -644,7 +644,7 @@ XP 6,400; NE outsider (evil, extraplanar)
 
 **Special Abilities**
 
-Dream Haunting (Su) The night hag can haunt a creature’s dreams from her home on the Ethereal Plane. A creature she haunts takes 1 point of Constitution damage when it awakes. Soul Broker (Su) As a standard action, the night hag can release one of her captured souls to fight at her side; see the night hag’s lost soul statistics, below.
+Dream Haunting (Su) The night hag can haunt a creature’s dreams from her home on the Ethereal Plane. A creature she haunts takes 1 point of Constitution damage when it awakes. Soul Broker (Su) As a standard action (1 AP), the night hag can release one of her captured souls to fight at her side; see the night hag’s lost soul statistics, below.
 
 **Night Hag’s Lost Soul — CR 9**
 

@@ -14,9 +14,9 @@ If you take a delayed action in the next round, before your regular turn comes u
 
 ## Ready
 
-The ready action lets you prepare to take an action later, after your turn is over but before your next one has begun. Readying is a standard action. It does not provoke an attack of opportunity (though the action that you ready might do so).
+The ready action lets you prepare to take an action later, after your turn is over but before your next one has begun. Readying is a standard action (1 AP). It does not provoke an attack of opportunity (though the action that you ready might do so).
 
-**Readying an Action**: You can ready a standard action, a move action, a swift action, or a free action. To do so, specify the action you will take and the conditions under which you will take it. Then, anytime before your next action, you may take the readied action in response to that condition. The action occurs just before the action that triggers it. If the triggered action is part of another character’s activities, you interrupt the other character. Assuming he is still capable of doing so, he continues his actions once you complete your readied action. Your initiative result changes. For the rest of the encounter, your initiative result is the count on which you took the readied action, and you act immediately ahead of the character whose action triggered your readied action.
+**Readying an Action**: You can ready a standard action (1 AP), a move action (1 AP), a swift action (1 AP), or a free action. To do so, specify the action you will take and the conditions under which you will take it. Then, anytime before your next action, you may take the readied action in response to that condition. The action occurs just before the action that triggers it. If the triggered action is part of another character’s activities, you interrupt the other character. Assuming he is still capable of doing so, he continues his actions once you complete your readied action. Your initiative result changes. For the rest of the encounter, your initiative result is the count on which you took the readied action, and you act immediately ahead of the character whose action triggered your readied action.
 
 You can take a 5-foot step as part of your readied action, but only if you don’t otherwise move any distance during the round.
 

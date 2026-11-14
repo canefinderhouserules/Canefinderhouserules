@@ -181,7 +181,7 @@ Witches’ familiars are often tied to their patrons, enhancing and reinforcing 
 
 **Shadow—Fearsome Shadows (Sp)**: Once per day, the familiar can use *cause fear* as a spell-like ability as long as it is in an area of normal or dim light, affecting a single living creature with a number of Hit Dice up to the familiar’s Intelligence score. Thus, creatures normally immune to *cause fear* because they have 6 or more Hit Dice may not be immune to the familiar’s *cause fear* spell-like ability.
 
-**Strength—Strength of Mind (Su)**: A number of times per day equal to its master’s Intelligence modifier (minimum once per day), the familiar can swap its Strength and Intelligence scores as a standard action. This effect lasts for a number of rounds equal to 1/2 the master’s caster level.
+**Strength—Strength of Mind (Su)**: A number of times per day equal to its master’s Intelligence modifier (minimum once per day), the familiar can swap its Strength and Intelligence scores as a standard action (1 AP). This effect lasts for a number of rounds equal to 1/2 the master’s caster level.
 
 **Transformation—Shapechanging Familiar (Su)**: The familiar is able to transform itself. For a number of minutes per day equal to its master’s witch level, the familiar can alter its appearance so that it looks like a different creature of its type and size. The duration doubles at 8th level, and triples at 16th level. This duration need not be consecutive, but it must be used in 1-minute increments. For instance, a cat familiar could appear as any Tiny animal. This change is purely cosmetic, and doesn’t alter the familiar’s statistics.
 

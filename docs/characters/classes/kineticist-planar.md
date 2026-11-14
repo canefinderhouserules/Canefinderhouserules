@@ -23,7 +23,7 @@ When you use kinetic healer, the target of the healing gains the benefits of [*p
 **Prerequisite** tiefling or Planar Infusion (an evil-aligned plane)  
 **Saving Throw** none; **SR** yes
 
-As a swift action before using a utility talent on a willing target, you can add the effects of [*conditional favor*](../../magic/spells/conditional-favor.md), except that it applies to any beneficial utility talent instead of to spells of certain schools.
+As a swift action (1 AP) before using a utility talent on a willing target, you can add the effects of [*conditional favor*](../../magic/spells/conditional-favor.md), except that it applies to any beneficial utility talent instead of to spells of certain schools.
 
 ### Shepherd of Souls
 

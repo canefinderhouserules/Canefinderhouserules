@@ -15,25 +15,25 @@ Outsiders and divine servants leave especially lasting impressions when they int
 
 **Implement School** transmutation; **Implement** vest; **Opposition School** divination
 
-**Parity (Su)**: While casting a transmutation spell that provides you an enhancement bonus to a single mental or physical attribute, you can expend 1 point of mental focus as an immediate action to divide the bonus the spell provides, granting half to the original attribute affected by the spell and half to a corresponding attribute. Strength corresponds with Intelligence, Dexterity corresponds with Wisdom, and Constitution corresponds with Charisma. You can also use this ability to divide an ability score bonus granted by a magic item, but you must immediately expend 1 point of mental focus each day when you allocate mental focus to your implements to maintain the parity, or else the bonus immediately reverts to normal.
+**Parity (Su)**: While casting a transmutation spell that provides you an enhancement bonus to a single mental or physical attribute, you can expend 1 point of mental focus as an immediate action (1 AP of your next turn) to divide the bonus the spell provides, granting half to the original attribute affected by the spell and half to a corresponding attribute. Strength corresponds with Intelligence, Dexterity corresponds with Wisdom, and Constitution corresponds with Charisma. You can also use this ability to divide an ability score bonus granted by a magic item, but you must immediately expend 1 point of mental focus each day when you allocate mental focus to your implements to maintain the parity, or else the bonus immediately reverts to normal.
 
 ## Ferryman's Slug
 
 **Implement School** necromancy; **Implement** coin; **Opposition School** evocation
 
-**Wake (Su)**: As a standard action, you can expend 1 point of mental focus to inspire fits of grief in a single creature within 30 feet that can see and hear you. You fill the target with haunting visions of the deaths of loved ones and the brevity of life, and for 1 minute, the target's emotional vulnerability grants you a circumstance bonus equal to your occultist level on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks attempted against the target. If this implement is used in combat, these emotions instead distract your target, leaving it [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per occultist level you have.
+**Wake (Su)**: As a standard action (1 AP), you can expend 1 point of mental focus to inspire fits of grief in a single creature within 30 feet that can see and hear you. You fill the target with haunting visions of the deaths of loved ones and the brevity of life, and for 1 minute, the target's emotional vulnerability grants you a circumstance bonus equal to your occultist level on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks attempted against the target. If this implement is used in combat, these emotions instead distract your target, leaving it [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per occultist level you have.
 
 ## Grandmother's Clasp
 
 **Implement School** abjuration; **Implement** brooch; **Opposition School** necromancy
 
-**Grandmother's Ward (Su)**: As a standard action, you can expend 3 points of mental focus to create a 5-foot-radius ward centered on you for 1 round per occultist level. This ward burns undead creatures, dealing an amount of damage equal to 1d4 + 1d4 per 2 occultist levels you have when the undead enter the ward and each round they begin their turns within this area of effect. The warded area moves with you and can be used only defensively. Any attempt to force the ward against an undead creature immediately ends the effect.
+**Grandmother's Ward (Su)**: As a standard action (2 AP), you can expend 3 points of mental focus to create a 5-foot-radius ward centered on you for 1 round per occultist level. This ward burns undead creatures, dealing an amount of damage equal to 1d4 + 1d4 per 2 occultist levels you have when the undead enter the ward and each round they begin their turns within this area of effect. The warded area moves with you and can be used only defensively. Any attempt to force the ward against an undead creature immediately ends the effect.
 
 ## Laughing Beast Icon
 
 **Implement School** evocation; **Implement** figurine; **Opposition School** abjuration
 
-**Footsteps of the Destroyer (Su)**: You can expend 1 point of mental focus as a move action to cause the ground in a 5-foot-radius burst centered on you to crumble and rupture, becoming difficult terrain. If you remain stationary, in subsequent rounds you can concentrate on this area as though concentrating on a spell by expending 1 additional mental focus each round. As long as you maintain concentration, the radius of the difficult terrain increases by 5 feet (maximum 30-foot radius) each round. You immediately cease concentrating if you move from your originating location. Difficult terrain created this way remains for 24 hours before returning to its original state.
+**Footsteps of the Destroyer (Su)**: You can expend 1 point of mental focus as a move action (1 AP) to cause the ground in a 5-foot-radius burst centered on you to crumble and rupture, becoming difficult terrain. If you remain stationary, in subsequent rounds you can concentrate on this area as though concentrating on a spell by expending 1 additional mental focus each round. As long as you maintain concentration, the radius of the difficult terrain increases by 5 feet (maximum 30-foot radius) each round. You immediately cease concentrating if you move from your originating location. Difficult terrain created this way remains for 24 hours before returning to its original state.
 
 ## Mask of the Secret-Eater
 
@@ -45,4 +45,4 @@ Outsiders and divine servants leave especially lasting impressions when they int
 
 **Implement School** enchantment; **Implement** necklace; **Opposition School** illusion
 
-**Forgotten (Sp)**: As a standard action, you can expend 3 points of mental focus to target a single creature within 30 feet using [*modify memory*](../../magic/spells/modify-memory.md). This ability can be used only to cause the target to forget the last 5 minutes of interaction with you.
+**Forgotten (Sp)**: As a standard action (1 AP), you can expend 3 points of mental focus to target a single creature within 30 feet using [*modify memory*](../../magic/spells/modify-memory.md). This ability can be used only to cause the target to forget the last 5 minutes of interaction with you.

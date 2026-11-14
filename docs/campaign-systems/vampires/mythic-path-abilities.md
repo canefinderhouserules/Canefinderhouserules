@@ -23,7 +23,7 @@ You can select these path abilities at any tier.
 
 ### Force of Will (Ex) \[1\]
 
-You can exert your will to force events to unfold as you would like. As an immediate action, you can expend one use of mythic power to reroll a d20 roll you just made, or force any non-mythic creature to reroll a d20 roll it just made. You can use this ability after the results are revealed. Whoever rerolls a roll must take the result of the second roll, even if it is lower.
+You can exert your will to force events to unfold as you would like. As an immediate action (1 AP of your next turn), you can expend one use of mythic power to reroll a d20 roll you just made, or force any non-mythic creature to reroll a d20 roll it just made. You can use this ability after the results are revealed. Whoever rerolls a roll must take the result of the second roll, even if it is lower.
 
 ### Mythic Saving Throws (Ex) \[2\]
 
@@ -35,7 +35,7 @@ You are restored to full hit points after 8 hours of rest so long as you aren’
 
 ### Surge (Su) \[1\]
 
-You can call upon your mythic power to overcome difficult challenges. You can expend one use of mythic power to increase any d20 roll you just made by rolling 1d6 and adding it to the result. Using this ability is an immediate action taken after the result of the original roll is revealed. This can change the outcome of the roll. The bonus die gained by using this ability increases to 1d8 at 4th tier, 1d10 at 7th tier, and 1d12 at 10th tier.
+You can call upon your mythic power to overcome difficult challenges. You can expend one use of mythic power to increase any d20 roll you just made by rolling 1d6 and adding it to the result. Using this ability is an immediate action (1 AP of your next turn) taken after the result of the original roll is revealed. This can change the outcome of the roll. The bonus die gained by using this ability increases to 1d8 at 4th tier, 1d10 at 7th tier, and 1d12 at 10th tier.
 
 ### Hard to Kill (Ex) \[1\]
 
@@ -185,17 +185,17 @@ Your power unnerves ordinary mortals. By expending one use of mythic power, you 
 
 ### Arcane Surge (Su) \[1\]
 
-As a swift action, you can expend one use of mythic power to cast any one arcane spell without expending a prepared spell or spell slot. If you prepare spells, this spell must be one you prepared today (even if you have already cast it); if you’re a spontaneous caster, this spell must be one of your spells known. If the spell requires a saving throw, any non-mythic creatures affected by the spell roll twice and take the lower result.
+As a swift action (1 AP), you can expend one use of mythic power to cast any one arcane spell without expending a prepared spell or spell slot. If you prepare spells, this spell must be one you prepared today (even if you have already cast it); if you’re a spontaneous caster, this spell must be one of your spells known. If the spell requires a saving throw, any non-mythic creatures affected by the spell roll twice and take the lower result.
 
 If you must attempt a caster level check for the spell to overcome a creature’s spell resistance, you can roll your caster level check twice (adding your tier to each) and take the higher result. You can’t add a metamagic feat to a spell you cast using this ability.
 
 ### Mage Strike (Su) \[2\]
 
-As a swift action, you can expend one use of mythic power to make one melee attack. This is in addition to any other attacks you make this round. If you expend one arcane spell that you’ve prepared or arcane spell slot that you have available, you gain a bonus on the attack roll equal to double the spell’s or slot’s level, and the attack deals an additional 2d6 points of energy damage (your choice of acid, cold, electricity, or fire) per level of the spell or slot expended. The normal damage from this attack bypasses all damage reduction, but the energy damage is still affected by resistances and immunities.
+As a swift action (1 AP), you can expend one use of mythic power to make one melee attack. This is in addition to any other attacks you make this round. If you expend one arcane spell that you’ve prepared or arcane spell slot that you have available, you gain a bonus on the attack roll equal to double the spell’s or slot’s level, and the attack deals an additional 2d6 points of energy damage (your choice of acid, cold, electricity, or fire) per level of the spell or slot expended. The normal damage from this attack bypasses all damage reduction, but the energy damage is still affected by resistances and immunities.
 
 ### Wild Arcana (Su) \[2\]
 
-As a swift action, you can expend two uses of mythic powers to cast any one arcane spell without expending a prepared spell or spell slot. The spell must be on one of your arcane class spell lists and must be of a level that you can cast with that arcane spellcasting class.
+As a swift action (1 AP), you can expend two uses of mythic powers to cast any one arcane spell without expending a prepared spell or spell slot. The spell must be on one of your arcane class spell lists and must be of a level that you can cast with that arcane spellcasting class.
 
 You don’t need to have the spell prepared, nor does it need to be on your list of spells known. When casting a spell in this way, you treat your caster level as 2 levels higher for the purpose of any effect dependent on level. You can apply any metamagic feats you know to this spell, but its total adjusted level can’t be greater than that of the highest-level arcane spell you can cast from that spellcasting class.
 
@@ -217,7 +217,7 @@ You automatically succeed at concentration checks to cast arcane spells. This ab
 
 ### Coupled Arcana (Ex) \[1\]
 
-Whenever you spend a standard action, move action, or swift action to activate an arcane school power, bardic performance, bloodline power, hex, or magus arcana, you can also activate an ability that uses mythic power as a free action. The mythic ability you activate must require the same action type as the other ability you activated or faster (a swift action is faster than a move action, and a move action is faster than a standard action).
+Whenever you spend a standard action (1 AP), move action (1 AP), or swift action (1 AP) to activate an arcane school power, bardic performance, bloodline power, hex, or magus arcana, you can also activate an ability that uses mythic power as a free action. The mythic ability you activate must require the same action type as the other ability you activated or faster (a swift action (1 AP) is faster than a move action, and a move action (1 AP) is faster than a standard action).
 
 ### Crafting Mastery (Ex) \[2\]
 
@@ -237,7 +237,7 @@ You are connected to one of the elemental planes. Select one elemental plane: ai
 
 ### Enduring Armor (Su) \[1\]
 
-You are protected by armor made of force. This armor grants you an armor bonus to AC equal to 3 + your tier. This ability is an abjuration effect with a spell level equal to your tier. If this armor is dispelled or otherwise ended, you can reactivate it as a swift action.
+You are protected by armor made of force. This armor grants you an armor bonus to AC equal to 3 + your tier. This ability is an abjuration effect with a spell level equal to your tier. If this armor is dispelled or otherwise ended, you can reactivate it as a swift action (1 AP).
 
 ### Energy Conversion (Su) \[2\]
 
@@ -253,7 +253,7 @@ Your ability to recall information is astounding. When you take 10 on any Intell
 
 ### Flexible Counterspell (Su) \[1\]
 
-Your mythic power enhances your ability to counter others’ spells. As an immediate action, you can expend one use of mythic power to attempt to counter a spell. This ability otherwise works like readying an action to counter a spell, except instead of using the exact spell or *dispel magic*, you can instead expend a spell or spell slot of a level equal to or higher than the target spell.
+Your mythic power enhances your ability to counter others’ spells. As an immediate action (1 AP of your next turn), you can expend one use of mythic power to attempt to counter a spell. This ability otherwise works like readying an action to counter a spell, except instead of using the exact spell or *dispel magic*, you can instead expend a spell or spell slot of a level equal to or higher than the target spell.
 
 ### Flexible School (Ex) \[1\]
 
@@ -293,7 +293,7 @@ You have discovered the secret to preparing spells without having to refer to ou
 
 ### Rapid Preparation (Su) \[1\]
 
-You can prepare a spell in an open spell slot in only 1 minute instead of the normal 15 minutes. You can prepare spells in all of your available spell slots in only 15 minutes instead of the normal 1 hour. As a swift action, you can expend one use of mythic power to instantly prepare one spell in an open spell slot.
+You can prepare a spell in an open spell slot in only 1 minute instead of the normal 15 minutes. You can prepare spells in all of your available spell slots in only 15 minutes instead of the normal 1 hour. As a swift action (1 AP), you can expend one use of mythic power to instantly prepare one spell in an open spell slot.
 
 ### Remixer (Ex) \[1\]
 
@@ -307,7 +307,7 @@ Your spells and effects become more difficult to identify and dispel. Add your t
 
 ### Sensory Link (Su) \[1\]
 
-As a standard action, you can see and hear through your familiar’s eyes and ears. While using this ability, you can’t see or hear using your normal senses. You can speak through your familiar using any language you know, even if the familiar can’t normally speak. You may end the link and restore your own senses as a standard action. While linked, you can expend one use of mythic power to cast a spell and have it originate from your familiar instead of you. You must have a familiar to select this ability.
+As a standard action (1 AP), you can see and hear through your familiar’s eyes and ears. While using this ability, you can’t see or hear using your normal senses. You can speak through your familiar using any language you know, even if the familiar can’t normally speak. You may end the link and restore your own senses as a standard action (1 AP). While linked, you can expend one use of mythic power to cast a spell and have it originate from your familiar instead of you. You must have a familiar to select this ability.
 
 ### Shapeshifting Mastery (Ex) \[2\]
 
@@ -315,7 +315,7 @@ Your ability to magically adopt other forms is unparalleled, and you can expertl
 
 ### Shifting Mastery (Su) \[1\]
 
-Whenever you cast or use an arcane *polymorph* spell, you can grant the target the ability to expend 1 minute of the spell’s duration to assume another form allowed by the spell. Changing form in this way is a standard action. The target can assume another form as often as it likes for the duration of the spell. If you’re the target, you can change forms as a swift action rather than a standard action. If you expend one use of mythic power when you cast the spell, you can also grant the target the ability to assume the shape of one specific individual that the spell could duplicate (for example, the target could use *polymorph* to assume the form of a specific animal, humanoid, or elemental, but not a dragon because dragon forms aren’t allowed by *polymorph*). This specific creature must be known to you, but it doesn’t have to be known by the target. The target gains a +10 bonus on Disguise checks to pass as that individual, but Bluff checks or knowledge of the individual might be required to make the disguise truly convincing.
+Whenever you cast or use an arcane *polymorph* spell, you can grant the target the ability to expend 1 minute of the spell’s duration to assume another form allowed by the spell. Changing form in this way is a standard action (1 AP). The target can assume another form as often as it likes for the duration of the spell. If you’re the target, you can change forms as a swift action (1 AP) rather than a standard action. If you expend one use of mythic power when you cast the spell, you can also grant the target the ability to assume the shape of one specific individual that the spell could duplicate (for example, the target could use *polymorph* to assume the form of a specific animal, humanoid, or elemental, but not a dragon because dragon forms aren’t allowed by *polymorph*). This specific creature must be known to you, but it doesn’t have to be known by the target. The target gains a +10 bonus on Disguise checks to pass as that individual, but Bluff checks or knowledge of the individual might be required to make the disguise truly convincing.
 
 ### Spellbane Counterstrike (Su) \[1\]
 
@@ -325,7 +325,7 @@ If the target’s casting would have provoked an attack of opportunity, you can 
 
 ### Telekinetic Master (Su) \[1\]
 
-You can use *mage hand* or open/close at will as a standard action, and you can affect unattended magical objects with *mage hand*. The weight limit for these abilities increases by 5 pounds per tier.
+You can use *mage hand* or open/close at will as a standard action (1 AP), and you can affect unattended magical objects with *mage hand*. The weight limit for these abilities increases by 5 pounds per tier.
 
 Treat your caster level as 2 levels higher when casting *levitate*, *telekinesis*, and similar spells.
 
@@ -337,7 +337,7 @@ When casting a melee touch spell, you can expend one use of mythic power to thro
 
 Your familiar is able to assume the shape of a single masterwork amulet, ring, staff, *wand*, or weapon. While it’s in this form, treat the familiar as an intelligent magic item with the familiar‘s mental ability scores but no magical abilities. You can add magical enhancements, intelligent item powers, and intelligent item senses as if you possessed the appropriate crafting feat. (For example, if your familiar transforms into a staff, you could craft it into an intelligent staff of fire as if you possessed the Craft Staff feat.) You must still pay for enhancements as normal.
 
-As a standard action, the familiar can transform into and out of its item form and does so in such a way that you can have it immediately equipped when the transformation is complete. While in item form, your familiar retains its original hit points, but gains the hardness of the item it transforms into. If your familiar takes enough points of damage in item form to become broken, it automatically reverts to its familiar form and cannot change to item form again until it is healed to its maximum hit point total. You must have a familiar to select this path ability.
+As a standard action (1 AP), the familiar can transform into and out of its item form and does so in such a way that you can have it immediately equipped when the transformation is complete. While in item form, your familiar retains its original hit points, but gains the hardness of the item it transforms into. If your familiar takes enough points of damage in item form to become broken, it automatically reverts to its familiar form and cannot change to item form again until it is healed to its maximum hit point total. You must have a familiar to select this path ability.
 
 ## 3rd-Tier Archmage Path Abilities
 
@@ -345,7 +345,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Arcane Metamastery (Su) \[1\]
 
-As a swift action, you can expend one use of mythic power and pick any one metamagic feat you know that increases the slot level of the spell by 0 or 1 levels. For the next 10 rounds, you can apply this metamagic feat to any arcane spell you cast without increasing the spell slot used or casting time.
+As a swift action (1 AP), you can expend one use of mythic power and pick any one metamagic feat you know that increases the slot level of the spell by 0 or 1 levels. For the next 10 rounds, you can apply this metamagic feat to any arcane spell you cast without increasing the spell slot used or casting time.
 
 You can also use this ability on an arcane spell you cast from a *scroll*, staff, or *wand*. You can’t have more than one use of this ability active at a time. If you use this ability again, any previous use immediately ends (though this doesn’t affect spells already cast). You can select this ability more than once. Each time you select this ability, the maximum spell slot level increase of the metamagic feat you can choose goes up by 1, to a maximum of 4.
 
@@ -355,7 +355,7 @@ Choose one of your arcane spellcasting classes. You gain four bonus 1st-level ar
 
 ### Bloodline Immunity (Su) \[1\]
 
-The intense power of your sorcerer blood makes you immune to the weapons you rely on. You don’t take damage or suffer harmful effects from spells on your bloodline spell list, even ones you aren’t of a high enough level to cast. If you’re targeted by any of these spells, as an immediate action you can expend one use of mythic power to turn the spell back upon the original caster as if using *spell turning*.
+The intense power of your sorcerer blood makes you immune to the weapons you rely on. You don’t take damage or suffer harmful effects from spells on your bloodline spell list, even ones you aren’t of a high enough level to cast. If you’re targeted by any of these spells, as an immediate action (1 AP of your next turn) you can expend one use of mythic power to turn the spell back upon the original caster as if using *spell turning*.
 
 Beneficial effects of spells on your bloodline spell list affect you normally. You must have the bloodline class feature to select this ability.
 
@@ -365,7 +365,7 @@ When you cast an arcane spell, you can ignore one component of the spell: focus,
 
 ### Eldritch Flight (Sp, Su) \[1\]
 
-You gain a bonus on Fly checks equal to your tier. As a standard action, you can expend one use of mythic power to fly (as the fly spell) for a number of minutes equal to your tier. At 6th tier, you instead gain a supernatural fly speed of 60 feet (40 feet if you wear medium or heavy armor, or are carrying a medium or heavy load).
+You gain a bonus on Fly checks equal to your tier. As a standard action (1 AP), you can expend one use of mythic power to fly (as the fly spell) for a number of minutes equal to your tier. At 6th tier, you instead gain a supernatural fly speed of 60 feet (40 feet if you wear medium or heavy armor, or are carrying a medium or heavy load).
 
 ### Infectious Spell (Su) \[1\]
 
@@ -379,7 +379,7 @@ You can alter your appearance at will as if using *alter self*. You can expend o
 
 ### Mirror Dodge (Su) \[2\]
 
-When hit by a melee or ranged attack, you can expend one use of mythic power as an immediate action to replace yourself with an illusory duplicate and teleport to any open square within 30 feet of your current position. You take no damage from this attack, which instead destroys your illusory duplicate (similar to *mirror image*). Using this ability requires a line of effect to the square into which you teleport.
+When hit by a melee or ranged attack, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to replace yourself with an illusory duplicate and teleport to any open square within 30 feet of your current position. You take no damage from this attack, which instead destroys your illusory duplicate (similar to *mirror image*). Using this ability requires a line of effect to the square into which you teleport.
 
 ### Mythic Spellpower (Sp) \[1\]
 
@@ -387,11 +387,11 @@ You have a pool of magical power you can draw upon for casting mythic spells. Up
 
 ### Reverse Scrying (Su) \[1\]
 
-When you notice a *scrying* sensor created by a *scrying* magical effect, you can expend one use of mythic power as a standard action to use that sensor to observe its creator. If the initial *scrying* effect allows the target a saving throw, the sensor’s creator can attempt a saving throw with a DC equal to 10 plus double your tier to realize you are attempting to observe it and block this attempt. If you act strangely once you notice the sensor, its creator might realize you’re aware of it; at the GM’s discretion, you may need to attempt a Bluff check against the creator’s Sense Motive. If your reverse *scrying* goes unnoticed, you can expend an additional use of mythic power to control what the caster perceives, as if you had cast *false vision* with a duration of concentration and a caster level equal to double your tier.
+When you notice a *scrying* sensor created by a *scrying* magical effect, you can expend one use of mythic power as a standard action (1 AP) to use that sensor to observe its creator. If the initial *scrying* effect allows the target a saving throw, the sensor’s creator can attempt a saving throw with a DC equal to 10 plus double your tier to realize you are attempting to observe it and block this attempt. If you act strangely once you notice the sensor, its creator might realize you’re aware of it; at the GM’s discretion, you may need to attempt a Bluff check against the creator’s Sense Motive. If your reverse *scrying* goes unnoticed, you can expend an additional use of mythic power to control what the caster perceives, as if you had cast *false vision* with a duration of concentration and a caster level equal to double your tier.
 
 ### Speedy Summons (Su) \[69\]
 
-When you cast a *summon monster* spell, the casting time is 1 standard action instead of 1 round. If you expend one use of mythic power, the casting time becomes 1 swift action. If you’re a summoner, as a full-round action you can expend one use of mythic power to summon your eidolon.
+When you cast a *summon monster* spell, the casting time is 1 standard action (1 AP) instead of 1 round. If you expend one use of mythic power, the casting time becomes 1 swift action (1 AP). If you’re a summoner, as a full-round action (3 AP) you can expend one use of mythic power to summon your eidolon.
 
 ### Spell Sieve (Sp) \[1\]
 
@@ -399,7 +399,7 @@ If you successfully counterspell an arcane spell that is on your spell list and 
 
 ### Tangible Illusion (Su) \[1\]
 
-You can temporarily transform an illusory object into a real one. As a full-round action, you can expend one use of mythic power to temporarily transform a single object created by an illusion spell that you cast into a physical, non-magical version of that object. The object lasts for 10 minutes per tier, after which it reverts to being an illusion (or vanishes, if the duration of the original illusion has expired). During that time, the illusion gains all the physical properties of the depicted illusory object. You must touch the illusion to use this ability, and the object can be no larger than 5 cubic feet per tier. For example, if you create an illusory stone door, you transform it into an actual non-magical stone door.
+You can temporarily transform an illusory object into a real one. As a full-round action (3 AP), you can expend one use of mythic power to temporarily transform a single object created by an illusion spell that you cast into a physical, non-magical version of that object. The object lasts for 10 minutes per tier, after which it reverts to being an illusion (or vanishes, if the duration of the original illusion has expired). During that time, the illusion gains all the physical properties of the depicted illusory object. You must touch the illusion to use this ability, and the object can be no larger than 5 cubic feet per tier. For example, if you create an illusory stone door, you transform it into an actual non-magical stone door.
 
 ### Teleportation Master (Su) \[1\]
 
@@ -423,17 +423,17 @@ You have a way with words when dealing with extraplanar forces called to the Mat
 
 ### Eldritch Reciprocation (Su)
 
-You can choose to take extra damage from an arcane spell to replenish mythic power. When you are hit by or fail a saving throw against an arcane spell that deals hit point damage, as an immediate action you can choose to take damage as if that spell were affected by the Maximize Spell feat. If the spell’s damage can’t be increased by the Maximize Spell feat or is already under the effect of the Maximize Spell feat, you instead take double damage from it. The spell’s damage ignores your spell resistance, energy resistance, energy immunities, and other protections against damage.
+You can choose to take extra damage from an arcane spell to replenish mythic power. When you are hit by or fail a saving throw against an arcane spell that deals hit point damage, as an immediate action (1 AP of your next turn) you can choose to take damage as if that spell were affected by the Maximize Spell feat. If the spell’s damage can’t be increased by the Maximize Spell feat or is already under the effect of the Maximize Spell feat, you instead take double damage from it. The spell’s damage ignores your spell resistance, energy resistance, energy immunities, and other protections against damage.
 
 If you take at least 25 points of damage from the spell, you regain one use of mythic power.
 
 ### Sanctum (Su)
 
-You gain access to your own personal extradimensional sanctum. By concentrating for 1 minute without interruption, you conjure the door to your own personal sanctum, similar to *mage’s magnificent mansion*, but with the following differences. The sanctum takes up a space equal to six 20-foot cubes per tier, shapeable when you first create it as if it were a spell whose area or effect is shapeable. The sanctum is permanent and persistent, so you can store objects within the sanctum and retrieve them on future visits. The sanctum includes one *unseen servant* per tier. When you conjure the sanctum’s door, you decide which creatures can see and use it (to all other creatures it’s invisible and impermeable). The door remains until you dismiss it—a standard action with unlimited range as long as you are on the same plane as the door. If you dismiss the door while you are outside the sanctum, all creatures other than your familiar are immediately shunted outside. Conjuring the door automatically dismisses any other active door. As a full-round action, your familiar can enter or leave the sanctum from any square adjacent to you, without using the conjured door.
+You gain access to your own personal extradimensional sanctum. By concentrating for 1 minute without interruption, you conjure the door to your own personal sanctum, similar to *mage’s magnificent mansion*, but with the following differences. The sanctum takes up a space equal to six 20-foot cubes per tier, shapeable when you first create it as if it were a spell whose area or effect is shapeable. The sanctum is permanent and persistent, so you can store objects within the sanctum and retrieve them on future visits. The sanctum includes one *unseen servant* per tier. When you conjure the sanctum’s door, you decide which creatures can see and use it (to all other creatures it’s invisible and impermeable). The door remains until you dismiss it—a standard action (1 AP) with unlimited range as long as you are on the same plane as the door. If you dismiss the door while you are outside the sanctum, all creatures other than your familiar are immediately shunted outside. Conjuring the door automatically dismisses any other active door. As a full-round action (3 AP), your familiar can enter or leave the sanctum from any square adjacent to you, without using the conjured door.
 
 ### Star Walker (Su)
 
-You can transform your power to enable you to travel great distances. As a standard action, you can expend two uses of mythic power to surround yourself with a bubble of air enclosed by a thin iridescent layer of force. While this bubble offers no protection from attacks, you can propel yourself through the air at great speed. As long as you concentrate, you gain a fly speed of 240 feet per round. If you cease concentrating, the bubble stops and then sinks 30 feet per round until it reaches the ground and collapses; you can expend one use of mythic power before the bubble collapses to regain control.
+You can transform your power to enable you to travel great distances. As a standard action (1 AP), you can expend two uses of mythic power to surround yourself with a bubble of air enclosed by a thin iridescent layer of force. While this bubble offers no protection from attacks, you can propel yourself through the air at great speed. As long as you concentrate, you gain a fly speed of 240 feet per round. If you cease concentrating, the bubble stops and then sinks 30 feet per round until it reaches the ground and collapses; you can expend one use of mythic power before the bubble collapses to regain control.
 
 In the void of outer space, the bubble’s speed is much faster. Although exact travel times vary, a trip within a single solar system takes 3d20 hours, while a trip beyond takes 3d20 days (or more, at the GM’s discretion). Ceasing concentration while in the void of outer space has no effect on the bubble—it continues traveling in the previously stated direction at the same speed until an outside force slows it down. The air in the sphere is constantly refreshed and kept at a constant temperature, protecting occupants from the void of space, but not necessarily the harsh climates of other planets or planes. By expending two additional uses of mythic power, you can increase the size of the bubble to a 10-foot-radius sphere and you can bring along up to 11 Medium creatures within the bubble.
 
@@ -443,15 +443,15 @@ Other creatures can enter or exit the bubble freely.
 
 ### Distant Barrage (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to make a ranged attack at your highest attack bonus. This is in addition to any other attacks you make this round. When making this attack, ignore the target’s cover and concealment other than total cover, and add your tier to the attack roll. Damage from this attack bypasses all damage reduction.
+As a swift action (1 AP), you can expend one use of mythic power to make a ranged attack at your highest attack bonus. This is in addition to any other attacks you make this round. When making this attack, ignore the target’s cover and concealment other than total cover, and add your tier to the attack roll. Damage from this attack bypasses all damage reduction.
 
 ### Fleet Charge (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to move up to your speed. At any point during this movement, you can make a single melee or ranged attack at your highest attack bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. Damage from this attack bypasses all damage reduction.
+As a swift action (1 AP), you can expend one use of mythic power to move up to your speed. At any point during this movement, you can make a single melee or ranged attack at your highest attack bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. Damage from this attack bypasses all damage reduction.
 
 ### Sudden Attack (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to make a melee attack at your highest attack bonus. This is in addition to any other attacks you make this round. When making a sudden attack, you roll twice and take the better result, adding your tier to the attack roll. Damage from this attack bypasses all damage reduction.
+As a swift action (1 AP), you can expend one use of mythic power to make a melee attack at your highest attack bonus. This is in addition to any other attacks you make this round. When making a sudden attack, you roll twice and take the better result, adding your tier to the attack roll. Damage from this attack bypasses all damage reduction.
 
 ### Aerial Assault (Su) \[1\]
 
@@ -475,7 +475,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Blowback (Ex) \[1\]
 
-> As a standard action, you can expend one use of mythic power to make one melee or ranged attack at your full base attack bonus. If the attack hits, your foe is also knocked directly away from you a distance equal to 20 feet per tier. If the foe strikes a solid object before reaching this distance, it takes 1d6 points of bludgeoning damage for every 10 feet it couldn’t travel.
+> As a standard action (1 AP), you can expend one use of mythic power to make one melee or ranged attack at your full base attack bonus. If the attack hits, your foe is also knocked directly away from you a distance equal to 20 feet per tier. If the foe strikes a solid object before reaching this distance, it takes 1d6 points of bludgeoning damage for every 10 feet it couldn’t travel.
 >
 > If it strikes another creature, both it and the creature it strikes take half this damage.
 
@@ -487,7 +487,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Clean Blade (Ex) \[1\]
 
-> Whenever you score a critical hit, as a free action you can make a ranged touch attack to fling the blood and gore at another opponent within 30 feet. If the touch attack hits, the foe is sickened for a number of rounds equal to your tier. If the touch attack is a critical hit, the foe is also blinded for the same duration. A blinded foe can spend a full-round action to remove the gore and end the blindness.
+> Whenever you score a critical hit, as a free action you can make a ranged touch attack to fling the blood and gore at another opponent within 30 feet. If the touch attack hits, the foe is sickened for a number of rounds equal to your tier. If the touch attack is a critical hit, the foe is also blinded for the same duration. A blinded foe can spend a full-round action (3 AP) to remove the gore and end the blindness.
 >
 > At the GM’s discretion, creatures that are immune to disease, those that live in filth (such as otyughs), or those that revel in bloodshed (such as demons) might be immune to the sickened effect of this ability.
 
@@ -543,7 +543,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Meat Shield (Ex) \[1\]
 
-> You can use a creature you’re grappling to protect you from harm. If you’re grappling a creature and are attacked with a melee or ranged attack, as an immediate action you can attempt a grapple combat maneuver check against your grappled opponent. If you succeed, the incoming attack targets your grappled opponent instead of you. If you fail, the grappled opponent breaks free from the grapple and the incoming attack targets you as normal.
+> You can use a creature you’re grappling to protect you from harm. If you’re grappling a creature and are attacked with a melee or ranged attack, as an immediate action (1 AP of your next turn) you can attempt a grapple combat maneuver check against your grappled opponent. If you succeed, the incoming attack targets your grappled opponent instead of you. If you fail, the grappled opponent breaks free from the grapple and the incoming attack targets you as normal.
 
 ### Mounted Maniac (Ex) \[2\]
 
@@ -577,11 +577,11 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Sniper’s Riposte (Ex) \[1\]
 
-> You’re an expert at defending yourself while aiming a ranged weapon. You don’t provoke attacks of opportunity from making ranged attacks. As a swift action, you can expend one use of mythic power to negate the Stealth check penalty for sniping for 1 round.
+> You’re an expert at defending yourself while aiming a ranged weapon. You don’t provoke attacks of opportunity from making ranged attacks. As a swift action (1 AP), you can expend one use of mythic power to negate the Stealth check penalty for sniping for 1 round.
 
 ### Sunder Storm (Ex) \[1\]
 
-> As a full-round action, you can expend one use of mythic power to attempt a sunder combat maneuver against each opponent within reach, selecting one item on each opponent to sunder. The damage from these sunder attempts ignores item hardness. If you destroy an item in this way, you drive the shattered pieces of the item into the flesh of its wearer or wielder, dealing 1d6 + a number of points equal to your tier of piercing damage. This damage bypasses all damage reduction.
+> As a full-round action (3 AP), you can expend one use of mythic power to attempt a sunder combat maneuver against each opponent within reach, selecting one item on each opponent to sunder. The damage from these sunder attempts ignores item hardness. If you destroy an item in this way, you drive the shattered pieces of the item into the flesh of its wearer or wielder, dealing 1d6 + a number of points equal to your tier of piercing damage. This damage bypasses all damage reduction.
 
 ### Swimming Master (Ex) \[1\]
 
@@ -589,7 +589,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Tear Apart (Ex) \[1\]
 
-> You can attempt to rend the armor of your opponent, reducing its effectiveness. Using this ability is a standard action that requires you to attempt a sunder combat maneuver check against your foe. If the check is successful, reduce the target’s armor bonus, natural armor bonus, or shield bonus (your choice) by your tier x2 (minimum 2). If the creature has an enhancement bonus to the bonus you chose, reduce the normal bonus first, then apply any leftover reduction to the enhancement bonus. You can’t reduce the bonus below 0. Armor and shields damaged in this way can be repaired as if they had the broken condition. Natural armor regains the lost bonus at the rate of 1 point per day. *Lesser restoration* restores 1d4 points of natural armor bonus, and *restoration* restores all of it.
+> You can attempt to rend the armor of your opponent, reducing its effectiveness. Using this ability is a standard action (1 AP) that requires you to attempt a sunder combat maneuver check against your foe. If the check is successful, reduce the target’s armor bonus, natural armor bonus, or shield bonus (your choice) by your tier x2 (minimum 2). If the creature has an enhancement bonus to the bonus you chose, reduce the normal bonus first, then apply any leftover reduction to the enhancement bonus. You can’t reduce the bonus below 0. Armor and shields damaged in this way can be repaired as if they had the broken condition. Natural armor regains the lost bonus at the rate of 1 point per day. *Lesser restoration* restores 1d4 points of natural armor bonus, and *restoration* restores all of it.
 
 ### Titan’s Bane (Ex) \[1\]
 
@@ -619,7 +619,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Elemental Fury (Su) \[1\]
 
-> You can cause your body to erupt with elemental power. As a move action, you can expend one use of mythic power and pick one of the following energy types: acid, cold, electricity, or fire. For a number of rounds equal to your tier, you are immune to this energy type and all of your melee and ranged attacks deal an extra 1d6 points of damage of this energy type. On a critical hit, this extra energy damage increases to 3d6.
+> You can cause your body to erupt with elemental power. As a move action (1 AP), you can expend one use of mythic power and pick one of the following energy types: acid, cold, electricity, or fire. For a number of rounds equal to your tier, you are immune to this energy type and all of your melee and ranged attacks deal an extra 1d6 points of damage of this energy type. On a critical hit, this extra energy damage increases to 3d6.
 
 ### Fleet Warrior (Ex) \[1\]
 
@@ -627,7 +627,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Groundshaker (Su) \[1\]
 
-> As a Move action, you can expend one use of mythic power to stomp or punch the ground with mighty force, forcing creatures within 10 feet per tier to attempt a Reflex save (DC = 10 + your tier + your Strength modifier).
+> As a Move action (1 AP), you can expend one use of mythic power to stomp or punch the ground with mighty force, forcing creatures within 10 feet per tier to attempt a Reflex save (DC = 10 + your tier + your Strength modifier).
 >
 > Non-mythic creatures that fail their saves fall prone and are staggered for 1 round. Non-mythic creatures that succeed at their saves and mythic creatures that fail are staggered for 1 round. Mythic creatures that succeed at their saves are unaffected. You are not affected by this ability, and you may designate a number of creatures up to your tier to also not be affected.
 
@@ -663,17 +663,17 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Titan’s Rage (Su) \[1\]
 
-> You can cause yourself to grow in size, becoming a terrifying sight to behold. As a standard action (or a free action if you have the rage class feature), you can expend one use of mythic power to increase your size to one size category larger. This grants you a +4 size bonus to Strength and Constitution, imposes a –2 penalty to Dexterity, grants you a +2 natural armor bonus, increases your natural reach by 5 feet, and increases your weapon damage based on the new size of your weapons.
+> You can cause yourself to grow in size, becoming a terrifying sight to behold. As a standard action (1 AP) (or a free action if you have the rage class feature), you can expend one use of mythic power to increase your size to one size category larger. This grants you a +4 size bonus to Strength and Constitution, imposes a –2 penalty to Dexterity, grants you a +2 natural armor bonus, increases your natural reach by 5 feet, and increases your weapon damage based on the new size of your weapons.
 >
 > This size increase lasts a number of rounds equal to your tier, and doesn’t stack with any other spell or ability that alters your size.
 
 ### To the Death (Ex) \[1\]
 
-> You can shrug off wounds that others would find devastating. When below 0 hit points, you don’t fall unconscious, but are instead staggered. You lose 1 hit point at the end of each turn when you take a standard action while staggered in this way.
+> You can shrug off wounds that others would find devastating. When below 0 hit points, you don’t fall unconscious, but are instead staggered. You lose 1 hit point at the end of each turn when you take a standard action (1 AP) while staggered in this way.
 
 ### Unstoppable Shot (Ex) \[1\]
 
-> You can use a ranged or thrown weapon to make a single powerful shot that shoots through all creatures in a line. As a standard action, make a single ranged attack roll and resolve the attack against all targets in a straight line up to the maximum range of your weapon, stopping at any barrier the attack couldn’t penetrate. Roll damage once and apply that damage to each creature hit by the attack. Before making the attack roll, you can expend one use of mythic power to bend the path of the attack up to two times as it strikes targets or objects. Each deflection can alter the line of the attack up to 90 degrees, allowing you to shoot around corners or cover.
+> You can use a ranged or thrown weapon to make a single powerful shot that shoots through all creatures in a line. As a standard action (1 AP), make a single ranged attack roll and resolve the attack against all targets in a straight line up to the maximum range of your weapon, stopping at any barrier the attack couldn’t penetrate. Roll damage once and apply that damage to each creature hit by the attack. Before making the attack roll, you can expend one use of mythic power to bend the path of the attack up to two times as it strikes targets or objects. Each deflection can alter the line of the attack up to 90 degrees, allowing you to shoot around corners or cover.
 
 ## 6th-Tier Champion Path Abilities
 
@@ -693,7 +693,7 @@ You must be at least 6th tier to select these path abilities.
 
 ### Perfect Strike (Ex)
 
-You can expend one use of mythic power as a standard action to deliver a perfect strike. A perfect strike attack is made using your full base attack bonus. If the attack hits, it deals double the normal amount of damage, and this damage bypasses all damage reduction and hardness. If the perfect strike is a critical hit, increase the critical multiplier for the attack by 1 (so a ×2 weapon deals ×3 damage). Damage that isn’t multiplied on a critical hit isn’t multiplied on a perfect strike. Perfect strike can be used in conjunction with any champion’s strike if you expend uses of mythic power for each ability separately.
+You can expend one use of mythic power as a standard action (1 AP) to deliver a perfect strike. A perfect strike attack is made using your full base attack bonus. If the attack hits, it deals double the normal amount of damage, and this damage bypasses all damage reduction and hardness. If the perfect strike is a critical hit, increase the critical multiplier for the attack by 1 (so a ×2 weapon deals ×3 damage). Damage that isn’t multiplied on a critical hit isn’t multiplied on a perfect strike. Perfect strike can be used in conjunction with any champion’s strike if you expend uses of mythic power for each ability separately.
 
 ### Seven-League Leap (Ex)
 
@@ -713,15 +713,15 @@ You can select these path abilities at any tier.
 
 ### Absorb Blow (Su) \[1\]
 
-As an immediate action, whenever you take hit point damage from a single source (such as a dragon’s breath, a spell, or a weapon), you can expend one use of mythic power to reduce the damage you take from that source by 15 per tier (to a minimum of 0 points of damage taken). If you have another ability or effect that reduces damage (such as *protection from energy*), reduce the damage with the absorb blow ability before applying any other damage-reducing effects. For every 10 points of damage that this ability prevents, for 1 minute you gain DR 3/epic and 5 points of resistance against acid, cold, electricity, fire, and sonic damage. The DR and resistances stack with any other DR and resistances that you have.
+As an immediate action (1 AP of your next turn), whenever you take hit point damage from a single source (such as a dragon’s breath, a spell, or a weapon), you can expend one use of mythic power to reduce the damage you take from that source by 15 per tier (to a minimum of 0 points of damage taken). If you have another ability or effect that reduces damage (such as *protection from energy*), reduce the damage with the absorb blow ability before applying any other damage-reducing effects. For every 10 points of damage that this ability prevents, for 1 minute you gain DR 3/epic and 5 points of resistance against acid, cold, electricity, fire, and sonic damage. The DR and resistances stack with any other DR and resistances that you have.
 
 ### Beast’s Fury (Su) \[2\]
 
-As a swift action, you can expend one use of mythic power to imbue your animal companion, cohort, eidolon, familiar, or bonded *mount* with some of your mythic power. As an immediate action, that creature can move up to its speed and make an attack with one of its natural weapons. When making this attack, the creature rolls twice and takes the higher result. Any damage dealt by this attack bypasses all damage reduction. A creature affected by this ability can take these actions in addition to any others that it takes during its turn.
+As a swift action (1 AP), you can expend one use of mythic power to imbue your animal companion, cohort, eidolon, familiar, or bonded *mount* with some of your mythic power. As an immediate action (1 AP of your next turn), that creature can move up to its speed and make an attack with one of its natural weapons. When making this attack, the creature rolls twice and takes the higher result. Any damage dealt by this attack bypasses all damage reduction. A creature affected by this ability can take these actions in addition to any others that it takes during its turn.
 
 ### Sudden Block (Su) \[2\]
 
-As an immediate action, you can expend one use of mythic power to hinder a melee attack made against you or an adjacent ally. Add your tier to your AC or the ally’s AC against this attack. The creature making the attack must make two attack rolls and take the lower result. Once the attack is resolved, you or your ally (your choice) can make one melee attack against the creature. The damage from this attack bypasses all damage reduction.
+As an immediate action (1 AP of your next turn), you can expend one use of mythic power to hinder a melee attack made against you or an adjacent ally. Add your tier to your AC or the ally’s AC against this attack. The creature making the attack must make two attack rolls and take the lower result. Once the attack is resolved, you or your ally (your choice) can make one melee attack against the creature. The damage from this attack bypasses all damage reduction.
 
 ### Adamantine Mind (Ex) \[1\]
 
@@ -747,7 +747,7 @@ As an immediate action, you can expend one use of mythic power to hinder a melee
 
 > When you take acid, cold, electricity, fire, or sonic damage, you store some of this energy within yourself and can direct it outward through your attacks. Whenever you take energy damage, you gain an amount of energy of that type equal to 1/2 the damage taken (after any resistances or immunities are applied).
 >
-> Whenever you hit with a melee attack, you may expend 3 points from the pool of one energy type to have the attack deal an additional 1d6 points of energy damage of that type. As a standard action, you can expend one use of mythic power to release all stored energy of one type as a ray with a 60-foot range. The ray deals 1d6 points of energy damage for every 3 points of energy stored. If unused, the stored energy harmlessly dissipates 1 minute after the last time you took energy damage of any type.
+> Whenever you hit with a melee attack, you may expend 3 points from the pool of one energy type to have the attack deal an additional 1d6 points of energy damage of that type. As a standard action (1 AP), you can expend one use of mythic power to release all stored energy of one type as a ray with a 60-foot range. The ray deals 1d6 points of energy damage for every 3 points of energy stored. If unused, the stored energy harmlessly dissipates 1 minute after the last time you took energy damage of any type.
 
 ### Burst Through (Ex) \[1\]
 
@@ -755,7 +755,7 @@ As an immediate action, you can expend one use of mythic power to hinder a melee
 
 ### Draw Fire (Su) \[1\]
 
-> As an immediate action, when an ally within 30 feet is targeted with a ranged weapon attack, you can have that attack target you instead. If you would normally be out of range for that attack, the attack is able to hit you as if you were at maximum range. You can use this ability without using an immediate action by expending one use of mythic power.
+> As an immediate action (1 AP of your next turn), when an ally within 30 feet is targeted with a ranged weapon attack, you can have that attack target you instead. If you would normally be out of range for that attack, the attack is able to hit you as if you were at maximum range. You can use this ability without using an immediate action (1 AP of your next turn) by expending one use of mythic power.
 
 ### Empathic Healing (Su) \[2\]
 
@@ -767,7 +767,7 @@ As an immediate action, you can expend one use of mythic power to hinder a melee
 
 ### Fast Healing (Ex) \[1\]
 
-> As a swift action, you can expend one use of mythic power to gain fast healing 5 for 1 minute. This ability can be taken a second time at 3rd tier or higher and a third time at 6th tier or higher. Each additional time you take this ability, the fast healing increases by 5.
+> As a swift action (1 AP), you can expend one use of mythic power to gain fast healing 5 for 1 minute. This ability can be taken a second time at 3rd tier or higher and a third time at 6th tier or higher. Each additional time you take this ability, the fast healing increases by 5.
 
 ### Guardian’s Shout (Ex) \[1\]
 
@@ -775,7 +775,7 @@ As an immediate action, you can expend one use of mythic power to hinder a melee
 
 ### Immovable (Su) \[1\]
 
-> Add your tier to your CMD whenever an enemy attempts a bull rush, drag, reposition, or trip combat maneuver check against you. If the check is successful, you can expend one use of mythic power as an immediate action to cause it to fail instead.
+> Add your tier to your CMD whenever an enemy attempts a bull rush, drag, reposition, or trip combat maneuver check against you. If the check is successful, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to cause it to fail instead.
 
 ### Imprinting Hand (Su) \[1\]
 
@@ -809,7 +809,7 @@ As an immediate action, you can expend one use of mythic power to hinder a melee
 
 ### Pack Wild Shape (Su) \[1\]
 
-> When you use the wild shape class feature, you can also transform allies when you change shape. When you use wild shape, you can expend one use of mythic power to select a number of willing allies equal to your tier. These allies take the same animal form as you do, with the same abilities as yours. Divide the duration of that use of wild shape evenly (rounded down) among yourself and the affected allies. The transformation ends for everyone when you return to your normal form or use wild shape again. An ally can end its own transformation early as a standard action without affecting the duration for you or other allies. You must have the wild shape class feature to select this ability.
+> When you use the wild shape class feature, you can also transform allies when you change shape. When you use wild shape, you can expend one use of mythic power to select a number of willing allies equal to your tier. These allies take the same animal form as you do, with the same abilities as yours. Divide the duration of that use of wild shape evenly (rounded down) among yourself and the affected allies. The transformation ends for everyone when you return to your normal form or use wild shape again. An ally can end its own transformation early as a standard action (1 AP) without affecting the duration for you or other allies. You must have the wild shape class feature to select this ability.
 
 ### Partial Transformation (Su) \[1\]
 
@@ -855,7 +855,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Cage Enemy (Ex) \[2\]
 
-> You can pin enemies foolish enough to face you. As an immediate action, you can expend one use of mythic power to hinder opponents until the end of your next turn. When this ability is active, any creature moving out of one of your threatened squares, even when making a 5-foot step or using a form of movement that doesn’t usually provoke attacks of opportunity, provokes an attack of opportunity from you. If your attack of opportunity hits and deals damage, the creature remains in its current space and its movement ends. Alternatively, you can expend one use of mythic power as part of a charge. If the charge attack hits, the target can’t move itself from its space until the beginning of your next turn (though others can move the creature).
+> You can pin enemies foolish enough to face you. As an immediate action (1 AP of your next turn), you can expend one use of mythic power to hinder opponents until the end of your next turn. When this ability is active, any creature moving out of one of your threatened squares, even when making a 5-foot step or using a form of movement that doesn’t usually provoke attacks of opportunity, provokes an attack of opportunity from you. If your attack of opportunity hits and deals damage, the creature remains in its current space and its movement ends. Alternatively, you can expend one use of mythic power as part of a charge. If the charge attack hits, the target can’t move itself from its space until the beginning of your next turn (though others can move the creature).
 
 ### Dimensional Grappler (Su) \[1\]
 
@@ -863,13 +863,13 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Drive Back (Ex) \[1\]
 
-> As a full-round action, you can attempt one bull rush combat maneuver check and apply it to all opponents within reach. If you have the Whirlwind Attack feat, you can use this ability at the same time that you make an attack against each foe within reach, allowing you to attempt a free bull rush combat maneuver check against each foe that you hit.
+> As a full-round action (3 AP), you can attempt one bull rush combat maneuver check and apply it to all opponents within reach. If you have the Whirlwind Attack feat, you can use this ability at the same time that you make an attack against each foe within reach, allowing you to attempt a free bull rush combat maneuver check against each foe that you hit.
 >
 > After you’ve pushed opponents backward, you may move with any one of your bull rush targets.
 
 ### Earth Protection (Su) \[2\]
 
-> As long as you’re in contact with earth or unworked stone, you can expend one use of mythic power as a standard action to draw energy from the earth and radiate it outward, granting yourself and allies within 30 feet DR 10/adamantine for 1 minute.
+> As long as you’re in contact with earth or unworked stone, you can expend one use of mythic power as a standard action (1 AP) to draw energy from the earth and radiate it outward, granting yourself and allies within 30 feet DR 10/adamantine for 1 minute.
 
 ### Impervious Body (Su) \[1\]
 
@@ -889,29 +889,29 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Parry Spell (Su) \[1\]
 
-> As an immediate action, you can expend one use of mythic power to block a spell targeting you or an ally adjacent to you. The spell must be a ray, a single-target spell, or a spell that creates an effect targeting one creature (such as *acid arrow*), and the level of the spell’s spell slot must be equal to or lower than your tier. Make an attack roll as if making an attack of opportunity. If the result of the attack roll is greater than the spell’s attack roll or save DC, the spell has no effect on the intended target (though other targets from the same spell, such as multiple targets of *scorching ray*, are affected normally). A spell that has neither a DC nor an attack roll (such as *magic missile*) can’t be affected by this ability.
+> As an immediate action (1 AP of your next turn), you can expend one use of mythic power to block a spell targeting you or an ally adjacent to you. The spell must be a ray, a single-target spell, or a spell that creates an effect targeting one creature (such as *acid arrow*), and the level of the spell’s spell slot must be equal to or lower than your tier. Make an attack roll as if making an attack of opportunity. If the result of the attack roll is greater than the spell’s attack roll or save DC, the spell has no effect on the intended target (though other targets from the same spell, such as multiple targets of *scorching ray*, are affected normally). A spell that has neither a DC nor an attack roll (such as *magic missile*) can’t be affected by this ability.
 >
 > You must declare using spell parry after the spellcaster’s target is announced, but before the target’s saving throw or attack roll is made.
 
 ### Possess Companion (Su) \[1\]
 
-> You can expend one use of mythic power to project your soul from your body and into your animal companion, cohort, eidolon, familiar, or bonded mount as if possessing that creature with the *magic jar* spell. Unlike with *magic jar*, the companion creature’s soul remains within its body, allowing you to know what it knows and share its memories. This effect lasts until you end it as a standard action.
+> You can expend one use of mythic power to project your soul from your body and into your animal companion, cohort, eidolon, familiar, or bonded mount as if possessing that creature with the *magic jar* spell. Unlike with *magic jar*, the companion creature’s soul remains within its body, allowing you to know what it knows and share its memories. This effect lasts until you end it as a standard action (1 AP).
 
 ### Shrug It Off (Ex) \[1\]
 
-> Whenever an enemy confirms a critical hit against you or your animal companion, eidolon, familiar, or bonded mount, you can expend one use of your mythic power as an immediate action to convert the critical hit into a normal hit. Effects that trigger only on a critical hit don’t trigger when you use this ability to negate the critical hit.
+> Whenever an enemy confirms a critical hit against you or your animal companion, eidolon, familiar, or bonded mount, you can expend one use of your mythic power as an immediate action (1 AP of your next turn) to convert the critical hit into a normal hit. Effects that trigger only on a critical hit don’t trigger when you use this ability to negate the critical hit.
 
 ### To the Death (Ex) \[1\]
 
-> You can shrug off wounds that others would find devastating. When below 0 hit points, you don’t fall unconscious, but are instead staggered. You lose 1 hit point at the end of each turn when you take a standard action while staggered in this way.
+> You can shrug off wounds that others would find devastating. When below 0 hit points, you don’t fall unconscious, but are instead staggered. You lose 1 hit point at the end of each turn when you take a standard action (1 AP) while staggered in this way.
 
 ### Turn the Tables (Ex) \[1\]
 
-> If a creature fails a combat maneuver check made against you, as an immediate action you can expend one use of mythic power to attempt that same maneuver against that creature. You receive a +10 bonus on this combat maneuver check.
+> If a creature fails a combat maneuver check made against you, as an immediate action (1 AP of your next turn) you can expend one use of mythic power to attempt that same maneuver against that creature. You receive a +10 bonus on this combat maneuver check.
 
 ### Uncanny Adaptability (Sp) \[1\]
 
-> As a standard action, you can expend one use of mythic power to create an invisible sphere around you that protects anyone inside from harsh environmental effects, as *planar adaptation*, except this effect also works for extreme physical conditions on the Material Plane. The radius of the sphere is equal to 5 feet per tier, and only creatures within the sphere receive the benefits of this effect. Anyone who steps outside of the sphere immediately loses the benefits of this ability until she steps back inside the sphere. This effect lasts for a number of hours equal to your tier or until you end it as a free action, whichever comes first.
+> As a standard action (1 AP), you can expend one use of mythic power to create an invisible sphere around you that protects anyone inside from harsh environmental effects, as *planar adaptation*, except this effect also works for extreme physical conditions on the Material Plane. The radius of the sphere is equal to 5 feet per tier, and only creatures within the sphere receive the benefits of this effect. Anyone who steps outside of the sphere immediately loses the benefits of this ability until she steps back inside the sphere. This effect lasts for a number of hours equal to your tier or until you end it as a free action, whichever comes first.
 
 ## 6th-Tier Guardian Path Abilities
 
@@ -935,7 +935,7 @@ You must be at least 6th tier to select these path abilities.
 
 ### Invincible Stand (Su)
 
-> You can expend one use of mythic power as a swift action to make yourself nearly invincible for a short period of time. You gain DR 20/— for a number of rounds equal to your tier. If you choose to move or are moved by another creature during this time, this protection immediately ends.
+> You can expend one use of mythic power as a swift action (1 AP) to make yourself nearly invincible for a short period of time. You gain DR 20/— for a number of rounds equal to your tier. If you choose to move or are moved by another creature during this time, this protection immediately ends.
 
 ### Mythic Resolve (Su)
 
@@ -947,23 +947,23 @@ You must be at least 6th tier to select these path abilities.
 
 ### Stasis (Su)
 
-> You can expend one use of mythic power as a full-round action to enter a trance that drastically slows your vital functions. You are helpless and can’t move or take other actions, nor replenish mythic power, but you age and consume bodily resources as though each year that passes were 1 minute. For example, if you could normally hold your breath for 3 minutes, you can use this ability to survive without air for 3 years. You remain partially aware during this stasis and can detect any lethal threats within 5 feet of you. There are several ways to end this stasis. By expending one use of mythic power as a full-round action, you can awaken from your stasis at any time. If you take damage while in stasis, you immediately awaken, though you are staggered for 1 hour. Finally, you can use sheer force of will to awaken from stasis without expending mythic power, taking 1d4 weeks for you to awaken. When activating this ability, you can put an adjacent willing allies into stasis as well. There is no limit to the number of allies you can put into stasis in this way, but you must expend three additional uses of mythic power for each ally.
+> You can expend one use of mythic power as a full-round action (3 AP) to enter a trance that drastically slows your vital functions. You are helpless and can’t move or take other actions, nor replenish mythic power, but you age and consume bodily resources as though each year that passes were 1 minute. For example, if you could normally hold your breath for 3 minutes, you can use this ability to survive without air for 3 years. You remain partially aware during this stasis and can detect any lethal threats within 5 feet of you. There are several ways to end this stasis. By expending one use of mythic power as a full-round action (3 AP), you can awaken from your stasis at any time. If you take damage while in stasis, you immediately awaken, though you are staggered for 1 hour. Finally, you can use sheer force of will to awaken from stasis without expending mythic power, taking 1d4 weeks for you to awaken. When activating this ability, you can put an adjacent willing allies into stasis as well. There is no limit to the number of allies you can put into stasis in this way, but you must expend three additional uses of mythic power for each ally.
 
 ### Take the Hit (Ex)
 
 > You are a living shield for your allies.
 >
-> Whenever an adjacent ally takes damage from a melee or ranged attack, as an immediate action you can split the damage. You take half of the damage (rounded down), and your ally takes the remaining amount. This damage is not subject to any resistances or damage reduction you might have, but any such defenses the target of the attack possesses apply before the damage is split. You don’t suffer any other effects from the attack (such as disease, grab, or poison).
+> Whenever an adjacent ally takes damage from a melee or ranged attack, as an immediate action (1 AP of your next turn) you can split the damage. You take half of the damage (rounded down), and your ally takes the remaining amount. This damage is not subject to any resistances or damage reduction you might have, but any such defenses the target of the attack possesses apply before the damage is split. You don’t suffer any other effects from the attack (such as disease, grab, or poison).
 
 ### Unbreakable Resilience (Ex)
 
-> When you take this ability, choose either physical ability scores (Strength, Dexterity, and Constitution) or mental ability scores (Intelligence, Wisdom, and Charisma). You recover ability damage and drain to the selected ability scores at a rate of 1 hour per point of damage rather than 1 day per point. As a swift action, you can expend one use of mythic power to recover 1 point of ability damage to any of the three selected abilities. You can take this ability twice. The second time you select it, unbreakable resilience applies to all six ability scores.
+> When you take this ability, choose either physical ability scores (Strength, Dexterity, and Constitution) or mental ability scores (Intelligence, Wisdom, and Charisma). You recover ability damage and drain to the selected ability scores at a rate of 1 hour per point of damage rather than 1 day per point. As a swift action (1 AP), you can expend one use of mythic power to recover 1 point of ability damage to any of the three selected abilities. You can take this ability twice. The second time you select it, unbreakable resilience applies to all six ability scores.
 
 ## 1st-Tier Hierophant Path Abilities
 
 ### Beast’s Fury (Su) \[2\]
 
-As a swift action, you can expend one use of mythic power to imbue your animal companion, cohort, eidolon, familiar, or bonded mount with some of your mythic power. As an immediate action, that creature can move up to its speed and make an attack with one of its natural weapons. When making this attack, the creature rolls twice and takes the higher result. Any damage dealt by this attack bypasses all damage reduction. A creature affected by this ability can take these actions in addition to any other actions it takes during its turn.
+As a swift action (1 AP), you can expend one use of mythic power to imbue your animal companion, cohort, eidolon, familiar, or bonded mount with some of your mythic power. As an immediate action (1 AP of your next turn), that creature can move up to its speed and make an attack with one of its natural weapons. When making this attack, the creature rolls twice and takes the higher result. Any damage dealt by this attack bypasses all damage reduction. A creature affected by this ability can take these actions in addition to any other actions it takes during its turn.
 
 ### Inspired Spell (Su) \[2\]
 
@@ -975,13 +975,13 @@ You can expend one use of mythic power to cast any one divine spell without expe
 
 ### Alter Channel (Su) \[1\]
 
-If you’re in the area of an opponent’s channel energy ability and the energy type is the opposite of yours, as an immediate action you can expend one use of mythic power to transform the opponent’s channeled energy to the opposite type. You can cause the altered energy to either affect the opposite kind of targets (undead or living), or change whether it heals or harms, but not both. Channeled energy that has been changed in this way heals or deals half the normal amount of damage.
+If you’re in the area of an opponent’s channel energy ability and the energy type is the opposite of yours, as an immediate action (1 AP of your next turn) you can expend one use of mythic power to transform the opponent’s channeled energy to the opposite type. You can cause the altered energy to either affect the opposite kind of targets (undead or living), or change whether it heals or harms, but not both. Channeled energy that has been changed in this way heals or deals half the normal amount of damage.
 
 For example, if an evil cleric attempts to channel negative energy to heal undead, you can expend one use of mythic power to convert that to channeled positive energy that either heals the living or harms undead. You must have the channel energy ability to select this ability.
 
 ### Bleed Holy Power (Su) \[1\]
 
-If you channel positive energy, when an undead creature damages you with a melee attack, you can expend one use of channeled energy as an immediate action to channel energy to deal damage to undead creatures around you (as detailed in the channel energy ability). Alternatively, you may focus this channeled energy so it affects only the undead creature that hit you.
+If you channel positive energy, when an undead creature damages you with a melee attack, you can expend one use of channeled energy as an immediate action (1 AP of your next turn) to channel energy to deal damage to undead creatures around you (as detailed in the channel energy ability). Alternatively, you may focus this channeled energy so it affects only the undead creature that hit you.
 
 If you focus solely on that creature, you are considered 4 levels higher in the class that grants you the channel energy feature when determining its effects.
 
@@ -1003,7 +1003,7 @@ Whenever you encounter a creature whose alignment is within one step of yours, t
 
 ### Divine Guardian (Sp) \[1\]
 
-As a full-round action, you can expend one use of mythic power to summon one extraplanar creature as if using a *summon monster* or *summon nature’s ally* spell, with the level of the summoning spell equal to half your tier. Your caster level for this ability is equal to your character level. You can have only one creature that has been summoned using this ability at a time; summoning another causes the previous one to disappear. If you expend two uses of mythic power, the level of the summoning spell is equal to your tier instead. For example, if you are a 10th-level druid, 5th-tier hierophant, you can use this ability to summon one creature from the *summon monster II* or *summon nature’s ally II* list (or a lower level list) for 10 rounds; if you expend two uses, you can instead summon one creature from the *summon monster V* or *summon nature’s ally V* list (or a lower-level list).
+As a full-round action (3 AP), you can expend one use of mythic power to summon one extraplanar creature as if using a *summon monster* or *summon nature’s ally* spell, with the level of the summoning spell equal to half your tier. Your caster level for this ability is equal to your character level. You can have only one creature that has been summoned using this ability at a time; summoning another causes the previous one to disappear. If you expend two uses of mythic power, the level of the summoning spell is equal to your tier instead. For example, if you are a 10th-level druid, 5th-tier hierophant, you can use this ability to summon one creature from the *summon monster II* or *summon nature’s ally II* list (or a lower level list) for 10 rounds; if you expend two uses, you can instead summon one creature from the *summon monster V* or *summon nature’s ally V* list (or a lower-level list).
 
 ### Eldritch Breach (Su) \[1\]
 
@@ -1029,7 +1029,7 @@ Whenever you cast a divine spell with a range of touch, you can instead cast the
 
 ### Flexible Counterspell (Su) \[1\]
 
-Your mythic power enhances your ability to counter spells. As an immediate action, you can expend one use of mythic power to attempt to counter a spell. Upon using this ability, you must identify the spell with a Spellcraft check (DC 15 + the spell’s level). If you correctly identify the spell, you can expend a spell or spell slot of a level equal to or higher than the spell being cast to counter the spell.
+Your mythic power enhances your ability to counter spells. As an immediate action (1 AP of your next turn), you can expend one use of mythic power to attempt to counter a spell. Upon using this ability, you must identify the spell with a Spellcraft check (DC 15 + the spell’s level). If you correctly identify the spell, you can expend a spell or spell slot of a level equal to or higher than the spell being cast to counter the spell.
 
 ### Heathen Slayer (Ex) \[1\]
 
@@ -1051,7 +1051,7 @@ Additionally, by expending one use of mythic power, you can use your Wisdom modi
 
 ### Instrument of Faith (Su) \[1\]
 
-You gain DR 15/— against attacks made with your deity’s favored weapon. You can expend one use of mythic power as a standard action to attempt a disarm or sunder combat maneuver check against each opponent within 60 feet that is wielding your deity’s favored weapon. You decide individually whether to disarm or sunder each opponent’s weapon. Attempt one combat maneuver check, using your caster level in place of your base attack bonus and adding your tier to the total, and use that result against all opponents.
+You gain DR 15/— against attacks made with your deity’s favored weapon. You can expend one use of mythic power as a standard action (1 AP) to attempt a disarm or sunder combat maneuver check against each opponent within 60 feet that is wielding your deity’s favored weapon. You decide individually whether to disarm or sunder each opponent’s weapon. Attempt one combat maneuver check, using your caster level in place of your base attack bonus and adding your tier to the total, and use that result against all opponents.
 
 ### Inverted Spontaneous Casting (Su) \[1\]
 
@@ -1063,7 +1063,7 @@ Each creature you conjure with any summon spell gains DR 5/epic for the duration
 
 ### Mythic Domain (Su) \[1\]
 
-When determining the effects of your domain’s granted powers, you’re considered 4 levels higher. This increases the effects of powers you have access to, but doesn’t grant you powers at a lower level than normal. Once per day, you can expend one use of mythic power as a standard action to regain the use of all your domain granted powers as if you had rested for 8 hours.
+When determining the effects of your domain’s granted powers, you’re considered 4 levels higher. This increases the effects of powers you have access to, but doesn’t grant you powers at a lower level than normal. Once per day, you can expend one use of mythic power as a standard action (1 AP) to regain the use of all your domain granted powers as if you had rested for 8 hours.
 
 If you’re an oracle, all aspects of this ability apply to your revelations instead of to domain granted powers. You must have the domain class feature or mystery class feature to select this ability.
 
@@ -1079,7 +1079,7 @@ When you heal a creature with positive energy (such as by channeling positive en
 
 Whenever you use the wild shape class feature, you can also transform allies when you change shape. When you use wild shape, you can expend one use of mythic power to select a number of willing allies equal to your tier. These allies take the same animal form as you do, with the same abilities as yours. Divide the duration of that use of wild shape evenly (rounded down) among yourself and the affected allies.
 
-The *transformation* ends for everyone when you return to your normal form or use wild shape again. An ally can end its own *transformation* early as a standard action without affecting the duration for you or other allies. You must have the wild shape class feature to select this ability.
+The *transformation* ends for everyone when you return to your normal form or use wild shape again. An ally can end its own *transformation* early as a standard action (1 AP) without affecting the duration for you or other allies. You must have the wild shape class feature to select this ability.
 
 ### Plantbringer (Su) \[1\]
 
@@ -1095,7 +1095,7 @@ You require no food, water, or *sleep*. If you have abilities or class features 
 
 ### Symbol of the Holy (Su) \[1\]
 
-As a standard action, you can create a wooden holy symbol dedicated to your deity. If it ever leaves your possession, it fades away after 1 hour.
+As a standard action (1 AP), you can create a wooden holy symbol dedicated to your deity. If it ever leaves your possession, it fades away after 1 hour.
 
 Whenever you use this holy symbol as a divine focus when casting a spell, you don’t need to have any other material component, unless that component costs more than 50 gp per tier you possess.
 
@@ -1131,7 +1131,7 @@ This ability can be taken a second time at 6th tier or higher and a third time a
 
 ### Divine Metamastery (Su) \[1\]
 
-As a swift action, you can expend one use of mythic power and pick any one metamagic feat you know that increases the slot level of the spell by 0 levels or 1 level. For the next 10 rounds, you can apply this metamagic feat to any divine spell you cast without increasing the spell slot used or casting time. You can also use this ability on a divine spell cast from a *scroll*, staff, or *wand*. You can’t have more than one use of this ability active at a time. If you use this ability again, any previous use immediately ends (though any metamagic effects on spells already cast remain). You can select this ability more than once. Each time you select it, the maximum spell slot level increase of the metamagic feat goes up by 1 to a maximum of 4.
+As a swift action (1 AP), you can expend one use of mythic power and pick any one metamagic feat you know that increases the slot level of the spell by 0 levels or 1 level. For the next 10 rounds, you can apply this metamagic feat to any divine spell you cast without increasing the spell slot used or casting time. You can also use this ability on a divine spell cast from a *scroll*, staff, or *wand*. You can’t have more than one use of this ability active at a time. If you use this ability again, any previous use immediately ends (though any metamagic effects on spells already cast remain). You can select this ability more than once. Each time you select it, the maximum spell slot level increase of the metamagic feat goes up by 1 to a maximum of 4.
 
 ### Divine Potency (Su) \[1\]
 
@@ -1141,7 +1141,7 @@ Choose one of your divine spellcasting classes. You gain four bonus 1st-level di
 
 You don’t take damage or suffer harmful effects from spells on your domain spell list, even ones you aren’t of a high enough level to cast.
 
-If you’re targeted by any of these spells, as an immediate action you can expend one use of mythic power to turn the spell back upon the original caster as if using *spell turning*. Beneficial effects of spells on your domain spell list affect you normally. If you’re an oracle, this ability applies to your mystery’s bonus spells. You must have the domain class feature or mystery class feature.
+If you’re targeted by any of these spells, as an immediate action (1 AP of your next turn) you can expend one use of mythic power to turn the spell back upon the original caster as if using *spell turning*. Beneficial effects of spells on your domain spell list affect you normally. If you’re an oracle, this ability applies to your mystery’s bonus spells. You must have the domain class feature or mystery class feature.
 
 ### Enduring Blessing (Su) \[1\]
 
@@ -1149,7 +1149,7 @@ Whenever you cast a spell with a duration of 10 minutes per level or longer upon
 
 ### Flowers in Your Footsteps (Sp) \[1\]
 
-As a standard action, you can expend one use of mythic power to radiate an aura of *plant growth*. Vegetation within 60 feet of you grows rapidly, as though you had cast the overgrowth version of *plant growth* (caster level equal to your character level). This ability lasts for 1 minute per tier, and follows you wherever you move until the duration expires or you end the effect as a free action. You are immune to the effects of this overgrowth, as are any allies you designate upon using this ability, up to a maximum number of creatures equal to your tier.
+As a standard action (1 AP), you can expend one use of mythic power to radiate an aura of *plant growth*. Vegetation within 60 feet of you grows rapidly, as though you had cast the overgrowth version of *plant growth* (caster level equal to your character level). This ability lasts for 1 minute per tier, and follows you wherever you move until the duration expires or you end the effect as a free action. You are immune to the effects of this overgrowth, as are any allies you designate upon using this ability, up to a maximum number of creatures equal to your tier.
 
 ### Hand of Mercy (Su) \[1\]
 
@@ -1159,7 +1159,7 @@ At 9th tier, you can also choose from among the blinded, deafened, paralyzed, an
 
 ### Hear the Word (Su) \[1\]
 
-When you cast a spell such as *augury* that gives you information directly from a divine source, you can expend one use of mythic power to reduce the casting time to a standard action and have the answer be audible in the unmistakable voice of your deity, granting you a bonus equal to your tier on Diplomacy and Intimidate checks against those who hear the voice for a number of hours equal to your tier. If you expend one additional use of mythic power, the voice deals 1d6 points of sonic damage per tier to enemies within 60 feet of you who can hear it, and they are stunned 1 for 1 round.
+When you cast a spell such as *augury* that gives you information directly from a divine source, you can expend one use of mythic power to reduce the casting time to a standard action (1 AP) and have the answer be audible in the unmistakable voice of your deity, granting you a bonus equal to your tier on Diplomacy and Intimidate checks against those who hear the voice for a number of hours equal to your tier. If you expend one additional use of mythic power, the voice deals 1d6 points of sonic damage per tier to enemies within 60 feet of you who can hear it, and they are stunned 1 for 1 round.
 
 A successful Fortitude save (DC = 10 + your tier + your Wis modifier) halves the damage and negates the stun effect.
 
@@ -1179,7 +1179,7 @@ You can choose to sink to the bottom of any body of water you could walk upon, d
 
 ### Shape Channel (Ex) \[1\]
 
-As a standard action, you can simultaneously expend one use of mythic power and one use of your channel energy ability to channel energy in a 60-foot cone, a 20-foot-tall cylinder with a 20-foot radius, or a 120-foot line. In addition, whenever you channel energy to damage creatures (whether undead creatures with positive energy or living creatures with negative energy), you can choose to deal half damage (or one-quarter damage to creatures that succeed at their saving throws) and then push back all creatures damaged by the effect. You push each creature back 5 feet for every 1d6 points of channel energy damage you are capable of dealing. Creatures that succeed at their saving throws against your channeled energy are only pushed back half as far (minimum 5 feet). You must have the channel energy class feature to select this path ability.
+As a standard action (1 AP), you can simultaneously expend one use of mythic power and one use of your channel energy ability to channel energy in a 60-foot cone, a 20-foot-tall cylinder with a 20-foot radius, or a 120-foot line. In addition, whenever you channel energy to damage creatures (whether undead creatures with positive energy or living creatures with negative energy), you can choose to deal half damage (or one-quarter damage to creatures that succeed at their saving throws) and then push back all creatures damaged by the effect. You push each creature back 5 feet for every 1d6 points of channel energy damage you are capable of dealing. Creatures that succeed at their saving throws against your channeled energy are only pushed back half as far (minimum 5 feet). You must have the channel energy class feature to select this path ability.
 
 ## 6th-Tier Hierophant Path Abilities
 
@@ -1195,7 +1195,7 @@ You must be a cleric or druid to select this ability.
 
 ### Conduit of Divine Will (Su)
 
-Your mythic nature is directly connected to the divine. As a standard action, you can expend one use of mythic power to use channel energy, use lay on hands, or cast any one spell from your domain spell lists (as long as you can normally prepare a spell of that level). Whenever you use this ability, you also gain spell resistance equal to 10 + your tier and a +4 sacred bonus (or profane bonus if you’re evil) to your AC for a number of rounds equal to your tier.
+Your mythic nature is directly connected to the divine. As a standard action (1 AP), you can expend one use of mythic power to use channel energy, use lay on hands, or cast any one spell from your domain spell lists (as long as you can normally prepare a spell of that level). Whenever you use this ability, you also gain spell resistance equal to 10 + your tier and a +4 sacred bonus (or profane bonus if you’re evil) to your AC for a number of rounds equal to your tier.
 
 ### Overcome Curse (Su)
 
@@ -1205,7 +1205,7 @@ For example, *bestow curse* has no effect on you, and you can handle, carry, or 
 
 ### Puppet Master (Su)
 
-As a standard action, you can temporarily raise a dead creature within 60 feet to serve as your puppet for up to a number of rounds equal to your tier or until you end this effect as a free action, whichever comes first. In order to use this ability, you must expend a number of uses of mythic power equal to half the target’s Hit Dice. The creature must have been slain within a number of rounds equal to your tier. You imbue the creature with enough positive or negative energy to allow its body to function without its spirit.
+As a standard action (1 AP), you can temporarily raise a dead creature within 60 feet to serve as your puppet for up to a number of rounds equal to your tier or until you end this effect as a free action, whichever comes first. In order to use this ability, you must expend a number of uses of mythic power equal to half the target’s Hit Dice. The creature must have been slain within a number of rounds equal to your tier. You imbue the creature with enough positive or negative energy to allow its body to function without its spirit.
 
 This shell of a creature gains the mindless quality, and it acts like a puppet with you as the puppeteer.
 
@@ -1231,15 +1231,15 @@ This image lasts a number of rounds equal to your tier. This ability can be disp
 
 ### Advance (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to inspire a tactical advance on the field of battle. This allows you and each of your allies within 30 feet to take either a single move action of the character’s choice or a 5-foot step, as long as you or your ally has the ability to take such an action (for example, an unconscious character still can’t take an action). The action granted by this ability doesn’t count toward the number or type of actions a creature is allowed to take on its turn.
+As a swift action (1 AP), you can expend one use of mythic power to inspire a tactical advance on the field of battle. This allows you and each of your allies within 30 feet to take either a single move action (1 AP) of the character’s choice or a 5-foot step, as long as you or your ally has the ability to take such an action (for example, an unconscious character still can’t take an action). The action granted by this ability doesn’t count toward the number or type of actions a creature is allowed to take on its turn.
 
 ### Decisive Strike (Su) \[2\]
 
-As a swift action, you can expend one use of mythic power to give one ally within 30 feet the ability to immediately make a single melee or ranged attack on your turn. Add your tier as a bonus on the attack roll. The damage dealt by this attack bypasses all damage reduction. This attack doesn’t count toward the ally’s actions on its turn.
+As a swift action (1 AP), you can expend one use of mythic power to give one ally within 30 feet the ability to immediately make a single melee or ranged attack on your turn. Add your tier as a bonus on the attack roll. The damage dealt by this attack bypasses all damage reduction. This attack doesn’t count toward the ally’s actions on its turn.
 
 ### Rally (Su) \[1\]
 
-As a swift action, you can expend one use of mythic power to rally your allies. This gives you and each of your allies within 30 feet the option to reroll any one d20 roll after the roll is made. The granted reroll must be used before the beginning of your next turn, and the creature must take the result of the reroll, even if it is lower.
+As a swift action (1 AP), you can expend one use of mythic power to rally your allies. This gives you and each of your allies within 30 feet the option to reroll any one d20 roll after the roll is made. The granted reroll must be used before the beginning of your next turn, and the creature must take the result of the reroll, even if it is lower.
 
 ### Assured Skill (Ex) \[1\]
 
@@ -1247,7 +1247,7 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Clarion Call (Ex) \[2\]
 
-> You bestow your wrath on your allies. As a swift action, you can expend one use of mythic power to grant all allies within 30 feet the benefits of your active smite or challenge ability, directed at the same opponent you’re targeting with that ability. Only the constant effects from the smite or challenge are conferred with this ability, not the ones you can use only once. This ability lasts a number of rounds equal to your tier or until either the combat ends or the subject of the smite or challenge is dead or unconscious.
+> You bestow your wrath on your allies. As a swift action (1 AP), you can expend one use of mythic power to grant all allies within 30 feet the benefits of your active smite or challenge ability, directed at the same opponent you’re targeting with that ability. Only the constant effects from the smite or challenge are conferred with this ability, not the ones you can use only once. This ability lasts a number of rounds equal to your tier or until either the combat ends or the subject of the smite or challenge is dead or unconscious.
 
 ### Commanding Entrance (Ex) \[1\]
 
@@ -1255,7 +1255,7 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Deadly Guidance (Ex) \[1\]
 
-> You are able to point out the weak points in an enemy’s defenses, and your allies benefit from your tactical insight. As a swift action, you can expend one use of mythic power to designate a single opponent within 30 feet of you. All allies within 30 feet of that opponent gain the sneak attack ability when attacking it, and can thus deal +1d6 points of damage when flanking that opponent or when the opponent is otherwise denied its Dexterity bonus to AC. This sneak attack damage stacks with sneak attack damage from other sources. This ability lasts a number of rounds equal to half your tier (minimum 1). You can take this ability up to four times. Each time you take it, the sneak attack damage from this ability increases by 1d6.
+> You are able to point out the weak points in an enemy’s defenses, and your allies benefit from your tactical insight. As a swift action (1 AP), you can expend one use of mythic power to designate a single opponent within 30 feet of you. All allies within 30 feet of that opponent gain the sneak attack ability when attacking it, and can thus deal +1d6 points of damage when flanking that opponent or when the opponent is otherwise denied its Dexterity bonus to AC. This sneak attack damage stacks with sneak attack damage from other sources. This ability lasts a number of rounds equal to half your tier (minimum 1). You can take this ability up to four times. Each time you take it, the sneak attack damage from this ability increases by 1d6.
 
 ### Directed Assault (Ex) \[2\]
 
@@ -1265,21 +1265,21 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Distracting Assailant (Ex) \[2\]
 
-> You make a barrage of attacks and quick feints that are so distracting your opponent loses focus against all other assailants. Whenever you successfully strike a foe with a melee weapon or natural attack, you can expend one use of mythic power as a swift action. For 1 round, that opponent loses its Dexterity bonus to AC on all attacks against it other than yours.
+> You make a barrage of attacks and quick feints that are so distracting your opponent loses focus against all other assailants. Whenever you successfully strike a foe with a melee weapon or natural attack, you can expend one use of mythic power as a swift action (1 AP). For 1 round, that opponent loses its Dexterity bonus to AC on all attacks against it other than yours.
 >
 > While this ability is in effect, any allies who flank that foe gain a +4 bonus on attack rolls against it, instead of the normal +2. While the opponent is affected by this ability, each time you hit it, the duration increases by 1 round. This effect automatically ends if your turn ends and the target is not within your melee reach.
 
 ### Granted Stride (Ex) \[1\]
 
-> Your mythic grace means that you and your allies easily pass through undergrowth at full speed. Allies within 30 feet of you gain the benefits of woodland stride (as the ranger class feature), as long as they can see and hear you. As a swift action, you can expend one use of mythic power to allow allies within 30 feet to ignore naturally occurring difficult terrain in any of your favored terrains for 1 minute per tier. You must have the woodland stride and favored terrain class features to select this ability.
+> Your mythic grace means that you and your allies easily pass through undergrowth at full speed. Allies within 30 feet of you gain the benefits of woodland stride (as the ranger class feature), as long as they can see and hear you. As a swift action (1 AP), you can expend one use of mythic power to allow allies within 30 feet to ignore naturally occurring difficult terrain in any of your favored terrains for 1 minute per tier. You must have the woodland stride and favored terrain class features to select this ability.
 
 ### Helpful Rebuke (Ex) \[1\]
 
-> You are quick with stern yet helpful words of advice. Whenever an ally within line of sight fails a skill check with a skill you’re trained in, you can expend one use of mythic power as an immediate action to allow that ally to reroll that skill check with a bonus equal to your tier. If the new roll is successful, your ally succeeds at that check instead of failing it. The ally who failed the skill check must be able to see and hear you to gain this reroll. You can use this ability with a skill you aren’t trained in, but you must expend two uses of mythic power to do so, and the ally doesn’t gain your tier as a bonus on the reroll.
+> You are quick with stern yet helpful words of advice. Whenever an ally within line of sight fails a skill check with a skill you’re trained in, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to allow that ally to reroll that skill check with a bonus equal to your tier. If the new roll is successful, your ally succeeds at that check instead of failing it. The ally who failed the skill check must be able to see and hear you to gain this reroll. You can use this ability with a skill you aren’t trained in, but you must expend two uses of mythic power to do so, and the ally doesn’t gain your tier as a bonus on the reroll.
 
 ### Heroic Block (Ex) \[2\]
 
-> With surprising speed, you can leap to an ally’s defense. When a opponent makes a melee attack against one of your allies, you can expend one use of mythic power as an immediate action to move up to double your speed or take a 5-foot step. You must end this movement adjacent to the attacking opponent. When you end this movement, you can immediately use the aid another action to grant a bonus to your ally’s AC (Core Rulebook 197). This bonus is applied before the opponent’s triggering attack. These actions don’t count against your actions this turn.
+> With surprising speed, you can leap to an ally’s defense. When a opponent makes a melee attack against one of your allies, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to move up to double your speed or take a 5-foot step. You must end this movement adjacent to the attacking opponent. When you end this movement, you can immediately use the aid another action to grant a bonus to your ally’s AC (Core Rulebook 197). This bonus is applied before the opponent’s triggering attack. These actions don’t count against your actions this turn.
 
 ### Inspire Minions (Ex) \[1\]
 
@@ -1291,7 +1291,7 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Lightning Performance (Ex) \[1\]
 
-> Your tongue is as quick as any blade. You can start a bardic performance as a swift action instead of a standard action. If you expend one use of mythic power, you can instead start a bardic performance as a free action.
+> Your tongue is as quick as any blade. You can start a bardic performance as a swift action (1 AP) instead of a standard action. If you expend one use of mythic power, you can instead start a bardic performance as a free action.
 
 ### Loyalty (Ex) \[2\]
 
@@ -1299,7 +1299,7 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Menacing Presence (Su) \[1\]
 
-> Something about you puts others on edge. You can attempt an Intimidate check to influence a creature’s attitude as full-round action instead of it taking 1 minute. In combat, you can attempt an Intimidate check to demoralize an opponent as a move action. If you expend one use of mythic power, you can attempt to use Intimidate to demoralize all enemies within 30 feet as a standard action, or as a Swift action if using the Dazzling Display feat.
+> Something about you puts others on edge. You can attempt an Intimidate check to influence a creature’s attitude as full-round action (3 AP) instead of it taking 1 minute. In combat, you can attempt an Intimidate check to demoralize an opponent as a move action (1 AP). If you expend one use of mythic power, you can attempt to use Intimidate to demoralize all enemies within 30 feet as a standard action (1 AP), or as a Swift action (1 AP) if using the Dazzling Display feat.
 
 ### Mounted Marshal (Ex) \[2\]
 
@@ -1311,7 +1311,7 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Painful Gambit (Ex) \[1\]
 
-> Facing off against you is never a safe option when your allies stand beside you. When you are hit by an attack of opportunity, you can expend one use of mythic power as an immediate action to allow all of your allies to make an attack of opportunity against the creature that attacked you if it’s within their melee reach.
+> Facing off against you is never a safe option when your allies stand beside you. When you are hit by an attack of opportunity, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to allow all of your allies to make an attack of opportunity against the creature that attacked you if it’s within their melee reach.
 
 ### Perfect Aid (Ex) \[2\]
 
@@ -1345,11 +1345,11 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Rise Up (Su) \[1\]
 
-> Your allies draw strength from your courage and leadership. As a standard action, you can expend one use of mythic power to grant all of your non-mythic allies within 30 feet one use of the surge ability, using your surge die. This surge must be used within a number of rounds equal to your tier. An ally can benefit from this ability only once every 24 hours.
+> Your allies draw strength from your courage and leadership. As a standard action (1 AP), you can expend one use of mythic power to grant all of your non-mythic allies within 30 feet one use of the surge ability, using your surge die. This surge must be used within a number of rounds equal to your tier. An ally can benefit from this ability only once every 24 hours.
 
 ### Shout of Defiance (Su) \[1\]
 
-> You can channel holy energy into a righteous shout of defiance. As a standard action, you can expend one use of mythic power and one use of either channel energy or lay on hands to create a 100-foot spread of healing energy. All allies within this spread heal a number of hit points equal to 1d6 plus double your tier. If this brings an ally from negative hit points to 0 hit points or more, the ally can immediately stand up from prone without provoking an attack of opportunity.
+> You can channel holy energy into a righteous shout of defiance. As a standard action (1 AP), you can expend one use of mythic power and one use of either channel energy or lay on hands to create a 100-foot spread of healing energy. All allies within this spread heal a number of hit points equal to 1d6 plus double your tier. If this brings an ally from negative hit points to 0 hit points or more, the ally can immediately stand up from prone without provoking an attack of opportunity.
 
 ### Smiting Aura (Su) \[2\]
 
@@ -1357,7 +1357,7 @@ As a swift action, you can expend one use of mythic power to rally your allies. 
 
 ### Stand Tall (Su) \[1\]
 
-> Before you attempt a saving throw against a spell or effect that also targets one or more allies within 30 feet, you can expend one use of mythic power as an immediate action to allow your allies to use your saving throw result or their own, whichever is higher.
+> Before you attempt a saving throw against a spell or effect that also targets one or more allies within 30 feet, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to allow your allies to use your saving throw result or their own, whichever is higher.
 
 ### Tactical Genius (Su) \[1\]
 
@@ -1379,7 +1379,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Caster’s Friend (Ex) \[1\]
 
-> You bolster the concentration of spellcasting allies standing next to you. A spellcaster who is adjacent to you gains a bonus on concentration checks equal to your tier. Furthermore, if a spellcaster fails a concentration check while adjacent to you, as an immediate action you can expend one use of mythic power to allow that spellcaster to instead automatically succeed at that concentration check.
+> You bolster the concentration of spellcasting allies standing next to you. A spellcaster who is adjacent to you gains a bonus on concentration checks equal to your tier. Furthermore, if a spellcaster fails a concentration check while adjacent to you, as an immediate action (1 AP of your next turn) you can expend one use of mythic power to allow that spellcaster to instead automatically succeed at that concentration check.
 
 ### Commanding Presence (Ex) \[1\]
 
@@ -1387,7 +1387,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Concentrated Barrage (Ex) \[1\]
 
-> You can direct your allies to attack as a unified force. As a standard action, you can expend one use of mythic power to enable two allies within 30 feet of you to each make a single ranged or melee attack at a target you designate. Allies must be able to attack the target (either with a ranged weapon or by being close enough to use a melee weapon), and may choose not to.
+> You can direct your allies to attack as a unified force. As a standard action (1 AP), you can expend one use of mythic power to enable two allies within 30 feet of you to each make a single ranged or melee attack at a target you designate. Allies must be able to attack the target (either with a ranged weapon or by being close enough to use a melee weapon), and may choose not to.
 >
 > Each attack is resolved using the attacker’s highest base attack bonus, and this attack doesn’t count toward the ally’s total number of actions on its turn. At 6th tier and higher, you can affect up to three allies with this ability. At 9th tier and higher, you can affect up to four allies with this ability.
 
@@ -1401,7 +1401,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Dispel Fear (Su) \[1\]
 
-> You can rally your allies and relieve their fear. As a swift action, you can expend one use of mythic power to either end all fear effects affecting allies within 30 feet of you, or end all fear effects on one ally within line of sight who can clearly see you and hear you.
+> You can rally your allies and relieve their fear. As a swift action (1 AP), you can expend one use of mythic power to either end all fear effects affecting allies within 30 feet of you, or end all fear effects on one ally within line of sight who can clearly see you and hear you.
 
 ### Don’t Cross Me (Ex) \[1\]
 
@@ -1409,7 +1409,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Glorious Charge (Ex) \[2\]
 
-> You call your allies to make a coordinated charge at the same time. As an immediate action when you start a charge, you can expend one use of mythic power and allow an ally to charge immediately after your charge is complete. You can expend additional uses, allowing one more ally to charge per use spent. An ally’s charge doesn’t count toward the number of actions it can take on its next turn.
+> You call your allies to make a coordinated charge at the same time. As an immediate action (1 AP of your next turn) when you start a charge, you can expend one use of mythic power and allow an ally to charge immediately after your charge is complete. You can expend additional uses, allowing one more ally to charge per use spent. An ally’s charge doesn’t count toward the number of actions it can take on its next turn.
 
 ### Inspire Martyrdom (Ex) \[1\]
 
@@ -1417,11 +1417,11 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Master of Mercy (Su) \[2\]
 
-> Your touch provides great relief. If you have the mercy class feature, when you lay on hands, you can expend one use of mythic power to apply all the mercies of your level or lower instead of just the mercies you’ve selected. If you don’t have the mercy class feature, you can expend one use of mythic power as a standard action to remove a single condition from a creature you touch, using your tier as your paladin level to determine what mercies are available to you. You can select a different mercy each time you use this ability.
+> Your touch provides great relief. If you have the mercy class feature, when you lay on hands, you can expend one use of mythic power to apply all the mercies of your level or lower instead of just the mercies you’ve selected. If you don’t have the mercy class feature, you can expend one use of mythic power as a standard action (1 AP) to remove a single condition from a creature you touch, using your tier as your paladin level to determine what mercies are available to you. You can select a different mercy each time you use this ability.
 
 ### Master of Shadows (Ex) \[1\]
 
-> You are a master of moving unseen and unheard, and adept at guiding others in quiet and undetected movement. When you or any ally within 30 feet attempts Stealth checks, each of you rolls twice and takes the higher result. As a swift action, you can expend one use of mythic power to add your tier to one ally’s next Stealth check. The ally must be within 30 feet and the check must occur within the next minute.
+> You are a master of moving unseen and unheard, and adept at guiding others in quiet and undetected movement. When you or any ally within 30 feet attempts Stealth checks, each of you rolls twice and takes the higher result. As a swift action (1 AP), you can expend one use of mythic power to add your tier to one ally’s next Stealth check. The ally must be within 30 feet and the check must occur within the next minute.
 
 ### Mob Ruler (Sp) \[1\]
 
@@ -1429,11 +1429,11 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Mythic Bond (Ex) \[2\]
 
-> Your hunter’s bond ability is more powerful than most. If your bond is with an animal, that animal gains half your favored enemy bonuses. If your hunter’s bond is with your companions, you can activate the bond as a swift action, granting your allies your full favored enemy bonus instead of just half.
+> Your hunter’s bond ability is more powerful than most. If your bond is with an animal, that animal gains half your favored enemy bonuses. If your hunter’s bond is with your companions, you can activate the bond as a swift action (1 AP), granting your allies your full favored enemy bonus instead of just half.
 
 ### Shared Alertness (Ex) \[1\]
 
-> Your presence and guidance allow others to avoid traps and other dangers. Allies within 30 feet of you that can clearly see and hear you gain your trap sense ability. If you have evasion or improved evasion, you can expend one use of your mythic power as an immediate action to grant that ability to one ally within 30 feet until the beginning of your next turn.
+> Your presence and guidance allow others to avoid traps and other dangers. Allies within 30 feet of you that can clearly see and hear you gain your trap sense ability. If you have evasion or improved evasion, you can expend one use of your mythic power as an immediate action (1 AP of your next turn) to grant that ability to one ally within 30 feet until the beginning of your next turn.
 
 ### Shatter Resilience (Ex) \[1\]
 
@@ -1441,7 +1441,7 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Words of Hope (Su) \[1\]
 
-> As a standard action, you can expend one use of mythic power to inspire allies within a 30-foot radius, granting each of them the ability to roll twice and take the higher result on one attack roll, saving throw, skill check, or ability check. An ally can use this ability once per round for a number of rounds equal to half your tier, and must choose whether to roll twice before rolling the die. This is a language-dependent emotion effect.
+> As a standard action (1 AP), you can expend one use of mythic power to inspire allies within a 30-foot radius, granting each of them the ability to roll twice and take the higher result on one attack roll, saving throw, skill check, or ability check. An ally can use this ability once per round for a number of rounds equal to half your tier, and must choose whether to roll twice before rolling the die. This is a language-dependent emotion effect.
 
 ## 6th-Tier Marshal Path Abilities
 
@@ -1449,23 +1449,23 @@ You must be at least 6th tier to select these path abilities.
 
 ### Beacon of Hope (Su)
 
-> You radiate a supernatural aura that fills your allies with hope and resolve. All allies within 30 feet gain a +2 morale bonus against fear and emotion effects, and a +4 bonus on stabilization checks. Furthermore, each time one of these allies is subject to a healing spell or effect, it heals a number of additional hit points equal to your tier. Once per day as a standard action, you can expend one use of mythic power and end this aura to heal all allies within 30 feet of an amount of damage equal to 1d6 hit points per tier you possess. If dismissed, the aura automatically reactivates 24 hours later.
+> You radiate a supernatural aura that fills your allies with hope and resolve. All allies within 30 feet gain a +2 morale bonus against fear and emotion effects, and a +4 bonus on stabilization checks. Furthermore, each time one of these allies is subject to a healing spell or effect, it heals a number of additional hit points equal to your tier. Once per day as a standard action (1 AP), you can expend one use of mythic power and end this aura to heal all allies within 30 feet of an amount of damage equal to 1d6 hit points per tier you possess. If dismissed, the aura automatically reactivates 24 hours later.
 
 ### Castigate (Su)
 
-> While your words can soothe and aid your friends, they are equally adept at assaulting your foes. As a swift action, you can expend one use of mythic power to unleash a scathing verbal assault that demoralizes all opponents within 30 feet for 1 minute, as if you had successfully used the Intimidate skill. These opponents must be able to clearly see and hear you, but this ability is not language dependent.
+> While your words can soothe and aid your friends, they are equally adept at assaulting your foes. As a swift action (1 AP), you can expend one use of mythic power to unleash a scathing verbal assault that demoralizes all opponents within 30 feet for 1 minute, as if you had successfully used the Intimidate skill. These opponents must be able to clearly see and hear you, but this ability is not language dependent.
 
 ### Fast Friends (Su)
 
-> You have such a way with words that you can befriend entire groups of people with a single utterance. As a standard action, you can expend one use of mythic power to improve the attitudes of all non-mythic creatures within 30 feet by one step. You can use this ability multiple times to improve these creatures’ attitudes by multiple steps. Mythic creatures receive a Will save (DC = 10 + your tier + your Charisma modifier) to negate this effect. The improvement to attitude lasts a number of hours equal to your tier. This ability is generally ineffective in combat (except perhaps to sway the attitude of a crowd of bystanders or an unaffiliated neutral party) or against creatures that intend to harm you and your allies in the immediate future.
+> You have such a way with words that you can befriend entire groups of people with a single utterance. As a standard action (1 AP), you can expend one use of mythic power to improve the attitudes of all non-mythic creatures within 30 feet by one step. You can use this ability multiple times to improve these creatures’ attitudes by multiple steps. Mythic creatures receive a Will save (DC = 10 + your tier + your Charisma modifier) to negate this effect. The improvement to attitude lasts a number of hours equal to your tier. This ability is generally ineffective in combat (except perhaps to sway the attitude of a crowd of bystanders or an unaffiliated neutral party) or against creatures that intend to harm you and your allies in the immediate future.
 
 ### Fight On (Su)
 
-> With an order or a determined look, you spur a wounded ally to keep fighting. As an immediate action, you can expend one use of mythic power to allow a creature other than yourself that is reduced to fewer than 0 hit points to remain conscious and alive. The creature can’t die from hit point damage until after the start of your next turn. You can extend this effect for 1 round at the start of your next turn by expending another use of mythic power as a free action. Though the creature can’t be killed by hit point damage, any damage it takes still applies to its current hit points. When this ability’s effect ends, the creature falls unconscious or dies if its current hit points or other circumstances would otherwise cause it to do so. The creature must be within 30 feet for you to start or extend this effect.
+> With an order or a determined look, you spur a wounded ally to keep fighting. As an immediate action (1 AP of your next turn), you can expend one use of mythic power to allow a creature other than yourself that is reduced to fewer than 0 hit points to remain conscious and alive. The creature can’t die from hit point damage until after the start of your next turn. You can extend this effect for 1 round at the start of your next turn by expending another use of mythic power as a free action. Though the creature can’t be killed by hit point damage, any damage it takes still applies to its current hit points. When this ability’s effect ends, the creature falls unconscious or dies if its current hit points or other circumstances would otherwise cause it to do so. The creature must be within 30 feet for you to start or extend this effect.
 
 ### Inspiring Assault (Su)
 
-> As a swift action, you can expend one use of mythic power to inspire your allies to greatness in combat. Once per turn as a free action, each of your allies can either move up to its speed or make one melee or ranged attack at its full base attack bonus. These actions don’t count against its actions for the turn. Once activated, this ability lasts a number of rounds equal to your tier, but immediately ends if you don’t damage an opponent with an attack or spell on your turn. This ability doesn’t stack with *haste* or similar effects. An ally must be within 30 feet of you at the start of its turn to benefit from this ability.
+> As a swift action (1 AP), you can expend one use of mythic power to inspire your allies to greatness in combat. Once per turn as a free action, each of your allies can either move up to its speed or make one melee or ranged attack at its full base attack bonus. These actions don’t count against its actions for the turn. Once activated, this ability lasts a number of rounds equal to your tier, but immediately ends if you don’t damage an opponent with an attack or spell on your turn. This ability doesn’t stack with *haste* or similar effects. An ally must be within 30 feet of you at the start of its turn to benefit from this ability.
 
 ### Stones Will Weep (Su)
 
@@ -1475,29 +1475,29 @@ You must be at least 6th tier to select these path abilities.
 
 ### Surge of Inspiration (Su)
 
-> Your very presence pushes those around you to be their very best. As an immediate action, when an ally within line of sight misses with an attack or fails a saving throw, you can expend one use of mythic power or your confidence ability to grant the ally the benefits of your surge ability on that attack roll or saving throw. The ally uses your surge die, and can apply the bonus after the result is revealed, possibly turning a failure into a success.
+> Your very presence pushes those around you to be their very best. As an immediate action (1 AP of your next turn), when an ally within line of sight misses with an attack or fails a saving throw, you can expend one use of mythic power or your confidence ability to grant the ally the benefits of your surge ability on that attack roll or saving throw. The ally uses your surge die, and can apply the bonus after the result is revealed, possibly turning a failure into a success.
 
 ### Unswerving Loyalty (Su)
 
-> You are a bastion of strength and resolve, and you possess the ability to protect your mind from even the most powerful charms and compulsions. You gain immunity to non-mythic mind-affecting effects, though you can choose to be affected by them if you wish. When subject to a mind-affecting effect from a mythic source, you can expend one use of mythic power as an immediate action to gain immunity to that effect.
+> You are a bastion of strength and resolve, and you possess the ability to protect your mind from even the most powerful charms and compulsions. You gain immunity to non-mythic mind-affecting effects, though you can choose to be affected by them if you wish. When subject to a mind-affecting effect from a mythic source, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to gain immunity to that effect.
 
 ### Words of Valor (Su)
 
-> With a mere speech, you empower your allies to take on any foe. As a standard action, you can expend two uses of mythic power to inspire all of your allies within a 30-foot radius, granting them the effects of the spell *heroism* and making them immune to fear for 1 round per tier. Each mythic creature that is affected by this ability can use its surge ability once during this duration without having to expend one use of mythic power.
+> With a mere speech, you empower your allies to take on any foe. As a standard action (1 AP), you can expend two uses of mythic power to inspire all of your allies within a 30-foot radius, granting them the effects of the spell *heroism* and making them immune to fear for 1 round per tier. Each mythic creature that is affected by this ability can use its surge ability once during this duration without having to expend one use of mythic power.
 
 ## 1st-Tier Trickster Path Abilities
 
 ### Deadly Throw (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to draw a thrown weapon or alchemical item and make a ranged attack with it. This attack doesn’t provoke attacks of opportunity. When making a deadly throw, roll twice for the attack, take the higher result, and add your tier to the roll. If the attack misses, the weapon or alchemical item lands adjacent to the target, regardless of the range.
+As a swift action (1 AP), you can expend one use of mythic power to draw a thrown weapon or alchemical item and make a ranged attack with it. This attack doesn’t provoke attacks of opportunity. When making a deadly throw, roll twice for the attack, take the higher result, and add your tier to the roll. If the attack misses, the weapon or alchemical item lands adjacent to the target, regardless of the range.
 
 ### Fleet Charge (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to move up to your speed. At any point during this movement, you can make a single melee or ranged attack at your highest attack bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. Damage from this attack bypasses all damage reduction.
+As a swift action (1 AP), you can expend one use of mythic power to move up to your speed. At any point during this movement, you can make a single melee or ranged attack at your highest attack bonus, adding your tier to the attack roll. This is in addition to any other attacks you make this round. Damage from this attack bypasses all damage reduction.
 
 ### Surprise Strike (Ex) \[2\]
 
-As a swift action, you can expend one use of mythic power to make a melee attack or ranged attack against a target within 30 feet, in addition to any other attacks you make this round. When you make a surprise strike, the target is considered flat-footed regardless of any class features or abilities it might have, and you add your tier to the attack roll. Damage from this attack bypasses damage reduction.
+As a swift action (1 AP), you can expend one use of mythic power to make a melee attack or ranged attack against a target within 30 feet, in addition to any other attacks you make this round. When you make a surprise strike, the target is considered flat-footed regardless of any class features or abilities it might have, and you add your tier to the attack roll. Damage from this attack bypasses damage reduction.
 
 ### Aim for the Eye (Ex) \[1\]
 
@@ -1505,7 +1505,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Assured Drinker (Ex) \[2\]
 
-> No one can stop you from imbibing, even in combat. You don’t provoke attacks of opportunity when drinking an elixir, extract, or *potion*. As a swift action, you can expend one use of mythic power to retrieve and drink an elixir, extract, or *potion*.
+> No one can stop you from imbibing, even in combat. You don’t provoke attacks of opportunity when drinking an elixir, extract, or *potion*. As a swift action (1 AP), you can expend one use of mythic power to retrieve and drink an elixir, extract, or *potion*.
 
 ### Assured Skill (Ex) \[1\]
 
@@ -1513,11 +1513,11 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Astounding Disable (Ex) \[1\]
 
-> Whenever you use Disable Device to disarm a trap or open a lock, doing so is only a move action and doesn’t provoke attacks of opportunity.
+> Whenever you use Disable Device to disarm a trap or open a lock, doing so is only a move action (1 AP) and doesn’t provoke attacks of opportunity.
 
 ### Clown (Su) \[1\]
 
-> As a standard action, you can expend one use of mythic power to make one creature laugh uncontrollably, as the *hideous laughter* spell. The saving throw against this effect is equal to 10 + your tier + your Charisma modifier. If you aren’t in combat when you use this ability, it can affect any number of creatures in a burst with a radius of 10 feet per tier.
+> As a standard action (1 AP), you can expend one use of mythic power to make one creature laugh uncontrollably, as the *hideous laughter* spell. The saving throw against this effect is equal to 10 + your tier + your Charisma modifier. If you aren’t in combat when you use this ability, it can affect any number of creatures in a burst with a radius of 10 feet per tier.
 
 ### Combat Trickery (Ex) \[2\]
 
@@ -1529,15 +1529,15 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Control the Mindless (Su) \[1\]
 
-> You can gain control over mindless constructs and undead. Using this ability is a standard action, and requires you to make a Knowledge check against the target’s CMD. Use a Knowledge (arcana) check against a mindless construct, or a Knowledge (religion) check against a mindless undead. If your check equals or exceeds the creature’s CMD, you can give the creature an order that lasts up to 1 round. For every 5 by which you beat the DC, your control lasts 1 additional round. The creature’s creator or controller can’t regain control during this time unless it also uses this ability. If you expend one use of mythic power when attempting to use this ability, the duration of your control increases from rounds to an equal number of minutes.
+> You can gain control over mindless constructs and undead. Using this ability is a standard action (1 AP), and requires you to make a Knowledge check against the target’s CMD. Use a Knowledge (arcana) check against a mindless construct, or a Knowledge (religion) check against a mindless undead. If your check equals or exceeds the creature’s CMD, you can give the creature an order that lasts up to 1 round. For every 5 by which you beat the DC, your control lasts 1 additional round. The creature’s creator or controller can’t regain control during this time unless it also uses this ability. If you expend one use of mythic power when attempting to use this ability, the duration of your control increases from rounds to an equal number of minutes.
 
 ### Crime Spree (Su) \[1\]
 
-> As a standard action when not in combat, you can attempt two Sleight of Hand checks to take items from other creatures, but you take a –5 penalty on each check. As a standard action in combat, you can expend one use of mythic power to attempt a steal combat maneuver check against each creature within your reach that you choose, without provoking attacks of opportunity.
+> As a standard action (1 AP) when not in combat, you can attempt two Sleight of Hand checks to take items from other creatures, but you take a –5 penalty on each check. As a standard action (1 AP) in combat, you can expend one use of mythic power to attempt a steal combat maneuver check against each creature within your reach that you choose, without provoking attacks of opportunity.
 
 ### Deadly Dodge (Ex) \[2\]
 
-> As a swift action, you can expend one use of mythic power to gain a +4 dodge bonus to your AC until the start of your next turn. During this time, whenever a creature misses on a melee attack against you, it provokes an attack of opportunity from you. You can choose to either take this attack of opportunity or force that creature to reroll the attack and change the target to a creature of your choice that is adjacent to you and within the attacker’s reach. This reroll uses the same modifiers as the initial attack roll.
+> As a swift action (1 AP), you can expend one use of mythic power to gain a +4 dodge bonus to your AC until the start of your next turn. During this time, whenever a creature misses on a melee attack against you, it provokes an attack of opportunity from you. You can choose to either take this attack of opportunity or force that creature to reroll the attack and change the target to a creature of your choice that is adjacent to you and within the attacker’s reach. This reroll uses the same modifiers as the initial attack roll.
 
 ### Defensive Move (Ex) \[1\]
 
@@ -1555,7 +1555,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Faster than the Eye (Ex) \[1\]
 
-> Few can trace your expert skills of legerdemain. You can use Sleight of Hand to lift or plant objects as a move action with no penalty.
+> Few can trace your expert skills of legerdemain. You can use Sleight of Hand to lift or plant objects as a move action (1 AP) with no penalty.
 >
 > When you use Sleight of Hand to steal something, the target takes a penalty equal to your tier on its Perception check to notice the theft. You can use Sleight of Hand to plant a small object on someone else.
 >
@@ -1571,7 +1571,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Improbable Prestidigitation (Su) \[1\]
 
-> You can attempt a Sleight of Hand check to hide or retrieve objects in a personal extradimensional space, similar to a glove of storing. You can take 10 or 20 on this check, and the space can hold up to 1 cubic foot of material per tier. An item the size of a *potion* or dagger can be stored or retrieved with a successful DC 20 Sleight of Hand check; the DC increases to 25 for an item roughly the size of a one-handed weapon. Storing an item is a swift action, and retrieving it is a move action. As a swift action, you can expend one use of mythic power to retrieve any number of items from your extradimensional space.
+> You can attempt a Sleight of Hand check to hide or retrieve objects in a personal extradimensional space, similar to a glove of storing. You can take 10 or 20 on this check, and the space can hold up to 1 cubic foot of material per tier. An item the size of a *potion* or dagger can be stored or retrieved with a successful DC 20 Sleight of Hand check; the DC increases to 25 for an item roughly the size of a one-handed weapon. Storing an item is a swift action (1 AP), and retrieving it is a move action (1 AP). As a swift action (1 AP), you can expend one use of mythic power to retrieve any number of items from your extradimensional space.
 
 ### Inspire Minions (Ex) \[1\]
 
@@ -1579,9 +1579,9 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Knot Expert (Ex) \[1\]
 
-> You can tie knots in rope with a flick of your wrist, and can do so from the far end of the rope. You can tie a knot in any rope you hold, including turning it into a lasso, as a swift action. You can also use a whip, lasso, spiked chain, or similar weapon to constrict an opponent.
+> You can tie knots in rope with a flick of your wrist, and can do so from the far end of the rope. You can tie a knot in any rope you hold, including turning it into a lasso, as a swift action (1 AP). You can also use a whip, lasso, spiked chain, or similar weapon to constrict an opponent.
 >
-> In order to do so, you must make a successful attack with the rope-like weapon, after which you can, as a swift action, attempt a grapple combat maneuver against that creature, adding your tier to your combat maneuver check. If you are successful, the creature is considered to be grappled, though you are not, and you can deal constrict damage to the creature (as the universal monster ability) equal to the amount of damage you could normally deal with the weapon used.
+> In order to do so, you must make a successful attack with the rope-like weapon, after which you can, as a swift action (1 AP), attempt a grapple combat maneuver against that creature, adding your tier to your combat maneuver check. If you are successful, the creature is considered to be grappled, though you are not, and you can deal constrict damage to the creature (as the universal monster ability) equal to the amount of damage you could normally deal with the weapon used.
 
 ### Master Dilettante (Ex) \[1\]
 
@@ -1597,7 +1597,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### No One of Consequence (Ex) \[1\]
 
-> Your mythic nature is a cloak that can shield you from the minds and memories of others. Creatures struggle to recognize you, recall your appearance, remember the nature of conversations they had with you, and recount the actions you took when you were in their presence. If a creature makes a deliberate attempt to recall details about time spent with you, it must succeed at a Will save (DC 10 + your tier + your Charisma modifier) to recall anything beyond vague details. In addition, you’re under a permanent *nondetection* effect with a caster level equal to your character level plus your tier. You can end this effect at any time, and can resume it as a swift action.
+> Your mythic nature is a cloak that can shield you from the minds and memories of others. Creatures struggle to recognize you, recall your appearance, remember the nature of conversations they had with you, and recount the actions you took when you were in their presence. If a creature makes a deliberate attempt to recall details about time spent with you, it must succeed at a Will save (DC 10 + your tier + your Charisma modifier) to recall anything beyond vague details. In addition, you’re under a permanent *nondetection* effect with a caster level equal to your character level plus your tier. You can end this effect at any time, and can resume it as a swift action (1 AP).
 
 ### Persuasive Countenance (Su) \[1\]
 
@@ -1605,7 +1605,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Ranged Disable (Ex) \[1\]
 
-> As a standard action, you can use a thrown weapon or reach weapon to attempt a Disable Device check to disable a device. If you’re using a thrown weapon, the range of this ability is 30 feet; otherwise, it’s your reach with the reach weapon. You take a –5 penalty on the check and can’t take 10 on the check, even if you have an ability that would normally allow you to do so. If you expend one use of mythic power, you ignore the –5 penalty and can attempt the check in place of an attack (such as if making a full attack or attack of opportunity).
+> As a standard action (1 AP), you can use a thrown weapon or reach weapon to attempt a Disable Device check to disable a device. If you’re using a thrown weapon, the range of this ability is 30 feet; otherwise, it’s your reach with the reach weapon. You take a –5 penalty on the check and can’t take 10 on the check, even if you have an ability that would normally allow you to do so. If you expend one use of mythic power, you ignore the –5 penalty and can attempt the check in place of an attack (such as if making a full attack or attack of opportunity).
 
 ### Redirect Attention (Ex) \[1\]
 
@@ -1617,11 +1617,11 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Shadow Stealth (Ex) \[1\]
 
-> Whenever you’re in darkness, you can move at full speed within that area without taking a penalty on Stealth checks. As a move action, you can expend one use of mythic power to *teleport* from one area of darkness to another within 100 feet as if using greater *teleport*. You must have line of effect to the destination.
+> Whenever you’re in darkness, you can move at full speed within that area without taking a penalty on Stealth checks. As a move action (1 AP), you can expend one use of mythic power to *teleport* from one area of darkness to another within 100 feet as if using greater *teleport*. You must have line of effect to the destination.
 
 ### Sniper’s Riposte (Ex) \[1\]
 
-> You’re an expert at defending yourself while aiming a ranged weapon. You don’t provoke attacks of opportunity from making ranged attacks. As a swift action, you can expend one use of mythic power to negate the Stealth check penalty for sniping for 1 round.
+> You’re an expert at defending yourself while aiming a ranged weapon. You don’t provoke attacks of opportunity from making ranged attacks. As a swift action (1 AP), you can expend one use of mythic power to negate the Stealth check penalty for sniping for 1 round.
 
 ### Subtle Magic (Ex) \[1\]
 
@@ -1645,7 +1645,7 @@ As a swift action, you can expend one use of mythic power to make a melee attack
 
 ### Transfer Magic (Su) \[1\]
 
-> Your mythic nature allows you to take magic from others as easily as you could take their gold. By expending one use of mythic power as a standard action, you can make a melee touch attack to transfer an active magical effect from a target creature to you. If you succeed, the highest-level effect on the target transfers to you (determine randomly if the target has multiple effects with the same level), ending the effect for the target and continuing it on you with the remaining duration as if you were the original target. You may end the effect on yourself as a standard action; this doesn’t cause it to revert to the original target. If the transferred magic can’t affect you (for example, if it doesn’t affect creatures of your type), it ends immediately as if dispelled. You can’t use this ability to transfer continuous bonuses from magic items, such as an armor bonus from bracers of armor.
+> Your mythic nature allows you to take magic from others as easily as you could take their gold. By expending one use of mythic power as a standard action (1 AP), you can make a melee touch attack to transfer an active magical effect from a target creature to you. If you succeed, the highest-level effect on the target transfers to you (determine randomly if the target has multiple effects with the same level), ending the effect for the target and continuing it on you with the remaining duration as if you were the original target. You may end the effect on yourself as a standard action (1 AP); this doesn’t cause it to revert to the original target. If the transferred magic can’t affect you (for example, if it doesn’t affect creatures of your type), it ends immediately as if dispelled. You can’t use this ability to transfer continuous bonuses from magic items, such as an armor bonus from bracers of armor.
 
 ### Trap Taker (Ex) \[1\]
 
@@ -1677,17 +1677,17 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Critical Skill (Su) \[1\]
 
-> Whenever you roll a natural 20 on a skill check, you perform that skill with exceptional proficiency. Typically, this means that the task takes half the normal amount of time to accomplish. If the skill would normally take a full-round action, it instead takes a standard action. If it would normally take a standard or move action, it instead takes a swift action. If it would normally take a swift or free action, it instead takes no time at all. The GM might rule that instead of reducing the amount of time needed, using the skill takes the normal amount of time but the critical success results in some other added benefit, depending on the skill being used and the situation.
+> Whenever you roll a natural 20 on a skill check, you perform that skill with exceptional proficiency. Typically, this means that the task takes half the normal amount of time to accomplish. If the skill would normally take a full-round action (3 AP), it instead takes a standard action (1 AP). If it would normally take a standard or move action (1 AP), it instead takes a swift action (1 AP). If it would normally take a swift or free action, it instead takes no time at all. The GM might rule that instead of reducing the amount of time needed, using the skill takes the normal amount of time but the critical success results in some other added benefit, depending on the skill being used and the situation.
 
 ### Ethereal Trapsmith (Su) \[1\]
 
-> As a full-round action, you can expend one use of mythic power to spontaneously create a mechanical trap in any empty space within 30 feet. This trap must be chosen from those listed on the traps page. The trap‘s CR can’t be higher than your tier, and the trap remains in the place you designate for a number of hours equal to your tier. As long as you have line of sight to a trap that you’ve summoned with this ability, created through other means, bypassed, or reprogrammed to your benefit, you can trigger that trap as a swift action, no matter your distance to it.
+> As a full-round action (3 AP), you can expend one use of mythic power to spontaneously create a mechanical trap in any empty space within 30 feet. This trap must be chosen from those listed on the traps page. The trap‘s CR can’t be higher than your tier, and the trap remains in the place you designate for a number of hours equal to your tier. As long as you have line of sight to a trap that you’ve summoned with this ability, created through other means, bypassed, or reprogrammed to your benefit, you can trigger that trap as a swift action (1 AP), no matter your distance to it.
 
 ### Feather Step (Su) \[1\]
 
 > Your steps are deft and always sure.
 >
-> You gain a bonus on Acrobatics checks equal to your tier. You can move at full speed across any narrow or uneven surface, and can run across fragile surfaces that can’t hold your weight (including liquids) without peril as long as you end your turn on a solid surface. You leave no tracks (as *pass without trace*), and ignore adverse effects from non-magical difficult terrain and ground hazards, including caltrops. As an immediate action, you can expend one use of mythic power to balance on razor edges and pinpoints, allowing you to ignore damage from *spiked pit* traps and similar hazards for a number of rounds equal to your tier.
+> You gain a bonus on Acrobatics checks equal to your tier. You can move at full speed across any narrow or uneven surface, and can run across fragile surfaces that can’t hold your weight (including liquids) without peril as long as you end your turn on a solid surface. You leave no tracks (as *pass without trace*), and ignore adverse effects from non-magical difficult terrain and ground hazards, including caltrops. As an immediate action (1 AP of your next turn), you can expend one use of mythic power to balance on razor edges and pinpoints, allowing you to ignore damage from *spiked pit* traps and similar hazards for a number of rounds equal to your tier.
 
 ### Fickle Attack (Ex) \[2\] \[1\] (costs 2 the first time, then 1 each time you take it again)
 
@@ -1695,11 +1695,11 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Menacing Whisper (Ex) \[1\]
 
-> Whenever you’re adjacent to a creature that can’t see you (whether through Stealth, magic, or the creature being unable to see) but can hear you, as a swift action you can attempt an Intimidate check to demoralize that creature. You can expend one use of mythic power as a free action to give such a creature a *suggestion*. The save DC against this effect is 10 + your tier + your Charisma modifier.
+> Whenever you’re adjacent to a creature that can’t see you (whether through Stealth, magic, or the creature being unable to see) but can hear you, as a swift action (1 AP) you can attempt an Intimidate check to demoralize that creature. You can expend one use of mythic power as a free action to give such a creature a *suggestion*. The save DC against this effect is 10 + your tier + your Charisma modifier.
 
 ### Mirror Dodge (Su) \[2\]
 
-> When hit by a melee or ranged attack, you can expend one use of mythic power as an immediate action to replace yourself with an illusory duplicate and *teleport* to any open square within 30 feet of your current position. You take no damage from this attack, which instead destroys your illusory duplicate (similar to *mirror image*). Using this ability requires a line of effect to the teleportation target square.
+> When hit by a melee or ranged attack, you can expend one use of mythic power as an immediate action (1 AP of your next turn) to replace yourself with an illusory duplicate and *teleport* to any open square within 30 feet of your current position. You take no damage from this attack, which instead destroys your illusory duplicate (similar to *mirror image*). Using this ability requires a line of effect to the teleportation target square.
 
 ### Perfect Lie (Ex) \[1\]
 
@@ -1707,15 +1707,15 @@ You must be at least 3rd tier to select these path abilities.
 
 ### Perfect Mimic (Su) \[1\]
 
-> You can use the Disguise skill as a full-round action. When you attempt to impersonate a specific person, those familiar with the individual receive only half the normal bonus from familiarity to see through your disguise. If you expend one use of mythic power when creating a disguise to impersonate an individual, you can read that creature’s mind as if using *detect thoughts* with a range of 1 mile. This allows you to better mimic the individual, granting you a further +10 bonus on opposed Disguise skill checks. The target of your impersonation receives a Will saving throw (DC 10 + your tier + your Charisma modifier) to negate the *detect thoughts* aspect of this ability.
+> You can use the Disguise skill as a full-round action (3 AP). When you attempt to impersonate a specific person, those familiar with the individual receive only half the normal bonus from familiarity to see through your disguise. If you expend one use of mythic power when creating a disguise to impersonate an individual, you can read that creature’s mind as if using *detect thoughts* with a range of 1 mile. This allows you to better mimic the individual, granting you a further +10 bonus on opposed Disguise skill checks. The target of your impersonation receives a Will saving throw (DC 10 + your tier + your Charisma modifier) to negate the *detect thoughts* aspect of this ability.
 
 ### Sardonic Wit (Su) \[1\]
 
-> You know exactly when to lighten the mood and help shake off the doldrums. As a move action, you can expend one use of mythic power to remove a single mind-affecting effect from one creature within 30 feet. This ability doesn’t work on effects with an instantaneous or permanent duration.
+> You know exactly when to lighten the mood and help shake off the doldrums. As a move action (1 AP), you can expend one use of mythic power to remove a single mind-affecting effect from one creature within 30 feet. This ability doesn’t work on effects with an instantaneous or permanent duration.
 
 ### Vanishing Move (Su) \[2\]
 
-> When you wish to not be seen, you aren’t. As a swift action, you can make yourself invisible until the end of your turn. This effect ends if you do anything other than move. If you expend one use of mythic power when using this ability, it instead acts as greater *invisibility* using double your tier as your caster level.
+> When you wish to not be seen, you aren’t. As a swift action (1 AP), you can make yourself invisible until the end of your turn. This effect ends if you do anything other than move. If you expend one use of mythic power when using this ability, it instead acts as greater *invisibility* using double your tier as your caster level.
 
 ## 6th-Tier Trickster Path Abilities
 
@@ -1723,11 +1723,11 @@ You must be at least 6th tier to select these path abilities.
 
 ### Bloody Streak (Ex)
 
-> Whenever you successfully deal sneak attack damage to a creature, you can expend one use of mythic power as a swift action to heighten your bloodshed. Thereafter, every consecutive round that you deal sneak attack damage, add a cumulative +1d6 bonus on your sneak attack damage roll. The targets of these sneak attacks don’t need to be the same. You can gain a maximum number of bonus d6s on your sneak attack damage in this way equal to your tier. As soon as you fail to deal sneak attack damage to a creature in a round, this effect ends and you no longer gain the bonus on sneak attack damage until you use this ability again. For example, a 10th-level rogue, 6th-tier trickster uses this ability after dealing 5d6 points of sneak attack damage to a foe. On the next round, she deals 6d6 points of sneak attack damage to a foe (5d6 from her rogue levels + 1d6 from this ability). The round after that, she deals 7d6 points of sneak attack damage, but on the next round, she fails to deal any sneak attack damage, and so her sneak attack damage resets back to 5d6.
+> Whenever you successfully deal sneak attack damage to a creature, you can expend one use of mythic power as a swift action (1 AP) to heighten your bloodshed. Thereafter, every consecutive round that you deal sneak attack damage, add a cumulative +1d6 bonus on your sneak attack damage roll. The targets of these sneak attacks don’t need to be the same. You can gain a maximum number of bonus d6s on your sneak attack damage in this way equal to your tier. As soon as you fail to deal sneak attack damage to a creature in a round, this effect ends and you no longer gain the bonus on sneak attack damage until you use this ability again. For example, a 10th-level rogue, 6th-tier trickster uses this ability after dealing 5d6 points of sneak attack damage to a foe. On the next round, she deals 6d6 points of sneak attack damage to a foe (5d6 from her rogue levels + 1d6 from this ability). The round after that, she deals 7d6 points of sneak attack damage, but on the next round, she fails to deal any sneak attack damage, and so her sneak attack damage resets back to 5d6.
 
 ### Class Mimic (Su)
 
-> The abilities of your allies are available to you with a touch. As a standard action, you can expend one use of mythic power and touch a willing creature to copy one of that creature’s class features. You gain the use of this class feature for 10 minutes per tier, using the level of the creature touched as your level for any effects based on level. You can’t copy an ability that has a limited number of uses per day (such as rage, smite evil, or spellcasting) or an ability that involves a companion (such as eidolon, hunter’s bond, or nature bond). You can have only one use of this ability in effect at one time. If you use this ability again, any previous use immediately ends. You can’t copy the same ability more than once per day.
+> The abilities of your allies are available to you with a touch. As a standard action (1 AP), you can expend one use of mythic power and touch a willing creature to copy one of that creature’s class features. You gain the use of this class feature for 10 minutes per tier, using the level of the creature touched as your level for any effects based on level. You can’t copy an ability that has a limited number of uses per day (such as rage, smite evil, or spellcasting) or an ability that involves a companion (such as eidolon, hunter’s bond, or nature bond). You can have only one use of this ability in effect at one time. If you use this ability again, any previous use immediately ends. You can’t copy the same ability more than once per day.
 
 ### Enduring Elixir (Su)
 
@@ -1739,11 +1739,11 @@ You must be at least 6th tier to select these path abilities.
 
 ### Slayer’s Cyclone (Ex)
 
-> When you spot a breach in an enemy’s defenses, you make attacks with a lethal blend of speed and precision. As a full-round action, you can make a single melee attack at your highest base attack bonus. If you hit and the target is flat-footed, deal damage as normal. You can then move and make another attack. You may continue this process until you miss, attack an opponent that isn’t flat-footed, or attack an opponent you already hit this round. You can’t move more than double your speed in this way in 1 round.
+> When you spot a breach in an enemy’s defenses, you make attacks with a lethal blend of speed and precision. As a full-round action (3 AP), you can make a single melee attack at your highest base attack bonus. If you hit and the target is flat-footed, deal damage as normal. You can then move and make another attack. You may continue this process until you miss, attack an opponent that isn’t flat-footed, or attack an opponent you already hit this round. You can’t move more than double your speed in this way in 1 round.
 
 ### Steal Power (Su)
 
-> By attempting a melee touch attack as a standard action, you can try to steal mythic power from another creature. The target must have at least one use of mythic power available. If the attack hits, attempt an opposed d20 roll against the target, adding your tier. If your total exceeds that of the target, the target loses one use of mythic power and you gain one use. You can use this ability on a given creature only once per day.
+> By attempting a melee touch attack as a standard action (1 AP), you can try to steal mythic power from another creature. The target must have at least one use of mythic power available. If the attack hits, attempt an opposed d20 roll against the target, adding your tier. If your total exceeds that of the target, the target loses one use of mythic power and you gain one use. You can use this ability on a given creature only once per day.
 
 ### Unending Performance (Su)
 

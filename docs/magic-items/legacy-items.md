@@ -40,7 +40,7 @@ The chasing of this +1 *mithral breastplate* makes it appear to be crafted of dr
 
 **5th Level**: Conqueror's breastplate acts as a +2 *mithral breastplate*.
 
-**10th Level**: Once per day as an immediate action, the wearer can use *draconic reservoir* as a spell-like ability.
+**10th Level**: Once per day as an immediate action (1 AP of your next turn), the wearer can use *draconic reservoir* as a spell-like ability.
 
 **15th Level**: Conqueror's breastplate acts as a +3 *determination mithral breastplate*.
 
@@ -78,7 +78,7 @@ The runic scrollwork that decorates this thick iron headband calls to mind the i
 
 **4th Level**: The runecarved headband acts as a *headband of vast intelligence* +2 (granting skill ranks in Perception).
 
-**7th Level**: Once per day when the wearer attempts a saving throw against a magical glyph, symbol, sigil, or similar written trap, as an immediate action, he can attempt a Spellcraft check against the same DC to dispel the effect.
+**7th Level**: Once per day when the wearer attempts a saving throw against a magical glyph, symbol, sigil, or similar written trap, as an immediate action (1 AP of your next turn), he can attempt a Spellcraft check against the same DC to dispel the effect.
 
 **10th Level**: The runecarved headband acts as a *headband of vast intelligence* +4 (granting skill ranks in Knowledge [history] and Spellcraft).
 
@@ -100,7 +100,7 @@ The hilt of this +1 *adamantine scimitar* has a gritty texture, as if sprinkled 
 
 **7th Level**: The scimitar of deliverance acts as a +2 *keen adamantine scimitar*.
 
-**11th Level**: As a full-round action, the wielder can flourish the scimitar of deliverance. All creatures within 60 feet who see the display can immediately attempt a new saving throw with a +4 morale bonus against any effect they are under that causes the confused, frightened, panicked, paralyzed, shaken, or staggered condition.
+**11th Level**: As a full-round action (3 AP), the wielder can flourish the scimitar of deliverance. All creatures within 60 feet who see the display can immediately attempt a new saving throw with a +4 morale bonus against any effect they are under that causes the confused, frightened, panicked, paralyzed, shaken, or staggered condition.
 
 **15th Level**: The scimitar of deliverance acts as a +4 *keen adamantine scimitar*.
 
@@ -108,7 +108,7 @@ The hilt of this +1 *adamantine scimitar* has a gritty texture, as if sprinkled 
 
 **Goal**: The bearer must free at least 50 creatures from captivity, slavery, or unlawful imprisonment.
 
-**Reward**: As an immediate action a number of times per day equal to his character level, the wielder can use *liberating command* as a spell-like ability.
+**Reward**: As an immediate action (1 AP of your next turn) a number of times per day equal to his character level, the wielder can use *liberating command* as a spell-like ability.
 
 ### Totemic Figurine
 
@@ -154,7 +154,7 @@ Worn by a famed explorer on treks across the frozen top of the world, these util
 
 **Aura** moderate abjuration
 
-This shield is made from a thick glass that is as sturdy as steel. The shield functions as a +1 *heavy steel shield*. It was originally crafted by a legendary guard-captain using glass from the nearby deserts. Legends claim that she originally perished attempting to hold off an uprising, but her shield continued to defend innocents, animated by some unknown force. As an immediate action, the wielder of the unyielding aegis can raise the shield to intercept an attack targeting her or an ally within reach. The shield reduces the damage from the attack by 5, as if the target had DR 5/—. This does not damage the shield in any way.
+This shield is made from a thick glass that is as sturdy as steel. The shield functions as a +1 *heavy steel shield*. It was originally crafted by a legendary guard-captain using glass from the nearby deserts. Legends claim that she originally perished attempting to hold off an uprising, but her shield continued to defend innocents, animated by some unknown force. As an immediate action (1 AP of your next turn), the wielder of the unyielding aegis can raise the shield to intercept an attack targeting her or an ally within reach. The shield reduces the damage from the attack by 5, as if the target had DR 5/—. This does not damage the shield in any way.
 
 **3rd Level**: The wielder gains a +2 bonus to Reflex saves.
 
@@ -168,7 +168,7 @@ This shield is made from a thick glass that is as sturdy as steel. The shield fu
 
 **Goal**: The wielder must prevent a total of 1,000 points of damage with the unyielding aegis.
 
-**Reward**: The wielder can animate the unyielding aegis as if it had the animated special property for up to 1 minute at a time. While animated in this way, the wielder can command the shield to defend a creature within 30 feet as a swift action. The shield flies to that creature immediately, granting that creature the benefits of the shield as if it were wielding the shield. The original wielder of the shield can still spend her immediate action to use the shield to intercept attacks while the shield is defending a different creature.
+**Reward**: The wielder can animate the unyielding aegis as if it had the animated special property for up to 1 minute at a time. While animated in this way, the wielder can command the shield to defend a creature within 30 feet as a swift action (1 AP). The shield flies to that creature immediately, granting that creature the benefits of the shield as if it were wielding the shield. The original wielder of the shield can still spend her immediate action (1 AP of your next turn) to use the shield to intercept attacks while the shield is defending a different creature.
 
 ### Wayfinder of Cooperation
 
@@ -176,11 +176,11 @@ This shield is made from a thick glass that is as sturdy as steel. The shield fu
 
 **Aura** strong transmutation
 
-A near-mythic explorer renowned for her ability to perform daring rescues carried this wayfinder. In addition to its ability to cast light, as a typical wayfinder, the wayfinder of cooperation can be attuned to an ioun stone as a standard action by touching the stone to the wayfinder's sturdy rosewood casing. Once the wayfinder of cooperation is attuned, the bearer of the wayfinder of cooperation can concentrate as a standard action to sense the direction of and distance to the attuned ioun stone. This bond functions across any distance, as long as the bearer and the stone are on the same plane. The wayfinder can be attuned to only one ioun stone at a time, and the bearer can dismiss the attunement at any time as a free action.
+A near-mythic explorer renowned for her ability to perform daring rescues carried this wayfinder. In addition to its ability to cast light, as a typical wayfinder, the wayfinder of cooperation can be attuned to an ioun stone as a standard action (1 AP) by touching the stone to the wayfinder's sturdy rosewood casing. Once the wayfinder of cooperation is attuned, the bearer of the wayfinder of cooperation can concentrate as a standard action (1 AP) to sense the direction of and distance to the attuned ioun stone. This bond functions across any distance, as long as the bearer and the stone are on the same plane. The wayfinder can be attuned to only one ioun stone at a time, and the bearer can dismiss the attunement at any time as a free action.
 
 **6th Level**: The bearer increases the bonus she grants from the aid another action by 1. This does not stack with the benefits of other feats or class features that improve the bonus she grants to an ally with aid another.
 
-**8th Level**: Once per day as a standard action, the bearer can use inspire competence as if she were a bard with a level equal to her character level. The bonuses granted by this ability last until the ally completes the task he is attempting.
+**8th Level**: Once per day as a standard action (1 AP), the bearer can use inspire competence as if she were a bard with a level equal to her character level. The bonuses granted by this ability last until the ally completes the task he is attempting.
 
 **11th Level**: The bearer is constantly aware of the position and condition (as *status*) of anyone who has activated an ioun stone attuned to the wayfinder of cooperation.
 

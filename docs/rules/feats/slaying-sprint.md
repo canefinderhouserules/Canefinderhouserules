@@ -4,6 +4,6 @@ With swift feet and deadly intent, you finish off your target before anyone sees
 
 **Prerequisites**: Dodge, [Mobility](mobility.md), [Spring Attack](spring-attack.md), base attack bonus +13.
 
-**Benefit**: You can move up to half your speed instead of taking a 5-foot step when taking a full-round action to perform a coup de grace. Performing a coup de grace does not provoke attacks of opportunity.
+**Benefit**: You can move up to half your speed instead of taking a 5-foot step when taking a full-round action (3 AP) to perform a coup de grace. Performing a coup de grace does not provoke attacks of opportunity.
 
 You can use this feat only when wielding a light or one-handed weapon.

@@ -122,7 +122,7 @@ The following items are just some of the pieces of equipment used by goblins.
 
 **Mellowroot**: Sneaky goblin chieftains give this orange paste to the tribe’s warriors before proposing a particularly bold raid. Consuming mellowroot causes a euphoric feeling that makes you feel invulnerable. For 1 hour after consuming mellowroot, you gain a +5 alchemical bonus versus fear effects. However, while under the effects of mellowroot, you must make a DC 15 Will saving throw when you try to leave the threatened area of an opponent. If you fail the saving throw, you cannot leave the threatened area with that action but do not lose the action.
 
-**Stillgut**: Drinking a vial of this bland, bluish liquid grants you a +5 alchemical bonus on Fortitude saves to avoid nausea or sickness for 1 hour. If you are already nauseated, you can drink stillgut as a move action. Drinking it in this fashion grants you a second saving throw (without the +5 bonus). Goblins often use stillgut so they can choke down meat or other foods in advanced stages of rot or decay.
+**Stillgut**: Drinking a vial of this bland, bluish liquid grants you a +5 alchemical bonus on Fortitude saves to avoid nausea or sickness for 1 hour. If you are already nauseated, you can drink stillgut as a move action (1 AP). Drinking it in this fashion grants you a second saving throw (without the +5 bonus). Goblins often use stillgut so they can choke down meat or other foods in advanced stages of rot or decay.
 
 | Items | Cost | Weight | Craft DC |
 |---|---|---|---|

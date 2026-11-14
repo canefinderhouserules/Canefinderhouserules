@@ -26,7 +26,7 @@ Dwarves can select the following racial traits.
 
 **Tightfisted**: Dwarves with this racial trait gain a +4 racial bonus to their CMD against disarm and steal combat maneuvers and a +2 racial bonus on Perception checks to notice Sleight of Hand attempts. If a dwarf with this trait notices a Sleight of Hand attempt to steal from him and the dwarf is not flat-footed or has Combat Reflexes, the attempt triggers an attack of opportunity from that dwarf. This racial trait replaces stability and stonecunning.
 
-**Viscous Blood**: Dwarves with this trait takes 1 less point of hit point damage, ability damage, or ability drain (minimum 1) from bleed and blood drain. They can attempt Heal checks to staunch their own bleeding as a swift action each round. This racial trait replaces hardy.
+**Viscous Blood**: Dwarves with this trait takes 1 less point of hit point damage, ability damage, or ability drain (minimum 1) from bleed and blood drain. They can attempt Heal checks to staunch their own bleeding as a swift action (1 AP) each round. This racial trait replaces hardy.
 
 ### Favored Class Options
 

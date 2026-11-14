@@ -76,7 +76,7 @@ If a mythic creature bonds to an existing legendary item, it can use a number of
 
 The following legendary abilities can be added to a legendary item.
 
-**Adroit**: Choose a single skill that can be augmented by the item's legendary surge. As a swift action, the item's bonded creature can expend one use of legendary power to gain a +20 insight bonus on the next check she attempts with that skill before the end of her turn. The item must have a legendary surge that augments skill checks to have this ability.
+**Adroit**: Choose a single skill that can be augmented by the item's legendary surge. As a swift action (1 AP), the item's bonded creature can expend one use of legendary power to gain a +20 insight bonus on the next check she attempts with that skill before the end of her turn. The item must have a legendary surge that augments skill checks to have this ability.
 
 **Dedicated Bond**: An item with this ability can't be used by anyone not bonded with it. Such creatures can't use the item's non-mythic special abilities, its legendary power, or its legendary surge. Furthermore, using a special ritual that takes 10 minutes to perform, the bonded creature can sequester the item in a solid object at least twice as large as the item (such as putting a sword in a stone or an oak tree). The item becomes impossible to remove by any creature not bonded to it unless by means of a *wish* or *miracle* cast by a mythic creature of higher tier than the bonded creature. If the bonded creature is at least 8th tier, she can instead perform this sequestering ritual and transfer the bond to another mythic creature she designates upon completing the ritual.
 
@@ -90,7 +90,7 @@ An item must be a minor or major artifact to have this ability. This is a persis
 
 An item must be a major artifact to have this ability. This is a persistent ability.
 
-**Flexible Bond**: The bonded creature can lend this item out with full utility to other creatures. As a standard action, the bonded creature can grant a temporary bond to a number of creatures equal to or less than her mythic tier. These creatures can be mythic or non-mythic. A creature with a temporary bond can fully utilize all of the item's legendary abilities, and if that creature has mythic power, he can expend it to use the item's legendary abilities that require legendary power use (including its legendary surge). This temporary bond ends either when the bonded creature wills it—a mental command requiring no action, which can be done at any time while she is conscious—or when the bond is broken between this item and its bonded creature.
+**Flexible Bond**: The bonded creature can lend this item out with full utility to other creatures. As a standard action (1 AP), the bonded creature can grant a temporary bond to a number of creatures equal to or less than her mythic tier. These creatures can be mythic or non-mythic. A creature with a temporary bond can fully utilize all of the item's legendary abilities, and if that creature has mythic power, he can expend it to use the item's legendary abilities that require legendary power use (including its legendary surge). This temporary bond ends either when the bonded creature wills it—a mental command requiring no action, which can be done at any time while she is conscious—or when the bond is broken between this item and its bonded creature.
 
 **Foe-Biting**: When this item deals damage, its user can use mythic power to double the total amount of damage it deals. If the attack is a normal attack, the bearer can expend one use of legendary power to double the total amount of damage. If the attack is a confirmed critical hit, the bearer must instead expend two uses of legendary power to double the total damage. Damage from weapon special abilities (such as *flaming*) and precision-based damage are also doubled.
 
@@ -130,7 +130,7 @@ Only armor, shields, and worn items can have this ability.
 
 **Powerful**: An item with this ability has two additional uses of legendary power per day. This ability can be taken up to three times. The item must be a minor or major artifact to take this a second time, and a major artifact to take this a third time. This is a persistent ability.
 
-**Rejuvenating**: The bearer of this item can expend uses of legendary power to rejuvenate her body. As a standard action, she can expend one use of legendary power to heal herself of 10 points of damage per mythic tier she possesses. Alternatively, as a standard action she can expend two uses of legendary power to remove a single condition affecting her.
+**Rejuvenating**: The bearer of this item can expend uses of legendary power to rejuvenate her body. As a standard action (1 AP), she can expend one use of legendary power to heal herself of 10 points of damage per mythic tier she possesses. Alternatively, as a standard action (1 AP) she can expend two uses of legendary power to remove a single condition affecting her.
 
 A legendary item must be a minor or major artifact to have this ability.
 

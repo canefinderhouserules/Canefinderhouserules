@@ -278,31 +278,31 @@ A kineticist gains the defense wild talent from her primary element at 2nd level
 
 **Element** air; **Type** defense (Su); **Level** —; **Burn** 0
 
-You constantly surround yourself with a whirling torrent of air, crackling arcs of lightning, or both to protect yourself from ranged attacks. All ranged attacks made with physical weapons suffer a 20% miss chance against you, except for attacks from massive weapons such as a giant’s thrown boulder or a ballista. This ability has no effect on ray attacks. The miss chance increases by 5% for every 5 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the miss chance by 5% until the next time your burn is removed. You can continue to accept points of burn to increase the miss chance further, up to a maximum of 75%. Whenever you accept burn while using an air wild talent, the energy surging through you causes your enveloping winds to also affect non-physical ranged attacks such as ray attacks for 1 round. You can dismiss or restore this effect as an immediate action.
+You constantly surround yourself with a whirling torrent of air, crackling arcs of lightning, or both to protect yourself from ranged attacks. All ranged attacks made with physical weapons suffer a 20% miss chance against you, except for attacks from massive weapons such as a giant’s thrown boulder or a ballista. This ability has no effect on ray attacks. The miss chance increases by 5% for every 5 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the miss chance by 5% until the next time your burn is removed. You can continue to accept points of burn to increase the miss chance further, up to a maximum of 75%. Whenever you accept burn while using an air wild talent, the energy surging through you causes your enveloping winds to also affect non-physical ranged attacks such as ray attacks for 1 round. You can dismiss or restore this effect as an immediate action (1 AP of your next turn).
 
 ### Flesh of Stone
 
 **Element** earth; **Type** defense (Su); **Level** —; **Burn** 0
 
-Your skin hardens like stone, dampening the impact of most attacks. You gain DR 1/adamantine. This DR increases by 1 for every 2 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the DR by 1 until the next time your burn is removed, to a maximum DR equal to your kineticist level. Whenever you accept burn while using an earth wild talent, the energy surging through you causes your damage reduction to change from DR/adamantine to DR/—for 1 round. You can dismiss and restore this effect as an immediate action.
+Your skin hardens like stone, dampening the impact of most attacks. You gain DR 1/adamantine. This DR increases by 1 for every 2 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the DR by 1 until the next time your burn is removed, to a maximum DR equal to your kineticist level. Whenever you accept burn while using an earth wild talent, the energy surging through you causes your damage reduction to change from DR/adamantine to DR/—for 1 round. You can dismiss and restore this effect as an immediate action (1 AP of your next turn).
 
 ### Force Ward
 
 **Element** aether; **Type** defense (Su); **Level** —; **Burn** 0
 
-You constantly surround yourself with a ward of force. You gain a number of temporary hit points equal to your kineticist level. You always lose these temporary hit points first, even before other temporary hit points. If an attack deals less damage than you still have as temporary hit points from force ward, it still reduces those temporary hit points but otherwise counts as a miss for the purpose of abilities that trigger on a hit or a miss. These temporary hit points regenerate at a rate of 1 per minute. By accepting 1 point of burn as a standard action, you can increase the maximum number of temporary hit points provided by your force ward by half your kineticist level until the next time your burn is removed. If you use this ability multiple times, the increases stack. For every 2 points of burn you accept in this way, your force ward’s rate of regeneration increases by 1 hit point per minute. Whenever you accept burn while using an aether wild talent, you siphon some of the energy from the aether flowing through you and your force ward recovers a number of temporary hit points equal to your character level, up to its current maximum. You can dismiss or restore your force ward as an immediate action, but doing so doesn’t change the number of temporary hit points available, and the temporary hit points don’t recover while this ability is inactive.
+You constantly surround yourself with a ward of force. You gain a number of temporary hit points equal to your kineticist level. You always lose these temporary hit points first, even before other temporary hit points. If an attack deals less damage than you still have as temporary hit points from force ward, it still reduces those temporary hit points but otherwise counts as a miss for the purpose of abilities that trigger on a hit or a miss. These temporary hit points regenerate at a rate of 1 per minute. By accepting 1 point of burn as a standard action (1 AP), you can increase the maximum number of temporary hit points provided by your force ward by half your kineticist level until the next time your burn is removed. If you use this ability multiple times, the increases stack. For every 2 points of burn you accept in this way, your force ward’s rate of regeneration increases by 1 hit point per minute. Whenever you accept burn while using an aether wild talent, you siphon some of the energy from the aether flowing through you and your force ward recovers a number of temporary hit points equal to your character level, up to its current maximum. You can dismiss or restore your force ward as an immediate action (1 AP of your next turn), but doing so doesn’t change the number of temporary hit points available, and the temporary hit points don’t recover while this ability is inactive.
 
 ### Searing Flesh
 
 **Element** fire; **Type** defense (Su); **Level** —; **Burn** 0
 
-Your body becomes painfully hot. Whenever a creature hits you with a natural attack or an unarmed strike, that creature takes 1 point of fire damage per 4 kineticist levels you possess (minimum 1 point of fire damage). A creature in a grapple with you takes double this amount of damage at the end of each of its turns. Weapons that strike you also take this damage, though the damage is unlikely to penetrate the weapon’s hardness. By accepting 1 point of burn, you can increase this damage by 1 point per 4 kineticist levels you possess until the next time your burn is removed. You can increase the damage in this way up to seven times. Whenever you accept burn while using a fire wild talent, the surging flame causes your searing flesh to deal double its current amount of damage for 1 round (a creature in a grapple with you takes a total of four times as much damage as normal). You can dismiss or restore this effect as an immediate action.
+Your body becomes painfully hot. Whenever a creature hits you with a natural attack or an unarmed strike, that creature takes 1 point of fire damage per 4 kineticist levels you possess (minimum 1 point of fire damage). A creature in a grapple with you takes double this amount of damage at the end of each of its turns. Weapons that strike you also take this damage, though the damage is unlikely to penetrate the weapon’s hardness. By accepting 1 point of burn, you can increase this damage by 1 point per 4 kineticist levels you possess until the next time your burn is removed. You can increase the damage in this way up to seven times. Whenever you accept burn while using a fire wild talent, the surging flame causes your searing flesh to deal double its current amount of damage for 1 round (a creature in a grapple with you takes a total of four times as much damage as normal). You can dismiss or restore this effect as an immediate action (1 AP of your next turn).
 
 ### Shroud of Water
 
 **Element** water; **Type** defense (Su); **Level** —; **Burn** 0
 
-You surround yourself with a shroud of water, ice, or both that protects you from harm. The shroud can either cover your body, functioning as armor, or float around you and block attacks, functioning as a shield. It grants either a +4 armor bonus to AC or a +2 shield bonus to AC, and you can change the type of bonus as a standard action. This bonus increases by 1 for every 4 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the bonus by 1 until the next time your burn is removed. You can increase the bonus multiple times in this way, but it can’t be increased by more than 50% of its starting value. When you change the shroud to grant a shield bonus, any bonus in excess of this limit doesn’t apply, but it remains if you change the shroud’s bonus type again. Whenever you accept burn while using a water wild talent, the water coalescing around you allows your shroud to grant both the armor bonus and the shield bonus for 1 round. You can dismiss or restore this effect as an immediate action.
+You surround yourself with a shroud of water, ice, or both that protects you from harm. The shroud can either cover your body, functioning as armor, or float around you and block attacks, functioning as a shield. It grants either a +4 armor bonus to AC or a +2 shield bonus to AC, and you can change the type of bonus as a standard action (1 AP). This bonus increases by 1 for every 4 kineticist levels you possess beyond 2nd. By accepting 1 point of burn, you can increase the bonus by 1 until the next time your burn is removed. You can increase the bonus multiple times in this way, but it can’t be increased by more than 50% of its starting value. When you change the shroud to grant a shield bonus, any bonus in excess of this limit doesn’t apply, but it remains if you change the shroud’s bonus type again. Whenever you accept burn while using a water wild talent, the water coalescing around you allows your shroud to grant both the armor bonus and the shield bonus for 1 round. You can dismiss or restore this effect as an immediate action (1 AP of your next turn).
 
 ## Infusion Wild Talents
 
@@ -518,7 +518,7 @@ Choose a manufactured weapon in your hand (not an unarmed strike or natural atta
 
 **Saving Throw** Reflex negates
 
-Your kinetic blast surrounds your foes in elemental matter. Whenever a blast with this infusion deals damage to a foe, that foe becomes [entangled](../../rules/appendices/conditions.md#entangled) for 1 minute. The foe can remove this condition as a standard action with a successful [Escape Artist](../../rules/skills/escape-artist.md) or Strength check (with the same DC as for saves against your kinetic blast) or by dealing an amount of damage to the entangling matter equal to double your kineticist level (the matter has hardness 0). If the foe was already entangled by this infusion and fails its save against a second instance of this infusion, the increased amount of elemental matter fuses to the ground, causing the foe to be rooted in place as though anchored to an immobile object.
+Your kinetic blast surrounds your foes in elemental matter. Whenever a blast with this infusion deals damage to a foe, that foe becomes [entangled](../../rules/appendices/conditions.md#entangled) for 1 minute. The foe can remove this condition as a standard action (1 AP) with a successful [Escape Artist](../../rules/skills/escape-artist.md) or Strength check (with the same DC as for saves against your kinetic blast) or by dealing an amount of damage to the entangling matter equal to double your kineticist level (the matter has hardness 0). If the foe was already entangled by this infusion and fails its save against a second instance of this infusion, the increased amount of elemental matter fuses to the ground, causing the foe to be rooted in place as though anchored to an immobile object.
 
 ### Eruption
 
@@ -783,7 +783,7 @@ You grab a large number of objects and throw them all at once. You can use your 
 
 **Saving Throw** Reflex negates
 
-You send an elemental mass, energy ball, or object into a particular square within 30 feet, dealing 1/4 the normal amount of damage (or half the normal amount of damage, for an energy blast) to all creatures in that square. The mobile blast lasts until you dismiss it as a free action, lose consciousness, or move farther than 30 feet from it. Each round on your turn as a move action, you can move the mobile blast to another square within range; either way, it continues to deal damage to all creatures in its final square each round if they fail their saving throws.
+You send an elemental mass, energy ball, or object into a particular square within 30 feet, dealing 1/4 the normal amount of damage (or half the normal amount of damage, for an energy blast) to all creatures in that square. The mobile blast lasts until you dismiss it as a free action, lose consciousness, or move farther than 30 feet from it. Each round on your turn as a move action (1 AP), you can move the mobile blast to another square within range; either way, it continues to deal damage to all creatures in its final square each round if they fail their saving throws.
 
 You can have only a single mobile blast in existence at a time. If the mobile blast’s total burn cost before applying any reduction for gather power is 0, it has no maximum duration. Otherwise, it lasts for a maximum number of rounds equal to your Constitution modifier, and afterward you can’t create another mobile blast for a number of minutes equal to the number of rounds it existed. A mobile blast is always extremely loud and visible. The saving throw DC is Dexterity-based.
 
@@ -910,7 +910,7 @@ When you learn this infusion, select an [unchained monk style strike](unchained-
 
 **Associated Blasts** electric, charged water, thunderstorm; **Saving Throw** Will negates
 
-Your blast sends strange electric signals through the target's body, scrambling its synapses and causing it to become staggered for 1 round. The target is aware it can choose to take a move action to remove the staggered condition inflicted by this infusion. This infusion is a mind-affecting effect.
+Your blast sends strange electric signals through the target's body, scrambling its synapses and causing it to become staggered for 1 round. The target is aware it can choose to take a move action (1 AP) to remove the staggered condition inflicted by this infusion. This infusion is a mind-affecting effect.
 
 ### Telekinetic Boomerang
 
@@ -918,11 +918,11 @@ Your blast sends strange electric signals through the target's body, scrambling 
 
 **Associated Blasts** telekinetic; **Saving Throw** none
 
-This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object doesn't return to you, and you can't try again).
+This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action (1 AP), you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object doesn't return to you, and you can't try again).
 
 ??? note "Original rule"
 
-    This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents the object from taking damage, but it also prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object takes damage and doesn't return to you, and you can't try again).
+    This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents the object from taking damage, but it also prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action (1 AP), you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object takes damage and doesn't return to you, and you can't try again).
 
 ### Tempered Iron Infusion
 
@@ -1060,7 +1060,7 @@ A kineticist can select one of the following wild talents at each even level, pr
 
 **Prerequisites** emptiness
 
-You are always under the effect of [*nondetection*](../../magic/spells/nondetection.md) as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action. You can accept 1 point of burn to grant a creature touched the effects of *nondetection*.
+You are always under the effect of [*nondetection*](../../magic/spells/nondetection.md) as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action (1 AP). You can accept 1 point of burn to grant a creature touched the effects of *nondetection*.
 
 ### Aerial Adaptation
 
@@ -1086,7 +1086,7 @@ You can spin a small building, bridge, or other edifice out of aether, and even 
 
 **Element** aether; **Type** utility (Sp); **Level** 5; **Burn** 0
 
-You use strands of aether to animate an object. You can animate a Medium or smaller object as an animated object with no Construction Point abilities (except for stone or metal [common], if the object is constructed of one of those materials). Each round on your turn, you must take a move action to guide the object, or it reverts to its inanimate state. By accepting 1 point of burn, you can pour a bit of your own sentience into the aether puppet, allowing the effect to persist for 1 round per kineticist level without requiring additional actions. At 12th level, you can animate a Large or smaller object, which gains all the abilities of the Medium animated object plus the additional attack ability. At 14th level, you can animate a Huge or smaller object, which gains all the abilities of the Large animated object. At 16th level, you can animate a Gargantuan or smaller object, which gains all the abilities of the Huge animated object, as well as the metal (mithral) ability if the object is made of mithral. At 18th level, you can animate a Colossal or smaller object, which gains all the abilities of the Gargantuan animated object, plus the metal (adamantine) ability if the object is made of adamantine.
+You use strands of aether to animate an object. You can animate a Medium or smaller object as an animated object with no Construction Point abilities (except for stone or metal [common], if the object is constructed of one of those materials). Each round on your turn, you must take a move action (1 AP) to guide the object, or it reverts to its inanimate state. By accepting 1 point of burn, you can pour a bit of your own sentience into the aether puppet, allowing the effect to persist for 1 round per kineticist level without requiring additional actions. At 12th level, you can animate a Large or smaller object, which gains all the abilities of the Medium animated object plus the additional attack ability. At 14th level, you can animate a Huge or smaller object, which gains all the abilities of the Large animated object. At 16th level, you can animate a Gargantuan or smaller object, which gains all the abilities of the Huge animated object, as well as the metal (mithral) ability if the object is made of mithral. At 18th level, you can animate a Colossal or smaller object, which gains all the abilities of the Gargantuan animated object, plus the metal (adamantine) ability if the object is made of adamantine.
 
 ### Air Cushion
 
@@ -1098,7 +1098,7 @@ You cushion a fall from any height. You are constantly under the effects of feat
 
 **Element** air; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You are always surrounded by air, as air bubble. As a standard action, you can accept 1 point of burn to extend the effect to a number of additional creatures equal to your Constitution modifier for 1 minute per kineticist level you possess.
+You are always surrounded by air, as air bubble. As a standard action (1 AP), you can accept 1 point of burn to extend the effect to a number of additional creatures equal to your Constitution modifier for 1 minute per kineticist level you possess.
 
 ### Air Shroud, Greater
 
@@ -1130,7 +1130,7 @@ You can also use your aerokinesis to make it harder to detect you or others by s
 
 **Element** earth; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas from a distance as if using the sift cantrip.
+You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, clay, and other similar materials up to 15 feet as a move action (1 AP). You can search earthen and stone areas from a distance as if using the sift cantrip.
 
 ### Basic Hydrokinesis
 
@@ -1148,7 +1148,7 @@ You can use your inner flame to reproduce the effects of a flare, light, or spar
 
 **Element** aether; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-This ability is similar to mage hand, except you can move an object that weighs up to 5 pounds per 2 kineticist levels you possess (minimum 5 pounds), and you can move magical objects. Additionally, you can create a container of entwined strands of aether in order to hold liquids or piles of small objects of the same weight. You can dip the container to pick up or drop a liquid as a move action. If you possess the extended range wild talent, you can increase the range of basic telekinesis to medium range and increase the rate of movement to 30 feet per round, and if you possess the extreme range wild talent, you can increase the range of basic telekinesis to long range and increase the rate of movement to 60 feet per round. You can also use your basic telekinesis to duplicate the effects of the open/ close cantrip.
+This ability is similar to mage hand, except you can move an object that weighs up to 5 pounds per 2 kineticist levels you possess (minimum 5 pounds), and you can move magical objects. Additionally, you can create a container of entwined strands of aether in order to hold liquids or piles of small objects of the same weight. You can dip the container to pick up or drop a liquid as a move action (1 AP). If you possess the extended range wild talent, you can increase the range of basic telekinesis to medium range and increase the rate of movement to 30 feet per round, and if you possess the extreme range wild talent, you can increase the range of basic telekinesis to long range and increase the rate of movement to 60 feet per round. You can also use your basic telekinesis to duplicate the effects of the open/ close cantrip.
 
 ### Body of Air
 
@@ -1192,13 +1192,13 @@ You gain cold resistance equal to twice your current amount of burn.
 
 **Prerequisites** cold adaptation, shroud of water
 
-You chill your shroud of water and send the cold around you, creating an aura of numbing cold around yourself. Until the next time your burn is removed, you can begin or end the cold aura at will as a swift action. The temperature in the area 30 feet around you lowers by 5° F per kineticist level you possess, to a minimum modified temperature of –10° F. If this brings the temperature in the area below 40° F, all creatures within 5 feet of you take a –4 penalty to Dexterity. You are immune to these effects, as are creatures that are immune to cold or that benefit from effects that protect against temperature, such as endure elements.
+You chill your shroud of water and send the cold around you, creating an aura of numbing cold around yourself. Until the next time your burn is removed, you can begin or end the cold aura at will as a swift action (1 AP). The temperature in the area 30 feet around you lowers by 5° F per kineticist level you possess, to a minimum modified temperature of –10° F. If this brings the temperature in the area below 40° F, all creatures within 5 feet of you take a –4 penalty to Dexterity. You are immune to these effects, as are creatures that are immune to cold or that benefit from effects that protect against temperature, such as endure elements.
 
 ### Corpse Puppet
 
 **Element** void; **Type** utility (Sp); **Level** 4; **Burn** 0
 
-You draw upon negative energy to animate a nearby corpse as a zombie or a fast zombie (your choice). You can animate a zombie only if its Hit Dice are no greater than your kineticist level – 4. Each round on your turn, you must take a move action to guide the zombie, or it reverts to a corpse (but retains any damage if you later turn it into a zombie again with this utility talent). By accepting 1 point of burn, you can pour a bit of your own sentience into the zombie, allowing it to persist for 1 round per kineticist level without requiring additional actions on your part, or until the next time your burn is removed if the zombie has half your maximum zombie Hit Dice or fewer. At 12th level, you can animate a zombie with a number of Hit Dice no greater than your kineticist level – 2. At 16th level, you can animate a zombie with a number of Hit Dice no greater than your kineticist level.
+You draw upon negative energy to animate a nearby corpse as a zombie or a fast zombie (your choice). You can animate a zombie only if its Hit Dice are no greater than your kineticist level – 4. Each round on your turn, you must take a move action (1 AP) to guide the zombie, or it reverts to a corpse (but retains any damage if you later turn it into a zombie again with this utility talent). By accepting 1 point of burn, you can pour a bit of your own sentience into the zombie, allowing it to persist for 1 round per kineticist level without requiring additional actions on your part, or until the next time your burn is removed if the zombie has half your maximum zombie Hit Dice or fewer. At 12th level, you can animate a zombie with a number of Hit Dice no greater than your kineticist level – 2. At 16th level, you can animate a zombie with a number of Hit Dice no greater than your kineticist level.
 
 ### Cryokinetic Stasis
 
@@ -1212,7 +1212,7 @@ You encase yourself or a willing target in an icy sheen, placing the target in a
 
 **Prerequisites** emptiness
 
-The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action to attempt a caster level check to remove a curse on yourself or another as per [*remove curse*](../../magic/spells/remove-curse.md). If the curse normally could not be removed by *remove curse*, you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
+The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action (1 AP) to attempt a caster level check to remove a curse on yourself or another as per [*remove curse*](../../magic/spells/remove-curse.md). If the curse normally could not be removed by *remove curse*, you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
 
 ### Earth Climb
 
@@ -1290,7 +1290,7 @@ You create a passage through a fire or pool of lava. The passage is 5 feet wide 
 
 **Element** fire; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You can sculpt shapes out of flame or alter a fire’s spread. As a standard action, you can move one 5-foot square of an ongoing fire per kineticist level you possess to any square contiguous to that fire. For instance, a 4th-level kineticist could move 4 contiguous squares from the center of a 20-foot-by-20-foot fire to the fire’s edge in order to create a safe path to escape. The fire continues to spread normally after you sculpt it.
+You can sculpt shapes out of flame or alter a fire’s spread. As a standard action (1 AP), you can move one 5-foot square of an ongoing fire per kineticist level you possess to any square contiguous to that fire. For instance, a 4th-level kineticist could move 4 contiguous squares from the center of a 20-foot-by-20-foot fire to the fire’s edge in order to create a safe path to escape. The fire continues to spread normally after you sculpt it.
 
 ### Fire Steed
 
@@ -1310,7 +1310,7 @@ You imbue a willing animal, magical beast, or other creature that can serve as a
 
 **Element** fire; **Type** utility (Sp); **Level** 3; **Burn** 0
 
-You shoot a burst of flame behind you as a standard action, propelling you up to 60 feet in a straight line, including into the air; any movement upward costs double. If you end your turn mid-air, you fall on your next turn unless you use flame jet again.
+You shoot a burst of flame behind you as a standard action (1 AP), propelling you up to 60 feet in a straight line, including into the air; any movement upward costs double. If you end your turn mid-air, you fall on your next turn unless you use flame jet again.
 
 ### Flame Jet, Greater
 
@@ -1318,7 +1318,7 @@ You shoot a burst of flame behind you as a standard action, propelling you up to
 
 **Prerequisite** flame jet
 
-You can use flame jet as a move action and can emanate a mild jet of flame, allowing you to hover without spending an action.
+You can use flame jet as a move action (1 AP) and can emanate a mild jet of flame, allowing you to hover without spending an action.
 
 ### Flame Shield
 
@@ -1334,13 +1334,13 @@ Flickering flames surround you until the next time your burn is removed. While y
 
 **Prerequisite** force ward
 
-You create an immobile sphere or hemisphere of force around your square or squares. The force barrier functions as a wall of force in all other ways. Activating this ability is a standard action, and the barrier lasts until the beginning of your next turn. Each round, just before the barrier would disappear, you can extend its duration by accepting 1 point of burn. If an attack manages to destroy the force barrier, you immediately take 1 point of burn.
+You create an immobile sphere or hemisphere of force around your square or squares. The force barrier functions as a wall of force in all other ways. Activating this ability is a standard action (1 AP), and the barrier lasts until the beginning of your next turn. Each round, just before the barrier would disappear, you can extend its duration by accepting 1 point of burn. If an attack manages to destroy the force barrier, you immediately take 1 point of burn.
 
 ### From the Ashes
 
 **Element** fire; **Type** utility (Sp); **Level** 9; **Burn** 2
 
-When you are about to fall [unconscious](../../rules/appendices/conditions.md#unconscious) or die from hit point damage, as an immediate action you can burst into flames that leave behind only ash, which cannot be appreciably affected by most attacks or effects, though a disintegrate spell or similar magic can annihilate it. At the start of your next turn, unless the ash has been completely destroyed, you arise in the square where the most ash is located, having taken the damage from the triggering effect but having also healed 5 points of damage per kineticist level you possess.
+When you are about to fall [unconscious](../../rules/appendices/conditions.md#unconscious) or die from hit point damage, as an immediate action (1 AP of your next turn) you can burst into flames that leave behind only ash, which cannot be appreciably affected by most attacks or effects, though a disintegrate spell or similar magic can annihilate it. At the start of your next turn, unless the ash has been completely destroyed, you arise in the square where the most ash is located, having taken the damage from the triggering effect but having also healed 5 points of damage per kineticist level you possess.
 
 ### Greater Fire Steed
 
@@ -1362,7 +1362,7 @@ You are constantly protected by endure elements against hot temperatures only. Y
 
 **Prerequisites** heat adaptation, searing flesh
 
-You create an aura of shimmering heat that distorts the area around you. Until the next time your burn is removed, you can begin or end the heat aura as a swift action. The temperature in the area 30 feet around you rises by 5° F per kineticist level you possess, to a maximum modified temperature of 120° F. If this brings the temperature to at least 90° F, all attacks made by creatures within 5 feet of you suffer a 20% miss chance due to concealment. You are immune to these effects, as are those immune to fire or benefiting from endure elements.
+You create an aura of shimmering heat that distorts the area around you. Until the next time your burn is removed, you can begin or end the heat aura as a swift action (1 AP). The temperature in the area 30 feet around you rises by 5° F per kineticist level you possess, to a maximum modified temperature of 120° F. If this brings the temperature to at least 90° F, all attacks made by creatures within 5 feet of you suffer a 20% miss chance due to concealment. You are immune to these effects, as are those immune to fire or benefiting from endure elements.
 
 ### Ice Path
 
@@ -1402,13 +1402,13 @@ You painfully push forth jagged chunks of rock from your flesh. Until the next t
 
 **Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
 
-You create a terrifying display of elemental power. This ability functions as [Dazzling Display](../../rules/feats/dazzling-display.md), except you can use this ability as a standard action and you add half your kineticist level as a bonus on your [Intimidate](../../rules/skills/intimidate.md) check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as [Shatter Defenses](../../rules/feats/shatter-defenses.md)) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
+You create a terrifying display of elemental power. This ability functions as [Dazzling Display](../../rules/feats/dazzling-display.md), except you can use this ability as a standard action (1 AP) and you add half your kineticist level as a bonus on your [Intimidate](../../rules/skills/intimidate.md) check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as [Shatter Defenses](../../rules/feats/shatter-defenses.md)) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
 
 ### Kinetic Cover
 
 **Element** aether, earth, or water; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You call up elemental matter to defend yourself and your allies from attacks. As a standard action, you can select one face of a square within 30 feet of you and move elemental matter to block that face, providing total cover from that direction. The face you select must be supported by the ground, and the kinetic cover cannot support more than 5 pounds of weight. Water, ice, and telekinetic force are translucent, but earth, metal, mud, and the like are opaque and block line of sight. A creature who strikes the cover can easily destroy it. Regardless of its composition, the cover has hardness 0, AC 5, and 2 hit points per kineticist level you possess. You can have a number of kinetic covers in existence equal to your Constitution modifier + 1/2 your kineticist level.
+You call up elemental matter to defend yourself and your allies from attacks. As a standard action (1 AP), you can select one face of a square within 30 feet of you and move elemental matter to block that face, providing total cover from that direction. The face you select must be supported by the ground, and the kinetic cover cannot support more than 5 pounds of weight. Water, ice, and telekinetic force are translucent, but earth, metal, mud, and the like are opaque and block line of sight. A creature who strikes the cover can easily destroy it. Regardless of its composition, the cover has hardness 0, AC 5, and 2 hit points per kineticist level you possess. You can have a number of kinetic covers in existence equal to your Constitution modifier + 1/2 your kineticist level.
 
 ### Kinetic Dissolution
 
@@ -1422,7 +1422,7 @@ Choose either the dissolution's child alternate racial trait or the light and da
 
 **Element** universal; **Type** utility (Sp); **Level** 5; **Burn** 1
 
-You are able to suspend your body in a large mass of elemental matter. Until the next time your burn is removed, you can change your size to Large or shift back to your original size as a standard action. This doesn’t change your ability scores in any way. At 16th level, you can accept 1 additional point of burn to instead change your size to Huge. You cannot use kinetic form to decrease your size.
+You are able to suspend your body in a large mass of elemental matter. Until the next time your burn is removed, you can change your size to Large or shift back to your original size as a standard action (1 AP). This doesn’t change your ability scores in any way. At 16th level, you can accept 1 additional point of burn to instead change your size to Huge. You cannot use kinetic form to decrease your size.
 
 ### Kinetic Healer
 
@@ -1438,7 +1438,7 @@ With a touch, you can heal a willing living creature of an amount of damage equa
 
 You recover from 1d4 points of ability score damage to one of your physical ability scores (Strength, Dexterity, or Constitution). This also eliminates any fatigue that you suffer, and improves an exhaustion condition to [fatigued](../../rules/appendices/conditions.md#fatigued).
 
-If you have the kinetic healer utility wild talent, you can use both kinetic restoration and kinetic healer on the same target with one standard action.
+If you have the kinetic healer utility wild talent, you can use both kinetic restoration and kinetic healer on the same target with one standard action (1 AP).
 
 ### Kinetic Revivification
 
@@ -1564,7 +1564,7 @@ You have greater control over your self telekinesis. Otherwise, this wild talent
 
 **Saving Throw** see text; **Spell Resistance** no
 
-As a standard action, you can push or pull a 5-foot cube of earth or unworked stone within 30 feet, moving the cube 5 feet in any direction. You can create raised platforms, stairs up a cliff, holes, or other useful features. This doesn’t cause the earth to float in the air, although in areas with plenty of earth, you can move a cube upward, creating a short pillar. If you move the earth beneath a creature’s feet, it can attempt a DC 20 Reflex save to leap elsewhere and avoid moving along with the earth.
+As a standard action (1 AP), you can push or pull a 5-foot cube of earth or unworked stone within 30 feet, moving the cube 5 feet in any direction. You can create raised platforms, stairs up a cliff, holes, or other useful features. This doesn’t cause the earth to float in the air, although in areas with plenty of earth, you can move a cube upward, creating a short pillar. If you move the earth beneath a creature’s feet, it can attempt a DC 20 Reflex save to leap elsewhere and avoid moving along with the earth.
 
 ### Shift Earth, Greater
 
@@ -1608,7 +1608,7 @@ By accepting 1 point of burn, you can enable your allies to fly, as *mass fly*, 
 
 **Saving Throw** Reflex negates; **Spell Resistance** no
 
-As a standard action, you call forth slippery water or ice, creating any of the effects of the grease spell for 1 round. You can accept 1 point of burn at the start of your next turn to extend the duration to 1 minute per kineticist level you possess.
+As a standard action (1 AP), you call forth slippery water or ice, creating any of the effects of the grease spell for 1 round. You can accept 1 point of burn at the start of your next turn to extend the duration to 1 minute per kineticist level you possess.
 
 ### Smoke Storm
 
@@ -1630,7 +1630,7 @@ You shape metal into a clockwork creature, as spark of life except you summon a 
 
 **Element** universal; **Type** utility (Sp); **Level** 5; **Burn** 0
 
-You breathe a semblance of life into elemental matter, which takes the form of a Medium elemental of any of your elements as if summoned by summon monster IV with a caster level equal to your kineticist level, except the elemental gains the mindless trait. Each round on your turn, you must take a move action to guide the elemental or it collapses back into its component element. By accepting 1 point of burn, you can pour a bit of your own sentience into the elemental, removing the mindless quality and allowing it to persist for 1 round per kineticist level without requiring any further actions. At 12th level, you can choose to form a Large elemental as if by summon monster V; at 14th level, you can choose to form a Huge elemental as if by summon monster VI; at 16th level, you can choose to form a greater elemental as if by summon monster VII; and at 18th level, you can choose to form an elder elemental as if by summon monster VIII.
+You breathe a semblance of life into elemental matter, which takes the form of a Medium elemental of any of your elements as if summoned by summon monster IV with a caster level equal to your kineticist level, except the elemental gains the mindless trait. Each round on your turn, you must take a move action (1 AP) to guide the elemental or it collapses back into its component element. By accepting 1 point of burn, you can pour a bit of your own sentience into the elemental, removing the mindless quality and allowing it to persist for 1 round per kineticist level without requiring any further actions. At 12th level, you can choose to form a Large elemental as if by summon monster V; at 14th level, you can choose to form a Huge elemental as if by summon monster VI; at 16th level, you can choose to form a greater elemental as if by summon monster VII; and at 18th level, you can choose to form an elder elemental as if by summon monster VIII.
 
 ### Spell Deflection
 
@@ -1670,7 +1670,7 @@ You can perform any sort of fine manipulation you choose within close range, inc
 
 **Prerequisites** force barrier, force ward
 
-You can create a globe of force, as the telekinetic sphere spell, that lasts as long as you concentrate as a standard action, and you can move the globe as a move action. You can accept 1 point of burn to increase the duration to 1 minute per level and eliminate the need to concentrate to maintain the globe.
+You can create a globe of force, as the telekinetic sphere spell, that lasts as long as you concentrate as a standard action (1 AP), and you can move the globe as a move action (1 AP). You can accept 1 point of burn to increase the duration to 1 minute per level and eliminate the need to concentrate to maintain the globe.
 
 ### Telekinetic Haul
 
@@ -1734,7 +1734,7 @@ When you take the withdraw or run action, you can leave a wall of fire in all sq
 
 **Element** earth; **Type** utility (Su); **Level** 3; **Burn** 0
 
-You can take a move action to gain tremorsense 30 feet for 1 round on any earth or stone surface that you touch. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you possess. While benefiting from this tremorsense, your earth blasts and composite blasts that include earth components don’t suffer a miss chance from concealment or total concealment against creatures you detect with your tremorsense.
+You can take a move action (1 AP) to gain tremorsense 30 feet for 1 round on any earth or stone surface that you touch. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you possess. While benefiting from this tremorsense, your earth blasts and composite blasts that include earth components don’t suffer a miss chance from concealment or total concealment against creatures you detect with your tremorsense.
 
 ### Tremorsense, Greater
 
@@ -1780,7 +1780,7 @@ When you whisper, you can have the wind carry your voice to the ears of anyone y
 
 **Saving Throw** none; see text; **Spell Resistance** no
 
-You can manipulate massive quantities of water. As a standard action, you can raise or lower the level of water as if using control water, or move an amount of water equal to 1/1,000th the amount controlled by that spell to a different location in range. The water remains where you placed it for as long as you remain motionless and take a standard action each round to concentrate on this effect. This wild talent causes a slow effect on creatures made of water, just like control water (Will negates). When you cease concentrating, the water flows normally unless you accept 1 point of burn to extend the duration and hold the water in its current position for 10 minutes per kineticist level you possess.
+You can manipulate massive quantities of water. As a standard action (1 AP), you can raise or lower the level of water as if using control water, or move an amount of water equal to 1/1,000th the amount controlled by that spell to a different location in range. The water remains where you placed it for as long as you remain motionless and take a standard action (1 AP) each round to concentrate on this effect. This wild talent causes a slow effect on creatures made of water, just like control water (Will negates). When you cease concentrating, the water flows normally unless you accept 1 point of burn to extend the duration and hold the water in its current position for 10 minutes per kineticist level you possess.
 
 ### Waterdancer
 
@@ -1812,7 +1812,7 @@ By focusing on your connection to air and seeding the air around you for 10 minu
 
 **Prerequisite** engulfing winds
 
-You can call forth mighty winds in an enormous area. As a standard action, you can alter the wind around you as if using control winds, but the change remains only for as long as you continue to take a standard action to concentrate on this effect. If you accept 1 point of burn, you can extend the duration to 10 minutes per kineticist level you possess without your needing to concentrate.
+You can call forth mighty winds in an enormous area. As a standard action (1 AP), you can alter the wind around you as if using control winds, but the change remains only for as long as you continue to take a standard action (1 AP) to concentrate on this effect. If you accept 1 point of burn, you can extend the duration to 10 minutes per kineticist level you possess without your needing to concentrate.
 
 ### Windsight
 
@@ -1832,7 +1832,7 @@ You can send a slight breeze in a path up to 480 feet long and then back to wher
 
 **Prerequisite** air cushion or air’s leap
 
-The air bends to your will, allowing you to soar to great heights. You are constantly under the effects of fly. If this effect is dispelled, you can call it forth again as a standard action.
+The air bends to your will, allowing you to soar to great heights. You are constantly under the effects of fly. If this effect is dispelled, you can call it forth again as a standard action (1 AP).
 
 Medium Mediums channel spirits into themselves, using their own bodies as vessels for astral entities spawned from myths and legends. A medium balances his need for the spirits’
 

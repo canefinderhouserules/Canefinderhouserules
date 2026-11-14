@@ -30,7 +30,7 @@
 
 **Replacement Power**: The following granted power replaces the eyes of darkness power of the Darkness domain.
 
-*Moonfire (Su)*: At 4th level, as a standard action, you can shoot a blast of divine moonlight from your eyes as a ranged touch attack against a single target within 30 feet. Moonfire deals 1d6 points of damage per class levels you have, and the target is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per class level you have. Moonfire deals 1d10 points of damage per class level you have against lycanthropes. You can use this ability once per day at 4th level, and one additional time per day for every 2 levels beyond 4th.
+*Moonfire (Su)*: At 4th level, as a standard action (1 AP), you can shoot a blast of divine moonlight from your eyes as a ranged touch attack against a single target within 30 feet. Moonfire deals 1d6 points of damage per class levels you have, and the target is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per class level you have. Moonfire deals 1d10 points of damage per class level you have against lycanthropes. You can use this ability once per day at 4th level, and one additional time per day for every 2 levels beyond 4th.
 
 **Replacement Domain Spells**: 1st—[*faerie fire*](../spells/faerie-fire.md), 4th—[*moonstruck*](../spells/moonstruck.md), 6th—[*dream*](../spells/dream.md).
 
@@ -42,7 +42,7 @@
 
 **Replacement Power**: The following granted power replaces the touch of darkness power of the Darkness domain.
 
-*Night Hunter (Su)*: As a swift action, you can blend into the shadows of the night, becoming nearly invisible. As long as you are in an area of dim light or darkness, you are invisible (as per [*invisibility*](../spells/invisibility.md)) to creatures without darkvision. This ability lasts for a number of rounds equal to your cleric level. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
+*Night Hunter (Su)*: As a swift action (1 AP), you can blend into the shadows of the night, becoming nearly invisible. As long as you are in an area of dim light or darkness, you are invisible (as per [*invisibility*](../spells/invisibility.md)) to creatures without darkvision. This ability lasts for a number of rounds equal to your cleric level. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 1st—[*sleep*](../spells/sleep.md), 6th—[*nightmare*](../spells/nightmare.md).
 
@@ -54,6 +54,6 @@
 
 **Replacement Power**: The following granted power replaces the touch of darkness ability of the Darkness domain or the bleeding touch ability of the Death domain.
 
-*Whispering Shadows (Su)*: You can darken the shadows around you and cause them to hiss, confounding and distracting your enemies. As an immediate action, you can force a target within 30 feet to reroll a miss chance due to concealment or a saving throw against an illusion or necromancy spell. The target of this ability must keep the result of the second roll, even if it is worse than the original roll. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Whispering Shadows (Su)*: You can darken the shadows around you and cause them to hiss, confounding and distracting your enemies. As an immediate action (1 AP of your next turn), you can force a target within 30 feet to reroll a miss chance due to concealment or a saving throw against an illusion or necromancy spell. The target of this ability must keep the result of the second roll, even if it is worse than the original roll. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 1st—[*ray of enfeeblement*](../spells/ray-of-enfeeblement.md), 4th—[*phantasmal killer*](../spells/phantasmal-killer.md), 8th—[*orb of the void*](../spells/orb-of-the-void.md)

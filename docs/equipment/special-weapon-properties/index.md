@@ -34,7 +34,7 @@
 
 **Trip Crit**: On a successful critical hit with a weapon of this type, you can trip the target of the attack. The wielder can then attempt a combat maneuver check to trip his opponent as a free action. This trip attempt does not provoke an attack of opportunity from the creature you are attempting to trip if that creature is not threatening you.
 
-**Quick:** Can be drawn as a swift action even if hidden; this requires a DC 15 Dexterity check, or DC 10 with Sleight of Hand (if you have at least 3 ranks in Sleight of Hand, you can take 10 on this action in combat).
+**Quick:** Can be drawn as a swift action (1 AP) even if hidden; this requires a DC 15 Dexterity check, or DC 10 with Sleight of Hand (if you have at least 3 ranks in Sleight of Hand, you can take 10 on this action in combat).
 
 **Hideable:** Easy to hide; nobody knows you are armed unless they search you.
 
@@ -61,17 +61,17 @@
 
 **Anti-shield:** Ignores 2 points of AC from shields (real, physical ones; the *shield* spell doesn’t count).
 
-**Light Flail:** If you spend a swift action, your next attack deals double the weapon’s damage (only the weapon’s: 1d6 becomes 2d6, with no double Strength or anything like that). This attack takes a –1 penalty.
+**Light Flail:** If you spend a swift action (1 AP), your next attack deals double the weapon’s damage (only the weapon’s: 1d6 becomes 2d6, with no double Strength or anything like that). This attack takes a –1 penalty.
 
-**Heavy Flail:** If you spend a move action, your next attack deals double the weapon’s damage (only the weapon’s: 1d8 becomes 2d8, with no double Strength or anything like that). This attack takes a –1 penalty.
+**Heavy Flail:** If you spend a move action (1 AP), your next attack deals double the weapon’s damage (only the weapon’s: 1d8 becomes 2d8, with no double Strength or anything like that). This attack takes a –1 penalty.
 
-**Versatile:** By spending a swift action, it can gain one of these weapon special abilities: Disarm-, Grapple-, Heavy Part (the same swift action activates it; you don’t spend 2 swift actions), or Lunge Weapon.
+**Versatile:** By spending a swift action (1 AP), it can gain one of these weapon special abilities: Disarm-, Grapple-, Heavy Part (the same swift action (1 AP) activates it; you don’t spend 2 swift actions), or Lunge Weapon.
 
-**Heavy Part:** By spending a swift action, you change how you use your weapon so it deals bludgeoning damage.
+**Heavy Part:** By spending a swift action (1 AP), you change how you use your weapon so it deals bludgeoning damage.
 
 **Coup:** The weapon can increase its critical multiplier by an extra ×1 when making a coup de grace, or you can choose not to provoke an attack of opportunity but have a ×1 lower multiplier.
 
-**Group X:** A weapon sold in groups of X, all of which have any modifiers or enchantments placed on them. This is normally for thrown weapons designed to be compact and to come in identical groups. “Reloading” this type of weapon, such as recovering 5 javelins stuck in an enemy, requires a full-round action that provokes an attack of opportunity, next to the corpse with the projectiles (the ones that missed are assumed to be close enough that the full-round action also represents fetching them, unless the GM hates you and wants to mess with you).
+**Group X:** A weapon sold in groups of X, all of which have any modifiers or enchantments placed on them. This is normally for thrown weapons designed to be compact and to come in identical groups. “Reloading” this type of weapon, such as recovering 5 javelins stuck in an enemy, requires a full-round action (3 AP) that provokes an attack of opportunity, next to the corpse with the projectiles (the ones that missed are assumed to be close enough that the full-round action (3 AP) also represents fetching them, unless the GM hates you and wants to mess with you).
 
 **Non-Finesseable:** This weapon can’t be used with Weapon Finesse, even if it is a light weapon.
 
@@ -85,7 +85,7 @@
 
 **Semi-Automatic:** A semi-automatic weapon normally fires one shot as an attack. However, the user can take a full-attack action to fire twice, as if using the Rapid Shot feat (including taking a -2 penalty on all attacks). If the wielder has the Rapid Shot feat, she can use the additional shot from that as well, but the penalty for all shots fired in that round increases to -6.
 
-**Slow-Firing:** A slow-firing weapon requires a full-round action to use, and thus cannot be used to make iterative attacks.
+**Slow-Firing:** A slow-firing weapon requires a full-round action (3 AP) to use, and thus cannot be used to make iterative attacks.
 
 **Scatter Weapon Quality:** A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls made misfire. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
 
@@ -93,6 +93,6 @@
 
 **Recoil X:** Whenever you fire more than 1 shot in the same turn, whether from Rapid Shot or iterative attacks, you take –X on all rolls after the first. Using a one-handed weapon with recoil in two hands reduces the penalty by 1, to a minimum of 0.
 
-**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t applies sneak attack or any other type of precision damage more than once.
+**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (1 AP) (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t applies sneak attack or any other type of precision damage more than once.
 
 **Long Range:** –3 on attacks at 30 ft. or less.

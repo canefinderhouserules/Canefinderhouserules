@@ -78,7 +78,7 @@ A light catapult takes up a space 10 feet across.
 
 A ballista takes up a space 5 feet across.
 
-**Ram**: This heavy pole is sometimes suspended from a movable scaffold that allows the crew to swing it back and forth against objects. As a full-round action, the character closest to the front of the ram makes an attack roll against the AC of the construction, applying the –4 penalty for lack of proficiency. It’s not possible to be proficient with this device. In addition to the damage given on Table 13–8, up to nine other characters holding the ram can add their Strength modifiers to the ram’s damage, if they devote an attack action to doing so. It takes at least one Huge or larger creature, two Large creatures, four Medium creatures, or eight Small creatures to swing a ram.
+**Ram**: This heavy pole is sometimes suspended from a movable scaffold that allows the crew to swing it back and forth against objects. As a full-round action (3 AP), the character closest to the front of the ram makes an attack roll against the AC of the construction, applying the –4 penalty for lack of proficiency. It’s not possible to be proficient with this device. In addition to the damage given on Table 13–8, up to nine other characters holding the ram can add their Strength modifiers to the ram’s damage, if they devote an attack action to doing so. It takes at least one Huge or larger creature, two Large creatures, four Medium creatures, or eight Small creatures to swing a ram.
 
 A ram is typically 30 feet long. In a battle, the creatures wielding the ram stand in two adjacent columns of equal length, with the ram between them.
 
@@ -94,7 +94,7 @@ Some cities have no larger thoroughfares, particularly cities that gradually gre
 
 **Crowds**: Urban streets are often full of people going about their daily lives. In most cases, it isn’t necessary to put every 1st-level commoner on the map when a fight breaks out on the city’s main thoroughfare. Instead, just indicate which squares on the map contain crowds. If crowds see something obviously dangerous, they’ll move away at 30 feet per round at initiative count 0. It takes 2 squares of movement to enter a square with crowds. The crowds provide cover for anyone who does so, enabling a Stealth check and providing a bonus to Armor Class and on Reflex saves.
 
-**Directing Crowds**: It takes a DC 15 Diplomacy check or DC 20 Intimidate check to convince a crowd to move in a particular direction, and the crowd must be able to hear or see the character making the attempt. It takes a full-round action to make the Diplomacy check, but only a free action to make the Intimidate check.
+**Directing Crowds**: It takes a DC 15 Diplomacy check or DC 20 Intimidate check to convince a crowd to move in a particular direction, and the crowd must be able to hear or see the character making the attempt. It takes a full-round action (3 AP) to make the Diplomacy check, but only a free action to make the Intimidate check.
 
 If two or more characters are trying to direct a crowd in different directions, they make opposed Diplomacy or Intimidate checks to determine to whom the crowd listens. The crowd ignores everyone if none of the characters’ check results beat the DCs given above.
 
@@ -104,7 +104,7 @@ If two or more characters are trying to direct a crowd in different directions, 
 
 Eventually a character runs out of roof, requiring a long jump across to the next roof or down to the ground. The distance to the closest roof is usually 1d3 × 5 feet horizontally, but the next roof is equally likely to be 5 feet higher, 5 feet lower, or the same height. Use the guidelines in the Acrobatics skill (a horizontal jump’s peak height is one-fourth of the horizontal distance) to determine whether a character can make a jump.
 
-**Sewers**: To get into the sewers, most characters open a grate (a full-round action) and jump down 10 feet. Sewers are built exactly like dungeons, except that they’re much more likely to have floors that are slippery or covered with water. Sewers are also similar to dungeons in terms of creatures liable to be encountered therein. Some cities were built atop the ruins of older civilizations, so their sewers sometimes lead to treasures and dangers from a bygone age.
+**Sewers**: To get into the sewers, most characters open a grate (a full-round action (3 AP)) and jump down 10 feet. Sewers are built exactly like dungeons, except that they’re much more likely to have floors that are slippery or covered with water. Sewers are also similar to dungeons in terms of creatures liable to be encountered therein. Some cities were built atop the ruins of older civilizations, so their sewers sometimes lead to treasures and dangers from a bygone age.
 
 ### City Buildings
 

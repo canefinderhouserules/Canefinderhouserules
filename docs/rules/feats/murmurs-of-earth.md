@@ -4,4 +4,4 @@ The earth opens up her secrets to your perceptions.
 
 **Prerequisites**: [Echoes of Stone](echoes-of-stone.md), character level 9th, oread.
 
-**Benefit**: You gain a limited form of tremorsense. As a move action, you become aware of all creatures within 15 feet that are in contact with the ground at that moment.
+**Benefit**: You gain a limited form of tremorsense. As a move action (1 AP), you become aware of all creatures within 15 feet that are in contact with the ground at that moment.

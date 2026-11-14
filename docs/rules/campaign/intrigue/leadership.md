@@ -342,7 +342,7 @@ You attract a weapon bearer to aid you in your endeavors.
 
 A weapon bearer can take levels in only cavalier, fighter, or gunslinger. She cannot multiclass, though she can take any archetype for which she qualifies.
 
-Once per round as a move action that does not provoke attacks of opportunity, you can retrieve an item carried by your weapon bearer. In addition, your weapon bearer can pick up items you drop as an immediate action. In order to use either of these abilities, you and your weapon bearer must be adjacent to each other and must both be able to move and communicate with each other.
+Once per round as a move action (1 AP) that does not provoke attacks of opportunity, you can retrieve an item carried by your weapon bearer. In addition, your weapon bearer can pick up items you drop as an immediate action (1 AP of your next turn). In order to use either of these abilities, you and your weapon bearer must be adjacent to each other and must both be able to move and communicate with each other.
 
 If a weapon bearer gains enough XP to bring her to 2 levels lower than your level, she doesn’t gain the new level until you gain your next level; until you advance, her XP total remains 1 less than the amount needed to attain the next level.
 

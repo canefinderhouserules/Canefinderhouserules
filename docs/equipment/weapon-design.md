@@ -47,7 +47,7 @@ When designing a new weapon, you can choose from the following weapon qualities.
 
 **Shield (1 DP)**: The weapon counts as a light shield made of wood or metal and can have armor spikes (your choice). Add the gp price of the shield and any armor spikes that the weapon gains from this quality to the weapon’s gp price. This quality can be added only to one-handed melee weapons.
 
-**Spring-Loaded (2 DP)**: The weapon’s wielder can activate or suspend its reach as a swift action. This quality can be added only to one-handed or two-handed melee weapons with the reach special feature.
+**Spring-Loaded (2 DP)**: The weapon’s wielder can activate or suspend its reach as a swift action (1 AP). This quality can be added only to one-handed or two-handed melee weapons with the reach special feature.
 
 **Strong (1 DP)**: The weapon’s wielder gains a +2 bonus to her Combat Maneuver Defense to resist sunder combat maneuvers attempted against the weapon.
 

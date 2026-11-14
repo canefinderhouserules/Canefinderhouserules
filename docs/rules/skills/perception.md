@@ -44,7 +44,7 @@ Perception is also used to notice fine details in the environment. The DC to not
 
 ² As for unfavorable conditions, but more extreme. For example, candlelight for DCs involving sight, a roaring dragon for DCs involving hearing, and an overpowering stench covering the area for DCs involving scent.
 
-**Action**: Most Perception checks are reactive, made in response to observable stimulus. Intentionally searching for stimulus is a move action.
+**Action**: Most Perception checks are reactive, made in response to observable stimulus. Intentionally searching for stimulus is a move action (1 AP).
 
 **Try Again**: Yes. You can try to sense something you missed the first time, so long as the stimulus is still present.
 

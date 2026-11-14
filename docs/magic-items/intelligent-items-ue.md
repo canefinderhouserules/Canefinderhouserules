@@ -28,7 +28,7 @@ Most *bags of devouring* appear to be normal sacks, but *Chomper* is unlike most
 
 *Chomper* has all of the magical abilities of a regular *bag of devouring*, along with the following additional powers.
 
-- As a standard action, *Chomper’s* possessor can swing the bag by its straps in an attempt to strike any single creature or unattended item within a 5-foot radius. *Chomper* (not the wielder) can then make a single bite attack against the target. This bite has a +14 attack bonus and deals 1d10+5 points of damage plus 2 points of bleed damage. This action does not provoke attacks of opportunity. Attacks made in this way are never modified by the wielder’s abilities.
+- As a standard action (1 AP), *Chomper’s* possessor can swing the bag by its straps in an attempt to strike any single creature or unattended item within a 5-foot radius. *Chomper* (not the wielder) can then make a single bite attack against the target. This bite has a +14 attack bonus and deals 1d10+5 points of damage plus 2 points of bleed damage. This action does not provoke attacks of opportunity. Attacks made in this way are never modified by the wielder’s abilities.
 - When a non-demon is in possession of *Chomper*, the bag’s cursed aura imparts a –1 penalty on all of its wielder’s attack rolls, saving throws, skill checks, and ability checks.
 
 If *Chomper* manages to gain dominance over a non-demon wielder through a personality conflict, it directs its bearer to seek out victims to feed to it.
@@ -73,7 +73,7 @@ This copper rod is made up of constantly grinding gearlike parts. It is believed
 **Intelligence** 20, **Wisdom** 16, **Charisma** 12; **Ego** 20  
 **Language** telepathy (Common and 10 other languages)
 
-A *headband of vast intellect +6* also holds a consciousness that shares its knowledge and education with a suitable wearer. This intellect can be of any alignment and its only purpose is to share its vast knowledge with its wearer. The headband also functions as a *helm of comprehend languages and read magic*. Furthermore, instead of granting the normal skill ranks of a *headband of vast intellect +6*, this headband grants 4 ranks in six skills, but all of those skills must be Knowledge skills. It grants such intelligence by a stream of constant whispers and arguments that the headband communicates telepathically in Common or in one of 10 other languages it knows. Once per week on command, the wearer can also convince the headband to use *legend lore* as the spell, though the casting time is only a standard action.
+A *headband of vast intellect +6* also holds a consciousness that shares its knowledge and education with a suitable wearer. This intellect can be of any alignment and its only purpose is to share its vast knowledge with its wearer. The headband also functions as a *helm of comprehend languages and read magic*. Furthermore, instead of granting the normal skill ranks of a *headband of vast intellect +6*, this headband grants 4 ranks in six skills, but all of those skills must be Knowledge skills. It grants such intelligence by a stream of constant whispers and arguments that the headband communicates telepathically in Common or in one of 10 other languages it knows. Once per week on command, the wearer can also convince the headband to use *legend lore* as the spell, though the casting time is only a standard action (1 AP).
 
 **Construction** Craft Wondrous Item, *comprehend languages*, *fox’s cunning*, *legend and lore*, *read magic*; **Cost** 35,650 gp
 
@@ -110,7 +110,7 @@ This intelligent item is called a *lightning bow* by mortals, a name is seen as 
 
 *arrow (*the wielder’s choice with each shot).
 
-- Three times per day, the wielder can cast *true strike* as a swift action. The *true strike* can only be used with attacks made with the *lightning bow*.
+- Three times per day, the wielder can cast *true strike* as a swift action (1 AP). The *true strike* can only be used with attacks made with the *lightning bow*.
 - Three times per day, the wielder can use *lightning bolt* as a spell-like ability.
 
 **Construction** Craft Magic Arms and Armor, *call lightning*, the willing service of one Huge lighting elemental for at least 100 years; **Cost** 27,300 gp

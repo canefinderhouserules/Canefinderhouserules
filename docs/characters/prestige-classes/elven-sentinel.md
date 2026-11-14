@@ -77,7 +77,7 @@ At 3rd level, an elven sentinel gains one of the following as a bonus feat, even
 
 #### Unbounded Stride (Su)
 
-At 4th level, as a swift action, an elven sentinel can make herself immune to effects that would impede her movement, such as overgrown foliage, [*solid fog*](../../magic/spells/solid-fog.md), webs, or other magical area effects that impair movement or confer the [entangled](../../rules/appendices/conditions.md#entangled) condition. This ability is similar in effect to a [druid’s woodland stride](../classes/druid.md#woodland-stride-ex) ability, but its benefits extend to magical effects as well. She takes no damage from moving through spiky vegetation, briars, or even a [*wall of thorns*](../../magic/spells/wall-of-thorns.md), but harmful gases and other detrimental effects, such as fire damage from an [*incendiary cloud*](../../magic/spells/incendiary-cloud.md), still affect her as normal. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
+At 4th level, as a swift action (1 AP), an elven sentinel can make herself immune to effects that would impede her movement, such as overgrown foliage, [*solid fog*](../../magic/spells/solid-fog.md), webs, or other magical area effects that impair movement or confer the [entangled](../../rules/appendices/conditions.md#entangled) condition. This ability is similar in effect to a [druid’s woodland stride](../classes/druid.md#woodland-stride-ex) ability, but its benefits extend to magical effects as well. She takes no damage from moving through spiky vegetation, briars, or even a [*wall of thorns*](../../magic/spells/wall-of-thorns.md), but harmful gases and other detrimental effects, such as fire damage from an [*incendiary cloud*](../../magic/spells/incendiary-cloud.md), still affect her as normal. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
 
 #### Proven Weapon Familiarity (Ex)
 
@@ -89,11 +89,11 @@ At 6th level, an elven sentinel’s attacks are treated as good-aligned for the 
 
 #### Fade from Sight (Su)
 
-At 7th level, an elven sentinel can use the [Stealth](../../rules/skills/stealth.md) skill without having anything to hide behind, and even while being observed. Activating this ability is a swift action in addition to the action required to hide. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
+At 7th level, an elven sentinel can use the [Stealth](../../rules/skills/stealth.md) skill without having anything to hide behind, and even while being observed. Activating this ability is a swift action (1 AP) in addition to the action required to hide. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
 
 #### Gate Alignment (Su)
 
-At 9th level, once per day as a full-round action, an elven sentinel can use the interconnected power of ancient elven portals (sometimes called “elf gates”) to teleport herself to an elf gate that she has studied carefully (as per the spell [*teleport*](../../magic/spells/teleport.md)). This functions as [*word of recall*](../../magic/spells/word-of-recall.md), but the elven sentinel can transport only herself plus 50 pounds of objects. In addition, an elven sentinel can magically slip between the spaces in reality twice per day as a swift action, as if using [*dimension door*](../../magic/spells/dimension-door.md). This ability has a range of 50 feet, and the elven sentinel cannot take other creatures with her.
+At 9th level, once per day as a full-round action (3 AP), an elven sentinel can use the interconnected power of ancient elven portals (sometimes called “elf gates”) to teleport herself to an elf gate that she has studied carefully (as per the spell [*teleport*](../../magic/spells/teleport.md)). This functions as [*word of recall*](../../magic/spells/word-of-recall.md), but the elven sentinel can transport only herself plus 50 pounds of objects. In addition, an elven sentinel can magically slip between the spaces in reality twice per day as a swift action (1 AP), as if using [*dimension door*](../../magic/spells/dimension-door.md). This ability has a range of 50 feet, and the elven sentinel cannot take other creatures with her.
 
 #### Bringer of Brightness (Sp)
 

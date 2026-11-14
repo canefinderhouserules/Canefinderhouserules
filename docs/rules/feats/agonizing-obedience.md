@@ -34,7 +34,7 @@ You temporarily blind yourself with blood to heighten your other senses.
 
 **Boon 1**: Creatures affected by your agony strike have the distance they can see in areas of dim light and darkness reduced by 50%.
 
-**Boon 2**: You gain a gaze attack with a range of 30 feet that you can activate as a standard action. You can use this ability a number of minutes per day equal to half your hit dice; these minutes need not be consecutive but you must use the ability in 1-minute increments. Enemies affected by your gaze are [frightened](../appendices/conditions.md#frightened) for 1 minute. A successful Will saving throw (DC 10 + 1/2 your HD + your Charisma modifier) negates this effect. A creature that successfully saves against your gaze is immune to its effects for 24 hours.
+**Boon 2**: You gain a gaze attack with a range of 30 feet that you can activate as a standard action (1 AP). You can use this ability a number of minutes per day equal to half your hit dice; these minutes need not be consecutive but you must use the ability in 1-minute increments. Enemies affected by your gaze are [frightened](../appendices/conditions.md#frightened) for 1 minute. A successful Will saving throw (DC 10 + 1/2 your HD + your Charisma modifier) negates this effect. A creature that successfully saves against your gaze is immune to its effects for 24 hours.
 
 **Boon 3**: Your affinity to pain allows you to sense suffering in others. You gain lifesense out to a distance of 60 feet.
 

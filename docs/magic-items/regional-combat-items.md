@@ -16,7 +16,7 @@ This +2 *spiked splint mail* is fashioned from hacked-off chunks of tanned hide 
 
 *Aura* moderate enchantment; *Slot* armor; *Price* 28,700 gp; *Weight* —
 
-This jet-black uniform is assigned to top agents in a mercenary league. Wearers of this +3 *armored coat* continually benefit from the spell *undetectable alignment*. When following the orders of a paymaster of the league, the wearer receives a +2 morale bonus on all attack rolls, saves, and skill checks related to completion of her mission. Anytime the wearer tries to disregard an order given by a paymaster, she must attempt a Will save with a DC equal to 10 + 1/2 the total Hit Dice of the creature giving the order. If she fails, she must follow the order to the best of her ability. If she succeeds, she can remove the armor as a move action to ignore the command.
+This jet-black uniform is assigned to top agents in a mercenary league. Wearers of this +3 *armored coat* continually benefit from the spell *undetectable alignment*. When following the orders of a paymaster of the league, the wearer receives a +2 morale bonus on all attack rolls, saves, and skill checks related to completion of her mission. Anytime the wearer tries to disregard an order given by a paymaster, she must attempt a Will save with a DC equal to 10 + 1/2 the total Hit Dice of the creature giving the order. If she fails, she must follow the order to the best of her ability. If she succeeds, she can remove the armor as a move action (1 AP) to ignore the command.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *charm person*, *heroism*; *Cost* 14,450 gp
 
@@ -24,7 +24,7 @@ This jet-black uniform is assigned to top agents in a mercenary league. Wearers 
 
 *Aura* moderate evocation; *Slot* shield; *Price* 19,007 gp; *Weight* 10 lbs.
 
-The front of this +2 *heavy wooden shield* has several small holes that resemble the gun ports on a naval ship. There are seven such holes in total on the front of the shield, each varying in size, with an equal number of thin hemp strings on the reverse side. As a standard action, the wielder of the broadside bulwark can pull one of the strings, causing a small red bead to fly out from the associated gun port. This bead travels 30 feet forward and detonates as a *fireball* spell (Reflex DC 14 half), leaving the wielder outside the blast radius unless it contacts something before reaching 30 feet. After a string is pulled, its associated gun port is permanently closed and can no longer be used.
+The front of this +2 *heavy wooden shield* has several small holes that resemble the gun ports on a naval ship. There are seven such holes in total on the front of the shield, each varying in size, with an equal number of thin hemp strings on the reverse side. As a standard action (1 AP), the wielder of the broadside bulwark can pull one of the strings, causing a small red bead to fly out from the associated gun port. This bead travels 30 feet forward and detonates as a *fireball* spell (Reflex DC 14 half), leaving the wielder outside the blast radius unless it contacts something before reaching 30 feet. After a string is pulled, its associated gun port is permanently closed and can no longer be used.
 
 The gun ports are different sizes, and include three small ports that deal 3d6 points of fire damage, three larger ports that deal 6d6 points of fire damage, and one massive port in the center of the shield that deals 9d6 points of fire damage. Once all the gun ports have been fired, the shield takes on a blackened, charred look and grants the wielder fire resistance 5.
 
@@ -36,7 +36,7 @@ The gun ports are different sizes, and include three small ports that deal 3d6 p
 
 This specialized suit of full plate is made from the tanned hide of a linnorm and acts as +4 *dragonhide plate*. If a creature is slain while wearing such armor, its killer is subject to a curse. The cursed creature must succeed at a DC 17 Will save or gain vulnerability to fire until the curse is removed. This curse can be removed only by a *break enchantment*, *miracle*, or *wish* spell. This particular suit of armor is made from the hide of a crag linnorm, though others exist, each with a different curse effect similar to the curse of the associated linnorm.
 
-Once per day as a swift action, the wearer of this armor can summon forth the uncanny movement powers of a linnorm, gaining the benefits of *freedom of movement* for 10 minutes.
+Once per day as a swift action (1 AP), the wearer of this armor can summon forth the uncanny movement powers of a linnorm, gaining the benefits of *freedom of movement* for 10 minutes.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *form of the dragon I*, *freedom of movement*, *major curse*; *Cost* 22,300 gp
 
@@ -44,7 +44,7 @@ Once per day as a swift action, the wearer of this armor can summon forth the un
 
 *Aura* moderate enchantment; *Slot* armor; *Price* 10,800 gp; *Weight* 20 lbs.
 
-This set of fine +2 *parade armor* matches the dress uniform of an elite order of knights. If the wearer is ever grappled or restrained, he can attempt an Escape Artist check to get free as an immediate action. The wearer gains a +2 competence bonus on this check. Once per day as a standard action, the wearer can call forth shimmering plates of golden light to reinforce the armor. This effect increases the armor's enhancement bonus to AC from +2 to +5 for the next 10 minutes.
+This set of fine +2 *parade armor* matches the dress uniform of an elite order of knights. If the wearer is ever grappled or restrained, he can attempt an Escape Artist check to get free as an immediate action (1 AP of your next turn). The wearer gains a +2 competence bonus on this check. Once per day as a standard action (1 AP), the wearer can call forth shimmering plates of golden light to reinforce the armor. This effect increases the armor's enhancement bonus to AC from +2 to +5 for the next 10 minutes.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *liberating command*, *mage armor*; *Cost* 5,488 gp
 
@@ -60,7 +60,7 @@ Made of densely compacted jungle leaves by jungle elves, this +1 *hide armor* ha
 
 *Aura* moderate conjuration and transmutation; *Slot* armor; *Price* 60,950 gp; *Weight* 50 lbs.
 
-This midnight blue +3 *full plate* is cold to the touch, and the fiendish faces that swirl across the plates shed gouts of chill mist. The wearer of this armor gains cold resistance 10. Any creature that ends its movement within 5 feet of the wearer must succeed at a DC 16 Fortitude saving throw or be staggered for 1 round as the cold emitted by the armor numbs it. A creature that succeeds at its saving throw is immune to the effects of that set of gelugon plate for 24 hours. The wearer can suppress and reactivate this effect as a standard action. A lawful wearer proficient with heavy armor can cast *wall of ice* up to three times per day.
+This midnight blue +3 *full plate* is cold to the touch, and the fiendish faces that swirl across the plates shed gouts of chill mist. The wearer of this armor gains cold resistance 10. Any creature that ends its movement within 5 feet of the wearer must succeed at a DC 16 Fortitude saving throw or be staggered for 1 round as the cold emitted by the armor numbs it. A creature that succeeds at its saving throw is immune to the effects of that set of gelugon plate for 24 hours. The wearer can suppress and reactivate this effect as a standard action (1 AP). A lawful wearer proficient with heavy armor can cast *wall of ice* up to three times per day.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *slow*, *wall of ice*; *Cost* 31,550 gp
 
@@ -78,7 +78,7 @@ This morbid +1 *hide armor* is stitched from the flesh torn from the bodies of g
 
 This massive, imposing +2 *spell resistance (13) tower shield* is a metal bulwark engraved with the main edicts of a code of godless law. The spell resistance special ability of this shield works only against divine spells and does not ward the bearer against arcane magic. While held, the shield grants a +4 resistance bonus on Fortitude saving throws against divine spells and spell-like abilities.
 
-Three times per day as a swift action, when the wielder is in the area of channeled energy (regardless of whether she is excluded by an effect such as Selective Channeling), she can rebuke the god powering the ability. Using this ability causes the text on the shield to glow and decreases the amount of channeled energy by half (minimum 1). This reduction affects the channeled energy itself, and thus reduces the effect on all targets within its area. The power of the channeled energy can be further reduced with a successful Will saving throw, as normal.
+Three times per day as a swift action (1 AP), when the wielder is in the area of channeled energy (regardless of whether she is excluded by an effect such as Selective Channeling), she can rebuke the god powering the ability. Using this ability causes the text on the shield to glow and decreases the amount of channeled energy by half (minimum 1). This reduction affects the channeled energy itself, and thus reduces the effect on all targets within its area. The power of the channeled energy can be further reduced with a successful Will saving throw, as normal.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *spell resistance*, creator must be an atheist; *Cost* 8,680 gp
 
@@ -110,7 +110,7 @@ Tinted using rare dyes from a lost town, this set of +2 *studded leather* glows 
 
 *Aura* moderate abjuration; *Slot* armor; *Price* 16,350 gp; *Weight* 30 lbs.
 
-Resistance fighters who oppose a tyrannical organization have developed many forms of protection from its technology-infused weaponry. This +2 *breastplate* is made of scrap metal from alien ruins. Specifically designed to provide additional defense against beam weapons, it grants its wearer a +4 bonus to touch AC against ray attacks. Three times per day, when a ray attack targeting the plate's wearer misses by 4 or less, the wearer can deflect the ray back at its source as an immediate action. The ray uses the original attack roll to determine whether it hits its new target.
+Resistance fighters who oppose a tyrannical organization have developed many forms of protection from its technology-infused weaponry. This +2 *breastplate* is made of scrap metal from alien ruins. Specifically designed to provide additional defense against beam weapons, it grants its wearer a +4 bonus to touch AC against ray attacks. Three times per day, when a ray attack targeting the plate's wearer misses by 4 or less, the wearer can deflect the ray back at its source as an immediate action (1 AP of your next turn). The ray uses the original attack roll to determine whether it hits its new target.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *deflection*, *shield*; *Cost* 8,700 gp
 
@@ -118,7 +118,7 @@ Resistance fighters who oppose a tyrannical organization have developed many for
 
 *Aura* faint enchantment; *Slot* shield; *Price* 5,590 gp; *Weight* 5 lbs.
 
-A common sight among the more deplorable slavers, this +1 *leather madu* is adorned with body parts—ranging from fingers and toes to severed heads—each one crudely affixed to the shield's spikes. The wielder of the shield gains a +4 competence bonus on Intimidate checks while the shield is visible. The wearer and any associated companions take a –4 penalty on all Diplomacy checks made against good-aligned creatures while the shield is visible. Once per day as a standard action, the wielder can shake the shield, causing the fetishes to rattle uncontrollably for 3 rounds. When he shakes the shield, the wielder can choose one creature within 35 feet to suffer the effects of the spell *castigate* as long as the fetishes continue shaking.
+A common sight among the more deplorable slavers, this +1 *leather madu* is adorned with body parts—ranging from fingers and toes to severed heads—each one crudely affixed to the shield's spikes. The wielder of the shield gains a +4 competence bonus on Intimidate checks while the shield is visible. The wearer and any associated companions take a –4 penalty on all Diplomacy checks made against good-aligned creatures while the shield is visible. Once per day as a standard action (1 AP), the wielder can shake the shield, causing the fetishes to rattle uncontrollably for 3 rounds. When he shakes the shield, the wielder can choose one creature within 35 feet to suffer the effects of the spell *castigate* as long as the fetishes continue shaking.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *castigate*; *Cost* 2,890 gp
 
@@ -142,9 +142,9 @@ Worn by enforcers and acolytes of a false god, this +1 *chain shirt* appears as 
 
 *Aura* moderate conjuration; *CL* 9th; *Slot* armor; *Price* 26,700 gp; *Weight* 75 lbs.
 
-Even bulkier than its nonmagical cousins, this set of +3 *stoneplate* is crafted from stones of widely differing colors, and is often allocated to soldiers assigned to the deepest and most dangerous of the Underworld's tunnels. Once per day, the wearer can call forth a *wall of stone* that fills up to nine contiguous 5-foot squares. Unlike with the standard spell, the wall must be a straight line, and the wielder must choose to occupy one 5-foot section of the wall, as the armor merges with the wall around it. While the *wall of stone* is in effect, the wearer gains a +2 circumstance bonus to AC, but can move only within the wall. The wearer can dismiss the wall as a standard action; otherwise, it dissipates in 10 rounds.
+Even bulkier than its nonmagical cousins, this set of +3 *stoneplate* is crafted from stones of widely differing colors, and is often allocated to soldiers assigned to the deepest and most dangerous of the Underworld's tunnels. Once per day, the wearer can call forth a *wall of stone* that fills up to nine contiguous 5-foot squares. Unlike with the standard spell, the wall must be a straight line, and the wielder must choose to occupy one 5-foot section of the wall, as the armor merges with the wall around it. While the *wall of stone* is in effect, the wearer gains a +2 circumstance bonus to AC, but can move only within the wall. The wearer can dismiss the wall as a standard action (1 AP); otherwise, it dissipates in 10 rounds.
 
-As a full-round action, the wielder can make the wall permanent by allowing himself to be consumed by the stone. In this case, the wearer can be restored to life only by a *miracle* or *wish*.
+As a full-round action (3 AP), the wielder can make the wall permanent by allowing himself to be consumed by the stone. In this case, the wearer can be restored to life only by a *miracle* or *wish*.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *meld into stone*, *wall of stone*, creator must be a dwarf; *Cost* 14,325 gp
 
@@ -170,7 +170,7 @@ This suit of +1 *spiked half-plate* armor is crafted from the hide and carapace 
 
 *Aura* moderate necromancy; *Slot* none; *Price* 26,380 gp; *Weight* 7 lbs.
 
-The long blade of this weapon bears shifting black and yellow patterns, resembling the markings of a wasp. This +1 *heartseeker elven curve blade* has three slots built into the hilt for storing doses of poison. Adding or removing a dose of poison from the blade is a swift action that requires a free hand. Any creatures struck by a widow's kiss take a –4 penalty on any saving throw against the poison applied to the weapon. The frequency of any poison applied to the weapon increases by 2 (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with a skill or magic take a –4 penalty.
+The long blade of this weapon bears shifting black and yellow patterns, resembling the markings of a wasp. This +1 *heartseeker elven curve blade* has three slots built into the hilt for storing doses of poison. Adding or removing a dose of poison from the blade is a swift action (1 AP) that requires a free hand. Any creatures struck by a widow's kiss take a –4 penalty on any saving throw against the poison applied to the weapon. The frequency of any poison applied to the weapon increases by 2 (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with a skill or magic take a –4 penalty.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *death knell*, *pernicious poison*; *Cost* 13,380 gp
 
@@ -178,7 +178,7 @@ The long blade of this weapon bears shifting black and yellow patterns, resembli
 
 *Aura* moderate illusion and transmutation; *Slot* none; *Price* 65,575 gp; *Weight* 2 lbs.
 
-With a blade crafted entirely out of black metal, this +2 *speed sawtooth sabre* has only one hint of color—a red hilt. Once per day as a standard action, the wielder of the blade can create 1d4+3 illusory assassins that last for 1 hour. These illusions confound the wielder's enemies, allowing the wielder to flank an enemy with an appropriately positioned figment. The wielder can direct the movement of all figments as a single swift action, moving each of them up to 30 feet. Any creature interacting with (or being flanked by) an illusion can attempt a DC 16 Will save to disbelieve the effect. If an illusory assassin is hit by an attack, it disappears. (Use the wielder's AC as the illusion's AC.) Three times per day as a swift action, when the wielder is the target of an enemy's melee attack, she can swap places with an illusory assassin that is adjacent to her.
+With a blade crafted entirely out of black metal, this +2 *speed sawtooth sabre* has only one hint of color—a red hilt. Once per day as a standard action (1 AP), the wielder of the blade can create 1d4+3 illusory assassins that last for 1 hour. These illusions confound the wielder's enemies, allowing the wielder to flank an enemy with an appropriately positioned figment. The wielder can direct the movement of all figments as a single swift action (1 AP), moving each of them up to 30 feet. Any creature interacting with (or being flanked by) an illusion can attempt a DC 16 Will save to disbelieve the effect. If an illusory assassin is hit by an attack, it disappears. (Use the wielder's AC as the illusion's AC.) Three times per day as a swift action (1 AP), when the wielder is the target of an enemy's melee attack, she can swap places with an illusory assassin that is adjacent to her.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *haste*, *mirror image*, *mislead*; *Cost* 32,955 gp
 
@@ -204,7 +204,7 @@ This +1 *war razor* is a preferred means for thieves' guilds to permanently sile
 
 Originally made from the winding intestines of a scrag, the first version of this +2 *corrosive whip* was crafted by a bard who fought a famous duel against a monstrous foe. Since the bard's stunning victory, these weapons have gained popularity in swamp and island regions. Unless damaged by fire, a gutwhip regenerates hit points at a rate of 1 hit point per minute.
 
-In [performance combat](../rules/combat/performance-combat.md), the wielder can spend a victory point as a swift action to give the weapon the *corrosive burst* special ability. Also, the wielder no longer needs to attempt a performance combat check when using the withdraw action during performance combat, as the weapon's blasts of acid prevent the enemy from approaching.
+In [performance combat](../rules/combat/performance-combat.md), the wielder can spend a victory point as a swift action (1 AP) to give the weapon the *corrosive burst* special ability. Also, the wielder no longer needs to attempt a performance combat check when using the withdraw action during performance combat, as the weapon's blasts of acid prevent the enemy from approaching.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *acid arrow*, *adoration*; *Cost* 7,051 gp
 
@@ -212,7 +212,7 @@ In [performance combat](../rules/combat/performance-combat.md), the wielder can 
 
 *Aura* moderate evocation and necromancy; *Slot* none; *Price* 36,324 gp; *Weight* 3 lbs.
 
-Random patterns of brown rust, discolored metal, and dried blood tarnish the surface of this +2 *wounding starknife*. If this weapon is thrown and deals damage, it embeds itself in the target. The target continues to take bleed damage until the embedded weapon is removed. An embedded hunter's starknife emits a blue glow that imitates the effect of a *faerie fire* spell, affecting the weapon and the target as long as it is embedded. Removing this weapon requires a successful DC 15 Strength check (a full-round action). The creature takes an additional 1d4 points of damage when attempting this check, regardless of whether it succeeds or fails.
+Random patterns of brown rust, discolored metal, and dried blood tarnish the surface of this +2 *wounding starknife*. If this weapon is thrown and deals damage, it embeds itself in the target. The target continues to take bleed damage until the embedded weapon is removed. An embedded hunter's starknife emits a blue glow that imitates the effect of a *faerie fire* spell, affecting the weapon and the target as long as it is embedded. Removing this weapon requires a successful DC 15 Strength check (a full-round action (3 AP)). The creature takes an additional 1d4 points of damage when attempting this check, regardless of whether it succeeds or fails.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *bleed*, *faerie fire*; *Cost* 18,324 gp
 
@@ -220,7 +220,7 @@ Random patterns of brown rust, discolored metal, and dried blood tarnish the sur
 
 *Aura* moderate evocation and transmutation; *Slot* none; *Price* 23,530 gp; *Weight* 3 lbs.
 
-This +1 *ki focus temple sword* is gifted to select students from a great monastery, though copies have been made by monastic orders elsewhere. Each monastic warden is attuned to a single temple or monastery. A monk making an attack with this blade can spend 1 ki point as a swift action to ignore any shield bonus to AC her target possesses for that attack. Three times per day, the wielder can slash the air in his target's direction, causing a shimmering copy of the sword formed of white light to streak toward the target. The wielder must make a ranged touch attack against the target. A creature struck by the shimmering blade takes 4d8 points of damage. If the target is struck while on the grounds of the location the blade is attuned to, the target instead takes 8d6 points of damage and is dazed for 1 round. A successful DC 14 Will saving throw reduces the damage by half and negates the daze effect.
+This +1 *ki focus temple sword* is gifted to select students from a great monastery, though copies have been made by monastic orders elsewhere. Each monastic warden is attuned to a single temple or monastery. A monk making an attack with this blade can spend 1 ki point as a swift action (1 AP) to ignore any shield bonus to AC her target possesses for that attack. Three times per day, the wielder can slash the air in his target's direction, causing a shimmering copy of the sword formed of white light to streak toward the target. The wielder must make a ranged touch attack against the target. A creature struck by the shimmering blade takes 4d8 points of damage. If the target is struck while on the grounds of the location the blade is attuned to, the target instead takes 8d6 points of damage and is dazed for 1 round. A successful DC 14 Will saving throw reduces the damage by half and negates the daze effect.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *arrow of law*; *Cost* 11,930 gp
 
@@ -228,7 +228,7 @@ This +1 *ki focus temple sword* is gifted to select students from a great monast
 
 *Aura* faint conjuration and enchantment; *Slot* none; *Price* 11,700 gp; *Weight* 4 lbs.
 
-This +1 *merciful pistol* is ornamented with filigree of angelic creatures along the barrel, and houses intricate brass gears. Whenever the wielder scores a critical hit while using this weapon to deal nonlethal damage, the target must succeed at a DC 12 Will saving throw or be dazed for 1 round. As a swift action, a wielder with the grit class feature can spend 1 grit point to increase the DC of this save by 4.
+This +1 *merciful pistol* is ornamented with filigree of angelic creatures along the barrel, and houses intricate brass gears. Whenever the wielder scores a critical hit while using this weapon to deal nonlethal damage, the target must succeed at a DC 12 Will saving throw or be dazed for 1 round. As a swift action (1 AP), a wielder with the grit class feature can spend 1 grit point to increase the DC of this save by 4.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *cure light wounds*, *daze monster*; *Cost* 6,500 gp
 
@@ -246,7 +246,7 @@ If the wielder possesses the challenge class feature, when issuing a challenge, 
 
 *Aura* strong transmutation; *CL* 12th; *Slot* none; *Price* 34,800 gp; *Weight* 4 lbs.
 
-This wooden pole is plain, save that green dragon scales adorn its length. Treated as a +2 *quarterstaff*, it is a favorite of wandering monks. In the hands of a monk, a quarterstaff of contemplation gains the *ki intensifying* weapon special ability. If the wielder possesses the wholeness of body class feature, he can spend a full-round action to meditate using the staff as a focus. Treat this as using wholeness of body at the cost of 1 ki point instead of 2.
+This wooden pole is plain, save that green dragon scales adorn its length. Treated as a +2 *quarterstaff*, it is a favorite of wandering monks. In the hands of a monk, a quarterstaff of contemplation gains the *ki intensifying* weapon special ability. If the wielder possesses the wholeness of body class feature, he can spend a full-round action (3 AP) to meditate using the staff as a focus. Treat this as using wholeness of body at the cost of 1 ki point instead of 2.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, creator must be a 7th-level monk; *Cost* 17,550 gp
 
@@ -270,7 +270,7 @@ Among proud and honorable swordlords, there is no greater dishonor than losing o
 
 *Aura* faint conjuration; *Slot* none; *Price* 13,715 gp; *Weight* 2 lbs.
 
-Primarily used by the cliff-dwelling tribes of one clan, this +1 *bolas* is elementally enchanted. Each end of a bolas has its own magical enhancements: one side bears cold magic, and the other bears fire magic. A target damaged by a spirit bolas takes an additional 1d3 points of cold damage and 1d3 points of fire damage, as the two weights damage their target as though the weapon had both the *flaming* and *frost* special weapon abilities at half their normal effectiveness. Once per day as a standard action, the wielder can utter a prayer to the elements and throw the bolas, causing both ends to crash together mid-flight. The bolas transforms into a roiling ball of water, as the spell *aqueous orb*, under the control of the thrower. Once the spell ends, the bolas falls to the ground at the same location the orb ended its movement.
+Primarily used by the cliff-dwelling tribes of one clan, this +1 *bolas* is elementally enchanted. Each end of a bolas has its own magical enhancements: one side bears cold magic, and the other bears fire magic. A target damaged by a spirit bolas takes an additional 1d3 points of cold damage and 1d3 points of fire damage, as the two weights damage their target as though the weapon had both the *flaming* and *frost* special weapon abilities at half their normal effectiveness. Once per day as a standard action (1 AP), the wielder can utter a prayer to the elements and throw the bolas, causing both ends to crash together mid-flight. The bolas transforms into a roiling ball of water, as the spell *aqueous orb*, under the control of the thrower. Once the spell ends, the bolas falls to the ground at the same location the orb ended its movement.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *aqueous orb*, *ray of frost*, *spark*; *Cost* 7,015 gp
 
@@ -286,7 +286,7 @@ Jagged and spiked, this +1 *vicious spiked chain* shifts between hues of muted g
 
 *Aura* moderate evocation; *Slot* none; *Price* 8,350 gp; *Weight* 8 lbs.
 
-This +1 *greatsword* is often found among hunters of constructs. Three times per day as a standard action, the wielder can envelop the blade with a razor-edged field of force for 1 minute. Thanks to this field, the sword ignores the damage reduction of creatures with DR 5 or less (other than DR/epic), and when it's used to attack an object or sunder a weapon, the sword treats the item as having a hardness of 5 less than the item's actual hardness.
+This +1 *greatsword* is often found among hunters of constructs. Three times per day as a standard action (1 AP), the wielder can envelop the blade with a razor-edged field of force for 1 minute. Thanks to this field, the sword ignores the damage reduction of creatures with DR 5 or less (other than DR/epic), and when it's used to attack an object or sunder a weapon, the sword treats the item as having a hardness of 5 less than the item's actual hardness.
 
 *Construction* *Requirements* Craft Magic Arms and Armor, *wall of force*; *Cost* 4,350 gp
 
@@ -330,7 +330,7 @@ Tattered and yellowed, this belt is made up of dozens of interwoven linen wraps 
 
 This black iron neckpiece is forged in the likeness of the unholy symbol of a god of annihilation. An evil wearer gains a +2 profane bonus on all saving throws. A creature with the touch of corruption class ability that wears the choker increases the damage dice of that ability from 1d6 per 2 antipaladin levels to 1d8 per 2 levels. Good-aligned creatures within 120 feet of the choker hear distant bellows of unimaginable rage, giving them a –2 penalty on all Perception checks as the sounds distract them. Within 30 feet of the necklace, the sound increases, and all good-aligned creatures must succeed at a DC 18 Will save or be shaken while within range. They can attempt another save after 24 hours.
 
-If the wearer willingly breaks the choker in half (a full-round action), the ground under his feet ruptures open and consumes him (as the *imprisonment* spell). The blood of the destroyer god seeps up from the wound in the earth 1d6 rounds after the wielder is consumed. Treat this as a fiendish carnivorous blob that attacks any living creature within sight. The hole seals immediately after the blood rises.
+If the wearer willingly breaks the choker in half (a full-round action (3 AP)), the ground under his feet ruptures open and consumes him (as the *imprisonment* spell). The blood of the destroyer god seeps up from the wound in the earth 1d6 rounds after the wielder is consumed. Treat this as a fiendish carnivorous blob that attacks any living creature within sight. The hole seals immediately after the blood rises.
 
 *Construction* *Requirements* Craft Wondrous Item, *imprisonment*, *summon monster IX*; *Cost* 50,000 gp
 
@@ -392,7 +392,7 @@ Made of exquisite crimson silk, this variant *monk's robe* is embroidered with g
 
 *Aura* moderate transmutation; *Slot* ring; *Price* 11,000 gp; *Weight* —
 
-Made of aged bronze and steel, this ring looks like it should have a gem set in it, but instead has an empty circular hole. The hole in the ring holds a single firearm bullet; if one is placed inside (as a full-round action), it merges seamlessly into the ring. While a bullet is merged into the ring, the wielder can fire the bullet as though she were using a +1 *pistol* that can't misfire. Once the bullet has been fired from the ring, a new bullet can't be placed inside for 24 hours.
+Made of aged bronze and steel, this ring looks like it should have a gem set in it, but instead has an empty circular hole. The hole in the ring holds a single firearm bullet; if one is placed inside (as a full-round action (3 AP)), it merges seamlessly into the ring. While a bullet is merged into the ring, the wielder can fire the bullet as though she were using a +1 *pistol* that can't misfire. Once the bullet has been fired from the ring, a new bullet can't be placed inside for 24 hours.
 
 Each holdout ring is created with two +1 ammunition special abilities and one +2 ammunition special ability. If the wearer has the grit class feature, she can expend grit (maximum 4 grit points) to imbue bullets merged with the gun with one or more of these abilities. Imbuing a bullet with a +1 special ability costs 1 grit point; imbuing one with a +2 special ability costs 2 grit points. Each ring's special abilities are established upon the item's creation and can't be changed. If a special ability has multiple versions, as does *bone*, the specific version must be set at that time (for example, *dragon bone*). A typical holdout ring has the *flaming*, *seeking*, and *shocking burst* special abilities.
 
@@ -460,7 +460,7 @@ These simple, leather-strapped iron pauldrons are engraved with intricate images
 
 *Aura* faint abjuration and evocation; *Slot* hands; *Price* 3,600 gp; *Weight* 1 lb.
 
-Wealthy aristocrats wear these elegant, full-length white gloves. Twice per day as a move action, the wearer of these gloves can repel an unwanted creature for 1 minute or until the wearer touches another creature, whichever comes first. Any creature attempting to attack or touch the wearer during this time must succeed at a DC 11 Will save to do so (as the *sanctuary* spell). Once per day, the wearer can summon a surge of invisible force to knock back a single target within 40 feet. The wearer attempts a combat maneuver check to bull rush one creature or object with a +5 bonus. This bull rush combat maneuver doesn't provoke an attack of opportunity.
+Wealthy aristocrats wear these elegant, full-length white gloves. Twice per day as a move action (1 AP), the wearer of these gloves can repel an unwanted creature for 1 minute or until the wearer touches another creature, whichever comes first. Any creature attempting to attack or touch the wearer during this time must succeed at a DC 11 Will save to do so (as the *sanctuary* spell). Once per day, the wearer can summon a surge of invisible force to knock back a single target within 40 feet. The wearer attempts a combat maneuver check to bull rush one creature or object with a +5 bonus. This bull rush combat maneuver doesn't provoke an attack of opportunity.
 
 *Construction* *Requirements* Craft Wondrous Item, *hydraulic push*, *sanctuary*; *Cost* 1,800 gp
 
@@ -490,7 +490,7 @@ This holy shroud is inscribed with hundreds of sacred passages in homage to the 
 
 *Aura* faint evocation; *Slot* shoulders; *Price* 14,800 gp; *Weight* 3 lbs.
 
-This pelt of a large northern wolf is fashioned into a cloak. It can be activated up to five times per day. When struck in combat, the wearer can spend one use as a swift action to animate a ghostly wolf from the pelt. This ghostly apparition strikes the creature that attacked the wearer with a wolf's bite attack. The wearer can spend one additional use each subsequent round to have the wolf continue attacking the target. The apparition can't be redirected, and disappears if the target moves more than 5 feet of the wearer or dies. The pelt can manifest only one wolf apparition at a time. Apart from these restrictions, the wolf can be directed as a *spiritual weapon* spell.
+This pelt of a large northern wolf is fashioned into a cloak. It can be activated up to five times per day. When struck in combat, the wearer can spend one use as a swift action (1 AP) to animate a ghostly wolf from the pelt. This ghostly apparition strikes the creature that attacked the wearer with a wolf's bite attack. The wearer can spend one additional use each subsequent round to have the wolf continue attacking the target. The apparition can't be redirected, and disappears if the target moves more than 5 feet of the wearer or dies. The pelt can manifest only one wolf apparition at a time. Apart from these restrictions, the wolf can be directed as a *spiritual weapon* spell.
 
 When a human wears a northern wolf pelt, he gains a +1 morale bonus on saving throws against emotion effects. In addition, any round in which he begins his turn affected by a fear effect, he can attempt a new save at the beginning of the turn to reduce the severity of the fear effect from panicked to frightened, frightened to shaken, or shaken to unaffected.
 
@@ -500,7 +500,7 @@ When a human wears a northern wolf pelt, he gains a +1 morale bonus on saving th
 
 *Aura* faint transmutation; *Slot* ring; *Price* 15,000 gp; *Weight* —
 
-This variant *ring of ki mastery* is made of a lock of hair held together by small bands to form a ring. The ring allows a wearer with a ki pool to store up to 2 ki points in the ring as a swift action. These points remain in the ring until used. The wearer can use the ki points normally, but gains the following benefits when ki points are stored in the ring. As long as at least 1 ki point is stored in the ring, the wearer gains a +2 bonus on combat maneuver checks to bull rush, disarm, or trip opponents. If at least 2 ki points are stored in the ring, the wearer takes only a –1 penalty on attack rolls when making a flurry of blows instead of a –2 penalty.
+This variant *ring of ki mastery* is made of a lock of hair held together by small bands to form a ring. The ring allows a wearer with a ki pool to store up to 2 ki points in the ring as a swift action (1 AP). These points remain in the ring until used. The wearer can use the ki points normally, but gains the following benefits when ki points are stored in the ring. As long as at least 1 ki point is stored in the ring, the wearer gains a +2 bonus on combat maneuver checks to bull rush, disarm, or trip opponents. If at least 2 ki points are stored in the ring, the wearer takes only a –1 penalty on attack rolls when making a flurry of blows instead of a –2 penalty.
 
 *Construction* *Requirements* Forge Ring, *ki leech*, creator must have the ki pool class feature; *Cost* 7,500 gp
 
@@ -508,7 +508,7 @@ This variant *ring of ki mastery* is made of a lock of hair held together by sma
 
 *Aura* strong enchantment; *Slot* none; *Price* 82,000 gp; *Weight* 8 lbs.
 
-This variant *rod of rulership* looks like a castoff piece of wood from a lumber mill. Originating from the earliest insurrections of a troubled nation, these rods have become symbolic among rebel leaders. A rod of revolution's wielder can activate the device as a standard action to incite rebellious urges in creatures within 120 feet. The wielder can incite a number of creatures totaling 300 Hit Dice, but creatures with a Wisdom score of 12 or higher can attempt a DC 16 Will save to negate the effect. Incited creatures gain the benefits of the *rage* spell, but adhere to only the most basic commands issued by the wielder (such as directions about where to move and who to attack). The rod can be used for 500 total minutes before it crumbles to dust. These minutes need not be continuous.
+This variant *rod of rulership* looks like a castoff piece of wood from a lumber mill. Originating from the earliest insurrections of a troubled nation, these rods have become symbolic among rebel leaders. A rod of revolution's wielder can activate the device as a standard action (1 AP) to incite rebellious urges in creatures within 120 feet. The wielder can incite a number of creatures totaling 300 Hit Dice, but creatures with a Wisdom score of 12 or higher can attempt a DC 16 Will save to negate the effect. Incited creatures gain the benefits of the *rage* spell, but adhere to only the most basic commands issued by the wielder (such as directions about where to move and who to attack). The rod can be used for 500 total minutes before it crumbles to dust. These minutes need not be continuous.
 
 *Construction* *Requirements* Craft Rod, *mass charm monster*, *rage*; *Cost* 41,000 gp
 
@@ -540,7 +540,7 @@ These black-and-red leather scabbards are produced in distant desert empires. Ea
 
 *Aura* faint transmutation; *Slot* wrists; *Price* 2,400 gp; *Weight* 2 lbs.
 
-These unmarked bracers of oxidized steel slip easily onto the wrists. As a swift action while submerged underwater, the wearer can tap the bracers together, causing the bracers and any armor he wears to immediately be removed. Removed armor is disassembled, becomes incredibly buoyant, and floats to the surface. After 4 hours, if the items are still in the water, they lose their buoyancy and sink.
+These unmarked bracers of oxidized steel slip easily onto the wrists. As a swift action (1 AP) while submerged underwater, the wearer can tap the bracers together, causing the bracers and any armor he wears to immediately be removed. Removed armor is disassembled, becomes incredibly buoyant, and floats to the surface. After 4 hours, if the items are still in the water, they lose their buoyancy and sink.
 
 *Construction* *Requirements* Craft Wondrous Item, *water walk*; *Cost* 1,200 gp
 

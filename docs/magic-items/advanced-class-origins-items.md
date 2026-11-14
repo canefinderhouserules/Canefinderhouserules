@@ -16,7 +16,7 @@ Armor with this special ability is designed to enhance mobility in combat. The a
 
 *Aura* faint abjuration; *CL* 5th; *Slot* none; *Price* +1 bonus; *Weight* —
 
-Armor with this enhancement is specially designed for holy warriors. As a swift action, a paladin or good warpriest wearing this armor can expend one use of the lay on hands or fervor ability to activate the armor's protective aura for 1 minute. This protective aura grants the wearer a +2 sacred bonus to AC. This bonus increases to +3 against evil dragons, evil outsiders, and undead.
+Armor with this enhancement is specially designed for holy warriors. As a swift action (1 AP), a paladin or good warpriest wearing this armor can expend one use of the lay on hands or fervor ability to activate the armor's protective aura for 1 minute. This protective aura grants the wearer a +2 sacred bonus to AC. This bonus increases to +3 against evil dragons, evil outsiders, and undead.
 
 *Construction* Craft Magic Arms and Armor, *protection from evil*; Cost +1 bonus.
 
@@ -26,7 +26,7 @@ Armor with this enhancement is specially designed for holy warriors. As a swift 
 
 *Aura* faint divination; *CL* 5th; *Slot* none; *Price* +1 bonus; *Weight* —
 
-This special ability can be placed only on light or one-handed piercing melee weapons. Weapons with this enhancement are particularly devastating in the hands of a swashbuckler. Anytime the weapon threatens a critical hit, the wielder can spend 1 panache point as an immediate action to automatically confirm the critical hit. When the swashbuckler confirms a critical hit in this fashion, she doesn't regain panache for confirming the critical hit, though she can regain panache normally if the attack is a killing blow.
+This special ability can be placed only on light or one-handed piercing melee weapons. Weapons with this enhancement are particularly devastating in the hands of a swashbuckler. Anytime the weapon threatens a critical hit, the wielder can spend 1 panache point as an immediate action (1 AP of your next turn) to automatically confirm the critical hit. When the swashbuckler confirms a critical hit in this fashion, she doesn't regain panache for confirming the critical hit, though she can regain panache normally if the attack is a killing blow.
 
 *Construction* Craft Magic Arms and Armor, *true strike*; Cost +1 bonus.
 
@@ -72,7 +72,7 @@ If the wearer is an investigator, the hat allows him to take advantage of his de
 
 *Aura* faint evocation; *CL* 3rd; *Slot* head; *Price* 10,000 gp; *Weight* 1 lb.
 
-This ancient diadem is crafted in the shape of an enraged face with an enormous ruby in the center. The gem allows its wearer to channel her rage into pure flame. While under the effects of rage, as a standard action the wearer can expend 1 round of rage or raging song to cause the ruby to release a beam of fire. If the wearer succeeds at a ranged touch attack against a creature or object within 30 feet, the beam deals 2d6 points of fire damage to that target. If the wearer instead expends 3 rounds of rage, bloodrage, or raging song, the beam becomes a 60-foot line instead, dealing 5d6 points of fire damage to all creatures and objects along that line (Reflex DC 14 negates).
+This ancient diadem is crafted in the shape of an enraged face with an enormous ruby in the center. The gem allows its wearer to channel her rage into pure flame. While under the effects of rage, as a standard action (1 AP) the wearer can expend 1 round of rage or raging song to cause the ruby to release a beam of fire. If the wearer succeeds at a ranged touch attack against a creature or object within 30 feet, the beam deals 2d6 points of fire damage to that target. If the wearer instead expends 3 rounds of rage, bloodrage, or raging song, the beam becomes a 60-foot line instead, dealing 5d6 points of fire damage to all creatures and objects along that line (Reflex DC 14 negates).
 
 *Construction* Craft Wondrous Item, *scorching ray*; Cost 5,000 gp.
 
@@ -109,6 +109,6 @@ A shaman who wields the staff can cast *summon nature's ally II* and *summon nat
 
 *Aura* faint conjuration and transmutation; *CL* 5th; *Slot* none; *Price* 10,305 gp; *Weight* 2 lbs.
 
-This +1 light mace is crafted of forged black iron topped with a clenched fist pierced with spikes protruding from between the fingers. As a standard action, the wielder can expend 1 point from his arcane pool, 1 point from his arcane reservoir, or one use of fervor to make a single melee attack with the zealot's fist. If the attack deals damage to a creature, the zealot's fist gains the bane weapon special ability against that creature's type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn't apply if the target is immune to bleed, though the attack deals damage normally.
+This +1 light mace is crafted of forged black iron topped with a clenched fist pierced with spikes protruding from between the fingers. As a standard action (1 AP), the wielder can expend 1 point from his arcane pool, 1 point from his arcane reservoir, or one use of fervor to make a single melee attack with the zealot's fist. If the attack deals damage to a creature, the zealot's fist gains the bane weapon special ability against that creature's type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn't apply if the target is immune to bleed, though the attack deals damage normally.
 
 *Construction* Craft Magic Arms and Armor, *haste*, *summon monster I*; Cost 5,305 gp.

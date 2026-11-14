@@ -28,11 +28,11 @@ With sufficient ranks in Appraise, you earn the following.
 
 **5 Ranks**: A successful DC 20 Appraise check reveals whether an item is magical, and a second check (DC = 25 + the item’s caster level) unveils its properties. You can use Appraise to detect non-written forgeries and counterfeits. 
 
-**10 Ranks**: You can determine the most expensive object a creature is wearing or wielding (or in a 5-foot cube) as a standard action by succeeding at a DC 20 check. You never make a wildly inaccurate appraisal of an item’s value. 
+**10 Ranks**: You can determine the most expensive object a creature is wearing or wielding (or in a 5-foot cube) as a standard action (1 AP) by succeeding at a DC 20 check. You never make a wildly inaccurate appraisal of an item’s value. 
 
-**15 Ranks**: Determining the most expensive object as above is a move action. You can substitute an Appraise check at a –10 penalty for a Will save to disbelieve a figment or glamer. 
+**15 Ranks**: Determining the most expensive object as above is a move action (1 AP). You can substitute an Appraise check at a –10 penalty for a Will save to disbelieve a figment or glamer. 
 
-**20 Ranks**: Determining the most expensive object as above is a move action, and if the check succeeds, you gain a +2 circumstance bonus on combat maneuver checks to steal that object or disarm a creature of that object for 1 minute. 
+**20 Ranks**: Determining the most expensive object as above is a move action (1 AP), and if the check succeeds, you gain a +2 circumstance bonus on combat maneuver checks to steal that object or disarm a creature of that object for 1 minute. 
 
 ### Bluff
 
@@ -44,7 +44,7 @@ With sufficient ranks in Bluff, you earn the following.
 
 **15 Ranks**: Creatures magically attempting to read your thoughts, detect your alignment, or reveal when you are lying must attempt a caster level check (DC = 11 + your ranks in Bluff ) or the effect reveals nothing. 
 
-**20 Ranks**: As a full-round action, you can make a suggestion (as the spell, maximum duration 1 hour) to a creature within 30 feet (Will negates, DC = 15 + your Charisma modifier). A creature that saves against your suggestion is immune to further uses of this effect for 24 hours, and whenever the suggested creature is specifically confronted with proof of your manipulation, it receives another saving throw. This is an extraordinary mind- affecting compulsion. 
+**20 Ranks**: As a full-round action (3 AP), you can make a suggestion (as the spell, maximum duration 1 hour) to a creature within 30 feet (Will negates, DC = 15 + your Charisma modifier). A creature that saves against your suggestion is immune to further uses of this effect for 24 hours, and whenever the suggested creature is specifically confronted with proof of your manipulation, it receives another saving throw. This is an extraordinary mind- affecting compulsion. 
 
 ### Climb
 
@@ -86,13 +86,13 @@ With sufficient ranks in Diplomacy, you earn the following.
 
 With sufficient ranks in Disable Device, you earn the following. 
 
-**5 Ranks**: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on your Disable Device check for each step by which you reduce the time required: 2d4 rounds, 1d4 rounds, 1 round, a standard action, a move action, a swift action. 
+**5 Ranks**: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on your Disable Device check for each step by which you reduce the time required: 2d4 rounds, 1d4 rounds, 1 round, a standard action (1 AP), a move action (1 AP), a swift action (1 AP). 
 
 **10 Ranks**: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a symbol). If you fail the check, you can still trigger the trap, and you can’t use this ability to bypass it. 
 
-**15 Ranks**: When attacked by a trap, you can attempt a Disable Device check as an immediate action (adding your trap sense bonus, if any) opposed by the trap’s attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10). 
+**15 Ranks**: When attacked by a trap, you can attempt a Disable Device check as an immediate action (1 AP of your next turn) (adding your trap sense bonus, if any) opposed by the trap’s attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10). 
 
-**20 Ranks**: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a –20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benefit, and you disable the trap as an immediate action before it can trigger if you exceed the DC by at least 10. 
+**20 Ranks**: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a –20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benefit, and you disable the trap as an immediate action (1 AP of your next turn) before it can trigger if you exceed the DC by at least 10. 
 
 ### Disguise
 
@@ -102,21 +102,21 @@ With sufficient ranks in Disguise, you earn the following.
 
 **10 Ranks**: You can create a disguise in 1d3 rounds. If you take the full normal amount of time to create your disguise, you take no penalty for disguising your gender, race, or age category. 
 
-**15 Ranks**: You can create a disguise as a full-round action. 
+**15 Ranks**: You can create a disguise as a full-round action (3 AP). 
 
-**20 Ranks**: You can create a disguise as a standard action, or as a full-round action combined with a Bluff check to create a diversion to hide. 
+**20 Ranks**: You can create a disguise as a standard action (1 AP), or as a full-round action (3 AP) combined with a Bluff check to create a diversion to hide. 
 
 ### Escape Artist
 
 With sufficient ranks in Escape Artist, you earn the following. 
 
-**5 Ranks**: If you take a –10 penalty, the time required to use this skill is halved; escaping a grapple or pin is a move action, and escaping a net, animate rope, command plants, or control plants spell is a standard action. 
+**5 Ranks**: If you take a –10 penalty, the time required to use this skill is halved; escaping a grapple or pin is a move action (1 AP), and escaping a net, animate rope, command plants, or control plants spell is a standard action (1 AP). 
 
-**10 Ranks**: You can attempt to escape from any entangling effect as a standard action with an Escape Artist check (DC = the effect’s save DC + 10). You can attempt an Escape Artist check as a move action to set the DC for a creature to escape from ropes or bindings; you gain a +10 bonus on the check if you instead attempt it as a full-round action. 
+**10 Ranks**: You can attempt to escape from any entangling effect as a standard action (1 AP) with an Escape Artist check (DC = the effect’s save DC + 10). You can attempt an Escape Artist check as a move action (1 AP) to set the DC for a creature to escape from ropes or bindings; you gain a +10 bonus on the check if you instead attempt it as a full-round action (3 AP). 
 
-**15 Ranks**: You can escape any entangling effect (as above) as a move action. As a standard action, you can attempt an Escape Artist check (DC = the effect’s save DC + 20) to suppress a slow or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This action counts as purely mental for the purpose of being able to take it while paralyzed. 
+**15 Ranks**: You can escape any entangling effect (as above) as a move action (1 AP). As a standard action (1 AP), you can attempt an Escape Artist check (DC = the effect’s save DC + 20) to suppress a slow or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This action counts as purely mental for the purpose of being able to take it while paralyzed. 
 
-**20 Ranks**: You can escape being entangled, grappled, or pinned as an immediate action with an Escape Artist check (DC = the effect’s DC + 10 or the attacker’s CMB + 10). You can attempt to suppress a slow or paralysis effect as a standard action (increasing the DC by 10), a move action (increasing the DC by 15), or an immediate action (increasing the DC by 20). 
+**20 Ranks**: You can escape being entangled, grappled, or pinned as an immediate action (1 AP of your next turn) with an Escape Artist check (DC = the effect’s DC + 10 or the attacker’s CMB + 10). You can attempt to suppress a slow or paralysis effect as a standard action (1 AP) (increasing the DC by 10), a move action (1 AP) (increasing the DC by 15), or an immediate action (1 AP of your next turn) (increasing the DC by 20). 
 
 ### Fly
 
@@ -246,9 +246,9 @@ With sufficient ranks in Sense Motive, you earn the following.
 
 **10 Ranks**: After 1 minute of conversation, you can read a creature’s surface thoughts (as detect thoughts) by attempting a Sense Motive check at a –20 penalty opposed by the creature’s Bluff check. 
 
-**15 Ranks**: You can read surface thoughts as above after 1 round. In addition, when attacked, you can attempt a Sense Motive check as an immediate action opposed by your target’s attack roll. A successful check grants a +2 insight bonus to your AC against attacks from that specific opponent for 1 minute. 
+**15 Ranks**: You can read surface thoughts as above after 1 round. In addition, when attacked, you can attempt a Sense Motive check as an immediate action (1 AP of your next turn) opposed by your target’s attack roll. A successful check grants a +2 insight bonus to your AC against attacks from that specific opponent for 1 minute. 
 
-**20 Ranks**: You can read surface thoughts as above as a standard action. A successful check to gain an insight bonus to your AC also negates the attack that triggered it. 
+**20 Ranks**: You can read surface thoughts as above as a standard action (1 AP). A successful check to gain an insight bonus to your AC also negates the attack that triggered it. 
 
 ### Sleight of Hand
 
@@ -256,11 +256,11 @@ With sufficient ranks in Sleight of Hand, you earn the following.
 
 **5 Ranks**: When attempting a disarm or steal maneuver, a successful Sleight of Hand check against your target’s CMD grants a +2 circumstance bonus on your combat maneuver check. 
 
-**10 Ranks**: The penalty for attempting a Sleight of Hand check (including drawing a hidden weapon) as a move action is reduced to –10. 
+**10 Ranks**: The penalty for attempting a Sleight of Hand check (including drawing a hidden weapon) as a move action (1 AP) is reduced to –10. 
 
-**15 Ranks**: You can attempt a Sleight of Hand check (including drawing a hidden weapon) as a swift action at a –20 penalty. 
+**15 Ranks**: You can attempt a Sleight of Hand check (including drawing a hidden weapon) as a swift action (1 AP) at a –20 penalty. 
 
-**20 Ranks**: You take no penalty for using Sleight of Hand as a move action, and take only a –10 penalty when using it as a swift action. 
+**20 Ranks**: You take no penalty for using Sleight of Hand as a move action (1 AP), and take only a –10 penalty when using it as a swift action (1 AP). 
 
 ### Spellcraft
 
@@ -270,7 +270,7 @@ With sufficient ranks in Spellcraft, you earn the following.
 
 **10 Ranks**: You can identify magic items without using detect magic, though the DC is increased by 10. 
 
-**15 Ranks**: Identifying magic items is a standard action, and the time required to learn a new spell from a spellbook is reduced to 1 minute per spell level. 
+**15 Ranks**: Identifying magic items is a standard action (1 AP), and the time required to learn a new spell from a spellbook is reduced to 1 minute per spell level. 
 
 **20 Ranks**: Whenever you attempt a caster level check, attempt a Spellcraft check at a –20 penalty at the same DC. If the spellcraft check succeeds, you gain a +2 circumstance bonus on your caster level check. 
 

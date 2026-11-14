@@ -89,7 +89,7 @@ Orcs have access to the following equipment.
 
 **Tribal Standard**: Mounted on a sturdy 15-foot pole, this flag inspires all orcs belonging to the tribe it represents. As long as they are within 60 feet and can see the standard, they gain a +1 morale bonus on saving throws against fear effects. The standard must be carried in one hand by a member of the tribe to have any effect (it provides no bonus if hung on a wall, draped over a throne, and so on). If the standard is brought low (such as by its bearer dropping it in the mud), defiled, destroyed, or captured, the tribe’s members take a –1 penalty on attack rolls and saving throws versus fear effects for the next hour. If the orcs reclaim a captured standard, the penalties end and the bonus is restored.
 
-**War Spirit Pouch**: This tiny bundle of sacred herbs and bones supposedly attracts the attention of helpful battle-spirits. By crushing the pouch as a standard action, an orc (or a creature from a suitably warlike culture) gains 1d4+1 temporary hit points. These temporary hit points go away after 10 minutes. A creature can only benefit from 1 spirit pouch at a time. Once used, the spirit pouch is destroyed.
+**War Spirit Pouch**: This tiny bundle of sacred herbs and bones supposedly attracts the attention of helpful battle-spirits. By crushing the pouch as a standard action (1 AP), an orc (or a creature from a suitably warlike culture) gains 1d4+1 temporary hit points. These temporary hit points go away after 10 minutes. A creature can only benefit from 1 spirit pouch at a time. Once used, the spirit pouch is destroyed.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|

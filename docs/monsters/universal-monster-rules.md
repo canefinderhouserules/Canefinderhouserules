@@ -46,7 +46,7 @@ Unless noted otherwise, blindsight is continuous, and the creature need do nothi
 
 **Breath Weapon** (Su) Some creatures can exhale a cone, line, or cloud of energy or other magical effects. A breath weapon attack usually deals damage and is often based on some type of energy. Breath weapons allow a Ref lex save for half damage (DC 10 + 1/2 the breathing creature’s racial HD + the breathing creature’s Con modifier; the exact DC is given in the creature’s descriptive text). A creature is immune to its own breath weapon unless otherwise noted. Some breath weapons allow a Fortitude save or a Will save instead of a Ref lex save. Each breath weapon also includes notes on how often it can be used, even if this number is limited in times per day. Format: breath weapon (60-ft. cone, 8d6 fire damage, Ref lex DC 20 for half, usable every 1d4 rounds); Location: Special Attacks; if the breath is more complicated than damage, it also appears under Special Abilities with its own entry.
 
-**Burn** (Ex) A creature with the burn special attack deals fire damage in addition to damage dealt on a successful hit in melee. A creature affected by the burn ability must also succeed at a Ref lex save or catch fire, taking the listed damage at the start of its turn for an additional 1d4 rounds (DC 10 + 1/2 the attacking creature’s racial HD + the attacking creature’s Con modifier). A burning creature can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save.
+**Burn** (Ex) A creature with the burn special attack deals fire damage in addition to damage dealt on a successful hit in melee. A creature affected by the burn ability must also succeed at a Ref lex save or catch fire, taking the listed damage at the start of its turn for an additional 1d4 rounds (DC 10 + 1/2 the attacking creature’s racial HD + the attacking creature’s Con modifier). A burning creature can attempt a new save as a full-round action (3 AP). Dropping and rolling on the ground grants a +4 bonus on this save.
 
 Creatures that hit the monster with natural weapons or unarmed attacks take fire damage as though hit by the monster’s burn attack and must make a Ref lex save to avoid catching on fire . Format: burn (2d6, DC 15); Location: Special Attacks and individual attacks.
 
@@ -130,7 +130,7 @@ If an attack that includes an energy drain scores a critical hit, it bestows twi
 
 *Format: energy drain (2 levels, DC 18); Location: Special Attacks and individual attacks.*
 
-**Engulf** (Ex) The creature can engulf creatures in its path as part of a standard action. It cannot make other attacks during a round in which it engulfs. The creature merely has to move over its opponents, affecting as many as it can cover. Targeted creatures can make attacks of opportunity against the creature, but if they do so, they are not entitled to a saving throw against the engulf attack. Those who do not attempt attacks of opportunity can attempt a Ref lex save to avoid being engulfed—on a success, they are pushed back or aside (target’s choice) as the creature moves forward. Engulfed opponents gain the pinned condition, are in danger of suffocating, are trapped within the creature’s body until they are no longer pinned, and may be subject to other special attacks from the creature. The save DC is Strength-based.
+**Engulf** (Ex) The creature can engulf creatures in its path as part of a standard action (1 AP). It cannot make other attacks during a round in which it engulfs. The creature merely has to move over its opponents, affecting as many as it can cover. Targeted creatures can make attacks of opportunity against the creature, but if they do so, they are not entitled to a saving throw against the engulf attack. Those who do not attempt attacks of opportunity can attempt a Ref lex save to avoid being engulfed—on a success, they are pushed back or aside (target’s choice) as the creature moves forward. Engulfed opponents gain the pinned condition, are in danger of suffocating, are trapped within the creature’s body until they are no longer pinned, and may be subject to other special attacks from the creature. The save DC is Strength-based.
 
 *Format: engulf (DC 12, 1d6 acid and paralysis); Location: Special Attacks.*
 
@@ -236,7 +236,7 @@ Incorporeal creatures have an innate sense of direction and can move at full spe
 
 *Format: incorporeal; Location: Defensive Abilities.*
 
-**Jet** (Ex) The creature can swim backward as a full-round action at the listed speed. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
+**Jet** (Ex) The creature can swim backward as a full-round action (3 AP) at the listed speed. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
 
 *Format: jet (200 ft.); Location: Speed.*
 
@@ -316,7 +316,7 @@ Individual creatures vary from these values as appropriate.
 
 *Format: ooze traits; Location: Immune.*
 
-**Paralysis** (Ex or Su) This special attack makes the victim [paralyzed 1](../rules/appendices/conditions.md#paralyzed): it loses its move action and keeps only its standard action. A victim paralyzed again while still paralyzed becomes paralyzed 2: it can’t move, speak, or take any physical actions, and is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (DC = 10 + 1/2 the paralyzing creature’s racial HD + that creature’s Constitution modifier; the DC is given in the creature’s description). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air when it becomes paralyzed 2 cannot flap its wings and falls. A paralyzed 2 swimmer can’t swim and might drown. The duration of the paralysis varies and is included in the creature’s description.
+**Paralysis** (Ex or Su) This special attack makes the victim [paralyzed 1](../rules/appendices/conditions.md#paralyzed): it loses its move action (1 AP) and keeps only its standard action (1 AP). A victim paralyzed again while still paralyzed becomes paralyzed 2: it can’t move, speak, or take any physical actions, and is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (DC = 10 + 1/2 the paralyzing creature’s racial HD + that creature’s Constitution modifier; the DC is given in the creature’s description). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air when it becomes paralyzed 2 cannot flap its wings and falls. A paralyzed 2 swimmer can’t swim and might drown. The duration of the paralysis varies and is included in the creature’s description.
 
 *Format: paralysis (1d4 rounds, DC 18); Location: Special Attacks and individual attacks.*
 
@@ -400,7 +400,7 @@ A creature must have a Constitution score to have the regeneration ability.
 
 The creature can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple the normal range.
 
-When a creature detects a scent, the exact location of the source is not revealed—only its presence somewhere within range. The creature can take a move action to note the direction of the scent. When the creature is within 5 feet of the source, it pinpoints the source’s location.
+When a creature detects a scent, the exact location of the source is not revealed—only its presence somewhere within range. The creature can take a move action (1 AP) to note the direction of the scent. When the creature is within 5 feet of the source, it pinpoints the source’s location.
 
 A creature with the scent ability can follow tracks by smell, attempting a Wisdom or Survival check to find or follow a track. The typical DC for a fresh trail is 10 (no matter what kind of surface holds the scent). This DC increases or decreases depending on how strong the quarry’s odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
 
@@ -436,7 +436,7 @@ The creature has a +8 racial bonus on its Bluff check to mimic sounds (including
 
 They go away in an antimagic field and are subject to spell resistance if the spell the ability is based on would be subject to spell resistance.
 
-A spell-like ability usually has a limit on how often it can be used. A constant spell-like ability or one that can be used at will has no use limit. Reactivating a constant spell-like ability is a swift action. Using all other spelllike abilities is a standard action unless noted otherwise, and doing so provokes attacks of opportunity. It is possible to attempt a concentration check to use a spell-like ability defensively and avoid provoking an attack of opportunity, just as when casting a spell. A spell-like ability can be disrupted just as a spell can be. Spell-like abilities cannot be used to counterspell, nor can they be counterspelled.
+A spell-like ability usually has a limit on how often it can be used. A constant spell-like ability or one that can be used at will has no use limit. Reactivating a constant spell-like ability is a swift action (1 AP). Using all other spelllike abilities is a standard action (1 AP) unless noted otherwise, and doing so provokes attacks of opportunity. It is possible to attempt a concentration check to use a spell-like ability defensively and avoid provoking an attack of opportunity, just as when casting a spell. A spell-like ability can be disrupted just as a spell can be. Spell-like abilities cannot be used to counterspell, nor can they be counterspelled.
 
 For creatures with spell-like abilities, a designated caster level defines how difficult it is to dispel their spell-like effects and to define any level-dependent variables (such as range and duration) the abilities might have. The creature’s caster level never affects which spell-like abilities the creature has; sometimes the given caster level is lower than the level a spellcasting character would need to cast the spell of the same name. If no caster level is specified, the caster level is equal to the creature’s Hit Dice. The saving throw (if any) against a spell-like ability is 10 + the level of the spell the ability resembles or duplicates + the creature’s Charisma modifier.
 
@@ -498,7 +498,7 @@ A swallowed creature can try to cut its way free with any light slashing or pier
 
 *Format: thoughtsense 60 ft.; Location: Senses.*
 
-**Trample** (Ex) As a full-round action, a creature with the trample ability can attempt to overrun any creature that is at least one size category smaller than itself. This works just like the overrun combat maneuver, but the trampling creature does not need to attempt a check; it merely has to move over opponents in its path. Targets of a trample take an amount of damage equal to the trampling creature’s slam damage + 1-1/2 times its Strength modifier. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If targets forgo an attack of opportunity, they can attempt to avoid the trampling creature and receive a Reflex save to take half damage. The save DC against a creature’s trample attack is equal to 10 + 1/2 the creature’s HD + the creature’s Strength modifier (the exact DC is given in the creature’s descriptive text). A trampling creature can only deal trampling damage to each target once per round, no matter how many times its movement takes it over a target creature.
+**Trample** (Ex) As a full-round action (3 AP), a creature with the trample ability can attempt to overrun any creature that is at least one size category smaller than itself. This works just like the overrun combat maneuver, but the trampling creature does not need to attempt a check; it merely has to move over opponents in its path. Targets of a trample take an amount of damage equal to the trampling creature’s slam damage + 1-1/2 times its Strength modifier. Targets of a trample can make an attack of opportunity, but at a –4 penalty. If targets forgo an attack of opportunity, they can attempt to avoid the trampling creature and receive a Reflex save to take half damage. The save DC against a creature’s trample attack is equal to 10 + 1/2 the creature’s HD + the creature’s Strength modifier (the exact DC is given in the creature’s descriptive text). A trampling creature can only deal trampling damage to each target once per round, no matter how many times its movement takes it over a target creature.
 
 *Format: trample (2d6+9, DC 20); Location: Special Attacks.*
 
@@ -564,9 +564,9 @@ If the whirlwind’s base touches the ground, it creates a swirling cloud of deb
 
 The following universal monster rules are used mostly by mythic creatures.
 
-**Amazing Initiative** (Ex) The creature has a bonus on initiative checks equal to its mythic rank. As a free action on its turn, it can expend one use of mythic power to take an additional standard action during that turn.
+**Amazing Initiative** (Ex) The creature has a bonus on initiative checks equal to its mythic rank. As a free action on its turn, it can expend one use of mythic power to take an additional standard action (1 AP) during that turn.
 
-This additional standard action can’t be used to cast a spell. It can’t gain an extra action in this way more than once per round.
+This additional standard action (1 AP) can’t be used to cast a spell. It can’t gain an extra action in this way more than once per round.
 
 *Format: amazing initiative; Location: Special Attacks.*
 
@@ -614,7 +614,7 @@ This additional standard action can’t be used to cast a spell. It can’t gain
 
 *Format: dragon cantrips; Location: SQ.*
 
-**Dual Initiative** (Ex) The creature gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster’s initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a summon monster spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature’s round or the start of its turn (such as saving throws against ongoing effects or taking bleed damage), only the creature’s first turn each round counts toward such durations.
+**Dual Initiative** (Ex) The creature gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster’s initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action (1 AP) and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a summon monster spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature’s round or the start of its turn (such as saving throws against ongoing effects or taking bleed damage), only the creature’s first turn each round counts toward such durations.
 
 *Format: +21/+1; Location: Initiative.*
 
@@ -672,7 +672,7 @@ Any creature in, entering, or passing through the breath weapon’s area during 
 
 *Format: second save; Location: After saving throws.*
 
-**Surge** (Su) The monster can call upon its mythic power to overcome difficult challenges. It can expend one use of mythic power to increase any d20 roll it just made by rolling 1d6 and adding the result to the d20 roll. Using this ability is an immediate action taken after the original roll is made and the results are revealed. The bonus die gained by using this ability increases to 1d8 at 4th rank, 1d10 at 7th rank, and 1d12 at 10th rank. The monster can use this ability even if it’s mindless or of animal-level intelligence.
+**Surge** (Su) The monster can call upon its mythic power to overcome difficult challenges. It can expend one use of mythic power to increase any d20 roll it just made by rolling 1d6 and adding the result to the d20 roll. Using this ability is an immediate action (1 AP of your next turn) taken after the original roll is made and the results are revealed. The bonus die gained by using this ability increases to 1d8 at 4th rank, 1d10 at 7th rank, and 1d12 at 10th rank. The monster can use this ability even if it’s mindless or of animal-level intelligence.
 
 Surge doesn’t have a separate entry in the monster stat block—the surge die is listed in the mythic power ability.
 

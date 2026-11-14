@@ -5,7 +5,7 @@
 
 ## Swimming and Aquatic Adventures
 
-The basics of the Swim skill are unchanged. A creature that uses a move or full-round action to swim makes a Swim check against the DC for the water's conditions. On a success it moves up to one quarter of its land speed with a move action, or half with a double move. On a failure it makes no progress. If a creature already underwater fails by 5 or more (or spends no actions to swim), it sinks or rises according to its buoyancy instead of "going underwater."
+The basics of the Swim skill are unchanged. A creature that uses a move or full-round action (3 AP) to swim makes a Swim check against the DC for the water's conditions. On a success it moves up to one quarter of its land speed with a move action (1 AP), or half with a double move. On a failure it makes no progress. If a creature already underwater fails by 5 or more (or spends no actions to swim), it sinks or rises according to its buoyancy instead of "going underwater."
 
 - A swimmer can't run, charge or take a 5-foot step.
 - Every hour of swimming requires a DC 20 Swim check to avoid fatigue. Swimming is at least as strenuous as marching: extensive swimming requires checks as for a forced march, and continual double moves count as hustling.
@@ -27,11 +27,11 @@ When a creature fails a Swim check by 5 or more, or spends no actions to swim, i
 
 An air tank can be adjusted to hold just enough air for neutral buoyancy, but picking up other objects or breathing from the tank ends that until readjusted. Creatures with the aquatic subtype can maintain neutral buoyancy as a free action on their turn (unless carrying something large with high or low density); creatures with the water subtype have the same buoyancy as water.
 
-**Buoyancy speed.** A creature that badly fails (or doesn't attempt) a Swim check begins to sink or rise at the end of its turn at 10 feet; the speed increases by 10 feet each subsequent round, to a maximum of 30 feet after 3 rounds. This movement provokes attacks of opportunity, and the creature is off-balance while moving this way. Once per round, a creature sinking or rising can stop its momentum with a Swim check as a move action. A creature that continues moving in the direction of its buoyancy under its own power can do so with a successful Swim check without stopping first. If buoyancy changes instantly (jettisoning an item, magic), buoyancy speed adjusts by 10 feet per round in the new direction. A creature that fails the DC 20 Swim check to move against its buoyancy while swiftly sinking or swiftly rising moves 30 feet in the buoyancy direction at once.
+**Buoyancy speed.** A creature that badly fails (or doesn't attempt) a Swim check begins to sink or rise at the end of its turn at 10 feet; the speed increases by 10 feet each subsequent round, to a maximum of 30 feet after 3 rounds. This movement provokes attacks of opportunity, and the creature is off-balance while moving this way. Once per round, a creature sinking or rising can stop its momentum with a Swim check as a move action (1 AP). A creature that continues moving in the direction of its buoyancy under its own power can do so with a successful Swim check without stopping first. If buoyancy changes instantly (jettisoning an item, magic), buoyancy speed adjusts by 10 feet per round in the new direction. A creature that fails the DC 20 Swim check to move against its buoyancy while swiftly sinking or swiftly rising moves 30 feet in the buoyancy direction at once.
 
 **Moving against buoyancy.** Each square of movement in the direction opposite a creature's buoyancy costs twice as much movement. Neutral buoyancy ignores this.
 
-**Drag.** Swimming with an item with significant surface area (a big treasure chest) halves speed (or more, at the GM's discretion). A narrow object like a pole avoids drag if turned to face the direction of travel, but turning it takes a move action.
+**Drag.** Swimming with an item with significant surface area (a big treasure chest) halves speed (or more, at the GM's discretion). A narrow object like a pole avoids drag if turned to face the direction of travel, but turning it takes a move action (1 AP).
 
 ### Thinking in Three Dimensions
 
@@ -64,7 +64,7 @@ A creature with *freedom of movement* can move and attack normally underwater: i
 
 ### Spells
 
-- **Casting while holding breath.** A creature holding its breath must succeed at a concentration check (DC 15 + spell level) to cast a spell at all. A spell with a verbal component reduces remaining rounds of breath by 3 (stacking with the reduction for a standard or full-round action); a swift or immediate action spell with a verbal component reduces it by 1. The caster can't finish the spell without enough breath. Mundane components work if stored in watertight containers.
+- **Casting while holding breath.** A creature holding its breath must succeed at a concentration check (DC 15 + spell level) to cast a spell at all. A spell with a verbal component reduces remaining rounds of breath by 3 (stacking with the reduction for a standard or full-round action (3 AP)); a swift or immediate action (1 AP of your next turn) spell with a verbal component reduces it by 1. The caster can't finish the spell without enough breath. Mundane components work if stored in watertight containers.
 - **Acid.** Conjuration (creation) spells that conjure nonmagical acid (such as *acid arrow*) don't work; evocation spells that deal magical acid damage work normally.
 - **Clouds and weather.** Cloud spells (*fog cloud*, *obscuring mist*) don't work underwater; *Murky Spell* creates equivalents. Land weather spells (*ice storm*, *sleet storm*) don't function. Illusions like *twilight haze* work.
 - **Cold.** Cold spells that don't conjure ice (*cone of cold*) deal half cold and half piercing damage as ice shards form underwater.
@@ -82,7 +82,7 @@ A creature with *freedom of movement* can move and attack normally underwater: i
 
 ### Drowning
 
-A creature can typically hold its breath for rounds equal to twice its Constitution score. A standard or full-round action expends 1 additional round of breath, so a creature fighting or double-moving each round lasts rounds equal to its Constitution score. Intentionally exhaling expends 1 round (small exhalation) to 3 rounds (extended, like singing or casting a spell). *Suffocation* expels all held breath.
+A creature can typically hold its breath for rounds equal to twice its Constitution score. A standard or full-round action (3 AP) expends 1 additional round of breath, so a creature fighting or double-moving each round lasts rounds equal to its Constitution score. Intentionally exhaling expends 1 round (small exhalation) to 3 rounds (extended, like singing or casting a spell). *Suffocation* expels all held breath.
 
 When out of breath, the creature must make a Constitution check each round (DC 10, +1 per round after the first). On a failure it begins to drown: unconscious (and 0 hit points if it had more), –1 hit points the next round, dead the round after. If it can breathe again, drowning stops but no hit points are regained. A creature holding its breath where it could breathe normally doesn't fall unconscious.
 

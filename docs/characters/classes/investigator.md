@@ -75,7 +75,7 @@ An investigator can also learn formulae from another investigator's or an alchem
 
 An investigator is beyond knowledgeable and skilled-he also possesses keen powers of observation and deduction that far surpass the abilities of others. An investigator typically uses these powers to aid in their investigations, but can also use these flashes of inspiration in other situations.
 
-An investigator has the ability to augment skill checks and ability checks through his brilliant inspiration. The investigator has an inspiration pool equal to 1/2 his investigator level + his Intelligence modifier (minimum 1). An investigator's inspiration pool refreshes each day, typically after he gets a restful night's sleep. As a free action, he can expend one use of inspiration from his pool to add 1d6 to the result of that check, including any on which he takes 10 or 20. This choice is made after the check is rolled and before the results are revealed. An investigator can only use inspiration once per check or roll. The investigator can use inspiration on any [Knowledge](../../rules/skills/knowledge.md), [Linguistics](../../rules/skills/linguistics.md), or [Spellcraft](../../rules/skills/spellcraft.md) skill checks without expending a use of inspiration, provided he's trained in the skill. Inspiration can also be used on attack rolls and saving throws, at the cost of expending two uses of inspiration each time from the investigator's pool. In the case of saving throws, using inspiration is an immediate action rather than a free action.
+An investigator has the ability to augment skill checks and ability checks through his brilliant inspiration. The investigator has an inspiration pool equal to 1/2 his investigator level + his Intelligence modifier (minimum 1). An investigator's inspiration pool refreshes each day, typically after he gets a restful night's sleep. As a free action, he can expend one use of inspiration from his pool to add 1d6 to the result of that check, including any on which he takes 10 or 20. This choice is made after the check is rolled and before the results are revealed. An investigator can only use inspiration once per check or roll. The investigator can use inspiration on any [Knowledge](../../rules/skills/knowledge.md), [Linguistics](../../rules/skills/linguistics.md), or [Spellcraft](../../rules/skills/spellcraft.md) skill checks without expending a use of inspiration, provided he's trained in the skill. Inspiration can also be used on attack rolls and saving throws, at the cost of expending two uses of inspiration each time from the investigator's pool. In the case of saving throws, using inspiration is an immediate action (1 AP of your next turn) rather than a free action.
 
 ### Trapfinding
 
@@ -117,7 +117,7 @@ The investigator can use the [Use Magic Device](../../rules/skills/use-magic-dev
 
 #### Effortless Aid (Ex)
 
-The investigator can use an aid another action as a move action instead of as a standard action. An investigator can expend one use of inspiration to instead perform an aid another action as a swift action.
+The investigator can use an aid another action as a move action (1 AP) instead of as a standard action (1 AP). An investigator can expend one use of inspiration to instead perform an aid another action as a swift action (1 AP).
 
 #### Eidetic Recollection (Su)
 
@@ -137,7 +137,7 @@ An investigator learns to obscure his thoughts and endeavors from prying eyes an
 
 #### Inspirational Expertise (Ex)
 
-When an investigator succeeds at a Knowledge check to identify a monster's special powers or vulnerabilities, he can expend one use of inspiration as a swift action to grant allies within 30 feet that can hear him a +4 insight bonus on attack rolls against that monster or type of monster for 1 round. An investigator must be at least 7th level to take this talent.
+When an investigator succeeds at a Knowledge check to identify a monster's special powers or vulnerabilities, he can expend one use of inspiration as a swift action (1 AP) to grant allies within 30 feet that can hear him a +4 insight bonus on attack rolls against that monster or type of monster for 1 round. An investigator must be at least 7th level to take this talent.
 
 #### Inspired Alertness (Ex)
 
@@ -161,7 +161,7 @@ The investigator can use Perception instead of Survival to both find and follow 
 
 #### Quick Study (Ex)
 
-An investigator can use his studied combat ability as swift action instead of a standard action. Repositioning Strike* (Ex): When the investigator deals damage with studied strike, he can perform a reposition combat maneuver as a free action against the creature damaged by studied strike. This reposition does not provoke attacks of opportunity. An investigator must be at least 13th level to select this talent.
+An investigator can use his studied combat ability as swift action (1 AP) instead of a standard action. Repositioning Strike* (Ex): When the investigator deals damage with studied strike, he can perform a reposition combat maneuver as a free action against the creature damaged by studied strike. This reposition does not provoke attacks of opportunity. An investigator must be at least 13th level to select this talent.
 
 #### Rogue Talent (Ex)
 
@@ -197,7 +197,7 @@ At 3rd level, an investigator gains an intuitive sense that alerts him to danger
 
 ### Studied Combat (Ex)
 
-With a keen eye and the mettle of his opponent to take advantage of gaps in talent and training. At 4th level, an investigator can use a move action to study a single enemy that he can see. Upon doing so, he adds 1/2 his investigator level as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. This effect lasts for a number of rounds equal to his Intelligence modifier (minimum 1) or until he deals damage with a studied strike, whichever comes first. The bonus on damage rolls is precision damage, and is not multiplied on a critical hit. An investigator can only have one target of studied combat at a time, and once a creature has become the target of an investigator's studied combat, he cannot become the target of the same investigator's studied combat again for 24 hours unless the investigator expends one use of inspiration when taking the move action to use this ability.
+With a keen eye and the mettle of his opponent to take advantage of gaps in talent and training. At 4th level, an investigator can use a move action (1 AP) to study a single enemy that he can see. Upon doing so, he adds 1/2 his investigator level as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. This effect lasts for a number of rounds equal to his Intelligence modifier (minimum 1) or until he deals damage with a studied strike, whichever comes first. The bonus on damage rolls is precision damage, and is not multiplied on a critical hit. An investigator can only have one target of studied combat at a time, and once a creature has become the target of an investigator's studied combat, he cannot become the target of the same investigator's studied combat again for 24 hours unless the investigator expends one use of inspiration when taking the move action (1 AP) to use this ability.
 
 ### Studied Strike (Ex)
 
@@ -207,7 +207,7 @@ The investigator must be able to see the target well enough to pick out a vital 
 
 ### Swift Alchemy (Ex)
 
-At 4th level, an investigator can create alchemical items with astounding speed. It takes an investigator half the normal amount of time to create alchemical items. He can also apply poison to a weapon as a move action instead of a standard action.
+At 4th level, an investigator can create alchemical items with astounding speed. It takes an investigator half the normal amount of time to create alchemical items. He can also apply poison to a weapon as a move action (1 AP) instead of a standard action.
 
 ### True Inspiration (Ex)
 
@@ -217,17 +217,17 @@ At 20th level, an investigator can use inspiration on all skill checks-even ones
 
 The following investigator talents are secrets of an adventuring society, each closely integrated into the society’s training or its iconic tools of the trade.
 
-**Chronicler’s Insight**: The investigator can peruse an [adventurer’s chronicle](../../equipment/gear-ag.md) as a standard action, applying its benefits as though he had studied it for the full 1d4 rounds. Upon studying an adventurer’s chronicle, the investigator can expend one use of inspiration to apply the volume’s benefits for a number of hours equal to his Intelligence modifier and gain an additional benefit based on the volume’s associated Knowledge skill during that time. The investigator can have only one such ongoing benefit at a time, and activating a new benefit ends the first one.
+**Chronicler’s Insight**: The investigator can peruse an [adventurer’s chronicle](../../equipment/gear-ag.md) as a standard action (1 AP), applying its benefits as though he had studied it for the full 1d4 rounds. Upon studying an adventurer’s chronicle, the investigator can expend one use of inspiration to apply the volume’s benefits for a number of hours equal to his Intelligence modifier and gain an additional benefit based on the volume’s associated Knowledge skill during that time. The investigator can have only one such ongoing benefit at a time, and activating a new benefit ends the first one.
 
 - **Arcana, Nature, Planes, or Religion**: When performing a studied strike, the investigator’s attack overcomes damage reduction as if it were a weapon with the following property based on the associated Knowledge check: adamantine (arcana), chaotic (planes), cold iron (nature), evil (planes), good (planes), lawful (planes), silver (religion). He also gains a +1 insight bonus on saving throws against creatures identifiable by the associated Knowledge check (for example, outsiders for Knowledge [planes]).
 - **Dungeoneering**: The investigator can deal half his studied strike damage to creatures immune to sneak attacks.
 - **Engineering**: Whenever he uses his inspiration on Disable Device checks to open locks or on Perception checks to find hidden compartments, the investigator gains a circumstance bonus on the check equal to one-third his level.
 - **Geography**: The investigator increases any bonuses to AC and on Reflex saving throws he gains from partial cover, total cover, and improved cover by 1.
-- **History**: The investigator can study a foe using studied combat a second time in 24 hours as a full-round action without expending inspiration. Subsequent uses of studied combat require inspiration as normal.
+- **History**: The investigator can study a foe using studied combat a second time in 24 hours as a full-round action (3 AP) without expending inspiration. Subsequent uses of studied combat require inspiration as normal.
 - **Local**: Whenever he uses his inspiration on Bluff checks to feint, Diplomacy checks to gather information, or Intimidate checks to improve a creature’s attitude, the investigator gains a circumstance bonus on the check equal to one-third his level.
 - **Nobility**: Whenever he uses his inspiration on Bluff checks to lie, Diplomacy checks to request favors, or Intimidate checks to demoralize, the investigator gains a circumstance bonus on the check equal to one-third his level.
 
-**Didactic Strike\***: When the investigator activates his studied strike, he can end his studied combat and choose not to deal his studied strike damage. He is instead able to show any allies within 30 feet who can see him a weak spot on the target. Until the beginning of the investigator’s next turn, each affected ally’s first attack that hits the target deals additional damage equal to one-third the investigator’s level. He can end this effect as an immediate action to instead cause an affected ally’s first successful attack to deal the investigator’s studied strike damage. This additional damage is precision damage and does not affect creatures that are immune to sneak attacks.
+**Didactic Strike\***: When the investigator activates his studied strike, he can end his studied combat and choose not to deal his studied strike damage. He is instead able to show any allies within 30 feet who can see him a weak spot on the target. Until the beginning of the investigator’s next turn, each affected ally’s first attack that hits the target deals additional damage equal to one-third the investigator’s level. He can end this effect as an immediate action (1 AP of your next turn) to instead cause an affected ally’s first successful attack to deal the investigator’s studied strike damage. This additional damage is precision damage and does not affect creatures that are immune to sneak attacks.
 
 ## Intrigue Investigator Talents
 
@@ -245,7 +245,7 @@ The following talents suit investigators in games of intrigue. Talents marked wi
 
 **Skeptic’s Inspiration (Ex)**: The investigator can use her inspiration on saving throws against divine spells without expending uses of inspiration.
 
-**Sustained Inspirational Expertise (Ex)**: When granting a bonus to allies via the inspirational expertise investigator talent, the investigator can spend one use of inspiration as a swift action the following round to extend the duration of the granted bonus for 1 additional round. The insight bonus granted decreases by 1 each round this ability is used. The investigator must be at least 11th level and have the inspirational expertise talent to select this talent.
+**Sustained Inspirational Expertise (Ex)**: When granting a bonus to allies via the inspirational expertise investigator talent, the investigator can spend one use of inspiration as a swift action (1 AP) the following round to extend the duration of the granted bonus for 1 additional round. The insight bonus granted decreases by 1 each round this ability is used. The investigator must be at least 11th level and have the inspirational expertise talent to select this talent.
 
 ## Favored Class Bonuses
 

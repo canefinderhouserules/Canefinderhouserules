@@ -52,7 +52,7 @@ The number of Hit Dice worth of creatures killed by the spell increases to 1d6 p
 
 ## Cloudkill
 
-As a move action, you can move the cloud 10 feet in any direction. Add your tier to the spell's level and Hit Dice categories to determine its effect on creatures. (For example, at 3rd tier a creature with 6 or fewer HD gets no save, one with 7-9 HD must save or die, and one with 10 or more HD must save or take 1d4 points of Con damage.)
+As a move action (1 AP), you can move the cloud 10 feet in any direction. Add your tier to the spell's level and Hit Dice categories to determine its effect on creatures. (For example, at 3rd tier a creature with 6 or fewer HD gets no save, one with 7-9 HD must save or die, and one with 10 or more HD must save or take 1d4 points of Con damage.)
 
 **Augmented (6th)**: If you expend two uses of mythic power, the spell bypasses the poison immunity of living creatures.
 
@@ -115,7 +115,7 @@ You can cast this spell on yourself or another willing creature as if the spell 
 
 ## Control Weather
 
-The casting time changes to 1 standard action, and the duration doubles. The weather changes after a number of rounds equal to 11 - your tier.
+The casting time changes to 1 standard action (1 AP), and the duration doubles. The weather changes after a number of rounds equal to 11 - your tier.
 
 **Augmented (6th)**: If you expend two uses of mythic power, you can create weather of any type regardless of the season, and the weather changes after 1 round.
 

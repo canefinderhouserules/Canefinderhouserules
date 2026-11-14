@@ -14,7 +14,7 @@ As cecaelias are unusual and powerful monstrous creatures, you should play one o
 
 **Darkvision**: Cecaelias have darkvision with a range of 60 feet.
 
-**Tentacle Sense (1 RP)**: While swimming and not [grappled](../../rules/appendices/conditions.md#grappled) or grappling, a cecaelia can spread her tentacles wide to form a sensory net around herself as a swift action. This grants blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates or until the cecaelia attacks with a tentacle or moves.
+**Tentacle Sense (1 RP)**: While swimming and not [grappled](../../rules/appendices/conditions.md#grappled) or grappling, a cecaelia can spread her tentacles wide to form a sensory net around herself as a swift action (1 AP). This grants blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates or until the cecaelia attacks with a tentacle or moves.
 
 **Natural Armor**: Cecaelias have a +2 natural armor bonus.
 
@@ -22,13 +22,13 @@ As cecaelias are unusual and powerful monstrous creatures, you should play one o
 
 **Swim Speed**: Cecaelias have a swim speed of 40 feet.
 
-**Jet (1 RP)**: Cecaelias can swim 200 feet backward as a full-round action. A cecaelia must move in a straight line when jetting and does not provoke attacks of opportunity when she uses jet.
+**Jet (1 RP)**: Cecaelias can swim 200 feet backward as a full-round action (3 AP). A cecaelia must move in a straight line when jetting and does not provoke attacks of opportunity when she uses jet.
 
 **Tentacle Attacks (3 RP)**: Cecaelias have two tentacle attacks that deal 1d4 points of damage. These attacks are primary natural attacks and have a reach of 10 feet. This extended reach only applies to the cecaelia's tentacle attacks and not to any other attacks she makes.
 
 **Amphibious**: Cecaelias are amphibious and can breathe both air and water.
 
-**Ink Cloud (3 RP)**: Once per hour as a standard action, a cecaelia can emit a 10-foot-radius sphere of ink while underwater. This ink cloud provides total concealment and persists for 1 minute.
+**Ink Cloud (3 RP)**: Once per hour as a standard action (1 AP), a cecaelia can emit a 10-foot-radius sphere of ink while underwater. This ink cloud provides total concealment and persists for 1 minute.
 
 **Stable Tentacles (4 RP)**: Cecaelias cannot be tripped.
 

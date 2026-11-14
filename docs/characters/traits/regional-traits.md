@@ -2,7 +2,7 @@
 
 Regional traits are tied to particular regions. To select one, your character must have spent at least a year living in that region. At 1st level you can select only one regional trait (typically tied to your character’s homeland). The following traits present several generic regions usable in most campaign settings.
 
-**Brave Words** *(descendant of a warrior empire)*: You inherit your forebears' ability to fight off terror with bragging or insults. As a swift action, when you have the [frightened](../../rules/appendices/conditions.md#frightened) condition, you can function as if you only have the [shaken](../../rules/appendices/conditions.md#shaken) condition for 1 round by shouting at the source of your fear. You must be able to see the source of the fear condition. You can use this trait only once per fear effect. This trait grants no benefits against the shaken or [panicked](../../rules/appendices/conditions.md#panicked) conditions.
+**Brave Words** *(descendant of a warrior empire)*: You inherit your forebears' ability to fight off terror with bragging or insults. As a swift action (1 AP), when you have the [frightened](../../rules/appendices/conditions.md#frightened) condition, you can function as if you only have the [shaken](../../rules/appendices/conditions.md#shaken) condition for 1 round by shouting at the source of your fear. You must be able to see the source of the fear condition. You can use this trait only once per fear effect. This trait grants no benefits against the shaken or [panicked](../../rules/appendices/conditions.md#panicked) conditions.
 
 **Desert Child** *(desert)*: You were born and raised in rocky deserts. You are accustomed to high temperatures, and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions and a +1 trait bonus on all saving throws against fire effects.
 
@@ -30,7 +30,7 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Fortune Found** *(merchant cities)*: You have learned a great many tricks and techniques for bartering with humans. You gain a +1 trait bonus on [Appraise](../../rules/skills/appraise.md) and Diplomacy checks, and one of these skills (your choice) is a class skill for you.
 
-**Jinx Eater** *(pirate coasts)*: Your presence dampens curses and other ill effects. You gain a +1 trait bonus on saves against curses, including the hex class ability of shamans and witches. Once per day, you can grant this bonus to all allies within 30 feet for 1 round as an immediate action.
+**Jinx Eater** *(pirate coasts)*: Your presence dampens curses and other ill effects. You gain a +1 trait bonus on saves against curses, including the hex class ability of shamans and witches. Once per day, you can grant this bonus to all allies within 30 feet for 1 round as an immediate action (1 AP of your next turn).
 
 **Jungle Native** *(jungle)*: Your people have called the jungles home for generations, and they are extremely proficient in moving about in that terrain. You gain a +1 trait bonus on saving throws against diseases and poisons, a +1 trait bonus on initiative checks attempted in jungle terrain, and Survival is a class skill for you.
 
@@ -40,7 +40,7 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Aquatic Realm Native** *(drifting aquatic kingdom)*: Raised amid or near a transitive aquatic kingdom, your predilection for watery environs has been strong since birth and you know the types of creatures who call the ocean home. You gain a +2 trait bonus on Knowledge checks to identify aquatic monsters. Anytime you are looking through water and would take a penalty on vision-based [Perception](../../rules/skills/perception.md) checks due to murkiness or other natural circumstances, reduce the penalty by 2.
 
-**Alabaster Courtesan** *(courtly conservatory)*: The rulers of an island court favored you for your stately physique and flawless skin, and so endorsed your candidacy for tutelage at a conservatory. Trained to be the perfect bard, courtesan, or undercover operative, you gain a +1 trait bonus on two Charisma-based skills of your choice. In addition, once per day as a swift action, you can brush your fingers against a closed door or stone wall up to 1 foot thick. Doing so allows you to ignore penalties on Perception checks to listen through the designated object for 1 minute.
+**Alabaster Courtesan** *(courtly conservatory)*: The rulers of an island court favored you for your stately physique and flawless skin, and so endorsed your candidacy for tutelage at a conservatory. Trained to be the perfect bard, courtesan, or undercover operative, you gain a +1 trait bonus on two Charisma-based skills of your choice. In addition, once per day as a swift action (1 AP), you can brush your fingers against a closed door or stone wall up to 1 foot thick. Doing so allows you to ignore penalties on Perception checks to listen through the designated object for 1 minute.
 
 **Reagent Taster** *(alchemist city)*: You were apprenticed to a renowned alchemist in a city of elemental alchemy, and she taught you how to recognize elemental reagents by taste. Upon imbibing a potion containing a spell on your formula list of a spell level you are capable of casting, you can attempt a [Spellcraft](../../rules/skills/spellcraft.md) check (DC 15 + extract level). On a success, you can immediately add the spell to your formula book.
 
@@ -210,7 +210,7 @@ Traits for characters from the arid lands of an ancient desert kingdom, its secu
 
 **Famed City Performer** *(alchemist city-states)*: You are one of the famed performers of your home city, and your skill is known throughout the region. Once per day when you start a bardic performance, you can increase the DC of the saving throw to resist your performance's effects by 1. This effect lasts until you switch performances or end your performance.
 
-**Numerologist** *(ancient desert kingdom)*: Having studied the sciences and other formal academics in your formative years, you swiftly became interested in the esoteric numerological practices of the ancient mathematicians, and know how to apply this science to dungeons. Once per day, you can attempt a Perception check while studying a trap (a standard action). The DC of this check is equal to the Disable Device DC of the trap – 5. If you succeed, you identify the DC necessary to disable the trap, as well as the DC of the Reflex save (if any) to avoid its effects.
+**Numerologist** *(ancient desert kingdom)*: Having studied the sciences and other formal academics in your formative years, you swiftly became interested in the esoteric numerological practices of the ancient mathematicians, and know how to apply this science to dungeons. Once per day, you can attempt a Perception check while studying a trap (a standard action (1 AP)). The DC of this check is equal to the Disable Device DC of the trap – 5. If you succeed, you identify the DC necessary to disable the trap, as well as the DC of the Reflex save (if any) to avoid its effects.
 
 **Secular Legion Recruit** *(secular nation)*: You have spent time among a famed secular enforcement legion and understand some of their techniques for spotting signs of religion and the faithful. You gain a +2 trait bonus on Perception checks to see through disguises and mundane attempts to conceal religious iconography or dress. You also gain a +2 trait bonus on Sense Motive checks to see through lies about a target's religious beliefs and to understand secret messages relating to the gods.
 
@@ -278,7 +278,7 @@ These traits tie characters to a campaign of frost and fury that begins in a war
 
 **Chainbreaker** *(slaver-hunting privateers)*: You have freed many captives from their chains. You gain a +1 trait bonus on Disable Device checks to open locks, a +1 trait bonus on Strength checks to break chains or bars in order to free slaves, and a +1 trait bonus to CMB when sundering chains or bars in order to free slaves.
 
-**Fight for Liberty** *(slaver-hunting privateers)*: As a standard action, you can make a DC 15 Perform (oratory) check to deliver a rallying cry. Unarmed allies within 30 feet who hear it gain a +2 trait bonus on attack rolls with improvised weapons and unarmed strikes for 1 round per level.
+**Fight for Liberty** *(slaver-hunting privateers)*: As a standard action (1 AP), you can make a DC 15 Perform (oratory) check to deliver a rallying cry. Unarmed allies within 30 feet who hear it gain a +2 trait bonus on attack rolls with improvised weapons and unarmed strikes for 1 round per level.
 
 **Freedom Fighter** *(slaver-hunting privateers)*: You gain a +2 trait bonus on Diplomacy checks against creatures who oppose slavery and a –2 penalty against slavers or those who support the slave trade. Diplomacy is a class skill for you.
 
@@ -504,7 +504,7 @@ These traits suit characters who grew up on the road or far from civilization. E
 
 The following regional traits are appropriate for any character that grew up with different values and social expectations than those that are defined by the major cultures of the setting.
 
-**Cliff Strider (Cliff-dwelling native)**: You grew up along a coast of perilous cliffs, dealing with the dangerous creatures that live on these rocky surfaces. As a move action while climbing, you can climb 5 feet without provoking an attack of opportunity, even if you don't have a climb speed.
+**Cliff Strider (Cliff-dwelling native)**: You grew up along a coast of perilous cliffs, dealing with the dangerous creatures that live on these rocky surfaces. As a move action (1 AP) while climbing, you can climb 5 feet without provoking an attack of opportunity, even if you don't have a climb speed.
 
 **Free Spirit (Tribal native)**: The independent tribes of your homeland hold little regard for the control others wield over free people. Their willful, independent streak makes them suspicious of any attempt to guide their behavior. You gain a +1 trait bonus on Sense Motive checks and on Will saves against mind-affecting effects.
 
@@ -674,7 +674,7 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Tomb Scholar (Ancient desert kingdom native)**: You have studied the history of an ancient desert empire, and may have even ventured inside one of its great pyramids. You gain a +1 trait bonus on Knowledge (engineering) and Knowledge (history) checks, and one of them is always a class skill for you. In addition, you may choose the ancient tongue of that empire as one of your bonus languages.
 
-**Touched by the Sky (Skyfallen wasteland native)**: Somehow, you managed to retrieve a rare vial of fluid from a piece of crashed wreckage on the plains of a skyfallen wasteland. Before you could be caught with the contraband, you drank it. You now have the ability to stabilize a dying creature with a touch as a standard action.
+**Touched by the Sky (Skyfallen wasteland native)**: Somehow, you managed to retrieve a rare vial of fluid from a piece of crashed wreckage on the plains of a skyfallen wasteland. Before you could be caught with the contraband, you drank it. You now have the ability to stabilize a dying creature with a touch as a standard action (1 AP).
 
 **Twilight Hunter (Shadow-sworn nation native)**: You have served a shadowy court, discreetly following interlopers through twilit city streets to pinpoint their locations for the authorities. You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you.
 
@@ -724,7 +724,7 @@ These traits come from the empires and wilds of a distant eastern continent. Eac
 
 **Heart of Clay (Eastern imperial nation native)**: You believe you are destined for an afterlife of service as part of your emperor’s terra-cotta army, so you do not fear death as others do. You gain a +1 trait bonus on Fortitude saves.
 
-**Heavenly Touch (Eastern temple land native)**: Growing up, you were exposed to everyday miracles performed by your half-celestial friends, and some of this magic rubbed off. At will, you can touch a dying creature to stabilize it as a standard action.
+**Heavenly Touch (Eastern temple land native)**: Growing up, you were exposed to everyday miracles performed by your half-celestial friends, and some of this magic rubbed off. At will, you can touch a dying creature to stabilize it as a standard action (1 AP).
 
 **Honeyed Tongue (Eastern colony native)**: Having matured in a colonial melting pot, you know the customs of both the eastern natives and the western colonists, and you utilize this knowledge to create peace between rival groups. You gain a +1 trait bonus on Diplomacy checks, and Diplomacy becomes a class skill for you.
 
@@ -840,7 +840,7 @@ These traits suit characters from a wild frontier dotted with ancient monuments,
 
 **Underbridge Dweller (City of monuments native)**: You were raised in a shadowed district beneath a colossal ancient bridge, a veiled place the light of the sun touches for only 3 hours per day. Your well-founded suspicions grant you a +2 trait bonus on Perception checks in dim light, and Perception is always a class skill for you.
 
-**Winner’s Luck (Pirate port native)**: Winning at the tables in your city’s gambling houses can be as devastating as losing. Years of dodging the jealous blows of card table patrons have given you a sixth sense for when your luck is about to run out. Whenever you succeed at a Reflex saving throw, you may draw a weapon as an immediate action, or a hidden weapon as a move action.
+**Winner’s Luck (Pirate port native)**: Winning at the tables in your city’s gambling houses can be as devastating as losing. Years of dodging the jealous blows of card table patrons have given you a sixth sense for when your luck is about to run out. Whenever you succeed at a Reflex saving throw, you may draw a weapon as an immediate action (1 AP of your next turn), or a hidden weapon as a move action (1 AP).
 
 ## Frontier Campaign Traits
 

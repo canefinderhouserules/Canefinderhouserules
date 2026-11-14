@@ -9,9 +9,9 @@ Wondrous items are varied and diverse. Some must be worn in a specific magic ite
 
 This withered, *black heart* is disturbingly cool to the touch. It must be attuned to an evil deity in a vile ritual that takes at least 1 hour and requires a living sentient creature as a sacrifice before the wielder can use its powers. Once attuned, it counts as an unholy symbol of that deity for all purposes (such as acting as a divine focus for spellcasting) and can’t be attuned to another deity until at least 1 week has passed since its last use.
 
-By brandishing the *black heart* as a standard action, the wielder can detect the presence of good creatures. If any good creatures are within 60 feet, the withered heart begins to slowly beat. The heart doesn’t show the wielder who specifically is good, but it does beat faster the closer to a good creature it comes. The wielder can activate this ability once per day, and it lasts as long as she concentrates, to a maximum of 10 minutes.
+By brandishing the *black heart* as a standard action (1 AP), the wielder can detect the presence of good creatures. If any good creatures are within 60 feet, the withered heart begins to slowly beat. The heart doesn’t show the wielder who specifically is good, but it does beat faster the closer to a good creature it comes. The wielder can activate this ability once per day, and it lasts as long as she concentrates, to a maximum of 10 minutes.
 
-If the wielder brandishes the heart and concentrates, the wielder can squeeze the heart as a standard action, targeting a living creature within 60 feet. The target takes 3d8+5 points of damage and becomes sickened for 1d4 rounds. A successful DC 14 Fortitude save halves the damage and negates the sickened effect. This is a negative energy effect, and evil creatures are immune to it.
+If the wielder brandishes the heart and concentrates, the wielder can squeeze the heart as a standard action (1 AP), targeting a living creature within 60 feet. The target takes 3d8+5 points of damage and becomes sickened for 1d4 rounds. A successful DC 14 Fortitude save halves the damage and negates the sickened effect. This is a negative energy effect, and evil creatures are immune to it.
 
 **Requirements** Craft Wondrous Item, *detect good*, *inflict serious wounds*, creator must be an evil worshiper of an evil deity; **Cost** 9,400 gp
 
@@ -20,7 +20,7 @@ If the wielder brandishes the heart and concentrates, the wielder can squeeze th
 **Aura** strong necromancy [evil]; **CL** 17th  
 **Slot** none; **Price** 32,500 gp; **Weight** 24 lbs.
 
-This altar is built from skulls and bones as black as onyx. When placed upright on a solid surface, the altar begins radiating negative energy, as per *desecrate*. If the altar is knocked over, the effect ends until the altar is righted as a move action. A spellcaster can use a *blackmarrow altar* as a focus when casting *animate dead* or *create undead*. The spell then doesn’t require onyx gems as a material component. Instead, the altar supplies the unholy energy needed for casting the spell. The altar can sustain a maximum of 20 Hit Dice of undead creatures created this way, and it can’t create more than 20 HD of undead creatures in a week even if previously created undead are destroyed. The undead creatures can’t create spawn or use similar abilities.
+This altar is built from skulls and bones as black as onyx. When placed upright on a solid surface, the altar begins radiating negative energy, as per *desecrate*. If the altar is knocked over, the effect ends until the altar is righted as a move action (1 AP). A spellcaster can use a *blackmarrow altar* as a focus when casting *animate dead* or *create undead*. The spell then doesn’t require onyx gems as a material component. Instead, the altar supplies the unholy energy needed for casting the spell. The altar can sustain a maximum of 20 Hit Dice of undead creatures created this way, and it can’t create more than 20 HD of undead creatures in a week even if previously created undead are destroyed. The undead creatures can’t create spawn or use similar abilities.
 
 When undead creatures created with the altar as a focus move farther than 100 feet away from it, dark fumes continuously pour out from their eyes (or eye sockets) and mouths. Any such undead creature needs to return to the altar’s vicinity within 4 hours to replenish its negative energy. If unable to do so, the creature is immediately destroyed after 4 hours.
 
@@ -68,7 +68,7 @@ This red marble altar is carved in the shape of two legless humans conjoined at 
 
 Whenever a creature within 40 feet of the altar takes piercing or slashing damage, the altar’s foul magic invades the wound and forces it to stay open, automatically dealing 1d4 points of *bleed* damage. This *bleed* damage doesn’t stack with any *bleed* damage the attack would normally deal, nor does it stack with itself. Unholy magic beckons spilled blood to crawl toward the altar.
 
-There is a shallow, round indentation on the altar; if a silver cup worth 25 gp is placed within, crimson nectar trickles into the cup each time a creature within 40 feet takes *bleed* damage. The cup is filled to the brim once 30 points of *bleed* damage have been dealt within 40 feet of the altar. As a standard action, a creature can drink the nectar to regain 5d6 hit points. The nectar heals both living and undead creatures. The nectar loses its potency and turns into clotted blood if it is not consumed within 1 round of the cup being removed from the altar. The altar can produce 3 full cups of healing nectar per day.
+There is a shallow, round indentation on the altar; if a silver cup worth 25 gp is placed within, crimson nectar trickles into the cup each time a creature within 40 feet takes *bleed* damage. The cup is filled to the brim once 30 points of *bleed* damage have been dealt within 40 feet of the altar. As a standard action (1 AP), a creature can drink the nectar to regain 5d6 hit points. The nectar heals both living and undead creatures. The nectar loses its potency and turns into clotted blood if it is not consumed within 1 round of the cup being removed from the altar. The altar can produce 3 full cups of healing nectar per day.
 
 **Requirements** Craft Wondrous Item, *bleed*, *death knell*; **Cost** 8,750 gp
 
@@ -125,7 +125,7 @@ This short cape shimmers faintly under light. The wearer is immune to the energy
 
 This cloak is woven from a fabric of solid darkness held together by magic alone. When the wearer takes the total defense action, the mantle quickly dissolves into a globe of darkness (as per *deeper darkness*) that is centered on the wearer. The darkness coalesces into a mantle on the wearer’s shoulders again at the beginning of her next turn unless she immediately uses another total defense action to maintain it. This effect functions up to 10 rounds per day.
 
-If any of the item’s daily uses are left, the wearer can grab the mantle and toss it into a space within 30 feet as a standard action. The mantle dissolves into a *deeper darkness* effect centered where the mantle landed and lasting for a number of rounds equal to the remaining daily uses. When the duration ends, the mantle materializes in the square into which the wearer threw it.
+If any of the item’s daily uses are left, the wearer can grab the mantle and toss it into a space within 30 feet as a standard action (1 AP). The mantle dissolves into a *deeper darkness* effect centered where the mantle landed and lasting for a number of rounds equal to the remaining daily uses. When the duration ends, the mantle materializes in the square into which the wearer threw it.
 
 **Requirements** Craft Wondrous Item, *deeper darkness*; **Cost** 3,000 gp
 
@@ -162,7 +162,7 @@ This intricate silver bullseye lantern filters its light through a stained-glass
 
 When the lantern’s light falls on a creature that is not in its true form or that has more than one form—such as a creature that has been polymorphed, a doppelganger, or a lycanthrope—the light shows all of that creature’s forms. Anyone who can see the target perceives any additional forms as semi-transparent illusions superimposed over the creature’s current form. This is a divination effect and otherwise works as per *true seeing*.
 
-Once per day as a standard action, the bearer can force a creature within the lantern’s light to assume another of its forms. If the creature is under the effects of a spell with the polymorph descriptor, the bearer can attempt to dispel the effect (as per *dispel magic*) using the lantern’s caster level. If the creature has the shapechanger subtype, it must succeed at a DC 20 Fortitude save to resist this effect. If it fails this saving throw, the bearer of the *moonlight lantern* can choose another of the target’s forms and force it to transform immediately. The shapechanger doesn’t need to spend an action to do so. The target must remain in the chosen form for at least 1 minute before it can shift again.
+Once per day as a standard action (1 AP), the bearer can force a creature within the lantern’s light to assume another of its forms. If the creature is under the effects of a spell with the polymorph descriptor, the bearer can attempt to dispel the effect (as per *dispel magic*) using the lantern’s caster level. If the creature has the shapechanger subtype, it must succeed at a DC 20 Fortitude save to resist this effect. If it fails this saving throw, the bearer of the *moonlight lantern* can choose another of the target’s forms and force it to transform immediately. The shapechanger doesn’t need to spend an action to do so. The target must remain in the chosen form for at least 1 minute before it can shift again.
 
 **Requirements** Craft Wondrous Item, *dispel magic*, *greater polymorph*, *true seeing*; **Cost** 33,000 gp
 
@@ -214,7 +214,7 @@ Brass latticework decorates the faces of this cubical mahogany puzzle box. While
 
 Any creature can close the box and twist its segments, at which point the puzzle box becomes unsolved and requires a successful DC 20 Intelligence check to solve and open. Each subsequent consecutive round spent randomly twisting the segments increases the number of Intelligence checks needed to solve the puzzle, to a maximum of three checks after 3 rounds of scrambling. As soon as the creature ceases twisting the segments, it is no longer safe to change the configuration.
 
-Thereafter, twisting any segment triggers a 1-minute timer, during which the holder can safely attempt to solve the puzzle with a series of Intelligence checks. This requires two hands and a full-round action for each Intelligence check. If the timer runs out before the puzzle is solved or the creature pauses for 1 round in the middle of attempting to solve the puzzle, the touch spell stored in the *perilous puzzle box* (if any) discharges, automatically hitting any creature holding the box.
+Thereafter, twisting any segment triggers a 1-minute timer, during which the holder can safely attempt to solve the puzzle with a series of Intelligence checks. This requires two hands and a full-round action (3 AP) for each Intelligence check. If the timer runs out before the puzzle is solved or the creature pauses for 1 round in the middle of attempting to solve the puzzle, the touch spell stored in the *perilous puzzle box* (if any) discharges, automatically hitting any creature holding the box.
 
 Unless the attempt to solve the puzzle succeeds, after 1 minute, the box automatically reverts to the configuration it had before the attempt to solve the puzzle and locks itself for 24 hours. If a *perilous puzzle box* is destroyed (hardness 10, 20 hp), any contents stored in the extradimensional space are lost on the Ethereal Plane.
 
@@ -227,7 +227,7 @@ A found puzzle box has a 75% chance of having a touch spell stored within it, us
 **Aura** faint abjuration and conjuration; **CL** 5th  
 **Slot** none; **Price** 4,000 gp; **Weight** 1/2 lb.
 
-Usually stored in a jar shaped like a scarab beetle, this unguent is pale green and smells like thistle with a hint of the scent of embalming fluids. A jar contains five applications, each of which can be applied as a full-round action.
+Usually stored in a jar shaped like a scarab beetle, this unguent is pale green and smells like thistle with a hint of the scent of embalming fluids. A jar contains five applications, each of which can be applied as a full-round action (3 AP).
 
 When applied to an afflicted area or swallowed, the ointment removes a single curse or restores ability damage caused by an undead’s special attack (such as a shadow’s touch). This ointment otherwise acts as per *lesser restoration* or *remove curse* with a +5 bonus on the check. Unlike normal applications of *remove curse*, *purifying ointment* can potentially remove an affliction that is both a curse and disease (such as mummy rot), though that requires two successful caster level checks.
 
@@ -249,7 +249,7 @@ Any creature healed by the positive energy channeled by a user of a *redemptor�
 **Aura** moderate abjuration; **CL** 7th  
 **Slot** none; **Price** 2,100 gp; **Weight** —
 
-This *silver nail* is finely engraved with hundreds of tiny runes that flash faintly blue under the light of the moon. The nail can be used to trap evil outsiders and incorporeal undead creatures to prevent their escape. To use a *silver nail*, the bearer must take a full-round action and succeed at a touch attack against a creature.
+This *silver nail* is finely engraved with hundreds of tiny runes that flash faintly blue under the light of the moon. The nail can be used to trap evil outsiders and incorporeal undead creatures to prevent their escape. To use a *silver nail*, the bearer must take a full-round action (3 AP) and succeed at a touch attack against a creature.
 
 When used against a helpless or pinned evil outsider, the bearer can prevent that creature from escaping as per *dimensional anchor*.
 
@@ -338,7 +338,7 @@ Removing or destroying the *threshold guardian* (hardness 5, 10 hp) removes the 
 
 This stone urn is decorated with carvings of vaguely humanoid creatures, and contains ash and chunks of coal. While the lid is removed, faint weeping and cries of anguish echo from within the urn.
 
-As a standard action, a creature holding the urn can grab some ash from the urn and toss it at an unoccupied space within 30 feet. The ash scatters in the air, but the particles quickly ignite, grow into smoldering embers, and gain momentum, coalescing in the target space as a vaguely humanoid shape. The urn produces 7 doses of ash per day. Throwing a pinch of ash uses 1 dose and creates a Small shape (AC 6, 10 hp) that is reminiscent of a cluster of cowering human children. The Small shape doesn’t provide cover, but the square counts as difficult terrain. Throwing a small handful of ash uses 2 doses and creates a Medium shape (AC 5, 15 hp) that resembles a cluster of crestfallen adult humans. The Medium shape provides cover and prevents passage through the square. Throwing a large handful of ash uses 4 doses and creates a Large shape (AC 4, 25 hp) that resembles a sobbing angel. The Large shape provides cover and prevents passage through a 10-foot-square area.
+As a standard action (1 AP), a creature holding the urn can grab some ash from the urn and toss it at an unoccupied space within 30 feet. The ash scatters in the air, but the particles quickly ignite, grow into smoldering embers, and gain momentum, coalescing in the target space as a vaguely humanoid shape. The urn produces 7 doses of ash per day. Throwing a pinch of ash uses 1 dose and creates a Small shape (AC 6, 10 hp) that is reminiscent of a cluster of cowering human children. The Small shape doesn’t provide cover, but the square counts as difficult terrain. Throwing a small handful of ash uses 2 doses and creates a Medium shape (AC 5, 15 hp) that resembles a cluster of crestfallen adult humans. The Medium shape provides cover and prevents passage through the square. Throwing a large handful of ash uses 4 doses and creates a Large shape (AC 4, 25 hp) that resembles a sobbing angel. The Large shape provides cover and prevents passage through a 10-foot-square area.
 
 If the smoldering shape is reduced to 0 hit points or fewer, it explodes, dealing fire damage in a 10-foot-radius spread depending on the size: 2d6 points for Small, 4d6 points for Medium, or 8d6 points for Large. Any creature in the area that succeeds at a DC 16 Reflex save takes half the normal damage. For 1 round, the area of the explosion is filled with dark, acrid smoke (as per obscuring mist). The smoldering shapes are immune to fire and cold, but if a smoldering shape would be dealt any amount of cold damage, the shape becomes inert and can no longer explode.
 
@@ -360,7 +360,7 @@ If the lantern comes within 60 feet of an overwhelming aura, the light flares up
 **Aura** moderate enchantment; **CL** 11th  
 **Slot** none; **Price** 4,000 gp; **Weight** 1 lb.
 
-The user can sound this ornate silver horn as a normal signal horn. Once per day as a standard action, the user can make the horn emit an eerie, canine howl. The sound entices up to four wolves within 200 feet to answer the howl. This includes dire wolves, winter wolves, wolves, worgs, and dogs, as well as any creatures capable of turning into wolves with the change shape ability (such as barghests, vampires, or werewolves). If there are more than four such creatures within the area, those that are closest to the user are affected first.
+The user can sound this ornate silver horn as a normal signal horn. Once per day as a standard action (1 AP), the user can make the horn emit an eerie, canine howl. The sound entices up to four wolves within 200 feet to answer the howl. This includes dire wolves, winter wolves, wolves, worgs, and dogs, as well as any creatures capable of turning into wolves with the change shape ability (such as barghests, vampires, or werewolves). If there are more than four such creatures within the area, those that are closest to the user are affected first.
 
 The subjects can’t take any actions other than to howl, making them effectively dazed for 1 round. A successful DC 17 Will save negates this effect. The horn affects werewolves in any form, though werewolves who are aware of their condition receive a +5 bonus on the saving throw while in humanoid form.
 

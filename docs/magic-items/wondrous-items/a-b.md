@@ -67,7 +67,7 @@ At first glance, an inactive apparatus of the crab appears to be a large, sealed
 | 9 | Rise/sink in water |
 | 10 | Open/close hatch |
 
-Operating a lever is a full-round action, and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can move and attack in the same round. The device can function in water up to 900 feet deep. It holds enough air for a crew of two to survive 1d4+1 hours (twice as long for a single occupant). When activated, the apparatus looks something like a giant lobster.
+Operating a lever is a full-round action (3 AP), and no lever may be operated more than once per round. However, since two characters can fit inside, the apparatus can move and attack in the same round. The device can function in water up to 900 feet deep. It holds enough air for a crew of two to survive 1d4+1 hours (twice as long for a single occupant). When activated, the apparatus looks something like a giant lobster.
 
 When active, an apparatus of the crab has the following characteristics: hp 200; hardness 15; Spd 20 ft., swim 20 ft.; AC 20 (–1 size, +11 natural); Attack 2 pincers +12 melee (2d8); CMB +14; CMD 24.
 
@@ -89,7 +89,7 @@ This appears to be a common cloth sack about 2 feet by 4 feet in size. The bag o
 | Type III | 35 lbs. | 1,000 lbs. | 150 cubic ft. | 7,400 gp |
 | Type IV | 60 lbs. | 1,500 lbs. | 250 cubic ft. | 10,000 gp |
 
-If a bag of holding is overloaded, or if sharp objects pierce it (from inside or outside), the bag immediately ruptures and is ruined, and all contents are lost forever. If a bag of holding is turned inside out, all of its contents spill out, unharmed, but the bag must be put right before it can be used again. If living creatures are placed within the bag, they can survive for up to 10 minutes, after which time they suffocate. Retrieving a specific item from a bag of holding is a move action, unless the bag contains more than an ordinary backpack would hold, in which case retrieving a specific item is a full-round action. Magic items placed inside the bag do not offer any benefit to the character carrying the bag.
+If a bag of holding is overloaded, or if sharp objects pierce it (from inside or outside), the bag immediately ruptures and is ruined, and all contents are lost forever. If a bag of holding is turned inside out, all of its contents spill out, unharmed, but the bag must be put right before it can be used again. If living creatures are placed within the bag, they can survive for up to 10 minutes, after which time they suffocate. Retrieving a specific item from a bag of holding is a move action (1 AP), unless the bag contains more than an ordinary backpack would hold, in which case retrieving a specific item is a full-round action (3 AP). Magic items placed inside the bag do not offer any benefit to the character carrying the bag.
 
 If a bag of holding is placed within a portable hole, a rift to the Astral Plane is torn in the space: bag and hole alike are sucked into the void and forever lost. If a portable hole is placed within a bag of holding, it opens a gate to the Astral Plane: the hole, the bag, and any creatures within a 10-foot radius are drawn there, destroying the portable hole and bag of holding in the process.
 
@@ -292,7 +292,7 @@ These boots appear to be ordinary footgear. On command, they sprout wings at the
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** none; **Price** 7,250 gp; **Weight** 2 lbs.
 
-This item appears to be a normal glass bottle with a cork. When taken to any airless environment, it retains air within it at all times, continually renewing its contents. This means that a character can draw air out of the bottle to breathe. The bottle can even be shared by multiple characters who pass it around. Breathing out of the bottle is a standard action, but a character so doing can then act for as long as she can hold her breath.
+This item appears to be a normal glass bottle with a cork. When taken to any airless environment, it retains air within it at all times, continually renewing its contents. This means that a character can draw air out of the bottle to breathe. The bottle can even be shared by multiple characters who pass it around. Breathing out of the bottle is a standard action (1 AP), but a character so doing can then act for as long as she can hold her breath.
 
 **Requirements** Craft Wondrous Item, water breathing; **Cost** 3,625 gp
 
@@ -301,7 +301,7 @@ This item appears to be a normal glass bottle with a cork. When taken to any air
 **Aura** strong conjuration; **CL** 15th  
 **Slot** wrists; **Price** 19,000 gp; **Weight** —
 
-This silver charm bracelet has four charms upon it when created. The owner may designate one person known to him to be keyed to each charm. (This designation takes a standard action, but once done it lasts forever or until changed.) When a charm is grasped and the name of the keyed individual is spoken, that person is called to the spot (a standard action) along with his gear, as long as the owner and the called person are on the same plane. The keyed individual knows who is calling, and the bracelet of friends only functions on willing travelers. Once a charm is activated, it disappears. Charms separated from the bracelet are worthless. A bracelet found with fewer than four charms is worth 25% less for each missing charm.
+This silver charm bracelet has four charms upon it when created. The owner may designate one person known to him to be keyed to each charm. (This designation takes a standard action (1 AP), but once done it lasts forever or until changed.) When a charm is grasped and the name of the keyed individual is spoken, that person is called to the spot (a standard action (1 AP)) along with his gear, as long as the owner and the called person are on the same plane. The keyed individual knows who is calling, and the bracelet of friends only functions on willing travelers. Once a charm is activated, it disappears. Charms separated from the bracelet are worthless. A bracelet found with fewer than four charms is worth 25% less for each missing charm.
 
 **Requirements** Craft Wondrous Item, refuge; **Cost** 9,500 gp
 

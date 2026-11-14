@@ -29,7 +29,7 @@ The first line of the block presents the name and the price the herb is sold for
 
 The next entry provides the DC of the Profession (herbalist) check to find and gather the herb with a day’s worth of work. This is followed by the yield—the base number of doses that can be gathered each day. Extra yields can be gained with greater success on a gathering roll or by taking an entire day to do nothing but gather herbs.
 
-After that, the block provides the terrain the herb appears in. This is followed by information about how the herb must be prepared in order for it to be used. Finally, the use for the prepared herb is detailed at the end of the stat block. Applying, eating, or using a prepared herb typically requires a standard action that provokes attacks of opportunity, unless otherwise specified in the description.
+After that, the block provides the terrain the herb appears in. This is followed by information about how the herb must be prepared in order for it to be used. Finally, the use for the prepared herb is detailed at the end of the stat block. Applying, eating, or using a prepared herb typically requires a standard action (1 AP) that provokes attacks of opportunity, unless otherwise specified in the description.
 
 ### Angelstep
 
@@ -57,7 +57,7 @@ Black amaranth grows in small clusters from the remains of the dead.
 
 **Preparation** The amaranth’s flowers and stalks must be carefully ground into paste. This requires a successful DC 12 Craft (alchemy) check and 1 hour of work.
 
-**Use** A dose of black amaranth paste can be applied to a dead body to slow decay. One dose used on a Tiny or smaller creature delays the onset of decay for 3 days (as per gentle repose). Two doses are needed for Small creatures, 3 for Medium creatures, 6 for Large creatures, 12 for Huge creatures, 24 for Gargantuan creatures, and 48 for Colossal creatures. Each dose applied requires a full-round action that provokes attacks of opportunity.
+**Use** A dose of black amaranth paste can be applied to a dead body to slow decay. One dose used on a Tiny or smaller creature delays the onset of decay for 3 days (as per gentle repose). Two doses are needed for Small creatures, 3 for Medium creatures, 6 for Large creatures, 12 for Huge creatures, 24 for Gargantuan creatures, and 48 for Colossal creatures. Each dose applied requires a full-round action (3 AP) that provokes attacks of opportunity.
 
 ### Bloody Mandrake
 
@@ -113,7 +113,7 @@ The vivid and thorny dragon rose is admired for its hardiness but is difficult t
 
 **Preparation** The petals of a dragon rose must be delicately removed from the stem and then soaked in a mixture brewed from the flower stalk’s sap for 2 hours; this requires a successful DC 15 Craft (alchemy) check.
 
-**Use** A dose of prepared dragon rose petals crushed in the hand and then smeared on a weapon (this is a standard action) infuses the weapon with a magic aura. For 1 hour, the weapon can bypass DR/magic, although it doesn’t gain any bonus on attack or damage rolls.
+**Use** A dose of prepared dragon rose petals crushed in the hand and then smeared on a weapon (this is a standard action (1 AP)) infuses the weapon with a magic aura. For 1 hour, the weapon can bypass DR/magic, although it doesn’t gain any bonus on attack or damage rolls.
 
 ### Dream Lichen
 
@@ -149,7 +149,7 @@ This toadstool’s pale-gray cap is stippled with yellow spots. Its presence oft
 
 **Preparation** A fairy cap must be gently simmered (not boiled) in a mixture of water and other natural ingredients for 1 hour; this requires a successful DC 20 Craft (alchemy) check. At the end of this preparation time, the yellow spots’ color changes to bright orange or dark brown—there’s a 50% chance of either development.
 
-**Use** When eaten without proper preparation, a fairy cap is mildly poisonous (save Fort DC 13, onset 1 minute, frequency 1/minute for 6 minutes, effect nauseated 1 for 1 minute, cure 1 save), but when properly prepared, it takes on a not-unpleasant tangy flavor. The final color of a properly prepared fairy cap’s spots determines its effect when consumed. A cap with orange spots causes a Large or smaller creature to grow one size category, while one with brown spots causes the eater to shrink one size category. These effects function as per enlarge person or reduce person, except they can affect any Large or smaller living creature; the effects persist for 10 minutes in either case. Whether or not it is prepared, a fairy cap is quite chewy, and eating it is a full-round action.
+**Use** When eaten without proper preparation, a fairy cap is mildly poisonous (save Fort DC 13, onset 1 minute, frequency 1/minute for 6 minutes, effect nauseated 1 for 1 minute, cure 1 save), but when properly prepared, it takes on a not-unpleasant tangy flavor. The final color of a properly prepared fairy cap’s spots determines its effect when consumed. A cap with orange spots causes a Large or smaller creature to grow one size category, while one with brown spots causes the eater to shrink one size category. These effects function as per enlarge person or reduce person, except they can affect any Large or smaller living creature; the effects persist for 10 minutes in either case. Whether or not it is prepared, a fairy cap is quite chewy, and eating it is a full-round action (3 AP).
 
 ### Goblinvine
 
@@ -163,7 +163,7 @@ The leaves of this invasive creeper are wide and covered with tiny hairlike fila
 
 **Preparation** Properly preparing a dose of goblinvine requires a successful DC 20 Sleight of Hand check and 1 minute of work to weave and roll the vines into a compact, fist-sized ball so the hairy side of the leaves faces inward. On a failure by 5 or more, the leaves become torn and ruined. If gloves or gauntlets aren’t worn, the preparer is automatically exposed to the goblinvine’s effects. If the preparation check’s result is a natural 1, the preparer is exposed to those effects regardless of any hand protection worn. The goblin vine must then be stored in an area of bright light for at least 1 hour for the inner surface of the leaves to properly “sweat” and build up enough irritating oil to function as a thrown weapon.
 
-**Use** Once woven into a tight ball of vines and left to sweat, a ball of goblinvine leaves can be used as an improvised thrown weapon as a ranged touch attack. On a hit, a target must succeed at a DC 10 Fortitude save or develop a distracting, itchy rash that imposes a –2 penalty on ability checks, attack rolls, saving throws, and skill checks. This effect persists for 10 minutes or until the rash is tended with a successful DC 12 Heal check attempted as a full-round action. This is a poison effect, but creatures with the goblinoid subtype are immune to the effect. Innovative characters (including many goblins) have developed other uses for goblinvine, including as snares and ropes to make those bound or entangled itchy as well, but since goblinvine is relatively fragile, it makes for a very poor substitute for rope.
+**Use** Once woven into a tight ball of vines and left to sweat, a ball of goblinvine leaves can be used as an improvised thrown weapon as a ranged touch attack. On a hit, a target must succeed at a DC 10 Fortitude save or develop a distracting, itchy rash that imposes a –2 penalty on ability checks, attack rolls, saving throws, and skill checks. This effect persists for 10 minutes or until the rash is tended with a successful DC 12 Heal check attempted as a full-round action (3 AP). This is a poison effect, but creatures with the goblinoid subtype are immune to the effect. Innovative characters (including many goblins) have developed other uses for goblinvine, including as snares and ropes to make those bound or entangled itchy as well, but since goblinvine is relatively fragile, it makes for a very poor substitute for rope.
 
 ### Leechwort
 
@@ -191,7 +191,7 @@ The deep-red flower has rich nectar with a honey-like scent.
 
 **Preparation** A dose of this flower’s nectar must be extracted and stored in an alchemically prepared vial with a successful DC 14 Craft (alchemy) check and 1 hour’s worth of work.
 
-**Use** As a full-round action, a dose of love-in-idleness nectar can be drizzled into the ears of a helpless or willing animal or humanoid. This causes the subject to become much more susceptible to the power of suggestion and mind-affecting effects, taking a –2 penalty on Sense Motive checks and a –1 penalty on saving throws against mind-affecting effects for the next 2d4 hours. This is a poison effect.
+**Use** As a full-round action (3 AP), a dose of love-in-idleness nectar can be drizzled into the ears of a helpless or willing animal or humanoid. This causes the subject to become much more susceptible to the power of suggestion and mind-affecting effects, taking a –2 penalty on Sense Motive checks and a –1 penalty on saving throws against mind-affecting effects for the next 2d4 hours. This is a poison effect.
 
 ### Mage's Dagger
 
@@ -227,7 +227,7 @@ The bark of this wide-trunked but relatively squat tree is resistant to cutting 
 
 **Preparation** A living mimameith tree has hardness 7 (rather than the typical hardness 5 for most wooden objects) and fire resistance 5. When a mimameith tree is burned but lives, its bark regrows over time with pale gray scarring—such bark bears special properties. Once harvested, this bark can be processed alchemically. Doing so requires a 5-pound dose of the bark to be soaked in water for 8 hours and then boiled off to a thin layer of tacky paste with a successful DC 20 Craft (alchemy) check.
 
-**Use** When a dose of the pasty residue from mimameith bark is applied to a creature’s skin as a standard action, the subject gains damage reduction 2/bludgeoning, fire resistance 5, and immunity to bleed effects for 1 hour.
+**Use** When a dose of the pasty residue from mimameith bark is applied to a creature’s skin as a standard action (1 AP), the subject gains damage reduction 2/bludgeoning, fire resistance 5, and immunity to bleed effects for 1 hour.
 
 ### Moly
 
@@ -241,7 +241,7 @@ Moly is a plant with flowers white as pure milk and roots black as night.
 
 **Preparation** This flowering herb must be picked whole and boiled with water until the entire amount is reduced by half. The resulting mixture is then strained and poured into a shallow pan to evaporate. The resulting crust is scraped off as a powder.
 
-**Use** Anyone wearing or carrying fresh moly gains a +4 resistance bonus on saving throws against spells and spell-like abilities. Moly remains fresh in this way for only 12 hours, regardless of magical attempts to preserve it. When processed into a powder with a successful DC 25 Craft (alchemy) check, moly can be sprinkled on a creature, object, or area (a standard action) to end a spell as if with dispel magic (caster level 6th).
+**Use** Anyone wearing or carrying fresh moly gains a +4 resistance bonus on saving throws against spells and spell-like abilities. Moly remains fresh in this way for only 12 hours, regardless of magical attempts to preserve it. When processed into a powder with a successful DC 25 Craft (alchemy) check, moly can be sprinkled on a creature, object, or area (a standard action (1 AP)) to end a spell as if with dispel magic (caster level 6th).
 
 ### Nepenthe
 
@@ -255,7 +255,7 @@ This foot-tall blue-green pitcher plant produces a pollen that smells faintly of
 
 **Preparation** A dose of pollen must be mixed with alchemical reagents with a successful DC 16 Craft (alchemy) check and then left to sit for 1 hour before it can be used.
 
-**Use** A dose of nepenthe pollen must be inhaled as a standard action, whereupon the potent vapors act upon unpleasant or unknown thoughts and memories. This grants the creature a new saving throw to immediately end a single mind-affecting effect currently affecting the creature (effects that allow no saving throw cannot be removed in this way). An unwilling creature can be dosed with the pollen as a touch attack that provokes an attack of opportunity. A creature can be affected by a dose of nepenthe only once in a single 24-hour period. This is a poison effect.
+**Use** A dose of nepenthe pollen must be inhaled as a standard action (1 AP), whereupon the potent vapors act upon unpleasant or unknown thoughts and memories. This grants the creature a new saving throw to immediately end a single mind-affecting effect currently affecting the creature (effects that allow no saving throw cannot be removed in this way). An unwilling creature can be dosed with the pollen as a touch attack that provokes an attack of opportunity. A creature can be affected by a dose of nepenthe only once in a single 24-hour period. This is a poison effect.
 
 ### Nightsage
 
@@ -269,7 +269,7 @@ The fragrant purple blossoms of this night-blooming wildflower are so deep in hu
 
 **Preparation** A dose of nightsage must be sprinkled with holy water periodically over an 8-hour drying process in natural sunlight; this process requires a successful DC 12 Craft (alchemy) check and one flask of holy water.
 
-**Use** When dried nightsage is lit on fire (a standard action), it produces a thin but pleasant-smelling smoke almost like that produced by a stick of incense. A dose of nightsage burns for 10 minutes and can be extinguished and reignited for multiple uses (but it is always used in 1 minute increments, regardless of the actual time spent burning). While nightsage burns, each corporeal undead creature within a 5-foot radius gains a +2 profane bonus on saving throws against positive energy effects (including channel energy effects). Necromancers are fond of supplying their undead minions with small thuribles containing a burning stick of nightsage that can be worn while carrying out their commands. A moderate or stronger wind extinguishes a burning stick of nightsage.
+**Use** When dried nightsage is lit on fire (a standard action (1 AP)), it produces a thin but pleasant-smelling smoke almost like that produced by a stick of incense. A dose of nightsage burns for 10 minutes and can be extinguished and reignited for multiple uses (but it is always used in 1 minute increments, regardless of the actual time spent burning). While nightsage burns, each corporeal undead creature within a 5-foot radius gains a +2 profane bonus on saving throws against positive energy effects (including channel energy effects). Necromancers are fond of supplying their undead minions with small thuribles containing a burning stick of nightsage that can be worn while carrying out their commands. A moderate or stronger wind extinguishes a burning stick of nightsage.
 
 ### Seeing Slime
 
@@ -283,7 +283,7 @@ This violet slime mold is found only in rock formations containing nodules of ag
 
 **Preparation** After collecting this rare slime mold from where it naturally occurs in the lightless depths, the herbalist must combine the slime with mineral salts and store it in an airtight container such as a bottle or jar.
 
-**Use** The slime causes mild skin rashes, but it grants darkvision out to a range of 30 feet for 24 hours if applied to the eyes (a full-round action that provokes attacks of opportunity). If the subject already had darkvision, the darkvision’s range increases by 30 feet. Frequent use of this herb causes permanent purple blotches on the skin around the user’s eyes.
+**Use** The slime causes mild skin rashes, but it grants darkvision out to a range of 30 feet for 24 hours if applied to the eyes (a full-round action (3 AP) that provokes attacks of opportunity). If the subject already had darkvision, the darkvision’s range increases by 30 feet. Frequent use of this herb causes permanent purple blotches on the skin around the user’s eyes.
 
 ### Winterbite
 
@@ -297,4 +297,4 @@ The white-veined leaves of this minty sprig carry a pleasant and soothing scent.
 
 **Preparation** A dose of winterbite must be dried near an open flame in which certain alchemically treated sawdust and wood chips are burned. This requires a successful DC 12 Craft (alchemy) check and 1 hour.
 
-**Use** When held under the nose and crushed (which takes a standard action), a dose of prepared winterbite releases a pungent, sweet odor that clears the sinuses and sharpens the senses. For the next hour, the user of a dose of prepared winterbite gains a +2 alchemical bonus on scent-based Perception checks.
+**Use** When held under the nose and crushed (which takes a standard action (1 AP)), a dose of prepared winterbite releases a pungent, sweet odor that clears the sinuses and sharpens the senses. For the next hour, the user of a dose of prepared winterbite gains a +2 alchemical bonus on scent-based Perception checks.

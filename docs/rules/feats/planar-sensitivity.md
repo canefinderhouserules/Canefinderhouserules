@@ -28,4 +28,4 @@ For example, a lawful evil character would gain a +5 bonus on her attempt to ope
 
 If your alignment is neutral with no other alignment components, you can open soulgates with an alignment two steps away from your own, but you take a –10 penalty on attempts to do so.
 
-Once opened, you can keep a soulgate open for a number of rounds equal to your Charisma modifier. An open soulgate closes at the end of that time, or you can close it earlier as a standard action.
+Once opened, you can keep a soulgate open for a number of rounds equal to your Charisma modifier. An open soulgate closes at the end of that time, or you can close it earlier as a standard action (1 AP).

@@ -69,7 +69,7 @@ A sea pirate with this ability reduces any distance-based penalties on [Percepti
 
 ##### Quick Appraise (Ex)
 
-She appraises an item as a move action and can determine the most valuable item in a treasure hoard as a standard action.
+She appraises an item as a move action (1 AP) and can determine the most valuable item in a treasure hoard as a standard action (1 AP).
 
 ##### Rigging Monkey (Ex)
 
@@ -95,10 +95,10 @@ With a DC 20 Profession (sailor) check, the sea pirate doubles her ship's base m
 
 The sea pirate does not lose her Dexterity bonus to AC when climbing.
 
-**Fearsome Advance* (Ex)**: If the sea pirate deals damage with her sneak attack, she can make an Intimidate check as an immediate action to demoralize the damaged opponent.
+**Fearsome Advance* (Ex)**: If the sea pirate deals damage with her sneak attack, she can make an Intimidate check as an immediate action (1 AP of your next turn) to demoralize the damaged opponent.
 
-**Foot Sweep* (Ex)**: If the sea pirate deals damage with a sneak attack, she can make a trip attack against the damaged opponent as an immediate action. All the usual rules for trip attacks apply, and feats such as [Improved Trip](../../rules/feats/improved-trip.md) modify the attack normally.
+**Foot Sweep* (Ex)**: If the sea pirate deals damage with a sneak attack, she can make a trip attack against the damaged opponent as an immediate action (1 AP of your next turn). All the usual rules for trip attacks apply, and feats such as [Improved Trip](../../rules/feats/improved-trip.md) modify the attack normally.
 
 ##### Shipboard Authority (Ex)
 
-As a full-round action once per day, the sea pirate can shout orders to her crew. All allies within 30 feet who can hear her gain a +1 morale bonus on attack rolls or on a particular skill check for 1 round per sea pirate level. She specifies which bonus applies when she uses this ability and may not change it for the duration.
+As a full-round action (3 AP) once per day, the sea pirate can shout orders to her crew. All allies within 30 feet who can hear her gain a +1 morale bonus on attack rolls or on a particular skill check for 1 round per sea pirate level. She specifies which bonus applies when she uses this ability and may not change it for the duration.

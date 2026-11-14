@@ -20,7 +20,7 @@ When your negative hit point total is equal to your Constitution, you’re dead.
 
 When your current hit point total drops to exactly 0, you are disabled.
 
-You gain the staggered condition and can only take a single move or standard action each turn (but not both, nor can you take full-round actions). You can take move actions without further injuring yourself, but if you perform any standard action (or any other strenuous action) you take 1 point of damage after completing the act. Unless your activity increased your hit points, you are now at –1 hit points and dying.
+You gain the staggered condition and can only take a single move or standard action (1 AP) each turn (but not both, nor can you take full-round actions). You can take move actions without further injuring yourself, but if you perform any standard action (1 AP) (or any other strenuous action) you take 1 point of damage after completing the act. Unless your activity increased your hit points, you are now at –1 hit points and dying.
 
 Healing that raises your hit points above 0 makes you fully functional again, just as if you’d never been reduced to 0 or fewer hit points.
 
@@ -90,7 +90,7 @@ Nonlethal damage represents harm to a character that is not life-threatening. Un
 
 *Lethal Damage with a Weapon that Deals Nonlethal Damage*: You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a –4 penalty on your attack roll.
 
-**Staggered and Unconscious**: When your nonlethal damage equals your current hit points, you’re staggered. You can only take a standard action or a move action in each round (in addition to free, immediate, and swift actions). You cease being staggered when your current hit points once again exceed your nonlethal damage.
+**Staggered and Unconscious**: When your nonlethal damage equals your current hit points, you’re staggered. You can only take a standard action (1 AP) or a move action (1 AP) in each round (in addition to free, immediate, and swift actions). You cease being staggered when your current hit points once again exceed your nonlethal damage.
 
 When your nonlethal damage exceeds your current hit points, you fall unconscious. While unconscious, you are helpless.
 

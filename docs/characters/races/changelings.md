@@ -226,7 +226,7 @@ Changeling witches with the coven hex who wish to form a coven must perform a 1-
 | 17th | *vision* |
 | 19th | *mind blank* |
 
-Coven spells use the caster level of the coven's most powerful witch. They require each member of the coven to participate simultaneously, taking a full-round action or the spell's normal casting time to cast, whichever is longer. A changeling coven can cast a total of three coven spells each day, regardless of the spell level.
+Coven spells use the caster level of the coven's most powerful witch. They require each member of the coven to participate simultaneously, taking a full-round action (3 AP) or the spell's normal casting time to cast, whichever is longer. A changeling coven can cast a total of three coven spells each day, regardless of the spell level.
 
 ## Favored Class Options
 

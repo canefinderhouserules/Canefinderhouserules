@@ -12,13 +12,13 @@ This ability can only be placed on composite bows. An *adaptive* bow responds to
 
 ### Advancing
 
-This ability can only be placed on melee weapons. Once per round, when the wielder damages a creature in melee with an *advancing* weapon, she can take a 5-foot step as a swift action after the attack but before the end of her turn. This movement does not count against her ability to move or take a 5-foot step earlier or later in the round, though using this ability imposes a –2 penalty on all attack rolls until the start of her next turn. This ability may not be used in conjunction with any other ability or effect that allows moving as part of an attack.
+This ability can only be placed on melee weapons. Once per round, when the wielder damages a creature in melee with an *advancing* weapon, she can take a 5-foot step as a swift action (1 AP) after the attack but before the end of her turn. This movement does not count against her ability to move or take a 5-foot step earlier or later in the round, though using this ability imposes a –2 penalty on all attack rolls until the start of her next turn. This ability may not be used in conjunction with any other ability or effect that allows moving as part of an attack.
 
 *Faint transmutation; CL 5th; Craft Magic Arms and Armor, feather step; Price +2 bonus.*
 
 ### Anchoring
 
-This special ability can only be added to a melee weapon or a thrown weapon. An *anchoring* weapon pins a target in place and prevents it from moving. As a swift action, the weapon can be fixed in place in a point in space, functioning as an *immovable rod*. This ability can also be used when the wielder hits a creature with a melee attack using an *anchoring* weapon. This anchors the target to the weapon, preventing it from moving away from the weapon. The target is not entangled or paralyzed; it simply cannot move from its location without first destroying the weapon or making a successful DC 30 Strength check as a full-round action to move with the weapon up to 10 feet. An *anchoring* weapon remains motionless and cannot be used to attack while it is anchoring a creature. An *anchoring* weapon has no effect on amorphous creatures, including elementals, oozes, and creatures in gaseous or liquid form. It also cannot anchor incorporeal creatures unless the weapon also has the *ghost touch* special ability.
+This special ability can only be added to a melee weapon or a thrown weapon. An *anchoring* weapon pins a target in place and prevents it from moving. As a swift action (1 AP), the weapon can be fixed in place in a point in space, functioning as an *immovable rod*. This ability can also be used when the wielder hits a creature with a melee attack using an *anchoring* weapon. This anchors the target to the weapon, preventing it from moving away from the weapon. The target is not entangled or paralyzed; it simply cannot move from its location without first destroying the weapon or making a successful DC 30 Strength check as a full-round action (3 AP) to move with the weapon up to 10 feet. An *anchoring* weapon remains motionless and cannot be used to attack while it is anchoring a creature. An *anchoring* weapon has no effect on amorphous creatures, including elementals, oozes, and creatures in gaseous or liquid form. It also cannot anchor incorporeal creatures unless the weapon also has the *ghost touch* special ability.
 
 *Moderate transmutation; CL 10th; Craft Magic Arms and Armor, levitate; Price +2 bonus.*
 
@@ -102,7 +102,7 @@ This special ability can only be placed on melee weapons. After an attack with t
 
 The weapon channels and amplifies the wielder’s *ki*, allowing her to use her special *ki* attacks through the weapon as though they were unarmed attacks. These attacks include the monk’s *ki* strike, quivering palm, and the Stunning Fist feat. The save DC for *ki* abilities used through the weapon increases by half the enhancement bonus of the weapon (minimum 1).
 
-After a successful strike with a *ki intensifying* weapon, the wielder can spend 1 *ki* point as a swift action to perform a combat maneuver to bull rush, disarm, reposition, or trip as a free action without provoking attacks of opportunity. Any bonuses or penalties applicable to the weapon attack also apply to this combat maneuver check. The wielder cannot move from her space as a part of the chosen maneuver.
+After a successful strike with a *ki intensifying* weapon, the wielder can spend 1 *ki* point as a swift action (1 AP) to perform a combat maneuver to bull rush, disarm, reposition, or trip as a free action without provoking attacks of opportunity. Any bonuses or penalties applicable to the weapon attack also apply to this combat maneuver check. The wielder cannot move from her space as a part of the chosen maneuver.
 
 Only melee weapons can have the *ki intensifying* ability. It cannot be placed on an *amulet of mighty fist* or similar non-weapon item. Weapons with the *ki focus* ability can be upgraded to be *ki intensifying*.
 
@@ -170,7 +170,7 @@ This special ability can only be placed on melee weapons. A *spellstealing* weap
 
 ### Stalking
 
-The longer the wielder of a *stalking* weapon studies a target, the more effective her strike. As a standard action, a character wielding a *stalking* weapon can command it to study a creature within 60 feet. The wielder must have line of effect and line of sight to that target. When the wielder attacks the studied creature, on a successful hit the *stalking* weapon deals +1d6 points of bonus damage per consecutive round spent studying a target, up to a number of bonus dice equal to the *stalking* weapon’s enhancement bonus. This bonus damage is precision damage and only applies to the first successful hit against that creature.
+The longer the wielder of a *stalking* weapon studies a target, the more effective her strike. As a standard action (1 AP), a character wielding a *stalking* weapon can command it to study a creature within 60 feet. The wielder must have line of effect and line of sight to that target. When the wielder attacks the studied creature, on a successful hit the *stalking* weapon deals +1d6 points of bonus damage per consecutive round spent studying a target, up to a number of bonus dice equal to the *stalking* weapon’s enhancement bonus. This bonus damage is precision damage and only applies to the first successful hit against that creature.
 
 If the wielder attacks a creature other than the studied creature, commands the weapon to study a different creature, or ends her turn more than 60 feet from the studied creature, the weapon loses all bonus damage dice against the previously studied creature.
 
@@ -211,7 +211,7 @@ While wielded by an antipaladin, a *bastard’s sting* deals 2d6 points of negat
 
 This golden-bladed *+1 glorious undead bane katana* shines like the first rays of the morning sun. Whenever the wielder of a *blade of the rising sun* threatens a critical threat (regardless of whether the critical is confirmed or whether the target is subject to critical hits), the target is surrounded by a halo of golden sunlight equivalent to *faerie fire* until the beginning of the wielder’s next turn. Undead surrounded by this glow take 1d6 points of damage at the beginning of their turn.
 
-The wielder of a *blade of the rising sun* may declare a sacrificial strike (similar to the retributive strike of a *staff of power*) as a standard action, or as an immediate action before losing consciousness upon gaining the dying or dead condition. A sacrificial strike converts the wielder’s body and spirit into raw energy equivalent to a *sunburst* (DC 22). Allies of the wielder within the *sunburst* are not harmed, and the wielder may choose to affect all allies within the *sunburst* as *mass cure light wounds* or all allies within 10 feet as *breath of life*. The caster level for the effects of the sacrificial strike is equal to the sword’s caster level plus 1/2 the wielder’s level (maximum 25th level).
+The wielder of a *blade of the rising sun* may declare a sacrificial strike (similar to the retributive strike of a *staff of power*) as a standard action (1 AP), or as an immediate action (1 AP of your next turn) before losing consciousness upon gaining the dying or dead condition. A sacrificial strike converts the wielder’s body and spirit into raw energy equivalent to a *sunburst* (DC 22). Allies of the wielder within the *sunburst* are not harmed, and the wielder may choose to affect all allies within the *sunburst* as *mass cure light wounds* or all allies within 10 feet as *breath of life*. The caster level for the effects of the sacrificial strike is equal to the sword’s caster level plus 1/2 the wielder’s level (maximum 25th level).
 
 A sacrificial strike destroys the wielder’s body (as the spell *disintegrate*), but she has a 50% chance of being reincarnated (as the *reincarnate* spell) 24 hours after performing a sacrificial strike in a random safe location within 1 mile. The wielder’s gear is left behind unharmed after the sacrificial strike; however, the *blade of the rising sun* is teleported to a random location at least 100 miles distant.
 
@@ -262,7 +262,7 @@ This simply made *+1 dancing shortsword* leaps to hand at the slightest touch. I
 **Aura** faint conjuration; **CL** 5th  
 **Price** 10,302 gp; **Weight** 1 lb.
 
-A wielder with a free hand can split this *+1 dagger* into two identical *+1 daggers* as a swift action, or a free action if she has the Quick Draw feat. The doubled daggers can’t be split again. If either dagger is thrown while doubled, the hurled dagger vanishes after resolving the attack and the remaining dagger can be split again. If the wielder drops a doubled dagger or it otherwise leaves her person, it vanishes. If both daggers leave the wielder’s hands at the same time, determine randomly which dagger vanishes.
+A wielder with a free hand can split this *+1 dagger* into two identical *+1 daggers* as a swift action (1 AP), or a free action if she has the Quick Draw feat. The doubled daggers can’t be split again. If either dagger is thrown while doubled, the hurled dagger vanishes after resolving the attack and the remaining dagger can be split again. If the wielder drops a doubled dagger or it otherwise leaves her person, it vanishes. If both daggers leave the wielder’s hands at the same time, determine randomly which dagger vanishes.
 
 Spells or effects placed on a *dagger of doubling* don’t duplicate when the dagger is split. Any active effects on a dagger end when it vanishes. Destroying one of the doubled daggers just causes the duplicate to disappear, but any damage to a single *dagger of doubling* remains on both daggers when it doubles.
 
@@ -282,7 +282,7 @@ This blade’s hilt is shaped as a beautiful angel with elven features. Elaborat
 **Aura** faint transmutation; **CL** 5th  
 **Price** 17,820 gp; **Weight** 2 lbs.
 
-This *+1 dueling rapier* ends duels quickly and decisively by depriving the wielder’s opponent of her weapon. Following a successful disarm attempt with the weapon, the wielder can move the disarmed weapon 5 feet in any direction as a swift action.
+This *+1 dueling rapier* ends duels quickly and decisively by depriving the wielder’s opponent of her weapon. Following a successful disarm attempt with the weapon, the wielder can move the disarmed weapon 5 feet in any direction as a swift action (1 AP).
 
 **Construction** Craft Magic Arms and Armor, *cat’s grace*, *mage hand*; **Cost** 9,070 gp
 
@@ -291,7 +291,7 @@ This *+1 dueling rapier* ends duels quickly and decisively by depriving the wiel
 **Aura** moderate conjuration; **CL** 8th  
 **Price** 13,308 gp; **Weight** 5 lbs.
 
-This *+1 dragon bane guisarme* is has a shaft wound tightly with dragonhide. A *dragoncatch guisarme* can be used to make a special trip maneuver against creatures using wings to fly. If the maneuver succeeds, the target’s wings are fouled and the creature is knocked off balance, falling to the ground and gaining the entangled condition. A creature tripped in this way can attempt a DC 15 Fly check as a move action to remove the entangled condition.
+This *+1 dragon bane guisarme* is has a shaft wound tightly with dragonhide. A *dragoncatch guisarme* can be used to make a special trip maneuver against creatures using wings to fly. If the maneuver succeeds, the target’s wings are fouled and the creature is knocked off balance, falling to the ground and gaining the entangled condition. A creature tripped in this way can attempt a DC 15 Fly check as a move action (1 AP) to remove the entangled condition.
 
 **Construction** Craft Magic Arms and Armor, *black tentacles, summon monster I*; **Cost** 6,808 gp
 
@@ -327,7 +327,7 @@ In the hands of a dwarf, this *+1 warhammer* functions as a *+2 returning warham
 **Aura** strong evocation and transmutation; **CL** 13th  
 **Price** 11,315 gp; **Weight** 10 lbs.
 
-This roughly hewn wooden haft is lashed with gut and rope to a hefty boulder. This *+1 shattering heavy flail* can strike devastating blows against objects. As a swift action, however, the wielder can suppress its *shattering* property until the beginning of his next turn, allowing the head to phase through earth and stone. This allows the wielder to ignore cover or partial cover (but not total cover) provided by objects or structures made of earth or stone; however, while suppressed, an *earthenflail* cannot harm objects made of these materials. Cover provided by other sources is unaffected.
+This roughly hewn wooden haft is lashed with gut and rope to a hefty boulder. This *+1 shattering heavy flail* can strike devastating blows against objects. As a swift action (1 AP), however, the wielder can suppress its *shattering* property until the beginning of his next turn, allowing the head to phase through earth and stone. This allows the wielder to ignore cover or partial cover (but not total cover) provided by objects or structures made of earth or stone; however, while suppressed, an *earthenflail* cannot harm objects made of these materials. Cover provided by other sources is unaffected.
 
 **Construction** Craft Magic Arms and Armor, *phase door, shatter*; **Cost** 5,815 gp
 
@@ -336,7 +336,7 @@ This roughly hewn wooden haft is lashed with gut and rope to a hefty boulder. Th
 **Aura** faint conjuration; **CL** 5th  
 **Price** 7,805 gp; **Weight** 4 lbs.
 
-The holy water in this *+1 battle aspergillum* never runs dry. However, the water vanishes 1 round after leaving the aspergillum, so it cannot be collected. As a full-round action, the wielder can swing the weapon to dispense a vial’s worth of holy water as a ranged touch attack with a maximum range of 10 feet and no range penalty. An *everflowing aspergillum* counts as a good-aligned weapon for purposes of overcoming damage reduction.
+The holy water in this *+1 battle aspergillum* never runs dry. However, the water vanishes 1 round after leaving the aspergillum, so it cannot be collected. As a full-round action (3 AP), the wielder can swing the weapon to dispense a vial’s worth of holy water as a ranged touch attack with a maximum range of 10 feet and no range penalty. An *everflowing aspergillum* counts as a good-aligned weapon for purposes of overcoming damage reduction.
 
 **Construction** Craft Magic Arms and Armor, *bless water*, *create water*; **Cost** 3,905 gp
 
@@ -345,7 +345,7 @@ The holy water in this *+1 battle aspergillum* never runs dry. However, the wate
 **Aura** faint transmutation; **CL** 3rd  
 **Price** 7,315 gp; **Weight** 4 lbs.
 
-This steel-tined *+1 trident* can be commanded to lengthen or shorten its haft (or return to its normal length) as a swift action. It is a two-handed reach weapon when extended but cannot be thrown. If shortened, it can be wielded as a light weapon or hurled as a javelin. Feats or class abilities that apply to tridents apply to a *fighter’s fork* in any form.
+This steel-tined *+1 trident* can be commanded to lengthen or shorten its haft (or return to its normal length) as a swift action (1 AP). It is a two-handed reach weapon when extended but cannot be thrown. If shortened, it can be wielded as a light weapon or hurled as a javelin. Feats or class abilities that apply to tridents apply to a *fighter’s fork* in any form.
 
 **Construction** Craft Magic Arms and Armor, *shrink item*; **Cost** 3,815 gp
 
@@ -354,7 +354,7 @@ This steel-tined *+1 trident* can be commanded to lengthen or shorten its haft (
 **Aura** faint evocation; **CL** 5th  
 **Price** 20,300 gp; **Weight** 4 lbs.
 
-This hefty *+1 flaming pistol* is elaborately carved with its barrel in the semblance of a roaring dragon and its grip wrapped in polished red dragonhide. When firing ordinary ammunition, the wielder may choose to have the *firedrake pistol* deal all of its damage as fire damage instead of normal damage. In addition, as a standard action the wielder may expend 1 unit of ammunition and create a cone of fire equivalent to *burning hands* rather than resolving that shot as a normal attack.
+This hefty *+1 flaming pistol* is elaborately carved with its barrel in the semblance of a roaring dragon and its grip wrapped in polished red dragonhide. When firing ordinary ammunition, the wielder may choose to have the *firedrake pistol* deal all of its damage as fire damage instead of normal damage. In addition, as a standard action (1 AP) the wielder may expend 1 unit of ammunition and create a cone of fire equivalent to *burning hands* rather than resolving that shot as a normal attack.
 
 **Construction** Craft Magic Arms and Armor, *burning hands, fireball*; **Cost** 10,800 gp
 
@@ -401,7 +401,7 @@ If wielded by a person who wears *hamatula hide* armor, the *hellscourge* functi
 **Aura** faint evocation; **CL** 3rd  
 **Price** 7,840 gp; **Weight** 4 lbs.
 
-This *+1/+1 quarterstaff* is hollow, drilled through with numerous tiny holes, and whistles when swung and spun. Once per day as a standard action, the wielder may spin the *hurricane quarterstaff* and create a *gust of wind* (DC 13 Fortitude negates). A monk or ninja wielding a *hurricane quarterstaff* can also spend 1 *ki* point to activate the staff’s *gust of wind* power; the save DC when activating this power with *ki* is equal to 12 + the wielder’s Wisdom modifier.
+This *+1/+1 quarterstaff* is hollow, drilled through with numerous tiny holes, and whistles when swung and spun. Once per day as a standard action (1 AP), the wielder may spin the *hurricane quarterstaff* and create a *gust of wind* (DC 13 Fortitude negates). A monk or ninja wielding a *hurricane quarterstaff* can also spend 1 *ki* point to activate the staff’s *gust of wind* power; the save DC when activating this power with *ki* is equal to 12 + the wielder’s Wisdom modifier.
 
 **Construction** Craft Magic Arms and Armor, *gust of wind*; **Cost** 4,220 gp
 
@@ -421,7 +421,7 @@ A *greater hushing arrow* functions just like a normal *hushing arrow*, except t
 **Aura** moderate necromancy; **CL** 9th  
 **Price** 18,305 gp; **Weight** 3 lbs.
 
-The *lash of the howler* is a *+1 vicious scorpion whip* tipped with quills torn from a howler’s mane. Each time a creature takes damage from the *lash of the howler*, it must succeed at a DC 14 Reflex save or a quill breaks off and lodges in its flesh. The whip instantly sprouts a new quill to replace the one lost. The quill leaves the target sickened until it is removed. Removing a single quill from a creature requires a DC 15 Heal check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed but the process deals 1d4+1 points of damage to the victim.
+The *lash of the howler* is a *+1 vicious scorpion whip* tipped with quills torn from a howler’s mane. Each time a creature takes damage from the *lash of the howler*, it must succeed at a DC 14 Reflex save or a quill breaks off and lodges in its flesh. The whip instantly sprouts a new quill to replace the one lost. The quill leaves the target sickened until it is removed. Removing a single quill from a creature requires a DC 15 Heal check made as a full-round action (3 AP). For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed but the process deals 1d4+1 points of damage to the victim.
 
 **Construction** Craft Magic Arms and Armor, *enervation*, *ray of sickening*; **Cost** 9,305 gp
 
@@ -448,7 +448,7 @@ An infinity symbol is engraved on both sides of this *+5 pistol*’s mother of p
 
 This *+1/+1 meteor hammer* is always made of ferrous metals, and has weighted spheres on either end of its sturdy dark chain. A wielder can use the magic within a *polarity hammer* to attract or repel metal objects. In meteor mode, a wielder gains a +2 bonus on all drag and reposition combat maneuvers against any opponent wearing metal armor, carrying a metal shield, or made of metal (like an iron golem). In addition, if the wielder makes a successful trip attempt against such an opponent, she can push her enemy 5 feet away rather than pulling it forward.
 
-In fortress mode, the wielder can use a move action to pick up any unattended metal object within her reach and deposit the item in any other square within her reach. Items so affected cannot exceed the size of a one-handed weapon equal to the wielder’s size category. In this mode, the +1 shield bonus to Armor Class normally granted from wielding a meteor hammer increases to +3, but only against opponents wearing metal armor, carrying metal shields, or made of metal (as above).
+In fortress mode, the wielder can use a move action (1 AP) to pick up any unattended metal object within her reach and deposit the item in any other square within her reach. Items so affected cannot exceed the size of a one-handed weapon equal to the wielder’s size category. In this mode, the +1 shield bonus to Armor Class normally granted from wielding a meteor hammer increases to +3, but only against opponents wearing metal armor, carrying metal shields, or made of metal (as above).
 
 **Construction** Craft Magic Arms and Armor, *force punch*, *shield*; **Cost** 6,155 gp
 
@@ -486,7 +486,7 @@ This punching dagger’s blade is engraved with images of spider webs. Upon clos
 **Aura** moderate necromancy; **CL** 9th  
 **Price** 25,302 gp; **Weight** 2 lbs.
 
-The *spirit caller* is a *+1 ghost touch mere club* carved of nephrite jade. Incorporeal undead and ghosts struck by the *spirit caller* must succeed at a DC 16 Will save or be drawn inside the mere and are trapped within it. When holding a spirit inside, the *spirit caller* glows from within with the brightness of a candle and functions as a *+2 ghost touch undead bane mere club*. The mere consumes the energy of the spirit inside in 1 hour, destroying it, and can hold but a single spirit at a time. The wielder can release a trapped spirit as a standard action. Ghosts consumed by a *spirit caller* still rejuvenate as normal.
+The *spirit caller* is a *+1 ghost touch mere club* carved of nephrite jade. Incorporeal undead and ghosts struck by the *spirit caller* must succeed at a DC 16 Will save or be drawn inside the mere and are trapped within it. When holding a spirit inside, the *spirit caller* glows from within with the brightness of a candle and functions as a *+2 ghost touch undead bane mere club*. The mere consumes the energy of the spirit inside in 1 hour, destroying it, and can hold but a single spirit at a time. The wielder can release a trapped spirit as a standard action (1 AP). Ghosts consumed by a *spirit caller* still rejuvenate as normal.
 
 **Construction** Craft Magic Arms and Armor, *magic jar*, *plane shift*; **Cost** 12,802 gp
 
@@ -504,9 +504,9 @@ The *summoner’s sorrow* is a *+2 cold iron glaive* that deals an extra 2d6 poi
 **Aura** moderate transmutation; **CL** 7th  
 **Price** 14,315 gp; **Weight** 4 lbs.
 
-This finely crafted *+2 nine-ring broadsword* has an extra gap at the base of the blade’s unsharpened edge, closest to the hilt, seemingly to fit an extra ring. The wielder of a ten-ring sword can use a full-round action to place a magic ring into the empty slot, where the ring then rests until removed (another full-round action). Once a ring is fitted to the tenth slot, the sword’s wielder can employ that ring as if he were wearing it, even if he is currently wearing two magic rings.
+This finely crafted *+2 nine-ring broadsword* has an extra gap at the base of the blade’s unsharpened edge, closest to the hilt, seemingly to fit an extra ring. The wielder of a ten-ring sword can use a full-round action (3 AP) to place a magic ring into the empty slot, where the ring then rests until removed (another full-round action (3 AP)). Once a ring is fitted to the tenth slot, the sword’s wielder can employ that ring as if he were wearing it, even if he is currently wearing two magic rings.
 
-Alternatively, the sword’s wielder can fit a ring made of a specific metal like adamantine or cold iron into the tenth slot. Doing so allows the sword to penetrate damage reduction as if it were made of the same metal as the ring. Using this property does not grant the weapon any additional properties of that metal (such as bypassing hardness, etc.). Typically, such metal rings cost one-tenth the cost of a nine-ring broadsword made from that material. In the event that a magic ring made from a specific metal, like silver, is affixed to the sword’s tenth slot, the sword’s wielder decides which of the weapon’s two properties will be in effect when the ring is placed. However, the sword’s wielder can use a move action to switch between properties.
+Alternatively, the sword’s wielder can fit a ring made of a specific metal like adamantine or cold iron into the tenth slot. Doing so allows the sword to penetrate damage reduction as if it were made of the same metal as the ring. Using this property does not grant the weapon any additional properties of that metal (such as bypassing hardness, etc.). Typically, such metal rings cost one-tenth the cost of a nine-ring broadsword made from that material. In the event that a magic ring made from a specific metal, like silver, is affixed to the sword’s tenth slot, the sword’s wielder decides which of the weapon’s two properties will be in effect when the ring is placed. However, the sword’s wielder can use a move action (1 AP) to switch between properties.
 
 **Construction** Craft Magic Arms and Armor, *mage hand*, *versatile weapon*; **Cost** 7,157 gp
 

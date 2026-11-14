@@ -6,4 +6,4 @@ You present a serene facade until you unsheathe your weapon and strike in one fl
 
 **Prerequisites**: Weapon expertise class feature or [Quick Draw](quick-draw.md), Bluff 1 rank.
 
-**Benefit**: If on your first turn of combat you draw a melee weapon to attack an opponent within your reach, you can spend a swift action to make a [Bluff](../skills/bluff.md) check to feint against that opponent.
+**Benefit**: If on your first turn of combat you draw a melee weapon to attack an opponent within your reach, you can spend a swift action (1 AP) to make a [Bluff](../skills/bluff.md) check to feint against that opponent.

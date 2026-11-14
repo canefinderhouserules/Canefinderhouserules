@@ -69,4 +69,4 @@ At 8th level, it takes a twilight knight only 10 minutes to pay into her dead dr
 
 #### Unassuming Presence (Su)
 
-At 6th level, a twilight knight can attempt an opposed [Bluff](../../rules/skills/bluff.md) check as a swift action against each enemy creature within 30 feet. If she succeeds against every target, the twilight knight can immediately attempt a [Stealth](../../rules/skills/stealth.md) check as though she had concealment; she gains a bonus equal to her twilight knight class level on this Stealth check. She can use this ability up to three times per day.
+At 6th level, a twilight knight can attempt an opposed [Bluff](../../rules/skills/bluff.md) check as a swift action (1 AP) against each enemy creature within 30 feet. If she succeeds against every target, the twilight knight can immediately attempt a [Stealth](../../rules/skills/stealth.md) check as though she had concealment; she gains a bonus equal to her twilight knight class level on this Stealth check. She can use this ability up to three times per day.

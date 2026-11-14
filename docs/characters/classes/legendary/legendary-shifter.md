@@ -76,7 +76,7 @@ A legendary shifter speaks Druidic, a secret language known only to druids and l
 
 #### Shifter Aspect (Su)
 
-At 1st level, a legendary shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see [Legendary Shifter Aspect](legendary-shifter-options.md#legendary-shifter-aspect)) as a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A legendary shifter can maintain their aspect indefinitely, and a shifter may switch which aspect’s form they are taking as a swift action.
+At 1st level, a legendary shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see [Legendary Shifter Aspect](legendary-shifter-options.md#legendary-shifter-aspect)) as a swift action (1 AP), while ending the effect is a free action that can be taken only on the shifter’s turn. A legendary shifter can maintain their aspect indefinitely, and a shifter may switch which aspect’s form they are taking as a swift action (1 AP).
 
 Until a legendary shifter reaches 9th level and gains the chimeric aspect class feature, they can assume only one form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all forms currently manifested. The forms of aspects are not polymorph effects, and the legendary shifter does not lose the benefits of a form while affected by polymorph effects.
 
@@ -88,7 +88,7 @@ At 1st level, a legendary shifter gains the ability to turn herself into any sma
 
 A legendary shifter loses their ability to speak while in animal form because they are limited to the sounds that a normal, untrained animal can make, but they can communicate normally with other animals of the same general grouping as their new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
 
-In addition, a legendary shifter can change their form while in shifter shape as a standard action a number of times per day equal to 1/2 their character level + their Wisdom modifier (minimum 1); doing so does not consume any duration of their shifter shape ability.
+In addition, a legendary shifter can change their form while in shifter shape as a standard action (1 AP) a number of times per day equal to 1/2 their character level + their Wisdom modifier (minimum 1); doing so does not consume any duration of their shifter shape ability.
 
 At 3rd level, a legendary shifter is no longer limited in which forms they can take from the options provided by beast shape I.
 
@@ -102,7 +102,7 @@ At 16th level, a legendary shifter can use shifter shape to transform into a Dim
 
 #### Shifter Evolution (Su)
 
-At will, a legendary shifter in their natural form can extend their claws and grow out a set of fangs as a swift action to use as a weapon. This magical transformation is fueled as much by the legendary shifter’s faith in the natural world as it is by inborn talent. These are primary natural attacks, their claws deal piercing and slashing damage while their fangs deal bludgeoning, piercing, and slashing damage listed on Table 5-1: Legendary Shifter Class Features. In addition, their claw and bite attacks ignore DR/magic. If they use one of their claw attacks and/or bite in concert with a weapon held in the other hand, the claw and bite act as secondary natural attacks instead. Due to the supernatural nature of these claws and bite, their damage does not increase or decrease due to the legendary shifter’s size.
+At will, a legendary shifter in their natural form can extend their claws and grow out a set of fangs as a swift action (1 AP) to use as a weapon. This magical transformation is fueled as much by the legendary shifter’s faith in the natural world as it is by inborn talent. These are primary natural attacks, their claws deal piercing and slashing damage while their fangs deal bludgeoning, piercing, and slashing damage listed on Table 5-1: Legendary Shifter Class Features. In addition, their claw and bite attacks ignore DR/magic. If they use one of their claw attacks and/or bite in concert with a weapon held in the other hand, the claw and bite act as secondary natural attacks instead. Due to the supernatural nature of these claws and bite, their damage does not increase or decrease due to the legendary shifter’s size.
 
 As the legendary shifter gains levels, the power of their claws and fangs increases. At 3rd level, their claws and fangs ignore DR/cold iron and DR/silver. At 7th level, the legendary shifter’s claws and bite are treated as though they had the ghost touch enhancement. At 11th level, they can select one aspect of their alignment, treating their claws and bite attacks as though they were that element for the purpose of damage reduction (if the legendary shifter is neutrally aligned, they may select any alignment for this ability). At 15th level, the claws and fangs ignore DR/adamantine. Lastly, at 19th level, the claws and fangs ignore DR/—.
 
@@ -140,7 +140,7 @@ At 5th level, a legendary shifter leaves no trail in natural surroundings and ca
 
 #### Speed Shift (Ex)
 
-At 6th level, whenever a legendary shifter uses their shifter shape class feature, they can use it as a move action which does not provoke attacks of opportunity.
+At 6th level, whenever a legendary shifter uses their shifter shape class feature, they can use it as a move action (1 AP) which does not provoke attacks of opportunity.
 
 #### Chimeric Aspect (Su)
 
@@ -148,7 +148,7 @@ At 9th level, when a legendary shifter uses their shifter aspect ability to take
 
 #### Lightning Shift (Ex)
 
-At 10th level, whenever a legendary shifter uses their shifter shape class feature, they can use it as a swift action which does not provoke attacks of opportunity.
+At 10th level, whenever a legendary shifter uses their shifter shape class feature, they can use it as a swift action (1 AP) which does not provoke attacks of opportunity.
 
 #### Greater Chimeric Aspect (Su)
 
@@ -156,7 +156,7 @@ At 14th level, when a legendary shifter uses their shifter aspect ability to tak
 
 #### Instant Shift (Ex)
 
-At 18th level, a legendary shifter may use their shifter shape ability as an immediate action.
+At 18th level, a legendary shifter may use their shifter shape ability as an immediate action (1 AP of your next turn).
 
 #### Master of the Many Forms (Ex)
 

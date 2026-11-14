@@ -49,13 +49,13 @@ You can gain a climb speed equal to your base speed when moving through forested
 
 **Element** wood; **Type** defense (Su); **Level** —; **Burn** 0
 
-Your skin toughens like timber and can turn aside some blows. You gain a +1 enhancement bonus to your existing natural armor bonus. By accepting 1 point of burn, you can increase this enhancement bonus by 1. For every 3 levels beyond 2nd, you can accept 1 additional point of burn to further increase this enhancement bonus by 1 (to a maximum of +7 at 17th level). Whenever you accept burn while using a wood wild talent, phytokinetic power causes your full natural armor bonus to apply to your touch AC for 1 round. You can dismiss and restore this effect as an immediate action.
+Your skin toughens like timber and can turn aside some blows. You gain a +1 enhancement bonus to your existing natural armor bonus. By accepting 1 point of burn, you can increase this enhancement bonus by 1. For every 3 levels beyond 2nd, you can accept 1 additional point of burn to further increase this enhancement bonus by 1 (to a maximum of +7 at 17th level). Whenever you accept burn while using a wood wild talent, phytokinetic power causes your full natural armor bonus to apply to your touch AC for 1 round. You can dismiss and restore this effect as an immediate action (1 AP of your next turn).
 
 ### Forest Siege
 
 **Element** wood; **Type** utility (Sp); **Level** 9; **Burn** 0
 
-You can transform available plant life into a besieging army. This functions as greater siege of trees, except you need to concentrate or the effect ends, and you can change targets as a free action. If you accept 1 point of burn, you can prolong the effect without the need for concentration until the next time you recover burn, but you need to spend a standard action to change targets.
+You can transform available plant life into a besieging army. This functions as greater siege of trees, except you need to concentrate or the effect ends, and you can change targets as a free action. If you accept 1 point of burn, you can prolong the effect without the need for concentration until the next time you recover burn, but you need to spend a standard action (1 AP) to change targets.
 
 ### Foxfire
 
@@ -65,7 +65,7 @@ You can transform available plant life into a besieging army. This functions as 
 
 **Saving Throw** none; **Spell Resistance** yes
 
-You surround a creature with glowing flames that outline it, as per faerie fire. If you use foxfire with positive energy, the flames don’t give off heat. If you use it with fire, the flames still aren’t hot enough to deal damage immediately, but the illuminated creature counts as being under the effects of severe heat and must succeed at a Fortitude save against nonlethal damage after 10 minutes. A creature can extinguish the foxfire automatically as a full-round action.
+You surround a creature with glowing flames that outline it, as per faerie fire. If you use foxfire with positive energy, the flames don’t give off heat. If you use it with fire, the flames still aren’t hot enough to deal damage immediately, but the illuminated creature counts as being under the effects of severe heat and must succeed at a Fortitude save against nonlethal damage after 10 minutes. A creature can extinguish the foxfire automatically as a full-round action (3 AP).
 
 ### Foxfire Infusion
 
@@ -77,7 +77,7 @@ You surround a creature with glowing flames that outline it, as per faerie fire.
 
 **Saving Throw** Will partial
 
-Your blast leaves behind flickering flames that reveal the target’s location as per faerie fire for 1 minute (or until your next turn if the target succeeds at its save). This effect occurs even if the foe doesn’t take damage, as long as the attack overcomes spell resistance (if any). You can reduce the blast’s damage by half to increase the DC of this saving throw by 2. A creature can remove the revealing flames early by taking a full-round action to extinguish them.
+Your blast leaves behind flickering flames that reveal the target’s location as per faerie fire for 1 minute (or until your next turn if the target succeeds at its save). This effect occurs even if the foe doesn’t take damage, as long as the attack overcomes spell resistance (if any). You can reduce the blast’s damage by half to increase the DC of this saving throw by 2. A creature can remove the revealing flames early by taking a full-round action (3 AP) to extinguish them.
 
 ### Green Tongue
 
@@ -113,7 +113,7 @@ You use kinetic healer or void healer (whichever you have, or either if you have
 
 **Element** wood; **Type** utility (Sp); **Level** 4; **Burn** 0
 
-Your body can produce the herbal remedies necessary to counter almost any poison. You gain a +5 alchemical bonus on saving throws against poison, as if you were always under the effect of antitoxin. You can use the treat poison action from the [Heal](../../rules/skills/heal.md) skill as a standard action with a mere touch, without a healer’s kit, and even on yourself; if you succeed, you grant the touched creature a +5 alchemical bonus against that specific instance of poison in addition to the normal +4 bonus from treat poison. You can accept 1 point of burn while using the treat poison action in this way to also produce the effects of neutralize poison.
+Your body can produce the herbal remedies necessary to counter almost any poison. You gain a +5 alchemical bonus on saving throws against poison, as if you were always under the effect of antitoxin. You can use the treat poison action from the [Heal](../../rules/skills/heal.md) skill as a standard action (1 AP) with a mere touch, without a healer’s kit, and even on yourself; if you succeed, you grant the touched creature a +5 alchemical bonus against that specific instance of poison in addition to the normal +4 bonus from treat poison. You can accept 1 point of burn while using the treat poison action in this way to also produce the effects of neutralize poison.
 
 ### Merciful Foliage
 
@@ -311,7 +311,7 @@ Your presence animates surrounding plant life and causes it to fight by your sid
 
 **Element** wood; **Type** utility (Su); **Level** 1; **Burn** 0
 
-You gain woodland stride, as per the druid ability. Due to your ability to manipulate plants, you can attempt a caster level check (DC = 11 + the spell’s caster level) as a standard action to also ignore magically manipulated plants (but not creatures of the plant type).
+You gain woodland stride, as per the druid ability. Due to your ability to manipulate plants, you can attempt a caster level check (DC = 11 + the spell’s caster level) as a standard action (1 AP) to also ignore magically manipulated plants (but not creatures of the plant type).
 
 ### Woodland Step, Greater
 

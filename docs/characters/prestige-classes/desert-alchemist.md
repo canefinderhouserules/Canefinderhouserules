@@ -49,7 +49,7 @@ When a desert alchemist gains a level, she gains new extracts or spells per day 
 
 #### Healing Solution (Su)
 
-A desert alchemist learns how to convert magical reagents into life-giving admixtures. As a full-round action, she can convert the magical energies of two extracts or spells of 1st level into a special extract of [*cure light wounds*](../../magic/spells/cure-light-wounds.md). This acts as an infused extract, but it must be used before the end of her next turn or its power is lost. At 3rd level and every 2 levels thereafter, a desert alchemist gains the ability to convert extracts or spells into more powerful forms of curative magic: 3rd—[*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md); 5th—[*cure serious wounds*](../../magic/spells/cure-serious-wounds.md); 7th—[*cure critical wounds*](../../magic/spells/cure-critical-wounds.md); 9th—[*breath of life*](../../magic/spells/breath-of-life.md). In all cases, the desert alchemist must expend two extracts or spells of the same level as the curative spell in order to complete the conversion.
+A desert alchemist learns how to convert magical reagents into life-giving admixtures. As a full-round action (3 AP), she can convert the magical energies of two extracts or spells of 1st level into a special extract of [*cure light wounds*](../../magic/spells/cure-light-wounds.md). This acts as an infused extract, but it must be used before the end of her next turn or its power is lost. At 3rd level and every 2 levels thereafter, a desert alchemist gains the ability to convert extracts or spells into more powerful forms of curative magic: 3rd—[*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md); 5th—[*cure serious wounds*](../../magic/spells/cure-serious-wounds.md); 7th—[*cure critical wounds*](../../magic/spells/cure-critical-wounds.md); 9th—[*breath of life*](../../magic/spells/breath-of-life.md). In all cases, the desert alchemist must expend two extracts or spells of the same level as the curative spell in order to complete the conversion.
 
 #### Desert Discovery
 
@@ -69,7 +69,7 @@ The desert alchemist can select one additional curative enhancement that she can
 
 ##### Shared Infusion (Su)
 
-When a desert alchemist creates an infusion extract of a spell that normally affects multiple targets, the extract can affect a number of targets equal to her Intelligence bonus (up to the maximum normally allowed for the spell), though each creature must use a standard action to imbibe the extract. Only creatures that drink from the extract within 1 round of when the first imbiber starts drinking it are affected. A desert alchemist must have the infusion discovery before selecting this discovery.
+When a desert alchemist creates an infusion extract of a spell that normally affects multiple targets, the extract can affect a number of targets equal to her Intelligence bonus (up to the maximum normally allowed for the spell), though each creature must use a standard action (1 AP) to imbibe the extract. Only creatures that drink from the extract within 1 round of when the first imbiber starts drinking it are affected. A desert alchemist must have the infusion discovery before selecting this discovery.
 
 #### Bombs
 

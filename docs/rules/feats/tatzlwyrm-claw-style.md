@@ -6,4 +6,4 @@ Your curled fingers can tear into opponents' flesh and snatch free [grappled](..
 
 **Prerequisites**: Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), Escape Artist 1 rank.
 
-**Benefit**: You can choose for your unarmed attacks to deal slashing damage. If you strike a target that has another creature grappled or [pinned](../appendices/conditions.md#pinned), as a swift action you can immediately attempt a grapple combat maneuver check against the target's CMD. If you succeed at the check, you can force the target to release a grappled creature or switch a pinned creature to being merely grappled.
+**Benefit**: You can choose for your unarmed attacks to deal slashing damage. If you strike a target that has another creature grappled or [pinned](../appendices/conditions.md#pinned), as a swift action (1 AP) you can immediately attempt a grapple combat maneuver check against the target's CMD. If you succeed at the check, you can force the target to release a grappled creature or switch a pinned creature to being merely grappled.

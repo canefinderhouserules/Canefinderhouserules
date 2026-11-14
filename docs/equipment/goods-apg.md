@@ -73,7 +73,7 @@ The following special gear supplements that listed in the Pathfinder RPG Core Ru
 
 **Periscope**: This 2-foot-long metal tube has right angles at each end with mirrors inside; if you look in one end, you can see out the other end, allowing you safely peer over obstacles, around corners, or into small spaces your head wouldn’t fit. When using a periscope, the end of the tube counts as a Diminutive object, making it much less likely an observed creature notices you; if you have total concealment from the creature except for the end of the periscope, use the tube’s Diminutive size modifier for your Stealth instead of your own size modifier. Distortion from the mirrors gives you a –4 penalty on Perception checks while looking through the periscope. Though the tube is fairly sturdy (hardness 5, 2 hit points), the mirrors inside are fragile (hardness 1, 1 hit point), and any damage that gets through the tube’s hardness applies to the tube and the mirrors.
 
-**Poison Pill Ring**: This ring has a tiny compartment under the setting, typically used to hold poison. Opening and closing a ring is a move action; doing so unseen requires a DC 20 Sleight of Hand check.
+**Poison Pill Ring**: This ring has a tiny compartment under the setting, typically used to hold poison. Opening and closing a ring is a move action (1 AP); doing so unseen requires a DC 20 Sleight of Hand check.
 
 **Powder**: Powdered chalk, flour, and similar materials are popular with adventurers for their utility in pinpointing invisible creatures. Throwing a bag of powder into a square is an attack against AC 5, and momentarily reveals if there is an invisible creature there. A much more effective method is to spread powder on a surface (which takes 1 full round) and look for footprints.
 
@@ -81,7 +81,7 @@ The following special gear supplements that listed in the Pathfinder RPG Core Ru
 
 **Rope, Spider’s Silk**: Rare to virtually nonexistent on the surface world, spider’s silk rope is woven of strands of silk from monstrous spiders by goblin slaves in the employ of the drow. As such it is commonly used by the dark elves, though shorter spider’s silk rope scraps (generally no more than 10 feet long) frequently appear among goblins. Spider’s silk rope has 6 hit points and can be burst with a DC 25 Strength check.
 
-**Scroll Case**: A leather or wooden scroll case easily holds four scrolls; you can cram more inside but retrieving any of them becomes a full-round action rather than a move action. You must destroy the scroll case to damage its contents (hardness 2 for leather or 5 for wood, 2 hit points, Break DC 15). A scroll case is not water-tight.
+**Scroll Case**: A leather or wooden scroll case easily holds four scrolls; you can cram more inside but retrieving any of them becomes a full-round action (3 AP) rather than a move action. You must destroy the scroll case to damage its contents (hardness 2 for leather or 5 for wood, 2 hit points, Break DC 15). A scroll case is not water-tight.
 
 **Signal Horn**: Sounding a horn requires a DC 10 Perform (wind instruments) check and can convey concepts such as “Attack!”, “Help!”, “Advance!”, “Retreat!”, “Fire!”, and, “Alarm!” The report of a signal horn can be clearly heard (Perception DC 0) up to a half-mile distant. For each quarter-mile beyond, Perception checks to hear the horn suffer a –1 penalty.
 
@@ -95,7 +95,7 @@ The following special gear supplements that listed in the Pathfinder RPG Core Ru
 
 **Tent**: Tents come in a variety of sizes and accommodate between one and 10 people. A small tent holds one Medium creature and takes 20 minutes to assemble, a medium tent holds two creatures and takes 30 minutes, a large tent holds four creatures and takes 45 minutes, and a pavilion holds 10 creatures and takes 90 minutes (two Small creatures count as a Medium creature, and one Large creature counts as two Medium creatures). Pavilion tents are large enough to accommodate a small fire in the center. Packing up a tent takes half as long as assembling it.
 
-**Weapon Cord**: Weapon cords are 2-foot-long leather straps that attach your weapon to your wrist. If you drop your weapon or are disarmed, you can recover it as a swift action, and it never moves any further away from you than an adjacent square. However, you cannot switch to a different weapon without first untying the cord (a full-round action) or cutting it (a move action or an attack, hardness 0, 0 hp). Unlike a locked gauntlet, you can still use a hand with a weapon cord, though a dangling weapon may interfere with finer actions.
+**Weapon Cord**: Weapon cords are 2-foot-long leather straps that attach your weapon to your wrist. If you drop your weapon or are disarmed, you can recover it as a swift action (1 AP), and it never moves any further away from you than an adjacent square. However, you cannot switch to a different weapon without first untying the cord (a full-round action (3 AP)) or cutting it (a move action (1 AP) or an attack, hardness 0, 0 hp). Unlike a locked gauntlet, you can still use a hand with a weapon cord, though a dangling weapon may interfere with finer actions.
 
 **Whistle, Signal**: With a DC 5 Perform (wind instruments) check you can use a whistle to signal the same sorts of situations as signal horns. A whistle’s piercing report can be clearly heard (Perception DC 0) up to a quarter-mile away. For each quarter-mile beyond, Perception checks to hear a whistle suffer a –2 penalty. Silent whistles that only animals and other creatures with keen hearing can hear also exist.
 
@@ -141,7 +141,7 @@ Any of these substances can be made by a character with the Craft (alchemy) skil
 
 **Casting Plaster**: This white, dry powder mixes with water to form a paste, which hardens over the course of an hour to create a solid material. It can be used to make casts of footprints or carvings, fill in gaps or cracks in walls, or (if applied over a cloth wrapping) create a splint for a broken bone. Hardened plaster has hardness 1 and 5 hp per inch of thickness. A 5-pound clay pot of plaster can cover about five square feet of flat space to a depth of one inch, five Medium forearm or lower-leg casts, or two full-arm or full-leg casts.
 
-**Flash Powder**: This coarse gray powder ignites and burns almost instantly if exposed to flame, significant friction, or even a simple force such as throwing it against a floor (a standard action). Creatures within the 10-foot-radius burst are blinded for 1 round (Fortitude DC 13 negates).
+**Flash Powder**: This coarse gray powder ignites and burns almost instantly if exposed to flame, significant friction, or even a simple force such as throwing it against a floor (a standard action (1 AP)). Creatures within the 10-foot-radius burst are blinded for 1 round (Fortitude DC 13 negates).
 
 **Light Detector**: This hand-sized metal plate is covered with a thin layer of light-sensitive transparent paste. If exposed to light, the paste darkens and becomes opaque, depending on the amount of light. Bright light causes it to fully darken in 1 round, normal light in 3 rounds, dim light in 10 rounds. It is mainly used by creatures with darkvision to determine if creatures have recently passed through an area carrying light. The plate is sold wrapped in a thick black cloth to prevent accidental light exposure from ruining the plate.
 
@@ -149,7 +149,7 @@ Any of these substances can be made by a character with the Craft (alchemy) skil
 
 **Nushadir**: Normally stored in the form of small, salty pellets in a dry container, this reagent can be mixed with a flask of water and stored safely. Nushadir neutralizes acid; a vial of pellets or a flask of nushadir-water is enough to render a cubic foot of acid safe to touch in 1 minute, though this is usually too slow to prevent damage from a thrown vial of acid or the contents of a large monster’s gullet. Nushadir vapors are slightly irritating to the eyes, nose, and mouth, causing nausea for 1d4 rounds after close exposure (Fortitude DC 10 negates).
 
-**Smelling Salts**: These sharply scented gray crystals cause people inhaling them to regain consciousness. Smelling salts grant you a new saving throw to resist any spell or effect that has already rendered you unconscious or staggered. If exposed to smelling salts while dying, you immediately become conscious and staggered, but must still make stabilization checks each round; if you perform any standard action (or any other strenuous action) you take 1 point of damage after completing the act and fall unconscious again. A container of smelling salts has dozens of uses if stoppered after each use, but depletes in a matter of hours if left opened.
+**Smelling Salts**: These sharply scented gray crystals cause people inhaling them to regain consciousness. Smelling salts grant you a new saving throw to resist any spell or effect that has already rendered you unconscious or staggered. If exposed to smelling salts while dying, you immediately become conscious and staggered, but must still make stabilization checks each round; if you perform any standard action (1 AP) (or any other strenuous action) you take 1 point of damage after completing the act and fall unconscious again. A container of smelling salts has dozens of uses if stoppered after each use, but depletes in a matter of hours if left opened.
 
 **Smoke Pellet**: This small clay sphere contains two alchemical substances separated by a thin barrier. When you break the sphere, the substances mingle and fill a 5-foot square with a cloud of foul but harmless yellow smoke. The smoke pellet acts as a smokestick, except the smoke only lasts for 1 round before dispersing. You may throw a smoke pellet as a ranged touch attack with a range increment of 10 feet.
 
@@ -217,7 +217,7 @@ These items are particularly useful to characters with certain skills and class 
 
 **Compass**: An ordinary compass that points to the magnetic north pole grants its user a +2 circumstance bonus on Survival checks made to avoid becoming lost. It also can be used to grant the same bonus on Knowledge (dungeoneering) checks made to navigate underground.
 
-**Drill**: A drill can create a 1-inch-diameter hole in stone, wood, or metal as a standard action. Harder materials wear down or break the drill more quickly. Hearing the sound of drilling requires a DC 15 Perception check.
+**Drill**: A drill can create a 1-inch-diameter hole in stone, wood, or metal as a standard action (1 AP). Harder materials wear down or break the drill more quickly. Hearing the sound of drilling requires a DC 15 Perception check.
 
 **Footprint Book**: This 50-page tome contains accurate drawings of various common animal, humanoid, and monster tracks, as well as notes on stride length, tread depth, and similarly useful information. The book gives you a +2 circumstance bonus to identify a creature by its tracks, though the use of shoes makes identifying many humanoids difficult or impossible. Though the book can’t help you identify unique individuals, it can help you tell an ogre footprint from a troll footprint, or an elf’s track from an orc’s. Books sold in different areas may have different footprints, depending on what creatures are common to that location.
 
@@ -231,7 +231,7 @@ These items are particularly useful to characters with certain skills and class 
 
 **Pulley**: A simple block-and-tackle pulley, when properly secured, adds a +5 circumstance bonus on Strength checks to lift heavy objects. Securing the pulley requires 1 minute.
 
-**Saw**: You can insert a saw between a door and its frame to cut through wooden bolts or bars, dealing 5 hit points per round plus your Strength modifier to the sawed object as a full-round action. Hearing the sawing requires a DC 10 Perception check. Saws used to cut ice on rivers have a point on the end to break through the ice before cutting.
+**Saw**: You can insert a saw between a door and its frame to cut through wooden bolts or bars, dealing 5 hit points per round plus your Strength modifier to the sawed object as a full-round action (3 AP). Hearing the sawing requires a DC 10 Perception check. Saws used to cut ice on rivers have a point on the end to break through the ice before cutting.
 
 **Sextant**: A sextant is used to determine your latitude. A sextant grants a +4 circumstance bonus on Survival checks made to navigate while above ground.
 

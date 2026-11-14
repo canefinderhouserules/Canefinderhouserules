@@ -36,7 +36,7 @@ Vine leshys have an unusual relationship with other leshys, for unlike standard 
 
 **Pass without Trace**: Vine leshys have pass without trace as a constant spell-like ability (caster level 2nd).
 
-**Change Shape**: Vine leshys can transform into vines, with results similar to tree shape. In this form, the leshy appears as a particularly healthy Small vine. The leshy can assume plant form or revert to its true form as a swift action.
+**Change Shape**: Vine leshys can transform into vines, with results similar to tree shape. In this form, the leshy appears as a particularly healthy Small vine. The leshy can assume plant form or revert to its true form as a swift action (1 AP).
 
 **Plantspeech**: Vine leshys can speak with vines as if subject to a continual speak with plants spell.
 
@@ -54,7 +54,7 @@ The following racial traits can be selected instead of existing vine leshy racia
 
 **Agile**: Agile vine leshys are quicker but less tough than a typical vine leshy. Replace the leshy’s +2 racial bonus to Constitution with a +2 racial bonus to Dexterity. This alters the vine leshy’s ability scores.
 
-**Poisonous**: Vine leshys made from poison ivy vines carry natural poison in their bodies. As a swift action, the leshy can imbue its vines with this irritating substance. The next time the leshy hits a creature with an unarmed strike, the creature is affected by the following poison.
+**Poisonous**: Vine leshys made from poison ivy vines carry natural poison in their bodies. As a swift action (1 AP), the leshy can imbue its vines with this irritating substance. The next time the leshy hits a creature with an unarmed strike, the creature is affected by the following poison.
 
 **Vine Leshy Toxin**: Unarmed strike—injury; save Fort DC 10 + half the vine leshy’s Hit Dice + the leshy’s Constitution modifier; frequency 1/round for 6 rounds; effect [sickened](../../rules/appendices/conditions.md#sickened) for 1 round; cure 1 save.
 
@@ -70,7 +70,7 @@ The leshy can use this ability a number of times per day equal to its Constituti
 
 **Seasoned Spirit**: Long-lived vine leshys are less flexible, but they have established stronger bonds with the natural world. These leshys can spend an hour in concentration to cast [*speak with plants*](../../magic/spells/speak-with-plants.md) as a spell-like ability with a caster level equal to their character level. This alters plantspeech and replaces climber and unassuming foliage.
 
-**Writhing Eye**: Some vine leshys can grow thin vines that serve as sensory organs. Growing or controlling the vine is a full-round action that provokes attacks of opportunity. The vine can extend up to 15 feet and is small enough to pass through a keyhole. A leshy can perceive, using all of her senses, within 20 feet of the vine's tip. This replaces darkvision and low-light vision.
+**Writhing Eye**: Some vine leshys can grow thin vines that serve as sensory organs. Growing or controlling the vine is a full-round action (3 AP) that provokes attacks of opportunity. The vine can extend up to 15 feet and is small enough to pass through a keyhole. A leshy can perceive, using all of her senses, within 20 feet of the vine's tip. This replaces darkvision and low-light vision.
 
 ## Favored Class Options
 
@@ -117,7 +117,7 @@ Vine leshys have access to the following equipment.
 
 **Animal Repellent**: Leshys and other plant creatures have to be wary of hungry herbivorous animals. A dose of animal repellent makes a plant creature smell unappetizing for 24 hours. Animals do not attempt to consume a plant creature coated in animal repellent if there are other food sources available, and in combat prefer to use natural attacks that are not bite attacks against such a creature if they can. Animal repellent counts as a strong scent, allowing creatures with the scent ability to detect it at a greater range. Animal repellent does not work on ghorans with the delicious racial trait. Crafting this item requires a successful DC 20 [Craft](../../rules/skills/craft.md) (alchemy) check.
 
-**Fortifying Fertilizer**: This alchemical fertilizer boosts the growth of plants. As a standard action, a plant creature can absorb the fertilizer by rubbing it on its body in order to gain 1 temporary hit point per Hit Die; these temporary hit points last for 1 hour. A plant creature can only benefit from 1 dose of fortifying fertilizer every 24 hours. Crafting this item requires a successful DC 25 Craft (alchemy) check.
+**Fortifying Fertilizer**: This alchemical fertilizer boosts the growth of plants. As a standard action (1 AP), a plant creature can absorb the fertilizer by rubbing it on its body in order to gain 1 temporary hit point per Hit Die; these temporary hit points last for 1 hour. A plant creature can only benefit from 1 dose of fortifying fertilizer every 24 hours. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 
 ## Feats
 

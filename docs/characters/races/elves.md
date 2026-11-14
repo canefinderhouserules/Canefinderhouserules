@@ -135,7 +135,7 @@ Elves have access to the following equipment.
 
 **Spellbook, Compact**: The need to be able to record and travel with dozens or even hundreds of spells often forces elven wizards to seek lighter spellbooks. Compact spellbooks hold only 70 pages of spells, but they weigh significantly less than an ordinary spellbook.
 
-**Tent, Hanging**: A hanging tent is a small tent (able to comfortably house a single Medium creature) with a teardrop shape, which hangs from a sturdy anchor rope. The rope can be tied to a tree limb, grappling hook, or even a piton hammered into a cliff side. Hanging tents are used primarily in mountainous terrain (where no flat surface may be available for camping) and swamps (where no dry ground may be available). Climbing in or out of a hanging tent is a full-round action that requires a DC 10 [Climb](../../rules/skills/climb.md) check. Failure indicates another attempt must be made, while failure by 5 or more indicates the camper has fallen from the tent.
+**Tent, Hanging**: A hanging tent is a small tent (able to comfortably house a single Medium creature) with a teardrop shape, which hangs from a sturdy anchor rope. The rope can be tied to a tree limb, grappling hook, or even a piton hammered into a cliff side. Hanging tents are used primarily in mountainous terrain (where no flat surface may be available for camping) and swamps (where no dry ground may be available). Climbing in or out of a hanging tent is a full-round action (3 AP) that requires a DC 10 [Climb](../../rules/skills/climb.md) check. Failure indicates another attempt must be made, while failure by 5 or more indicates the camper has fallen from the tent.
 
 | Item | Cost | Weight |
 |---|---|---|
@@ -157,7 +157,7 @@ An item made from darkleaf cloth weighs half as much as the same item made from 
 
 Darkleaf cloth has 20 hit points per inch of thickness and hardness 10.
 
-**Wyroot**: The root of the wyrwood tree has a peculiar quality. When a weapon constructed of wyroot confirms a critical hit, it absorbs some of the life force of the creature hit. The creature hit is unharmed and the wyroot weapon gains 1 life point. As a swift action, a wielder with a *ki* pool or an arcane pool can absorb 1 life point from the wyrwood weapon and convert it into either 1 *ki* point or 1 arcane pool point. Most wyroot weapons can only hold 1 life point at a time, but higher-quality wyroot does exist. The most powerful wyroot weapons can hold up to 3 life points at a time. Any unspent life points dissipate at dusk.
+**Wyroot**: The root of the wyrwood tree has a peculiar quality. When a weapon constructed of wyroot confirms a critical hit, it absorbs some of the life force of the creature hit. The creature hit is unharmed and the wyroot weapon gains 1 life point. As a swift action (1 AP), a wielder with a *ki* pool or an arcane pool can absorb 1 life point from the wyrwood weapon and convert it into either 1 *ki* point or 1 arcane pool point. Most wyroot weapons can only hold 1 life point at a time, but higher-quality wyroot does exist. The most powerful wyroot weapons can hold up to 3 life points at a time. Any unspent life points dissipate at dusk.
 
 Wyroot can be used to construct any melee weapon made entirely of wood or a melee weapon with a wooden haft. Constructing a wyroot weapon that can hold 1 life point increases the weapon’s cost by 1,000 gp, constructing one that can hold up to 2 life points increases the weapon’s cost by 2,000 gp, and constructing one that can hold up to 3 life points increases the weapon’s cost by 4,000 gp.
 
@@ -204,7 +204,7 @@ These elves were born and raised in the frozen lands of the far north or south, 
 
 ### Crossbow Training
 
-The sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a free action and a [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a move action, provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
+The sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a free action and a [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a move action (1 AP), provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
 
 ### Disinterested Observer
 

@@ -26,7 +26,7 @@ This well-balanced, two-handed cleaver is nearly 6 feet in length. Its blade pro
 
 This +1 whip is made from a hemp rope that once served as the noose in a gallows. The countless executions committed with the rope have left an indelible mark on the weapon.
 
-As a standard action, the wielder of a *hangman’s noose* can attempt a combat maneuver check to wrap the whip around a creature’s neck. If she succeeds, the victim can’t move outside of the whip’s reach. As a standard action, the wielder can attempt a reposition combat maneuver check to move the victim within the whip’s reach or to pull the whip tighter, strangling the victim (see the rules for *suffocation* in the *Core Rulebook*). Once the target is being strangled, the wielder can attempt a combat maneuver check as a standard action to squeeze the air out of the victim’s lungs. This reduces the amount of time the victim can hold his breath by 1d6+1 rounds.
+As a standard action (1 AP), the wielder of a *hangman’s noose* can attempt a combat maneuver check to wrap the whip around a creature’s neck. If she succeeds, the victim can’t move outside of the whip’s reach. As a standard action (1 AP), the wielder can attempt a reposition combat maneuver check to move the victim within the whip’s reach or to pull the whip tighter, strangling the victim (see the rules for *suffocation* in the *Core Rulebook*). Once the target is being strangled, the wielder can attempt a combat maneuver check as a standard action (1 AP) to squeeze the air out of the victim’s lungs. This reduces the amount of time the victim can hold his breath by 1d6+1 rounds.
 
 A victim can escape the noose with a successful Escape Artist check (DC = the wielder’s CMD), or by severing the noose with an attack or a successful sunder combat maneuver check. The noose has AC 18, hardness 2, and 12 hp. If severed, the noose can still be used as a +1 whip and repairs itself after 1 hour.
 
@@ -39,7 +39,7 @@ A victim can escape the noose with a successful Escape Artist check (DC = the wi
 
 This viciously barbed +1 spiked chain consists of a jagged hook at the end of a length of rusty chain. It twitches of its own accord, as if it had some semblance of cruel intelligence. As the wielder swings it, the chain contracts and expands with a seemingly endless supply of new links. As a free action, the wielder can cause the chain to expand, giving the weapon reach for 1 round. The weapon doesn’t threaten adjacent squares when it’s expanded. The wielder can’t reverse this change manually; he must wait for it to expire.
 
-If the wielder of a *hooked massacre* uses it for a drag or reposition combat maneuver that brings the target adjacent to him, he can make an attack against the target at his highest base attack bonus as an immediate action.
+If the wielder of a *hooked massacre* uses it for a drag or reposition combat maneuver that brings the target adjacent to him, he can make an attack against the target at his highest base attack bonus as an immediate action (1 AP of your next turn).
 
 **Requirements** Craft Magic Arms and Armor, Combat Expertise, Improved Drag, Improved Reposition, *haste*; **Cost** 11,325 gp
 
@@ -50,7 +50,7 @@ If the wielder of a *hooked massacre* uses it for a drag or reposition combat ma
 
 This wide machete is darkly stained with blood. It is treated as a +1 keen short sword that also has a vicious cutting edge, allowing it to deal slashing damage in addition to piercing damage.
 
-The *murderer’s machete* grants its wielder the ability to move with unnatural grace and speed while stalking potential victims. The wielder gains a +2 competence bonus on Stealth checks and Survival checks to track. In addition, once per day, the wielder can lick the bloodstains on the blade as a standard action to gain the benefits of *cruel jaunt*.
+The *murderer’s machete* grants its wielder the ability to move with unnatural grace and speed while stalking potential victims. The wielder gains a +2 competence bonus on Stealth checks and Survival checks to track. In addition, once per day, the wielder can lick the bloodstains on the blade as a standard action (1 AP) to gain the benefits of *cruel jaunt*.
 
 **Requirements** Craft Magic Arms and Armor, *cruel jaunt*, *keen edge*, creator must sacrifice a sentient living creature; **Cost** 16,590 gp
 

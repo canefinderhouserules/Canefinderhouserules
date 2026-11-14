@@ -11,7 +11,7 @@ These words create translucent armor made of solid magic, protecting without wei
 
 The target of a wordspell with this effect word receives a +1 armor bonus to its AC. This armor is made of force and provides protection against the attacks of incorporeal creatures.
 
-**Boost**: A wordspell with this effect word can be cast as an immediate action. In this case, the effect lasts until the end of your next turn. This boost cannot be used if the wordspell includes another effect word (unless that word can also be cast as an immediate action). This boost increases this effect word’s level by 1.
+**Boost**: A wordspell with this effect word can be cast as an immediate action (1 AP of your next turn). In this case, the effect lasts until the end of your next turn. This boost cannot be used if the wordspell includes another effect word (unless that word can also be cast as an immediate action (1 AP of your next turn)). This boost increases this effect word’s level by 1.
 
 ## Force Shield (Armor)
 

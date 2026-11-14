@@ -8,7 +8,7 @@ You can evaluate the monetary value of an object.
 
 You can also use this check to determine the most valuable item visible in a treasure hoard. The DC of this check is generally 20 but can increase to as high as 30 for a particularly large hoard.
 
-**Action**: Appraising an item takes 1 standard action. Determining the most valuable object in a treasure hoard takes 1 full-round action.
+**Action**: Appraising an item takes 1 standard action (1 AP). Determining the most valuable object in a treasure hoard takes 1 full-round action (3 AP).
 
 **Try Again**: Additional attempts to Appraise an item reveal the same result.
 

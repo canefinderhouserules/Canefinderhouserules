@@ -10,7 +10,7 @@ When you use this skill under close observation, your skill check is opposed by 
 
 You can hide a small object (including a light weapon or an easily concealed ranged weapon, such as a dart, sling, or hand crossbow) on your body. Your Sleight of Hand check is opposed by the Perception check of anyone observing you or of anyone frisking you. In the latter case, the searcher gains a +4 bonus on the Perception check, since it’s generally easier to find such an object than to hide it. A dagger is easier to hide than most light weapons, and grants you a +2 bonus on your Sleight of Hand check to conceal it. An extraordinarily small object, such as a coin, shuriken, or ring, grants you a +4 bonus on your Sleight of Hand check to conceal it, and heavy or baggy clothing (such as a cloak) grants you a +2 bonus on the check.
 
-Drawing a hidden weapon is a standard action and doesn’t provoke an attack of opportunity.
+Drawing a hidden weapon is a standard action (1 AP) and doesn’t provoke an attack of opportunity.
 
 If you try to take something from a creature, you must make a DC 20 Sleight of Hand check. The opponent makes a Perception check to detect the attempt, opposed by the Sleight of Hand check result you achieved when you tried to grab the item. An opponent who succeeds on this check no-tices the attempt, regardless of whether you got the item. You cannot use this skill to take an object from another creature during combat if the creature is aware of your presence.
 
@@ -24,7 +24,7 @@ You can also use Sleight of Hand to entertain an audience as though you were usi
 | 20         | Lift a small object from a person               |
 
 
-**Action**: Any Sleight of Hand check is normally a standard action. However, you may perform a Sleight of Hand check as a move action by taking a –20 penalty on the check.
+**Action**: Any Sleight of Hand check is normally a standard action (1 AP). However, you may perform a Sleight of Hand check as a move action (1 AP) by taking a –20 penalty on the check.
 
 **Try Again**: Yes, but after an initial failure, a second Sleight of Hand attempt against the same target (or while you are being watched by the same observer who noticed your previous attempt) increases the DC for the task by 10.
 

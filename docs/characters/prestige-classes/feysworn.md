@@ -81,11 +81,11 @@ At 4th level, a feysworn can use *summon monster IV* once per day to conjure 1 e
 
 #### Alien Mind (Ex)
 
-At 5th level, for a number of rounds per day equal to her feysworn level, the feysworn gains a +4 sacred bonus to one mental ability score and on saving throws against mind-affecting effects. These rounds do not need to be used consecutively. Once selected, the mental ability score affected cannot be changed until the feysworn next performs her fey lord’s obedience. Activating or maintaining this ability is an immediate action.
+At 5th level, for a number of rounds per day equal to her feysworn level, the feysworn gains a +4 sacred bonus to one mental ability score and on saving throws against mind-affecting effects. These rounds do not need to be used consecutively. Once selected, the mental ability score affected cannot be changed until the feysworn next performs her fey lord’s obedience. Activating or maintaining this ability is an immediate action (1 AP of your next turn).
 
 #### Plane Swap (Sp)
 
-At 5th level, the feysworn gains the ability to transport herself and up to one touched willing creature per feysworn level from the Material Plane to the fey realm or vice versa. This ability can be used once per day as a standard action, and functions as [*plane shift*](../../magic/spells/plane-shift.md).
+At 5th level, the feysworn gains the ability to transport herself and up to one touched willing creature per feysworn level from the Material Plane to the fey realm or vice versa. This ability can be used once per day as a standard action (1 AP), and functions as [*plane shift*](../../magic/spells/plane-shift.md).
 
 #### Tear Reality (Sp)
 

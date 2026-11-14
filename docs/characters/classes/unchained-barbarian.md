@@ -61,7 +61,7 @@ While in a rage, a barbarian gains a +2 bonus on melee attack rolls, melee damag
 
 ### Rage Powers (Ex)
 
-As a barbarian gains levels, she learns to use her rage in new ways. At 2nd level and every 2 levels thereafter, the barbarian gains a rage power. A barbarian gains the benefits of rage powers only while raging. Some of these powers are always active during a rage, and others require the barbarian to take an action to use them. Unless otherwise noted, a barbarian cannot select an individual power more than once. Some of the following rage powers are stances. Activating a stance rage power is a move action. A barbarian can’t have more than one stance rage power active at a time. If she activates a stance rage power while another one is active, the current stance immediately ends. The stance can be intentionally ended at the beginning of the barbarian’s turn as a free action; otherwise, it lasts until the rage ends.
+As a barbarian gains levels, she learns to use her rage in new ways. At 2nd level and every 2 levels thereafter, the barbarian gains a rage power. A barbarian gains the benefits of rage powers only while raging. Some of these powers are always active during a rage, and others require the barbarian to take an action to use them. Unless otherwise noted, a barbarian cannot select an individual power more than once. Some of the following rage powers are stances. Activating a stance rage power is a move action (1 AP). A barbarian can’t have more than one stance rage power active at a time. If she activates a stance rage power while another one is active, the current stance immediately ends. The stance can be intentionally ended at the beginning of the barbarian’s turn as a free action; otherwise, it lasts until the rage ends.
 
 ### Uncanny Dodge (Ex)
 
@@ -103,7 +103,7 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Animal Fury (Ex)**: The barbarian gains a bite attack. This is a primary natural attack that deals 1d4 points of damage (if the barbarian is Medium; 1d3 if the barbarian is Small) plus the barbarian’s Strength modifier. If made as part of a fullattack action with manufactured weapons, the bite attack is made at the barbarian’s full base attack bonus – 5, and she adds only 1/2 her Strength modifier to the damage roll. The barbarian can make a bite attack as part of the action to maintain or break free from a grapple. If the bite attack hits, grapple checks attempted by the barbarian against the target until the end of the round gain a +2 bonus.
 
-**Auspicious Mark (Su)**: The barbarian has been marked by the spirits, as indicated by an impressive tattoo, scar, or birthmark she possesses. As a swift action, she can call upon the spirits’ favor to increase any d20 roll she just made by rolling 1d6 and adding it to the result. This bonus increases by 1 for every 4 levels she has. She can call on the auspicious mark after seeing the result of the d20 roll. This ability can be used only once per day.
+**Auspicious Mark (Su)**: The barbarian has been marked by the spirits, as indicated by an impressive tattoo, scar, or birthmark she possesses. As a swift action (1 AP), she can call upon the spirits’ favor to increase any d20 roll she just made by rolling 1d6 and adding it to the result. This bonus increases by 1 for every 4 levels she has. She can call on the auspicious mark after seeing the result of the d20 roll. This ability can be used only once per day.
 
 **Bleeding Blow (Ex)**: While in the powerful stance, the barbarian can make an attack that causes her enemies to bleed profusely. Once per round, she can have one of her attacks deal an amount of bleed damage equal to 1/2 her bonus damage from powerful stance. This bleed damage bypasses damage reduction. This bleed damage doesn’t stack with itself. A barbarian must have the powerful stance rage power and be at least 8th level to select this rage power.
 
@@ -127,7 +127,7 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Flesh Wound (Ex)**: Once per day, the barbarian can avoid serious harm from an attack. She attempts a Fortitude save with a DC equal to the damage that would be dealt by the attack. If she succeeds, she takes no damage from the attack. If she fails, she takes half damage from the attack and the damage is nonlethal. The barbarian must elect to use this ability after the attack roll is made, but before the damage is rolled. A barbarian must be at least 10th level to select this rage power.
 
-**Ground Breaker (Ex)**: The barbarian can attack the floor around her as a full-round action. This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor’s hardness, the space she occupies and all of the squares adjacent to her become difficult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked [prone](../../rules/appendices/conditions.md#prone). A barbarian must be at least 6th level to select this rage power.
+**Ground Breaker (Ex)**: The barbarian can attack the floor around her as a full-round action (3 AP). This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor’s hardness, the space she occupies and all of the squares adjacent to her become difficult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked [prone](../../rules/appendices/conditions.md#prone). A barbarian must be at least 6th level to select this rage power.
 
 **Ground Breaker, Greater (Ex)**: When using the ground breaker rage power, the barbarian can extend the radius of the effect by 5 feet. This rage power can be selected up to three times, and its effects stack. A barbarian must be at least 8th level and have the ground breaker rage power to select this rage power.
 
@@ -139,7 +139,7 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Internal Fortitude (Ex)**: The barbarian is immune to the [sickened](../../rules/appendices/conditions.md#sickened) and [nauseated](../../rules/appendices/conditions.md#nauseated) conditions. A barbarian must be at least 8th level to select this rage power.
 
-**Intimidating Glare (Ex)**: The barbarian adds her Strength modifier in place of her Charisma modifier on all Intimidate checks to demoralize a foe. She can attempt an Intimidate check to demoralize an adjacent foe as a move action instead of a standard action. If the barbarian successfully demoralizes an adjacent foe, that foe is shaken for the remainder of the barbarian’s current rage.
+**Intimidating Glare (Ex)**: The barbarian adds her Strength modifier in place of her Charisma modifier on all Intimidate checks to demoralize a foe. She can attempt an Intimidate check to demoralize an adjacent foe as a move action (1 AP) instead of a standard action. If the barbarian successfully demoralizes an adjacent foe, that foe is shaken for the remainder of the barbarian’s current rage.
 
 **Knockback (Ex)**: Once per round, the barbarian can attempt a bull rush against one target in place of a melee attack, using her full CMB regardless of the attack it replaces. If the bull rush is successful, the target takes an amount of damage equal to the barbarian’s Strength modifier and is knocked back as normal. The barbarian doesn’t move with the target. This bull rush doesn’t provoke an attack of opportunity.
 
@@ -149,11 +149,11 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Low-Light Vision (Ex)**: The barbarian’s senses sharpen, and she gains low-light vision.
 
-**Mighty Swing (Ex)**: The barbarian automatically confirms a critical hit. This power is used as an immediate action once a critical threat has been determined. This ability can be used only once per day. A barbarian must be at least 12th level to select this rage power.
+**Mighty Swing (Ex)**: The barbarian automatically confirms a critical hit. This power is used as an immediate action (1 AP of your next turn) once a critical threat has been determined. This ability can be used only once per day. A barbarian must be at least 12th level to select this rage power.
 
 **Night Vision (Ex)**: The barbarian’s senses grow incredibly sharp, and she gains darkvision out to a range of 60 feet. If she already has darkvision, the range of that darkvision increases by 60 feet. A barbarian must have a darkvision racial trait, low-light vision racial trait, or the low-light vision rage power to select this rage power.
 
-**No Escape (Ex)**: The barbarian can move up to double her base speed as an immediate action. She can use this ability only when an adjacent foe uses a withdraw action to move away from her. She must end her movement adjacent to the enemy that used the withdraw action. The barbarian provokes attacks of opportunity as normal during this movement.
+**No Escape (Ex)**: The barbarian can move up to double her base speed as an immediate action (1 AP of your next turn). She can use this ability only when an adjacent foe uses a withdraw action to move away from her. She must end her movement adjacent to the enemy that used the withdraw action. The barbarian provokes attacks of opportunity as normal during this movement.
 
 **Perfect Clarity (Ex)**: While in the calm stance, the barbarian can roll twice for any miss chances or Will saving throws to disbelieve illusions, taking the better result. A barbarian must have the calm stance rage power to select this rage power.
 
@@ -175,7 +175,7 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Regenerative Stance (Ex)**: The barbarian can continually replenish her health. At the start of her turn, she regains 1 temporary hit point for every 4 levels she has (up to 5 hit points per round), but this cannot give her more than her maximum temporary hit points from rage. This is a stance rage power. A barbarian must be at least 4th level to select this rage power.
 
-**Renewed Vigor (Ex)**: As a standard action, the barbarian heals 1d8 points of damage + her Constitution modifier. For every 4 levels the barbarian has beyond 4th, the amount healed increases by 1d8 (to a maximum of 5d8 at 20th level). This ability can be used only once per day. The barbarian must be at least 4th level to select this rage power.
+**Renewed Vigor (Ex)**: As a standard action (1 AP), the barbarian heals 1d8 points of damage + her Constitution modifier. For every 4 levels the barbarian has beyond 4th, the amount healed increases by 1d8 (to a maximum of 5d8 at 20th level). This ability can be used only once per day. The barbarian must be at least 4th level to select this rage power.
 
 **Renewed Vitality (Ex)**: The barbarian ignores the effect of 1 point of ability penalty or ability damage per 2 levels she has (maximum 10). At 6th level, the barbarian can also ignore 1 negative level per 4 levels she has. She takes the full effects of the ability penalties, ability damage, or negative levels once her rage ends.
 
@@ -201,7 +201,7 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Taunting Stance (Ex)**: The barbarian can leave herself open to attacks while preparing devastating counterattacks. Enemies gain a +4 bonus on attack and damage rolls against the barbarian while she’s in this stance, but every attack against the barbarian provokes an attack of opportunity from her, which is resolved prior to each provoking attack. This is a stance rage power. A barbarian must be at least 12th level to select this rage power.
 
-**Terrifying Howl (Ex)**: The barbarian unleashes a terrifying howl as a standard action. All enemies that have been shaken by the barbarian (usually through the Intimidate skill) within 30 feet must succeed at a Will save (DC = 10 + 1/2 the barbarian’s level + her Strength modifier) or be panicked for 1d4+1 rounds. Once an enemy has attempted a save versus this ability (whether successful or not), it’s immune to this power for 24 hours. A barbarian must be at least 8th level and have the intimidating glare rage power to select this rage power.
+**Terrifying Howl (Ex)**: The barbarian unleashes a terrifying howl as a standard action (1 AP). All enemies that have been shaken by the barbarian (usually through the Intimidate skill) within 30 feet must succeed at a Will save (DC = 10 + 1/2 the barbarian’s level + her Strength modifier) or be panicked for 1d4+1 rounds. Once an enemy has attempted a save versus this ability (whether successful or not), it’s immune to this power for 24 hours. A barbarian must be at least 8th level and have the intimidating glare rage power to select this rage power.
 
 **Unexpected Strike (Ex)**: The barbarian can make an attack of opportunity against a foe that moves into any square threatened by the barbarian, regardless of whether that movement would normally provoke an attack of opportunity. The barbarian can use this ability only when there are no other foes in a square threatened by the barbarian. A barbarian must be at least 8th level to select this rage power.
 

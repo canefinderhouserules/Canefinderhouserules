@@ -4,4 +4,4 @@ Your mastery of mental communication lets you assault and weaken the minds of yo
 
 **Prerequisites**: Cha 15, serpentfolk.
 
-**Benefit**: As a standard action, you can focus your telepathy on one creature within range to weaken its resistance to mental attacks. The target must succeed at a Will save (DC = 10 + 1/2 your Hit Dice + your Charisma modifier) or take 1d6 points of nonlethal damage and take a –2 penalty against mind-affecting effects; the penalty lasts for 1d6 rounds. This is a mind-affecting ability. You can use this ability a number of times per day equal to 1/2 your Hit Dice.
+**Benefit**: As a standard action (1 AP), you can focus your telepathy on one creature within range to weaken its resistance to mental attacks. The target must succeed at a Will save (DC = 10 + 1/2 your Hit Dice + your Charisma modifier) or take 1d6 points of nonlethal damage and take a –2 penalty against mind-affecting effects; the penalty lasts for 1d6 rounds. This is a mind-affecting ability. You can use this ability a number of times per day equal to 1/2 your Hit Dice.

@@ -50,7 +50,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Lorekeeper**: Dwarves keep extensive records about their history and the world around them. Dwarves with this racial trait receive a +2 racial bonus on [Knowledge](../../rules/skills/knowledge.md) (history) skill checks that pertain to dwarves or their enemies. They can make such skill checks untrained. This racial trait replaces the greed racial trait.
 
-**Magic Resistant**: Some of the older dwarven clans are particularly resistant to magic. Dwarves with this racial trait gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action. Dwarves with this racial trait take a –2 penalty on all concentration checks made in relation to arcane spells. This racial trait replaces the hardy racial trait.
+**Magic Resistant**: Some of the older dwarven clans are particularly resistant to magic. Dwarves with this racial trait gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action (1 AP). Dwarves with this racial trait take a –2 penalty on all concentration checks made in relation to arcane spells. This racial trait replaces the hardy racial trait.
 
 **Relentless**: Dwarves are skilled at pushing their way through a battlefield, tossing aside lesser foes with ease. Dwarves with this racial trait receive a +2 bonus on Combat Maneuver checks made to bull rush or overrun an opponent. This bonus only applies while both the dwarf and his opponent are standing on the ground. This racial trait replaces the stability racial trait.
 
@@ -110,7 +110,7 @@ Dwarves from different cultures often take alternate racial traits from the Adva
 
 **Iron Citizen**: Dwarves with this racial trait gain a +2 bonus on Diplomacy and [Sense Motive](../../rules/skills/sense-motive.md) checks, and Diplomacy is a class skill for such dwarves.
 
-**Iron Within**: Dwarves with this racial trait gain 1 ki point. If the dwarf gains ki points from a different source, this ki point is added to that pool. In addition to any other ways in which the dwarf can use ki, the dwarf can expend the ki point as a swift action to either gain a +2 dodge bonus to AC for 1 round or increase her base speed by 20 feet for 1 round. The bonus ki point does not allow the dwarf to make a ki strike unless she has another ability that allows her to do so, such as the ki pool from the monk class. Like other ki points, this ki point is replenished each morning after 8 hours of rest or meditation. This replaces defensive training and hatred.
+**Iron Within**: Dwarves with this racial trait gain 1 ki point. If the dwarf gains ki points from a different source, this ki point is added to that pool. In addition to any other ways in which the dwarf can use ki, the dwarf can expend the ki point as a swift action (1 AP) to either gain a +2 dodge bonus to AC for 1 round or increase her base speed by 20 feet for 1 round. The bonus ki point does not allow the dwarf to make a ki strike unless she has another ability that allows her to do so, such as the ki pool from the monk class. Like other ki points, this ki point is replenished each morning after 8 hours of rest or meditation. This replaces defensive training and hatred.
 
 ## Racial Subtypes
 

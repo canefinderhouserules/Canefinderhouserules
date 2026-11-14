@@ -10,7 +10,7 @@ Your speed is determined by your race and your armor (see Table 8–3). Your spe
 
 **Hampered Movement**: Difficult terrain, obstacles, or poor visibility can hamper movement.
 
-**Movement in Combat**: Generally, you can move your speed in a round and still do something (take a move action and a standard action).
+**Movement in Combat**: Generally, you can move your speed in a round and still do something (take a move action (1 AP) and a standard action (1 AP)).
 
 If you do nothing but move (that is, if you use both of your actions in a round to move your speed), you can move double your speed.
 
@@ -94,4 +94,4 @@ These rules cover special movement situations.
 
 If movement cost is doubled twice, then each square counts as 4 squares (or as 6 squares if moving diagonally). If movement cost is doubled three times, then each square counts as 8 squares (12 if diagonal) and so on. This is an exception to the general rule that two doublings are equivalent to a tripling.
 
-**Minimum Movement**: Despite whatever penalties to movement you might have, you can take a full-round action to move 5 feet (1 square) in any direction, even diagonally. This rule doesn’t allow you to move through impassable terrain or to move when all movement is prohibited. Such movement provokes attacks of opportunity as normal (despite the distance covered, this move isn’t a 5-foot step).
+**Minimum Movement**: Despite whatever penalties to movement you might have, you can take a full-round action (3 AP) to move 5 feet (1 square) in any direction, even diagonally. This rule doesn’t allow you to move through impassable terrain or to move when all movement is prohibited. Such movement provokes attacks of opportunity as normal (despite the distance covered, this move isn’t a 5-foot step).

@@ -6,7 +6,7 @@ When you strike down an opponent, you can continue your swing into another targe
 
 **Prerequisites**: [Cleave](cleave.md), base attack bonus +6.
 
-**Benefit**: Landing the final melee blow on a target with Cleave grants you another standard action, which must be used strictly for a nonmagical offensive action, once per round.
+**Benefit**: Landing the final melee blow on a target with Cleave grants you another standard action (1 AP), which must be used strictly for a nonmagical offensive action, once per round.
 
 ??? note "Original rule"
 

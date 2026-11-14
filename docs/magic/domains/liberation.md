@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the liberation power of the Liberation domain.*
 
-*Liberty’s Blessing (Sp): You bless a willing creature that you can see, as a standard action, granting it a boon. A creature with this boon can, as a swift action, make a saving throw against a single spell or effect it is suffering from that grants a save. The DC of the saving throw is equal to the original DC of the spell or effect. If the saving throw is successful, the effect ends. This boon lasts for 1 minute or until successfully used to remove a spell or effect, whichever duration is shorter. You can use this ability for a number of times equal to 3 + your Wisdom modifier.*
+*Liberty’s Blessing (Sp): You bless a willing creature that you can see, as a standard action (1 AP), granting it a boon. A creature with this boon can, as a swift action (1 AP), make a saving throw against a single spell or effect it is suffering from that grants a save. The DC of the saving throw is equal to the original DC of the spell or effect. If the saving throw is successful, the effect ends. This boon lasts for 1 minute or until successfully used to remove a spell or effect, whichever duration is shorter. You can use this ability for a number of times equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—sanctuary, 5th—plane shift.*
 
@@ -44,6 +44,6 @@
 
 ***Replacement Power**: The following granted power replaces the liberation power of the Liberation domain or the strength surge ability of the Strength domain.*
 
-*Perfected Form (Su): You maintain an unshakable sense of who you are, and no force can compel you to be anything else. You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus increases by 1 for every 5 cleric levels you have (maximum +5). Once per day when you succeed at a saving throw against such an effect, you can gain a surge of self-confidence as an immediate action that grants you a number of temporary hit points equal to your cleric level and a +2 morale bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.*
+*Perfected Form (Su): You maintain an unshakable sense of who you are, and no force can compel you to be anything else. You gain a +1 sacred (if your patron is good or neutral) or profane (if your patron is evil) bonus on saving throws against polymorph, petrification, and transmutation effects. This bonus increases by 1 for every 5 cleric levels you have (maximum +5). Once per day when you succeed at a saving throw against such an effect, you can gain a surge of self-confidence as an immediate action (1 AP of your next turn) that grants you a number of temporary hit points equal to your cleric level and a +2 morale bonus on attack rolls, skill checks, and saving throws; both effects last for 1 minute.*
 
 ***Replacement Domain Spells**: 4th—paragon surge (always matches your actual race), 6th—primal scream, 7th—transformation.*

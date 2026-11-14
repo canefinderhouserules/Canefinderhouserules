@@ -8,7 +8,7 @@ Some of the most successful magically inclined adventurers have been able to man
 
 You must have the Magic Trick (daylight) feat to use these tricks.
 
-**Barrier of Light (Shield Focus)**: When you cast daylight on a shield, it sheds bright light in a 120-foot cone and raises the light level by one step for an additional 120 feet. As a standard action, you can end the spell by causing the light to suddenly flash, blinding each creature in the cone for 1d4 rounds unless it succeeds at a Fortitude save against your daylight spell DC.
+**Barrier of Light (Shield Focus)**: When you cast daylight on a shield, it sheds bright light in a 120-foot cone and raises the light level by one step for an additional 120 feet. As a standard action (1 AP), you can end the spell by causing the light to suddenly flash, blinding each creature in the cone for 1d4 rounds unless it succeeds at a Fortitude save against your daylight spell DC.
 
 **Blades of Light (Knowledge [religion] 6 ranks)**: When you cast daylight on a melee weapon, you can reduce the duration to 1 round per level and grant the weapon the ability to deal additional damage against undead and evil outsiders equal to 1 point per 2 caster levels (maximum +5). This extra damage does not stack with the holy weapon enchantment and similar effects.
 
@@ -44,7 +44,7 @@ You must have the Magic Trick (mage hand) feat to use these tricks.
 
 **Ranged Aid (base attack bonus +1)**: You've learned to use your mage hand to tug at an opponent's hair, clothing, and equipment. You can use the aid another action at range, attempting a ranged touch attack instead of a melee attack.
 
-**Reaching Hand (Precise Shot or Reach Spell)**: You can focus as a swift action before casting mage hand to increase its range to 50 feet + 5 feet per caster level. If the target of your mage hand spell is outside of the spell's standard range at the start of your turn, you must spend another swift action to focus again or the spell immediately ends.
+**Reaching Hand (Precise Shot or Reach Spell)**: You can focus as a swift action (1 AP) before casting mage hand to increase its range to 50 feet + 5 feet per caster level. If the target of your mage hand spell is outside of the spell's standard range at the start of your turn, you must spend another swift action (1 AP) to focus again or the spell immediately ends.
 
 **Subtle Hand (Deft Hands, Disable Device 6 ranks, Sleight of Hand 6 ranks)**: You can attempt [Disable Device](../../rules/skills/disable-device.md) and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks within range of your mage hand. Working at a distance increases the normal skill check DC by 5, and you cannot take 10 on this check.
 
@@ -60,9 +60,9 @@ You must have the Magic Trick (obscuring mist) feat to use these tricks.
 
 **Mist Screen (Heighten Spell)**: You can shape your obscuring mist into a dense wall of mist with an area up to one 10-foot square per 2 levels. The sections of wall are 5 feet thick and must remain contiguous, but they do not need to be anchored to a solid surface. At least one section of the wall must include your space. Creatures standing within the wall have concealment. Creatures on the opposite side of the wall have total concealment.
 
-**Obscure Self (Stealth 6 ranks)**: You reduce the area of the obscuring mist to your space plus all adjacent squares, but the mist is no longer stationary and instead automatically moves with you when you move. This does not create enough concealment to attempt [Stealth](../../rules/skills/stealth.md) checks. As a swift action, you can anchor the mist, causing it to become stationary and allowing enough concealment to hide. You can release the mist as a swift action, allowing it to move with you again. If you take any fire damage while this trick is in effect, the spell immediately ends.
+**Obscure Self (Stealth 6 ranks)**: You reduce the area of the obscuring mist to your space plus all adjacent squares, but the mist is no longer stationary and instead automatically moves with you when you move. This does not create enough concealment to attempt [Stealth](../../rules/skills/stealth.md) checks. As a swift action (1 AP), you can anchor the mist, causing it to become stationary and allowing enough concealment to hide. You can release the mist as a swift action (1 AP), allowing it to move with you again. If you take any fire damage while this trick is in effect, the spell immediately ends.
 
-**Obscure Terrain (Selective Spell)**: Your mist rests low to the ground, blocking sight to all underfoot and making the area difficult to traverse. Your obscuring mist takes up the same area, but no longer blocks sight of other creatures. Instead, all creatures moving through the mist treat the area as difficult terrain. A creature can spend a move action to treat the area as normal terrain until the end of its turn.
+**Obscure Terrain (Selective Spell)**: Your mist rests low to the ground, blocking sight to all underfoot and making the area difficult to traverse. Your obscuring mist takes up the same area, but no longer blocks sight of other creatures. Instead, all creatures moving through the mist treat the area as difficult terrain. A creature can spend a move action (1 AP) to treat the area as normal terrain until the end of its turn.
 
 **Quenching Mist (Spellcraft 6 ranks or water subtype)**: You can issue a forceful blast of pressurized mist in a 15-foot cone instead of casting obscuring mist normally. This blast automatically quenches any nonmagical fires and functions as dispel magic against magical fires as long as those fires are Medium or smaller. The duration changes to instantaneous and the spell gains the water descriptor. Creatures with the fire subtype within the cone take 1d6 points of damage for every 2 caster levels (maximum 5d6) you have (half on a successful Reflex save).
 
@@ -88,13 +88,13 @@ You must have the Magic Trick (shield) feat to use these tricks.
 
 **Friendly Shield (Bodyguard)**: When using the Bodyguard feat, you can instead grant your ally the benefit of your active shield spell. You lose the spell's benefits and your ally gains these benefits for the spell's duration.
 
-**Force Bash (Improved Bull Rush, Improved Shield Bash)**: While the shield spell is active, as a standard action you can cause your shield to fly toward a target within 30 feet and attempt to bash it. On a successful ranged attack roll, the spell deals 1d8 points of force damage plus 1 point per 3 caster levels (maximum +5 at 15th level). If it deals damage, you can also attempt a bull rush combat maneuver with the shield as a free action. The shield has an attack bonus equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. Using the shield in this way consumes 1 minute of the spell's duration. Spell resistance applies against this ability.
+**Force Bash (Improved Bull Rush, Improved Shield Bash)**: While the shield spell is active, as a standard action (1 AP) you can cause your shield to fly toward a target within 30 feet and attempt to bash it. On a successful ranged attack roll, the spell deals 1d8 points of force damage plus 1 point per 3 caster levels (maximum +5 at 15th level). If it deals damage, you can also attempt a bull rush combat maneuver with the shield as a free action. The shield has an attack bonus equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. Using the shield in this way consumes 1 minute of the spell's duration. Spell resistance applies against this ability.
 
 **Force Equipment (Equipment Trick [shield])**: You can use your shield spell with the Equipment Trick (shield) feat for the following tricks: Break Ground, Hurl Shield, Little Wall, Ricochet Shield, Shield Gag.
 
-**Instant Cover (Spellcraft 6 ranks)**: While the shield spell is active, as an immediate action you can expand your shield into a tower shield made of force. Choose one edge of your space. That edge is treated as a wall of force, except for each 2 caster levels it has hardness 5 and 5 hit points. At the end of the current creature's turn, the shield spell immediately ends.
+**Instant Cover (Spellcraft 6 ranks)**: While the shield spell is active, as an immediate action (1 AP of your next turn) you can expand your shield into a tower shield made of force. Choose one edge of your space. That edge is treated as a wall of force, except for each 2 caster levels it has hardness 5 and 5 hit points. At the end of the current creature's turn, the shield spell immediately ends.
 
-**Reflective Shield (Spellcraft 9 ranks)**: While the shield spell is active, as an immediate action you can reflect magic missile spells back on their caster as if using spell turning. Using the shield in this way consumes 1 minute of the spell's duration.
+**Reflective Shield (Spellcraft 9 ranks)**: While the shield spell is active, as an immediate action (1 AP of your next turn) you can reflect magic missile spells back on their caster as if using spell turning. Using the shield in this way consumes 1 minute of the spell's duration.
 
 ## Unseen Servant Tricks
 

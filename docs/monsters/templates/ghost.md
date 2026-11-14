@@ -22,15 +22,15 @@
 
 ***Corrupting Gaze (Su).*** The ghost is disfigured through age or violence, and has a gaze attack with a range of 30 feet that causes 2d10 damage and 1d4 Charisma damage (Fortitude save negates Charisma damage but not physical damage).
 
-***Corrupting Touch (Su).*** All ghosts gain this incorporeal touch attack. By passing part of its incorporeal body through a foe’s body as a standard action, the ghost inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted.
+***Corrupting Touch (Su).*** All ghosts gain this incorporeal touch attack. By passing part of its incorporeal body through a foe’s body as a standard action (1 AP), the ghost inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted.
 
 ***Draining Touch (Su).*** The ghost died while insane or diseased. It gains a touch attack that drains 1d4 points from any one ability score it selects on a hit. On each such successful attack, the ghost heals 5 points of damage to itself. When a ghost makes a draining touch attack, it cannot use its standard ghostly touch attack.
 
-***Frightful Moan (Su).*** The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action. All living creatures within a 30-foot spread must succeed on a Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost’s moan for 24 hours.
+***Frightful Moan (Su).*** The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action (2 AP). All living creatures within a 30-foot spread must succeed on a Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost’s moan for 24 hours.
 
 ***Malevolence (Su).*** The ghost’s jealousy of the living is particularly potent. Once per round, the ghost can merge its body with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 10th or the ghost’s Hit Dice, whichever is higher), except that it does not require a receptacle. To use this ability, the ghost must be adjacent to the target. The target can resist the attack with a successful Will save. A creature that successfully saves is immune to that same ghost’s malevolence for 24 hours.
 
-***Telekinesis (Su).*** The ghost’s death involved great physical trauma. The ghost can use telekinesis as a standard action once every 1d4 rounds (caster level 12th or equal to the ghost’s HD, whichever is higher).
+***Telekinesis (Su).*** The ghost’s death involved great physical trauma. The ghost can use telekinesis as a standard action (1 AP) once every 1d4 rounds (caster level 12th or equal to the ghost’s HD, whichever is higher).
 
 **Abilities:** Cha +4; as an incorporeal undead creature, a ghost has no Strength or Constitution score.
 

@@ -4,7 +4,7 @@
 
 ***Granted Powers**: You can call forth fire, command creatures of the inferno, and your flesh does not burn.*
 
-*Fire Bolt (Sp): You can unleash a scorching bolt of divine fire from your outstretched hand targeting any foe within 30 feet as a ranged touch attack. This fire bolt deals 1d6 points of fire damage + Your Wisdom. This counts as ranged attacks and can use a Full Round action to use more than one in the same turn. You can use this ability a number of times per day equal to 5 + your Wisdom modifier.*
+*Fire Bolt (Sp): You can unleash a scorching bolt of divine fire from your outstretched hand targeting any foe within 30 feet as a ranged touch attack. This fire bolt deals 1d6 points of fire damage + Your Wisdom. This counts as ranged attacks and can use a Full Round action (3 AP) to use more than one in the same turn. You can use this ability a number of times per day equal to 5 + your Wisdom modifier.*
 
 *Fire Resistance (Ex): At 4th level, you gain resist fire 10. This resistance increases to 20 at 8th level. At 20th level, you gain immunity to fire.*
 
@@ -42,6 +42,6 @@
 
 ***Replacement Power**: The following granted power replaces the fire bolt power of the Fire domain.*
 
-*Cloud of Smoke (Su): As a move action (Or immediate action spending 3 uses), you can create a 5-foot-radius cloud of smoke. This power has a range of 30 feet. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Cloud of Smoke (Su): As a move action (1 AP) (Or immediate action (1 AP of your next turn) spending 3 uses), you can create a 5-foot-radius cloud of smoke. This power has a range of 30 feet. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—pyrotechnics, 3rd—stinking cloud.*

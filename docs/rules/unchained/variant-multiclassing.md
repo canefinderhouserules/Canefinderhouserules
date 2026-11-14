@@ -605,7 +605,7 @@ A character who chooses kineticist as his secondary class gains the following se
 
 **Wild Talent**: At 7th level, they gain an infusion or utility wild talent, treating their kineticist level as their character level to determine the level of wild talent they can select. If they possess a class feature which provides infusions, they can apply infusions as normal for a kineticist or as the class feature describes.
 
-**Gather Power**: At 11th level, they gain the gather power class feature, but can only use it as a move action.
+**Gather Power**: At 11th level, they gain the gather power class feature, but can only use it as a move action (1 AP).
 
 **Burn Specialization**: At 15th level, they reduce the total burn cost of infusions applied to their kinetic blast by 1 (to a minimum of 0). This stacks with other means of burn reduction. In addition, they gain the internal buffer class feature, being able to store up to 1 point in it (this does not stack if they possess the internal buffer class feature from another source).
 

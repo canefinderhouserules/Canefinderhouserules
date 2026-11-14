@@ -51,7 +51,7 @@ A living monolith gains no additional weapon or armor proficiencies. The caster 
 
 During his induction into this prestige class, a living monolith has a stone scarab embedded in his forehead, often set with gems or inlaid with precious metals. This stone is inscribed on its inner side with the monolith's true name and his oaths to the gods and rulers. It cannot be removed without his permission, cannot be dispelled (though it does not function in areas where magic does not work), and does not use a magic item slot.
 
-The soul stone grants the living monolith a +2 bonus on saving throws against death effects, mind-affecting effects, effects that grant negative levels, and on saves to overcome negative levels. A living monolith can invoke the power of his soul stone 3 times per day as a swift action, enabling him to grow in size as if using [*enlarge person*](../../magic/spells/enlarge-person.md) (even if he is not a humanoid).
+The soul stone grants the living monolith a +2 bonus on saving throws against death effects, mind-affecting effects, effects that grant negative levels, and on saves to overcome negative levels. A living monolith can invoke the power of his soul stone 3 times per day as a swift action (1 AP), enabling him to grow in size as if using [*enlarge person*](../../magic/spells/enlarge-person.md) (even if he is not a humanoid).
 
 When a living monolith first gains the soul stone ability, he must decide whether it takes the form of an ib stone or a ka stone. If the character was a spellcaster before becoming a living monolith, he can choose either an ib stone or a ka stone. If the character was not a spellcaster before becoming a living monolith, he must take a ka stone.
 

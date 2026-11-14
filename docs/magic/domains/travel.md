@@ -6,7 +6,7 @@
 
 *Agile Feet (Su): As a free action, you can gain increased mobility for 1 round. For the next round, you ignore all difficult terrain and do not take any penalties for moving through it. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-*Dimensional Hop (Sp): At 8th level, you can teleport up to 10 feet per cleric level per day as a move action. This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature brought.*
+*Dimensional Hop (Sp): At 8th level, you can teleport up to 10 feet per cleric level per day as a move action (1 AP). This teleportation must be used in 5-foot increments and such movement does not provoke attacks of opportunity. You must have line of sight to your destination to use this ability. You can bring other willing creatures with you, but you must expend an equal amount of distance for each creature brought.*
 
 ***Domain Spells**: 1st—longstrider, 2nd—locate object, 3rd—fly, 4th—dimension door, 5th—teleport, 6th—find the path, 7th—greater teleport, 8th—phase door, 9th—astral projection.*
 
@@ -32,7 +32,7 @@
 
 ***Replacement Power**: The following granted powers replace the base speed increase and agile feet power of the Travel domain.*
 
-*Sacred Threshold (Su): As a standard action, you can bless a door, a window, or another portal with a touch. For 1 minute, you can increase or decrease the DC of any check to unlock or force open the portal by an amount equal to half your cleric level. In addition, your first ally to pass through the portal during this time gains an amount of temporary hit points equal to 1d4 + 1 for every 2 cleric levels you have. These temporary hit points last for 1 minute. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Sacred Threshold (Su): As a standard action (1 AP), you can bless a door, a window, or another portal with a touch. For 1 minute, you can increase or decrease the DC of any check to unlock or force open the portal by an amount equal to half your cleric level. In addition, your first ally to pass through the portal during this time gains an amount of temporary hit points equal to 1d4 + 1 for every 2 cleric levels you have. These temporary hit points last for 1 minute. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 *Travel as One (Su): When you cast a spell with the teleportation descriptor, treat your caster level as 3 higher for the purpose of determining how many additional creatures you can bring with you. In addition, you and any creatures you teleport gain a number of temporary hit points equal to your level that disappear after you reach your destination; these offset any damage you might take from teleportation mishaps or attempting to teleport into a solid body.*
 

@@ -26,7 +26,7 @@ When attempting to break an object, you have two choices: smash it with a weapon
 
 Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with the sunder combat maneuver. Smashing an object is like sundering a weapon or shield, except that your combat maneuver check is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
 
-**Armor Class**: Objects are easier to hit than creatures because they don’t usually move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier (see Table 7–11) + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (–5 penalty to AC), but also an additional –2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
+**Armor Class**: Objects are easier to hit than creatures because they don’t usually move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier (see Table 7–11) + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (–5 penalty to AC), but also an additional –2 penalty to its AC. Furthermore, if you take a full-round action (3 AP) to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
 
 **Hardness**: Each object has hardness—a number that represents how well it resists damage. When an object is damaged, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object’s hit points (see Table 7–12, Table 7–13, and Table 7–14).
 

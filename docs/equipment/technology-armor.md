@@ -1,6 +1,6 @@
 # Technological Armor
 
-Technological armor works in a similar manner to standard armor, but often requires a power source to fully function. Each suit has a full description, including a set of abbreviated statistics: **Price** (cost in gold pieces; can be sold for half), **Weight** (for Medium characters; Small characters’ armor weighs half as much and Large characters’ twice as much), **Type** (light, medium, or heavy), **AC**, **Max Dex**, **Armor Check Penalty**, **Arcane Spell Failure**, **Speed** (adjusted for base speeds of 30 and 20 feet), **Capacity** (maximum charges; omitted if the armor doesn’t use energy), **Usage** (charges consumed over time while activated; activating powered armor is a standard action and deactivating it is a free action; the charge is spent at the beginning of the duration, and any time remaining when the armor is deactivated is lost) and **Construction** (feat and facility, Craft DC and cost).
+Technological armor works in a similar manner to standard armor, but often requires a power source to fully function. Each suit has a full description, including a set of abbreviated statistics: **Price** (cost in gold pieces; can be sold for half), **Weight** (for Medium characters; Small characters’ armor weighs half as much and Large characters’ twice as much), **Type** (light, medium, or heavy), **AC**, **Max Dex**, **Armor Check Penalty**, **Arcane Spell Failure**, **Speed** (adjusted for base speeds of 30 and 20 feet), **Capacity** (maximum charges; omitted if the armor doesn’t use energy), **Usage** (charges consumed over time while activated; activating powered armor is a standard action (1 AP) and deactivating it is a free action; the charge is spent at the beginning of the duration, and any time remaining when the armor is deactivated is lost) and **Construction** (feat and facility, Craft DC and cost).
 
 ## Table: Armor
 
@@ -43,7 +43,7 @@ This suit of light woven-fiber armor covers the wearer from ankle to wrist and i
 
 A deep diving suit is a body-tight mesh of reinforced rubber and polymer fitted with scrubbers that can draw and purify oxygen from its surrounding environment, extracting oxygen from water as easily as from air. The suit’s helmet is close-fitting but offers excellent visibility, while the suit’s fabric itself can flex while still remaining supportive against pressure—depths are treated as being 1,000 feet shallower than their actual depth for the purposes of determining pressure damage from deep water. The wearer is also immune to inhaled toxins and can breathe underwater with ease—the suit does not allow breathing in a vacuum.
 
-A diving suit’s hands and feet can activate webbing, long fins, and flippers, which the wearer can extend (and deactivate) as a move action. While in this mode, the wearer of the suit gains a swim speed of 20 feet and a +8 bonus on Swim checks, but the armor check penalty of the suit doubles to –4 and its land speed reduces to 20 feet (or 15 feet for slower characters, as appropriate). Swim checks are never penalized by a diving suit’s armor check penalty.
+A diving suit’s hands and feet can activate webbing, long fins, and flippers, which the wearer can extend (and deactivate) as a move action (1 AP). While in this mode, the wearer of the suit gains a swim speed of 20 feet and a +8 bonus on Swim checks, but the armor check penalty of the suit doubles to –4 and its land speed reduces to 20 feet (or 15 feet for slower characters, as appropriate). Swim checks are never penalized by a diving suit’s armor check penalty.
 
 **Construction** Craft DC 26; Cost 13,000 gp; Craft Technological Arms and Armor, production lab
 
@@ -53,7 +53,7 @@ A diving suit’s hands and feet can activate webbing, long fins, and flippers, 
 
 A gravity suit consists of several black, flexible straps attached to a framework of delicate servos, thin plates, and small strips of black polymer plastic—this gives it an appearance of being ineffective armor. The armor bonus provided by an unpowered gravity suit is +0, but when activated, the suit generates a field of gravitons around the wearer that grants a +5 armor bonus (this bonus is a force effect). This bonus is doubled when it applies to the wearer’s CMD score against bull rush, overrun, and trip attempts, and slows any fall as if the wearer were under the effect of a *feather fall* spell.
 
-At the cost of 1 additional charge per minute, the wearer of a gravity suit can fly at a speed of 60 ft. (average). Activating this ability is a standard action.
+At the cost of 1 additional charge per minute, the wearer of a gravity suit can fly at a speed of 60 ft. (average). Activating this ability is a standard action (1 AP).
 
 **Construction** Craft DC 33; Cost 20,000 gp; Craft Technological Arms and Armor, graviton lab
 
@@ -63,7 +63,7 @@ At the cost of 1 additional charge per minute, the wearer of a gravity suit can 
 
 This bulky bracelet is covered in blinking blue lights and pulsing holographic emitters. A hard light shield produces a translucent but substantial holographic barrier when activated. The shield bonus counts as a force effect and applies to the wielder’s touch AC against beam and ray attacks (but not other touch attacks). As a transparent force effect, a hard light shield provides no bonus against lasers. A hard light shield can be used to deliver shield bash attacks like a heavy shield.
 
-When turned off, a hard light shield provides no AC bonus and imposes no spell failure chance. Activating or deactivating a hard light shield is a move action. This item occupies the wearer’s wrist slot.
+When turned off, a hard light shield provides no AC bonus and imposes no spell failure chance. Activating or deactivating a hard light shield is a move action (1 AP). This item occupies the wearer’s wrist slot.
 
 **Construction** Craft DC 27; Cost 3,200 gp; Craft Technological Arms and Armor, military lab
 
@@ -119,7 +119,7 @@ A panic suit is a single-use item. When its charges run out or when its wearer d
 
 **Price** varies (see below); **Type** light; **Weight** 5 lbs.; **AC** +1; **Max Dex** +8; **Armor Check Penalty** –1; **Arcane Spell Failure** 5%; **Speed** 30 ft. (30 ft.), 20 ft. (20 ft.); **Capacity** 24; **Usage** 1 charge/hour
 
-A scatterlight suit is a tight, form-fitting suit of highly reflective polymers and synthetic metal fibers. It’s designed to reflect beam weapon attacks, and provides only minimal protection against physical damage. Activating a scatterlight suit is a standard action; once activated, the suit diffuses and blurs light reflected from its surface, making the wearer appear hazy and indistinct.
+A scatterlight suit is a tight, form-fitting suit of highly reflective polymers and synthetic metal fibers. It’s designed to reflect beam weapon attacks, and provides only minimal protection against physical damage. Activating a scatterlight suit is a standard action (1 AP); once activated, the suit diffuses and blurs light reflected from its surface, making the wearer appear hazy and indistinct.
 
 While active, a scatterlight suit increases the wearer’s touch AC by a variable amount—this bonus is an armor bonus, but does not increase the wearer’s normal or flat-footed AC beyond the scatterlight suit’s baseline armor bonus of +1. This bonus to touch AC only applies to attacks made by beam weapons and rays—it does not provide additional protection to other touch attacks.
 
@@ -143,7 +143,7 @@ While active, a scatterlight suit increases the wearer’s touch AC by a variabl
 
 **Expanded form**: **Type** heavy; **Weight** 20 lbs.; **AC** +8; **Max Dex** +1; **Armor Check Penalty** –5; **Arcane Spell Failure** 35%; **Speed** 20 ft. (30 ft.), 15 ft. (20 ft.); **Capacity** 60; **Usage** 1 charge/10 minutes
 
-While inactive, smart armor resembles a breastplate of adamantine scales, which doesn’t seem out of place among the metal armor of the world, except for its alien aesthetics of ancient starfarer design. When activated as an immediate action, smart armor expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it uses the statistics of smart armor (expanded form). It can be collapsed back to breastplate form with a move action, and automatically retracts when it loses power. In either form, smart armor provides DR 2/— due to its adamantine construction. Smart armor is considered masterwork armor.
+While inactive, smart armor resembles a breastplate of adamantine scales, which doesn’t seem out of place among the metal armor of the world, except for its alien aesthetics of ancient starfarer design. When activated as an immediate action (1 AP of your next turn), smart armor expands to cover the wearer’s legs and limbs, and a built-in magnetic generator hardens the armor into a rigid, plate-like form. When in this form, it uses the statistics of smart armor (expanded form). It can be collapsed back to breastplate form with a move action (1 AP), and automatically retracts when it loses power. In either form, smart armor provides DR 2/— due to its adamantine construction. Smart armor is considered masterwork armor.
 
 **Construction** Craft DC 28; Cost 8,250 gp; Craft Technological Arms and Armor, military lab
 

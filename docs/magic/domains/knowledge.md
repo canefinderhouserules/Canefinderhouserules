@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the remote viewing ability of the Knowledge domain. Aeons are a race of neutral outsiders.*
 
-*Void Form (Su): At 6th level, you can become semi-tangible as a standard action. While in this form, you are immune to critical hits and gain a +1 deflection bonus to AC. This bonus increases by 1 at 8th level and every 4 levels thereafter. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
+*Void Form (Su): At 6th level, you can become semi-tangible as a standard action (1 AP). While in this form, you are immune to critical hits and gain a +1 deflection bonus to AC. This bonus increases by 1 at 8th level and every 4 levels thereafter. You can use this power a number of rounds per day equal to your cleric level. These rounds need not be consecutive.*
 
 ***Replacement Domain Spells**: 1st—sanctuary, 5th—telepathic bond, 6th—planar binding (aeons only).*
 
@@ -30,7 +30,7 @@
 
 ***Replacement Power**: The following granted power replaces the unity power of the Community domain or the remote viewing power of the Knowledge domain.*
 
-*Teaching Moment (Su)*: At 4th level, when you or an ally within 30 feet rolls a natural 1 or a natural 20 on an attack roll, an ability check, a skill check, or a saving throw, as an immediate action you can grant all allies within 30 feet special insights that help them overcome similar challenges. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 4th level, and one additional time per day for every 4 cleric levels beyond 4th.
+*Teaching Moment (Su)*: At 4th level, when you or an ally within 30 feet rolls a natural 1 or a natural 20 on an attack roll, an ability check, a skill check, or a saving throw, as an immediate action (1 AP of your next turn) you can grant all allies within 30 feet special insights that help them overcome similar challenges. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 4th level, and one additional time per day for every 4 cleric levels beyond 4th.
 
 ***Replacement Domain Spells**: 1st—know the enemy, 2nd—fox’s cunning, 6th—battlemind link, 8th—circle of clarity.*
 
@@ -42,7 +42,7 @@
 
 ***Replacement Power**: The following granted power replaces the lore keeper power of the Knowledge domain or the copycat power of the Trickery domain.*
 
-*Deep Cover (Su): When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as detect evil, detect thoughts, or zone of truth), as an immediate action you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Deep Cover (Su): When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as detect evil, detect thoughts, or zone of truth), as an immediate action (1 AP of your next turn) you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—anonymous interaction, 4th—zone of silence, 8th—mind blank.*
 
@@ -76,6 +76,6 @@
 
 ***Replacement Power**: The following granted power replaces the lore keeper power of the Knowledge domain or the copycat power of the Trickery domain.*
 
-*Deep Cover (Su)*: When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as [*detect evil*](../spells/detect-evil.md), [*detect thoughts*](../spells/detect-thoughts.md), or [*zone of truth*](../spells/zone-of-truth.md)), as an immediate action you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.
+*Deep Cover (Su)*: When you prepare your spells, you can also choose one cover identity—whether that of a real person or a fictitious one. You can assume the disguise of your cover identity in half the normal amount of time. When targeted by a spell or effect that would compromise your chosen disguise (such as [*detect evil*](../spells/detect-evil.md), [*detect thoughts*](../spells/detect-thoughts.md), or [*zone of truth*](../spells/zone-of-truth.md)), as an immediate action (1 AP of your next turn) you can force the creature using the ability to attempt a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). If the creature fails, it gains false information in keeping with your cover identity. You can use this false information ability a number of times per day equal to 3 + your Wisdom modifier.
 
 ***Replacement Domain Spells**: 2nd—anonymous interaction, 4th—zone of silence, 8th—mind blank.*

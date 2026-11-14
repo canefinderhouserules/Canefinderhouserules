@@ -32,7 +32,7 @@
 
 **Replacement Power**: The following granted power replaces the dancing weapon power of the Artifice domain.
 
-*Animate Servant (Su)*: At 6th level, as a standard action, you can give life to inanimate objects. This ability functions as [*animate objects*](../spells/animate-objects.md) using your cleric level as the caster level. You can use this ability once per day at 8th level, and one additional time per day for every four levels beyond 6th.
+*Animate Servant (Su)*: At 6th level, as a standard action (1 AP), you can give life to inanimate objects. This ability functions as [*animate objects*](../spells/animate-objects.md) using your cleric level as the caster level. You can use this ability once per day at 8th level, and one additional time per day for every four levels beyond 6th.
 
 **Replacement Domain Spells**: 7th—[*limited wish*](../spells/limited-wish.md), 8th—[*polymorph any object*](../spells/polymorph-any-object.md).
 
@@ -56,7 +56,7 @@
 
 **Replacement Power**: The following granted power replaces the dancing weapon power of the Artifice domain.
 
-*Aura of Repetition (Su)*: At 4th level, as a move action, you can emit a 30-foot aura of repetition for a number of rounds per day equal to your cleric level. All enemies within this aura must make a Will save each round or repeat their action from the previous round (if possible). Creatures that attacked on the previous round attack again on the following round, although they may change their target. Creatures that moved the previous round must take the same move action again, although they may change their route. Creatures that drank a potion must do so again, even they can only drink from an empty bottle. Actions that cannot be repeated are wasted. These rounds do not need to be consecutive.
+*Aura of Repetition (Su)*: At 4th level, as a move action (1 AP), you can emit a 30-foot aura of repetition for a number of rounds per day equal to your cleric level. All enemies within this aura must make a Will save each round or repeat their action from the previous round (if possible). Creatures that attacked on the previous round attack again on the following round, although they may change their target. Creatures that moved the previous round must take the same move action (1 AP) again, although they may change their route. Creatures that drank a potion must do so again, even they can only drink from an empty bottle. Actions that cannot be repeated are wasted. These rounds do not need to be consecutive.
 
 **Replacement Domain Spells**: 1st—[*command*](../spells/command.md), 5th—[*waves of fatigue*](../spells/waves-of-fatigue.md), 7th—[*waves of exhaustion*](../spells/waves-of-exhaustion.md).
 

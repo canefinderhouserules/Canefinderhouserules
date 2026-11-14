@@ -32,11 +32,11 @@
 
 **Defensive:** +1 AC. This doubles if you didn’t use it to attack on your previous turn.  
   
-**Light Flail:** If you spend a swift action, your next attack deals double the weapon's damage (only the weapon's dice, e.g. 1d6 becomes 2d6; no doubling Strength or anything like that). This action carries a –1 penalty on the attack.
+**Light Flail:** If you spend a swift action (1 AP), your next attack deals double the weapon's damage (only the weapon's dice, e.g. 1d6 becomes 2d6; no doubling Strength or anything like that). This action carries a –1 penalty on the attack.
 
 **Counter:** +2 to attack when used for any kind of attack of opportunity or counterattack granted by a lightsaber style; it is also +2 to attack when returning bolts.
 
-**Two-Weapon Monster:** As a swift action, you spin the blades for 1 round. While spinning, you gain Two-Weapon Fighting and Improved Two-Weapon Fighting, and the weapon's Intimidating bonus doubles.
+**Two-Weapon Monster:** As a swift action (1 AP), you spin the blades for 1 round. While spinning, you gain Two-Weapon Fighting and Improved Two-Weapon Fighting, and the weapon's Intimidating bonus doubles.
 
 **Intimidating:** +2 on Intimidate checks.
 
@@ -50,13 +50,13 @@ If you spend 1 point of Determination, you can negate a lightsaber critical hit 
 
 ## Lightsaber Forms
 
-The 7–8 Jedi forms are, you guessed it, style feats that only work with lightsabers. They are activated as a swift action, and you cannot have more than one active at a time unless you steal the effect of the monk's Master of Many Styles, you know the drill.
+The 7–8 Jedi forms are, you guessed it, style feats that only work with lightsabers. They are activated as a swift action (1 AP), and you cannot have more than one active at a time unless you steal the effect of the monk's Master of Many Styles, you know the drill.
 
 Novice forms have no level requirement. Expert and Master forms require the character level shown under each one (the Supreme Warrior class feature can lower these requirements).
 
 **Shii-cho Novice:**
 
-Benefit: As a standard action, you can make a single lightsaber attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against up to two other foes that are also within reach. You take a –2 penalty to your Armor Class until the start of your next turn for each additional attack you make with this feat.
+Benefit: As a standard action (1 AP), you can make a single lightsaber attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against up to two other foes that are also within reach. You take a –2 penalty to your Armor Class until the start of your next turn for each additional attack you make with this feat.
 
 **Shii-cho Expert:**
 
@@ -72,19 +72,19 @@ Benefit: You can apply the benefits of Vital Strike, Improved Vital Strike, and 
 
 **Makashi Novice:**
 
-Benefit: You can make a Bluff check to feint in combat as a move action. Counts as having Improved Feint. You also gain +1 to attack and AC with/against lightsabers whenever you are in a 1-on-1 fight.
+Benefit: You can make a Bluff check to feint in combat as a move action (1 AP). Counts as having Improved Feint. You also gain +1 to attack and AC with/against lightsabers whenever you are in a 1-on-1 fight.
 
 **Makashi Expert:**
 
 *Requirement: character level 3.*
 
-You can feint as a swift action, or feint as a move action and gain +2 to your next attack. The +1 to attack and AC rises to +2, and now half of it still applies if you are not in a 1-on-1 fight.
+You can feint as a swift action (1 AP), or feint as a move action (1 AP) and gain +2 to your next attack. The +1 to attack and AC rises to +2, and now half of it still applies if you are not in a 1-on-1 fight.
 
 **Makashi Master:**
 
 *Requirement: character level 7.*
 
-You can feint as a free action, but you take a –10 penalty on the Bluff check. If you feint as a swift action you gain +2 to attack and damage on the first hit; if you feint as a move action you gain +2 critical threat range (+1, not multiplicable, if you have Improved Critical). The bonus to attack and AC in a 1-on-1 fight is now +3.
+You can feint as a free action, but you take a –10 penalty on the Bluff check. If you feint as a swift action (1 AP) you gain +2 to attack and damage on the first hit; if you feint as a move action (1 AP) you gain +2 critical threat range (+1, not multiplicable, if you have Improved Critical). The bonus to attack and AC in a 1-on-1 fight is now +3.
 
 **Soresu Novice:**
 
@@ -104,13 +104,13 @@ Benefit: You take only a –1 penalty on attack rolls for fighting defensively. 
 
 **Ataru Novice:**
 
-Benefit: You gain a +2 bonus on acrobatics checks. While using the ataru Style feat, when an opponent targets you with a melee or ranged attack, you can spend an immediate action to make an acrobatics check. You can use the result as your AC or touch AC against that attack. You must be aware of the attack and not flat-footed.
+Benefit: You gain a +2 bonus on acrobatics checks. While using the ataru Style feat, when an opponent targets you with a melee or ranged attack, you can spend an immediate action (1 AP of your next turn) to make an acrobatics check. You can use the result as your AC or touch AC against that attack. You must be aware of the attack and not flat-footed.
 
 **Ataru Expert:**
 
 *Requirement: character level 3.*
 
-Benefit: Each time you hit with an unarmed or lightsaber strike while using ataru Style, you can move 5 feet without provoking an attack of opportunity as long as you move to a space adjacent to the opponent you hit with the attack. If you use this feat, you cannot take a 5-foot step during your next turn. You can now also use your Acrobatics result twice in place of your AC with a single immediate action (that is, to dodge 2 things in the same round).
+Benefit: Each time you hit with an unarmed or lightsaber strike while using ataru Style, you can move 5 feet without provoking an attack of opportunity as long as you move to a space adjacent to the opponent you hit with the attack. If you use this feat, you cannot take a 5-foot step during your next turn. You can now also use your Acrobatics result twice in place of your AC with a single immediate action (1 AP of your next turn) (that is, to dodge 2 things in the same round).
 
 **Ataru Master:**
 
@@ -120,15 +120,15 @@ You gain Pounce, and you can charge through difficult terrain (unless it is diff
 
 **Shien Novice:**
 
-Benefits: While using this style, when an opponent makes an attack of opportunity against you for moving through a threatened square, you can spend a swift action to make a retaliatory unarmed strike attack against that opponent. Your attack is resolved after the triggering attack of opportunity.
+Benefits: While using this style, when an opponent makes an attack of opportunity against you for moving through a threatened square, you can spend a swift action (1 AP) to make a retaliatory unarmed strike attack against that opponent. Your attack is resolved after the triggering attack of opportunity.
 
-Also, if someone shoots at you and you successfully defend against it, you can spend an immediate action to send the bolt back.
+Also, if someone shoots at you and you successfully defend against it, you can spend an immediate action (1 AP of your next turn) to send the bolt back.
 
 **Shien Expert:**
 
 *Requirement: character level 2.*
 
-Benefit: While using shien Style, you can spend a free action, instead of spending a immediate action, to make a retaliatory lightsaber strike or to return a bolt. You can make a number of retaliatory lightsaber strikes and bolt returns on your turn equal to your Wisdom modifier.
+Benefit: While using shien Style, you can spend a free action, instead of spending a immediate action (1 AP of your next turn), to make a retaliatory lightsaber strike or to return a bolt. You can make a number of retaliatory lightsaber strikes and bolt returns on your turn equal to your Wisdom modifier.
 
 **Shien Master:**
 
@@ -166,7 +166,7 @@ Benefits: You can add 1½ × your Intelligence modifier, or add your Intelligenc
 
 *Requirement: character level 6.*
 
-Reduce the two-weapon fighting penalty by 1 (only if you do not use spells), and you learn to cast force powers and wield your lightsaber at the same time. This functions much like two-weapon fighting, but the off-hand weapon is a force power that is being cast. To use this ability, the character must have one hand free (even if the spell being cast does not have somatic components), while wielding a light or one-handed lightsaber in the other hand. As a full-round action, he can make all of his attacks with his melee weapon at a –2 penalty and can also cast any force power with a casting time of 1 standard action (any attack roll made as part of this spell also takes this penalty). If he casts this spell defensively, he can decide to take an additional penalty on his attack rolls, up to his Intelligence bonus, and add the same amount as a circumstance bonus on his concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. A character can choose to cast the spell first or make the weapon attacks first, but if he has more than one attack, he cannot cast the spell between weapon attacks.
+Reduce the two-weapon fighting penalty by 1 (only if you do not use spells), and you learn to cast force powers and wield your lightsaber at the same time. This functions much like two-weapon fighting, but the off-hand weapon is a force power that is being cast. To use this ability, the character must have one hand free (even if the spell being cast does not have somatic components), while wielding a light or one-handed lightsaber in the other hand. As a full-round action (3 AP), he can make all of his attacks with his melee weapon at a –2 penalty and can also cast any force power with a casting time of 1 standard action (1 AP) (any attack roll made as part of this spell also takes this penalty). If he casts this spell defensively, he can decide to take an additional penalty on his attack rolls, up to his Intelligence bonus, and add the same amount as a circumstance bonus on his concentration check. If the check fails, the spell is wasted, but the attacks still take the penalty. A character can choose to cast the spell first or make the weapon attacks first, but if he has more than one attack, he cannot cast the spell between weapon attacks.
 
 **Vapaad Novice:**
 
@@ -228,7 +228,7 @@ Benefit: While using this Style, increase your Strength bonus on lightsaber stri
 
 **Semi-Automatic:** a semi-automatic weapon normally fires one shot as an attack. As a full-attack action, you can fire twice, as if using the Rapid Shot feat (including the –2 penalty on all attacks). If you have Rapid Shot, you can also take its extra shot, but the penalty on all shots that round increases to –6.
 
-**Slow-Firing:** a slow-firing weapon requires a full-round action to fire, so it cannot be used for iterative attacks.
+**Slow-Firing:** a slow-firing weapon requires a full-round action (3 AP) to fire, so it cannot be used for iterative attacks.
 
 **Scatter:** a scatter weapon can fire normal shots at one creature or a scattering shot that attacks all creatures in a cone. Make a separate attack roll against each creature in the cone, each with a –2 penalty; the damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Concealment does not foil a scatter attack. Confirm a critical threat for that attack roll alone.
 
@@ -236,8 +236,8 @@ Benefit: While using this Style, increase your Strength bonus on lightsaber stri
 
 **Recoil X:** whenever you make more than one shot in the same turn (through Rapid Shot, iterative attacks or an automatic weapon), you take a –X penalty on every attack roll after the first. With an automatic weapon, this works out to –1 on your attack for each creature affected. Wielding a one-handed weapon with recoil in two hands reduces the penalty by 1, to a minimum of 0.
 
-**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t apply sneak attack or any other type of precision damage more than once.
+**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (1 AP) (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t apply sneak attack or any other type of precision damage more than once.
 
 **Long Range:** –3 to attack at 30 ft. or less.
 
-**Stun Mode (500 gp):** A purchasable upgrade for any blaster that lets you switch between nonlethal and lethal damage with a swift action.
+**Stun Mode (500 gp):** A purchasable upgrade for any blaster that lets you switch between nonlethal and lethal damage with a swift action (1 AP).

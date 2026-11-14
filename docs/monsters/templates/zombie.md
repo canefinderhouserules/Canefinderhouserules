@@ -68,7 +68,7 @@
 
 **Special Qualities:** A zombie loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A zombie gains the following special quality.
 
-***Staggered (Ex).*** Zombies have poor reflexes and can only perform a single move action or standard action each round. A zombie can move up to its speed and attack in the same round as a charge action. Variant Zombies The typical zombie is a slow-moving abomination that is tough to destroy. Yet this tough zombie is not the only type of zombie to plague crypts or stalk graveyards. Each of the following two variant zombies modifies the base zombie in a few simple ways. Fast Zombie Unlike the standard, plodding zombie, a fast zombie moves with a supernatural quickness.
+***Staggered (Ex).*** Zombies have poor reflexes and can only perform a single move action (1 AP) or standard action (1 AP) each round. A zombie can move up to its speed and attack in the same round as a charge action. Variant Zombies The typical zombie is a slow-moving abomination that is tough to destroy. Yet this tough zombie is not the only type of zombie to plague crypts or stalk graveyards. Each of the following two variant zombies modifies the base zombie in a few simple ways. Fast Zombie Unlike the standard, plodding zombie, a fast zombie moves with a supernatural quickness.
 
 **Speed:** Increase the base creature’s land speed by 10 feet.
 

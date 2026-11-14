@@ -68,6 +68,9 @@ At 15th level, the monk can make three additional attacks using flurry of blows,
 
 A monk applies his full Strength bonus to his damage rolls for all successful attacks made with flurry of blows, whether the attacks are made with an off-hand or with a weapon wielded in both hands. A monk may substitute disarm, sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. A monk cannot use any weapon other than an unarmed strike or a special monk weapon as part of a flurry of blows. A monk with natural weapons cannot use such weapons as part of a flurry of blows, nor can he make natural attacks in addition to his flurry of blows attacks.
 
+??? tip apr "Action Points (optional rule)"
+    Spend 2 AP to make two attacks, both at –2, using your monk level as your base attack bonus. A third attack that turn takes –10. When you spend 1 point from your ki pool for an extra attack, the third attack of the turn takes no penalty instead (it still costs 1 AP).
+
 ### Unarmed Strike
 
 At 1st level, a monk gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. A monk’s attacks may be with fist, elbows, knees, and feet. This means that a monk may make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply his full Strength bonus on damage rolls for all his unarmed strikes.
@@ -120,7 +123,7 @@ A monk of 3rd level or higher gains a +2 bonus on saving throws against enchantm
 
 At 4th level, a monk gains a pool of *ki* points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk’s *ki* pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his *ki* pool, he can make a *ki* strike. At 4th level, *ki* strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction. *Ki* strike improves with the character’s monk level. At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming damage reduction. At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.
 
-By spending 1 point from his *ki* pool, a monk can make one additional attack at his highest attack bonus when making a flurry of blows attack. In addition, he can spend 1 point to increase his base speed by 20 feet for 1 round. Finally, a monk can spend 1 point from his *ki* pool to give himself a +4 dodge bonus to AC for 1 round. Each of these powers is activated as a swift action. A monk gains additional powers that consume points from his *ki* pool as he gains levels.
+By spending 1 point from his *ki* pool, a monk can make one additional attack at his highest attack bonus when making a flurry of blows attack. In addition, he can spend 1 point to increase his base speed by 20 feet for 1 round. Finally, a monk can spend 1 point from his *ki* pool to give himself a +4 dodge bonus to AC for 1 round. Each of these powers is activated as a swift action (1 AP). A monk gains additional powers that consume points from his *ki* pool as he gains levels.
 
 The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive.
 
@@ -130,7 +133,7 @@ At 4th level or higher, a monk within arm’s reach of a wall can use it to slow
 
 ### High Jump (Ex)
 
-At 5th level, a monk adds his level to all [Acrobatics](../../rules/skills/acrobatics.md) checks made to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when making jump checks using Acrobatics. By spending 1 point from his *ki* pool as a swift action, a monk gains a +20 bonus on Acrobatics checks made to jump for 1 round.
+At 5th level, a monk adds his level to all [Acrobatics](../../rules/skills/acrobatics.md) checks made to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when making jump checks using Acrobatics. By spending 1 point from his *ki* pool as a swift action (1 AP), a monk gains a +20 bonus on Acrobatics checks made to jump for 1 round.
 
 ### Purity of Body (Ex)
 
@@ -138,7 +141,7 @@ At 5th level, a monk gains immunity to all diseases, including supernatural and 
 
 ### Wholeness of Body (Su)
 
-At 7th level or higher, a monk can heal his own wounds as a standard action. He can heal a number of hit points of damage equal to his monk level by using 2 points from his *ki* pool.
+At 7th level or higher, a monk can heal his own wounds as a standard action (1 AP). He can heal a number of hit points of damage equal to his monk level by using 2 points from his *ki* pool.
 
 ### Improved Evasion (Ex)
 
@@ -150,7 +153,7 @@ At 11th level, a monk gains immunity to poisons of all kinds.
 
 ### Abundant Step (Su)
 
-At 12th level or higher, a monk can slip magically between spaces, as if using the spell [*dimension door*](../../magic/spells/dimension-door.md). Using this ability is a move action that consumes 2 points from his *ki* pool. His caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.
+At 12th level or higher, a monk can slip magically between spaces, as if using the spell [*dimension door*](../../magic/spells/dimension-door.md). Using this ability is a move action (1 AP) that consumes 2 points from his *ki* pool. His caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.
 
 ### Diamond Soul (Ex)
 
@@ -170,7 +173,7 @@ A monk of 17th level or higher can speak with any living creature.
 
 ### Empty Body (Su)
 
-At 19th level, a monk gains the ability to assume an ethereal state for 1 minute as though using the spell *etherealness.* Using this ability is a move action that consumes 3 points from his *ki* pool. This ability only affects the monk and cannot be used to make other creatures ethereal.
+At 19th level, a monk gains the ability to assume an ethereal state for 1 minute as though using the spell *etherealness.* Using this ability is a move action (1 AP) that consumes 3 points from his *ki* pool. This ability only affects the monk and cannot be used to make other creatures ethereal.
 
 ### Perfect Self
 

@@ -92,7 +92,7 @@ This alters faith.
 
 **Magic Sink (Su)**
 
-At 2nd level, the faithless’ form behaves in such a way that miracles around them are negated. The faithless gains spell resistance equal to 6 + their faithless level. They may lower this spell resistance for one round as a move action.
+At 2nd level, the faithless’ form behaves in such a way that miracles around them are negated. The faithless gains spell resistance equal to 6 + their faithless level. They may lower this spell resistance for one round as a move action (1 AP).
 
 - At 6th level, whenever a creature fails to overcome the faithless’ spell resistance, the faithless gains a single temporary faith point that lasts for one round.
 
@@ -110,9 +110,9 @@ Having studied a wide variety of doctrines and dogmas, generalist disciples have
 
 At 2nd level, the generalist disciple gains the ability to exchange any domains or doctrines they possess for any other domains or doctrines they wish whenever they regain their spells after resting. This causes domain spells to be exchanged as well.
 
-- At 10th level, the generalist disciple may spend two faith points as a full-round action to exchange one domain (and corresponding doctrine) for any one other domain or doctrine.
+- At 10th level, the generalist disciple may spend two faith points as a full-round action (3 AP) to exchange one domain (and corresponding doctrine) for any one other domain or doctrine.
 
-- At 20th level, the generalist disciple no longer needs to spend faith points to change domains and may do so as a swift action rather than a full-round action.
+- At 20th level, the generalist disciple no longer needs to spend faith points to change domains and may do so as a swift action (1 AP) rather than a full-round action.
 
 This alters domains and replaces blessing of the faith and true faith.
 
@@ -188,9 +188,9 @@ Planar envoys commune directly with the otherworldly powers of Heaven, Hell, or 
 
 At 1st level, the planar envoy gains a familiar as a wizard of their class level. In addition, they treat all summon monster spells as domain spells, their effective spell level being equal to their level on the sorcerer/wizard spell list.
 
-- At 4th level, the planar envoy gains [Augment Summoning](../../../rules/feats/augment-summoning.md) as a bonus feat even if they do not meet the prerequisites. In addition, they may spend a faith point as part of casting a summon monster spell to reduce the casting time to a standard action.
+- At 4th level, the planar envoy gains [Augment Summoning](../../../rules/feats/augment-summoning.md) as a bonus feat even if they do not meet the prerequisites. In addition, they may spend a faith point as part of casting a summon monster spell to reduce the casting time to a standard action (1 AP).
 
-- At 8th level, the planar envoy gains [Improved Familiar](../../../rules/feats/improved-familiar.md) as a bonus feat. By spending a faith point as a standard action, the planar envoy may grant their familiar the Guardian Spirit template for a number of minutes equal to their planar envoy level. The effective conjuration spell level for the purpose of determining the effects of the Guardian Spirit template is equal to half the planar envoy’s level.
+- At 8th level, the planar envoy gains [Improved Familiar](../../../rules/feats/improved-familiar.md) as a bonus feat. By spending a faith point as a standard action (1 AP), the planar envoy may grant their familiar the Guardian Spirit template for a number of minutes equal to their planar envoy level. The effective conjuration spell level for the purpose of determining the effects of the Guardian Spirit template is equal to half the planar envoy’s level.
 
 - At 12th level, the planar envoy adds lesser planar binding, planar binding, and greater planar binding to their spell list (as 4th, 6th, and 8th-level spells, respectively). In addition, they may spend a faith point as part of casting any planar binding spell to gain a +2 bonus on Charisma checks or as part of casting any planar ally spell to reduce the cost of payment by 20%.
 
@@ -256,13 +256,13 @@ Among clerics, there are those who employ the power of the divine to twist the c
 
 At 1st level, the undead lord gains Command Undead as a bonus feat, using their Wisdom modifier in place of their Charisma modifier.
 
-With a ritual requiring 8 hours, an undead lord can animate a single skeleton or zombie whose Hit Dice do not exceed their legendary cleric level. This corpse companion automatically follows their commands and does not need to be controlled by them. The undead lord cannot have more than one corpse companion at a time. It does not count against the number of Hit Dice of undead controlled by other methods. At 8th level, the undead lord can use this ability to create a variant skeleton such as a bloody or burning skeleton can dismiss her companion as a standard action, which destroys it.
+With a ritual requiring 8 hours, an undead lord can animate a single skeleton or zombie whose Hit Dice do not exceed their legendary cleric level. This corpse companion automatically follows their commands and does not need to be controlled by them. The undead lord cannot have more than one corpse companion at a time. It does not count against the number of Hit Dice of undead controlled by other methods. At 8th level, the undead lord can use this ability to create a variant skeleton such as a bloody or burning skeleton can dismiss her companion as a standard action (1 AP), which destroys it.
 
 - At 4th level, the undead lord gains darkvision out to 60 feet and may spend a faith point to gain a profane bonus to a saving throw against a channeled energy effect, mind-affecting effect, death effect, disease, paralysis, poison, sleep effect, fatigue, exhaustion, or stunning effect. This profane bonus is equal to half their legendary cleric level.
 
 - At 8th level, when using the animate dead spell, a necromantic adept can control 6 HD worth of undead creatures per caster level rather than 4 HD.
 
-- At 12th level, The undead lord may expend a faith point as a swift action to exude an aura of negative energy in a 30-foot radius for 1 minute. This aura functions as the spell desecrate and uses the undead lord as an altar of sorts to double the effects granted. The undead lord gains the benefits of this effect as if they were undead (but does not gain bonus hit points). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a [cleric’s channel energy](../cleric.md#channel-energy-su) ability, a [paladin’s lay on hands](../paladin.md#lay-on-hands-su), or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the undead lord’s cleric level + the undead lord’s Wisdom modifier. If the character fails, the effect is expended but does not function.
+- At 12th level, The undead lord may expend a faith point as a swift action (1 AP) to exude an aura of negative energy in a 30-foot radius for 1 minute. This aura functions as the spell desecrate and uses the undead lord as an altar of sorts to double the effects granted. The undead lord gains the benefits of this effect as if they were undead (but does not gain bonus hit points). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a [cleric’s channel energy](../cleric.md#channel-energy-su) ability, a [paladin’s lay on hands](../paladin.md#lay-on-hands-su), or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the undead lord’s cleric level + the undead lord’s Wisdom modifier. If the character fails, the effect is expended but does not function.
 
 - At 16th level, the undead lord may spend a faith point when casting animate dead, lesser animate dead, create undead, or create greater undead to ignore any material components for the spell.
 

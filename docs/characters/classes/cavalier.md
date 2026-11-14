@@ -51,7 +51,7 @@ Cavaliers are proficient with all simple and [martial weapons](../../equipment/w
 
 ### Challenge (Ex)
 
-Once per day, a cavalier can challenge a foe to combat. As a swift action, the cavalier chooses one target within sight to challenge. The cavalier’s melee attacks deal extra damage whenever the attacks are made against the target of his challenge. This extra damage is equal to the cavalier’s level. The cavalier can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level.
+Once per day, a cavalier can challenge a foe to combat. As a swift action (1 AP), the cavalier chooses one target within sight to challenge. The cavalier’s melee attacks deal extra damage whenever the attacks are made against the target of his challenge. This extra damage is equal to the cavalier’s level. The cavalier can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level.
 
 Challenging a foe requires much of the cavalier’s concentration. The cavalier takes a –2 penalty to his Armor Class, except against attacks made by the target of his challenge.
 
@@ -73,7 +73,7 @@ A cavalier cannot change his order without undertaking a lengthy process to dedi
 
 ### Tactician (Ex)
 
-At 1st level, a cavalier receives a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action, the cavalier can grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two levels the cavalier possesses. Allies do not need to meet the prerequisites of these bonus feats.
+At 1st level, a cavalier receives a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action (1 AP), the cavalier can grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two levels the cavalier possesses. Allies do not need to meet the prerequisites of these bonus feats.
 
 The cavalier can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels thereafter.
 
@@ -97,7 +97,7 @@ At 6th level, and at every six levels thereafter, a cavalier gains a bonus feat 
 
 ### Greater Tactician (Ex)
 
-At 9th level, the cavalier receives an additional teamwork feat as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Using the tactician ability is a swift action.
+At 9th level, the cavalier receives an additional teamwork feat as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Using the tactician ability is a swift action (1 AP).
 
 ### Mighty Charge (Ex)
 
@@ -109,7 +109,7 @@ At 12th level, whenever a cavalier declares a challenge, his target must pay att
 
 ### Greater Banner (Ex)
 
-At 14th level, the cavalier’s banner becomes a rallying call to his allies. All allies within 60 feet receive a +2 morale bonus on saving throws against charm and compulsion spells and effects. In addition, while his banner is displayed, the cavalier can spend a standard action to wave the banner through the air, granting all allies within 60 feet an additional saving throw against any one spell or effect that is targeting them. This save is made at the original DC. Spells and effects that do not allow saving throws are unaffected by this ability. An ally cannot benefit from this ability more than once per day.
+At 14th level, the cavalier’s banner becomes a rallying call to his allies. All allies within 60 feet receive a +2 morale bonus on saving throws against charm and compulsion spells and effects. In addition, while his banner is displayed, the cavalier can spend a standard action (1 AP) to wave the banner through the air, granting all allies within 60 feet an additional saving throw against any one spell or effect that is targeting them. This save is made at the original DC. Spells and effects that do not allow saving throws are unaffected by this ability. An ally cannot benefit from this ability more than once per day.
 
 ### Master Tactician (Ex)
 
@@ -135,7 +135,7 @@ A cavalier who belongs to this order serves only himself, working to further his
 
 **Order Abilities**: A cavalier that belongs to the order of the cockatrice gains the following abilities as he increases in level.
 
-**Braggart (Ex)**: At 2nd level, the cavalier can spend a standard action to extol his own accomplishments and battle prowess. He receives [Dazzling Display](../../rules/feats/dazzling-display.md) as a bonus feat. He does not need a weapon in hand to use this ability. The cavalier receives a +2 morale bonus on melee attack rolls made against demoralized targets.
+**Braggart (Ex)**: At 2nd level, the cavalier can spend a standard action (1 AP) to extol his own accomplishments and battle prowess. He receives [Dazzling Display](../../rules/feats/dazzling-display.md) as a bonus feat. He does not need a weapon in hand to use this ability. The cavalier receives a +2 morale bonus on melee attack rolls made against demoralized targets.
 
 **Steal Glory (Ex)**: At 8th level, the cavalier can steal the glory from another creature’s successful strike. Whenever a creature other than the cavalier scores a critical hit against a target that the cavalier is threatening, he can make an attack of opportunity against the same target.
 
@@ -155,9 +155,9 @@ Cavaliers belonging to the order of the dragon dedicate themselves to a group of
 
 **Aid Allies (Ex)**: At 2nd level, whenever an order of the dragon cavalier uses the aid another action to assist one of his allies, the ally receives a +3 bonus to his Armor Class, attack roll, saving throw, or skill check. At 8th level, and every six levels thereafter, this bonus increases by an additional +1.
 
-**Strategy (Ex)**: At 8th level, the cavalier can spend a standard action to grant one of a number of bonuses to all allies within 30 feet (including himself ). The allies must be able to see or hear the cavalier to receive this bonus. The cavalier can grant a +2 dodge bonus to AC for 1 round, a +2 morale bonus on all attack rolls for 1 round, or the ability to move up to their speed as an immediate action once. The cavalier can grant a different bonus to each ally within range, but allies can only benefit from this ability once per combat.
+**Strategy (Ex)**: At 8th level, the cavalier can spend a standard action (1 AP) to grant one of a number of bonuses to all allies within 30 feet (including himself ). The allies must be able to see or hear the cavalier to receive this bonus. The cavalier can grant a +2 dodge bonus to AC for 1 round, a +2 morale bonus on all attack rolls for 1 round, or the ability to move up to their speed as an immediate action (1 AP of your next turn) once. The cavalier can grant a different bonus to each ally within range, but allies can only benefit from this ability once per combat.
 
-**Act as One (Ex)**: At 15th level, the cavalier can spend a standard action to move up to his speed and make a melee attack. All allies within 30 feet can also move up to their speed and make a melee attack as an immediate action. This movement and attack can be made as a charge if the movement qualifies. All attacks are made at a +2 bonus (this stacks with the bonus from a charge) and all participants receive a +2 dodge bonus to their AC for 1 round. A cavalier can use this ability once per combat.
+**Act as One (Ex)**: At 15th level, the cavalier can spend a standard action (1 AP) to move up to his speed and make a melee attack. All allies within 30 feet can also move up to their speed and make a melee attack as an immediate action (1 AP of your next turn). This movement and attack can be made as a charge if the movement qualifies. All attacks are made at a +2 bonus (this stacks with the bonus from a charge) and all participants receive a +2 dodge bonus to their AC for 1 round. A cavalier can use this ability once per combat.
 
 ### Order of the Eclipse
 
@@ -191,11 +191,11 @@ A cavalier who belongs to this order has pledged himself to a sovereign; be it a
 
 **Order Abilities**: A cavalier belonging to the order of the lion gains the following abilities as he increases in level.
 
-**Lion’s Call (Ex)**: At 2nd level, an order of the lion cavalier gains the ability to rally his allies. As a standard action, he can give an encouraging speech which grants all allies within 60 feet a competence bonus on their saving throws against fear equal to his Charisma modifier and a +1 competence bonus on attack rolls for a number of rounds equal to his cavalier level. If an ally within range is under the effect of a spell or ability that causes him to be [frightened](../../rules/appendices/conditions.md#frightened) or [panicked](../../rules/appendices/conditions.md#panicked), he can immediately make another saving throw to resist the effect (if allowed).
+**Lion’s Call (Ex)**: At 2nd level, an order of the lion cavalier gains the ability to rally his allies. As a standard action (1 AP), he can give an encouraging speech which grants all allies within 60 feet a competence bonus on their saving throws against fear equal to his Charisma modifier and a +1 competence bonus on attack rolls for a number of rounds equal to his cavalier level. If an ally within range is under the effect of a spell or ability that causes him to be [frightened](../../rules/appendices/conditions.md#frightened) or [panicked](../../rules/appendices/conditions.md#panicked), he can immediately make another saving throw to resist the effect (if allowed).
 
-**For the King (Ex)**: At 8th level, an order of the lion cavalier can call out to his allies, inspiring them to greatness. As a swift action, the cavalier can grant a competence bonus equal to his Charisma modifier on all attack and damage rolls to all allies within 30 feet. This bonus lasts for 1 round. This ability can be used once per combat.
+**For the King (Ex)**: At 8th level, an order of the lion cavalier can call out to his allies, inspiring them to greatness. As a swift action (1 AP), the cavalier can grant a competence bonus equal to his Charisma modifier on all attack and damage rolls to all allies within 30 feet. This bonus lasts for 1 round. This ability can be used once per combat.
 
-**Shield of the Liege (Ex)**: At 15th level, an order of the lion cavalier can protect those around him. Allies that are adjacent to the cavalier receive a +2 shield bonus to their AC. In addition, as an immediate action, the cavalier can redirect an attack made at a creature adjacent to himself, as long as the creature making the attack is within the cavalier’s reach. This ability must be declared before the attack roll is made. The attack is made against the cavalier’s AC and defenses, even if the creature could not normally reach or attack the cavalier. The cavalier loses any cover or concealment bonuses when subject to the redirected attack.
+**Shield of the Liege (Ex)**: At 15th level, an order of the lion cavalier can protect those around him. Allies that are adjacent to the cavalier receive a +2 shield bonus to their AC. In addition, as an immediate action (1 AP of your next turn), the cavalier can redirect an attack made at a creature adjacent to himself, as long as the creature making the attack is within the cavalier’s reach. This ability must be declared before the attack roll is made. The attack is made against the cavalier’s AC and defenses, even if the creature could not normally reach or attack the cavalier. The cavalier loses any cover or concealment bonuses when subject to the redirected attack.
 
 ### Order of the Saddle
 
@@ -233,7 +233,7 @@ Cavaliers who join the order of the shield devote their lives to protecting the 
 
 **Stem the Tide (Ex)**: At 8th level, the cavalier receives [Stand Still](../../rules/feats/stand-still.md) as a bonus feat, even if he does not meet the prerequisites. Instead of making a combat maneuver check to stop the creature from moving, a cavalier with this ability can elect to make a normal attack instead. If the attack hits and deals damage, the target must stop moving, just as if the cavalier had made a successful combat maneuver check.
 
-**Protect the Meek (Ex)**: At 15th level, the cavalier can move to intercept foes. As an immediate action, he can move up to his speed (or his mount’s speed, if mounted) and make a single melee attack. This movement provokes attacks of opportunity as normal. The cavalier must end his movement adjacent to an enemy. On his next turn, the cavalier is staggered and cannot use this ability again for 1 round.
+**Protect the Meek (Ex)**: At 15th level, the cavalier can move to intercept foes. As an immediate action (1 AP of your next turn), he can move up to his speed (or his mount’s speed, if mounted) and make a single melee attack. This movement provokes attacks of opportunity as normal. The cavalier must end his movement adjacent to an enemy. On his next turn, the cavalier is staggered and cannot use this ability again for 1 round.
 
 ### Order of the Star
 
@@ -247,7 +247,7 @@ Cavaliers who join the order of the star dedicate themselves to the protection a
 
 **Order Abilities**: An order of the star cavalier gains the following abilities as he increases in level.
 
-**Calling (Ex)**: At 2nd level, the cavalier can make a short prayer as a standard action, filling him with confidence in his abilities. At any point in the next minute, he can receive a competence bonus on an ability check, attack roll, saving throw, or skill check equal to his Charisma modifier. He must declare that he is using this bonus before the roll is made. He can use this ability up to four times per day, once for each type of check or roll. In addition, the cavalier adds 1/2 his cavalier level to any levels of paladin or cleric he might possess for the purposes of determining the effects of channel energy or lay on hands.
+**Calling (Ex)**: At 2nd level, the cavalier can make a short prayer as a standard action (1 AP), filling him with confidence in his abilities. At any point in the next minute, he can receive a competence bonus on an ability check, attack roll, saving throw, or skill check equal to his Charisma modifier. He must declare that he is using this bonus before the roll is made. He can use this ability up to four times per day, once for each type of check or roll. In addition, the cavalier adds 1/2 his cavalier level to any levels of paladin or cleric he might possess for the purposes of determining the effects of channel energy or lay on hands.
 
 **For the Faith (Ex)**: At 8th level, the cavalier can call upon his faith to bolster himself in combat. As a free action, the cavalier can call out the name of his deity, granting him a morale bonus on attack rolls equal to his Charisma modifier for 1 round. In addition, any allies within 30 feet that share his faith also receive half this bonus (minimum +1). The cavalier can use this ability once per day, plus one additional time per day at 12th level and every four levels thereafter.
 
@@ -307,7 +307,7 @@ Cavaliers of this order seek out and destroy undead and those who harbor or crea
 
 **Order Abilities**: A cavalier belonging to the order of the shroud gains the following abilities as he increases in level.
 
-**Spiritual Shield (Su)**: At 2nd level, the cavalier can call upon the spirits of the fallen for protection. Once per day as an immediate action when attacked by an undead target of his challenge, the cavalier can gain a deflection bonus equal to his Charisma modifier to his AC against that attack. The cavalier must decide to use this ability before the attack roll.
+**Spiritual Shield (Su)**: At 2nd level, the cavalier can call upon the spirits of the fallen for protection. Once per day as an immediate action (1 AP of your next turn) when attacked by an undead target of his challenge, the cavalier can gain a deflection bonus equal to his Charisma modifier to his AC against that attack. The cavalier must decide to use this ability before the attack roll.
 
 **Destroyer of the Undead (Su)**: At 8th level, the cavalier’s weapons are treated as having the cavalier’s alignment for the purpose of overcoming the damage reduction of undead creatures. Against an undead target of his challenge, the cavalier automatically overcomes all damage reduction that undead possesses.
 
@@ -365,7 +365,7 @@ Cavaliers belonging to the order of the asp belong to a cutthroat group where ru
 
 **Command the Meek (Ex)**: At 8th level, the cavalier treats all of her allies with the shaken condition as though they had the same teamwork feats as the cavalier for the purpose of determining whether the cavalier receives a bonus from her teamwork feats. Her allies do not receive any bonuses from these feats unless they actually have the feats themselves. The allies’ positioning and actions must still meet the prerequisites listed in the teamwork feat for the cavalier to receive the listed bonus. When the cavalier uses tactician, greater tactician, or mighty tactician, the duration doubles for any creatures that have no more than half the cavalier’s Hit Dice or that have the shaken condition when she activates the ability.
 
-**Better You Than Me (Ex)**: At 15th level, the cavalier can interpose an adjacent ally in the way of an incoming attack as an immediate action, gaining cover against the attack. The attack must target only the cavalier, and she must choose to use this ability before seeing the result of the attack roll. The ally must have the shaken condition or have no more than half the Hit Dice of the cavalier, and the ally gains a Reflex save to negate this ability’s effect entirely (DC = 10 + half the cavalier’s level + the higher of her Strength modifier or Charisma modifier). If the attack hits, the damage is split evenly between the cavalier and the ally. If the ally’s save was a natural 1, the ally takes all of the damage, including any associated effects (bleed, poison, etc.). An ally can purposefully fail this saving throw, but cannot purposefully roll a natural 1.
+**Better You Than Me (Ex)**: At 15th level, the cavalier can interpose an adjacent ally in the way of an incoming attack as an immediate action (1 AP of your next turn), gaining cover against the attack. The attack must target only the cavalier, and she must choose to use this ability before seeing the result of the attack roll. The ally must have the shaken condition or have no more than half the Hit Dice of the cavalier, and the ally gains a Reflex save to negate this ability’s effect entirely (DC = 10 + half the cavalier’s level + the higher of her Strength modifier or Charisma modifier). If the attack hits, the damage is split evenly between the cavalier and the ally. If the ally’s save was a natural 1, the ally takes all of the damage, including any associated effects (bleed, poison, etc.). An ally can purposefully fail this saving throw, but cannot purposefully roll a natural 1.
 
 ### Order of the Hammer
 
@@ -383,7 +383,7 @@ Cavaliers of the order of the hammer respect might over all, and believe that th
 
 **Crushing Grapple (Ex)**: At 8th level, the cavalier gains Chokehold as a bonus feat, even if she does not meet the prerequisites. She does not take the –5 penalty on grapple checks to put an opponent in a chokehold.
 
-**Inspiring Flex (Ex)**: At 15th level, the cavalier can display her own brawn to inspire greater strength in her allies. As a standard action, she can grant herself and any allies within 30 feet a +4 morale bonus on melee attack rolls, combat maneuver checks, Fortitude saves, and Strength checks. The cavalier can maintain her inspiring flex as a free action, and she can use this ability for a number of rounds per day equal to 1/2 her cavalier level; this duration need not be continuous.
+**Inspiring Flex (Ex)**: At 15th level, the cavalier can display her own brawn to inspire greater strength in her allies. As a standard action (1 AP), she can grant herself and any allies within 30 feet a +4 morale bonus on melee attack rolls, combat maneuver checks, Fortitude saves, and Strength checks. The cavalier can maintain her inspiring flex as a free action, and she can use this ability for a number of rounds per day equal to 1/2 her cavalier level; this duration need not be continuous.
 
 ### Order of the Iron Decree
 
@@ -397,11 +397,11 @@ Cavaliers of this order have joined a knightly crusade against chaos, adopting a
 
 **Order Abilities**: A cavalier belonging to the order of the iron decree gains the following abilities as he increases in level.
 
-**Oppress (Sp)**: At 2nd level, when the cavalier deals damage to an opponent with his hell knight order's favored weapon, as a swift action he learns whether that creature's alignment is chaotic, as if he had cast [*detect chaos*](../../magic/spells/detect-chaos.md) and studied the creature for 3 rounds. If he learns that the creature is chaotic, he gains a +1 morale bonus on attack rolls against it. This bonus does not stack with itself, but does stack with the bonus from his challenge.
+**Oppress (Sp)**: At 2nd level, when the cavalier deals damage to an opponent with his hell knight order's favored weapon, as a swift action (1 AP) he learns whether that creature's alignment is chaotic, as if he had cast [*detect chaos*](../../magic/spells/detect-chaos.md) and studied the creature for 3 rounds. If he learns that the creature is chaotic, he gains a +1 morale bonus on attack rolls against it. This bonus does not stack with itself, but does stack with the bonus from his challenge.
 
-**Subjugate (Ex)**: At 8th level, whenever the cavalier confirms a critical hit with a melee weapon against a chaotic creature with an Intelligence score of 3 or higher, or against a creature he has witnessed committing a crime within the past hour, he adds his Charisma modifier to the total critical hit damage. If the critical hit kills the creature or renders it unconscious, as an immediate action he can attempt an Intimidate check to demoralize all foes within 15 feet who can see him. This ability can be used only once per combat.
+**Subjugate (Ex)**: At 8th level, whenever the cavalier confirms a critical hit with a melee weapon against a chaotic creature with an Intelligence score of 3 or higher, or against a creature he has witnessed committing a crime within the past hour, he adds his Charisma modifier to the total critical hit damage. If the critical hit kills the creature or renders it unconscious, as an immediate action (1 AP of your next turn) he can attempt an Intimidate check to demoralize all foes within 15 feet who can see him. This ability can be used only once per combat.
 
-**Hand of the Law (Ex)**: At 15th level, the cavalier can declare himself an enforcer of martial law as a swift action. For a number of rounds equal to his Charisma modifier, he can ignore difficult terrain and gains an additional +2 bonus on attack rolls while charging. Any creatures he demoralizes while this ability is in effect are shaken for a number of additional rounds equal to his Charisma modifier. Additionally, when these creatures attack him, attempt saving throws against his abilities, or attempt opposed skill checks against him, they take a –3 penalty for being shaken (instead of –2). He can use this ability only once per combat.
+**Hand of the Law (Ex)**: At 15th level, the cavalier can declare himself an enforcer of martial law as a swift action (1 AP). For a number of rounds equal to his Charisma modifier, he can ignore difficult terrain and gains an additional +2 bonus on attack rolls while charging. Any creatures he demoralizes while this ability is in effect are shaken for a number of additional rounds equal to his Charisma modifier. Additionally, when these creatures attack him, attempt saving throws against his abilities, or attempt opposed skill checks against him, they take a –3 penalty for being shaken (instead of –2). He can use this ability only once per combat.
 
 ## Favored Class Bonuses
 

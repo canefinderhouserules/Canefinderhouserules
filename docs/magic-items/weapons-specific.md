@@ -93,7 +93,7 @@ This is a +1 flaming burst longsword. Once per day, the sword can blast forth a 
 **Aura** strong evocation; **CL** 14th  
 **Slot** none; **Price** 54,475 gp; **Weight** 8 lbs.
 
-This +3 frost greatsword sheds light as a torch when the temperature drops below 0° F. At such times it cannot be concealed when drawn, nor can its light be shut off. Its wielder is protected from fire; the sword absorbs the first 10 points of fire damage each round that the wielder would otherwise take. A frost brand extinguishes all nonmagical fires in a 20-foot radius. As a standard action, it can also dispel lasting fire spells, but not instantaneous effects. You must succeed on a dispel check (1d20 +14) against each spell to dispel it. The DC to dispel such spells is 11 + the caster level of the fire spell.
+This +3 frost greatsword sheds light as a torch when the temperature drops below 0° F. At such times it cannot be concealed when drawn, nor can its light be shut off. Its wielder is protected from fire; the sword absorbs the first 10 points of fire damage each round that the wielder would otherwise take. A frost brand extinguishes all nonmagical fires in a 20-foot radius. As a standard action (1 AP), it can also dispel lasting fire spells, but not instantaneous effects. You must succeed on a dispel check (1d20 +14) against each spell to dispel it. The DC to dispel such spells is 11 + the caster level of the fire spell.
 
 **Requirements** Craft Magic Arms and Armor, ice storm, dispel magic, protection from energy; **Cost** 27,375 gp and 5 sp
 
@@ -104,7 +104,7 @@ This +3 frost greatsword sheds light as a torch when the temperature drops below
 
 This +2 cold iron longsword becomes a +5 holy cold iron longsword in the hands of a paladin.
 
-This sacred weapon provides spell resistance of 5 + the paladin’s level to the wielder and anyone adjacent to her. It also enables the paladin to use greater dispel magic (once per round as a standard action) at the class level of the paladin. Only the area dispel is possible, not the targeted dispel or counterspell versions of greater dispel magic.
+This sacred weapon provides spell resistance of 5 + the paladin’s level to the wielder and anyone adjacent to her. It also enables the paladin to use greater dispel magic (once per round as a standard action (1 AP)) at the class level of the paladin. Only the area dispel is possible, not the targeted dispel or counterspell versions of greater dispel magic.
 
 **Requirements** Craft Magic Arms and Armor, holy aura, creator must be good; **Cost** 60,630 gp
 

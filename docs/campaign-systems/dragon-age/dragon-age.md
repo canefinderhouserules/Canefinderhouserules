@@ -46,7 +46,7 @@ Dispel (Su): As Dispel Magic but you use double your Templar lvl instead of your
 
 Master Dispeler (Su): +1 to dispel check at lvl 3, and every 2 lvls after.
 
-Immediate Dispel (Su): can use dispel as an immediate action, instead of a standard.
+Immediate Dispel (Su): can use dispel as an immediate action (1 AP of your next turn), instead of a standard.
 
 Spell Resistance (Su): You gain 5 + double your templar level as Spell Resistance.
 

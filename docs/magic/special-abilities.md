@@ -4,7 +4,7 @@ A number of classes and creatures gain the use of special abilities, many of whi
 
 **Spell-Like Abilities**: Usually, a spell-like ability works just like the spell of that name. A spell-like ability has no verbal, somatic, or material component, nor does it require a focus. The user activates it mentally. Armor never affects a spell-like ability’s use, even if the ability resembles an arcane spell with a somatic component.
 
-A spell-like ability has a casting time of 1 standard action unless noted otherwise in the ability or spell description. In all other ways, a spell-like ability functions just like a spell.
+A spell-like ability has a casting time of 1 standard action (1 AP) unless noted otherwise in the ability or spell description. In all other ways, a spell-like ability functions just like a spell.
 
 Spell-like abilities are subject to spell resistance and *dispel magic*. They do not function in areas where magic is suppressed or negated. Spell-like abilities cannot be used to counterspell, nor can they be counterspelled.
 

@@ -68,13 +68,13 @@ A shifter speaks Druidic, a secret language known only to druids and shifters, w
 
 ### Shifter Aspect (Su)
 
-At 1st level, a shifter gains her first aspect—a category of animal to which her body and soul have become supernaturally attuned. She can shift into her aspect’s minor form (see Aspects) for a number of minutes per day equal to 3 + her shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a minor form is a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. Until a shifter reaches 9th level and gains the chimeric aspect class feature, she can assume only one minor form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all minor forms currently manifested. The minor forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a minor form while affected by polymorph effects.
+At 1st level, a shifter gains her first aspect—a category of animal to which her body and soul have become supernaturally attuned. She can shift into her aspect’s minor form (see Aspects) for a number of minutes per day equal to 3 + her shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a minor form is a swift action (1 AP), while ending the effect is a free action that can be taken only on the shifter’s turn. Until a shifter reaches 9th level and gains the chimeric aspect class feature, she can assume only one minor form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all minor forms currently manifested. The minor forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a minor form while affected by polymorph effects.
 
 As the shifter gains levels, she gains more aspects; she gains her second aspect at 5th level, a third aspect at 10th level, and a fourth at 15th level. Aspects are detailed in their own section.
 
 ### Shifter Claws (Su)
 
-At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
+At will, a shifter in her natural form can extend her claws as a swift action (1 AP) to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
 
 As the shifter gains levels, the power of her claws increases. At 3rd level, her claws ignore DR/cold iron and DR/silver. At 7th level, her claw damage increases to 1d6 (1d4 if Small). At 11th level, her claw damage increases to 1d8 (1d6 if Small). At 13th level, her claw damage increases to 1d10 (1d8 if Small). At 17th level, the damage die does not increase, but the critical multiplier becomes ×3. Lastly, at 19th level, the claws ignore DR/adamantine and DR/—.
 
@@ -104,7 +104,7 @@ At 3rd level, a shifter can move through any sort of undergrowth (such as briars
 
 ### Wild Shape (Su)
 
-At 4th level, a shifter gains the ability to turn herself into the major form of one of her aspects and back again once per day. This ability functions as beast shape II, except as noted here. The shifter can turn into the major form of only one of her aspects at a time. The effect lasts for 1 hour per shifter level or until she changes back. Using wild shape to change to a major form or back is a standard action that doesn’t provoke attacks of opportunity. Often a particular aspect’s major form grants abilities beyond the normal effect of beast shape II. Each major form details the abilities the shifter gains with that major form and at what level; she gains these instead of the form abilities from beast shape II, but she still gains beast shape II abilities that are size dependent.
+At 4th level, a shifter gains the ability to turn herself into the major form of one of her aspects and back again once per day. This ability functions as beast shape II, except as noted here. The shifter can turn into the major form of only one of her aspects at a time. The effect lasts for 1 hour per shifter level or until she changes back. Using wild shape to change to a major form or back is a standard action (1 AP) that doesn’t provoke attacks of opportunity. Often a particular aspect’s major form grants abilities beyond the normal effect of beast shape II. Each major form details the abilities the shifter gains with that major form and at what level; she gains these instead of the form abilities from beast shape II, but she still gains beast shape II abilities that are size dependent.
 
 A shifter loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal of that form can make, but she can communicate with other animals of the same general grouping as her form. She can also communicate in nonverbal ways with allies.
 
@@ -276,7 +276,7 @@ The octopus is a cunning hunter, able to contort its malleable body with ease.
 
 **Major Form**: Your shape changes to that of an octopus. While in this form, you gain the aquatic subtype, a swim speed of 30 feet, low-light vision, a bite attack (1d3), a tentacles attack (no damage) with the grab ability, and Multiattack as a bonus feat. At 8th level, you gain the jet ability (200 feet). At 15th level, you gain the ability to produce an ink cloud and deal an amount of bludgeoning damage with your tentacles attack equal to the damage dealt by your shifter claws.
 
-**Ink Cloud (Ex)**: While within water, you can emit a 10-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
+**Ink Cloud (Ex)**: While within water, you can emit a 10-foot-radius sphere of ink once per minute as a swift action (1 AP). This ink provides total concealment and persists for 1 minute.
 
 ### Owl
 

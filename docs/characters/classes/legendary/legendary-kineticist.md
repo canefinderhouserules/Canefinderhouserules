@@ -56,7 +56,7 @@ At 1st level, a legendary kineticist chooses one primary element on which to foc
 
 #### Wild Talents
 
-A legendary kineticist can use wild talents – magical abilities similar to spells but drawn from the legendary kineticist’s innate psychic talent and usable at will. Wild talents are typically spell-like abilities (though some are supernatural abilities), and take a standard action to use unless otherwise noted.
+A legendary kineticist can use wild talents – magical abilities similar to spells but drawn from the legendary kineticist’s innate psychic talent and usable at will. Wild talents are typically spell-like abilities (though some are supernatural abilities), and take a standard action (1 AP) to use unless otherwise noted.
 
 A wild talent always has the elemental descriptor or descriptors matching its element entry. A wild talent that can be used with any of several elements gains the appropriate elemental descriptor when used with an element. For example, the wall wild talent gains the earth descriptor when used by a geokineticist.
 
@@ -78,7 +78,7 @@ This limit rises to 2 points of burn at 6th level, and rises by 1 additional poi
 
 At 1st level, a legendary kineticist gains a kinetic blast wild talent of their choice. This kinetic blast must be a simple blast that matches their element.
 
-As a standard action, the legendary kineticist can unleash a kinetic blast at a single target up to a range of 30 feet. they must have at least one hand free to aim the blast (or one prehensile appendage, if they don’t have hands). All damage from a kinetic blast is treated as magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the purpose of feats such as Weapon Focus. The legendary kineticist is never considered to be wielding or gripping the kinetic blast (regardless of effects from form infusions), and they can’t use [Vital Strike](../../../rules/feats/vital-strike.md) feats with kinetic blasts. Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms).
+As a standard action (1 AP), the legendary kineticist can unleash a kinetic blast at a single target up to a range of 30 feet. they must have at least one hand free to aim the blast (or one prehensile appendage, if they don’t have hands). All damage from a kinetic blast is treated as magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the purpose of feats such as Weapon Focus. The legendary kineticist is never considered to be wielding or gripping the kinetic blast (regardless of effects from form infusions), and they can’t use [Vital Strike](../../../rules/feats/vital-strike.md) feats with kinetic blasts. Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms).
 
 A readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its descriptor.
 
@@ -90,7 +90,7 @@ All kinetic blasts exude a magical aura which allows them to be detected as if t
 
 #### Gather Power (Su)
 
-If they have one hand free (or one of their prehensile appendages free, for unusual legendary kineticists) a legendary kineticist can gather energy or elemental matter as a move action. Gathering power creates an extremely loud, visible display in a 20-foot radius centered on the legendary kineticist, as the energy or matter swirls around them. Gathering power in this way allows the legendary kineticist to reduce the total burn cost of a kinetic blast (including metakinesis) they use in the same round by 1 point. The legendary kineticist can instead gather power for 1 full round in order to reduce the total burn cost of a kinetic blast used on their next turn by 2 points (to a minimum of 0 points). If they do so, they can also gather power as a move action during their next turn to reduce the burn cost by a total of 3 points. If the legendary kineticist takes damage during or after gathering power and before using the kinetic blast that releases it, they must succeed at a concentration check (DC = 10 + damage taken + effective spell level of their kinetic blast) or lose the energy in a wild surge that forces them to accept a number of points of burn equal to the number of points by which their gathered power would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 points.
+If they have one hand free (or one of their prehensile appendages free, for unusual legendary kineticists) a legendary kineticist can gather energy or elemental matter as a move action (1 AP). Gathering power creates an extremely loud, visible display in a 20-foot radius centered on the legendary kineticist, as the energy or matter swirls around them. Gathering power in this way allows the legendary kineticist to reduce the total burn cost of a kinetic blast (including metakinesis) they use in the same round by 1 point. The legendary kineticist can instead gather power for 1 full round in order to reduce the total burn cost of a kinetic blast used on their next turn by 2 points (to a minimum of 0 points). If they do so, they can also gather power as a move action (1 AP) during their next turn to reduce the burn cost by a total of 3 points. If the legendary kineticist takes damage during or after gathering power and before using the kinetic blast that releases it, they must succeed at a concentration check (DC = 10 + damage taken + effective spell level of their kinetic blast) or lose the energy in a wild surge that forces them to accept a number of points of burn equal to the number of points by which their gathered power would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 points.
 
 #### Infusion (Su)
 
@@ -136,7 +136,7 @@ At 5th level, whenever a legendary kineticist uses one or more infusions with a 
 
 At 5th level, a legendary kineticist gains the ability to alter their kinetic blasts as if with metamagic feats by accepting burn. By accepting 1 point of burn, they can empower their kinetic blast (as if using [Empower Spell](../../../rules/feats/empower-spell.md)). At 9th level, by accepting 2 points of burn, if a foe makes a successful save against their kinetic blast, they can force their foe to make a second save against their kinetic blast as if using [Persistent Spell](../../../rules/feats/persistent-spell.md). At 13th level, by accepting 3 points of burn, they can quicken their kinetic blast as if using [Quicken Spell](../../../rules/feats/quicken-spell.md).
 
-At 17th level, by accepting 4 points of burn, the legendary kineticist can use their kinetic blast twice with the same standard action, or swift action if they also use metakinesis to quicken the blast.
+At 17th level, by accepting 4 points of burn, the legendary kineticist can use their kinetic blast twice with the same standard action (1 AP), or swift action (1 AP) if they also use metakinesis to quicken the blast.
 
 When they use a double kinetic blast, all modifications, such as metakinesis and infusions, apply to both of the blasts, but the legendary kineticist needs to pay the burn cost only once.
 
@@ -156,7 +156,7 @@ At 7th level, a legendary kineticist’s study of their body and the elemental f
 
 #### Supercharge (Su)
 
-At 11th level, when using gather power as a move action, a legendary kineticist can reduce the total burn cost of a single wild talent by 2 points instead of 1. When using gather power for 1 full round, they can reduce the burn cost of a single wild talent by 3 points instead of 2. In addition, a legendary kineticist can use this ability as a swift action to reduce the total burn cost of a single wild talent by 1 point.
+At 11th level, when using gather power as a move action (1 AP), a legendary kineticist can reduce the total burn cost of a single wild talent by 2 points instead of 1. When using gather power for 1 full round, they can reduce the burn cost of a single wild talent by 3 points instead of 2. In addition, a legendary kineticist can use this ability as a swift action (1 AP) to reduce the total burn cost of a single wild talent by 1 point.
 
 #### Composite Specialization (Su)
 
@@ -168,7 +168,7 @@ At 19th level, a legendary kineticist chooses one type of metakinesis, such as e
 
 #### Omnikinesis (Su)
 
-At 20th level, a legendary kineticist transcends the distinction between the different elements and can bend all creation to their will. By accepting 1 point of burn (in addition to any burn requirement of the kinetic blast they choose), they can use any kinetic blast they don’t know. By accepting 1 point of burn as a standard action (except for battle burn), they can change any of their wild talents into any other wild talent of the same category (such as simple blasts or defense) for 24 hours, ignoring any elemental requirements or restrictions (but not any other requirements or restrictions).
+At 20th level, a legendary kineticist transcends the distinction between the different elements and can bend all creation to their will. By accepting 1 point of burn (in addition to any burn requirement of the kinetic blast they choose), they can use any kinetic blast they don’t know. By accepting 1 point of burn as a standard action (1 AP) (except for battle burn), they can change any of their wild talents into any other wild talent of the same category (such as simple blasts or defense) for 24 hours, ignoring any elemental requirements or restrictions (but not any other requirements or restrictions).
 
 ### Variant Multiclass Option
 
@@ -182,7 +182,7 @@ A character who chooses kineticist as their secondary class gains the following 
 
 **Wild Talent**: At 7th level, they gain an infusion or utility wild talent, treating their kineticist level as their character level -4 to determine the level of wild talent they can select. If they possess a class feature which provides infusions, they can apply infusions as normal for a kineticist or as the class feature describes.
 
-**Gather Power**: At 11th level, they gain the gather power class feature, but can only use it as a move action.
+**Gather Power**: At 11th level, they gain the gather power class feature, but can only use it as a move action (1 AP).
 
 **Burn Specialization**: At 15th level, they reduce the total burn cost of infusions applied to their kinetic blast by 1 (to a minimum of 0). This stacks with other means of burn reduction. In addition, they gain the internal buffer class feature, being able to store up to 1 point in it (this does not stack if they possess the internal buffer class feature from another source).
 

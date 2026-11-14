@@ -76,7 +76,7 @@ Your gaze carries your regret for wasted potential.
 
 **Prerequisites**: Manifestation level 3rd, frightful*.
 
-**Gift**: You gain a gaze attack that causes foes within 30 feet to become shaken for 1 round unless they succeed at a Will save. You can suppress this ability as a free action and cause 1 it to resume as a swift action. A creature that succeeds at the saving throw is immune to your regretful gaze for 24 hours.
+**Gift**: You gain a gaze attack that causes foes within 30 feet to become shaken for 1 round unless they succeed at a Will save. You can suppress this ability as a free action and cause 1 it to resume as a swift action (1 AP). A creature that succeeds at the saving throw is immune to your regretful gaze for 24 hours.
 
 **Stain**: You are withered as if by age. Reduce your Strength, Dexterity, and Constitution scores by 1 point each, or by however much they would be reduced if you were one age category older, whichever is worse for you.
 
@@ -86,7 +86,7 @@ You are infused with the ruin of the Shadow Plane.
 
 **Prerequisites**: Manifestation level 4th, frightful*, regretful gaze*.
 
-**Gift**: As a standard action a number of times per day equal to your manifestation level, you can make a melee touch attack that deals 1d10 points of damage per manifestation level you have. A creature touched this way takes 1 point of ability drain to the ability score of your choice unless it succeeds at a Fortitude save. Creatures immune to magical aging are immune to this touch attack.
+**Gift**: As a standard action (1 AP) a number of times per day equal to your manifestation level, you can make a melee touch attack that deals 1d10 points of damage per manifestation level you have. A creature touched this way takes 1 point of ability drain to the ability score of your choice unless it succeeds at a Fortitude save. Creatures immune to magical aging are immune to this touch attack.
 
 **Stain**: Any clothing or gear you wear or carry seems strangely faded and timeworn as long as you wear or carry it. Treat such items’ hardness as half the normal amount. You take a –4 penalty on saving throws to protect items in your possession from damage or destruction.
 
@@ -106,6 +106,6 @@ Inflicting pain is one of the few sensations that still stirs you.
 
 **Prerequisite**: Eerie perception*.
 
-**Gift**: Whenever you deal weapon damage to a creature that you are flanking or a creature that is denied its Dexterity bonus to its AC against you, you can inflict a painful wound as an immediate action. The target must succeed at a Fortitude saving throw or be nauseated 1 by pain for 1 round. If the target succeeds at the save, it is sickened for 1 round and becomes immune to your further uses of this ability for 24 hours.
+**Gift**: Whenever you deal weapon damage to a creature that you are flanking or a creature that is denied its Dexterity bonus to its AC against you, you can inflict a painful wound as an immediate action (1 AP of your next turn). The target must succeed at a Fortitude saving throw or be nauseated 1 by pain for 1 round. If the target succeeds at the save, it is sickened for 1 round and becomes immune to your further uses of this ability for 24 hours.
 
 **Stain**: Your eyes turn a milky white, utter black, or pale yellow, making you appear blind although you can see normally in most circumstances. You gain light blindness, causing you to be blinded for 1 round whenever you are exposed to daylight or another source of bright light and dazzled for as long as you remain in bright light thereafter.

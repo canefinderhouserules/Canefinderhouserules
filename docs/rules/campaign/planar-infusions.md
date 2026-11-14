@@ -24,7 +24,7 @@ A character who takes the [Planar Infusion](../feats/planar-infusion.md) feat ga
 
 **Improved**: You have the ability to use *shadow conjuration* once per day as a spell-like ability.
 
-**Greater**: The essence of shadow so infuses your being that you sometimes exist only partially when subjected to damage. As an immediate action when you would take damage from an attack, spell, or other effect, you can reflexively dissolve the portion of your body that would be injured into quasi-real shadowstuff to gain a 50% chance to ignore all the damage from the effect. You can successfully ignore damage in this way up to three times per day—if you activate this ability and it fails to prevent damage, it does not count against your limited daily uses of the ability.
+**Greater**: The essence of shadow so infuses your being that you sometimes exist only partially when subjected to damage. As an immediate action (1 AP of your next turn) when you would take damage from an attack, spell, or other effect, you can reflexively dissolve the portion of your body that would be injured into quasi-real shadowstuff to gain a 50% chance to ignore all the damage from the effect. You can successfully ignore damage in this way up to three times per day—if you activate this ability and it fails to prevent damage, it does not count against your limited daily uses of the ability.
 
 ## Negative Energy Plane
 
@@ -32,13 +32,13 @@ A character who takes the [Planar Infusion](../feats/planar-infusion.md) feat ga
 
 **Improved**: You can use *enervation* once per day as a spell-like ability.
 
-**Greater**: Negative energy suffuses your being and can be unleashed in a devastating burst once per day as an immediate action when you are reduced to 0 or fewer hit points. This creates an explosion of negative energy in a 20-foot burst, centered on you, that deals 1d6 points of negative energy damage per Hit Die you have (maximum 20d6) to all creatures in the area of effect. Each affected creature can attempt a Reflex save (DC = 10 + half your Hit Dice + your Charisma modifier) to take half damage. This negative energy damage does not heal undead. When this effect is triggered, you regain a number of hit points equal to your total Hit Dice; this healing applies immediately, and if it brings your hit point total above a negative number equal to your Constitution (or above 0 if you are undead), then the healing prevents your death.
+**Greater**: Negative energy suffuses your being and can be unleashed in a devastating burst once per day as an immediate action (1 AP of your next turn) when you are reduced to 0 or fewer hit points. This creates an explosion of negative energy in a 20-foot burst, centered on you, that deals 1d6 points of negative energy damage per Hit Die you have (maximum 20d6) to all creatures in the area of effect. Each affected creature can attempt a Reflex save (DC = 10 + half your Hit Dice + your Charisma modifier) to take half damage. This negative energy damage does not heal undead. When this effect is triggered, you regain a number of hit points equal to your total Hit Dice; this healing applies immediately, and if it brings your hit point total above a negative number equal to your Constitution (or above 0 if you are undead), then the healing prevents your death.
 
 ## Positive Energy Plane
 
 **Basic**: You've been infused with raw life force, and whenever you're healed by a positive energy effect (including all *cure* spells), you regain an additional number of hit points equal to your total Hit Dice. You gain a +4 bonus on Constitution checks to stabilize while dying.
 
-**Improved**: Thanks to your deeper understanding of positive energy, you can call upon it to restore yourself or others. Once per day you can touch a creature to create one of the following effects as a spell-like ability: *cure serious wounds*, *lesser restoration*, *remove blindness/deafness*, *remove disease*, or *remove paralysis*. If you use the ability on yourself, this ability requires only a move action to activate.
+**Improved**: Thanks to your deeper understanding of positive energy, you can call upon it to restore yourself or others. Once per day you can touch a creature to create one of the following effects as a spell-like ability: *cure serious wounds*, *lesser restoration*, *remove blindness/deafness*, *remove disease*, or *remove paralysis*. If you use the ability on yourself, this ability requires only a move action (1 AP) to activate.
 
 **Greater**: Once per day as a spell-like ability, you can use *raise dead*. If you use this ability on a creature that has been dead no longer than 1 minute per Hit Die you have, the creature restored to life does not incur any negative levels and does not lose its prepared spells or spell slots, nor does this ability require an expensive material component. If you use this ability on a creature that has been dead longer than 1 minute per Hit Die you have, you must supply the material component as usual, and the target is subject to the normal side effects for *raise dead*.
 
@@ -86,9 +86,9 @@ A character who takes the [Planar Infusion](../feats/planar-infusion.md) feat ga
 
 **Basic**: Your acceptance of Heaven has fortified your physical endurance and bolsters your presence. You gain a +1 bonus on Fortitude saves, a +2 bonus on Diplomacy checks against good creatures, and a +2 bonus on Intimidate checks against evil creatures.
 
-**Improved**: You can call down Heaven's divine fury as a standard action, channeling it through your own body and expelling it all around you. Once per day, you can release this divine energy in a 30-foot-radius burst centered on you. Each evil creature within the area takes 1d8 points of damage per character level you have (maximum 10d8) and is blinded for a number of rounds equal to your Charisma modifier (minimum 1 round). On a successful Will save, an affected creature takes only half damage and negates the blindness.
+**Improved**: You can call down Heaven's divine fury as a standard action (1 AP), channeling it through your own body and expelling it all around you. Once per day, you can release this divine energy in a 30-foot-radius burst centered on you. Each evil creature within the area takes 1d8 points of damage per character level you have (maximum 10d8) and is blinded for a number of rounds equal to your Charisma modifier (minimum 1 round). On a successful Will save, an affected creature takes only half damage and negates the blindness.
 
-**Greater**: You can keep Heaven's champions from being called home before their work is complete. Twice per day, you can use *breath of life* as a spell-like ability. If the target is lawful good, you can use this ability as a move action. If the target is evil, it becomes staggered for 10 minutes unless it vows to repent for its evil ways.
+**Greater**: You can keep Heaven's champions from being called home before their work is complete. Twice per day, you can use *breath of life* as a spell-like ability. If the target is lawful good, you can use this ability as a move action (1 AP). If the target is evil, it becomes staggered for 10 minutes unless it vows to repent for its evil ways.
 
 ## Nirvana
 
@@ -112,7 +112,7 @@ A character who takes the [Planar Infusion](../feats/planar-infusion.md) feat ga
 
 **Improved**: You are never far from the comforts and safety of urban life. You can use *secure shelter* once per day as a spell-like ability.
 
-**Greater**: You can transform yourself into a whirling cloud of glowing glyphs and symbols as a standard action. While in this form, you gain a fly speed of 60 feet with perfect maneuverability and can move through small cracks as per *gaseous form* (but you are not prohibited from entering water). You gain DR 10/chaos and regeneration 5/chaos and are immune to precision damage and critical hits while in glyph form. You can remain in this form for up to 1 minute per level each day, but these minutes need not be used consecutively.
+**Greater**: You can transform yourself into a whirling cloud of glowing glyphs and symbols as a standard action (1 AP). While in this form, you gain a fly speed of 60 feet with perfect maneuverability and can move through small cracks as per *gaseous form* (but you are not prohibited from entering water). You gain DR 10/chaos and regeneration 5/chaos and are immune to precision damage and critical hits while in glyph form. You can remain in this form for up to 1 minute per level each day, but these minutes need not be used consecutively.
 
 ## Boneyard
 
@@ -142,7 +142,7 @@ A character who takes the [Planar Infusion](../feats/planar-infusion.md) feat ga
 
 **Basic**: Your link to Abaddon enhances your skill in hunting prey while avoiding being hunted yourself. You gain a +1 bonus on Reflex saves, you can move at full speed while hiding your tracks, and you gain a +2 bonus on Survival checks to follow tracks.
 
-**Improved**: Mirroring Abaddon's hunger for and mastery over souls, you gain a +4 bonus on all saving throws against possession effects and effects that tamper with your soul, such as *soul trap* or a devourer's soul-devouring ability. Furthermore, you can consume a soul gem created by a cacodaemon as a standard action. Immediately thereafter, for a number of rounds equal to your Hit Dice, you are treated as an evil outsider and gain fast healing 2.
+**Improved**: Mirroring Abaddon's hunger for and mastery over souls, you gain a +4 bonus on all saving throws against possession effects and effects that tamper with your soul, such as *soul trap* or a devourer's soul-devouring ability. Furthermore, you can consume a soul gem created by a cacodaemon as a standard action (1 AP). Immediately thereafter, for a number of rounds equal to your Hit Dice, you are treated as an evil outsider and gain fast healing 2.
 
 **Greater**: The waters of the underworld river infuse you. You are immune to effects that cause amnesia or otherwise alter your memory, including the effect of the river itself. Your touch can affect the memories of others as well. Three times per day, you can use *mindwipe* as a spell-like ability.
 

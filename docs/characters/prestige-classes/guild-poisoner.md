@@ -57,7 +57,7 @@ A guild poisoner gains a +2 bonus on saves against poison, increasing to +4 at 4
 
 #### Quick Poisoning (Ex)
 
-A guild poisoner can poison a weapon as a move action. She can create poisons with the Craft (alchemy) skill in half the normal amount of time.
+A guild poisoner can poison a weapon as a move action (1 AP). She can create poisons with the Craft (alchemy) skill in half the normal amount of time.
 
 #### Aligned Class (Ex)
 
@@ -69,7 +69,7 @@ The DC of any poison a guild poisoner applies increases by her class level.
 
 #### Toxic Apothecary (Ex and Sp)
 
-At 2nd level, a guild poisoner can use [*detect poison*](../../magic/spells/detect-poison.md) at will (range 5 feet, caster level equal to the guild poisoner’s class level) as a swift action. She gains a bonus equal to 1/2 her class level on [Heal](../../rules/skills/heal.md) checks dealing with poison, and on a successful check she adds this bonus to the save bonus she provides her patient against the treated poison.
+At 2nd level, a guild poisoner can use [*detect poison*](../../magic/spells/detect-poison.md) at will (range 5 feet, caster level equal to the guild poisoner’s class level) as a swift action (1 AP). She gains a bonus equal to 1/2 her class level on [Heal](../../rules/skills/heal.md) checks dealing with poison, and on a successful check she adds this bonus to the save bonus she provides her patient against the treated poison.
 
 #### Toxic Trick
 
@@ -109,8 +109,8 @@ At 5th level, when a guild poisoner makes a sneak attack with a poisoned weapon,
 
 #### Swift Poisoning (Ex)
 
-At 6th level, a guild poisoner can draw a vial of poison from her bag and apply it to a weapon as a swift action. This action does not provoke attacks of opportunity as long as she has at least one hand free.
+At 6th level, a guild poisoner can draw a vial of poison from her bag and apply it to a weapon as a swift action (1 AP). This action does not provoke attacks of opportunity as long as she has at least one hand free.
 
 #### Instantaneous Toxicology (Ex)
 
-At 8th level, a guild poisoner can create a poison as a full-round action if she succeeds at the Craft (alchemy) check and has the appropriate resources on hand to pay the creation cost. Poisons crafted in this way last up 10 minutes per class level before losing their potency. In addition, she can instead create an unstable toxin. An unstable toxin costs 1/10 its normal price (rather than 1/3), but is ruined if not used by the end of her next turn.
+At 8th level, a guild poisoner can create a poison as a full-round action (3 AP) if she succeeds at the Craft (alchemy) check and has the appropriate resources on hand to pay the creation cost. Poisons crafted in this way last up 10 minutes per class level before losing their potency. In addition, she can instead create an unstable toxin. An unstable toxin costs 1/10 its normal price (rather than 1/3), but is ruined if not used by the end of her next turn.

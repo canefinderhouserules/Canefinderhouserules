@@ -20,7 +20,7 @@
 
 **Melee Attack:** A lich has a touch attack that it can use once per round as a natural weapon. A lich fighting without weapons uses its natural weapons (if it has any) in addition to its touch attack (which is treated as a primary natural weapon that replaces one claw or slam attack, if the creature has any). A lich armed with a weapon uses its weapons normally, and can use its touch attack as a secondary natural weapon.
 
-**Damage:** A lich’s touch attack uses negative energy to deal 1d8 points of damage to living creatures + 1 point of damage per 2 Hit Dice possessed by the lich. As negative energy, this damage can be used to heal undead creatures. A lich can take a full-round action to infuse itself with this energy, healing damage as if it had used its touch attack against itself.
+**Damage:** A lich’s touch attack uses negative energy to deal 1d8 points of damage to living creatures + 1 point of damage per 2 Hit Dice possessed by the lich. As negative energy, this damage can be used to heal undead creatures. A lich can take a full-round action (3 AP) to infuse itself with this energy, healing damage as if it had used its touch attack against itself.
 
 **Special Attacks:** A lich gains the two special attacks described below. Save DCs are equal to 10 + 1/2 lich’s HD + lich’s Cha modifier unless otherwise noted.
 

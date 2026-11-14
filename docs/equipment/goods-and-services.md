@@ -18,7 +18,7 @@ Caltrops may not work against unusual opponents.
 
 **Crowbar**: A crowbar grants a +2 circumstance bonus on Strength checks made to force open a door or chest. If used in combat, treat a crowbar as a one-handed improvised weapon that deals bludgeoning damage equal to that of a club of its size.
 
-**Flint and Steel**: Lighting a torch with flint and steel is a full-round action, and lighting any other fire with them takes at least that long.
+**Flint and Steel**: Lighting a torch with flint and steel is a full-round action (3 AP), and lighting any other fire with them takes at least that long.
 
 **Grappling Hook**: Throwing a grappling hook requires a ranged attack roll, treating the hook as a thrown weapon with a range increment of 10 feet. Objects with ample places to catch the hook are AC 5.
 
@@ -42,7 +42,7 @@ Most manacles have locks; add the cost of the lock you want to the cost of the m
 
 For the same cost, you can buy manacles for a Small creature. For a Large creature, manacles cost 10 times the indicated amount, and for a Huge creature, 100 times the indicated amount. Gargantuan, Colossal, Tiny, Diminutive, and Fine creatures can be held only by specially made manacles, which cost at least 100 times the indicated amount.
 
-**Oil**: A pint of oil burns for 6 hours in a lantern or lamp. You can also use a flask of oil as a splash weapon. Use the rules for alchemist’s fire (see Special Substances and Items on Table 6–9), except that it takes a full-round action to prepare a flask with a fuse. Once it is thrown, there is a 50% chance of the flask igniting successfully.
+**Oil**: A pint of oil burns for 6 hours in a lantern or lamp. You can also use a flask of oil as a splash weapon. Use the rules for alchemist’s fire (see Special Substances and Items on Table 6–9), except that it takes a full-round action (3 AP) to prepare a flask with a fuse. Once it is thrown, there is a 50% chance of the flask igniting successfully.
 
 You can pour a pint of oil on the ground to cover an area 5 feet square, provided that the surface is smooth. If lit, the oil burns for 2 rounds and deals 1d3 points of fire damage to each creature in the area.
 
@@ -278,7 +278,7 @@ Any of these substances except for the everburning torch and holy water can be m
 
 **Alchemist’s Fire**: You can throw a flask of alchemist’s fire as a splash weapon. Treat this attack as a ranged touch attack with a range increment of 10 feet.
 
-A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of the point where the flask hits takes 1 point of fire damage from the splash. On the round following a direct hit, the target takes an additional 1d6 points of damage. If desired, the target can use a full-round action to attempt to extinguish the flames before taking this additional damage. Extinguishing the flames requires a DC 15 Reflex save. Rolling on the ground provides the target a +2 bonus on the save. Leaping into a lake or magically extinguishing the flames automatically smothers the fire.
+A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of the point where the flask hits takes 1 point of fire damage from the splash. On the round following a direct hit, the target takes an additional 1d6 points of damage. If desired, the target can use a full-round action (3 AP) to attempt to extinguish the flames before taking this additional damage. Extinguishing the flames requires a DC 15 Reflex save. Rolling on the ground provides the target a +2 bonus on the save. Leaping into a lake or magically extinguishing the flames automatically smothers the fire.
 
 **Antitoxin**: If you drink a vial of antitoxin, you get a +5 alchemical bonus on Fortitude saving throws against poison for 1 hour.
 
@@ -294,7 +294,7 @@ Temples to good deities sell holy water at cost (making no profit). Holy water i
 
 **Smokestick**: This alchemically treated wooden stick instantly creates thick, opaque smoke when burned. The smoke fills a 10-foot cube (treat the effect as a *fog cloud* spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally after 1 minute.
 
-**Sunrod**: This 1-foot-long, gold-tipped, iron rod glows brightly when struck as a standard action. It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A sunrod does not increase the light level in normal light or bright light. It glows for 6 hours, after which the gold tip is burned out and worthless.
+**Sunrod**: This 1-foot-long, gold-tipped, iron rod glows brightly when struck as a standard action (1 AP). It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A sunrod does not increase the light level in normal light or bright light. It glows for 6 hours, after which the gold tip is burned out and worthless.
 
 **Tanglefoot Bag**: A tanglefoot bag is a small sack filled with tar, resin, and other sticky substances. When you throw a tanglefoot bag at a creature (as a ranged touch attack with a range increment of 10 feet), the bag comes apart and goo bursts out, entangling the target and then becoming tough and resilient upon exposure to air. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty to Dexterity and must make a DC 15 Reflex save or be glued to the floor, unable to move. Even on a successful save, it can move only at half speed. Huge or larger creatures are unaffected by a tanglefoot bag. A flying creature is not stuck to the floor, but it must make a DC 15 Reflex save or be unable to fly (assuming it uses its wings to fly) and fall to the ground. A tanglefoot bag does not function underwater.
 
@@ -304,7 +304,7 @@ A creature that is glued to the floor (or unable to fly) can break free by makin
 
 Since you don’t need to hit a specific target, you can simply aim at a particular 5-foot square. Treat the target square as AC 5.
 
-**Tindertwig**: The alchemical substance on the end of this small, wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with flint and steel (or a magnifying glass) and tinder. Lighting a torch with a tindertwig is a standard action (rather than a full-round action), and lighting any other fire with one is at least a standard action.
+**Tindertwig**: The alchemical substance on the end of this small, wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with flint and steel (or a magnifying glass) and tinder. Lighting a torch with a tindertwig is a standard action (1 AP) (rather than a full-round action), and lighting any other fire with one is at least a standard action (1 AP).
 
 ## Tools and Skill Kits
 
@@ -328,7 +328,7 @@ These items are particularly useful to characters with certain skills and class 
 
 *Unholy Symbols*: An unholy symbol is like a holy symbol except that it focuses negative energy and is used by evil clerics (or by neutral clerics who want to cast evil spells or channel negative energy).
 
-**Magnifying Glass**: This simple lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires bright light, such as sunlight to focus, tinder to ignite, and at least a full-round action. A magnifying glass grants a +2 circumstance bonus on Appraise checks involving any item that is small or highly detailed.
+**Magnifying Glass**: This simple lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires bright light, such as sunlight to focus, tinder to ignite, and at least a full-round action (3 AP). A magnifying glass grants a +2 circumstance bonus on Appraise checks involving any item that is small or highly detailed.
 
 **Musical Instrument, Common or Masterwork**: A masterwork instrument grants a +2 circumstance bonus on Perform checks involving its use.
 

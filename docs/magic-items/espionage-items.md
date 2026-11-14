@@ -20,7 +20,7 @@ This +1 heavy wrist launcher appears to be a lavish, gold bracelet. This functio
 
 This plain-looking +1 spring blade is attached to a weather-beaten cedar grip. By speaking a command word, the wielder can magically merge the grip into a larger wood handle, such as a cane, club, staff, stylus, or oar, transforming the infused item into either a +1 shortspear, +1 spear, or +1 siangham (depending on the handle’s size). The blade can even be affixed to magic items such as staves, rods, and wands so long as they are made of wood, but doing so renders their other magical properties nonfunctional until the grafting blade is removed.
 
-Removing a grafting blade from an item it has merged with requires a full-round action, and leaves both items unharmed.
+Removing a grafting blade from an item it has merged with requires a full-round action (3 AP), and leaves both items unharmed.
 
 *Construction* Craft Magic Arms and Armor, *wood shape*; Cost 2,370 gp.
 
@@ -60,6 +60,6 @@ This simple platinum necklace has five sockets for gems. An ioun stone placed in
 
 *Aura* moderate abjuration; *CL* 9th; *Slot* body; *Price* 18,000 gp; *Weight* 1 lb.
 
-This black jacket is marked with the insignia of a mercenary company. Once per day, the wearer can speak a command word to gain spell resistance 20 for 3 rounds. This spell resistance ends if the wearer successfully resists a spell as a result of it failing to penetrate his spell resistance. The first time each day that a spell has no effect on the wearer because of spell resistance or a successful saving throw, the jacket becomes charged with abjuration magic and its insignia glows faintly. The wearer can touch the glowing insignia as a standard action to cast *dispel magic* from the jacket, expending the charge. The charge fades with no effect if unused for 1 hour.
+This black jacket is marked with the insignia of a mercenary company. Once per day, the wearer can speak a command word to gain spell resistance 20 for 3 rounds. This spell resistance ends if the wearer successfully resists a spell as a result of it failing to penetrate his spell resistance. The first time each day that a spell has no effect on the wearer because of spell resistance or a successful saving throw, the jacket becomes charged with abjuration magic and its insignia glows faintly. The wearer can touch the glowing insignia as a standard action (1 AP) to cast *dispel magic* from the jacket, expending the charge. The charge fades with no effect if unused for 1 hour.
 
 *Construction* Craft Wondrous Item, *dispel magic*, *spell resistance*; Cost 9,000 gp.

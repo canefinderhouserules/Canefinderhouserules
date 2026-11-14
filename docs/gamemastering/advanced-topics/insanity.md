@@ -41,7 +41,7 @@ A character with amnesia cannot remember his name, his skills, or his past. He c
 **Type** insanity; **Save** Will DC 14; **Onset** 1 day  
 **Effect** target is sickened (if manic) or shaken (if phobic) as long as the source of the mania or phobia is obvious; chance of becoming fascinated or frightened
 
-A mania is an irrational obsession with a (usually inappropriate) particular object or situation, while a phobia is an irrational fear of a (usually commonplace) object or situation. If a manic or phobic character is directly confronted by his obsession (requiring a standard action), he must make a Will save against the insanity or become fascinated (if manic) or frightened (if phobic) by the object for 1d6 rounds.
+A mania is an irrational obsession with a (usually inappropriate) particular object or situation, while a phobia is an irrational fear of a (usually commonplace) object or situation. If a manic or phobic character is directly confronted by his obsession (requiring a standard action (1 AP)), he must make a Will save against the insanity or become fascinated (if manic) or frightened (if phobic) by the object for 1d6 rounds.
 
 ### Multiple Personality Disorder
 

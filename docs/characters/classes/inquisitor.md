@@ -91,13 +91,13 @@ Each domain grants a number of domain powers, depending on the level of the inqu
 
 ### Judgment (Su)
 
-Starting at 1st level, an inquisitor can pronounce judgment upon her foes as a swift action.
+Starting at 1st level, an inquisitor can pronounce judgment upon her foes as a swift action (1 AP).
 
 Starting when the judgment is made, the inquisitor receives a bonus or special ability based on the type of judgment made.
 
 At 1st level, an inquisitor can use this ability once per day. At 4th level and every three levels thereafter, the inquisitor can use this ability one additional time per day. Once activated, this ability lasts until the combat ends, at which point all of the bonuses immediately end. The inquisitor must participate in the combat to gain these bonuses. If she is [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from participating in the combat, the ability does not end, but the bonuses do not resume until she can participate in the combat again.
 
-When the inquisitor uses this ability, she must select one type of judgment to make. As a swift action, she can change this judgment to another type. If the inquisitor is evil, she receives profane bonuses instead of sacred, as appropriate. Neutral inquisitors must select profane or sacred bonuses. Once made, this choice cannot be changed.
+When the inquisitor uses this ability, she must select one type of judgment to make. As a swift action (1 AP), she can change this judgment to another type. If the inquisitor is evil, she receives profane bonuses instead of sacred, as appropriate. Neutral inquisitors must select profane or sacred bonuses. Once made, this choice cannot be changed.
 
 #### Destruction
 
@@ -169,19 +169,19 @@ At 3rd level, all of the inquisitor’s allies are treated as if they possessed 
 
 At 3rd level, and every three levels thereafter, the inquisitor gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as teamwork feats. The inquisitor must meet the prerequisites of the selected bonus feat.
 
-As a standard action, the inquisitor can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat she has already learned. In effect, the inquisitor loses the bonus feat in exchange for the new one. She can only change the most recent teamwork feat gained. Whenever she gains a new teamwork feat, the previous teamwork feat becomes set and cannot be changed again. An inquisitor can change her most recent teamwork feat a number of times per day equal to her Wisdom modifier.
+As a standard action (1 AP), the inquisitor can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat she has already learned. In effect, the inquisitor loses the bonus feat in exchange for the new one. She can only change the most recent teamwork feat gained. Whenever she gains a new teamwork feat, the previous teamwork feat becomes set and cannot be changed again. An inquisitor can change her most recent teamwork feat a number of times per day equal to her Wisdom modifier.
 
 ### Bane (Su)
 
-At 5th level, an inquisitor can imbue one of her weapons with the bane weapon special ability as a swift action. She must select one creature type when she uses this ability (and a subtype if the creature type selected is 20th +15/+10/+5 +12 +6 +12 True judgment 5 5 5 5 5 5 humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only functions while the inquisitor wields the weapon. If dropped or taken, the weapon resumes granting this ability if it is returned to the inquisitor before the duration expires. This ability lasts for a number of rounds per day equal to the inquisitor’s level. These rounds do not need to be consecutive.
+At 5th level, an inquisitor can imbue one of her weapons with the bane weapon special ability as a swift action (1 AP). She must select one creature type when she uses this ability (and a subtype if the creature type selected is 20th +15/+10/+5 +12 +6 +12 True judgment 5 5 5 5 5 5 humanoid or outsider). Once selected, the type can be changed as a swift action (1 AP). This ability only functions while the inquisitor wields the weapon. If dropped or taken, the weapon resumes granting this ability if it is returned to the inquisitor before the duration expires. This ability lasts for a number of rounds per day equal to the inquisitor’s level. These rounds do not need to be consecutive.
 
 ### Discern Lies (Sp)
 
-At 5th level, an inquisitor can discern lies, as per the spell, for a number of rounds per day equal to her inquisitor level. These rounds do not need to be consecutive. Activating this ability is an immediate action.
+At 5th level, an inquisitor can discern lies, as per the spell, for a number of rounds per day equal to her inquisitor level. These rounds do not need to be consecutive. Activating this ability is an immediate action (1 AP of your next turn).
 
 ### Second Judgment (Ex)
 
-At 8th level, whenever an inquisitor uses her judgment ability, she selects two different judgments, instead of one. This only consumes one use of her judgment ability. As a swift action, she can change one of these judgments to another type.
+At 8th level, whenever an inquisitor uses her judgment ability, she selects two different judgments, instead of one. This only consumes one use of her judgment ability. As a swift action (1 AP), she can change one of these judgments to another type.
 
 ### Stalwart (Ex)
 
@@ -197,7 +197,7 @@ At 14th level, the inquisitor learns to take advantage of any opportunity that p
 
 ### Third Judgment (Ex)
 
-At 16th level, whenever an inquisitor uses her judgment ability, she selects three different judgments, instead of just two. This only consumes one use of her judgment ability. As a swift action, the inquisitor can change one of these judgments to another type.
+At 16th level, whenever an inquisitor uses her judgment ability, she selects three different judgments, instead of just two. This only consumes one use of her judgment ability. As a swift action (1 AP), the inquisitor can change one of these judgments to another type.
 
 ### Slayer (Ex)
 
@@ -207,7 +207,7 @@ At 17th level, an inquisitor learns to focus her judgment. Whenever an inquisito
 
 At 20th level, an inquisitor can call true judgment down upon a foe during combat.
 
-Whenever an inquisitor uses her judgment ability, the inquisitor can invoke true judgment on a foe as a swift action. Once declared, the inquisitor can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the target must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the inquisitor’s level + the inquisitor’s Wisdom modifier. Regardless of whether or not the save is made, the target creature is immune to the inquisitor’s true judgment ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds.
+Whenever an inquisitor uses her judgment ability, the inquisitor can invoke true judgment on a foe as a swift action (1 AP). Once declared, the inquisitor can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the target must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the inquisitor’s level + the inquisitor’s Wisdom modifier. Regardless of whether or not the save is made, the target creature is immune to the inquisitor’s true judgment ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds.
 
 ### Chaotic, Evil, Good, and Lawful Spells
 

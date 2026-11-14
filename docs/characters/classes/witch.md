@@ -66,17 +66,17 @@ Cantrips prepared using other spell slots, due to metamagic feats for example, a
 
 Witches learn a number of magic tricks, called hexes, that grant them powers or weaken foes. At 1st level, a witch gains one hex of her choice. She gains an additional hex at 2nd level and for every 2 levels attained after 2nd level, as noted on Table 2–10. A witch cannot select an individual hex more than once.
 
-Unless otherwise noted, using a hex is a standard action that does not provoke an attack of opportunity. The save to resist a hex is equal to 10 + 1/2 the witch’s level + the witch’s Intelligence modifier.
+Unless otherwise noted, using a hex is a standard action (1 AP) that does not provoke an attack of opportunity. The save to resist a hex is equal to 10 + 1/2 the witch’s level + the witch’s Intelligence modifier.
 
 #### Blight (Su)
 
-The witch can curse an animal, plant creature, or plot of land, causing it to wither and die. Blighting an area takes 1 round, during which time the witch and her familiar must be in contact with the target. If it’s used on a plot of land, the land begins to wither the following day, and over the next week all plants in the area die. Nothing will grow in that area so long as the curse persists. A witch can affect an area with a radius equal to her class level × 10 feet. Blighting a creature is a standard action that requires a melee touch attack. If used on a creature of the animal or plant type, the creature gains the following curse: Blight Hex—type curse; save Will negates; frequency 1/day; effect 1 Con damage. Both types of curse can be removed with a remove curse or similar magic, using the save DC as the DC to remove the curse.
+The witch can curse an animal, plant creature, or plot of land, causing it to wither and die. Blighting an area takes 1 round, during which time the witch and her familiar must be in contact with the target. If it’s used on a plot of land, the land begins to wither the following day, and over the next week all plants in the area die. Nothing will grow in that area so long as the curse persists. A witch can affect an area with a radius equal to her class level × 10 feet. Blighting a creature is a standard action (1 AP) that requires a melee touch attack. If used on a creature of the animal or plant type, the creature gains the following curse: Blight Hex—type curse; save Will negates; frequency 1/day; effect 1 Con damage. Both types of curse can be removed with a remove curse or similar magic, using the save DC as the DC to remove the curse.
 
 A witch can only have one blight in effect at a time. If another blight hex is made, the first immediately ends.
 
 #### Cackle (Su)
 
-A witch can cackle madly as a move action.
+A witch can cackle madly as a move action (1 AP).
 
 Any creature that is within 30 feet that is under the effects of an agony hex, charm hex, evil eye hex, fortune hex, or misfortune hex caused by the witch has the duration of that hex extended by 1 round.
 
@@ -118,11 +118,11 @@ The witch can cause a creature within 30 feet to suffer grave misfortune for 1 r
 
 #### Slumber (Su)
 
-A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature gains [sleep 1](../../rules/appendices/conditions.md#sleep) for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action. A witch can use this hex on the same target twice per 24 hours. The [Accursed Hex](../../rules/feats/accursed-hex.md) feat lets her use it on that target 2 more times, instead of 1 more time.
+A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature gains [sleep 1](../../rules/appendices/conditions.md#sleep) for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action (1 AP). A witch can use this hex on the same target twice per 24 hours. The [Accursed Hex](../../rules/feats/accursed-hex.md) feat lets her use it on that target 2 more times, instead of 1 more time.
 
 ??? note "Original rule"
 
-    **Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature gains [sleep 1](../../rules/appendices/conditions.md#sleep) for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action.
+    **Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature gains [sleep 1](../../rules/appendices/conditions.md#sleep) for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action (1 AP).
 
 This hex ends immediately if the creature takes damage.
 
@@ -174,11 +174,11 @@ A witch with the vision hex can grant a glimpse of the future to a creature touc
 
 #### Waxen Image (Su)
 
-The witch can spend a full-round action to create a crude and unnerving wax duplicate of a creature she can see within 30 feet. Once the image is complete, the subject must make a Will save.
+The witch can spend a full-round action (3 AP) to create a crude and unnerving wax duplicate of a creature she can see within 30 feet. Once the image is complete, the subject must make a Will save.
 
 If the subject fails, the witch gains a small measure of control over the creature. Whenever she exercises this control, the creature receives a new Will save to end the effect. This effect occurs on the witch’s turn and does not impede the creature’s actions on its turn.
 
-The witch can use the waxen image a number of times equal to her Intelligence modifier before it melts. As a standard action, the witch can cause the subject to do any one of the following things: move up to the creature’s speed in any direction, attack itself once with any weapon in hand (this attack automatically hits), lay down on the ground, or drop anything held. Alternatively, she can spend one of her uses to simply torture the image, causing the creature to be both [sickened](../../rules/appendices/conditions.md#sickened) and [staggered](../../rules/appendices/conditions.md#staggered) on its turn. As soon as the creature has succeeded on a saving throw against this effect, it is immune to it for 24 hours. The is an enchantment (compulsion) effect.
+The witch can use the waxen image a number of times equal to her Intelligence modifier before it melts. As a standard action (1 AP), the witch can cause the subject to do any one of the following things: move up to the creature’s speed in any direction, attack itself once with any weapon in hand (this attack automatically hits), lay down on the ground, or drop anything held. Alternatively, she can spend one of her uses to simply torture the image, causing the creature to be both [sickened](../../rules/appendices/conditions.md#sickened) and [staggered](../../rules/appendices/conditions.md#staggered) on its turn. As soon as the creature has succeeded on a saving throw against this effect, it is immune to it for 24 hours. The is an enchantment (compulsion) effect.
 
 #### Weather Control (Su)
 
@@ -204,7 +204,7 @@ The witch causes a creature within 30 feet to die and be immediately reincarnate
 
 #### Life Giver (Su)
 
-Once per day the witch can, as a full round action, touch a dead creature and bring it back to life. This functions as resurrection, but it does not require a material component.
+Once per day the witch can, as a full round action (3 AP), touch a dead creature and bring it back to life. This functions as resurrection, but it does not require a material component.
 
 #### Natural Disaster (Su)
 

@@ -6,7 +6,7 @@
 
 ### Casting
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S
 
@@ -18,11 +18,11 @@
 
 **Duration** 1 round/level (D)
 
-A creation of the archmage the archmage’s realm, this spell allows you to reach ahead in time and draw alacrity from the future at the expense of your own health. For the duration of this spell, you gain an extra swift action you can use only during your turn. You can’t use this swift action to take a second immediate action between turns, but you can use it to take a swift action the turn after you’ve taken an immediate action. Each time you take an extra swift action in this fashion you take 1 point of Constitution damage. If you’re immune to ability damage, you take 5 points of hit point damage instead. When the spell ends, you are staggered for 1d4+1 rounds from the temporal backlash.
+A creation of the archmage the archmage’s realm, this spell allows you to reach ahead in time and draw alacrity from the future at the expense of your own health. For the duration of this spell, you gain an extra swift action (1 AP) you can use only during your turn. You can’t use this swift action (1 AP) to take a second immediate action (1 AP of your next turn) between turns, but you can use it to take a swift action (1 AP) the turn after you’ve taken an immediate action (1 AP of your next turn). Each time you take an extra swift action (1 AP) in this fashion you take 1 point of Constitution damage. If you’re immune to ability damage, you take 5 points of hit point damage instead. When the spell ends, you are staggered for 1d4+1 rounds from the temporal backlash.
 
 ## Mythic Borrowed Time
 
-If you expend one use of mythic power, instead of taking an extra swift action, you can take either an extra move or an extra swift action each round. You can use this extra swift action to take two immediate actions between your turns; this consumes your extra swift action in your next round. Each extra action you take still deals damage to you as described above.
+If you expend one use of mythic power, instead of taking an extra swift action (1 AP), you can take either an extra move or an extra swift action (1 AP) each round. You can use this extra swift action (1 AP) to take two immediate actions between your turns; this consumes your extra swift action (1 AP) in your next round. Each extra action you take still deals damage to you as described above.
 
 ## Elemental Bombardment
 
@@ -77,7 +77,7 @@ If you expend one use of mythic power, you can summon a combination of different
 
 ### Casting
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, M (handful of down)
 
@@ -91,13 +91,13 @@ If you expend one use of mythic power, you can summon a combination of different
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-You grant a touched Large or smaller object the ability to fly at a speed of 40 feet with average maneuverability. It can ascend at half speed and descend at double speed. The targeted object flies as you direct it, using your Fly skill for any difficult maneuvers. You must be within close range (25 ft. + 5 ft./2 levels) of the object to direct it, and moving it requires a move action. If not directed, the object hovers in place (no Fly check required). The maximum weight of the object and anything carried by it is 500 pounds per caster level (maximum 10,000 pounds).
+You grant a touched Large or smaller object the ability to fly at a speed of 40 feet with average maneuverability. It can ascend at half speed and descend at double speed. The targeted object flies as you direct it, using your Fly skill for any difficult maneuvers. You must be within close range (25 ft. + 5 ft./2 levels) of the object to direct it, and moving it requires a move action (1 AP). If not directed, the object hovers in place (no Fly check required). The maximum weight of the object and anything carried by it is 500 pounds per caster level (maximum 10,000 pounds).
 
 ## Mythic Imbue with Flight
 
 If you expend one use of mythic power, you double the maximum weight of the object you can imbue with flight. You can expend additional uses of mythic power to increase the maximum size of the object you can imbue with flight. Imbuing a Huge object requires two uses of mythic power, imbuing a Gargantuan object requires four uses, and imbuing a Colossal object requires eight uses. These costs include the expenditure to cast a mythic spell, and count toward doubling the weight limit of the spell.
 
-Two or more casters can cast this spell in concert to share the mythic power cost. Each caster must expend an additional use of mythic power to cooperate; this does not count toward the other costs or effects of the spell. The group chooses which caster has control of the flight. As a full-round action, the controlling caster can cede control to another caster involved in the original casting of the spell.
+Two or more casters can cast this spell in concert to share the mythic power cost. Each caster must expend an additional use of mythic power to cooperate; this does not count toward the other costs or effects of the spell. The group chooses which caster has control of the flight. As a full-round action (3 AP), the controlling caster can cede control to another caster involved in the original casting of the spell.
 
 ## Soulreaver
 
@@ -105,7 +105,7 @@ Two or more casters can cast this spell in concert to share the mythic power cos
 
 ### Casting
 
-**Casting Time** 1 standard action
+**Casting Time** 1 standard action (1 AP)
 
 **Components** V, S
 

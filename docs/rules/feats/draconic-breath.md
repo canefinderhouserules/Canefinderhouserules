@@ -4,7 +4,7 @@ You possess draconic defenses and a draconic breath weapon.
 
 **Prerequisites**: [Draconic Aspect](draconic-aspect.md), kobold.
 
-**Benefit**: You gain a +2 bonus against sleep and paralysis effects. You gain a breath weapon that is determined by your scale coloration by either the [Draconic Aspect](draconic-aspect.md) feat or the dragon-scaled racial trait. Using a breath weapon is a standard action that does not provoke attacks of opportunity. You can use your breath weapon once per day. Creatures within the area of your breath weapon who succeed at a Reflex saving throw (DC 10 + your character level + your Constitution modifier) take only half damage.
+**Benefit**: You gain a +2 bonus against sleep and paralysis effects. You gain a breath weapon that is determined by your scale coloration by either the [Draconic Aspect](draconic-aspect.md) feat or the dragon-scaled racial trait. Using a breath weapon is a standard action (1 AP) that does not provoke attacks of opportunity. You can use your breath weapon once per day. Creatures within the area of your breath weapon who succeed at a Reflex saving throw (DC 10 + your character level + your Constitution modifier) take only half damage.
 
 *Black (Su)*: You breathe a 30-foot line of acid that deals 2d6 points of acid damage.
 

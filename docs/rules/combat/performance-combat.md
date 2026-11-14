@@ -46,7 +46,7 @@ The first thing a GM must do in a performance combat is determine the crowd’s 
 
 ## Performance Combat Check
 
-Whenever a combatant has a chance to affect the crowd’s attitude, she makes a performance combat check. The check is a Charisma ability check modified by the base attack bonus of the character plus any ranks the character has in Perform (act), Perform (comedy), or Perform (dance), whichever is highest. Making a performance combat check is usually a swift action, triggered when a combatant performs a trigger action (see the Affecting the Crowd’s Attitude section).
+Whenever a combatant has a chance to affect the crowd’s attitude, she makes a performance combat check. The check is a Charisma ability check modified by the base attack bonus of the character plus any ranks the character has in Perform (act), Perform (comedy), or Perform (dance), whichever is highest. Making a performance combat check is usually a swift action (1 AP), triggered when a combatant performs a trigger action (see the Affecting the Crowd’s Attitude section).
 
 
 
@@ -156,7 +156,7 @@ If the gold is paid and the Diplomacy check fails, the side gains a penalty for 
 
 For a combatant to affect the crowd’s reaction in some way, he must usually accomplish some visible combat display that has a chance of motivating the crowd toward a new attitude. If the crowd cannot see the combatant (because of total concealment, invisibility, improved cover, or total cover), he cannot affect the crowd’s attitude in any way, but concealment and lesser forms of cover do not affect a combatant’s ability to affect the crowd.
 
-When a combatant performs or causes one of the triggers described in the sections that follow, he can typically make a performance combat check as a swift action (or a free action if the creature has the Master Combat Performer feat; see the relevant section) to improve the attitude of the crowd. The swift action usually involves some form of flourish, display, or show in the attempt to grab the attention of the crowd. If the combatant has a performance feat, the action that triggers the check may involve some form of movement or effect. Sometimes a performance combat check can be made as a free or an immediate action. Making a performance check as a free action does not allow a character to take any special action granted to him by a performance feat (unless he has the Master Combat Performer feat), and making a performance combat check as an immediate action or as no action never allows a character to perform a special action granted by a performance feat (even if he does have the Master Combat Performer feat).
+When a combatant performs or causes one of the triggers described in the sections that follow, he can typically make a performance combat check as a swift action (1 AP) (or a free action if the creature has the Master Combat Performer feat; see the relevant section) to improve the attitude of the crowd. The swift action (1 AP) usually involves some form of flourish, display, or show in the attempt to grab the attention of the crowd. If the combatant has a performance feat, the action that triggers the check may involve some form of movement or effect. Sometimes a performance combat check can be made as a free or an immediate action (1 AP of your next turn). Making a performance check as a free action does not allow a character to take any special action granted to him by a performance feat (unless he has the Master Combat Performer feat), and making a performance combat check as an immediate action (1 AP of your next turn) or as no action never allows a character to perform a special action granted by a performance feat (even if he does have the Master Combat Performer feat).
 
 Other times, a performance combat check must be performed. These mandatory performance combat checks are not actions, and usually have detrimental effects if the check is not successful.
 
@@ -164,33 +164,33 @@ The following are the standard triggers for making a performance combat check. T
 
 ## Swift Action Checks
 
-The following triggers allow a character participating in a performance combat to make a performance combat check as a swift action. A character can always opt not to make a performance combat check that requires a swift action. Some feats, called performance feats, allow a character to perform other actions as part of the performance combat check. These feats can be found in Chapter 2.
+The following triggers allow a character participating in a performance combat to make a performance combat check as a swift action (1 AP). A character can always opt not to make a performance combat check that requires a swift action (1 AP). Some feats, called performance feats, allow a character to perform other actions as part of the performance combat check. These feats can be found in Chapter 2.
 
-**Charge**: Whenever a combatant hits with a charge attack, she can make a performance combat check as a swift action.
+**Charge**: Whenever a combatant hits with a charge attack, she can make a performance combat check as a swift action (1 AP).
 
-**Combat Maneuvers**: Whenever a combatant successfully performs any combat maneuver, she can make a performance combat check as a swift action.
+**Combat Maneuvers**: Whenever a combatant successfully performs any combat maneuver, she can make a performance combat check as a swift action (1 AP).
 
-**Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action. She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a –4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and two-handed or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
+**Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action (1 AP). She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a –4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and two-handed or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
 
-**Energy Spells and Effects**: Crowds tend to respond to flashy spells and effects. If a combatant casts a spell or produces an effect that deals acid, cold, fire, electricity, force, or sonic damage in a visible way (including weapons with special abilities like flaming burst or shocking burst that deal bursts of energy damage on critical hits), she can make a performance combat check as a swift action.
+**Energy Spells and Effects**: Crowds tend to respond to flashy spells and effects. If a combatant casts a spell or produces an effect that deals acid, cold, fire, electricity, force, or sonic damage in a visible way (including weapons with special abilities like flaming burst or shocking burst that deal bursts of energy damage on critical hits), she can make a performance combat check as a swift action (1 AP).
 
-**Feint**: If a combatant successfully feints against an enemy, she can make a performance combat check as a swift action.
+**Feint**: If a combatant successfully feints against an enemy, she can make a performance combat check as a swift action (1 AP).
 
-**Knocking Opponent Prone**: When a combatant knocks another combatant prone, she can make a performance combat check as a swift action.
+**Knocking Opponent Prone**: When a combatant knocks another combatant prone, she can make a performance combat check as a swift action (1 AP).
 
-**Multiple Hits**: If a combatant has more than one attack on her turn and hits an opponent with at least two of those attacks, she can make a performance combat check as a swift action. She gains a +2 bonus on this performance combat check for every attack she hits with beyond the second.
+**Multiple Hits**: If a combatant has more than one attack on her turn and hits an opponent with at least two of those attacks, she can make a performance combat check as a swift action (1 AP). She gains a +2 bonus on this performance combat check for every attack she hits with beyond the second.
 
 ## Free Action or Immediate Action Checks
 
-The following triggers allow a combatant to make a performance combat check as a free action or an immediate action. A combatant may also opt to make any of these performance combat checks as a swift action instead, and gains the benefit of performance feats when he does so. A combatant can always opt to not make a performance combat check that requires a free action or immediate action. A combatant can also spend a victory point to make any one of these performance combat checks as a free action taken when it is not the combatant’s turn, which allows the combatant to make one of these performance combat checks without spending an immediate action.
+The following triggers allow a combatant to make a performance combat check as a free action or an immediate action (1 AP of your next turn). A combatant may also opt to make any of these performance combat checks as a swift action (1 AP) instead, and gains the benefit of performance feats when he does so. A combatant can always opt to not make a performance combat check that requires a free action or immediate action (1 AP of your next turn). A combatant can also spend a victory point to make any one of these performance combat checks as a free action taken when it is not the combatant’s turn, which allows the combatant to make one of these performance combat checks without spending an immediate action (1 AP of your next turn).
 
-**Critical Hit**: When a combatant confirms a critical hit, he can make a performance combat check as a free or immediate action. When he does so, failing by 5 or more does not lower the crowd’s attitude. If the combatant gains a special effect on this critical hit from a critical feat, he gains a +2 bonus on the performance combat check.
+**Critical Hit**: When a combatant confirms a critical hit, he can make a performance combat check as a free or immediate action (1 AP of your next turn). When he does so, failing by 5 or more does not lower the crowd’s attitude. If the combatant gains a special effect on this critical hit from a critical feat, he gains a +2 bonus on the performance combat check.
 
-**First Blood**: If the combatant is the first person to damage an enemy during a performance combat (or to hit an opponent in the case of staged combats), he can make a performance combat check as a free or immediate action.
+**First Blood**: If the combatant is the first person to damage an enemy during a performance combat (or to hit an opponent in the case of staged combats), he can make a performance combat check as a free or immediate action (1 AP of your next turn).
 
-**Raging**: The first time a combatant enters a rage in a performance combat, he can make a performance combat check as a free or immediate action.
+**Raging**: The first time a combatant enters a rage in a performance combat, he can make a performance combat check as a free or immediate action (1 AP of your next turn).
 
-**Vanquish Opponent**: Whenever a combatant reduces a creature to 0 or fewer hit points, he can make a performance combat check as a free or immediate action.
+**Vanquish Opponent**: Whenever a combatant reduces a creature to 0 or fewer hit points, he can make a performance combat check as a free or immediate action (1 AP of your next turn).
 
 ## Mandatory Checks
 
@@ -207,7 +207,7 @@ The following performance combat checks must be attempted whenever possible. The
 When a side is benefiting from a helpful crowd reaction and succeeds at a performance combat check, that side gains a victory point. Victory points are kept in a pool, and can be spent by anyone on a given side of a performance combat at any time during the performance combat, as long as no one on the side objects to the use of the victory point. Victory points can be spent during a performance combat in the following ways. Spending a victory point is not an action.
 
 - A combatant can spend a victory point to gain an automatic success at a performance combat check, but cannot spend the victory point to succeed at a performance combat check while the crowd has a helpful attitude toward that combatant’s side of the performance combat.
-- A combatant can spend a victory point to make a free or immediate action performance combat check as no action, allowing the combatant to make the check when it is not the combatant’s turn without spending an immediate action.
+- A combatant can spend a victory point to make a free or immediate action (1 AP of your next turn) performance combat check as no action, allowing the combatant to make the check when it is not the combatant’s turn without spending an immediate action (1 AP of your next turn).
 - A combatant can spend a victory point to force an opponent in a performance combat to reroll a performance combat check. The opponent must take the effect of the reroll.
 
 While running a group of serialized performance combats, any unspent victory points are saved and can be used during the next performance combat, and can affect the starting attitude of the crowd.

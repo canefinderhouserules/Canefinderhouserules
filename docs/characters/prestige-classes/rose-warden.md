@@ -52,7 +52,7 @@ A rose warden gains a bonus equal to her class level on any [Bluff](../../rules/
 At 1st level and every 2 class levels thereafter, a rose warden gains one of the following insurgent techniques. The save DC of any saving throw called for by an insurgent technique is equal to 10 + the rose warden's class level + her Intelligence modifier. Spell-like abilities have a caster level equal to the rose warden's class level.
 
 - *Bloom's Wrath (Sp)*: The rose warden selects either [*chaos hammer*](../../magic/spells/chaos-hammer.md) or [*holy smite*](../../magic/spells/holy-smite.md). She can use that spell once per day as a spell-like ability. If a rose warden chooses this technique a second time, she gains the ability to cast the other spell once per day as well.
-- *Holy Thorns (Su)*: Once per day as a swift action, the rose warden can cause thorns to magically sprout from her weapon. The weapon counts as good-aligned for purposes of overcoming DR. A lawful or evil target damaged by this weapon must succeed at a Fortitude save or be wracked with pain and become [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. The thorns dissipate after a number of rounds equal to the rose warden's class level.
+- *Holy Thorns (Su)*: Once per day as a swift action (1 AP), the rose warden can cause thorns to magically sprout from her weapon. The weapon counts as good-aligned for purposes of overcoming DR. A lawful or evil target damaged by this weapon must succeed at a Fortitude save or be wracked with pain and become [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. The thorns dissipate after a number of rounds equal to the rose warden's class level.
 - *Rogue Talent*: A rose warden can select one rogue talent for which she qualifies. Her rose warden levels stack with rogue levels for the purpose of any rogue talents she has with level-dependent effects, whether they were gained from this prestige class or another class.
 
 #### Liberated Mind (Su)
@@ -84,8 +84,8 @@ At 4th level, a rose warden can ignore impediments to her mobility. For a number
 At 5th level, a rose warden can select one of the following advanced insurgent techniques in place of a normal insurgent technique.
 
 - *Advanced Rogue Talent*: A rose warden can select one advanced rogue talent that she qualifies for. Her rose warden levels stack with rogue levels for the purpose of any advanced rogue talents she has with level-dependent effects, whether they were gained from this prestige class or another class.
-- *Alleyport (Sp)*: Once per day as a swift action, the rose warden can teleport as per [*dimension door*](../../magic/spells/dimension-door.md), but only when she is in an area no wider than her space, and she can arrive only in an area of similar width.
-- *Small but Fierce (Ex)*: As a move action, the rose warden can study an opponent at least one size category larger than herself that she can see. She can then apply the precision damage granted by sneak attack on her next attack made in the same round she studied the larger foe, even if that target is not denied its Dexterity bonus to its AC.
+- *Alleyport (Sp)*: Once per day as a swift action (1 AP), the rose warden can teleport as per [*dimension door*](../../magic/spells/dimension-door.md), but only when she is in an area no wider than her space, and she can arrive only in an area of similar width.
+- *Small but Fierce (Ex)*: As a move action (1 AP), the rose warden can study an opponent at least one size category larger than herself that she can see. She can then apply the precision damage granted by sneak attack on her next attack made in the same round she studied the larger foe, even if that target is not denied its Dexterity bonus to its AC.
 - *Wall of Roses (Sp)*: Once per day, the rose warden can cast [*wall of thorns*](../../magic/spells/wall-of-thorns.md) as a spell-like ability. The wall consists of a dense tangle of roses through which chaotic good creatures can pass with ease. The wall of roses heals at a rate of 5 hit points per round; it is immune to fire damage; and all piercing damage it deals bypasses damage reduction as if it were a good, magic, and silver weapon. Evil and lawful creatures damaged by a wall of roses automatically become [sickened](../../rules/appendices/conditions.md#sickened) for the next minute (this is a poison effect).
 
 #### Obfuscate (Su)
@@ -94,7 +94,7 @@ At 7th level, a rose warden can use the Stealth skill even while she is being ob
 
 #### Rallying Courage (Su)
 
-At 8th level, a rose warden becomes immune to fear effects. Once per day as a swift action, she can inspire an ally affected by fear who is within her line of sight, allowing that ally to attempt a second saving throw against the condition.
+At 8th level, a rose warden becomes immune to fear effects. Once per day as a swift action (1 AP), she can inspire an ally affected by fear who is within her line of sight, allowing that ally to attempt a second saving throw against the condition.
 
 #### Smite Tyranny (Su)
 

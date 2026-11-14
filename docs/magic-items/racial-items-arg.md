@@ -18,7 +18,7 @@ This bright silver or gold *+2 blinding heavy steel shield* is impossibly light 
 **Aura** strong conjuration; **CL** 13th  
 **Slot** shield; **Price** 52,620 gp; **Weight** 45 lbs.
 
-This *+2 ghost touch tower shield* is engraved with funerary runes depicting the peaceful rest of the contented dead. The wielder of an *elysian shield* is immune to the create spawn ability of undead, and once per day as an immediate action can negate a single energy drain, ability drain, or ability damage attack by an undead creature. In addition, once per day as a standard action, the wielder can release a wave of positive energy that panics undead, as the Turn Undead feat (DC 20 Will negates).
+This *+2 ghost touch tower shield* is engraved with funerary runes depicting the peaceful rest of the contented dead. The wielder of an *elysian shield* is immune to the create spawn ability of undead, and once per day as an immediate action (1 AP of your next turn) can negate a single energy drain, ability drain, or ability damage attack by an undead creature. In addition, once per day as a standard action (1 AP), the wielder can release a wave of positive energy that panics undead, as the Turn Undead feat (DC 20 Will negates).
 
 **Construction** Craft Magic Arms and Armor, Turn Undead, *death ward, etherealness*; **Cost** 26,390 gp
 
@@ -113,7 +113,7 @@ DESCRIPTION These sheer and silky robes, many of which are made of spider silk, 
 **Aura** moderate abjuration; **CL** 8th  
 **Slot** none; **Price** 64,305 gp; **Weight** 5 lbs.
 
-This ebon rod is so dark it seems to absorb the light around it. The rod functions as a *+2 light mace*, and allows its wielder to see in darkness as if it had the see in darkness ability. Three times per day, the wielder can use it to create a *deeper darkness* effect (caster level 8th). To use this ability, the rod’s wielder must touch the object affected, which is a standard action that provokes attacks of opportunity.
+This ebon rod is so dark it seems to absorb the light around it. The rod functions as a *+2 light mace*, and allows its wielder to see in darkness as if it had the see in darkness ability. Three times per day, the wielder can use it to create a *deeper darkness* effect (caster level 8th). To use this ability, the rod’s wielder must touch the object affected, which is a standard action (1 AP) that provokes attacks of opportunity.
 
 **Construction** Craft Rod, *deeper darkness*, *true seeing*; **Cost** 32,305 gp
 
@@ -153,7 +153,7 @@ This small lantern is made of thin, nearly transparent paper and black iron. The
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** shoulders; **Price** 2,800 gp; **Weight** 1 lb.
 
-This rough-looking cloak covered in coarse animal hair is greatly prized by goblins. Wearing the cloak grants a +1 resistance bonus on saving throws. Furthermore, the wearer can force its teeth to grow rapidly up to five times per day as a swift action. The oversized teeth last for 1 round, during which time the wearer can make a bite attack. Treat this attack as a primary natural attack that deals 1d4 points of damage (or 1d6 if the wearer is Medium). If the wearer already has a bite attack, the damage of that bite attack increases by one step.
+This rough-looking cloak covered in coarse animal hair is greatly prized by goblins. Wearing the cloak grants a +1 resistance bonus on saving throws. Furthermore, the wearer can force its teeth to grow rapidly up to five times per day as a swift action (1 AP). The oversized teeth last for 1 round, during which time the wearer can make a bite attack. Treat this attack as a primary natural attack that deals 1d4 points of damage (or 1d6 if the wearer is Medium). If the wearer already has a bite attack, the damage of that bite attack increases by one step.
 
 **Construction** Craft Wondrous Item, *alter self*, *resistance*; **Cost** 1,250 gp
 
@@ -191,7 +191,7 @@ These masterwork iron manacles sap the will of their wearer. When attached to a 
 **Aura** faint conjuration; **CL** 1st  
 **Slot** none; **Price** 50 gp; **Weight** 1/2 lb.
 
-Prized by slavers as an affordable way to stop a captive from bleeding to death, a dose of *wound paste* acts as a *stabilize* spell when slathered on a dying creature. Applying *wound paste* is a standard action that provokes an attack of opportunity. A pot of *wound paste* contains 5 doses.
+Prized by slavers as an affordable way to stop a captive from bleeding to death, a dose of *wound paste* acts as a *stabilize* spell when slathered on a dying creature. Applying *wound paste* is a standard action (1 AP) that provokes an attack of opportunity. A pot of *wound paste* contains 5 doses.
 
 **Construction** Craft Wondrous Item, *stabilize*; **Cost** 25 gp
 
@@ -202,7 +202,7 @@ Prized by slavers as an affordable way to stop a captive from bleeding to death,
 **Aura** faint abjuration and illusion; **CL** 5th  
 **Slot** shoulders; **Price** 2,600 gp; **Weight** 1 lb.
 
-This thick leather cloak is charred and blackened around the edges and smells faintly of soot. Once per day, when subject to an effect that deals fire damage, the wearer can spend an immediate action while obscured by the flames to become invisible, leaving behind an illusory pile of ashes and bones, as if he had been slain by the fire effect. The invisibility and the illusory remains last for 5 rounds or until the wearer attacks any creature. Creatures that study or interact with the ashes can make a DC 11 Will save to disbelieve the illusion, though this does not end the invisibility effect.
+This thick leather cloak is charred and blackened around the edges and smells faintly of soot. Once per day, when subject to an effect that deals fire damage, the wearer can spend an immediate action (1 AP of your next turn) while obscured by the flames to become invisible, leaving behind an illusory pile of ashes and bones, as if he had been slain by the fire effect. The invisibility and the illusory remains last for 5 rounds or until the wearer attacks any creature. Creatures that study or interact with the ashes can make a DC 11 Will save to disbelieve the illusion, though this does not end the invisibility effect.
 
 **Construction** Craft Wondrous Item, *invisibility*, *silent image*; **Cost** 1,300 gp
 
@@ -213,7 +213,7 @@ This thick leather cloak is charred and blackened around the edges and smells fa
 **Aura** faint transmutation; **CL** 5th  
 **Slot** hands; **Price** 8,000 gp; **Weight** 1 lb.
 
-These gloves are made of a fine metal mesh. If a creature wearing rubble gloves touches a 5-foot square of stone or earth floor, rubble roils to the surface, making the square difficult terrain. Using the gloves is a standard action that does not provoke attacks of opportunity. The wearer can use the gloves to create up to 20 squares of difficult terrain per day.
+These gloves are made of a fine metal mesh. If a creature wearing rubble gloves touches a 5-foot square of stone or earth floor, rubble roils to the surface, making the square difficult terrain. Using the gloves is a standard action (1 AP) that does not provoke attacks of opportunity. The wearer can use the gloves to create up to 20 squares of difficult terrain per day.
 
 **Construction** Craft Wondrous Item, *expeditious excavation*; **Cost** 4,000 gp
 
@@ -222,7 +222,7 @@ These gloves are made of a fine metal mesh. If a creature wearing rubble gloves 
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** none; **Price** 20,000 gp; **Weight** 2 lbs.
 
-This heavy leather bag bulges only slightly but upon closer inspection appears to be chocked full of knives, gears, picks, shovels, and arrows. Once per day as a full-round action, the bearer can command the sack to create any mechanical trap of CR 4 or less, which appears at a designated spot within 50 feet. The bearer must make a Craft (traps) check with a DC equal to the normal DC for creating the trap. If successful, the trap instantly merges with the chosen area, exactly as if someone had actually built the trap in that spot. If the check fails, no trap appears. The sack can alter earth, stone, and wood to accommodate the trap without altering nearby terrain (including doors, pits, and so on).
+This heavy leather bag bulges only slightly but upon closer inspection appears to be chocked full of knives, gears, picks, shovels, and arrows. Once per day as a full-round action (3 AP), the bearer can command the sack to create any mechanical trap of CR 4 or less, which appears at a designated spot within 50 feet. The bearer must make a Craft (traps) check with a DC equal to the normal DC for creating the trap. If successful, the trap instantly merges with the chosen area, exactly as if someone had actually built the trap in that spot. If the check fails, no trap appears. The sack can alter earth, stone, and wood to accommodate the trap without altering nearby terrain (including doors, pits, and so on).
 
 **Construction** Craft Wondrous Item, *fabricate*, creator must have 5 ranks in Craft (traps); **Cost** 10,000 gp
 
@@ -309,7 +309,7 @@ This bone ring is the shape of an elongated rat biting its own tail. The wearer 
 **Aura** faint transmutation; **CL** 5th  
 **Slot** ring; **Price** 6,000 gp; **Weight** —
 
-This ring is crafted of hardened leather strips, into which bits of fur, feathers, bone, and ivory have been woven. Twice per day, when the wearer is flanking an opponent, he can as a swift action deal an additional 1d6 points of damage on a successful melee attack against that opponent. This is a sneak attack for any effects that reduce or negate such damage.
+This ring is crafted of hardened leather strips, into which bits of fur, feathers, bone, and ivory have been woven. Twice per day, when the wearer is flanking an opponent, he can as a swift action (1 AP) deal an additional 1d6 points of damage on a successful melee attack against that opponent. This is a sneak attack for any effects that reduce or negate such damage.
 
 **Construction** Forge Ring, *guidance*, creator must be able to sneak attack; **Cost** 3,000 gp
 
@@ -320,7 +320,7 @@ This ring is crafted of hardened leather strips, into which bits of fur, feather
 **Aura** faint evocation; **CL** 3rd  
 **Slot** none; **Price** 900 gp; **Weight** 1 lb.
 
-This fizzy, sky-blue liquid leaves its drinker feeling buoyant, yet bloated. The drinker gains a +4 competence bonus on Acrobatics checks made to make high or long jumps and on Swim checks for up to 1 hour after consuming the elixir. As a standard action, the drinker can exhale a 15-foot-long *gust of wind*. The drinker can exhale up to three gusts, after which the elixir’s effect is discharged and the skill bonuses end. Unused gusts dissipate after 1 hour.
+This fizzy, sky-blue liquid leaves its drinker feeling buoyant, yet bloated. The drinker gains a +4 competence bonus on Acrobatics checks made to make high or long jumps and on Swim checks for up to 1 hour after consuming the elixir. As a standard action (1 AP), the drinker can exhale a 15-foot-long *gust of wind*. The drinker can exhale up to three gusts, after which the elixir’s effect is discharged and the skill bonuses end. Unused gusts dissipate after 1 hour.
 
 **Construction** Craft Wondrous Item, *gust of wind*; **Cost** 450 gp
 
@@ -452,7 +452,7 @@ This shawl of delicate lace grants the benefits of the *fins to feet* spell (see
 **Aura** moderate evocation; **CL** 7th  
 **Slot** none; **Price** 1,400 gp; **Weight** 1/2 lb.
 
-This small clay urn contains a scintillating paste which works like *imbue with spell ability*, except the spell effect is not limited to cleric spells. Any caster may casts spells into the jar. The creature that applies the paste to its scales (a standard action) gains the ability to cast the imbued spells (assuming it has enough Hit Dice and the requisite ability scores). Only a reptilian creature (such as a dragon or a humanoid with the reptilian subtype) can use the polish to cast spells.
+This small clay urn contains a scintillating paste which works like *imbue with spell ability*, except the spell effect is not limited to cleric spells. Any caster may casts spells into the jar. The creature that applies the paste to its scales (a standard action (1 AP)) gains the ability to cast the imbued spells (assuming it has enough Hit Dice and the requisite ability scores). Only a reptilian creature (such as a dragon or a humanoid with the reptilian subtype) can use the polish to cast spells.
 
 **Construction** Craft Wondrous Item, *imbue with spell ability* or *mnemonic enhancer*; **Cost** 700 gp
 
@@ -485,7 +485,7 @@ In rocky or mountainous areas, when this stone-gray cloak is worn with the hood 
 **Aura** moderate transmutation; **CL** 9th  
 **Slot** belt; **Price** 1,000 gp; **Weight** 1 lb.
 
-This narrow cloth belt has a silver buckle in the shape of four rings. The belt allows a creature to wear a magic ring on each foot in addition to the ring on each hand, though only two rings function at any given time. As a swift action, the wearer can change which of his rings are active (both hands, both feet, left hand and right foot, and so on). For example, a creature could wear a *ring of protection*, *ring of energy resistance*, *ring of swimming*, and *ring of counterspells*, switching between any two of them as a swift action each round as it desires. The belt does not change the type of action required to activate a ring (for example, activating a *ring of invisibility* is still a standard action), but allows the wearer to easily switch between the constant powers of several worn rings. While the belt is worn, wearing a ring on a foot counts toward the attunement process of certain rings (such as a *ring of sustenance*) even if the belt isn’t used to make that ring active during that attunement period.
+This narrow cloth belt has a silver buckle in the shape of four rings. The belt allows a creature to wear a magic ring on each foot in addition to the ring on each hand, though only two rings function at any given time. As a swift action (1 AP), the wearer can change which of his rings are active (both hands, both feet, left hand and right foot, and so on). For example, a creature could wear a *ring of protection*, *ring of energy resistance*, *ring of swimming*, and *ring of counterspells*, switching between any two of them as a swift action (1 AP) each round as it desires. The belt does not change the type of action required to activate a ring (for example, activating a *ring of invisibility* is still a standard action (1 AP)), but allows the wearer to easily switch between the constant powers of several worn rings. While the belt is worn, wearing a ring on a foot counts toward the attunement process of certain rings (such as a *ring of sustenance*) even if the belt isn’t used to make that ring active during that attunement period.
 
 **Construction** Craft Wondrous Item, *polymorph*; **Cost** 500 gp
 
@@ -507,7 +507,7 @@ This black corset fits neatly beneath armor. As a free action, the wearer can co
 **Aura** moderate illusion; **CL** 7th  
 **Slot** none; **Price** 30,240 gp; **Weight** 1 lb.
 
-Anyone peering into this bag of deep gray cloth sees nothing but empty blackness. Within the bag exists an extradimensional space linked to the Plane of Shadow. Three times per day, as a move action, the bearer can reach within the bag and pull out 1d4 semisolid shards of shadow. The bag’s bearer can use each shard of shadow as a thrown weapon targeting a single 5-foot square. When it hits, it acts as a *darkness* spell, but only affecting one 5-foot square. As a move action, the bearer of the bag can move a shadow cloud up to 10 feet in any direction. Whether or not they are thrown, the shards of shadow and shadow clouds last 10 minutes before dissipating.
+Anyone peering into this bag of deep gray cloth sees nothing but empty blackness. Within the bag exists an extradimensional space linked to the Plane of Shadow. Three times per day, as a move action (1 AP), the bearer can reach within the bag and pull out 1d4 semisolid shards of shadow. The bag’s bearer can use each shard of shadow as a thrown weapon targeting a single 5-foot square. When it hits, it acts as a *darkness* spell, but only affecting one 5-foot square. As a move action (1 AP), the bearer of the bag can move a shadow cloud up to 10 feet in any direction. Whether or not they are thrown, the shards of shadow and shadow clouds last 10 minutes before dissipating.
 
 **Construction** Craft Wondrous Item, *darkness*, *shadow conjuration*; **Cost** 15,120 gp
 
@@ -538,7 +538,7 @@ This dwarven version of the more famous *rod of lordly might* has no spell-like 
 **Aura** strong evocation; **CL** 15th  
 **Slot** wrists; **Price** 25,000 gp; **Weight** 1 lb.
 
-These white leather bracers have delicate elven runes etched upon them, one reading “swift defeat” and the other “vengeance.” Once per day, as an immediate action when the wearer takes hit point damage from a target, she may cry out, “Death to those who wrong me!”, swearing vengeance against the attacker. The wearer gains a +1 competence bonus on weapon attack rolls made against the target of his sworn vengeance, and deals an additional 2d6 points of damage on successful weapon attack rolls. For the duration of the effect, the wearer takes a –2 penalty on attack rolls against any target other than his sworn enemy. These bonuses and penalties last for 24 hours or until the sworn enemy is slain or destroyed by the wearer of the bracers, whichever comes first. If the wearer fails to slay the target of his oath, these bracers cannot be used again until 7 days have passed.
+These white leather bracers have delicate elven runes etched upon them, one reading “swift defeat” and the other “vengeance.” Once per day, as an immediate action (1 AP of your next turn) when the wearer takes hit point damage from a target, she may cry out, “Death to those who wrong me!”, swearing vengeance against the attacker. The wearer gains a +1 competence bonus on weapon attack rolls made against the target of his sworn vengeance, and deals an additional 2d6 points of damage on successful weapon attack rolls. For the duration of the effect, the wearer takes a –2 penalty on attack rolls against any target other than his sworn enemy. These bonuses and penalties last for 24 hours or until the sworn enemy is slain or destroyed by the wearer of the bracers, whichever comes first. If the wearer fails to slay the target of his oath, these bracers cannot be used again until 7 days have passed.
 
 **Construction** Craft Wondrous Item, *shout*, creator must be an elf; **Cost** 12,500 gp
 
@@ -585,7 +585,7 @@ These sturdy, leather-soled cloth boots have straps at the ankles and calves to 
 **Aura** faint illusion; **CL** 3rd  
 **Slot** none; **Price** 4,000 gp; **Weight** 1 lb.
 
-This small cut crystal appears to be filled with hazy, indistinct images that constantly shift and vary. If a spellcaster holding the *phantasmal gem* casts an illusion spell with a duration of concentration (or concentration + a number of rounds), the illusion lasts up to an additional 10 rounds after the spellcaster ceases concentrating on it. The spellcaster may end the illusion early as a swift action. The *phantasmal gem* can be used multiple times in a day, but cannot grant more than a total of 10 additional rounds of illusion spells per day. A gnome using a *phantasmal gem* can recharge it by expending uses of spell-like abilities gained through the gnome magic racial trait. Each spell-like ability expended as a standard action recharges 1 round of duration to the *phantasmal gem* (up to a maximum of 10 rounds).
+This small cut crystal appears to be filled with hazy, indistinct images that constantly shift and vary. If a spellcaster holding the *phantasmal gem* casts an illusion spell with a duration of concentration (or concentration + a number of rounds), the illusion lasts up to an additional 10 rounds after the spellcaster ceases concentrating on it. The spellcaster may end the illusion early as a swift action (1 AP). The *phantasmal gem* can be used multiple times in a day, but cannot grant more than a total of 10 additional rounds of illusion spells per day. A gnome using a *phantasmal gem* can recharge it by expending uses of spell-like abilities gained through the gnome magic racial trait. Each spell-like ability expended as a standard action (1 AP) recharges 1 round of duration to the *phantasmal gem* (up to a maximum of 10 rounds).
 
 **Construction** Craft Wondrous Item, creator must be a gnome or a wizard specialized in the school of illusion; **Cost** 2,000 gp
 
@@ -605,7 +605,7 @@ A ring of craft magic always bears some sort of tool-like design in its craftsma
 **Aura** faint transmutation; **CL** 5th  
 **Slot** none; **Price** 10,000 gp; **Weight** 1/2 lb.
 
-Favored by half-elves seeking to distill their heritage into a combat edge, an ancestral clasp resembles a metal tube, open on both sides and covered in delicate elven calligraphy. Whenever a half-elf fits an ancestral clasp to the pommel, grip, or haft of a longbow, longsword, rapier, or shortbow, the character is treated as though she were proficient with that weapon. In addition, when an ancestral clasp is fitted to any weapon with the word “elven” in the title, the character treats the weapon as if it were a martial weapon, mirroring the Weapon Familiarity elven racial trait. A half-elf who already is proficient with one of the above weapons adorned with an ancestral clasp receives a +1 insight bonus on attack rolls with that weapon. Although this ability stems from the item’s magic, the affected weapon is treated as nonmagical for the purpose of overcoming damage reduction. Affixing and removing an *ancestral clasp* is a standard action.
+Favored by half-elves seeking to distill their heritage into a combat edge, an ancestral clasp resembles a metal tube, open on both sides and covered in delicate elven calligraphy. Whenever a half-elf fits an ancestral clasp to the pommel, grip, or haft of a longbow, longsword, rapier, or shortbow, the character is treated as though she were proficient with that weapon. In addition, when an ancestral clasp is fitted to any weapon with the word “elven” in the title, the character treats the weapon as if it were a martial weapon, mirroring the Weapon Familiarity elven racial trait. A half-elf who already is proficient with one of the above weapons adorned with an ancestral clasp receives a +1 insight bonus on attack rolls with that weapon. Although this ability stems from the item’s magic, the affected weapon is treated as nonmagical for the purpose of overcoming damage reduction. Affixing and removing an *ancestral clasp* is a standard action (1 AP).
 
 **Construction** Craft Wondrous Item, *paragon surge*, creator must be a half-elf*;* **Cost** 5,000 gp
 
@@ -614,7 +614,7 @@ Favored by half-elves seeking to distill their heritage into a combat edge, an a
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** neck; **Price** 2,000 gp; **Weight** —
 
-Occasionally, half-elves find it socially advantageous to blend in fully with either elves or humans. As a standard action, the wearer of this brooch can transform his features to appear either entirely elven or entirely human. The magic of this brooch actually changes the wearer’s features physically, granting him a +20 circumstance bonus on Disguise checks to appear as a member of the selected race. The transformation does not otherwise alter the wearer’s features, and those who know him recognize him without a Perception check. This change remains until the brooch is used again or removed. This change does not radiate magic and cannot be seen with *detect magic*, although *true seeing* does reveal the alteration. This item only functions for half-elves, but there are versions that exist for half-orcs as well.
+Occasionally, half-elves find it socially advantageous to blend in fully with either elves or humans. As a standard action (1 AP), the wearer of this brooch can transform his features to appear either entirely elven or entirely human. The magic of this brooch actually changes the wearer’s features physically, granting him a +20 circumstance bonus on Disguise checks to appear as a member of the selected race. The transformation does not otherwise alter the wearer’s features, and those who know him recognize him without a Perception check. This change remains until the brooch is used again or removed. This change does not radiate magic and cannot be seen with *detect magic*, although *true seeing* does reveal the alteration. This item only functions for half-elves, but there are versions that exist for half-orcs as well.
 
 **Construction** Craft Wondrous Item, *alter self*, creator must be a half-elf; **Cost** 1,000 gp
 
@@ -632,7 +632,7 @@ Half-elves are often called upon to mediate disputes when elves and humans come 
 **Aura** moderate conjuration and transmutation; **CL** 10th  
 **Slot** none; **Price** 19,000 gp; **Weight** —
 
-A favored tool of diplomats and those tasked with protecting the lives of regents and other important people, this small luminescent white pearl purifies putridity and poison in two ways. First, up to 10 cubic feet of food or drink that it touches per day is affected as if a *purify food and drink* spell had been cast upon the food or drink. Second, once per day, if placed in the mouth of a creature (as a standard action that provokes attacks of opportunity), the pearl acts as a *neutralize poison* spell cast on that creature (caster level 10th).
+A favored tool of diplomats and those tasked with protecting the lives of regents and other important people, this small luminescent white pearl purifies putridity and poison in two ways. First, up to 10 cubic feet of food or drink that it touches per day is affected as if a *purify food and drink* spell had been cast upon the food or drink. Second, once per day, if placed in the mouth of a creature (as a standard action (1 AP) that provokes attacks of opportunity), the pearl acts as a *neutralize poison* spell cast on that creature (caster level 10th).
 
 **Construction** Craft Wondrous Item, *neutralize poison, purify food and water*; **Cost** 8,000 gp
 
@@ -699,7 +699,7 @@ When a handful of this coarse, crystalline powder is thrown at a single creature
 **Aura** faint transmutation; **CL** 5th  
 **Slot** hands; **Price** 2,500 gp; **Weight** —
 
-These dark-colored, skin-tight gloves are typically made of either supple calfskin or silk. A wearer of these gloves with at least 1 rank in Sleight of Hand can perform such a check as a move action by taking a –10 penalty on the check rather than the normal –20. Both gloves must be worn for the magic to be effective.
+These dark-colored, skin-tight gloves are typically made of either supple calfskin or silk. A wearer of these gloves with at least 1 rank in Sleight of Hand can perform such a check as a move action (1 AP) by taking a –10 penalty on the check rather than the normal –20. Both gloves must be worn for the magic to be effective.
 
 **Construction** Craft Wondrous Item, *cat’s grace*, *haste*; **Cost** 1,250 gp
 
@@ -708,7 +708,7 @@ These dark-colored, skin-tight gloves are typically made of either supple calfsk
 **Aura** moderate conjuration; **CL** 7th  
 **Slot** none; **Price** 1,000 gp; **Weight** —
 
-When smoked in any pipe, this pinch of magical tobacco produces a languid, milky-white smoke that the smoker can transform into useful objects. A halfling who puffs on the pipe as a full-round action can shape the smoke into an object weighing no more than 5 pounds and having a maximum volume of 1 cubic foot. The halfling can, on following rounds, spend additional full-round actions to increase the object’s weight by 2 additional pounds and its volume by another cubic foot. The halfling must succeed at an appropriate Craft check to make a complex item. If the halfling stops puffing on her pipe for any reason before she finishes creating the object, the figure in the smoke collapses and her pipe is extinguished. Objects created by *solidsmoke pipeweed* last for 24 hours before fading away into vapor. Objects created by the pipeweed have the same hardness, hit points, and other qualities as manufactured objects of their type, but look smoky and indistinct. Each pinch of *solidsmoke pipeweed* is sufficient for 3 full rounds of smoking. A single larger item must be created with a single pinch of *solidsmoke pipeweed*, so any item created with this pipeweed can’t be larger than 9 pounds and 3 cubic feet. A halfling cannot create an object designed to exactly duplicate or replace another specific object. For instance, while she could create a smoky lock with its own key, she could not puff smoke into an existing keyhole and then create a key that would open that particular lock. This smoke is caustic and chokes non-halflings. It grants non-halflings no benefits, and each time they spend a standard action to smoke the pipeweed, they are sickened for 1 round.
+When smoked in any pipe, this pinch of magical tobacco produces a languid, milky-white smoke that the smoker can transform into useful objects. A halfling who puffs on the pipe as a full-round action (3 AP) can shape the smoke into an object weighing no more than 5 pounds and having a maximum volume of 1 cubic foot. The halfling can, on following rounds, spend additional full-round actions to increase the object’s weight by 2 additional pounds and its volume by another cubic foot. The halfling must succeed at an appropriate Craft check to make a complex item. If the halfling stops puffing on her pipe for any reason before she finishes creating the object, the figure in the smoke collapses and her pipe is extinguished. Objects created by *solidsmoke pipeweed* last for 24 hours before fading away into vapor. Objects created by the pipeweed have the same hardness, hit points, and other qualities as manufactured objects of their type, but look smoky and indistinct. Each pinch of *solidsmoke pipeweed* is sufficient for 3 full rounds of smoking. A single larger item must be created with a single pinch of *solidsmoke pipeweed*, so any item created with this pipeweed can’t be larger than 9 pounds and 3 cubic feet. A halfling cannot create an object designed to exactly duplicate or replace another specific object. For instance, while she could create a smoky lock with its own key, she could not puff smoke into an existing keyhole and then create a key that would open that particular lock. This smoke is caustic and chokes non-halflings. It grants non-halflings no benefits, and each time they spend a standard action (1 AP) to smoke the pipeweed, they are sickened for 1 round.
 
 **Construction** Craft Wondrous Item, *minor creation*, creator must be a halfling; **Cost** 500 gp
 
@@ -746,7 +746,7 @@ This crown of steel and gold projects an aura of menacing power. The wearer gain
 **Aura** faint evocation; **CL** 3rd  
 **Slot** head; **Price** 6,000 gp; **Weight** 3 lbs.
 
-This radiant crown of steel is bedecked with miniature mithral swords. A *crown of swords* can be used up to 10 times per day. When struck in combat, the wearer may spend one use as an immediate action to create a longsword-shaped *spiritual weapon* that then attacks her attacker. On the wearer’s next turn, she may spend one additional use each round to continue attacking that target with the *spiritual weapon*; the *spiritual weapon* cannot be redirected and disappears if the target is killed or moves out of range. Multiple *spiritual weapons* may be created (even attacking the same target) if the wearer is attacked in subsequent rounds.
+This radiant crown of steel is bedecked with miniature mithral swords. A *crown of swords* can be used up to 10 times per day. When struck in combat, the wearer may spend one use as an immediate action (1 AP of your next turn) to create a longsword-shaped *spiritual weapon* that then attacks her attacker. On the wearer’s next turn, she may spend one additional use each round to continue attacking that target with the *spiritual weapon*; the *spiritual weapon* cannot be redirected and disappears if the target is killed or moves out of range. Multiple *spiritual weapons* may be created (even attacking the same target) if the wearer is attacked in subsequent rounds.
 
 **Construction** Craft Wondrous Item, *spiritual weapon*; **Cost** 3,000 gp
 
@@ -755,6 +755,6 @@ This radiant crown of steel is bedecked with miniature mithral swords. A *crown 
 **Aura** moderate abjuration; **CL** 9th  
 **Slot** none; **Price** 38,305 gp; **Weight** 5 lbs.
 
-This rod functions as a *+2 light mace*. It takes the form of a light mace with a head in the shape of a clenched fist. While a creature wields this rod, it grants all its allies within a 20-foot-radius burst a +2 morale bonus on saving throws against fear and emotion effects, or a +4 morale bonus on such saves if the ally has the human subtype. Also, once per day as an immediate action, the wielder can activate the rod to allow himself or a single ally within the rod’s aura to reroll a failed saving throw against a spell or effect with the fear or emotion descriptor. The affected creature must take the result of the reroll, even if it is worse.
+This rod functions as a *+2 light mace*. It takes the form of a light mace with a head in the shape of a clenched fist. While a creature wields this rod, it grants all its allies within a 20-foot-radius burst a +2 morale bonus on saving throws against fear and emotion effects, or a +4 morale bonus on such saves if the ally has the human subtype. Also, once per day as an immediate action (1 AP of your next turn), the wielder can activate the rod to allow himself or a single ally within the rod’s aura to reroll a failed saving throw against a spell or effect with the fear or emotion descriptor. The affected creature must take the result of the reroll, even if it is worse.
 
 **Construction** Craft Rod, *bless*, *calm emotion*, the creator must have the human subtype; **Cost** 19,305 gp

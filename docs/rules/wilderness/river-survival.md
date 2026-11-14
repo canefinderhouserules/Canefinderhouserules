@@ -10,4 +10,4 @@ You can also use a long, sturdy object such as a pole, loose tree branch, or rea
 
 ## Swinging from Vines
 
-As a full-round action, you can swing using a rope, vine, or similar aid within reach toward an opponent and make a single melee attack. You must move at least 20 feet (4 squares) and you must start on elevation that is equal or higher than that of your opponent. Your movement provokes attacks of opportunity as normal. This action is otherwise treated as a charge attack.
+As a full-round action (3 AP), you can swing using a rope, vine, or similar aid within reach toward an opponent and make a single melee attack. You must move at least 20 feet (4 squares) and you must start on elevation that is equal or higher than that of your opponent. Your movement provokes attacks of opportunity as normal. This action is otherwise treated as a charge attack.

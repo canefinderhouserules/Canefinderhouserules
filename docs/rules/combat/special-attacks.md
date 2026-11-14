@@ -4,13 +4,13 @@ This section discusses all of the various standard maneuvers you can perform dur
 
 ## Aid Another
 
-In melee combat, you can help a friend attack or defend by distracting or interfering with an opponent. If you’re in position to make a melee attack on an opponent that is engaging a friend in melee combat, you can attempt to aid your friend as a standard action. You make an attack roll against AC 10. If you succeed, your friend gains either a +2 bonus on his next attack roll against that opponent or a +2 bonus to AC against that opponent’s next attack (your choice), as long as that attack comes before the beginning of your next turn. Multiple characters can aid the same friend, and similar bonuses stack.
+In melee combat, you can help a friend attack or defend by distracting or interfering with an opponent. If you’re in position to make a melee attack on an opponent that is engaging a friend in melee combat, you can attempt to aid your friend as a standard action (1 AP). You make an attack roll against AC 10. If you succeed, your friend gains either a +2 bonus on his next attack roll against that opponent or a +2 bonus to AC against that opponent’s next attack (your choice), as long as that attack comes before the beginning of your next turn. Multiple characters can aid the same friend, and similar bonuses stack.
 
-You can also use this standard action to help a friend in other ways, such as when he is affected by a spell, or to assist another character’s skill check.
+You can also use this standard action (1 AP) to help a friend in other ways, such as when he is affected by a spell, or to assist another character’s skill check.
 
 ## Charge
 
-Charging is a special full-round action that allows you to move up to twice your speed and attack during the action. Charging, however, carries tight restrictions on how you can move.
+Charging is a special full-round action (2 AP) that allows you to move up to twice your speed and attack during the action. Charging, however, carries tight restrictions on how you can move.
 
 **Movement During a Charge**: You must move before your attack, not after. You must move at least 10 feet (2 squares) and may move up to double your speed directly toward the designated opponent. If you move a distance equal to your speed or less, you can also draw a weapon during a charge attack if your base attack bonus is at least +1.
 
@@ -20,7 +20,7 @@ If you don’t have line of sight to the opponent at the start of your turn, you
 
 You can’t take a 5-foot step in the same round as a charge.
 
-If you are able to take only a standard action on your turn, you can still charge, but you are only allowed to move up to your speed (instead of up to double your speed) and you cannot draw a weapon unless you possess the Quick Draw feat. You can’t use this option unless you are restricted to taking only a standard action on your turn.
+If you are able to take only a standard action (1 AP) on your turn, you can still charge, but you are only allowed to move up to your speed (instead of up to double your speed) and you cannot draw a weapon unless you possess the Quick Draw feat. You can’t use this option unless you are restricted to taking only a standard action (1 AP) on your turn.
 
 **Attacking on a Charge**: After moving, you may make a single melee attack. You get a +2 bonus on the attack roll and take a –2 penalty to your AC until the start of your next turn.
 
@@ -31,6 +31,9 @@ Even if you have extra attacks, such as from having a high enough base attack bo
 **Lances and Charge Attacks**: A lance deals double damage if employed by a mounted character in a charge.
 
 **Weapons Readied against a Charge**: Spears, tridents, and other weapons with the brace feature deal double damage when readied (set) and used against a charging character.
+
+??? tip apr "Action Points (optional rule)"
+    A charge costs 2 AP: move up to double your speed and make one attack. With pounce it costs 3 AP and you attack with everything you have.
 
 ## Combat Maneuvers
 
@@ -58,7 +61,7 @@ The special size modifier for a creature’s Combat Maneuver Defense is as follo
 
 ### Bull Rush
 
-You can make a bull rush as a standard action or as part of a charge, in place of the melee attack. You can only bull rush an opponent who is no more than one size category larger than you. A bull rush attempts to push an opponent straight back without doing any harm. If you do not have the Improved Bull Rush feat, or a similar ability, initiating a bull rush provokes an attack of opportunity from the target of your maneuver.
+You can make a bull rush as a standard action (1 AP) or as part of a charge, in place of the melee attack. You can only bull rush an opponent who is no more than one size category larger than you. A bull rush attempts to push an opponent straight back without doing any harm. If you do not have the Improved Bull Rush feat, or a similar ability, initiating a bull rush provokes an attack of opportunity from the target of your maneuver.
 
 If your attack is successful, your target is pushed back 5 feet. For every 5 by which your attack exceeds your opponent’s CMD you can push the target back an additional 5 feet. You can move with the target if you wish but you must have the available movement to do so. If your attack fails, your movement ends in front of the target.
 
@@ -66,9 +69,9 @@ An enemy being moved by a bull rush does not provoke an attack of opportunity be
 
 ### Dirty Trick
 
-You can attempt to hinder a foe in melee as a standard action. This maneuver covers any sort of situational attack that imposes a penalty on a foe for a short period of time. Examples include kicking sand into an opponent’s face to blind him for 1 round, pulling down an enemy’s pants to halve his speed, or hitting a foe in a sensitive spot to make him sickened for a round. The GM is the arbiter of what can be accomplished with this maneuver, but it cannot be used to impose a permanent penalty, and the results can be undone if the target spends a move action. If you do not have the Improved Dirty Trick feat or a similar ability, attempting a dirty trick provokes an attack of opportunity from the target of your maneuver.
+You can attempt to hinder a foe in melee as a standard action (1 AP). This maneuver covers any sort of situational attack that imposes a penalty on a foe for a short period of time. Examples include kicking sand into an opponent’s face to blind him for 1 round, pulling down an enemy’s pants to halve his speed, or hitting a foe in a sensitive spot to make him sickened for a round. The GM is the arbiter of what can be accomplished with this maneuver, but it cannot be used to impose a permanent penalty, and the results can be undone if the target spends a move action (1 AP). If you do not have the Improved Dirty Trick feat or a similar ability, attempting a dirty trick provokes an attack of opportunity from the target of your maneuver.
 
-If your attack is successful, the target takes a penalty. The penalty is limited to one of the following conditions: blinded, dazzled, deafened, entangled, shaken, or sickened. This condition lasts for 1 round. For every 5 by which your attack exceeds your opponent’s CMD, the penalty lasts 1 additional round. This penalty can usually be removed if the target spends a move action. If you possess the Greater Dirty Trick feat, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds your opponent’s CMD. In addition, removing the condition requires the target to spend a standard action.
+If your attack is successful, the target takes a penalty. The penalty is limited to one of the following conditions: blinded, dazzled, deafened, entangled, shaken, or sickened. This condition lasts for 1 round. For every 5 by which your attack exceeds your opponent’s CMD, the penalty lasts 1 additional round. This penalty can usually be removed if the target spends a move action (1 AP). If you possess the Greater Dirty Trick feat, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds your opponent’s CMD. In addition, removing the condition requires the target to spend a standard action (1 AP).
 
 ### Disarm
 
@@ -78,7 +81,7 @@ If your attack is successful, your target drops one item it is carrying of your 
 
 ### Drag
 
-You can attempt to drag a foe as a standard action. You can only drag an opponent who is no more than one size category larger than you. The aim of this maneuver is to drag a foe in a straight line behind you without doing any harm. If you do not have the Improved Drag feat or a similar ability, initiating a drag provokes an attack of opportunity from the target of your maneuver.
+You can attempt to drag a foe as a standard action (1 AP). You can only drag an opponent who is no more than one size category larger than you. The aim of this maneuver is to drag a foe in a straight line behind you without doing any harm. If you do not have the Improved Drag feat or a similar ability, initiating a drag provokes an attack of opportunity from the target of your maneuver.
 
 If your attack is successful, both you and your target are moved 5 feet back, with your opponent occupying your original space and you in the space behind that in a straight line. For every 5 by which your attack exceeds your opponent’s CMD, you can drag the target back an additional 5 feet. You must be able to move with the target to perform this maneuver. If you do not have enough movement, the drag goes to the maximum amount of movement available to you and ends.
 
@@ -88,7 +91,7 @@ An enemy being moved by a drag does not provoke an attack of opportunity because
 
 ### Grapple
 
-As a standard action, you can attempt to grapple a foe, hindering his combat options. If you do not have Improved Grapple, grab, or a similar ability, attempting to grapple a foe provokes an attack of opportunity from the target of your maneuver. Humanoid creatures without two free hands attempting to grapple a foe take a –4 penalty on the combat maneuver roll. If successful, both you and the target gain the grappled condition (see the Appendices). If you successfully grapple a creature that is not adjacent to you, move that creature to an adjacent open space (if no space is available, your grapple fails). Although both creatures have the grappled condition, you can, as the creature that initiated the grapple, release the grapple as a free action, removing the condition from both you and the target. If you do not release the grapple, you must continue to make a check each round, as a standard action, to maintain the hold. If your target does not break the grapple, you get a +5 circumstance bonus on grapple checks made against the same target in subsequent rounds. Once you are grappling an opponent, a successful check allows you to continue grappling the foe, and also allows you to perform one of the following actions (as part of the standard action spent to maintain the grapple).
+As a standard action (1 AP), you can attempt to grapple a foe, hindering his combat options. If you do not have Improved Grapple, grab, or a similar ability, attempting to grapple a foe provokes an attack of opportunity from the target of your maneuver. Humanoid creatures without two free hands attempting to grapple a foe take a –4 penalty on the combat maneuver roll. If successful, both you and the target gain the grappled condition (see the Appendices). If you successfully grapple a creature that is not adjacent to you, move that creature to an adjacent open space (if no space is available, your grapple fails). Although both creatures have the grappled condition, you can, as the creature that initiated the grapple, release the grapple as a free action, removing the condition from both you and the target. If you do not release the grapple, you must continue to make a check each round, as a standard action (1 AP), to maintain the hold. If your target does not break the grapple, you get a +5 circumstance bonus on grapple checks made against the same target in subsequent rounds. Once you are grappling an opponent, a successful check allows you to continue grappling the foe, and also allows you to perform one of the following actions (as part of the standard action (1 AP) spent to maintain the grapple).
 
 *Move*: You can move both yourself and your target up to half your speed. At the end of your movement, you can place your target in any square adjacent to you. If you attempt to place your foe in a hazardous location, such as in a *wall of* *fire* or over a pit, the target receives a free attempt to break your grapple with a +4 bonus.
 
@@ -98,19 +101,22 @@ As a standard action, you can attempt to grapple a foe, hindering his combat opt
 
 *Tie Up*: If you have your target pinned, otherwise restrained, or unconscious, you can use rope to tie him up. This works like a pin effect, but the DC to escape the bonds is equal to 20 + your Combat Maneuver Bonus (instead of your CMD). The ropes do not need to make a check every round to maintain the pin. If you are grappling the target, you can attempt to tie him up in ropes, but doing so requires a combat maneuver check at a –10 penalty. If the DC to escape from these bindings is higher than 20 + the target’s CMB, the target cannot escape from the bonds, even with a natural 20 on the check.
 
-**If You Are Grappled**: If you are grappled, you can attempt to break the grapple as a standard action by making a combat maneuver check (DC equal to your opponent’s CMD; this does not provoke an attack of opportunity) or Escape Artist check (with a DC equal to your opponent’s CMD). If you succeed, you break the grapple and can act normally. Alternatively, if you succeed, you can become the grappler, grappling the other creature (meaning that the other creature cannot freely release the grapple without making a combat maneuver check, while you can). Instead of attempting to break or reverse the grapple, you can take any action that doesn’t require two hands to perform, such as cast a spell or make an attack or full attack with a light or one-handed weapon against any creature within your reach, including the creature that is grappling you. See the grappled condition for additional details. If you are pinned, your actions are very limited. See the pinned condition in Appendix 2 for additional details.
+**If You Are Grappled**: If you are grappled, you can attempt to break the grapple as a standard action (1 AP) by making a combat maneuver check (DC equal to your opponent’s CMD; this does not provoke an attack of opportunity) or Escape Artist check (with a DC equal to your opponent’s CMD). If you succeed, you break the grapple and can act normally. Alternatively, if you succeed, you can become the grappler, grappling the other creature (meaning that the other creature cannot freely release the grapple without making a combat maneuver check, while you can). Instead of attempting to break or reverse the grapple, you can take any action that doesn’t require two hands to perform, such as cast a spell or make an attack or full attack with a light or one-handed weapon against any creature within your reach, including the creature that is grappling you. See the grappled condition for additional details. If you are pinned, your actions are very limited. See the pinned condition in Appendix 2 for additional details.
 
 **Multiple Creatures**: Multiple creatures can attempt to grapple one target. The creature that first initiates the grapple is the only one that makes a check, with a +2 bonus for each creature that assists in the grapple (using the Aid Another action). Multiple creatures can also assist another creature in breaking free from a grapple, with each creature that assists (using the Aid Another action) granting a +2 bonus on the grappled creature’s combat maneuver check.
 
+??? tip apr "Action Points (optional rule)"
+    Starting a grapple costs 2 AP, pinning a grappled foe 2 AP, and maintaining a grapple 1 AP. Grapple checks are combat maneuvers, so they take the [multiple attack penalty](../combat-variants/action-points.md#attacks).
+
 ### Overrun
 
-As a standard action, taken during your move or as part of a charge, you can attempt to overrun your target, moving through its square. You can only overrun an opponent who is no more than one size category larger than you. If you do not have the Improved Overrun feat, or a similar ability, initiating an overrun provokes an attack of opportunity from the target of your maneuver. If your overrun attempt fails, you stop in the space directly in front of the opponent, or the nearest open space in front of the creature if there are other creatures occupying that space.
+As a standard action (1 AP), taken during your move or as part of a charge, you can attempt to overrun your target, moving through its square. You can only overrun an opponent who is no more than one size category larger than you. If you do not have the Improved Overrun feat, or a similar ability, initiating an overrun provokes an attack of opportunity from the target of your maneuver. If your overrun attempt fails, you stop in the space directly in front of the opponent, or the nearest open space in front of the creature if there are other creatures occupying that space.
 
 When you attempt to overrun a target, it can choose to avoid you, allowing you to pass through its square without requiring an attack. If your target does not avoid you, make a combat maneuver check as normal. If your maneuver is successful, you move through the target’s space. If your attack exceeds your opponent’s CMD by 5 or more, you move through the target’s space and the target is knocked prone. If the target has more than two legs, add +2 to the DC of the combat maneuver attack roll for each additional leg it has.
 
 ### Reposition
 
-You can attempt to reposition a foe to a different location as a standard action. You can only reposition an opponent that is no more than one size category larger than you. A reposition attempts to force a foe to move to a different position in relation to your location without doing any harm. If you do not have the Improved Reposition feat or a similar ability, attempting to reposition a foe provokes an attack of opportunity from the target of your maneuver. You cannot use this maneuver to move a foe into a space that is intrinsically dangerous, such as a pit or wall of fire.
+You can attempt to reposition a foe to a different location as a standard action (1 AP). You can only reposition an opponent that is no more than one size category larger than you. A reposition attempts to force a foe to move to a different position in relation to your location without doing any harm. If you do not have the Improved Reposition feat or a similar ability, attempting to reposition a foe provokes an attack of opportunity from the target of your maneuver. You cannot use this maneuver to move a foe into a space that is intrinsically dangerous, such as a pit or wall of fire.
 
 If your attack is successful, you may move your target 5 feet to a new location. For every 5 by which your attack exceeds your opponent’s CMD, you can move the target an additional 5 feet. The target must remain within your reach at all times during this movement, except for the final 5 feet of movement, which can be to a space adjacent to your reach.
 
@@ -118,7 +124,7 @@ An enemy being moved by a reposition does not provoke an attack of opportunity b
 
 ### Steal
 
-You can attempt to take an item from a foe as a standard action. This maneuver can be used in melee to take any item that is neither held nor hidden in a bag or pack. You must have at least one hand free (holding nothing) to attempt this maneuver. You must select the item to be taken before the check is made. Items that are simply tucked into a belt or loosely attached (such as brooches or necklaces) are the easiest to take. Items fastened to a foe (such as cloaks, sheathed weapons, or pouches) are more difficult to take, and give the opponent a +5 bonus (or greater) to his CMD. Items that are closely worn (such as armor, backpacks, boots, clothing, or rings) cannot be taken with this maneuver. Items held in the hands (such as wielded weapons or wands) also cannot be taken with the steal maneuver—you must use the disarm combat maneuver instead. The GM is the final arbiter of what items can be taken. If you do not have the Improved Steal feat or a similar ability, attempting to steal an object provokes an attack of opportunity from the target of your maneuver.
+You can attempt to take an item from a foe as a standard action (1 AP). This maneuver can be used in melee to take any item that is neither held nor hidden in a bag or pack. You must have at least one hand free (holding nothing) to attempt this maneuver. You must select the item to be taken before the check is made. Items that are simply tucked into a belt or loosely attached (such as brooches or necklaces) are the easiest to take. Items fastened to a foe (such as cloaks, sheathed weapons, or pouches) are more difficult to take, and give the opponent a +5 bonus (or greater) to his CMD. Items that are closely worn (such as armor, backpacks, boots, clothing, or rings) cannot be taken with this maneuver. Items held in the hands (such as wielded weapons or wands) also cannot be taken with the steal maneuver—you must use the disarm combat maneuver instead. The GM is the final arbiter of what items can be taken. If you do not have the Improved Steal feat or a similar ability, attempting to steal an object provokes an attack of opportunity from the target of your maneuver.
 
 Although this maneuver can only be performed if the target is within your reach, you can use a whip to steal an object from a target within range with a –4 penalty on the attack roll.
 
@@ -138,17 +144,17 @@ If your attack exceeds the target’s CMD, the target is knocked prone. If your 
 
 ## Feint
 
-Feinting is a standard action. To feint, make a Bluff skill check. The DC of this check is equal to 10 + your opponent’s base attack bonus + your opponent’s Wisdom modifier. If your opponent is trained in Sense Motive, the DC is instead equal to 10 + your opponent’s Sense Motive bonus, if higher. If successful, the next melee attack you make against the target does not allow him to use his Dexterity bonus to AC (if any). This attack must be made on or before your next turn.
+Feinting is a standard action (1 AP). To feint, make a Bluff skill check. The DC of this check is equal to 10 + your opponent’s base attack bonus + your opponent’s Wisdom modifier. If your opponent is trained in Sense Motive, the DC is instead equal to 10 + your opponent’s Sense Motive bonus, if higher. If successful, the next melee attack you make against the target does not allow him to use his Dexterity bonus to AC (if any). This attack must be made on or before your next turn.
 
 When feinting against a nonhumanoid you take a –4 penalty. Against a creature of animal Intelligence (1 or 2), you take a –8 penalty. Against a creature lacking an Intelligence score, it’s impossible. Feinting in combat does not provoke attacks of opportunity.
 
-**Feinting as a Move Action**: With the Improved Feint feat, you can attempt a feint as a move action.
+**Feinting as a Move Action (1 AP)**: With the Improved Feint feat, you can attempt a feint as a move action (1 AP).
 
 ## Mounted Combat
 
 These rules cover being mounted on a horse in combat but can also be applied to more unusual steeds, such as a griffon or dragon.
 
-**Mounts in Combat**: Horses, ponies, and riding dogs can serve readily as combat steeds. Mounts that do not possess combat training (see the Handle Animal skill) are frightened by combat. If you don’t dismount, you must make a DC 20 Ride check each round as a move action to control such a mount. If you succeed, you can perform a standard action after the move action. If you fail, the move action becomes a full-round action, and you can’t do anything else until your next turn.
+**Mounts in Combat**: Horses, ponies, and riding dogs can serve readily as combat steeds. Mounts that do not possess combat training (see the Handle Animal skill) are frightened by combat. If you don’t dismount, you must make a DC 20 Ride check each round as a move action (1 AP) to control such a mount. If you succeed, you can perform a standard action (1 AP) after the move action (1 AP). If you fail, the move action (1 AP) becomes a full-round action (3 AP), and you can’t do anything else until your next turn.
 
 Your mount acts on your initiative count as you direct it. You move at its speed, but the mount uses its action to move.
 
@@ -195,3 +201,6 @@ Table 8–7 summarizes the interaction of all these factors.
 | Two-Weapon Fighting feat | –4 | –4 |
 | Off-hand weapon is light and | –2 | –2 |
 | Two-Weapon Fighting feat |  |  |
+
+??? tip apr "Action Points (optional rule)"
+    Spend 2 AP to attack once with each weapon, both at –2 with the [Two-Weapon Fighting](../feats/two-weapon-fighting.md) feat. A third attack that turn takes –10 (–5 with Improved Two-Weapon Fighting, and –2 once your base attack bonus reaches +11).

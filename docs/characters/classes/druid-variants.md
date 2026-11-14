@@ -128,7 +128,7 @@ Out upon the wide and rolling prairies and savannahs, plains druids stand guard 
 
 **Run Like the Wind (Ex)**: At 3rd level, a plains druid gains +10 feet to her land speed when wearing light or no armor and carrying a light load, and once per hour, she may run or charge at double the normal speed for 1 round. If riding her animal companion, it gains this ability instead. This ability replaces trackless step.
 
-**Savanna Ambush (Ex)**: At 4th level, a plains druid gains concealment whenever she is [prone](../../rules/appendices/conditions.md#prone) in natural surroundings, and can make Stealth checks at no penalty when prone and not moving or at –5 when crawling. A plains druid can stand up from prone as an immediate action during a surprise round. This ability replaces resist nature’s lure.
+**Savanna Ambush (Ex)**: At 4th level, a plains druid gains concealment whenever she is [prone](../../rules/appendices/conditions.md#prone) in natural surroundings, and can make Stealth checks at no penalty when prone and not moving or at –5 when crawling. A plains druid can stand up from prone as an immediate action (1 AP of your next turn) during a surprise round. This ability replaces resist nature’s lure.
 
 **Wild Shape (Su)**: A plains druid gains this ability at 6th level, except that her effective druid level for the ability is equal to her druid level – 2.
 
@@ -182,11 +182,11 @@ A shaman with this focus calls upon the mighty bear, titan of the woodlands and 
 
 **Nature Bond**: A bear shaman who chooses an animal companion must select a bear. If choosing a domain, the bear shaman must choose from the Animal, Earth, Protection, and Strength domains.
 
-**Wild Empathy (Ex)**: A bear shaman can use wild empathy with bears and wolverines as a full-round action with a +4 bonus.
+**Wild Empathy (Ex)**: A bear shaman can use wild empathy with bears and wolverines as a full-round action (3 AP) with a +4 bonus.
 
-**Totem Transformation (Su)**: At 2nd level, a bear shaman may adopt an aspect of the bear while retaining her normal form. She gains one of the following bonuses: movement (+10 enhancement bonus to land speed, +4 racial bonus on Swim checks), senses (low-light vision, scent), toughness (+2 natural armor bonus to AC, Endurance feat), or natural weapons (bite [1d6] and 2 claws [1d4] for a Medium shaman, +2 to CMB on grapple checks). While using totem transformation, the bear shaman may speak normally and can cast speak with animals (mammals only) at will. Using this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. The bear shaman can use this ability for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive, but they must be used in 1-minute increments. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape.
+**Totem Transformation (Su)**: At 2nd level, a bear shaman may adopt an aspect of the bear while retaining her normal form. She gains one of the following bonuses: movement (+10 enhancement bonus to land speed, +4 racial bonus on Swim checks), senses (low-light vision, scent), toughness (+2 natural armor bonus to AC, Endurance feat), or natural weapons (bite [1d6] and 2 claws [1d4] for a Medium shaman, +2 to CMB on grapple checks). While using totem transformation, the bear shaman may speak normally and can cast speak with animals (mammals only) at will. Using this ability is a standard action (1 AP) at 2nd level, a move action (1 AP) at 7th level, and a swift action (1 AP) at 12th level. The bear shaman can use this ability for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive, but they must be used in 1-minute increments. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape.
 
-**Totemic Summons (Su)**: At 5th level, a bear shaman may cast summon nature’s ally as a standard action when summoning bears, and summoned bears gain temporary hit points equal to her druid level. She can apply the young template to any bear to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces a thousand faces.
+**Totemic Summons (Su)**: At 5th level, a bear shaman may cast summon nature’s ally as a standard action (1 AP) when summoning bears, and summoned bears gain temporary hit points equal to her druid level. She can apply the young template to any bear to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces a thousand faces.
 
 **Wild Shape (Su)**: At 6th level, a bear shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a bear, she instead uses her druid level + 2.
 
@@ -198,11 +198,11 @@ A shaman with this totem calls upon the noble eagle, stern and proud, soaring hi
 
 **Nature Bond**: An eagle shaman who chooses an animal companion must select a bird (eagle). If choosing a domain, the eagle shaman must choose from the Air, Animal, Nobility, and Weather domains.
 
-**Wild Empathy (Ex)**: An eagle shaman can use wild empathy with birds as a full-round action with a +4 bonus.
+**Wild Empathy (Ex)**: An eagle shaman can use wild empathy with birds as a full-round action (3 AP) with a +4 bonus.
 
 **Totem Transformation (Su)**: At 2nd level, an eagle shaman may adopt an aspect of the eagle while retaining her normal form. This ability functions as the bear shaman ability, but the druid may select from the following bonuses: movement (fly speed 30 feet [average], the druid must be 5th level to select this bonus), senses (low-light vision, +4 racial bonus to Perception), or natural weapons (bite [1d4], 2 talons [1d4] for a Medium shaman). While using totem transformation, the eagle shaman may speak normally and can cast speak with animals (birds only) at will.
 
-**Totemic Summons (Su)**: At 5th level, an eagle shaman may cast summon nature’s ally as a standard action when summoning eagles, rocs, and giant eagles (added to the 4th-level list), and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
+**Totemic Summons (Su)**: At 5th level, an eagle shaman may cast summon nature’s ally as a standard action (1 AP) when summoning eagles, rocs, and giant eagles (added to the 4th-level list), and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, an eagle shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of an eagle or roc, she instead uses her druid level + 2.
 
@@ -214,11 +214,11 @@ A shaman with this totem calls upon the proud lion, imposing and majestic, the m
 
 **Nature Bond**: A lion shaman who chooses an animal companion must select a lion. If choosing a domain, the lion shaman must choose from the Animal, Glory, Nobility, and Sun domains.
 
-**Wild Empathy (Ex)**: A lion shaman can use wild empathy with felines as a full-round action with a +4 bonus.
+**Wild Empathy (Ex)**: A lion shaman can use wild empathy with felines as a full-round action (3 AP) with a +4 bonus.
 
 **Totem Transformation (Su)**: At 2nd level, a lion shaman may adopt an aspect of the lion while retaining her normal form. This ability functions as the bear shaman ability, but the druid may select from the following bonuses: movement (+20 enhancement bonus to land speed), senses (low-light vision, scent), or natural weapons (bite [1d4], 2 claws [1d4] for a Medium druid, rake, +2 CMB to grapple). While using totem transformation, the lion shaman may speak normally and can cast speak with animals (felines only) at will.
 
-**Totemic Summons (Su)**: At 5th level, a lion shaman may cast summon nature’s ally as a standard action when summoning felines, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
+**Totemic Summons (Su)**: At 5th level, a lion shaman may cast summon nature’s ally as a standard action (1 AP) when summoning felines, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, a lion shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a feline, she instead uses her druid level + 2.
 
@@ -230,11 +230,11 @@ A shaman with this totem calls upon the cunning serpent, the stealthy deceiver w
 
 **Nature Bond**: A serpent shaman who chooses an animal companion must select a snake. If choosing a domain, the serpent shaman must choose from the Animal, Charm, Trickery, and Water domains.
 
-**Wild Empathy (Ex)**: A serpent shaman can use wild empathy with reptiles as a full-round action with a +4 bonus.
+**Wild Empathy (Ex)**: A serpent shaman can use wild empathy with reptiles as a full-round action (3 AP) with a +4 bonus.
 
 **Totem Transformation (Su)**: At 2nd level, a serpent shaman may adopt an aspect of the snake while retaining her normal form. This ability functions as the bear shaman ability, but the druid may select from the following bonuses: movement (climb speed 20 feet, swim speed 20 feet), scales (+2 natural armor bonus to AC), senses (low-light vision, scent), or natural weapons (bite [1d4], poison [ frequency 1 round (6), effect 1 Con damage, Cure 1 save, Con-based DC] for a Medium druid, +2 CMB to grapple). While using totem transformation, the serpent shaman may speak normally and can cast speak with animals (reptiles only) at will.
 
-**Totemic Summons (Su)**: At 5th level, a serpent shaman may cast summon nature’s ally as a standard action when summoning snakes, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
+**Totemic Summons (Su)**: At 5th level, a serpent shaman may cast summon nature’s ally as a standard action (1 AP) when summoning snakes, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, a serpent shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a snake, she instead uses her druid level + 2.
 
@@ -246,11 +246,11 @@ A shaman with this totem calls upon the clever wolf, capable of roaming alone ye
 
 **Nature Bond**: A wolf shaman who chooses an animal companion must select a wolf. If choosing a domain, the wolf shaman must choose from the Animal, Community, Liberation, and Travel domains.
 
-**Wild Empathy (Ex)**: A wolf shaman can use wild empathy with canines as a full-round action with a +4 bonus.
+**Wild Empathy (Ex)**: A wolf shaman can use wild empathy with canines as a full-round action (3 AP) with a +4 bonus.
 
 **Totem Transformation (Su)**: At 2nd level, a wolf shaman may adopt an aspect of the wolf while retaining her normal form. This ability functions as the bear shaman ability, but the druid may select from the following bonuses: movement (+20 enhancement bonus to land speed), senses (low-light vision, scent, +4 racial bonus to Survival when tracking by scent), or natural weapons (bite [1d4 plus trip] for a Medium druid, +2 CMB to trip). While using totem transformation, the wolf shaman may speak normally and can cast speak with animals (canines only) at will.
 
-**Totemic Summons (Su)**: At 5th level, a wolf shaman may cast summon nature’s ally as a standard action when summoning canines, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
+**Totemic Summons (Su)**: At 5th level, a wolf shaman may cast summon nature’s ally as a standard action (1 AP) when summoning canines, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, a wolf shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a canine, she instead uses her druid level + 2.
 

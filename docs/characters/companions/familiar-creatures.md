@@ -145,7 +145,7 @@ N Tiny animal
 
 **Natural Diver (Ex)** An armadillo can hold its breath underwater for up to 6 minutes.
 
-**Protective Ball (Ex)** An armadillo can roll up into a ball as a swift action, increasing its natural armor bonus to +3 but decreasing its speed to 0 feet. Unrolling is a move action.
+**Protective Ball (Ex)** An armadillo can roll up into a ball as a swift action (1 AP), increasing its natural armor bonus to +3 but decreasing its speed to 0 feet. Unrolling is a move action (1 AP).
 
 These squat-bodied mammals are easily recognizable thanks to their distinctive leathery shells, which provide them with natural protection against numerous dangers and predators in their native environs. Armadillos have very poor eyesight, perceiving the world largely through scent and touch. They are exceptional diggers, and they burrow both to find food and to make their dens. When an armadillo goes underwater, it swallows air to increase its buoyancy, inflating its stomach up to twice its normal size so it won’t immediately sink.
 
@@ -285,7 +285,7 @@ N Tiny animal
 
 #### Special Abilities
 
-**Drift (Ex)** A chicken flies in short bursts and can’t use its fly speed to hover. When it flies, a chicken must end its move action by landing or perching on a solid surface.
+**Drift (Ex)** A chicken flies in short bursts and can’t use its fly speed to hover. When it flies, a chicken must end its move action (1 AP) by landing or perching on a solid surface.
 
 Chickens are prized for the hearty breakfast meals they provide if properly fed and cared for. Chickens are highly social creatures that raise their young communally. They’re picky about the spots where they roost, and a hen rarely strays from a particular nest once she’s laid her eggs there. A fertilized chicken egg hatches into a chick after roughly 3 weeks of incubation.
 
@@ -565,7 +565,7 @@ N Tiny plant
 
 **Arcanophage (Su)** When a dweomer cap succeeds at a saving throw against a spell, but not a spell-like ability, it gains fast healing 1 for a number of rounds equal to the spell’s level.
 
-**Aura Luminescence (Ex)** A dweomer cap naturally emits dim light in a 10-foot radius. When in contact with a creature or object that has a faint or stronger magical aura, a dweomer cap’s light shimmers perceptibly, changing its hue and pattern. A dweomer cap can suppress or resume its luminescence as a standard action, though it has reason to do so only when serving as a familiar and ordered by its master to do so.
+**Aura Luminescence (Ex)** A dweomer cap naturally emits dim light in a 10-foot radius. When in contact with a creature or object that has a faint or stronger magical aura, a dweomer cap’s light shimmers perceptibly, changing its hue and pattern. A dweomer cap can suppress or resume its luminescence as a standard action (1 AP), though it has reason to do so only when serving as a familiar and ordered by its master to do so.
 
 A dweomer cap is a black mushroom covered in wavy purple and orange patterns. It is typically found in regions of residual magical activity, such as abandoned arcane laboratories and sites of magical disasters. Although a dweomer cap can subsist on decaying organic material, it thrives and releases spores only when it can absorb trace magical energies. This makes these fungi an indicator that magical traps or treasures might be nearby. Spellcasters sometimes adopt dweomer caps as familiars, learning to read the fungi’s scintillations to help identify nearby magical effects.
 
@@ -723,7 +723,7 @@ N Diminutive animal
 
 #### Special Abilities
 
-Blood Squirt Once per day as a standard action that doesn’t provoke attacks of opportunity, a horned lizard can squirt a 5-foot-long stream of blood from the corners of its eyes. The animal’s blood contains noxious chemicals, and a creature hit by the blood must succeed at a DC 9 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
+Blood Squirt Once per day as a standard action (1 AP) that doesn’t provoke attacks of opportunity, a horned lizard can squirt a 5-foot-long stream of blood from the corners of its eyes. The animal’s blood contains noxious chemicals, and a creature hit by the blood must succeed at a DC 9 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
 
 Camouflage While in desert terrain, a horned lizard can use the Stealth skill to hide even if the terrain doesn’t grant cover or concealment. Puff Up When taking the total defense action, a horned lizard puffs up its body, appearing larger and more horned and gaining an additional +4 bonus to CMD against grapple attempts. Despite their sluggish, toad-like appearance, these creatures are reptiles with dry, spiny skin adapted to prevent water loss in their native desert environment. They are typically found sunning themselves on rocks during all but the hottest parts of the day, retreating beneath the shade of ridges or rocks when the sun is directly overhead. Their main method of defense is to avoid detection, but when their desert coloration fails to fool predators, they attempt to flee or use their other defensive methods, such as their unique ability to rupture blood vessels in their eyes so they can spray noxious blood at approaching predators. Due to their fierce defensive displays, horned lizards are often thought to be overly aggressive, though people who keep them as pets or familiars know that they can be affectionate creatures.
 
@@ -833,7 +833,7 @@ N Tiny vermin (aquatic)
 
 #### Special Abilities
 
-**Curl (Ex)** As a standard action, a giant isopod can curl into a ball, increasing its natural armor bonus by +2 but preventing it from taking any move actions. Uncurling is also a standard action.
+**Curl (Ex)** As a standard action (1 AP), a giant isopod can curl into a ball, increasing its natural armor bonus by +2 but preventing it from taking any move actions. Uncurling is also a standard action (1 AP).
 
 Giant isopods are carnivorous scavengers that scour the ocean’s floor. They vaguely resemble the common wood louse in appearance, though they can grow to be up to 2-1/2 feet long and weigh nearly 4 pounds. Their unusual size and insectile appearance cause many humanoids to be wary of them, despite their relative harmlessness.
 
@@ -1271,7 +1271,7 @@ N Small animal
 
 #### Special Abilities
 
-**Drift (Ex)** A peafowl flies in short bursts and can’t use its fly speed to hover. When it flies, a peafowl must end its move action by landing or perching on a solid surface.
+**Drift (Ex)** A peafowl flies in short bursts and can’t use its fly speed to hover. When it flies, a peafowl must end its move action (1 AP) by landing or perching on a solid surface.
 
 Peafowls are a species of pheasant. Males, known as peacocks, boast brightly colored, iridescent plumage that is instantly recognizable. Some cultures also breed peafowls with white plumage that may or may not have coloration on the rest of their bodies.
 
@@ -1369,7 +1369,7 @@ N Diminutive plant
 
 #### Special Abilities
 
-**Self-Petrification (Ex)** A petrifern can petrify itself as a standard action in order to defend itself from predators. When it does so, the petrifern’s natural armor bonus to AC increases by 5, it gains resistance 10 to cold and fire, and it can take 20 on Stealth checks to appear as a sprout or fallen tree branch. While [petrified](../../rules/appendices/conditions.md#petrified), the petrifern can’t move or take any actions. A petrifern can remain petrified 1 indefinitely, and it can cease its petrification as a standard action.
+**Self-Petrification (Ex)** A petrifern can petrify itself as a standard action (1 AP) in order to defend itself from predators. When it does so, the petrifern’s natural armor bonus to AC increases by 5, it gains resistance 10 to cold and fire, and it can take 20 on Stealth checks to appear as a sprout or fallen tree branch. While [petrified](../../rules/appendices/conditions.md#petrified), the petrifern can’t move or take any actions. A petrifern can remain petrified 1 indefinitely, and it can cease its petrification as a standard action (1 AP).
 
 **Toxic Secretion (Ex)** Petriferns secrete a bitter toxin meant to make them distasteful to predators. Once per day when a creature touches a petrifern, the plant can release its toxin, causing the attacker to become sickened for 1d4 rounds if it fails a DC 11 Fortitude saving throw. The save DC is Constitution-based.
 
@@ -1777,7 +1777,7 @@ N Tiny plant
 
 **Frond (Ex)** A razor fern’s fronds are primary natural attacks that deal slashing damage.
 
-**Shielding Frond (Ex)** A razor fern can deflect incoming attacks as a move action, gaining it a +2 shield bonus to its AC until the beginning of its next turn.
+**Shielding Frond (Ex)** A razor fern can deflect incoming attacks as a move action (1 AP), gaining it a +2 shield bonus to its AC until the beginning of its next turn.
 
 Razor ferns are ambulatory ambush predators with rigid leaf structures that can open painful wounds. Although they prefer to prey on small forest creatures, a razor fern won’t hesitate to slash at a larger target while that creature sleeps or is otherwise distracted. Sawleg Locust The cat-sized insect has a long, cigar-shaped body. Its spiny back legs are long and limber.
 
@@ -2229,7 +2229,7 @@ N Tiny animal
 
 #### Special Abilities
 
-**Photophores (Ex)** Once per day as a standard action while underwater, the vampire squid can release a 15-foot cone of disorienting bioluminescent mucus from its photophores, illuminating the area with dim light. A creature within this shimmering cloud of blue light must succeed at a DC 11 Fortitude save or be dazzled for as long as it remains in the cloud and for 1 round thereafter. The cloud persists for 1d4+1 rounds. The save DC is Constitution-based.
+**Photophores (Ex)** Once per day as a standard action (1 AP) while underwater, the vampire squid can release a 15-foot cone of disorienting bioluminescent mucus from its photophores, illuminating the area with dim light. A creature within this shimmering cloud of blue light must succeed at a DC 11 Fortitude save or be dazzled for as long as it remains in the cloud and for 1 round thereafter. The cloud persists for 1d4+1 rounds. The save DC is Constitution-based.
 
 **Pressure Adaptation (Ex)** A vampire squid takes no pressure damage from changes in water depth.
 

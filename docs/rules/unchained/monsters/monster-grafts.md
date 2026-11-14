@@ -520,7 +520,7 @@ Rather than devote themselves to a single god, oracles serve diverse forces. In 
 
 **Special Rules**: The oracle has a unique curse that doesn’t appear with the other monster options. The traits gained at each CR are cumulative. Choose one of the following. • Clouded Vision: The monster has darkvision to 30 feet, but can’t see anything beyond that range. At CR 4, this increases to 60 feet. At CR 9, the monster also gains blindsense to 30 feet. At CR 14, the monster also gains blindsight to 15 feet. • Deaf: The monster is permanently deafened. It ignores the verbal component of any spell it casts. At CR 4, the monster gains a master bonus on Perception checks that do not rely on hearing. At CR 9, the monster gains scent. At CR 14, the monster gains tremorsense to 30 feet.
 
-- **Haunted**: The monster must use a standard action to retrieve a stored item unless doing so would normally take more time. Any item the monster drops lands 10 feet away from it in a random direction. The monster gains the at-will magic option (mage hand and ghost sound).
+- **Haunted**: The monster must use a standard action (1 AP) to retrieve a stored item unless doing so would normally take more time. Any item the monster drops lands 10 feet away from it in a random direction. The monster gains the at-will magic option (mage hand and ghost sound).
 
 - **Lame**: Reduce the monster’s speed by 10 feet. At CR 4, the monster is immune to the fatigued condition. At CR 14, the monster is immune to the exhausted condition.
 
@@ -1032,7 +1032,7 @@ A reanimated corpse can become a sluggish and unthinking zombie.
 
 **Suggested Array**: Combatant.
 
-**Automatic Traits**: Staggered (can perform only a single move action or standard action each round); ability modifiers—set Intelligence modifier to —; options—DR 5/ slashing, extra hit points; skills—no master or good skills.
+**Automatic Traits**: Staggered (can perform only a single move action (1 AP) or standard action (1 AP) each round); ability modifiers—set Intelligence modifier to —; options—DR 5/ slashing, extra hit points; skills—no master or good skills.
 
 **Suggested Ability Modifiers**: Strength.
 

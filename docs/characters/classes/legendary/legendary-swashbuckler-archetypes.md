@@ -34,7 +34,7 @@ The dashing commander gains the following deeds, each of which replaces an exist
 
 **Inspiring Swordplay (Ex)**
 
-At 1st level, while a dashing commander has at least 1 panache point, her [Battle Cry](../../../rules/feats/battle-cry.md) feat’s range improves to 60 feet and its effects don’t end for an ally when that ally uses Battle Cry to reroll a saving throw. When an ally uses this reroll, a dashing commander can spend 1 panache point as an immediate action to grant the ally a bonus on its reroll equal to her Charisma modifier. This deed replaces daring stride.
+At 1st level, while a dashing commander has at least 1 panache point, her [Battle Cry](../../../rules/feats/battle-cry.md) feat’s range improves to 60 feet and its effects don’t end for an ally when that ally uses Battle Cry to reroll a saving throw. When an ally uses this reroll, a dashing commander can spend 1 panache point as an immediate action (1 AP of your next turn) to grant the ally a bonus on its reroll equal to her Charisma modifier. This deed replaces daring stride.
 
 **Unshakable Panache (Ex)**
 
@@ -66,7 +66,7 @@ At 3rd level, when an opponent makes a melee attack against her, a flying blade 
 
 At 3rd level, a flying blade can spend 1 panache point as part of a ranged attack with a thrown weapon to make it without provoking attacks of opportunity.
 
-At 6th level, as a swift action she can spend 1 panache point to make all of her ranged attacks with thrown weapons without provoking attacks of opportunity until the start of her next turn. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training. This deed replaces daring stride.
+At 6th level, as a swift action (1 AP) she can spend 1 panache point to make all of her ranged attacks with thrown weapons without provoking attacks of opportunity until the start of her next turn. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training. This deed replaces daring stride.
 
 **Flying Blade Training (Ex)**
 
@@ -144,13 +144,13 @@ The mouser gains the following deeds, each of which replaces an existing deed.
 
 **Underfoot Assault (Ex)**
 
-At 1st level, if a foe whose size is larger than the mouser’s is adjacent to her and misses her with a melee attack, the mouser can as an immediate action spend 1 panache point to move 5 feet into an area of the attacker’s space. This movement does not count against the mouser’s movement the next round, and it doesn’t provoke attacks of opportunity. While the mouser is within a foe’s space, she is considered to occupy her square within that foe’s space.
+At 1st level, if a foe whose size is larger than the mouser’s is adjacent to her and misses her with a melee attack, the mouser can as an immediate action (1 AP of your next turn) spend 1 panache point to move 5 feet into an area of the attacker’s space. This movement does not count against the mouser’s movement the next round, and it doesn’t provoke attacks of opportunity. While the mouser is within a foe’s space, she is considered to occupy her square within that foe’s space.
 
 While the mouser is within her foe’s space, the foe takes a –4 penalty on all attack rolls and combat maneuver checks not made against the mouser, and all of the mouser’s allies that are adjacent to both the foe and the mouser are considered to be flanking the foe. The mouser is considered to be flanking the foe whose space she is within if she is adjacent to an ally who is also adjacent to the foe. The mouser can move within her foe’s space and leave the foe’s space unhindered and without provoking attacks of opportunity, but if the foe attempts to move to a position where the mouser is no longer in its space, the movement provokes an attack of opportunity from the mouser. This deed replaces daring stride.
 
 **Quick Steal (Ex)**
 
-At 3rd level, as a swift action the mouser can spend 1 panache point when she hits a for larger than her size with a light or one-handed piercing melee weapon to attempt a steal combat maneuver check against the creature she hit.
+At 3rd level, as a swift action (1 AP) the mouser can spend 1 panache point when she hits a for larger than her size with a light or one-handed piercing melee weapon to attempt a steal combat maneuver check against the creature she hit.
 
 Using this deed does not provoke an attack of opportunity.
 
@@ -158,7 +158,7 @@ This deed replaces opportune parry and riposte.
 
 **Hamstring (Ex)**
 
-At 7th level, as long as a mouser has at least 1 panache point when she hits a foe whose size is larger than her own with a light or one-handed piercing melee weapon, she can as a swift action attempt a dirty trick combat maneuver check. Instead of the normal conditions that can be applied with dirty trick, this deed can stagger the target only if the check is successful. This deed replaces targeted strike.
+At 7th level, as long as a mouser has at least 1 panache point when she hits a foe whose size is larger than her own with a light or one-handed piercing melee weapon, she can as a swift action (1 AP) attempt a dirty trick combat maneuver check. Instead of the normal conditions that can be applied with dirty trick, this deed can stagger the target only if the check is successful. This deed replaces targeted strike.
 
 **Cat’s Charge (Ex)**
 
@@ -176,7 +176,7 @@ The picaroon gains the following deeds, each of which replaces an existing swash
 
 **Quick Clear (Ex)**
 
-At 3rd level, as a standard action the picaroon can spend 1 panache point to remove the broken condition from a single one-handed firearm she is currently wielding, as long as the firearm gained that condition through a misfire. This deed replaces kip-up.
+At 3rd level, as a standard action (1 AP) the picaroon can spend 1 panache point to remove the broken condition from a single one-handed firearm she is currently wielding, as long as the firearm gained that condition through a misfire. This deed replaces kip-up.
 
 **Gunsmithing**
 
@@ -208,9 +208,9 @@ A mysterious avenger loses her proficiency with [bucklers](../../../equipment/we
 
 At 1st level, a mysterious avenger selects one fighter weapon group. She gains the benefits of the Weapon Finesse feat with the whip and all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her [swashbuckler deeds](../swashbuckler.md#deeds) and class features.
 
-At 5th level, a mysterious avenger can study an opponent she can see as a move action. She then gains a +1 bonus on Bluff, [Knowledge](../../../rules/skills/knowledge.md), Perception, [Sense Motive](../../../rules/skills/sense-motive.md), and [Survival](../../../rules/skills/survival.md) checks against that opponent, a +1 bonus on weapon attack and damage rolls against it, and a +1 bonus to the saving throw DC of any [swashbuckler deeds](../swashbuckler.md#deeds) used against that opponent. A mysterious avenger can maintain these bonuses against only one opponent at a time; these bonuses remain in effect until either the opponent is dead or the mysterious avenger studies a new target.
+At 5th level, a mysterious avenger can study an opponent she can see as a move action (1 AP). She then gains a +1 bonus on Bluff, [Knowledge](../../../rules/skills/knowledge.md), Perception, [Sense Motive](../../../rules/skills/sense-motive.md), and [Survival](../../../rules/skills/survival.md) checks against that opponent, a +1 bonus on weapon attack and damage rolls against it, and a +1 bonus to the saving throw DC of any [swashbuckler deeds](../swashbuckler.md#deeds) used against that opponent. A mysterious avenger can maintain these bonuses against only one opponent at a time; these bonuses remain in effect until either the opponent is dead or the mysterious avenger studies a new target.
 
-At 9th, 13th, and 17th levels, the mysterious avenger’s bonuses against a studied target increase by 1. In addition, at each such interval, a mysterious avenger is able to maintain these bonuses against an additional studied target at the same time. A mysterious avenger can discard this connection to a studied target as a free action, allowing her to study another target in its place. At 9th level, a mysterious avenger can study an opponent as a move or swift action. This ability replaces swashbuckler weapon training.
+At 9th, 13th, and 17th levels, the mysterious avenger’s bonuses against a studied target increase by 1. In addition, at each such interval, a mysterious avenger is able to maintain these bonuses against an additional studied target at the same time. A mysterious avenger can discard this connection to a studied target as a free action, allowing her to study another target in its place. At 9th level, a mysterious avenger can study an opponent as a move or swift action (1 AP). This ability replaces swashbuckler weapon training.
 
 **Secret Identity (Su)**
 
@@ -230,11 +230,11 @@ The picaroon gains the following deeds, each of which replaces an existing swash
 
 **Melee Shooter (Ex)**
 
-At 1st level, as a swift action when wielding both a light or one-handed piercing melee weapon and a one-handed firearm, the picaroon can spend 1 panache point to avoid provoking attacks of opportunity with the first ranged attack made by the one-handed firearm during her turn. This deed replaces opportune parry and riposte.
+At 1st level, as a swift action (1 AP) when wielding both a light or one-handed piercing melee weapon and a one-handed firearm, the picaroon can spend 1 panache point to avoid provoking attacks of opportunity with the first ranged attack made by the one-handed firearm during her turn. This deed replaces opportune parry and riposte.
 
 **Quick Clear (Ex)**
 
-At 3rd level, as a standard action the picaroon can spend 1 panache point to remove the broken condition from a single one-handed firearm she is currently wielding, as long as the firearm gained that condition through a misfire. This deed replaces kip-up.
+At 3rd level, as a standard action (1 AP) the picaroon can spend 1 panache point to remove the broken condition from a single one-handed firearm she is currently wielding, as long as the firearm gained that condition through a misfire. This deed replaces kip-up.
 
 **Gun Feint (Ex)**
 
@@ -242,7 +242,7 @@ At 7th level, a picaroon can use the ferocious reputation of firearms to her adv
 
 **Lightning Reload (Ex)**
 
-At 11th level, once per round the picaroon can spend 1 panache point to reload a single barrel of a one-handed firearm as a swift action. If she has the Rapid Reload feat or is using an alchemical cartridge, she can instead reload a single barrel of the weapon as a free action each round. Using this deed doesn’t provoke attacks of opportunity. This deed replaces bleeding wound.
+At 11th level, once per round the picaroon can spend 1 panache point to reload a single barrel of a one-handed firearm as a swift action (1 AP). If she has the Rapid Reload feat or is using an alchemical cartridge, she can instead reload a single barrel of the weapon as a free action each round. Using this deed doesn’t provoke attacks of opportunity. This deed replaces bleeding wound.
 
 **Gunsmithing**
 
@@ -292,7 +292,7 @@ This is as the rogue ability of the same name. At 3rd level, her sneak attack da
 
 **Masterful Feint (Ex)**
 
-At 7th level, while she has at least 1 panache point, a rapscallion can feint as a swift action instead of a standard action. Additionally, when a rapscallion successfully feints an opponent while she has at least 1 panache point, that opponent is denied its Dexterity bonus to AC against all attacks that she makes until the start of her next turn. This deed replaces swashbuckler’s grace.
+At 7th level, while she has at least 1 panache point, a rapscallion can feint as a swift action (1 AP) instead of a standard action. Additionally, when a rapscallion successfully feints an opponent while she has at least 1 panache point, that opponent is denied its Dexterity bonus to AC against all attacks that she makes until the start of her next turn. This deed replaces swashbuckler’s grace.
 
 **Rapscallion Talent**
 
@@ -312,7 +312,7 @@ The ronin gains the following deeds, each of which replaces an existing deed.
 
 **Fluid Strike (Ex)**
 
-At 3rd level, while the ronin has at least 1 panache, she can draw a weapon as a free action and is treated as having the [Quick Draw](../../../rules/feats/quick-draw.md) feat for the purpose of determining if she can draw a weapon with the swashbuckler’s initiative deed. Additionally, if the ronin draws a weapon on the first turn of a combat and attacks a foe within her reach, she can spend 1 panache point as a swift action to make a feint attempt against the target of her attack. This deed replaces kip-up.
+At 3rd level, while the ronin has at least 1 panache, she can draw a weapon as a free action and is treated as having the [Quick Draw](../../../rules/feats/quick-draw.md) feat for the purpose of determining if she can draw a weapon with the swashbuckler’s initiative deed. Additionally, if the ronin draws a weapon on the first turn of a combat and attacks a foe within her reach, she can spend 1 panache point as a swift action (1 AP) to make a feint attempt against the target of her attack. This deed replaces kip-up.
 
 **Favored Weapon Training (Ex)**
 
@@ -346,7 +346,7 @@ The tumbler gains the following deeds, each of which replaces an existing swashb
 
 At 3rd level, when an opponent makes a melee attack against the tumbler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to avoid the attack. The tumbler makes an Acrobatics check.
 
-If her result is greater than the result of the attacking creature’s attack roll, the creature’s attack automatically misses. The tumbler must declare the use of this ability after the creature’s attack is announced, but before its attack is made. Upon performing a successful reactive tumble and if she has at least 1 panache point, the tumbler can as an immediate action move up to her speed without provoking attacks of opportunity. She must end her movement within the threatened area of the creature whose attack she dodged.
+If her result is greater than the result of the attacking creature’s attack roll, the creature’s attack automatically misses. The tumbler must declare the use of this ability after the creature’s attack is announced, but before its attack is made. Upon performing a successful reactive tumble and if she has at least 1 panache point, the tumbler can as an immediate action (1 AP of your next turn) move up to her speed without provoking attacks of opportunity. She must end her movement within the threatened area of the creature whose attack she dodged.
 
 This deed replaces opportune parry and riposte.
 
@@ -358,7 +358,7 @@ In addition, she always counts as having a running start when making jump checks
 
 **Dashing Attack (Ex)**
 
-At 7th level, a tumbler can spend 1 panache point as a full-round action in order to move up to her speed and use the attack action without provoking any attacks of opportunity from the target of her attack. She can move both before and after the attack, but she must move at least 10 feet before the attack and the total distance the tumbler moves cannot be greater than her speed. A tumbler cannot use this ability to attack a foe that is adjacent to her at the start of her turn. The tumbler can combine the attack granted by this deed with any feat or swashbuckler deed or class feature that is used in conjunction with the attack action, such as the [Vital Strike](../../../rules/feats/vital-strike.md) feat. This deed replaces targeted strike.
+At 7th level, a tumbler can spend 1 panache point as a full-round action (3 AP) in order to move up to her speed and use the attack action without provoking any attacks of opportunity from the target of her attack. She can move both before and after the attack, but she must move at least 10 feet before the attack and the total distance the tumbler moves cannot be greater than her speed. A tumbler cannot use this ability to attack a foe that is adjacent to her at the start of her turn. The tumbler can combine the attack granted by this deed with any feat or swashbuckler deed or class feature that is used in conjunction with the attack action, such as the [Vital Strike](../../../rules/feats/vital-strike.md) feat. This deed replaces targeted strike.
 
 **Tumbler Weapon Training (Ex)**
 
@@ -412,7 +412,7 @@ The vainglory swashbuckler is a master of her panache, using it to perform super
 
 Personal deeds are abilities that draw on the [swashbuckler’s panache](../swashbuckler.md#panache-ex). All of the standard [swashbuckler’s deeds](../swashbuckler.md#deeds) count as personal deeds. A vainglory swashbuckler can learn additional personal deeds, which replace an existing deed, such as riposte parry and dodge. Personal deeds are divided into two categories: *feats* and *swashbuckler deeds*.
 
-- **Feats**: These personal deeds duplicate the effects of specific feats. A swashbuckler does not need to qualify for a feat to select it as a personal deed. For example, a vainglory swashbuckler can select [Power Attack](../../../rules/feats/power-attack.md) as a personal deed even if she doesn’t meet the prerequisites for selecting Power Attack as a feat. A personal deed that duplicates the effects of a feat counts as having that feat for the purpose of meeting feat prerequisites. Activating one of these personal deeds is a free action on the swashbuckler’s turn; until the start of her next turn, the swashbuckler is treated as if she had that feat. Some of these personal deeds that duplicate feats may also be activated as an immediate action; these deeds are noted in the personal deeds list.
+- **Feats**: These personal deeds duplicate the effects of specific feats. A swashbuckler does not need to qualify for a feat to select it as a personal deed. For example, a vainglory swashbuckler can select [Power Attack](../../../rules/feats/power-attack.md) as a personal deed even if she doesn’t meet the prerequisites for selecting Power Attack as a feat. A personal deed that duplicates the effects of a feat counts as having that feat for the purpose of meeting feat prerequisites. Activating one of these personal deeds is a free action on the swashbuckler’s turn; until the start of her next turn, the swashbuckler is treated as if she had that feat. Some of these personal deeds that duplicate feats may also be activated as an immediate action (1 AP of your next turn); these deeds are noted in the personal deeds list.
 
 - **Swashbuckler Deeds**: Some personal deeds are standard [swashbuckler deeds](../swashbuckler.md#deeds). Even if a swashbuckler selects a different personal deed in place of a standard swashbuckler deed, she can select that deed later as one of her personal deeds. Swashbuckler deeds do not list their panache costs; this information is located in the deed’s description in the swashbuckler base class. A swashbuckler can select a swashbuckler deed that she has altered or replaced as part of an archetype as a personal deed.
 
@@ -528,7 +528,7 @@ Personal deeds are abilities that draw on the [swashbuckler’s panache](../swas
 
 * A vainglory swashbuckler doesn’t require a free hand in order to benefit from this personal deed.
 
-† This deed can be used as an immediate action.
+† This deed can be used as an immediate action (1 AP of your next turn).
 
 ## Whirling Dervish
 
@@ -544,7 +544,7 @@ A whirling dervish gains the following deeds, each of which replaces an existing
 
 **Whirlwind Dance (Ex)**
 
-At 7th level, a whirling dervish can sweep through her opponents’ lines like a cyclone. As a full-round action, she can spend 1 panache point to move up to her speed. She can make attacks against creatures with her reach during this movement, up to the number of attacks she’s entitled to with a full attack. Each attack is made at her highest attack bonus, and must target a different creature.
+At 7th level, a whirling dervish can sweep through her opponents’ lines like a cyclone. As a full-round action (3 AP), she can spend 1 panache point to move up to her speed. She can make attacks against creatures with her reach during this movement, up to the number of attacks she’s entitled to with a full attack. Each attack is made at her highest attack bonus, and must target a different creature.
 
 This movement provokes attacks of opportunity as normal. This deed replaces targeted strike.
 

@@ -75,13 +75,13 @@ At 2nd level, a brewkeeper gains a reservoir of brew points that she can use to 
 
 #### Helpful Homebrew (Su)
 
-At 2nd level and every 2 class levels thereafter, a brewkeeper can select one metamagic feat from the list in the following paragraph. She can spend points from her brew reservoir as a swift action to add a metamagic effect to a spell as she casts it, an extract as she drinks it, or a draught as she creates it. She does not need to meet the feat's prerequisites in order to select the effect. Using this ability costs a number of brew points equal to the metamagic feat's level increase (minimum 1). The metamagic effects available (and the brewkeeper level at which she can select them) are: Empower Spell (4th), Extend Spell (2nd), Fleeting Spell (2nd), Intuitive Spell (4th), Maximize Spell (6th), Silent Spell (4th), and Tenacious Spell (2nd).
+At 2nd level and every 2 class levels thereafter, a brewkeeper can select one metamagic feat from the list in the following paragraph. She can spend points from her brew reservoir as a swift action (1 AP) to add a metamagic effect to a spell as she casts it, an extract as she drinks it, or a draught as she creates it. She does not need to meet the feat's prerequisites in order to select the effect. Using this ability costs a number of brew points equal to the metamagic feat's level increase (minimum 1). The metamagic effects available (and the brewkeeper level at which she can select them) are: Empower Spell (4th), Extend Spell (2nd), Fleeting Spell (2nd), Intuitive Spell (4th), Maximize Spell (6th), Silent Spell (4th), and Tenacious Spell (2nd).
 
 #### Harmful Homebrew (Su)
 
-At 3rd level, a brewkeeper can enhance her attacks with a harmful homebrew. Whenever she hits a creature with a splash weapon or a touch spell, she can spend 1 brew point as a swift action to add an effect to the spell or splash weapon. These additional effects caused by a harmful homebrew apply regardless of whether or not the target succeeds at any saving throws associated with the touch spell or splash weapon's normal effects. The target can attempt a Fortitude save to avoid the effect of the harmful homebrew (DC = 10 + 1/2 the brewkeeper's caster level + the brewkeeper's highest mental ability score modifier). On a successful save, the target becomes [sickened](../../rules/appendices/conditions.md#sickened) for 1 round (as if suffering, temporarily, the effects of intoxication), but on a failed save, the target is afflicted with the harmful homebrew's effect, as chosen by the brewkeeper from the options below. Conditions inflicted by hindering homebrews don't stack. At 3rd level, the brewkeeper can select one of the following effects when she successfully affects a creature with a harmful homebrew. Every 3 class levels thereafter, the brewkeeper can apply an additional harmful homebrew effect to her touch spell or splash weapon, for a total of three effects at 9th level.
+At 3rd level, a brewkeeper can enhance her attacks with a harmful homebrew. Whenever she hits a creature with a splash weapon or a touch spell, she can spend 1 brew point as a swift action (1 AP) to add an effect to the spell or splash weapon. These additional effects caused by a harmful homebrew apply regardless of whether or not the target succeeds at any saving throws associated with the touch spell or splash weapon's normal effects. The target can attempt a Fortitude save to avoid the effect of the harmful homebrew (DC = 10 + 1/2 the brewkeeper's caster level + the brewkeeper's highest mental ability score modifier). On a successful save, the target becomes [sickened](../../rules/appendices/conditions.md#sickened) for 1 round (as if suffering, temporarily, the effects of intoxication), but on a failed save, the target is afflicted with the harmful homebrew's effect, as chosen by the brewkeeper from the options below. Conditions inflicted by hindering homebrews don't stack. At 3rd level, the brewkeeper can select one of the following effects when she successfully affects a creature with a harmful homebrew. Every 3 class levels thereafter, the brewkeeper can apply an additional harmful homebrew effect to her touch spell or splash weapon, for a total of three effects at 9th level.
 
-- *Entangled*: The target becomes [entangled](../../rules/appendices/conditions.md#entangled) in its gear until it spends a full-round action adjusting itself.
+- *Entangled*: The target becomes [entangled](../../rules/appendices/conditions.md#entangled) in its gear until it spends a full-round action (3 AP) adjusting itself.
 - *Fatigued*: The target is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 round.
 - *Prone*: The target falls [prone](../../rules/appendices/conditions.md#prone).
 
@@ -98,15 +98,15 @@ At 9th level, the brewkeeper adds the following homebrews to the list of those s
 
 #### Potion Master (Ex)
 
-At 3rd level, a brewkeeper can, as a move action, add a chaser of alcohol when she drinks a potion or administers a potion to a willing creature. If she does so, she uses her own caster level instead of the potion's caster level when determining the effects of the potion. She can also apply the effects of a helpful homebrew to a potion at this time as if it were a draught she had created.
+At 3rd level, a brewkeeper can, as a move action (1 AP), add a chaser of alcohol when she drinks a potion or administers a potion to a willing creature. If she does so, she uses her own caster level instead of the potion's caster level when determining the effects of the potion. She can also apply the effects of a helpful homebrew to a potion at this time as if it were a draught she had created.
 
 #### Brew Specialization (Su)
 
-At 5th level, a brewkeeper can apply the effects of two helpful homebrews or harmful homebrews instead of one when she takes a swift action to apply a homebrew's effect. She must still pay the full brew point cost for the homebrews she applies.
+At 5th level, a brewkeeper can apply the effects of two helpful homebrews or harmful homebrews instead of one when she takes a swift action (1 AP) to apply a homebrew's effect. She must still pay the full brew point cost for the homebrews she applies.
 
 #### Quick Brewing (Su)
 
-At 7th level, a brewkeeper can create a draught as a full-round action.
+At 7th level, a brewkeeper can create a draught as a full-round action (3 AP).
 
 #### True Brewkeeper (Su)
 

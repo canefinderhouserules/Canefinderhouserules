@@ -10,6 +10,9 @@ You are skilled at fighting with two weapons.
 
 **Normal**: Without this feat, you can only get a single extra attack with an off-hand weapon.
 
+??? tip apr "Action Points (optional rule)"
+    With [Two-Weapon Fighting](two-weapon-fighting.md) you spend 2 AP for two attacks at –2. This feat makes a third attack that turn take –5 instead of –10, and once your base attack bonus reaches +11 all three attacks take –2.
+
 ??? note "Original rule"
 
     *(Combat)*

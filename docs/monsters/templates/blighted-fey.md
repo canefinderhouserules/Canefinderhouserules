@@ -18,7 +18,7 @@ cases, the transformation requires a new fey creature to be bound in blighted fu
 
 ***Parasitic Bond (Su).*** Once per day with a successful thorn throw attack (see below), the blighted fey can transform the thorns into a single burrowing, wriggling maggot that infests and infuses the target with a short-term curse from within unless the target succeeds at a Fortitude save. This parasite creates an unholy link to the target, binding it to the blighted fey. This binding persists for 5 rounds, during which half of any hit point damage taken by the blighted fey is dealt to the linked target instead. The type of damage remains consistent with the damage dealt to the blighted fey. Only one parasitic bond can be maintained with one creature at a time. This bond is a curse and a disease effect.
 
-***Thorn Throw (Ex).*** A blighted fey can shoot a fistful of needle-sharp thorns at a single target within 20 feet as a standard action. The thorn attack deals an amount of damage equal to a sting natural attack, with damage based on the blighted fey’s size (1d4 for a Medium fey), except the attack is resolved as a thrown ranged attack instead of a melee attack. Thorn throw is always a primary attack.
+***Thorn Throw (Ex).*** A blighted fey can shoot a fistful of needle-sharp thorns at a single target within 20 feet as a standard action (1 AP). The thorn attack deals an amount of damage equal to a sting natural attack, with damage based on the blighted fey’s size (1d4 for a Medium fey), except the attack is resolved as a thrown ranged attack instead of a melee attack. Thorn throw is always a primary attack.
 
 **Special Qualities:** A blighted fey gains the following special qualities.
 

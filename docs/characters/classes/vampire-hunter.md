@@ -51,7 +51,7 @@ A vampire hunter is proficient with all simple and [martial weapons](../../equip
 
 ### Detect Undead (Sp)
 
-At will, a vampire hunter can use [*detect undead*](../../magic/spells/detect-undead.md), as the spell. A vampire hunter can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is undead, learning the strength of its aura as if he had studied it for 3 rounds. While focusing on one individual or object, the vampire hunter does not *detect undead* in any other object or individual within range.
+At will, a vampire hunter can use [*detect undead*](../../magic/spells/detect-undead.md), as the spell. A vampire hunter can, as a move action (1 AP), concentrate on a single item or individual within 60 feet and determine if it is undead, learning the strength of its aura as if he had studied it for 3 rounds. While focusing on one individual or object, the vampire hunter does not *detect undead* in any other object or individual within range.
 
 ### Technique Feat
 
@@ -86,7 +86,7 @@ A vampire hunter knows the sinister power of the undead. Through discipline and 
 
 At 1st level, the vampire hunter must select one common vampiric power to mimic from the vampiric foci listed below. Each vampiric focus grants the vampire hunter a bonus or special ability. Once this decision is made, the vampire hunter cannot change which vampiric focus he knows. At 8th and 16th level, the vampire hunter learns an additional vampiric focus.
 
-As a swift action, the vampire hunter can activate his vampiric focus. Ending the vampiric focus is a free action.
+As a swift action (1 AP), the vampire hunter can activate his vampiric focus. Ending the vampiric focus is a free action.
 
 He can use each vampiric focus for a number of minutes per day equal to his level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.
 
@@ -227,7 +227,7 @@ At 10th level, a vampire hunter can move at his normal speed while using Surviva
 
 ### Vampire Bane (Su)
 
-At 11th level, a vampire hunter can intensify a vampire’s revulsion to strongly presented holy symbols. When a vampire hunter uses a standard action to confront a vampire with a presented holy symbol, the vampire must attempt a Will saving throw (DC = 15 + the vampire hunter’s class level + the vampire hunter’s Charisma modifier). On a failed save, the vampire is repulsed and must stay a number of feet from the vampire hunter equal to 5 times the vampire hunter’s Charisma modifier. Additionally, a vampire repulsed in this way cannot touch or make melee attacks against the vampire hunter (although the vampire can still touch and make melee attacks against the vampire hunter’s allies as normal). A vampire continues to be repulsed for every round the vampire hunter spends presenting a holy symbol (a standard action), though it can attempt a new Will save every round to overcome its revulsion and act normally.
+At 11th level, a vampire hunter can intensify a vampire’s revulsion to strongly presented holy symbols. When a vampire hunter uses a standard action (1 AP) to confront a vampire with a presented holy symbol, the vampire must attempt a Will saving throw (DC = 15 + the vampire hunter’s class level + the vampire hunter’s Charisma modifier). On a failed save, the vampire is repulsed and must stay a number of feet from the vampire hunter equal to 5 times the vampire hunter’s Charisma modifier. Additionally, a vampire repulsed in this way cannot touch or make melee attacks against the vampire hunter (although the vampire can still touch and make melee attacks against the vampire hunter’s allies as normal). A vampire continues to be repulsed for every round the vampire hunter spends presenting a holy symbol (a standard action (1 AP)), though it can attempt a new Will save every round to overcome its revulsion and act normally.
 
 The vampire hunter can use any holy symbol to repulse a vampire, but for the purposes of this ability, the vampire hunter treats his Charisma modifier as being 2 higher when he employs the symbol of the deity he worships.
 
@@ -237,7 +237,7 @@ At 13th level, the vampire hunter can prevent a creature killed by a vampire fro
 
 ### Quarry (Ex)
 
-At 14th level, as a standard action a vampire hunter can denote one target within his line of sight that he knows is undead as his quarry. Whenever he is following the tracks of his quarry, a vampire hunter can take 10 on his Survival skill checks while moving at normal speed, without penalty. In addition, he gains a +2 insight bonus on attack rolls against his quarry, and all critical threats against his quarry are automatically confirmed. A vampire hunter can have no more than one quarry at a time. He can dismiss this effect at any time as a free action, but he cannot select a new quarry for 24 hours. If the vampire hunter sees proof that his quarry is dead or (somehow) was not actually undead, he can select a new quarry after 1 hour.
+At 14th level, as a standard action (1 AP) a vampire hunter can denote one target within his line of sight that he knows is undead as his quarry. Whenever he is following the tracks of his quarry, a vampire hunter can take 10 on his Survival skill checks while moving at normal speed, without penalty. In addition, he gains a +2 insight bonus on attack rolls against his quarry, and all critical threats against his quarry are automatically confirmed. A vampire hunter can have no more than one quarry at a time. He can dismiss this effect at any time as a free action, but he cannot select a new quarry for 24 hours. If the vampire hunter sees proof that his quarry is dead or (somehow) was not actually undead, he can select a new quarry after 1 hour.
 
 ### Critical Reflexes (Su)
 
@@ -255,7 +255,7 @@ At 19th level, the vampire hunter’s ability to hunt his undead quarry improves
 
 ### Master Vampire Hunter (Ex)
 
-At 20th level, the vampire hunter becomes the bane of the undead. As a standard action, he can make a single attack against his undead quarry at his full attack bonus while choosing one of the following effects: destroy, stake, or paralyze for 2d6 rounds.
+At 20th level, the vampire hunter becomes the bane of the undead. As a standard action (1 AP), he can make a single attack against his undead quarry at his full attack bonus while choosing one of the following effects: destroy, stake, or paralyze for 2d6 rounds.
 
 If the attack hits, the target takes damage normally and must succeed at a Fortitude saving throw or suffer the additional effect. The DC for this save is 10 + 1/2 the vampire hunter’s level + the vampire hunter’s Wisdom modifier. Whether or not the attack succeeds, the creature cannot be targeted by this ability again (by any vampire hunter) for 24 hours.
 

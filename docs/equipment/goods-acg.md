@@ -76,7 +76,7 @@ This kit includes a backpack, a blanket, a belt pouch, a flint and steel, an iro
 
 **Price** 3 sp; **Weight** 1/2 lb.
 
-This braided metal cord comes with a clasp that affixes to the lock of a standard spellbook. The other end of the cord attaches to a belt or belt loop. The cord is 10 feet long and retractable. If you drop your spellbook while it's attached to the lariat, you can recover the spellbook as a standard action. While attached to you, the book can never be farther than 10 feet from you. Unclasping the book requires a move action, or the cord can be cut to free the book (hardness 5, hp 10).
+This braided metal cord comes with a clasp that affixes to the lock of a standard spellbook. The other end of the cord attaches to a belt or belt loop. The cord is 10 feet long and retractable. If you drop your spellbook while it's attached to the lariat, you can recover the spellbook as a standard action (1 AP). While attached to you, the book can never be farther than 10 feet from you. Unclasping the book requires a move action (1 AP), or the cord can be cut to free the book (hardness 5, hp 10).
 
 ### Book of Puzzles
 
@@ -142,7 +142,7 @@ This kit contains items to assist a courtesan in soothing the body and mind. For
 
 **Price** 200 gp; **Weight** 500 lbs.
 
-This kit for a heavy wagon provides a water tank, platform pump, and a rotating nozzle. If the operator succeeds at a DC 20 Strength check, the fire pump releases a stream of water that reaches up to 30 feet away. Each person assisting with the pump lowers the DC by 5. Operating or assisting is a full-round action. The pump extinguishes 5 square feet of nonmagical fire per round. The water tank holds enough water for 10 rounds of pumping and takes 10 minutes to refill from a stream, pond, lake, or other body of water.
+This kit for a heavy wagon provides a water tank, platform pump, and a rotating nozzle. If the operator succeeds at a DC 20 Strength check, the fire pump releases a stream of water that reaches up to 30 feet away. Each person assisting with the pump lowers the DC by 5. Operating or assisting is a full-round action (3 AP). The pump extinguishes 5 square feet of nonmagical fire per round. The water tank holds enough water for 10 rounds of pumping and takes 10 minutes to refill from a stream, pond, lake, or other body of water.
 
 ### Footprint Book
 
@@ -214,7 +214,7 @@ This kit for a wagon provides a set of metal bars with a door for transporting i
 
 **Price** 50 gp; **Weight** 3 lbs.
 
-You can place this metal contraption onto a taut section of a rope connecting a high point to a lower one, allowing you to slide down the length of the rope with ease. Using a roperunner requires only one hand, leaving the other hand free during the descent. Attaching the roperunner to a rope is a move action. Beginning the descent is a swift action. You slide down the rope at a rate of 60 feet per round. This requires no action on your part, but you must move along the length of the rope in the downward direction. Retrieving the roperunner once you have come to a stop at the end of the rope is a move action. You can let go of the roperunner as a free action.
+You can place this metal contraption onto a taut section of a rope connecting a high point to a lower one, allowing you to slide down the length of the rope with ease. Using a roperunner requires only one hand, leaving the other hand free during the descent. Attaching the roperunner to a rope is a move action (1 AP). Beginning the descent is a swift action (1 AP). You slide down the rope at a rate of 60 feet per round. This requires no action on your part, but you must move along the length of the rope in the downward direction. Retrieving the roperunner once you have come to a stop at the end of the rope is a move action (1 AP). You can let go of the roperunner as a free action.
 
 ### Scavenger Beetle Colony
 
@@ -244,7 +244,7 @@ This kit includes a backpack, a bedroll, a belt pouch, a flint and steel, an iro
 
 **Price** 100 gp; **Weight** 1 lb.
 
-When worn inside voluminous sleeves, this leather holster allows you to draw a concealed hand crossbow or coat pistol as a move action. The weapon sits on sliders and is drawn directly into the hand. Unlike a wrist sheath, a sleeve holster is bulky enough that it is obvious on close inspection, though under a loose enough garment it might not provoke a reactive Perception check. An individual sleeve holster fits for either a hand crossbow or a coat pistol, but not both.
+When worn inside voluminous sleeves, this leather holster allows you to draw a concealed hand crossbow or coat pistol as a move action (1 AP). The weapon sits on sliders and is drawn directly into the hand. Unlike a wrist sheath, a sleeve holster is bulky enough that it is obvious on close inspection, though under a loose enough garment it might not provoke a reactive Perception check. An individual sleeve holster fits for either a hand crossbow or a coat pistol, but not both.
 
 ### Snuffbox
 
@@ -470,4 +470,4 @@ This fingerless leather glove includes four small pouches sewn along the knuckle
 
 **Price** 30 gp; **Weight** 1/2 lb.
 
-This violet balm comes in a small ceramic pot. When applied to a weapon as a standard action, it forms a transparent coating. Weapons coated in this balm deal an additional 2d4 points of damage to undead or evil outsiders. A creature affected by the balm must succeed at a DC 10 Reflex save or take an additional 1d4 points of damage the following round. Any nonmagical weapon coated with the balm affects incorporeal undead or evil outsiders as if it were a magic weapon. Any magic weapon coated with the balm affects incorporeal undead or evil outsiders as if the weapon had the *ghost touch* special ability. The balm remains effective until you make a successful attack with the weapon or until 1 minute has passed, whichever is sooner. Each dose of balm can coat one weapon or 10 pieces of ammunition.
+This violet balm comes in a small ceramic pot. When applied to a weapon as a standard action (1 AP), it forms a transparent coating. Weapons coated in this balm deal an additional 2d4 points of damage to undead or evil outsiders. A creature affected by the balm must succeed at a DC 10 Reflex save or take an additional 1d4 points of damage the following round. Any nonmagical weapon coated with the balm affects incorporeal undead or evil outsiders as if it were a magic weapon. Any magic weapon coated with the balm affects incorporeal undead or evil outsiders as if the weapon had the *ghost touch* special ability. The balm remains effective until you make a successful attack with the weapon or until 1 minute has passed, whichever is sooner. Each dose of balm can coat one weapon or 10 pieces of ammunition.

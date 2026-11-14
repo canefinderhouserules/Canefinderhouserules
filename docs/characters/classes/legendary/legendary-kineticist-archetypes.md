@@ -18,13 +18,13 @@
 
 **Sculpting Talent (Ex):** The artistic summoner treats fire sculptor, gravity sculptor, ice sculptor, shape wood, and stone sculptor as universal wild talents.
 
-**Art Summoner (Sp):** At 2nd level, as a full-round action an artistic summoner can summon forth a piece of paper, either painting a monster upon it (if their elemental focus is water) or folding it into a complex form of a monster (if their elemental focus is wood) before bringing it to life in any square within 30 ft. of themselves. Treat this as the summon monster I-IX ability of the summoner (an artistic summoner does not gain access to *gate* with this ability), except that an artistic summoner uses their Constitution modifier instead of their Charisma modifier to determine how many times they can use this ability.
+**Art Summoner (Sp):** At 2nd level, as a full-round action (3 AP) an artistic summoner can summon forth a piece of paper, either painting a monster upon it (if their elemental focus is water) or folding it into a complex form of a monster (if their elemental focus is wood) before bringing it to life in any square within 30 ft. of themselves. Treat this as the summon monster I-IX ability of the summoner (an artistic summoner does not gain access to *gate* with this ability), except that an artistic summoner uses their Constitution modifier instead of their Charisma modifier to determine how many times they can use this ability.
 
 Creatures created with this ability are made of either ink or paper, and are treated as neutral aligned constructs for the purposes of spells and effects.
 
 *This ability replaces the 15th-level expanded element and the 2nd, 8th, and 14th-level utility wild talents.*
 
-**Creative Genius (Su):** At 7th level, an artistic summoner gains wood blast or water blast (whichever is not connected to their primary element), although they can only use wood blast as paper and water blast as ink as per their art blast ability; they do not gain any composite blast from possessing these blasts. As a swift action, they can choose to include a drawing with their kinetic blast. If they do so, treat this as though it had the oil infusion applied to it, as well as allowing the artistic summoner to use their art summoner ability on the target’s square.
+**Creative Genius (Su):** At 7th level, an artistic summoner gains wood blast or water blast (whichever is not connected to their primary element), although they can only use wood blast as paper and water blast as ink as per their art blast ability; they do not gain any composite blast from possessing these blasts. As a swift action (1 AP), they can choose to include a drawing with their kinetic blast. If they do so, treat this as though it had the oil infusion applied to it, as well as allowing the artistic summoner to use their art summoner ability on the target’s square.
 
 *This ability replaces the 7th-level expanded element.*
 
@@ -122,7 +122,7 @@ Your sculpture must be produced entirely from one substance. You can only have o
 
 Unlisted simple blasts' associated subtypes are also available at GM discretion. The subtype is chosen at the same time the bestial kineticist gains its simple blast; once this choice is made, it cannot be changed. The bestial kineticist does not gain vulnerabilities from its subtype (though it retains any vulnerabilities it had as part of its original creature type). If it possesses 5 or more burn, it is also treated as having the elemental subtype. As long as it possesses a subtype gained this way, it also gains the augmented subtype. Bestial kineticists that gain the clockwork subtype do not gain clockwork augmentations, and those that gain the unbreathing subtype can also have the fire subtype, unlike normal for the unbreathing subtype.
 
-**Bounding Blast (Su):** At 9th level a bestial kineticist can imbue its master with its simple kinetic blast as a standard action, allowing them to use it once for no burn cost and treating the blast’s damage as from a kineticist 2 levels higher than the bestial kineticist’s hit dice; this blast must be used by the end of the bestial kineticist’s master’s next turn or else it is lost, and can include infusions the bestial kineticist possesses. At 16th level the bestial kineticist can perform this action with a composite blast as well. It must be within 60 ft. of its master to do this and still accepts the burn to use this blast as if it’d used it itself.
+**Bounding Blast (Su):** At 9th level a bestial kineticist can imbue its master with its simple kinetic blast as a standard action (1 AP), allowing them to use it once for no burn cost and treating the blast’s damage as from a kineticist 2 levels higher than the bestial kineticist’s hit dice; this blast must be used by the end of the bestial kineticist’s master’s next turn or else it is lost, and can include infusions the bestial kineticist possesses. At 16th level the bestial kineticist can perform this action with a composite blast as well. It must be within 60 ft. of its master to do this and still accepts the burn to use this blast as if it’d used it itself.
 
 *This replaces multiattack.*
 
@@ -174,7 +174,7 @@ The nihilicist can only learn universal utility wild talents, universal infusion
 
 **Nihil Damage (Ex):** A nihilicist’s kinetic blast deals nihil damage; treat nihil damage as nonlethal damage for how it is cured, except it affects creatures normally immune to nonlethal damage. A creature normally immune to nonlethal damage which possess an amount of nihil damage equal to their current hit points becomes [staggered](../../../rules/appendices/conditions.md#staggered), even if they would normally be unable to be staggered. Nihil damage ignores hardness, and if an object takes an amount of nihil damage equal to its hit points, it is destroyed as though it was affected by a *disintegrate* spell.
 
-**Nihilistic Curse (Su):** A nihilicist can select up to one creature up to 60 feet away plus an additional one creature per three nihilicist levels they possess, converting all nihil damage those creatures possess into lethal damage as a standard action. This can be done while gathering power as a full-round action by decreasing the burn reduction it provides by 1 (but cannot be done while gathering power as a move action).
+**Nihilistic Curse (Su):** A nihilicist can select up to one creature up to 60 feet away plus an additional one creature per three nihilicist levels they possess, converting all nihil damage those creatures possess into lethal damage as a standard action (1 AP). This can be done while gathering power as a full-round action (3 AP) by decreasing the burn reduction it provides by 1 (but cannot be done while gathering power as a move action (1 AP)).
 
 When a nihilicist is converting damage to lethal damage, they can choose to convert an amount of that nihil damage into a condition instead, its duration being a number of rounds equal to their Constitution modifier (minimum 1). These effects can be avoided with a Fort save with DC equal to 10 + 1/2 their nihilicist level + their Constitution modifier:
 
@@ -190,13 +190,13 @@ The nihilicist must convert all damage at once when using this ability, whether 
 
 *This replaces the 1st, 9th, and 17th-level infusions.*
 
-**Nullify Wounds (Sp):** At 2nd level a nihilicist can convert an amount of lethal damage they’ve sustained equal to their Constitution modifier into nonlethal damage once per day as a full-round action. They can use this ability an additional time per day at 5th level and every 3 levels thereafter (up to 7 times at 20th). Whenever they accept burn to use a wild talent, they gain damage resistance equal to their nihilicist level + their Constitution modifier against nonlethal damage for 1 round; this damage resistance does not prevent damage from burn, nor does it affect nonlethal damage converted from lethal damage by this ability.
+**Nullify Wounds (Sp):** At 2nd level a nihilicist can convert an amount of lethal damage they’ve sustained equal to their Constitution modifier into nonlethal damage once per day as a full-round action (3 AP). They can use this ability an additional time per day at 5th level and every 3 levels thereafter (up to 7 times at 20th). Whenever they accept burn to use a wild talent, they gain damage resistance equal to their nihilicist level + their Constitution modifier against nonlethal damage for 1 round; this damage resistance does not prevent damage from burn, nor does it affect nonlethal damage converted from lethal damage by this ability.
 
 *This replaces elemental defense.*
 
 **Reduced Existence (Ex):** At 2nd level a nihilicist is constantly under the effects of *negate aroma*, only needs to consume 1/4 as much food and water to survive, and only needs to sleep 2 hours per day. At 6th level they are constantly under the effects of *nondetection* with a caster level equal to their nihilicist level and no longer need to breath or sleep, gaining immunity to sleep effects (though they still must rest 2 hours to recover from burn).
 
-At 12th level, the nihilcist is also constantly under the effects of *mind blank*. In addition, anyone whom the nihilicist has met will slowly forget them; one will forget their name after 1 day, finer details of their interactions and appearance after 3 days, general details of their interactions and appearance after 5 days, and will completely forget their existence after 1 week. At will, the nihilicist can, with a touch, cause a creature to be permanently immune to this effect (though this does not restore any memories lost regarding the nihilicist); they can accept 1 point of burn to attempt a touch attack as a standard action to remove this immunity (subject to a Will save against DC 10 + the nihilicist’s class level; this save even applies to willing and [unconscious](../../../rules/appendices/conditions.md#unconscious) targets).
+At 12th level, the nihilcist is also constantly under the effects of *mind blank*. In addition, anyone whom the nihilicist has met will slowly forget them; one will forget their name after 1 day, finer details of their interactions and appearance after 3 days, general details of their interactions and appearance after 5 days, and will completely forget their existence after 1 week. At will, the nihilicist can, with a touch, cause a creature to be permanently immune to this effect (though this does not restore any memories lost regarding the nihilicist); they can accept 1 point of burn to attempt a touch attack as a standard action (1 AP) to remove this immunity (subject to a Will save against DC 10 + the nihilicist’s class level; this save even applies to willing and [unconscious](../../../rules/appendices/conditions.md#unconscious) targets).
 
 *This replaces the 2nd, 6th, and 12th-level utility wild talents.*
 
@@ -206,7 +206,7 @@ At 12th level, the nihilcist is also constantly under the effects of *mind blank
 
 **Terminus (Sp):** At 20th level, the amount of nihil damage which must be converted to apply a condition to a creature is reduced by 1/5.
 
-As a full-round action, a nihilicist can accept 6 points of burn to create an area of all-consuming nothingness. This first affects a sphere with a 15-foot radius centered on them and everything within it (including themselves), and the area increases exponentially each round to 30 feet on the second round, 60 feet on the third, 120 feet on the fourth, and 240 feet on the fifth and final round. Everything in this space is consumed into oblivion, leaving nothing behind except for a sphere of annihilation where the nihilicist once stood. All memory of the nihilicist’s existence is lost (even to those made immune to the effects of reduced dependence), though those who knew them will feel as if they’ve forgotten something vital. Those the nihilicist was especially close to in life can control the remaining *sphere of annihilation*as if they were an arcane spellcaster in possession of a talisman of the sphere regardless of actual spellcasting ability. A *miracle* or *wish* can revive any one other creature that was within this area or reverse the effects of this ability on a 10-foot cube of the space it left behind, but its effects are otherwise permanent.
+As a full-round action (3 AP), a nihilicist can accept 6 points of burn to create an area of all-consuming nothingness. This first affects a sphere with a 15-foot radius centered on them and everything within it (including themselves), and the area increases exponentially each round to 30 feet on the second round, 60 feet on the third, 120 feet on the fourth, and 240 feet on the fifth and final round. Everything in this space is consumed into oblivion, leaving nothing behind except for a sphere of annihilation where the nihilicist once stood. All memory of the nihilicist’s existence is lost (even to those made immune to the effects of reduced dependence), though those who knew them will feel as if they’ve forgotten something vital. Those the nihilicist was especially close to in life can control the remaining *sphere of annihilation*as if they were an arcane spellcaster in possession of a talisman of the sphere regardless of actual spellcasting ability. A *miracle* or *wish* can revive any one other creature that was within this area or reverse the effects of this ability on a 10-foot cube of the space it left behind, but its effects are otherwise permanent.
 
 *This replaces omnikinesis.*
 
@@ -256,7 +256,7 @@ An onslaught blast cannot have any form infusion which reduces the range of a bl
 
 *This alters kinetic blast.*
 
-**Focused Blaster (Ex):** Whenever an onslaught blaster uses their onslaught blast, they can use it as a full-round action, reducing the burn cost of the blast by 1. At 11 level, they instead reduce the burn cost of the blast by 2 or by 1 if using their onslaught blast as a standard action. At 19th level, they instead reduce the burn cost of the blast by 3 or by 2 if using their onslaught blast as a standard action.
+**Focused Blaster (Ex):** Whenever an onslaught blaster uses their onslaught blast, they can use it as a full-round action (3 AP), reducing the burn cost of the blast by 1. At 11 level, they instead reduce the burn cost of the blast by 2 or by 1 if using their onslaught blast as a standard action (1 AP). At 19th level, they instead reduce the burn cost of the blast by 3 or by 2 if using their onslaught blast as a standard action (1 AP).
 
 *This replaces gather power, supercharge, and metakinesis master.*
 
@@ -400,7 +400,7 @@ This replaces the 3rd-level infusion.
 
 **Kinetic Concert (Su)**
 
-At 5th level, a soundweaver can make a bardic performance as a bard of their soundweaver level -4. While performing a kinetic concert, any kinetic blast they use that receives a bonus from cantikinesis receives a competence bonus to damage equal to twice that bonus. They can expend 2 rounds of bardic performance as a swift action to reduce the burn cost of a utility wild talent by 1 during a kinetic concert, to a minimum of 0. This ability counts as bardic performance for the purpose of qualifying for feats and masterpieces and for effects which affect bardic performances.
+At 5th level, a soundweaver can make a bardic performance as a bard of their soundweaver level -4. While performing a kinetic concert, any kinetic blast they use that receives a bonus from cantikinesis receives a competence bonus to damage equal to twice that bonus. They can expend 2 rounds of bardic performance as a swift action (1 AP) to reduce the burn cost of a utility wild talent by 1 during a kinetic concert, to a minimum of 0. This ability counts as bardic performance for the purpose of qualifying for feats and masterpieces and for effects which affect bardic performances.
 
 If the soundweaver can manifest multiple instruments, they all manifest simultaneously during a kinetic concert, floating in the soundweaver’s space and following them closely. These instruments cannot be damaged and are unaffected by any effects happening within an area of effect, but they can be dispelled. The soundweaver can use any of these instruments’ associated Perform skill for cantikinesis.
 
@@ -422,7 +422,7 @@ This replaces internal buffer and the 5th, 9th, 13th, and 17th-level infusions.
 
 At 8th level, the soundweaver chooses a second instrument for cantikinesis. This instrument cannot be one associated with the same Perform skill as their first (for example, a soundweaver who manifests a sitar can select a drum, but cannot select a mandolin). At 16th level, they choose a third instrument, which cannot be associated with the same Perform skill as either of the instruments they can manifest. Each time they select a new instrument this way, they gain a simple kinetic blast as per improved cantikinesis, but do not gain composite blasts with it, and it can only be performed with the instrument with which it is associated. Only one instrument can be manifested at a time unless the soundweaver is performing a kinetic concert.
 
-When using a kinetic blast from their primary element with multiple instruments manifested, the soundweaver can accept 1 burn as an immediate action to increase the damage it deals by one die per manifested instrument beyond the first (for example, an 8th level soundweaver with blue flame blast would deal 8d6 with it normally, but would deal 9d6 if used during a kinetic concert with both instruments manifested).
+When using a kinetic blast from their primary element with multiple instruments manifested, the soundweaver can accept 1 burn as an immediate action (1 AP of your next turn) to increase the damage it deals by one die per manifested instrument beyond the first (for example, an 8th level soundweaver with blue flame blast would deal 8d6 with it normally, but would deal 9d6 if used during a kinetic concert with both instruments manifested).
 
 In addition, if they would gain a bonus wild talent as part of gaining an expanded element, they can choose to forgo that bonus wild talent they would learn to instead manifest an additional instrument. An instrument manifested this way cannot be associated with the same type of Perform skill as any other instrument they can manifest and can only be used with blasts of the soundweaver’s primary element. If they would gain more than one bonus wild talent this way, they can only exchange one of them for an instrument, and they cannot exchange the infusions gained through musical infusion this way.
 
@@ -438,7 +438,7 @@ This replaces the 11th and 19th-level infusions.
 
 **Harmonious Convergence (Sp)**
 
-At 20th level, the soundweaver has mastered their ability to command the elements with their music. During a kinetic concert, they can use gather power as a swift action to reduce the cost of a kinetic blast by 1 (to a minimum of 0). This cannot be done on the same turn they use gather power as a move or full-round action. In addition, they learn The Consequence of the Harmonious Convergence as a bonus bardic masterpiece.
+At 20th level, the soundweaver has mastered their ability to command the elements with their music. During a kinetic concert, they can use gather power as a swift action (1 AP) to reduce the cost of a kinetic blast by 1 (to a minimum of 0). This cannot be done on the same turn they use gather power as a move or full-round action (3 AP). In addition, they learn The Consequence of the Harmonious Convergence as a bonus bardic masterpiece.
 
 This replaces omnikinesis.
 
@@ -462,7 +462,7 @@ Soundweavers may learn the following unique bardic masterpieces:
 
 **Requirement(s)**: Perform (Wind) 10, kinetic concert Effect: This lilting harmony was inspired by fey met while dreaming of time spent in an elemental plane, and causes elemental power to coalesce in a whirling sphere that attacks alongside you. Treat this as if it was a simple blast you possess with the improved mobile blast infusion, except it manifests in a square adjacent to you, has no maximum duration, and it does not count toward the limit of one mobile blast being active at a time. This effect lasts until you end your kinetic concert or when the sphere dissipates as per improved mobile blast.
 
-**Use**: 2 bardic performance rounds per round Activation: 1 standard action
+**Use**: 2 bardic performance rounds per round Activation: 1 standard action (1 AP)
 
 **The Foolish Soul**
 
@@ -470,7 +470,7 @@ Soundweavers may learn the following unique bardic masterpieces:
 
 Those who can see and hear your performance within 90 ft. are tethered to the performer’s location, as if affected by dimensional anchor for its duration. This masterpiece relies on audio and visual components, and this effect lasts until you end your kinetic concert.
 
-**Use**: 1 bardic performance round per round Activation: 1 standard action
+**Use**: 1 bardic performance round per round Activation: 1 standard action (1 AP)
 
 **The Ghosts Of Unrealized Power**
 
@@ -480,7 +480,7 @@ Choose two form infusions and two substance infusions you do not possess and for
 
 You can use one infusion gained this way to qualify for another (such as gaining extended range and extreme range). You must have at least three instruments manifested to use this masterpiece (for each of which you must have 10 ranks in the instrument’s associated Perform skill), and this effect lasts until you end your kinetic concert.
 
-**Use**: 3 bardic performance rounds per round Activation: 1 standard action
+**Use**: 3 bardic performance rounds per round Activation: 1 standard action (1 AP)
 
 **The Gossamer Parapet**
 
@@ -496,7 +496,7 @@ Choose a single defense wild talent you know when you begin this masterpiece; yo
 
 This masterpiece relies on audio components, and the effect lasts until you end your kinetic concert.
 
-**Use**: 1 bardic performance round per round Activation: 1 move action Soundweavers may learn the following unique feat:
+**Use**: 1 bardic performance round per round Activation: 1 move action (1 AP) Soundweavers may learn the following unique feat:
 
 **Elemental Soothing**
 
@@ -635,18 +635,18 @@ pool (calculated after ki has been spent). A surge fist monk
 must have the shinku surge ki power to select this ki power.
 
 *Expanded Infusion (Su):* Select one substance infusion the surge fist monk possesses. By spending 1 point from their ki
-pool plus the infusion’s burn cost as a swift action, they can
+pool plus the infusion’s burn cost as a swift action (1 AP), they can
 apply its effects to all unarmed strikes and surge fists they
 use until the beginning of their next turn. A surge fist monk
 can select this ki power multiple times, choosing a different
 substance infusion each time.
 
-*Extended Range Surge Fist (Ex):* By spending 1 point from their ki pool as a swift action, a surge fist monk can
+*Extended Range Surge Fist (Ex):* By spending 1 point from their ki pool as a swift action (1 AP), a surge fist monk can
 increase the range of
 surge fists they use
 this turn to 120 ft.
 
-*Extreme Range Surge Fist (Ex):* By spending 2 points from their ki pool as a swift action, a surge fist monk can increase
+*Extreme Range Surge Fist (Ex):* By spending 2 points from their ki pool as a swift action (1 AP), a surge fist monk can increase
 the range of surge fists they use this turn to 480 ft. A surge
 fist monk must have the extended range surge fist ki power
 and be 6th level to select this ki power.
@@ -658,7 +658,7 @@ its effects stack. A surge fist monk must be 8th level to select
 this ki power, and select it a second and third time at 12th
 and 16th level respectively.
 
-*Ki Surge (Sp):* By spending 1 point from their ki pool as a move action, a surge fist monk can temporarily enhance
+*Ki Surge (Sp):* By spending 1 point from their ki pool as a move action (1 AP), a surge fist monk can temporarily enhance
 their physical power. Until the end of their next round, they
 receive a +2 size bonus to each of their physical ability scores
 and to [Intimidate](../../../rules/skills/intimidate.md) checks. Activating this ability produces a
@@ -675,7 +675,7 @@ equal to twice the ki points spent to each physical ability
 score and to Intimidate checks and lasting an additional
 number of rounds for each 2 ki points spent beyond the
 first. Spending 2 ki points to activate this is a standard
-action, and spending 3 or more is a full-round action. They
+action, and spending 3 or more is a full-round action (3 AP). They
 must spend the same amount of ki points used to activate
 this ability to extend the duration of these bonuses. The
 more ki points spent on this, the more drastically their
@@ -704,12 +704,12 @@ monk weapons they are wielding. Surge fists do not count as
 unarmed strikes or monk weapons for this ability. A surge
 fist monk must be 8th level to select this ki power.
 
-*Stunning Surge Fist (Ex):* By spending 1 point from their ki pool as a swift action, a surge fist monk can use their
+*Stunning Surge Fist (Ex):* By spending 1 point from their ki pool as a swift action (1 AP), a surge fist monk can use their
 stunning fist ability with a surge fist. A surge fist monk
 cannot apply the effects of a substance infusion to a surge
 fist used this way.
 
-*Shinku Surge (Su):* By spending 2 points from their ki pool, a surge fist monk can make a single surge fist attack as a full-round action. When using a surge fist in this way, it deals
+*Shinku Surge (Su):* By spending 2 points from their ki pool, a surge fist monk can make a single surge fist attack as a full-round action (3 AP). When using a surge fist in this way, it deals
 damage as a kinetic blast used by a kineticist of the surge
 fist monk’s level, using their Wisdom modifier in place of Constitution modifier. If the surge fist monk has levels as
 a kineticist, they stack for the purpose of determining this damage. A surge fist monk must have the surging strike ki
@@ -771,7 +771,7 @@ This replaces elemental defense.
 
 At 3rd level, whenever a telekinetic bladeshifter uses their telekinetic blast, they can choose to create a weapon entirely out of force. A telekinetic blast used this way deals force damage and targets touch AC, but deals half its normal damage and is subject to spell resistance. If they possess force blast, they can accept an additional 2 points of burn when using their telekinetic blast; doing so allows the weapon to deal its full damage and is treated as applying a substance infusion.
 
-In addition, as a swift action, they can accept 1 point of burn to provide any weapon they create from a telekinetic blast for the next 1 minute with an enhancement bonus equal to 1 + ¼ their kineticist level. This enhancement bonus can be applied to the weapon, stacking with existing enhancement bonuses to a maximum of +5, or they can be used to add any of the following weapon properties so long as they are appropriate to the manifested weapon: agile, cyclonic, impact, interfering, keen, nullifying, planar, sharding, speed, veering, or vicious. Adding these special abilities consumes enhancement bonus from this ability equal to the property’s cost. They choose which weapon qualities to apply when using this ability, and it can only be used once per minute. If the telekinetic bladeshifter possesses the battle burn class feature, they can accept battle burn in place of burn for this effect, reducing its duration to 1 round per 3 telekinetic bladeshifter levels they possess (minimum 1).
+In addition, as a swift action (1 AP), they can accept 1 point of burn to provide any weapon they create from a telekinetic blast for the next 1 minute with an enhancement bonus equal to 1 + ¼ their kineticist level. This enhancement bonus can be applied to the weapon, stacking with existing enhancement bonuses to a maximum of +5, or they can be used to add any of the following weapon properties so long as they are appropriate to the manifested weapon: agile, cyclonic, impact, interfering, keen, nullifying, planar, sharding, speed, veering, or vicious. Adding these special abilities consumes enhancement bonus from this ability equal to the property’s cost. They choose which weapon qualities to apply when using this ability, and it can only be used once per minute. If the telekinetic bladeshifter possesses the battle burn class feature, they can accept battle burn in place of burn for this effect, reducing its duration to 1 round per 3 telekinetic bladeshifter levels they possess (minimum 1).
 
 This replaces the 3rd, 11th, and 19th-level infusions.
 
@@ -931,7 +931,7 @@ You pour a bit of the positive energy responsible for your revivification into y
 
 At 6th and 12th levels, the twiceborn repenter chooses one of the following: aberration, dragon, fey, humanoid, monstrous humanoid, or outsider (if choosing humanoid or outsider, they must also choose a specific subtype, such as humanoid (human) or outsider (native); they cannot choose the good subtype for this purpose). If their kinetic blast deals positive energy damage, it can deal this damage to evil-aligned creatures of the chosen type, even if those creatures would normally be healed by positive energy.
 
-In addition, the twice-born repenter’s vivification virus can affect corporeal evil-aligned creatures of the chosen type whether living or undead, dealing Constitution damage instead of Charisma damage if the affected creature is living, but otherwise affecting them the same as it would a humanoid corporeal undead. In living creatures afflicted with this version of the vivification virus that cease to be evil, the virus still affects them, but has a frequency of 1/week no matter its previous frequency and the afflicted receives a +10 circumstance bonus to saves against it. As a standard action, the twice-born repenter can accept 1 point of burn and touch a living non-evil creature they’ve inflicted with the vivification virus to purge the disease from that creature.
+In addition, the twice-born repenter’s vivification virus can affect corporeal evil-aligned creatures of the chosen type whether living or undead, dealing Constitution damage instead of Charisma damage if the affected creature is living, but otherwise affecting them the same as it would a humanoid corporeal undead. In living creatures afflicted with this version of the vivification virus that cease to be evil, the virus still affects them, but has a frequency of 1/week no matter its previous frequency and the afflicted receives a +10 circumstance bonus to saves against it. As a standard action (1 AP), the twice-born repenter can accept 1 point of burn and touch a living non-evil creature they’ve inflicted with the vivification virus to purge the disease from that creature.
 
 This replaces the 6th and 12th-level utility wild talents.
 

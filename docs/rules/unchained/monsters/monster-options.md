@@ -228,15 +228,15 @@ Thematically, monsters with higher mental ability modifiers are the most likely 
 
 **Blind-Fight**: The monster rolls miss chances due to concealment twice and takes the higher result.
 
-**Bombs**: As a standard action, the monster creates a bomb and throws it with a range of 20 feet. Use the throw splash weapon special attack. On a direct hit, the bomb deals fire damage equal to the monster’s low weapon damage, using 3d6 damage dice. Splash damage is 6 + 1/2 the monster’s CR.
+**Bombs**: As a standard action (1 AP), the monster creates a bomb and throws it with a range of 20 feet. Use the throw splash weapon special attack. On a direct hit, the bomb deals fire damage equal to the monster’s low weapon damage, using 3d6 damage dice. Splash damage is 6 + 1/2 the monster’s CR.
 
-**Challenge**: Once per day as a swift action, the monster can challenge one target within sight. The monster gains a bonus on melee damage rolls equal to its CR (minimum 1) against that creature, but takes a –2 penalty to AC against attacks made by creatures other than the target. The target remains challenged until it is killed, falls unconscious, or the combat ends. The monster can use this ability three times per day at CR 5, and at will at CR 14.
+**Challenge**: Once per day as a swift action (1 AP), the monster can challenge one target within sight. The monster gains a bonus on melee damage rolls equal to its CR (minimum 1) against that creature, but takes a –2 penalty to AC against attacks made by creatures other than the target. The target remains challenged until it is killed, falls unconscious, or the combat ends. The monster can use this ability three times per day at CR 5, and at will at CR 14.
 
-**Combatant’s Touch**: As a standard action, the monster can touch a creature to grant that creature a bonus equal to 1 + 1/2 the monster’s CR on melee attack rolls. Additionally, choose one physical ability modifier. This bonus applies on combat maneuver checks, skill checks, and ability checks that use that ability modifier.
+**Combatant’s Touch**: As a standard action (1 AP), the monster can touch a creature to grant that creature a bonus equal to 1 + 1/2 the monster’s CR on melee attack rolls. Additionally, choose one physical ability modifier. This bonus applies on combat maneuver checks, skill checks, and ability checks that use that ability modifier.
 
 **Constant Invisibility**: Because of its natural appearance or an exterior effect, such as a cloak of invisibility, this monster is invisible at all times. If this ability is used below CR 10, it should be for monsters that aren’t focused on combat.
 
-**Fast Feint**: The monster can attempt a Bluff check to feint as a move action.
+**Fast Feint**: The monster can attempt a Bluff check to feint as a move action (1 AP).
 
 **Favored Enemy**: Choose a creature type, or a single subtype of humanoid or outsider. The monster gains a +2 bonus on attack and damage rolls against creatures of that type. Increase the bonus and number of creature types chosen based on the monster’s CR: +4 and two types at CR 4, +6 and three types at CR 9, +8 and four types at CR 14, and +10 and five types at CR 19.
 
@@ -254,7 +254,7 @@ Thematically, monsters with higher mental ability modifiers are the most likely 
 
 **Team Fighter**: The monster gains a +2 bonus on attack and damage rolls against targets that are threatened by one of the monster’s allies (other than itself ). This bonus increases by 1 for every 4 CR the monster possesses.
 
-**Trap Squares**: The monster can trap any square adjacent to it as a standard action. Any creature that enters the trapped square takes an amount of damage equal to 1d6 + 1/2 the monster’s CR of a damage type chosen by the monster while setting the trap. The trap is invisible and lasts for a number a rounds equal to the monster’s CR. It can be found with a successful DC 25 Perception check and disarmed with a successful DC 25 Disable Device check. The monster can create three traps per day; at CR 10, this increases to five traps per day. This ability can be used for mundane or magical traps. For mundane traps, choose bludgeoning, piercing, or slashing damage; for magical traps, choose acid, cold, electricity, or fire damage.
+**Trap Squares**: The monster can trap any square adjacent to it as a standard action (1 AP). Any creature that enters the trapped square takes an amount of damage equal to 1d6 + 1/2 the monster’s CR of a damage type chosen by the monster while setting the trap. The trap is invisible and lasts for a number a rounds equal to the monster’s CR. It can be found with a successful DC 25 Perception check and disarmed with a successful DC 25 Disable Device check. The monster can create three traps per day; at CR 10, this increases to five traps per day. This ability can be used for mundane or magical traps. For mundane traps, choose bludgeoning, piercing, or slashing damage; for magical traps, choose acid, cold, electricity, or fire damage.
 
 **Unflankable**: The monster can’t be flanked.
 
@@ -292,7 +292,7 @@ These abilities are typically supernatural or inhuman in nature. If a monster is
 
 **Fast Healing**: This monster regains 2 hit points per round. This healing increases to 5 hit points per round at CR 4, 10 at CR 11, 15 at CR 16, and 20 at CR 21.
 
-**Fear Attack**: This ability functions as the fear aura option, but requires a standard action to activate, uses the monster’s full ability DC, and affects creatures in a cone, burst, or ray. If used as a ray, it affects only one creature and requires a ranged touch attack to affect the creature. The size of the effect appears on the table below.
+**Fear Attack**: This ability functions as the fear aura option, but requires a standard action (1 AP) to activate, uses the monster’s full ability DC, and affects creatures in a cone, burst, or ray. If used as a ray, it affects only one creature and requires a ranged touch attack to affect the creature. The size of the effect appears on the table below.
 
 | CR | Cone | Burst | Ray |
 |---|---|---|---|
@@ -302,11 +302,11 @@ These abilities are typically supernatural or inhuman in nature. If a monster is
 
 **Fear Aura**: Any creature that comes within 30 feet of the monster must attempt a Will save (DC = the monster’s ability DC – 5). If it fails, it is panicked for a number of rounds equal to the monster’s CR; if it succeeds, it is shaken for 1 round. The range increases to 60 feet at CR 10 and 120 feet at CR 20.
 
-**Fling**: When the monster has a creature grappled, it can fling that creature as a standard action. The flung creature travels 1d6 × 10 feet and takes 1d6 points of damage per 10 feet traveled. If the monster can fly, it can instead fling the creature as a free action while airborne. If it does, the flung creature takes damage as specified above or the appropriate falling damage, whichever is greater.
+**Fling**: When the monster has a creature grappled, it can fling that creature as a standard action (1 AP). The flung creature travels 1d6 × 10 feet and takes 1d6 points of damage per 10 feet traveled. If the monster can fly, it can instead fling the creature as a free action while airborne. If it does, the flung creature takes damage as specified above or the appropriate falling damage, whichever is greater.
 
 **Frightful Presence**: This ability functions as fear aura (see above), but affected creatures are shaken for 15 rounds (or panicked if they have 4 or fewer HD). This ability doesn’t affect creatures of a level equal to or higher than the monster’s CR + 4, and a creature that succeeds at its save can’t be affected by the monster’s frightful presence for 24 hours.
 
-**Gaseous Form**: As a standard action, the monster can use gaseous form at will, and it can remain in this form indefinitely. While it does, it has a fly speed of 20 feet with perfect maneuverability.
+**Gaseous Form**: As a standard action (1 AP), the monster can use gaseous form at will, and it can remain in this form indefinitely. While it does, it has a fly speed of 20 feet with perfect maneuverability.
 
 **Incorporeal**: This functions as the universal monster rule, without adjusting AC, attack bonuses, or CMB.
 
@@ -340,7 +340,7 @@ The thrown rock is a ranged attack with a range increment of 120 feet, and deals
 
 These options are most appropriate for monsters with high Strength or that rely on overwhelming physical attacks.
 
-**Awesome Blow**: As a standard action, the monster can attempt an awesome blow combat maneuver. If it succeeds, the target takes damage as if it had been hit by one of the monster’s attacks, is knocked 10 feet in a direction of the monster’s choice, and falls prone. The target must be moved in a straight line; if it hits an obstacle, both it and the obstacle take 1d6 points of damage.
+**Awesome Blow**: As a standard action (1 AP), the monster can attempt an awesome blow combat maneuver. If it succeeds, the target takes damage as if it had been hit by one of the monster’s attacks, is knocked 10 feet in a direction of the monster’s choice, and falls prone. The target must be moved in a straight line; if it hits an obstacle, both it and the obstacle take 1d6 points of damage.
 
 **Bleed**: The monster’s attacks deal 1d6 points of bleed damage. This increases to 1d8 at CR 6, 1d10 at CR 11, 2d6 at CR 16, and 3d6 at CR 21. Bleeding can be stopped by a successful DC 20 Heal check or with any magical healing.
 
@@ -366,11 +366,11 @@ CR 19: The monster instead gains hp equal to quadruple its CR, deals 6 extra poi
 
 **Rend**: If the monster hits the same target with two or more attacks in 1 round, it rends—dealing its high weapon damage. It can do this once per round.
 
-**Slaying Attack**: Once per day as a standard action, the monster can make a single attack that can kill a creature outright. On a hit, the attack deals normal damage and the target must succeed at a save or die. The type of save is either Fortitude or Will, chosen when the monster gains this option. This option typically appears only on monsters of CR 19 or higher.
+**Slaying Attack**: Once per day as a standard action (1 AP), the monster can make a single attack that can kill a creature outright. On a hit, the attack deals normal damage and the target must succeed at a save or die. The type of save is either Fortitude or Will, chosen when the monster gains this option. This option typically appears only on monsters of CR 19 or higher.
 
 **Stun Attack**: The monster can make one of its attacks a stun attack once per round. On a hit, the target takes damage normally and must succeed at a Fortitude save (DC = the monster’s ability DC – 5) or become stunned 1 for 1 round. A creature is immune to this ability if it is a construct, ooze, plant, or undead, or if it is incorporeal or immune to critical hits. The monster can use this option a number of times per day equal to its CR.
 
-**Trample**: The monster can automatically overrun creatures smaller than itself as a full-round action. It automatically deals its high weapon damage to each creature it runs over in this way (dealing damage only once per round to any given creature). A creature being trampled can either attempt an attack of opportunity at a –4 penalty or attempt a Reflex save (DC = 2 × the monster’s ability DC – 10) to take half damage.
+**Trample**: The monster can automatically overrun creatures smaller than itself as a full-round action (3 AP). It automatically deals its high weapon damage to each creature it runs over in this way (dealing damage only once per round to any given creature). A creature being trampled can either attempt an attack of opportunity at a –4 penalty or attempt a Reflex save (DC = 2 × the monster’s ability DC – 10) to take half damage.
 
 #### Quick
 
@@ -390,13 +390,13 @@ Monsters with high Dexterity tend to take quick combat options, many of which in
 
 **Far Shot**: Double all the monster’s range increments and reduce the monster’s penalties on ranged attacks from range increments by half.
 
-**Fast Reload**: The monster can reload a ranged weapon that normally takes a move or standard action to reload as a free action. When it reloads a ranged weapon, it doesn’t provoke attacks of opportunity.
+**Fast Reload**: The monster can reload a ranged weapon that normally takes a move or standard action (1 AP) to reload as a free action. When it reloads a ranged weapon, it doesn’t provoke attacks of opportunity.
 
-**Firearm Savvy**: The monster’s firearm attacks target touch AC when firing beyond the first range increment. As a move action, the monster can remove the broken condition from a firearm caused by a misfire.
+**Firearm Savvy**: The monster’s firearm attacks target touch AC when firing beyond the first range increment. As a move action (1 AP), the monster can remove the broken condition from a firearm caused by a misfire.
 
 **Improved Initiative**: Increase the monster’s initiative bonus by 4.
 
-**Mobile Attack**: The monster can move its speed and make an attack (either melee or ranged, chosen when the monster gains this option) at any point during its movement as a full-round action. The monster can use this ability with any of its movement modes.
+**Mobile Attack**: The monster can move its speed and make an attack (either melee or ranged, chosen when the monster gains this option) at any point during its movement as a full-round action (3 AP). The monster can use this ability with any of its movement modes.
 
 **Mobility**: The monster gains a +4 bonus to AC against attacks of opportunity.
 
@@ -404,7 +404,7 @@ Monsters with high Dexterity tend to take quick combat options, many of which in
 
 **Precise Shot**: When making a ranged attack, the monster ignores the –4 penalty for attacking an opponent engaged in melee as well as the target’s AC bonuses from cover and concealment (except total cover or total concealment).
 
-**Swap Places**: The monster can swap positions with an adjacent ally as a move action without provoking attacks of opportunity.
+**Swap Places**: The monster can swap positions with an adjacent ally as a move action (1 AP) without provoking attacks of opportunity.
 
 **Uncanny Dodge**: The monster can’t be caught flat-footed.
 
@@ -450,13 +450,13 @@ These options are primarily useful to spellcasters, though combatants and expert
 
 These options improve a monster’s ability to bring minion creatures into the fight.
 
-**Children of the Night**: Once per day as a standard action, the monster can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or 2d6 wolves. (If the monster is not terrestrial, it might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the monster for 1 hour.
+**Children of the Night**: Once per day as a standard action (1 AP), the monster can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or 2d6 wolves. (If the monster is not terrestrial, it might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the monster for 1 hour.
 
 **Phantom Mount**: Once per hour, the monster can summon a horse similar to a phantom steed. This mount is more substantial than a typical phantom steed, and can carry one additional rider. The mount’s powers are based on the monster’s total CR rather than caster level.
 
 **Powerful Summons**: Increase the duration of the monster’s conjuration (summoning) spells by a number of rounds equal to the monster’s CR. Any creature summoned by such a spell also gains temporary hit points equal to 1/2 the monster’s CR and a +2 bonus on damage rolls.
 
-**Undead Mastery**: As a standard action, the monster can choose one undead creature within 50 feet. That creature must succeed at a Will save or fall under the monster’s control. This control is permanent for unintelligent undead; an undead creature with an Intelligence score can attempt an additional saving throw each day to break free. A creature that succeeds at its saving throw cannot be affected again by the same monster’s undead mastery for 24 hours.
+**Undead Mastery**: As a standard action (1 AP), the monster can choose one undead creature within 50 feet. That creature must succeed at a Will save or fall under the monster’s control. This control is permanent for unintelligent undead; an undead creature with an Intelligence score can attempt an additional saving throw each day to break free. A creature that succeeds at its saving throw cannot be affected again by the same monster’s undead mastery for 24 hours.
 
 A monster can control a number of undead creatures with a combined CR equal to its own CR. If this limit is exceeded, the excess undead become uncontrolled in order from longest-controlled to most recently controlled.
 
@@ -464,25 +464,25 @@ A monster can control a number of undead creatures with a combined CR equal to i
 
 These magic options are most useful for aggressive monsters that use their spells to deal damage.
 
-**Bestow Major Condition**: As a standard action, the monster makes a melee touch attack against one creature it can reach. On a hit, the target gains the condition (dazed, paralyzed, or stunned) that was chosen when the monster gained this option. Each round, the target can attempt a Will save (DC = the monster’s ability DC – 5) to end the condition.
+**Bestow Major Condition**: As a standard action (1 AP), the monster makes a melee touch attack against one creature it can reach. On a hit, the target gains the condition (dazed, paralyzed, or stunned) that was chosen when the monster gained this option. Each round, the target can attempt a Will save (DC = the monster’s ability DC – 5) to end the condition.
 
-**Bestow Minor Condition**: As a standard action, the monster makes a melee touch attack against one creature it can reach. On a hit, the target gains the condition (dazzled, deafened, fatigued, shaken, or sickened) that was chosen when the monster gained this option. Each round, the target can attempt a Will save (DC = the monster’s ability DC – 5) to end the condition.
+**Bestow Minor Condition**: As a standard action (1 AP), the monster makes a melee touch attack against one creature it can reach. On a hit, the target gains the condition (dazzled, deafened, fatigued, shaken, or sickened) that was chosen when the monster gained this option. Each round, the target can attempt a Will save (DC = the monster’s ability DC – 5) to end the condition.
 
-**Bestow Moderate Condition**: As a standard action, the monster makes a melee touch attack against one creature it can reach. On a hit, the target gains the condition (blinded, exhausted, frightened, or nauseated) that was chosen when the monster gained this option. Each round, the target can attempt a Will save (DC = the monster’s ability DC – 5) to end the condition.
+**Bestow Moderate Condition**: As a standard action (1 AP), the monster makes a melee touch attack against one creature it can reach. On a hit, the target gains the condition (blinded, exhausted, frightened, or nauseated) that was chosen when the monster gained this option. Each round, the target can attempt a Will save (DC = the monster’s ability DC – 5) to end the condition.
 
 **Bypass DR**: The monster’s attacks count as being magic, of a particular alignment, or of a particular material for the purpose of overcoming damage reduction. Each time the monster gains this option, choose two from the following: adamantine, chaotic, cold iron, evil, good, lawful, magic, or silver.
 
 **Channel Destruction**: Choose one energy type: acid, cold, electricity, or fire. The monster’s weapon attacks deal an additional 1d6 points of damage of the chosen type for every 4 CR the monster has.
 
-**Energy Explosion**: Choose one of the following: acid, cold, electricity, fire, force, or sonic. Once per day as a standard action, the monster can create a 20-foot-radius burst of energy within 60 feet. This deals an amount of damage equal to 1d6 + the monster’s CR of the chosen type to all creatures in the burst. A successful Reflex save halves the damage.
+**Energy Explosion**: Choose one of the following: acid, cold, electricity, fire, force, or sonic. Once per day as a standard action (1 AP), the monster can create a 20-foot-radius burst of energy within 60 feet. This deals an amount of damage equal to 1d6 + the monster’s CR of the chosen type to all creatures in the burst. A successful Reflex save halves the damage.
 
 **Energy Infusion**: Choose one of the following: acid, cold, electricity, fire, force, or sonic. Each time the monster uses a spell, spell-like ability, or supernatural ability that deals energy damage, it can choose to change the energy damage type dealt by that ability to the chosen type instead.
 
-**Evil Eye**: As a standard action, the monster chooses one creature within 30 feet that it can see. The target takes a –2 penalty on either ability checks, attack rolls, saving throws, skill checks, or to AC for 1 minute. If the target succeeds at a Will save, the effect lasts for 1 round instead.
+**Evil Eye**: As a standard action (1 AP), the monster chooses one creature within 30 feet that it can see. The target takes a –2 penalty on either ability checks, attack rolls, saving throws, skill checks, or to AC for 1 minute. If the target succeeds at a Will save, the effect lasts for 1 round instead.
 
-**Magic Attack**: As a standard action, the monster makes a ranged touch attack against one creature within 30 feet of it. On a hit, the attack inflicts the monster’s high weapon damage of one of the following types (chosen when the monster gains this option): bludgeoning, cold, electricity, fire, force, piercing, slashing, or sonic. For force damage, use the low damage value instead of high damage value.
+**Magic Attack**: As a standard action (1 AP), the monster makes a ranged touch attack against one creature within 30 feet of it. On a hit, the attack inflicts the monster’s high weapon damage of one of the following types (chosen when the monster gains this option): bludgeoning, cold, electricity, fire, force, piercing, slashing, or sonic. For force damage, use the low damage value instead of high damage value.
 
-**Misfortune**: As a standard action, the monster targets one creature within 30 feet. The next time the target attempts an ability check, attack roll, saving throw, or skill check before the end of the monster’s next turn, the target must roll twice and use the lower result.
+**Misfortune**: As a standard action (1 AP), the monster targets one creature within 30 feet. The next time the target attempts an ability check, attack roll, saving throw, or skill check before the end of the monster’s next turn, the target must roll twice and use the lower result.
 
 **Potent Magic Damage**: Choose a spell subschool or descriptor, such as fire or phantasm. The monster’s spells and spell-like abilities of the chosen type deal an additional 1 point of damage per damage die.
 
@@ -494,41 +494,41 @@ The aura functions as the desecrate spell cast on an altar. In addition, any cre
 
 With one attack per day, the monster can deal additional damage equal to its CR against a creature of the chosen type. The number of uses per day increases by one for every 3 CR the monster has.
 
-**Spell Combat**: The monster’s attacks use the low attack value, but when it makes a full attack the monster can also cast any spell it knows that has a casting time of 1 standard action.
+**Spell Combat**: The monster’s attacks use the low attack value, but when it makes a full attack the monster can also cast any spell it knows that has a casting time of 1 standard action (1 AP).
 
 **Spell Penetration**: The monster gains a +2 bonus on caster level checks to overcome a creature’s spell resistance. At CR 11, the bonus increases to +4.
 
 **Spellstrike**: Whenever the monster casts a spell with a range of touch, it can deliver the spell as part of a melee attack. The monster makes the melee attack in place of the spell’s touch attack. On a hit, the attack deals normal damage and the spell takes effect.
 
-**Turn Undead**: As a standard action, this monster forces each undead creature within 30 feet of it to attempt a Will save (DC = the monster’s ability DC – 5). On a failed saving throw, the target flees from the monster for 1 minute as if panicked. Intelligent undead receive a new saving throw each round to end the effect.
+**Turn Undead**: As a standard action (1 AP), this monster forces each undead creature within 30 feet of it to attempt a Will save (DC = the monster’s ability DC – 5). On a failed saving throw, the target flees from the monster for 1 minute as if panicked. Intelligent undead receive a new saving throw each round to end the effect.
 
 #### Support
 
 These magical benefits protect, heal, or improve the abilities of the monster or its allies.
 
-**Bolstering Touch**: As a standard action, the monster can touch a creature to grant it a bonus equal to 1 + 1/2 the monster’s CR on attack rolls, skill checks, ability checks, and saving throws for 1 round.
+**Bolstering Touch**: As a standard action (1 AP), the monster can touch a creature to grant it a bonus equal to 1 + 1/2 the monster’s CR on attack rolls, skill checks, ability checks, and saving throws for 1 round.
 
-**Channel Energy**: As a standard action, the monster releases a burst of energy that affects either all living creatures or all undead creatures in a 30-foot radius. The burst either deals 1d6 points of damage (from negative energy) or heals 1d6 points of damage (from positive energy). A creature that would take damage from this effect can attempt a Will save (DC = the monster’s ability DC – 5) to halve the damage. A monster can use this option 8 times per day. Increase the damage or healing by 1d6 per 2 CR.
+**Channel Energy**: As a standard action (1 AP), the monster releases a burst of energy that affects either all living creatures or all undead creatures in a 30-foot radius. The burst either deals 1d6 points of damage (from negative energy) or heals 1d6 points of damage (from positive energy). A creature that would take damage from this effect can attempt a Will save (DC = the monster’s ability DC – 5) to halve the damage. A monster can use this option 8 times per day. Increase the damage or healing by 1d6 per 2 CR.
 
 **Combat Casting**: The monster gains a +6 bonus on concentration checks.
 
 **Countersong**: The monster can attempt a Perform skill check. It and each ally within 30 feet of it can use the result of this check in place of saving throws to resist sonic, language- dependent, illusion (pattern), and illusion (figment) effects.
 
-**Fortune**: As a standard action, the monster grants good luck to one creature within 30 feet of it. The next time the target attempts an ability check, attack roll, saving throw, or skill check before the end of the monster’s next turn, the target can reroll and must use the second result.
+**Fortune**: As a standard action (1 AP), the monster grants good luck to one creature within 30 feet of it. The next time the target attempts an ability check, attack roll, saving throw, or skill check before the end of the monster’s next turn, the target can reroll and must use the second result.
 
-**Healing Touch**: As a standard action (or a swift action if it targets itself ), the monster touches itself or one living creature it can reach. The target heals 1d6 hit points of damage for every 2 CR the monster has (minimum 1d6) and removes one condition of the monster’s choice. If the monster targets an undead creature, it must make a melee touch attack. On a hit, the target takes damage instead of being healed. The monster can use this option 5 times per day.
+**Healing Touch**: As a standard action (1 AP) (or a swift action (1 AP) if it targets itself ), the monster touches itself or one living creature it can reach. The target heals 1d6 hit points of damage for every 2 CR the monster has (minimum 1d6) and removes one condition of the monster’s choice. If the monster targets an undead creature, it must make a melee touch attack. On a hit, the target takes damage instead of being healed. The monster can use this option 5 times per day.
 
 **Potent Healing**: Whenever the monster heals hit point damage using a spell, spell-like ability, or supernatural ability, it heals a number of additional hit points equal to its CR. This doesn’t apply to dealing damage to undead using positive energy, but does apply to using negative energy to heal undead.
 
-**Protective Ward**: As a standard action, the monster emits a field of protective magic that extends from it in a 10-foot radius. The monster and each allied creature in the area gains a +2 bonus to AC until the end of the monster’s next turn.
+**Protective Ward**: As a standard action (1 AP), the monster emits a field of protective magic that extends from it in a 10-foot radius. The monster and each allied creature in the area gains a +2 bonus to AC until the end of the monster’s next turn.
 
-**Remove Major Condition**: As a standard action, the monster can touch a creature to remove the blinded, paralyzed, or stunned condition. It can use this ability on itself as a swift action.
+**Remove Major Condition**: As a standard action (1 AP), the monster can touch a creature to remove the blinded, paralyzed, or stunned condition. It can use this ability on itself as a swift action (1 AP).
 
-**Remove Minor Condition**: As a standard action, the monster can touch a creature to remove the dazzled, deafened, fatigued, shaken, or sickened condition. It can use this ability on itself as a swift action.
+**Remove Minor Condition**: As a standard action (1 AP), the monster can touch a creature to remove the dazzled, deafened, fatigued, shaken, or sickened condition. It can use this ability on itself as a swift action (1 AP).
 
-**Remove Moderate Condition**: As a standard action, the monster can touch a creature to remove the dazed, exhausted, frightened, or nauseated condition. It can use this ability on itself as a swift action.
+**Remove Moderate Condition**: As a standard action (1 AP), the monster can touch a creature to remove the dazed, exhausted, frightened, or nauseated condition. It can use this ability on itself as a swift action (1 AP).
 
-**Transfer Hit Points**: As an immediate action, the monster can transfer hit points from either itself to an ally or an ally to itself; choose one when taking this option. The number of hit points it can transfer in this way is equal to its CR + 5. Versatile Most of these abilities grant more spellcasting abilities or reflect the monster’s deep understanding or clever manipulation of magical forces.
+**Transfer Hit Points**: As an immediate action (1 AP of your next turn), the monster can transfer hit points from either itself to an ally or an ally to itself; choose one when taking this option. The number of hit points it can transfer in this way is equal to its CR + 5. Versatile Most of these abilities grant more spellcasting abilities or reflect the monster’s deep understanding or clever manipulation of magical forces.
 
 #### Versatile
 
@@ -536,7 +536,7 @@ These magical benefits protect, heal, or improve the abilities of the monster or
 
 **Contingent Spell**: Choose one spell of the monster’s CR band or lower. This spell comes into effect on the monster under a particular condition you specify (such as “when an enemy attempts to attack the monster” or “when the monster is targeted by an enchantment spell”). This ability can trigger once per day. The spell chosen is in addition to any spells the monster gains from being a spellcaster or having the secondary magic option.
 
-**Dimensional Steps**: As a standard action, the monster teleports to an open space it can see within 150 feet of it.
+**Dimensional Steps**: As a standard action (1 AP), the monster teleports to an open space it can see within 150 feet of it.
 
 **Incorporeal Form**: Once per day, this monster gains the incorporeal option for 1 minute.
 
@@ -564,27 +564,27 @@ These abilities manipulate mental states to either hinder enemies or boost allie
 
 **Aura** of Resistance: Choose two effect descriptors (such as fear or charm). Allies within 10 feet of the monster gain a +4 morale bonus on saving throws against effects with those descriptors.
 
-**Bolstering Presence**: As a standard action, the monster emits an aura that extends from it in a 30-foot radius and lasts for 1 minute. Any allied creature in the aura gains a +2 bonus on ability checks, attack rolls, damage rolls, and skill checks.
+**Bolstering Presence**: As a standard action (1 AP), the monster emits an aura that extends from it in a 30-foot radius and lasts for 1 minute. Any allied creature in the aura gains a +2 bonus on ability checks, attack rolls, damage rolls, and skill checks.
 
-**Demoralize Foes**: As a full-round action, the monster can attempt an Intimidate check to demoralize all enemies within 30 feet of it. When the monster reduces a creature to 0 or fewer hit points, it can use this ability as a free action.
+**Demoralize Foes**: As a full-round action (3 AP), the monster can attempt an Intimidate check to demoralize all enemies within 30 feet of it. When the monster reduces a creature to 0 or fewer hit points, it can use this ability as a free action.
 
-**Dread**: As a standard action, the monster causes each creature it chooses within 30 feet of it to become shaken for 1 minute. This option doesn’t cause a shaken creature to become frightened or frightened creature to become panicked.
+**Dread**: As a standard action (1 AP), the monster causes each creature it chooses within 30 feet of it to become shaken for 1 minute. This option doesn’t cause a shaken creature to become frightened or frightened creature to become panicked.
 
-**Fascinate**: As a standard action, the monster forces any number of creatures within 90 feet of it that can see, hear, and pay attention to it to make a Will save (DC = the monster’s ability DC – 5). On a failure, a target becomes fascinated for 1 minute or until it sees someone make a hostile move such as drawing a sword or casting a spell. If successful, the target is immune to this ability for 24 hours.
+**Fascinate**: As a standard action (1 AP), the monster forces any number of creatures within 90 feet of it that can see, hear, and pay attention to it to make a Will save (DC = the monster’s ability DC – 5). On a failure, a target becomes fascinated for 1 minute or until it sees someone make a hostile move such as drawing a sword or casting a spell. If successful, the target is immune to this ability for 24 hours.
 
 **Heroic Recovery**: Once per day, the monster can grant itself and every ally within 60 feet an additional saving throw against one effect affecting it.
 
-**Inspire Competence**: As a standard action, the monster grants a +5 competence bonus on skill checks using a particular skill to one ally within 30 feet of it that can hear it. The effect ends if the monster is killed, knocked unconscious, paralyzed, or otherwise unable to use a free action to continue the inspiration each round.
+**Inspire Competence**: As a standard action (1 AP), the monster grants a +5 competence bonus on skill checks using a particular skill to one ally within 30 feet of it that can hear it. The effect ends if the monster is killed, knocked unconscious, paralyzed, or otherwise unable to use a free action to continue the inspiration each round.
 
-**Inspire Courage**: As a standard action, the monster grants a +1 competence bonus on attack rolls and weapon damage rolls and a +1 morale bonus on saving throws against charm and fear effects to every ally that can hear it. The bonuses increase to +2 at CR 4, +3 at CR 10, and +4 at CR 16. At CR 6, the monster can start this effect as a free action. The effect ends if the monster is killed, knocked unconscious, paralyzed, or otherwise unable to use a free action to continue the inspiration each round.
+**Inspire Courage**: As a standard action (1 AP), the monster grants a +1 competence bonus on attack rolls and weapon damage rolls and a +1 morale bonus on saving throws against charm and fear effects to every ally that can hear it. The bonuses increase to +2 at CR 4, +3 at CR 10, and +4 at CR 16. At CR 6, the monster can start this effect as a free action. The effect ends if the monster is killed, knocked unconscious, paralyzed, or otherwise unable to use a free action to continue the inspiration each round.
 
-**Inspire Fear**: As a standard action, the monster forces each enemy creature within 30 feet of it that can hear it to attempt a Will saving throw.
+**Inspire Fear**: As a standard action (1 AP), the monster forces each enemy creature within 30 feet of it that can hear it to attempt a Will saving throw.
 
 On a failure, the target becomes [panicked](../../appendices/conditions.md#panicked) and must flee from the monster’s presence for 1 minute or until it can no longer hear the monster.
 
 If successful, the target becomes immune to this effect for 24 hours.
 
-**Inspire Heroics**: As a standard action, the monster and one willing ally within 30 feet of it gain a +4 morale bonus on saving throws and a +4 dodge bonus to AC for 1 minute. The effect ends if the monster is killed, knocked unconscious, paralyzed, or otherwise unable to use a free action to continue the inspiration each round.
+**Inspire Heroics**: As a standard action (1 AP), the monster and one willing ally within 30 feet of it gain a +4 morale bonus on saving throws and a +4 dodge bonus to AC for 1 minute. The effect ends if the monster is killed, knocked unconscious, paralyzed, or otherwise unable to use a free action to continue the inspiration each round.
 
 **Weakening Presence**: The monster emits an aura that extends from it in a 30-foot radius. Any enemy creature in the aura takes a –2 penalty on ability checks, attack rolls, damage rolls, and skill checks. A target can attempt a Will save (DC = the monster’s ability DC – 5) when it starts its turn in the aura. If successful, the target is immune to this aura’s effect for 24 hours.
 
@@ -646,6 +646,6 @@ If the monster is CR 10 or higher, you can also choose from the following.
 
 **Secondary Magic**: Though this monster isn’t primarily a spellcaster, it does have several spells or spell-like abilities. Choose any spell list. The monster can use each of that list’s primary spells of its CR band once per day. This ability can also be used to give a spellcaster extra spell-like abilities to fit its monster type.
 
-**Summon Allies**: This monster can attempt to summon monsters of the same creature type as itself as a full-round action. Choose either a creature of the same CR as the monster (with a 35% chance of success) or a creature with a CR no greater than the monster’s – 5 (with a 60% chance of success). The summoned ally returns to the place from which it came after 1 hour.
+**Summon Allies**: This monster can attempt to summon monsters of the same creature type as itself as a full-round action (3 AP). Choose either a creature of the same CR as the monster (with a 35% chance of success) or a creature with a CR no greater than the monster’s – 5 (with a 60% chance of success). The summoned ally returns to the place from which it came after 1 hour.
 
 **Terrain Stride**: Choose a type of terrain, such as undergrowth, ice, or rubble. The monster can move through nonmagical terrain of that type without impairing its movement or taking damage.

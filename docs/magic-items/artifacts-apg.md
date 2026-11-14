@@ -127,7 +127,7 @@ Though created by the legendary Storm King millennia ago, the cloud castle has h
 
 • Storm of vengeance 1/day. The master must be in the control chamber to use this ability, and the storm rains down from the castle’s cloudy base upon everything within range underneath (2,200 feet).
 
-• Wind wall at will. This effect surrounds the entire castle at a range of 100 feet, and can be raised or lowered by the master (or a creature he or she designates) from the control room or any tower as a standard action.
+• Wind wall at will. This effect surrounds the entire castle at a range of 100 feet, and can be raised or lowered by the master (or a creature he or she designates) from the control room or any tower as a standard action (1 AP).
 
 **Destruction** The Cloud Castle of the Storm King can only be destroyed if it is dissipated by suitably strong winds; the only winds that can dissipate it are found only in the most turbulent reaches of the Plane of Air (of course, as nobody knows how to make it travel between planes, those wishing to destroy it must find it on the Plane of Air to have any chance to do so). Any other attacks may cause walls to collapse or even side towers to break loose, but the central chamber and the floors beneath it will continue to exist in a ruined form over a smaller storm cloud as long as this destruction condition is not met.
 

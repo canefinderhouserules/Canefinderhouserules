@@ -50,7 +50,7 @@ If your character is wearing armor, use the worse figure (from armor or from loa
 
 **Lifting and Dragging**: A character can lift as much as his maximum load over his head. A character’s maximum load is the highest amount of weight listed for a character’s Strength in the heavy load column of Table 7–4.
 
-A character can lift as much as double his maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to AC and can move only 5 feet per round (as a full-round action).
+A character can lift as much as double his maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to AC and can move only 5 feet per round (as a full-round action (3 AP)).
 
 A character can generally push or drag along the ground as much as five times his maximum load. Favorable conditions can double these numbers, and bad circumstances can reduce them by half or more.
 
@@ -79,7 +79,7 @@ There are three movement scales, as follows:
 
 *Walk*: A walk represents unhurried but purposeful movement (3 miles per hour for an unencumbered adult human).
 
-*Hustle*: A hustle is a jog (about 6 miles per hour for an unencumbered human). A character moving his speed twice in a single round, or moving that speed in the same round that he or she performs a standard action or another move action, is hustling when he or she moves.
+*Hustle*: A hustle is a jog (about 6 miles per hour for an unencumbered human). A character moving his speed twice in a single round, or moving that speed in the same round that he or she performs a standard action (1 AP) or another move action (1 AP), is hustling when he or she moves.
 
 *Run* (×3): Moving three times speed is a running pace for a character in heavy armor (about 7 miles per hour for a human in full plate).
 
@@ -93,7 +93,7 @@ Tactical movement is used for combat. Characters generally don’t walk during c
 
 If more than one hampering condition applies, multiply all additional costs that apply. This is a specific exception to the normal rule for doubling.
 
-In some situations, your movement may be so hampered that you don’t have sufficient speed even to move 5 feet (1 square). In such a case, you may use a full-round action to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it’s not, and thus it provokes attacks of opportunity normally. (You can’t take advantage of this rule to move through impassable terrain or to move when all movement is prohibited to you.)
+In some situations, your movement may be so hampered that you don’t have sufficient speed even to move 5 feet (1 square). In such a case, you may use a full-round action (3 AP) to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it’s not, and thus it provokes attacks of opportunity normally. (You can’t take advantage of this rule to move through impassable terrain or to move when all movement is prohibited to you.)
 
 You can’t run or charge through any square that would hamper your movement.
 

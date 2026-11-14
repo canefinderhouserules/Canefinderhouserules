@@ -49,7 +49,7 @@ A veiled illusionist gains no additional weapon or armor proficiencies.
 
 A veiled illusionist draws power from a reserve of magical energy to strengthen her illusions. This veil pool has a number of points equal to her class level + her Wisdom, Intelligence, or Charisma modifier (the character makes this choice at 1st level, after which it cannot be changed). The pool refreshes once per day when the veiled illusionist prepares her spells or regains spell slots.
 
-As a standard action, the veiled illusionist can spend 1 point from her veil pool to alter her appearance as per the spell [*disguise self*](../../magic/spells/disguise-self.md). This is a glamer effect that lasts a number of hours equal to the veiled illusionist’s class level. The DC to disbelieve the effect is equal to 15 + the number of points remaining in the veiled illusionist’s veil pool.
+As a standard action (1 AP), the veiled illusionist can spend 1 point from her veil pool to alter her appearance as per the spell [*disguise self*](../../magic/spells/disguise-self.md). This is a glamer effect that lasts a number of hours equal to the veiled illusionist’s class level. The DC to disbelieve the effect is equal to 15 + the number of points remaining in the veiled illusionist’s veil pool.
 
 At 3rd level, the veiled illusionist can alter her perceived audible (sound) properties when she assumes her disguise. At 5th level, the veiled illusionist can also alter her perceived tactile (touch) properties, and can imitate any voice with which she is familiar. At 9th level, the veiled illusionist’s veil fools even extraordinary senses, such as scent, blindsight, or tremorsense.
 
@@ -59,14 +59,14 @@ A veiled illusionist learns to cloak herself in the forms favored by the goddess
 
 - **Human**: At 1st level, a veiled illusionist may select an illusion spell from the sorcerer/wizard spell list of a level she can cast and add it to her class spell list at the same level. If the spell is already on her spell list, she adds it to her spellbook, familiar, or list of spells known. Each time the illusionist gains a level, she may select an additional illusion spell.
 - **Halfling**: At 2nd level, a veiled illusionist can spend 1 point from her veil pool as a free action while casting an illusion spell to disguise her spellcasting. Creatures attempting to identify the spell as it’s being cast must succeed at a Will save (DC 15 + the number of points remaining in the illusionist’s veil pool) or misidentify the spell as a spell of the illusionist’s choice. The illusory spell must be the same level as the true spell, and must be one the illusionist can cast.
-- **Elf**: At 4th level, a veiled illusionist can spend 1 point from her veil pool as an immediate action to reroll a caster level check made to bypass spell resistance. She must use this ability before the results of the first roll are revealed, and must accept the second roll, even if it’s worse.
-- **Gnome**: At 6th level, a veiled illusionist can spend 1 point from her veil pool to concentrate on a glamer or figment as a swift action, rather than a standard action.
+- **Elf**: At 4th level, a veiled illusionist can spend 1 point from her veil pool as an immediate action (1 AP of your next turn) to reroll a caster level check made to bypass spell resistance. She must use this ability before the results of the first roll are revealed, and must accept the second roll, even if it’s worse.
+- **Gnome**: At 6th level, a veiled illusionist can spend 1 point from her veil pool to concentrate on a glamer or figment as a swift action (1 AP), rather than a standard action.
 - **Cyclops**: At 8th level, a veiled illusionist can spend 1 point from her veil pool as a free action to gain the benefits of the spell [*true seeing*](../../magic/spells/true-seeing.md) until the beginning of her next turn.
 - **Naga**: At 10th level, as a free action while casting an illusion spell, a veiled illusionist can spend 1 point from her veil pool to coil the illusion upon itself. Any creature that disbelieves the illusion sees a second illusion within the translucent outline of the first, as if the illusionist had cast the spell a second time. Effectively, after a creature disbelieves the first illusion, it sees a second illusion in its place, which it must attempt to disbelieve separately. The veiled illusionist must determine the features of the second illusion as she casts the first. If the second illusion is especially similar to the first one, creatures that study or interact with it receive a +4 bonus on the save to disbelieve the effect.
 
 #### Quick Veil
 
-At 5th level, a veiled illusionist can assume or alter her disguise with her veil pool ability as a move action. At 7th level, the action is reduced to a swift action.
+At 5th level, a veiled illusionist can assume or alter her disguise with her veil pool ability as a move action (1 AP). At 7th level, the action is reduced to a swift action (1 AP).
 
 #### True Veil
 

@@ -55,7 +55,7 @@ A crowd blade gains a +2 competence bonus on checks with a skill of her choice f
 
 ##### Dirge of Misfortune (Su)
 
-A crowd blade of 5th level or higher can use her performance to break the concentration of her enemies, causing them to fail even at simple tasks. Once per round as an immediate action, as long as the crowd blade continues performing, she can force a creature within 30 feet to reroll any d20 roll it just made before the effects are applied. The opponent must use the result of the reroll, which has a –2 penalty. Dirge of misfortune is a mind-affecting ability that relies on audible and visual components.
+A crowd blade of 5th level or higher can use her performance to break the concentration of her enemies, causing them to fail even at simple tasks. Once per round as an immediate action (1 AP of your next turn), as long as the crowd blade continues performing, she can force a creature within 30 feet to reroll any d20 roll it just made before the effects are applied. The opponent must use the result of the reroll, which has a –2 penalty. Dirge of misfortune is a mind-affecting ability that relies on audible and visual components.
 
 #### Master of Disguise (Ex)
 
@@ -87,7 +87,7 @@ At 4th level, a crowd blade’s land speed is faster than normal for her race by
 
 #### Perfect Surprise (Ex)
 
-At 4th level, a crowd blade can deliver a devastating blow to anyone she catches unaware. Whenever she hits a foe with a sneak attack at the end of a charge or while using [Spring Attack](../../rules/feats/spring-attack.md), she can make the blow a perfect surprise as an immediate action. The target must succeed at a Fortitude saving throw (DC = 10 + the crowd blade’s class level + her Intelligence modifier) or fall [unconscious](../../rules/appendices/conditions.md#unconscious) for 1 round per crowd blade level. Once targeted by this ability, a victim is immune to perfect surprise for 24 hours.
+At 4th level, a crowd blade can deliver a devastating blow to anyone she catches unaware. Whenever she hits a foe with a sneak attack at the end of a charge or while using [Spring Attack](../../rules/feats/spring-attack.md), she can make the blow a perfect surprise as an immediate action (1 AP of your next turn). The target must succeed at a Fortitude saving throw (DC = 10 + the crowd blade’s class level + her Intelligence modifier) or fall [unconscious](../../rules/appendices/conditions.md#unconscious) for 1 round per crowd blade level. Once targeted by this ability, a victim is immune to perfect surprise for 24 hours.
 
 #### Crowd Strike (Ex)
 
@@ -99,15 +99,15 @@ At 7th level, a crowd blade’s movement through crowds that would normally be d
 
 #### Cloud the Mind (Su)
 
-At 7th level, whenever a crowd blade’s opposed Disguise or Stealth check is exceeded by one or more observers’ [Perception](../../rules/skills/perception.md) checks, she can trick the observers into thinking they imagined noticing anything wrong as an immediate action. She attempts a [Bluff](../../rules/skills/bluff.md) check opposed by the targets’ [Sense Motive](../../rules/skills/sense-motive.md) checks. Each target who fails this opposed check ignores the fact that he saw her. The crowd blade also gains an amount of spell resistance equal to 10 + her class level against divination spells. If a spell is foiled by her spell resistance, she learns the spell’s normal effect and can choose a substitute result for the divination rather than causing it to obviously fail.
+At 7th level, whenever a crowd blade’s opposed Disguise or Stealth check is exceeded by one or more observers’ [Perception](../../rules/skills/perception.md) checks, she can trick the observers into thinking they imagined noticing anything wrong as an immediate action (1 AP of your next turn). She attempts a [Bluff](../../rules/skills/bluff.md) check opposed by the targets’ [Sense Motive](../../rules/skills/sense-motive.md) checks. Each target who fails this opposed check ignores the fact that he saw her. The crowd blade also gains an amount of spell resistance equal to 10 + her class level against divination spells. If a spell is foiled by her spell resistance, she learns the spell’s normal effect and can choose a substitute result for the divination rather than causing it to obviously fail.
 
 #### Narrow Miss (Su)
 
-At 8th level, a crowd blade can dodge erratically as a swift action, gaining 20% concealment until her next turn. She can use this ability once per day for every 2 crowd blade levels she has.
+At 8th level, a crowd blade can dodge erratically as a swift action (1 AP), gaining 20% concealment until her next turn. She can use this ability once per day for every 2 crowd blade levels she has.
 
 #### Grandmaster of Disguise (Ex)
 
-At 9th level, a crowd blade can improvise a disguise using materials on hand that is as effective as one crafted using an actual disguise kit. She gains a +2 circumstance bonus on Disguise checks (this does not stack with the bonus from an actual disguise kit). She can attempt a Disguise check at a –20 penalty to create a disguise as a full-round action.
+At 9th level, a crowd blade can improvise a disguise using materials on hand that is as effective as one crafted using an actual disguise kit. She gains a +2 circumstance bonus on Disguise checks (this does not stack with the bonus from an actual disguise kit). She can attempt a Disguise check at a –20 penalty to create a disguise as a full-round action (3 AP).
 
 #### Silent Soul (Ex)
 

@@ -28,7 +28,7 @@ At 2nd level, if the deadeye hexer misses with an attack with his firearm due to
 
 #### Eldritch Draw (Su)
 
-At 2nd level, the deadeye hexer can spend 1 point of mana to summon an unattended firearm to his hand as an immediate action, so long as the firearm is within 5 feet per class level of the deadeye hexer.
+At 2nd level, the deadeye hexer can spend 1 point of mana to summon an unattended firearm to his hand as an immediate action (1 AP of your next turn), so long as the firearm is within 5 feet per class level of the deadeye hexer.
 
 #### Greater Eldritch Aim (Su)
 
@@ -36,11 +36,11 @@ At 6th level, the deadeye hexer can spend 1 point of mana to allow his next atta
 
 #### Greater Eldritch Draw (Su)
 
-At 6th level, the deadeye hexer can spend 1 point of mana to summon a firearm to his hand as an immediate action, so long as the firearm is within 10 feet per class level of the deadeye hexer. If the firearm is wielded or carried by another creature, then the deadeye hexer must make a successful disarm (if wielded) or steal (if carried) combat maneuver check, using his Intelligence modifier in place of his Strength modifier. If the roll is successful, the item vanishes from its location and appears in the deadeye hexer’s hand. The deadeye hexer must have a free hand to use this deed.
+At 6th level, the deadeye hexer can spend 1 point of mana to summon a firearm to his hand as an immediate action (1 AP of your next turn), so long as the firearm is within 10 feet per class level of the deadeye hexer. If the firearm is wielded or carried by another creature, then the deadeye hexer must make a successful disarm (if wielded) or steal (if carried) combat maneuver check, using his Intelligence modifier in place of his Strength modifier. If the roll is successful, the item vanishes from its location and appears in the deadeye hexer’s hand. The deadeye hexer must have a free hand to use this deed.
 
 #### Gun Whisperer (Su)
 
-At 6th level, as long as the deadeye hexer has 1 point of mana, he may use another deadeye hexer’s firearm familiar as if it were his own if its owner gives permission to do so. This does not allow the deadeye hexer to access spells known by the familiar, but he can use it in combat with no penalties and may use it in conjunction with bullet hexes and deeds as normal. By spending 1 point of mana and a full round action to exert control over it, a deadeye hexer with this deed can force a firearm familiar to work for him, even without the owner’s permission, for 1 minute. The deadeye hexer may renew control by spending an additional point of mana and another full round action to do so.
+At 6th level, as long as the deadeye hexer has 1 point of mana, he may use another deadeye hexer’s firearm familiar as if it were his own if its owner gives permission to do so. This does not allow the deadeye hexer to access spells known by the familiar, but he can use it in combat with no penalties and may use it in conjunction with bullet hexes and deeds as normal. By spending 1 point of mana and a full round action (3 AP) to exert control over it, a deadeye hexer with this deed can force a firearm familiar to work for him, even without the owner’s permission, for 1 minute. The deadeye hexer may renew control by spending an additional point of mana and another full round action (3 AP) to do so.
 
 #### Deadeye Shot (Ex)
 
@@ -48,7 +48,7 @@ At 10th level, the deadeye hexer can spend one point of mana to automatically co
 
 #### Eldritch Reload (Su)
 
-At 10th level, the deadeye hexer can spend one point of mana to reload a firearm as a swift action. One dose of powder and a bullet are conjured into the firearm. These remain in the firearm until it is fired. If they leave the gun by any means other than being fired, they disappear. Alternately, a bullet and powder or alchemical cartridge that the deadeye hexer carries on his person can be magically loaded into the gun. The deadeye hexer does not need a free hand to reload in this fashion and this action does not provoke attacks of opportunity.
+At 10th level, the deadeye hexer can spend one point of mana to reload a firearm as a swift action (1 AP). One dose of powder and a bullet are conjured into the firearm. These remain in the firearm until it is fired. If they leave the gun by any means other than being fired, they disappear. Alternately, a bullet and powder or alchemical cartridge that the deadeye hexer carries on his person can be magically loaded into the gun. The deadeye hexer does not need a free hand to reload in this fashion and this action does not provoke attacks of opportunity.
 
 #### Pellet Blast (Su)
 

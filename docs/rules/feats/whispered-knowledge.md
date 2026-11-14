@@ -6,7 +6,7 @@ You possess secret knowledge that enhances and helps perfect your undead form.
 
 **Benefit**: Choose one of the following secrets:
 
-*Secret of Blood*: After successfully dealing damage to a living creature with a melee attack, you can consume that creature’s blood from your weapon as a swift action, gaining 1d8 temporary hit points, a +2 enhancement bonus to Strength, and a +1 bonus to your caster level. This lasts 10 minutes per Hit Die of your target, and otherwise acts as a [*death knell*](../../magic/spells/death-knell.md) spell.
+*Secret of Blood*: After successfully dealing damage to a living creature with a melee attack, you can consume that creature’s blood from your weapon as a swift action (1 AP), gaining 1d8 temporary hit points, a +2 enhancement bonus to Strength, and a +1 bonus to your caster level. This lasts 10 minutes per Hit Die of your target, and otherwise acts as a [*death knell*](../../magic/spells/death-knell.md) spell.
 
 *Secret of Bone*: Your bones harden and calcify. You gain DR 5/bludgeoning.
 

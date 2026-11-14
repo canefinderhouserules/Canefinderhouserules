@@ -30,7 +30,7 @@
 
 ***Corrupt Intent (Su).*** An animus shade subverts the intent and willpower of its enemies, filling them with doubt and conflicting desires that play into the animus shade’s hands. Anytime a creature strikes the animus shade with a melee or ranged attack, it must succeed at a Will save or take a –1 penalty on all further attacks against the animus shade for 1d4 rounds. Each subsequent failed save against this ability by a creature already under its effect increases the total penalty by 1 and extends the duration of the effect by 1 round.
 
-***Rend Psyche (Su).*** As a standard action, an animus shade can unleash a jet of dark energy at a creature within 30 feet. On a successful ranged touch attack, the target is wracked with mental agony as its own animus attempts to wrench free from its physical form. This violent struggle deals a number of d4s of damage equal to the animus shade’s CR, as well as 1d6 points of Charisma damage. A successful Will save halves the damage and negates the Charisma damage.
+***Rend Psyche (Su).*** As a standard action (1 AP), an animus shade can unleash a jet of dark energy at a creature within 30 feet. On a successful ranged touch attack, the target is wracked with mental agony as its own animus attempts to wrench free from its physical form. This violent struggle deals a number of d4s of damage equal to the animus shade’s CR, as well as 1d6 points of Charisma damage. A successful Will save halves the damage and negates the Charisma damage.
 
 **Ability Scores:** Cha +4. In addition, as an incorporeal creature, an animus shade has no Strength or Constitution score.
 

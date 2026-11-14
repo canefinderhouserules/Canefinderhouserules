@@ -30,7 +30,7 @@ Your touch racks the living with pain.
 
 **Prerequisites**: Manifestation level 4th, death’s caress*.
 
-**Gift**: Once per day per manifestation level, you can make an agonizing touch as a standard action. A living creature hit by this touch attack must succeed at a Fortitude save or be staggered for a number of rounds equal to 1/2 your manifestation level.
+**Gift**: Once per day per manifestation level, you can make an agonizing touch as a standard action (1 AP). A living creature hit by this touch attack must succeed at a Fortitude save or be staggered for a number of rounds equal to 1/2 your manifestation level.
 
 **Stain**: Both of your hands wither to nearly skeletal appendages, and your emotions dim towards the coldness of undeath. You take a –2 penalty on attacks with manufactured weapons. Your spells with somatic or emotion components have a 5% failure chance. This stacks with any spell failure chances you incur from other sources.
 
@@ -64,7 +64,7 @@ You are inured to negative energy.
 
 Your touch drains the warmth of life from others.
 
-**Gift**: You can make a touch attack as a standard action that deals cold damage equal to 1d4 + your manifestation level.
+**Gift**: You can make a touch attack as a standard action (1 AP) that deals cold damage equal to 1d4 + your manifestation level.
 
 **Stain**: The flesh from one of your hands rots away, leaving it a blackened, skeletal claw. Spells that detect undead sense you, though the peculiar result they return informs the caster that you’re still a living creature. Other spells and effects don’t treat you as undead.
 
@@ -84,7 +84,7 @@ You can wrench your soul from your body to possess another.
 
 **Prerequisites**: Manifestation level 7th, bleak aura*, deathless*.
 
-**Gift**: You can touch a living creature as a standard action and force your soul into its body. If hit by this touch attack, the target must succeed at a Will save (DC = 15 + your manifestation level) or be affected by *possession*. You can possess creatures for a number of minutes per day equal to your manifestation level. These minutes don’t need to be used consecutively, but must be spent in 1-minute increments. A failed attempt costs 1 minute of use and renders your target immune to your malevolence for 24 hours. Your body is helpless while you possess another creature, and if it is destroyed you die when the duration of malevolence ends. You can use malevolence while in another creature’s body to transfer your soul again (following the same rules for casting *possession* while in a body that’s not your own).
+**Gift**: You can touch a living creature as a standard action (1 AP) and force your soul into its body. If hit by this touch attack, the target must succeed at a Will save (DC = 15 + your manifestation level) or be affected by *possession*. You can possess creatures for a number of minutes per day equal to your manifestation level. These minutes don’t need to be used consecutively, but must be spent in 1-minute increments. A failed attempt costs 1 minute of use and renders your target immune to your malevolence for 24 hours. Your body is helpless while you possess another creature, and if it is destroyed you die when the duration of malevolence ends. You can use malevolence while in another creature’s body to transfer your soul again (following the same rules for casting *possession* while in a body that’s not your own).
 
 **Stain**: Your spirit is untethered from your body. You roll twice and take the lowest result on saves against spells that imprison or target your soul, such as *magic jar* and *trap the soul*, as well as against positive energy effects. If you drop below 0 hit points, your soul leaves your body and you instantly die.
 

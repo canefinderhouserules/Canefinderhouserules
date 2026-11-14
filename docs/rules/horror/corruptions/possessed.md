@@ -36,7 +36,7 @@ The possessing spirit confounds targeted magic.
 
 **Gift**: Spells that affect a limited number of targets can fail when targeting you unless the caster selects you as two separate targets. Against such spells that target you only once, you have an amount of spell resistance equal to 11 + double your manifestation level. A spellcaster who finishes casting a spell that targets you only once and succeeds at a caster level check against your spell resistance notices the interference and can attempt a DC 25 Spellcraft check to realize she needs to target you twice to circumvent it with future spells.
 
-**Stain**: You cringe from symbols of benevolent magic. Any ally attempting to cast a touch spell on you must succeed at a touch attack. You can spend a move action steadying yourself to allow allies to touch you without a touch attack for 1 round. If the spirit has 3 or more points of influence over you, you must attempt saving throws against harmless spells cast by allies (but not yourself), and you no longer count as willing.
+**Stain**: You cringe from symbols of benevolent magic. Any ally attempting to cast a touch spell on you must succeed at a touch attack. You can spend a move action (1 AP) steadying yourself to allow allies to touch you without a touch attack for 1 round. If the spirit has 3 or more points of influence over you, you must attempt saving throws against harmless spells cast by allies (but not yourself), and you no longer count as willing.
 
 ### Contaminated Personality
 
@@ -84,9 +84,9 @@ The spirit suffers no rivals.
 
 The spirit resists physical restraint.
 
-**Gift**: You gain a +2 bonus on Acrobatics, Climb, Fly, and Swim checks. You can give the spirit 1 point of influence as a swift action to gain the benefits of *freedom of movement* for 1 round. At manifestation level 3rd, the bonuses increase to +4.
+**Gift**: You gain a +2 bonus on Acrobatics, Climb, Fly, and Swim checks. You can give the spirit 1 point of influence as a swift action (1 AP) to gain the benefits of *freedom of movement* for 1 round. At manifestation level 3rd, the bonuses increase to +4.
 
-**Stain**: Objects you wear and carry slip from your grasp and fall from your pockets, or suddenly pelt creatures that have acted in an unhelpful manner toward you. It takes you a standard action to retrieve a stored item, and whenever you drop or lose hold of an item, it lands 10 feet away in a random direction. You take a –2 penalty on saving throws and to your CMD against attacks and effects that would disarm you or steal from you. At manifestation level 3rd, the penalty changes to –4.
+**Stain**: Objects you wear and carry slip from your grasp and fall from your pockets, or suddenly pelt creatures that have acted in an unhelpful manner toward you. It takes you a standard action (1 AP) to retrieve a stored item, and whenever you drop or lose hold of an item, it lands 10 feet away in a random direction. You take a –2 penalty on saving throws and to your CMD against attacks and effects that would disarm you or steal from you. At manifestation level 3rd, the penalty changes to –4.
 
 ### Violent Will
 

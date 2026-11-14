@@ -16,7 +16,7 @@ This garment is intended for a horse or similar quadruped, but it can change siz
 
 *Aura* faint conjuration; *CL* 5th; *Slot* shoulders; *Price* 6,000 gp; *Weight* 1 lb.
 
-This white silk cloak shimmers with divine energy. Once per day as an immediate action, the wearer of a *cloak of heavenly fire* can cause it to flash with flames as another creature touches the wearer or strikes the wearer with a melee attack. These flames deal 1d8+5 points of fire damage to the creature that touched the wearer. If the creature subjected to this damage is evil, it takes an additional 1d8+5 points of damage as the fire glows with golden light—this additional damage is divine in nature and not subject to energy resistance or immunity. A target that succeeds at a DC 15 Reflex save takes half the total damage. Once per day as a standard action, the wearer can also use the magic to cure wounds, restoring 2d8+5 hit points to a touched creature.
+This white silk cloak shimmers with divine energy. Once per day as an immediate action (1 AP of your next turn), the wearer of a *cloak of heavenly fire* can cause it to flash with flames as another creature touches the wearer or strikes the wearer with a melee attack. These flames deal 1d8+5 points of fire damage to the creature that touched the wearer. If the creature subjected to this damage is evil, it takes an additional 1d8+5 points of damage as the fire glows with golden light—this additional damage is divine in nature and not subject to energy resistance or immunity. A target that succeeds at a DC 15 Reflex save takes half the total damage. Once per day as a standard action (1 AP), the wearer can also use the magic to cure wounds, restoring 2d8+5 hit points to a touched creature.
 
 *Construction* *Requirements* Craft Wondrous Item, *cure moderate wounds*, *fire shield*; *Cost* 3,000 gp
 
@@ -66,9 +66,9 @@ The dust can also be scattered over a magical glyph, rune, or symbol to increase
 
 *Aura* strong evocation; *CL* 12th; *Slot* wrists; *Price* 15,000 gp; *Weight* 2 lbs.
 
-These bracers find particular use by agents who often tangle with rival treasure hunters. As a standard action, a creature wearing these bracers can attempt a steal combat maneuver check to nab any orbiting ioun stone within 30 feet, though the ioun stone’s owner receives a +4 circumstance bonus to her CMD. If the bracers’ wearer succeeds, the stolen ioun stone embeds itself in one of the bracers’ four available slots (each bracer has two). Embedded ioun stones provide their bonuses to the wearer and can be removed with a move action.
+These bracers find particular use by agents who often tangle with rival treasure hunters. As a standard action (1 AP), a creature wearing these bracers can attempt a steal combat maneuver check to nab any orbiting ioun stone within 30 feet, though the ioun stone’s owner receives a +4 circumstance bonus to her CMD. If the bracers’ wearer succeeds, the stolen ioun stone embeds itself in one of the bracers’ four available slots (each bracer has two). Embedded ioun stones provide their bonuses to the wearer and can be removed with a move action (1 AP).
 
-As a standard action, the wearer can temporarily drain the power of any ioun stone that is embedded in the bracers and isn’t dull gray, and can then channel that power to cast *magic missile* as a spell-like ability, firing three missiles at a target or targets up to 160 feet away. Drained ioun stones become dull gray for the next 2d4 hours.
+As a standard action (1 AP), the wearer can temporarily drain the power of any ioun stone that is embedded in the bracers and isn’t dull gray, and can then channel that power to cast *magic missile* as a spell-like ability, firing three missiles at a target or targets up to 160 feet away. Drained ioun stones become dull gray for the next 2d4 hours.
 
 *Construction* *Requirements* Craft Wondrous Item, *magic missile*, *telekinesis*; *Cost* 7,500 gp
 
@@ -86,7 +86,7 @@ While holding one or more minion’s ironbound rings, the wearer of a master’s
 
 *Aura* faint transmutation; *CL* 5th; *Slot* none; *Price* 2,000 gp; *Weight* —
 
-This tiny, unremarkable silver key can open nearly any set of shackles. When the key is inserted as a standard action into the keyhole of locked leg irons, manacles, or shackles, the lock unlocks provided that its Disable Device DC is 30 or lower. Shackles whose lock has a Disable Device DC of 15 or lower are instantly and silently broken into fragments. A *liberator’s key* can be used 10 times, after which it crumbles to dust.
+This tiny, unremarkable silver key can open nearly any set of shackles. When the key is inserted as a standard action (1 AP) into the keyhole of locked leg irons, manacles, or shackles, the lock unlocks provided that its Disable Device DC is 30 or lower. Shackles whose lock has a Disable Device DC of 15 or lower are instantly and silently broken into fragments. A *liberator’s key* can be used 10 times, after which it crumbles to dust.
 
 *Construction* *Requirements* Craft Wondrous Item, *knock*, *shatter*; *Cost* 1,000 gp
 
@@ -94,7 +94,7 @@ This tiny, unremarkable silver key can open nearly any set of shackles. When the
 
 *Aura* faint transmutation; *CL* 5th; *Slot* feet; *Price* 5,500 gp; *Weight* 2 lbs.
 
-These worn, shapeless leather slippers magically shrink or enlarge to fit any foot placed within, and are as comfortable as a well-broken-in pair of boots. When worn by a halfling, the slippers fade from view almost entirely, manifesting as strips of soft leather wound around the ankles so as to allow the halfling to enjoy the comforts of being barefoot while still wearing them. A pair of *subtle slippers* conceal their wearer’s passage, leaving no footprints or scent trail, as per the spell *pass without trace*, regardless of terrain. They also grant the wearer a +5 competence bonus on Stealth checks. Once per day as a standard action, a character wearing *subtle slippers* can select up to four other creatures within 30 feet to gain a +5 competence bonus on Stealth checks. This bonus lasts for 1 hour, but is suppressed for any creature who moves more than 30 feet away from the character wearing the slippers. If that creature returns to a position within 30 feet of the wearer of the slippers before the effect’s duration expires, the bonus reactivates for that character. The effect ends at once for all affected if the wearer of the slippers removes the footwear, is knocked unconscious, or is killed.
+These worn, shapeless leather slippers magically shrink or enlarge to fit any foot placed within, and are as comfortable as a well-broken-in pair of boots. When worn by a halfling, the slippers fade from view almost entirely, manifesting as strips of soft leather wound around the ankles so as to allow the halfling to enjoy the comforts of being barefoot while still wearing them. A pair of *subtle slippers* conceal their wearer’s passage, leaving no footprints or scent trail, as per the spell *pass without trace*, regardless of terrain. They also grant the wearer a +5 competence bonus on Stealth checks. Once per day as a standard action (1 AP), a character wearing *subtle slippers* can select up to four other creatures within 30 feet to gain a +5 competence bonus on Stealth checks. This bonus lasts for 1 hour, but is suppressed for any creature who moves more than 30 feet away from the character wearing the slippers. If that creature returns to a position within 30 feet of the wearer of the slippers before the effect’s duration expires, the bonus reactivates for that character. The effect ends at once for all affected if the wearer of the slippers removes the footwear, is knocked unconscious, or is killed.
 
 *Construction* *Requirements* Craft Wondrous Item, *pass without trace*; *Cost* 2,750 gp
 
@@ -120,7 +120,7 @@ This striped conch shell appears to be nothing more than a piece of flotsam idly
 
 *Aura* moderate enchantment; *CL* 6th; *Slot* armor; *Price* 18,175 gp; *Weight* 20 lbs.
 
-This set of fine +2 parade armor matches the dress uniform of a knightly order. If the wearer is ever grappled or restrained, she can attempt an Escape Artist check to get free as an immediate action. The wearer gains a +2 competence bonus on this check. Once per day as a standard action, the wearer can call forth shimmering plates of golden light to reinforce the armor. This effect increases the armor’s enhancement bonus to AC from +2 to +5 for the next 10 minutes.
+This set of fine +2 parade armor matches the dress uniform of a knightly order. If the wearer is ever grappled or restrained, she can attempt an Escape Artist check to get free as an immediate action (1 AP of your next turn). The wearer gains a +2 competence bonus on this check. Once per day as a standard action (1 AP), the wearer can call forth shimmering plates of golden light to reinforce the armor. This effect increases the armor’s enhancement bonus to AC from +2 to +5 for the next 10 minutes.
 
 Craft Magic Arms and Armor, *liberating command*, *mage armor*; Cost 9,175 gp
 
@@ -164,7 +164,7 @@ Craft Wondrous Item, *fly*, *resistance*; Cost 11,000 gp
 
 *Aura* moderate enchantment; *CL* 9th; *Slot* head; *Price* 12,000 gp; *Weight* 3 lbs.
 
-This scar soldier–style helm has an ornate crown-like pattern sculpted into its brow. A helm of the fanged crown allows its wearer to use *heroism* on herself once per day as a standard action. However, the spell’s bonuses act as penalties instead on attack rolls and skill checks against devils, devilbound creatures, and creatures with the infernal sorcerer bloodline, and on saving throws against effects generated by such creatures. Once activated, the effects last for 3 hours or until the helm is removed.
+This scar soldier–style helm has an ornate crown-like pattern sculpted into its brow. A helm of the fanged crown allows its wearer to use *heroism* on herself once per day as a standard action (1 AP). However, the spell’s bonuses act as penalties instead on attack rolls and skill checks against devils, devilbound creatures, and creatures with the infernal sorcerer bloodline, and on saving throws against effects generated by such creatures. Once activated, the effects last for 3 hours or until the helm is removed.
 
 Craft Wondrous Item, Extend Spell, *heroism*; Cost 6,000 gp
 
@@ -172,7 +172,7 @@ Craft Wondrous Item, Extend Spell, *heroism*; Cost 6,000 gp
 
 *Aura* moderate abjuration; *CL* 6th; *Slot* shield; *Price* 9,170 gp; *Weight* 15 lbs.
 
-These +2 heavy steel shields were often issued to unit leaders. Once per day as a swift action, the wielder of a maiden’s aegis can reduce the enhancement bonus of the shield to +1 to grant a +1 enhancement bonus to up to four other shields within a 30-foot radius. This effect persists for 10 minutes, but it ends for any individual shield that moves more than 30 feet from the maiden’s aegis that granted the bonus.
+These +2 heavy steel shields were often issued to unit leaders. Once per day as a swift action (1 AP), the wielder of a maiden’s aegis can reduce the enhancement bonus of the shield to +1 to grant a +1 enhancement bonus to up to four other shields within a 30-foot radius. This effect persists for 10 minutes, but it ends for any individual shield that moves more than 30 feet from the maiden’s aegis that granted the bonus.
 
 Craft Magic Arms and Armor, *magic vestment*; Cost 4,670 gp
 
@@ -204,7 +204,7 @@ Craft Wondrous Item, *resistance*, *status*; Cost 250 gp (pair)
 
 *Aura* moderate abjuration; *CL* 10th; *Slot* none; *Price* 28,015 gp; *Weight* 2 lbs.
 
-This elegant mithral sword bears a blooming rose on the crossguard, with vines winding around the hilt. A knight’s blade is a +1 benevolent mithral longsword. Along with its benevolence special ability, this sword can also provide aid by metaphorically cutting through certain debilitating effects. Three times per day, the wielder can attempt a new saving throw against one of the following conditions affecting her: dazed, frightened, nauseated, panicked, paralyzed, shaken, staggered, or stunned—but only if the condition was caused by a mind-affecting effect. Alternatively, the wielder can expend one daily use and touch the blade to an adjacent creature as a standard action to remove one of these mind-affecting conditions from the ally.
+This elegant mithral sword bears a blooming rose on the crossguard, with vines winding around the hilt. A knight’s blade is a +1 benevolent mithral longsword. Along with its benevolence special ability, this sword can also provide aid by metaphorically cutting through certain debilitating effects. Three times per day, the wielder can attempt a new saving throw against one of the following conditions affecting her: dazed, frightened, nauseated, panicked, paralyzed, shaken, staggered, or stunned—but only if the condition was caused by a mind-affecting effect. Alternatively, the wielder can expend one daily use and touch the blade to an adjacent creature as a standard action (1 AP) to remove one of these mind-affecting conditions from the ally.
 
 Craft Magic Arms and Armor, *aid*, *break enchantment*; Cost 15,015 gp
 
@@ -214,7 +214,7 @@ Craft Magic Arms and Armor, *aid*, *break enchantment*; Cost 15,015 gp
 
 *Aura* faint conjuration and transmutation; *CL* 5th; *Slot* none; *Price* 10,305 gp; *Weight* 2 lbs.
 
-This +1 light mace is forged of black iron and topped with what appears to be a clenched fist with spikes protruding from between the fingers. As a move action, the wielder can expend 1 point from his arcane pool (as per a magus), 1 point from his arcane reservoir (as per an arcanist), or one use of fervor (as per a warpriest) to make a single melee attack with the fist. Characters without any of these options can instead activate it in this way as a standard action once per day. If the attack deals damage to a creature, the fist gains the bane weapon special ability against that creature’s type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn’t apply if the target is immune to bleed, though the attack still deals damage normally.
+This +1 light mace is forged of black iron and topped with what appears to be a clenched fist with spikes protruding from between the fingers. As a move action (1 AP), the wielder can expend 1 point from his arcane pool (as per a magus), 1 point from his arcane reservoir (as per an arcanist), or one use of fervor (as per a warpriest) to make a single melee attack with the fist. Characters without any of these options can instead activate it in this way as a standard action (1 AP) once per day. If the attack deals damage to a creature, the fist gains the bane weapon special ability against that creature’s type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn’t apply if the target is immune to bleed, though the attack still deals damage normally.
 
 Craft Magic Arms and Armor, *haste*, *summon monster I*; Cost 5,305 gp
 
@@ -232,7 +232,7 @@ Craft Wondrous Item, any style feat, *false life*; Cost 2,700 gp
 
 *Aura* moderate transmutation; *CL* 8th; *Slot* headband; *Price* 24,000 gp; *Weight* 1 lb.
 
-The wearer of efreeti horns gains a +4 enhancement bonus to Wisdom. In addition, the wearer can spend 1 ki point as a full-round action to gain the effects of *enlarge person* (self only) or *reduce person* (self only) for 1 minute. These effects apply to the wearer regardless of her actual creature type.
+The wearer of efreeti horns gains a +4 enhancement bonus to Wisdom. In addition, the wearer can spend 1 ki point as a full-round action (3 AP) to gain the effects of *enlarge person* (self only) or *reduce person* (self only) for 1 minute. These effects apply to the wearer regardless of her actual creature type.
 
 Craft Wondrous Item, *enlarge person*, *owl’s wisdom*, *reduce person*; Cost 12,000 gp
 
@@ -256,7 +256,7 @@ Craft Wondrous Item, *bear’s endurance*, *stone shape*; Cost 12,500 gp
 
 *Aura* faint transmutation; *CL* 3rd; *Slot* head; *Price* 4,000 gp; *Weight* 1 lb.
 
-This turban consists of 30 feet of cloth held in place by a brooch. The owner can command the turban to tie or untie itself as a move action. When the turban is tied on the wearer’s head, the wearer gains the benefits of *endure elements*. Once per day when the turban is untied, the owner can use the fabric to perform a *rope trick*. In addition, the owner can spend 1 ki point as a swift action to cast *animate rope*.
+This turban consists of 30 feet of cloth held in place by a brooch. The owner can command the turban to tie or untie itself as a move action (1 AP). When the turban is tied on the wearer’s head, the wearer gains the benefits of *endure elements*. Once per day when the turban is untied, the owner can use the fabric to perform a *rope trick*. In addition, the owner can spend 1 ki point as a swift action (1 AP) to cast *animate rope*.
 
 Craft Wondrous Item, *animate rope*, *endure elements*, *rope trick*; Cost 2,000 gp
 
@@ -340,7 +340,7 @@ Craft Wondrous Item, *battlemind link*; Cost 2,500 gp
 
 *Aura* moderate conjuration; *CL* 9th; *Slot* hands; *Price* 4,500 gp; *Weight* 1 lb.
 
-These gloves have a sapphire decorating each finger, bearing 10 in all. While wearing a pair of first aid gloves, as a standard action the wearer can cast any of the following spells (caster level 9th), permanently expending a number of sapphires equal to the spell’s level (as denoted in parentheses after each spell): *breath of life* (5), *cure critical wounds* (4), *cure light wounds* (1), *cure moderate wounds* (2), *cure serious wounds* (3), and *mass cure light wounds* (5). When casting a spell from the gloves, the wearer can’t expend sapphires on different hands; thus only a full hand’s worth of gems can be used to cast *breath of life* or *mass cure light wounds*. Regardless, both gloves must be worn to function. Once all of the sapphires are expended, a pair of first aid gloves becomes nonmagical.
+These gloves have a sapphire decorating each finger, bearing 10 in all. While wearing a pair of first aid gloves, as a standard action (1 AP) the wearer can cast any of the following spells (caster level 9th), permanently expending a number of sapphires equal to the spell’s level (as denoted in parentheses after each spell): *breath of life* (5), *cure critical wounds* (4), *cure light wounds* (1), *cure moderate wounds* (2), *cure serious wounds* (3), and *mass cure light wounds* (5). When casting a spell from the gloves, the wearer can’t expend sapphires on different hands; thus only a full hand’s worth of gems can be used to cast *breath of life* or *mass cure light wounds*. Regardless, both gloves must be worn to function. Once all of the sapphires are expended, a pair of first aid gloves becomes nonmagical.
 
 Craft Wondrous Item, *breath of life*, *cure critical wounds*, *cure light wounds*, *cure moderate wounds*, *cure serious wounds*, *mass cure light wounds*; Cost 2,250 gp
 
@@ -372,7 +372,7 @@ Craft Wondrous Item, *detect evil*, *light*, *protection from evil*; Cost 1,000 
 
 *Aura* faint illusion; *CL* 5th; *Slot* none; *Price* 8,000 gp; *Weight* 1 lb.
 
-Vanishing compasses are crafted of ivory chased with gold and silver. In addition to the usual functions of a magic compass (including the ability to create light), the bearer can press a hidden catch as a standard action to become invisible (as the spell *invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation uses 1 minute of duration, even if the user becomes visible by making an attack or by some other means before that minute is up.
+Vanishing compasses are crafted of ivory chased with gold and silver. In addition to the usual functions of a magic compass (including the ability to create light), the bearer can press a hidden catch as a standard action (1 AP) to become invisible (as the spell *invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation uses 1 minute of duration, even if the user becomes visible by making an attack or by some other means before that minute is up.
 
 Craft Wondrous Item, *invisibility*, *light*; Cost 4,000 gp
 
@@ -382,11 +382,11 @@ Craft Wondrous Item, *invisibility*, *light*; Cost 4,000 gp
 
 This compass is made of heat-treated bronze that seems to warp and shimmer in the light. It contains a single slot to store an ioun stone, and its construction allows the bearer to overtax the ioun stone’s magical properties once per day to create a special, short-term resonance effect based on the stone’s shape. This process suppresses any other resonance effects the ioun stone might grant for 24 hours. The ioun stone is especially fragile during this time, crumbling to pieces if removed from the compass before the 24-hour period has ended.
 
-- **Ellipsoid**: As an immediate action, the bearer can roll 1d6 after failing a saving throw against a spell or spell-like ability and add the result to the saving throw retroactively; if the bonus is high enough to turn the failure into a success, the save is successful. The bearer instead rolls 1d8+1 if the slotted ioun stone costs between 10,000 and 30,000 gp, or 1d10+2 if the ioun stone costs more than 30,000 gp.
+- **Ellipsoid**: As an immediate action (1 AP of your next turn), the bearer can roll 1d6 after failing a saving throw against a spell or spell-like ability and add the result to the saving throw retroactively; if the bonus is high enough to turn the failure into a success, the save is successful. The bearer instead rolls 1d8+1 if the slotted ioun stone costs between 10,000 and 30,000 gp, or 1d10+2 if the ioun stone costs more than 30,000 gp.
 - **Prism**: As a free action before attempting any d20 roll, the bearer can roll two dice and choose which result to use.
-- **Rhomboid**: As a swift action, the bearer gains a number of temporary hit points equal to the slotted ioun stone’s market price divided by 1,000 (maximum 25 temporary hit points). These temporary hit points last 1 hour.
-- **Sphere**: As an immediate action, the bearer can roll 2d4 after failing a skill check and add the result to the check retroactively; if the bonus is high enough to turn the failure into a success, the check is successful. The bearer instead rolls 3d4 if the slotted ioun stone costs between 10,000 gp and 30,000 gp, or 4d4 if the ioun stone costs more than 30,000 gp.
-- **Spindle**: As a full-round action, the bearer can restore 1d4 points of ability damage to one of her ability scores. If the slotted ioun stone costs more than 15,000 gp, she instead restores 1d6 points of ability damage.
+- **Rhomboid**: As a swift action (1 AP), the bearer gains a number of temporary hit points equal to the slotted ioun stone’s market price divided by 1,000 (maximum 25 temporary hit points). These temporary hit points last 1 hour.
+- **Sphere**: As an immediate action (1 AP of your next turn), the bearer can roll 2d4 after failing a skill check and add the result to the check retroactively; if the bonus is high enough to turn the failure into a success, the check is successful. The bearer instead rolls 3d4 if the slotted ioun stone costs between 10,000 gp and 30,000 gp, or 4d4 if the ioun stone costs more than 30,000 gp.
+- **Spindle**: As a full-round action (3 AP), the bearer can restore 1d4 points of ability damage to one of her ability scores. If the slotted ioun stone costs more than 15,000 gp, she instead restores 1d6 points of ability damage.
 
 Craft Wondrous Item, *gallant inspiration*, *light*; Cost 2,500 gp
 
@@ -394,29 +394,29 @@ Craft Wondrous Item, *gallant inspiration*, *light*; Cost 2,500 gp
 
 The magic compass is a compact device commonly used as a badge of office for far-flung explorers. Within each compass lies a fine wire lattice of precious metals that serves as a conduit for the compass’s magical energies. Many explorers direct these energies in strictly utilitarian ways, such as to create light or invoke other minor effects. Those who own an ioun stone can harness an even greater power: ioun resonance. When contained within a compass’s wire lattice, an ioun stone’s energies can create an eldritch resonance that imparts the ioun stone’s conventional benefits as well as a secondary effect to the compass’s wearer. Creating these arcane harmonics requires placing the ioun stone in a tiny focal slot in the compass’s center, where the resonance overrides the compass’s other magical abilities (the ability to cast *light* for most compasses). Attempting to slot two or more ioun stones almost always creates magical dissonance and cancels out all of the ioun stones’ benefits, though several expensive variations (such as the magic compass of hidden strength) have met with limited success in harnessing two ioun stones at once. Likewise, wearing multiple compasses with slotted stones causes irreconcilable interference.
 
-Most forms of resonance provide a constant benefit, though a few known ioun stones instead allow the wearer to direct the resonance much like a use-activated magic item. In the latter case, activating the resonance overrides the compass’s other functions for the duration of the effect—even preventing the wearer from slotting in a different ioun stone. Inserting or removing an ioun stone is a standard action that provokes an attack of opportunity.
+Most forms of resonance provide a constant benefit, though a few known ioun stones instead allow the wearer to direct the resonance much like a use-activated magic item. In the latter case, activating the resonance overrides the compass’s other functions for the duration of the effect—even preventing the wearer from slotting in a different ioun stone. Inserting or removing an ioun stone is a standard action (1 AP) that provokes an attack of opportunity.
 
 #### Ioun Stone Resonant Powers
 
 If the power is a feat, the bearer gains that feat as a bonus feat even if he does not meet its prerequisites. Spell effects with uses per day are spell-like abilities. Other obscure or rarer types of ioun stones may have their own strange resonances with compasses at the GM’s discretion.
 
-- **Clear Spindle**: The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+- **Clear Spindle**: The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action (1 AP of your next turn), but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
 - **Dark Blue Rhomboid**: The wearer no longer takes penalties on Perception checks for being distracted or asleep; while asleep, the wearer can remain open-eyed and fully aware of his environment, though he is still helpless against undetected threats until he actually wakes up.
 - **Deep Red Sphere**: Improved Unarmed Strike.
 - **Dull Gray (Burnt Out)**: *Read magic* 1/day for 10 minutes.
 - **Dusty Rose Prism**: +1 insight bonus on combat maneuver checks.
 - **Incandescent Blue Sphere**: Blind-Fight.
 - **Iridescent Spindle**: The wearer gains the constant effects of *endure elements* and takes only half damage from exposure to vacuum and underwater pressure.
-- **Lavender and Green Ellipsoid**: If the bearer is holding the compass, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+- **Lavender and Green Ellipsoid**: If the bearer is holding the compass, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 - **Orange Prism**: Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
 - **Pale Blue Rhomboid**: +1 bonus on Fortitude saves.
 - **Pale Green Prism**: Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
-- **Pale Lavender Ellipsoid**: If the bearer is holding the compass, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+- **Pale Lavender Ellipsoid**: If the bearer is holding the compass, he can use the stone’s absorption ability as an immediate action (1 AP of your next turn) instead of a readied action.
 - **Pearly White Spindle**: +2 sacred bonus on saves against death effects and attacks that rely on negative energy.
 - **Pink and Green Sphere**: +1 bonus on Will saves.
 - **Pink Rhomboid**: +1 bonus on Reflex saves.
 - **Scarlet and Blue Sphere**: +1 bonus on Will saves.
-- **Vibrant Purple Prism**: As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+- **Vibrant Purple Prism**: As a standard action (1 AP), the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
 
 ## Scarlet Assassins
 
@@ -436,7 +436,7 @@ Craft Wondrous Item, *prying eyes*; Cost 1,000 gp
 
 **Spell-Like Abilities** (CL 20th, concentration +22): 3/day—*alter self*, *darkness*, *spider climb*, *true strike*; 1/day—*clairaudience/clairvoyance*, *deeper darkness*, *dimension door*, *greater invisibility*
 
-The mantis blade is an intelligent +2 *axiomatic* sawtooth sabre made of red chitin that forms a curved, serrated blade. It grants its wielder the ability to make a sneak attack that deals 1d6 points of damage. This ability functions as the rogue class feature of the same name, and the extra damage stacks with any sneak attack bonuses the wielder already has. When a creature is wounded with the blade, the wielder can activate the blade’s *bane* weapon special ability as a swift action (granting the weapon an additional +2 enhancement bonus and causing it to do an extra 2d6 points of damage, but only against the type of creature struck). The bane ability lasts for 10 minutes and is usable once per day.
+The mantis blade is an intelligent +2 *axiomatic* sawtooth sabre made of red chitin that forms a curved, serrated blade. It grants its wielder the ability to make a sneak attack that deals 1d6 points of damage. This ability functions as the rogue class feature of the same name, and the extra damage stacks with any sneak attack bonuses the wielder already has. When a creature is wounded with the blade, the wielder can activate the blade’s *bane* weapon special ability as a swift action (1 AP) (granting the weapon an additional +2 enhancement bonus and causing it to do an extra 2d6 points of damage, but only against the type of creature struck). The bane ability lasts for 10 minutes and is usable once per day.
 
 Sacred to the faith of an assassin god, a mantis blade also grants bonuses to a scarlet assassin who wields it. A scarlet assassin wielding a mantis blade gains a +2 bonus to the DC of her prayer attack and gains an additional use per day of both her red shroud and fading abilities.
 
@@ -482,7 +482,7 @@ Craft Magic Arms and Armor, *dimensional anchor*, *invisibility purge*; Cost 15,
 
 *Aura* moderate illusion; *CL* 10th; *Slot* none; *Price* 3,500 gp; *Weight* —
 
-These magical baubles were originally created to aid nobles in slipping away to engage in trysts with fellow partygoers, but freedom fighters have seized upon them as an excellent way to baffle foes in public areas without resorting to combat. A discretion charm usually comes in the form of a cuff link, an earring, or another small piece of jewelry. Pressing the face of the charm (a standard action) activates it, after which it remains active for up to 5 minutes. Once it has been activated, the wearer can drop the charm as a free action to render herself invisible, as per *vanish*. Simultaneously, the dropped charm generates an illusory duplicate of the user in the square, as per *programmed image*. This image repeats whatever activities the user performed between the time the charm was activated and the time it was dropped. Unlike *programmed image*, the illusory duplicate of the user can react to external stimuli to a limited degree. It can turn to face those who speak to it and respond by nodding and smiling, but otherwise cannot say anything that it did not record before being dropped. If the charm was dropped less than 1 minute after being activated, anyone interacting with the illusion gains a +5 bonus on the Will save to disbelieve the *programmed image* effect.
+These magical baubles were originally created to aid nobles in slipping away to engage in trysts with fellow partygoers, but freedom fighters have seized upon them as an excellent way to baffle foes in public areas without resorting to combat. A discretion charm usually comes in the form of a cuff link, an earring, or another small piece of jewelry. Pressing the face of the charm (a standard action (1 AP)) activates it, after which it remains active for up to 5 minutes. Once it has been activated, the wearer can drop the charm as a free action to render herself invisible, as per *vanish*. Simultaneously, the dropped charm generates an illusory duplicate of the user in the square, as per *programmed image*. This image repeats whatever activities the user performed between the time the charm was activated and the time it was dropped. Unlike *programmed image*, the illusory duplicate of the user can react to external stimuli to a limited degree. It can turn to face those who speak to it and respond by nodding and smiling, but otherwise cannot say anything that it did not record before being dropped. If the charm was dropped less than 1 minute after being activated, anyone interacting with the illusion gains a +5 bonus on the Will save to disbelieve the *programmed image* effect.
 
 This illusory duplicate lasts for 10 minutes, whereas the *vanish* effect on the user lasts only 5 rounds. Once the illusion effect ends, the discretion charm loses its powers and becomes a worthless, nonmagical piece of costume jewelry.
 
@@ -506,7 +506,7 @@ Carved from a single piece of reddish coral, this small amulet is shaped into a 
 
 When worn, the amulet provides energy resistance 5 against cold and electricity. If the wearer worships a deity of storms or the sea, the energy resistances both increase to 10. The wearer automatically identifies spells with the air, electricity, or water descriptor that are cast in her presence, as if she had succeeded at a Spellcraft check to do so.
 
-Once per day as an immediate action, the wearer of an amulet of the storm can attempt to counterspell any spell containing the air, electricity, or water descriptor as if the wearer were casting *dispel magic*. If this counterspell attempt is successful, it redirects the magical energy back at the caster in the form of bolts of lightning, dealing 1d6 points of electricity damage per level of the spell that was countered to the spell’s original caster. A successful DC 18 Reflex save halves this damage.
+Once per day as an immediate action (1 AP of your next turn), the wearer of an amulet of the storm can attempt to counterspell any spell containing the air, electricity, or water descriptor as if the wearer were casting *dispel magic*. If this counterspell attempt is successful, it redirects the magical energy back at the caster in the form of bolts of lightning, dealing 1d6 points of electricity damage per level of the spell that was countered to the spell’s original caster. A successful DC 18 Reflex save halves this damage.
 
 Craft Wondrous Item, *dispel magic*, *protection from energy*, creator must be a worshiper of a deity of storms or the sea; Cost 18,000 gp
 
@@ -540,8 +540,8 @@ Among the varied items crafted by the earliest storm workers were these potent r
 
 A storm rod acts as a +4 *shocking burst spell storing* club, but its spell storing capabilities can store only druid spells. While carried in one hand, the rod grants its wielder immunity to cold and electricity. The rod’s other powers are as follows.
 
-- **Invoke Lightning**: Up to three times per day as a swift action, the wielder can call down a stroke of lightning from the skies. This functions as *flame strike*, save that the damage dealt is half electricity and half from divine power.
-- **Summon Lightning Elemental**: Once per day as a standard action, the wielder can summon an elder lightning elemental, 1d3 greater lightning elementals, or 1d4+1 huge lightning elementals. This functions as per *summon monster VIII*, except that it requires a standard action instead of a full round.
+- **Invoke Lightning**: Up to three times per day as a swift action (1 AP), the wielder can call down a stroke of lightning from the skies. This functions as *flame strike*, save that the damage dealt is half electricity and half from divine power.
+- **Summon Lightning Elemental**: Once per day as a standard action (1 AP), the wielder can summon an elder lightning elemental, 1d3 greater lightning elementals, or 1d4+1 huge lightning elementals. This functions as per *summon monster VIII*, except that it requires a standard action (1 AP) instead of a full round.
 - **Unleash Storm**: Once per day, the wielder can call upon a devastating storm. This functions as *storm of vengeance*, save that on the second round, the storm creates freezing rain that deals cold damage rather than acid damage.
 
 **Destruction**: A storm rod can be destroyed as easily as a typical +4 *shocking burst spell storing* club after it has been carried for at least 24 hours by someone not part of or affiliated with the storm workers.

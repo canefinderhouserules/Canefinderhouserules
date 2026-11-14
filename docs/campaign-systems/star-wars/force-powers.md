@@ -15,7 +15,7 @@ level: Force Sensitive 0
 
 Stamina Cost: 3
 
-Casting Time: Immediate Action
+Casting Time: Immediate Action (1 AP of your next turn)
 
 Component: S
 
@@ -35,7 +35,7 @@ level: Force Sensitive 0
 
 Stamina Cost: 3
 
-Casting Time: 1 Move Action
+Casting Time: 1 Move Action (1 AP)
 
 Component: S
 
@@ -129,7 +129,7 @@ level: Force Sensitive 0
 
 Stamina Cost: 3
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -147,7 +147,7 @@ level: Force Sensitive 0
 
 Stamina Cost: 2
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -165,7 +165,7 @@ Level: Force Sensitive 0
 
 Stamina Cost: 3
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -187,7 +187,7 @@ Level: Force Sensitive 0
 
 Stamina Cost: 0
 
-Casting Time: 1 standard action
+Casting Time: 1 standard action (1 AP)
 
 Components: S
 
@@ -201,7 +201,7 @@ Saving: Throw none; Spell Resistance: no
 
 Description
 
-You point your hand at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell's range.
+You point your hand at an object and can lift it and move it at will from a distance. As a move action (1 AP), you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell's range.
 
 ## Learnable Force Powers
 
@@ -215,7 +215,7 @@ Level: Force Sensitive 1
 
 Stamina Cost: 7
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -239,7 +239,7 @@ Level: Force Sensitive 1
 
 Stamina Cost: 10
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -259,7 +259,7 @@ Level: Force Sensitive 1
 
 Stamina Cost: 6
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -289,7 +289,7 @@ Range: 30ft Line
 
 Duration: Instantaneous
 
-Description: You make a ranged attack that hits everything in the line and deals your lightsaber's damage + your Strength or casting ability modifier to each. You can use your casting ability instead of Dexterity for the ranged attack. If you fail to beat the AC of someone wielding a lightsaber, the line ends at that creature. It can be used in a full-round action as one of your attacks, if you have more than one.
+Description: You make a ranged attack that hits everything in the line and deals your lightsaber's damage + your Strength or casting ability modifier to each. You can use your casting ability instead of Dexterity for the ranged attack. If you fail to beat the AC of someone wielding a lightsaber, the line ends at that creature. It can be used in a full-round action (3 AP) as one of your attacks, if you have more than one.
 
 **Force Throw**
 
@@ -297,7 +297,7 @@ School: Force Alter
 
 Level: Force Sensitive 1  
 Stamina Cost: 5  
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -314,7 +314,7 @@ level: Force Sensitive 1
 
 Stamina Cost: 3
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Component: S
 
@@ -334,7 +334,7 @@ level: Force Sensitive 1
 
 Stamina Cost: 5
 
-Casting Time: Immediate Action
+Casting Time: Immediate Action (1 AP of your next turn)
 
 Component: S
 
@@ -354,7 +354,7 @@ Level: Force Sensitive 1
 
 Stamina Cost: 6
 
-Casting Time: Standard Action
+Casting Time: Standard Action (1 AP)
 
 Component: S
 
@@ -376,7 +376,7 @@ Level: Force Sensitive 1
 
 Stamina Cost: 10
 
-Casting Time: 1 standard action
+Casting Time: 1 standard action (1 AP)
 
 Components: S
 
@@ -412,7 +412,7 @@ level: Force Sensitive 1
 
 Stamina Cost: 5
 
-Casting Time: 1 Standard Action
+Casting Time: 1 Standard Action (1 AP)
 
 Components: S
 
@@ -432,7 +432,7 @@ Level: Force Sensitive 2
 
 Stamina Cost: 16
 
-Casting Time: Standard Action
+Casting Time: Standard Action (1 AP)
 
 Component: S
 

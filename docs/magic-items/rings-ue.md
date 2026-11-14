@@ -16,14 +16,14 @@ This ring is a thick loop of mirrorlike metal. Whenever the wearer of this ring 
 **Aura** strong abjuration and evocation; **CL** 11th  
 **Slot** ring; **Price** 20,000 gp; **Weight** —
 
-This ring is a thin but sturdy piece of forged steel crafted to resemble a serpent swallowing its tail, and is magically imbued to reveal the secrets of arcane mastery to its wearer. The ring allows a wearer with an arcane pool to store up to 4 points from his arcane pool in the ring as a swift action. These points remain in the ring until used. A wearer can spend arcane pool points stored in the ring as if they were his own, or can spend them in each of the following ways.
+This ring is a thin but sturdy piece of forged steel crafted to resemble a serpent swallowing its tail, and is magically imbued to reveal the secrets of arcane mastery to its wearer. The ring allows a wearer with an arcane pool to store up to 4 points from his arcane pool in the ring as a swift action (1 AP). These points remain in the ring until used. A wearer can spend arcane pool points stored in the ring as if they were his own, or can spend them in each of the following ways.
 
 - As a free action, the wearer can expend 1 arcane pool point stored in the ring to gain a +2 bonus on Concentration checks for 1 round.
-- As a standard action, the wearer can expend 1 arcane pool point stored in the ring to use the pool strike magus arcana (Ultimate
+- As a standard action (1 AP), the wearer can expend 1 arcane pool point stored in the ring to use the pool strike magus arcana (Ultimate
 
 *Magic* 12) using his own magus level to determine the effect.
 
-- As an immediate action, the wearer can expend up to 4 arcane pool points stored in the ring to use the reflection magus arcana.
+- As an immediate action (1 AP of your next turn), the wearer can expend up to 4 arcane pool points stored in the ring to use the reflection magus arcana.
 
 **Requirements** Forge Ring, *imbue with spell ability*, *spell turning*; **Cost** 10,000 gp
 
@@ -59,7 +59,7 @@ A summoner wearing a *ring of ectoplasmic invigoration* can use his maker’s ca
 **Aura** strong abjuration; **CL** 13th  
 **Slot** ring; **Price** 19,500 gp; **Weight** —
 
-A *ring of energy shroud* always appears to be glass or crystal in construction, tinted in a red, green, blue, or yellow hue. Closer inspection reveals a small band of metal within the glass or crystal. Treasured by frontline fighters and anyone with a trusted evoker ally, *rings of energy shroud* normally function as a *minor ring of energy resistance*. However, once per day as an immediate action, the ring’s wearer can negate the damage of an incoming acid, cold, electricity, or fire energy effect for himself (but not for other creatures affected by the spell or effect), transforming that damage into a shroud of energy that wreathes the wearer’s body acting as if under the effects of the *elemental aura* spell. The elemental aura effect has the same energy type of the damage negated.
+A *ring of energy shroud* always appears to be glass or crystal in construction, tinted in a red, green, blue, or yellow hue. Closer inspection reveals a small band of metal within the glass or crystal. Treasured by frontline fighters and anyone with a trusted evoker ally, *rings of energy shroud* normally function as a *minor ring of energy resistance*. However, once per day as an immediate action (1 AP of your next turn), the ring’s wearer can negate the damage of an incoming acid, cold, electricity, or fire energy effect for himself (but not for other creatures affected by the spell or effect), transforming that damage into a shroud of energy that wreathes the wearer’s body acting as if under the effects of the *elemental aura* spell. The elemental aura effect has the same energy type of the damage negated.
 
 **Requirements** Forge Ring, *elemental aura, resist energy*; **Cost** 9,750 gp
 
@@ -81,7 +81,7 @@ This ring is made out of fused firearm bullets, making it a chunky but overall i
 
 Once per day, without the need to take an action to do so, the wearer can spend 1 grit point stored in the ring to grant herself a +2 insight bonus to initiative.
 
-Once per day, as a standard action, the wearer of the ring can spend 2 grit points stored within the ring to activate a *bullet shield* as the spell.
+Once per day, as a standard action (1 AP), the wearer of the ring can spend 2 grit points stored within the ring to activate a *bullet shield* as the spell.
 
 Any grit points stored in the ring disappear at the start of each day.
 
@@ -107,7 +107,7 @@ Wearing a *ring of inner fortitude* ring does not make the wearer immune to cond
 **Aura** faint transmutation; **CL** 5th  
 **Slot** ring; **Price** 10,000 gp; **Weight** —
 
-This ring is half onyx and half clear-white crystal, magically fused together and hardened to the strength of steel. It allows a wearer with a *ki* pool to store up to 2 *ki* points in the ring as a swift action. These points remain in the ring until used. The wearer can use the *ki* points normally, or can gain the following benefits when he has *ki* points stored in the ring.
+This ring is half onyx and half clear-white crystal, magically fused together and hardened to the strength of steel. It allows a wearer with a *ki* pool to store up to 2 *ki* points in the ring as a swift action (1 AP). These points remain in the ring until used. The wearer can use the *ki* points normally, or can gain the following benefits when he has *ki* points stored in the ring.
 
 As long as there is at least one *ki* point stored in the ring, the wearer gains a +2 bonus to CMD against grapple, reposition, and trip attempts.
 
@@ -120,7 +120,7 @@ As long as there are at least 2 *ki* points stored in the ring, the wearer reduc
 **Aura** moderate conjuration; **CL** 7th  
 **Slot** ring; **Price** 33,600 gp; **Weight** —
 
-This gold ring is set with three stones: blue, green, and red. Three times per day, the wearer of the ring can, as a move action, use it to form a link with the particular 5-foot square she occupies at that moment. This causes one of the stones on the ring to glow. As a swift action, the wearer of the ring can teleport to any unoccupied linked square within 100 feet.
+This gold ring is set with three stones: blue, green, and red. Three times per day, the wearer of the ring can, as a move action (1 AP), use it to form a link with the particular 5-foot square she occupies at that moment. This causes one of the stones on the ring to glow. As a swift action (1 AP), the wearer of the ring can teleport to any unoccupied linked square within 100 feet.
 
 **Requirements** Forge Ring, *dimension door*; **Cost** 16,800 gp
 
@@ -153,7 +153,7 @@ Arcane spells that do not appear on the wearer’s class list are treated as one
 **Aura** moderate necromancy; **CL** 7th  
 **Slot** ring; **Price** 8,000 gp; **Weight** —
 
-This ring is made of black steel and is eerily cold to the touch. Once per day as a swift action, when the wearer hits a living creature with an unarmed attack, the target must succeed at a DC 20 Fortitude saving throw or take 1d4 point of Strength damage in addition to the attack’s normal damage. If the target of the attack takes any Strength damage from this attack, the ring’s wearer gains a +2 enhancement bonus to her Strength for 1 minute.
+This ring is made of black steel and is eerily cold to the touch. Once per day as a swift action (1 AP), when the wearer hits a living creature with an unarmed attack, the target must succeed at a DC 20 Fortitude saving throw or take 1d4 point of Strength damage in addition to the attack’s normal damage. If the target of the attack takes any Strength damage from this attack, the ring’s wearer gains a +2 enhancement bonus to her Strength for 1 minute.
 
 **Requirements** Forge Ring, *bull’s strength*, *ray of enfeeblement*; **Cost** 4,000 gp
 
@@ -191,7 +191,7 @@ The wearer of this ring can make a melee touch attack against an undead creature
 **Aura** moderate conjuration; **CL** 7th  
 **Slot** ring; **Price** 14,000 gp; **Weight** —
 
-This ring is made of a single piece of deep blue crystal. The ring grants its wearer a swim speed of 30 feet, as well as +8 racial bonus on swim checks for having a swim speed. Furthermore, once per day as a swift action, as long as the wearer is in contact with liquid, he can use *dimension door* as the spell, but its starting and ending points must be connected by a contagious mass of liquid.
+This ring is made of a single piece of deep blue crystal. The ring grants its wearer a swim speed of 30 feet, as well as +8 racial bonus on swim checks for having a swim speed. Furthermore, once per day as a swift action (1 AP), as long as the wearer is in contact with liquid, he can use *dimension door* as the spell, but its starting and ending points must be connected by a contagious mass of liquid.
 
 **Requirements** Forge Ring, *dimension door*, *touch of the sea*; **Cost** 7,000 gp
 
@@ -247,6 +247,6 @@ These four garish and gaudy rings must be worn on one hand, though they take up 
 
 When this ring is worn, the wielder’s skin attains a barely perceptible sheen. In practical terms, the wearer ignores the first 5 points of an object’s hardness when performing a sunder combat maneuver or when smashing an object. She also does not take the standard –4 penalty for making a combat maneuver check to disarm while unarmed.
 
-Additionally, the ring’s wearer can focus all of the ring’s power, possibly repelling a devastating blow. Once per day, when a critical hit or sneak attack is scored on the wearer, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. Using this ability is an immediate action, and the wearer must decide to use it before the critical hit or sneak attack damage is rolled.
+Additionally, the ring’s wearer can focus all of the ring’s power, possibly repelling a devastating blow. Once per day, when a critical hit or sneak attack is scored on the wearer, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. Using this ability is an immediate action (1 AP of your next turn), and the wearer must decide to use it before the critical hit or sneak attack damage is rolled.
 
 **Requirements** Forge Ring, *stone fist*, *stoneskin*; **Cost** 6,000 gp

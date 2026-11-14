@@ -71,7 +71,7 @@ As a free action, a cyphermage can automatically discern the contents of a magic
 
 ##### Bypass Symbol (Su)
 
-When a cyphermage makes a save against a magical glyph, symbol, sigil, or similar written trap, as an immediate action he may attempt a [Spellcraft](../../rules/skills/spellcraft.md) check against the same DC to delay the trap's effects for 1d6 rounds. Once the delay is over, the trap has its normal effect. The cyphermage must be at least 8th level to select this lore.
+When a cyphermage makes a save against a magical glyph, symbol, sigil, or similar written trap, as an immediate action (1 AP of your next turn) he may attempt a [Spellcraft](../../rules/skills/spellcraft.md) check against the same DC to delay the trap's effects for 1d6 rounds. Once the delay is over, the trap has its normal effect. The cyphermage must be at least 8th level to select this lore.
 
 ##### Defensive Scrollcaster (Ex)
 
@@ -79,31 +79,31 @@ A cyphermage gains a +4 bonus on concentration checks to cast defensively when c
 
 ##### Enhance Scroll (Su)
 
-As a swift action, a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
+As a swift action (1 AP), a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
-    **Enhance Scroll (Su)**: As a swift action, a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
+    **Enhance Scroll (Su)**: As a swift action (1 AP), a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
 ##### Extended Scroll (Su)
 
-As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by [Extend Spell](../../rules/feats/extend-spell.md). He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
+As a swift action (1 AP), a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by [Extend Spell](../../rules/feats/extend-spell.md). He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
-    **Extended Scroll (Su)**: As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by Extend Spell. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
+    **Extended Scroll (Su)**: As a swift action (1 AP), a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by Extend Spell. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
 ##### Focused Scroll (Su)
 
-As a swift action, a cyphermage can add a bonus equal to twice his Intelligence modifier on any caster level checks made with a scroll spell, including checks to overcome spell resistance. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
+As a swift action (1 AP), a cyphermage can add a bonus equal to twice his Intelligence modifier on any caster level checks made with a scroll spell, including checks to overcome spell resistance. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
-    **Focused Scroll (Su)**: As a swift action, a cyphermage can add a bonus equal to twice his Intelligence modifier on any caster level checks made with a scroll spell, including checks to overcome spell resistance. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
+    **Focused Scroll (Su)**: As a swift action (1 AP), a cyphermage can add a bonus equal to twice his Intelligence modifier on any caster level checks made with a scroll spell, including checks to overcome spell resistance. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
 ##### Giant's Master (Ex)
 
-The cyphermage has unraveled several ancient methods of commanding and controlling giants. As a swift action, whenever he uses a mind-affecting spell or effect on a humanoid with the giant subtype, he increases his spell DC by +2. The cyphermage must be at least 6th level to select this lore.
+The cyphermage has unraveled several ancient methods of commanding and controlling giants. As a swift action (1 AP), whenever he uses a mind-affecting spell or effect on a humanoid with the giant subtype, he increases his spell DC by +2. The cyphermage must be at least 6th level to select this lore.
 
 ##### Glyph Finder (Ex)
 
@@ -111,15 +111,15 @@ A cyphermage can locate *glyphs of warding*, symbols, and similar magical spell 
 
 ##### Insightful Scroll (Su)
 
-As a swift action, a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
+As a swift action (1 AP), a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
-    **Insightful Scroll (Su)**: As a swift action, a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
+    **Insightful Scroll (Su)**: As a swift action (1 AP), a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
 ##### Rune Trap (Ex)
 
-Whenever the cyphermage casts a spell that creates a trap that uses magical writing (such as [*explosive runes*](../../magic/spells/explosive-runes.md), [*illusory script*](../../magic/spells/illusory-script.md), [*sepia snake sigil*](../../magic/spells/sepia-snake-sigil.md), or a *symbol*), as a swift action he may include ancient runes in the writing. This adds +4 to the Perception DCs to notice it, Disable Device DCs to disarm it, and caster level DCs to dispel it. The cyphermage must be at least 6th level to select this lore.
+Whenever the cyphermage casts a spell that creates a trap that uses magical writing (such as [*explosive runes*](../../magic/spells/explosive-runes.md), [*illusory script*](../../magic/spells/illusory-script.md), [*sepia snake sigil*](../../magic/spells/sepia-snake-sigil.md), or a *symbol*), as a swift action (1 AP) he may include ancient runes in the writing. This adds +4 to the Perception DCs to notice it, Disable Device DCs to disarm it, and caster level DCs to dispel it. The cyphermage must be at least 6th level to select this lore.
 
 ##### Swift Scrivener (Ex)
 
@@ -143,4 +143,4 @@ At 2nd level, a cyphermage must choose a class they belonged to before adding th
 
 #### Cypherlord (Su)
 
-At 10th level, a cyphermage gains a +5 insight bonus on saving throws against the effects of magical symbols, glyphs, sigils, and similar writing-based spells and traps. He selects one of his cypher lore abilities that requires a swift action to activate; thereafter, he may activate that ability as a free action.
+At 10th level, a cyphermage gains a +5 insight bonus on saving throws against the effects of magical symbols, glyphs, sigils, and similar writing-based spells and traps. He selects one of his cypher lore abilities that requires a swift action (1 AP) to activate; thereafter, he may activate that ability as a free action.

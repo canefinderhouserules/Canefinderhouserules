@@ -4,7 +4,7 @@
 
 **Granted Powers**: Your touch infuses life and weapons with chaos, and you revel in all things anarchic.
 
-*Touch of Chaos (Sp)*: You can imbue a target with chaos as a melee touch attack. For the next 3 round, anytime the target rolls a d20, he must roll twice and take the less favorable result. You can use this ability as a ranged touch attack, but it lasts 1 less round. You can use this ability as a move action, but it lasts 2 less rounds. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Touch of Chaos (Sp)*: You can imbue a target with chaos as a melee touch attack. For the next 3 round, anytime the target rolls a d20, he must roll twice and take the less favorable result. You can use this ability as a ranged touch attack, but it lasts 1 less round. You can use this ability as a move action (1 AP), but it lasts 2 less rounds. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 *Chaos Blade (Su)*: At 4th level, you can give a weapon touched the anarchic special weapon quality for a number of rounds equal to your cleric level. You can use this ability once per day at 4th level, and an additional time per day for every four levels beyond 4th.
 
@@ -18,7 +18,7 @@
 
 **Replacement Power**: The following granted power replaces the touch of chaos power of the Chaos domain or the touch of good power of the Good domain. Azatas are a race of chaotic good outsiders.
 
-*Elysium’s Call (Su)*: As an immediate action with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the [Nimble Moves](../../rules/feats/nimble-moves.md) feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.
+*Elysium’s Call (Su)*: As an immediate action (1 AP of your next turn) with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the [Nimble Moves](../../rules/feats/nimble-moves.md) feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 1st—[*expeditious retreat*](../spells/expeditious-retreat.md), 3rd—*fly*, 6th—[*planar ally*](../spells/planar-ally.md) (azata only).
 
@@ -42,7 +42,7 @@
 
 **Replacement Power**: The following granted power replaces the touch of chaos power of the Chaos domain or the touch of evil power of the Evil domain. Demons are a race of chaotic evil outsiders.
 
-*Fury of the Abyss (Su)*: As a swift action, you can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus stack with magic weapons up to +5. This bonus lasts for 1 round. During this round, you take a –2 penalty to AC. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
+*Fury of the Abyss (Su)*: As a swift action (1 AP), you can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus stack with magic weapons up to +5. This bonus lasts for 1 round. During this round, you take a –2 penalty to AC. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 1st—[*doom*](../spells/doom.md), 3rd—[*rage*](../spells/rage.md), 6th—[*planar binding*](../spells/planar-binding.md) (demons only).
 
@@ -54,7 +54,7 @@
 
 **Replacement Power**: The following granted power replaces the chaos blade power of the Chaos domain.
 
-*Hasten the End (Su)*: At 8th level, as an immediate action upon successfully hitting an opponent with a melee attack, you reduce the remaining duration of all beneficial magical effects currently affecting the target by 1 round, minute, hour, or day/level—whichever measurement is used to determine the duration of each particular magical effect. You can use this ability once per day at 8th level, and an additional time per day for every 4 levels beyond 8th.
+*Hasten the End (Su)*: At 8th level, as an immediate action (1 AP of your next turn) upon successfully hitting an opponent with a melee attack, you reduce the remaining duration of all beneficial magical effects currently affecting the target by 1 round, minute, hour, or day/level—whichever measurement is used to determine the duration of each particular magical effect. You can use this ability once per day at 8th level, and an additional time per day for every 4 levels beyond 8th.
 
 **Replacement Domain Spells**: 1st—[*entropic shield*](../spells/entropic-shield.md), 3rd— [*dispel magic*](../spells/dispel-magic.md), 5th—[*confusion*](../spells/confusion.md), 7th—[*destruction*](../spells/destruction.md).
 
@@ -102,7 +102,7 @@
 
 **Replacement Power**: The following granted power replaces the chaos blade of the Chaos domain.
 
-*Unexpected Whimsy (Su)*: As a standard action, you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling [prone](../../rules/appendices/conditions.md#prone). Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered [helpless](../../rules/appendices/conditions.md#helpless). You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
+*Unexpected Whimsy (Su)*: As a standard action (2 AP), you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling [prone](../../rules/appendices/conditions.md#prone). Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered [helpless](../../rules/appendices/conditions.md#helpless). You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
 
 **Replacement Domain Spells**: 1st—[*hideous laughter*](../spells/hideous-laughter.md), 4th—*confusion*, 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
 
@@ -118,7 +118,7 @@ A cleric (or any other character capable of selecting a domain) who worships the
 
 The god of freedom stands opposed to any force that denies free will. Servants of the god of freedom make unique exorcists, as their methods radically differ from those of other churches, despite often using similar spells and items. Spirited consumption of alcohol usually precedes any formal activity, and while it may seem to onlookers that Caydenites are feckless drunks, the devoted use this time to elicit truthful statements about the possessed from those with whom they drink. In this way, the servants of the god of freedom ensure they have all the proper information before moving against a supernatural threat, which they undoubtedly do with a (mostly) sober head.
 
-**Drunken Autonomy (Su)**: As a swift action, whenever under the effects of mind-affecting magic, possession, or similar external control, you can channel the unrestricted nature of your god. Instead of acting under the compulsion, you instead act as though you had the [confused](../../rules/appendices/conditions.md#confused) condition for 1 round. Producing the “act normally” result allows you to act free of mental compulsion for that round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Drunken Autonomy (Su)**: As a swift action (1 AP), whenever under the effects of mind-affecting magic, possession, or similar external control, you can channel the unrestricted nature of your god. Instead of acting under the compulsion, you instead act as though you had the [confused](../../rules/appendices/conditions.md#confused) condition for 1 round. Producing the “act normally” result allows you to act free of mental compulsion for that round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 This replaces the touch of chaos domain power of the Chaos domain.
 

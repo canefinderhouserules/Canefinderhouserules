@@ -51,7 +51,7 @@ Technology from the future (or even the present-day real world) in a fantasy set
 
 ### Power Sources
 
-Most technological wonders require energy to function. These items each have a *capacity* score, which indicates the maximum number of charges the item can store at any one time. The number of charges an item consumes when it is used varies from item to item. An item’s capacity can be filled from any power source—like a battery or a generator—as a standard action. When an item is charged, it always takes as many charges from the attached power source as it can hold, filling as close to its capacity as possible. Note that charging an item from a generator is more efficient, as any charges drained from a battery in excess of the number of charges an item can store are lost.
+Most technological wonders require energy to function. These items each have a *capacity* score, which indicates the maximum number of charges the item can store at any one time. The number of charges an item consumes when it is used varies from item to item. An item’s capacity can be filled from any power source—like a battery or a generator—as a standard action (1 AP). When an item is charged, it always takes as many charges from the attached power source as it can hold, filling as close to its capacity as possible. Note that charging an item from a generator is more efficient, as any charges drained from a battery in excess of the number of charges an item can store are lost.
 
 ### Color Code
 

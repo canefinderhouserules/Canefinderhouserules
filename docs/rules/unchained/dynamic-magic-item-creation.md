@@ -732,7 +732,7 @@ Reroll duplicates and perks that don’t fit the item. Feel free to invent your 
 
 **Durable**: The item has twice as many hit points as it normally would.
 
-**Eager**: The item always wants to be worn or held by its owner. The owner can draw an eager weapon or handheld item as a swift action, don eager armor in half the time, and don any other eager item as a swift action, though it takes twice as long as normal to remove eager armor and 1 full round to remove or stow any other eager item. The DC to disarm or steal an eager item increases by 5.
+**Eager**: The item always wants to be worn or held by its owner. The owner can draw an eager weapon or handheld item as a swift action (1 AP), don eager armor in half the time, and don any other eager item as a swift action (1 AP), though it takes twice as long as normal to remove eager armor and 1 full round to remove or stow any other eager item. The DC to disarm or steal an eager item increases by 5.
 
 **Egoistic**: All of the bearer’s feats and class features that affect a specific weapon or weapon group change to affect the egoistic weapon’s type or group as long as she possesses the weapon. If the bearer can specify more than one type or group, she can choose which weapon or group she retains and which switch to the egoistic weapon’s type or group.
 
@@ -754,7 +754,7 @@ Either choose an appropriate type or roll one randomly on the ranger’s favored
 
 **Impervious**: The item’s hardness is 5 higher than usual.
 
-**Inscribed**: The item’s bearer can spend a full-round action to inscribe a hidden message up to 25 words long on the item’s surface. This message remains invisible until either the next time a creature holds the item or a specific passphrase is spoken. Inscribing a new message erases the previous one.
+**Inscribed**: The item’s bearer can spend a full-round action (3 AP) to inscribe a hidden message up to 25 words long on the item’s surface. This message remains invisible until either the next time a creature holds the item or a specific passphrase is spoken. Inscribing a new message erases the previous one.
 
 **Lightweight**: The item weighs half as much as normal.
 
@@ -778,7 +778,7 @@ Either choose an appropriate type or roll one randomly on the ranger’s favored
 
 **Solar**: While exposed to sunlight, this item causes an enemy adjacent to the bearer to become dazzled for as long as the two remain adjacent.
 
-**Spying**: The item transmits sensory information to its owner, as if it were the sensor for a clairaudience/ clairvoyance spell. The owner must concentrate on receiving this information instead of her own visual or auditory information as a standard action to gain this benefit, and the effect becomes inert while she isn’t concentrating. Determine randomly upon the item’s creation whether the item relays visual or auditory information.
+**Spying**: The item transmits sensory information to its owner, as if it were the sensor for a clairaudience/ clairvoyance spell. The owner must concentrate on receiving this information instead of her own visual or auditory information as a standard action (1 AP) to gain this benefit, and the effect becomes inert while she isn’t concentrating. Determine randomly upon the item’s creation whether the item relays visual or auditory information.
 
 **Tentacled Touch**: As the aberrant quirk, but the tentacles can extend, allowing the item to deliver any touch effects with an additional 5 feet of reach. This does not increase the weapon reach of a magic weapon.
 

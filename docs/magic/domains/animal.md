@@ -32,7 +32,7 @@ The following granted power replaces the speak with animals power of the Animal 
 
 **Replacement Power**: The following granted power replaces the speak with animals power of the Animal domain.
 
-*Predator’s Grace (Su)*: You can, as a swift action, grant yourself a +10-foot bonus to your base speed for a number of rounds equal to your Cleric Level. This bonus increases by 5 feet for every 5 cleric levels you possess. In addition, you gain low-light vision. If you already possess low-light vision, the range of your sight becomes three times that of a human in dim light. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Predator’s Grace (Su)*: You can, as a swift action (1 AP), grant yourself a +10-foot bonus to your base speed for a number of rounds equal to your Cleric Level. This bonus increases by 5 feet for every 5 cleric levels you possess. In addition, you gain low-light vision. If you already possess low-light vision, the range of your sight becomes three times that of a human in dim light. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 1st—[*magic fang*](../spells/magic-fang.md), 3rd—*beast shape I* (animals only).
 
@@ -48,6 +48,6 @@ The following granted power replaces the speak with animals power of the Animal 
 
 The following granted power replaces the speak with animals power of the Animal domain.
 
-*Exoskeleton (Su)*: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton lasts for a number of rounds equal to your Cleric Level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Exoskeleton (Su)*: As a swift action (1 AP), you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton lasts for a number of rounds equal to your Cleric Level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Replacement Domain Spells**: 4th—[*giant vermin*](../spells/giant-vermin.md), 5th—*vermin shape II*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles).

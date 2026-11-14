@@ -33,7 +33,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Bloody-Minded**: You are always ready for bloodshed. You gain a +1 trait bonus on initiative and Intimidate checks.
 
-**Broken, Not Beaten**: You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain [staggered](../../rules/appendices/conditions.md#staggered) and only able to take a single move or standard action.
+**Broken, Not Beaten**: You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain [staggered](../../rules/appendices/conditions.md#staggered) and only able to take a single move or standard action (1 AP).
 
 **Careful Combatant**: You have a strong sense of self-preservation, believing it is more important to safely extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk death. When using the withdraw action, both the first and second squares of your movement are not considered threatened by any opponents you can see, rather than just the first square.
 
@@ -107,7 +107,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Never Stop Shooting**: Even when the chips are down, you keep on shooting. If your hit point total drops to 0 or lower but you are not dead, you may act as if disabled rather than dying (as if you possessed the Diehard feat). However, you can use your actions only to draw a firearm, reload a firearm, or attack with a firearm. If you have the Diehard feat, this trait also allows you to substitute your Wisdom score for your Constitution score for the purpose of determining the negative hit point total at which you die.
 
-**Order Devotion**: Your family has strong ties to a knightly order of law, and you harness this belief as a weapon. Once per day as a swift action, you can empower the next single melee attack you make to be treated as lawful-aligned for the purpose of overcoming damage reduction.
+**Order Devotion**: Your family has strong ties to a knightly order of law, and you harness this belief as a weapon. Once per day as a swift action (1 AP), you can empower the next single melee attack you make to be treated as lawful-aligned for the purpose of overcoming damage reduction.
 
 **Performer’s Surprise**: You are practiced at the surprising combat tricks of wandering performers. Against foes denied their Dexterity bonus to AC, you gain a +1 trait bonus on damage rolls with improvised weapons, exotic weapons, and thrown weapons.
 
@@ -169,7 +169,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Holdout**: You were robbed at a young age by bullies, an experience that impressed upon you the importance of being able to hold on to whatever you cared to keep. You gain a +1 trait bonus to CMD against disarm and steal combat maneuvers.
 
-**Inspiring**: As a child, you learned the power of a simple expression of faith in another when you gave a hero the inspiration to fight on in the face of terrible odds and save you from danger. As a standard action, you can speak words of encouragement to grant a +1 morale bonus to an ally within 30 feet who can see and hear you. The ally can use this bonus on any d20 roll of her choice before the start of your next turn. You cannot use this trait to grant a bonus to yourself or to an ally who has already benefited from this trait within the last 24 hours.
+**Inspiring**: As a child, you learned the power of a simple expression of faith in another when you gave a hero the inspiration to fight on in the face of terrible odds and save you from danger. As a standard action (1 AP), you can speak words of encouragement to grant a +1 morale bonus to an ally within 30 feet who can see and hear you. The ally can use this bonus on any d20 roll of her choice before the start of your next turn. You cannot use this trait to grant a bonus to yourself or to an ally who has already benefited from this trait within the last 24 hours.
 
 **Pillager**: Growing up in a place where authorities, if there were any, rarely enforced property laws, you learned quickly that you have only what you can hold, but you gain whatever you can take. You gain a +1 trait bonus on combat maneuver checks to perform disarm and steal combat maneuvers.
 
@@ -189,11 +189,11 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Arcane Scholar**: Study of arcane research has broadened your magical knowledge. Choose either Knowledge (arcana) or [Spellcraft](../../rules/skills/spellcraft.md); you gain a +1 trait bonus on that skill and it is a class skill for you.
 
-**Avowed Inspiration**: In emulation of a legendary champion's intensely channeled rage, you are an inspiration on the battlefield. Once per day, when you attack a foe who injured you during the same combat, you can inspire allies who can see you as a move action. Each other ally within 30 feet who can see you gains a +2 morale bonus on her next attack roll.
+**Avowed Inspiration**: In emulation of a legendary champion's intensely channeled rage, you are an inspiration on the battlefield. Once per day, when you attack a foe who injured you during the same combat, you can inspire allies who can see you as a move action (1 AP). Each other ally within 30 feet who can see you gains a +2 morale bonus on her next attack roll.
 
 **Beacon of Faith**: You wield the might of your faith with power and clarity. Once per day as a free action, you may treat your caster level as if it were 2 levels higher when using one of the granted powers of your domain or inquisition, or when casting one of your domain spells.
 
-**Blessed**: Some divine agent watches over you and heeds your call. Once per day as a swift action, you gain a +1 trait bonus on all saving throws for 1 round.
+**Blessed**: Some divine agent watches over you and heeds your call. Once per day as a swift action (1 AP), you gain a +1 trait bonus on all saving throws for 1 round.
 
 **Blessed Touch**: You have focused yourself into being the perfect vessel for your deity. Divine power flows through you like a mountain stream, making your healing touch more potent than that of others. You heal 1 additional point of damage when using lay on hands, channeling energy, or casting a cure spell.
 
@@ -235,7 +235,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Inspired**: A positive force, philosophy, or divine presence fills you with hope, and is a guiding force of inspiration. Once per day as a free action, roll twice and take the better result on a skill check or ability check.
 
-**Living Bulwark**: Your patron inspires you to give your all for those you protect. Once per day, when an adjacent ally is targeted by an attack but before the attack roll is attempted, you can interpose yourself as an immediate action. You become the target of the attack instead.
+**Living Bulwark**: Your patron inspires you to give your all for those you protect. Once per day, when an adjacent ally is targeted by an attack but before the attack roll is attempted, you can interpose yourself as an immediate action (1 AP of your next turn). You become the target of the attack instead.
 
 **Loyalty across Lifetimes**: You and your eidolon share a link that seems to span multiple lifetimes. Your eidolon treats its Constitution score as if it were 2 points higher for the purposes of determining when its negative hit point total sends it back to its home plane. In addition, your eidolon gains a +1 trait bonus on Will saves against enchantment spells and effects.
 
@@ -259,7 +259,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Oathkeeper's Vow**: You were trained to make unbreakable vows. You add the following spells to the paladin spell list at the indicated levels: [*command*](../../magic/spells/command.md) (1st), [*forbid action*](../../magic/spells/forbid-action.md) (1st), [*suggestion*](../../magic/spells/suggestion.md) (to fulfill a prior promise only; 2nd), *lesser geas* (3rd), *geas/quest* (4th).
 
-**Omen**: You are the harbinger of some future event. Whether this event bodes good or ill, you exude an ominous presence. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. Once per day, you may attempt to demoralize an opponent as a swift action.
+**Omen**: You are the harbinger of some future event. Whether this event bodes good or ill, you exude an ominous presence. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. Once per day, you may attempt to demoralize an opponent as a swift action (1 AP).
 
 **Perpetual Companion**: You are bolstered against fear when your eidolon is near. You gain a +2 trait bonus on all saving throws against fear effects whenever your eidolon is within 30 feet.
 
@@ -333,7 +333,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Provider**: Few things exalt your faith more than feeding the hungry with your own honest sweat. You gain a +1 trait bonus on any d20 roll to acquire food or water for others. Though this bonus most often applies to Survival checks, it could also apply to attacking monsters that are safe and nutritious to eat (mainly animals and plants). However, your deity takes a dim view of waste, and if you abuse this gift (for example, by using the bonus to defeat a bear, then only eating one bite of it), you suffer a –2 penalty on attacks, checks, and saves for 24 hours. *Requirement*: worship a deity of family, farming, or hunting.
 
-**Self-Sacrifice**: You honor your deity through your willingness to take risks for those you care about. As a move action, you can use your own body to grant soft cover to an adjacent ally regardless of the difference in your respective sizes. *Requirement*: worship a deity of art, beauty, or love.
+**Self-Sacrifice**: You honor your deity through your willingness to take risks for those you care about. As a move action (1 AP), you can use your own body to grant soft cover to an adjacent ally regardless of the difference in your respective sizes. *Requirement*: worship a deity of art, beauty, or love.
 
 **Sense of Order**: Your ability to notice even the slightest change, and the discomfort it causes, made service to a god of law and commerce a logical choice. You gain a +3 trait bonus on any Perception check made to identify any changes to a location that have occurred since you last visited it. *Requirement*: worship a deity of cities, law, or merchants.
 
@@ -395,7 +395,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Eldritch Delver**: You have an unquenchable thirst for knowledge about the world and desire to obtain it firsthand. You gain a +1 trait bonus on all Knowledge (dungeoneering) and Knowledge (history) checks, and you may treat your caster level as 1 level higher for all conjuration spells of the teleportation subschool.
 
-**Elemental Accident**: A traumatic experience in your childhood, such as surviving a violent earthquake, fleeing a shipwreck, escaping a devastating fire, or getting struck by lightning, caused you to develop a fear of the corresponding element. You can instinctively shield yourself against elemental dangers of that type. Select acid, cold, electricity, or fire at character creation (once chosen, this damage type can’t be changed). Once per day when you are subjected to an attack or effect that deals energy damage of that type, you can gain resistance 10 against that damage type for 1 round as an immediate action. This resistance does not stack with any existing resistance you might have against that energy type.
+**Elemental Accident**: A traumatic experience in your childhood, such as surviving a violent earthquake, fleeing a shipwreck, escaping a devastating fire, or getting struck by lightning, caused you to develop a fear of the corresponding element. You can instinctively shield yourself against elemental dangers of that type. Select acid, cold, electricity, or fire at character creation (once chosen, this damage type can’t be changed). Once per day when you are subjected to an attack or effect that deals energy damage of that type, you can gain resistance 10 against that damage type for 1 round as an immediate action (1 AP of your next turn). This resistance does not stack with any existing resistance you might have against that energy type.
 
 **Enduring Mutagen**: Because of special training, your unique body chemistry, or the uncovering of an alchemical secret, your mutagens last longer. The bonuses and penalties granted by your mutagens last for 1 additional minute per alchemist level.
 
@@ -421,7 +421,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Magic Crafter**: Your early magical training involved study of the properties and creation of magic items. You gain a +1 trait bonus on [Appraise](../../rules/skills/appraise.md) checks and a +1 bonus on any Craft checks attempted while making magic items.
 
-**Malleable Magic**: Once per day as a swift action, you can lose a single 1st-, 2nd- or 3rd-level magus spell to regain 1 arcane pool point. You can’t exceed the maximum number of arcane pool points in your arcane pool by using this trait.
+**Malleable Magic**: Once per day as a swift action (1 AP), you can lose a single 1st-, 2nd- or 3rd-level magus spell to regain 1 arcane pool point. You can’t exceed the maximum number of arcane pool points in your arcane pool by using this trait.
 
 **Mechanical Aptitude**: You have learned much from tinkering with ancient technology from a lost imperium. Choose one of the following skills: [Disable Device](../../rules/skills/disable-device.md), Knowledge (engineering), or [Use Magic Device](../../rules/skills/use-magic-device.md). Once per day, you can reroll a check with that skill before the outcome of the check is revealed. You must take the second result, even if it is worse.
 
@@ -435,7 +435,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Perfectionist’s Brew**: You know that potion recipes should be followed with exact precision. You gain a +2 trait bonus on all Craft (alchemy) checks and on Spellcraft checks made to brew potions.
 
-**Planar Escapee**: You were a prisoner or slave in a city on the Elemental Planes. When you escaped that city, you had to use your captors’ weapons and magic against them in addition to your sheer wits, and you learned how to find weaknesses in their natural resistances. At character creation, select acid, cold, electricity, or fire (once chosen, this selection can’t be changed). Once per day as a swift action, you can choose a single creature that is within 30 feet of you and within your line of sight; treat that creature’s resistance against your chosen energy as 5 lower than its normal energy resistance for 1 round. This ability has no effect if the creature has no resistance to the chosen energy or if the creature has immunity to the chosen energy.
+**Planar Escapee**: You were a prisoner or slave in a city on the Elemental Planes. When you escaped that city, you had to use your captors’ weapons and magic against them in addition to your sheer wits, and you learned how to find weaknesses in their natural resistances. At character creation, select acid, cold, electricity, or fire (once chosen, this selection can’t be changed). Once per day as a swift action (1 AP), you can choose a single creature that is within 30 feet of you and within your line of sight; treat that creature’s resistance against your chosen energy as 5 lower than its normal energy resistance for 1 round. This ability has no effect if the creature has no resistance to the chosen energy or if the creature has immunity to the chosen energy.
 
 **Possessed**: You were, or are, possessed in some way by another entity that grants you occasional access to its knowledge. Once per day, you can attempt a Knowledge check of your choice even if you are not trained in that skill and it is not usually possible to use that skill untrained. If you can normally use that skill untrained, you gain a +2 trait bonus on the check.
 
@@ -483,7 +483,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Eldritch Auditor**: You are a magically adept merchant who has learned tricks to protect your own goods, or you serve a city as an impartial auditor who guards against arcane trickery in the bazaars. You gain a +2 trait bonus on Spellcraft checks and Will saves to identify an item's true properties, such as against spells like [*magic aura*](../../magic/spells/magic-aura.md).
 
-**Guiding Spirit**: Few understand the medium's willingness to harbor powerful spirits, but even if you aren't one of these talented few, you've always identified with their abilities. You've always felt that you were not alone in this world and that a mysterious guiding spirit watches over you with singular focus. Once per day as a swift action, you can look to your guiding spirit for advice. The next time you roll a d20 in that same round, roll twice and pick the better result. If one of these two rolls is a natural 20, you can use this ability again that same day.
+**Guiding Spirit**: Few understand the medium's willingness to harbor powerful spirits, but even if you aren't one of these talented few, you've always identified with their abilities. You've always felt that you were not alone in this world and that a mysterious guiding spirit watches over you with singular focus. Once per day as a swift action (1 AP), you can look to your guiding spirit for advice. The next time you roll a d20 in that same round, roll twice and pick the better result. If one of these two rolls is a natural 20, you can use this ability again that same day.
 
 **Ancestral Meditant**: Ancestral shamans learned to listen to and affect the world around them by reflecting on the friction between body and spirit. As someone who feels a similar friction between your inner spirit and physical body, you have picked up some old meditation techniques. While you suffer a physical ailment, such as disease, poison, or ability damage to Strength, Dexterity, or Constitution (but not including hit point damage), you gain a +2 trait bonus on Will saving throws. While you suffer a mental ailment, including insanity, any charm or compulsion effect, or ability damage to Intelligence, Wisdom, or Charisma, you gain a +2 trait bonus on Fortitude saving throws.
 
@@ -671,7 +671,7 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Gregarious**: At least once in your childhood, your family moved for a reason you didn't understand and you were forced to leave behind your old friends and make new ones. Ever since, you have always been the first to meet strangers, make new friends, and welcome travelers. You learned that first impressions are the most important, and have a knack for making a good one. Once per day, when you attempt a Diplomacy check to improve a creature's attitude toward you, you may choose to reroll the check after the first roll is made but before the results are revealed. You must take the second result, even if it is worse.
 
-**Grim Optimism**: Growing up with no one to rely on but yourself, you learned to keep a realistic view of your situation and avoid falling into the trap of cynicism with a healthy dose of wit. As a standard action, you can joke about a troublesome situation to lighten the load of dealing with it for yourself and others. You and all allies within 30 feet who can hear you gain a +2 morale bonus on saving throws against fear and pain effects for 1d4 rounds. A character cannot benefit from this effect more than once in 24 hours.
+**Grim Optimism**: Growing up with no one to rely on but yourself, you learned to keep a realistic view of your situation and avoid falling into the trap of cynicism with a healthy dose of wit. As a standard action (1 AP), you can joke about a troublesome situation to lighten the load of dealing with it for yourself and others. You and all allies within 30 feet who can hear you gain a +2 morale bonus on saving throws against fear and pain effects for 1d4 rounds. A character cannot benefit from this effect more than once in 24 hours.
 
 **Memorable**: Growing up amid a large number of children, you learned quickly how to get others' attention and keep it. When you modify a character's attitude with the Diplomacy or Intimidate skill, the attitude change lasts 1-1/2 times longer than it otherwise would. Whenever you create a fear or mind-affecting effect that imposes a penalty or bonus with a duration of at least 2 rounds, it lasts 1 additional round after it would normally end. For example, if you demoralize a foe with an Intimidate check and beat the DC by 5, the victim is shaken for 3 rounds instead of the usual 2 rounds.
 
@@ -705,7 +705,7 @@ Equipment traits are keyed to specific types of equipment. They represent an unu
 
 **Power of Suggestion**: People trust your words over their own eyes. You may make a Bluff check to make observers believe that an object in your possession is actually a different object entirely. The DC for the check is 20 for items of a similar size, shape, and color (such as a glaive and a quarterstaff). Items of a different shape, size, or color raise the DC by 5 for each dissimilar aspect, or more if the dissimilarity is extreme. This deception lasts 1 minute; if the item is still in view, the observers may recognize their error unless you make another Bluff check.
 
-**Prehensile Whip**: In your hand a whip has a life of its own, wrapping around pillars and beams with ease. You can use a whip as if it were a rope with a grappling hook at the end. Attaching your whip is a standard action, but detaching it is a full-round action.
+**Prehensile Whip**: In your hand a whip has a life of its own, wrapping around pillars and beams with ease. You can use a whip as if it were a rope with a grappling hook at the end. Attaching your whip is a standard action (1 AP), but detaching it is a full-round action (3 AP).
 
 **Quick Learner**: After your first attack with a weapon in which you are not proficient, the non-proficiency penalty decreases by 2 (to a –2 penalty). This effect lasts only while you have the weapon in hand; you must “relearn” the weapon each time you pick it up.
 
@@ -753,7 +753,7 @@ Not all who dare the perilous depths of dungeons grew up in safe lands, dreaming
 
 **Skilled Surgeon**: Whenever you perform surgery or otherwise must deal damage to remove a condition or affliction, you roll the damage but use the minimum result unless you rolled the maximum result. The amount of hit points or points of ability damage restored each day when you provide long-term care is increased by 1.
 
-**Sustaining Performance**: Abandoned by a traditional healer at a critical time, you improvised a tale or jokes to keep up the spirits of someone in dire health. Once per day as a standard action, you can attempt a DC 15 Perform check with an audible component (such as comedy, oratory, sing, or with any instrument) to stabilize a dying creature that can hear you within 30 feet. You can also attempt Perform checks instead of Heal checks to provide long-term care.
+**Sustaining Performance**: Abandoned by a traditional healer at a critical time, you improvised a tale or jokes to keep up the spirits of someone in dire health. Once per day as a standard action (1 AP), you can attempt a DC 15 Perform check with an audible component (such as comedy, oratory, sing, or with any instrument) to stabilize a dying creature that can hear you within 30 feet. You can also attempt Perform checks instead of Heal checks to provide long-term care.
 
 **Wasteland Medic**: After witnessing a terrible disaster result from an attempt at magical healing in a place where magic is unstable, you are careful and methodical when crafting your own healing tinctures. The amount of hit points restored by your Heal checks to treat deadly wounds and your extracts of the healing subschool is increased by 1.
 

@@ -22,7 +22,7 @@ If a magus arcana requires the arcane exemplar to expend points from the magus a
 
 This replaces divine infusion.
 
-**Spell Recall (Su)**: At 5th level, an arcane exemplar can recall a spell she has already cast. Once per day as a swift action, she can recall any single magus spell that she has already prepared and cast that day. The spell she recalls must be at least 1 level below the highest spell level the arcane exemplar can cast. At 17th level, she can recall any spell, regardless of its level. She can use this ability one additional time per day at 11th level and at 17th level. In addition, she can expend minutes of her invocation ability to recall a spell as a swift action. She must expend a number of minutes equal to the level of spell she is attempting to recall when recalling a spell in this way.
+**Spell Recall (Su)**: At 5th level, an arcane exemplar can recall a spell she has already cast. Once per day as a swift action (1 AP), she can recall any single magus spell that she has already prepared and cast that day. The spell she recalls must be at least 1 level below the highest spell level the arcane exemplar can cast. At 17th level, she can recall any spell, regardless of its level. She can use this ability one additional time per day at 11th level and at 17th level. In addition, she can expend minutes of her invocation ability to recall a spell as a swift action (1 AP). She must expend a number of minutes equal to the level of spell she is attempting to recall when recalling a spell in this way.
 
 This replaces divine weapon.
 

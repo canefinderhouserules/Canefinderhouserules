@@ -26,11 +26,11 @@ Each character begins play with 1 hero point, regardless of her level. In additi
 
 Hero points can be spent at any time and do not require an action to use (although the actions they modify consume part of your character’s turn as normal). You cannot spend more than 1 hero point during a single round of combat. Whenever a hero point is spent, it can have any one of the following effects.
 
-**Act Out of Turn**: You can spend a hero point to take your turn immediately. Treat this as a readied action, moving your initiative to just before the currently acting creature. You may only take a move or a standard action on this turn.
+**Act Out of Turn**: You can spend a hero point to take your turn immediately. Treat this as a readied action, moving your initiative to just before the currently acting creature. You may only take a move or a standard action (1 AP) on this turn.
 
 **Bonus**: If used before a roll is made, a hero point grants you a +8 luck bonus to any one d20 roll. If used after a roll is made, this bonus is reduced to +4. You can use a hero point to grant this bonus to another character, as long as you are in the same location and your character can reasonably affect the outcome of the roll (such as distracting a monster, shouting words of encouragement, or otherwise aiding another with the check). Hero points spent to aid another character grant only half the listed bonus (+4 before the roll, +2 after the roll).
 
-**Extra Action**: You can spend a hero point on your turn to gain an additional standard or move action this turn.
+**Extra Action**: You can spend a hero point on your turn to gain an additional standard or move action (1 AP) this turn.
 
 **Inspiration**: If you feel stuck at one point in the adventure, you can spend a hero point and petition the GM for a hint about what to do next. If the GM feels that there is no information to be gained, the hero point is not spent.
 

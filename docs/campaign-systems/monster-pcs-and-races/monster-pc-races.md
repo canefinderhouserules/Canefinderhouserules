@@ -61,7 +61,7 @@ A succubus drains energy from a mortal she lures into an act of passion, such as
 
 ##### Profane Gift (Su)
 
-Once per day as a full-round action, a succubus may grant a profane gift to a willing humanoid creature by touching it for 1 full round. The target gains a +2 profane bonus to an ability score of his choice. A single creature may have no more than one profane gift from a succubus at a time. As long as the profane gift persists, the succubus can communicate telepathically with the target across any distance (and may use her *suggestion* spell-like ability through it). A profane gift is removed by *dispel evil* or *dispel chaos*. The succubus can remove it as well as a free action (causing 2d6 Charisma drain to the victim, no save).
+Once per day as a full-round action (3 AP), a succubus may grant a profane gift to a willing humanoid creature by touching it for 1 full round. The target gains a +2 profane bonus to an ability score of his choice. A single creature may have no more than one profane gift from a succubus at a time. As long as the profane gift persists, the succubus can communicate telepathically with the target across any distance (and may use her *suggestion* spell-like ability through it). A profane gift is removed by *dispel evil* or *dispel chaos*. The succubus can remove it as well as a free action (causing 2d6 Charisma drain to the victim, no save).
 
 Spell Like Abilities:  
 At-Will: Charm Person, *greater teleport* (self plus 50 lbs. of objects only)  

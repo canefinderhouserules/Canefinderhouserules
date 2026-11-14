@@ -2,7 +2,7 @@
 
 ## Telekinesis
 
-The duration of this spell changes to 1 round per level. You may spend a move action to use the sustained force or combat maneuver effects of the spell.
+The duration of this spell changes to 1 round per level. You may spend a move action (1 AP) to use the sustained force or combat maneuver effects of the spell.
 
 When using sustained force, you can move a number of objects up to your tier. These must be in the same square and together must weigh no more than the weight limit of the spell.
 
@@ -80,13 +80,13 @@ Any spell you cast that has a range of touch, close, medium, or long can origina
 
 **Source** *Ultimate Combat*
 
-You can teleport as either a move action or a swift action, but never more than once per round. If you expend a move action and a swift action, you may teleport up to 60 feet.
+You can teleport as either a move action (1 AP) or a swift action (1 AP), but never more than once per round. If you expend a move action (1 AP) and a swift action (1 AP), you may teleport up to 60 feet.
 
 ## Wall of Fire
 
 The wall's damage increases to 2d6 points of fire damage to creatures within 10 feet, 1d6 points of fire damage to those past 10 feet but within 20 feet, and 2d8 points of fire damage + 1 point of fire damage per caster level (maximum +20) to any creature passing through it. Any creature that passes through the wall or is within 5 feet of the wall when it's created must succeed at a Reflex save or catch fire. Attempts to extinguish this fire use the spell's save DC.
 
-**Augmented (5th)**: If you expend two uses of mythic power, you may move the wall 5 feet in any direction as a move action on your turn. Moving the wall into a fireproof barrier (such as a stone wall) destroys the part of the wall that overlaps the barrier.
+**Augmented (5th)**: If you expend two uses of mythic power, you may move the wall 5 feet in any direction as a move action (1 AP) on your turn. Moving the wall into a fireproof barrier (such as a stone wall) destroys the part of the wall that overlaps the barrier.
 
 ## Wall of Force
 
@@ -140,7 +140,7 @@ When using mythic wish to duplicate another spell, you can duplicate a mythic sp
 
 You can also produce any one of the following effects that modify or replace effects listed in the non-mythic wish spell description:
 
-If you use mythic wish to remove injuries and afflictions, you can expend a number of uses of mythic power to remove that number of additional afflictions from all affected creatures. If you use mythic wish to revive the dead, you can expend a second use of mythic power to negate the target's permanent negative level from the resurrection. Alter fate. By expending a second use of mythic power, you can cast mythic wish as an immediate action before a 1 d20 roll is attempted and choose what number you want to come up on the die.
+If you use mythic wish to remove injuries and afflictions, you can expend a number of uses of mythic power to remove that number of additional afflictions from all affected creatures. If you use mythic wish to revive the dead, you can expend a second use of mythic power to negate the target's permanent negative level from the resurrection. Alter fate. By expending a second use of mythic power, you can cast mythic wish as an immediate action (1 AP of your next turn) before a 1 d20 roll is attempted and choose what number you want to come up on the die.
 
 **Augmented**: If you expend two uses of mythic power, you can cast a silent, stilled mythic wish, even if you're [helpless](../../rules/appendices/conditions.md#helpless) or couldn't otherwise take actions (but not [unconscious](../../rules/appendices/conditions.md#unconscious)).
 

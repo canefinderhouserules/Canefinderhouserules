@@ -10,7 +10,7 @@ You can use this skill to frighten your opponents or to get them to act in a way
 
 *Demoralize*: You can use this skill to cause an opponent to become shaken for a number of rounds. The DC of this check is equal to 10 + the target’s Hit Dice + the target’s Wisdom modifier. If you are successful, the target is shaken for 1 round. This duration increases by 1 round for every 5 by which you beat the DC. You can only threaten an opponent in this way if it is within 30 feet and can clearly see and hear you. Using demoralize on the same creature only extends the duration; it does not create a stronger fear condition.
 
-**Action**: Using Intimidate to change an opponent’s attitude requires 1 minute of conversation. Demoralizing an opponent is a standard action.
+**Action**: Using Intimidate to change an opponent’s attitude requires 1 minute of conversation. Demoralizing an opponent is a standard action (1 AP).
 
 **Try Again**: You can attempt to Intimidate an opponent again, but each additional check increases the DC by +5. This increase resets after 1 hour has passed.
 

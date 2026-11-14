@@ -57,7 +57,7 @@ You are marked by fate as a future deity; even before this destiny is realized, 
 
 **Goal**: You must be acknowledged by another divine being (directly or through a representative) as a peer, even if only a minor one.
 
-**Completion Benefit**: Once per day as an immediate action, you can cause any die roll made by a creature within 100 feet of you to be rerolled. You choose which result you prefer. You must decide to use this ability after the first roll is made but before the results are revealed by the GM.
+**Completion Benefit**: Once per day as an immediate action (1 AP of your next turn), you can cause any die roll made by a creature within 100 feet of you to be rerolled. You choose which result you prefer. You must decide to use this ability after the first roll is made but before the results are revealed by the GM.
 
 **Suggested Traits**: Called, Fortunate, Inspiring.
 
@@ -67,7 +67,7 @@ Escaping death strengthened your bond to life, but fills you with a need for ans
 
 **Prerequisite**: You must have been slain and brought back from the dead, or have the Left to Die or Cursed Birth background.
 
-**Benefit**: You don’t die until your negative hit point total is equal to or greater than 4 + your Constitution score. Once per day as a standard action, you can force yourself to carry on by strength of will alone, gaining 1 temporary hit point per hit die. These temporary hit points last for 10 minutes.
+**Benefit**: You don’t die until your negative hit point total is equal to or greater than 4 + your Constitution score. Once per day as a standard action (1 AP), you can force yourself to carry on by strength of will alone, gaining 1 temporary hit point per hit die. These temporary hit points last for 10 minutes.
 
 **Normal**: You die when your negative hit point total is equal to or greater than your Constitution score.
 
@@ -133,7 +133,7 @@ You must prove yourself through single combat.
 
 **Prerequisite**: You must have defeated a single challenging foe without any aid from another, or have the Champion of a God, Champion of the People, Competition Champion, or Gladiator background.
 
-**Benefit**: As a swift action, you can declare a single combat challenge to one foe within 50 feet and in line of sight. Upon doing so, you gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against that foe as long as no one else threatens that opponent or until the single combat challenge ends. If another combatant attacks you or your foe, the challenge ends and you take a –2 penalty on attack rolls and to AC for 1 round. Though you can declare a single combat challenge at will, once you declare it on a foe you can’t declare it on the same foe for another 24 hours.
+**Benefit**: As a swift action (1 AP), you can declare a single combat challenge to one foe within 50 feet and in line of sight. Upon doing so, you gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against that foe as long as no one else threatens that opponent or until the single combat challenge ends. If another combatant attacks you or your foe, the challenge ends and you take a –2 penalty on attack rolls and to AC for 1 round. Though you can declare a single combat challenge at will, once you declare it on a foe you can’t declare it on the same foe for another 24 hours.
 
 **Goal**: Defeat an appropriate number of challenging foes in single combat. These combats must not be interrupted by other creatures, and the foes must not have already been substantially injured or impaired prior to combat with you.
 
@@ -157,7 +157,7 @@ The lives you could not save stay with you to your final breath.
 
 **Prerequisite**: You must have witnessed the death of a close companion in battle—a death that could have been prevented, such as from bleeding, failure to stabilize, or ongoing poison damage—or have the Death in the Family or The War background.
 
-**Benefit**: You gain a +2 bonus on [Heal](../skills/heal.md) checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don’t take a penalty when treating deadly wounds without a healing kit.
+**Benefit**: You gain a +2 bonus on [Heal](../skills/heal.md) checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action (1 AP) and don’t take a penalty when treating deadly wounds without a healing kit.
 
 **Goal**: Bring an ally back from the dead, including by using [*breath of life*](../../magic/spells/breath-of-life.md) or [*reincarnate*](../../magic/spells/reincarnate.md).
 
@@ -217,7 +217,7 @@ You’re willing to lay down your life for your faith.
 
 **Goal**: Die in pursuit of your faith’s goals and be brought back to life. If you die in circumstances that don’t involve your faith, you gain no benefit. If your GM permits, you can instead remain dead and create a new PC inspired by your heroic sacrifice.
 
-**Completion Benefit**: If you died and came back, you become a living symbol of faith. Once per day as a standard action, you can inspire those who share your faith to great effort, granting them a +2 morale bonus on attack rolls and saving throws for 1 minute. This is a mind-affecting, language-dependent effect. If you create a new character inspired by your previous character, the new PC receives a +2 bonus to a single ability score. This ability score can’t be one that already has a racial bonus. The new PC can later take this feat if he meets the prerequisite.
+**Completion Benefit**: If you died and came back, you become a living symbol of faith. Once per day as a standard action (1 AP), you can inspire those who share your faith to great effort, granting them a +2 morale bonus on attack rolls and saving throws for 1 minute. This is a mind-affecting, language-dependent effect. If you create a new character inspired by your previous character, the new PC receives a +2 bonus to a single ability score. This ability score can’t be one that already has a racial bonus. The new PC can later take this feat if he meets the prerequisite.
 
 ## Feral Heart (Story)
 
@@ -291,7 +291,7 @@ Your time in shackles has forever marked your soul.
 
 **Goal**: Free at least 200 slaves through perilous rescues (not merely buying them at market).
 
-**Completion Benefit**: You gain the ability to inspire others through your dedication to your cause. Allies within 20 feet receive your Liberator feat bonuses when working with you to free prisoners or slaves. In addition, as a standard action you can inspire slaves and former slaves within 120 feet, giving them temporary hit points equal to 1/2 your character level and a +1 bonus on saving throws. These benefits last for 1 hour, and a given creature can receive this benefit only once per day. These are mind-affecting effects, and the inspiring bonus is language-dependent.
+**Completion Benefit**: You gain the ability to inspire others through your dedication to your cause. Allies within 20 feet receive your Liberator feat bonuses when working with you to free prisoners or slaves. In addition, as a standard action (1 AP) you can inspire slaves and former slaves within 120 feet, giving them temporary hit points equal to 1/2 your character level and a +1 bonus on saving throws. These benefits last for 1 hour, and a given creature can receive this benefit only once per day. These are mind-affecting effects, and the inspiring bonus is language-dependent.
 
 ## Lost Legacy (Story)
 
@@ -415,7 +415,7 @@ Your past failure haunts you and drives you on.
 
 **Prerequisite**: You must have lost class features by violating the code of conduct of a class that possesses such a code, or have the Dishonored Family background.
 
-**Benefit**: As an immediate action, you can add a +1 bonus to the result of an ability check, attack roll, saving throw, or skill check you have just rolled by becoming shaken for 1 minute. You must choose before the result is revealed.
+**Benefit**: As an immediate action (1 AP of your next turn), you can add a +1 bonus to the result of an ability check, attack roll, saving throw, or skill check you have just rolled by becoming shaken for 1 minute. You must choose before the result is revealed.
 
 **Goal**: Regain any lost class features and complete a quest to prove your worth. In the course of completing this quest, you must decisively defeat a challenging foe. The quest should relate in some fashion to the transgression that removed your class abilities or led to you being disgraced.
 
@@ -451,7 +451,7 @@ You seek to build a bastion against which your enemies shall break like water ag
 
 **Prerequisites**: You must have the Leadership feat and must lead at least 10 combat-capable followers (such as fighters or rangers).
 
-**Benefit**: You can spend a move action to give battle orders to your troops, granting creatures under your command within 60 feet your choice of a +1 morale bonus on attack rolls, a +1 dodge bonus to AC, or a +1 bonus on a single type of saving throw. All creatures must receive the same benefit. You can’t use this benefit on allies not under your command. This is a language-dependent, mind-affecting effect.
+**Benefit**: You can spend a move action (1 AP) to give battle orders to your troops, granting creatures under your command within 60 feet your choice of a +1 morale bonus on attack rolls, a +1 dodge bonus to AC, or a +1 bonus on a single type of saving throw. All creatures must receive the same benefit. You can’t use this benefit on allies not under your command. This is a language-dependent, mind-affecting effect.
 
 **Goal**: Build or capture a stronghold capable of housing a force of at least 200 troops, and staff it with at least 100 combat-capable soldiers (or the equivalent) under your command. You must also provide food and water sufficient to survive at least a 6-month siege and a gold reserve sufficient for at least 6 months of wages if your troops require pay.
 

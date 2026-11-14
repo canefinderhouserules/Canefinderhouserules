@@ -132,7 +132,7 @@ Creatures born of mortal flesh infused with the essence of the outer god a Great
 
 *Spell-Like Abilities*: A child of a Great Old One-Sothoth gains the following spell-like abilities (the save DCs of these abilities are calculated using the child’s Intelligence score as a result of its magic savant special quality, and its caster level equals its Hit Dice): 3/day* comprehend languages*,* detect thoughts*,* hypnotism*; 1/day* invisibility*; 1/week* contact entity I*. A child of a Great Old One-Sothoth with 5 Hit Dice adds* contact entity II* to its 1/week spell-like abilities. A child of a Great Old One-Sothoth with 9 Hit Dice adds* contact entity III* to its 1/week spell-like abilities. A child of a Great Old One-Sothoth with 13 Hit Dice adds* contact entity IV* to its 1/week spell-like abilities. A child of a Great Old One-Sothoth with 17 Hit Dice adds gate to its 1/week spell-like abilities.
 
-*Stench (Su)*: A child of a Great Old One-Sothoth always exudes an unpleasant scent. As a swift action, the child can intensify this scent, causing it to become truly nauseating. All living creatures within 30 feet must succeed at a Fortitude saving throw (DC = 10 + 1/2 the child’s HD + the child’s Constitution modifier) or become nauseated 1 for 1 round. The child can exude this nauseating stench for a number of rounds per day equal to its total Hit Dice, but these rounds need not be consecutive. Each round the child wishes to maintain the stench, it must use a swift action to do so. The stench is a poison effect.
+*Stench (Su)*: A child of a Great Old One-Sothoth always exudes an unpleasant scent. As a swift action (1 AP), the child can intensify this scent, causing it to become truly nauseating. All living creatures within 30 feet must succeed at a Fortitude saving throw (DC = 10 + 1/2 the child’s HD + the child’s Constitution modifier) or become nauseated 1 for 1 round. The child can exude this nauseating stench for a number of rounds per day equal to its total Hit Dice, but these rounds need not be consecutive. Each round the child wishes to maintain the stench, it must use a swift action (1 AP) to do so. The stench is a poison effect.
 
 **Special Qualities**: A child of a Great Old One-Sothoth gains the following special quality.
 
@@ -222,7 +222,7 @@ Commando constructs are elite fighting machines that often operate alone or in s
 
 **Special Qualities**: A commando construct gains following special abilities.
 
-*Energized Alacrity (Su)*: Once per minute as a swift action, a commando construct can draw power from special energizing transmitters attached to its body. When doing so, the commando construct gains a +30-foot bonus to all of its speeds for 1 round. Additionally, when making a full attack during this round, the commando construct can move up to its speed either before or after it attacks. This movement provokes attacks of opportunity as normal.
+*Energized Alacrity (Su)*: Once per minute as a swift action (1 AP), a commando construct can draw power from special energizing transmitters attached to its body. When doing so, the commando construct gains a +30-foot bonus to all of its speeds for 1 round. Additionally, when making a full attack during this round, the commando construct can move up to its speed either before or after it attacks. This movement provokes attacks of opportunity as normal.
 
 *Tactical Awareness (Ex)*: A commando construct gains a +2 bonus on initiative checks. This bonus increases by 1 for every 5 HD the commando construct has (to a maximum of +6 at 20 HD). Additionally, a commando construct is never considered an unaware combatant and is always able to act in the surprise round. A commando construct is still flat-footed in the surprise round until it acts.
 
@@ -284,11 +284,11 @@ Countless variations of demonic vermin exist in the forbidding wasteland that is
 
 *Additional Senses (Ex)*: The vermin has a large number of extra eyes and other sensory organs. It gains all-around vision, scent, and a +8 racial bonus on Perception checks.
 
-*Death Throes (Su)*: When the vermin is slain, it can make a single melee attack (using any one of its natural attacks) as an immediate action. It then explodes into acid, fire, electricity, or cold (your choice), dealing 1d6 points of damage per CR point possessed by the demonic vermin (Ref lex save halves).
+*Death Throes (Su)*: When the vermin is slain, it can make a single melee attack (using any one of its natural attacks) as an immediate action (1 AP of your next turn). It then explodes into acid, fire, electricity, or cold (your choice), dealing 1d6 points of damage per CR point possessed by the demonic vermin (Ref lex save halves).
 
 *Diseased (Su)*: The demonic vermin is immune to disease, and its natural attacks inflict demonplague on a hit (Fortitude save negates).
 
-*Drone (Su)*: By rubbing its wings or limbs together as a standard action, the demonic vermin produces a loud, discordant drone that causes those within 30 feet of it to become sickened (if the vermin is CR 8 or less) or confused (if the vermin is CR 9 or higher) for 1d6 rounds (Will save negates). This is a sonic mind-affecting effect.
+*Drone (Su)*: By rubbing its wings or limbs together as a standard action (2 AP), the demonic vermin produces a loud, discordant drone that causes those within 30 feet of it to become sickened (if the vermin is CR 8 or less) or confused (if the vermin is CR 9 or higher) for 1d6 rounds (Will save negates). This is a sonic mind-affecting effect.
 
 *Skitter (Ex)*: The creature has uncanny speed and erratic movements. The vermin’s speeds all increase by 10 feet, it gains Mobility and Spring Attack as bonus feats, and it gains a +4 racial bonus on Initiative checks.
 
@@ -332,9 +332,9 @@ An endless variety of beings exist within and below the a sunken pyramid. Among 
 
 **Special Attacks**: A dream eater gains two special attacks, as detailed below. Both of these special attacks have save DCs equal to 10 + 1/2 the dream eater’s Hit Dice + the dream eater’s Charisma modifier.
 
-*Dream Eating (Su)*: As a full-round action that provokes attacks of opportunity, a dream eater can consume a creature’s subconscious dreams if the victim fails to resist with a Will save. A sleeping victim takes a –2 penalty on saving throws against this ability, but automatically wakens if the save is successful. On a failed save, the victim takes 1d4 points of Charisma damage, and the dream eater gains a number of psychic points equal to the Charisma drained, to a maximum amount of psychic points equal to the dream eater’s Hit Dice.
+*Dream Eating (Su)*: As a full-round action (3 AP) that provokes attacks of opportunity, a dream eater can consume a creature’s subconscious dreams if the victim fails to resist with a Will save. A sleeping victim takes a –2 penalty on saving throws against this ability, but automatically wakens if the save is successful. On a failed save, the victim takes 1d4 points of Charisma damage, and the dream eater gains a number of psychic points equal to the Charisma drained, to a maximum amount of psychic points equal to the dream eater’s Hit Dice.
 
-*Psychic Assault (Su)*: As a swift action, a dream eater can imbue any melee attack he makes with a psychic assault, infusing the mind of the creature struck with hideous nightmare visions and hallucinations. The magnitude of the effect depends on how many psychic points the dream eater spends in the assault. By expending 1 point, the dream eater can cause the victim to become dazzled for 1d6 rounds. By expending 3 points, he can make a victim become staggered for 1d6 rounds. By expending 5 points, he can make the victim nauseated 1 for 1d6 rounds. By expending 7 points, he can make the victim confused for 1d6 rounds. And by expending 9 points, he can stun the victim for 1d6 rounds. The victim can resist the psychic assault entirely by making a Will saving throw.
+*Psychic Assault (Su)*: As a swift action (1 AP), a dream eater can imbue any melee attack he makes with a psychic assault, infusing the mind of the creature struck with hideous nightmare visions and hallucinations. The magnitude of the effect depends on how many psychic points the dream eater spends in the assault. By expending 1 point, the dream eater can cause the victim to become dazzled for 1d6 rounds. By expending 3 points, he can make a victim become staggered for 1d6 rounds. By expending 5 points, he can make the victim nauseated 1 for 1d6 rounds. By expending 7 points, he can make the victim confused for 1d6 rounds. And by expending 9 points, he can stun the victim for 1d6 rounds. The victim can resist the psychic assault entirely by making a Will saving throw.
 
 **Special Abilities**: A dream eater gains telepathy with other dream eaters to a range of 30 feet.
 
@@ -382,7 +382,7 @@ These otherworldly creatures seek out new host bodies to replace the original ro
 
 **Special Qualities**: A dreamspawn creature gains the following special quality.
 
-*Sleepwalker (Su)*: A dreamspawn creature is tethered to the corpse of the dreamer whose death birthed it, using it as a conduit between one world and the next. Typically, the desiccated corpse is dragged lifelessly along with the materialized dreamspawn creature, occupying an adjacent square and moving along with it. As a move action, the dreamspawn creature can also withdraw wholly into the corpse where it can control the movements of its host. While inhabiting the corpse, it can attack foes with a slam attack. Any attack against the host deals half damage to the dreamspawn creature as well, although its DR, resistances, and immunities may negate some or all of this damage. The dreamspawn creature can materialize from the corpse as a free action. If a dreamspawn creature kills another corporeal target, it can discard its tethered corpse and attach itself to the newly killed victim.
+*Sleepwalker (Su)*: A dreamspawn creature is tethered to the corpse of the dreamer whose death birthed it, using it as a conduit between one world and the next. Typically, the desiccated corpse is dragged lifelessly along with the materialized dreamspawn creature, occupying an adjacent square and moving along with it. As a move action (1 AP), the dreamspawn creature can also withdraw wholly into the corpse where it can control the movements of its host. While inhabiting the corpse, it can attack foes with a slam attack. Any attack against the host deals half damage to the dreamspawn creature as well, although its DR, resistances, and immunities may negate some or all of this damage. The dreamspawn creature can materialize from the corpse as a free action. If a dreamspawn creature kills another corporeal target, it can discard its tethered corpse and attach itself to the newly killed victim.
 
 **Abilities**: Dex +4, Cha +2.
 
@@ -532,7 +532,7 @@ An element-infused creature can select a number of movement abilities (see the S
 
 *Flight (air)*: The creature gains a fly speed equal to its highest speed with average maneuverability (maximum fly speed of 10 feet per HD).
 
-*Improved Quickness (Su, fire)*: Three times per day as a swift action, the creature can take an extra move action. The creature must already have quickness to select this ability.
+*Improved Quickness (Su, fire)*: Three times per day as a swift action (1 AP), the creature can take an extra move action (1 AP). The creature must already have quickness to select this ability.
 
 *Puddle Form (Su, water)*: Once per day, the creature can turn into an animate puddle of water for up to 10 minutes. This functions as gaseous form, but the creature instead has both a base speed and swim speed of 10 feet.
 
@@ -542,7 +542,7 @@ An element-infused creature can select a number of movement abilities (see the S
 
 **Special Attacks**: An element-infused creature can choose one or more of the following abilities.
 
-*Breath Weapon (Su, any)*: The creature gains a breath weapon (15-foot cone or 30-foot line) that it can use as a standard action once every minute. The breath weapon deals 1d6 points of damage of one of its associated energy types (Reflex half, DC = 10 + 1/2 creature’s HD + Con modifier). The damage increases by 1d6 for every 3 HD the creature has. If the creature has 10 or more HD, the size of the breath weapon doubles.
+*Breath Weapon (Su, any)*: The creature gains a breath weapon (15-foot cone or 30-foot line) that it can use as a standard action (1 AP) once every minute. The breath weapon deals 1d6 points of damage of one of its associated energy types (Reflex half, DC = 10 + 1/2 creature’s HD + Con modifier). The damage increases by 1d6 for every 3 HD the creature has. If the creature has 10 or more HD, the size of the breath weapon doubles.
 
 *Burn (Ex, fire)*: The creature can set creatures it strikes on fire, as per the burn ability, though only with attacks augmented by its energy attacks ability.
 
@@ -648,7 +648,7 @@ The Astral Plane, the realm of thought and higher consciousness, hosts two vulne
 
 **Special Attacks**: An eruphyte creature gains the following special attack.
 
-*Thoughtspear (Su)*: Once per hour as a standard action, an eruphyte creature can direct a blast of disorienting mental energy at a creature within 120 feet. This attack deals 1d8 damage for every 2 Hit Dice the eruphyte creature has (rounded down, minimum 1d8), and the target cannot attempt Knowledge skill checks for 1 minute afterwards. A target that succeeds at a Will saving throw (DC = 10 + half the eruphyte creature’s HD + its Intelligence modifier) reduces the damage by half and negates the skill disruption. This is a mind-affecting effect.
+*Thoughtspear (Su)*: Once per hour as a standard action (1 AP), an eruphyte creature can direct a blast of disorienting mental energy at a creature within 120 feet. This attack deals 1d8 damage for every 2 Hit Dice the eruphyte creature has (rounded down, minimum 1d8), and the target cannot attempt Knowledge skill checks for 1 minute afterwards. A target that succeeds at a Will saving throw (DC = 10 + half the eruphyte creature’s HD + its Intelligence modifier) reduces the damage by half and negates the skill disruption. This is a mind-affecting effect.
 
 **Languages**: An eruphyte creature gains telepathy (60 ft.).
 
@@ -839,7 +839,7 @@ While many find the possibility of undead born from purely natural disasters to 
 
 *Drowning Touch (Su)*: The slam attack of a floodslain creature partially fills a living victim’s lungs with water. The victim must succeed at a Fortitude saving throw in order to cough up this water or become fatigued for 1d4 rounds. A fatigued creature that fails this save becomes exhausted instead. An exhausted creature that fails this save is staggered and falls to 0 hp. A creature at 0 hp that fails this save drops to –1 hp and begins dying. A creature killed in this fashion appears to have drowned.
 
-*Panic (Su)*: The dead eyes of a floodslain creature are frozen with shock and fear. The floodslain creature can induce fear in a living victim as a standard action. Targets must succeed at a Will saving throw or become shaken for 1d6 rounds. A creature can be affected by the same floodslain creature’s panic attack only once every 24 hours.
+*Panic (Su)*: The dead eyes of a floodslain creature are frozen with shock and fear. The floodslain creature can induce fear in a living victim as a standard action (1 AP). Targets must succeed at a Will saving throw or become shaken for 1d6 rounds. A creature can be affected by the same floodslain creature’s panic attack only once every 24 hours.
 
 **Special Qualities**: A floodslain creature gains the following special quality.
 
@@ -1076,13 +1076,13 @@ Although a hell engine lacks the creativity and cunning of a true devil, contrac
 
 **Special Attacks**: A hell engine gains the following.
 
-*Breath Weapon (Su)*: As a standard action once every 1d4+1 rounds, a hell engine can exhale a churning cloud of hellfire in an adjacent space equal to its own size. This hellfire persists for 1 round; each creature within the area when the hell engine creates it (as well as any creature that passes through the cloud until the start of the hell engine’s next turn) takes 1d6 points of fire damage and 1d6 points of unholy damage per 2 Hit Dice of the base creature. A creature can attempt a Reflex save (DC 10 + half the base creature’s HD) for half damage. The hellfire cloud also provides concealment as if from a* fog cloud* spell.
+*Breath Weapon (Su)*: As a standard action (2 AP) once every 1d4+1 rounds, a hell engine can exhale a churning cloud of hellfire in an adjacent space equal to its own size. This hellfire persists for 1 round; each creature within the area when the hell engine creates it (as well as any creature that passes through the cloud until the start of the hell engine’s next turn) takes 1d6 points of fire damage and 1d6 points of unholy damage per 2 Hit Dice of the base creature. A creature can attempt a Reflex save (DC 10 + half the base creature’s HD) for half damage. The hellfire cloud also provides concealment as if from a* fog cloud* spell.
 
-The hell engine can use this breath weapon in addition to any breath weapon the base creature has, and it can use up to two breath weapons simultaneously as a full-round action. Simultaneous breath weapons both fill the area of either the hellfire breath weapon or base creature’s breath weapon (hell engine’s choice). If the base creature’s breath weapon deals fire damage, a simultaneous breath weapon converts half of that damage into unholy damage.
+The hell engine can use this breath weapon in addition to any breath weapon the base creature has, and it can use up to two breath weapons simultaneously as a full-round action (3 AP). Simultaneous breath weapons both fill the area of either the hellfire breath weapon or base creature’s breath weapon (hell engine’s choice). If the base creature’s breath weapon deals fire damage, a simultaneous breath weapon converts half of that damage into unholy damage.
 
-*Banishing Strike (Su)*: Three times per day as an immediate action, the hell engine can force an extraplanar or summoned creature it hits to attempt a Will save (DC = 10 + half the base creature’s HD); on a failure, the target is forced back to its original plane as if by a* dismissal* spell.
+*Banishing Strike (Su)*: Three times per day as an immediate action (1 AP of your next turn), the hell engine can force an extraplanar or summoned creature it hits to attempt a Will save (DC = 10 + half the base creature’s HD); on a failure, the target is forced back to its original plane as if by a* dismissal* spell.
 
-*Redirect Summons (Sp)*: Within 1 minute of successfully using its banishing strike ability, a hell engine can redirect its planar energy to summon a devil as an immediate action with a 100% chance of success. The summoned devil remains for 1 hour. A hell engine can have only one summoned devil at a time. The hell engine’s Hit Dice determines the most powerful kind of devil it can summon and the effective spell level of this ability, according to the following table.
+*Redirect Summons (Sp)*: Within 1 minute of successfully using its banishing strike ability, a hell engine can redirect its planar energy to summon a devil as an immediate action (1 AP of your next turn) with a 100% chance of success. The summoned devil remains for 1 hour. A hell engine can have only one summoned devil at a time. The hell engine’s Hit Dice determines the most powerful kind of devil it can summon and the effective spell level of this ability, according to the following table.
 
 | **HD** | **Devil** | **Spell Level** |
 |---|---|---|
@@ -1336,7 +1336,7 @@ Followers of the goddess of undeath and gluttony revere all sicknesses as worldl
 
 **Defensive Abilities**: A pallid vector is treated as undead for the purposes of negative and positive energy, and it gains immunity to disease, exhaustion, fatigue, poison, and stunning. Additionally, it gains the following ability.
 
-*Pale Rebirth (Su)*: When a pallid vector dies, it rises as a plague zombie 1 round later. Instead of zombie rot, it spreads pallid gift (see Disease below). Sprinkling holy water on the body (a standard action) before it rises prevents this. A humanoid pallid vector that kills itself ritualistically or dies within a desecrate effect or other area that promotes undeath rises as a more powerful undead instead, as if it had died from pallid gift (see table below).
+*Pale Rebirth (Su)*: When a pallid vector dies, it rises as a plague zombie 1 round later. Instead of zombie rot, it spreads pallid gift (see Disease below). Sprinkling holy water on the body (a standard action (1 AP)) before it rises prevents this. A humanoid pallid vector that kills itself ritualistically or dies within a desecrate effect or other area that promotes undeath rises as a more powerful undead instead, as if it had died from pallid gift (see table below).
 
 *Special Attacks*: A pallid vector gains stench (*Bestiary* 304; 10 rounds) and disease. The DCs are Constitution-based.
 
@@ -1405,7 +1405,7 @@ A prana ghost doesn’t risk death from damage, but instead immediately dissipat
 
 **Speed**: Prana ghosts lose their previous speeds and gain a fly speed of 30 feet (perfect) unless the base creature has a higher fly speed. They also gain the astral step ability.
 
-*Astral Step (Su)*: As a standard action a number of times per day equal to its Wisdom bonus, a prana ghost can teleport to a space within 60 feet that it can see. This is a teleportation effect.
+*Astral Step (Su)*: As a standard action (1 AP) a number of times per day equal to its Wisdom bonus, a prana ghost can teleport to a space within 60 feet that it can see. This is a teleportation effect.
 
 **Attacks**: A prana ghost keeps the base creature’s natural and unarmed attacks. These attacks automatically count as if they had the ghost touch property and add the prana ghost’s Wisdom bonus to damage rolls (or 1/2 its Wisdom bonus for off-hand attacks and secondary weapons, but no additional damage for single primary natural attacks or the like). If the creature could wield weapons in life, it can wield *ghost touch* weapons as a prana ghost.
 
@@ -1429,7 +1429,7 @@ A prana ghost doesn’t risk death from damage, but instead immediately dissipat
 
 Prophecy-addled creatures receive powerful oracular insights, but they cannot easily distinguish between these flashes of mystical insight and reality. A prophecy-addled creature’s quick and rebuild rules are the same.
 
-**Rebuild Rules**: **AC** increase insight bonus by +2; **Saves** +2 insight bonus on Fortitude and Reflex saves, –4 penalty on saves against confusion effects; **Special Qualities** If the creature has flash of brutality, flash of insight, or another special quality that allows it to reroll a d20 roll a certain number of times each day, it can use that ability two additional times each day. If not, the creature gains the following special quality. *Prophetic Insight (Su)*: Three times per day as an immediate action, the prophecy-addled creature can reroll any one d20 roll that it has just made before the results of the roll are revealed. It must take the result of the reroll, even if it’s worse than the original roll.
+**Rebuild Rules**: **AC** increase insight bonus by +2; **Saves** +2 insight bonus on Fortitude and Reflex saves, –4 penalty on saves against confusion effects; **Special Qualities** If the creature has flash of brutality, flash of insight, or another special quality that allows it to reroll a d20 roll a certain number of times each day, it can use that ability two additional times each day. If not, the creature gains the following special quality. *Prophetic Insight (Su)*: Three times per day as an immediate action (1 AP of your next turn), the prophecy-addled creature can reroll any one d20 roll that it has just made before the results of the roll are revealed. It must take the result of the reroll, even if it’s worse than the original roll.
 
 ## Psychic Lich
 
@@ -1479,7 +1479,7 @@ The only way to ensure that a psychic lich does not rejuvenate is to target its 
 
 **Special Attacks**: A psychic lich gains the special attacks described below. Save DCs are equal to 10 + 1/2 the lich’s HD + the lich’s Charisma modifier unless otherwise noted.
 
-*Bewildering Touch (Su)*: Any living creature a psychic lich hits with its touch attack must succeed at a Fortitude saving throw or be permanently confused as its nervous system continuously sends false signals. The creature doesn’t automatically attack the psychic lich if it is targeted by further attacks.* Calm emotions* or any spell that can remove a curse can free the victim (see the* bestow curse* spell description) with a DC equal to the bewildering touch’s save DC. As a full-round action, a creature that rolls a result of “act normally” can attempt a new saving throw to end this effect.
+*Bewildering Touch (Su)*: Any living creature a psychic lich hits with its touch attack must succeed at a Fortitude saving throw or be permanently confused as its nervous system continuously sends false signals. The creature doesn’t automatically attack the psychic lich if it is targeted by further attacks.* Calm emotions* or any spell that can remove a curse can free the victim (see the* bestow curse* spell description) with a DC equal to the bewildering touch’s save DC. As a full-round action (3 AP), a creature that rolls a result of “act normally” can attempt a new saving throw to end this effect.
 
 **Ability Scores**: Int +2, Wis +2, Cha +2. Being undead, a psychic lich has no Constitution score.
 
@@ -1517,9 +1517,9 @@ The home of a psychic vampire looks deceptively normal, holding fresh food and o
 
 **Hit Dice**: Change all racial Hit Dice to d8s. Class Hit Dice are unaffected. As undead, psychic vampires use their Charisma modifiers to determine bonus hit points (instead of their Constitution modifiers).
 
-**Defensive Abilities**: A psychic vampire gains channel resistance +4, DR 10/cold iron and magic, and resistance to cold 10 and fire 10, in addition to all of the defensive abilities granted by the undead type. A psychic vampire also gains fast healing 5. If the psychic vampire is reduced to 0 hit points in combat, its fast healing ceases to function, and it must possess an object (see Weaknesses below) as an immediate action or be utterly destroyed. While possessing the object, it can’t use any of its supernatural abilities or exit the object. If the possessed object is destroyed while the psychic vampire possesses it, the psychic vampire is permanently destroyed. After 1 hour, the psychic vampire can exit the possessed object, regain 1 hit point, and resume healing at the rate of 5 hit points per round.
+**Defensive Abilities**: A psychic vampire gains channel resistance +4, DR 10/cold iron and magic, and resistance to cold 10 and fire 10, in addition to all of the defensive abilities granted by the undead type. A psychic vampire also gains fast healing 5. If the psychic vampire is reduced to 0 hit points in combat, its fast healing ceases to function, and it must possess an object (see Weaknesses below) as an immediate action (1 AP of your next turn) or be utterly destroyed. While possessing the object, it can’t use any of its supernatural abilities or exit the object. If the possessed object is destroyed while the psychic vampire possesses it, the psychic vampire is permanently destroyed. After 1 hour, the psychic vampire can exit the possessed object, regain 1 hit point, and resume healing at the rate of 5 hit points per round.
 
-**Weaknesses**: A psychic vampire has difficulty tolerating any vocal expressions that deny its power or authority. Any character can force a psychic vampire to recoil by dramatically defying it verbally as a standard action. This doesn’t harm the psychic vampire—it merely keeps the psychic vampire at bay. A recoiling psychic vampire must stay at least 5 feet away from an openly defiant character and can’t touch or make melee attacks against it. After 1 round, a psychic vampire can fight past its revulsion and function normally each round it succeeds at a DC 25 Will save.
+**Weaknesses**: A psychic vampire has difficulty tolerating any vocal expressions that deny its power or authority. Any character can force a psychic vampire to recoil by dramatically defying it verbally as a standard action (1 AP). This doesn’t harm the psychic vampire—it merely keeps the psychic vampire at bay. A recoiling psychic vampire must stay at least 5 feet away from an openly defiant character and can’t touch or make melee attacks against it. After 1 round, a psychic vampire can fight past its revulsion and function normally each round it succeeds at a DC 25 Will save.
 
 Reducing a psychic vampire’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see Defensive Abilities above). However, destroying an object possessed by a psychic vampire whose fast healing isn’t functioning destroys the psychic vampire forever. Repairing the object does not restore the psychic vampire.
 
@@ -1531,11 +1531,11 @@ Reducing a psychic vampire’s hit points to 0 or lower incapacitates it but doe
 
 This ability triggers only once per round, regardless of the number of attacks a psychic vampire makes.
 
-*Possession (Su)*: As a full-round action, a psychic vampire can attempt to take control of a helpless living creature’s body, as per the spell* possession* (the CL is 10th or equal to the psychic vampire’s HD, whichever is higher). A creature that successfully saves against this ability is immune to that same psychic vampire’s possession for 24 hours.
+*Possession (Su)*: As a full-round action (3 AP), a psychic vampire can attempt to take control of a helpless living creature’s body, as per the spell* possession* (the CL is 10th or equal to the psychic vampire’s HD, whichever is higher). A creature that successfully saves against this ability is immune to that same psychic vampire’s possession for 24 hours.
 
 **Special Qualities**: A psychic vampire gains the following special qualities.
 
-*Possess Object (Su)*: As a full-round action, a psychic vampire can possess an object and animate it, as per* object possession*, except the psychic vampire’s body vanishes while it’s possessing an object, as per* greater possession*. The psychic vampire can remain in control of an object indefinitely. The vampire’s presence in an object can be determined via divination spells such as* detect evil* and* detect undead*.
+*Possess Object (Su)*: As a full-round action (3 AP), a psychic vampire can possess an object and animate it, as per* object possession*, except the psychic vampire’s body vanishes while it’s possessing an object, as per* greater possession*. The psychic vampire can remain in control of an object indefinitely. The vampire’s presence in an object can be determined via divination spells such as* detect evil* and* detect undead*.
 
 *Psychic Magic (Su)*: A psychic vampire gains the psychic magic universal monster rule. The psychic vampire has a cumulative number of spells it can cast determined by its HD, with a CL equal to the psychic vampire’s HD. The psychic vampire’s PE pool is equal to its HD.
 
@@ -1656,7 +1656,7 @@ A skilled artificer can revitalize a ruined construct by jury-rigging the pieces
 
 **Weaknesses**: A recycled construct gains the following weakness.
 
-*Malfunction (Ex)*: A recycled construct that takes precision damage or extra damage from a critical hit becomes staggered for 1 round and immediately triggers a malfunction. To determine the nature of this malfunction, roll 1d10 and consult the table on page 52 (CL = the base creature’s HD; save DC = 10 + the base creature’s HD). A creature can use a move action to attempt a special Disable Device check before dealing precision damage to a recycled construct (DC = 20 + the base creature’s HD). On a success, the attacking creature can roll twice and choose the malfunction result.
+*Malfunction (Ex)*: A recycled construct that takes precision damage or extra damage from a critical hit becomes staggered for 1 round and immediately triggers a malfunction. To determine the nature of this malfunction, roll 1d10 and consult the table on page 52 (CL = the base creature’s HD; save DC = 10 + the base creature’s HD). A creature can use a move action (1 AP) to attempt a special Disable Device check before dealing precision damage to a recycled construct (DC = 20 + the base creature’s HD). On a success, the attacking creature can roll twice and choose the malfunction result.
 
 | **d10** | **Malfunction** |
 |---|---|
@@ -1796,7 +1796,7 @@ Note that while the runeslave template does make a giant more powerful (and thus
 
 **Special Attacks**: A runeslave gains the following special attack.
 
-*Arcane Surge (Su)*: Once per day as a swift action, a runeslave can gain the benefits of the spell haste for 6 rounds. Using this ability forces the giant to make an additional Fortitude save against arcane decay, even if it has already made its weekly save to resist the disease.
+*Arcane Surge (Su)*: Once per day as a swift action (1 AP), a runeslave can gain the benefits of the spell haste for 6 rounds. Using this ability forces the giant to make an additional Fortitude save against arcane decay, even if it has already made its weekly save to resist the disease.
 
 **Abilities**: Change from the base creature as follows: Str +4, Dex +2, Int –2, Wis –2, Cha –2.
 
@@ -1902,7 +1902,7 @@ Seeded creatures are not immune to charms, compulsions, and mind-affecting effec
 
 *Death Burst (Ex)*: When a seeded creature dies, it releases psychic spores. All creatures adjacent to the seeded creature are exposed to its seedborne consumption infestation (see below). Due to the spores’ psychic nature, any effect that would completely deflect gases and similar airborne hazards grants protected creatures only a +5 bonus on saving throws against exposure.
 
-*Entrapping Tendrils (Ex)*: When a seeded creature succeeds at a combat maneuver check to pin a foe, it can attempt a second combat maneuver check to tie up the foe with a tendril as a swift action. Doing so causes it to lose one of its tendril attacks as long as it is keeping a creature tied up in this way, and a seeded creature can tie up only two creatures in this way before it runs out of spare vines. Each round that a creature remains tied up in this way, it is exposed to the seeded one’s seedborne consumption until it is affected. In addition, every full day a victim remains tied up in this way is instead treated as though a month had passed for the purpose of the seedborne consumption disease. The tendrils each have hardness 5 and 10 hit points. If a creature tears free or destroys a tendril, the seeded creature regrows enough of the vines that make up its tendrils to regain its lost tendril attack after 1 minute.
+*Entrapping Tendrils (Ex)*: When a seeded creature succeeds at a combat maneuver check to pin a foe, it can attempt a second combat maneuver check to tie up the foe with a tendril as a swift action (1 AP). Doing so causes it to lose one of its tendril attacks as long as it is keeping a creature tied up in this way, and a seeded creature can tie up only two creatures in this way before it runs out of spare vines. Each round that a creature remains tied up in this way, it is exposed to the seeded one’s seedborne consumption until it is affected. In addition, every full day a victim remains tied up in this way is instead treated as though a month had passed for the purpose of the seedborne consumption disease. The tendrils each have hardness 5 and 10 hit points. If a creature tears free or destroys a tendril, the seeded creature regrows enough of the vines that make up its tendrils to regain its lost tendril attack after 1 minute.
 
 *Insidious Mind (Su)*: When a seeded one succeeds at a saving throw against a psychic charm, a compulsion, or another mind-affecting spell or spell-like ability that would otherwise affect it, its dreams infect the spellcaster’s mind, exposing him to seedborne consumption.
 
@@ -1962,11 +1962,11 @@ The shadow animal template is inherited or acquired and can be added to any livi
 
 *Shadow Bite (Su)*: The shadow animal can make one of its natural attacks through its shadow. Its reach with the selected natural attack increases by 5 feet, and a creature damaged by this natural attack must succeed at a Fortitude save (DC = 10 + half the shadow animal’s HD + the shadow animal’s Charisma modifier) or take 1 point of Strength damage in addition to the normal damage dealt.
 
-*Shadow Form (Su)*: Once per day as a standard action, the shadow animal can turn into an animate pool of darkness for up to 10 minutes. This duration need not be used at all once, but it must be used in 1-minute increments. This ability functions as per gaseous form.
+*Shadow Form (Su)*: Once per day as a standard action (1 AP), the shadow animal can turn into an animate pool of darkness for up to 10 minutes. This duration need not be used at all once, but it must be used in 1-minute increments. This ability functions as per gaseous form.
 
 *Shadow Spirit (Su)*: The shadow animal gains a +4 racial bonus on saving throws against energy drain and death effects. This ability can be selected up to two times; if this ability is selected a second time, the shadow animal instead gains immunity to energy drain and death effects.
 
-*Shadow Step (Su)*: The shadow animal can teleport up to 10 feet per Hit Die as a move action, so long as the creature starts and ends this travel in dim light or darkness. It can use this ability once every 1d4 rounds.
+*Shadow Step (Su)*: The shadow animal can teleport up to 10 feet per Hit Die as a move action (1 AP), so long as the creature starts and ends this travel in dim light or darkness. It can use this ability once every 1d4 rounds.
 
 *Spectral Attacks (Su)*: The shadow animal’s natural attacks affect incorporeal creatures as if they had the ghost touch weapon special ability.
 
@@ -1974,7 +1974,7 @@ The shadow animal template is inherited or acquired and can be added to any livi
 
 *Umbral Fast Healing (Ex)*: The shadow animal gains fast healing 1 when in areas of dim light or darkness. A shadow animal must have at least 10 HD to select this ability.
 
-*Vanish (Su)*: As a swift action, the shadow animal can vanish for 1 round as if affected by* invisibility*. Each day, it can use this ability for 1 round per Hit Die. This ability’s duration need not be used all at once, but it must be used in 1-round increments.
+*Vanish (Su)*: As a swift action (1 AP), the shadow animal can vanish for 1 round as if affected by* invisibility*. Each day, it can use this ability for 1 round per Hit Die. This ability’s duration need not be used all at once, but it must be used in 1-round increments.
 
 **Abilities**: A shadow animal gains a +4 bonus to Dexterity and Charisma and a +2 bonus to Intelligence and Wisdom.
 
@@ -2040,7 +2040,7 @@ Though the a night of battle Blood was a failure, many hobgoblins and werewolves
 
 **Special Attacks**: A silverblood lycanthrope retains all the special attacks, qualities, and abilities of the base creature. In animal or hybrid form it gains any special attacks associated with its natural weapons. A silverblood lycanthrope also gains low-light vision, scent, and the following abilities.
 
-*Change Shape (Su)*: All silverblood lycanthropes have three forms: a humanoid form, an animal form, and a hybrid form. Equipment does not meld with the new form when changing between humanoid and hybrid form, but does when changing between those forms and animal form. A silverblood lycanthrope can shift to any of its three forms as a move action. A slain silverblood lycanthrope reverts to its humanoid form, although it remains dead.
+*Change Shape (Su)*: All silverblood lycanthropes have three forms: a humanoid form, an animal form, and a hybrid form. Equipment does not meld with the new form when changing between humanoid and hybrid form, but does when changing between those forms and animal form. A silverblood lycanthrope can shift to any of its three forms as a move action (1 AP). A slain silverblood lycanthrope reverts to its humanoid form, although it remains dead.
 
 *Curse of Lycanthropy (Su)*: A silverblood lycanthrope's bite attack in animal or hybrid form infects a humanoid target with lycanthropy (Fortitude DC 15 negates). If the victim's size is not within one size category of the silverblood lycanthrope, this ability has no effect. Creatures that become lycanthropes as a result of this curse become standard afflicted lycanthropes rather than silverblood lycanthropes.
 
@@ -2151,9 +2151,9 @@ Though some scholars may argue about who exactly created the first steam-powered
 
 *Self-Destruction (Ex)*: When a steam-powered clockwork’s hit points are reduced to 10% of its total or fewer but are still above 0, the creature self-destructs on its next turn. It bursts into an explosion of metal scraps and steam that deals 1d6 points of fire and slashing damage per Hit Die the steam-powered clockwork has to creatures within the steam-powered clockwork’s natural reach (minimum 5 feet). A target can attempt a Reflex save for half damage.
 
-*Steam Blast (Ex)*: As a standard action, the steam-powered construct can release a jet of steam at a target within 30 feet. If the construct succeeds at a ranged touch attack, the jet deals 1d6 points of fire damage for every 2 Hit Dice the steam-powered construct has (minimum 1d6).
+*Steam Blast (Ex)*: As a standard action (1 AP), the steam-powered construct can release a jet of steam at a target within 30 feet. If the construct succeeds at a ranged touch attack, the jet deals 1d6 points of fire damage for every 2 Hit Dice the steam-powered construct has (minimum 1d6).
 
-*Steam Horn (Ex)*: As a standard action, the steam-powered construct can unleash a loud blast of sound and a cone of steam that deafens targets and deals 1d6 points of fire damage for every 2 Hit Dice the steam-powered construct has (minimum 1d6). A target can attempt a Fortitude save to take half damage and negate the deafened condition. Medium and smaller constructs release a 15-foot cone, Large and Huge constructs release a 30-foot cone, and Gargantuan and Colossal constructs release a 60-foot cone. This ability is usable once every 1d4 rounds.
+*Steam Horn (Ex)*: As a standard action (1 AP), the steam-powered construct can unleash a loud blast of sound and a cone of steam that deafens targets and deals 1d6 points of fire damage for every 2 Hit Dice the steam-powered construct has (minimum 1d6). A target can attempt a Fortitude save to take half damage and negate the deafened condition. Medium and smaller constructs release a 15-foot cone, Large and Huge constructs release a 30-foot cone, and Gargantuan and Colossal constructs release a 60-foot cone. This ability is usable once every 1d4 rounds.
 
 **Special Qualities**: A steam-powered clockwork loses the winding and efficient winding special qualities and gains a steam engine with a boiler instead of a clockwork winding mechanism that requires a special key. To power and move the construct, valves collect and release pressurized steam from the boiling water.
 
@@ -2234,7 +2234,7 @@ When one intentionally raises a sunbaked zombie using *animate dead*, the body t
 
 *Death Throes (Su)*: When a sunbaked zombie is destroyed, its body explodes in a burst of stale dust. Adjacent creatures must succeed at a Fortitude save or be staggered for 1d4+1 rounds. The DC is equal to 10 + 1/2 the sunbaked zombie’s Hit Dice + the sunbaked zombie’s Cha modifier. Creatures that don’t breathe are immune to this effect.
 
-*Fiery Gaze (Su)*: A sunbaked zombie’s eye sockets flicker with a small flame that gives light equivalent to that of a candle. As a standard action, a sunbaked zombie can direct its gaze against a single creature within 30 feet of it. A creature targeted must succeed at a Fortitude save or take 1d6 points of fire damage. If the sunbaked zombie has 5 or more Hit Dice, its fiery gaze deals 2d6 points of fire damage, and this damage increases by an additional 1d6 points of fire damage for every 4 additional Hit Dice the sunbaked zombie possesses. A creature damaged by this effect must succeed at a Reflex save or catch fire. Each round, a burning creature can attempt a Reflex save to quench the flames; failure results in another 1d6 points of fire damage. Flammable items worn by a creature must also save or take the same damage as the creature. If a creature is already on fire, it suffers no additional effects from a fiery gaze. The save DC is Charisma-based.
+*Fiery Gaze (Su)*: A sunbaked zombie’s eye sockets flicker with a small flame that gives light equivalent to that of a candle. As a standard action (1 AP), a sunbaked zombie can direct its gaze against a single creature within 30 feet of it. A creature targeted must succeed at a Fortitude save or take 1d6 points of fire damage. If the sunbaked zombie has 5 or more Hit Dice, its fiery gaze deals 2d6 points of fire damage, and this damage increases by an additional 1d6 points of fire damage for every 4 additional Hit Dice the sunbaked zombie possesses. A creature damaged by this effect must succeed at a Reflex save or catch fire. Each round, a burning creature can attempt a Reflex save to quench the flames; failure results in another 1d6 points of fire damage. Flammable items worn by a creature must also save or take the same damage as the creature. If a creature is already on fire, it suffers no additional effects from a fiery gaze. The save DC is Charisma-based.
 
 **Abilities**: Str +2. A sunbaked zombie has no Con or Int score, and its Wis and Cha become 10.
 
@@ -2286,7 +2286,7 @@ Vetalas are said to be the spirits of children “born evil,” who never receiv
 
 **Defensive Abilities**: A vetala gains channel resistance +4, DR 10/magic and good, and resistance to fire 10 and electricity 10, in addition to all of the defensive abilities granted by the undead type. A vetala also gains fast healing 5. If reduced to 0 hit points in combat, a vetala is helpless and its fast healing ceases to function for 1 hour. Additional damage dealt to the vetala has no effect. Its body might be subjected to any method of dismemberment or desecration, but after 1 hour—regardless of the state of its remains—it regains 1 hit point, is no longer helpless, and resumes healing at the rate of 5 hit points per round.
 
-**Weaknesses**: Vetalas cannot tolerate the sound of prayers or religious mantras recited by those truly faithful to a good deity. Any character with a good-aligned deity can force a vetala to recoil by dramatically praying as a standard action. Praying doesn’t harm a vetala; it merely keeps the creature at bay. A recoiling vetala must stay at least 5 feet away from a praying character and cannot touch or make melee attacks against it. After 1 round, a vetala can fight past its revulsion and function normally each round it succeeds at a DC 25 Will save. The prayers of those who worship non-good deities or worship no deity have no effect on a vetala.
+**Weaknesses**: Vetalas cannot tolerate the sound of prayers or religious mantras recited by those truly faithful to a good deity. Any character with a good-aligned deity can force a vetala to recoil by dramatically praying as a standard action (1 AP). Praying doesn’t harm a vetala; it merely keeps the creature at bay. A recoiling vetala must stay at least 5 feet away from a praying character and cannot touch or make melee attacks against it. After 1 round, a vetala can fight past its revulsion and function normally each round it succeeds at a DC 25 Will save. The prayers of those who worship non-good deities or worship no deity have no effect on a vetala.
 
 Reducing a vetala’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see fast healing). However, consecrating the vetala’s remains and burying the body destroys it forever. A vetala’s body is considered consecrated if it is doused with a vial of holy water and buried, if it is buried in earth affected by the spell *consecrate*, or if* bless*,* prayer*, or a similar divine spell is cast upon it as it is being buried. Digging up a vetala’s corpse or profaning the area where it’s buried does not restore a buried vetala.
 
@@ -2298,11 +2298,11 @@ Reducing a vetala’s hit points to 0 or lower incapacitates it but doesn’t al
 
 *Drain Prana (Su)*: A vetala can drain the mental vitality of a grappled opponent. If the vetala establishes or maintains a pin, it drains this energy, dealing 1d4 points of Charisma damage. Additionally, the victim is affected by the spell* modify memory*, as if the vetala had spent 5 minutes concentrating. The vetala gains perfect knowledge of any memory it chooses to eliminate using this ability. Vetalas often use this ability to prevent victims from remembering they’ve been attacked.
 
-*Malevolence (Su)*: As a full-round action, a vetala can attempt to take control of a helpless living creature’s body, as the spell* magic jar *(caster level 10th or the vetala’s Hit Dice, whichever is higher), except that it does not require a receptacle. The target can resist the attack with a successful Will save. A creature that successfully saves is immune to that same vetala’s possession for 24 hours. If a creature fails its save, its consciousness and control of its body are subsumed as the vetala takes command of its body. The vetala can remain in control for a number of hours equal to its Charisma modifier or until it decides to end the possession. Whenever the possession ends or the host body is killed, the vetala’s consciousness instantly returns to its body, regardless of distance, so long as it remains on the same plane. If the vetala’s body has been destroyed or moved to another plane, the vetala’s consciousness is destroyed when the possession ends. While possessing another creature, the vetala’s body is empty and vulnerable, though it is instantly aware if its body is disturbed or takes damage.
+*Malevolence (Su)*: As a full-round action (3 AP), a vetala can attempt to take control of a helpless living creature’s body, as the spell* magic jar *(caster level 10th or the vetala’s Hit Dice, whichever is higher), except that it does not require a receptacle. The target can resist the attack with a successful Will save. A creature that successfully saves is immune to that same vetala’s possession for 24 hours. If a creature fails its save, its consciousness and control of its body are subsumed as the vetala takes command of its body. The vetala can remain in control for a number of hours equal to its Charisma modifier or until it decides to end the possession. Whenever the possession ends or the host body is killed, the vetala’s consciousness instantly returns to its body, regardless of distance, so long as it remains on the same plane. If the vetala’s body has been destroyed or moved to another plane, the vetala’s consciousness is destroyed when the possession ends. While possessing another creature, the vetala’s body is empty and vulnerable, though it is instantly aware if its body is disturbed or takes damage.
 
 *Paralysis (Ex)*: Any creature struck by a vetala’s claws must make a successful Will save or be paralyzed 1 for 1d4+1 rounds. Elves are immune to this effect.
 
-*Possess Corpse (Su)*: As a full-round action, a vetala can possess a Large or smaller corpse just as it can a living body. The vetala’s consciousness leaves its body and takes control of the corpse, animating it as either a skeleton or zombie (depending on its state of decay). The vetala can remain in control of a corpse indefinitely, and can communicate through the body, but cannot use any of its other special abilities. This ability otherwise functions just as malevolence.
+*Possess Corpse (Su)*: As a full-round action (3 AP), a vetala can possess a Large or smaller corpse just as it can a living body. The vetala’s consciousness leaves its body and takes control of the corpse, animating it as either a skeleton or zombie (depending on its state of decay). The vetala can remain in control of a corpse indefinitely, and can communicate through the body, but cannot use any of its other special abilities. This ability otherwise functions just as malevolence.
 
 **Ability Scores**: Str +4, Dex +2, Int +4, Wis +2, Cha +6. As an undead creature, a vetala has no Constitution score.
 
@@ -2348,7 +2348,7 @@ Most magical wasteland mutants collaborate in small tribal groups with other mut
 
 *Acidic Pustules (Ex)*: magical wasteland mutants are often covered in necrotic pustules that burst at the slightest touch. Whenever a creature deals piercing or slashing damage to a magical wasteland mutant, all creatures adjacent to the magical wasteland mutant must succeed at a Ref lex save (DC = 10 + 1/2 the magical wasteland mutant’s Hit Dice + the magical wasteland mutant’s Constitution modifier) or take acid damage as its boils and blisters pop and spray about. A magical wasteland mutant deals an amount of acid damage in this way based on its size (1d4 points of acid damage for a Medium magical wasteland mutant, 1d6 for a Large mutant, and so on).
 
-*Breath Weapon (Ex)*: A magical wasteland mutant can spray a 30-foot cone of acidic bile from its mouth as a standard action once every 1d4 rounds. The acid damage caused by this attack is equal to 1d6 per two Hit Dice the mutant possesses. A successful Ref lex save (DC = 10 + 1/2 the Magic-Wasteland mutant’s Hit Dice + the Magic-Wasteland mutant’s Constitution modifier) halves any damage taken from this attack.
+*Breath Weapon (Ex)*: A magical wasteland mutant can spray a 30-foot cone of acidic bile from its mouth as a standard action (1 AP) once every 1d4 rounds. The acid damage caused by this attack is equal to 1d6 per two Hit Dice the mutant possesses. A successful Ref lex save (DC = 10 + 1/2 the Magic-Wasteland mutant’s Hit Dice + the Magic-Wasteland mutant’s Constitution modifier) halves any damage taken from this attack.
 
 *Disease (Su)*: Even though magical wasteland mutants are immune to disease, they carry a deadly magical contagion that they spread with their slam attacks.* Mana fever*: injury;* save *Fort DC = 10 + 1/2 the magical wasteland mutant’s Hit Dice + the magical wasteland mutant’s Constitution modifier;* onset *1d4 minutes;* frequency *1/day;* effect *1d2 Con damage, 1d2 Cha drain (or 1d3 Con damage, 1d3 Cha drain if the base creature has 8 HD or more);* cure *2 consecutive saves. Anyone who lives with mana fever for a week straight without dying becomes immune to the disease, but also becomes a magical wasteland mutant.
 

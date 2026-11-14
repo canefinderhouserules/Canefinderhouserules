@@ -49,7 +49,7 @@ At 1st level, and at every 2 levels thereafter, a sworn guard chooses a guard de
 
 ##### Alert Guardian (Ex)
 
-A sworn guard with this dedication can enter a rage as an immediate action, and can do so even when [flat-footed](../../rules/appendices/conditions.md#flat-footed) or during a surprise round in which she cannot otherwise act.
+A sworn guard with this dedication can enter a rage as an immediate action (1 AP of your next turn), and can do so even when [flat-footed](../../rules/appendices/conditions.md#flat-footed) or during a surprise round in which she cannot otherwise act.
 
 ##### Clothed in Civilization (Ex)
 
@@ -93,11 +93,11 @@ At 2nd level, if the sworn guard fails a saving throw against a charm or compuls
 
 #### Adaptable Guardian (Ex)
 
-At 4th level, the sworn guard can change her chosen ally during a rage as a move action. At 8th level, the sworn guard can change her chosen ally as a swift action.
+At 4th level, the sworn guard can change her chosen ally during a rage as a move action (1 AP). At 8th level, the sworn guard can change her chosen ally as a swift action (1 AP).
 
 #### Tight Follower (Ex)
 
-At 6th level, if the sworn guard is within 10 feet of her chosen ally and the ally moves more than 10 feet away from her, the sworn guard can move up to her speed as an immediate action so long as she ends the movement within 10 feet of her chosen ally.
+At 6th level, if the sworn guard is within 10 feet of her chosen ally and the ally moves more than 10 feet away from her, the sworn guard can move up to her speed as an immediate action (1 AP of your next turn) so long as she ends the movement within 10 feet of her chosen ally.
 
 #### Reactive Strike (Ex)
 

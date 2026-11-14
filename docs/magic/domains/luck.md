@@ -4,9 +4,9 @@
 
 ***Granted Powers**: You are infused with luck, and your mere presence can spread good fortune.*
 
-*Bit of Luck (Sp): You can touch a willing creature as a standard action (Or Move action spending 3 uses), giving it a bit of luck. For the next round, any time the target rolls a d20, he may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Bit of Luck (Sp): You can touch a willing creature as a standard action (1 AP) (Or Move action (1 AP) spending 3 uses), giving it a bit of luck. For the next round, any time the target rolls a d20, he may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-*Good Fortune (Ex): At 4th level, as an immediate action, you can reroll any one d20 roll (or d100 too) you have just made. You must take the result of the reroll, even if it's worse than the original roll. You can use this ability once per day at 4th level, and one additional time per day for every three cleric levels beyond 4th.*
+*Good Fortune (Ex): At 4th level, as an immediate action (1 AP of your next turn), you can reroll any one d20 roll (or d100 too) you have just made. You must take the result of the reroll, even if it's worse than the original roll. You can use this ability once per day at 4th level, and one additional time per day for every three cleric levels beyond 4th.*
 
 ***Domain Spells**: 1st—true strike, 2nd—aid, 3rd—protection from energy, 4th—freedom of movement, 5th—break enchantment, 6th—mislead, 7th—spell turning, 8th—moment of prescience, 9th—miracle.*
 
@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the bit of luck power of the Luck domain.*
 
-*Malign Eye (Su): As a standard action (Or move action spending 3 uses), you can afflict one target within 30 feet with your malign eye, causing it to take a –2 penalty on all saving throws against your spells. The effect lasts for 1 minute or until the target hits you with an attack. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.*
+*Malign Eye (Su): As a standard action (1 AP) (Or move action (1 AP) spending 3 uses), you can afflict one target within 30 feet with your malign eye, causing it to take a –2 penalty on all saving throws against your spells. The effect lasts for 1 minute or until the target hits you with an attack. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—bane, 3rd—bestow curse, 6th—eyebite.*
 
@@ -30,7 +30,7 @@
 
 ***Replacement Power**: The following granted power replaces the good fortune power of the Luck domain.*
 
-*Tugging Strands (Su): At 4th level, as an immediate action, you can force a creature within line of sight to reroll any one roll that it has just made. The result of the reroll must be taken, even if it is worse than the original roll. You can use this ability once per day at 4th level, and one additional time per day for every 3 levels beyond 4th.*
+*Tugging Strands (Su): At 4th level, as an immediate action (1 AP of your next turn), you can force a creature within line of sight to reroll any one roll that it has just made. The result of the reroll must be taken, even if it is worse than the original roll. You can use this ability once per day at 4th level, and one additional time per day for every 3 levels beyond 4th.*
 
 ***Replacement Domain Spells**: 2nd—augury, 3rd—borrow fortune.*
 

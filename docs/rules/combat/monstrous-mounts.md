@@ -38,4 +38,4 @@ The following creatures can be chosen as animal companions or mounts by a charac
 
 **4th-Level Advancement**: AC +2 natural armor; Attack bite (1d8 plus trip); Ability Scores Str +2, Con +2.
 
-**Mastery (7th Level)**: Once per day as a standard action, the worg can make a fearful howl. This functions as the fear cone (30 ft.) version of the fear universal monster rule.
+**Mastery (7th Level)**: Once per day as a standard action (1 AP), the worg can make a fearful howl. This functions as the fear cone (30 ft.) version of the fear universal monster rule.

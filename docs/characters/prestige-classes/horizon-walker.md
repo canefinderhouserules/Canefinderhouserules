@@ -53,7 +53,7 @@ At 1st level, a horizon walker may select a favored terrain from the ranger Favo
 
 #### Terrain Mastery
 
-At 2nd level, a horizon walker selects a favored terrain to master. When within this terrain the horizon walker may, as a move action, grant a +2 bonus on [Climb](../../rules/skills/climb.md), [Stealth](../../rules/skills/stealth.md), [Perception](../../rules/skills/perception.md) and [Survival](../../rules/skills/survival.md) checks made by all allies within 30 feet who can see and hear him. This bonus lasts for a number of rounds equal to the horizon walker’s Wisdom modifier (minimum 1). The character masters one additional terrain at 4th, 6th, and 8th levels.
+At 2nd level, a horizon walker selects a favored terrain to master. When within this terrain the horizon walker may, as a move action (1 AP), grant a +2 bonus on [Climb](../../rules/skills/climb.md), [Stealth](../../rules/skills/stealth.md), [Perception](../../rules/skills/perception.md) and [Survival](../../rules/skills/survival.md) checks made by all allies within 30 feet who can see and hear him. This bonus lasts for a number of rounds equal to the horizon walker’s Wisdom modifier (minimum 1). The character masters one additional terrain at 4th, 6th, and 8th levels.
 
 Mastery of each terrain has additional benefits, outlined below; these benefits apply to the horizon walker at all times whether or not he is in the relevant terrain.
 
@@ -107,7 +107,7 @@ The horizon walker gains a +4 competence bonus on [Swim](../../rules/skills/swim
 
 ##### Plane, aligned
 
-If the horizon walker selects a plane with an alignment trait, he can choose to detect as that alignment (fooling all forms of magic divination) as an immediate action; this benefit lasts until he dismisses it (a free action).
+If the horizon walker selects a plane with an alignment trait, he can choose to detect as that alignment (fooling all forms of magic divination) as an immediate action (1 AP of your next turn); this benefit lasts until he dismisses it (a free action).
 
 ##### Swamp
 

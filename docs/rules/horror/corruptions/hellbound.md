@@ -50,7 +50,7 @@ Horns grow upon your brow.
 
 You have the mark of a fiend on your body.
 
-**Gift**: You gain a 1st-level sorcerer/wizard or witch spell of your choice as a spell-like ability usable a number of times per day equal to your manifestation level. It must not have a casting time longer than 1 standard action or a material or focus component costing more than 1 gp.
+**Gift**: You gain a 1st-level sorcerer/wizard or witch spell of your choice as a spell-like ability usable a number of times per day equal to your manifestation level. It must not have a casting time longer than 1 standard action (1 AP) or a material or focus component costing more than 1 gp.
 
 **Stain**: Your devil’s mark manifests on your body. It can’t be hidden by magic, but can be hidden by clothing or other mundane means. Anyone who sees the mark automatically recognizes it as unnatural.
 
@@ -86,7 +86,7 @@ The maw of Hell yawns wide to welcome you.
 
 **Prerequisite**: Manifestation level 3rd.
 
-**Gift**: You can step through Hell to reach other places once per hour. As a full-round action, you can choose a direction, then teleport 2d10 × 5 feet away in that direction (or the nearest safe, unoccupied location). You can use this ability once per minute at manifestation level 6th, and at will at manifestation level 8th.
+**Gift**: You can step through Hell to reach other places once per hour. As a full-round action (3 AP), you can choose a direction, then teleport 2d10 × 5 feet away in that direction (or the nearest safe, unoccupied location). You can use this ability once per minute at manifestation level 6th, and at will at manifestation level 8th.
 
 **Stain**: You register as lawful evil as well as your own alignment to effects that reveal alignments. This alignment aura is strong, as if you were a lawful evil cleric. You are treated as an extraplanar lawful evil outsider with the devil subtype by abjurations that protect against such creatures.
 

@@ -12,7 +12,7 @@ On command, the hands and feet of this armor’s wearer become incredibly sticky
 
 ### Balanced
 
-This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 bonus to his Combat Maneuver Defense against combat maneuvers made to overrun or trip and on Acrobatics check made to maintain balance. Dropping prone while wearing *balanced* armor is a move action instead of a free action. The *balanced* ability can be applied to light or medium armors, but not heavy armors or shields.
+This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 bonus to his Combat Maneuver Defense against combat maneuvers made to overrun or trip and on Acrobatics check made to maintain balance. Dropping prone while wearing *balanced* armor is a move action (1 AP) instead of a free action. The *balanced* ability can be applied to light or medium armors, but not heavy armors or shields.
 
 *Faint transmutation; CL 5th; Craft Magic Arms and Armor, cat’s grace; Price +1 bonus.*
 
@@ -20,7 +20,7 @@ This armor pushes back against anything that threatens to knock its wearer to th
 
 This armor exudes an exceptionally vile and bitter taste whenever something bites or swallows a creature that is wearing it. Any creature that grapples the wearer with a bite attack (or any other attack using the mouth) must succeed at a DC 14 Fortitude save to avoid immediately ending the grapple.
 
-If the wearer is swallowed whole, the swallowing creature must succeed at a DC 14 Fortitude save at the start of each turn that the armored victim remains alive inside of the creature or become nauseated 1 for 1 round. The creature may vomit up the victim as a standard action. This is a poison effect.
+If the wearer is swallowed whole, the swallowing creature must succeed at a DC 14 Fortitude save at the start of each turn that the armored victim remains alive inside of the creature or become nauseated 1 for 1 round. The creature may vomit up the victim as a standard action (1 AP). This is a poison effect.
 
 *Faint transmutation; CL 5th; Craft Magic Arms and Armor, stinking cloud; Price +1 bonus.*
 
@@ -32,7 +32,7 @@ Anytime the wearer of *bolstering* armor damages a creature with a melee or rang
 
 ### Clangorous
 
-A shield with this ability rings loudly when struck in combat. As an immediate action when the wearer is hit by an attack, the wearer can activate the shield to create a deafening bang equivalent to a thunderstone. If the attack is a critical hit, the wearer can instead create a *sound burst* (Fortitude DC 13 partial). The wearer decides the area for either effect, but must include the attacker in the area. Neither ability affects the wearer.
+A shield with this ability rings loudly when struck in combat. As an immediate action (1 AP of your next turn) when the wearer is hit by an attack, the wearer can activate the shield to create a deafening bang equivalent to a thunderstone. If the attack is a critical hit, the wearer can instead create a *sound burst* (Fortitude DC 13 partial). The wearer decides the area for either effect, but must include the attacker in the area. Neither ability affects the wearer.
 
 *Moderate evocation; CL 7th; Craft Magic Arms and Armor, deafness, sound burst; Price +1 bonus.*
 
@@ -62,7 +62,7 @@ Armor with this special ability grants the wearer a burrow speed of 10 feet. Thi
 
 ### Expeditious
 
-Three times per day as a swift action, the wearer of *expeditious* armor can summon a burst of speed and gain a +10-foot enhancement bonus on all modes of movement for 1 round. This ability can be applied to any kind of armor, but not shields.
+Three times per day as a swift action (1 AP), the wearer of *expeditious* armor can summon a burst of speed and gain a +10-foot enhancement bonus on all modes of movement for 1 round. This ability can be applied to any kind of armor, but not shields.
 
 *Faint transmutation; CL 5th; Craft Magic Arms and Armor, expeditious retreat; Price +4,000 gp.*
 
@@ -96,7 +96,7 @@ This armor special ability still works on bonded magical beasts that were once a
 
 ### Martyring
 
-This armor allows the wearer to capitalize on her own injuries to heal her allies. Once per day as an immediate action, when an enemy confirms a critical hit against someone wearing *martyring* armor, the wearer can heal up to nine allies within 30 feet as if using the *mass cure light wounds* spell (1d8+9 hit points each). This special ability cannot be placed on armor that possesses an ability that reduces the chance of or negates a critical hit (such as the *fortification* special ability).
+This armor allows the wearer to capitalize on her own injuries to heal her allies. Once per day as an immediate action (1 AP of your next turn), when an enemy confirms a critical hit against someone wearing *martyring* armor, the wearer can heal up to nine allies within 30 feet as if using the *mass cure light wounds* spell (1d8+9 hit points each). This special ability cannot be placed on armor that possesses an ability that reduces the chance of or negates a critical hit (such as the *fortification* special ability).
 
 *Moderate conjuration; CL 9th; Craft Magic Arms and Armor, mass cure light wounds; Price +18,000 gp.*
 
@@ -180,7 +180,7 @@ Armor with this special ability is often engraved or enameled with lawful religi
 
 ### Warding
 
-Once per day as an immediate action, the wearer of *warding* armor can activate it to end all active challenge, judgment, and smite abilities affecting her. This does not prevent opponents from selecting her as a target for these abilities in the future. As a swift action, the wearer can expend one of her own challenge, judgment, or smite abilities to refresh the armor’s ability to end these attacks.
+Once per day as an immediate action (1 AP of your next turn), the wearer of *warding* armor can activate it to end all active challenge, judgment, and smite abilities affecting her. This does not prevent opponents from selecting her as a target for these abilities in the future. As a swift action (1 AP), the wearer can expend one of her own challenge, judgment, or smite abilities to refresh the armor’s ability to end these attacks.
 
 *Strong abjuration; CL 12th; Craft Magic Arms and Armor, atonement; Price +1 bonus.*
 
@@ -332,7 +332,7 @@ Rather than the hide of a cat, this extremely supple suit of jet-black *+1 shado
 **Aura** faint transmutation; **CL** 5th  
 **Price** 11,160 gp; **Weight** 15 lbs.
 
-This *+1 slick leather armor* is made of shining, slippery eelskin that allows the wearer to move with deadly grace and sudden swiftness, especially underwater. When immersed in water, *enchanted eelskin* gains the *shadow* property and grants the wearer a swim speed of 30 feet and the ability to breathe water. In addition, during a surprise round the wearer can act as if she had a full round of actions, rather than a single standard action, as long as those actions do not require leaving the water. If she does leave the water, her surprise round turn immediately ends.
+This *+1 slick leather armor* is made of shining, slippery eelskin that allows the wearer to move with deadly grace and sudden swiftness, especially underwater. When immersed in water, *enchanted eelskin* gains the *shadow* property and grants the wearer a swim speed of 30 feet and the ability to breathe water. In addition, during a surprise round the wearer can act as if she had a full round of actions, rather than a single standard action (1 AP), as long as those actions do not require leaving the water. If she does leave the water, her surprise round turn immediately ends.
 
 **Construction** Craft Magic Arms and Armor, *grease*, *invisibility*, *touch of the sea*; **Cost** 5,660 gp
 
@@ -341,7 +341,7 @@ This *+1 slick leather armor* is made of shining, slippery eelskin that allows t
 **Aura** moderate transmutation; **CL** 9th  
 **Price** 10,650 gp; **Weight** full plate 50 lbs., banded mail 35 lbs., barding 70 lbs.
 
-Shined to a mirror finish, this suit of *+2 full plate* is decorated with gold inlay. As a move action when the wearer is mounted, the plates of the armor expand and reposition to protect the wearer’s mount. In this form, the armor becomes a suit of *+2 banded mail* for the wearer and a suit of *+1 banded mail barding* worn by the mount. A second move action merges it back into *+2 full plate*. *Equestrian plate* cannot transform and protect a mount more than one size larger than its wearer or a creature that cannot wear barding. It can create exotic barding, however, such as for a griffon or dragon.
+Shined to a mirror finish, this suit of *+2 full plate* is decorated with gold inlay. As a move action (1 AP) when the wearer is mounted, the plates of the armor expand and reposition to protect the wearer’s mount. In this form, the armor becomes a suit of *+2 banded mail* for the wearer and a suit of *+1 banded mail barding* worn by the mount. A second move action (1 AP) merges it back into *+2 full plate*. *Equestrian plate* cannot transform and protect a mount more than one size larger than its wearer or a creature that cannot wear barding. It can create exotic barding, however, such as for a griffon or dragon.
 
 If extra enhancements or spells are placed upon *equestrian plate* in full plate form, they affect only the wearer’s armor when the suit is split. Effects on the barding are suppressed when it is merged into the armor. If either suit of armor is broken while separated, the other half immediately gains the broken condition as well. Destroying one suit destroys the other as well.
 
@@ -363,7 +363,7 @@ A barbarian with fiend totem rage powers gains additional benefits from *hamatul
 **Aura** strong abjuration; **CL** 13th  
 **Price** 137,650 gp; **Weight** 50 lbs.
 
-*Invincible armor* shifts between three different appearances, but always weighs the same and protects as *+2 impervious moderate fortification full plate*. As an immediate action, the wearer can change the armor into heavy plate that blocks slashing attacks (DR 10/bludgeoning or piercing), thickly layered chainmail that blocks piercing attacks (DR 10/ bludgeoning or slashing), or overlapping metal scales that block bludgeoning attacks (DR 10/piercing or slashing). In addition, *invincible armor* provides the wearer with 5 points of resistance to acid, cold, electricity, fire, and sonic, and is itself unharmed by damage from any of these energy types.
+*Invincible armor* shifts between three different appearances, but always weighs the same and protects as *+2 impervious moderate fortification full plate*. As an immediate action (1 AP of your next turn), the wearer can change the armor into heavy plate that blocks slashing attacks (DR 10/bludgeoning or piercing), thickly layered chainmail that blocks piercing attacks (DR 10/ bludgeoning or slashing), or overlapping metal scales that block bludgeoning attacks (DR 10/piercing or slashing). In addition, *invincible armor* provides the wearer with 5 points of resistance to acid, cold, electricity, fire, and sonic, and is itself unharmed by damage from any of these energy types.
 
 **Construction** Craft Magic Arms and Armor, *fabricate*, *make whole*, *resist energy*, and *limited wish* or *miracle*; **Cost** 69,650 gp
 
@@ -405,7 +405,7 @@ The wearer gains a +2 competence bonus on saves against disease, poison, and any
 **Aura** strong abjuration; **CL** 13th  
 **Price** 160,650 gp; **Weight** 50 lbs.
 
-This resplendent suit of *+3 full plate* shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action, the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of *prismatic plate* is struck by a *prismatic spray*, or when he passes through a *prismatic sphere* or *prismatic wall*, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection. 
+This resplendent suit of *+3 full plate* shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action (1 AP), the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of *prismatic plate* is struck by a *prismatic spray*, or when he passes through a *prismatic sphere* or *prismatic wall*, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection. 
 
 | Color | Effect |
 |---|---|
@@ -426,7 +426,7 @@ This resplendent suit of *+3 full plate* shimmers and shifts between all the col
 
 This *+3 breastplate* is crafted from the carapace of a giant scarab beetle, enchanted to be as hard and reflective as polished steel. The wearer suffers only half damage from vermin swarms and gains a +2 resistance bonus on saving throws against the extraordinary abilities of vermin swarms.
 
-In addition, once per day on command, the wearer can transform the *scarab breastplate* into a swarm of scarab beetles that skitter from her chest to attack creatures nearby. This swarm has statistics identical to an army ant swarm and attacks any creatures within its space. The wearer can command the swarm to move (including changing the shape of the swarm) as a move action, but the swarm must remain adjacent to her. If the swarm is reduced to 0 hit points, if the wearer is forced to move away from the swarm, or if the wearer commands it to return to her as a move action, the swarm crawls back onto the wearer’s torso and returns to armor form. While the swarm is active, the wearer is not considered to be wearing the *scarab breastplate* (except for purposes of commanding the swarm) and gains no defensive benefits from it.
+In addition, once per day on command, the wearer can transform the *scarab breastplate* into a swarm of scarab beetles that skitter from her chest to attack creatures nearby. This swarm has statistics identical to an army ant swarm and attacks any creatures within its space. The wearer can command the swarm to move (including changing the shape of the swarm) as a move action (1 AP), but the swarm must remain adjacent to her. If the swarm is reduced to 0 hit points, if the wearer is forced to move away from the swarm, or if the wearer commands it to return to her as a move action (1 AP), the swarm crawls back onto the wearer’s torso and returns to armor form. While the swarm is active, the wearer is not considered to be wearing the *scarab breastplate* (except for purposes of commanding the swarm) and gains no defensive benefits from it.
 
 A druid of 6th level wearing a *scarab breastplate* can use her wild shape ability to duplicate *vermin shape I*. At 8th level, she can also use it to duplicate *vermin shape II*.
 
@@ -439,9 +439,9 @@ A druid of 6th level wearing a *scarab breastplate* can use her wild shape abili
 
 The *warden of the woods* is a suit of *+3 greenwood splint mail* made of strips of laminated greenwood that flex with the wearer’s movement but stiffen when struck in battle. This armor is treated in all ways like medium armor, including when determining proficiency. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +2, and an armor check penalty of –4.
 
-As a move action, the wearer can snap a strip of wood loose from the armor. The strip lengthens into a weapon of a type chosen by the armor’s wearer. It can become a *+1 greenwood club*, a *+1/+1 greenwood quarterstaff*, or a *+1 keen greenwood wooden stake*. If the wearer creates a club or quarterstaff in this way, it gains the benefits of the *shillelagh* spell with a duration of 1 minute. Each weapon removed from the *warden of the woods* reduces the armor’s enhancement bonus by 1. Consequently, a maximum of three such weapons can be separated from the armor at any given time. The greenwood weapons keep their enhancement bonuses only while they’re in the wearer’s hands, though they remain masterwork weapons for other wielders.
+As a move action (1 AP), the wearer can snap a strip of wood loose from the armor. The strip lengthens into a weapon of a type chosen by the armor’s wearer. It can become a *+1 greenwood club*, a *+1/+1 greenwood quarterstaff*, or a *+1 keen greenwood wooden stake*. If the wearer creates a club or quarterstaff in this way, it gains the benefits of the *shillelagh* spell with a duration of 1 minute. Each weapon removed from the *warden of the woods* reduces the armor’s enhancement bonus by 1. Consequently, a maximum of three such weapons can be separated from the armor at any given time. The greenwood weapons keep their enhancement bonuses only while they’re in the wearer’s hands, though they remain masterwork weapons for other wielders.
 
-The wearer can reintegrate a weapon back into the *warden of the woods* as a move action and restore the lost enhancement bonus. Each day at dawn, the armor regenerates any missing strips (regaining its full enhancement bonus), and any weapons still detached from the armor crumble into dust.
+The wearer can reintegrate a weapon back into the *warden of the woods* as a move action (1 AP) and restore the lost enhancement bonus. Each day at dawn, the armor regenerates any missing strips (regaining its full enhancement bonus), and any weapons still detached from the armor crumble into dust.
 
 **Construction** Craft Magic Arms and Armor, *ironwood*, *shillelagh*, *wood shape*; **Cost** 14,850 gp
 
@@ -490,7 +490,7 @@ This *+3 light wooden shield* acts in all ways like a *caster’s shield*, but t
 **Aura** moderate transmutation; **CL** 6th  
 **Price** 8,170 gp; **Weight** 15 lbs.
 
-Three times per day, this *+2 heavy steel shield* can be commanded to transform into a *+2 tower shield*. It can stay in tower shield form for 1 minute or until it is commanded to take its normal form again (a swift action). A *collapsible tower*’s weight does not change when it takes tower shield form.
+Three times per day, this *+2 heavy steel shield* can be commanded to transform into a *+2 tower shield*. It can stay in tower shield form for 1 minute or until it is commanded to take its normal form again (a swift action (1 AP)). A *collapsible tower*’s weight does not change when it takes tower shield form.
 
 **Construction** Craft Magic Arms and Armor, *shrink item*; **Cost** 4,170 gp
 
@@ -533,7 +533,7 @@ The device of this *+1 bashing heavy steel shield* features a magical image of t
 **Aura** strong abjuration; **CL** 14th  
 **Price** 36,155 gp; **Weight** 15 lbs.
 
-Once per round as an immediate action, this *+3 arrow deflection buckler* can be used to block an incoming melee attack. When used in this way, the buckler’s enhancement bonus increases by +2 against that attack. The buckler’s user must decide to use this ability before the attack roll is made. When the shield’s user blocks a melee attack in this way, it cannot use its *arrow deflection* special ability for 1 round.
+Once per round as an immediate action (1 AP of your next turn), this *+3 arrow deflection buckler* can be used to block an incoming melee attack. When used in this way, the buckler’s enhancement bonus increases by +2 against that attack. The buckler’s user must decide to use this ability before the attack roll is made. When the shield’s user blocks a melee attack in this way, it cannot use its *arrow deflection* special ability for 1 round.
 
 **Construction** Craft Magic Arms and Armor, *shield*; **Cost** 18,155 gp
 
@@ -542,7 +542,7 @@ Once per round as an immediate action, this *+3 arrow deflection buckler* can be
 **Aura** strong abjuration; **CL** 15th  
 **Price** 25,180 gp; **Weight** 15 lbs.
 
-This *+2 spell resistance (13) tower shield* grants a +4 resistance bonus on Reflex saving throws against spells and spell-like abilities. Once per day, when the wearer succeeds at a saving throw against a spell or spell-like ability that allows a Reflex saving throw for half damage, she may spend an immediate action to instead take no damage from that spell or spell-like ability.
+This *+2 spell resistance (13) tower shield* grants a +4 resistance bonus on Reflex saving throws against spells and spell-like abilities. Once per day, when the wearer succeeds at a saving throw against a spell or spell-like ability that allows a Reflex saving throw for half damage, she may spend an immediate action (1 AP of your next turn) to instead take no damage from that spell or spell-like ability.
 
 **Construction** Craft Magic Arms and Armor, *cat’s grace*, *spell resistance*; **Cost** 12,680 gp
 
