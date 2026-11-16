@@ -571,6 +571,37 @@ A set of armor with this quality is riddled with thin crystalline tubes that app
 
 ## Wild Talents
 
+
+### Accelerated Cognition
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+You can force your mind to work at incredible speeds as a full-round action (3 AP), treating yourself as though under the effect of a *haste* spell as well as granting you a competence bonus to Perception checks equal to 1/2 your kineticist level for 1 round per 3 kineticist levels you possess. You can accept 1 point of burn to use this ability as a swift action (1 AP).
+
+### Additional Allies
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Prerequisite(s)** psychic persuasion or smooth negotiator
+
+You know how to keep more than one foe under your control, being able to have 1 additional creature affected by your psychic persuasion or smooth negotiator wild talents per 6 kineticist levels you possess.
+
+### Aetheric Sniper
+
+**Element(s)** aether; **Type** utility (Su); **Level** 3; **Burn** --
+
+**Prerequisite(s)** telekinetic invisibility
+
+When using a kinetic blast while under the effects of your telekinetic invisibility wild talent, you can remain invisible for 1 additional round before your invisibility ends. When sniping while invisible, you only suffer a -10 penalty to your Stealth check to remain hidden instead of -20.
+
+### All in Your Head
+
+**Element(s)** mind; **Type** utility (Su); **Level** 2; **Burn** --
+
+**Prerequisite(s)** mindlink
+
+You can increase the burn cost of a mind-element kinetic blast by 1 to feed its effects directly into its targets’ minds. The blast appears directly in the targeted space rather than traveling to it, its visual or audio effects cannot be perceived by those unaffected by it other than yourself, and it is considered an illusion (phantasm), allowing a Will save to disbelieve equal to the blast’s normal DC (10 + Constitution mod + 1/2 kineticist level). If a creature makes their save to disbelieve the phantasm, they are unaffected by the kinetic blast.
+
 ### Amnesia Infusion
 
 **Associated Blast(s):** encephalon, false reality, mental.
@@ -597,9 +628,63 @@ You scramble a foe’s ability to understand any communication. A foe dealt dama
 
 This infusion treats those hit as if affected by *arbitrament*, as the spell, using the kineticist’s level as their caster level. This infusion costs double for kineticists of an alignment other than neutral, and chaotic evil, chaotic good, lawful evil, and lawful good kineticists are *sickened* for 1d4 rounds after using this infusion.
 
+### Basic Cryokinesis
+
+**Element(s)** water; **Type** utility (Su); **Level** 1; **Burn** --
+
+**Prerequisite(s)** cold blast
+
+You focus more strongly on your ability to manipulate ice and snow than water in its liquid state. You receive a bonus to your natural armor equal to 1 + 1/5 your kineticist level and can use *create water* at will, but it instead conjures an equivalent amount of ice. You also receive a circumstance bonus on damage rolls equal to 1 + 1/5 your kineticist level on your cold blast, ice blast, and any composite blast for which cold blast or ice blast is a prerequisite when using them against creatures of the fire subtype and when used in cold temperatures and frigid environments.
+
+If you would gain basic hydrokinesis, you can choose to gain this wild talent instead. You cannot learn basic hydrokinesis without possessing water blast, and if you possess basic hydrokinesis at the time you gain this wild talent, you lose it and any wild talents for which basic hydrokinesis is a prerequisite. You also cannot learn water blast unless you already possess cold blast, and if you already possess water blast when you gain this wild talent, it is replaced by cold blast (this could also affect which composite blasts are available to you).
+
+### Basic Electrokinesis
+
+**Element(s)** air; **Type** utility (Su); **Level** 1; **Burn** --
+
+**Prerequisite(s)** electric blast
+
+Unlike the typical aerokineticist, you focus much more on your control over electricity. You receive a competence bonus equal to 3 + 1/2 your kineticist level on Disable Device checks against technological objects, and a circumstance bonus on damage rolls equal to 1 + 1/5 your kineticist level on your electric blast, thunderstorm blast, and any composite blast for which electric blast or thunderstorm blast is a prerequisite when using them against creatures of the aquatic or water subtypes or creatures equipped with metal armor, holding metal objects, or at least partially composed of metal.
+
+If you would gain basic aerokinesis, you can choose to gain this wild talent instead. You cannot learn basic aerokinesis without possessing air blast, and if you possess basic aerokinesis at the time you gain this wild talent, you lose it and any wild talents for which basic aerokinesis is a prerequisite. You also cannot learn air blast unless you already possess electric blast, and if you already possess air blast when you gain this wild talent, it is replaced by electric blast (this could affect which composite blasts are available to you).
+
 ### Basic Neurokinesis
 
 You have learned the basics of neurokinesis, gaining Telepathy (as the universal monster ability) with a range of 5 feet as well as the ability to grant yourself a +2 bonus on any Intelligence-based skill check as a move action (1 AP). You are also always aware of if a creature has failed a save against one of your mind wild talents.
+
+### Blinded Mind’s Eye
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You can hide your presence from 1 creature per 2 kineticist levels you possess as per *hidden presence*.
+
+### Briarthorn Overgrowth
+
+**Element(s)** wood; **Type** utility (Su); **Level** 5; **Burn** --
+
+**Prerequisite(s)** verdant overgrowth, wood blast
+
+**Saving Throw** Reflex negates; **Spell Resistance** no
+
+Creatures affected by your verdant overgrowth or grasping overgrowth are also dealt damage equal to 1/4 the damage of your wood blast at the end each turn during which they are entangled or grappled by it. You can designate a number of creatures up to your Constitution modifier to be immune to this effect, and each such creature is treated as having greensight 30 feet, as the universal monster ability.
+
+### Brutal Club
+
+**Element(s)** wood; **Type** utility (Sp); **Level** 1; **Burn** 0
+
+You can enhance the power of a club or quarterstaff you possess. This functions as *shillelagh*, except it only lasts 1 minute, can only affect a weapon made entirely of wood or plant matter, and wielding this weapon does not interfere with your ability to use gather power or kinetic blasts.
+
+At 9th level, you can accept one additional point of burn to give the affected weapon the *conductive*UE weapon ability, but this only functions with wood-element kinetic blasts; you can use a physical blast this way, treating it as a touch attack of its normal range (though targets of a physical blast delivered this way still use their normal AC). You can also accept 1 additional point of burn to treat the weapon as an additional size category larger. Both of these abilities can be used simultaneously.
+
+### Cantikinesis, Greater
+
+**Element(s)** universal; **Type** utility (Su); **Level** 4; **Burn** --
+
+**Prerequisite(s)** improved cantikinesis
+
+You learn the composite blasts associated with the simple kinetic blast gained through improved cantikinesis and any kinetic blasts you possess, and any blasts learned through this wild talent or through improved cantikinesis can receive the benefits of a Perform check made with their use, providing a maximum competence bonus of +2. When used to perform a blast of your primary element or a composite blast which includes your primary element, instead reduce the DC of cantikinesis’s effect by 5 and double its competence bonus.
 
 ### Cerebral Empowerment
 
@@ -610,6 +695,45 @@ You enhance your concentration on a simple blast, increasing its damage die by o
 **Notes**
 
 - Ultimate added the Aura.
+
+### Cerebral Manipulation
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 5; **Burn** 1
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You can remove or implant memories into a creature’s mind as
+per false belief
+
+### Combat Traitor
+
+**Element(s)** mind; **Type** utility (Su); **Level** 2; **Burn** --
+
+**Prerequisite(s)** psychic persuasion
+
+You can increase the burn cost of psychic persuasion by 1 to use it as a swift or immediate action (1 AP of your next turn), and creatures do not gain a +5 to their saves if they are being threatened or attacked by you or your allies while under the effects of your psychic persuasion.
+
+### Composite Versatility
+
+**Element(s)** universal; **Type** utility (Sp); **Level** 4; **Burn** 1
+
+You pour extra power into your composite blasts, allowing them to act in unusual ways. When you select this wild talent, choose a composite blast you possess; until the next time you recover burn, you can use any infusion with that composite blast that could be used with its prerequisite blasts (for example, burning infusion with summer blast). If that blast instead requires a particular expanded element (such as ice blast) it can instead use any infusion of its element(s).
+
+### Composite Versatility, Improved
+
+**Element(s)** universal; **Type** utility (Sp); **Level** 7; **Burn** 0
+
+**Prerequisite(s)** composite versatility
+
+You expand one of your composite blasts’ potential to unseen levels. Choose a composite blast you possess to which you’ve applied composite versatility; for 1 round per 5 kineticist levels you possess, you can use that blast with any infusion you know, increasing the blast’s burn cost by 1 for each infusion it couldn’t ordinarily take to do so. This wild talent can only be used once per day.
+
+### Continuous Regrowth
+
+**Element(s)** viscera or wood; **Type** utility (Su); **Level** 5; **Burn** --
+
+**Prerequisite(s)** flesh of wood or reactive skin
+
+While your flesh of wood or reactive skin is active, you have fast healing 1. This increases by 1 for each point of burn you possess. If you receive fire, cold, negative energy, or slashing damage, this ability is negated for 1 minute. This ability can only heal you up to 1/2 of your maximum hit points.
 
 ### Countering Infusion
 
@@ -632,6 +756,12 @@ Your blast can fill a target with lust. A foe dealt damage by this infusion is m
 **Notes**
 
 - Ultimate added false reality blast.
+
+### Death Energy
+
+**Element(s)** void; **Type** utility (Su); **Level** 4; **Burn** --
+
+You can treat the corpse of a creature you have killed with a void wild talent within 120 feet as the point of origin of another void wild talent. Once it has been used as the point of origin for a void wild talent or 10 minutes per kineticist level you possess have passed since its death, the corpse can no longer be used this way.
 
 ### Dehydrating Blast
 
@@ -695,6 +825,32 @@ Your blast causes doubt within a foe, making them less adept at dealing damage. 
 
 - Ultimate added false reality blast.
 
+### Dual Telekinetic Control
+
+**Element(s)** aether; **Type** utility (Su); **Level** 1; **Burn** --
+
+**Prerequisite(s)** telekinetic blast
+
+You can use your telekinetic blast with two objects simultaneously. This has no effect on the blast’s damage, and their combined weight cannot exceed the normal weight limit for telekinetic blast. The objects must remain within the same space as one another for the duration of the blast, and if thrown, must be thrown at the same target, but can otherwise be moved individually.
+
+If you would gain basic telekinesis, you can choose to gain this wild talent in its place.
+
+### Eclectic Knowledge
+
+**Element(s)** mind; **Type** utility (Su); **Level** 2; **Burn** --
+
+**Prerequisite(s)** esoteric knowledge
+
+You receive one additional skill rank whenever you gain a kineticist level; skill ranks gained through this wild talent can only be placed in skills associated with a mental score. Skill ranks are granted retroactively upon taking this wild talent. Cerebral kineticists, overwhelming souls, psychokineticists, and kineticists with the intelligent mutation treat this as a universal wild talent.
+
+### Elemental Airstrike
+
+**Element(s)** air, earth, fire, or water; **Type** utility (Sp); **Level** 7; **Burn** 1
+
+**Prerequisite(s)** spark of life
+
+You can summon a number of elementals from the sky as per *elemental bombardment*MO. The elementals you can summon must match your element (air or electric for air, earth for earth, fire for fire, and ice or water for water).
+
 ### Empathetic Surge
 
 **Associated Blast(s):** encephalon, false reality, mental.
@@ -729,6 +885,14 @@ Your blast causes an even larger area of mental damage. Treat this as empathetic
 
 - Ultimate added false reality blast.
 
+### Empowered Chain
+
+**Element(s)** air; **Type** utility (Su); **Level** 7; **Burn** --
+
+**Prerequisite(s)** chain infusion
+
+Each time you make a ranged attack roll against a target of chain infusion beyond the first, you can accept 1 point of burn. If you do and you hit the new target, you do not reduce the number of damage dice as normal against that target. This wild talent cannot be used if the number of damage dice has already been reduced by chain infusion.
+
 ### Empty Infusion
 
 **Associated Blast(s):** Any.
@@ -745,6 +909,80 @@ You can exert greater control over a creature’s mind. This blast is a mind-aff
 
 - Ultimate added the Aura.
 
+### Enduring Control
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisite(s)** psychic persuasion
+
+Whenever the duration of your psychic persuasion ends, any creature who would no longer be under its effect must make a Will save with a +2 bonus. Failing this save extends the duration of the ability by 10 minutes per 2 kineticist levels you possess. You can accept 1 point of burn when a creature fails their save as an immediate action (1 AP of your next turn) to instead extend the duration of the ability by 1 hour per 2 kineticist levels you possess, and you are always aware when your psychic persuasion is ending. Each time a creature would make a save against this effect, they gain a cumulative +1 bonus for each save it previously failed. You cannot use this ability when the duration of your psychic persuasion would end due to using it against another creature.
+
+### Esoteric Knowledge
+
+**Element(s)** mind; **Type** utility (Su); **Level** 1; **Burn** --
+
+Select one Knowledge skill; you are treated as though you had a number of ranks in that Knowledge skill equal to your kineticist level if that amount is greater than the number of actual ranks in that skill you possess. You can accept 1 point of burn to change your selected Knowledge skill to a different Knowledge skill. If you do so, you can switch your selected Knowledge skill and your original Knowledge skill as a swift action (1 AP) until you recover burn, returning to your initial Knowledge skill at that time. You can select this talent a second time at 10th level.
+
+Cerebral kineticists, overwhelming souls, psychokineticists, and kineticists with the intelligent mutation may treat this as a universal wild talent.
+
+### Eternal Domination
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 9; **Burn** 0
+
+**Prerequisite(s)** psychic enslavement
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+Your mental domination has reached its pinnacle. Select one creature affected by your psychic persuasion. The effect of your psychic persuasion on it is now permanent and works even if you and the target are on different planes, requiring a *wish* or *miracle* spell to end its effect. You can end this effect as a full-round action (3 AP), severing any mental control you have over the target. This effect is treated as an extraordinary ability for the purpose of working inside areas where magic does not function. This is a compulsion effect.
+
+### Expanded Telepathy
+
+**Element(s)** mind; **Type** utility (Su); **Level** 1; **Burn** --
+
+**Prerequisite(s)** basic neurokinesis
+
+Your mind can link with those further away, increasing the range of the telepathy provided by your basic neurokinesis by 10 feet per 2 kineticist levels you possess.
+
+### Fast Fall
+
+**Element(s)** void; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+**Saving Throw** Reflex negates; **Spell Resistance** yes
+
+As an immediate action (1 AP of your next turn), you can increase the fall damage a falling foe would take by 1d6 per 3 kineticist levels you possess, to a maximum of 26d6 total fall damage. You can accept 1 point of burn to also force them to succeed a Fortitude save or become stunned for 1 round.
+
+### Featherweight
+
+**Element(s)** void; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+You can reduce the effects of gravity upon yourself for 1 minute per kineticist level you possess, treating yourself as though you were 1/10th your weight and under the effects of 1/2 gravity.
+
+You also treat any distance you fall as half as far for the purpose of determining falling damage.
+
+### Featherweight, Improved
+
+**Element(s)** void; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Prerequisite(s)** featherweight
+
+You can choose to have your featherweight also affect a number of allies within 60 feet equal to your Constitution modifier.
+
+### Flash of Amnesia
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You know how to alter the short term memory of others as a full-round action (3 AP), allowing you to erase up to the last minute of memories from a creature.
+
+### Flood Psyche
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 5; **Burn** 1
+
+**Saving Throw** Will disbelief; **Spell Resistance** yes
+
+You can flood the surrounding area with a wash of psychic energy, treating it as *mind fog*.
+
 ### Gorgon Gaze
 
 **Associated Blast(s):** antimatter, crystal, crystalline, darklight, earth, encephalon, false reality, fossilized, mental, negative, positive, shatterstorm, tundra.
@@ -755,11 +993,191 @@ You can concentrate your blast through a piercing gaze. You gain a gaze attack f
 
 - Ultimate added the Earth, Void, and Wood elements, as well as various changes to associated blasts.
 
+### Grant Sentience
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 8; **Burn** 1
+
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes
+
+You can imbue non-sentient beings with a mind, affecting the target as if with an *awaken* spell. This ability can affect only plants, animals, and vermin with an Intelligence score of 2 or lower, and can affect them even if they are mindless. This ability ignores immunity to mind-affecting effects.
+
+### Grasping Overgrowth
+
+**Element(s)** wood; **Type** utility (Sp); **Level** 6; **Burn** 0
+
+**Prerequisite(s)** verdant overgrowth
+
+**Saving Throw** Reflex negates; **Spell Resistance** no
+
+Treat this as verdant overgrowth except that at the end of each round a creature spends inside the area of your verdant overgrowth, they must make a Reflex save or be treated as grappled by the plant life as per *black tentacles*. A creature can end this grapple by dealing 2 points of slashing or energy damage per kineticist level you possess to the plant life in their square (AC 5).
+
+### Gravitic Adaptation
+
+**Element(s)** void; **Type** utility (Su); **Level** 2; **Burn** --
+
+You are able to adapt to any gravity, being able to treat it as normal gravity.
+
+### Gravitic Density
+
+**Element(s)** void; **Type** utility (Su); **Level** 2; **Burn** --
+
+Your own size is effectively increased due to the compression of gravity upon you, treating you as a creature of one size larger than yourself for the purpose of your CMB, CMD, and how wind affects you (your actual size is unaffected). At 10th level, you can treat yourself as a creature of two sizes larger than yourself, up to a maximum of Colossal.
+
+### Gravitic Freedom
+
+**Element(s)** void; **Type** utility (Su); **Level** 3; **Burn** --
+
+You can control how gravity affects you, treating yourself as though under the effects of a subjective gravity plane.
+
+### Gravitic Freedom, Improved
+
+**Element(s)** void; **Type** utility (Sp); **Level** 6; **Burn** 0
+
+**Prerequisite(s)** gravitic freedom
+
+You can grant the effects of your gravitic freedom to a number of allies within 60 feet equal to your Constitution modifier for 1 minute per kineticist level you possess.
+
+### Guided Ricochet
+
+**Element(s)** universal; **Type** utility (Su); **Level** 4; **Burn** --
+
+**Prerequisite(s)** ricochet or chain infusion
+
+Each time you choose an additional target for a kinetic blast with the ricochet or chain infusion, the blast receives a +1 bonus to its attack roll against the new target; this bonus is cumulative with the chain infusion (for example, you receive a +2 bonus against the third target of the blast, a +3 bonus against the fourth, and so on).
+
+### Habitual Liar
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You force a creature to lie whenever it speaks for 10 minutes per kineticist level you possess as per the *compulsive liar* spell. You can accept 1 point of burn to also treat the target as though under the effects of *deceitful veneer*. This is a compulsion effect.
+
+### Haphephobia
+
+**Element(s)** mind, poison, or viscera; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+Your targets become either incredibly scared of or highly discomforted by the slightest physical contact. For 1 minute per 2 kineticist levels you possess, they cannot deliver effects or abilities by touching or making touch attacks (such as the paladin’s lay on hands or the chill touch spell) or perform unarmed strikes or natural attacks unless they first succeed a Will save with this talent’s DC to allow them to do so that round, and harmless effects and abilities targeting them that require a touch must pass their touch AC as if made as a melee touch attack, or have no effect. This doesn’t affect touch attacks delivered without making direct contact (such as ranged touch attacks, or melee touch attacks made with a *conductive* weapon). You can accept 1 point of burn to increase the duration to 1 day per kineticist level. This is a fear effect if used as a mind wild talent, a poison effect if used as a poison wild talent, or a pain effect if used as a viscera wild talent.
+
+### Heavy Hand
+
+**Element(s)** void; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+When selecting this wild talent, choose between *gravity bow* and *lead blades*. You are treated as under the effects of the chosen spell for 1 minute. You can accept 1 point of burn to use this as a swift action (1 AP). This wild talent can be selected twice, but you cannot be under both effects from this talent simultaneously.
+
+### Historical Erasure
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 9; **Burn** 1
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You can wipe all memory of an individual or event from the minds of others. This functions as *damnation of memory* except you can choose a number of creatures up to your Constitution modifier to be unaffected, and the memories are stored within your own mind (being returned to affected creatures only if you die). Only one use of this ability can be in effect at a time; if you use this wild talent again, all memories lost from the previous use of the ability will return to each affected target within 1d4 hours.
+
+### Hivemind
+
+**Element(s)** mind; **Type** utility (Su); **Level** 3; **Burn** --
+
+**Prerequisite(s)** basic neurokinesis
+
+All creatures within the range of the telepathy granted by your basic neurokinesis also gain telepathy with the same range as your own. Whenever a creature enters the range of your telepathy, you can choose to exclude them from this effect.
+
+### Hivemind, Greater
+
+**Element(s)** mind; **Type** utility (Su); **Level** 6; **Burn** 1
+
+**Prerequisite(s)** improved hivemind
+
+Until the next time you recover burn, you have access to all teamwork feats possessed by every non-mindless creature within range of the telepathy granted by your basic neurokinesis (even those excluded from your hivemind), and can share those feats with your allies with improved hivemind. In addition, those who have gained telepathy through your hivemind are treated as having the hivemind wild talent as well, except you can exclude creatures from receiving their telepathy and they cannot include creatures you have chosen to exclude.
+
+### Hivemind, Improved
+
+**Element(s)** mind; **Type** utility (Su); **Level** 4; **Burn** --
+
+**Prerequisite(s)** hivemind
+
+You have access to all teamwork feats possessed by allies affected by your hivemind as if you possessed those feats. You can accept 1 point of burn and choose one teamwork feat you possess (including those known through this ability) plus an additional one per 5 kineticist levels you possess; for one minute, any allies affected by your hivemind can access the feat(s) you chose as if they possessed them.
+
+### Horticultural Animation
+
+**Element(s)** wood; **Type** utility (sp); **Level** 7; **Burn** 0
+
+You can give sentience to plants for a short amount of time, as per *animate plants*, although you cannot use the entangle option with this ability. You can accept 1 point of burn to increase the duration of this ability to 1 minute per kineticist level you possess. You can only have one use of this ability in effect at a single time, and using it again while the previous plants are still animated causes all previously affected plants to revert back to normal.
+
+### Hostile Flora
+
+**Element(s)** wood; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Prerequisite(s)** wood blast
+
+**Saving Throw** Fortitude negates (see text); **Spell Resistance** no
+
+You can target plant life within 30 feet to be the point of origin of a wood kinetic blast. Doing so forces the plant to make a Fort save using your blast’s DC; failing this causes it to take damage equal to the minimum your blast would deal, while succeeding it causes your blast to fail, wasting your action. Plants created by you can ignore this save. If you possess the merciful foliage utility wild talent, you can choose for plants to not make the save or take damage, instead automatically becoming the point of origin of your blast, and if you possess the extended range or extreme range infusion wild talents, you can target plant life within 120 feet and 480 feet respectively.
+
+### Hostile Woodwork
+
+**Element(s)** wood; **Type** utility (Su); **Level** 4; **Burn** --
+
+**Prerequisite(s)** hostile flora
+
+You can use wooden structures and objects, including weapons, armor, or shields, as the point of origin of kinetic blasts through your hostile flora ability. Magic equipment cannot be targeted for this purpose unless you possess at least 3 times the object’s enhancement bonus in kineticist levels, and you add the object’s enhancement bonus as a circumstance bonus to your blast’s damage rolls. Unless an object used this way is unattended, its owner can attempt a Fort save as per hostile flora in the object’s stead, even if you possess merciful flora and attempt to use this wild talent without damaging the object being used as the point of origin; succeeding this check causes your kinetic blast to fail. Constructs made of wood can attempt a save against this effect as well, using their Will instead of their Fort.
+
+### Hypochondria
+
+**Element(s)** mind, poison, or viscera; **Type** utility (Su); **Level** 5; **Burn** --
+
+**Prerequisite(s)** haphephobia
+
+Victims of your haphephobia wild talent are sickened for 1 round whenever they successfully use or are affected by an action that would trigger haphephobia. If they were already sickened when they successfully use an action that would trigger haphephobia, you can accept 1 point of burn as an immediate action (1 AP of your next turn) to intensify their phobia or pain, causing them to become nauseated for a number of rounds equal to 1/2 your Constitution modifier (minimum 1) and sickened for the same duration once the nauseated condition is removed. This is a fear effect if used as a mind wild talent, a poison effect if used as a poison wild talent, or a pain effect if used as a viscera wild talent.
+
+### Implant Dream
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 1
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You are capable of implanting a thought into a creature’s dreams. You can implant up to 25 words into a creature’s subconscious which it will hear the next time it sleeps. The way it hears and interprets these words is up to the target, as you have no control over how these words will manifest in their dream.
+
+### Implant Dream, Improved
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Prerequisite(s)** implant dream
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+This works as implant dream, except you can make the target entirely aware of the intent behind your words, choosing a form for them to see that will speak your message in clear terms. You can also create it as a nightmare, forcing the target to succeed a Will save or gain no benefit from resting for the next 24 hours. If used as a nightmare, this is a fear effect.
+
 ### Keen Blast
 
 **Associated Blast(s):** any piercing or slashing physical.
 
 You shape your blast so that its edge is incredibly sharp. Blasts you use that deal piercing and/or slashing damage have their critical range doubled (normally to 19-20). You can increase the burn cost of this infusion by 1 to triple their critical range instead (normally to 18- 20). These benefits do not apply to blasts that don’t deal either piercing or slashing damage, and do not stack with other effects that increase critical range (such as the Improved Critical feat). This does not count toward your normal limit of substance infusions per kinetic blast, but cannot be used in conjunction with crushing blast.
+
+### Kinetic Lich
+
+**Element(s)** viscera or void; **Type** utility (Sp); **Level** 9; **Burn** see text
+
+**Prerequisite(s)** living humanoid of an evil alignment
+
+You can perform a ritual that transfers your soul into a separate vessel. To begin this you must first imbue an appropriate container (costing 9,000 gp per kineticist level) with your kinetic power, accepting 5 burn and sacrificing a newborn humanoid in the process. After this, you must concentrate on the vessel without resting, accepting 1 additional burn every 12 hours spent to do so; you cannot use battle burn to pay this cost. If you remain conscious for 3 days while doing this, kinetic energy surges from you into the vessel, turning it into a phylactery and killing you in the process. Make a DC 30 Will save at this time; succeeding revives you in the form of a kinetic lich.
+
+A kinetic lich gains undead traits and loses their Constitution score, instead adding that amount -10 to their Charisma; in addition they substitute Charisma for any kineticist class features requiring Constitution, and when they are reduced to 0 hit points, they are instantly teleported to a space adjacent to their phylactery and revived with 1 hit point.
+
+Failing the Will save causes your body to instantly rot into ash, and your consciousness to be trapped inside the vessel. You cannot be revived in this form through any means unless the phylactery is destroyed by transporting it to the Positive Energy Plane (or a similar plane), whereupon the negative energy used in its creation is neutralized.
+
+You cannot replace this wild talent in any way once it is gained. Blood kineticists can take this wild talent as if it was a universal wild talent.
+
+### Life After Undeath
+
+**Element(s)** aether, light, mind, or wood; Level 1; Type utility (Su); Burn --
+
+**Prerequisite(s)** undead type with humanoid shape
+
+Your kinetic power awakened just a little bit later than it does in most. You count as either humanoid with a subtype of your choice or as outsider (native) for the purpose of how spells and abilities affect you (though options are at GM discretion) and can change your alignment to any one of your choosing at the time this wild talent is gained, but retain your undead type (as well as any decomposition you suffered during your undeath) permanently, being treated as a positive-energy-powered undead. You lose all of your undead traits except for immunity to bleed, disease, and sleep, and you do not need to breathe, eat, or sleep to survive. You are healed by both positive and negative energy. If you had no Intelligence score before taking this wild talent, you gain 2d6+6 Intelligence. You do not gain a Constitution score if you didn’t have one, instead using your Charisma in its place to calculate your hit points, Fortitude save, and any abilities to which Constitution would normally apply (such as kinetic blast damage); if you did have a Constitution score, you still use it as normal.
+
+If you would gain basic neurokinesis, basic photokinesis, basic phytokinesis, or basic telekinesis, you can choose to gain this wild talent instead. However, you can only choose to gain this wild talent at 1st level, and you cannot replace it in any way once it is gained.
 
 ### Lingering Darkness
 
@@ -770,6 +1188,14 @@ Your blast transforms itself into a baneful shadow that clings to the target. If
 **Notes**
 
 - Ultimate added various changes to associated blasts.
+
+### Lingering Energy
+
+**Element(s)** universal; **Type** utility (Sp); **Level** 5; **Burn** 1
+
+**Prerequisite(s)** any energy blast
+
+As an immediate action (1 AP of your next turn) when you reduce a creature’s hit points to 0 or lower with an energy kinetic blast, you can have your blast’s energy linger around them until the end of your next turn. During that time, the next creature that touches it is treated as if it was hit by the same kinetic blast (without form infusions applied), receiving a Reflex save to avoid the blast outright as well as a +5 bonus to saves against any infusions that were applied to that blast if it hits them. This wild talent can only affect one creature at a time.
 
 ### Lobotomizing Infusion
 
@@ -791,6 +1217,24 @@ Your blast overloads a target’s mind, causing them to seize up. A foe dealt da
 
 - Ultimate added the Air element, as well as various changes to associated blasts.
 
+### Magnetic Chain
+
+**Element(s)** air; **Type** utility (Su); **Level** 7; **Burn** --
+
+**Prerequisite(s)** chain, magnetic infusion
+
+**Saving Throw** Fort negates
+
+Each time you choose an additional target for a kinetic blast with the chain infusion and the attack hits, the creature becomes linked to the previously hit target by a lingering rope of electricity. Once you’ve finished selecting targets, each target beyond the first must succeed a Fort save against the blast’s DC or else is drawn toward the object or creature it was linked to in the order the targets were hit, moving them up to 5 feet per 5 kineticist levels you possess.
+
+### Mania/Phobia
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** no
+
+You know how to trigger intense fear or fascination inside of a creature’s mind. Select a single substance or object such as but not limited to fire, water, blood, acid, darkness, insects and spiders, incorporeal creatures, or nature to become the object of the target’s mania or phobia as per the madness affliction mania/phobia. This mania or phobia last until cured normally, and you can accept 1 burn while using this ability to replace the normal Will save for a mania or phobia with the Will save for this wild talent. If you select phobia for this, this is treated as a fear effect.
+
 ### Mental Blast
 
 You assault your foe with pure psionic energy. This blast is a mind-affecting effect, and as such does not work against mindless creatures or creatures otherwise protected against mind-affecting effects.
@@ -799,9 +1243,87 @@ You assault your foe with pure psionic energy. This blast is a mind-affecting ef
 
 - Ultimate added the Aura.
 
+### Mental Erasure
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You’re capable of burning away a target’s mind as per the *mindwipe* spell, although you can only apply a maximum number of negative levels to a creature equal to 1/2 your kineticist level with this ability.
+
 ### Mental Fortress
 
 Your mind is a bastion, privy to none but yourself. Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action (1 AP of your next turn) before suffering the effects of it. If you do so, you are dazed for 1 round.
+
+### Mesmerizing Suggestion
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 1
+
+When you select this wild talent, select 1 mesmerist trick as per the mesmerist class feature. Whenever you use this wild talent, you gain a number of uses of the chosen mesmerist trick equal to your Constitution modifier (minimum 1), being able apply it to yourself as if using the mesmerist tricks class feature. Use your kineticist levels and Constitution modifier in place of mesmerist levels and Charisma modifier to determine the Dcs for and effects of tricks gained this way. You can not implant this trick into another creature.
+
+### Mesmerizing Suggestion, Greater
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 7; **Burn** 0
+
+**Prerequisite(s)** improved mesmerizing suggestion
+
+You learn one additional mesmerist trick and one masterful trick which you can implant through mesmerizing suggestion. In addition, you can accept an additional 1 point of burn when implanting a trick to allow it to remain implanted even when activated, lasting until you next recover burn; this increases to 2 points of burn if this is used with a masterful trick, and cannot be used with a trick that grants temporary hit points or heals damage.
+
+### Mesmerizing Suggestion, Improved
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Prerequisite(s)** mesmerizing suggestion
+
+You learn one additional mesmerist trick which you can implant through mesmerizing suggestion. You can also implant a number of tricks into other creatures as per the mesmerist tricks class feature, and can activate them if those creatures are within range of your telepathy (if you do not have telepathy, you must touch a creature to trigger an implanted trick). Each time you use mesmerizing suggestion, you can implant 1 additional trick per 4 kineticist levels you possess.
+
+### Mind Break
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 7; **Burn** 1
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+Your psychic powers can destroy a creature’s mind as per the *insanity* spell.
+
+### Mind Reader
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+**Prerequisite(s)** basic neurokinesis
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You can delve into the mind of a single creature within the range of the telepathy granted by your basic neurokinesis, otherwise acting as per the *detect thoughts* spell. At 6th level and every 4 levels after, you can detect the thoughts of an additional creature.
+
+### Mind Reader, Improved
+
+**Element(s)** mind; **Type** utility (Su); **Level** 4; **Burn** --
+
+**Prerequisite(s)** mind reader
+
+Your mind reader talent can also be used as *detect anxieties* and *detect desires* and detect the thoughts of one additional creature.
+
+### Mind’s Eye
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisite(s)** basic neurokinesis
+
+As a move action (1 AP), you gain blindsense equal to the distance of the telepathy granted by your neurokinesis for 1 round per 2 kineticist levels you possess. You can accept 1 point of burn to increase the duration to 1 minute per 2 kineticist levels you possess. This blindsense cannot detect creatures without an Intelligence score or those immune to mind-affecting effects.
+
+### Mind’s Eye, Improved
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 6; **Burn** 0
+
+**Prerequisite(s)** expanded telepathy, mind’s eyes
+
+As a move action (1 AP), you gain blindsight equal to the distance of the telepathy granted by your basic neurokinesis for 1 round per 2 kineticist levels you possess, closing your eyes to do so. You can accept 1 point of burn to increase the duration to 1 minute per 2 kineticist levels you possess. This blindsight cannot detect creatures without an Intelligence score or those immune to mind-affecting effects.
+
+### Mindlink
+
+**Element(s)** mind; **Type** utility (Su); **Level** 1; **Burn** --
+
+You can detect the emotional state of those around you. You treat any creature within 100 feet as if they had the a familiar’s empathic link ability, except they cannot sense your emotions in return. Any creature made aware of this effect can attempt a Will save (DC = 10 + 1/2 your kineticist level + your Con modifier) once per round as a swift action (1 AP) that requires concentration to break the link for 24 hours.
 
 ### Mobile Blast, Improved
 
@@ -816,6 +1338,14 @@ This functions as mobile blast except it can travel as far as 120 feet from you 
 **Associated Blast(s):** any physical blast that deals at least two types of damage.
 
 The matter your blasts create is amorphous, sometimes even intangible. When applying this infusion to a blast, choose between bludgeoning, piercing, or slashing. If the infused blast would deal that type of damage, all of its damage is dealt as whatever other type(s) the blast could normally do instead. You can accept an additional 1 point of burn to remove a second type of physical damage. If this infusion would remove all damage types from a blast, it deals nonlethal untyped damage. If a blast deals only energy damage as a result of this infusion, it is still considered a physical blast for all purposes.
+
+### No Filter
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+**Saving Throw** Will negates (see text); **Spell Resistance** yes
+
+As long as you maintain concentration on a target within 120 feet and they remain within line of effect, they become unable to hold their thoughts in. They automatically fail any Bluff, Diplomacy, or Sleight of Hand attempt they make to deceive or hide the truth from another creature unless they also succeed a Will save (DC = 10 + your kineticist level). If you possess the mindlink wild talent, you can accept 1 point of burn as a swift action (1 AP) when you sense negative emotions toward another creature to compel the affected creature to blurt out those thoughts unless they succeed an additional Will save (DC = 20 + your kineticist level). Creatures that have taken a vow of silence receive a +10 circumstance bonus to these saves, and this ability cannot affect creatures with animal intelligence. This is a compulsion effect.
 
 ### Numbness
 
@@ -865,6 +1395,14 @@ You sow the seeds of doubt into a foe’s mind. A foe dealt damage by this infus
 
 - Ultimate added false reality blast.
 
+### Perfect Disguise
+
+**Element(s)** light or mind; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You are capable of drawing out the memories of a creature to create a disguise as per the *assumed likeness* spell. You can accept 1 burn to increase the duration of this ability to 1 hour per kineticist level you possess or to double the effects of your chosen emotion. This is a phantasm effect.
+
 ### Persistent Infusion
 
 **Associated Blast(s):** antimatter, autumn, bioelectric, blizzard, bone, charnel, chilled bone, chlorophyll, cold, crystal, crystalline, earth, forge, fossilized, great oak, ice, junk, magma, metal, mud, nano, nightshade, petrolic, pollutic, radiation, rust, sandstorm, spring, subzero, summer, venus, verdant, winter, wood.
@@ -874,6 +1412,20 @@ Your kinetic blasts leave behind residual chunks of energy or matter that last f
 **Notes**
 
 - This infusion was added to the Machine Element and Viscera Element and its relevant associated blasts in Ultimate Kineticist Compendium.
+
+### Piercing Thoughts
+
+**Element(s)** mind; **Type** utility (Su); **Level** 3; **Burn** --
+
+You are adept at breaking through barriers to someone’s mind. If a creature receives any bonuses to their Will save which specifically protect against mind-affecting effects (such as from *mind blank* or reifying infusion), ignore an amount of the sum of those bonuses equal to 1 per 3 kineticist levels you possess (minimum 1) when affecting a creature with a mind wild talent (for example, a 9th level kineticist could treat a creature under the effects of *mind blank* as receiving a +5 bonus to mind-affecting spells and effects rather than +8).
+
+### Predicted Maneuvers
+
+**Element(s)** mind; **Type** utility (Su); **Level** 1; **Burn** --
+
+**Prerequisite(s)** basic neurokinesis
+
+When you ready any mind wild talent against a specific type of attack action or combat maneuver, increase its DC by +1. This bonus increases by +1 at 5th level and every 5 levels thereafter. If a kinetic blast is readied this way (including one used as part of an attack, such as kinetic blade), you can apply this bonus to its attack roll(s) instead.
 
 ### Psychic Connection
 
@@ -896,6 +1448,80 @@ Treat this as the psychic connection infusion, except the effect lasts until the
 **Notes**
 
 - Ultimate added false reality blast.
+
+### Psychic Duelist
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 2; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You know how to draw people into mental combat as per the *instigate psychic duel* spell.
+
+### Psychic Enslavement
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 6; **Burn** --
+
+**Prerequisite(s)** psychic persuasion
+
+Your psychic persuasion can now function as *dominate person* or *dominate animal* with a duration of 10 minutes per kineticist level you possess. At 18th level, you can instead treat it as *dominate monster*. You can accept 1 point of burn to increase the duration to 2 hours per kineticist level you possess. This is a compulsion effect.
+
+### Psychic Hotline
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 7; **Burn** 1
+
+**Prerequisite(s)** psychic connection
+
+As a full-round action (3 AP), you can treat a creature affected by your psychic connection as the point of origin of a mind wild talent you use as part of this ability. You are not required to accept additional burn to have a wild talent used in this way affect creatures other than the one affected by your psychic connection.
+
+### Psychic Network
+
+**Element(s)** mind; **Type** utility (Su); **Level** 5; **Burn** --
+
+**Prerequisite(s)** psychic connection
+
+You can affect one additional creature with your psychic connection per 6 kineticist levels you possess. When you target one of these creatures with a mind wild talent through psychic connection, you can accept 1 point of burn at will to have that talent affect an additional creature affected by your psychic connection. Burn accepted this way to use a kinetic blast cannot be reduced through gather power.
+
+### Psychic Persuasion
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 1; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You know how to persuade others as per *charm person* or *charm animal*, although the duration is reduced to 10 minutes per kineticist level you possess. At 6th level you can instead treat this as *charm monster*. You can accept 1 point of burn to increase the duration to 1 hour per kineticist level you possess, and can end this effect as a free action. You can only have one creature affected by this ability at a time; attempting to use it on another creature while this ability is in effect instantly ends the effect on the previously charmed creature. This is a charm effect.
+
+### Psycho Crush
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 7; **Burn** 1
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You know how to mentally cripple a foe, breaking their mind as per the *feeblemind* spell.
+
+### Psychosomatic Calamity
+
+**Element(s)** mind, or light and poison; **Type** utility (Su); **Level** 7; **Burn** --
+
+**Prerequisite(s)** psychosomatic malady
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+By accepting 1 additional point of burn when using your psychosomatic malady, you can use it on a new creature without removing the condition from the previously afflicted creatures, allowing you to simultaneously affect a number of creatures equal to 1 + 1 per 2 kineticist levels you possess.
+
+### Psychosomatic Malady
+
+**Element(s)** mind, or light and poison; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You know how to trick the mind into believing the body is affected with some debilitating condition as per *phantasmal affliction*. You can only affect one creature at a time with this ability, and afflicting a new creature removes the condition from the previously afflicted creature. If used as a light and poison wild talent, you can only select the poison or wasting options. This is a phantasm effect.
+
+### Rapid Regrowth
+
+**Element(s)** viscera or wood; **Type** utility (Su); **Level** 7; **Burn** --
+
+**Prerequisite(s)** continuous regrowth
+
+Instead of fast healing, your continuous regrowth wild talent grants an equal amount of regeneration (cold, fire), as the universal monster ability, and is not negated by negative energy or slashing damage. This wild talent cannot be taken by creatures without a Constitution score and can only heal you up to 3/4 of your maximum hit points.
 
 ### Reifying Infusion
 
@@ -923,6 +1549,22 @@ Your blast can scramble the signals in a foe’s brain. A foe dealt damage by th
 
 - Ultimate added false reality blast.
 
+### Skill Hack
+
+**Element(s)** universal; **Type** utility (Su); **Level** 3; **Burn** --
+
+**Prerequisite(s)** skilled kineticist
+
+You gain any skill unlocks associated with the skills your primary element added to your skill list.
+
+### Sleepwalker
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 6; **Burn** 0
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You trick a creature’s mind into believing it is dreaming as per *dream reality*.
+
 ### Slumber Infusion
 
 **Associated Blast(s):** autumn, bone, encephalon, false reality, injecting, mental, nightshade, ravaging nature, spring, summer, verdant, warped bone, winter, wood.
@@ -932,6 +1574,24 @@ Your blast can shut down a foe’s body. A foe dealt damage by this infusion fal
 **Notes**
 
 - Ultimate added the Viscera and Wood elements, as well as various changes to associated blasts.
+
+### Smooth Negotiator
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 1; **Burn** 0
+
+**Saving Throw** Will partial; **Spell Resistance** yes
+
+You’re skilled at making a creature’s goals coincide with your own as per the implant urgeISI spell except the duration is 10 minutes per kineticist level you possess. You can accept 1 point of burn to increase the duration to 1 hour per kineticist level you possess, and you can only affect one creature with this ability at a time; targeting another creature with this ability ends the previous effect. This is a compulsion effect.
+
+### Smooth Negotiator, Improved
+
+**Element(s)** mind; **Type** utility (Su); **Level** 4; **Burn** 0
+
+**Prerequisite(s)** smooth negotiator
+
+**Saving Throw** Will partial; **Spell Resistance** yes
+
+Your smooth negotiator wild talent can now be treated as *inveigle person*. At 14th level, you can instead treat this as *inveigle monster*.
 
 ### Spellbane Infusion
 
@@ -943,6 +1603,20 @@ Your blast eliminates magical knowledge from a foe. A spellcasting foe dealt dam
 
 - Ultimate added false reality blast.
 
+### Spellthief
+
+**Element(s)** aether or mind; **Type** utility (Sp); **Level** 3; **Burn** 0
+
+As an immediate action (1 AP of your next turn), you can attempt a disarm combat maneuver against a creature attempting to deliver a spell against you with a melee touch or weapon attack, allowing you to immediately deliver its effects to a new target (which can be the original caster) with a free touch attack as if they’d cast it against that target. If no creature is within your natural reach, the charge is immediately dispelled harmlessly instead.
+
+### Spellthief, Improved
+
+**Element(s)** aether or mind; **Type** utility (Sp); **Level** 5; **Burn** --
+
+**Prerequisite(s)** spellthief
+
+You can accept 1 point of burn when you use spellthief to hold the charge yourself rather than immediately delivering it, and can use spellthief as a standard action (1 AP) to steal a charge that a creature is holding even if they do not attempt to deliver it. In addition, you can use your kineticist level in place of the original user’s caster level if it is higher, and can use your Con modifier in place of any mental score modifier they would normally have applied to it when you deliver the stolen charge to determine its effects.
+
 ### Spellturning Infusion
 
 **Prerequisite:** countering infusion
@@ -950,6 +1624,20 @@ Your blast eliminates magical knowledge from a foe. A spellcasting foe dealt dam
 **Associated Blast(s):** Any.
 
 Your blast can envelop and overpower incoming spells. Treat this as countering infusion, except when the infused blast is readied against a spell or activated extraordinary, supernatural, or spell-like ability which it can counter, rather than counterspelling it, you can cause the ability to affect its caster or target an area which includes its caster, adding the effects of the infused blast to the spell’s normal effects. Abilities with a line or cone area of effect or that emanate from their caster can only be counterspelled as normal. This infusion can only be used as part of a blast prepared as a readied action.
+
+### Stimulated Intellect
+
+**Element(s)** mind; **Type** utility (Su); **Level** 1; **Burn** --
+
+Your kinetic powers stimulate your mind more than your intellect does. When making an Intelligence check, you can replace your Intelligence modifier with your Constitution modifier, and you treat all Knowledge skills as class skills.
+
+If you would gain basic neurokinesis, you can choose to gain this wild talent instead.
+
+### Stone Vandal
+
+**Element(s)** earth; **Type** utility (Su); **Level** 1; **Burn** --
+
+You treat all earth and stone as unworked for the purpose of what your wild talents can affect.
 
 ### Stumbling Infusion
 
@@ -1005,6 +1693,74 @@ Treat this as the synapse shock infusion, except it lasts for 1 hour per kinetic
 
 - Ultimate added false reality blast.
 
+### Telepuppet, Active
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 6; **Burn** 1
+
+**Prerequisite(s)** passive telepuppet
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+This ability functions as the *possession* spell, except the range is treated as 1 mile per kineticist level you possess. If you possess the psychic persuasion or hivemind wild talent, you can attempt to use active telepuppet on anyone affected by that talent (or by the hivemind wild talent of those affected by your greater hivemind), and you can accept 1 point of burn to remove the Will save from this ability against those under the effects of your hivemind or psychic persuasion. This is a compulsion effect.
+
+### Telepuppet, Passive
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Saving Throw** Will negates (harmless, see text); **Spell Resistance** yes
+
+You know how to invade the senses of others. You can use the senses of a willing creature up to a distance of 1 mile, being able to see, hear, feel, taste, and smell as though you were them for 1 hour per kineticist level you possess. While using this ability, you are staggered for its duration, although you can end this effect anytime as a swift action (1 AP). Your senses are returned to your own body if the target dies while you are still inside of their mind, ending the effect instantly. If you possess the hivemind or psychic persuasion wild talent, you can attempt to use passive telepuppet on anyone affected by those wild talents, and you can accept 1 point of burn to remove the Will save from this ability against those under the effects of your hivemind or psychic persuasion.
+
+### Thought Shield
+
+**Element(s)** mind; **Type** utility (Su); **Level** 2; **Burn** --
+
+**Prerequisite(s)** numbness
+
+While your numbness is active, you gain a +1 morale bonus to Will saves. This bonus increases by +1 for every 2 points of burn you possess. If you possess 6 or more burn, your mind appears blank to anyone attempting to scan it with abilities such as *detect thoughts*.
+
+### True Amnesia
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 8; **Burn** 2
+
+**Prerequisite(s)** flash of amnesia
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+You wipe a creature’s mind clean as per the madness affliction amnesia. This affliction is permanent until cured as normal for an insanity.
+
+### Tundra’s Wrath
+
+**Element(s)** water; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisite(s)** cold adaptation, cold blast
+
+Treat this as hostile woodwork, except you instead target ice or snow (or objects or constructs made of such matter), and it works only with cold blast, ice blast, and composite blasts for which cold blast is a prerequisite. You can accept 1 additional point of burn to target a source of water for this purpose instead.
+
+### Twisted Metal
+
+**Element(s)** earth or machine; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisite(s)** junk blast or metal blast
+
+Treat this as hostile woodwork, except you instead target metal objects or constructs, and it works only with junk blast, metal blast, or composite blasts for which junk blast or metal blast are prerequisites.
+
+### Verdant Aura
+
+**Element(s)** wood; **Type** utility (Su); **Level** 2; **Burn** --
+
+**Prerequisite(s)** flesh of wood
+
+While your flesh of wood is active, grass and flowers instantly grow around you, even in areas hostile toward them or where plant life couldn’t possibly take root. This effect extends to a radius of 10 feet plus an additional 5 feet per 3 kineticist levels you possess (up to 30 feet), allowing all creatures (yourself included) to benefit from woodland step, greater woodland step, and any other effect which benefits those in a forest or grasslands environment. This aura follows and is centered on you, and plants grown with this ability in an area where plants should not exist will instantly wither into nothingness once outside of your aura.
+
+### Verdant Overgrowth
+
+**Element(s)** wood; **Type** utility (Sp); **Level** 4; **Burn** 0
+
+**Prerequisite(s)** verdant aura, entangling infusion
+
+You can cause the plants created by your verdant aura to grow to great heights for 1 minute per kineticist level you possess. The area of your aura is treated as difficult terrain, as per the *entangle* spell. In addition, all creatures within your aura gain concealment against all creatures without the ability to see through plant life, such as the greensight universal monster ability.
+
 ### Wrathful Infusion
 
 **Associated Blast(s):** encephalon, false reality, mental.
@@ -1026,3 +1782,4 @@ Your blast can fill creatures with an unquenchable thirst for blood. Treat this 
 **Notes**
 
 - Ultimate added false reality blast.
+

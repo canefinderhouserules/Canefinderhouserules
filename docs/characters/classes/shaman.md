@@ -99,7 +99,7 @@ A shaman can spontaneously cast a limited number of spells per day beyond those 
 
 A shaman learns a number of magical tricks, called hexes, which grant her powers or weaken foes. At 2nd level, a shaman learns one hex. At 4th, 8th, 10th, 12th, 16th, 18th, and 20th level, the shaman learns new hexes. A shaman can select from any of the following hexes or from any of the hexes listed in the description of her chosen spirit. A shaman cannot select a hex more than once unless noted otherwise.
 
-Using a hex is a standard action, which costs (1 AP) or (2 AP) as marked on each hex that doesn't provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
+Using a hex is a standard action that doesn't provoke an attack of opportunity unless otherwise noted; it costs (1 AP) or (2 AP), as marked on each hex. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
 
 #### Chant (Ex)
 
