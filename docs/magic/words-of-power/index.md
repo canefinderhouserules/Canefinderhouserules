@@ -87,8 +87,6 @@ If a wordcaster is attempting to counter the spell of a normal spellcaster, she 
 
 **Wordspells and Spell Resistance**: If the wordspell uses more than one effect word, and any of those words allow spell resistance, the resistance applies to all of the effect words of the wordspell. A wordspell only ignores spell resistance if all effect words ignore spell resistance.
 
-**Multiple Effect Words and Damage**: If more than one effect word causes the wordspell to deal damage, the total number of dice of damage the wordspell can deal can be no greater than the wordspell’s caster level. The caster can decide which dice belong to which effect word, in any combination, so long as the total number does not exceed his wordcaster level and the number of dice allocated to a specific effect word does not exceed its maximum.
-
 **Multiple Effect Words and Duration**: If a wordspell has more than one effect word, the shortest of all the effect words’ durations is used for all of the effect words.
 
 ## Magic Item Creation
