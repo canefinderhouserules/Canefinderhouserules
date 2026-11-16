@@ -100,7 +100,8 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
-- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Snowball](snowball.md)**: Throw a ball of ice and snow at a target.
+- **[Snowball (Conjuration)](snowball-conjuration.md)**: Throw a conjured ball of snow that can also stagger the target.
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - **[Sunder Breaker](sunder-breaker.md)**: You place an invisible ward upon the target.

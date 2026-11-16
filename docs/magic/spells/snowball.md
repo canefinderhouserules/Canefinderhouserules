@@ -9,3 +9,6 @@
 **Saving Throw** none; **Spell Resistance** yes
 
 You throw a ball of elemental ice and snow at a single target as a ranged touch attack. The snowball deals 1d6 points of cold damage per caster level you have (maximum 5d6).
+
+!!! note "Two versions"
+    This is the later version of this spell. The first version, [Snowball (Conjuration)](snowball-conjuration.md), is a conjuration (creation) spell: it ignores spell resistance and also staggers the target for 1 round unless it succeeds at a Fortitude save.

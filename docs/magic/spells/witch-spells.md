@@ -154,7 +154,8 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Sleep](sleep.md)**: Gives 4 HD of creatures sleep 1.
-- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Snowball](snowball.md)**: Throw a ball of ice and snow at a target.
+- **[Snowball (Conjuration)](snowball-conjuration.md)**: Throw a conjured ball of snow that can also stagger the target.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.

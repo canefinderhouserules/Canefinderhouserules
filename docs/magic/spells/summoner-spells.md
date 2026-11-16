@@ -66,7 +66,8 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
 - **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks
-- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Snowball](snowball.md)**: Throw a ball of ice and snow at a target.
+- **[Snowball (Conjuration)](snowball-conjuration.md)**: Throw a conjured ball of snow that can also stagger the target.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.

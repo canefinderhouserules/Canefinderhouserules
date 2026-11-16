@@ -100,7 +100,8 @@
 - **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snow Shape](snow-shape.md)**: Shape snow like stone, or carve an ice weapon.
-- **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
+- **[Snowball](snowball.md)**: Throw a ball of ice and snow at a target.
+- **[Snowball (Conjuration)](snowball-conjuration.md)**: Throw a conjured ball of snow that can also stagger the target.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
