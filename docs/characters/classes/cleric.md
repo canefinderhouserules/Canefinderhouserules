@@ -12,9 +12,10 @@ As their powers are influenced by their faith, all clerics must focus their wors
 
 **Table 3–5: Cleric**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                    | Spells per Day |     |     |     |     |     |     |     |     |     |
-|-------|-------------------|-----------|----------|-----------|--------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|       |                   |           |          |           |                                            | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+*The 0–9th columns are spells per day.*
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1st   | +0                | +2        | +0       | +2        | Aura, channel energy 1d8, domains, orisons | 3              | 1+1 | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2nd   | +1                | +3        | +0       | +3        |                                            | 4              | 2+1 | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3rd   | +2                | +3        | +1       | +3        | Channel energy 2d8                         | 4              | 2+1 | 1+1 | —   | —   | —   | —   | —   | —   | —   |

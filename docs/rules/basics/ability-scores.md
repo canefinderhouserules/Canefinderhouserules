@@ -92,9 +92,10 @@ Intelligence determines how well your character learns and reasons. This ability
 
 **Table 1–3: Ability Modifiers and Bonus Spells**
 
-| Ability Score | Modifier | Bonus Spells per Day (by Spell Level) |     |     |     |                                        |     |     |     |     |     |
-|---------------|----------|---------------------------------------|-----|-----|-----|----------------------------------------|-----|-----|-----|-----|-----|
-|               |          | 0                                     | 1st | 2nd | 3rd | 4th                                    | 5th | 6th | 7th | 8th | 9th |
+*The 0–9th columns are bonus spells per day (by spell level).*
+
+| Ability Score | Modifier | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1             | –5       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
 | 2–3           | –4       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |
 | 4–5           | –3       |                                       |     |     |     | Can’t cast spells tied to this ability |     |     |     |     |     |

@@ -43,9 +43,10 @@ Followers have different priorities from cohorts. When you try to attract a foll
 **Table 5–2: Leadership**
 
 
-| Leadership Score | Cohort Level | Number of Followers by Level |     |     |     |     |     |
-|------------------|--------------|------------------------------|-----|-----|-----|-----|-----|
-|                  |              | 1st                          | 2nd | 3rd | 4th | 5th | 6th |
+*The 1st–6th columns are number of followers by level.*
+
+| Leadership Score | Cohort Level | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|---|---|---|---|---|---|---|---|
 | 1 or lower       | —            | —                            | —   | —   | —   | —   | —   |
 | 2                | 1st          | —                            | —   | —   | —   | —   | —   |
 | 3                | 2nd          | —                            | —   | —   | —   | —   | —   |

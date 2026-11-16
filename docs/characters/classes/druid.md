@@ -8,9 +8,10 @@ Within the purity of the elements and the order of the wilds lingers a power bey
 
 **Table 3–7: Druid**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                          | Spells per Day |     |     |     |     |     |     |     |     |     |
-|-------|-------------------|-----------|----------|-----------|--------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|       |                   |           |          |           |                                                  | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+*The 0–9th columns are spells per day.*
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1st   | +0                | +2        | +0       | +2        | Nature bond, nature sense, orisons, wild empathy | 3              | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2nd   | +1                | +3        | +0       | +3        | Woodland stride                                  | 4              | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3rd   | +2                | +3        | +1       | +3        | Trackless step                                   | 4              | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |

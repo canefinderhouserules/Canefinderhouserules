@@ -8,9 +8,10 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 
 **Table 3–3: Bard**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                 | Spells per Day |     |     |     |     |     |
-|-------|-------------------|-----------|----------|-----------|---------------------------------------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|
-|       |                   |           |          |           |                                                                                                         | 1st            | 2nd | 3rd | 4th | 5th | 6th |
+*The 1st–6th columns are spells per day.*
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1st   | +0                | +0        | +2       | +2        | Bardic knowledge, bardic performance, cantrips, countersong, distraction, fascinate, inspire courage +1 | 1              | —   | —   | —   | —   | —   |
 | 2nd   | +1                | +0        | +3       | +3        | Versatile performance, well-versed                                                                      | 2              | —   | —   | —   | —   | —   |
 | 3rd   | +2                | +1        | +3       | +3        | Inspire competence +2                                                                                   | 3              | —   | —   | —   | —   | —   |
@@ -92,9 +93,10 @@ Fascinate is an enchantment (compulsion), mind-affecting ability. Fascinate reli
 
 **Table 3–4: Bard Spells Known**
 
-| Level | Spells Known |     |     |     |     |     |     |
-|-------|--------------|-----|-----|-----|-----|-----|-----|
-|       | 0            | 1st | 2nd | 3rd | 4th | 5th | 6th |
+*The 0–6th columns are spells known.*
+
+| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|---|---|---|---|---|---|---|---|
 | 1st   | 4            | 2   | —   | —   | —   | —   | —   |
 | 2nd   | 5            | 3   | —   | —   | —   | —   | —   |
 | 3rd   | 6            | 4   | —   | —   | —   | —   | —   |

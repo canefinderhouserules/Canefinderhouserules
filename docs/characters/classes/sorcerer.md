@@ -8,9 +8,10 @@ Scions of innately magical bloodlines, the chosen of deities, the spawn of monst
 
 **Table 3–14: Sorcerer**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Spells per Day |     |     |     |     |     |     |     |     |
-|-------|-------------------|-----------|----------|-----------|---------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|
-|       |                   |           |          |           |                                             | 1st            | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+*The 1st–9th columns are spells per day.*
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1st   | +0                | +0        | +0       | +2        | Bloodline power, cantrips, eschew materials | 3              | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2nd   | +1                | +0        | +0       | +3        |                                             | 4              | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3rd   | +1                | +1        | +1       | +3        | Bloodline power, bloodline spell            | 5              | —   | —   | —   | —   | —   | —   | —   | —   |
@@ -138,9 +139,10 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Table 3–15: Sorcerer Spells Known**
 
-| Level | Spells Known |     |     |     |     |     |     |     |     |     |
-|-------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|       | 0            | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+*The 0–9th columns are spells known.*
+
+| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|---|---|---|---|---|---|---|---|---|---|---|
 | 1st   | 4            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 2nd   | 5            | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 3rd   | 5            | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
