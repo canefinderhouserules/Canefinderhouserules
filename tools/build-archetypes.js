@@ -370,6 +370,12 @@ function archetypes(entry, units) {
     const b = blocks[i];
     if (b.lv === 2) {
       const kids = []; for (let j = i + 1; j < blocks.length && blocks[j].lv === 3; j++) kids.push(blocks[j]);
+      // Wildblooded (sorcerer) is an archetype whose sections are its mutated bloodlines: one entry, the bloodlines listed
+      if (/^wildblooded$/i.test(b.name) && kids.length) {
+        parts.push('## ' + b.name + '\n' + b.body.trim() + '\n\n**Mutated Bloodline**: Choose one of these mutated bloodlines for your bloodline: ' +
+          kids.map(k => '[' + k.name + '](#' + slug(k.name) + ')').join(', ') + '. Its bloodline arcana replaces your bloodline’s arcana, and it changes the bloodline powers it lists.');
+        i += kids.length; continue;
+      }
       if (OPTION_LIST.test(b.name)) { i += kids.length; continue; }
       if (kids.length && !/^\*\*[^*]+\*\*/m.test(b.body)) { kids.forEach(k => parts.push('## ' + k.name + '\n' + k.body)); i += kids.length; }
       else { parts.push('## ' + b.name + '\n' + b.body + kids.map(k => '\n\n**' + k.name + '**: ' + k.body.trim()).join('')); i += kids.length; }

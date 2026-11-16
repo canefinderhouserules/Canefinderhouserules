@@ -298,6 +298,13 @@
       "Drawbacks": {
         "modifies": "spells"
       }
+    },
+    "Wildblooded": {
+      "Mutated Bloodline": {
+        "modifies": "bloodline powers",
+        "lvl": 1,
+        "replaces": null
+      }
     }
   },
   "summoner": {
