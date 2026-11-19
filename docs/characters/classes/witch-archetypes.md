@@ -457,7 +457,7 @@ If a gingerbread witch successfully swallows a creature, her torso distends grot
 
 This ability replaces the hex gained at 12th level.
 
-**Horrible Hunger (Sp)**: At 16th level, a gingerbread witch can affect a target as if she had cast [*feast of ashes*](../../magic/spells/feast-of-ashes.md) on it, but with her hex DC instead of the spell’s DC. This hunger is so intense that any creature can offer the target food as a standard action (1 AP) and the target is compelled to eat it, as if the creature offering it had cast [*beguiling gift*](../../magic/spells/beguiling-gift.md) (with a DC and caster level equal to that of the witch’s hexes). She can use this ability once per day for every 4 witch levels she has. This ability replaces the hex gained at 16th level.
+**Horrible Hunger (Sp)**: At 16th level, a gingerbread witch can affect a target as if she had cast [*feast of ashes*](../../magic/spells/feast-of-ashes.md) on it, but with her hex DC instead of the spell’s DC. This hunger is so intense that any creature can offer the target food as a standard action (2 AP) and the target is compelled to eat it, as if the creature offering it had cast [*beguiling gift*](../../magic/spells/beguiling-gift.md) (with a DC and caster level equal to that of the witch’s hexes). She can use this ability once per day for every 4 witch levels she has. This ability replaces the hex gained at 16th level.
 
 ## Tatterdemalion
 

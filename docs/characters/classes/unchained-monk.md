@@ -387,7 +387,7 @@ These ki powers are selected by unchained monks whose ki flows in perfect harmon
 
 **Racing Current (Su)**: A monk with this ki power can create a wave to help him maneuver allies upon the battlefield, as if using the spell [*slipstream*](../../magic/spells/slipstream.md). Using this ability is a move action (1 AP) that costs 2 ki points, and the ability remains in effect for 1 minute. A monk must be 6th level to select this ki power.
 
-**Zephyr Blow (Su)**: By spending 1 ki point as a standard action (1 AP), a monk with this power can disrupt the wind and create a sharp blast of air, as if using the spell [*gust of wind*](../../magic/spells/gust-of-wind.md). The monk's caster level for this effect is equal to his monk level.
+**Zephyr Blow (Su)**: By spending 1 ki point as a standard action (2 AP), a monk with this power can disrupt the wind and create a sharp blast of air, as if using the spell [*gust of wind*](../../magic/spells/gust-of-wind.md). The monk's caster level for this effect is equal to his monk level.
 
 ## Ex-monks
 

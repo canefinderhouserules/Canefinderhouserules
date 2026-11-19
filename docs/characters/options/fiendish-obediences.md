@@ -262,7 +262,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 1. **Seraph’s Grace (Sp)**: [*moment of greatness*](../../magic/spells/moment-of-greatness.md) 3/day, [*burning gaze*](../../magic/spells/burning-gaze.md) 2/day, or [*fireball*](../../magic/spells/fireball.md) 1/day
 2. **Pyre’s Touch (Ex)**: You gain fire resistance 30 (this stacks with any other natural fire resistance you have).
-3. **Punishment of the Forsaken (Sp)**: Once per day as a standard action (1 AP), you call down your horseman’s wrath upon a single target. This ability acts as [*implosion*](../../magic/spells/implosion.md), but the victim is drawn into the air, held cruciform, and then torn apart by an invisible force.
+3. **Punishment of the Forsaken (Sp)**: Once per day as a standard action (2 AP), you call down your horseman’s wrath upon a single target. This ability acts as [*implosion*](../../magic/spells/implosion.md), but the victim is drawn into the air, held cruciform, and then torn apart by an invisible force.
 
 ### Sentinel Boons
 

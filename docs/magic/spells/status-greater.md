@@ -1,7 +1,7 @@
 # Status, Greater
 
 **School** divination  
-**Casting Time** 1 standard action (2 AP)  
+**Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  
 **Target** one creature touched/three levels  

@@ -1471,7 +1471,7 @@ Each creature within range receives a Will save (DC 10 + 1/2 the prankster’s l
 
 Mock is an enchantment (compulsion) mind-affecting ability. Mock relies on audible and visual components in order to function. This ability replaces fascinate.
 
-*Punchline (Sp)*: At 6th level, the prankster can use his performance to tell a punchline to amuse a creature he has already mocked (see above), goading it into [*hideous laughter*](../../magic/spells/hideous-laughter.md) (as the spell). Using this ability does not disrupt the mock effect, but it does require a standard action (1 AP) to activate (in addition to the free action to continue the mock effect). A prankster can use this ability more than once against an individual creature during an individual performance.
+*Punchline (Sp)*: At 6th level, the prankster can use his performance to tell a punchline to amuse a creature he has already mocked (see above), goading it into [*hideous laughter*](../../magic/spells/hideous-laughter.md) (as the spell). Using this ability does not disrupt the mock effect, but it does require a standard action (2 AP) to activate (in addition to the free action to continue the mock effect). A prankster can use this ability more than once against an individual creature during an individual performance.
 
 Telling a punchline does not count against a prankster’s daily use of bardic performance. A Will saving throw (DC 10 + 1/2 the bard’s level + the bard’s Charisma modifier) negates the effect. This ability affects only a single creature. Punchline is an enchantment (compulsion), mind affecting, language-dependent ability and relies on audible components. This ability replaces the suggestion ability.
 
