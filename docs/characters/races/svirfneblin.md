@@ -58,6 +58,13 @@ These archetypes are typically only taken by svirfneblin, but members of other r
 
 Svirfneblin have access to the following equipment.
 
+**Table 3–5: Svirfneblin Weapon**
+
+| Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|
+| *Ranged Weapons* | | | | | | | | |
+| Jolting dart | 100 gp | 1d3 | 1d4 | ×2 | 20 ft. | 1/2 lb. | P | See text |
+
 **Jolting Dart**: This alchemically grown crystal dart builds up an electrical charge when thrown. A creature struck by the dart takes normal piercing damage and 1d6 points of electricity damage. Anyone proficient in darts can use a jolting dart. Once thrown, the dart is destroyed.
 
 ## Feats

@@ -4,9 +4,4 @@ You can hold yourself as still as a statue, evading detection.
 
 **Prerequisite**: Svirfneblin.
 
-**Table 3–5: Svirfneblin Weapon**
-
-| Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
-|---|---|---|---|---|---|---|---|---|
-| *Ranged Weapons* | | | | | | | | |
-| Jolting dart | 100 gp | 1d3 | 1d4 | ×2 | 20 ft. | 1/2 lb. | P | See text |
+**Benefit**: By spending 5 rounds finding a suitable location, you can hold yourself so still that you appear to be a Small object such as a pile of rocks. This allows you to make a [Stealth](../skills/stealth.md) check without cover or concealment, as long as you do not move or take any other actions.
