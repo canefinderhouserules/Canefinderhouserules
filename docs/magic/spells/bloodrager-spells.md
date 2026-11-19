@@ -333,7 +333,6 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
-- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Telekinetic Charge](telekinetic-charge.md)**: Launches an ally through the air.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.

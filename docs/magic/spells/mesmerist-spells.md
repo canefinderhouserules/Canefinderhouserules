@@ -139,7 +139,6 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 2nd-Level Mesmerist Spells
 
-- **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
