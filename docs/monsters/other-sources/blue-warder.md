@@ -1,0 +1,45 @@
+# Blue Warder
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Blue Warder&quot;,&quot;cr&quot;:&quot;6&quot;,&quot;xp&quot;:&quot;2,400&quot;,&quot;line&quot;:&quot;Dwarf abjurer 7, LN Medium humanoid (dwarf)&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;13, touch 13, flat-footed 11&quot;,&quot;hp&quot;:&quot;48 (7d6+21)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:5,&quot;Will&quot;:7},&quot;saveNote&quot;:&quot;+2 vs. poison, spells, and spell-like abilities&quot;,&quot;defense&quot;:&quot;energy absorption (21/day), resistance; Resist cold 5&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;+1 on attack rolls against goblinoid and orc humanoids&quot;,&quot;rangedTouch&quot;:5,&quot;spells&quot;:[{&quot;title&quot;:&quot;Abjurer Spells Prepared&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:11,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;black tentacles&quot;,&quot;page&quot;:&quot;black-tentacles&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;stoneskin&quot;,&quot;page&quot;:&quot;stoneskin&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;displacement&quot;,&quot;page&quot;:&quot;displacement&quot;},{&quot;name&quot;:&quot;gaseous form&quot;,&quot;page&quot;:&quot;gaseous-form&quot;},{&quot;name&quot;:&quot;stinking cloud&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;stinking-cloud&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;levitate&quot;,&quot;page&quot;:&quot;levitate&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;},{&quot;name&quot;:&quot;web&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;web&quot;,&quot;save&quot;:&quot;Reflex negates&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alarm&quot;,&quot;page&quot;:&quot;alarm&quot;},{&quot;name&quot;:&quot;color spray&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;color-spray&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;4d4+8&quot;,&quot;damageLabel&quot;:&quot;force damage, 4 missiles&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;shocking grasp&quot;,&quot;page&quot;:&quot;shocking-grasp&quot;,&quot;damage&quot;:&quot;5d6&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 8, Dex 14, Con 15, Int 18, Wis 12, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +2; CMD 15 (19 vs. bull rush, 19 vs. trip)&quot;,&quot;checks&quot;:{&quot;Appraise&quot;:9,&quot;Knowledge (arcana)&quot;:14,&quot;Knowledge (planes)&quot;:14,&quot;Linguistics&quot;:14,&quot;Perception&quot;:6,&quot;Spellcraft&quot;:14,&quot;Survival&quot;:8,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Combat Casting, Craft Wand, Craft Wondrous Item, Forge Ring, Scribe Scroll, Spell Penetration&quot;,&quot;languages&quot;:&quot;Abyssal, Aklo, Ancient Osiriani, Celestial, Common, Draconic, Dwarven, Elven, Giant, Ignan, Infernal, Orc, Terran&quot;,&quot;sq&quot;:&quot;arcane bond (ring), protective ward (4 rounds, +2 deflection, 7/day)&quot;,&quot;gear&quot;:&quot;scrolls of break enchantment, charm monster, charm person, detect secret doors, expeditious retreat, fly, identify, invisibility, knock, lightning bolt, see invisibility, stoneskin, suggestion, and teleport; wand of magic missile (CL 9th, 40 charges)&quot;}"></div>
+
+## Blue Warder (CR 6)
+
+**XP** 2,400  
+Dwarf abjurer 7  
+LN Medium humanoid (dwarf)  
+**Init** +2; **Senses** darkvision 60 ft.; Perception +6
+
+**Defense**
+
+**AC** 13, touch 13, flat-footed 11 (+1 deflection, +2 Dex); +4 dodge vs. giants  
+**hp** 48 (7d6+21)  
+**Fort** +5, **Ref** +5, **Will** +7; +2 vs. poison, spells, and spell-like abilities  
+**Defensive Abilities** energy absorption (21/day), resistance; **Resist** cold 5
+
+**Offense**
+
+**Speed** 20 ft.  
+**Melee** mwk dagger +3 (1d4–1/19–20)  
+**Ranged**  mwk dagger +6 (1d4–1/19–20)  
+**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids  
+**Abjurer Spells Prepared** (CL 7th; concentration +11)  
+4th—*black tentacles* (2), *stoneskin*  
+3rd—*dispel magic*, *displacement*, *gaseous form*, *stinking cloud* (DC 17)  
+2nd—*glitterdust* (DC 16), *levitate*, *resist energy*, *see invisibility*, *web* (DC 16)  
+1st—*alarm*, *color spray* (DC 15), *magic missile*, *shield*, *shocking grasp*, *unseen servant*  
+0 (at will)—*detect magic*, *light*, *prestidigitation*, *read magic*  
+**Opposition Schools** enchantment, necromancy
+
+**Statistics**
+
+**Str** 8, **Dex** 14, **Con** 15, **Int** 18, **Wis** 12, **Cha** 10  
+**Base Atk** +3; **CMB** +2; **CMD** 15 (19 vs. bull rush, 19 vs. trip)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wand](../../rules/feats/craft-wand.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Forge Ring](../../rules/feats/forge-ring.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Penetration](../../rules/feats/spell-penetration.md)  
+**Skills** Appraise +9 (+11 to assess nonmagical metals or gemstones), Knowledge (arcana, planes) +14, Linguistics +14, Perception +6 (+8 to notice unusual stonework), Spellcraft +14, Survival +8  
+**Languages** Abyssal, Aklo, Ancient Osiriani, Celestial, Common, Draconic, Dwarven, Elven, Giant, Ignan, Infernal, Orc, Terran  
+**SQ** arcane bond (ring), protective ward (4 rounds, +2 deflection, 7/day)  
+**Combat Gear** *scrolls of break enchantment*, *charm monster*, *charm person*, *detect secret doors*, *expeditious retreat*, *fly*, *identify*, *invisibility*, *knock*, *lightning bolt*, *see invisibility*, *stoneskin*, *suggestion*, and *teleport*; *wand of magic missile* (CL 9th, 40 charges); **Other Gear** mwk dagger, *cloak of resistance +2*, *headband of vast intelligence +2*, explorer's outfit, ink, inkpen, journal, mwk thieves' tools, spellbook (contains all 0-level spells, all prepared spells, and all scroll spells), spell component pouch, 12 gp
+
+The libraries of the ancient subterranean dwarf fortress of Tar-Kazmukh in the Five Kings Mountains hold the accumulated arcane lore of the dwarven race. Tasked with the security of this store of knowledge are the Blue Warders, dwarven librarians and spell-weavers. Each Blue Warder is tattooed in counter-sigils that permit passage through the innumerable wards and other magical defenses of the library; the number and complexity of a dwarf ’s tattoos increase with age and responsibility, allowing access to ever-deeper chambers within the repository and unlocking progressively more secret collections to the Warder.
+
+The Blue Warders also act as escorts for patrons of the library, guiding them through the facility, a labyrinthine maze of tunnels confusing even to those of dwarven blood. They show special favoritism in both priority and access to the Sage’s Guild of Tar- Kazmukh, an organization that’s dedicated to the study of all things arcane and planar. Despite their racial and local loyalties, though, the Blue Warders are generally happy to escort those of other races or with allegiances to other scholarly organizations through the library, provided such visitors come to them in peace and with a polite request. However, they reserve the right to deny access to anyone they deem an enemy of their people—and to any who are too rude or presumptuous.

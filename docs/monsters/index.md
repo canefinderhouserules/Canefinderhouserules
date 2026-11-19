@@ -29,4 +29,5 @@ Rules for understanding, building, and advancing monsters. Stat blocks are in th
 | Monster Codex | [Monster Codex](monster-codex/index.md): ready-made groups of goblins, gnolls, drow, giants and other monster races by class and role, with a Roll20 export |
 | NPC Codex | [NPC Codex](npc-codex/index.md): 310 ready-made NPCs by class and level, with a Roll20 export |
 | GameMastery Guide | [GameMastery Guide NPCs](gamemastery-guide-npcs/index.md): 81 NPCs, from bandits to cultists, with a Roll20 export |
+| Other books | [Other Sources](other-sources/index.md): creatures and NPCs from other rulebooks, companions and adventures, with a Roll20 export |
 | Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |

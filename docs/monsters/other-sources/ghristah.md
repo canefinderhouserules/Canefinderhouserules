@@ -1,0 +1,39 @@
+# Ghristah
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ghristah&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;Female troglodyte hunter (feral hunter) 7 (Pathfinder RPG Bestiary 267, Pathfinder RPG Advanced Class Guide 26, 95), NE Medium humanoid (reptilian)&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 90 ft.&quot;,&quot;ac&quot;:&quot;23, touch 12, flat-footed 21&quot;,&quot;hp&quot;:&quot;83 (9d8+43)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:7,&quot;Will&quot;:3},&quot;aura&quot;:&quot;stench (30 ft., DC 15, 10 rounds)&quot;,&quot;speed&quot;:&quot;20 ft. in armor&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk net&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9,4],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:null,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk javelin&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:2,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;wild shape 2/day&quot;,&quot;rangedTouch&quot;:8,&quot;spells&quot;:[{&quot;title&quot;:&quot;Hunter Spells Known&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:8,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd (1/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;stone shape&quot;,&quot;page&quot;:&quot;stone-shape&quot;},{&quot;name&quot;:&quot;summon nature’s ally III&quot;,&quot;page&quot;:&quot;summon-natures-ally-iii&quot;}]},{&quot;label&quot;:&quot;2nd (3/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;chill metal&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;chill-metal&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;},{&quot;name&quot;:&quot;spider climb&quot;,&quot;page&quot;:&quot;spider-climb&quot;},{&quot;name&quot;:&quot;summon nature’s ally II&quot;,&quot;page&quot;:&quot;summon-natures-ally-ii&quot;},{&quot;name&quot;:&quot;summon swarm&quot;,&quot;page&quot;:&quot;summon-swarm&quot;}]},{&quot;label&quot;:&quot;1st (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;entangle&quot;,&quot;dc&quot;:12,&quot;page&quot;:&quot;entangle&quot;,&quot;save&quot;:&quot;Reflex partial&quot;},{&quot;name&quot;:&quot;magic fang&quot;,&quot;page&quot;:&quot;magic-fang&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;speak with animals&quot;,&quot;page&quot;:&quot;speak-with-animals&quot;},{&quot;name&quot;:&quot;summon nature’s ally I&quot;,&quot;page&quot;:&quot;summon-natures-ally-i&quot;},{&quot;name&quot;:&quot;thorn javelinACG&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;dc&quot;:11,&quot;page&quot;:&quot;purify-food-and-drink&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;sparkAPG&quot;,&quot;dc&quot;:11}]}]}],&quot;abilities&quot;:&quot;Str 14, Dex 14, Con 18, Int 6, Wis 13, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +8; CMD 20&quot;,&quot;checks&quot;:{&quot;Knowledge (dungeoneering)&quot;:4,&quot;Knowledge (geography)&quot;:5,&quot;Knowledge (nature)&quot;:5,&quot;Perception&quot;:12,&quot;Stealth&quot;:14,&quot;Survival&quot;:7,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Exotic Weapon Proficiency (net), Great Fortitude, Net AdeptUC, Net ManeuveringUC, Point-Blank Shot, Precise Shot, Stealth SynergyUC&quot;,&quot;languages&quot;:&quot;Draconic&quot;,&quot;sq&quot;:&quot;animal focus (7 minutes/day), feral focus, nature training, summon pack, track +3, wild empathy +7, woodland stride&quot;,&quot;gear&quot;:&quot;potion of cure moderate wounds (2), scroll of neutralize poison&quot;}"></div>
+
+## Ghristah (CR 8)
+
+**XP** 4,800  
+Female troglodyte hunter (feral hunter) 7 (*Pathfinder RPG Bestiary* 267, *Pathfinder RPG Advanced Class Guide* 26, 95)  
+NE Medium humanoid (reptilian)  
+**Init** +2; **Senses** darkvision 90 ft.; Perception +12  
+**Aura** stench (30 ft., DC 15, 10 rounds)
+
+**Defense**
+
+**AC** 23, touch 12, flat-footed 21 (+5 armor, +2 Dex, +6 natural)  
+**hp** 83 (9d8+43)  
+**Fort** +14, **Ref** +7, **Will** +3
+
+**Offense**
+
+**Speed** 20 ft. in armor  
+**Melee** mwk net +9/+4 or bite +3 (1d4+1), 2 claws +3 (1d4+1)  
+**Ranged**  mwk javelin +9 (1d6+2)  
+**Special Attacks** wild shape 2/day  
+**Hunter Spells Known** (CL 7th; concentration +8)  
+3rd (1/day)—*poison* (DC 14), *stone shape*, *summon nature’s ally III*  
+2nd (3/day)—*chill metal* (DC 13), *protection from energy*, *spider climb*, *summon nature’s ally II*, *summon swarm*  
+1st (5/day)—*entangle* (DC 12), *magic fang*, *obscuring mist*, *speak with animals*, *summon nature’s ally I*, *thorn javelin*ACG  
+0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and drink* (DC 11), *resistance*, *spark*APG (DC 11)
+
+**Statistics**
+
+**Str** 14, **Dex** 14, **Con** 18, **Int** 6, **Wis** 13, **Cha** 11  
+**Base Atk** +6; **CMB** +8; **CMD** 20  
+**Feats** [Exotic Weapon Proficiency (net)](../../rules/feats/exotic-weapon-proficiency.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Net AdeptUC](../../rules/feats/net-adept.md), [Net ManeuveringUC](../../rules/feats/net-maneuvering.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Stealth SynergyUC](../../rules/feats/stealth-synergy.md)  
+**Skills** Knowledge (dungeoneering) +4, Knowledge (geography, nature) +5, Perception +12, Stealth +14 (+18 in rocky areas), Survival +7; **Racial Modifiers** +4 Stealth, +4 Stealth in rocky areas  
+**Languages** Draconic  
+**SQ** animal focus (7 minutes/day), feral focus, nature training, summon pack, track +3, wild empathy +7, woodland stride  
+**Combat Gear**  *potion of cure moderate wounds* (2), *scroll of neutralize poison*; **Other Gear** *+1 bone*UE *scale mail*, mwk javelins (5), mwk net, aspect mask (snake)ACG

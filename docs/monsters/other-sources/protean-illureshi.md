@@ -1,0 +1,54 @@
+# Protean, Illureshi
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Illureshi&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;CN Medium outsider (chaotic, extraplanar, protean, shapechanger)&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;blindsense 30 ft., darkvision 60 ft., arcane sight, detect law&quot;,&quot;ac&quot;:&quot;23, touch 14, flat-footed 19&quot;,&quot;hp&quot;:&quot;114 (12d10+48)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:12,&quot;Will&quot;:13},&quot;defense&quot;:&quot;amorphous anatomy, freedom of movement; DR 10/lawful; Immune acid, polymorph; Resist electricity 10, sonic 10; SR 20&quot;,&quot;aura&quot;:&quot;spellwarp aura (30 ft.)&quot;,&quot;speed&quot;:&quot;30 ft., fly 30 ft. (perfect), swim 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;specialAttacks&quot;:&quot;constrict (1d8+3)&quot;,&quot;rangedTouch&quot;:16,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:14,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane sight&quot;,&quot;page&quot;:&quot;arcane-sight&quot;},{&quot;name&quot;:&quot;detect law&quot;,&quot;page&quot;:&quot;detect-law&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;,&quot;note&quot;:&quot;self plus 50 lbs. of objects only&quot;},{&quot;name&quot;:&quot;major creation&quot;,&quot;page&quot;:&quot;major-creation&quot;},{&quot;name&quot;:&quot;telekinesis&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;telekinesis&quot;,&quot;save&quot;:&quot;Will negates (object) or none&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;chaos hammer&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;chaos-hammer&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;break enchantment&quot;,&quot;page&quot;:&quot;break-enchantment&quot;},{&quot;name&quot;:&quot;plane shift&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;plane-shift&quot;,&quot;save&quot;:&quot;Will negates&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:6,&quot;concentration&quot;:10,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd (3/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;6d6&quot;}]},{&quot;label&quot;:&quot;2nd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:1}]},{&quot;label&quot;:&quot;1st (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cultural adaptation&quot;,&quot;page&quot;:&quot;cultural-adaptation&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;3d4+6&quot;,&quot;damageLabel&quot;:&quot;force damage, 3 missiles&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid splash&quot;,&quot;page&quot;:&quot;acid-splash&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;arcane mark&quot;,&quot;page&quot;:&quot;arcane-mark&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Prehensile Tail&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;An illureshi can’t wield weapons with its tail, but can use its tail to grab unattended items within 10 feet or stowed objects carried on its person as a swift action. It can hold such objects with its tail. The only items it can manipulate with its tail are wands, which it can activate as a move action.&quot;},{&quot;name&quot;:&quot;Spellwarp Aura&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Once per round, if a creature casts a spell or spell-like ability within the illureshi’s aura, the protean can attempt an opposed caster level check to redirect the effect to another legal target within range.&quot;},{&quot;name&quot;:&quot;Spellcasting&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;An illureshi casts spells as a 6th-level sorcerer. It does not gain access to other sorcerer abilities.&quot;}],&quot;abilities&quot;:&quot;Str 17, Dex 18, Con 18, Int 23, Wis 16, Cha 19&quot;,&quot;combat&quot;:&quot;BAB +12; CMB +15; CMD 29 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:16,&quot;Bluff&quot;:19,&quot;Diplomacy&quot;:16,&quot;Fly&quot;:19,&quot;Knowledge (any two)&quot;:18,&quot;Knowledge (arcana)&quot;:21,&quot;Knowledge (planes)&quot;:21,&quot;Perception&quot;:18,&quot;Spellcraft&quot;:21,&quot;Swim&quot;:23,&quot;Use Magic Device&quot;:19,&quot;CMB&quot;:15},&quot;feats&quot;:&quot;Combat Casting, Craft Wondrous Item, Improved Initiative, Iron Will, Scribe Scroll, Spell Penetration&quot;,&quot;languages&quot;:&quot;Abyssal, Aklo, Celestial, Common, Draconic, Protean; tongues&quot;,&quot;sq&quot;:&quot;change shape (greater polymorph)&quot;}"></div>
+
+## Illureshi (CR 9)
+
+**XP** 6,400  
+CN Medium outsider (chaotic, extraplanar, protean, shapechanger)  
+**Init** +8; **Senses** blindsense 30 ft., darkvision 60 ft., *arcane sight, detect law;* Perception +18  
+**Aura** spellwarp aura (30 ft.)
+
+**Defense**
+
+**AC** 23, touch 14, flat-footed 19 (+4 Dex, +9 natural)  
+**hp** 114 (12d10+48)  
+**Fort** +8, **Ref** +12, **Will** +13  
+**Defensive Abilities** amorphous anatomy, *freedom of movement*; **DR** 10/lawful; **Immune** acid, polymorph; **Resist** electricity 10, sonic 10; **SR** 20
+
+**Offense**
+
+**Speed** 30 ft., fly 30 ft. (perfect), swim 30 ft.  
+**Melee** bite +15 (2d6+3), 2 claws +15 (1d8+3), tail +15 (1d8+1 plus grab)  
+**Special Attacks** constrict (1d8+3)  
+**Spell-Like Abilities** (CL 10th; concentration +14)  
+Constant—*arcane sight, detect law, tongues*  
+ At will—*dispel magic* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *major creation, telekinesis* (DC 19)  
+ 3/day—*chaos hammer* (DC 18)  
+1/day—*break enchantment, plane shift* (DC 21)  
+**Sorcerer Spells Known** (CL 6th; concentration +10)  
+3rd (3/day)—*lightning bolt* (DC 16)  
+ 2nd (5/day)—*invisibility, scorching ray*  
+ 1st (6/day)—*cultural adaptation, mage armor, magic missile, shield*  
+ 0 (at will)—*acid splash, arcane mark, mage hand, mending, prestidigitation, ray of frost, read magic*
+
+**Statistics**
+
+**Str** 17, **Dex** 18, **Con** 18, **Int** 23, **Wis** 16, **Cha** 19  
+**Base Atk** +12; **CMB** +15; **CMD** 29 (can’t be tripped)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Penetration](../../rules/feats/spell-penetration.md)  
+**Skills** Acrobatics +16, Bluff +19, Diplomacy +16, Fly +19, Knowledge (any two) +18, Knowledge (arcana) +21, Knowledge (planes) +21, Perception +18, Spellcraft +21, Swim +23, Use Magic Device +19  
+**Languages** Abyssal, Aklo, Celestial, Common, Draconic, Protean; *tongues*  
+**SQ** change shape (*greater polymorph*)
+
+**Ecology**
+
+**Environment** any (Maelstrom)  
+**Organization** solitary or ouroboros (3–5)  
+**Treasure** double
+
+**Special Abilities**
+
+**Prehensile Tail (Ex)** An illureshi can’t wield weapons with its tail, but can use its tail to grab unattended items within 10 feet or stowed objects carried on its person as a swift action. It can hold such objects with its tail. The only items it can manipulate with its tail are wands, which it can activate as a move action.  
+ **Spellwarp Aura (Su)** Once per round, if a creature casts a spell or spell-like ability within the illureshi’s aura, the protean can attempt an opposed caster level check to redirect the effect to another legal target within range.  
+ **Spellcasting** An illureshi casts spells as a 6th-level sorcerer. It does not gain access to other sorcerer abilities.

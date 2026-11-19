@@ -1,0 +1,59 @@
+# Courage Heart
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Courage Heart&quot;,&quot;cr&quot;:&quot;15&quot;,&quot;xp&quot;:&quot;51,200&quot;,&quot;line&quot;:&quot;CG Medium outsider (chaotic, extraplanar, good)&quot;,&quot;init&quot;:10,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;30, touch 13, flat-footed 27&quot;,&quot;hp&quot;:&quot;195 (17d10+102); fast healing 10&quot;,&quot;saves&quot;:{&quot;Fort&quot;:18,&quot;Ref&quot;:18,&quot;Will&quot;:14},&quot;defense&quot;:&quot;DR 10/lawful; Immune fear; Resist acid 20, cold 20, electricity 20, fire 20&quot;,&quot;aura&quot;:&quot;rebellious aura (60 ft.)&quot;,&quot;speed&quot;:&quot;30 ft., fly 30 ft. (average)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+3 anarchic morningstar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[29,24,19,14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:11,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 anarchic dart&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[26,21,16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:9,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bloody rose, favored enemy (evil outsiders +6, humans +2, lawful outsiders +8, undead +4)&quot;,&quot;rangedTouch&quot;:23,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:17,&quot;concentration&quot;:24,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;aid&quot;,&quot;page&quot;:&quot;aid&quot;},{&quot;name&quot;:&quot;chaos hammer&quot;,&quot;page&quot;:&quot;chaos-hammer&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;page&quot;:&quot;remove-fear&quot;},{&quot;name&quot;:&quot;holy smite&quot;,&quot;page&quot;:&quot;holy-smite&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;darkvision&quot;,&quot;page&quot;:&quot;darkvision&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;dispel law&quot;,&quot;page&quot;:&quot;dispel-law&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;magic weapon&quot;,&quot;page&quot;:&quot;magic-weapon&quot;},{&quot;name&quot;:&quot;neutralize poison&quot;,&quot;page&quot;:&quot;neutralize-poison&quot;},{&quot;name&quot;:&quot;peasant armaments&quot;,&quot;page&quot;:&quot;peasant-armaments&quot;,&quot;note&quot;:&quot;page 69&quot;},{&quot;name&quot;:&quot;protection from arrows&quot;,&quot;page&quot;:&quot;protection-from-arrows&quot;},{&quot;name&quot;:&quot;shield other&quot;,&quot;page&quot;:&quot;shield-other&quot;},{&quot;name&quot;:&quot;status&quot;,&quot;page&quot;:&quot;status&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;martyr’s last blessing&quot;,&quot;page&quot;:&quot;martyrs-last-blessing&quot;,&quot;note&quot;:&quot;page 69&quot;},{&quot;name&quot;:&quot;mass invisibility&quot;,&quot;page&quot;:&quot;invisibility-mass&quot;},{&quot;name&quot;:&quot;telepathic bond&quot;,&quot;page&quot;:&quot;telepathic-bond&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Bloody Rose&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;At will as a free action, the herald can create a thorny red rose. She may use this rose as a +1 anarchic dart as if she had the Quick Draw feat. The rose loses all its powers 1 round after it leaves the herald’s hand.&quot;},{&quot;name&quot;:&quot;Darkwood Breastplate&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;The herald’s +4 darkwood breastplate has all the normal properties of darkwood but is as hard and strong as steel (similar to wood created with an ironwood spell).&quot;},{&quot;name&quot;:&quot;Favored Enemy&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;The herald has the favored enemy ability of a 17th-level ranger.&quot;},{&quot;name&quot;:&quot;Imbue with Power&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The herald can imbue an ally with a portion of her power. This ability functions like imbue with spell ability, except she may transfer uses of the following spell-like abilities as if they were cleric spells: cure moderate wounds, magic weapon, peasant armaments, protection from arrows, shield other, and status. Using this ability reduces the number of times per day she can use that spell-like ability until she dismisses the transfer or the recipient expends it (for example, if she imbues a target with cure moderate wounds, thereafter she can only use that spell-like ability twice per day).&quot;},{&quot;name&quot;:&quot;Martyr’s Blood&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;By marking an ally with her blood, the herald can transfer part of her fast healing ability to that ally. The herald’s fast healing decreases by 1 (minimum 0), and the ally gains fast healing 1 for 1 hour. This ability has no effect if the target already has fast healing.&quot;},{&quot;name&quot;:&quot;Rebellious Aura&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The herald’s aura grants allies within 60 feet the effects of good hope and a paladin’s aura of courage. The effects of this ability are included in the herald’s stat block.&quot;},{&quot;name&quot;:&quot;Tactician&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;The herald has the tactician ability of a 17th-level cavalier (4/day, one teamwork feat, all allies within 30 feet, 11 rounds). She may use this ability with any of her teamwork feats (Lookout, Outflank, Swap Places).&quot;}],&quot;abilities&quot;:&quot;Str 23, Dex 23, Con 22, Int 22, Wis 21, Cha 24&quot;,&quot;combat&quot;:&quot;BAB +17; CMB +23; CMD 39&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:19,&quot;Climb&quot;:23,&quot;Handle Animal&quot;:29,&quot;Heal&quot;:20,&quot;Intimidate&quot;:29,&quot;Knowledge (local)&quot;:25,&quot;Perception&quot;:27,&quot;Perform (oratory)&quot;:19,&quot;Ride&quot;:13,&quot;Sense Motive&quot;:27,&quot;Spellcraft&quot;:25,&quot;Stealth&quot;:26,&quot;Survival&quot;:27,&quot;Swim&quot;:23,&quot;CMB&quot;:23},&quot;feats&quot;:&quot;Blind-Fight, Dazzling Display, Deflect ArrowsB, Improved Initiative, Improved Iron Will, Iron Will, LookoutB, OutflankB, Point-Blank Shot, Rapid Shot, Swap PlacesB, Vital Strike, Weapon Focus (morningstar)&quot;,&quot;languages&quot;:&quot;Celestial, Common, Infernal; telepathy 100 ft.&quot;,&quot;sq&quot;:&quot;change shape (owl or mouse), martyr’s blood, tactician&quot;}"></div>
+
+## Courage Heart (CR 15)
+
+**XP** 51,200  
+CG Medium outsider (chaotic, extraplanar, good)  
+**Init** +10; **Senses** darkvision 60 ft., low-light vision; Perception +27  
+**Aura** rebellious aura (60 ft.)
+
+**Defense**
+
+**AC** 30, touch 13, flat-footed 27 (+10 armor, +3 Dex, +7 natural)  
+**hp** 195 (17d10+102); fast healing 10  
+**Fort** +18, **Ref** +18, **Will** +14  
+**DR** 10/lawful; **Immune** fear; **Resist** acid 20, cold 20, electricity 20, fire 20
+
+**Offense**
+
+**Speed** 30 ft., fly 30 ft. (average)  
+**Melee** *+3 anarchic morningstar* +29/+24/+19/+14 (1d8+11)  
+**Ranged**  *+1 anarchic dart* +26/+21/+16/+11 (1d4+9)  
+**Special Attacks** bloody rose, favored enemy (evil outsiders +6, humans +2, lawful outsiders +8, undead +4)  
+**Spell-Like Abilities** (CL 17th; concentration +24)  
+At will—*aid*, *chaos hammer*, *remove fear*, *holy smite*  
+3/day—*cure moderate wounds*, *darkvision*, *dimension door*, *dispel law*, *magic vestment*, *magic weapon*, *neutralize poison*, *peasant armaments* (page 69), *protection from arrows*, *shield other*, *status*  
+1/day—*martyr’s last blessing* (page 69), *mass invisibility*, *telepathic bond*
+
+**Statistics**
+
+**Str** 23, **Dex** 23, **Con** 22, **Int** 22, **Wis** 21, **Cha** 24  
+**Base Atk** +17; **CMB** +23; **CMD** 39  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Deflect ArrowsB](../../rules/feats/deflect-arrows.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [LookoutB](../../rules/feats/lookout.md), [OutflankB](../../rules/feats/outflank.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Swap PlacesB](../../rules/feats/swap-places.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (morningstar)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +19, Climb +23, Handle Animal +29, Heal +20, Intimidate +29, Knowledge (local) +25, Perception +27, Perform (oratory) +19, Ride +13, Sense Motive +27, Spellcraft +25, Stealth +26, Survival +27, Swim +23  
+**Languages** Celestial, Common, Infernal; telepathy 100 ft.  
+**SQ** change shape (owl or mouse), martyr’s blood, tactician
+
+**Ecology**
+
+**Environment** any land (Elysium)  
+**Organization** solitary  
+**Treasure** standard (*+4 darkwood breastplate*, other treasure)
+
+**Special Abilities**
+
+**Bloody Rose (Su)** At will as a free action, the herald can create a thorny red rose. She may use this rose as a *+1 anarchic dart* as if she had the Quick Draw feat. The rose loses all its powers 1 round after it leaves the herald’s hand.
+
+**Darkwood Breastplate** The herald’s *+4 darkwood breastplate* has all the normal properties of darkwood but is as hard and strong as steel (similar to wood created with an *ironwood* spell).
+
+**Favored Enemy (Ex)** The herald has the favored enemy ability of a 17th-level ranger.
+
+**Imbue with Power (Su)** The herald can imbue an ally with a portion of her power. This ability functions like *imbue with spell ability*, except she may transfer uses of the following spell-like abilities as if they were cleric spells: *cure moderate wounds*, *magic weapon*, *peasant armaments*, *protection from arrows*, *shield other*, and *status*. Using this ability reduces the number of times per day she can use that spell-like ability until she dismisses the transfer or the recipient expends it (for example, if she imbues a target with *cure moderate wounds*, thereafter she can only use that spell-like ability twice per day).
+
+**Martyr’s Blood (Su)** By marking an ally with her blood, the herald can transfer part of her fast healing ability to that ally. The herald’s fast healing decreases by 1 (minimum 0), and the ally gains fast healing 1 for 1 hour. This ability has no effect if the target already has fast healing.
+
+**Rebellious Aura (Su)** The herald’s aura grants allies within 60 feet the effects of *good hope* and a paladin’s aura of courage. The effects of this ability are included in the herald’s stat block.
+
+**Tactician (Ex)** The herald has the tactician ability of a 17th-level cavalier (4/day, one teamwork feat, all allies within 30 feet, 11 rounds). She may use this ability with any of her teamwork feats (Lookout, Outflank, Swap Places).

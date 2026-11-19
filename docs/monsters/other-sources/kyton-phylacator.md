@@ -1,0 +1,56 @@
+# Kyton, Phylacator
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Phylacator&quot;,&quot;cr&quot;:&quot;18&quot;,&quot;xp&quot;:&quot;153,600&quot;,&quot;line&quot;:&quot;LE Medium outsider (evil, extraplanar, kyton, lawful)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft., true seeing&quot;,&quot;ac&quot;:&quot;32, touch 12, flat-footed 30&quot;,&quot;hp&quot;:&quot;297 (18d10+198); regeneration 15 (good weapons and spells, silver weapons)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:19,&quot;Ref&quot;:15,&quot;Will&quot;:16},&quot;defense&quot;:&quot;DR 15/good and silver; Immune cold, disease; SR 29; Weaknesses iron chair (see text)&quot;,&quot;speed&quot;:&quot;20 ft. (30 ft. without armor)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 vicious dire flail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28,23,18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:16,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 2d6&quot;},{&quot;name&quot;:&quot;+1 vicious dire flail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28,23],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 2d6&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk manacles&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[23],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:11,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;nonlethal plus trip&quot;}]],&quot;specialAttacks&quot;:&quot;animated manacles, forbearance, unnerving gaze (30 ft., DC 26)&quot;,&quot;rangedTouch&quot;:22,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:18,&quot;concentration&quot;:25,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;deeper darkness&quot;,&quot;page&quot;:&quot;deeper-darkness&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;discern lies&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;discern-lies&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;order’s wrath&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;orders-wrath&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;imprisonment&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;imprisonment&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater prying eyes&quot;,&quot;page&quot;:&quot;prying-eyes-greater&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Animated Manacles&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A phylacator can throw a set of masterwork manacles like a masterwork bola. A target tripped by the phylacator’s manacles is also entangled until it slips free of the manacles or breaks them. Manacles thrown by a phylacator automatically expand or contract to fit creatures of any size. As a move action, a phylacator can move a single set of manacles within 180 feet up to 30 feet in any direction, but if a creature is locked in the manacles, the phylacator must succeed at a grapple combat maneuver check against the creature to move it. A phylacator can open or close any number of manacles within 180 feet as a free action, but it cannot open and close the same manacle in the same round.&quot;},{&quot;name&quot;:&quot;Forbearance&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a full-round action, a phylacator can end one imprisonment effect it previously created. This violently rips the target through the Plane of Shadow to an unoccupied square adjacent to the phylacator, automatically reducing the target to 0 hit points in the process. This is a pain effect.&quot;},{&quot;name&quot;:&quot;Institutionalized&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;In exchange for its service, a phylacator forms a bond with an institution that consists of 100 or more prisoners. While inside the limits of this institution, it gains a +2 bonus on initiative checks and Bluff, Intimidate, Knowledge (local), Perception, and Sense Motive checks. It must spend 1 day familiarizing itself with the institution to form this bond; once selected, it loses any bond it had with a previous location.&quot;},{&quot;name&quot;:&quot;Iron Chair&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Each phylacator is bound to a specific metal throne covered with a thousand iron spikes, in which it must sit, unarmored, for 15 minutes each day. A phylacator that does not perform this ritual loses its regeneration and institutionalized abilities until it can do so. The iron chair has hardness 10 and 500 hit points; if destroyed, a phylacator must spend 1d12 days on the Plane of Shadow to acquire a replacement.&quot;},{&quot;name&quot;:&quot;Unnerving Gaze&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A creature that fails its saving throw against a phylacator’s gaze is overcome with submissive hopelessness, taking a -4 penalty to its CMD for 1d4 rounds. This is a mind-affecting fear effect.&quot;}],&quot;abilities&quot;:&quot;Str 31, Dex 18, Con 32, Int 15, Wis 21, Cha 24&quot;,&quot;combat&quot;:&quot;BAB +18; CMB +28 (+32 trip); CMD 32 (44 vs. trip)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:28,&quot;Intimidate&quot;:28,&quot;Knowledge (local)&quot;:23,&quot;Knowledge (planes)&quot;:23,&quot;Knowledge (religion)&quot;:23,&quot;Perception&quot;:26,&quot;Sense Motive&quot;:26,&quot;Stealth&quot;:21,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Combat Expertise, Combat Reflexes, EnforcerAPG, Great Fortitude, Greater Trip, Improved Trip, Improved Two- Weapon Fighting, Two-Weapon Fighting, Weapon Focus (dire flail)&quot;,&quot;languages&quot;:&quot;Languages Common, Infernal; telepathy 100 ft.&quot;,&quot;sq&quot;:&quot;institutionalized&quot;}"></div>
+
+## Phylacator (CR 18)
+
+**XP** 153,600  
+LE Medium outsider (evil, extraplanar, kyton, lawful)  
+**Init** +4; **Senses** darkvision 60 ft., *[true seeing](../../magic/spells/true-seeing.md)*; Perception +26
+
+**Defense**
+
+**AC** 32, touch 12, flat-footed 30 (+6 armor, +2 Dex, +14 natural)  
+**hp** 297 (18d10+198); regeneration 15 (good weapons and spells, silver weapons)  
+**Fort** +19, **Ref** +15, **Will** +16  
+**DR** 15/good and silver; **Immune** cold, disease; **SR** 29  
+**Weaknesses** iron chair (see text)
+
+**Offense**
+
+**Speed** 20 ft. (30 ft. without armor)  
+**Melee** *+1 vicious dire flail* +28/+23/+18/+13 (1d8+16 plus 2d6), *+1 vicious dire flail* +28/+23 (1d8+6 plus 2d6)  
+**Ranged** mwk manacles +23 (1d4+11 nonlethal plus trip)  
+**Special Attacks** animated manacles, forbearance, unnerving gaze (30 ft., DC 26)  
+**Spell-Like Abilities** (CL 18th; concentration +25)  
+Constant—*true seeing*  
+At will—*deeper darkness*, *detect thoughts* (DC 19), *discern lies* (DC 21), *order’s wrath* (DC 21)  
+3/day—*greater command* (DC 22), *greater teleport*  
+1/day—*imprisonment* (DC 26), *greater prying eyes*
+
+**Statistics**
+
+**Str** 31, **Dex** 18, **Con** 32, **Int** 15, **Wis** 21, **Cha** 24  
+**Base Atk** +18; **CMB** +28 (+32 trip); **CMD** 32 (44 vs. trip)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), EnforcerAPG, [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Trip](../../rules/feats/greater-trip.md), [Improved Trip](../../rules/feats/improved-trip.md), Improved Two- Weapon Fighting, [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (dire flail)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +28, Intimidate +28, Knowledge (local, planes, religion) +23, Perception +26, Sense Motive +26, Stealth +21  
+**Languages** Languages Common, Infernal; telepathy 100 ft.  
+**SQ** institutionalized
+
+**Ecology**
+
+**Environment** any (Plane of Shadow)  
+**Organization** solitary  
+**Treasure** double (mwk chain mail, *+1 vicious/+1 vicious dire flail*, 4 mwk manacles, other treasure)
+
+**Special Abilities**
+
+**Animated Manacles (Su)** A phylacator can throw a set of masterwork manacles like a masterwork bola. A target tripped by the phylacator’s manacles is also entangled until it slips free of the manacles or breaks them. Manacles thrown by a phylacator automatically expand or contract to fit creatures of any size. As a move action, a phylacator can move a single set of manacles within 180 feet up to 30 feet in any direction, but if a creature is locked in the manacles, the phylacator must succeed at a grapple combat maneuver check against the creature to move it. A phylacator can open or close any number of manacles within 180 feet as a free action, but it cannot open and close the same manacle in the same round.
+
+**Forbearance (Su)** As a full-round action, a phylacator can end one *[imprisonment](../../magic/spells/imprisonment.md)* effect it previously created. This violently rips the target through the Plane of Shadow to an unoccupied square adjacent to the phylacator, automatically reducing the target to 0 hit points in the process. This is a pain effect.
+
+**Institutionalized (Ex)** In exchange for its service, a phylacator forms a bond with an institution that consists of 100 or more prisoners. While inside the limits of this institution, it gains a +2 bonus on initiative checks and Bluff, Intimidate, Knowledge (local), Perception, and Sense Motive checks. It must spend 1 day familiarizing itself with the institution to form this bond; once selected, it loses any bond it had with a previous location.
+
+**Iron Chair (Su)** Each phylacator is bound to a specific metal throne covered with a thousand iron spikes, in which it must sit, unarmored, for 15 minutes each day. A phylacator that does not perform this ritual loses its regeneration and institutionalized abilities until it can do so. The iron chair has hardness 10 and 500 hit points; if destroyed, a phylacator must spend 1d12 days on the Plane of Shadow to acquire a replacement.
+
+**Unnerving Gaze (Su)** A creature that fails its saving throw against a phylacator’s gaze is overcome with submissive hopelessness, taking a –4 penalty to its CMD for 1d4 rounds. This is a mind-affecting fear effect.

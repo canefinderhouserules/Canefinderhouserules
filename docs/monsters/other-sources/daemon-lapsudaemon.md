@@ -1,0 +1,56 @@
+# Daemon, Lapsudaemon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Lapsudaemon&quot;,&quot;cr&quot;:&quot;14&quot;,&quot;xp&quot;:&quot;38,400&quot;,&quot;line&quot;:&quot;NE Medium outsider (daemon, evil, extraplanar)&quot;,&quot;init&quot;:10,&quot;senses&quot;:&quot;blindsense 200 ft., darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;29, touch 24, flat-footed 18&quot;,&quot;hp&quot;:&quot;199 (19d10+95)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:21,&quot;Will&quot;:15},&quot;defense&quot;:&quot;amorphous, vertigo’s grace; DR 10/good; Immune acid, bludgeoning, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 25&quot;,&quot;aura&quot;:&quot;frightful presence (30 ft., DC 22)&quot;,&quot;speed&quot;:&quot;fly 200 ft. (perfect)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[23],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus momentum/19-20 and grab&quot;}]],&quot;specialAttacks&quot;:&quot;momentum, must come down (DC 22)&quot;,&quot;rangedTouch&quot;:29,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:14,&quot;concentration&quot;:16,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;,&quot;note&quot;:&quot;self plus 50 pounds only&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened gust of wind&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;gust-of-wind&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;reverse gravity&quot;,&quot;page&quot;:&quot;reverse-gravity&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fickle windsUM&quot;},{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 7, 1d3 suspiridaemons [Pathfinder Campaign Setting: Horsemen of the Apocalypse, Book of the Damned, Vol. 3 56] 80%&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Constant Motion&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Lapsudaemons never cease their falling motion. They must move their full movement speed in straight lines every round, making their slam attacks and grabs without stopping. A lapsudaemon doesn’t lose altitude or speed for aerial maneuvers and makes no Fly checks when changing directions. It “falls” vertically, horizontally, or diagonally and attacks any creature in its way, regardless of the number of creatures in its path. It can change directions each round to maximize the number of creatures it can slam, moving through other creatures’ spaces without the need for an Acrobatics check regardless of their size, but it still provokes attacks of opportunity, and it can only attack a particular creature once per round. It can fall at its full speed while grappling a single creature without needing to succeed at a check to do so; while grappling, it can make slam attacks only against the grappled creature, and it can’t use its grab ability. Lapsudaemons are immune to effects that change their movement speed or alter their flight ability, even if the effect would be harmless or beneficial. Lapsudaemons don’t take damage from falling or from bludgeoning attacks. The only exception is that any lapsudaemon somehow prevented from moving takes 1d6 points of damage each round for every 30 feet it doesn’t move. So great is the creature’s supernatural propulsion that forcing the lapsudaemon to remain still eventually tears it apart. Because lapsudaemons shout in horror as they fall, if a creature can hear, it can always notice the sound of a lapsudaemon’s presence with a Perception check DC of -10, regardless of the daemon’s Stealth.&quot;},{&quot;name&quot;:&quot;Momentum&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;When a lapsudaemon makes a slam attack while moving into a creature’s square, the attack deals an additional 1d6 points of damage for every 10 feet that the lapsudaemon moved since the last time it made a slam attack or struck a surface, to a maximum of 20d6. This damage isn’t multiplied on a critical hit.&quot;},{&quot;name&quot;:&quot;Must Come Down&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Any flying creature struck by a lapsudaemon must succeed at a DC 22 Will save or lose its ability to fly for 1 round. Such a creature falls until it regains the ability to fly or it hits the ground, whichever comes first. This affects both natural and magical flight. This doesn’t dispel magical flight effects, but instead suppresses them (functioning similar to antimagic field) for 1 round. When a lapsudaemon dies, it unleashes this ability a final time on all creatures within 30 feet. A creature falling for 1 round generally falls 200 feet. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Vertigo’s Grace&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A lapsudaemon’s constant motion protects it from attacks. It gains a deflection bonus to AC equal to its Charisma bonus.&quot;}],&quot;abilities&quot;:&quot;Str 18, Dex 31, Con 21, Int 13, Wis 18, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +19; CMB +29 (+31 bull rush or trip, +33 grapple); CMD 43 (45 vs. bull rush, can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:32,&quot;Bluff&quot;:21,&quot;Escape Artist&quot;:28,&quot;Fly&quot;:35,&quot;Knowledge (geography)&quot;:14,&quot;Knowledge (local)&quot;:14,&quot;Knowledge (planes)&quot;:14,&quot;Perception&quot;:26,&quot;Sense Motive&quot;:26,&quot;Stealth&quot;:23,&quot;CMB&quot;:29},&quot;feats&quot;:&quot;Acrobatic, Agile Maneuvers, Combat Expertise, Dodge, Improved Bull Rush, Improved Critical (slam), Improved Trip, Mobility, Power Attack, Quicken Spell-Like Ability (gust of wind)&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Draconic; telepathy 200 ft.&quot;,&quot;sq&quot;:&quot;constant motion&quot;}"></div>
+
+## Lapsudaemon (CR 14)
+
+**XP** 38,400  
+NE Medium outsider (daemon, evil, extraplanar)  
+**Init** +10; **Senses** blindsense 200 ft., darkvision 60 ft.; Perception +26  
+**Aura** frightful presence (30 ft., DC 22)
+
+**Defense**
+
+**AC** 29, touch 24, flat-footed 18 (+3 deflection, +10 Dex, +1 dodge, +5 natural)  
+**hp** 199 (19d10+95)  
+**Fort** +11, **Ref** +21, **Will** +15  
+**Defensive Abilities** amorphous, vertigo’s grace; **DR** 10/good; **Immune** acid, bludgeoning, death effects, disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 25
+
+**Offense**
+
+**Speed** fly 200 ft. (perfect)  
+**Melee** slam +23 (2d6+6 plus momentum/19–20 and grab)  
+**Special Attacks** momentum, must come down (DC 22)  
+**Spell-Like Abilities** (CL 14th; concentration +16)  
+At will—*greater teleport* (self plus 50 pounds only)  
+3/day—quickened *gust of wind* (DC 15), *reverse gravity*  
+1/day—*fickle winds*UM, summon (level 7, 1d3 suspiridaemons [*Pathfinder Campaign Setting: Horsemen of the Apocalypse, Book of the Damned, Vol. 3* 56] 80%)
+
+**Statistics**
+
+**Str** 18, **Dex** 31, **Con** 21, **Int** 13, **Wis** 18, **Cha** 16  
+**Base Atk** +19; **CMB** +29 (+31 bull rush or trip, +33 grapple); **CMD** 43 (45 vs. bull rush, can’t be tripped)  
+**Feats** [Acrobatic](../../rules/feats/acrobatic.md), [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Dodge](../../rules/feats/dodge.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Trip](../../rules/feats/improved-trip.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*gust of wind*)  
+**Skills** Acrobatics +32, Bluff +21, Escape Artist +28, Fly +35, Knowledge (geography) +14, Knowledge (local) +14, Knowledge (planes) +14, Perception +26, Sense Motive +26, Stealth +23 (see below)  
+**Languages** Abyssal, Common, Draconic; telepathy 200 ft.  
+**SQ** constant motion
+
+**Ecology**
+
+**Environment** any (Abaddon)  
+**Organization** solitary or storm (2–11)  
+**Treasure** standard
+
+**Special Abilities**
+
+**Constant Motion (Su)** Lapsudaemons never cease their falling motion. They must move their full movement speed in straight lines every round, making their slam attacks and grabs without stopping. A lapsudaemon doesn’t lose altitude or speed for aerial maneuvers and makes no Fly checks when changing directions. It “falls” vertically, horizontally, or diagonally and attacks any creature in its way, regardless of the number of creatures in its path. It can change directions each round to maximize the number of creatures it can slam, moving through other creatures’ spaces without the need for an Acrobatics check regardless of their size, but it still provokes attacks of opportunity, and it can only attack a particular creature once per round. It can fall at its full speed while grappling a single creature without needing to succeed at a check to do so; while grappling, it can make slam attacks only against the grappled creature, and it can’t use its grab ability.
+
+ Lapsudaemons are immune to effects that change their movement speed or alter their flight ability, even if the effect would be harmless or beneficial. Lapsudaemons don’t take damage from falling or from bludgeoning attacks. The only exception is that any lapsudaemon somehow prevented from moving takes 1d6 points of damage each round for every 30 feet it doesn’t move. So great is the creature’s supernatural propulsion that forcing the lapsudaemon to remain still eventually tears it apart.
+
+ Because lapsudaemons shout in horror as they fall, if a creature can hear, it can always notice the sound of a lapsudaemon’s presence with a Perception check DC of –10, regardless of the daemon’s Stealth.
+
+**Momentum (Ex)** When a lapsudaemon makes a slam attack while moving into a creature’s square, the attack deals an additional 1d6 points of damage for every 10 feet that the lapsudaemon moved since the last time it made a slam attack or struck a surface, to a maximum of 20d6. This damage isn’t multiplied on a critical hit.
+
+**Must Come Down (Su)** Any flying creature struck by a lapsudaemon must succeed at a DC 22 Will save or lose its ability to fly for 1 round. Such a creature falls until it regains the ability to fly or it hits the ground, whichever comes first. This affects both natural and magical flight. This doesn’t dispel magical flight effects, but instead suppresses them (functioning similar to *antimagic field*) for 1 round. When a lapsudaemon dies, it unleashes this ability a final time on all creatures within 30 feet. A creature falling for 1 round generally falls 200 feet. The save DC is Charisma-based.
+
+**Vertigo’s Grace (Su)** A lapsudaemon’s constant motion protects it from attacks. It gains a deflection bonus to AC equal to its Charisma bonus.

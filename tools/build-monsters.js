@@ -19,6 +19,10 @@ const BOOKS = {
   'gamemastery-guide-npcs': { title: 'GameMastery Guide NPCs', re: /^GameMastery Guide pg\./ },
   'monster-codex': { title: 'Monster Codex', re: /^Monster Codex pg\./ },
 };
+// every other book, minus stat blocks tied to the Golarion setting
+const MAIN_BOOKS = /^((Pathfinder RPG )?Bestiary( [2-6])?|Monster Codex|NPC Codex|GameMastery Guide) pg\./;
+const SETTING = /\b(Golarion|Absalom|Cheliax|Chelish|Chelaxian|Varisia\w*|Osirion\w*|Ustalav\w*|Numeria\w*|Katapesh\w*|Irrisen\w*|Mwangi|Tian|Garund\w*|Avistan\w*|Razmir\w*|Aroden|Kyonin|Nidal\w*|Mendev\w*|Worldwound|Sarkoris|Belkzen|Qadira\w*|Taldor\w*|Taldan|Andoran\w*|Brevoy|Sekamina|Nar-Voth|Orv|Hellknights?|Red Mantis|Aspis|Pathfinder Society|Shoanti|Kellid\w*|Mammoth Lords|Ulfen|Jadwiga|Magnimar\w*|Korvosa\w*|Riddleport|Sandpoint|Kaer Maga|Thassilon\w*|Azlant\w*|Shackles|Rahadoum|Geb|Nex|Alkenstar|Galt\w*|Isger|Molthune|Nirmathas|Lastwall|Ravounel|Druma|Kalistrade|Jalmeray|Vudra\w*|Minkai|Lung Wa|Tar-Baphon|Whispering Tyrant|Runelords?|Starstone|Inner Sea|Arcadia|Casmaron|Iblydos|Thuvia|Sargava|Bloodcove|Saga Lands|Linnorm Kings|Zagresh|Lamashtu|Dagon|Pazuzu|Orcus|Baphomet|Deskari|Nocticula|Kostchtchie|Zura|Mephistopheles|Dispater|Mammon|Belial|Geryon|Moloch|Baalzebul|Barbatos|Asmodeus|Szuriel|Trelmarixian|Apollyon|Charon|Groetus|Achaekek|Ghlaunder|Zyphus|Besmara|Kabriri|Areshkagal|Arazni|Kurgess|Casandalee|Brigh|Alseta|Hanspur|Gyronna|Sivanah|Naderi|Milani|Ragathiel|Dahak|Apsu|Inheritor)\b/;
+BOOKS['other-sources'] = { title: 'Other Sources', re: { test: s => !!s && !MAIN_BOOKS.test(s) }, exclude: SETTING };
 
 // ---------- helpers ----------
 const decode = s => String(s)
@@ -375,7 +379,15 @@ function pageFor(html, bookKey) {
     const src = plainText((b.match(/<b>Source<\/b>([\s\S]*?)<br/) || [])[1] || '');
     blocks.push({ html: b, source: src });
   }
-  const mine = blocks.filter(b => BOOKS[bookKey].re.test(b.source));
+  const book = BOOKS[bookKey];
+  const mine = blocks.filter(b => {
+    if (!book.re.test(b.source)) return false;
+    if (!book.exclude) return true;
+    // other sources: leave out unique named characters ("X, the Y") and blocks that name Golarion places, groups or powers
+    const name = plainText((b.html.match(/<h2 class="title">([\s\S]*?)<\/h2>/) || [])[1] || '');
+    const body = plainText(b.html.replace(/<b>Source<\/b>[\s\S]*?<br\s*\/?>/, ''));
+    return !/,/.test(name) && !book.exclude.test(body) && !book.exclude.test(pageName);
+  });
   if (!mine.length) return null;
   let md = '# ' + pageName + '\n\n';
   for (const b of mine) {
@@ -395,11 +407,12 @@ if (require.main === module) {
   const only = flag === '--only' ? new Set(onlyArg.split(',')) : null;
   const outDir = path.join(MON, bookKey);
   fs.mkdirSync(outDir, { recursive: true });
-  const files = fs.readdirSync(path.join(dir, 'pages')).filter(f => f.endsWith('.html'));
+  // dir may list several download folders separated by commas (monsters and NPCs)
+  const files = dir.split(',').flatMap(d => fs.readdirSync(path.join(d, 'pages')).filter(f => f.endsWith('.html')).map(f => path.join(d, 'pages', f)));
   const index = [];
   const seen = new Set();
-  for (const f of files) {
-    const html = fs.readFileSync(path.join(dir, 'pages', f), 'utf8');
+  for (const file of files) {
+    const html = fs.readFileSync(file, 'utf8');
     const p = pageFor(html, bookKey);
     if (!p || (only && !only.has(p.name))) continue;
     let slug = slugOf(p.name); while (seen.has(slug)) slug += '-2'; seen.add(slug);

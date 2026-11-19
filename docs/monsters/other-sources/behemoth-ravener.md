@@ -1,0 +1,52 @@
+# Behemoth, Ravener
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ravener&quot;,&quot;cr&quot;:&quot;18&quot;,&quot;xp&quot;:&quot;153,600&quot;,&quot;line&quot;:&quot;N Colossal magical beast&quot;,&quot;init&quot;:-2,&quot;senses&quot;:&quot;blindsense 60 ft., darkvision 60 ft., low-light vision, scent&quot;,&quot;ac&quot;:&quot;35, touch 0, flat-footed 35&quot;,&quot;hp&quot;:&quot;337 (25d10+200); regeneration 15 (electricity)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:22,&quot;Ref&quot;:12,&quot;Will&quot;:12},&quot;defense&quot;:&quot;DR 15/adamantine; Immune acid, curse effects, disease, mind-affecting effects, paralysis, poison, sonic; Resist cold 20, fire 20; SR 29&quot;,&quot;speed&quot;:&quot;30 ft., swim 30 ft.; space 30 ft.,, reach 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[33],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:16,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus snatch&quot;},{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[33],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:16,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;stomps&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[28],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;rock&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:24,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;demolishing attack, mighty roar, rock hurling (120 ft.), shock wave, swallow whole (4d6+24 bludgeoning damage, AC 27, hp 33), trample (2d8+24, DC 38)&quot;,&quot;rangedTouch&quot;:15,&quot;special&quot;:[{&quot;name&quot;:&quot;Camouflage&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A ravener behemoth looks like a rocky hillside or small mountain when at rest. It takes a DC 20 Perception check to notice it before it attacks.&quot;},{&quot;name&quot;:&quot;Demolishing Attack&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A ravener behemoth that makes a full attack against an object or structure deals double damage.&quot;},{&quot;name&quot;:&quot;Mighty Roar&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Every 1d4 rounds, as a standard action, a ravener behemoth can issue a mighty roar in a 60-foot cone that duplicates the effects of greater shout. This attack deals 10d6 points of sonic damage (or 20d6 against exposed brittle or crystalline objects or crystalline creatures). It also causes creatures to be stunned 1 for 1 round and deafened for 4d6 rounds. Creatures exposed to the sonic attack can negate the stunning and halve both the damage and duration of the deafness with a successful Fortitude save (DC 30). The save DC is Constitution-based.&quot;},{&quot;name&quot;:&quot;Rock Hurling&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Because of their immense hunger, ravener behemoths often ingest ore-laced rocks to fill their stomachs with longer-lasting sustenance. When faced with dangerous opponents outside its reach, a behemoth may regurgitate these rocks and grind them into smaller shards with its hardened teeth. It then spits forth these shards one at a time as boulders weighing between 60 to 80 pounds. A ravener usually carries enough rocks in its stomachs to make up to 4d6 boulders in this manner.&quot;},{&quot;name&quot;:&quot;Shock Wave&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;As a full-round action, a ravener behemoth can hammer the ground with its feet and generate a localized tremor that rips the ground, knocking down smaller creatures and creating difficult terrain in a 100-foot radius centered on the behemoth. This shock wave lasts for 1 round, during which time creatures in the affected area cannot move or attack. They must also succeed on a DC 38 Reflex save or fall prone. Any spellcaster on the ground must make a Concentration check (DC 20 + spell level) or lose any spell he or she tries to cast. The save DC is Strength-based.&quot;},{&quot;name&quot;:&quot;Swallow Whole&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A ravener behemoth can swallow a snatched opponent of Huge size or smaller with its bite attack by making a successful grapple check. Once swallowed, a victim suffers 4d6+24 points of bludgeoning damage per round from one of the behemoth’s 5 stomachs. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 33 points of damage to a stomach (AC 27). Once the creature exits, that stomach regenerates 15 hit points per round. A ravener behemoth may gorge itself upon multiple creatures, shunting each victim to a different stomach each time. Each of a behemoth’s 5 stomachs can hold 1 Huge, 4 Large, 16 Medium, 64 Small, 256 Tiny, or over 1,000 Diminutive or smaller creatures.&quot;}],&quot;abilities&quot;:&quot;Str 42, Dex 6, Con 26, Int 6, Wis 14, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +25; CMB +49; CMD 57 (61 vs. trip)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:17,&quot;Survival&quot;:14,&quot;Swim&quot;:28,&quot;CMB&quot;:49},&quot;feats&quot;:&quot;Awesome Blow, Cleave, Great Cleave, Greater Bull Rush, Greater Overrun, Greater Sunder, Improved Bull Rush, Improved Overrun, Improved Sunder, Iron Will, Lunge, Power Attack, Snatch&quot;,&quot;sq&quot;:&quot;camouflage&quot;}"></div>
+
+## Ravener (CR 18)
+
+**XP** 153,600  
+N Colossal magical beast  
+**Init** -2; **Senses** blindsense 60 ft., darkvision 60 ft., low-light vision, scent; Perception +17
+
+**Defense**
+
+**AC** 35, touch 0, flat-footed 35 (-2 Dex, +35 natural, -8 size)  
+**hp** 337 (25d10+200); regeneration 15 (electricity)  
+**Fort** +22, **Ref** +12, **Will** +12  
+**DR** 15/adamantine; **Immune** acid, curse effects, disease, mind-affecting effects, paralysis, poison, sonic; **Resist** cold 20, fire 20; **SR** 29
+
+**Offense**
+
+**Speed** 30 ft., swim 30 ft.  
+**Melee** bite +33 (4d6+16 plus snatch), gore +33 (4d6+16), 2 stomps +28 (2d8+8)  
+**Ranged** rock +16 (2d8+24)  
+**Space** 30 ft., **Reach** 20 ft.  
+**Special Attacks** demolishing attack, mighty roar, rock hurling (120 ft.), shock wave, swallow whole (4d6+24 bludgeoning damage, AC 27, hp 33), trample (2d8+24, DC 38)
+
+**Statistics**
+
+**Str** 42, **Dex** 6, **Con** 26, **Int** 6, **Wis** 14, **Cha** 14  
+**Base Atk** +25; **CMB** +49; **CMD** 57 (61 vs. trip)  
+**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Great Cleave](../../rules/feats/great-cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Lunge](../../rules/feats/lunge.md), [Power Attack](../../rules/feats/power-attack.md), Snatch  
+**Skills** Perception +17, Survival +14, Swim +28  
+**SQ** camouflage
+
+**Ecology**
+
+**Environment** any forest, hill, jungle, or plains  
+**Organization** solitary or pair  
+**Treasure** standard
+
+**Special Abilities**
+
+**Camouflage (Ex)** A ravener behemoth looks like a rocky hillside or small mountain when at rest. It takes a DC 20 Perception check to notice it before it attacks.
+
+**Demolishing Attack (Ex)** A ravener behemoth that makes a full attack against an object or structure deals double damage.
+
+**Mighty Roar (Su)** Every 1d4 rounds, as a standard action, a ravener behemoth can issue a mighty roar in a 60-foot cone that duplicates the effects of *greater shout*. This attack deals 10d6 points of sonic damage (or 20d6 against exposed brittle or crystalline objects or crystalline creatures). It also causes creatures to be stunned 1 for 1 round and deafened for 4d6 rounds. Creatures exposed to the sonic attack can negate the stunning and halve both the damage and duration of the deafness with a successful Fortitude save (DC 30). The save DC is Constitution-based.
+
+**Rock Hurling (Ex)** Because of their immense hunger, ravener behemoths often ingest ore-laced rocks to fill their stomachs with longer-lasting sustenance. When faced with dangerous opponents outside its reach, a behemoth may regurgitate these rocks and grind them into smaller shards with its hardened teeth. It then spits forth these shards one at a time as boulders weighing between 60 to 80 pounds. A ravener usually carries enough rocks in its stomachs to make up to 4d6 boulders in this manner.
+
+**Shock Wave (Ex)** As a full-round action, a ravener behemoth can hammer the ground with its feet and generate a localized tremor that rips the ground, knocking down smaller creatures and creating difficult terrain in a 100-foot radius centered on the behemoth. This shock wave lasts for 1 round, during which time creatures in the affected area cannot move or attack. They must also succeed on a DC 38 Reflex save or fall prone. Any spellcaster on the ground must make a Concentration check (DC 20 + spell level) or lose any spell he or she tries to cast. The save DC is Strength-based.
+
+**Swallow Whole (Ex)** A ravener behemoth can swallow a snatched opponent of Huge size or smaller with its bite attack by making a successful grapple check. Once swallowed, a victim suffers 4d6+24 points of bludgeoning damage per round from one of the behemoth’s 5 stomachs. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 33 points of damage to a stomach (AC 27). Once the creature exits, that stomach regenerates 15 hit points per round. A ravener behemoth may gorge itself upon multiple creatures, shunting each victim to a different stomach each time. Each of a behemoth’s 5 stomachs can hold 1 Huge, 4 Large, 16 Medium, 64 Small, 256 Tiny, or over 1,000 Diminutive or smaller creatures.
