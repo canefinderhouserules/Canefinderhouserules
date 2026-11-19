@@ -1,0 +1,49 @@
+# Arcanothief
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Arcanothief&quot;,&quot;cr&quot;:&quot;12&quot;,&quot;xp&quot;:&quot;19,200&quot;,&quot;line&quot;:&quot;Halfling rogue 4/sorcerer 5/arcane trickster 4, N Small humanoid (halfling)&quot;,&quot;init&quot;:4,&quot;ac&quot;:&quot;22, touch 16, flat-footed 18&quot;,&quot;hp&quot;:&quot;111 (4d8+5d6+4d6+44)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:16,&quot;Will&quot;:10},&quot;saveNote&quot;:&quot;+2 vs. fear&quot;,&quot;defense&quot;:&quot;evasion, trap sense +1, uncanny dodge&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7,2],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-2,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 heavy crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;impromptu sneak attack 1/day, sneak attack +4d6&quot;,&quot;rangedTouch&quot;:12,&quot;spells&quot;:[{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane eye&quot;,&quot;page&quot;:&quot;arcane-eye&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;}]},{&quot;label&quot;:&quot;3rd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;flame arrow&quot;,&quot;page&quot;:&quot;flame-arrow&quot;},{&quot;name&quot;:&quot;gaseous form&quot;,&quot;page&quot;:&quot;gaseous-form&quot;}]},{&quot;label&quot;:&quot;2nd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;knock&quot;,&quot;page&quot;:&quot;knock&quot;},{&quot;name&quot;:&quot;locate object&quot;,&quot;page&quot;:&quot;locate-object&quot;},{&quot;name&quot;:&quot;spider climb&quot;,&quot;page&quot;:&quot;spider-climb&quot;}]},{&quot;label&quot;:&quot;1st (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect secret doors&quot;,&quot;page&quot;:&quot;detect-secret-doors&quot;},{&quot;name&quot;:&quot;erase&quot;,&quot;page&quot;:&quot;erase&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;floating disk&quot;,&quot;page&quot;:&quot;floating-disk&quot;},{&quot;name&quot;:&quot;identify&quot;,&quot;page&quot;:&quot;identify&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid splash&quot;,&quot;page&quot;:&quot;acid-splash&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true}]}]}],&quot;abilities&quot;:&quot;Str 6, Dex 18, Con 16, Int 13, Wis 10, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +7; CMB +4; CMD 19&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:15,&quot;Climb&quot;:9,&quot;Disable Device&quot;:26,&quot;Escape Artist&quot;:11,&quot;Knowledge (arcana)&quot;:10,&quot;Perception&quot;:16,&quot;Stealth&quot;:24,&quot;Swim&quot;:7,&quot;Use Magic Device&quot;:12,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Arcane Armor Training, Eschew Materials, Extend Spell, Improved Lightning Reflexes, Lightning Reflexes, Nimble Moves, Skill Focus (Disable Device), Still Spell&quot;,&quot;languages&quot;:&quot;Common, Draconic, Halfling&quot;,&quot;sq&quot;:&quot;arcane bond (+1 heavy crossbow), bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), metamagic adept (1/day), ranged legerdemain, rogue talents (quick disable, trap spotter), trapfinding +2&quot;,&quot;gear&quot;:&quot;+1 construct-bane bolts (3), +1 undead-bane bolts (3), potions of cure serious wounds (2), scroll of neutralize poison, scroll of remove curse, scroll of remove disease, scroll of teleport, wand of delay poison (10 charges), antitoxin (5), holy water (5), tindertwigs (5)&quot;}"></div>
+
+## Arcanothief (CR 12)
+
+**XP** 19,200  
+Halfling rogue 4/sorcerer 5/arcane trickster 4  
+N Small humanoid (halfling)  
+**Init** +4; **Senses** Perception +16
+
+**Defense**
+
+**AC** 22, touch 16, flat-footed 18 (+5 armor, +1 deflection, +4 Dex, +1 natural, +1 size)  
+**hp** 111 (4d8+5d6+4d6+44)  
+**Fort** +9, **Ref** +16, **Will** +10; +2 vs. fear  
+**Defensive Abilities** evasion, trap sense +1, uncanny dodge
+
+**Offense**
+
+**Speed** 20 ft.  
+**Melee** mwk rapier +7/+2 (1d4–2)  
+**Ranged**  *+1 heavy crossbow* +13 (1d8+1/19–20)  
+**Special Attacks** impromptu sneak attack 1/day, sneak attack +4d6  
+**Sorcerer Spells Known** (CL 9th; concentration +12; arcane spell failure 10%)  
+4th (4/day)—*arcane eye*, *dimension door*  
+3rd (7/day)—*dispel magic*, *flame arrow*, *gaseous form*  
+2nd (7/day)—*false life*, *invisibility*, *knock*, *locate object*, *spider climb*  
+1st (7/day)—*detect secret doors*, *erase*, *feather fall*, *floating disk*, *identify*, *unseen servant*  
+0 (at will)—*acid splash*, *detect magic*, *detect poison*, *light*, *mage hand*, *open/close*, *prestidigitation*, *ray of frost*  
+**Bloodline** arcane
+
+**Tactics**
+
+**Before Combat** The arcane trickster casts *false life*.  
+**During Combat** The arcane trickster stays out of melee, using *invisibility*, *gaseous form*, and *dimension door* to keep her distance while pelting foes with crossbow bolts. When in dire straits, she uses her *scroll of teleport* to flee.  
+**Base Statistics** Without *false life*, the arcane trickster’s statistics are **hp** 97.
+
+**Statistics**
+
+**Str** 6, **Dex** 18, **Con** 16, **Int** 13, **Wis** 10, **Cha** 16  
+**Base Atk** +7; **CMB** +4; **CMD** 19  
+**Feats** [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Extend Spell](../../rules/feats/extend-spell.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Skill Focus (Disable Device)](../../rules/feats/skill-focus.md), [Still Spell](../../rules/feats/still-spell.md)  
+**Skills** Acrobatics +15 (+11 when jumping), Climb +9, Disable Device +26, Escape Artist +11, Knowledge (arcana) +10, Perception +16, Stealth +24, Swim +7, Use Magic Device +12  
+**Languages** Common, Draconic, Halfling  
+**SQ** arcane bond (*+1 heavy crossbow*), bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), metamagic adept (1/day), ranged legerdemain, rogue talents (quick disable, trap spotter), trapfinding +2  
+**Combat Gear**  *+1 construct-bane bolts* (3), *+1 undead-bane bolts* (3), *potions of cure serious wounds* (2), *scroll of neutralize poison*, *scroll of remove curse*, *scroll of remove disease*, *scroll of teleport*, *wand of delay poison* (10 charges), antitoxin (5), holy water (5), tindertwigs (5); **Other Gear** *+1 mithral chain shirt*, *+1 heavy crossbow* with 20 bolts, masterwork rapier, *amulet of natural armor +1*, *belt of incredible dexterity +2*, *cloak of resistance +2*, *gloves of arrow snaring*, *ring of protection +1*, everburning torch, masterwork thieves’ tools, spell component pouch, 56 gp
+
+Masters at breaking into wizard towers and sorcerer societies, arcanothieves steal magic items, supplying local fences or selling directly to visiting adventurers.

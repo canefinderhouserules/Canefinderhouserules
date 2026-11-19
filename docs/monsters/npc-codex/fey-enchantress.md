@@ -1,0 +1,53 @@
+# Fey Enchantress
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Fey Enchantress&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;12,800&quot;,&quot;line&quot;:&quot;Elf sorcerer 12, CN Medium humanoid (elf)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;21, touch 16, flat-footed 17&quot;,&quot;hp&quot;:&quot;56 (12d6+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:10,&quot;Will&quot;:12},&quot;saveNote&quot;:&quot;+2 vs. enchantments&quot;,&quot;defense&quot;:&quot;Immune sleep&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk shortbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:9,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;laughing touch&quot;}]},{&quot;label&quot;:&quot;12 rounds/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fleeting glance&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th (3/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;mass suggestion&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;suggestion-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;5th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dominate person&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;dominate-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mind fog&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;mind-fog&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;tree stride&quot;,&quot;page&quot;:&quot;tree-stride&quot;}]},{&quot;label&quot;:&quot;4th (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;charm monster&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;charm-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;crushing despair&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;crushing-despair&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;3rd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;deep slumber&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;deep-slumber&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;fly&quot;,&quot;page&quot;:&quot;fly&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;suggestion&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;suggestion&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;},{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;hideous laughter&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;hideous-laughter&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:3},{&quot;name&quot;:&quot;spectral hand&quot;,&quot;page&quot;:&quot;spectral-hand&quot;},{&quot;name&quot;:&quot;touch of idiocy&quot;,&quot;page&quot;:&quot;touch-of-idiocy&quot;}]},{&quot;label&quot;:&quot;1st (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;entangle&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;entangle&quot;,&quot;save&quot;:&quot;Reflex partial&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 8, Dex 16, Con 10, Int 12, Wis 13, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +5; CMD 21&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:18,&quot;Diplomacy&quot;:15,&quot;Fly&quot;:7,&quot;Intimidate&quot;:18,&quot;Knowledge (arcana)&quot;:6,&quot;Knowledge (nature)&quot;:5,&quot;Perception&quot;:12,&quot;Spellcraft&quot;:9,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Dodge, Eschew Materials, Greater Spell Focus (enchantment), Improved Iron Will, Iron Will, Lightning Reflexes, Spell Focus (enchantment), Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common, Elven, Sylvan&quot;,&quot;sq&quot;:&quot;bloodline arcana (+2 DC for compulsion spells), elven magic, weapon familiarity, woodland stride&quot;,&quot;gear&quot;:&quot;elixir of love (2), scroll of wall of force&quot;}"></div>
+
+## Fey Enchantress (CR 11)
+
+**XP** 12,800  
+Elf sorcerer 12  
+CN Medium humanoid (elf)  
+**Init** +3; **Senses** low-light vision; Perception +12
+
+**Defense**
+
+**AC** 21, touch 16, flat-footed 17 (+4 armor, +2 deflection, +3 Dex, +1 dodge, +1 natural)  
+**hp** 56 (12d6+12)  
+**Fort** +5, **Ref** +10, **Will** +12; +2 vs. enchantments  
+**Immune** sleep
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** mwk rapier +10/+5 (1d6–1/18–20)  
+**Ranged**  mwk shortbow +10/+5 (1d6/×3)  
+**Spell-Like Abilities** (CL 12th; concentration +17)  
+8/day—laughing touch  
+12 rounds/day—fleeting glance  
+**Sorcerer Spells Known** (CL 12th; concentration +17)  
+6th (3/day)—*mass suggestion* (DC 25)  
+5th (6/day)—*dominate person* (DC 24), *mind fog* (DC 24), *tree stride*  
+4th (7/day)—*bestow curse* (DC 19), *charm monster* (DC 21), *crushing despair* (DC 23), *poison* (DC 19)  
+3rd (7/day)—*deep slumber* (DC 22), *fly*, *hold person* (DC 22), *lightning bolt* (DC 18), *suggestion* (DC 22)  
+2nd (7/day)—*false life*, *glitterdust* (DC 17), *hideous laughter* (DC 21), *scorching ray*, *spectral hand*, *touch of idiocy*  
+1st (8/day)—*charm person* (DC 18), *entangle* (DC 16), *mage armor*, *magic missile*, *shield*, *ventriloquism* (DC 16)  
+0 (at will)—*dancing lights*, *daze* (DC 19), *detect magic*, *ghost sound* (DC 15), *mage hand*, *message*, *prestidigitation*, *ray of frost*, *read magic*  
+**Bloodline** fey
+
+**Tactics**
+
+**Before Combat** The sorcerer casts *false life* and *mage armor*.  
+**During Combat** The sorcerer uses her fleeting glance ability to turn invisible, then casts *mind fog* before using her enchantment spells. She casts *spectral hand* to deliver touch spells such as *bestow curse*, *poison*, or *touch of idiocy*.  
+**Base Statistics** Without *false life* and *mage armor*, the sorcerer’s statistics are **AC** 17, touch 16, flat-footed 13; **hp** 44.
+
+**Statistics**
+
+**Str** 8, **Dex** 16, **Con** 10, **Int** 12, **Wis** 13, **Cha** 20  
+**Base Atk** +6; **CMB** +5; **CMD** 21  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Greater Spell Focus (enchantment)](../../rules/feats/greater-spell-focus.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Skills** Bluff +18, Diplomacy +15, Fly +7, Intimidate +18, Knowledge (arcana) +6, Knowledge (nature) +5, Perception +12, Spellcraft +9 (+11 to identify magic item properties)  
+**Languages** Common, Elven, Sylvan  
+**SQ** bloodline arcana (+2 DC for compulsion spells), elven magic, weapon familiarity, woodland stride  
+**Combat Gear**  *elixir of love* (2), *scroll of wall of force*; **Other Gear** masterwork rapier, masterwork shortbow with 20 arrows, *cloak of resistance +1*, *hat of disguise*, *headband of alluring charisma +2*, *ring of protection +2*, jewelry (worth 300 gp), 1,825 gp
+
+The fey enchantress uses her powers to manipulate others, acquire power, and gain wealth.

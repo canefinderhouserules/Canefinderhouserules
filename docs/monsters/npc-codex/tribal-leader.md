@@ -1,0 +1,47 @@
+# Tribal Leader
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tribal Leader&quot;,&quot;cr&quot;:&quot;12&quot;,&quot;xp&quot;:&quot;19,200&quot;,&quot;line&quot;:&quot;Human bard 13, LE Medium humanoid (human)&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;see invisibility&quot;,&quot;ac&quot;:&quot;21, touch 13, flat-footed 18&quot;,&quot;hp&quot;:&quot;78 (13d8+16)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:10,&quot;Will&quot;:8},&quot;saveNote&quot;:&quot;+4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 spear&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14,9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:5,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+2 spear&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14,9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bardic performance 32 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion)&quot;,&quot;rangedTouch&quot;:11,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:13,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th (1/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;mass suggestion&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;suggestion-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;nightmare&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;nightmare&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;4th (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;cure-critical-wounds&quot;,&quot;save&quot;:&quot;Will half (harmless)&quot;},{&quot;name&quot;:&quot;hallucinatory terrain&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;hallucinatory-terrain&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;speak with plants&quot;,&quot;page&quot;:&quot;speak-with-plants&quot;},{&quot;name&quot;:&quot;summon monster IV&quot;,&quot;page&quot;:&quot;summon-monster-iv&quot;}]},{&quot;label&quot;:&quot;3rd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fear&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;haste&quot;,&quot;save&quot;:&quot;Fortitude negates (harmless)&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;},{&quot;name&quot;:&quot;slow&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;slow&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;speak with animals&quot;,&quot;page&quot;:&quot;speak-with-animals&quot;}]},{&quot;label&quot;:&quot;2nd (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cat’s grace&quot;,&quot;page&quot;:&quot;cats-grace&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;rage&quot;,&quot;page&quot;:&quot;rage&quot;},{&quot;name&quot;:&quot;silence&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;silence&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;}]},{&quot;label&quot;:&quot;1st (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;hideous laughter&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;hideous-laughter&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;flare&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;flare&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;}]}]}],&quot;abilities&quot;:&quot;Str 14, Dex 14, Con 12, Int 10, Wis 10, Cha 19&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +11; CMD 24&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:16,&quot;Diplomacy&quot;:6,&quot;Intimidate&quot;:6,&quot;Knowledge (arcane)&quot;:10,&quot;Knowledge (dungeoneering)&quot;:10,&quot;Knowledge (religion)&quot;:10,&quot;Knowledge (geography)&quot;:15,&quot;Knowledge (nature)&quot;:15,&quot;Perception&quot;:10,&quot;Perform (dance, oratory, percussion)&quot;:20,&quot;Sense Motive&quot;:10,&quot;Spellcraft&quot;:10,&quot;Stealth&quot;:14,&quot;Use Magic Device&quot;:15,&quot;CMB&quot;:11},&quot;feats&quot;:&quot;Combat Reflexes, Dodge, Improved Critical (spear), Persuasive, Point-Blank Shot, Power Attack, Vital Strike, Weapon Focus (spear)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;sq&quot;:&quot;bardic knowledge +6, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (oratory, percussion, dance)&quot;,&quot;gear&quot;:&quot;scrolls of bull’s strength (2), scroll of fog cloud, scroll of web, wand of magic missile (CL 5th, 50 charges)&quot;}"></div>
+
+## Tribal Leader (CR 12)
+
+**XP** 19,200  
+Human bard 13  
+LE Medium humanoid (human)  
+**Init** +2; **Senses** *see invisibility*; Perception +10
+
+**Defense**
+
+**AC** 21, touch 13, flat-footed 18 (+6 armor, +2 Dex, +1 dodge, +2 shield)  
+**hp** 78 (13d8+16)  
+**Fort** +5, **Ref** +10, **Will** +8; +4 vs. bardic performance, language-dependent, and sonic
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+2 spear* +14/+9 (1d8+5/19–20/×3)  
+**Ranged**  *+2 spear* +14/+9 (1d8+4/19–20/×3)  
+**Special Attacks** bardic performance 32 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, *suggestion*)  
+**Bard Spells Known** (CL 13th; concentration +17)  
+5th (1/day)—*mass suggestion* (DC 19), *nightmare* (DC 19)  
+4th (4/day)—*cure critical wounds* (DC 18), *hallucinatory terrain* (DC 18), *speak with plants*, *summon monster IV*  
+3rd (5/day)—*fear* (DC 17), *haste* (DC 17), *see invisibility*, *slow* (DC 17), *speak with animals*  
+2nd (6/day)—*cat’s grace*, *invisibility*, *rage*, *silence* (DC 16), *tongues*  
+1st (6/day)—*charm person* (DC 15), *comprehend languages*, *expeditious retreat*, *grease*, *hideous laughter* (DC 15), *ventriloquism* (DC 15)  
+0 (at will)—*dancing lights*, *flare* (DC 14), *ghost sound* (DC 14), *light*, *mage hand*, *message*
+
+**Tactics**
+
+**Before Combat** The bard casts *expeditious retreat* and *see invisibility*.  
+**During Combat** The bard uses *hallucinatory terrain* to befuddle and confuse enemies. To aid her side, she casts *summon monster IV*. She targets casters with *silence* and other combatants with *slow*, using her *wand of magic missiles* to aid in dealing damage.
+
+**Statistics**
+
+**Str** 14, **Dex** 14, **Con** 12, **Int** 10, **Wis** 10, **Cha** 19  
+**Base Atk** +9; **CMB** +11; **CMD** 24  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (spear)](../../rules/feats/improved-critical.md), [Persuasive](../../rules/feats/persuasive.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (spear)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +16, Diplomacy +6, Intimidate +6, Knowledge (arcane, dungeoneering, religion) +10, Knowledge (geography, nature) +15, Perception +10, Perform (dance, oratory, percussion) +20, Sense Motive +10, Spellcraft +10, Stealth +14, Use Magic Device +15  
+**Languages** Common  
+**SQ** bardic knowledge +6, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (oratory, percussion, dance)  
+**Combat Gear**  *scrolls of bull’s strength* (2), *scroll of fog cloud*, *scroll of web*, *wand of magic missile* (CL 5th, 50 charges); **Other Gear** *+3 studded leather*, *+1 buckler*, *+2 spear*, *headband of alluring Charisma +2*, 8 gp
+
+Tribal leaders use their abilities rather than brute strength to guide their tribes to victory.

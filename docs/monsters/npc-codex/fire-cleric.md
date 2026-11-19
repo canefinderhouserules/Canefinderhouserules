@@ -1,0 +1,52 @@
+# Fire Cleric
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Fire Cleric&quot;,&quot;cr&quot;:&quot;10&quot;,&quot;xp&quot;:&quot;9,600&quot;,&quot;line&quot;:&quot;Human cleric of Asmodeus 11, LE Medium humanoid (human)&quot;,&quot;init&quot;:3,&quot;ac&quot;:&quot;20, touch 9, flat-footed 20&quot;,&quot;hp&quot;:&quot;75 (11d8+22)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:5,&quot;Will&quot;:13},&quot;defense&quot;:&quot;Resist electricity 20, fire 10&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk heavy mace&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 7/day (DC 19, 6d6), staff of order (5 rounds, 1/day)&quot;,&quot;rangedTouch&quot;:7,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:11,&quot;concentration&quot;:16,&quot;levels&quot;:[{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fire bolt&quot;,&quot;note&quot;:&quot;1d6+5 fire&quot;},{&quot;name&quot;:&quot;touch of law&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:11,&quot;concentration&quot;:16,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blade barrier&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;blade-barrier&quot;,&quot;save&quot;:&quot;Reflex half or Reflex negates&quot;},{&quot;name&quot;:&quot;fire seeds&quot;,&quot;page&quot;:&quot;fire-seeds&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fire shield&quot;,&quot;page&quot;:&quot;fire-shield&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;11d6&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;spell resistance&quot;,&quot;page&quot;:&quot;spell-resistance&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;wall of fire&quot;,&quot;page&quot;:&quot;wall-of-fire&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;fireball&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;glyph of warding&quot;,&quot;page&quot;:&quot;glyph-of-warding&quot;},{&quot;name&quot;:&quot;invisibility purge&quot;,&quot;page&quot;:&quot;invisibility-purge&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;water walk&quot;,&quot;page&quot;:&quot;water-walk&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;produce flame&quot;,&quot;page&quot;:&quot;produce-flame&quot;,&quot;damage&quot;:&quot;1d6+5&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;resist-energy&quot;,&quot;save&quot;:&quot;Fortitude negates (harmless)&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;silence&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;silence&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;burning hands&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;burning-hands&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;5d4&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;endure elements&quot;,&quot;page&quot;:&quot;endure-elements&quot;},{&quot;name&quot;:&quot;magic weapon&quot;,&quot;page&quot;:&quot;magic-weapon&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;virtue&quot;,&quot;page&quot;:&quot;virtue&quot;}]}]}],&quot;abilities&quot;:&quot;Str 13, Dex 8, Con 12, Int 10, Wis 21, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +8; CMB +9; CMD 18&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:7,&quot;Knowledge (nobility)&quot;:6,&quot;Knowledge (religion)&quot;:6,&quot;Knowledge (planes)&quot;:7,&quot;Linguistics&quot;:5,&quot;Perception&quot;:11,&quot;Sense Motive&quot;:13,&quot;Spellcraft&quot;:8,&quot;CMB&quot;:9},&quot;feats&quot;:&quot;Extra Channel, Greater Spell Focus (evocation), Improved Channel, Improved Initiative, Lightning Reflexes, Selective Channeling, Spell Focus (evocation)&quot;,&quot;languages&quot;:&quot;Common, Ignan, Infernal&quot;,&quot;sq&quot;:&quot;aura&quot;,&quot;gear&quot;:&quot;necklace of fireballs (type III), potion of delay poison, wand of shield of faith (7 charges)&quot;}"></div>
+
+## Fire Cleric (CR 10)
+
+**XP** 9,600  
+Human cleric of Asmodeus 11  
+LE Medium humanoid (human)  
+**Init** +3; **Senses** Perception +11
+
+**Defense**
+
+**AC** 20, touch 9, flat-footed 20 (+7 armor, –1 Dex, +1 natural, +3 shield)  
+**hp** 75 (11d8+22)  
+**Fort** +9, **Ref** +5, **Will** +13  
+**Resist** electricity 20, fire 10
+
+**Offense**
+
+**Speed** 20 ft.  
+**Melee** mwk heavy mace +10/+5 (1d8+1)  
+**Ranged**  mwk light crossbow +8 (1d8/19–20)  
+**Special Attacks** channel negative energy 7/day (DC 19, 6d6), staff of order (5 rounds, 1/day)  
+**Spell-Like Abilities** (CL 11th; concentration +16)  
+8/day—fire bolt (1d6+5 fire), touch of law  
+**Cleric Spells Prepared** (CL 11th; concentration +16)  
+6th—*blade barrier* (DC 23), *fire seeds*D  
+5th—*fire shield*D, *flame strike* (2, DC 22), *spell resistance*  
+4th—*air walk*, *cure serious wounds*, *dismissal* (DC 19), *freedom of movement*, *wall of fire*D  
+3rd—*cure serious wounds*, *fireball*D (DC 20), *glyph of warding*, *invisibility purge*, *searing light*, *water walk*  
+2nd—*cure moderate wounds*, *hold person* (DC 17), *produce flame*D, *resist energy* (2, DC 17), *silence* (DC 17)  
+1st—*bless*, *burning hands*D (DC 18), *command* (2, DC 16), *cure light wounds*, *endure elements*, *magic weapon*  
+0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *virtue*  
+**D** Domain spell; **Domains** Fire, Law
+
+**Tactics**
+
+**Before Combat** The cleric casts *freedom of movement* and *resist energy* (electricity).  
+**During Combat** The cleric casts *fire shield* (warm shield), uses his *wand of shield of faith*, then attacks with fire spells, switching to *blade barrier*, channeled energy, and *flame strike* against fire-resistant opponents.
+
+**Statistics**
+
+**Str** 13, **Dex** 8, **Con** 12, **Int** 10, **Wis** 21, **Cha** 14  
+**Base Atk** +8; **CMB** +9; **CMD** 18  
+**Feats** [Extra Channel](../../rules/feats/extra-channel.md), [Greater Spell Focus (evocation)](../../rules/feats/greater-spell-focus.md), [Improved Channel](../../rules/feats/improved-channel.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Spell Focus (evocation)](../../rules/feats/spell-focus.md)  
+**Skills** Intimidate +7, Knowledge (nobility, religion) +6, Knowledge (planes) +7, Linguistics +5, Perception +11, Sense Motive +13, Spellcraft +8  
+**Languages** Common, Ignan, Infernal  
+**SQ** aura  
+**Combat Gear**  *necklace of fireballs* (type III), *potion of delay poison*, *wand of shield of faith* (7 charges); **Other Gear** *+1 breastplate*, *+1 heavy steel shield*, masterwork heavy mace, masterwork light crossbow with 20 bolts, *amulet of natural armor +1*, *cloak of resistance +1*, *headband of inspired wisdom +2*, silver unholy symbol, 1,453 gp
+
+The fire cleric serves infernal or elemental powers and uses his magic to purge weakness from the world.

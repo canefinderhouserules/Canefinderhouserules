@@ -1,0 +1,45 @@
+# Battle Skald
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Battle Skald&quot;,&quot;cr&quot;:&quot;19&quot;,&quot;xp&quot;:&quot;204,800&quot;,&quot;line&quot;:&quot;Human barbarian 6/bard 4/Pathfinder chronicler 10, N Medium humanoid (human)&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;23, touch 13, flat-footed 21&quot;,&quot;hp&quot;:&quot;261 (6d12+4d8+10d8+146)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:20,&quot;Ref&quot;:17,&quot;Will&quot;:17},&quot;saveNote&quot;:&quot;+4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;defense&quot;:&quot;improved uncanny dodge, live to tell the tale (5/day), trap sense +2&quot;,&quot;speed&quot;:&quot;50 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 shock handaxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[24,19,14,9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;plus 1d6 electricity&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 shock shortbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[18,13,8,3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;plus 1d6 electricity&quot;}]],&quot;specialAttacks&quot;:&quot;bardic performance 28 rounds/day (countersong, dirge of doom, distraction, epic tales, fascinate, greater epic tales, inspire action [standard], inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion, whispering campaign), rage (24 rounds/day), rage powers (clear mind, moment of clarity, renewed vigor)&quot;,&quot;rangedTouch&quot;:17,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:4,&quot;concentration&quot;:6,&quot;levels&quot;:[{&quot;label&quot;:&quot;2nd (2/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;mirror image&quot;,&quot;page&quot;:&quot;mirror-image&quot;},{&quot;name&quot;:&quot;rage&quot;,&quot;page&quot;:&quot;rage&quot;}]},{&quot;label&quot;:&quot;1st (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;page&quot;:&quot;remove-fear&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;know direction&quot;,&quot;page&quot;:&quot;know-direction&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]}],&quot;abilities&quot;:&quot;Str 18, Con 18, Str 22, Dex 13, Con 22, Int 10, Wis 8, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +16; CMB +20; CMD 35&quot;,&quot;checks&quot;:{&quot;Climb&quot;:17,&quot;Swim&quot;:12,&quot;Perception&quot;:19,&quot;CMB&quot;:20},&quot;feats&quot;:&quot;Dazzling Display, Dodge, Extra Rage, Fleet (2), Improved Critical (handaxe), Improved Vital Strike, Power Attack, Toughness, Vital Strike, Weapon Focus (handaxe)&quot;,&quot;languages&quot;:&quot;Common, Celestial, Draconic, Dwarven&quot;,&quot;sq&quot;:&quot;bardic knowledge +7, call down the legends, deep pockets (1,000 gp), fast movement, improved aid, lay of the exalted dead, master scribe, pathfinding, versatile performance (oratory)&quot;,&quot;gear&quot;:&quot;+1 flaming arrows (5), +1 thundering arrows (5), dragon slaying arrow, greater human slaying arrow, javelins of lightning (5)&quot;}"></div>
+
+## Battle Skald (CR 19)
+
+**XP** 204,800  
+Human barbarian 6/bard 4/Pathfinder chronicler 10  
+N Medium humanoid (human)  
+**Init** +1; **Senses** Perception +19
+
+**Defense**
+
+**AC** 23, touch 13, flat-footed 21 (+7 armor, +3 deflection, +1 Dex, +1 dodge, +3 natural, –2 rage)  
+**hp** 261 (6d12+4d8+10d8+146)  
+**Fort** +20, **Ref** +17, **Will** +17; +4 vs. bardic performance, language-dependent, and sonic  
+**Defensive Abilities** improved uncanny dodge, live to tell the tale (5/day), trap sense +2
+
+**Offense**
+
+**Speed** 50 ft.  
+**Melee** *+1 shock handaxe* +24/+19/+14/+9 (1d6+7/19–20/×3 plus 1d6 electricity)  
+**Ranged**  *+1 shock shortbow* +18/+13/+8/+3 (1d6+1/×3 plus 1d6 electricity)  
+**Special Attacks** bardic performance 28 rounds/day (countersong, dirge of doom, distraction, epic tales, fascinate, greater epic tales, inspire action [standard], inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion, whispering campaign), rage (24 rounds/day), rage powers (clear mind, moment of clarity, renewed vigor)  
+**Bard Spells Known** (CL 4th; concentration +6)  
+2nd (2/day)—*mirror image*, *rage*  
+1st (4/day)—*expeditious retreat*, *feather fall*, *remove fear*, *unseen servant*  
+0 (at will)—*dancing lights*, *know direction*, *mage hand*, *mending*, *message*, *prestidigitation*
+
+**Tactics**
+
+**During Combat** The Pathfinder chronicler casts *mirror image* on herself, uses bardic performance to aid her allies, and shoots arrows at her foes. When raging, she uses *moment of clarity* to cast spells when necessary.  
+**Base Statistics** When not raging, the Pathfinder chronicler’s statistics are **AC** 25, touch 15, flat-footed 23; **hp** 241; **Fort** +18, **Will** +15; **Melee** *+1 shock handaxe* +22/+17/+12/+7 (1d6+5/19–20/×3 plus 1d6 electricity); **Str** 18, **Con** 18; **CMB** +20; **Skills** Climb +17, Swim +12.
+
+**Statistics**
+
+**Str** 22, **Dex** 13, **Con** 22, **Int** 10, **Wis** 8, **Cha** 14  
+**Base Atk** +16; **CMB** +22; **CMD** 35  
+**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Dodge](../../rules/feats/dodge.md), [Extra Rage](../../rules/feats/extra-rage.md), [Fleet (2)](../../rules/feats/fleet.md), [Improved Critical (handaxe)](../../rules/feats/improved-critical.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (handaxe)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +1 (+5 when jumping), Bluff +10, Climb +19, Handle Animal +15, Heal +4, Intimidate +15, Knowledge (geography, local, nobility) +16, Knowledge (history) +18, Linguistics +6, Perception +19, Perform (oratory) +15, Profession (scribe) +7, Ride +14, Stealth +21, Survival +7, Swim +14, Use Magic Device +15  
+**Languages** Common, Celestial, Draconic, Dwarven  
+**SQ** bardic knowledge +7, call down the legends, deep pockets (1,000 gp), fast movement, improved aid, lay of the exalted dead, master scribe, pathfinding, versatile performance (oratory)  
+**Combat Gear**  *+1 flaming arrows* (5), *+1 thundering arrows* (5), *dragon slaying arrow*, *greater human slaying arrow*, *javelins of lightning* (5); **Other Gear** *+5 leather armor*, *+1 shock handaxe*, *+1 shock shortbow*, *amulet of natural armor +3*, *belt of mighty constitution +4*, *cloak of resistance +5*, *figurines of wondrous power* (ivory goats), *ring of protection +3*, 1,930 gp
+
+Singing odes of battle and bravery, these chroniclers make sure the living never forget those traditions, and even try to encourage the living to surpass the great deeds of the heroes of past ages. They believe battle is the truest test of a person’s mettle.

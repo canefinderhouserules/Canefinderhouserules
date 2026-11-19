@@ -1,0 +1,58 @@
+# Celestial Theurge
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Celestial Theurge&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;Human cleric of Sarenrae 3/sorcerer 4/mystic theurge 2, NG Medium humanoid (human)&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;18, touch 10, flat-footed 18&quot;,&quot;hp&quot;:&quot;69 (3d8+4d6+2d6+31)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:4,&quot;Will&quot;:11},&quot;defense&quot;:&quot;Resist acid 5, cold 5&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 spear&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk heavy crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d10&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel positive energy 6/day (DC 12 [DC 14 against undead], 2d6)&quot;,&quot;rangedTouch&quot;:5,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:4,&quot;concentration&quot;:5,&quot;levels&quot;:[{&quot;label&quot;:&quot;4/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;heavenly fire&quot;,&quot;note&quot;:&quot;1d4+2&quot;}]}]},{&quot;title&quot;:&quot;Domain Spell-Like Abilities&quot;,&quot;cl&quot;:3,&quot;concentration&quot;:5,&quot;levels&quot;:[{&quot;label&quot;:&quot;5/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;rebuke death&quot;},{&quot;name&quot;:&quot;touch of glory&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:5,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;prayer&quot;,&quot;page&quot;:&quot;prayer&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;2d8&quot;,&quot;touch&quot;:true}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless weapon&quot;,&quot;page&quot;:&quot;bless-weapon&quot;},{&quot;name&quot;:&quot;delay poison&quot;,&quot;page&quot;:&quot;delay-poison&quot;},{&quot;name&quot;:&quot;remove paralysis&quot;,&quot;page&quot;:&quot;remove-paralysis&quot;},{&quot;name&quot;:&quot;shield other&quot;,&quot;page&quot;:&quot;shield-other&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;protection from evil&quot;,&quot;page&quot;:&quot;protection-from-evil&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;page&quot;:&quot;remove-fear&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;page&quot;:&quot;purify-food-and-drink&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:6,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd (3/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;}]},{&quot;label&quot;:&quot;2nd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;protection from arrows&quot;,&quot;page&quot;:&quot;protection-from-arrows&quot;}]},{&quot;label&quot;:&quot;1st (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;burning hands&quot;,&quot;dc&quot;:12,&quot;page&quot;:&quot;burning-hands&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;5d4&quot;},{&quot;name&quot;:&quot;enlarge person&quot;,&quot;page&quot;:&quot;enlarge-person&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;true strike&quot;,&quot;page&quot;:&quot;true-strike&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 18, Str 22, Dex 10, Con 14, Int 8, Wis 14, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +9; CMD 19.&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:7,&quot;Knowledge (arcana)&quot;:5,&quot;Knowledge (religion)&quot;:5,&quot;Knowledge (nobility)&quot;:4,&quot;Perception&quot;:8,&quot;Spellcraft&quot;:3,&quot;CMB&quot;:9},&quot;feats&quot;:&quot;Arcane Armor Mastery, Arcane Armor Training, Combat Casting, Eschew Materials, Extra Channel, Toughness, Weapon Focus (spear)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;sq&quot;:&quot;aura, bloodline arcana (summoned creatures gain DR 2/evil), combined spells (1st)&quot;,&quot;gear&quot;:&quot;+1 bolts (3), +1 evil outsider-bane bolts (3), +1 undead-bane bolts (3), scrolls of cure serious wounds (2), scrolls of neutralize poison (2), scroll of remove disease, antitoxin (2), holy water (2)&quot;}"></div>
+
+## Celestial Theurge (CR 8)
+
+**XP** 4,800  
+Human cleric of Sarenrae 3/sorcerer 4/mystic theurge 2  
+NG Medium humanoid (human)  
+**Init** +0; **Senses** Perception +8
+
+**Defense**
+
+**AC** 18, touch 10, flat-footed 18 (+7 armor, +1 natural)  
+**hp** 69 (3d8+4d6+2d6+31)  
+**Fort** +8, **Ref** +4, **Will** +11  
+**Resist** acid 5, cold 5
+
+**Offense**
+
+**Speed** 20 ft.  
+**Melee** *+1 spear* +13 (1d8+7/×3)  
+**Ranged**  mwk heavy crossbow +6 (1d10/19–20)  
+**Special Attacks** channel positive energy 6/day (DC 12 [DC 14 against undead], 2d6)  
+**Spell-Like Abilities** (CL 4th; concentration +5)  
+4/day—heavenly fire (1d4+2)  
+**Domain Spell-Like Abilities** (CL 3rd; concentration +5)  
+5/day—rebuke death, touch of glory  
+**Cleric Spells Prepared** (CL 5th; concentration +7)  
+3rd—*prayer*, *searing light*D  
+2nd—*bless weapon*D, *delay poison*, *remove paralysis*, *shield other*  
+1st—*cure light wounds*D, *divine favor* (2), *protection from evil*, *remove fear*  
+0 (at will)—*create water*, *guidance*, *purify food and drink*, *stabilize*  
+**D** Domain spell; **Domains** Glory, Healing  
+**Sorcerer Spells Known** (CL 6th; concentration +7; 25% spell failure)  
+3rd (3/day)—*haste*  
+2nd (5/day)—*bull’s strength*, *protection from arrows*  
+1st (7/day)—*bless*, *burning hands* (DC 12), *enlarge person*, *shield*, *true strike*  
+0 (at will)—*dancing lights*, *detect magic*, *detect poison*, *mage hand*, *mending*, *message*, *read magic*  
+**Bloodline** celestial
+
+**Tactics**
+
+**Before Combat** The mystic theurge casts *bull’s strength*.  
+**During Combat** The mystic theurge casts *haste* and *shield*, then supports her companions with spells. She targets undead with channeled energy and *searing light*.  
+**Base Statistics** Without *bull’s strength*, the mystic theurge’s statistics are **Melee** *+1 spear* +11 (1d8+5/×3); **Str** 18; **CMB** +9; **CMD** 19.
+
+**Statistics**
+
+**Str** 22, **Dex** 10, **Con** 14, **Int** 8, **Wis** 14, **Cha** 12  
+**Base Atk** +5; **CMB** +11; **CMD** 21  
+**Feats** [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md), [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Extra Channel](../../rules/feats/extra-channel.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (spear)](../../rules/feats/weapon-focus.md)  
+**Skills** Diplomacy +7, Knowledge (arcana, religion) +5, Knowledge (nobility) +4, Perception +8, Spellcraft +3  
+**Languages** Common  
+**SQ** aura, bloodline arcana (summoned creatures gain DR 2/evil), combined spells (1st)  
+**Combat Gear**  *+1 bolts* (3), *+1 evil outsider-bane bolts* (3), *+1 undead-bane bolts* (3), *scrolls of cure serious wounds* (2), *scrolls of neutralize poison* (2), *scroll of remove disease*, antitoxin (2), holy water (2); **Other Gear** *+1 breastplate*, *+1 spear*, masterwork heavy crossbow with 10 bolts, *amulet of natural armor +1*, *cloak of resistance +1*, pair of platinum rings (worth 50 gp), 287 gp
+
+These theurges support righteous causes, especially ones that involve destroying undead.

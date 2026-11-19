@@ -1,10 +1,10 @@
 # Monsters
 
-This section collects creatures and monster rules. Each entry uses the standard stat block format. Horror-themed templates (dread lord, implacable stalker, waxwork and others) are on the [Horror Monsters and Templates](../rules/horror/monster-templates.md) page.
+This section collects creatures and monster rules. Each creature uses the standard stat block format and can be copied into Roll20. Horror-themed templates (dread lord, implacable stalker, waxwork and others) are on the [Horror Monsters and Templates](../rules/horror/monster-templates.md) page.
 
 ## Monster Rules
 
-Rules for understanding, building, and advancing monsters. Individual monster stat blocks are not included; this section collects the mechanics that apply to creatures in general.
+Rules for understanding, building, and advancing monsters. Stat blocks are in the bestiaries under Monsters by Source; [Monsters in Roll20](roll20.md) explains how to copy any of them into a Roll20 character.
 
 - [Universal Monster Rules](universal-monster-rules.md): special attacks, defenses, senses, and qualities shared by many creatures.
 - [Creature Types](creature-types.md): Hit Dice, saves, skills, and traits for each creature type.
@@ -20,5 +20,5 @@ Rules for understanding, building, and advancing monsters. Individual monster st
 
 | Source | Page |
 |---|---|
-| Bestiary | [Dark Naga](dark-naga.md), [Goblin](goblin.md) (prototypes with Roll20 export) |
+| NPC Codex | [NPC Codex](npc-codex/index.md): 310 ready-made NPCs by class and level, with a Roll20 export |
 | Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |

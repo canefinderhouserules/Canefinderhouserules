@@ -1,0 +1,49 @@
+# Blackscale Sorcerer
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Blackscale Sorcerer&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;Half-orc sorcerer 10, CE Medium humanoid (human, orc)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;19, touch 12, flat-footed 18&quot;,&quot;hp&quot;:&quot;82 (10d6+45)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:5,&quot;Will&quot;:7},&quot;defense&quot;:&quot;orc ferocity; DR 10/adamantine; Resist acid 10&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk greataxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d12&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:2,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath weapon (60-foot line, 10d6 acid, DC 20, 1/day), claws (2, 1d6+2, treated as magic weapons, 7 rounds/day)&quot;,&quot;rangedTouch&quot;:6,&quot;spells&quot;:[{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cloudkill&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;}]},{&quot;label&quot;:&quot;4th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fear&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;shout&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;shout&quot;,&quot;save&quot;:&quot;Fortitude partial or Reflex negates (object)&quot;},{&quot;name&quot;:&quot;stoneskin&quot;,&quot;page&quot;:&quot;stoneskin&quot;}]},{&quot;label&quot;:&quot;3rd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fireball&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;fly&quot;,&quot;page&quot;:&quot;fly&quot;},{&quot;name&quot;:&quot;rage&quot;,&quot;page&quot;:&quot;rage&quot;},{&quot;name&quot;:&quot;stinking cloud&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;stinking-cloud&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;2nd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid arrow&quot;,&quot;page&quot;:&quot;acid-arrow&quot;},{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:2}]},{&quot;label&quot;:&quot;1st (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;burning hands&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;burning-hands&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;5d4&quot;},{&quot;name&quot;:&quot;endure elements&quot;,&quot;page&quot;:&quot;endure-elements&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;},{&quot;name&quot;:&quot;ray of enfeeblement&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;ray-of-enfeeblement&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;1d6+5&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;damage is the Strength penalty&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid splash&quot;,&quot;page&quot;:&quot;acid-splash&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;arcane mark&quot;,&quot;page&quot;:&quot;arcane-mark&quot;},{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;flare&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;flare&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;touch of fatigue&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;touch-of-fatigue&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]}]}],&quot;abilities&quot;:&quot;Str 14, Dex 12, Con 14, Int 10, Wis 8, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +7; CMD 19&quot;,&quot;checks&quot;:{&quot;Fly&quot;:9,&quot;Intimidate&quot;:15,&quot;Linguistics&quot;:1,&quot;Perception&quot;:7,&quot;Spellcraft&quot;:7,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Combat Casting, Eschew Materials, Great Fortitude, Greater Spell Focus (evocation), Improved Initiative, Quicken Spell, Spell Focus (evocation)&quot;,&quot;languages&quot;:&quot;Common, Draconic, Orc&quot;,&quot;sq&quot;:&quot;bloodline arcana (acid spells deal +1 damage per die), orc blood, weapon familiarity&quot;,&quot;gear&quot;:&quot;potion of cure serious wounds, wand of acid arrow (15 charges)&quot;}"></div>
+
+## Blackscale Sorcerer (CR 9)
+
+**XP** 6,400  
+Half-orc sorcerer 10  
+CE Medium humanoid (human, orc)  
+**Init** +5; **Senses** darkvision 60 ft.; Perception +7
+
+**Defense**
+
+**AC** 19, touch 12, flat-footed 18 (+4 armor, +1 deflection, +1 Dex, +3 natural)  
+**hp** 82 (10d6+45)  
+**Fort** +8, **Ref** +5, **Will** +7  
+**Defensive Abilities** orc ferocity; **DR** 10/adamantine; **Resist** acid 10
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** mwk greataxe +8 (1d12+3/×3) or 2 claws +7 (1d6+2)  
+**Special Attacks** breath weapon (60-foot line, 10d6 acid, DC 20, 1/day), claws (2, 1d6+2, treated as magic weapons, 7 rounds/day)  
+**Sorcerer Spells Known** (CL 10th; concentration +15)  
+5th (4/day)—*cloudkill* (DC 20)  
+4th (6/day)—*fear* (DC 19), *shout* (DC 21), *stoneskin*  
+3rd (7/day)—*fireball* (DC 20), *fly*, *rage*, *stinking cloud* (DC 18)  
+2nd (7/day)—*acid arrow*, *bull’s strength*, *false life*, *resist energy*, *scorching ray*  
+1st (8/day)—*burning hands* (DC 18), *endure elements*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*  
+0 (at will)—*acid splash*, *arcane mark*, *bleed* (DC 15), *detect magic*, *flare* (DC 17), *ray of frost*, *read magic*, *resistance*, *touch of fatigue* (DC 15)  
+**Bloodline** draconic (black)
+
+**Tactics**
+
+**Before Combat** The sorcerer casts *false life*, *mage armor*, and *stoneskin* on himself.  
+**During Combat** The sorcerer casts *fly* on the first round of combat along with a quickened *magic missile*. He maneuvers so he can catch as many opponents as possible with his breath weapon. If pressed into melee, he casts *bull’s strength* and rage, then attacks with his greataxe or claws.  
+**Base Statistics** Without *false life*, *mage armor*, and *stoneskin*, the sorcerer’s statistics are **AC** 15, touch 12, flat-footed 14; **hp** 67; **DR** —.
+
+**Statistics**
+
+**Str** 14, **Dex** 12, **Con** 14, **Int** 10, **Wis** 8, **Cha** 20  
+**Base Atk** +5; **CMB** +7; **CMD** 19  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Spell Focus (evocation)](../../rules/feats/greater-spell-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Spell Focus (evocation)](../../rules/feats/spell-focus.md)  
+**Skills** Fly +9, Intimidate +15, Linguistics +1, Perception +7, Spellcraft +7  
+**Languages** Common, Draconic, Orc  
+**SQ** bloodline arcana (acid spells deal +1 damage per die), orc blood, weapon familiarity  
+**Combat Gear**  *potion of cure serious wounds*, *wand of acid arrow* (15 charges); **Other Gear** masterwork greataxe, *amulet of natural armor +1*, *cloak of resistance +1*, *headband of alluring charisma +2*, *ring of protection +1*, signet ring, diamond dust (worth 500 gp), 825 gp
+
+The blackscale sorcerer channels the powers of corruption and sloth.

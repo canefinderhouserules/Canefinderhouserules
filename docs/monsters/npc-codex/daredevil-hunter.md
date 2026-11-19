@@ -1,0 +1,46 @@
+# Daredevil Hunter
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Daredevil Hunter&quot;,&quot;cr&quot;:&quot;16&quot;,&quot;xp&quot;:&quot;76,800&quot;,&quot;line&quot;:&quot;Elf ranger 17, CN Medium humanoid (elf)&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;33, touch 19, flat-footed 26&quot;,&quot;hp&quot;:&quot;142 (17d10+44)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:15,&quot;Ref&quot;:20,&quot;Will&quot;:9},&quot;saveNote&quot;:&quot;+2 vs. enchantments&quot;,&quot;defense&quot;:&quot;improved evasion; Immune poison, sleep&quot;,&quot;speed&quot;:&quot;40 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 elven curve blade&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[20,15,10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d10&quot;,&quot;mod&quot;:4,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+2 composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[26,21,16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (animals +2, dragons +4, giants +4, magical beasts +4)&quot;,&quot;rangedTouch&quot;:24,&quot;spells&quot;:[{&quot;title&quot;:&quot;Ranger Spells Prepared&quot;,&quot;cl&quot;:14,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;darkvision&quot;,&quot;page&quot;:&quot;darkvision&quot;},{&quot;name&quot;:&quot;neutralize poison&quot;,&quot;page&quot;:&quot;neutralize-poison&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;barkskin&quot;,&quot;page&quot;:&quot;barkskin&quot;},{&quot;name&quot;:&quot;bear’s endurance&quot;,&quot;page&quot;:&quot;bears-endurance&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;},{&quot;name&quot;:&quot;snare&quot;,&quot;page&quot;:&quot;snare&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;delay poison&quot;,&quot;page&quot;:&quot;delay-poison&quot;},{&quot;name&quot;:&quot;hide from animals&quot;,&quot;page&quot;:&quot;hide-from-animals&quot;},{&quot;name&quot;:&quot;longstrider&quot;,&quot;page&quot;:&quot;longstrider&quot;},{&quot;name&quot;:&quot;pass without trace&quot;,&quot;page&quot;:&quot;pass-without-trace&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;}]}]}],&quot;abilities&quot;:&quot;Con 11, Str 14, Dex 24, Con 15, Int 10, Wis 13, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +17; CMB +19; CMD 39&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:23,&quot;Perception&quot;:21,&quot;CMB&quot;:19},&quot;feats&quot;:&quot;Critical Focus, Deadly Aim, Dodge, Endurance, Improved Critical (composite longbow), Manyshot, Mobility, Point-Blank Shot, Power Attack, Precise Shot, Rapid Shot, Shot on the Run, Spring Attack, Tiring Critical&quot;,&quot;languages&quot;:&quot;Common, Elven&quot;,&quot;sq&quot;:&quot;camouflage, elven magic, favored terrain (forest +2, mountain +4, plains +4), hide in plain sight, hunter’s bond (companions), quarry, swift tracker, track +8, weapon familiarity, wild empathy +17, woodland stride&quot;,&quot;gear&quot;:&quot;+1 dragon-bane arrows (5), +1 giant-bane arrows (5), +1 magical beast-bane arrows (5); potions of displacement (2), potions of fly (2), potions of haste (2), scroll of commune with nature, wand of cure moderate wounds (20 charges)&quot;}"></div>
+
+## Daredevil Hunter (CR 16)
+
+**XP** 76,800  
+Elf ranger 17  
+CN Medium humanoid (elf)  
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; Perception +21
+
+**Defense**
+
+**AC** 33, touch 19, flat-footed 26 (+9 armor, +2 deflection, +6 Dex, +1 dodge, +5 natural)  
+**hp** 142 (17d10+44)  
+**Fort** +15, **Ref** +20, **Will** +9; +2 vs. enchantments  
+**Defensive Abilities** improved evasion; **Immune** poison, sleep
+
+**Offense**
+
+**Speed** 40 ft.  
+**Melee** *+1 elven curve blade* +20/+15/+10/+5 (1d10+4/18–20)  
+**Ranged**  *+2 composite longbow* +26/+21/+16/+11 (1d8+4/19–20/×3)  
+**Special Attacks** favored enemy (animals +2, dragons +4, giants +4, magical beasts +4)  
+**Ranger Spells Prepared** (CL 14th; concentration +15)  
+3rd—*darkvision*, *neutralize poison*  
+2nd—*barkskin*, *bear’s endurance*, *protection from energy*, *snare*  
+1st—*delay poison*, *hide from animals*, *longstrider*, *pass without trace*, *resist energy*
+
+**Tactics**
+
+**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *darkvision*, *delay poison*, *longstrider*, and *pass without trace*.  
+**During Combat** The ranger prefers ranged combat. He uses Deadly Aim with Rapid Shot, hoping to also use Tiring Critical.  
+**Base Statistics** Without *barkskin*, *bear’s endurance*, *darkvision*, *delay poison*, and *longstrider*, the ranger’s statistics are **Senses** low-light vision; **AC** 28, touch 19, flat-footed 21; **hp** 108; **Fort** +13; **Immune** sleep; **Speed** 30 ft.; **Con** 11; **Skills** Acrobatics +23.
+
+**Statistics**
+
+**Str** 14, **Dex** 24, **Con** 15, **Int** 10, **Wis** 13, **Cha** 10  
+**Base Atk** +17; **CMB** +19; **CMD** 39  
+**Feats** [Critical Focus](../../rules/feats/critical-focus.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Endurance](../../rules/feats/endurance.md), [Improved Critical (composite longbow)](../../rules/feats/improved-critical.md), [Manyshot](../../rules/feats/manyshot.md), [Mobility](../../rules/feats/mobility.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md), [Spring Attack](../../rules/feats/spring-attack.md), [Tiring Critical](../../rules/feats/tiring-critical.md)  
+**Skills** Acrobatics +23 (+27 when jumping), Climb +9, Handle Animal +8, Knowledge (arcana, local) +10, Knowledge (nature) +13, Perception +21, Ride +11, Stealth +26, Survival +21, Swim +5  
+**Languages** Common, Elven  
+**SQ** camouflage, elven magic, favored terrain (forest +2, mountain +4, plains +4), hide in plain sight, hunter’s bond (companions), quarry, swift tracker, track +8, weapon familiarity, wild empathy +17, woodland stride  
+**Combat Gear** *+1 dragon-bane arrows* (5), *+1 giant-bane arrows* (5), *+1 magical beast-bane arrows* (5); *potions of displacement* (2), *potions of fly* (2), *potions of haste* (2), *scroll of commune with nature*, *wand of cure moderate wounds* (20 charges); **Other Gear** *+3 mithral breastplate*, *+1 elven curve blade*, *+2 composite longbow* (+2 Str) with 60 arrows, *belt of incredible dexterity +4*, *boots of elvenkind*, *cloak of resistance +3*, *efficient quiver*, *ring of feather falling*, *ring of protection +2*, 1,380 gp
+
+The daredevil hunter seeks the largest and most dangerouscreatures for trophy kills.

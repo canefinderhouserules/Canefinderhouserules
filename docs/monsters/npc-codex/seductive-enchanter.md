@@ -1,0 +1,51 @@
+# Seductive Enchanter
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seductive Enchanter&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;Elf enchanter 8, NE Medium humanoid (elf)&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;19, touch 14, flat-footed 16&quot;,&quot;hp&quot;:&quot;40 (8d6+10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:4,&quot;Ref&quot;:6,&quot;Will&quot;:8},&quot;saveNote&quot;:&quot;+2 vs. enchantments&quot;,&quot;defense&quot;:&quot;Immune sleep&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[4],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;aura of despair (8 rounds/day)&quot;,&quot;rangedTouch&quot;:7,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;7/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dazing touch&quot;}]}]},{&quot;title&quot;:&quot;Enchanter Spells Prepared&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;confusion&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;confusion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;greater invisibility&quot;,&quot;page&quot;:&quot;invisibility-greater&quot;},{&quot;name&quot;:&quot;phantasmal killer&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;phantasmal-killer&quot;,&quot;save&quot;:&quot;Will disbelief, then Fortitude partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;deep slumber&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;deep-slumber&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;phantom steed&quot;,&quot;page&quot;:&quot;phantom-steed&quot;},{&quot;name&quot;:&quot;suggestion&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;suggestion&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alter self&quot;,&quot;page&quot;:&quot;alter-self&quot;},{&quot;name&quot;:&quot;daze monster&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;daze-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hideous laughter&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;hideous-laughter&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;color spray&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;color-spray&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;touch of fatigue&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;touch-of-fatigue&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]}]}],&quot;abilities&quot;:&quot;Str 10, Dex 16, Con 12, Int 18, Wis 8, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +4; CMD 18&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:8,&quot;Bluff&quot;:9,&quot;Diplomacy&quot;:6,&quot;Knowledge (arcana)&quot;:15,&quot;Knowledge (local)&quot;:11,&quot;Knowledge (nobility)&quot;:11,&quot;Perception&quot;:9,&quot;Perform (dance)&quot;:4,&quot;Sense Motive&quot;:3,&quot;Spellcraft&quot;:15,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Combat Casting, Craft Wand, Improved Initiative, Iron Will, Scribe Scroll, Spell Focus (enchantment)&quot;,&quot;languages&quot;:&quot;Common, Draconic, Elven, Gnome, Orc, Sylvan&quot;,&quot;sq&quot;:&quot;arcane bond (viper), elven magic, enchanting smile, weapon familiarity&quot;,&quot;gear&quot;:&quot;potion of cure moderate wounds, potion of invisibility, scroll of dispel magic, scroll of suggestion, wand of charm person (20 charges), wand of fox’s cunning (10 charges), wand of touch of idiocy (10 charges)&quot;}"></div>
+
+## Seductive Enchanter (CR 7)
+
+**XP** 3,200  
+Elf enchanter 8  
+NE Medium humanoid (elf)  
+**Init** +7; **Senses** low-light vision; Perception +9
+
+**Defense**
+
+**AC** 19, touch 14, flat-footed 16 (+4 armor, +1 deflection, +3 Dex, +1 natural)  
+**hp** 40 (8d6+10)  
+**Fort** +4, **Ref** +6, **Will** +8; +2 vs. enchantments  
+**Immune** sleep
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** rapier +4 (1d6/18–20)  
+**Ranged**  dagger +7 (1d4/19–20)  
+**Special Attacks** aura of despair (8 rounds/day)  
+**Spell-Like Abilities** (CL 8th; concentration +12)  
+7/day—dazing touch  
+**Enchanter Spells Prepared** (CL 8th; concentration +12)  
+4th—*confusion* (DC 19), *dimension door*, *greater invisibility*, *phantasmal killer* (DC 18)  
+3rd—*deep slumber* (DC 18), *dispel magic*, *hold person* (DC 18), *phantom steed*, *suggestion* (DC 18)  
+2nd—*alter self*, *daze monster* (DC 17), *hideous laughter* (DC 17), *invisibility*, *resist energy*  
+1st—*charm person* (2, DC 16), *color spray* (DC 15), *mage armor*, *shield*, *ventriloquism* (DC 15)  
+0 (at will)—*daze* (DC 15), *mage hand*, *resistance*, *touch of fatigue* (DC 14)  
+**Opposition Schools** divination, necromancy
+
+**Tactics**
+
+**Before Combat** The wizard casts *mage armor*.  
+**During Combat** The wizard uses *charm person*, *confusion*, and *suggestion* to turn opponents against each other. By casting *greater invisibility* on herself, she can remain hidden while she manipulates her targets. She uses her *wand of touch of idiocy* against enemy spellcasters.  
+**Base Statistics** Without *mage armor*, the wizard’s statistics are **AC** 15, touch 14, flat-footed 12.
+
+**Statistics**
+
+**Str** 10, **Dex** 16, **Con** 12, **Int** 18, **Wis** 8, **Cha** 12  
+**Base Atk** +4; **CMB** +4; **CMD** 18  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wand](../../rules/feats/craft-wand.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md)  
+**Skills** Acrobatics +8, Bluff +9, Diplomacy +6, Knowledge (arcana) +15, Knowledge (local, nobility) +11, Perception +9, Perform (dance) +4, Sense Motive +3, Spellcraft +15 (+17 identify magic item properties)  
+**Languages** Common, Draconic, Elven, Gnome, Orc, Sylvan  
+**SQ** arcane bond (viper), elven magic, enchanting smile, weapon familiarity  
+**Combat Gear**  *potion of cure moderate wounds*, *potion of invisibility*, *scroll of dispel magic*, *scroll of suggestion*, *wand of charm person* (20 charges), *wand of fox’s cunning* (10 charges), *wand of touch of idiocy* (10 charges); **Other Gear** dagger, rapier, *amulet of natural armor +1*, *cloak of resistance +1*, *ring of protection +1*, spellbook, 303 gp
+
+Seductive enchanters use magic so they can enjoy mortal pleasures. This usually means influencing people to give them things. These wizards can be found anywhere they can get the finer things in life. Many of them become connoisseurs of one particular pleasure, going from place to place and scamming people into giving them the rarest gems or pieces from master artists, or coercing kisses from the most attractive nobles.

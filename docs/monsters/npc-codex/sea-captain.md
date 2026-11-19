@@ -1,0 +1,51 @@
+# Sea Captain
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Sea Captain&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;Halfling druid 8, NE Small humanoid (halfling)&quot;,&quot;init&quot;:7,&quot;ac&quot;:&quot;26, touch 14, flat-footed 23&quot;,&quot;hp&quot;:&quot;61 (8d8+22)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:7,&quot;Will&quot;:12},&quot;saveNote&quot;:&quot;+2 vs. fear, +4 vs. fey and plant-targeted effects&quot;,&quot;speed&quot;:&quot;15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk scimitar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11,6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk sling&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11,6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;wild shape 3/day&quot;,&quot;rangedTouch&quot;:10,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;lightning lord&quot;}]},{&quot;label&quot;:&quot;7/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;storm burst&quot;}]}]},{&quot;title&quot;:&quot;Druid Spells Prepared&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;control water&quot;,&quot;page&quot;:&quot;control-water&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;8d6&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;sleet storm&quot;,&quot;page&quot;:&quot;sleet-storm&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;call lightning&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;call-lightning&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;4d6&quot;},{&quot;name&quot;:&quot;greater magic fang&quot;,&quot;page&quot;:&quot;magic-fang-greater&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;},{&quot;name&quot;:&quot;quench&quot;,&quot;page&quot;:&quot;quench&quot;},{&quot;name&quot;:&quot;wind wall&quot;,&quot;page&quot;:&quot;wind-wall&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;barkskin&quot;,&quot;page&quot;:&quot;barkskin&quot;},{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;fog cloud&quot;,&quot;page&quot;:&quot;fog-cloud&quot;},{&quot;name&quot;:&quot;gust of wind&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;gust-of-wind&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;warp wood&quot;,&quot;page&quot;:&quot;warp-wood&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;,&quot;note&quot;:&quot;prepared 4 times&quot;},{&quot;name&quot;:&quot;endure elements&quot;,&quot;page&quot;:&quot;endure-elements&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;flare&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;flare&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;}]}]}],&quot;abilities&quot;:&quot;Str 12, Str 16, Dex 16, Con 12, Int 10, Wis 18, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +6; CMD 19&quot;,&quot;checks&quot;:{&quot;Climb&quot;:6,&quot;Swim&quot;:3,&quot;Perception&quot;:15,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Improved Initiative, Natural Spell, Toughness, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common, Druidic, Goblin, Halfling&quot;,&quot;sq&quot;:&quot;nature bond (Weather domain), nature sense, trackless step, wild empathy +8, woodland stride&quot;,&quot;gear&quot;:&quot;scroll of owl’s wisdom, alchemist’s fire (3), thunderstone&quot;}"></div>
+
+## Sea Captain (CR 7)
+
+**XP** 3,200  
+Halfling druid 8  
+NE Small humanoid (halfling)  
+**Init** +7; **Senses** Perception +15
+
+**Defense**
+
+**AC** 26, touch 14, flat-footed 23 (+7 armor, +3 Dex, +3 natural, +2 shield, +1 size)  
+**hp** 61 (8d8+22)  
+**Fort** +9, **Ref** +7, **Will** +12; +2 vs. fear, +4 vs. fey and plant-targeted effects
+
+**Offense**
+
+**Speed** 15 ft.  
+**Melee** mwk scimitar +11/+6 (1d4+3/18–20)  
+**Ranged**  mwk sling +11/+6 (1d3+3)  
+**Special Attacks** wild shape 3/day  
+**Spell-Like Abilities** (CL 8th; concentration +12)  
+8/day—lightning lord  
+7/day—storm burst  
+**Druid Spells Prepared** (CL 8th; concentration +12)  
+4th—*control water*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*D  
+3rd—*call lightning*D (DC 17), *greater magic fang*, *protection from energy*, *quench*, *wind wall*  
+2nd—*barkskin*, *bull’s strength*, *fog cloud*D, *gust of wind* (DC 16), *warp wood*  
+1st—*cure light wounds* (4), *endure elements*, *obscuring mist*  
+0 (at will)—*create water*, *detect magic*, *flare* (DC 14), *light*  
+**D** Domain spell; **Domain** Weather
+
+**Tactics**
+
+**Before Combat** The druid casts *barkskin* and *bull’s strength*.  
+**During Combat** The druid is well aware of his physical shortcomings, and wild shapes into a Medium air elemental the first chance he gets to escape melee combat. Once at a safe altitude, he casts *wind wall* and *freedom of movement*. If still threatened, he casts offensive spells such as *flame strike* or *sleet storm*, or uses his Weather domain spell-like abilities. If targeted by spellcasters, he casts *fog cloud* to obscure vision. If forced into melee, he casts *greater magic fang* before wild shaping into a Huge animal (preferably a triceratops or an orca).  
+**Base Statistics** Without *barkskin* and *bull’s strength*, the druid’s statistics are **AC** 23, touch 14, flat-footed 20; **Melee** mwk scimitar +11/+6 (1d4+1/18–20); **Ranged** mwk sling +11/+6 (1d3+1); **Str** 12; **CMB** +6; **CMD** 19; **Skills** Climb +6, Swim +3.
+
+**Statistics**
+
+**Str** 16, **Dex** 16, **Con** 12, **Int** 10, **Wis** 18, **Cha** 10  
+**Base Atk** +6; **CMB** +8; **CMD** 21  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Natural Spell](../../rules/feats/natural-spell.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Skills** Acrobatics +1 (–3 when jumping), Climb +8, Fly +6, Handle Animal +5, Heal +11, Knowledge (nature) +10, Perception +15, Spellcraft +7, Survival +13, Swim +5  
+**Languages** Common, Druidic, Goblin, Halfling  
+**SQ** nature bond (Weather domain), nature sense, trackless step, wild empathy +8, woodland stride  
+**Combat Gear**  *scroll of owl’s wisdom*, alchemist’s fire (3), thunderstone; **Other Gear** *+1 dragonhide breastplate*, masterwork heavy wooden shield, masterwork scimitar, masterwork sling with 20 bullets, *cloak of resistance +1*, *headband of inspired wisdom +2*, grappling hook, healer’s kit, holly and mistletoe, silk rope (50 ft.), spell component pouch, 22 gp
+
+With their ability to control and harness the powers of winds and storms, a number of druids become sea captains, using their abilities sometimes for trade and other times for piracy.

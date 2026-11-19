@@ -1,0 +1,53 @@
+# Spirit Avenger
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Spirit Avenger&quot;,&quot;cr&quot;:&quot;16&quot;,&quot;xp&quot;:&quot;76,800&quot;,&quot;line&quot;:&quot;Half-orc barbarian 4/sorcerer 6/eldritch knight 7, N Medium humanoid (human, orc)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;25, touch 18, flat-footed 20&quot;,&quot;hp&quot;:&quot;139 (4d12+6d6+7d10+48)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:17,&quot;Ref&quot;:12,&quot;Will&quot;:16},&quot;defense&quot;:&quot;orc ferocity, trap sense +1, uncanny dodge; Resist acid 5, cold 5&quot;,&quot;speed&quot;:&quot;40 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 spear&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15,10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 shortbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[20,15,10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (12 rounds/day), rage powers (no escape, superstition +3)&quot;,&quot;rangedTouch&quot;:18,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;6/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;heavenly fire&quot;,&quot;note&quot;:&quot;1d4+3 divine energy&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th (3/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;disintegrate&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;disintegrate&quot;,&quot;save&quot;:&quot;Fortitude partial (object)&quot;,&quot;damage&quot;:&quot;24d6&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;Fort save: 5d6 instead&quot;}]},{&quot;label&quot;:&quot;5th (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;summon monster V&quot;,&quot;page&quot;:&quot;summon-monster-v&quot;}]},{&quot;label&quot;:&quot;4th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;locate creature&quot;,&quot;page&quot;:&quot;locate-creature&quot;},{&quot;name&quot;:&quot;resilient sphere&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;resilient-sphere&quot;,&quot;save&quot;:&quot;Reflex negates&quot;}]},{&quot;label&quot;:&quot;3rd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;halt undead&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;halt-undead&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;magic circle against evil&quot;,&quot;page&quot;:&quot;magic-circle-against-evil&quot;},{&quot;name&quot;:&quot;summon monster III&quot;,&quot;page&quot;:&quot;summon-monster-iii&quot;}]},{&quot;label&quot;:&quot;2nd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;},{&quot;name&quot;:&quot;mirror image&quot;,&quot;page&quot;:&quot;mirror-image&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;rope trick&quot;,&quot;page&quot;:&quot;rope-trick&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;1st (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;detect undead&quot;,&quot;page&quot;:&quot;detect-undead&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;disrupt undead&quot;,&quot;page&quot;:&quot;disrupt-undead&quot;},{&quot;name&quot;:&quot;flare&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;flare&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]}],&quot;abilities&quot;:&quot;Str 10, Dex 18, Con 14, Int 10, Wis 16, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +14; CMB +14; CMD 32&quot;,&quot;checks&quot;:{&quot;Climb&quot;:8,&quot;Diplomacy&quot;:5,&quot;Handle Animal&quot;:11,&quot;Intimidate&quot;:5,&quot;Knowledge (nature)&quot;:8,&quot;Knowledge (planes)&quot;:5,&quot;Knowledge (religion)&quot;:5,&quot;Linguistics&quot;:1,&quot;Perception&quot;:16,&quot;Survival&quot;:11,&quot;Swim&quot;:8,&quot;CMB&quot;:14},&quot;feats&quot;:&quot;Arcane Armor Mastery, Arcane Armor Training, Blind-Fight, Combat Casting, Dodge, Eschew Materials, Great Fortitude, Iron Will, Point-Blank Shot, Rapid Shot, Weapon Focus (shortbow), Weapon Specialization (shortbow)&quot;,&quot;languages&quot;:&quot;Celestial, Common, Giant, Orc&quot;,&quot;sq&quot;:&quot;bloodline arcana (summoned creatures gain DR 3/evil), diverse training, fast movement, orc blood, weapon familiarity&quot;,&quot;gear&quot;:&quot;+1 ghost touch arrows (10), +1 undead-bane arrows (10), scroll of neutralize poison, scroll of remove disease, scrolls of restoration (2)&quot;}"></div>
+
+## Spirit Avenger (CR 16)
+
+**XP** 76,800  
+Half-orc barbarian 4/sorcerer 6/eldritch knight 7  
+N Medium humanoid (human, orc)  
+**Init** +4; **Senses** darkvision 60 ft.; Perception +16
+
+**Defense**
+
+**AC** 25, touch 18, flat-footed 20 (+5 armor, +3 deflection, +4 Dex, +1 dodge, +2 natural)  
+**hp** 139 (4d12+6d6+7d10+48)  
+**Fort** +17, **Ref** +12, **Will** +16  
+**Defensive Abilities** orc ferocity, trap sense +1, uncanny dodge; **Resist** acid 5, cold 5
+
+**Offense**
+
+**Speed** 40 ft.  
+**Melee** *+1 spear* +15/+10/+5 (1d8+1/×3)  
+**Ranged**  *+1 shortbow* +20/+15/+10 (1d6+3/×3)  
+**Special Attacks** rage (12 rounds/day), rage powers (no escape, superstition +3)  
+**Spell-Like Abilities** (CL 12th; concentration +15)  
+6/day—heavenly fire (1d4+3 divine energy)  
+**Sorcerer Spells Known** (CL 12th; concentration +15)  
+6th (3/day)—*disintegrate* (DC 19)  
+5th (5/day)—*dismissal* (DC 18), *summon monster V*  
+4th (6/day)—*dimensional anchor*, *locate creature*, *resilient sphere* (DC 17)  
+3rd (7/day)—*halt undead* (DC 16), *haste*, *lightning bolt* (DC 16), *magic circle against evil*, *summon monster III*  
+2nd (7/day)—*blindness/deafness* (DC 15), *false life*, *mirror image*, *resist energy*, *rope trick*, *see invisibility*  
+1st (7/day)—*bless*, *cause fear* (DC 14), *detect undead*, *magic missile*, *shield*, *unseen servant*  
+0 (at will)—*dancing lights*, *detect magic*, *disrupt undead*, *flare* (DC 13), *mage hand*, *message*, *open/close*, *prestidigitation*, *resistance*  
+**Bloodline** celestial
+
+**Tactics**
+
+**Before Combat** The eldritch knight casts *false life*.  
+**During Combat** The knight starts combat with *shield* and summoning spells, letting conjured allies run interference while he contains or damages his foes.  
+**Base Statistics** Without *false life*, the eldritch knight’s statistics are **hp** 125.
+
+**Statistics**
+
+**Str** 10, **Dex** 18, **Con** 14, **Int** 10, **Wis** 16, **Cha** 16  
+**Base Atk** +14; **CMB** +14; **CMD** 32  
+**Feats** [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md), [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Weapon Focus (shortbow)](../../rules/feats/weapon-focus.md), [Weapon Specialization (shortbow)](../../rules/feats/weapon-specialization.md)  
+**Skills** Climb +8, Diplomacy +5, Handle Animal +11, Intimidate +5, Knowledge (nature) +8, Knowledge (planes, religion) +5, Linguistics +1, Perception +16, Survival +11, Swim +8  
+**Languages** Celestial, Common, Giant, Orc  
+**SQ** bloodline arcana (summoned creatures gain DR 3/evil), diverse training, fast movement, orc blood, weapon familiarity  
+**Combat Gear**  *+1 ghost touch arrows* (10), *+1 undead-bane arrows* (10), *scroll of neutralize poison*, *scroll of remove disease*, *scrolls of restoration* (2); **Other Gear** *+1 shortbow* with 20 arrows, *+1 spear*, *amulet of natural armor +2*, *belt of incredible dexterity +2*, *bracers of armor +5*, *cloak of resistance +3*, *headband of mental prowess +2* (Wis, Cha), *ring of protection +3*, 246 gp
+
+Dedicated to protecting the world from evil outsiders and undead, spirit avengers realize it’s better to contain an enemy than to destroy it.

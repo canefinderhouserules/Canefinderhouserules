@@ -1,0 +1,49 @@
+# Tunnel Drummer
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tunnel Drummer&quot;,&quot;cr&quot;:&quot;13&quot;,&quot;xp&quot;:&quot;25,600&quot;,&quot;line&quot;:&quot;Dwarf bard 14, LN Medium humanoid (dwarf)&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;19, touch 12, flat-footed 17&quot;,&quot;hp&quot;:&quot;100 (14d8+34)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:10,&quot;Will&quot;:9},&quot;saveNote&quot;:&quot;+2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;defense&quot;:&quot;defensive training (+4 dodge bonus to AC vs. giants)&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 thundering heavy mace&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14,9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 heavy crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[12],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d10&quot;,&quot;mod&quot;:1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;+1 on attack rolls against goblinoid and orc humanoids, bardic performance 35 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion)&quot;,&quot;rangedTouch&quot;:11,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:14,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th (2/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;mind fog&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;mind-fog&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;song of discord&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;song-of-discord&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;4th (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;greater invisibility&quot;,&quot;page&quot;:&quot;invisibility-greater&quot;},{&quot;name&quot;:&quot;hold monster&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;hold-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;shout&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;shout&quot;,&quot;save&quot;:&quot;Fortitude partial or Reflex negates (object)&quot;}]},{&quot;label&quot;:&quot;3rd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blink&quot;,&quot;page&quot;:&quot;blink&quot;},{&quot;name&quot;:&quot;confusion&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;confusion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;gaseous form&quot;,&quot;page&quot;:&quot;gaseous-form&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;haste&quot;,&quot;save&quot;:&quot;Fortitude negates (harmless)&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;2nd (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alter self&quot;,&quot;page&quot;:&quot;alter-self&quot;},{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;shatter&quot;,&quot;page&quot;:&quot;shatter&quot;},{&quot;name&quot;:&quot;sound burst&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;sound-burst&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;,&quot;damage&quot;:&quot;1d8&quot;},{&quot;name&quot;:&quot;summon swarm&quot;,&quot;page&quot;:&quot;summon-swarm&quot;}]},{&quot;label&quot;:&quot;1st (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alarm&quot;,&quot;page&quot;:&quot;alarm&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;hideous laughter&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;hideous-laughter&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;magic mouth&quot;,&quot;page&quot;:&quot;magic-mouth&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;flare&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;flare&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]}],&quot;abilities&quot;:&quot;Cha 16, Str 14, Dex 13, Con 14, Int 10, Wis 10, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +12; CMD 24 (28 vs. bull rush or trip)&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:12,&quot;Perform (comedy, oratory)&quot;:16,&quot;Perform (percussion)&quot;:20,&quot;Perform (string)&quot;:12,&quot;Use Magic Device&quot;:14,&quot;Perception&quot;:13,&quot;CMB&quot;:12},&quot;feats&quot;:&quot;Cleave, Dazzling Display, Dodge, Point-Blank Shot, Power Attack, Rapid Reload, Weapon Focus (heavy mace)&quot;,&quot;languages&quot;:&quot;Common, Dwarven&quot;,&quot;sq&quot;:&quot;bardic knowledge +7, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (comedy, dance, oratory, percussion)&quot;,&quot;gear&quot;:&quot;potion of eagle’s splendor, wand of cure moderate wounds (50 charges)&quot;}"></div>
+
+## Tunnel Drummer (CR 13)
+
+**XP** 25,600  
+Dwarf bard 14  
+LN Medium humanoid (dwarf)  
+**Init** +1; **Senses** Perception +13
+
+**Defense**
+
+**AC** 19, touch 12, flat-footed 17 (+6 armor, +1 Dex, +1 dodge, +1 natural)  
+**hp** 100 (14d8+34)  
+**Fort** +6, **Ref** +10, **Will** +9; +2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic  
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants)
+
+**Offense**
+
+**Speed** 20 ft.  
+**Melee** *+1 thundering heavy mace* +14/+9 (1d8+3)  
+**Ranged**  *+1 heavy crossbow* +12 (1d10+1/19–20)  
+**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, bardic performance 35 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, *suggestion*)  
+**Bard Spells Known** (CL 14th; concentration +19)  
+5th (2/day)—*greater dispel magic*, *mind fog* (DC 20), *song of discord* (DC 20)  
+4th (4/day)—*dimension door*, *greater invisibility*, *hold monster* (DC 19), *shout* (DC 19)  
+3rd (5/day)—*blink*, *confusion* (DC 18), *gaseous form*, *haste* (DC 18), *see invisibility*  
+2nd (6/day)—*alter self*, *glitterdust* (DC 17), *shatter*, *sound burst* (DC 17), *summon swarm*  
+1st (6/day)—*alarm*, *expeditious retreat*, *feather fall*, *grease*, *hideous laughter* (DC 16), *magic mouth*  
+0 (at will)—*detect magic*, *flare* (DC 15), *ghost sound* (DC 15), *light*, *mending*, *prestidigitation*
+
+**Tactics**
+
+**Before Combat** The bard drinks a *potion of eagle’s splendor*.  
+**During Combat** The bard uses *mind fog* and *dirge of doom*.  
+**Base Statistics** Without *eagle’s splendor*, the bard’s statistics are **Bard Spells Known** reduce spell DCs by 2; **Cha** 16; **Skills** Diplomacy +12, Perform (comedy, oratory) +16, Perform (percussion) +20, Perform (string) +12, Use Magic Device +14.
+
+**Statistics**
+
+**Str** 14, **Dex** 13, **Con** 14, **Int** 10, **Wis** 10, **Cha** 20  
+**Base Atk** +10; **CMB** +12; **CMD** 24 (28 vs. bull rush or trip)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Dodge](../../rules/feats/dodge.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Rapid Reload](../../rules/feats/rapid-reload.md), [Weapon Focus (heavy mace)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +9 (+5 when jumping), Diplomacy +14, Knowledge (dungeoneering) +13, Knowledge (engineering, history) +12, Knowledge (geography, nobility, religion) +11, Perception +13 (+15 to notice unusual stonework), Perform (comedy, oratory) +18, Perform (percussion) +22, Perform (string) +14, Spellcraft +8, Stealth +10, Use Magic Device +16  
+**Languages** Common, Dwarven  
+**SQ** bardic knowledge +7, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (comedy, dance, oratory, percussion)  
+**Combat Gear**  *potion of eagle’s splendor*, *wand of cure moderate wounds* (50 charges); **Other Gear** *+2 chain shirt*, *+1 heavy crossbow* with 20 bolts, *+1 thundering heavy mace*, *amulet of natural armor +1*, *lyre of building*, drum, 88 gp
+
+Tunnel drummers keep time for acts of work and war carried out in deep warrens and mine tunnels.

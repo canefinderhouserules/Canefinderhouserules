@@ -1,0 +1,44 @@
+# Aloof Scholar
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Aloof Scholar&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;Human bard 7/Pathfinder chronicler 2, N Medium humanoid (human)&quot;,&quot;init&quot;:6,&quot;ac&quot;:&quot;18, touch 14, flat-footed 15&quot;,&quot;hp&quot;:&quot;61 (7d8+2d8+18)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:9,&quot;Will&quot;:8},&quot;saveNote&quot;:&quot;+4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;defense&quot;:&quot;live to tell the tale (1/day)&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6,1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bardic performance 25 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion)&quot;,&quot;rangedTouch&quot;:8,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:10,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd (2/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;glibness&quot;,&quot;page&quot;:&quot;glibness&quot;},{&quot;name&quot;:&quot;scrying&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;scrying&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blur&quot;,&quot;page&quot;:&quot;blur&quot;},{&quot;name&quot;:&quot;daze monster&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;daze-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;locate object&quot;,&quot;page&quot;:&quot;locate-object&quot;}]},{&quot;label&quot;:&quot;1st (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;detect secret doors&quot;,&quot;page&quot;:&quot;detect-secret-doors&quot;},{&quot;name&quot;:&quot;silent image&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;silent-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;know direction&quot;,&quot;page&quot;:&quot;know-direction&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;}]}]}],&quot;abilities&quot;:&quot;Str 8, Dex 14, Con 14, Int 12, Wis 12, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +5; CMD 19&quot;,&quot;checks&quot;:{&quot;Knowledge (arcana)&quot;:17,&quot;Knowledge (local)&quot;:17,&quot;Knowledge (nobility)&quot;:17,&quot;Knowledge (religion)&quot;:17,&quot;Knowledge (history)&quot;:13,&quot;Linguistics&quot;:7,&quot;Perception&quot;:13,&quot;Perform (keyboard instruments)&quot;:7,&quot;Perform (oratory)&quot;:15,&quot;Profession (scribe)&quot;:9,&quot;Spellcraft&quot;:12,&quot;Stealth&quot;:12,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Dodge, Extra Performance, Greater Spell Focus (enchantment), Improved Initiative, Mobility, Spell Focus (enchantment)&quot;,&quot;languages&quot;:&quot;Celestial, Common, Draconic, Dwarven&quot;,&quot;sq&quot;:&quot;bardic knowledge +4, deep pockets (200 gp), elven magic, lore master 1/day, master scribe, pathfinding, versatile performance (keyboard, oratory)&quot;,&quot;gear&quot;:&quot;potion of invisibility, scroll of cure serious wounds, scroll of disguise self, scroll of haste, scroll of identify, scroll of see invisibility, scroll of speak with animals, scroll of tiny hut, wand of cure light wounds (20 charges)&quot;}"></div>
+
+## Aloof Scholar (CR 8)
+
+**XP** 4,800  
+Human bard 7/Pathfinder chronicler 2  
+N Medium humanoid (human)  
+**Init** +6; **Senses** Perception +13
+
+**Defense**
+
+**AC** 18, touch 14, flat-footed 15 (+3 armor, +1 deflection, +2 Dex, +1 dodge, +1 natural)  
+**hp** 61 (7d8+2d8+18)  
+**Fort** +6, **Ref** +9, **Will** +8; +4 vs. bardic performance, language-dependent, and sonic  
+**Defensive Abilities** live to tell the tale (1/day)
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** mwk dagger +6/+1 (1d4–1/19–20)  
+**Special Attacks** bardic performance 25 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion)  
+**Bard Spells Known** (CL 7th; concentration +10)  
+3rd (2/day)—*glibness*, *scrying* (DC 16)  
+2nd (4/day)—*blur*, *daze monster* (DC 17), *detect thoughts* (DC 15), *locate object*  
+1st (5/day)—*charm person* (DC 16), *comprehend languages*, *detect secret doors*, *silent image* (DC 14), *unseen servant*  
+0 (at will)—*dancing lights*, *detect magic*, *know direction*, *mage hand*, *message*, *open/close*
+
+**Tactics**
+
+**During Combat** The Pathfinder chronicler casts *blur*, then casts *haste* from her scroll. Preferring to stay out of melee, she uses bardic performance to aid her allies, and casts *daze monster* or *charm person* on enemies who come close. If threatened, she withdraws, drinks her *potion of invisibility*, and makes her escape.
+
+**Statistics**
+
+**Str** 8, **Dex** 14, **Con** 14, **Int** 12, **Wis** 12, **Cha** 16  
+**Base Atk** +6; **CMB** +5; **CMD** 19  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Extra Performance](../../rules/feats/extra-performance.md), [Greater Spell Focus (enchantment)](../../rules/feats/greater-spell-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md)  
+**Skills** Knowledge (arcana, local, nobility, religion) +17, Knowledge (history) +13, Linguistics +7, Perception +13, Perform (keyboard instruments) +7, Perform (oratory) +15, Profession (scribe) +9, Spellcraft +12 (+14 to identify magic item properties), Stealth +12  
+**Languages** Celestial, Common, Draconic, Dwarven  
+**SQ** bardic knowledge +4, deep pockets (200 gp), elven magic, lore master 1/day, master scribe, pathfinding, versatile performance (keyboard, oratory)  
+**Combat Gear**  *potion of invisibility*, *scroll of cure serious wounds*, *scroll of disguise self*, *scroll of haste*, *scroll of identify*, *scroll of see invisibility*, *scroll of speak with animals*, *scroll of tiny hut*, *wand of cure light wounds* (20 charges); **Other Gear** *+1 leather armor*, masterwork dagger, *amulet of natural armor +1*, *cloak of resistance +1*, *ring of protection +1*, silver mirror (worth 1,000 gp), 63 gp
+
+Often lost in their own thoughts, sometimes these scholars forget others are around them. They’re usually solitary, but have to go out exploring in search of information—or pay adventurers to retell their stories.

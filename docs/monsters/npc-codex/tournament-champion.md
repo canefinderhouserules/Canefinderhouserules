@@ -1,0 +1,51 @@
+# Tournament Champion
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tournament Champion&quot;,&quot;cr&quot;:&quot;12&quot;,&quot;xp&quot;:&quot;19,200&quot;,&quot;line&quot;:&quot;Half-elf bard 7/sorcerer 2/arcane archer 4, N Medium humanoid (elf, human)&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;21, touch 15, flat-footed 17&quot;,&quot;hp&quot;:&quot;86 (7d8+2d6+4d10+22)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:15,&quot;Will&quot;:11},&quot;saveNote&quot;:&quot;+2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11,6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+2 longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21,16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:2,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bardic performance 19 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion), enhance arrows (elemental, magic), imbue arrow, seeker arrow (1/day).&quot;,&quot;rangedTouch&quot;:15,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:13,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th (1/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater invisibility&quot;,&quot;page&quot;:&quot;invisibility-greater&quot;},{&quot;name&quot;:&quot;shout&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;shout&quot;,&quot;save&quot;:&quot;Fortitude partial or Reflex negates (object)&quot;}]},{&quot;label&quot;:&quot;3rd (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm monster&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;charm-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;crushing despair&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;crushing-despair&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;cure-serious-wounds&quot;,&quot;save&quot;:&quot;Will half (harmless)&quot;},{&quot;name&quot;:&quot;deep slumber&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;deep-slumber&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cat's grace&quot;,&quot;page&quot;:&quot;cats-grace&quot;},{&quot;name&quot;:&quot;eagle's splendor&quot;,&quot;page&quot;:&quot;eagles-splendor&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;shatter&quot;,&quot;page&quot;:&quot;shatter&quot;},{&quot;name&quot;:&quot;silence&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;silence&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;lesser confusion&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;confusion-lesser&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;flare&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;flare&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:2,&quot;concentration&quot;:5,&quot;levels&quot;:[{&quot;label&quot;:&quot;1st (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;1d4+2&quot;,&quot;damageLabel&quot;:&quot;force damage, 1 missiles&quot;},{&quot;name&quot;:&quot;true strike&quot;,&quot;page&quot;:&quot;true-strike&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane mark&quot;,&quot;page&quot;:&quot;arcane-mark&quot;},{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Dex 20, Str 10, Dex 24, Con 13, Int 8, Wis 12, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +10; CMD 26.&quot;,&quot;checks&quot;:{&quot;Knowledge (geography)&quot;:6,&quot;Knowledge (local)&quot;:8,&quot;Knowledge (nobility)&quot;:8,&quot;Perception&quot;:25,&quot;Perform (oratory, sing)&quot;:19,&quot;Spellcraft&quot;:3,&quot;Swim&quot;:0,&quot;Use Magic Device&quot;:7,&quot;CMB&quot;:10},&quot;feats&quot;:&quot;Deadly Aim, Eschew Materials, Far Shot, Manyshot, Point-Blank Shot, Precise Shot, Rapid Shot, Skill Focus (Perception), Weapon Focus (longbow)&quot;,&quot;languages&quot;:&quot;Common, Elven&quot;,&quot;sq&quot;:&quot;arcane bond (+2 longbow), bardic knowledge +3, bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), elf blood, lore master 1/day, versatile performance (oratory, sing)&quot;,&quot;gear&quot;:&quot;+1 human-bane arrow (2), +1 magical beast-bane arrow (4), potion of haste&quot;}"></div>
+
+## Tournament Champion (CR 12)
+
+**XP** 19,200  
+Half-elf bard 7/sorcerer 2/arcane archer 4  
+N Medium humanoid (elf, human)  
+**Init** +7; **Senses** low-light vision; Perception +25
+
+**Defense**
+
+**AC** 21, touch 15, flat-footed 17 (+6 armor, +1 deflection, +4 Dex)  
+**hp** 86 (7d8+2d6+4d10+22)  
+**Fort** +6, **Ref** +15, **Will** +11; +2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** mwk rapier +11/+6 (1d6/18–20)  
+**Ranged**  *+2 longbow* +21/+16 (1d8+2/×3)  
+**Special Attacks** bardic performance 19 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion), enhance arrows (elemental, magic), imbue arrow, seeker arrow (1/day).  
+**Bard Spells Known** (CL 10th; concentration +13)  
+4th (1/day)—*greater invisibility*, *shout* (DC 17)  
+ 3rd (4/day)—*charm monster* (DC 16), *crushing despair* (DC 16), *cure serious wounds* (DC 16), *deep slumber* (DC 16)  
+ 2nd (5/day)—*cat's grace*, *eagle's splendor*, *invisibility*, *shatter*, *silence* (DC 15)  
+ 1st (6/day)—*charm person* (DC 14), *feather fall*, *grease*, *lesser confusion* (DC 14), *unseen servant*  
+ 0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 13), *mage hand*, *mending*, *prestidigitation*  
+**Sorcerer Spells Known**(CL 2nd; concentration +5; arcane spell failure 20%)  
+1st (5/day)—*magic missile*, *true strike*  
+0 (at will)—*arcane mark*, *daze* (DC 13), *ghost sound* (DC 13), *open/close*, *read magic*  
+**Bloodline** arcane
+
+**Tactics**
+
+**Before Combat** The arcane archer casts *cat’s grace* and drinks her *potion of haste*. She typically prepares *shock* arrows as her enhance arrows ability.  
+**During Combat** The archer’s favorite tactic is to cast *greater invisibility*, then make shots from a distance using *true strike*.  
+**Base Statistics** Without *cat’s grace*, the arcane archer’s statistics are **Init** +5; **Ref** +13; **Ranged** *+2 longbow* +19/+14 (1d8+2/×3); **Dex** 20; **CMD** 26.
+
+**Statistics**
+
+**Str** 10, **Dex** 24, **Con** 13, **Int** 8, **Wis** 12, **Cha** 16  
+**Base Atk** +10; **CMB** +10; **CMD** 28  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Far Shot](../../rules/feats/far-shot.md), [Manyshot](../../rules/feats/manyshot.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Focus (longbow)](../../rules/feats/weapon-focus.md)  
+**Skills** Knowledge (geography) +6, Knowledge (local, nobility) +8, Perception +25, Perform (oratory, sing) +19, Spellcraft +3, Swim +0, Use Magic Device +7  
+**Languages** Common, Elven  
+**SQ** arcane bond (*+2 longbow*), bardic knowledge +3, bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), elf blood, lore master 1/day, versatile performance (oratory, sing)  
+**Combat Gear**  *+1 human-bane arrow* (2), *+1 magical beast-bane arrow* (4), *potion of haste*; **Other Gear** *+2 chain shirt*, *+2 longbow* with 40 arrows, masterwork rapier, *belt of incredible dexterity +2*, *cloak of resistance +1*, *lesser bracers of archery*, *ring of protection +1*, 309 gp
+
+These half-elves travel from fair to fair, entertaining crowds with archery prowess, arcane flourishes, and epic ballads.

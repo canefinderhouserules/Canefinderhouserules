@@ -1,0 +1,53 @@
+# Master of Undeath
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Master of Undeath&quot;,&quot;cr&quot;:&quot;14&quot;,&quot;xp&quot;:&quot;38,400&quot;,&quot;line&quot;:&quot;Human cleric of Urgathoa 15, NE Medium humanoid (human)&quot;,&quot;init&quot;:5,&quot;ac&quot;:&quot;22, touch 12, flat-footed 21&quot;,&quot;hp&quot;:&quot;146 (15d8+75)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:7,&quot;Will&quot;:17},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+3 scythe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[17,12,7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:6,&quot;threat&quot;:19,&quot;mult&quot;:4,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 4/day (DC 18, 8d6), scythe of evil (7 rounds, 2/day)&quot;,&quot;rangedTouch&quot;:12,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:22,&quot;levels&quot;:[{&quot;label&quot;:&quot;10/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleeding touch&quot;,&quot;note&quot;:&quot;7 rounds&quot;},{&quot;name&quot;:&quot;touch of evil&quot;,&quot;note&quot;:&quot;7 rounds&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:22,&quot;levels&quot;:[{&quot;label&quot;:&quot;8th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fire storm&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;fire-storm&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;unholy aura&quot;,&quot;page&quot;:&quot;unholy-aura&quot;}]},{&quot;label&quot;:&quot;7th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blasphemy&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;blasphemy&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;ethereal jaunt&quot;,&quot;page&quot;:&quot;ethereal-jaunt&quot;}]},{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;antilife shell&quot;,&quot;page&quot;:&quot;antilife-shell&quot;},{&quot;name&quot;:&quot;blade barrier&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;blade-barrier&quot;,&quot;save&quot;:&quot;Reflex half or Reflex negates&quot;},{&quot;name&quot;:&quot;create undead&quot;,&quot;page&quot;:&quot;create-undead&quot;},{&quot;name&quot;:&quot;harm&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;harm&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;150&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel good&quot;,&quot;page&quot;:&quot;dispel-good&quot;},{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;insect plague&quot;,&quot;page&quot;:&quot;insect-plague&quot;},{&quot;name&quot;:&quot;righteous might&quot;,&quot;page&quot;:&quot;righteous-might&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;giant vermin&quot;,&quot;page&quot;:&quot;giant-vermin&quot;},{&quot;name&quot;:&quot;greater magic weapon&quot;,&quot;page&quot;:&quot;magic-weapon-greater&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate dead&quot;,&quot;page&quot;:&quot;animate-dead&quot;},{&quot;name&quot;:&quot;contagion&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;contagion&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;deeper darkness&quot;,&quot;page&quot;:&quot;deeper-darkness&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;wind wall&quot;,&quot;page&quot;:&quot;wind-wall&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bear’s endurance&quot;,&quot;page&quot;:&quot;bears-endurance&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;desecrate&quot;,&quot;page&quot;:&quot;desecrate&quot;},{&quot;name&quot;:&quot;gentle repose&quot;,&quot;page&quot;:&quot;gentle-repose&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;},{&quot;name&quot;:&quot;doom&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;doom&quot;,&quot;save&quot;:&quot;Will negates&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;entropic shield&quot;,&quot;page&quot;:&quot;entropic-shield&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;virtue&quot;,&quot;page&quot;:&quot;virtue&quot;}]}]}],&quot;abilities&quot;:&quot;Con 14., Str 15, Dex 12, Con 18, Int 10, Wis 24, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +11; CMB +13; CMD 25&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:5,&quot;Intimidate&quot;:5,&quot;Knowledge (local)&quot;:6,&quot;Knowledge (religion)&quot;:9,&quot;Perception&quot;:20,&quot;Spellcraft&quot;:11,&quot;CMB&quot;:13},&quot;feats&quot;:&quot;Combat Casting, Command Undead, Critical Focus, Extra Channel, Improved Channel, Improved Critical (scythe), Improved Initiative, Spell Focus (evocation), Weapon Focus (scythe)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;sq&quot;:&quot;aura, death’s embrace&quot;,&quot;gear&quot;:&quot;potion of invisibility&quot;}"></div>
+
+## Master of Undeath (CR 14)
+
+**XP** 38,400  
+Human cleric of Urgathoa 15  
+NE Medium humanoid (human)  
+**Init** +5; **Senses** Perception +20
+
+**Defense**
+
+**AC** 22, touch 12, flat-footed 21 (+9 armor, +1 deflection, +1 Dex, +1 natural)  
+**hp** 146 (15d8+75)  
+**Fort** +14, **Ref** +7, **Will** +17
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+3 scythe* +17/+12/+7 (2d4+6/19–20/×4)  
+**Special Attacks** channel negative energy 4/day (DC 18, 8d6), scythe of evil (7 rounds, 2/day)  
+**Spell-Like Abilities** (CL 15th; concentration +22)  
+10/day—bleeding touch (7 rounds), touch of evil (7 rounds)  
+**Cleric Spells Prepared** (CL 15th; concentration +22)  
+8th—*fire storm* (DC 26), *unholy aura*D  
+7th—*blasphemy*D (DC 25), *destruction* (DC 24), *ethereal jaunt*  
+6th—*antilife shell*, *blade barrier* (DC 24), *create undead*D, *harm*D (DC 23)  
+5th—*dispel good*, *greater command* (DC 22), *flame strike* (DC 23), *insect plague*, *righteous might*, *slay living*D (DC 22)  
+4th—*divine power*, *freedom of movement*, *giant vermin*, *greater magic weapon*, *poison* (DC 21), *unholy blight*D (DC 22)  
+3rd—*animate dead*D, *contagion* (2, DC 20), *deeper darkness*, *dispel magic*, *wind wall*  
+2nd—*bear’s endurance*, *death knell*D (DC 19), *desecrate*, *gentle repose*, *hold person* (DC 19), *spiritual weapon*  
+1st—*bane* (DC 18), *cause fear*D (DC 18), *divine favor*, *doom* (2, DC 18), *entropic shield*, *shield of faith*  
+0 (at will)—*bleed* (DC 17), *light*, *resistance*, *virtue*  
+**D** Domain spell; **Domains** Death, Evil
+
+**Tactics**
+
+**Before Combat** The cleric casts *bear’s endurance*, *desecrate*, *freedom of movement*, and *greater magic weapon*.  
+**During Combat** The cleric relies on offensive spells, or on channel energy if he has undead allies.  
+**Base Statistics** Without *bear’s endurance* and *greater magic weapon*, the cleric’s statistics are **hp** 116; **Fort** +12; **Melee** *+1 scythe* +15/+10/+5 (2d4+4/19–20/×4); **Con** 14.
+
+**Statistics**
+
+**Str** 15, **Dex** 12, **Con** 18, **Int** 10, **Wis** 24, **Cha** 8  
+**Base Atk** +11; **CMB** +13; **CMD** 25  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Command Undead](../../rules/feats/command-undead.md), [Critical Focus](../../rules/feats/critical-focus.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Channel](../../rules/feats/improved-channel.md), [Improved Critical (scythe)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Spell Focus (evocation)](../../rules/feats/spell-focus.md), [Weapon Focus (scythe)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +5, Intimidate +5, Knowledge (local) +6, Knowledge (religion) +9, Perception +20, Spellcraft +11  
+**Languages** Common  
+**SQ** aura, death’s embrace  
+**Combat Gear**  *potion of invisibility*; **Other Gear** *+3 mithral breastplate*, *+1 scythe*, *amulet of natural armor +1*, *belt of giant strength +2*, *cloak of resistance +1*, *headband of inspired wisdom +4*, *ring of protection +1*, unholy water, cold iron unholy symbol (worth 500 gp), onyx gems (worth 1,000 gp), silver dust for *desecrate* (worth 25 gp), 2,482 gp
+
+These clerics turn innocents into undead monstrosities.

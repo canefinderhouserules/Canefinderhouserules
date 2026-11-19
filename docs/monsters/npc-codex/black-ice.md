@@ -1,0 +1,57 @@
+# Black Ice
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Black Ice&quot;,&quot;cr&quot;:&quot;16&quot;,&quot;xp&quot;:&quot;76,800&quot;,&quot;line&quot;:&quot;Gnome illusionist 10/shadowdancer 7, NE Small humanoid (gnome)&quot;,&quot;init&quot;:6,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;23, touch 17, flat-footed 20&quot;,&quot;hp&quot;:&quot;147 (10d6+7d8+78)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:12,&quot;Ref&quot;:15,&quot;Will&quot;:15},&quot;saveNote&quot;:&quot;+2 vs. illusions&quot;,&quot;defense&quot;:&quot;defensive roll, defensive training (+4 dodge bonus to AC vs. giants), evasion, greater invisibility, improved uncanny dodge, slippery mind; DR 10/adamantine (100 points)&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;staff of frost&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-2,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;+1 on attack rolls against goblinoid and reptilian humanoids&quot;,&quot;rangedTouch&quot;:13,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:17,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;page&quot;:&quot;ghost-sound&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;speak with animals&quot;,&quot;page&quot;:&quot;speak-with-animals&quot;}]}]},{&quot;title&quot;:&quot;Arcane School Spell-Like Abilities&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;invisibility field&quot;,&quot;note&quot;:&quot;10 rounds/day&quot;}]},{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blinding ray&quot;,&quot;page&quot;:&quot;blinding-ray&quot;}]}]},{&quot;title&quot;:&quot;Shadowdancer Spell-Like Abilities&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:9,&quot;levels&quot;:[{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;shadow illusion&quot;,&quot;dc&quot;:13}]},{&quot;label&quot;:&quot;2/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;shadow call&quot;,&quot;dc&quot;:16}]}]},{&quot;title&quot;:&quot;Illusionist Spells Prepared&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;feeblemind&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;feeblemind&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;nightmare&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;nightmare&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;shadow evocation&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;shadow-evocation&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;teleport&quot;,&quot;page&quot;:&quot;teleport&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm monster&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;charm-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater invisibility&quot;,&quot;page&quot;:&quot;invisibility-greater&quot;},{&quot;name&quot;:&quot;phantasmal killer&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;phantasmal-killer&quot;,&quot;save&quot;:&quot;Will disbelief, then Fortitude partial&quot;},{&quot;name&quot;:&quot;solid fog&quot;,&quot;page&quot;:&quot;solid-fog&quot;},{&quot;name&quot;:&quot;stoneskin&quot;,&quot;page&quot;:&quot;stoneskin&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blink&quot;,&quot;page&quot;:&quot;blink&quot;},{&quot;name&quot;:&quot;displacement&quot;,&quot;page&quot;:&quot;displacement&quot;},{&quot;name&quot;:&quot;fly&quot;,&quot;page&quot;:&quot;fly&quot;},{&quot;name&quot;:&quot;major image&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;major-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;slow&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;slow&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid arrow&quot;,&quot;page&quot;:&quot;acid-arrow&quot;},{&quot;name&quot;:&quot;darkness&quot;,&quot;page&quot;:&quot;darkness&quot;},{&quot;name&quot;:&quot;hypnotic pattern&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;hypnotic-pattern&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;color spray&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;color-spray&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true}]}]}],&quot;abilities&quot;:&quot;Str 6, Dex 14, Con 16, Int 20, Wis 10, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +7; CMD 23&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:20,&quot;Bluff&quot;:20,&quot;Craft (alchemy)&quot;:7,&quot;Diplomacy&quot;:20,&quot;Fly&quot;:17,&quot;Knowledge (arcana)&quot;:23,&quot;Knowledge (dungeoneering)&quot;:13,&quot;Knowledge (geography)&quot;:13,&quot;Knowledge (planes)&quot;:23,&quot;Perception&quot;:20,&quot;Perform (dance)&quot;:8,&quot;Spellcraft&quot;:23,&quot;Stealth&quot;:24,&quot;Swim&quot;:2,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Combat Casting, Combat Reflexes, Dodge, Fleet (2), Greater Spell Focus (illusion), Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Scribe Scroll, Spell Focus (illusion), Toughness&quot;,&quot;languages&quot;:&quot;Aklo, Common, Draconic, Gnome, Sylvan&quot;,&quot;sq&quot;:&quot;arcane bond (staff of frost), extended illusions (+5 rounds), hide in plain sight, rogue talents (combat trick, fast stealth), shadow jump (80 feet/day), summon shadow&quot;,&quot;gear&quot;:&quot;restorative ointment (5 applications), staff of frost (10 charges)&quot;}"></div>
+
+## Black Ice (CR 16)
+
+**XP** 76,800  
+Gnome illusionist 10/shadowdancer 7  
+NE Small humanoid (gnome)  
+**Init** +6; **Senses** darkvision 60 ft., low-light vision; Perception +20
+
+**Defense**
+
+**AC** 23, touch 17, flat-footed 20 (+4 armor, +3 deflection, +2 Dex, +1 dodge, +2 natural, +1 size)  
+**hp** 147 (10d6+7d8+78)  
+**Fort** +12, **Ref** +15, **Will** +15; +2 vs. illusions  
+**Defensive Abilities** defensive roll, defensive training (+4 dodge bonus to AC vs. giants), evasion, greater invisibility, improved uncanny dodge, slippery mind; **DR** 10/adamantine (100 points)
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *staff of frost* +10/+5 (1d4–2)  
+**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
+**Spell-Like Abilities** (CL 17th; concentration +19)  
+1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+**Arcane School Spell-Like Abilities** (CL 10th; concentration +15)  
+At will—invisibility field (10 rounds/day)  
+8/day—blinding ray  
+**Shadowdancer Spell-Like Abilities** (CL 7th; concentration +9)  
+3/day—shadow illusion (DC 13)  
+2/day—shadow call (DC 16)  
+**Illusionist Spells Prepared** (CL 10th; concentration +15)  
+5th—*feeblemind* (DC 20), *nightmare* (DC 23), *shadow evocation* (DC 23), *teleport*  
+4th—*charm monster* (DC 19), *greater invisibility*, *phantasmal killer* (DC 22), *solid fog*, *stoneskin*  
+3rd—*blink*, *displacement*, *fly*, *major image* (DC 21), *slow* (DC 18)  
+2nd—*acid arrow*, *darkness*, *hypnotic pattern* (DC 20), *invisibility* (2), *resist energy*  
+1st—*charm person* (DC 16), *color spray* (DC 19), *feather fall*, *mage armor*, *magic missile* (2), *shield*  
+0 (at will)—*daze* (DC 15), *ghost sound* (DC 18), *mage hand*, *ray of frost*  
+**Opposition Schools** divination, necromancy
+
+**Tactics**
+
+**Before Combat** The shadowdancer casts *mage armor* and *stoneskin*.  
+**During Combat** The shadowdancer casts *greater invisibility* and *shield*, then harries his foes with *phantasmal killer*, *hypnotic pattern*, and spells from his *staff of frost*.  
+**Base Statistics** Without *mage armor* and *stoneskin*, the shadowdancer’s statistics are **AC** 19, touch 17, flat-footed 16; **DR** none.
+
+**Statistics**
+
+**Str** 6, **Dex** 14, **Con** 16, **Int** 20, **Wis** 10, **Cha** 14  
+**Base Atk** +10; **CMB** +7; **CMD** 23  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Fleet (2)](../../rules/feats/fleet.md), [Greater Spell Focus (illusion)](../../rules/feats/greater-spell-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Focus (illusion)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
+**Skills** Acrobatics +20, Bluff +20, Craft (alchemy) +7, Diplomacy +20, Fly +17, Knowledge (arcana) +23, Knowledge (dungeoneering, geography) +13, Knowledge (planes) +23, Perception +20, Perform (dance) +8, Spellcraft +23, Stealth +24, Swim +2  
+**Languages** Aklo, Common, Draconic, Gnome, Sylvan  
+**SQ** arcane bond (*staff of frost*), extended illusions (+5 rounds), hide in plain sight, rogue talents (combat trick, fast stealth), shadow jump (80 feet/day), summon shadow  
+**Combat Gear**  *restorative ointment* (5 applications), *staff of frost* (10 charges); **Other Gear** *amulet of natural armor +2*, *cloak of resistance +4*, *headband of vast intelligence +2*, *ring of protection +3*, diamond dust (worth 500 gp), 3,800 gp
+
+These evasive spellcasters make frustrating enemies.

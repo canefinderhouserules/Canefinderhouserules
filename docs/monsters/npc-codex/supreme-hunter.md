@@ -1,0 +1,47 @@
+# Supreme Hunter
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Supreme Hunter&quot;,&quot;cr&quot;:&quot;19&quot;,&quot;xp&quot;:&quot;204,800&quot;,&quot;line&quot;:&quot;Human ranger 20, CE Medium humanoid (human)&quot;,&quot;init&quot;:9,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;31, touch 18, flat-footed 26&quot;,&quot;hp&quot;:&quot;184 (20d10+70)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:20,&quot;Ref&quot;:22,&quot;Will&quot;:13},&quot;defense&quot;:&quot;improved evasion; Immune fire (120 points), poison; Resist cold 30&quot;,&quot;speed&quot;:&quot;40 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 longsword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28,23,18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:11,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;oathbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28,23,18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:8,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (dwarves +4, elves +4, gnomes +2, humans +6, orcs +2)&quot;,&quot;rangedTouch&quot;:25,&quot;spells&quot;:[{&quot;title&quot;:&quot;Ranger Spells Prepared&quot;,&quot;cl&quot;:17,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;commune with nature&quot;,&quot;page&quot;:&quot;commune-with-nature&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;tree stride&quot;,&quot;page&quot;:&quot;tree-stride&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;darkvision&quot;,&quot;page&quot;:&quot;darkvision&quot;},{&quot;name&quot;:&quot;neutralize poison&quot;,&quot;page&quot;:&quot;neutralize-poison&quot;},{&quot;name&quot;:&quot;remove disease&quot;,&quot;page&quot;:&quot;remove-disease&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;barkskin&quot;,&quot;page&quot;:&quot;barkskin&quot;},{&quot;name&quot;:&quot;bear’s endurance&quot;,&quot;page&quot;:&quot;bears-endurance&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;},{&quot;name&quot;:&quot;snare&quot;,&quot;page&quot;:&quot;snare&quot;},{&quot;name&quot;:&quot;spike growth&quot;,&quot;page&quot;:&quot;spike-growth&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alarm&quot;,&quot;page&quot;:&quot;alarm&quot;},{&quot;name&quot;:&quot;endure elements&quot;,&quot;page&quot;:&quot;endure-elements&quot;},{&quot;name&quot;:&quot;longstrider&quot;,&quot;page&quot;:&quot;longstrider&quot;},{&quot;name&quot;:&quot;pass without trace&quot;,&quot;page&quot;:&quot;pass-without-trace&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;}]}]}],&quot;abilities&quot;:&quot;Con 12, Str 22, Dex 20, Con 16, Int 11, Wis 14, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +20; CMB +26; CMD 45&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:15,&quot;Perception&quot;:25,&quot;CMB&quot;:26},&quot;feats&quot;:&quot;Bleeding Critical, Blinding Critical, Combat Reflexes, Critical Focus, Deadly Aim, Dodge, Endurance, Improved Critical (composite longbow), Improved Initiative, Improved Precise Shot, Manyshot, Point-Blank Shot, Power Attack, Precise Shot, Quick Draw, Rapid Shot, Weapon Focus (composite longbow)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;sq&quot;:&quot;camouflage, favored terrain (desert +2, forest +2, mountain +4, plains +6), hide in plain sight, hunter’s bond (companions), improved quarry, swift tracker, track +10, wild empathy +19, woodland stride&quot;,&quot;gear&quot;:&quot;+1 anarchic arrows (5), boots of speed, +1 flaming arrows (5), +1 frost arrows (5), +1 shock arrows (5), +1 unholy arrows (5), potions of cure serious wounds (2), potions of delay poison (2), scroll of neutralize poison, adamantine arrows (5), purple worm poison (2), smokesticks (5), tanglefoot bags (5)&quot;}"></div>
+
+## Supreme Hunter (CR 19)
+
+**XP** 204,800  
+Human ranger 20  
+CE Medium humanoid (human)  
+**Init** +9; **Senses** darkvision 60 ft.; Perception +25
+
+**Defense**
+
+**AC** 31, touch 18, flat-footed 26 (+8 armor, +3 deflection, +4 Dex, +1 dodge, +5 natural)  
+**hp** 184 (20d10+70)  
+**Fort** +20, **Ref** +22, **Will** +13  
+**Defensive Abilities** improved evasion; **Immune** fire (120 points), poison; **Resist** cold 30
+
+**Offense**
+
+**Speed** 40 ft.  
+**Melee** *+2 longsword* +28/+23/+18/+13 (1d8+11/19–20)  
+**Ranged**  *oathbow* +28/+23/+18/+13 (1d8+8/19–20/×3)  
+**Special Attacks** favored enemy (dwarves +4, elves +4, gnomes +2, humans +6, orcs +2)  
+**Ranger Spells Prepared** (CL 17th; concentration +19)  
+4th—*commune with nature*, *freedom of movement*, *tree stride*  
+3rd—*darkvision*, *neutralize poison*, *remove disease*  
+2nd—*barkskin*, *bear’s endurance*, *protection from energy*, *snare*, *spike growth*  
+1st—*alarm*, *endure elements*, *longstrider*, *pass without trace*, *resist energy*
+
+**Tactics**
+
+**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *darkvision*, *freedom of movement*, *longstrider*, *pass without trace*, *protection from energy* (fire), *resist energy* (cold), and *tree stride*.  
+**During Combat** The ranger swears to kill one target with his *oathbow*, using his *boots of speed* and feats to gain extra attacks. Against dangerous foes, he uses poison.  
+**Base Statistics** Without *barkskin*, *bear’s endurance*, *darkvision*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **Senses** normal; **AC** 26, touch 18, flat-footed 21; **hp** 144; **Fort** +18; **Immune** none; **Resist** none; **Speed** 30 ft.; **Con** 12; **Skills** Acrobatics +15.
+
+**Statistics**
+
+**Str** 22, **Dex** 20, **Con** 16, **Int** 11, **Wis** 14, **Cha** 8  
+**Base Atk** +20; **CMB** +26; **CMD** 45  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Blinding Critical](../../rules/feats/blinding-critical.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Endurance](../../rules/feats/endurance.md), [Improved Critical (composite longbow)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Precise Shot](../../rules/feats/improved-precise-shot.md), [Manyshot](../../rules/feats/manyshot.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Weapon Focus (composite longbow)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +15 (+19 when jumping), Climb +19, Handle Animal +12, Heal +15, Knowledge (dungeoneering) +8, Knowledge (geography) +13, Knowledge (nature) +18, Knowledge (planes) +5, Perception +25, Ride +18, Stealth +28, Survival +25, Swim +14  
+**Languages** Common  
+**SQ** camouflage, favored terrain (desert +2, forest +2, mountain +4, plains +6), hide in plain sight, hunter’s bond (companions), improved quarry, swift tracker, track +10, wild empathy +19, woodland stride  
+**Combat Gear**  *+1 anarchic arrows* (5), *boots of speed*, *+1 flaming arrows* (5), *+1 frost arrows* (5), *+1 shock arrows* (5), *+1 unholy arrows* (5), *potions of cure serious wounds* (2), *potions of delay poison* (2), *scroll of neutralize poison*, adamantine arrows (5), purple worm poison (2), smokesticks (5), tanglefoot bags (5); **Other Gear** i> +4 mithral chain shirt, *+2 longsword*, *oathbow* (+6 Str) with 30 arrows, *belt of physical might +4* (Str, Dex), *cloak of resistance +5*, *efficient quiver*, *ring of protection +3*, *ring of sustenance*, 4,195 gp
+
+Supreme hunters stalk and kill anything they choose. Most of them are so skilled they need to keep looking for tougher targets just to feel challenged.

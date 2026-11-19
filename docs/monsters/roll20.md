@@ -1,0 +1,31 @@
+# Monsters in Roll20
+
+Every creature page has a **Roll20** panel above each stat block. It copies the stat block into a Roll20 character, where every attack, save, check, spell and special ability is a button that rolls in chat. It works in free Roll20 games: no API scripts or paid account.
+
+## Setting up a creature
+
+1. In the Roll20 **Journal**, click **+ Add → Character**. When Roll20 asks how to create it, choose **Edit Sheet Directly**. The game must use the **Pathfinder by Roll20** sheet; leave the sheet blank (abilities at 10, no class).
+2. On the creature's page here, open the **Roll20** panel, type the character's exact Roll20 name in **Character name**, and click **Copy for Bio & Info**.
+3. In Roll20, open the character, click **Edit**, click inside the **Bio & Info** box and press **Ctrl+V**. Click **Save Changes**.
+4. Link a token to the character: double-click the token and pick the character under **Represents Character**.
+
+Open the character's **Bio & Info** tab and keep the window beside the map: the stat block stays in view, and only the results of what you click go to chat.
+
+Without **Edit Sheet Directly** the sheet does not create its attack totals yet, and attack rolls print "No attribute was found".
+
+## What the buttons do
+
+- **Attacks**: each attack rolls the attack, damage and any rider, a critical confirmation and critical damage. Creatures with several attacks also get **Full attack**, which rolls every attack, including each of "2 claws" and each iterative attack.
+- **Init** rolls initiative and adds the selected token to the turn order.
+- **Saves and checks** roll the listed bonus.
+- **Spells and spell-like abilities** post the spell's DC and save. Common attack spells also roll their damage for the caster level, and rays roll a ranged touch attack for each ray. The arrow (↗) opens the spell's page on this site.
+- **Special attacks and special abilities**: **Show** posts the ability's text, with any dice in it rolled.
+
+## Buffs and conditions
+
+The rolls add the totals of the character's blank sheet. Those totals are 0 until a buff or condition changes them, so whatever you set on the sheet is added to the buttons:
+
+- Open the character sheet, click **Buffs**, click **+**, give it a name and write its modifiers, then tick it. Examples: Power Attack as `-1 to melee; +2 to melee damage`; Haste as `+1 to attack; +1 dodge to AC`; Bless as `+1 morale to attack`; `+2 to saves`; `+4 to stealth`. Separate modifiers with `;`.
+- Tick a **Condition** (shaken, sickened and so on) and its penalties apply to the attack, save, check and initiative buttons.
+
+Buffs belong to the character, not the token: every token of the same character shares them. To buff one creature of a group, duplicate the character, rename it, and paste its stat block again with the new name.
