@@ -118,3 +118,14 @@
 /* condition words linked by condition-links.js: quiet, so text does not turn into a sea of links */
 .md-typeset a.cond-auto { color: inherit; text-decoration: underline dotted; text-underline-offset: .15em; text-decoration-color: var(--md-default-fg-color--light); }
 .md-typeset a.cond-auto:hover { color: var(--md-accent-fg-color); }
+
+/* Roll20 export panel on monster pages (roll20-export.js) */
+.md-typeset details.r20 { border-color: #e1306c; }
+.md-typeset details.r20 > summary { background-color: rgba(225, 48, 108, .08); }
+.md-typeset .r20-row { display: flex; align-items: center; gap: .6em; margin: .4em 0; }
+.md-typeset .r20-btn { padding: .25em .9em; font-size: .68rem; margin: 0; white-space: nowrap; }
+.md-typeset .r20-hint, .md-typeset .r20-sub { font-size: .66rem; color: var(--md-default-fg-color--light); }
+.md-typeset .r20-grid { display: flex; flex-wrap: wrap; gap: 0 .5em; }
+.md-typeset .r20-grid .r20-row { margin: .2em 0; }
+.md-typeset .r20-steps { font-size: .68rem; margin: .4em 0 .6em; }
+.md-typeset .r20-name { font: inherit; padding: .1em .4em; border: 1px solid var(--md-default-fg-color--lighter); border-radius: .2em; background: transparent; color: inherit; width: 12em; }

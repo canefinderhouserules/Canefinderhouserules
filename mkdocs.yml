@@ -46,3 +46,4 @@ extra_javascript:
   - javascripts/archetype-picker.js
   - javascripts/action-points.js
   - javascripts/condition-links.js
+  - javascripts/roll20-export.js

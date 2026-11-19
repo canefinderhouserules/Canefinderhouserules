@@ -20,4 +20,5 @@ Rules for understanding, building, and advancing monsters. Individual monster st
 
 | Source | Page |
 |---|---|
+| Bestiary | [Goblin](goblin.md) (prototype with Roll20 export) |
 | Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |
