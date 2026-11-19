@@ -10,9 +10,6 @@ Every creature page has a **Roll20** panel above each stat block. It copies the 
 4. Link a token to the character: double-click the token and pick the character under **Represents Character**.
 
 Open the character's **Bio & Info** tab and keep the window beside the map: the stat block stays in view, and only the results of what you click go to chat.
-
-Without **Edit Sheet Directly** the sheet does not create its attack totals yet, and attack rolls print "No attribute was found".
-
 ## What the buttons do
 
 - **Attacks**: each attack rolls the attack, damage and any rider, a critical confirmation and critical damage. Creatures with several attacks also get **Full attack**, which rolls every attack, including each of "2 claws" and each iterative attack.

@@ -14,6 +14,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Aerial Servant](aerial-servant.md) | 11 | N Medium outsider (air, elemental, extraplanar) |
 | [Ahkhat](ahkhat.md) | 4 | N Small outsider (earth, elemental, native) |
 | [Ahool](ahool.md) | 9 | NE Large magical beast |
+| [Air Veela](veela-air-veela.md) | 7 | N Medium outsider (air, extraplanar) |
 | [Akaname](akaname.md) | 1 | N Small aberration |
 | [Amarok](amarok.md) | 12 | LN Huge magical beast |
 | [Amphiptere](amphiptere.md) | 4 | N Large dragon |
@@ -35,6 +36,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Blightspawn](blightspawn.md) | 5 | CE Medium aberration |
 | [Blood Caterpillar](caterpillar-blood-caterpillar.md) | 4 | N Large vermin |
 | [Bone Ship](bone-ship.md) | 18 | CE Colossal undead (water) |
+| [Boroboroton](tsukumogami-boroboroton.md) | 5 | NE Medium outsider (kami, native) |
 | [Brain Mole](brain-mole.md) | 1 | N Tiny magical beast |
 | [Brain Mole Monarch](brain-mole-brain-mole-monarch.md) | 5 | N Tiny magical beast |
 | [Caligni](dark-folk-caligni.md) | 1/2 | Caligni rogue 1, CN Medium humanoid (dark folk) |
@@ -71,6 +73,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Duppy](duppy.md) | 7 | CE Medium undead (incorporeal) |
 | [Dvorovoi](house-spirit-dvorovoi.md) | 4 | CN Small fey |
 | [Dwiergeth](dwiergeth.md) | 13 | CE Large aberration (extraplanar) |
+| [Earth Veela](veela-earth-veela.md) | 7 | N Medium outsider (earth, extraplanar) |
 | [Echeneis](echeneis.md) | 1 | N Small magical beast (aquatic) |
 | [Eclipse Giant](giant-eclipse-giant.md) | 19 | N Gargantuan humanoid (giant) |
 | [Egregore](egregore.md) | 10 | N Large aberration |
@@ -79,12 +82,14 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Emotion Ooze](emotion-ooze.md) | 6 | N Medium ooze |
 | [Empyrean](angel-empyrean.md) | 20 | NG Large outsider (angel, extraplanar, good) |
 | [Encantado](encantado.md) | 8 | CN Medium fey (shapechanger) |
+| [Esipil](sahkil-esipil.md) | 2 | NE Tiny outsider (evil, extraplanar, sahkil) |
 | [Ether Drake](drake-ether-drake.md) | 10 | N Large dragon (aether) |
 | [Etiainen](etiainen.md) | 1 | CN Medium outsider (incorporeal, native) |
 | [Exscinder](archon-exscinder.md) | 12 | LG Huge outsider (archon, extraplanar, good, lawful) |
 | [Fastachee](fastachee.md) | 11 | NG Tiny fey |
 | [Fext](fext.md) | 10 | LE Medium undead |
 | [Firbolg](firbolg.md) | 4 | N Large humanoid (giant) |
+| [Fire Veela](veela-fire-veela.md) | 7 | N Medium outsider (extraplanar, fire) |
 | [Flying Fox](familiar-flying-fox.md) | 1/3 | N Tiny animal |
 | [Flytrap Leshy](leshy-flytrap-leshy.md) | 4 | N Small plant (leshy, shapechanger) |
 | [Frog Father](frog-frog-father.md) | 5 | N Huge animal |
@@ -123,11 +128,14 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Kabandha](cyclops-kabandha.md) | 9 | LN Large humanoid (giant) |
 | [Kaprosuchus](megafauna-kaprosuchus.md) | 5 | N Huge animal |
 | [Karkadann](karkadann.md) | 4 | N Large magical beast |
+| [Kasa-obake](tsukumogami-kasa-obake.md) | 4 | N Small outsider (kami, native) |
 | [Kawa Akago](kawa-akago.md) | 3 | N Small plant |
 | [Ketesthius](ketesthius.md) | 13 | LE Gargantuan magical beast (aquatic) |
 | [Khala](khala.md) | 17 | CE Large dragon (cold) |
 | [Kikimora](kikimora.md) | 5 | CN Medium fey |
+| [Kimenhul](sahkil-kimenhul.md) | 20 | NE Huge outsider (evil, extraplanar, sahkil) |
 | [Knight Ant](ant-knight-ant.md) | 4 | N Large vermin |
+| [Koto-furunishi](tsukumogami-koto-furunishi.md) | 2 | NG Tiny outsider (kami, native) |
 | [Kurobozu](kurobozu.md) | 6 | LE Medium undead |
 | [Lamhigyn](lamhigyn.md) | 3 | CE Small outsider (chaotic, evil, extraplanar) |
 | [Large Aether Elemental](elemental-aether-large-aether-elemental.md) | 5 | N Large outsider (aether, elemental, extraplanar) |
@@ -163,6 +171,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Ostovite](ostovite.md) | 1 | CE Tiny magical beast (extraplanar) |
 | [Othaos](aeon-othaos.md) | 5 | N Medium outsider (aeon, extraplanar) |
 | [Ovinnik](house-spirit-ovinnik.md) | 2 | CN Tiny fey |
+| [Pakalchi](sahkil-pakalchi.md) | 9 | NE Medium outsider (evil, extraplanar, sahkil) |
 | [Papinijuwari](papinijuwari.md) | 13 | NE Huge humanoid (giant) |
 | [Peuchen](peuchen.md) | 10 | NE Medium magical beast (shapechanger) |
 | [Pharaonic Guardian](pharaonic-guardian.md) | 11 | LE Large undead (incorporeal) |
@@ -175,6 +184,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Psychepore](psychepore.md) | 7 | N Medium plant |
 | [Putrid Ooze](putrid-ooze.md) | 11 | N Huge ooze |
 | [Pyrausta](pyrausta.md) | 1/4 | CN Diminutive dragon (fire) |
+| [Qolok](sahkil-qolok.md) | 16 | NE Large outsider (evil, extraplanar, sahkil) |
 | [Raelis](azata-raelis.md) | 10 | CG Large outsider (azata, chaotic, extraplanar, good) |
 | [Ramidreju](ramidreju.md) | 1/2 | N Medium magical beast |
 | [Red Panda](familiar-red-panda.md) | 1/2 | N Tiny animal |
@@ -185,18 +195,65 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Rishi Manu](manasaputra-rishi-manu.md) | 14 | LG Medium outsider (extraplanar, good, lawful, manasaputra) |
 | [Roiling Oil](roiling-oil.md) | 6 | N Large ooze |
 | [Rope Dragon](rope-dragon.md) | 5 | CN Small dragon (shapechanger) |
+| [Sangoi](sangoi.md) | 7 | NE Small fey |
+| [Saxra](saxra.md) | 18 | NE Huge undead (air) |
+| [Scarab Swarm](scarab-swarm.md) | 3 | N Fine vermin (swarm) |
+| [Scitalis](scitalis.md) | 12 | N Large dragon |
+| [Seilenos](seilenos.md) | 19 | CN Medium fey |
 | [Seraptis](demon-seraptis.md) | 15 | CE Medium outsider (chaotic, demon, evil, extraplanar) |
+| [Sha](sha.md) | 4 | LE Medium magical beast |
+| [Shabti](shabti.md) | 1/2 | Shabti oracle 1, LN Medium outsider (native) |
+| [Shadow Collector](shadow-collector.md) | 8 | CN Small fey |
+| [Shasalqu](shasalqu.md) | 3 | N Small magical beast |
+| [Skinwalker](skinwalker.md) | 1/2 | Male skinwalker ranger 1, N Medium humanoid (shapechanger, skinwalker) |
 | [Small Aether Elemental](elemental-aether-small-aether-elemental.md) | 1 | N Small outsider (aether, elemental, extraplanar) |
+| [Somalcygot](somalcygot.md) | 12 | NE Large aberration |
 | [Storm Hag](hag-storm-hag.md) | 7 | CE Medium monstrous humanoid |
+| [Stormghost](stormghost.md) | 15 | CE Large monstrous humanoid |
+| [Stranglereed](stranglereed.md) | 9 | N Large plant (aquatic) |
 | [Stringy Demodand](demodand-stringy-demodand.md) | 15 | CE Medium outsider (chaotic, demodand, evil, extraplanar) |
+| [Su](su.md) | 8 | CE Medium magical beast |
 | [Sun Giant](giant-sun-giant.md) | 16 | CG or CE Huge humanoid (giant) |
+| [Swamp Mummy](swamp-mummy.md) | 4 | LE Medium undead |
+| [Syricta](syricta.md) | 12 | CE Large aberration |
+| [Taxidermic Grizzly Bear](taxidermic-grizzly-bear.md) | 3 | N Large construct |
+| [Termite Swarm](termite-swarm.md) | 6 | N Fine vermin (swarm) |
 | [Terraformer Robot](robot-terraformer-robot.md) | 7 | N Large construct (robot) |
 | [Therizinosaurus](dinosaur-therizinosaurus.md) | 10 | N Gargantuan animal |
+| [Thought Eater](thought-eater.md) | 2 | N Tiny aberration (extraplanar) |
+| [Thriae Constructor](thriae-thriae-constructor.md) | 14 | N Gargantuan monstrous humanoid |
+| [Thriae Dancer](thriae-thriae-dancer.md) | 6 | LN Medium monstrous humanoid |
+| [Tiyanak](tiyanak.md) | 6 | CE Small undead |
+| [Tizheruk](tizheruk.md) | 5 | N Large magical beast |
+| [Trench Mist](trench-mist.md) | 10 | NE Gargantuan aberration (air) |
 | [Trilobite](familiar-trilobite.md) | 1/4 | N Tiny vermin (aquatic) |
 | [Troodon](dinosaur-troodon.md) | 1 | N Medium animal |
+| [Tsaalgrend](tsaalgrend.md) | 2 | N Small plant |
+| [Tulpa](tulpa.md) | 6 | Male human tulpa monk 5, LN Medium outsider (augmented humanoid, human) |
+| [Turul](turul.md) | 19 | N Gargantuan outsider (extraplanar) |
 | [Twilight Pitri (Barhisad)](manasaputra-twilight-pitri-barhisad.md) | 18 | LG Large outsider (extraplanar, good, lawful, manasaputra) |
 | [Uintatherium](megafauna-uintatherium.md) | 7 | N Large animal |
+| [Undigested](undigested.md) | 1/4 | NE Tiny undead |
+| [Undigested Swarm](undigested-undigested-swarm.md) | 5 | NE Tiny undead (swarm) |
+| [Unfettered Phantom](unfettered-phantom.md) | 4 | N Medium outsider (phantom) |
+| [Uraeus](uraeus.md) | 5 | LG Medium magical beast |
+| [Urannag](urannag.md) | 8 | CE Huge construct (extraplanar) |
+| [Ursikka](ursikka.md) | 10 | N Huge magical beast |
+| [Ved](ved.md) | 5 | NE Large humanoid (giant) |
+| [Vescavor Queen](vescavor-queen.md) | 9 | CE Large outsider (chaotic, evil, extraplanar) |
+| [Vescavor Swarm](vescavor-swarm.md) | 5 | CE Diminutive outsider (chaotic, evil, extraplanar, swarm) |
+| [Vilderavn](vilderavn.md) | 16 | NE Medium fey (shapechanger) |
+| [Vishap](vishap.md) | 19 | N Colossal dragon (extraplanar) |
+| [Vukodlak](vukodlak.md) | 3 | NE Large undead |
+| [Wakandagi](wakandagi.md) | 14 | NG Large outsider (native, water) |
 | [Warmonger Devil (Levaloch)](devil-warmonger-devil-levaloch.md) | 7 | LE Large outsider (devil, evil, extraplanar, lawful) |
+| [Warmonger Wasp](warmonger-wasp.md) | 7 | CE Large construct (extraplanar) |
+| [Water Leaper](water-leaper.md) | 2 | CN Small magical beast (aquatic) |
+| [Water Veela](veela-water-veela.md) | 7 | N Medium outsider (extraplanar, water) |
+| [Wihsaak](sahkil-wihsaak.md) | 6 | NE Medium outsider (evil, extraplanar, sahkil) |
+| [Witchcrow](witchcrow.md) | 3 | CE Small magical beast |
+| [Wizard's Shackle](wizards-shackle.md) | 1/2 | N Tiny aberration (aquatic) |
+| [Wolliped](wolliped.md) | 3 | N Large animal |
 | [Young Astral Dragon](dragon-esoteric-astral-young-astral-dragon.md) | 9 | N Large dragon (extraplanar) |
 | [Young Dream Dragon](dragon-esoteric-dream-young-dream-dragon.md) | 10 | N Large dragon (extraplanar) |
 | [Young Etheric Dragon](dragon-esoteric-etheric-young-etheric-dragon.md) | 7 | N Medium dragon (extraplanar) |

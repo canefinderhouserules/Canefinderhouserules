@@ -66,6 +66,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Cloaker](cloaker.md) | 5 | CN Large aberration |
 | [Cloud Giant](giant-cloud-giant.md) | 11 | NG or NE Huge humanoid (giant) |
 | [Cockatrice](cockatrice.md) | 3 | N Small magical beast |
+| [Constrictor Snake](snake-constrictor-snake.md) | 2 | N Medium animal |
 | [Couatl](couatl.md) | 10 | LG Large outsider (native) |
 | [Crab Swarm](crab-crab-swarm.md) | 4 | N Diminutive vermin (aquatic, swarm) |
 | [Crag Linnorm](linnorm-crag-linnorm.md) | 14 | CE Gargantuan dragon |
@@ -86,6 +87,8 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Dire Hyena (Hyaenodon)](hyena-dire-hyena-hyaenodon.md) | 3 | N Large animal |
 | [Dire Lion (Spotted Lion)](lion-dire-lion-spotted-lion.md) | 5 | N Large animal |
 | [Dire Rat](rat-dire-rat.md) | 1/3 | N Small animal |
+| [Dire Shark (Megalodon)](shark-dire-shark-megalodon.md) | 9 | N Gargantuan animal (aquatic) |
+| [Dire Tiger (Smilodon)](tiger-dire-tiger-smilodon.md) | 8 | N Large animal |
 | [Djinni](genie-djinni.md) | 5 | CG Large outsider (air, extraplanar) |
 | [Dog](dog.md) | 1/3 | N Small animal |
 | [Dolphin](dolphin.md) | 1/2 | N Medium animal |
@@ -130,8 +133,12 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Giant Mantis](mantis-giant-mantis.md) | 3 | N Large vermin |
 | [Giant Moray Eel](eel-giant-moray-eel.md) | 5 | N Large animal (aquatic) |
 | [Giant Octopus](octopus-giant-octopus.md) | 8 | N Large animal (aquatic) |
+| [Giant Scorpion](scorpion-giant-scorpion.md) | 3 | N Large vermin |
 | [Giant Slug](giant-slug.md) | 8 | N Huge vermin |
+| [Giant Spider](spider-giant-spider.md) | 1 | N Medium vermin |
+| [Giant Squid](squid-giant-squid.md) | 9 | N Huge animal (aquatic) |
 | [Giant Stag Beetle](beetle-giant-stag-beetle.md) | 4 | N Large vermin |
+| [Giant Wasp](wasp-giant-wasp.md) | 3 | N Large vermin |
 | [Gibbering Mouther](gibbering-mouther.md) | 5 | N Medium aberration |
 | [Girallon](girallon.md) | 6 | N Large magical beast |
 | [Glabrezu](demon-glabrezu.md) | 13 | CE Huge outsider (chaotic, demon, evil, extraplanar) |
@@ -145,11 +152,13 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Greater Barghest](barghest-greater-barghest.md) | 7 | LE Large outsider (evil, extraplanar, lawful, shapechanger) |
 | [Greater Earth Elemental](elemental-earth-greater-earth-elemental.md) | 9 | N Huge outsider (earth, elemental, extraplanar) |
 | [Greater Fire Elemental](elemental-fire-greater-fire-elemental.md) | 9 | N Huge outsider (elemental, extraplanar, fire) |
+| [Greater Shadow](shadow-greater-shadow.md) | 8 | CE Medium undead (incorporeal) |
 | [Greater Water Elemental](elemental-water-greater-water-elemental.md) | 9 | N Huge outsider (elemental, extraplanar, water) |
 | [Green Hag](hag-green-hag.md) | 5 | CE Medium monstrous humanoid |
 | [Griffon](griffon.md) | 4 | N Large magical beast |
 | [Grizzly Bear](bear-grizzly-bear.md) | 4 | N Large animal |
 | [Guardian Naga](naga-guardian-naga.md) | 10 | LG Large aberration |
+| [Gynosphinx](sphinx-gynosphinx.md) | 8 | N Large magical beast |
 | [Half-Celestial (Unicorn)](half-celestial-unicorn.md) | 4 | CG Large outsider (native) |
 | [Half-Dragon (Black Dragon, Basilisk)](half-dragon-black-dragon-basilisk.md) | 7 | N Medium dragon |
 | [Half-Fiend (Minotaur)](half-fiend-minotaur.md) | 6 | CE Large outsider (native) |
@@ -167,6 +176,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Huge Earth Elemental](elemental-earth-huge-earth-elemental.md) | 7 | N Huge outsider (earth, elemental, extraplanar) |
 | [Huge Fire Elemental](elemental-fire-huge-fire-elemental.md) | 7 | N Huge outsider (elemental, extraplanar, fire) |
 | [Huge Water Elemental](elemental-water-huge-water-elemental.md) | 7 | N Huge outsider (elemental, extraplanar, water) |
+| [Human Skeleton](skeleton-human-skeleton.md) | 1/3 | NE Medium undead |
 | [Hydra](hydra.md) | 4 | N Huge magical beast |
 | [Hyena](hyena.md) | 1 | N Medium animal |
 | [Ice Devil (Gelugon)](devil-ice-devil-gelugon.md) | 13 | LE Large outsider (devil, evil, extraplanar, lawful) |
@@ -250,32 +260,66 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Retriever](retriever.md) | 11 | CE Huge construct (extraplanar) |
 | [Rhinoceros](rhinoceros.md) | 4 | N Large animal |
 | [Riding Dog](dog-riding-dog.md) | 1 | N Medium animal |
+| [Roc](roc.md) | 9 | N Gargantuan animal |
+| [Roper](roper.md) | 12 | CE Large aberration |
+| [Rust Monster](rust-monster.md) | 3 | N Medium aberration |
+| [Sahuagin](sahuagin.md) | 2 | LE Medium monstrous humanoid (aquatic) |
+| [Salamander](salamander.md) | 6 | CE Medium outsider (extraplanar, fire) |
+| [Satyr](satyr.md) | 4 | CN Medium fey |
 | [Sea Hag](hag-sea-hag.md) | 4 | CE Medium monstrous humanoid (aquatic) |
+| [Sea Serpent](sea-serpent.md) | 12 | N Gargantuan magical beast (aquatic) |
+| [Shadow](shadow.md) | 3 | CE Medium undead (incorporeal) |
 | [Shadow Demon](demon-shadow-demon.md) | 7 | CE Medium outsider (chaotic, demon, evil, extraplanar, incorporeal) |
 | [Shaitan](genie-shaitan.md) | 7 | LN Large outsider (earth, extraplanar) |
+| [Shambling Mound](shambling-mound.md) | 6 | N Large plant |
+| [Shark](shark.md) | 2 | N Large animal (aquatic) |
+| [Shocker Lizard](shocker-lizard.md) | 2 | N Small magical beast |
+| [Shoggoth](shoggoth.md) | 19 | CN Huge ooze (aquatic) |
+| [Skeletal Champion](skeleton-skeletal-champion.md) | 2 | Human skeletal champion warrior 1, NE Medium undead |
+| [Skum](skum.md) | 2 | LE Medium monstrous humanoid (aquatic) |
 | [Small Air Elemental](elemental-air-small-air-elemental.md) | 1 | N Small outsider (air, elemental, extraplanar) |
 | [Small Earth Elemental](elemental-earth-small-earth-elemental.md) | 1 | N Small outsider (earth, elemental, extraplanar) |
 | [Small Fire Elemental](elemental-fire-small-fire-elemental.md) | 1 | N Small outsider (elemental, extraplanar, fire) |
 | [Small Water Elemental](elemental-water-small-water-elemental.md) | 1 | N Small outsider (elemental, extraplanar, water) |
 | [Solar](angel-solar.md) | 23 | NG Large outsider (angel, extraplanar, good) |
+| [Spectre](spectre.md) | 7 | LE Medium undead (incorporeal) |
+| [Spider Swarm](spider-spider-swarm.md) | 1 | N Diminutive vermin (swarm) |
 | [Spirit Naga](naga-spirit-naga.md) | 9 | CE Large aberration |
+| [Squid](squid.md) | 1 | N Medium animal (aquatic) |
 | [Stegosaurus](dinosaur-stegosaurus.md) | 7 | N Huge animal |
+| [Stirge](stirge.md) | 1/2 | N Tiny magical beast |
 | [Stone Giant](giant-stone-giant.md) | 8 | N Large humanoid (giant) |
 | [Stone Golem](golem-stone-golem.md) | 11 | N Large construct |
 | [Storm Giant](giant-storm-giant.md) | 13 | CG Huge humanoid (giant) |
 | [Succubus](demon-succubus.md) | 7 | CE Medium outsider (chaotic, demon, evil, extraplanar) |
+| [Svirfneblin](svirfneblin.md) | 1 | Svirfneblin ranger 1, N Small humanoid (gnome) |
 | [Tarn Linnorm](linnorm-tarn-linnorm.md) | 20 | CE Colossal dragon (aquatic) |
+| [Tengu](tengu.md) | 1/2 | Male tengu rogue 1, N Medium humanoid (tengu) |
+| [Tiefling](tiefling.md) | 1/2 | Tiefling rogue 1, NE Medium outsider (native) |
+| [Tiger](tiger.md) | 4 | N Large animal |
 | [Toad](familiar-toad.md) | 1/8 | N Diminutive animal |
+| [Treant](treant.md) | 8 | NG Huge plant |
 | [Triceratops](dinosaur-triceratops.md) | 8 | N Huge animal |
+| [Troglodyte](troglodyte.md) | 1 | CE Medium humanoid (reptilian) |
+| [Troll](troll.md) | 5 | CE Large humanoid (giant) |
 | [Trumpet Archon](archon-trumpet-archon.md) | 14 | LG Medium outsider (archon, extraplanar, good, lawful) |
 | [Tyrannosaurus](dinosaur-tyrannosaurus.md) | 9 | N Gargantuan animal |
+| [Unicorn](unicorn.md) | 3 | CG Large magical beast |
+| [Vampire](vampire.md) | 9 | Female human vampire sorcerer 8, CE Medium undead (augmented humanoid) |
+| [Vargouille](vargouille.md) | 2 | NE Small outsider (evil, extraplanar) |
+| [Vegepygmy](vegepygmy.md) | 1/2 | N Small plant |
+| [Venomous Snake](snake-venomous-snake.md) | 1 | N Medium animal |
+| [Violet Fungus](violet-fungus.md) | 3 | N Medium plant |
 | [Viper](familiar-viper.md) | 1/2 | N Tiny animal |
 | [Vrock](demon-vrock.md) | 9 | CE Large outsider (chaotic, demon, evil, extraplanar) |
+| [Wasp Swarm](wasp-wasp-swarm.md) | 3 | N Diminutive vermin (swarm) |
 | [Weasel](familiar-weasel.md) | 1/2 | N Tiny animal |
 | [Wererat (Human Form)](lycanthrope-wererat-human-form.md) | 2 | Human natural wererat rogue 2 (augmented humanoid), LE Medium humanoid (human, shapechanger) |
 | [Wererat (Hybrid Form)](lycanthrope-wererat-hybrid-form.md) | 2 | Human natural wererat rogue 2 (augmented humanoid), LE Medium humanoid (human, shapechanger) |
 | [Werewolf (Human Form)](lycanthrope-werewolf-human-form.md) | 2 | Human natural werewolf fighter 2, CE Medium humanoid (human, shapechanger) |
 | [Werewolf (Hybrid Form)](lycanthrope-werewolf-hybrid-form.md) | 2 | Human natural werewolf fighter 2, CE Medium humanoid (human, shapechanger) |
+| [Wight](wight.md) | 3 | LE Medium undead |
+| [Will-o’-Wisp](will-o-wisp.md) | 6 | CE Small aberration (air) |
 | [Wood Golem](golem-wood-golem.md) | 6 | N Medium construct |
 | [Woolly Rhinoceros](rhinoceros-woolly-rhinoceros.md) | 6 | N Large animal |
 | [Young Black Dragon](dragon-black-young-black-dragon.md) | 7 | CE Medium dragon (water) |

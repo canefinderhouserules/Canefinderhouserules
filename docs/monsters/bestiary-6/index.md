@@ -56,6 +56,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Crimson Jellyfish](crimson-jellyfish.md) | 4 | N Medium vermin (aquatic) |
 | [Crypt Flower](crypt-flower.md) | 7 | N Large plant |
 | [Cryptguard](cryptguard.md) | 9 | N Medium construct |
+| [Cultist Troop](troop-cultist-troop.md) | 11 | CE Medium humanoid (elf, troop) |
 | [Cutlass Spider](cutlass-spider.md) | 6 | N Large construct |
 | [Daitengu](daitengu.md) | 10 | N Medium outsider (native, shapechanger) |
 | [Danthienne](danthienne.md) | 5 | CN Tiny fey |
@@ -94,6 +95,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Giant Tube Worm](giant-tube-worm.md) | 2 | N Medium vermin (aquatic) |
 | [Giganotosaurus](dinosaur-giganotosaurus.md) | 13 | N Colossal animal |
 | [Gluttongrass](gluttongrass.md) | 1 | N Medium plant |
+| [Goblin Troop](troop-goblin-troop.md) | 5 | NE Small humanoid (goblinoid, troop) |
 | [Goezspall](goezspall.md) | 14 | N Large magical beast |
 | [Gold Golem](golem-gold-golem.md) | 15 | N Large construct |
 | [Gongorinan](qlippoth-gongorinan.md) | 11 | CE Medium outsider (chaotic, evil, extraplanar, qlippoth) |
@@ -107,6 +109,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Horla](horla.md) | 8 | CE Small aberration (extraplanar) |
 | [Hupia](hupia.md) | 6 | NE Medium undead |
 | [Hydraggon](qlippoth-hydraggon.md) | 3 | CE Medium outsider (aquatic, chaotic, evil, extraplanar, qlippoth) |
+| [Ichkoh](sahkil-ichkoh.md) | 7 | NE Medium outsider (evil, extraplanar, sahkil) |
 | [Isph-Aun-Vuln](qlippoth-lord-isph-aun-vuln.md) | 25 | CE Medium outsider (chaotic, evil, extraplanar, incorporeal, qlippoth) |
 | [Izfiitar](protean-izfiitar.md) | 20 | CN Medium outsider (chaotic, extraplanar, protean, shapechanger) |
 | [Kamaitachi](kamaitachi.md) | 13 | CE Medium fey (air) |
@@ -145,6 +148,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Oshageros](protean-oshageros.md) | 13 | CN Medium outsider (chaotic, extraplanar, protean, shapechanger) |
 | [Ourdivar](protean-ourdivar.md) | 4 | CN Large outsider (chaotic, extraplanar, protean, shapechanger) |
 | [Ouroboros](ouroboros.md) | 21 | N Colossal magical beast (extraplanar) |
+| [Outlaw Troop](troop-outlaw-troop.md) | 7 | CN Medium humanoid (human, troop) |
 | [Pelagastr](protean-pelagastr.md) | 8 | CN Medium outsider (chaotic, extraplanar, incorporeal, protean, shapechanger) |
 | [Phasmadaemon](daemon-phasmadaemon.md) | 17 | NE Large outsider (daemon, evil, extraplanar) |
 | [Plague Giant](giant-plague-giant.md) | 14 | NE Huge humanoid (giant) |
@@ -159,19 +163,34 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Rhan-Tegoth](great-old-one-rhan-tegoth.md) | 28 | CE Large aberration (aquatic, chaotic, evil, Great Old One) |
 | [Rougarou](rougarou.md) | 1/2 | Female rougarou ranger 1, LN Medium humanoid (shapechanger) |
 | [Sangudaemon](daemon-sangudaemon.md) | 9 | NE Medium outsider (daemon, evil, extraplanar) |
+| [Saurian](saurian.md) | 16 | N Huge monstrous humanoid |
 | [Sewer Blight](blight-sewer-blight.md) | 15 | CE Medium ooze (blight) |
 | [Shoki](psychopomp-shoki.md) | 9 | N Medium outsider (extraplanar, psychopomp) |
+| [Siabrae](siabrae.md) | 15 | Female old human siabrae druid 14, NE Medium undead (augmented humanoid, earth) |
+| [Siren's Bed Anemone](sirens-bed-anemone.md) | 9 | N Gargantuan vermin (aquatic) |
+| [Skincrawler](skincrawler.md) | 1/2 | N Tiny ooze |
+| [Skrimsl](skrimsl.md) | 13 | N Huge magical beast (aquatic) |
 | [Slime Naga](naga-slime-naga.md) | 9 | NE Large aberration |
+| [Slithering Pit](slithering-pit.md) | 2 | N Medium ooze |
 | [Suspiridaemon](daemon-suspiridaemon.md) | 7 | NE Medium outsider (daemon, evil, extraplanar) |
 | [Swamp Blight](blight-swamp-blight.md) | 17 | LE Medium ooze (aquatic, blight) |
 | [Szuriel](horsemen-of-the-apocalypse-szuriel.md) | 28 | NE Medium outsider (daemon, evil, extraplanar) |
+| [Taniwha](taniwha.md) | 6 | CG Large magical beast (aquatic) |
+| [Tarantula Tree](tarantula-tree.md) | 19 | CN Colossal plant |
+| [Targotha](targotha.md) | 15 | N Huge aberration |
 | [Tawil At'umr](great-old-one-tawil-atumr.md) | 30 | CN Large outsider (chaotic, extraplanar, Great Old One) |
 | [Temerdaemon](daemon-temerdaemon.md) | 14 | NE Large outsider (daemon, evil, extraplanar) |
+| [Tenome](tenome.md) | 4 | NE Medium monstrous humanoid |
+| [Thessalhydra](thessalhydra.md) | 18 | N Gargantuan aberration |
 | [Thuskchoon](qlippoth-lord-thuskchoon.md) | 21 | CE Gargantuan outsider (chaotic, evil, extraplanar, qlippoth) |
+| [Titanic Whip Spider](titanic-whip-spider.md) | 16 | N Colossal vermin |
 | [Titanoboa](megafauna-titanoboa.md) | 13 | N Colossal animal |
+| [Trailgaunt](trailgaunt.md) | 3 | NE Medium undead |
 | [Trelmarixian](horsemen-of-the-apocalypse-trelmarixian.md) | 27 | NE Medium outsider (daemon, evil, extraplanar) |
 | [Tundra Blight](blight-tundra-blight.md) | 16 | NE Medium ooze (blight, cold) |
 | [Uinuja](azata-uinuja.md) | 15 | CG Large outsider (azata, chaotic, extraplanar, good) |
+| [Unrisen](unrisen.md) | 5 | NE Medium undead |
+| [Urhag](urhag.md) | 3 | NE Medium aberration |
 | [Utukku](qlippoth-utukku.md) | 8 | CE Medium outsider (chaotic, evil, extraplanar, qlippoth, shapechanger) |
 | [Varklops](kaiju-varklops.md) | 30 | CE Colossal magical beast (fire, kaiju) |
 | [Vavakia](demon-vavakia.md) | 18 | CE Huge outsider (chaotic, demon, evil, extraplanar) |
@@ -179,15 +198,26 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Venedaemon](daemon-venedaemon.md) | 5 | NE Medium outsider (daemon, evil, extraplanar) |
 | [Veranallia](azata-veranallia.md) | 20 | CG Large outsider (azata, chaotic, extraplanar, good) |
 | [Vermlek](demon-vermlek.md) | 3 | CE Medium outsider (chaotic, demon, evil, extraplanar) |
+| [Vespergaunt](vespergaunt.md) | 12 | NE Medium ooze |
 | [Viduus](psychopomp-viduus.md) | 4 | N Medium outsider (extraplanar, psychopomp) |
 | [Viridium Golem](golem-viridium-golem.md) | 18 | N Huge construct |
 | [Vorgozen](kaiju-vorgozen.md) | 29 | CN Colossal ooze (kaiju, water) |
+| [Vrykolakas](vrykolakas.md) | 10 | NE Medium undead (shapechanger) |
+| [Warmonger](warmonger.md) | 19 | N Huge construct |
 | [Weremantis (Human Form)](entothrope-weremantis-human-form.md) | 4 | Human natural weremantis monk 3 (augmented humanoid), LE Medium humanoid (human, shapechanger) |
 | [Weremantis (Hybrid Form)](entothrope-weremantis-hybrid-form.md) | 4 | LE Large humanoid (human, shapechanger) |
 | [Werespider (Human Form)](entothrope-werespider-human-form.md) | 2 | Human natural werespider rogue 2 (augmented humanoid), NE Medium humanoid (human, shapechanger) |
 | [Werespider (Hybrid Form)](entothrope-werespider-hybrid-form.md) | 2 | NE Medium humanoid (human, shapechanger) |
 | [Werewasp (Human Form)](entothrope-werewasp-human-form.md) | 5 | Elf natural werewasp cleric of Calistria 5 (augmented humanoid), CN Medium humanoid (elf, shapechanger) |
 | [Werewasp (Hybrid Form)](entothrope-werewasp-hybrid-form.md) | 5 | CN Large humanoid (elf, shapechanger) |
+| [Whaler Jellyfish](whaler-jellyfish.md) | 17 | N Colossal vermin (aquatic) |
+| [Whisperer](whisperer.md) | 20 | NE Large fey (extraplanar, incorporeal) |
+| [Wild Hunt Archer](wild-hunt-wild-hunt-archer.md) | 13 | CN Medium fey (wild hunt) |
+| [Wild Hunt Horse](wild-hunt-wild-hunt-horse.md) | 11 | CN Large fey (wild hunt) |
+| [Wild Hunt Hound](wild-hunt-wild-hunt-hound.md) | 10 | CN Medium fey (wild hunt) |
+| [Wild Hunt Monarch](wild-hunt-wild-hunt-monarch.md) | 19 | CN Medium fey (wild hunt) |
+| [Wild Hunt Scout](wild-hunt-wild-hunt-scout.md) | 15 | CN Medium fey (wild hunt) |
+| [Ximtal](sahkil-ximtal.md) | 17 | NE Large outsider (evil, extraplanar, sahkil) |
 | [Yaenit](demon-yaenit.md) | 6 | CE Medium outsider (chaotic, demon, evil, extraplanar) |
 | [Yamah](azata-yamah.md) | 5 | CG Medium outsider (azata, chaotic, extraplanar, good) |
 | [Yarthoon](kaiju-yarthoon.md) | 25 | CN Colossal magical beast (air, kaiju) |
@@ -197,3 +227,4 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Young Infernal Dragon](dragon-planar-infernal-young-infernal-dragon.md) | 12 | LE Large dragon (evil, extraplanar, lawful) |
 | [Young Paradise Dragon](dragon-planar-paradise-young-paradise-dragon.md) | 12 | LG Large dragon (extraplanar, good, lawful) |
 | [Young Rift Dragon](dragon-planar-rift-young-rift-dragon.md) | 12 | CE Large dragon (chaotic, evil, extraplanar) |
+| [Zohanil](sahkil-zohanil.md) | 10 | NE Medium outsider (evil, extraplanar, sahkil) |

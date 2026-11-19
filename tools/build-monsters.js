@@ -152,6 +152,8 @@ function blockLines(html) {
   const parts = html.split(/<br\s*\/?>|<h3[^>]*>[\s\S]*?<\/h3>/);
   const lines = [];
   for (const p of parts) {
+    // "Base Statistics Without bear's endurance... AC 11; hp 74; Con 16" restates fields; the stat block's own lines win
+    if (/^\s*<b>\s*Base Statistics/i.test(p)) continue;
     const segs = p.split(/(?=<b>)/);
     for (const s of segs) {
       const m = s.match(/^<b>([\s\S]*?)<\/b>([\s\S]*)$/);

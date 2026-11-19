@@ -14,6 +14,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Adult Umbral Dragon](dragon-primal-umbral-adult-umbral-dragon.md) | 14 | CE Huge dragon (extraplanar) |
 | [Akata](akata.md) | 1 | N Medium aberration |
 | [Akhana](aeon-akhana.md) | 12 | N Medium outsider (aeon, extraplanar) |
+| [Albino Cave Solifugid](solifugid-albino-cave-solifugid.md) | 4 | N Medium vermin |
 | [Alchemical Golem](golem-alchemical-golem.md) | 9 | N Large construct |
 | [Allosaurus](dinosaur-allosaurus.md) | 7 | N Huge animal |
 | [Amoeba Swarm](amoeba-amoeba-swarm.md) | 1 | N Fine ooze (swarm) |
@@ -41,6 +42,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Behemoth Hippopotamus](hippopotamus-behemoth-hippopotamus.md) | 10 | N Huge animal |
 | [Belier Devil (Bdellavritra)](devil-belier-devil-bdellavritra.md) | 16 | LE Large outsider (devil, evil, extraplanar, lawful) |
 | [Belker](belker.md) | 6 | NE Large outsider (air, elemental, evil) |
+| [Black Scorpion](scorpion-black-scorpion.md) | 15 | N Colossal vermin |
 | [Blindheim](blindheim.md) | 2 | N Small magical beast |
 | [Blink Dog](blink-dog.md) | 2 | LG Medium magical beast |
 | [Bodak](bodak.md) | 8 | CE Medium undead (extraplanar) |
@@ -54,6 +56,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Carrion Golem](golem-carrion-golem.md) | 4 | N Medium construct |
 | [Cassisian](angel-cassisian.md) | 2 | NG Small outsider (angel, extraplanar, good) |
 | [Catoblepas](catoblepas.md) | 12 | N Large magical beast |
+| [Cave Scorpion](scorpion-cave-scorpion.md) | 1 | N Medium vermin |
 | [Cetaceal](agathion-cetaceal.md) | 15 | NG Medium outsider (agathion, aquatic, extraplanar, good) |
 | [Ceustodaemon](daemon-ceustodaemon.md) | 6 | NE Large outsider (daemon, evil, extraplanar) |
 | [Chaos Beast](chaos-beast.md) | 7 | CN Medium outsider (chaotic, extraplanar) |
@@ -87,6 +90,8 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Elder Lightning Elemental](elemental-lightning-elder-lightning-elemental.md) | 11 | N Huge outsider (air, elemental, extraplanar) |
 | [Elder Magma Elemental](elemental-magma-elder-magma-elemental.md) | 11 | N Huge outsider (earth, elemental, extraplanar, fire) |
 | [Elder Mud Elemental](elemental-mud-elder-mud-elemental.md) | 11 | N Huge outsider (earth, elemental, extraplanar, water) |
+| [Elysian](titan-elysian.md) | 21 | CG Colossal outsider (chaotic, extraplanar, good) |
+| [Emperor Cobra](snake-emperor-cobra.md) | 5 | N Large animal |
 | [Faceless Stalker](faceless-stalker.md) | 4 | CE Medium aberration (shapechanger) |
 | [Fetchling](fetchling.md) | 1/2 | Fetchling rogue 1, N Medium outsider (native) |
 | [Flame Drake](drake-flame-drake.md) | 5 | CE Large dragon (fire) |
@@ -98,7 +103,9 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Fungal Crawler](fungal-crawler.md) | 3 | N Small aberration |
 | [Gar](gar.md) | 1 | N Medium animal (aquatic) |
 | [Giant Amoeba](amoeba-giant-amoeba.md) | 1 | N Small ooze (aquatic) |
+| [Giant Anaconda](snake-giant-anaconda.md) | 10 | N Gargantuan animal |
 | [Giant Bee](bee-giant-bee.md) | 1 | N Medium vermin |
+| [Giant Black Widow](spider-giant-black-widow.md) | 3 | N Large vermin |
 | [Giant Cockroach](cockroach-giant-cockroach.md) | 1/2 | N Small vermin |
 | [Giant Crawling Hand](crawling-hand-giant-crawling-hand.md) | 5 | NE Medium undead |
 | [Giant Dragonfly](giant-dragonfly.md) | 4 | N Medium vermin |
@@ -109,12 +116,19 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Giant Maggot](giant-maggot.md) | 1/2 | N Medium vermin |
 | [Giant Mosquito](mosquito-giant-mosquito.md) | 6 | N Medium vermin |
 | [Giant Queen Bee](bee-giant-queen-bee.md) | 5 | N Large vermin |
+| [Giant Snapping Turtle](turtle-giant-snapping-turtle.md) | 9 | N Gargantuan animal |
+| [Giant Solifugid](solifugid-giant-solifugid.md) | 1 | N Small vermin |
+| [Giant Tarantula](spider-giant-tarantula.md) | 8 | N Gargantuan vermin |
+| [Giant Tick](tick-giant-tick.md) | 1 | N Small vermin |
+| [Giant Toad](toad-giant-toad.md) | 2 | N Large animal |
 | [Giant Whiptail Centipede](centipede-giant-whiptail-centipede.md) | 3 | N Huge vermin |
+| [Glacier Toad](toad-glacier-toad.md) | 6 | N Large magical beast (cold) |
 | [Glass Golem](golem-glass-golem.md) | 8 | N Large construct |
 | [Gloomwing](gloomwing.md) | 4 | N Large outsider (extraplanar) |
 | [Glyptodon](megafauna-glyptodon.md) | 6 | N Large animal |
 | [Goliath Stag Beetle](beetle-goliath-stag-beetle.md) | 8 | N Huge vermin |
 | [Gray Render](gray-render.md) | 8 | N Large magical beast |
+| [Great White Whale](whale-great-white-whale.md) | 14 | N Colossal animal |
 | [Greater Ice Elemental](elemental-ice-greater-ice-elemental.md) | 9 | N Huge outsider (air, cold, elemental, extraplanar, water) |
 | [Greater Lightning Elemental](elemental-lightning-greater-lightning-elemental.md) | 9 | N Huge outsider (air, elemental, extraplanar) |
 | [Greater Magma Elemental](elemental-magma-greater-magma-elemental.md) | 9 | N Huge outsider (earth, elemental, extraplanar, fire) |
@@ -139,6 +153,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Huge Mud Elemental](elemental-mud-huge-mud-elemental.md) | 7 | N Huge outsider (earth, elemental, extraplanar, water) |
 | [Hydrodaemon](daemon-hydrodaemon.md) | 8 | NE Large outsider (aquatic, daemon, evil, extraplanar) |
 | [Iathavos](qlippoth-iathavos.md) | 20 | CE Colossal outsider (chaotic, evil, extraplanar, qlippoth) |
+| [Ice Troll](troll-ice-troll.md) | 4 | CE Large humanoid (cold, giant) |
 | [Ifrit](ifrit.md) | 1/2 | Ifrit sorcerer 1, N Medium outsider (native) |
 | [Imentesh](protean-imentesh.md) | 10 | CN Large outsider (chaotic, extraplanar, protean, shapechanger) |
 | [Immolation Devil (Puragaus)](devil-immolation-devil-puragaus.md) | 19 | LE Large outsider (devil, evil, extraplanar, lawful) |
@@ -223,37 +238,79 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Redcap](redcap.md) | 6 | NE Small fey |
 | [Reefclaw](reefclaw.md) | 1 | CN Small aberration (aquatic) |
 | [Revenant](revenant.md) | 6 | LE Medium undead |
+| [Rock Troll](troll-rock-troll.md) | 6 | CE Large humanoid (earth, giant) |
 | [Rune Giant](giant-rune-giant.md) | 17 | LE Gargantuan humanoid (giant) |
 | [Saltwater Merrow](merrow-saltwater-merrow.md) | 6 | NE Huge humanoid (aquatic, giant) |
+| [Sandman](sandman.md) | 3 | NE Medium outsider (earth, elemental, extraplanar) |
+| [Sard](sard.md) | 19 | CE Colossal plant |
+| [Scarecrow](scarecrow.md) | 4 | N Medium construct |
+| [Sceaduinar](sceaduinar.md) | 7 | NE Medium outsider (extraplanar) |
+| [Scylla](scylla.md) | 16 | CE Huge aberration (aquatic) |
 | [Sea Drake](drake-sea-drake.md) | 6 | NE Large dragon (aquatic) |
+| [Serpentfolk](serpentfolk.md) | 4 | NE Medium monstrous humanoid |
+| [Seugathi](seugathi.md) | 6 | CE Large aberration |
+| [Shantak](shantak.md) | 8 | CE Huge magical beast |
 | [Shemhazian](demon-shemhazian.md) | 16 | CE Gargantuan outsider (chaotic, demon, evil, extraplanar) |
 | [Shield Archon](archon-shield-archon.md) | 10 | LG Large outsider (archon, extraplanar, good, lawful) |
+| [Shining Child](shining-child.md) | 12 | CE Medium outsider (evil, extraplanar) |
 | [Shoggti](qlippoth-shoggti.md) | 7 | CE Large outsider (chaotic, evil, extraplanar, qlippoth) |
 | [Silvanshee](agathion-silvanshee.md) | 2 | NG Tiny outsider (agathion, extraplanar, good) |
+| [Sinspawn](sinspawn.md) | 2 | NE Medium aberration |
+| [Siren](siren.md) | 5 | CN Medium magical beast |
 | [Skaveling](bat-skaveling.md) | 5 | CE Large undead |
+| [Skulk](skulk.md) | 1 | CE Medium humanoid (skulk) |
 | [Slicer Beetle](beetle-slicer-beetle.md) | 4 | N Large vermin |
+| [Slime Mold](slime-mold.md) | 2 | N Large ooze |
+| [Slithering Tracker](slithering-tracker.md) | 4 | N Small ooze |
+| [Slurk](slurk.md) | 2 | N Medium magical beast |
 | [Small Ice Elemental](elemental-ice-small-ice-elemental.md) | 1 | N Small outsider (air, cold, elemental, extraplanar, water) |
 | [Small Lightning Elemental](elemental-lightning-small-lightning-elemental.md) | 1 | N Small outsider (air, elemental, extraplanar) |
 | [Small Magma Elemental](elemental-magma-small-magma-elemental.md) | 1 | N Small outsider (earth, elemental, extraplanar, fire) |
 | [Small Mud Elemental](elemental-mud-small-mud-elemental.md) | 1 | N Small outsider (earth, elemental, extraplanar, water) |
+| [Snapping Turtle](turtle-snapping-turtle.md) | 1/3 | N Tiny animal |
+| [Soul Eater](soul-eater.md) | 7 | NE Medium outsider (evil, extraplanar) |
+| [Soulbound Doll](soulbound-doll.md) | 2 | N (but see below) Tiny construct |
+| [Spriggan (Large Size)](spriggan-spriggan-large-size.md) | 3 | CE Large humanoid (gnome) |
+| [Spriggan (Normal Size)](spriggan-spriggan-normal-size.md) | 3 | CE Small humanoid (gnome) |
 | [Star Archon](archon-star-archon.md) | 19 | LG Large outsider (archon, extraplanar, good, lawful) |
 | [Stingray](ray-stingray.md) | 1/2 | N Medium animal (aquatic) |
+| [Sylph](sylph.md) | 1/2 | Sylph rogue 1, N Medium outsider (native) |
 | [Taiga Giant](giant-taiga-giant.md) | 12 | CN Huge humanoid (giant) |
+| [Tendriculos](tendriculos.md) | 6 | N Huge plant |
+| [Tenebrous Worm](tenebrous-worm.md) | 8 | N Medium outsider (extraplanar) |
+| [Tentamort](tentamort.md) | 4 | N Medium aberration |
 | [Thanadaemon](daemon-thanadaemon.md) | 13 | NE Medium outsider (daemon, evil, extraplanar) |
+| [Thanatotic](titan-thanatotic.md) | 22 | CE Colossal outsider (chaotic, evil, extraplanar) |
 | [Theletos](aeon-theletos.md) | 7 | N Medium outsider (aeon, extraplanar) |
+| [Thoqqua](thoqqua.md) | 2 | N Medium outsider (earth, elemental, extraplanar, fire) |
+| [Thrasfyr](thrasfyr.md) | 17 | CE Huge magical beast (fire) |
 | [Thulgant](qlippoth-thulgant.md) | 18 | CE Large outsider (chaotic, evil, extraplanar, qlippoth) |
+| [Thunderbird](thunderbird.md) | 11 | N Gargantuan magical beast |
+| [Tick Swarm](tick-tick-swarm.md) | 9 | N Fine vermin (swarm) |
 | [Titan Centipede](centipede-titan-centipede.md) | 9 | N Colossal vermin |
+| [Totenmaske](totenmaske.md) | 7 | NE Medium undead (shapechanger) |
+| [Triton](triton.md) | 2 | NG Medium outsider (native, water) |
+| [Twigjack](twigjack.md) | 3 | CE Tiny fey |
 | [Tylosaurus](dinosaur-tylosaurus.md) | 8 | N Gargantuan animal |
+| [Undine](undine.md) | 1/2 | Undine cleric 1, N Medium outsider (native) |
+| [Urdefhan](urdefhan.md) | 3 | NE Medium outsider (native) |
+| [Vampiric Mist](vampiric-mist.md) | 3 | NE Medium aberration (air, water) |
+| [Vemerak](vemerak.md) | 14 | CE Huge aberration |
 | [Vexgit](gremlin-vexgit.md) | 1 | LE Tiny fey |
+| [Viper Vine](viper-vine.md) | 13 | N Large plant |
 | [Voidworm](protean-voidworm.md) | 2 | CN Tiny outsider (chaotic, extraplanar, protean, shapechanger) |
 | [Vrolikai](demon-vrolikai.md) | 19 | CE Large outsider (chaotic, demon, evil, extraplanar) |
 | [Vulpinal](agathion-vulpinal.md) | 6 | NG Small outsider (agathion, extraplanar, good) |
+| [Water Orm](water-orm.md) | 10 | N Huge magical beast (aquatic) |
+| [Wendigo](wendigo.md) | 17 | CE Large outsider (cold, native) |
 | [Werebear (Human Form)](lycanthrope-werebear-human-form.md) | 4 | Human natural werebear ranger 4, LG Medium humanoid (human, shapechanger) |
 | [Werebear (Hybrid Form)](lycanthrope-werebear-hybrid-form.md) | 4 | Human natural werebear ranger 4, LG Large humanoid (human, shapechanger) |
 | [Wereboar (Human Form)](lycanthrope-wereboar-human-form.md) | 2 | Human natural wereboar barbarian 2, CN Medium humanoid (human, shapechanger) |
 | [Wereboar (Hybrid Form)](lycanthrope-wereboar-hybrid-form.md) | 2 | Human natural wereboar barbarian 2, CN Medium humanoid (human, shapechanger) |
 | [Weretiger (Human Form)](lycanthrope-weretiger-human-form.md) | 4 | Human natural weretiger rogue 4, NE Medium humanoid (human, shapechanger) |
 | [Weretiger (Hybrid Form)](lycanthrope-weretiger-hybrid-form.md) | 4 | Human natural weretiger rogue 4, NE Large humanoid (human, shapechanger) |
+| [Whale](whale.md) | 10 | N Gargantuan animal |
+| [Winterwight](winterwight.md) | 17 | CE Medium undead (cold) |
 | [Wood Giant](giant-wood-giant.md) | 6 | CG Large humanoid (giant) |
 | [Young Brine Dragon](dragon-primal-brine-young-brine-dragon.md) | 7 | LN Medium dragon (extraplanar, water) |
 | [Young Cloud Dragon](dragon-primal-cloud-young-cloud-dragon.md) | 9 | CN Large dragon (air, extraplanar) |

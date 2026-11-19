@@ -4,11 +4,11 @@
 // (links of the form href="`<chat command>"). Works in free games: no API scripts.
 // Every roll also adds the totals of the character's Pathfinder by Roll20 sheet, left blank (all 10s, no class), so
 // those totals are 0 until a Buff or condition on the sheet changes them:
-//   attacks  + melee_mod / ranged_mod + attack_bonus + attack_condition
+//   attacks  + melee_bonus / ranged_bonus + attack_bonus + attack_condition
 //   damage   + damage_bonus + melee_damage_bonus / ranged_damage_bonus (multiplied on a crit)
 //   saves, initiative, skills: + the sheet total for that stat (fortitude, stealth...) + its condition penalty
-// The character must be set up with "Edit sheet directly" (Roll20 asks on a new character), or melee_mod and
-// ranged_mod do not exist yet and Roll20 prints "No attribute was found".
+// Not melee_mod / ranged_mod: a new sheet does not create them until something on it changes, and Roll20 then
+// prints "No attribute was found".
 // Rolls name the character (@{Name|attr}), so the name typed in the panel must match the Roll20 character.
 // Tested in a free Roll20 game (Power Attack buff: -1 to attack, +2 to damage).
 (function () {
@@ -54,7 +54,8 @@
       var attr = sheetAttr(stat), known = stat in { CMB: 1, Fort: 1, Ref: 1, Will: 1, Init: 1 } || SKILLS.indexOf(attr) >= 0;
       return link(label + ' ' + sgn(base), '/em ' + label + ': [[1d20' + sgn(base) + (known ? '+' + A(attr) : '') + '+' + A(conditionAttr(stat)) + (extra || '') + ']]');
     };
-    var atkMod = function (ranged) { return '+' + A(ranged ? 'ranged_mod' : 'melee_mod') + '+' + A('attack_bonus') + '+' + A('attack_condition'); };
+    // melee_bonus / ranged_bonus are the sheet's buff fields ("+1 to melee"); unlike melee_mod they exist on a new sheet
+    var atkMod = function (ranged) { return '+' + A(ranged ? 'ranged_bonus' : 'melee_bonus') + '+' + A('attack_bonus') + '+' + A('attack_condition'); };
 
     // one weapon attack at one bonus: attack, damage, rider, crit confirmation and crit damage
     var attackText = function (a, bonus, label) {
