@@ -1,0 +1,43 @@
+# Infernal Empire Opera Singer
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Infernal Empire Opera Singer&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Human bard 6, N Medium humanoid (human)&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;15, touch 12, flat-footed 14&quot;,&quot;hp&quot;:&quot;45 (6d8+15)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:7,&quot;Will&quot;:5},&quot;saveNote&quot;:&quot;+4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bardic performance 18 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2, suggestion)&quot;,&quot;rangedTouch&quot;:5,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:6,&quot;concentration&quot;:10,&quot;levels&quot;:[{&quot;label&quot;:&quot;2nd (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;eagle’s splendor&quot;,&quot;page&quot;:&quot;eagles-splendor&quot;},{&quot;name&quot;:&quot;enthrall&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;enthrall&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;heroism&quot;,&quot;page&quot;:&quot;heroism&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;silent image&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;silent-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]}],&quot;abilities&quot;:&quot;Str 10, Dex 12, Con 14, Int 13, Wis 8, Cha 18&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +4; CMD 16&quot;,&quot;checks&quot;:{&quot;Appraise&quot;:6,&quot;Intimidate&quot;:13,&quot;Knowledge (history)&quot;:13,&quot;Knowledge (local)&quot;:13,&quot;Knowledge (nobility)&quot;:13,&quot;Linguistics&quot;:5,&quot;Perform (act)&quot;:16,&quot;Perform (dance)&quot;:13,&quot;Perform (sing)&quot;:16,&quot;Sleight of Hand&quot;:10,&quot;Perception&quot;:-1,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Combat Expertise, Skill Focus (Perform [act]), Skill Focus (Perform [sing]), Spell Focus (enchantment)&quot;,&quot;languages&quot;:&quot;Sunken Empire, Common, Infernal&quot;,&quot;sq&quot;:&quot;bardic knowledge +3, lore master 1/day, versatile performance (act, sing)&quot;,&quot;gear&quot;:&quot;+1 leather armor, dagger, mwk rapier, cloak of resistance +1, ring of protection +1, courtier’s outfit, spell component pouch, silver and agate ring (worth 30 gp), silver and onyx pendant (worth 50 gp), 53 gp&quot;}"></div>
+
+## Infernal Empire Opera Singer (CR 5)
+
+**XP** 1,600  
+Human bard 6  
+N Medium humanoid (human)  
+**Init** +1; **Senses** Perception –1
+
+**Defense**
+
+**AC** 15, touch 12, flat-footed 14 (+3 armor, +1 deflection, +1 Dex)  
+**hp** 45 (6d8+15)  
+**Fort** +5, **Ref** +7, **Will** +5; +4 vs. bardic performance, language-dependent, and sonic
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** mwk rapier +5 (1d6/18–20)  
+**Ranged**  dagger +5 (1d4/19–20)  
+**Special Attacks** bardic performance 18 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2, suggestion)  
+**Bard Spells Known** (CL 6th; concentration +10)  
+2nd (4/day)—*eagle’s splendor*, *enthrall* (DC 17), *heroism*, *hold person* (DC 17)  
+1st (5/day)—*charm person* (DC 16), *cure light wounds*, *silent image* (DC 15), *ventriloquism* (DC 15)  
+0 (at will)—*dancing lights*, *ghost sound* (DC 14), *mage hand*, *mending*, *open/close*, *prestidigitation*
+
+**Statistics**
+
+**Str** 10, **Dex** 12, **Con** 14, **Int** 13, **Wis** 8, **Cha** 18  
+**Base Atk** +4; **CMB** +4; **CMD** 16  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Skill Focus (Perform [act])](../../rules/feats/skill-focus.md), [Skill Focus (Perform [sing])](../../rules/feats/skill-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md)  
+**Skills** Appraise +6, Intimidate +13, Knowledge (history, local, nobility) +13, Linguistics +5, Perform (act) +16, Perform (dance) +13, Perform (sing) +16, Sleight of Hand +10  
+**Languages** Sunken Empire, Common, Infernal  
+**SQ** bardic knowledge +3, lore master 1/day, versatile performance (act, sing)  
+**Gear** *+1 leather armor*, dagger, mwk rapier, *cloak of resistance +1*, *ring of protection +1*, courtier’s outfit, spell component pouch, silver and agate ring (worth 30 gp), silver and onyx pendant (worth 50 gp), 53 gp
+
+The infernal empire’s most talented opera singers augment their stagecraft with magical talents, lending a supernatural potency to their performances. As well, though stage battles bear only the pretense of danger, many singers study with fencing masters to hone the verisimilitude of their swordplay. Between their talents and often heated tempers, Infernal Empire opera singers can be dangerous people to cross.
+
+Because of the long and rich history of Infernal Empire opera, many of its most esteemed performers are well versed in the subjects of the operas, from the exploits of royalty in the nation’s past to generals and heroes from famous battles of the Everwar, the Shining Crusade, and even the more recent Goblinblood Wars. Traditional Infernal Empire opera, also called High Infernal Empire opera, was written in Sunken Empire—the native tongue of the last emperor-god; most operas written since the rise of the House of Thrune are instead penned in Infernal.
+
+Infernal Empire opera singers have no overarching guild. Individuals may belong to performing companies or work independently. Their motivations also vary widely. Some singers seek mastery of and recognition for their craft; others seek influence within Infernal Empire society, or use their fame in pursuit of romantic trysts. Famous performers rub shoulders with the most rarified circles of the Infernal Empire elite, and many singers milk these contacts for information, either to increase their own self-importance or to broker secrets to the Infernal Empire underworld.

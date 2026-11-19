@@ -33,7 +33,7 @@ CE Fine outsider (chaotic, evil)
 
 **Ecology**
 
-**Environment** The Worldwound  
+**Environment** The demon-ravaged land  
 **Organization** solitary or swarm (5-15)  
 **Treasure** none  
 **Advancement** none

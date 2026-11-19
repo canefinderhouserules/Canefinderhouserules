@@ -1,0 +1,44 @@
+# mercenary consortium Commander
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;mercenary consortium Commander&quot;,&quot;cr&quot;:&quot;13&quot;,&quot;xp&quot;:&quot;25,600&quot;,&quot;line&quot;:&quot;Human rogue 9/Consortium agent 4, LE Medium humanoid (human)&quot;,&quot;init&quot;:5,&quot;ac&quot;:&quot;21, touch 16, flat-footed 16&quot;,&quot;hp&quot;:&quot;110 (13d8+48)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:15,&quot;Will&quot;:7},&quot;defense&quot;:&quot;evasion, improved uncanny dodge, trap sense +5&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15,10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:1,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;mwk whip&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;nonlethal&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +6d6&quot;,&quot;rangedTouch&quot;:14,&quot;special&quot;:[{&quot;name&quot;:&quot;Ambush Trap&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;The mercenary consortium commander can specially rig a mechanical trap he has either crafted or bypassed by exceeding its Disable Device DC by 10. This trap can then be triggered by the mercenary consortium commander as a move action as long as he is adjacent to the trap. He adds his trap sense bonus (+5) to the trap’s Perception DC and the trap’s attack rolls, and adds his sneak attack damage (+6d6) to the trap’s damage if the target is flat-footed or otherwise denied its Dexterity bonus to AC.&quot;},{&quot;name&quot;:&quot;Mask Alignment&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a standard action, the mercenary consortium commander can alter his alignment aura to deceive effects that detect alignment. He may choose to be detected as any specific alignment of his choice or as no alignment. This affects only alignment detection, not effects that cause harm or that are otherwise based on alignment. This effect lasts until the mercenary consortium commander dismisses it or until he changes his alignment aura again.&quot;},{&quot;name&quot;:&quot;Shrunken Smuggle&quot;,&quot;type&quot;:&quot;Sp&quot;,&quot;text&quot;:&quot;The mercenary consortium commander can use shrink item once per day as a 4th-level caster. While an item is shrunk in this way, it is also affected as nondetection. This effect ends when the item returns to its proper size.These agents of the mercenary consortium typically hold silver rank within that organization. Many coordinate field operations for the mercenary consortium, managing lower-level minions such as bronze agents and mercenaries. Some, however, act as regional overseers instead, guiding a network of small, local Consortium contingents. Mercenary consortium commanders exercise considerable autonomy in the execution of their tasks, but by the same token, they bear the brunt of the responsibility for their subordinates’ failures.&quot;}],&quot;abilities&quot;:&quot;Str 10, Dex 20, Con 14, Int 13, Wis 8, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +9 (+13 disarm); CMD 25 (27 vs. disarm)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:21,&quot;Appraise&quot;:14,&quot;Bluff&quot;:15,&quot;Climb&quot;:10,&quot;Craft (traps)&quot;:10,&quot;Diplomacy&quot;:11,&quot;Disable Device&quot;:21,&quot;Intimidate&quot;:24,&quot;Knowledge (arcana)&quot;:5,&quot;Knowledge (history)&quot;:12,&quot;Knowledge (local)&quot;:5,&quot;Perception&quot;:15,&quot;Sense Motive&quot;:7,&quot;Sleight of Hand&quot;:11,&quot;Stealth&quot;:13,&quot;CMB&quot;:9},&quot;feats&quot;:&quot;Combat Expertise, Dazzling Display, Exotic Weapon Proficiency (whip), Greater Disarm, Improved Disarm, Iron Will, Skill Focus (Intimidate), Toughness, Weapon Finesse, Weapon Focus (whip)&quot;,&quot;languages&quot;:&quot;Common, Polyglot&quot;,&quot;sq&quot;:&quot;agency secrets (bonus feat, shrunken smuggle), ambush trap, mask alignment, rogue talents (finesse rogue, minor magic, quick disable, trap spotter), trapfinding +6&quot;,&quot;gear&quot;:&quot;feather token (whip), potion of barkskin +3, potion of cure serious wounds, potion of fly&quot;}"></div>
+
+## mercenary consortium Commander (CR 13)
+
+**XP** 25,600  
+Human rogue 9/Consortium agent 4  
+LE Medium humanoid (human)  
+**Init** +5; **Senses** Perception +15
+
+**Defense**
+
+**AC** 21, touch 16, flat-footed 16 (+5 armor, +1 deflection, +5 Dex)  
+**hp** 110 (13d8+48)  
+**Fort** +8, **Ref** +15, **Will** +7  
+**Defensive Abilities** evasion, improved uncanny dodge, trap sense +5
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+1 rapier* +15/+10 (1d6+1/18–20), mwk whip +16/+11 (1d3 nonlethal)  
+**Ranged**  mwk light crossbow +15 (1d8/19–20)  
+**Special Attacks** sneak attack +6d6
+
+**Statistics**
+
+**Str** 10, **Dex** 20, **Con** 14, **Int** 13, **Wis** 8, **Cha** 14  
+**Base Atk** +9; **CMB** +9 (+13 disarm); **CMD** 25 (27 vs. disarm)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Exotic Weapon Proficiency (whip)](../../rules/feats/exotic-weapon-proficiency.md), [Greater Disarm](../../rules/feats/greater-disarm.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Iron Will](../../rules/feats/iron-will.md), [Skill Focus (Intimidate)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (whip)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +21, Appraise +14, Bluff +15, Climb +10, Craft (traps) +10, Diplomacy +11, Disable Device +21, Intimidate +24, Knowledge (arcana) +5, Knowledge (history) +12, Knowledge (local) +5, Perception +15, Sense Motive +7, Sleight of Hand +11, Stealth +13  
+**Languages** Common, Polyglot  
+**SQ** agency secrets (bonus feat, shrunken smuggle), ambush trap, mask alignment, rogue talents (finesse rogue, minor magic, quick disable, trap spotter), trapfinding +6  
+**Combat Gear**  *feather token* (whip), *potion of barkskin +3*, *potion of cure serious wounds*, *potion of fly*; **Other Gear** *+1 mithral chain shirt*, *+1 rapier*, mwk light crossbow with 20 bolts, mwk whip, *belt of incredible dexterity +2*, *cloak of resistance +2*, *figurine of wondrous power* (silver raven), *handy haversack*, *ring of feather falling*, *ring of protection +1*, everburning torch, sunrods (2), mwk thieves’ tools, silver mercenary consortium badge (worth 25 gp), pearls (4, worth 100 gp each), 553 gp
+
+**Special Abilities**
+
+**Ambush Trap (Ex)** The mercenary consortium commander can specially rig a mechanical trap he has either crafted or bypassed by exceeding its Disable Device DC by 10. This trap can then be triggered by the mercenary consortium commander as a move action as long as he is adjacent to the trap. He adds his trap sense bonus (+5) to the trap’s Perception DC and the trap’s attack rolls, and adds his sneak attack damage (+6d6) to the trap’s damage if the target is flat-footed or otherwise denied its Dexterity bonus to AC.
+
+**Mask Alignment (Su)** As a standard action, the mercenary consortium commander can alter his alignment aura to deceive effects that detect alignment. He may choose to be detected as any specific alignment of his choice or as no alignment. This affects only alignment detection, not effects that cause harm or that are otherwise based on alignment. This effect lasts until the mercenary consortium commander dismisses it or until he changes his alignment aura again.
+
+**Shrunken Smuggle (Sp)** The mercenary consortium commander can use *shrink item* once per day as a 4th-level caster. While an item is shrunk in this way, it is also affected as *nondetection*. This effect ends when the item returns to its proper size.
+
+These agents of the mercenary consortium typically hold silver rank within that organization. Many coordinate field operations for the mercenary consortium, managing lower-level minions such as bronze agents and mercenaries. Some, however, act as regional overseers instead, guiding a network of small, local Consortium contingents. Mercenary consortium commanders exercise considerable autonomy in the execution of their tasks, but by the same token, they bear the brunt of the responsibility for their subordinates’ failures.

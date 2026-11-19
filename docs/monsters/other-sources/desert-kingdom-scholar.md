@@ -1,0 +1,48 @@
+# desert kingdom scholar
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;desert kingdom scholar&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;Human bard (archaeologist) 8, N Medium humanoid (human)&quot;,&quot;init&quot;:3,&quot;ac&quot;:&quot;19, touch 14, flat-footed 15&quot;,&quot;hp&quot;:&quot;71 (8d8+32)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:9,&quot;Will&quot;:5},&quot;saveNote&quot;:&quot;(+11 vs. traps),&quot;,&quot;defense&quot;:&quot;evasion, trap sense +2, uncanny dodge&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11,6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:2,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;mwk whip&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;nonlethal&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk composite shortbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10,5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;archaeologist’s luck 7 rounds/day (+2)&quot;,&quot;rangedTouch&quot;:9,&quot;spells&quot;:[{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:11,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd (3/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;good hope&quot;,&quot;page&quot;:&quot;good-hope&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;}]},{&quot;label&quot;:&quot;2nd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;locate object&quot;,&quot;page&quot;:&quot;locate-object&quot;},{&quot;name&quot;:&quot;pilfering handUC&quot;}]},{&quot;label&quot;:&quot;1st (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate rope&quot;,&quot;page&quot;:&quot;animate-rope&quot;},{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;detect secret doors&quot;,&quot;page&quot;:&quot;detect-secret-doors&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;grease&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;know direction&quot;,&quot;page&quot;:&quot;know-direction&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]}],&quot;abilities&quot;:&quot;Str 12, Dex 16, Con 14, Int 10, Wis 8, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +7; CMD 21&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:14,&quot;Appraise&quot;:5,&quot;Climb&quot;:12,&quot;Disable Device&quot;:15,&quot;Knowledge (arcana)&quot;:11,&quot;Knowledge (dungeoneering)&quot;:11,&quot;Knowledge (history)&quot;:11,&quot;Knowledge (religion)&quot;:11,&quot;Linguistics&quot;:5,&quot;Perception&quot;:14,&quot;Spellcraft&quot;:7,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Combat Casting, Dodge, Great Fortitude, Toughness, Weapon Finesse, Weapon Focus (rapier)&quot;,&quot;languages&quot;:&quot;Ancient Osiriani, Common, Osiriani&quot;,&quot;sq&quot;:&quot;bardic knowledge +4, clever explorer +4, lore master 1/day, rogue talents (trap spotter, weapon training)&quot;}"></div>
+
+## desert kingdom scholar (CR 7)
+
+**XP** 3,200  
+Human bard (archaeologist) 8  
+N Medium humanoid (human)  
+**Init** +3; **Senses** Perception +14
+
+**Defense**
+
+**AC** 19, touch 14, flat-footed 15 (+5 armor, +3 Dex, +1 dodge)  
+**hp** 71 (8d8+32)  
+**Fort** +6, **Ref** +9 (+11 vs. traps), **Will** +5  
+**Defensive Abilities** evasion, trap sense +2, uncanny dodge
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+1 rapier* +11/+6 (1d6+2/18–20) or mwk whip +10/+5 (1d3+1 nonlethal)  
+**Ranged**  mwk composite shortbow +10/+5 (1d6+1/×3)  
+**Special Attacks** archaeologist’s luck 7 rounds/day (+2)  
+**Bard Spells Known** (CL 8th; concentration +11)  
+3rd (3/day)—*dispel magic*, *good hope*, *haste*  
+2nd (5/day)—*cure moderate wounds*, *glitterdust* (DC 15), *locate object*, *pilfering hand*UC  
+1st (5/day)—*animate rope*, *charm person* (DC 14), *comprehend languages*, *detect secret doors*, *grease* (DC 14)  
+0 (at will)—*detect magic*, *know direction*, *mending*, *open/close*, *read magic*, *resistance*
+
+**Statistics**
+
+**Str** 12, **Dex** 16, **Con** 14, **Int** 10, **Wis** 8, **Cha** 16  
+**Base Atk** +6; **CMB** +7; **CMD** 21  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (rapier)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +14, Appraise +5, Climb +12, Disable Device +15, Knowledge (arcana, dungeoneering, history, religion) +11, Linguistics +5, Perception +14, Spellcraft +7  
+**Languages** Ancient Osiriani, Common, Osiriani  
+**SQ** bardic knowledge +4, clever explorer +4, lore master 1/day, rogue talents (trap spotter, weapon training)
+
+**Ecology**
+
+**Environment** any (the ancient desert kingdom)  
+**Organization** solitary, pair, or expedition (3–6)  
+**Treasure** NPC gear (*+1 mithral chain shirt*, *+1 rapier*, mwk composite shortbow [+1 Str] with 20 arrows, mwk whip, *elixir of fire breath*, *potion of cure serious wounds*, *potion of endure elements*, *potion of invisibility*, antitoxin, climber’s kit, grappling hook, magnifying glass, mwk thieves’ tools, sunrods [5], 62 gp)
+
+An desert kingdom scholar is a scholar who specializes in the study of Ancient the ancient desert kingdom. Because this lost civilization accomplished wonders unmatched by current magical and engineering knowledge and did so very suddenly after a starkly primitive beginning, many desert kingdom scholars— including scholars, collectors, and power-hungry magical researchers from the republic, the infernal empire, the great city, the ancient desert kingdom, the desert empire, the trade city, and beyond—obsess over discovering how these wonders came about.
+
+Desert kingdom scholars are often amenable to working with Pathfinders exploring the ruins of Ancient the ancient desert kingdom as long as they feel their academic agendas are respected. They also work as hired experts for the mercenary consortium so they can undertake otherwise unaffordable expeditions. Naturally, most desert kingdom scholars place their own motivations above those of their allies, and can be trusted only so long as they are moving toward their goals.

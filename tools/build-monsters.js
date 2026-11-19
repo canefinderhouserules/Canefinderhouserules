@@ -22,7 +22,8 @@ const BOOKS = {
 // every other book, minus stat blocks tied to the Golarion setting
 const MAIN_BOOKS = /^((Pathfinder RPG )?Bestiary( [2-6])?|Monster Codex|NPC Codex|GameMastery Guide) pg\./;
 const SETTING = /\b(Golarion|Absalom|Cheliax|Chelish|Chelaxian|Varisia\w*|Osirion\w*|Ustalav\w*|Numeria\w*|Katapesh\w*|Irrisen\w*|Mwangi|Tian|Garund\w*|Avistan\w*|Razmir\w*|Aroden|Kyonin|Nidal\w*|Mendev\w*|Worldwound|Sarkoris|Belkzen|Qadira\w*|Taldor\w*|Taldan|Andoran\w*|Brevoy|Sekamina|Nar-Voth|Orv|Hellknights?|Red Mantis|Aspis|Pathfinder Society|Shoanti|Kellid\w*|Mammoth Lords|Ulfen|Jadwiga|Magnimar\w*|Korvosa\w*|Riddleport|Sandpoint|Kaer Maga|Thassilon\w*|Azlant\w*|Shackles|Rahadoum|Geb|Nex|Alkenstar|Galt\w*|Isger|Molthune|Nirmathas|Lastwall|Ravounel|Druma|Kalistrade|Jalmeray|Vudra\w*|Minkai|Lung Wa|Tar-Baphon|Whispering Tyrant|Runelords?|Starstone|Inner Sea|Arcadia|Casmaron|Iblydos|Thuvia|Sargava|Bloodcove|Saga Lands|Linnorm Kings|Zagresh|Lamashtu|Dagon|Pazuzu|Orcus|Baphomet|Deskari|Nocticula|Kostchtchie|Zura|Mephistopheles|Dispater|Mammon|Belial|Geryon|Moloch|Baalzebul|Barbatos|Asmodeus|Szuriel|Trelmarixian|Apollyon|Charon|Groetus|Achaekek|Ghlaunder|Zyphus|Besmara|Kabriri|Areshkagal|Arazni|Kurgess|Casandalee|Brigh|Alseta|Hanspur|Gyronna|Sivanah|Naderi|Milani|Ragathiel|Dahak|Apsu|Inheritor)\b/;
-BOOKS['other-sources'] = { title: 'Other Sources', re: { test: s => !!s && !MAIN_BOOKS.test(s) }, exclude: SETTING };
+// setting names in them are replaced by scrubNames; SETTING stays as the check for what slipped through
+BOOKS['other-sources'] = { title: 'Other Sources', re: { test: s => !!s && !MAIN_BOOKS.test(s) } };
 
 // ---------- helpers ----------
 const decode = s => String(s)
@@ -126,11 +127,46 @@ const DEITIES = {
   'Cayden Cailean': 'the god of freedom', 'Erastil': 'the god of farming and hunting', 'Rovagug': 'the god of destruction',
   'Norgorber': 'the god of murder and secrets', 'Desna': 'the goddess of dreams and stars', 'Pharasma': 'the goddess of birth and death',
   'Golarion': 'the world',
+  // deities and powers created for the setting
+  'Zagresh': 'the orc god of destruction', 'Groetus': 'the god of the end times', 'Achaekek': 'the mantis god',
+  'Ghlaunder': 'the parasite god', 'Zyphus': 'the god of accidental death', 'Besmara': 'the pirate goddess',
+  'Kabriri': 'the demon lord of ghouls', 'Areshkagal': 'the demon lord of portals', 'Arazni': 'the betrayed goddess',
+  'Kurgess': 'the god of sport', 'Casandalee': 'the android goddess', 'Brigh': 'the clockwork goddess',
+  'Alseta': 'the goddess of doors', 'Hanspur': 'the river god', 'Gyronna': 'the hag goddess', 'Sivanah': 'the goddess of illusions',
+  'Naderi': 'the goddess of tragic love', 'Milani': 'the goddess of rebellion', 'Ragathiel': 'the angel of vengeance',
+  'Nocticula': 'the demon lady of darkness', 'Deskari': 'the demon lord of locusts', 'Zura': 'the vampire demon queen',
+  'the Inheritor': 'the goddess of valor', 'Inheritor': 'Goddess of Valor', 'Tar-Baphon': 'the lich-king', 'Whispering Tyrant': 'lich-king',
+  // places (wording already used across the wiki)
+  'Inner Sea region': 'region', 'Inner Sea': 'known world', 'Thassilonian': 'Rune-Empire', 'Thassilon': 'the ancient empire of rune-wielding sorcerers',
+  'Runelords': 'rune lords', 'Runelord': 'rune lord', 'Azlanti': 'Sunken-Empire', 'Azlant': 'the sunken arcane empire',
+  'Numerian': 'Wasteland', 'Numeria': 'the wasteland of the fallen starship', 'Osirian': 'Desert-Kingdom', 'Osirion': 'the ancient desert kingdom',
+  'Varisian': 'Frontier', 'Varisia': 'the frontier', 'Chelish': 'Infernal-Empire', 'Chelaxian': 'Infernal-Empire', 'Cheliax': 'the infernal empire',
+  'Ustalavic': 'Gothic', 'Ustalav': 'the gothic realm', 'Irriseni': 'Eternal-Winter', 'Irrisen': 'the eternal-winter realm',
+  'Taldan': 'Old-Empire', 'Taldor': 'the old empire', 'Andoren': 'Republican', 'Andoran': 'the republic', 'Qadiran': 'Desert-Empire', 'Qadira': 'the desert empire',
+  'Katapeshi': 'Trade-City', 'Katapesh': 'the trade city', 'Razmiran': 'False-God', 'Razmiri': 'False-God', 'Razmir': 'the false god',
+  'Vudrani': 'Far-Eastern', 'Vudran': 'Far-Eastern', 'Vudra': 'the far-eastern kingdoms', 'Tian Xia': 'the eastern continent', 'Tian': 'Eastern',
+  'Mwangi': 'Jungle', 'Garundi': 'Southern', 'Garund': 'the southern continent', 'Avistani': 'Northern', 'Avistan': 'the northern continent',
+  'Kyonin': 'the elven forest', 'Nidalese': 'Shadow-Nation', 'Nidal': 'the shadow nation', 'Mendevian': 'Crusader', 'Mendev': 'the crusader land',
+  'Worldwound': 'demon-ravaged land', 'Sarkorian': 'Demon-Ravaged', 'Sarkoris': 'the demon-ravaged land', 'Hold of Belkzen': 'the orc lands', 'Belkzen': 'the orc lands',
+  'Sekamina': 'the deepest underworld', 'Nar-Voth': 'the upper underworld', 'Orv': 'the deep underworld',
+  'Hellknights': 'Hell Knights', 'Hellknight': 'Hell Knight', 'Red Mantis': 'Scarlet Mantis', 'Aspis Consortium': 'mercenary consortium', 'Aspis': 'Consortium',
+  'Pathfinder Society': 'explorers\' society', 'Shoanti': 'Plains-Tribe', 'Kellids': 'northern tribesfolk', 'Kellid': 'Northern-Tribe', 'Mammoth Lords': 'mammoth tribes',
+  'Ulfen': 'Northern-Raider', 'Linnorm Kings': 'northern kingdoms', 'Jadwiga': 'Witch-Queen\'s Kin', 'Magnimarian': 'City', 'Magnimar': 'the city of monuments',
+  'Korvosan': 'City', 'Korvosa': 'the walled city', 'Riddleport': 'the pirate port', 'Sandpoint': 'the coastal town', 'Kaer Maga': 'the cliff city',
+  'Absalom': 'the great city', 'Shackles': 'pirate isles', 'Rahadoumi': 'Godless-Kingdom', 'Rahadoum': 'the godless kingdom', 'Geb': 'the undead kingdom', 'Nex': 'the mage kingdom',
+  'Alkenstar': 'the gun city', 'Galtan': 'Revolutionary', 'Galt': 'the revolutionary nation', 'Isger': 'the borderland', 'Molthune': 'the military nation',
+  'Nirmathas': 'the forest nation', 'Lastwall': 'the fallen bastion', 'Ravounel': 'the free coast', 'Druman': 'Merchant-Kingdom', 'Druma': 'the merchant kingdom',
+  'Kalistrade': 'merchant prophecy', 'Jalmeray': 'the island kingdom', 'Minkaian': 'Eastern-Empire', 'Minkai': 'the eastern empire', 'Lung Wa': 'the fallen eastern empire',
+  'Starstone': 'star-stone', 'Arcadia': 'the western continent', 'Casmaron': 'the eastern continent', 'Iblydan': 'Island', 'Iblydos': 'the isles of heroes',
+  'Thuvian': 'Desert', 'Thuvia': 'the desert of the sun orchid', 'Sargavan': 'Colonial', 'Sargava': 'the colony', 'Bloodcove': 'the port of blood', 'Saga Lands': 'northern lands',
+  'Aroden': 'the last emperor-god', 'Osirionologists': 'desert kingdom scholars', 'Osirionologist': 'desert kingdom scholar', 'Varisians': 'frontier folk', 'Magnimarians': 'city folk', 'Brevic': 'Northern-Kingdom', 'Brevoy': 'the northern kingdom',
 };
-const DEITY_RE = new RegExp('(^|[.!?]\\s+|\\n)?\\b(' + Object.keys(DEITIES).join('|') + ')\\b', 'g');
+const DEITY_RE = new RegExp('(^|[.!?]\\s+|\\n)?\\b(' + Object.keys(DEITIES).sort((a, b) => b.length - a.length).join('|') + ')\\b', 'g');
 function scrubNames(t) {
   return String(t).replace(DEITY_RE, (all, start, name) => {
-    const r = DEITIES[name];
+    let r = DEITIES[name];
+    // adjectives become one capitalized word ("Varisian Hagfish" -> "Frontier Hagfish"), phrases follow the sentence
+    if (/^[A-Z]/.test(r)) return (start || '') + r.replace(/-/g, ' ');
     return (start || '') + (start !== undefined ? r.charAt(0).toUpperCase() + r.slice(1) : r);
   });
 }

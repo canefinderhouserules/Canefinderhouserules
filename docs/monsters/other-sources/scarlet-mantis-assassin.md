@@ -1,0 +1,42 @@
+# Scarlet Mantis Assassin
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Scarlet Mantis Assassin&quot;,&quot;cr&quot;:&quot;13&quot;,&quot;xp&quot;:&quot;25,600&quot;,&quot;line&quot;:&quot;Half-elf rogue 7/Scarlet Mantis assassin 7, LE Medium humanoid (elf, human)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;23, touch 15, flat-footed 19&quot;,&quot;hp&quot;:&quot;101 (14d8+35)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:12,&quot;Will&quot;:5},&quot;saveNote&quot;:&quot;+2 vs. enchantment&quot;,&quot;defense&quot;:&quot;evasion, red shroud* (1/day, 7 rounds, +1 dodge, fast healing 1), trap sense +2, uncanny dodge; Immune sleep&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 sawtooth sabre&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14,9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:8,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;+1 sawtooth sabre&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;+1 sawtooth sabre&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:8,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk hand crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;prayer attack* (DC 21), sneak attack +7d6&quot;,&quot;rangedTouch&quot;:13,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:9,&quot;levels&quot;:[{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;summon mantis&quot;,&quot;note&quot;:&quot;as summon monster V; advanced fiendish giant mantis, 1d3 fiendish giant mantises, or 1d4+1 giant mantises&quot;}]}]},{&quot;title&quot;:&quot;Scarlet Mantis Assassin Spells Known&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:9,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd (1)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;},{&quot;name&quot;:&quot;keen edge&quot;,&quot;page&quot;:&quot;keen-edge&quot;}]},{&quot;label&quot;:&quot;2nd (4)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;cat’s grace&quot;,&quot;page&quot;:&quot;cats-grace&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;spider climb&quot;,&quot;page&quot;:&quot;spider-climb&quot;}]},{&quot;label&quot;:&quot;1st (5)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;disguise self&quot;,&quot;page&quot;:&quot;disguise-self&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;forced quietUM&quot;,&quot;dc&quot;:13},{&quot;name&quot;:&quot;jump&quot;,&quot;page&quot;:&quot;jump&quot;},{&quot;name&quot;:&quot;true strike&quot;,&quot;page&quot;:&quot;true-strike&quot;}]}]}],&quot;abilities&quot;:&quot;Str 16, Dex 16, Con 12, Int 13, Wis 8, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +13; CMD 28&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:25,&quot;Bluff&quot;:25,&quot;Disguise&quot;:19,&quot;Escape Artist&quot;:20,&quot;Intimidate&quot;:19,&quot;Perception&quot;:22,&quot;Sense Motive&quot;:1,&quot;Sleight of Hand&quot;:20,&quot;Stealth&quot;:25,&quot;CMB&quot;:13},&quot;feats&quot;:&quot;Alertness, Combat Expertise, Dodge, Exotic Weapon Proficiency (sawtooth sabre), Greater Weapon Focus (sawtooth sabre), Greater Weapon Specialization (sawtooth sabre), Improved Feint, Skill Focus (Bluff), Toughness, Two-Weapon Defense, Two-Weapon Fighting, Weapon Focus (sawtooth sabre), Weapon Specialization (sawtooth sabre)&quot;,&quot;languages&quot;:&quot;Common, Elven, Infernal&quot;,&quot;sq&quot;:&quot;elf blood, mantis form*, resurrection sense*, rogue talents (bleeding attack +7, combat trick, weapon training), sabre fighting 3, trapfinding +3&quot;,&quot;gear&quot;:&quot;potions of cure moderate wounds (3), wand of see invisibility (6 charges)&quot;}"></div>
+
+## Scarlet Mantis Assassin (CR 13)
+
+**XP** 25,600  
+Half-elf rogue 7/Scarlet Mantis assassin 7  
+LE Medium humanoid (elf, human)  
+**Init** +3; **Senses** low-light vision; Perception +22
+
+**Defense**
+
+**AC** 23, touch 15, flat-footed 19 (+6 armor, +1 deflection, +3 Dex, +1 dodge, +1 natural, +1 shield)  
+**hp** 101 (14d8+35)  
+**Fort** +5, **Ref** +12, **Will** +5; +2 vs. enchantment  
+**Defensive Abilities** evasion, red shroud* (1/day, 7 rounds, +1 dodge, fast healing 1), trap sense +2, uncanny dodge; **Immune** sleep
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+1 sawtooth sabre* +14/+9 (1d8+8/19–20), *+1 sawtooth sabre* +14 (1d8+6/19–20) or *+1 sawtooth sabre* +16/+11 (1d8+8/19–20)  
+**Ranged**  mwk hand crossbow +14 (1d4/19–20)  
+**Special Attacks** prayer attack* (DC 21), sneak attack +7d6  
+**Spell-Like Abilities** (CL 7th; concentration +9)  
+1/day—summon mantis (as *summon monster V*; advanced fiendish giant mantis, 1d3 fiendish giant mantises, or 1d4+1 giant mantises)  
+**Scarlet Mantis Assassin Spells Known** (CL 7th; concentration +9)  
+3rd (1)—*haste*, *keen edge*  
+2nd (4)—*bull’s strength*, *cat’s grace*, *invisibility*, *spider climb*  
+1st (5)—*disguise self*, *expeditious retreat*, *forced quiet*UM (DC 13), *jump*, *true strike*
+
+**Statistics**
+
+**Str** 16, **Dex** 16, **Con** 12, **Int** 13, **Wis** 8, **Cha** 14  
+**Base Atk** +10; **CMB** +13; **CMD** 28  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Dodge](../../rules/feats/dodge.md), [Exotic Weapon Proficiency (sawtooth sabre)](../../rules/feats/exotic-weapon-proficiency.md), [Greater Weapon Focus (sawtooth sabre)](../../rules/feats/greater-weapon-focus.md), [Greater Weapon Specialization (sawtooth sabre)](../../rules/feats/greater-weapon-specialization.md), [Improved Feint](../../rules/feats/improved-feint.md), [Skill Focus (Bluff)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Two-Weapon Defense](../../rules/feats/two-weapon-defense.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (sawtooth sabre)](../../rules/feats/weapon-focus.md), [Weapon Specialization (sawtooth sabre)](../../rules/feats/weapon-specialization.md)  
+**Skills** Acrobatics +25, Bluff +25, Disguise +19, Escape Artist +20, Intimidate +19, Perception +22, Sense Motive +1, Sleight of Hand +20, Stealth +25  
+**Languages** Common, Elven, Infernal  
+**SQ** elf blood, mantis form*, resurrection sense*, rogue talents (bleeding attack +7, combat trick, weapon training), sabre fighting 3, trapfinding +3  
+**Combat Gear**  *potions of cure moderate wounds* (3), *wand of see invisibility* (6 charges); **Other Gear** *+3 studded leather*, *+1 sawtooth sabres*UE (2), mwk hand crossbow with 10 bolts, *amulet of natural armor +1*, *belt of mighty constitution +2*, *boots of elvenkind*, *cloak of elvenkind*, *mask of the mantis*ISWG, *, *ring of protection +1*, 114 gp
+
+The assassins in the mysterious order known as the Scarlet Mantis stand at the pinnacle of their craft. Dedicated to the god the mantis god, Scarlet Mantis assassins conduct their business with the fervor and zealotry of religious fanatics. Though their organization is headquartered on Mediogalti Island, Scarlet Mantis assassins are feared throughout the region. Once the order has accepted a contract on a target, the assassins relent only once the victim is dead—in a most permanent fashion.

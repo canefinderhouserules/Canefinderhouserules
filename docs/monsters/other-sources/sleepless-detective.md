@@ -1,0 +1,49 @@
+# Sleepless Detective
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Sleepless Detective&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;Human alchemist 5/Sleepless detective 5, N Medium humanoid (human)&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;16, touch 11, flat-footed 15&quot;,&quot;hp&quot;:&quot;53 (10d8+5)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:9,&quot;Will&quot;:9},&quot;saveNote&quot;:&quot;+4 vs. poison&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7,2],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;bomb&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;3d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;fire&quot;}],[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bomb 9/day (3d6+4 fire, DC 16), sneak attack +2d6&quot;,&quot;rangedTouch&quot;:7,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:5,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blood biographyAPG&quot;},{&quot;name&quot;:&quot;residual trackingAPG&quot;}]}]},{&quot;title&quot;:&quot;Alchemist Extracts Prepared&quot;,&quot;cl&quot;:5,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;perceive cuesAPG&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;detect secret doors&quot;,&quot;page&quot;:&quot;detect-secret-doors&quot;},{&quot;name&quot;:&quot;disguise self&quot;,&quot;page&quot;:&quot;disguise-self&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Canny Sleuth&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A Sleepless detective adds his Intelligence bonus on all Perception and Sense Motive checks, as well as on Diplomacy checks made to gather information.&quot;},{&quot;name&quot;:&quot;Eye for Detail&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A Sleepless detective is entitled to an immediate Perception check to notice hidden traps, doors, and clues when he passes within 10 feet of them, whether or not he is actively looking.&quot;},{&quot;name&quot;:&quot;Follow Clues&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A Sleepless detective can use Perception to follow tracks as the Survival skill.The Sleepless Agency operates out of the gothic realm but provides peerless investigative services to clients located throughout the region. Although the organization also hires out bodyguards and other security experts, its most famous operatives are its detectives, who are able to spot and analyze the faintest clue. Some Sleepless detectives even take on proteges, who are expected to finance the investigations they conduct in exchange for receiving their training in the organization. The final test to enter the agency’s ranks is to prove one’s own innocence through superior investigative techniques after established Sleepless detectives frame the prospective agent.&quot;}],&quot;abilities&quot;:&quot;Str 10, Dex 13, Con 8, Int 19, Wis 14, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +6; CMD 17&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:5,&quot;Climb&quot;:0,&quot;Craft (alchemy)&quot;:17,&quot;Diplomacy&quot;:18,&quot;Disable Device&quot;:17,&quot;Disguise&quot;:10,&quot;Heal&quot;:10,&quot;Intimidate&quot;:8,&quot;Knowledge (arcana)&quot;:10,&quot;Knowledge (local)&quot;:17,&quot;Knowledge (nature)&quot;:10,&quot;Perception&quot;:23,&quot;Sense Motive&quot;:23,&quot;Sleight of Hand&quot;:10,&quot;Spellcraft&quot;:11,&quot;Swim&quot;:4,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Alertness, Brew Potion, Deft Hands, Extra DiscoveryAPG, Iron Will, Persuasive, Throw Anything, Toughness&quot;,&quot;languages&quot;:&quot;Common, Hallit, Skald, Frontier&quot;,&quot;sq&quot;:&quot;alchemy (alchemy crafting +5, identify potions), canny sleuth, discoveries (extend potion 4/day, precise bombs [4 squares], tanglefoot bombUM), eye for detail, follow clues, forensic thaumaturgy*, mutagen (+4/-2, +2 natural, 50 minutes), poison use, swift alchemy&quot;,&quot;gear&quot;:&quot;dust of appearance, elixir of truth, feather token (bird), potion of jump, potion of see invisibility, potion of spider climb, wand of owl’s wisdom (8 charges), acid (3), smokesticks (2), sunrods (2), tanglefoot bag, tindertwigs (5)&quot;}"></div>
+
+## Sleepless Detective (CR 9)
+
+**XP** 6,400  
+Human alchemist 5/Sleepless detective 5  
+N Medium humanoid (human)  
+**Init** +1; **Senses** Perception +23
+
+**Defense**
+
+**AC** 16, touch 11, flat-footed 15 (+5 armor, +1 Dex)  
+**hp** 53 (10d8+5)  
+**Fort** +6, **Ref** +9, **Will** +9; +4 vs. poison
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** mwk dagger +7/+2 (1d4/19–20)  
+**Ranged**  bomb +8 (3d6+4 fire) or dagger +7 (1d4/19–20)  
+**Special Attacks** bomb 9/day (3d6+4 fire, DC 16), sneak attack +2d6  
+**Spell-Like Abilities** (CL 5th)  
+At will—*detect magic*  
+3/day—*blood biography*APG, *residual tracking*APG  
+**Alchemist Extracts Prepared** (CL 5th)  
+2nd—*detect thoughts* (DC 16), *invisibility*, *perceive cues*APG  
+1st—*comprehend languages*, *cure light wounds*, *detect secret doors*, *disguise self*, *expeditious retreat*
+
+**Statistics**
+
+**Str** 10, **Dex** 13, **Con** 8, **Int** 19, **Wis** 14, **Cha** 12  
+**Base Atk** +6; **CMB** +6; **CMD** 17  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Brew Potion](../../rules/feats/brew-potion.md), [Deft Hands](../../rules/feats/deft-hands.md), [Extra DiscoveryAPG](../../rules/feats/extra-discovery.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Throw Anything](../../rules/feats/throw-anything.md), [Toughness](../../rules/feats/toughness.md)  
+**Skills** Bluff +5, Climb +0, Craft (alchemy) +17, Diplomacy +18 (+22 to gather information), Disable Device +17, Disguise +10, Heal +10, Intimidate +8, Knowledge (arcana) +10, Knowledge (local) +17, Knowledge (nature) +10, Perception +23, Sense Motive +23, Sleight of Hand +10, Spellcraft +11, Swim +4  
+**Languages** Common, Hallit, Skald, Frontier  
+**SQ** alchemy (alchemy crafting +5, identify potions), canny sleuth, discoveries (extend potion 4/day, precise bombs [4 squares], tanglefoot bombUM), eye for detail, follow clues, forensic thaumaturgy*, mutagen (+4/–2, +2 natural, 50 minutes), poison use, swift alchemy  
+**Combat Gear**  *dust of appearance*, *elixir of truth*, *feather token* (bird), *potion of jump*, *potion of see invisibility*, *potion of spider climb*, *wand of owl’s wisdom* (8 charges), acid (3), smokesticks (2), sunrods (2), tanglefoot bag, tindertwigs (5); **Other Gear** *+1 chain shirt*, daggers (2), mwk dagger, *cloak of resistance +1*, *ring of swimming*, alchemy crafting kitUE, formula book (contains all prepared extracts as well as the following: 2nd—*see invisibility*
+
+**Special Abilities**
+
+**Canny Sleuth (Ex)** A Sleepless detective adds his Intelligence bonus on all Perception and Sense Motive checks, as well as on Diplomacy checks made to gather information.
+
+**Eye for Detail (Ex)** A Sleepless detective is entitled to an immediate Perception check to notice hidden traps, doors, and clues when he passes within 10 feet of them, whether or not he is actively looking.
+
+**Follow Clues (Ex)** A Sleepless detective can use Perception to follow tracks as the Survival skill.
+
+The Sleepless Agency operates out of the gothic realm but provides peerless investigative services to clients located throughout the region. Although the organization also hires out bodyguards and other security experts, its most famous operatives are its detectives, who are able to spot and analyze the faintest clue. Some Sleepless detectives even take on proteges, who are expected to finance the investigations they conduct in exchange for receiving their training in the organization. The final test to enter the agency’s ranks is to prove one’s own innocence through superior investigative techniques after established Sleepless detectives frame the prospective agent.

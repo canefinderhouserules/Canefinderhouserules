@@ -156,7 +156,6 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Psychic Stalker](psychic-stalker.md) | 7 | NE Medium undead (incorporeal) |
 | [Quetzalcoatlus](dinosaur-quetzalcoatlus.md) | 7 | N Huge animal |
 | [Quintessence Golem](golem-quintessence-golem.md) | 20 | N Huge construct (extraplanar) |
-| [Ragathiel](empyreal-lord-ragathiel.md) | 26 | LG Huge outsider (angel, extraplanar, good, lawful) |
 | [Raven Swarm](raven-swarm.md) | 3 | N Tiny animal (swarm) |
 | [Rawhead](rawhead.md) | 14 | NE Medium monstrous humanoid |
 | [Razormouth](razormouth.md) | 11 | N Huge vermin |
@@ -181,6 +180,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Tawil At'umr](great-old-one-tawil-atumr.md) | 30 | CN Large outsider (chaotic, extraplanar, Great Old One) |
 | [Temerdaemon](daemon-temerdaemon.md) | 14 | NE Large outsider (daemon, evil, extraplanar) |
 | [Tenome](tenome.md) | 4 | NE Medium monstrous humanoid |
+| [the angel of vengeance](empyreal-lord-the-angel-of-vengeance.md) | 26 | LG Huge outsider (angel, extraplanar, good, lawful) |
 | [Thessalhydra](thessalhydra.md) | 18 | N Gargantuan aberration |
 | [Thuskchoon](qlippoth-lord-thuskchoon.md) | 21 | CE Gargantuan outsider (chaotic, evil, extraplanar, qlippoth) |
 | [Titanic Whip Spider](titanic-whip-spider.md) | 16 | N Colossal vermin |

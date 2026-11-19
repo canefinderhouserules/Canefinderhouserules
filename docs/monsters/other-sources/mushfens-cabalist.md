@@ -1,0 +1,47 @@
+# Mushfens Cabalist
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mushfens Cabalist&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;Changeling witch 9, NE Medium humanoid (changeling)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;14, touch 12, flat-footed 13&quot;,&quot;hp&quot;:&quot;52 (9d6+18)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:5,&quot;Will&quot;:10},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;quarterstaff&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;sling&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;hexes (cackle, charm [2 steps, 3 rounds], disguise [9 hours], evil eye [-4, 6 rounds], slumber [9 rounds], ward [+3])&quot;,&quot;rangedTouch&quot;:5,&quot;spells&quot;:[{&quot;title&quot;:&quot;Witch Spells Prepared&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;suffocationAPG&quot;,&quot;dc&quot;:19}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;control water&quot;,&quot;page&quot;:&quot;control-water&quot;},{&quot;name&quot;:&quot;fear&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;fear&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;vampiric touch&quot;,&quot;page&quot;:&quot;vampiric-touch&quot;,&quot;damage&quot;:&quot;4d6&quot;},{&quot;name&quot;:&quot;water breathing&quot;,&quot;page&quot;:&quot;water-breathing&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;beguiling giftAPG&quot;,&quot;dc&quot;:15},{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;ray of enfeeblement&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;ray-of-enfeeblement&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;1d6+4&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;damage is the Strength penalty&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;touch of fatigue&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;touch-of-fatigue&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]}]}],&quot;abilities&quot;:&quot;Str 8, Dex 13, Con 10, Int 17, Wis 16, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +3; CMD 15&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:12,&quot;Disguise&quot;:3,&quot;Intimidate&quot;:13,&quot;Knowledge (arcana)&quot;:15,&quot;Knowledge (nature)&quot;:15,&quot;Spellcraft&quot;:15,&quot;Perception&quot;:3,&quot;CMB&quot;:3},&quot;feats&quot;:&quot;Deceitful, Extend Spell, Extra HexAPG, Great Fortitude, Toughness&quot;,&quot;languages&quot;:&quot;Aklo, Common, Giant, Goblin, Frontier&quot;,&quot;sq&quot;:&quot;hulking changeling, witch’s familiar (snake)&quot;,&quot;gear&quot;:&quot;potion of bear’s endurance, potion of cure serious wounds, scroll of augury, scroll of cloudkill, wand of confusion (4 charges), wand of false life (10 charges)&quot;}"></div>
+
+## Mushfens Cabalist (CR 8)
+
+**XP** 4,800  
+Changeling witch 9  
+NE Medium humanoid (changeling)  
+**Init** +1; **Senses** darkvision 60 ft.; Perception +3
+
+**Defense**
+
+**AC** 14, touch 12, flat-footed 13 (+1 deflection, +1 Dex, +2 natural)  
+**hp** 52 (9d6+18)  
+**Fort** +6, **Ref** +5, **Will** +10
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** 2 claws +3 (1d4) or quarterstaff +3 (1d6)  
+**Ranged**  sling +5 (1d4–1)  
+**Special Attacks** hexes (cackle, charm [2 steps, 3 rounds], disguise [9 hours], evil eye [–4, 6 rounds], slumber [9 rounds], ward [+3])  
+**Witch Spells Prepared** (CL 9th; concentration +12)  
+5th—*suffocation*APG (DC 19)  
+4th—*control water*, *fear* (DC 17)  
+3rd—*bestow curse* (DC 16), *dispel magic*, *vampiric touch*, *water breathing*  
+2nd—*blindness/deafness* (DC 15), *cure moderate wounds*, *detect thoughts* (DC 15), *hold person* (DC 15), *see invisibility*  
+1st—*beguiling gift*APG (DC 15), *charm person* (DC 14), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 14)  
+0 (at will)—*bleed* (DC 13), *detect magic*, *read magic*, *touch of fatigue* (DC 13)  
+**Patron** Water
+
+**Statistics**
+
+**Str** 8, **Dex** 13, **Con** 10, **Int** 17, **Wis** 16, **Cha** 12  
+**Base Atk** +4; **CMB** +3; **CMD** 15  
+**Feats** [Deceitful](../../rules/feats/deceitful.md), [Extend Spell](../../rules/feats/extend-spell.md), [Extra HexAPG](../../rules/feats/extra-hex.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Toughness](../../rules/feats/toughness.md)  
+**Skills** Bluff +12, Disguise +3, Intimidate +13, Knowledge (arcana) +15, Knowledge (nature) +15, Spellcraft +15  
+**Languages** Aklo, Common, Giant, Goblin, Frontier  
+**SQ** hulking changeling, witch’s familiar (snake)  
+**Combat Gear**  *potion of bear’s endurance*, *potion of cure serious wounds*, *scroll of augury*, *scroll of cloudkill*, *wand of confusion* (4 charges), *wand of false life* (10 charges); **Other Gear** quarterstaff, sling, *amulet of natural armor +1*, *cloak of resistance +1*, *ring of protection +1*, 120 gp
+
+The expansive swamp in southwestern the frontier known as the Mushfens is unwelcoming for many reasons: tribes of boggards, shape-shifting faceless stalkers, and cabals consisting of hags and their changeling daughters. It is the latter of these that pose perhaps the largest threat to travelers along the banks of the Yondabakari River, natives of neighboring communities, and citizens of the nearby city of the city of monuments, for the changelings can most easily pass unnoticed among their unsuspecting victims and insinuate themselves into society.
+
+Using their mysterious talents of misdirection and manipulation, Mushfens cabalists typically attack those unfortunate enough to become lost in the swamps or who travel into the bogs intentionally. Many an overconfident or foolhardy adventurer bound for the lost Rune Empire ruin known as the Sunken Queen deep within the bogs has been waylaid by the sinister deceptions of a changeling with machinations beyond his ability to fathom.
+
+With increasing regularity, reports have surfaced of elaborate assaults on river traffic along the Yondabakari—and even landbased caravans on the Dry Way, which follows the river’s northern bank, connecting the city of monuments to points east such as Wartle and Lake Sirantula. Frontier folktales spread through the city of monuments tell of foul Mushfens cabalists who disguise themselves as ordinary citizens to seduce and beguile trusting children, wayward husbands, and other easy targets away from the safety of the City of Monuments to their deaths in the swamps to the east. What these supposed seductresses do with their gullible prey is anyone’s guess.
