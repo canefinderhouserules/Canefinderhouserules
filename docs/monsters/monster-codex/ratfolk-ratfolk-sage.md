@@ -1,0 +1,52 @@
+# Ratfolk, Ratfolk Sage
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ratfolk Sage&quot;,&quot;cr&quot;:&quot;6&quot;,&quot;xp&quot;:&quot;2,400&quot;,&quot;line&quot;:&quot;Ratfolk diviner 7, N Small humanoid (ratfolk)&quot;,&quot;init&quot;:9,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;17, touch 13, flat-footed 15&quot;,&quot;hp&quot;:&quot;48 (7d6+21)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:5,&quot;Will&quot;:8},&quot;speed&quot;:&quot;20 ft., climb 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk quarterstaff&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-2,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;swarming&quot;,&quot;rangedTouch&quot;:6,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;diviner’s fortune&quot;,&quot;note&quot;:&quot;+3&quot;}]}]},{&quot;title&quot;:&quot;Diviner Spells Prepared&quot;,&quot;cl&quot;:7,&quot;concentration&quot;:12,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane eye&quot;,&quot;page&quot;:&quot;arcane-eye&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;wall of fire&quot;,&quot;page&quot;:&quot;wall-of-fire&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;7d6&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:2},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;},{&quot;name&quot;:&quot;spider climb&quot;,&quot;page&quot;:&quot;spider-climb&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alarm&quot;,&quot;page&quot;:&quot;alarm&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;4d4+8&quot;,&quot;damageLabel&quot;:&quot;force damage, 4 missiles&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid splash&quot;,&quot;page&quot;:&quot;acid-splash&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;}]}]}],&quot;abilities&quot;:&quot;Str 6, Dex 14, Con 13, Int 20, Wis 14, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +0; CMD 12&quot;,&quot;checks&quot;:{&quot;Appraise&quot;:15,&quot;Climb&quot;:6,&quot;Craft (alchemy)&quot;:7,&quot;Knowledge (arcana)&quot;:12,&quot;Knowledge (geography)&quot;:12,&quot;Knowledge (history)&quot;:12,&quot;Knowledge (planes)&quot;:12,&quot;Linguistics&quot;:15,&quot;Perception&quot;:4,&quot;Spellcraft&quot;:15,&quot;Stealth&quot;:13,&quot;CMB&quot;:0},&quot;feats&quot;:&quot;Craft Wondrous Item, Great Fortitude, Improved Initiative, Scribe Scroll, Spell Penetration, Toughness&quot;,&quot;languages&quot;:&quot;Abyssal, Aklo, Common, Dark Folk, Draconic, Dwarven, Giant, Gnoll, Goblin, Infernal, Sylvan, Terran, Undercommon&quot;,&quot;sq&quot;:&quot;arcane bond (staff), forewarned&quot;,&quot;gear&quot;:&quot;potion of cure light wounds, scroll of clairaudience/clairvoyance, scroll of locate object, scrolls of magic weapon (4), wand of blur (13 charges), wand of burning hands (CL 5th, 8 charges)&quot;}"></div>
+
+## Ratfolk Sage (CR 6)
+
+**XP** 2,400  
+Ratfolk diviner 7  
+N Small humanoid (ratfolk)  
+**Init** +9; **Senses** darkvision 60 ft.; Perception +4
+
+**Defense**
+
+**AC** 17, touch 13, flat-footed 15 (+4 armor, +2 Dex, +1 size)  
+**hp** 48 (7d6+21)  
+**Fort** +6, **Ref** +5, **Will** +8
+
+**Offense**
+
+**Speed** 20 ft., climb 20 ft.  
+**Melee** mwk quarterstaff +3 (1d4–2)  
+**Ranged**  light crossbow +6 (1d6/19–20)  
+**Special Attacks** swarming  
+**Spell-Like Abilities** (CL 7th; concentration +12)  
+8/day—diviner’s fortune (+3)  
+**Diviner Spells Prepared** (CL 7th; concentration +12)  
+4th—*arcane eye*, *dimension door*, *wall of fire*  
+3rd—*dispel magic*, *haste*, *lightning bolt* (DC 18), *tongues*  
+2nd—*glitterdust* (DC 17), *invisibility*, *scorching ray*, *see invisibility*, *spider climb*  
+1st—*alarm*, *comprehend languages*, *expeditious retreat*, *grease* (DC 16), *mage armor*, *magic missile* (2)  
+0 (at will)—*acid splash*, *dancing lights*, *detect magic*, *message*  
+**Opposition Schools** enchantment, necromancy
+
+**Tactics**
+
+**Before Combat** The ratfolk sage casts mage armor on himself each morning. Because he avoids entering direct combat, if battle is imminent, the ratfolk sage casts *spider climb* on himself and climbs to a defensible position. If he is with several allies, he uses his *wand of blur* and *scrolls of magic weapon* on them and their weapons before he does so.  
+ **During Combat** The ratfolk sage casts *wall of fire* to divide up the battlefield and trap the ratfolk’s enemies. He then casts offensive spells until he runs out, at which point he uses a *scroll of magic weapon* on his light crossbow before making attacks. If cornered, the sage uses dimension door to free himself.  
+ **Base Statistics** Without *mage armor* and *spider climb*, the ratfolk sage’s statistics are **AC** 13, touch 13, flat-footed 11; **Speed** 20 ft.; **Skills** Climb –2.
+
+**Statistics**
+
+**Str** 6, **Dex** 14, **Con** 13, **Int** 20, **Wis** 14, **Cha** 10  
+**Base Atk** +3; **CMB** +0; **CMD** 12  
+**Feats** [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Penetration](../../rules/feats/spell-penetration.md), [Toughness](../../rules/feats/toughness.md)  
+**Skills** Appraise +15, Climb +6, Craft (alchemy) +7, Knowledge (arcana) +12, Knowledge (geography) +12, Knowledge (history) +12, Knowledge (planes) +12, Linguistics +15, Perception +4, Spellcraft +15, Stealth +13; **Racial Modifiers** +8 Climb, +2 Craft (alchemy), +2 Perception, +2 Use Magic Device  
+**Languages** Abyssal, Aklo, Common, Dark Folk, Draconic, Dwarven, Giant, Gnoll, Goblin, Infernal, Sylvan, Terran, Undercommon  
+**SQ** arcane bond (staff), forewarned  
+**Combat Gear**  *potion of cure light wounds*, *scroll of clairaudience/clairvoyance*, *scroll of locate object*, *scrolls of magic weapon* (4), *wand of blur* (13 charges), *wand of burning hands* (CL 5th, 8 charges); **Other Gear** light crossbow with 10 bolts, mwk quarterstaff, *cloak of resistance +1*, *headband of vast intelligence +2*, spellbook (contains all prepared spells plus *clairaudience/clairvoyance*, *floating disk*, *identify*, *locate object*, *magic weapon*, *minor image*, and *shield*), 92 gp
+
+**Ecology**
+
+**Environment** warm deserts or urban

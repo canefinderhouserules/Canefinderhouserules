@@ -269,9 +269,14 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Vulture](vulture.md) | 1/2 | N Small animal |
 | [Water Naga](naga-water-naga.md) | 7 | N Large aberration (aquatic) |
 | [Water Yai](oni-water-yai.md) | 18 | CE Huge outsider (aquatic, giant, native, oni, shapechanger, water) |
+| [Wolf-in-Sheep's-Clothing](wolf-in-sheeps-clothing.md) | 8 | N Medium aberration |
+| [Yithian](yithian.md) | 9 | LN Large aberration |
 | [Young Forest Dragon](dragon-imperial-forest-young-forest-dragon.md) | 10 | CE Large dragon (earth) |
 | [Young Sea Dragon](dragon-imperial-sea-young-sea-dragon.md) | 8 | CG Large dragon (water) |
 | [Young Sky Dragon](dragon-imperial-sky-young-sky-dragon.md) | 9 | LG Large dragon (air) |
 | [Young Sovereign Dragon](dragon-imperial-sovereign-young-sovereign-dragon.md) | 11 | N Large dragon |
 | [Young Underworld Dragon](dragon-imperial-underworld-young-underworld-dragon.md) | 7 | LE Medium dragon (fire) |
+| [Yuki-Onna](yuki-onna.md) | 8 | LE Medium undead (cold, incorporeal) |
+| [Zoog](zoog.md) | 1 | CE Tiny magical beast |
 | [Zuishin](kami-zuishin.md) | 10 | LG Medium outsider (kami, native) |
+| [Zuvembie](zuvembie.md) | 4 | NE Medium undead |

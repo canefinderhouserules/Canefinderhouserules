@@ -89,6 +89,8 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Dire Rat](rat-dire-rat.md) | 1/3 | N Small animal |
 | [Dire Shark (Megalodon)](shark-dire-shark-megalodon.md) | 9 | N Gargantuan animal (aquatic) |
 | [Dire Tiger (Smilodon)](tiger-dire-tiger-smilodon.md) | 8 | N Large animal |
+| [Dire Wolf](wolf-dire-wolf.md) | 3 | N Large animal |
+| [Dire Wolverine](wolverine-dire-wolverine.md) | 4 | N Large animal |
 | [Djinni](genie-djinni.md) | 5 | CG Large outsider (air, extraplanar) |
 | [Dog](dog.md) | 1/3 | N Small animal |
 | [Dolphin](dolphin.md) | 1/2 | N Medium animal |
@@ -177,6 +179,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Huge Fire Elemental](elemental-fire-huge-fire-elemental.md) | 7 | N Huge outsider (elemental, extraplanar, fire) |
 | [Huge Water Elemental](elemental-water-huge-water-elemental.md) | 7 | N Huge outsider (elemental, extraplanar, water) |
 | [Human Skeleton](skeleton-human-skeleton.md) | 1/3 | NE Medium undead |
+| [Human Zombie](zombie-human-zombie.md) | 1/2 | NE Medium undead |
 | [Hydra](hydra.md) | 4 | N Huge magical beast |
 | [Hyena](hyena.md) | 1 | N Medium animal |
 | [Ice Devil (Gelugon)](devil-ice-devil-gelugon.md) | 13 | LE Large outsider (devil, evil, extraplanar, lawful) |
@@ -320,8 +323,19 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Werewolf (Hybrid Form)](lycanthrope-werewolf-hybrid-form.md) | 2 | Human natural werewolf fighter 2, CE Medium humanoid (human, shapechanger) |
 | [Wight](wight.md) | 3 | LE Medium undead |
 | [Will-o’-Wisp](will-o-wisp.md) | 6 | CE Small aberration (air) |
+| [Winter Wolf](worg-winter-wolf.md) | 5 | NE Large magical beast (cold) |
+| [Wolf](wolf.md) | 1 | N Medium animal |
+| [Wolverine](wolverine.md) | 2 | N Medium animal |
 | [Wood Golem](golem-wood-golem.md) | 6 | N Medium construct |
 | [Woolly Rhinoceros](rhinoceros-woolly-rhinoceros.md) | 6 | N Large animal |
+| [Worg](worg.md) | 2 | NE Medium magical beast |
+| [Wraith](wraith.md) | 5 | LE Medium undead (incorporeal) |
+| [Wyvern](wyvern.md) | 6 | N Large dragon |
+| [Xill](xill.md) | 6 | LE Medium outsider (evil, extraplanar) |
+| [Xorn](xorn.md) | 6 | N Medium outsider (earth, extraplanar) |
+| [Yellow Musk Creeper](yellow-musk-creeper.md) | 2 | N Medium plant |
+| [Yeth Hound](yeth-hound.md) | 3 | NE Medium outsider (evil, extraplanar) |
+| [Yeti](yeti.md) | 4 | N Large monstrous humanoid (cold) |
 | [Young Black Dragon](dragon-black-young-black-dragon.md) | 7 | CE Medium dragon (water) |
 | [Young Blue Dragon](dragon-blue-young-blue-dragon.md) | 9 | LE Large dragon (earth) |
 | [Young Brass Dragon](dragon-brass-young-brass-dragon.md) | 7 | CG Medium dragon (fire) |

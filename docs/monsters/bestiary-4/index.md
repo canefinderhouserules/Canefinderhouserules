@@ -236,9 +236,17 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Wickerman](wickerman.md) | 13 | N Colossal construct (fire) |
 | [Wikkawak](wikkawak.md) | 4 | CE Medium humanoid (goblinoid) |
 | [Winter Hag](hag-winter-hag.md) | 7 | CE Medium monstrous humanoid (cold) |
+| [Wyrwood](wyrwood.md) | 1/2 | Wyrwood rogue 1, N Small construct |
+| [Wyvaran](wyvaran.md) | 1/2 | Female wyvaran inquisitorAPG 1, LN Medium dragon |
+| [Xanthos](xanthos.md) | 14 | N Huge magical beast |
+| [Xenopterid](xenopterid.md) | 7 | N Medium vermin |
 | [Yamaraj](psychopomp-yamaraj.md) | 20 | N Huge outsider (extraplanar, psychopomp) |
+| [Yaoguai](yaoguai.md) | 7 | N Huge magical beast |
 | [Young Lunar Dragon](dragon-outer-lunar-young-lunar-dragon.md) | 9 | CN Large dragon |
 | [Young Solar Dragon](dragon-outer-solar-young-solar-dragon.md) | 9 | LN Large dragon (fire) |
 | [Young Time Dragon](dragon-outer-time-young-time-dragon.md) | 11 | N Large dragon |
 | [Young Void Dragon](dragon-outer-void-young-void-dragon.md) | 9 | NE Large dragon |
 | [Young Vortex Dragon](dragon-outer-vortex-young-vortex-dragon.md) | 10 | LN Large dragon (fire) |
+| [Ypotryll](ypotryll.md) | 15 | N Huge magical beast |
+| [Zombie Lord](zombie-zombie-lord.md) | 3 | Female human monk 3, LE Medium undead |
+| [Zomok](zomok.md) | 16 | N Gargantuan plant (extraplanar) |

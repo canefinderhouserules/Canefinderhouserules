@@ -1,0 +1,43 @@
+# Gnoll, Eye of Lamashtu
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Eye of Lamashtu&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Gnoll cleric of Lamashtu 4, CE Medium humanoid (gnoll)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;18, touch 11, flat-footed 17&quot;,&quot;hp&quot;:&quot;31 (6d8+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:2,&quot;Will&quot;:7},&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk falchion&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;javelin&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 6/day (DC 15, 2d6)&quot;,&quot;rangedTouch&quot;:5,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:4,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;6/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;copycat&quot;,&quot;note&quot;:&quot;4 rounds&quot;},{&quot;name&quot;:&quot;strength surge&quot;,&quot;note&quot;:&quot;+2&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:4,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dread boltUM&quot;,&quot;dc&quot;:15},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;doom&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;doom&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;enlarge person&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;enlarge-person&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;entropic shield&quot;,&quot;page&quot;:&quot;entropic-shield&quot;},{&quot;name&quot;:&quot;ray of sickeningUM&quot;,&quot;dc&quot;:14}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;}]}]}],&quot;abilities&quot;:&quot;Str 17, Dex 12, Con 10, Int 8, Wis 16, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +7; CMD 18&quot;,&quot;checks&quot;:{&quot;Spellcraft&quot;:8,&quot;Perception&quot;:3,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Combat Casting, Extra Channel, Improved Channel&quot;,&quot;languages&quot;:&quot;Gnoll&quot;,&quot;gear&quot;:&quot;potion of cure light wounds, wand of cure light wounds (50 charges), alchemist’s fire (2)&quot;}"></div>
+
+## Eye of Lamashtu (CR 5)
+
+**XP** 1,600  
+Gnoll cleric of Lamashtu 4  
+CE Medium humanoid (gnoll)  
+**Init** +1; **Senses** darkvision 60 ft.; Perception +3
+
+**Defense**
+
+**AC** 18, touch 11, flat-footed 17 (+5 armor, +1 Dex, +2 natural)  
+**hp** 31 (6d8+4)  
+**Fort** +7, **Ref** +2, **Will** +7
+
+**Offense**
+
+**Speed** 20 ft.  
+**Melee** mwk falchion +8 (2d4+4/18–20)  
+**Ranged**  javelin +5 (1d6+3)  
+**Special Attacks** channel negative energy 6/day (DC 15, 2d6)  
+**Spell-Like Abilities** (CL 4th; concentration +7)  
+6/day—copycat (4 rounds), strength surge (+2)  
+**Cleric Spells Prepared** (CL 4th; concentration +7)  
+2nd—*death knell* (DC 15), *dread bolt*UM (DC 15), *hold person* (DC 15), *invisibility*D  
+1st—*bane* (DC 14), *doom* (DC 14), *enlarge person*D (DC 14), *entropic shield*, *ray of sickening*UM (DC 14)  
+0 (at will)—*bleed* (DC 13), *guidance*, *resistance*, *stabilize*  
+**D** domain spell; **Domains** Strength, Trickery
+
+**Statistics**
+
+**Str** 17, **Dex** 12, **Con** 10, **Int** 8, **Wis** 16, **Cha** 12  
+**Base Atk** +4; **CMB** +7; **CMD** 18  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Channel](../../rules/feats/improved-channel.md)  
+**Skills** Spellcraft +8  
+**Languages** Gnoll  
+**Combat Gear**  *potion of cure light wounds*, *wand of cure light wounds* (50 charges), alchemist’s fire (2); **Other Gear** mwk scale mail, javelins (2), mwk falchion, *amulet of natural armor +1*, 33 gp
+
+**Ecology**
+
+**Environment** warm plains or desert

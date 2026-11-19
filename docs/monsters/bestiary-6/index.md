@@ -208,7 +208,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Weremantis (Hybrid Form)](entothrope-weremantis-hybrid-form.md) | 4 | LE Large humanoid (human, shapechanger) |
 | [Werespider (Human Form)](entothrope-werespider-human-form.md) | 2 | Human natural werespider rogue 2 (augmented humanoid), NE Medium humanoid (human, shapechanger) |
 | [Werespider (Hybrid Form)](entothrope-werespider-hybrid-form.md) | 2 | NE Medium humanoid (human, shapechanger) |
-| [Werewasp (Human Form)](entothrope-werewasp-human-form.md) | 5 | Elf natural werewasp cleric of Calistria 5 (augmented humanoid), CN Medium humanoid (elf, shapechanger) |
+| [Werewasp (Human Form)](entothrope-werewasp-human-form.md) | 5 | Elf natural werewasp cleric of the goddess of lust 5 (augmented humanoid), CN Medium humanoid (elf, shapechanger) |
 | [Werewasp (Hybrid Form)](entothrope-werewasp-hybrid-form.md) | 5 | CN Large humanoid (elf, shapechanger) |
 | [Whaler Jellyfish](whaler-jellyfish.md) | 17 | N Colossal vermin (aquatic) |
 | [Whisperer](whisperer.md) | 20 | NE Large fey (extraplanar, incorporeal) |
@@ -218,6 +218,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Wild Hunt Monarch](wild-hunt-wild-hunt-monarch.md) | 19 | CN Medium fey (wild hunt) |
 | [Wild Hunt Scout](wild-hunt-wild-hunt-scout.md) | 15 | CN Medium fey (wild hunt) |
 | [Ximtal](sahkil-ximtal.md) | 17 | NE Large outsider (evil, extraplanar, sahkil) |
+| [Yaddithian](yaddithian.md) | 8 | Yaddithian wizard 9, N Medium aberration |
 | [Yaenit](demon-yaenit.md) | 6 | CE Medium outsider (chaotic, demon, evil, extraplanar) |
 | [Yamah](azata-yamah.md) | 5 | CG Medium outsider (azata, chaotic, extraplanar, good) |
 | [Yarthoon](kaiju-yarthoon.md) | 25 | CN Colossal magical beast (air, kaiju) |
@@ -227,4 +228,5 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Young Infernal Dragon](dragon-planar-infernal-young-infernal-dragon.md) | 12 | LE Large dragon (evil, extraplanar, lawful) |
 | [Young Paradise Dragon](dragon-planar-paradise-young-paradise-dragon.md) | 12 | LG Large dragon (extraplanar, good, lawful) |
 | [Young Rift Dragon](dragon-planar-rift-young-rift-dragon.md) | 12 | CE Large dragon (chaotic, evil, extraplanar) |
+| [Yurei](yurei.md) | 12 | NE Medium undead |
 | [Zohanil](sahkil-zohanil.md) | 10 | NE Medium outsider (evil, extraplanar, sahkil) |

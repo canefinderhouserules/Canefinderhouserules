@@ -1,0 +1,55 @@
+# Giant (Frost), Frost Giant Battle Priest
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Frost Giant Battle Priest&quot;,&quot;cr&quot;:&quot;13&quot;,&quot;xp&quot;:&quot;25,600&quot;,&quot;line&quot;:&quot;Frost giant cleric 8, CE Large humanoid (cold, giant)&quot;,&quot;init&quot;:-1,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;27, touch 9, flat-footed 27&quot;,&quot;hp&quot;:&quot;195 (22d8+96)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:19,&quot;Ref&quot;:7,&quot;Will&quot;:16},&quot;defense&quot;:&quot;rock catching; Immune cold; Weaknesses vulnerable to fire&quot;,&quot;speed&quot;:&quot;30 ft.; space 10 ft.,, reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 battleaxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28,23,18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:13,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;rock&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:18,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 5/day (DC 16, 4d6), might of the gods (+8, 8 rounds/day), rock throwing (120 ft.), weapon master (8 rounds/day)&quot;,&quot;rangedTouch&quot;:14,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:14,&quot;levels&quot;:[{&quot;label&quot;:&quot;9/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;strength surge&quot;,&quot;note&quot;:&quot;+4&quot;}]},{&quot;label&quot;:&quot;9/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;battle rage&quot;,&quot;note&quot;:&quot;+4&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:14,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blessing of fervorAPG&quot;},{&quot;name&quot;:&quot;communal protection from energyUC&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;enter imageAPG&quot;},{&quot;name&quot;:&quot;invisibility purge&quot;,&quot;page&quot;:&quot;invisibility-purge&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;},{&quot;name&quot;:&quot;sacred bondAPG&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;align weapon&quot;,&quot;page&quot;:&quot;align-weapon&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;magic boulder&quot;,&quot;page&quot;:&quot;magic-boulder&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;},{&quot;name&quot;:&quot;weapon of aweAPG&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;},{&quot;name&quot;:&quot;enlarge person&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;enlarge-person&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 34, Dex 8, Con 18, Int 13, Wis 23, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +16; CMB +29 (+31 sunder); CMD 39 (41 vs. sunder)&quot;,&quot;checks&quot;:{&quot;Climb&quot;:17,&quot;Craft (armor)&quot;:10,&quot;Intimidate&quot;:15,&quot;Knowledge (religion)&quot;:14,&quot;Perception&quot;:30,&quot;Spellcraft&quot;:7,&quot;Stealth&quot;:1,&quot;CMB&quot;:29},&quot;feats&quot;:&quot;Brew Potion, Cleave, Combat Casting, Craft Magic Arms and Armor, Craft Wand, Great Cleave, Improved Sunder, Lightning Reflexes, Martial Weapon Proficiency (battleaxe), Power Attack, Vital Strike&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Giant&quot;,&quot;sq&quot;:&quot;icicle 9/day (1d6+3)&quot;,&quot;gear&quot;:&quot;potions of bull’s strength (2), potions of cure serious wounds (4), potions of protection from energy (2), potion of water breathing, wand of cure critical wounds (15 charges), wand of cure moderate wounds (15 charges)&quot;}"></div>
+
+## Frost Giant Battle Priest (CR 13)
+
+**XP** 25,600  
+Frost giant cleric 8  
+CE Large humanoid (cold, giant)  
+**Init** –1; **Senses** low-light vision; Perception +30
+
+**Defense**
+
+**AC** 27, touch 9, flat-footed 27 (+8 armor, +1 deflection, –1 Dex, +10 natural, –1 size)  
+**hp** 195 (22d8+96)  
+**Fort** +19, **Ref** +7, **Will** +16  
+**Defensive Abilities** rock catching; **Immune** cold  
+**Weaknesses** vulnerable to fire
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+1 battleaxe* +28/+23/+18/+13 (2d6+13/×3)  
+**Ranged**  rock +14 (1d8+18)  
+**Space** 10 ft., **Reach** 10 ft.  
+**Special Attacks** channel negative energy 5/day (DC 16, 4d6), might of the gods (+8, 8 rounds/day), rock throwing (120 ft.), weapon master (8 rounds/day)  
+**Spell-Like Abilities** (CL 8th; concentration +14)  
+9/day—strength surge (+4)  
+9/day—battle rage (+4)  
+**Cleric Spells Prepared** (CL 8th; concentration +14)  
+4th—*blessing of fervor*APG, *communal protection from energy*UC, *divine power*D, *unholy blight* (DC 20)  
+3rd—*enter image*APG, *invisibility purge*, *magic vestment*D, *protection from energy*, *sacred bond*APG  
+2nd—*align weapon*, *death knell* (DC 18), *hold person* (DC 18), *magic boulder*, *spiritual weapon*D, *weapon of awe*APG  
+1st—*bane* (DC 17), *bless*, *command* (DC 17), *cure light wounds*, *divine favor*, *enlarge person*D (DC 17), *shield of faith*  
+0 (at will)—*detect magic*, *guidance*, *mending*, *read magic*  
+**D** domain spell; **Domains** Strength, War
+
+**Tactics**
+
+**Before Combat** A battle priest casts *bull’s strength*, *magic vestment*, and *protection from energy* (fire) before combat, and sacred bond if her jarl is present.  
+ **During Combat** The battle priest opens combat by casting *divine power*, then uses spells like *blessing of fervor* to support allies and *unholy blight* to harm opponents.
+
+**Statistics**
+
+**Str** 34, **Dex** 8, **Con** 18, **Int** 13, **Wis** 23, **Cha** 14  
+**Base Atk** +16; **CMB** +29 (+31 sunder); **CMD** 39 (41 vs. sunder)  
+**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Craft Magic Arms and Armor](../../rules/feats/craft-magic-arms-and-armor.md), [Craft Wand](../../rules/feats/craft-wand.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Martial Weapon Proficiency (battleaxe)](../../rules/feats/martial-weapon-proficiency.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Skills** Climb +17, Craft (armor) +10, Intimidate +15, Knowledge (religion) +14, Perception +30, Spellcraft +7, Stealth +1 (+5 in snow); **Racial Modifiers** +4 Stealth in snow  
+**Languages** Abyssal, Common, Giant  
+**SQ** icicle 9/day (1d6+3)  
+**Combat Gear**  *potions of bull’s strength* (2), *potions of cure serious wounds* (4), *potions of protection from energy* (2), *potion of water breathing*, *wand of cure critical wounds* (15 charges), *wand of cure moderate wounds* (15 charges); **Other Gear** mwk chainmail, *+1 battleaxe*, *amulet of natural armor +1*, *boots of the winterlands*, *headband of inspired wisdom +2*, *ring of protection +1*, *ring of sustenance*, golden bracelets for sacred bond (2), silver unholy symbol, spell component pouch, 4,410 gp
+
+**Ecology**
+
+**Environment** cold mountains

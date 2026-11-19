@@ -12,9 +12,11 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Adult Nightmare Dragon](dragon-esoteric-nightmare-adult-nightmare-dragon.md) | 10 | NE Large dragon (extraplanar) |
 | [Adult Occult Dragon](dragon-esoteric-occult-adult-occult-dragon.md) | 10 | NG Large dragon |
 | [Aerial Servant](aerial-servant.md) | 11 | N Medium outsider (air, elemental, extraplanar) |
+| [Aether Wysp](wysp-aether-wysp.md) | 2 | N Tiny outsider (aether, elemental) |
 | [Ahkhat](ahkhat.md) | 4 | N Small outsider (earth, elemental, native) |
 | [Ahool](ahool.md) | 9 | NE Large magical beast |
 | [Air Veela](veela-air-veela.md) | 7 | N Medium outsider (air, extraplanar) |
+| [Air Wysp](wysp-air-wysp.md) | 2 | N Tiny outsider (air, elemental) |
 | [Akaname](akaname.md) | 1 | N Small aberration |
 | [Amarok](amarok.md) | 12 | LN Huge magical beast |
 | [Amphiptere](amphiptere.md) | 4 | N Large dragon |
@@ -74,6 +76,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Dvorovoi](house-spirit-dvorovoi.md) | 4 | CN Small fey |
 | [Dwiergeth](dwiergeth.md) | 13 | CE Large aberration (extraplanar) |
 | [Earth Veela](veela-earth-veela.md) | 7 | N Medium outsider (earth, extraplanar) |
+| [Earth Wysp](wysp-earth-wysp.md) | 2 | N Tiny outsider (earth, elemental) |
 | [Echeneis](echeneis.md) | 1 | N Small magical beast (aquatic) |
 | [Eclipse Giant](giant-eclipse-giant.md) | 19 | N Gargantuan humanoid (giant) |
 | [Egregore](egregore.md) | 10 | N Large aberration |
@@ -90,6 +93,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Fext](fext.md) | 10 | LE Medium undead |
 | [Firbolg](firbolg.md) | 4 | N Large humanoid (giant) |
 | [Fire Veela](veela-fire-veela.md) | 7 | N Medium outsider (extraplanar, fire) |
+| [Fire Wysp](wysp-fire-wysp.md) | 2 | N Tiny outsider (elemental, fire) |
 | [Flying Fox](familiar-flying-fox.md) | 1/3 | N Tiny animal |
 | [Flytrap Leshy](leshy-flytrap-leshy.md) | 4 | N Small plant (leshy, shapechanger) |
 | [Frog Father](frog-frog-father.md) | 5 | N Huge animal |
@@ -250,12 +254,17 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Warmonger Wasp](warmonger-wasp.md) | 7 | CE Large construct (extraplanar) |
 | [Water Leaper](water-leaper.md) | 2 | CN Small magical beast (aquatic) |
 | [Water Veela](veela-water-veela.md) | 7 | N Medium outsider (extraplanar, water) |
+| [Water Wysp](wysp-water-wysp.md) | 2 | N Tiny outsider (elemental, water) |
 | [Wihsaak](sahkil-wihsaak.md) | 6 | NE Medium outsider (evil, extraplanar, sahkil) |
 | [Witchcrow](witchcrow.md) | 3 | CE Small magical beast |
 | [Wizard's Shackle](wizards-shackle.md) | 1/2 | N Tiny aberration (aquatic) |
 | [Wolliped](wolliped.md) | 3 | N Large animal |
+| [Wyrmwraith](wyrmwraith.md) | 17 | CE Gargantuan undead (incorporeal) |
+| [Xiao](xiao.md) | 2 | CN Tiny magical beast |
+| [Yangethe](yangethe.md) | 9 | CE Large aberration |
 | [Young Astral Dragon](dragon-esoteric-astral-young-astral-dragon.md) | 9 | N Large dragon (extraplanar) |
 | [Young Dream Dragon](dragon-esoteric-dream-young-dream-dragon.md) | 10 | N Large dragon (extraplanar) |
 | [Young Etheric Dragon](dragon-esoteric-etheric-young-etheric-dragon.md) | 7 | N Medium dragon (extraplanar) |
 | [Young Nightmare Dragon](dragon-esoteric-nightmare-young-nightmare-dragon.md) | 6 | NE Medium dragon (extraplanar) |
 | [Young Occult Dragon](dragon-esoteric-occult-young-occult-dragon.md) | 6 | NG Medium dragon |
+| [Zygomind](zygomind.md) | 18 | N Colossal plant |

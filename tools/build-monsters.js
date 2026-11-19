@@ -114,6 +114,23 @@ function spellRoll(s, slug, cl) {
   else if (/^empowered\b/i.test(s.name)) s.damage = 'floor(1.5*(' + s.damage + '))';
 }
 
+// setting names: the wiki names Golarion's own deities by portfolio (mythological names such as Asmodeus stay)
+const DEITIES = {
+  'Iomedae': 'the goddess of valor', 'Torag': 'the god of the forge', 'Nethys': 'the god of magic', 'Abadar': 'the god of cities',
+  'Sarenrae': 'the goddess of the sun', 'Gozreh': 'the god of nature', 'Zon-Kuthon': 'the god of darkness and pain',
+  'Shelyn': 'the goddess of beauty', 'Gorum': 'the god of battle', 'Urgathoa': 'the goddess of undeath', 'Calistria': 'the goddess of lust',
+  'Cayden Cailean': 'the god of freedom', 'Erastil': 'the god of farming and hunting', 'Rovagug': 'the god of destruction',
+  'Norgorber': 'the god of murder and secrets', 'Desna': 'the goddess of dreams and stars', 'Pharasma': 'the goddess of birth and death',
+  'Golarion': 'the world',
+};
+const DEITY_RE = new RegExp('(^|[.!?]\\s+|\\n)?\\b(' + Object.keys(DEITIES).join('|') + ')\\b', 'g');
+function scrubNames(t) {
+  return String(t).replace(DEITY_RE, (all, start, name) => {
+    const r = DEITIES[name];
+    return (start || '') + (start !== undefined ? r.charAt(0).toUpperCase() + r.slice(1) : r);
+  });
+}
+
 // numbered conditions (house rule): an effect that causes one of them is level 1
 function numberConditions(t) {
   return t.replace(/\b((?:be|become|becomes|is|are|left|remain|remains)\s+(?:\w+\s+)?)(nauseated|paralyzed|petrified|stunned)\b(?!\s*\d)(?!\s+(?:creatures?|condition|effects?|targets?))/gi, '$1$2 1');
@@ -368,7 +385,7 @@ function pageFor(html, bookKey) {
     md += '<div class="r20-export" data-r20="' + JSON.stringify(data).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '"></div>\n\n';
     md += '## ' + data.name + (data.cr ? ' (CR ' + data.cr + ')' : '') + '\n\n' + toMarkdown(statHtml) + '\n\n';
   }
-  return { name: pageName, md: md.trim() + '\n', blocks: mine.map(b => parseBlock(b.html, b.source)) };
+  return { name: scrubNames(pageName), md: scrubNames(md.trim()) + '\n', blocks: mine.map(b => JSON.parse(scrubNames(JSON.stringify(parseBlock(b.html, b.source))))) };
 }
 
 // ---------- main ----------

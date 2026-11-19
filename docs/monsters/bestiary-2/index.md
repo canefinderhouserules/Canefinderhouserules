@@ -160,6 +160,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Jabberwock](jabberwock.md) | 23 | CE Huge dragon (air, fire) |
 | [Jellyfish Swarm](jellyfish-jellyfish-swarm.md) | 6 | N Diminutive vermin (aquatic, swarm) |
 | [Jinkin](gremlin-jinkin.md) | 1 | CE Tiny fey |
+| [Juju Zombie](zombie-juju-zombie.md) | 2 | Human juju zombie rogue 2, NE Medium undead (augmented human) |
 | [Jyoti](jyoti.md) | 9 | N Medium outsider (extraplanar) |
 | [Kalavakus](demon-kalavakus.md) | 10 | CE Medium outsider (chaotic, demon, evil, extraplanar) |
 | [Keketar](protean-keketar.md) | 17 | CN Large outsider (chaotic, extraplanar, protean, shapechanger) |
@@ -311,10 +312,16 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Weretiger (Hybrid Form)](lycanthrope-weretiger-hybrid-form.md) | 4 | Human natural weretiger rogue 4, NE Large humanoid (human, shapechanger) |
 | [Whale](whale.md) | 10 | N Gargantuan animal |
 | [Winterwight](winterwight.md) | 17 | CE Medium undead (cold) |
+| [Witchfire](witchfire.md) | 9 | CE Medium undead (incorporeal) |
+| [Witchwyrd](witchwyrd.md) | 6 | LN Medium monstrous humanoid |
 | [Wood Giant](giant-wood-giant.md) | 6 | CG Large humanoid (giant) |
+| [Worm That Walks](worm-that-walks.md) | 14 | Human worm that walks conjurer 13, NE Medium vermin (augmented human) |
+| [Xacarba](xacarba.md) | 15 | CE Gargantuan outsider (chaotic, evil, extraplanar) |
+| [Xtabay](xtabay.md) | 1/2 | N Small plant |
 | [Young Brine Dragon](dragon-primal-brine-young-brine-dragon.md) | 7 | LN Medium dragon (extraplanar, water) |
 | [Young Cloud Dragon](dragon-primal-cloud-young-cloud-dragon.md) | 9 | CN Large dragon (air, extraplanar) |
 | [Young Crystal Dragon](dragon-primal-crystal-young-crystal-dragon.md) | 6 | CG Medium dragon (earth, extraplanar) |
 | [Young Magma Dragon](dragon-primal-magma-young-magma-dragon.md) | 8 | CN Medium dragon (extraplanar, fire) |
 | [Young Umbral Dragon](dragon-primal-umbral-young-umbral-dragon.md) | 10 | CE Large dragon (extraplanar) |
+| [Yrthak](yrthak.md) | 9 | N Huge magical beast |
 | [Zelekhut](inevitable-zelekhut.md) | 9 | LN Large outsider (extraplanar, inevitable, lawful) |
