@@ -328,25 +328,3 @@ A legendary gunslinger is able to select any favored class bonus that a gunsling
 #### All
 
 +1/5 of a point of combat grit
-
-**Table: Archetypes / Alternate Class Features**
-
-| Archetype / Alternate Class Feature | Class Skills | Weapon & Armor | Gunsmith | Grit | Gun Training | Deeds | | | | | | | | | | | | | | | | | | | | | | | | Eagle Eyes | Gun Mastery | Slinger’s Quirk | Uncanny Dodge | Combat Grit | Nimble | | | | | Gritty Offense | Gunner’s Style | Steely Resolve | Evasion | Improved Uncanny Dodge | Improved Evasion | Skilled Resolve | True Grit | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | | | | | | Deadeye | | | | | | | Gunslinger’s Reflexes | Quick Clear | Ricochet Shot | Speedloader | Utility Shot | Dead Shot | Interrogation Shot | Targeting | Bleeding Shot | Dead Man’s Trigger | Lightning Reflexes | Anti-Magic Shot | Perfect Aim | Slinger’s Luck | Destructive Shot | Magic Bullet | Stunning Shot | | | | | | 4 | 8 | 12 | 16 | 20 | | | | | | | | | | | | | | | |
-| Legendary Games | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Alchemical Hotshot | | | | C | | X | | | | | | | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | | C | X | | | | | | | | | X | X | | | | X | | | | | | | | |
-| Anthem Gunner | C | | | C | | X | | | | | | | | | X | | | X | | X | | | X | | X | | X | | | | C | C | | | | | | | | X | | C | | | | X | | | | | | | | |
-| Black Flag Bandit | | C | C | | | X | | | | | | | | | | | | | X | | | | | | | | | | | | C | | | | | | | | | X | | | | | | | | | | | | | | |
-| Bullet Wizard | C | C | | C | | X | | | | | | | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | | C | C | X | | | | | | | | C | C | | X | | C | | | | | | | | |
-| Crossbow Killer | | C | X | | X | X | | | | | | | X | X | | X | | | | | | | | | | | | | | | C | | | | | | | | | X | | | | | | | | | | | | | | |
-| Demolition Soldier | | | C | | | X | | | | | | | | | | | | X | | | | | | | | | | | | | C | | | | | | | | | X | | | | | | | | | | | | | | |
-| Faded Stranger | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | X | C | X | | X | | | | | | | | | | | | | | | | | | | | |
-| Firearm Striker | | C | | | | X | | | | | | | | | X | | X | X | | | | | X | | | | | | | | C | | | C | | | | | | | | | | | | | | | | | | | | |
-| Living Turret | | C | C | | | | | | | | | | X | | | | X | | X | | | | | | | | | | | | C | | | | X | X | X | X | X | | | | X | | X | | | | | | | | | |
-| Muzzle Roarer | C | C | | | | | | | | | | | | | | | X | | | | | | | | | | | | | | C | | | | X | X | X | X | X | | | | X | | X | | | | | | | | | |
-| Pale Slinger | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | C | | | | X | X | X | X | X | | | | X | | | X | | | | | | | | |
-| Rumslinger | | | | X | | | | | | | | | | | | | | X | | | | | X | | | | | | | | | | | | X | X | X | X | X | | | | X | | X | | X | | | | | | | |
-| Sky Rider | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | X | | X | | | C | C | C | C | C | | C | X | | | | X | X | | | | | | | |
-| Solemn Traveler | | | | | | X | | | | | | | | | X | | | X | | | X | | X | | X | | | | | X | | X | X | | | | | | | C | | | | X | | | | | | | | | | |
-| Technological Shootist | | | C | | C | X | | | | | | | | X | | X | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |

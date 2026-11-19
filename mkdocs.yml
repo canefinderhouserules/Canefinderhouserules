@@ -45,3 +45,4 @@ extra_javascript:
   - javascripts/spell-search.js
   - javascripts/archetype-picker.js
   - javascripts/action-points.js
+  - javascripts/condition-links.js

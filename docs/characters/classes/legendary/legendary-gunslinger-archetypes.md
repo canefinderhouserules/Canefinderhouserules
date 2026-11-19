@@ -1,5 +1,27 @@
 # Legendary Gunslinger Archetypes
 
+**Table: Archetypes and the Class Features They Change**
+
+Which legendary gunslinger class features each archetype replaces or changes.
+
+| Archetype | Replaces | Changes |
+|---|---|---|
+| Alchemical Hotshot | All deeds, Slinger’s Quirk, Gunner’s Style, Steely Resolve, Skilled Resolve | Grit, Gun Mastery |
+| Anthem Gunner | Deadeye deed, Ricochet Shot deed, Dead Shot deed, Targeting deed, Lightning Reflexes deed, Perfect Aim deed, Destructive Shot deed, Gritty Offense, Skilled Resolve | Class Skills, Grit, Gun Mastery, Slinger’s Quirk, Steely Resolve |
+| Black Flag Bandit | Deadeye deed, Interrogation Shot deed, Gritty Offense | Weapon & Armor, Gunsmith, Gun Mastery |
+| Bullet Wizard | All deeds, Uncanny Dodge, Improved Uncanny Dodge | Class Skills, Weapon & Armor, Grit, Gun Mastery, Slinger’s Quirk, Gunner’s Style, Steely Resolve, Skilled Resolve |
+| Crossbow Killer | Gunsmith, Gun Training, Deadeye deed, Gunslinger’s Reflexes deed, Quick Clear deed, Speedloader deed, Gritty Offense | Weapon & Armor, Gun Mastery |
+| Demolition Soldier | Deadeye deed, Dead Shot deed, Gritty Offense | Gunsmith, Gun Mastery |
+| Faded Stranger | Eagle Eyes, Slinger’s Quirk, Combat Grit | Gun Mastery |
+| Firearm Striker | Deadeye deed, Ricochet Shot deed, Utility Shot deed, Dead Shot deed, Lightning Reflexes deed | Weapon & Armor, Gun Mastery, Combat Grit |
+| Living Turret | Gunslinger’s Reflexes deed, Utility Shot deed, Interrogation Shot deed, Evasion, Improved Evasion, Nimble | Weapon & Armor, Gunsmith, Gun Mastery |
+| Muzzle Roarer | Utility Shot deed, Evasion, Improved Evasion, Nimble | Class Skills, Weapon & Armor, Gun Mastery |
+| Pale Slinger | Evasion, Skilled Resolve, Nimble | Gun Mastery |
+| Rumslinger | Grit, Dead Shot deed, Lightning Reflexes deed, Evasion, Improved Evasion, True Grit, Nimble | — |
+| Sky Rider | Eagle Eyes, Slinger’s Quirk, Steely Resolve, Skilled Resolve, True Grit | Gunner’s Style, Nimble |
+| Solemn Traveler | Deadeye deed, Ricochet Shot deed, Dead Shot deed, Bleeding Shot deed, Lightning Reflexes deed, Perfect Aim deed, Eagle Eyes, Slinger’s Quirk, Uncanny Dodge, Improved Uncanny Dodge | Gritty Offense |
+| Technological Shootist | Deadeye deed, Quick Clear deed, Speedloader deed | Gunsmith, Gun Training |
+
 ## Alchemical Hotshot
 
 The feel of metal in a legendary gunslinger’s hands becomes second nature to most, but others learn to manipulate the metal of their weapon to creature wondrous effects. Known as alchemical hotshots, these warriors use the mystic art of metallurgy to further customize their weapons, creating effects previously unheard of.

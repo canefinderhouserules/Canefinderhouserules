@@ -114,3 +114,7 @@
 .md-typeset details.apr { border-color: #00897b; }
 .md-typeset details.apr > summary { background-color: rgba(0, 137, 123, .1); }
 .apc-off .md-typeset details.apr { display: none; }
+
+/* condition words linked by condition-links.js: quiet, so text does not turn into a sea of links */
+.md-typeset a.cond-auto { color: inherit; text-decoration: underline dotted; text-underline-offset: .15em; text-decoration-color: var(--md-default-fg-color--light); }
+.md-typeset a.cond-auto:hover { color: var(--md-accent-fg-color); }
