@@ -3,6 +3,7 @@
 **School** illusion (glamer); **Level** bard 5, mesmerist 5, psychic 5, sorcerer/wizard 5  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
+**Range** long (400 ft. + 40 ft./level)  
 **Area** one 20-ft. cube/level (S)  
 **Duration** concentration +1 hour/ level (D)  
 **Saving Throw** Will disbelief (if interacted with); **Spell Resistance** no

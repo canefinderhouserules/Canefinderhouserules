@@ -11,4 +11,4 @@ A *merciful* weapon deals an extra 1d6 points of damage, but all damage it deals
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *cure light wounds*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*cure light wounds*](../../magic/spells/cure-light-wounds.md); **Price** —

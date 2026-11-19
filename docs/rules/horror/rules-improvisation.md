@@ -59,7 +59,7 @@ Simple and relatively clean, execution by guillotine proves as humane as it is g
 
 **Extrapolation**: One can easily treat a guillotine as a special kind of mechanical trap. Without the restraint, it might function exactly as a wall scythe trap. With the pillory, it becomes more deadly. Any creature in the pillory is considered helpless and so, the guillotine, when activated, makes a coup de grace attack against the victim—potentially causing death. If the guillotine strikes a killing blow, the victim is decapitated. If it fails, there has been some malfunction with the device, catching the blade part way through the pillory. A standard wooden pillory holds a character’s head and both wrists. A character might slip free by spending 1 minute and succeeding at a DC 40 Escape Artist check.
 
-**Horror Considerations**: A GM might use an even more horrific versions of the guillotine in which the creature it killed has its soul trapped within the lethal blade, preventing *resurrection*.
+**Horror Considerations**: A GM might use an even more horrific versions of the guillotine in which the creature it killed has its soul trapped within the lethal blade, preventing [*resurrection*](../../magic/spells/resurrection.md).
 
 ## Hanging
 

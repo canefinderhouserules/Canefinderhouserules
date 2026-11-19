@@ -532,7 +532,7 @@ Only ratfolk may select one of these traits.
 
 **Innocent**: No one can believe someone as pure as you could be deceptive in any way. You have an air of innocence about you, and people have a hard time believing you could ever do anyone harm. When you make a Bluff check to tell a lie, your target always wants to believe you, granting you the standard +5 bonus on your Bluff check. This bonus only applies if the lie you tell is either believable or unlikely.
 
-**Planar Negotiator**: You are skilled at convincing outsiders that you require their aid. Whenever you cast *lesser planar ally*, [*planar ally*](../../magic/spells/planar-ally.md), or *greater planar ally*, you receive a 10% discount on the monetary cost required by the summoned outsiders. This bonus has no effect on services the outsiders may demand in order to strike a bargain.
+**Planar Negotiator**: You are skilled at convincing outsiders that you require their aid. Whenever you cast [*lesser planar ally*](../../magic/spells/planar-ally-lesser.md), [*planar ally*](../../magic/spells/planar-ally.md), or [*greater planar ally*](../../magic/spells/planar-ally-greater.md), you receive a 10% discount on the monetary cost required by the summoned outsiders. This bonus has no effect on services the outsiders may demand in order to strike a bargain.
 
 **Selective Health**: You are resistant to most illnesses that strike those around you, but vulnerable to the contagions of evil. You gain a +2 trait bonus on Fortitude saves against diseases. However, whenever you must make a Fortitude saving throw against a disease inflicted by an undead creature or evil outsider (such as mummy rot or a vrock's spores), you do not gain this bonus, and instead take a –2 penalty on your Fortitude save.
 
@@ -661,7 +661,7 @@ Characters can take these traits only during their transition to unlife, replaci
 
 **Rapid Drain** *(nosferatu)*: The ferocity of your hunger grants you the ability to draw life from your victims faster. When you use your blood drain ability, you gain 7 temporary hit points instead of 5.
 
-**Telekinetic Dependence** *(nosferatu)*: Your body is so ancient you fear damaging it with exertion. You gain a +1 trait bonus to your caster level when casting (or using as a spell-like ability) *fly*, [*levitate*](../../magic/spells/levitate.md), [*mage hand*](../../magic/spells/mage-hand.md), [*telekinesis*](../../magic/spells/telekinesis.md), and similar spells that move objects through sheer will.
+**Telekinetic Dependence** *(nosferatu)*: Your body is so ancient you fear damaging it with exertion. You gain a +1 trait bonus to your caster level when casting (or using as a spell-like ability) [*fly*](../../magic/spells/fly.md), [*levitate*](../../magic/spells/levitate.md), [*mage hand*](../../magic/spells/mage-hand.md), [*telekinesis*](../../magic/spells/telekinesis.md), and similar spells that move objects through sheer will.
 
 **Self-Aware** *(vetala)*: Wisdom stolen from an enlightened mortal has opened your own mind. Knowing yourself helps you to understand others. You gain a +1 trait bonus on all Sense Motive checks, and Sense Motive becomes a class skill for you.
 
@@ -761,7 +761,7 @@ Only changelings can select these traits.
 
 **Bitter Heart**: You share a sliver of your mother's supernatural hatred, gaining a +2 trait bonus to confirm critical hits.
 
-**Magic in the Blood**: You possess natural magical ability. Select one of the following spells: [*bleed*](../../magic/spells/bleed.md), [*create water*](../../magic/spells/create-water.md), *dancing lights*, [*detect good*](../../magic/spells/detect-good.md), *ghost sound*, or [*putrefy food and drink*](../../magic/spells/putrefy-food-and-drink.md). You can cast this spell three times per day as a spell-like ability.
+**Magic in the Blood**: You possess natural magical ability. Select one of the following spells: [*bleed*](../../magic/spells/bleed.md), [*create water*](../../magic/spells/create-water.md), [*dancing lights*](../../magic/spells/dancing-lights.md), [*detect good*](../../magic/spells/detect-good.md), [*ghost sound*](../../magic/spells/ghost-sound.md), or [*putrefy food and drink*](../../magic/spells/putrefy-food-and-drink.md). You can cast this spell three times per day as a spell-like ability.
 
 **Creative Manipulator**: Once per day, you may reroll a Charisma check you just made. You must take the result of the second roll, even if it is worse.
 

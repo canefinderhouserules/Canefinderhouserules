@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *menacing* weapon he
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *phantasmal killer*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*phantasmal killer*](../../magic/spells/phantasmal-killer.md); **Price** —

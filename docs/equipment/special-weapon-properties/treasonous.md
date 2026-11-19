@@ -10,4 +10,4 @@ A *treasonous* weapon functions as a *patriotic* weapon, but when wielded agains
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *summon monster I*, *weapon of awe*, creator must be a member of the attuned nationality; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*summon monster I*](../../magic/spells/summon-monster-i.md), [*weapon of awe*](../../magic/spells/weapon-of-awe.md), creator must be a member of the attuned nationality; **Price** —

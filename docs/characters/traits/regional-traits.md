@@ -630,7 +630,7 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Orphanage Survivor (Bandit-plagued vassal state native)**: You grew up in one of the many orphanages run by a devil-worshiping church. Whether or not you took to their teachings, your strict indoctrination at the hands of the “devil nuns” has toughened your body to punishment. You gain a +1 trait bonus on Fortitude saves.
 
-**Perseverance (Dwarven mountains native)**: Your time in the mountains has taught you that any obstacle can be endured and overcome. When you have more than one Will saving throw to overcome an effect (such as from *greater command* or [*hold person*](../../magic/spells/hold-person.md), or by using the good fortune ability of the Luck domain), you receive a +3 trait bonus on the extra Will saves against that effect.
+**Perseverance (Dwarven mountains native)**: Your time in the mountains has taught you that any obstacle can be endured and overcome. When you have more than one Will saving throw to overcome an effect (such as from [*greater command*](../../magic/spells/command-greater.md) or [*hold person*](../../magic/spells/hold-person.md), or by using the good fortune ability of the Luck domain), you receive a +3 trait bonus on the extra Will saves against that effect.
 
 **Pesh Addict (Trade city native)**: You spent several years addicted to pesh, a habit that you may or may not have kicked. You start with only half of the normal starting cash, but your knowledge of the pesh lifestyle grants you a +1 trait bonus on Bluff, Knowledge (local), and Sense Motive checks. One of these skills (your choice) is always a class skill for you.
 

@@ -15,7 +15,7 @@ Created from a number of iron rods, copper gears, and silver screws, this staff 
 
 In addition, once per day, the staff can become a Medium animated object with the metal special ability. It can remain in this form for up to 10 minutes. If destroyed while in this form, it reverts to being a staff, but it loses all of its charges and this ability cannot be used again until it is fully recharged.
 
-**Requirements** Craft Staff, *animate objects*, *make whole*, *mending*; **Cost** 24,900 gp
+**Requirements** Craft Staff, [*animate objects*](../magic/spells/animate-objects.md), [*make whole*](../magic/spells/make-whole.md), [*mending*](../magic/spells/mending.md); **Cost** 24,900 gp
 
 ### Chaotic Staff
 
@@ -29,23 +29,23 @@ Made up from a number of different materials, including wood, metal, and possibl
 - chaos hammer (2 charges)
 - magic circle against law (2 charges)
 
-**Requirements** Craft Staff, *align weapon*, *chaos hammer*, *detect evil*, *magic circle against law*; **Cost** 14,800 gp
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*chaos hammer*](../magic/spells/chaos-hammer.md), [*detect evil*](../magic/spells/detect-evil.md), [*magic circle against law*](../magic/spells/magic-circle-against-law.md); **Cost** 14,800 gp
 
 ### Dragon Staff
 
 **Aura** strong transmutation; **CL** 13th  
 **Slot** none; **Price** 81,000 gp; **Weight** 7 lbs.
 
-Made from a large dragon bone, wrapped in scales and topped with the fearsome image of a dragon, this staff radiates power. Each dragon staff is linked to one type of chromatic dragon: black, blue, green, red, or white. All the spells that can be cast using the staff are tied to that choice. If the wielder uses the staff to cast *form of the dragon II*, she must assume the type linked to the staff. Any energy types chosen by spells from the staff must match the type as well (black and green are linked to acid, blue is linked to electricity, red is linked to fire, and white is linked to cold). The staff allows use of the following spells:
+Made from a large dragon bone, wrapped in scales and topped with the fearsome image of a dragon, this staff radiates power. Each dragon staff is linked to one type of chromatic dragon: black, blue, green, red, or white. All the spells that can be cast using the staff are tied to that choice. If the wielder uses the staff to cast [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), she must assume the type linked to the staff. Any energy types chosen by spells from the staff must match the type as well (black and green are linked to acid, blue is linked to electricity, red is linked to fire, and white is linked to cold). The staff allows use of the following spells:
 
 - fly (1 charge)
 - protection from energy (1 charge)
 - dragon’s breath (2 charges)
 - form of the dragon II (4 charges)
 
-In addition to these powers, the wielder of the *dragon staff* also receives a +2 natural armor bonus to her AC and the ability to make a bite attack as a primary natural weapon. This bite deals 1d8 points of damage if the wielder is Medium. These bonuses are a polymorph effect and are replaced by those gained from casting *form of the dragon II*, or other similar spells.
+In addition to these powers, the wielder of the *dragon staff* also receives a +2 natural armor bonus to her AC and the ability to make a bite attack as a primary natural weapon. This bite deals 1d8 points of damage if the wielder is Medium. These bonuses are a polymorph effect and are replaced by those gained from casting [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), or other similar spells.
 
-**Requirements** Craft Staff, *alter self*, *dragon’s breath*, *fly*, *form of the dragon II*, *protection from energy*; **Cost** 40,500 gp
+**Requirements** Craft Staff, [*alter self*](../magic/spells/alter-self.md), [*dragon’s breath*](../magic/spells/dragons-breath.md), [*fly*](../magic/spells/fly.md), [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), [*protection from energy*](../magic/spells/protection-from-energy.md); **Cost** 40,500 gp
 
 ### Heretic’s Bane
 
@@ -59,7 +59,7 @@ This sturdy wooden staff is crowned by a holy symbol, surrounded by wicked barbs
 - zone of truth (1 charge)
 - denounce (2 charges)
 
-**Requirements** Craft Staff, *castigate*, *command, denounce*, *zone of truth*; **Cost** 16,000 gp
+**Requirements** Craft Staff, [*castigate*](../magic/spells/castigate.md), *command, denounce*, [*zone of truth*](../magic/spells/zone-of-truth.md); **Cost** 16,000 gp
 
 ### Holy Staff
 
@@ -73,7 +73,7 @@ This staff is made from polished birch, inlaid with ivory, and topped with a pri
 - holy smite (2 charges)
 - magic circle against evil (2 charges)
 
-**Requirements** Craft Staff, *align weapon*, *detect evil*, *holy smite*, *magic circle against evil*; **Cost** 14,800 gp
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect evil*](../magic/spells/detect-evil.md), [*holy smite*](../magic/spells/holy-smite.md), [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md); **Cost** 14,800 gp
 
 ### Lawful Staff
 
@@ -87,7 +87,7 @@ This staff is crafted from a perfectly smooth triangular rod of silver, and its 
 - magic circle against chaos (2 charges)
 - order’s wrath (2 charges)
 
-**Requirements** Craft Staff, *align weapon*, *detect chaos*, *magic circle against chaos*, *order’s wrath*; **Cost** 14,800 gp
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect chaos*](../magic/spells/detect-chaos.md), [*magic circle against chaos*](../magic/spells/magic-circle-against-chaos.md), [*order’s wrath*](../magic/spells/orders-wrath.md); **Cost** 14,800 gp
 
 ### Musical Staff
 
@@ -103,7 +103,7 @@ This staff is made from high-quality wood and festooned with brass rods and keys
 
 In addition, as a swift action (1 AP), the wielder of the *musical staff* can cause it to transform into a string or wind instrument. Any Perform skill checks made with the *musical staff* gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
 
-**Requirements** Craft Staff, *ghost sound*, *piercing shriek*, *sculpt sound*, *wall of sound*; **Cost** 16,000 gp
+**Requirements** Craft Staff, [*ghost sound*](../magic/spells/ghost-sound.md), [*piercing shriek*](../magic/spells/piercing-shriek.md), [*sculpt sound*](../magic/spells/sculpt-sound.md), [*wall of sound*](../magic/spells/wall-of-sound.md); **Cost** 16,000 gp
 
 ### Staff of Accompaniment
 
@@ -116,7 +116,7 @@ This staff is adorned with musical notes. When held and used with bardic perform
 - saving finale (1 charge)
 - allegro (2 charges)
 
-**Requirements** Craft Staff, *allegro*, *chord of shards*, *saving finale*; **Cost** 7,400 gp
+**Requirements** Craft Staff, [*allegro*](../magic/spells/allegro.md), [*chord of shards*](../magic/spells/chord-of-shards.md), [*saving finale*](../magic/spells/saving-finale.md); **Cost** 7,400 gp
 
 ### Staff of Acid
 
@@ -129,7 +129,7 @@ This staff is made of a rust-colored metal that has been corroded by acid, with 
 - acid arrow (2 charges)
 - acid fog (3 charges)
 
-**Requirements** Craft Staff, *acid arrow*, *acid fog*, *corrosive touch*; **Cost** 14,300 gp
+**Requirements** Craft Staff, [*acid arrow*](../magic/spells/acid-arrow.md), [*acid fog*](../magic/spells/acid-fog.md), [*corrosive touch*](../magic/spells/corrosive-touch.md); **Cost** 14,300 gp
 
 ### Staff of Aspects
 
@@ -183,7 +183,7 @@ This simple wooden staff is given to young clergy when they first set out into t
 - stabilize (1 charge)
 - bless (2 charges)
 
-**Requirements** Craft Staff, *bless*, *create water*, *stabilize*; **Cost** 3,600 gp
+**Requirements** Craft Staff, [*bless*](../magic/spells/bless.md), [*create water*](../magic/spells/create-water.md), [*stabilize*](../magic/spells/stabilize.md); **Cost** 3,600 gp
 
 ### Staff of Courage
 
@@ -213,7 +213,7 @@ This gnarled wooden staff is bedecked with broken charms and burnt fetishes that
 
 In addition, the *staff of curses* is a *+1/+1 quarterstaff*, and whenever the wielder strikes a creature with the staff, he can expend one charge to cause the creature to become cursed for a number of rounds equal to the number of charges remaining in the staff. While this curse persists, the creature takes a –2 penalty on saving throws from spells cast from the staff and a –2 penalty to AC against any attacks made by the staff.
 
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *baleful polymorph*, *bestow curse*, *blindness/deafness*, *ill omen*; **Cost** 22,050 gp
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*baleful polymorph*](../magic/spells/baleful-polymorph.md), [*bestow curse*](../magic/spells/bestow-curse.md), [*blindness/deafness*](../magic/spells/blindness-deafness.md), [*ill omen*](../magic/spells/ill-omen.md); **Cost** 22,050 gp
 
 ### Staff of Dark Flame
 
@@ -228,7 +228,7 @@ Made from bleached bones that have been fused together, the head of this staff b
 - fireball (2 charges)
 - animate dead (3 charges)
 
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *animate dead*, *false life*, *fireball*, *ray of enfeeblement*, *scorching ray*; **Cost** 27,133 gp
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*animate dead*](../magic/spells/animate-dead.md), [*false life*](../magic/spells/false-life.md), [*fireball*](../magic/spells/fireball.md), [*ray of enfeeblement*](../magic/spells/ray-of-enfeeblement.md), [*scorching ray*](../magic/spells/scorching-ray.md); **Cost** 27,133 gp
 
 ### Staff of Eidolons
 
@@ -254,7 +254,7 @@ This staff is made of shining silver, with a tip shaped like a lightning bolt. T
 - lightning bolt (2 charges)
 - chain lightning (3 charges)
 
-**Requirements** Craft Staff, *chain lightning*, *lightning bolt*, *shocking grasp*; **Cost** 15,950 gp
+**Requirements** Craft Staff, [*chain lightning*](../magic/spells/chain-lightning.md), [*lightning bolt*](../magic/spells/lightning-bolt.md), [*shocking grasp*](../magic/spells/shocking-grasp.md); **Cost** 15,950 gp
 
 ### Staff of Feast and Famine
 
@@ -284,7 +284,7 @@ Topped by a swirling cloudy stone and wrapped with black iron filigree, this sta
 - control winds (2 charges)
 - spike stones (2 charges)
 
-**Requirements** Craft staff, *air walk*, *control winds*, *gust of wind*, *spike stones*, *stone shape*; **Cost** 27,000 gp
+**Requirements** Craft staff, [*air walk*](../magic/spells/air-walk.md), [*control winds*](../magic/spells/control-winds.md), [*gust of wind*](../magic/spells/gust-of-wind.md), [*spike stones*](../magic/spells/spike-stones.md), [*stone shape*](../magic/spells/stone-shape.md); **Cost** 27,000 gp
 
 ### Staff of Hungry Shadows
 
@@ -300,7 +300,7 @@ This staff is made of scorched and twisted wood and is set with a crystal sphere
 - summon shadow (as summon monster V but summons 1 shadow, 2 charges)
 - call devourer (as planar binding but calls 1 devourer, 3 charges)
 
-**Requirements** Craft Staff, *darkness*, *enervation*, *planar binding*, *ray of enfeeblement*, *summon monster V*, *vampiric touch*; **Cost** 34,650 gp
+**Requirements** Craft Staff, [*darkness*](../magic/spells/darkness.md), [*enervation*](../magic/spells/enervation.md), [*planar binding*](../magic/spells/planar-binding.md), [*ray of enfeeblement*](../magic/spells/ray-of-enfeeblement.md), [*summon monster V*](../magic/spells/summon-monster-v.md), [*vampiric touch*](../magic/spells/vampiric-touch.md); **Cost** 34,650 gp
 
 ### Staff of Minor Arcana
 
@@ -312,7 +312,7 @@ This gleaming staff is made of polished silver and capped with a simple gemstone
 - shield (1 charge)
 - magic missile (2 charges)
 
-**Requirements** Craft Staff, *magic missile*, *shield*; **Cost** 4,000 gp
+**Requirements** Craft Staff, [*magic missile*](../magic/spells/magic-missile.md), [*shield*](../magic/spells/shield.md); **Cost** 4,000 gp
 
 ### Staff of Mithral Might
 
@@ -326,7 +326,7 @@ This staff is made of silver, with a shimmering sphere of mithral at either end.
 - telekinesis (3 charges)
 - flesh to stone (4 charges)
 
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *bull’s strength*, *enlarge person*, *flesh to stone*, *fox’s cunning*, *telekinesis*; **Cost** 29,300 gp
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bull’s strength*](../magic/spells/bulls-strength.md), [*enlarge person*](../magic/spells/enlarge-person.md), [*flesh to stone*](../magic/spells/flesh-to-stone.md), [*fox’s cunning*](../magic/spells/foxs-cunning.md), [*telekinesis*](../magic/spells/telekinesis.md); **Cost** 29,300 gp
 
 ### Staff of One Hundred Hands
 
@@ -341,16 +341,16 @@ Sculpted into the shape of dozens of grasping, distorted hands, this staff appea
 - grasping hand (2 charges)
 - crushing hand (3 charges)
 
-This staff also allows the wielder to use *mage hand* at will.
+This staff also allows the wielder to use [*mage hand*](../magic/spells/mage-hand.md) at will.
 
-**Requirements** Craft Staff, *clenched fist, crushing hand, forceful hand, grasping hand, interposing hand*, *mage hand*; **Cost** 90,100 gp
+**Requirements** Craft Staff, *clenched fist, crushing hand, forceful hand, grasping hand, interposing hand*, [*mage hand*](../magic/spells/mage-hand.md); **Cost** 90,100 gp
 
 ### Staff of Radiance
 
 **Aura** moderate evocation; **CL** 8th  
 **Slot** none; **Price** 23,200 gp; **Weight** 5 lbs.
 
-This silver-tipped willow staff constantly emits light, as if from a *light* spell—the radiance is emitted from the staff’s metallic end and flickers as if with flame. The staff’s wielder can deactivate or activate this glowing light as a swift action (1 AP). In addition, a *staff of radiance* allows use of the following spells:
+This silver-tipped willow staff constantly emits light, as if from a [*light*](../magic/spells/light.md) spell—the radiance is emitted from the staff’s metallic end and flickers as if with flame. The staff’s wielder can deactivate or activate this glowing light as a swift action (1 AP). In addition, a *staff of radiance* allows use of the following spells:
 
 - glitterdust (1 charge)
 - daylight (2 charges)
@@ -398,7 +398,7 @@ This shining golden staff is topped with a radiant gemstone that emits light lik
 - discern lies (2 charges)
 - holy sword (4 charges, cast on the staff only)
 
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *bless weapon*, *discern lies*, *holy sword*, *shield other*; **Cost** 18,810 gp
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bless weapon*](../magic/spells/bless-weapon.md), [*discern lies*](../magic/spells/discern-lies.md), [*holy sword*](../magic/spells/holy-sword.md), [*shield other*](../magic/spells/shield-other.md); **Cost** 18,810 gp
 
 ### Staff of the Hierophant
 
@@ -420,9 +420,9 @@ The *staff of the hierophant* is a powerful magic item with the ability to both 
 
 The wielder of a staff of the hierophant gains a +2 luck bonus to AC and on saving throws. The staff is also a +2/+2 quarterstaff, and its wielder may use it to smite opponents. If 1 charge is expended (as a free action), the staff deals double damage (×3 on a critical hit) for 1 round.
 
-A *staff of the hierophant* can be used to restore the life of a dead creature by calling upon the wielder’s deity to take the staff as a blessing. This causes the staff to vanish, but restores life to any one dead creature as if casting *true resurrection*. In addition, after using this effect, the wielder who triggered it receives a +2 luck bonus on all ability checks, attack rolls, saving throws, and skill checks for 1 day.
+A *staff of the hierophant* can be used to restore the life of a dead creature by calling upon the wielder’s deity to take the staff as a blessing. This causes the staff to vanish, but restores life to any one dead creature as if casting [*true resurrection*](../magic/spells/true-resurrection.md). In addition, after using this effect, the wielder who triggered it receives a +2 luck bonus on all ability checks, attack rolls, saving throws, and skill checks for 1 day.
 
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *bless*, *cure critical wounds*, *cure moderate wounds*, *flame strike*, *freedom of movement*, heightened *hold person*, *prayer*, *righteous might*, *searing light*, *true resurrection*, *true seeing*; **Cost** 110,000 gp
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bless*](../magic/spells/bless.md), [*cure critical wounds*](../magic/spells/cure-critical-wounds.md), [*cure moderate wounds*](../magic/spells/cure-moderate-wounds.md), [*flame strike*](../magic/spells/flame-strike.md), [*freedom of movement*](../magic/spells/freedom-of-movement.md), heightened [*hold person*](../magic/spells/hold-person.md), [*prayer*](../magic/spells/prayer.md), [*righteous might*](../magic/spells/righteous-might.md), [*searing light*](../magic/spells/searing-light.md), [*true resurrection*](../magic/spells/true-resurrection.md), [*true seeing*](../magic/spells/true-seeing.md); **Cost** 110,000 gp
 
 ### Staff of the Master
 
@@ -437,7 +437,7 @@ Often given as gifts to apprentices upon reaching the rank of master, these stav
 
 In addition, this staff can be used to cast spells using any metamagic feats known by the wielder without increasing the spell’s level. This consumes a number of charges equal to the number of spell levels increased by the feat. No more than one feat can be applied to a spell cast by the wielder in this way. Using the staff for this purpose does not increase the casting time of the spell.
 
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *ray of enfeeblement, spectral hand*, *vampiric touch*; **Cost** 15,300 gp
+**Requirements** Craft Magic Arms and Armor, Craft Staff, *ray of enfeeblement, spectral hand*, [*vampiric touch*](../magic/spells/vampiric-touch.md); **Cost** 15,300 gp
 
 ### Staff of the Planes
 
@@ -450,9 +450,9 @@ This obsidian staff twinkles as if reflecting the star-filled sky at night. The 
 - planar binding (2 charges)
 - plane shift (5 charges)
 
-If the *staff of the planes* is fully charged, the wielder can deliberately snap the staff, causing it do shatter into thousands of pieces but opening a *gate* to a plane of the wielder’s choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder’s concentration. If used in this way, the staff cannot be repaired or restored.
+If the *staff of the planes* is fully charged, the wielder can deliberately snap the staff, causing it do shatter into thousands of pieces but opening a [*gate*](../magic/spells/gate.md) to a plane of the wielder’s choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder’s concentration. If used in this way, the staff cannot be repaired or restored.
 
-**Requirements** Craft Staff, *planar adaptation, planar binding*, *plane shift*; **Cost** 31,980 gp
+**Requirements** Craft Staff, *planar adaptation, planar binding*, [*plane shift*](../magic/spells/plane-shift.md); **Cost** 31,980 gp
 
 ### Staff of the Scout
 
@@ -465,7 +465,7 @@ This staff is carefully crafted from the branches of a tree, still intertwined a
 - pass without trace (1 charge)
 - summon nature’s ally I (2 charges)
 
-**Requirements** Craft Staff, *know direction*, *pass without trace*, *summon nature’s ally I*; **Cost** 4,800 gp
+**Requirements** Craft Staff, [*know direction*](../magic/spells/know-direction.md), [*pass without trace*](../magic/spells/pass-without-trace.md), [*summon nature’s ally I*](../magic/spells/summon-natures-ally-i.md); **Cost** 4,800 gp
 
 ### Staff of Travel
 
@@ -478,7 +478,7 @@ This staff appears to be nothing more than a finely made walking stick, but clos
 - fly (1 charge)
 - teleport (2 charges) In addition to these spells, the wielder of the staff of travel receives a +10-foot enhancement bonus to his base speed.
 
-**Requirements** Craft Staff, *dimension door*, *expeditious retreat*, *fly*, *teleport*; **Cost** 27,200 gp
+**Requirements** Craft Staff, [*dimension door*](../magic/spells/dimension-door.md), [*expeditious retreat*](../magic/spells/expeditious-retreat.md), [*fly*](../magic/spells/fly.md), [*teleport*](../magic/spells/teleport.md); **Cost** 27,200 gp
 
 ### Staff of Tricks
 
@@ -492,7 +492,7 @@ This thin staff is made of stiff wood that has been wrapped in colorful bands of
 - prestidigitation (1 charge)
 - silent image (2 charges)
 
-**Requirements** Craft Staff, *ghost sound*, *mage hand*, *prestidigitation*, *silent image*; **Cost** 4,400 gp
+**Requirements** Craft Staff, [*ghost sound*](../magic/spells/ghost-sound.md), [*mage hand*](../magic/spells/mage-hand.md), [*prestidigitation*](../magic/spells/prestidigitation.md), [*silent image*](../magic/spells/silent-image.md); **Cost** 4,400 gp
 
 ### Staff of Understanding
 
@@ -519,4 +519,4 @@ This twisted iron staff bears ominous stains along its length, and ends in a bla
 - magic circle against good (2 charges)
 - unholy blight (2 charges)
 
-**Requirements** Craft Staff, *align weapon*, *detect good*, *magic circle against good*, *unholy blight*; **Cost** 14,800 gp
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect good*](../magic/spells/detect-good.md), [*magic circle against good*](../magic/spells/magic-circle-against-good.md), [*unholy blight*](../magic/spells/unholy-blight.md); **Cost** 14,800 gp

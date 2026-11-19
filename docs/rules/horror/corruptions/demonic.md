@@ -34,7 +34,7 @@ The following are manifestations of the demonic corruption.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: Permanent fleshcrafts cost 10% less to apply to you. Once per day, you can gain any one of the abilities listed in *alter self*, as well as an apt physical feature or body part of a typically chaotic or evil race (using that race's ability or that in *alter self*, whichever is worse). Abilities gained in this manner persist for 1 hour per manifestation level. At manifestation level 7th, the ability granted lasts until you use the ability again to gain a different feature.
+**Gift**: Permanent fleshcrafts cost 10% less to apply to you. Once per day, you can gain any one of the abilities listed in [*alter self*](../../../magic/spells/alter-self.md), as well as an apt physical feature or body part of a typically chaotic or evil race (using that race's ability or that in *alter self*, whichever is worse). Abilities gained in this manner persist for 1 hour per manifestation level. At manifestation level 7th, the ability granted lasts until you use the ability again to gain a different feature.
 
 **Stain**: Your aura detects as chaotic and evil instead of your true alignment. The aura is strong, like that of a cleric. At manifestation level 5th, whenever you activate this ability, you risk undergoing a fleshwarp mutation unless you succeed at a Fortitude saving throw (DC = 15 + manifestation level). All fleshwarp mutations from your demonic corruption gained in the same day count as originating from the same area.
 
@@ -78,7 +78,7 @@ The following are manifestations of the demonic corruption.
 
 **Prerequisite**: Manifestation level 5th.
 
-**Gift**: You can see the truth, as per *true seeing*, as a full-round action (3 AP). You can use this gift for a number of rounds per day equal to your manifestation level, and the rounds need not be used consecutively.
+**Gift**: You can see the truth, as per [*true seeing*](../../../magic/spells/true-seeing.md), as a full-round action (3 AP). You can use this gift for a number of rounds per day equal to your manifestation level, and the rounds need not be used consecutively.
 
 **Stain**: When you cease to use this manifestation's gift, you become confused for a number of rounds equal to the number of rounds you used the gift.
 

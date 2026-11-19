@@ -11,4 +11,4 @@ A *called* weapon can be teleported to the wielder’s hand as a swift action (1
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *teleport*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*teleport*](../../magic/spells/teleport.md); **Price** —

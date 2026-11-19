@@ -109,7 +109,7 @@ Sculpted in the shape of two noble looking bronze lions charging toward a centra
 
 This staff is made of ivory and gold and is topped by a large, flawless piece of quartz. It allows the use of the following spells.
 
-- *Heroic fortune* (1 charge)
-- *Heroic fortune, mass* (2 charges)
+- [*Heroic fortune*](../../magic/spells/heroic-fortune.md) (1 charge)
+- [*Heroic fortune, mass*](../../magic/spells/heroic-fortune-mass.md) (2 charges)
 
 **Requirements** Craft Staff, heroic fortune, mass heroic fortune; **Cost** 37,200 gp

@@ -89,7 +89,7 @@ At 4th level, an assassin becomes a master at hiding weapons on his body. He add
 
 #### True Death (Su)
 
-Starting at 4th level, anyone slain by an assassin’s death attack becomes more difficult to bring back from the dead. Spellcasters attempting to bring a creature back from the dead using [*raise dead*](../../magic/spells/raise-dead.md) or similar magic must make a caster level check with a DC equal to 15 + the assassin’s level or the spell fails and the material component is wasted. Casting [*remove curse*](../../magic/spells/remove-curse.md) the round before attempting to bring the creature back from the dead negates this chance. The DC of the *remove curse* is 10 + the assassin’s level.
+Starting at 4th level, anyone slain by an assassin’s death attack becomes more difficult to bring back from the dead. Spellcasters attempting to bring a creature back from the dead using [*raise dead*](../../magic/spells/raise-dead.md) or similar magic must make a caster level check with a DC equal to 15 + the assassin’s level or the spell fails and the material component is wasted. Casting [*remove curse*](../../magic/spells/remove-curse.md) the round before attempting to bring the creature back from the dead negates this chance. The DC of the [*remove curse*](../../magic/spells/remove-curse.md) is 10 + the assassin’s level.
 
 #### Improved Uncanny Dodge (Ex)
 
@@ -111,4 +111,4 @@ At 9th level, once per day, an assassin can make a death attack against a foe wi
 
 #### Angel of Death (Su)
 
-At 10th level, the assassin becomes a master of death. Once per day, when the assassin makes a successful death attack, he can cause the target’s body to crumble to dust. This prevents *raise dead* and [*resurrection*](../../magic/spells/resurrection.md) (although [*true resurrection*](../../magic/spells/true-resurrection.md) works as normal). The assassin must declare the use of this ability before the attack is made. If the attack misses or the target successfully saves against the death attack, this ability is wasted with no effect.
+At 10th level, the assassin becomes a master of death. Once per day, when the assassin makes a successful death attack, he can cause the target’s body to crumble to dust. This prevents [*raise dead*](../../magic/spells/raise-dead.md) and [*resurrection*](../../magic/spells/resurrection.md) (although [*true resurrection*](../../magic/spells/true-resurrection.md) works as normal). The assassin must declare the use of this ability before the attack is made. If the attack misses or the target successfully saves against the death attack, this ability is wasted with no effect.

@@ -3,6 +3,7 @@
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V, S, F (a gem or crystal worth at least 100 gp)  
+**Range** medium (100 ft. + 10 ft./level)  
 **Target** one object; see text  
 **Duration** 1 hour/level or until you return to your body  
 **Saving Throw** Will negates, see text; **Spell Resistance** yes

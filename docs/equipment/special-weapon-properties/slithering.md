@@ -11,4 +11,4 @@ This special ability can be placed only on a melee weapon. A *slithering* weapon
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *fluid form*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*fluid form*](../../magic/spells/fluid-form.md); **Price** —

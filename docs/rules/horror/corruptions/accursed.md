@@ -8,7 +8,7 @@ The corruption begins with a hateful curse, visitations from a night hag, or ano
 
 ### Progression
 
-The progression is tied to spiteful actions you take that have lasting consequences. When you inflict a permanent or long-lasting curse, such as *bestow curse*, or engage in brutal retaliation (what constitutes brutal retaliation is up to the GM, but usually includes disproportionate acts of violence against living creatures), you must attempt a Will saving throw (DC = 15 + your manifestation level). You must also attempt a saving throw after any month in which you have failed to perform a number of spiteful retaliations equal to or greater than your manifestation level. If you fail any of these saving throws, you must use the most severe punishment at your disposal against the next creature that wrongs you, even in a minor way.
+The progression is tied to spiteful actions you take that have lasting consequences. When you inflict a permanent or long-lasting curse, such as [*bestow curse*](../../../magic/spells/bestow-curse.md), or engage in brutal retaliation (what constitutes brutal retaliation is up to the GM, but usually includes disproportionate acts of violence against living creatures), you must attempt a Will saving throw (DC = 15 + your manifestation level). You must also attempt a saving throw after any month in which you have failed to perform a number of spiteful retaliations equal to or greater than your manifestation level. If you fail any of these saving throws, you must use the most severe punishment at your disposal against the next creature that wrongs you, even in a minor way.
 
 If you fail the save but your allies or others prevent you from exacting your retribution for three consecutive slights, you shake off this urge. You avoid having to exact retribution for the time being, and your corruption doesn’t progress. However, the DC of the Will save against your corruption progressing increases by 2. These increases stack each time you shake off this urge, and they last until your corruption reaches the next corruption stage.
 
@@ -52,7 +52,7 @@ You can weave magical lies to set victims up for a downfall.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: You gain a +2 bonus on Bluff and Disguise checks. You can use *dancing lights*, *disguise self*, and *ghost sound* once per day each as a spell-like ability. You can perfectly mimic the sound of any animal or voice you have ever heard. At manifestation level 3rd, the bonus doubles. At manifestation level 5th, you can use *mirage arcana* once per day as a spell-like ability.
+**Gift**: You gain a +2 bonus on Bluff and Disguise checks. You can use [*dancing lights*](../../../magic/spells/dancing-lights.md), [*disguise self*](../../../magic/spells/disguise-self.md), and [*ghost sound*](../../../magic/spells/ghost-sound.md) once per day each as a spell-like ability. You can perfectly mimic the sound of any animal or voice you have ever heard. At manifestation level 3rd, the bonus doubles. At manifestation level 5th, you can use [*mirage arcana*](../../../magic/spells/mirage-arcana.md) once per day as a spell-like ability.
 
 **Stain**: You can never speak or otherwise communicate the truth. You can still communicate by various methods, such as uttering insignificant lies, obvious lies, or nonstatements.
 
@@ -78,9 +78,9 @@ You can transform foes into mere beasts.
 
 **Prerequisite**: Manifestation level 5th.
 
-**Gift**: Add 1 to the DCs of your spells and abilities that have the curse descriptor. Once per day as a standard action (1 AP), you can use *baleful polymorph* as a spell-like ability, with a caster level equal to your character level. This counts as a curse, and the DC of any caster level check to remove it increases by 5.
+**Gift**: Add 1 to the DCs of your spells and abilities that have the curse descriptor. Once per day as a standard action (1 AP), you can use [*baleful polymorph*](../../../magic/spells/baleful-polymorph.md) as a spell-like ability, with a caster level equal to your character level. This counts as a curse, and the DC of any caster level check to remove it increases by 5.
 
-**Stain**: You take a –2 penalty on Will saves. If you have this manifestation’s gift, using your *baleful polymorph* curse negates the penalty until the next day.
+**Stain**: You take a –2 penalty on Will saves. If you have this manifestation’s gift, using your [*baleful polymorph*](../../../magic/spells/baleful-polymorph.md) curse negates the penalty until the next day.
 
 ### Undying Hatred
 

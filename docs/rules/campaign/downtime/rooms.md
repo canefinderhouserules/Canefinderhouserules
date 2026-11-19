@@ -19,7 +19,7 @@ This room aids you when you’re attempting Craft (alchemy) checks, researching 
 ### Altar
 
 **Earnings**: Influence +3  
-**Benefit**: counts as a permanent fixture dedicated to your deity for the purpose of *consecrate* and similar spells  
+**Benefit**: counts as a permanent fixture dedicated to your deity for the purpose of [*consecrate*](../../../magic/spells/consecrate.md) and similar spells  
 **Create**: 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp); **Time**: 4 days  
 **Size**: 2–8 squares
 
@@ -247,7 +247,7 @@ This large, open area might be constructed to feature decorative landscaping or 
 **Size**: 8–30 squares  
 **Upgrades From**: Burial Ground
 
-This space is dedicated to the storage of prominent corpses. Above ground this space might take the form of a tomb. The duration of spells that preserve or protect corpses (such as *gentle repose*) are doubled when cast on a corpse that remains in this room.
+This space is dedicated to the storage of prominent corpses. Above ground this space might take the form of a tomb. The duration of spells that preserve or protect corpses (such as [*gentle repose*](../../../magic/spells/gentle-repose.md)) are doubled when cast on a corpse that remains in this room.
 
 ### Defensive Wall
 
@@ -600,7 +600,7 @@ A Scriptorium is where scribes do their work. It contains chairs and writing des
 **Create**: 6 Goods, 1 Influence, 5 Labor, 3 Magic (550 gp); **Time**: 16 days  
 **Size**: 4–16 squares
 
-A Scrying Room is built to be a quiet place for scrying, seances, and similar divinations. It contains a table, chairs, and either a pool of water (at no additional cost) or a suitable focus object for a scrying spell (for an additional 1,000 gp). A caster using *scrying*, *locate creature*, or a similar targeted divination from here increases the spell’s DC by 1.
+A Scrying Room is built to be a quiet place for scrying, seances, and similar divinations. It contains a table, chairs, and either a pool of water (at no additional cost) or a suitable focus object for a scrying spell (for an additional 1,000 gp). A caster using [*scrying*](../../../magic/spells/scrying.md), [*locate creature*](../../../magic/spells/locate-creature.md), or a similar targeted divination from here increases the spell’s DC by 1.
 
 ### Secret Room
 
@@ -694,7 +694,7 @@ This is a simple storefront, holding a wooden counter, a ledger, shelves, and ot
 **Create**: 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp); **Time**: 28 days  
 **Size**: 6–16 squares
 
-A Summoning Chamber is used to perform magical rituals to conjure outsiders. It contains a well-drawn, nearly complete magic circle on the floor—which you can complete with just a few chalk marks—suitable for use with *magic circle* spells, *planar binding* spells, and so on. A person who uses a Summoning Chamber gains a +3 bonus on Knowledge (planes) checks relating to a creature being called or summoned, and a +3 bonus on Charisma checks, Diplomacy checks, and Intimidate checks to influence or bargain with a creature called or summoned here.
+A Summoning Chamber is used to perform magical rituals to conjure outsiders. It contains a well-drawn, nearly complete magic circle on the floor—which you can complete with just a few chalk marks—suitable for use with *magic circle* spells, [*planar binding*](../../../magic/spells/planar-binding.md) spells, and so on. A person who uses a Summoning Chamber gains a +3 bonus on Knowledge (planes) checks relating to a creature being called or summoned, and a +3 bonus on Charisma checks, Diplomacy checks, and Intimidate checks to influence or bargain with a creature called or summoned here.
 
 ### Throne Room
 
@@ -793,7 +793,7 @@ This augmentation integrates a room into a large, sturdy tree or trees, raising 
 **Create**: 5 Goods, 5 Labor, 3 Magic (500 gp); **Time**: 20 days  
 **Size**: as original room
 
-This augmentation integrates a room into the surrounding natural environment, putting the space into symbiosis with the local ecosystems. An Attuned room in a forest can be built amid great trees that act as some of the primary walls, while an Attuned room in a desert might be built to help foster the growth of desert plants. Once this augmentation is completed, the room is considered to be representative of the local flora for purposes of spells such as *entangle* or *spike growth*.
+This augmentation integrates a room into the surrounding natural environment, putting the space into symbiosis with the local ecosystems. An Attuned room in a forest can be built amid great trees that act as some of the primary walls, while an Attuned room in a desert might be built to help foster the growth of desert plants. Once this augmentation is completed, the room is considered to be representative of the local flora for purposes of spells such as [*entangle*](../../../magic/spells/entangle.md) or [*spike growth*](../../../magic/spells/spike-growth.md).
 
 ### Fortification (augmentation)
 

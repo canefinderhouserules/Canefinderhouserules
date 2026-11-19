@@ -11,4 +11,4 @@ This special ability can be placed only on bludgeoning melee weapons. Whenever t
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *modify memory*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*modify memory*](../../magic/spells/modify-memory.md); **Price** —

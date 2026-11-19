@@ -3,6 +3,7 @@
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 5, inquisitor 4, paladin 4  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
+**Range** 10 ft.  
 **Area** 10-ft.-radius burst, centered on you  
 **Duration** 1 round/level (D; see text)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)

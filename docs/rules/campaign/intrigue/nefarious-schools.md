@@ -83,7 +83,7 @@ With hidden locations and difficult methods to gain entry, secret schools teach 
 
 - **Obliviating Blow (10 Fame, 5 PP)**: You can enforce the order’s secrecy with a well-placed attack if you have the ki pool or knockout ability. This ability functions like knockout except that it costs 2 ki points or a use of knockout. If the target is knocked out, it forgets all events that took place during the last 1d4 hours.
 - **Sensei (20 Fame, 10 PP)**: In place of a brawler, fighter, or monk bonus feat or a ninja trick, you can choose Exotic Weapon Proficiency or any style feat for which you qualify.
-- **Divine Blessing (35 Fame, 30 PP)**: Once per day, you can cast *blessing of fervor* as a spell-like ability using your character level as your cleric level. If you cast the spell in the course of trying to avoid or escape persecution for your faith, the spell’s effects last 2 rounds longer.
+- **Divine Blessing (35 Fame, 30 PP)**: Once per day, you can cast [*blessing of fervor*](../../../magic/spells/blessing-of-fervor.md) as a spell-like ability using your character level as your cleric level. If you cast the spell in the course of trying to avoid or escape persecution for your faith, the spell’s effects last 2 rounds longer.
 
 ## Spy Academies
 
@@ -100,13 +100,13 @@ Spy academies train their pupils to be utterly confident and impossible to detec
 *Sample awards*:
 
 - **Aristocratic Contacts (5 Fame, 1 PP)**: You can call upon the academy’s connections to get a low-level aristocrat to write you a letter of introduction, provide an alibi by claiming you visited the aristocrat for up to 8 hours on a particular day, or otherwise provide simple assistance.
-- **Mind Reader (15 Fame, 10 PP)**: You learn to glean the thoughts hidden by lies. Once per day as a full-round action (3 AP), when you discern a lie with a successful Sense Motive check, you can learn the liar’s surface thoughts (as per the third round of concentration during a *detect thoughts* spell). The target can negate your intrusion with a successful Will saving throw (DC = 10 + 1/2 your character level + your Charisma modifier). This is a mind-affecting divination spell-like ability.
+- **Mind Reader (15 Fame, 10 PP)**: You learn to glean the thoughts hidden by lies. Once per day as a full-round action (3 AP), when you discern a lie with a successful Sense Motive check, you can learn the liar’s surface thoughts (as per the third round of concentration during a [*detect thoughts*](../../../magic/spells/detect-thoughts.md) spell). The target can negate your intrusion with a successful Will saving throw (DC = 10 + 1/2 your character level + your Charisma modifier). This is a mind-affecting divination spell-like ability.
 - **Subcontracted Spy (5 Fame, 1 PP)**: You can call upon an NPC spy serving the school to learn information about a target of your choice with a CR less than your character level. You receive the report after 1d4 days, and it includes at least as much information as if you had succeeded at a Diplomacy check to gather information about the subject with a result equal to 10 + 1/2 your Fame score.
 - **Poison Use (5 Fame, 1 PP)**: You are trained to handle poisons safely. You never risk accidentally poisoning yourself.
 - **Quicker than the Eye (5 Fame, 1 PP)**: You become specialized in the Sleight of Hand skill.
 - **Sabotage Specialist (5 Fame, 1 PP)**: You become specialized in Disable Device.
 - **Intelligence Drop (5 Fame, 1 PP)**: You can request intelligence dossiers from the academy on matters relevant to a mission. Within 1d4 days, an undercover courier delivers documents containing information as if you had achieved a result equal to 10 + 1/2 your Fame score on a Diplomacy check to gather information on the topic.
-- **Whisper Campaign (25 Fame, 5 PP)**: Once per term, you can ask the academy’s students to spread a rumor for you, as if you had cast the *rumormonger* spell. See [Rumors](rumors.md) for the potential effects of rumors.
+- **Whisper Campaign (25 Fame, 5 PP)**: Once per term, you can ask the academy’s students to spread a rumor for you, as if you had cast the [*rumormonger*](../../../magic/spells/rumormonger.md) spell. See [Rumors](rumors.md) for the potential effects of rumors.
 
 ## Generic Prestige Awards
 
@@ -120,9 +120,9 @@ Beyond the specific prestige awards that each nefarious school grants, students 
 
 **Spellcasting**: By spending the listed Prestige Point total, you can have any of the following spells cast for you (the CL in each case is the minimum possible for the spell).
 
-- **1 PP**: *Cure moderate wounds*, *dispel magic*, *lesser restoration*, *make whole*, *remove blindness/deafness*, *remove curse*, *remove disease*, *remove paralysis*.
-- **2 PP**: *Atonement* (8 PP to restore alignment-based class abilities), *break enchantment*, *cure serious wounds*, *greater dispel magic*, *neutralize poison*, *restoration* (4 PP to remove permanent negative levels).
-- **3 PP**: *Heal*, *regenerate*.
-- **16 PP**: *Greater restoration*, *raise dead*.
-- **32 PP**: *Resurrection*.
-- **77 PP**: *True resurrection*.
+- **1 PP**: [*Cure moderate wounds*](../../../magic/spells/cure-moderate-wounds.md), [*dispel magic*](../../../magic/spells/dispel-magic.md), [*lesser restoration*](../../../magic/spells/restoration-lesser.md), [*make whole*](../../../magic/spells/make-whole.md), [*remove blindness/deafness*](../../../magic/spells/remove-blindness-deafness.md), [*remove curse*](../../../magic/spells/remove-curse.md), [*remove disease*](../../../magic/spells/remove-disease.md), [*remove paralysis*](../../../magic/spells/remove-paralysis.md).
+- **2 PP**: [*Atonement*](../../../magic/spells/atonement.md) (8 PP to restore alignment-based class abilities), [*break enchantment*](../../../magic/spells/break-enchantment.md), [*cure serious wounds*](../../../magic/spells/cure-serious-wounds.md), [*greater dispel magic*](../../../magic/spells/dispel-magic-greater.md), [*neutralize poison*](../../../magic/spells/neutralize-poison.md), [*restoration*](../../../magic/spells/restoration.md) (4 PP to remove permanent negative levels).
+- **3 PP**: [*Heal*](../../../magic/spells/heal.md), [*regenerate*](../../../magic/spells/regenerate.md).
+- **16 PP**: [*Greater restoration*](../../../magic/spells/restoration-greater.md), [*raise dead*](../../../magic/spells/raise-dead.md).
+- **32 PP**: [*Resurrection*](../../../magic/spells/resurrection.md).
+- **77 PP**: [*True resurrection*](../../../magic/spells/true-resurrection.md).

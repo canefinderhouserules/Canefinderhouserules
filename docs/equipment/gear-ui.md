@@ -223,7 +223,7 @@ An efreeti switch is the activation device for efreeti cord; it measures approxi
 
 **Price** 190 gp; **Weight** —
 
-When imbibed, this cloudy, pink liquid grants you 1d4 uses of alchemical inspiration that can be used only on Bluff checks to lie or to deliver secret messages. Additionally, you can spend two uses of alchemical inspiration to gain inspiration on a saving throw against truth-detecting or truth-forcing magic (such as *discern lies* or *zone of truth*).
+When imbibed, this cloudy, pink liquid grants you 1d4 uses of alchemical inspiration that can be used only on Bluff checks to lie or to deliver secret messages. Additionally, you can spend two uses of alchemical inspiration to gain inspiration on a saving throw against truth-detecting or truth-forcing magic (such as [*discern lies*](../magic/spells/discern-lies.md) or [*zone of truth*](../magic/spells/zone-of-truth.md)).
 
 The benefits of falsehood fizz last for 1 hour. During this time, you must roll Sense Motive checks twice and take the worse result.
 

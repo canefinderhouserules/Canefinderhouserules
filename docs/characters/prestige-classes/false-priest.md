@@ -55,13 +55,13 @@ A false priest may select one of the following domains: Charm, Evil, Law, or Tri
 
 #### First Ritual (Su)
 
-At 1st level, a false priest adds both [*bless*](../../magic/spells/bless.md) and [*cure light wounds*](../../magic/spells/cure-light-wounds.md) to one of his arcane spell lists, but treats them as if they were 2nd-level spells. If he is a spontaneous caster, they are also added to his list of spells known. Whenever he casts *cure light wounds* using this ability, the hit points healed are instead treated as temporary hit points that last 10 minutes per false priest level, although the subject of the spell does not notice this difference until the duration expires. Temporary hit points from this (and any subsequent cure spells) do not stack.
+At 1st level, a false priest adds both [*bless*](../../magic/spells/bless.md) and [*cure light wounds*](../../magic/spells/cure-light-wounds.md) to one of his arcane spell lists, but treats them as if they were 2nd-level spells. If he is a spontaneous caster, they are also added to his list of spells known. Whenever he casts [*cure light wounds*](../../magic/spells/cure-light-wounds.md) using this ability, the hit points healed are instead treated as temporary hit points that last 10 minutes per false priest level, although the subject of the spell does not notice this difference until the duration expires. Temporary hit points from this (and any subsequent cure spells) do not stack.
 
 In addition, whenever a false priest uses [False Casting](../../rules/feats/false-casting.md) to cast a 0- or 1st-level spell on the cleric spell list, he receives a +10 circumstance bonus on any opposed [Bluff](../../rules/skills/bluff.md) check made when casting the spell.
 
 #### False Channel (Su)
 
-Starting at 2nd level, a false priest can channel positive energy to heal living creatures like a cleric, healing 1d6 points of damage, plus 1d6 points of damage for every two false priest levels after 2nd. He can use this ability a number of times per day equal to 3 + his Intelligence or Charisma modifier (whichever is higher). The hit points healed by this ability are treated as temporary hit points, and last for 10 minutes per false priest level. These hit points do not stack with themselves (although they do stack with those from *cure light wounds* cast using the first ritual class feature). This ability does not count for the purposes of meeting any prerequisites that call for the ability to channel energy. This ability cannot be used to harm undead creatures.
+Starting at 2nd level, a false priest can channel positive energy to heal living creatures like a cleric, healing 1d6 points of damage, plus 1d6 points of damage for every two false priest levels after 2nd. He can use this ability a number of times per day equal to 3 + his Intelligence or Charisma modifier (whichever is higher). The hit points healed by this ability are treated as temporary hit points, and last for 10 minutes per false priest level. These hit points do not stack with themselves (although they do stack with those from [*cure light wounds*](../../magic/spells/cure-light-wounds.md) cast using the first ritual class feature). This ability does not count for the purposes of meeting any prerequisites that call for the ability to channel energy. This ability cannot be used to harm undead creatures.
 
 #### Master of Lies (Ex)
 
@@ -69,7 +69,7 @@ At 3rd level, a false priest adds his class level to any Bluff check made as par
 
 #### Second Ritual (Su)
 
-At 5th level, a false priest adds [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) and [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) to one of his arcane spell lists, but treats them as if they were 3rd-level spells. If he is a spontaneous caster, they are also added to his list of spells known. As with the first ritual, any hit points gained from *cure moderate wounds* are temporary hit points. Finally, whenever a false priest uses False Casting to cast a 2nd- or 3rd-level spell on the cleric spell list, he receives a +10 circumstance bonus on any opposed Bluff check made when casting the spell.
+At 5th level, a false priest adds [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) and [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) to one of his arcane spell lists, but treats them as if they were 3rd-level spells. If he is a spontaneous caster, they are also added to his list of spells known. As with the first ritual, any hit points gained from [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) are temporary hit points. Finally, whenever a false priest uses False Casting to cast a 2nd- or 3rd-level spell on the cleric spell list, he receives a +10 circumstance bonus on any opposed Bluff check made when casting the spell.
 
 #### Conversion (Su)
 
@@ -77,7 +77,7 @@ At 7th level, whenever a false priest heals himself using false channel, the eff
 
 #### Third Ritual (Su)
 
-At 9th level, a false priest adds [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) and [*prayer*](../../magic/spells/prayer.md) to one of his arcane spell lists, but treats them as if they were 4th-level spells. If he is a spontaneous caster, they are also added to his list of spells known. As with the first ritual, any hit points gained from *cure serious wounds* are temporary hit points. Finally, whenever a false priest uses False Casting to cast a 4th- or 5th-level spell on the cleric spell list, he receives a +10 circumstance bonus on any opposed Bluff check made when casting the spell.
+At 9th level, a false priest adds [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) and [*prayer*](../../magic/spells/prayer.md) to one of his arcane spell lists, but treats them as if they were 4th-level spells. If he is a spontaneous caster, they are also added to his list of spells known. As with the first ritual, any hit points gained from [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) are temporary hit points. Finally, whenever a false priest uses False Casting to cast a 4th- or 5th-level spell on the cleric spell list, he receives a +10 circumstance bonus on any opposed Bluff check made when casting the spell.
 
 #### True Pretender (Su)
 

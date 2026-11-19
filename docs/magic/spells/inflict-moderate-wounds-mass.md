@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will half; **Spell Resistance** yes
 
-This spell functions like *mass inflict light wounds*, except that it deals 2d8 points of damage + 1 point per caster level (maximum +30).
+This spell functions like [*mass inflict light wounds*](inflict-light-wounds-mass.md), except that it deals 2d8 points of damage + 1 point per caster level (maximum +30).

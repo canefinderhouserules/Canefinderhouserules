@@ -3,6 +3,7 @@
 **School** necromancy; **Level** psychic 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a vial containing a bit of the caster’s breath)  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature/2 levels (no two of which may be more than 30 feet apart)  
 **Duration** 1 round/level  
 **Saving Throw** Fortitude partial; **Spell Resistance** yes

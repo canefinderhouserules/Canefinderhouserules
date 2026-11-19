@@ -179,7 +179,7 @@
 - **[Scamper](scamper.md)**: Grant your animal companion astonishing agility.
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
-- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Alarm](selective-alarm.md)**: As [*alarm*](alarm.md), but only against selected creatures.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
@@ -248,7 +248,7 @@
 - **[Life Current](life-current.md)**: You infuse the current with positive energy.
 - **[Longstrider, Greater](longstrider-greater.md)**: personal Target you Duration 1 hour/level (D)
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
-- **[Martyr’s Last Blessing](martyrs-last-blessing.md)**: Your death releases *mass cure light wounds* on your allies.
+- **[Martyr’s Last Blessing](martyrs-last-blessing.md)**: Your death releases [*mass cure light wounds*](cure-light-wounds-mass.md) on your allies.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
@@ -287,7 +287,7 @@
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
-- **[Thorn Snare](thorn-snare.md)**: As *snare*, and the thorny vine damages whoever it traps.
+- **[Thorn Snare](thorn-snare.md)**: As [*snare*](snare.md), and the thorny vine damages whoever it traps.
 - **[Thorny Entanglement](thorny-entanglement.md)**: This spell functions as entangle, except the plants also grow thorns and can fling them up to 15 feet.
 - **[Thunderstomp, Greater](thunderstomp-greater.md)**: This spell functions as thunderstomp, except as noted.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.

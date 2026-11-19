@@ -11,4 +11,4 @@ This special ability can be placed only on melee weapons. A *fortuitous* weapon 
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *haste*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*haste*](../../magic/spells/haste.md); **Price** —

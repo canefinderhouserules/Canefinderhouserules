@@ -14,6 +14,6 @@ First, each warded creature gains a +4 deflection bonus to AC and a +4 resistanc
 
 Second, a warded creature gains spell resistance 25 against chaotic spells and spells cast by chaotic creatures.
 
-Third, the abjuration protects you from possession and mental influence, just as *protection from chaos* does.
+Third, the abjuration protects you from possession and mental influence, just as [*protection from chaos*](protection-from-chaos.md) does.
 
 Finally, if a chaotic creature succeeds on a melee attack against a warded creature, the attacker is *slowed* (Will save negates, as the [*slow*](slow.md) spell, but against *shield of law*’s save DC).

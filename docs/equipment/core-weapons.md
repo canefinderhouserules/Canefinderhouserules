@@ -26,7 +26,7 @@ Although they are thrown weapons, shuriken are treated as ammunition for the pur
 
 **Light, One-Handed, and Two-Handed Melee Weapons**: This designation is a measure of how much effort it takes to wield a weapon in combat. It indicates whether a melee weapon, when wielded by a character of the weapon’s size category, is considered a light weapon, a one-handed weapon, or a two-handed weapon.
 
-*Light*: A light weapon is used in one hand. It is easier to use in one’s off hand than a one-handed weapon is, and can be used while grappling. Add the wielder’s Strength modifier to damage rolls for melee attacks with a light weapon if it’s used in the primary hand, or half the wielder’s Strength bonus if it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength bonus applies as though the weapon were held in the wielder’s primary hand only.
+[*Light*](../magic/spells/light.md): A light weapon is used in one hand. It is easier to use in one’s off hand than a one-handed weapon is, and can be used while grappling. Add the wielder’s Strength modifier to damage rolls for melee attacks with a light weapon if it’s used in the primary hand, or half the wielder’s Strength bonus if it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength bonus applies as though the weapon were held in the wielder’s primary hand only.
 
 An unarmed strike is always considered a light weapon.
 

@@ -13,4 +13,4 @@ Both living and undead creatures can benefit from the healing. A *vampiric* weap
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *cure moderate wounds*, *inflict moderate wounds*, *vampiric touch*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md), [*inflict moderate wounds*](../../magic/spells/inflict-moderate-wounds.md), [*vampiric touch*](../../magic/spells/vampiric-touch.md); **Price** —

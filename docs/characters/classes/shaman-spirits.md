@@ -6,7 +6,7 @@ Each shaman must select from the following spirits. Unless otherwise noted, the 
 
 A shaman that selects the ancestors spirit has wise eyes and thick white or silver hair. Fine wrinkles line the shaman's face, becoming more obvious when she smiles or glowers. When she calls upon one of this spirit's abilities, her hair glows as though lit from within, rustling of its own accord.
 
-**Spirit Magic Spells**: *Unseen servant* (1st), [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) (2nd), [*heroism*](../../magic/spells/heroism.md) (3rd), [*spiritual ally*](../../magic/spells/spiritual-ally.md) (4th), [*telekinesis*](../../magic/spells/telekinesis.md) (5th), *greater heroism* (6th), [*ethereal jaunt*](../../magic/spells/ethereal-jaunt.md) (7th), [*vision*](../../magic/spells/vision.md) (8th), [*astral projection*](../../magic/spells/astral-projection.md) (9th).
+**Spirit Magic Spells**: [*Unseen servant*](../../magic/spells/unseen-servant.md) (1st), [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) (2nd), [*heroism*](../../magic/spells/heroism.md) (3rd), [*spiritual ally*](../../magic/spells/spiritual-ally.md) (4th), [*telekinesis*](../../magic/spells/telekinesis.md) (5th), [*greater heroism*](../../magic/spells/heroism-greater.md) (6th), [*ethereal jaunt*](../../magic/spells/ethereal-jaunt.md) (7th), [*vision*](../../magic/spells/vision.md) (8th), [*astral projection*](../../magic/spells/astral-projection.md) (9th).
 
 **Hexes**: A shaman who chooses the ancestors spirit can select from the following hexes.
 
@@ -34,7 +34,7 @@ A shaman that selects the ancestors spirit has wise eyes and thick white or silv
 
 **Ancestral Guardian (Sp)**: The shaman can call on the ancient allies of her ancestors to physically appear and assist her, even if they have moved on to new roles in the cosmos. Once per day as a standard action (1 AP), the shaman can cast [*planar ally*](../../magic/spells/planar-ally.md). Although there is no cost to use the spell-like ability, the planar ally demands payment for services it performs as normal for the spell.
 
-**Manifestation**: Upon reaching 20th level, the shaman becomes one with the spirits of her ancestors. She gains a bonus on Will saving throws equal to her Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus to her caster level for all divination spells. She can cast *astral projection* as a spell-like ability once per day without requiring material components.
+**Manifestation**: Upon reaching 20th level, the shaman becomes one with the spirits of her ancestors. She gains a bonus on Will saving throws equal to her Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus to her caster level for all divination spells. She can cast [*astral projection*](../../magic/spells/astral-projection.md) as a spell-like ability once per day without requiring material components.
 
 ## Battle
 
@@ -144,7 +144,7 @@ A shaman who selects the flame spirit has a radiant light behind her eyes and th
 
 Far to the north, tribes have adapted to life in the bitter cold. The frost spirit is seen by some as a protector of their way of life, and shamans who commune with the spirit are shown great respect in their communities. A shaman who selects the frost spirit has coarse white hair and always feels cold to the touch.
 
-**Spirit Magic Spells**: *Frostbite* (1st), [*elemental touch*](../../magic/spells/elemental-touch.md) (cold only, 2nd), [*elemental aura*](../../magic/spells/elemental-aura.md) (cold only, 3rd), [*ice storm*](../../magic/spells/ice-storm.md) (4th), *summon monster V* (ice elementals only, 5th), [*freezing sphere*](../../magic/spells/freezing-sphere.md) (6th), [*ice body*](../../magic/spells/ice-body.md) (7th), [*polar ray*](../../magic/spells/polar-ray.md) (8th), *mass icy prison* (9th).
+**Spirit Magic Spells**: [*Frostbite*](../../magic/spells/frostbite.md) (1st), [*elemental touch*](../../magic/spells/elemental-touch.md) (cold only, 2nd), [*elemental aura*](../../magic/spells/elemental-aura.md) (cold only, 3rd), [*ice storm*](../../magic/spells/ice-storm.md) (4th), [*summon monster V*](../../magic/spells/summon-monster-v.md) (ice elementals only, 5th), [*freezing sphere*](../../magic/spells/freezing-sphere.md) (6th), [*ice body*](../../magic/spells/ice-body.md) (7th), [*polar ray*](../../magic/spells/polar-ray.md) (8th), [*mass icy prison*](../../magic/spells/icy-prison-mass.md) (9th).
 
 **Hexes**: A shaman who chooses the frost spirit can select from the following hexes.
 
@@ -170,7 +170,7 @@ Far to the north, tribes have adapted to life in the bitter cold. The frost spir
 
 **True Spirit Ability**: A shaman who chooses the frost spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Guardian of the North (Su)**: As a standard action (1 AP), the shaman assumes the form, as *beast shape IV*, of one of the following animals: dire bear, dire tiger, mastodon, or woolly rhinoceros. The duration of this transformation is 1 hour per level. The shaman can use this ability once per day.
+**Guardian of the North (Su)**: As a standard action (1 AP), the shaman assumes the form, as [*beast shape IV*](../../magic/spells/beast-shape-iv.md), of one of the following animals: dire bear, dire tiger, mastodon, or woolly rhinoceros. The duration of this transformation is 1 hour per level. The shaman can use this ability once per day.
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes a being of ice and snow. The shaman gains immunity to cold. She can also apply any one of the following feats to any spell with the cold descriptor that she casts without increasing the spell's level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. She doesn't need to have these feats to use this ability.
 
@@ -304,7 +304,7 @@ A shaman who selects the mammoth spirit is abnormally tall and stocky, with thic
 
 **Megafauna Companion (Su)**: The shaman's spirit animal transforms into a megafauna animal companion, using the shaman's shaman level as her effective druid level. The shaman must choose an arsinoitherium, a mastodon, a megaloceros, or another mammalian megafauna that has animal companion statistics. It retains its Intelligence score and the special abilities it gains from the spirit animal class feature, but it also has the statistics and abilities of an animal companion. If the animal companion is dismissed, lost, or dies, it can be replaced in the same way as a normal spirit animal.
 
-**Manifestation**: At 20th level, the shaman can transform into any animal listed under the megafauna or elephant heading. This ability works as *beast shape IV*, but the shaman can activate and dismiss the ability as often as she likes and the duration is permanent.
+**Manifestation**: At 20th level, the shaman can transform into any animal listed under the megafauna or elephant heading. This ability works as [*beast shape IV*](../../magic/spells/beast-shape-iv.md), but the shaman can activate and dismiss the ability as often as she likes and the duration is permanent.
 
 ## Nature
 
@@ -412,7 +412,7 @@ A shaman who selects the Outer Dark spirit is often a misanthropic loner. While 
 
 The spirits of the Outer Dark have often been known to whisper dangerous secrets to mortals who dwell on sane worlds. Such spirits might be found anywhere touched by the light of baleful stars, but they are most frequently found lurking around unfathomably ancient ruins of aberrant civilizations.
 
-**Spirit Magic Spells**: [*entropic shield*](../../magic/spells/entropic-shield.md) (1st), *contact entity I* (2nd), *contact entity II* (3rd), [*black tentacles*](../../magic/spells/black-tentacles.md) (4th), *contact entity III* (5th), [*feeblemind*](../../magic/spells/feeblemind.md) (6th), *contact entity IV* (7th), [*insanity*](../../magic/spells/insanity.md) (8th), [*interplanetary teleport*](../../magic/spells/interplanetary-teleport.md) (9th).
+**Spirit Magic Spells**: [*entropic shield*](../../magic/spells/entropic-shield.md) (1st), [*contact entity I*](../../magic/spells/contact-entity-i.md) (2nd), [*contact entity II*](../../magic/spells/contact-entity-ii.md) (3rd), [*black tentacles*](../../magic/spells/black-tentacles.md) (4th), [*contact entity III*](../../magic/spells/contact-entity-iii.md) (5th), [*feeblemind*](../../magic/spells/feeblemind.md) (6th), [*contact entity IV*](../../magic/spells/contact-entity-iv.md) (7th), [*insanity*](../../magic/spells/insanity.md) (8th), [*interplanetary teleport*](../../magic/spells/interplanetary-teleport.md) (9th).
 
 **Hexes**: A shaman who chooses the Outer Dark spirit can select from the following hexes. As with all hexes, the DC to save against the special abilities granted by this spirit is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
 
@@ -436,11 +436,11 @@ The spirits of the Outer Dark have often been known to whisper dangerous secrets
 
 *Horrific Glimpse (Sp)*: Once per day, the shaman can gain the effects of [*contact other plane*](../../magic/spells/contact-other-plane.md) after 1 hour of meditation. No components are required in order to use this ability, but the shaman does not get to select which plane she contacts. Instead, this version of the spell contacts an alien mind from somewhere in the void between the stars, be it a hive mind of alien monstrosities, the disembodied sentience of a dead planet, or even the slumbering and insane mind of a being of cosmic power. The shaman must succeed at a DC 16 Wisdom check rather than an Intelligence check to avoid a decrease in Intelligence or Charisma when using this ability. If she fails the check, her Intelligence and Charisma scores each fall to 8 for 5 weeks, as the alien minds thus contacted prove as destructive to mortal thoughts as direct contact with the most powerful of deities. The types of answers provided by the horrific glimpse, be they true answers, ignorance, lies, or random answers, are considered equal to those of a greater deity if the questions being asked concern the Material Plane, but they are equal to those of a demigod if the questions posed concern any other plane.
 
-Also once per day (but only after first using this ability as per *contact other plane*), the shaman can reveal a fragment of this horrific vision to another creature, as per [*phantasmal killer*](../../magic/spells/phantasmal-killer.md), except that the target takes 1d4+1 points of Wisdom damage regardless of the results of any of its saving throws. The body of a creature slain by this effect is always hideously mutilated and savaged, making spells like *speak with dead* useless.
+Also once per day (but only after first using this ability as per [*contact other plane*](../../magic/spells/contact-other-plane.md)), the shaman can reveal a fragment of this horrific vision to another creature, as per [*phantasmal killer*](../../magic/spells/phantasmal-killer.md), except that the target takes 1d4+1 points of Wisdom damage regardless of the results of any of its saving throws. The body of a creature slain by this effect is always hideously mutilated and savaged, making spells like [*speak with dead*](../../magic/spells/speak-with-dead.md) useless.
 
 **True Spirit Ability**: A shaman who chooses the Outer Dark spirit as her spirit or wandering spirit acquires the following ability upon gaining access to the true version of that spirit.
 
-*Unbound Form (Su)*: The shaman can assume a variety of forms, as per *greater polymorph*, for 1 minute per day per shaman level. The minutes need not be consecutive, but they must be spent in 1-minute increments. When she assumes these forms, some element of the new shape always sets it apart from a typical specimen, such as strangely colored eyes, limbs that bend in unusual ways, or a slimy coating of mucus over the flesh.
+*Unbound Form (Su)*: The shaman can assume a variety of forms, as per [*greater polymorph*](../../magic/spells/polymorph-greater.md), for 1 minute per day per shaman level. The minutes need not be consecutive, but they must be spent in 1-minute increments. When she assumes these forms, some element of the new shape always sets it apart from a typical specimen, such as strangely colored eyes, limbs that bend in unusual ways, or a slimy coating of mucus over the flesh.
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes an unnatural spirit of the void. She gains damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. While she retains much of her original appearance, several minor cosmetic changes leave no doubt as to her now-alien nature. Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her legs might bend backward at the knees. Once per day, the shaman can cast [*shapechange*](../../magic/spells/shapechange.md) as a spell-like ability without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
 
@@ -448,7 +448,7 @@ Also once per day (but only after first using this ability as per *contact other
 
 A shaman who selects the tribe spirit strives to protect her allies, whether they be a traditional tribal unit or a chosen group of adventuring companions.
 
-**Spirit Magic Spells**: [*bless*](../../magic/spells/bless.md) (1st), [*shield other*](../../magic/spells/shield-other.md) (2nd), [*create food and water*](../../magic/spells/create-food-and-water.md) (3rd), *spiritual ally* (4th), [*life bubble*](../../magic/spells/life-bubble.md) (5th), [*battlemind link*](../../magic/spells/battlemind-link.md) (6th), *vision* (7th), [*discern location*](../../magic/spells/discern-location.md) (8th), *mass heal* (9th).
+**Spirit Magic Spells**: [*bless*](../../magic/spells/bless.md) (1st), [*shield other*](../../magic/spells/shield-other.md) (2nd), [*create food and water*](../../magic/spells/create-food-and-water.md) (3rd), [*spiritual ally*](../../magic/spells/spiritual-ally.md) (4th), [*life bubble*](../../magic/spells/life-bubble.md) (5th), [*battlemind link*](../../magic/spells/battlemind-link.md) (6th), [*vision*](../../magic/spells/vision.md) (7th), [*discern location*](../../magic/spells/discern-location.md) (8th), [*mass heal*](../../magic/spells/heal-mass.md) (9th).
 
 **Hexes**: A shaman who chooses the tribe spirit can select from the following hexes.
 
@@ -598,7 +598,7 @@ If a spirit specialization hex or ability calls for a saving throw, the DC of th
 
 **Associated Spirit**: Life.
 
-**Spirit Magic Spell**: *Remove sickness* replaces the life spirit’s 1st-level spirit magic spell.
+**Spirit Magic Spell**: [*Remove sickness*](../../magic/spells/remove-sickness.md) replaces the life spirit’s 1st-level spirit magic spell.
 
 **Replacement Hexes**: The following life spirit hexes replace the curse of suffering and deny succor hexes that a shaman can select from the life spirit.
 
@@ -610,7 +610,7 @@ The target always loses these temporary hit points first, even before other temp
 
 **True Spirit Ability**: The following true spirit ability replaces the quick healing ability of the life spirit.
 
-**Spirit of Life (Su)**: The shaman’s spirit animal transforms into a conduit of life energy able to store succoring magic that can keep the shaman’s allies safe. This allows the spirit animal to cast [*stabilize*](../../magic/spells/stabilize.md) as a spell-like ability at will using the shaman’s level as the spell’s caster level. In addition, the shaman can transfer any cure spell (a spell with “cure” in its name) she casts to her spirit animal as a swift action (1 AP), provided that the spirit animal is within 30 feet of her. This functions like [*imbue with spell ability*](../../magic/spells/imbue-with-spell-ability.md), except a spirit animal can be imbued with a cure spell of any spell level that its master can cast regardless of the spirit animal’s Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely, but the shaman cannot prepare a new spell in the imbued spell’s spell slot until her spirit animal uses the spell or it is slain, or until she dismisses the *imbue with spell ability* effect (a free action).
+**Spirit of Life (Su)**: The shaman’s spirit animal transforms into a conduit of life energy able to store succoring magic that can keep the shaman’s allies safe. This allows the spirit animal to cast [*stabilize*](../../magic/spells/stabilize.md) as a spell-like ability at will using the shaman’s level as the spell’s caster level. In addition, the shaman can transfer any cure spell (a spell with “cure” in its name) she casts to her spirit animal as a swift action (1 AP), provided that the spirit animal is within 30 feet of her. This functions like [*imbue with spell ability*](../../magic/spells/imbue-with-spell-ability.md), except a spirit animal can be imbued with a cure spell of any spell level that its master can cast regardless of the spirit animal’s Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely, but the shaman cannot prepare a new spell in the imbued spell’s spell slot until her spirit animal uses the spell or it is slain, or until she dismisses the [*imbue with spell ability*](../../magic/spells/imbue-with-spell-ability.md) effect (a free action).
 
 A spirit animal can be imbued with only one spell at a time in this manner. If the spirit animal is slain while it is imbued with a cure spell, that spell is lost.
 

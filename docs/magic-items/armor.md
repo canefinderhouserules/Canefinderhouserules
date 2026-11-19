@@ -76,7 +76,7 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 
 **Bulletproof**: Armor with this ability grants a +4 bonus to AC against firearms. In older settings, before the invention of modern bulletproof materials, this bonus may be +2 instead.
 
-*Faint abjuration; CL 5th; Craft Magic Arms and Armor, *shield*; Price +1 bonus.*
+*Faint abjuration; CL 5th; Craft Magic Arms and Armor, [*shield*](../magic/spells/shield.md); Price +1 bonus.*
 
 **Energy Resistance**: A suit of armor or a shield with this property protects against one type of energy (acid, cold, electricity, fire, or sonic) and is designed with patterns depicting the element it protects against. The armor absorbs the first 10 points of energy damage per attack that the wearer would normally take (similar to the resist energy spell).
 

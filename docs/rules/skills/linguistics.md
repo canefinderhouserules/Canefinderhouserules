@@ -26,7 +26,7 @@ Both the Linguistics check and (if necessary) the Wisdom check are made secretly
 
 | Task | Knowledge Skill | DC |
 |---|---|---|
-| Identify auras while using *detect magic* | Arcana | 15 + spell level |
+| Identify auras while using [*detect magic*](../../magic/spells/detect-magic.md) | Arcana | 15 + spell level |
 | Identify a spell effect that is in place | Arcana | 20 + spell level |
 | Identify materials manufactured by magic | Arcana | 20 + spell level |
 | Identify a spell that just targeted you | Arcana | 25 + spell level |

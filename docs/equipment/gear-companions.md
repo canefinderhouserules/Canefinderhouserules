@@ -104,13 +104,13 @@ Ideal for use in subterranean environments or in combat against light-averse cre
 
 **Price** 670 gp; **Weight** 22 lbs.
 
-This sturdy satchel is the quintessential toolkit for detecting ghosts and sending them to their final slumber. This kit includes 10 candles, three flasks of holy water, one potion of *lesser restoration*, a crowbar, a folding shovel, four sunrods, one spiritbane spike, and a wooden holy symbol.
+This sturdy satchel is the quintessential toolkit for detecting ghosts and sending them to their final slumber. This kit includes 10 candles, three flasks of holy water, one potion of [*lesser restoration*](../magic/spells/restoration-lesser.md), a crowbar, a folding shovel, four sunrods, one spiritbane spike, and a wooden holy symbol.
 
 ### Séance Kit
 
 **Price** 290 gp; **Weight** 12 lbs.
 
-This stained mahogany box contains tools that aid in contacting supernatural beings either as part of an act or a genuine ritual. This kit includes a nonmagical spirit board (treat as a board game worth 25 gp), 10 candles, 10 candlesticks, one entertainer's outfit, one harrow deck, one magnet, 10 sticks of incense, one scroll of *augury*, and two scrolls of *prestidigitation*.
+This stained mahogany box contains tools that aid in contacting supernatural beings either as part of an act or a genuine ritual. This kit includes a nonmagical spirit board (treat as a board game worth 25 gp), 10 candles, 10 candlesticks, one entertainer's outfit, one harrow deck, one magnet, 10 sticks of incense, one scroll of [*augury*](../magic/spells/augury.md), and two scrolls of [*prestidigitation*](../magic/spells/prestidigitation.md).
 
 ## Demon Hunter Gear
 
@@ -138,7 +138,7 @@ This palm-sized cross has arms of equal length and an emblem etched at the cente
 
 **Price** 950 gp; **Weight** 44 lbs.
 
-This reinforced wooden box bears the symbol of a specific good-aligned deity, which the buyer may stipulate at the time of purchase. The kit contains 1 dose of *abjurant salt*, which is used to create good-aligned barriers; 3 vials of holy water, which can be used against undead creatures or evil outsiders; and a pouch of silver dust worth 25 gp, which is a material component of the spell *consecrate*. An exorcism kit also counts as an altar for the purposes of determining bonuses and penalties for the spell *consecrate*.
+This reinforced wooden box bears the symbol of a specific good-aligned deity, which the buyer may stipulate at the time of purchase. The kit contains 1 dose of *abjurant salt*, which is used to create good-aligned barriers; 3 vials of holy water, which can be used against undead creatures or evil outsiders; and a pouch of silver dust worth 25 gp, which is a material component of the spell [*consecrate*](../magic/spells/consecrate.md). An exorcism kit also counts as an altar for the purposes of determining bonuses and penalties for the spell *consecrate*.
 
 ### Holy Fountain Firework
 
@@ -264,7 +264,7 @@ This kit includes a block and tackle, 50 feet of chain, a climber's kit, a crowb
 
 **Rule**
 
-Magic clothing and jewelry resize themselves for wearers of any size, but weapons and armor don't automatically resize. For each size category too large that a wielded weapon is, the wielder takes a cumulative –2 penalty and treats the weapon as one step heavier along the continuum from light to one-handed to two-handed; weapons that would be heavier than two-handed are impossible to wield properly. *Polymorph any object* can permanently change the size of an object, and a character under the effects of *enlarge person* or *reduce person* can use gear appropriate to her new size as long as the spell lasts. See also the *resize item* spell, the *fitting* and *resizing* special abilities, and the *ring of perfect sizing*.
+Magic clothing and jewelry resize themselves for wearers of any size, but weapons and armor don't automatically resize. For each size category too large that a wielded weapon is, the wielder takes a cumulative –2 penalty and treats the weapon as one step heavier along the continuum from light to one-handed to two-handed; weapons that would be heavier than two-handed are impossible to wield properly. [*Polymorph any object*](../magic/spells/polymorph-any-object.md) can permanently change the size of an object, and a character under the effects of [*enlarge person*](../magic/spells/enlarge-person.md) or [*reduce person*](../magic/spells/reduce-person.md) can use gear appropriate to her new size as long as the spell lasts. See also the [*resize item*](../magic/spells/resize-item.md) spell, the *fitting* and *resizing* special abilities, and the *ring of perfect sizing*.
 
 ## Dragonslayer Gear
 
@@ -272,7 +272,7 @@ Magic clothing and jewelry resize themselves for wearers of any size, but weapon
 
 **Price** 751 gp; **Weight** 17 lbs.
 
-This kit is designed for melee-focused warriors who hope to kill or capture a dragon. It includes 50 feet of chain, a crowbar, an everburning torch, an application of fire (or frost) ward gel, fire-resistant boots, a potion of *resist energy*, three sacks, a shield sconce, a simple lock, and a weapon cord.
+This kit is designed for melee-focused warriors who hope to kill or capture a dragon. It includes 50 feet of chain, a crowbar, an everburning torch, an application of fire (or frost) ward gel, fire-resistant boots, a potion of [*resist energy*](../magic/spells/resist-energy.md), three sacks, a shield sconce, a simple lock, and a weapon cord.
 
 ### Tracker's Kit
 
@@ -284,7 +284,7 @@ The exact location of a dragon's lair must sometimes be learned through explorat
 
 **Price** 474 gp; **Weight** 23 lbs.
 
-For those brave enough to match wits with draconic intellects, this kit can help a dragonslayer sneak into or out of a dragon's lair or trick a dragon should the interloper be discovered. It includes a pot of alchemical grease, a board game, five candles, a candle lamp, a common snorkel, fake footprint shoes, a grappling hook, a mirror, a periscope, a potion of *eagle's splendor*, two sacks, a scent cloak, 50 feet of silk rope, a smokestick, a dose of sneezing powder, five tindertwigs, and 50 feet of twine.
+For those brave enough to match wits with draconic intellects, this kit can help a dragonslayer sneak into or out of a dragon's lair or trick a dragon should the interloper be discovered. It includes a pot of alchemical grease, a board game, five candles, a candle lamp, a common snorkel, fake footprint shoes, a grappling hook, a mirror, a periscope, a potion of [*eagle's splendor*](../magic/spells/eagles-splendor.md), two sacks, a scent cloak, 50 feet of silk rope, a smokestick, a dose of sneezing powder, five tindertwigs, and 50 feet of twine.
 
 ### Balloon Trap
 
@@ -292,7 +292,7 @@ For those brave enough to match wits with draconic intellects, this kit can help
 
 This trap consists of a buoyant balloon tied to an anchor by a very thin strand of metal. The strand acts as a vertical tripwire that triggers the trap, targeting any flying creature that contacts it. The trap's creator may set any number of mechanical or magical effects to be triggered when the trap is activated. Balloon traps are especially useful against creatures with large wingspans, or when the balloon is concealed, as in a tree canopy or smoke cover.
 
-**Sirocco Balloon Trap** (CR 14): Type magic; Perception DC 31; Disable Device DC 31. **Trigger** touch; **Reset** none. **Effect** spell effect (*sirocco*, 4d6+11 fire damage [DC 19 Fort for half] plus fatigued, knocked prone [DC 19 Fort avoids], flying creatures grounded [DC 15 Fly avoids]); multiple targets (all creatures in a 20-ft.-radius, 60-ft.-high cylinder centered on the balloon trap tripwire).
+**Sirocco Balloon Trap** (CR 14): Type magic; Perception DC 31; Disable Device DC 31. **Trigger** touch; **Reset** none. **Effect** spell effect ([*sirocco*](../magic/spells/sirocco.md), 4d6+11 fire damage [DC 19 Fort for half] plus fatigued, knocked prone [DC 19 Fort avoids], flying creatures grounded [DC 15 Fly avoids]); multiple targets (all creatures in a 20-ft.-radius, 60-ft.-high cylinder centered on the balloon trap tripwire).
 
 ### Dragon Muzzle
 
@@ -406,9 +406,9 @@ Renowned for its energizing and defensive properties, dragon's blood has a varie
 
 A dragon's stomach contains highly corrosive acid that can be crafted into an alchemical item called dragon's gut. When used as a thrown splash weapon, dragon's gut deals 2d4 points of acid damage plus, on a direct hit, an additional 1d4 points of acid damage the following round, and it deals 1 point of acid damage to all creatures within 5 feet of the impact point as normal splash damage. Additionally, dragon's gut has alternate effects when used in place of acid as an alchemical power component.
 
-- *Acid arrow*: The spell lasts 1d3 rounds longer than usual.
-- *Acid fog*: The fog takes on a sticky quality and clings to creatures within it. Any creature damaged by the *acid fog* takes an additional 2d6 points of acid damage on the round after leaving the fog's area of effect. The creature can negate this additional damage by spending a standard action (1 AP) to wipe the clinging acid from its body.
-- *Acidic spray*: The spell deals 1d8 points of acid damage per caster level (maximum 15d8) instead of the normal 1d6 per caster level on the round of its casting (Reflex half). It still deals 1d6 points of damage per two caster levels on the following round as normal.
+- [*Acid arrow*](../magic/spells/acid-arrow.md): The spell lasts 1d3 rounds longer than usual.
+- [*Acid fog*](../magic/spells/acid-fog.md): The fog takes on a sticky quality and clings to creatures within it. Any creature damaged by the *acid fog* takes an additional 2d6 points of acid damage on the round after leaving the fog's area of effect. The creature can negate this additional damage by spending a standard action (1 AP) to wipe the clinging acid from its body.
+- [*Acidic spray*](../magic/spells/acidic-spray.md): The spell deals 1d8 points of acid damage per caster level (maximum 15d8) instead of the normal 1d6 per caster level on the round of its casting (Reflex half). It still deals 1d6 points of damage per two caster levels on the following round as normal.
 
 The Dragoncrafting feat and a successful DC 20 Craft (alchemy) check are required to convert 1 vial of stomach acid into 1 vial of dragon's gut.
 
@@ -782,7 +782,7 @@ This silvery liquid amplifies magical energies. For 1 hour after drinking this t
 
 **Price** 300 gp; **Weight** —; **Craft DC** 30
 
-This clear liquid glows with pale light. For 4 hours after drinking this tincture, you emit light as a torch. You are constantly dazzled during this time. If any effect would cause you to become dazzled during this time, you are instead blinded. While under the effect of this tincture, you can intensify your glow as a swift action (1 AP) to that of bright light, as per *daylight*, for 1 round. After activating the bright light effect, you emit only dim light with a range of 10 feet for the remainder of the tincture's duration.
+This clear liquid glows with pale light. For 4 hours after drinking this tincture, you emit light as a torch. You are constantly dazzled during this time. If any effect would cause you to become dazzled during this time, you are instead blinded. While under the effect of this tincture, you can intensify your glow as a swift action (1 AP) to that of bright light, as per [*daylight*](../magic/spells/daylight.md), for 1 round. After activating the bright light effect, you emit only dim light with a range of 10 feet for the remainder of the tincture's duration.
 
 ### Stout Solution
 
@@ -858,7 +858,7 @@ This particularly strong coffee is popular throughout the desert empires and amo
 
 Dilettantes pursue the visions from magesight simply for the wonder of the experience, while back-alley shopkeeps in major trade cities rely on it to provide a valuable ability they have no other way to obtain.
 
-**Effects** 1d4×10 minutes; the user gains the benefits of a constant *detect magic* effect, but she treats illumination in the area as dim light; areas of dim light and darkness are treated as darkness  
+**Effects** 1d4×10 minutes; the user gains the benefits of a constant [*detect magic*](../magic/spells/detect-magic.md) effect, but she treats illumination in the area as dim light; areas of dim light and darkness are treated as darkness  
 **Effect after** 1 hour; the user gains the dazzled condition  
 **Damage** 1d2 Wis damage
 
@@ -868,7 +868,7 @@ Dilettantes pursue the visions from magesight simply for the wonder of the exper
 
 A less pure version of a rarer refined drug, oblivion retains the unpredictable side effects and highly addictive properties of the source material. Oblivion is common in the slums of large cities.
 
-**Effects** a user under the effect of a *suggestion* spell can attempt another saving throw (with the effect's original DC) to shake off the spell's effect, but he loses all memories from the previous 1d4 hours, as per *modify memory* but without the 5-minute limit  
+**Effects** a user under the effect of a [*suggestion*](../magic/spells/suggestion.md) spell can attempt another saving throw (with the effect's original DC) to shake off the spell's effect, but he loses all memories from the previous 1d4 hours, as per [*modify memory*](../magic/spells/modify-memory.md) but without the 5-minute limit  
 **Damage** 1d4 damage to a random ability score
 
 ### Hedge Wizard
@@ -1014,7 +1014,7 @@ Growing a fungal graft takes the same amount of time that creating a magic item 
 
 Grafting a fungus onto a target requires a 1-hour-long surgical procedure, during which time the subject must be either willing or helpless. At the end of the hour, the surgeon must attempt a Heal check against the listed DC. Failure indicates that the patient's body rejects the fungus and the fungus dies. Regardless of the surgery's success, the subject takes 1d4 points of Constitution damage. Although fungal grafts are not magical, some occupy a magic item slot on the body, preventing that slot from being used for any magic item or other graft.
 
-A fungal graft can be removed with a *heal* or *greater restoration* spell, or with a successful Heal check against the original DC in another hour-long surgery.
+A fungal graft can be removed with a [*heal*](../magic/spells/heal.md) or [*greater restoration*](../magic/spells/restoration-greater.md) spell, or with a successful Heal check against the original DC in another hour-long surgery.
 
 ### Fungal Eyes
 
@@ -1249,7 +1249,7 @@ The duration and intensity of the drug's harmful aftereffects and ability damage
 A drug favored in the back-alley dens of large trading cities.
 
 **Effects** 1 hour; +2 alchemical bonus on initiative checks, +4 alchemical bonus on Diplomacy and Bluff checks, +4 alchemical bonus on saves against fear and compulsions, user is fatigued. If the user fails a save against a fear or compulsion effect with a duration other than instantaneous or permanent, the user ignores the effect but is dazed for a number of rounds equal to the effect's spell level (or 1d4 rounds if the effect has no spell level). Effects that have an instantaneous or permanent duration are not altered by the presence of angel's trumpet in a creature's system.  
-**Effects** 1d4 days; user gains the light blindness special quality, becoming blinded and sickened for 1 round if exposed to bright light, such as sunlight or the *daylight* spell, and dazzled for as long as she remains in areas of bright light.  
+**Effects** 1d4 days; user gains the light blindness special quality, becoming blinded and sickened for 1 round if exposed to bright light, such as sunlight or the [*daylight*](../magic/spells/daylight.md) spell, and dazzled for as long as she remains in areas of bright light.  
 **Damage** 1d4 Con and 1d4 Wis
 
 **Recipe** (20 realgar + 20 salt + 30 urea)/digestion; **Craft DC** 18; **Time** 1 day; **Tools** heat source; **Type** drug
@@ -1504,7 +1504,7 @@ This congealed incendiary functions like alchemist's fire, but its white-hot fla
 
 **Price** adamantine 250 gp, cold iron 150 gp, silver 100 gp; **Weight** 1/2 lb.
 
-The nearly invisible gas contained in this fragile glass sphere temporarily but drastically deteriorates the defenses—both manufactured and natural—of those affected. A blanch bomb is effective only against a target that is vulnerable to the type of blanch bomb employed against it. A blanch bomb is thrown as a splash weapon with a range increment of 10 feet. Upon contact with a hard surface, the blanch bomb releases a hazy cloud of gas within a 10-foot-radius burst centered on the point of impact. This cloud lasts for 1d4+1 rounds and can be dispersed as *fog cloud*. If a creature whose damage reduction is overcome by the specified substance begins its turn in the affected area, the subject's DR/adamantine, DR/cold iron, or DR/silver (depending on the type of blanch bomb used) degrades at a rate of 1 point per round for as long as the creature remains in the area (to a minimum of DR 0). If the subject ends its turn outside the affected area, the creature's damage reduction returns to its original amount at a rate of 1 point per round.
+The nearly invisible gas contained in this fragile glass sphere temporarily but drastically deteriorates the defenses—both manufactured and natural—of those affected. A blanch bomb is effective only against a target that is vulnerable to the type of blanch bomb employed against it. A blanch bomb is thrown as a splash weapon with a range increment of 10 feet. Upon contact with a hard surface, the blanch bomb releases a hazy cloud of gas within a 10-foot-radius burst centered on the point of impact. This cloud lasts for 1d4+1 rounds and can be dispersed as [*fog cloud*](../magic/spells/fog-cloud.md). If a creature whose damage reduction is overcome by the specified substance begins its turn in the affected area, the subject's DR/adamantine, DR/cold iron, or DR/silver (depending on the type of blanch bomb used) degrades at a rate of 1 point per round for as long as the creature remains in the area (to a minimum of DR 0). If the subject ends its turn outside the affected area, the creature's damage reduction returns to its original amount at a rate of 1 point per round.
 
 **Mythic**: You can expend one use of mythic power while throwing a blanch bomb to infuse the item with mythic power. When the blanch bomb activates, creatures in the area with the matching DR vulnerability must succeed at a DC 16 Reflex save or their DR is immediately reduced by an amount equal to 1/2 your mythic tier. The gas created by the blanch bomb lasts an additional number of rounds equal to your mythic tier, and it cannot be dispersed by wind. Non-mythic subjects who leave the affected area regain their DR at a rate of 1 point per minute.
 
@@ -1554,7 +1554,7 @@ This small sack of green-gray powder is thrown as a splash weapon with a range i
 
 Unless otherwise noted in an item's description, the following rules apply to all fireworks. Fireworks are alchemical weapons.
 
-Before a firework can detonate, it must be ignited, which is typically done by lighting its fuse. You can light a firework's fuse by using flint and steel (a full-round action (3 AP)); using a tindertwig (a move action (1 AP) followed by a standard action (1 AP)); casting *spark* (a standard action (1 AP)); or using a torch, candle, *flaming* weapon, or other open fire (a standard action (1 AP)). If a firework must be thrown or set down to function, treat this as a separate action.
+Before a firework can detonate, it must be ignited, which is typically done by lighting its fuse. You can light a firework's fuse by using flint and steel (a full-round action (3 AP)); using a tindertwig (a move action (1 AP) followed by a standard action (1 AP)); casting [*spark*](../magic/spells/spark.md) (a standard action (1 AP)); or using a torch, candle, *flaming* weapon, or other open fire (a standard action (1 AP)). If a firework must be thrown or set down to function, treat this as a separate action.
 
 **Misfires**: When a firework misfires, its charges detonate in an undesirable and often destructive manner. A misfiring firework explodes in a 5-foot-radius burst. Creatures and objects in the area are blinded for 1d4 rounds and take 1d6 points of fire damage for every 100 gp of the firework's price (minimum 1d6). A successful Reflex save halves the damage and a successful Fortitude save reduces the blindness condition to 1 round; the DC of these saves is equal to the Craft DC of the firework – 10 (minimum 1). Certain fireworks may cause less or more destructive effects, at the GM's discretion.
 
@@ -1644,7 +1644,7 @@ This sealed copper tube contains a packet of alchemical fertilizer and several s
 
 **Price** 1 gp (pint)
 
-This bitter stout helps hardworking craftsmen endure long hours at the forge by lessening the sting of ambient heat. Drinking a pint gives you the benefit of an *endure elements* spell for 1 hour, though only against warmth and heat, not cold.
+This bitter stout helps hardworking craftsmen endure long hours at the forge by lessening the sting of ambient heat. Drinking a pint gives you the benefit of an [*endure elements*](../magic/spells/endure-elements.md) spell for 1 hour, though only against warmth and heat, not cold.
 
 ### Lost Halls Porter
 
@@ -2342,13 +2342,13 @@ This bulky, key-wound, pocket-sized clock has three faces, each with its own hou
 
 **Price** 200 gp; **Weight** 1/2 lb.
 
-This eldritch chart describes part of the unfathomably vast shape of the physical universe and the subtler motions of the stars. A cosmogram grants a +1 circumstance bonus on Knowledge (geography) checks relating to stars and on Survival checks to navigate the void of space between star systems. A cosmogram can be consulted while using an orrery as a focus for *augury*. Doing so increases the chance of a successful reading by 2%.
+This eldritch chart describes part of the unfathomably vast shape of the physical universe and the subtler motions of the stars. A cosmogram grants a +1 circumstance bonus on Knowledge (geography) checks relating to stars and on Survival checks to navigate the void of space between star systems. A cosmogram can be consulted while using an orrery as a focus for [*augury*](../magic/spells/augury.md). Doing so increases the chance of a successful reading by 2%.
 
 ### Orrery
 
 **Price** 100–2,000 gp; **Weight** 2–12 lbs.
 
-This complex mechanism simulates the angles and relative distances between one or more bodies in a solar system in relation to the system's star with marks or spheres on moving gears or arms. Anyone consulting an orrery gains a +2 circumstance bonus on Knowledge (geography) checks involving bodies it models and on Survival checks to navigate the void of space. An orrery can be used in combination with a sextant on a clear night to determine the time on any of the stellar bodies it models. Any orrery can be used as a focus component for the *augury* spell in place of that spell's normal focus.
+This complex mechanism simulates the angles and relative distances between one or more bodies in a solar system in relation to the system's star with marks or spheres on moving gears or arms. Anyone consulting an orrery gains a +2 circumstance bonus on Knowledge (geography) checks involving bodies it models and on Survival checks to navigate the void of space. An orrery can be used in combination with a sextant on a clear night to determine the time on any of the stellar bodies it models. Any orrery can be used as a focus component for the [*augury*](../magic/spells/augury.md) spell in place of that spell's normal focus.
 
 Orreries come in many shapes and sizes and with a variety of functions in mind. A tellurion models a single planet and any moons it may have. A standard orrery tracks the inner planets of a system and their moons. A grand orrery tracks all the known planets of a system (including the outer planets) and their moons. A calculating orrery is an orrery that indicates with rotating numerals on each arm the current distance between each body and its star (or its planet, in the case of moons), increasing the circumstance bonus on relevant skill checks to +4.
 
@@ -2735,7 +2735,7 @@ These fine garments come in assorted vibrant colors and are used in the most imp
 
 **Price** 50 gp; **Weight** 1 lb.
 
-*Alchemical tool.* This alchemically concocted black ink can be attuned to a standard sheet of parchment. Anything inscribed using the ink (anywhere on the same plane of existence) appears on the attuned parchment in a sparkling blue script that lasts 1 hour. There is enough ink in one vial to fill one sheet of parchment. The ink cannot duplicate any written magical effects, such as a *symbol of death*. Crafting a vial of ink of stolen secrets requires a successful DC 15 Craft (alchemy) check.
+*Alchemical tool.* This alchemically concocted black ink can be attuned to a standard sheet of parchment. Anything inscribed using the ink (anywhere on the same plane of existence) appears on the attuned parchment in a sparkling blue script that lasts 1 hour. There is enough ink in one vial to fill one sheet of parchment. The ink cannot duplicate any written magical effects, such as a [*symbol of death*](../magic/spells/symbol-of-death.md). Crafting a vial of ink of stolen secrets requires a successful DC 15 Craft (alchemy) check.
 
 ### Dung Grenade
 
@@ -2966,7 +2966,7 @@ Made from animal hide and giant lizard scales over a shirt of interwoven cords, 
 
 If used as an additional material component when casting a spell the idol affects, an idol increases the effect of that spell. Using multiple idols to cast a spell has no additional effect. An idol is destroyed after one use.
 
-*Abjuration Idol*: When used to cast a spell that allows you to make a dispel check (such as *dispel magic* or *mage’s disjunction*), you gain a +2 bonus on that check.
+*Abjuration Idol*: When used to cast a spell that allows you to make a dispel check (such as [*dispel magic*](../magic/spells/dispel-magic.md) or [*mage’s disjunction*](../magic/spells/mages-disjunction.md)), you gain a +2 bonus on that check.
 
 *Conjuration Idol*: When used to cast *summon monster* or *summon nature’s ally*, the summoned creature’s maximum hit points increase by +2 for every Hit Die it possesses.
 
@@ -2974,11 +2974,11 @@ If used as an additional material component when casting a spell the idol affect
 
 *Evocation Idol*: When used to cast a spell that deals energy damage, you gain a +2 bonus on caster level checks made to overcome spell resistance.
 
-*Illusion Idol*: When used to cast a spell of the glamer subschool with a duration measured in minutes or less (such as *displacement* or *invisibility*), the effects of that spell persist for 1 round longer than normal.
+*Illusion Idol*: When used to cast a spell of the glamer subschool with a duration measured in minutes or less (such as [*displacement*](../magic/spells/displacement.md) or [*invisibility*](../magic/spells/invisibility.md)), the effects of that spell persist for 1 round longer than normal.
 
 *Necromancy Idol*: When used to cast a spell of the necromancy school that deals hit point damage, you also deal a number of points of bleed damage equal to the spell level. This bleed effect lasts for 5 rounds.
 
-*Transmutation Idol*: When used to cast *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, or *owl’s wisdom*, the spell grants a +5 enhancement bonus to the affected ability score.
+*Transmutation Idol*: When used to cast [*bear’s endurance*](../magic/spells/bears-endurance.md), [*bull’s strength*](../magic/spells/bulls-strength.md), [*cat’s grace*](../magic/spells/cats-grace.md), [*eagle’s splendor*](../magic/spells/eagles-splendor.md), [*fox’s cunning*](../magic/spells/foxs-cunning.md), or [*owl’s wisdom*](../magic/spells/owls-wisdom.md), the spell grants a +5 enhancement bonus to the affected ability score.
 
 ## Faction Gear
 
@@ -3030,7 +3030,7 @@ The faithful of a self-proclaimed living god utilize a number of tools to help t
 
 **Price** 150 gp
 
-**Effect** 30 minutes; +1d4 Str and +1d3 Dex, then slowed (as per the spell *slow*) for 3 hours
+**Effect** 30 minutes; +1d4 Str and +1d3 Dex, then slowed (as per the spell [*slow*](../magic/spells/slow.md)) for 3 hours
 
 **Damage** 1d4 Con
 
@@ -3042,7 +3042,7 @@ Blood sap is distilled from the crimson sap exuded by a pale green vine native t
 
 **Price** 120 gp
 
-**Effect** 2d12 minutes; unconscious, gain vivid dreams acting as the *augury* spell, but with only a 60% chance of receiving a meaningful reply
+**Effect** 2d12 minutes; unconscious, gain vivid dreams acting as the [*augury*](../magic/spells/augury.md) spell, but with only a 60% chance of receiving a meaningful reply
 
 **Damage** 1d3 Wis
 
@@ -3132,7 +3132,7 @@ Developed by followers of the god of secrets and murder, this inky paste aids un
 
 The black-and-violet ore known as druchite is synonymous with the towering spires of a shadow city. The ore is so dark that even creatures that are adapted to see in lightless conditions can have extreme difficulty perceiving it. Druchite ore can be worked into armor and weapons by applying it in delicate veins or inlaid patterns across the equipment.
 
-Druchite-veined armor grants the wearer additional defenses against creatures with darkvision. The wearer always benefits from a 10% miss chance while in an area of dim light or darkness, even if she is perceived by a creature using darkvision. Other sensory abilities, such as blindsense or *true seeing*, bypass this effect entirely. Druchite-veined weapons grant their wielder a +2 circumstance bonus on attack rolls against creatures perceiving them with darkvision. The wielder receives no bonus when attacking creatures using other senses, such as blindsense, or benefitting from *true seeing*.
+Druchite-veined armor grants the wearer additional defenses against creatures with darkvision. The wearer always benefits from a 10% miss chance while in an area of dim light or darkness, even if she is perceived by a creature using darkvision. Other sensory abilities, such as blindsense or [*true seeing*](../magic/spells/true-seeing.md), bypass this effect entirely. Druchite-veined weapons grant their wielder a +2 circumstance bonus on attack rolls against creatures perceiving them with darkvision. The wielder receives no bonus when attacking creatures using other senses, such as blindsense, or benefitting from *true seeing*.
 
 Druchite has hardness 10 and 40 hit points per inch of thickness.
 
@@ -3142,7 +3142,7 @@ Druchite has hardness 10 and 40 hit points per inch of thickness.
 
 The navy-blue ore known as aszite is often used to reinforce buildings. While aszite cannot be properly worked into weapons, it can be added in the form of veinlike reinforcements to armor, where it absorbs and amplifies certain unique magical properties.
 
-Adding aszite veins to armor increases the item’s weight by 10%. The added veins are capable of absorbing extra power from spells with the darkness descriptor. The wearer of aszite-veined armor gains a +2 circumstance bonus on Stealth checks when affected by a spell with the darkness descriptor. In addition, spells with the darkness descriptor that last multiple rounds last 1 round longer when affecting a creature with aszite-veined armor. If the spell affects an object (such as a *darkness* spell) then targeting a piece of aszite-veined armor instead increases the spell’s duration by 50%.
+Adding aszite veins to armor increases the item’s weight by 10%. The added veins are capable of absorbing extra power from spells with the darkness descriptor. The wearer of aszite-veined armor gains a +2 circumstance bonus on Stealth checks when affected by a spell with the darkness descriptor. In addition, spells with the darkness descriptor that last multiple rounds last 1 round longer when affecting a creature with aszite-veined armor. If the spell affects an object (such as a [*darkness*](../magic/spells/darkness.md) spell) then targeting a piece of aszite-veined armor instead increases the spell’s duration by 50%.
 
 Aszite has hardness 15 and has 20 hit points per inch of thickness.
 
@@ -3268,7 +3268,7 @@ A phaleros is a type of metal javelin that stores a splash weapon in a small cag
 
 **Type** ingested; **Save** Fortitude DC 14
 
-**Effect** creature affected as if by a *confusion* spell for 1 minute
+**Effect** creature affected as if by a [*confusion*](../magic/spells/confusion.md) spell for 1 minute
 
 ### Mage Bane
 
@@ -3554,7 +3554,7 @@ The best cure for this disease is dosing the patient with the poison arsenic—i
 
 Those lacking the will to harden themselves against pain turn to alchemical methods to endure. This purplish paste is made from sea urchin toxins and numbs the user’s ability to sense pain. A dose gives the user the Endure Pain feat for 1 hour, though it also has debilitating side effects and leaves telltale reddish-purple stains around the nostrils for up to one day, easily identified by those familiar with the symptoms.
 
-Anyone who takes the drug must make a DC 10 saving throw or become addicted. A snuff addict can stave off withdrawal for 5 days by taking a dose; failure means he must save or take 1d4 Dex and 1d4 Wis damage. This save DC increases by +5 for every 5 days since the last time the addict had a dose. If the addict makes two of these saves in a row, he is no longer addicted. *Remove disease* can cure an addict if the caster’s caster level check succeeds against a DC equal to the addict’s current withdrawal DC. *Greater restoration* or *heal* cures the addiction without requiring a roll.
+Anyone who takes the drug must make a DC 10 saving throw or become addicted. A snuff addict can stave off withdrawal for 5 days by taking a dose; failure means he must save or take 1d4 Dex and 1d4 Wis damage. This save DC increases by +5 for every 5 days since the last time the addict had a dose. If the addict makes two of these saves in a row, he is no longer addicted. [*Remove disease*](../magic/spells/remove-disease.md) can cure an addict if the caster’s caster level check succeeds against a DC equal to the addict’s current withdrawal DC. [*Greater restoration*](../magic/spells/restoration-greater.md) or [*heal*](../magic/spells/heal.md) cures the addiction without requiring a roll.
 
 **Type** poison, ingested; **Save** Fortitude DC 13; **Frequency** 1/hour for 4 hours; **Initial Effect** Endure Pain feat for 1 hour; **Secondary Effect** 1 Con damage; **Cure** 1 save
 
@@ -3578,7 +3578,7 @@ Upon his 100th birthday, a lizard king’s status is officially acknowledged, an
 
 **Frequency** 1/hour for 8 hours
 
-**Effect** The victim loses all memory of events that took place in the previous hour and can’t form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a *restoration* or *heal* spell
+**Effect** The victim loses all memory of events that took place in the previous hour and can’t form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a [*restoration*](../magic/spells/restoration.md) or [*heal*](../magic/spells/heal.md) spell
 
 **Cure** 2 saves
 
@@ -3700,7 +3700,7 @@ Identifying the effects of a dose of alien fluids presents a challenge, as the c
 
 | d% | Result |
 |---|---|
-| 01 | The drinker’s cellular structure breaks down, and her flesh dissolves off of her bones. The victim dies in 1 round unless a *limited wish*, *regeneration* (not just the regeneration ability), or *wish* spell is administered. Immunity to ability drain prevents death, but immunity to death effects or poison does not. |
+| 01 | The drinker’s cellular structure breaks down, and her flesh dissolves off of her bones. The victim dies in 1 round unless a [*limited wish*](../magic/spells/limited-wish.md), *regeneration* (not just the regeneration ability), or [*wish*](../magic/spells/wish.md) spell is administered. Immunity to ability drain prevents death, but immunity to death effects or poison does not. |
 | 02-04 | The drinker permanently loses a random sense (roll 1d4: 1–hearing, 2–sight, 3–smell, 4–taste). A regenerate spell restores lost smell or taste. Moderate addiction. |
 | 05-07 | The drinker ages 2d10 years. |
 | 08-10 | The drinker takes 2d6 points of damage to all ability scores (roll once for damage, apply it to each). If any score reaches 0, death results. If the imbiber survives, roll again for an additional side effect, rerolling a result of 15 or lower. |
@@ -3786,7 +3786,7 @@ One dose of bloodbrain venom costs 400 gp.
 
 **Cure** 3 consecutive saves
 
-This cunning supernatural venom was originally engineered by an order of assassins’ alchemists. Fool’s leprosy is a slow-acting but ultimately fatal ingested toxin that, once it takes hold in its victim’s system, closely mimics the effects of a fast-moving form of leprosy. An attempt to divine its nature via *detect poison* fails unless the caster succeeds at a DC 25 caster level check, and use of a spell like *diagnose disease* always misidentifies the venom as a disease unless the caster succeeds at a DC 25 caster level check. In either event, the GM should roll for these caster level checks in secret. *Neutralize poison* and *slow poison* function normally on a person suffering from fool’s leprosy, but spells like *remove disease* do not, as the condition is a poison effect, not a disease effect. *Heal* can cure the effects of fool’s leprosy but does nothing to educate the caster about the nature of the effect it removes. As long as the truth about fool’s leprosy remains hidden, a successful DC 35 Heal check is required to recognize that someone suffering from its effects is affected by poison, not a disease.
+This cunning supernatural venom was originally engineered by an order of assassins’ alchemists. Fool’s leprosy is a slow-acting but ultimately fatal ingested toxin that, once it takes hold in its victim’s system, closely mimics the effects of a fast-moving form of leprosy. An attempt to divine its nature via [*detect poison*](../magic/spells/detect-poison.md) fails unless the caster succeeds at a DC 25 caster level check, and use of a spell like [*diagnose disease*](../magic/spells/diagnose-disease.md) always misidentifies the venom as a disease unless the caster succeeds at a DC 25 caster level check. In either event, the GM should roll for these caster level checks in secret. [*Neutralize poison*](../magic/spells/neutralize-poison.md) and *slow poison* function normally on a person suffering from fool’s leprosy, but spells like [*remove disease*](../magic/spells/remove-disease.md) do not, as the condition is a poison effect, not a disease effect. [*Heal*](../magic/spells/heal.md) can cure the effects of fool’s leprosy but does nothing to educate the caster about the nature of the effect it removes. As long as the truth about fool’s leprosy remains hidden, a successful DC 35 Heal check is required to recognize that someone suffering from its effects is affected by poison, not a disease.
 
 ### Muddling Heresy
 
@@ -3957,7 +3957,7 @@ A humanoid afflicted with ghoul’s delectation must attempt a new Will save eac
 
 **Onset** 1 day; **Frequency** 1/day
 
-**Effect** 1d4 Str damage and 1d4 Con damage, target must make a second Fort save or 1 point of the damage is drain instead, and a creature that has suffered ability drain glows blue as if limned with *faerie fire*
+**Effect** 1d4 Str damage and 1d4 Con damage, target must make a second Fort save or 1 point of the damage is drain instead, and a creature that has suffered ability drain glows blue as if limned with [*faerie fire*](../magic/spells/faerie-fire.md)
 
 **Cure** 2 consecutive saves
 
@@ -3967,7 +3967,7 @@ A humanoid afflicted with ghoul’s delectation must attempt a new Will save eac
 
 **Onset** 3d6 days; **Frequency** 1/day
 
-**Effect** 1d4 Con. Rolling a 1 on any Fortitude save to resist taking damage from fungal flu results in blindness. The blindness persists - even resisting spells like *remove blindness/deafness* - until the disease is cured.
+**Effect** 1d4 Con. Rolling a 1 on any Fortitude save to resist taking damage from fungal flu results in blindness. The blindness persists - even resisting spells like [*remove blindness/deafness*](../magic/spells/remove-blindness-deafness.md) - until the disease is cured.
 
 **Cure** 2 consecutive saves
 
@@ -4053,4 +4053,4 @@ This supernatural toxin exists either in powdered form or, if mixed with an alch
 
 **Effect** 1d6 Str damage, 1d6 Cha damage, and victim is exhausted
 
-**Cure** crypt fever can only be cured by successfully casting *remove curse* and *remove disease* within 1 minute of each other.
+**Cure** crypt fever can only be cured by successfully casting [*remove curse*](../magic/spells/remove-curse.md) and [*remove disease*](../magic/spells/remove-disease.md) within 1 minute of each other.

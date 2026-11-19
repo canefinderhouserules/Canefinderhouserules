@@ -3,6 +3,7 @@
 **School** enchantment (charm) [mind-affecting]; **Level** bard 5, mesmerist 5, psychic 6, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, M (a drop of alcohol)  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  
 **Duration** 1 day/level  
 **Saving Throw** Will negates; **Spell Resistance** yes

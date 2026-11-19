@@ -123,9 +123,9 @@ Favored by the necromancer the necromancer’s realm as a tool to turn his enemi
 
 ## Mythic Soulreaver
 
-You can expend one use of mythic power to raise creatures killed by this effect as undead thralls. You can animate a number of Hit Dice worth of undead up to double your tier as if you had animated them with *animate dead*. The undead created by this spell count toward the total number of Hit Dice worth of undead you can control.
+You can expend one use of mythic power to raise creatures killed by this effect as undead thralls. You can animate a number of Hit Dice worth of undead up to double your tier as if you had animated them with [*animate dead*](../../magic/spells/animate-dead.md). The undead created by this spell count toward the total number of Hit Dice worth of undead you can control.
 
-**Augmented (8th)**: If you expend two uses of mythic power, you can raise slain foes as undead creatures chosen from the list of undead for *create undead*. By expending three uses of mythic power, you can select from the list for* create greater undead*. The total number of Hit Dice worth of undead created in this way can’t exceed double your tier. Created undead are not automatically under your control. If you are capable of commanding undead, you may attempt to command the undead creatures as they form.
+**Augmented (8th)**: If you expend two uses of mythic power, you can raise slain foes as undead creatures chosen from the list of undead for [*create undead*](../../magic/spells/create-undead.md). By expending three uses of mythic power, you can select from the list for* create greater undead*. The total number of Hit Dice worth of undead created in this way can’t exceed double your tier. Created undead are not automatically under your control. If you are capable of commanding undead, you may attempt to command the undead creatures as they form.
 
 ## Spawn Calling
 
@@ -153,7 +153,7 @@ Upon completion of the ritual, the ground rumbles in a 100- foot radius centered
 
 At the beginning of your next turn, a massive fissure full of dark fire and shrieking cries appears at a point you designate within the spell’s range, and a Spawn of the god of wrath and destruction emerges. This creature takes the form of a thunder behemoth with the advanced and entropic simple templates. Unlike with *summon monster* or similar spells, the caster has no control whatsoever over the called creature. The spawn immediately heads in a random direction or toward an obvious target such as a population center, destroying anything in its path, yourself and your allies included.
 
-Any creature may attempt to control the called Spawn of the god of wrath and destruction via spells like *dominate monster* or *binding*. However, if such an attempt fails, it draws the spawn’s attention, and the monster immediately tries to destroy the creature that attempted to control it. Because the Spawn of the god of wrath and destruction are all magical beasts native to the Material Plane, spells such as banishment or dismissal have no effect on the called spawn.
+Any creature may attempt to control the called Spawn of the god of wrath and destruction via spells like [*dominate monster*](../../magic/spells/dominate-monster.md) or [*binding*](../../magic/spells/binding.md). However, if such an attempt fails, it draws the spawn’s attention, and the monster immediately tries to destroy the creature that attempted to control it. Because the Spawn of the god of wrath and destruction are all magical beasts native to the Material Plane, spells such as banishment or dismissal have no effect on the called spawn.
 
 ## Mythic Spawn Calling
 

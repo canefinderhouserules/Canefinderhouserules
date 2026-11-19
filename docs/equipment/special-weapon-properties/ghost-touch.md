@@ -11,4 +11,4 @@ A *ghost touch* weapon deals damage normally against incorporeal creatures, rega
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *plane shift*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*plane shift*](../../magic/spells/plane-shift.md); **Price** —

@@ -72,7 +72,7 @@ Dexterity measures agility, reflexes, and balance. This ability is the most impo
 
 You apply your character’s Dexterity modifier to:
 
-- Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and many ranged spell attacks like *scorching ray* or *searing light*.
+- Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and many ranged spell attacks like [*scorching ray*](../../magic/spells/scorching-ray.md) or [*searing light*](../../magic/spells/searing-light.md).
 - Armor Class (AC), provided that the character can react to the attack.
 - Reflex saving throws, for avoiding *fireballs* and other attacks that you can escape by moving quickly.
 - Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks.

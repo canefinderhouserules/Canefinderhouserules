@@ -12,6 +12,6 @@ You have learned the secret to changing the powers granted by your prayer scroll
 
 **Positive Energy Immunity**: You become immune to positive channeled energy used to harm undead. This does not protect you against positive energy from other sources such as *cure* spells or lay on hands.
 
-**Spell Immunity**: The prayer scroll grants you immunity to a spell, as if you were using [*spell immunity*](../../magic/spells/spell-immunity.md). You decide which spell when you create the prayer scroll, and can choose a different spell each time you create a new spell immunity prayer scroll. If you have 15 or more Hit Dice, this functions as *greater spell immunity*. Creating this type of prayer scroll costs 100 gp × the spell level of the spell keyed to the scroll.
+**Spell Immunity**: The prayer scroll grants you immunity to a spell, as if you were using [*spell immunity*](../../magic/spells/spell-immunity.md). You decide which spell when you create the prayer scroll, and can choose a different spell each time you create a new spell immunity prayer scroll. If you have 15 or more Hit Dice, this functions as [*greater spell immunity*](../../magic/spells/spell-immunity-greater.md). Creating this type of prayer scroll costs 100 gp × the spell level of the spell keyed to the scroll.
 
 **Special**: You may select this feat multiple times. Each time you do so, choose another ability granted by the feat.

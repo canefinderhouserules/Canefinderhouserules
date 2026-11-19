@@ -61,11 +61,11 @@ At 2nd level, a soul warden can expend a use of his channel damage ability to sp
 
 | Level | Spells |
 |---|---|
-| 2nd | *Decompose corpse*, *detect undead*, *hide from undead*, *sanctify corpse* |
-| 4th | *Command undead*, *necromantic burden* |
-| 6th | *Disrupting weapon*, *halt undead*, *searing light* |
-| 8th | *Death ward*, *undeath inversion*, *wall of fire* |
-| 10th | *Breath of life*, *heal*, *undeath to death* |
+| 2nd | [*Decompose corpse*](../../magic/spells/decompose-corpse.md), [*detect undead*](../../magic/spells/detect-undead.md), [*hide from undead*](../../magic/spells/hide-from-undead.md), [*sanctify corpse*](../../magic/spells/sanctify-corpse.md) |
+| 4th | [*Command undead*](../../magic/spells/command-undead.md), [*necromantic burden*](../../magic/spells/necromantic-burden.md) |
+| 6th | [*Disrupting weapon*](../../magic/spells/disrupting-weapon.md), [*halt undead*](../../magic/spells/halt-undead.md), [*searing light*](../../magic/spells/searing-light.md) |
+| 8th | [*Death ward*](../../magic/spells/death-ward.md), [*undeath inversion*](../../magic/spells/undeath-inversion.md), [*wall of fire*](../../magic/spells/wall-of-fire.md) |
+| 10th | [*Breath of life*](../../magic/spells/breath-of-life.md), [*heal*](../../magic/spells/heal.md), [*undeath to death*](../../magic/spells/undeath-to-death.md) |
 
 Starting at 3rd level, a soul warden adds his channel casting spells gained from the previous level to the class spell list of a class he belonged to before adding the prestige class. The spell level is equal to half the soul warden level necessary to channel cast the spell. For example, a 3rd-level soul warden who also has levels in sorcerer adds [*decompose corpse*](../../magic/spells/decompose-corpse.md), [*detect undead*](../../magic/spells/detect-undead.md), [*hide from undead*](../../magic/spells/hide-from-undead.md), and [*sanctify corpse*](../../magic/spells/sanctify-corpse.md) to his sorcerer spell list, treating them as 1st-level sorcerer spells (since half of 2nd level is 1st level).
 
@@ -83,7 +83,7 @@ At 4th level, whenever a soul warden destroys an undead creature using channel p
 
 #### Undead Imposition (Su)
 
-At 5th level, as a standard action (1 AP) a soul warden may expend one use of channel damage to control an undead creature within 30 feet. The target can negate this effect with a successful Will save (DC 10 + 1/2 the soul warden's level + the soul warden's Cha modifier). Failure means the creature falls under the soul warden's control, obeying his commands to the best of its ability for a number of rounds equal to the soul warden's class level. This ability is otherwise identical to *control undead*.
+At 5th level, as a standard action (1 AP) a soul warden may expend one use of channel damage to control an undead creature within 30 feet. The target can negate this effect with a successful Will save (DC 10 + 1/2 the soul warden's level + the soul warden's Cha modifier). Failure means the creature falls under the soul warden's control, obeying his commands to the best of its ability for a number of rounds equal to the soul warden's class level. This ability is otherwise identical to [*control undead*](../../magic/spells/control-undead.md).
 
 #### Negative Energy Ward (Su)
 

@@ -84,23 +84,23 @@ At 1st level, the deadeye hexer selects a patron. It is this mysterious force th
 
 **Legendary Hybrids: Deadeye Hexer**
 
-- **Agility:** 3rd—*jump*, 6th—*cat’s grace*, 9th—*haste*, 12th—*freedom of movement*, 15th—*polymorph*, 18th— *cat’s grace, mass*
+- **Agility:** 3rd—[*jump*](../../../magic/spells/jump.md), 6th—[*cat’s grace*](../../../magic/spells/cats-grace.md), 9th—[*haste*](../../../magic/spells/haste.md), 12th—[*freedom of movement*](../../../magic/spells/freedom-of-movement.md), 15th—[*polymorph*](../../../magic/spells/polymorph.md), 18th— [*cat’s grace, mass*](../../../magic/spells/cats-grace-mass.md)
 
-- **Cunning:** 3rd—*anticipate peril*, 6th—*fox’s cunning*, 9th—*adjustable disguise*, 12th—*enchantment foil*, 15th—*bard’s escape*, 18th—*fox’s cunning, mass*
+- **Cunning:** 3rd—[*anticipate peril*](../../../magic/spells/anticipate-peril.md), 6th—[*fox’s cunning*](../../../magic/spells/foxs-cunning.md), 9th—[*adjustable disguise*](../../../magic/spells/adjustable-disguise.md), 12th—[*enchantment foil*](../../../magic/spells/enchantment-foil.md), 15th—[*bard’s escape*](../../../magic/spells/bards-escape.md), 18th—[*fox’s cunning, mass*](../../../magic/spells/foxs-cunning-mass.md)
 
-- **Death:** 3rd—*deathwatch*, 6th—*blessing of courage and life*, 9th—*speak with dead*, 12th—*rest eternal*, 15th—*suffocation*, 18th—*circle of death*
+- **Death:** 3rd—[*deathwatch*](../../../magic/spells/deathwatch.md), 6th—[*blessing of courage and life*](../../../magic/spells/blessing-of-courage-and-life.md), 9th—[*speak with dead*](../../../magic/spells/speak-with-dead.md), 12th—[*rest eternal*](../../../magic/spells/rest-eternal.md), 15th—[*suffocation*](../../../magic/spells/suffocation.md), 18th—[*circle of death*](../../../magic/spells/circle-of-death.md)
 
-- **Firearm:** 3rd—*unerring weapon*, bullets only, 6th—*bullet ward*, 9th— *bullet shield*, 12th—*named bullet*, 15th—*pellet blast*, 18th—*named bullet, greater*
+- **Firearm:** 3rd—[*unerring weapon*](../../../magic/spells/unerring-weapon.md), bullets only, 6th—[*bullet ward*](../../../magic/spells/bullet-ward.md), 9th— [*bullet shield*](../../../magic/spells/bullet-shield.md), 12th—[*named bullet*](../../../magic/spells/named-bullet.md), 15th—[*pellet blast*](../../../magic/spells/pellet-blast.md), 18th—[*named bullet, greater*](../../../magic/spells/named-bullet-greater.md)
 
-- **Endurance:** 3rd—*endure elements*, 6th—*bear’s endurance*, 9th—*protection from energy*, 12th— *spell immunity*, 15th—*spell resistance*, 18th—*bear’s endurance, mass*
+- **Endurance:** 3rd—[*endure elements*](../../../magic/spells/endure-elements.md), 6th—[*bear’s endurance*](../../../magic/spells/bears-endurance.md), 9th—[*protection from energy*](../../../magic/spells/protection-from-energy.md), 12th— [*spell immunity*](../../../magic/spells/spell-immunity.md), 15th—[*spell resistance*](../../../magic/spells/spell-resistance.md), 18th—[*bear’s endurance, mass*](../../../magic/spells/bears-endurance-mass.md)
 
-- **Justice:** 3rd—*peacebond*, 6th— *surmount affliction*, 9th—*litany of righteousness*, 12th—*find quarry*, 15th— *mark of justice*, 18th—*unshakable zeal*
+- **Justice:** 3rd—[*peacebond*](../../../magic/spells/peacebond.md), 6th— [*surmount affliction*](../../../magic/spells/surmount-affliction.md), 9th—[*litany of righteousness*](../../../magic/spells/litany-of-righteousness.md), 12th—[*find quarry*](../../../magic/spells/find-quarry.md), 15th— [*mark of justice*](../../../magic/spells/mark-of-justice.md), 18th—[*unshakable zeal*](../../../magic/spells/unshakable-zeal.md)
 
-- **Strength:** 3rd—*divine favor*, 6th—*bull’s strength*, 9th—*greater magic weapon*, 12th—*divine power*, 15th—*righteous might*, 18th—*bull’s strength, mass*
+- **Strength:** 3rd—[*divine favor*](../../../magic/spells/divine-favor.md), 6th—[*bull’s strength*](../../../magic/spells/bulls-strength.md), 9th—[*greater magic weapon*](../../../magic/spells/magic-weapon-greater.md), 12th—[*divine power*](../../../magic/spells/divine-power.md), 15th—[*righteous might*](../../../magic/spells/righteous-might.md), 18th—[*bull’s strength, mass*](../../../magic/spells/bulls-strength-mass.md)
 
-- **Vengeance:** 3rd—*burning hands*, 6th—*burning gaze*, 9th—*pain strike*, 12th—*shout*, 15th—*symbol of pain*, 18th—*mass pain strike*
+- **Vengeance:** 3rd—[*burning hands*](../../../magic/spells/burning-hands.md), 6th—[*burning gaze*](../../../magic/spells/burning-gaze.md), 9th—[*pain strike*](../../../magic/spells/pain-strike.md), 12th—[*shout*](../../../magic/spells/shout.md), 15th—[*symbol of pain*](../../../magic/spells/symbol-of-pain.md), 18th—[*mass pain strike*](../../../magic/spells/pain-strike-mass.md)
 
-- **Wisdom:** 3rd—*shield of faith*, 6th—*owl’s wisdom*, 9th—*magic vestment*, 12th—*globe of invulnerability, lesser*, 15th—*dream*, 18th—*globe of invulnerability, greater*
+- **Wisdom:** 3rd—[*shield of faith*](../../../magic/spells/shield-of-faith.md), 6th—[*owl’s wisdom*](../../../magic/spells/owls-wisdom.md), 9th—[*magic vestment*](../../../magic/spells/magic-vestment.md), 12th—[*globe of invulnerability, lesser*](../../../magic/spells/globe-of-invulnerability-lesser.md), 15th—[*dream*](../../../magic/spells/dream.md), 18th—*globe of invulnerability, greater*
 
 ### Firearm Familiar
 
@@ -125,7 +125,7 @@ The firearm familiar is a special type of intelligent magical weapon, and gains 
 | 17th-18th | +5 | 14 | — |
 | 19th-20th | +5 | 15 | — |
 
-*Enhancement Bonus (Su)*: As the deadeye hexer increases in level, his firearm familiar becomes a magical weapon, gaining a +1 enhancement bonus. At 5th level and above, whenever the firearm familiar’s enhancement bonus increases, the deadeye hexer can choose instead to apply a special weapon ability. The deadeye hexer can choose a special weapon ability from the following: *bane*, *cunning*, *distance*, *ghost touch*, *lucky*, *planar*, *reliable*, or *seeking*. A deadeye hexer with the Craft Magic Arms and Armor feat can add additional enhancement bonuses or abilities as per the magic item crafting rules.
+*Enhancement Bonus (Su)*: As the deadeye hexer increases in level, his firearm familiar becomes a magical weapon, gaining a +1 enhancement bonus. At 5th level and above, whenever the firearm familiar’s enhancement bonus increases, the deadeye hexer can choose instead to apply a special weapon ability. The deadeye hexer can choose a special weapon ability from the following: [*bane*](../../../magic/spells/bane.md), *cunning*, *distance*, *ghost touch*, *lucky*, *planar*, *reliable*, or *seeking*. A deadeye hexer with the Craft Magic Arms and Armor feat can add additional enhancement bonuses or abilities as per the magic item crafting rules.
 
 *Alertness (Ex)*: While wielding his firearm familiar, the deadeye hexer gains the Alertness feat.
 

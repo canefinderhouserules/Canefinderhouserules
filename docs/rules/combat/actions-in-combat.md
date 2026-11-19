@@ -132,7 +132,7 @@ You can make attacks with natural weapons in combination with attacks made with 
 | **Swift Action** (1 AP) |  |
 | Cast a quickened spell | No |
 | **Immediate Action** (1 AP of your next turn) |  |
-| Cast *feather fall* | No |
+| Cast [*feather fall*](../../magic/spells/feather-fall.md) | No |
 | **No Action** |  |
 | Delay | No |
 | 5-foot step | No |
@@ -212,7 +212,7 @@ Most spells require 1 standard action (1 AP) to cast. You can cast such a spell 
 
 *Note*: You retain your Dexterity bonus to AC while casting.
 
-**Spell Components**: To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you’re gagged or in the area of a *silence* spell, you can’t cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component.
+**Spell Components**: To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you’re gagged or in the area of a [*silence*](../../magic/spells/silence.md) spell, you can’t cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component.
 
 To cast a spell with a somatic (S) component, you must gesture freely with at least one hand. You can’t cast a spell of this type while bound, grappling, or with both your hands full or occupied.
 
@@ -404,7 +404,7 @@ You can cast a quickened spell (see the Quicken Spell feat), or any spell whose 
 
 ## Immediate Actions
 
-Much like a swift action (1 AP), an immediate action (1 AP of your next turn) consumes a very small amount of time but represents a larger expenditure of effort and energy than a free action. However, unlike a swift action (1 AP), an immediate action (1 AP of your next turn) can be performed at any time—even if it’s not your turn. Casting *feather fall* is an immediate action (1 AP of your next turn), since the spell can be cast at any time.
+Much like a swift action (1 AP), an immediate action (1 AP of your next turn) consumes a very small amount of time but represents a larger expenditure of effort and energy than a free action. However, unlike a swift action (1 AP), an immediate action (1 AP of your next turn) can be performed at any time—even if it’s not your turn. Casting [*feather fall*](../../magic/spells/feather-fall.md) is an immediate action (1 AP of your next turn), since the spell can be cast at any time.
 
 Using an immediate action (1 AP of your next turn) on your turn is the same as using a swift action (1 AP) and counts as your swift action (1 AP) for that turn. You cannot use another immediate action (1 AP of your next turn) or a swift action (1 AP) until after your next turn if you have used an immediate action (1 AP of your next turn) when it is not currently your turn (effectively, using an immediate action (1 AP of your next turn) before your turn is equivalent to using your swift action (1 AP) for the coming turn). You also cannot use an immediate action (1 AP of your next turn) if you are flat-footed.
 

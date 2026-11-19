@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *transformative* wea
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *major creation*; **Price** +5,000 gp
+**Requirements** Craft Magic Arms and Armor, [*major creation*](../../magic/spells/major-creation.md); **Price** +5,000 gp

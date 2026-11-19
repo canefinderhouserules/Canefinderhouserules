@@ -12,11 +12,11 @@ This spell functions like [*dispel magic*](dispel-magic.md), except that it can 
 
 You choose to use *greater dispel magic* in one of three ways: a targeted dispel, area dispel, or a counterspell:
 
-*Targeted Dispel*: This functions as a targeted *dispel magic*, but it can dispel one spell for every four caster levels you possess, starting with the highest level spells and proceeding to lower level spells.
+*Targeted Dispel*: This functions as a targeted [*dispel magic*](dispel-magic.md), but it can dispel one spell for every four caster levels you possess, starting with the highest level spells and proceeding to lower level spells.
 
-Additionally, *greater dispel magic* has a chance to dispel any effect that [*remove curse*](remove-curse.md) can remove, even if *dispel magic* can’t dispel that effect. The DC of this check is equal to the curse’s DC.
+Additionally, *greater dispel magic* has a chance to dispel any effect that [*remove curse*](remove-curse.md) can remove, even if [*dispel magic*](dispel-magic.md) can’t dispel that effect. The DC of this check is equal to the curse’s DC.
 
-*Area Dispel*: When *greater dispel magic* is used in this way, the spell affects everything within a 20-foot-radius burst. Roll one dispel check and apply that check to each creature in the area, as if targeted by *dispel magic*. For each object within the area that is the target of one or more spells, apply the dispel check as with creatures. Magic items are not affected by an area dispel.
+*Area Dispel*: When *greater dispel magic* is used in this way, the spell affects everything within a 20-foot-radius burst. Roll one dispel check and apply that check to each creature in the area, as if targeted by [*dispel magic*](dispel-magic.md). For each object within the area that is the target of one or more spells, apply the dispel check as with creatures. Magic items are not affected by an area dispel.
 
 For each ongoing area or effect spell whose point of origin is within the area of the *greater dispel magic* spell, apply the dispel check to dispel the spell. For each ongoing spell whose area overlaps that of the *greater dispel magic* spell, apply the dispel check to end the effect, but only within the overlapping area.
 

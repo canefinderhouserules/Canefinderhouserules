@@ -199,7 +199,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Airless Touch (minor)**: At 1st level, with a successful melee touch attack you can steal the breath from an opponent's lungs, leaving it unable to speak, use breath weapons, cast spells with verbal components, or do anything else requiring breath for 1 round. If the target fails at a Fortitude saving throw, it's also staggered for 1 round as it catches its breath. If the target was attempting to hold its breath, it can no longer do so: it must breathe on its turn or risk suffocation and unconsciousness. Creatures that don't need to breathe are unaffected. Regardless of whether it succeeds at its saving throw, the target is immune to further uses of your airless touch for 24 hours.
 
-**Deny Gravity (major)**: At 10th level, as a standard action (1 AP) you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as *fly*). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as [*life bubble*](../../magic/spells/life-bubble.md)) for 1 minute.
+**Deny Gravity (major)**: At 10th level, as a standard action (1 AP) you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as [*fly*](../../magic/spells/fly.md)). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as [*life bubble*](../../magic/spells/life-bubble.md)) for 1 minute.
 
 ## War Blessing
 

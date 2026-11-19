@@ -40,7 +40,7 @@ All races start with normal vision. The following traits augment their vision or
 
 **See in Darkness (4 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race can see perfectly in darkness of any kind, including that created by spells such as *deeper darkness*.
+*Benefit*: Members of this race can see perfectly in darkness of any kind, including that created by spells such as [*deeper darkness*](../../magic/spells/deeper-darkness.md).
 
 ## Monstrous Traits
 

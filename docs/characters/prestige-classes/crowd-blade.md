@@ -67,7 +67,7 @@ When moving through groups of intelligent Small, Medium, or Large creatures that
 
 #### Slowing Strike (Su)
 
-At 2nd level, once per round upon successfully hitting a target with a sneak attack, a crowd blade can choose to deal 1 fewer die of sneak attack damage and instead reduce one of the target’s speeds by 5 feet. Once a target’s speed has been reduced to 0 feet, it is immobilized (but not [helpless](../../rules/appendices/conditions.md#helpless)). A target’s fly speed can be reduced this way only if it uses wings to fly. The movement penalties imposed by slowing strike can be removed by healing the affected target to full hit points or a *lesser restoration* spell.
+At 2nd level, once per round upon successfully hitting a target with a sneak attack, a crowd blade can choose to deal 1 fewer die of sneak attack damage and instead reduce one of the target’s speeds by 5 feet. Once a target’s speed has been reduced to 0 feet, it is immobilized (but not [helpless](../../rules/appendices/conditions.md#helpless)). A target’s fly speed can be reduced this way only if it uses wings to fly. The movement penalties imposed by slowing strike can be removed by healing the affected target to full hit points or a [*lesser restoration*](../../magic/spells/restoration-lesser.md) spell.
 
 #### Sneak Attack (Ex)
 

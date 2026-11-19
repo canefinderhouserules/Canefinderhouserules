@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-This spell functions as *lesser guardian monument*, except it grants DR 4/magic.
+This spell functions as [*lesser guardian monument*](guardian-monument-lesser.md), except it grants DR 4/magic.

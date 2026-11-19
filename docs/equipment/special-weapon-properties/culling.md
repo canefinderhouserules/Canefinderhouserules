@@ -11,4 +11,4 @@ This special ability can be placed only on melee slashing weapons. When a *culli
 
 ## Construction
 
-**Requirements** Cleave, Craft Magic Arms and Armor, *divine favor*; **Price** —
+**Requirements** Cleave, Craft Magic Arms and Armor, [*divine favor*](../../magic/spells/divine-favor.md); **Price** —

@@ -66,7 +66,7 @@ The following racial traits may be selected instead of existing fetchling racial
 
 **Hermit of the Gloom**: Some fetchlings learn how to deflect unwanted attention. Fetchlings with this racial trait can use [*sanctuary*](../../magic/spells/sanctuary.md) once per day as a spell-like ability. When such a fetchling reaches 9th level in any combination of classes, he gains [*nondetection*](../../magic/spells/nondetection.md) (self only) as a spell-like ability usable once per day, and at 13th level, he gains [*veil*](../../magic/spells/veil.md) (self only) usable once per day. A fetchling's caster level is equal to his total Hit Dice. This racial trait modifies the fetchling's spell-like abilities racial trait.
 
-**Umbral Escort**: Some fetchlings descend from talented planar travelers who dwelled in the dark places between worlds and could conduct others across the planes. A fetchling with this racial trait loses the *disguise self* spell-like ability, but his *shadow walk* and [*plane shift*](../../magic/spells/plane-shift.md) spell-like abilities need not affect himself only. This racial trait replaces the low-light vision racial trait and modifies the spell-like abilities racial trait.
+**Umbral Escort**: Some fetchlings descend from talented planar travelers who dwelled in the dark places between worlds and could conduct others across the planes. A fetchling with this racial trait loses the [*disguise self*](../../magic/spells/disguise-self.md) spell-like ability, but his [*shadow walk*](../../magic/spells/shadow-walk.md) and [*plane shift*](../../magic/spells/plane-shift.md) spell-like abilities need not affect himself only. This racial trait replaces the low-light vision racial trait and modifies the spell-like abilities racial trait.
 
 **Whispers from Shadow**: Fetchlings from trade cities are known for wheeling and dealing from the city's shadows. A fetchling with this racial trait gains a +4 racial bonus on Bluff checks when he tells a lie and wants to convince an opponent that what he is saying is true. This racial trait replaces the skilled racial trait.
 
@@ -96,7 +96,7 @@ Fetchlings also have the following options.
 
 **Barbarian**: Add +1 to either cold or electricity resistance while raging (maximum resistance 15 for either type).
 
-**Bard**: Add a +1 bonus on Disguise checks when using *disguise self*.
+**Bard**: Add a +1 bonus on Disguise checks when using [*disguise self*](../../magic/spells/disguise-self.md).
 
 **Cleric**: Add 1/2 point to negative energy damage dealt by channeling energy and *inflict wounds* spells.
 

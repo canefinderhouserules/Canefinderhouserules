@@ -46,7 +46,7 @@ The creature can choose one or more of the following abilities (extraordinary un
 - **Earth Glide (earth)**: The earth glide ability of an earth elemental, usable for only 1 minute per HD (not necessarily consecutive, in 1-minute increments). The creature must have a burrow speed. Selecting this ability a second time allows its use at will.
 - **Flight (air)**: A fly speed equal to its highest speed with average maneuverability (maximum fly speed of 10 feet per HD).
 - **Improved Quickness (Su, fire)**: Three times per day as a swift action (1 AP), the creature can take an extra move action (1 AP). It must already have quickness.
-- **Puddle Form (Su, water)**: Once per day, the creature can turn into an animate puddle of water for up to 10 minutes. This functions as *gaseous form*, but the creature instead has both a base speed and swim speed of 10 feet.
+- **Puddle Form (Su, water)**: Once per day, the creature can turn into an animate puddle of water for up to 10 minutes. This functions as [*gaseous form*](../../magic/spells/gaseous-form.md), but the creature instead has both a base speed and swim speed of 10 feet.
 - **Quickness (fire)**: Base movement speed increases by 10 and a +1 bonus on initiative checks. For every 5 HD, speed increases by an additional 10 feet (maximum double its base speed) and the initiative bonus increases by 1 (maximum +5).
 - **Swim (water)**: A swim speed equal to its highest speed (maximum 100 feet). The creature also gains the amphibious and aquatic subtypes.
 

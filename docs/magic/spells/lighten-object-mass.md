@@ -3,6 +3,7 @@
 **School** transmutation; **Level** cleric 5, magus 5, sorcerer/wizard 5, summoner 5  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, M (goose down)  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** multiple objects totaling up to 1 cubic ft./level, no two of which can be more than 30 ft. apart  
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)

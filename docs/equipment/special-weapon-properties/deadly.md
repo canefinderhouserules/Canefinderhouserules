@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons that normally deal nonl
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *inflict light wounds*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*inflict light wounds*](../../magic/spells/inflict-light-wounds.md); **Price** —

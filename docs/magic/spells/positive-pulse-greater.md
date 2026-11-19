@@ -3,6 +3,7 @@
 **School** necromancy; **Level** cleric 4, inquisitor 4, paladin 4, shaman 4, sorcerer/wizard 4, spiritualist 4, summoner 4, witch 4  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Area** 15-ft.-radius burst  
 **Duration** instantaneous plus 1 round (see text)  
 **Saving Throw** Will negates or Will negates (harmless); see text; **Spell Resistance** yes

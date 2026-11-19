@@ -11,4 +11,4 @@ A *thundering* weapon creates a cacophonous roar like abilities thunder whenever
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *blindness/deafness*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*blindness/deafness*](../../magic/spells/blindness-deafness.md); **Price** —

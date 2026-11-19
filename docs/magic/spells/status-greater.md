@@ -1,6 +1,6 @@
 # Status, Greater
 
-**School** divination  
+**School** divination; **Level** 0, 1st, or 2nd  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
 **Range** touch  

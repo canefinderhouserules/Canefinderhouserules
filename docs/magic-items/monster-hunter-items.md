@@ -8,7 +8,7 @@ Certain monsters are known to be notoriously elusive or physically overwhelming,
 
 The bone handle of this +1 *wounding* dagger is engraved with imagery of fierce beasts. Once per day as a standard action (1 AP), the dagger can be driven into a target’s appendage by making a melee attack with a –5 penalty. If this attack hits, the dagger drives itself into the bone of the creature, giving the creature a –2 penalty on attacks, damage rolls, and Reflex saves for 1 minute. The dagger can be removed by the target or another adjacent creature with a successful DC 15 Strength check. The dagger also grants a +4 competence bonus on skill checks attempted in conjunction with the [Harvest Parts](../rules/feats/harvest-parts.md) feat.
 
-*Construction* Craft Magic Arms and Armor, *bleed*, *crafter’s fortune*, *howling agony*; Cost 11,052 gp.
+*Construction* Craft Magic Arms and Armor, [*bleed*](../magic/spells/bleed.md), [*crafter’s fortune*](../magic/spells/crafters-fortune.md), [*howling agony*](../magic/spells/howling-agony.md); Cost 11,052 gp.
 
 ## Detecting Dart
 
@@ -20,7 +20,7 @@ Once separated, the back half of the dart detects where the front half is as lon
 
 Should a creature eat the flesh of a target with an embedded detecting dart, it has a 50% chance of consuming the dart. Should the dart transfer from one creature to another in this way, the dart’s back half instead tracks the new creature.
 
-*Construction* Craft Magic Arms and Armor, *locate creature*; Cost 1,000 gp.
+*Construction* Craft Magic Arms and Armor, [*locate creature*](../magic/spells/locate-creature.md); Cost 1,000 gp.
 
 ## Melding Cloak
 
@@ -28,9 +28,9 @@ Should a creature eat the flesh of a target with an embedded detecting dart, it 
 
 This cloak is lined with thin strings of varying colors that shift in color to match surrounding material such as dirt, grass, or stone. This grants the wearer a +2 competence bonus on Stealth checks. As a standard action (1 AP), the wearer is able to physically meld into material such as wood, plaster, or stone (but not metal or other heavily worked materials), appearing as a dim shadow on the surface. The wearer can move across any exposed portion of the material at half her normal movement speed, allowing her to travel up walls or across floors. While melded with material in this manner, the wearer gains a +10 circumstance bonus on Stealth checks. The wearer can meld with material for up to 10 minutes per day. This duration need not be consecutive, but it must be spent in 1-minute increments.
 
-Nearby creatures can notice the melded wearer with a successful Perception check. The wearer can be targeted normally while melded with material. If the wearer takes any damage while melded, or if the surface material is manipulated with *stone shape*, *warp wood*, or similar spells, the wearer is immediately shunted out of the material into the nearest open space.
+Nearby creatures can notice the melded wearer with a successful Perception check. The wearer can be targeted normally while melded with material. If the wearer takes any damage while melded, or if the surface material is manipulated with [*stone shape*](../magic/spells/stone-shape.md), [*warp wood*](../magic/spells/warp-wood.md), or similar spells, the wearer is immediately shunted out of the material into the nearest open space.
 
-*Construction* Craft Wondrous Item, *invisibility*, *passwall*; Cost 12,500 gp.
+*Construction* Craft Wondrous Item, [*invisibility*](../magic/spells/invisibility.md), [*passwall*](../magic/spells/passwall.md); Cost 12,500 gp.
 
 ## Monstrous Dye
 
@@ -38,7 +38,7 @@ Nearby creatures can notice the melded wearer with a successful Perception check
 
 This small bone container is filled with a thick dye. Each container holds enough dye to cover one ornament created with the [Grisly Ornament](../rules/feats/grisly-ornament.md) feat. When applied to an ornament, it aids in the ornament’s preservation, allowing it to remain effective for an additional 24 hours. Once per day as a free action, a dyed ornament can be commanded to attack a target adjacent to the wearer. A ghostly image of the creature from which the ornament was harvested appears and makes a natural attack against the target, attacking with the wearer’s base attack bonus and dealing 2d6 points of damage. This attack can be made in addition to any actions performed by the wielder. An ornament integrated into a wondrous item with the [Monstrous Crafter](../rules/feats/monstrous-crafter.md) feat can gain this attack ability, but doing so requires two applications of monstrous dye to function properly.
 
-*Construction* Craft Wondrous Item, *gentle repose*, *summon nature’s ally IV*; Cost 1,125 gp.
+*Construction* Craft Wondrous Item, [*gentle repose*](../magic/spells/gentle-repose.md), [*summon nature’s ally IV*](../magic/spells/summon-natures-ally-iv.md); Cost 1,125 gp.
 
 ## Necklace of Beast’s Might
 
@@ -56,21 +56,21 @@ A necklace of beast’s might is a crude necklace made from a particular part (o
 | Scales | 9,000 gp | 4,500 gp |
 | Teeth | 12,000 gp | 6,000 gp |
 
-**Bones**: The wearer gains DR 2/— against natural attacks from the associated creature type. Moderate transmutation; CL 7th; *stoneskin*.
+**Bones**: The wearer gains DR 2/— against natural attacks from the associated creature type. Moderate transmutation; CL 7th; [*stoneskin*](../magic/spells/stoneskin.md).
 
-**Claws**: The wearer gains a +2 morale bonus on attack rolls against the associated creature type. Moderate transmutation; CL 8th; *magic weapon*.
+**Claws**: The wearer gains a +2 morale bonus on attack rolls against the associated creature type. Moderate transmutation; CL 8th; [*magic weapon*](../magic/spells/magic-weapon.md).
 
-**Eyes**: The wearer gains a +5 insight bonus on Knowledge checks to identify creatures of the associated type and on Perception checks opposed by such creatures’ Disguise checks. Faint divination; CL 5th; *know the enemy*.
+**Eyes**: The wearer gains a +5 insight bonus on Knowledge checks to identify creatures of the associated type and on Perception checks opposed by such creatures’ Disguise checks. Faint divination; CL 5th; [*know the enemy*](../magic/spells/know-the-enemy.md).
 
-**Hair**: The wearer gains a +2 competence bonus on Survival checks to track the associated creature type, and the scent special ability, but only to notice odors of the associated creature type. Faint transmutation; CL 5th; *beast shape I*.
+**Hair**: The wearer gains a +2 competence bonus on Survival checks to track the associated creature type, and the scent special ability, but only to notice odors of the associated creature type. Faint transmutation; CL 5th; [*beast shape I*](../magic/spells/beast-shape-i.md).
 
-**Horns**: The wearer gains a +2 bonus on combat maneuvers and to CMD against the associated creature type. Faint transmutation; CL 5th; *bull’s strength*.
+**Horns**: The wearer gains a +2 bonus on combat maneuvers and to CMD against the associated creature type. Faint transmutation; CL 5th; [*bull’s strength*](../magic/spells/bulls-strength.md).
 
-**Scales**: The wearer gains a +2 insight bonus to AC against attacks made by the associated creature type. Moderate transmutation; CL 9th; *barkskin*.
+**Scales**: The wearer gains a +2 insight bonus to AC against attacks made by the associated creature type. Moderate transmutation; CL 9th; [*barkskin*](../magic/spells/barkskin.md).
 
-**Teeth**: The wearer gains a +2 bonus on damage rolls against creatures of that type. The wearer’s critical hits against such creatures deal 1d6 bleed damage. Moderate transmutation; CL 8th; *magic weapon*.
+**Teeth**: The wearer gains a +2 bonus on damage rolls against creatures of that type. The wearer’s critical hits against such creatures deal 1d6 bleed damage. Moderate transmutation; CL 8th; [*magic weapon*](../magic/spells/magic-weapon.md).
 
-*Construction* Craft Wondrous Item, *locate creature*, additional spells (see text); Cost as listed above.
+*Construction* Craft Wondrous Item, [*locate creature*](../magic/spells/locate-creature.md), additional spells (see text); Cost as listed above.
 
 ## Nest Revealer
 
@@ -78,7 +78,7 @@ A necklace of beast’s might is a crude necklace made from a particular part (o
 
 This small vial is sealed with a fine metal cap engraved with the visage of a noble hound. When a few drops of a creature’s blood are placed in the vial, it begins to fill on its own, replicating the creature’s blood over the span of 1 minute. After 1 minute, the vial shatters and a small fist-sized orb of crystallized blood falls to the ground. This animate orb rolls in the direction of the last location in which the source creature slept for at least 1 hour. The blood travels at a rate of 20 feet per round and can travel up to 10 miles over the span of 5 hours. If the orb does not reach the creature’s nest within 5 hours, it collapses into a puddle containing enough blood to activate another nest revealer.
 
-*Construction* Craft Wondrous Item, *locate creature*; Cost 250 gp.
+*Construction* Craft Wondrous Item, [*locate creature*](../magic/spells/locate-creature.md); Cost 250 gp.
 
 ## Penetrating Whetstone
 
@@ -86,7 +86,7 @@ This small vial is sealed with a fine metal cap engraved with the visage of a no
 
 This whetstone is made from finely worked obsidian. Sharpening a blade with this whetstone requires 15 minutes of work and grants the weapon the ability to ignore up to 3 points of natural armor for its next five attacks. If the target of the weapon’s attack has a natural armor bonus of less than +3, the weapon deals 1 additional point of damage for each point of natural armor below 3 the target has. The process of honing the blade shatters a portion of the whetstone’s enchanted obsidian, dispelling its magic and turning it into a mundane whetstone afterward.
 
-*Construction* Craft Wondrous Item, *keen edge*; Cost 1,000 gp.
+*Construction* Craft Wondrous Item, [*keen edge*](../magic/spells/keen-edge.md); Cost 1,000 gp.
 
 ## Pocket Prey
 
@@ -94,4 +94,4 @@ This whetstone is made from finely worked obsidian. Sharpening a blade with this
 
 This small container features a stone base with a glass cover. The container can hold half a pound of flesh or similar organic matter, preserving it for up to 24 hours. On command, the container emanates the smell of the contained material out to a 100-foot radius. Additionally, the container lets out a cry every minute, imitating that of an injured member of the variety of the flesh within the container. This cry can be clearly heard up to 150 feet from the container.
 
-*Construction* Craft Wondrous Item, *gentle repose*, *major image*; Cost 3,000 gp.
+*Construction* Craft Wondrous Item, [*gentle repose*](../magic/spells/gentle-repose.md), [*major image*](../magic/spells/major-image.md); Cost 3,000 gp.

@@ -11,4 +11,4 @@ A *planestriking* weapon functions as a *planar* weapon, ignoring up to 5 points
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *dismissal*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*dismissal*](../../magic/spells/dismissal.md); **Price** —

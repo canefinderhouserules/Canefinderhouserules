@@ -53,9 +53,9 @@ The most common haunts are rapping spirits: unquiet dead with just enough substa
 **Type** alignment varies persistent haunt (5-ft. radius)  
 **Caster Level** 1st  
 **Notice** *Perception* DC 10 (to hear faint knocking on the walls, floor, and furniture)  
-**hp** 4; **Weakness** tricked by *hide from undead*; **Trigger** proximity; **Reset** 1 day
+**hp** 4; **Weakness** tricked by [*hide from undead*](../../magic/spells/hide-from-undead.md); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: A chorus of agitated raps and blows rings out from nearby hard surfaces (limited to those capable of being physically manipulated by *mage hand*) as unquiet spirits convey their unrest to the living. All who hear the supernatural knocks are affected by a *cause fear* effect (Will DC 11 negates).
+**Effect**: A chorus of agitated raps and blows rings out from nearby hard surfaces (limited to those capable of being physically manipulated by [*mage hand*](../../magic/spells/mage-hand.md)) as unquiet spirits convey their unrest to the living. All who hear the supernatural knocks are affected by a [*cause fear*](../../magic/spells/cause-fear.md) effect (Will DC 11 negates).
 
 **Destruction**: Depending on its alignment, a rapping spirit typically asks for its mortal remains to be laid to rest or for the PCs to seek revenge for its death. Fulfilling the request dismisses the haunt.
 
@@ -67,9 +67,9 @@ Some haunts influence the thoughts and actions of those in the mortal realms to 
 **Type** alignment varies persistent haunt (15-ft. radius)  
 **Caster Level** 1st  
 **Notice** *Perception* DC 15 (to hear faint mutterings and feel a cool breeze)  
-**hp** 13; **Weakness** tricked by *hide from undead*; **Trigger** proximity; **Reset** 1 day
+**hp** 13; **Weakness** tricked by [*hide from undead*](../../magic/spells/hide-from-undead.md); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: This haunt seeks to influence the actions of the living, targeting a victim with a *suggestion* effect or a heightened *command* (save DC 14 for either). Depending on the haunt’s alignment and goals, the suggested actions may be malicious (such as subtly putting its victims in harm’s way or sowing antagonistic interactions) or benign (such as prompting mysterious automatic writings or unconscious utterances in hopes of communicating its ambitions to the world of the living).
+**Effect**: This haunt seeks to influence the actions of the living, targeting a victim with a [*suggestion*](../../magic/spells/suggestion.md) effect or a heightened [*command*](../../magic/spells/command.md) (save DC 14 for either). Depending on the haunt’s alignment and goals, the suggested actions may be malicious (such as subtly putting its victims in harm’s way or sowing antagonistic interactions) or benign (such as prompting mysterious automatic writings or unconscious utterances in hopes of communicating its ambitions to the world of the living).
 
 **Destruction**: A demanding dead typically asks for rest for its mortal remains or the resolution of desires unfulfilled in life. Fulfilling the request dismisses the haunt.
 
@@ -81,9 +81,9 @@ Overwhelming, unresolved guilt—or horrific death by thousands of tiny teeth—
 **Type** CE free-roaming persistent vaporous haunt (30-ft.-by-30-ft. room)  
 **Caster Level** 5th  
 **Notice** *Perception* DC 15 (to hear scratching in walls)  
-**hp** 22; **Weakness** tricked by *hide from undead*; **Trigger** proximity; **Reset** 1 day
+**hp** 22; **Weakness** tricked by [*hide from undead*](../../magic/spells/hide-from-undead.md); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: This free-roaming haunt wanders the vacant halls of old manors and dank dungeons. When the haunt is triggered, the skeletal remains of spectral rats burst forth from every crack and crevice of the room, scurrying over the area and voraciously consuming trespassers, as the *summon swarm* spell.
+**Effect**: This free-roaming haunt wanders the vacant halls of old manors and dank dungeons. When the haunt is triggered, the skeletal remains of spectral rats burst forth from every crack and crevice of the room, scurrying over the area and voraciously consuming trespassers, as the [*summon swarm*](../../magic/spells/summon-swarm.md) spell.
 
 **Destruction**: A character must ritually kill a common cat in the area. The cat’s ghost manifests and consumes the ectoplasmic swarm over the course of 1 week, earning both the cat and the rats permanent rest.
 
@@ -95,9 +95,9 @@ Sometimes a weapon that slays a powerful witch or hag becomes tainted by the vic
 **Type** LE persistent item-bound haunt (haunted object affecting up to a 35-ft. radius)  
 **Caster Level** 7th  
 **Notice** *Perception* DC 25 (to hear distant cackling when touching the weapon)  
-**hp** 36; **Weakness** tricked by *invisibility*; **Trigger** special (see below); **Reset** 1 day
+**hp** 36; **Weakness** tricked by [*invisibility*](../../magic/spells/invisibility.md); **Trigger** special (see below); **Reset** 1 day
 
-**Effect**: Whenever the wielder of the haunted weapon threatens a critical hit with the weapon, the area immediately resonates with a cacophonous cackling. All creatures within a 35-foot radius centered on the weapon suffer the effects of a *song of discord* spell (Will DC 17 negates) for the next 8 rounds. If the weapon’s wielder is affected, she gains a +2 bonus on the critical confirmation roll.
+**Effect**: Whenever the wielder of the haunted weapon threatens a critical hit with the weapon, the area immediately resonates with a cacophonous cackling. All creatures within a 35-foot radius centered on the weapon suffer the effects of a [*song of discord*](../../magic/spells/song-of-discord.md) spell (Will DC 17 negates) for the next 8 rounds. If the weapon’s wielder is affected, she gains a +2 bonus on the critical confirmation roll.
 
 **Destruction**: The weapon must be boiled in the cauldron of a willing hag’s coven, which destroys both the weapon and the cauldron at the same time.
 
@@ -111,8 +111,8 @@ This haunt hides within a host’s body, at first offering tempting boons to mak
 **Notice** *Perception* DC 20 (to feel a malignant presence and hear faint mutterings)  
 **hp** 40; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: This haunt subtly possesses a living host as *possession* (Will DC 20 negates) in order to sow fear and injury in the wider world. When it first possesses a host creature, the insidious presence may offer enticing boons for several months using its *shadow conjuration* effect (such as summoning allies to assist the host). But soon, the haunt’s inner malignancy takes over as it uses its *shadow conjuration* (DC 18 where applicable) to produce harmful or even deadly effects against its host.
+**Effect**: This haunt subtly possesses a living host as [*possession*](../../magic/spells/possession.md) (Will DC 20 negates) in order to sow fear and injury in the wider world. When it first possesses a host creature, the insidious presence may offer enticing boons for several months using its [*shadow conjuration*](../../magic/spells/shadow-conjuration.md) effect (such as summoning allies to assist the host). But soon, the haunt’s inner malignancy takes over as it uses its *shadow conjuration* (DC 18 where applicable) to produce harmful or even deadly effects against its host.
 
-An insidious presence that has slain a number of different hosts equal to its CR undergoes a startling transformation. This powerful entity has CR of 12, learns to utilize greater *shadow conjuration* (DC 22 where applicable), has a caster level of 14, has a radius of 60 feet when not possessing a creature, and has 54 hit points.
+An insidious presence that has slain a number of different hosts equal to its CR undergoes a startling transformation. This powerful entity has CR of 12, learns to utilize greater [*shadow conjuration*](../../magic/spells/shadow-conjuration.md) (DC 22 where applicable), has a caster level of 14, has a radius of 60 feet when not possessing a creature, and has 54 hit points.
 
 **Destruction**: An insidious presence can be destroyed only if an innocent creature willingly accepts it into its body and then intentionally sacrifices its life to destroy the haunt forever.

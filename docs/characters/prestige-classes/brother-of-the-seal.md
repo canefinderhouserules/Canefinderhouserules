@@ -107,4 +107,4 @@ At 9th level, when a Brother of the Seal’s awesome blow maneuver succeeds and 
 
 #### Unraveling (Su)
 
-At 10th level, a Brother of the Seal’s unsealing ability can destroy force effects and abjuration, conjuration, and evocation effects that create stationary barriers (such as [*prismatic sphere*](../../magic/spells/prismatic-sphere.md), [*tiny hut*](../../magic/spells/tiny-hut.md), or [*wall of ice*](../../magic/spells/wall-of-ice.md)), even if the effect cannot normally be subjected to *dispel magic*.
+At 10th level, a Brother of the Seal’s unsealing ability can destroy force effects and abjuration, conjuration, and evocation effects that create stationary barriers (such as [*prismatic sphere*](../../magic/spells/prismatic-sphere.md), [*tiny hut*](../../magic/spells/tiny-hut.md), or [*wall of ice*](../../magic/spells/wall-of-ice.md)), even if the effect cannot normally be subjected to [*dispel magic*](../../magic/spells/dispel-magic.md).

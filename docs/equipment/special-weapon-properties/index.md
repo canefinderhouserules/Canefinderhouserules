@@ -59,7 +59,7 @@
 
 **Anti-parry:** Ignores AC added by weapons, and parry and riposte cannot be used against this weapon.
 
-**Anti-shield:** Ignores 2 points of AC from shields (real, physical ones; the *shield* spell doesn’t count).
+**Anti-shield:** Ignores 2 points of AC from shields (real, physical ones; the [*shield*](../../magic/spells/shield.md) spell doesn’t count).
 
 **Light Flail:** If you spend a swift action (1 AP), your next attack deals double the weapon’s damage (only the weapon’s: 1d6 becomes 2d6, with no double Strength or anything like that). This attack takes a –1 penalty.
 

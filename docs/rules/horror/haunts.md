@@ -27,7 +27,7 @@ An unyielding haunt has all of the properties of a tenacious haunt, except when 
 
 ## Variant Haunts
 
-Haunts that are not tied to undeath are not vulnerable to positive energy, and cannot be detected with spells such as *detect undead* or evaded with spells such as *hide from undead*. They have their own sets of vulnerabilities and defenses.
+Haunts that are not tied to undeath are not vulnerable to positive energy, and cannot be detected with spells such as [*detect undead*](../../magic/spells/detect-undead.md) or evaded with spells such as [*hide from undead*](../../magic/spells/hide-from-undead.md). They have their own sets of vulnerabilities and defenses.
 
 ### Dimensional Instabilities
 
@@ -56,7 +56,7 @@ In addition to good and lawful effects, the haunt is vulnerable to other damage 
 
 **Benefit**: A character can channel the instability’s power by spending 1 minute in the area while performing a ritual to focus its energy, requiring a DC 30 Knowledge (arcana) or Knowledge (planes) check. If she succeeds, she gains the fiendish template for 24 hours, and her alignment shifts one step closer to chaotic evil. If she fails, she is pulled into the Abyss.
 
-**Destruction**: The instability can only be permanently closed with a *miracle* or *wish* spell. A *hallow* spell tied to a dimensional anchor can temporarily prevent the instability’s effects.
+**Destruction**: The instability can only be permanently closed with a [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) spell. A [*hallow*](../../magic/spells/hallow.md) spell tied to a dimensional anchor can temporarily prevent the instability’s effects.
 
 ### Maddening Influence
 
@@ -80,7 +80,7 @@ The whispers from beyond haunt detailed below is an example of a maddening influ
 
 Each spell, no matter how weak, leaves its signature on the world for a short time, which spellcasters can perceive as a lingering magical aura. When dozens of powerful spells are hurled against each other over a small area, reality itself can form scars that affect all who come near them.
 
-Magical scars have auras and count as ongoing spell effects for the purposes of *detect magic* and similar spells. A successful Spellcraft check to identify a scar reveals its effect and its weakness, and, if it succeeds by 10 or more, the scar’s benefit. A creature can’t attempt to activate a benefit it hasn’t identified. Spells that automatically reveal the nature of magical effects, such as *greater arcane sight*, automatically reveal all of these properties. The destruction conditions for magical scars are more obscure, and require research or exploration to uncover.
+Magical scars have auras and count as ongoing spell effects for the purposes of [*detect magic*](../../magic/spells/detect-magic.md) and similar spells. A successful Spellcraft check to identify a scar reveals its effect and its weakness, and, if it succeeds by 10 or more, the scar’s benefit. A creature can’t attempt to activate a benefit it hasn’t identified. Spells that automatically reveal the nature of magical effects, such as [*greater arcane sight*](../../magic/spells/arcane-sight-greater.md), automatically reveal all of these properties. The destruction conditions for magical scars are more obscure, and require research or exploration to uncover.
 
 The arcane storm haunt arose when a pair of evokers dueled to the death centuries ago. An echo of the duel still rages at the site of their battle, and the charred ground tells the bitter tale.
 
@@ -92,7 +92,7 @@ The arcane storm haunt arose when a pair of evokers dueled to the death centurie
 **Notice** Perception or Spellcraft DC 20 (to hear the sound of clashing energy or deduce the effect from the charred ground)  
 **hp** 27; **Weakness** energy damage (immune to positive energy); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: Each round, the arcane storm fires a bolt of energy to hit as many creatures as possible in its area (Reflex DC 15 halves). This functions as per *lightning bolt*, except the energy type cycles between acid, cold, electricity, and fire. The storm is immune to the most recent type of energy damage it has dealt.
+**Effect**: Each round, the arcane storm fires a bolt of energy to hit as many creatures as possible in its area (Reflex DC 15 halves). This functions as per [*lightning bolt*](../../magic/spells/lightning-bolt.md), except the energy type cycles between acid, cold, electricity, and fire. The storm is immune to the most recent type of energy damage it has dealt.
 
 **Benefit**: A character who fails the save against one of the arcane storm’s bolts and does not reduce the damage in any way (such as energy resistance) can attempt a DC 16 Will save to harness a fraction of the storm’s power. A character who harnesses the storm’s power gains 5 charges. He can spend 1 charge as a free action to add 1d6 points of damage of the same energy type as that of the channeled bolt to either an evocation spell that deals damage matching any of the storm’s four energy types or to a natural attack or unarmed strike. A creature can gain charges from the arcane storm only once.
 
@@ -100,9 +100,9 @@ The arcane storm haunt arose when a pair of evokers dueled to the death centurie
 
 ### Psychic Haunts
 
-Sometimes, the collective emotional energy of significant or traumatic events creates a lasting psychic impression, even in places not associated with death. These psychic haunts are mind-affecting emotion effects. A character who uses *analyze aura* or the read aura skill unlock on a psychic haunt’s area automatically detects the haunt and receives cryptic clues about how to put it to rest.
+Sometimes, the collective emotional energy of significant or traumatic events creates a lasting psychic impression, even in places not associated with death. These psychic haunts are mind-affecting emotion effects. A character who uses [*analyze aura*](../../magic/spells/analyze-aura.md) or the read aura skill unlock on a psychic haunt’s area automatically detects the haunt and receives cryptic clues about how to put it to rest.
 
-Every psychic haunt focuses on a specific emotion, and when targeted by or within the area of effect of an emotion spell or effect that is not connected to the associated emotion, they take damage equal to three times the effect’s spell level (each spell deals damage to the haunt once, regardless of its duration). *Calm emotions* damages psychic haunts regardless of their associated emotion, and an emotion effect without a spell level deals an amount of damage equal to the HD of the creature who created the effect. A character can calm a psychic haunt with a Diplomacy check (DC = 15 + the haunt’s CR). If successful, the haunt takes 5 points of damage plus additional damage equal to the amount the character exceeded the DC.
+Every psychic haunt focuses on a specific emotion, and when targeted by or within the area of effect of an emotion spell or effect that is not connected to the associated emotion, they take damage equal to three times the effect’s spell level (each spell deals damage to the haunt once, regardless of its duration). [*Calm emotions*](../../magic/spells/calm-emotions.md) damages psychic haunts regardless of their associated emotion, and an emotion effect without a spell level deals an amount of damage equal to the HD of the creature who created the effect. A character can calm a psychic haunt with a Diplomacy check (DC = 15 + the haunt’s CR). If successful, the haunt takes 5 points of damage plus additional damage equal to the amount the character exceeded the DC.
 
 The psychic echo below lies in the heart of an abandoned village. A group of raiders drove the villagers from their home by the sword, but an echo of the villagers’ fury persists, stoking hatred against all members of the raiders’ ethnic group.
 
@@ -112,9 +112,9 @@ The psychic echo below lies in the heart of an abandoned village. A group of rai
 **Type** N persistent variant haunt (30-ft. radius)  
 **Caster Level** 11th  
 **Notice** Sense Motive DC 25 (to sense an internal spark of anger)  
-**hp** 45; **Weakness** emotion effects and *calm emotions* (immune to positive energy); **Trigger** proximity; **Reset** 1 day
+**hp** 45; **Weakness** emotion effects and [*calm emotions*](../../magic/spells/calm-emotions.md) (immune to positive energy); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: As per *foster hatred*, except any creature that fails a DC 19 Will save becomes hostile toward members of the raiders’ ethnic group.
+**Effect**: As per [*foster hatred*](../../magic/spells/foster-hatred.md), except any creature that fails a DC 19 Will save becomes hostile toward members of the raiders’ ethnic group.
 
 **Destruction**: To destroy the haunt, two people, one each of the villagers’ and raiders’ ethnicity must reveal their true love for one another (typically by marrying) within the haunt’s area.
 
@@ -164,7 +164,7 @@ Cold spots are echoes of spirits too weak to manifest as ghosts. They can occur 
 
 All creatures within the radius are affected as if they had been outside in cold weather for 1 hour, taking 1d6 points of nonlethal damage unless they succeed at a DC 15 Fortitude save. The cold temperature lingers for 10 minutes, but has no additional mechanical effect.
 
-**Destruction**: If the cold spot is destroyed with holy fire (such as with *flame strike*), it never returns.
+**Destruction**: If the cold spot is destroyed with holy fire (such as with [*flame strike*](../../magic/spells/flame-strike.md)), it never returns.
 
 ### Spectral Screams (CR 2)
 
@@ -176,7 +176,7 @@ Some spirits take joy in terrifying the living. Spectral screams are collections
 **Notice** Perception DC 10 (to hear the moaning spirits approaching)  
 **hp** 4; **Weakness** Intimidate; **Trigger** proximity; **Reset** 1 hour
 
-**Effect**: Spectral forms of disembodied heads emerge from the floor and scream at everyone in the area, their jaws distending to an impossible width. Creatures are affected by *scare*. The spectral heads take pride in terrorizing their victims; if a creature succeeds at a DC 16 Intimidate check to demonstrate its own frightening nature, the spirits decide the PC is the true winner of the current contest, after which they lose interest in the PCs for 1 hour as if reduced to 0 hit points.
+**Effect**: Spectral forms of disembodied heads emerge from the floor and scream at everyone in the area, their jaws distending to an impossible width. Creatures are affected by [*scare*](../../magic/spells/scare.md). The spectral heads take pride in terrorizing their victims; if a creature succeeds at a DC 16 Intimidate check to demonstrate its own frightening nature, the spirits decide the PC is the true winner of the current contest, after which they lose interest in the PCs for 1 hour as if reduced to 0 hit points.
 
 **Destruction**: The spectral screams haunt is destroyed if a creature spends 8 consecutive hours sleeping in its area.
 
@@ -190,9 +190,9 @@ Foreboding mists lurk in ill-kept graveyards, drawing their substance from the u
 **Notice** Perception DC 15 (to notice a chill fog forming)  
 **hp** 13; **Weakness** slow; **Trigger** proximity; **Reset** 1 hour
 
-**Effect**: A chilly fog descends, twisting and condensing into claws that grab and prod those within it. This fog functions as per *haunting mists* (DC 13).
+**Effect**: A chilly fog descends, twisting and condensing into claws that grab and prod those within it. This fog functions as per [*haunting mists*](../../magic/spells/haunting-mists.md) (DC 13).
 
-**Destruction**: Casting *consecrate* on the ground underneath the mist prevents it from returning.
+**Destruction**: Casting [*consecrate*](../../magic/spells/consecrate.md) on the ground underneath the mist prevents it from returning.
 
 ### Buried Alive (CR 4)
 
@@ -218,7 +218,7 @@ The regret of those who arrived too late to spare others a terrible fate can man
 **Notice** Perception DC 20 (to hear running footsteps)  
 **hp** 22; **Weakness** slow; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: The spectral forms of several people take faltering steps before falling to their knees and wailing with grief. All creatures in the area are exhausted (no save, as per *waves of exhaustion*) and are slowed for 13 minutes as per *slow* unless they succeed at a DC 16 Will saving throw.
+**Effect**: The spectral forms of several people take faltering steps before falling to their knees and wailing with grief. All creatures in the area are exhausted (no save, as per [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md)) and are slowed for 13 minutes as per [*slow*](../../magic/spells/slow.md) unless they succeed at a DC 16 Will saving throw.
 
 **Destruction**: These spirits find rest only if those they could not save lead them to the afterlife.
 
@@ -232,7 +232,7 @@ After a merchant was murdered at a party being held to celebrate his latest vent
 **Notice** Perception DC 25 (to notice the corpse’s hand twitching)  
 **hp** 27; **Trigger** touch; **Reset** 1 week
 
-**Effect**: The merchant’s spirit subtly possesses the creature who touched his corpse (even if the creature touched it with a tool), as per *riding possession* (Will DC 17 negates), except he and the host can communicate telepathically. He nudges his host toward investigating his murder. On any day his host makes progress, he is pleased and grants his host a +2 morale bonus on skill checks. If his host does not make progress for 1 week, he curses his host in a fit of rage. This functions as per *bestow curse* (Will DC 16 negates), except the spirit can remove it whenever he chooses. He can apply one new curse per week.
+**Effect**: The merchant’s spirit subtly possesses the creature who touched his corpse (even if the creature touched it with a tool), as per [*riding possession*](../../magic/spells/riding-possession.md) (Will DC 17 negates), except he and the host can communicate telepathically. He nudges his host toward investigating his murder. On any day his host makes progress, he is pleased and grants his host a +2 morale bonus on skill checks. If his host does not make progress for 1 week, he curses his host in a fit of rage. This functions as per [*bestow curse*](../../magic/spells/bestow-curse.md) (Will DC 16 negates), except the spirit can remove it whenever he chooses. He can apply one new curse per week.
 
 **Destruction**: The merchant’s spirit can rest only if the murderer dies in an act of revenge. If the murderer dies of other causes before this can happen, the merchant’s spirit demands another form of harsh vengeance against the murderer’s memory or family.
 
@@ -246,9 +246,9 @@ When the sting of betrayal lingers beyond the grave, it can manifest as a disjoi
 **Notice** Perception or Sense Motive DC 20 (to see the outlines of a dozen cloaked figures begin to form or feel a sudden sense of suspicion)  
 **hp** 31; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: As dozens of cloaked figures swarm the area, the line between friend and foe blurs, and paranoia descends upon everyone within the haunt’s area, as per *confusion* (Will DC 15 negates). Furthermore, creatures within the haunt’s area must attempt a DC 15 Will saving throw against the haunt’s curse. Until it is removed, the curse forces its victims to attempt saving throws against spells, including those designated harmless. Additionally, the victims cannot benefit from any effect that requires them to treat another creature as an ally, such as flanking or aid another. *Remove curse* can remove this effect.
+**Effect**: As dozens of cloaked figures swarm the area, the line between friend and foe blurs, and paranoia descends upon everyone within the haunt’s area, as per [*confusion*](../../magic/spells/confusion.md) (Will DC 15 negates). Furthermore, creatures within the haunt’s area must attempt a DC 15 Will saving throw against the haunt’s curse. Until it is removed, the curse forces its victims to attempt saving throws against spells, including those designated harmless. Additionally, the victims cannot benefit from any effect that requires them to treat another creature as an ally, such as flanking or aid another. [*Remove curse*](../../magic/spells/remove-curse.md) can remove this effect.
 
-**Destruction**: The betrayal haunt is destroyed if a victim falls unconscious or dies because of damage it took on behalf of another creature in the area. Any spell or ability that allows for the transfer of damage, such as *shield other* or a life oracle’s lifelink ability, satisfies this haunt’s requirement. This doesn’t work if the characters in question colluded to manufacture the damage transfer to destroy the haunt; it works only if it was a truly selfless act of protecting another.
+**Destruction**: The betrayal haunt is destroyed if a victim falls unconscious or dies because of damage it took on behalf of another creature in the area. Any spell or ability that allows for the transfer of damage, such as [*shield other*](../../magic/spells/shield-other.md) or a life oracle’s lifelink ability, satisfies this haunt’s requirement. This doesn’t work if the characters in question colluded to manufacture the damage transfer to destroy the haunt; it works only if it was a truly selfless act of protecting another.
 
 ### Watery Grave (CR 8)
 
@@ -260,7 +260,7 @@ Watery grave haunts typically travel aboard ghost ships, protecting the ghost ve
 **Notice** Perception DC 20 (to hear bubbles rising to the surface of the water)  
 **hp** 36; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: A ghostly tendril of water erupts from the sea and forces itself into the lungs of a living creature aboard the ship, which then begins to drown. This functions as per *suffocation* (Fortitude DC 17 negates). The haunt affects one additional victim each round until it is dispersed.
+**Effect**: A ghostly tendril of water erupts from the sea and forces itself into the lungs of a living creature aboard the ship, which then begins to drown. This functions as per [*suffocation*](../../magic/spells/suffocation.md) (Fortitude DC 17 negates). The haunt affects one additional victim each round until it is dispersed.
 
 **Destruction**: The watery grave haunt is destroyed if the ghost ship’s captain is permanently destroyed.
 
@@ -274,7 +274,7 @@ A pack of ravenous ghouls descended upon a once-peaceful town, killing or transf
 **Notice** Perception DC 20 (to hear teeth scraping against bone)  
 **hp** 40; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: A swarm of disembodied mouths fills the area. Each humanoid creature in the area must succeed at a DC 21 Fortitude save or be paralyzed 1, as per *mass hold person*. The maws swarm around paralyzed creatures, dealing them 4d6 points of damage per round. Elves are immune to the effects of this haunt.
+**Effect**: A swarm of disembodied mouths fills the area. Each humanoid creature in the area must succeed at a DC 21 Fortitude save or be paralyzed 1, as per [*mass hold person*](../../magic/spells/hold-person-mass.md). The maws swarm around paralyzed creatures, dealing them 4d6 points of damage per round. Elves are immune to the effects of this haunt.
 
 **Destruction**: Living (though not necessarily sentient) creatures with a combined weight of at least 10,000 pounds must be left in the area to be devoured over the course of a single day.
 
@@ -286,17 +286,17 @@ Among the most frightening diseases are those that cause their victims’ bodies
 **Type** NE persistent haunt (50-ft. radius)  
 **Caster Level** 9th  
 **Notice** Perception DC 20 (to smell decaying flesh)  
-**hp** 45; **Weakness** *remove disease*; **Trigger** proximity; **Reset** 1 day
+**hp** 45; **Weakness** [*remove disease*](../../magic/spells/remove-disease.md); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: The area fills with a potent miasma that reeks of decaying flesh. Everyone within the radius must succeed at a DC 20 Fortitude save or contract the disease living rot, as detailed below, except they bypass the latent/carrier state. Within the haunt’s area, the disease’s frequency increases to 1 round and its save DC increases to 20. Characters who succeed at this saving throw are not immune; they must attempt a new saving throw each round they remain in the haunt’s area. Reducing the haunt to 0 hit points does not remove the disease. A character who casts *remove disease* on the living decay haunt deals it an amount of damage equal to her caster level.
+**Effect**: The area fills with a potent miasma that reeks of decaying flesh. Everyone within the radius must succeed at a DC 20 Fortitude save or contract the disease living rot, as detailed below, except they bypass the latent/carrier state. Within the haunt’s area, the disease’s frequency increases to 1 round and its save DC increases to 20. Characters who succeed at this saving throw are not immune; they must attempt a new saving throw each round they remain in the haunt’s area. Reducing the haunt to 0 hit points does not remove the disease. A character who casts [*remove disease*](../../magic/spells/remove-disease.md) on the living decay haunt deals it an amount of damage equal to her caster level.
 
-**Destruction**: Casting *heal* on each remaining body in the original victims’ mass grave (or a single casting of *mass heal*) prevents this haunt from returning.
+**Destruction**: Casting [*heal*](../../magic/spells/heal.md) on each remaining body in the original victims’ mass grave (or a single casting of [*mass heal*](../../magic/spells/heal-mass.md)) prevents this haunt from returning.
 
 #### Living Rot
 
 **Type** disease, contact, inhaled, or injury; **Save** Fortitude DC 17; **Track** physical; **Frequency** 1/day  
 **Effect** In the weakened state, the target also takes a –2 penalty on Strength- and Dexterity-based skill checks and ability checks. In the impaired state, the target takes a 50% miss chance on attack rolls and the target’s speed is reduced by half (minimum 5 feet). All objects touched at the impaired state and beyond can transfer the disease  
-**Cure** 2 consecutive saves, penalties from the weakened state and worse are permanent until the victim is the target of *heal* or *regenerate*
+**Cure** 2 consecutive saves, penalties from the weakened state and worse are permanent until the victim is the target of [*heal*](../../magic/spells/heal.md) or [*regenerate*](../../magic/spells/regenerate.md)
 
 ### Eternal Pyre (CR 11)
 
@@ -308,7 +308,7 @@ An eternal pyre is formed from the spirits of people who were burned alive durin
 **Notice** Perception DC 20 (to hear the crackling of a fire)  
 **hp** 49; **Weakness** water spells and effects (these effects damage the haunt); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: A pillar of black and red flames manifests within the haunt’s area each round. This pillar functions as per *flame strike* (Reflex DC 19 negates), except its damage is half fire and half negative energy.
+**Effect**: A pillar of black and red flames manifests within the haunt’s area each round. This pillar functions as per [*flame strike*](../../magic/spells/flame-strike.md) (Reflex DC 19 negates), except its damage is half fire and half negative energy.
 
 **Destruction**: Destroying the witchfire also destroys the eternal pyre haunt.
 
@@ -322,7 +322,7 @@ A sadistic alchemist conducted experiments on test subjects within his remote la
 **Notice** Perception DC 20 (to smell the acrid chemical tang growing stronger)  
 **hp** 54; **Weakness** vulnerable to acid damage (these effects damage the haunt); **Trigger** proximity; **Reset** 1 day
 
-**Effect**: The chemical vat boils and froths, and spits its contents at everyone within its range each round as a ranged touch attack (+15 to hit, 4d6+6 points of damage). This damage ignores damage reduction and energy resistance. A creature hit by the chemicals must succeed at a DC 18 Fortitude save or become liquefied, as its bones and muscles melt into a pile of oozing flesh. The DC of this saving throw increases by 1 for each chemical ball that has hit the creature in the past 24 hours. A liquefied creature cannot carry, use, or wear any items, and its Dexterity score is reduced to 1. It loses all physical attacks, and it cannot cast spells with verbal or somatic components. It gains a slam attack appropriate for a creature of one size category larger than its size (for example, 1d6 points of damage if Medium). Additionally, it gains immunity to critical hits, flanking, paralysis, poison, polymorph, sleep, and stun. A liquefied creature reverts to its normal state if the haunt is reduced to 0 hit points; otherwise, only a *limited wish*, *miracle*, *regenerate*, or *wish* spell can restore it.
+**Effect**: The chemical vat boils and froths, and spits its contents at everyone within its range each round as a ranged touch attack (+15 to hit, 4d6+6 points of damage). This damage ignores damage reduction and energy resistance. A creature hit by the chemicals must succeed at a DC 18 Fortitude save or become liquefied, as its bones and muscles melt into a pile of oozing flesh. The DC of this saving throw increases by 1 for each chemical ball that has hit the creature in the past 24 hours. A liquefied creature cannot carry, use, or wear any items, and its Dexterity score is reduced to 1. It loses all physical attacks, and it cannot cast spells with verbal or somatic components. It gains a slam attack appropriate for a creature of one size category larger than its size (for example, 1d6 points of damage if Medium). Additionally, it gains immunity to critical hits, flanking, paralysis, poison, polymorph, sleep, and stun. A liquefied creature reverts to its normal state if the haunt is reduced to 0 hit points; otherwise, only a [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), [*regenerate*](../../magic/spells/regenerate.md), or [*wish*](../../magic/spells/wish.md) spell can restore it.
 
 **Destruction**: All of the alchemist’s research notes must be collected and thrown into the vat.
 
@@ -366,7 +366,7 @@ Tales of a legendary linnorm have drawn many daring adventurers who wish to prov
 **Notice** Perception DC 20 (to hear the sound of bones snapping)  
 **hp** 58; **Trigger** proximity; **Reset** 1 hour
 
-**Effect**: Several copies of the same colossal dragon’s tail snake through the haunt’s area. Each round, the tails attempt to grab and constrict each creature in the area (+18 to hit, 2d6+6 points of damage plus grab, CMB +35, constrict 2d6+18 points of damage). Each round a creature takes damage from the tail’s constrict ability, one of its limbs (randomly determined) snaps into pieces, and it must succeed at a DC 22 Fortitude save or be nauseated 1 for 1d4 rounds. Cure spells are not sufficient to repair the severely broken bones this haunt produces—only *heal* or stronger magic can mend them. Snapped limbs cannot be used for any purpose; having a snapped leg reduces a creature’s movement speed by half when using its legs, and having more than half a creature’s legs snapped prevents it from using any form of movement that uses its legs.
+**Effect**: Several copies of the same colossal dragon’s tail snake through the haunt’s area. Each round, the tails attempt to grab and constrict each creature in the area (+18 to hit, 2d6+6 points of damage plus grab, CMB +35, constrict 2d6+18 points of damage). Each round a creature takes damage from the tail’s constrict ability, one of its limbs (randomly determined) snaps into pieces, and it must succeed at a DC 22 Fortitude save or be nauseated 1 for 1d4 rounds. Cure spells are not sufficient to repair the severely broken bones this haunt produces—only [*heal*](../../magic/spells/heal.md) or stronger magic can mend them. Snapped limbs cannot be used for any purpose; having a snapped leg reduces a creature’s movement speed by half when using its legs, and having more than half a creature’s legs snapped prevents it from using any form of movement that uses its legs.
 
 **Destruction**: The crushing terror haunt is destroyed if the bodies of the linnorm’s victims are retrieved from the cave where it stores them, reassembled, and buried.
 
@@ -380,7 +380,7 @@ A thriving metropolis on the top of a cliff customarily executed criminals by th
 **Notice** Perception DC 20 (to feel a slight tremor in the ground)  
 **hp** 72; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: The haunt causes all creatures within the haunt’s area along the cliff’s edge to plummet 200 feet to the ground, dealing 20d6 points of damage. The haunt temporarily negates spells, spell-like abilities, and supernatural abilities within its area as per *antimagic field*, except it does not block effects that deal positive energy damage. The haunt’s entire area is always difficult terrain. Extraordinary abilities, such as a monk’s slow fall ability, reduce falling damage as normal. The haunt lifts creatures back to the top of the cliff on each subsequent round, but it must then succeed at a combat maneuver check to bull rush each creature off the cliff (CMB +25). Creatures with natural flight can attempt a Fly check opposed by the haunt’s CMB to control their descent and take no damage.
+**Effect**: The haunt causes all creatures within the haunt’s area along the cliff’s edge to plummet 200 feet to the ground, dealing 20d6 points of damage. The haunt temporarily negates spells, spell-like abilities, and supernatural abilities within its area as per [*antimagic field*](../../magic/spells/antimagic-field.md), except it does not block effects that deal positive energy damage. The haunt’s entire area is always difficult terrain. Extraordinary abilities, such as a monk’s slow fall ability, reduce falling damage as normal. The haunt lifts creatures back to the top of the cliff on each subsequent round, but it must then succeed at a combat maneuver check to bull rush each creature off the cliff (CMB +25). Creatures with natural flight can attempt a Fly check opposed by the haunt’s CMB to control their descent and take no damage.
 
 **Destruction**: The current head magistrate of the city must go to the cliff’s edge and issue individual pardons by name to everyone who was ever thrown off the cliff, even those whose names were never recorded.
 
@@ -394,9 +394,9 @@ When enough haunts gather in a single dungeon, they can combine into a gestalt h
 **Notice** Perception DC 10 (to notice all of the dungeon’s furniture and trappings approaching)  
 **hp** 229; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: This dungeon directs its malevolence toward everyone inside of it. Its interior is under the effects of *guards and wards* at all times. If this ability is dispelled, the haunt recreates it when it resets the following day. Once per minute, the dungeon can gather a collection of furniture and other items to form an animated object. It can create one Colossal animated object; alternatively, it can create two Gargantuan animated objects, four Huge animated objects, and so on. It can control up to four times as many animated objects as it can create in a minute (for a total CR of 15). For the purposes of detecting creatures, the haunted dungeon and its animated objects have blindsight out to a range of the entire area of the haunt, even through walls.
+**Effect**: This dungeon directs its malevolence toward everyone inside of it. Its interior is under the effects of [*guards and wards*](../../magic/spells/guards-and-wards.md) at all times. If this ability is dispelled, the haunt recreates it when it resets the following day. Once per minute, the dungeon can gather a collection of furniture and other items to form an animated object. It can create one Colossal animated object; alternatively, it can create two Gargantuan animated objects, four Huge animated objects, and so on. It can control up to four times as many animated objects as it can create in a minute (for a total CR of 15). For the purposes of detecting creatures, the haunted dungeon and its animated objects have blindsight out to a range of the entire area of the haunt, even through walls.
 
-**Destruction**: If the entire dungeon is simultaneously placed under the effects of *hallow*, the haunt is destroyed.
+**Destruction**: If the entire dungeon is simultaneously placed under the effects of [*hallow*](../../magic/spells/hallow.md), the haunt is destroyed.
 
 ### Soul Vortex (CR 19)
 
@@ -408,7 +408,7 @@ The soul vortex is a gaping wound in the fabric of reality connected to the Nega
 **Notice** Perception DC 20 (for affected creatures to notice a fundamental feeling that something is wrong within them)  
 **hp** 256; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: A black vortex appears in the center of the haunt’s radius, and tugs inexorably on the souls of all creatures within its reach. Each round, before it targets their souls, the vortex first targets the magic protecting them, affecting each creature with a *greater dispel magic* effect that targets *death ward* or any other spells that would prevent level drain first. After the dispelling effect, the creature must succeed at a DC 23 Will save to partially resist the vortex’s pull. On a success, the creature takes 1d4 negative levels. On a failure, that creature’s soul is wrenched out of its body and destroyed. Only *miracle* or *wish* can reconstitute a soul that the vortex devours. The vortex gains 5 temporary hit points for each level it drains— treat devouring a soul as draining as many negative levels as it would normally take to kill the creature. These temporary hit points stack and last for 1 hour. The soul vortex haunt is immune to the spells *heal* and *mass heal*. Creatures normally immune to fear lose that immunity within this haunt’s radius.
+**Effect**: A black vortex appears in the center of the haunt’s radius, and tugs inexorably on the souls of all creatures within its reach. Each round, before it targets their souls, the vortex first targets the magic protecting them, affecting each creature with a [*greater dispel magic*](../../magic/spells/dispel-magic-greater.md) effect that targets [*death ward*](../../magic/spells/death-ward.md) or any other spells that would prevent level drain first. After the dispelling effect, the creature must succeed at a DC 23 Will save to partially resist the vortex’s pull. On a success, the creature takes 1d4 negative levels. On a failure, that creature’s soul is wrenched out of its body and destroyed. Only [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) can reconstitute a soul that the vortex devours. The vortex gains 5 temporary hit points for each level it drains— treat devouring a soul as draining as many negative levels as it would normally take to kill the creature. These temporary hit points stack and last for 1 hour. The soul vortex haunt is immune to the spells [*heal*](../../magic/spells/heal.md) and [*mass heal*](../../magic/spells/heal-mass.md). Creatures normally immune to fear lose that immunity within this haunt’s radius.
 
 **Destruction**: The soul vortex haunt can only be destroyed if the phylactery of a lich of CR 20 or higher that is currently destroyed and awaiting rejuvenation is cast into it. This act destroys both the vortex and the phylactery.
 
@@ -422,7 +422,7 @@ A flayed suicide haunt arises from the spirits of people tortured beyond insanit
 **Notice** Perception DC 20 (for affected characters to notice a prickling sensation in their skin)  
 **hp** 243; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: Hundreds of razor-sharp knives appear and carve into the skin of those in the haunt’s area. An affected creature can attempt a DC 25 Fortitude save to maintain the connection between its skin and its body. On a successful save, the creature takes 10d6 points of slashing damage. Creatures that fail this saving throw take 20d6 points of slashing damage as they are flayed alive. The skin of each flayed creature animates into a necromantic puppet that single-mindedly tries to kill its source. The skin carries all of the creature’s equipment (and thus the creature loses access to this equipment), has access to all of its abilities, and shares its statistics, except its hit point total is equal to half the original creature’s maximum hit points. If the skin uses one of the creature’s limited-use abilities, it counts against the creature’s total uses for the day. A flayed creature is permanently sickened, and is staggered from the pain unless it succeeds at a DC 25 Fortitude save at the beginning of its turn. Even if she defeats her necrotic skin, a flayed creature’s skin never regrows naturally, and can only be restored with *regenerate*.
+**Effect**: Hundreds of razor-sharp knives appear and carve into the skin of those in the haunt’s area. An affected creature can attempt a DC 25 Fortitude save to maintain the connection between its skin and its body. On a successful save, the creature takes 10d6 points of slashing damage. Creatures that fail this saving throw take 20d6 points of slashing damage as they are flayed alive. The skin of each flayed creature animates into a necromantic puppet that single-mindedly tries to kill its source. The skin carries all of the creature’s equipment (and thus the creature loses access to this equipment), has access to all of its abilities, and shares its statistics, except its hit point total is equal to half the original creature’s maximum hit points. If the skin uses one of the creature’s limited-use abilities, it counts against the creature’s total uses for the day. A flayed creature is permanently sickened, and is staggered from the pain unless it succeeds at a DC 25 Fortitude save at the beginning of its turn. Even if she defeats her necrotic skin, a flayed creature’s skin never regrows naturally, and can only be restored with [*regenerate*](../../magic/spells/regenerate.md).
 
 **Destruction**: A flayed herald of a deity must be reunited with its skin and cured of its madness to give the haunt its final rest. If a character manages this feat, all flayed suicide haunts in existence on any plane are instantly destroyed.
 
@@ -436,6 +436,6 @@ A twisted wish haunt can only arise in the most extraordinary circumstances, whe
 **Notice** Perception DC 35 (to notice a slight stutter in time originating from the center of its radius)  
 **hp** 120; **Trigger** proximity; **Reset** 1 day
 
-**Effect**: The twisted wish haunt collects the wishes of those who come near it, and stores them until it decides to grant them at its leisure and in its own warped fashion. The haunt understands all languages, as per *tongues*, and does not need to manifest to hear every spoken wish and read every written wish within its radius. The haunt can manifest once per day to cast *wish* to grant any wish from its collection. It does not need to wait for a creature to enter its radius to manifest. The twisted wish is immune to the spells *heal* and *mass heal*. Unlike the effects of a typical haunt, the wishes this haunt grants do not count as fear effects. The haunt can fly at a speed of 10 feet even when it is not manifested, but it rarely chooses to do so unless its current region isn’t providing enough victims, or it perceives someone as a potential threat.
+**Effect**: The twisted wish haunt collects the wishes of those who come near it, and stores them until it decides to grant them at its leisure and in its own warped fashion. The haunt understands all languages, as per [*tongues*](../../magic/spells/tongues.md), and does not need to manifest to hear every spoken wish and read every written wish within its radius. The haunt can manifest once per day to cast [*wish*](../../magic/spells/wish.md) to grant any wish from its collection. It does not need to wait for a creature to enter its radius to manifest. The twisted wish is immune to the spells [*heal*](../../magic/spells/heal.md) and [*mass heal*](../../magic/spells/heal-mass.md). Unlike the effects of a typical haunt, the wishes this haunt grants do not count as fear effects. The haunt can fly at a speed of 10 feet even when it is not manifested, but it rarely chooses to do so unless its current region isn’t providing enough victims, or it perceives someone as a potential threat.
 
-**Destruction**: The sheer number of *wish* spells this haunt can bring to bear makes it nearly invincible. Only the direct intervention of a deity can destroy the twisted wish haunt.
+**Destruction**: The sheer number of [*wish*](../../magic/spells/wish.md) spells this haunt can bring to bear makes it nearly invincible. Only the direct intervention of a deity can destroy the twisted wish haunt.

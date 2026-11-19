@@ -63,7 +63,7 @@ Reloading as a standard action costs 2 AP. Each improvement that makes it faster
 | Spell | Cost |
 |---|---|
 | Harmless spells and buffs on one target | 1 AP |
-| Very strong buffs, or buffs on many targets or an area (*haste*, mass spells) | 2 AP |
+| Very strong buffs, or buffs on many targets or an area ([*haste*](../../magic/spells/haste.md), mass spells) | 2 AP |
 | Control spells (they disable, hinder or move creatures, or create walls and hazards) | 2 AP |
 | Offensive spells, especially area ones | 2 AP |
 | Weak offensive spells (fixed damage that barely grows, small penalties) | 1 AP |
@@ -73,7 +73,7 @@ Reloading as a standard action costs 2 AP. Each improvement that makes it faster
 | Immediate action spells | 1 AP of your next turn |
 | Concentrating on or maintaining a spell | 1 AP |
 
-**Touch spells** follow the same categories: a touch spell is not weak because it needs a touch, so one whose damage grows with your level (*shocking grasp*, *vampiric touch*) or that curses, disables or poisons (*bestow curse*, *contagion*) costs 2 AP. So does one that lets you touch again every round or adds your caster level to its damage (*chill touch*, *elemental touch*, *sonic form*): 1d6 a touch soon adds up to more than it looks. With spell combat, a magus pays 1 AP for it, never less.
+**Touch spells** follow the same categories: a touch spell is not weak because it needs a touch, so one whose damage grows with your level ([*shocking grasp*](../../magic/spells/shocking-grasp.md), [*vampiric touch*](../../magic/spells/vampiric-touch.md)) or that curses, disables or poisons ([*bestow curse*](../../magic/spells/bestow-curse.md), [*contagion*](../../magic/spells/contagion.md)) costs 2 AP. So does one that lets you touch again every round or adds your caster level to its damage ([*chill touch*](../../magic/spells/chill-touch.md), [*elemental touch*](../../magic/spells/elemental-touch.md), [*sonic form*](../../magic/spells/sonic-form.md)): 1d6 a touch soon adds up to more than it looks. With spell combat, a magus pays 1 AP for it, never less.
 
 There is no limit on how many spells you cast in a turn, other than your AP. Each spell's cost appears next to its casting time. **Spontaneous casters** applying a metamagic feat pay 1 extra AP instead of taking a full-round action. **Quicken Spell** lowers the cost by 1 AP (minimum 1 AP).
 
@@ -95,12 +95,12 @@ Conditions keep their [numbered levels](../appendices/conditions.md). At their w
 | Condition | Effect on AP |
 |---|---|
 | Staggered | –1 AP |
-| Slowed (*slow*) | –1 AP |
+| Slowed ([*slow*](../../magic/spells/slow.md)) | –1 AP |
 | Nauseated 2 | Only 1 AP, which can also be spent on an attack |
 | Stunned 1 | Only 1 AP |
 | Stunned 2, dazed, paralyzed, helpless | 0 AP |
 
-There is no maximum number of AP: *haste*, fervor and similar effects add up.
+There is no maximum number of AP: [*haste*](../../magic/spells/haste.md), fervor and similar effects add up.
 
 ## Mounts and Companions
 

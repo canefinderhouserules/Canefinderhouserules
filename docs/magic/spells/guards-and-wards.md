@@ -14,17 +14,17 @@ This powerful spell is primarily used to defend a stronghold or fortress by crea
 
 *Arcane Locks*: All doors in the warded area are *arcane locked.* Saving Throw: none. Spell Resistance: no.
 
-*Webs*: Webs fill all stairs from top to bottom. These strands are identical with those created by the *web* spell, except that they regrow in 10 minutes if they are burned or torn away while the *guards and wards* spell lasts. Saving Throw: Reflex negates; see text for *web*. Spell Resistance: no.
+*Webs*: Webs fill all stairs from top to bottom. These strands are identical with those created by the [*web*](web.md) spell, except that they regrow in 10 minutes if they are burned or torn away while the *guards and wards* spell lasts. Saving Throw: Reflex negates; see text for *web*. Spell Resistance: no.
 
-*Confusion*: Where there are choices in direction—such as a corridor intersection or side passage—a minor *confusion-*type effect functions so as to make it 50% probable that intruders believe they are going in the opposite direction from the one they actually chose. This is a mind-affecting effect. Saving Throw: none. Spell Resistance: yes.
+[*Confusion*](confusion.md): Where there are choices in direction—such as a corridor intersection or side passage—a minor *confusion-*type effect functions so as to make it 50% probable that intruders believe they are going in the opposite direction from the one they actually chose. This is a mind-affecting effect. Saving Throw: none. Spell Resistance: yes.
 
 *Lost Doors*: One door per caster level is covered by a [*silent image*](silent-image.md) to appear as if it were a plain wall. Saving Throw: Will disbelief (if interacted with). Spell Resistance: no.
 
-In addition, you can place your choice of one of the following five magical effects. 1. *Dancing lights* in four corridors. You can designate a simple program that causes the lights to repeat as long as the *guards and*
+In addition, you can place your choice of one of the following five magical effects. 1. [*Dancing lights*](dancing-lights.md) in four corridors. You can designate a simple program that causes the lights to repeat as long as the *guards and*
 
 *wards* spell lasts. Saving Throw: none. Spell Resistance: no. 2. A [*magic mouth*](magic-mouth.md) in two places. Saving Throw: none. Spell
 
-Resistance: no. 3. A [*stinking cloud*](stinking-cloud.md) in two places. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while the *guards and wards* spell lasts. Saving Throw: Fortitude negates; see text for *stinking cloud.* Spell Resistance: no. 4. A [*gust of wind*](gust-of-wind.md) in one corridor or room. Saving Throw: Fortitude negates. Spell Resistance: yes. 5. A [*suggestion*](suggestion.md) in one place. You select an area of up to 5 feet square, and any creature who enters or passes through the area receives the *suggestion* mentally. Saving Throw: Will negates.
+Resistance: no. 3. A [*stinking cloud*](stinking-cloud.md) in two places. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while the *guards and wards* spell lasts. Saving Throw: Fortitude negates; see text for *stinking cloud.* Spell Resistance: no. 4. A [*gust of wind*](gust-of-wind.md) in one corridor or room. Saving Throw: Fortitude negates. Spell Resistance: yes. 5. A [*suggestion*](suggestion.md) in one place. You select an area of up to 5 feet square, and any creature who enters or passes through the area receives the [*suggestion*](suggestion.md) mentally. Saving Throw: Will negates.
 
 Spell Resistance: yes.
 

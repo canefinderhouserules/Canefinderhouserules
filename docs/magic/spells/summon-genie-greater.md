@@ -8,6 +8,6 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *summon genie, lesser*, except you can summon one shaitan, 1d3 djinn, or 1d4+1 janni.
+This spell functions like [*summon genie, lesser*](summon-genie-lesser.md), except you can summon one shaitan, 1d3 djinn, or 1d4+1 janni.
 
 **Summoning rules**: This spell follows the reworked [*summon monster I*](summon-monster-i.md) rules: the creature’s CR equals this spell’s level × 2, up to a maximum of your level. Instead of the creatures listed here, you can summon any genie, and this CR limit is 1 higher because the spell specializes in that type. This spell can’t summon any other kind of creature.

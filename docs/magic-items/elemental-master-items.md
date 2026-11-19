@@ -14,7 +14,7 @@ The recipient’s eyes are blazing orbs of fire. The recipient can cast spells w
 
 This elemental augmentation cannot be applied to a creature without eyes.
 
-*Construction* Craft Wondrous Item, Silent Spell, Still Spell, *faerie fire* or *scorching ray*, creator must have 13 ranks in Knowledge (planes); Cost 21,000 gp.
+*Construction* Craft Wondrous Item, Silent Spell, Still Spell, [*faerie fire*](../magic/spells/faerie-fire.md) or [*scorching ray*](../magic/spells/scorching-ray.md), creator must have 13 ranks in Knowledge (planes); Cost 21,000 gp.
 
 ### Blazing Hand
 
@@ -24,7 +24,7 @@ The recipient’s arm and hand burn with an unquenchable flame. The recipient de
 
 The recipient must have an arm (or armlike appendage) to receive this elemental augmentation.
 
-*Construction* Craft Wondrous Item, *fireball* or *flame strike*, creator must have 10 ranks in Knowledge (planes); Cost 8,000 gp.
+*Construction* Craft Wondrous Item, [*fireball*](../magic/spells/fireball.md) or [*flame strike*](../magic/spells/flame-strike.md), creator must have 10 ranks in Knowledge (planes); Cost 8,000 gp.
 
 ### Hoarfrost Bones
 
@@ -36,39 +36,39 @@ The recipient cannot heal naturally, regardless of the surrounding climate, othe
 
 The recipient must have a skeletal structure to receive this elemental augmentation.
 
-*Construction* Craft Wondrous Item, *ice body*, *simulacrum*, creator must have 13 ranks in Knowledge (planes); Cost 42,500 gp.
+*Construction* Craft Wondrous Item, [*ice body*](../magic/spells/ice-body.md), [*simulacrum*](../magic/spells/simulacrum.md), creator must have 13 ranks in Knowledge (planes); Cost 42,500 gp.
 
 ### Quicksilver Blood
 
 *Aura* moderate transmutation; *CL* 9th; *Slot* none; *Price* 62,000 gp; *Weight* —
 
-The recipient’s blood is infused with liquid metal that is magically bound to the recipient’s system. When the recipient bleeds, the metal clings to itself and turns a bright silver color. The recipient automatically stabilizes when at negative hit points and is immune to continuous damage from bleed attacks (including weapons with the *wounding* special ability) and ability damage from blood drain. The recipient is considered a ferrous creature for the purposes of spells and effects such as *rusting grasp* and a rust monster’s attack.
+The recipient’s blood is infused with liquid metal that is magically bound to the recipient’s system. When the recipient bleeds, the metal clings to itself and turns a bright silver color. The recipient automatically stabilizes when at negative hit points and is immune to continuous damage from bleed attacks (including weapons with the *wounding* special ability) and ability damage from blood drain. The recipient is considered a ferrous creature for the purposes of spells and effects such as [*rusting grasp*](../magic/spells/rusting-grasp.md) and a rust monster’s attack.
 
 This elemental augmentation cannot be applied to a creature without blood.
 
-*Construction* Craft Wondrous Item, *adhesive blood*, *lesser restoration*, creator must have 9 ranks in Knowledge (planes); Cost 31,000 gp.
+*Construction* Craft Wondrous Item, [*adhesive blood*](../magic/spells/adhesive-blood.md), [*lesser restoration*](../magic/spells/restoration-lesser.md), creator must have 9 ranks in Knowledge (planes); Cost 31,000 gp.
 
 ### Smoldering Blood
 
 *Aura* moderate abjuration; *CL* 7th; *Slot* none; *Price* 8,000 gp; *Weight* —
 
-The recipient’s blood is infused with elemental fire. Anyone within 5 feet of the recipient who strikes him with a piercing or slashing weapon takes 1d6 points of fire damage from the recipient’s molten blood. The recipient suffers no harm from hot and cold environments as per *endure elements*, but he takes a –4 penalty on saving throws against effects that cause fatigue or exhaustion.
+The recipient’s blood is infused with elemental fire. Anyone within 5 feet of the recipient who strikes him with a piercing or slashing weapon takes 1d6 points of fire damage from the recipient’s molten blood. The recipient suffers no harm from hot and cold environments as per [*endure elements*](../magic/spells/endure-elements.md), but he takes a –4 penalty on saving throws against effects that cause fatigue or exhaustion.
 
 This elemental augmentation cannot be applied to a creature without blood.
 
-*Construction* Craft Wondrous Item, *endure elements*, *fire shield*, creator must have 7 ranks in Knowledge (planes); Cost 4,000 gp.
+*Construction* Craft Wondrous Item, [*endure elements*](../magic/spells/endure-elements.md), [*fire shield*](../magic/spells/fire-shield.md), creator must have 7 ranks in Knowledge (planes); Cost 4,000 gp.
 
 ### Vaporous Lungs
 
 *Aura* moderate abjuration; *CL* 7th; *Slot* none; *Price* 10,800 gp; *Weight* —
 
-The recipient’s lungs are imbued with tiny pockets that contain elemental air, and his mouth and nose constantly leak thin trails of mist or smoke. Once per day as a standard action (1 AP), the user can inhale all nonmagical cloud and fog effects within a 20-foot radius, negating their effects. Mundane clouds and fogs in this area are automatically removed when the user inhales. Although prevailing weather conditions may refill the area over time, they rarely do so immediately. The recipient also removes any magical cloud or fog spells in the area, so long as the spell’s entire area is within 20 feet of the recipient, though he must succeed at a dispel check (and thus roll 1d20+7) against each spell (DC = 11 + the caster level of the spell). Any cloud or fog effect that provides a penalty or deals damage (such as *acid fog*) does not harm the recipient when inhaled. The effect’s normal duration continues while it is inhaled, and if the duration of the effect expires while inhaled, the effect dissipates inside the recipient’s lungs.
+The recipient’s lungs are imbued with tiny pockets that contain elemental air, and his mouth and nose constantly leak thin trails of mist or smoke. Once per day as a standard action (1 AP), the user can inhale all nonmagical cloud and fog effects within a 20-foot radius, negating their effects. Mundane clouds and fogs in this area are automatically removed when the user inhales. Although prevailing weather conditions may refill the area over time, they rarely do so immediately. The recipient also removes any magical cloud or fog spells in the area, so long as the spell’s entire area is within 20 feet of the recipient, though he must succeed at a dispel check (and thus roll 1d20+7) against each spell (DC = 11 + the caster level of the spell). Any cloud or fog effect that provides a penalty or deals damage (such as [*acid fog*](../magic/spells/acid-fog.md)) does not harm the recipient when inhaled. The effect’s normal duration continues while it is inhaled, and if the duration of the effect expires while inhaled, the effect dissipates inside the recipient’s lungs.
 
 The recipient must hold his breath to contain the inhaled vapors. Inhaled vapors are expelled, centered on the recipient, when the recipient can no longer hold his breath, when he ceases holding his breath as a free action, or when the effect of vaporous lungs is suppressed or dispelled.
 
 This elemental augmentation cannot be applied to a creature that does not breathe.
 
-*Construction* Craft Wondrous Item, *gust of wind*, creator must have 7 ranks in Knowledge (planes); Cost 5,400 gp.
+*Construction* Craft Wondrous Item, [*gust of wind*](../magic/spells/gust-of-wind.md), creator must have 7 ranks in Knowledge (planes); Cost 5,400 gp.
 
 ### Whirlpool Maw
 
@@ -78,7 +78,7 @@ The user’s mouth and throat are linked to an extradimensional whirlpool of wat
 
 This elemental augmentation cannot be applied to a creature without a mouth.
 
-*Construction* Craft Wondrous Item, *aqueous orb*, *shrink item*, creator must have 7 ranks in Knowledge (planes); Cost 9,500 gp.
+*Construction* Craft Wondrous Item, [*aqueous orb*](../magic/spells/aqueous-orb.md), [*shrink item*](../magic/spells/shrink-item.md), creator must have 7 ranks in Knowledge (planes); Cost 9,500 gp.
 
 ## Facets of Stone
 
@@ -90,7 +90,7 @@ Many magic-item creators use gemstones for their affinity to elemental energies.
 
 This +3 *earth breaker* is blocky and heavy. Several chrysoberyls adorn the head around its striking surface. The density hammer’s wielder is immune to petrification effects, but each time the wielder would be subject to a petrification effect, the density hammer’s weight doubles and its enhancement bonus decreases by 1 for 24 hours. If the density hammer’s enhancement bonus decreases to 0, the wielder is no longer immune to petrification effects and the density hammer gains the fragile weapon special feature.
 
-*Construction* Craft Magic Arms and Armor, *stone to flesh*; Cost 13,340 gp.
+*Construction* Craft Magic Arms and Armor, [*stone to flesh*](../magic/spells/stone-to-flesh.md); Cost 13,340 gp.
 
 ### Esoteric Diadem
 
@@ -110,15 +110,15 @@ Other esoteric diadem variants exist for other little-known kineticist elements.
 
 This palm-sized figurine of a cat with a spiked tail is made of gleaming hematite. A hematite cougar turns into a digmaul that is fully obedient to the figurine’s owner. Even in its animated form, the hematite cougar is made of dense metal, granting it a +2 armor bonus to AC and a +2 bonus to its CMD. An animated hematite cougar conducts low levels of electricity; creatures adjacent to the hematite cougar gain electricity resistance 2, but any damage prevented by this ability is dealt to the hematite cougar instead. A hematite cougar can be animated twice per week for up to 8 hours per use; speaking the command word before the 8 hours expires returns the hematite cougar to a figurine.
 
-*Construction* Craft Wondrous Item, *animate objects*, *resist energy*; Cost 5,000 gp.
+*Construction* Craft Wondrous Item, [*animate objects*](../magic/spells/animate-objects.md), [*resist energy*](../magic/spells/resist-energy.md); Cost 5,000 gp.
 
 ### Fossilizing Rod
 
 *Aura* moderate necromancy and transmutation; *CL* 11th; *Slot* none; *Price* 26,400 gp; *Weight* 4 lbs.
 
-This forearm-length rod of onyx gemstone is capped by a sphere of amber. Once per day when the bearer of a fossilizing rod casts *animate dead* to animate skeletons, she can imbue the skeletons with fossilizing earth energy. Fossilized skeletons gain the earth subtype, reduce their Dexterity scores by 4 and their speeds by 10 feet, and cannot fly even if they could do so magically in life. However, due to the stone infusing their bones, fossilized skeletons gain hardness 8.
+This forearm-length rod of onyx gemstone is capped by a sphere of amber. Once per day when the bearer of a fossilizing rod casts [*animate dead*](../magic/spells/animate-dead.md) to animate skeletons, she can imbue the skeletons with fossilizing earth energy. Fossilized skeletons gain the earth subtype, reduce their Dexterity scores by 4 and their speeds by 10 feet, and cannot fly even if they could do so magically in life. However, due to the stone infusing their bones, fossilized skeletons gain hardness 8.
 
-*Construction* Craft Rod, *flesh to stone*; Cost 13,200 gp.
+*Construction* Craft Rod, [*flesh to stone*](../magic/spells/flesh-to-stone.md); Cost 13,200 gp.
 
 ### Gemcarver’s Tools
 
@@ -128,4 +128,4 @@ These thin, elegant adamantine tools are inscribed with numerous runes in the fo
 
 The user of these tools can attempt to craft elemental gems. Creating an elemental gem requires 8 total hours of work and an uncut gem worth 1,000 gp. The user must succeed at a DC 21 Craft (jewelry) check or the process fails and the raw materials are ruined. The user must speak the appropriate elemental language to use the tools to craft an elemental gem of a specific element. Although the user doesn’t need to meet any of the prerequisites for crafting elemental gems, this process otherwise follows the normal rules for magic item creation.
 
-*Construction* Craft Wondrous Item, *fabricate*, *summon monster V* or *summon nature’s ally V*, 5 ranks in Craft (jewelry); Cost 4,500 gp.
+*Construction* Craft Wondrous Item, [*fabricate*](../magic/spells/fabricate.md), [*summon monster V*](../magic/spells/summon-monster-v.md) or [*summon nature’s ally V*](../magic/spells/summon-natures-ally-v.md), 5 ranks in Craft (jewelry); Cost 4,500 gp.

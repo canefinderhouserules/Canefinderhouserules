@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *thawing* weapon thr
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *heat metal*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*heat metal*](../../magic/spells/heat-metal.md); **Price** —

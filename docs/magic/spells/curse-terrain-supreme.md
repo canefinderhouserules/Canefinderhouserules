@@ -5,6 +5,7 @@
 **Components** V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 4,000 gp)  
 **Range** touch  
 **Area** 5-mile radius emanating from the touched point  
-**Duration** 1 day (D)
+**Duration** 1 day (D)  
+**Saving Throw** none; **Spell Resistance** no
 
-By touching the ground, you curse the land with seven unnatural hazards. This functions as *lesser curse terrain*, but with the effects of the grand perilous demesne curse.
+By touching the ground, you curse the land with seven unnatural hazards. This functions as [*lesser curse terrain*](curse-terrain-lesser.md), but with the effects of the grand perilous demesne curse.

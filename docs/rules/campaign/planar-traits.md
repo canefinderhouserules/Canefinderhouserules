@@ -74,7 +74,7 @@ Four basic elements (air, earth, fire, and water) and two types of energy (posit
 
 **Water-Dominant**: Planes with this trait are mostly liquid. Visitors who can't breathe in water or reach a pocket of air likely drown. Creatures of the fire subtype are extremely uncomfortable on water-dominant planes, and those made of fire take 1d10 points of damage each round while on a water-dominant plane.
 
-**Negative-Dominant**: Planes with this trait drain the life out of travelers who tread upon them. They tend to be lonely, haunted planes, drained of color, devoid of plant and animal life, and filled with winds bearing the soft moans of those who died within them. *Death ward* provides protection from a negative-dominant plane as long as the effect lasts, regardless of the strength of that plane's negative dominant trait.
+**Negative-Dominant**: Planes with this trait drain the life out of travelers who tread upon them. They tend to be lonely, haunted planes, drained of color, devoid of plant and animal life, and filled with winds bearing the soft moans of those who died within them. [*Death ward*](../../magic/spells/death-ward.md) provides protection from a negative-dominant plane as long as the effect lasts, regardless of the strength of that plane's negative dominant trait.
 
 On *minor* negative-dominant planes, living creatures take 1d6 points of negative energy damage per round. When this damage reduces a creature to 0 hit points or below, the creature crumbles into ash. Undead on a minor negative-dominant plane instead gain fast healing 2 (this does not stack with existing fast healing an undead already has).
 
@@ -102,7 +102,7 @@ A plane's magic trait describes how magic works on that plane compared to how it
 
 **Normal Magic**: This trait means that all spells and supernatural abilities function as written.
 
-**Dead Magic**: These planes have no magic at all. A plane with the dead magic trait functions in all respects as if affected by an *antimagic field* spell. Divination spells cannot detect subjects within a dead magic plane, and a spellcaster cannot cast *plane shift* or another spell to move in or out. The only exceptions to the "no magic" rule are permanent planar portals, which still function normally.
+**Dead Magic**: These planes have no magic at all. A plane with the dead magic trait functions in all respects as if affected by an [*antimagic field*](../../magic/spells/antimagic-field.md) spell. Divination spells cannot detect subjects within a dead magic plane, and a spellcaster cannot cast [*plane shift*](../../magic/spells/plane-shift.md) or another spell to move in or out. The only exceptions to the "no magic" rule are permanent planar portals, which still function normally.
 
 **Enhanced Magic**: Particular spells and spell-like abilities are easier to use or more powerful in effect on planes with this trait than they are on the Material Plane. If a spell is enhanced, it functions as if its caster level were 2 higher than normal.
 
@@ -119,10 +119,10 @@ A plane's magic trait describes how magic works on that plane compared to how it
 | 24–27 | The spell fails, but the target or targets of the spell are pelted with a rain of small objects (anything from flowers to rotten fruit), which disappear upon striking. The barrage continues for 1 round. During this time, the targets are blinded and must succeed at concentration checks (DC = 15 + spell level) to cast spells. |
 | 28–31 | The spell affects a random target or area. Randomly determine a target from among those in range of the spell or center the spell at a random place within range of the spell. To generate the direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate the range randomly, roll 3d6 and multiply the result by 5 feet for close-range spells, 20 feet for medium-range spells, or 80 feet for long-range spells. |
 | 32–35 | The spell functions normally, but no material components are consumed. The spell is not expended from the caster's mind (the spell slot or prepared spell can be used again). If the spell is cast from an item, the item does not lose charges. The effect does not count against an item's or spell-like ability's use limit. |
-| 36–39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a *heal* spell. |
-| 40–43 | The spell does not function. Instead, a *deeper darkness* effect and a *silence* effect cover a 30-foot radius around the caster for 2d4 rounds. |
-| 44–47 | The spell does not function. Instead, a *reverse gravity* effect covers a 30-foot radius around the caster for 1 round. |
-| 48–51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this as a *glitterdust* effect with a save DC of 10 + the level of the spell that generated this result. |
+| 36–39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a [*heal*](../../magic/spells/heal.md) spell. |
+| 40–43 | The spell does not function. Instead, a [*deeper darkness*](../../magic/spells/deeper-darkness.md) effect and a [*silence*](../../magic/spells/silence.md) effect cover a 30-foot radius around the caster for 2d4 rounds. |
+| 44–47 | The spell does not function. Instead, a [*reverse gravity*](../../magic/spells/reverse-gravity.md) effect covers a 30-foot radius around the caster for 1 round. |
+| 48–51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this as a [*glitterdust*](../../magic/spells/glitterdust.md) effect with a save DC of 10 + the level of the spell that generated this result. |
 | 52–59 | Nothing happens. The spell does not function. Any material components are used up, the spell or spell slot is used up, an item the spell is cast from loses charges, and the effect counts against an item's or spell-like ability's use limit. |
 | 60–71 | Nothing happens. The spell does not function, but no material components are consumed. The spell is not expended from the caster's mind (the spell slot or prepared spell can be used again). If the spell is cast from an item, the item does not lose charges. The effect does not count against an item's or spell-like ability's use limit. |
 | 72–98 | The spell functions normally. |

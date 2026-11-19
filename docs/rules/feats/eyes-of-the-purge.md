@@ -4,4 +4,4 @@ Through training and persistence inspired by a great religious purge, you have l
 
 **Prerequisites**: Ability to cast [*detect magic*](../../magic/spells/detect-magic.md) as a spell or spell-like ability.
 
-**Benefit**: When you use *detect magic* to determine the strength and location of the aura of a functioning spell, if that spell’s caster used a holy symbol as a divine focus to cast the spell, you see a ghostly image of the deity’s holy symbol as part of the spell’s aura. Effects that block divination spells or effects also block the effects of this feat.
+**Benefit**: When you use [*detect magic*](../../magic/spells/detect-magic.md) to determine the strength and location of the aura of a functioning spell, if that spell’s caster used a holy symbol as a divine focus to cast the spell, you see a ghostly image of the deity’s holy symbol as part of the spell’s aura. Effects that block divination spells or effects also block the effects of this feat.

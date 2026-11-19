@@ -3,10 +3,11 @@
 **School** illusion (figment); **Level** bard 6, mesmerist 6, psychic 6, sorcerer/wizard 6  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (fleece and jade dust worth 25 gp)  
+**Range** long (400 ft. + 40 ft./level)  
 **Effect** visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)  
 **Duration** permanent until triggered, then 1 round/level  
 **Saving Throw** Will disbelief (if interacted with); **Spell Resistance** no  
-**Negated by** *Cone of cold* *Gust of wind* *Disintegrate* *Passwall* *Magic missile* *Daylight* *Dispel magic* or *greater dispel magic*
+**Negated by** [*Cone of cold*](cone-of-cold.md) [*Gust of wind*](gust-of-wind.md) [*Disintegrate*](disintegrate.md) [*Passwall*](passwall.md) [*Magic missile*](magic-missile.md) [*Daylight*](daylight.md) [*Dispel magic*](dispel-magic.md) or [*greater dispel magic*](dispel-magic-greater.md)
 
 This spell functions like *silent image,* except that this spell’s figment activates when a specific condition occurs. The figment includes visual, auditory, olfactory, and thermal elements, including intelligible speech.
 

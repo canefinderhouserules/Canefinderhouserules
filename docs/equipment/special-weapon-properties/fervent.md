@@ -13,4 +13,4 @@ The creator of a *fervent* weapon must be within one step of the religion to be 
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *align weapon*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*align weapon*](../../magic/spells/align-weapon.md); **Price** —

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. An *ominous* weapon tr
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *doom* or *scare*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*doom*](../../magic/spells/doom.md) or [*scare*](../../magic/spells/scare.md); **Price** —

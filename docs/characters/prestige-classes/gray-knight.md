@@ -91,4 +91,4 @@ At 9th level, a gray knight gains the effects of [*freedom of movement*](../../m
 
 #### Whisk to Freedom (Sp)
 
-At 10th level, a gray knight gains [*wind walk*](../../magic/spells/wind-walk.md) and [*word of recall*](../../magic/spells/word-of-recall.md) as spell-like abilities (caster level 10th), each usable once per day. *Word of recall* must return the gray knight to a ship allied with his order.
+At 10th level, a gray knight gains [*wind walk*](../../magic/spells/wind-walk.md) and [*word of recall*](../../magic/spells/word-of-recall.md) as spell-like abilities (caster level 10th), each usable once per day. [*Word of recall*](../../magic/spells/word-of-recall.md) must return the gray knight to a ship allied with his order.

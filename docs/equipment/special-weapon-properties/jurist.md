@@ -11,4 +11,4 @@ When an inquisitor wielder uses her judgment class ability while wielding a *jur
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *owl’s wisdom*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*owl’s wisdom*](../../magic/spells/owls-wisdom.md); **Price** —

@@ -12,7 +12,7 @@ These curses are tied to treasure hoards or their protectors. They may be contra
 
 Generally the result of an infected undead creature's attack, or of disturbing a grave contaminated with this dreadful malady.
 
-*Effect* Whenever the sufferer takes piercing or slashing damage, she also takes 1d3 points of bleed damage. Furthermore, the cursed individual is especially susceptible to poisons delivered via injury, taking a –2 penalty on Fortitude saving throws against them. *Cure* Can be cured only with both *remove curse* and *remove disease* cast within 1 minute of each other.
+*Effect* Whenever the sufferer takes piercing or slashing damage, she also takes 1d3 points of bleed damage. Furthermore, the cursed individual is especially susceptible to poisons delivered via injury, taking a –2 penalty on Fortitude saving throws against them. *Cure* Can be cured only with both [*remove curse*](../magic/spells/remove-curse.md) and [*remove disease*](../magic/spells/remove-disease.md) cast within 1 minute of each other.
 
 ### Debasement
 
@@ -56,7 +56,7 @@ Often placed upon areas within dungeons and tombs where dexterity or skill at ar
 
 *Type* curse; *Save* Will DC 16; *Frequency* 1/day
 
-*Effect* Whenever an initiative check is required, the victim must also succeed at a DC 16 Will save or collapse to the floor in gales of laughter (as *hideous laughter*). The episode lasts 2d4–1 rounds.
+*Effect* Whenever an initiative check is required, the victim must also succeed at a DC 16 Will save or collapse to the floor in gales of laughter (as [*hideous laughter*](../magic/spells/hideous-laughter.md)). The episode lasts 2d4–1 rounds.
 
 ### Reader's Scourge
 
@@ -106,27 +106,27 @@ Magical chests are custom-built for the needs of the wealthy and powerful and fr
 
 *Aura* moderate transmutation; *Slot* none; *Price* 42,000 gp; *Weight* 50 lbs.
 
-A medium-sized chest of red iron with a volume of 4 cubic feet. A metal sculpture of a monstrous fanged face surrounds the inset superior quality lock, making it impossible to reach the lock without putting a hand in the mouth. The chest is additionally sealed by a permanent *arcane lock* and protected by powerful magic that makes the chest as resilient as a *wall of force*.
+A medium-sized chest of red iron with a volume of 4 cubic feet. A metal sculpture of a monstrous fanged face surrounds the inset superior quality lock, making it impossible to reach the lock without putting a hand in the mouth. The chest is additionally sealed by a permanent [*arcane lock*](../magic/spells/arcane-lock.md) and protected by powerful magic that makes the chest as resilient as a [*wall of force*](../magic/spells/wall-of-force.md).
 
 The chest is attuned to a particular owner, which can be changed by speaking a command word while the chest is open. Any key can be used in the lock, but whenever a key is inserted, the fanged mouth closes on the hand holding it (or on the device holding it, if some contraption is used) and deals 1 point of damage. If the bitten hand is that of the owner attuned to the chest, the chest opens. If the hand belongs to anyone else, or no hand is present to bite, or the hand is not damaged by the bite, the chest doesn't open. If the lock is picked with a successful DC 50 Disable Device check, the teeth don't close.
 
-*Construction* Craft Wondrous Item, *arcane lock*, *vampiric hunger*, *wall of force*; Cost 21,000 gp.
+*Construction* Craft Wondrous Item, [*arcane lock*](../magic/spells/arcane-lock.md), [*vampiric hunger*](../magic/spells/vampiric-hunger.md), [*wall of force*](../magic/spells/wall-of-force.md); Cost 21,000 gp.
 
 ### Chest of Defending
 
 *Aura* moderate transmutation; *Slot* none; *Price* 29,300 gp; *Weight* 100 lbs.
 
-An immense, complex wooden chest at least 5 feet long and 3 feet wide and tall, with numerous drawers, side compartments, hatches, and lids, and ornately carved feet and scrollwork trim. Despite its size, it has an interior volume of 6 cubic feet. It has permanent *alarm* and *arcane lock* spells cast on it, which can be set to acknowledge a specific creature as the effective caster of the spells with a command word (the password is normally carved in one of the small drawers). All the compartments have average quality locks and can be further locked with padlocks (not included).
+An immense, complex wooden chest at least 5 feet long and 3 feet wide and tall, with numerous drawers, side compartments, hatches, and lids, and ornately carved feet and scrollwork trim. Despite its size, it has an interior volume of 6 cubic feet. It has permanent [*alarm*](../magic/spells/alarm.md) and [*arcane lock*](../magic/spells/arcane-lock.md) spells cast on it, which can be set to acknowledge a specific creature as the effective caster of the spells with a command word (the password is normally carved in one of the small drawers). All the compartments have average quality locks and can be further locked with padlocks (not included).
 
-If the chest's *alarm* spell is triggered, it alters shape and composition to become a Medium wood golem (the contents are unharmed by the transformation). Unless given different instructions by someone who uses the command word, the golem attacks the creature that triggered its alarm, then folds back into a normal chest once the trespasser is defeated. All items within the chest count against the golem's encumbrance.
+If the chest's [*alarm*](../magic/spells/alarm.md) spell is triggered, it alters shape and composition to become a Medium wood golem (the contents are unharmed by the transformation). Unless given different instructions by someone who uses the command word, the golem attacks the creature that triggered its alarm, then folds back into a normal chest once the trespasser is defeated. All items within the chest count against the golem's encumbrance.
 
-*Construction* Craft Construct, Craft Wondrous Item, *alarm*, *animate objects*, *cat's grace*, *geas/quest*, *limited wish*, creator must be at least caster level 12th, creator must succeed at a DC 17 Craft (carpentry) check; Cost 14,800 gp.
+*Construction* Craft Construct, Craft Wondrous Item, [*alarm*](../magic/spells/alarm.md), [*animate objects*](../magic/spells/animate-objects.md), [*cat's grace*](../magic/spells/cats-grace.md), [*geas/quest*](../magic/spells/geas-quest.md), [*limited wish*](../magic/spells/limited-wish.md), creator must be at least caster level 12th, creator must succeed at a DC 17 Craft (carpentry) check; Cost 14,800 gp.
 
 ### Chest of the Mercane
 
 *Aura* moderate conjuration; *Slot* none; *Price* 30,000 gp; *Weight* 250 lbs.
 
-A beautiful, gem-encrusted golden chest 4 feet long, 2 feet wide, and 4 feet tall, engraved with symbols of wealth and trade and accompanied by an equally ornate key. Even without its magic properties the chest is worth 5,000 gp. It is bonded to a traveling mercane (a planar merchant outsider) that makes its living trading magical items throughout the planes. The chest acts as if affected by the *secret chest* spell (CL 9th), except it allows the key wielder to retrieve the chest once per day and send it back to its mercane master once per day. The ornate key functions as the small replica chest does in *secret chest*.
+A beautiful, gem-encrusted golden chest 4 feet long, 2 feet wide, and 4 feet tall, engraved with symbols of wealth and trade and accompanied by an equally ornate key. Even without its magic properties the chest is worth 5,000 gp. It is bonded to a traveling mercane (a planar merchant outsider) that makes its living trading magical items throughout the planes. The chest acts as if affected by the [*secret chest*](../magic/spells/secret-chest.md) spell (CL 9th), except it allows the key wielder to retrieve the chest once per day and send it back to its mercane master once per day. The ornate key functions as the small replica chest does in *secret chest*.
 
 Each time the chest is sent back to its mercane master, there is a chance the mercane decides to buy any new magic item in the chest. If it does, it may pay slightly less than, equal to, or more than the standard market value (normally 50% of the item's total value), as determined by the table below. If the mercane buys an item, payment is always in gold pieces that take the item's place in the chest.
 
@@ -140,15 +140,15 @@ Each time the chest is sent back to its mercane master, there is a chance the me
 
 It is also possible to send notes to the mercane connected to the chest, but such notes never receive a response through the chest. If an owner finds the mercane connected to it, she can use the ability to pass notes to pay in advance (with magic items) for objects she wishes the mercane to purchase on her behalf. Such objects are never sent via the chest; the mercane requires that they be picked up in person.
 
-*Construction* Craft Wondrous Item, *contact other plane*, *secret chest*; Cost 15,000 gp.
+*Construction* Craft Wondrous Item, [*contact other plane*](../magic/spells/contact-other-plane.md), [*secret chest*](../magic/spells/secret-chest.md); Cost 15,000 gp.
 
 ### Flying Barrel Chest
 
 *Aura* moderate transmutation; *Slot* none; *Price* 19,000 gp; *Weight* 100 lbs.
 
-This chest appears as a hinged, reinforced wooden barrel with saddles. A keyhole is visible on the side, where a good lock is inset. The interior holds up to 6 cubic feet of material. It can be ridden by a single Medium creature or two Small creatures, and can fly through the air as if affected by an *overland flight* spell (with a +5 bonus on Fly checks) for up to 10 hours per day, split up as its owner desires. It can carry up to 300 pounds at a speed of 40 feet, or up to 600 pounds at a speed of 30 feet. Only the weight of riders and materials strapped to the exterior counts for this limitation, not the weight of material stored within.
+This chest appears as a hinged, reinforced wooden barrel with saddles. A keyhole is visible on the side, where a good lock is inset. The interior holds up to 6 cubic feet of material. It can be ridden by a single Medium creature or two Small creatures, and can fly through the air as if affected by an [*overland flight*](../magic/spells/overland-flight.md) spell (with a +5 bonus on Fly checks) for up to 10 hours per day, split up as its owner desires. It can carry up to 300 pounds at a speed of 40 feet, or up to 600 pounds at a speed of 30 feet. Only the weight of riders and materials strapped to the exterior counts for this limitation, not the weight of material stored within.
 
-*Construction* Craft Wondrous Item, *animate object*, *overland flight*, *permanency*; Cost 8,500 gp.
+*Construction* Craft Wondrous Item, *animate object*, [*overland flight*](../magic/spells/overland-flight.md), [*permanency*](../magic/spells/permanency.md); Cost 8,500 gp.
 
 ### Corsair's Coffer
 
@@ -156,9 +156,9 @@ This chest appears as a hinged, reinforced wooden barrel with saddles. A keyhole
 
 This Huge lacquered chest is bound in gold-plated steel, with three hasps for securing locks and spade-shaped feet. The chest is airtight when closed and can be commanded to bury itself in dirt, loose soil, or sand. Once per day, it can burrow down between 10 and 30 feet; the process takes 1 minute for every 10 feet traveled. It stops digging once it reaches the desired depth, if it encounters solid stone, or if its path is blocked by any other obstruction. A buried chest can be commanded to dig back to the surface by a creature standing within 5 feet of the location beneath which it buried itself. The chest doesn't leave a usable tunnel, nor does it dig in any direction other than down or back up.
 
-The chest opens into an extradimensional space: its inside is larger than its outside dimensions, holding a maximum of 3,000 pounds and 500 cubic feet. The contents don't change its weight. Any effort to overload the chest fails, and items must be drawn from the chest intentionally; it isn't possible to tip it over and spill its contents. Retrieving a specific item is a full-round action (3 AP). As with the *secret chest* spell, magic items placed inside a corsair's coffer don't offer any benefit to characters carrying it. The chest is treated as a *bag of holding* for the purpose of determining what happens if placed in another extradimensional or nondimensional space. There is enough air for living creatures placed within the chest to survive for 20 minutes, after which they begin to suffocate.
+The chest opens into an extradimensional space: its inside is larger than its outside dimensions, holding a maximum of 3,000 pounds and 500 cubic feet. The contents don't change its weight. Any effort to overload the chest fails, and items must be drawn from the chest intentionally; it isn't possible to tip it over and spill its contents. Retrieving a specific item is a full-round action (3 AP). As with the [*secret chest*](../magic/spells/secret-chest.md) spell, magic items placed inside a corsair's coffer don't offer any benefit to characters carrying it. The chest is treated as a *bag of holding* for the purpose of determining what happens if placed in another extradimensional or nondimensional space. There is enough air for living creatures placed within the chest to survive for 20 minutes, after which they begin to suffocate.
 
-*Construction* Craft Wondrous Item, *move earth*, *secret chest*; Cost 12,000 gp.
+*Construction* Craft Wondrous Item, [*move earth*](../magic/spells/move-earth.md), [*secret chest*](../magic/spells/secret-chest.md); Cost 12,000 gp.
 
 ### Tidy Trunk
 
@@ -166,4 +166,4 @@ The chest opens into an extradimensional space: its inside is larger than its ou
 
 A small-sized trunk bound in polished metal and lined with velvet. While the trunk is latched, items inside are kept free of mold, moths, water damage, and other undesirable effects of long-term storage, though perishable items still eventually decay. If the trunk is kept latched for at least 8 hours, the items inside are neatly cleaned: it folds and presses clothing, polishes crystalline and metal tableware, removes stains from items, and so on. Items are not repaired of any preexisting damage; they're simply kept clean and organized.
 
-*Construction* Craft Wondrous Item, *prestidigitation*; Cost 500 gp.
+*Construction* Craft Wondrous Item, [*prestidigitation*](../magic/spells/prestidigitation.md); Cost 500 gp.

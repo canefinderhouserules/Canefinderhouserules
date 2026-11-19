@@ -145,6 +145,6 @@ Vine leshys have access to the following equipment.
 
 **Vine Leshy** — CL 5th; Price 1,500 gp
 
-**Requirements**: Knowledge (nature) 5 ranks, [*entangle*](../../magic/spells/entangle.md), [*plant growth*](../../magic/spells/plant-growth.md), *summon nature's ally I*; **Skill**: Knowledge (nature) DC 13; **Cost**: 750 gp
+**Requirements**: Knowledge (nature) 5 ranks, [*entangle*](../../magic/spells/entangle.md), [*plant growth*](../../magic/spells/plant-growth.md), [*summon nature's ally I*](../../magic/spells/summon-natures-ally-i.md); **Skill**: Knowledge (nature) DC 13; **Cost**: 750 gp
 
 **Growing a Vine Leshy**: Vine leshys grow best in areas where they can receive ample sunlight. After a vine leshy sprouts, the leshy's creator must use a sturdy tree, trellis, or other support to guide it as it grows.

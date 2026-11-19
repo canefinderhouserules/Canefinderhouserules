@@ -884,11 +884,11 @@ If your addiction is cured by magic, you lose access to this feat until you have
 
 **Indulge:** Pass time practicing your behavior or diffusely talking about it to someone who’s not interested. You suffer a -4 penalty on Persuade and Stealth skill checks and cannot benefit from magic effects that would allow you to go unnoticed or undetected. Your maniacal attention to details grants you a +4 bonus on all Perception and Sense Motive skill checks.
 
-**Boon 1:** You have an unnerving talent for asking the right questions. You can cast *confess* as a spell-like ability twice per day.
+**Boon 1:** You have an unnerving talent for asking the right questions. You can cast [*confess*](../../../magic/spells/confess.md) as a spell-like ability twice per day.
 
 **Boon 2:** You have a highly specialized knowledge in a field related to your compulsive behavior. You can always take 20 on one category of Knowledge skill checks. If you use the optional rules to research facts and lore, you can complete a research in 1 hour rather than 1 day and can expend inspiration points instead of influence points to this purpose. If you use the library research rules, you gain a bonus on research checks equal to ½ your character level.
 
-**Boon 3:** You can read the environment around you to find tiny clues and piece together the events transpired there. This works as *retrocognition*, except that the reconstructed events can be happened up to 1 day in the past for every 2 character levels you possess.
+**Boon 3:** You can read the environment around you to find tiny clues and piece together the events transpired there. This works as [*retrocognition*](../../../magic/spells/retrocognition.md), except that the reconstructed events can be happened up to 1 day in the past for every 2 character levels you possess.
 
 **Withdrawal:** When you can’t indulge in your maniacal behavior, you are overwhelmed by anxiety. You develop a lesser madness that can’t be cured until you can return to your behavior or are cured from the addiction.
 
@@ -900,11 +900,11 @@ If your addiction is cured by magic, you lose access to this feat until you have
 
 **Indulge:** You must experience a performance of some kind, be it an art display at a museum, an ally using their Perform skill or a concert or play. Roll a d20, with a result of 1-10 the performance was satisfactory but nothing special and you gain no bonus. With a result of 11-15 the performance was great and you gain a +2 morale bonus on Will saves for 24 hours. With a result of 16+ the bonus to will saves increases to +4. If an ally performs for you with the Perform skill, you gain a +1 bonus on this roll for ever 5 of their check result. You may also increase the bonuses of this roll if no ally is involved by spending 5 gp per +1 bonus, the more expensive performances are more likely to inspire you. You may attempt to perform for yourself but you do not gain any bonuses from money or the check result as you gain more from hearing and learning other methods.
 
-**Boon 1:** You understand the bolstering power of music and can relate the salient details to an ally. Once per day, you may cast *heroism* as a spell-like ability.
+**Boon 1:** You understand the bolstering power of music and can relate the salient details to an ally. Once per day, you may cast [*heroism*](../../../magic/spells/heroism.md) as a spell-like ability.
 
 **Boon 2:** You can perform for your allies and bolster their morale. Three times per day, you can grant your allies a morale bonus to attack rolls, Will saves and skill checks equal to 1/4 your HD for 1 minute.
 
-**Boon 3:** Your ability to inspire your allies through your performances reaches immense heights. You may cast *heroic invocation* once per day as a spell-like ability.
+**Boon 3:** Your ability to inspire your allies through your performances reaches immense heights. You may cast [*heroic invocation*](../../../magic/spells/heroic-invocation.md) once per day as a spell-like ability.
 
 **Withdrawal:** If you have not experienced a performance of some kind, you have difficulty focusing. To be able to cast spells or use point pools like inspiration or panache for any class ability you must make a Concentration check of 10 + the spell level or ½ their class level for pool point usage. If they fail, they cannot get the inspiration to perform the task, though they do not lose the point of Inspiration.
 
@@ -932,11 +932,11 @@ If your addiction is cured by magic, you lose access to this feat until you have
 
 **Indulge:** Play your favorite game with at least 1 other player. Roll 1d20. With a result of 1-10, you lose 1/10 of all your gold. With a result of 11-20, you win an equal amount. You also gain a +4 bonus on all [Appraise](../../../rules/skills/appraise.md) checks for 24 hours.
 
-**Boon 1:** Winning is just a matter of calculating the odds. You may cast *cleromancy* once per day as a spell-like ability.
+**Boon 1:** Winning is just a matter of calculating the odds. You may cast [*cleromancy*](../../../magic/spells/cleromancy.md) once per day as a spell-like ability.
 
 **Boon 2:** Whoever makes the first move has an advantage. You gain [1] as a bonus feat. If you already have Improved Initiative, you instead add +10 ft. to your land speed.
 
-**Boon 3:** Knowing the rules allows you to find loopholes. You may cast *time stop* once per day as a spell-like ability.
+**Boon 3:** Knowing the rules allows you to find loopholes. You may cast [*time stop*](../../../magic/spells/time-stop.md) once per day as a spell-like ability.
 
 **Withdrawal:** If you can’t play, you can’t sleep or rest properly. You are fatigued and require double the usual time to regain your spells.
 
@@ -948,11 +948,11 @@ If your addiction is cured by magic, you lose access to this feat until you have
 
 **Indulge:** Consume a massive dose of your chosen beverage or drug. You gain all the bonuses and damages listed for that substance. You also gain a +4 bonus against mind-affecting and language-dependent effects for 24 hours.
 
-**Boon 1:** Once per day, you can go on a rampage of intoxicated fury, functioning as the *blood rage* spell at a caster level equal to your character level.
+**Boon 1:** Once per day, you can go on a rampage of intoxicated fury, functioning as the [*blood rage*](../../../magic/spells/blood-rage.md) spell at a caster level equal to your character level.
 
 **Boon 2:** Your mind can work at an accelerated speed while you are under the effect of your chosen substance. Three times per day, you can roll twice any ability check or skill check involving a mental ability and take the better result.
 
-**Boon 3:** Your altered state of mind has opened the doors of perception for you, and leaves you in a psychedelic state that almost transcends space and time. You can cast *foresight* on yourself only as a spell-like ability once per day.
+**Boon 3:** Your altered state of mind has opened the doors of perception for you, and leaves you in a psychedelic state that almost transcends space and time. You can cast [*foresight*](../../../magic/spells/foresight.md) on yourself only as a spell-like ability once per day.
 
 **Withdrawal:** You suffer the effects of a moderate addiction to your chosen substance. This addiction can’t be cured by any amount of consecutive saves.
 

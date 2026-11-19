@@ -22,4 +22,4 @@ Subjects resist this control, and any subject forced to take actions against its
 
 If you don’t spend at least 1 round concentrating on the spell each day, the subject receives a new saving throw to throw off the domination.
 
-*Protection from evil* or a similar spell can prevent you from exercising control or using the telepathic link while the subject is so warded, but such an effect does not automatically dispel it.
+[*Protection from evil*](protection-from-evil.md) or a similar spell can prevent you from exercising control or using the telepathic link while the subject is so warded, but such an effect does not automatically dispel it.

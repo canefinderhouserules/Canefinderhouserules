@@ -11,4 +11,4 @@ A *conductive* weapon is able to channel the energy of a spelllike or supernatur
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *spectral hand*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*spectral hand*](../../magic/spells/spectral-hand.md); **Price** —

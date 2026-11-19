@@ -11,4 +11,4 @@ A *redeemed* weapon was once a corrupt *unholy* weapon. The taint of evil has be
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *consecrate*, *holy smite*, creator must be good; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*consecrate*](../../magic/spells/consecrate.md), [*holy smite*](../../magic/spells/holy-smite.md), creator must be good; **Price** —

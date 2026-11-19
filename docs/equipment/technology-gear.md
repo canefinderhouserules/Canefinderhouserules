@@ -164,7 +164,7 @@ A clonepod looks like a human-sized capsule with a blue window at head height an
 
 The completed clone can remain in stasis inside the pod indefinitely as long as the seals are not broken. The clone created is alive, yet has no mind until a neurocam (see below) is used to upload a mind into the clone’s brain. A clone has the same Strength, Dexterity, and Constitution scores of the original body. A clone that is awoken before any mind is uploaded into it has no Intelligence score, and its Wisdom and Charisma scores are both 1.
 
-Uploading a mind from a neurocam into a clone takes 10 minutes. If the mind belonged to the same creature that was used to grow the clone, it immediately comes back to life as if under the effects of a *clone* spell (including 2 negative levels or 2 points of Constitution drain)—provided the user’s soul has not yet passed to the afterlife and been judged. It possesses the same Intelligence, Wisdom, and Charisma of the original mind, all of that creature’s skills, and most of the memories and personality of the creature (though there may be gaps or differences). A mind uploaded into a clone after its soul has been judged results in a soulless approximation of the original. Such a creature has its Charisma permanently reduced by 2 points (which cannot be restored), and has no ability to grow more powerful or gain levels (similar to a *simulacrum*). If the clone’s body and mind are not from the same source, all six ability scores are permanently reduced by 2 points.
+Uploading a mind from a neurocam into a clone takes 10 minutes. If the mind belonged to the same creature that was used to grow the clone, it immediately comes back to life as if under the effects of a [*clone*](../magic/spells/clone.md) spell (including 2 negative levels or 2 points of Constitution drain)—provided the user’s soul has not yet passed to the afterlife and been judged. It possesses the same Intelligence, Wisdom, and Charisma of the original mind, all of that creature’s skills, and most of the memories and personality of the creature (though there may be gaps or differences). A mind uploaded into a clone after its soul has been judged results in a soulless approximation of the original. Such a creature has its Charisma permanently reduced by 2 points (which cannot be restored), and has no ability to grow more powerful or gain levels (similar to a [*simulacrum*](../magic/spells/simulacrum.md)). If the clone’s body and mind are not from the same source, all six ability scores are permanently reduced by 2 points.
 
 **Construction** Craft DC 25; Cost 30,000 gp; Craft Technological Item, nanotech lab
 
@@ -256,7 +256,7 @@ A filter mask is a clear plastic shield worn over the entire face. The mask has 
 
 **Price** 6,000 gp; **Slot** none; **Weight** 7 lbs.; **Capacity** 10 (disposable); **Usage** 1 charge
 
-This cylindrical device has a nozzle at one end and a handle on one side. When activated as a standard action (1 AP), a fire extinguisher creates a 15-foot cone of misty vapor that swiftly extinguishes fires within its area of effect. Against magical fire effects, such as those created by a *wall of fire* or similar spell, the fire extinguisher only extinguishes the part of the larger effect its vapors directly contact. Continual magic flames, such as those of a *flaming* weapon or fire creature, are suppressed for 6 rounds before they automatically reignite. To extinguish an instantaneous fire effect or spell, the wielder must use a readied action with the fire extinguisher to counter the effect; this can cancel the entire effect, provided the source of the effect is in the extinguisher’s area of effect.
+This cylindrical device has a nozzle at one end and a handle on one side. When activated as a standard action (1 AP), a fire extinguisher creates a 15-foot cone of misty vapor that swiftly extinguishes fires within its area of effect. Against magical fire effects, such as those created by a [*wall of fire*](../magic/spells/wall-of-fire.md) or similar spell, the fire extinguisher only extinguishes the part of the larger effect its vapors directly contact. Continual magic flames, such as those of a *flaming* weapon or fire creature, are suppressed for 6 rounds before they automatically reignite. To extinguish an instantaneous fire effect or spell, the wielder must use a readied action with the fire extinguisher to counter the effect; this can cancel the entire effect, provided the source of the effect is in the extinguisher’s area of effect.
 
 When used against a creature of the fire subtype, a blast from a fire extinguisher deals 4d6 points of damage (Reflex DC 15 halves). A breathing creature exposed to a direct blast from a fire extinguisher is not harmed as long as the area is relatively well-ventilated—using a fire extinguisher in a confined area with poor or no ventilation can result in slow suffocation (at the GM’s discretion).
 
@@ -306,7 +306,7 @@ Goo tubes are a form of preserved food. A single goo tube is a malleable cylinde
 
 **Price** 2,000 gp; **Slot** none; **Weight** —; **Capacity** 10; **Usage** 1 charge/round
 
-A gravity clip is a small, disc-shaped device that can be attached to any melee weapon. Once mounted, the clip modulates the weapon’s mass on the moment of impact, via the manipulation of the gravity fields around the weapon. Each successful hit against a target consumes a charge from a gravity clip and causes the damage from the hit to resolve as if the weapon were one size category larger than its actual size. This effect does not stack with similar effects, such as those granted by the spell *lead blades*.
+A gravity clip is a small, disc-shaped device that can be attached to any melee weapon. Once mounted, the clip modulates the weapon’s mass on the moment of impact, via the manipulation of the gravity fields around the weapon. Each successful hit against a target consumes a charge from a gravity clip and causes the damage from the hit to resolve as if the weapon were one size category larger than its actual size. This effect does not stack with similar effects, such as those granted by the spell [*lead blades*](../magic/spells/lead-blades.md).
 
 **Construction** Craft DC 26; Cost 1,000 gp; Craft Technological Item, graviton lab
 
@@ -462,15 +462,15 @@ A nanite hypogun functions only on a living, corporeal creature. It has no effec
 
 | Color | Primary Effect | Secondary Effect | CL | Craft DC | Cost |
 |---|---|---|---|---|---|
-| Brown | 1d8+1 healing | *remove sickness* | 1st | 27 | 500 gp |
-| Black | 2d8+3 healing | *lesser restoration* | 3rd | 28 | 3,000 gp |
-| White | 3d8+5 healing | *remove disease* | 5th | 29 | 7,500 gp |
-| Gray | 4d8+7 healing | *neutralize poison* | 7th | 30 | 14,000 gp |
-| Green | 5d8+9 healing | *breath of life* | 9th | 31 | 22,500 gp |
-| Red | 6d8+11 healing | *heal* | 11th | 32 | 33,000 gp |
-| Blue | 7d8+13 healing | *regenerate* | 13th | 33 | 45,500 gp |
-| Orange | 8d8+15 healing | *greater restoration* | 15th | 34 | 62,500 gp |
-| Prismatic | 9d8+17 healing | *true resurrection* | 16th | 35 | 89,000 gp |
+| Brown | 1d8+1 healing | [*remove sickness*](../magic/spells/remove-sickness.md) | 1st | 27 | 500 gp |
+| Black | 2d8+3 healing | [*lesser restoration*](../magic/spells/restoration-lesser.md) | 3rd | 28 | 3,000 gp |
+| White | 3d8+5 healing | [*remove disease*](../magic/spells/remove-disease.md) | 5th | 29 | 7,500 gp |
+| Gray | 4d8+7 healing | [*neutralize poison*](../magic/spells/neutralize-poison.md) | 7th | 30 | 14,000 gp |
+| Green | 5d8+9 healing | [*breath of life*](../magic/spells/breath-of-life.md) | 9th | 31 | 22,500 gp |
+| Red | 6d8+11 healing | [*heal*](../magic/spells/heal.md) | 11th | 32 | 33,000 gp |
+| Blue | 7d8+13 healing | [*regenerate*](../magic/spells/regenerate.md) | 13th | 33 | 45,500 gp |
+| Orange | 8d8+15 healing | [*greater restoration*](../magic/spells/restoration-greater.md) | 15th | 34 | 62,500 gp |
+| Prismatic | 9d8+17 healing | [*true resurrection*](../magic/spells/true-resurrection.md) | 16th | 35 | 89,000 gp |
 
 **Construction** Craft Technological Item, nanotech lab
 
@@ -514,7 +514,7 @@ This silvery box holds up to 1 cubic foot of items or material. Quantum boxes al
 
 **Price** 2,000 gp; **Slot** none; **Weight** 3 lbs.; **Capacity** 10; **Usage** 1 charge/hour
 
-This device measures radiation levels in a 120-foot-radius circle, as the *detect radiation* spell (see [Spells](../magic/spells/detect-radiation.md)). When activated, the device makes a soft clicking sound that changes in volume and frequency according to the radiation level encountered. A small screen on the top of the handheld device indicates the approximate source and strength of radiation in these areas, with red areas indicating severe radiation, yellow high radiation, green medium radiation, and blue low radiation. Areas with less radiation don’t register on the device’s screen.
+This device measures radiation levels in a 120-foot-radius circle, as the [*detect radiation*](../magic/spells/detect-radiation.md) spell (see [Spells](../magic/spells/detect-radiation.md)). When activated, the device makes a soft clicking sound that changes in volume and frequency according to the radiation level encountered. A small screen on the top of the handheld device indicates the approximate source and strength of radiation in these areas, with red areas indicating severe radiation, yellow high radiation, green medium radiation, and blue low radiation. Areas with less radiation don’t register on the device’s screen.
 
 **Construction** Craft DC 27; Cost 1,000 gp; Craft Technological Item, production lab
 
@@ -522,7 +522,7 @@ This device measures radiation levels in a 120-foot-radius circle, as the *detec
 
 **Price** 30,000 gp; **Slot** none; **Weight** 3 lbs.; **Capacity** 10; **Usage** 1 charge
 
-A robojack is a strange, rod-like device that can be used to usurp control of an otherwise functional robot. In order to gain control of a robot, the wielder must first make a ranged touch attack against a target robot within a range of 60 feet. If the attack is successful, the robot must succeed at a DC 14 Will saving throw to prevent the robojack from linking to the robot’s command processor. On a subsequent turn after a link is established, the wielder can issue a command to the robot as a standard action (1 AP)—each attempt to do so consumes 1 charge from the robojack, and the robot gets a new DC 14 Will saving throw to resist following each command. The wielder must be within 60 feet of the robot and must issue the command in a language understood by the robot. The types of commands he can issue are similar to those allowed by a *suggestion* spell—once a command is successfully issued, the robot does its best to carry out the orders over the course of the next hour. This does not drain further charges from the robojack.
+A robojack is a strange, rod-like device that can be used to usurp control of an otherwise functional robot. In order to gain control of a robot, the wielder must first make a ranged touch attack against a target robot within a range of 60 feet. If the attack is successful, the robot must succeed at a DC 14 Will saving throw to prevent the robojack from linking to the robot’s command processor. On a subsequent turn after a link is established, the wielder can issue a command to the robot as a standard action (1 AP)—each attempt to do so consumes 1 charge from the robojack, and the robot gets a new DC 14 Will saving throw to resist following each command. The wielder must be within 60 feet of the robot and must issue the command in a language understood by the robot. The types of commands he can issue are similar to those allowed by a [*suggestion*](../magic/spells/suggestion.md) spell—once a command is successfully issued, the robot does its best to carry out the orders over the course of the next hour. This does not drain further charges from the robojack.
 
 **Construction** Craft DC 29; Cost 15,000 gp; Craft Technological Item, military lab
 
@@ -582,7 +582,7 @@ This small box of emergency medical gear can be used to augment a creature’s H
 
 **Price** 11,250 gp; **Slot** none; **Weight** 5 lbs.; **Capacity** 5; **Usage** 1 charge (disposable)
 
-A trauma pack plus functions as a trauma pack, except that it’s advanced chemicals and tools allow someone to restore a recently slain creature to life if the healing provided by the trauma pack plus is administered within 1 round of the target’s death, as *breath of life*. A trauma pack heals 2d8+2 points of damage on a successful DC 15 Heal check. For every 5 points by which the result exceeds the DC, the pack provides an additional 2d8+2 points of healing.
+A trauma pack plus functions as a trauma pack, except that it’s advanced chemicals and tools allow someone to restore a recently slain creature to life if the healing provided by the trauma pack plus is administered within 1 round of the target’s death, as [*breath of life*](../magic/spells/breath-of-life.md). A trauma pack heals 2d8+2 points of damage on a successful DC 15 Heal check. For every 5 points by which the result exceeds the DC, the pack provides an additional 2d8+2 points of healing.
 
 **Construction** Craft DC 26; Cost 5,625 gp; Craft Technological Item, medical lab
 

@@ -112,7 +112,7 @@ A calumet is a two-piece ceremonial smoking pipe with a bowl shaped from stone o
 
 **Price** 100 gp; **Weight** 2 lbs.
 
-This ornate leather sheath is covered in tables of magical notation and arcane formulae, as well as common spell triggers and reagents. Referring to these handy bits of notation grants you a +2 circumstance bonus on Spellcraft checks made to learn a spell from a spellbook or scroll, prepare a spell from a borrowed spellbook, identify the properties of a magic item using *detect magic*, or decipher a scroll.
+This ornate leather sheath is covered in tables of magical notation and arcane formulae, as well as common spell triggers and reagents. Referring to these handy bits of notation grants you a +2 circumstance bonus on Spellcraft checks made to learn a spell from a spellbook or scroll, prepare a spell from a borrowed spellbook, identify the properties of a magic item using [*detect magic*](../magic/spells/detect-magic.md), or decipher a scroll.
 
 ### Cipher Rings
 
@@ -383,7 +383,7 @@ This alchemically infused ink ensures secret messages destroy themselves after b
 
 **Price** 25 gp; **Weight** 1 lb.
 
-This glass bottle is filled with sticky goo prized by sailors for the additional traction it grants on ship decks. When applied to the soles of footwear and allowed to dry for 1 hour, liquid traction grants a +2 alchemical bonus on Acrobatics checks to keep your balance and a +2 bonus to CMD against bull rush. Liquid traction has no effect when it comes into contact with very slick or unnaturally slick surfaces such as ice or *grease*.
+This glass bottle is filled with sticky goo prized by sailors for the additional traction it grants on ship decks. When applied to the soles of footwear and allowed to dry for 1 hour, liquid traction grants a +2 alchemical bonus on Acrobatics checks to keep your balance and a +2 bonus to CMD against bull rush. Liquid traction has no effect when it comes into contact with very slick or unnaturally slick surfaces such as ice or [*grease*](../magic/spells/grease.md).
 
 ### Lozenge of the Songbird
 

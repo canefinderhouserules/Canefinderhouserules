@@ -9,17 +9,17 @@ The *Well-Provisioned Adventurer* trait allows a PC to select one of the followi
 The arcane adept has collected useful magical gear to ensure her success on her adventures, and she prides herself on having just the right tool for the job. This package is appropriate for an arcanist, sorcerer, witch, or wizard. Some bards and summoners might also find it attractive. It can also work for a magus if the 1st-level scrolls and wand are replaced with a masterwork melee weapon.
 
 **Weapons**: Light crossbow with 10 bolts, quarterstaff.  
-**Combat Gear**: Acid (2), scrolls of *comprehend languages* (2), scroll of *detect secret doors*, scroll of *glitterdust*, scrolls of *identify* (2), scroll of *mount*, scroll of *rope trick*, thunderstone, *wand of mage armor* (16 charges).  
+**Combat Gear**: Acid (2), scrolls of [*comprehend languages*](../magic/spells/comprehend-languages.md) (2), scroll of [*detect secret doors*](../magic/spells/detect-secret-doors.md), scroll of [*glitterdust*](../magic/spells/glitterdust.md), scrolls of [*identify*](../magic/spells/identify.md) (2), scroll of [*mount*](../magic/spells/mount.md), scroll of [*rope trick*](../magic/spells/rope-trick.md), thunderstone, *wand of mage armor* (16 charges).  
 **Other Gear**: Backpack, bedroll, belt pouch, candles (5), chalk (5 pieces), flint and steel, ink, inkpen, ioun torch, journal, magnifying glass, mess kit, scroll box, silk rope (50 ft.), spell component pouch, trail rations (5 days), waterskin, 3 gp.  
 **Total Weight**: 45 lbs. (28-3/4 lbs. for a Small character).
 
 ## Blessed Warden Package
 
-A blessed warden is prepared to protect herself against the horrors of evil-aligned planes. This equipment package is suitable for clerics, druids, inquisitors, oracles, and paladins. The specific gear is appropriate for those visiting the chaotic evil Abyss but can be adjusted to suit other evil-aligned planes, such as swapping the scrolls of *protection from chaos* for scrolls of *protection from law* for a package designed for travel to a lawful evil plane.
+A blessed warden is prepared to protect herself against the horrors of evil-aligned planes. This equipment package is suitable for clerics, druids, inquisitors, oracles, and paladins. The specific gear is appropriate for those visiting the chaotic evil Abyss but can be adjusted to suit other evil-aligned planes, such as swapping the scrolls of [*protection from chaos*](../magic/spells/protection-from-chaos.md) for scrolls of [*protection from law*](../magic/spells/protection-from-law.md) for a package designed for travel to a lawful evil plane.
 
 **Armor**: Masterwork chain shirt.  
 **Weapons**: Cold iron shortspear, light crossbow with 20 crossbow bolts.  
-**Combat Gear**: Holy water (3), scrolls of *cure light wounds* (2), scrolls of *protection from chaos* (2), scrolls of *protection from evil* (2), scroll of *remove curse*.  
+**Combat Gear**: Holy water (3), scrolls of [*cure light wounds*](../magic/spells/cure-light-wounds.md) (2), scrolls of [*protection from chaos*](../magic/spells/protection-from-chaos.md) (2), scrolls of [*protection from evil*](../magic/spells/protection-from-evil.md) (2), scroll of [*remove curse*](../magic/spells/remove-curse.md).  
 **Other Gear**: Backpack, bedroll, candles (5), chalk (5 pieces), crowbar, ioun torch, mess kit, shovel, silk rope (50 ft.), spell component pouch, trail rations (5 days), waterskin, wooden holy symbol, 13 gp.  
 **Total Weight**: 74 lbs. (44-1/2 lbs. for a Small character).
 
@@ -39,7 +39,7 @@ The daring bravo is equally adept in social situations and combat, with the righ
 
 **Armor**: Masterwork chain shirt.  
 **Weapons**: Light crossbow with 10 bolts, masterwork rapier, sap, alchemical silver dagger.  
-**Combat Gear**: Acid (2), alchemist’s kindness, potions of *cure light wounds* (2), sunrods (3).  
+**Combat Gear**: Acid (2), alchemist’s kindness, potions of [*cure light wounds*](../magic/spells/cure-light-wounds.md) (2), sunrods (3).  
 **Other Gear**: Backpack, bedroll, belt pouch, bottle of fine wine, chalk (5 pieces), courtier’s outfit with 50 gp in jewelry, flask, flint and steel, grooming kit, masterwork musical instrument, mess kit, mirror, perfume or cologne, sack, signet ring, silk rope (50 ft.), trail rations (5 days), waterskin, whetstone, 5 gp.  
 **Total Weight**: 76-1/2 lbs. (40-1/2 lbs. for a Small character).
 
@@ -49,7 +49,7 @@ The holy warrior is prepared to use her might and zeal to take the fight to the 
 
 **Armor**: Heavy steel shield, masterwork breastplate.  
 **Weapons**: Cold iron morningstar, heavy crossbow with 10 bolts, masterwork longsword.  
-**Combat Gear**: Alchemist’s fire (3), holy water (4), *oil of bless weapon*, potions of *cure light wounds* (2), *potion of protection from evil*, sunrods (3).  
+**Combat Gear**: Alchemist’s fire (3), holy water (4), *oil of bless weapon*, potions of [*cure light wounds*](../magic/spells/cure-light-wounds.md) (2), *potion of protection from evil*, sunrods (3).  
 **Other Gear**: Backpack, bedroll, belt pouch, candles (5), chalk (5 pieces), crowbar, flint and steel, holy symbol (silver), mess kit, sack, silk rope (50 ft.), trail rations (5 days), waterskin, 7 gp.  
 **Total Weight**: 102 lbs. (57-1/4 lbs. for a Small character).
 
@@ -58,7 +58,7 @@ The holy warrior is prepared to use her might and zeal to take the fight to the 
 The lore seeker has the equipment necessary to delve into ancient ruins searching for lost knowledge. As this package contains little by way of armor or weapons, it is most appropriate for alchemists, bards, monks, sorcerers, and wizards. If the PC can cast spells, add a spell component pouch and a holy symbol (if required).
 
 **Weapons**: Light crossbow with 10 bolts, quarterstaff, silver dagger.  
-**Combat Gear**: Alchemist’s fire (3), antitoxin, *oil of erase*, potions of *cure light wounds* (2), *potion of protection from evil*, tanglefoot bag, thunderstone.  
+**Combat Gear**: Alchemist’s fire (3), antitoxin, *oil of erase*, potions of [*cure light wounds*](../magic/spells/cure-light-wounds.md) (2), *potion of protection from evil*, tanglefoot bag, thunderstone.  
 **Other Gear**: Backpack, bedroll, belt pouch, candles (5), chalk (5 pieces), compass, crowbar, everburning torch, flint and steel, grappling hook, ink, inkpens (2), journals (2), magnifying glass, mapmaker’s kit, mess kit, sack, signal whistle, silk rope (50 ft.), trail rations (5 days), traveler’s any-tool, waterskin, 8 gp.  
 **Total Weight**: 44 lbs. (27-3/4 lbs. for a Small character).
 
@@ -68,7 +68,7 @@ This package is designed to provide the most aid to divine casters, such as cler
 
 **Armor**: Leather armor, light wooden shield.  
 **Weapons**: Shortspear, sling with 10 bullets.  
-**Combat Gear**: Antitoxin, bead of blessing (as a lesser *strand of prayer beads* without the bead of healing), holy water (2), scrolls of *cure light wounds* (2), scroll of *endure elements*.  
+**Combat Gear**: Antitoxin, bead of blessing (as a lesser *strand of prayer beads* without the bead of healing), holy water (2), scrolls of [*cure light wounds*](../magic/spells/cure-light-wounds.md) (2), scroll of [*endure elements*](../magic/spells/endure-elements.md).  
 **Other Gear**: Backpack, bedroll, belt pouch, candles (5), chalk (5 pieces), flint and steel, healer’s kit, holy symbol (silver), ioun torch, mess kit, mirror, sack, shovel, silk rope (50 ft.), smelling salts, soap, spell component pouch, trail rations (5 days), waterskin, 4 sp.  
 **Total Weight**: 67 lbs. (39-1/4 lbs. for a Small character).
 
@@ -78,7 +78,7 @@ This package equips planar travelers for the challenges of a variety of planar d
 
 **Armor**: Masterwork studded leather, light wooden shield.  
 **Weapons**: Composite longbow with 20 arrows, masterwork morningstar.  
-**Combat Gear**: Alchemist's fire (3), *potion of air bubble*, potions of *cure light wounds* (2), potions of *endure elements* (2).  
+**Combat Gear**: Alchemist's fire (3), *potion of air bubble*, potions of [*cure light wounds*](../magic/spells/cure-light-wounds.md) (2), potions of [*endure elements*](../magic/spells/endure-elements.md) (2).  
 **Other Gear**: Backpack, bedroll, candles (5), chalk (5 pieces), crowbar, ioun torch, mess kit, shovel, silk rope (50 ft.), trail rations (5 days), waterskin, 11 gp.  
 **Total Weight**: 75 lbs. (42-1/2 lbs. for a Small character).
 

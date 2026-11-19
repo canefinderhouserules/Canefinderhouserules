@@ -11,4 +11,4 @@ This special ability can be placed only on reach weapons, piercing melee weapons
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, Improved Steal, *spider climb*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Improved Steal, [*spider climb*](../../magic/spells/spider-climb.md); **Price** —

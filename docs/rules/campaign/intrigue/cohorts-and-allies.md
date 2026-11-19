@@ -34,7 +34,7 @@ A character with the Leadership feat can select an intelligent item as a cohort 
 
 **Called**: The item gains the called magical weapon special ability. This functions identically for an item of any kind, not just weapons. Each time the character selects this advancement after the first, the range of the ability increases by 1 step on the following progression: 1 mile, 100 miles, anywhere on the same plane, anywhere on any plane.
 
-**Empathic**: The item establishes a permanent empathic link with its owner as the familiar ability of the same name. If the character selects this advancement a second time, the bond strengthens to provide the benefits of a permanent *status* spell between item and master. If selected a third time, the advancement provides the character and item the benefit of a permanent *telepathic bond*. If selected four times, this advancement grants the character the ability to scry on his companion, as per the scry on familiar ability. If the character selects this advancement a fifth time, both the character and item gain the ability to cast *discern location* as a spell-like ability once per day, only to find each other.
+**Empathic**: The item establishes a permanent empathic link with its owner as the familiar ability of the same name. If the character selects this advancement a second time, the bond strengthens to provide the benefits of a permanent [*status*](../../../magic/spells/status.md) spell between item and master. If selected a third time, the advancement provides the character and item the benefit of a permanent [*telepathic bond*](../../../magic/spells/telepathic-bond.md). If selected four times, this advancement grants the character the ability to scry on his companion, as per the scry on familiar ability. If the character selects this advancement a fifth time, both the character and item gain the ability to cast [*discern location*](../../../magic/spells/discern-location.md) as a spell-like ability once per day, only to find each other.
 
 **Indestructible**: The item's hardness increases by 1, its hit points increase by 3, and it gains a permanent +1 bonus on its saving throws. If the character selects this advancement multiple times, these effects stack.
 
@@ -60,11 +60,11 @@ If the awakening ritual is successful, the creature awakens fully formed. A fres
 
 | Creature | Price | Ritual Requirements | Skill Check |
 |---|---|---|---|
-| Assassin vine | 7,750 gp | Grow Plant Creature, Knowledge (nature) 5 ranks, *entangle*, *summon nature's ally IV* | Knowledge (nature) DC 16 |
-| Treant | 25,750 gp | Grow Plant Creature, Knowledge (nature) 10 ranks, Knowledge (geography or history) 4 ranks, *liveoak*, *speak with plants* | Knowledge (nature) DC 24 |
-| Viper vine | 43,750 gp | Grow Plant Creature, Knowledge (nature) 12 ranks, *entangle*, *summon nature's ally VII* | Knowledge (nature) DC 32 |
+| Assassin vine | 7,750 gp | Grow Plant Creature, Knowledge (nature) 5 ranks, [*entangle*](../../../magic/spells/entangle.md), [*summon nature's ally IV*](../../../magic/spells/summon-natures-ally-iv.md) | Knowledge (nature) DC 16 |
+| Treant | 25,750 gp | Grow Plant Creature, Knowledge (nature) 10 ranks, Knowledge (geography or history) 4 ranks, [*liveoak*](../../../magic/spells/liveoak.md), [*speak with plants*](../../../magic/spells/speak-with-plants.md) | Knowledge (nature) DC 24 |
+| Viper vine | 43,750 gp | Grow Plant Creature, Knowledge (nature) 12 ranks, [*entangle*](../../../magic/spells/entangle.md), [*summon nature's ally VII*](../../../magic/spells/summon-natures-ally-vii.md) | Knowledge (nature) DC 32 |
 
-An assassin vine is usually grown deep in a forest or swamp, although it's possible to cultivate one among overgrown grape vines if the area is shaded from direct sun. A treant is usually grown in a grove of ancient trees of the predominant local variety. A viper vine is usually grown in jungles or swamps. See also the spells *plant voice* and *spore burst*.
+An assassin vine is usually grown deep in a forest or swamp, although it's possible to cultivate one among overgrown grape vines if the area is shaded from direct sun. A treant is usually grown in a grove of ancient trees of the predominant local variety. A viper vine is usually grown in jungles or swamps. See also the spells [*plant voice*](../../../magic/spells/plant-voice.md) and [*spore burst*](../../../magic/spells/spore-burst.md).
 
 ## Charters
 
@@ -86,7 +86,7 @@ Adventuring parties may start as childhood friends, casual companions, or total 
 
 ## Converting NPCs
 
-Cohorts and their masters often share alignment, but a common religion can be just as important. A cohort may share a leader's faith when first recruited, or a PC may seek to convert a cohort as their relationship develops. While PCs may choose to change alignment, such changes for NPCs may require magical assistance (see the *atonement* spell). Alternatively, you can proselytize for your patron deity, using your powers of persuasion and social influence to indoctrinate an NPC in the dogma of the faith while inspiring their fealty.
+Cohorts and their masters often share alignment, but a common religion can be just as important. A cohort may share a leader's faith when first recruited, or a PC may seek to convert a cohort as their relationship develops. While PCs may choose to change alignment, such changes for NPCs may require magical assistance (see the [*atonement*](../../../magic/spells/atonement.md) spell). Alternatively, you can proselytize for your patron deity, using your powers of persuasion and social influence to indoctrinate an NPC in the dogma of the faith while inspiring their fealty.
 
 Converting an NPC to your faith is similar to modifying their reaction with Diplomacy. You can only attempt to convert NPCs who are at least indifferent toward you, though you can take time to make a hostile or unfriendly NPC indifferent, and then begin the process of conversion. The DC of a conversion depends on how many conversion steps away from your faith an NPC is, starting at one conversion step for an NPC with no significant faith who matches your faith's alignment. For each step the NPC's alignment differs from the alignment of your faith, add one conversion step. If the NPC already holds a significant religious belief, add an additional conversion step. Servants of other faiths—including divine spellcasters who worship a deity and agents in the employ of a formal religion—normally can never be converted to a new faith. The GM has final discretion over whether an NPC will ever convert to your beliefs.
 

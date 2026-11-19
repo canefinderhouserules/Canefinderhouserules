@@ -11,4 +11,4 @@ A *disruption* weapon is the bane of all undead. Any undead creature struck in c
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *heal*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*heal*](../../magic/spells/heal.md); **Price** —

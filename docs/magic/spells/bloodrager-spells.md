@@ -312,7 +312,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Haste, Mass](haste-mass.md)**: As haste, but affects one creature/level, no two of which can be more than 30 ft. apart.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
-- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
@@ -326,7 +326,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
-- **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
+- **[Reduce Person, Mass](reduce-person-mass.md)**: As [*reduce person*](reduce-person.md), but affects 1 humanoid creature/level.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
 - **[Sadomasochism](sadomasochism.md)**: Take more damage from opponents, but force them to become demoralized.

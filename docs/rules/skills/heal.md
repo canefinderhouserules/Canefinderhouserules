@@ -11,7 +11,7 @@ You are skilled at tending to wounds and ailments.
 | First aid | 15 |
 | Long-term care | 15 |
 | Treat wounds from caltrops, | 15 |
-| *spike growth,* or *spike stones* |  |
+| *spike growth,* or [*spike stones*](../../magic/spells/spike-stones.md) |  |
 | Treat deadly wounds | 20 |
 | Treat poison | Poison’s save DC |
 | Treat disease | Disease’s save DC |
@@ -24,7 +24,7 @@ You can tend to as many as six patients at a time. You need a few items and supp
 
 *Treat Wounds from Caltrops, Spike Growth, or Spike Stones*: A creature wounded by stepping on a caltrop moves at half normal speed. A successful Heal check removes this movement penalty.
 
-A creature wounded by a *spike growth* or *spike stones* spell must succeed on a Reflex save or take injuries that reduce his speed by one-third. Another character can remove this penalty by taking 10 minutes to dress the victim’s injuries and succeeding on a Heal check against the spell’s save DC.
+A creature wounded by a [*spike growth*](../../magic/spells/spike-growth.md) or [*spike stones*](../../magic/spells/spike-stones.md) spell must succeed on a Reflex save or take injuries that reduce his speed by one-third. Another character can remove this penalty by taking 10 minutes to dress the victim’s injuries and succeeding on a Heal check against the spell’s save DC.
 
 *Treat Deadly Wounds*: When treating deadly wounds, you can restore hit points to a damaged creature. Treating deadly wounds restores 1 hit point per level of the creature. If you exceed the DC by 5 or more, add your Wisdom modifier (if positive) to this amount. A creature can only benefit from its deadly wounds being treated within 24 hours of being injured and never more than once per day. You must expend two uses from a healer’s kit to perform this task. You take a –2 penalty on your Heal skill check for each use from the healer’s kit that you lack.
 
@@ -32,7 +32,7 @@ A creature wounded by a *spike growth* or *spike stones* spell must succeed on a
 
 *Treat Disease*: To treat a disease means to tend to a single diseased character. Every time the diseased character makes a saving throw against disease effects, you make a Heal check. If your Heal check exceeds the DC of the disease, the character receives a +4 competence bonus on his saving throw against the disease.
 
-**Action**: Providing first aid, treating a wound, or treating poison is a standard action (1 AP). Treating a disease or tending a creature wounded by a *spike growth* or *spike stones* spell takes 10 minutes of work. Treating deadly wounds takes 1 hour of work. Providing long-term care requires 8 hours of light activity.
+**Action**: Providing first aid, treating a wound, or treating poison is a standard action (1 AP). Treating a disease or tending a creature wounded by a [*spike growth*](../../magic/spells/spike-growth.md) or [*spike stones*](../../magic/spells/spike-stones.md) spell takes 10 minutes of work. Treating deadly wounds takes 1 hour of work. Providing long-term care requires 8 hours of light activity.
 
 **Try Again**: Varies. Generally speaking, you can’t try a Heal check again without witnessing proof of the original check’s failure. You can always retry a check to provide first aid, assuming the target of the previous attempt is still alive.
 

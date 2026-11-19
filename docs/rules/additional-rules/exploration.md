@@ -6,9 +6,9 @@ Few rules are as vital to the success of adventurers than those pertaining to vi
 
 Dwarves and half-orcs have darkvision, but the other races presented in Chapter 2 need light to see by. See Table 7–10 for the radius that a light source illuminates and how long it lasts. The increased entry indicates an area outside the lit radius in which the light level is increased by one step (from darkness to dim light, for example).
 
-In an area of bright light, all characters can see clearly. Some creatures, such as those with light sensitivity and light blindness, take penalties while in areas of bright light. A creature can’t use Stealth in an area of bright light unless it is invisible or has cover. Areas of bright light include outside in direct sunshine and inside the area of a *daylight* spell.
+In an area of bright light, all characters can see clearly. Some creatures, such as those with light sensitivity and light blindness, take penalties while in areas of bright light. A creature can’t use Stealth in an area of bright light unless it is invisible or has cover. Areas of bright light include outside in direct sunshine and inside the area of a [*daylight*](../../magic/spells/daylight.md) spell.
 
-Normal light functions just like bright light, but characters with light sensitivity and light blindness do not take penalties. Areas of normal light include underneath a forest canopy during the day, within 20 feet of a torch, and inside the area of a *light* spell.
+Normal light functions just like bright light, but characters with light sensitivity and light blindness do not take penalties. Areas of normal light include underneath a forest canopy during the day, within 20 feet of a torch, and inside the area of a [*light*](../../magic/spells/light.md) spell.
 
 In an area of dim light, a character can see somewhat. Creatures within this area have concealment (20% miss chance in combat) from those without darkvision or the ability to see in darkness. A creature within an area of dim light can make a Stealth check to conceal itself. Areas of dim light include outside at night with a moon in the sky, bright starlight, and the area between 20 and 40 feet from a torch.
 
@@ -47,14 +47,14 @@ Very large objects have separate hit point totals for different sections.
 | Lantern, hooded | 30 ft. | 60 ft. | 6 hr./pint |
 | Sunrod | 30 ft. | 60 ft. | 6 hr. |
 | Torch | 20 ft. | 40 ft. | 1 hr. |
-| *Continual flame* | 20 ft. | 40 ft. | Permanent |
-| *Dancing lights* (torches) | 20 ft. (each) | 40 ft. (each) | 1 min. |
-| *Daylight* | 60 ft.² | 120 ft. | 10 min./level |
-| *Light* | 20 ft. | 40 ft. | 10 min./level |
+| [*Continual flame*](../../magic/spells/continual-flame.md) | 20 ft. | 40 ft. | Permanent |
+| [*Dancing lights*](../../magic/spells/dancing-lights.md) (torches) | 20 ft. (each) | 40 ft. (each) | 1 min. |
+| [*Daylight*](../../magic/spells/daylight.md) | 60 ft.² | 120 ft. | 10 min./level |
+| [*Light*](../../magic/spells/light.md) | 20 ft. | 40 ft. | 10 min./level |
 
 ¹ A candle does not provide normal illumination, only dim light.
 
-² The light for a *daylight* spell is bright light.
+² The light for a [*daylight*](../../magic/spells/daylight.md) spell is bright light.
 
 **Table 7–11: Size and Armor Class of Objects**
 
@@ -172,8 +172,8 @@ A crowbar or portable ram improves a character’s chance of breaking open a doo
 
 | Condition | DC Adjustment\* |
 |---|---|
-| *Hold portal* | +5 |
-| *Arcane lock* | +10 |
+| [*Hold portal*](../../magic/spells/hold-portal.md) | +5 |
+| [*Arcane lock*](../../magic/spells/arcane-lock.md) | +10 |
 
 * If both apply, use the larger number.
 

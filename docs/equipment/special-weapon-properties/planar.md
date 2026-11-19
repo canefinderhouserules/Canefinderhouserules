@@ -11,4 +11,4 @@ A *planar* weapon is effective against all types of extradimensional beings, abl
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *plane shift*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*plane shift*](../../magic/spells/plane-shift.md); **Price** —

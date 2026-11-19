@@ -194,14 +194,14 @@ Playful and easily amused, these changelings are lighthearted but terribly creat
 
 Any group of three hags can form a coven, but realistically, many types of hags will never cross paths or deign to work with one another. A typical hag coven can cast the spells listed in the green hag's monster entry. Blood hags, storm hags, and winter hags always grant the spells and abilities listed in their bestiary entries. To reflect the diversity of powers hags can invoke, Game Masters can customize the spell lists of covens based on their membership; each type of hag makes specific spells available to cast as coven magic.
 
-All covens can cast the following spells, regardless of the hags that comprise them: [*animate dead*](../../magic/spells/animate-dead.md), [*baleful polymorph*](../../magic/spells/baleful-polymorph.md), [*bestow curse*](../../magic/spells/bestow-curse.md), *clairaudience/clairvoyance*, [*commune*](../../magic/spells/commune.md), [*dream*](../../magic/spells/dream.md), [*forcecage*](../../magic/spells/forcecage.md), [*mind blank*](../../magic/spells/mind-blank.md), [*reincarnate*](../../magic/spells/reincarnate.md), [*speak with dead*](../../magic/spells/speak-with-dead.md), [*veil*](../../magic/spells/veil.md), and [*vision*](../../magic/spells/vision.md).
+All covens can cast the following spells, regardless of the hags that comprise them: [*animate dead*](../../magic/spells/animate-dead.md), [*baleful polymorph*](../../magic/spells/baleful-polymorph.md), [*bestow curse*](../../magic/spells/bestow-curse.md), [*clairaudience/clairvoyance*](../../magic/spells/clairaudience-clairvoyance.md), [*commune*](../../magic/spells/commune.md), [*dream*](../../magic/spells/dream.md), [*forcecage*](../../magic/spells/forcecage.md), [*mind blank*](../../magic/spells/mind-blank.md), [*reincarnate*](../../magic/spells/reincarnate.md), [*speak with dead*](../../magic/spells/speak-with-dead.md), [*veil*](../../magic/spells/veil.md), and [*vision*](../../magic/spells/vision.md).
 
-- **Annis Hag**: [*charm monster*](../../magic/spells/charm-monster.md), [*cloudkill*](../../magic/spells/cloudkill.md), *giant form I*, *mass bull's strength*.
+- **Annis Hag**: [*charm monster*](../../magic/spells/charm-monster.md), [*cloudkill*](../../magic/spells/cloudkill.md), [*giant form I*](../../magic/spells/giant-form-i.md), [*mass bull's strength*](../../magic/spells/bulls-strength-mass.md).
 - **Ash Hag**: [*ash storm*](../../magic/spells/ash-storm.md), [*fire storm*](../../magic/spells/fire-storm.md), [*solid fog*](../../magic/spells/solid-fog.md), [*volcanic storm*](../../magic/spells/volcanic-storm.md).
-- **Blood Hag**: [*blood mist*](../../magic/spells/blood-mist.md), *mass inflict serious wounds*, *mass pain strike*, [*skinsend*](../../magic/spells/skinsend.md).
+- **Blood Hag**: [*blood mist*](../../magic/spells/blood-mist.md), [*mass inflict serious wounds*](../../magic/spells/inflict-serious-wounds-mass.md), [*mass pain strike*](../../magic/spells/pain-strike-mass.md), [*skinsend*](../../magic/spells/skinsend.md).
 - **Dreamthief Hag**: [*cloak of dreams*](../../magic/spells/cloak-of-dreams.md), [*dream voyage*](../../magic/spells/dream-voyage.md), [*modify memory*](../../magic/spells/modify-memory.md), [*nightmare*](../../magic/spells/nightmare.md).
-- **Green Hag**: [*blight*](../../magic/spells/blight.md), *charm monster*, [*control weather*](../../magic/spells/control-weather.md), [*mirage arcana*](../../magic/spells/mirage-arcana.md).
-- **Mute Hag**: [*epidemic*](../../magic/spells/epidemic.md), *greater age resistance*, [*insanity*](../../magic/spells/insanity.md), [*malicious spite*](../../magic/spells/malicious-spite.md), [*vengeful outrage*](../../magic/spells/vengeful-outrage.md).
+- **Green Hag**: [*blight*](../../magic/spells/blight.md), [*charm monster*](../../magic/spells/charm-monster.md), [*control weather*](../../magic/spells/control-weather.md), [*mirage arcana*](../../magic/spells/mirage-arcana.md).
+- **Mute Hag**: [*epidemic*](../../magic/spells/epidemic.md), [*greater age resistance*](../../magic/spells/age-resistance-greater.md), [*insanity*](../../magic/spells/insanity.md), [*malicious spite*](../../magic/spells/malicious-spite.md), [*vengeful outrage*](../../magic/spells/vengeful-outrage.md).
 - **Night Hag**: [*contagion*](../../magic/spells/contagion.md), [*finger of death*](../../magic/spells/finger-of-death.md), *major curse*, [*maze*](../../magic/spells/maze.md), [*nightmare*](../../magic/spells/nightmare.md).
 - **Sea Hag**: [*control water*](../../magic/spells/control-water.md), [*eyebite*](../../magic/spells/eyebite.md), [*power word blind*](../../magic/spells/power-word-blind.md), [*water breathing*](../../magic/spells/water-breathing.md).
 - **Storm Hag**: [*call lightning storm*](../../magic/spells/call-lightning-storm.md), [*control weather*](../../magic/spells/control-weather.md), [*solid fog*](../../magic/spells/solid-fog.md), [*scouring winds*](../../magic/spells/scouring-winds.md).
@@ -215,16 +215,16 @@ Changeling witches with the coven hex who wish to form a coven must perform a 1-
 
 | Witch Level | Coven Spell |
 |---|---|
-| 1st | *disguise other*, *fog cloud* |
-| 3rd | *bestow curse* |
-| 5th | *speak with dead* |
-| 7th | *baleful polymorph* |
-| 9th | *mirage arcana* |
-| 11th | *forcecage* |
-| 13th | *commune* |
-| 15th | *control weather* |
-| 17th | *vision* |
-| 19th | *mind blank* |
+| 1st | [*disguise other*](../../magic/spells/disguise-other.md), [*fog cloud*](../../magic/spells/fog-cloud.md) |
+| 3rd | [*bestow curse*](../../magic/spells/bestow-curse.md) |
+| 5th | [*speak with dead*](../../magic/spells/speak-with-dead.md) |
+| 7th | [*baleful polymorph*](../../magic/spells/baleful-polymorph.md) |
+| 9th | [*mirage arcana*](../../magic/spells/mirage-arcana.md) |
+| 11th | [*forcecage*](../../magic/spells/forcecage.md) |
+| 13th | [*commune*](../../magic/spells/commune.md) |
+| 15th | [*control weather*](../../magic/spells/control-weather.md) |
+| 17th | [*vision*](../../magic/spells/vision.md) |
+| 19th | [*mind blank*](../../magic/spells/mind-blank.md) |
 
 Coven spells use the caster level of the coven's most powerful witch. They require each member of the coven to participate simultaneously, taking a full-round action (3 AP) or the spell's normal casting time to cast, whichever is longer. A changeling coven can cast a total of three coven spells each day, regardless of the spell level.
 
@@ -330,7 +330,7 @@ Shy and soft-spoken, but possessed of grace and insight, callow mays are masterf
 
 **Hag Racial Trait** Green-born changelings gain a +2 racial bonus on Bluff checks against creatures that could be sexually attracted to them.
 
-**Awakened Hag Heritage** You can cast *disguise self* once per day as a spell-like ability, treating your character level as your caster level. The bonus on Bluff checks you gain from your hag racial trait applies when someone could be sexually attracted to your disguised form as well.
+**Awakened Hag Heritage** You can cast [*disguise self*](../../magic/spells/disguise-self.md) once per day as a spell-like ability, treating your character level as your caster level. The bonus on Bluff checks you gain from your hag racial trait applies when someone could be sexually attracted to your disguised form as well.
 
 ### Mute-Born (Sorrow May)
 

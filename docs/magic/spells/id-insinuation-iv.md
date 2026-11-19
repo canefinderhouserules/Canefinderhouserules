@@ -3,6 +3,7 @@
 **School** enchantment (compulsion) [mind-affecting]; **Level** psychic 5  
 **Casting Time** 1 standard action (2 AP)  
 **Components** S  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** four creatures  
 **Duration** concentration + 1 round  
 **Saving Throw** Will negates; **Spell Resistance** yes

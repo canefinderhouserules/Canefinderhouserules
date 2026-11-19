@@ -1,6 +1,6 @@
 # Diseases
 
-From a widespread plague to the bite of a dire rat, disease is a serious threat to common folk and adventurers alike. Diseases rarely have a limited frequency, but most have a lengthy onset time. This onset time can also be variable. Most diseases can be cured by a number of consecutive saving throws or by spells such as *remove disease*.
+From a widespread plague to the bite of a dire rat, disease is a serious threat to common folk and adventurers alike. Diseases rarely have a limited frequency, but most have a lengthy onset time. This onset time can also be variable. Most diseases can be cured by a number of consecutive saving throws or by spells such as [*remove disease*](../../magic/spells/remove-disease.md).
 
 The following samples represent just some of the possibilities when creating diseases. See [Afflictions](afflictions.md) for how to read a stat block.
 

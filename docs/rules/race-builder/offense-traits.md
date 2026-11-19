@@ -73,7 +73,7 @@ The following racial traits augment a race’s fighting prowess.
 
 **Stench Aura (4 RP)**  
 *Prerequisite*: Monstrous humanoid type, reptilian subtype, or undead type  
-*Benefit*: Members of this race secrete a terrible scent as a 15-foot aura that nearly every other creature finds offensive. All living creatures (except those with the stench aura ability) within the aura must succeed at a Fortitude saving throw (DC 10 + 1/2 the user’s character level + the user’s Constitution modifier) or be sickened for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same creature’s stench aura for 24 hours. A *delay poison* or *neutralize poison* spell or similar effect removes the effect from the sickened creature. This is a poison effect.  
+*Benefit*: Members of this race secrete a terrible scent as a 15-foot aura that nearly every other creature finds offensive. All living creatures (except those with the stench aura ability) within the aura must succeed at a Fortitude saving throw (DC 10 + 1/2 the user’s character level + the user’s Constitution modifier) or be sickened for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same creature’s stench aura for 24 hours. A [*delay poison*](../../magic/spells/delay-poison.md) or [*neutralize poison*](../../magic/spells/neutralize-poison.md) spell or similar effect removes the effect from the sickened creature. This is a poison effect.  
 *Special*: This trait can be taken up to two times. The second time it is taken, the size of the aura increases to 30 feet, and the duration of the effect increases to 10 rounds.
 
 **Sticky Tongue (2 RP)**  

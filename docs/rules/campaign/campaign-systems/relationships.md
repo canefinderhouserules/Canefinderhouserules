@@ -37,7 +37,7 @@ You can change your Relationship Score with an NPC in the following ways.
 
 **Campaign Trait**: If your GM is using campaign traits for this campaign (*Advanced Player’s Guide* 330), and you have a campaign trait associated with a specific NPC, your Relationship Score with that NPC gains a one-time increase of 4 points.
 
-**Charisma**: Since your base Relationship Score with any NPC is equal to your Charisma modifier, when your Charisma score changes permanently (such as from Charisma drain or a *headband of alluring Charisma*), your Relationship Scores with NPCs change with it. Temporary changes, such as from ability damage or bonuses from spells like *eagle’s splendor*, do not alter Relationship Scores.
+**Charisma**: Since your base Relationship Score with any NPC is equal to your Charisma modifier, when your Charisma score changes permanently (such as from Charisma drain or a *headband of alluring Charisma*), your Relationship Scores with NPCs change with it. Temporary changes, such as from ability damage or bonuses from spells like [*eagle’s splendor*](../../../magic/spells/eagles-splendor.md), do not alter Relationship Scores.
 
 **Companionship**: Every time you gain a character level, you may increase your Relationship Score with one NPC still active in the campaign by 1 point.
 

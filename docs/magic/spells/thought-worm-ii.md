@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as *thought worm I*, but the penalty on Will saves is –4. This spell can be undercast.
+This spell functions as [*thought worm I*](thought-worm-i.md), but the penalty on Will saves is –4. This spell can be undercast.

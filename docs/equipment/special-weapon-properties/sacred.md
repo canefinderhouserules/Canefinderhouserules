@@ -13,4 +13,4 @@ Additionally, if the wielder has the blessings class feature, whenever he channe
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *imbue with spell ability*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*imbue with spell ability*](../../magic/spells/imbue-with-spell-ability.md); **Price** —

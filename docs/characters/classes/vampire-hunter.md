@@ -51,7 +51,7 @@ A vampire hunter is proficient with all simple and [martial weapons](../../equip
 
 ### Detect Undead (Sp)
 
-At will, a vampire hunter can use [*detect undead*](../../magic/spells/detect-undead.md), as the spell. A vampire hunter can, as a move action (1 AP), concentrate on a single item or individual within 60 feet and determine if it is undead, learning the strength of its aura as if he had studied it for 3 rounds. While focusing on one individual or object, the vampire hunter does not *detect undead* in any other object or individual within range.
+At will, a vampire hunter can use [*detect undead*](../../magic/spells/detect-undead.md), as the spell. A vampire hunter can, as a move action (1 AP), concentrate on a single item or individual within 60 feet and determine if it is undead, learning the strength of its aura as if he had studied it for 3 rounds. While focusing on one individual or object, the vampire hunter does not [*detect undead*](../../magic/spells/detect-undead.md) in any other object or individual within range.
 
 ### Technique Feat
 
@@ -120,7 +120,7 @@ At 16th level, the vampire hunter can use Stealth while charging (but not whil
 
 The vampire hunter gains energy resistance equal to half his level against cold and electricity. Additionally, the vampire hunter’s heartbeat is undetectable. Any ability that detects or identifies the living, such as the lifesense ability, does not perceive him.
 
-At 16th level, once per day when reduced to 0 or fewer hit points while this focus is activated, the vampire hunter immediately turns gaseous (as the spell *gaseous form*) for up to a number of rounds equal to half his level and he gains a number of temporary hit points equal to half his level. The vampire hunter can leave *gaseous form* at any time without losing these temporary hit points. This effect ends after these rounds have elapsed, after the vampire hunter loses the temporary hit points, or once this focus is no longer active, at which point the vampire hunter immediately becomes corporeal and loses these temporary hit points. If he has not received healing in the interim, this returns the vampire hunter to the number of hit points he had after the attack or effect that triggered this ability.
+At 16th level, once per day when reduced to 0 or fewer hit points while this focus is activated, the vampire hunter immediately turns gaseous (as the spell [*gaseous form*](../../magic/spells/gaseous-form.md)) for up to a number of rounds equal to half his level and he gains a number of temporary hit points equal to half his level. The vampire hunter can leave *gaseous form* at any time without losing these temporary hit points. This effect ends after these rounds have elapsed, after the vampire hunter loses the temporary hit points, or once this focus is no longer active, at which point the vampire hunter immediately becomes corporeal and loses these temporary hit points. If he has not received healing in the interim, this returns the vampire hunter to the number of hit points he had after the attack or effect that triggered this ability.
 
 #### Vampiric Might
 
@@ -259,7 +259,7 @@ At 20th level, the vampire hunter becomes the bane of the undead. As a standard 
 
 If the attack hits, the target takes damage normally and must succeed at a Fortitude saving throw or suffer the additional effect. The DC for this save is 10 + 1/2 the vampire hunter’s level + the vampire hunter’s Wisdom modifier. Whether or not the attack succeeds, the creature cannot be targeted by this ability again (by any vampire hunter) for 24 hours.
 
-If the vampire hunter chooses to destroy the target, the target is killed. If the target is a vampire, it does not assume *gaseous form*, and its healing powers do not come into effect; it is destroyed outright. If the vampire hunter chooses to stake his target, the target is killed if it’s a non-vampire. If it’s a vampire (or similar creature affected by having a stake driven through its heart) it is killed, but returns to life if the stake is removed. The vampire hunter can use his 4th-level stake ability to employ any piercing weapon or sharp tool as though it were a wooden stake.
+If the vampire hunter chooses to destroy the target, the target is killed. If the target is a vampire, it does not assume [*gaseous form*](../../magic/spells/gaseous-form.md), and its healing powers do not come into effect; it is destroyed outright. If the vampire hunter chooses to stake his target, the target is killed if it’s a non-vampire. If it’s a vampire (or similar creature affected by having a stake driven through its heart) it is killed, but returns to life if the stake is removed. The vampire hunter can use his 4th-level stake ability to employ any piercing weapon or sharp tool as though it were a wooden stake.
 
 Additionally, at 20th level, each day when the vampire hunter regains his spells per day, he chooses one vampiric focus to be active on himself for the entire day. This focus is in addition to uses of his vampiric focus class ability.
 

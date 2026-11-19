@@ -12,14 +12,14 @@ Occult rituals allow any character to attempt magic at great risk. As with the o
 **Target** up to one 20-ft. cube/character level of primary caster  
 **Duration** instantaneous  
 **Saving Throw** see text; **SR** see text  
-**Backlash** All casters are cursed with permanent *sympathy* (per the spell) for the target location.  
+**Backlash** All casters are cursed with permanent [*sympathy*](../../magic/spells/sympathy.md) (per the spell) for the target location.  
 **Failure** All casters gain the burning condition (2d6, DC 10 + half the primary caster's character level + the primary caster's Int modifier). For one month afterward, all casters exposed to mundane or magical fire regain this burning condition.
 
 **Effect**: The primary caster must anoint all casters in oil. She must then remain unmoving in meditative prayer while secondary casters pace the affected area with burning incense and herbs. If the area is in a natural environment, the casters must use Knowledge (nature) checks for the ritual; if the area is in an urban environment, they must use Knowledge (local) checks instead. As the ritual concludes, the secondary casters return to the altar and set the oil anointing them aflame. So long as the ritual does not fail, the oil burns away without harming the secondary casters.
 
-If the ritual is successful, the area is affected by either a *hallow* or *unhallow* spell (chosen by the primary caster), with an additional *antipathy* effect fixed on the area. The primary caster determines the specifics of the *antipathy* spell. These effects last for 1 year.
+If the ritual is successful, the area is affected by either a [*hallow*](../../magic/spells/hallow.md) or [*unhallow*](../../magic/spells/unhallow.md) spell (chosen by the primary caster), with an additional [*antipathy*](../../magic/spells/antipathy.md) effect fixed on the area. The primary caster determines the specifics of the *antipathy* spell. These effects last for 1 year.
 
-This ritual can be enacted up to three times within an area. Reinforcements of the original ritual are called a twice-bound seal or thrice-bound seal, with the DC increasing by 4 each additional time (though the duration is unaffected). If an additional attempt at performing the ritual fails, the effect is removed and the area returns to normal. Each additional time the ritual is successfully cast, the primary caster can apply one of the following modifications to the *antipathy* spell effect.
+This ritual can be enacted up to three times within an area. Reinforcements of the original ritual are called a twice-bound seal or thrice-bound seal, with the DC increasing by 4 each additional time (though the duration is unaffected). If an additional attempt at performing the ritual fails, the effect is removed and the area returns to normal. Each additional time the ritual is successfully cast, the primary caster can apply one of the following modifications to the [*antipathy*](../../magic/spells/antipathy.md) spell effect.
 
 - The area affects creatures that are normally immune to mind-affecting effects.
 - Does not allow a save.

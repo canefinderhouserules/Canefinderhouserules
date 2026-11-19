@@ -82,7 +82,7 @@ Gnomes can select the following racial traits.
 
 **Inquisitive**: Gnomes have a knack for being in places they shouldn’t be. Gnomes with this trait gain a +2 racial bonus on Disable Device and Escape Artist checks. This racial trait replaces keen senses and obsessive.
 
-**Shadow Dodger**: Gnomes with this trait gain a +4 dodge bonus to their AC against incorporeal creatures and partially real creatures and objects, such as those created by *shadow conjuration*, but only if successfully disbelieved. This racial trait replaces defensive training and illusion resistance.
+**Shadow Dodger**: Gnomes with this trait gain a +4 dodge bonus to their AC against incorporeal creatures and partially real creatures and objects, such as those created by [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), but only if successfully disbelieved. This racial trait replaces defensive training and illusion resistance.
 
 **Shadow Foe**: Gnomes with this trait receive a +1 bonus on attack rolls and to their AC against humanoids of the dark folk and wayang subtypes, and outsiders native to the Shadow Plane. This racial trait replaces defensive training and hatred.
 
@@ -146,7 +146,7 @@ Half-orcs can select the following racial traits.
 
 **Projection**: Some half-orcs channel negative emotions through magic. The DCs of any saving throws against spells with the fear or pain descriptor they cast increase by 1. This racial trait replaces orc ferocity and weapon familiarity.
 
-**Smog Sight**: Half-orcs with this racial trait can see double the normal range in dense fog and smoke (including magic effects like *obscuring mist*) and ignore concealment from smoke or fog for targets within 5 feet. This racial trait replaces darkvision.
+**Smog Sight**: Half-orcs with this racial trait can see double the normal range in dense fog and smoke (including magic effects like [*obscuring mist*](../../magic/spells/obscuring-mist.md)) and ignore concealment from smoke or fog for targets within 5 feet. This racial trait replaces darkvision.
 
 **Stoic**: Some half-orcs learn to suppress their strong emotions. They don’t usually gain morale bonuses, but instead gain a +2 racial bonus on saving throws against emotion and fear effects, and the DC to intimidate them increases by 2. They can choose to gain morale bonuses when they would normally be able to do so, but if they do, they lose the benefits from this racial trait for 24 hours. This racial trait replaces intimidating and orc ferocity.
 

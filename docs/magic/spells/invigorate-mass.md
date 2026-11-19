@@ -3,6 +3,7 @@
 **School** illusion [figment]; **Level** bard 3, mesmerist 3, psychic 4  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V  
+**Range** touch  
 **Targets** creatures touched, up to one/level  
 **Duration** 10 minutes/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)

@@ -16,7 +16,7 @@ This spell causes seven shimmering, multicolored beams of light to spray from yo
 | 2 | Orange | 40 points acid damage (Reflex half) |
 | 3 | Yellow | 80 points electricity damage (Reflex half) |
 | 4 | Green | Poison (Frequency 1/rd. for 6 rd.; Init. effect death; Sec. effect 1 Con/rd.; Cure 2 consecutive Fort saves)* |
-| 5 | Blue | *Flesh to stone* (Fortitude negates) |
+| 5 | Blue | [*Flesh to stone*](flesh-to-stone.md) (Fortitude negates) |
 | 6 | Indigo | Insane, as insanity spell (Will negates) |
 | 7 | Violet | Sent to another plane (Will negates) |
 | 8 | Struck by two rays | Roll twice more, ignoring any “8” results |

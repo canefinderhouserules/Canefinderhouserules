@@ -7,8 +7,8 @@
 
 #### Description
 
-This special ability can only be placed on melee weapons. A *seaborne* weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on Swim checks equal to twice the weapon’s enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell *freedom of movement*.
+This special ability can only be placed on melee weapons. A *seaborne* weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on Swim checks equal to twice the weapon’s enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell [*freedom of movement*](../../magic/spells/freedom-of-movement.md).
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *freedom of movement*, *touch of the sea* (*Advanced Player’s Guide*); **Price** —
+**Requirements** Craft Magic Arms and Armor, [*freedom of movement*](../../magic/spells/freedom-of-movement.md), [*touch of the sea*](../../magic/spells/touch-of-the-sea.md) (*Advanced Player’s Guide*); **Price** —

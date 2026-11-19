@@ -14,7 +14,7 @@ Spellcasters frequently seek out lesser dragons to serve as familiars because of
 
 **Speed** 10 ft., fly 80 ft. (average); **Melee** gore +10 (1d2–3); **Space** 1 ft.; **Reach** 0 ft.; **Special Attacks** ink spray, sneak attack +2d6
 
-**Spell-Like Abilities** (CL 3rd; concentration +4): at will—*arcane mark*, *read magic*; 3/day—*erase*; 1/day—*secret page*
+**Spell-Like Abilities** (CL 3rd; concentration +4): at will—[*arcane mark*](../../magic/spells/arcane-mark.md), [*read magic*](../../magic/spells/read-magic.md); 3/day—[*erase*](../../magic/spells/erase.md); 1/day—[*secret page*](../../magic/spells/secret-page.md)
 
 **Str** 4, **Dex** 17, **Con** 10, **Int** 13, **Wis** 12, **Cha** 13; **Base Atk** +3; **CMB** +2; **CMD** 9 (13 vs. trip)
 
@@ -22,7 +22,7 @@ Spellcasters frequently seek out lesser dragons to serve as familiars because of
 
 **Change Shape (Su)**: As a full-round action (3 AP), a calligraphy wyrm can turn into a golden fountain pen. The wyrm gains hardness 5 but loses all its senses except hearing and blindsight, and cannot take any actions other than to return to its dragon form as a full-round action (3 AP). The golden pen counts as a masterwork tool for the purpose of [Craft](../../rules/skills/craft.md) (calligraphy) checks.
 
-**Ink Spray (Ex)**: As a standard action (1 AP) every 2d4 rounds, a calligraphy wyrm can sneeze a 10-foot cone of ink. Creatures must succeed at a DC 12 Reflex save or be covered in ink. Affected creatures are treated as though they had failed a saving throw against *glitterdust*, except that affected creatures don't take a penalty on [Stealth](../../rules/skills/stealth.md) checks, and can remove the [blinded](../../rules/appendices/conditions.md#blinded) condition automatically as a standard action (1 AP). The save DC is Charisma-based.
+**Ink Spray (Ex)**: As a standard action (1 AP) every 2d4 rounds, a calligraphy wyrm can sneeze a 10-foot cone of ink. Creatures must succeed at a DC 12 Reflex save or be covered in ink. Affected creatures are treated as though they had failed a saving throw against [*glitterdust*](../../magic/spells/glitterdust.md), except that affected creatures don't take a penalty on [Stealth](../../rules/skills/stealth.md) checks, and can remove the [blinded](../../rules/appendices/conditions.md#blinded) condition automatically as a standard action (1 AP). The save DC is Charisma-based.
 
 Calligraphy wyrms were created to serve as lore-keepers in mountain lairs and now settle mostly in large towns or cities, seeking new lore and forms of writing. Because of their natural proclivity for reading and recording information, they often wind up lurking around libraries and colleges, serving wizards, bards, and loremasters as familiars and assistants. Most learn to speak several languages, though many creatures find their chirping voices and know-it-all attitudes obnoxious. A 7th-level spellcaster with the Improved Familiar feat can gain a calligraphy wyrm as a familiar. A calligraphy wyrm is about 7 inches long and weighs about 1 pound.
 

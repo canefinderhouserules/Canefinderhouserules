@@ -22,7 +22,7 @@ Finally, wizards add their Intelligence modifier. The more distracting the inter
 
 **Injury**: If you take damage while trying to cast a spell, you must make a concentration check with a DC equal to 10 + the damage taken + the level of the spell you’re casting. If you fail the check, you lose the spell without effect. The interrupting event strikes during spellcasting if it comes between the time you started and the time you complete a spell (for a spell with a casting time of 1 full round or more) or if it comes in response to your casting the spell (such as an attack of opportunity provoked by the spell or a contingent attack, such as a readied action).
 
-If you are taking continuous damage, such as from an *acid arrow* or by standing in a lake of lava, half the damage is considered to take place while you are casting a spell. You must make a concentration check with a DC equal to 10 + 1/2 the damage that the continuous source last dealt + the level of the spell you’re casting. If the last damage dealt was the last damage that the effect could deal, then the damage is over and does not distract you.
+If you are taking continuous damage, such as from an [*acid arrow*](spells/acid-arrow.md) or by standing in a lake of lava, half the damage is considered to take place while you are casting a spell. You must make a concentration check with a DC equal to 10 + 1/2 the damage that the continuous source last dealt + the level of the spell you’re casting. If the last damage dealt was the last damage that the effect could deal, then the damage is over and does not distract you.
 
 **Spell**: If you are affected by a spell while attempting to cast a spell of your own, you must make a concentration check or lose the spell you are casting. If the spell affecting you deals damage, the DC is 10 + the damage taken + the level of the spell you’re casting.
 
@@ -71,7 +71,7 @@ To complete the action, you must then cast an appropriate spell. As a general ru
 
 **Specific Exceptions**: Some spells can counter other specific spells, often those with diametrically opposed effects.
 
-***Dispel Magic* as a Counterspell**: You can usually use *dispel* *magic* to counterspell another spell being cast without needing to identify the spell being cast. *Dispel magic* doesn’t always work as a counterspell (see the spell description).
+***Dispel Magic* as a Counterspell**: You can usually use *dispel* *magic* to counterspell another spell being cast without needing to identify the spell being cast. [*Dispel magic*](spells/dispel-magic.md) doesn’t always work as a counterspell (see the spell description).
 
 ## Caster Level
 
@@ -103,9 +103,9 @@ Many special spell effects are handled according to the school of the spells in 
 
 When a living creature dies, its soul departs its body, leaves the Material Plane, travels through the Astral Plane, and goes to abide on the plane where the creature’s deity resides. If the creature did not worship a deity, its soul departs to the plane corresponding to its alignment. Bringing someone back from the dead involves magically retrieving his soul and returning it to his body. For more information on the planes, see Chapter 13.
 
-*Negative Levels*: Any creature brought back to life usually gains one or more permanent negative levels (see Appendix 1). These levels apply a penalty to most rolls until removed through spells such as *restoration*. If the character was 1st level at the time of death, he loses 2 points of Constitution instead of gaining a negative level.
+*Negative Levels*: Any creature brought back to life usually gains one or more permanent negative levels (see Appendix 1). These levels apply a penalty to most rolls until removed through spells such as [*restoration*](spells/restoration.md). If the character was 1st level at the time of death, he loses 2 points of Constitution instead of gaining a negative level.
 
-*Preventing Revivification*: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using *raise dead* or *resurrection* to restore the slain character to life. Casting *trap the soul* prevents any sort of revivification unless the soul is first released.
+*Preventing Revivification*: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using [*raise dead*](spells/raise-dead.md) or [*resurrection*](spells/resurrection.md) to restore the slain character to life. Casting [*trap the soul*](spells/trap-the-soul.md) prevents any sort of revivification unless the soul is first released.
 
 *Revivification against One’s Will*: A soul can’t be returned to life if it doesn’t wish to be. A soul knows the name, alignment, and patron deity (if any) of the character attempting to revive it and may refuse to return on that basis.
 

@@ -5,6 +5,7 @@
 **Components** V  
 **Range** personal  
 **Target** you  
-**Duration** 1 hour/level
+**Duration** 1 hour/level  
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 This spell functions as [*planar adaptation*](planar-adaptation.md), except that it works only on worlds of the Material Plane. The cold void of space is considered a single world for the purpose of this spell, allowing you to survive in vacuum.

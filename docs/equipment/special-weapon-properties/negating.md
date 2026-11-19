@@ -11,4 +11,4 @@ A *negating* weapon briefly nullifies some forms of damage reduction when it dam
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *dispel chaos*, *evil*, *good*, or *law*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*dispel chaos*](../../magic/spells/dispel-chaos.md), *evil*, *good*, or *law*; **Price** —

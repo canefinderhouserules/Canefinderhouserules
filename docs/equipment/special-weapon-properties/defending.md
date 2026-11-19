@@ -11,4 +11,4 @@ A *defending* weapon allows the wielder to transfer some or all of the weapon’
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *shield* or *shield of faith*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*shield*](../../magic/spells/shield.md) or [*shield of faith*](../../magic/spells/shield-of-faith.md); **Price** —

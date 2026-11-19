@@ -36,7 +36,7 @@ Undines get along quite well with elves and gnomes. Often these races share prot
 
 **Darkvision**: Undines can see in the dark up to 60 feet.
 
-**Spell-Like Ability**: *Hydraulic push* (*Advanced Player’s Guide*) 1/day (caster level equals the undine’s level).
+**Spell-Like Ability**: [*Hydraulic push*](../../magic/spells/hydraulic-push.md) (*Advanced Player’s Guide*) 1/day (caster level equals the undine’s level).
 
 **Energy Resistance**: Undines have cold resistance 5.
 
@@ -143,7 +143,7 @@ A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to
 
 ### Triton Magic
 
-Some undines—often from the outer sea—descend from tritons, rather than genies. Undines with this racial trait can use *summon nature’s ally I* as a spell-like ability, but only to summon a dolphin. This racial trait replaces the spell-like ability racial trait.
+Some undines—often from the outer sea—descend from tritons, rather than genies. Undines with this racial trait can use [*summon nature’s ally I*](../../magic/spells/summon-natures-ally-i.md) as a spell-like ability, but only to summon a dolphin. This racial trait replaces the spell-like ability racial trait.
 
 ## More Favored Class Options
 

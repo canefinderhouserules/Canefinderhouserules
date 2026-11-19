@@ -11,4 +11,4 @@ An *igniting* weapon functions as a *flaming* weapon that also causes the target
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *flame blade*, *flame strike*, or *fireball*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*flame blade*](../../magic/spells/flame-blade.md), [*flame strike*](../../magic/spells/flame-strike.md), or [*fireball*](../../magic/spells/fireball.md); **Price** —

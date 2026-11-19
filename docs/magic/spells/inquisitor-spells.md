@@ -32,7 +32,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
-- **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
+- **[Blessing of the Watch](blessing-of-the-watch.md)**: [*Bless*](bless.md) that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Brand of Conformity](brand-of-conformity.md)**: Brand a creature to suppress its languages.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
@@ -140,7 +140,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
-- **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
+- **[Truthtelling](truthtelling.md)**: As [*zone of truth*](zone-of-truth.md), but on one touched creature, who briefly looks like a being of perfect order.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
@@ -185,7 +185,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
@@ -216,7 +216,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
-- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
+- **[Hold Fey](hold-fey.md)**: As [*hold person*](hold-person.md), but affects a fey.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Holy Ice Weapon](holy-ice-weapon.md)**: You create a masterwork weapon that has the qualities of ice and holy water.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
@@ -351,7 +351,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Free Swim](free-swim.md)**: As freedom of movement, but only allowing a creature to move freely underwater.
 - **[Frosthammer](frosthammer.md)**: A hurled hammer of ice damages and may trip the target.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
-- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
+- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As [*see invisibility*](see-invisibility.md), but cannot be made permanent.
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
@@ -408,7 +408,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Searing Light](searing-light.md)**: Ray deals 1d8/two levels damage (more against undead).
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
-- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Alarm](selective-alarm.md)**: As [*alarm*](alarm.md), but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Shield of Fortification, Greater](shield-of-fortification-greater.md)**: Target gains a 50% chance to treat critical hits and sneak attacks as normal hits.
@@ -473,13 +473,13 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to restrict movement.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Hold Monster](hold-monster.md)**: As
-- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Holy Smite](holy-smite.md)**: Harms and possibly blinds evil creatures (1d8 damage/2 levels).
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
@@ -496,7 +496,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Order’s Wrath](orders-wrath.md)**: Harms and dazes chaotic creatures (1d8 damage/2 levels).
-- **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Peacebond, Greater](peacebond-greater.md)**: As [*peacebond*](peacebond.md), but on multiple weapons, even if they aren’t sheathed.
 - **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Persistent Vigor](persistent-vigor.md)**: You are filled with a persistent vigor.
 - **[Planeslayer’s Call](planeslayers-call.md)**: The magic of your allies in the area becomes more potent against certain outsiders.
@@ -577,7 +577,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stoneskin, Communal](stoneskin-communal.md)**: As stoneskin, but you divide the duration among creatures touched.
-- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As [*sun’s disdain*](suns-disdain.md), on multiple creatures.
 - **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
 - **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
@@ -621,14 +621,14 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Named Bullet, Greater](named-bullet-greater.md)**: As named bullet, but deals 2 points of damage per caster level.
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
-- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
+- **[Nightmare Vision](nightmare-vision.md)**: As [*nightmare*](nightmare.md), and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Overwhelming Presence](overwhelming-presence.md)**: Creatures bow before you as if you were divine.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
-- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than [*divination*](divination.md).
 - **[Realm Retribution](realm-retribution.md)**: The target sends creatures it hits to your alignment's Outer Plane.
 - **[Repulsion](repulsion.md)**: Creatures can't approach you.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
-- **[Seer’s Bane](seers-bane.md)**: As *nondetection*, and those who fail to pierce it take damage or a curse.
+- **[Seer’s Bane](seers-bane.md)**: As [*nondetection*](nondetection.md), and those who fail to pierce it take damage or a curse.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *wounding* weapon de
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *bleed*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*bleed*](../../magic/spells/bleed.md); **Price** —

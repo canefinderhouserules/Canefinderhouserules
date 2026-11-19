@@ -18,7 +18,7 @@ The progression of this corruption is tied to evil actions taken to achieve a si
 
 ### Removing the Corruption
 
-This corruption is difficult to remove, since it is based in part on your self-delusions. You must first be convinced that you are going too far to achieve your goal, and even then, full recovery requires atoning (as per *atonement*) or going through a similar redemptive arc, with the potential of remission subject to the GM's discretion.
+This corruption is difficult to remove, since it is based in part on your self-delusions. You must first be convinced that you are going too far to achieve your goal, and even then, full recovery requires atoning (as per [*atonement*](../../../magic/spells/atonement.md)) or going through a similar redemptive arc, with the potential of remission subject to the GM's discretion.
 
 ## Manifestations
 
@@ -66,7 +66,7 @@ Fiends have taken notice of your wavering beliefs, and they seek to entice you.
 
 **Prerequisites**: Manifestation level 3rd, clandestine dealings*.
 
-**Gift**: The benefits of clandestine dealings also apply to evil outsiders, regardless of their initial attitude. Furthermore, such outsiders are always willing to offer bargains, whether they are encountered normally or called by *planar binding* or similar methods.
+**Gift**: The benefits of clandestine dealings also apply to evil outsiders, regardless of their initial attitude. Furthermore, such outsiders are always willing to offer bargains, whether they are encountered normally or called by [*planar binding*](../../../magic/spells/planar-binding.md) or similar methods.
 
 **Stain**: You count as evil for the purposes of spells that have alignment-based effects.
 
@@ -86,7 +86,7 @@ Your fury at being vexed knows no bounds, and you sometimes slip into violent ra
 
 **Prerequisite**: Manifestation level 6th.
 
-**Gift**: Three times per day, you can gain the benefits of the *rage* spell with a caster level equal to your manifestation level. At manifestation level 8th, you also gain the benefits of the *haste* spell for as long as your rage lasts.
+**Gift**: Three times per day, you can gain the benefits of the [*rage*](../../../magic/spells/rage.md) spell with a caster level equal to your manifestation level. At manifestation level 8th, you also gain the benefits of the [*haste*](../../../magic/spells/haste.md) spell for as long as your rage lasts.
 
 **Stain**: Your temper is difficult to control. Whenever you fail an ability check or skill check by 5 or more, you must succeed at a Will saving throw (DC = 15 + your manifestation level) or you immediately lash out at a creature or object involved in the situation (determined randomly if there are multiple targets), attacking it with a weapon or otherwise attempting to damage it. You are not compelled to continue attacking the target.
 

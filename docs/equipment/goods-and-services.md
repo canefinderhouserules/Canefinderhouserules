@@ -282,7 +282,7 @@ A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of th
 
 **Antitoxin**: If you drink a vial of antitoxin, you get a +5 alchemical bonus on Fortitude saving throws against poison for 1 hour.
 
-**Everburning Torch**: This otherwise normal torch has a *continual flame* spell cast on it. This causes it to shed light like an ordinary torch, but it does not emit heat or deal fire damage if used as a weapon.
+**Everburning Torch**: This otherwise normal torch has a [*continual flame*](../magic/spells/continual-flame.md) spell cast on it. This causes it to shed light like an ordinary torch, but it does not emit heat or deal fire damage if used as a weapon.
 
 **Holy Water**: Holy water damages undead creatures and evil outsiders almost as if it were acid. A flask of holy water can be thrown as a splash weapon.
 
@@ -290,9 +290,9 @@ Treat this attack as a ranged touch attack with a range increment of 10 feet. A 
 
 A direct hit by a flask of holy water deals 2d4 points of damage to an undead creature or an evil outsider. Each such creature within 5 feet of the point where the flask hits takes 1 point of damage from the splash.
 
-Temples to good deities sell holy water at cost (making no profit). Holy water is made using the *bless water* spell.
+Temples to good deities sell holy water at cost (making no profit). Holy water is made using the [*bless water*](../magic/spells/bless-water.md) spell.
 
-**Smokestick**: This alchemically treated wooden stick instantly creates thick, opaque smoke when burned. The smoke fills a 10-foot cube (treat the effect as a *fog cloud* spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally after 1 minute.
+**Smokestick**: This alchemically treated wooden stick instantly creates thick, opaque smoke when burned. The smoke fills a 10-foot cube (treat the effect as a [*fog cloud*](../magic/spells/fog-cloud.md) spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally after 1 minute.
 
 **Sunrod**: This 1-foot-long, gold-tipped, iron rod glows brightly when struck as a standard action (1 AP). It sheds normal light in a 30-foot radius and increases the light level by one step for an additional 30 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A sunrod does not increase the light level in normal light or bright light. It glows for 6 hours, after which the gold tip is burned out and worthless.
 

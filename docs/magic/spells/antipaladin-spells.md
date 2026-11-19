@@ -245,7 +245,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Summon Monster 4](summon-monster-4.md)**: Summons extraplanar creature to fight for you.
-- **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
+- **[Torpid Reanimation](torpid-reanimation.md)**: [*Animate dead*](animate-dead.md) when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Unholy Sword](unholy-sword.md)**: Weapon becomes +5, deals +2d6 damage vs. good.

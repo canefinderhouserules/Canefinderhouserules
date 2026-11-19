@@ -16,7 +16,7 @@ You can grant a piece of equipment only one blessing at a time. Blessing an item
 
 | Weapon Blessing | Uses of Channel Energy | Caster Level Required |
 |---|---|---|
-| *Bane* (you must choose the creature type or subtype at the time of blessing) | 2 | 3rd |
+| [*Bane*](../../magic/spells/bane.md) (you must choose the creature type or subtype at the time of blessing) | 2 | 3rd |
 | *Ghost touch* | 2 | 3rd |
 | *Disruption* | 3 | 6th |
 | *Lifesurge* | 3 | 6th |
@@ -24,7 +24,7 @@ You can grant a piece of equipment only one blessing at a time. Blessing an item
 
 | Armor/Shield Blessing | Uses of Channel Energy | Caster Level Required |
 |---|---|---|
-| *Deathless* (cannot be applied to shields) | 2 | 3rd |
+| [*Deathless*](../../magic/spells/deathless.md) (cannot be applied to shields) | 2 | 3rd |
 | *Stanching* (cannot be applied to shields) | 2 | 3rd |
 | *Ghost touch* | 4 | 9th |
 | Undead-controlling | 6 | 13th |

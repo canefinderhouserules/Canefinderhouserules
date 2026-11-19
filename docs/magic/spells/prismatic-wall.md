@@ -14,7 +14,7 @@ The wall’s maximum proportions are 4 feet wide per caster level and 2 feet hig
 
 Each color in the wall has a special effect. The accompanying table shows the seven colors of the wall, the order in which they appear, their effects on creatures trying to attack you or pass through the wall, and the magic needed to negate each color.
 
-The wall can be destroyed, color by color, in consecutive order, by casting the specified spells on the wall; however, the first color must be brought down before the second can be affected, and so on. A *rod of cancellation* or a [*mage’s disjunction*](mages-disjunction.md) spell destroys a *prismatic* *wall*, but an [*antimagic field*](antimagic-field.md) fails to penetrate it. *Dispel magic* and *greater dispel magic* can only be used on the wall once all the other colors have been destroyed. Spell resistance is effective against a *prismatic wall*, but the caster level check must be repeated for each color present.
+The wall can be destroyed, color by color, in consecutive order, by casting the specified spells on the wall; however, the first color must be brought down before the second can be affected, and so on. A *rod of cancellation* or a [*mage’s disjunction*](mages-disjunction.md) spell destroys a *prismatic* *wall*, but an [*antimagic field*](antimagic-field.md) fails to penetrate it. [*Dispel magic*](dispel-magic.md) and [*greater dispel magic*](dispel-magic-greater.md) can only be used on the wall once all the other colors have been destroyed. Spell resistance is effective against a *prismatic wall*, but the caster level check must be repeated for each color present.
 
 | Order | Color | Effect of Color |
 |---|---|---|
@@ -22,8 +22,8 @@ The wall can be destroyed, color by color, in consecutive order, by casting the 
 | 2nd | Orange | Stops magical ranged weapons. Deals 40 points of acid damage (Reflex half). |
 | 3rd | Yellow | Stops poisons, gases, and petrification. Deals 80 points of electricity damage (Reflex half). |
 | 4th | Green Poison (frequency: 1/rd. for 6 rd.; init. effect: death, sec. effect: 1 Con/rd.; cure 2 consecutive Fort saves). | Stops breath weapons. |
-| 5th | Blue | Stops divination and mental attacks. [Petrified 1](../../rules/appendices/conditions.md#petrified), as *flesh to stone* (Fortitude negates). |
-| 6th | Indigo | Stops all spells. Will save or become insane (as *insanity* spell). |
+| 5th | Blue | Stops divination and mental attacks. [Petrified 1](../../rules/appendices/conditions.md#petrified), as [*flesh to stone*](flesh-to-stone.md) (Fortitude negates). |
+| 6th | Indigo | Stops all spells. Will save or become insane (as [*insanity*](insanity.md) spell). |
 | 7th | Violet | Energy field destroys all objects and effects.* Creatures sent to another plane (Will negates). |
 | * magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above). | The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain |  |
 

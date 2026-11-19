@@ -14,6 +14,6 @@ First, each warded creature gains a +4 deflection bonus to AC and a +4 resistanc
 
 Second, each warded creature gains spell resistance 25 against evil spells and spells cast by evil creatures.
 
-Third, the abjuration protects the recipient from possession and mental influence, just as *protection from evil* does.
+Third, the abjuration protects the recipient from possession and mental influence, just as [*protection from evil*](protection-from-evil.md) does.
 
-Finally, if an evil creature succeeds on a melee attack against a creature warded by a *holy aura*, the offending attacker is blinded (Fortitude save negates, as *blindness/deafness*, but against *holy* *aura’s* save DC).
+Finally, if an evil creature succeeds on a melee attack against a creature warded by a *holy aura*, the offending attacker is blinded (Fortitude save negates, as [*blindness/deafness*](blindness-deafness.md), but against *holy* *aura’s* save DC).

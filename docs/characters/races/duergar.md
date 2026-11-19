@@ -32,13 +32,13 @@ The following racial traits may be selected instead of existing duergar racial t
 
 **Daysighted**: The cruel light of the sun harms some duergar less than others. Such duergar lack the light sensitivity racial trait, but have darkvision of only 60 feet.
 
-**Deep Magic**: Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on dispel checks. This racial trait replaces the [*enlarge person*](../../magic/spells/enlarge-person.md) and *invisibility* spell-like abilities.
+**Deep Magic**: Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on dispel checks. This racial trait replaces the [*enlarge person*](../../magic/spells/enlarge-person.md) and [*invisibility*](../../magic/spells/invisibility.md) spell-like abilities.
 
 **Dwarf Traits**: Duergar can select any dwarf racial trait that replaces stability. They can select dwarf racial traits that replace the hardy dwarf racial trait by giving up duergar immunities instead.
 
-**Ironskinned**: The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use [*ironskin*](../../magic/spells/ironskin.md) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *enlarge person* spell-like ability.
+**Ironskinned**: The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use [*ironskin*](../../magic/spells/ironskin.md) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the [*enlarge person*](../../magic/spells/enlarge-person.md) spell-like ability.
 
-**Twilight-Touched**: While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use [*dust of twilight*](../../magic/spells/dust-of-twilight.md) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *invisibility* spell-like ability.
+**Twilight-Touched**: While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use [*dust of twilight*](../../magic/spells/dust-of-twilight.md) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the [*invisibility*](../../magic/spells/invisibility.md) spell-like ability.
 
 ## Favored Class Options
 

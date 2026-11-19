@@ -60,19 +60,19 @@ This milky fluid can be mixed with water to quickly kill light and medium vegeta
 
 **Price** 50 gp; **Weight** 10 lbs.
 
-This fluid is used to preserve corpses, whether for later dissection, taxidermy, necromancy, or magic such as *raise dead*. Embalming fluid is technically a poison, and using it makes a corpse unpalatable to most animals and vermin, though corpse-eating undead don’t mind the taste. Treating a corpse with embalming fluid takes 1 hour and a successful DC 25 Heal check. The embalmed corpse decays at half the normal rate (each day dead counts as half a day for the purpose of *raise dead*).
+This fluid is used to preserve corpses, whether for later dissection, taxidermy, necromancy, or magic such as [*raise dead*](../../magic/spells/raise-dead.md). Embalming fluid is technically a poison, and using it makes a corpse unpalatable to most animals and vermin, though corpse-eating undead don’t mind the taste. Treating a corpse with embalming fluid takes 1 hour and a successful DC 25 Heal check. The embalmed corpse decays at half the normal rate (each day dead counts as half a day for the purpose of *raise dead*).
 
 ### Foaming Powder
 
 **Price** 10 gp; **Weight** 1 lb.
 
-When you add this 1-pound bag of green powder to a gallon of water, the two combine to form 50 cubic feet of thick green foam. Unless contained, in 1 round the foam fills a 5-foot-square to a depth of 2 feet. When multiple pounds of powder are used, the foam expands at a rate of one 5-foot square per round. Ground covered with the foam is treated as difficult terrain, but is otherwise harmless. After 1 hour, the foam hardens to form a buoyant material roughly the density of honeycomb. The cured foam is easy to cut, with hardness 0 and 5 hit points per foot of thickness. The cured foam breaks down over a few days, and even faster if exposed to water. Casting *transmute mud to rock* on uncured foam converts it into a soft, pumice-like stone (hardness 2, 5 hit points per inch of thickness).
+When you add this 1-pound bag of green powder to a gallon of water, the two combine to form 50 cubic feet of thick green foam. Unless contained, in 1 round the foam fills a 5-foot-square to a depth of 2 feet. When multiple pounds of powder are used, the foam expands at a rate of one 5-foot square per round. Ground covered with the foam is treated as difficult terrain, but is otherwise harmless. After 1 hour, the foam hardens to form a buoyant material roughly the density of honeycomb. The cured foam is easy to cut, with hardness 0 and 5 hit points per foot of thickness. The cured foam breaks down over a few days, and even faster if exposed to water. Casting [*transmute mud to rock*](../../magic/spells/transmute-mud-to-rock.md) on uncured foam converts it into a soft, pumice-like stone (hardness 2, 5 hit points per inch of thickness).
 
 ### Glowing Ink
 
 **Price** 5 gp; **Weight** —
 
-Often extracted from phosphorescent insects, tiny marine plants, or subterranean fungi, glowing ink emits a faint but steady light (typically red or green) that allows you to read it in normal darkness—this includes darkness created by spells like *darkness*, but not the supernatural darkness created by *deeper darkness*. If there is glowing ink on an object, you have a +2 bonus on Perception checks to locate it. Mixing glowing ink with marker dye makes the dye glow in the dark until it fades.
+Often extracted from phosphorescent insects, tiny marine plants, or subterranean fungi, glowing ink emits a faint but steady light (typically red or green) that allows you to read it in normal darkness—this includes darkness created by spells like [*darkness*](../../magic/spells/darkness.md), but not the supernatural darkness created by [*deeper darkness*](../../magic/spells/deeper-darkness.md). If there is glowing ink on an object, you have a +2 bonus on Perception checks to locate it. Mixing glowing ink with marker dye makes the dye glow in the dark until it fades.
 
 ### Impact Foam
 

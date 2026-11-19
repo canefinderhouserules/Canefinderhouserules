@@ -3,6 +3,7 @@
 **School** abjuration; **Level** cleric 9, psychic 9  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S, DF  
+**Range** touch  
 **Target** creatures touched  
 **Duration** 10 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)

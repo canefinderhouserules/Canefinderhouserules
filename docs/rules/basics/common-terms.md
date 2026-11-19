@@ -68,7 +68,7 @@ The Pathfinder RPG uses a number of terms, abbreviations, and definitions in pre
 
 **Rounding**: Occasionally the rules ask you to round a result or value. Unless otherwise stated, always round down. For example, if you are asked to take half of 7, the result would be 3.
 
-**Saving Throw**: When a creature is the subject of a dangerous spell or effect, it often receives a saving throw to mitigate the damage or result. Saving throws are passive, meaning that a character does not need to take an action to make a saving throw—they are made automatically. There are three types of saving throws: Fortitude (used to resist poisons, diseases, and other bodily ailments), Reflex (used to avoid effects that target an entire area, such as *fireball*), and Will (used to resist mental attacks and spells).
+**Saving Throw**: When a creature is the subject of a dangerous spell or effect, it often receives a saving throw to mitigate the damage or result. Saving throws are passive, meaning that a character does not need to take an action to make a saving throw—they are made automatically. There are three types of saving throws: Fortitude (used to resist poisons, diseases, and other bodily ailments), Reflex (used to avoid effects that target an entire area, such as [*fireball*](../../magic/spells/fireball.md)), and Will (used to resist mental attacks and spells).
 
 **Skill**: A skill represents a creature’s ability to perform an ordinary task, such as climb a wall, sneak down a hallway, or spot an intruder. The number of ranks possessed by a creature in a given skill represents its proficiency in that skill. As a creature gains Hit Dice, it also gains additional skill ranks that can be added to its skills.
 

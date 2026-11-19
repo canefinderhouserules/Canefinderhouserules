@@ -32,7 +32,7 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Secret Knowledge (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or *clairaudience/clairvoyance* 1/day
+1. **Secret Knowledge (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*clairaudience/clairvoyance*](../../magic/spells/clairaudience-clairvoyance.md) 1/day
 2. **Sight Beyond Time (Su)**: You constantly see a few moments down your own line of fate, and thus are never surprised or [flat-footed](../../rules/appendices/conditions.md#flat-footed). In addition, you gain a +2 insight bonus to AC and on Reflex saves.
 3. **Baleful Revelation (Sp)**: You can cast [*prediction of failure*](../../magic/spells/prediction-of-failure.md) once per day.
 
@@ -102,7 +102,7 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Secret Knowledge (Sp)**: *identify* 3/day, *augury* 2/day, or *clairaudience/clairvoyance* 1/day
+1. **Secret Knowledge (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*clairaudience/clairvoyance*](../../magic/spells/clairaudience-clairvoyance.md) 1/day
 2. **Sight Beyond Time (Su)**: You constantly see a few moments down your own line of fate, and thus are never surprised or flat-footed. In addition, you gain a +2 insight bonus to AC and on Reflex saves.
 3. **Baleful Revelation (Sp)**: You can cast [*prediction of failure*](../../magic/spells/prediction-of-failure.md) once per day.
 

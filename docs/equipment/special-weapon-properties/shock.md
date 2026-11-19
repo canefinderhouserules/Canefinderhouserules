@@ -11,4 +11,4 @@ Upon command, a *shock* weapon is sheathed in crackling electricity that deals a
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *call lightning* or *lightning bolt*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*call lightning*](../../magic/spells/call-lightning.md) or [*lightning bolt*](../../magic/spells/lightning-bolt.md); **Price** —

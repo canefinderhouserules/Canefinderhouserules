@@ -10,7 +10,7 @@ These rough leather gloves grant an enhancement bonus of +1 to +5 on attack and 
 
 Normal weapons are unaffected by *gloves of improvised might* except when used as an improvised weapon in a way specifically permitted by the weapon description, such as using an arrow or bolt as a melee weapon (or if the user has an ability that allows the use of normal weapons as improvised weapons). The wearer still takes a –4 nonproficiency penalty on attack rolls with improvised weapons, as normal, unless he has the Catch Off-Guard feat or a similar ability.
 
-*Construction* Craft Wondrous Item, *greater magic weapon*, creator’s caster level must be at least three times the gloves’ bonus, plus any requirements of the melee weapon special abilities; Cost 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5).
+*Construction* Craft Wondrous Item, [*greater magic weapon*](../magic/spells/magic-weapon-greater.md), creator’s caster level must be at least three times the gloves’ bonus, plus any requirements of the melee weapon special abilities; Cost 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5).
 
 ## Quickmetal Bracers
 
@@ -20,7 +20,7 @@ Once per day when a user wearing both these bracers speaks a command word, the m
 
 The heavy, shifting metal coating affects the balance of manufactured weapons, imposing a –2 penalty on attack rolls. Improvised weapons, however, are already unwieldy, and the metal coating doesn’t significantly affect their balance. If the wielder lets go of a weapon affected by the bracers, the liquid metal immediately turns back into a solid metal bracer—or bracers, in the case of a two-handed weapon—reappearing on the user’s wrists. The bracers cannot therefore affect thrown weapons or ranged weapon ammunition.
 
-*Construction* Craft Wondrous Item, *major creation*; Cost 2,500 gp (adamantine), 1,000 gp (cold iron), 500 gp (silver).
+*Construction* Craft Wondrous Item, [*major creation*](../magic/spells/major-creation.md); Cost 2,500 gp (adamantine), 1,000 gp (cold iron), 500 gp (silver).
 
 ## Ring of Balanced Grip
 
@@ -28,7 +28,7 @@ The heavy, shifting metal coating affects the balance of manufactured weapons, i
 
 This sturdy ring allows the user to ignore the nonproficiency penalty for using a particular type of improvised weapon, such as a crowbar or pitchfork, and grants a +1 enhancement bonus on attack rolls with that item as though it were a masterwork weapon.
 
-*Construction* Forge Ring, *masterwork transformation*; Cost 800 gp.
+*Construction* Forge Ring, [*masterwork transformation*](../magic/spells/masterwork-transformation.md); Cost 800 gp.
 
 ## Scrap Collector’s Strap
 
@@ -36,4 +36,4 @@ This sturdy ring allows the user to ignore the nonproficiency penalty for using 
 
 When this leather strap is tied around the grip of a broken weapon, the user can ignore the effects of the broken condition on that weapon. If the weapon loses its remaining hit points, it is destroyed as normal. Tying or untying the strap is a full-round action (3 AP).
 
-*Construction* Craft Wondrous Item, *mending*; Cost 250 gp.
+*Construction* Craft Wondrous Item, [*mending*](../magic/spells/mending.md); Cost 250 gp.

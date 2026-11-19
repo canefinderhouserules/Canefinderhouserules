@@ -37,7 +37,7 @@ To qualify to become an arclord of the eye, a character must fulfill all of the 
 
     **Skills**: Diplomacy 5 ranks, Knowledge (arcana) 5 ranks, Knowledge (engineering) 5 ranks, Spellcraft 5 ranks.
 
-    **Special**: You must be able to cast *arcane sight*, and have at least two spells from every school of magic scribed in your spellbook.
+    **Special**: You must be able to cast [*arcane sight*](../../magic/spells/arcane-sight.md), and have at least two spells from every school of magic scribed in your spellbook.
 
     **Special**: Arcane school class feature. You must have the ability to use hand of the apprentice or a different arcane school power that you can use a number of times per day equal to 3 + your Intelligence modifier. For arclord abilities that require you to expend a number of uses of hand of the apprentice, if you can’t use hand of the apprentice you can substitute an equivalent arcane school power you can use a number of times per day equal to 3 + your Intelligence modifier. If you do, you must expend one additional use.
 
@@ -69,7 +69,7 @@ At 2nd level, a arclord of the eye must choose a class they belonged to before a
 
 ##### Arcane Sight
 
-*Arcane sight* is a 1st-level spell for an arclord of the eye.
+[*Arcane sight*](../../magic/spells/arcane-sight.md) is a 1st-level spell for an arclord of the eye.
 
 #### Artificer’s Touch (Sp)
 
@@ -93,8 +93,8 @@ At 6th level, the duration of any spell cast by an arclord that creates an extra
 
 #### Call for Aid (Su)
 
-At 8th level, as a standard action (1 AP), an arclord can sacrifice a prepared spell of 2nd level or higher to call a creature bound to him, including an animal companion, eidolon, familiar, personally controlled construct or undead creature, creature telepathically linked to him (including by [*telepathic bond*](../../magic/spells/telepathic-bond.md), [*dominate person*](../../magic/spells/dominate-person.md), or [*dominate monster*](../../magic/spells/dominate-monster.md)), or an outsider bound with a [*planar binding*](../../magic/spells/planar-binding.md) spell. The named creature appears adjacent to the arclord, or in the nearest open space if all adjacent squares are occupied. This ability functions like *greater teleport*, except the range limit is determined by the level of the sacrificed spell: short (2nd–3rd), medium (4th–5th), long (6th–7th), unlimited (same plane) (8th), or unlimited (any plane) (9th).
+At 8th level, as a standard action (1 AP), an arclord can sacrifice a prepared spell of 2nd level or higher to call a creature bound to him, including an animal companion, eidolon, familiar, personally controlled construct or undead creature, creature telepathically linked to him (including by [*telepathic bond*](../../magic/spells/telepathic-bond.md), [*dominate person*](../../magic/spells/dominate-person.md), or [*dominate monster*](../../magic/spells/dominate-monster.md)), or an outsider bound with a [*planar binding*](../../magic/spells/planar-binding.md) spell. The named creature appears adjacent to the arclord, or in the nearest open space if all adjacent squares are occupied. This ability functions like [*greater teleport*](../../magic/spells/teleport-greater.md), except the range limit is determined by the level of the sacrificed spell: short (2nd–3rd), medium (4th–5th), long (6th–7th), unlimited (same plane) (8th), or unlimited (any plane) (9th).
 
 #### Greater Third Eye (Sp)
 
-At 10th level, an arclord can activate his Eye of the Arclord as a swift action (1 AP). In addition, he can expend four uses of his hand of the apprentice while opening his third eye to gain *greater arcane sight* or [*true seeing*](../../magic/spells/true-seeing.md) until the beginning of his next turn. He gains both effects if he expends eight uses of this ability.
+At 10th level, an arclord can activate his Eye of the Arclord as a swift action (1 AP). In addition, he can expend four uses of his hand of the apprentice while opening his third eye to gain [*greater arcane sight*](../../magic/spells/arcane-sight-greater.md) or [*true seeing*](../../magic/spells/true-seeing.md) until the beginning of his next turn. He gains both effects if he expends eight uses of this ability.

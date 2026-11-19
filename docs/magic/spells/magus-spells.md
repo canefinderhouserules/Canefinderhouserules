@@ -152,7 +152,7 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
@@ -370,7 +370,7 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
-- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As [*infernal healing*](infernal-healing.md), but fast healing 4.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Invisibility, Greater](invisibility-greater.md)**: As
 - **[Martial Telekinesis](martial-telekinesis.md)**: You mingle the power of your mind and body to exert force beyond your reach.
@@ -432,7 +432,7 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 - **[Fire Snake](fire-snake.md)**: Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Geyser](geyser.md)**: Creates a geyser of boiling water.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
 - **[Interposing Hand](interposing-hand.md)**: Hand provides cover against 1 opponent.
@@ -444,7 +444,7 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Parchment Swarm](parchment-swarm.md)**: Shredded parchment deals 1d6 points of damage per level, and has a spell effect if you shred a scroll.
-- **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
+- **[Scripted Hallucination](scripted-hallucination.md)**: As [*complex hallucination*](complex-hallucination.md), but without concentration.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
@@ -501,8 +501,8 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 - **[Sirocco](sirocco.md)**: Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone.
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
-- **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
-- **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
+- **[Treacherous Teleport](treacherous-teleport.md)**: As [*teleport*](teleport.md), except you choose some creatures to suffer a mishap or go elsewhere.
+- **[Triggered Hallucination](triggered-hallucination.md)**: As [*scripted hallucination*](scripted-hallucination.md), but it only appears when triggered.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.

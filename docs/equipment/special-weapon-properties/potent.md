@@ -11,4 +11,4 @@ As a swift action (1 AP), the wielder can expend one use of mythic power to incr
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, Mythic Crafter, *greater heroism*, *greater magic weapon*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Mythic Crafter, [*greater heroism*](../../magic/spells/heroism-greater.md), [*greater magic weapon*](../../magic/spells/magic-weapon-greater.md); **Price** —

@@ -1,6 +1,6 @@
 # Mythic Skeleton Template
 
-A mythic skeleton is an animated corpse created with mythic magic such as mythic *animate dead*. It has an unnatural cunning that belies its mindless nature and a natural instinct for killing.
+A mythic skeleton is an animated corpse created with mythic magic such as mythic [*animate dead*](../../magic/spells/animate-dead.md). It has an unnatural cunning that belies its mindless nature and a natural instinct for killing.
 
 “Mythic skeleton” is an acquired template that can be added to any creature with the [skeleton](skeleton.md) template (referred to hereafter as the base skeleton).
 
@@ -18,7 +18,7 @@ A mythic skeleton is an animated corpse created with mythic magic such as mythic
 
 Other types of skeletons have the following additional or altered abilities.
 
-- **Mythic Bloody Skeleton:** Destroying a mythic bloody skeleton in the area of a non-mythic *bless* spell doesn’t prevent it from returning to unlife.
+- **Mythic Bloody Skeleton:** Destroying a mythic bloody skeleton in the area of a non-mythic [*bless*](../../magic/spells/bless.md) spell doesn’t prevent it from returning to unlife.
 - **Mythic Burning Skeleton:** Add half the burning skeleton’s mythic rank to its fiery aura damage and melee attack fire damage. Add its mythic rank to the DC of its fiery death ability.
 
 ## Mythic Skeletal Champion

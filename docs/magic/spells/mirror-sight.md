@@ -20,4 +20,4 @@ You receive only visual information through this ability. You can choose to tran
 
 For example, a spy knows that a queen keeps a mirror in a hall near her throne room. He can look through his own handheld mirror and see into this hall, even if the queen is not there. Alternatively, he can attempt to find the queen (wherever she is) by looking into his mirror; if, at that moment, the queen is near any mirror at all, he can see her. He may instead cast the spell and try to see into her throne room, hoping that someone has brought a mirror there. If any of these conditions fails, he sees nothing but his own reflection.
 
-This spell works with intentionally fabricated mirrors only; it is not effective with other reflective surfaces, such as still pools or polished metal shields. Effects that block *scrying* block this spell.
+This spell works with intentionally fabricated mirrors only; it is not effective with other reflective surfaces, such as still pools or polished metal shields. Effects that block [*scrying*](scrying.md) block this spell.

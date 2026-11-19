@@ -11,4 +11,4 @@ Three times per day, when the wielder of a *bewildering* weapon makes a successf
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *confusion*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*confusion*](../../magic/spells/confusion.md); **Price** —

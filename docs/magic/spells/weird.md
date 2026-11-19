@@ -3,6 +3,7 @@
 **School** illusion (phantasm) [fear, mind-affecting]; **Level** psychic 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
+**Range** medium (100 ft. + 10 ft./level)  
 **Targets** any number of creatures, no two of which can be more than 30 ft. apart  
 **Duration** instantaneous  
 **Saving Throw** Will disbelief, then Fortitude partial; see text; **Spell Resistance** yes

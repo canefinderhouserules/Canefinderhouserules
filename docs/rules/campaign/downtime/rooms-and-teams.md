@@ -81,7 +81,7 @@ The stat block doesn’t list obvious benefits that aren’t related to game mec
 
 If a team doesn’t have a Time price, spending capital to recruit that team doesn’t count as a downtime action.
 
-Note that the Time prices for teams are for recruiting the team for long-term employment and don’t reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast *lesser restoration*, you don’t have to spend 7 days of downtime recruiting a Priest team—you can just make standard spellcasting arrangements as described in the *Core Rulebook*.
+Note that the Time prices for teams are for recruiting the team for long-term employment and don’t reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast [*lesser restoration*](../../../magic/spells/restoration-lesser.md), you don’t have to spend 7 days of downtime recruiting a Priest team—you can just make standard spellcasting arrangements as described in the *Core Rulebook*.
 
 **Size**: If the unit is a room, this entry indicates a range of how many 5-foot squares are needed for a standard room of its type. For example, a Kitchen is 2–6 5-foot squares. If you need a larger room of this type, construct two rooms and join them. If you need a smaller room of this size, you can make it that smaller size for free. For example, if you only need a 5-foot-square Kitchen, you can construct one at the listed price, even though the smallest size listed is 2 5-foot squares.
 

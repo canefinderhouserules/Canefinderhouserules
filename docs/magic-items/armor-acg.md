@@ -34,7 +34,7 @@ The following are new armor or shield special abilities. See the armor rules in 
 
 Armor with this special ability grants its wearer a +5 competence bonus on Escape Artist checks and to CMD against grapple combat maneuvers. Additionally, once per day on command, the wearer (along with any gear she is wearing) can take the form of viscous liquid that can pass through any space through which thick mud could reasonably flow. While using this ability, the wearer's speed is reduced by 10 feet, and she can take only move actions. The wearer can take this form for 1 minute or until she spends a move action (1 AP) to return to her normal form. Amorphous armor must be made primarily of leather, fabric, or another flexible, organic material.
 
-*Construction* Craft Magic Arms and Armor, *fluid form*; Cost 2,250 gp.
+*Construction* Craft Magic Arms and Armor, [*fluid form*](../magic/spells/fluid-form.md); Cost 2,250 gp.
 
 ### Burdenless
 
@@ -42,7 +42,7 @@ Armor with this special ability grants its wearer a +5 competence bonus on Escap
 
 Burdenless armor distributes the weight of the wearer's load more efficiently, allowing her to carry more without suffering the effects of encumbrance. The wearer's carrying capacity is increased by 50% across each load (light, medium, and heavy).
 
-*Construction* Craft Magic Arms and Armor, *effortless armor*; Cost 2,000 gp.
+*Construction* Craft Magic Arms and Armor, [*effortless armor*](../magic/spells/effortless-armor.md); Cost 2,000 gp.
 
 ### Calming
 
@@ -50,7 +50,7 @@ Burdenless armor distributes the weight of the wearer's load more efficiently, a
 
 Calming armor is dyed or stained a soothing color, usually blue. As a swift action (1 AP), the wearer can create a 5-foot aura around her that quiets the emotions of any agitated opponent threatening her. A creature that is raging or under an emotion effect must succeed at a DC 15 Will saving throw or those effects are suppressed (but not dispelled) for as long as the aura persists. The aura can be used up to 10 rounds each day, though the rounds don't need to be consecutive. Ending the aura is a swift action (1 AP).
 
-*Construction* Craft Magic Arms and Armor, *calm emotions*; Cost +1 bonus.
+*Construction* Craft Magic Arms and Armor, [*calm emotions*](../magic/spells/calm-emotions.md); Cost +1 bonus.
 
 ### Jarring
 
@@ -58,7 +58,7 @@ Calming armor is dyed or stained a soothing color, usually blue. As a swift acti
 
 A shield or set of armor with this ability causes unpleasant resonant vibrations in weapons that strike its wearer. As an immediate action (1 AP of your next turn) up to three times per day, when the wearer is hit by a melee attack made with a weapon, he can activate the armor or shield to send jarring vibrations back through the weapon. The attacker must succeed at a DC 16 Fortitude saving throw or become dazed for 1 round.
 
-*Construction* Craft Magic Arms and Armor, *shatter*; Cost +2 bonus.
+*Construction* Craft Magic Arms and Armor, [*shatter*](../magic/spells/shatter.md); Cost +2 bonus.
 
 ### Restful
 
@@ -66,7 +66,7 @@ A shield or set of armor with this ability causes unpleasant resonant vibrations
 
 A suit of *restful* armor permits the wearer to reduce the amount of uninterrupted sleep or rest she needs from 8 hours to 2 hours, and the wearer does not become fatigued by sleeping in this armor. She recovers hit points and ability damage and endures diseases, poisons, or other afflictions as if she had slept through the night in a comfortable bed, awakening refreshed. Additional rest time in this armor does not confer extra healing (as would be gained with complete bed rest), nor can the wearer benefit from the armor's effect more than once per day.
 
-*Construction* Craft Magic Arms and Armor, *nap stack*; Cost 2,250 gp.
+*Construction* Craft Magic Arms and Armor, [*nap stack*](../magic/spells/nap-stack.md); Cost 2,250 gp.
 
 ### Sensing
 
@@ -74,7 +74,7 @@ A suit of *restful* armor permits the wearer to reduce the amount of uninterrupt
 
 A set of *sensing* armor compensates when its wearer has been blinded, is in total darkness (as long as the wearer doesn't have darkvision or the see in darkness ability), or is in magical darkness (as long as the wearer doesn't have the see in darkness ability). When one of these conditions affects the wearer, *sensing* armor immediately grants its wearer blindsight with a 5-foot range and blindsense with a 60-foot range. As soon as the wearer can see, the additional senses end. The wearer can't gain these abilities by closing her eyes.
 
-*Construction* Craft Magic Arms and Armor, *true seeing*; Cost +3 bonus.
+*Construction* Craft Magic Arms and Armor, [*true seeing*](../magic/spells/true-seeing.md); Cost +3 bonus.
 
 ### Spell Dodging
 
@@ -82,7 +82,7 @@ A set of *sensing* armor compensates when its wearer has been blinded, is in tot
 
 A suit of *spell dodging* armor makes it more difficult for attacks from spells and spell-like abilities to hit its wearer, often physically pulling and pushing its wearer out of the way of incoming magical attacks. The wearer gains a +4 dodge bonus to AC against attack rolls from spells and spell-like abilities (including touch attacks) and the attacks of summoned creatures.
 
-*Construction* Craft Magic Arms and Armor, *mage armor*; Cost +2 bonus.
+*Construction* Craft Magic Arms and Armor, [*mage armor*](../magic/spells/mage-armor.md); Cost +2 bonus.
 
 ### Spiteful
 
@@ -90,7 +90,7 @@ A suit of *spell dodging* armor makes it more difficult for attacks from spells 
 
 This armor's ability functions only if its wearer has the panache class feature. When a melee attack made by an enemy within the wearer's melee reach would reduce the wearer to fewer than 0 hit points, the wearer can spend 1 panache point as an immediate action (1 AP of your next turn). This allows her to make a single melee attack against the creature that reduced her to 0 hit points or fewer. This occurs prior to the wearer falling unconscious or dead.
 
-*Construction* Craft Magic Arms and Armor, *haste*; Cost 3,500 gp.
+*Construction* Craft Magic Arms and Armor, [*haste*](../magic/spells/haste.md); Cost 3,500 gp.
 
 ### Trackless
 
@@ -98,7 +98,7 @@ This armor's ability functions only if its wearer has the panache class feature.
 
 *Trackless* armor lightens the wearer's step and camouflages his appearance. Survival checks to track the wearer take a –5 penalty, and the wearer gains a +5 competence bonus on Stealth checks. Only leather armor or hide armor can be *trackless*.
 
-*Construction* Craft Magic Arms and Armor, *pass without trace*; Cost 3,750 gp.
+*Construction* Craft Magic Arms and Armor, [*pass without trace*](../magic/spells/pass-without-trace.md); Cost 3,750 gp.
 
 ### Vouchsafing
 
@@ -106,7 +106,7 @@ This armor's ability functions only if its wearer has the panache class feature.
 
 *Vouchsafing* armor grants its wearer DR 5/— while she is unconscious, nauseated, stunned, or pinned. This DR stacks with any other DR the wearer already has. If the wearer is somehow able to take standard actions while unconscious, nauseated, or stunned, or is able to make attacks while pinned, the armor does not grant its DR.
 
-*Construction* Craft Magic Arms and Armor, *stoneskin*; Cost +1 bonus.
+*Construction* Craft Magic Arms and Armor, [*stoneskin*](../magic/spells/stoneskin.md); Cost +1 bonus.
 
 ## Specific Armors and Shields
 
@@ -137,7 +137,7 @@ This shield is made of bone and ivory, but has been imbued with magic to functio
 
 Additionally, the claws can animate to perform the somatic components of a spell as long as the arm holding the shield would be able to provide these components if it weren't carrying a shield. As a result, the shield has no arcane spell failure chance.
 
-*Construction* Craft Magic Arms and Armor, *summon nature's ally I*; Cost 4,158 gp.
+*Construction* Craft Magic Arms and Armor, [*summon nature's ally I*](../magic/spells/summon-natures-ally-i.md); Cost 4,158 gp.
 
 ### Full Plate of the Corpse
 
@@ -145,7 +145,7 @@ Additionally, the claws can animate to perform the somatic components of a spell
 
 This suit of *+2 full plate* has been etched and stained in such a way that it resembles the form and shape of a decomposed body that is encased in a suit of armor. The wearer is effectively hidden from non-intelligent undead, which can't see, hear, or smell him; even extraordinary or supernatural senses can't penetrate the magical shroud. An intelligent undead creature can attempt a single Will saving throw (DC 14) to penetrate the ward. All affected undead behave as if the wearer simply isn't there.
 
-*Construction* Craft Magic Arms and Armor, *hide from undead*; Cost 18,650 gp.
+*Construction* Craft Magic Arms and Armor, [*hide from undead*](../magic/spells/hide-from-undead.md); Cost 18,650 gp.
 
 ### Hero's Hauberk
 
@@ -155,7 +155,7 @@ The damage reduction of this dull gray *+1 adamantine chain shirt* stacks with a
 
 While the wearer maintains a bardic performance, the armor's links jangle in harmony with his song or movements, aiding his focus. The wearer receives a +1 luck bonus on all ability checks and skill checks he attempts during such a performance. In addition, any penalties applied to his attack rolls, ability checks, skill checks, and saving throws are reduced by 1. If a die roll has multiple penalties, the total of the penalties is reduced by 1, not each individual penalty.
 
-*Construction* Craft Magic Arms and Armor, *limited wish* or *miracle*, creator must have the raging song class feature; Cost 11,850 gp.
+*Construction* Craft Magic Arms and Armor, [*limited wish*](../magic/spells/limited-wish.md) or [*miracle*](../magic/spells/miracle.md), creator must have the raging song class feature; Cost 11,850 gp.
 
 ### Stalking Armor
 
@@ -163,7 +163,7 @@ While the wearer maintains a bardic performance, the armor's links jangle in har
 
 This *+2 studded leather armor* comes in a number of varieties, each corresponding to a specific type of terrain from the ranger's favored terrain list. The armor takes on visual characteristics related to that type of terrain (cold *stalking armor* might be gray and white with a white fur trim, jungle *stalking armor* could be lush green with vine patterns, and so on) and makes the wearer blend in more naturally with his surroundings. The *stalking armor* grants the wearer a +5 competence bonus on Stealth and Perception checks attempted while in that specific terrain.
 
-*Construction* Craft Magic Arms and Armor, *chameleon stride*, *perceive cues*; Cost 4,375 gp.
+*Construction* Craft Magic Arms and Armor, [*chameleon stride*](../magic/spells/chameleon-stride.md), [*perceive cues*](../magic/spells/perceive-cues.md); Cost 4,375 gp.
 
 ### Tireless Tracking Hide
 
@@ -171,4 +171,4 @@ This *+2 studded leather armor* comes in a number of varieties, each correspondi
 
 This *+1 hide armor* is always made from the pelt of a migratory herd animal. Anyone wearing this armor can maintain a hustle for a full 8 hours without growing fatigued, doubling her normal daily overland movement rate. After that, the wearer begins to take nonlethal damage each hour, per the hustle rules (Core Rulebook). This armor does not increase tactical movement during combat. The benefits of this armor aren't replenished until the character has had a full night's rest.
 
-*Construction* Craft Magic Arms and Armor, *bear's endurance*; Cost 5,665 gp.
+*Construction* Craft Magic Arms and Armor, [*bear's endurance*](../magic/spells/bears-endurance.md); Cost 5,665 gp.

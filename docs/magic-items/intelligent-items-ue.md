@@ -13,7 +13,7 @@ The following specific intelligent items are new relative to the other books in 
 
 This suit of *+4 greater shadow greater slick leather armor* fits as snugly as a tight suit of silk against its wearer’s skin and harbors an amoral and bloodthirsty intelligence. Via the telepathy it shares with its wielder, the armor gives constant advice on how to be stealthy, reach out of the way spots, and get the drop on foes. It also grants an extra +1d6 points of sneak attack damage, but the wearer must already have the sneak attack class feature to gain this bonus. Furthermore the armor has a maximum Dexterity bonus of +10 and no arcane spell failure.
 
-**Construction** Craft Magic Arms and Armor, *grease*, *invisibility*, *silence*, creator must have the sneak attack class feature; **Cost** 58,660 gp
+**Construction** Craft Magic Arms and Armor, [*grease*](../magic/spells/grease.md), [*invisibility*](../magic/spells/invisibility.md), [*silence*](../magic/spells/silence.md), creator must have the sneak attack class feature; **Cost** 58,660 gp
 
 ### Chomper
 
@@ -59,7 +59,7 @@ This special *+3 bane warhammer* seeks only to crush the enemy of its wielder in
 
 This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons. The rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a *chime of opening*. Very intelligent and witty, these rods communicate with their wielders in truespeech (see archon subtype) or Celestial. Furthermore, the rod has the following powers.
 
-- Three times per day, on command, the rod’s wielder can use *dimension door*, as the spell.
+- Three times per day, on command, the rod’s wielder can use [*dimension door*](../magic/spells/dimension-door.md), as the spell.
 - Once per day, on command, the rod can emit a blast of energy that deals 2d6 points of force damage to creatures adjacent to the wielder. A successful DC 12 Reflex save halves the damage. The wielder can choose to omit any target from this blast that it desires, damaging only the foes it chooses. The rod’s purpose is to destroy or foil the plans of chaotic evil creatures.
 
 **Construction** Craft Rod, *dimension door, knock, explosive runes*, creator must be lawful good; **Cost** 22,100 gp
@@ -73,9 +73,9 @@ This copper rod is made up of constantly grinding gearlike parts. It is believed
 **Intelligence** 20, **Wisdom** 16, **Charisma** 12; **Ego** 20  
 **Language** telepathy (Common and 10 other languages)
 
-A *headband of vast intellect +6* also holds a consciousness that shares its knowledge and education with a suitable wearer. This intellect can be of any alignment and its only purpose is to share its vast knowledge with its wearer. The headband also functions as a *helm of comprehend languages and read magic*. Furthermore, instead of granting the normal skill ranks of a *headband of vast intellect +6*, this headband grants 4 ranks in six skills, but all of those skills must be Knowledge skills. It grants such intelligence by a stream of constant whispers and arguments that the headband communicates telepathically in Common or in one of 10 other languages it knows. Once per week on command, the wearer can also convince the headband to use *legend lore* as the spell, though the casting time is only a standard action (1 AP).
+A *headband of vast intellect +6* also holds a consciousness that shares its knowledge and education with a suitable wearer. This intellect can be of any alignment and its only purpose is to share its vast knowledge with its wearer. The headband also functions as a *helm of comprehend languages and read magic*. Furthermore, instead of granting the normal skill ranks of a *headband of vast intellect +6*, this headband grants 4 ranks in six skills, but all of those skills must be Knowledge skills. It grants such intelligence by a stream of constant whispers and arguments that the headband communicates telepathically in Common or in one of 10 other languages it knows. Once per week on command, the wearer can also convince the headband to use [*legend lore*](../magic/spells/legend-lore.md) as the spell, though the casting time is only a standard action (1 AP).
 
-**Construction** Craft Wondrous Item, *comprehend languages*, *fox’s cunning*, *legend and lore*, *read magic*; **Cost** 35,650 gp
+**Construction** Craft Wondrous Item, [*comprehend languages*](../magic/spells/comprehend-languages.md), [*fox’s cunning*](../magic/spells/foxs-cunning.md), *legend and lore*, [*read magic*](../magic/spells/read-magic.md); **Cost** 35,650 gp
 
 ### Helmet of the Golden General
 
@@ -90,10 +90,10 @@ This golden gem-studded helmet acts like a *crown of conquest* and grants its wi
 
 Furthermore this helmet can speak through a central ruby that sits over the nose guard of the helmet. It knows Common and four other languages. These helmets are always confident—even arrogant—and give a running commentary of the battle, praising heroism, chiding tactical missteps, and giving its wearer and its allies martial advice. It has the following other powers.
 
-- Three times per day, it can affect its wearer or an ally within 30 feet as the *true strike* spell.
+- Three times per day, it can affect its wearer or an ally within 30 feet as the [*true strike*](../magic/spells/true-strike.md) spell.
 - Three times per day, it can attempt to demoralize all enemies within 30 feet as a free action, as if using the Intimidate skill. The helmet’s Intimidate is bonus +17.
 
-**Construction** Craft Wondrous Item, the item’s performance and teamwork feat, *bless*, *eagle’s splendor*, *prayer*, *scare*, *true strike*; **Cost** 31,000 gp
+**Construction** Craft Wondrous Item, the item’s performance and teamwork feat, [*bless*](../magic/spells/bless.md), [*eagle’s splendor*](../magic/spells/eagles-splendor.md), [*prayer*](../magic/spells/prayer.md), [*scare*](../magic/spells/scare.md), [*true strike*](../magic/spells/true-strike.md); **Cost** 31,000 gp
 
 ### Lightning Bow
 
@@ -110,10 +110,10 @@ This intelligent item is called a *lightning bow* by mortals, a name is seen as 
 
 *arrow (*the wielder’s choice with each shot).
 
-- Three times per day, the wielder can cast *true strike* as a swift action (1 AP). The *true strike* can only be used with attacks made with the *lightning bow*.
-- Three times per day, the wielder can use *lightning bolt* as a spell-like ability.
+- Three times per day, the wielder can cast [*true strike*](../magic/spells/true-strike.md) as a swift action (1 AP). The *true strike* can only be used with attacks made with the *lightning bow*.
+- Three times per day, the wielder can use [*lightning bolt*](../magic/spells/lightning-bolt.md) as a spell-like ability.
 
-**Construction** Craft Magic Arms and Armor, *call lightning*, the willing service of one Huge lighting elemental for at least 100 years; **Cost** 27,300 gp
+**Construction** Craft Magic Arms and Armor, [*call lightning*](../magic/spells/call-lightning.md), the willing service of one Huge lighting elemental for at least 100 years; **Cost** 27,300 gp
 
 ### Lute of Discord
 
@@ -126,11 +126,11 @@ This intelligent item is called a *lightning bow* by mortals, a name is seen as 
 
 This lute is a masterwork instrument constructed of polished ebony, with mother of pearl embellishments and gold frets. It grants any creature playing it a +2 competence bonus on Perform (string instruments) checks as it gently telepathically whispers ways the creature can improve is current performance. It also grants those who can play the lute the following abilities.
 
-- Three times per day on command, a creature with at least the lute of discord to employ the *murderous command* spell.
-- Three times per day on command, a creature with at least the *lute of discord* to use the *distracting cacophony* spell (3rd level).
-- Once per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord to use the *echolocation* spell (4th level caster)
+- Three times per day on command, a creature with at least the lute of discord to employ the [*murderous command*](../magic/spells/murderous-command.md) spell.
+- Three times per day on command, a creature with at least the *lute of discord* to use the [*distracting cacophony*](../magic/spells/distracting-cacophony.md) spell (3rd level).
+- Once per day on command, a creature with at least 6 ranks in Perform (string instruments) can play a chord to use the [*echolocation*](../magic/spells/echolocation.md) spell (4th level caster)
 
-**Construction** Craft Wondrous Item, *distracting cacophony*, *echolocation*, *murderous command*; **Cost** 18,950 gp
+**Construction** Craft Wondrous Item, [*distracting cacophony*](../magic/spells/distracting-cacophony.md), [*echolocation*](../magic/spells/echolocation.md), [*murderous command*](../magic/spells/murderous-command.md); **Cost** 18,950 gp
 
 ### Metamagician’s Apprentice
 
@@ -149,7 +149,7 @@ The rod can be used as a *+1 light mace*. On command, it transforms into a *+1/+
 
 A *metamagician’s apprentice* knows four metamagic feats (limited to feats that use a spell slot one or two levels higher than the spell’s actual level, such as Silent Spell and Empower Spell) and acts as a *greater metamagic rod* for those feats. The rod can only apply one metamagic feat to a spell at a time, though (like a *metamagic rod*) the wielder can use his own feats and the rod’s on the same spell.
 
-The rod can use *read magic* and *detect magic* at will. The *metamagician’s apprentice* is never overwhelmed by powerful magic auras. These abilities do not trigger effects that require reading to activate (such as the *explosive runes* spell). The rod grants the wielder a +2 competence bonus on three Knowledge skills; these skills are determined when the rod is created (and require the apprentice to have ranks in that skill) and can never be changed. Knowledge (arcana) is almost always one of these three skills.
+The rod can use [*read magic*](../magic/spells/read-magic.md) and [*detect magic*](../magic/spells/detect-magic.md) at will. The *metamagician’s apprentice* is never overwhelmed by powerful magic auras. These abilities do not trigger effects that require reading to activate (such as the [*explosive runes*](../magic/spells/explosive-runes.md) spell). The rod grants the wielder a +2 competence bonus on three Knowledge skills; these skills are determined when the rod is created (and require the apprentice to have ranks in that skill) and can never be changed. Knowledge (arcana) is almost always one of these three skills.
 
 A typical rod of this type is lawful neutral, though rods with other alignments exist.
 
@@ -178,7 +178,7 @@ When an *obsession ring* is engaged in action directly related to its obsession,
 
 These rings are typically quite emphatic on their desire to fulfill their obsessions, and frequently communicate with their wielder to encourage pursuit of this goal.
 
-**Construction** Forge Ring, *shield of faith*, creator must be 15th level (or 9th level if the creator is a gnome); **Cost** 58,250 gp
+**Construction** Forge Ring, [*shield of faith*](../magic/spells/shield-of-faith.md), creator must be 15th level (or 9th level if the creator is a gnome); **Cost** 58,250 gp
 
 ### Rod That Should Not Be
 
@@ -195,7 +195,7 @@ On command, the tentacle attacks an adjacent creature as a melee touch attack (a
 
 The greater version of this rod has four tentacles, which attack the same target simultaneously on command (attack bonus +12). The tentacles collectively deal 4d8 points of acid damage and the target must succeed at a DC 18 Will saving throw or be paralyzed 1 for 1 round. This paralysis is a mind-affecting fear effect. The greater rods have a dedicated purpose: serve a bloodthirsty master.
 
-**Requirements** Craft Rod, *summon monster III* (lesser), *summon monster V* (greater); **Cost** 6,000 gp (lesser), 20,000 gp (greater)
+**Requirements** Craft Rod, [*summon monster III*](../magic/spells/summon-monster-iii.md) (lesser), [*summon monster V*](../magic/spells/summon-monster-v.md) (greater); **Cost** 6,000 gp (lesser), 20,000 gp (greater)
 
 ### Shield of the Mage
 
@@ -206,7 +206,7 @@ The greater version of this rod has four tentacles, which attack the same target
 **Intelligence** 16, **Wisdom** 10, **Charisma** 10; **Ego** 6  
 **Language** telepathy (Common and six other languages)
 
-This *caster’s shield* always has one arcane scroll and knows the same arcane spells as the wielder. When the spell on the scroll is cast, another scroll of a spell the wielder knows randomly manifests to replace it. The shield has no arcane spell failure. The shield can also *read magic*. It will often debate with its wielder for the most devastating course of action, but does what the wielder commands.
+This *caster’s shield* always has one arcane scroll and knows the same arcane spells as the wielder. When the spell on the scroll is cast, another scroll of a spell the wielder knows randomly manifests to replace it. The shield has no arcane spell failure. The shield can also [*read magic*](../magic/spells/read-magic.md). It will often debate with its wielder for the most devastating course of action, but does what the wielder commands.
 
 **Construction** Craft Magic Arms and Armor, Scribe Scroll, creator must be an arcane spellcaster of at least 14th level; **Cost** 7,250 gp
 
@@ -222,7 +222,7 @@ This *caster’s shield* always has one arcane scroll and knows the same arcane 
 This *+2 keen dancing longsword* is infused with the soul of a bard who chose to instill his consciousness into a weapon rather than to see his voice die. The sword constantly sings. The only way to silence it to a whisper is with a DC 15 Diplomacy or Intimidate check, and even this only quiets the sword for 10 minutes plus another 10 minutes for every 5 points by which the DC is exceeded. The sword speaks, though it typically communicates through song. A *singing sword* has the following powers.
 
 - Eight times per day, a *singing sword* can use bardic performance, but can only use the countersong, distraction, fascinate, inspire courage, or inspire competence abilities. The sword is treated as an 8th-level bard for the purposes of these abilities.
-- Three times per day, the *singing sword* can use the *heroic finale* spell (*Advance Player’s Guide*).
+- Three times per day, the *singing sword* can use the [*heroic finale*](../magic/spells/heroic-finale.md) spell (*Advance Player’s Guide*).
 
 **Construction** Craft Arms and Armor, *keen edge, animate object*, the soul of a willing bard of at least 8th level; **Cost** 500 gp
 

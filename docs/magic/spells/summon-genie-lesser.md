@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *summon monster I*, except you can summon one janni.
+This spell functions like [*summon monster I*](summon-monster-i.md), except you can summon one janni.

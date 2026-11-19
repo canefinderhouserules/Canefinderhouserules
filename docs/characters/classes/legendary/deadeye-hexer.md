@@ -117,7 +117,7 @@ As a standard action (1 AP), the deadeye hexer can make an attack with a firearm
 
 #### Speak with Dead (Su)
 
-Touching his firearm familiar to the corpse of a creature killed by a shot fired from that gun, the deadeye hexer may temporarily summon the spirit back to the body to converse for a short period. This acts as a *speak with dead* spell, using the deadeye hexer’s class level as the caster level. This hex can only be used on a particular corpse once in 24 hours.
+Touching his firearm familiar to the corpse of a creature killed by a shot fired from that gun, the deadeye hexer may temporarily summon the spirit back to the body to converse for a short period. This acts as a [*speak with dead*](../../../magic/spells/speak-with-dead.md) spell, using the deadeye hexer’s class level as the caster level. This hex can only be used on a particular corpse once in 24 hours.
 
 #### Warning Shot (Su)
 
@@ -198,7 +198,7 @@ When the deadeye hexer strikes a target with this bullet hex, the attack deals d
 
 #### Stone Dead (Su)
 
-When the deadeye hexer strikes a creature with this bullet hex, the attack deals damage as normal, and the target must succeed at a Fortitude save or be [petrified 1](../../../rules/appendices/conditions.md#petrified) as if affected by *lesh to stone*. If the target is returned to its original state, however, it must make another Fort save at the same DC or die. The second save is a death effect. Creatures killed in this manner can be returned to life with *raise dead*, *resurrection*, or similar effects. A *miracle* or *wish* can restore the creature to its original state and negate the death effect. Creatures immune to petrification are unaffected by this bullet hex. Whether or not the save is successful, a creature cannot be the target of this bullet hex again for 1 day.
+When the deadeye hexer strikes a creature with this bullet hex, the attack deals damage as normal, and the target must succeed at a Fortitude save or be [petrified 1](../../../rules/appendices/conditions.md#petrified) as if affected by *lesh to stone*. If the target is returned to its original state, however, it must make another Fort save at the same DC or die. The second save is a death effect. Creatures killed in this manner can be returned to life with [*raise dead*](../../../magic/spells/raise-dead.md), [*resurrection*](../../../magic/spells/resurrection.md), or similar effects. A [*miracle*](../../../magic/spells/miracle.md) or [*wish*](../../../magic/spells/wish.md) can restore the creature to its original state and negate the death effect. Creatures immune to petrification are unaffected by this bullet hex. Whether or not the save is successful, a creature cannot be the target of this bullet hex again for 1 day.
 
 ## Favored Class Options
 

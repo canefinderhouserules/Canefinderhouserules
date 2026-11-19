@@ -7,8 +7,8 @@
 
 ## Description
 
-A *mythic bane* weapon works exactly like a *bane* weapon, except it has a higher bonus and deals extra damage against any creature with the mythic subtype. This ability stacks with the *bane* weapon special ability.
+A *mythic bane* weapon works exactly like a [*bane*](../../magic/spells/bane.md) weapon, except it has a higher bonus and deals extra damage against any creature with the mythic subtype. This ability stacks with the *bane* weapon special ability.
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, Mythic Crafter, *divine favor*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Mythic Crafter, [*divine favor*](../../magic/spells/divine-favor.md); **Price** —

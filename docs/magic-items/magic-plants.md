@@ -68,7 +68,7 @@ An altitude fern produces up to six berries a day, and it bears no more than 50 
 **Aura** strong enchantment; **CL** 12th  
 **Price** 25,000 gp; **Slot** none; **Weight** 50 lbs.
 
-A creature who consumes an ambrosial lotus must succeed at a DC 17 Will save or be overtaken by such a state of total bliss so as to be almost oblivious to the world around him. The creature's Intelligence and Charisma scores drop to 1, and the creature can no longer cast spells, understand language, or communicate. These effects are permanent unless removed with a *heal*, *limited wish*, *miracle*, or *wish* spell.
+A creature who consumes an ambrosial lotus must succeed at a DC 17 Will save or be overtaken by such a state of total bliss so as to be almost oblivious to the world around him. The creature's Intelligence and Charisma scores drop to 1, and the creature can no longer cast spells, understand language, or communicate. These effects are permanent unless removed with a [*heal*](../magic/spells/heal.md), [*limited wish*](../magic/spells/limited-wish.md), [*miracle*](../magic/spells/miracle.md), or [*wish*](../magic/spells/wish.md) spell.
 
 An ambrosial lotus stalk grows one flower per day during its 13-week growing period in spring.
 
@@ -79,7 +79,7 @@ An ambrosial lotus stalk grows one flower per day during its 13-week growing per
 **Aura** moderate conjuration; **CL** 9th  
 **Price** 7,200 gp; **Slot** none; **Weight** 50 lbs.
 
-The needles of this bitter, black herb are used to alleviate the effects of radiation poisoning. A creature that drinks tea made from the needles of cleanthistle is affected by a *neutralize poison* effect (CL 9th) except that the effect can neutralize only the oldest poison affecting the creature.
+The needles of this bitter, black herb are used to alleviate the effects of radiation poisoning. A creature that drinks tea made from the needles of cleanthistle is affected by a [*neutralize poison*](../magic/spells/neutralize-poison.md) effect (CL 9th) except that the effect can neutralize only the oldest poison affecting the creature.
 
 A cleanthistle stalk has a single 26-week growing period, through spring and summer. During this period, enough needles for a single dose of tea regrow 4 days after being harvested. The needles remain potent enough to brew for 1 week after being harvested.
 
@@ -145,7 +145,7 @@ Grabbing vines have a 13-week growing season, though the season depends on when 
 **Aura** faint necromancy; **CL** 3rd  
 **Price** 16,000 gp; **Slot** none; **Weight** 50 lbs.
 
-When packed tightly within the mouth of a corpse or undead creature, the deep red petals of the gravebane flower prevent any decay, as if the corpse were under the effects of *gentle repose*, and they completely mask any stench with a sickly sweet fragrance. These effects persist for 1 month.
+When packed tightly within the mouth of a corpse or undead creature, the deep red petals of the gravebane flower prevent any decay, as if the corpse were under the effects of [*gentle repose*](../magic/spells/gentle-repose.md), and they completely mask any stench with a sickly sweet fragrance. These effects persist for 1 month.
 
 A single bush grows one new flower each day, and it takes 1 month to accumulate enough gravebane petals to preserve a single corpse. The plant has a 52-week growing period.
 

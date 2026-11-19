@@ -7,9 +7,9 @@ The following wondrous items occupy the hands slot. Items listed here are new re
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** hands; **Price** 2,200 gp; **Weight** —
 
-These nondescript white gloves are a boon to minor spellcasters and fakes who are limited or lacking in magical ability or versatility. The wearer of these gloves can employ *mage hand* and *prestidigitation* at will.
+These nondescript white gloves are a boon to minor spellcasters and fakes who are limited or lacking in magical ability or versatility. The wearer of these gloves can employ [*mage hand*](../../magic/spells/mage-hand.md) and [*prestidigitation*](../../magic/spells/prestidigitation.md) at will.
 
-**Construction** Craft Wondrous Item, *mage hand*, *prestidigitation*; **Cost** 1,100 gp
+**Construction** Craft Wondrous Item, [*mage hand*](../../magic/spells/mage-hand.md), [*prestidigitation*](../../magic/spells/prestidigitation.md); **Cost** 1,100 gp
 
 ### Assisting Gloves
 
@@ -18,7 +18,7 @@ These nondescript white gloves are a boon to minor spellcasters and fakes who ar
 
 The wearer of these simple gloves can speak a command word create a glowing disembodied hand. As a swift action (1 AP), the wearer can have the hand assist him with a task as if using the aid another action. The hand uses the wearer’s base attack bonus or skill ranks when making the check to see if aid another is successful (it does not gain the benefit of the wearer’s ability scores or other bonuses). The hand remains until it has attempted one action or until 1 minute passes, whichever comes first, at which time the gloves become nonmagical.
 
-**Construction** Craft Wondrous Item, *mage hand*, *unseen servant*; **Cost** 90 gp
+**Construction** Craft Wondrous Item, [*mage hand*](../../magic/spells/mage-hand.md), [*unseen servant*](../../magic/spells/unseen-servant.md); **Cost** 90 gp
 
 ### Challenger’s Gloves
 
@@ -27,16 +27,16 @@ The wearer of these simple gloves can speak a command word create a glowing dise
 
 These supple, velvet gloves are the sort that might be thrown down in challenge for a duel or other single combat. By removing a glove and using it to make a melee or ranged touch attack against an opponent, the wearer of the other glove gains a +1 morale bonus on attack rolls against the target, and the target gains a –1 penalty on attack rolls against the wearer. Both of these effects last for 1 minute, but immediately end if anyone but the glove’s wearer attacks the challenged opponent. Both gloves must be worn by the same creature.
 
-**Construction** Craft Wondrous Item, *bane*, *bless*; **Cost** 1,100 gp
+**Construction** Craft Wondrous Item, [*bane*](../../magic/spells/bane.md), [*bless*](../../magic/spells/bless.md); **Cost** 1,100 gp
 
 ### Claws of the Ice Bear
 
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** hands; **Price** 1,300 gp; **Weight** 1 lb.
 
-Strapped to the hands, these spiked climbing claws grant a +2 competence bonus on Climb checks and Acrobatics checks made when using both hands to aid in movement, and allow the wearer to ignore the normal penalties on those skills for slippery or icy surfaces. In addition, up to 3 times per day, the wearer can activate the claws as a swift action (1 AP) to gain the benefits of *spider climb* for 1 round. The wearer cannot hold anything else in her hands while using claws of the ice bear. If used as a weapon, *claws of the ice bear* function as spiked gauntlets.
+Strapped to the hands, these spiked climbing claws grant a +2 competence bonus on Climb checks and Acrobatics checks made when using both hands to aid in movement, and allow the wearer to ignore the normal penalties on those skills for slippery or icy surfaces. In addition, up to 3 times per day, the wearer can activate the claws as a swift action (1 AP) to gain the benefits of [*spider climb*](../../magic/spells/spider-climb.md) for 1 round. The wearer cannot hold anything else in her hands while using claws of the ice bear. If used as a weapon, *claws of the ice bear* function as spiked gauntlets.
 
-**Construction** Craft Wondrous Item, *spider climb*; **Cost** 750 gp
+**Construction** Craft Wondrous Item, [*spider climb*](../../magic/spells/spider-climb.md); **Cost** 750 gp
 
 ### Deliquescent Gloves
 
@@ -65,16 +65,16 @@ These durable canvas and leather gloves imbue the wearer with an instinctive kno
 
 These leather gauntlets grant the wearer a +2 morale bonus on unarmed strikes, natural attacks, and combat maneuver checks versus creatures with the change shape special ability or similar abilities that allow it to change shape at will. While the wearer has such a creature grappled or pinned, it cannot use any shape-changing spells or abilities unless it succeeds at a concentration check; the DC of this check is 4 + the DC of casting the spell while grappled. If the wearer has such a creature pinned, a successful grapple check allows him to force the target into a specific shape it can take naturally (without the use of a spell). this involuntary transformation only forces the creature into a shape it is normally capable of and does not cost the creature an action.
 
-**Construction** Craft Wondrous Item, *polymorph any object*; **Cost** 4,000 gp
+**Construction** Craft Wondrous Item, [*polymorph any object*](../../magic/spells/polymorph-any-object.md); **Cost** 4,000 gp
 
 ### Gauntlet of Rust, Greater
 
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** hands; **Price** 34,500 gp; **Weight** 1 lb.
 
-This item is identical to a *gauntlet of rust*, except the wearer can use *rusting grasp* 3 times per day.
+This item is identical to a *gauntlet of rust*, except the wearer can use [*rusting grasp*](../../magic/spells/rusting-grasp.md) 3 times per day.
 
-**Construction** Craft Wondrous Item, *rusting grasp*; **Cost** 17,250 gp
+**Construction** Craft Wondrous Item, [*rusting grasp*](../../magic/spells/rusting-grasp.md); **Cost** 17,250 gp
 
 ### Gauntlets of the Skilled Maneuver
 
@@ -92,7 +92,7 @@ The wearer of these gauntlets gains a +2 bonus on one type of combat maneuver ch
 
 These gauntlets come in a variety of forms. Some are mostly leather with small steel plates, and are suited for fine swordplay. Others are fully articulated plate favored by knights in full plate. On command, the wearer of the gauntlet can store a single weapon he is holding in the gauntlets. When he does so, a graven image of the weapon appears on the gauntlet’s plates. The wearer can store up to 10 weapons in the gauntlets in this manner. Retrieving a weapon requires the wearer to touch the image of the weapon he wants. Doing so is a swift action (1 AP). When a weapon is retrieved, it appears in the hands of the wearer and any weapons the wearer had in his hands is stored in the gauntlets. If there is no room in the gauntlet for the weapons the wearer is holding, those weapons are dropped. The gauntlets can only store weapons; other items cannot be placed in the gauntlet. Furthermore, three times per day on command, the gloves affect the wearer as the *greater heroism spell*.
 
-**Construction** Craft Wondrous Item, *heroism*, *rope trick*; **Cost** 55,000 gp
+**Construction** Craft Wondrous Item, [*heroism*](../../magic/spells/heroism.md), [*rope trick*](../../magic/spells/rope-trick.md); **Cost** 55,000 gp
 
 ### Ghostvision Gloves
 
@@ -105,7 +105,7 @@ These gloves are made of pale gray silk; each is adorned with an embroidered sil
 - If the wearer has the channel positive energy class ability, she may expend one use of channeled positive energy to make a ranged touch attack against one undead creature within channel range. If the ranged touch attack hits, she rolls channel energy damage against that target (affecting no other creatures), except she rolls d12s instead of d6s.
 - While the gloves are active, constructs and living opponents treat the wearer as blind.
 
-**Construction** Craft Wondrous Item, *detect undead*, *searing light*, channel positive energy class ability; **Cost** 2,000 gp
+**Construction** Craft Wondrous Item, [*detect undead*](../../magic/spells/detect-undead.md), [*searing light*](../../magic/spells/searing-light.md), channel positive energy class ability; **Cost** 2,000 gp
 
 ### Giant Fist Gauntlets
 
@@ -114,7 +114,7 @@ These gloves are made of pale gray silk; each is adorned with an embroidered sil
 
 As a swift action (1 AP), the wearer of these rough leather gauntlets can expand her hands to twice normal size and harden to the consistency of hardwood. This transformation lasts for up to 20 rounds per day, though they need not be consecutive rounds. If the wearer hits with an unarmed strike or natural attack using her enlarged hands, she may attempt to bull rush her opponent as a free action.
 
-**Construction** Craft Wondrous Item, *enlarge person*; **Cost** 10,000 gp
+**Construction** Craft Wondrous Item, [*enlarge person*](../../magic/spells/enlarge-person.md); **Cost** 10,000 gp
 
 ### Gloves of Arcane Striking
 
@@ -127,7 +127,7 @@ These soft leather gloves are decorated with even rows of mithral rivets. Only a
 - When the wearer makes an attack using Arcane Strike and hits, enemies adjacent to the target take damage equal to the wearer’s Arcane Strike damage bonus. This damage is of the same type as the weapon’s damage (bludgeoning, piercing, and so on).
 - When the wearer uses the aid another action to improve an ally’s Armor Class, the ally also adds the wearer’s Arcane Strike damage bonus to his AC against the opponent.
 
-**Construction** Craft Wondrous Item, Arcane Strike, *magic weapon*; **Cost** 2,500 gp
+**Construction** Craft Wondrous Item, Arcane Strike, [*magic weapon*](../../magic/spells/magic-weapon.md); **Cost** 2,500 gp
 
 ### Gloves of Larceny
 
@@ -145,7 +145,7 @@ These supple beige calfskin gloves greatly enhance a thief’s talents. The wear
 
 Each of these fingerless worked leather gloves look as though they have seen heavy use, and often bear the stains or scent of grass or wet mud. On command, the wearer can use the gloves to see and hear though solid material no more than 15 feet thick by placing both hands on that material. The gloves can be used for 10 rounds each day. The rounds need not be consecutive.
 
-**Construction** Craft Wondrous Item, *clairaudience/clairvoyance*; **Cost** 1,000 gp
+**Construction** Craft Wondrous Item, [*clairaudience/clairvoyance*](../../magic/spells/clairaudience-clairvoyance.md); **Cost** 1,000 gp
 
 ### Gloves of Shaping
 
@@ -158,7 +158,7 @@ Materials with more than 8 points of hardness are still affected, though not so 
 
 The gloves only affect shaping materials with the wearer’s hands or handheld tools, and only when the wearer desires to do so.
 
-**Construction** Craft Wondrous Item, *soften earth and stone*, *stone shape, transmute rock to mud*; **Cost** 5,000 gp
+**Construction** Craft Wondrous Item, [*soften earth and stone*](../../magic/spells/soften-earth-and-stone.md), *stone shape, transmute rock to mud*; **Cost** 5,000 gp
 
 ### Gloves of the Commanding Conjurer
 
@@ -167,7 +167,7 @@ The gloves only affect shaping materials with the wearer’s hands or handheld t
 
 These gloves grant the wearer greater control over his summoned creatures. As long as he wears the gloves, creatures conjured by the wearer can understand him as if they shared a common language. This communication is not two-way and does not grant the wearer the ability to understand the creature.
 
-Three times per day, the wearer can attempt to take control of a summoned creature within 50 feet as if using *control summoned creature* (Will DC 16).
+Three times per day, the wearer can attempt to take control of a summoned creature within 50 feet as if using [*control summoned creature*](../../magic/spells/control-summoned-creature.md) (Will DC 16).
 
 **Construction** Craft Wondrous Item, *comprehend languages, control summoned creature*; **Cost** 15,000 gp
 
@@ -180,18 +180,18 @@ Once per day on command, the wearer of these oxblood leather gloves can bend spa
 
 When using the gloves to touch, attack, or manipulate anything in the square, the wearer’s arms and hands also appear in that square, allowing creatures and effects to target her as if she were in that square. She cannot use this connection to transfer anything from her square to the target square, or vice versa. If she drops anything, it lands in her square. She can use her hands (including natural attacks from those hands, if any), hand-held objects (such as lockpicks), and melee weapons in that square as if she were there. The square is part of her threatened area, though she cannot use the gloves to provide flanking for herself. She cannot use the gloves to grapple, make ranged attacks, or make attacks that require her to move out of her actual square (such as a bull rush combat maneuver).
 
-Interacting with the target square is distracting, and anything that threatens her in her actual square automatically flanks her. If the wearer or her square is blocked from using teleportation or planar travel effects (such as *dimensional anchor*), the gloves do not function. She cannot use the gloves to target a square protected by such an effect.
+Interacting with the target square is distracting, and anything that threatens her in her actual square automatically flanks her. If the wearer or her square is blocked from using teleportation or planar travel effects (such as [*dimensional anchor*](../../magic/spells/dimensional-anchor.md)), the gloves do not function. She cannot use the gloves to target a square protected by such an effect.
 
-**Construction** Craft Wondrous Item, *teleport*; **Cost** 8,000 gp
+**Construction** Craft Wondrous Item, [*teleport*](../../magic/spells/teleport.md); **Cost** 8,000 gp
 
 ### Glyphbane Gloves
 
 **Aura** moderate abjuration; **CL** 7th  
 **Slot** hands; **Price** 9,000 gp; **Weight** —
 
-These dark-brown, leather gloves are etched over their entire surface with arcane insignia. The wearer gains a +5 competence bonus on Disable Device checks made to disable magical traps. Once per day, if the wearer’s check to disarm a glyph, rune, or similar writing-based magical trap exceeds the DC by 10 or more, she may change the trigger condition of the trap instead of disabling it. The new trigger condition must be one allowed by the magical trap; for example, a *glyph of warding* cannot be set according to class, HD, or level, even when manipulated by the gloves.
+These dark-brown, leather gloves are etched over their entire surface with arcane insignia. The wearer gains a +5 competence bonus on Disable Device checks made to disable magical traps. Once per day, if the wearer’s check to disarm a glyph, rune, or similar writing-based magical trap exceeds the DC by 10 or more, she may change the trigger condition of the trap instead of disabling it. The new trigger condition must be one allowed by the magical trap; for example, a [*glyph of warding*](../../magic/spells/glyph-of-warding.md) cannot be set according to class, HD, or level, even when manipulated by the gloves.
 
-**Construction** Craft Wondrous Item, *detect traps*, *dispel magic*; **Cost** 4,500 gp
+**Construction** Craft Wondrous Item, *detect traps*, [*dispel magic*](../../magic/spells/dispel-magic.md); **Cost** 4,500 gp
 
 ### Healer’s Gloves
 
@@ -213,7 +213,7 @@ If the snake is within hearing range of the master and commanded to revert to ga
 
 If slain in cobra form, the snake reverts to gauntlet form and cannot be used again for 24 hours. If destroyed in gauntlet form, the item is destroyed. The wearer can refill the iron cobra’s poison reservoir in snake form or gauntlet form.
 
-**Construction** Craft Wondrous Item, *animate objects*, *discern location*, *geas/quest*; **Cost** 4,000 gp
+**Construction** Craft Wondrous Item, [*animate objects*](../../magic/spells/animate-objects.md), [*discern location*](../../magic/spells/discern-location.md), [*geas/quest*](../../magic/spells/geas-quest.md); **Cost** 4,000 gp
 
 ### Magnetist’s Gloves
 
@@ -222,7 +222,7 @@ If slain in cobra form, the snake reverts to gauntlet form and cannot be used ag
 
 These thin leather gloves have delicate steel wires running through them. Three times per day as a standard action (1 AP), the wearer of these gloves may attempt a disarm combat maneuver on a target within 30 feet. The target’s item must be mostly made of metal. If the combat maneuver check is successful, the target is disarmed and the item falls to the ground in the target’s square. For every 5 by which the check exceeds the DC, the item lands 1 square closer to the wearer. If this would place the item in the wearer’s square, the wearer may attempt to catch the item with a DC 10 Dexterity check; otherwise it lands in the wearer’s square. The wearer can only use this ability if she has at least one hand free. If the wearer fails the combat maneuver check, she is not disarmed.
 
-**Construction** Craft Wondrous Item, *telekinesis*; **Cost** 3,000 gp
+**Construction** Craft Wondrous Item, [*telekinesis*](../../magic/spells/telekinesis.md); **Cost** 3,000 gp
 
 ### Pliant Gloves
 
@@ -240,7 +240,7 @@ Wearing these form-fitting fingerless black gloves makes the wearer’s arms and
 
 These black, rubbery gloves have sharpened digits. Fine channels lead to the tip of each finger, which are often stained with foul chemicals. The gloves are used primarily by assassins to deliver poisons while in combat. Each glove may be filled with a single dose of poison, a potion, alchemist infusion, holy water, or similar liquid as long as the liquid would not harm the gloves (for example, alchemist’s fire and acid cannot be used). The wearer can deliver the dose to a target as a melee touch attack or as part of an unarmed strike or natural attack with the hands (such as a claw or slam attack). The wearer can use both gloves in the same round using two-weapon fighting or multiple natural attacks (such as 2 slams or 2 claws). Each glove can be used once per day. Filling a glove is a full-round action (3 AP) that provokes attacks of opportunity.
 
-**Construction** Craft Wondrous Item, *touch injection*; **Cost** 2,500 gp
+**Construction** Craft Wondrous Item, [*touch injection*](../../magic/spells/touch-injection.md); **Cost** 2,500 gp
 
 ### Shadow Falconer’s Glove
 
@@ -249,14 +249,14 @@ These black, rubbery gloves have sharpened digits. Fine channels lead to the tip
 
 This elbow-length, heavy leather glove’s fine embroidery is marred by dozens of claw marks. Once per day on command, its wearer can gesture toward a creature within 30 feet. When he does, a featureless silhouette of a bird of prey appears, swoops toward the target, and performs a disarm or steal combat maneuver (wearer’s choice, CMB +16). The shadow falcon is a magical effect, not a creature, and this action does not provoke attacks of opportunity. If the hand wearing the glove is empty, the shadow falcon brings the item to the wearer’s hand. If the gloved hand is occupied, the shadow falcon deposits the item on the ground in an unoccupied space adjacent to the wearer. The shadow falcon then disappears.
 
-**Construction** Craft Wondrous Item, *shadow conjuration*; **Cost** 4,000 gp
+**Construction** Craft Wondrous Item, [*shadow conjuration*](../../magic/spells/shadow-conjuration.md); **Cost** 4,000 gp
 
 ### Spellstrike Gloves
 
 **Aura** strong (no school); **CL** 17th  
 **Slot** hands; **Price** 8,000 gp; **Weight** —
 
-These black leather gloves are lined with soft black velveteen and have silver buckles that run from the wrist to the elbow. Three times per day, the gloves allow the wearer to treat a ranged magus spell as a spell with a range of “touch,” allowing him to deliver the spell with his spellstrike ability. The glove can only affect spells that normally affect one or more creatures at a range greater than “touch” (such as *slow*), not rays or other created effects. The altered spell only affects the creature attacked (any other targets normally allowed by the spell are lost).
+These black leather gloves are lined with soft black velveteen and have silver buckles that run from the wrist to the elbow. Three times per day, the gloves allow the wearer to treat a ranged magus spell as a spell with a range of “touch,” allowing him to deliver the spell with his spellstrike ability. The glove can only affect spells that normally affect one or more creatures at a range greater than “touch” (such as [*slow*](../../magic/spells/slow.md)), not rays or other created effects. The altered spell only affects the creature attacked (any other targets normally allowed by the spell are lost).
 
 **Construction** Craft Wondrous Item, creator must be a magus; **Cost** 4,000 gp
 
@@ -265,11 +265,11 @@ These black leather gloves are lined with soft black velveteen and have silver b
 **Aura** strong transmutation; **CL** 15th  
 **Slot** hands; **Price** 67,000 gp; **Weight** 1 lb.
 
-Finely laid gold filigree lines these ornately worked talons. Once donned, the *talons of Leng* grant the wearer a natural claw attack with each hand that deal 1d4 points of damage for a Medium wearer, or 1d3 points of damage for a Small wearer. These claw attacks have a +3 enhancement bonus on attack and damage rolls. On a critical hit, the target must succeed at a DC 20 Will save or become permanently confused as per the *insanity* spell. This is a mind-affecting effect.
+Finely laid gold filigree lines these ornately worked talons. Once donned, the *talons of Leng* grant the wearer a natural claw attack with each hand that deal 1d4 points of damage for a Medium wearer, or 1d3 points of damage for a Small wearer. These claw attacks have a +3 enhancement bonus on attack and damage rolls. On a critical hit, the target must succeed at a DC 20 Will save or become permanently confused as per the [*insanity*](../../magic/spells/insanity.md) spell. This is a mind-affecting effect.
 
 The wearer of the *talons of Leng* is immune to effects that grant the confused condition. For as long as she wears the talons, however, her Wisdom is reduced by 2, as alien voices constantly whisper through her head. The *talons of Leng* do not interfere with spellcasting, the use of handheld items, or wielding weapons.
 
-**Construction** Craft Magic Arms and Armor, *greater magic fang*, *insanity*; **Cost** 33,500 gp
+**Construction** Craft Magic Arms and Armor, [*greater magic fang*](../../magic/spells/magic-fang-greater.md), [*insanity*](../../magic/spells/insanity.md); **Cost** 33,500 gp
 
 ### Trapspringer’s Gloves
 
@@ -278,18 +278,18 @@ The wearer of the *talons of Leng* is immune to effects that grant the confused 
 
 These studded leather gloves look similar to workman’s gloves, though they are reinforced with numerous metal strips that the user can extend or retract as she wills, turning the tip of each finger into a customizable tool useful in examining and disarming traps. While worn, these gloves grant a +5 competence bonus on all Disable Device checks made to disarm traps. In addition, the gloves grant the user a +1 luck bonus on all saving throws made against traps.
 
-**Construction** Craft Wondrous Item, *find traps*; **Cost** 2,000 gp
+**Construction** Craft Wondrous Item, [*find traps*](../../magic/spells/find-traps.md); **Cost** 2,000 gp
 
 ### Vampiric Gloves
 
 **Aura** moderate necromancy; **CL** 5th  
 **Slot** hands; **Price** 18,000 gp; **Weight** —
 
-These pale, elegant-looking leather gloves have blood-red stitching on the fingers—which bears a startling resemblance to blood-encrusted fingernails. Three times per day, the wearer can use *vampiric touch* and *bleed*. If the wearer uses *vampiric touch* and holds the charge, the charge dissipates if the gloves are removed.
+These pale, elegant-looking leather gloves have blood-red stitching on the fingers—which bears a startling resemblance to blood-encrusted fingernails. Three times per day, the wearer can use [*vampiric touch*](../../magic/spells/vampiric-touch.md) and [*bleed*](../../magic/spells/bleed.md). If the wearer uses *vampiric touch* and holds the charge, the charge dissipates if the gloves are removed.
 
-Though *vampiric touch* is normally a touch attack, the wearer may instead use that ability as a ranged touch attack with a range of 30 feet, but only against a dying target or a target suffering from a bleed effect. When using *vampiric touch* in this way, the wearer may hold the charge on a missed ranged touch attack.
+Though [*vampiric touch*](../../magic/spells/vampiric-touch.md) is normally a touch attack, the wearer may instead use that ability as a ranged touch attack with a range of 30 feet, but only against a dying target or a target suffering from a bleed effect. When using *vampiric touch* in this way, the wearer may hold the charge on a missed ranged touch attack.
 
-If the wearer is suffering from a bleed effect, he may expend one use of *vampiric touch* to end the bleed effect.
+If the wearer is suffering from a bleed effect, he may expend one use of [*vampiric touch*](../../magic/spells/vampiric-touch.md) to end the bleed effect.
 
-**Construction** Craft Wondrous Item, *bleed*, *vampiric touch*; **Cost** 9,000 gp
+**Construction** Craft Wondrous Item, [*bleed*](../../magic/spells/bleed.md), [*vampiric touch*](../../magic/spells/vampiric-touch.md); **Cost** 9,000 gp
 

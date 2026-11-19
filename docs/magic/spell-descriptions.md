@@ -10,7 +10,7 @@ The first line of every spell description gives the name by which the spell is g
 
 Beneath the spell name is a line giving the school of magic (and the subschool, if any) to which the spell belongs.
 
-Almost every spell belongs to one of eight schools of magic. A school of magic is a group of related spells that work in similar ways. A small number of spells (*arcane* *mark, limited wish, permanency, prestidigitation,* and *wish*) are universal, belonging to no school.
+Almost every spell belongs to one of eight schools of magic. A school of magic is a group of related spells that work in similar ways. A small number of spells (*arcane* *mark, limited wish, permanency, prestidigitation,* and [*wish*](spells/wish.md)) are universal, belonging to no school.
 
 ### Abjuration
 
@@ -140,7 +140,7 @@ A language-dependent spell uses intelligible language as a medium for communicat
 
 A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
 
-A ruse spell is easily mistaken for another spell and is intended to confuse even onlookers trained in [Spellcraft](../rules/skills/spellcraft.md) or [Knowledge](../rules/skills/knowledge.md) (arcana). Attempts to identify a ruse spell by its effects, its aura, its components, or other attributes with a skill check treat the spell as though it were a different spell, as indicated in the spell’s description. The one attempting the check can correctly identify the spell only by exceeding the DC by 10. The false spell is typically a level lower than the ruse spell, so skill checks use the DC for the lower-level spell. Even *detect magic* and most similar spells don’t prevent the caster from being fooled by a ruse spell. *Analyze dweomer*, *greater arcane sight*, and similar spells of the same or higher spell level that automatically identify spells reveal a ruse spell for what it is. Ruse spells that mimic harmless spells still list harmless on their saving throw or spell resistance lines; a creature that knows or suspects the true nature of the spell typically chooses to attempt the save.
+A ruse spell is easily mistaken for another spell and is intended to confuse even onlookers trained in [Spellcraft](../rules/skills/spellcraft.md) or [Knowledge](../rules/skills/knowledge.md) (arcana). Attempts to identify a ruse spell by its effects, its aura, its components, or other attributes with a skill check treat the spell as though it were a different spell, as indicated in the spell’s description. The one attempting the check can correctly identify the spell only by exceeding the DC by 10. The false spell is typically a level lower than the ruse spell, so skill checks use the DC for the lower-level spell. Even [*detect magic*](spells/detect-magic.md) and most similar spells don’t prevent the caster from being fooled by a ruse spell. [*Analyze dweomer*](spells/analyze-dweomer.md), [*greater arcane sight*](spells/arcane-sight-greater.md), and similar spells of the same or higher spell level that automatically identify spells reveal a ruse spell for what it is. Ruse spells that mimic harmless spells still list harmless on their saving throw or spell resistance lines; a creature that knows or suspects the true nature of the spell typically chooses to attempt the save.
 
 ## Level
 
@@ -150,7 +150,7 @@ The next line of a spell description gives the spell’s level, a number between
 
 A spell’s components explain what you must do or possess to cast the spell. The components entry in a spell description includes abbreviations that tell you what type of components it requires. Specifics for material and focus components are given at the end of the descriptive text. Usually you don’t need to worry about components, but when you can’t use a component for some reason or when a material or focus component is expensive, then the components are important.
 
-**Verbal (V)**: A verbal component is a spoken incantation. To provide a verbal component, you must be able to speak in a strong voice. A *silence* spell or a gag spoils the incantation (and thus the spell). A spellcaster who has been deafened has a 20% chance of spoiling any spell with a verbal component that he tries to cast.
+**Verbal (V)**: A verbal component is a spoken incantation. To provide a verbal component, you must be able to speak in a strong voice. A [*silence*](spells/silence.md) spell or a gag spoils the incantation (and thus the spell). A spellcaster who has been deafened has a 20% chance of spoiling any spell with a verbal component that he tries to cast.
 
 **Somatic (S)**: A somatic component is a measured and precise movement of the hand. You must have at least one hand free to provide a somatic component.
 
@@ -285,7 +285,7 @@ A spell’s duration entry tells you how long the magical energy of the spell la
 
 **Instantaneous**: The spell energy comes and goes the instant the spell is cast, though the consequences might be long-lasting.
 
-**Permanent**: The energy remains as long as the effect does. This means the spell is vulnerable to *dispel magic*.
+**Permanent**: The energy remains as long as the effect does. This means the spell is vulnerable to [*dispel magic*](spells/dispel-magic.md).
 
 **Concentration**: The spell lasts as long as you concentrate on it. Concentrating to maintain a spell is a standard action (1 AP) that does not provoke attacks of opportunity. Anything that could break your concentration when casting a spell can also break your concentration while you’re maintaining one, causing the spell to end. See concentration in the text.
 

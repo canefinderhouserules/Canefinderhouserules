@@ -33,33 +33,33 @@ Poppets have no minds of their own, and so carry out orders explicitly as they a
 Poppets are among the simplest of constructs. The creator must start with quality pieces of wood and wicker worth 10 gp.
 
 **Poppet, Tiny**: CL 1st; Price 310 gp  
-*Requirements* Craft Construct or [Craft Poppet](../../rules/feats/craft-poppet.md), *make whole*, *mending*; *Skill* [Craft](../../rules/skills/craft.md) (carpentry) DC 15; *Cost* 160 gp
+*Requirements* Craft Construct or [Craft Poppet](../../rules/feats/craft-poppet.md), [*make whole*](../../magic/spells/make-whole.md), [*mending*](../../magic/spells/mending.md); *Skill* [Craft](../../rules/skills/craft.md) (carpentry) DC 15; *Cost* 160 gp
 
 ## Poppet Augmentations
 
 Poppets can be enhanced with a variety of abilities or built in a slightly larger size. The following abilities can be added to a poppet at the time of creation or added later to a poppet under the crafter’s control. Each augmentation is listed with the additional price to a buyer, as well as the additional requirements that a crafter must meet to produce the augmentation (in addition to the Craft Construct or Craft Poppet feat), followed by the additional cost to the crafter. Unless otherwise stated, a poppet can gain each augmentation only once.
 
-**Agile Poppet** (price +200 gp): The poppet’s joints are carefully articulated to provide it a more flexible range of motion. The poppet gains Acrobatic, Athletic, or Stealthy as a bonus feat. A poppet can gain this augmentation up to three times, providing the poppet with a different feat each time. *Requirements*: *minor creation*; *Cost* +100 gp.
+**Agile Poppet** (price +200 gp): The poppet’s joints are carefully articulated to provide it a more flexible range of motion. The poppet gains Acrobatic, Athletic, or Stealthy as a bonus feat. A poppet can gain this augmentation up to three times, providing the poppet with a different feat each time. *Requirements*: [*minor creation*](../../magic/spells/minor-creation.md); *Cost* +100 gp.
 
-**Armored Poppet** (price +300 gp): An armored poppet has thick wooden plates around its torso. The poppet gains a +2 armor bonus to AC. *Requirements*: *mage armor*; *Cost* +150 gp.
+**Armored Poppet** (price +300 gp): An armored poppet has thick wooden plates around its torso. The poppet gains a +2 armor bonus to AC. *Requirements*: [*mage armor*](../../magic/spells/mage-armor.md); *Cost* +150 gp.
 
-**Durable Poppet** (price +500 gp): A durable poppet can sustain more blows before breaking apart. It gains 10 additional hit points. *Requirements*: *false life*; *Cost* +250 gp.
+**Durable Poppet** (price +500 gp): A durable poppet can sustain more blows before breaking apart. It gains 10 additional hit points. *Requirements*: [*false life*](../../magic/spells/false-life.md); *Cost* +250 gp.
 
-**Fleet Poppet** (price +250 gp): The poppet has longer legs, allowing it to move more quickly. The poppet’s base land speed increases from 20 feet to 30 feet. *Requirements*: *expeditious retreat* or *longstrider*; *Cost* +125 gp.
+**Fleet Poppet** (price +250 gp): The poppet has longer legs, allowing it to move more quickly. The poppet’s base land speed increases from 20 feet to 30 feet. *Requirements*: [*expeditious retreat*](../../magic/spells/expeditious-retreat.md) or [*longstrider*](../../magic/spells/longstrider.md); *Cost* +125 gp.
 
-**Heavy Lifter** (price +250 gp): The poppet has a series of harnesses, plates and sturdy leather straps that allow it to distribute weight more evenly. The poppet’s carrying capacity triples. *Requirements*: *ant haul*; *Cost* +125 gp.
+**Heavy Lifter** (price +250 gp): The poppet has a series of harnesses, plates and sturdy leather straps that allow it to distribute weight more evenly. The poppet’s carrying capacity triples. *Requirements*: [*ant haul*](../../magic/spells/ant-haul.md); *Cost* +125 gp.
 
-**Mighty Poppet** (price +400 gp): The poppet’s Strength score increases by 4. *Requirements*: *bull’s strength*; *Cost* +200 gp.
+**Mighty Poppet** (price +400 gp): The poppet’s Strength score increases by 4. *Requirements*: [*bull’s strength*](../../magic/spells/bulls-strength.md); *Cost* +200 gp.
 
-**Nimble Poppet** (price +400 gp): The poppet’s Dexterity score increases by 4. *Requirements*: *cat’s grace*; *Cost* +200 gp.
+**Nimble Poppet** (price +400 gp): The poppet’s Dexterity score increases by 4. *Requirements*: [*cat’s grace*](../../magic/spells/cats-grace.md); *Cost* +200 gp.
 
-**Scaling Poppet** (price +400 gp): The poppet’s construction integrates climbing tools, allowing it to move across steep surfaces with ease. It gains a climb speed of 20 feet. A poppet must have the Athletic feat before gaining this augmentation. *Requirements*: *minor creation*, *spider climb*; *Cost* +200 gp.
+**Scaling Poppet** (price +400 gp): The poppet’s construction integrates climbing tools, allowing it to move across steep surfaces with ease. It gains a climb speed of 20 feet. A poppet must have the Athletic feat before gaining this augmentation. *Requirements*: [*minor creation*](../../magic/spells/minor-creation.md), [*spider climb*](../../magic/spells/spider-climb.md); *Cost* +200 gp.
 
-**Sealed Poppet** (price +200 gp): A layer of protective sealants protects the poppet from flames. The poppet loses its vulnerability to fire. *Requirements*: *resist energy*; *Cost* +100 gp.
+**Sealed Poppet** (price +200 gp): A layer of protective sealants protects the poppet from flames. The poppet loses its vulnerability to fire. *Requirements*: [*resist energy*](../../magic/spells/resist-energy.md); *Cost* +100 gp.
 
-**Soaring Poppet** (price +800 gp): The poppet gains a rudimentary pair of wings, granting it the ability to fly at a speed of 20 feet with poor maneuverability. A poppet can gain this augmentation a second time to increase its fly speed to 30 feet and gain Hover as a bonus feat. A poppet must have the Acrobatic feat before gaining this augmentation. *Requirements*: *fly*, *minor creation*; *Cost* +400 gp.
+**Soaring Poppet** (price +800 gp): The poppet gains a rudimentary pair of wings, granting it the ability to fly at a speed of 20 feet with poor maneuverability. A poppet can gain this augmentation a second time to increase its fly speed to 30 feet and gain Hover as a bonus feat. A poppet must have the Acrobatic feat before gaining this augmentation. *Requirements*: [*fly*](../../magic/spells/fly.md), [*minor creation*](../../magic/spells/minor-creation.md); *Cost* +400 gp.
 
-**Swimming Poppet** (price +400 gp): The poppet bears fins, flippers, or other accessories to assist with swimming. It gains a swim speed of 20 feet. A poppet must have the Athletic feat before gaining this augmentation. *Requirements*: *minor creation*, *water breathing*; *Cost* +200 gp.
+**Swimming Poppet** (price +400 gp): The poppet bears fins, flippers, or other accessories to assist with swimming. It gains a swim speed of 20 feet. A poppet must have the Athletic feat before gaining this augmentation. *Requirements*: [*minor creation*](../../magic/spells/minor-creation.md), [*water breathing*](../../magic/spells/water-breathing.md); *Cost* +200 gp.
 
 ## Small Poppets
 
@@ -83,7 +83,7 @@ N Small construct
 Small poppets are the size of a human toddler, standing about 2 feet tall and weighing approximately 30 pounds. They require quality pieces of wood or wicker worth 100 gp.
 
 **Poppet, Small**: CL 3rd; Price 900 gp  
-*Requirements* Craft Construct or Craft Poppet, *make whole*, *mending*; *Skill* Craft (carpentry) DC 18; *Cost* 500 gp
+*Requirements* Craft Construct or Craft Poppet, [*make whole*](../../magic/spells/make-whole.md), [*mending*](../../magic/spells/mending.md); *Skill* Craft (carpentry) DC 18; *Cost* 500 gp
 
 ## Feats
 

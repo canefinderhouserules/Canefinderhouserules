@@ -7,7 +7,7 @@
 **Target** one creature, plus one additional creature for every 3 caster levels  
 **Duration** 1 day/level or until fulfilled
 
-This spell functions as *harrowing*, except it can affect an entire group of creatures and allows its subjects some measure of control over their destiny. Subjects of a* greater harrowing *spell record and spend their accumulated bonuses and penalties individually, according to their own alignment.
+This spell functions as [*harrowing*](harrowing.md), except it can affect an entire group of creatures and allows its subjects some measure of control over their destiny. Subjects of a* greater harrowing *spell record and spend their accumulated bonuses and penalties individually, according to their own alignment.
 
 Each participant in a *greater harrowing* can gain a special ability to seize control of fate if a card that matches that participant’s alignment is drawn. Like the bonuses and penalties granted by the spell, the special ability can be used once before the end of the spell’s duration. The exact ability gained depends on the card’s suit; if multiple cards that match a participant’s alignment are drawn, the participant can select one suit of her choice during the spell’s casting.
 
@@ -23,4 +23,4 @@ Each participant in a *greater harrowing* can gain a special ability to seize co
 
 *Crowns*: As a standard action, you can grant yourself a +4 enhancement bonus to Charisma for 1 minute. While this bonus persists, whenever you succeed at a [Diplomacy](../../rules/skills/diplomacy.md) or [Intimidate](../../rules/skills/intimidate.md) check to improve a nonhostile creature’s attitude toward you, that creature’s attitude toward you becomes helpful for the remaining duration of the Charisma bonus, regardless of the number of steps by which you would normally improve its attitude. The creature reverts to its original attitude after the duration expires.
 
-A single creature can be under the effects of only one *harrowing* or* greater harrowing *at a time. If the subject is targeted with a second* harrowing *or* greater harrowing *spell while a previous* harrowing *or* greater harrowing *is still affecting him, the new spell automatically fails for that subject.
+A single creature can be under the effects of only one [*harrowing*](harrowing.md) or* greater harrowing *at a time. If the subject is targeted with a second* harrowing *or* greater harrowing *spell while a previous* harrowing *or* greater harrowing *is still affecting him, the new spell automatically fails for that subject.

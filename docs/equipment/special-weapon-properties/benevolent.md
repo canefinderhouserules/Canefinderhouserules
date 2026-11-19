@@ -11,4 +11,4 @@ This ability can only be placed on a melee weapon. When the wielder of a benevol
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *aid*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*aid*](../../magic/spells/aid.md); **Price** —

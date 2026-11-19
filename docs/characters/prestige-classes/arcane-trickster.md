@@ -43,7 +43,7 @@ To qualify to become an arcane trickster, a character must fulfill all of the fo
 
     **Skills**: Disable Device 4 ranks, Escape Artist 4 ranks, Knowledge (arcana) 4 ranks.
 
-    **Spells**: Ability to cast *mage hand* and at least one arcane spell of 2nd level or higher.
+    **Spells**: Ability to cast [*mage hand*](../../magic/spells/mage-hand.md) and at least one arcane spell of 2nd level or higher.
 
     **Special**: Sneak attack +2d6.
 

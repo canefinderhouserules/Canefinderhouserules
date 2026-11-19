@@ -5,6 +5,7 @@
 **Components** V, S, M (a hard biscuit)  
 **Range** personal  
 **Target** you  
-**Duration** 1 hour/level (D)
+**Duration** 1 hour/level (D)  
+**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 You harden your body against the stresses of long travel. You halve the damage caused by hustling and forced marching. In addition, for the duration of the spell you ignore any fatigue caused by such travel. Once the spell ends, if you still have any nonlethal damage caused by the hustling or forced march, you become [fatigued](../../rules/appendices/conditions.md#fatigued), or [exhausted](../../rules/appendices/conditions.md#exhausted) if already fatigued.

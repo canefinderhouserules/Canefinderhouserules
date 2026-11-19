@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *mighty cleaving* we
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *divine power*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*divine power*](../../magic/spells/divine-power.md); **Price** —

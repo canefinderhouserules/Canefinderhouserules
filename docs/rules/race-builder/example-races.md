@@ -145,7 +145,7 @@ Races built from monsters with the race builder. Each is only an approximation o
 | Racial Trait | Category | Cost |
 |---|---|---|
 | Natural armor | Defense Racial Traits | 2 RP |
-| Spell-like ability, lesser (*entangle*, *feather step*) | Magical Racial Traits | 2 RP |
+| Spell-like ability, lesser ([*entangle*](../../magic/spells/entangle.md), [*feather step*](../../magic/spells/feather-step.md)) | Magical Racial Traits | 2 RP |
 | Flight (40 ft. poor) | Movement Racial Traits | 6 RP |
 | Low-light vision | Senses Racial Traits | — RP |
 

@@ -12,4 +12,4 @@ The nationality affected must be determined at the *patriotic* weapon's creation
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *summon monster I*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*summon monster I*](../../magic/spells/summon-monster-i.md); **Price** —

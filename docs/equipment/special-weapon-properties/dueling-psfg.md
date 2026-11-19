@@ -11,4 +11,4 @@ A *dueling weapon* bears magical enhancements that makes it particularly effecti
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *cat’s grace*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*cat’s grace*](../../magic/spells/cats-grace.md); **Price** —

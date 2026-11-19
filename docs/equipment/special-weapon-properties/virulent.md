@@ -11,4 +11,4 @@ A *virulent* weapon magically intensifies any poison it delivers. The saving thr
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *pernicious poison*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*pernicious poison*](../../magic/spells/pernicious-poison.md); **Price** —

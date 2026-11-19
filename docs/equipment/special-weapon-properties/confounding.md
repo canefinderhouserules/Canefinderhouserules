@@ -11,4 +11,4 @@ When the wielder confirms a critical hit with a *confounding* weapon, she can sp
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *eagle's splendor*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*eagle's splendor*](../../magic/spells/eagles-splendor.md); **Price** —

@@ -83,9 +83,9 @@ When a monitor demigod grants a spell-like ability, the proctor's level for the 
 
 #### Summon Monitor (Sp)
 
-At 4th level, a proctor can cast *summon monster VI* once per day to conjure monitors based on her monitor expression. An executor can summon one Axiomite, 1d3 mercanes, or 1d4+1 novenaruts. A foster can summon one vanth, 1d3 morbais, or 1d4+1 catrinas. A harmonizer can summon one theletos, 1d3 othaoses, or 1d4+1 comozant wyrds. An impulsive can summon one naunet, 1d3 azuretzis, or 1d4+1 ourdivars.
+At 4th level, a proctor can cast [*summon monster VI*](../../magic/spells/summon-monster-vi.md) once per day to conjure monitors based on her monitor expression. An executor can summon one Axiomite, 1d3 mercanes, or 1d4+1 novenaruts. A foster can summon one vanth, 1d3 morbais, or 1d4+1 catrinas. A harmonizer can summon one theletos, 1d3 othaoses, or 1d4+1 comozant wyrds. An impulsive can summon one naunet, 1d3 azuretzis, or 1d4+1 ourdivars.
 
-At 8th level, the proctor also gains the ability to cast *summon monster VIII* once per day to conjure additional monitors of the same type as her monitor expression. An executor can summon one kolyarut, 1d3 zelekhuts, or 1d4+1 axiomites. A foster can summon one algea, 1d3 shokis, or 1d4+1 vanths. A harmonizer can summon one akhana, 1d3 jyoti, or 1d4+1 theletoses. An impulsive can summon one ibshaunet, 1d3 illureshis, or 1d4+1 naunets. At the GM's discretion, specific monitor demigods may allow proctors who worship them to summon other neutral outsiders of equal power with this ability.
+At 8th level, the proctor also gains the ability to cast [*summon monster VIII*](../../magic/spells/summon-monster-viii.md) once per day to conjure additional monitors of the same type as her monitor expression. An executor can summon one kolyarut, 1d3 zelekhuts, or 1d4+1 axiomites. A foster can summon one algea, 1d3 shokis, or 1d4+1 vanths. A harmonizer can summon one akhana, 1d3 jyoti, or 1d4+1 theletoses. An impulsive can summon one ibshaunet, 1d3 illureshis, or 1d4+1 naunets. At the GM's discretion, specific monitor demigods may allow proctors who worship them to summon other neutral outsiders of equal power with this ability.
 
 #### Solemn Voice (Su)
 

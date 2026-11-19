@@ -158,7 +158,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Eagle Eye](eagle-eye.md)**: Creates a magical sensor high above you.
@@ -211,7 +211,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
-- **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
+- **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or [*slow*](slow.md) effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
@@ -309,7 +309,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Life Current](life-current.md)**: You infuse the current with positive energy.
-- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain [*rage*](rage.md) the next time you fight a chosen enemy.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
 - **[Mind Maze](mind-maze.md)**: This spell causes the target to act as though it’s wandering through a maze.
@@ -385,7 +385,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
 - **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
-- **[Contingent Venom](contingent-venom.md)**: As *languid venom*, but with a triggering condition.
+- **[Contingent Venom](contingent-venom.md)**: As [*languid venom*](languid-venom.md), but with a triggering condition.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
 - **[Curse of Burning Sleep](curse-of-burning-sleep.md)**: Creature catches fire the next time it sleeps for an hour.
@@ -408,7 +408,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
@@ -428,7 +428,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
-- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Poisonous Balm](poisonous-balm.md)**: As [*cure serious wounds*](cure-serious-wounds.md), but leave behind a latent venom.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
@@ -461,7 +461,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Thirsting Entanglement](thirsting-entanglement.md)**: As entangle, but the plants drain Constitution.
 - **[Thorn Body](thorn-body.md)**: Your attackers take 1d6 +1 damage/level.
 - **[Tongues](tongues.md)**: Speak and understand any language.
-- **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
+- **[Torpid Reanimation](torpid-reanimation.md)**: [*Animate dead*](animate-dead.md) when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Remove the face and eyes of a creature, magically melding them with your own.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
@@ -492,7 +492,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
-- **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
+- **[Charm Person, Mass](charm-person-mass.md)**: As [*charm person*](charm-person.md), but affects multiple creatures within 30 ft.
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Commune](commune.md)**: Deity answers one yes-or-no question/level.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
@@ -533,7 +533,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Summon Kami](summon-kami.md)**: As summon nature's ally V, but summons kami.
 - **[Summon Nature’s Ally 5](summon-natures-ally-5.md)**: Summons creature to fight.
 - **[Summon Nature’s Ally V](summon-natures-ally-v.md)**: Summons creature to fight.
-- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As [*sun’s disdain*](suns-disdain.md), on multiple creatures.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
@@ -554,9 +554,9 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
-- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
+- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As [*bear’s endurance*](bears-endurance.md), affects 1 subject/level.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
-- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
+- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As [*bull’s strength*](bulls-strength.md), affects 1 subject/level.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cone of Cold](cone-of-cold.md)**: 1d6/level cold damage.
 - **[Create Undead](create-undead.md)**: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
@@ -564,9 +564,9 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
-- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As [*dispel magic*](dispel-magic.md), but with multiple targets.
 - **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
-- **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, 1 subject/level.
+- **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As [*eagle’s splendor*](eagles-splendor.md), 1 subject/level.
 - **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
@@ -578,13 +578,13 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Inflict Moderate Wounds, Mass](inflict-moderate-wounds-mass.md)**: Deals 2d8 damage + 1/level, affects 1 subject/level.
 - **[Metabolic Molting](metabolic-molting.md)**: seven days of encased healing, even bringing back the recently dead
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
-- **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
+- **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As [*owl’s wisdom*](owls-wisdom.md), affects 1 subject/level.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
-- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than [*divination*](divination.md).
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
-- **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
+- **[Reincarnate Spy](reincarnate-spy.md)**: As [*reincarnate*](reincarnate.md), but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
 - **[Slay Living](slay-living.md)**: Touch attack deals 12d6 +1 per level.
 - **[Snake Staff](snake-staff.md)**: Transforms wood into snakes to fight for you.
@@ -622,13 +622,13 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Liveoak](liveoak.md)**: Oak becomes treant guardian.
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
-- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
+- **[Nightmare Vision](nightmare-vision.md)**: As [*nightmare*](nightmare.md), and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Regenerate](regenerate.md)**: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 - **[Restoration, Greater](restoration-greater.md)**: As *restoration,* plus restores all levels and ability scores.
-- **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Scrying, Greater](scrying-greater.md)**: As [*scrying*](scrying.md), but faster and longer.
 - **[Seismic Fissure](seismic-fissure.md)**: Split the earth with a deep fissure.
 - **[Soul Transfer](soul-transfer.md)**: Easily transfer a soul from one receptacle to another, or capture vulnerable souls that aren't bound to mortal flesh.
 - **[Speak with Waves](speak-with-waves.md)**: Converse with a body of fresh water.
@@ -639,7 +639,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Verminous Transformation](verminous-transformation.md)**: Partially transform into a swarm.
-- **[Vision](vision.md)**: As *legend lore*, but quicker.
+- **[Vision](vision.md)**: As [*legend lore*](legend-lore.md), but quicker.
 - **[Vortex](vortex.md)**: Creates a whirlpool in water.
 - **[Wind Walk](wind-walk.md)**: You and your allies turn vaporous and travel fast.
 
@@ -684,7 +684,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Eternal Grove](eternal-grove.md)**: Permanently turn creatures into living trees.
 - **[Etherealness](etherealness.md)**: Travel to Ethereal Plane with companions.
 - **[Foresight](foresight.md)**: “Sixth sense” warns of impending danger.
-- **[Heal, Mass](heal-mass.md)**: As *heal*, but affects 1 subject/level.
+- **[Heal, Mass](heal-mass.md)**: As [*heal*](heal.md), but affects 1 subject/level.
 - **[Judgment Undone](judgment-undone.md)**: Restores a petitioner to its mortal life
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Parasitic Soul](parasitic-soul.md)**: Force a trapped soul into a new body.
@@ -692,7 +692,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Shamble](shambler.md)**: Creates 1d4+2 shambling mounds to fight for you.
 - **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
 - **[Shapechange](shapechange.md)**: Transforms you into certain creatures, and you can change forms once per round.
-- **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
+- **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent [*resurrection*](resurrection.md).
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Nature’s Ally 9](summon-natures-ally-9.md)**: Summons creature to fight.
 - **[Summon Nature’s Ally IX](summon-natures-ally-ix.md)**: Summons creature to fight.

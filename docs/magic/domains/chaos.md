@@ -8,7 +8,7 @@
 
 *Chaos Blade (Su)*: At 4th level, you can give a weapon touched the anarchic special weapon quality for a number of rounds equal to your cleric level. You can use this ability once per day at 4th level, and an additional time per day for every four levels beyond 4th.
 
-**Domain Spells**: 1st—[*protection from law*](../spells/protection-from-law.md), 2nd—[*align weapon*](../spells/align-weapon.md) (chaos only), 3rd—[*magic circle against law*](../spells/magic-circle-against-law.md), 4th—[*chaos hammer*](../spells/chaos-hammer.md), 5th—[*dispel law*](../spells/dispel-law.md), 6th—[*animate objects*](../spells/animate-objects.md), 7th—[*word of chaos*](../spells/word-of-chaos.md), 8th—[*cloak of chaos*](../spells/cloak-of-chaos.md), 9th—*summon monster IX* (chaos spell only).
+**Domain Spells**: 1st—[*protection from law*](../spells/protection-from-law.md), 2nd—[*align weapon*](../spells/align-weapon.md) (chaos only), 3rd—[*magic circle against law*](../spells/magic-circle-against-law.md), 4th—[*chaos hammer*](../spells/chaos-hammer.md), 5th—[*dispel law*](../spells/dispel-law.md), 6th—[*animate objects*](../spells/animate-objects.md), 7th—[*word of chaos*](../spells/word-of-chaos.md), 8th—[*cloak of chaos*](../spells/cloak-of-chaos.md), 9th—[*summon monster IX*](../spells/summon-monster-ix.md) (chaos spell only).
 
 ###  Azata Subdomain
 
@@ -20,7 +20,7 @@
 
 *Elysium’s Call (Su)*: As an immediate action (1 AP of your next turn) with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the [Nimble Moves](../../rules/feats/nimble-moves.md) feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—[*expeditious retreat*](../spells/expeditious-retreat.md), 3rd—*fly*, 6th—[*planar ally*](../spells/planar-ally.md) (azata only).
+**Replacement Domain Spells**: 1st—[*expeditious retreat*](../spells/expeditious-retreat.md), 3rd—[*fly*](../spells/fly.md), 6th—[*planar ally*](../spells/planar-ally.md) (azata only).
 
 ### Demodand Subdomain
 
@@ -104,7 +104,7 @@
 
 *Unexpected Whimsy (Su)*: As a standard action (2 AP), you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling [prone](../../rules/appendices/conditions.md#prone). Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered [helpless](../../rules/appendices/conditions.md#helpless). You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
 
-**Replacement Domain Spells**: 1st—[*hideous laughter*](../spells/hideous-laughter.md), 4th—*confusion*, 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
+**Replacement Domain Spells**: 1st—[*hideous laughter*](../spells/hideous-laughter.md), 4th—[*confusion*](../spells/confusion.md), 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
 
 ## Variant Domain Powers
 

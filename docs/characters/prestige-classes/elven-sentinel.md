@@ -51,11 +51,11 @@ When she initially gains access to a set of spell-like abilities of 1st or highe
 
 [*dancing lights*](../../magic/spells/dancing-lights.md), [*light*](../../magic/spells/light.md), and [*spark*](../../magic/spells/spark.md).
 
-**1st Level**: *faerie fire*, *pass without trace*, and *protection from evil*.
+**1st Level**: [*faerie fire*](../../magic/spells/faerie-fire.md), [*pass without trace*](../../magic/spells/pass-without-trace.md), and [*protection from evil*](../../magic/spells/protection-from-evil.md).
 
-**3rd Level**: *darkvision* (self only), *delay poison* (self only), and *see invisibility*.
+**3rd Level**: [*darkvision*](../../magic/spells/darkvision.md) (self only), [*delay poison*](../../magic/spells/delay-poison.md) (self only), and [*see invisibility*](../../magic/spells/see-invisibility.md).
 
-**5th Level**: [*continual flame*](../../magic/spells/continual-flame.md) (3rd-level spell, lasts up to 10 minutes per level; an elven sentinel within 20 feet of a *continual flame* she created using this ability can extinguish it to cast [*searing light*](../../magic/spells/searing-light.md)), [*dispel magic*](../../magic/spells/dispel-magic.md), and [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md) (self only).
+**5th Level**: [*continual flame*](../../magic/spells/continual-flame.md) (3rd-level spell, lasts up to 10 minutes per level; an elven sentinel within 20 feet of a [*continual flame*](../../magic/spells/continual-flame.md) she created using this ability can extinguish it to cast [*searing light*](../../magic/spells/searing-light.md)), [*dispel magic*](../../magic/spells/dispel-magic.md), and [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md) (self only).
 
 **7th Level**: *heightened daylight* (heightened to a 4th-level spell), [*dimensional anchor*](../../magic/spells/dimensional-anchor.md), and [*freedom of movement*](../../magic/spells/freedom-of-movement.md) (self only).
 

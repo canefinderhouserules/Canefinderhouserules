@@ -11,4 +11,4 @@ A *resizing* weapon instantly shrinks or grows to suit the size of any creature 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *resize item*; **Price** 2,000 gp
+**Requirements** Craft Magic Arms and Armor, [*resize item*](../../magic/spells/resize-item.md); **Price** 2,000 gp

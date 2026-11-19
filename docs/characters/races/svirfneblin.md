@@ -24,7 +24,7 @@ In the dark below earth, svirfneblin protect their enclaves, keeping their small
 
 **Spell Resistance**: Svirfneblin have SR equal to 11 + their class levels.
 
-**Svirfneblin Magic**: Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities: Constant—[*nondetection*](../../magic/spells/nondetection.md); 1/day— *blindness/deafness*, [*blur*](../../magic/spells/blur.md), [*disguise self*](../../magic/spells/disguise-self.md); caster level equals the svirfneblin’s class levels.
+**Svirfneblin Magic**: Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities: Constant—[*nondetection*](../../magic/spells/nondetection.md); 1/day— [*blindness/deafness*](../../magic/spells/blindness-deafness.md), [*blur*](../../magic/spells/blur.md), [*disguise self*](../../magic/spells/disguise-self.md); caster level equals the svirfneblin’s class levels.
 
 **Languages**: Svirfneblin begin play speaking Gnome and Undercommon. Those with high Intelligence scores can choose from the following: Aklo, Common, Draconic, Dwarven, Elven, Giant, Goblin, Orc, and Terran.
 

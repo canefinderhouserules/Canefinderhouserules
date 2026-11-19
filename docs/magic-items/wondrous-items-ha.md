@@ -13,25 +13,25 @@ By brandishing the *black heart* as a standard action (1 AP), the wielder can de
 
 If the wielder brandishes the heart and concentrates, the wielder can squeeze the heart as a standard action (1 AP), targeting a living creature within 60 feet. The target takes 3d8+5 points of damage and becomes sickened for 1d4 rounds. A successful DC 14 Fortitude save halves the damage and negates the sickened effect. This is a negative energy effect, and evil creatures are immune to it.
 
-**Requirements** Craft Wondrous Item, *detect good*, *inflict serious wounds*, creator must be an evil worshiper of an evil deity; **Cost** 9,400 gp
+**Requirements** Craft Wondrous Item, [*detect good*](../magic/spells/detect-good.md), [*inflict serious wounds*](../magic/spells/inflict-serious-wounds.md), creator must be an evil worshiper of an evil deity; **Cost** 9,400 gp
 
 ### Blackmarrow Altar
 
 **Aura** strong necromancy [evil]; **CL** 17th  
 **Slot** none; **Price** 32,500 gp; **Weight** 24 lbs.
 
-This altar is built from skulls and bones as black as onyx. When placed upright on a solid surface, the altar begins radiating negative energy, as per *desecrate*. If the altar is knocked over, the effect ends until the altar is righted as a move action (1 AP). A spellcaster can use a *blackmarrow altar* as a focus when casting *animate dead* or *create undead*. The spell then doesn’t require onyx gems as a material component. Instead, the altar supplies the unholy energy needed for casting the spell. The altar can sustain a maximum of 20 Hit Dice of undead creatures created this way, and it can’t create more than 20 HD of undead creatures in a week even if previously created undead are destroyed. The undead creatures can’t create spawn or use similar abilities.
+This altar is built from skulls and bones as black as onyx. When placed upright on a solid surface, the altar begins radiating negative energy, as per [*desecrate*](../magic/spells/desecrate.md). If the altar is knocked over, the effect ends until the altar is righted as a move action (1 AP). A spellcaster can use a *blackmarrow altar* as a focus when casting [*animate dead*](../magic/spells/animate-dead.md) or [*create undead*](../magic/spells/create-undead.md). The spell then doesn’t require onyx gems as a material component. Instead, the altar supplies the unholy energy needed for casting the spell. The altar can sustain a maximum of 20 Hit Dice of undead creatures created this way, and it can’t create more than 20 HD of undead creatures in a week even if previously created undead are destroyed. The undead creatures can’t create spawn or use similar abilities.
 
 When undead creatures created with the altar as a focus move farther than 100 feet away from it, dark fumes continuously pour out from their eyes (or eye sockets) and mouths. Any such undead creature needs to return to the altar’s vicinity within 4 hours to replenish its negative energy. If unable to do so, the creature is immediately destroyed after 4 hours.
 
-**Requirements** Craft Wondrous Item, *desecrate*; **Cost** 16,250 gp
+**Requirements** Craft Wondrous Item, [*desecrate*](../magic/spells/desecrate.md); **Cost** 16,250 gp
 
 ### Brilliant Flash Symbol
 
 **Aura** faint evocation; **CL** 3rd  
 **Slot** none; **Price** 1,600 gp; **Weight** 1/2 lb.
 
-This holy (or unholy) symbol is crafted from brilliantly polished clear quartz with a facet that contains a small sapphire. When brandished, the symbol catches and amplifies the surrounding light into a blinding *flare*. This has several effects.
+This holy (or unholy) symbol is crafted from brilliantly polished clear quartz with a facet that contains a small sapphire. When brandished, the symbol catches and amplifies the surrounding light into a blinding [*flare*](../magic/spells/flare.md). This has several effects.
 
 When the bearer uses the holy symbol to channel energy (whether she channels positive or negative energy), any creature that takes damage must succeed at a DC 10 Fortitude save or be dazzled for 1 round.
 
@@ -39,7 +39,7 @@ If the bearer casts a spell using a *brilliant flash symbol* as a divine focus, 
 
 A *brilliant flash symbol* functions only in areas with some kind of ambient light. It loses all of its powers in areas of total darkness.
 
-**Requirements** Craft Wondrous Item, *flare*, channel energy class feature; **Cost** 800 gp
+**Requirements** Craft Wondrous Item, [*flare*](../magic/spells/flare.md), channel energy class feature; **Cost** 800 gp
 
 ### Channel-Thieving Belt
 
@@ -48,7 +48,7 @@ A *brilliant flash symbol* functions only in areas with some kind of ambient lig
 
 This wide black leather belt is inlaid with spiraling copper runes. If the wearer is a living creature, she heals each time she is within the area of a burst of channeled positive energy used to deal damage to undead creatures. If the wearer is an undead creature, it heals each time it is within the area of a burst of channeled negative energy used to deal damage to living creatures. The wearer regains 1 hit point for each 1d6 points of energy channeled. The belt has no effect if its wearer is the one channeling energy.
 
-**Requirements** Craft Wondrous Item, *cure light wounds*, *inflict light wounds*; **Cost** 1,000 gp
+**Requirements** Craft Wondrous Item, [*cure light wounds*](../magic/spells/cure-light-wounds.md), [*inflict light wounds*](../magic/spells/inflict-light-wounds.md); **Cost** 1,000 gp
 
 ### Channel-Thieving Belt, Greater
 
@@ -57,7 +57,7 @@ This wide black leather belt is inlaid with spiraling copper runes. If the weare
 
 This belt functions as a normal *channel-thieving belt*, except the amount of healing is equal to 1/2 the amount of damage healed or dealt by the creature channeling energy.
 
-**Requirements** Craft Wondrous Item, *cure serious wounds*, *inflict serious wounds*; **Cost** 4,600 gp
+**Requirements** Craft Wondrous Item, [*cure serious wounds*](../magic/spells/cure-serious-wounds.md), [*inflict serious wounds*](../magic/spells/inflict-serious-wounds.md); **Cost** 4,600 gp
 
 ### Crimson Altar
 
@@ -66,11 +66,11 @@ This belt functions as a normal *channel-thieving belt*, except the amount of he
 
 This red marble altar is carved in the shape of two legless humans conjoined at the waist, their heads facing opposite directions. The figure’s four arms are bent at the elbow, supporting the altar like the legs of a table would. Each face is featureless save for a gaping maw, and hollow moans occasionally escape from their taut, perpetually blood-stained marble lips.
 
-Whenever a creature within 40 feet of the altar takes piercing or slashing damage, the altar’s foul magic invades the wound and forces it to stay open, automatically dealing 1d4 points of *bleed* damage. This *bleed* damage doesn’t stack with any *bleed* damage the attack would normally deal, nor does it stack with itself. Unholy magic beckons spilled blood to crawl toward the altar.
+Whenever a creature within 40 feet of the altar takes piercing or slashing damage, the altar’s foul magic invades the wound and forces it to stay open, automatically dealing 1d4 points of [*bleed*](../magic/spells/bleed.md) damage. This *bleed* damage doesn’t stack with any *bleed* damage the attack would normally deal, nor does it stack with itself. Unholy magic beckons spilled blood to crawl toward the altar.
 
-There is a shallow, round indentation on the altar; if a silver cup worth 25 gp is placed within, crimson nectar trickles into the cup each time a creature within 40 feet takes *bleed* damage. The cup is filled to the brim once 30 points of *bleed* damage have been dealt within 40 feet of the altar. As a standard action (1 AP), a creature can drink the nectar to regain 5d6 hit points. The nectar heals both living and undead creatures. The nectar loses its potency and turns into clotted blood if it is not consumed within 1 round of the cup being removed from the altar. The altar can produce 3 full cups of healing nectar per day.
+There is a shallow, round indentation on the altar; if a silver cup worth 25 gp is placed within, crimson nectar trickles into the cup each time a creature within 40 feet takes [*bleed*](../magic/spells/bleed.md) damage. The cup is filled to the brim once 30 points of *bleed* damage have been dealt within 40 feet of the altar. As a standard action (1 AP), a creature can drink the nectar to regain 5d6 hit points. The nectar heals both living and undead creatures. The nectar loses its potency and turns into clotted blood if it is not consumed within 1 round of the cup being removed from the altar. The altar can produce 3 full cups of healing nectar per day.
 
-**Requirements** Craft Wondrous Item, *bleed*, *death knell*; **Cost** 8,750 gp
+**Requirements** Craft Wondrous Item, [*bleed*](../magic/spells/bleed.md), [*death knell*](../magic/spells/death-knell.md); **Cost** 8,750 gp
 
 ### Dark Lens Altar
 
@@ -79,24 +79,24 @@ There is a shallow, round indentation on the altar; if a silver cup worth 25 gp 
 
 Set in the center of this dark steel altar is an eye-shaped, obsidian lens. Many-eyed horrors from dark spaces between the stars stare back through the lens. When viewed from different angles, the altar’s proportions seem to change as though space were bent around the object.
 
-Whenever a creature within 60 feet of the altar casts a summon monster or summon nature’s ally spell (or uses either spell as a spell-like ability), the creature can use the altar as a focus for the spell. Any creatures summoned this way emerge from the dark lens, appearing adjacent to the altar. The creatures are strangely mutated, gaining the benefit of *lesser evolution surge* as though they were eidolons with no base form. They still must meet all prerequisites for an evolution, including having particular natural attacks, and they count as the eidolons of a summoner with a summoner level equal to the level of the summoning spell for the purposes of satisfying prerequisites and determining how many total attacks per round they can use.
+Whenever a creature within 60 feet of the altar casts a summon monster or summon nature’s ally spell (or uses either spell as a spell-like ability), the creature can use the altar as a focus for the spell. Any creatures summoned this way emerge from the dark lens, appearing adjacent to the altar. The creatures are strangely mutated, gaining the benefit of [*lesser evolution surge*](../magic/spells/evolution-surge-lesser.md) as though they were eidolons with no base form. They still must meet all prerequisites for an evolution, including having particular natural attacks, and they count as the eidolons of a summoner with a summoner level equal to the level of the summoning spell for the purposes of satisfying prerequisites and determining how many total attacks per round they can use.
 
 There is a 25% chance that any creature summoned through the lens attempts to kill the summoner rather than obeying the summoner’s commands. Roll once per casting for all creatures summoned, and if the creatures turn on their summoner, the summoner can’t dismiss the spell as normal (though it still expires when the duration ends).
 
 When the summoned creature appears, the planar rift through which it passes creates a vacuum near the altar for 1 round. Each creature within 5 feet per level of the summoning spell is affected by a severe blast of air (as per gust of wind) directed toward the altar. A summoning spell of 4th level or higher creates a more powerful vacuum; all creatures within the area are treated as one size category smaller for the purpose of determining how the vacuum affects them. If the summoning spell is 7th level or higher, the creatures are treated as two size categories smaller. If a creature summoned through the altar is ever forced into the altar’s space, including by the vacuum effect, the summoning instantly ends as the creature is sucked back to its home dimension.
 
-**Requirements** Craft Wondrous Item, *lesser evolution surge*, *plane shift*; **Cost** 20,000 gp
+**Requirements** Craft Wondrous Item, [*lesser evolution surge*](../magic/spells/evolution-surge-lesser.md), [*plane shift*](../magic/spells/plane-shift.md); **Cost** 20,000 gp
 
 ### Eldritch Scholar’s Monocle
 
 **Aura** faint divination; **CL** 3rd  
 **Slot** eyes; **Price** 5,000 gp; **Weight** —
 
-This lens, mounted in a round electrum frame, fits snugly over the wearer’s eye. Upon donning the monocle, the user sees a swirl of arcane sigils through the lens, but the sensation quickly fades. The monocle allows the user to decipher magical inscriptions, as per *read magic*.
+This lens, mounted in a round electrum frame, fits snugly over the wearer’s eye. Upon donning the monocle, the user sees a swirl of arcane sigils through the lens, but the sensation quickly fades. The monocle allows the user to decipher magical inscriptions, as per [*read magic*](../magic/spells/read-magic.md).
 
-Once worn for 24 consecutive hours, an *eldritch scholar’s monocle* also protects the user from anything dangerous to read or view. While wearing the monocle, whenever the user triggers a curse effect, an effect that causes sanity loss, or a magic trap (such as explosive runes or sepia snake sigil) simply by reading or viewing an object, the monocle’s glass starts shaking, pulling the wearer’s attention away from the dangerous details in the object. This allows the wearer to roll any saving throw against such an effect twice and take the better result. This effect functions only once per day. For the remainder of the day, everything viewed through the lens appears blurred and distorted, and the *read magic* effect no longer functions.
+Once worn for 24 consecutive hours, an *eldritch scholar’s monocle* also protects the user from anything dangerous to read or view. While wearing the monocle, whenever the user triggers a curse effect, an effect that causes sanity loss, or a magic trap (such as explosive runes or sepia snake sigil) simply by reading or viewing an object, the monocle’s glass starts shaking, pulling the wearer’s attention away from the dangerous details in the object. This allows the wearer to roll any saving throw against such an effect twice and take the better result. This effect functions only once per day. For the remainder of the day, everything viewed through the lens appears blurred and distorted, and the [*read magic*](../magic/spells/read-magic.md) effect no longer functions.
 
-**Requirements** Craft Wondrous Item, *augury*, *read magic*; **Cost** 2,500 gp
+**Requirements** Craft Wondrous Item, [*augury*](../magic/spells/augury.md), [*read magic*](../magic/spells/read-magic.md); **Cost** 2,500 gp
 
 ### Gloves of Feasting
 
@@ -107,7 +107,7 @@ Each of these leather gloves has a large, ragged hole in the palm. Upon donning 
 
 The wearer receives a +2 enhancement bonus on combat maneuver checks to grapple a foe with his hands. If he begins his turn grappling with his hands, the wearer can make a free bite attack with one of the mouths on his hands. The bite is treated as a natural weapon and deals an amount of damage equal to 1d4 + his Strength modifier for a Medium wearer (1d3 + his Strength modifier if he’s Small).
 
-**Requirements** Craft Wondrous Item, *polymorph*; **Cost** 4,200 gp
+**Requirements** Craft Wondrous Item, [*polymorph*](../magic/spells/polymorph.md); **Cost** 4,200 gp
 
 ### Mantle of Life
 
@@ -116,18 +116,18 @@ The wearer receives a +2 enhancement bonus on combat maneuver checks to grapple 
 
 This short cape shimmers faintly under light. The wearer is immune to the energy drain attacks made by undead creatures. She still suffers any other effects of the attack, but ignores the energy drain. If a corpse is wearing the mantle, it can’t rise as an undead creature for any reason. This doesn’t prevent creatures that were already undead from using abilities like rejuvenation to return to unlife.
 
-**Requirements** Craft Wondrous Item, *death ward*; **Cost** 24,000 gp
+**Requirements** Craft Wondrous Item, [*death ward*](../magic/spells/death-ward.md); **Cost** 24,000 gp
 
 ### Mantle of the Darkest Night
 
 **Aura** faint evocation; **CL** 5th  
 **Slot** shoulders; **Price** 6,000 gp; **Weight** —
 
-This cloak is woven from a fabric of solid darkness held together by magic alone. When the wearer takes the total defense action, the mantle quickly dissolves into a globe of darkness (as per *deeper darkness*) that is centered on the wearer. The darkness coalesces into a mantle on the wearer’s shoulders again at the beginning of her next turn unless she immediately uses another total defense action to maintain it. This effect functions up to 10 rounds per day.
+This cloak is woven from a fabric of solid darkness held together by magic alone. When the wearer takes the total defense action, the mantle quickly dissolves into a globe of darkness (as per [*deeper darkness*](../magic/spells/deeper-darkness.md)) that is centered on the wearer. The darkness coalesces into a mantle on the wearer’s shoulders again at the beginning of her next turn unless she immediately uses another total defense action to maintain it. This effect functions up to 10 rounds per day.
 
-If any of the item’s daily uses are left, the wearer can grab the mantle and toss it into a space within 30 feet as a standard action (1 AP). The mantle dissolves into a *deeper darkness* effect centered where the mantle landed and lasting for a number of rounds equal to the remaining daily uses. When the duration ends, the mantle materializes in the square into which the wearer threw it.
+If any of the item’s daily uses are left, the wearer can grab the mantle and toss it into a space within 30 feet as a standard action (1 AP). The mantle dissolves into a [*deeper darkness*](../magic/spells/deeper-darkness.md) effect centered where the mantle landed and lasting for a number of rounds equal to the remaining daily uses. When the duration ends, the mantle materializes in the square into which the wearer threw it.
 
-**Requirements** Craft Wondrous Item, *deeper darkness*; **Cost** 3,000 gp
+**Requirements** Craft Wondrous Item, [*deeper darkness*](../magic/spells/deeper-darkness.md); **Cost** 3,000 gp
 
 ### Monster Almanac
 
@@ -138,7 +138,7 @@ This sketchbook has up to 100 pages full of scribbled notes and hasty sketches a
 
 The user must spend 10 minutes researching a particular type of monster to get any benefit from the almanac. If the user is trained in the appropriate Knowledge skill to identify a monster, he gets a +2 circumstance bonus on his check. He can attempt a Knowledge check to identify a creature despite being untrained in the appropriate skill (but without the +2 bonus) as long as the check’s DC is no higher than 15.
 
-**Requirements** Craft Wondrous Item, *augury*, *silent image*; **Cost** 2,000 gp
+**Requirements** Craft Wondrous Item, [*augury*](../magic/spells/augury.md), [*silent image*](../magic/spells/silent-image.md); **Cost** 2,000 gp
 
 ### Monster Almanac, Greater
 
@@ -151,7 +151,7 @@ The user must spend at least 10 minutes researching a particular type of monster
 
 If the user spends 24 hours instead of 10 minutes, she can treat the check as though she got a result of 25. This functions much like using an extensive library and doesn’t require the user to be trained in the relevant Knowledge skill.
 
-**Requirements** Craft Wondrous Item, *legend lore*, *major image*; **Cost** 10,000 gp
+**Requirements** Craft Wondrous Item, [*legend lore*](../magic/spells/legend-lore.md), [*major image*](../magic/spells/major-image.md); **Cost** 10,000 gp
 
 ### Moonlight Lantern
 
@@ -160,11 +160,11 @@ If the user spends 24 hours instead of 10 minutes, she can treat the check as th
 
 This intricate silver bullseye lantern filters its light through a stained-glass image of a howling wolf silhouetted by the moon. The pale blue light it casts does little to illuminate the surrounding area, casting dim light in a 60-foot cone directed by the lantern’s bearer. The lantern can remain lit for 30 minutes per day. These minutes don’t need to be used consecutively, but must be spent in 5-minute increments.
 
-When the lantern’s light falls on a creature that is not in its true form or that has more than one form—such as a creature that has been polymorphed, a doppelganger, or a lycanthrope—the light shows all of that creature’s forms. Anyone who can see the target perceives any additional forms as semi-transparent illusions superimposed over the creature’s current form. This is a divination effect and otherwise works as per *true seeing*.
+When the lantern’s light falls on a creature that is not in its true form or that has more than one form—such as a creature that has been polymorphed, a doppelganger, or a lycanthrope—the light shows all of that creature’s forms. Anyone who can see the target perceives any additional forms as semi-transparent illusions superimposed over the creature’s current form. This is a divination effect and otherwise works as per [*true seeing*](../magic/spells/true-seeing.md).
 
-Once per day as a standard action (1 AP), the bearer can force a creature within the lantern’s light to assume another of its forms. If the creature is under the effects of a spell with the polymorph descriptor, the bearer can attempt to dispel the effect (as per *dispel magic*) using the lantern’s caster level. If the creature has the shapechanger subtype, it must succeed at a DC 20 Fortitude save to resist this effect. If it fails this saving throw, the bearer of the *moonlight lantern* can choose another of the target’s forms and force it to transform immediately. The shapechanger doesn’t need to spend an action to do so. The target must remain in the chosen form for at least 1 minute before it can shift again.
+Once per day as a standard action (1 AP), the bearer can force a creature within the lantern’s light to assume another of its forms. If the creature is under the effects of a spell with the polymorph descriptor, the bearer can attempt to dispel the effect (as per [*dispel magic*](../magic/spells/dispel-magic.md)) using the lantern’s caster level. If the creature has the shapechanger subtype, it must succeed at a DC 20 Fortitude save to resist this effect. If it fails this saving throw, the bearer of the *moonlight lantern* can choose another of the target’s forms and force it to transform immediately. The shapechanger doesn’t need to spend an action to do so. The target must remain in the chosen form for at least 1 minute before it can shift again.
 
-**Requirements** Craft Wondrous Item, *dispel magic*, *greater polymorph*, *true seeing*; **Cost** 33,000 gp
+**Requirements** Craft Wondrous Item, [*dispel magic*](../magic/spells/dispel-magic.md), [*greater polymorph*](../magic/spells/polymorph-greater.md), [*true seeing*](../magic/spells/true-seeing.md); **Cost** 33,000 gp
 
 ### Necromancer’s Beacon
 
@@ -177,7 +177,7 @@ A lit *necromancer’s beacon* attracts undead creatures within 1,000 feet, whet
 
 Undead creatures take 1 point of positive energy damage every round they remain within the light shed by a *necromancer’s beacon*. If the lantern is destroyed, all undead are immediately freed from the lantern’s compulsion.
 
-**Requirements** Craft Wondrous Item, *control undead*; **Cost** 24,000 gp
+**Requirements** Craft Wondrous Item, [*control undead*](../magic/spells/control-undead.md); **Cost** 24,000 gp
 
 ### Oil of Attraction
 
@@ -192,7 +192,7 @@ The scent of the oil grants anyone who can smell it a +1 bonus on Bluff, Knowled
 
 The oil lasts for 1 hour, during which no amount of washing with ordinary cleaning supplies can remove the slime from a creature. Only universal solvent denatures the oil. Bonuses from multiple oils of attraction don’t stack.
 
-**Requirements** Craft Wondrous Item, *bestow curse*; **Cost** 850 gp
+**Requirements** Craft Wondrous Item, [*bestow curse*](../magic/spells/bestow-curse.md); **Cost** 850 gp
 
 ### Pain Ward of the Ostiarius
 
@@ -203,7 +203,7 @@ This twisted and charred hunk of metal resembles a blacksmith apprentice’s fai
 
 The *pain ward of the ostiarius* grants an evil wearer a +4 profane bonus on any saving throws against spells and abilities with the pain descriptor. Once per day, the wearer can channel his pain into negative energy and inflict it on an unwilling victim. This is a touch attack that deals 1d8+5 points of negative energy damage and sickens the victim for 1d4 rounds. A successful DC 11 Fortitude saving throw halves the damage and negates the sicken effect.
 
-**Requirements** Craft Wondrous Item, *inflict light wounds*, *resistance*, creator must be an evil worshiper of an evil deity; **Cost** 3,000 gp
+**Requirements** Craft Wondrous Item, [*inflict light wounds*](../magic/spells/inflict-light-wounds.md), [*resistance*](../magic/spells/resistance.md), creator must be an evil worshiper of an evil deity; **Cost** 3,000 gp
 
 ### Perilous Puzzle Box
 
@@ -218,9 +218,9 @@ Thereafter, twisting any segment triggers a 1-minute timer, during which the hol
 
 Unless the attempt to solve the puzzle succeeds, after 1 minute, the box automatically reverts to the configuration it had before the attempt to solve the puzzle and locks itself for 24 hours. If a *perilous puzzle box* is destroyed (hardness 10, 20 hp), any contents stored in the extradimensional space are lost on the Ethereal Plane.
 
-A found puzzle box has a 75% chance of having a touch spell stored within it, usually *bestow curse*, contagion, or inflict critical wounds.
+A found puzzle box has a 75% chance of having a touch spell stored within it, usually [*bestow curse*](../magic/spells/bestow-curse.md), contagion, or inflict critical wounds.
 
-**Requirements** Craft Wondrous Item, *imbue with spell ability*, *secret chest*; **Cost** 2,500 gp
+**Requirements** Craft Wondrous Item, [*imbue with spell ability*](../magic/spells/imbue-with-spell-ability.md), [*secret chest*](../magic/spells/secret-chest.md); **Cost** 2,500 gp
 
 ### Purifying Ointment
 
@@ -229,9 +229,9 @@ A found puzzle box has a 75% chance of having a touch spell stored within it, us
 
 Usually stored in a jar shaped like a scarab beetle, this unguent is pale green and smells like thistle with a hint of the scent of embalming fluids. A jar contains five applications, each of which can be applied as a full-round action (3 AP).
 
-When applied to an afflicted area or swallowed, the ointment removes a single curse or restores ability damage caused by an undead’s special attack (such as a shadow’s touch). This ointment otherwise acts as per *lesser restoration* or *remove curse* with a +5 bonus on the check. Unlike normal applications of *remove curse*, *purifying ointment* can potentially remove an affliction that is both a curse and disease (such as mummy rot), though that requires two successful caster level checks.
+When applied to an afflicted area or swallowed, the ointment removes a single curse or restores ability damage caused by an undead’s special attack (such as a shadow’s touch). This ointment otherwise acts as per [*lesser restoration*](../magic/spells/restoration-lesser.md) or [*remove curse*](../magic/spells/remove-curse.md) with a +5 bonus on the check. Unlike normal applications of *remove curse*, *purifying ointment* can potentially remove an affliction that is both a curse and disease (such as mummy rot), though that requires two successful caster level checks.
 
-**Requirements** Craft Wondrous Item, *lesser restoration*, *remove curse*, *remove disease*; **Cost** 2,000 gp
+**Requirements** Craft Wondrous Item, [*lesser restoration*](../magic/spells/restoration-lesser.md), [*remove curse*](../magic/spells/remove-curse.md), [*remove disease*](../magic/spells/remove-disease.md); **Cost** 2,000 gp
 
 ### Redemptor’s Blessing
 
@@ -240,9 +240,9 @@ When applied to an afflicted area or swallowed, the ointment removes a single cu
 
 This soothing holy symbol is carved from a single chunk of soapstone, and its graceful curves draw the eye. When used to channel positive energy to heal living creatures, it also calms nearby creatures.
 
-Any creature healed by the positive energy channeled by a user of a *redemptor’s blessing* must attempt a DC 13 Will save or become affected by a *calm emotions* spell. This effect lasts as long as the user continues to brandish the holy symbol and maintain concentration or until anyone takes an aggressive action against a calmed creature.
+Any creature healed by the positive energy channeled by a user of a *redemptor’s blessing* must attempt a DC 13 Will save or become affected by a [*calm emotions*](../magic/spells/calm-emotions.md) spell. This effect lasts as long as the user continues to brandish the holy symbol and maintain concentration or until anyone takes an aggressive action against a calmed creature.
 
-**Requirements** Craft Wondrous Item, *calm emotions*, ability to channel positive energy; **Cost** 4,500 gp
+**Requirements** Craft Wondrous Item, [*calm emotions*](../magic/spells/calm-emotions.md), ability to channel positive energy; **Cost** 4,500 gp
 
 ### Silver Nail
 
@@ -251,13 +251,13 @@ Any creature healed by the positive energy channeled by a user of a *redemptor�
 
 This *silver nail* is finely engraved with hundreds of tiny runes that flash faintly blue under the light of the moon. The nail can be used to trap evil outsiders and incorporeal undead creatures to prevent their escape. To use a *silver nail*, the bearer must take a full-round action (3 AP) and succeed at a touch attack against a creature.
 
-When used against a helpless or pinned evil outsider, the bearer can prevent that creature from escaping as per *dimensional anchor*.
+When used against a helpless or pinned evil outsider, the bearer can prevent that creature from escaping as per [*dimensional anchor*](../magic/spells/dimensional-anchor.md).
 
 The bearer can instead trap an incorporeal undead creature. If he succeeds at a touch attack, the nail prevents the incorporeal undead creature from moving into walls or other solid objects.
 
 The effects of the *silver nail* last 1 minute, during which the nail remains inside the creature. When this duration ends, the nail falls out and is forever rendered powerless. If used against a creature that is neither an outsider nor an incorporeal undead creature, the *silver nail* has no effect, but is still expended.
 
-**Requirements** Craft Wondrous Item, *dimensional anchor*, *plane shift*; **Cost** 1,050 gp
+**Requirements** Craft Wondrous Item, [*dimensional anchor*](../magic/spells/dimensional-anchor.md), [*plane shift*](../magic/spells/plane-shift.md); **Cost** 1,050 gp
 
 ### Talisman, Lesser
 
@@ -269,37 +269,37 @@ Each of these amulets is imbued with magic that allows it to protect its wearer 
 
 This ebony talisman is carved in the shape of a war horn. When the wearer fails a saving throw against a spell or effect that causes him to fall asleep, he immediately receives a second saving throw. If he succeeds at the second saving throw, the horn sounds a loud warning that only the wearer can hear. The wearer becomes deafened and immune to sleep for 1 round as the sound echoes in his mind.
 
-**Aura** faint abjuration; **CL** 3rd; **Price** 450 gp; **Requirements** Craft Wondrous Item, *alarm*, *ear-piercing scream*; **Cost** 225 gp
+**Aura** faint abjuration; **CL** 3rd; **Price** 450 gp; **Requirements** Craft Wondrous Item, [*alarm*](../magic/spells/alarm.md), [*ear-piercing scream*](../magic/spells/ear-piercing-scream.md); **Cost** 225 gp
 
 #### Ankh Talisman
 
-This cross has a loop at the top. When a living creature wears it as a talisman, it radiates a soft, golden glow. When the wearer is hit by a creature with the energy drain ability, he receives a saving throw to negate the energy drain, using the DC listed for the ability (which usually determines whether temporary negative levels become permanent). If the creature’s energy drain allows an initial saving throw, the talisman grants a second saving throw if the wearer fails his initial saving throw. If he succeeds at the saving throw granted by the talisman, the talisman releases a blast of force that automatically hits the attacker (as per *force punch*).
+This cross has a loop at the top. When a living creature wears it as a talisman, it radiates a soft, golden glow. When the wearer is hit by a creature with the energy drain ability, he receives a saving throw to negate the energy drain, using the DC listed for the ability (which usually determines whether temporary negative levels become permanent). If the creature’s energy drain allows an initial saving throw, the talisman grants a second saving throw if the wearer fails his initial saving throw. If he succeeds at the saving throw granted by the talisman, the talisman releases a blast of force that automatically hits the attacker (as per [*force punch*](../magic/spells/force-punch.md)).
 
-**Aura** moderate necromancy; **CL** 7th; **Price** 1,250 gp; **Requirements** Craft Wondrous Item, *death ward*, *force punch*; **Cost** 625 gp
+**Aura** moderate necromancy; **CL** 7th; **Price** 1,250 gp; **Requirements** Craft Wondrous Item, [*death ward*](../magic/spells/death-ward.md), [*force punch*](../magic/spells/force-punch.md); **Cost** 625 gp
 
 #### Hamsa Talisman
 
 A stern eye adorns the palm of this hand-shaped clay talisman. When the wearer fails a saving throw against a witch’s hex, a spell or spell-like ability with the curse descriptor, or a hag’s supernatural ability, he can attempt a second saving throw. If he succeeds at the second saving throw, the creature that targeted him must succeed at a saving throw using the same DC or suffer the effect. The talisman has no effect on spells and effects that don’t allow a saving throw.
 
-**Aura** strong abjuration; **CL** 13th; **Price** 3,000 gp; **Requirements** Craft Wondrous Item, *remove curse*, *spell turning*; **Cost** 1,500 gp
+**Aura** strong abjuration; **CL** 13th; **Price** 3,000 gp; **Requirements** Craft Wondrous Item, [*remove curse*](../magic/spells/remove-curse.md), [*spell turning*](../magic/spells/spell-turning.md); **Cost** 1,500 gp
 
 #### Pentacle Talisman
 
-The five-pointed star carved on this round silver talisman glows blue whenever an evil creature targets the wearer with *magic jar*, *possession*, or a similar effect, or with a charm or compulsion spell or effect that allows the creature to exercise control over the wearer (such as suggestion, but not sleep). If the spell or effect allows a saving throw and the wearer fails it, he receives a second saving throw. If he succeeds at the second saving throw, the wearer is also protected by *protection from evil* for 5 rounds.
+The five-pointed star carved on this round silver talisman glows blue whenever an evil creature targets the wearer with [*magic jar*](../magic/spells/magic-jar.md), [*possession*](../magic/spells/possession.md), or a similar effect, or with a charm or compulsion spell or effect that allows the creature to exercise control over the wearer (such as suggestion, but not sleep). If the spell or effect allows a saving throw and the wearer fails it, he receives a second saving throw. If he succeeds at the second saving throw, the wearer is also protected by [*protection from evil*](../magic/spells/protection-from-evil.md) for 5 rounds.
 
-**Aura** faint abjuration; **CL** 1st; **Price** 600 gp; **Requirements** Craft Wondrous Item, *protection from evil*; **Cost** 300 gp
+**Aura** faint abjuration; **CL** 1st; **Price** 600 gp; **Requirements** Craft Wondrous Item, [*protection from evil*](../magic/spells/protection-from-evil.md); **Cost** 300 gp
 
 #### Scarab Talisman
 
 This amethyst necklace is carved in the shape of a scarab beetle. When the wearer fails a saving throw against a swarm’s poison or distraction ability, he can attempt a second saving throw. If he succeeds at the second saving throw, the wearer becomes immune to the poison and distraction abilities of swarms for 5 rounds.
 
-**Aura** faint conjuration; **CL** 3rd; **Price** 600 gp; **Requirements** Craft Wondrous Item, *summon swarm*; **Cost** 300 gp
+**Aura** faint conjuration; **CL** 3rd; **Price** 600 gp; **Requirements** Craft Wondrous Item, [*summon swarm*](../magic/spells/summon-swarm.md); **Cost** 300 gp
 
 #### Triskelion Talisman
 
-This bronze talisman is carved in the shape of three interlocking spirals. When the wearer fails a saving throw against an effect that would cause him to become entangled, paralyzed 1, or slowed, he receives a second saving throw. If he succeeds at the second saving throw, the wearer instead gains the benefits of *longstrider* for 5 rounds.
+This bronze talisman is carved in the shape of three interlocking spirals. When the wearer fails a saving throw against an effect that would cause him to become entangled, paralyzed 1, or slowed, he receives a second saving throw. If he succeeds at the second saving throw, the wearer instead gains the benefits of [*longstrider*](../magic/spells/longstrider.md) for 5 rounds.
 
-**Aura** faint transmutation; **CL** 3rd; **Price** 600 gp; **Requirements** Craft Wondrous Item, *longstrider*, *remove paralysis*; **Cost** 300 gp
+**Aura** faint transmutation; **CL** 3rd; **Price** 600 gp; **Requirements** Craft Wondrous Item, [*longstrider*](../magic/spells/longstrider.md), [*remove paralysis*](../magic/spells/remove-paralysis.md); **Cost** 300 gp
 
 ### Talisman, Greater
 
@@ -329,7 +329,7 @@ When a user places the *threshold guardian*, she can choose whether to block the
 
 Removing or destroying the *threshold guardian* (hardness 5, 10 hp) removes the effect. Creatures other than the one that placed a *threshold guardian* can’t touch the *threshold guardian*, even with another held object, unless they succeed at a DC 19 Will save. Creatures can still attack the wreath with ranged attacks, though if placed cleverly, the wreath could have total cover from such attacks. Destroying the doorway on which it hangs causes the *threshold guardian* to cease functioning immediately.
 
-**Requirements** Craft Wondrous Item, *antilife shell*, *forbiddance*; **Cost** 33,000 gp
+**Requirements** Craft Wondrous Item, [*antilife shell*](../magic/spells/antilife-shell.md), [*forbiddance*](../magic/spells/forbiddance.md); **Cost** 33,000 gp
 
 ### Urn of Smoldering Shapes
 
@@ -342,7 +342,7 @@ As a standard action (1 AP), a creature holding the urn can grab some ash from t
 
 If the smoldering shape is reduced to 0 hit points or fewer, it explodes, dealing fire damage in a 10-foot-radius spread depending on the size: 2d6 points for Small, 4d6 points for Medium, or 8d6 points for Large. Any creature in the area that succeeds at a DC 16 Reflex save takes half the normal damage. For 1 round, the area of the explosion is filled with dark, acrid smoke (as per obscuring mist). The smoldering shapes are immune to fire and cold, but if a smoldering shape would be dealt any amount of cold damage, the shape becomes inert and can no longer explode.
 
-**Requirements** Craft Wondrous Item, *wall of fire*; **Cost** 8,000 gp
+**Requirements** Craft Wondrous Item, [*wall of fire*](../magic/spells/wall-of-fire.md); **Cost** 8,000 gp
 
 ### Witchlight Lantern
 
@@ -353,7 +353,7 @@ This black, skull-shaped, wrought-iron lantern has no container for oil or space
 
 If the lantern comes within 60 feet of an overwhelming aura, the light flares up and blinds all creatures in a 30-foot radius from the lantern for 1d4 rounds; a successful DC 16 Reflex save reduces this condition to dazzled. This counts as a 4th-level light spell. After flaring up, the *witchlight lantern* loses its ability to shine light for 1 hour.
 
-**Requirements** Craft Wondrous Item, *arcane sight*, *daylight*; **Cost** 3,750 gp
+**Requirements** Craft Wondrous Item, [*arcane sight*](../magic/spells/arcane-sight.md), [*daylight*](../magic/spells/daylight.md); **Cost** 3,750 gp
 
 ### Wolf Caller’s Horn
 
@@ -364,7 +364,7 @@ The user can sound this ornate silver horn as a normal signal horn. Once per day
 
 The subjects can’t take any actions other than to howl, making them effectively dazed for 1 round. A successful DC 17 Will save negates this effect. The horn affects werewolves in any form, though werewolves who are aware of their condition receive a +5 bonus on the saving throw while in humanoid form.
 
-**Requirements** Craft Wondrous Item, *mass daze*, *mass suggestion*; **Cost** 2,000 gp
+**Requirements** Craft Wondrous Item, [*mass daze*](../magic/spells/daze-mass.md), [*mass suggestion*](../magic/spells/suggestion-mass.md); **Cost** 2,000 gp
 
 ### Table 7–8: Wondrous Items
 

@@ -10,7 +10,7 @@ Shadow piercings must be placed in a part of the body normally associated with a
 
 A single slot can hold multiple physical piercings, though the pieces of jewelry operate as a single item and must be created for that purpose. Shadow piercings have different levels of power: minor, major, and greater. Minor shadow piercings usually include one piece of jewelry, while major and greater shadow piercings often are made up of multiple rings and spikes that cover the entire area of the piercing’s slot (but are still considered a single item). A creature can only use a number of shadow piercings equal its Constitution modifier plus its Wisdom modifier.
 
-Carefully inserting or removing a shadow piercing takes a full-round action (3 AP) and deals no damage. Alternatively, a shadow piercing may be pulled out of a creature using the steal maneuver as a standard action (1 AP) that deals 1d6 points of damage. Only a creature with the Craft Shadow Piercing feat may create or insert a shadow piercing, but any creature may remove one. Inserting a shadow piercing is impossible unless the target is willing or helpless. After being removed, a shadow piercing may be inserted into another creature by someone with this feat. Since they are treated as magic items, they are affected by *dispel magic*.
+Carefully inserting or removing a shadow piercing takes a full-round action (3 AP) and deals no damage. Alternatively, a shadow piercing may be pulled out of a creature using the steal maneuver as a standard action (1 AP) that deals 1d6 points of damage. Only a creature with the Craft Shadow Piercing feat may create or insert a shadow piercing, but any creature may remove one. Inserting a shadow piercing is impossible unless the target is willing or helpless. After being removed, a shadow piercing may be inserted into another creature by someone with this feat. Since they are treated as magic items, they are affected by [*dispel magic*](../magic/spells/dispel-magic.md).
 
 Shadow piercings follow the rules for magic item creation, except the creator can use the Craft (jewelry) skill instead of Spellcraft. New shadow piercings can be researched and designed using the rules for pricing new magic items. Shadow piercing powers for a specific slot must be thematically similar or linked. Since shadow piercings don’t interfere with other magic items in the same slot, but can only have one piercing per slot, the base price is multiplied by 1.5 instead of doubled as if they had no space limitation.
 
@@ -28,7 +28,7 @@ These piercings come in the form of grotesque spikes and needles that cover ever
 
 **Greater**: The wearer is considered to have +1 armor spikes when not wearing armor or bulky clothing, and is considered proficient with armor spikes.
 
-*Construction* Craft Shadow Piercing, Improved Grapple, *magic weapon*; Cost minor 900 gp, major 1,200 gp, greater 1,600 gp.
+*Construction* Craft Shadow Piercing, Improved Grapple, [*magic weapon*](../magic/spells/magic-weapon.md); Cost minor 900 gp, major 1,200 gp, greater 1,600 gp.
 
 ### Chest Piercings
 
@@ -42,7 +42,7 @@ These excruciating body ornaments come in the form of sharp barbs and serrated r
 
 **Greater**: The wearer gains a +4 profane bonus on saving throws against effects that deal ability damage or drain.
 
-*Construction* Craft Shadow Piercing, *bear’s endurance* (minor and greater), *fox’s cunning* (major); Cost minor 1,100 gp, major 1,875 gp, greater 2,875 gp.
+*Construction* Craft Shadow Piercing, [*bear’s endurance*](../magic/spells/bears-endurance.md) (minor and greater), [*fox’s cunning*](../magic/spells/foxs-cunning.md) (major); Cost minor 1,100 gp, major 1,875 gp, greater 2,875 gp.
 
 ### Eye Piercings
 
@@ -56,7 +56,7 @@ These piercings may penetrate the eyebrow, eyelid, or the eye itself. Due to mag
 
 **Greater**: The wearer gains the see in darkness special ability.
 
-*Construction* Craft Shadow Piercing, *keen senses* (minor), *darkvision* (major and greater); Cost minor 3,000 gp, major 9,000 gp, greater 16,000 gp.
+*Construction* Craft Shadow Piercing, [*keen senses*](../magic/spells/keen-senses.md) (minor), [*darkvision*](../magic/spells/darkvision.md) (major and greater); Cost minor 3,000 gp, major 9,000 gp, greater 16,000 gp.
 
 ### Head Piercings
 
@@ -68,9 +68,9 @@ Whether they are crowns of pins, pinned-back lips, or simple nose rings, these p
 
 **Major**: The wearer gains a +4 profane bonus against mind-affecting effects.
 
-**Greater**: The wearer can use *fear* twice per day (Will DC 16).
+**Greater**: The wearer can use [*fear*](../magic/spells/fear.md) twice per day (Will DC 16).
 
-*Construction* Craft Shadow Piercing, *fear* (minor and greater), *owl’s wisdom* (major); Cost minor 1,875 gp, major 3,000 gp, greater 16,800 gp.
+*Construction* Craft Shadow Piercing, [*fear*](../magic/spells/fear.md) (minor and greater), [*owl’s wisdom*](../magic/spells/owls-wisdom.md) (major); Cost minor 1,875 gp, major 3,000 gp, greater 16,800 gp.
 
 ### Suspension Piercings
 
@@ -78,10 +78,10 @@ Whether they are crowns of pins, pinned-back lips, or simple nose rings, these p
 
 These piercings are popular among suspensionists, who hang from hooks attached to their skin.
 
-**Minor**: The wearer gains *feather fall* as a continuous effect.
+**Minor**: The wearer gains [*feather fall*](../magic/spells/feather-fall.md) as a continuous effect.
 
-**Major**: The wearer may use *levitate* twice per day.
+**Major**: The wearer may use [*levitate*](../magic/spells/levitate.md) twice per day.
 
-**Greater**: The wearer may use *air walk* once per day.
+**Greater**: The wearer may use [*air walk*](../magic/spells/air-walk.md) once per day.
 
-*Construction* Craft Shadow Piercing, *feather fall* (minor), *levitate* (major), *air walk* (greater); Cost minor 3,000 gp, major 3,600 gp, greater 5,600 gp.
+*Construction* Craft Shadow Piercing, [*feather fall*](../magic/spells/feather-fall.md) (minor), [*levitate*](../magic/spells/levitate.md) (major), [*air walk*](../magic/spells/air-walk.md) (greater); Cost minor 3,000 gp, major 3,600 gp, greater 5,600 gp.

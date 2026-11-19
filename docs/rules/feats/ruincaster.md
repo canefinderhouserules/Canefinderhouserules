@@ -8,7 +8,7 @@ You possess a deep, mystical connection to the various ruins scattered around th
 
 Southern jungle ruins possess varying degrees of power described by a power level, typically 1 to 5. As a move action (1 AP), you may tap into a ruin’s spiritual energies for 1 round with a DC 10 Concentration check. Failure leaves you [fatigued](../appendices/conditions.md#fatigued) (or [exhausted](../appendices/conditions.md#exhausted), if already fatigued; or [unconscious](../appendices/conditions.md#unconscious), if already exhausted). The DC increases by 5 for each power level beyond 1. You may tap the spiritual energies of a ruin in one of three ways.
 
-*Harm*: Whenever you cast a spell that deals hit point damage, the spell deals additional damage equal to the ruin’s power level.
+[*Harm*](../../magic/spells/harm.md): Whenever you cast a spell that deals hit point damage, the spell deals additional damage equal to the ruin’s power level.
 
 *Increase*: The DC to resist a spell you cast increases by the ruin’s power level.
 

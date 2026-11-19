@@ -88,7 +88,7 @@ You can fire one ray per round that dazes one living creature for 1d3 rounds.
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You gain a +4 enhancement bonus to Charisma. All creatures with fewer than 8 HD are compelled to stop and pay attention to you. Any such creature that wants to take hostile action against you must make a Will save to do so. Any creature that fails this saving throw the first time it attempts a hostile action is enthralled for the duration of the spell (as the *enthrall* spell), as long as it is in the spell’s area. It does not try to leave the area on its own. Creatures with 8 HD or more are not affected.
+You gain a +4 enhancement bonus to Charisma. All creatures with fewer than 8 HD are compelled to stop and pay attention to you. Any such creature that wants to take hostile action against you must make a Will save to do so. Any creature that fails this saving throw the first time it attempts a hostile action is enthralled for the duration of the spell (as the [*enthrall*](spells/enthrall.md) spell), as long as it is in the spell’s area. It does not try to leave the area on its own. Creatures with 8 HD or more are not affected.
 
 When you speak, all listeners telepathically understand you. You can make up to three *suggestions* to creatures of fewer than 8 HD in range, as if using the* mass suggestion* spell (Will save negates). Only creatures within range at the time of a* suggestion* are subject to it.
 
@@ -114,9 +114,9 @@ When you speak, all listeners telepathically understand you. You can make up to 
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target is cursed, gaining the bane of the caster’s fey race (see below for details on each specific fey race’s bane and duration). A creature that succeeds at its saving throw is immune to further castings of *fey blight* from the same type of fey for 24 hours.* Fey blight* cannot be dispelled, but effects that remove curses function against it.
+The target is cursed, gaining the bane of the caster’s fey race (see below for details on each specific fey race’s bane and duration). A creature that succeeds at its saving throw is immune to further castings of [*fey blight*](spells/fey-blight.md) from the same type of fey for 24 hours.* Fey blight* cannot be dispelled, but effects that remove curses function against it.
 
-Attempts to identify *fey blight* with a skill check incorrectly identify it as* fey boon*.
+Attempts to identify [*fey blight*](spells/fey-blight.md) with a skill check incorrectly identify it as* fey boon*.
 
 ## Genesis
 
@@ -234,6 +234,6 @@ You create a completely real, nonmagical, unattended object of any sort of matte
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-As *status*, but you can also cast a limited selection of spells through the link, as if you were touching the target. You can cast any spell that meets all of the following conditions:
+As [*status*](spells/status.md), but you can also cast a limited selection of spells through the link, as if you were touching the target. You can cast any spell that meets all of the following conditions:
 
 **Level** 0, 1st, or 2nd; **Range** touch; **Target** creature touched; **Saving Throw** harmless

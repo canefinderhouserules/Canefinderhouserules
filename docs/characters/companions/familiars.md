@@ -169,9 +169,9 @@ Witches’ familiars are often tied to their patrons, enhancing and reinforcing 
 
 **Agility—Supernatural Speed (Su)**: The familiar is incredibly fast for its type. It gains an enhancement bonus of +10 feet to each of its movement speeds. This bonus increases to +20 feet at 10th level, and to +30 feet at 20th level.
 
-**Animals—Animal Speaker (Su)**: The familiar gains the ability to speak with animals of its kind at 1st level. If it would normally gain this ability at 7th level, the familiar gains the ability to speak with all animals (as though constantly under the effects of *speak with animals*) at 7th level.
+**Animals—Animal Speaker (Su)**: The familiar gains the ability to speak with animals of its kind at 1st level. If it would normally gain this ability at 7th level, the familiar gains the ability to speak with all animals (as though constantly under the effects of [*speak with animals*](../../magic/spells/speak-with-animals.md)) at 7th level.
 
-**Deception—Distracting (Su and Sp)**: The familiar gains [Bluff](../../rules/skills/bluff.md) and Sense Motive as class skills. At 10th level, the familiar can throw its voice at will, as if using *ventriloquism*.
+**Deception—Distracting (Su and Sp)**: The familiar gains [Bluff](../../rules/skills/bluff.md) and Sense Motive as class skills. At 10th level, the familiar can throw its voice at will, as if using [*ventriloquism*](../../magic/spells/ventriloquism.md).
 
 **Elements—Elemental Touch (Su)**: Choose an energy type: acid, cold, electricity, or fire. The familiar gains resistance 5 to the selected energy type. Whenever the familiar delivers a touch spell that deals energy damage, it can change the type of energy damage dealt to the selected energy type.
 
@@ -179,7 +179,7 @@ Witches’ familiars are often tied to their patrons, enhancing and reinforcing 
 
 **Plague—Diseased Touch (Ex)**: Once per day, the familiar can inflict filth fever with its natural attacks for 1 round. At 10th level, the familiar can inflict red ache instead. At 20th level, it can inflict demon fever instead. The familiar may be able to inflict other injury diseases instead at the GM’s discretion.
 
-**Shadow—Fearsome Shadows (Sp)**: Once per day, the familiar can use *cause fear* as a spell-like ability as long as it is in an area of normal or dim light, affecting a single living creature with a number of Hit Dice up to the familiar’s Intelligence score. Thus, creatures normally immune to *cause fear* because they have 6 or more Hit Dice may not be immune to the familiar’s *cause fear* spell-like ability.
+**Shadow—Fearsome Shadows (Sp)**: Once per day, the familiar can use [*cause fear*](../../magic/spells/cause-fear.md) as a spell-like ability as long as it is in an area of normal or dim light, affecting a single living creature with a number of Hit Dice up to the familiar’s Intelligence score. Thus, creatures normally immune to *cause fear* because they have 6 or more Hit Dice may not be immune to the familiar’s *cause fear* spell-like ability.
 
 **Strength—Strength of Mind (Su)**: A number of times per day equal to its master’s Intelligence modifier (minimum once per day), the familiar can swap its Strength and Intelligence scores as a standard action (1 AP). This effect lasts for a number of rounds equal to 1/2 the master’s caster level.
 
@@ -187,7 +187,7 @@ Witches’ familiars are often tied to their patrons, enhancing and reinforcing 
 
 **Trickery—Familiar’s Illusions (Sp)**: The familiar has a mischievous predilection toward simple illusions. Once per day, the familiar can use a 0-level illusion spell on its master’s spell list as a spell-like ability. At 10th level, it can also use a 1st-level illusion spell on its master’s spell list once per day. At 20th level, it can also use a 2nd-level illusion spell on its master’s spell list once per day.
 
-**Water—Amphibious Familiar (Su)**: The familiar can breathe water for a number of minutes per day equal to 1/2 its master’s witch level. These minutes need not be consecutive, but they must be spent in 1-minute intervals. If the familiar can already breathe water, it can breathe air for the same duration. At 10th level, the familiar gains a swim speed of 30 feet (or a land speed of 30 feet if it already has a swim speed) while using this ability. At 20th level, the familiar can move through water as though under the effects of *freedom of movement* while using this ability.
+**Water—Amphibious Familiar (Su)**: The familiar can breathe water for a number of minutes per day equal to 1/2 its master’s witch level. These minutes need not be consecutive, but they must be spent in 1-minute intervals. If the familiar can already breathe water, it can breathe air for the same duration. At 10th level, the familiar gains a swim speed of 30 feet (or a land speed of 30 feet if it already has a swim speed) while using this ability. At 20th level, the familiar can move through water as though under the effects of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) while using this ability.
 
 **Wisdom—Preternatural Wisdom (Su)**: The familiar gains a Wisdom score of 6. This score increases by 1 point at 3rd level and every 2 levels thereafter (at the same rate as its Intelligence score). This may cause a familiar whose Wisdom score is typically higher than 6 to start with a lower Wisdom score than normal.
 
@@ -249,4 +249,4 @@ With your Game Master’s approval, the statistics of an existing familiar can b
 
 - **Device Guru**: If you have enough ranks in [Use Magic Device](../../rules/skills/use-magic-device.md), or choose magic items that don’t require such checks, your familiar can activate a wide variety of magic items for you. As long as the familiar can speak (like most improved familiars and a few birds) and hold or wear the item as necessary, it can activate command word items and attempt the necessary check to activate a wand, scroll, or staff.
 - **Logistical Helper**: A familiar can retrieve any items it can carry, and can use the aid another action on skill checks (it has all your ranks, after all) and in fights. This is particularly useful with improved familiars that can hold reach weapons and flank with you.
-- **Mini Mage**: A few spells with a range of personal, such as *burning gaze* and *elemental aura*, allow a familiar to serve an interesting combat role.
+- **Mini Mage**: A few spells with a range of personal, such as [*burning gaze*](../../magic/spells/burning-gaze.md) and [*elemental aura*](../../magic/spells/elemental-aura.md), allow a familiar to serve an interesting combat role.

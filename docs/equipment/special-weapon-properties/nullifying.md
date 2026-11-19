@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *nullifying* weapon 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *antimagic field*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*antimagic field*](../../magic/spells/antimagic-field.md); **Price** —

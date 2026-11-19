@@ -230,7 +230,7 @@ The automaton’s slam attacks deal 1d4 bleed damage, +1 per 3 Hit Dice. In addi
 
 ### Nanites
 
-The automaton gains the ability to disassemble itself into a cloud of microscopic fragments that move together. This functions as the *gaseous form* spell, except that it is non- magical in nature, the automaton keeps any damage reduction it may have, and it lasts for 10 minutes. The automaton may enter its cloud form as a standard action (1 AP) and leave it as a free action on its turn. Once it has returned to its normal form it may not enter its cloud form for 1 hour.
+The automaton gains the ability to disassemble itself into a cloud of microscopic fragments that move together. This functions as the [*gaseous form*](../../../magic/spells/gaseous-form.md) spell, except that it is non- magical in nature, the automaton keeps any damage reduction it may have, and it lasts for 10 minutes. The automaton may enter its cloud form as a standard action (1 AP) and leave it as a free action on its turn. Once it has returned to its normal form it may not enter its cloud form for 1 hour.
 
 *Customization benefit*: +10 HP
 

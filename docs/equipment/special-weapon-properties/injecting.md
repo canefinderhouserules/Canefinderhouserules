@@ -11,4 +11,4 @@
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *delay poison*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*delay poison*](../../magic/spells/delay-poison.md); **Price** —

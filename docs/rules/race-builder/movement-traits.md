@@ -18,7 +18,7 @@ The following racial traits augment a race’s ability to move about the world.
 
 **Gliding Wings (3 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race take no damage from falling (as if subject to a constant nonmagical *feather fall* spell). While in midair, members of this race can move up to 5 feet in any horizontal direction for every 1 foot they fall, at a speed of 60 feet per round. A member of a race with gliding wings cannot gain height with these wings alone; it merely coasts in other directions as it falls. If subjected to a strong wind or any other effect that causes a creature with gliding wings to rise, it can take advantage of the updraft to increase the distance it can glide.
+*Benefit*: Members of this race take no damage from falling (as if subject to a constant nonmagical [*feather fall*](../../magic/spells/feather-fall.md) spell). While in midair, members of this race can move up to 5 feet in any horizontal direction for every 1 foot they fall, at a speed of 60 feet per round. A member of a race with gliding wings cannot gain height with these wings alone; it merely coasts in other directions as it falls. If subjected to a strong wind or any other effect that causes a creature with gliding wings to rise, it can take advantage of the updraft to increase the distance it can glide.
 
 **Jumper (2 RP)**  
 *Prerequisite*: The race has at least a +2 racial bonus to Dexterity  

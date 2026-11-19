@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. After an attack with t
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *good hope*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*good hope*](../../magic/spells/good-hope.md); **Price** —

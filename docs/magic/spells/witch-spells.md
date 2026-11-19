@@ -255,7 +255,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Destabilize Powder](destabilize-powder.md)**: Ammunition in the targeted firearm is prone to misfire.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
@@ -300,7 +300,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Harmless Form](harmless-form.md)**: Turns a companion into an unobtrusive animal.
 - **[Haunting Mists](haunting-mists.md)**: Creatures are shaken and take Wis damage.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
-- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
+- **[Hold Fey](hold-fey.md)**: As [*hold person*](hold-person.md), but affects a fey.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
@@ -491,7 +491,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Garrulous Grin](garrulous-grin.md)**: Target seems guilty and takes –4 on Bluff and Diplomacy.
-- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
+- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As [*see invisibility*](see-invisibility.md), but cannot be made permanent.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Glyph of Warding](glyph-of-warding.md)**: Inscription harms those who pass it.
 - **[Golden Guise](golden-guise.md)**: Turns an object into gold temporarily.
@@ -528,7 +528,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseates and/or sickens weak creatures.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
-- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain [*rage*](rage.md) the next time you fight a chosen enemy.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Mark and Recall](mark-and-recall.md)**: Mark a place, then cast again to teleport back to it (100 miles/level).
 - **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
@@ -679,7 +679,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Death Knell Aura](death-knell-aura.md)**: Aura kills dying creatures nearby
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Debilitating Portent](debilitating-portent.md)**: Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell.
-- **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
+- **[Demanding Message](demanding-message.md)**: Send messages as per [*message*](message.md) with a [*suggestion*](suggestion.md) for one creature.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping.
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Discern Lies](discern-lies.md)**: Reveals deliberate falsehoods.
@@ -712,15 +712,15 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
-- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
-- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As [*infernal healing*](infernal-healing.md), but fast healing 4.
 - **[Inflict Serious Wounds](inflict-serious-wounds.md)**: Touch attack, 3d8 damage + 1/level (max +15).
-- **[Infuse Decay](infuse-decay.md)**: As *imbue with spell ability*, on undead and with touch spells only.
+- **[Infuse Decay](infuse-decay.md)**: As [*imbue with spell ability*](imbue-with-spell-ability.md), on undead and with touch spells only.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
@@ -817,7 +817,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
-- **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
+- **[Charm Person, Mass](charm-person-mass.md)**: As [*charm person*](charm-person.md), but affects multiple creatures within 30 ft.
 - **[Charnel House](charnel-house.md)**: Create an area of semi-real gore.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cloudkill](cloudkill.md)**: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
@@ -850,7 +850,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Feeblemind](feeblemind.md)**: Subject's Int and Cha drop to 1.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Ghoul Army](ghoul-army.md)**: Ghouls and a ghast rise to fight for you and explode.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Guardian Monument, Greater](guardian-monument-greater.md)**: Humans defending the area gain DR 4/magic.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
@@ -870,11 +870,11 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
-- **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
+- **[Peacebond, Greater](peacebond-greater.md)**: As [*peacebond*](peacebond.md), but on multiple weapons, even if they aren’t sheathed.
 - **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Plague Carrier](plague-carrier.md)**: Target’s attacks carry filth fever.
-- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Poisonous Balm](poisonous-balm.md)**: As [*cure serious wounds*](cure-serious-wounds.md), but leave behind a latent venom.
 - **[Possess Object](possess-object.md)**: Possess and animate one object.
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Possession Trap](possession-trap.md)**: Trap would-be possessors in a gem
@@ -907,7 +907,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Summon Monster 5](summon-monster-5.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
-- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As [*sun’s disdain*](suns-disdain.md), on multiple creatures.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.
@@ -986,7 +986,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Plague Storm](plague-storm.md)**: Cloud infects creatures like contagion.
-- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than [*divination*](divination.md).
 - **[Raise Dead](raise-dead.md)**: Restores life to subject who died as long as one day/level ago.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
@@ -1015,7 +1015,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Transfer Familiar](transfer-familiar.md)**: Temporarily give control of your familiar to another creature.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
-- **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
+- **[Treacherous Teleport](treacherous-teleport.md)**: As [*teleport*](teleport.md), except you choose some creatures to suffer a mishap or go elsewhere.
 - **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Unconscious Agenda](unconscious-agenda.md)**: Plant a subconscious directive in the target’s mind.
 - **[Undeath Ward](undeath-ward.md)**: A silver barrier keeps out undead with fewer Hit Dice than your caster level.
@@ -1040,7 +1040,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
 - **[Create Demiplane, Lesser](create-demiplane-lesser.md)**: Create your own demiplane.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
-- **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
+- **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per [*message*](message.md) with one [*suggestion*](suggestion.md) for each creature.
 - **[Dimensional Bounce](dimensional-bounce.md)**: Teleport multiple times between two designated locations.
 - **[Expel Blood](expel-blood.md)**: Forces a foe’s blood into a hostile fiendish water elemental.
 - **[Fairy Ring Retreat](fairy-ring-retreat.md)**: Toadstool circle leads to an extradimensional meadow.
@@ -1050,7 +1050,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
 - **[Hold Person, Mass](hold-person-mass.md)**: As
-- **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Hunger for Flesh, Mass](hunger-for-flesh-mass.md)**: Give creatures bite attacks and a hunger for their own kind’s flesh.
 - **[Ice Body](ice-body.md)**: Your body becomes living ice.
@@ -1067,7 +1067,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Nature’s Ravages, Greater](natures-ravages-greater.md)**: As nature’s ravages, aging a corpse by years.
-- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
+- **[Nightmare Vision](nightmare-vision.md)**: As [*nightmare*](nightmare.md), and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Phase Door](phase-door.md)**: Creates an invisible passage through a barrier.
@@ -1081,7 +1081,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Recorporeal Incarnation](recorporeal-incarnation.md)**: Wear a corpse’s flesh to gain its appearance.
 - **[Regenerate](regenerate.md)**: Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
-- **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
+- **[Reincarnate Spy](reincarnate-spy.md)**: As [*reincarnate*](reincarnate.md), but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Scouring Winds](scouring-winds.md)**: Winds block vision and deal 3d6 damage per round.
 - **[Scrying, Greater](scrying-greater.md)**: As
 - **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
@@ -1123,7 +1123,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Heart of the Mammoth](heart-of-the-mammoth.md)**: +8 Str/Con, fear immunity, wider crit range against dragons.
 - **[Horrid Wilting](horrid-wilting.md)**: Deals 1d6/level damage within 30 ft.
 - **[Inflict Serious Wounds, Mass](inflict-serious-wounds-mass.md)**: Deals 3d8 damage + 1/level, affects 1 subject/level.
-- **[Instant Summons, Greater](instant-summons-greater.md)**: As *instant summons*, but for multiple objects and creatures.
+- **[Instant Summons, Greater](instant-summons-greater.md)**: As [*instant summons*](instant-summons.md), but for multiple objects and creatures.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Maze](maze.md)**: Traps subject in extradimensional maze.
 - **[Mind Blank](mind-blank.md)**: Subject is protected from mental/emotional magic and scrying.

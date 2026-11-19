@@ -11,4 +11,4 @@ This ability can only be placed on a melee weapon. A weapon with the *pitfall* q
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, Improved Initiative, *cat's grace*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Improved Initiative, [*cat's grace*](../../magic/spells/cats-grace.md); **Price** —

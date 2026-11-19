@@ -28,7 +28,7 @@ Humans whose ancestry includes beings of elemental fire such as efreet, ifrits a
 
 **Darkvision**: Ifrits can see in the dark up to 60 feet.
 
-**Spell-Like Ability**: *Burning hands* 1/day (caster level equals the ifrit’s level).
+**Spell-Like Ability**: [*Burning hands*](../../magic/spells/burning-hands.md) 1/day (caster level equals the ifrit’s level).
 
 **Energy Resistance**: Ifrits have fire resistance 5.
 

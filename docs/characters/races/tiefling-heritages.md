@@ -99,7 +99,7 @@ An innate sense of jealousy and pure malice drives spitespawn to spread misery a
 - **Ancestry**: Kyton. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Constitution, +2 Charisma, –2 Wisdom.
 - **Skill Modifiers**: +2 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) and Intimidate checks.
-- **Spell-Like Ability**: *web* 1/day.
+- **Spell-Like Ability**: [*web*](../../magic/spells/web.md) 1/day.
 
 Shackleborn are [fascinated](../../rules/appendices/conditions.md#fascinated) by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity. Like their kyton ancestors, they possess a reckless cruelty that makes them truly terrifying when they get the upper hand in a dispute. They embrace agony as an essential truth, seldom kill an opponent if given a chance to capture one alive, and rarely go anywhere without tools to bind and torture victims. Shackleborn are often born with their skin already mutilated, a garish embroidery of white and purple scars covering their flesh, and many add to their collection as they age through branding, piercing, and tattooing.
 
@@ -162,12 +162,12 @@ The abilities presented here replace a tiefling's spell-like ability racial trai
 
 | d% | Ability |
 |---|---|
-| 1 | You can animate a 1 HD skeleton, as per *animate dead*, once per day as a spell-like ability. |
+| 1 | You can animate a 1 HD skeleton, as per [*animate dead*](../../magic/spells/animate-dead.md), once per day as a spell-like ability. |
 | 2 | You possess some type of extrasensory organ, granting you all-around vision. |
 | 3 | You enjoy being cut. The first time each day you take slashing damage, you gain a +1 bonus on attack and damage rolls for the following round. |
-| 4 | You can use *mage hand* three times per day as a spell-like ability. |
+| 4 | You can use [*mage hand*](../../magic/spells/mage-hand.md) three times per day as a spell-like ability. |
 | 5 | Inherited memories grant you a +2 racial bonus on one Knowledge skill of your choice. |
-| 6 | You can levitate yourself plus 10 pounds at will, as per the spell *levitate*. This is a supernatural ability. |
+| 6 | You can levitate yourself plus 10 pounds at will, as per the spell [*levitate*](../../magic/spells/levitate.md). This is a supernatural ability. |
 | 7 | You can eat and gain nourishment from ash, cinders, dust, and sand. |
 | 8 | You gain a +1 bonus on all attack and damage rolls against good-aligned outsiders. |
 | 9 | You gain an additional +2 racial bonus to your Charisma score. |
@@ -183,7 +183,7 @@ The abilities presented here replace a tiefling's spell-like ability racial trai
 | 19 | You gain a swim speed of 30 feet. |
 | 20 | You gain a +2 racial bonus on combat maneuver checks. |
 | 21 | You possess fiendish luck. Once per day, you can reroll one die roll. You must take the result of this second roll. |
-| 22 | You can use *detect evil*, as per the spell, three times per day. |
+| 22 | You can use [*detect evil*](../../magic/spells/detect-evil.md), as per the spell, three times per day. |
 | 23 | You never need to drink to survive. |
 | 24 | Once per day, you can produce a sharp barb from your body. This barb is removable and is treated as a dagger. |
 | 25 | You gain acid resistance 5. |
@@ -198,17 +198,17 @@ The abilities presented here replace a tiefling's spell-like ability racial trai
 | 34 | You do not lose consciousness until you are reduced to –5 hit points. |
 | 35 | You possess long limbs and a powerful grip, features that grant you a +2 racial bonus on all Climb checks. |
 | 36 | You can communicate telepathically with any sentient creature with which you are in contact. |
-| 37 | Once per day, you can use *death knell* as a spell-like ability. |
+| 37 | Once per day, you can use [*death knell*](../../magic/spells/death-knell.md) as a spell-like ability. |
 | 38 | At will, you can spend a full-round action concentrating to receive the benefits of tremorsense 60 feet for 1 round. |
 | 39 | Once per day, you can move at double your normal speed for 1 round. |
 | 40 | As a full-round action, you can bleed and collect 5 sp worth of precious blood per day. |
 | 41 | You possess spell resistance equal to 10 + 1/2 your Hit Dice. |
-| 42 | The spell *animate dead* can return you to life as per the spell *raise dead* 1d4 times. |
+| 42 | The spell [*animate dead*](../../magic/spells/animate-dead.md) can return you to life as per the spell [*raise dead*](../../magic/spells/raise-dead.md) 1d4 times. |
 | 43 | Your fiendish sorcery ability treats your Charisma score as if it were 3 points higher instead of 2. |
 | 44 | You are unusually short, granting you all the standard traits of a Small creature. |
 | 45 | Your features are subtly malleable, granting you a +2 racial bonus on all Disguise checks. |
 | 46 | You gain an additional +2 racial bonus to your Intelligence score. |
-| 47 | You can use *curse water* three times per day as a spell-like ability. |
+| 47 | You can use [*curse water*](../../magic/spells/curse-water.md) three times per day as a spell-like ability. |
 | 48 | You are invisible to all unintelligent undead. This is a supernatural ability. |
 | 49 | You are healed by both positive and negative channeled energy. |
 | 50 | Your skin is unnaturally tough, granting you a +1 natural bonus to your AC. |
@@ -223,18 +223,18 @@ The abilities presented here replace a tiefling's spell-like ability racial trai
 | 59 | You gain a +1 bonus on all Will saving throws. |
 | 60 | You gain a +2 bonus on initiative checks at night. |
 | 61 | You can manipulate any armor, gauntlets, or shield you wield, causing them to grow spikes. These spikes last only as long as you wear your armor. |
-| 62 | You can use *deathwatch* three times per day as a spell-like ability. |
+| 62 | You can use [*deathwatch*](../../magic/spells/deathwatch.md) three times per day as a spell-like ability. |
 | 63 | You have some manner of inhuman sensory organ. You gain a +2 bonus on saving throws against all gaze attacks. |
 | 64 | Once per day, for 1 round, you may see through any substance less than 5 feet thick—except for lead—as if it were glass. This is a supernatural ability. |
 | 65 | Your strange physiology grants you a +2 racial bonus on all Acrobatics checks. |
 | 66 | You can drink and gain nourishment from ash, cinders, dust, and sand. |
 | 67 | Your eyes glow fiendishly and you possess the see in darkness ability as if you were a devil. |
 | 68 | You gain damage reduction 2/cold iron. |
-| 69 | Once per day, you can use *fog cloud* as a spell-like ability. |
+| 69 | Once per day, you can use [*fog cloud*](../../magic/spells/fog-cloud.md) as a spell-like ability. |
 | 70 | You are aware of and can choose the result of any attempt to detect your alignment. |
 | 71 | Once per day, you can spend a full-round action eating from a corpse to regain 1d6+1 hit points. |
 | 72 | You can communicate telepathically with any evil creature within 50 feet. |
-| 73 | You can use *minor image* three times per day as a spell-like ability. |
+| 73 | You can use [*minor image*](../../magic/spells/minor-image.md) three times per day as a spell-like ability. |
 | 74 | Once per day, as a spell-like ability, you can animate a Small or smaller object for a number of rounds equal to your level. Treat this object as an animated object. |
 | 75 | You gain sonic resistance 5. |
 | 76 | You can hold your breath for 3 rounds longer than normal. |
@@ -242,7 +242,7 @@ The abilities presented here replace a tiefling's spell-like ability racial trai
 | 78 | Your skin is spiky. Any creature that attempts to grapple you takes 1d4 points of damage. |
 | 79 | You receive a +1 bonus on all Fortitude saving throws. |
 | 80 | You gain a +2 bonus to your CMD. |
-| 81 | Once per day, you can use *rage* on yourself as a spell-like ability. |
+| 81 | Once per day, you can use [*rage*](../../magic/spells/rage.md) on yourself as a spell-like ability. |
 | 82 | You gain a +2 bonus on saving throws against mind-affecting effects. |
 | 83 | Once per day, exposure to fire heals you of 1d6 points of damage. This ability does not negate fire damage. |
 | 84 | You are immune to magic sleep and paralysis effects. |
@@ -250,17 +250,17 @@ The abilities presented here replace a tiefling's spell-like ability racial trai
 | 86 | Your anatomy is slightly unusual, giving you a 15% chance to ignore critical hits made against you. |
 | 87 | You can survive on one-quarter the amount of food and water a human requires. |
 | 88 | Any damage you deal with a melee weapon is treated as evil for the purposes of overcoming damage reduction. |
-| 89 | Once per day, you can use *inflict light wounds* as a spell-like ability. |
+| 89 | Once per day, you can use [*inflict light wounds*](../../magic/spells/inflict-light-wounds.md) as a spell-like ability. |
 | 90 | You gain an additional +2 racial bonus to your Wisdom score. |
 | 91 | You gain DR 2/slashing. |
 | 92 | You can see creatures on the Ethereal Plane. |
-| 93 | Once per day, you may ask a corpse one yes-or-no question, as per the spell *speak with dead*. This is a spell-like ability. |
+| 93 | Once per day, you may ask a corpse one yes-or-no question, as per the spell [*speak with dead*](../../magic/spells/speak-with-dead.md). This is a spell-like ability. |
 | 94 | You gain a +2 bonus on saving throws against nausea. |
 | 95 | You are flexible and slightly slimy, and thus gain a +2 racial bonus on all Escape Artist checks. |
-| 96 | You can use *ventriloquism* at will as a spell-like ability. |
+| 96 | You can use [*ventriloquism*](../../magic/spells/ventriloquism.md) at will as a spell-like ability. |
 | 97 | Once per day as a standard action, you may suppress your unusual tiefling physical features for a number of minutes equal to your Con modifier, thus appearing human. |
 | 98 | You receive +1 bonus hit point per level. |
-| 99 | Once per week, you may mentally contact a fiendish ancestor to gain information, as per the spell *commune*. This is a spell-like ability. |
+| 99 | Once per week, you may mentally contact a fiendish ancestor to gain information, as per the spell [*commune*](../../magic/spells/commune.md). This is a spell-like ability. |
 | 100 | Roll on this table twice, ignoring any further rolls of 100. |
 
 ## Random Tiefling Features

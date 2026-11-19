@@ -18,7 +18,7 @@ An inactive apparatus appears as a large sealed iron barrel big enough to hold t
 | 5 | Manipulate tentacles |
 | 6 | Move forward/backward |
 | 7 | Turn left/right |
-| 8 | Open/close "eyes" with *continual flame* inside |
+| 8 | Open/close "eyes" with [*continual flame*](../magic/spells/continual-flame.md) inside |
 | 9 | Rise/sink in water |
 | 10 | Open/close hatch |
 
@@ -26,7 +26,7 @@ With tentacles extended, it looks like a giant octopus. Its eight tentacles mani
 
 When active: hp 100; hardness 5; Speed 5 ft., swim 40 ft.; AC 16 (+7 natural, –1 size); CMB +10; CMD 20.
 
-*Construction* Cost 10,000 gp; Craft Wondrous Item, *animate objects*, *continual flame*, creator must have 8 ranks in Knowledge (engineering)
+*Construction* Cost 10,000 gp; Craft Wondrous Item, [*animate objects*](../magic/spells/animate-objects.md), [*continual flame*](../magic/spells/continual-flame.md), creator must have 8 ranks in Knowledge (engineering)
 
 ## Aquadynamic (Armor Special Ability)
 
@@ -34,7 +34,7 @@ When active: hp 100; hardness 5; Speed 5 ft., swim 40 ft.; AC 16 (+7 natural, �
 
 Magically streamlined armor that assists swimming. Aquadynamic grants a +5 competence bonus on Swim checks (price +3,750 gp); improved aquadynamic +10 (price +15,000 gp); greater aquadynamic +15 (price +33,750 gp).
 
-*Construction* Cost 1,875 gp / 7,500 gp / 16,875 gp; Craft Magic Arms and Armor, *freedom of movement*
+*Construction* Cost 1,875 gp / 7,500 gp / 16,875 gp; Craft Magic Arms and Armor, [*freedom of movement*](../magic/spells/freedom-of-movement.md)
 
 ## Bag of Tricks, Aquamarine
 
@@ -50,7 +50,7 @@ As a *bag of tricks*, containing the following animals:
 | 81–90 | Octopus |
 | 91–100 | Squid |
 
-*Construction* Cost 2,250 gp; Craft Wondrous Item, *summon nature's ally II*
+*Construction* Cost 2,250 gp; Craft Wondrous Item, [*summon nature's ally II*](../magic/spells/summon-natures-ally-ii.md)
 
 ## Coral Hippocampus
 
@@ -58,15 +58,15 @@ As a *bag of tricks*, containing the following animals:
 
 A *figurine of wondrous power* that, when animated, acts in all ways like a normal combat-trained hippocampus. It can be used three times per week for up to 12 hours per use, returning to a tiny statuette after 12 hours or when the command word is spoken.
 
-*Construction* Cost 3,000 gp; Craft Wondrous Item, *animate objects*
+*Construction* Cost 3,000 gp; Craft Wondrous Item, [*animate objects*](../magic/spells/animate-objects.md)
 
 ## Elixir of Two Worlds
 
 **Aura** strong transmutation; **CL** 15th; **Slot** none; **Price** 5,000 gp; **Weight** ½ lb.
 
-When a drinker willingly imbibes this elixir underwater, it instantly transforms either a humanoid-shaped land dweller or a merfolk-shaped sea dweller. A land dweller's legs become a tail fin (land speed 5 feet, swim speed 40 feet) and he gains the aquatic subtype; a sea dweller's tail fin becomes legs (land speed 30 feet, no swim speed) and he loses the aquatic subtype. Because it must be imbibed underwater, a potion sponge or potion sureseal bladder is required; *alchemical allocation* cannot be used with it. Only *miracle*, *wish*, similar magic, or another elixir of two worlds reverses the effect.
+When a drinker willingly imbibes this elixir underwater, it instantly transforms either a humanoid-shaped land dweller or a merfolk-shaped sea dweller. A land dweller's legs become a tail fin (land speed 5 feet, swim speed 40 feet) and he gains the aquatic subtype; a sea dweller's tail fin becomes legs (land speed 30 feet, no swim speed) and he loses the aquatic subtype. Because it must be imbibed underwater, a potion sponge or potion sureseal bladder is required; [*alchemical allocation*](../magic/spells/alchemical-allocation.md) cannot be used with it. Only [*miracle*](../magic/spells/miracle.md), [*wish*](../magic/spells/wish.md), similar magic, or another elixir of two worlds reverses the effect.
 
-*Construction* Cost 2,500 gp; Craft Wondrous Item, *fins to feet*, *polymorph any object*
+*Construction* Cost 2,500 gp; Craft Wondrous Item, [*fins to feet*](../magic/spells/fins-to-feet.md), [*polymorph any object*](../magic/spells/polymorph-any-object.md)
 
 ## Murky Metamagic Rod
 
@@ -80,15 +80,15 @@ The wielder can transform mist and fog spells into murky sediment underwater up 
 | Normal | 5,500 gp | 2,750 gp |
 | Greater | 12,250 gp | 6,125 gp |
 
-*Construction* Craft Magic Arms and Armor, *freedom of movement*
+*Construction* Craft Magic Arms and Armor, [*freedom of movement*](../magic/spells/freedom-of-movement.md)
 
 ## Staff of Waves
 
 **Aura** strong necromancy; **CL** 13th; **Slot** none; **Price** 90,300 gp; **Weight** 5 lbs.
 
-A staff of entwined coral topped with a brilliant sapphire. It functions as a +1 *quenching* quarterstaff above the waves and a +1 *impact* quarterstaff below, and attacks with it take no penalty for being bludgeoning melee attacks underwater. It allows use of: *hydraulic torrent* (1 charge), *slipstream* (1 charge), *wave form* (2 charges), *ride the waves* (2 charges), *vortex* (3 charges).
+A staff of entwined coral topped with a brilliant sapphire. It functions as a +1 *quenching* quarterstaff above the waves and a +1 *impact* quarterstaff below, and attacks with it take no penalty for being bludgeoning melee attacks underwater. It allows use of: [*hydraulic torrent*](../magic/spells/hydraulic-torrent.md) (1 charge), [*slipstream*](../magic/spells/slipstream.md) (1 charge), [*wave form*](../magic/spells/wave-form.md) (2 charges), [*ride the waves*](../magic/spells/ride-the-waves.md) (2 charges), [*vortex*](../magic/spells/vortex.md) (3 charges).
 
-*Construction* Cost 45,300 gp; Craft Staff, *hydraulic torrent*, *ride the waves*, *slipstream*, *vortex*, *wave form*
+*Construction* Cost 45,300 gp; Craft Staff, [*hydraulic torrent*](../magic/spells/hydraulic-torrent.md), [*ride the waves*](../magic/spells/ride-the-waves.md), [*slipstream*](../magic/spells/slipstream.md), [*vortex*](../magic/spells/vortex.md), [*wave form*](../magic/spells/wave-form.md)
 
 ## Steam Metamagic Rod
 
@@ -102,7 +102,7 @@ The wielder can cast fire spells effortlessly underwater up to three times per d
 | Normal | 5,500 gp | 2,750 gp |
 | Greater | 12,250 gp | 6,125 gp |
 
-*Construction* Craft Magic Arms and Armor, *freedom of movement*
+*Construction* Craft Magic Arms and Armor, [*freedom of movement*](../magic/spells/freedom-of-movement.md)
 
 ## Tidefinder
 
@@ -110,7 +110,7 @@ The wielder can cast fire spells effortlessly underwater up to three times per d
 
 A delicate spherical blood coral compass with a longer outer needle and a shorter inner needle. When activated, the outer needle points toward the nearest tide or current within 1 mile, changing from red to violet to show distance (red within 30 feet, violet almost 1 mile). The inner needle points in the direction of the tide or current, changing from red to violet for speed (red extremely turbulent, up to 200 feet per round; violet less than 5 feet per round).
 
-*Construction* Cost 1,000 gp; Craft Wondrous Item, *locate object*, *slipstream*
+*Construction* Cost 1,000 gp; Craft Wondrous Item, [*locate object*](../magic/spells/locate-object.md), [*slipstream*](../magic/spells/slipstream.md)
 
 ## Traveler's Wet Suit
 
@@ -118,7 +118,7 @@ A delicate spherical blood coral compass with a longer outer needle and a shorte
 
 Protects against environmental cold damage and hypothermia. Anything in its waterproof pockets stays magically separate from surrounding water, even if opened underwater. The wearer also gains a +2 competence bonus on Swim checks.
 
-*Construction* Cost 2,500 gp; Craft Wondrous Item, *endure elements*
+*Construction* Cost 2,500 gp; Craft Wondrous Item, [*endure elements*](../magic/spells/endure-elements.md)
 
 ## Underwater (Weapon Special Ability)
 
@@ -126,4 +126,4 @@ Protects against environmental cold damage and hypothermia. Anything in its wate
 
 Can be placed only on a melee bludgeoning or slashing weapon. Melee attacks with it don't take the usual –2 underwater penalty and deal full damage.
 
-*Construction* Cost +1 bonus; Craft Magic Arms and Armor, *freedom of movement*
+*Construction* Cost +1 bonus; Craft Magic Arms and Armor, [*freedom of movement*](../magic/spells/freedom-of-movement.md)

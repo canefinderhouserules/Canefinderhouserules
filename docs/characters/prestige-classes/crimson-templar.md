@@ -87,7 +87,7 @@ At 7th level, whenever the crimson templar reduces a creature with an evil align
 
 ??? note "Original rule"
 
-    **Immolate (Su)**: At 7th level, whenever the crimson templar reduces a creature with an evil alignment to negative hit points with a sneak attack or coup de grace, the target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it is entirely disintegrated, leaving behind only a trace of fine ash (as per *disintegrate*). If an evil target is reduced to negative hit points from the heavenly fire ability, it receives no saving throw against this effect. This ability has no effect if the target does not have an evil alignment.
+    **Immolate (Su)**: At 7th level, whenever the crimson templar reduces a creature with an evil alignment to negative hit points with a sneak attack or coup de grace, the target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it is entirely disintegrated, leaving behind only a trace of fine ash (as per [*disintegrate*](../../magic/spells/disintegrate.md)). If an evil target is reduced to negative hit points from the heavenly fire ability, it receives no saving throw against this effect. This ability has no effect if the target does not have an evil alignment.
 
 #### Ex-Crimson Templars
 

@@ -11,4 +11,4 @@ A *greater transformative* weapon becomes any other weapon the wielder desires w
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *polymorph any object*; **Price** 7,500 gp
+**Requirements** Craft Magic Arms and Armor, [*polymorph any object*](../../magic/spells/polymorph-any-object.md); **Price** 7,500 gp

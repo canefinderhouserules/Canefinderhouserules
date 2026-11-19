@@ -11,4 +11,4 @@ A *legbreaker* weapon reduces the base land speed of a struck creature by 10 fee
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *touch of gracelessness*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*touch of gracelessness*](../../magic/spells/touch-of-gracelessness.md); **Price** —

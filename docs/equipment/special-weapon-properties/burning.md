@@ -15,4 +15,4 @@ Fire giants often make use of *burning* weapons in their fervid crusades against
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *elemental touch*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*elemental touch*](../../magic/spells/elemental-touch.md); **Price** —

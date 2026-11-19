@@ -11,4 +11,4 @@ This special ability allows a weapon to find chinks in a foe’s defenses using 
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *true strike*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*true strike*](../../magic/spells/true-strike.md); **Price** —

@@ -10,6 +10,6 @@ Your draconic aspect manifests as magical might.
 - **Blue**: [*minor image*](../../magic/spells/minor-image.md), [*shocking grasp*](../../magic/spells/shocking-grasp.md)†.
 - **Green**: [*entangle*](../../magic/spells/entangle.md)†, [*gust of wind*](../../magic/spells/gust-of-wind.md).
 - **Red**: [*burning hands*](../../magic/spells/burning-hands.md)†, [*pyrotechnics*](../../magic/spells/pyrotechnics.md).
-- **White**: *burning hands*† (deals cold damage instead of fire), [*fog cloud*](../../magic/spells/fog-cloud.md).
+- **White**: [*burning hands*](../../magic/spells/burning-hands.md)† (deals cold damage instead of fire), [*fog cloud*](../../magic/spells/fog-cloud.md).
 
 **Special**: You can use this feat instead of [Draconic Breath](draconic-breath.md) or [Draconic Glide](draconic-glide.md) to qualify for the [Draconic Paragon](draconic-paragon.md) feat. If you have this feat and Draconic Paragon, you can use the spell-like ability marked with a dagger (†) twice per day.

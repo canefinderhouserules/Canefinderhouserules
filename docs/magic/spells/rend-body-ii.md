@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Fortitude partial (see text); **Spell Resistance** yes
 
-This spell functions as *rend body I*, but the target takes 1d8 points of damage per caster level you have (maximum 10d8). This spell can be undercast.
+This spell functions as [*rend body I*](rend-body-i.md), but the target takes 1d8 points of damage per caster level you have (maximum 10d8). This spell can be undercast.

@@ -118,7 +118,7 @@ This sponge-sized brick is actually a desiccated chunk of living coral. When exp
 
 This fine white powder is a powerful stimulant that affects the nervous systems of any creatures that inhale or ingest it, preventing them from sleeping for 24 hours. A packet of insomnia powder can be thrown as a splash weapon with a range increment of 10 feet. A creature struck by a direct hit must succeed at a DC 12 Fortitude save to avoid the effect, while those in the splash radius must succeed at DC 8 Fortitude saves. This is a poison effect.
 
-Although it causes no severe damage, insomnia can cause a creature to be more prone to fatigue or exhaustion. Though it prevents sleep (and thus prevents wizards and some other spellcasters from regaining their spells), insomnia powder does not prevent a creature from meditating or praying. The effects of insomnia powder can be countered by *sleep*, *neutralize poison*, or similar effects.
+Although it causes no severe damage, insomnia can cause a creature to be more prone to fatigue or exhaustion. Though it prevents sleep (and thus prevents wizards and some other spellcasters from regaining their spells), insomnia powder does not prevent a creature from meditating or praying. The effects of insomnia powder can be countered by [*sleep*](../magic/spells/sleep.md), [*neutralize poison*](../magic/spells/neutralize-poison.md), or similar effects.
 
 ### Litmus Strip
 

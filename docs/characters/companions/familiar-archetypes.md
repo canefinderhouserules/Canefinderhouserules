@@ -57,7 +57,7 @@ A decoy misdirects its master’s enemies, allowing the master to strike by surp
 
 **Mockingbird (Ex)**: At 5th level, a decoy can speak any of its master’s languages. At 7th level, it can mimic its master’s voice and intonation perfectly. This ability replaces speak with master and speak with animals of its kind.
 
-**Master’s Guise (Sp)**: At 11th level, a decoy can transform into a perfect likeness of its master, as the *alter self* spell. It can hold this form for up to 1 minute per caster level; upon changing back, the decoy must remain in its natural form for an equal amount of time before transforming again. This ability replaces spell resistance.
+**Master’s Guise (Sp)**: At 11th level, a decoy can transform into a perfect likeness of its master, as the [*alter self*](../../magic/spells/alter-self.md) spell. It can hold this form for up to 1 minute per caster level; upon changing back, the decoy must remain in its natural form for an equal amount of time before transforming again. This ability replaces spell resistance.
 
 ## Egotist
 
@@ -163,9 +163,9 @@ Some familiars are messengers of greater powers than themselves. The witch's fam
 
 Most familiars are still something akin to normal animals, conduits for power rather than powers themselves. The parasite is one of the more disturbing exceptions.
 
-**Infest (Su)**: As a full-round action (3 AP), a parasite can infest a willing or [helpless](../../rules/appendices/conditions.md#helpless) target at least two size categories larger than the parasite. This deals 1d6 points of Constitution damage as the parasite burrows through viscera before attaching itself to the target's brain or spinal cord (or equivalent). There, the parasite curls up, with no ability to see or hear anything itself, but with access to its host's senses. Despite the gaping wound, this process is curiously painless. Assuming that the location of the wound and the resultant blood is not obvious (most parasites infest from the back for this reason), the victim must succeed at a Heal or [Sense Motive](../../rules/skills/sense-motive.md) check opposed by the familiar's Bluff check to notice that something is amiss. Removing a parasite requires a successful Heal check opposed by the familiar's [Stealth](../../rules/skills/stealth.md) check, or a successful casting of *break enchantment* against a DC of 11 + the parasite's level. If successful, the parasite is destroyed. The parasite can leave the host willingly as a full-round action (3 AP). If the host is killed, the parasite must succeed at a DC 20 Fortitude save or be killed as well. This replaces improved evasion and share spells.
+**Infest (Su)**: As a full-round action (3 AP), a parasite can infest a willing or [helpless](../../rules/appendices/conditions.md#helpless) target at least two size categories larger than the parasite. This deals 1d6 points of Constitution damage as the parasite burrows through viscera before attaching itself to the target's brain or spinal cord (or equivalent). There, the parasite curls up, with no ability to see or hear anything itself, but with access to its host's senses. Despite the gaping wound, this process is curiously painless. Assuming that the location of the wound and the resultant blood is not obvious (most parasites infest from the back for this reason), the victim must succeed at a Heal or [Sense Motive](../../rules/skills/sense-motive.md) check opposed by the familiar's Bluff check to notice that something is amiss. Removing a parasite requires a successful Heal check opposed by the familiar's [Stealth](../../rules/skills/stealth.md) check, or a successful casting of [*break enchantment*](../../magic/spells/break-enchantment.md) against a DC of 11 + the parasite's level. If successful, the parasite is destroyed. The parasite can leave the host willingly as a full-round action (3 AP). If the host is killed, the parasite must succeed at a DC 20 Fortitude save or be killed as well. This replaces improved evasion and share spells.
 
-**Puppeteer (Sp)**: Beginning at 3rd level, the parasite can attempt to control its host once per day. This functions as *suggestion*. At 7th level, the parasite can use this ability to replicate *dominate person* instead. At 15th level, the parasite can replicate *dominate monster*. The DC for this ability is calculated as if the parasite's master had cast the spell (defaulting to Charisma if the owner has no spellcasting ability).
+**Puppeteer (Sp)**: Beginning at 3rd level, the parasite can attempt to control its host once per day. This functions as [*suggestion*](../../magic/spells/suggestion.md). At 7th level, the parasite can use this ability to replicate [*dominate person*](../../magic/spells/dominate-person.md) instead. At 15th level, the parasite can replicate [*dominate monster*](../../magic/spells/dominate-monster.md). The DC for this ability is calculated as if the parasite's master had cast the spell (defaulting to Charisma if the owner has no spellcasting ability).
 
 ## Pilferer
 
@@ -237,15 +237,15 @@ School familiars are tightly bound to the power of their master’s chosen schoo
 
 An abjurer’s familiar is an invaluable defensive aid.
 
-**Lesser—Energy Block (Su)**: Choose an energy type: acid, cold, electricity, fire, or sonic. The familiar gains energy resistance equal to 1/2 its master’s level (minimum 1) to the chosen energy type and can share this resistance with one ally within 5 feet. As a standard action (1 AP), the familiar’s master can change this energy type. The familiar is immune to *magic missile* as if protected by *shield*.
+**Lesser—Energy Block (Su)**: Choose an energy type: acid, cold, electricity, fire, or sonic. The familiar gains energy resistance equal to 1/2 its master’s level (minimum 1) to the chosen energy type and can share this resistance with one ally within 5 feet. As a standard action (1 AP), the familiar’s master can change this energy type. The familiar is immune to [*magic missile*](../../magic/spells/magic-missile.md) as if protected by [*shield*](../../magic/spells/shield.md).
 
-**Greater—Disruptive Spirit (Su)**: Whenever the familiar hits a creature with a natural attack, that creature is subject to a targeted *dispel magic* effect at the master’s caster level. This ability can’t be used while delivering a touch spell, and can’t affect the same creature more than once in 24 hours.
+**Greater—Disruptive Spirit (Su)**: Whenever the familiar hits a creature with a natural attack, that creature is subject to a targeted [*dispel magic*](../../magic/spells/dispel-magic.md) effect at the master’s caster level. This ability can’t be used while delivering a touch spell, and can’t affect the same creature more than once in 24 hours.
 
 ### Conjuration
 
 Conjurers’ familiars are masters of teleportation that can inhabit the bodies of summoned creatures.
 
-**Lesser—Master’s Side (Sp)**: The familiar can use *dimension door* to return to its master’s side a number of times per day equal to 3 + its Intelligence modifier (minimum once per day).
+**Lesser—Master’s Side (Sp)**: The familiar can use [*dimension door*](../../magic/spells/dimension-door.md) to return to its master’s side a number of times per day equal to 3 + its Intelligence modifier (minimum once per day).
 
 **Greater—Summoned Shell (Sp)**: Whenever the familiar’s master casts a *summon monster* spell, if the familiar is within the spell’s range, it can choose to inhabit the body of one creature summoned by the spell. While inhabiting the body, the familiar maintains its own Intelligence, Wisdom, and Charisma scores and its familiar powers, but otherwise gains the statistics and abilities of the summoned creature. When the spell ends, or the summoned creature’s hit points are reduced to 0, the familiar is expelled without suffering any negative effects.
 
@@ -255,7 +255,7 @@ A diviner’s familiar complements its master’s prescience.
 
 **Lesser—Ever Ready (Su)**: At the start of combat, the familiar and its master each roll initiative separately, and the master can choose to trade his initiative result with his familiar’s. The familiar gains the benefits of the diviner’s forewarned school power and can always act on the surprise round.
 
-**Greater—Greater Scry on Familiar (Sp)**: The master gains the scry on familiar ability (if he doesn’t already possess it), and can use it at will as *greater scrying*.
+**Greater—Greater Scry on Familiar (Sp)**: The master gains the scry on familiar ability (if he doesn’t already possess it), and can use it at will as [*greater scrying*](../../magic/spells/scrying-greater.md).
 
 ### Enchantment
 
@@ -263,7 +263,7 @@ Enchanters’ familiars are devious manipulators capable of aiding in charms and
 
 **Lesser—Manipulative Abettor (Su)**: If the familiar’s master casts an enchantment spell while targeting a creature whose square is also occupied by his familiar, the save DC of the spell is increased by 2.
 
-**Greater—Puppet Master (Su)**: The familiar can strongly influence a creature through physical contact. Once per day, the familiar can make a melee touch attack against a creature and force it to make a Will save (DC = 10 + 1/2 the familiar’s Hit Dice + its Charisma modifier) or be affected as if by *charm monster*. The effect lasts for as long as the familiar remains conscious and within 5 feet of the target (to a maximum of 24 hours). As soon as the effect ends, the freed victim is forever immune to that familiar’s puppet master ability.
+**Greater—Puppet Master (Su)**: The familiar can strongly influence a creature through physical contact. Once per day, the familiar can make a melee touch attack against a creature and force it to make a Will save (DC = 10 + 1/2 the familiar’s Hit Dice + its Charisma modifier) or be affected as if by [*charm monster*](../../magic/spells/charm-monster.md). The effect lasts for as long as the familiar remains conscious and within 5 feet of the target (to a maximum of 24 hours). As soon as the effect ends, the freed victim is forever immune to that familiar’s puppet master ability.
 
 ### Evocation
 
@@ -287,7 +287,7 @@ Necromancers’ familiars are scions of undeath.
 
 **Lesser—Spirit Warden (Su)**: Whenever the familiar successfully uses aid another to aid an attack, that attack deals full damage to incorporeal creatures. When encountering a haunt, the familiar always acts on the surprise round, and can make touch attacks against the haunt that deal 1d6 points of damage per 2 levels its master possesses.
 
-**Greater—One with the Negative (Su)**: The familiar is healed by negative energy as if undead. It is immune to energy drain. It’s constantly affected by *hide from undead*; if it breaks this effect by attacking, it can activate the effect again as a standard action (1 AP). Whenever the familiar hits a living creature with a natural attack, that creature gains 1 negative level. A given creature can receive a negative level from the familiar only once per day.
+**Greater—One with the Negative (Su)**: The familiar is healed by negative energy as if undead. It is immune to energy drain. It’s constantly affected by [*hide from undead*](../../magic/spells/hide-from-undead.md); if it breaks this effect by attacking, it can activate the effect again as a standard action (1 AP). Whenever the familiar hits a living creature with a natural attack, that creature gains 1 negative level. A given creature can receive a negative level from the familiar only once per day.
 
 ### Transmutation
 

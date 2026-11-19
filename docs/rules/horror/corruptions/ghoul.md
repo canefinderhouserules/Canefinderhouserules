@@ -16,13 +16,13 @@ In addition to starvation, close brushes with death also increase your craving f
 
 **Corruption Stage 1**: Once you feed on an innocent sentient creature—either willingly or because you failed a saving throw—your alignment shifts one step toward evil and spells that detect undead sense you, though the peculiar result they return informs the caster that you’re still a living creature. Other spells and effects don’t treat you as undead.
 
-**Corruption Stage 2**: The second time, your alignment shifts another step toward evil and you are affected by spells and abilities as if your creature type were undead (including effects like *bane* and the favored enemy class feature). This doesn’t grant you any of the immunities of being undead, nor does it make you immune to effects that target living creatures or change how negative and positive energy affect you.
+**Corruption Stage 2**: The second time, your alignment shifts another step toward evil and you are affected by spells and abilities as if your creature type were undead (including effects like [*bane*](../../../magic/spells/bane.md) and the favored enemy class feature). This doesn’t grant you any of the immunities of being undead, nor does it make you immune to effects that target living creatures or change how negative and positive energy affect you.
 
 **Corruption Stage 3**: The third time, you become an NPC ghoul under the GM’s control.
 
 ### Removing the Corruption
 
-Getting rid of the ghoul corruption typically requires fasting, isolation from creatures that could incite your hunger, and atoning (as per *atonement*) for the acts that led to the corruption.
+Getting rid of the ghoul corruption typically requires fasting, isolation from creatures that could incite your hunger, and atoning (as per [*atonement*](../../../magic/spells/atonement.md)) for the acts that led to the corruption.
 
 ## Manifestations
 
@@ -120,6 +120,6 @@ Your body exudes a stench of decay.
 
 **Gift**: You exude an aura of decay. Creatures that begin their turns adjacent to you are sickened for 1d6 rounds unless they succeed at a Fortitude save. A creature that succeeds can’t be affected by your stench again for 24 hours. At manifestation level 5th, this aura extends out to 10 feet.
 
-**Stain**: The stench of decay you emit allows creatures with scent to notice you from twice the usual distance, and makes it extremely difficult to disguise yourself. Any living creatures that have a sense of smell have their starting attitudes toward you reduced by one step. Your supernatural scent is not affected by the *negate aroma* spell.
+**Stain**: The stench of decay you emit allows creatures with scent to notice you from twice the usual distance, and makes it extremely difficult to disguise yourself. Any living creatures that have a sense of smell have their starting attitudes toward you reduced by one step. Your supernatural scent is not affected by the [*negate aroma*](../../../magic/spells/negate-aroma.md) spell.
 
 **Special**: Upon taking this manifestation, you must take both the gift and the stain, even with the useful corruption or vile corruption variants.

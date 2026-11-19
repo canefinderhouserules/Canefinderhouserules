@@ -135,7 +135,7 @@ The cyphermage does not provoke attacks of opportunity when retrieving a stored 
 
 ##### Ancient Summoning (Ex)
 
-The cyphermage has learned how to summon strange creatures to his aid when he casts certain *summon monster* spells. He adds sinspawn to the list of monsters he can conjure with *summon monster III*, lamia to the list of monsters he can conjure with *summon monster VI*, and shining child to the list of monsters he can conjure with *summon monster IX*. The cyphermage must be at least 6th level to select this lore.
+The cyphermage has learned how to summon strange creatures to his aid when he casts certain *summon monster* spells. He adds sinspawn to the list of monsters he can conjure with [*summon monster III*](../../magic/spells/summon-monster-iii.md), lamia to the list of monsters he can conjure with [*summon monster VI*](../../magic/spells/summon-monster-vi.md), and shining child to the list of monsters he can conjure with [*summon monster IX*](../../magic/spells/summon-monster-ix.md). The cyphermage must be at least 6th level to select this lore.
 
 #### Aligned Class (Ex)
 

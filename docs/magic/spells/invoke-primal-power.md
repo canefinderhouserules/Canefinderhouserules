@@ -10,7 +10,7 @@
 
 This spell must be cast as you activate wild shape to assume the form of an animal of at least Large size. When you assume the animal form, it takes on many of the primal characteristics of the savage, prehistoric creatures that dwell in the frozen north. When this spell’s duration expires, you return to your natural form automatically—in effect, you shorten the duration of that use of wild shape to the duration of this spell when you cast *invoke primal power*.
 
-In addition to the normal effects you gain upon assuming the wild shape, you also gain a +4 size bonus to your Constitution score and increase the natural armor bonus granted by the effect by 2 (thus, if you assume the size of a Large animal as if via *beast shape II*, your natural armor bonus is +6 instead of +4). Furthermore, you gain one of the following additional abilities while you are in your enhanced wild shape form. At caster level 13th, you gain two of the following abilities, and at caster level 17th, you gain three of the abilities.
+In addition to the normal effects you gain upon assuming the wild shape, you also gain a +4 size bonus to your Constitution score and increase the natural armor bonus granted by the effect by 2 (thus, if you assume the size of a Large animal as if via [*beast shape II*](beast-shape-ii.md), your natural armor bonus is +6 instead of +4). Furthermore, you gain one of the following additional abilities while you are in your enhanced wild shape form. At caster level 13th, you gain two of the following abilities, and at caster level 17th, you gain three of the abilities.
 
 **Cold Resistance**: Your new body is covered with thick layers of fur and insulating blubber. You gain cold resistance 30.
 

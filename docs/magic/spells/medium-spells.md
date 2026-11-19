@@ -147,7 +147,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Detect Mindscape](detect-mindscape.md)**: Sense the presence and attributes of mindscapes.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Disguise Other](disguise-other.md)**: As disguise self, but affects you or another.
@@ -191,7 +191,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
-- **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
+- **[Minor Image](minor-image.md)**: As [*silent image*](silent-image.md), plus some sound.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Mythic Severance](mythic-severance.md)**: Restrict target’s access to its mythic power.
@@ -256,7 +256,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Deceitful Veneer](deceitful-veneer.md)**: Make someone seem like an obvious liar.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
-- **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
+- **[Demanding Message](demanding-message.md)**: Send messages as per [*message*](message.md) with a [*suggestion*](suggestion.md) for one creature.
 - **[Detect Scrying](detect-scrying.md)**: Alerts you to magical eavesdropping
 - **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
 - **[Dimensional Anchor](dimensional-anchor.md)**: Bars extradimensional movement.
@@ -277,9 +277,9 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Free Swim](free-swim.md)**: As freedom of movement, but only allowing a creature to move freely underwater.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Haste, Mass](haste-mass.md)**: As haste, but affects one creature/level, no two of which can be more than 30 ft. apart.
-- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
@@ -288,7 +288,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Magic Circle against Evil](magic-circle-against-evil.md)**: As protection spells, but 10-ft. radius and 10 min./level.
 - **[Magic Circle against Good](magic-circle-against-good.md)**: As protection spells, but 10-ft. radius and 10 min./level.
 - **[Magic Circle against Law](magic-circle-against-law.md)**: As protection spells, but 10-ft. radius and 10 min./level.
-- **[Major Image](major-image.md)**: As *silent image*, plus sound, smell and thermal effects.
+- **[Major Image](major-image.md)**: As [*silent image*](silent-image.md), plus sound, smell and thermal effects.
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
@@ -359,29 +359,29 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
-- **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
+- **[Hold Monster](hold-monster.md)**: As [*hold person*](hold-person.md), but any creature.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Protection from the River Styx.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
-- **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Majestic Image](majestic-image.md)**: As [*enter image*](enter-image.md), but also gain bonuses on social skills while in the image.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
 - **[Object Possession](object-possession.md)**: As lesser object possession, but with a larger object.
-- **[Persistent Image](persistent-image.md)**: As *major image*, but with no concentration required.
+- **[Persistent Image](persistent-image.md)**: As [*major image*](major-image.md), but with no concentration required.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantasmal Putrefaction](phantasmal-putrefaction.md)**: Trick creatures into thinking their flesh is rotting.
 - **[Planar Adaptation](planar-adaptation.md)**: Resist harmful effects of other plane.
 - **[Planar Binding, Lesser](planar-binding-lesser.md)**: Traps extraplanar creature of 6 HD or less until it performs a task.
 - **[Plane Shift](plane-shift.md)**: As many as eight subjects travel to another plane.
-- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than [*divination*](divination.md).
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
 - **[Remote Viewing](remote-viewing.md)**: Gain psychic impressions from a distant location.
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
-- **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
+- **[Scripted Hallucination](scripted-hallucination.md)**: As [*complex hallucination*](complex-hallucination.md), but without concentration.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but have a chance to dispel protective magic before it takes effect.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.

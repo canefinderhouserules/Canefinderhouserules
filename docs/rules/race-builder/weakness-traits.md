@@ -18,7 +18,7 @@ The following racial traits apply weaknesses to members of the race. All weaknes
 
 **Resurrection Vulnerability (–1 RP)**  
 *Prerequisite*: Half-undead subtype or undead type  
-*Weakness*: A *raise dead* spell cast on a member of this race can destroy it (Will negates). Using the spell in this way does not require a material component.
+*Weakness*: A [*raise dead*](../../magic/spells/raise-dead.md) spell cast on a member of this race can destroy it (Will negates). Using the spell in this way does not require a material component.
 
 **Vulnerable to Sunlight (–2 RP)**  
 *Prerequisite*: Native to the Underworld or the Plane of Shadow  
@@ -33,4 +33,4 @@ The following racial traits apply weaknesses to members of the race. All weaknes
 
 **Sunlight Powerlessness (–2 RP)**  
 *Prerequisite*: Half-undead subtype or undead type  
-*Weakness*: Members of this race are powerless in natural sunlight (this does not include light created by effects such as a *daylight* spell). A member of this race caught in natural sunlight cannot attack and is staggered.
+*Weakness*: Members of this race are powerless in natural sunlight (this does not include light created by effects such as a [*daylight*](../../magic/spells/daylight.md) spell). A member of this race caught in natural sunlight cannot attack and is staggered.

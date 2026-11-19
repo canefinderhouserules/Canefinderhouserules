@@ -271,4 +271,4 @@ Grass fires are often caused by lightning or careless camp fires. A grass fire i
 
 ### Volcanic Tremor (Hill, Mountain)
 
-Though active volcanoes are rare, even dormant volcanoes can produce tremors. Tremors last anywhere from 1d4 rounds to 2d6 minutes and increase Climb DCs by 2. The tremors might start an avalanche or collapse a cave or cliff (similar to an *earthquake* spell).
+Though active volcanoes are rare, even dormant volcanoes can produce tremors. Tremors last anywhere from 1d4 rounds to 2d6 minutes and increase Climb DCs by 2. The tremors might start an avalanche or collapse a cave or cliff (similar to an [*earthquake*](../../../magic/spells/earthquake.md) spell).

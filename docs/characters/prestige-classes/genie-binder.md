@@ -24,7 +24,7 @@ To qualify to become a genie binder, a character must fulfill the following crit
 
 **Skills**: Diplomacy 2 ranks, Knowledge (nobility) 2 ranks, Knowledge (planes) 6 ranks.
 
-**Special**: Able to cast *summon monster II* as a spell or spell-like ability.
+**Special**: Able to cast [*summon monster II*](../../magic/spells/summon-monster-ii.md) as a spell or spell-like ability.
 
 ??? note "Original requirements"
 
@@ -34,7 +34,7 @@ To qualify to become a genie binder, a character must fulfill the following crit
 
     **Skills**: Diplomacy 4 ranks, Knowledge (nobility) 4 ranks, Knowledge (planes) 11 ranks.
 
-    **Special**: Able to cast either *planar ally* or *planar binding*, or able to cast *summon monster VI* as a spell-like ability.
+    **Special**: Able to cast either [*planar ally*](../../magic/spells/planar-ally.md) or [*planar binding*](../../magic/spells/planar-binding.md), or able to cast [*summon monster VI*](../../magic/spells/summon-monster-vi.md) as a spell-like ability.
 
 ### Class Skills
 
@@ -80,7 +80,7 @@ At 1st level, a genie binder must decide whether to bind a genie minion or pursu
 
 #### Genie Summoner (Su)
 
-At 2nd level, a genie binder adds several types of genie to the creatures she can summon using the indicated *summon monster* spells: djinni (*summon monster V*), efreeti or shaitan (*summon monster VI*), or marid (*summon monster VII*). Each time she summons a genie in this way, she must expend 1 point from her binding pool, and summoned genies cannot cast [*wish*](../../magic/spells/wish.md).
+At 2nd level, a genie binder adds several types of genie to the creatures she can summon using the indicated *summon monster* spells: djinni ([*summon monster V*](../../magic/spells/summon-monster-v.md)), efreeti or shaitan ([*summon monster VI*](../../magic/spells/summon-monster-vi.md)), or marid ([*summon monster VII*](../../magic/spells/summon-monster-vii.md)). Each time she summons a genie in this way, she must expend 1 point from her binding pool, and summoned genies cannot cast [*wish*](../../magic/spells/wish.md).
 
 #### Extra Seal (Su)
 

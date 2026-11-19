@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 hour/level (D)
 
-This spell functions as *beast shape II*, but you may only assume the form of an animal of a type identical to your animal companion or familiar. If your familiar or companion is not an animal, this spell has no effect.
+This spell functions as [*beast shape II*](beast-shape-ii.md), but you may only assume the form of an animal of a type identical to your animal companion or familiar. If your familiar or companion is not an animal, this spell has no effect.

@@ -11,4 +11,4 @@ A weapon with the guided property allows its wielder to use his instinct when st
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *spiritual weapon*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md); **Price** —

@@ -73,7 +73,7 @@ At 6th level, a loremaster gains the ability to understand magic items. Whenever
 
 #### True Lore (Ex)
 
-At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a [*legend lore*](../../magic/spells/legend-lore.md) spell or an [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell. If used to create a *legend lore* effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
+At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a [*legend lore*](../../magic/spells/legend-lore.md) spell or an [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell. If used to create a [*legend lore*](../../magic/spells/legend-lore.md) effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
 
 ### Loremaster Secrets
 

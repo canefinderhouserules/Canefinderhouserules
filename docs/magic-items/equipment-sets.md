@@ -40,7 +40,7 @@ At times, nature will grant its greatest champions gifts in the form of magical 
 
 **Two-Item Benefit**: When wearing at least two pieces of this set, you gain the wild empathy class feature, treating your character level as your druid level.
 
-**Three-Item Benefit**: When wearing at least three pieces of this set, you can cast *beast shape II* once per day as a spell-like ability, treating your character level as your caster level.
+**Three-Item Benefit**: When wearing at least three pieces of this set, you can cast [*beast shape II*](../magic/spells/beast-shape-ii.md) once per day as a spell-like ability, treating your character level as your caster level.
 
 **Four-Item Benefit**: When wearing all four pieces of this set, you gain the animal focus class feature with an effective hunter level equal to your character level – 4. You can only use this ability on yourself in 1-minute increments and not on any animal companion you may have. The animal focus class feature you gain from this equipment set is separate from that from any other source.
 
@@ -52,7 +52,7 @@ A general leading a legendary last stand against an undead tyrant carried many h
 
 **Daystar Half-Plate**: For every two additional pieces of this set you wear or wield, the enhancement bonus of this suit of armor increases by 1.
 
-**Ring of the Ecclesiarch**: For every two additional pieces of this set you wear or wield, you can use this ring to use *prayer* one additional time per day.
+**Ring of the Ecclesiarch**: For every two additional pieces of this set you wear or wield, you can use this ring to use [*prayer*](../magic/spells/prayer.md) one additional time per day.
 
 **Sun Blade**: For every two additional pieces of this set you wear, the enhancement bonus of this weapon increases by 1; this also improves the increased enhancement bonus when using it against evil creatures.
 
@@ -78,7 +78,7 @@ The collection of magical items collectively known as the Corsair's Bounty can b
 
 **Jellyfish Cape**: For every two additional pieces of this set you wear or wield, the electricity damage dealt by this item's tentacles increases by 1d4 and the DC to resist being sickened by their sting increases by 1.
 
-**Sea Tyrant's Patch**: While you are wearing and wielding all five pieces of this set, you can use this item's ability to use *mass charm monster* one additional time per day.
+**Sea Tyrant's Patch**: While you are wearing and wielding all five pieces of this set, you can use this item's ability to use [*mass charm monster*](../magic/spells/charm-monster-mass.md) one additional time per day.
 
 **Two-Item Benefit**: While you are wearing or wielding at least two pieces of this set, you gain a +1 circumstance bonus on Acrobatics checks to balance and Swim checks.
 
@@ -128,15 +128,15 @@ A set of simple trappings said to include a single thread from the belongings of
 
 Those who oversee the natural cycle of life, death, and rebirth hold the existence of undead to be anathema to their purpose. Grave Warden's Command is a set of holy equipment first assembled to safeguard the most daring and adventurous servants of such a faith.
 
-**Cassock of the Clergy**: For every two additional pieces of this set you wear or wield, you can use *bless* and *sanctuary* one additional time per day, and the DC for *sanctuary* spells cast in this way increases by 2.
+**Cassock of the Clergy**: For every two additional pieces of this set you wear or wield, you can use [*bless*](../magic/spells/bless.md) and [*sanctuary*](../magic/spells/sanctuary.md) one additional time per day, and the DC for *sanctuary* spells cast in this way increases by 2.
 
 **Deathwatch Eyes**: For every two additional pieces of this set you wear or wield, you gain a +1 circumstance bonus on Perception checks.
 
 **Ring of the Grasping Grave**: For every two additional pieces of this set you wear or wield, the melee touch attack granted by this ring deals an additional 1d6 points of positive energy damage to undead on a successful attack.
 
-**Spirit Blade**: For every two additional pieces of this set you wear or wield, you can use this blade's ability to *dispel magic* one additional time per day.
+**Spirit Blade**: For every two additional pieces of this set you wear or wield, you can use this blade's ability to [*dispel magic*](../magic/spells/dispel-magic.md) one additional time per day.
 
-**Staff of Souls**: While you are wearing and wielding all five pieces of this set, you can expend 2 charges from this staff to cast *undeath to death*.
+**Staff of Souls**: While you are wearing and wielding all five pieces of this set, you can expend 2 charges from this staff to cast [*undeath to death*](../magic/spells/undeath-to-death.md).
 
 **Two-Item Benefit**: When wearing or wielding at least two pieces of this set, you gain a +1 circumstance bonus on saving throws against death effects.
 

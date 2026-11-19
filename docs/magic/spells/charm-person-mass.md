@@ -3,6 +3,7 @@
 **School** enchantment (charm) [mind-affecting]; **Level** bard 4, mesmerist 4, occultist 4, psychic 5, shaman 5, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one or more humanoid creatures, no two of which can be more than 30 ft. apart  
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes

@@ -11,4 +11,4 @@ This special weapon ability can be placed on only melee weapons. When a characte
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *color spray*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*color spray*](../../magic/spells/color-spray.md); **Price** —

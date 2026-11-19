@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *repositioning* weap
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *telekinesis*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*telekinesis*](../../magic/spells/telekinesis.md); **Price** —

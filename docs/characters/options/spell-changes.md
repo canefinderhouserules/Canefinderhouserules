@@ -37,7 +37,7 @@
 
 **[Gravity Bow](../../magic/spells/gravity-bow.md):** divine classes can now cast it too.
 
-**Cure and Inflict spells** (for example, [cure light wounds](../../magic/spells/cure-light-wounds.md))**:** you can cast them as if they were 1 spell level higher, making them ranged touch attacks instead of touch, with Close range (25 ft. + 5 ft. per 2 caster levels). For example, *cure light wounds* becomes a 2nd-level spell that you can cast at range. A prepared caster who cannot cast it spontaneously must prepare it that way ahead of time (it works as if it had a metamagic feat applied, without the feat cost).
+**Cure and Inflict spells** (for example, [cure light wounds](../../magic/spells/cure-light-wounds.md))**:** you can cast them as if they were 1 spell level higher, making them ranged touch attacks instead of touch, with Close range (25 ft. + 5 ft. per 2 caster levels). For example, [*cure light wounds*](../../magic/spells/cure-light-wounds.md) becomes a 2nd-level spell that you can cast at range. A prepared caster who cannot cast it spontaneously must prepare it that way ahead of time (it works as if it had a metamagic feat applied, without the feat cost).
 
 **[Fiery Shuriken](../../magic/spells/fiery-shuriken.md):** at caster level 6 the shuriken increase to 2d8 each.
 
@@ -58,7 +58,7 @@
 
 Summons one or more creatures. There is no longer a fixed list: you can choose any monster from the Bestiary (if it is a unique, named individual rather than an ordinary creature of its kind, the GM is very likely to mess with you, so be careful). The creature has its own desires and ambitions, so be careful with that too (though it is predisposed to obey you, because you can banish it with a thought).
 
-The creature's CR equals the spell's level × 2, up to a maximum of your level. For example, a 2nd-level character using *summon monster I* can summon one CR 2 creature, or two CR 1 creatures.
+The creature's CR equals the spell's level × 2, up to a maximum of your level. For example, a 2nd-level character using [*summon monster I*](../../magic/spells/summon-monster-i.md) can summon one CR 2 creature, or two CR 1 creatures.
 
 More specific spells, or feats that expand the list in some way, raise this CR limit by 1 for that type of creature and lower it by 1 for everything else (for example, *summon nature’s ally* has a limit 1 CR higher for animals and 1 CR lower for everything else).
 
@@ -70,4 +70,4 @@ The Superior Summoning feat increases the maximum CR you can summon by 1.
 **Casting Time** 1 round; **Components** V, S  
 **Range** personal; **Target** you; **Duration** instantaneous; **Saving Throw** none; **Spell Resistance** no
 
-Cast it once to mark a place; cast it a second time to return to the marked place. It has a maximum distance of 100 miles per caster level. The mark lasts forever or until you place it somewhere else, but it can be detected with *detect magic* and altered or erased.
+Cast it once to mark a place; cast it a second time to return to the marked place. It has a maximum distance of 100 miles per caster level. The mark lasts forever or until you place it somewhere else, but it can be detected with [*detect magic*](../../magic/spells/detect-magic.md) and altered or erased.

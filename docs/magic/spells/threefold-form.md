@@ -5,6 +5,7 @@
 **Components** V, S, F (a green, three-pointed knot made of mithral worth 729 gp)  
 **Range** personal  
 **Target** you  
-**Duration** 9 rounds
+**Duration** 9 rounds  
+**Saving Throw** none; **Spell Resistance** no
 
 You pull forth idealized versions of yourself at various ages from your mind, splitting into three copies of yourself. *Threefold form* functions as [*bilocation*](bilocation.md), except there are three of you instead of two, and each of the three bodies is under the effect of [*threefold aspect*](threefold-aspect.md) with a different idealized age. Other than the differences from [*threefold aspect*](threefold-aspect.md), each body shares all other effects with you, as normal for [*bilocation*](bilocation.md).

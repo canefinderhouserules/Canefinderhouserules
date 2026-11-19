@@ -13,4 +13,4 @@ If the wielder has the debilitating injury class ability, this special ability i
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *bestow curse*, creator must have 5 ranks in Heal ; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*bestow curse*](../../magic/spells/bestow-curse.md), creator must have 5 ranks in Heal ; **Price** —

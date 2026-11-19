@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You weave golden masks shaped like animals around the targets’ faces, imbuing each target with an animal spirit that matches her strength of character. Each target gains one animal special ability of your choice granted by *beast shape I*. You can choose a different special ability for each target.
+You weave golden masks shaped like animals around the targets’ faces, imbuing each target with an animal spirit that matches her strength of character. Each target gains one animal special ability of your choice granted by [*beast shape I*](beast-shape-i.md). You can choose a different special ability for each target.

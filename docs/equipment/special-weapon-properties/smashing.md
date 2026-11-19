@@ -11,4 +11,4 @@ This special ability can be placed only on melee bludgeoning weapons. A *smashin
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *bull's strength*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*bull's strength*](../../magic/spells/bulls-strength.md); **Price** —

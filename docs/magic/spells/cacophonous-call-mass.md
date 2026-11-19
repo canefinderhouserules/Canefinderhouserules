@@ -3,6 +3,7 @@
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M (a scrap of sheet music)  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/level (all of which must be within 30 feet)  
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *grounding* weapon c
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *shocking grasp*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*shocking grasp*](../../magic/spells/shocking-grasp.md); **Price** —

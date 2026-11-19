@@ -11,4 +11,4 @@ Many of the items below grant extra powers to characters who can expend mythic p
 
 On command, this rod beats with a slow, steady pulse, sending a deep, almost inaudible thrum through the air. At the start of each successive round of holding the rod, its bearer takes 1d10 points of damage that can't be reduced in any way, and must succeed at a DC 20 Fortitude save or gain a permanent negative level. While the rod is held, creatures within 120 feet take a -2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls. This is a mind-affecting emotion effect. While held by a mythic creature, the rod prevents all creatures of an equal or lower mythic tier within its radius from expending mythic power. Mythic abilities that don't require expending uses of mythic power are unaffected.
 
-**Requirements** Craft Rod, Mythic Crafter, *bestow curse*, *crushing despair*; **Cost** 60,000 gp
+**Requirements** Craft Rod, Mythic Crafter, [*bestow curse*](../magic/spells/bestow-curse.md), [*crushing despair*](../magic/spells/crushing-despair.md); **Cost** 60,000 gp

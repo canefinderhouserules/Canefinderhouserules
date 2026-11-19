@@ -77,7 +77,7 @@ At 4th level, the mystery cultist gains the ability to cast [*heal*](../../magic
 
 #### Summon Celestial (Sp)
 
-Starting at 4th level, a mystery cultist can use *summon monster VI* once per day to conjure one lillend, 1d3 bralanis, or 1d4+1 hound archons to serve her. At 8th level, the mystery cultist also gains the ability to use *summon monster VIII* once per day to conjure one monadic deva, 1d3 avoral agathions, or 1d4+1 lillends to serve her. Mystery cultists who worship a particular empyreal lord may be able to summon other good outsiders of equal power with this ability (according to GM discretion).
+Starting at 4th level, a mystery cultist can use [*summon monster VI*](../../magic/spells/summon-monster-vi.md) once per day to conjure one lillend, 1d3 bralanis, or 1d4+1 hound archons to serve her. At 8th level, the mystery cultist also gains the ability to use [*summon monster VIII*](../../magic/spells/summon-monster-viii.md) once per day to conjure one monadic deva, 1d3 avoral agathions, or 1d4+1 lillends to serve her. Mystery cultists who worship a particular empyreal lord may be able to summon other good outsiders of equal power with this ability (according to GM discretion).
 
 #### Fervor (Su)
 

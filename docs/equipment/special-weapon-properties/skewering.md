@@ -11,4 +11,4 @@ This special ability can be placed only on light or one-handed piercing melee we
 
 ## Construction
 
-**Requirements** Craft Wondrous Item, *true strike*; **Price** —
+**Requirements** Craft Wondrous Item, [*true strike*](../../magic/spells/true-strike.md); **Price** —

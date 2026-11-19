@@ -20,6 +20,6 @@ In addition, it damages entering creatures whose alignments are different from y
 
 At your option, the abjuration can include a password, in which case creatures of alignments different from yours can avoid the damage by speaking the password as they enter the area. You must select this option (and the password) at the time of casting. Adding a password requires the burning of additional rare incenses worth at least 1,000 gp, plus 1,000 gp per 60-foot cube.
 
-*Dispel magic* does not dispel a *forbiddance* effect unless the dispeller’s level is at least as high as your caster level.
+[*Dispel magic*](dispel-magic.md) does not dispel a *forbiddance* effect unless the dispeller’s level is at least as high as your caster level.
 
 You can’t have multiple overlapping *forbiddance* effects. In such a case, the more recent effect stops at the boundary of the older effect.

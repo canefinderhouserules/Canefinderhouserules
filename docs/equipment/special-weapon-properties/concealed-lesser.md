@@ -11,4 +11,4 @@ This special ability can be placed on only light or one-handed melee weapons. A 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *major creation* ; **Price** 1,500 gp
+**Requirements** Craft Magic Arms and Armor, [*major creation*](../../magic/spells/major-creation.md) ; **Price** 1,500 gp

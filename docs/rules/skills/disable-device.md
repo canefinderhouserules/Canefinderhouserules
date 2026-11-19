@@ -43,4 +43,4 @@ A rogue who beats a trap’s DC by 10 or more can study the trap, figure out how
 
 **Restriction**: Characters with the trapfinding ability (like rogues) can disarm magic traps. A magic trap generally has a DC of 25 + the level of the spell used to create it.
 
-The spells *fire trap, glyph of warding, symbol,* and *teleportation circle* also create traps that a rogue can disarm with a successful Disable Device check. *Spike growth* and *spike stones,* however, create magic hazards against which Disable Device checks do not succeed. See the individual spell descriptions for details.
+The spells *fire trap, glyph of warding, symbol,* and [*teleportation circle*](../../magic/spells/teleportation-circle.md) also create traps that a rogue can disarm with a successful Disable Device check. [*Spike growth*](../../magic/spells/spike-growth.md) and *spike stones,* however, create magic hazards against which Disable Device checks do not succeed. See the individual spell descriptions for details.

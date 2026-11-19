@@ -3,6 +3,7 @@
 **School** necromancy; **Level** inquisitor 6, witch 6  
 **Casting Time** 1 standard action (1 AP)  
 **Components** V, S, M (rotted meat)  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  
 **Duration** 1 round/level or 1 round; see text  
 **Saving Throw** Fortitude partial; **Spell Resistance** yes

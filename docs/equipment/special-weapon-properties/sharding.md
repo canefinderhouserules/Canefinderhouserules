@@ -11,4 +11,4 @@ This special ability can be placed only on melee or thrown weapons. The wielder 
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *major creation*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*major creation*](../../magic/spells/major-creation.md); **Price** —

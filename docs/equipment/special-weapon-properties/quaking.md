@@ -10,4 +10,4 @@ This special ability can be placed only on melee bludgeoning weapons. The wielde
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *greater thunderstomp*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*greater thunderstomp*](../../magic/spells/thunderstomp-greater.md); **Price** —

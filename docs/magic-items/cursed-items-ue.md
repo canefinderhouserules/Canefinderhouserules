@@ -18,7 +18,7 @@ All damage dealt is also reduced by 2 points, but never below a minimum of 1 poi
 **Aura** moderate evocation; **CL** 6th  
 **Slot** none; **Weight** 2 lbs.
 
-This shortbow is beautifully made and inlaid with iridescent designs, appearing to be a *+2 shortbow*. When it fires its arrows, though, it does it with so much force that the arrows are always broken on either a hit or a miss. This bow must be used as its owner’s primary ranged weapon and can only be discarded after the owner is subject to a *remove curse* spell or similar effect.
+This shortbow is beautifully made and inlaid with iridescent designs, appearing to be a *+2 shortbow*. When it fires its arrows, though, it does it with so much force that the arrows are always broken on either a hit or a miss. This bow must be used as its owner’s primary ranged weapon and can only be discarded after the owner is subject to a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
 
 **Creation** (associated magic items): *+2 shortbow*
 
@@ -43,7 +43,7 @@ This sword appears to be a *+2 greatsword*. However, whenever it is used in batt
 **Aura** moderate evocation; **CL** 8th  
 **Slot** none; **Weight** 6 lbs.
 
-This vicious-looking *+2 battleaxe* grants its wielder the Great Cleave feat. But when using this feat, the wielder makes an additional attack against a random adjacent creature instead of choosing which creature to attack. When determining which creature is attacked, the wielder always counts himself as a possible target, even if he is not adjacent to the target. The wielder of a *biting battleaxe* must always uses it as his primary weapon and must use Great Cleave at every opportunity until subject to a *remove curse* spell or similar effect.
+This vicious-looking *+2 battleaxe* grants its wielder the Great Cleave feat. But when using this feat, the wielder makes an additional attack against a random adjacent creature instead of choosing which creature to attack. When determining which creature is attacked, the wielder always counts himself as a possible target, even if he is not adjacent to the target. The wielder of a *biting battleaxe* must always uses it as his primary weapon and must use Great Cleave at every opportunity until subject to a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
 
 **Creation** (associated magic items): *+2 battleaxe*
 
@@ -52,7 +52,7 @@ This vicious-looking *+2 battleaxe* grants its wielder the Great Cleave feat. Bu
 **Aura** moderate abjuration; **CL** 9th  
 **Slot** shoulders; **Weight** 1 lb.
 
-This bright red and gold cape appears to be a *cape of the mountebank*. Once worn, however, it affects its wearer as if subject to a *dimensional anchor* spell. The cape can only be removed after its wearer is subject to a *remove curse* spell or similar effect.
+This bright red and gold cape appears to be a *cape of the mountebank*. Once worn, however, it affects its wearer as if subject to a [*dimensional anchor*](../magic/spells/dimensional-anchor.md) spell. The cape can only be removed after its wearer is subject to a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
 
 **Creation** (associated magic items): *cape of the mountebank*
 
@@ -70,7 +70,7 @@ This is a *+2 shortspear*, but each time it is used in melee against a foe and t
 **Aura** moderate evocation; **CL** 8th  
 **Slot** none; **Weight** 2 lbs.
 
-This weapon appears to be a *+2 returning throwing axe*. Instead of the normal returning ability, this axe only returns when the wielder misses her target. When it does return, it attacks the wielder. It uses the wielder’s full base attack bonus with this attack. If it hits, it sticks in the wielder, and the wielder can pull out the axe with a swift action (1 AP). If it misses the wielder, it falls to a random unoccupied square adjacent to the wielder and must be picked up as soon as possible. The wielder of the *deadly returns throwing axe* always uses it as her primary weapon until subject to a *remove curse* spell or similar effect.
+This weapon appears to be a *+2 returning throwing axe*. Instead of the normal returning ability, this axe only returns when the wielder misses her target. When it does return, it attacks the wielder. It uses the wielder’s full base attack bonus with this attack. If it hits, it sticks in the wielder, and the wielder can pull out the axe with a swift action (1 AP). If it misses the wielder, it falls to a random unoccupied square adjacent to the wielder and must be picked up as soon as possible. The wielder of the *deadly returns throwing axe* always uses it as her primary weapon until subject to a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
 
 **Creation** (associated magic items): *+2 returning throwing axe*
 
@@ -79,7 +79,7 @@ This weapon appears to be a *+2 returning throwing axe*. Instead of the normal r
 **Aura** faint transmutation; **CL** 5th  
 **Slot** none; **Weight** 5 lbs.
 
-This set of kettle drums appears to be *drums of haste*. When a creature plays the drums, it affects all creatures (including the creature playing the drums) as though subject to a *slow* spell. A DC 14 Will save negates the effect. No Perform check is needed to create the *slow* effect.
+This set of kettle drums appears to be *drums of haste*. When a creature plays the drums, it affects all creatures (including the creature playing the drums) as though subject to a [*slow*](../magic/spells/slow.md) spell. A DC 14 Will save negates the effect. No Perform check is needed to create the *slow* effect.
 
 **Creation** (associated magic items): *drums of haste*
 
@@ -88,7 +88,7 @@ This set of kettle drums appears to be *drums of haste*. When a creature plays t
 **Aura** faint necromancy; **CL** 5th  
 **Slot** eyes; **Weight** —
 
-These normal-looking glasses appear harmless and nondescript. When they are worn, the wearer becomes blinded as if subject to the *blindness/deafness* spell (no saving throw).
+These normal-looking glasses appear harmless and nondescript. When they are worn, the wearer becomes blinded as if subject to the [*blindness/deafness*](../magic/spells/blindness-deafness.md) spell (no saving throw).
 
 **Creation** (associated magic items): Any glasses or lenses
 
@@ -106,7 +106,7 @@ This headband appears to be a *headband of vast intellect +4*, but instead of gr
 **Aura** moderate transmutation; **CL** 8th  
 **Slot** none; **Weight** 20 lbs.
 
-This massive warhammer is even heavier than its size would normally warrant. A creature wielding the hammer takes a –2 penalty on attack rolls and a +4 bonus on damage rolls, as well as a –10 penalty to speed. Once picked up, this weapon must be used as the creature’s primary weapon until subject to a successful *remove curse* spell.
+This massive warhammer is even heavier than its size would normally warrant. A creature wielding the hammer takes a –2 penalty on attack rolls and a +4 bonus on damage rolls, as well as a –10 penalty to speed. Once picked up, this weapon must be used as the creature’s primary weapon until subject to a successful [*remove curse*](../magic/spells/remove-curse.md) spell.
 
 **Creation** (associated magic items): *+2 warhammer*
 
@@ -124,7 +124,7 @@ This strange, featureless mask seems to have the powers of a *headband of alluri
 **Aura** moderate divination; **CL** 6th  
 **Slot** none; **Weight** 2 lbs.
 
-This bow appears to be a *+2 distance shortbow*, but its curse is that it suffers a –4 cumulative penalty for each range increment beyond the first. Furthermore, it takes an additional –4 penalty on critical confirmation rolls when firing beyond the first range increment. This bow must be used as its wielder’s primary ranged weapon and can only be discarded after the owner is subject to a *remove curse* spell or similar effect.
+This bow appears to be a *+2 distance shortbow*, but its curse is that it suffers a –4 cumulative penalty for each range increment beyond the first. Furthermore, it takes an additional –4 penalty on critical confirmation rolls when firing beyond the first range increment. This bow must be used as its wielder’s primary ranged weapon and can only be discarded after the owner is subject to a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
 
 **Creation** (associated magic items): *+2 distance shortbow*
 
@@ -142,7 +142,7 @@ This pistol acts as a normal *+2 pistol*, but it has a strange aversion to talk 
 **Aura** moderate transmutation; **CL** 7th  
 **Slot** shoulders; **Weight** 3 lbs.
 
-These steel pauldrons seem to be emblazoned with stampeding horses until they are worn, and then the horses change shape to that of dumfounded donkeys. The wearer of these pauldrons takes a –4 penalty to Dexterity and reduces all speeds by 10 feet. A successful *remove curse* spell is required before this item can be removed.
+These steel pauldrons seem to be emblazoned with stampeding horses until they are worn, and then the horses change shape to that of dumfounded donkeys. The wearer of these pauldrons takes a –4 penalty to Dexterity and reduces all speeds by 10 feet. A successful [*remove curse*](../magic/spells/remove-curse.md) spell is required before this item can be removed.
 
 **Creation** (associated magic items): any pauldrons
 
@@ -151,7 +151,7 @@ These steel pauldrons seem to be emblazoned with stampeding horses until they ar
 **Aura** moderate transmutation; **CL** 11th  
 **Slot** shoulders; **Weight** 1 lb.
 
-This gray magical cloak seems to be a protective cloak, but when it is donned, the wearer must succeed at a DC 20 Fortitude save or be instantly petrified. If the initial saving throw succeeds, the creature wearing the cloak must make further checks at the start of each of its turns. On any failed saving throw the creature becomes petrified 1. A *remove curse* or *stone to flesh* transforms the wearer back, at least long enough for someone to take the cloak off the wearer.
+This gray magical cloak seems to be a protective cloak, but when it is donned, the wearer must succeed at a DC 20 Fortitude save or be instantly petrified. If the initial saving throw succeeds, the creature wearing the cloak must make further checks at the start of each of its turns. On any failed saving throw the creature becomes petrified 1. A [*remove curse*](../magic/spells/remove-curse.md) or [*stone to flesh*](../magic/spells/stone-to-flesh.md) transforms the wearer back, at least long enough for someone to take the cloak off the wearer.
 
 **Creation** (associated magic items): any cloak
 
@@ -160,7 +160,7 @@ This gray magical cloak seems to be a protective cloak, but when it is donned, t
 **Aura** moderate necromancy; **CL** 10th  
 **Slot** ring; **Weight** —
 
-Before being worn, this ring appears to be a *ring of regeneration*. Once it is worn in combat, however, the true nature of the ring becomes apparent. Each time the wearer is hit with a melee or ranged weapon attack, he takes an additional 1d4 points of damage. This ring cannot be removed until the wearer dies or by way of a *remove curse*, *wish*, or *miracle* spell.
+Before being worn, this ring appears to be a *ring of regeneration*. Once it is worn in combat, however, the true nature of the ring becomes apparent. Each time the wearer is hit with a melee or ranged weapon attack, he takes an additional 1d4 points of damage. This ring cannot be removed until the wearer dies or by way of a [*remove curse*](../magic/spells/remove-curse.md), [*wish*](../magic/spells/wish.md), or [*miracle*](../magic/spells/miracle.md) spell.
 
 **Creation** (associated magic items): *ring of regeneration*
 
@@ -169,7 +169,7 @@ Before being worn, this ring appears to be a *ring of regeneration*. Once it is 
 **Aura** strong abjuration; **CL** 13th  
 **Slot** ring; **Weight** —
 
-This delicate ring appears to be a *ring of spell storing* or a *ring of spell turning*, but instead of aiding casting or counterspelling, the ring hinders such efforts. Each time the wearer casts an arcane spell, he suffers a 25% spell failure chance. Furthermore, the wearer of the ring takes a –4 penalty on Spellcraft checks to identify a spell when attempting to counterspell. The ring can only be removed by a *remove curse* spell or a similar effect.
+This delicate ring appears to be a *ring of spell storing* or a *ring of spell turning*, but instead of aiding casting or counterspelling, the ring hinders such efforts. Each time the wearer casts an arcane spell, he suffers a 25% spell failure chance. Furthermore, the wearer of the ring takes a –4 penalty on Spellcraft checks to identify a spell when attempting to counterspell. The ring can only be removed by a [*remove curse*](../magic/spells/remove-curse.md) spell or a similar effect.
 
 **Creation** (associated magic items): *ring of spell storing* (any) or a *ring of spell turning*
 
@@ -178,7 +178,7 @@ This delicate ring appears to be a *ring of spell storing* or a *ring of spell t
 **Aura** strong (no school); **CL** 17th  
 **Slot** none; **Weight** 5 lbs.
 
-This rod is similar in appearance to a *metamagic rod*. Once a creature picks up such a rod, it cannot be discarded without use of a *remove curse* spell or similar magic. Each time the wielder casts a spell, he takes the *rod of foiled magic* in hand and treats the caster level of the spell as 2 levels lower. If this would reduce the caster level to 0 or lower, than the caster has only a 50% chance of casting the spell (any chance of arcane spell failure is added to this percentile chance), but if he is able to cast the spell, the spell has a caster level of 1st.
+This rod is similar in appearance to a *metamagic rod*. Once a creature picks up such a rod, it cannot be discarded without use of a [*remove curse*](../magic/spells/remove-curse.md) spell or similar magic. Each time the wielder casts a spell, he takes the *rod of foiled magic* in hand and treats the caster level of the spell as 2 levels lower. If this would reduce the caster level to 0 or lower, than the caster has only a 50% chance of casting the spell (any chance of arcane spell failure is added to this percentile chance), but if he is able to cast the spell, the spell has a caster level of 1st.
 
 **Creation** (associated magic items): Any metamagic rod
 
@@ -187,7 +187,7 @@ This rod is similar in appearance to a *metamagic rod*. Once a creature picks up
 **Aura** faint transmutation; **CL** 5th  
 **Slot** wrists; **Weight** 1 lb.
 
-These wristbands appear to be *bracers of archery* until they are worn. The wearer takes a –2 penalty on all ranged attack rolls. A successful *remove curse* spell is required before these bracers can be removed.
+These wristbands appear to be *bracers of archery* until they are worn. The wearer takes a –2 penalty on all ranged attack rolls. A successful [*remove curse*](../magic/spells/remove-curse.md) spell is required before these bracers can be removed.
 
 **Creation** (associated magic items): *bracers of archery*, either greater or lesser
 
@@ -223,7 +223,7 @@ This figurine appears to be a *figurine of wondrous power*, but instead of havin
 **Aura** moderate transmutation; **CL** 6th  
 **Slot** none; **Weight** 9 lbs.
 
-This item seems to be a normal *+1 musket* but has a misfire chance of 1–5. No effect or ability can reduce this misfire chance. This musket must be used as its owner’s primary ranged weapon and can only be discarded after the owner is subject to a *remove curse* spell or similar effect.
+This item seems to be a normal *+1 musket* but has a misfire chance of 1–5. No effect or ability can reduce this misfire chance. This musket must be used as its owner’s primary ranged weapon and can only be discarded after the owner is subject to a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
 
 **Creation** (associated magic items): *+1 musket*
 

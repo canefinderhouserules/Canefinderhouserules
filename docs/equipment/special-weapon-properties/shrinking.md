@@ -11,4 +11,4 @@ This special ability can be placed only on melee weapons. When the wielder issue
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *shrink item*; **Price** +500 gp
+**Requirements** Craft Magic Arms and Armor, [*shrink item*](../../magic/spells/shrink-item.md); **Price** +500 gp

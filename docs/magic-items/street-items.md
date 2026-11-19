@@ -8,7 +8,7 @@ Magic items favored by adventurers and operatives who work the streets of large 
 
 This heavy black cloak is trimmed with silver brocade and jingles ever so slightly when disturbed. The wearer of a cloak of daggers can draw daggers as a free action as though she possessed the Quick Draw feat; if she already has the Quick Draw feat, drawing a single hidden dagger becomes a free action. Once per day, the wearer can perform a cartwheel as a standard action (1 AP) at any point during a move action (1 AP), creating a 15-foot cone of daggers that deals an amount of piercing damage equal to the wearer’s sneak attack damage (minimum 1d6). A successful Reflex save (DC = 10 + the number of the wearer’s sneak attack dice + the wearer’s Intelligence modifier) halves the damage. The daggers disappear immediately.
 
-*Construction* *Requirements* Craft Wondrous Item, Quick Draw, *wreath of blades*, creator must possess the sneak attack class ability; *Cost* 9,000 gp.
+*Construction* *Requirements* Craft Wondrous Item, Quick Draw, [*wreath of blades*](../magic/spells/wreath-of-blades.md), creator must possess the sneak attack class ability; *Cost* 9,000 gp.
 
 ### Combat Sandals
 
@@ -16,7 +16,7 @@ This heavy black cloak is trimmed with silver brocade and jingles ever so slight
 
 Worked brown leather straps run up the backs and around the soles of this sturdy set of footwear. The wearer of a pair of combat sandals can charge through allies’ squares without difficulty, and allies adjacent to the wearer don’t provide cover to targets the wearer attacks with reach or ranged weapons.
 
-*Construction* *Requirements* Craft Wondrous Item, *expeditious retreat*, *freedom of movement*, *true strike*; *Cost* 9,000 gp.
+*Construction* *Requirements* Craft Wondrous Item, [*expeditious retreat*](../magic/spells/expeditious-retreat.md), [*freedom of movement*](../magic/spells/freedom-of-movement.md), [*true strike*](../magic/spells/true-strike.md); *Cost* 9,000 gp.
 
 ### Cornerstone Crossbow
 
@@ -24,7 +24,7 @@ Worked brown leather straps run up the backs and around the soles of this sturdy
 
 As a standard action (1 AP), this +1 seeking light crossbow can generate bolts of force that briefly harden to anchor on corners and walls of structures, trailing a line of force that connects the bolt to the crossbow. As a move action (1 AP), the wielder of the weapon can pull the crossbow to the anchor, swiftly carrying the wielder to the anchor point. The bolt of force has a maximum range of 80 feet, and can anchor only to a structure sturdy enough to support the wielder’s weight. If there is not a platform appropriate for the wielder to land on next to the anchor, the wielder must succeed at a Climb check (DC appropriate to climbing the surface the bolt of force is anchored to) or immediately fall. The bolt of force disappears in 1d4 rounds, just after the crossbow is drawn to it (the wielder has time to land), or when the next bolt of force is fired, whichever comes first. The bolts of force deal no damage, and creatures other than the wielder are unaffected by them.
 
-*Construction* *Requirements* Craft Magic Arms and Armor, *levitate*, *true seeing*; *Cost* 10,835 gp.
+*Construction* *Requirements* Craft Magic Arms and Armor, [*levitate*](../magic/spells/levitate.md), [*true seeing*](../magic/spells/true-seeing.md); *Cost* 10,835 gp.
 
 ### Diminishing Sash
 
@@ -40,9 +40,9 @@ If the sash is used to generate material components for a spell that normally us
 
 *Aura* faint transmutation; *CL* 5th; *Slot* armor; *Price* 11,350 gp; *Weight* 30 lbs.
 
-When not being worn, this simple steel +1 breastplate appears to be typical magic armor. When worn by a cavalier with the banner class feature, an emissary’s breastplate automatically displays the cavalier’s heraldry and counts as his banner. As long as the cavalier is not in disguise, he is considered to be displaying his banner while wearing the armor. Additionally, the wearer can expend a use of his challenge ability to speak on behalf of himself, his lord, or other agent who has given him the authority to do so. This allows him to use *tongues* (as per the spell) and issue a single *command* (as per the spell).
+When not being worn, this simple steel +1 breastplate appears to be typical magic armor. When worn by a cavalier with the banner class feature, an emissary’s breastplate automatically displays the cavalier’s heraldry and counts as his banner. As long as the cavalier is not in disguise, he is considered to be displaying his banner while wearing the armor. Additionally, the wearer can expend a use of his challenge ability to speak on behalf of himself, his lord, or other agent who has given him the authority to do so. This allows him to use [*tongues*](../magic/spells/tongues.md) (as per the spell) and issue a single [*command*](../magic/spells/command.md) (as per the spell).
 
-*Construction* *Requirements* Craft Magic Arms and Armor, *arcane mark*, *command*, *tongues*, creator must have 5 ranks in Knowledge (nobility); *Cost* 5,850 gp.
+*Construction* *Requirements* Craft Magic Arms and Armor, [*arcane mark*](../magic/spells/arcane-mark.md), [*command*](../magic/spells/command.md), [*tongues*](../magic/spells/tongues.md), creator must have 5 ranks in Knowledge (nobility); *Cost* 5,850 gp.
 
 ### Maintenance Overseer’s Ring
 
@@ -52,7 +52,7 @@ This tarnished signet is marked as belonging to a specific city no smaller than 
 
 A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result.
 
-*Construction* *Requirements* Forge Ring, *create treasure map*; *Cost* 4,000 gp.
+*Construction* *Requirements* Forge Ring, [*create treasure map*](../magic/spells/create-treasure-map.md); *Cost* 4,000 gp.
 
 ### Marker’s Monocle
 
@@ -62,17 +62,17 @@ A solid gold band encircles this intricate convex glass lens. Three times per da
 
 In addition, once per day, the wearer of a marker’s monocle can mark one creature with a melee touch attack, allowing up to 3 allies within 30 feet to track the marked creature for 30 minutes, as if the wearer’s allies had the scent ability.
 
-*Construction* *Requirements* Craft Wondrous Item, *locate object*, *scent trail*; *Cost* 2,800 gp.
+*Construction* *Requirements* Craft Wondrous Item, [*locate object*](../magic/spells/locate-object.md), [*scent trail*](../magic/spells/scent-trail.md); *Cost* 2,800 gp.
 
 ### Pauper’s Robes
 
 *Aura* faint illusion; *CL* 3rd; *Slot* body; *Price* 2,400 gp; *Weight* 4 lbs.
 
-Dirt and grime from city streets cling to these dirty brown robes, covering them in an ever-present film of filth. A set of pauper’s robes surrounds its wearer in mystery, making it difficult for creatures to remember details about him. Creatures that attempt to remember details of their interactions with the wearer of a set of pauper’s robes must make a successful Will save to do so: recalling general details about the wearer (such as gender or race) requires a successful DC 13 Will save, and recalling more specific information (such as name, distinguishing features, or mannerisms) requires a successful DC 16 Will save. If the wearer of the robes takes any action that counts as an attack (as defined by the *invisibility* spell), creatures witnessing that action are immune to the memory-fogging influence of the pauper’s robes for all interactions with the wearer over the next 24 hours.
+Dirt and grime from city streets cling to these dirty brown robes, covering them in an ever-present film of filth. A set of pauper’s robes surrounds its wearer in mystery, making it difficult for creatures to remember details about him. Creatures that attempt to remember details of their interactions with the wearer of a set of pauper’s robes must make a successful Will save to do so: recalling general details about the wearer (such as gender or race) requires a successful DC 13 Will save, and recalling more specific information (such as name, distinguishing features, or mannerisms) requires a successful DC 16 Will save. If the wearer of the robes takes any action that counts as an attack (as defined by the [*invisibility*](../magic/spells/invisibility.md) spell), creatures witnessing that action are immune to the memory-fogging influence of the pauper’s robes for all interactions with the wearer over the next 24 hours.
 
 As a standard action (1 AP), the wearer of a set of pauper’s robes can cause the garment to tarnish and dirty any valuables he carries, making jewelry appear to be little more than beads and twine or a magical sword look rusted and dull. Anyone who examines or interacts with such an object can see through the guise with a successful DC 13 Will save. This effect ends immediately once the object leaves the wearer’s possession.
 
-*Construction* *Requirements* Craft Wondrous Item, *disguise self*, *memory lapse*; *Cost* 1,200 gp.
+*Construction* *Requirements* Craft Wondrous Item, [*disguise self*](../magic/spells/disguise-self.md), [*memory lapse*](../magic/spells/memory-lapse.md); *Cost* 1,200 gp.
 
 ### Pickpocket’s Bandolier
 
@@ -80,4 +80,4 @@ As a standard action (1 AP), the wearer of a set of pauper’s robes can cause t
 
 Carefully embroidered black leather makes up this stylish bandolier, which can hold as many as 12 daggers, vials, or similarly shaped items. The wearer of a pickpocket’s bandolier opposes Sleight of Hand checks attempted against her with her own Sleight of Hand checks (instead of Perception). Additionally, as a swift action (1 AP) after succeeding at a Sleight of Hand check, the wearer can stuff stolen goods (of size Tiny or smaller) into one of the slots on the pickpocket’s bandolier, making the purloined object appear to be a simple dagger. Only a careful examination of the bandolier reveals the true nature of items concealed in this manner.
 
-*Construction* *Requirements* Craft Wondrous Item, *shrink item*; *Cost* 6,250 gp.
+*Construction* *Requirements* Craft Wondrous Item, [*shrink item*](../magic/spells/shrink-item.md); *Cost* 6,250 gp.

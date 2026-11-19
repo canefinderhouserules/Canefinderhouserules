@@ -11,4 +11,4 @@ A *gory* weapon functions as a wounding (*Pathfinder RPG Ultimate Equipment* 149
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *bleed*, *inflict serious wounds*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*bleed*](../../magic/spells/bleed.md), [*inflict serious wounds*](../../magic/spells/inflict-serious-wounds.md); **Price** —

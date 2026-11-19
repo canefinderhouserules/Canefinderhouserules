@@ -11,4 +11,4 @@ Weapons with this special ability cause foes struck by them to have difficulty c
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *qualm*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*qualm*](../../magic/spells/qualm.md); **Price** —

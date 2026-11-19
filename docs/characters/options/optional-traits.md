@@ -70,7 +70,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 ## Faith
 
-**Chosen of the Goddess of Valor**: At your birth, your parents dedicated your soul to the goddess of valor to mold into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your path through darkness and a fine sword with which to spread her will. You may cast [*light*](../../magic/spells/light.md) once per day as a spell-like ability (caster level 1st), and you begin play with a masterwork longsword. In addition, whenever [*light*](../../magic/spells/light.md) is cast upon this sword, the radius of *light* and its duration is doubled.
+**Chosen of the Goddess of Valor**: At your birth, your parents dedicated your soul to the goddess of valor to mold into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your path through darkness and a fine sword with which to spread her will. You may cast [*light*](../../magic/spells/light.md) once per day as a spell-like ability (caster level 1st), and you begin play with a masterwork longsword. In addition, whenever [*light*](../../magic/spells/light.md) is cast upon this sword, the radius of [*light*](../../magic/spells/light.md) and its duration is doubled.
 
 **Covert Channeler**: Your mentor in a hidden caravan faith taught you to hide holy symbols quickly. You can draw or stow a holy symbol as a swift action (1 AP).
 
@@ -432,7 +432,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **The Follower**: You are born under the sign of the dark figure that trails the Caravan—the specter of death itself. You receive a +2 bonus on saving throws against death effects. All allies within 10 feet of you take a –1 penalty on saving throws against death effects.
 
-**The Lantern Bearer**: You are bathed in the light of the Lantern Bearer, who guides the Caravan through the darkest nights. You can cast *light* three times per day as a spell-like ability, treating your character level as your caster level.
+**The Lantern Bearer**: You are bathed in the light of the Lantern Bearer, who guides the Caravan through the darkest nights. You can cast [*light*](../../magic/spells/light.md) three times per day as a spell-like ability, treating your character level as your caster level.
 
 **The Mother**: Granting warmth and comfort against the forbidding cold of the wilderness, the Mother is the heart of the Caravan. Allies within 10 feet of you gain a +1 morale bonus on saving throws to resist fear effects. This trait functions only while you are conscious.
 

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. When a cavalier wieldi
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *true strike*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*true strike*](../../magic/spells/true-strike.md); **Price** —

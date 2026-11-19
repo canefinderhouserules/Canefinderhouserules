@@ -11,4 +11,4 @@ This ability can be placed only on a *corrosive* or *corrosive burst* weapon (*P
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *acid arrow*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*acid arrow*](../../magic/spells/acid-arrow.md); **Price** —

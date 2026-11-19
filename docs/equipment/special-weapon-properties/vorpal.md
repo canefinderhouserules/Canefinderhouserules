@@ -11,4 +11,4 @@ This potent and feared ability allows the weapon to sever the heads of those it 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *circle of death*, *keen edge*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*circle of death*](../../magic/spells/circle-of-death.md), [*keen edge*](../../magic/spells/keen-edge.md); **Price** —

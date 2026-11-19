@@ -11,4 +11,4 @@ These weapons were first created by deities and given to mortals so that they co
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, Mythic Crafter, *mythic severance*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Mythic Crafter, [*mythic severance*](../../magic/spells/mythic-severance.md); **Price** —

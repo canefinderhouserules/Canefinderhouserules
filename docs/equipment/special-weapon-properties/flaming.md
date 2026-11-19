@@ -11,4 +11,4 @@ Upon command, a *flaming* weapon is sheathed in fire that deals an extra 1d6 poi
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor and *fireball*, *flame blade*, or *flame strike*; **Price** —
+**Requirements** Craft Magic Arms and Armor and [*fireball*](../../magic/spells/fireball.md), [*flame blade*](../../magic/spells/flame-blade.md), or [*flame strike*](../../magic/spells/flame-strike.md); **Price** —

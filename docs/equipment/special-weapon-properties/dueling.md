@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *dueling* weapon (wh
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *cat’s grace*; **Price** +7,000 gp
+**Requirements** Craft Magic Arms and Armor, [*cat’s grace*](../../magic/spells/cats-grace.md); **Price** +7,000 gp

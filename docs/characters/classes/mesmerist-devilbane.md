@@ -29,7 +29,7 @@ Some mesmerists have refined their hypnotic stares to include a suite of gaze at
 
 When a devilbane gaze is used against a creature with the outsider type, double the hypnotic stare penalty applied by the devilbane gaze improvement (but not the Will save penalty the original hypnotic stare imposes). Despite their moniker, devilbane gazes affect all outsiders equally well.
 
-**Devilbane Binding**: The hypnotic stare penalty also applies to all Charisma checks to escape [*planar binding*](../../magic/spells/planar-binding.md) spells, and applies to the target's spell resistance against a *planar binding* spell.
+**Devilbane Binding**: The hypnotic stare penalty also applies to all Charisma checks to escape [*planar binding*](../../magic/spells/planar-binding.md) spells, and applies to the target's spell resistance against a [*planar binding*](../../magic/spells/planar-binding.md) spell.
 
 **Devilbane Dampening**: The hypnotic stare penalty also applies to the target's resistance to a single form of energy, chosen by the mesmerist when he initiates the stare. If the mesmerist targets a form of energy to which his target has no resistance, this improvement has no effect.
 

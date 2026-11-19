@@ -307,7 +307,7 @@ Forgemasters are priestly dwarves who are ritual casters and expert enchanters, 
 
 **Divine Smith (Su)**: Whenever a forgemaster casts a spell that targets a weapon, shield, or armor, the spell takes effect at +1 caster level. If the spell has one or more metamagic feats applied, she reduces the total level adjustment to the spell by 1 (minimum 0).
 
-**Runeforger (Su)**: A forgemaster may inscribe mystical runes upon a suit of armor, shield, or weapon as full-round action (3 AP), using this ability a number of times per day equal to 3 + her Intelligence modifier. These runes last 1 round per cleric level, but inscribing the same rune twice on an item increases this duration to 1 minute per level, three times to 10 minutes per level, and four times to 1 hour per level. *Erase* affects runes as magical writing. A forgemaster learns forgemaster’s blessing at 1st level and may learn one additional rune at 2nd level and every 2 levels thereafter. Only one type of rune marked with an asterisk (*) may be placed on an item at any given time. This ability replaces [channel energy](cleric.md#channel-energy-su).
+**Runeforger (Su)**: A forgemaster may inscribe mystical runes upon a suit of armor, shield, or weapon as full-round action (3 AP), using this ability a number of times per day equal to 3 + her Intelligence modifier. These runes last 1 round per cleric level, but inscribing the same rune twice on an item increases this duration to 1 minute per level, three times to 10 minutes per level, and four times to 1 hour per level. [*Erase*](../../magic/spells/erase.md) affects runes as magical writing. A forgemaster learns forgemaster’s blessing at 1st level and may learn one additional rune at 2nd level and every 2 levels thereafter. Only one type of rune marked with an asterisk (*) may be placed on an item at any given time. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 *Ancient Splendor*: The inscribed weapon, armor, or shield grants a +2 circumstance bonus on Diplomacy and [Intimidate](../../rules/skills/intimidate.md) checks (+4 when interacting with dwarves).
 
@@ -375,7 +375,7 @@ This ability alters [domains](cleric.md#domains_1).
 
 At 11th level, the target takes 1d6+1 points of Wisdom damage and is confused and sickened for 2d4 rounds. A successful Will save reduces the Wisdom damage to 1 point, and the target is instead sickened for 1d6 rounds.
 
-At 19th level, the target takes 2d6 points of Wisdom damage and is rendered permanently confused and sickened. Only *greater restoration*, [*heal*](../../magic/spells/heal.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) can remove the confused and sickened conditions. A successful Will save halves the Wisdom damage, and the target is instead sickened for 2d6 rounds.
+At 19th level, the target takes 2d6 points of Wisdom damage and is rendered permanently confused and sickened. Only [*greater restoration*](../../magic/spells/restoration-greater.md), [*heal*](../../magic/spells/heal.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) can remove the confused and sickened conditions. A successful Will save halves the Wisdom damage, and the target is instead sickened for 2d6 rounds.
 
 This ability replaces the increases to channel energy gained at 5th, 11th, and 19th levels.
 
@@ -467,7 +467,7 @@ This ability alters the cleric’s spellcasting.
 
 This ability alters [channel energy](cleric.md#channel-energy-su).
 
-**Versatile Healing Channel (Sp)**: At 5th level, the angelfire apostle can spend two uses of his channel energy ability to cast *remove blindness/deafness* or *lesser restoration* as a spell-like ability. At 7th level, he can choose [*remove disease*](../../magic/spells/remove-disease.md) or [*remove paralysis*](../../magic/spells/remove-paralysis.md). At 9th level, he can choose [*neutralize poison*](../../magic/spells/neutralize-poison.md). At 11th level, he can choose [*breath of life*](../../magic/spells/breath-of-life.md). At 13th level, he can choose *heal*. At 15th level, he can choose [*regenerate*](../../magic/spells/regenerate.md). At 17th level, he can choose [*restoration*](../../magic/spells/restoration.md) but cannot affect permanent negative levels. At 19th level, he can choose [*resurrection*](../../magic/spells/resurrection.md) but can affect only a target that has been dead no more than 1 round per his cleric level.
+**Versatile Healing Channel (Sp)**: At 5th level, the angelfire apostle can spend two uses of his channel energy ability to cast [*remove blindness/deafness*](../../magic/spells/remove-blindness-deafness.md) or [*lesser restoration*](../../magic/spells/restoration-lesser.md) as a spell-like ability. At 7th level, he can choose [*remove disease*](../../magic/spells/remove-disease.md) or [*remove paralysis*](../../magic/spells/remove-paralysis.md). At 9th level, he can choose [*neutralize poison*](../../magic/spells/neutralize-poison.md). At 11th level, he can choose [*breath of life*](../../magic/spells/breath-of-life.md). At 13th level, he can choose [*heal*](../../magic/spells/heal.md). At 15th level, he can choose [*regenerate*](../../magic/spells/regenerate.md). At 17th level, he can choose [*restoration*](../../magic/spells/restoration.md) but cannot affect permanent negative levels. At 19th level, he can choose [*resurrection*](../../magic/spells/resurrection.md) but can affect only a target that has been dead no more than 1 round per his cleric level.
 
 **Cleansing Flames (Su)**: At 9th level, the angelfire apostle becomes a direct conduit for the righteous power of his deity. Whenever the angelfire apostle casts a spell that belongs to the healing subschool that is a lower spell level than the highest spell he can cast, he can unleash a blast of flames as a swift action (1 AP) by expending one use of his channel energy ability. The flames last for 1 round and fill a contiguous area equal to one 10-foot cube per level of the healing spell cast (at least one side of the cube must be adjacent to the angelfire apostle’s space). The flames deal 1d4 points of damage per spell level. Half of the damage is fire damage, and half is raw divine power not subject to fire resistance or immunity. Any creature in the area can halve the damage with a successful Reflex saving throw against the spell’s DC. The angelfire apostle can use this ability a number of times per day equal to his Charisma modifier.
 
@@ -487,7 +487,7 @@ Practicing one's religion is not always legal. Some lands outlaw the worship of 
 
 **False Arcanist (Ex)**: At 1st level, a hidden priest is able to disguise his cleric spellcasting, presenting it as arcane magic of some kind. Typically, this is as alchemist, bard, sorcerer, or wizard magic, and the cleric disguises the words and gestures of the cleric spell with accoutrements appropriate to his apparent profession. He must make a skill check (DC 10 + twice the level of the spell) to disguise his casting and successfully cast the spell. The type of skill check depends on the type of caster he pretends to be: Craft (alchemy) for alchemist, Perform for bard, Knowledge (arcana) for sorcerer or wizard. Using Spellcraft to identify the spell works normally, though unless the observer beats the DC by 10 or more, she doesn't suspect the source of the magic is divine.
 
-For example, a hidden priest pretending to be an alchemist wants to cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) on a wounded townsperson. If he makes a DC 12 [Craft](../../rules/skills/craft.md) (alchemy) check, he disguises his spellcasting as the mixing of an alchemical extract or potion, which he gives to the target. An observer making a DC 16 [Spellcraft](../../rules/skills/spellcraft.md) check can identify his spell as *cure light wounds*, but doesn't realize his "alchemical" methods are a sham unless her check result is 26 or higher.
+For example, a hidden priest pretending to be an alchemist wants to cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) on a wounded townsperson. If he makes a DC 12 [Craft](../../rules/skills/craft.md) (alchemy) check, he disguises his spellcasting as the mixing of an alchemical extract or potion, which he gives to the target. An observer making a DC 16 [Spellcraft](../../rules/skills/spellcraft.md) check can identify his spell as [*cure light wounds*](../../magic/spells/cure-light-wounds.md), but doesn't realize his "alchemical" methods are a sham unless her check result is 26 or higher.
 
 When the hidden priest uses this ability, he must still provide any divine focus components for the spells he casts. However, the divine focus doesn't need to be an obvious symbol of his faith. It could be a small coin, tattoo, or garment bearing the symbol, whether presented openly, disguised, or hidden within a larger picture. He must use this replacement divine focus just as he would his true one (for example, he couldn't leave the coin in his shoe). If a spell requires a divine focus with a specific or minimum cost, the replacement divine focus must be of similar value to be used as the divine focus.
 
@@ -547,7 +547,7 @@ Iron priests preach of the messengers from beyond the stars, envoys of the divin
 
 **Channel Energy (Su)**: When an iron priest channels energy to heal or harm living creatures, she heals or harms constructs with the clockwork or robot subtypes as well. Constructs without those subtypes are also affected, but gain only half the normal amount of healing or take only half the normal amount of damage, as appropriate. This ability alters [channel energy](cleric.md#channel-energy-su).
 
-**Spontaneous Casting**: An iron priest can spontaneously cast [*make whole*](../../magic/spells/make-whole.md) and *greater make whole* in place of *cure/inflict moderate wounds* and *cure/inflict critical wounds*, regardless of whether she channels positive or negative energy. This ability alters casting.
+**Spontaneous Casting**: An iron priest can spontaneously cast [*make whole*](../../magic/spells/make-whole.md) and [*greater make whole*](../../magic/spells/make-whole-greater.md) in place of *cure/inflict moderate wounds* and *cure/inflict critical wounds*, regardless of whether she channels positive or negative energy. This ability alters casting.
 
 ## Idealist
 
@@ -556,17 +556,17 @@ In the Great Beyond, belief is power. Idealist clerics are personifications of t
 **Planar Bond (Su)**: At 1st level, an idealist must choose one plane as his planar bond. This plane must be his deity's home plane. An idealist can spontaneously cast the 1st-, 4th-, and 7th-level spells listed below for his chosen plane (provided he can cast spells of that level), in addition to cure or inflict spells.
 
 - **Abaddon**: [*protection from good*](../../magic/spells/protection-from-good.md), [*unholy blight*](../../magic/spells/unholy-blight.md), and [*blasphemy*](../../magic/spells/blasphemy.md).
-- **Abyss**: [*doom*](../../magic/spells/doom.md), *unholy blight*, and *blasphemy*.
-- **Astral**: *summon monster I*, [*dismissal*](../../magic/spells/dismissal.md), and *lesser create demiplane*.
+- **Abyss**: [*doom*](../../magic/spells/doom.md), [*unholy blight*](../../magic/spells/unholy-blight.md), and [*blasphemy*](../../magic/spells/blasphemy.md).
+- **Astral**: [*summon monster I*](../../magic/spells/summon-monster-i.md), [*dismissal*](../../magic/spells/dismissal.md), and [*lesser create demiplane*](../../magic/spells/create-demiplane-lesser.md).
 - **Axis**: [*protection from chaos*](../../magic/spells/protection-from-chaos.md), [*order's wrath*](../../magic/spells/orders-wrath.md), and [*dictum*](../../magic/spells/dictum.md).
 - **Boneyard**: [*deathwatch*](../../magic/spells/deathwatch.md), [*death ward*](../../magic/spells/death-ward.md), and [*arbitrament*](../../magic/spells/arbitrament.md).
 - **Elysium**: [*remove fear*](../../magic/spells/remove-fear.md), [*freedom of movement*](../../magic/spells/freedom-of-movement.md), and [*word of chaos*](../../magic/spells/word-of-chaos.md).
 - **Ethereal**: [*obscuring mist*](../../magic/spells/obscuring-mist.md), [*sending*](../../magic/spells/sending.md), and [*ethereal jaunt*](../../magic/spells/ethereal-jaunt.md).
-- **First World**: [*entropic shield*](../../magic/spells/entropic-shield.md), [*giant vermin*](../../magic/spells/giant-vermin.md), and *regenerate*.
+- **First World**: [*entropic shield*](../../magic/spells/entropic-shield.md), [*giant vermin*](../../magic/spells/giant-vermin.md), and [*regenerate*](../../magic/spells/regenerate.md).
 - **Heaven**: [*sanctuary*](../../magic/spells/sanctuary.md), [*discern lies*](../../magic/spells/discern-lies.md), and [*holy word*](../../magic/spells/holy-word.md).
-- **Hell**: [*command*](../../magic/spells/command.md), [*tongues*](../../magic/spells/tongues.md), and *dictum*.
-- **Maelstrom**: [*protection from law*](../../magic/spells/protection-from-law.md), [*chaos hammer*](../../magic/spells/chaos-hammer.md), and *word of chaos*.
-- **Nirvana**: [*protection from evil*](../../magic/spells/protection-from-evil.md), [*holy smite*](../../magic/spells/holy-smite.md), and *holy word*.
+- **Hell**: [*command*](../../magic/spells/command.md), [*tongues*](../../magic/spells/tongues.md), and [*dictum*](../../magic/spells/dictum.md).
+- **Maelstrom**: [*protection from law*](../../magic/spells/protection-from-law.md), [*chaos hammer*](../../magic/spells/chaos-hammer.md), and [*word of chaos*](../../magic/spells/word-of-chaos.md).
+- **Nirvana**: [*protection from evil*](../../magic/spells/protection-from-evil.md), [*holy smite*](../../magic/spells/holy-smite.md), and [*holy word*](../../magic/spells/holy-word.md).
 - **Plane of Air**: [*alter winds*](../../magic/spells/alter-winds.md), [*air walk*](../../magic/spells/air-walk.md), and [*control weather*](../../magic/spells/control-weather.md).
 - **Plane of Earth**: [*magic stone*](../../magic/spells/magic-stone.md), [*stoneskin*](../../magic/spells/stoneskin.md), and [*statue*](../../magic/spells/statue.md).
 - **Plane of Fire**: [*produce flame*](../../magic/spells/produce-flame.md)†, [*wall of fire*](../../magic/spells/wall-of-fire.md), and [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md).
@@ -656,15 +656,15 @@ Some clerics revere their deity as the embodiment of nature and the incarnation 
 
 | Spell Level | Spontaneous Spell |
 |---|---|
-| 1st | *bless water* |
-| 2nd | *slipstream* |
-| 3rd | *water breathing* |
-| 4th | *control water* |
-| 5th | *geyser* |
-| 6th | *fluid form* |
-| 7th | *elemental body IV* (water only) |
-| 8th | *seamantle* |
-| 9th | *elemental swarm* (water only) |
+| 1st | [*bless water*](../../magic/spells/bless-water.md) |
+| 2nd | [*slipstream*](../../magic/spells/slipstream.md) |
+| 3rd | [*water breathing*](../../magic/spells/water-breathing.md) |
+| 4th | [*control water*](../../magic/spells/control-water.md) |
+| 5th | [*geyser*](../../magic/spells/geyser.md) |
+| 6th | [*fluid form*](../../magic/spells/fluid-form.md) |
+| 7th | [*elemental body IV*](../../magic/spells/elemental-body-iv.md) (water only) |
+| 8th | [*seamantle*](../../magic/spells/seamantle.md) |
+| 9th | [*elemental swarm*](../../magic/spells/elemental-swarm.md) (water only) |
 
 ## Lawspeaker
 
@@ -680,15 +680,15 @@ Level 11: Greater dispel magic (30-foot burst; targets only illusion spells, pol
 
 | Level | Spell-Like Ability |
 |---|---|
-| 1st | *calm emotions* |
-| 3rd | *zone of truth* |
-| 5th | *invisibility purge* |
-| 7th | *discern lies* |
-| 9th | *true seeing* (self only) |
-| 11th | *greater dispel magic* (30-foot burst; targets only illusion spells, polymorph effects, and spells granting a bonus on Bluff and Disguise checks) |
-| 13th | *communal tongues* |
-| 15th | *discern location* |
-| 17th | *antimagic field* (30-foot radius) |
+| 1st | [*calm emotions*](../../magic/spells/calm-emotions.md) |
+| 3rd | [*zone of truth*](../../magic/spells/zone-of-truth.md) |
+| 5th | [*invisibility purge*](../../magic/spells/invisibility-purge.md) |
+| 7th | [*discern lies*](../../magic/spells/discern-lies.md) |
+| 9th | [*true seeing*](../../magic/spells/true-seeing.md) (self only) |
+| 11th | [*greater dispel magic*](../../magic/spells/dispel-magic-greater.md) (30-foot burst; targets only illusion spells, polymorph effects, and spells granting a bonus on Bluff and Disguise checks) |
+| 13th | [*communal tongues*](../../magic/spells/tongues-communal.md) |
+| 15th | [*discern location*](../../magic/spells/discern-location.md) |
+| 17th | [*antimagic field*](../../magic/spells/antimagic-field.md) (30-foot radius) |
 
 ## Triadic Priest
 
@@ -704,7 +704,7 @@ Level 11: Greater dispel magic (30-foot burst; targets only illusion spells, pol
 
 **Bonded Unity (Su)**: As a move action (1 AP), a triadic priest can share one teamwork feat she has with up to two bonded companions that are within 10 feet of her. Her bonded companions do not need to meet the feat's prerequisites and gain the benefits of the feat for 1 round plus 1 additional round for every 5 class levels the triadic priest has. A bonded companion can gain only one teamwork feat in this way at a time. The triadic priest can use this ability a number of times per day equal to 3 + her Wisdom modifier.
 
-**Bonded Ritual**: A triadic priest can prepare any of the spells below as though they were domain spells, though she can cast these domain spells only while she is within 10 feet of one of her bonded allies. At 8th level, once per day while within 10 feet of both her bonded allies, a triadic priest can cast any one of her domain spells of a spell level she can cast, whether she has prepared the spell or not, without expending a spell slot. If one of these domain spells has a casting time of more than one standard action, the triadic priest must succeed at a concentration check (DC = 20 + double the spell's level) or lose the spell if at any point during the casting she does not have a bonded ally within 10 feet. *Domain Spells*: 1st—[*ill omen*](../../magic/spells/ill-omen.md), 2nd—*blindness/deafness*, 3rd—*bestow curse*, 4th—[*charm monster*](../../magic/spells/charm-monster.md), 5th—[*baleful polymorph*](../../magic/spells/baleful-polymorph.md), 6th—*control weather*, 7th—[*forcecage*](../../magic/spells/forcecage.md), 8th—[*mind blank*](../../magic/spells/mind-blank.md), 9th—[*astral projection*](../../magic/spells/astral-projection.md).
+**Bonded Ritual**: A triadic priest can prepare any of the spells below as though they were domain spells, though she can cast these domain spells only while she is within 10 feet of one of her bonded allies. At 8th level, once per day while within 10 feet of both her bonded allies, a triadic priest can cast any one of her domain spells of a spell level she can cast, whether she has prepared the spell or not, without expending a spell slot. If one of these domain spells has a casting time of more than one standard action, the triadic priest must succeed at a concentration check (DC = 20 + double the spell's level) or lose the spell if at any point during the casting she does not have a bonded ally within 10 feet. *Domain Spells*: 1st—[*ill omen*](../../magic/spells/ill-omen.md), 2nd—[*blindness/deafness*](../../magic/spells/blindness-deafness.md), 3rd—[*bestow curse*](../../magic/spells/bestow-curse.md), 4th—[*charm monster*](../../magic/spells/charm-monster.md), 5th—[*baleful polymorph*](../../magic/spells/baleful-polymorph.md), 6th—[*control weather*](../../magic/spells/control-weather.md), 7th—[*forcecage*](../../magic/spells/forcecage.md), 8th—[*mind blank*](../../magic/spells/mind-blank.md), 9th—[*astral projection*](../../magic/spells/astral-projection.md).
 
 ## Channeler of the Unknown
 

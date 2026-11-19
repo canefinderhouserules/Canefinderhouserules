@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will partial (see text); **Spell Resistance** yes
 
-This functions as *thought worm II*, except a target that succeeds at its Will save still takes a –2 penalty on Will saves against your mind-affecting spells and effects for the same duration. This spell can be undercast.
+This functions as [*thought worm II*](thought-worm-ii.md), except a target that succeeds at its Will save still takes a –2 penalty on Will saves against your mind-affecting spells and effects for the same duration. This spell can be undercast.

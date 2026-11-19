@@ -17,7 +17,7 @@ The following section includes weapons with unusual powers and magical abilities
 
 This well-balanced, two-handed cleaver is nearly 6 feet in length. Its blade protrudes from a hilt that appears to be the spine of an animal, capped with a skull at its end. A *boneshaking cleaver* functions as a +3 unholy greataxe. On a critical hit, it also rattles the target’s bones, rending flesh and separating joints. This deals 1 point of Constitution damage and allows the wielder to apply one of the following conditions to the target for 1 round: deafened, shaken, or sickened.
 
-**Requirements** Craft Magic Arms and Armor, *bestow curse*, *unholy blight*; **Cost** 45,320 gp
+**Requirements** Craft Magic Arms and Armor, [*bestow curse*](../magic/spells/bestow-curse.md), [*unholy blight*](../magic/spells/unholy-blight.md); **Cost** 45,320 gp
 
 ### Hangman’s Noose
 
@@ -26,11 +26,11 @@ This well-balanced, two-handed cleaver is nearly 6 feet in length. Its blade pro
 
 This +1 whip is made from a hemp rope that once served as the noose in a gallows. The countless executions committed with the rope have left an indelible mark on the weapon.
 
-As a standard action (1 AP), the wielder of a *hangman’s noose* can attempt a combat maneuver check to wrap the whip around a creature’s neck. If she succeeds, the victim can’t move outside of the whip’s reach. As a standard action (1 AP), the wielder can attempt a reposition combat maneuver check to move the victim within the whip’s reach or to pull the whip tighter, strangling the victim (see the rules for *suffocation* in the *Core Rulebook*). Once the target is being strangled, the wielder can attempt a combat maneuver check as a standard action (1 AP) to squeeze the air out of the victim’s lungs. This reduces the amount of time the victim can hold his breath by 1d6+1 rounds.
+As a standard action (1 AP), the wielder of a *hangman’s noose* can attempt a combat maneuver check to wrap the whip around a creature’s neck. If she succeeds, the victim can’t move outside of the whip’s reach. As a standard action (1 AP), the wielder can attempt a reposition combat maneuver check to move the victim within the whip’s reach or to pull the whip tighter, strangling the victim (see the rules for [*suffocation*](../magic/spells/suffocation.md) in the *Core Rulebook*). Once the target is being strangled, the wielder can attempt a combat maneuver check as a standard action (1 AP) to squeeze the air out of the victim’s lungs. This reduces the amount of time the victim can hold his breath by 1d6+1 rounds.
 
 A victim can escape the noose with a successful Escape Artist check (DC = the wielder’s CMD), or by severing the noose with an attack or a successful sunder combat maneuver check. The noose has AC 18, hardness 2, and 12 hp. If severed, the noose can still be used as a +1 whip and repairs itself after 1 hour.
 
-**Requirements** Craft Magic Arms and Armor, *animate rope*, *suffocation*; **Cost** 9,301 gp
+**Requirements** Craft Magic Arms and Armor, [*animate rope*](../magic/spells/animate-rope.md), [*suffocation*](../magic/spells/suffocation.md); **Cost** 9,301 gp
 
 ### Hooked Massacre
 
@@ -41,7 +41,7 @@ This viciously barbed +1 spiked chain consists of a jagged hook at the end of a 
 
 If the wielder of a *hooked massacre* uses it for a drag or reposition combat maneuver that brings the target adjacent to him, he can make an attack against the target at his highest base attack bonus as an immediate action (1 AP of your next turn).
 
-**Requirements** Craft Magic Arms and Armor, Combat Expertise, Improved Drag, Improved Reposition, *haste*; **Cost** 11,325 gp
+**Requirements** Craft Magic Arms and Armor, Combat Expertise, Improved Drag, Improved Reposition, [*haste*](../magic/spells/haste.md); **Cost** 11,325 gp
 
 ### Murderer’s Machete
 
@@ -50,9 +50,9 @@ If the wielder of a *hooked massacre* uses it for a drag or reposition combat ma
 
 This wide machete is darkly stained with blood. It is treated as a +1 keen short sword that also has a vicious cutting edge, allowing it to deal slashing damage in addition to piercing damage.
 
-The *murderer’s machete* grants its wielder the ability to move with unnatural grace and speed while stalking potential victims. The wielder gains a +2 competence bonus on Stealth checks and Survival checks to track. In addition, once per day, the wielder can lick the bloodstains on the blade as a standard action (1 AP) to gain the benefits of *cruel jaunt*.
+The *murderer’s machete* grants its wielder the ability to move with unnatural grace and speed while stalking potential victims. The wielder gains a +2 competence bonus on Stealth checks and Survival checks to track. In addition, once per day, the wielder can lick the bloodstains on the blade as a standard action (1 AP) to gain the benefits of [*cruel jaunt*](../magic/spells/cruel-jaunt.md).
 
-**Requirements** Craft Magic Arms and Armor, *cruel jaunt*, *keen edge*, creator must sacrifice a sentient living creature; **Cost** 16,590 gp
+**Requirements** Craft Magic Arms and Armor, [*cruel jaunt*](../magic/spells/cruel-jaunt.md), [*keen edge*](../magic/spells/keen-edge.md), creator must sacrifice a sentient living creature; **Cost** 16,590 gp
 
 ### Murderer’s Machete, Greater
 
@@ -61,18 +61,18 @@ The *murderer’s machete* grants its wielder the ability to move with unnatural
 
 This item functions like a *murderer’s machete*, but is a +2 keen wounding short sword.
 
-**Requirements** Craft Magic Arms and Armor, *bleed*, *cruel jaunt*, *keen edge*, creator must sacrifice a sentient living creature; **Cost** 39,310 gp
+**Requirements** Craft Magic Arms and Armor, [*bleed*](../magic/spells/bleed.md), [*cruel jaunt*](../magic/spells/cruel-jaunt.md), [*keen edge*](../magic/spells/keen-edge.md), creator must sacrifice a sentient living creature; **Cost** 39,310 gp
 
 ### Sacrificial Dagger
 
 **Aura** faint necromancy [evil]; **CL** 3rd  
 **Slot** none; **Price** 7,302 gp; **Weight** 1 lb.
 
-The serrated blade of this +1 dagger is set in a hilt made of human bone carved in the shape of a scorpion’s tail. Once per day when the wielder delivers a coup de grace with the *sacrificial dagger* and the target dies as a result of the attack, the dagger traps the dead creature’s life energy for 10 minutes per Hit Die of the creature. A dark mist visibly seeps from the dagger during this time, and anyone wielding the dagger gains the benefits of *death knell*. Determine the number of temporary hit points granted when the target dies. The temporary hit points stem from the dagger, so if another creature wields the dagger, that creature gains the remaining temporary hit points (if any) and the previous wielder loses them.
+The serrated blade of this +1 dagger is set in a hilt made of human bone carved in the shape of a scorpion’s tail. Once per day when the wielder delivers a coup de grace with the *sacrificial dagger* and the target dies as a result of the attack, the dagger traps the dead creature’s life energy for 10 minutes per Hit Die of the creature. A dark mist visibly seeps from the dagger during this time, and anyone wielding the dagger gains the benefits of [*death knell*](../magic/spells/death-knell.md). Determine the number of temporary hit points granted when the target dies. The temporary hit points stem from the dagger, so if another creature wields the dagger, that creature gains the remaining temporary hit points (if any) and the previous wielder loses them.
 
-If, while the *death knell* effect is active, the wielder casts a spell that requires sacrificing a creature, she can expend the life energy stored in the dagger. For the purpose of fulfilling the spell’s requirements, the life energy counts as the creature did when it was alive (including Hit Dice and whether or not it was sentient). Expending the trapped life energy ends the *death knell* effect immediately, before the casting of the sacrificial spell is complete, so the *death knell* effect doesn’t increase the wielder’s caster level for that spell. Sacrificing another creature dissipates the life energy of any previous sacrifice already held in the dagger.
+If, while the [*death knell*](../magic/spells/death-knell.md) effect is active, the wielder casts a spell that requires sacrificing a creature, she can expend the life energy stored in the dagger. For the purpose of fulfilling the spell’s requirements, the life energy counts as the creature did when it was alive (including Hit Dice and whether or not it was sentient). Expending the trapped life energy ends the *death knell* effect immediately, before the casting of the sacrificial spell is complete, so the *death knell* effect doesn’t increase the wielder’s caster level for that spell. Sacrificing another creature dissipates the life energy of any previous sacrifice already held in the dagger.
 
-**Requirements** Craft Magic Arms and Armor, *death knell*; **Cost** 3,802 gp
+**Requirements** Craft Magic Arms and Armor, [*death knell*](../magic/spells/death-knell.md); **Cost** 3,802 gp
 
 ### Screaming Blade
 
@@ -85,7 +85,7 @@ The disturbing noise makes it difficult for nearby creatures to concentrate. Any
 
 Silence and similar effects suppress all the blade’s magical abilities except its enhancement bonus.
 
-**Requirements** Craft Magic Arms and Armor, *sound burst*, creator must be evil and torture a sentient creature during creation; **Cost** 12,815 gp
+**Requirements** Craft Magic Arms and Armor, [*sound burst*](../magic/spells/sound-burst.md), creator must be evil and torture a sentient creature during creation; **Cost** 12,815 gp
 
 ### Table 7–5: Specific Magic Weapons
 

@@ -11,4 +11,4 @@ This special ability can be placed only on simple weapons, hand crossbows, rapie
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *good hope*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*good hope*](../../magic/spells/good-hope.md); **Price** —

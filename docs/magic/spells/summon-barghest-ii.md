@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *summon barghest I*, save that it can summon 1 greater barghest or 1d3 normal barghests with 2 growth points each.
+This spell functions like [*summon barghest I*](summon-barghest-i.md), save that it can summon 1 greater barghest or 1d3 normal barghests with 2 growth points each.

@@ -11,4 +11,4 @@ This special ability can be placed on only weapons that deal nonlethal damage. A
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *pain strike*, *touch of fatigue*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*pain strike*](../../magic/spells/pain-strike.md), [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md); **Price** —

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A melee weapon crafted
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *magic stone*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*magic stone*](../../magic/spells/magic-stone.md); **Price** —

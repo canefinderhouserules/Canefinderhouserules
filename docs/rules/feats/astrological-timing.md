@@ -6,4 +6,4 @@ You can perform more accurate auguries according to planetary movements in relat
 
 **Prerequisites**: Ability to cast [*augury*](../../magic/spells/augury.md) as a spell or spell-like ability.
 
-**Benefit**: You can use a cosmogram or star chart as an optional focus component for *augury*. When you do, the *augury* can account for consequences up to 1 hour into the future, and your chance of a successful reading increases by 4%. If you also consult a calculating standard orrery or calculating grand orrery, the *augury* can see up to 1 day into the future and your chance of success increases by 8%.
+**Benefit**: You can use a cosmogram or star chart as an optional focus component for [*augury*](../../magic/spells/augury.md). When you do, the *augury* can account for consequences up to 1 hour into the future, and your chance of a successful reading increases by 4%. If you also consult a calculating standard orrery or calculating grand orrery, the *augury* can see up to 1 day into the future and your chance of success increases by 8%.

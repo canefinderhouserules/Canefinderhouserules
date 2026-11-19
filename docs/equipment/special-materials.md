@@ -71,7 +71,7 @@ This lustrous golden metal emits beautiful bell-like tones when struck. An alloy
 
 A weapon made of singing steel counts as alchemical silver for all purposes, including the –1 penalty on damage rolls with singing steel weapons. Most armor made of singing steel is treated as one category lighter (heavy armors are treated as medium, and medium armors are treated as light, but light armors are still treated as light). The armor or shield’s arcane spell failure chance is reduced by 5%, its maximum Dexterity bonus is increased by 1, and its armor check penalty is reduced by 1 (to a minimum of 0).
 
-When wielding a singing steel weapon, shield, or item weighing at least 5 pounds, or wearing medium or heavy singing steel armor, the wielder or wearer can strike the singing steel as part of beginning a bardic performance. If the wielder can normally start a bardic performance as a standard action (2 AP), he can do so as a move action (1 AP) instead. If the wielder can normally start a bardic performance as a move action (1 AP), he can do so as a swift action (1 AP) instead. This ability does not function in the area of a *silence* spell or similar effect. After using the singing steel in this fashion, the steel must be carefully brushed to remove any lingering vibrations, a process that takes 10 minutes.
+When wielding a singing steel weapon, shield, or item weighing at least 5 pounds, or wearing medium or heavy singing steel armor, the wielder or wearer can strike the singing steel as part of beginning a bardic performance. If the wielder can normally start a bardic performance as a standard action (2 AP), he can do so as a move action (1 AP) instead. If the wielder can normally start a bardic performance as a move action (1 AP), he can do so as a swift action (1 AP) instead. This ability does not function in the area of a [*silence*](../magic/spells/silence.md) spell or similar effect. After using the singing steel in this fashion, the steel must be carefully brushed to remove any lingering vibrations, a process that takes 10 minutes.
 
 Singing steel items are always masterwork; this cost is included in the price. Singing steel has 20 hp per inch of thickness and hardness 10. Although formed partially from mithral, singing steel items weigh as much as their normal counterparts.
 
@@ -86,7 +86,7 @@ Singing steel items are always masterwork; this cost is included in the price. S
 
 ## Sunsilver
 
-An advanced form of alchemical silver, sunsilver is a favorite of desert war smiths. A weapon made of sunsilver counts as alchemical silver for all purposes. Items not primarily made of metal are not meaningfully affected by being partially made of sunsilver. (For example, a scimitar or breastplate can be made of sunsilver, while a quarterstaff or hide armor cannot.) In addition, items made of sunsilver are immune to rust effects (such as *rusting grasp*). While in an area of bright light, a shield or suit of armor made of sunsilver shines brightly, allowing the wearer to reflect light at nearby foes as a move action (1 AP). When she does so, creatures adjacent to the wearer must succeed at a DC 12 Fortitude save or be dazzled for 1 round.
+An advanced form of alchemical silver, sunsilver is a favorite of desert war smiths. A weapon made of sunsilver counts as alchemical silver for all purposes. Items not primarily made of metal are not meaningfully affected by being partially made of sunsilver. (For example, a scimitar or breastplate can be made of sunsilver, while a quarterstaff or hide armor cannot.) In addition, items made of sunsilver are immune to rust effects (such as [*rusting grasp*](../magic/spells/rusting-grasp.md)). While in an area of bright light, a shield or suit of armor made of sunsilver shines brightly, allowing the wearer to reflect light at nearby foes as a move action (1 AP). When she does so, creatures adjacent to the wearer must succeed at a DC 12 Fortitude save or be dazzled for 1 round.
 
 Armor and weapons made of sunsilver are always masterwork. To determine the price of a sunsilver item, add 25 gp per pound to the price of a masterwork version of that item. Sunsilver has 10 hit points per inch of thickness and hardness 8.
 
@@ -100,7 +100,7 @@ To determine the price of a blackwood item, use the original weight but add 20 g
 
 ## Heatstone Plating
 
-Heatstone plating involves placing alchemically treated heatstones at strategic points within clothing or armor. A character wearing armor that has heatstone plating is constantly protected from cold weather as per the *endure elements* spell. Armor with heatstone plating weighs 1 additional pound for every 5 pounds of the armor's original weight (for example, a suit of leather armor with heatstone plating weighs 18 pounds). Heatstone plating cannot be sewn into heavy armor.
+Heatstone plating involves placing alchemically treated heatstones at strategic points within clothing or armor. A character wearing armor that has heatstone plating is constantly protected from cold weather as per the [*endure elements*](../magic/spells/endure-elements.md) spell. Armor with heatstone plating weighs 1 additional pound for every 5 pounds of the armor's original weight (for example, a suit of leather armor with heatstone plating weighs 18 pounds). Heatstone plating cannot be sewn into heavy armor.
 
 | Type of Heatstone Plating Item | Item Price Modifier |
 |---|---|
@@ -109,7 +109,7 @@ Heatstone plating involves placing alchemically treated heatstones at strategic 
 
 ## Liquid Glass
 
-This heatstone-derived glass is warm to the touch and slightly malleable, as if it were still liquid. A pliable nature allows this otherwise razor-sharp crystal to repair itself when it takes damage. An item made from liquid glass repairs damage to itself at a rate of 2 hit points per day, even if the weapon is broken or destroyed (but not if the weapon is destroyed in a way that the pieces cannot be retrieved, such as via *disintegrate*). If a weapon made from liquid glass has full hit points, it grants a +1 bonus on damage rolls. Items made from liquid glass have 10 hit points per inch of thickness and hardness 10.
+This heatstone-derived glass is warm to the touch and slightly malleable, as if it were still liquid. A pliable nature allows this otherwise razor-sharp crystal to repair itself when it takes damage. An item made from liquid glass repairs damage to itself at a rate of 2 hit points per day, even if the weapon is broken or destroyed (but not if the weapon is destroyed in a way that the pieces cannot be retrieved, such as via [*disintegrate*](../magic/spells/disintegrate.md)). If a weapon made from liquid glass has full hit points, it grants a +1 bonus on damage rolls. Items made from liquid glass have 10 hit points per inch of thickness and hardness 10.
 
 | Type of Liquid Glass Item | Item Price Modifier |
 |---|---|

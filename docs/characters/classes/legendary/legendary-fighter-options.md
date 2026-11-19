@@ -482,7 +482,7 @@ Examining other martial classes’ class skills helps narrow down the list of sk
 
 - *Escape Artist*: For nimble fighters to wriggle out of a grapple.
 
-- *Heal*: A nonmagical way for a fighter to deal with battle wounds.
+- [*Heal*](../../../magic/spells/heal.md): A nonmagical way for a fighter to deal with battle wounds.
 
 - *Knowledge (dungeoneering)*: For underground fighters such as dwarves.
 

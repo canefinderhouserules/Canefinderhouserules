@@ -70,7 +70,7 @@ Four basic elements (air, earth, fire, and water) and two types of energy (posit
 
 **Water-Dominant**: Mostly liquid. Visitors who can't breathe water or reach a pocket of air likely drown. Creatures of the fire subtype are extremely uncomfortable, and those made of fire take 1d10 points of damage each round.
 
-**Negative-Dominant**: Planes that drain the life out of travelers, drained of color and devoid of plant and animal life. *Death ward* provides protection as long as the effect lasts, regardless of the strength of the trait.
+**Negative-Dominant**: Planes that drain the life out of travelers, drained of color and devoid of plant and animal life. [*Death ward*](../../magic/spells/death-ward.md) provides protection as long as the effect lasts, regardless of the strength of the trait.
 - *Minor*: Living creatures take 1d6 points of negative energy damage per round; a creature reduced to 0 hit points or below crumbles into ash. Undead gain fast healing 2 (this does not stack with existing fast healing).
 - *Major*: Each round a living creature must succeed at a DC 25 Fortitude save or incur a negative level. A creature whose negative levels equal its current levels or Hit Dice is slain and becomes a wraith. Undead gain fast healing 5 (does not stack).
 
@@ -92,7 +92,7 @@ A plane's magic trait describes how magic works there compared to the Material P
 
 **Normal Magic**: All spells and supernatural abilities function as written.
 
-**Dead Magic**: No magic at all. The plane functions in all respects as if affected by an *antimagic field*. Divination spells cannot detect subjects within a dead magic plane, and a spellcaster cannot cast *plane shift* or another spell to move in or out. The only exceptions are permanent planar portals, which still function normally.
+**Dead Magic**: No magic at all. The plane functions in all respects as if affected by an [*antimagic field*](../../magic/spells/antimagic-field.md). Divination spells cannot detect subjects within a dead magic plane, and a spellcaster cannot cast [*plane shift*](../../magic/spells/plane-shift.md) or another spell to move in or out. The only exceptions are permanent planar portals, which still function normally.
 
 **Enhanced Magic**: Particular spells and spell-like abilities are easier to use or more powerful. An enhanced spell functions as if its caster level were 2 higher than normal.
 
@@ -111,10 +111,10 @@ A plane's magic trait describes how magic works there compared to the Material P
 | 24–27 | The spell fails, but the target or targets are pelted with a rain of small objects (anything from flowers to rotten fruit), which disappear upon striking. The barrage continues for 1 round. During this time the targets are blinded and must make concentration checks (DC 15 + spell level) to cast spells. |
 | 28–31 | The spell affects a random target or area. Randomly choose a different target from among those in range or center the spell at a random place within range. To generate direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate range randomly, roll 3d6 and multiply by 5 feet for close-range spells, 20 feet for medium-range spells, or 80 feet for long-range spells. |
 | 32–35 | The spell functions normally, but any material components are not consumed. The spell is not expended from the caster's mind (the spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item's or spell-like ability's use limit. |
-| 36–39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a *heal* spell. |
-| 40–43 | The spell does not function. Instead, a *deeper darkness* effect and a *silence* effect cover a 30-foot radius around the caster for 2d4 rounds. |
-| 44–47 | The spell does not function. Instead, a *reverse gravity* effect covers a 30-foot radius around the caster for 1 round. |
-| 48–51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this as a *glitterdust* effect with a save DC of 10 + the level of the spell that generated this result. |
+| 36–39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a [*heal*](../../magic/spells/heal.md) spell. |
+| 40–43 | The spell does not function. Instead, a [*deeper darkness*](../../magic/spells/deeper-darkness.md) effect and a [*silence*](../../magic/spells/silence.md) effect cover a 30-foot radius around the caster for 2d4 rounds. |
+| 44–47 | The spell does not function. Instead, a [*reverse gravity*](../../magic/spells/reverse-gravity.md) effect covers a 30-foot radius around the caster for 1 round. |
+| 48–51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this as a [*glitterdust*](../../magic/spells/glitterdust.md) effect with a save DC of 10 + the level of the spell that generated this result. |
 | 52–59 | Nothing happens. The spell does not function. Any material components are used up. The spell or spell slot is used up, an item loses charges, and the effect counts against an item's or spell-like ability's use limit. |
 | 60–71 | Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended (a spell slot or prepared spell can be used again). An item does not lose charges. |
 | 72–98 | The spell functions normally. |

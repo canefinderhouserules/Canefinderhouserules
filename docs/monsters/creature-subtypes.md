@@ -713,7 +713,7 @@ A protean automatically recovers from physical blindness or deafness after 1 rou
 | 15 | Target is staggered for 1d4 rounds. |
 | 16 | Target gains 4d6 temporary hit points. |
 | 17 | Target is affected by a heal spell (CL = protean’s CR). |
-| 18 | Target becomes petrified 1, as per *flesh to stone*. |
+| 18 | Target becomes petrified 1, as per [*flesh to stone*](../magic/spells/flesh-to-stone.md). |
 | 19 | Target is affected by baleful polymorph (CL = protean’s CR). |
 | 20 | Portions of target’s body burst with energy of a random type (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target. |
 

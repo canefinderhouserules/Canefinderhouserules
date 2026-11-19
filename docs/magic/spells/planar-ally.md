@@ -1,10 +1,11 @@
 # Planar Ally
 
-**School** conjuration (calling) [see text for *lesser planar ally*]; **Level** cleric 6, psychic 6, shaman 6  
+**School** conjuration (calling) [see text for [*lesser planar ally*](planar-ally-lesser.md)]; **Level** cleric 6, psychic 6, shaman 6  
 **Casting Time** 10 minutes  
 **Components** V, S, M (offerings worth 1,250 gp plus payment), DF  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Effect** one or two called outsiders, totaling no more than 12 HD, which cannot be more than 30 ft. apart when they appear  
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *lesser planar ally*, except you may call a single creature of 12 HD or less, or two creatures of the same kind whose HD total no more than 12. The creatures agree to help you and request your return payment together.
+This spell functions like [*lesser planar ally*](planar-ally-lesser.md), except you may call a single creature of 12 HD or less, or two creatures of the same kind whose HD total no more than 12. The creatures agree to help you and request your return payment together.

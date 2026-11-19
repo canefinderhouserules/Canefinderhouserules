@@ -14,11 +14,11 @@ There is a series of free jutsu, which do not spend a spell known; all shinobi h
 
 **Chakra Buff [1]:** you spend chakra to increase one of your physical faculties. You gain +2 to a physical ability score. Upcast to 2nd sphere it is +4, to 3rd sphere +6, and to the 5th and last sphere +8. 5 chakra. Swift action (1 AP). Personal. Lasts 1 round.
 
-**Illusory Clone [1]:** you create false clones of yourself to confuse the enemy. 2 chakra per clone. Basically *mirror image*, but you choose the number of clones. Standard action (1 AP). Lasts 1 round/level. You can create up to a maximum set by the maximum cost of the jutsu's level (a first-sphere jutsu has a maximum cost of 10, so if you cannot upcast it to the second sphere, your maximum is 5 clones).
+**Illusory Clone [1]:** you create false clones of yourself to confuse the enemy. 2 chakra per clone. Basically [*mirror image*](../../magic/spells/mirror-image.md), but you choose the number of clones. Standard action (1 AP). Lasts 1 round/level. You can create up to a maximum set by the maximum cost of the jutsu's level (a first-sphere jutsu has a maximum cost of 10, so if you cannot upcast it to the second sphere, your maximum is 5 clones).
 
 **Substitution Jutsu [1]:** you swap places with a nearby object to avoid being damaged. Immediate action (1 AP of your next turn). 5 chakra. +2 AC and saves when using it. Upcast to the third sphere, it lets you use an enemy instead of an object to take the attack, but the enemy must be adjacent and cannot be the one who made the attack (unless it is a ranged attack and somehow they threw it from afar and are adjacent). Using an enemy requires a touch attack from the user of this jutsu.
 
-**Transformation Jutsu [1]:** 5 chakra, 1 chakra per turn. May require a Disguise check. Works like *alter self* but gives no abilities or ability score bonuses.
+**Transformation Jutsu [1]:** 5 chakra, 1 chakra per turn. May require a Disguise check. Works like [*alter self*](../../magic/spells/alter-self.md) but gives no abilities or ability score bonuses.
 
 **Water Walking [2]:** lets you walk, run and move in general on water or any other liquid, avoiding contact with it and sinking. Immediate action (1 AP of your next turn). If upcast to 3rd, it becomes a free action (effectively permanent as soon as you can cast third sphere, because it has no cost).
 

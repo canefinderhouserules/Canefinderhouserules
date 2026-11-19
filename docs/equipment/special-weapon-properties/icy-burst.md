@@ -13,4 +13,4 @@ Even if the *frost* ability is not active, the weapon still deals its extra cold
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *chill metal* or *ice storm*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*chill metal*](../../magic/spells/chill-metal.md) or [*ice storm*](../../magic/spells/ice-storm.md); **Price** —

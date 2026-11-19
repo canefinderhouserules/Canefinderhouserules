@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. Each time the wielder 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *resist energy*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*resist energy*](../../magic/spells/resist-energy.md); **Price** —

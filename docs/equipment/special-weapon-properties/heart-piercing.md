@@ -10,4 +10,4 @@ This special ability can be placed only on piercing ranged weapons. It functions
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *finger of death*, *keen edge*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*finger of death*](../../magic/spells/finger-of-death.md), [*keen edge*](../../magic/spells/keen-edge.md); **Price** —

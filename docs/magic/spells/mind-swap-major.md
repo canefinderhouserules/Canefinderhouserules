@@ -3,6 +3,7 @@
 **School** enchantment (compulsion) [mind-affecting]; **Level** psychic 9  
 **Casting Time** 1 minute  
 **Components** V, S, M (diamonds worth 10,000 gp)  
+**Range** medium (100 ft. + 10 ft./level)  
 **Target** one creature of your same race  
 **Duration** instantaneous  
 **Saving Throw** Will negates; **Spell Resistance** yes

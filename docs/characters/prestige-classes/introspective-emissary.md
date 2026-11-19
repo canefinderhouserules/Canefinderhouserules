@@ -11,15 +11,15 @@ Few introspective emissaries still exist, and many consider the art of mingling 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
 |---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Spirit animal, spirit bond, sixth sense (undead) | — |
-| 2nd | +1 | +1 | +1 | +1 | Animus (*summon monster IV*), sixth sense (fey) | +1 level of existing spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Animus ([*summon monster IV*](../../magic/spells/summon-monster-iv.md)), sixth sense (fey) | +1 level of existing spellcasting class |
 | 3rd | +2 | +1 | +1 | +2 | Manifest will, sixth sense (outsiders) | +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | Animus (*summon monster V*, 2/day) | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | Animus ([*summon monster V*](../../magic/spells/summon-monster-v.md), 2/day) | +1 level of existing spellcasting class |
 | 5th | +3 | +2 | +2 | +3 | Parley, spirit conduit (augment) | — |
-| 6th | +4 | +2 | +2 | +3 | Animus (*summon monster VI*), manifest will | +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +2 | +3 | Animus ([*summon monster VI*](../../magic/spells/summon-monster-vi.md)), manifest will | +1 level of existing spellcasting class |
 | 7th | +5 | +2 | +2 | +4 | Spirit conduit (recall) | +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | Animus (*summon monster VII*, 3/day) | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | Animus ([*summon monster VII*](../../magic/spells/summon-monster-vii.md), 3/day) | +1 level of existing spellcasting class |
 | 9th | +6 | +3 | +3 | +5 | Manifest will | — |
-| 10th | +7 | +3 | +3 | +5 | Animus (*summon monster VIII*), spirit conduit (commune) | +1 level of existing spellcasting class |
+| 10th | +7 | +3 | +3 | +5 | Animus ([*summon monster VIII*](../../magic/spells/summon-monster-viii.md)), spirit conduit (commune) | +1 level of existing spellcasting class |
 
 ### Requirements
 
@@ -61,7 +61,7 @@ An introspective emissary gains [*detect undead*](../../magic/spells/detect-unde
 
 #### Animus (Sp)
 
-At 2nd level, an introspective emissary learns to call down more powerful spiritual servants, using her spirit animal as the focus and conduit to create a hybrid creature called an animus. This ability functions as *summon monster IV*, except the introspective emissary can summon only a single creature at a time (though she can select a different creature each time and can always decide to summon a single creature from a lower-level list). This summoned creature appears in the spirit animal’s location, replaces the spirit animal for the spell’s duration, gains the familiar’s spirit animal ability, and obeys the introspective emissary as if it were her spirit animal. An animus typically retains some superficial traits of the spirit animal used as a conduit in its summoning, but gains no other abilities normally associated with a familiar (such as share spells or evolution points). The introspective emissary must be within 30 feet of her spirit animal to use this ability.
+At 2nd level, an introspective emissary learns to call down more powerful spiritual servants, using her spirit animal as the focus and conduit to create a hybrid creature called an animus. This ability functions as [*summon monster IV*](../../magic/spells/summon-monster-iv.md), except the introspective emissary can summon only a single creature at a time (though she can select a different creature each time and can always decide to summon a single creature from a lower-level list). This summoned creature appears in the spirit animal’s location, replaces the spirit animal for the spell’s duration, gains the familiar’s spirit animal ability, and obeys the introspective emissary as if it were her spirit animal. An animus typically retains some superficial traits of the spirit animal used as a conduit in its summoning, but gains no other abilities normally associated with a familiar (such as share spells or evolution points). The introspective emissary must be within 30 feet of her spirit animal to use this ability.
 
 The animus remains for 1 round per caster level; it vanishes once this duration expires or it is reduced to 0 or fewer hit points. The spirit animal reappears in the animus’s last location and suffers none of the damage, status effects, or spells affecting the animus when it vanished.
 

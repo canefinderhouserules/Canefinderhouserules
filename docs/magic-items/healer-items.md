@@ -18,15 +18,15 @@ In addition to the benefits described above, a specialized healer's satchel come
 
 **Treatment**: The specialized healer's satchel contains alchemical blood cleansers, specialized antitoxins, and other magical tools to aid patients suffering from disease or poison. The wielder can expend two uses of the satchel when using the Heal skill to treat poison or disease to use her Heal check result in place of the creature's next Fortitude saving throw against the poison or disease. If the Heal check result doesn't equal or exceed the DC of the disease or poison, she still adds a +4 competence bonus to the creature's next saving throw against the disease or poison.
 
-*Construction* Craft Wondrous Item, *cure light wounds*, *lesser restoration*, creator must have 5 ranks in Heal; Cost 750 gp (normal), 1,500 gp (specialized).
+*Construction* Craft Wondrous Item, [*cure light wounds*](../magic/spells/cure-light-wounds.md), [*lesser restoration*](../magic/spells/restoration-lesser.md), creator must have 5 ranks in Heal; Cost 750 gp (normal), 1,500 gp (specialized).
 
 ## Gloves of Stolen Breath
 
 *Aura* moderate conjuration and necromancy; *CL* 9th; *Slot* hands; *Price* 54,000 gp; *Weight* —
 
-These black leather gloves feel like warm, living skin to the touch. When the wearer delivers a coup de grace that kills an opponent, she can target a single creature within 30 feet that has died within the previous 3 rounds as a free action. The target creature is healed as if with a *breath of life* spell (regaining 5d8+9 hit points), and if the creature's hit point total is then greater than a negative amount equal to its Constitution score, it comes back to life and stabilizes at its new hit point total. As with the *breath of life* spell, creatures brought back to life gain a temporary negative level that lasts for 1 day, but this effect can save creatures slain by death effects. This effect cannot damage undead creatures. The opponent killed by the coup de grace must have a number of Hit Dice equal to or greater than the target slain creature's Hit Dice or the gloves' ability is not triggered.
+These black leather gloves feel like warm, living skin to the touch. When the wearer delivers a coup de grace that kills an opponent, she can target a single creature within 30 feet that has died within the previous 3 rounds as a free action. The target creature is healed as if with a [*breath of life*](../magic/spells/breath-of-life.md) spell (regaining 5d8+9 hit points), and if the creature's hit point total is then greater than a negative amount equal to its Constitution score, it comes back to life and stabilizes at its new hit point total. As with the *breath of life* spell, creatures brought back to life gain a temporary negative level that lasts for 1 day, but this effect can save creatures slain by death effects. This effect cannot damage undead creatures. The opponent killed by the coup de grace must have a number of Hit Dice equal to or greater than the target slain creature's Hit Dice or the gloves' ability is not triggered.
 
-*Construction* Craft Wondrous Item, *breath of life*, *death knell*; Cost 27,000 gp.
+*Construction* Craft Wondrous Item, [*breath of life*](../magic/spells/breath-of-life.md), [*death knell*](../magic/spells/death-knell.md); Cost 27,000 gp.
 
 ## Memoriam Root
 
@@ -38,7 +38,7 @@ The tree produces 1d4 pieces of magical fruit each day, regardless of the local 
 
 Fruit harvested from the tree retains these effects for 24 hours. When the tree grows new fruit each day, the previous day's fruit loses its magical effect and falls to the ground. The effects below are cumulative.
 
-**Chaotic**: The consuming creature gains an instinctual drive toward freedom. For 1 minute after it consumes the fruit, the creature becomes immune to any spell or effect that impedes movement, such as paralysis, *slow*, *solid fog*, or *web*.
+**Chaotic**: The consuming creature gains an instinctual drive toward freedom. For 1 minute after it consumes the fruit, the creature becomes immune to any spell or effect that impedes movement, such as paralysis, [*slow*](../magic/spells/slow.md), [*solid fog*](../magic/spells/solid-fog.md), or [*web*](../magic/spells/web.md).
 
 **Evil**: The consuming creature perceives the world through a hardened lens of cynicism. This suppresses any spells or effects affecting the eater that cause confusion for 1 minute after the fruit is consumed.
 
@@ -48,7 +48,7 @@ Fruit harvested from the tree retains these effects for 24 hours. When the tree 
 
 **Neutral**: The consuming creature feels a sense of connection to the balanced, amoral nature of creation. For 1 minute after it consumes the fruit, the creature can't be targeted by spells or effects that would damage or otherwise harm it based on its alignment.
 
-*Construction* Craft Wondrous Item, *goodberry*, *tree shape*; Cost 3,000 gp.
+*Construction* Craft Wondrous Item, [*goodberry*](../magic/spells/goodberry.md), [*tree shape*](../magic/spells/tree-shape.md); Cost 3,000 gp.
 
 ## Nursing Necklace
 
@@ -68,7 +68,7 @@ Based on its type, the vermin also grants additional benefits to the necklace th
 
 **Spider**: Three times per day on command, the vermin can fire silk webbing over the wounds of a creature within 30 feet. This allows the vermin to attempt a Heal check to stabilize the creature or stop bleed damage at range.
 
-*Construction* Craft Wondrous Item, *cure light wounds*, *delay poison* (leech only), *remove sickness* (mosquito only), *summon swarm*; Cost 4,000 gp (ant, centipede, spider), 5,000 gp (leech, mosquito).
+*Construction* Craft Wondrous Item, [*cure light wounds*](../magic/spells/cure-light-wounds.md), [*delay poison*](../magic/spells/delay-poison.md) (leech only), [*remove sickness*](../magic/spells/remove-sickness.md) (mosquito only), [*summon swarm*](../magic/spells/summon-swarm.md); Cost 4,000 gp (ant, centipede, spider), 5,000 gp (leech, mosquito).
 
 ## Phoenix Feather
 
@@ -78,7 +78,7 @@ This vibrant red feather is surrounded by a faint, soothing golden glow that mak
 
 Alternatively, when a single attack, spell, or effect deals hit point damage to the user that would reduce her to negative hit points, after the hit point damage is rolled but before it is applied to her, she can activate the phoenix feather as a free action. If she does, she reduces the amount of hit point damage she takes by up to 5d8 + 9 points. (She can never reduce the amount of damage taken to less than 0.) A phoenix feather is usable once, after which it immediately burns away in a fiery flash before being reduced to ash.
 
-*Construction* Craft Wondrous Item, *breath of life*, *death ward*, creator must be good; Cost 2,250 gp.
+*Construction* Craft Wondrous Item, [*breath of life*](../magic/spells/breath-of-life.md), [*death ward*](../magic/spells/death-ward.md), creator must be good; Cost 2,250 gp.
 
 ## Ring of Resumption
 
@@ -86,9 +86,9 @@ Alternatively, when a single attack, spell, or effect deals hit point damage to 
 
 This adamantine ring contains a moving, notched golden circle that whirs with healing energy when activated. Once per day when the wearer takes hit point damage by any means, she can activate the ring as an immediate action (1 AP of your next turn). This immediately allows a living wearer to regain 5 hit points per round and recover from an equal amount of nonlethal damage. The wearer regenerates a total number of hit points equal only to the damage taken when the ring was activated, and only a single attack (or another single instance) can activate the ring. If the wearer sustains damage from multiple sources simultaneously, she must pick which source activates the ring. When either all of this damage is healed or the wearer's hit points reach her hit point maximum (whichever comes first), the hit point regeneration ceases.
 
-In addition, the wearer is immune to bleed damage while the ring's regeneration is active. If the wearer lost a limb, an organ, or any other body part as a result of the effect she used to activate the ring, the ring regenerates it as per *regenerate*. As with the spell, if the severed members are not present and touching the creature, this *regenerate* effect takes 2d10 rounds (this may cause the *regenerate* effect affecting a lost limb or organ to last longer than the hit point regeneration).
+In addition, the wearer is immune to bleed damage while the ring's regeneration is active. If the wearer lost a limb, an organ, or any other body part as a result of the effect she used to activate the ring, the ring regenerates it as per [*regenerate*](../magic/spells/regenerate.md). As with the spell, if the severed members are not present and touching the creature, this *regenerate* effect takes 2d10 rounds (this may cause the *regenerate* effect affecting a lost limb or organ to last longer than the hit point regeneration).
 
-*Construction* Forge Ring, *regenerate*; Cost 15,400 gp.
+*Construction* Forge Ring, [*regenerate*](../magic/spells/regenerate.md); Cost 15,400 gp.
 
 ## Silver Soul Cord
 
@@ -98,17 +98,17 @@ This shimmering metallic belt is composed of dozens of looped silver cords tied 
 
 While the silver cord is attached, the wearer gains an empathic link with an animal companion as if it were a familiar (per the wizard arcane bond class feature). Additionally, as a standard action (1 AP), the wearer can sacrifice his own hit points to heal the animal companion through this bond. The creature regains 1 hit point for every 1 hit point the wearer sacrifices. The wearer can sacrifice a maximum number of hit points per turn equal to his Hit Dice, and can't sacrifice hit points if doing so would reduce him to 0 hit points or fewer.
 
-*Construction* Craft Wondrous Item, *shield other*, *vampiric touch*; Cost 12,500 gp.
+*Construction* Craft Wondrous Item, [*shield other*](../magic/spells/shield-other.md), [*vampiric touch*](../magic/spells/vampiric-touch.md); Cost 12,500 gp.
 
 ## Soothing Lyre
 
 *Aura* strong conjuration and enchantment; *CL* 13th; *Slot* none; *Price* 45,000 gp; *Weight* 3 lbs.
 
-This ornate string instrument looks as if it were crafted from gold and silver but is as light as hollow wood. It grants a +2 circumstance bonus on Perform (string instruments) checks. When the proper chords are struck (a standard action (1 AP)), the bearer can target all creatures within a 30-foot-radius burst with a *lullaby* spell (DC 13) that lasts as long as the bearer concentrates plus up to 13 rounds.
+This ornate string instrument looks as if it were crafted from gold and silver but is as light as hollow wood. It grants a +2 circumstance bonus on Perform (string instruments) checks. When the proper chords are struck (a standard action (1 AP)), the bearer can target all creatures within a 30-foot-radius burst with a [*lullaby*](../magic/spells/lullaby.md) spell (DC 13) that lasts as long as the bearer concentrates plus up to 13 rounds.
 
-Additionally, once per day as a standard action (1 AP), she can strum the lyre to affect up to nine creatures with *mass cure light wounds*, as per the spell. If the character has the bardic performance class feature, instead of this effect, she can perform a soothing performance once per day, even if she is not of sufficient level to normally have access to that ability (this still requires 4 rounds of continuous performance and still uses her bard level as the caster level). A bard who can use soothing performance and who plays the lyre as part of her performance increases her effective caster level for that ability by 1.
+Additionally, once per day as a standard action (1 AP), she can strum the lyre to affect up to nine creatures with [*mass cure light wounds*](../magic/spells/cure-light-wounds-mass.md), as per the spell. If the character has the bardic performance class feature, instead of this effect, she can perform a soothing performance once per day, even if she is not of sufficient level to normally have access to that ability (this still requires 4 rounds of continuous performance and still uses her bard level as the caster level). A bard who can use soothing performance and who plays the lyre as part of her performance increases her effective caster level for that ability by 1.
 
-*Construction* Craft Wondrous Item, *lullaby*, *mass cure light wounds*, creator must be a bard of at least 12th level with the bardic performance class ability; Cost 22,500 gp.
+*Construction* Craft Wondrous Item, [*lullaby*](../magic/spells/lullaby.md), [*mass cure light wounds*](../magic/spells/cure-light-wounds-mass.md), creator must be a bard of at least 12th level with the bardic performance class ability; Cost 22,500 gp.
 
 ## Trollskin Tourniquet
 
@@ -120,7 +120,7 @@ While a creature wears a trollskin tourniquet, it does not need to remain entire
 
 While a trollskin tourniquet can't restore a dead creature to life, it can repair a corpse to make it easier to resurrect. This requires at least a partially whole decomposed or skeletonized inanimate corpse, and the tourniquet must be placed around an intact limb, the chest, or some other portion of the corpse. The corpse regenerates over a period of 24 hours as long as the trollskin tourniquet is not removed (if the tourniquet is jostled, the regrowth time resets, as described above with regard to a living creature). At the end of this time, the corpse becomes whole and any missing parts are restored. The deceased creature is treated as having been dead for no more than 1 day for the purposes of resurrection magic. Each trollskin tourniquet is usable once.
 
-*Construction* Craft Wondrous Item, *regenerate*, *restore corpse*; Cost 1,925 gp.
+*Construction* Craft Wondrous Item, [*regenerate*](../magic/spells/regenerate.md), [*restore corpse*](../magic/spells/restore-corpse.md); Cost 1,925 gp.
 
 ## Unicorn's Blackened Horn
 
@@ -128,10 +128,10 @@ While a trollskin tourniquet can't restore a dead creature to life, it can repai
 
 This long ivory horn is twisted, elegant, and shining, but marring its beautiful length are black, diseased lines of corruption. This item is an intact unicorn's horn that has been horribly tainted by evil forces.
 
-The wielder of the unicorn's blackened horn can be healed by positive energy as well as negative energy, regardless of her creature type, as long as she holds the horn. When holding the horn, a spellcaster can also use its corrupted innocence to shape both positive and negative energy. If the wielder prepares spells, a prepared cure spell (any spell with "cure" in its name) can be spontaneously converted as it is cast into any inflict spell (any spell with "inflict" in its name) of the same level or lower, and vice versa, even if the cure or inflict spell is not normally on her spell list. When others attempt to use Spellcraft or Knowledge (arcana) to identify a spell cast in this way, the spell appears to be the cure or inflict spell that is being converted (not the spell actually being cast) unless the identifier exceeds the Spellcraft or Knowledge (arcana) DC by 10. In this case, the identifier correctly identifies the spell. *Analyze dweomer*, *greater arcane sight*, and similar spells of the same or higher spell level that automatically identify spells reveal the converted spell for what it is.
+The wielder of the unicorn's blackened horn can be healed by positive energy as well as negative energy, regardless of her creature type, as long as she holds the horn. When holding the horn, a spellcaster can also use its corrupted innocence to shape both positive and negative energy. If the wielder prepares spells, a prepared cure spell (any spell with "cure" in its name) can be spontaneously converted as it is cast into any inflict spell (any spell with "inflict" in its name) of the same level or lower, and vice versa, even if the cure or inflict spell is not normally on her spell list. When others attempt to use Spellcraft or Knowledge (arcana) to identify a spell cast in this way, the spell appears to be the cure or inflict spell that is being converted (not the spell actually being cast) unless the identifier exceeds the Spellcraft or Knowledge (arcana) DC by 10. In this case, the identifier correctly identifies the spell. [*Analyze dweomer*](../magic/spells/analyze-dweomer.md), [*greater arcane sight*](../magic/spells/arcane-sight-greater.md), and similar spells of the same or higher spell level that automatically identify spells reveal the converted spell for what it is.
 
 Furthermore, if the spellcaster is able to spontaneously cast either cure or inflict spells (for an example, see the cleric's spontaneous casting ability), then she can spontaneously cast both cure and inflict spells while wielding the unicorn's blackened horn. If the wielder can channel energy using a class feature, twice per day she can channel the opposite type of energy that she normally channels.
 
 The unicorn's horn imposes 1 permanent negative level on any good creature that is attempting to wield it. The negative level remains as long as the horn is held in hand and disappears when the horn is no longer held. This negative level cannot be overcome in any way (including by restoration spells) while the horn is held.
 
-*Construction* Craft Rod, *harm*, *heal*, creator must be evil-aligned and able to channel energy; Cost 25,000 gp.
+*Construction* Craft Rod, [*harm*](../magic/spells/harm.md), [*heal*](../magic/spells/heal.md), creator must be evil-aligned and able to channel energy; Cost 25,000 gp.

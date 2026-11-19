@@ -11,4 +11,4 @@ This special ability can be placed only on a melee weapon. Once per day as a fre
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *doom*; **Price** 2,500 gp
+**Requirements** Craft Magic Arms and Armor, [*doom*](../../magic/spells/doom.md); **Price** 2,500 gp

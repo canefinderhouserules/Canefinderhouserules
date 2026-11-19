@@ -22,4 +22,4 @@ This spell functions like [*cure light wounds*](cure-light-wounds.md), except th
     **Duration** instantaneous  
     **Saving Throw** Will half (harmless); **Spell Resistance** yes (harmless); see text
 
-    This spell functions like *cure light wounds*, except that it cures 2d8 points of damage + 1 point per caster level (maximum +10).
+    This spell functions like [*cure light wounds*](cure-light-wounds.md), except that it cures 2d8 points of damage + 1 point per caster level (maximum +10).

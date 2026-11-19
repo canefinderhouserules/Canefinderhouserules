@@ -11,4 +11,4 @@ This ability can only be placed on melee weapons. Once per round, when the wield
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *feather step* (*Advanced Player’s Guide*); **Price** —
+**Requirements** Craft Magic Arms and Armor, [*feather step*](../../magic/spells/feather-step.md) (*Advanced Player’s Guide*); **Price** —

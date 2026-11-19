@@ -38,13 +38,13 @@ A dying character loses 1 hit point every round. This continues until the charac
 
 When your character’s current hit points drop to a negative amount equal to his Constitution score or lower, or if he succumbs to massive damage, he’s dead. A character can also die from taking ability damage or suffering an ability drain that reduces his Constitution score to 0 (see Appendix 1).
 
-Certain types of powerful magic, such as *raise dead* and *resurrection*, can restore life to a dead character. See Chapter 9 for more information.
+Certain types of powerful magic, such as [*raise dead*](../../magic/spells/raise-dead.md) and [*resurrection*](../../magic/spells/resurrection.md), can restore life to a dead character. See Chapter 9 for more information.
 
 ## Stable Characters and Recovery
 
 On the character’s next turn, after being reduced to negative hit points (but not dead), and on all subsequent turns, the character must make a DC 10 Constitution check to become stable. The character takes a penalty on this roll equal to his negative hit point total. A character that is stable does not need to make this check. A natural 20 on this check is an automatic success. If the character fails this check, he loses 1 hit point. An unconscious or dying character cannot use any special action that changes the initiative count on which his action occurs.
 
-Characters taking continuous damage, such as from an *acid arrow* or a bleed effect, automatically fail all Constitution checks made to stabilize. Such characters lose 1 hit point per round in addition to the continuous damage.
+Characters taking continuous damage, such as from an [*acid arrow*](../../magic/spells/acid-arrow.md) or a bleed effect, automatically fail all Constitution checks made to stabilize. Such characters lose 1 hit point per round in addition to the continuous damage.
 
 You can keep a dying character from losing any more hit points and make him stable with a DC 15 Heal check.
 

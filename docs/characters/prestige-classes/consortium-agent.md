@@ -33,7 +33,7 @@ To qualify to become a consortium agent, a character must fulfill all of the fol
 
     **Skills**: Appraise 5 ranks, Bluff 5 ranks, Craft (traps) 5 ranks, Disable Device 5 ranks, Intimidate 5 ranks, Knowledge (history) 5 ranks, Perception 5 ranks.
 
-    **Special**: Proficiency with the whip, as well as either the trap sense class feature or the ability to cast *detect secret doors*.
+    **Special**: Proficiency with the whip, as well as either the trap sense class feature or the ability to cast [*detect secret doors*](../../magic/spells/detect-secret-doors.md).
 
 ### Class Skills
 

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons that are not light weap
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *bull’s strength*, *lead blades* (*Advanced Player’s Guide*), *righteous might* or *giant form I*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*bull’s strength*](../../magic/spells/bulls-strength.md), [*lead blades*](../../magic/spells/lead-blades.md) (*Advanced Player’s Guide*), [*righteous might*](../../magic/spells/righteous-might.md) or [*giant form I*](../../magic/spells/giant-form-i.md); **Price** —

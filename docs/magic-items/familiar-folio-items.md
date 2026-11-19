@@ -8,7 +8,7 @@ The following magic items include aids for spellcasters with familiars and a use
 
 This enchanted sleeve is made of tiny, feather-shaped leaves and is designed to fit birds. Once fitted over the body of a Tiny or smaller avian creature, featherleaf barding automatically shrinks to snugly fit the creature’s torso and neck, serving as +1 leather armor (granting a total bonus to AC of +2). The maximum fly speed of a creature wearing featherleaf barding is 60 feet with average maneuverability. In forests, jungles, and thickly wooded areas, the wearer can fly through branches, brush, and even whole tree trunks as if they weren’t there, though its fly speed and maneuverability remain the same.
 
-*Construction* Craft Magic Arms and Armor, *fly*, *tree stride*; Cost 3,660 gp.
+*Construction* Craft Magic Arms and Armor, [*fly*](../magic/spells/fly.md), [*tree stride*](../magic/spells/tree-stride.md); Cost 3,660 gp.
 
 ## Glove of Familiar’s Touch
 
@@ -26,7 +26,7 @@ This slippery, jet-black goo has a consistency comparable to warm lard. A bottle
 
 When an animal companion, a familiar, or another bonded creature is struck by mundanity grease, the bond to its master is temporarily suspended. The creature and its master lose any of the following abilities they have from the companion or familiar bond: deliver touch spells, devotion, empathic link, evasion, improved evasion, link, scry on familiar, share spells, speak with animals of its kind, spell resistance, and speak with master. For the duration of the effect, a familiar originally of the animal type is treated as an animal (rather than a magical beast) for the purposes of determining which spells affect it. This effect lasts for 1d4 minutes or until the grease is washed off the affected creature by magical means.
 
-*Construction* Craft Wondrous Item, *greater dispel magic*; Cost 250 gp.
+*Construction* Craft Wondrous Item, [*greater dispel magic*](../magic/spells/dispel-magic-greater.md); Cost 250 gp.
 
 ## Replenishing Aquarium Ball
 
@@ -40,7 +40,7 @@ Replenishing aquarium balls act as standard [aquarium balls](../equipment/gear-f
 
 **Greater**: The ball continually refreshes itself with clean water and fresh food. In addition, a greater replenishing aquarium ball is magically enhanced so that the glass is as hard as stone (hardness 8, 15 hp) without increasing its weight.
 
-*Construction* Craft Wondrous Item; *create water* (lesser); *create food and water* (standard); *create food and water*, *stoneskin* (greater); Cost lesser 250 gp, standard 1,000 gp, greater 2,000 gp.
+*Construction* Craft Wondrous Item; [*create water*](../magic/spells/create-water.md) (lesser); [*create food and water*](../magic/spells/create-food-and-water.md) (standard); *create food and water*, [*stoneskin*](../magic/spells/stoneskin.md) (greater); Cost lesser 250 gp, standard 1,000 gp, greater 2,000 gp.
 
 ## Spell-Sharing Collar
 

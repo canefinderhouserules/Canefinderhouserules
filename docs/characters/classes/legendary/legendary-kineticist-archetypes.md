@@ -18,7 +18,7 @@
 
 **Sculpting Talent (Ex):** The artistic summoner treats fire sculptor, gravity sculptor, ice sculptor, shape wood, and stone sculptor as universal wild talents.
 
-**Art Summoner (Sp):** At 2nd level, as a full-round action (3 AP) an artistic summoner can summon forth a piece of paper, either painting a monster upon it (if their elemental focus is water) or folding it into a complex form of a monster (if their elemental focus is wood) before bringing it to life in any square within 30 ft. of themselves. Treat this as the summon monster I-IX ability of the summoner (an artistic summoner does not gain access to *gate* with this ability), except that an artistic summoner uses their Constitution modifier instead of their Charisma modifier to determine how many times they can use this ability.
+**Art Summoner (Sp):** At 2nd level, as a full-round action (3 AP) an artistic summoner can summon forth a piece of paper, either painting a monster upon it (if their elemental focus is water) or folding it into a complex form of a monster (if their elemental focus is wood) before bringing it to life in any square within 30 ft. of themselves. Treat this as the summon monster I-IX ability of the summoner (an artistic summoner does not gain access to [*gate*](../../../magic/spells/gate.md) with this ability), except that an artistic summoner uses their Constitution modifier instead of their Charisma modifier to determine how many times they can use this ability.
 
 Creatures created with this ability are made of either ink or paper, and are treated as neutral aligned constructs for the purposes of spells and effects.
 
@@ -44,7 +44,7 @@ Creatures created with this ability are made of either ink or paper, and are tre
 
 **Blast Type**physical; **Damage**bludgeoning
 
-When a creature is hit by this blast, you can produce a duplicate of the target in a space adjacent to the target. This duplicate is a *lesser simulacrum* of the target, except that it remains for 1 minute per kineticist level and is loyal only to you. Your sculpture can take one of the following forms.
+When a creature is hit by this blast, you can produce a duplicate of the target in a space adjacent to the target. This duplicate is a [*lesser simulacrum*](../../../magic/spells/simulacrum-lesser.md) of the target, except that it remains for 1 minute per kineticist level and is loyal only to you. Your sculpture can take one of the following forms.
 
 - *Ink*: This sculpture deals half the normal damage for its kind and gains the [water] subtype.
 
@@ -160,7 +160,7 @@ This ability cannot be used to select the following metamagic feats to replace m
 
 *Sometimes a kineticist’s powers come from a source so obscure that they never find the very matter they were born to manipulate. Rather than waste their lives seeking out whatever impossibly rare substance they were meant to manipulate, they simply use… nothing. Some find this nothingness a place of calm in their minds, while for others this emptiness serves only to echo screams of psychological trauma.*
 
-**Alignment:** A nihilicist must be within one step of neutral. A nihilicist who becomes an alignment two steps from neutral loses their nihilicist class features and must return to within one step of neutral, requiring an *atonement* spell to regain their lost class features.
+**Alignment:** A nihilicist must be within one step of neutral. A nihilicist who becomes an alignment two steps from neutral loses their nihilicist class features and must return to within one step of neutral, requiring an [*atonement*](../../../magic/spells/atonement.md) spell to regain their lost class features.
 
 **Unfound Element:** A nihilicist can never be forced to gain any element, kinetic blast, or wild talent. If the nihilicist ever willingly gains a primary element or any non-universal wild talent (with the exception of those associated with Empty Blast or Zero Blast), they permanently lose this archetype, becoming a normal kineticist and gaining any kineticist class features this archetype replaced. Only divine intervention can reverse this effect.
 
@@ -172,7 +172,7 @@ The nihilicist can only learn universal utility wild talents, universal infusion
 
 *This replaces the basic utility wild talent, elemental focus, and expanded element, and alters utility wild talents.*
 
-**Nihil Damage (Ex):** A nihilicist’s kinetic blast deals nihil damage; treat nihil damage as nonlethal damage for how it is cured, except it affects creatures normally immune to nonlethal damage. A creature normally immune to nonlethal damage which possess an amount of nihil damage equal to their current hit points becomes [staggered](../../../rules/appendices/conditions.md#staggered), even if they would normally be unable to be staggered. Nihil damage ignores hardness, and if an object takes an amount of nihil damage equal to its hit points, it is destroyed as though it was affected by a *disintegrate* spell.
+**Nihil Damage (Ex):** A nihilicist’s kinetic blast deals nihil damage; treat nihil damage as nonlethal damage for how it is cured, except it affects creatures normally immune to nonlethal damage. A creature normally immune to nonlethal damage which possess an amount of nihil damage equal to their current hit points becomes [staggered](../../../rules/appendices/conditions.md#staggered), even if they would normally be unable to be staggered. Nihil damage ignores hardness, and if an object takes an amount of nihil damage equal to its hit points, it is destroyed as though it was affected by a [*disintegrate*](../../../magic/spells/disintegrate.md) spell.
 
 **Nihilistic Curse (Su):** A nihilicist can select up to one creature up to 60 feet away plus an additional one creature per three nihilicist levels they possess, converting all nihil damage those creatures possess into lethal damage as a standard action (1 AP). This can be done while gathering power as a full-round action (3 AP) by decreasing the burn reduction it provides by 1 (but cannot be done while gathering power as a move action (1 AP)).
 
@@ -182,7 +182,7 @@ When a nihilicist is converting damage to lethal damage, they can choose to conv
 
 10 damage: staggered or [blinded](../../../rules/appendices/conditions.md#blinded)
 
-20 damage: [dazed](../../../rules/appendices/conditions.md#dazed), [exhausted](../../../rules/appendices/conditions.md#exhausted), or silenced (as per *respectful quiet*)
+20 damage: [dazed](../../../rules/appendices/conditions.md#dazed), [exhausted](../../../rules/appendices/conditions.md#exhausted), or silenced (as per [*respectful quiet*](../../../magic/spells/respectful-quiet.md))
 
 30 damage: [paralyzed](../../../rules/appendices/conditions.md#paralyzed) or [stunned](../../../rules/appendices/conditions.md#stunned)
 
@@ -194,9 +194,9 @@ The nihilicist must convert all damage at once when using this ability, whether 
 
 *This replaces elemental defense.*
 
-**Reduced Existence (Ex):** At 2nd level a nihilicist is constantly under the effects of *negate aroma*, only needs to consume 1/4 as much food and water to survive, and only needs to sleep 2 hours per day. At 6th level they are constantly under the effects of *nondetection* with a caster level equal to their nihilicist level and no longer need to breath or sleep, gaining immunity to sleep effects (though they still must rest 2 hours to recover from burn).
+**Reduced Existence (Ex):** At 2nd level a nihilicist is constantly under the effects of [*negate aroma*](../../../magic/spells/negate-aroma.md), only needs to consume 1/4 as much food and water to survive, and only needs to sleep 2 hours per day. At 6th level they are constantly under the effects of [*nondetection*](../../../magic/spells/nondetection.md) with a caster level equal to their nihilicist level and no longer need to breath or sleep, gaining immunity to sleep effects (though they still must rest 2 hours to recover from burn).
 
-At 12th level, the nihilcist is also constantly under the effects of *mind blank*. In addition, anyone whom the nihilicist has met will slowly forget them; one will forget their name after 1 day, finer details of their interactions and appearance after 3 days, general details of their interactions and appearance after 5 days, and will completely forget their existence after 1 week. At will, the nihilicist can, with a touch, cause a creature to be permanently immune to this effect (though this does not restore any memories lost regarding the nihilicist); they can accept 1 point of burn to attempt a touch attack as a standard action (1 AP) to remove this immunity (subject to a Will save against DC 10 + the nihilicist’s class level; this save even applies to willing and [unconscious](../../../rules/appendices/conditions.md#unconscious) targets).
+At 12th level, the nihilcist is also constantly under the effects of [*mind blank*](../../../magic/spells/mind-blank.md). In addition, anyone whom the nihilicist has met will slowly forget them; one will forget their name after 1 day, finer details of their interactions and appearance after 3 days, general details of their interactions and appearance after 5 days, and will completely forget their existence after 1 week. At will, the nihilicist can, with a touch, cause a creature to be permanently immune to this effect (though this does not restore any memories lost regarding the nihilicist); they can accept 1 point of burn to attempt a touch attack as a standard action (1 AP) to remove this immunity (subject to a Will save against DC 10 + the nihilicist’s class level; this save even applies to willing and [unconscious](../../../rules/appendices/conditions.md#unconscious) targets).
 
 *This replaces the 2nd, 6th, and 12th-level utility wild talents.*
 
@@ -206,7 +206,7 @@ At 12th level, the nihilcist is also constantly under the effects of *mind blank
 
 **Terminus (Sp):** At 20th level, the amount of nihil damage which must be converted to apply a condition to a creature is reduced by 1/5.
 
-As a full-round action (3 AP), a nihilicist can accept 6 points of burn to create an area of all-consuming nothingness. This first affects a sphere with a 15-foot radius centered on them and everything within it (including themselves), and the area increases exponentially each round to 30 feet on the second round, 60 feet on the third, 120 feet on the fourth, and 240 feet on the fifth and final round. Everything in this space is consumed into oblivion, leaving nothing behind except for a sphere of annihilation where the nihilicist once stood. All memory of the nihilicist’s existence is lost (even to those made immune to the effects of reduced dependence), though those who knew them will feel as if they’ve forgotten something vital. Those the nihilicist was especially close to in life can control the remaining *sphere of annihilation*as if they were an arcane spellcaster in possession of a talisman of the sphere regardless of actual spellcasting ability. A *miracle* or *wish* can revive any one other creature that was within this area or reverse the effects of this ability on a 10-foot cube of the space it left behind, but its effects are otherwise permanent.
+As a full-round action (3 AP), a nihilicist can accept 6 points of burn to create an area of all-consuming nothingness. This first affects a sphere with a 15-foot radius centered on them and everything within it (including themselves), and the area increases exponentially each round to 30 feet on the second round, 60 feet on the third, 120 feet on the fourth, and 240 feet on the fifth and final round. Everything in this space is consumed into oblivion, leaving nothing behind except for a sphere of annihilation where the nihilicist once stood. All memory of the nihilicist’s existence is lost (even to those made immune to the effects of reduced dependence), though those who knew them will feel as if they’ve forgotten something vital. Those the nihilicist was especially close to in life can control the remaining *sphere of annihilation*as if they were an arcane spellcaster in possession of a talisman of the sphere regardless of actual spellcasting ability. A [*miracle*](../../../magic/spells/miracle.md) or [*wish*](../../../magic/spells/wish.md) can revive any one other creature that was within this area or reverse the effects of this ability on a 10-foot cube of the space it left behind, but its effects are otherwise permanent.
 
 *This replaces omnikinesis.*
 

@@ -13,4 +13,4 @@ In combat, the weapon’s critical threat range is doubled abilities against und
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, Channel Smite, *cure serious wounds*, *death ward*, *disrupt undead*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Channel Smite, [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md), [*death ward*](../../magic/spells/death-ward.md), [*disrupt undead*](../../magic/spells/disrupt-undead.md); **Price** —

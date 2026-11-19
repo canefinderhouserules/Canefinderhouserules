@@ -4,13 +4,13 @@
 
 **Price** 150 gp; **Weight** 1 lb.
 
-When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as *protection from energy* for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.
+When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as [*protection from energy*](../../magic/spells/protection-from-energy.md) for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.
 
 ### Frost Ward Gel
 
 **Price** 150 gp; **Weight** 1 lb.
 
-When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as *protection from energy* for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.
+When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as [*protection from energy*](../../magic/spells/protection-from-energy.md) for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.
 
 ### Meditation Tea
 

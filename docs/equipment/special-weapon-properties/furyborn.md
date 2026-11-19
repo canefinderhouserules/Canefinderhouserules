@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *furyborn* weapon dr
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *rage*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*rage*](../../magic/spells/rage.md); **Price** —

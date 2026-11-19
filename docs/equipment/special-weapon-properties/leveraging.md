@@ -10,4 +10,4 @@ This special ability can be placed only on melee weapons. The wielder of a *leve
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *enlarge person*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*enlarge person*](../../magic/spells/enlarge-person.md); **Price** —

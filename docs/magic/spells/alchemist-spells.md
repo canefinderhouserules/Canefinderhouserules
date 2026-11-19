@@ -220,7 +220,7 @@ Alchemist spells. Spells from other books will be added as they are transcribed.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Free Swim](free-swim.md)**: As freedom of movement, but only allowing a creature to move freely underwater.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
-- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
+- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As [*see invisibility*](see-invisibility.md), but cannot be made permanent.
 - **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
 - **[Heroism](heroism.md)**: Gives +2 on attack rolls, saves, skill checks.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
@@ -338,7 +338,7 @@ Alchemist spells. Spells from other books will be added as they are transcribed.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Elemental Body II](elemental-body-ii.md)**: Turns you into a Medium elemental.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Languid Bomb Admixture](languid-bomb-admixture.md)**: Empowers bombs you throw to cause fatigue in those directly hit or splashed by the bomb.

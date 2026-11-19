@@ -11,4 +11,4 @@ This special ability can be placed only on slashing or piercing melee weapons. W
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *keen edge*, creator must have the raging song class feature; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*keen edge*](../../magic/spells/keen-edge.md), creator must have the raging song class feature; **Price** —

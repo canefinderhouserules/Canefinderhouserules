@@ -39,11 +39,11 @@ The following are the class features of the polymorph savant.
 
 #### Shifter Training
 
-A polymorph savant adds her polymorph savant level to her legendary shifter level when determining the effects of her shifter shape. For each level in polymorph savant gained, she increases the duration of her shifter shape by 1 hour. In addition, she may use her shifter shape’s ability to change form to change between different effects. For example, a 5th level polymorph savant under the effects of a *beast shape I* spell could choose to change the effect to that of a *monstrous physique I* spell.
+A polymorph savant adds her polymorph savant level to her legendary shifter level when determining the effects of her shifter shape. For each level in polymorph savant gained, she increases the duration of her shifter shape by 1 hour. In addition, she may use her shifter shape’s ability to change form to change between different effects. For example, a 5th level polymorph savant under the effects of a [*beast shape I*](../../magic/spells/beast-shape-i.md) spell could choose to change the effect to that of a [*monstrous physique I*](../../magic/spells/monstrous-physique-i.md) spell.
 
 #### Insect Shape (Ex)
 
-At 1st level, a polymorph savant can take the form of a Tiny, Small, Medium, or Large vermin with her shifter shape. While taking the form of a vermin, this ability functions as *vermin shape II*.
+At 1st level, a polymorph savant can take the form of a Tiny, Small, Medium, or Large vermin with her shifter shape. While taking the form of a vermin, this ability functions as [*vermin shape II*](../../magic/spells/vermin-shape-ii.md).
 
 #### Savant’s Evolution (Su)
 
@@ -55,7 +55,7 @@ At 2nd level, whenever a polymorph savant is under the effects of her shifter sh
 
 #### Monstrous Shape (Ex)
 
-At 3rd level, a polymorph savant can take the form of a Diminutive, Tiny, Small, Medium, Large, or Huge monstrous humanoid with her shifter shape. While taking the form of a monstrous humanoid, this ability functions as *monstrous physique III*.
+At 3rd level, a polymorph savant can take the form of a Diminutive, Tiny, Small, Medium, Large, or Huge monstrous humanoid with her shifter shape. While taking the form of a monstrous humanoid, this ability functions as [*monstrous physique III*](../../magic/spells/monstrous-physique-iii.md).
 
 #### Bonus Feat
 
@@ -63,7 +63,7 @@ At 4th level, and every four levels thereafter, a polymorph savant gains a bonus
 
 #### Fey Shape (Ex)
 
-At 5th level, a polymorph savant can take the form of a Diminutive, Tiny, Small, Medium, Large, or Huge fey with her shifter shape. While taking the form of a fey, this ability functions as *fey form III*.
+At 5th level, a polymorph savant can take the form of a Diminutive, Tiny, Small, Medium, Large, or Huge fey with her shifter shape. While taking the form of a fey, this ability functions as [*fey form III*](../../magic/spells/fey-form-iii.md).
 
 #### Lightning Shift (Ex)
 
@@ -71,15 +71,15 @@ At 6th level, whenever a legendary shifter uses her shifter shape class feature,
 
 #### Ooze Shape (Ex)
 
-At 7th level, a polymorph savant can take the form of a Small, Medium, Large, or Huge ooze with her shifter shape. While taking the form of an ooze, this ability functions as *ooze form III*.
+At 7th level, a polymorph savant can take the form of a Small, Medium, Large, or Huge ooze with her shifter shape. While taking the form of an ooze, this ability functions as [*ooze form III*](../../magic/spells/ooze-form-iii.md).
 
 #### Plant Shape (Ex)
 
-At 9th level, a polymorph savant can take the form of a Small, Medium, Large, or Huge plant with her shifter shape. While taking the form of a plant, this ability functions as *plant shape III*.
+At 9th level, a polymorph savant can take the form of a Small, Medium, Large, or Huge plant with her shifter shape. While taking the form of a plant, this ability functions as [*plant shape III*](../../magic/spells/plant-shape-iii.md).
 
 #### Dragon Shape (Ex)
 
-At 10th level, a polymorph savant can take the form of a Medium, Large, or Huge dragon with her shifter shape. While taking the form of a dragon, this ability functions as *form of the dragon III*.
+At 10th level, a polymorph savant can take the form of a Medium, Large, or Huge dragon with her shifter shape. While taking the form of a dragon, this ability functions as [*form of the dragon III*](../../magic/spells/form-of-the-dragon-iii.md).
 
 #### True Transformation (Ex)
 

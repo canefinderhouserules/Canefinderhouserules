@@ -8,4 +8,4 @@
 **Duration** 1 day/level or until discharged (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
-This spell functions like *geas/quest*, except the only allowed command is “use pesh or refined pesh.”
+This spell functions like [*geas/quest*](geas-quest.md), except the only allowed command is “use pesh or refined pesh.”

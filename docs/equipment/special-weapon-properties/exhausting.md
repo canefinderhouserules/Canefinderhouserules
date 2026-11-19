@@ -11,4 +11,4 @@ This ability can be placed only on melee weapons. An *exhausting* weapon can bri
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *ray of exhaustion*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*ray of exhaustion*](../../magic/spells/ray-of-exhaustion.md); **Price** —

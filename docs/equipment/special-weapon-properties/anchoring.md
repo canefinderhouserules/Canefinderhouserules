@@ -11,4 +11,4 @@ This special ability can only be added to a melee weapon or a thrown weapon. An 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *levitate*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*levitate*](../../magic/spells/levitate.md); **Price** —

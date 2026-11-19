@@ -668,7 +668,7 @@ This book's worn leather cover is emblazoned with a simplified winged eye superi
 
 **Preparation Ritual**
 
-**Glorious Blade (Su)** When you attack with a sword (including swordlike effects created by spells such as *spiritual weapon*, as long as they require attack rolls), you can expend a prepared spell or spell slot as a free action to spend this boon. If you do, you gain an insight bonus on the attack roll equal to the level of the prepared spell or spell slot expended.
+**Glorious Blade (Su)** When you attack with a sword (including swordlike effects created by spells such as [*spiritual weapon*](../spells/spiritual-weapon.md), as long as they require attack rolls), you can expend a prepared spell or spell slot as a free action to spend this boon. If you do, you gain an insight bonus on the attack roll equal to the level of the prepared spell or spell slot expended.
 
 ## Last Hero's Analects
 
@@ -676,7 +676,7 @@ This book's worn leather cover is emblazoned with a simplified winged eye superi
 
 This book's ancient leather cover is emblazoned with a simplified winged eye.
 
-**Protection** Average lock with *arcane lock* (DC 35) and *explosive runes* (Reflex DC 16)
+**Protection** Average lock with [*arcane lock*](../spells/arcane-lock.md) (DC 35) and [*explosive runes*](../spells/explosive-runes.md) (Reflex DC 16)
 
 **Value** 7,030 gp (10,030 gp with the preparation ritual)
 
@@ -756,7 +756,7 @@ The cover of this thick tome is a patchwork of sections of different hides, whos
 
 **Preparation Ritual**
 
-**Secrets of the Old Mage (Su)** This edition includes a number of unique rituals and philosophical notes supposedly written by the Old Mage himself. These secrets allow you to prepare one of the following spells as an arcane spell 1 level higher than its druid spell level: *barkskin*, *call lightning*, *cyclic reincarnation*, *entangle*, *forest friend*, *lesser restoration*, *plant growth*, *speak with animals*, and *speak with plants*. At the GM's discretion, additional spells of 6th level or lower from the druid spell list may be available through the preparation rituals of specific copies of this book (which increases the spellbook's price by twice the cost of adding a wizard spell of the same level to the spellbook).
+**Secrets of the Old Mage (Su)** This edition includes a number of unique rituals and philosophical notes supposedly written by the Old Mage himself. These secrets allow you to prepare one of the following spells as an arcane spell 1 level higher than its druid spell level: [*barkskin*](../spells/barkskin.md), [*call lightning*](../spells/call-lightning.md), [*cyclic reincarnation*](../spells/cyclic-reincarnation.md), [*entangle*](../spells/entangle.md), [*forest friend*](../spells/forest-friend.md), [*lesser restoration*](../spells/restoration-lesser.md), [*plant growth*](../spells/plant-growth.md), [*speak with animals*](../spells/speak-with-animals.md), and [*speak with plants*](../spells/speak-with-plants.md). At the GM's discretion, additional spells of 6th level or lower from the druid spell list may be available through the preparation rituals of specific copies of this book (which increases the spellbook's price by twice the cost of adding a wizard spell of the same level to the spellbook).
 
 ## Gilded Fragment
 
@@ -779,7 +779,7 @@ Two gold-plated bronze covers bind this gaudy tome. Several synonyms for "wealth
 
 This heavy tome bears a handsome leather cover over thick metal plates. The front cover displays a dozen tiny dials arranged in a semicircle around the locking mechanism.
 
-**Protection** Good lock with *arcane lock* (DC 40)
+**Protection** Good lock with [*arcane lock*](../spells/arcane-lock.md) (DC 40)
 
 **Value** 4,425 gp (9,125 gp with the preparation ritual)
 
@@ -794,7 +794,7 @@ This heavy tome bears a handsome leather cover over thick metal plates. The fron
 
 **Preparation Ritual**
 
-**Enduring Alteration (Su)** Your spells resist reality's attempts to restore the things you change. You can spend this boon to apply the benefits of the Extend Spell feat to a transmutation spell as you cast it. This also increases the DC to dispel that spell (via *dispel magic* or similar abilities) by 4. This boon does not increase the spell level or casting time of your spell.
+**Enduring Alteration (Su)** Your spells resist reality's attempts to restore the things you change. You can spend this boon to apply the benefits of the Extend Spell feat to a transmutation spell as you cast it. This also increases the DC to dispel that spell (via [*dispel magic*](../spells/dispel-magic.md) or similar abilities) by 4. This boon does not increase the spell level or casting time of your spell.
 
 ## Runes of Wealth
 
@@ -802,7 +802,7 @@ This heavy tome bears a handsome leather cover over thick metal plates. The fron
 
 Golden arcane runes and sigils seem to change or move constantly across the green leather cover of this remarkably well-preserved text. Each page is edged in thin silver, and a luxurious silk ribbon trapped between the pages flutters of its own accord.
 
-**Protection** Superior lock with *arcane lock* (DC 50), *polymorph* (appears as a different spellbook each evening if no spells have been prepared from it)
+**Protection** Superior lock with [*arcane lock*](../spells/arcane-lock.md) (DC 50), [*polymorph*](../spells/polymorph.md) (appears as a different spellbook each evening if no spells have been prepared from it)
 
 **Value** 26,365 gp (31,365 gp with the preparation ritual)
 
@@ -885,7 +885,7 @@ This heavy book is bound between a pair of thin stone tablets, its title carved 
 
 **Preparation Ritual**
 
-**Keeper of Stone (Ex/Su)** The tome covers the geography of caves and mountains thoroughly, and gives eldritch insights into how such terrain is formed. This boon is not spent, but grants you a +1 insight bonus on Knowledge (dungeoneering), Knowledge (geography), and Knowledge (nature) checks, as well as on [Survival](../../rules/skills/survival.md) checks attempted in hills, mountains, and underground terrain. In addition, whenever you cast *mending*, *make whole*, or *greater make whole* on an object made entirely from stone, add 1d6 to the number of hit points restored to the object. These benefits last until you next regain spell slots or prepare spells.
+**Keeper of Stone (Ex/Su)** The tome covers the geography of caves and mountains thoroughly, and gives eldritch insights into how such terrain is formed. This boon is not spent, but grants you a +1 insight bonus on Knowledge (dungeoneering), Knowledge (geography), and Knowledge (nature) checks, as well as on [Survival](../../rules/skills/survival.md) checks attempted in hills, mountains, and underground terrain. In addition, whenever you cast [*mending*](../spells/mending.md), [*make whole*](../spells/make-whole.md), or [*greater make whole*](../spells/make-whole-greater.md) on an object made entirely from stone, add 1d6 to the number of hit points restored to the object. These benefits last until you next regain spell slots or prepare spells.
 
 ## Sorrow of the Archer
 

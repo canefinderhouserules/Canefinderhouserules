@@ -70,7 +70,7 @@ You can become an animal.
 
 **Prerequisites**: Manifestation level 6th, shift form*.
 
-**Gift**: When you use shift form, you can instead take your animal form, as if using *polymorph*. Nonmagical clothing and gear don’t meld into your animal form. You don’t gain any ability score adjustments (other than those gained from other manifestations), but you do gain all of the other abilities granted by *polymorph* for your new form.
+**Gift**: When you use shift form, you can instead take your animal form, as if using [*polymorph*](../../../magic/spells/polymorph.md). Nonmagical clothing and gear don’t meld into your animal form. You don’t gain any ability score adjustments (other than those gained from other manifestations), but you do gain all of the other abilities granted by *polymorph* for your new form.
 
 **Stain**: While you’re shifted, you’re treated as a lycanthrope and shapeshifter for abilities, items, or spells that target lycanthropes or shapeshifters. In addition, when you shift involuntarily, you can’t shift back until you spend a full-round action (3 AP) and succeed at a DC 20 Constitution check. If you don’t succeed, you remain in your shifted form, automatically consuming a daily use of shifting each minute until you have used up all of your uses for the day.
 

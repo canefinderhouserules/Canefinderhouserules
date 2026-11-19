@@ -78,7 +78,7 @@ Three prestigious rival monasteries, each thematically tied to a species of geni
 
 **Extracurricular Task – Exhibition (+1 Fame)**: The monasteries maintain a strong sense of competition between them. You can participate in a duel or performance combat allowing only unarmed combat or monk weapons against a student from one of the other monasteries. You are considered successful in this task if you win the exhibition or duel.
 
-**Devotee’s Desire (50 Fame, 30 PP)**: You can consult with one of the genies bound to the eldest teachings of the monasteries and receive the benefits of a *limited wish* spell.
+**Devotee’s Desire (50 Fame, 30 PP)**: You can consult with one of the genies bound to the eldest teachings of the monasteries and receive the benefits of a [*limited wish*](../../magic/spells/limited-wish.md) spell.
 
 **Transcendent Mind (10 PP)**: You gain the Extra Ki feat as a bonus feat. If you do not have the ki pool class feature, you instead gain a ki pool of 2. This functions as a monk’s ki pool except you can spend 1 point from your ki pool to make one additional attack at your highest attack bonus only when making a full attack with either an unarmed strike or a monk weapon.
 
@@ -116,7 +116,7 @@ A mountainside monastery village whose monks train in a unique blend of ascetici
 
 **Cliff Diver (5 Fame, 2 PP)**: Your hours spent scaling the cliffs that cradle the village have made stopping a dangerous fall second nature to you. If you possess the slow fall class feature, your slow fall distance increases by 10 feet. If you do not have this class feature, you gain a +4 circumstance bonus on all Acrobatics checks to soften a fall.
 
-**Patron’s Pilgrim (35 Fame, 10 PP)**: You have communed with the wind spirits who guard the reliquary atop the monastery’s spire. You become specialized in a single Knowledge skill of your choice and receive the benefits of a single *legend lore* spell. You must purchase this award while atop the spire, in the presence of the spirits there.
+**Patron’s Pilgrim (35 Fame, 10 PP)**: You have communed with the wind spirits who guard the reliquary atop the monastery’s spire. You become specialized in a single Knowledge skill of your choice and receive the benefits of a single [*legend lore*](../../magic/spells/legend-lore.md) spell. You must purchase this award while atop the spire, in the presence of the spirits there.
 
 ## Gladiatorial Arenas
 

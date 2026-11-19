@@ -11,4 +11,4 @@ Popular among those who seek to impersonate skilled warriors, a *training* weapo
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *magic weapon*, creator must have the chosen combat feat and its prerequisites; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*magic weapon*](../../magic/spells/magic-weapon.md), creator must have the chosen combat feat and its prerequisites; **Price** —

@@ -55,7 +55,7 @@
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Expeditious Construction](expeditious-construction.md)**: Raise a low earthen wall or berm.
-- **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
+- **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling [*blur*](blur.md), concealment, and the like.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Gentle Breeze](gentle-breeze.md)**: You create a light wind that blows only against the target, from a direction of your choice.
@@ -160,7 +160,7 @@
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
 - **[Climbing Beanstalk](climbing-beanstalk.md)**: Create a beanstalk that is easy to climb.
-- **[Cloud of Seasickness](cloud-of-seasickness.md)**: As *stinking cloud*, but it sickens rather than nauseates.
+- **[Cloud of Seasickness](cloud-of-seasickness.md)**: As [*stinking cloud*](stinking-cloud.md), but it sickens rather than nauseates.
 - **[Companion Life Link](companion-life-link.md)**: You create a life link between yourself and the target.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
@@ -169,7 +169,7 @@
 - **[Defoliate](defoliate.md)**: Destroys undergrowth in a line or spread, or deals 2d8 to a plant creature.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
 - **[Divine Trident](divine-trident.md)**: Wield a trident of electricity.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
@@ -263,7 +263,7 @@
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
-- **[Sympathetic Wounds](sympathetic-wounds.md)**: As *shield other*, but your wounds transfer to the target.
+- **[Sympathetic Wounds](sympathetic-wounds.md)**: As [*shield other*](shield-other.md), but your wounds transfer to the target.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
 - **[Vine Strike](vine-strike.md)**: Enhance one of your natural or unarmed attacks with thorny vine growth.
@@ -489,7 +489,7 @@
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Thirsting Entanglement](thirsting-entanglement.md)**: As entangle, but the plants drain Constitution.
-- **[Thorn Snare](thorn-snare.md)**: As *snare*, and the thorny vine damages whoever it traps.
+- **[Thorn Snare](thorn-snare.md)**: As [*snare*](snare.md), and the thorny vine damages whoever it traps.
 - **[Traveling Dream](traveling-dream.md)**: You sleep while a dreamscryer shaped like you scouts unlimited distances.
 - **[Wall of Brine](wall-of-brine.md)**: Wall of seawater with a strong current that pushes creatures through it.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
@@ -523,7 +523,7 @@
 - **[Entice Fey, Lesser](entice-fey-lesser.md)**: Entice service from a fey of 6 Hit Dice or fewer.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Geniekind](geniekind.md)**: Gain genie-themed appearance and powers.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Half-blood Extraction](half-blood-extraction.md)**: You transform the target half-orc into a full-blooded orc.
 - **[Hallow](hallow.md)**: Designates location as holy.
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
@@ -539,7 +539,7 @@
 - **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Planar Aegis](planar-aegis.md)**: A force shield of planar essence damages attackers and halves related damage.
-- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Poisonous Balm](poisonous-balm.md)**: As [*cure serious wounds*](cure-serious-wounds.md), but leave behind a latent venom.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
@@ -570,18 +570,18 @@
 
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
 - **[Antitech Field](antitech-field.md)**: Mobile field that suppresses technology and robots.
-- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
+- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As [*bear’s endurance*](bears-endurance.md), affects 1 subject/level.
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
 - **[Blazing Rainbow](blazing-rainbow.md)**: You create a spectrum of multicolored solid light that can be used for one of two effects.
 - **[Bleaching Resistance](bleaching-resistance.md)**: Ability drain from the Bleaching does not lower your modifiers while the spell lasts.
-- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
-- **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
+- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As [*bull’s strength*](bulls-strength.md), affects 1 subject/level.
+- **[Cat’s Grace, Mass](cats-grace-mass.md)**: As [*cat’s grace*](cats-grace.md), affects one subject/level.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Cyclic Reincarnation](cyclic-reincarnation.md)**: Reincarnate a creature into a similar body of its own race.
-- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As [*dispel magic*](dispel-magic.md), but with multiple targets.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
@@ -598,15 +598,15 @@
 - **[Move Earth](move-earth.md)**: Digs trenches and builds hills.
 - **[Old Mage's Ire](old-mages-ire.md)**: Vines attack evil creatures and structures in a large area.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
-- **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
+- **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As [*owl’s wisdom*](owls-wisdom.md), affects 1 subject/level.
 - **[Path of the Winds](path-of-the-winds.md)**: With a sweeping gesture, you call forth mighty winds to clear a path ahead of you.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Poison Breath](poison-breath.md)**: Cone of toxic mist, as poison.
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
-- **[Reincarnate Spy](reincarnate-spy.md)**: As *reincarnate*, but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
+- **[Reincarnate Spy](reincarnate-spy.md)**: As [*reincarnate*](reincarnate.md), but creating a body similar to that of a chosen creature, and you secretly keep part of the body.
 - **[Repel Wood](repel-wood.md)**: Pushes away wooden objects.
-- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
+- **[Roaming Pit](roaming-pit.md)**: A [*create pit*](create-pit.md) that can move.
 - **[Share Skin](share-skin.md)**: Possess an animal as with magic jar.
 - **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
 - **[Speak with Waves](speak-with-waves.md)**: Converse with a body of fresh water.
@@ -650,7 +650,7 @@
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
-- **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Scrying, Greater](scrying-greater.md)**: As [*scrying*](scrying.md), but faster and longer.
 - **[Seismic Fissure](seismic-fissure.md)**: Split the earth with a deep fissure.
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
 - **[Summon Giant Ally II](summon-giant-ally-ii.md)**: As summon giant ally I, but summons stronger giants.

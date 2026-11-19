@@ -11,4 +11,4 @@ This special ability can be placed only on one-handed or light piercing melee we
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *greater heroism*, creator must be a panache user; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*greater heroism*](../../magic/spells/heroism-greater.md), creator must be a panache user; **Price** —

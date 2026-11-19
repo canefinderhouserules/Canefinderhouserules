@@ -42,15 +42,15 @@ Loci spirits can’t be damaged conventionally, but are susceptible to corruptio
 |---|---|
 | Committing a violent act | Reduces hit points by 1 |
 | Committing murder | Reduces hit points by 1 for every 3 Hit Dice of the victim (minimum 1 hit point) |
-| Casting *animate dead* | Reduces hit points by 1 per undead created |
-| Casting *create undead* or *create greater undead* | Reduces hit points by 1 per level of spell cast |
+| Casting [*animate dead*](../../magic/spells/animate-dead.md) | Reduces hit points by 1 per undead created |
+| Casting [*create undead*](../../magic/spells/create-undead.md) or [*create greater undead*](../../magic/spells/create-greater-undead.md) | Reduces hit points by 1 per level of spell cast |
 | Summoning an evil outsider | Reduces hit points by 1 per evil outsider summoned |
 | Calling an evil outsider | Reduces hit points by 1 per level of spell cast |
-| Casting *desecrate* | Reduces hit points by 2 |
-| Casting *unhallow* | Reduces hit points by 4 |
+| Casting [*desecrate*](../../magic/spells/desecrate.md) | Reduces hit points by 2 |
+| Casting [*unhallow*](../../magic/spells/unhallow.md) | Reduces hit points by 4 |
 | Successfully performing the loci spirit’s ceremony | Restores 2 hit points |
-| Casting *consecrate* (maximum once per day) | Restores 2 hit points |
-| Casting *hallow* | Restores 4 hit points |
+| Casting [*consecrate*](../../magic/spells/consecrate.md) (maximum once per day) | Restores 2 hit points |
+| Casting [*hallow*](../../magic/spells/hallow.md) | Restores 4 hit points |
 
 If a loci spirit is reduced to 0 hit points, it becomes corrupted; thereafter, it acts as a haunt (GameMastery Guide 242) of the same CR and loses any loci spirit permanent effects. Once a loci spirit has been corrupted, its effects instead manifest as mind-affecting fear effects. These new effects should have a similar power level to that of the ceremonial effect the loci spirit previously manifested. A corrupted loci spirit has the aura of an evil outsider for the purposes of detect evil and similar effects. Unlike a haunt, a corrupted loci spirit can’t take the tricked by hide from undead weakness, but it can take most other haunt modifiers as long as its CR remains the same. The haunt has the same number of hit points as the loci spirit originally did; these are separate from its loci spirit hit points, which remain at 0 until the loci spirit is purified.
 
@@ -118,8 +118,8 @@ To make your own loci spirit like the examples below, follow these steps.
 **Type** NG protective coterie loci spirit (10-ft.-by-10-ft. room)  
 **Caster Level** 5th  
 **hp** 10; **Ceremony** *Knowledge (religion)* DC 25, *Survival* DC 25  
-**Effect** When the celebrant performs the appropriate offering of twigs and berries, the loci spirit manifests as a ghostly, rotund man in clerical garb bearing trays of food, which he offers to the celebrant and its allies, as the *create food and water* spell.  
-**Corruption Effect** *Create food and water* becomes *contagion* (DC 14).
+**Effect** When the celebrant performs the appropriate offering of twigs and berries, the loci spirit manifests as a ghostly, rotund man in clerical garb bearing trays of food, which he offers to the celebrant and its allies, as the [*create food and water*](../../magic/spells/create-food-and-water.md) spell.  
+**Corruption Effect** [*Create food and water*](../../magic/spells/create-food-and-water.md) becomes [*contagion*](../../magic/spells/contagion.md) (DC 14).
 
 ### Ghostly Warriors (CR 5)
 
@@ -127,8 +127,8 @@ To make your own loci spirit like the examples below, follow these steps.
 **Type** LG sacred boon loci spirit (5-ft. radius centered on the shrine)  
 **Caster Level** 5th  
 **hp** 10; **Ceremony** *Diplomacy* DC 25, *Perform (oratory)* DC 25  
-**Effect** Invoking the ceremony with pomp and vigor rouses a cadre of ghostly figures in ancient armor that kneel before all creatures in the loci spirit’s area of effect and present their weapons, granting a boon of *align weapon* (each recipient’s choice of lawful or good only).  
-**Corruption Effect** *Align weapon* becomes *shatter* (DC 13).
+**Effect** Invoking the ceremony with pomp and vigor rouses a cadre of ghostly figures in ancient armor that kneel before all creatures in the loci spirit’s area of effect and present their weapons, granting a boon of [*align weapon*](../../magic/spells/align-weapon.md) (each recipient’s choice of lawful or good only).  
+**Corruption Effect** [*Align weapon*](../../magic/spells/align-weapon.md) becomes [*shatter*](../../magic/spells/shatter.md) (DC 13).
 
 ### Hero’s Call (CR 4)
 
@@ -136,5 +136,5 @@ To make your own loci spirit like the examples below, follow these steps.
 **Type** CG energized singular loci spirit (15-ft. radius centered on the hero’s statue)  
 **Caster Level** 4th  
 **hp** 8; **Ceremony** *Knowledge (history)* DC 24, *Perform (oratory)* DC 24  
-**Effect** The celebrant entreats the brave hero from the ancient past, recalling the hero’s great deeds and requesting some of the hero’s strength for the celebrant’s own quest. If the ceremony is successful, the hero’s statue seems to raise its sword in a salute, and the celebrant gains the benefit of a *heroism* spell.  
-**Corruption Effect** *Heroism* becomes *scare* (DC 13).
+**Effect** The celebrant entreats the brave hero from the ancient past, recalling the hero’s great deeds and requesting some of the hero’s strength for the celebrant’s own quest. If the ceremony is successful, the hero’s statue seems to raise its sword in a salute, and the celebrant gains the benefit of a [*heroism*](../../magic/spells/heroism.md) spell.  
+**Corruption Effect** [*Heroism*](../../magic/spells/heroism.md) becomes [*scare*](../../magic/spells/scare.md) (DC 13).

@@ -24,7 +24,7 @@ Items that have taken damage in excess of half their total hit points gain the b
 
 - If the item is a wand or staff, it uses up twice as many charges when used.
 
-- If the item does not fit into any of these categories, the broken condition has no effect on its use. Items with the broken condition, regardless of type, are worth 75% of their normal value. If the item is magical, it can only be repaired with a *mending* or *make whole* spell cast by a character with a caster level equal to or higher than the item’s. Items lose the broken condition if the spell restores the object to half its original hit points or higher. Non-magical items can be repaired in a similar fashion, or through the Craft skill used to create it. Generally speaking, this requires a DC 20 Craft check and 1 hour of work to be repaired. Most craftsmen charge one-tenth the item’s total cost to repair such damage (more if the item is badly damaged or ruined).
+- If the item does not fit into any of these categories, the broken condition has no effect on its use. Items with the broken condition, regardless of type, are worth 75% of their normal value. If the item is magical, it can only be repaired with a [*mending*](../../magic/spells/mending.md) or [*make whole*](../../magic/spells/make-whole.md) spell cast by a character with a caster level equal to or higher than the item’s. Items lose the broken condition if the spell restores the object to half its original hit points or higher. Non-magical items can be repaired in a similar fashion, or through the Craft skill used to create it. Generally speaking, this requires a DC 20 Craft check and 1 hour of work to be repaired. Most craftsmen charge one-tenth the item’s total cost to repair such damage (more if the item is badly damaged or ruined).
 
 **Special Note on Ships**: Ships, and sometimes their means of propulsion—are objects, and like any other object, when they take damage in excess of half their hit points, they gain the broken condition. When a ship gains the broken condition, it takes a –2 penalty to AC, on sailing checks, saving throws, and on combat maneuver checks. If a ship or its means of propulsion becomes broken, the ship’s maximum speed is halved and the ship can no longer gain the upper hand until repaired. If the ship is in motion and traveling faster than its new maximum speed, it automatically decelerates to its new maximum speed (from Advanced Naval Combat.)
 
@@ -85,7 +85,7 @@ For each negative level a creature has, it takes a cumulative –1 penalty on al
 
 A creature with temporary negative levels receives a new saving throw to remove the negative level each day. The DC of this save is the same as the effect that caused the negative levels.
 
-Some abilities and spells (such as *raise dead*) bestow permanent level drain on a creature. These are treated just like temporary negative levels, but they do not allow a new save each day to remove them. Level drain can be removed through spells like *restoration*. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like *raise dead* and *resurrection* without also receiving a *restoration* spell, cast the round after it is restored to life.
+Some abilities and spells (such as [*raise dead*](../../magic/spells/raise-dead.md)) bestow permanent level drain on a creature. These are treated just like temporary negative levels, but they do not allow a new save each day to remove them. Level drain can be removed through spells like [*restoration*](../../magic/spells/restoration.md). Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like *raise dead* and [*resurrection*](../../magic/spells/resurrection.md) without also receiving a *restoration* spell, cast the round after it is restored to life.
 
 ## Entangled
 
@@ -178,7 +178,7 @@ A creature with the Blind-Fight feat has a better chance to hit an invisible cre
 
 A creature with blindsight can attack (and otherwise interact with) creatures regardless of invisibility.
 
-An invisible burning torch still gives off light, as does an invisible object with a *light* or similar spell cast upon it.
+An invisible burning torch still gives off light, as does an invisible object with a [*light*](../../magic/spells/light.md) or similar spell cast upon it.
 
 Ethereal creatures are invisible. Since ethereal creatures are not materially present, Perception checks, scent, Blind-Fight, and blindsight don’t help locate them.
 
@@ -239,7 +239,7 @@ The character takes a –2 penalty on all attack rolls, weapon damage rolls, sav
 
 ## Sinking
 
-A ship that is reduced to 0 or fewer hit points gains the sinking condition. A sinking ship cannot move or attack, and it sinks completely 10 rounds after it gains the sinking condition. Each additional hit on a sinking ship that deals more than 25 points of damage reduces the remaining time for it to sink by 1 round. A ship that sinks completely drops to the bottom of the body of water and is considered destroyed. A destroyed ship cannot be repaired—it is so significantly damaged it cannot even be used for scrap material. Magic (such as *make whole*) can repair a sinking ship if the ship’s hit points are raised above 0, at which point the ship loses the sinking condition. Generally, non-magical repairs take too long to save a ship from sinking once it begins to go down.
+A ship that is reduced to 0 or fewer hit points gains the sinking condition. A sinking ship cannot move or attack, and it sinks completely 10 rounds after it gains the sinking condition. Each additional hit on a sinking ship that deals more than 25 points of damage reduces the remaining time for it to sink by 1 round. A ship that sinks completely drops to the bottom of the body of water and is considered destroyed. A destroyed ship cannot be repaired—it is so significantly damaged it cannot even be used for scrap material. Magic (such as [*make whole*](../../magic/spells/make-whole.md)) can repair a sinking ship if the ship’s hit points are raised above 0, at which point the ship loses the sinking condition. Generally, non-magical repairs take too long to save a ship from sinking once it begins to go down.
 
 ## Sleep
 

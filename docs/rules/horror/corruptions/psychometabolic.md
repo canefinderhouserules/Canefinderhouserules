@@ -8,7 +8,7 @@ A psychometabolic corruption is contracted as a result of experiencing extreme p
 
 ### Progression
 
-The corruption is tied to your exposure to psychic power—the more you experience, the faster your progression advances. Whenever the total number of points in your psychometabolic pool reaches 0, you become afflicted with a random [madness](../madness.md) from the following list within the next 24 hours: delirium, delusion, hallucination, mania, night terrors, paranoia, or phobia. This affliction lasts 8 hours, after which you must succeed at a Will save (DC = 15 + your manifestation level) or become twisted by your powers. You must also attempt this save when you are reduced to 10% or fewer of your maximum hit points by a psychic effect or when you fail a save against a psychic effect by 5 or more. If you are unconscious or under the effects of *calm emotions* for at least 6 of the hours that you spend afflicted with the madness, your corruption doesn't progress. However, the DC of checks to prevent your corruption from progressing increases by 2. These increases stack each time this occurs, and they last until your corruption reaches the next corruption stage.
+The corruption is tied to your exposure to psychic power—the more you experience, the faster your progression advances. Whenever the total number of points in your psychometabolic pool reaches 0, you become afflicted with a random [madness](../madness.md) from the following list within the next 24 hours: delirium, delusion, hallucination, mania, night terrors, paranoia, or phobia. This affliction lasts 8 hours, after which you must succeed at a Will save (DC = 15 + your manifestation level) or become twisted by your powers. You must also attempt this save when you are reduced to 10% or fewer of your maximum hit points by a psychic effect or when you fail a save against a psychic effect by 5 or more. If you are unconscious or under the effects of [*calm emotions*](../../../magic/spells/calm-emotions.md) for at least 6 of the hours that you spend afflicted with the madness, your corruption doesn't progress. However, the DC of checks to prevent your corruption from progressing increases by 2. These increases stack each time this occurs, and they last until your corruption reaches the next corruption stage.
 
 **Corruption Stage 1**: The first time you fail a Will save (as described above), your powers twist your mind. You are constantly afflicted with one madness of the GM's choice from among those listed above. This madness can't be cured or removed while you have this corruption.
 
@@ -18,7 +18,7 @@ The corruption is tied to your exposure to psychic power—the more you experien
 
 ### Removing the Corruption
 
-To remove the psychometabolic corruption, a psychic spellcaster whose caster level is at least double your manifestation level must eliminate your memories of gaining the corruption and your corruption stage advancing, such as by *modify memory*, and then must cast *psychic surgery* on you.
+To remove the psychometabolic corruption, a psychic spellcaster whose caster level is at least double your manifestation level must eliminate your memories of gaining the corruption and your corruption stage advancing, such as by [*modify memory*](../../../magic/spells/modify-memory.md), and then must cast [*psychic surgery*](../../../magic/spells/psychic-surgery.md) on you.
 
 ## Manifestations
 
@@ -28,7 +28,7 @@ The following are manifestations of the psychometabolic corruption. All spell-li
 
 You can repair damage to your body.
 
-**Gift**: You can use any of the following spells as a spell-like ability by spending a number of points from your psychometabolic pool equal to the spell's cleric spell level: *lesser restoration*, *regenerate*, *restoration*, or any cure spell (a spell with the word "cure" in its name). You can target only yourself with these spells, and you can use this manifestation to cast only a spell whose spell level on the cleric spell list is equal to or less than your manifestation level. You are always treated as a living creature for the purpose of these spells' effects.
+**Gift**: You can use any of the following spells as a spell-like ability by spending a number of points from your psychometabolic pool equal to the spell's cleric spell level: [*lesser restoration*](../../../magic/spells/restoration-lesser.md), [*regenerate*](../../../magic/spells/regenerate.md), [*restoration*](../../../magic/spells/restoration.md), or any cure spell (a spell with the word "cure" in its name). You can target only yourself with these spells, and you can use this manifestation to cast only a spell whose spell level on the cleric spell list is equal to or less than your manifestation level. You are always treated as a living creature for the purpose of these spells' effects.
 
 **Stain**: Your body becomes twisted and alien. When an effect other than this manifestation's spell-like abilities heals your ability damage or hit point damage, roll the amount of healing twice and use the lower result.
 
@@ -38,7 +38,7 @@ You can lift creatures and objects with your mind.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: By spending 2 points of psychometabolic power, you can use *levitate* as a spell-like ability. At manifestation level 4th, you can spend 3 points of psychometabolic power to use *hostile levitation*.
+**Gift**: By spending 2 points of psychometabolic power, you can use [*levitate*](../../../magic/spells/levitate.md) as a spell-like ability. At manifestation level 4th, you can spend 3 points of psychometabolic power to use [*hostile levitation*](../../../magic/spells/hostile-levitation.md).
 
 **Stain**: Your body weakens. You take a –4 penalty on all Strength- and Dexterity-based checks and skill checks.
 
@@ -46,7 +46,7 @@ You can lift creatures and objects with your mind.
 
 You hear voices in your head.
 
-**Gift**: You gain telepathy with a range of 10 feet + 10 feet per manifestation level that you have. You can use *detect thoughts* as a spell-like ability by spending 1 point of psychometabolic power.
+**Gift**: You gain telepathy with a range of 10 feet + 10 feet per manifestation level that you have. You can use [*detect thoughts*](../../../magic/spells/detect-thoughts.md) as a spell-like ability by spending 1 point of psychometabolic power.
 
 **Stain**: Garbled thoughts ring in your ears. You take a –2 penalty on all concentration checks. At manifestation level 4th, the penalty changes to –4.
 
@@ -56,7 +56,7 @@ You lift yourself with your mind.
 
 **Prerequisites**: Defy gravity, manifestation level 5th.
 
-**Gift**: By spending 3 points of psychometabolic power as a swift action (1 AP), you can use *fly* as a spell-like ability.
+**Gift**: By spending 3 points of psychometabolic power as a swift action (1 AP), you can use [*fly*](../../../magic/spells/fly.md) as a spell-like ability.
 
 **Stain**: Your limbs slow as they weaken. Your speed for all nonmagical movement types is reduced by 10 feet.
 
@@ -84,7 +84,7 @@ You can travel with a thought.
 
 **Prerequisites**: Defy gravity, manifestation level 6th.
 
-**Gift**: You can spend 4 psychometabolic points to use *dimension door* as a spell-like ability. At manifestation level 9th, you can spend 6 psychometabolic points to instead use *teleport* as a spell-like ability.
+**Gift**: You can spend 4 psychometabolic points to use [*dimension door*](../../../magic/spells/dimension-door.md) as a spell-like ability. At manifestation level 9th, you can spend 6 psychometabolic points to instead use [*teleport*](../../../magic/spells/teleport.md) as a spell-like ability.
 
 **Stain**: Your body deteriorates. You take a –2 penalty to your Constitution score.
 

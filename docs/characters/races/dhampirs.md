@@ -74,7 +74,7 @@ Usually the result of some foul ritual or a magically possessed father rather th
 
 **Alternate Skill Modifiers**: [Acrobatics](../../rules/skills/acrobatics.md) and Knowledge (engineering) (replacing the manipulative racial trait).
 
-**Alternate Spell-Like Ability**: *Erase* as a spell-like ability.
+**Alternate Spell-Like Ability**: [*Erase*](../../magic/spells/erase.md) as a spell-like ability.
 
 **Alternate Weakness**: A –1 penalty on saves against sonic effects and spells.
 
@@ -88,7 +88,7 @@ Dhampirs who can trace their heritage to moroi inherit much of the unnatural cha
 
 **Alternate Skill Modifiers**: Diplomacy and Knowledge (nobility) (replacing the manipulative racial trait).
 
-**Alternate Spell-Like Ability**: *Obscuring mist* as a spell-like ability.
+**Alternate Spell-Like Ability**: [*Obscuring mist*](../../magic/spells/obscuring-mist.md) as a spell-like ability.
 
 **Alternate Weakness**: A –1 penalty on saves against effects that deal positive energy damage.
 
@@ -102,7 +102,7 @@ The union that results in this heritage is too horrific for most to imagine, and
 
 **Alternate Skill Modifiers**: [Climb](../../rules/skills/climb.md) and [Survival](../../rules/skills/survival.md) (replacing the manipulative racial trait).
 
-**Alternate Spell-Like Ability**: *Doom* as a spell-like ability.
+**Alternate Spell-Like Ability**: [*Doom*](../../magic/spells/doom.md) as a spell-like ability.
 
 **Alternate Weakness**: A –1 penalty on saving throws against effects that damage, drain, or reduce physical ability scores.
 
@@ -116,7 +116,7 @@ More often the result of curiosity or experimentation than mating, the dhampir o
 
 **Alternate Skill Modifiers**: [Escape Artist](../../rules/skills/escape-artist.md) and [Use Magic Device](../../rules/skills/use-magic-device.md) (replacing the manipulative racial trait).
 
-**Alternate Spell-Like Ability**: *Comprehend languages* as a spell-like ability.
+**Alternate Spell-Like Ability**: [*Comprehend languages*](../../magic/spells/comprehend-languages.md) as a spell-like ability.
 
 **Alternate Weakness**: A –1 penalty to their caster level whenever they are in an area affected by [*consecrate*](../../magic/spells/consecrate.md), [*hallow*](../../magic/spells/hallow.md), or a similar spell that makes an area holy.
 
@@ -209,7 +209,7 @@ The ru-shi are dhampirs who descend from the jiang-shi of the far east. They gen
 
 **Alternate Skill Modifiers**: Acrobatics, [Knowledge](../../rules/skills/knowledge.md) (engineering).
 
-**Alternate Spell-Like Ability**: *Erase*.
+**Alternate Spell-Like Ability**: [*Erase*](../../magic/spells/erase.md).
 
 **Alternate Weakness**: Ru-shi take a –1 penalty on saves against sonic effects and spells.
 
@@ -221,7 +221,7 @@ These dhampirs are blessed with unnatural grace, beauty, and charm, and they oft
 
 **Alternate Skill Modifiers**: Diplomacy, Knowledge (nobility).
 
-**Alternate Spell-Like Ability**: *Obscuring mist*.
+**Alternate Spell-Like Ability**: [*Obscuring mist*](../../magic/spells/obscuring-mist.md).
 
 **Alternate Weakness**: Svetochers take a –1 penalty on saves against effects that deal positive energy damage.
 
@@ -233,7 +233,7 @@ Many of the ancient-born dhampirs possess a deep hatred for humanity—a hatred 
 
 **Alternate Skill Modifiers**: Climb, Survival.
 
-**Alternate Spell-Like Ability**: *Doom*.
+**Alternate Spell-Like Ability**: [*Doom*](../../magic/spells/doom.md).
 
 **Alternate Weakness**: Ancient-born take a –1 penalty on saves against effects that damage, drain, or reduce physical ability scores.
 
@@ -249,7 +249,7 @@ These dhampirs are more often the result of magical experiments than mating.
 
 **Alternate Skill Modifiers**: Escape Artist, Use Magic Device.
 
-**Alternate Spell-Like Ability**: *Comprehend languages*.
+**Alternate Spell-Like Ability**: [*Comprehend languages*](../../magic/spells/comprehend-languages.md).
 
 **Alternate Weakness**: Ajibachanas take a –1 penalty to their caster levels when they’re in an area affected by [*consecrate*](../../magic/spells/consecrate.md), [*hallow*](../../magic/spells/hallow.md), or a similar spell that makes an area holy.
 

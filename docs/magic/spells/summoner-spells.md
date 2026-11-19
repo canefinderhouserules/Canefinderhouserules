@@ -93,7 +93,7 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
@@ -177,7 +177,7 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you're protected from heat or cold.
 - **[Fleshwarping Swarm (Drow)](fleshwarping-swarm-drow.md)**: As summon swarm, but creatures hurt by the swarm are twisted and slowed.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
-- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
+- **[Glimpse the Hidden](glimpse-the-hidden.md)**: As [*see invisibility*](see-invisibility.md), but cannot be made permanent.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Heroism](heroism.md)**: Gives +2 on attack rolls, saves, skill checks.
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
@@ -220,7 +220,7 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Restore Eidolon](restore-eidolon.md)**: Restoration for an eidolon.
 - **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
-- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Alarm](selective-alarm.md)**: As [*alarm*](alarm.md), but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Shield Companion](shield-companion.md)**: As shield other, but affecting your companion creature.
@@ -276,9 +276,9 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Fox’s Cunning, Mass](foxs-cunning-mass.md)**: As
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Hold Monster](hold-monster.md)**: As
-- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
-- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As [*infernal healing*](infernal-healing.md), but fast healing 4.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Mage’s Faithful Hound](mages-faithful-hound.md)**: Phantom dog can guard a location and attack intruders.
@@ -354,7 +354,7 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Possession](possession.md)**: Project your soul into a creature’s body.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Repulsion](repulsion.md)**: Creatures can't approach you.
-- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
+- **[Roaming Pit](roaming-pit.md)**: A [*create pit*](create-pit.md) that can move.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
 - **[Sequester](sequester.md)**: Subject is invisible to sight and scrying; renders creature comatose.
 - **[Simulacrum](simulacrum.md)**: Creates partially real double of a creature.
@@ -419,7 +419,7 @@ Summoner spells. Spells from other books will be added as they are transcribed. 
 - **[Summon Monster VIII](summon-monster-viii.md)**: Summons extraplanar creature to fight for you.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
 - **[Teleportation Circle](teleportation-circle.md)**: Teleports creatures inside circle.
-- **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
+- **[Treacherous Teleport](treacherous-teleport.md)**: As [*teleport*](teleport.md), except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 - **[Vermicious Assumption](vermicious-assumption.md)**: A vermlek demon inhabits a corpse and may serve you.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.

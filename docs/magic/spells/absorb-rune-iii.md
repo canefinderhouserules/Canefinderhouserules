@@ -8,4 +8,4 @@
 **Duration** instantaneous plus 1 minute/level (see text)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like *absorb rune I*, but it can affect runes equivalent to a spell of 8th level or lower.
+This spell functions like [*absorb rune I*](absorb-rune-i.md), but it can affect runes equivalent to a spell of 8th level or lower.

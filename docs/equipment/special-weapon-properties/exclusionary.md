@@ -11,4 +11,4 @@ When the wielder of an *exclusionary* weapon damages a creature with it, she can
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, Selective Channeling, *sanctuary*; **Price** 1,875 gp
+**Requirements** Craft Magic Arms and Armor, Selective Channeling, [*sanctuary*](../../magic/spells/sanctuary.md); **Price** 1,875 gp

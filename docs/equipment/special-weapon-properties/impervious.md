@@ -11,4 +11,4 @@ An *impervious* weapon is warded from damage and decay. A metallic weapon cannot
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *fabricate*, *make whole*; **Price** +1,500 gp
+**Requirements** Craft Magic Arms and Armor, [*fabricate*](../../magic/spells/fabricate.md), [*make whole*](../../magic/spells/make-whole.md); **Price** +1,500 gp

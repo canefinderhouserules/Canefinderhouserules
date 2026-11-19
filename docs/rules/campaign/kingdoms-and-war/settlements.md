@@ -13,7 +13,7 @@ Icons representing each of the building types are shown in the building descript
 
 The placement of buildings in your district is up to you— you can start in the center of the district and build outward, or start at the edge and build toward the center. Some buildings (such as the Guildhall) take up more than 1 lot on the grid. You can’t divide up these larger structures, though you can place them so they cover a street. (Streets do not count as lots.)
 
-**Construction**: Construction is completed in the same turn you spend BP for the building, no matter what its size is. A building’s benefits apply to your kingdom immediately. At the GM’s discretion, construction magic (such as *lyre of building*, *fabricate*, or *wall of stone*) can reduce a single building’s BP cost by 2 (minimum 0). This is a one-time reduction per turn, regardless of the amount of magic used.
+**Construction**: Construction is completed in the same turn you spend BP for the building, no matter what its size is. A building’s benefits apply to your kingdom immediately. At the GM’s discretion, construction magic (such as *lyre of building*, [*fabricate*](../../../magic/spells/fabricate.md), or [*wall of stone*](../../../magic/spells/wall-of-stone.md)) can reduce a single building’s BP cost by 2 (minimum 0). This is a one-time reduction per turn, regardless of the amount of magic used.
 
 **Population**: A settlement’s population is approximately equal to the number of completed lots within its districts × 250. A grid that has all 36 lots filled with buildings has a population of approximately 9,000.
 

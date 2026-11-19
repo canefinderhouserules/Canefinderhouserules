@@ -138,7 +138,7 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 | Entangled | Anchored in place and unable to move from that square |
 | Sickened | Nauseated |
 
-On a failed Fortitude save, the opponent takes this additional penalty on top of the dirty trick's original effect. The additional penalty lasts for 1 round (though the initial penalty lasts as long as normal), and can be removed with a move action (1 AP). The initial effect cannot be removed via mundane means until the additional penalty is removed (though magical effects like *remove blindness/deafness* work). Removing the initial effect also removes the additional penalty. If the target is immune to the initial penalty, then it is unaffected by the additional penalty. For example, a barbarian using this rage power attempts a dirty trick combat maneuver against her opponent to blind him. She succeeds and her opponent fails his Fortitude save, so he becomes [staggered](../../rules/appendices/conditions.md#staggered) as well as blinded. Regardless of whether he had succeeded at his saving throw, the opponent still takes an amount of damage from the barbarian's combat maneuver equal to the barbarian's Strength modifier (unless he has damage reduction or would otherwise be able to prevent this damage). Likewise, if her opponent were immune to blinding effects, he would not suffer from the blindness or the staggering effect, regardless of his saving throw.
+On a failed Fortitude save, the opponent takes this additional penalty on top of the dirty trick's original effect. The additional penalty lasts for 1 round (though the initial penalty lasts as long as normal), and can be removed with a move action (1 AP). The initial effect cannot be removed via mundane means until the additional penalty is removed (though magical effects like [*remove blindness/deafness*](../../magic/spells/remove-blindness-deafness.md) work). Removing the initial effect also removes the additional penalty. If the target is immune to the initial penalty, then it is unaffected by the additional penalty. For example, a barbarian using this rage power attempts a dirty trick combat maneuver against her opponent to blind him. She succeeds and her opponent fails his Fortitude save, so he becomes [staggered](../../rules/appendices/conditions.md#staggered) as well as blinded. Regardless of whether he had succeeded at his saving throw, the opponent still takes an amount of damage from the barbarian's combat maneuver equal to the barbarian's Strength modifier (unless he has damage reduction or would otherwise be able to prevent this damage). Likewise, if her opponent were immune to blinding effects, he would not suffer from the blindness or the staggering effect, regardless of his saving throw.
 
 This power can only be used once per opponent per rage. A barbarian must be at least 6th level to select this rage power.
 
@@ -314,7 +314,7 @@ Any barbarian meeting the prerequisites can take the following new rage powers. 
 
 Furthermore, the barbarian deals an additional 1d6 points of damage when she damages an evil outsider with a melee attack.
 
-**Celestial Totem (Su)**: While raging, the barbarian shines with a righteous light. This effect bestows upon the barbarian a halo of gleaming light that shines as if it were daylight and triggers an [*invisibility purge*](../../magic/spells/invisibility-purge.md) effect in the barbarian’s square and each adjacent square. The *invisibility purge* only affects nongood creatures. A barbarian must be at least 8th level to select this rage power.
+**Celestial Totem (Su)**: While raging, the barbarian shines with a righteous light. This effect bestows upon the barbarian a halo of gleaming light that shines as if it were daylight and triggers an [*invisibility purge*](../../magic/spells/invisibility-purge.md) effect in the barbarian’s square and each adjacent square. The [*invisibility purge*](../../magic/spells/invisibility-purge.md) only affects nongood creatures. A barbarian must be at least 8th level to select this rage power.
 
 **Celestial Totem, Greater (Su)**: While raging, the barbarian gains spell resistance equal to 11 + the barbarian’s class level against spells with the evil descriptor. She also gains a +2 bonus on all saving throws against spells and effects from evil creatures. A barbarian must have the celestial totem rage power and be at least 12th level to select this rage power.
 
@@ -730,7 +730,7 @@ Some barbarians exhibit an unusual form of lycanthropy powered by their fury. Su
 
 **Race**: A mooncursed must either be a humanoid or monstrous humanoid.
 
-**Shifting Rage (Su)**: A mooncursed can call upon an animal totem or inner curse, transforming her into a savage beast. Starting at 1st level, she chooses bear, boar, crocodile, shark, tiger, or wolf. Once chosen, this animal can’t be changed. When using rounds of her shifting rage, instead of the usual bonuses and penalties from rage, the mooncursed transforms into a Medium version of this animal’s form as if under the influence of *beast shape I*, treating her class level as her caster level whenever relevant. Other aspects of rage aside from the bonuses and penalties, such as the skill restrictions on skills and effects that require concentration, still apply during a shifting rage.
+**Shifting Rage (Su)**: A mooncursed can call upon an animal totem or inner curse, transforming her into a savage beast. Starting at 1st level, she chooses bear, boar, crocodile, shark, tiger, or wolf. Once chosen, this animal can’t be changed. When using rounds of her shifting rage, instead of the usual bonuses and penalties from rage, the mooncursed transforms into a Medium version of this animal’s form as if under the influence of [*beast shape I*](../../magic/spells/beast-shape-i.md), treating her class level as her caster level whenever relevant. Other aspects of rage aside from the bonuses and penalties, such as the skill restrictions on skills and effects that require concentration, still apply during a shifting rage.
 
 This ability alters [rage](barbarian.md#rage-ex).
 
@@ -738,11 +738,11 @@ This ability alters [rage](barbarian.md#rage-ex).
 
 This ability replaces [improved uncanny dodge](barbarian.md#improved-uncanny-dodge-ex).
 
-**Greater Shifting Rage (Su)**: At 11th level, a mooncursed can assume larger alternate and hybrid forms. This functions like *beast shape II*, and it allows the mooncursed to take on a Medium or Large version of her animal’s form.
+**Greater Shifting Rage (Su)**: At 11th level, a mooncursed can assume larger alternate and hybrid forms. This functions like [*beast shape II*](../../magic/spells/beast-shape-ii.md), and it allows the mooncursed to take on a Medium or Large version of her animal’s form.
 
 This ability replaces [greater rage](barbarian.md#greater-rage-ex).
 
-**Mighty Shifting Rage (Su)**: At 20th level, a mooncursed can assume even larger alternate and hybrid forms. This functions like *beast shape III*, and it allows the mooncursed to take on a Medium, Large, or Huge version of her animal’s form. This ability replaces [mighty rage](barbarian.md#mighty-rage-ex).
+**Mighty Shifting Rage (Su)**: At 20th level, a mooncursed can assume even larger alternate and hybrid forms. This functions like [*beast shape III*](../../magic/spells/beast-shape-iii.md), and it allows the mooncursed to take on a Medium, Large, or Huge version of her animal’s form. This ability replaces [mighty rage](barbarian.md#mighty-rage-ex).
 
 ## New Rage Powers
 
@@ -984,11 +984,11 @@ While some barbarians take on bestial aspects in their rages, the beastkin berse
 
 At 5th level and every 5 levels thereafter (10th, 15th, and 20th levels), the beastkin berserker can select an additional kind of animal to which these bonuses apply. This ability replaces [fast movement](barbarian.md#fast-movement-ex).
 
-**Feral Transformation (Su)**: At 4th level, when entering a rage, a beastkin berserker can take the form of a Small or Medium animal. This functions as *beast shape I*, except the duration is for as long as the beastkin berserker rages and the animal must be one she has chosen with her savage rapport.
+**Feral Transformation (Su)**: At 4th level, when entering a rage, a beastkin berserker can take the form of a Small or Medium animal. This functions as [*beast shape I*](../../magic/spells/beast-shape-i.md), except the duration is for as long as the beastkin berserker rages and the animal must be one she has chosen with her savage rapport.
 
-At 8th level, the beastkin berserker can use feral transformation to take the form of a Large or Tiny animal that she has chosen with her savage rapport. Feral transformation now acts as *beast shape II*.
+At 8th level, the beastkin berserker can use feral transformation to take the form of a Large or Tiny animal that she has chosen with her savage rapport. Feral transformation now acts as [*beast shape II*](../../magic/spells/beast-shape-ii.md).
 
-At 12th level, a beastkin berserker is able to use feral transformation to take the form of a Huge or Diminutive animal that she has chosen with her savage rapport. Feral transformation now functions as *beast shape III*. This ability replaces the rage powers gained at 4th, 8th, and 12th levels.
+At 12th level, a beastkin berserker is able to use feral transformation to take the form of a Huge or Diminutive animal that she has chosen with her savage rapport. Feral transformation now functions as [*beast shape III*](../../magic/spells/beast-shape-iii.md). This ability replaces the rage powers gained at 4th, 8th, and 12th levels.
 
 ## Sun Totem Rage Powers
 

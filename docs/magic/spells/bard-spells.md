@@ -12,7 +12,7 @@
 - **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Know Direction](know-direction.md)**: You discern north.
 - **[Light](light.md)**: Object shines like a torch.
-- **[Lullaby](lullaby.md)**: Makes subject drowsy: –5 on Perception checks, –2 on Will saves against *sleep*.
+- **[Lullaby](lullaby.md)**: Makes subject drowsy: –5 on Perception checks, –2 on Will saves against [*sleep*](sleep.md).
 - **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
 - **[Mending](mending.md)**: Makes minor repairs on an object.
 - **[Message](message.md)**: Whisper conversation at distance.
@@ -46,7 +46,7 @@
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
-- **[Charm Fey](charm-fey.md)**: As *charm person*, but affects a fey.
+- **[Charm Fey](charm-fey.md)**: As [*charm person*](charm-person.md), but affects a fey.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Chastise](chastise.md)**: +5 bonus to convince a target to do what you want or get in trouble with their superiors.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
@@ -124,7 +124,7 @@
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
-- **[Obscure Object](obscure-object.md)**: Masks object against *scrying*.
+- **[Obscure Object](obscure-object.md)**: Masks object against [*scrying*](scrying.md).
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
@@ -239,7 +239,7 @@
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Demand Offering](demand-offering.md)**: Make a creature give you an object it’s holding.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Detect Thoughts](detect-thoughts.md)**: Allows “listening” to surface thoughts.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
@@ -251,7 +251,7 @@
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
-- **[Drunkard’s Breath](drunkards-breath.md)**: A cone that works like *stinking cloud* and feels like a hangover.
+- **[Drunkard’s Breath](drunkards-breath.md)**: A cone that works like [*stinking cloud*](stinking-cloud.md) and feels like a hangover.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Duelist’s Feint](duelists-feint.md)**: Distract a foe so it is vulnerable to your attacks.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
@@ -281,7 +281,7 @@
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hidden Presence](hidden-presence.md)**: Prevent creatures from noticing your presence.
-- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
+- **[Hold Fey](hold-fey.md)**: As [*hold person*](hold-person.md), but affects a fey.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
@@ -311,7 +311,7 @@
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
 - **[Miasmal Dread](miasmal-dread.md)**: A cloud of sickly green mist pours from your mouth and coalesces around creatures in the cone.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: Target gains a message that can be given only to its intended recipient.
-- **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
+- **[Minor Image](minor-image.md)**: As [*silent image*](silent-image.md), plus some sound.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
 - **[Misdirection](misdirection.md)**: Misleads divinations for one creature or object.
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
@@ -427,7 +427,7 @@
 - **[Deep Slumber](deep-slumber.md)**: Puts 10 HD of creatures to sleep.
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
-- **[Demanding Message](demanding-message.md)**: Send messages as per *message* with a *suggestion* for one creature.
+- **[Demanding Message](demanding-message.md)**: Send messages as per [*message*](message.md) with a [*suggestion*](suggestion.md) for one creature.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Discern Value](discern-value.md)**: Reveals which objects in a cone are most valuable.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
@@ -462,7 +462,7 @@
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Harrowing](harrowing.md)**: Use a fortune-telling deck to predict the future.
 - **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
-- **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism](hollow-heroism.md)**: Provide a [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
@@ -476,10 +476,10 @@
 - **[Isolate](isolate.md)**: Separate your prey from support
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
 - **[Liquefy](liquefy.md)**: Turn an object into a harmless liquid.
-- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain [*rage*](rage.md) the next time you fight a chosen enemy.
 - **[Mad Sultan’s Melody](mad-sultans-melody.md)**: Bizarre cacophony fascinates eldritch creatures.
-- **[Magic Aura, Greater](magic-aura-greater.md)**: As *magic aura*, but also affects creatures and allows more options.
-- **[Major Image](major-image.md)**: As *silent image*, plus sound, smell, and thermal effects.
+- **[Magic Aura, Greater](magic-aura-greater.md)**: As [*magic aura*](magic-aura.md), but also affects creatures and allows more options.
+- **[Major Image](major-image.md)**: As [*silent image*](silent-image.md), plus sound, smell, and thermal effects.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Martial Marionette](martial-marionette.md)**: Control a foe’s limbs to hamper its attacks.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
@@ -513,7 +513,7 @@
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
 - **[See Invisibility](see-invisibility.md)**: Reveals invisible creatures or objects.
 - **[Seeds of Influence](seeds-of-influence.md)**: Leave a trace in a creature’s mind that weakens it against your divinations and enchantments.
-- **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
+- **[Selective Alarm](selective-alarm.md)**: As [*alarm*](alarm.md), but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Sepia Snake Sigil](sepia-snake-sigil.md)**: Creates a snake-shaped text symbol that immobilizes reader.
 - **[Sequester Thoughts](sequester-thoughts.md)**: Store a creature’s memories in a gem.
@@ -561,7 +561,7 @@
 - **[Bountiful Banquet](bountiful-banquet.md)**: Create a luxurious feast for two creatures/level.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
-- **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
+- **[Charm Person, Mass](charm-person-mass.md)**: As [*charm person*](charm-person.md), but affects multiple creatures within 30 ft.
 - **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
@@ -590,7 +590,7 @@
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Haste, Mass](haste-mass.md)**: As haste, but affects one creature/level, no two of which can be more than 30 ft. apart.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
-- **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
+- **[Hold Monster](hold-monster.md)**: As [*hold person*](hold-person.md), but any creature.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Illusory Hoard](illusory-hoard.md)**: Target believes its hoard is untouched.
@@ -600,7 +600,7 @@
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
 - **[Lost Passage](lost-passage.md)**: Creatures in the area lose their sense of direction and misjudge distances.
-- **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Majestic Image](majestic-image.md)**: As [*enter image*](enter-image.md), but also gain bonuses on social skills while in the image.
 - **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
@@ -610,7 +610,7 @@
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantasmal Reminder](phantasmal-reminder.md)**: Recall of past wounds deals damage.
 - **[Phantom Steed, Communal](phantom-steed-communal.md)**: As phantom steed, but you may divide the duration among creatures touched.
-- **[Questing Stone](questing-stone.md)**: Uses an *ioun stone* as a visible scrying sensor, like *arcane eye*.
+- **[Questing Stone](questing-stone.md)**: Uses an *ioun stone* as a visible scrying sensor, like [*arcane eye*](arcane-eye.md).
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Rainbow Pattern](rainbow-pattern.md)**: Lights fascinate 24 HD of creatures.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
@@ -679,14 +679,14 @@
 - **[Music of the Spheres](music-of-the-spheres.md)**: Fast healing, resistance, and save bonuses for all in the area.
 - **[Mydriatic Spontaneity, Mass](mydriatic-spontaneity-mass.md)**: mydriatic spontaneity affecting multiple creatures
 - **[Nightmare](nightmare.md)**: Sends vision dealing 1d10 damage, fatigue.
-- **[Persistent Image](persistent-image.md)**: As *major image*, but no concentration required.
+- **[Persistent Image](persistent-image.md)**: As [*major image*](major-image.md), but no concentration required.
 - **[Phobia](phobia.md)**: Induce an irrational fear in a creature to the point of madness.
 - **[Pox of Rumors](pox-of-rumors.md)**: Curse a creature to attract nasty rumors.
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Renovation](renovation.md)**: Rearranges the rooms of a building.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Sabotage Construct](sabotage-construct.md)**: Confuses a construct.
-- **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
+- **[Scripted Hallucination](scripted-hallucination.md)**: As [*complex hallucination*](complex-hallucination.md), but without concentration.
 - **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but can dispel protections against your spells.
 - **[Seeming](seeming.md)**: Changes appearance of one person per two levels.
 - **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
@@ -715,26 +715,26 @@
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Borrowed Time](borrowed-time.md)**: Gain an extra swift action each turn; each use costs you Constitution damage.
-- **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects 1 subject/level.
+- **[Cat’s Grace, Mass](cats-grace-mass.md)**: As [*cat’s grace*](cats-grace.md), affects 1 subject/level.
 - **[Charm Monster, Mass](charm-monster-mass.md)**: As *charm monster,* but all within 30 ft.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Damnation of Memory](damnation-of-memory.md)**: You name one creature and excise all memory of that creature’s involvement in events the targets remember.
-- **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
+- **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per [*message*](message.md) with one [*suggestion*](suggestion.md) for each creature.
 - **[Dirge of the Victorious Knights](dirge-of-the-victorious-knights.md)**: Spectral mounted knights trample foes in a line.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
-- **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
+- **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As [*eagle’s splendor*](eagles-splendor.md), affects 1 subject/level.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Eyebite](eyebite.md)**: Target becomes panicked, sickened, and/or comatose.
-- **[False Vision, Greater](false-vision-greater.md)**: As *false vision*, but moves with the target.
+- **[False Vision, Greater](false-vision-greater.md)**: As [*false vision*](false-vision.md), but moves with the target.
 - **[Fey Gate](fey-gate.md)**: Create a portal that allows travel to the First World.
 - **[Find the Path](find-the-path.md)**: Shows most direct way to a location.
 - **[Fleeting Memory, Mass](fleeting-memory-mass.md)**: As fleeting memory, but affects multiple creatures.
-- **[Fox’s Cunning, Mass](foxs-cunning-mass.md)**: As *fox’s cunning*, affects 1 subject/level.
+- **[Fox’s Cunning, Mass](foxs-cunning-mass.md)**: As [*fox’s cunning*](foxs-cunning.md), affects 1 subject/level.
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
 - **[Heroes’ Feast](heroes-feast.md)**: Food for one creature/level cures and grants combat bonuses*.*
-- **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* *heroism* effect that you can reverse at any time.
+- **[Hollow Heroism, Greater](hollow-heroism-greater.md)**: Provide a *greater* [*heroism*](heroism.md) effect that you can reverse at any time.
 - **[Human Potential, Mass](human-potential-mass.md)**: As human potential, affecting multiple creatures.
 - **[Hymn of Peace](hymn-of-peace.md)**: Creatures must save to follow through with violent actions.
 - **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.
@@ -745,9 +745,9 @@
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Night Terrors](night-terrors.md)**: Disturb a creature’s rest with dark dreams.
 - **[Permanent Image](permanent-image.md)**: Permanent illusion, includes sight, sound, smell, and thermal effects.
-- **[Programmed Image](programmed-image.md)**: As *major image*, plus triggered by event.
+- **[Programmed Image](programmed-image.md)**: As [*major image*](major-image.md), plus triggered by event.
 - **[Project Image](project-image.md)**: Illusory double can talk and cast spells.
-- **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Scrying, Greater](scrying-greater.md)**: As [*scrying*](scrying.md), but faster and longer.
 - **[Shadow Enchantment, Greater](shadow-enchantment-greater.md)**: Quasi-real enchantment of 5th level or lower.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
@@ -763,7 +763,7 @@
 - **[Sympathetic Vibration](sympathetic-vibration.md)**: Deals 2d10 damage/round to freestanding structure.
 - **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
-- **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
+- **[Triggered Hallucination](triggered-hallucination.md)**: As [*scripted hallucination*](scripted-hallucination.md), but it only appears when triggered.
 - **[Unconscious Agenda](unconscious-agenda.md)**: Plant a subconscious directive in the target’s mind.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.
 - **[What Grows Within](what-grows-within.md)**: +3 profane bonus on Will saves, and your mind-affecting spells carry an alien taint.

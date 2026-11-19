@@ -11,4 +11,4 @@ This weapon special ability can be applied only to brass knuckles, a cestus, a s
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, Improved Trip, *guidance*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Improved Trip, [*guidance*](../../magic/spells/guidance.md); **Price** —

@@ -54,7 +54,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 1. **Elemental Arcana (Sp)**: [*produce flame*](../../magic/spells/produce-flame.md) 3/day, [*soften earth and stone*](../../magic/spells/soften-earth-and-stone.md) 2/day, or [*call lightning*](../../magic/spells/call-lightning.md) 1/day
 2. **Quake (Sp)**: You can cast [*earthquake*](../../magic/spells/earthquake.md) once per day.
-3. **Wrath of Nature (Su)**: Once per day, you can assume the form of a Gargantuan earth or fire elemental for up to 1 hour. If you choose the form of an earth elemental, you gain a +10 size bonus to your Strength, a –4 penalty to your Dexterity, a +6 size bonus to your Constitution, and a +8 natural armor bonus. If you choose the form of a fire elemental, you gain a +8 size bonus to your Dexterity, a +6 size bonus to your Constitution, and a +6 natural armor bonus. This ability is otherwise identical to *elemental body IV*.
+3. **Wrath of Nature (Su)**: Once per day, you can assume the form of a Gargantuan earth or fire elemental for up to 1 hour. If you choose the form of an earth elemental, you gain a +10 size bonus to your Strength, a –4 penalty to your Dexterity, a +6 size bonus to your Constitution, and a +8 natural armor bonus. If you choose the form of a fire elemental, you gain a +8 size bonus to your Dexterity, a +6 size bonus to your Constitution, and a +6 natural armor bonus. This ability is otherwise identical to [*elemental body IV*](../../magic/spells/elemental-body-iv.md).
 
 ## Empyreal lord of chivalry, duty and vengeance (LG)
 
@@ -123,7 +123,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Boons
 
 1. **Dauntless (Sp)**: [*remove fear*](../../magic/spells/remove-fear.md) 3/day, [*darkvision*](../../magic/spells/darkvision.md) 2/day, or [*heroism*](../../magic/spells/heroism.md) 1/day
-2. **Courageous Roar (Sp)**: You can cast still *greater heroism* three times per day. This ability is the equivalent of a 7th-level spell.
+2. **Courageous Roar (Sp)**: You can cast still [*greater heroism*](../../magic/spells/heroism-greater.md) three times per day. This ability is the equivalent of a 7th-level spell.
 3. **Holy Terror (Sp)**: Once per day you can inscribe a symbol of your empyreal lord in the air that acts like a [*symbol of fear*](../../magic/spells/symbol-of-fear.md). The symbol appears as the glowing outline of your empyreal lord’s holy symbol and hovers stationary wherever you inscribe it. This spell requires no material components and has a casting time of only 1 minute. You can attune up to 10 creatures to the symbol without extending its casting time.
 
 ## Empyreal lord of creativity, invention and persistence (NG)
@@ -192,7 +192,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 1. **Sleuthhound (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*locate object*](../../magic/spells/locate-object.md) 2/day, or [*blood biography*](../../magic/spells/blood-biography.md) 1/day
 2. **Penetrating Gaze (Sp)**: You can cast extended [*true seeing*](../../magic/spells/true-seeing.md) three times per day. This ability is the equivalent of a 7th-level spell.
-3. **Witness to All (Su)**: You become cognizant of your surroundings at all times. You gain improved uncanny dodge, using your total HD in place of rogue levels for determining creatures that can sneak attack you. You gain a +6 sacred bonus on Perception checks. Once per day, you can summon 1d4 magic eyes that can travel out to a range of 2 miles, as if you had cast enlarged *greater prying eyes*.
+3. **Witness to All (Su)**: You become cognizant of your surroundings at all times. You gain improved uncanny dodge, using your total HD in place of rogue levels for determining creatures that can sneak attack you. You gain a +6 sacred bonus on Perception checks. Once per day, you can summon 1d4 magic eyes that can travel out to a range of 2 miles, as if you had cast enlarged [*greater prying eyes*](../../magic/spells/prying-eyes-greater.md).
 
 ## Empyreal lord of devotion, sacrifice and scars (LG)
 
@@ -201,7 +201,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Boons
 
 1. **Devotion (Sp)**: [*command*](../../magic/spells/command.md) 3/day, [*paladin’s sacrifice*](../../magic/spells/paladins-sacrifice.md) 2/day, or [*pain strike*](../../magic/spells/pain-strike.md) 1/day
-2. **Imperative (Sp)**: Once per day, you can command a creature to carry out some particular task or service. This ability acts as *geas/quest*, except it has a casting time of 1 minute and the penalty to ability scores for disobeying the *geas/quest* is –4 for every 24 hours the target so disobeys, up to a total of –16 (though none of the creature’s ability scores can be reduced to less than 1 by this effect).
+2. **Imperative (Sp)**: Once per day, you can command a creature to carry out some particular task or service. This ability acts as [*geas/quest*](../../magic/spells/geas-quest.md), except it has a casting time of 1 minute and the penalty to ability scores for disobeying the *geas/quest* is –4 for every 24 hours the target so disobeys, up to a total of –16 (though none of the creature’s ability scores can be reduced to less than 1 by this effect).
 3. **Martyr's Blood (Su)**: You are immune to bleed effects. Whenever you would be affected by a bleed effect, all enemies within 30 feet gain the bleeding condition instead as though they were the effect’s original targets (no save; creatures immune to bleeding are immune to this effect). The [Heal](../../rules/skills/heal.md) DC to stop this supernatural bleeding is 20 rather than 15.
 
 ## Empyreal lord of distance, silence and space (CG)
@@ -211,7 +211,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 ### Boons
 
 1. **Nullity (Sp)**: [*obscuring mist*](../../magic/spells/obscuring-mist.md) 3/day, [*silence*](../../magic/spells/silence.md) 2/day, or [*deeper darkness*](../../magic/spells/deeper-darkness.md) 1/day
-2. **Silent Darkness (Sp)**: You can cast quickened *blindness/deafness* once per day, and only a [*break enchantment*](../../magic/spells/break-enchantment.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) spell can restore the subject’s sight or hearing.
+2. **Silent Darkness (Sp)**: You can cast quickened [*blindness/deafness*](../../magic/spells/blindness-deafness.md) once per day, and only a [*break enchantment*](../../magic/spells/break-enchantment.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) spell can restore the subject’s sight or hearing.
 3. **Purblind (Su)**: Your form grows shadowed and indistinct. You gain a +6 sacred bonus on [Stealth](../../rules/skills/stealth.md) checks. In any condition of illumination other than full daylight, physical attacks against you have a 20% miss chance. If an attacker can see ethereal or invisible creatures, the miss chance is negated. At will, you can manifest a pair of shadowy butterfly wings that allow you to fly with a speed of 60 feet (normal maneuverability).
 
 ## Empyreal lord of dreams, hallucinations and mists (CG)
@@ -240,7 +240,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Confident Step (Sp)**: [*pass without trace*](../../magic/spells/pass-without-trace.md) 3/day, *aid* 2/day, or [*protection from energy*](../../magic/spells/protection-from-energy.md) 1/day
+1. **Confident Step (Sp)**: [*pass without trace*](../../magic/spells/pass-without-trace.md) 3/day, [*aid*](../../magic/spells/aid.md) 2/day, or [*protection from energy*](../../magic/spells/protection-from-energy.md) 1/day
 2. **Serendipitous Reaction (Su)**: Three times per day, you can knock aside a ranged attack that would have otherwise hit you, as if you had the [Deflect Arrows](../../rules/feats/deflect-arrows.md) feat. You need not be aware of the attack to use this ability. If you already have [Deflect Arrows](../../rules/feats/deflect-arrows.md), you may use this feat an unlimited number of times per day, and can use it even if you are unaware of an attack.
 3. **Quickstep (Su)**: Once per day, when you would be reduced to 0 or fewer hit points for any reason, you can choose to ignore up to 10 points of damage from the attack or effect that so damaged you, possibly putting you back above 0 hit points.
 
@@ -250,7 +250,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Martial Excellence (Sp)**: [*divine favor*](../../magic/spells/divine-favor.md) 3/day, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) 2/day, or *greater magic weapon* 1/day
+1. **Martial Excellence (Sp)**: [*divine favor*](../../magic/spells/divine-favor.md) 3/day, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) 2/day, or [*greater magic weapon*](../../magic/spells/magic-weapon-greater.md) 1/day
 2. **Strong Arm (Su)**: As a swift action (1 AP), you can increase the damage die of your weapon by one step for a number of rounds per day equal to your HD. These rounds need not be consecutive.
 3. **Warrior’s Rings (Su)**: Once per day, you can summon a floating array of giant iron rings that provide cover or attack foes, as if you had cast [*crushing hand*](../../magic/spells/crushing-hand.md).
 
@@ -260,9 +260,9 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Harmonic (Sp)**: [*bless*](../../magic/spells/bless.md) 3/day, *augury* 2/day, or [*mad monkeys*](../../magic/spells/mad-monkeys.md) 1/day
+1. **Harmonic (Sp)**: [*bless*](../../magic/spells/bless.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*mad monkeys*](../../magic/spells/mad-monkeys.md) 1/day
 2. **Steady Hand (Su)**: Three times per day as a swift action (1 AP), you can choose to deal nonlethal damage with a weapon that normally deals lethal damage for 1 hour. When you use this ability, you do not take the normal –4 penalty on attack rolls for dealing nonlethal damage with a lethal weapon, and the damage die of your weapon increases by one step as long as you deal nonlethal damage with it.
-3. **Quietude (Su)**: You maintain an aura of utter peace. A continual *sanctuary* effect surrounds you, requiring enemies to succeed at a Will save (DC 11 + 1/2 your HD) to directly attack you. Extraplanar creatures that manage to attack you directly must succeed at an additional Will save (DC 14 + 1/2 your HD) or return to their plane of origin as though affected by a [*dismissal*](../../magic/spells/dismissal.md) spell. If you attack another creature, the *sanctuary* effect temporarily subsides for 1d4+1 rounds.
+3. **Quietude (Su)**: You maintain an aura of utter peace. A continual [*sanctuary*](../../magic/spells/sanctuary.md) effect surrounds you, requiring enemies to succeed at a Will save (DC 11 + 1/2 your HD) to directly attack you. Extraplanar creatures that manage to attack you directly must succeed at an additional Will save (DC 14 + 1/2 your HD) or return to their plane of origin as though affected by a [*dismissal*](../../magic/spells/dismissal.md) spell. If you attack another creature, the *sanctuary* effect temporarily subsides for 1d4+1 rounds.
 
 ## Empyreal lord of freedom, physical beauty and sexuality (NG)
 
@@ -330,7 +330,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Prankster (Sp)**: *lesser confusion* 3/day, [*invisibility*](../../magic/spells/invisibility.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
+1. **Prankster (Sp)**: [*lesser confusion*](../../magic/spells/confusion-lesser.md) 3/day, [*invisibility*](../../magic/spells/invisibility.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
 2. **Clever Ruse (Sp)**: You can cast enlarged [*mislead*](../../magic/spells/mislead.md) three times per day. This ability is the equivalent of a 7th-level spell.
 3. **Element of Surprise (Su)**: Whenever you roll initiative, any allies within 30 feet of you who are also rolling initiative can choose to use the result of your roll instead of theirs. Your allies still add their own modifiers to your roll to calculate their initiative order. Alternatively, you may choose to use another ally’s roll instead of your own.
 
@@ -370,8 +370,8 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Tower's Boons (Sp)**: *sanctuary* 3/day, [*eagle’s splendor*](../../magic/spells/eagles-splendor.md) 2/day, or [*archon’s aura*](../../magic/spells/archons-aura.md) 1/day
-2. **Rite of Passage (Sp)**: You gain the power to usher others into a new state of being. Once per day, you can cast *greater polymorph* on a willing creature. The duration of this effect is permanent until you or the target dismiss the effect or you use this ability again.
+1. **Tower's Boons (Sp)**: [*sanctuary*](../../magic/spells/sanctuary.md) 3/day, [*eagle’s splendor*](../../magic/spells/eagles-splendor.md) 2/day, or [*archon’s aura*](../../magic/spells/archons-aura.md) 1/day
+2. **Rite of Passage (Sp)**: You gain the power to usher others into a new state of being. Once per day, you can cast [*greater polymorph*](../../magic/spells/polymorph-greater.md) on a willing creature. The duration of this effect is permanent until you or the target dismiss the effect or you use this ability again.
 3. **Undo Maturation (Su)**: Once per day with a successful touch attack, you can rewind the sands of time for a single creature, causing the target to revert to the previous age category, taking all the appropriate penalties to mental ability scores without any of the benefits to physical ability scores. If the target is an adult, it gains the simple young creature template. If the target already has the simple young creature template, it rejuvenates even further, reducing all its ability scores by 2 (to a minimum score of 1) and decreasing its size by an additional step.
 
 ## Empyreal lord of rainbows, relaxation and shade (CG)
@@ -380,7 +380,7 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 
 ### Boons
 
-1. **Motley Magic (Sp)**: *color spray* 3/day, [*hypnotic pattern*](../../magic/spells/hypnotic-pattern.md) 2/day, or [*deep slumber*](../../magic/spells/deep-slumber.md) 1/day
+1. **Motley Magic (Sp)**: [*color spray*](../../magic/spells/color-spray.md) 3/day, [*hypnotic pattern*](../../magic/spells/hypnotic-pattern.md) 2/day, or [*deep slumber*](../../magic/spells/deep-slumber.md) 1/day
 2. **Prismatic Body (Su)**: You gain a +4 sacred bonus on saves against effects that would blind you. In addition, whenever you make a successful saving throw against a spell or effect with the light descriptor (such as [*sunbeam*](../../magic/spells/sunbeam.md)), you can choose to ignore the effect entirely and redirect its path toward two different creatures or spaces within 30 feet of you. The designated creatures or spaces are affected as though they were caught in the effect’s area or were targeted by the effect.
 3. **Rainbow Orb (Sp)**: You can cast [*prismatic sphere*](../../magic/spells/prismatic-sphere.md) once per day.
 

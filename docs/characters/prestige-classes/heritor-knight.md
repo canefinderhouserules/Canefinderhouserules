@@ -79,7 +79,7 @@ At 6th level, a heritor knight gains [Vital Strike](../../rules/feats/vital-stri
 
 #### Reforged Heart (Su/Sp)
 
-At 6th level, once per day, a heritor knight can cast *greater make whole* as a spell-like ability, with a caster level equal to her character level.
+At 6th level, once per day, a heritor knight can cast [*greater make whole*](../../magic/spells/make-whole-greater.md) as a spell-like ability, with a caster level equal to her character level.
 
 #### Image of Divinity (Su)
 

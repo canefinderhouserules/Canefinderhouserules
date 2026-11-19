@@ -118,7 +118,7 @@ You can see beyond the mundane, and are capable of visualizing the improbable, a
 
 **Class Skill**: Knowledge (engineering).
 
-**Bonus Spells**: *lesser confusion* (3rd), [*make whole*](../../magic/spells/make-whole.md) (5th), [*shrink item*](../../magic/spells/shrink-item.md) (7th), [*confusion*](../../magic/spells/confusion.md) (9th), [*fabricate*](../../magic/spells/fabricate.md) (11th), [*animate objects*](../../magic/spells/animate-objects.md) (13th), *insanity* (15th), [*polymorph any object*](../../magic/spells/polymorph-any-object.md) (17th), *wish* (19th).
+**Bonus Spells**: [*lesser confusion*](../../magic/spells/confusion-lesser.md) (3rd), [*make whole*](../../magic/spells/make-whole.md) (5th), [*shrink item*](../../magic/spells/shrink-item.md) (7th), [*confusion*](../../magic/spells/confusion.md) (9th), [*fabricate*](../../magic/spells/fabricate.md) (11th), [*animate objects*](../../magic/spells/animate-objects.md) (13th), [*insanity*](../../magic/spells/insanity.md) (15th), [*polymorph any object*](../../magic/spells/polymorph-any-object.md) (17th), [*wish*](../../magic/spells/wish.md) (19th).
 
 **Bonus Feats**: Craft Construct, [Craft Magic Arms and Armor](../../rules/feats/craft-magic-arms-and-armor.md), [Deft Hands](../../rules/feats/deft-hands.md), Exotic Weapon Proficiency, Far Shot, Iron Will, [Point-Blank Shot](../../rules/feats/point-blank-shot.md), Skill Focus (Knowledge [engineering]).
 
@@ -196,7 +196,7 @@ Naga blood flows within your veins. Perhaps a curious naga experimented upon one
 
 **Class Skill**: Knowledge (dungeoneering).
 
-**Bonus Spells**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*lightning bolt*](../../magic/spells/lightning-bolt.md) (7th), [*poison*](../../magic/spells/poison.md) (9th), [*dominate person*](../../magic/spells/dominate-person.md) (11th), [*veil*](../../magic/spells/veil.md) (13th), [*limited wish*](../../magic/spells/limited-wish.md) (15th), *mass charm monster* (17th), [*shapechange*](../../magic/spells/shapechange.md) (19th).
+**Bonus Spells**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*lightning bolt*](../../magic/spells/lightning-bolt.md) (7th), [*poison*](../../magic/spells/poison.md) (9th), [*dominate person*](../../magic/spells/dominate-person.md) (11th), [*veil*](../../magic/spells/veil.md) (13th), [*limited wish*](../../magic/spells/limited-wish.md) (15th), [*mass charm monster*](../../magic/spells/charm-monster-mass.md) (17th), [*shapechange*](../../magic/spells/shapechange.md) (19th).
 
 **Bonus Feats**: Alertness, Blind-Fight, Combat Casting, Dodge, Improved Initiative, Lightning Reflexes, Skill Focus (Knowledge [dungeoneering]), Stealthy.
 
@@ -204,7 +204,7 @@ Naga blood flows within your veins. Perhaps a curious naga experimented upon one
 
 **Bloodline Powers**: You can draw upon the ancient magic of the nagas to ensnare the minds of lesser creatures and destroy those who would defy your will.
 
-**Vanishing (Sp)**: At 1st level, you can cloak yourself in illusory magic as a standard action (1 AP), making you invisible (as per *invisibility*) for a number of rounds per day equal to your sorcerer level + your Charisma bonus (if any). These rounds need not be used consecutively.
+**Vanishing (Sp)**: At 1st level, you can cloak yourself in illusory magic as a standard action (1 AP), making you invisible (as per [*invisibility*](../../magic/spells/invisibility.md)) for a number of rounds per day equal to your sorcerer level + your Charisma bonus (if any). These rounds need not be used consecutively.
 
 **Naga Resistances (Ex)**: At 3rd level, you gain a +2 bonus on saving throws against mind-affecting effects and poison effects. At 9th level, this bonus increases to +4.
 
@@ -220,7 +220,7 @@ Your conception was marked by an alien influence. Either you were born from one 
 
 **Class Skill**: Knowledge (engineering).
 
-**Bonus Spells**: *disguise self* (3rd), [*defensive shock*](../../magic/spells/defensive-shock.md) (5th), [*gaseous form*](../../magic/spells/gaseous-form.md) (7th), [*miasmatic form*](../../magic/spells/miasmatic-form.md) (9th), [*echolocation*](../../magic/spells/echolocation.md) (11th), [*fluid form*](../../magic/spells/fluid-form.md) (13th), [*magnetic field*](../../magic/spells/magnetic-field.md) (15th), [*iron body*](../../magic/spells/iron-body.md) (17th), *shapechange* (19th).
+**Bonus Spells**: [*disguise self*](../../magic/spells/disguise-self.md) (3rd), [*defensive shock*](../../magic/spells/defensive-shock.md) (5th), [*gaseous form*](../../magic/spells/gaseous-form.md) (7th), [*miasmatic form*](../../magic/spells/miasmatic-form.md) (9th), [*echolocation*](../../magic/spells/echolocation.md) (11th), [*fluid form*](../../magic/spells/fluid-form.md) (13th), [*magnetic field*](../../magic/spells/magnetic-field.md) (15th), [*iron body*](../../magic/spells/iron-body.md) (17th), [*shapechange*](../../magic/spells/shapechange.md) (19th).
 
 **Bonus Feats**: Blind-Fight, [Combat Expertise](../../rules/feats/combat-expertise.md), Dodge, [Eldritch Heritage](../../rules/feats/eldritch-heritage.md), [Expanded Arcana](../../rules/feats/expanded-arcana.md), [Improved Disarm](../../rules/feats/improved-disarm.md), Lightning Reflexes, Skill Focus (Knowledge [engineering]).
 
@@ -236,7 +236,7 @@ Your conception was marked by an alien influence. Either you were born from one 
 
 **Distributed Body (Ex)**: At 15th level, anytime you are struck by a critical hit or a sneak attack, there is a 25% chance that your nanites scatter and reincorporate around the attack, negating the extra damage and causing the attack to deal damage as normal instead.
 
-**Living Swarm (Su)**: At 20th level, you and the machines within you become one. Your nanites consume and replicate your body, allowing swift and radical physical alterations with little more than a thought. You become immune to bleed effects, diseases, and poisons, and gain DR 5/—. At will, you can break down your body and move in a shimmering stream of flying nanites, as if affected by *gaseous form*.
+**Living Swarm (Su)**: At 20th level, you and the machines within you become one. Your nanites consume and replicate your body, allowing swift and radical physical alterations with little more than a thought. You become immune to bleed effects, diseases, and poisons, and gain DR 5/—. At will, you can break down your body and move in a shimmering stream of flying nanites, as if affected by [*gaseous form*](../../magic/spells/gaseous-form.md).
 
 ### Oni
 
@@ -244,7 +244,7 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 
 **Class Skill**: [Intimidate](../../rules/skills/intimidate.md).
 
-**Bonus Spells**: *ray of enfeeblement* (3rd), *invisibility* (5th), *fly* (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*cone of cold*](../../magic/spells/cone-of-cold.md) (11th), *greater dispel magic* (13th), [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md) (15th), [*trap the soul*](../../magic/spells/trap-the-soul.md) (17th), [*dominate monster*](../../magic/spells/dominate-monster.md) (19th).
+**Bonus Spells**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*fly*](../../magic/spells/fly.md) (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*cone of cold*](../../magic/spells/cone-of-cold.md) (11th), [*greater dispel magic*](../../magic/spells/dispel-magic-greater.md) (13th), [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md) (15th), [*trap the soul*](../../magic/spells/trap-the-soul.md) (17th), [*dominate monster*](../../magic/spells/dominate-monster.md) (19th).
 
 **Bonus Feats**: Combat Expertise, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Enforcer, [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency ([katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons)).
 
@@ -256,11 +256,11 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 
 **Altered Form (Sp)**: At 3rd level, you gain the ability to change shape (as the spell [*alter self*](../../magic/spells/alter-self.md)) for a number of minutes per day equal to your sorcerer level. These rounds need not be consecutive. At 17th level, the duration of this effect is no longer limited, and you may remain in your chosen form as long as you want.
 
-**Windborne (Sp)**: At 9th level, you can turn gaseous (as the spell *gaseous form*) for a number of rounds per day equal to your sorcerer level. These rounds need not be consecutive. At 11th level and every two levels thereafter, your speed while gaseous increases by +10 feet, to a maximum speed of 60 feet at 19th level.
+**Windborne (Sp)**: At 9th level, you can turn gaseous (as the spell [*gaseous form*](../../magic/spells/gaseous-form.md)) for a number of rounds per day equal to your sorcerer level. These rounds need not be consecutive. At 11th level and every two levels thereafter, your speed while gaseous increases by +10 feet, to a maximum speed of 60 feet at 19th level.
 
 **Oni Healing (Su)**: At 15th level, if your hit points drop below 0, you automatically stabilize and begin regenerating 2 hit points per round for a number of rounds per day equal to your sorcerer level. While regenerating in this way, you are not affected by spells or effects that would cause you to continue dying, such as [*bleed*](../../magic/spells/bleed.md), but if you take any acid or fire damage, you stop regenerating for the rest of the day (but remain stabilized) and you are affected by such effects as normal. You still die if your hit points reach a negative number equal to your Constitution score, regardless of whether you are regenerating. This ability only works once per day—if you drop below 0 hit points a second time, you do not benefit from this ability.
 
-**Hedonistic Master (Su)**: At 20th level, you fully embrace your oni heritage to unlock its maximum potential. You gain the ability to change your shape between your natural form and that of any one Large humanoid creature of the giant subtype at will (as the spell *giant form I*). You must choose which creature you wish to be able to change into when you reach 20th level; once you make this decision, you cannot change it. You can switch between your forms at will, and can assume your giant form for as long as you want. In addition, you gain SR equal to 6 + your sorcerer level, and whenever you cast a spell of the charm or compulsion subschool, the spell’s DC increases by +2.
+**Hedonistic Master (Su)**: At 20th level, you fully embrace your oni heritage to unlock its maximum potential. You gain the ability to change your shape between your natural form and that of any one Large humanoid creature of the giant subtype at will (as the spell [*giant form I*](../../magic/spells/giant-form-i.md)). You must choose which creature you wish to be able to change into when you reach 20th level; once you make this decision, you cannot change it. You can switch between your forms at will, and can assume your giant form for as long as you want. In addition, you gain SR equal to 6 + your sorcerer level, and whenever you cast a spell of the charm or compulsion subschool, the spell’s DC increases by +2.
 
 ### Orc
 
@@ -268,7 +268,7 @@ The rage of your orc ancestors burns within you.
 
 **Class Skill**: [Survival](../../rules/skills/survival.md).
 
-**Bonus Spells**: [*burning hands*](../../magic/spells/burning-hands.md) (3rd), [*bull’s strength*](../../magic/spells/bulls-strength.md) (5th), [*rage*](../../magic/spells/rage.md) (7th), [*wall of fire*](../../magic/spells/wall-of-fire.md) (9th), [*cloudkill*](../../magic/spells/cloudkill.md) (11th), [*transformation*](../../magic/spells/transformation.md) (13th), [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md) (15th), *iron body* (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
+**Bonus Spells**: [*burning hands*](../../magic/spells/burning-hands.md) (3rd), [*bull’s strength*](../../magic/spells/bulls-strength.md) (5th), [*rage*](../../magic/spells/rage.md) (7th), [*wall of fire*](../../magic/spells/wall-of-fire.md) (9th), [*cloudkill*](../../magic/spells/cloudkill.md) (11th), [*transformation*](../../magic/spells/transformation.md) (13th), [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md) (15th), [*iron body*](../../magic/spells/iron-body.md) (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
 
 **Bonus Feats**: Diehard, Endurance, Great Fortitude, [Improved Overrun](../../rules/feats/improved-overrun.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), Power Attack, Toughness, [Widen Spell](../../rules/feats/widen-spell.md).
 
@@ -282,7 +282,7 @@ The rage of your orc ancestors burns within you.
 
 **Power of Giants (Sp)**: At 15th level, as a standard action (1 AP), you can grow to Large size, gaining a +6 size bonus to Strength, a –2 penalty to Dexterity, a +4 size bonus to Constitution, and +4 natural armor. Returning to normal size is also a standard action (1 AP). You can remain in this form for 1 minute per character level per day; this duration need not be consecutive, but must be spent in 1-minute increments.
 
-**Warlord Reborn (Su)**: At 20th level, you gain immunity to fire and DR 5/—. Once per day, you can cast *transformation* as a spell-like ability, using your sorcerer level as your caster level.
+**Warlord Reborn (Su)**: At 20th level, you gain immunity to fire and DR 5/—. Once per day, you can cast [*transformation*](../../magic/spells/transformation.md) as a spell-like ability, using your sorcerer level as your caster level.
 
 ??? note "Original rule"
 
@@ -320,7 +320,7 @@ You are descended from the elemental outsiders known as salamanders. You wield f
 
 **Class Skill**: [Acrobatics](../../rules/skills/acrobatics.md).
 
-**Bonus Spells**: *Magic weapon* (3rd), [*molten orb*](../../magic/spells/molten-orb.md) (5th), [*magic vestment*](../../magic/spells/magic-vestment.md) (7th), [*fire shield*](../../magic/spells/fire-shield.md) (warm shield) (9th), [*fire snake*](../../magic/spells/fire-snake.md) (11th), [*tar pool*](../../magic/spells/tar-pool.md) (13th), [*firebrand*](../../magic/spells/firebrand.md) (15th), [*wall of lava*](../../magic/spells/wall-of-lava.md) (17th), *meteor swarm* (19th).
+**Bonus Spells**: [*Magic weapon*](../../magic/spells/magic-weapon.md) (3rd), [*molten orb*](../../magic/spells/molten-orb.md) (5th), [*magic vestment*](../../magic/spells/magic-vestment.md) (7th), [*fire shield*](../../magic/spells/fire-shield.md) (warm shield) (9th), [*fire snake*](../../magic/spells/fire-snake.md) (11th), [*tar pool*](../../magic/spells/tar-pool.md) (13th), [*firebrand*](../../magic/spells/firebrand.md) (15th), [*wall of lava*](../../magic/spells/wall-of-lava.md) (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
 
 **Bonus Feats**: Cleave, Craft Wondrous Item, Iron Will, Power Attack, Prodigy, Skill Focus (Acrobatics), Skill Focus (Perception), Toughness.
 
@@ -406,9 +406,9 @@ You trace your ancestry to a bygone civilization and can call upon its forgotten
 
 **Restored Glory (Su)**: At 3rd level, objects in your possession with the broken condition function as if they did not have the broken condition, though if they reach 0 hit points they are destroyed as normal. At 9th level, destroyed objects (objects with 0 hit points) in your possession function and appear as if they had only the broken condition, though if they reach a number of negative hit points equal to your level, they become fully destroyed and don't function at all, even in your possession. At 15th level, destroyed objects in your possession function and appear as if fully repaired, though they can become fully destroyed as described above. Destroyed objects must have physical pieces left to be affected by this ability. Objects that leave your possession are affected normally by these conditions. This ability does not affect artifacts.
 
-**Call Ancestor (Sp)**: At 9th level, once per day, you can spend a standard action (1 AP) to grant a long-dead relative a brief facsimile of life. This functions as the *lesser simulacrum* spell, except the simulacrum lasts only 1 round per sorcerer level you have, has the same statistics as you, and always has the likeness of an ancestor. In addition, the simulacrum has lost knowledge from the past. When summoning the simulacrum, select one Knowledge skill. The simulacrum is considered trained in that skill and has a bonus on Knowledge checks of this type equal to twice your level plus your Intelligence modifier. The simulacrum is under your control, but it cannot attack or take hostile actions. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day. You cannot have more than one ancestor simulacrum active at any one time.
+**Call Ancestor (Sp)**: At 9th level, once per day, you can spend a standard action (1 AP) to grant a long-dead relative a brief facsimile of life. This functions as the [*lesser simulacrum*](../../magic/spells/simulacrum-lesser.md) spell, except the simulacrum lasts only 1 round per sorcerer level you have, has the same statistics as you, and always has the likeness of an ancestor. In addition, the simulacrum has lost knowledge from the past. When summoning the simulacrum, select one Knowledge skill. The simulacrum is considered trained in that skill and has a bonus on Knowledge checks of this type equal to twice your level plus your Intelligence modifier. The simulacrum is under your control, but it cannot attack or take hostile actions. At 17th level, you can use this ability twice per day. At 20th level, you can use this ability three times per day. You cannot have more than one ancestor simulacrum active at any one time.
 
-**Eternal Past (Su)**: At 15th level, you gain an immersive mindscape. This functions as a permanent *greater create mindscape* spell, except it must appear as a lost civilization, and you do not target any other creatures when the mindscape is created. You can open a conduit to your mindscape as a standard action (1 AP) at will (per the [*mindscape door*](../../magic/spells/mindscape-door.md) spell), allowing you or other creatures to enter or leave. The mindscape is only as detailed as your knowledge of the lost civilization but still holds valuable secrets. The mindscape functions as a library for all Knowledge skills; while within your mindscape, you can spend 1d4 hours researching to use a Knowledge (history) check in place of any other Knowledge check.
+**Eternal Past (Su)**: At 15th level, you gain an immersive mindscape. This functions as a permanent [*greater create mindscape*](../../magic/spells/create-mindscape-greater.md) spell, except it must appear as a lost civilization, and you do not target any other creatures when the mindscape is created. You can open a conduit to your mindscape as a standard action (1 AP) at will (per the [*mindscape door*](../../magic/spells/mindscape-door.md) spell), allowing you or other creatures to enter or leave. The mindscape is only as detailed as your knowledge of the lost civilization but still holds valuable secrets. The mindscape functions as a library for all Knowledge skills; while within your mindscape, you can spend 1d4 hours researching to use a Knowledge (history) check in place of any other Knowledge check.
 
 **Manifest Memory (Su)**: At 20th level, you can overlay portions of your mindscape onto the world around you. This functions as the [*mirage arcana*](../../magic/spells/mirage-arcana.md) spell, except all structures and terrain created must be places appearing within your mindscape. You can use this ability at will, but you can maintain only a single manifest memory at any one time. You can allow any creature you can see who has previously entered your mindscape to automatically disbelieve the illusion as a free action.
 
@@ -668,7 +668,7 @@ While many kobold sorcerers tout their purely draconic bloodline, over generatio
 
 **Class Skill**: [Disable Device](../../rules/skills/disable-device.md).
 
-**Bonus Spells**: [*alarm*](../../magic/spells/alarm.md) (3rd), [*create pit*](../../magic/spells/create-pit.md) (5th), [*explosive runes*](../../magic/spells/explosive-runes.md) (7th), [*dragon’s breath*](../../magic/spells/dragons-breath.md) (9th), [*transmute rock to mud*](../../magic/spells/transmute-rock-to-mud.md) (11th), [*guards and wards*](../../magic/spells/guards-and-wards.md) (13th), *delayed blast fireball* (15th), *form of the dragon III* (17th), [*imprisonment*](../../magic/spells/imprisonment.md) (19th).
+**Bonus Spells**: [*alarm*](../../magic/spells/alarm.md) (3rd), [*create pit*](../../magic/spells/create-pit.md) (5th), [*explosive runes*](../../magic/spells/explosive-runes.md) (7th), [*dragon’s breath*](../../magic/spells/dragons-breath.md) (9th), [*transmute rock to mud*](../../magic/spells/transmute-rock-to-mud.md) (11th), [*guards and wards*](../../magic/spells/guards-and-wards.md) (13th), [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md) (15th), [*form of the dragon III*](../../magic/spells/form-of-the-dragon-iii.md) (17th), [*imprisonment*](../../magic/spells/imprisonment.md) (19th).
 
 **Bonus Feats**: Alertness, Combat Casting, Defensive Combat Training, Dodge, Improved Initiative, Lightning Reflexes, Silent Spell.
 
@@ -696,7 +696,7 @@ Whether your ancestors served a scorpion deity or simply worked closely with mor
 
 **Class Skill**: [Climb](../../rules/skills/climb.md).
 
-**Bonus Spells**: [*thorn javelin*](../../magic/spells/thorn-javelin.md) (3rd), [*spider climb*](../../magic/spells/spider-climb.md) (5th), *poison* (7th), [*giant vermin*](../../magic/spells/giant-vermin.md) (scorpions only) (9th), *vermin shape II* (11th), [*sirocco*](../../magic/spells/sirocco.md) (13th), [*creeping doom*](../../magic/spells/creeping-doom.md) (15th), [*horrid wilting*](../../magic/spells/horrid-wilting.md) (17th), [*transmute blood to acid*](../../magic/spells/transmute-blood-to-acid.md) (19th).
+**Bonus Spells**: [*thorn javelin*](../../magic/spells/thorn-javelin.md) (3rd), [*spider climb*](../../magic/spells/spider-climb.md) (5th), [*poison*](../../magic/spells/poison.md) (7th), [*giant vermin*](../../magic/spells/giant-vermin.md) (scorpions only) (9th), [*vermin shape II*](../../magic/spells/vermin-shape-ii.md) (11th), [*sirocco*](../../magic/spells/sirocco.md) (13th), [*creeping doom*](../../magic/spells/creeping-doom.md) (15th), [*horrid wilting*](../../magic/spells/horrid-wilting.md) (17th), [*transmute blood to acid*](../../magic/spells/transmute-blood-to-acid.md) (19th).
 
 **Bonus Feats**: Arcane Strike, Blind-Fight, Combat Reflexes, [Disruptive Spell](../../rules/feats/disruptive-spell.md), Improved Initiative, Nimble Moves, Skill Focus (Climb), Stealthy.
 
@@ -1105,7 +1105,7 @@ A scion of forgotten kings, with a lineage rich with the dust of ancient empires
 
 **Class Skill**: Perform (oratory).
 
-**Bonus Spells**: [*moment of greatness*](../../magic/spells/moment-of-greatness.md) (3rd), [*eagle’s splendor*](../../magic/spells/eagles-splendor.md) (5th), [*heroism*](../../magic/spells/heroism.md) (7th), [*threefold aspect*](../../magic/spells/threefold-aspect.md) (9th), *greater command* (11th), *pure strain* (13th), *greater age resistance* (15th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (17th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (19th).
+**Bonus Spells**: [*moment of greatness*](../../magic/spells/moment-of-greatness.md) (3rd), [*eagle’s splendor*](../../magic/spells/eagles-splendor.md) (5th), [*heroism*](../../magic/spells/heroism.md) (7th), [*threefold aspect*](../../magic/spells/threefold-aspect.md) (9th), [*greater command*](../../magic/spells/command-greater.md) (11th), *pure strain* (13th), [*greater age resistance*](../../magic/spells/age-resistance-greater.md) (15th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (17th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (19th).
 
 **Bonus Feats**: Diehard, Endurance, [Heroic Defiance](../../rules/feats/heroic-defiance.md), [Heroic Recovery](../../rules/feats/heroic-recovery.md), Improved Initiative, [Lingering Spell](../../rules/feats/lingering-spell.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), Persuasive.
 
@@ -1131,7 +1131,7 @@ One of your ancestors paid the ultimate price for her beliefs. This distant rela
 
 **Class Skill**: Perform (oratory).
 
-**Bonus Spells**: [*endure elements*](../../magic/spells/endure-elements.md) (3rd), [*surmount affliction*](../../magic/spells/surmount-affliction.md) (5th), *heroism* (7th), [*blessing of fervor*](../../magic/spells/blessing-of-fervor.md) (9th), *greater heroism* (13th), [*joyful rapture*](../../magic/spells/joyful-rapture.md) (15th), [*mind blank*](../../magic/spells/mind-blank.md) (17th), *overwhelming presence* (19th).
+**Bonus Spells**: [*endure elements*](../../magic/spells/endure-elements.md) (3rd), [*surmount affliction*](../../magic/spells/surmount-affliction.md) (5th), [*heroism*](../../magic/spells/heroism.md) (7th), [*blessing of fervor*](../../magic/spells/blessing-of-fervor.md) (9th), [*greater heroism*](../../magic/spells/heroism-greater.md) (13th), [*joyful rapture*](../../magic/spells/joyful-rapture.md) (15th), [*mind blank*](../../magic/spells/mind-blank.md) (17th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (19th).
 
 **Bonus Feats**: Diehard, Endurance, Heroic Defiance, Heroic Recovery, Leadership, Persuasive, Skill Focus (Perform), Toughness.
 
@@ -1155,7 +1155,7 @@ A daemon lurks somewhere along your family tree. Your powers derive from these s
 
 **Class Skill**: Heal.
 
-**Bonus Spells**: *ray of enfeeblement* (3rd), *touch of idiocy* (5th), [*vampiric touch*](../../magic/spells/vampiric-touch.md) (7th), [*contagion*](../../magic/spells/contagion.md) (9th), [*blight*](../../magic/spells/blight.md) (11th), [*circle of death*](../../magic/spells/circle-of-death.md) (13th), *waves of exhaustion* (15th), *horrid wilting* (17th), [*soul bind*](../../magic/spells/soul-bind.md) (19th).
+**Bonus Spells**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (3rd), [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) (5th), [*vampiric touch*](../../magic/spells/vampiric-touch.md) (7th), [*contagion*](../../magic/spells/contagion.md) (9th), [*blight*](../../magic/spells/blight.md) (11th), [*circle of death*](../../magic/spells/circle-of-death.md) (13th), [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md) (15th), [*horrid wilting*](../../magic/spells/horrid-wilting.md) (17th), [*soul bind*](../../magic/spells/soul-bind.md) (19th).
 
 **Bonus Feats**: Diehard, Endurance, Fast Healer, Great Fortitude, Heroic Defiance, Heroic Recovery, [Sickening Spell](../../rules/feats/sickening-spell.md), Toughness.
 
@@ -1189,7 +1189,7 @@ The so-called "priests" of certain self-proclaimed living gods are magical charl
 
 **False Piety (Ex)**: At 1st level, a sham priest gains Knowledge (religion) and Perform as class skills, but loses Appraise and Fly as class skills. He adds half his sorcerer level to [Use Magic Device](../../rules/skills/use-magic-device.md) checks to activate spell trigger and spell completion items that use divine spells. He gains [False Focus](../../rules/feats/false-focus.md) as a bonus feat. In addition to replacing Appraise and Fly as class skills, this ability replaces the [sorcerer's Eschew Materials](sorcerer.md#eschew-materials) bonus feat.
 
-**Lay Healer (Su)**: At 3rd level, the sham priest adds *aid* to his list of spells known as a 2nd-level spell. At 5th level, he adds [*remove disease*](../../magic/spells/remove-disease.md) to his list of spells known as a 3rd-level spell. This ability replaces the bloodline spells gained at 3rd level and 5th level respectively.
+**Lay Healer (Su)**: At 3rd level, the sham priest adds [*aid*](../../magic/spells/aid.md) to his list of spells known as a 2nd-level spell. At 5th level, he adds [*remove disease*](../../magic/spells/remove-disease.md) to his list of spells known as a 3rd-level spell. This ability replaces the bloodline spells gained at 3rd level and 5th level respectively.
 
 **False Channel (Su)**: At 9th level, the sham priest can use his own magic to power spell completion and spell trigger items that use divine spells. He expends a sorcerer spell slot that is at least 1 level higher than the level of the spell he's trying to activate, then makes a Use Magic Device check. If he succeeds, the item's spell occurs and the item or charge is not expended. If he fails, nothing happens. Whether he succeeds or fails, his spell slot is expended. This ability replaces the bloodline power gained at 9th level.
 
@@ -1261,7 +1261,7 @@ Umbral scions are sorcerers who are able to expertly control their especially po
 
 **Shrouded Spells (Su)**: An umbral scion is enveloped by wisps of shadow whenever she casts a spell. The DC to identify spells cast by an umbral scion increases by 2. If the spell is being cast within an area of dim light or darkness, the DC increases by 5 instead.
 
-**Encroaching Darkness (Su)**: An umbral scion is capable of influencing light around her. As a standard action (1 AP), she can produce a 10-foot-radius veil centered on a creature or object within 30 feet. This veil decreases the light level by one step and remains for a number of rounds equal to the sorcerer's Charisma modifier. At 7th level, the veil increases to a 30-foot radius. At 8th level, the veil decreases the light level by two steps. If the light level is decreased past darkness, the veil is treated as *deeper darkness*. At 14th level, the veil increases to 60 feet and grants any creature within it cover (even against senses normally able to penetrate total darkness, such as the see in darkness ability). An umbral scion can use this ability a number of times per day equal to 3 + her Charisma modifier. This ability replaces the shadowstrike bloodline power.
+**Encroaching Darkness (Su)**: An umbral scion is capable of influencing light around her. As a standard action (1 AP), she can produce a 10-foot-radius veil centered on a creature or object within 30 feet. This veil decreases the light level by one step and remains for a number of rounds equal to the sorcerer's Charisma modifier. At 7th level, the veil increases to a 30-foot radius. At 8th level, the veil decreases the light level by two steps. If the light level is decreased past darkness, the veil is treated as [*deeper darkness*](../../magic/spells/deeper-darkness.md). At 14th level, the veil increases to 60 feet and grants any creature within it cover (even against senses normally able to penetrate total darkness, such as the see in darkness ability). An umbral scion can use this ability a number of times per day equal to 3 + her Charisma modifier. This ability replaces the shadowstrike bloodline power.
 
 **Potent Shadows (Su)**: At 7th level, when an umbral scion casts a spell of the shadow subschool or a spell with the darkness or shadow descriptor within an area of dim light or darkness, she treats her caster level as 1 higher. Only the sorcerer herself needs to be in dim light or darkness. This bonus increases by 1 every 4 sorcerer levels beyond 7th she has to a maximum of +4 at 19th level. This ability replaces the 7th-level bloodline feat.
 

@@ -11,4 +11,4 @@ A *brilliant energy* weapon has its significant portion transformed into light, 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *gaseous form*, *continual flame*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*gaseous form*](../../magic/spells/gaseous-form.md), [*continual flame*](../../magic/spells/continual-flame.md); **Price** —

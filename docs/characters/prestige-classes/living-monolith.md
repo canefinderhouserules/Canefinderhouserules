@@ -81,7 +81,7 @@ At 4th level, a living monolith can perceive the balance of life and death withi
 
 #### Greater Ka Stone (Su)
 
-At 5th level, when a living monolith with a ka stone invokes his ka stone's power to increase his size, the living monolith gains the benefit of [*righteous might*](../../magic/spells/righteous-might.md) rather than *enlarge person*. The DR gained from *righteous might* is based on the living monolith's alignment. A neutral living monolith must choose which DR to gain from this ability. Once made, this choice cannot be changed.
+At 5th level, when a living monolith with a ka stone invokes his ka stone's power to increase his size, the living monolith gains the benefit of [*righteous might*](../../magic/spells/righteous-might.md) rather than [*enlarge person*](../../magic/spells/enlarge-person.md). The DR gained from [*righteous might*](../../magic/spells/righteous-might.md) is based on the living monolith's alignment. A neutral living monolith must choose which DR to gain from this ability. Once made, this choice cannot be changed.
 
 #### Attunement to Stone (Sp)
 
@@ -89,7 +89,7 @@ At 6th level, a living monolith can use [*meld into stone*](../../magic/spells/m
 
 #### Summon Sphinx (Sp)
 
-At 7th level, a living monolith can call upon the aid of the sphinxes, ancient allies of the first immortal tomb guardians. Once per day, the living monolith can call a sphinx to his presence and bargain for its services as if using [*planar ally*](../../magic/spells/planar-ally.md) to call upon an outsider. At 9th level, this ability functions as *greater planar ally*. The living monolith gains a +4 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to influence sphinxes.
+At 7th level, a living monolith can call upon the aid of the sphinxes, ancient allies of the first immortal tomb guardians. Once per day, the living monolith can call a sphinx to his presence and bargain for its services as if using [*planar ally*](../../magic/spells/planar-ally.md) to call upon an outsider. At 9th level, this ability functions as [*greater planar ally*](../../magic/spells/planar-ally-greater.md). The living monolith gains a +4 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to influence sphinxes.
 
 #### Communion with Stone (Su)
 

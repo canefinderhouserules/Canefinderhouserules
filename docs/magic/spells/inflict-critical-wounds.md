@@ -22,4 +22,4 @@ This spell functions like [*inflict light wounds*](inflict-light-wounds.md), exc
     **Duration** instantaneous  
     **Saving Throw** Will half; **Spell Resistance** yes
 
-    This spell functions like *inflict light wounds*, except that you deal 4d8 points of damage + 1 point per caster level (maximum +20).
+    This spell functions like [*inflict light wounds*](inflict-light-wounds.md), except that you deal 4d8 points of damage + 1 point per caster level (maximum +20).

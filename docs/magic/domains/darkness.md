@@ -8,7 +8,7 @@
 
 *Eyes of Darkness (Su)*: At 4th level, your vision is not impaired by lighting conditions, even in absolute darkness and magic darkness. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
 
-**Domain Spells**: 1st—[*obscuring mist*](../spells/obscuring-mist.md), 2nd—*blindness/deafness* (only to cause blindness), 3rd—[*deeper darkness*](../spells/deeper-darkness.md), 4th—[*shadow conjuration*](../spells/shadow-conjuration.md), 5th—*summon monster V* (summons 1d3 shadows), 6th—[*shadow walk*](../spells/shadow-walk.md), 7th—[*power word blind*](../spells/power-word-blind.md), 8th—*greater shadow evocation*, 9th—[*shades*](../spells/shades.md).
+**Domain Spells**: 1st—[*obscuring mist*](../spells/obscuring-mist.md), 2nd—[*blindness/deafness*](../spells/blindness-deafness.md) (only to cause blindness), 3rd—[*deeper darkness*](../spells/deeper-darkness.md), 4th—[*shadow conjuration*](../spells/shadow-conjuration.md), 5th—[*summon monster V*](../spells/summon-monster-v.md) (summons 1d3 shadows), 6th—[*shadow walk*](../spells/shadow-walk.md), 7th—[*power word blind*](../spells/power-word-blind.md), 8th—[*greater shadow evocation*](../spells/shadow-evocation-greater.md), 9th—[*shades*](../spells/shades.md).
 
 ###  Loss Subdomain
 

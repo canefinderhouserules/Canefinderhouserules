@@ -176,7 +176,7 @@ While she may adventure with good or neutral allies, a paladin avoids working wi
 
 ## Ex-Paladins
 
-A paladin who ceases to be lawful good, who willfully commits an evil act, or who violates the code of conduct loses all paladin spells and class features (including the service of the paladin’s mount, but not weapon, armor, and shield proficiencies). She may not progress any further in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the *atonement* spell description in Chapter 10), as appropriate.
+A paladin who ceases to be lawful good, who willfully commits an evil act, or who violates the code of conduct loses all paladin spells and class features (including the service of the paladin’s mount, but not weapon, armor, and shield proficiencies). She may not progress any further in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the [*atonement*](../../magic/spells/atonement.md) spell description in Chapter 10), as appropriate.
 
 ## Favored Class Bonuses
 

@@ -28,7 +28,7 @@ Born from the descendants of humans and beings of elemental air such as djinn, s
 
 **Darkvision**: Sylphs can see in the dark up to 60 feet.
 
-**Spell-Like Ability**: *Feather fall* 1/day (caster level equals the sylph’s total level).
+**Spell-Like Ability**: [*Feather fall*](../../magic/spells/feather-fall.md) 1/day (caster level equals the sylph’s total level).
 
 **Energy Resistance**: Sylphs have electricity resistance 5.
 

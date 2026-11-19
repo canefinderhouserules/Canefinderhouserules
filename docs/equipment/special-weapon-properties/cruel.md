@@ -11,4 +11,4 @@ When the wielder strikes a creature that is frightened, shaken, or panicked with
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *cause fear*, *death knell*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*cause fear*](../../magic/spells/cause-fear.md), [*death knell*](../../magic/spells/death-knell.md); **Price** —

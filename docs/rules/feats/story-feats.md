@@ -161,7 +161,7 @@ The lives you could not save stay with you to your final breath.
 
 **Goal**: Bring an ally back from the dead, including by using [*breath of life*](../../magic/spells/breath-of-life.md) or [*reincarnate*](../../magic/spells/reincarnate.md).
 
-**Completion Benefit**: You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into *breath of life*.
+**Completion Benefit**: You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into [*breath of life*](../../magic/spells/breath-of-life.md).
 
 ## Dynasty Founder (Story)
 
@@ -255,7 +255,7 @@ A pivotal event from your past eludes your memory.
 
 **Completion Benefit**: You roll twice whenever you attempt a saving throw against a mind-affecting effect, keeping the better result.
 
-**Special**: Restoration of memories by means less significant than [*miracle*](../../magic/spells/miracle.md) or *wish* does not qualify for the prerequisite.
+**Special**: Restoration of memories by means less significant than [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) does not qualify for the prerequisite.
 
 ## Glimpse Beyond (Story)
 

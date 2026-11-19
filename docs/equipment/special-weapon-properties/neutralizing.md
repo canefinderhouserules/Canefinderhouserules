@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *neutralizing* weapo
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *purify food and drink*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*purify food and drink*](../../magic/spells/purify-food-and-drink.md); **Price** —

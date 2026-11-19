@@ -16,9 +16,9 @@
 
 **Prerequisites:** Grit pool, eidolon class feature
 
-**Benefit:** While in an area of dim or lower lighting, you may spend 2 grit points as a standard action (1 AP) to instantly call forth your eidolon, as per *summon eidolon*, or to enhance your eidolon as per a *evolution surge, lesser*. This is a spell-like ability, using your character level as your caster level and your Charisma modifier for concentration checks, if required.
+**Benefit:** While in an area of dim or lower lighting, you may spend 2 grit points as a standard action (1 AP) to instantly call forth your eidolon, as per [*summon eidolon*](../../../magic/spells/summon-eidolon.md), or to enhance your eidolon as per a [*evolution surge, lesser*](../../../magic/spells/evolution-surge-lesser.md). This is a spell-like ability, using your character level as your caster level and your Charisma modifier for concentration checks, if required.
 
-At your 9th character level, you may instead spend 3 points of grit to produce an *evolution surge*; at 13th level, you may spend 4 grit to instead activate a *evolution surge, greater* or a *transmogrify* effect.
+At your 9th character level, you may instead spend 3 points of grit to produce an [*evolution surge*](../../../magic/spells/evolution-surge.md); at 13th level, you may spend 4 grit to instead activate a [*evolution surge, greater*](../../../magic/spells/evolution-surge-greater.md) or a [*transmogrify*](../../../magic/spells/transmogrify.md) effect.
 
 **Designer’s Commentary:** This feat is of exceptional use with the Synthesist summoner archetype, and the Mysterious Stranger gunslinger archetype, due to their shared use of Charisma as a primary statistic.
 
@@ -47,11 +47,11 @@ In addition, you may spend one point of grit to perform any of the following spe
 
 *Desolate Cry (Su):* As a move action (1 AP), you can expend 1 grit point while unleashing a deathly scream of despair and loss, causing all creatures within 30 ft. who can hear you to become [shaken](../../../rules/appendices/conditions.md#shaken) (no save) until the beginning of your next turn. You can maintain this ability in subsequent rounds as a free action by spending additional points of grit. This ability also causes mundane and non-magical vegetation in the area, causing it to blacken and shrivel, with a 50% chance each round of crumbling to dust. It otherwise functions identically to the dirge of doom bardic performance ability. You must have at least 8 Hit Dice to use this deed.
 
-*Ghost Rider (Sp):* As a full-round action (3 AP), you can use *phantom steed* as a spell-like ability, using your Hit Dice as your caster level. This spectral or skeletal speed has a unique and distinctive appearance, which is the same each time it is created. You must have at least 6 Hit Dice to use this deed.
+*Ghost Rider (Sp):* As a full-round action (3 AP), you can use [*phantom steed*](../../../magic/spells/phantom-steed.md) as a spell-like ability, using your Hit Dice as your caster level. This spectral or skeletal speed has a unique and distinctive appearance, which is the same each time it is created. You must have at least 6 Hit Dice to use this deed.
 
 *Hideous Wound (Su):* If your undead form possesses a supernatural special attack that is normally conveyed by a melee attack, such as a vampire’s energy drain or a ghoul’s disease or paralysis, as a swift action (1 AP) you can expend 1 grit point to add the effects to a single firearm attack you make. You must choose to use this ability before the attack roll is made. If the attack misses, the effect is wasted. You must have at least 4 Hit Dice to use this deed.
 
-*Shake Off Control (Ex):* Whenever you fail a saving throw that would take control of your undead form, such as the Command Undead feat or *command undead* spell, you can expend 1 grit point to reroll the saving throw. You must accept the result of the second roll. You must have at least 2 Hit Dice to use this deed.
+*Shake Off Control (Ex):* Whenever you fail a saving throw that would take control of your undead form, such as the Command Undead feat or [*command undead*](../../../magic/spells/command-undead.md) spell, you can expend 1 grit point to reroll the saving throw. You must accept the result of the second roll. You must have at least 2 Hit Dice to use this deed.
 
 ### Whiskey-Soaked Drifter
 

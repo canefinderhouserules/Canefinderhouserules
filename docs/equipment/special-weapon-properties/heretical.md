@@ -11,4 +11,4 @@ A *heretical* weapon functions as a fervent weapon, but when wielded against a m
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *align weapon*, *weapon of awe*, creator must be a member of the attuned religion; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*align weapon*](../../magic/spells/align-weapon.md), [*weapon of awe*](../../magic/spells/weapon-of-awe.md), creator must be a member of the attuned religion; **Price** —

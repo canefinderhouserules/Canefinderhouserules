@@ -11,4 +11,4 @@ A character with Weapon Finesse can apply her Dexterity modifier to damage rolls
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *cat's grace*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*cat's grace*](../../magic/spells/cats-grace.md); **Price** —

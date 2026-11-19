@@ -81,7 +81,7 @@ Some religious scholars theorize that this power does not actually draw items fr
 
 #### Eloquent Bargainer (Ex)
 
-Getting permission to enter treasure-laden ruins sometimes requires talking to the right people and handing around a few coins for bribes, “finder’s fees,” and so on. At 4th level, a balanced scale learns which palms to grease and what promises to make, gaining a +2 bonus to Diplomacy and Gather Information checks when she offers an appropriate bribe (minimum 10 gp × the level of the recipient) during the interaction. In addition, she receives a +2 sacred bonus on Charisma checks made to compel a bound creature to perform a service when using the lesser [*planar binding*](../../magic/spells/planar-binding.md) and *greater planar binding* spells.
+Getting permission to enter treasure-laden ruins sometimes requires talking to the right people and handing around a few coins for bribes, “finder’s fees,” and so on. At 4th level, a balanced scale learns which palms to grease and what promises to make, gaining a +2 bonus to Diplomacy and Gather Information checks when she offers an appropriate bribe (minimum 10 gp × the level of the recipient) during the interaction. In addition, she receives a +2 sacred bonus on Charisma checks made to compel a bound creature to perform a service when using the lesser [*planar binding*](../../magic/spells/planar-binding.md) and [*greater planar binding*](../../magic/spells/planar-binding-greater.md) spells.
 
 #### Vault Jump (Sp)
 

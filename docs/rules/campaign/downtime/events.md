@@ -45,7 +45,7 @@ Many events allow a skill check to affect the outcome of the event. If you’re 
 
 **Famous Visitor**: Someone famous visits the settlement. This could be a beloved actress, a vaunted hero, a celebrated noble, or the like. Attempt a DC 20 Diplomacy check. On a success, the famous visitor visits your building, and you gain 1d2 points of Influence. Otherwise you’re snubbed and lose 1d2 points of Influence.
 
-**Fire**: A fire breaks out in your building. There’s a 75% chance it’s just a minor fire that costs you 1d2 points of Goods, but otherwise it’s a major fire and becomes a significant danger. For a major fire, unless you utilize magic like *quench*, *pyrotechnics*, or other fire-suppressing tactics, you lose 2d6 points of Goods, Labor, or Magic (splitting this cost up however you wish) and your building gains the broken condition.
+**Fire**: A fire breaks out in your building. There’s a 75% chance it’s just a minor fire that costs you 1d2 points of Goods, but otherwise it’s a major fire and becomes a significant danger. For a major fire, unless you utilize magic like [*quench*](../../../magic/spells/quench.md), [*pyrotechnics*](../../../magic/spells/pyrotechnics.md), or other fire-suppressing tactics, you lose 2d6 points of Goods, Labor, or Magic (splitting this cost up however you wish) and your building gains the broken condition.
 
 **Good Fortune**: You have a run of good luck. For 7 days, this building gains a +4 bonus on its first check to generate capital each day. In addition, the next time you roll a building event, you can roll twice and take either result.
 
@@ -185,7 +185,7 @@ Many events allow a skill check to affect the outcome of the event. If you’re 
 | 86–95 | Accursed lounge |
 | 96–100 | Wild night |
 
-**Accursed Lounge**: One of the lounges is rumored to be cursed, and it’s affecting business. While the curse persists (whether it is real or imagined), the building’s generated currency is reduced by half, but any day that it generates at least 3 points of Influence there is a 25% chance that it also generates 1 point of Magic. You may end this event by spending 2 points of Influence and 1 of Magic, or by casting *bless*, *break enchantment*, or *remove curse* on the room.
+**Accursed Lounge**: One of the lounges is rumored to be cursed, and it’s affecting business. While the curse persists (whether it is real or imagined), the building’s generated currency is reduced by half, but any day that it generates at least 3 points of Influence there is a 25% chance that it also generates 1 point of Magic. You may end this event by spending 2 points of Influence and 1 of Magic, or by casting [*bless*](../../../magic/spells/bless.md), [*break enchantment*](../../../magic/spells/break-enchantment.md), or [*remove curse*](../../../magic/spells/remove-curse.md) on the room.
 
 **Ballroom Magic**: An enthusiastic local spellcaster offers to use magic to temporarily enhance your employees’ appeal and skills. If you spend 1d2 points of Magic, the building gains a +10 bonus on checks to generate gp or Influence for the next 2d6 days.
 

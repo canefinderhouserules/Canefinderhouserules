@@ -14,7 +14,7 @@ An *interposing hand* is 10 feet long and about that wide with its fingers outst
 
 The hand never provokes attacks of opportunity from opponents. It cannot push through a [*wall of force*](wall-of-force.md) or enter an [*antimagic field*](antimagic-field.md), but it suffers the full effect of a [*prismatic wall*](prismatic-wall.md) or *prismatic sphere.* The hand makes saving throws as its caster.
 
-*Disintegrate* or a successful [*dispel magic*](dispel-magic.md) destroys it.
+[*Disintegrate*](disintegrate.md) or a successful [*dispel magic*](dispel-magic.md) destroys it.
 
 Any creature weighing 2,000 pounds or less that tries to push past the hand is slowed to half its normal speed. The hand cannot reduce the speed of a creature weighing more than 2,000 pounds, but it still affects the creature’s attacks.
 

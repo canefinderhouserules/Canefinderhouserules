@@ -10,7 +10,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Change Shape, Greater (6 RP)**  
 *Prerequisite*: Aberration, dragon, fey, humanoid, or monstrous humanoid type  
-*Benefit*: Members of this race gain the following supernatural ability: a member of this race can assume the appearance of a Small or Medium humanoid as the *alter self* spell, save that it does not adjust its ability scores.
+*Benefit*: Members of this race gain the following supernatural ability: a member of this race can assume the appearance of a Small or Medium humanoid as the [*alter self*](../../magic/spells/alter-self.md) spell, save that it does not adjust its ability scores.
 
 **Change Shape, Lesser (3 RP)**  
 *Prerequisite*: Aberration, dragon, fey, humanoid, or monstrous humanoid type  
@@ -22,11 +22,11 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Dissolution’s Child (5 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Shadow Plane, fey type, undead type, or half-undead subtype  
-*Benefit*: Members of this race gain the following supernatural ability: Once per day, a member of this race can change its appearance to look as if it were little more than a 4-foot-tall area of shadow. Its physical form still exists and it is not incorporeal—only its appearance changes. This racial trait works like *invisibility*, except the effect only lasts 1 round per level (maximum 5 rounds).
+*Benefit*: Members of this race gain the following supernatural ability: Once per day, a member of this race can change its appearance to look as if it were little more than a 4-foot-tall area of shadow. Its physical form still exists and it is not incorporeal—only its appearance changes. This racial trait works like [*invisibility*](../../magic/spells/invisibility.md), except the effect only lasts 1 round per level (maximum 5 rounds).
 
 **Dreamspeaker (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race gain a +1 bonus to the saving throw DCs of spells of the divination school and spells that produce sleep effects that they cast. In addition, members of this race with a Charisma score of 15 or higher may use *dream* once per day as a spell-like ability (caster level is equal to the user’s character level).
+*Benefit*: Members of this race gain a +1 bonus to the saving throw DCs of spells of the divination school and spells that produce sleep effects that they cast. In addition, members of this race with a Charisma score of 15 or higher may use [*dream*](../../magic/spells/dream.md) once per day as a spell-like ability (caster level is equal to the user’s character level).
 
 **Elemental Affinity (1 RP)**  
 *Prerequisite*: Outsider (native) with ties to an elemental plane  
@@ -42,15 +42,15 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Enclave Protector (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race add +1 to the caster level of any abjuration spells they cast. Members of this race also gain the following spell-like abilities: constant—*nondetection*; 1/day—*faerie fire*, *obscure object*, *sanctuary*. The caster level for these effects is equal to the user’s character level.
+*Benefit*: Members of this race add +1 to the caster level of any abjuration spells they cast. Members of this race also gain the following spell-like abilities: constant—[*nondetection*](../../magic/spells/nondetection.md); 1/day—[*faerie fire*](../../magic/spells/faerie-fire.md), [*obscure object*](../../magic/spells/obscure-object.md), [*sanctuary*](../../magic/spells/sanctuary.md). The caster level for these effects is equal to the user’s character level.
 
 **Envoy (1 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race with an Intelligence score of 11 or higher gain the following spell-like abilities: 1/day—*comprehend* *languages*, *detect magic*, *detect poison*, *read magic*. The caster level for these effects is equal to the user’s character level.
+*Benefit*: Members of this race with an Intelligence score of 11 or higher gain the following spell-like abilities: 1/day—*comprehend* *languages*, [*detect magic*](../../magic/spells/detect-magic.md), [*detect poison*](../../magic/spells/detect-poison.md), [*read magic*](../../magic/spells/read-magic.md). The caster level for these effects is equal to the user’s character level.
 
 **Fell Magic (3 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race gain +1 to the DC of any saving throws against necromancy spells that they cast. Members of this race with a Wisdom score of 11 or higher also gain the following spell-like abilities: 1/day—*bleed*, *chill touch*, *detect poison*, *touch of fatigue.* The caster level for these effects is equal to the user’s character level. The DC for these spell-like abilities is equal to 10 + the spell’s level + the user’s Wisdom modifier.
+*Benefit*: Members of this race gain +1 to the DC of any saving throws against necromancy spells that they cast. Members of this race with a Wisdom score of 11 or higher also gain the following spell-like abilities: 1/day—[*bleed*](../../magic/spells/bleed.md), [*chill touch*](../../magic/spells/chill-touch.md), [*detect poison*](../../magic/spells/detect-poison.md), *touch of fatigue.* The caster level for these effects is equal to the user’s character level. The DC for these spell-like abilities is equal to 10 + the spell’s level + the user’s Wisdom modifier.
 
 **Ferrous Growth (2 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Plane of Earth  
@@ -66,7 +66,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Gnome Magic (2 RP)**  
 *Prerequisite*: Gnome subtype  
-*Benefit*: Members of this race gain a +1 bonus to the DC of any saving throws against illusion spells that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/ day—*dancing lights*, *ghost sounds*, *prestidigitation*, *speak with* *animals*. The caster level for these effects is equal to the user’s level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the user’s Charisma modifier.
+*Benefit*: Members of this race gain a +1 bonus to the DC of any saving throws against illusion spells that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/ day—[*dancing lights*](../../magic/spells/dancing-lights.md), *ghost sounds*, [*prestidigitation*](../../magic/spells/prestidigitation.md), *speak with* *animals*. The caster level for these effects is equal to the user’s level. The DC for the spell-like abilities is equal to 10 + the spell’s level + the user’s Charisma modifier.
 
 **Heavenborn (3 RP)**  
 *Prerequisite*: Outsider (native) with ties to Elysium, Heaven, or Nirvana  
@@ -78,19 +78,19 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Hypnotic Gaze (3 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race gain the following supernatural ability: Once per day, a member of this race can attempt to hypnotize a single target as per the spell *hypnotism* (caster level equal to its character level). The effects of the hypnotic gaze last only 1 round.
+*Benefit*: Members of this race gain the following supernatural ability: Once per day, a member of this race can attempt to hypnotize a single target as per the spell [*hypnotism*](../../magic/spells/hypnotism.md) (caster level equal to its character level). The effects of the hypnotic gaze last only 1 round.
 
 **Immortal Spark (7 RP)**  
 *Prerequisite*: Outsider (native) with ties to Elysium, Heaven, or Nirvana  
-*Benefit*: Members of this race gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use *lesser age resistance* (*Pathfinder RPG Ultimate* *Magic* 205) once per day as a spell-like ability.
+*Benefit*: Members of this race gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use [*lesser age resistance*](../../magic/spells/age-resistance-lesser.md) (*Pathfinder RPG Ultimate* *Magic* 205) once per day as a spell-like ability.
 
 **Lightbringer (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spells or effects they cast (including spell-like and supernatural abilities). If a member of this race has an Intelligence of 10 or higher, it may use *light* at will as a spell-like ability.
+*Benefit*: Members of this race are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spells or effects they cast (including spell-like and supernatural abilities). If a member of this race has an Intelligence of 10 or higher, it may use [*light*](../../magic/spells/light.md) at will as a spell-like ability.
 
 **Magical Linguist (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race gain a +1 bonus to the DC of spells they cast that have the language-dependent descriptor or that create glyphs, symbols, or other magical writings. They also gain a +2 racial bonus on saving throws against such spells. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—*arcane mark*, *comprehend languages*, *message*, *read magic*. The caster level for these spell-like abilities is equal to the user’s character level.
+*Benefit*: Members of this race gain a +1 bonus to the DC of spells they cast that have the language-dependent descriptor or that create glyphs, symbols, or other magical writings. They also gain a +2 racial bonus on saving throws against such spells. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—[*arcane mark*](../../magic/spells/arcane-mark.md), [*comprehend languages*](../../magic/spells/comprehend-languages.md), [*message*](../../magic/spells/message.md), [*read magic*](../../magic/spells/read-magic.md). The caster level for these spell-like abilities is equal to the user’s character level.
 
 **Nereid Fascination (3 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Plane of Water or fey type  
@@ -98,15 +98,15 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Object of Desire (1 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race add +1 to their caster level when casting *charm person* and *charm monster*.
+*Benefit*: Members of this race add +1 to their caster level when casting [*charm person*](../../magic/spells/charm-person.md) and [*charm monster*](../../magic/spells/charm-monster.md).
 
 **Pyromaniac (3 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race are treated as +1 level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using bloodline powers of the fire elemental bloodline, using the revelations of the oracle’s flame mystery, and determining the damage of alchemist bombs that deal fire damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Charisma score of 11 or higher, it also gains the following spell-like abilities: 1/day—*dancing lights*, *flare*, *prestidigitation*, *produce flame*. The caster level for these spell-like abilities is equal to the user’s character level.
+*Benefit*: Members of this race are treated as +1 level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using bloodline powers of the fire elemental bloodline, using the revelations of the oracle’s flame mystery, and determining the damage of alchemist bombs that deal fire damage. This trait does not give members of this race early access to level-based powers; it only affects powers that they could already use without this trait. If a member of this race has a Charisma score of 11 or higher, it also gains the following spell-like abilities: 1/day—[*dancing lights*](../../magic/spells/dancing-lights.md), [*flare*](../../magic/spells/flare.md), [*prestidigitation*](../../magic/spells/prestidigitation.md), [*produce flame*](../../magic/spells/produce-flame.md). The caster level for these spell-like abilities is equal to the user’s character level.
 
 **Samsaran Magic (2 RP)**  
 *Prerequisite*: Samsaran subtype  
-*Benefit*: Members of this race with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—*comprehend* *languages*, *deathwatch*, *stabilize*. The caster level for these effects is equal to the user’s character level.
+*Benefit*: Members of this race with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—*comprehend* *languages*, [*deathwatch*](../../magic/spells/deathwatch.md), [*stabilize*](../../magic/spells/stabilize.md). The caster level for these effects is equal to the user’s character level.
 
 **Seducer (2 RP)**  
 *Prerequisite*: The race has at least a +2 racial bonus to Charisma  
@@ -118,11 +118,11 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Shadow Magic (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/ day—*ghost sound*, *pass without trace*, *ventriloquism*. The caster level for these spell-like abilities is equal to the user’s character level.
+*Benefit*: Members of this race add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Members of this race with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/ day—[*ghost sound*](../../magic/spells/ghost-sound.md), [*pass without trace*](../../magic/spells/pass-without-trace.md), [*ventriloquism*](../../magic/spells/ventriloquism.md). The caster level for these spell-like abilities is equal to the user’s character level.
 
 **Soul Seer (4 RP)**  
 *Prerequisite*: Outsider (native)  
-*Benefit*: Members of this race gain the use of *deathwatch* as a constant spell-like ability.
+*Benefit*: Members of this race gain the use of [*deathwatch*](../../magic/spells/deathwatch.md) as a constant spell-like ability.
 
 **Spell-Like Ability, Lesser (Variable, see Special)**: *Prerequisites*: None  
 *Benefit*: Choose a 2nd-level or lower spell that does not attack a creature or deal damage. Members of this race can use this spell as a spell-like ability once per day. The caster level of the spell is equal to the user’s character level.  
@@ -130,7 +130,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Stoneseer (2 RP)**  
 *Prerequisites*: None  
-*Benefit*: Members of this race add +1 to the caster level of any spells with the earth descriptor they cast. Members of this race also gain the following spell-like abilities: constant—*nondetection*; 1/ day—*magic stone*, *stone shape*, *stone tell*. The caster level for these spell-like abilities is equal to the user’s character level.
+*Benefit*: Members of this race add +1 to the caster level of any spells with the earth descriptor they cast. Members of this race also gain the following spell-like abilities: constant—[*nondetection*](../../magic/spells/nondetection.md); 1/ day—[*magic stone*](../../magic/spells/magic-stone.md), [*stone shape*](../../magic/spells/stone-shape.md), [*stone tell*](../../magic/spells/stone-tell.md). The caster level for these spell-like abilities is equal to the user’s character level.
 
 **Stonesinger (1 RP)**  
 *Prerequisites*: None  
@@ -138,7 +138,7 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Svirfneblin Magic (2 RP)**  
 *Prerequisite*: Gnome subtype  
-*Benefit*: Members of this race add +1 to the DC of any illusion spells they cast. They also gain the following spell-like abilities: constant—*nondetection*; 1/day—*blindness/deafness*, *blur*, *disguise self*. The DC for the spells is equal to 10 + the spell’s level + the caster’s Charisma modifier.
+*Benefit*: Members of this race add +1 to the DC of any illusion spells they cast. They also gain the following spell-like abilities: constant—[*nondetection*](../../magic/spells/nondetection.md); 1/day—[*blindness/deafness*](../../magic/spells/blindness-deafness.md), [*blur*](../../magic/spells/blur.md), [*disguise self*](../../magic/spells/disguise-self.md). The DC for the spells is equal to 10 + the spell’s level + the caster’s Charisma modifier.
 
 **Treacherous Earth (2 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Plane of Earth or fey type  
@@ -152,11 +152,11 @@ The following racial traits augment a race’s ability to use magic or grant spe
 
 **Constant Spell-Like Divination (3 RP)**  
 *Prerequisites*: None  
-*Benefit*: Choose one of the following spells: *detect magic*, *detect poison*, *detect secret doors*, *detect undead*. Members of this race can use this spell as a constant spell-like ability. The caster level of the spell-like ability is equal to the user’s character level.
+*Benefit*: Choose one of the following spells: [*detect magic*](../../magic/spells/detect-magic.md), [*detect poison*](../../magic/spells/detect-poison.md), [*detect secret doors*](../../magic/spells/detect-secret-doors.md), [*detect undead*](../../magic/spells/detect-undead.md). Members of this race can use this spell as a constant spell-like ability. The caster level of the spell-like ability is equal to the user’s character level.
 
 **Shadow Travel (5 RP)**  
 *Prerequisite*: Outsider (native) with ties to the Shadow Plane  
-*Benefit*: When a member of this race reaches 9th level in any combination of classes, she gains the ability to use *shadow walk* (self only) as a spell-like ability once per day, and at 13th level, she can use *plane shift* (self only to the Shadow Plane or the Material Plane only) as a spell-like ability once per day. The caster level of these spell-like abilities is equal to the user’s character level.
+*Benefit*: When a member of this race reaches 9th level in any combination of classes, she gains the ability to use [*shadow walk*](../../magic/spells/shadow-walk.md) (self only) as a spell-like ability once per day, and at 13th level, she can use [*plane shift*](../../magic/spells/plane-shift.md) (self only to the Shadow Plane or the Material Plane only) as a spell-like ability once per day. The caster level of these spell-like abilities is equal to the user’s character level.
 
 **Spell-Like Ability, Greater (Variable, see Special)**: *Prerequisites*: None  
 *Benefit*: Choose a 3rd-level or 4th-level spell that does not attack a creature or deal damage. Members of this race can use this spell as a spell-like ability once per day. The caster level of the spell is equal to the user’s character level.  

@@ -15,13 +15,13 @@ A staff is a long shaft that stores several spells. Staves usually hold spells g
 
 The reddish brown bark of this charred manzanita branch shows only in patches. The staff is a mere 3 feet long and balanced for use as a masterwork club.
 
-When casting *produce flame* from the staff, its wielder can choose to set the end of the staff alight instead of producing the flame in her hand. This does not damage the staff, and the spell's damage is added to any melee attacks made with the staff.
+When casting [*produce flame*](../magic/spells/produce-flame.md) from the staff, its wielder can choose to set the end of the staff alight instead of producing the flame in her hand. This does not damage the staff, and the spell's damage is added to any melee attacks made with the staff.
 
-- *Produce flame* (1 charge)
-- *Scorching ray* (2 charges)
-- *Fireball* (4 charges)
+- [*Produce flame*](../magic/spells/produce-flame.md) (1 charge)
+- [*Scorching ray*](../magic/spells/scorching-ray.md) (2 charges)
+- [*Fireball*](../magic/spells/fireball.md) (4 charges)
 
-*Construction* Craft Staff, *fireball*, *produce flame*, *scorching ray*; Cost 6,700 gp.
+*Construction* Craft Staff, [*fireball*](../magic/spells/fireball.md), [*produce flame*](../magic/spells/produce-flame.md), [*scorching ray*](../magic/spells/scorching-ray.md); Cost 6,700 gp.
 
 ### Gravedigger's Spade
 
@@ -29,22 +29,22 @@ When casting *produce flame* from the staff, its wielder can choose to set the e
 
 The sturdy, well-polished oaken shaft and the sharp blade attached to its tip allow this magical staff to be used as a masterwork shovel when not employed in spellcasting.
 
-- *Expeditious excavation* (1 charge)
-- *Create pit* (2 charges)
-- *Spiked pit* (5 charges)
+- [*Expeditious excavation*](../magic/spells/expeditious-excavation.md) (1 charge)
+- [*Create pit*](../magic/spells/create-pit.md) (2 charges)
+- [*Spiked pit*](../magic/spells/spiked-pit.md) (5 charges)
 
-*Construction* Craft Staff, *expeditious excavation*, *create pit*, *spiked pit*; Cost 6,100 gp.
+*Construction* Craft Staff, [*expeditious excavation*](../magic/spells/expeditious-excavation.md), [*create pit*](../magic/spells/create-pit.md), [*spiked pit*](../magic/spells/spiked-pit.md); Cost 6,100 gp.
 
 ### Monstrification Staff
 
 *Aura* faint transmutation (polymorph); *CL* 5th; *Slot* none; *Price* 12,000 gp; *Weight* 4 lbs.
 
-The figures on this scrimshawed ivory staff slowly morph from one monstrous figure into another, and often grow to take up more space on the staff's surface. An alchemist or other character capable of creating extracts can pour an extract of *enlarge person* over this staff to restore 1 charge to the staff or pour an extract of *monstrous physique I* over it to restore 3 charges.
+The figures on this scrimshawed ivory staff slowly morph from one monstrous figure into another, and often grow to take up more space on the staff's surface. An alchemist or other character capable of creating extracts can pour an extract of [*enlarge person*](../magic/spells/enlarge-person.md) over this staff to restore 1 charge to the staff or pour an extract of [*monstrous physique I*](../magic/spells/monstrous-physique-i.md) over it to restore 3 charges.
 
-- *Enlarge person* (1 charge)
-- *Monstrous physique I* (3 charges)
+- [*Enlarge person*](../magic/spells/enlarge-person.md) (1 charge)
+- [*Monstrous physique I*](../magic/spells/monstrous-physique-i.md) (3 charges)
 
-*Construction* Craft Staff, *enlarge person*, *monstrous physique I*, creator must be an alchemist; Cost 6,150 gp.
+*Construction* Craft Staff, [*enlarge person*](../magic/spells/enlarge-person.md), [*monstrous physique I*](../magic/spells/monstrous-physique-i.md), creator must be an alchemist; Cost 6,150 gp.
 
 ### Spark Staff
 
@@ -52,8 +52,8 @@ The figures on this scrimshawed ivory staff slowly morph from one monstrous figu
 
 Thin golden strands snake through this transparent shaft, seeming to flow from one brass end-cap to the other. Once per day when the wielder is damaged by an effect that deals at least 10 points of electricity damage, the staff regains 1 charge. This does not reduce the amount of damage the wielder takes from the effect.
 
-- *Shocking grasp* (1 charge)
+- [*Shocking grasp*](../magic/spells/shocking-grasp.md) (1 charge)
 - *Intensified shocking grasp* (2 charges)
-- *Lightning bolt* (5 charges)
+- [*Lightning bolt*](../magic/spells/lightning-bolt.md) (5 charges)
 
-*Construction* Craft Staff, Intensify Spell, *shocking grasp*, *lightning bolt*, *scorching ray*; Cost 6,475 gp.
+*Construction* Craft Staff, Intensify Spell, [*shocking grasp*](../magic/spells/shocking-grasp.md), [*lightning bolt*](../magic/spells/lightning-bolt.md), [*scorching ray*](../magic/spells/scorching-ray.md); Cost 6,475 gp.

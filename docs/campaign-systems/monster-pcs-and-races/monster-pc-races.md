@@ -57,14 +57,14 @@ Spell Resistance 5 + HD**
 
 ##### Energy Drain (Su)
 
-A succubus drains energy from a mortal she lures into an act of passion, such as a kiss. An unwilling victim must be grappled before the succubus can use this ability. The succubus’s kiss bestows one negative level. The kiss also has the effect of a *suggestion* spell, asking the victim to accept another act of passion from the succubus. The victim must succeed on a Will save to negate the *suggestion*. The DC is 10 + 1/2 level + charisma for the Fortitude save to remove a negative level and the suggestion.
+A succubus drains energy from a mortal she lures into an act of passion, such as a kiss. An unwilling victim must be grappled before the succubus can use this ability. The succubus’s kiss bestows one negative level. The kiss also has the effect of a [*suggestion*](../../magic/spells/suggestion.md) spell, asking the victim to accept another act of passion from the succubus. The victim must succeed on a Will save to negate the *suggestion*. The DC is 10 + 1/2 level + charisma for the Fortitude save to remove a negative level and the suggestion.
 
 ##### Profane Gift (Su)
 
-Once per day as a full-round action (3 AP), a succubus may grant a profane gift to a willing humanoid creature by touching it for 1 full round. The target gains a +2 profane bonus to an ability score of his choice. A single creature may have no more than one profane gift from a succubus at a time. As long as the profane gift persists, the succubus can communicate telepathically with the target across any distance (and may use her *suggestion* spell-like ability through it). A profane gift is removed by *dispel evil* or *dispel chaos*. The succubus can remove it as well as a free action (causing 2d6 Charisma drain to the victim, no save).
+Once per day as a full-round action (3 AP), a succubus may grant a profane gift to a willing humanoid creature by touching it for 1 full round. The target gains a +2 profane bonus to an ability score of his choice. A single creature may have no more than one profane gift from a succubus at a time. As long as the profane gift persists, the succubus can communicate telepathically with the target across any distance (and may use her [*suggestion*](../../magic/spells/suggestion.md) spell-like ability through it). A profane gift is removed by [*dispel evil*](../../magic/spells/dispel-evil.md) or [*dispel chaos*](../../magic/spells/dispel-chaos.md). The succubus can remove it as well as a free action (causing 2d6 Charisma drain to the victim, no save).
 
 Spell Like Abilities:  
-At-Will: Charm Person, *greater teleport* (self plus 50 lbs. of objects only)  
+At-Will: Charm Person, [*greater teleport*](../../magic/spells/teleport-greater.md) (self plus 50 lbs. of objects only)  
 3/day: Vampiric Touch  
 1/day: Suggestion, Dominate Person
 
@@ -111,7 +111,7 @@ Cambions excel at causing pain and anguish. Cambions always treat any weapons wi
 
 ##### Sinfrenzy (Su)
 
-Every cambion carries an excessive capacity for one of the seven classical sins, determined at the moment of the cambion’s birth and depending on the nature of his humanoid parent’s greatest sin. Once per day for a number of rounds equal to his Hit Dice, a cambion can embrace his sin and enter a frenzied state as a free action. While a cambion is in this frenzy, his land speed increases by 10 feet and he gains a +1 bonus on Reflex saves and attack rolls. These bonuses do not stack with those granted by *haste* or similar effects, but if the cambion has at least 1 level in the class listed for his specific sin, the sinfrenzy grants an additional effect.
+Every cambion carries an excessive capacity for one of the seven classical sins, determined at the moment of the cambion’s birth and depending on the nature of his humanoid parent’s greatest sin. Once per day for a number of rounds equal to his Hit Dice, a cambion can embrace his sin and enter a frenzied state as a free action. While a cambion is in this frenzy, his land speed increases by 10 feet and he gains a +1 bonus on Reflex saves and attack rolls. These bonuses do not stack with those granted by [*haste*](../../magic/spells/haste.md) or similar effects, but if the cambion has at least 1 level in the class listed for his specific sin, the sinfrenzy grants an additional effect.
 
 - **Envy (cleric)**: Cambion clerics covet the gods’ power. When they are in a sinfrenzy, their channel energy effect increases by 1d6.
 
@@ -170,13 +170,13 @@ Magic Racial Traits
 
 **Spell-like Abilities:**
 
-**At will**—*fear*, *greater teleport*(self plus 50 lbs. of objects only)
+**At will**—[*fear*](../../magic/spells/fear.md), [*greater teleport*](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)
 
-Senses Racial Traits: darkvision 60 ft., see in darkness, *true seeing*
+Senses Racial Traits: darkvision 60 ft., see in darkness, [*true seeing*](../../magic/spells/true-seeing.md)
 
 ##### Entangle (Su)
 
-Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an *animate rope* spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes’s rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
+Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an [*animate rope*](../../magic/spells/animate-rope.md) spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes’s rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
 
 ## Custom Race Template
 

@@ -12,7 +12,7 @@ A wizard’s level limits the number of spells he can prepare and cast. His high
 
 **Recent Casting Limit/Rest Interruptions**: If a wizard has cast spells recently, the drain on his resources reduces his capacity to prepare new spells. When he prepares spells for the coming day, all the spells he has cast within the last 8 hours count against his daily limit.
 
-**Preparation Environment**: To prepare any spell, a wizard must have enough peace, quiet, and comfort to allow for proper concentration. The wizard’s surroundings need not be luxurious, but they must be free from distractions. Exposure to inclement weather prevents the necessary concentration, as does any injury or failed saving throw the character might experience while studying. Wizards also must have access to their spellbooks to study from and sufficient light to read them. There is one major exception: a wizard can prepare a *read magic* spell even without a spellbook.
+**Preparation Environment**: To prepare any spell, a wizard must have enough peace, quiet, and comfort to allow for proper concentration. The wizard’s surroundings need not be luxurious, but they must be free from distractions. Exposure to inclement weather prevents the necessary concentration, as does any injury or failed saving throw the character might experience while studying. Wizards also must have access to their spellbooks to study from and sufficient light to read them. There is one major exception: a wizard can prepare a [*read magic*](spells/read-magic.md) spell even without a spellbook.
 
 **Spell Preparation Time**: After resting, a wizard must study his spellbook to prepare any spells that day. If he wants to prepare all his spells, the process takes 1 hour. Preparing some smaller portion of his daily capacity takes a proportionally smaller amount of time, but always at least 15 minutes, the minimum time required to achieve the proper mental state.
 
@@ -22,13 +22,13 @@ When preparing spells for the day, a wizard can leave some of these spell slots 
 
 **Prepared Spell Retention**: Once a wizard prepares a spell, it remains in his mind as a nearly cast spell until he uses the prescribed components to complete and trigger it or until he abandons it. Certain other events, such as the effects of magic items or special attacks from monsters, can wipe a prepared spell from a character’s mind.
 
-**Death and Prepared Spell Retention**: If a spellcaster dies, all prepared spells stored in his mind are wiped away. Potent magic (such as *raise dead, resurrection,* or *true* *resurrection*) can recover the lost energy when it recovers the character.
+**Death and Prepared Spell Retention**: If a spellcaster dies, all prepared spells stored in his mind are wiped away. Potent magic (such as *raise dead, resurrection,* or *true* [*resurrection*](spells/resurrection.md)) can recover the lost energy when it recovers the character.
 
 ## Arcane Magical Writings
 
 To record an arcane spell in written form, a character uses complex notation that describes the magical forces involved in the spell. The writer uses the same system no matter what her native language or culture. However, each character uses the system in his own way. Another person’s magical writing remains incomprehensible to even the most powerful wizard until he takes time to study and decipher it.
 
-To decipher an arcane magical writing (such as a single spell in another’s spellbook or on a scroll), a character must make a Spellcraft check (DC 20 + the spell’s level). If the skill check fails, the character cannot attempt to read that particular spell again until the next day. A *read magic* spell automatically deciphers magical writing without a skill check. If the person who created the magical writing is on hand to help the reader, success is also automatic.
+To decipher an arcane magical writing (such as a single spell in another’s spellbook or on a scroll), a character must make a Spellcraft check (DC 20 + the spell’s level). If the skill check fails, the character cannot attempt to read that particular spell again until the next day. A [*read magic*](spells/read-magic.md) spell automatically deciphers magical writing without a skill check. If the person who created the magical writing is on hand to help the reader, success is also automatic.
 
 Once a character deciphers a particular piece of magical writing, he does not need to decipher it again. Deciphering magical writing allows the reader to identify the spell and gives some idea of its effects (as explained in the spell description). If the magical writing is a scroll and the reader can cast arcane spells, he can attempt to use the scroll.
 

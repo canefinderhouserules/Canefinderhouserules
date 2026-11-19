@@ -1060,7 +1060,7 @@ A kineticist can select one of the following wild talents at each even level, pr
 
 **Prerequisites** emptiness
 
-You are always under the effect of [*nondetection*](../../magic/spells/nondetection.md) as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action (1 AP). You can accept 1 point of burn to grant a creature touched the effects of *nondetection*.
+You are always under the effect of [*nondetection*](../../magic/spells/nondetection.md) as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action (1 AP). You can accept 1 point of burn to grant a creature touched the effects of [*nondetection*](../../magic/spells/nondetection.md).
 
 ### Aerial Adaptation
 
@@ -1212,7 +1212,7 @@ You encase yourself or a willing target in an icy sheen, placing the target in a
 
 **Prerequisites** emptiness
 
-The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action (1 AP) to attempt a caster level check to remove a curse on yourself or another as per [*remove curse*](../../magic/spells/remove-curse.md). If the curse normally could not be removed by *remove curse*, you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
+The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action (1 AP) to attempt a caster level check to remove a curse on yourself or another as per [*remove curse*](../../magic/spells/remove-curse.md). If the curse normally could not be removed by [*remove curse*](../../magic/spells/remove-curse.md), you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
 
 ### Earth Climb
 
@@ -1446,7 +1446,7 @@ If you have the kinetic healer utility wild talent, you can use both kinetic res
 
 **Prerequisite** kinetic healer
 
-You can bring an ally who died within 1 round back from the dead with your kinetic healer wild talent similarly to the [*breath of life*](../../magic/spells/breath-of-life.md) spell, except the ally regains the normal number of hit points from the kinetic healer utility wild talent instead of the amount healed by *breath of life*. An ally revived in this way takes 1 point of burn + any points of burn from the kinetic healer utility wild talent (if you choose to have the ally take points of burn instead of taking it yourself).
+You can bring an ally who died within 1 round back from the dead with your kinetic healer wild talent similarly to the [*breath of life*](../../magic/spells/breath-of-life.md) spell, except the ally regains the normal number of hit points from the kinetic healer utility wild talent instead of the amount healed by [*breath of life*](../../magic/spells/breath-of-life.md). An ally revived in this way takes 1 point of burn + any points of burn from the kinetic healer utility wild talent (if you choose to have the ally take points of burn instead of taking it yourself).
 
 If you have the metahealer ability (such as from the kinetic chirurgeon kineticist archetype), this talent instead allows you to bring an ally back who died within a number of rounds equal to 3 + the ally’s Constitution modifier (minimum 0) – the number of points of burn the ally had taken before it died. For each round that the ally was dead, when it is brought back to life in this way, it takes 1 additional point of burn + any points of burn from the kinetic healer talent.
 
@@ -1600,7 +1600,7 @@ By delving into study of the Ethereal and Elemental Planes, you are able to use 
 
 **Prerequisites** air cushion or air's leap, wings of air
 
-By accepting 1 point of burn, you can enable your allies to fly, as *mass fly*, except the duration of the effect is 10 minutes.
+By accepting 1 point of burn, you can enable your allies to fly, as [*mass fly*](../../magic/spells/fly-mass.md), except the duration of the effect is 10 minutes.
 
 ### Slick
 

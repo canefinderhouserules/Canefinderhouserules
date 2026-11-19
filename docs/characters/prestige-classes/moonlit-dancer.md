@@ -113,7 +113,7 @@ At 7th level, a moonlit dancer can use his moonlit performance to attempt to end
 
 ??? note "Original rule"
 
-    **Exorcist's Waltz (Su)**: At 7th level, a moonlit dancer can use his moonlit performance to attempt to end an ongoing compulsion or possession effect. Using this ability requires 4 rounds of consecutive performance, and the target must be able to see the dancer perform and be within 30 feet. If the target is possessed, the target gains a new saving throw to end the possession effect; otherwise, this functions as *break enchantment*, using the moonlit dancer's caster level for the effect. Any possessing entity cast out in this manner cannot attempt to possess that target again for 24 hours.
+    **Exorcist's Waltz (Su)**: At 7th level, a moonlit dancer can use his moonlit performance to attempt to end an ongoing compulsion or possession effect. Using this ability requires 4 rounds of consecutive performance, and the target must be able to see the dancer perform and be within 30 feet. If the target is possessed, the target gains a new saving throw to end the possession effect; otherwise, this functions as [*break enchantment*](../../magic/spells/break-enchantment.md), using the moonlit dancer's caster level for the effect. Any possessing entity cast out in this manner cannot attempt to possess that target again for 24 hours.
 
 #### True Spark's Guidance (Su)
 

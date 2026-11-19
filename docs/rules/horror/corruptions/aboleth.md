@@ -34,7 +34,7 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 6th.
 
-**Gift**: You gain the ability to use *hidden presence* as a quickened spell-like ability once per day. You can use this ability twice per day at corruption stage 2, and up to three times a day at corruption stage 3.
+**Gift**: You gain the ability to use [*hidden presence*](../../../magic/spells/hidden-presence.md) as a quickened spell-like ability once per day. You can use this ability twice per day at corruption stage 2, and up to three times a day at corruption stage 3.
 
 **Stain**: People find you creepy but can't explain why. Living creatures gain a +4 morale bonus on Perception and Sense Motive checks to notice you or to see through your Bluff checks.
 
@@ -42,7 +42,7 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 5th.
 
-**Gift**: Once per day, you can manifest an illusion via either *audiovisual hallucination* or *hallucinatory terrain*. At manifestation level 7th, you can also choose to create your illusion via *mirage arcana* or *persistent image*. At manifestation level 9th, you can choose *programmed image* or *veil*. Regardless of your options, you can only create one illusion per day via this ability. The save DC for these illusions is equal to 10 + your manifestation level + the spell's level.
+**Gift**: Once per day, you can manifest an illusion via either [*audiovisual hallucination*](../../../magic/spells/audiovisual-hallucination.md) or [*hallucinatory terrain*](../../../magic/spells/hallucinatory-terrain.md). At manifestation level 7th, you can also choose to create your illusion via [*mirage arcana*](../../../magic/spells/mirage-arcana.md) or [*persistent image*](../../../magic/spells/persistent-image.md). At manifestation level 9th, you can choose [*programmed image*](../../../magic/spells/programmed-image.md) or [*veil*](../../../magic/spells/veil.md). Regardless of your options, you can only create one illusion per day via this ability. The save DC for these illusions is equal to 10 + your manifestation level + the spell's level.
 
 **Stain**: You cannot discuss your aboleth corruption with anyone, whether verbally or by other means, unless you succeed at a Will saving throw. You can attempt this saving throw once per day. Aboleths and their kin are immune to your illusions.
 
@@ -50,7 +50,7 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 3rd.
 
-**Gift**: With 10 minutes of concentration, your flesh takes on a new arrangement, as per *alter self*. At manifestation level 5th, you can use this ability to assume the shape of a specific individual. At manifestation level 7th, this ability also functions as *monstrous physique I*.
+**Gift**: With 10 minutes of concentration, your flesh takes on a new arrangement, as per [*alter self*](../../../magic/spells/alter-self.md). At manifestation level 5th, you can use this ability to assume the shape of a specific individual. At manifestation level 7th, this ability also functions as [*monstrous physique I*](../../../magic/spells/monstrous-physique-i.md).
 
 **Stain**: The process of shifting your flesh is painful, and you are sickened while concentrating on making the change and for 10 minutes afterward.
 
@@ -58,7 +58,7 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: You can hear the thoughts of others when you listen closely. Whenever you succeed at a Sense Motive check to get a hunch about a creature, you can attempt to read that creature's mind as if using *detect anxieties*, *detect desires*, *detect thoughts*, or *sense madness* as a standard action (1 AP) (revealing all the information from 3 rounds of concentration). At manifestation level 6th, you can communicate telepathically with anyone within 30 feet who shares a language with you.
+**Gift**: You can hear the thoughts of others when you listen closely. Whenever you succeed at a Sense Motive check to get a hunch about a creature, you can attempt to read that creature's mind as if using [*detect anxieties*](../../../magic/spells/detect-anxieties.md), [*detect desires*](../../../magic/spells/detect-desires.md), [*detect thoughts*](../../../magic/spells/detect-thoughts.md), or [*sense madness*](../../../magic/spells/sense-madness.md) as a standard action (1 AP) (revealing all the information from 3 rounds of concentration). At manifestation level 6th, you can communicate telepathically with anyone within 30 feet who shares a language with you.
 
 **Stain**: The constant psychic noise makes it hard for you to stay focused. For 1 hour after you learn information about a creature with any divination spell or effect (including this manifestation), you take a –4 penalty on concentration and Knowledge checks.
 
@@ -66,9 +66,9 @@ The following are manifestations of the aboleth corruption.
 
 **Prerequisite**: Manifestation level 3rd.
 
-**Gift**: Once per day, when you succeed at a Bluff, Diplomacy, or Intimidate check against a target, you can weave a *suggestion*, as per the spell, into your conversation as a full-round action (3 AP). At manifestation level 5th, you can instead use *modify memory*. At manifestation level 9th, you can instead use *dominate person*.
+**Gift**: Once per day, when you succeed at a Bluff, Diplomacy, or Intimidate check against a target, you can weave a [*suggestion*](../../../magic/spells/suggestion.md), as per the spell, into your conversation as a full-round action (3 AP). At manifestation level 5th, you can instead use [*modify memory*](../../../magic/spells/modify-memory.md). At manifestation level 9th, you can instead use [*dominate person*](../../../magic/spells/dominate-person.md).
 
-**Stain**: Aboleths and their kin can read your surface thoughts by concentrating; a successful Will saving throw negates this intrusion. An aboleth or related creature can issue a *suggestion* once per day at any range to anyone whose actions are currently controlled by your mind-affecting effects, automatically overriding your control if the orders conflict.
+**Stain**: Aboleths and their kin can read your surface thoughts by concentrating; a successful Will saving throw negates this intrusion. An aboleth or related creature can issue a [*suggestion*](../../../magic/spells/suggestion.md) once per day at any range to anyone whose actions are currently controlled by your mind-affecting effects, automatically overriding your control if the orders conflict.
 
 ### Unconscious Agenda
 

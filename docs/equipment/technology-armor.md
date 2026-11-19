@@ -51,7 +51,7 @@ A diving suit’s hands and feet can activate webbing, long fins, and flippers, 
 
 **Price** 40,000 gp; **Type** light; **Weight** 5 lbs.; **AC** see text; **Max Dex** +8; **Armor Check Penalty** 0; **Arcane Spell Failure** 5%; **Speed** 30 ft. (30 ft.), 20 ft. (20 ft.); **Capacity** 24; **Usage** 1 charge/hour
 
-A gravity suit consists of several black, flexible straps attached to a framework of delicate servos, thin plates, and small strips of black polymer plastic—this gives it an appearance of being ineffective armor. The armor bonus provided by an unpowered gravity suit is +0, but when activated, the suit generates a field of gravitons around the wearer that grants a +5 armor bonus (this bonus is a force effect). This bonus is doubled when it applies to the wearer’s CMD score against bull rush, overrun, and trip attempts, and slows any fall as if the wearer were under the effect of a *feather fall* spell.
+A gravity suit consists of several black, flexible straps attached to a framework of delicate servos, thin plates, and small strips of black polymer plastic—this gives it an appearance of being ineffective armor. The armor bonus provided by an unpowered gravity suit is +0, but when activated, the suit generates a field of gravitons around the wearer that grants a +5 armor bonus (this bonus is a force effect). This bonus is doubled when it applies to the wearer’s CMD score against bull rush, overrun, and trip attempts, and slows any fall as if the wearer were under the effect of a [*feather fall*](../magic/spells/feather-fall.md) spell.
 
 At the cost of 1 additional charge per minute, the wearer of a gravity suit can fly at a speed of 60 ft. (average). Activating this ability is a standard action (1 AP).
 

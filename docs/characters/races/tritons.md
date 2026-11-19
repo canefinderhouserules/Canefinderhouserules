@@ -22,7 +22,7 @@ Tritons are unusual characters and should be played only with the GM's permissio
 
 **Swim Speed**: Tritons have a swim speed of 40 feet.
 
-**Spell-Like Ability**: Tritons can cast *summon nature's ally II* once per day to summon either a Small water elemental or 1d3 dolphins only.
+**Spell-Like Ability**: Tritons can cast [*summon nature's ally II*](../../magic/spells/summon-natures-ally-ii.md) once per day to summon either a Small water elemental or 1d3 dolphins only.
 
 **Languages**: Tritons begin play speaking Aquan and Common. Tritons with a high Intelligence score can choose from the following: Aboleth, Aklo, Celestial, Draconic, Elven, Gnome, and Sylvan.
 

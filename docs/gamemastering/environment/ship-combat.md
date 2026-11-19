@@ -4,7 +4,7 @@ A quick and easy set of rules for resolving ship-to-ship combat, or a battle bet
 
 ## Aquatic Adaptation
 
-The Core Rulebook underwater combat rules apply to creatures not native to the environment. For extended aquatic adventures or deep explorations, PCs will need magic: *water breathing* to breathe, *endure elements* for temperature, and effects such as *freedom of movement* to avoid pressure damage. Polymorph spells are particularly useful if the form assumed is aquatic.
+The Core Rulebook underwater combat rules apply to creatures not native to the environment. For extended aquatic adventures or deep explorations, PCs will need magic: [*water breathing*](../../magic/spells/water-breathing.md) to breathe, [*endure elements*](../../magic/spells/endure-elements.md) for temperature, and effects such as [*freedom of movement*](../../magic/spells/freedom-of-movement.md) to avoid pressure damage. Polymorph spells are particularly useful if the form assumed is aquatic.
 
 **Natural Adaptation**: Any creature with the aquatic subtype can breathe water easily and is unaffected by water temperature extremes in its typical environment. Aquatic creatures and creatures with the hold breath ability are much more resistant to pressure damage; they take none unless moved instantaneously from one depth to another, in which case they adapt after making five successive Fortitude saves against the pressure effects.
 
@@ -20,7 +20,7 @@ The Core Rulebook underwater combat rules apply to creatures not native to the e
 
 ## Sinking
 
-A ship gains the sinking condition if its hit points are reduced to 0 or fewer. A sinking ship cannot move or attack, and sinks completely 10 rounds after it gains the condition. Each hit on a sinking ship that inflicts damage reduces the remaining time to sink by 1 round per 25 points of damage. Magic (such as *make whole*) can repair a sinking ship if its hit points are raised above 0, at which point it loses the condition. Generally, nonmagical repairs take too long to save a ship once it begins to go down.
+A ship gains the sinking condition if its hit points are reduced to 0 or fewer. A sinking ship cannot move or attack, and sinks completely 10 rounds after it gains the condition. Each hit on a sinking ship that inflicts damage reduces the remaining time to sink by 1 round per 25 points of damage. Magic (such as [*make whole*](../../magic/spells/make-whole.md)) can repair a sinking ship if its hit points are raised above 0, at which point it loses the condition. Generally, nonmagical repairs take too long to save a ship once it begins to go down.
 
 ## Ship Statistics
 

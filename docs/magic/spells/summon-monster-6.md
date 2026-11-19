@@ -20,4 +20,4 @@ This spell functions like [*summon monster I*](summon-monster-i.md), except that
     **Duration** 1 round/level (D)  
     **Saving Throw** none; **Spell Resistance** no
 
-    This spell functions like *summon monster I*, except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
+    This spell functions like [*summon monster I*](summon-monster-i.md), except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list.

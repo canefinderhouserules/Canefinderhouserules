@@ -101,7 +101,7 @@ As a demoniac gains levels, she gains boons from her demonic patron as her body 
 
 #### Summon Demon (Sp)
 
-Once per day at 4th level, a demoniac can cast *summon monster VI* to conjure one succubus, 1d3 babaus, or 1d4+1 brimoraks to serve her. At 8th level, the demoniac also gains the ability to cast *summon monster VIII* once per day to conjure one hezrou, 1d3 vrocks, or 1d4+1 succubi to serve her.
+Once per day at 4th level, a demoniac can cast [*summon monster VI*](../../magic/spells/summon-monster-vi.md) to conjure one succubus, 1d3 babaus, or 1d4+1 brimoraks to serve her. At 8th level, the demoniac also gains the ability to cast [*summon monster VIII*](../../magic/spells/summon-monster-viii.md) once per day to conjure one hezrou, 1d3 vrocks, or 1d4+1 succubi to serve her.
 
 #### Demonic Form (Su)
 

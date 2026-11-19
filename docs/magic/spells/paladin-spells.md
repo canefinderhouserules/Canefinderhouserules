@@ -10,7 +10,7 @@
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
 - **[Blessed Fist](blessed-fist.md)**: Target doesn’t provoke attacks of opportunity with unarmed strikes.
-- **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
+- **[Blessing of the Watch](blessing-of-the-watch.md)**: [*Bless*](bless.md) that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
@@ -75,7 +75,7 @@
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
-- **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
+- **[Truthtelling](truthtelling.md)**: As [*zone of truth*](zone-of-truth.md), but on one touched creature, who briefly looks like a being of perfect order.
 - **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
 - **[Veil of Heaven](veil-of-heaven.md)**: You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you.
@@ -169,13 +169,13 @@
 - **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
-- **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
+- **[Heal Mount](heal-mount.md)**: As [*heal*](heal.md) on horse or other special mount.
 - **[Life Current](life-current.md)**: You infuse the current with positive energy.
 - **[Litany of Admonition](litany-of-admonition.md)**: Stagger a creature by pointing out its failures.
 - **[Litany of Dependability](litany-of-dependability.md)**: A creature takes the average result on its next roll.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
-- **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)**: As [*protection from chaos*](protection-from-chaos.md), but 10-ft. radius and 10 min./level.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Mantle of Calm](mantle-of-calm.md)**: You surround yourself with a mantle of calm serenity.
 - **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.

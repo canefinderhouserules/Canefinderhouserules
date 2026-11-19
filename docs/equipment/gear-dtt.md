@@ -31,11 +31,11 @@ After burning for 1 minute, the alchemical candle releases the chosen alchemical
 
 Alchemical pheromones are clear, odorless liquids that typically come in glass vials. They combine the natural scent of one particular kind of animal, humanoid, or magical beast (such as wolves, humans, or unicorns) with alchemical reagents that enhance and refine that scent, making it potent enough to modify a creature's behavior. If smeared on a surface or thrown as a splash weapon, the scent of an alchemical pheromone quickly fills a 5-foot-radius area. On entering that area, any creature of the chosen kind becomes affected by the pheromones for 1 minute unless it succeeds at a DC 14 Will save. All alchemical pheromones are mind-affecting effects, but swarms (as well as any other collection of creatures that acts as a single creature) are not immune to them. Creatures that don't need to breathe are immune to alchemical pheromones, while creatures with the scent ability take a –4 penalty on saving throws against them. Each type of alchemical pheromones can be created with a successful DC 20 Craft (alchemy) check, and the type of animal, humanoid, or magical beast the pheromones affect must be decided on creation. The most common types of alchemical pheromones are listed below along with their costs; other, more specialized types of alchemical pheromones also exist.
 
-**Aggression (1,400 gp)**: Affected creatures are driven into a mindless frenzy, as if affected by simultaneous *confusion* and *rage* spells.
+**Aggression (1,400 gp)**: Affected creatures are driven into a mindless frenzy, as if affected by simultaneous [*confusion*](../magic/spells/confusion.md) and [*rage*](../magic/spells/rage.md) spells.
 
 **Arousal (150 gp)**: Affected creatures are aroused and distracted, causing them to lose their Dexterity bonus to AC.
 
-**Susceptibility (300 gp)**: Affected creatures are forced to obey one specific command, as if affected by a *suggestion* spell. The command is chosen when the pheromone is created.
+**Susceptibility (300 gp)**: Affected creatures are forced to obey one specific command, as if affected by a [*suggestion*](../magic/spells/suggestion.md) spell. The command is chosen when the pheromone is created.
 
 ## Angry Jack
 

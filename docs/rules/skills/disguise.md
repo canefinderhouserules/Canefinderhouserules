@@ -37,12 +37,12 @@ If you are impersonating a particular individual, those who know what that perso
 
 An individual makes a Perception check to see through your disguise immediately upon meeting you and again every hour thereafter. If you casually meet a large number of different creatures, each for a short time, check once per day or hour, using an average Perception modifier for the group.
 
-**Action**: Creating a disguise requires 1d3 × 10 minutes of work. Using magic (such as the *disguise self* spell) reduces this action to the time required to cast the spell or trigger the effect.
+**Action**: Creating a disguise requires 1d3 × 10 minutes of work. Using magic (such as the [*disguise self*](../../magic/spells/disguise-self.md) spell) reduces this action to the time required to cast the spell or trigger the effect.
 
 **Try Again**: Yes. You may try to redo a failed disguise, but once others know that a disguise was attempted, they’ll be more suspicious.
 
-**Special**: Magic that alters your form, such as *alter* *self, disguise self, polymorph*, or *shapechange,* grants you a +10 bonus on Disguise checks (see the individual spell descriptions). Divination magic that allows people to see through illusions (such as *true seeing*) does not penetrate a mundane disguise, but it can negate the magical component of a magically enhanced one.
+**Special**: Magic that alters your form, such as *alter* *self, disguise self, polymorph*, or *shapechange,* grants you a +10 bonus on Disguise checks (see the individual spell descriptions). Divination magic that allows people to see through illusions (such as [*true seeing*](../../magic/spells/true-seeing.md)) does not penetrate a mundane disguise, but it can negate the magical component of a magically enhanced one.
 
-You must make a Disguise check when you cast a *simulacrum* spell to determine how good the likeness is.
+You must make a Disguise check when you cast a [*simulacrum*](../../magic/spells/simulacrum.md) spell to determine how good the likeness is.
 
 If you have the Deceitful feat, you gain a bonus on Disguise checks.

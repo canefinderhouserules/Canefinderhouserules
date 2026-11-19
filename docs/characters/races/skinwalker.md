@@ -292,7 +292,7 @@ These skinwalkers are known for their fiery tempers and stubborn streaks, featur
 
 **Alternate Skill Modifiers** Handle Animal, Perception
 
-**Alternate Spell-Like Ability** *speak with animals* (pigs and boars only) 3/day
+**Alternate Spell-Like Ability** [*speak with animals*](../../magic/spells/speak-with-animals.md) (pigs and boars only) 3/day
 
 **Bestial Features** +10 foot racial bonus to base speedGore attack that deals 1d6 points of damage2 hoof attacks that each deal 1d4 points of damageScent to a range of 30 feet
 
@@ -330,7 +330,7 @@ These creatures, who are among the more common of the skinwalkers, prefer to dwe
 
 **Alternate Skill Modifiers** Handle Animal, Stealth in urban environments
 
-**Alternate Spell-Like Ability** *speak with animals* (rodents only) 3/day
+**Alternate Spell-Like Ability** [*speak with animals*](../../magic/spells/speak-with-animals.md) (rodents only) 3/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damageClimb speed of 30 feetDistraction (except with only one chosen natural attack per round, and sickens instead of nauseates).Scent to a range of 30 feet
 

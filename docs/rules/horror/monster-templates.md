@@ -294,7 +294,7 @@ A trompe l’oeil is created from a masterwork painting of the base creature, wi
 | Colossal | 8,000 gp |
 
 **Trompe l’Oeil** — CL varies (equal to the trompe l’oeil’s HD); Price varies (100 gp per HD plus cost of painting)  
-**Requirements** Craft Construct, *animate objects*, *enter image*; **Skill** Craft (painting); **Cost** 500 gp per HD plus cost of painting
+**Requirements** Craft Construct, [*animate objects*](../../magic/spells/animate-objects.md), [*enter image*](../../magic/spells/enter-image.md); **Skill** Craft (painting); **Cost** 500 gp per HD plus cost of painting
 
 ## Unknown
 
@@ -465,4 +465,4 @@ Construction: Add produce flame as a spell requirement. Add 1,000 gp to the pric
 ### Construction
 
 **Waxwork Creature** — CL varies (equal to the waxwork creature’s HD); Price 1,000 gp per HD plus cost of wax  
-**Requirements** Craft Construct, *animate objects*, *make whole*; **Skill** Craft (sculpture); **Cost** 500 gp per HD plus cost of wax
+**Requirements** Craft Construct, [*animate objects*](../../magic/spells/animate-objects.md), [*make whole*](../../magic/spells/make-whole.md); **Skill** Craft (sculpture); **Cost** 500 gp per HD plus cost of wax

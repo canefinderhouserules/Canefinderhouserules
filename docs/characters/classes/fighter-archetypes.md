@@ -575,7 +575,7 @@ Perfectly at home in the darkness, the cavern sniper capitalizes on stealth and 
 
 **Sniper Training (Ex)**: At 5th level, the cavern sniper chooses the bow or crossbow weapon group and gains a +2 bonus on attack rolls and damage rolls. This bonus increases by +1 for every four levels beyond 5th. This ability replaces weapon training 1, 3, and 4.
 
-**Greater Imbued Shot (Su)**: At 9th level, the cavern sniper gains two extra uses of both his *faerie fire* and *darkness* spell-like abilities, but can only use these extra uses to imbue arrows and bolts with the imbued shot class feature. This ability replaces weapon training 2.
+**Greater Imbued Shot (Su)**: At 9th level, the cavern sniper gains two extra uses of both his [*faerie fire*](../../magic/spells/faerie-fire.md) and [*darkness*](../../magic/spells/darkness.md) spell-like abilities, but can only use these extra uses to imbue arrows and bolts with the imbued shot class feature. This ability replaces weapon training 2.
 
 **Weapon Mastery (Ex)**: At 20th level, when the cavern sniper gains weapon mastery, he must choose a weapon in either the bow or crossbow weapon group.
 

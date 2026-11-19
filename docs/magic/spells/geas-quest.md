@@ -3,6 +3,7 @@
 **School** enchantment (compulsion) [language-dependent, mind- affecting]; **Level** bard 6, cleric 6, inquisitor 5, mesmerist 6, psychic 6, sorcerer/wizard 6, witch 6  
 **Casting Time** 10 minutes  
 **Components** V  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  
 **Duration** 1 day/level or until discharged (D)  
 **Saving Throw** none; **Spell Resistance** yes
@@ -11,6 +12,6 @@ This spell functions similarly to *lesser geas,* except that it affects a creatu
 
 If the subject is prevented from obeying the *geas/quest* for 24 hours, it takes a –3 penalty to each of its ability scores. Each day, another –3 penalty accumulates, up to a total of –12. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the *geas/quest.*
 
-A [*remove curse*](remove-curse.md) spell ends a *geas/quest* spell only if its caster level is at least two higher than your caster level. *Break enchantment* does not end a *geas/quest*, but [*limited wish*](limited-wish.md), [*miracle*](miracle.md), and [*wish*](wish.md) do.
+A [*remove curse*](remove-curse.md) spell ends a *geas/quest* spell only if its caster level is at least two higher than your caster level. [*Break enchantment*](break-enchantment.md) does not end a *geas/quest*, but [*limited wish*](limited-wish.md), [*miracle*](miracle.md), and [*wish*](wish.md) do.
 
 Bards, sorcerers, and wizards usually refer to this spell as *geas,* while clerics call the same spell *quest*.

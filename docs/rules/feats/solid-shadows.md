@@ -6,7 +6,7 @@ Your shadowy illusions are more potent.
 
 **Prerequisites**: Spell Focus (illusion).
 
-**Benefit**: When casting *greater shadow conjuration*, *greater shadow evocation*, [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), or [*shadow evocation*](../../magic/spells/shadow-evocation.md) (and, at the GM's discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real than normal.
+**Benefit**: When casting [*greater shadow conjuration*](../../magic/spells/shadow-conjuration-greater.md), [*greater shadow evocation*](../../magic/spells/shadow-evocation-greater.md), [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), or [*shadow evocation*](../../magic/spells/shadow-evocation.md) (and, at the GM's discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real than normal.
 
 **Level Increase**: +1
 
@@ -20,4 +20,4 @@ Your shadowy illusions are more potent.
 
     **Prerequisites**: Spell Focus (illusion).
 
-    **Benefit**: When casting *greater shadow conjuration*, *greater shadow evocation*, *shadow conjuration*, or *shadow evocation* (and, at the GM's discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real than normal. A solid shadows spell takes up a spell slot 1 level higher than the spell's actual level.
+    **Benefit**: When casting [*greater shadow conjuration*](../../magic/spells/shadow-conjuration-greater.md), [*greater shadow evocation*](../../magic/spells/shadow-evocation-greater.md), [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), or [*shadow evocation*](../../magic/spells/shadow-evocation.md) (and, at the GM's discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real than normal. A solid shadows spell takes up a spell slot 1 level higher than the spell's actual level.

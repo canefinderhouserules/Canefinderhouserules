@@ -11,4 +11,4 @@ Upon command, a *corrosive* weapon becomes slick with acid that deals an extra 1
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *acid arrow*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*acid arrow*](../../magic/spells/acid-arrow.md); **Price** —

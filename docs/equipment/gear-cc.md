@@ -18,7 +18,7 @@ The following new types of poisons are popular concoctions among the unscrupulou
 
 *Type* poison, ingested; *Save* Fortitude DC 16  
 *Frequency* 1/day for 5 days  
-*Effect* cannot voluntarily rest or sleep (spells such as *sleep* still function as normal), preventing spellcasters who need to rest to regain or prepare spells from doing so; *Cure* 2 saves
+*Effect* cannot voluntarily rest or sleep (spells such as [*sleep*](../magic/spells/sleep.md) still function as normal), preventing spellcasters who need to rest to regain or prepare spells from doing so; *Cure* 2 saves
 
 ### Peasant’s Woe
 

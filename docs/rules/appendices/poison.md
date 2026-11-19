@@ -1,6 +1,6 @@
 # Poison
 
-No other affliction is so prevalent as poison. From the fangs of a viper to the ichor-stained assassin’s blade, poison is a constant threat. Poisons can be cured by successful saving throws and spells such as *neutralize poison*.
+No other affliction is so prevalent as poison. From the fangs of a viper to the ichor-stained assassin’s blade, poison is a constant threat. Poisons can be cured by successful saving throws and spells such as [*neutralize poison*](../../magic/spells/neutralize-poison.md).
 
 **Contact** poisons are contracted the moment someone touches the poison with his bare skin. Such poisons can be used as injury poisons. Contact poisons usually have an onset time of 1 minute and a frequency of 1 minute.
 
@@ -173,7 +173,7 @@ This mixture is a favorite of pranksters, who use the colonic concoction for any
 
 **Type** poison, inhaled; **Save** Fortitude DC 18  
 **Frequency** 1/minute for 2 minutes  
-**Initial Effect** staggered for 1 minute; **Secondary Effect** If already staggered, stunned, or unconscious, the victim becomes highly suggestible. If an event (whether true or false) is described to him, he unconsciously fabricates a detailed memory of the event, filling in any gaps in the description with his own best guesses. The confabulated memory can be disbelieved with a successful DC 18 Will save the first time it is recalled, but if the save fails, the victim treats it as completely genuine thereafter. All confabulated memories can be removed with a *restoration* or *heal* spell; **Cure** 1 save
+**Initial Effect** staggered for 1 minute; **Secondary Effect** If already staggered, stunned, or unconscious, the victim becomes highly suggestible. If an event (whether true or false) is described to him, he unconsciously fabricates a detailed memory of the event, filling in any gaps in the description with his own best guesses. The confabulated memory can be disbelieved with a successful DC 18 Will save the first time it is recalled, but if the save fails, the victim treats it as completely genuine thereafter. All confabulated memories can be removed with a [*restoration*](../../magic/spells/restoration.md) or [*heal*](../../magic/spells/heal.md) spell; **Cure** 1 save
 
 **Recipe** (20 quicksilver + 15 mindcap spores)/digestion; **Craft DC** 18; **Time** 1 day; **Tools** heat source; **Type** poison
 
@@ -404,7 +404,7 @@ This fine powder absorbs the oxygen from the lungs of any creature that breathes
 
 **Type** poison, ingested; **Save** Fortitude DC 18  
 **Frequency** 1/hour for 8 hours  
-**Effect** The victim loses all memory of events that took place in the previous hour and can't form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a *restoration* or *heal* spell; **Cure** 2 saves
+**Effect** The victim loses all memory of events that took place in the previous hour and can't form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a [*restoration*](../../magic/spells/restoration.md) or [*heal*](../../magic/spells/heal.md) spell; **Cure** 2 saves
 
 **Recipe** (115 realgar + 115 mindcap spores)/calcination; **Craft DC** 18; **Time** 1 hour; **Tools** crucible; **Type** poison
 
@@ -482,7 +482,7 @@ Used by cults of destruction to foment unrest, this toxin causes muscle tremors 
 **Onset** —; **Frequency** 1/minute for 6 minutes  
 **Effect** 1d3 Intelligence damage; see text; **Cure** 1 save
 
-Created by necromantic cults to simultaneously protect and bind newcomers and servants who have handled dangerous writings, scholarblight has long since become a preferred poison for those who target arcane spellcasters for assassination. Scholarblight causes headaches and impairs a victim's ability to form or recall memories through mild confusion and dysphoria. More drastically, victims who fail a saving throw against scholarblight lose their ability to read or write for 24 hours, as letters and symbols seem to twist, move, and reorient themselves. This prevents victims from using scrolls and spellbooks, but also protects an afflicted creature from any effect dependent on reading text, such as *explosive runes*.
+Created by necromantic cults to simultaneously protect and bind newcomers and servants who have handled dangerous writings, scholarblight has long since become a preferred poison for those who target arcane spellcasters for assassination. Scholarblight causes headaches and impairs a victim's ability to form or recall memories through mild confusion and dysphoria. More drastically, victims who fail a saving throw against scholarblight lose their ability to read or write for 24 hours, as letters and symbols seem to twist, move, and reorient themselves. This prevents victims from using scrolls and spellbooks, but also protects an afflicted creature from any effect dependent on reading text, such as [*explosive runes*](../../magic/spells/explosive-runes.md).
 
 ### Shadow Essence
 
@@ -582,7 +582,7 @@ Ulcer salt can easily be hidden in all foods and beverages, as it lacks color, o
 
 Developed by the spiderlike jorogumos, widow's kiss is distilled from the monsters' natural venom and infused with minuscule spider eggs. Creatures injected with the toxin experience headaches and cold sweats, after which the eggs begin to hatch and infest the host's bloodstream, slowly eating the body from within. If controlled or enticed, the swarm of spiders can take direct control of its host's body, rendering hosts susceptible to effects that control or influence vermin, including a jorogumo's spider empathy ability.
 
-The effects of widow's kiss can be removed by a combination of *cure disease* and *neutralize poison*. If a creature is slain by the poison's Constitution damage, a spider swarm erupts from the body 1d6 rounds later.
+The effects of widow's kiss can be removed by a combination of *cure disease* and [*neutralize poison*](../../magic/spells/neutralize-poison.md). If a creature is slain by the poison's Constitution damage, a spider swarm erupts from the body 1d6 rounds later.
 
 ### Wolfsbane
 

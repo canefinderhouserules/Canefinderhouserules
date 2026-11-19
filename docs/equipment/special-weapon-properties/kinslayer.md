@@ -11,4 +11,4 @@ A *kinslayer* weapon is enhanced with enmity against all those born into the wie
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *detect relations*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*detect relations*](../../magic/spells/detect-relations.md); **Price** —

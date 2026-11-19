@@ -257,7 +257,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Oathbound**: You have made a solemn oath, and you pursue that oath with headstrong determination. Once per day, you may reroll a saving throw against a charm or compulsion effect. You must take the second result even if it is worse.
 
-**Oathkeeper's Vow**: You were trained to make unbreakable vows. You add the following spells to the paladin spell list at the indicated levels: [*command*](../../magic/spells/command.md) (1st), [*forbid action*](../../magic/spells/forbid-action.md) (1st), [*suggestion*](../../magic/spells/suggestion.md) (to fulfill a prior promise only; 2nd), *lesser geas* (3rd), *geas/quest* (4th).
+**Oathkeeper's Vow**: You were trained to make unbreakable vows. You add the following spells to the paladin spell list at the indicated levels: [*command*](../../magic/spells/command.md) (1st), [*forbid action*](../../magic/spells/forbid-action.md) (1st), [*suggestion*](../../magic/spells/suggestion.md) (to fulfill a prior promise only; 2nd), [*lesser geas*](../../magic/spells/geas-lesser.md) (3rd), [*geas/quest*](../../magic/spells/geas-quest.md) (4th).
 
 **Omen**: You are the harbinger of some future event. Whether this event bodes good or ill, you exude an ominous presence. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. Once per day, you may attempt to demoralize an opponent as a swift action (1 AP).
 

@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *heartseeker* weapon
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *death knell*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*death knell*](../../magic/spells/death-knell.md); **Price** —

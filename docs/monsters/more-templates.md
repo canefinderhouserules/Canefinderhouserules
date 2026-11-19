@@ -46,7 +46,7 @@ Alebrijes travel through dreams, visiting creatures as they sleep in hopes of an
 
 **Melee**: An alebrije’s natural attacks grow mighty and fantastical. Increase the damage die of the base creature’s primary natural attacks by one step. An alebrije’s natural attacks are considered magical for the purposes of damage reduction.
 
-**Spell-like Abilities**: An alebrije gains the following spell-like abilities, using its Charisma modifier to determine any save DCs: 3/day—*dream*,* nightmare*; 1/day—* dream council*,* dream travel*,* mind thrust III*,* plane shift* (self plus 50 lbs. of objects only). The caster level equals the creature’s HD (or the caster level of the base creature’s spell-like abilities, whichever is higher).
+**Spell-like Abilities**: An alebrije gains the following spell-like abilities, using its Charisma modifier to determine any save DCs: 3/day—[*dream*](../magic/spells/dream.md),* nightmare*; 1/day—* dream council*,* dream travel*,* mind thrust III*,* plane shift* (self plus 50 lbs. of objects only). The caster level equals the creature’s HD (or the caster level of the base creature’s spell-like abilities, whichever is higher).
 
 **Ability Scores**: Str +4, Dex +6, Con +4, Int +4, Wis +6, Cha +4.
 
@@ -228,7 +228,7 @@ Commando constructs are elite fighting machines that often operate alone or in s
 
 **Construction**
 
-A commando construct’s materials cost an additional 10,000 gp above the base creature’s cost. The Craft check required to make the body has a DC 4 higher than normal for the base construct’s kind. The construct is animated using a special laboratory or workroom that costs 1,000 gp to establish. If the creator is personally constructing the creature’s body, the crafting and the ritual can be performed simultaneously. The creator must have a minimum caster level 1 higher than the base creature’s minimum required caster level. In addition, the following spells must be cast during the ritual: *bull’s strength*,* greater heroism*, and* limited wish*.
+A commando construct’s materials cost an additional 10,000 gp above the base creature’s cost. The Craft check required to make the body has a DC 4 higher than normal for the base construct’s kind. The construct is animated using a special laboratory or workroom that costs 1,000 gp to establish. If the creator is personally constructing the creature’s body, the crafting and the ritual can be performed simultaneously. The creator must have a minimum caster level 1 higher than the base creature’s minimum required caster level. In addition, the following spells must be cast during the ritual: [*bull’s strength*](../magic/spells/bulls-strength.md),* greater heroism*, and* limited wish*.
 
 ## Cytillesh Zombie
 
@@ -296,11 +296,11 @@ Countless variations of demonic vermin exist in the forbidding wasteland that is
 
 | **CR** | **Abilities** |
 |---|---|
-| 1–4 | *darkness* |
-| 5–8 | *vomit swarm* |
-| 9–12 | *insect plague* |
-| 13–16 | *greater teleport* (self plus 50 lbs. of objects only) |
-| 17–20 | *earthquake* |
+| 1–4 | [*darkness*](../magic/spells/darkness.md) |
+| 5–8 | [*vomit swarm*](../magic/spells/vomit-swarm.md) |
+| 9–12 | [*insect plague*](../magic/spells/insect-plague.md) |
+| 13–16 | [*greater teleport*](../magic/spells/teleport-greater.md) (self plus 50 lbs. of objects only) |
+| 17–20 | [*earthquake*](../magic/spells/earthquake.md) |
 
 **Abilities**: Str +4, Con +2. A demonic vermin’s Intelligence becomes 10 and its Charisma becomes 15 (unless the base creature has higher values, in which case they remain unchanged).
 
@@ -588,27 +588,27 @@ Infused with powerful psychic energy, enlightened constructs have access to stra
 
 | **HD** | **Spell** |
 |---|---|
-| 1-2 | *Mind thrust I* |
-| 3-4 | *Mind thrust II* |
-| 5-7 | *Mind thrust III* |
-| 8-10 | *Mind thrust IV* |
-| 11-15 | *Mind thrust V* |
-| 16-20 | *Mind thrust VI* |
+| 1-2 | [*Mind thrust I*](../magic/spells/mind-thrust-i.md) |
+| 3-4 | [*Mind thrust II*](../magic/spells/mind-thrust-ii.md) |
+| 5-7 | [*Mind thrust III*](../magic/spells/mind-thrust-iii.md) |
+| 8-10 | [*Mind thrust IV*](../magic/spells/mind-thrust-iv.md) |
+| 11-15 | [*Mind thrust V*](../magic/spells/mind-thrust-v.md) |
+| 16-20 | [*Mind thrust VI*](../magic/spells/mind-thrust-vi.md) |
 
 *Spell-Like Abilities (Sp)*: An enlightened construct gains a number of spell-like abilities set by its Hit Dice. It gains the spell-like abilities listed in the entry for its Hit Dice on the table below, as well as all listed spell-like abilities for prior entries. Unless otherwise noted, each ability is usable 1/day. The caster level for these abilities is equal to the enlightened construct’s Hit Dice (or the caster level of the base construct’s spell-like abilities, whichever is higher). The DC for a saving throw against the enlightened construct’s spell-like ability is equal to 10 + the spell’s level + the enlightened construct’s Intelligence modifier.
 
 | **HD** | **Spell-Like Abilities** |
 |---|---|
-| 1-2 | *Mindlink* 3/day |
-| 3-4 | *Mental block* |
-| 5-6 | *Mind probe* 3/day |
-| 7-8 | *Telekinesis* 3/day |
-| 9-10 | *Dimensional lock* 3/day |
-| 11-12 | *Dimension door* 3/day |
-| 13-14 | *Mass synesthesia* |
-| 15-16 | *Antimagic field* |
-| 17-18 | *Telekinetic storm* |
-| 19-20 | *Power word kill* |
+| 1-2 | [*Mindlink*](../magic/spells/mindlink.md) 3/day |
+| 3-4 | [*Mental block*](../magic/spells/mental-block.md) |
+| 5-6 | [*Mind probe*](../magic/spells/mind-probe.md) 3/day |
+| 7-8 | [*Telekinesis*](../magic/spells/telekinesis.md) 3/day |
+| 9-10 | [*Dimensional lock*](../magic/spells/dimensional-lock.md) 3/day |
+| 11-12 | [*Dimension door*](../magic/spells/dimension-door.md) 3/day |
+| 13-14 | [*Mass synesthesia*](../magic/spells/synesthesia-mass.md) |
+| 15-16 | [*Antimagic field*](../magic/spells/antimagic-field.md) |
+| 17-18 | [*Telekinetic storm*](../magic/spells/telekinetic-storm.md) |
+| 19-20 | [*Power word kill*](../magic/spells/power-word-kill.md) |
 
 **Ability Scores**: If the base creature had an Intelligence score of 9 or less, roll 2d6+4 to determine the enlightened construct’s new Intelligence score. If the base creature had an Intelligence score of 10 or greater, increase its Intelligence score by 6. Additionally, increase the enlightened construct’s Charisma score by 2d6.
 
@@ -626,7 +626,7 @@ Infused with powerful psychic energy, enlightened constructs have access to stra
 
 **Construction**
 
-An enlightened construct’s phrenic stone and materials cost an additional 60,000 gp above the base creature’s cost. The construct’s master can assemble the body or hire someone else to do the job. The DC of the Craft check required to create the body is 10 higher than normal for the base creature. After the body is created, the enlightened construct is animated through a magical ritual that requires a specially prepared laboratory or workroom that costs 1,000 gp to establish. The ritual takes 8 hours to complete. If the creator is personally constructing the construct’s body, the construction and the ritual can be performed simultaneously. The creator must have a minimum caster level 4 higher than the base construct’s minimum required caster level. In addition, the following spells must be cast during the ritual: *awaken construct*,* eagle’s splendor*,* greater possession*, and* wish*.
+An enlightened construct’s phrenic stone and materials cost an additional 60,000 gp above the base creature’s cost. The construct’s master can assemble the body or hire someone else to do the job. The DC of the Craft check required to create the body is 10 higher than normal for the base creature. After the body is created, the enlightened construct is animated through a magical ritual that requires a specially prepared laboratory or workroom that costs 1,000 gp to establish. The ritual takes 8 hours to complete. If the creator is personally constructing the construct’s body, the construction and the ritual can be performed simultaneously. The creator must have a minimum caster level 4 higher than the base construct’s minimum required caster level. In addition, the following spells must be cast during the ritual: [*awaken construct*](../magic/spells/awaken-construct.md),* eagle’s splendor*,* greater possession*, and* wish*.
 
 ## Eruphyte
 
@@ -726,12 +726,12 @@ For the purpose of calculating the save DCs and damage for her kineticist abilit
 
 | HD | Spell-Like Abilities |
 |---|---|
-| 1–3 | *charm person*,* faerie fire* |
-| 4–6 | *fly* (3/day), *tree shape* |
-| 7–9 | *charm monster*,* hallucinatory terrain* |
-| 10–13 | *polymorph* (3/day), *summon nature’s ally IV* |
-| 14–16 | *feeblemind*,* transport via plants* |
-| 17 or higher | *mass charm monster*,* summon nature’s ally VIII* |
+| 1–3 | [*charm person*](../magic/spells/charm-person.md),* faerie fire* |
+| 4–6 | [*fly*](../magic/spells/fly.md) (3/day), [*tree shape*](../magic/spells/tree-shape.md) |
+| 7–9 | [*charm monster*](../magic/spells/charm-monster.md),* hallucinatory terrain* |
+| 10–13 | [*polymorph*](../magic/spells/polymorph.md) (3/day), [*summon nature’s ally IV*](../magic/spells/summon-natures-ally-iv.md) |
+| 14–16 | [*feeblemind*](../magic/spells/feeblemind.md),* transport via plants* |
+| 17 or higher | [*mass charm monster*](../magic/spells/charm-monster-mass.md),* summon nature’s ally VIII* |
 
 **Abilities**: Dex +4, Int +10 (to a maximum score of 12), Wis +2, Cha +4.
 
@@ -749,7 +749,7 @@ For the purpose of calculating the save DCs and damage for her kineticist abilit
 
 Creatures with the fey realm template live on the fey realm, and can be summoned using spells such as *summon monster*,* summon nature’s ally*, and* planar ally*. A fey realm creature’s CR increases by 1 only if the base creature has 5 or more HIt Dice. A fey realm creature’s quick and rebuild rules are the same.
 
-**Rebuild Rules**: **Type** the creature counts as both its base type as well as fey for any effects related to type; **Senses** gains low-light vision; **Defensive Abilities** gains DR and energy resistance as noted on the table below, +4 bonus against mind-affecting effects; **SR** gains SR equal to new CR + 5; **Special** a fey realm creature killed while on the fey realm does not travel to the Boneyard, but simply reappears elsewhere in the fey realm 1d10 days later as if raised by resurrection, save that the negative level and Constitution drain from that spell cannot force it below 1st level or a Constitution score of 1. At the GM’s option, the creature may be reincarnated (as per *reincarnate*) instead.
+**Rebuild Rules**: **Type** the creature counts as both its base type as well as fey for any effects related to type; **Senses** gains low-light vision; **Defensive Abilities** gains DR and energy resistance as noted on the table below, +4 bonus against mind-affecting effects; **SR** gains SR equal to new CR + 5; **Special** a fey realm creature killed while on the fey realm does not travel to the Boneyard, but simply reappears elsewhere in the fey realm 1d10 days later as if raised by resurrection, save that the negative level and Constitution drain from that spell cannot force it below 1st level or a Constitution score of 1. At the GM’s option, the creature may be reincarnated (as per [*reincarnate*](../magic/spells/reincarnate.md)) instead.
 
 **fey realm Creature Defenses**
 
@@ -783,7 +783,7 @@ A fiend-infused golem is the same size and weight as an ordinary golem of its ty
 
 **Alignment**: Always neutral evil.
 
-**Defensive Abilities**: Fiend-infused golems gain fast healing 5 and immunity to fire. If the base creature already has damage reduction, it adds good to the qualities needed to bypass that reduction. If the base creature has the immunity to magic defensive ability, it adds susceptibility to *banishment* and* dismissal* (see the immunity to magic ability above).
+**Defensive Abilities**: Fiend-infused golems gain fast healing 5 and immunity to fire. If the base creature already has damage reduction, it adds good to the qualities needed to bypass that reduction. If the base creature has the immunity to magic defensive ability, it adds susceptibility to [*banishment*](../magic/spells/banishment.md) and* dismissal* (see the immunity to magic ability above).
 
 **Special Attacks**: A fiend-infused golem gains the berserk liberation special attack described above and loses any berserk special attack of the base creature. The amount of damage dealt when the fiend-infused golem goes berserk is equal to 1d6 × its CR (Reflex half; DC = 10 + 1/2 the golem’s Hit Dice + the golem’s Constitution modifier). A fiend-infused golem also gains the hellfire touch special attack described above.
 
@@ -795,7 +795,7 @@ A fiend-infused golem is the same size and weight as an ordinary golem of its ty
 
 **Languages**: A fiend-infused golem understands Abyssal and Infernal, but it cannot speak.
 
-**Construction**: A fiend-infused golem’s base materials cost an additional 25,000 gp above the base creature’s cost to account for the materials that are needed to bind the fiend within the golem. Add the spells *dimensional anchor*,* magic circle against evil*, and either* planar ally* or* planar binding* to the base creature’s requirements.
+**Construction**: A fiend-infused golem’s base materials cost an additional 25,000 gp above the base creature’s cost to account for the materials that are needed to bind the fiend within the golem. Add the spells [*dimensional anchor*](../magic/spells/dimensional-anchor.md),* magic circle against evil*, and either* planar ally* or* planar binding* to the base creature’s requirements.
 
 The DC of the Craft check required to make the fiend-infused golem’s body is 4 higher than the base creature’s construct skill DC, and the creator must have a minimum caster level 4 higher than the base creature’s minimum required caster level. The increase to the DC of the Craft check and to the caster level are halved (to 2 higher) if the creator possesses at least 10 ranks in Knowledge (planes).
 
@@ -948,11 +948,11 @@ Caster level equals the creature’s level, and the save DC is Charisma-based.
 
 | **Level** | **Abilities** |
 |---|---|
-| 1-2 | *Speak with animals* 3/day |
-| 3-6 | *Enlarge person* or* reduce person* 2/day in any combination |
-| 7-8 | *Invisibility* (self only) 3/day |
-| 9-14 | *Create food and water* 1/day |
-| 15-16 | *Ethereal jaunt* 1/day |
+| 1-2 | [*Speak with animals*](../magic/spells/speak-with-animals.md) 3/day |
+| 3-6 | [*Enlarge person*](../magic/spells/enlarge-person.md) or* reduce person* 2/day in any combination |
+| 7-8 | [*Invisibility*](../magic/spells/invisibility.md) (self only) 3/day |
+| 9-14 | [*Create food and water*](../magic/spells/create-food-and-water.md) 1/day |
+| 15-16 | [*Ethereal jaunt*](../magic/spells/ethereal-jaunt.md) 1/day |
 
 **Special Qualities**: A half-janni has all the special qualities of the base creature, plus the following special qualities.Darkvision out to 60 feetImmunity to diseaseFire resistance 10**Abilities**: Increase from the base creature as follows: Str +2, Dex +2, Int +2, Wis +4, Cha +4
 
@@ -1016,7 +1016,7 @@ Haunted ones are mortals who share their bodies with strange intelligences of su
 
 In essence, a haunted one is two creatures—a living host (almost always a humanoid with at least a modicum of intelligence) and its rider (the unbodied entity). The term “haunted one” specifically refers to the host as influenced by its rider.
 
-While all riders possess their own intelligence and have unique goals and motivations, they are similar enough to present them as related entities. Riders attempt to influence their hosts by disseminating cryptic ideas and motivations among the host’s own thoughts and memories. A rider’s methods of influencing its host are subtle yet effective, though ultimately it has no ability to override the host creature. It cannot take control of the host’s body, and throughout the “possession” the host retains its free will. Instead, the rider can strong-arm its host, much like when casting *geas/quest*—a host who fails to act upon the rider’s “requests” suffers increasingly adverse physical and mental ailments. These effects can, at their most potent, cause the host permanent damage or even death. Typically, the rider departs after its host perishes, though it is unclear whether the adverse effects are produced to attempt to further sway the host, or as a result of the rider choosing to depart because the host continually disregards its suggestions.
+While all riders possess their own intelligence and have unique goals and motivations, they are similar enough to present them as related entities. Riders attempt to influence their hosts by disseminating cryptic ideas and motivations among the host’s own thoughts and memories. A rider’s methods of influencing its host are subtle yet effective, though ultimately it has no ability to override the host creature. It cannot take control of the host’s body, and throughout the “possession” the host retains its free will. Instead, the rider can strong-arm its host, much like when casting [*geas/quest*](../magic/spells/geas-quest.md)—a host who fails to act upon the rider’s “requests” suffers increasingly adverse physical and mental ailments. These effects can, at their most potent, cause the host permanent damage or even death. Typically, the rider departs after its host perishes, though it is unclear whether the adverse effects are produced to attempt to further sway the host, or as a result of the rider choosing to depart because the host continually disregards its suggestions.
 
 Still, being a haunted one is not without some benefits. Haunted ones possess the uncanny ability to recall fantastic amounts of knowledge in areas of study previously unknown to them, often including information beyond the scope of the greatest scholars. Typically, this knowledge concerns something ancient and occult, forbidden things that most would find horrifying and maddening, which the host feels compelled to seek out and explore. Similarly, riders inherently sense the presence of others like themselves, and often use the host to track their rivals down. While these urges are not inherently beneficial, hosts who appease them begin to develop stronger connections with their riders. As a result, the rider becomes more efficient at transferring greater amounts of lost knowledge to the host.
 
@@ -1048,7 +1048,7 @@ The circumstances by which a creature can be exposed to an unbodied entity capab
 
 At any time, as a free action, a rider may choose to vacate its host—doing so immediately causes 3d6 points of Constitution and Intelligence drain to the host (DC 20 Fort halves). Once a haunted one’s rider departs, the base creature can never again be the host of a rider, and can thus never again become a haunted one.
 
-An *atonement* spell cast on a haunted one by a spellcaster of the same alignment that the host had before becoming a haunted one allows the host a new DC 15 Will save to expel the rider, if the haunted one so wishes. In this case, the host loses the template as if the rider had departed the host voluntarily, but does not suffer the ability drain effect.
+An [*atonement*](../magic/spells/atonement.md) spell cast on a haunted one by a spellcaster of the same alignment that the host had before becoming a haunted one allows the host a new DC 15 Will save to expel the rider, if the haunted one so wishes. In this case, the host loses the template as if the rider had departed the host voluntarily, but does not suffer the ability drain effect.
 
 ## Hell Engine
 
@@ -1070,7 +1070,7 @@ Although a hell engine lacks the creativity and cunning of a true devil, contrac
 
 **Senses**: A hell engine gains the see in darkness ability. In addition, the hell engine can see through the hellfire cloud created by its breath weapon without penalty, ignoring any cover or concealment bonuses it provides.
 
-**Defensive Abilities**: A hell engine gains fire resistance 30. If the base creature has immunity to magic, it gains the following change: *Dispel evil* or* dispel law* drives the hell engine back 30 feet and deals 2d12 points of damage to it (no save).**Weaknesses**: A hell engine gains the following weakness.
+**Defensive Abilities**: A hell engine gains fire resistance 30. If the base creature has immunity to magic, it gains the following change: [*Dispel evil*](../magic/spells/dispel-evil.md) or* dispel law* drives the hell engine back 30 feet and deals 2d12 points of damage to it (no save).**Weaknesses**: A hell engine gains the following weakness.
 
 *Contract Powered (Ex)*: A hell engine draws power from the infernal contract that animates it. A hell engine cannot attack the devil that drafted its contract, the mortal who signed it, or any creature holding an original copy of the contract. Spells cast by the devil that wrote the contract or its mortal signatory automatically bypass any spell resistance or immunity to magic the hell engine has. If both copies of the contract are destroyed, the hell engine ceases to function until a new one is created.
 
@@ -1113,7 +1113,7 @@ Scholars of the mind have many names for the part of the psyche that controls un
 
 An id mutant loses its identity almost entirely, changing into an animalistic version of its previous self. If its adjusted Intelligence score remains above 3, it can still speak and understand language, but it does not retain any societal affiliations it had prior to devolving. Survival becomes the paramount concern for an id mutant, and it focuses more on base animalistic desires—the thrill of the hunt, securing a safe lair, and procreation. An id mutant’s personality is entirely new—one based on fulfilling base needs, and as such an id mutant’s alignment changes to chaotic neutral.
 
-When a humanoid becomes an id mutant, its physical deformations almost always result in a resemblance to a specific animal. Some believe this animal to be a sort of spirit animal, but in fact the animal associated with the mutation is somewhat arbitrary, influenced in part by the original creature’s temperament and personality. For up to 10 days after a humanoid transforms into an id mutant, *break enchantment* or* remove curse* can remove the template. After this window of time closes, the condition becomes much more difficult to reverse. Both* miracle *and* wish *can restore an id mutant to its previous life. Likewise, an id mutant that dies and is then brought back from death sheds the template and is restored to its previous life.
+When a humanoid becomes an id mutant, its physical deformations almost always result in a resemblance to a specific animal. Some believe this animal to be a sort of spirit animal, but in fact the animal associated with the mutation is somewhat arbitrary, influenced in part by the original creature’s temperament and personality. For up to 10 days after a humanoid transforms into an id mutant, [*break enchantment*](../magic/spells/break-enchantment.md) or* remove curse* can remove the template. After this window of time closes, the condition becomes much more difficult to reverse. Both* miracle *and* wish *can restore an id mutant to its previous life. Likewise, an id mutant that dies and is then brought back from death sheds the template and is restored to its previous life.
 
 **Creating an Id Mutant**
 
@@ -1187,10 +1187,10 @@ Kanabo is an inherited template that can be added to a living, corporeal humanoi
 
 | **HD** | **Abilities** |
 |---|---|
-| 1–2 | *Doom* 3/day,* magic weapon* 3/day |
-| 3–4 | *Bull’s strength*,* command* 3/day |
-| 6–8 | *Fly* 3/day |
-| 9+ | *Alter self* (at will),* monstrous physique I* (at will) |
+| 1–2 | [*Doom*](../magic/spells/doom.md) 3/day,* magic weapon* 3/day |
+| 3–4 | [*Bull’s strength*](../magic/spells/bulls-strength.md),* command* 3/day |
+| 6–8 | [*Fly*](../magic/spells/fly.md) 3/day |
+| 9+ | [*Alter self*](../magic/spells/alter-self.md) (at will),* monstrous physique I* (at will) |
 
 **Abilities**: A kanabo gains a +4 bonus to Strength and Constitution, and a +2 bonus to Dexterity, Intelligence, Wisdom, and Charisma.
 
@@ -1397,7 +1397,7 @@ Usually, prana ghosts are more helpful and less malicious than their ethereal co
 
 Prana ghosts are immune to dazing, disease, exhaustion, fatigue, paralysis, poison, sleep effects, and stunning, as well as all effects that require a corporeal body. They are not subject to nonlethal damage.
 
-A prana ghost doesn’t risk death from damage, but instead immediately dissipates when its hit point total drops to a negative amount equal to its Constitution score. Prana ghosts are not affected by *raise dead*,* resurrection*, or* true resurrection*, but can be affected by* reincarnate*.
+A prana ghost doesn’t risk death from damage, but instead immediately dissipates when its hit point total drops to a negative amount equal to its Constitution score. Prana ghosts are not affected by [*raise dead*](../magic/spells/raise-dead.md),* resurrection*, or* true resurrection*, but can be affected by* reincarnate*.
 
 *Rejuvenation (Su)*: In most cases, it is difficult to dissipate a prana ghost through simple combat; the prana ghost restores itself in 2d4 days. Generally, the only way to permanently dissipate a prana ghost is to help it complete its mission or to make the mission impossible to complete, after which the prana ghost continues its path to the afterlife.
 
@@ -1469,7 +1469,7 @@ If the physical memoir is destroyed while the psychic lich’s astral legend sur
 
 *Rejuvenation (Su)*: When a psychic lich is destroyed, its body reforms near its astral memoir 10d10 days later. If a creature reads the psychic lich’s memoir, the total time is reduced to one tenth the original result, which could result in the psychic lich’s immediate restoration in a new body. Once the time elapses, the lich wakens fully healed (albeit without any gear it left behind on its old body).
 
-The only way to ensure that a psychic lich does not rejuvenate is to target its memoir with the spell *instigate psychic duel* or* mindscape door* or use it as a special focus when casting* plane shift* or similar magic. This allows one creature to instigate a psychic duel on a veiled, harmful mindscape with a self-contained shape inhabited by the lich’s astral legend. The legend has the statistics of the lich, can’t leave the mindscape by any means, and is permanently destroyed if reduced to 0 or fewer hit points. An astral legend can’t be destroyed unless the psychic lich’s physical body has also been destroyed and has not yet rejuvenated.
+The only way to ensure that a psychic lich does not rejuvenate is to target its memoir with the spell [*instigate psychic duel*](../magic/spells/instigate-psychic-duel.md) or* mindscape door* or use it as a special focus when casting* plane shift* or similar magic. This allows one creature to instigate a psychic duel on a veiled, harmful mindscape with a self-contained shape inhabited by the lich’s astral legend. The legend has the statistics of the lich, can’t leave the mindscape by any means, and is permanently destroyed if reduced to 0 or fewer hit points. An astral legend can’t be destroyed unless the psychic lich’s physical body has also been destroyed and has not yet rejuvenated.
 
 **Weaknesses**: A psychic lich doesn’t gain immunity to mind-affecting effects as a result of becoming undead. If the base creature is immune to any mind-affecting effects, it loses those immunities and instead gains a +4 bonus on saving throws against such effects.
 
@@ -1541,10 +1541,10 @@ This ability triggers only once per round, regardless of the number of attacks a
 
 | **HD** | **Spells** |
 |---|---|
-| 5–8 | *Burst of adrenaline* (1 PE),* haste* (3 PE),* mental block* (2 PE),* spider climb* (2 PE) |
-| 9–12 | *Emotive block* (3 PE),* mind thrust IV* (4 PE),* riding possession* (4 PE),* synaptic scramble* (4 PE) |
-| 13–16 | *Synapse overload* (5 PE),* telepathy* (5 PE) |
-| 17–20 | *Ego whip IV* (6 PE),* mass inflict pain* (6 PE) |
+| 5–8 | [*Burst of adrenaline*](../magic/spells/burst-of-adrenaline.md) (1 PE),* haste* (3 PE),* mental block* (2 PE),* spider climb* (2 PE) |
+| 9–12 | [*Emotive block*](../magic/spells/emotive-block.md) (3 PE),* mind thrust IV* (4 PE),* riding possession* (4 PE),* synaptic scramble* (4 PE) |
+| 13–16 | [*Synapse overload*](../magic/spells/synapse-overload.md) (5 PE),* telepathy* (5 PE) |
+| 17–20 | [*Ego whip IV*](../magic/spells/ego-whip-iv.md) (6 PE),* mass inflict pain* (6 PE) |
 
 **Ability Scores**: Str +2, Dex +2, Int +4, Wis +4, Cha +6. As an undead creature, a psychic vampire has no Constitution score.
 
@@ -1663,12 +1663,12 @@ A skilled artificer can revitalize a ruined construct by jury-rigging the pieces
 | 1 | No additional effect |
 | 2 | Sparks fly from the construct, dazzling each adjacent creature that can see it (Fortitude negates). |
 | 3 | The construct flails wildly, making one melee attack against each adjacent creature. If the construct is wielding only a ranged weapon, it uses that weapon as an improvised bludgeoning weapon. |
-| 4 | The construct leaks lubricant, affecting itself and all adjacent squares as if with a *grease* spell for 1d4+1 rounds. |
+| 4 | The construct leaks lubricant, affecting itself and all adjacent squares as if with a [*grease*](../magic/spells/grease.md) spell for 1d4+1 rounds. |
 | 5 | The attack causes the construct to seize violently, functioning as a free disarm combat maneuver check against the weapon that triggered the malfunction. On a success, the weapon is thrown 1d4×10 feet in a random direction. A natural weapon instead provokes a free grapple combat maneuver attempt against the attacking creature for 1 round. This malfunction has no effect on ammunition. |
-| 6 | Acrid smoke, steam, or mist pours from the construct, as if from a *pyrotechnics* smoke cloud. |
+| 6 | Acrid smoke, steam, or mist pours from the construct, as if from a [*pyrotechnics*](../magic/spells/pyrotechnics.md) smoke cloud. |
 | 7 | Shrapnel explodes from the construct in all directions, dealing 1d6 points of slashing damage per Hit Die of the construct to each creature within 20 feet (Reflex half). |
 | 8 | The construct emits an earsplitting screech, deafening all creatures within 20 feet (Fortitude negates). |
-| 9 | Disruptive energy pulses from the construct, functioning as *dispel magic* targeting every creature within 20 feet. |
+| 9 | Disruptive energy pulses from the construct, functioning as [*dispel magic*](../magic/spells/dispel-magic.md) targeting every creature within 20 feet. |
 | 10 | The construct goes berserk, as a clay golem. |
 
 **Attacks**: If the base creature has more than one natural attack, remove one natural attack. The creator can replace the lost attack with a light, one-handed, or ranged weapon of at least masterwork quality and a size appropriate for the base creature.
@@ -1858,7 +1858,7 @@ Before an ancient archmage of wrath created the first sinspawn through the use o
 
 Runewarped creatures subjected to prolonged direct exposure to a *runewell* or sin magic gain additional powers related to a specific sin, seeking out magic and spellcasters associated with that sin.
 
-Sinwarped creatures are runewarped creatures with the advanced creature simple template, magic-scent with a range of 120 feet, and spell-like abilities determined by the creature’s affinity to a particular school of sin magic: envy (*resist energy* and* shield*), gluttony (*chill touch* and* false life*), greed (*barkskin* and* expeditious retreat*), lust (*hold person* and* hypnotism*), pride (*blur* and* color spray*), sloth (*cure moderate wounds* and* grease*), or wrath (*burning hands* and* darkness*). Each spell-like ability is usable once per day. When a target loses a prepared spell, spell slot, or spell-like ability that is at least 3rd level to a sinwarped creature’s consume magic ability, the sinwarped creature regains all of these spell-like abilities it has used.
+Sinwarped creatures are runewarped creatures with the advanced creature simple template, magic-scent with a range of 120 feet, and spell-like abilities determined by the creature’s affinity to a particular school of sin magic: envy ([*resist energy*](../magic/spells/resist-energy.md) and* shield*), gluttony ([*chill touch*](../magic/spells/chill-touch.md) and* false life*), greed ([*barkskin*](../magic/spells/barkskin.md) and* expeditious retreat*), lust ([*hold person*](../magic/spells/hold-person.md) and* hypnotism*), pride ([*blur*](../magic/spells/blur.md) and* color spray*), sloth ([*cure moderate wounds*](../magic/spells/cure-moderate-wounds.md) and* grease*), or wrath ([*burning hands*](../magic/spells/burning-hands.md) and* darkness*). Each spell-like ability is usable once per day. When a target loses a prepared spell, spell slot, or spell-like ability that is at least 3rd level to a sinwarped creature’s consume magic ability, the sinwarped creature regains all of these spell-like abilities it has used.
 
 ## Seeded
 
@@ -2008,7 +2008,7 @@ Created through rituals that suffused elemental fire with the dark corruption of
 
 *Shadow Touch (Su)*: A shadowfire creature’s touch chills the target and saps away its life energy. All of a shadowfire creature’s slam attacks and attacks with natural weapons deal an additional 1d6 points of negative energy damage to living creatures.
 
-**Spell-Like Abilities**: A shadowfire creature can use the *shadow step* spell as a spell-like ability once per day, with a caster level equal to its Hit Dice. If it has 11 or more Hit Dice, it can instead use this ability three times per day.
+**Spell-Like Abilities**: A shadowfire creature can use the [*shadow step*](../magic/spells/shadow-step.md) spell as a spell-like ability once per day, with a caster level equal to its Hit Dice. If it has 11 or more Hit Dice, it can instead use this ability three times per day.
 
 **Ability Scores**: Str +2, Dex +2, Cha +4.
 
@@ -2082,15 +2082,15 @@ A soulbound construct is a once-living creature that has had its soul bound to a
 
 | **Alignment** | **First Ability** | **Second Ability** | **Third Ability** |
 |---|---|---|---|
-| Lawful good | *Hold person* |* Dimensional anchor* |* Repulsion* |
-| Neutral good | *Heroism* |* Greater invisibility* |* Heal* |
-| Chaotic good | *Blink* |* Shout* |* Prismatic spray* |
-| Lawful neutral | *Suggestion* |* Lesser globe of invulnerability* |* Blade barrier* |
-| Neutral | *Deep slumber* |* Hold monster* |* Greater dispel magic* |
-| Chaotic neutral | *Rage* |* Confusion* |* Disintegrate* |
-| Lawful evil | *Minor image* |* Crushing despair* |* Antilife shell* |
-| Neutral evil | *Inflict moderate wounds* |* Enervation* |* Harm* |
-| Chaotic evil | *Stinking cloud* |* Contagion* |* Eyebite* |
+| Lawful good | [*Hold person*](../magic/spells/hold-person.md) |* Dimensional anchor* |* Repulsion* |
+| Neutral good | [*Heroism*](../magic/spells/heroism.md) |* Greater invisibility* |* Heal* |
+| Chaotic good | [*Blink*](../magic/spells/blink.md) |* Shout* |* Prismatic spray* |
+| Lawful neutral | [*Suggestion*](../magic/spells/suggestion.md) |* Lesser globe of invulnerability* |* Blade barrier* |
+| Neutral | [*Deep slumber*](../magic/spells/deep-slumber.md) |* Hold monster* |* Greater dispel magic* |
+| Chaotic neutral | [*Rage*](../magic/spells/rage.md) |* Confusion* |* Disintegrate* |
+| Lawful evil | [*Minor image*](../magic/spells/minor-image.md) |* Crushing despair* |* Antilife shell* |
+| Neutral evil | [*Inflict moderate wounds*](../magic/spells/inflict-moderate-wounds.md) |* Enervation* |* Harm* |
+| Chaotic evil | [*Stinking cloud*](../magic/spells/stinking-cloud.md) |* Contagion* |* Eyebite* |
 
 **Ability Scores**: The host construct replaces its Intelligence, Wisdom, and Charisma scores with those of the base creature.
 
@@ -2114,7 +2114,7 @@ A soulbound construct’s soul focus is made from a gem worth 1,000 gp per Hit D
 
 **Construction**
 
-**Requirements** Craft Construct, Craft Wondrous Item, *geas/quest*,* magic jar*, soul of a living creature who dies or is slain during the creation process; **Skill** Craft (gemcutting); **Cost** 5,000 gp + 1,000 gp per Hit Die of the base creature
+**Requirements** Craft Construct, Craft Wondrous Item, [*geas/quest*](../magic/spells/geas-quest.md),* magic jar*, soul of a living creature who dies or is slain during the creation process; **Skill** Craft (gemcutting); **Cost** 5,000 gp + 1,000 gp per Hit Die of the base creature
 
 ## Steam-Powered Construct
 
@@ -2175,7 +2175,7 @@ Though some scholars may argue about who exactly created the first steam-powered
 
 Sun-baked zombies most often rise near pyramids and other burial sites in hot deserts, where latent necromantic energy lingers from countless arcane rituals and restless spirits. As such, sunbaked zombies are primarily found among the dunes of the desert kingdom and the other nations that make up northern the southern continent. Typically animated in isolation, sunbaked zombies rarely form hordes like normal zombies, but when entire caravans fall to thirst and the desert sun, all of its members might rise as these terrible undead.
 
-When one intentionally raises a sunbaked zombie using *animate dead*, the body to be raised must be left out in the sun’s rays for a full 12 hours and must be salted every hour during this time to hasten its desiccation. Spell effects that produce light work for this purpose only if they count as actual sunlight, and even then they must be combined with* desecrate*. Casting the animating spell at night always fails; the sun must be out and directly beating down on the corpse. Without the intense magical focus of a spell, it takes many days for the corpse to absorb enough sun and necromantic energy to rise spontaneously.
+When one intentionally raises a sunbaked zombie using [*animate dead*](../magic/spells/animate-dead.md), the body to be raised must be left out in the sun’s rays for a full 12 hours and must be salted every hour during this time to hasten its desiccation. Spell effects that produce light work for this purpose only if they count as actual sunlight, and even then they must be combined with* desecrate*. Casting the animating spell at night always fails; the sun must be out and directly beating down on the corpse. Without the intense magical focus of a spell, it takes many days for the corpse to absorb enough sun and necromantic energy to rise spontaneously.
 
 “Sunbaked zombie” is an acquired template that can be added to any corporeal creature (other than undead), referred to hereafter as the base creature.
 
@@ -2288,7 +2288,7 @@ Vetalas are said to be the spirits of children “born evil,” who never receiv
 
 **Weaknesses**: Vetalas cannot tolerate the sound of prayers or religious mantras recited by those truly faithful to a good deity. Any character with a good-aligned deity can force a vetala to recoil by dramatically praying as a standard action (1 AP). Praying doesn’t harm a vetala; it merely keeps the creature at bay. A recoiling vetala must stay at least 5 feet away from a praying character and cannot touch or make melee attacks against it. After 1 round, a vetala can fight past its revulsion and function normally each round it succeeds at a DC 25 Will save. The prayers of those who worship non-good deities or worship no deity have no effect on a vetala.
 
-Reducing a vetala’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see fast healing). However, consecrating the vetala’s remains and burying the body destroys it forever. A vetala’s body is considered consecrated if it is doused with a vial of holy water and buried, if it is buried in earth affected by the spell *consecrate*, or if* bless*,* prayer*, or a similar divine spell is cast upon it as it is being buried. Digging up a vetala’s corpse or profaning the area where it’s buried does not restore a buried vetala.
+Reducing a vetala’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see fast healing). However, consecrating the vetala’s remains and burying the body destroys it forever. A vetala’s body is considered consecrated if it is doused with a vial of holy water and buried, if it is buried in earth affected by the spell [*consecrate*](../magic/spells/consecrate.md), or if* bless*,* prayer*, or a similar divine spell is cast upon it as it is being buried. Digging up a vetala’s corpse or profaning the area where it’s buried does not restore a buried vetala.
 
 **Speed**: Same as the base creature. A vetala also gains a climb speed equal to its base land speed.
 

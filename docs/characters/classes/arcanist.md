@@ -166,7 +166,7 @@ The arcanist can unleash a freezing projectile by expending 1 point from her arc
 
 #### Illusion Catcher (Su)
 
-The arcanist gains a +2 bonus on saving throws against illusions. If the arcanist successfully disbelieves an illusion, she can expend 1 point from her arcane reservoir to try to negate or steal control of the illusion. The arcanist attempts a caster level check as if she were dispelling the effect with *dispel magic*. If she succeeds, she can either end the effect or alter it as if she were the spell's caster. If the spell's duration is concentration, the arcanist must concentrate on the new effect or it ends. The arcanist must have the face thief exploit to select this exploit.
+The arcanist gains a +2 bonus on saving throws against illusions. If the arcanist successfully disbelieves an illusion, she can expend 1 point from her arcane reservoir to try to negate or steal control of the illusion. The arcanist attempts a caster level check as if she were dispelling the effect with [*dispel magic*](../../magic/spells/dispel-magic.md). If she succeeds, she can either end the effect or alter it as if she were the spell's caster. If the spell's duration is concentration, the arcanist must concentrate on the new effect or it ends. The arcanist must have the face thief exploit to select this exploit.
 
 #### Item Crafting
 
@@ -284,7 +284,7 @@ Whenever the arcanist successfully counters a spell, she regains a number of poi
 
 #### Counterspell Primal Magic (Su)
 
-The arcanist can attempt to counter a primal magic event as if counterspelling a magical effect. This requires a Spellcraft check with a DC of 10 + the CR of the primal magic event. If she succeeds, the event is dispelled per *dispel magic*. The arcanist must have the counterspell exploit to select this exploit.
+The arcanist can attempt to counter a primal magic event as if counterspelling a magical effect. This requires a Spellcraft check with a DC of 10 + the CR of the primal magic event. If she succeeds, the event is dispelled per [*dispel magic*](../../magic/spells/dispel-magic.md). The arcanist must have the counterspell exploit to select this exploit.
 
 #### Create Primal Event (Su)
 

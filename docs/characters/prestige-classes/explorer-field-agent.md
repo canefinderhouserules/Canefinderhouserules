@@ -69,21 +69,21 @@ An explorer field agent receives additional training that aids her in her fulfil
 
 At 1st level and every 3 levels thereafter, an explorer field agent can add an additional ability to her *wayfinder*. These abilities must be added to a standard *wayfinder *(see *explorer Campaign Setting: The Inner Sea World Guide* 299), not to a variant or modified *wayfinder *(though an explorer field agent can possess more than one *wayfinder* at a time, if she chooses). If an explorer field agent loses her upgraded *wayfinder*, she can purchase a new one at the normal cost plus 100 gp for each explorer field agent level she possesses, keeping all previously selected upgrades. An explorer field agent can choose from the listed *wayfinder* upgrades. Any upgrades that grant additional spell effects use the *wayfinder’s* caster level or the explorer field agent’s class level (whichever is higher) to determine effects that depend on caster level.
 
-*Dancing Lights*: The explorer field agent replaces her *wayfinder’s* ability to cast [*light*](../../magic/spells/light.md) with the ability to cast [*dancing lights*](../../magic/spells/dancing-lights.md) at will.
+[*Dancing Lights*](../../magic/spells/dancing-lights.md): The explorer field agent replaces her *wayfinder’s* ability to cast [*light*](../../magic/spells/light.md) with the ability to cast [*dancing lights*](../../magic/spells/dancing-lights.md) at will.
 
-*Daylight*: Once per day, the explorer field agent can use her *wayfinder* to cast [*daylight*](../../magic/spells/daylight.md). This upgrade can be selected more than once. Each additional time it’s selected, the explorer field agent gains another use of the spell per day.
+[*Daylight*](../../magic/spells/daylight.md): Once per day, the explorer field agent can use her *wayfinder* to cast [*daylight*](../../magic/spells/daylight.md). This upgrade can be selected more than once. Each additional time it’s selected, the explorer field agent gains another use of the spell per day.
 
 *Flask*: A hidden compartment is carved into the *wayfinder’s* casing, allowing a single potion, oil, or dose of poison to be hidden within. This substance can be retrieved with a swift action (1 AP) that doesn’t provoke attacks of opportunity (as opposed to the normal move action (1 AP) required to retrieve a stored item). Drinking the potion or applying the oil or poison still requires a standard action (1 AP) that provokes attacks of opportunity. The explorer field agent gains a +2 bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to oppose the [Perception](../../rules/skills/perception.md) check of someone observing or frisking her to detect items in the hidden compartment.
 
 *Hidden*: In order to hide her affiliation with an explorers’ society from potential enemies, an explorer field agent with this upgrade can, three times per day, turn her *wayfinder* invisible and mask its magical aura as if it were under the effects of [*invisibility*](../../magic/spells/invisibility.md) and [*magic aura*](../../magic/spells/magic-aura.md). Each time this effect is used, it lasts for up to 1 hour per 2 class levels the explorer field agent possesses (minimum 1 hour), and can be dismissed by the explorer field agent as a move action (1 AP).
 
-*Message*: In addition to the *light* spell-like ability, the *wayfinder* can be used to cast [*message*](../../magic/spells/message.md) at will.
+[*Message*](../../magic/spells/message.md): In addition to the [*light*](../../magic/spells/light.md) spell-like ability, the *wayfinder* can be used to cast [*message*](../../magic/spells/message.md) at will.
 
 *Shielding*: Once per day, the explorer field agent can activate her *wayfinder* to gain a +2 deflection bonus to AC for a number of minutes equal to her explorer field agent level. This bonus increases by 1 for every 5 class levels the explorer field agent possesses.
 
-*Silence*: Once per day, the explorer field agent can use her *wayfinder* to emit an aura of [*silence*](../../magic/spells/silence.md), as the spell. The *silence* effect must be centered on the *wayfinder*. This upgrade can be selected more than once. Each additional time the upgrade is selected, the agent gains another use of the spell per day.
+[*Silence*](../../magic/spells/silence.md): Once per day, the explorer field agent can use her *wayfinder* to emit an aura of [*silence*](../../magic/spells/silence.md), as the spell. The *silence* effect must be centered on the *wayfinder*. This upgrade can be selected more than once. Each additional time the upgrade is selected, the agent gains another use of the spell per day.
 
-*Stabilize*: The wayfinder can be used to cast [*stabilize*](../../magic/spells/stabilize.md) at will.
+[*Stabilize*](../../magic/spells/stabilize.md): The wayfinder can be used to cast [*stabilize*](../../magic/spells/stabilize.md) at will.
 
 #### Bonus Feat
 

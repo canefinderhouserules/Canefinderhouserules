@@ -14,21 +14,21 @@ Though legacy items are not intended for purchase, some GMs may wish to allow th
 
 **Aura** strong divination
 
-Despite the fact that they are millennia old, these polished metal armbands, inlaid with intricate patterns in gold and platinum, are in remarkable condition. Once part of a cache of ancient artifacts, the bracers became a treasured possession of a founder-ruler and a valuable tool in his decades-long quest to recover and interpret remnants of vanished cultures. Each of the bracers has one slot in which an ioun stone can be embedded. An ioun stone embedded in this manner grants the bearer its normal benefits as if it were orbiting her head and resonates its powers as if it were slotted in a wayfinder. Additionally, as long as at least one ioun stone is slotted into the bracers, the wearer can understand any written language, as per *comprehend languages*.
+Despite the fact that they are millennia old, these polished metal armbands, inlaid with intricate patterns in gold and platinum, are in remarkable condition. Once part of a cache of ancient artifacts, the bracers became a treasured possession of a founder-ruler and a valuable tool in his decades-long quest to recover and interpret remnants of vanished cultures. Each of the bracers has one slot in which an ioun stone can be embedded. An ioun stone embedded in this manner grants the bearer its normal benefits as if it were orbiting her head and resonates its powers as if it were slotted in a wayfinder. Additionally, as long as at least one ioun stone is slotted into the bracers, the wearer can understand any written language, as per [*comprehend languages*](../magic/spells/comprehend-languages.md).
 
 **6th Level**: The wearer gains a +2 competence bonus on Knowledge (arcana), Spellcraft, and Use Magic Device checks.
 
 **9th Level**: The bracers act as spell storing bracers of armor.
 
-**12th Level**: While at least one ioun stone is embedded in the bracers, the wearer can speak and understand any language, as per *tongues*.
+**12th Level**: While at least one ioun stone is embedded in the bracers, the wearer can speak and understand any language, as per [*tongues*](../magic/spells/tongues.md).
 
 **15th Level**: The wearer gains a +4 insight bonus on saving throws against language-dependent spells and effects and on saving throws against magical glyphs, symbols, sigils, or similar written traps.
 
-**18th Level**: Twice per day, the wearer can temporarily drain the magic of one of the bracers' embedded ioun stones to cast *plane shift*. After powering this ability, the ioun stone becomes inert for 24 hours and impossible to remove from the bracer.
+**18th Level**: Twice per day, the wearer can temporarily drain the magic of one of the bracers' embedded ioun stones to cast [*plane shift*](../magic/spells/plane-shift.md). After powering this ability, the ioun stone becomes inert for 24 hours and impossible to remove from the bracer.
 
 **Goal**: Recover and identify 30 named texts or artifacts that were created more than 4,000 years before the present day. Recovering a major artifact counts as 3 artifacts toward the completion of this goal.
 
-**Reward**: By handling a magic item for 1 minute, the wearer can identify its properties and command word as if she had successfully examined the item using *detect magic* and succeeded at a Spellcraft check. This ability does not reveal whether the item is cursed unless the wearer's character level is equal to or greater than the caster level of the item.
+**Reward**: By handling a magic item for 1 minute, the wearer can identify its properties and command word as if she had successfully examined the item using [*detect magic*](../magic/spells/detect-magic.md) and succeeded at a Spellcraft check. This ability does not reveal whether the item is cursed unless the wearer's character level is equal to or greater than the caster level of the item.
 
 ### Conqueror's Breastplate
 
@@ -40,7 +40,7 @@ The chasing of this +1 *mithral breastplate* makes it appear to be crafted of dr
 
 **5th Level**: Conqueror's breastplate acts as a +2 *mithral breastplate*.
 
-**10th Level**: Once per day as an immediate action (1 AP of your next turn), the wearer can use *draconic reservoir* as a spell-like ability.
+**10th Level**: Once per day as an immediate action (1 AP of your next turn), the wearer can use [*draconic reservoir*](../magic/spells/draconic-reservoir.md) as a spell-like ability.
 
 **15th Level**: Conqueror's breastplate acts as a +3 *determination mithral breastplate*.
 
@@ -54,19 +54,19 @@ The chasing of this +1 *mithral breastplate* makes it appear to be crafted of dr
 
 **Aura** strong abjuration
 
-A high priest was wearing a ring of sealed souls when he trapped an ancient lich-king beneath a mountain fortress. If the wearer of this braided ring is slain while wearing the ring, he cannot be raised as undead. Additionally, the wearer can be revived with *raise dead* or similar effects even if he was slain by a death effect.
+A high priest was wearing a ring of sealed souls when he trapped an ancient lich-king beneath a mountain fortress. If the wearer of this braided ring is slain while wearing the ring, he cannot be raised as undead. Additionally, the wearer can be revived with [*raise dead*](../magic/spells/raise-dead.md) or similar effects even if he was slain by a death effect.
 
-**8th Level**: The wearer can use *hold portal* at will as a spell-like ability, though he can have only one portal held by this ability at a time. Should he use the ability again while the spell is already active, the first casting is immediately dismissed.
+**8th Level**: The wearer can use [*hold portal*](../magic/spells/hold-portal.md) at will as a spell-like ability, though he can have only one portal held by this ability at a time. Should he use the ability again while the spell is already active, the first casting is immediately dismissed.
 
 **11th Level**: Weapons wielded by the wearer gain the ghost touch weapon property.
 
-**14th Level**: The wearer can use *guards and wards* once per day as a spell-like ability.
+**14th Level**: The wearer can use [*guards and wards*](../magic/spells/guards-and-wards.md) once per day as a spell-like ability.
 
-**17th Level**: The wearer adds *binding* to his class spell list and list of spells known. The wearer can use *binding* once per day as a spell-like ability, but he must provide the expensive material component for the spell.
+**17th Level**: The wearer adds [*binding*](../magic/spells/binding.md) to his class spell list and list of spells known. The wearer can use *binding* once per day as a spell-like ability, but he must provide the expensive material component for the spell.
 
 **Goal**: The wearer must defeat an undead creature or evil outsider whose CR is at least 4 greater than his Hit Dice.
 
-**Reward**: The wearer is constantly under the effect of *protection from evil* with a caster level equal to his character level. Should this effect be dispelled, he can resume it as a free action.
+**Reward**: The wearer is constantly under the effect of [*protection from evil*](../magic/spells/protection-from-evil.md) with a caster level equal to his character level. Should this effect be dispelled, he can resume it as a free action.
 
 ### Runecarved Headband
 
@@ -96,7 +96,7 @@ The runic scrollwork that decorates this thick iron headband calls to mind the i
 
 **Aura** moderate transmutation
 
-The hilt of this +1 *adamantine scimitar* has a gritty texture, as if sprinkled with invisible grains of sand. A favorite weapon among an order of warriors who struggled against a genie binder, in the hands of a mighty warrior this blade can cut through spell and shackle alike. After the warriors triumphed over their foe, their djinni leader passed the blade to a group of worthy adventurers, though what happened to the blade afterward has been lost to history. When the wielder of the scimitar of deliverance hits a target with a melee attack, as a free action she can attempt to identify any abjuration spells currently affecting the target as if she had studied it for 3 rounds using *detect magic*.
+The hilt of this +1 *adamantine scimitar* has a gritty texture, as if sprinkled with invisible grains of sand. A favorite weapon among an order of warriors who struggled against a genie binder, in the hands of a mighty warrior this blade can cut through spell and shackle alike. After the warriors triumphed over their foe, their djinni leader passed the blade to a group of worthy adventurers, though what happened to the blade afterward has been lost to history. When the wielder of the scimitar of deliverance hits a target with a melee attack, as a free action she can attempt to identify any abjuration spells currently affecting the target as if she had studied it for 3 rounds using [*detect magic*](../magic/spells/detect-magic.md).
 
 **7th Level**: The scimitar of deliverance acts as a +2 *keen adamantine scimitar*.
 
@@ -104,11 +104,11 @@ The hilt of this +1 *adamantine scimitar* has a gritty texture, as if sprinkled 
 
 **15th Level**: The scimitar of deliverance acts as a +4 *keen adamantine scimitar*.
 
-**19th Level**: Once per round when the wielder confirms a critical hit against a target with the scimitar of deliverance, the foe is targeted by a *greater dispel magic* spell, with a caster level equal to the wielder's character level.
+**19th Level**: Once per round when the wielder confirms a critical hit against a target with the scimitar of deliverance, the foe is targeted by a [*greater dispel magic*](../magic/spells/dispel-magic-greater.md) spell, with a caster level equal to the wielder's character level.
 
 **Goal**: The bearer must free at least 50 creatures from captivity, slavery, or unlawful imprisonment.
 
-**Reward**: As an immediate action (1 AP of your next turn) a number of times per day equal to his character level, the wielder can use *liberating command* as a spell-like ability.
+**Reward**: As an immediate action (1 AP of your next turn) a number of times per day equal to his character level, the wielder can use [*liberating command*](../magic/spells/liberating-command.md) as a spell-like ability.
 
 ### Totemic Figurine
 
@@ -140,9 +140,9 @@ Worn by a famed explorer on treks across the frozen top of the world, these util
 
 **8th Level**: The wearer gains woodland stride, as the druid class ability.
 
-**12th Level**: The wearer is constantly under the effect of *endure elements* and is automatically considered acclimated to high altitudes. Should the *endure elements* effect be dispelled, he can resume it as a free action.
+**12th Level**: The wearer is constantly under the effect of [*endure elements*](../magic/spells/endure-elements.md) and is automatically considered acclimated to high altitudes. Should the *endure elements* effect be dispelled, he can resume it as a free action.
 
-**16th Level**: Once per day, the wearer can use *find the path* as a spell-like ability.
+**16th Level**: Once per day, the wearer can use [*find the path*](../magic/spells/find-the-path.md) as a spell-like ability.
 
 **Goal**: The wearer must travel 1,000 miles by foot.
 
@@ -182,9 +182,9 @@ A near-mythic explorer renowned for her ability to perform daring rescues carrie
 
 **8th Level**: Once per day as a standard action (1 AP), the bearer can use inspire competence as if she were a bard with a level equal to her character level. The bonuses granted by this ability last until the ally completes the task he is attempting.
 
-**11th Level**: The bearer is constantly aware of the position and condition (as *status*) of anyone who has activated an ioun stone attuned to the wayfinder of cooperation.
+**11th Level**: The bearer is constantly aware of the position and condition (as [*status*](../magic/spells/status.md)) of anyone who has activated an ioun stone attuned to the wayfinder of cooperation.
 
-**13th Level**: The bearer can use *shadow walk* once per day as a spell-like ability.
+**13th Level**: The bearer can use [*shadow walk*](../magic/spells/shadow-walk.md) once per day as a spell-like ability.
 
 **16th Level**: Once per day, the bearer of an ioun stone attuned to the wayfinder of cooperation can summon the wayfinder's bearer to her side as if she were activating an appropriately keyed charm from a *bracelet of friends*.
 

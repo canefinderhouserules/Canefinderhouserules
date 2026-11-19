@@ -8,7 +8,7 @@
 
 *Fly (Su)*: At 6th level, you gain Fly speed equal to your normal speed.
 
-**Domain Spells**: 1st—[*obscuring mist*](../spells/obscuring-mist.md), 2nd—[*wind wall*](../spells/wind-wall.md), 3rd—[*gaseous form*](../spells/gaseous-form.md), 4th—[*air walk*](../spells/air-walk.md), 5th—[*control winds*](../spells/control-winds.md), 6th—[*chain lightning*](../spells/chain-lightning.md), 7th—*elemental body IV* (air only), 8th—[*whirlwind*](../spells/whirlwind.md), 9th—[*elemental swarm*](../spells/elemental-swarm.md) (air spell only).
+**Domain Spells**: 1st—[*obscuring mist*](../spells/obscuring-mist.md), 2nd—[*wind wall*](../spells/wind-wall.md), 3rd—[*gaseous form*](../spells/gaseous-form.md), 4th—[*air walk*](../spells/air-walk.md), 5th—[*control winds*](../spells/control-winds.md), 6th—[*chain lightning*](../spells/chain-lightning.md), 7th—[*elemental body IV*](../spells/elemental-body-iv.md) (air only), 8th—[*whirlwind*](../spells/whirlwind.md), 9th—[*elemental swarm*](../spells/elemental-swarm.md) (air spell only).
 
 ###  Cloud Subdomain
 

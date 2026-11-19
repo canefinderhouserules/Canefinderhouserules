@@ -144,7 +144,7 @@ All shifter aspects have a minor form and a major form. The minor form grants a 
 
 The following options represent only the most common choices used by shifters. Other aspects based on different animals certainly exist, and might grant similar powers or entirely new abilities based on the animal’s themes and nature. You can use the following aspects as guides for developing aspects of your own design, but if you wish to do so, you must secure your GM’s permission.
 
-Shifters with a vermin aspect, such as dragonfly or spider, assume these major aspects with *vermin shape II* rather than *beast shape II*.
+Shifters with a vermin aspect, such as dragonfly or spider, assume these major aspects with [*vermin shape II*](../../magic/spells/vermin-shape-ii.md) rather than [*beast shape II*](../../magic/spells/beast-shape-ii.md).
 
 ### Bat
 

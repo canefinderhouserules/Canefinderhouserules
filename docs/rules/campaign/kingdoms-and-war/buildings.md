@@ -415,7 +415,7 @@ An institution for training students in spellcasting, magic item crafting, and v
 **Special**: Can share a lot with any building or improvement   
 **Settlement**: Crime –1
 
-*Continual flame* lamps that illuminate the lot.
+[*Continual flame*](../../../magic/spells/continual-flame.md) lamps that illuminate the lot.
 
 ## Mansion
 

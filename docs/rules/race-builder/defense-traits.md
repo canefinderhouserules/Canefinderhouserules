@@ -92,7 +92,7 @@ The following racial traits augment the defenses of members of the race.
 
 **Halo (2 RP)**  
 *Prerequisite*: Outsider (native) with ties to Elysium, Heaven, or Nirvana  
-*Benefit*: Members of this race can create *light* centered on their head at will as a spell-like ability. When using the halo, a member of this race gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled.
+*Benefit*: Members of this race can create [*light*](../../magic/spells/light.md) centered on their head at will as a spell-like ability. When using the halo, a member of this race gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled.
 
 **Hardy (3 RP)**  
 *Prerequisite*: The race has at least a +2 racial bonus to Constitution  

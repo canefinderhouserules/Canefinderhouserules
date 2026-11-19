@@ -8,7 +8,7 @@
 
 *Unity (Su)*: At 4th level, whenever a spell or effect targets you and one or more allies within 30 feet, you can use this ability to allow your allies to use your saving throw against the effect in place of their own. Each ally must decide individually. Using this ability is an immediate action (1 AP of your next turn). You can use this ability once per day at 4th level, and one additional time per day for every four cleric levels beyond 4th.
 
-**Domain Spells**: 1st—[*bless*](../spells/bless.md), 2nd—[*shield other*](../spells/shield-other.md), 3rd—[*prayer*](../spells/prayer.md), 4th—[*imbue with spell ability*](../spells/imbue-with-spell-ability.md), 5th—[*telepathic bond*](../spells/telepathic-bond.md), 6th—[*heroes' feast*](../spells/heroes-feast.md), 7th—[*refuge*](../spells/refuge.md), 8th—*mass cure critical wounds*, 9th—[*miracle*](../spells/miracle.md).
+**Domain Spells**: 1st—[*bless*](../spells/bless.md), 2nd—[*shield other*](../spells/shield-other.md), 3rd—[*prayer*](../spells/prayer.md), 4th—[*imbue with spell ability*](../spells/imbue-with-spell-ability.md), 5th—[*telepathic bond*](../spells/telepathic-bond.md), 6th—[*heroes' feast*](../spells/heroes-feast.md), 7th—[*refuge*](../spells/refuge.md), 8th—[*mass cure critical wounds*](../spells/cure-critical-wounds-mass.md), 9th—[*miracle*](../spells/miracle.md).
 
 ###  Cooperation Subdomain
 

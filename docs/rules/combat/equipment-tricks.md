@@ -40,7 +40,7 @@ Indispensable to a rogue or any other adventurer who wishes to crack open a lock
 
 **Let Myself In (Knowledge [engineering] 3 ranks)**: Whenever you succeed at a Disable Device check to unlock an object that requires a move action (1 AP) to open, such as a door, you can immediately open that object as a free action instead.
 
-**Ranged Chicanery (Disable Device 1 rank, Sleight of Hand 1 rank, ability to cast *mage hand*)**: You can use *mage hand* to attempt Disable Device and Sleight of Hand checks at range. Working at a distance increases the normal skill check DC by an amount equal to 5 + 1 for every 5 feet the range is greater than 25 feet. You can't take 10 or 20 on this check. Any object manipulated must weigh 5 pounds or less. If you also possess the ranged legerdemain class feature, you no longer increase the skill check DC by 5 while using Disable Device and Sleight of Hand at range.
+**Ranged Chicanery (Disable Device 1 rank, Sleight of Hand 1 rank, ability to cast [*mage hand*](../../magic/spells/mage-hand.md))**: You can use *mage hand* to attempt Disable Device and Sleight of Hand checks at range. Working at a distance increases the normal skill check DC by an amount equal to 5 + 1 for every 5 feet the range is greater than 25 feet. You can't take 10 or 20 on this check. Any object manipulated must weigh 5 pounds or less. If you also possess the ranged legerdemain class feature, you no longer increase the skill check DC by 5 while using Disable Device and Sleight of Hand at range.
 
 ## Wondrous Item Tricks
 
@@ -48,7 +48,7 @@ You can use these tricks with any wondrous item that can be worn in a specific m
 
 **Aura Mastery (Use Magic Device 1 rank)**: Once per day, you can choose a single school of magic represented by one of your wondrous items' auras; you treat your caster level as 1 higher when casting a single spell of that school. You can make this choice at any time during the day, but you must choose the item (and school) before casting the spell.
 
-**Counter Dispelling (Spellcraft 3 ranks)**: When a foe attempts a dispel check, such as via *dispel magic*, against either a wondrous item that you are currently wearing or wielding or a spell effect created by such an item, you can use your ranks in Use Magic Device as the item's caster level instead of its actual caster level when calculating the dispel check DC. You must be aware of the spell that is being cast and identify it with a successful Spellcraft check in order to receive this benefit.
+**Counter Dispelling (Spellcraft 3 ranks)**: When a foe attempts a dispel check, such as via [*dispel magic*](../../magic/spells/dispel-magic.md), against either a wondrous item that you are currently wearing or wielding or a spell effect created by such an item, you can use your ranks in Use Magic Device as the item's caster level instead of its actual caster level when calculating the dispel check DC. You must be aware of the spell that is being cast and identify it with a successful Spellcraft check in order to receive this benefit.
 
 **Favored Item (Magical Aptitude)**: Once per day, you can spend 1 hour practicing with a wondrous item to designate it as your favored item for that day. If the favored item functions for a specific number of rounds or minutes per day greater than 1 round or 1 minute, you increase the maximum number of rounds or minutes it can function that day by an amount equal to half your ranks in Use Magic Device (minimum 1 round).
 

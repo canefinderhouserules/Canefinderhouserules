@@ -137,13 +137,13 @@ The following specialized kits are intended for experienced adventurers who want
 | Undead survivor’s kit | 900 gp | 3 lbs. |
 | Underground survival kit | 644 gp | 30 lbs. |
 
-**Elemental Explorer’s Kit**: This waterproof and flame-resistant case contains items useful to a spellcaster traveling the Elemental Planes, either intentionally or due to some mishap. The kit includes durable guides to each of the four Elemental Planes, describing a few common creatures and hazards found on each plane and pointing out major landmarks. Each guide grants a +2 circumstance bonus on Knowledge (planes) checks and Survival checks for its plane. This kit also contains 3 scrolls of *comprehend languages*, 2 scrolls of *planar adaptation*, and a scroll of *plane shift* attuned to the Material Plane so the kit’s owner can return home. The price reflects a kit with divine scrolls; a kit containing arcane scrolls instead costs an additional 2,000 gp.
+**Elemental Explorer’s Kit**: This waterproof and flame-resistant case contains items useful to a spellcaster traveling the Elemental Planes, either intentionally or due to some mishap. The kit includes durable guides to each of the four Elemental Planes, describing a few common creatures and hazards found on each plane and pointing out major landmarks. Each guide grants a +2 circumstance bonus on Knowledge (planes) checks and Survival checks for its plane. This kit also contains 3 scrolls of [*comprehend languages*](../magic/spells/comprehend-languages.md), 2 scrolls of [*planar adaptation*](../magic/spells/planar-adaptation.md), and a scroll of [*plane shift*](../magic/spells/plane-shift.md) attuned to the Material Plane so the kit’s owner can return home. The price reflects a kit with divine scrolls; a kit containing arcane scrolls instead costs an additional 2,000 gp.
 
-**Emergency Interrogation Kit**: This wooden box contains the tools to interrogate a captive with ease. The kit includes masterwork manacles with an average lock, a vial of gravelly tonic, 2 elixirs of truth, and a scroll of *detect thoughts*. In case other methods fail, the kit also includes a scroll of *speak with dead*.
+**Emergency Interrogation Kit**: This wooden box contains the tools to interrogate a captive with ease. The kit includes masterwork manacles with an average lock, a vial of gravelly tonic, 2 elixirs of truth, and a scroll of [*detect thoughts*](../magic/spells/detect-thoughts.md). In case other methods fail, the kit also includes a scroll of [*speak with dead*](../magic/spells/speak-with-dead.md).
 
-**Fiendslayer’s Kit**: This pack includes several items necessary to injure or intimidate a variety of evil outsiders, or to overcome their damage reduction. The kit contains a celestial censer, a silver holy symbol, 2 cold iron weapon blanches, 2 vials of holy water, 10 sticks of incense, an *oil of align weapon* (good), a vial of silversheen, and a scroll of *magic circle against evil*. Most of the items in this kit are items evil outsiders hate, increasing the effectiveness of spells such as *banishment*.
+**Fiendslayer’s Kit**: This pack includes several items necessary to injure or intimidate a variety of evil outsiders, or to overcome their damage reduction. The kit contains a celestial censer, a silver holy symbol, 2 cold iron weapon blanches, 2 vials of holy water, 10 sticks of incense, an *oil of align weapon* (good), a vial of silversheen, and a scroll of [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md). Most of the items in this kit are items evil outsiders hate, increasing the effectiveness of spells such as [*banishment*](../magic/spells/banishment.md).
 
-**Invisible Enemies Kit**: This kit is designed to help adventurers deal with surprise encounters against magically concealed enemies, and comes in a small, waterproof satchel. The kit contains 2 scrolls of *glitterdust*, 6 half-pound packages of powder such as flour, and one packet of *dust of appearance*.
+**Invisible Enemies Kit**: This kit is designed to help adventurers deal with surprise encounters against magically concealed enemies, and comes in a small, waterproof satchel. The kit contains 2 scrolls of [*glitterdust*](../magic/spells/glitterdust.md), 6 half-pound packages of powder such as flour, and one packet of *dust of appearance*.
 
 **Undead Survivor’s Kit**: Although this sturdy leather bandolier contains a few items to help combat undead foes, its primary purpose is to supply the right tools to recover from an undead attack and escape. This kit includes 4 *potions of hide from undead*, a *potion of lesser restoration*, 2 flasks of holy water, 2 doses of holy weapon balm, a vial of soul stimulant, and 2 vials of twitch tonic.
 
@@ -243,7 +243,7 @@ All of the following substances can be made by a character with the Craft (alche
 | Swarm-bait paste | 75 gp | — | 30 |
 | Tress tincture | 50 gp | — | 25 |
 
-**Surgical Jelly**: When ingested, this thick red gelatinous substance seeks out and surgically eliminates invasive threats to the body. Consuming surgical jelly immediately ends any infestations (such as parasitic grubs), implanted eggs, or other non-disease effects that can be cured by *remove disease*, so long as such a cure does not require a caster level check. Consuming a pot of surgical jelly is a full-round action (3 AP).
+**Surgical Jelly**: When ingested, this thick red gelatinous substance seeks out and surgically eliminates invasive threats to the body. Consuming surgical jelly immediately ends any infestations (such as parasitic grubs), implanted eggs, or other non-disease effects that can be cured by [*remove disease*](../magic/spells/remove-disease.md), so long as such a cure does not require a caster level check. Consuming a pot of surgical jelly is a full-round action (3 AP).
 
 **Troll Styptic**: Troll styptic is used as a field treatment for wounds and bleeding, particularly where magical healing is not available. When applied directly to wounds, this jar of paste grants a living creature fast healing 2 for 2d4 rounds. While active, the styptic also closes any open wounds the subject receives, negating any bleed effects that would affect the target. This is a painful cure, and the target must succeed at a DC 15 Fortitude save or be sickened for the styptic’s duration.
 
@@ -292,18 +292,18 @@ If you are a vishkanya, the snake-tongue concoction instead applies the poison g
 |---|---|
 | 1 | The concoctions combine to form a deadly poison. You take 1d6 points of Constitution damage per round for 1d3+1 rounds. |
 | 2–3 | The concoctions react explosively… inside you. You take 5d12 points of fire damage. |
-| 4–7 | You are rendered permanently blind or deaf (determined randomly). A *remove blindness/deafness* spell or similar effect is required to restore your lost sense. |
+| 4–7 | You are rendered permanently blind or deaf (determined randomly). A [*remove blindness/deafness*](../magic/spells/remove-blindness-deafness.md) spell or similar effect is required to restore your lost sense. |
 | 8–12 | The concoctions thin your blood so that any injury causes rapid bleeding. Whenever you take piercing or slashing damage during the next 24 hours, you also take 1 point of bleed damage. This bleed damage stacks with itself and with other bleed effects. |
 | 13–25 | The concoctions render you violently ill. You become nauseated 1 for 2d6 rounds. |
 | 26–33 | The concoctions unsettle your health. You become sickened for 3d4 minutes. |
 | 34–40 | The concoctions meddle with your mind. You are confused during the first round of each combat during the next 24 hours. |
 | 41–50 | The concoctions sap your energy. You are fatigued until you rest for 2d12 minutes. |
 | 51–60 | The concoctions sharpen your senses. You gain low-light vision and a +2 alchemical bonus on Perception checks; if you already have low-light vision, increase the bonus on Perception checks to +4. This effect lasts for 1d6 minutes. |
-| 61–69 | The concoctions grant you a sudden burst of energy. You gain the benefits of the *haste* spell for 1d3+1 rounds. This effect is nonmagical and cannot be dispelled. |
+| 61–69 | The concoctions grant you a sudden burst of energy. You gain the benefits of the [*haste*](../magic/spells/haste.md) spell for 1d3+1 rounds. This effect is nonmagical and cannot be dispelled. |
 | 70–75 | Any melee attacks you make with natural weapons or metal manufactured weapons deal an extra 1d4 points of electricity damage. Any electricity spell you cast deals 1 extra point of damage per die rolled. This effect is magical and lasts for 3d6 rounds. |
 | 76–85 | The concoctions toughen your skin, granting you a +1d3 enhancement bonus to your natural armor for 3d10 minutes. |
 | 86–92 | The concoctions accelerate your natural healing process. You gain fast healing 1d4 (roll each round) for 2d6 rounds. |
-| 93–99 | The concoctions fill you with euphoric morale. For the next 10d6 minutes, you gain the benefits of the *good hope* spell. This effect is nonmagical and cannot be dispelled. |
+| 93–99 | The concoctions fill you with euphoric morale. For the next 10d6 minutes, you gain the benefits of the [*good hope*](../magic/spells/good-hope.md) spell. This effect is nonmagical and cannot be dispelled. |
 | 100 | The concoctions unleash the full potential of your body and mind, transforming you into a paragon of your race and class. Choose two ability scores. You gain a +4 enhancement bonus to each of those ability scores for 24 hours. |
 
 ## Equipment from Distant Lands
@@ -341,5 +341,5 @@ The tools of distant lands often appeal to well-traveled explorers.
 
 **Curative Myrrh**: When you burn this powerful resin, it fills eight contiguous 10-foot cubes with faint smoke that persists for 8 hours. Creatures resting or receiving long-term care in the smoke from curative myrrh regain 1 additional hit point per level. Multiple uses of curative myrrh in a 24-hour period do not stack.
 
-**Liquid Breeze**: Developed in ancient times to ease travels across harsh deserts, liquid breeze is a common ware in markets catering to travelers, adventurers, and explorers. This soothing liquid grants the benefits of *endure elements* for 8 hours, but only against hot environments. This effect is nonmagical and can’t be dispelled.
+**Liquid Breeze**: Developed in ancient times to ease travels across harsh deserts, liquid breeze is a common ware in markets catering to travelers, adventurers, and explorers. This soothing liquid grants the benefits of [*endure elements*](../magic/spells/endure-elements.md) for 8 hours, but only against hot environments. This effect is nonmagical and can’t be dispelled.
 

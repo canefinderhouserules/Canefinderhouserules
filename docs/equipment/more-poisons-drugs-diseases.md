@@ -76,7 +76,7 @@ This toxin is made only by Scarlet assassins to ensure a target’s death, and t
 
 **Price** 50 gp
 
-**Effect** 1d4 rounds; *rage* as per the spell
+**Effect** 1d4 rounds; [*rage*](../magic/spells/rage.md) as per the spell
 
 **Effect** 1 hour; cold resistance 5
 
@@ -170,7 +170,7 @@ Common among desperate adventurers, gladiatorial combatants, and orc tribes, ruk
 
 Even in the absence of ravening abyssal hordes, the demonic rift causes a supernatural disease called the tainted plague. Those exposed to the demonic rift or creatures native to it (including creatures already suffering ability damage from the disease) must make a DC 15 Fortitude save once per day or become infected. Those reduced to 0 Wisdom are driven mad by the mind-bending horrors they have witnessed. Those reduced to 0 Constitution perish, their bodies rotting from the inside out and dissolving within 24 hours into primordial chaos matter.
 
-Creatures that do not need to breathe gain a +2 bonus on saves made to resist the tainted plague, but any creature eating or drinking anything from within the demonic rift must save immediately at a suffers a –5 penalty unless *purify food and drink* is first used.
+Creatures that do not need to breathe gain a +2 bonus on saves made to resist the tainted plague, but any creature eating or drinking anything from within the demonic rift must save immediately at a suffers a –5 penalty unless [*purify food and drink*](../magic/spells/purify-food-and-drink.md) is first used.
 
 ## Twilight Illness
 

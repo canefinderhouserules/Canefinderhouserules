@@ -11,4 +11,4 @@ Weapons with the *toxic* special ability reinforce the effects of applied poison
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *accelerate poison*, *pernicious poison*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*accelerate poison*](../../magic/spells/accelerate-poison.md), [*pernicious poison*](../../magic/spells/pernicious-poison.md); **Price** —

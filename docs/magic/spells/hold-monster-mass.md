@@ -3,6 +3,7 @@
 **School** enchantment (compulsion) [mind-affecting]; **Level** psychic 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action (2 AP)  
 **Components** V, S, M/DF (one hard metal bar or rod, which can be as small as a three-penny nail)  
+**Range** medium (100 ft. + 10 ft./level)  
 **Targets** one or more creatures, no two of which can be more than 30 ft. apart  
 **Duration** 1 round/level (D); see text  
 **Saving Throw** Will negates; see text; **Spell Resistance** yes

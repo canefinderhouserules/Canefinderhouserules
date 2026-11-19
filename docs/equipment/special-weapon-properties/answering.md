@@ -11,4 +11,4 @@ This ability can be placed only on melee weapons. For the purpose of the opportu
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *good hope*, creator must have the opportune parry and riposte deed; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*good hope*](../../magic/spells/good-hope.md), creator must have the opportune parry and riposte deed; **Price** —

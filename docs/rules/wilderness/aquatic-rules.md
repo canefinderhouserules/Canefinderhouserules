@@ -11,7 +11,7 @@ The basics of the Swim skill are unchanged. A creature that uses a move or full-
 - Every hour of swimming requires a DC 20 Swim check to avoid fatigue. Swimming is at least as strenuous as marching: extensive swimming requires checks as for a forced march, and continual double moves count as hustling.
 - A creature whose buoyancy is *swiftly sinking* can walk on the bottom at half its land speed with no Swim check.
 
-**Swim speed.** A creature with a swim speed moves at full swim speed through normal water without a Swim check, can run, charge and take 5-foot steps, and gains a +8 racial bonus on Swim checks to deal with hazards or special actions. If its swim speed is less than one quarter of its land speed (for example, 10 feet from *monkey fish*), it can swim at one quarter of its land speed instead, but loses the benefits of having a swim speed on those rounds.
+**Swim speed.** A creature with a swim speed moves at full swim speed through normal water without a Swim check, can run, charge and take 5-foot steps, and gains a +8 racial bonus on Swim checks to deal with hazards or special actions. If its swim speed is less than one quarter of its land speed (for example, 10 feet from [*monkey fish*](../../magic/spells/monkey-fish.md)), it can swim at one quarter of its land speed instead, but loses the benefits of having a swim speed on those rounds.
 
 ### Buoyancy
 
@@ -44,7 +44,7 @@ Mark a creature's depth relative to its starting depth on a token, on the map, o
 
 ### Physical Attacks
 
-Slashing and bludgeoning melee attacks underwater take a –2 penalty and deal half damage, making piercing weapons best. A creature that is off-balance suffers the same penalty and half damage with piercing weapons too. *Freedom of movement* negates these penalties, as does the *Aquadynamic Focus* feat. Creatures with a natural swim speed from the aquatic or water subtype don't take these penalties with their inherent natural attacks (but extra attacks gained from other sources, like an archetype, still do). Attacks that deal bludgeoning damage by pushing water, such as a kineticist's water blast, take no penalty.
+Slashing and bludgeoning melee attacks underwater take a –2 penalty and deal half damage, making piercing weapons best. A creature that is off-balance suffers the same penalty and half damage with piercing weapons too. [*Freedom of movement*](../../magic/spells/freedom-of-movement.md) negates these penalties, as does the *Aquadynamic Focus* feat. Creatures with a natural swim speed from the aquatic or water subtype don't take these penalties with their inherent natural attacks (but extra attacks gained from other sources, like an archetype, still do). Attacks that deal bludgeoning damage by pushing water, such as a kineticist's water blast, take no penalty.
 
 **Ranged attacks.** Ranged attacks take a –2 penalty for every 5 feet of water in addition to normal range penalties. The underwater light and heavy crossbows ignore this penalty but have much shorter range increments. Thrown weapons don't usually work underwater, but a properly prepared dense piercing weapon (stone, metal) can be thrown straight down, counting on its sinking buoyancy. At the end of its maximum range it keeps sinking, but too unpredictably to hit anything.
 
@@ -60,17 +60,17 @@ An off-balance creature loses its Dexterity bonus to AC, its opponents gain a +2
 
 ### Freedom of Movement
 
-A creature with *freedom of movement* can move and attack normally underwater: it swings weapons without penalties (thrown weapons and ammunition lose the benefit once they leave its possession), lifts objects without drag, walks along the bottom at full speed, and automatically succeeds at all Swim checks since the water offers no significant resistance.
+A creature with [*freedom of movement*](../../magic/spells/freedom-of-movement.md) can move and attack normally underwater: it swings weapons without penalties (thrown weapons and ammunition lose the benefit once they leave its possession), lifts objects without drag, walks along the bottom at full speed, and automatically succeeds at all Swim checks since the water offers no significant resistance.
 
 ### Spells
 
 - **Casting while holding breath.** A creature holding its breath must succeed at a concentration check (DC 15 + spell level) to cast a spell at all. A spell with a verbal component reduces remaining rounds of breath by 3 (stacking with the reduction for a standard or full-round action (3 AP)); a swift or immediate action (1 AP of your next turn) spell with a verbal component reduces it by 1. The caster can't finish the spell without enough breath. Mundane components work if stored in watertight containers.
-- **Acid.** Conjuration (creation) spells that conjure nonmagical acid (such as *acid arrow*) don't work; evocation spells that deal magical acid damage work normally.
-- **Clouds and weather.** Cloud spells (*fog cloud*, *obscuring mist*) don't work underwater; *Murky Spell* creates equivalents. Land weather spells (*ice storm*, *sleet storm*) don't function. Illusions like *twilight haze* work.
-- **Cold.** Cold spells that don't conjure ice (*cone of cold*) deal half cold and half piercing damage as ice shards form underwater.
+- **Acid.** Conjuration (creation) spells that conjure nonmagical acid (such as [*acid arrow*](../../magic/spells/acid-arrow.md)) don't work; evocation spells that deal magical acid damage work normally.
+- **Clouds and weather.** Cloud spells ([*fog cloud*](../../magic/spells/fog-cloud.md), [*obscuring mist*](../../magic/spells/obscuring-mist.md)) don't work underwater; *Murky Spell* creates equivalents. Land weather spells ([*ice storm*](../../magic/spells/ice-storm.md), [*sleet storm*](../../magic/spells/sleet-storm.md)) don't function. Illusions like [*twilight haze*](../../magic/spells/twilight-haze.md) work.
+- **Cold.** Cold spells that don't conjure ice ([*cone of cold*](../../magic/spells/cone-of-cold.md)) deal half cold and half piercing damage as ice shards form underwater.
 - **Electricity.** Magical electricity works normally, but visible and audible bolts and sparks don't appear. Creatures that fail to identify a ranged touch electricity spell are flat-footed against the first such attack in a fight (not against melee touch spells).
 - **Fire.** Normal fire and most supernatural fire can't burn underwater. When casting a fire spell underwater, make a caster level check (DC 20 + spell level) to channel the heat into steam, dealing normal damage without secondary effects like igniting combustibles. A fire spell is either entirely steam or entirely fire; if the area extends above the surface, choose a side, and the surface blocks line of effect for the rest. Spells that already create steam need no check. *Steam Spell* makes this easier.
-- **Invisibility.** An invisible creature still displaces water and can be targeted as if it had concealment. *Invisibility bubble* hides the displaced water.
+- **Invisibility.** An invisible creature still displaces water and can be targeted as if it had concealment. [*Invisibility bubble*](../../magic/spells/invisibility-bubble.md) hides the displaced water.
 - **Sonic.** Results are the same as on land; at the GM's discretion the caster can double the range or area, halve the damage and lower the DC by 2.
 
 ### Perception and Survival
@@ -82,11 +82,11 @@ A creature with *freedom of movement* can move and attack normally underwater: i
 
 ### Drowning
 
-A creature can typically hold its breath for rounds equal to twice its Constitution score. A standard or full-round action (3 AP) expends 1 additional round of breath, so a creature fighting or double-moving each round lasts rounds equal to its Constitution score. Intentionally exhaling expends 1 round (small exhalation) to 3 rounds (extended, like singing or casting a spell). *Suffocation* expels all held breath.
+A creature can typically hold its breath for rounds equal to twice its Constitution score. A standard or full-round action (3 AP) expends 1 additional round of breath, so a creature fighting or double-moving each round lasts rounds equal to its Constitution score. Intentionally exhaling expends 1 round (small exhalation) to 3 rounds (extended, like singing or casting a spell). [*Suffocation*](../../magic/spells/suffocation.md) expels all held breath.
 
 When out of breath, the creature must make a Constitution check each round (DC 10, +1 per round after the first). On a failure it begins to drown: unconscious (and 0 hit points if it had more), –1 hit points the next round, dead the round after. If it can breathe again, drowning stops but no hit points are regained. A creature holding its breath where it could breathe normally doesn't fall unconscious.
 
-Ways around it: *water breathing* (long-lasting, protects a group), *air bubble* (a few minutes for one creature), *life bubble* (half the duration of *water breathing* but protects against temperature and pressure), or air tanks (carrying many extra breaths sets buoyancy to swiftly rising).
+Ways around it: [*water breathing*](../../magic/spells/water-breathing.md) (long-lasting, protects a group), [*air bubble*](../../magic/spells/air-bubble.md) (a few minutes for one creature), [*life bubble*](../../magic/spells/life-bubble.md) (half the duration of *water breathing* but protects against temperature and pressure), or air tanks (carrying many extra breaths sets buoyancy to swiftly rising).
 
 ### Oceanic Zones
 
@@ -98,11 +98,11 @@ Ways around it: *water breathing* (long-lasting, protects a group), *air bubble*
 | **Abyssal** | 13,000 ft. to the bottom | Dark and cold (35° to 39° F); hydrothermal vents provide warmth. |
 | **Abaddonian** (optional) | Below 20,000 ft. | Deep trenches; pressures over 1,000 times surface, cold and ambient magic. |
 
-**Pressure.** Most aquatic creatures ignore pressure damage within their native depth range unless they travel instantly between depths (as with *dimension door*). Pressure damage is as in the Core Rulebook. Surface creatures treat 0–100 feet as their native zone. For every minute spent below their native zone, a creature must make a Fortitude save (DC 15, +1 per minute after the first) or take 1d6 damage plus 1d6 for every additional 100 feet beyond the first. After five successful saves (consecutive or not) the creature adapts, shifting its native range down or up by 100 feet; a creature within its native range suffering an instantaneous change adapts all at once. A surface dweller who descends and adapts will suffer pressure hazards again when ascending.
+**Pressure.** Most aquatic creatures ignore pressure damage within their native depth range unless they travel instantly between depths (as with [*dimension door*](../../magic/spells/dimension-door.md)). Pressure damage is as in the Core Rulebook. Surface creatures treat 0–100 feet as their native zone. For every minute spent below their native zone, a creature must make a Fortitude save (DC 15, +1 per minute after the first) or take 1d6 damage plus 1d6 for every additional 100 feet beyond the first. After five successful saves (consecutive or not) the creature adapts, shifting its native range down or up by 100 feet; a creature within its native range suffering an instantaneous change adapts all at once. A surface dweller who descends and adapts will suffer pressure hazards again when ascending.
 
 *Example:* swimming to 220 feet is 120 feet outside the native range of 0–100, so 2d6 damage each minute on a failed save. After five saves the range becomes 100–200 (1d6 per minute), and after five more, 200–300 (no damage), but ascending to the surface restores 2d6 damage until adapted again.
 
-*Freedom of movement* and *life bubble* prevent pressure damage; *pressure adaptation* and *stabilize pressure* are lower-level options.
+[*Freedom of movement*](../../magic/spells/freedom-of-movement.md) and [*life bubble*](../../magic/spells/life-bubble.md) prevent pressure damage; [*pressure adaptation*](../../magic/spells/pressure-adaptation.md) and [*stabilize pressure*](../../magic/spells/stabilize-pressure.md) are lower-level options.
 
 **Temperature.** Creatures in water at 80° F or higher are safe from hypothermia.
 
@@ -113,11 +113,11 @@ Ways around it: *water breathing* (long-lasting, protects a group), *air bubble*
 | 32° to 40° F | Extreme cold: automatic 1d6 lethal cold damage per minute |
 | Below 32° F (high salt) | Automatic 2d6 lethal cold damage per minute |
 
-Sea creatures are adapted to their native zones. *Endure elements* protects against water as cold as 32° F. Water rarely gets hot enough to harm except near hazards like hydrothermal vents.
+Sea creatures are adapted to their native zones. [*Endure elements*](../../magic/spells/endure-elements.md) protects against water as cold as 32° F. Water rarely gets hot enough to harm except near hazards like hydrothermal vents.
 
 ### Currents and Running Water
 
-Currents work like rivers: each has a speed (feet per round), width and direction, and pushes a creature that distance at the start of its turn. This movement provokes attacks of opportunity from creatures not in the same current. Swimming perpendicular to the flow is usually best. Natural ocean currents rarely exceed 50 feet per round in the sunlight zone and are slower with depth (rivers can reach 90). A current is at least rough water (Swim DC 15); faster currents are at least stormy (DC 20). Most of the ocean is not running water, but currents are (so *locate creature* is blocked by even a slow current, and vampires risk being affected by an unexpected current).
+Currents work like rivers: each has a speed (feet per round), width and direction, and pushes a creature that distance at the start of its turn. This movement provokes attacks of opportunity from creatures not in the same current. Swimming perpendicular to the flow is usually best. Natural ocean currents rarely exceed 50 feet per round in the sunlight zone and are slower with depth (rivers can reach 90). A current is at least rough water (Swim DC 15); faster currents are at least stormy (DC 20). Most of the ocean is not running water, but currents are (so [*locate creature*](../../magic/spells/locate-creature.md) is blocked by even a slow current, and vampires risk being affected by an unexpected current).
 
 ### Whirlpools
 

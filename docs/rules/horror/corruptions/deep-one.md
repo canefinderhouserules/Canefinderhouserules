@@ -52,7 +52,7 @@ Disgusting, translucent claws grow from your fingers.
 
 **Gift**: You gain two claw natural attacks. These claws deal 1d4 points of damage if your size is Medium (1d3 if Small).
 
-**Stain**: You exude a strong odor of low tide. This allows creatures with the scent ability to notice you from twice the usual distance, and makes it extremely difficult—and sometimes outright impossible—to disguise yourself. You also take a –4 penalty on your Diplomacy and Perform checks against creatures without the aquatic subtype. Your supernatural scent is not affected by the *negate aroma* spell.
+**Stain**: You exude a strong odor of low tide. This allows creatures with the scent ability to notice you from twice the usual distance, and makes it extremely difficult—and sometimes outright impossible—to disguise yourself. You also take a –4 penalty on your Diplomacy and Perform checks against creatures without the aquatic subtype. Your supernatural scent is not affected by the [*negate aroma*](../../../magic/spells/negate-aroma.md) spell.
 
 ### Deep Adaptation
 
@@ -88,7 +88,7 @@ You grow gills at your jawline.
 
 **Gift**: You can hold your breath underwater for 10 minutes per point of Constitution you have. At manifestation level 3rd, you can breathe underwater indefinitely. At manifestation level 7th, you can no longer breathe air and must hold your breath when above water (though you can still hold your breath for 10 minutes per point of Constitution you have).
 
-**Stain**: Your gills impose a –4 penalty on Fortitude saves against inhaled poisons and poison effects (like *stinking cloud*).
+**Stain**: Your gills impose a –4 penalty on Fortitude saves against inhaled poisons and poison effects (like [*stinking cloud*](../../../magic/spells/stinking-cloud.md)).
 
 ### Siltsight
 

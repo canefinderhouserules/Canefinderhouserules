@@ -115,19 +115,19 @@ Starting at 4th level, a druid gains a +4 bonus on saving throws against the spe
 
 ### Wild Shape (Su)
 
-At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the *beast shape I* spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action (1 AP) and doesn’t provoke an attack of opportunity. The form chosen must be that of an animal with which the druid is familiar.
+At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the [*beast shape I*](../../magic/spells/beast-shape-i.md) spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action (1 AP) and doesn’t provoke an attack of opportunity. The form chosen must be that of an animal with which the druid is familiar.
 
 A druid loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
 
 A druid can use this ability an additional time per day at 6th level and every two levels thereafter, for a total of eight times at 18th level. At 20th level, a druid can use wild shape at will. As a druid gains levels, this ability allows the druid to take on the form of larger and smaller animals, elementals, and plants. Each form expends one daily use of this ability, regardless of the form taken.
 
-At 6th level, a druid can also use wild shape to change into a Large or Tiny animal or a Small elemental. When taking the form of an animal, a druid’s wild shape now functions as *beast shape II*. When taking the form of an elemental, the druid’s wild shape functions as *elemental* *body I*.
+At 6th level, a druid can also use wild shape to change into a Large or Tiny animal or a Small elemental. When taking the form of an animal, a druid’s wild shape now functions as [*beast shape II*](../../magic/spells/beast-shape-ii.md). When taking the form of an elemental, the druid’s wild shape functions as *elemental* *body I*.
 
-At 8th level, a druid can also use wild shape to change into a Huge or Diminutive animal, a Medium elemental, or a Small or Medium plant creature. When taking the form of animals, a druid’s wild shape now functions as *beast shape III*. When taking the form of an elemental, the druid’s wild shape now functions as *elemental body II*. When taking the form of a plant creature, the druid’s wild shape functions as *plant shape I*.
+At 8th level, a druid can also use wild shape to change into a Huge or Diminutive animal, a Medium elemental, or a Small or Medium plant creature. When taking the form of animals, a druid’s wild shape now functions as [*beast shape III*](../../magic/spells/beast-shape-iii.md). When taking the form of an elemental, the druid’s wild shape now functions as [*elemental body II*](../../magic/spells/elemental-body-ii.md). When taking the form of a plant creature, the druid’s wild shape functions as [*plant shape I*](../../magic/spells/plant-shape-i.md).
 
-At 10th level, a druid can also use wild shape to change into a Large elemental or a Large plant creature. When taking the form of an elemental, the druid’s wild shape now functions as *elemental body III*. When taking the form of a plant, the druid’s wild shape now functions as *plant* *shape II*.
+At 10th level, a druid can also use wild shape to change into a Large elemental or a Large plant creature. When taking the form of an elemental, the druid’s wild shape now functions as [*elemental body III*](../../magic/spells/elemental-body-iii.md). When taking the form of a plant, the druid’s wild shape now functions as *plant* *shape II*.
 
-At 12th level, a druid can also use wild shape to change into a Huge elemental or a Huge plant creature. When taking the form of an elemental, the druid’s wild shape now functions as *elemental body IV*. When taking the form of a plant, the druid’s wild shape now functions as *plant shape III*.
+At 12th level, a druid can also use wild shape to change into a Huge elemental or a Huge plant creature. When taking the form of an elemental, the druid’s wild shape now functions as [*elemental body IV*](../../magic/spells/elemental-body-iv.md). When taking the form of a plant, the druid’s wild shape now functions as [*plant shape III*](../../magic/spells/plant-shape-iii.md).
 
 ### Venom Immunity (Ex)
 

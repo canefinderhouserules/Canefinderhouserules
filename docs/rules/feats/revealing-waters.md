@@ -8,7 +8,7 @@ Your holy water washes away falsehoods.
 
 **Benefit**: Holy water you create through the use of the [Blessed Waters](blessed-waters.md) feat can foil shapeshifters and those affected by deceptive magic. Any creature that takes damage from or that is within the splash radius of holy water you both created and threw is compelled to revert to its true form.
 
-This affects beings affected by transmutation magic (such as [*alter self*](../../magic/spells/alter-self.md) or [*gaseous form*](../../magic/spells/gaseous-form.md)), by deceptive illusions (such as [*disguise self*](../../magic/spells/disguise-self.md) or [*invisibility*](../../magic/spells/invisibility.md)), or by similar effects (at the GM’s discretion). This ability can even affect creatures using supernatural abilities, such as the change shape ability or a vampire’s *gaseous form*, though you take a –5 penalty on your dispel checks when attempting to dispel such abilities.
+This affects beings affected by transmutation magic (such as [*alter self*](../../magic/spells/alter-self.md) or [*gaseous form*](../../magic/spells/gaseous-form.md)), by deceptive illusions (such as [*disguise self*](../../magic/spells/disguise-self.md) or [*invisibility*](../../magic/spells/invisibility.md)), or by similar effects (at the GM’s discretion). This ability can even affect creatures using supernatural abilities, such as the change shape ability or a vampire’s [*gaseous form*](../../magic/spells/gaseous-form.md), though you take a –5 penalty on your dispel checks when attempting to dispel such abilities.
 
 In general, any ability or spell that changes one creature into another or makes a creature look like something other than itself (or nothing at all) is affected.
 

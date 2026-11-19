@@ -83,7 +83,7 @@ The following summarizes the key rolls you’ll make when using mass combat:
 
 **Consumption**: This is how many Build Points (BP) an army consumes each week (unlike most kingdom expenses, this cost is per week, not per month), representing the cost to feed, hydrate, arm, train, care for, and pay the units. An army’s base Consumption is equal to its ACR divided by 2 (minimum 1). If you fall behind on paying the army’s Consumption, reduce its Morale by 2; this penalty ends when you catch up on the army’s pay.
 
-**Commander**: This entry lists the army’s commander and the commander’s Charisma modifier, ranks in Profession (soldier), and Leadership score. The commander must be able to communicate with the army (possibly using *message* spells and similar magical forms of communication) in order to give orders or provide a bonus on the army’s rolls.
+**Commander**: This entry lists the army’s commander and the commander’s Charisma modifier, ranks in Profession (soldier), and Leadership score. The commander must be able to communicate with the army (possibly using [*message*](../../../magic/spells/message.md) spells and similar magical forms of communication) in order to give orders or provide a bonus on the army’s rolls.
 
 ## Battle Phases
 
@@ -119,7 +119,7 @@ These rules can also serve in battles where more than two armies clash. In such 
 
 In some mass combats, the specifics of a battlefield won’t impact either army, but sometimes the battlefield will itself decide the outcome. The modifiers listed below apply only for the duration of the battle. Naturally, the GM should exercise judgment regarding any conditions that don’t seem to apply to one of the armies (such as darkness and an army with darkvision, or fog and an army with scent).
 
-At the GM’s discretion, large-area spells such as *move earth* might allow armies or commanders to manipulate the battlefield conditions before a conflict. For these spells to have any effect, they must last at least 1 hour and affect at least a 500-foot square. Likewise, magic items such as an *instant fortress* (+2 Defense) and spells such as *wall of stone* (+1 Defense) can create simple fortifications for an army to use in a battle.
+At the GM’s discretion, large-area spells such as [*move earth*](../../../magic/spells/move-earth.md) might allow armies or commanders to manipulate the battlefield conditions before a conflict. For these spells to have any effect, they must last at least 1 hour and affect at least a 500-foot square. Likewise, magic items such as an *instant fortress* (+2 Defense) and spells such as [*wall of stone*](../../../magic/spells/wall-of-stone.md) (+1 Defense) can create simple fortifications for an army to use in a battle.
 
 **Advantageous Terrain**: Generally, if one army occupies a position of superiority (such as being atop a hill, wedged in a narrow canyon, or protected by a deep river along one flank), the defending army increases its DV by 2.
 
@@ -553,7 +553,7 @@ You can use the following special abilities as inspiration to generate additiona
 
 ## Player Characters in Battles
 
-In addition to the option of your PCs being commanders in your armies, the GM may have you fight smaller groups of enemies before or even during a battle in which your armies clash with the enemy. For example, your PCs might attack an evil necromancer and fight your way through his tower to confront him directly and defeat him while your army battles the undead horde outside the tower. Alternatively, your PCs could use potent spells (such as *cloudkill*, *control water*, or *earthquake*) to alter battlefield conditions in your favor. These possibilities let you use your characters to directly affect the outcome of a battle without forcing you to sit out on an adventure opportunity by personally commanding an army.
+In addition to the option of your PCs being commanders in your armies, the GM may have you fight smaller groups of enemies before or even during a battle in which your armies clash with the enemy. For example, your PCs might attack an evil necromancer and fight your way through his tower to confront him directly and defeat him while your army battles the undead horde outside the tower. Alternatively, your PCs could use potent spells (such as [*cloudkill*](../../../magic/spells/cloudkill.md), [*control water*](../../../magic/spells/control-water.md), or [*earthquake*](../../../magic/spells/earthquake.md)) to alter battlefield conditions in your favor. These possibilities let you use your characters to directly affect the outcome of a battle without forcing you to sit out on an adventure opportunity by personally commanding an army.
 
 If your PCs win the small-scale combat or dramatically affect the battlefield with magic, the GM could opt to increase your army’s DV and OM by +4 for that battle, or penalize your armies by –4 if you lose. At the GM’s discretion, your PCs’ failure or victory might have other effects on your armies as well, such as temporarily granting an additional tactic, altering the hit points of one or more armies, or granting or negating a special ability.
 

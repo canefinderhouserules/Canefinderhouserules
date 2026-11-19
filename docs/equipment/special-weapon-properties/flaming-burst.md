@@ -13,4 +13,4 @@ Even if the *flaming* ability is not active, the weapon still deals its extra fi
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor and *fireball*, *flame blade*, or *flame strike*; **Price** —
+**Requirements** Craft Magic Arms and Armor and [*fireball*](../../magic/spells/fireball.md), [*flame blade*](../../magic/spells/flame-blade.md), or [*flame strike*](../../magic/spells/flame-strike.md); **Price** —

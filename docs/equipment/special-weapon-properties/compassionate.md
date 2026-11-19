@@ -11,4 +11,4 @@ A *compassionate* weapon has the power to save a foe from the brink of death. Wh
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *stabilize*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*stabilize*](../../magic/spells/stabilize.md); **Price** —

@@ -8,7 +8,7 @@ This corruption stems from experimentation designed to create or extend life—p
 
 ### Progression
 
-Whenever you fail a Fortitude save against any effect or fall below 0 hit points, you must attempt a Fortitude save (DC = 15 + your manifestation level). If you fail that save, some of the living components of your body begin to fail. Within the next 3 days, you or someone you trust must spend 8 hours replacing more of your body with construct parts. If you don’t do so, you die, and even if you are brought back from the dead with *resurrection* or *true resurrection* (which are necessary since your body isn’t viable), you still must perform the operation or you die again in 3 days. After an operation, there is a 50% chance your corruption progresses to the next stage. If it doesn’t, the DC of the above Fortitude save increases by 2 until your corruption reaches the next stage. These increases stack.
+Whenever you fail a Fortitude save against any effect or fall below 0 hit points, you must attempt a Fortitude save (DC = 15 + your manifestation level). If you fail that save, some of the living components of your body begin to fail. Within the next 3 days, you or someone you trust must spend 8 hours replacing more of your body with construct parts. If you don’t do so, you die, and even if you are brought back from the dead with [*resurrection*](../../../magic/spells/resurrection.md) or [*true resurrection*](../../../magic/spells/true-resurrection.md) (which are necessary since your body isn’t viable), you still must perform the operation or you die again in 3 days. After an operation, there is a 50% chance your corruption progresses to the next stage. If it doesn’t, the DC of the above Fortitude save increases by 2 until your corruption reaches the next stage. These increases stack.
 
 While your body parts are failing (after you’ve failed the Fort save but before you’ve repaired your body), you don’t have to attempt additional saves when you fail a Fortitude save or fall below 0 hit points. Once you’ve been repaired, you need to attempt saves in these circumstances again.
 
@@ -20,7 +20,7 @@ While your body parts are failing (after you’ve failed the Fort save but befor
 
 ### Removing the Corruption
 
-Getting rid of a corruption requires invasive surgery to remove the artificial components fused to your body. Even these procedures might not cure your underlying wasting, so you might need to scour medical and alchemical tomes and consult divine spellcasters for a safer procedure than replacing your body parts in the way you were before. Powerful magic like *miracle* or *wish* in conjunction with *regenerate* might strip the components from your body and prevent the wasting.
+Getting rid of a corruption requires invasive surgery to remove the artificial components fused to your body. Even these procedures might not cure your underlying wasting, so you might need to scour medical and alchemical tomes and consult divine spellcasters for a safer procedure than replacing your body parts in the way you were before. Powerful magic like [*miracle*](../../../magic/spells/miracle.md) or [*wish*](../../../magic/spells/wish.md) in conjunction with [*regenerate*](../../../magic/spells/regenerate.md) might strip the components from your body and prevent the wasting.
 
 ## Manifestations
 
@@ -98,7 +98,7 @@ When you fly into a rage, you destroy everything nearby.
 
 **Gift**: While enraged, you deal double damage to objects and gain a +4 bonus on Strength checks to break objects.
 
-**Stain**: Returning from the heights of fury takes a toll on your body. You are staggered for 1 minute after ending a rage of any kind (including berserk fury, barbarian rage, and the *rage* spell). Nothing can remove this condition, nor does immunity to being staggered prevent it.
+**Stain**: Returning from the heights of fury takes a toll on your body. You are staggered for 1 minute after ending a rage of any kind (including berserk fury, barbarian rage, and the [*rage*](../../../magic/spells/rage.md) spell). Nothing can remove this condition, nor does immunity to being staggered prevent it.
 
 ### Replacement Limb
 
@@ -118,7 +118,7 @@ The last time you added more construct parts to your body, you reached a tipping
 
 **Gift**: You gain a bonus on Fortitude saves against poison and disease equal to half your manifestation level. Additionally, you require only half as much food and water as normal, and half as much rest as normal to gain a full night’s sleep. However, you must still rest for at least 8 hours to prepare spells.
 
-**Stain**: You are treated as both a construct and your original creature type for spells and effects that target creatures by type (such as the *bane* weapon special ability or a ranger’s favored enemy class feature).
+**Stain**: You are treated as both a construct and your original creature type for spells and effects that target creatures by type (such as the [*bane*](../../../magic/spells/bane.md) weapon special ability or a ranger’s favored enemy class feature).
 
 **Special**: You can gain this manifestation only if you have failed at least one corruption progression saving throw and replaced more of your body with construct parts.
 

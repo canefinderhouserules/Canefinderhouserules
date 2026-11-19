@@ -12,4 +12,4 @@ An *incendiary cloud* spell creates a cloud of roiling smoke shot through with w
 
 As with a [*cloudkill*](cloudkill.md) spell, the smoke moves away from you at 10 feet per round. Figure out the smoke’s new spread each round based on its new point of origin, which is 10 feet farther away from where you were when you cast the spell. By concentrating, you can make the cloud move as much as 60 feet each round. Any portion of the cloud that would extend beyond your maximum range dissipates harmlessly, reducing the remainder’s spread thereafter.
 
-As with *fog cloud*, wind disperses the smoke, and the spell can’t be cast underwater.
+As with [*fog cloud*](fog-cloud.md), wind disperses the smoke, and the spell can’t be cast underwater.

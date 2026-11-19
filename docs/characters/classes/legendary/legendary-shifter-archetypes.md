@@ -50,17 +50,17 @@ At 17th level, a dragon touched’s flight speed increases to 120 feet and her b
 
 *This ability replaces shifter aspect.*
 
-**Draconic Shape (Su):** At 1st level, a dragon touched gains the ability to turn herself into a metallic or chromatic Small dragon and back again, although she may only shift into a type of dragon she has selected with her dragon-blooded or chimeric dragon class features. This ability functions like the *form of the dragon I* spell, except as noted here. The effect lasts for a number of hours equal to 1/2 her legendary shifter class level + her Wisdom modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A dragon touched can change form while in her draconic shape, but doing so reduces her total duration by 1 hour. Draconic shape is treated as wild shape for the purpose of feats which would affect it.
+**Draconic Shape (Su):** At 1st level, a dragon touched gains the ability to turn herself into a metallic or chromatic Small dragon and back again, although she may only shift into a type of dragon she has selected with her dragon-blooded or chimeric dragon class features. This ability functions like the [*form of the dragon I*](../../../magic/spells/form-of-the-dragon-i.md) spell, except as noted here. The effect lasts for a number of hours equal to 1/2 her legendary shifter class level + her Wisdom modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A dragon touched can change form while in her draconic shape, but doing so reduces her total duration by 1 hour. Draconic shape is treated as wild shape for the purpose of feats which would affect it.
 
 In addition, a dragon touched can change her form while in shifter shape as a standard action (1 AP) a number of times per day equal to 1/2 her character level + her Wisdom modifier (minimum 1); doing so does not consume any duration of her draconic shape ability.
 
-A dragon touched who takes the form of a small dragon does not gain the wing attacks, fly speed, energy resistance, breath weapon or movement types, and she gains a +2 size bonus to Dexterity and +1 natural armor rather than the benefits normally granted by *form of the dragon I*. At 5th level, she gains the fly speed normally granted by *form of the dragon I*. At 8th level, she gains the wing attacks normally granted by *form of the dragon I*. At 11th level, she gains the movement type granted by *form of the dragon I*.
+A dragon touched who takes the form of a small dragon does not gain the wing attacks, fly speed, energy resistance, breath weapon or movement types, and she gains a +2 size bonus to Dexterity and +1 natural armor rather than the benefits normally granted by [*form of the dragon I*](../../../magic/spells/form-of-the-dragon-i.md). At 5th level, she gains the fly speed normally granted by *form of the dragon I*. At 8th level, she gains the wing attacks normally granted by *form of the dragon I*. At 11th level, she gains the movement type granted by *form of the dragon I*.
 
-At 5th level, a dragon touched can take the form of a Medium dragon as per the *form of the dragon I* except as noted here. A dragon touched who takes the form of a medium dragon does not gain the wing attacks, energy resistance, breath weapon or movement types, and she gains a +2 size bonus to Strength and Constitution, a -2 size penalty to Dexterity, and +2 natural armor rather than the benefits normally gained from *form of the dragon I*. At 8th level, she gains the wing attacks normally granted by *form of the dragon I* and her size bonuses increase to +4 to Strength and Constitution. At 11th level, she gains the movement type and energy resistance granted by *form of the dragon I*.
+At 5th level, a dragon touched can take the form of a Medium dragon as per the [*form of the dragon I*](../../../magic/spells/form-of-the-dragon-i.md) except as noted here. A dragon touched who takes the form of a medium dragon does not gain the wing attacks, energy resistance, breath weapon or movement types, and she gains a +2 size bonus to Strength and Constitution, a -2 size penalty to Dexterity, and +2 natural armor rather than the benefits normally gained from *form of the dragon I*. At 8th level, she gains the wing attacks normally granted by *form of the dragon I* and her size bonuses increase to +4 to Strength and Constitution. At 11th level, she gains the movement type and energy resistance granted by *form of the dragon I*.
 
-At 11th level, a dragon can take the form of a Large dragon, as per the *form of the dragon II* spell, except as noted here. A dragon touched who takes the form of a Large dragon does not gain the damage reduction or breath weapon granted by *form of the dragon II*. At 15th level, she gains the damage reduction granted by *form of the dragon II*.
+At 11th level, a dragon can take the form of a Large dragon, as per the [*form of the dragon II*](../../../magic/spells/form-of-the-dragon-ii.md) spell, except as noted here. A dragon touched who takes the form of a Large dragon does not gain the damage reduction or breath weapon granted by *form of the dragon II*. At 15th level, she gains the damage reduction granted by *form of the dragon II*.
 
-At 15th level, a dragon can take the form of a Huge dragon, as per the *form of the dragon III* spell, except as noted here. A dragon touched who takes the form of a Large dragon does not gain the breath weapon *form of the dragon III*.
+At 15th level, a dragon can take the form of a Huge dragon, as per the [*form of the dragon III*](../../../magic/spells/form-of-the-dragon-iii.md) spell, except as noted here. A dragon touched who takes the form of a Large dragon does not gain the breath weapon *form of the dragon III*.
 
 *This ability alters shifter shape.*
 
@@ -96,13 +96,13 @@ At 15th level, a dragon can take the form of a Huge dragon, as per the *form of 
 
 *This alters bonus feats.*
 
-**Elemental Shape (Su):** At 5th level, an elemental nexus can use shifter shape to change into a Small elemental. When taking the form of an elemental, the elemental nexus’s shifter shape functions as *elemental body I*.
+**Elemental Shape (Su):** At 5th level, an elemental nexus can use shifter shape to change into a Small elemental. When taking the form of an elemental, the elemental nexus’s shifter shape functions as [*elemental body I*](../../../magic/spells/elemental-body-i.md).
 
-At 8th level, an elemental nexus can use shifter shape to change into a Medium elemental. When taking the form of an elemental, the elemental nexus’s shifter shape now functions as *elemental body II*.
+At 8th level, an elemental nexus can use shifter shape to change into a Medium elemental. When taking the form of an elemental, the elemental nexus’s shifter shape now functions as [*elemental body II*](../../../magic/spells/elemental-body-ii.md).
 
-At 10th level, an elemental nexus can use shifter shape to change into a Large elemental When taking the form of an elemental, the elemental nexus’s shifter shape now functions as *elemental body III*.
+At 10th level, an elemental nexus can use shifter shape to change into a Large elemental When taking the form of an elemental, the elemental nexus’s shifter shape now functions as [*elemental body III*](../../../magic/spells/elemental-body-iii.md).
 
-At 12th level, an elemental nexus can use shifter shape to change into a Huge elemental. When taking the form of an elemental, the elemental nexus’s shifter shape now functions as *elemental body IV*.
+At 12th level, an elemental nexus can use shifter shape to change into a Huge elemental. When taking the form of an elemental, the elemental nexus’s shifter shape now functions as [*elemental body IV*](../../../magic/spells/elemental-body-iv.md).
 
 An elemental nexus cannot take the shape of a magical beast.
 
@@ -124,17 +124,17 @@ An elemental nexus cannot take the shape of a magical beast.
 
 *This ability replaces shifter aspect, chimeric aspect, greater chimeric aspect, and bonus feats.*
 
-**Fairy Shape (Su):** At 1st level, a fairy shifter gains the ability to turn herself into any small or Medium fey without a fly speed and back again. Her options for new forms include all creatures with the fey type except for those with a fly speed. This ability functions like the *fey form I* spell, except as noted here. The form chosen must be that of a fey with which the fairy shifter is familiar. The effect lasts for a number of hours equal to 1/2 her fairy shifter class level + her Charisma modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A fairy shifter can change form while in her fairy shape, but doing so reduces her total duration by 1 hour. Fairy shape is treated as wild shape for the purpose of feats which would affect it.
+**Fairy Shape (Su):** At 1st level, a fairy shifter gains the ability to turn herself into any small or Medium fey without a fly speed and back again. Her options for new forms include all creatures with the fey type except for those with a fly speed. This ability functions like the [*fey form I*](../../../magic/spells/fey-form-i.md) spell, except as noted here. The form chosen must be that of a fey with which the fairy shifter is familiar. The effect lasts for a number of hours equal to 1/2 her fairy shifter class level + her Charisma modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A fairy shifter can change form while in her fairy shape, but doing so reduces her total duration by 1 hour. Fairy shape is treated as wild shape for the purpose of feats which would affect it.
 
 In addition, a fairy shifter can change her form while in shifter shape a number of times per day equal to 1/2 her character level + her Charisma modifier (minimum 1); doing so does not consume any duration of her fairy shape ability.
 
-At 3rd level, a fairy shifter is no longer limited in which forms she can take with *fey form I*.
+At 3rd level, a fairy shifter is no longer limited in which forms she can take with [*fey form I*](../../../magic/spells/fey-form-i.md).
 
-At 7th level, a fairy shifter can use shifter shape to change into a Large or Tiny fey. When taking the form of an fey, a fair shifter’s fey shape now functions as *fey form II*.
+At 7th level, a fairy shifter can use shifter shape to change into a Large or Tiny fey. When taking the form of an fey, a fair shifter’s fey shape now functions as [*fey form II*](../../../magic/spells/fey-form-ii.md).
 
-At 11th level, a fairy shifter can use shifter shape to change into a Huge or Diminutive fey. When taking the form of an fey, a fairy shifter’s fey shape now functions as *fey form III*.
+At 11th level, a fairy shifter can use shifter shape to change into a Huge or Diminutive fey. When taking the form of an fey, a fairy shifter’s fey shape now functions as [*fey form III*](../../../magic/spells/fey-form-iii.md).
 
-At 17th level, when taking the form of an fey, a fairy shifter’s shifter shape now functions as *fey form IV*.
+At 17th level, when taking the form of an fey, a fairy shifter’s shifter shape now functions as [*fey form IV*](../../../magic/spells/fey-form-iv.md).
 
 *This ability replaces shifter shape.*
 
@@ -219,21 +219,21 @@ to a lycanthrope’s curse of lycanthropy.
 
 - [*alter self*](../../../magic/spells/alter-self.md)
 
-- [*beast shape i*](../../../magic/spells/beast-shape-i.md), *beast shape II*, *beast shape III*, *beast shape IV*
+- [*beast shape i*](../../../magic/spells/beast-shape-i.md), [*beast shape II*](../../../magic/spells/beast-shape-ii.md), [*beast shape III*](../../../magic/spells/beast-shape-iii.md), [*beast shape IV*](../../../magic/spells/beast-shape-iv.md)
 
 - *object form i*, *object form ii*, *object form iii*
 
-- [*vermin shape i*](../../../magic/spells/vermin-shape-i.md), *vermin shape II*
+- [*vermin shape i*](../../../magic/spells/vermin-shape-i.md), [*vermin shape II*](../../../magic/spells/vermin-shape-ii.md)
 
-- [*monstrous physique i*](../../../magic/spells/monstrous-physique-i.md), *monstrous physique II*, *monstrous physique III*
+- [*monstrous physique i*](../../../magic/spells/monstrous-physique-i.md), [*monstrous physique II*](../../../magic/spells/monstrous-physique-ii.md), [*monstrous physique III*](../../../magic/spells/monstrous-physique-iii.md)
 
-- [*undead anatomy i*](../../../magic/spells/undead-anatomy-i.md), *undead anatomy II*, *undead anatomy III*
+- [*undead anatomy i*](../../../magic/spells/undead-anatomy-i.md), [*undead anatomy II*](../../../magic/spells/undead-anatomy-ii.md), [*undead anatomy III*](../../../magic/spells/undead-anatomy-iii.md)
 
-- [*ooze form i*](../../../magic/spells/ooze-form-i.md), *ooze form II*
+- [*ooze form i*](../../../magic/spells/ooze-form-i.md), [*ooze form II*](../../../magic/spells/ooze-form-ii.md)
 
-- [*plant shape i*](../../../magic/spells/plant-shape-i.md), *plant shape II*
+- [*plant shape i*](../../../magic/spells/plant-shape-i.md), [*plant shape II*](../../../magic/spells/plant-shape-ii.md)
 
-- [*form of the dragon i*](../../../magic/spells/form-of-the-dragon-i.md), *form of the exotic dragon I*, *form of the alien dragon I*
+- [*form of the dragon i*](../../../magic/spells/form-of-the-dragon-i.md), [*form of the exotic dragon I*](../../../magic/spells/form-of-the-exotic-dragon-i.md), [*form of the alien dragon I*](../../../magic/spells/form-of-the-alien-dragon-i.md)
 
 - [*giant form i*](../../../magic/spells/giant-form-i.md)
 
@@ -241,9 +241,9 @@ to a lycanthrope’s curse of lycanthropy.
 
 - [*verminous transformation*](../../../magic/spells/verminous-transformation.md)
 
-- [*elemental body i*](../../../magic/spells/elemental-body-i.md), *elemental body II*, *elemental body III*
+- [*elemental body i*](../../../magic/spells/elemental-body-i.md), [*elemental body II*](../../../magic/spells/elemental-body-ii.md), [*elemental body III*](../../../magic/spells/elemental-body-iii.md)
 
-In addition, as a standard action (1 AP), a number of times per day equal to the metamorphic genius’s Intelligence modifier + 1/3 her class level (minimum 1), when she is under the effects of an extract listed under her advanced study, she can choose to change the effects of it to another extract from her advanced study list of equal or lower level or change the form she has taken with that extract. For example, a 5th level metamorphic genius under the effects of a *beast shape I* spell could choose to change the effect to that of a *monstrous physique I* spell. Doing so does not reset the duration of the extract, nor does it require her to spend an additional extract.
+In addition, as a standard action (1 AP), a number of times per day equal to the metamorphic genius’s Intelligence modifier + 1/3 her class level (minimum 1), when she is under the effects of an extract listed under her advanced study, she can choose to change the effects of it to another extract from her advanced study list of equal or lower level or change the form she has taken with that extract. For example, a 5th level metamorphic genius under the effects of a [*beast shape I*](../../../magic/spells/beast-shape-i.md) spell could choose to change the effect to that of a [*monstrous physique I*](../../../magic/spells/monstrous-physique-i.md) spell. Doing so does not reset the duration of the extract, nor does it require her to spend an additional extract.
 
 *This ability replaces shifter shape.*
 
@@ -315,7 +315,7 @@ At 14th level, a mimickin can take the form of a Diminutive or Gargantuan object
 
 *Manipulating living flesh is one thing, but necromorphs live to alter the flesh of the dead, slowly turning themselves into undead engines of destruction.*
 
-**Undead Adept (Sp):** At 1st level, a necromorph can cast *animate dead, lesser* and [*command undead*](../../../magic/spells/command-undead.md) as spell-like abilities a total number of times per day equal to her Charisma modifier. If the necromorph does not provide the material components for these spell-like abilities, they instead only last 10 minutes per character level. In addition, she gains the channel energy class feature of a cleric of her level, although she can only channel negative energy with it.
+**Undead Adept (Sp):** At 1st level, a necromorph can cast [*animate dead, lesser*](../../../magic/spells/animate-dead-lesser.md) and [*command undead*](../../../magic/spells/command-undead.md) as spell-like abilities a total number of times per day equal to her Charisma modifier. If the necromorph does not provide the material components for these spell-like abilities, they instead only last 10 minutes per character level. In addition, she gains the channel energy class feature of a cleric of her level, although she can only channel negative energy with it.
 
 At 5th level, she can instead cast [*animate dead*](../../../magic/spells/animate-dead.md).
 
@@ -331,15 +331,15 @@ To use wild empathy, the necromorph and the undead must be within 30 feet of one
 
 *This ability replaces wild empathy and bonus language.*
 
-**Necro Shape (Su):** At 1st level, a legendary shifter gains the ability to turn herself into any Small or Medium corporeal creature of the undead type, which must be vaguely humanoid-shaped (like a ghoul, skeleton, or zombie). This ability functions like the *undead anatomy I* spell, except as noted here. The effect lasts for a number of hours equal to 1/2 her legendary shifter class level + her Charisma modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A necromorph can change form while in her shifter shape, but doing so reduces her total duration by 1 hour.
+**Necro Shape (Su):** At 1st level, a legendary shifter gains the ability to turn herself into any Small or Medium corporeal creature of the undead type, which must be vaguely humanoid-shaped (like a ghoul, skeleton, or zombie). This ability functions like the [*undead anatomy I*](../../../magic/spells/undead-anatomy-i.md) spell, except as noted here. The effect lasts for a number of hours equal to 1/2 her legendary shifter class level + her Charisma modifier (minimum 1), and she may split the duration of this ability however she wants. Each use of this ability uses up at least an hour of its duration, regardless of how long she stays in it. A necromorph can change form while in her shifter shape, but doing so reduces her total duration by 1 hour.
 
 In addition, a necromorph can change her form while in necro shape as a standard action (1 AP) a number of times per day equal to 1/2 her character level + her Charisma modifier (minimum 1); doing so does not consume any duration of her necro shape ability.
 
-At 6th level, a shifter can use shifter shape to change into a Large or Tiny corporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as *undead anatomy II*.
+At 6th level, a shifter can use shifter shape to change into a Large or Tiny corporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as [*undead anatomy II*](../../../magic/spells/undead-anatomy-ii.md).
 
-At 8th level, a shifter can use shifter shape to change into a Huge or Diminutive corporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as *undead anatomy III*.
+At 8th level, a shifter can use shifter shape to change into a Huge or Diminutive corporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as [*undead anatomy III*](../../../magic/spells/undead-anatomy-iii.md).
 
-At 14th level, a shifter can use shifter shape to transform into a Tiny or Large incorporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as *undead anatomy IV*, although for every 1 minute she spends in an incorporeal form, the duration of her necro shape is reduced by 1 hour (each use of this ability used to turn into an incorporeal form costs 1 minute, regardless of how long she spends in this form).
+At 14th level, a shifter can use shifter shape to transform into a Tiny or Large incorporeal creature of the undead type. When taking the form of an undead, a shifter’s shifter shape now functions as [*undead anatomy IV*](../../../magic/spells/undead-anatomy-iv.md), although for every 1 minute she spends in an incorporeal form, the duration of her necro shape is reduced by 1 hour (each use of this ability used to turn into an incorporeal form costs 1 minute, regardless of how long she spends in this form).
 
 *This ability replace shifter shape.*
 
@@ -371,7 +371,7 @@ In protoplasmic blob form, the oozemorph is immune to critical hits and precisio
 
 This ability replaces shifter aspects.
 
-**Ooze Weaponry (Ex):** An oozeling can choose to manifest up to 3 natural weapons of her choice as a swift action (1 AP), each dealing damage equal to her shifter evolution class feature. At 6th level and every six levels afterwards, she can manifest an additional natural weapon. The total number of natural attacks an oozeling has at any given time includes those gained via her current form. For example, an 8th-level oozeling who has taken the form of a wolf with *beast shape I* has a bite attack as part of that form; she can create only three additional natural attacks via ooze weaponry, for a total of four attacks available to her at that level. If the oozeling later reverts to a humanoid form with no natural weapons, she can instead create four morphic weapons.
+**Ooze Weaponry (Ex):** An oozeling can choose to manifest up to 3 natural weapons of her choice as a swift action (1 AP), each dealing damage equal to her shifter evolution class feature. At 6th level and every six levels afterwards, she can manifest an additional natural weapon. The total number of natural attacks an oozeling has at any given time includes those gained via her current form. For example, an 8th-level oozeling who has taken the form of a wolf with [*beast shape I*](../../../magic/spells/beast-shape-i.md) has a bite attack as part of that form; she can create only three additional natural attacks via ooze weaponry, for a total of four attacks available to her at that level. If the oozeling later reverts to a humanoid form with no natural weapons, she can instead create four morphic weapons.
 
 To determine if a natural attack is primary or secondary and it’s damage, refer to **Table 2: Oozeling Natural Weapons**.
 
@@ -396,11 +396,11 @@ To determine if a natural attack is primary or secondary and it’s damage, refe
 
 *This ability replaces trackless step.*
 
-**Ooze Shape (Su):** At 8th level, an oozeling can use shifter shape to change into a Small or Medium ooze. When taking the form of an ooze, the oozling’s shifter shape functions as *ooze form I*.
+**Ooze Shape (Su):** At 8th level, an oozeling can use shifter shape to change into a Small or Medium ooze. When taking the form of an ooze, the oozling’s shifter shape functions as [*ooze form I*](../../../magic/spells/ooze-form-i.md).
 
-At 10th level, an oozeling can use shifter shape to change into a Large ooze. When taking the form of an ooze, the oozling’s shifter shape functions as *ooze form II*.
+At 10th level, an oozeling can use shifter shape to change into a Large ooze. When taking the form of an ooze, the oozling’s shifter shape functions as [*ooze form II*](../../../magic/spells/ooze-form-ii.md).
 
-At 12th level, an oozeling can use shifter shape to change into a Huge ooze. When taking the form of an ooze, the oozling’s shifter shape functions as *ooze form III*.
+At 12th level, an oozeling can use shifter shape to change into a Huge ooze. When taking the form of an ooze, the oozling’s shifter shape functions as [*ooze form III*](../../../magic/spells/ooze-form-iii.md).
 
 An oozeling cannot use her shifter shape to transform into a magical beast.
 

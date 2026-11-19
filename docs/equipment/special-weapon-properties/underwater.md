@@ -11,4 +11,4 @@ This ability can be placed only on a melee bludgeoning or slashing weapon. Melee
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *freedom of movement*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*freedom of movement*](../../magic/spells/freedom-of-movement.md); **Price** —

@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will half (harmless) or Will half; see text; **Spell Resistance** yes (harmless) or yes; see text
 
-This spell functions like *mass cure light wounds*, except that it cures 2d8 points of damage + 1 point per caster level (maximum +30).
+This spell functions like [*mass cure light wounds*](cure-light-wounds-mass.md), except that it cures 2d8 points of damage + 1 point per caster level (maximum +30).

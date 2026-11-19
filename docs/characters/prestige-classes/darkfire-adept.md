@@ -29,7 +29,7 @@ To qualify to become a darkfire adept, a character must fulfill all of the follo
 
 **Skills**: Knowledge (planes) 3 ranks, Spellcraft 3 ranks.
 
-**Spells**: Able to cast *summon monster II* as a spell or spell-like ability.
+**Spells**: Able to cast [*summon monster II*](../../magic/spells/summon-monster-ii.md) as a spell or spell-like ability.
 
 **Special**: Able to speak Abyssal and Infernal.
 
@@ -41,7 +41,7 @@ To qualify to become a darkfire adept, a character must fulfill all of the follo
 
     **Skills**: Knowledge (planes) 5 ranks, Spellcraft 5 ranks.
 
-    **Spells**: Able to cast *summon monster III* as a spell or spell-like ability.
+    **Spells**: Able to cast [*summon monster III*](../../magic/spells/summon-monster-iii.md) as a spell or spell-like ability.
 
     **Special**: Able to speak Abyssal and Infernal.
 

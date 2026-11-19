@@ -11,4 +11,4 @@ This special ability can be placed only on a whip. A prehensile whip can, as a s
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *rope trick*; **Price** 1,250 gp
+**Requirements** Craft Magic Arms and Armor, [*rope trick*](../../magic/spells/rope-trick.md); **Price** 1,250 gp

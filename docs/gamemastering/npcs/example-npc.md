@@ -6,7 +6,7 @@ Moving on to skills, you see that rangers receive fewer skill selections than ro
 
 After selecting his skills, you move on to his feats. Starting with his class feats, you select Rapid Shot as his ranger combat style feat. In addition, the forest guardian receives three additional feats for his class levels. Since you want him to be skilled at archery, most of these feats come from the ranged list, including Deadly Aim and Point Blank Shot. To ensure that he is good with a rapier, you spend his final feat selection on Weapon Finesse. Next you note all of his class and racial features, making whatever selections are necessary, such as favored enemy, favored terrain, hunter's bond, and rogue talents.
 
-Moving on to gear, you assign gear using the line for a 6th-level heroic NPC, giving him a +1 longbow, a masterwork rapier, +1 studded leather armor, a potion of *invisibility*, a potion of *cure moderate wounds*, and a pack full of nonmagic gear. Although he has a bit more gp in weapons than the chart allows, he has spent a bit less in armor, roughly balancing him out.
+Moving on to gear, you assign gear using the line for a 6th-level heroic NPC, giving him a +1 longbow, a masterwork rapier, +1 studded leather armor, a potion of [*invisibility*](../../magic/spells/invisibility.md), a potion of [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md), and a pack full of nonmagic gear. Although he has a bit more gp in weapons than the chart allows, he has spent a bit less in armor, roughly balancing him out.
 
 With your task nearly completed, you add all of his statistics and details, naming him the Forest Scout. Your forest shadow is then ready to face off against the PCs.
 
@@ -54,4 +54,4 @@ N Medium humanoid (elf)
 
 **SQ** nature bond (wolf), track, trapfinding +1
 
-**Combat Gear** potion of *cure moderate wounds*, potion of *invisibility*; **Other Gear** +1 longbow with 40 arrows, mwk rapier, +1 studded leather armor, gear and coins worth 200 gp
+**Combat Gear** potion of [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md), potion of [*invisibility*](../../magic/spells/invisibility.md); **Other Gear** +1 longbow with 40 arrows, mwk rapier, +1 studded leather armor, gear and coins worth 200 gp

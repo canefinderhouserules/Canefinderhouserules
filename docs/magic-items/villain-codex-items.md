@@ -12,7 +12,7 @@ Equipment and magic items used by villainous organizations. Anyone can use them.
 
 These steel cuffs are connected with a 2-foot-long chain. The cuffs are decorated with lead inlays of broken feet. When locked around a helpless or willing creature's ankles as a full-round action (3 AP), the creature can move only half its normal speed for all its forms of movement. The creature that placed the ankle chains can remove them with a command word, any creature can remove them with a successful DC 30 Disable Device check, and the restrained creature can remove them with a successful DC 30 Escape Artist check. Dispelling the ankle chains doesn't assist in removing them, though it does prevent the creature that placed the ankle chains from using the command word to remove them for as long as their effects are suppressed or dispelled.
 
-**Construction Requirements:** Craft Wondrous Item, *slow*; **Cost** 3,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*slow*](../magic/spells/slow.md); **Cost** 3,000 gp
 
 ### Branding Iron of Tracking
 
@@ -20,9 +20,9 @@ These steel cuffs are connected with a 2-foot-long chain. The cuffs are decorate
 
 **Aura** faint divination
 
-This 2-foot-long metal rod has a unique sigil on the end. When the sigil is heated in a fire, it can be used to brand a creature or object. Anytime after the branding, a creature can hold the *branding iron of tracking* and know the direction to the nearest brand, as if using *locate object* for branded objects or *locate creature* for branded creatures. The *branding iron of tracking* only tracks the brand itself, so cutting or scraping off the brand can fool the item.
+This 2-foot-long metal rod has a unique sigil on the end. When the sigil is heated in a fire, it can be used to brand a creature or object. Anytime after the branding, a creature can hold the *branding iron of tracking* and know the direction to the nearest brand, as if using [*locate object*](../magic/spells/locate-object.md) for branded objects or [*locate creature*](../magic/spells/locate-creature.md) for branded creatures. The *branding iron of tracking* only tracks the brand itself, so cutting or scraping off the brand can fool the item.
 
-**Construction Requirements:** Craft Wondrous Item, *brand*, *locate creature*, *locate object*; **Cost** 4,500 gp
+**Construction Requirements:** Craft Wondrous Item, [*brand*](../magic/spells/brand.md), [*locate creature*](../magic/spells/locate-creature.md), [*locate object*](../magic/spells/locate-object.md); **Cost** 4,500 gp
 
 ### Darkness Arrow
 
@@ -32,7 +32,7 @@ This 2-foot-long metal rod has a unique sigil on the end. When the sigil is heat
 
 This +1 arrow is as black as the darkest night and is fletched with sleek raven feathers. If the arrow strikes a foe, magical darkness infuses the creature's sight. The creature counts the light level as darkness for 1 round, regardless of the actual light level, and if the creature has darkvision, it must succeed at a DC 13 Fortitude saving throw or lose its darkvision for 1 round.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *darkness*; **Cost** 40 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*darkness*](../magic/spells/darkness.md); **Cost** 40 gp
 
 ### Gag of Silence
 
@@ -42,7 +42,7 @@ This +1 arrow is as black as the darkest night and is fletched with sleek raven 
 
 This black leather cord has a red wooden ball attached at its center. When the cord is tied around a creature's head and the wooden ball is placed in the creature's mouth, the creature cannot speak or make any vocal sounds, including verbal components of spells. When removed from the creature, the ball breaks off from the leather cord, ending the effect. A creature that is not otherwise restrained can easily untie the gag and remove it.
 
-**Construction Requirements:** Craft Wondrous Item, *silence*; **Cost** 250 gp
+**Construction Requirements:** Craft Wondrous Item, [*silence*](../magic/spells/silence.md); **Cost** 250 gp
 
 ### Sleeping Sap
 
@@ -50,9 +50,9 @@ This black leather cord has a red wooden ball attached at its center. When the c
 
 **Aura** faint enchantment
 
-On a confirmed critical hit, this +1 sap puts a creature to sleep for 3 minutes as per *sleep*, with no HD limit (Fort DC 13 negates).
+On a confirmed critical hit, this +1 sap puts a creature to sleep for 3 minutes as per [*sleep*](../magic/spells/sleep.md), with no HD limit (Fort DC 13 negates).
 
-**Construction Requirements:** Craft Wondrous Item, *sleep*; **Cost** 5,301 gp
+**Construction Requirements:** Craft Wondrous Item, [*sleep*](../magic/spells/sleep.md); **Cost** 5,301 gp
 
 ### Vine Arrow
 
@@ -62,7 +62,7 @@ On a confirmed critical hit, this +1 sap puts a creature to sleep for 3 minutes 
 
 This +1 arrow looks like a plant stem fletched with leaves instead of feathers. If it strikes a foe, vines grow from the creature's body. Any creature within 5 feet of the struck target, including the target, is entangled for 1 round unless it succeeds at a DC 13 Reflex save.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *entangle*; **Cost** 40 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*entangle*](../magic/spells/entangle.md); **Cost** 40 gp
 
 ## Carnival Troupe
 
@@ -80,7 +80,7 @@ A small, metal loop caps each end of this well-worn, 2-foot-long brass rod. Pres
 
 **Trapeze**: Two lines of rope fly from the ends of the rod and anchor in a ceiling up to 40 feet overhead. Using the trapeze requires a successful DC 10 Acrobatics check and allows the user to traverse gaps up to 50 feet wide. If the user is trying to go farther than 50 feet, she can attempt to jump upon releasing her grip. The trapeze counts as a running start for the purposes of performing a long jump, and grants the user a +5 competence bonus on Acrobatics checks to determine how far she can jump. When the user is outdoors, this ability functions only if there are branches, buildings, or other overhangs to which the trapeze can attach.
 
-**Construction Requirements:** Craft Rod, *animate rope*, *cat's grace*; **Cost** 1,600 gp
+**Construction Requirements:** Craft Rod, [*animate rope*](../magic/spells/animate-rope.md), [*cat's grace*](../magic/spells/cats-grace.md); **Cost** 1,600 gp
 
 ### Fool's Malady
 
@@ -92,7 +92,7 @@ This simple lead ring is carved with a twisting face. When worn, the ring causes
 
 If the creature wearing a *fool's malady* already has the deformity the ring mimics, the ring instead removes all visual traces of the condition. The ring does not remove any pain or penalties associated with the condition.
 
-**Construction Requirements:** Forge Ring, *alter self*; **Cost** 450 gp
+**Construction Requirements:** Forge Ring, [*alter self*](../magic/spells/alter-self.md); **Cost** 450 gp
 
 ### Home Away
 
@@ -104,7 +104,7 @@ A wooden roof and walls line this horse-drawn caravan wagon. By uttering a comma
 
 Once per week, the *home away's* owner can pull the wagon's kingbolt, causing it to unfurl into a 60-foot-wide tent with the same coloration as the wagon. The owner can declare a purpose for the tent as she pulls the bolt—such as celebration, meetings, performance, or wilderness survival—and the tent creates bleachers, tables, beds, and other simple furniture to accommodate this purpose.
 
-**Construction Requirements:** Craft Wondrous Item, *major creation*, *silent image*, *tiny hut*; **Cost** 9,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*major creation*](../magic/spells/major-creation.md), [*silent image*](../magic/spells/silent-image.md), [*tiny hut*](../magic/spells/tiny-hut.md); **Cost** 9,000 gp
 
 ### Mountebank's Megaphone
 
@@ -114,7 +114,7 @@ Once per week, the *home away's* owner can pull the wagon's kingbolt, causing it
 
 This cone has openings at both ends and a large mouthpiece on the small end, and is crafted from brass hoops and sheets of leather and painted garish colors. Anyone holding the *mountebank's megaphone* in one hand can speak through it to make his voice up to 10 times louder, allowing him to be understood across a large crowd. If the megaphone's holder has the bardic performance class feature, he can treat any space within a 30-foot cone in front of him as the point of origin for any bardic performance that usually centers on the performer. Projecting a bardic performance through the megaphone takes additional effort, costing double the normal number of rounds. If the user moves from his current location, any bardic performance he is projecting through the megaphone immediately ends, even if his new position is still within range.
 
-**Construction Requirements:** Craft Wondrous Item, *ghost sound*, *exquisite accompaniment*; **Cost** 2,250 gp
+**Construction Requirements:** Craft Wondrous Item, [*ghost sound*](../magic/spells/ghost-sound.md), [*exquisite accompaniment*](../magic/spells/exquisite-accompaniment.md); **Cost** 2,250 gp
 
 ### Powerhouse Pelt
 
@@ -124,7 +124,7 @@ This cone has openings at both ends and a large mouthpiece on the small end, and
 
 Crafted from the skin of a great cat, this +1 *hide armor* provides its wearer a +2 competence bonus on all ability checks to perform feats of strength, such as bending bars and forcing doors. This bonus doesn't apply on any other Strength-related rolls (including Strength-based skill checks and melee attack and damage rolls). The wearer also treats her Strength score as if it were 8 higher than normal for the purpose of determining her carrying capacity.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *ant haul*, *bull's strength*; **Cost** 1,915 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*ant haul*](../magic/spells/ant-haul.md), [*bull's strength*](../magic/spells/bulls-strength.md); **Cost** 1,915 gp
 
 ## Corrupt Guard
 
@@ -146,9 +146,9 @@ The guard issues a standard set of supplies to each of its members. This kit con
 
 **Aura** faint illusion
 
-As a standard action (1 AP), the wielder of this solid metal badge can transform its appearance into that of any badge or symbol of authority she legitimately holds. Once per day, the wielder can present the badge as a standard action (1 AP) to reduce the base speed of up to three creatures within 30 feet, as per *hobble* (Fortitude DC 11 negates). If the wielder uses an Intimidate check to force a creature to act friendly and that creature recognizes her as a legitimate authority, its attitude doesn't change to unfriendly after 1d6×10 minutes, and it doesn't report her to local authorities.
+As a standard action (1 AP), the wielder of this solid metal badge can transform its appearance into that of any badge or symbol of authority she legitimately holds. Once per day, the wielder can present the badge as a standard action (1 AP) to reduce the base speed of up to three creatures within 30 feet, as per [*hobble*](../magic/spells/hobble.md) (Fortitude DC 11 negates). If the wielder uses an Intimidate check to force a creature to act friendly and that creature recognizes her as a legitimate authority, its attitude doesn't change to unfriendly after 1d6×10 minutes, and it doesn't report her to local authorities.
 
-**Construction Requirements:** Craft Wondrous Item, *cause fear*, *silent image*; **Cost** 750 gp
+**Construction Requirements:** Craft Wondrous Item, [*cause fear*](../magic/spells/cause-fear.md), [*silent image*](../magic/spells/silent-image.md); **Cost** 750 gp
 
 ### Erasing Book
 
@@ -156,9 +156,9 @@ As a standard action (1 AP), the wielder of this solid metal badge can transform
 
 **Aura** faint transmutation
 
-Once per day as a standard action (1 AP), the holder of this ordinary-looking leather-bound book can erase the writing contained within it. However, the holder cannot erase any writing that required a material component cost, such as a *symbol* spell or a *sepia snake sigil*, with this standard action (1 AP). An *erasing book* can be used as a spellbook or a formula book—spells written in the book have a material component cost and are immune to the book's erasing effect. Erasing the book also removes smudges, stains, and minor water damage, but it doesn't recover text lost to serious damage.
+Once per day as a standard action (1 AP), the holder of this ordinary-looking leather-bound book can erase the writing contained within it. However, the holder cannot erase any writing that required a material component cost, such as a *symbol* spell or a [*sepia snake sigil*](../magic/spells/sepia-snake-sigil.md), with this standard action (1 AP). An *erasing book* can be used as a spellbook or a formula book—spells written in the book have a material component cost and are immune to the book's erasing effect. Erasing the book also removes smudges, stains, and minor water damage, but it doesn't recover text lost to serious damage.
 
-**Construction Requirements:** Craft Wondrous Item, *erase*; **Cost** 200 gp
+**Construction Requirements:** Craft Wondrous Item, [*erase*](../magic/spells/erase.md); **Cost** 200 gp
 
 ### Pliability Elixir
 
@@ -168,7 +168,7 @@ Once per day as a standard action (1 AP), the holder of this ordinary-looking le
 
 A creature that drinks this elixir becomes particularly pliable mentally and emotionally for 10 minutes (Will DC 16 negates). Bluff, Diplomacy, and Intimidate checks automatically succeed against a pliable creature, except for Diplomacy checks to improve a pliable creature's attitude, which have the normal DC. This does not allow characters to whom the pliable creature is unfriendly or hostile to make requests of the pliable creature using Diplomacy. After 1 minute, the effects of *pliability elixir* are noticeable with a successful DC 25 Sense Motive check. The GM can apply circumstance bonuses to this check based on factors that make the effect more obvious, such as if the affected creature contradicts itself or agrees to something that doesn't make sense. A vial of *pliability elixir* appears to be an *elixir of truth* unless the check made to identify it succeeds by 10 or more.
 
-**Construction Requirements:** Craft Wondrous Item, *charm person*, *zone of truth*; **Cost** 250 gp
+**Construction Requirements:** Craft Wondrous Item, [*charm person*](../magic/spells/charm-person.md), [*zone of truth*](../magic/spells/zone-of-truth.md); **Cost** 250 gp
 
 ### Quill of Verification
 
@@ -178,7 +178,7 @@ A creature that drinks this elixir becomes particularly pliable mentally and emo
 
 This swan-feather quill helps its wielder verify signatures. The wielder can store a signature in the quill by pressing the quill into the signature and speaking a command word. She can then tap the quill's tip on another signature to check if it was written by the same individual. The quill verifies the authenticity of the signature as if it had attained a total result of 20 on a Linguistics check. If the signature detects as legitimate (including skilled forgeries whose DC to detect them is greater than 20), the quill glows blue. A *quill of verification* can validate a signature up to 3 times per day. The wielder can switch the stored signature any number of times between uses of the verification ability.
 
-**Construction Requirements:** Craft Wondrous Item, *identify*; **Cost** 500 gp
+**Construction Requirements:** Craft Wondrous Item, [*identify*](../magic/spells/identify.md); **Cost** 500 gp
 
 ## Cruel Musketeers
 
@@ -208,9 +208,9 @@ These clips of alchemical cartridges hold three bullets and fit the slot of eith
 
 Each of the following mage shots replaces the normal damage of the firearm with energy damage and some other effect. Though the following mage shots are presented in the form of alchemical paper cartridges, dragoon cartridge versions of these mage shots also exist. The prices and costs of dragoon cartridges are three times greater than the values listed here. 
 
-When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to acid damage. If the target takes acid damage from the cartridge, it takes an additional 2d4 points of acid damage for the next 2 rounds or until the acid is neutralized. This damage doesn't stack with multiple shots or with *acid arrow*.
+When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to acid damage. If the target takes acid damage from the cartridge, it takes an additional 2d4 points of acid damage for the next 2 rounds or until the acid is neutralized. This damage doesn't stack with multiple shots or with [*acid arrow*](../magic/spells/acid-arrow.md).
 
-**Construction Requirements:** Craft Magic Arms and Armor, *acid arrow*; **Cost** 98 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*acid arrow*](../magic/spells/acid-arrow.md); **Cost** 98 gp
 
 ### Mage Shot (Cold)
 
@@ -220,7 +220,7 @@ When propelled from a firearm, this +1 alchemical paper cartridge changes the da
 
 When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to cold damage. If the target takes cold damage from the cartridge, it must succeed at a DC 14 Fortitude saving throw or be staggered for 1d4 rounds.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *cone of cold*; **Cost** 98 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*cone of cold*](../magic/spells/cone-of-cold.md); **Cost** 98 gp
 
 ### Mage Shot (Electricity)
 
@@ -230,7 +230,7 @@ When propelled from a firearm, this +1 alchemical paper cartridge changes the da
 
 When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to electricity damage. If the target takes electricity damage from the cartridge, it must succeed at a DC 14 Fortitude saving throw or be dazed for 1 round.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *lightning bolt*; **Cost** 98 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*lightning bolt*](../magic/spells/lightning-bolt.md); **Cost** 98 gp
 
 ### Mage Shot (Fire)
 
@@ -240,7 +240,7 @@ When propelled from a firearm, this +1 alchemical paper cartridge changes the da
 
 When propelled from a firearm, this +1 alchemical paper cartridge changes the damage to fire damage. If the target takes fire damage from the cartridge, it must succeed at a DC 14 Reflex saving throw or catch on fire, taking an additional 1d6 points of fire damage on that round and on subsequent rounds, until the flames are extinguished.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *scorching ray*; **Cost** 98 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*scorching ray*](../magic/spells/scorching-ray.md); **Cost** 98 gp
 
 ## Death Cult
 
@@ -250,9 +250,9 @@ When propelled from a firearm, this +1 alchemical paper cartridge changes the da
 
 **Aura** moderate necromancy
 
-Made from the preserved skins of plague victims, this cloak functions as a +1 *cloak of resistance*. If the wearer is infected with a disease, he can also command the mantle to cast *virulent miasma* once per day. Additionally, as a standard action (1 AP), a diseased wearer can make a touch attack. If it hits, the target must succeed at a DC 15 Fortitude save or contract one disease the wearer currently has (wearer's choice in the case of multiple diseases).
+Made from the preserved skins of plague victims, this cloak functions as a +1 *cloak of resistance*. If the wearer is infected with a disease, he can also command the mantle to cast [*virulent miasma*](../magic/spells/virulent-miasma.md) once per day. Additionally, as a standard action (1 AP), a diseased wearer can make a touch attack. If it hits, the target must succeed at a DC 15 Fortitude save or contract one disease the wearer currently has (wearer's choice in the case of multiple diseases).
 
-**Construction Requirements:** Craft Wondrous Item, *contagion*, *resistance*, *virulent miasma*; **Cost** 3,600 gp
+**Construction Requirements:** Craft Wondrous Item, [*contagion*](../magic/spells/contagion.md), [*resistance*](../magic/spells/resistance.md), [*virulent miasma*](../magic/spells/virulent-miasma.md); **Cost** 3,600 gp
 
 ### Reaper's Lantern
 
@@ -262,9 +262,9 @@ Made from the preserved skins of plague victims, this cloak functions as a +1 *c
 
 This black iron lantern and chain functions as a +1 *heavy flail*. The lantern burns with a cold blue-green flame that sheds light as per a hooded lantern. On command, the wielder can reduce the light to a 5-foot radius of dim light or restore it to full brightness. Once per day, when the wielder hits a creature with the lantern, she can deal an additional 2d6 points of negative energy damage as a swift action (1 AP). If she does so, she gains a number of temporary hit points equal to the damage she dealt that last for 1 hour.
 
-A creature reduced to 0 hit points or fewer by the lantern must succeed at a DC 13 Fortitude save or die. This is a death effect. For 24 hours after a creature is killed this way, the lantern's flame holds an echo of the creature's soul. A *speak with dead* spell cast on the flame yields information as if it were the creature's corpse. The flame can hold the echo of only one creature's soul; if the lantern kills another creature, a new echo replaces the previous one.
+A creature reduced to 0 hit points or fewer by the lantern must succeed at a DC 13 Fortitude save or die. This is a death effect. For 24 hours after a creature is killed this way, the lantern's flame holds an echo of the creature's soul. A [*speak with dead*](../magic/spells/speak-with-dead.md) spell cast on the flame yields information as if it were the creature's corpse. The flame can hold the echo of only one creature's soul; if the lantern kills another creature, a new echo replaces the previous one.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *continual flame*, *death knell*, *speak with dead*, *vampiric touch*; **Cost** 4,915 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*continual flame*](../magic/spells/continual-flame.md), [*death knell*](../magic/spells/death-knell.md), [*speak with dead*](../magic/spells/speak-with-dead.md), [*vampiric touch*](../magic/spells/vampiric-touch.md); **Cost** 4,915 gp
 
 ### Breath of Pestilence
 
@@ -272,9 +272,9 @@ A creature reduced to 0 hit points or fewer by the lantern must succeed at a DC 
 
 **Aura** faint necromancy
 
-This smoked glass sphere contains a roiling, bone-white mist. The sphere counts as a thrown weapon with a range increment of 10 feet. It shatters on impact, releasing the contained vapors in a 10-foot cloud of mist, as per *fog cloud*, for 1 round. Any creature that enters the mist during this time must succeed at a DC 17 Fortitude save or contract a particularly fast-acting strain of bubonic plague with an immediate onset.
+This smoked glass sphere contains a roiling, bone-white mist. The sphere counts as a thrown weapon with a range increment of 10 feet. It shatters on impact, releasing the contained vapors in a 10-foot cloud of mist, as per [*fog cloud*](../magic/spells/fog-cloud.md), for 1 round. Any creature that enters the mist during this time must succeed at a DC 17 Fortitude save or contract a particularly fast-acting strain of bubonic plague with an immediate onset.
 
-**Construction Requirements:** Craft Wondrous Item, *contagion*, *fog cloud*; **Cost** 1,250 gp
+**Construction Requirements:** Craft Wondrous Item, [*contagion*](../magic/spells/contagion.md), [*fog cloud*](../magic/spells/fog-cloud.md); **Cost** 1,250 gp
 
 ## Demon Knights
 
@@ -286,7 +286,7 @@ This smoked glass sphere contains a roiling, bone-white mist. The sphere counts 
 
 A red flame motif stands out along the length of this +1 *flaming whip*. It deals additional damage whenever it is used to perform a non-damaging combat maneuver, such as trip or drag. Once the combat maneuver is resolved, the target takes 2d6 points of fire damage. Objects moved by the whip (through a disarm combat maneuver, for example) take this same damage.
 
-**Construction Requirements:** Craft Magic Arms and Armor, Whip Mastery, *fireball*; **Cost** 5,301 gp
+**Construction Requirements:** Craft Magic Arms and Armor, Whip Mastery, [*fireball*](../magic/spells/fireball.md); **Cost** 5,301 gp
 
 ### Ivory Succubus
 
@@ -302,7 +302,7 @@ In most cases, any saving throws to resist the statue's effect grant the creatur
 
 Once a creature in possession of the statue loses or abandons it, the statue influences the attitude of any new creature that claims it toward the attuned owner, no matter if the new creature in possession gained the statue by way of a gift from the former creature in possession, theft, or some other means.
 
-**Construction Requirements:** Craft Wondrous Item, *charm person*, *magic aura*; **Cost** 2,500 gp
+**Construction Requirements:** Craft Wondrous Item, [*charm person*](../magic/spells/charm-person.md), [*magic aura*](../magic/spells/magic-aura.md); **Cost** 2,500 gp
 
 ## Diabolical Church
 
@@ -316,7 +316,7 @@ Devil's spit is a more potent form of unholy water, and acts in most ways like a
 
 Devil's spit can also be used to charge a *rod of burning blood* (see below). A single vial of devil's spit provides 5 charges to that item. Charging a *rod of burning blood* with devil's spit is a standard action (1 AP) that provokes attacks of opportunity.
 
-**Construction Requirements:** Craft Wondrous Item, *curse water*; **Cost** 30 gp
+**Construction Requirements:** Craft Wondrous Item, [*curse water*](../magic/spells/curse-water.md); **Cost** 30 gp
 
 ### Diabolus Bell
 
@@ -326,13 +326,13 @@ Devil's spit can also be used to charge a *rod of burning blood* (see below). A 
 
 This black, iron bell is inscribed with diabolical symbols. The spherical clapper is affixed to a chain, resembling a tyrant's ball and chain. Diabolus bells can be dedicated to different infernal powers, and they act as divine foci for spells granted by associated patrons.
 
-Once per day, when the wielder speaks a command word while ringing the bell (a standard action (1 AP)), lawful neutral or lawful evil creatures within a 20-foot radius that hear the toll and worship the bell's patron can say a prayer to that patron as a move action (1 AP) to be affected as per *ward the faithful*. The supplication must be said before the beginning of the wielder's next turn and within 20 feet of the bell.
+Once per day, when the wielder speaks a command word while ringing the bell (a standard action (1 AP)), lawful neutral or lawful evil creatures within a 20-foot radius that hear the toll and worship the bell's patron can say a prayer to that patron as a move action (1 AP) to be affected as per [*ward the faithful*](../magic/spells/ward-the-faithful.md). The supplication must be said before the beginning of the wielder's next turn and within 20 feet of the bell.
 
-Chaotic or good creatures within a 20-foot radius that hear the toll must instead succeed at a DC 13 Will save or be affected as per *doom*. Creatures that are both chaotic and good that fail the Will save take 1d8 points of sonic damage and must succeed at a DC 13 Fortitude save or be stunned 1 for 1 round.
+Chaotic or good creatures within a 20-foot radius that hear the toll must instead succeed at a DC 13 Will save or be affected as per [*doom*](../magic/spells/doom.md). Creatures that are both chaotic and good that fail the Will save take 1d8 points of sonic damage and must succeed at a DC 13 Fortitude save or be stunned 1 for 1 round.
 
-Finally, any living creatures within a 20-foot radius that have –1 or fewer hit points must succeed at a DC 13 Will save or be slain as per *death knell*. At the beginning of the wielder's next turn, if the bell's *death knell* effect slew a creature, the wielder can then choose to grant the benefits of *death knell* to either himself or any one creature within sight that is benefiting from the bell's *ward the faithful* effect. Even if multiple enemy creatures fail their saving throws versus the *death knell* effect, only one creature gains the benefits.
+Finally, any living creatures within a 20-foot radius that have –1 or fewer hit points must succeed at a DC 13 Will save or be slain as per [*death knell*](../magic/spells/death-knell.md). At the beginning of the wielder's next turn, if the bell's *death knell* effect slew a creature, the wielder can then choose to grant the benefits of *death knell* to either himself or any one creature within sight that is benefiting from the bell's [*ward the faithful*](../magic/spells/ward-the-faithful.md) effect. Even if multiple enemy creatures fail their saving throws versus the *death knell* effect, only one creature gains the benefits.
 
-**Construction Requirements:** Craft Wondrous Item, *death knell*, *doom*, *sound burst*, *ward the faithful*; **Cost** 8,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*death knell*](../magic/spells/death-knell.md), [*doom*](../magic/spells/doom.md), [*sound burst*](../magic/spells/sound-burst.md), [*ward the faithful*](../magic/spells/ward-the-faithful.md); **Cost** 8,000 gp
 
 ### Eyes of Embersight
 
@@ -340,11 +340,11 @@ Finally, any living creatures within a 20-foot radius that have –1 or fewer hi
 
 **Aura** moderate divination
 
-These two transparent red crystal lenses fit directly over the wearer's eyes. On command, the wearer can speak a prayer to an infernal patron as a standard action (1 AP) to be granted darkvision with a range of 60 feet; within that range, the wearer can see in darkness of any kind, including that created by *deeper darkness*. While the lenses are activated, they take on the appearance of red-hot, glowing embers, making them extremely distinctive and foiling Disguise checks unless the wearer is disguised as someone or something with glowing red eyes.
+These two transparent red crystal lenses fit directly over the wearer's eyes. On command, the wearer can speak a prayer to an infernal patron as a standard action (1 AP) to be granted darkvision with a range of 60 feet; within that range, the wearer can see in darkness of any kind, including that created by [*deeper darkness*](../magic/spells/deeper-darkness.md). While the lenses are activated, they take on the appearance of red-hot, glowing embers, making them extremely distinctive and foiling Disguise checks unless the wearer is disguised as someone or something with glowing red eyes.
 
 The *eyes of embersight* work for a total of 9 minutes each day. These minutes need not be consecutive, but the eyes must be used in 1-minute increments. Both lenses must be worn by the same wearer for the magic item to take effect.
 
-**Construction Requirements:** Craft Wondrous Item, *true seeing*; **Cost** 8,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*true seeing*](../magic/spells/true-seeing.md); **Cost** 8,000 gp
 
 ### Eyes of the Damned
 
@@ -352,9 +352,9 @@ The *eyes of embersight* work for a total of 9 minutes each day. These minutes n
 
 **Aura** faint illusion
 
-These two clear crystal lenses fit directly over the wearer's eyes. When the wearer activates the lenses by speaking a prayer to an infernal patron as a standard action (1 AP), her eyes appear to be replaced by orbs of impenetrable blackness. She gains a gaze attack until the beginning of her next turn. The wearer can choose a creature within 30 feet on which to gaze as part of the action of activating the lenses. The target creature must succeed at a DC 14 Will save or be affected as per *vision of Hell* for 5 minutes, except that the effect is a phantasm, rather than glamer, and it follows the affected creature rather than affecting an area. An affected creature continues to see the terrifying hellscape for the duration, regardless of the creature's location. As with *vision of Hell*, devils and all lawful evil creatures are immune to the effect caused by this item. The *eyes of the damned* can be activated up to three times per day. Both lenses must be worn by the same wearer for the magic item to take effect.
+These two clear crystal lenses fit directly over the wearer's eyes. When the wearer activates the lenses by speaking a prayer to an infernal patron as a standard action (1 AP), her eyes appear to be replaced by orbs of impenetrable blackness. She gains a gaze attack until the beginning of her next turn. The wearer can choose a creature within 30 feet on which to gaze as part of the action of activating the lenses. The target creature must succeed at a DC 14 Will save or be affected as per [*vision of Hell*](../magic/spells/vision-of-hell.md) for 5 minutes, except that the effect is a phantasm, rather than glamer, and it follows the affected creature rather than affecting an area. An affected creature continues to see the terrifying hellscape for the duration, regardless of the creature's location. As with *vision of Hell*, devils and all lawful evil creatures are immune to the effect caused by this item. The *eyes of the damned* can be activated up to three times per day. Both lenses must be worn by the same wearer for the magic item to take effect.
 
-**Construction Requirements:** Craft Wondrous Item, *vision of Hell*; **Cost** 7,500 gp
+**Construction Requirements:** Craft Wondrous Item, [*vision of Hell*](../magic/spells/vision-of-hell.md); **Cost** 7,500 gp
 
 ### Rod of Burning Blood
 
@@ -364,7 +364,7 @@ These two clear crystal lenses fit directly over the wearer's eyes. When the wea
 
 This rod of blackened iron is inset with rubies and functions as a +1 *cunning* light mace. Unholy water poured over the rod is absorbed, giving the rod 1 charge per vial. When the rod strikes a creature, the wielder can expend 1 charge from the rod to spray the creature with burning blood from the weapon's head. This burning blood deals 1d6 points of damage (half fire, half unholy). Alternatively, the wielder can expend 5 charges at once to create a spray of burning blood in a 15-foot cone. Creatures in the area take 5d4 points of damage (half fire, half unholy; Reflex DC 17 half). The rod can hold at most 10 charges at any one time. Charging the rod with unholy water is a standard action (1 AP) that provokes attacks of opportunity.
 
-**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, *flame strike*, *true strike*; **Cost** 5,525 gp
+**Construction Requirements:** Craft Magic Arms and Armor, Craft Rod, [*flame strike*](../magic/spells/flame-strike.md), [*true strike*](../magic/spells/true-strike.md); **Cost** 5,525 gp
 
 ## Merchant Caravan
 
@@ -412,7 +412,7 @@ A sucker's barrel is constructed to appear to the casual eye exactly like a norm
 
 A *crate of preservation* stores and keeps fresh any perishable food and drink during transport. Cold items remain cold and hot items stay hot. The preservation effects function indefinitely, though foods already spoiled before being placed within the crate are not restored to health and vigor; they simply remain in their existing state of spoilage. The *crate of preservation* can hold up to 8 cubic feet of goods.
 
-**Construction Requirements:** Craft Wondrous Item, *endure elements*, *purify food and drink*; **Cost** 1,250 gp
+**Construction Requirements:** Craft Wondrous Item, [*endure elements*](../magic/spells/endure-elements.md), [*purify food and drink*](../magic/spells/purify-food-and-drink.md); **Cost** 1,250 gp
 
 ### Unbalanced Scales
 
@@ -422,7 +422,7 @@ A *crate of preservation* stores and keeps fresh any perishable food and drink d
 
 A set of *unbalanced scales* permits an unscrupulous merchant to conduct transactions with inaccurate weight results, but still pass inspections by commerce officials when necessary. The *unbalanced scales* normally provide an accurate measurement of weight, but by means of a command word, the user can cause the set of scales to provide a reading that is off (either lighter or heavier, as desired) by as much as 25%.
 
-**Construction Requirements:** Craft Wondrous Item, *prestidigitation*; **Cost** 500 gp
+**Construction Requirements:** Craft Wondrous Item, [*prestidigitation*](../magic/spells/prestidigitation.md); **Cost** 500 gp
 
 ## Merry Outlaws
 
@@ -454,7 +454,7 @@ While the arrow is so lodged, anyone within 200 feet of it can speak the appropr
 
 The arrow remains embedded within the target object indefinitely, although the user can pull it free from the target object by speaking a second command word or by succeeding at a DC 15 Strength check. If removed, the *arrow of latching* loses its magic, reduced to a common arrow.
 
-**Construction Requirements:** Craft Wondrous Item, *animate rope*, *handy grapnel*, *shrink item*; **Cost** 250 gp
+**Construction Requirements:** Craft Wondrous Item, [*animate rope*](../magic/spells/animate-rope.md), [*handy grapnel*](../magic/spells/handy-grapnel.md), [*shrink item*](../magic/spells/shrink-item.md); **Cost** 250 gp
 
 ### Outlaw's Flair
 
@@ -469,7 +469,7 @@ These garish tokens usually take the form of a colorful adornment for a weapon; 
 - **Silver Chime**: When the user misses with a ranged attack because of concealment, as a swift action (1 AP) she can reroll her miss chance percentile roll to see whether she actually hits.
 - **Teal Bead**: While making a ranged attack, the user doesn't provoke attacks of opportunity.
 
-**Construction Requirements:** Craft Wondrous Item, *haste*, creator must be able to use grit or panache; **Cost** 1,250 gp
+**Construction Requirements:** Craft Wondrous Item, [*haste*](../magic/spells/haste.md), creator must be able to use grit or panache; **Cost** 1,250 gp
 
 ### Hook of Ascension
 
@@ -479,7 +479,7 @@ These garish tokens usually take the form of a colorful adornment for a weapon; 
 
 This mithral zip-line hook is attached to a black leather strap with a bronze buckle shaped like a spider. When the hook is attached to a rope, a cable, or a similar object, the user can move along the rope at a speed of 30 feet per move action (1 AP), regardless of the rope's slope or inclination; a *hook of ascension* can even carry its user straight up vertical ropes in this manner. Furthermore, the user doesn't need to attempt Climb checks while using a *hook of ascension* to climb a rope, and this movement does not constitute vigorous motion for the purpose of casting spells. The hook can even be commanded to stop mid-travel, suspending its user in midair along the rope's path without risk of falling.
 
-**Construction Requirements:** Craft Wondrous Item, *levitate*, *spider climb*; **Cost** 6,500 gp
+**Construction Requirements:** Craft Wondrous Item, [*levitate*](../magic/spells/levitate.md), [*spider climb*](../magic/spells/spider-climb.md); **Cost** 6,500 gp
 
 ### Vagrant's Hood
 
@@ -487,9 +487,9 @@ This mithral zip-line hook is attached to a black leather strap with a bronze bu
 
 **Aura** faint illusion
 
-This linen hood is simply decorated with the colors of the forest and designed to cast a dramatic shadow upon the wearer's face, obscuring identifiable features. A *vagrant's hood* grants the wearer a +4 competence bonus on Disguise checks and makes the wearer's voice sound deep and throaty, as per *vocal alteration*.
+This linen hood is simply decorated with the colors of the forest and designed to cast a dramatic shadow upon the wearer's face, obscuring identifiable features. A *vagrant's hood* grants the wearer a +4 competence bonus on Disguise checks and makes the wearer's voice sound deep and throaty, as per [*vocal alteration*](../magic/spells/vocal-alteration.md).
 
-**Construction Requirements:** Craft Wondrous Item, *disguise self*, *vocal alteration*; **Cost** 2,200 gp
+**Construction Requirements:** Craft Wondrous Item, [*disguise self*](../magic/spells/disguise-self.md), [*vocal alteration*](../magic/spells/vocal-alteration.md); **Cost** 2,200 gp
 
 ## Nature's Scourge
 
@@ -501,7 +501,7 @@ This linen hood is simply decorated with the colors of the forest and designed t
 
 As a swift action (1 AP) up to three times per day, the wearer can create fungi in every square through which she walks during her turn. The fungi in these squares count as difficult terrain. After 1 minute, most of the fungi disappear; those that remain provide no impediment.
 
-**Construction Requirements:** Craft Wondrous Item, *entangle*; **Cost** 1,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*entangle*](../magic/spells/entangle.md); **Cost** 1,000 gp
 
 ### Necklace of Stolen Breath
 
@@ -517,7 +517,7 @@ A minor soul bone summons a Small water elemental drowned shade or heals 1d8+11 
 
 The wearer can add a new soul bone to the necklace by ritually drowning a sentient creature and paying the additional cost. The requirements are as follows: minor (300 gp, 2-HD sacrifice), lesser (1,400 gp, 4-HD sacrifice), standard (2,250 gp, 8-HD sacrifice), and greater (3,300 gp, 10-HD sacrifice).
 
-**Construction Requirements:** Augment Summoning, Craft Wondrous Item, *summon monster VI* or *summon nature's ally V*; **Cost** 1,750 gp
+**Construction Requirements:** Augment Summoning, Craft Wondrous Item, [*summon monster VI*](../magic/spells/summon-monster-vi.md) or [*summon nature's ally V*](../magic/spells/summon-natures-ally-v.md); **Cost** 1,750 gp
 
 ## Regal Court
 
@@ -527,15 +527,15 @@ The wearer can add a new soul bone to the necklace by ritually drowning a sentie
 
 **Aura** strong enchantment
 
-This garish signet ring is worth 1,500 gp for its materials and workmanship alone. Like the user of a *rod of rulership*, the ring's wearer can command the fealty of creatures, but only if she is a member by blood of the family whose symbol is displayed on the ring and only if those creatures are citizens or vassals of the family's holdings (though it works on disaffected, disloyal, and even traitorous subjects). On command, the wearer can use the ring to target a single humanoid creature within 50 feet that meets those qualifications. This effect is automatically successful if the creature has an Intelligence of 9 or lower. A creature with a higher Intelligence must succeed at a DC 14 Will save or obey the ring's wearer's commands as if she were its absolute sovereign; a successful save renders that creature immune to that ring's effects for 24 hours. This is a mind-affecting enchantment (compulsion) effect and counts as a 3rd-level spell for the purpose of *break enchantment*.
+This garish signet ring is worth 1,500 gp for its materials and workmanship alone. Like the user of a *rod of rulership*, the ring's wearer can command the fealty of creatures, but only if she is a member by blood of the family whose symbol is displayed on the ring and only if those creatures are citizens or vassals of the family's holdings (though it works on disaffected, disloyal, and even traitorous subjects). On command, the wearer can use the ring to target a single humanoid creature within 50 feet that meets those qualifications. This effect is automatically successful if the creature has an Intelligence of 9 or lower. A creature with a higher Intelligence must succeed at a DC 14 Will save or obey the ring's wearer's commands as if she were its absolute sovereign; a successful save renders that creature immune to that ring's effects for 24 hours. This is a mind-affecting enchantment (compulsion) effect and counts as a 3rd-level spell for the purpose of [*break enchantment*](../magic/spells/break-enchantment.md).
 
 If the ring's wielder gives a command that is contrary to the nature of a ruled creature, that creature receives another saving throw to shake off the effect. Even if the ruled creature fails the saving throw and remains ruled, it can still refuse that particular command. The GM is the final arbiter of what constitutes a command that is contrary to the nature of a ruled creature, and for most creatures, if the ring's wearer coopts their every moment, the creature can attempt a save every day.
 
-A creature is ruled until one of the following happens: it shakes off the effect after being given a command against its nature, an outside source (such as *break enchantment*) removes the compulsion, the wearer removes the *ring of rulership*, the wearer commands the ring to release the creature (a standard action (1 AP) that need not take place in the creature's presence), or another member of the ruler's family rules the creature using a different *ring of rulership*, whichever comes first.
+A creature is ruled until one of the following happens: it shakes off the effect after being given a command against its nature, an outside source (such as [*break enchantment*](../magic/spells/break-enchantment.md)) removes the compulsion, the wearer removes the *ring of rulership*, the wearer commands the ring to release the creature (a standard action (1 AP) that need not take place in the creature's presence), or another member of the ruler's family rules the creature using a different *ring of rulership*, whichever comes first.
 
 The power of the ring can rule no more than three creatures at a time; to rule a new creature, the ring's wearer must first release one of the three ruled creatures.
 
-**Construction Requirements:** Forge Ring, *mass suggestion*; **Cost** 7,750 gp
+**Construction Requirements:** Forge Ring, [*mass suggestion*](../magic/spells/suggestion-mass.md); **Cost** 7,750 gp
 
 ## Ruthless Brigands
 
@@ -545,11 +545,11 @@ The power of the ring can rule no more than three creatures at a time; to rule a
 
 **Aura** moderate divination
 
-This small flag sports a banner that is 2 inches wide by 3 inches tall and has a thin wooden dowel that serves as the flag post. When a creature plants the flag in the ground and speaks the command word, the flag expands into a military tent of stout canvas with the flag flapping from the centermost tent pole. The tent fills a space that is 15 feet by 30 feet. The entrance of the tent consists of a vestibule with an outer and inner flap for keeping light from spilling out. Inside, the *commander's tent* contains a central table and several chairs and cushions. Several lanterns hang from pegs around the perimeter of the interior, providing sufficient light for reading letters, maps, and so forth. Despite this illumination, the exterior of the tent does not glow so long as only one tent flap at the vestibule (inner or outer) is open at any given time. The center table features a blank map. Once per week, any creature inside the tent can utter a second command word to transform the map into a model of the nearby area, as *sand table*.
+This small flag sports a banner that is 2 inches wide by 3 inches tall and has a thin wooden dowel that serves as the flag post. When a creature plants the flag in the ground and speaks the command word, the flag expands into a military tent of stout canvas with the flag flapping from the centermost tent pole. The tent fills a space that is 15 feet by 30 feet. The entrance of the tent consists of a vestibule with an outer and inner flap for keeping light from spilling out. Inside, the *commander's tent* contains a central table and several chairs and cushions. Several lanterns hang from pegs around the perimeter of the interior, providing sufficient light for reading letters, maps, and so forth. Despite this illumination, the exterior of the tent does not glow so long as only one tent flap at the vestibule (inner or outer) is open at any given time. The center table features a blank map. Once per week, any creature inside the tent can utter a second command word to transform the map into a model of the nearby area, as [*sand table*](../magic/spells/sand-table.md).
 
 While the *commander's tent* is in tent form, the user can utter a third command word while holding a new flag to replace the flag atop the tent with one of his own choosing. The two pennants swap places. A fourth command word causes the tent to break down, returning to its miniature flag form.
 
-**Construction Requirements:** Craft Wondrous Item, *rope trick*, *sand table*; **Cost** 4,500 gp
+**Construction Requirements:** Craft Wondrous Item, [*rope trick*](../magic/spells/rope-trick.md), [*sand table*](../magic/spells/sand-table.md); **Cost** 4,500 gp
 
 ### Moss Cloak
 
@@ -559,7 +559,7 @@ While the *commander's tent* is in tent form, the user can utter a third command
 
 A tangled layer of green moss grown on a thin, damp sheet of sod, this heavy cloak can be wrapped around the wearer to provide a measure of camouflage. When donned in forest or jungle terrain, a *moss cloak* gives its wearer a +10 competence bonus on Stealth checks. In any terrain, the wearer can remove a single poison currently affecting him once per day as a standard action (1 AP). This causes the moss to turn a sickly shade of brown as it draws the toxins from the wearer's body, negating the Stealth bonus until the cloak heals itself 24 hours later.
 
-**Construction Requirements:** Craft Wondrous Item, *invisibility*, *neutralize poison*, *restoration*; **Cost** 9,350 gp
+**Construction Requirements:** Craft Wondrous Item, [*invisibility*](../magic/spells/invisibility.md), [*neutralize poison*](../magic/spells/neutralize-poison.md), [*restoration*](../magic/spells/restoration.md); **Cost** 9,350 gp
 
 ### Satchel of Plentiful Feed
 
@@ -576,7 +576,7 @@ This item appears to be an unremarkable mesh bag with many small openings, but i
 | Type III | 25 lbs. | 25 | 7,500 gp | 3,750 gp |
 | Type IV | 30 lbs. | 50 | 15,000 gp | 7,500 gp |
 
-**Construction Requirements:** Craft Wondrous Item, *create food and water*; **Cost** varies
+**Construction Requirements:** Craft Wondrous Item, [*create food and water*](../magic/spells/create-food-and-water.md); **Cost** varies
 
 ## Savage Marauders
 
@@ -588,9 +588,9 @@ This item appears to be an unremarkable mesh bag with many small openings, but i
 
 While unattended, these rough leather boots appear to be in a slightly different place each time a creature observes them. They seem to flicker around the wearer's feet for the first 24 hours she wears them, reducing her movement speed by 5 feet and imposing a –2 penalty on Acrobatics checks.
 
-After she has worn the boots for 24 hours, the flickering decreases, the penalties end, and she can activate the boots. Three times per day, she can activate the boots as a swift action (1 AP) to avoid provoking attacks of opportunity while moving out of a threatened square. While activated, the boots conceal the wearer's movement in such a way that her foes see only short, blurred flashes of movement. Any creature that has blindsight or a similar nonvisual sense or is affected by *true seeing* can still make attacks of opportunity against the wearer as normal.
+After she has worn the boots for 24 hours, the flickering decreases, the penalties end, and she can activate the boots. Three times per day, she can activate the boots as a swift action (1 AP) to avoid provoking attacks of opportunity while moving out of a threatened square. While activated, the boots conceal the wearer's movement in such a way that her foes see only short, blurred flashes of movement. Any creature that has blindsight or a similar nonvisual sense or is affected by [*true seeing*](../magic/spells/true-seeing.md) can still make attacks of opportunity against the wearer as normal.
 
-**Construction Requirements:** Craft Wondrous Item, *blur*; **Cost** 1,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*blur*](../magic/spells/blur.md); **Cost** 1,000 gp
 
 ## Scandalous Pirates
 
@@ -600,9 +600,9 @@ After she has worn the boots for 24 hours, the flickering decreases, the penalti
 
 **Aura** moderate transmutation
 
-This +1 cutlass is constantly soaked with brine. The wielder's attacks with a *cutlass of waves* don't take penalties from being underwater, as if the cutlass were a piercing weapon. While a creature holds the cutlass in its hand, a low-cresting wave of water carries the cutlass's holder along the deck of a ship or through the water, otherwise as per *slipstream*.
+This +1 cutlass is constantly soaked with brine. The wielder's attacks with a *cutlass of waves* don't take penalties from being underwater, as if the cutlass were a piercing weapon. While a creature holds the cutlass in its hand, a low-cresting wave of water carries the cutlass's holder along the deck of a ship or through the water, otherwise as per [*slipstream*](../magic/spells/slipstream.md).
 
-**Construction Requirements:** Craft Wondrous Item, *slipstream*; **Cost** 4,650 gp
+**Construction Requirements:** Craft Wondrous Item, [*slipstream*](../magic/spells/slipstream.md); **Cost** 4,650 gp
 
 ### Hat of the Seven Winds
 
@@ -612,7 +612,7 @@ This +1 cutlass is constantly soaked with brine. The wielder's attacks with a *c
 
 This black tricorne hat is embroidered with the pattern of a ship. The wearer does not take any penalties from rain, takes penalties from high wind speeds as though she were one size category larger than she actually is, and gains a +4 bonus on saving throws against wind effects.
 
-**Construction Requirements:** Craft Wondrous Item, *control winds*; **Cost** 2,250 gp
+**Construction Requirements:** Craft Wondrous Item, [*control winds*](../magic/spells/control-winds.md); **Cost** 2,250 gp
 
 ### Pirate Lord's Patch
 
@@ -622,9 +622,9 @@ This black tricorne hat is embroidered with the pattern of a ship. The wearer do
 
 This eye patch is woven entirely from gold cloth and features a skull and crossbones embroidered in black stitching. A pair of small sapphires is sewn into the cloth within the skull's eye sockets, making them appear as gleaming pinpricks of blue light. The wearer can see as if the eye patch were not there.
 
-The wearer gains a +2 competence bonus on Appraise and Intimidate checks. Once per day, the wearer can activate the patch in order to gain the benefits of *see invisibility* for 5 minutes. Additionally, once per day, he can activate the patch in order to see through solid objects for 1 minute, as though with a *ring of x-ray vision*.
+The wearer gains a +2 competence bonus on Appraise and Intimidate checks. Once per day, the wearer can activate the patch in order to gain the benefits of [*see invisibility*](../magic/spells/see-invisibility.md) for 5 minutes. Additionally, once per day, he can activate the patch in order to see through solid objects for 1 minute, as though with a *ring of x-ray vision*.
 
-**Construction Requirements:** Craft Wondrous Item, *locate object*, *see invisibility*; **Cost** 4,250 gp
+**Construction Requirements:** Craft Wondrous Item, [*locate object*](../magic/spells/locate-object.md), [*see invisibility*](../magic/spells/see-invisibility.md); **Cost** 4,250 gp
 
 ## Secret Society
 
@@ -640,7 +640,7 @@ As a swift action (1 AP), the wearer can transform her head into the form of the
 
 This duration does not need to be consecutive, but it must be used in 1-minute increments.
 
-**Construction Requirements:** Craft Wondrous Item, *beast shape I*; **Cost** 1,350 gp
+**Construction Requirements:** Craft Wondrous Item, [*beast shape I*](../magic/spells/beast-shape-i.md); **Cost** 1,350 gp
 
 ### Society Ring
 
@@ -648,13 +648,13 @@ This duration does not need to be consecutive, but it must be used in 1-minute i
 
 **Aura** faint abjuration, divination, illusion, and transmutation
 
-The flat bezel of this signet ring is typically set with a semiprecious gem. If the wearer of the ring is successfully inducted into a group or organization through an initiation ritual, the ring becomes attuned to that organization and wearer. A suitable initiation ritual takes at least 10 minutes and at the very least involves a pledge of allegiance to the group or organization, but it can take a variety of forms. The crest or symbol of the organization appears engraved on the gem, and the ring becomes invisible (as per *invisibility*) and hidden from scrying effects (as per *obscure object*) to all except those who also wear society rings attuned to the same organization (referred to below as "similar rings"). Creatures that are capable of seeing invisible objects, such as via *see invisibility*, can still perceive a society ring.
+The flat bezel of this signet ring is typically set with a semiprecious gem. If the wearer of the ring is successfully inducted into a group or organization through an initiation ritual, the ring becomes attuned to that organization and wearer. A suitable initiation ritual takes at least 10 minutes and at the very least involves a pledge of allegiance to the group or organization, but it can take a variety of forms. The crest or symbol of the organization appears engraved on the gem, and the ring becomes invisible (as per [*invisibility*](../magic/spells/invisibility.md)) and hidden from scrying effects (as per [*obscure object*](../magic/spells/obscure-object.md)) to all except those who also wear society rings attuned to the same organization (referred to below as "similar rings"). Creatures that are capable of seeing invisible objects, such as via [*see invisibility*](../magic/spells/see-invisibility.md), can still perceive a society ring.
 
-Once attuned, the society ring's wearer can communicate with wearers of similar rings within 150 feet (as per *message*). It also grants +10 competence bonuses on Bluff checks to pass secret messages to members of the attuned organization and Sense Motive checks to receive secret messages from them. In addition, if the wearer touches his society ring to a similar ring, for the following hour, the wearer can sense the direction and distance to that ring, as well as any conditions affecting its wearer (as per *status*). Only one ring at a time can be linked in this way; if the wearer touches his ring to another similar ring within the duration of the effect, the status effect switches to the most recently touched ring.
+Once attuned, the society ring's wearer can communicate with wearers of similar rings within 150 feet (as per [*message*](../magic/spells/message.md)). It also grants +10 competence bonuses on Bluff checks to pass secret messages to members of the attuned organization and Sense Motive checks to receive secret messages from them. In addition, if the wearer touches his society ring to a similar ring, for the following hour, the wearer can sense the direction and distance to that ring, as well as any conditions affecting its wearer (as per [*status*](../magic/spells/status.md)). Only one ring at a time can be linked in this way; if the wearer touches his ring to another similar ring within the duration of the effect, the status effect switches to the most recently touched ring.
 
-If a society ring is worn or carried by a creature other than the attuned wearer, the ring silently alerts attuned ring wearers from the same organization within 1 mile (as per *alarm*), does not display the crest or symbol of the attuned organization, and glows with a red aura visible only to wearers of similar rings. A new owner can end this effect by becoming initiated into any organization, at which point the ring attunes to the new wearer and organization.
+If a society ring is worn or carried by a creature other than the attuned wearer, the ring silently alerts attuned ring wearers from the same organization within 1 mile (as per [*alarm*](../magic/spells/alarm.md)), does not display the crest or symbol of the attuned organization, and glows with a red aura visible only to wearers of similar rings. A new owner can end this effect by becoming initiated into any organization, at which point the ring attunes to the new wearer and organization.
 
-**Construction Requirements:** Forge Ring, *alarm*, *hidden speech*, *invisibility*, *message*, *obscure object*, *status*, creator must have at least 10 ranks in both Bluff and Sense Motive; **Cost** 4,000 gp
+**Construction Requirements:** Forge Ring, [*alarm*](../magic/spells/alarm.md), [*hidden speech*](../magic/spells/hidden-speech.md), [*invisibility*](../magic/spells/invisibility.md), [*message*](../magic/spells/message.md), [*obscure object*](../magic/spells/obscure-object.md), [*status*](../magic/spells/status.md), creator must have at least 10 ranks in both Bluff and Sense Motive; **Cost** 4,000 gp
 
 ## Sinister Cult
 
@@ -664,9 +664,9 @@ If a society ring is worn or carried by a creature other than the attuned wearer
 
 **Aura** faint enchantment
 
-This simple-looking amulet bears the symbol of a group or cult and resembles the jewelry its members normally wear. When the bearer presents the necklace to a current or prospective group member (humanoids only), the recipient is compelled to accept and don the periapt unless he succeeds at a DC 11 Will save. Thereafter, the wearer is deeply devoted to the person who gave him the periapt, as though affected by a *charm person* spell (with no additional saving throw against the effect). He always views the giver's words and actions favorably and speaks highly of her whenever the occasion arises.
+This simple-looking amulet bears the symbol of a group or cult and resembles the jewelry its members normally wear. When the bearer presents the necklace to a current or prospective group member (humanoids only), the recipient is compelled to accept and don the periapt unless he succeeds at a DC 11 Will save. Thereafter, the wearer is deeply devoted to the person who gave him the periapt, as though affected by a [*charm person*](../magic/spells/charm-person.md) spell (with no additional saving throw against the effect). He always views the giver's words and actions favorably and speaks highly of her whenever the occasion arises.
 
-**Construction Requirements:** Craft Wondrous Item, *beguiling gift*, *charm person*; **Cost** 1,650 gp
+**Construction Requirements:** Craft Wondrous Item, [*beguiling gift*](../magic/spells/beguiling-gift.md), [*charm person*](../magic/spells/charm-person.md); **Cost** 1,650 gp
 
 ### Periapt of Utter Devotion
 
@@ -674,9 +674,9 @@ This simple-looking amulet bears the symbol of a group or cult and resembles the
 
 **Aura** moderate enchantment
 
-This amulet functions as a *periapt of devotion* but has a Will save DC of 16 and can affect nonhumanoids (as per *charm monster*). In addition, once per day when talking to the wearer, the giver can implant a *triggered suggestion* in the wearer's mind, as per the spell. The wearer can attempt a DC 16 Will save to negate the effect. If he surpasses the DC by 5 or more, he also breaks the periapt's charm effect.
+This amulet functions as a *periapt of devotion* but has a Will save DC of 16 and can affect nonhumanoids (as per [*charm monster*](../magic/spells/charm-monster.md)). In addition, once per day when talking to the wearer, the giver can implant a [*triggered suggestion*](../magic/spells/triggered-suggestion.md) in the wearer's mind, as per the spell. The wearer can attempt a DC 16 Will save to negate the effect. If he surpasses the DC by 5 or more, he also breaks the periapt's charm effect.
 
-**Construction Requirements:** Craft Wondrous Item, *beguiling gift*, *charm monster*, *triggered suggestion*; **Cost** 16,500 gp
+**Construction Requirements:** Craft Wondrous Item, [*beguiling gift*](../magic/spells/beguiling-gift.md), [*charm monster*](../magic/spells/charm-monster.md), [*triggered suggestion*](../magic/spells/triggered-suggestion.md); **Cost** 16,500 gp
 
 ### Sigils of the Great Cataclysm (minor artifact)
 
@@ -688,17 +688,17 @@ Sigils of the great cataclysm are collections of items designed to bring about d
 
 The sigils' foul magic takes effect only when they are buried or hidden on the points of an imaginary seven-pointed star covering up to a 3-mile radius. Once the final sigil is set in place, the sigils create a sequence of effects, one per week, each lasting for 1 week. For the first four sigils' effects, each living creature in the area has a certain chance to be targeted each day. Each affected creature suffers the effects at a different random time during the day. The final three sigils' effects each last for a full week and target the entire area as described below.
 
-- **First Sigil**: Each living creature in the area has a 10% chance of being affected by *feast of ashes* (Will DC 17 negates).
-- **Second Sigil**: Each living creature in the area has a 20% chance of being affected by *rage* (Will DC 18 negates).
-- **Third Sigil**: Each living creature in the area has a 30% chance of being affected by *contagion* with a random disease (Fortitude DC 19 negates).
-- **Fourth Sigil**: Each living creature in the area has a 40% chance of being surrounded by a deadly miasma and affected as per *cloudkill* (Fortitude DC 20 negates).
-- **Fifth Sigil**: The area experiences severe storms as if under the effects of *control weather*.
-- **Sixth Sigil**: Random 40-foot-radius spaces within the area are affected as if by *earthquake*. The earthquake affects a single 40-foot-radius space each round, then moves to a new location.
+- **First Sigil**: Each living creature in the area has a 10% chance of being affected by [*feast of ashes*](../magic/spells/feast-of-ashes.md) (Will DC 17 negates).
+- **Second Sigil**: Each living creature in the area has a 20% chance of being affected by [*rage*](../magic/spells/rage.md) (Will DC 18 negates).
+- **Third Sigil**: Each living creature in the area has a 30% chance of being affected by [*contagion*](../magic/spells/contagion.md) with a random disease (Fortitude DC 19 negates).
+- **Fourth Sigil**: Each living creature in the area has a 40% chance of being surrounded by a deadly miasma and affected as per [*cloudkill*](../magic/spells/cloudkill.md) (Fortitude DC 20 negates).
+- **Fifth Sigil**: The area experiences severe storms as if under the effects of [*control weather*](../magic/spells/control-weather.md).
+- **Sixth Sigil**: Random 40-foot-radius spaces within the area are affected as if by [*earthquake*](../magic/spells/earthquake.md). The earthquake affects a single 40-foot-radius space each round, then moves to a new location.
 - **Seventh Sigil**: Fiery spheres fall from the sky. One sphere affects a 40-foot-radius area for 1d6 rounds, then vanishes; the next round another sphere affects a new location. A sphere deals 2d6 points of damage + 1d6 points of fire damage to creatures and objects each round (Reflex DC 23 half) and can ignite flammable materials.
 
 Once the cycle of destruction begins, each sigil's effect can be stopped only by moving that sigil from its spot on the seven-pointed star. Moving a seal ends its effects immediately.
 
-**Destruction**: Sigils of the great cataclysm can be destroyed by placing a complete set in a silk bag, submerging the bag at the bottom of a nixie's pool, and casting *bless water* on the pool at each sunrise for 1 month.
+**Destruction**: Sigils of the great cataclysm can be destroyed by placing a complete set in a silk bag, submerging the bag at the bottom of a nixie's pool, and casting [*bless water*](../magic/spells/bless-water.md) on the pool at each sunrise for 1 month.
 
 ## Slayers' Guild
 
@@ -712,7 +712,7 @@ This +1 *cestus* of blackened leather is reinforced with strips of dark iron ove
 
 If the wearer drops the weapon or is disarmed, regardless of whether the cestus was locked, a leather strap attached to the weapon prevents it from moving farther than the wielder's square, and the wielder can recover the weapon as a move action (1 AP). As a move action (1 AP), the wearer can issue a mental command that causes the strap to detach from the weapon. As with a weapon cord, the wearer cannot otherwise switch to a different weapon in that hand unless the strap is detached or cut (a move action (1 AP) or an attack, hardness 1, 5 hp). If the strap is damaged or destroyed, the cestus's wearer can spend 1 minute wrapping a mundane weapon cord around the cestus, in which case the cestus absorbs the weapon cord into itself and the leather strap mends itself completely.
 
-**Construction Requirements:** Craft Magic Arms and Armor, *animate rope*; **Cost** 2,805 gp
+**Construction Requirements:** Craft Magic Arms and Armor, [*animate rope*](../magic/spells/animate-rope.md); **Cost** 2,805 gp
 
 ### Clandestine Voucher
 
@@ -726,7 +726,7 @@ To retrieve the coins from the *clandestine voucher*, the owner must apply a sol
 
 The voucher can be reused, but this requires purchasing a new magical quill at a cost of 25 gp and washing any solvent out of the parchment before applying new ink. Cursed coins can't be transformed into ink and stored in the quill.
 
-**Construction Requirements:** Craft Wondrous Item, *treasure stitching*; **Cost** 125 gp
+**Construction Requirements:** Craft Wondrous Item, [*treasure stitching*](../magic/spells/treasure-stitching.md); **Cost** 125 gp
 
 ### Ghungroos of Entrancement
 
@@ -738,7 +738,7 @@ Each of these musical anklets bears rows of tiny bells that accentuate the rhyth
 
 The wearer takes a –2 penalty on Stealth checks while wearing the ghungroos.
 
-**Construction Requirements:** Craft Wondrous Item, *hypnotism*, creator must have bardic performance and 5 ranks in Perform (dance); **Cost** 1,875 gp
+**Construction Requirements:** Craft Wondrous Item, [*hypnotism*](../magic/spells/hypnotism.md), creator must have bardic performance and 5 ranks in Perform (dance); **Cost** 1,875 gp
 
 ### Smoke Orb of Forgetfulness
 
@@ -752,7 +752,7 @@ Any creature in the smoke cloud that isn't aware of the smoke orb's nature must 
 
 A creature that is already aware of the abilities of a *smoke orb of forgetfulness* and suspects this smoke orb is one automatically succeeds at the save. The memory alteration is a mind-affecting effect.
 
-**Construction Requirements:** Craft Wondrous Item, *modify memory*; **Cost** 450 gp
+**Construction Requirements:** Craft Wondrous Item, [*modify memory*](../magic/spells/modify-memory.md); **Cost** 450 gp
 
 ### Vishkanya Periapt
 
@@ -764,7 +764,7 @@ This ruby is cut like a droplet of blood and suspended on an elaborate golden ne
 
 If the wearer is a vishkanya, she can use her toxic racial trait two additional times per day, and the DC of saving throws against her venom increases by 1.
 
-**Construction Requirements:** Craft Wondrous Item, *poison*; **Cost** 5,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*poison*](../magic/spells/poison.md); **Cost** 5,000 gp
 
 ## Thieves' Guild
 
@@ -796,7 +796,7 @@ To use the *doorknobs of peregrination*, a user affixes the pair of them upon tw
 
 Doorknobs of peregrination can be removed and placed on a variety of doors as often as desired (placing a doorknob is a standard action (1 AP), as is removing one). They can be placed upon different types of doors, as long as the surface of each door is solid rather than open-air. Thus, the knob can't function on a gate or portcullis, but it works on an otherwise solid door with a small, sliding window (such as a prison door) as long as the window is closed at the time of use. A knob can be placed upon a door and activated to connect with its twin, and the user can remove the first knob while the door is open as a standard action (1 AP) that provokes an attack of opportunity in order to bring it with him when he steps through. If he does so, the magic of the portal lasts for 1 additional round and then fades.
 
-**Construction Requirements:** Craft Wondrous Item, *dimension door*; **Cost** 20,000 gp
+**Construction Requirements:** Craft Wondrous Item, [*dimension door*](../magic/spells/dimension-door.md); **Cost** 20,000 gp
 
 ### Slippers of Scampering
 
@@ -806,4 +806,4 @@ Doorknobs of peregrination can be removed and placed on a variety of doors as of
 
 *Slippers of scampering* function in almost every way like *slippers of spider climbing*, except the slippers can be used for 10 rounds per day, split up as the wearer chooses (minimum 1 round per use).
 
-**Construction Requirements:** Craft Wondrous Item, *spider climb*; **Cost** 600 gp
+**Construction Requirements:** Craft Wondrous Item, [*spider climb*](../magic/spells/spider-climb.md); **Cost** 600 gp

@@ -7,8 +7,8 @@
 
 #### Description
 
-A *phase locking* weapon interferes with dimensional travel. A creature damaged by a *phase locking* weapon is affected as though by the *dimensional anchor* spell for 1 round.
+A *phase locking* weapon interferes with dimensional travel. A creature damaged by a *phase locking* weapon is affected as though by the [*dimensional anchor*](../../magic/spells/dimensional-anchor.md) spell for 1 round.
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *dimensional anchor*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*dimensional anchor*](../../magic/spells/dimensional-anchor.md); **Price** —

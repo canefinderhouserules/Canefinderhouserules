@@ -11,11 +11,11 @@ The fey lords appreciate a broad range of talents in their servants. While some 
 | 1st | +0 | +0 | +0 | +1 | Feymarked, obedience | — |
 | 2nd | +1 | +1 | +1 | +1 | Breacher, feyskinned, aligned class | +1 level of existing class |
 | 3rd | +2 | +1 | +1 | +2 | Fey boon 1 | +1 level of existing class |
-| 4th | +3 | +1 | +1 | +2 | Summon fey 1 (*summon monster IV*), aligned class | +1 level of existing class |
+| 4th | +3 | +1 | +1 | +2 | Summon fey 1 ([*summon monster IV*](../../magic/spells/summon-monster-iv.md)), aligned class | +1 level of existing class |
 | 5th | +3 | +2 | +2 | +3 | Alien mind, plane swap | +1 level of existing class |
 | 6th | +4 | +2 | +2 | +3 | Fey boon 2, aligned class | +1 level of existing class |
 | 7th | +5 | +2 | +2 | +4 | Feyskinned (constant) | +1 level of existing class |
-| 8th | +6 | +3 | +3 | +4 | Summon fey 2 (*summon monster VIII*), aligned class | +1 level of existing class |
+| 8th | +6 | +3 | +3 | +4 | Summon fey 2 ([*summon monster VIII*](../../magic/spells/summon-monster-viii.md)), aligned class | +1 level of existing class |
 | 9th | +6 | +3 | +3 | +5 | Fey boon 3 | +1 level of existing class |
 | 10th | +7 | +3 | +3 | +5 | Tear reality, aligned class | +1 level of existing class |
 
@@ -77,7 +77,7 @@ As a feysworn gains levels, she gains boons from her fey lord patron. The nature
 
 #### Summon Fey (Sp)
 
-At 4th level, a feysworn can use *summon monster IV* once per day to conjure 1 ekekeh or satyr, 1d3 nuglub gremlins (*Pathfinder RPG Bestiary 2 143*), or 1d4+1 fauns (*Pathfinder RPG Bestiary 3 114*). At 8th level, the feysworn also gains the ability to use *summon monster VIII* once per day to conjure 1 bogeyman (*Bestiary 3 42*), 1d3 nuckelavees (*Bestiary 3 203*), or 1d4+1 escorites. At the GM’s discretion, specific fey lord may allow feysworn who worship them to summon other fey creatures of equal power with this ability.
+At 4th level, a feysworn can use [*summon monster IV*](../../magic/spells/summon-monster-iv.md) once per day to conjure 1 ekekeh or satyr, 1d3 nuglub gremlins (*Pathfinder RPG Bestiary 2 143*), or 1d4+1 fauns (*Pathfinder RPG Bestiary 3 114*). At 8th level, the feysworn also gains the ability to use [*summon monster VIII*](../../magic/spells/summon-monster-viii.md) once per day to conjure 1 bogeyman (*Bestiary 3 42*), 1d3 nuckelavees (*Bestiary 3 203*), or 1d4+1 escorites. At the GM’s discretion, specific fey lord may allow feysworn who worship them to summon other fey creatures of equal power with this ability.
 
 #### Alien Mind (Ex)
 
@@ -93,12 +93,12 @@ At 10th level, once per day as long as she is on the Material Plane or in the fe
 
 | d% | Spell |
 |---|---|
-| 1-17 | *Incendiary cloud* |
-| 18-34 | *Sunburst* |
-| 35-51 | *Earthquake* |
-| 52-68 | *Fire storm* |
-| 69-85 | *Storm of vengeance* |
-| 86-100 | *Reverse gravity* |
+| 1-17 | [*Incendiary cloud*](../../magic/spells/incendiary-cloud.md) |
+| 18-34 | [*Sunburst*](../../magic/spells/sunburst.md) |
+| 35-51 | [*Earthquake*](../../magic/spells/earthquake.md) |
+| 52-68 | [*Fire storm*](../../magic/spells/fire-storm.md) |
+| 69-85 | [*Storm of vengeance*](../../magic/spells/storm-of-vengeance.md) |
+| 86-100 | [*Reverse gravity*](../../magic/spells/reverse-gravity.md) |
 
 Any level-based spell DCs and damage effects are based on the feysworn’s total character level (not just her feysworn level). The feysworn herself is immune to the magical effects, but allied creatures are affected unless noted otherwise in the spell.
 
@@ -106,4 +106,4 @@ This ripping of the planar fabric opens a breach to a random location on either 
 
 ## Ex-Feysworn
 
-A feysworn who goes against the will of her fey lord loses all class features of this prestige class, including all spellcasting ability enhanced by this class (even if that spellcasting ability comes from a class that normally doesn’t rely on the approval of a divine patron). She can’t thereafter gain levels as a feysworn until she atones for her misdeeds (either through [*atonement*](../../magic/spells/atonement.md) or negotiation with one of the fey lord’s chosen representatives), or until she appeals to and is accepted by another fey lord (symbolized by an *atonement* spell cast by a worshiper of that fey lord). This is the only method by which she can switch her fey lord patron, and even this may not be sufficient, as the fey lord are generally reluctant to take on unreliable servants.
+A feysworn who goes against the will of her fey lord loses all class features of this prestige class, including all spellcasting ability enhanced by this class (even if that spellcasting ability comes from a class that normally doesn’t rely on the approval of a divine patron). She can’t thereafter gain levels as a feysworn until she atones for her misdeeds (either through [*atonement*](../../magic/spells/atonement.md) or negotiation with one of the fey lord’s chosen representatives), or until she appeals to and is accepted by another fey lord (symbolized by an [*atonement*](../../magic/spells/atonement.md) spell cast by a worshiper of that fey lord). This is the only method by which she can switch her fey lord patron, and even this may not be sufficient, as the fey lord are generally reluctant to take on unreliable servants.

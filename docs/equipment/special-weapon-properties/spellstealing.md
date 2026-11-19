@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *spellstealing* weap
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *greater arcane sight*, *limited wish*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*greater arcane sight*](../../magic/spells/arcane-sight-greater.md), [*limited wish*](../../magic/spells/limited-wish.md); **Price** —

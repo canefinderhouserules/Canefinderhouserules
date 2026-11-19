@@ -81,41 +81,41 @@ In addition, each domain specialization grants a spell-like ability (which funct
 
 | Domain | Spell-Like Ability | Bonus |
 |---|---|---|
-| Air | *fly* 1/day | +4 on Fly checks |
-| Animal | *beast shape I* 1/day | +4 on Handle Animal checks |
-| Artifice | *crafter's fortune* 3/day | +4 on Craft checks |
-| Chaos | *detect law* constant | +2 on Will saves |
-| Charm | *beguiling gift* 3/day | +4 on Diplomacy checks |
-| Community | *tongues* 1/day | +4 on Diplomacy checks |
-| Darkness | *shadow weapon* 3/day | +4 on Perception checks |
-| Death | *murderous command* 3/day | +2 on Fortitude saves |
-| Destruction | *break* 3/day | +4 on Intimidate checks |
-| Earth | *stone fist* 3/day | +4 on Survival checks |
-| Evil | *detect good* constant | +2 on Will saves |
-| Fire | *flame arrow* 1/day | +4 on Acrobatics checks |
-| Glory | *archon's aura* 1/day | +4 on Intimidate checks |
-| Good | *detect evil* constant | +2 on Will saves |
-| Healing | *symbol of healing* 1/day | +4 on Heal checks |
-| Knowledge | *identify* 3/day | +4 on Knowledge checks (choose one) |
-| Law | *detect chaos* constant | +2 on Will saves |
-| Liberation | *remove sickness* 3/day | +4 on Escape Artist checks |
-| Luck | *divine favor* 3/day | +2 on Reflex saves |
-| Madness | *fumbletongue* 3/day | +4 on Bluff checks |
-| Magic | *detect magic* constant | +4 on Spellcraft checks |
-| Nobility | *command* 1/day | +4 on Diplomacy checks |
-| Plant | *speak with plants* 1/day | +2 on Fortitude saves |
-| Protection | *wrathful mantle* 1/day | +1 to Armor Class |
-| Repose | *sanctify corpse* 3/day | +2 on Fortitude saves |
-| Rune | *comprehend languages* 3/day | +4 on Linguistics checks |
-| Scalykind | *summon nature's ally III* (reptilian creatures only) 1/day | +2 on Reflex saves |
-| Strength | *burst bonds* 3/day | +4 on combat maneuver checks |
-| Sun | *daylight* 1/day | +4 on Perception checks |
-| Travel | *expeditious retreat* 3/day | +4 on Acrobatics checks |
-| Trickery | *glibness* 1/day | +4 on Stealth checks |
-| Void | *deeper darkness* 1/day | +4 on concentration checks |
-| War | *true strike* 3/day | +1 on weapon damage rolls |
-| Water | *water walk* 1/day | +4 on Swim checks |
-| Weather | *cloak of winds* 1/day | +4 on Survival checks |
+| Air | [*fly*](../../magic/spells/fly.md) 1/day | +4 on Fly checks |
+| Animal | [*beast shape I*](../../magic/spells/beast-shape-i.md) 1/day | +4 on Handle Animal checks |
+| Artifice | [*crafter's fortune*](../../magic/spells/crafters-fortune.md) 3/day | +4 on Craft checks |
+| Chaos | [*detect law*](../../magic/spells/detect-law.md) constant | +2 on Will saves |
+| Charm | [*beguiling gift*](../../magic/spells/beguiling-gift.md) 3/day | +4 on Diplomacy checks |
+| Community | [*tongues*](../../magic/spells/tongues.md) 1/day | +4 on Diplomacy checks |
+| Darkness | [*shadow weapon*](../../magic/spells/shadow-weapon.md) 3/day | +4 on Perception checks |
+| Death | [*murderous command*](../../magic/spells/murderous-command.md) 3/day | +2 on Fortitude saves |
+| Destruction | [*break*](../../magic/spells/break.md) 3/day | +4 on Intimidate checks |
+| Earth | [*stone fist*](../../magic/spells/stone-fist.md) 3/day | +4 on Survival checks |
+| Evil | [*detect good*](../../magic/spells/detect-good.md) constant | +2 on Will saves |
+| Fire | [*flame arrow*](../../magic/spells/flame-arrow.md) 1/day | +4 on Acrobatics checks |
+| Glory | [*archon's aura*](../../magic/spells/archons-aura.md) 1/day | +4 on Intimidate checks |
+| Good | [*detect evil*](../../magic/spells/detect-evil.md) constant | +2 on Will saves |
+| Healing | [*symbol of healing*](../../magic/spells/symbol-of-healing.md) 1/day | +4 on Heal checks |
+| Knowledge | [*identify*](../../magic/spells/identify.md) 3/day | +4 on Knowledge checks (choose one) |
+| Law | [*detect chaos*](../../magic/spells/detect-chaos.md) constant | +2 on Will saves |
+| Liberation | [*remove sickness*](../../magic/spells/remove-sickness.md) 3/day | +4 on Escape Artist checks |
+| Luck | [*divine favor*](../../magic/spells/divine-favor.md) 3/day | +2 on Reflex saves |
+| Madness | [*fumbletongue*](../../magic/spells/fumbletongue.md) 3/day | +4 on Bluff checks |
+| Magic | [*detect magic*](../../magic/spells/detect-magic.md) constant | +4 on Spellcraft checks |
+| Nobility | [*command*](../../magic/spells/command.md) 1/day | +4 on Diplomacy checks |
+| Plant | [*speak with plants*](../../magic/spells/speak-with-plants.md) 1/day | +2 on Fortitude saves |
+| Protection | [*wrathful mantle*](../../magic/spells/wrathful-mantle.md) 1/day | +1 to Armor Class |
+| Repose | [*sanctify corpse*](../../magic/spells/sanctify-corpse.md) 3/day | +2 on Fortitude saves |
+| Rune | [*comprehend languages*](../../magic/spells/comprehend-languages.md) 3/day | +4 on Linguistics checks |
+| Scalykind | [*summon nature's ally III*](../../magic/spells/summon-natures-ally-iii.md) (reptilian creatures only) 1/day | +2 on Reflex saves |
+| Strength | [*burst bonds*](../../magic/spells/burst-bonds.md) 3/day | +4 on combat maneuver checks |
+| Sun | [*daylight*](../../magic/spells/daylight.md) 1/day | +4 on Perception checks |
+| Travel | [*expeditious retreat*](../../magic/spells/expeditious-retreat.md) 3/day | +4 on Acrobatics checks |
+| Trickery | [*glibness*](../../magic/spells/glibness.md) 1/day | +4 on Stealth checks |
+| Void | [*deeper darkness*](../../magic/spells/deeper-darkness.md) 1/day | +4 on concentration checks |
+| War | [*true strike*](../../magic/spells/true-strike.md) 3/day | +1 on weapon damage rolls |
+| Water | [*water walk*](../../magic/spells/water-walk.md) 1/day | +4 on Swim checks |
+| Weather | [*cloak of winds*](../../magic/spells/cloak-of-winds.md) 1/day | +4 on Survival checks |
 
 #### Divine Wrath (Su)
 

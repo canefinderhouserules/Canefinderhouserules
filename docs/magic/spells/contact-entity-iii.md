@@ -5,6 +5,7 @@
 **Components** V, S, M (see text)  
 **Range** 200 miles  
 **Target** up to 20 entities of 18 HD or fewer  
-**Duration** instantaneous
+**Duration** instantaneous  
+**Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *contact entity II*, except that you can contact creatures from the *contact entity III* list, and as noted above. Additionally, if a contacted creature has telepathy, it can send a telepathic message to you of up to 10 words.
+This spell functions like [*contact entity II*](contact-entity-ii.md), except that you can contact creatures from the *contact entity III* list, and as noted above. Additionally, if a contacted creature has telepathy, it can send a telepathic message to you of up to 10 words.

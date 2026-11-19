@@ -16,7 +16,7 @@ A creature that remains dominated by vampires for long stretches begins to lose 
 
 **Rebuild Rules:** **Saves** –2 penalty on all Will saves; **Special Qualities** gains the addled defensive ability.
 
-***Addled (Su).*** Whenever the addle-minded creature fails a saving throw against a mind-affecting effect (other than *dominate person*, *dominate monster*, or any other spell or spell-like ability with “dominate” in its name), it becomes confused as the *confusion* spell, and it must roll on that spell’s table to determine its behavior. Instead of acting normally on a roll of 01–25, the creature is instead normally affected by the spell or effect that round.
+***Addled (Su).*** Whenever the addle-minded creature fails a saving throw against a mind-affecting effect (other than [*dominate person*](../../magic/spells/dominate-person.md), [*dominate monster*](../../magic/spells/dominate-monster.md), or any other spell or spell-like ability with “dominate” in its name), it becomes confused as the [*confusion*](../../magic/spells/confusion.md) spell, and it must roll on that spell’s table to determine its behavior. Instead of acting normally on a roll of 01–25, the creature is instead normally affected by the spell or effect that round.
 
 ### Repeatedly Drained (CR –1)
 

@@ -10,4 +10,4 @@
 
 The affected creature suffers from a continuous [*confusion*](confusion.md) effect, as the spell.
 
-*Remove curse* does not remove *insanity. Greater restoration, heal,* *limited wish, miracle,* or [*wish*](wish.md) can restore the creature.
+[*Remove curse*](remove-curse.md) does not remove *insanity. Greater restoration, heal,* *limited wish, miracle,* or [*wish*](wish.md) can restore the creature.

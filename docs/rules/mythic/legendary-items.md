@@ -78,7 +78,7 @@ The following legendary abilities can be added to a legendary item.
 
 **Adroit**: Choose a single skill that can be augmented by the item's legendary surge. As a swift action (1 AP), the item's bonded creature can expend one use of legendary power to gain a +20 insight bonus on the next check she attempts with that skill before the end of her turn. The item must have a legendary surge that augments skill checks to have this ability.
 
-**Dedicated Bond**: An item with this ability can't be used by anyone not bonded with it. Such creatures can't use the item's non-mythic special abilities, its legendary power, or its legendary surge. Furthermore, using a special ritual that takes 10 minutes to perform, the bonded creature can sequester the item in a solid object at least twice as large as the item (such as putting a sword in a stone or an oak tree). The item becomes impossible to remove by any creature not bonded to it unless by means of a *wish* or *miracle* cast by a mythic creature of higher tier than the bonded creature. If the bonded creature is at least 8th tier, she can instead perform this sequestering ritual and transfer the bond to another mythic creature she designates upon completing the ritual.
+**Dedicated Bond**: An item with this ability can't be used by anyone not bonded with it. Such creatures can't use the item's non-mythic special abilities, its legendary power, or its legendary surge. Furthermore, using a special ritual that takes 10 minutes to perform, the bonded creature can sequester the item in a solid object at least twice as large as the item (such as putting a sword in a stone or an oak tree). The item becomes impossible to remove by any creature not bonded to it unless by means of a [*wish*](../../magic/spells/wish.md) or [*miracle*](../../magic/spells/miracle.md) cast by a mythic creature of higher tier than the bonded creature. If the bonded creature is at least 8th tier, she can instead perform this sequestering ritual and transfer the bond to another mythic creature she designates upon completing the ritual.
 
 An item must be a minor or major artifact to have this ability. This is a persistent ability.
 
@@ -108,17 +108,17 @@ The special abilities are listed below. Some have another ability as a prerequis
 
 - *Animate*: This item can sprout limbs and move with a speed of 10 feet.
 - *Blindsense*: This item gains blindsense with the same range as its other senses. The item must have the darkvision ability to have this ability.
-- *Darkvision*: This item gains darkvision with the same range as its other senses.
+- [*Darkvision*](../../magic/spells/darkvision.md): This item gains darkvision with the same range as its other senses.
 - *Expanded Senses (60 ft.)*: The range of this item's senses increases to 60 feet.
 - *Expanded Senses (120 ft.)*: The range of this item's senses increases to 120 feet. The item must have expanded senses (60 ft.) to have this ability.
-- *Fly*: The item gains a fly speed of 30 feet with average maneuverability. The item must have the animate ability to have this ability.
+- [*Fly*](../../magic/spells/fly.md): The item gains a fly speed of 30 feet with average maneuverability. The item must have the animate ability to have this ability.
 - *Read Languages*: This item can read script in any language regardless of its known languages.
-- *Read Magic*: This item can read magical writing and scrolls as if using *read magic*. This ability doesn't allow the item to activate scrolls or other spell-completion items. The item can suppress and resume this ability as a free action.
+- [*Read Magic*](../../magic/spells/read-magic.md): This item can read magical writing and scrolls as if using *read magic*. This ability doesn't allow the item to activate scrolls or other spell-completion items. The item can suppress and resume this ability as a free action.
 - *Shape Change*: The item can change its shape into one other form of the same size.
 - *Skill Ranks*: This item gains 10 ranks in one skill. This must be an Intelligence-, Wisdom-, or Charisma-based skill, unless the item has the animate ability (allowing it to choose Acrobatics) or the fly ability (allowing it to choose Fly).
 - *Spellcasting*: This item allows its bearer to cast a limited number of spells as spell-like abilities. This ability can be taken more than once. Each time it's taken, the bonded creature gains 5 points to spend on selecting what spells the item can cast. A spell costs a number of points equal to its level (minimum 1). The bearer can then activate the item to use each spell-like ability once per day. By spending double the cost, the bearer can use each spell-like ability three times per day. All spells must come from the same class's spell list. No spell can have a level higher than the bonded creature's tier. The caster level for these spells is equal to double the bonded creature's tier. The save DC for these spells is equal to 10 + the spell level + the bonded creature's tier.
-- *Telepathy*: This item can hold private mental conversations with its bearer, regardless of whether they share a known language. The item must be in physical contact with a creature to communicate this way.
-- *Teleport*: Once per day, the item can teleport as the spell. It must have either the spellcasting ability or the fly ability to have this ability.
+- [*Telepathy*](../../magic/spells/telepathy.md): This item can hold private mental conversations with its bearer, regardless of whether they share a known language. The item must be in physical contact with a creature to communicate this way.
+- [*Teleport*](../../magic/spells/teleport.md): Once per day, the item can teleport as the spell. It must have either the spellcasting ability or the fly ability to have this ability.
 
 **Legendary Fortification**: When a critical hit or sneak attack is scored against a creature wearing an item with this ability, the wearer can expend one use of legendary power to negate the critical hit or sneak attack and instead take normal damage.
 
@@ -134,7 +134,7 @@ Only armor, shields, and worn items can have this ability.
 
 A legendary item must be a minor or major artifact to have this ability.
 
-**Returning**: The creature bonded to this item can expend one use of mythic power to teleport the item to her waiting hand, as if using *teleport object*. The item must be on the same plane as the bonded creature for this ability to function. This ability can be taken a second time, allowing the item to cross planes to return to the bonded creature. The item must be a major artifact to take this ability again.
+**Returning**: The creature bonded to this item can expend one use of mythic power to teleport the item to her waiting hand, as if using [*teleport object*](../../magic/spells/teleport-object.md). The item must be on the same plane as the bonded creature for this ability to function. This ability can be taken a second time, allowing the item to cross planes to return to the bonded creature. The item must be a major artifact to take this ability again.
 
 **Undetectable**: This grants its bonded user the ability to become utterly undetectable while invisible. While invisible and in physical contact with this item, the bonded creature can't be detected or scryed by any method.
 

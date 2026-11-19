@@ -129,7 +129,7 @@ You can gain this feat multiple times. Each time you must choose a different ene
 
 **Empower Spell +1 \[Powerful\]**
 
-Increases the spell's effective caster level by 2, ignoring caps (a 10d6 *fireball* becomes 12d6); the spell's DC by +2; negative levels and ability damage dice by +1; fixed (positive) ability score effects by +2; and skill effects and other minor effects by +4–5. Only 2 of these may be applied at a time.
+Increases the spell's effective caster level by 2, ignoring caps (a 10d6 [*fireball*](../../magic/spells/fireball.md) becomes 12d6); the spell's DC by +2; negative levels and ability damage dice by +1; fixed (positive) ability score effects by +2; and skill effects and other minor effects by +4–5. Only 2 of these may be applied at a time.
 
 **Encouraging Spell +1 \[Common\]**
 

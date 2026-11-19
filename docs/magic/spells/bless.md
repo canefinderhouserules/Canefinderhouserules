@@ -24,4 +24,4 @@
 
     *Bless* fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.
 
-    *Bless* counters and dispels *bane*.
+    *Bless* counters and dispels [*bane*](bane.md).

@@ -5,6 +5,7 @@
 **Components** V, S, M (see text)  
 **Range** 200 miles  
 **Target** up to 20 entities of 12 HD or fewer  
-**Duration** instantaneous
+**Duration** instantaneous  
+**Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *contact entity I*, except that you can contact creatures from the *contact entity II* list, and as noted above.
+This spell functions like [*contact entity I*](contact-entity-i.md), except that you can contact creatures from the *contact entity II* list, and as noted above.

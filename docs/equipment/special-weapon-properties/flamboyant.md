@@ -13,4 +13,4 @@ Whether or not the wielder of a *flamboyant* weapon has any deeds, she can alway
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *heroism*, creator must be a panache user; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*heroism*](../../magic/spells/heroism.md), creator must be a panache user; **Price** —

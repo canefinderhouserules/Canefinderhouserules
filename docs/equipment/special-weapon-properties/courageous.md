@@ -11,4 +11,4 @@ This special ability can only be added to a melee weapon. A *courageous* weapon 
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *heroism*, *remove fear*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*heroism*](../../magic/spells/heroism.md), [*remove fear*](../../magic/spells/remove-fear.md); **Price** —

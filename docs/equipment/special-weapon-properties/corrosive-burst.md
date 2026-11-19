@@ -13,4 +13,4 @@ Even if the *corrosive* ability is not active, the weapon still deals its extra 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *acid arrow*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*acid arrow*](../../magic/spells/acid-arrow.md); **Price** —

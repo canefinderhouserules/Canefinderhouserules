@@ -123,7 +123,7 @@ The nemesis makes a pact with a fiend or other dark force to thwart the PCs. He 
 
 **XP Reward**: medium
 
-The nemesis has become accustomed to the PCs’ interference and has developed a contingency plan. When the PCs are about to foil his current scheme, he either instantly benefits from an effect of a 1st- through 4th-level spell, as the spell *contingency*. Alternatively, he might unleash some nonmagical contingency, such as collapsing the ceiling or opening a floodgate.
+The nemesis has become accustomed to the PCs’ interference and has developed a contingency plan. When the PCs are about to foil his current scheme, he either instantly benefits from an effect of a 1st- through 4th-level spell, as the spell [*contingency*](../../../magic/spells/contingency.md). Alternatively, he might unleash some nonmagical contingency, such as collapsing the ceiling or opening a floodgate.
 
 **Opportunities**: In his rush, the nemesis leaves behind some evidence of his hideout’s location or compromising secret. Also, others might be harmed by his dramatic escape, leading them to help the PCs.
 
@@ -209,7 +209,7 @@ A more severe version of the false witness stratagem, the nemesis has persuaded 
 
 **XP Reward**: high
 
-The PCs have killed their nemesis, but his obsession causes him to rise from death as a ghost with the unfinished business of defeating the PCs. His spirit rises 1d4 days after his death, and his ghost is tied to his possessions from life. He can use *locate object* at will as a spell-like ability to locate any of those objects, and once per day, he can use *greater scrying* to spy upon a creature carrying them as if he were familiar with that creature (even if the object itself is in an extradimensional space). If he successfully locates an object with either effect, he can transport himself to its location once per day, as per *word of recall*, merging his incorporeal form with the object and moving with it. While he inhabits the object, he can use his malevolence ability to possess creatures nearby; a creature wearing or wielding one of the ghost’s former possessions takes a –4 penalty on saving throws against this malevolence. Becoming a ghost limits the nemesis, as well, and represents a new opportunity for the PCs to strike back.
+The PCs have killed their nemesis, but his obsession causes him to rise from death as a ghost with the unfinished business of defeating the PCs. His spirit rises 1d4 days after his death, and his ghost is tied to his possessions from life. He can use [*locate object*](../../../magic/spells/locate-object.md) at will as a spell-like ability to locate any of those objects, and once per day, he can use [*greater scrying*](../../../magic/spells/scrying-greater.md) to spy upon a creature carrying them as if he were familiar with that creature (even if the object itself is in an extradimensional space). If he successfully locates an object with either effect, he can transport himself to its location once per day, as per [*word of recall*](../../../magic/spells/word-of-recall.md), merging his incorporeal form with the object and moving with it. While he inhabits the object, he can use his malevolence ability to possess creatures nearby; a creature wearing or wielding one of the ghost’s former possessions takes a –4 penalty on saving throws against this malevolence. Becoming a ghost limits the nemesis, as well, and represents a new opportunity for the PCs to strike back.
 
 **Opportunities**: The nemesis’s refusal to pass into death draws the attention of some dangerous creature, such as a night hag or psychopomp. They seek to claim the nemesis’s soul, but also draw the PCs into new, otherworldly adventures.
 
@@ -225,7 +225,7 @@ The PCs kill a fanatic follower of the nemesis, who returns from death as a reve
 
 **XP Reward**: high
 
-The nemesis uses a *clone*, *simulacrum*, doppelganger, or other impostor version of himself to make it seem like he is in one place rather than another. The GM should decide to implement this stratagem before the PCs encounter the nemesis and use the stats for the impostor, rather than having the PCs fight the real, full-powered nemesis; after the PCs kill the impostor, the GM should reveal that it was a fake.
+The nemesis uses a [*clone*](../../../magic/spells/clone.md), [*simulacrum*](../../../magic/spells/simulacrum.md), doppelganger, or other impostor version of himself to make it seem like he is in one place rather than another. The GM should decide to implement this stratagem before the PCs encounter the nemesis and use the stats for the impostor, rather than having the PCs fight the real, full-powered nemesis; after the PCs kill the impostor, the GM should reveal that it was a fake.
 
 **Opportunities**: The PCs might be able to convince many of their nemesis’s agents that their master is dead, tricking them into leaving their posts or giving up secrets that now seem moot.
 

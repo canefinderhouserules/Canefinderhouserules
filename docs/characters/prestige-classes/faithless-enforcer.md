@@ -91,7 +91,7 @@ At 8th level, the faithless enforcer's damage bonus against creatures affected b
 
 #### Traces of Divinity (Su)
 
-At 9th level, a faithless enforcer can detect the lingering effects of magic long after the spell's duration has expired. When using *detect magic* on a lingering aura from a divine spell or a spell-like ability granted from a divine spellcasting class, the enforcer treats the original aura as one strength level higher than it actually was when determining its duration. If the enforcer exceeds the Spellcraft check to identify the spell by 5 or more, he can sense the same dim aura upon the spell's caster within the extended duration of his *detect magic* spell.
+At 9th level, a faithless enforcer can detect the lingering effects of magic long after the spell's duration has expired. When using [*detect magic*](../../magic/spells/detect-magic.md) on a lingering aura from a divine spell or a spell-like ability granted from a divine spellcasting class, the enforcer treats the original aura as one strength level higher than it actually was when determining its duration. If the enforcer exceeds the Spellcraft check to identify the spell by 5 or more, he can sense the same dim aura upon the spell's caster within the extended duration of his *detect magic* spell.
 
 #### Iron-Willed Atheist (Su)
 

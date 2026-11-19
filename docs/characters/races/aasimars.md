@@ -54,7 +54,7 @@ The following racial traits may be selected instead of existing aasimar racial t
 
 **Heavenborn**: Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits.
 
-**Immortal Spark**: Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use *lesser age resistance* once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits.
+**Immortal Spark**: Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use [*lesser age resistance*](../../magic/spells/age-resistance-lesser.md) once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits.
 
 **Incorruptible**: Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast [*corruption resistance*](../../magic/spells/corruption-resistance.md) against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.
 

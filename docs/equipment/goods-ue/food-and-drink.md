@@ -70,7 +70,7 @@ This twist of hard, baked pastry surrounds a slip of paper that contains cryptic
 
 **Price** 2 gp; **Weight** 1 lb.
 
-Almost any preserved food can be found in gnome trail rations, which are designed to keep a wandering gnome from needing to dine on the same meal twice in a week. If you are a gnome who subsists on nothing but these rations for at least 1 week, you are treated as being 1 Hit Die higher for the purposes of spells and supernatural abilities that have variable effects based on Hit Dice, such as *color spray* and *sleep*. This does not actually improve your caster level, character level, or Hit Dice in any other way. This benefit lasts until you eat a meal other than the rations or go for a full day without eating a day’s worth.
+Almost any preserved food can be found in gnome trail rations, which are designed to keep a wandering gnome from needing to dine on the same meal twice in a week. If you are a gnome who subsists on nothing but these rations for at least 1 week, you are treated as being 1 Hit Die higher for the purposes of spells and supernatural abilities that have variable effects based on Hit Dice, such as [*color spray*](../../magic/spells/color-spray.md) and [*sleep*](../../magic/spells/sleep.md). This does not actually improve your caster level, character level, or Hit Dice in any other way. This benefit lasts until you eat a meal other than the rations or go for a full day without eating a day’s worth.
 
 ### Grog
 

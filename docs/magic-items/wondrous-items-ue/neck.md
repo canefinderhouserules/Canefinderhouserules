@@ -7,9 +7,9 @@ The following wondrous items occupy the neck slot. Items listed here are new rel
 **Aura** faint abjuration and conjuration; **CL** 3rd  
 **Slot** neck; **Price** 1,500 gp; **Weight** —
 
-An *aegis of recovery* grants its wearer a +2 resistance bonus on all saving throws made to recover from a continuing effect, such as ongoing poison damage, daily saving throws against a disease, a *hold person* spell, or lingering damage from an attack. This bonus does not help against initial saving throws against such effects. Should the wearer ever drop below 0 hit points, the aegis heals the wearer for 2d8+3 points of damage and then crumbles to dust.
+An *aegis of recovery* grants its wearer a +2 resistance bonus on all saving throws made to recover from a continuing effect, such as ongoing poison damage, daily saving throws against a disease, a [*hold person*](../../magic/spells/hold-person.md) spell, or lingering damage from an attack. This bonus does not help against initial saving throws against such effects. Should the wearer ever drop below 0 hit points, the aegis heals the wearer for 2d8+3 points of damage and then crumbles to dust.
 
-**Construction** Craft Wondrous Item, *barkskin*, *cure moderate wounds*; **Cost** 750 gp
+**Construction** Craft Wondrous Item, [*barkskin*](../../magic/spells/barkskin.md), [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md); **Cost** 750 gp
 
 ### Ampoule of False Blood
 
@@ -33,7 +33,7 @@ This amulet shines brightly when brought within 60 feet of an outsider with the 
 
 The wearer gains resistance 5 against a single energy type determined by the subtype of the closest elemental present (air grants electricity resistance, earth grants acid resistance, fire grants fire resistance, and water grants cold resistance). If the closest elemental possesses multiple subtypes, the wearer may choose which type of resistance she gains. This energy resistance only applies against attacks from elementals. The amulet also allows any attacks made by the wearer to bypass the damage reduction of such creatures.
 
-**Construction** Craft Wondrous Item, *resist energy*, creator must be at least 8th level; **Cost** 2,000 gp
+**Construction** Craft Wondrous Item, [*resist energy*](../../magic/spells/resist-energy.md), creator must be at least 8th level; **Cost** 2,000 gp
 
 ### Amulet of Hidden Strength
 
@@ -51,16 +51,16 @@ This glass teardrop hangs on a platinum chain and can be used once per day to gr
 
 This platinum locket only has power when used as a wizard’s bonded object. It allows the wizard to prepare an additional 6 levels of spells per day.
 
-**Construction** Craft Wondrous Items, *mnemonic enhancer*; **Cost** 11,000 gp
+**Construction** Craft Wondrous Items, [*mnemonic enhancer*](../../magic/spells/mnemonic-enhancer.md); **Cost** 11,000 gp
 
 ### Brooch of Amber Sparks
 
 **Aura** faint abjuration and evocation; **CL** 5th  
 **Slot** neck; **Price** 16,800 gp; **Weight** 1 lb.
 
-This copper clasp adorned with a piece of amber is used to fasten a cloak or cape. When its wearer takes electricity damage, this brooch absorbs up to 20 points of electrical damage and holds that electrical charged until it is released by its wielder or harmlessly at the end of 10 minutes, whichever occurs first. The brooch can absorb up to 50 points of electricity damage per day. The wielder can release the charge on command, unleashing any electricity in the brooch as if casting a *shocking grasp* spell (dealing 1d6 points of electricity damage per 5 points of damage held).
+This copper clasp adorned with a piece of amber is used to fasten a cloak or cape. When its wearer takes electricity damage, this brooch absorbs up to 20 points of electrical damage and holds that electrical charged until it is released by its wielder or harmlessly at the end of 10 minutes, whichever occurs first. The brooch can absorb up to 50 points of electricity damage per day. The wielder can release the charge on command, unleashing any electricity in the brooch as if casting a [*shocking grasp*](../../magic/spells/shocking-grasp.md) spell (dealing 1d6 points of electricity damage per 5 points of damage held).
 
-**Construction** Craft Wondrous Item, *resist energy*, *shocking grasp*; **Cost** 8,400 gp
+**Construction** Craft Wondrous Item, [*resist energy*](../../magic/spells/resist-energy.md), [*shocking grasp*](../../magic/spells/shocking-grasp.md); **Cost** 8,400 gp
 
 ### Carcanet of Detention
 
@@ -69,7 +69,7 @@ This copper clasp adorned with a piece of amber is used to fasten a cloak or cap
 
 Comprised of thick iron links, the *carcanet of detention* is commonly worn by prison guards and elite members of the city watch. Once per day, the wearer of the carcanet may command it to animate and attempt to wrap around one Medium or smaller creature within 15 feet. The target receives a DC 15 Reflex saving throw to avoid the chain. If the saving throw fails, the target is entangled and cannot move from its current location. As a full-round action (3 AP), the target can attempt a new saving throw to end the effect; otherwise it persists for 10 minutes or until ended by the wearer as a swift action (1 AP), at which point it returns to its carcanet form. The chain has a hardness of 10 and 15 hit points.
 
-**Construction** Craft Wondrous Item, *animate rope*; **Cost** 3,600 gp
+**Construction** Craft Wondrous Item, [*animate rope*](../../magic/spells/animate-rope.md); **Cost** 3,600 gp
 
 ### Collar of the True Companion
 
@@ -78,11 +78,11 @@ Comprised of thick iron links, the *carcanet of detention* is commonly worn by p
 
 Although it appears to be a simple thong of leather, this collar was initially conceived by druids who believed that there were animals who possessed spirits worthy of elevation to true sentience. If worn by a creature of the animal type with an Intelligence less than 3, a *collar of the true companion* grants a +2 enhancement bonus to Intelligence. This does not give the animal the ability to speak, but it does allow it to understand one spoken language (chosen by the item’s creator).
 
-If the collar is worn for at least 1 week by a creature of the animal type, the creature is raised to humanlike sentience, as though by the *awaken* spell. Once this occurs, the collar loses its magical properties.
+If the collar is worn for at least 1 week by a creature of the animal type, the creature is raised to humanlike sentience, as though by the [*awaken*](../../magic/spells/awaken.md) spell. Once this occurs, the collar loses its magical properties.
 
 If a *collar of the true companion* is worn for more than 1 week by a creature not of the animal type, the wearer is *feebleminded* until the collar is removed.
 
-**Construction** Craft Wondrous Item, *awaken*, *fox’s cunning*; **Cost** 6,000 gp
+**Construction** Craft Wondrous Item, [*awaken*](../../magic/spells/awaken.md), [*fox’s cunning*](../../magic/spells/foxs-cunning.md); **Cost** 6,000 gp
 
 ### Dragonfoe Amulet
 
@@ -102,14 +102,14 @@ The wearer of a *dragonfoe amulet* ignores the damage reduction of dragons. This
 
 Cast in the image of the sun and often ornamented with an open eye, this amulet defends the wearer against the need for sleep. The wearer of this amulet does not need to sleep, but must remain at ease for the normal amount of time to regain spells and other abilities that require rest (although the wearer could perform light activity, such as reading or keeping watch). Once the wearer has used the power of this amulet for a total of seven nights, the amulet loses its power for one day and the wearer is exhausted for this duration. If the wearer removes the amulet for any reason after having used its ability, she becomes exhausted for four hours for every night of sleep skipped.
 
-**Construction** Craft Wondrous Item, *lesser restoration*; **Cost** 4,000 gp
+**Construction** Craft Wondrous Item, [*lesser restoration*](../../magic/spells/restoration-lesser.md); **Cost** 4,000 gp
 
 ### Feychild Necklace
 
 **Aura** moderate divination; **CL** 8th  
 **Slot** neck; **Price** 6,000 gp; **Weight** 1/2 lb.
 
-This necklace is set with a bloodstone sculpted to look like a scintillating green eye. It gives the wearer a +4 competence bonus on Charisma checks and Charisma-based checks made to interact with gnomes, a +2 competence bonus on similar checks when dealing with beings of the fey creature type, and a –2 penalty on similar checks when interacting with anyone else. The wearer can read, speak, and understand the Gnome language. If the wearer is not a gnome, she gains low-light vision, and may cast *dancing lights, ghost sound, prestidigitation*, and *speak with animals* each once per day as a spell-like ability.
+This necklace is set with a bloodstone sculpted to look like a scintillating green eye. It gives the wearer a +4 competence bonus on Charisma checks and Charisma-based checks made to interact with gnomes, a +2 competence bonus on similar checks when dealing with beings of the fey creature type, and a –2 penalty on similar checks when interacting with anyone else. The wearer can read, speak, and understand the Gnome language. If the wearer is not a gnome, she gains low-light vision, and may cast *dancing lights, ghost sound, prestidigitation*, and [*speak with animals*](../../magic/spells/speak-with-animals.md) each once per day as a spell-like ability.
 
 **Construction** Craft Wondrous Item, creator must be a gnome; **Cost** 3,000 gp
 
@@ -120,7 +120,7 @@ This necklace is set with a bloodstone sculpted to look like a scintillating gre
 
 This fist-shaped stone amulet glows with a fiery light. On command, this amulet causes the wearer’s fists to transform into red-hot flaming adamantine. The wearer is protected from the searing heat and can make savage blows with his hands. Unarmed strikes and natural attacks the wearer make with his hands gain the *flaming* weapon special ability and are treated as adamantine for the purpose of bypassing damage reduction (but not hardness). The wearer’s hands become rigid while using this amulet and cannot be use to hold or manipulate objects (unless that manipulation could be accomplished with a club and is not damaged by fire). The transformation can be ended as a swift action (1 AP).
 
-**Construction** Craft Wondrous Item; *greater magic fang*; and *flame blade*, *flame strike*, or *fireball*; **Cost** 6,500 gp
+**Construction** Craft Wondrous Item; [*greater magic fang*](../../magic/spells/magic-fang-greater.md); and [*flame blade*](../../magic/spells/flame-blade.md), [*flame strike*](../../magic/spells/flame-strike.md), or [*fireball*](../../magic/spells/fireball.md); **Cost** 6,500 gp
 
 ### Frost Fist Amulet
 
@@ -129,7 +129,7 @@ This fist-shaped stone amulet glows with a fiery light. On command, this amulet 
 
 Shaped like a fist, this iron amulet is surrounded by a frigid fog. On command, this amulet causes the wearer’s hands to become encased in a layer of freezing iron. The wearer is protected from the frigid cold and can make savage blows with his hands. Unarmed strikes and natural attacks the wearer makes with hands gain the *frost* weapon special ability and are treated as cold iron for the purpose of bypassing damage reduction. The wearer’s hands become rigid while using this amulet and cannot be use to hold or manipulate objects (unless that manipulation could be accomplished with a club and is not damaged by cold). The transformation can be ended as a swift action (1 AP).
 
-**Construction** Craft Wondrous Item; *greater magic fang*; and *cone of cold* or *ice storm*; **Cost** 5,000 gp
+**Construction** Craft Wondrous Item; [*greater magic fang*](../../magic/spells/magic-fang-greater.md); and [*cone of cold*](../../magic/spells/cone-of-cold.md) or [*ice storm*](../../magic/spells/ice-storm.md); **Cost** 5,000 gp
 
 ### Golembane Scarab
 
@@ -138,7 +138,7 @@ Shaped like a fist, this iron amulet is surrounded by a frigid fog. On command, 
 
 This beetle-shaped pin enables its wearer to detect any golem within 60 feet, although he must concentrate (a standard action (1 AP)) in order for the detection to take place. A scarab enables its bearer to combat golems with weapons, unarmed attacks, or natural weapons as if those golems had no damage reduction.
 
-**Construction** Craft Wondrous Item, *detect magic*, creator must be at least 10th level; **Cost** 1,250 gp
+**Construction** Craft Wondrous Item, [*detect magic*](../../magic/spells/detect-magic.md), creator must be at least 10th level; **Cost** 1,250 gp
 
 ### Gravewatch Pendant
 
@@ -147,16 +147,16 @@ This beetle-shaped pin enables its wearer to detect any golem within 60 feet, al
 
 Favored by the grave-wardens of sites known to be infested with the spirits of the dead, this pendant is an iron ring strung on a necklace made from polished and discolored bones, nails, and teeth. A faint blue light limns the wearer, protecting him from attack. Undead creatures are repulsed by this light and take a –2 penalty on all attack rolls against the wearer of a *gravewatch pendant*. Incorporeal undead creatures are further repulsed and instead take a –4 penalty on all attack rolls against the wearer. Undead creatures can sense this light easily, however, and receive a +4 circumstance bonus on Perception checks to detect a creature wearing this pendant.
 
-**Construction** Craft Wondrous Item, *protection from evil*; **Cost** 4,000 gp
+**Construction** Craft Wondrous Item, [*protection from evil*](../../magic/spells/protection-from-evil.md); **Cost** 4,000 gp
 
 ### Guardian Gorget
 
 **Aura** strong abjuration and conjuration; **CL** 13th  
 **Slot** neck; **Price** 12,000 gp; **Weight** 1 lb.
 
-This flanged collar of mithral and steel protects the wearer’s neck and shoulders. It provides a +2 armor bonus to AC (this does not stack with other armor bonuses) and grants the *light fortification* property to the wearer. In addition, the wearer may engrave a *glyph of warding* directly onto the *guardian gorget*. When the wearer is struck in melee, she can trigger the glyph as an immediate action (1 AP of your next turn), causing the glyph to discharge against the creature making the attack (and other creatures within 5 feet, if a blast glyph was placed, though the wearer is not harmed by the glyph‘s effects). The glyph can be triggered even if the attack would normally leave the wearer incapable of taking actions (such as killed, stunned, dazed, or knocked unconscious).
+This flanged collar of mithral and steel protects the wearer’s neck and shoulders. It provides a +2 armor bonus to AC (this does not stack with other armor bonuses) and grants the *light fortification* property to the wearer. In addition, the wearer may engrave a [*glyph of warding*](../../magic/spells/glyph-of-warding.md) directly onto the *guardian gorget*. When the wearer is struck in melee, she can trigger the glyph as an immediate action (1 AP of your next turn), causing the glyph to discharge against the creature making the attack (and other creatures within 5 feet, if a blast glyph was placed, though the wearer is not harmed by the glyph‘s effects). The glyph can be triggered even if the attack would normally leave the wearer incapable of taking actions (such as killed, stunned, dazed, or knocked unconscious).
 
-**Construction** Craft Wondrous Item, *glyph of warding, limited wish* or *miracle, mage armor* or *magic vestment*; **Cost** 6,000 gp
+**Construction** Craft Wondrous Item, *glyph of warding, limited wish* or *miracle, mage armor* or [*magic vestment*](../../magic/spells/magic-vestment.md); **Cost** 6,000 gp
 
 ### Hand of Stone
 
@@ -174,14 +174,14 @@ This mummified dwarf hand hangs on a steel chain around a character’s neck, br
 
 The surface of this silver medallion is covered in angular geometric shapes that refract light randomly. The medallion grants a continuous +2 resistance bonus on saves versus mind-affecting spells, spell-like abilities, and supernatural abilities. If the wearer fails a save to avoid becoming dominated or confused, the amulet immediately grants the wearer a second saving throw to resist the effect. If this second save is successful, the medallion’s power fades away entirely and it becomes a simple piece of silver jewelry.
 
-**Construction** Craft Wondrous Item, *protection from evil*; **Cost** 1,750 gp
+**Construction** Craft Wondrous Item, [*protection from evil*](../../magic/spells/protection-from-evil.md); **Cost** 1,750 gp
 
 ### Mummer’s Ruff
 
 **Aura** faint illusion; **CL** 5th  
 **Slot** neck; **Price** 3,500 gp; **Weight** —
 
-Usually fashioned from brightly colored silk, a *mummer’s ruff* is a favored accoutrement of performers and con artists alike. The wearer of a *mummer’s ruff* gains a +10 bonus on Bluff skill checks when attempting to imitate another’s voice. In addition, once per day, the wearer of the *mummer’s ruff* can throw his voice as if using *ventriloquism* for up to 5 minutes.
+Usually fashioned from brightly colored silk, a *mummer’s ruff* is a favored accoutrement of performers and con artists alike. The wearer of a *mummer’s ruff* gains a +10 bonus on Bluff skill checks when attempting to imitate another’s voice. In addition, once per day, the wearer of the *mummer’s ruff* can throw his voice as if using [*ventriloquism*](../../magic/spells/ventriloquism.md) for up to 5 minutes.
 
 **Construction** Craft Wondrous Item, *sculpt sound, ventriloquism*; **Cost** 1,750 gp
 
@@ -190,9 +190,9 @@ Usually fashioned from brightly colored silk, a *mummer’s ruff* is a favored a
 **Aura** strong illusion and transmutation; **CL** 12th  
 **Slot** neck; **Price** 1 — 2 — 1,650 gp, — 2 — 2 2,700 gp, 2 — 4 — 4,350 gp, — 2 — 4 5,400 gp, 2 — 2 — 5,850 gp, — 4 — — 8,100 gp, 2 — 2 — 8,700 gp; **Weight** 1 lb.
 
-This marvelous mithral necklace forms a broad, draping lacework of threadlike chains set with a multitude of tiny jewels. Seven of these jewels are larger than the rest. While wearing a *necklace of netted stars*, the wearer can create *dancing lights* at will and *wandering star motes* once per day. In addition, each of the seven jewels of the necklace can recall a previously cast 1st-level or 0-level spell, as a *pearl of power*.
+This marvelous mithral necklace forms a broad, draping lacework of threadlike chains set with a multitude of tiny jewels. Seven of these jewels are larger than the rest. While wearing a *necklace of netted stars*, the wearer can create [*dancing lights*](../../magic/spells/dancing-lights.md) at will and [*wandering star motes*](../../magic/spells/wandering-star-motes.md) once per day. In addition, each of the seven jewels of the necklace can recall a previously cast 1st-level or 0-level spell, as a *pearl of power*.
 
-Once per day, the wearer may use the necklace to catch a spell targeted at him, as if readying an action to counterspell using *dispel magic*, with a bonus on the check equal to 12 + the number of jewels not yet used to recall spells that day. If all jewels have been used, this ability cannot be used that **5d6 4d6 3d6 2d6**
+Once per day, the wearer may use the necklace to catch a spell targeted at him, as if readying an action to counterspell using [*dispel magic*](../../magic/spells/dispel-magic.md), with a bonus on the check equal to 12 + the number of jewels not yet used to recall spells that day. If all jewels have been used, this ability cannot be used that **5d6 4d6 3d6 2d6**
 
 **Construction** Craft Wondrous Item, *dancing lights, dispel magic, wandering star motes*, creator must be able to cast 7th-level spells; **Cost** 21,000 gp
 
@@ -201,9 +201,9 @@ Once per day, the wearer may use the necklace to catch a spell targeted at him, 
 **Aura** faint abjuration; **CL** 5th  
 **Slot** neck; **Price** 12,000 gp; **Weight** —
 
-This amethyst stone strung on a coarse iron chain protects the wearer from curses. Three times per day, whenever the wearer rolls a saving throw against a curse (such as a witch’s hex, or a *bestow curse* spell), he may reroll the saving throw as an immediate action (1 AP of your next turn). The wearer must decide to use this ability before the results of the saving throw are revealed. He must take the second roll, even if it is worse.
+This amethyst stone strung on a coarse iron chain protects the wearer from curses. Three times per day, whenever the wearer rolls a saving throw against a curse (such as a witch’s hex, or a [*bestow curse*](../../magic/spells/bestow-curse.md) spell), he may reroll the saving throw as an immediate action (1 AP of your next turn). The wearer must decide to use this ability before the results of the saving throw are revealed. He must take the second roll, even if it is worse.
 
-**Construction** Craft Wondrous Item, *remove curse*; **Cost** 6,000 gp
+**Construction** Craft Wondrous Item, [*remove curse*](../../magic/spells/remove-curse.md); **Cost** 6,000 gp
 
 ### Righteous Fist Amulet
 
@@ -212,7 +212,7 @@ This amethyst stone strung on a coarse iron chain protects the wearer from curse
 
 This golden amulet is used by religious sects as a way to help the faithful capture fugitives or defend themselves without doing undue harm to potential converts. While the wearer is using her divine powers of retribution (such as a cleric’s smite, an inquisitor’s smiting judgment, or a paladin’s smite), the amulet grants her the ability to make unarmed strikes in melee combat as if she had the Improved Unarmed Strike feat.
 
-**Construction** Craft Wondrous Item, Improved Unarmed Strike, *stone fist*; **Cost** 2,000 gp
+**Construction** Craft Wondrous Item, Improved Unarmed Strike, [*stone fist*](../../magic/spells/stone-fist.md); **Cost** 2,000 gp
 
 ### Stormlure
 
@@ -230,7 +230,7 @@ A stormlure is usually fashioned from pieces of creatures known for their affini
 
 An ancient fossilized insect lies trapped within this ornate amber clasp, impaled by the long golden pin that fastens the wearer’s cloak. The wearer’s weapons, unarmed attacks, and natural attacks deal full damage to swarms, regardless of the swarm’s immunity to weapon damage (if any, although damage reduction applies as normal). If the wearer is damaged by a swarm, she automatically succeeds on her saving throw against the swarm’s distraction ability.
 
-**Construction** Craft Wondrous Item, *repel vermin*; **Cost** 1,500 gp
+**Construction** Craft Wondrous Item, [*repel vermin*](../../magic/spells/repel-vermin.md); **Cost** 1,500 gp
 
 ### Symbol of Sanguine Protection
 
@@ -241,5 +241,5 @@ This silver holy symbol rests just over the wearer’s heart, imbuing his blood 
 
 Undead creatures and evil outsiders that successfully use a blood drain attack on the wearer take 4d6 points of positive energy damage and are sickened for 1d4 rounds unless they make a DC 16 Will save. Any benefit the creature might gain from drinking the wearer’s blood is negated due to the power of this symbol.
 
-**Construction** Craft Wondrous Item, *bless water*; **Cost** 8,750 gp
+**Construction** Craft Wondrous Item, [*bless water*](../../magic/spells/bless-water.md); **Cost** 8,750 gp
 

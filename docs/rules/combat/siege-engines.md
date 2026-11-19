@@ -365,4 +365,4 @@ Squares of walls can be magically treated. Doing so doubles the hardness and hit
 | Iron or steel | 10 | 90 |
 | Adamantine | 20 | 120 |
 
-A weapon with two types is both types if the entry specifies “and.” \* The break DC assumes the gate is size Large and is barred and locked. Huge doors increase the break DC by 5, Gargantuan doors by 10, and Colossal doors by 15. *Arcane lock* increases the DC by 10.
+A weapon with two types is both types if the entry specifies “and.” \* The break DC assumes the gate is size Large and is barred and locked. Huge doors increase the break DC by 5, Gargantuan doors by 10, and Colossal doors by 15. [*Arcane lock*](../../magic/spells/arcane-lock.md) increases the DC by 10.

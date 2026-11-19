@@ -20,7 +20,7 @@ When the spirit has at least 3 points of influence, you have visible difficulty 
 
 ### Removing the Corruption
 
-Ending a possession corruption usually requires you to be targeted with *dispel evil* or *cast out* while you stand inside a *magic circle against evil* turned inward as a trap. The spirit uses your Will save modifier without any of your penalties, and its effective caster level is equal to your character level + your possessed manifestation level.
+Ending a possession corruption usually requires you to be targeted with [*dispel evil*](../../../magic/spells/dispel-evil.md) or [*cast out*](../../../magic/spells/cast-out.md) while you stand inside a [*magic circle against evil*](../../../magic/spells/magic-circle-against-evil.md) turned inward as a trap. The spirit uses your Will save modifier without any of your penalties, and its effective caster level is equal to your character level + your possessed manifestation level.
 
 However, since the method of possession varies from case to case, a particular possession might require other means of removal, such as undergoing therapy or fulfilling the spirit’s unfinished business.
 
@@ -84,7 +84,7 @@ The spirit suffers no rivals.
 
 The spirit resists physical restraint.
 
-**Gift**: You gain a +2 bonus on Acrobatics, Climb, Fly, and Swim checks. You can give the spirit 1 point of influence as a swift action (1 AP) to gain the benefits of *freedom of movement* for 1 round. At manifestation level 3rd, the bonuses increase to +4.
+**Gift**: You gain a +2 bonus on Acrobatics, Climb, Fly, and Swim checks. You can give the spirit 1 point of influence as a swift action (1 AP) to gain the benefits of [*freedom of movement*](../../../magic/spells/freedom-of-movement.md) for 1 round. At manifestation level 3rd, the bonuses increase to +4.
 
 **Stain**: Objects you wear and carry slip from your grasp and fall from your pockets, or suddenly pelt creatures that have acted in an unhelpful manner toward you. It takes you a standard action (1 AP) to retrieve a stored item, and whenever you drop or lose hold of an item, it lands 10 feet away in a random direction. You take a –2 penalty on saving throws and to your CMD against attacks and effects that would disarm you or steal from you. At manifestation level 3rd, the penalty changes to –4.
 
@@ -94,9 +94,9 @@ The spirit uses your body as a conduit to unleash forceful energy.
 
 **Prerequisites**: Manifestation level 5th, unrestrained*, weightlessness*.
 
-**Gift**: You can give the possessing spirit 1 point of influence over you to use *telekinesis* (as per the spell)
+**Gift**: You can give the possessing spirit 1 point of influence over you to use [*telekinesis*](../../../magic/spells/telekinesis.md) (as per the spell)
 
-**Stain**: Whenever you become confused, dazed, frightened, panicked, or stunned, the possessing spirit blames your allies for failing you. It unleashes a forceful version of *telekinesis* at your nearest ally, either hurling the largest possible nearby object at her or, if there are no objects to hurl, hurling the ally against a hard surface.
+**Stain**: Whenever you become confused, dazed, frightened, panicked, or stunned, the possessing spirit blames your allies for failing you. It unleashes a forceful version of [*telekinesis*](../../../magic/spells/telekinesis.md) at your nearest ally, either hurling the largest possible nearby object at her or, if there are no objects to hurl, hurling the ally against a hard surface.
 
 ### Weightlessness
 
@@ -104,6 +104,6 @@ The possessing spirit’s influence causes you to nearly float.
 
 **Prerequisite**: Unrestrained*.
 
-**Gift**: You can use *feather fall* and *jump* at will as spell-like abilities. You can give the possessing spirit 1 point of influence over you to use *levitate* or *spider climb* as a spell-like ability. In all cases, your caster level is equal to your character level and the spell-like ability can target only you.
+**Gift**: You can use [*feather fall*](../../../magic/spells/feather-fall.md) and [*jump*](../../../magic/spells/jump.md) at will as spell-like abilities. You can give the possessing spirit 1 point of influence over you to use [*levitate*](../../../magic/spells/levitate.md) or [*spider climb*](../../../magic/spells/spider-climb.md) as a spell-like ability. In all cases, your caster level is equal to your character level and the spell-like ability can target only you.
 
 **Stain**: You take a –4 penalty on saving throws and to your CMD against attacks and effects that would move or trip you, as well as on all combat maneuver checks except those made to escape a grapple. At manifestation level 3rd, the penalty changes to –6.

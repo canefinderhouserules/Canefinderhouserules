@@ -11,4 +11,4 @@ A *countering* weapon gives its wielder a +2 bonus to his combat maneuver defens
 
 ## Construction
 
-**Requirements** Combat Reflexes, Craft Magic Arms and Armor, *cat’s grace*; **Price** —
+**Requirements** Combat Reflexes, Craft Magic Arms and Armor, [*cat’s grace*](../../magic/spells/cats-grace.md); **Price** —

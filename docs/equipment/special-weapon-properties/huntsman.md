@@ -11,4 +11,4 @@ A *huntsman* weapon helps its wielder locate and capture quarry. When the weapon
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *detect animals or plants*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*detect animals or plants*](../../magic/spells/detect-animals-or-plants.md); **Price** —

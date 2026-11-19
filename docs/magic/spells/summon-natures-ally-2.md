@@ -20,4 +20,4 @@ This spell functions like [*summon nature’s ally I*](summon-natures-ally-i.md)
     **Duration** 1 round/level (D)  
     **Saving Throw** none; **Spell Resistance** no
 
-    This spell functions as *summon nature’s ally I*, except that you summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.
+    This spell functions as [*summon nature’s ally I*](summon-natures-ally-i.md), except that you summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.

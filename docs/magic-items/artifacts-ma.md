@@ -15,7 +15,7 @@ This +4 determination heavy steel shield has the preserved head of a medusa moun
 
 As a standard action (1 AP), the wearer of the aegis can expend one use of mythic power to awaken the medusa’s head, causing its serpentine hair to writhe and its glowing, red eyes to open. This unleashes a cone of widened fear in the direction of the wearer’s choice. The head remains awakened for 1 round per tier the wearer possesses, during which the wearer gains a petrifying gaze like that of the medusa’s (turn to stone permanently, 30 feet), except the effect is caused by meeting the gaze of the shield’s mounted head rather than the bearer’s gaze.
 
-The save DC for both the *fear* and petrification effects is equal to 10 + the wearer’s tier + the wearer’s Charisma modifier. While the medusa’s head is awakened, the wearer can attempt to make an enemy look into its eyes as a standard action (1 AP), using the normal rules for gaze attacks.
+The save DC for both the [*fear*](../magic/spells/fear.md) and petrification effects is equal to 10 + the wearer’s tier + the wearer’s Charisma modifier. While the medusa’s head is awakened, the wearer can attempt to make an enemy look into its eyes as a standard action (1 AP), using the normal rules for gaze attacks.
 
 **Destruction** The aegis is destroyed if the medusa whose head adorns it is brought back to life, and the awakened shield meets the gaze of this medusa.
 
@@ -41,11 +41,11 @@ In the hands of a mythic creature, whirling bullroarers can induce powerful soni
 
 The bullroarers affect mythic opponents within a radius of 60 feet plus 10 additional feet per the tier wielder possesses, and non-mythic creatures within double that range. The effect remains for as long as the artifact’s owner swings the bull roarer, up to a maximum number of rounds equal to his mythic tier. The individual blades and their powers are listed below.
 
-- **Blade of Courage**: All allies within the area of effect are treated as if affected by a *blessing of courage and life* spell.
-- **Blade of Castigation**: All opponents within the area fall to their knees as if affected by a *castigate* spell.
-- **Blade of Despair**: All opponents within the area of effect that hear the sound become saddened as if affected by a *crushing despair* spell.
-- **Blade of Fear**: All opponents within the area of effect that hear the sound become frightened as if affected by a *fear* spell.
-- **Blade of Rage**: All opponents within the area of effect that hear the sound become enraged as if affected by a *rage* spell.
+- **Blade of Courage**: All allies within the area of effect are treated as if affected by a [*blessing of courage and life*](../magic/spells/blessing-of-courage-and-life.md) spell.
+- **Blade of Castigation**: All opponents within the area fall to their knees as if affected by a [*castigate*](../magic/spells/castigate.md) spell.
+- **Blade of Despair**: All opponents within the area of effect that hear the sound become saddened as if affected by a [*crushing despair*](../magic/spells/crushing-despair.md) spell.
+- **Blade of Fear**: All opponents within the area of effect that hear the sound become frightened as if affected by a [*fear*](../magic/spells/fear.md) spell.
+- **Blade of Rage**: All opponents within the area of effect that hear the sound become enraged as if affected by a [*rage*](../magic/spells/rage.md) spell.
 
 **Destruction** The bullroarers simultaneously shatter if all five are swung at the same time while their bearer stands within the eye of a massive hurricane.
 
@@ -91,11 +91,11 @@ This gruesome artifact looks like the mummified, hollowed-out arm of a glabrezu.
 
 Once attached, the glabrezu claw surrounds its wearer with a field of force. This provides a deflection bonus to AC equal to the wearer’s mythic tier. The wearer also gains immunity to electricity and poison. In addition, the wearer can feed the glabrezu claw some of his mythic power in order to activate spell-like abilities. All these spell-like abilities have a caster level equivalent to the graft wearer’s total class levels plus his mythic tier.
 
-The graft wearer can expend one use of mythic power to gain telepathy with a range of 100 feet for 2 hours or cast any of the following spells: *chaos hammer*, *confusion*, *dispel magic*, *mirror image*, *reverse gravity*, or *true seeing*.
+The graft wearer can expend one use of mythic power to gain telepathy with a range of 100 feet for 2 hours or cast any of the following spells: [*chaos hammer*](../magic/spells/chaos-hammer.md), [*confusion*](../magic/spells/confusion.md), [*dispel magic*](../magic/spells/dispel-magic.md), [*mirror image*](../magic/spells/mirror-image.md), [*reverse gravity*](../magic/spells/reverse-gravity.md), or [*true seeing*](../magic/spells/true-seeing.md).
 
-By expending two uses, he can cast *greater teleport* (self plus 50 pounds of objects only), *veil* (self only), or *unholy blight*.
+By expending two uses, he can cast [*greater teleport*](../magic/spells/teleport-greater.md) (self plus 50 pounds of objects only), [*veil*](../magic/spells/veil.md) (self only), or [*unholy blight*](../magic/spells/unholy-blight.md).
 
-By expending three uses, he can cast *power word stun* or summon (level 4, either 1 glabrezu 30% or 1d2 vrocks 70%).
+By expending three uses, he can cast [*power word stun*](../magic/spells/power-word-stun.md) or summon (level 4, either 1 glabrezu 30% or 1d2 vrocks 70%).
 
 **Destruction** A glabrezu claw crumbles to dust and the demon within is destroyed if placed upon arm of a formerly evil high priest who has atoned for his past and converted to worship a good deity.
 
@@ -125,13 +125,13 @@ These cloudy, white crystals are believed to form spontaneously—though extreme
 
 When carried by a mythic creature, a nexus crystal has the following additional powers.
 
-- As a standard action (1 AP), the bearer can bestow the crystal’s *planar adaptation* ability to another by touching the creature with the crystal and expending one use of mythic power. The protection can be withdrawn over any distance on the same plane with a standard action (1 AP). The use of mythic power can’t be recovered while the protection remains in place. If another creature claims the crystal and uses this ability, any protection bestowed by the previous owner immediately ends.
-- As a standard action (1 AP), the bearer can use *plane shift* to move herself and up to seven other willing creatures to any plane she is familiar with by expending one use of mythic power. If traveling to a location she’s already visited, she can reduce the inaccuracy of *plane shift* by expending two uses of mythic power when she does so, in which case she appears 1d6–1 miles (minimum 0 miles) from her destination.
-- As a standard action (1 AP), the bearer can touch another creature with the nexus crystal and expend three uses of mythic power to use *plane shift* to move the target to a random plane (Reflex DC 27 negates).
-- As a standard action (1 AP), the bearer can expend two uses of mythic power to create a widened *dimensional lock* centered on the crystal instead of on a point in space. The lock lasts for 24 hours or until dismissed.
+- As a standard action (1 AP), the bearer can bestow the crystal’s [*planar adaptation*](../magic/spells/planar-adaptation.md) ability to another by touching the creature with the crystal and expending one use of mythic power. The protection can be withdrawn over any distance on the same plane with a standard action (1 AP). The use of mythic power can’t be recovered while the protection remains in place. If another creature claims the crystal and uses this ability, any protection bestowed by the previous owner immediately ends.
+- As a standard action (1 AP), the bearer can use [*plane shift*](../magic/spells/plane-shift.md) to move herself and up to seven other willing creatures to any plane she is familiar with by expending one use of mythic power. If traveling to a location she’s already visited, she can reduce the inaccuracy of *plane shift* by expending two uses of mythic power when she does so, in which case she appears 1d6–1 miles (minimum 0 miles) from her destination.
+- As a standard action (1 AP), the bearer can touch another creature with the nexus crystal and expend three uses of mythic power to use [*plane shift*](../magic/spells/plane-shift.md) to move the target to a random plane (Reflex DC 27 negates).
+- As a standard action (1 AP), the bearer can expend two uses of mythic power to create a widened [*dimensional lock*](../magic/spells/dimensional-lock.md) centered on the crystal instead of on a point in space. The lock lasts for 24 hours or until dismissed.
 - As a full-round action (3 AP), the bearer can attempt to draw back other creatures that teleported away by expending four uses of mythic power. If she succeeds at a DC 40 Knowledge (planes) check, the bearer can draw back up to one creature per mythic tier she possesses that departed via a conjuration (teleportation) effect in the previous round. To draw back a creature, the bearer must be within 15 feet of the location the creature left from. If the creature resists, it can attempt a Will save (DC 25 + the bearer’s tier) to avoid returning. The bearer can choose freely which creatures from a group to pull back, and can even pull back creatures that departed with different means or to different destinations, as long as their points of departure are within range.
 
-**Destruction** A nexus crystal can be destroyed by invoking its *plane shift* power as the bearer steps through a *gate*. Doing so destroys the crystal and the *gate*, and the resulting magical explosion causes 18d10 points of damage to creatures within a 2-mile-radius burst of either side of the *gate* (Reflex DC 27 for half damage). Permanent gates between planes could potentially be destroyed in this fashion, at the GM’s discretion.
+**Destruction** A nexus crystal can be destroyed by invoking its [*plane shift*](../magic/spells/plane-shift.md) power as the bearer steps through a [*gate*](../magic/spells/gate.md). Doing so destroys the crystal and the *gate*, and the resulting magical explosion causes 18d10 points of damage to creatures within a 2-mile-radius burst of either side of the *gate* (Reflex DC 27 for half damage). Permanent gates between planes could potentially be destroyed in this fashion, at the GM’s discretion.
 
 ### Ring of Equilibrium
 
@@ -157,9 +157,9 @@ This 3-foot-long aspen rod bears glyphs of protection and abjuration. Each end i
 
 When the bearer of the rod of spell sundering counters a spell, she can counterspell with any spell of equal or greater level she’s prepared, automatically countering as if she’d cast the proper spell to counterspell. As an immediate action (1 AP of your next turn) after countering a spell, the rod’s wielder can expend one use of mythic power to reflect the spell back on the caster. The rod’s bearer must have line of effect to reflect a spell, unless the spell reflected doesn’t require it. Treat the caster as the target, center, or origin of the spell’s effect, as appropriate. Treat the spell as though cast by the rod’s bearer on the caster. The power of the rod of spell sundering augments the spell, increasing the DC of any saving throws by 2 and the spell’s caster level by the bearer’s tier.
 
-When used as a weapon, the rod of spell sundering functions as a masterwork light mace. On a successful attack, it targets the creature struck with greater *dispel magic*, with a caster level equal to its bearer’s character level plus her mythic tier. This effect can also be delivered with a successful melee touch attack made using the rod.
+When used as a weapon, the rod of spell sundering functions as a masterwork light mace. On a successful attack, it targets the creature struck with greater [*dispel magic*](../magic/spells/dispel-magic.md), with a caster level equal to its bearer’s character level plus her mythic tier. This effect can also be delivered with a successful melee touch attack made using the rod.
 
-**Destruction** A rod of spell sundering can be destroyed by leaving it within an area devoid of all magic for a year and a day. After this, it must be broken across the knee of a spellcaster formerly capable of casting at least 5th-level spells who lost her powers by using *mage’s disjunction* on an artifact.
+**Destruction** A rod of spell sundering can be destroyed by leaving it within an area devoid of all magic for a year and a day. After this, it must be broken across the knee of a spellcaster formerly capable of casting at least 5th-level spells who lost her powers by using [*mage’s disjunction*](../magic/spells/mages-disjunction.md) on an artifact.
 
 ### Screaming Spear of the Sun
 
@@ -181,40 +181,40 @@ Each use of mythic power the wielder expends when throwing the spear increases t
 
 Similar to the staff of the magi, this long ivory staff is inlaid with platinum sigils and burns with eldritch fire when its powers are called upon. Unlike a normal staff, a staff of eldritch sovereignty holds 50 charges and can’t be recharged normally. Some of its powers use charges, and others don’t. A staff of eldritch sovereignty doesn’t lose its powers if it runs out of charges. The following powers don’t use charges:
 
-- *Arcane lock*
-- *Arcane sight*
-- *Daylight*
-- *Knock*
-- *Mage armor*
-- *Mage hand*
-- *Touch of idiocy*
+- [*Arcane lock*](../magic/spells/arcane-lock.md)
+- [*Arcane sight*](../magic/spells/arcane-sight.md)
+- [*Daylight*](../magic/spells/daylight.md)
+- [*Knock*](../magic/spells/knock.md)
+- [*Mage armor*](../magic/spells/mage-armor.md)
+- [*Mage hand*](../magic/spells/mage-hand.md)
+- [*Touch of idiocy*](../magic/spells/touch-of-idiocy.md)
 
 The following powers drain 1 charge per use:
 
 - *Block tentacles*
-- *Cone of cold* (15d6 damage, Reflex DC 20 half)
-- *Fireball* (10d6 damage, Reflex DC 18 half)
-- *Greater dispel magic*
-- *Greater invisibility*
-- *Greater teleport*
-- *Lightning arc* (15d6 damage, Reflex DC 20 half)
-- *Major image* (Will DC 18 disbelief)
-- *Suggestion* (Will DC 18 negates)
+- [*Cone of cold*](../magic/spells/cone-of-cold.md) (15d6 damage, Reflex DC 20 half)
+- [*Fireball*](../magic/spells/fireball.md) (10d6 damage, Reflex DC 18 half)
+- [*Greater dispel magic*](../magic/spells/dispel-magic-greater.md)
+- [*Greater invisibility*](../magic/spells/invisibility-greater.md)
+- [*Greater teleport*](../magic/spells/teleport-greater.md)
+- [*Lightning arc*](../magic/spells/lightning-arc.md) (15d6 damage, Reflex DC 20 half)
+- [*Major image*](../magic/spells/major-image.md) (Will DC 18 disbelief)
+- [*Suggestion*](../magic/spells/suggestion.md) (Will DC 18 negates)
 
 These powers drain 2 charges per use:
 
-- *Summon monster IX* (the summoned creatures receive the benefits of the Augment Summoning feat)
-- *Plane shift* (Will DC 22 negates, arrive 2 to 200 miles from the intended destination)
-- *Prismatic sphere* (DC 24)
-- *Prismatic spray* (DC 22)
+- [*Summon monster IX*](../magic/spells/summon-monster-ix.md) (the summoned creatures receive the benefits of the Augment Summoning feat)
+- [*Plane shift*](../magic/spells/plane-shift.md) (Will DC 22 negates, arrive 2 to 200 miles from the intended destination)
+- [*Prismatic sphere*](../magic/spells/prismatic-sphere.md) (DC 24)
+- [*Prismatic spray*](../magic/spells/prismatic-spray.md) (DC 22)
 
-For 5 charges, the staff of eldritch sovereignty creates a *gate*.
+For 5 charges, the staff of eldritch sovereignty creates a [*gate*](../magic/spells/gate.md).
 
 The staff of eldritch sovereignty has higher DCs than normal for a staff. The wielder still uses her own save DCs if they exceed those of the staff.
 
-The wielder can use any of her metamagic feats on spells cast with the staff of eldritch sovereignty by expending 1 charge per increase in spell level, with a minimum of 1 charge spent. The adjusted level of the spell can’t be increased above 9th level. For example, a user with Quicken Spell can spend 5 charges to cast a quickened *cone of cold* with the staff, but couldn’t use it to cast quickened greater teleport.
+The wielder can use any of her metamagic feats on spells cast with the staff of eldritch sovereignty by expending 1 charge per increase in spell level, with a minimum of 1 charge spent. The adjusted level of the spell can’t be increased above 9th level. For example, a user with Quicken Spell can spend 5 charges to cast a quickened [*cone of cold*](../magic/spells/cone-of-cold.md) with the staff, but couldn’t use it to cast quickened greater teleport.
 
-The wielder can expend one use of mythic power to gain the benefit of a number of charges equal to her mythic tier. Any excess charges are lost. For example, a 5th-tier wielder with Empower Spell could expend one use of mythic power to cast an empowered *fireball* without consuming any charges from the staff. A wielder who knows the mythic version of one of the staff’s spells can cast such spells from the staff by expending one use of mythic power. This can be combined with using mythic power to provide charges. Finally, the wielder can expend one use of mythic power to add 1 charge to the staff, with no risk of explosion if the staff is already fully charged.
+The wielder can expend one use of mythic power to gain the benefit of a number of charges equal to her mythic tier. Any excess charges are lost. For example, a 5th-tier wielder with Empower Spell could expend one use of mythic power to cast an empowered [*fireball*](../magic/spells/fireball.md) without consuming any charges from the staff. A wielder who knows the mythic version of one of the staff’s spells can cast such spells from the staff by expending one use of mythic power. This can be combined with using mythic power to provide charges. Finally, the wielder can expend one use of mythic power to add 1 charge to the staff, with no risk of explosion if the staff is already fully charged.
 
 A staff of eldritch sovereignty gives the wielder spell resistance equal to 23 plus her tier. If this is willingly lowered, however, the staff can be used to absorb arcane energy directed at its wielder, as a rod of absorption does. Unlike the rod, this staff converts spell levels into charges rather than retaining them as spell energy usable by a spellcaster. If the staff absorbs enough energy to exceed its limit of 50 charges, it explodes as if the wielder had performed a retributive strike (see Destruction). The wielder has no idea how many spell levels are cast at her—the staff doesn’t communicate this knowledge as a rod of absorption does. Thus, absorbing spells can be risky.
 
@@ -240,7 +240,7 @@ Once per week, the wielder can expend one use of mythic power to enter the prima
 **Aura** strong divination and transmutation; **CL** 20th  
 **Slot** neck; **Weight** 1 lb.
 
-This simple neck ring consists of a silver braid with matching ivory ends sculpted to resemble wolf’s heads. The torc allows itself to be worn by only a mythic character who swears absolute service to his deity. Thereafter, the torc cannot be removed until its wearer dies. The wearer gains an enhancement bonus to his Charisma score equal to half his tier (minimum 1). Once per day, he can use the torc to cast *commune* for the purpose of contacting his deity. Lastly, he can expend one use of his mythic power to cast *legend lore*.
+This simple neck ring consists of a silver braid with matching ivory ends sculpted to resemble wolf’s heads. The torc allows itself to be worn by only a mythic character who swears absolute service to his deity. Thereafter, the torc cannot be removed until its wearer dies. The wearer gains an enhancement bonus to his Charisma score equal to half his tier (minimum 1). Once per day, he can use the torc to cast [*commune*](../magic/spells/commune.md) for the purpose of contacting his deity. Lastly, he can expend one use of his mythic power to cast [*legend lore*](../magic/spells/legend-lore.md).
 
 If the wearer violates his deity’s code of ethics, the torc constricts and begins suffocating him until he dies or receives an atonement spell.
 
@@ -268,9 +268,9 @@ The greatest of all artifacts are unique items, coveted by the most powerful bei
 
 This small, innocuous, black wooden box appears randomly throughout the multiverse, drawn to great heroes, greedy rulers, and desperate (and often morally ambiguous) mortals. The Apocalypse Box appears subtly, sometimes as a dusty old box on a shelf or a forgotten heirloom in a grandparent’s attic. A creature looking upon the Apocalypse Box is struck with a sensation of nearly overwhelming avarice, and must succeed at a DC 30 Will save or be compelled to touch the box. This is a mind-affecting compulsion effect. If a creature touches the Apocalypse Box, she must succeed at another DC 30 Will save or fall under the box’s curse. Cursed creatures are compelled to use any available means—including fleeing from or murdering friends and loved ones-to keep the box out of the hands of others. This curse can’t be broken until the cursed creature dies or the box is destroyed. Additionally, if the cursed creature moves more than 10 feet away from the box, she immediately takes 1d4 points of Wisdom damage plus 1d4 points of Wisdom damage each subsequent day until she and the Apocalypse Box are reunited.
 
-Only a creature bearing the Apocalypse Box’s curse can open it. Once per day, the cursed creature can open the box and draw forth a single item her heart desires. The item must be nonmagical, weigh no more than 50 pounds, and be worth no more than 50,000 gp, but is otherwise limited only by the parameters of the *wish* spell. A mythic character can expend two uses of mythic power to draw forth a second such item each day.
+Only a creature bearing the Apocalypse Box’s curse can open it. Once per day, the cursed creature can open the box and draw forth a single item her heart desires. The item must be nonmagical, weigh no more than 50 pounds, and be worth no more than 50,000 gp, but is otherwise limited only by the parameters of the [*wish*](../magic/spells/wish.md) spell. A mythic character can expend two uses of mythic power to draw forth a second such item each day.
 
-Each time the Apocalypse Box is opened, there is a 50% chance that instead of granting a *wish*, the box summons a number of horrific monsters that immediately attack anyone in sight and remain to wreak havoc on the Material Plane for 1 week before returning to their plane of origin. Roll on the table below to determine the monsters that appear.
+Each time the Apocalypse Box is opened, there is a 50% chance that instead of granting a [*wish*](../magic/spells/wish.md), the box summons a number of horrific monsters that immediately attack anyone in sight and remain to wreak havoc on the Material Plane for 1 week before returning to their plane of origin. Roll on the table below to determine the monsters that appear.
 
 The Apocalypse Box is quite tenacious in its desire for someone to open it. Each day, the cursed creature must succeed at a Will save or be compelled to open it. This is a mind-affecting compulsion effect. The save DC is initially 20, but increases by 2 each subsequent day the box isn’t opened until the cursed creature fails the Will save, at which point she opens the box and the save DC resets to 20.
 
@@ -292,7 +292,7 @@ The Apocalypse Box is quite tenacious in its desire for someone to open it. Each
 **Aura** strong conjuration; **CL** 20th  
 **Slot** headband; **Weight** —
 
-The Diadem of Nod is a slender, platinum headband adorned with a large, perfectly cut diamond that rests on its wearer’s forehead. When the wearer sleeps, she can create a pocket dream dimension and move herself there. The qualities of the dream dimension can be chosen by the wearer, as the *create demiplane* spell. Once inside the dream dimension, the wearer is considered awake and in control of her creation. The pocket dimension lasts for up to 7 days, whereupon it ends and the diadem must recharge for 1 week before it can be used again, regardless of the time spent inside.
+The Diadem of Nod is a slender, platinum headband adorned with a large, perfectly cut diamond that rests on its wearer’s forehead. When the wearer sleeps, she can create a pocket dream dimension and move herself there. The qualities of the dream dimension can be chosen by the wearer, as the [*create demiplane*](../magic/spells/create-demiplane.md) spell. Once inside the dream dimension, the wearer is considered awake and in control of her creation. The pocket dimension lasts for up to 7 days, whereupon it ends and the diadem must recharge for 1 week before it can be used again, regardless of the time spent inside.
 
 There is one inherent risk in using the Diadem of Nod. The GM should roll a secret DC 20 Will save on behalf of the wearer each time the diadem is used. Failure indicates that some rogue element not of the wearer’s creation or under her control has been added to the pocket dream dimension. This might be an animate dream or some other outsider of any alignment that traffics the Ethereal and Astral planes. The rogue element is not necessarily hostile or unfriendly.
 
@@ -333,9 +333,9 @@ Legends suggest that those who never question the heart’s orders or decline it
 
 This +6 keen speed adamantine dagger was constructed in defiance of the gods and their chosen mortal champions, for Legendsbane was created to slay mythic creatures. Legendsbane bypasses all types of damage reduction, and deals an additional 3d6 points of damage to mythic creatures and to non-mythic creatures that have epic DR. This additional damage is multiplied for critical hits.
 
-Non-mythic characters can wield Legendsbane normally. However, when a mythic character first attempts to wield the dagger, she must succeed at a DC 25 Fortitude save or suffer the effects of a *destruction* spell. If the mythic character survives, she can wield the dagger normally.
+Non-mythic characters can wield Legendsbane normally. However, when a mythic character first attempts to wield the dagger, she must succeed at a DC 25 Fortitude save or suffer the effects of a [*destruction*](../magic/spells/destruction.md) spell. If the mythic character survives, she can wield the dagger normally.
 
-Legendsbane imparts upon its wielder the ability to track down mythic creatures she has hunted before. At will, the wielder can cast *locate creature* to find a specific mythic creature known to the wielder.
+Legendsbane imparts upon its wielder the ability to track down mythic creatures she has hunted before. At will, the wielder can cast [*locate creature*](../magic/spells/locate-creature.md) to find a specific mythic creature known to the wielder.
 
 **Destruction** Legendsbane can be destroyed if it’s anointed in the blood of a slain 10th-rank mythic creature and then struck three times by a vorpal weapon. This act also destroys the vorpal weapon.
 
@@ -344,7 +344,7 @@ Legendsbane imparts upon its wielder the ability to track down mythic creatures 
 **Aura** strong conjuration; **CL** 20th  
 **Slot** none; **Weight** 1/2 ton
 
-This huge cauldron forged from black iron serves as a dimensional gateway to a mythic netherworld where powerful entities come seeking to barter with, *commune* with, or corrupt mythic mortals. To activate the cauldron, a mythic creature must spill some of its own blood into the black basin as an offering of his mythic power. If the wound deals at least 4 points of damage, the cauldron drains one use of the individual’s mythic power through it. Once activated, the cauldron fills with a strange red fog that remains for 1d20+10 minutes. During this time, mythic creatures can enter the cauldron and be transported to the crossroads. Non-mythic creatures that enter the cauldron take 4d6 points of damage per round until they climb out or die.
+This huge cauldron forged from black iron serves as a dimensional gateway to a mythic netherworld where powerful entities come seeking to barter with, [*commune*](../magic/spells/commune.md) with, or corrupt mythic mortals. To activate the cauldron, a mythic creature must spill some of its own blood into the black basin as an offering of his mythic power. If the wound deals at least 4 points of damage, the cauldron drains one use of the individual’s mythic power through it. Once activated, the cauldron fills with a strange red fog that remains for 1d20+10 minutes. During this time, mythic creatures can enter the cauldron and be transported to the crossroads. Non-mythic creatures that enter the cauldron take 4d6 points of damage per round until they climb out or die.
 
 The netherworld is small, with an overall area of 1 square half-mile. Highly mutable, the netherworld’s appearance is determined by the will of whatever outsider currently waits there. Only one outsider can inhabit the netherworld at any given time. The specifics of what entity resides in the netherworld, as well as that entity’s desire, change frequently and therefore are left to the discretion of the GM.
 
@@ -357,16 +357,16 @@ Time in the netherworld passes out of sync with time in the Material Plane, thus
 **Aura** strong evocation; **CL** 20th  
 **Slot** headband; **Weight** —
 
-The Nimbus of Radiant Truth exists only when good has need of a great champion. Such a champion can attain it only though a perilous quest that tests mettle and righteousness. Rather than being a physical object, the Nimbus of Radiant Truth manifests as a glowing halo of light around the wearer’s head. It’s ordinarily as bright as *continual flame*, but in battle it brightens to the dazzling brilliance of daylight. Its radiance is treated as resulting from a 9th-level spell for purposes of interaction with other sources of light and darkness. The radiance of the nimbus can be suppressed or resumed as a standard action (1 AP).
+The Nimbus of Radiant Truth exists only when good has need of a great champion. Such a champion can attain it only though a perilous quest that tests mettle and righteousness. Rather than being a physical object, the Nimbus of Radiant Truth manifests as a glowing halo of light around the wearer’s head. It’s ordinarily as bright as [*continual flame*](../magic/spells/continual-flame.md), but in battle it brightens to the dazzling brilliance of daylight. Its radiance is treated as resulting from a 9th-level spell for purposes of interaction with other sources of light and darkness. The radiance of the nimbus can be suppressed or resumed as a standard action (1 AP).
 
 The Nimbus of Radiant Truth grants a +6 enhancement bonus to Wisdom and Charisma. Treat this as a temporary ability bonus for the first 24 hours the nimbus is worn. Its wearer can’t deliberately utter a lie, though the nimbus doesn’t prevent other forms of deception, evasiveness, and giving incomplete answers within the boundaries of the truth. All of the wearer’s natural weapons and any weapons she wields overcome damage reduction as though they were good-aligned. In addition, the Nimbus of Radiant Truth has the following powers.
 
-- The wearer can bring forth a *zone of truth* (DC 20) with a 40-foot radius at will. By expending one use of mythic power, the DC increases to 30.
+- The wearer can bring forth a [*zone of truth*](../magic/spells/zone-of-truth.md) (DC 20) with a 40-foot radius at will. By expending one use of mythic power, the DC increases to 30.
 - As an immediate action (1 AP of your next turn), the wearer can expend one use of mythic power to gain the benefits of freedom’s call (as the Liberation domain power) or nimbus of light (as the Sun domain power) for 2 minutes. For purposes of this power, the wearer has a cleric level equal to her character level. Either power can be dismissed as a free action, but any unused duration is lost.
-- Seven times per day, the wearer can *cure moderate wounds* as a cleric with a caster level equal to her character level. The wearer adds her mythic tier to the hit points healed.
-- Three times per day, the wearer can unleash a *holy aura* (DC 25) or an empowered *holy smite* (DC 22).
-- Once per day, the wearer can unleash a blast of righteous power. Treat this as *sunburst* (DC 27) centered on the wearer, except that it has no effect on good-aligned creatures and inflicts double damage to evil-aligned creatures. After this power is used, the nimbus fades to a barely visible glow for 1 hour, and the wearer loses access to all of its powers save its enhancement bonuses. She remains unable to lie.
-- Once per week, the wearer can expend one use of mythic power to perform a *resurrection*.
+- Seven times per day, the wearer can [*cure moderate wounds*](../magic/spells/cure-moderate-wounds.md) as a cleric with a caster level equal to her character level. The wearer adds her mythic tier to the hit points healed.
+- Three times per day, the wearer can unleash a [*holy aura*](../magic/spells/holy-aura.md) (DC 25) or an empowered [*holy smite*](../magic/spells/holy-smite.md) (DC 22).
+- Once per day, the wearer can unleash a blast of righteous power. Treat this as [*sunburst*](../magic/spells/sunburst.md) (DC 27) centered on the wearer, except that it has no effect on good-aligned creatures and inflicts double damage to evil-aligned creatures. After this power is used, the nimbus fades to a barely visible glow for 1 hour, and the wearer loses access to all of its powers save its enhancement bonuses. She remains unable to lie.
+- Once per week, the wearer can expend one use of mythic power to perform a [*resurrection*](../magic/spells/resurrection.md).
 
 The wearer of the Nimbus of Radiant Truth can remove it as though it were a physical item, and place it either on the head of another creature or on an inanimate object. When placed on an inanimate object, the Nimbus of Radiant Truth can be picked up. When placed on a living creature, it can’t be removed except by the wearer’s conscious choice.
 
@@ -385,15 +385,15 @@ Plaguebringer also grants the following abilities:
 
 - The host receives a +2 profane bonus on attack rolls, caster level checks, and saving throws.
 - The host generates an aura of unlife in a 30-foot radius. All living creatures other than the host within this radius take 2d6 points of negative energy damage each round. Undead creatures gain fast healing 5 that stacks with any fast healing they already possess. This aura can be suppressed or resumed as a standard action (1 AP).
-- As part of using an ability that requires him to expend mythic power, the host can target a mythic creature within 30 feet. If that creature fails a DC 23 Fortitude save, it contracts a random disease (as *contagion*) and one use of its mythic power is stolen and granted to the host. If the host fails to steal mythic power, he must expend double the usual amount of his own mythic power or the ability fails.
-- The host can use *contagion* heightened to 8th level (DC 23) at will.
-- The host can use empowered *vampiric touch* three times per day.
-- As a swift action (1 AP), the host can expend one use of mythic power to gain the effects of *death ward*, *divine power*, and spell resistance. These effects last 1 round per tier he possesses and can’t be dispelled.
+- As part of using an ability that requires him to expend mythic power, the host can target a mythic creature within 30 feet. If that creature fails a DC 23 Fortitude save, it contracts a random disease (as [*contagion*](../magic/spells/contagion.md)) and one use of its mythic power is stolen and granted to the host. If the host fails to steal mythic power, he must expend double the usual amount of his own mythic power or the ability fails.
+- The host can use [*contagion*](../magic/spells/contagion.md) heightened to 8th level (DC 23) at will.
+- The host can use empowered [*vampiric touch*](../magic/spells/vampiric-touch.md) three times per day.
+- As a swift action (1 AP), the host can expend one use of mythic power to gain the effects of [*death ward*](../magic/spells/death-ward.md), [*divine power*](../magic/spells/divine-power.md), and spell resistance. These effects last 1 round per tier he possesses and can’t be dispelled.
 - Once per day, the host can expend two uses of mythic power to summon a nightwing to do his bidding for 1 hour. If the nightwing is slain, a new one can’t be summoned for 1 week.
 
 Plaguebringer is intelligent, with an Intelligence score of 15, a Wisdom of 10, and a Charisma of 20. It has a neutral evil alignment, communicates by empathy, and has an Ego of 30. It exists only to spread disease and cause suffering. It protects and aids hosts that please it. If infecting a host who resists these goals, it withholds its abilities and attempts to control the host. Plaguebringer can take a single standard or swift action (1 AP) on its host’s turn to activate any of its powers that don’t require a touch attack. It has five uses of mythic power available to expend each day. It can use its host’s own mythic power by becoming dominant (see [intelligent items](intelligent-items.md)).
 
-When infecting a host, it has full access to its host’s senses, along with darkvision and blindsense with a range of 120 feet. When not in a host, Plaguebringer has only limited awareness, with hearing and blindsense usable to a range of 30 feet and no vision. When not infecting a host, Plaguebringer is undetectable by normal vision due to its microscopic size, though *detect evil* reveals its presence. It can fly at a speed of 30 feet, and can infect a new host by entering its body. If the target fails a DC 30 Fortitude save, Plaguebringer infects it and the creature gains access to the artifact’s powers. If the target succeeds, Plaguebringer can’t attempt to infect it again for 1 month.
+When infecting a host, it has full access to its host’s senses, along with darkvision and blindsense with a range of 120 feet. When not in a host, Plaguebringer has only limited awareness, with hearing and blindsense usable to a range of 30 feet and no vision. When not infecting a host, Plaguebringer is undetectable by normal vision due to its microscopic size, though [*detect evil*](../magic/spells/detect-evil.md) reveals its presence. It can fly at a speed of 30 feet, and can infect a new host by entering its body. If the target fails a DC 30 Fortitude save, Plaguebringer infects it and the creature gains access to the artifact’s powers. If the target succeeds, Plaguebringer can’t attempt to infect it again for 1 month.
 
 Plaguebringer can leave a host by becoming dominant and choosing to leave. Immediately after it leaves, the host is affected by multiple contagion effects (DC 30), one for each of the diseases listed in the spell.
 
@@ -410,10 +410,10 @@ An individual seeking to wield the scepter must first bond with the artifact by 
 
 Once bonded, the scepter can be wielded as a +6 brilliant energy light mace that grants a +4 enhancement bonus to its bonded owner’s Charisma score. In addition, the owner can expend one use of mythic power and ring the scepter’s bells to produce the following effects:
 
-- The wielder can ring the bell of authority to cast *command* targeting any non-mythic creature.
-- The wielder can ring the bell of banishment to cast *dismissal* upon any non-mythic outsider with a CR at least 3 less than the wielder’s total class level plus her tier.
-- The wielder can ring the bell of dominion to cast *sanctuary* on any non-mythic creature.
-- The wielder can ring the bell of imprisonment to cast *forcecage* on any non-mythic creature with a CR at least 3 less than the wielder’s total class level plus her tier.
+- The wielder can ring the bell of authority to cast [*command*](../magic/spells/command.md) targeting any non-mythic creature.
+- The wielder can ring the bell of banishment to cast [*dismissal*](../magic/spells/dismissal.md) upon any non-mythic outsider with a CR at least 3 less than the wielder’s total class level plus her tier.
+- The wielder can ring the bell of dominion to cast [*sanctuary*](../magic/spells/sanctuary.md) on any non-mythic creature.
+- The wielder can ring the bell of imprisonment to cast [*forcecage*](../magic/spells/forcecage.md) on any non-mythic creature with a CR at least 3 less than the wielder’s total class level plus her tier.
 
 The caster level for all four effects is equal to the owner’s total character level plus her tier. When she rings a bell, she can also expend an additional use of mythic power to increase the DC of the spell-like ability’s saving throw by 10.
 
@@ -428,7 +428,7 @@ Lastly, the owner can use the scepter to appoint a mythic agent to be a protecto
 
 This strangely shaped, ebon-colored rock streaked with deep purple veins is actually the petrified heart of a long-forgotten mythic hero. Over the centuries, the heart has appeared as an amulet, the head of a staff, and a mace head. Regardless of its form, the Shadowwraith Heart functions the same. The heart seeks out the location of the nearest source of mythic power—either a creature or place—and when brought to the source devours its power. As soon as it comes within a 60-foot-radius of a mythic creature, it begins to leech off that creature’s mythic power. Each round a mythic creature remains within the area of effect, it must succeed at a DC 25 Fortitude save or lose 1d4 uses of mythic power. If the heart drains a mythic creature of all its daily uses of mythic power, the creature loses a mythic tier. The tier loss is semi-permanent, remaining until the creature successfully completes one trial.
 
-**Destruction** Implanting the Shadowwraith Heart into the chest of a dying mythic hero reanimates the heart, restoring the hero as the *heal* spell (CL 15th), though the hero loses all mythic tiers.
+**Destruction** Implanting the Shadowwraith Heart into the chest of a dying mythic hero reanimates the heart, restoring the hero as the [*heal*](../magic/spells/heal.md) spell (CL 15th), though the hero loses all mythic tiers.
 
 ### Silver Maiden
 
@@ -437,9 +437,9 @@ This strangely shaped, ebon-colored rock streaked with deep purple veins is actu
 
 With its shimmering, luminous silver-gray sails and tendency to briefly shift in and out of phase with the Material Plane, this star-faring sailing ship is often mistaken for a ghost ship. Though non-mythic creatures can board the ship as passengers, the Silver Maiden requires a mythic creature to be its captain. If the ship currently has no captain, a mythic character can claim the captaincy by touching the ship’s wheel and stating her desire to be captain. The captain then serves until death or voluntary retirement. Upon assuming the captaincy, the captain becomes aware of all of the ship’s powers, and can propel the ship completely unaided from anywhere aboard the vessel, whether sailing the high seas of a terrestrial world or gliding through the vast blackness of deep space.
 
-At will, the captain can expend two uses of mythic power to launch the Silver Maiden into outer space. Once in space, the ship can sail through the vacuum at incredible speeds. Although exact travel times vary, a voyage between two planets within a solar system takes 2d20 days, and a voyage to another star system takes 2d20 weeks (or more at the GM’s discretion). The captain must know which world she wishes to travel to (as if the captain cast *greater teleport*). When the ship arrives at its destination, it slowly descends to the surface (as the *feather fall* spell), and typically lands in a body of water. Once earthbound, the ship moves as a standard sailing ship. If the planet has no water or comparable liquid, the ship lands on solid ground and is unable to move until the captain once again launches the ship back into space.
+At will, the captain can expend two uses of mythic power to launch the Silver Maiden into outer space. Once in space, the ship can sail through the vacuum at incredible speeds. Although exact travel times vary, a voyage between two planets within a solar system takes 2d20 days, and a voyage to another star system takes 2d20 weeks (or more at the GM’s discretion). The captain must know which world she wishes to travel to (as if the captain cast [*greater teleport*](../magic/spells/teleport-greater.md)). When the ship arrives at its destination, it slowly descends to the surface (as the [*feather fall*](../magic/spells/feather-fall.md) spell), and typically lands in a body of water. Once earthbound, the ship moves as a standard sailing ship. If the planet has no water or comparable liquid, the ship lands on solid ground and is unable to move until the captain once again launches the ship back into space.
 
-The Silver Maiden can also sail the Outer Planes. At will, the captain can expend three uses of mythic power to transport the ship to another plane, as the *plane shift* spell. When the ship arrives at its extraplanar destination, it appears in a body of water or comparable liquid, 1 to 100 miles from the captain’s intended destination. If the plane has no water (such as the Plane of Earth) the ship appears on solid ground, and is unable to move until the captain transports it to another plane. If the plane has neither water nor a solid surface, such as the Plane of Air, the ship continues to slowly fall (as the *feather fall* spell) until the captain transports it to another plane.
+The Silver Maiden can also sail the Outer Planes. At will, the captain can expend three uses of mythic power to transport the ship to another plane, as the [*plane shift*](../magic/spells/plane-shift.md) spell. When the ship arrives at its extraplanar destination, it appears in a body of water or comparable liquid, 1 to 100 miles from the captain’s intended destination. If the plane has no water (such as the Plane of Earth) the ship appears on solid ground, and is unable to move until the captain transports it to another plane. If the plane has neither water nor a solid surface, such as the Plane of Air, the ship continues to slowly fall (as the [*feather fall*](../magic/spells/feather-fall.md) spell) until the captain transports it to another plane.
 
 The Silver Maiden protects its passengers from the environmental dangers of deep space and the outer planes, and can even sail the molten surface of a star. At all times, the ship simulates a comfortable temperature and gravity normal for its current captain’s home world. This protection extends 10 feet from the exterior of the vessel.
 
@@ -454,11 +454,11 @@ This mithral cap includes prominent guards for the eyes and nose. The helmet was
 
 - The wearer gains the shapechanger subtype.
 - The wearer gains immunity to polymorph effects, except ones he chooses to allow to affect him.
-- At will, the wearer can use *greater invisibility* as a spell-like ability for as long a duration as desired.
+- At will, the wearer can use [*greater invisibility*](../magic/spells/invisibility-greater.md) as a spell-like ability for as long a duration as desired.
 - At will, the wearer can change his appearance in the same fashion as a *hat of disguise*, with a DC 25 Will save required to disbelieve the illusion. If the Tarnhelm is used to create a disguise, the wearer receives a +25 bonus on the Disguise check.
-- Three times per day, the wearer can use *greater teleport*, exactly as if he had cast the spell of the same name. The wearer can teleport additional times by expending one use of mythic power per teleport.
-- Three times per day, the wearer can assume the form of an animal as though he had cast *beast shape IV*, except the duration lasts until the effect is dismissed or dispelled. The wearer can change shape additional times by expending one use of mythic power per transformation.
-- By expending two uses of mythic power, the wearer can assume the form of Gargantuan chromatic or metallic dragon. The effect lasts until dispelled or dismissed. He gains a +14 size bonus to Strength, a +12 size bonus to Constitution, a +10 natural armor bonus, a fly speed of 150 feet (poor), blindsense 90 feet, darkvision 180 feet, a breath weapon, DR 15/magic, frightful presence (DC 23), one bite (4d6), two claws (2d8), two wing attacks (2d6), and one tail slap (2d8). All his breath weapons deal 16d8 points of damage and allow a Reflex save (DC 10 plus his tier plus his Constitution modifier) for half damage. This ability otherwise functions as *form of the dragon III*.
+- Three times per day, the wearer can use [*greater teleport*](../magic/spells/teleport-greater.md), exactly as if he had cast the spell of the same name. The wearer can teleport additional times by expending one use of mythic power per teleport.
+- Three times per day, the wearer can assume the form of an animal as though he had cast [*beast shape IV*](../magic/spells/beast-shape-iv.md), except the duration lasts until the effect is dismissed or dispelled. The wearer can change shape additional times by expending one use of mythic power per transformation.
+- By expending two uses of mythic power, the wearer can assume the form of Gargantuan chromatic or metallic dragon. The effect lasts until dispelled or dismissed. He gains a +14 size bonus to Strength, a +12 size bonus to Constitution, a +10 natural armor bonus, a fly speed of 150 feet (poor), blindsense 90 feet, darkvision 180 feet, a breath weapon, DR 15/magic, frightful presence (DC 23), one bite (4d6), two claws (2d8), two wing attacks (2d6), and one tail slap (2d8). All his breath weapons deal 16d8 points of damage and allow a Reflex save (DC 10 plus his tier plus his Constitution modifier) for half damage. This ability otherwise functions as [*form of the dragon III*](../magic/spells/form-of-the-dragon-iii.md).
 
 **Destruction** The Tarnhelm can be destroyed by being struck by a succession by hammer blows from a dwarven smith wielding an adamantine hammer, a human smith with a steel hammer, and an elven smith using a hammer of spun glass. Each must succeed at a DC 30 Craft (armor) check when landing the blow. Failure destroys the hammer, disrupts the attempt to destroy the Tarnhelm, and deals 12d6 points of damage to the smith.
 
@@ -469,7 +469,7 @@ This mithral cap includes prominent guards for the eyes and nose. The helmet was
 
 Formed of meteoric adamantine, the massive anvil known as the Trueforge appears and vanishes according to unknowable whims—perhaps those of a greater power, perhaps its own. A creature with sufficient power and knowledge can bind the Trueforge to a fixed location to best take advantage of its power.
 
-Labor at the Trueforge requires both supreme skill and mythic power. Non-mythic creatures are affected as the *feeblemind* spell (DC 30) for daring to use the forge, and can’t use the forge’s abilities even if they succeed at their saving throws.
+Labor at the Trueforge requires both supreme skill and mythic power. Non-mythic creatures are affected as the [*feeblemind*](../magic/spells/feeblemind.md) spell (DC 30) for daring to use the forge, and can’t use the forge’s abilities even if they succeed at their saving throws.
 
 When toiling at the Trueforge, a mythic creature can create magical weapons and armor with a cost up to her mythic tier squared times 2,000 gp, ignoring the nonmagical cost of the item created. For example, a 10th-tier character could craft a magic weapon of a +10 enhancement equivalent, worth 200,000 gp plus the cost of the weapon itself. The item forged must be at least partially metal, such as a breastplate or spear. Creating such an item requires only half the usual value of raw materials. However, to create items involving exotic materials (such as adamantine), the creator must use and have access to the normal amount of the material.
 

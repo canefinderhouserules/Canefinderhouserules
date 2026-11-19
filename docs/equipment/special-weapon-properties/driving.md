@@ -10,4 +10,4 @@ This special ability can be placed only on ranged weapons. A *driving* weapon ca
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *telekinetic charge*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*telekinetic charge*](../../magic/spells/telekinetic-charge.md); **Price** —

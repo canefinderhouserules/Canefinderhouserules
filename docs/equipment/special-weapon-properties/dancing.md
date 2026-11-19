@@ -11,4 +11,4 @@ As a standard action (1 AP), a *dancing* weapon can be loosed to attack on its o
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *animate objects*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*animate objects*](../../magic/spells/animate-objects.md); **Price** —

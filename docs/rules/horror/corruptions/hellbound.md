@@ -30,7 +30,7 @@ Your dark patron offers to grant you wishes to tempt you.
 
 **Prerequisite**: Manifestation level 9th.
 
-**Gift**: You can use *limited wish* once per day as a spell-like ability. It can’t duplicate a spell requiring a material component costing more than 1,000 gp. Each time you get more or less what you wished for (GM’s discretion), you must succeed at a Will save or your corruption progresses to the next stage.
+**Gift**: You can use [*limited wish*](../../../magic/spells/limited-wish.md) once per day as a spell-like ability. It can’t duplicate a spell requiring a material component costing more than 1,000 gp. Each time you get more or less what you wished for (GM’s discretion), you must succeed at a Will save or your corruption progresses to the next stage.
 
 **Stain**: Wishes you make from this manifestation’s gift or your own spells are granted by your patron and interpreted from a devil’s perspective. The patron always tries to twist your wish away from your intent and to its own dark ends.
 
@@ -60,7 +60,7 @@ You fraternize with devils who answer your call for aid.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: Once per day as a spell-like ability, you can summon a lawful evil outsider, as *summon monster II* with a duration of 1 minute per manifestation level. At manifestation level 4th, you can use *summon monster III*, but summon an accuser devil. At manifestation level 6th, you can use *summon monster IV* this way. At manifestation level 8th, you can use *summon monster V* this way.
+**Gift**: Once per day as a spell-like ability, you can summon a lawful evil outsider, as [*summon monster II*](../../../magic/spells/summon-monster-ii.md) with a duration of 1 minute per manifestation level. At manifestation level 4th, you can use [*summon monster III*](../../../magic/spells/summon-monster-iii.md), but summon an accuser devil. At manifestation level 6th, you can use [*summon monster IV*](../../../magic/spells/summon-monster-iv.md) this way. At manifestation level 8th, you can use [*summon monster V*](../../../magic/spells/summon-monster-v.md) this way.
 
 **Stain**: You see lies and pain behind every exchange, even when it isn’t there. You take a –4 penalty on Perception and Sense Motive checks except for those made against devils.
 
@@ -76,9 +76,9 @@ You learn secrets best kept from mortal minds.
 
 You can call upon Hell for clues about how to avoid your fate.
 
-**Gift**: Once per day, you can call upon the knowledge of Hell with 10 minutes of meditation. You gain the benefit of *guidance*, with a duration of 24 hours or until discharged. At higher manifestation levels, you can choose to gain the benefit of a different divination spell at the end of your meditation instead: *augury* at manifestation level 2nd, *divination* at manifestation level 4th, or *contact other plane* at manifestation level 6th (to consult the ruler of Hell or an intermediate deity).
+**Gift**: Once per day, you can call upon the knowledge of Hell with 10 minutes of meditation. You gain the benefit of [*guidance*](../../../magic/spells/guidance.md), with a duration of 24 hours or until discharged. At higher manifestation levels, you can choose to gain the benefit of a different divination spell at the end of your meditation instead: [*augury*](../../../magic/spells/augury.md) at manifestation level 2nd, [*divination*](../../../magic/spells/divination.md) at manifestation level 4th, or [*contact other plane*](../../../magic/spells/contact-other-plane.md) at manifestation level 6th (to consult the ruler of Hell or an intermediate deity).
 
-**Stain**: Increase the DCs of Constitution checks you attempt to stabilize while dying, Heal checks targeting you, and caster level checks required for conjuration (healing) spells to benefit you by 2 (the DC increase applies on the caster level check required to raise you from the dead at corruption stage 1). At manifestation level 3rd, the DCs increase by 4 instead. Your soul flees immediately on death, so you can’t be revived by *breath of life*, the gift of life domain power, or any similar ability.
+**Stain**: Increase the DCs of Constitution checks you attempt to stabilize while dying, Heal checks targeting you, and caster level checks required for conjuration (healing) spells to benefit you by 2 (the DC increase applies on the caster level check required to raise you from the dead at corruption stage 1). At manifestation level 3rd, the DCs increase by 4 instead. Your soul flees immediately on death, so you can’t be revived by [*breath of life*](../../../magic/spells/breath-of-life.md), the gift of life domain power, or any similar ability.
 
 ### Passage through the Pit
 
@@ -96,7 +96,7 @@ You gain the persuasive power of a master deceiver.
 
 **Prerequisites**: Manifestation level 3rd, fiendish tutelage*.
 
-**Gift**: You gain a +2 bonus on Bluff and Diplomacy checks. Once per day when you succeed at a Bluff or Diplomacy check against a creature, you can attempt to influence it as if using *suggestion* with a caster level equal to your character level and a duration of 1 minute per level. At manifestation level 6th, the bonuses increase to +4.
+**Gift**: You gain a +2 bonus on Bluff and Diplomacy checks. Once per day when you succeed at a Bluff or Diplomacy check against a creature, you can attempt to influence it as if using [*suggestion*](../../../magic/spells/suggestion.md) with a caster level equal to your character level and a duration of 1 minute per level. At manifestation level 6th, the bonuses increase to +4.
 
 **Stain**: Your tongue takes on a serpentlike fork that can’t be hidden by magic, though you can attempt a Disguise check to conceal it. Attempt one Disguise check per interaction, opposed by your opponent’s Perception. Your devil tongue rebels when you work against infernal interests. When 1 you attempt to cast a spell for a chaotic or good cause (as determined by the GM), you have a 20% spell failure chance if it has a verbal components and a –5 penalty on concentration checks if it has a thought component .
 

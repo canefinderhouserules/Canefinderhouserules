@@ -3,6 +3,7 @@
 **School** conjuration (creation); **Level** cleric 8, occultist 6, psychic 8, sorcerer/wizard 8, summoner 6, witch 8  
 **Casting Time** 4 hours  
 **Components** V, S, F (a forked metal rod worth at least 500 gp)  
+**Range** 0 ft.  
 **Effect** extradimensional demiplane, up to 10 10-ft. cubes/level (S)  
 **Duration** 1 day/level or instantaneous (see text)  
 **Saving Throw** none; **Spell Resistance** no

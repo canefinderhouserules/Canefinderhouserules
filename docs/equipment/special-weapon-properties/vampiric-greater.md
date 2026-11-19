@@ -11,4 +11,4 @@ This special ability functions as the *vampiric* special ability, except that th
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *cure moderate wounds*, *inflict moderate wounds*, *vampiric touch*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md), [*inflict moderate wounds*](../../magic/spells/inflict-moderate-wounds.md), [*vampiric touch*](../../magic/spells/vampiric-touch.md); **Price** —

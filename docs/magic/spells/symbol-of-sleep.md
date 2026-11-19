@@ -10,6 +10,6 @@
 
 This spell functions like [*symbol of death*](symbol-of-death.md), except that all creatures of 10 HD or less within 60 feet of the *symbol of sleep* instead fall into a catatonic slumber for 3d6 × 10 minutes. Unlike with the [*sleep*](sleep.md) spell, sleeping creatures cannot be awakened by nonmagical means before this time expires.
 
-Unlike *symbol of death*, *symbol of sleep* has no hit point limit; once triggered, a *symbol of sleep* simply remains active for 10 minutes per caster level.
+Unlike [*symbol of death*](symbol-of-death.md), *symbol of sleep* has no hit point limit; once triggered, a *symbol of sleep* simply remains active for 10 minutes per caster level.
 
 *Note*: Magic traps such as *symbol of sleep* are hard to detect and disable. A character with trapfinding can use the [Perception](../../rules/skills/perception.md) skill to find a *symbol of sleep* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 30 for *symbol of sleep*.

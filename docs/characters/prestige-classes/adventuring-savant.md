@@ -77,7 +77,7 @@ A 6th-level savant can activate spell-trigger, spell-completion, and command-wor
 
 #### Dispelling Master (Su)
 
-At 7th level, if the savant prepares and casts spells like a wizard, he can spontaneously convert any 3rd-level (or higher-level) prepared spell into [*dispel magic*](../../magic/spells/dispel-magic.md) or any 6th-level (or higher-level) prepared spell into *greater dispel magic*, as a good-aligned cleric converts prepared spells into cure spells. If he casts spells spontaneously, he adds *dispel magic* and *greater dispel magic* to his list of spells known. Every time he successfully uses either of these spells to make a targeted dispel or counterspell, he heals a number of hit points equal to the caster level of the effect dispelled or counterspelled.
+At 7th level, if the savant prepares and casts spells like a wizard, he can spontaneously convert any 3rd-level (or higher-level) prepared spell into [*dispel magic*](../../magic/spells/dispel-magic.md) or any 6th-level (or higher-level) prepared spell into [*greater dispel magic*](../../magic/spells/dispel-magic-greater.md), as a good-aligned cleric converts prepared spells into cure spells. If he casts spells spontaneously, he adds [*dispel magic*](../../magic/spells/dispel-magic.md) and *greater dispel magic* to his list of spells known. Every time he successfully uses either of these spells to make a targeted dispel or counterspell, he heals a number of hit points equal to the caster level of the effect dispelled or counterspelled.
 
 #### Symbol Master (Su)
 

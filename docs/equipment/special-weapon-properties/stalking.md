@@ -13,4 +13,4 @@ If the wielder attacks a creature other than the studied creature, commands the 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *hunter’s eye*, *true strike*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*hunter’s eye*](../../magic/spells/hunters-eye.md), [*true strike*](../../magic/spells/true-strike.md); **Price** —

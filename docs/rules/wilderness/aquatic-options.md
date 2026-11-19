@@ -51,12 +51,12 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 
 **Bonus Feats:** Aquadynamic Focus, Dodge, Lightning Reflexes, Mobility, Skill Focus (Fly), Steam Spell, Toughness.
 
-**Bonus Spells:** *hydraulic push* (7th), *slipstream* (10th), *hydraulic torrent* (13th), *control water* (16th).
+**Bonus Spells:** [*hydraulic push*](../../magic/spells/hydraulic-push.md) (7th), [*slipstream*](../../magic/spells/slipstream.md) (10th), [*hydraulic torrent*](../../magic/spells/hydraulic-torrent.md) (13th), [*control water*](../../magic/spells/control-water.md) (16th).
 
 - **Underwater Attacks (Su, 1st):** bludgeoning and slashing melee attacks underwater ignore the usual penalties.
 - **Aquatic Adaptation (Ex, 4th):** swim speed 30 feet and breathe water and air. 8th: cold resistance 5. 12th: swim speed 60 feet, and the 4th-level benefits are constant, even outside bloodrage.
 - **Watersense (Ex, 8th):** tremorsense 30 feet in water; 60 feet at 12th.
-- **Wavedarter (Sp, Su, 12th):** while underwater, reach +5 feet and the effects of *haste*.
+- **Wavedarter (Sp, Su, 12th):** while underwater, reach +5 feet and the effects of [*haste*](../../magic/spells/haste.md).
 - **Currentcaller (Su, 16th):** three times per day underwater, as a swift action (1 AP) at the start of your turn, call up a current (speed up to 20 feet, direction of your choice) in your space, moving with you until the end of your turn.
 - **Deep Fury (Su, 20th):** tremorsense 120 feet in water, evasion, and immunity to cold and pressure damage, constantly.
 
@@ -71,7 +71,7 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 
 **Aquatic Spirit Abilities (Su).** Underwater, *wave strike* deals lethal bludgeoning damage and pushes the target 5 feet + 5 feet per 6 levels. At 11th level, underwater all weapons she holds have *impact* instead of *quenching*. Instead of a swim speed and water breathing, *fluid mastery* grants tremorsense 30 feet in water, and underwater its torrent deals 1d6 per shaman level in a 30-foot cone.
 
-**Brine Dragon Form (Su).** The true waves spirit lets her assume the form of a Large or smaller brine dragon (*form of the dragon II*) with an acid line breath weapon, acid resistance 20 and swim speed 60 feet, for 1 hour per level per day in 1-hour increments (breath weapon limit applies across the day). Underwater time doesn't count against the limit, but each minute spent flying expends 1 hour. At 18th level, Huge or smaller as *form of the dragon III*. *Replaces the elemental form of the true spirit.*
+**Brine Dragon Form (Su).** The true waves spirit lets her assume the form of a Large or smaller brine dragon ([*form of the dragon II*](../../magic/spells/form-of-the-dragon-ii.md)) with an acid line breath weapon, acid resistance 20 and swim speed 60 feet, for 1 hour per level per day in 1-hour increments (breath weapon limit applies across the day). Underwater time doesn't count against the limit, but each minute spent flying expends 1 hour. At 18th level, Huge or smaller as [*form of the dragon III*](../../magic/spells/form-of-the-dragon-iii.md). *Replaces the elemental form of the true spirit.*
 
 ### Drowned Channeler (Spiritualist Archetype)
 
@@ -79,9 +79,9 @@ Other archetypes suited to aquatic campaigns: aquatic druid, sea singer bard, se
 
 **Drowned Phantom.** The phantom has a swim speed of 30 feet in both forms and the water subtype, so its slam attacks take no underwater penalty. The etheric tether extends twice as far underwater but half as far above water. The phantom grants no benefits while in the channeler's consciousness unless she is within 25 feet of a large body of water. Both bonded manifestation forms grant the channeler the swim speed, and ectoplasmic tendril attacks take no bludgeoning penalty underwater. *Alters phantom, shared consciousness, etheric tether and bonded manifestation.*
 
-**Drowned Spells (2nd).** Adds *control water*, *fluid form*, *hydraulic push*, *hydraulic torrent*, *life current*, *pressure adaptation*, *ride the waves*, *slipstream*, *stabilize pressure*, *unlife current*, *water breathing* and *wave form* to her spell list at the lowest level they appear on the cleric or sorcerer/wizard list; she must still select them as spells known. *Replaces bonded senses.*
+**Drowned Spells (2nd).** Adds [*control water*](../../magic/spells/control-water.md), [*fluid form*](../../magic/spells/fluid-form.md), [*hydraulic push*](../../magic/spells/hydraulic-push.md), [*hydraulic torrent*](../../magic/spells/hydraulic-torrent.md), [*life current*](../../magic/spells/life-current.md), [*pressure adaptation*](../../magic/spells/pressure-adaptation.md), [*ride the waves*](../../magic/spells/ride-the-waves.md), [*slipstream*](../../magic/spells/slipstream.md), [*stabilize pressure*](../../magic/spells/stabilize-pressure.md), [*unlife current*](../../magic/spells/unlife-current.md), [*water breathing*](../../magic/spells/water-breathing.md) and [*wave form*](../../magic/spells/wave-form.md) to her spell list at the lowest level they appear on the cleric or sorcerer/wizard list; she must still select them as spells known. *Replaces bonded senses.*
 
-**Drowned Powers (Sp).** 5th: *hydraulic push* 1/day (+1/day at 9th and every 4 levels). 7th: *slipstream* 1/day (+1/day at 11th and every 4 levels). 9th: *ride the waves* 1/day. 16th: *fluid form* 1/day. *Replaces detect undead, calm spirit, see invisibility and call spirit.*
+**Drowned Powers (Sp).** 5th: [*hydraulic push*](../../magic/spells/hydraulic-push.md) 1/day (+1/day at 9th and every 4 levels). 7th: [*slipstream*](../../magic/spells/slipstream.md) 1/day (+1/day at 11th and every 4 levels). 9th: [*ride the waves*](../../magic/spells/ride-the-waves.md) 1/day. 16th: [*fluid form*](../../magic/spells/fluid-form.md) 1/day. *Replaces detect undead, calm spirit, see invisibility and call spirit.*
 
 ### Oceanrider (Cavalier Archetype)
 
@@ -107,11 +107,11 @@ Some paladins are called by empathic visions and dreams that beckon them to the 
 
 **Armor Proficiency and Class Skills.** Light and medium armor, no shields; Swim is a class skill.
 
-**Seek Impressions (Ex, Sp).** Gains Psychic Sensitivity as a bonus feat and can use *detect psychic significance* at will. *Replaces detect evil.*
+**Seek Impressions (Ex, Sp).** Gains Psychic Sensitivity as a bonus feat and can use [*detect psychic significance*](../../magic/spells/detect-psychic-significance.md) at will. *Replaces detect evil.*
 
 **Aquatic Domain (Su).** At 3rd level, the 1st-level domain power of the Aquatic terrain domain (paladin level as druid level); at 8th level the 6th-level power. *Replaces aura of courage and aura of resolve.*
 
-**Vision Magic.** Casts divine spells spontaneously, using the bloodrager's spells known and per day progression. Bonus spells known: *slipstream* (7th), *ride the waves* (10th), *fluid form* (13th), *sea mantle* (16th). Adds *hydraulic push* (1st) and *hydraulic torrent* (3rd) to her list.
+**Vision Magic.** Casts divine spells spontaneously, using the bloodrager's spells known and per day progression. Bonus spells known: [*slipstream*](../../magic/spells/slipstream.md) (7th), [*ride the waves*](../../magic/spells/ride-the-waves.md) (10th), [*fluid form*](../../magic/spells/fluid-form.md) (13th), *sea mantle* (16th). Adds [*hydraulic push*](../../magic/spells/hydraulic-push.md) (1st) and [*hydraulic torrent*](../../magic/spells/hydraulic-torrent.md) (3rd) to her list.
 
 **Divine Hippocampus (5th).** Her divine bond must be a hippocampus: Size Large; Speed 5 ft., swim 80 ft.; AC +4 natural armor; Attack bite (1d6), tail slap (1d4, secondary); Str 18, Dex 13, Con 15, Int 2, Wis 12, Cha 11; SQ darkvision 60 ft., low-light vision, scent, water dependency. *Alters divine bond, replaces channel positive energy.*
 
@@ -131,7 +131,7 @@ Some paladins are called by empathic visions and dreams that beckon them to the 
 | Kraken | Jet ability with speed equal to the higher of base land speed or four times swim speed; five times at 8th, seven times at 15th |
 | Reefclaw | Diehard as a bonus feat; at 12th level instead ferocity |
 | Scylla | Attacks deal 1 bleed damage (1d3 at 8th, 1d6 at 15th) |
-| Sea Serpent | Under a *nondetection* spell, caster level equal to the hunter's class level |
+| Sea Serpent | Under a [*nondetection*](../../magic/spells/nondetection.md) spell, caster level equal to the hunter's class level |
 | Selkie | +4 competence bonus on Bluff (+6 at 8th, +8 at 15th) |
 | Shoggoth | +2 on Perception and flanking bonuses against it reduced by 1 (Perception +3 at 8th, +4 at 15th); can't be flanked at 12th |
 | Siyokoy | Attacks deal 1 extra electricity damage (1d3 at 8th, 1d6 at 15th) |
@@ -214,7 +214,7 @@ When gaining a combat style feat, the ranger may choose Aquadynamic Focus, Aquad
 
 ## Aquatic Spells
 
-See also *buoyancy* as an emergency spell granting several targets swiftly rising buoyancy.
+See also [*buoyancy*](../../magic/spells/buoyancy.md) as an emergency spell granting several targets swiftly rising buoyancy.
 
 ### Aquatic Trail
 
@@ -241,7 +241,7 @@ The target's buoyancy becomes and stays swiftly rising regardless of how dense i
 **Range** touch; **Target** creature touched; **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target moves and attacks underwater normally without the usual penalties, as if under *freedom of movement*, but gains no protection against grapple, paralysis and magical effects that impede movement (*solid fog*, *slow*, *web*).
+The target moves and attacks underwater normally without the usual penalties, as if under [*freedom of movement*](../../magic/spells/freedom-of-movement.md), but gains no protection against grapple, paralysis and magical effects that impede movement ([*solid fog*](../../magic/spells/solid-fog.md), [*slow*](../../magic/spells/slow.md), [*web*](../../magic/spells/web.md)).
 
 ### Invisibility Bubble
 
@@ -307,13 +307,13 @@ The target instantly adjusts to its current pressure all at once. This doesn't h
 **Casting Time** 1 standard action (1 AP); **Components** V, S, M (a scraping from a hydrothermal vent)  
 **Range** personal; **Target** you; **Duration** 1 round/level
 
-For the duration you can fire three rays of steam once per round as a standard action (1 AP) (and three as part of casting). They function like *scorching ray* (close range, ranged touch attacks, 4d6 fire damage each, spell resistance applies), but work underwater and above water without a caster level check for being a fire spell.
+For the duration you can fire three rays of steam once per round as a standard action (1 AP) (and three as part of casting). They function like [*scorching ray*](../../magic/spells/scorching-ray.md) (close range, ranged touch attacks, 4d6 fire damage each, spell resistance applies), but work underwater and above water without a caster level check for being a fire spell.
 
 ### Unlife Current
 
 **School** conjuration (healing) [water]; **Level** antipaladin 3, cleric 3, druid 3, ranger 3, shaman 3
 
-As *life current*, but with negative energy: it heals undead and harms living creatures.
+As [*life current*](../../magic/spells/life-current.md), but with negative energy: it heals undead and harms living creatures.
 
 ### Wave Form
 

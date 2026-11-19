@@ -144,7 +144,7 @@ The following hexes are available to all witches and use the standard rules for 
 
 **Iceplant (Su)**: (1 AP) This hex grants the witch and her familiar a +2 natural armor bonus and the constant effects of [*endure elements*](../../magic/spells/endure-elements.md). The effect leaves the witch's skin thick and stiff to the touch.
 
-**Leshy Summoning (Su)**: (1 AP) The witch counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to the list of creatures she can summon with *summon monster I*, *II*, *III*, *IV*, and *V*, respectively.
+**Leshy Summoning (Su)**: (1 AP) The witch counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to the list of creatures she can summon with [*summon monster I*](../../magic/spells/summon-monster-i.md), *II*, *III*, *IV*, and *V*, respectively.
 
 **No Place Like Home (Su)**: (1 AP) The witch fills an ally with the safety he feels at home or inflicts pangs of homesickness to hamper an enemy’s defenses. She chooses a target for the hex within 30 feet. If she chooses an ally, that ally gains a +2 dodge bonus to AC against traps and on Reflex saves against traps. If she chooses an opponent, that opponent takes a –2 penalty to AC against traps and on Reflex saves against traps. Either way, the effects last for 1 minute. The target can attempt a Will save to negate the effects of the hex. At 8th level, the bonus or penalty increases to 4. At 16th level, the bonus or penalty increases to 6. A creature targeted by this hex cannot be targeted again by this hex for 1 day.
 

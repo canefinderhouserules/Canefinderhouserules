@@ -3,6 +3,7 @@
 **School** illusion (figment); **Level** antipaladin 4, magus 6, mesmerist 4, occultist 5, psychic 5, sorcerer/wizard 6  
 **Casting Time** 1 standard action (1 AP)  
 **Components** S, F (a tiny marionette)  
+**Range** close (25 ft. + 5 ft./2 levels)  
 **Target** you and one creature  
 **Duration** 1 round/level (D)  
 **Saving Throw** Will disbelief; **Spell Resistance** yes

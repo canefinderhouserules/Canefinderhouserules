@@ -54,7 +54,7 @@ Your representative must attempt a Diplomacy check. The DC is determined using t
 
 **Attitude**: Much like the starting attitude of an NPC, the target kingdom’s initial attitude toward you is indifferent, though the GM may modify this based on alignment differences, your shared history, culture, warfare, espionage, racial tensions, and other factors in the campaign world. These factors may also influence the Diplomacy DC for using this edict (generally increasing the DC by 5 for every attitude step worse than helpful).
 
-The act of making this Diplomacy check takes place over several days, with the emissary socializing with representatives of the target kingdom, discussing common interests and the benefits and goals of entering a diplomatic agreement with your kingdom. Because this check is not a singular event, abilities and spells that modify a single roll have no effect on this check unless they last at least 24 hours (for example, *glibness* does not affect this check).
+The act of making this Diplomacy check takes place over several days, with the emissary socializing with representatives of the target kingdom, discussing common interests and the benefits and goals of entering a diplomatic agreement with your kingdom. Because this check is not a singular event, abilities and spells that modify a single roll have no effect on this check unless they last at least 24 hours (for example, [*glibness*](../../../magic/spells/glibness.md) does not affect this check).
 
 ### Type of Diplomatic Relationships
 

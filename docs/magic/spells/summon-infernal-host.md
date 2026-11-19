@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as *summon monster V*, save that it can only be used to summon host devils. These noxious flying devils are also known as gaavs and magaavs.
+This spell functions as [*summon monster V*](summon-monster-v.md), save that it can only be used to summon host devils. These noxious flying devils are also known as gaavs and magaavs.

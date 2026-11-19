@@ -13,4 +13,4 @@ Even if the *shock* ability is not active, the weapon still deals its extra elec
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *call lightning* or *lightning bolt*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*call lightning*](../../magic/spells/call-lightning.md) or [*lightning bolt*](../../magic/spells/lightning-bolt.md); **Price** —

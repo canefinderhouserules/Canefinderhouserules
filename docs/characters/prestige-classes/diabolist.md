@@ -16,7 +16,7 @@ To qualify to become a diabolist, a character must fulfill all of the following 
 
 **Spells**: Ability to cast 1st-level spells.
 
-**Special**: Must worship an archdevil, infernal duke, or malebranche; must have conjured a devil using *lesser planar ally* or* lesser planar binding* (or a similar spell) to successfully command the devil to perform a task that takes a minimum of 1 day to complete.
+**Special**: Must worship an archdevil, infernal duke, or malebranche; must have conjured a devil using [*lesser planar ally*](../../magic/spells/planar-ally-lesser.md) or* lesser planar binding* (or a similar spell) to successfully command the devil to perform a task that takes a minimum of 1 day to complete.
 
 ??? note "Original requirements"
 
@@ -30,7 +30,7 @@ To qualify to become a diabolist, a character must fulfill all of the following 
 
     **Spells**: Ability to cast at least two conjuration spells of two different spell levels.
 
-    **Special**: Must worship an archdevil, infernal duke, or malebranche; must have conjured a devil using *lesser planar ally* or* lesser planar binding* (or a similar spell) to successfully command the devil to perform a task that takes a minimum of 1 day to complete.
+    **Special**: Must worship an archdevil, infernal duke, or malebranche; must have conjured a devil using [*lesser planar ally*](../../magic/spells/planar-ally-lesser.md) or* lesser planar binding* (or a similar spell) to successfully command the devil to perform a task that takes a minimum of 1 day to complete.
 
 **Class Skills**
 

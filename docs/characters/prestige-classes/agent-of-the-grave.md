@@ -48,7 +48,7 @@ At every level, an agent of the grave gains new spells per day (and spells known
 
 #### Inspired Necromancy (Ex)
 
-Agent of the grave levels count double when determining the total Hit Dice of undead you can control with spells such as *animate dead*. This does not change how many undead one casting creates.
+Agent of the grave levels count double when determining the total Hit Dice of undead you can control with spells such as [*animate dead*](../../magic/spells/animate-dead.md). This does not change how many undead one casting creates.
 
 #### Lich’s Touch (Su)
 
@@ -72,7 +72,7 @@ Your mind-affecting spells and spell-like abilities treat undead as their origin
 
 #### Negative Energy Conduit (Ex)
 
-Once per day, as a standard action (1 AP), you can create an aura identical to [*desecrate*](../../magic/spells/desecrate.md) that lasts 10 minutes per level. Undead you create are treated as created within a *desecrate* area.
+Once per day, as a standard action (1 AP), you can create an aura identical to [*desecrate*](../../magic/spells/desecrate.md) that lasts 10 minutes per level. Undead you create are treated as created within a [*desecrate*](../../magic/spells/desecrate.md) area.
 
 #### Death’s Shroud (Su)
 

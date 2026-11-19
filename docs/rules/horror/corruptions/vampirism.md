@@ -12,7 +12,7 @@ Vampirism progresses when you feed off and kill a sentient creature. Each week, 
 
 **Corruption Stage 1**: Once you feed on an innocent sentient creature, your alignment shifts one step toward evil and spells that detect undead sense you, though the peculiar result they return informs the caster that you’re still a living creature. Other spells and effects don’t treat you as undead.
 
-**Corruption Stage 2**: The second time this happens, your alignment shifts another step toward evil and you are affected by spells and abilities as if your creature type were undead (including *bane* and the favored enemy class feature). This doesn’t grant you any of the immunities of being undead, nor does it make you immune to effects that target living creatures or change how negative and positive energy affect you.
+**Corruption Stage 2**: The second time this happens, your alignment shifts another step toward evil and you are affected by spells and abilities as if your creature type were undead (including [*bane*](../../../magic/spells/bane.md) and the favored enemy class feature). This doesn’t grant you any of the immunities of being undead, nor does it make you immune to effects that target living creatures or change how negative and positive energy affect you.
 
 **Corruption Stage 3**: The third time this occurs, you become an NPC vampire under the GM’s control.
 
@@ -36,7 +36,7 @@ You can influence others subtly, but lose your reflection.
 
 You can summon foul beasts to faithfully serve you.
 
-**Gift**: Once per day, you can summon a rat swarm or a wolf, as if using *summon nature’s ally II* with a caster level equal to your character level. The creature serves you for 10 minutes or until destroyed. At manifestation level 3rd and every 2 manifestation levels thereafter, you can use this ability an additional time each day. At manifestation level 4th, you can spend two daily uses of this ability to summon a bat swarm.
+**Gift**: Once per day, you can summon a rat swarm or a wolf, as if using [*summon nature’s ally II*](../../../magic/spells/summon-natures-ally-ii.md) with a caster level equal to your character level. The creature serves you for 10 minutes or until destroyed. At manifestation level 3rd and every 2 manifestation levels thereafter, you can use this ability an additional time each day. At manifestation level 4th, you can spend two daily uses of this ability to summon a bat swarm.
 
 **Stain**: You take a –3 penalty on Handle Animal and Ride checks against animals (except those you summon with this manifestation’s gift). At manifestation level 5th, you affect non-hostile animals as if you had an unnatural aura (*Bestiary* 281).
 
@@ -46,7 +46,7 @@ Your powers of persuasion allow you to compel the weak.
 
 **Prerequisite**: Allure*.
 
-**Gift**: Once per day when you succeed at a Bluff, Diplomacy, or Intimidate check against a creature, you can charm that creature as if using *charm monster* with a caster level equal to your character level. If the creature fails its save, it’s charmed for a number of minutes equal to your character level.
+**Gift**: Once per day when you succeed at a Bluff, Diplomacy, or Intimidate check against a creature, you can charm that creature as if using [*charm monster*](../../../magic/spells/charm-monster.md) with a caster level equal to your character level. If the creature fails its save, it’s charmed for a number of minutes equal to your character level.
 
 **Stain**: You no longer cast a shadow. Noticing this in normal or bright light requires a successful DC 15 Perception check. Also, if you’re in an area that smells strongly of garlic, you must succeed at a DC 20 Fortitude save or be sickened for 1d4 minutes. Immunities don’t prevent this sickened condition.
 
@@ -84,9 +84,9 @@ You can cheat death.
 
 **Prerequisites**: Manifestation level 3rd, greater unlife*, unlife*.
 
-**Gift**: When you’re reduced to fewer than 0 hit points but not slain and you have a use of fast healing remaining, you immediately assume *gaseous form*, activate your fast healing, and remain conscious. Once you have more than 0 1 hit points, the effect ends. This delays the normal Will save against your corruption progressing until *gaseous form* ends.
+**Gift**: When you’re reduced to fewer than 0 hit points but not slain and you have a use of fast healing remaining, you immediately assume [*gaseous form*](../../../magic/spells/gaseous-form.md), activate your fast healing, and remain conscious. Once you have more than 0 1 hit points, the effect ends. This delays the normal Will save against your corruption progressing until *gaseous form* ends.
 
-**Stain**: If you remain in direct sunlight, at the end of your second turn you burst into flame, taking 1d6 points of fire damage per manifestation level you have each round. This fire damage bypasses resistance or immunity and can’t be prevented. The fire damage and staggered condition end as soon as you get out of direct sunlight. If you are reduced to fewer than 0 hit points while in direct sunlight, you are slain and can’t be brought back to life without *true resurrection*.
+**Stain**: If you remain in direct sunlight, at the end of your second turn you burst into flame, taking 1d6 points of fire damage per manifestation level you have each round. This fire damage bypasses resistance or immunity and can’t be prevented. The fire damage and staggered condition end as soon as you get out of direct sunlight. If you are reduced to fewer than 0 hit points while in direct sunlight, you are slain and can’t be brought back to life without [*true resurrection*](../../../magic/spells/true-resurrection.md).
 
 ### Unlife
 
@@ -104,6 +104,6 @@ You move with a predator’s grace.
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: You gain Dodge as a bonus feat and a +2 racial bonus on Stealth checks. At manifestation level 6th, you can climb walls (as per *spider climb*) at will.
+**Gift**: You gain Dodge as a bonus feat and a +2 racial bonus on Stealth checks. At manifestation level 6th, you can climb walls (as per [*spider climb*](../../../magic/spells/spider-climb.md)) at will.
 
 **Stain**: You can enter a private dwelling only if invited in by someone with the authority to do so, unless you succeed at a DC 30 Will save. If you fail, you can never retry the save, but you can enter if you’re later invited inside.

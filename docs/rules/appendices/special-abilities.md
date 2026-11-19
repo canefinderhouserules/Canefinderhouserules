@@ -17,9 +17,9 @@ The following special abilities include rules commonly used by a number of creat
 | Antimagic field | No | Yes | Yes |
 | Attack of opportunity | No | Yes | No |
 
-- **Dispel:** Can *dispel magic* and similar spells dispel the effects of abilities of that type?
+- **Dispel:** Can [*dispel magic*](../../magic/spells/dispel-magic.md) and similar spells dispel the effects of abilities of that type?
 - **Spell Resistance:** Does spell resistance protect a creature from these abilities?
-- **Antimagic Field:** Does an *antimagic field* or similar magic suppress the ability?
+- **Antimagic Field:** Does an [*antimagic field*](../../magic/spells/antimagic-field.md) or similar magic suppress the ability?
 - **Attack of Opportunity:** Does using the ability provoke attacks of opportunity the way that casting a spell does?
 
 ## Ability Score Bonuses

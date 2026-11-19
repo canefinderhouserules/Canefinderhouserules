@@ -39,11 +39,11 @@ Once you have selected a set of racial traits, check with your GM to verify that
 | Ogrekin | Natural armor | 2 |
 | Orc | Orc ferocity | 2 |
 | Oread | Stonesinger | 1 |
-| Skinwalker | Spell-like ability, lesser (*speak with animals*) | 1 |
+| Skinwalker | Spell-like ability, lesser ([*speak with animals*](../../magic/spells/speak-with-animals.md)) | 1 |
 | Skum | Natural armor | 2 |
 | Suli | Skill bonus (Diplomacy) | 2 |
 | Sylph | Gliding wings | 3 |
-| Tiefling | Spell-like ability, lesser (*darkness*) | 2 |
+| Tiefling | Spell-like ability, lesser ([*darkness*](../../magic/spells/darkness.md)) | 2 |
 | Undine | Swim | 2 |
 
 \* These racial traits are based on monster abilities. The listed RP costs for these abilities are subject to GM discretion.

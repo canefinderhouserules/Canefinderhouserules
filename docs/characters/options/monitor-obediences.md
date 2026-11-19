@@ -63,7 +63,7 @@ Monitors are listed by their portfolio rather than by name.
 ### Evangelist Boons
 
 1. **Know Who Passed (Sp)**: [*alarm*](../../magic/spells/alarm.md) 3/day, [*perceive cues*](../../magic/spells/perceive-cues.md) 2/day, or [*speak with dead*](../../magic/spells/speak-with-dead.md) 1/day
-2. **Wings of the Wanderer (Su)**: As a standard action (1 AP), you can assume the form of a giant raven as if using the spell *beast shape II*. While in this form, you gain the raven’s scavenger extraordinary ability, a +2 insight bonus to AC, and a +3 insight bonus on [Perception](../../rules/skills/perception.md) checks. You can retain this form for 1 hour per HD you have; this time does not need to be consecutive, but it must be used in 1-hour increments. While in raven form, you can increase or decrease your size as a standard action (1 AP), as if you had cast [*reduce person*](../../magic/spells/reduce-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md) (self only); these spells have their normal duration, treating your Hit Dice as your caster level, but casting either consumes 1 hour of your daily shapeshifting allotment.
+2. **Wings of the Wanderer (Su)**: As a standard action (1 AP), you can assume the form of a giant raven as if using the spell [*beast shape II*](../../magic/spells/beast-shape-ii.md). While in this form, you gain the raven’s scavenger extraordinary ability, a +2 insight bonus to AC, and a +3 insight bonus on [Perception](../../rules/skills/perception.md) checks. You can retain this form for 1 hour per HD you have; this time does not need to be consecutive, but it must be used in 1-hour increments. While in raven form, you can increase or decrease your size as a standard action (1 AP), as if you had cast [*reduce person*](../../magic/spells/reduce-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md) (self only); these spells have their normal duration, treating your Hit Dice as your caster level, but casting either consumes 1 hour of your daily shapeshifting allotment.
 3. **Terrain Dominance**: Your passage is rarely impeded by landscapes or weather. For every 5 HD you have, you gain one terrain dominance as if you were a horizon walker; you do not need to have the terrain mastery class feature to select a terrain dominance. If you do not have a favored terrain bonus from another source, treat your favored terrain bonus as +2 when dealing with creatures native to the terrains over which you have dominance; you do not otherwise gain the benefits of favored terrain.
 
 ### Exalted Boons
@@ -164,7 +164,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ### Boons
 
-1. **Ruled by Passion (Sp)**: [*remove fear*](../../magic/spells/remove-fear.md) 3/day, *aid* 2/day, or [*detect desires*](../../magic/spells/detect-desires.md) 1/day
+1. **Ruled by Passion (Sp)**: [*remove fear*](../../magic/spells/remove-fear.md) 3/day, [*aid*](../../magic/spells/aid.md) 2/day, or [*detect desires*](../../magic/spells/detect-desires.md) 1/day
 2. **Death's Lover (Ex)**: You gain Diplomacy and Sense Motive as class skills, and you gain a bonus on checks using these skills equal to half your Hit Dice.
 3. **Hands of Death (Su)**: Once per day, you can call upon a whirling mass of daggers and swords that functions as a [*blade barrier*](../../magic/spells/blade-barrier.md). This effect lasts only 1 round per Hit Die, but you can direct it to move up to 30 feet or reshape itself from a wall to circle once each round as a move action (1 AP).
 
@@ -254,7 +254,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ### None Boons
 
-1. **Serpent’s Kiss (Sp)**: [*polypurpose panacea*](../../magic/spells/polypurpose-panacea.md) 3/day, [*touch injection*](../../magic/spells/touch-injection.md) 2/day, or *sands of time* 1/day
+1. **Serpent’s Kiss (Sp)**: [*polypurpose panacea*](../../magic/spells/polypurpose-panacea.md) 3/day, [*touch injection*](../../magic/spells/touch-injection.md) 2/day, or [*sands of time*](../../magic/spells/sands-of-time.md) 1/day
 2. **Breath of Life (Sp)**: You can cast [*restoration*](../../magic/spells/restoration.md) once per day.
 3. **Wonders of Age (Su)**: You no longer take ability score penalties from aging and cannot be magically aged. Any penalties you may have already incurred remain in place, however. Bonuses still accrue, and you still die of old age when your time is up.
 

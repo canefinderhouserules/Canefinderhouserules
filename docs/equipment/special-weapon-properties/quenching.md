@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. A *quenching* weapon t
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *chill metal*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*chill metal*](../../magic/spells/chill-metal.md); **Price** —

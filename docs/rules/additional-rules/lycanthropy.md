@@ -14,11 +14,11 @@ Lycanthropy is a curse, and while some unscrupulous types may seek this "gift of
 
 ## Curing Lycanthropy
 
-Natural lycanthropes and skinwalkers can't use these methods to rid themselves of their ancestry; for them there is virtually no hope of a cure, save perhaps a *miracle* or *wish*.
+Natural lycanthropes and skinwalkers can't use these methods to rid themselves of their ancestry; for them there is virtually no hope of a cure, save perhaps a [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md).
 
 **Herbalism**: The most accessible true cure lies in the potent and poisonous leaves of herbs such as wolfsbane and belladonna. Unfortunately for a were-creature, the effects of these remedies are as dangerous and difficult to resist as the curse itself. They are often sold in mysterious solutions, at a significant markup, by snake-oil salespeople.
 
-**Magic**: Spells like *remove disease* and *heal* are more definitive and safer ways to break the curse, as long as they are cast by a holy person of sufficient skill (typically a cleric of 12th level or higher). The window in which such treatments function is short: healers have only 3 days after a victim's exposure to the curse. After the 3-day window has passed, a victim's only chance of a cure through magic is a *remove curse* spell, cast by a cleric of 12th level or higher, during the time of the victim's transformation.
+**Magic**: Spells like [*remove disease*](../../magic/spells/remove-disease.md) and [*heal*](../../magic/spells/heal.md) are more definitive and safer ways to break the curse, as long as they are cast by a holy person of sufficient skill (typically a cleric of 12th level or higher). The window in which such treatments function is short: healers have only 3 days after a victim's exposure to the curse. After the 3-day window has passed, a victim's only chance of a cure through magic is a [*remove curse*](../../magic/spells/remove-curse.md) spell, cast by a cleric of 12th level or higher, during the time of the victim's transformation.
 
 **Other Remedies**: Many folk remedies exist to offer false hope, and in some cases to cause real damage. Many of these "cures" are tantamount to torture, given an air of legitimacy by silver tools or ritual. Beating a subject unconscious on the eve of a full moon may stop her from wreaking havoc when transformed, but it is no cure.
 

@@ -25,7 +25,7 @@ Any NPC of any class can grant a boon; these lists are a guide for creating your
 - **Skill**: Favorable introductions to contacts in a local church, providing a PC a +2 bonus on Diplomacy checks made to influence members of that specific church.
 - **Skill**: Proves especially knowledgeable in mysterious alchemical techniques, granting a PC a +4 bonus on one Craft (alchemy) check made to create an alchemical item.
 - **Unique**: Can brew four unique potions that instantly heal the disease filth fever.
-- **Unique**: Allows the PC to commune with the spirit animal of his tribe, granting the ability to *speak with animals* of a specific regional species once per day.
+- **Unique**: Allows the PC to commune with the spirit animal of his tribe, granting the ability to [*speak with animals*](../../magic/spells/speak-with-animals.md) of a specific regional species once per day.
 
 ### Aristocrat
 

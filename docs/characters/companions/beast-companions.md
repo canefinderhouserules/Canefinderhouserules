@@ -10,7 +10,7 @@ The following creatures can be chosen as beast companions by a character with th
 
 **9th-Level Advancement**: AC +2 natural armor; Ability Scores Dex +4, Con +4; Attack bite (1d6); Special Qualities gaze (three times per day).
 
-**Mastery (11th level)**: The basilisk's gaze attack functions as *flesh to stone* (caster level equals basilisk's HD) instead of inflicting paralysis.
+**Mastery (11th level)**: The basilisk's gaze attack functions as [*flesh to stone*](../../magic/spells/flesh-to-stone.md) (caster level equals basilisk's HD) instead of inflicting paralysis.
 
 ## Behir
 

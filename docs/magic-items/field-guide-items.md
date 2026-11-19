@@ -10,7 +10,7 @@ Magic items favored by explorer's societies and the field agents who delve into 
 
 Armor of comfort sheds dirt and sweat as they accumulate, and remains as comfortable as weather-appropriate clothing regardless of environmental conditions. A suit of armor with this enhancement always looks immaculately clean, can be slept in as though it were light armor, and does not cause a penalty to the wearer's saving throws to resist the effects of extreme heat. In cold weather, it counts as cold-weather clothing. In addition, the armor's armor check penalty is reduced by 1 (to a minimum of 0).
 
-*Construction* Craft Magic Arms and Armor, *endure elements*, *prestidigitation*.
+*Construction* Craft Magic Arms and Armor, [*endure elements*](../magic/spells/endure-elements.md), [*prestidigitation*](../magic/spells/prestidigitation.md).
 
 ### Trapwarding
 
@@ -18,7 +18,7 @@ Armor of comfort sheds dirt and sweat as they accumulate, and remains as comfort
 
 A suit of trapwarding armor helps to protect the wearer against all manner of traps. The wearer gains a luck bonus on all saving throws against traps equal to the armor's enhancement bonus.
 
-*Construction* Craft Magic Arms and Armor, *find traps*.
+*Construction* Craft Magic Arms and Armor, [*find traps*](../magic/spells/find-traps.md).
 
 ## Weapon Special Abilities
 
@@ -40,23 +40,23 @@ Derived from the patient distillation of rare magical reagents, a pinch of this 
 
 This apparently simple coin, usually styled to resemble ancient currency, hides intricate gold and platinum wires within. This matrix causes the coin to rise an inch into the air and slowly spin in place if placed atop a wayfinder (see below). In addition, when levitating above a wayfinder, the coin can be given a message of 25 words or fewer. This message repeats in the speaker's voice the next time the coin is floated above a wayfinder. Only one message may be stored at a time, and once it is triggered, the message is expended and a new one may be recorded.
 
-*Construction* Craft Wondrous Item, *identify*, *levitate*, *magic mouth*; Cost 750 gp.
+*Construction* Craft Wondrous Item, [*identify*](../magic/spells/identify.md), [*levitate*](../magic/spells/levitate.md), [*magic mouth*](../magic/spells/magic-mouth.md); Cost 750 gp.
 
 ### Field Scrivener's Desk
 
 *Aura* faint evocation; *CL* 5th; *Slot* none; *Price* 5,400 gp; *Weight* 2 lbs.
 
-Explorers are often called upon to take notes during their adventures, but sometimes finding a place where one can write in comfort while on a mission can be rather difficult. This magic desk can be folded up into a 3-inch-wide cube of lacquered wood for easy transport. Once per day, a single command causes this block of wood to unfold in the space of 1 round into an exquisite writing desk sized for a Small or Medium author, complete with four vials of ink, two writing quills, and 50 blank sheets of paper. The desk creates new supplies of ink, quills, and paper each time it is unfolded. Once the desk is unfolded, it creates a 20-foot-radius hemisphere centered on the desk's location—this effect is identical to that created by a *tiny hut* spell. Once activated, the desk's *tiny hut* effect lasts for up to 10 hours or until the desk is folded up or moved more than a few inches. Of course, the effect also works to provide an ideal spot for a campsite, and in most parties a field scrivener's desk is used solely for this effect.
+Explorers are often called upon to take notes during their adventures, but sometimes finding a place where one can write in comfort while on a mission can be rather difficult. This magic desk can be folded up into a 3-inch-wide cube of lacquered wood for easy transport. Once per day, a single command causes this block of wood to unfold in the space of 1 round into an exquisite writing desk sized for a Small or Medium author, complete with four vials of ink, two writing quills, and 50 blank sheets of paper. The desk creates new supplies of ink, quills, and paper each time it is unfolded. Once the desk is unfolded, it creates a 20-foot-radius hemisphere centered on the desk's location—this effect is identical to that created by a [*tiny hut*](../magic/spells/tiny-hut.md) spell. Once activated, the desk's *tiny hut* effect lasts for up to 10 hours or until the desk is folded up or moved more than a few inches. Of course, the effect also works to provide an ideal spot for a campsite, and in most parties a field scrivener's desk is used solely for this effect.
 
-*Construction* Craft Wondrous Item, *shrink item*, *tiny hut*; Cost 2,700 gp.
+*Construction* Craft Wondrous Item, [*shrink item*](../magic/spells/shrink-item.md), [*tiny hut*](../magic/spells/tiny-hut.md); Cost 2,700 gp.
 
 ### Fortifying Stone
 
 *Aura* moderate evocation; *CL* 7th; *Slot* none; *Price* 1,000 gp; *Weight* —
 
-On command, this semiprecious stone adheres to an object weighing not more than 100 pounds. As long as it is attached, the stone increases the object's hardness by 5, its break DC by 5, and its hit points by 20. Like temporary hit points, these additional hit points are lost first when the object the stone is protecting is damaged, and once they are exhausted, the fortifying stone is destroyed. However, unlike temporary hit points, they can be completely restored by repairing the fortifying stone via a single casting of a *make whole* spell. Any effect that breaks or destroys the protected object also destroys any attached fortifying stones.
+On command, this semiprecious stone adheres to an object weighing not more than 100 pounds. As long as it is attached, the stone increases the object's hardness by 5, its break DC by 5, and its hit points by 20. Like temporary hit points, these additional hit points are lost first when the object the stone is protecting is damaged, and once they are exhausted, the fortifying stone is destroyed. However, unlike temporary hit points, they can be completely restored by repairing the fortifying stone via a single casting of a [*make whole*](../magic/spells/make-whole.md) spell. Any effect that breaks or destroys the protected object also destroys any attached fortifying stones.
 
-*Construction* Craft Wondrous Item, *stoneskin*; Cost 500 gp.
+*Construction* Craft Wondrous Item, [*stoneskin*](../magic/spells/stoneskin.md); Cost 500 gp.
 
 ### Fortunate Charm
 
@@ -64,15 +64,15 @@ On command, this semiprecious stone adheres to an object weighing not more than 
 
 Once per day, this good luck charm allows the wearer to reroll a single skill check or concentration check after the success or failure of the original roll is known. The result of the reroll must be kept, even if it is worse than the original roll. The charm may not be used on a skill check that's already been rerolled by some other means.
 
-*Construction* Craft Wondrous Item, *divine favor*; Cost 1,500 gp.
+*Construction* Craft Wondrous Item, [*divine favor*](../magic/spells/divine-favor.md); Cost 1,500 gp.
 
 ### Pipes of Shifting Tempo
 
 *Aura* faint transmutation; *CL* 5th; *Slot* none; *Price* 18,000 gp; *Weight* 2 lbs.
 
-In outer construction and manner of play, pipes of shifting tempo resemble a typical set of unremarkable pan pipes, but the complex chambers within the pipes are modeled after difficult-to-duplicate ancient instruments. Music created by these pipes sounds unusually mournful, with a strange, almost warbling subtext to the notes. Up to three times per day, a user can attempt to harness these pipes' power by making a DC 15 Perform (wind instruments) check as a standard action (1 AP). With a successful check, the possessor can play a grave melody to cast *slow* or an allegro melody to cast *haste*. The resulting spell functions as normal for the item's caster level, affecting five creatures per casting.
+In outer construction and manner of play, pipes of shifting tempo resemble a typical set of unremarkable pan pipes, but the complex chambers within the pipes are modeled after difficult-to-duplicate ancient instruments. Music created by these pipes sounds unusually mournful, with a strange, almost warbling subtext to the notes. Up to three times per day, a user can attempt to harness these pipes' power by making a DC 15 Perform (wind instruments) check as a standard action (1 AP). With a successful check, the possessor can play a grave melody to cast [*slow*](../magic/spells/slow.md) or an allegro melody to cast [*haste*](../magic/spells/haste.md). The resulting spell functions as normal for the item's caster level, affecting five creatures per casting.
 
-*Construction* Craft Wondrous Item, *haste*, *slow*, Perform (wind instrument) 5 ranks; Cost 9,000 gp.
+*Construction* Craft Wondrous Item, [*haste*](../magic/spells/haste.md), [*slow*](../magic/spells/slow.md), Perform (wind instrument) 5 ranks; Cost 9,000 gp.
 
 ### Ring of the Beast
 
@@ -80,7 +80,7 @@ In outer construction and manner of play, pipes of shifting tempo resemble a typ
 
 Three types of rings of the beast exist; all three appear as yellowed bone carved in the shapes of wild beasts devouring their own tails. The type of beast depicted on each ring depends on the ring's nature, but could be a wolf (ring of the relentless beast), a rhinoceros (ring of the savage beast), or a tiger (ring of the swift beast). Once per day, a ring of the beast can be activated as a standard action (1 AP) to unleash the primal spirit hidden inside even the most peaceful creatures. When the ring is activated, the wearer gains a bonus to a single physical attribute and a penalty to a single mental attribute for 10 minutes, as determined by the type of ring. A ring of the relentless beast grants a +4 enhancement bonus to Constitution and a –2 penalty to Charisma. A ring of the savage beast grants a +4 enhancement bonus to Strength and a –2 penalty to Intelligence. A ring of the swift beast grants a +4 enhancement bonus to Dexterity and a –2 penalty to Wisdom. As long as the effects of this ring are active, the wearer also gains a +2 enhancement bonus to his natural armor bonus.
 
-*Construction* Forge Ring, *barkskin* and either *bear's endurance* (ring of the relentless beast), *bull's strength* (ring of the savage beast), or *cat's grace* (ring of the swift beast); Cost 4,000 gp.
+*Construction* Forge Ring, [*barkskin*](../magic/spells/barkskin.md) and either [*bear's endurance*](../magic/spells/bears-endurance.md) (ring of the relentless beast), [*bull's strength*](../magic/spells/bulls-strength.md) (ring of the savage beast), or [*cat's grace*](../magic/spells/cats-grace.md) (ring of the swift beast); Cost 4,000 gp.
 
 ### Tyrant's Friend
 
@@ -88,7 +88,7 @@ Three types of rings of the beast exist; all three appear as yellowed bone carve
 
 A slender copper band, a tyrant's friend is thin enough to be hidden beneath another ring (although it still counts against the limit of magic rings a character can wear). The ring grows noticeably warmer whenever the hand wearing it touches a poisoned or poisonous object or creature (including containers holding poison), warning the wearer of potential danger.
 
-*Construction* Forge Ring, *detect poison*; Cost 1,500 gp.
+*Construction* Forge Ring, [*detect poison*](../magic/spells/detect-poison.md); Cost 1,500 gp.
 
 ### Autonomous Cartographer
 
@@ -96,25 +96,25 @@ A slender copper band, a tyrant's friend is thin enough to be hidden beneath ano
 
 Upon command, this item draws your surroundings, out to the limits of your normal vision, rendering them as if depicted by a competent but unexceptional artist. It does not record any details you cannot see. The *autonomous cartographer* creates the map as needed to fit upon a 1-foot-by-4-foot parchment or scroll contained within the item. A second command erases the scroll, allowing you to use it again. You may insert or remove a scroll as a full-round action (3 AP).
 
-*Construction* Craft Wondrous Item, *erase*, *prestidigitation*; Cost 1,000 gp.
+*Construction* Craft Wondrous Item, [*erase*](../magic/spells/erase.md), [*prestidigitation*](../magic/spells/prestidigitation.md); Cost 1,000 gp.
 
 ### Dead Man’s Shroud
 
 *Aura* faint necromancy; *CL* 5th; *Slot* shoulders; *Price* 6,000 gp; *Weight* 1 lb.
 
-This dirt-stained cloak was woven in shadow from the burial shroud of a condemned murderer. It prevents nonintelligent undead from detecting you, as per the *hide from undead* spell. Intelligent undead can perceive you if they succeed at a DC 11 Will save. The warding is ended if you touch an undead creature, channel energy against undead, or attack any creature. Once per day as a standard action (1 AP) you can silently call forth the shadows bound into the shroud, rendering you invisible for 5 minutes.
+This dirt-stained cloak was woven in shadow from the burial shroud of a condemned murderer. It prevents nonintelligent undead from detecting you, as per the [*hide from undead*](../magic/spells/hide-from-undead.md) spell. Intelligent undead can perceive you if they succeed at a DC 11 Will save. The warding is ended if you touch an undead creature, channel energy against undead, or attack any creature. Once per day as a standard action (1 AP) you can silently call forth the shadows bound into the shroud, rendering you invisible for 5 minutes.
 
-*Construction* Craft Wondrous Item, *hide from undead*, *invisibility*; Cost 3,000 gp.
+*Construction* Craft Wondrous Item, [*hide from undead*](../magic/spells/hide-from-undead.md), [*invisibility*](../magic/spells/invisibility.md); Cost 3,000 gp.
 
 ### Eldritch Egress
 
 *Aura* moderate transmutation; *CL* 9th; *Slot* none; *Price* 10,000 gp; *Weight* 4 lbs.
 
-This cunningly designed bundle of wooden slats unfolds and interlocks to form a 3-foot-by-3-foot frame. Once per day you may place the unfolded frame upon a solid surface to form a passage up to 10 feet deep, as if using a *passwall* spell. The passageway lasts for 1 hour unless the frame is removed earlier.
+This cunningly designed bundle of wooden slats unfolds and interlocks to form a 3-foot-by-3-foot frame. Once per day you may place the unfolded frame upon a solid surface to form a passage up to 10 feet deep, as if using a [*passwall*](../magic/spells/passwall.md) spell. The passageway lasts for 1 hour unless the frame is removed earlier.
 
 Folding or unfolding the frame is a full-round action (3 AP) that provokes attacks of opportunity. Using the unfolded frame to create a passage is a standard action (1 AP). Medium or smaller creatures can easily pass through the tunnel, while Large creatures require an Escape Artist check. The *eldritch egress* can only be removed from outside the surface it was placed on, so careful planning is required when using it.
 
-*Construction* Craft Wondrous Item, *passwall*; Cost 5,000 gp.
+*Construction* Craft Wondrous Item, [*passwall*](../magic/spells/passwall.md); Cost 5,000 gp.
 
 ### Horseshoes of Great Burden
 
@@ -122,17 +122,17 @@ Folding or unfolding the frame is a full-round action (3 AP) that provokes attac
 
 These sturdy iron horseshoes come in sets of four like ordinary horseshoes, but are much heavier. When affixed to an animal’s hooves, they double the animal’s carrying capacity. All four shoes must be worn by the same animal for the magic to be effective.
 
-*Construction* Craft Wondrous Item, *bear's endurance*, *bull's strength*; Cost 1,250 gp.
+*Construction* Craft Wondrous Item, [*bear's endurance*](../magic/spells/bears-endurance.md), [*bull's strength*](../magic/spells/bulls-strength.md); Cost 1,250 gp.
 
 ### Explorer’s Pouch
 
 *Aura* none; *CL* 9th; *Slot* none; *Price* 1,000 gp; *Weight* 1 lb.
 
-This nondescript belt pouch is quite popular among explorers who need to smuggle items past snooping guards or government officials. *Detect magic* does not detect that it is magical (as per the *magic aura* spell), but the pouch acts as a very small *bag of holding* (contents limit 10 pounds, volume limit 2 cubic feet).
+This nondescript belt pouch is quite popular among explorers who need to smuggle items past snooping guards or government officials. [*Detect magic*](../magic/spells/detect-magic.md) does not detect that it is magical (as per the [*magic aura*](../magic/spells/magic-aura.md) spell), but the pouch acts as a very small *bag of holding* (contents limit 10 pounds, volume limit 2 cubic feet).
 
 With a command word, the wearer can close or open the extradimensional space within the pouch; when closed, the pouch holds no more than a mundane belt pouch the size of a human fist, though objects within the extradimensional space remain stored, unreachable until the pouch is unsealed again. This allows the user to empty his pockets or even turn the pouch inside-out to prove he carries no contraband, and access the hidden goods later when in a safe place. Because of their nonmagical auras, these pouches sometimes hold secret treasures for generations without their owners realizing their nature.
 
-*Construction* Craft Wondrous Item, *magic aura*, *secret chest*; Cost 1,000 gp.
+*Construction* Craft Wondrous Item, [*magic aura*](../magic/spells/magic-aura.md), [*secret chest*](../magic/spells/secret-chest.md); Cost 1,000 gp.
 
 ### Versatile Vest
 
@@ -142,19 +142,19 @@ This sturdy vest stays dry and spotless in the worst of conditions. You can secu
 
 In addition, the vest has four large pockets, each capable of holding as much as 1/2 cubic foot in volume or 5 pounds in weight, and weighing only 1 pound when full. When closed, the pockets are proof against water and the elements. The first pocket contains 1 day’s worth of trail rations, a quart of water in a waterskin, two candles, and a tindertwig. The vest recreates these items if the first pocket is left empty for 3 days.
 
-*Construction* Craft Wondrous Item, *create food and water*, *prestidigitation*, *secret chest*; Cost 1,000 gp.
+*Construction* Craft Wondrous Item, [*create food and water*](../magic/spells/create-food-and-water.md), [*prestidigitation*](../magic/spells/prestidigitation.md), [*secret chest*](../magic/spells/secret-chest.md); Cost 1,000 gp.
 
 ## Wayfinders
 
-Wayfinders are small magical devices patterned after ancient relics. In addition to any magical powers, all wayfinders act as magnetic compasses, granting a +2 competence bonus on Survival checks to avoid becoming lost. Each wayfinder includes a small indentation in the center of its face—this indentation is designed to hold a single ioun stone. An ioun stone slotted in this manner grants the normal benefits it would grant if it were orbiting your head. A standard wayfinder also has the ability to create light (as the *light* spell). The specialized wayfinders detailed below each add a further power.
+Wayfinders are small magical devices patterned after ancient relics. In addition to any magical powers, all wayfinders act as magnetic compasses, granting a +2 competence bonus on Survival checks to avoid becoming lost. Each wayfinder includes a small indentation in the center of its face—this indentation is designed to hold a single ioun stone. An ioun stone slotted in this manner grants the normal benefits it would grant if it were orbiting your head. A standard wayfinder also has the ability to create light (as the [*light*](../magic/spells/light.md) spell). The specialized wayfinders detailed below each add a further power.
 
 ### Righteous Wayfinder
 
 *Aura* faint divination; *CL* 3rd; *Slot* none; *Price* 2,000 gp; *Weight* 1 lb.
 
-A righteous wayfinder is a polished silver compass favored by crusaders against evil. In addition to the usual functions of a wayfinder (including the ability to create light), a righteous wayfinder can be used to cast *detect evil*—when so used, its needle points not to the north but rather to the nearest source of evil within 60 feet. Once per day, a righteous wayfinder can be used to cast *protection from evil* upon the wayfinder's bearer. A righteous wayfinder functions only for a creature that is good-aligned. When held by an evil creature, the needle spins in a frantic circle. When held by any creature that is both nonevil and nongood, the needle simply hangs limply, not pointing to anything at all (not even to true north).
+A righteous wayfinder is a polished silver compass favored by crusaders against evil. In addition to the usual functions of a wayfinder (including the ability to create light), a righteous wayfinder can be used to cast [*detect evil*](../magic/spells/detect-evil.md)—when so used, its needle points not to the north but rather to the nearest source of evil within 60 feet. Once per day, a righteous wayfinder can be used to cast [*protection from evil*](../magic/spells/protection-from-evil.md) upon the wayfinder's bearer. A righteous wayfinder functions only for a creature that is good-aligned. When held by an evil creature, the needle spins in a frantic circle. When held by any creature that is both nonevil and nongood, the needle simply hangs limply, not pointing to anything at all (not even to true north).
 
-*Construction* Craft Wondrous Item, *detect evil*, *light*, *protection from evil*; Cost 1,000 gp.
+*Construction* Craft Wondrous Item, [*detect evil*](../magic/spells/detect-evil.md), [*light*](../magic/spells/light.md), [*protection from evil*](../magic/spells/protection-from-evil.md); Cost 1,000 gp.
 
 ### Tireless Wayfinder
 
@@ -162,49 +162,49 @@ A righteous wayfinder is a polished silver compass favored by crusaders against 
 
 Tireless wayfinders have burnished copper cases and silver inner workings. In addition to the usual functions of a wayfinder (including the ability to create light), the bearer of a tireless wayfinder halves the Strength and Dexterity penalties for being fatigued or exhausted, and gains a +2 resistance bonus on all saving throws made against effects that cause fatigue or exhaustion. The tireless wayfinder must be in a creature's possession for 1 full week before these benefits apply, and they are lost if it leaves the creature's possession for more than 1 hour.
 
-*Construction* Craft Wondrous Item, *light*, *lesser restoration*; Cost 2,500 gp.
+*Construction* Craft Wondrous Item, [*light*](../magic/spells/light.md), [*lesser restoration*](../magic/spells/restoration-lesser.md); Cost 2,500 gp.
 
 ### Vanishing Wayfinder
 
 *Aura* faint illusion; *CL* 5th; *Slot* none; *Price* 8,000 gp; *Weight* 1 lb.
 
-Vanishing wayfinders are crafted of ivory chased with gold and silver. In addition to the usual functions of a wayfinder (including the ability to create light), as a standard action (1 AP) the holder of a vanishing wayfinder can press a hidden catch to become invisible (as the spell *invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation counts as a minimum use of 1 minute, even if the user becomes visible because of an attack action or some other event before that minute is up.
+Vanishing wayfinders are crafted of ivory chased with gold and silver. In addition to the usual functions of a wayfinder (including the ability to create light), as a standard action (1 AP) the holder of a vanishing wayfinder can press a hidden catch to become invisible (as the spell [*invisibility*](../magic/spells/invisibility.md)) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation counts as a minimum use of 1 minute, even if the user becomes visible because of an attack action or some other event before that minute is up.
 
-*Construction* Craft Wondrous Item, *invisibility*, *light*; Cost 4,000 gp.
+*Construction* Craft Wondrous Item, [*invisibility*](../magic/spells/invisibility.md), [*light*](../magic/spells/light.md); Cost 4,000 gp.
 
 ### Wayfinder of Revelation
 
 *Aura* faint divination and evocation; *CL* 6th; *Slot* none; *Price* 8,000 gp; *Weight* 1 lb.
 
-Wayfinders of revelation show a more ornate design than ordinary wayfinders, and are crafted of gold-accented silver. A wayfinder of revelation's light effect is double the normal effect of a *light* spell, illuminating an area twice as large. Once per day as a standard action (1 AP), while a wayfinder of revelation is creating light, you can fill this 40-foot radius of light with an *invisibility purge* effect (as per the spell). This effect also makes it easier to notice secret doors and hidden compartments—characters who search for such hidden objects and portals inside this area gain a +10 bonus on their Perception checks to do so. Once activated, this effect remains active for 6 rounds.
+Wayfinders of revelation show a more ornate design than ordinary wayfinders, and are crafted of gold-accented silver. A wayfinder of revelation's light effect is double the normal effect of a [*light*](../magic/spells/light.md) spell, illuminating an area twice as large. Once per day as a standard action (1 AP), while a wayfinder of revelation is creating light, you can fill this 40-foot radius of light with an [*invisibility purge*](../magic/spells/invisibility-purge.md) effect (as per the spell). This effect also makes it easier to notice secret doors and hidden compartments—characters who search for such hidden objects and portals inside this area gain a +10 bonus on their Perception checks to do so. Once activated, this effect remains active for 6 rounds.
 
-*Construction* Craft Wondrous Item, *detect secret doors*, *invisibility purge*, *light*; Cost 4,000 gp.
+*Construction* Craft Wondrous Item, [*detect secret doors*](../magic/spells/detect-secret-doors.md), [*invisibility purge*](../magic/spells/invisibility-purge.md), [*light*](../magic/spells/light.md); Cost 4,000 gp.
 
 ### Wayfinder of Spellbreaking
 
 *Aura* faint abjuration; *CL* 7th; *Slot* none; *Price* 8,000 gp; *Weight* 1 lb.
 
-With an exterior crafted of blackened iron, the wayfinder of spellbreaking has no ornamentation. In addition to the usual functions of a wayfinder (including the ability to create light), a wayfinder of spellbreaking can be used once per day to create a *dispel magic* effect on a creature or object. The wayfinder of spellbreaking must be touched to the object—targeting an unwilling creature requires a successful melee touch attack. If the user has *detect magic* active or can otherwise observe magical auras, he can target a specific aura; otherwise, the wayfinder of spellbreaking targets the effect with the highest caster level.
+With an exterior crafted of blackened iron, the wayfinder of spellbreaking has no ornamentation. In addition to the usual functions of a wayfinder (including the ability to create light), a wayfinder of spellbreaking can be used once per day to create a [*dispel magic*](../magic/spells/dispel-magic.md) effect on a creature or object. The wayfinder of spellbreaking must be touched to the object—targeting an unwilling creature requires a successful melee touch attack. If the user has [*detect magic*](../magic/spells/detect-magic.md) active or can otherwise observe magical auras, he can target a specific aura; otherwise, the wayfinder of spellbreaking targets the effect with the highest caster level.
 
-*Construction* Craft Wondrous Item, *dispel magic*, *light*; Cost 4,000 gp.
+*Construction* Craft Wondrous Item, [*dispel magic*](../magic/spells/dispel-magic.md), [*light*](../magic/spells/light.md); Cost 4,000 gp.
 
 ### Contingent Wayfinder
 
 *Aura* moderate evocation; *CL* 11th; *Slot* none; *Price* 132,000 gp; *Weight* 1 lb.
 
-This *wayfinder* is constructed of delicate ivory. Its face constantly reshapes to form a relief of its bearer, and is capable of changing as quickly as two creatures can pass the *wayfinder* back and forth. The socket in which an *ioun stone* could normally be placed is instead filled with a permanently fixed gem that functions as a *ring of minor spell storing*. After wielding this *wayfinder* for 24 hours, its wielder can designate a series of conditions upon which the *wayfinder* will cast the highest-level spell stored in the gem with the wearer as the spell’s target, as though it were using the *contingency* spell. For example, the wielder of a *contingent wayfinder* could place a *cure moderate wounds* spell in the *wayfinder’s* gem, then specify that if she ever falls unconscious because of lethal damage, the spell must be cast on her.
+This *wayfinder* is constructed of delicate ivory. Its face constantly reshapes to form a relief of its bearer, and is capable of changing as quickly as two creatures can pass the *wayfinder* back and forth. The socket in which an *ioun stone* could normally be placed is instead filled with a permanently fixed gem that functions as a *ring of minor spell storing*. After wielding this *wayfinder* for 24 hours, its wielder can designate a series of conditions upon which the *wayfinder* will cast the highest-level spell stored in the gem with the wearer as the spell’s target, as though it were using the [*contingency*](../magic/spells/contingency.md) spell. For example, the wielder of a *contingent wayfinder* could place a [*cure moderate wounds*](../magic/spells/cure-moderate-wounds.md) spell in the *wayfinder’s* gem, then specify that if she ever falls unconscious because of lethal damage, the spell must be cast on her.
 
-Once used in such a manner, the *wayfinder* requires 1 month to recharge its *contingency* effect, though a new spell can be cast into the enclosed gem at any time during this period. If the conditions of the *contingency* effect are not met within 1 week of when they were assigned, the user can change the conditions, though the spell stored in the gem can’t be changed until it has been cast.
+Once used in such a manner, the *wayfinder* requires 1 month to recharge its [*contingency*](../magic/spells/contingency.md) effect, though a new spell can be cast into the enclosed gem at any time during this period. If the conditions of the *contingency* effect are not met within 1 week of when they were assigned, the user can change the conditions, though the spell stored in the gem can’t be changed until it has been cast.
 
-*Construction* Craft Wondrous Item, *contingency*, *imbue with spell ability*, *light*; Cost 66,000 gp.
+*Construction* Craft Wondrous Item, [*contingency*](../magic/spells/contingency.md), [*imbue with spell ability*](../magic/spells/imbue-with-spell-ability.md), [*light*](../magic/spells/light.md); Cost 66,000 gp.
 
 ### Headhunter Wayfinder
 
 *Aura* moderate divination; *CL* 7th; *Slot* none; *Price* 56,000 gp; *Weight* 1 lb.
 
-The forms of numerous animals, magical beast, and other famous creatures appear in relief on every inch of this iron *wayfinder’s* surface, creating a maze of lions, hawks, dragons, and elephants. Though a *headhunter wayfinder* looks like a normal compass, it doesn’t point toward true north as one would expect. Rather, if a piece of hair, a drop of blood, or some other organic matter from a individual creature is placed in the socket normally reserved for an *ioun stone*, the *wayfinder’s* needle points out this creature as though it were the subject of a *locate creature* spell with a radius of 680 feet from the *wayfinder’s* wielder. This effect has no set duration, and functions as long as a specimen of the target creature is held within the *wayfinder* and the creature is within range. If the target creature isn’t in range, the *headhunter wayfinder’s* needle slowly spins clockwise. As with the *locate creature* spell, running water and spells such as *mislead*, *nondetection*, and *polymorph* fool or otherwise block the effect. A *headhunter wayfinder* can’t hold an *ioun stone* and doesn’t provide resonant powers.
+The forms of numerous animals, magical beast, and other famous creatures appear in relief on every inch of this iron *wayfinder’s* surface, creating a maze of lions, hawks, dragons, and elephants. Though a *headhunter wayfinder* looks like a normal compass, it doesn’t point toward true north as one would expect. Rather, if a piece of hair, a drop of blood, or some other organic matter from a individual creature is placed in the socket normally reserved for an *ioun stone*, the *wayfinder’s* needle points out this creature as though it were the subject of a [*locate creature*](../magic/spells/locate-creature.md) spell with a radius of 680 feet from the *wayfinder’s* wielder. This effect has no set duration, and functions as long as a specimen of the target creature is held within the *wayfinder* and the creature is within range. If the target creature isn’t in range, the *headhunter wayfinder’s* needle slowly spins clockwise. As with the *locate creature* spell, running water and spells such as [*mislead*](../magic/spells/mislead.md), [*nondetection*](../magic/spells/nondetection.md), and [*polymorph*](../magic/spells/polymorph.md) fool or otherwise block the effect. A *headhunter wayfinder* can’t hold an *ioun stone* and doesn’t provide resonant powers.
 
-*Construction* Craft Wondrous Item, *light*, *locate creature*; Cost 28,000 gp.
+*Construction* Craft Wondrous Item, [*light*](../magic/spells/light.md), [*locate creature*](../magic/spells/locate-creature.md); Cost 28,000 gp.
 
 ### Hypnotic Wayfinder
 
@@ -212,21 +212,21 @@ The forms of numerous animals, magical beast, and other famous creatures appear 
 
 This *wayfinder* has a mother-of-pearl casing with perfect swirls of pink and green patterns covering the face of the device. It hangs on an 8-inch-long silver fob chain that makes it twirl slightly when held aloft.
 
-In addition to the standard functions of a *wayfinder* (including the ability to create *light*), a *hypnotic wayfinder* can be used once per day to mesmerize weak-minded creatures that can see it. When dangled by its fob and swung gently in a pendulumlike motion, the *hypnotic wayfinder* seems to change colors as light plays off its pearlescent exterior. This replicates the effects of *hypnotic pattern* (Will DC 13 negates), centered on the *hypnotic wayfinder*, but creates no visible light aside from the illusory color-shifts on the *wayfinder* itself. The *wayfinder’s* wielder is immune to this effect, as are sightless creatures.
+In addition to the standard functions of a *wayfinder* (including the ability to create [*light*](../magic/spells/light.md)), a *hypnotic wayfinder* can be used once per day to mesmerize weak-minded creatures that can see it. When dangled by its fob and swung gently in a pendulumlike motion, the *hypnotic wayfinder* seems to change colors as light plays off its pearlescent exterior. This replicates the effects of [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md) (Will DC 13 negates), centered on the *hypnotic wayfinder*, but creates no visible light aside from the illusory color-shifts on the *wayfinder* itself. The *wayfinder’s* wielder is immune to this effect, as are sightless creatures.
 
 While the effect is active, the wielder must remain stationary or the effect immediately ends. Otherwise, the effect lasts as long as the wielder swings the *wayfinder* at the end of its fob (a standard action (1 AP)) and for 2 rounds thereafter.
 
-*Construction* Craft Wondrous Item, *hypnotic pattern*, *light*; Cost 1,500 gp.
+*Construction* Craft Wondrous Item, [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md), [*light*](../magic/spells/light.md); Cost 1,500 gp.
 
 ### Noisemaker Wayfinder
 
 *Aura* faint abjuration; *CL* 3rd; *Slot* none; *Price* 7,000 gp; *Weight* 1 lb.
 
-This decorative *wayfinder* appears to be made of gold, and its face is marked with white and silver motifs of roosters. Whenever the wielder of a *noisemaker wayfinder* falls asleep, the roosters decorating the *wayfinder* change to crescent moons. Whenever a Tiny or larger creature comes within 20 feet of the *wayfinder’s* bearer while she is asleep and this magic item is on her person, the *noisemaker wayfinder* immediately begins vibrating, buzzing, and ringing loudly as long as there is a clear line of effect between the *wayfinder’s* bearer and the triggering creature. The sound from this effect easily travels 60 feet, as the audible *alarm* version of the *alarm* spell. A creature that speaks the password (determined by the wielder and assigned to the *wayfinder* before she falls asleep) does not set off the alarm.
+This decorative *wayfinder* appears to be made of gold, and its face is marked with white and silver motifs of roosters. Whenever the wielder of a *noisemaker wayfinder* falls asleep, the roosters decorating the *wayfinder* change to crescent moons. Whenever a Tiny or larger creature comes within 20 feet of the *wayfinder’s* bearer while she is asleep and this magic item is on her person, the *noisemaker wayfinder* immediately begins vibrating, buzzing, and ringing loudly as long as there is a clear line of effect between the *wayfinder’s* bearer and the triggering creature. The sound from this effect easily travels 60 feet, as the audible [*alarm*](../magic/spells/alarm.md) version of the *alarm* spell. A creature that speaks the password (determined by the wielder and assigned to the *wayfinder* before she falls asleep) does not set off the alarm.
 
-When the *wayfinder’s* alarm is triggered, the violent motion of the *noisemaker wayfinder* continues until the wielder presses a button on the side of the device. If the wielder of a *noisemaker wayfinder* is affected by a magical sleep effect (such as that caused by a *sleep* spell) and the alarm is triggered, the constant buzzing and vibration of the *wayfinder* allows the wielder to attempt a saving throw each round at the end of her turn to end the sleep effect and gives her a +2 circumstance bonus on such saves. Other sleeping creatures within hearing range of the *wayfinder* wake up from normal sleep, but not magical sleep. The bearer of a *noisemaker wayfinder* may disable its audible alarm function at will by pressing down on the compass needle.
+When the *wayfinder’s* alarm is triggered, the violent motion of the *noisemaker wayfinder* continues until the wielder presses a button on the side of the device. If the wielder of a *noisemaker wayfinder* is affected by a magical sleep effect (such as that caused by a [*sleep*](../magic/spells/sleep.md) spell) and the alarm is triggered, the constant buzzing and vibration of the *wayfinder* allows the wielder to attempt a saving throw each round at the end of her turn to end the sleep effect and gives her a +2 circumstance bonus on such saves. Other sleeping creatures within hearing range of the *wayfinder* wake up from normal sleep, but not magical sleep. The bearer of a *noisemaker wayfinder* may disable its audible alarm function at will by pressing down on the compass needle.
 
-*Construction* Craft Wondrous Item, *alarm*, *light*; Cost 3,500 gp.
+*Construction* Craft Wondrous Item, [*alarm*](../magic/spells/alarm.md), [*light*](../magic/spells/light.md); Cost 3,500 gp.
 
 ### Smuggler’s Wayfinder
 
@@ -234,15 +234,15 @@ When the *wayfinder’s* alarm is triggered, the violent motion of the *noisemak
 
 This time-weathered *wayfinder* lacks any notable features. Despite its routine appearance, a *smuggler’s wayfinder* has an additional ability generally known only to the person using it. When a command word is spoken, the compass’s interior is replaced with a small extradimensional space that can hold up to 10 pounds of material occupying no more than 1 cubic foot of space. This material must be able to fit through the 3-inch-diameter opening in the compass’s face (such as a thin glass vial, coins, small jewelry, or a rolled-up piece of paper). While the extradimensional space is accessible, all other properties of the *wayfinder* cease to function, including any resonant *ioun stone* powers. While the extradimensional space is hidden, the *smuggler’s wayfinder* emits an aura of faint evocation, as a standard *wayfinder*.
 
-*Construction* Craft Wondrous Item, *light*, *magic aura*, *secret chest*; Cost 1,000 gp.
+*Construction* Craft Wondrous Item, [*light*](../magic/spells/light.md), [*magic aura*](../magic/spells/magic-aura.md), [*secret chest*](../magic/spells/secret-chest.md); Cost 1,000 gp.
 
 ### Truthseeker Wayfinder
 
 *Aura* moderate divination; *CL* 7th; *Slot* none; *Price* 39,000 gp; *Weight* 1 lb.
 
-This *wayfinder* is crafted from polished gold and when viewed in bright light is highly reflective— resembling a mirror more than it does simple metal. A *truthseeker wayfinder* allows the wielder to cast *zone of truth* for up to 7 minutes per day (Will DC 14 negates). This duration doesn’t need to be continuous, but must be used in 1-minute increments. If a creature saves against this effect once, it is immune to the effect for 24 hours. Creatures that fail their saves are granted a new save each time the effect is activated anew. Once per day, the wielder of a *truthseeker wayfinder* can gain the benefits of *discern lies* for up to 7 rounds (Will DC 16 negates). When the *truthseeker wayfinder* senses the target creature issue an intentional falsehood, it vibrates just enough to be perceptible to the wielder but no one else.
+This *wayfinder* is crafted from polished gold and when viewed in bright light is highly reflective— resembling a mirror more than it does simple metal. A *truthseeker wayfinder* allows the wielder to cast [*zone of truth*](../magic/spells/zone-of-truth.md) for up to 7 minutes per day (Will DC 14 negates). This duration doesn’t need to be continuous, but must be used in 1-minute increments. If a creature saves against this effect once, it is immune to the effect for 24 hours. Creatures that fail their saves are granted a new save each time the effect is activated anew. Once per day, the wielder of a *truthseeker wayfinder* can gain the benefits of [*discern lies*](../magic/spells/discern-lies.md) for up to 7 rounds (Will DC 16 negates). When the *truthseeker wayfinder* senses the target creature issue an intentional falsehood, it vibrates just enough to be perceptible to the wielder but no one else.
 
-*Construction* Craft Wondrous Item, *discern lies*, *light*, *zone of truth*; Cost 19,500 gp.
+*Construction* Craft Wondrous Item, [*discern lies*](../magic/spells/discern-lies.md), [*light*](../magic/spells/light.md), [*zone of truth*](../magic/spells/zone-of-truth.md); Cost 19,500 gp.
 
 ### Wayfinder of the Planes
 
@@ -250,21 +250,21 @@ This *wayfinder* is crafted from polished gold and when viewed in bright light i
 
 This *wayfinder* is made of magically hardened glass, through which the complex inner matrix of the compass can be seen. Once per day, the wielder of a *wayfinder of the planes* can choose one of the following alignments: chaotic, evil, good, or lawful. For 1 hour thereafter, the *wayfinder of the planes* creates a *magic circle* effect against the chosen alignment, centered on the *wayfinder*. Once selected, the alignment of the *magic circle* effect can’t be changed until the effect recharges the next day.
 
-*Construction* Craft Wondrous Item, *light*, *magic circle against chaos*, *magic circle against evil*, *magic circle against good*, *magic circle against law*; Cost 9,000 gp.
+*Construction* Craft Wondrous Item, [*light*](../magic/spells/light.md), [*magic circle against chaos*](../magic/spells/magic-circle-against-chaos.md), [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md), [*magic circle against good*](../magic/spells/magic-circle-against-good.md), [*magic circle against law*](../magic/spells/magic-circle-against-law.md); Cost 9,000 gp.
 
 ### Wayfinder of Passage
 
 *Aura* moderate varied; *CL* 10th; *Slot* none; *Price* 136,000 gp; *Weight* 1 lb.
 
-This *wayfinder* is an artistic treasure, crafted in gold and set with tiny opals, rubies, diamonds, and sapphires. Three slots on the inner side of the lid can each hold one *ioun stone*. It sheds light equivalent to the *daylight* spell on your command. It has the following abilities, each activated by a different command word:
+This *wayfinder* is an artistic treasure, crafted in gold and set with tiny opals, rubies, diamonds, and sapphires. Three slots on the inner side of the lid can each hold one *ioun stone*. It sheds light equivalent to the [*daylight*](../magic/spells/daylight.md) spell on your command. It has the following abilities, each activated by a different command word:
 
-- *dimension door* (once per day)
-- *feather fall* (at will)
-- *knock* (at will)
-- *resist energy* (once per day, energy resistance 20, lasts 24 hours)
-When the first *ioun stone* slot is used, the *dimension door* ability no longer functions. When the second slot is used, *feather fall* and *resist energy* are unavailable. When the third slot is used, *daylight* and *knock* no longer function.
+- [*dimension door*](../magic/spells/dimension-door.md) (once per day)
+- [*feather fall*](../magic/spells/feather-fall.md) (at will)
+- [*knock*](../magic/spells/knock.md) (at will)
+- [*resist energy*](../magic/spells/resist-energy.md) (once per day, energy resistance 20, lasts 24 hours)
+When the first *ioun stone* slot is used, the [*dimension door*](../magic/spells/dimension-door.md) ability no longer functions. When the second slot is used, [*feather fall*](../magic/spells/feather-fall.md) and [*resist energy*](../magic/spells/resist-energy.md) are unavailable. When the third slot is used, [*daylight*](../magic/spells/daylight.md) and [*knock*](../magic/spells/knock.md) no longer function.
 
-*Construction* Craft Wondrous Item, *daylight*, *dimension door*, *feather fall*, *knock*, *resist energy*; Cost 68,000 gp.
+*Construction* Craft Wondrous Item, [*daylight*](../magic/spells/daylight.md), [*dimension door*](../magic/spells/dimension-door.md), [*feather fall*](../magic/spells/feather-fall.md), [*knock*](../magic/spells/knock.md), [*resist energy*](../magic/spells/resist-energy.md); Cost 68,000 gp.
 
 ### Wayfinder of the Sleeping Eye
 
@@ -272,11 +272,11 @@ When the first *ioun stone* slot is used, the *dimension door* ability no longer
 
 This exquisitely crafted *wayfinder* bears the design of a half-closed eye in platinum and mithral. The eye is a socket for an *ioun stone*; when filled, you may activate the *wayfinder* when you sleep or meditate to create a mobile illusory image of yourself that is partly real.
 
-You control the image as if it were your own body and perceive things through it as if it had all of your normal senses plus darkvision with a range of 60 feet. You do not need to maintain line of sight to the image. The image is visible but transparent, and it cannot perform any action that an *unseen servant* is unable to perform. The image has 40% of your hit points at the time it was created. Its AC is 10 + your size modifier + your Dexterity modifier. It uses your current Will saving throw bonus but automatically fails Fortitude and Reflex saves. It is destroyed if brought to 0 hit points, which deals you 2d4 points of Charisma damage. It can be dispelled, and cannot enter areas warded against summoned creatures, your alignment, illusions, or incorporeal creatures. You may end this ability as a free action, and it ends automatically if you are awakened, your body is attacked, or 8 hours pass; ending the image in this manner does not deal you Charisma damage.
+You control the image as if it were your own body and perceive things through it as if it had all of your normal senses plus darkvision with a range of 60 feet. You do not need to maintain line of sight to the image. The image is visible but transparent, and it cannot perform any action that an [*unseen servant*](../magic/spells/unseen-servant.md) is unable to perform. The image has 40% of your hit points at the time it was created. Its AC is 10 + your size modifier + your Dexterity modifier. It uses your current Will saving throw bonus but automatically fails Fortitude and Reflex saves. It is destroyed if brought to 0 hit points, which deals you 2d4 points of Charisma damage. It can be dispelled, and cannot enter areas warded against summoned creatures, your alignment, illusions, or incorporeal creatures. You may end this ability as a free action, and it ends automatically if you are awakened, your body is attacked, or 8 hours pass; ending the image in this manner does not deal you Charisma damage.
 
 Using this ability drains energy from the slotted *ioun stone*, rendering it dull gray and powerless for 24 hours. A dull gray *ioun stone* cannot power the projection ability of this *wayfinder*. The *wayfinder* can still have synergistic powers granted by an *ioun stone*, though they do not function while the slotted stone is powerless.
 
-*Construction* Craft Wondrous Item, *arcane eye*, *shadow conjuration*; Cost 35,000 gp.
+*Construction* Craft Wondrous Item, [*arcane eye*](../magic/spells/arcane-eye.md), [*shadow conjuration*](../magic/spells/shadow-conjuration.md); Cost 35,000 gp.
 
 ## Weapons
 
@@ -286,11 +286,11 @@ Using this ability drains energy from the slotted *ioun stone*, rendering it dul
 
 Even explorers cannot say which tale of this item’s origins is true; it may have been made from a piece of a divine relic, carried by a mortal as he achieved godhood, or forged in the depths of the underworld and quenched in its maker’s heartblood. This silver slender athame is deceptively plain, but has a treacherous past. It has been credited with deeds as noble as ending the life of a powerful annis witch (slain even as the blade’s owner was beheaded) and as petty as the murder of a loving mother and priestess by her estranged and vengeful husband.
 
-The *blade of the willing martyr* is a *+3 keen vicious dagger*, but its greatest power can only be invoked outside of battle. To activate this power you must spill your blood on your target, an object belonging to the target, or a physical token of the target’s body (such as a few strands of hair). Your target gets a DC 23 Will save (using the same saving throw modifiers as the *scrying* spell for the owner’s knowledge and connection to the victim) to avoid the effect, which forges a link between you and the target.
+The *blade of the willing martyr* is a *+3 keen vicious dagger*, but its greatest power can only be invoked outside of battle. To activate this power you must spill your blood on your target, an object belonging to the target, or a physical token of the target’s body (such as a few strands of hair). Your target gets a DC 23 Will save (using the same saving throw modifiers as the [*scrying*](../magic/spells/scrying.md) spell for the owner’s knowledge and connection to the victim) to avoid the effect, which forges a link between you and the target.
 
-Once you forge a link, your soul and the target’s soul are intertwined. Should you die, your target dies, suffering the same apparent injuries and symptoms; likewise, you die if your target dies. The link may only be severed by *break enchantment* or *remove curse*.
+Once you forge a link, your soul and the target’s soul are intertwined. Should you die, your target dies, suffering the same apparent injuries and symptoms; likewise, you die if your target dies. The link may only be severed by [*break enchantment*](../magic/spells/break-enchantment.md) or [*remove curse*](../magic/spells/remove-curse.md).
 
-*Construction* Craft Magic Arms and Armor, *enervation*, *keen edge*, *symbol of death*; Cost 75,000 gp.
+*Construction* Craft Magic Arms and Armor, [*enervation*](../magic/spells/enervation.md), [*keen edge*](../magic/spells/keen-edge.md), [*symbol of death*](../magic/spells/symbol-of-death.md); Cost 75,000 gp.
 
 ## Cursed Items
 
@@ -298,6 +298,6 @@ Once you forge a link, your soul and the target’s soul are intertwined. Should
 
 *Aura* strong transmutation; *CL* 12th; *Slot* none; *Price* varies; *Weight* —
 
-This cursed item looks like any normal *ioun stone*, and has powers according to its color and shape. However, whenever you are in combat, the orbiting stone batters at your face and head, dealing 1 hit point of damage each round. If you sleep or fall unconscious while the stone is in orbit, it drills into your head, dealing 1 point of Intelligence, Wisdom, and Charisma damage each round until the penalty to one of these ability scores exceeds your actual score, at which point it removes itself from your head and hides itself on your person, near other gems. The stone can remove itself from a *wayfinder* to attack you in this fashion. The attack automatically wakes a sleeping character. The only way to end the attack is to interfere with the magic of the stone (by using *dispel magic*, entering an *antimagic field*, and so on) or grab it and place it in a container.
+This cursed item looks like any normal *ioun stone*, and has powers according to its color and shape. However, whenever you are in combat, the orbiting stone batters at your face and head, dealing 1 hit point of damage each round. If you sleep or fall unconscious while the stone is in orbit, it drills into your head, dealing 1 point of Intelligence, Wisdom, and Charisma damage each round until the penalty to one of these ability scores exceeds your actual score, at which point it removes itself from your head and hides itself on your person, near other gems. The stone can remove itself from a *wayfinder* to attack you in this fashion. The attack automatically wakes a sleeping character. The only way to end the attack is to interfere with the magic of the stone (by using [*dispel magic*](../magic/spells/dispel-magic.md), entering an [*antimagic field*](../magic/spells/antimagic-field.md), and so on) or grab it and place it in a container.
 
 *Construction* Craft Magic Arms and Armor, creator must be 12th level; Cost varies.

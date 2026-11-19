@@ -594,7 +594,7 @@ This additional standard action (1 AP) canâ€™t be used to cast a spell. It canâ€
 
 *Format: dragon fury (1d6 fire); Location: Special Attacks.*
 
-**Feral Savagery** (Su) Under the circumstances listed in the monster's stat block (such as when it makes a full attack or a rend attack), it can immediately attempt an additional attack against an opponent. This attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn't stack with similar means of gaining additional attacks, such as the *haste* spell or a speed weapon. This ability doesn't grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round.
+**Feral Savagery** (Su) Under the circumstances listed in the monster's stat block (such as when it makes a full attack or a rend attack), it can immediately attempt an additional attack against an opponent. This attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn't stack with similar means of gaining additional attacks, such as the [*haste*](../magic/spells/haste.md) spell or a speed weapon. This ability doesn't grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round.
 
 *Format: feral savagery (full attack); Location: Special Attacks.*
 

@@ -12,7 +12,7 @@ Some cities have a long and proud association with the arts, particularly the th
 | 2nd | +1 | +1 | +1 | +1 | Dramaturgical flourish | +1 level of existing class |
 | 3rd | +1 | +1 | +2 | +2 | Argent performance (anchoring aria) | +1 level of existing class |
 | 4th | +2 | +1 | +2 | +2 | Dramaturgical flourish | +1 level of existing class |
-| 5th | +2 | +2 | +3 | +3 | Argent performance (60-ft. radius, *breath of life*) | +1 level of existing class |
+| 5th | +2 | +2 | +3 | +3 | Argent performance (60-ft. radius, [*breath of life*](../../magic/spells/breath-of-life.md)) | +1 level of existing class |
 | 6th | +3 | +2 | +3 | +3 | Dramaturgical flourish | +1 level of existing class |
 | 7th | +3 | +2 | +4 | +4 | Argent performance (swift) | +1 level of existing class |
 | 8th | +4 | +3 | +4 | +4 | Dramaturgical flourish | +1 level of existing class |
@@ -83,7 +83,7 @@ At 3rd level, the argent dramaturge can use her knowledge of the magical melodie
 
 ##### Righteous Chord (Sp)
 
-At 9th level, as a standard action (2 AP) that costs 2 rounds of argent or bardic performance, the argent dramaturge can affect a single evil outsider within 60 feet as per the spell [*banishment*](../../magic/spells/banishment.md), treating her character level as her caster level. As a free action, the argent dramaturge can attempt a Perform check with a DC equal to 10 + the HD of the targeted outsider. If successful, she is treated as having presented the targeted outsider with one object or substance the target fears or hates for the purpose of determining the effects of the *banishment* spell. Activating this argent performance does not end a currently active argent or bardic performance.
+At 9th level, as a standard action (2 AP) that costs 2 rounds of argent or bardic performance, the argent dramaturge can affect a single evil outsider within 60 feet as per the spell [*banishment*](../../magic/spells/banishment.md), treating her character level as her caster level. As a free action, the argent dramaturge can attempt a Perform check with a DC equal to 10 + the HD of the targeted outsider. If successful, she is treated as having presented the targeted outsider with one object or substance the target fears or hates for the purpose of determining the effects of the [*banishment*](../../magic/spells/banishment.md) spell. Activating this argent performance does not end a currently active argent or bardic performance.
 
 #### Dramaturgical Flourish (Su)
 

@@ -88,7 +88,7 @@ At 8th level, a prophet of commerce can hide a chest on the Ethereal Plane, as p
 
 #### Planar Contacts (Su)
 
-At 9th level, a prophet of commerce can purchase an outsider’s services for half the normal cost when he casts a [*planar ally*](../../magic/spells/planar-ally.md) spell or is within 30 feet of an ally who casts a *planar ally* spell. When negotiating with a creature called by a [*planar binding*](../../magic/spells/planar-binding.md) spell (either his own or an ally’s), the prophet gains a +4 bonus on any opposed Charisma checks.
+At 9th level, a prophet of commerce can purchase an outsider’s services for half the normal cost when he casts a [*planar ally*](../../magic/spells/planar-ally.md) spell or is within 30 feet of an ally who casts a [*planar ally*](../../magic/spells/planar-ally.md) spell. When negotiating with a creature called by a [*planar binding*](../../magic/spells/planar-binding.md) spell (either his own or an ally’s), the prophet gains a +4 bonus on any opposed Charisma checks.
 
 #### Ex-Prophets of Commerce
 

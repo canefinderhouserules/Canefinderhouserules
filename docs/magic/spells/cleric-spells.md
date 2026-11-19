@@ -39,7 +39,7 @@
 - **[Bless](bless.md)**: Allies gain a +1 divine bonus on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Blessed Fist](blessed-fist.md)**: Target doesn’t provoke attacks of opportunity with unarmed strikes.
-- **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
+- **[Blessing of the Watch](blessing-of-the-watch.md)**: [*Bless*](bless.md) that works only in the caster’s home city.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Burning Disarm](burning-disarm.md)**: Held metal object turns red-hot; drop it or take 1d4 fire damage/level.
 - **[Carrion Compass](carrion-compass.md)**: Organ leads you to an undead creature's controller
@@ -162,7 +162,7 @@
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[True Appraisal](true-appraisal.md)**: Gain insight into the value of objects
-- **[Truthtelling](truthtelling.md)**: As *zone of truth*, but on one touched creature, who briefly looks like a being of perfect order.
+- **[Truthtelling](truthtelling.md)**: As [*zone of truth*](zone-of-truth.md), but on one touched creature, who briefly looks like a being of perfect order.
 - **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
 - **[Unwelcome Halo](unwelcome-halo.md)**: Target glows, losing concealment.
@@ -201,7 +201,7 @@
 - **[Blood in the Water](blood-in-the-water.md)**: Whip sharks and frenzy-prone creatures into a frenzy
 - **[Blood of the Martyr](blood-of-the-martyr.md)**: The target bleeds, and those who drink its blood are healed.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
-- **[Bloody Tears and Jagged Smile](bloody-tears-and-jagged-smile.md)**: Gain a bite, *deathwatch*, and bonuses to Intimidate and fear spell DCs.
+- **[Bloody Tears and Jagged Smile](bloody-tears-and-jagged-smile.md)**: Gain a bite, [*deathwatch*](deathwatch.md), and bonuses to Intimidate and fear spell DCs.
 - **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.
 - **[Book Ward](book-ward.md)**: Protects a touched object from acid and fire, and waterproofs it.
@@ -212,7 +212,7 @@
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
 - **[Calm Spirit](calm-spirit.md)**: Postpone hostile action by a haunt or incorporeal undead.
 - **[Cleromancy](cleromancy.md)**: Group dice rolled per caster level into luck bonuses for your d20 rolls.
-- **[Cloud of Seasickness](cloud-of-seasickness.md)**: As *stinking cloud*, but it sickens rather than nauseates.
+- **[Cloud of Seasickness](cloud-of-seasickness.md)**: As [*stinking cloud*](stinking-cloud.md), but it sickens rather than nauseates.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Consecrate](consecrate.md)**: Fills area with positive energy, weakening undead.
@@ -229,14 +229,14 @@
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming target for 1 hour/level.
 - **[Desecrate](desecrate.md)**: Fills area with negative energy, making undead stronger.
-- **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
+- **[Detect Magic, Greater](detect-magic-greater.md)**: As [*detect magic*](detect-magic.md), but learn more information.
 - **[Detect Relations](detect-relations.md)**: Reveals blood relations among creatures.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Divine Smite](divine-smite.md)**: Deals 1d5 sacred or profane damage/level (max 10d5) to one or two targets.
 - **[Divine Trident](divine-trident.md)**: Wield a trident of electricity.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
-- **[Drunkard’s Breath](drunkards-breath.md)**: A cone that works like *stinking cloud* and feels like a hangover.
+- **[Drunkard’s Breath](drunkards-breath.md)**: A cone that works like [*stinking cloud*](stinking-cloud.md) and feels like a hangover.
 - **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
@@ -256,7 +256,7 @@
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
 - **[Halfling Vengeance](halfling-vengeance.md)**: You grant the touched target the ability to ascertain the weaknesses of foes.
 - **[Healing Token](healing-token.md)**: Holy symbols let allies request healing at a distance.
-- **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
+- **[Hold Fey](hold-fey.md)**: As [*hold person*](hold-person.md), but affects a fey.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Holy Ice Weapon](holy-ice-weapon.md)**: You create a masterwork weapon that has the qualities of ice and holy water.
 - **[Hungering Beacon](hungering-beacon.md)**: Haunt draws the attention of ravenous undead.
@@ -308,7 +308,7 @@
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Recentering Drone](recentering-drone.md)**: Targets ignore or reduce the penalties of debilitating conditions.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
-- **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or *slow* effect.
+- **[Remove Paralysis](remove-paralysis.md)**: Frees creatures from paralysis or [*slow*](slow.md) effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
@@ -355,7 +355,7 @@
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
-- **[Sympathetic Wounds](sympathetic-wounds.md)**: As *shield other*, but your wounds transfer to the target.
+- **[Sympathetic Wounds](sympathetic-wounds.md)**: As [*shield other*](shield-other.md), but your wounds transfer to the target.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
 - **[Touch of Mercy](touch-of-mercy.md)**: Target deals only nonlethal damage with weapon attacks.
@@ -416,7 +416,7 @@
 - **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
-- **[Cursed Snake Sigil](cursed-snake-sigil.md)**: As *sepia snake sigil*, but the sigil inflicts one of seven curses.
+- **[Cursed Snake Sigil](cursed-snake-sigil.md)**: As [*sepia snake sigil*](sepia-snake-sigil.md), but the sigil inflicts one of seven curses.
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
 - **[Dark-Light](dark-light.md)**: Blind or dazzle creatures that lack light sensitivity.
@@ -466,13 +466,13 @@
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
 - **[Lightning Lash](lightning-lash.md)**: Create a crackling lash of unholy lightning.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
-- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
+- **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain [*rage*](rage.md) the next time you fight a chosen enemy.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)/[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As *protection* spells, but 10-ft. radius and 10 min./level.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: You surround yourself with a mantle of calm serenity.
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Mark of Obvious Ethics](mark-of-obvious-ethics.md)**: You mark one creature with a glowing sigil.
-- **[Martyr’s Last Blessing](martyrs-last-blessing.md)**: Your death releases *mass cure light wounds* on your allies.
+- **[Martyr’s Last Blessing](martyrs-last-blessing.md)**: Your death releases [*mass cure light wounds*](cure-light-wounds-mass.md) on your allies.
 - **[Mathematical Curse](mathematical-curse.md)**: Assign 3d8 to set a penalty on one d20 roll type and its duration.
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
 - **[Mind Maze](mind-maze.md)**: This spell causes the target to act as though it’s wandering through a maze.
@@ -614,7 +614,7 @@
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Gift of the Deep](gift-of-the-deep.md)**: Grant sahuagin mutant features
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
-- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Glimpse of Truth](glimpse-of-truth.md)**: Gain [*true seeing*](true-seeing.md) for 1 round.
 - **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Guardian of Faith](guardian-of-faith.md)**: The target gains the benefit of shield of faith and your choice of protection from chaos, evil, good, or law.
 - **[Hallucinogenic Smoke](hallucinogenic-smoke.md)**: Exhale nauseating smoke; boost augury.
@@ -626,14 +626,14 @@
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
-- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
+- **[Infernal Healing, Greater](infernal-healing-greater.md)**: As [*infernal healing*](infernal-healing.md), but fast healing 4.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).
 - **[Infuse Effigy](infuse-effigy.md)**: Curses an effigy so it frightens and curses creatures like the one it was built from.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
 - **[Iron Spine](iron-spine.md)**: Target takes damage and is sickened whenever it moves.
 - **[Magic Circle against Technology](magic-circle-against-technology.md)**: Protection from technology in an area.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
-- **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
+- **[Majestic Image](majestic-image.md)**: As [*enter image*](enter-image.md), but also gain bonuses on social skills while in the image.
 - **[Make Whole, Greater](make-whole-greater.md)**: Repair destroyed items and constructs.
 - **[Malediction](malediction.md)**: Banish a soul to Hell if it dies within the next minute.
 - **[Mark of the Reptile God](mark-of-the-reptile-god.md)**: Burn a handprint that scales the target and drains Charisma.
@@ -648,7 +648,7 @@
 - **[Planar Ally, Lesser](planar-ally-lesser.md)**: Exchange services with a 6 HD extraplanar creature.
 - **[Planetary Adaptation](planetary-adaptation.md)**: As planar adaptation, for worlds and the void.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
-- **[Poisonous Balm](poisonous-balm.md)**: As *cure serious wounds*, but leave behind a latent venom.
+- **[Poisonous Balm](poisonous-balm.md)**: As [*cure serious wounds*](cure-serious-wounds.md), but leave behind a latent venom.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Probe History](probe-history.md)**: You gain a glimpse of a potential reality similar to this one but that never was.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
@@ -688,7 +688,7 @@
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a non-alignment subtype or outsider race.
 - **[Tongues](tongues.md)**: Speak and understand any language.
-- **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
+- **[Torpid Reanimation](torpid-reanimation.md)**: [*Animate dead*](animate-dead.md) when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Traveling Dream](traveling-dream.md)**: You sleep while a dreamscryer shaped like you scouts unlimited distances.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
@@ -731,7 +731,7 @@
 - **[Commune with Plane](commune-with-plane.md)**: Learn about local planar terrain
 - **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Compelling Rant](compelling-rant.md)**: People believe your ridiculous speech as long as you keep talking.
-- **[Constricting Coils](constricting-coils.md)**: As *hold monster*, and the target takes constriction damage each round.
+- **[Constricting Coils](constricting-coils.md)**: As [*hold monster*](hold-monster.md), and the target takes constriction damage each round.
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
@@ -782,7 +782,7 @@
 - **[Spawn Ward](spawn-ward.md)**: School necromancy; Level cleric 5, inquisitor 5 Casting Time 1 standard action Components V, S Range touch.
 - **[Spell Immunity, Communal](spell-immunity-communal.md)**: As spell immunity, but you may divide the duration among creatures touched.
 - **[Spell Resistance](spell-resistance.md)**: Subject gains SR 12 + level.
-- **[Spellcasting Contract, Lesser](spellcasting-contract-lesser.md)**: As *imbue with spell ability*, under the terms of a contract.
+- **[Spellcasting Contract, Lesser](spellcasting-contract-lesser.md)**: As [*imbue with spell ability*](imbue-with-spell-ability.md), under the terms of a contract.
 - **[Spellsteal](spellsteal.md)**: Strip a spell from a target and cast it yourself
 - **[Sphere of Warding](sphere-of-warding.md)**: Sphere ejects possessors and harms incorporeal creatures
 - **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
@@ -793,7 +793,7 @@
 - **[Summon Lesser Psychopomp](summon-lesser-psychopomp.md)**: Summons esobok or nosoi psychopomps.
 - **[Summon Monster 5](summon-monster-5.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
-- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
+- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As [*sun’s disdain*](suns-disdain.md), on multiple creatures.
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks nearby creatures with pain.
 - **[Symbol of Sleep](symbol-of-sleep.md)**: Triggered rune puts nearby creatures into catatonic slumber.
 - **[Symbol of Striking](symbol-of-striking.md)**: Triggered rune threatens its area and makes attacks of opportunity with a magic copy of a weapon.
@@ -822,13 +822,13 @@
 - **[Antilife Shell](antilife-shell.md)**: 10-ft.-radius field hedges out living creatures.
 - **[Balance of Suffering](balance-of-suffering.md)**: Drain one creature to heal another.
 - **[Banishment](banishment.md)**: Banishes 2 HD/level of extraplanar creatures.
-- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
+- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As [*bear’s endurance*](bears-endurance.md), affects 1 subject/level.
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Blade Barrier](blade-barrier.md)**: Wall of blades deals 1d6/level damage.
 - **[Bless Army](bless-army.md)**: An army gains +1 on OM and Morale checks.
 - **[Blessing of Luck and Resolve, Mass](blessing-of-luck-and-resolve-mass.md)**: cleric 6, inquisitor 6, paladin 4
 - **[Bloodsworn Retribution](bloodsworn-retribution.md)**: Swear an oath of retribution on your own blood for morale bonuses.
-- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
+- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As [*bull’s strength*](bulls-strength.md), affects 1 subject/level.
 - **[Chains of Light](chains-of-light.md)**: Hold a creature in chains of light and block extradimensional travel.
 - **[Commune with Texts](commune-with-texts.md)**: Absorb knowledge from a collection of texts.
 - **[Contact Nalfeshnee](contact-nalfeshnee.md)**: Telepathically question a nalfeshnee demon, risking ability drain.
@@ -838,16 +838,16 @@
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Death Knell Aura, Greater](death-knell-aura-greater.md)**: Death knell aura that also hurts spirits
-- **[Demon Dream](demon-dream.md)**: As *nightmare*, with demonic dreams that drain Wisdom.
+- **[Demon Dream](demon-dream.md)**: As [*nightmare*](nightmare.md), with demonic dreams that drain Wisdom.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
-- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
+- **[Dispel Magic, Greater](dispel-magic-greater.md)**: As [*dispel magic*](dispel-magic.md), but with multiple targets.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
-- **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As *eagle’s splendor*, affects 1 subject/level.
+- **[Eagle’s Splendor, Mass](eagles-splendor-mass.md)**: As [*eagle’s splendor*](eagles-splendor.md), affects 1 subject/level.
 - **[Elemental Assessor](elemental-assessor.md)**: A ray deals four energy types, then keeps burning with the one that hurt most.
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Enlightened Step](enlightened-step.md)**: Meditative spell: walk on air, then fly for 1 minute.
@@ -856,7 +856,7 @@
 - **[Forbiddance](forbiddance.md)**: Blocks planar travel, damages creatures of different alignment.
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
 - **[Genius Avaricious](genius-avaricious.md)**: A sacrifice imbues a coin with luck, protection or power.
-- **[Glyph of Warding, Greater](glyph-of-warding-greater.md)**: As *glyph of warding*, but up to 10d8 damage or 6th-level spell.
+- **[Glyph of Warding, Greater](glyph-of-warding-greater.md)**: As [*glyph of warding*](glyph-of-warding.md), but up to 10d8 damage or 6th-level spell.
 - **[Hammer of Mending](hammer-of-mending.md)**: Repair objects and constructs in a burst.
 - **[Harm](harm.md)**: Deals 10 points/level damage to target.
 - **[Heal](heal.md)**: Cures 10 points/level damage, all diseases and mental conditions.
@@ -876,14 +876,14 @@
 - **[Oasis](oasis.md)**: Creates a permanent spring.
 - **[Open the Dead Roads](open-the-dead-roads.md)**: To cast open the Dead Roads, you must be in an area of fog or dim light.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
-- **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As *owl’s wisdom*, affects 1 subject/level.
+- **[Owl’s Wisdom, Mass](owls-wisdom-mass.md)**: As [*owl’s wisdom*](owls-wisdom.md), affects 1 subject/level.
 - **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
 - **[Planar Ally](planar-ally.md)**: As *lesser planar ally,* but up to 12 HD.
 - **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
-- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
-- **[Roaming Pit](roaming-pit.md)**: A *create pit* that can move.
-- **[Seer’s Bane](seers-bane.md)**: As *nondetection*, and those who fail to pierce it take damage or a curse.
+- **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than [*divination*](divination.md).
+- **[Roaming Pit](roaming-pit.md)**: A [*create pit*](create-pit.md) that can move.
+- **[Seer’s Bane](seers-bane.md)**: As [*nondetection*](nondetection.md), and those who fail to pierce it take damage or a curse.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Shield of Dawn, Greater](shield-of-dawn-greater.md)**: Sun shield damages melee attackers.
 - **[Sign of Wrath](sign-of-wrath.md)**: A symbol of force damages and pushes back everyone around you.
@@ -926,7 +926,7 @@
 - **[Bloodstone Mirror](bloodstone-mirror.md)**: End a mind-affecting or controlling effect on you and redirect it to a nearby creature.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Control Weather](control-weather.md)**: Changes weather in local area.
-- **[Create Variant Mummy](create-variant-mummy.md)**: As *create undead*, creating a bog, ice or tomb guardian mummy.
+- **[Create Variant Mummy](create-variant-mummy.md)**: As [*create undead*](create-undead.md), creating a bog, ice or tomb guardian mummy.
 - **[Cure Serious Wounds, Mass](cure-serious-wounds-mass.md)**: Cures 3d8 damage + 1/level, affects 1 subject/level.
 - **[Destruction](destruction.md)**: Kills subject and destroys remains.
 - **[Dictum](dictum.md)**: Kills, paralyzes, staggers, or deafens nonlawful targets.
@@ -946,7 +946,7 @@
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
 - **[Memory of Function](memory-of-function.md)**: Restore broken objects and timeworn tech.
 - **[Morning Sun](morning-sun.md)**: Sphere of sunlight staggers creatures harmed by sunlight and burns what it touches.
-- **[Nightmare Vision](nightmare-vision.md)**: As *nightmare*, and a second spell of 6th level or lower strikes the target as it wakes.
+- **[Nightmare Vision](nightmare-vision.md)**: As [*nightmare*](nightmare.md), and a second spell of 6th level or lower strikes the target as it wakes.
 - **[Particulate Form](particulate-form.md)**: Targets gain fast healing and immunity to critical hits.
 - **[Planar Refuge](planar-refuge.md)**: A pocket of Material Plane wilderness on another plane.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
@@ -957,11 +957,11 @@
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Restoration, Greater](restoration-greater.md)**: As *restoration,* plus restores all levels and ability scores.
 - **[Resurrection](resurrection.md)**: Fully restore dead subject.
-- **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
+- **[Scrying, Greater](scrying-greater.md)**: As [*scrying*](scrying.md), but faster and longer.
 - **[Signifer’s Rally](signifers-rally.md)**: Teleport one ally/5 levels to your side.
 - **[Soul Transfer](soul-transfer.md)**: Move or capture bodiless souls
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
-- **[Spellcasting Contract](spellcasting-contract.md)**: As *lesser spellcasting contract*, with 2nd- and 3rd-level spells.
+- **[Spellcasting Contract](spellcasting-contract.md)**: As [*lesser spellcasting contract*](spellcasting-contract-lesser.md), with 2nd- and 3rd-level spells.
 - **[Submerge Ship](submerge-ship.md)**: A ship in a bubble of air sails underwater.
 - **[Summon Monster 7](summon-monster-7.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster VII](summon-monster-vii.md)**: Summons extraplanar creature to fight for you.
@@ -1030,9 +1030,9 @@
 - **[Canopic Conversion](canopic-conversion.md)**: Eviscerates a humanoid; if it dies, it rises as a mummy bound to canopic jars.
 - **[Energy Drain](energy-drain.md)**: Subject gains 2d4 negative levels.
 - **[Etherealness](etherealness.md)**: Travel to Ethereal Plane with companions.
-- **[False Resurrection, Greater](false-resurrection-greater.md)**: Appear to use *true resurrection* on someone but instead allow a belier devil to possess the corpse.
+- **[False Resurrection, Greater](false-resurrection-greater.md)**: Appear to use [*true resurrection*](true-resurrection.md) on someone but instead allow a belier devil to possess the corpse.
 - **[Gate](gate.md)**: Connects two planes for travel or summoning.
-- **[Heal, Mass](heal-mass.md)**: As *heal*, but affects 1 subject/level.
+- **[Heal, Mass](heal-mass.md)**: As [*heal*](heal.md), but affects 1 subject/level.
 - **[Imbue Army Special Ability](imbue-army-special-ability.md)**: Gives an army one of its commander's special abilities.
 - **[Implosion](implosion.md)**: Inflict 10 damage/level to one creature/round.
 - **[Judgment Undone](judgment-undone.md)**: Restores a petitioner to its mortal life
@@ -1041,17 +1041,17 @@
 - **[Parasitic Soul](parasitic-soul.md)**: Place a trapped soul in a victim's body
 - **[Salvage](salvage.md)**: Rebuilds a shipwreck and raises it to the surface.
 - **[Scourge of Ruin](scourge-of-ruin.md)**: Negative levels and acid in a burst
-- **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
+- **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent [*resurrection*](resurrection.md).
 - **[Spawn Calling](spawn-calling.md)**: A week-long ritual with sacrifices calls a spawn of the god of wrath.
 - **[Spell Immunity, Greater Communal](spell-immunity-greater-communal.md)**: As greater spell immunity, but you may divide the duration among creatures touched.
-- **[Spellcasting Contract, Greater](spellcasting-contract-greater.md)**: As *lesser spellcasting contract*, with 4th- and 5th-level spells.
+- **[Spellcasting Contract, Greater](spellcasting-contract-greater.md)**: As [*lesser spellcasting contract*](spellcasting-contract-lesser.md), with 4th- and 5th-level spells.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Derghodaemon](summon-derghodaemon.md)**: This spell functions like summon monster, except it summons a single derghodaemon.
 - **[Summon Greater Demon](summon-greater-demon.md)**: Summons a coloxus, omox or 1d3 kalavakus demons.
 - **[Summon Monster 9](summon-monster-9.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Thanadaemon](summon-thanadaemon.md)**: This spell functions like summon monster, except it summons a single thanadaemon.
-- **[True Resurrection](true-resurrection.md)**: As *resurrection*, plus remains aren’t needed.
+- **[True Resurrection](true-resurrection.md)**: As [*resurrection*](resurrection.md), plus remains aren’t needed.
 - **[Yellow Sign](yellow-sign.md)**: As symbol of death, but creatures that fail are dominated.
 
 ## Ultimate Magic Spells

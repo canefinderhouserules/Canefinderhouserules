@@ -108,7 +108,7 @@ An omdura can’t cast spells of an alignment opposed to her own or her deity’
 
 ### Detect Alignment (Sp)
 
-At will, an omdura can cast [*detect chaos*](../../magic/spells/detect-chaos.md), *detect evil*, [*detect good*](../../magic/spells/detect-good.md), or [*detect law*](../../magic/spells/detect-law.md). She can use only one of these at any given time.
+At will, an omdura can cast [*detect chaos*](../../magic/spells/detect-chaos.md), [*detect evil*](../../magic/spells/detect-evil.md), [*detect good*](../../magic/spells/detect-good.md), or [*detect law*](../../magic/spells/detect-law.md). She can use only one of these at any given time.
 
 ### Invocation (Su)
 

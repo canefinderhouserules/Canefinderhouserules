@@ -20,7 +20,7 @@ An intelligent magic item has a base price increase of 5,000 gp. When determinin
 
 Any item with intelligence has an alignment (see Table 15–21). Note that intelligent weapons already have alignments, either stated or by implication. If you're generating a random intelligent weapon, that weapon's alignment must fit with any alignment-oriented special abilities it has.
 
-Any character whose alignment does not correspond to that of the item (except as noted by the asterisks on the table) gains one negative level if he or she so much as picks up the item. Although this negative level never results in actual level loss, it remains as long as the item is in hand and cannot be overcome in any way (including by *restoration* spells). This negative level is cumulative with any other penalties the item might place on inappropriate wielders. Items with Ego scores (see below) of 20 to 29 bestow two negative levels. Items with Ego scores of 30 or higher bestow three negative levels.
+Any character whose alignment does not correspond to that of the item (except as noted by the asterisks on the table) gains one negative level if he or she so much as picks up the item. Although this negative level never results in actual level loss, it remains as long as the item is in hand and cannot be overcome in any way (including by [*restoration*](../magic/spells/restoration.md) spells). This negative level is cumulative with any other penalties the item might place on inappropriate wielders. Items with Ego scores (see below) of 20 to 29 bestow two negative levels. Items with Ego scores of 30 or higher bestow three negative levels.
 
 **Table 15–21: Intelligent Item Alignment**
 
@@ -76,7 +76,7 @@ Every intelligent magic item begins with the ability to see and hear within 30 f
 
 **Read Languages (Ex)**: The item can read script in any language, regardless of its known languages.
 
-**Read Magic (Sp)**: An intelligent magic item with this ability can read magical writings and scrolls as if through *read magic*. This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
+**Read Magic (Sp)**: An intelligent magic item with this ability can read magical writings and scrolls as if through [*read magic*](../magic/spells/read-magic.md). This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
 
 **Table 15–23: Intelligent Item Senses and Communication**
 
@@ -103,7 +103,7 @@ Each intelligent item should possess at least one power, although more powerful 
 |---|---|---|---|
 | 01–10 | Item can cast a 0-level spell at will | +1,000 gp | +1 |
 | 11–20 | Item can cast a 1st-level spell 3/day | +1,200 gp | +1 |
-| 21–25 | Item can use *magic aura* on itself at will | +2,000 gp | +1 |
+| 21–25 | Item can use [*magic aura*](../magic/spells/magic-aura.md) on itself at will | +2,000 gp | +1 |
 | 26–35 | Item can cast a 2nd-level spell 1/day | +2,400 gp | +1 |
 | 36–45 | Item has 5 ranks in one skill\* | +2,500 gp | +1 |
 | 46–50 | Item can sprout limbs and move with a speed of 10 feet | +5,000 gp | +1 |
@@ -157,7 +157,7 @@ A dedicated power operates only when an intelligent item is in pursuit of its sp
 | 51–65 | Item can use a 5th-level spell at will | +90,000 gp | +2 |
 | 66–80 | Item can use a 6th-level spell at will | +132,000 gp | +2 |
 | 81–95 | Item can use a 7th-level spell at will | +182,000 gp | +2 |
-| 96–100 | Item can use *true resurrection* on wielder, once per month | +200,000 gp | +2 |
+| 96–100 | Item can use [*true resurrection*](../magic/spells/true-resurrection.md) on wielder, once per month | +200,000 gp | +2 |
 
 ## Item Ego
 

@@ -5,7 +5,8 @@
 **Components** V, S, M (talc and powdered silver)  
 **Range** personal  
 **Target** you  
-**Duration** 10 min./level (D)
+**Duration** 10 min./level (D)  
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 You can see any objects or beings that are invisible within your range of vision, as well as any that are ethereal, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures.
 

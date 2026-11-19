@@ -11,4 +11,4 @@ Upon command, a *frost* weapon is sheathed in a terrible, icy cold that deals an
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *chill metal* or *ice storm*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*chill metal*](../../magic/spells/chill-metal.md) or [*ice storm*](../../magic/spells/ice-storm.md); **Price** —

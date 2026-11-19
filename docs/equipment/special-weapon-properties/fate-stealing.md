@@ -13,4 +13,4 @@ If the wielder attempts to use this ability against a foe that isn’t a grit or
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *vampiric touch*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*vampiric touch*](../../magic/spells/vampiric-touch.md); **Price** —

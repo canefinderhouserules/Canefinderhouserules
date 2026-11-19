@@ -11,4 +11,4 @@ An *allying* weapon allows the wielder to transfer some or all of the weapon’s
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *magic weapon*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*magic weapon*](../../magic/spells/magic-weapon.md); **Price** —

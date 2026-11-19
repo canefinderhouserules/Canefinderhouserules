@@ -3,6 +3,7 @@
 **School** conjuration (summoning); **Level** sorcerer/wizard 2, witch 3  
 **Casting Time** 10 minutes  
 **Components** V, S, F (the coffer and its matching ring)  
+**Range** see text  
 **Target** one small coffer and up to 1 cu. ft. of goods  
 **Duration** 60 days or until discharged  
 **Saving Throw** none; **Spell Resistance** no

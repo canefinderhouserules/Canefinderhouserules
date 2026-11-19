@@ -11,4 +11,4 @@ Upon command, a *breaking* weapon deals an extra 2d6 points of damage against in
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *break* or *shatter*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*break*](../../magic/spells/break.md) or [*shatter*](../../magic/spells/shatter.md); **Price** —

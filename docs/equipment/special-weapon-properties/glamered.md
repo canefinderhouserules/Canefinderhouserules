@@ -7,8 +7,8 @@
 
 ## Description
 
-A *glamered* weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight) when so disguised but does not radiate magic. Only *true seeing* or similar magic reveals the true nature of a *glamered* weapon while it is disguised. After a *glamered* weapon is used to attack, this special ability is suppressed for 1 minute.
+A *glamered* weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight) when so disguised but does not radiate magic. Only [*true seeing*](../../magic/spells/true-seeing.md) or similar magic reveals the true nature of a *glamered* weapon while it is disguised. After a *glamered* weapon is used to attack, this special ability is suppressed for 1 minute.
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *disguise self*, *magic aura*; **Price** +2,000 gp
+**Requirements** Craft Magic Arms and Armor, [*disguise self*](../../magic/spells/disguise-self.md), [*magic aura*](../../magic/spells/magic-aura.md); **Price** +2,000 gp

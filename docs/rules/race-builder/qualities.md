@@ -103,7 +103,7 @@ Undead races are once-living creatures animated by spiritual or supernatural for
 - Undead are harmed by positive energy and healed by negative energy. An undead creature with the fast healing special quality still benefits from that quality.
 - Undead are immune to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
 - Undead do not risk death from massive damage, but are immediately destroyed when reduced to 0 hit points or fewer.
-- Undead are not affected by *raise dead* and *reincarnate* spells or abilities. *Resurrection* and *true resurrection* can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
+- Undead are not affected by [*raise dead*](../../magic/spells/raise-dead.md) and [*reincarnate*](../../magic/spells/reincarnate.md) spells or abilities. [*Resurrection*](../../magic/spells/resurrection.md) and [*true resurrection*](../../magic/spells/true-resurrection.md) can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
 - Undead do not breathe, eat, or sleep, unless they want to gain some beneficial effect from one of these activities.
 
 This means that an undead creature can drink potions to benefit from their effects and can sleep in order to regain spells, but neither of these activities is required to survive or stay in good health.

@@ -37,7 +37,7 @@ Destroying the receptacle instantly returns the lost levels to the target and re
 
 **Effect**: The primary caster sits upon the onyx throne, invoking ancient rites blaspheming against the light of the sun. The secondary casters offer up prayers to the gods of darkness. In turn, each of the secondary casters consumes one of the *ioun stone* shards, which induces a state of catatonia for 1 hour. Throughout the ritual’s casting, a localized partial solar eclipse marks the location of the throne with an obvious pillar of darkness from above, easily noticed by creatures throughout the ritual’s area.
 
-If the ritual is successful, the area is draped in a curtain of eternal darkness, removing sunlight from the area. Illumination in the area can never be brighter than dim light, and only a *miracle* or *wish* can even temporarily alleviate this restriction (though direct intervention of a deity can end the ritual’s effect). Any light beyond dim light that would touch the area is instead transported into the *ioun stone* shards consumed by the secondary casters, making the secondary casters’ entire bodies glow. Any object with a light spell having its light thus dimmed by the ritual counts as a part of the secondary casters’ bodies for the purpose of a connection for spells like *scrying*. Collecting these *ioun stone* shards then piecing them back together while within the affected area ends the effects of this ritual.
+If the ritual is successful, the area is draped in a curtain of eternal darkness, removing sunlight from the area. Illumination in the area can never be brighter than dim light, and only a [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) can even temporarily alleviate this restriction (though direct intervention of a deity can end the ritual’s effect). Any light beyond dim light that would touch the area is instead transported into the *ioun stone* shards consumed by the secondary casters, making the secondary casters’ entire bodies glow. Any object with a light spell having its light thus dimmed by the ritual counts as a part of the secondary casters’ bodies for the purpose of a connection for spells like [*scrying*](../../magic/spells/scrying.md). Collecting these *ioun stone* shards then piecing them back together while within the affected area ends the effects of this ritual.
 
 ## Paired Suffering
 
@@ -50,7 +50,7 @@ If the ritual is successful, the area is draped in a curtain of eternal darkness
 **Duration** instantaneous; see text  
 **Saving Throw** none; SR no  
 **Backlash** The primary caster is staggered for the next 24 hours.  
-**Failure** The primary caster is affected by *slay living* (using the ritual’s save DC and caster level).  
+**Failure** The primary caster is affected by [*slay living*](../../magic/spells/slay-living.md) (using the ritual’s save DC and caster level).  
 
 **Effect**: The caster prepares a ritual site no more than 100 feet long by 100 feet wide by 20 feet high, including sigils that prevent souls from escaping the perimeter. At the culmination of the ritual, the caster forces two spiritually close humanoid creatures experiencing a transitional state of their lives into ritual combat to the death. Among most humanoids, only teenage twins (fraternal or identical) young enough that they haven’t gained a level in a PC class can be targets of this ritual; other pairings work only at the GM’s discretion. One of the targets must slay the other with the ceremonial dagger focus for the ritual to succeed; even if all the checks succeed, if either target leaves the area while the other lives, or if someone else slays one of the targets, the ritual counts as a failure, and the primary caster suffers the failure effects.
 
@@ -67,7 +67,7 @@ If the ritual succeeds, the soul of the creature slain by the ritual dagger is t
 **Duration** 10 minutes/character level of the primary caster  
 **Saving Throw** Will negates (harmless); SR no  
 **Backlash** The primary caster’s movement speeds are all reduced by 15 feet, to a minimum of 5 feet, for the next 24 hours.  
-**Failure** The target and primary caster have their vision permanently reversed, so the primary caster sees only what the target sees and vice versa. This effect can be removed only by *greater restoration*, *limited wish*, *miracle*, or *wish*.  
+**Failure** The target and primary caster have their vision permanently reversed, so the primary caster sees only what the target sees and vice versa. This effect can be removed only by [*greater restoration*](../../magic/spells/restoration-greater.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md).  
 
 **Effect**: The primary caster carefully applies specially prepared water to the target’s eyes. Following this application, one or more secondary casters paint the primary caster’s closed eyes, creating lifelike eyes overtop of the closed eyelids.
 
@@ -88,7 +88,7 @@ When the primary caster’s eyes are closed, she sees through the eyes of the ta
 
 **Effect**: The casters grind the organs into paste and use it to paint their lips and tongue. Anointed by madness, they chant profane blasphemies into the focus brain, causing it to throb and glow. The primary caster releases this energy as a foul sludge, which trickles onto the other focus before seeping into the paper or paint. A successful ritual corrupts the targeted piece of art, planting a metaphysical seed into it, which propagates itself into any copies of the work later created based on the corrupted original; this includes book copies or matched painting duplicates, but not art, literature, or music that is merely derivative. A living creature subjected to the seeded piece of art, typically by hearing or seeing it, must succeed at a Will save or be afflicted by the seed (SR applies).
 
-By default, the seed causes *insanity* or a [madness](../horror/madness.md), but numerous types of seeds exist, from different variants on this ritual with slightly different components, foci, and ritual DC. A few examples include becoming blind or deaf, contracting a disease, or rising as a zombie after death.
+By default, the seed causes [*insanity*](../../magic/spells/insanity.md) or a [madness](../horror/madness.md), but numerous types of seeds exist, from different variants on this ritual with slightly different components, foci, and ritual DC. A few examples include becoming blind or deaf, contracting a disease, or rising as a zombie after death.
 
 ## Horror and Ritual Failures
 

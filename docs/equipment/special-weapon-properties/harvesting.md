@@ -13,4 +13,4 @@ If the *harvesting* weapon is a legendary item, the wielder can have the mythic 
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, Mythic Crafter, *steal power*; **Price** —
+**Requirements** Craft Magic Arms and Armor, Mythic Crafter, [*steal power*](../../magic/spells/steal-power.md); **Price** —

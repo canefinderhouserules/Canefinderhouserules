@@ -22,4 +22,4 @@ You can apply Contagious Spell only to targeted spells that are harmful to their
 
     You can apply Contagious Spell only to targeted spells that are harmful to their target and don’t have a range of personal; a contagious spell never spreads to someone who would benefit from being the target of the spell. A contagious spell uses up a spell slot 2 levels higher than the spell’s actual level.
 
-    **Special**: A contagious spell can be identified normally as it is being cast with a successful Spellcraft check. Identifying whether a spell is contagious by its effect, however, requires the use of the *analyze dweomer* spell or a similar effect.
+    **Special**: A contagious spell can be identified normally as it is being cast with a successful Spellcraft check. Identifying whether a spell is contagious by its effect, however, requires the use of the [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell or a similar effect.

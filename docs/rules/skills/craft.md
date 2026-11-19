@@ -10,11 +10,11 @@ A Craft skill is specifically focused on creating something. If nothing is creat
 
 The basic function of the Craft skill, however, is to allow you to make an item of the appropriate type. The DC depends on the complexity of the item to be created. The DC, your check result, and the price of the item determine how long it takes to make a particular item. The item’s finished price also determines the cost of raw materials.
 
-In some cases, the *fabricate* spell can be used to achieve the results of a Craft check with no actual check involved. You must still make an appropriate Craft check when using the spell to make articles requiring a high degree of craftsmanship.
+In some cases, the [*fabricate*](../../magic/spells/fabricate.md) spell can be used to achieve the results of a Craft check with no actual check involved. You must still make an appropriate Craft check when using the spell to make articles requiring a high degree of craftsmanship.
 
-A successful Craft check related to woodworking in conjunction with the casting of the *ironwood* spell enables you to make wooden items that have the strength of steel.
+A successful Craft check related to woodworking in conjunction with the casting of the [*ironwood*](../../magic/spells/ironwood.md) spell enables you to make wooden items that have the strength of steel.
 
-When casting the spell *minor creation*, you must succeed on an appropriate Craft check to make a complex item.
+When casting the spell [*minor creation*](../../magic/spells/minor-creation.md), you must succeed on an appropriate Craft check to make a complex item.
 
 All crafts require artisan’s tools to give the best chance of success. If improvised tools are used, the check is made with a –2 penalty. On the other hand, masterwork artisan’s tools provide a +2 circumstance bonus on the check.
 

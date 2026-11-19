@@ -8,13 +8,13 @@ This corruption originates from an unsuccessful attempt at lichdom. You might ha
 
 ### Progression
 
-Lich corruptions are rarely stable, and cause incredible mental and physical strain. Whenever you fail a saving throw against a necromancy effect, learn how to cast a new spell or spells, or are exposed to 25 points of negative energy damage or more from a single source (whether it heals or harms you), you must succeed at a Fortitude save (DC = 15 + your manifestation level) or become spiritually disjoined. You also need to make a saving throw whenever anyone successfully casts the *death ward* spell on you. After a failed save, your spirit and body disconnect, leaving your corporeal form helpless and your mind trapped within the Negative Energy Plane. This state lasts for 1 hour per manifestation level; if you are killed during this time, you rise 24 hours later as a wraith under the GM’s control.
+Lich corruptions are rarely stable, and cause incredible mental and physical strain. Whenever you fail a saving throw against a necromancy effect, learn how to cast a new spell or spells, or are exposed to 25 points of negative energy damage or more from a single source (whether it heals or harms you), you must succeed at a Fortitude save (DC = 15 + your manifestation level) or become spiritually disjoined. You also need to make a saving throw whenever anyone successfully casts the [*death ward*](../../../magic/spells/death-ward.md) spell on you. After a failed save, your spirit and body disconnect, leaving your corporeal form helpless and your mind trapped within the Negative Energy Plane. This state lasts for 1 hour per manifestation level; if you are killed during this time, you rise 24 hours later as a wraith under the GM’s control.
 
 **Corruption Stage 1**: The first time you recover from this disconnected state, you return diminished, taking a permanent –2 penalty to your Charisma score, and your alignment shifts one step toward evil.
 
 **Corruption Stage 2**: The second time this happens, your alignment shifts another step toward evil and you take an additional –2 penalty to your Charisma score.
 
-**Corruption Stage 3**: The third time this happens, you die and your soul is consumed by the Negative Energy Plane. You can’t be raised or resurrected except by powerful magic such as *miracle* or *wish*. Even if you do get brought back, you are an evil lich NPC under the GM’s control.
+**Corruption Stage 3**: The third time this happens, you die and your soul is consumed by the Negative Energy Plane. You can’t be raised or resurrected except by powerful magic such as [*miracle*](../../../magic/spells/miracle.md) or [*wish*](../../../magic/spells/wish.md). Even if you do get brought back, you are an evil lich NPC under the GM’s control.
 
 ### Removing the Corruption
 
@@ -76,7 +76,7 @@ You become emaciated and nearly skeletal.
 
 **Gift**: You gain cold resistance 5 and DR equal to 1/2 your manifestation level that is overcome by bludgeoning damage.
 
-**Stain**: You take an additional –2 penalty to your Constitution score and are affected by spells and abilities (including *bane* and favored enemy) as if your creature type were undead. This doesn’t grant you the immunities of undead creatures, nor does it make you immune to effects that target living creatures or change how negative and positive energy affect you.
+**Stain**: You take an additional –2 penalty to your Constitution score and are affected by spells and abilities (including [*bane*](../../../magic/spells/bane.md) and favored enemy) as if your creature type were undead. This doesn’t grant you the immunities of undead creatures, nor does it make you immune to effects that target living creatures or change how negative and positive energy affect you.
 
 ### Malevolence
 
@@ -84,9 +84,9 @@ You can wrench your soul from your body to possess another.
 
 **Prerequisites**: Manifestation level 7th, bleak aura*, deathless*.
 
-**Gift**: You can touch a living creature as a standard action (1 AP) and force your soul into its body. If hit by this touch attack, the target must succeed at a Will save (DC = 15 + your manifestation level) or be affected by *possession*. You can possess creatures for a number of minutes per day equal to your manifestation level. These minutes don’t need to be used consecutively, but must be spent in 1-minute increments. A failed attempt costs 1 minute of use and renders your target immune to your malevolence for 24 hours. Your body is helpless while you possess another creature, and if it is destroyed you die when the duration of malevolence ends. You can use malevolence while in another creature’s body to transfer your soul again (following the same rules for casting *possession* while in a body that’s not your own).
+**Gift**: You can touch a living creature as a standard action (1 AP) and force your soul into its body. If hit by this touch attack, the target must succeed at a Will save (DC = 15 + your manifestation level) or be affected by [*possession*](../../../magic/spells/possession.md). You can possess creatures for a number of minutes per day equal to your manifestation level. These minutes don’t need to be used consecutively, but must be spent in 1-minute increments. A failed attempt costs 1 minute of use and renders your target immune to your malevolence for 24 hours. Your body is helpless while you possess another creature, and if it is destroyed you die when the duration of malevolence ends. You can use malevolence while in another creature’s body to transfer your soul again (following the same rules for casting *possession* while in a body that’s not your own).
 
-**Stain**: Your spirit is untethered from your body. You roll twice and take the lowest result on saves against spells that imprison or target your soul, such as *magic jar* and *trap the soul*, as well as against positive energy effects. If you drop below 0 hit points, your soul leaves your body and you instantly die.
+**Stain**: Your spirit is untethered from your body. You roll twice and take the lowest result on saves against spells that imprison or target your soul, such as [*magic jar*](../../../magic/spells/magic-jar.md) and [*trap the soul*](../../../magic/spells/trap-the-soul.md), as well as against positive energy effects. If you drop below 0 hit points, your soul leaves your body and you instantly die.
 
 ### Master of the Dead
 
@@ -94,7 +94,7 @@ You can animate the dead with your necromantic power.
 
 **Prerequisites**: Manifestation level 6th, agonizing touch*, death’s caress*.
 
-**Gift**: You can cast *animate dead* at will as a spell-like ability with a caster level equal to your character level. You must provide the material components, and you take 2 points of Charisma drain for every creature you animate. If the drain is removed or you avoid taking it, the animated creature is immediately destroyed (you choose which creatures are destroyed if some but not all drain is removed). Conversely, the Charisma drain from animating a creature is instantly removed when that creature is destroyed. You still must abide by the usual Hit Die limits of *animate dead*.
+**Gift**: You can cast [*animate dead*](../../../magic/spells/animate-dead.md) at will as a spell-like ability with a caster level equal to your character level. You must provide the material components, and you take 2 points of Charisma drain for every creature you animate. If the drain is removed or you avoid taking it, the animated creature is immediately destroyed (you choose which creatures are destroyed if some but not all drain is removed). Conversely, the Charisma drain from animating a creature is instantly removed when that creature is destroyed. You still must abide by the usual Hit Die limits of *animate dead*.
 
 **Stain**: Your emotions are nearly a thing of the past. You can’t benefit from morale bonuses or bardic performances.
 

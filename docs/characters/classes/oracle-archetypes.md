@@ -82,11 +82,11 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Class Skills**: An oracle with the juju mystery adds [Bluff](../../rules/skills/bluff.md), Intimidate, Knowledge (nature), [Perform](../../rules/skills/perform.md) (oratory), and Survival to her list of class skills.
 
-**Bonus Spells**: [*speak with animals*](../../magic/spells/speak-with-animals.md) (2nd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (4th), [*fear*](../../magic/spells/fear.md) (6th), [*charm monster*](../../magic/spells/charm-monster.md) (8th), *mass suggestion* (10th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (as a 6th-level spell) (12th), *summon nature's ally VII* (14th), *mass charm monster* (16th), [*shapechange*](../../magic/spells/shapechange.md) (18th).
+**Bonus Spells**: [*speak with animals*](../../magic/spells/speak-with-animals.md) (2nd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (4th), [*fear*](../../magic/spells/fear.md) (6th), [*charm monster*](../../magic/spells/charm-monster.md) (8th), [*mass suggestion*](../../magic/spells/suggestion-mass.md) (10th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (as a 6th-level spell) (12th), [*summon nature's ally VII*](../../magic/spells/summon-natures-ally-vii.md) (14th), [*mass charm monster*](../../magic/spells/charm-monster-mass.md) (16th), [*shapechange*](../../magic/spells/shapechange.md) (18th).
 
 **Revelations**: An oracle with the juju mystery can choose from any of the following revelations. Juju oracles usually have the haunted, wasting, or tongues curse.
 
-**Beast Tongue (Ex)**: You can communicate with a single type of animal (birds, cats, snakes, fish, and so on) as if you were constantly using *speak with animals*. Although this ability grants you the ability to converse with such creatures, it grants you no special influence over them.
+**Beast Tongue (Ex)**: You can communicate with a single type of animal (birds, cats, snakes, fish, and so on) as if you were constantly using [*speak with animals*](../../magic/spells/speak-with-animals.md). Although this ability grants you the ability to converse with such creatures, it grants you no special influence over them.
 
 **Connaissance (Su)**: You can spend a full-round action (3 AP) to attune yourself to the spirit world, gaining the benefit of a [*moment of prescience*](../../magic/spells/moment-of-prescience.md) spell with the insight bonus equal to one half your oracle level (minimum 1). You may use this ability a number of times per day equal to your Charisma modifier (minimum 1), but you may only have one connaissance effect active at a time.
 
@@ -474,7 +474,7 @@ The shigenjo walks the path of enlightenment and transcendence by seeking onenes
 
 **Recommended Mysteries**: ancestor, battle, fire, heavens, lore, metal, nature, stone, time, waves, wood.
 
-**Bonus Spells**: [*true strike*](../../magic/spells/true-strike.md) (2nd), *alter self* (4th), [*divine power*](../../magic/spells/divine-power.md) (8th), *magic jar* (12th), [*ki shout*](../../magic/spells/ki-shout.md) (14th, *Ultimate Magic*), *moment of prescience* (16th). These bonus spells replace the shigenjo’s mystery bonus spells at these levels.
+**Bonus Spells**: [*true strike*](../../magic/spells/true-strike.md) (2nd), [*alter self*](../../magic/spells/alter-self.md) (4th), [*divine power*](../../magic/spells/divine-power.md) (8th), [*magic jar*](../../magic/spells/magic-jar.md) (12th), [*ki shout*](../../magic/spells/ki-shout.md) (14th, *Ultimate Magic*), [*moment of prescience*](../../magic/spells/moment-of-prescience.md) (16th). These bonus spells replace the shigenjo’s mystery bonus spells at these levels.
 
 **Ki Pool (Su)**: At 7th level, a shigenjo gains a pool of *ki* points, supernatural energy she can use to accomplish amazing feats. The number of points in the shigenjo’s *ki* pool is equal to 1/3 her oracle level + her Charisma modifier. The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the shigenjo possesses levels in another class that grants points to a *ki* pool, *ki* points gained from the shigenjo class stack with those gained from the other class to determine the total number of *ki* points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is permanent. The shigenjo can use *ki* points from this pool to power the abilities of every class she possesses that grants a *ki* pool.
 
@@ -500,7 +500,7 @@ A reincarnated oracle draws her knowledge and power from the experiences of her 
 
 **Oracle’s Curse**: A reincarnated oracle must choose the haunted or tongues curse at 1st level.
 
-**Bonus Spells**: [*see alignment*](../../magic/spells/see-alignment.md) (*Ultimate Combat*, 2nd), [*detect thoughts*](../../magic/spells/detect-thoughts.md) (4th), *contact other plane* (10th), *moment of prescience* (16th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (*Ultimate Magic*, 18th). These spells replace the oracle’s mystery bonus spells at these levels.
+**Bonus Spells**: [*see alignment*](../../magic/spells/see-alignment.md) (*Ultimate Combat*, 2nd), [*detect thoughts*](../../magic/spells/detect-thoughts.md) (4th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (10th), [*moment of prescience*](../../magic/spells/moment-of-prescience.md) (16th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (*Ultimate Magic*, 18th). These spells replace the oracle’s mystery bonus spells at these levels.
 
 **Revelations**: A reincarnated oracle must take the following revelations at one of the listed levels.
 
@@ -542,7 +542,7 @@ Many lands have herbalists who practice an obscure alchemical art involving medi
 
 Like other masters of the art, herbal practitioners can use the [Profession](../../rules/skills/profession.md) (herbalist) skill in place of Craft (alchemy) to create alchemical remedies with recipes that include certain plant-derived reagents.
 
-**Master Herbalist (Su)**: An herbal practitioner has mastered countless alchemical techniques that supplement her divine powers and greatly aid her when she heals the sick and wounded. She gains a competence bonus on Profession (herbalist) checks equal to 1/2 her oracle level (minimum 1), and uses her Charisma modifier in place of her Wisdom modifier when attempting Profession (herbalist) checks. Additionally, an herbal practitioner can identify potions as if via *detect magic* using Profession (herbalist) instead of Spellcraft, and she can attempt such a check after holding a potion for 1 round.
+**Master Herbalist (Su)**: An herbal practitioner has mastered countless alchemical techniques that supplement her divine powers and greatly aid her when she heals the sick and wounded. She gains a competence bonus on Profession (herbalist) checks equal to 1/2 her oracle level (minimum 1), and uses her Charisma modifier in place of her Wisdom modifier when attempting Profession (herbalist) checks. Additionally, an herbal practitioner can identify potions as if via [*detect magic*](../../magic/spells/detect-magic.md) using Profession (herbalist) instead of Spellcraft, and she can attempt such a check after holding a potion for 1 round.
 
 This ability replaces the additional class skills the oracle gains from her mystery.
 
@@ -587,7 +587,7 @@ The black-blooded oracle has been infused with the eerie influence of strange fl
 
 ### Black Blood
 
-Black blood wells from the walls of a singular vault deep in the Underworld. This noxious fluid repulses and freezes all natural life, although certain creatures like aberrations, undead, and black-blooded oracles possess an uncanny immunity to its effects. Any other creature that comes into contact with black blood takes 1d6 points of cold damage—10d6 points of cold damage per round if fully immersed. Although black blood isn't itself inherently evil, a pint of black blood can be used as *unholy water*. A spellcaster who consumes a dose of black blood casts all necromantic spells at +1 caster level for the next 10 minutes, but takes 3d6 points of cold damage and 1 point of Constitution damage by drinking the stuff. Normally, a dose of black blood becomes inert an hour after being harvested from the source, losing all mystical properties. *Gentle repose* can preserve up to 1 gallon of black blood's magical properties for increased lengths of time, but no other method of stabilizing the stuff has yet been developed. The blood of a black-blooded oracle is diluted and does not have the properties of full-strength black blood.
+Black blood wells from the walls of a singular vault deep in the Underworld. This noxious fluid repulses and freezes all natural life, although certain creatures like aberrations, undead, and black-blooded oracles possess an uncanny immunity to its effects. Any other creature that comes into contact with black blood takes 1d6 points of cold damage—10d6 points of cold damage per round if fully immersed. Although black blood isn't itself inherently evil, a pint of black blood can be used as *unholy water*. A spellcaster who consumes a dose of black blood casts all necromantic spells at +1 caster level for the next 10 minutes, but takes 3d6 points of cold damage and 1 point of Constitution damage by drinking the stuff. Normally, a dose of black blood becomes inert an hour after being harvested from the source, losing all mystical properties. [*Gentle repose*](../../magic/spells/gentle-repose.md) can preserve up to 1 gallon of black blood's magical properties for increased lengths of time, but no other method of stabilizing the stuff has yet been developed. The blood of a black-blooded oracle is diluted and does not have the properties of full-strength black blood.
 
 ## Desert Prophet
 
@@ -597,7 +597,7 @@ Desert prophets help guide and serve a vast desert empire and its interests acro
 
 **Class Skills**: A desert prophet adds Perception, Perform (dance), and all Knowledge skills to her list of class skills. These replace the additional skills gained from the [oracle's mystery](oracle.md#mystery).
 
-**Bonus Spells**: A desert prophet gains the following bonus spells: *clairaudience/clairvoyance* (6th), [*prying eyes*](../../magic/spells/prying-eyes.md) (10th), [*true seeing*](../../magic/spells/true-seeing.md) (12th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (16th), [*foresight*](../../magic/spells/foresight.md) (18th). These replace the bonus spells at those levels gained from the [oracle's mystery](oracle.md#mystery).
+**Bonus Spells**: A desert prophet gains the following bonus spells: [*clairaudience/clairvoyance*](../../magic/spells/clairaudience-clairvoyance.md) (6th), [*prying eyes*](../../magic/spells/prying-eyes.md) (10th), [*true seeing*](../../magic/spells/true-seeing.md) (12th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (16th), [*foresight*](../../magic/spells/foresight.md) (18th). These replace the bonus spells at those levels gained from the [oracle's mystery](oracle.md#mystery).
 
 **Revelations**: A desert prophet must take the following revelation at 1st level.
 
@@ -608,10 +608,10 @@ Desert prophets help guide and serve a vast desert empire and its interests acro
 | Perform (dance) result | Benefit |
 |---|---|
 | 0–9 | Increase the saving throw DC of any divination spells you cast by 1. |
-| 10–19 | Once in the next 24 hours, as an immediate action, you can use *augury* as a spell-like ability, using your oracle level as your caster level. |
-| 20–29 | Once in the next 24 hours, you can use *divination* as a spell-like ability, using your oracle level as your caster level. If you are at least 8th level, you can cast it in 1 minute instead of 10 minutes. |
-| 30–39 | Once in the next 24 hours, you can use *commune* as a spell-like ability, using your oracle level as your caster level. If you are at least 10th level, its casting time is 1 minute instead of 10 minutes. |
-| 40+ | Once in the next 24 hours, you can use *contact other plane* as a spell-like ability, using your oracle level as your caster level. |
+| 10–19 | Once in the next 24 hours, as an immediate action, you can use [*augury*](../../magic/spells/augury.md) as a spell-like ability, using your oracle level as your caster level. |
+| 20–29 | Once in the next 24 hours, you can use [*divination*](../../magic/spells/divination.md) as a spell-like ability, using your oracle level as your caster level. If you are at least 8th level, you can cast it in 1 minute instead of 10 minutes. |
+| 30–39 | Once in the next 24 hours, you can use [*commune*](../../magic/spells/commune.md) as a spell-like ability, using your oracle level as your caster level. If you are at least 10th level, its casting time is 1 minute instead of 10 minutes. |
+| 40+ | Once in the next 24 hours, you can use [*contact other plane*](../../magic/spells/contact-other-plane.md) as a spell-like ability, using your oracle level as your caster level. |
 
 ## Cyclopean Seer
 
@@ -639,7 +639,7 @@ A cyclopean seer draws power from the mysterious prophetic abilities of ancient 
 
 This ability alters the [revelation](oracle.md#revelation) class feature.
 
-**Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: [*discern location*](../../magic/spells/discern-location.md), *prying eyes*, and [*stone tell*](../../magic/spells/stone-tell.md). In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the [oracle's mystery](oracle.md#mystery).
+**Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: [*discern location*](../../magic/spells/discern-location.md), [*prying eyes*](../../magic/spells/prying-eyes.md), and [*stone tell*](../../magic/spells/stone-tell.md). In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the [oracle's mystery](oracle.md#mystery).
 
 ## Hermit
 
@@ -649,7 +649,7 @@ A hermit is a recluse who gained her oracular powers from isolation in a deep de
 
 **Oracle's Curse**: A hermit must choose the reclusive curse at 1st level.
 
-**Bonus Spells**: *Blindness/deafness* (4th), [*crushing despair*](../../magic/spells/crushing-despair.md) (8th), [*wall of force*](../../magic/spells/wall-of-force.md) (12th), [*maze*](../../magic/spells/maze.md) (16th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
+**Bonus Spells**: [*Blindness/deafness*](../../magic/spells/blindness-deafness.md) (4th), [*crushing despair*](../../magic/spells/crushing-despair.md) (8th), [*wall of force*](../../magic/spells/wall-of-force.md) (12th), [*maze*](../../magic/spells/maze.md) (16th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
 
 **Revelations**: A hermit must take the following revelations at the listed levels.
 
@@ -665,7 +665,7 @@ Although many merfolk claim deep connections to both art and the natural world, 
 
 **Class Skills**: An ocean's echo adds Bluff, Intimidate, Knowledge (nature), and Perform to her list of class skills. These replace the additional class skills from her mystery.
 
-**Bonus Spells**: *Sound burst* (4th), [*shout*](../../magic/spells/shout.md) (8th), [*song of discord*](../../magic/spells/song-of-discord.md) (10th), *greater shout* (12th), and [*pied piping*](../../magic/spells/pied-piping.md) (14th). These bonus spells replace the oracle's mystery bonus spells at these levels.
+**Bonus Spells**: [*Sound burst*](../../magic/spells/sound-burst.md) (4th), [*shout*](../../magic/spells/shout.md) (8th), [*song of discord*](../../magic/spells/song-of-discord.md) (10th), [*greater shout*](../../magic/spells/shout-greater.md) (12th), and [*pied piping*](../../magic/spells/pied-piping.md) (14th). These bonus spells replace the oracle's mystery bonus spells at these levels.
 
 **Inspiring Song (Ex)**: The voice of an ocean's echo provides inspiration to allies. This ability is identical to bardic performance (using Perform [sing] only), allowing her to inspire courage at 1st level, inspire competence at 3rd level, and inspire heroics at 15th level, as a bard of the ocean's echo's level. It is usable a total number of rounds per day equal to her level + her Charisma modifier (minimum 1). This ability replaces the revelations gained at 1st, 3rd, and 15th level.
 
@@ -677,7 +677,7 @@ Although many merfolk claim deep connections to both art and the natural world, 
 
 **Recommended Mysteries**: ancestor, intrigue, life, lore.
 
-**Bonus Spells**: An inerrant voice gains the following bonus spells: [*shield other*](../../magic/spells/shield-other.md) (2nd), *augury* (4th), [*divination*](../../magic/spells/divination.md) (8th), [*vision*](../../magic/spells/vision.md) (14th). These replace the bonus spells at those levels gained from the [oracle's mystery](oracle.md#mystery).
+**Bonus Spells**: An inerrant voice gains the following bonus spells: [*shield other*](../../magic/spells/shield-other.md) (2nd), [*augury*](../../magic/spells/augury.md) (4th), [*divination*](../../magic/spells/divination.md) (8th), [*vision*](../../magic/spells/vision.md) (14th). These replace the bonus spells at those levels gained from the [oracle's mystery](oracle.md#mystery).
 
 **Revelations**: An inerrant voice must take the following revelation at 3rd level.
 
@@ -689,7 +689,7 @@ Although many merfolk claim deep connections to both art and the natural world, 
 
 **Recommended Mysteries**: Any.
 
-**Bonus Spells**: *Prying eyes* (10th), *arcane sight (greater)* (14th), *moment of prescience* (16th), *foresight* (18th). These bonus spells replace the oracle's mystery bonus spells at these levels.
+**Bonus Spells**: [*Prying eyes*](../../magic/spells/prying-eyes.md) (10th), *arcane sight (greater)* (14th), [*moment of prescience*](../../magic/spells/moment-of-prescience.md) (16th), [*foresight*](../../magic/spells/foresight.md) (18th). These bonus spells replace the oracle's mystery bonus spells at these levels.
 
 **Revelations**: A divine numerologist must take the following revelations at the listed levels.
 

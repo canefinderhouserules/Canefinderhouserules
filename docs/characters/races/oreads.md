@@ -28,7 +28,7 @@ Oreads are humans whose ancestry includes the touch of an elemental being of ear
 
 **Darkvision**: Oreads can see in the dark up to 60 feet.
 
-**Spell-Like Ability**: *Magic stone* 1/day (caster level equals the oread’s total level).
+**Spell-Like Ability**: [*Magic stone*](../../magic/spells/magic-stone.md) 1/day (caster level equals the oread’s total level).
 
 **Energy Resistance**: Oreads have acid resistance 5.
 
@@ -58,24 +58,24 @@ The following racial traits may be selected instead of existing oread racial tra
 
 **Oread Gem Magic (1 RP)**: Oreads' proclivity for long spans of study and concentration makes them natural wizards, witches, and oracles. Oreads with this racial trait can augment their earth-related spells and spell-like abilities through the use of precious and semiprecious gemstones as additional material components. The gems are destroyed in the process, granting the spell the listed effects in addition to its normal effects unless otherwise noted. Only one instance of oread gem magic can be applied to a spell at a time; excess expended gems do not stack. This racial trait replaces earth affinity.
 
-- *Binding earth*: +1 damage; +1 to DC of Strength checks. Cost: garnet worth 50 gp.
-- *Binding earth, mass*: As the binding earth augmentation, affecting all targets of the augmented spell. Cost: garnets worth 250 gp.
-- *Calcific touch*: +1 Dexterity damage. Cost: aquamarine worth 250 gp.
-- *Clashing rocks*: +1 damage per damage die. Cost: emeralds worth 1,500 gp.
-- *Earthquake*: +2 Reflex save DC in whatever application the spell is used; area increases to 100-foot-radius shapeable spread. Cost: jet worth 500 gp.
-- *Elemental body*: Duration increases to 10 minutes/level. Cost: amber worth 250 gp for *elemental body I*, +100 gp per spell level for greater versions.
-- *Elemental swarm*: Earth elementals summoned gain the advanced simple template (this does not stack with the [Augment Summoning](../../rules/feats/augment-summoning.md) feat). Cost: rubies worth 1,200 gp.
-- *Magic stone*: Range increment increases by 10 feet. Cost: moonstone worth 25 gp.
-- *Meld into stone*: Can bring up to 200 pounds of equipment with you; you can see as normal out of the stone. Cost: peridots worth 150 gp.
+- [*Binding earth*](../../magic/spells/binding-earth.md): +1 damage; +1 to DC of Strength checks. Cost: garnet worth 50 gp.
+- [*Binding earth, mass*](../../magic/spells/binding-earth-mass.md): As the binding earth augmentation, affecting all targets of the augmented spell. Cost: garnets worth 250 gp.
+- [*Calcific touch*](../../magic/spells/calcific-touch.md): +1 Dexterity damage. Cost: aquamarine worth 250 gp.
+- [*Clashing rocks*](../../magic/spells/clashing-rocks.md): +1 damage per damage die. Cost: emeralds worth 1,500 gp.
+- [*Earthquake*](../../magic/spells/earthquake.md): +2 Reflex save DC in whatever application the spell is used; area increases to 100-foot-radius shapeable spread. Cost: jet worth 500 gp.
+- *Elemental body*: Duration increases to 10 minutes/level. Cost: amber worth 250 gp for [*elemental body I*](../../magic/spells/elemental-body-i.md), +100 gp per spell level for greater versions.
+- [*Elemental swarm*](../../magic/spells/elemental-swarm.md): Earth elementals summoned gain the advanced simple template (this does not stack with the [Augment Summoning](../../rules/feats/augment-summoning.md) feat). Cost: rubies worth 1,200 gp.
+- [*Magic stone*](../../magic/spells/magic-stone.md): Range increment increases by 10 feet. Cost: moonstone worth 25 gp.
+- [*Meld into stone*](../../magic/spells/meld-into-stone.md): Can bring up to 200 pounds of equipment with you; you can see as normal out of the stone. Cost: peridots worth 150 gp.
 - *Mighty fist of earth*: Increase unarmed strike damage by one step (to 1d4 in most instances). Cost: sard or sardonyx worth 25 gp.
-- *Raging rubble*: Rubble deals +1 damage; distraction DC increases by 1. Cost: tourmaline worth 80 gp.
-- *Shifting sand*: Move area of sands up to 15 feet as a move action (1 AP). Cost: turquoise worth 125 gp.
-- *Soften earth and stone*: Creatures can move only at a quarter their normal speed (minimum 5 feet) in areas of mud and loose dirt. Cost: fluorite worth 100 gp.
-- *Spike stones*: +1 piercing damage; spikes deal 1 point of bleed damage. Cost: topaz worth 300 gp.
-- *Stone shape*: Shapes that include moving parts have only 5% chance of not working. Cost: opal worth 250 gp.
-- *Stone shield*: If your opponent's attack strikes the stone shield, its full damage roll is also applied to its weapon. Unarmed strikes and natural attacks are not affected. Cost: jade worth 75 gp.
-- *Stoneskin*: The cost of this spell's expensive material component can be reduced or increased to affect the spell's power accordingly. With reduced components, the spell grants DR 10/silver (instead of adamantine); with increased components, the spell absorbs 15 points of damage per caster level before it's discharged. Cost: diamonds worth 150 gp (reduced); diamonds worth 500 gp (increased).
-- *Wall of stone*: Wall is 1 inch thick per 3 caster levels. Cost: sapphire worth 400 gp.
+- [*Raging rubble*](../../magic/spells/raging-rubble.md): Rubble deals +1 damage; distraction DC increases by 1. Cost: tourmaline worth 80 gp.
+- [*Shifting sand*](../../magic/spells/shifting-sand.md): Move area of sands up to 15 feet as a move action (1 AP). Cost: turquoise worth 125 gp.
+- [*Soften earth and stone*](../../magic/spells/soften-earth-and-stone.md): Creatures can move only at a quarter their normal speed (minimum 5 feet) in areas of mud and loose dirt. Cost: fluorite worth 100 gp.
+- [*Spike stones*](../../magic/spells/spike-stones.md): +1 piercing damage; spikes deal 1 point of bleed damage. Cost: topaz worth 300 gp.
+- [*Stone shape*](../../magic/spells/stone-shape.md): Shapes that include moving parts have only 5% chance of not working. Cost: opal worth 250 gp.
+- [*Stone shield*](../../magic/spells/stone-shield.md): If your opponent's attack strikes the stone shield, its full damage roll is also applied to its weapon. Unarmed strikes and natural attacks are not affected. Cost: jade worth 75 gp.
+- [*Stoneskin*](../../magic/spells/stoneskin.md): The cost of this spell's expensive material component can be reduced or increased to affect the spell's power accordingly. With reduced components, the spell grants DR 10/silver (instead of adamantine); with increased components, the spell absorbs 15 points of damage per caster level before it's discharged. Cost: diamonds worth 150 gp (reduced); diamonds worth 500 gp (increased).
+- [*Wall of stone*](../../magic/spells/wall-of-stone.md): Wall is 1 inch thick per 3 caster levels. Cost: sapphire worth 400 gp.
 
 ## Favored Class Options
 

@@ -34,7 +34,7 @@ This category covers various traits that other categories do not, which can augm
 
 **Treespeech (2 RP)**  
 *Prerequisite*: Plant type  
-*Benefit*: Members of this race have the ability to converse with plants as if subject to a continual *speak with plants* spell.
+*Benefit*: Members of this race have the ability to converse with plants as if subject to a continual [*speak with plants*](../../magic/spells/speak-with-plants.md) spell.
 
 ## Advanced Traits
 

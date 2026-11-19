@@ -8,4 +8,4 @@
 **Duration** 1 day/level or until discharged (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *lesser geas*, except the only allowed command is “use pesh or refined pesh.”
+This spell functions like [*lesser geas*](geas-lesser.md), except the only allowed command is “use pesh or refined pesh.”

@@ -140,7 +140,7 @@ Note that these values are approximate and based on the values for a campaign us
 | 20 | 19 | 123,000 gp | 40,000 gp | 35,000 gp | 35,000 gp | 11,000 gp | 2,000 gp |
 | — | 20 | 159,000 gp | 55,000 gp | 40,000 gp | 44,000 gp | 18,000 gp | 2,000 gp |
 
-**Weapons**: This includes normal, masterwork, and magic weapons, as well as magic staves and wands used by spellcasters to harm their enemies. For example, a wand of *scorching ray* would count as a weapon, but a staff of life would count as a piece of magic gear.
+**Weapons**: This includes normal, masterwork, and magic weapons, as well as magic staves and wands used by spellcasters to harm their enemies. For example, a wand of [*scorching ray*](../../magic/spells/scorching-ray.md) would count as a weapon, but a staff of life would count as a piece of magic gear.
 
 **Protection**: This category includes armor and shields, as well as any magic item that augments a character's Armor Class or saving throws.
 

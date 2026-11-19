@@ -3,6 +3,7 @@
 **School** illusion (phantasm) [mind-affecting]; **Level** psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action (1 AP)  
 **Components** S  
+**Range** long (400 ft. + 40 ft./level)  
 **Target** one creature  
 **Duration** permanent (D)  
 **Saving Throw** Will disbelief; **Spell Resistance** yes

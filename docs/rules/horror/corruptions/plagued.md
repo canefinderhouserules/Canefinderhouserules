@@ -14,7 +14,7 @@ Once per month, if you did not infect a number of creatures equal to or greater 
 
 **Corruption Stage 1**: The first time your corruption progresses, any disease you suffer from becomes more tenacious. You take a –2 penalty on all saving throws to resist contracting a new disease, and your alignment shifts one step toward evil.
 
-**Corruption Stage 2**: The second time your corruption progresses, diseases you suffer from become difficult to cure; the DC of a disease you are suffering from is increased by 10 for the purposes of caster level checks for spells such as *remove disease* to cure you from its effects. Your alignment shifts to evil.
+**Corruption Stage 2**: The second time your corruption progresses, diseases you suffer from become difficult to cure; the DC of a disease you are suffering from is increased by 10 for the purposes of caster level checks for spells such as [*remove disease*](../../../magic/spells/remove-disease.md) to cure you from its effects. Your alignment shifts to evil.
 
 **Corruption Stage 3**: The third time your corruption progresses, your disease saps your free will and the GM gains control of your character.
 
@@ -52,7 +52,7 @@ The following are manifestations of the plagued corruption.
 
 **Prerequisite**: Manifestation level 6th, infectious thoughts, miserable company.
 
-**Gift**: The dreams of victims of the diseases you spread are apparent to you. Once per day while you rest, you can cause a number of sleeping victims of your disease up to your manifestation level to suffer the effects of one of these spells of your choice: *dream*, *fear* (upon awakening), *nightmare*, or *suggestion* (upon awakening).
+**Gift**: The dreams of victims of the diseases you spread are apparent to you. Once per day while you rest, you can cause a number of sleeping victims of your disease up to your manifestation level to suffer the effects of one of these spells of your choice: [*dream*](../../../magic/spells/dream.md), [*fear*](../../../magic/spells/fear.md) (upon awakening), [*nightmare*](../../../magic/spells/nightmare.md), or [*suggestion*](../../../magic/spells/suggestion.md) (upon awakening).
 
 **Stain**: You sleep poorly. You must rest for 12 hours each night to gain the full benefits of rest.
 
@@ -88,6 +88,6 @@ The following are manifestations of the plagued corruption.
 
 **Prerequisite**: Manifestation level 7th, infectious thoughts, miserable company.
 
-**Gift**: As a move action (1 AP), for as long as you concentrate, you can borrow the senses of any creature suffering from a disease effect you created, as long as the creature is within range of your infectious thoughts. Your body is effectively blind and deaf while you concentrate. The target can resist this intrusion with a successful Will saving throw. At manifestation level 9th, you can possess one such victim as per *possession* once per day as a standard action (1 AP) while you are already sharing its senses.
+**Gift**: As a move action (1 AP), for as long as you concentrate, you can borrow the senses of any creature suffering from a disease effect you created, as long as the creature is within range of your infectious thoughts. Your body is effectively blind and deaf while you concentrate. The target can resist this intrusion with a successful Will saving throw. At manifestation level 9th, you can possess one such victim as per [*possession*](../../../magic/spells/possession.md) once per day as a standard action (1 AP) while you are already sharing its senses.
 
 **Stain**: Your senses falter. You take a –4 penalty on Perception checks and Sense Motive checks while you are not using theft of awareness.

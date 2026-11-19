@@ -12,6 +12,6 @@ You cause wood to bend and warp, permanently destroying its straightness, form, 
 
 You may warp one Small or smaller object or its equivalent per caster level. A Medium object counts as two Small objects, a Large object as four, a Huge object as eight, a Gargantuan object as 16, and a Colossal object as 32.
 
-Alternatively, you can unwarp wood (effectively warping it back to normal) with this spell. *Make whole*, on the other hand, does no good in repairing a warped item.
+Alternatively, you can unwarp wood (effectively warping it back to normal) with this spell. [*Make whole*](make-whole.md), on the other hand, does no good in repairing a warped item.
 
 You can combine multiple consecutive *warp wood* spells to warp (or unwarp) an object that is too large for you to warp with a single spell. Until the object is completely warped, it suffers no ill effects.

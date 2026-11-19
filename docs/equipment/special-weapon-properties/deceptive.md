@@ -11,4 +11,4 @@ A *deceptive* weapon’s shape blurs and appears to bend unpredictably. When the
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *dazzling blade*<sup>RG</sup>; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*dazzling blade*](../../magic/spells/dazzling-blade.md)<sup>RG</sup>; **Price** —

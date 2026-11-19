@@ -109,7 +109,7 @@ Generations ago, a demon spread its filth into your heritage. While it does not 
 
 **Class Skill**: Knowledge (planes).
 
-**Bonus Spells**: [*cause fear*](../../magic/spells/cause-fear.md) (3rd), [*bull’s strength*](../../magic/spells/bulls-strength.md) (5th), [*rage*](../../magic/spells/rage.md) (7th), [*stoneskin*](../../magic/spells/stoneskin.md) (9th), [*dismissal*](../../magic/spells/dismissal.md) (11th), [*transformation*](../../magic/spells/transformation.md) (13th), *greater* [*teleport*](../../magic/spells/teleport.md) (15th), [*unholy aura*](../../magic/spells/unholy-aura.md) (17th), *summon monster IX* (19th).
+**Bonus Spells**: [*cause fear*](../../magic/spells/cause-fear.md) (3rd), [*bull’s strength*](../../magic/spells/bulls-strength.md) (5th), [*rage*](../../magic/spells/rage.md) (7th), [*stoneskin*](../../magic/spells/stoneskin.md) (9th), [*dismissal*](../../magic/spells/dismissal.md) (11th), [*transformation*](../../magic/spells/transformation.md) (13th), *greater* [*teleport*](../../magic/spells/teleport.md) (15th), [*unholy aura*](../../magic/spells/unholy-aura.md) (17th), [*summon monster IX*](../../magic/spells/summon-monster-ix.md) (19th).
 
 **Bonus Feats**: [Augment Summoning](../../rules/feats/augment-summoning.md), Cleave, [Empower Spell](../../rules/feats/empower-spell.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus (Knowledge [planes]).
 
@@ -133,7 +133,7 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Class Skill**: Knowledge (any one).
 
-**Bonus Spells**: [*identify*](../../magic/spells/identify.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*dispel magic*](../../magic/spells/dispel-magic.md) (7th), [*dimension door*](../../magic/spells/dimension-door.md) (9th), [*overland flight*](../../magic/spells/overland-flight.md) (11th), [*true seeing*](../../magic/spells/true-seeing.md) (13th), *greater teleport* (15th), [*power word stun*](../../magic/spells/power-word-stun.md) (17th), [*wish*](../../magic/spells/wish.md) (19th).
+**Bonus Spells**: [*identify*](../../magic/spells/identify.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*dispel magic*](../../magic/spells/dispel-magic.md) (7th), [*dimension door*](../../magic/spells/dimension-door.md) (9th), [*overland flight*](../../magic/spells/overland-flight.md) (11th), [*true seeing*](../../magic/spells/true-seeing.md) (13th), [*greater teleport*](../../magic/spells/teleport-greater.md) (15th), [*power word stun*](../../magic/spells/power-word-stun.md) (17th), [*wish*](../../magic/spells/wish.md) (19th).
 
 **Bonus Feats**: Combat Casting, [Improved Counterspell](../../rules/feats/improved-counterspell.md), Improved Initiative, Iron Will, [Scribe Scroll](../../rules/feats/scribe-scroll.md), Skill Focus (Knowledge [arcana]), Spell Focus, [Still Spell](../../rules/feats/still-spell.md).
 
@@ -184,7 +184,7 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 **Class Skill**: [Heal](../../rules/skills/heal.md).
 
-**Bonus Spells**: [*bless*](../../magic/spells/bless.md) (3rd), [*resist energy*](../../magic/spells/resist-energy.md) (5th), *magic circle* *against evil* (7th), [*remove curse*](../../magic/spells/remove-curse.md) (9th), [*flame strike*](../../magic/spells/flame-strike.md) (11th), *greater dispel magic* (13th), [*banishment*](../../magic/spells/banishment.md) (15th), [*sunburst*](../../magic/spells/sunburst.md) (17th), [*gate*](../../magic/spells/gate.md) (19th).
+**Bonus Spells**: [*bless*](../../magic/spells/bless.md) (3rd), [*resist energy*](../../magic/spells/resist-energy.md) (5th), *magic circle* *against evil* (7th), [*remove curse*](../../magic/spells/remove-curse.md) (9th), [*flame strike*](../../magic/spells/flame-strike.md) (11th), [*greater dispel magic*](../../magic/spells/dispel-magic-greater.md) (13th), [*banishment*](../../magic/spells/banishment.md) (15th), [*sunburst*](../../magic/spells/sunburst.md) (17th), [*gate*](../../magic/spells/gate.md) (19th).
 
 **Bonus Feats**: Dodge, Extend Spell, Iron Will, Mobility, [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), Skill Focus (Knowledge [religion]), [Weapon Finesse](../../rules/feats/weapon-finesse.md).
 
@@ -200,7 +200,7 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 *Conviction (Su)*: At 15th level, you can reroll any one ability check, attack roll, skill check, or saving throw you just made. You must decide to use this ability after the die is rolled, but before the results are revealed by the GM. You must take the second result, even if it is worse. You can use this ability once per day.
 
-*Ascension (Su)*: At 20th level, you become infused with the power of the heavens. You gain immunity to acid, cold, and petrification. You also gain resist electricity 10, resist fire 10, and a +4 racial bonus on saves against poison. You also gain unlimited use of the wings of heaven ability. Finally, you gain the ability to speak with any creature that has a language (as per the *tongues* spell).
+*Ascension (Su)*: At 20th level, you become infused with the power of the heavens. You gain immunity to acid, cold, and petrification. You also gain resist electricity 10, resist fire 10, and a +4 racial bonus on saves against poison. You also gain unlimited use of the wings of heaven ability. Finally, you gain the ability to speak with any creature that has a language (as per the [*tongues*](../../magic/spells/tongues.md) spell).
 
 ## Destined
 
@@ -232,7 +232,7 @@ At some point in your family’s history, a dragon interbred with your bloodline
 
 **Class Skill**: [Perception](../../rules/skills/perception.md).
 
-**Bonus Spells**: [*mage armor*](../../magic/spells/mage-armor.md) (3rd), *resist energy* (5th), *fly* (7th), [*fear*](../../magic/spells/fear.md) (9th), [*spell resistance*](../../magic/spells/spell-resistance.md) (11th), *form of the dragon I* (13th), *form* *of the dragon II* (15th), *form of the dragon III* (17th), *wish* (19th).
+**Bonus Spells**: [*mage armor*](../../magic/spells/mage-armor.md) (3rd), [*resist energy*](../../magic/spells/resist-energy.md) (5th), [*fly*](../../magic/spells/fly.md) (7th), [*fear*](../../magic/spells/fear.md) (9th), [*spell resistance*](../../magic/spells/spell-resistance.md) (11th), [*form of the dragon I*](../../magic/spells/form-of-the-dragon-i.md) (13th), *form* *of the dragon II* (15th), [*form of the dragon III*](../../magic/spells/form-of-the-dragon-iii.md) (17th), [*wish*](../../magic/spells/wish.md) (19th).
 
 **Bonus Feats**: Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, [Quicken Spell](../../rules/feats/quicken-spell.md), Skill Focus ([Fly](../../rules/skills/fly.md)), Skill Focus (Knowledge [arcana]), Toughness.
 
@@ -301,7 +301,7 @@ The power of the elements resides in you, and at times you can hardly control it
 
 **Class Skill**: Knowledge (planes).
 
-**Bonus Spells**: *burning hands** (3rd), *scorching ray** (5th), *protection from energy* (7th), *elemental body I* (9th), *elemental* *body II* (11th), *elemental body III* (13th), *elemental body IV* (15th), *summon monster VIII* (elementals only) (17th), *elemental* *swarm* (19th).
+**Bonus Spells**: *burning hands** (3rd), *scorching ray** (5th), [*protection from energy*](../../magic/spells/protection-from-energy.md) (7th), [*elemental body I*](../../magic/spells/elemental-body-i.md) (9th), *elemental* *body II* (11th), [*elemental body III*](../../magic/spells/elemental-body-iii.md) (13th), [*elemental body IV*](../../magic/spells/elemental-body-iv.md) (15th), [*summon monster VIII*](../../magic/spells/summon-monster-viii.md) (elementals only) (17th), *elemental* *swarm* (19th).
 
 *These spells always deal a type of damage determined by your element. In addition, the subtype of these spells changes to match the energy type of your element.
 
@@ -334,7 +334,7 @@ The capricious nature of the fey runs in your family due to some intermingling o
 
 **Class Skill**: Knowledge (nature).
 
-**Bonus Spells**: [*entangle*](../../magic/spells/entangle.md) (3rd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (5th), *deep* *slumber* (7th), [*poison*](../../magic/spells/poison.md) (9th), [*tree stride*](../../magic/spells/tree-stride.md) (11th), *mislead* (13th), [*phase door*](../../magic/spells/phase-door.md) (15th), [*irresistible dance*](../../magic/spells/irresistible-dance.md) (17th), *shapechange* (19th).
+**Bonus Spells**: [*entangle*](../../magic/spells/entangle.md) (3rd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (5th), *deep* *slumber* (7th), [*poison*](../../magic/spells/poison.md) (9th), [*tree stride*](../../magic/spells/tree-stride.md) (11th), [*mislead*](../../magic/spells/mislead.md) (13th), [*phase door*](../../magic/spells/phase-door.md) (15th), [*irresistible dance*](../../magic/spells/irresistible-dance.md) (17th), [*shapechange*](../../magic/spells/shapechange.md) (19th).
 
 **Bonus Feats**: Dodge, Improved Initiative, Lightning Reflexes, Mobility, Point Blank Shot, [Precise Shot](../../rules/feats/precise-shot.md), Quicken Spell, Skill Focus (Knowledge [nature]).
 
@@ -358,7 +358,7 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 **Class Skill**: [Diplomacy](../../rules/skills/diplomacy.md).
 
-**Bonus Spells**: [*protection from good*](../../magic/spells/protection-from-good.md) (3rd), [*scorching ray*](../../magic/spells/scorching-ray.md) (5th), [*suggestion*](../../magic/spells/suggestion.md) (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*dominate person*](../../magic/spells/dominate-person.md) (11th), [*planar binding*](../../magic/spells/planar-binding.md) (devils and creatures with the fiendish template only) (13th), *greater teleport* (15th), *power word stun* (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
+**Bonus Spells**: [*protection from good*](../../magic/spells/protection-from-good.md) (3rd), [*scorching ray*](../../magic/spells/scorching-ray.md) (5th), [*suggestion*](../../magic/spells/suggestion.md) (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*dominate person*](../../magic/spells/dominate-person.md) (11th), [*planar binding*](../../magic/spells/planar-binding.md) (devils and creatures with the fiendish template only) (13th), [*greater teleport*](../../magic/spells/teleport-greater.md) (15th), [*power word stun*](../../magic/spells/power-word-stun.md) (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
 
 **Bonus Feats**: Blind-Fight, [Combat Expertise](../../rules/feats/combat-expertise.md), Deceitful, Extend Spell, Improved Disarm, Iron Will, Skill Focus (Knowledge [planes]), [Spell Penetration](../../rules/feats/spell-penetration.md).
 
@@ -454,7 +454,7 @@ Your connection to the hungering undead shapes your magic. Sorcerers whose ances
 
 **Class Skill**: Stealth.
 
-**Bonus Spells**: *Ray of enfeeblement* (3rd), [*feast of ashes*](../../magic/spells/feast-of-ashes.md) (5th), *vampiric touch* (7th), *fear* (9th), [*hungry earth*](../../magic/spells/hungry-earth.md) (11th), [*move earth*](../../magic/spells/move-earth.md) (13th), [*control undead*](../../magic/spells/control-undead.md) (15th), *unholy aura* (17th), [*wail of the banshee*](../../magic/spells/wail-of-the-banshee.md) (19th).
+**Bonus Spells**: [*Ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (3rd), [*feast of ashes*](../../magic/spells/feast-of-ashes.md) (5th), [*vampiric touch*](../../magic/spells/vampiric-touch.md) (7th), [*fear*](../../magic/spells/fear.md) (9th), [*hungry earth*](../../magic/spells/hungry-earth.md) (11th), [*move earth*](../../magic/spells/move-earth.md) (13th), [*control undead*](../../magic/spells/control-undead.md) (15th), [*unholy aura*](../../magic/spells/unholy-aura.md) (17th), [*wail of the banshee*](../../magic/spells/wail-of-the-banshee.md) (19th).
 
 **Bonus Feats**: Arcane Strike, Combat Casting, Power Attack, Skill Focus (Knowledge [religion]), Spell Focus (necromancy), Toughness, [Warren Digger](../../rules/feats/warren-digger.md), Weapon Finesse.
 
@@ -478,7 +478,7 @@ Unicorns are among the most fabled creatures of the deep forests: deeply empathe
 
 **Class Skill**: Heal.
 
-**Bonus Spells**: *Cure light wounds* (3rd), [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) (5th), [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) (7th), [*atonement*](../../magic/spells/atonement.md) (11th), [*heal*](../../magic/spells/heal.md) (13th), *greater restoration* (15th), *mass cure critical wounds* (17th), *mass heal* (19th).
+**Bonus Spells**: [*Cure light wounds*](../../magic/spells/cure-light-wounds.md) (3rd), [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) (5th), [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) (7th), [*atonement*](../../magic/spells/atonement.md) (11th), [*heal*](../../magic/spells/heal.md) (13th), [*greater restoration*](../../magic/spells/restoration-greater.md) (15th), [*mass cure critical wounds*](../../magic/spells/cure-critical-wounds-mass.md) (17th), [*mass heal*](../../magic/spells/heal-mass.md) (19th).
 
 **Bonus Feats**: Alertness, [Animal Affinity](../../rules/feats/animal-affinity.md), [Brew Potion](../../rules/feats/brew-potion.md), Fleet, Greater Fortitude, Improved Counterspell, Self-Sufficient, Skill Focus (Heal).
 
@@ -502,7 +502,7 @@ One of your ancestors bore witness to a phoenix's resurrection and formed a bond
 
 **Class Skill**: Knowledge (arcana).
 
-**Bonus Spells**: *Color spray* (3rd), *see invisibility* (5th), *magic circle against evil* (7th), [*wall of fire*](../../magic/spells/wall-of-fire.md) (9th), *break enchantment* (11th), [*path of the winds*](../../magic/spells/path-of-the-winds.md) (13th), [*firebrand*](../../magic/spells/firebrand.md) (15th), [*prismatic wall*](../../magic/spells/prismatic-wall.md) (17th), [*fiery body*](../../magic/spells/fiery-body.md) (19th).
+**Bonus Spells**: [*Color spray*](../../magic/spells/color-spray.md) (3rd), [*see invisibility*](../../magic/spells/see-invisibility.md) (5th), [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md) (7th), [*wall of fire*](../../magic/spells/wall-of-fire.md) (9th), [*break enchantment*](../../magic/spells/break-enchantment.md) (11th), [*path of the winds*](../../magic/spells/path-of-the-winds.md) (13th), [*firebrand*](../../magic/spells/firebrand.md) (15th), [*prismatic wall*](../../magic/spells/prismatic-wall.md) (17th), [*fiery body*](../../magic/spells/fiery-body.md) (19th).
 
 **Bonus Feats**: Dodge, Elemental Focus (fire), [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Mobility, Quicken Spell, Skill Focus (Knowledge [arcana]).
 
@@ -516,7 +516,7 @@ One of your ancestors bore witness to a phoenix's resurrection and formed a bond
 
 *Vermilion Wings (Su)*: At 9th level, you gain the ability to grow a pair of phoenix wings from your back as a standard action (1 AP). The wings grant you a fly speed of 60 feet with good maneuverability. You can dismiss the wings as a free action.
 
-*Restoring Flames (Sp)*: At 15th level, you can cast *greater restoration* once per day as a spell-like ability.
+*Restoring Flames (Sp)*: At 15th level, you can cast [*greater restoration*](../../magic/spells/restoration-greater.md) once per day as a spell-like ability.
 
 *Rebirth (Su)*: At 20th level, the full power of a phoenix erupts from within you if you perish. When you die, you are brought back to life, as [*true resurrection*](../../magic/spells/true-resurrection.md), after 1 minute. This ability can be used only once every 24 hours, and if you are slain again within this period, your death is permanent.
 
@@ -526,7 +526,7 @@ Just as knowledge of the fate deck has passed from generation to generation sinc
 
 **Class Skill**: Knowledge (history).
 
-**Bonus Spells**: *Ill omen* (3rd), [*augury*](../../magic/spells/augury.md) (5th), *clairaudience/clairvoyance* (7th), [*shadow conjuration*](../../magic/spells/shadow-conjuration.md) (9th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (11th), [*legend lore*](../../magic/spells/legend-lore.md) (13th), [*vision*](../../magic/spells/vision.md) (15th), *moment of prescience* (17th), [*weird*](../../magic/spells/weird.md) (19th).
+**Bonus Spells**: [*Ill omen*](../../magic/spells/ill-omen.md) (3rd), [*augury*](../../magic/spells/augury.md) (5th), [*clairaudience/clairvoyance*](../../magic/spells/clairaudience-clairvoyance.md) (7th), [*shadow conjuration*](../../magic/spells/shadow-conjuration.md) (9th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (11th), [*legend lore*](../../magic/spells/legend-lore.md) (13th), [*vision*](../../magic/spells/vision.md) (15th), [*moment of prescience*](../../magic/spells/moment-of-prescience.md) (17th), [*weird*](../../magic/spells/weird.md) (19th).
 
 **Bonus Feats**: Alertness, [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), Extend Spell, Skill Focus (Knowledge [history]).
 

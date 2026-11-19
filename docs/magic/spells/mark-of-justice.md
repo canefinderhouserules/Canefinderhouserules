@@ -12,4 +12,4 @@ You mark a subject and state some behavior on the part of the subject that will 
 
 Since this spell takes 10 minutes to cast and involves writing on the target, you can cast it only on a creature that is willing or restrained.
 
-Like the effect of *bestow curse*, a *mark of justice* cannot be dispelled, but it can be removed with a [*break enchantment*](break-enchantment.md), *limited* [*wish*](wish.md), [*miracle*](miracle.md), [*remove curse*](remove-curse.md), or *wish* spell. *Remove curse* works only if its caster level is equal to or higher than your *mark of justice* caster level. These restrictions apply regardless of whether the mark has activated.
+Like the effect of [*bestow curse*](bestow-curse.md), a *mark of justice* cannot be dispelled, but it can be removed with a [*break enchantment*](break-enchantment.md), *limited* [*wish*](wish.md), [*miracle*](miracle.md), [*remove curse*](remove-curse.md), or [*wish*](wish.md) spell. [*Remove curse*](remove-curse.md) works only if its caster level is equal to or higher than your *mark of justice* caster level. These restrictions apply regardless of whether the mark has activated.

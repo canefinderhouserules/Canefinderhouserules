@@ -10,4 +10,4 @@ A guardian weapon infuses its wielder with protective wards and great resistance
 
 #### Construction
 
-**Requirements** Craft Magic Arms and Armor, *resistance*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*resistance*](../../magic/spells/resistance.md); **Price** —

@@ -8,7 +8,7 @@ A person has a chance of going insane every time he suffers a tremendous shock t
 
 At your option, a creature can risk going insane under extremely unusual situations even when his mental ability scores are unharmed. A character suffering long imprisonment might have to save against developing agoraphobia or claustrophobia. Someone repeatedly betrayed by allies might have to save against paranoia. A mind possessed by a powerful demon might have to save upon being exorcized to keep from becoming psychotic.
 
-Insanity can also be inflicted via magic. Consider allowing the spell *insanity* to inflict 1 randomly determined insanity per 5 caster levels rather than causing permanent confusion. *Bestow curse* can also inflict a single insanity on a foe, in which case the insanity is also a curse.
+Insanity can also be inflicted via magic. Consider allowing the spell [*insanity*](../../magic/spells/insanity.md) to inflict 1 randomly determined insanity per 5 caster levels rather than causing permanent confusion. [*Bestow curse*](../../magic/spells/bestow-curse.md) can also inflict a single insanity on a foe, in which case the insanity is also a curse.
 
 It is possible to suffer from multiple forms of insanity. If you become afflicted with a form of insanity you already have, the current DC of that insanity increases by 5.
 
@@ -16,7 +16,7 @@ It is possible to suffer from multiple forms of insanity. If you become afflicte
 
 All insanities have a DC that represents the insanity's strength. It is the Will save needed to resist contracting the insanity when first exposed, and also the DC needed to recover. Recovering naturally is lengthy: once per week, make a Will save against the insanity's current DC. On a success, the insanity's DC is reduced by your Charisma bonus (minimum 1). You continue to suffer the full effects until its DC is reduced to 0, at which point you are cured.
 
-*Lesser restoration* has no effect on insanity, but *restoration* reduces the current DC of one insanity affecting a target by an amount equal to the caster's level. *Greater restoration*, *heal*, *limited wish*, *miracle*, or *wish* immediately cures a target of all insanity.
+[*Lesser restoration*](../../magic/spells/restoration-lesser.md) has no effect on insanity, but [*restoration*](../../magic/spells/restoration.md) reduces the current DC of one insanity affecting a target by an amount equal to the caster's level. [*Greater restoration*](../../magic/spells/restoration-greater.md), [*heal*](../../magic/spells/heal.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) immediately cures a target of all insanity.
 
 ## Types of Insanity
 

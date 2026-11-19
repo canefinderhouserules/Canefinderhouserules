@@ -48,7 +48,7 @@ Fear lingers in your mind, and you can spread it to others.
 
 **Gift**: You have a knack for guessing just how to scare others. You gain a +2 bonus on Intimidate checks and the DCs of fear effects you create increase by 1. At manifestation level 3rd, the bonus on Intimidate checks increases to +4 and the DC increases by 2 instead of 1.
 
-**Stain**: Your hair loses its color and your sleep is interrupted by nightmares that never leave your mind. You take a –2 penalty on saving throws against fear effects, and you lose any immunities to fear you might otherwise possess. You gain immunity to effects that would remove your fear (such as *remove fear*). At manifestation level 3rd, the penalty changes to –4.
+**Stain**: Your hair loses its color and your sleep is interrupted by nightmares that never leave your mind. You take a –2 penalty on saving throws against fear effects, and you lose any immunities to fear you might otherwise possess. You gain immunity to effects that would remove your fear (such as [*remove fear*](../../../magic/spells/remove-fear.md)). At manifestation level 3rd, the penalty changes to –4.
 
 ### Insubstantiality
 
@@ -96,7 +96,7 @@ Using shadows drawn from the Plane of Shadow, you can spin falsehoods into convi
 
 **Prerequisite**: Manifestation level 2nd.
 
-**Gift**: Once per day, you can use *shadow conjuration* as a spell-like ability, but only to emulate a sorcerer/wizard spell 1 spell level lower than your manifestation level. Your caster level is equal to your character level. The illusion is 10% real + another 10% real for every manifestation level you have beyond 2nd.
+**Gift**: Once per day, you can use [*shadow conjuration*](../../../magic/spells/shadow-conjuration.md) as a spell-like ability, but only to emulate a sorcerer/wizard spell 1 spell level lower than your manifestation level. Your caster level is equal to your character level. The illusion is 10% real + another 10% real for every manifestation level you have beyond 2nd.
 
 **Stain**: Joy and excitement have become foreign to you, leaving pain the only sensation of much interest. You can’t benefit from morale bonuses or bardic performances.
 

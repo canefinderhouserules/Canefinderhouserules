@@ -11,4 +11,4 @@ This special ability can only be placed on melee weapons. When a *vicious* weapo
 
 ## Construction
 
-**Requirements** Craft Magic Arms and Armor, *enervation*; **Price** —
+**Requirements** Craft Magic Arms and Armor, [*enervation*](../../magic/spells/enervation.md); **Price** —
