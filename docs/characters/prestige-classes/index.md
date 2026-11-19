@@ -168,6 +168,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Proctor](proctor.md)**: A devoted follower of a monitor demigod who gains its boons early and manifests its nature.
 
+**[Polymorph Savant](polymorph-savant.md)**: A legendary shifter who takes the widest possible range of forms: insects, monsters, fey, oozes, plants and dragons.
+
 **[Prophet of Commerce](prophet-of-commerce.md)**: A merchant-prophet who buys spells with gold and displays wealth as armor.
 
 **[Rage Prophet](rage-prophet.md)**: A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.

@@ -628,6 +628,14 @@ You scramble a foe’s ability to understand any communication. A foe dealt dama
 
 This infusion treats those hit as if affected by *arbitrament*, as the spell, using the kineticist’s level as their caster level. This infusion costs double for kineticists of an alignment other than neutral, and chaotic evil, chaotic good, lawful evil, and lawful good kineticists are *sickened* for 1d4 rounds after using this infusion.
 
+### Armored Form
+
+**Element(s)** universal; **Type** utility (Su); **Level** 6; **Burn** --
+
+**Prerequisite(s)** kinetic form
+
+While your kinetic form is active, you gain a +1 bonus to your natural armor bonus. This bonus increases by +1 for every 2 burn you possess.
+
 ### Basic Cryokinesis
 
 **Element(s)** water; **Type** utility (Su); **Level** 1; **Burn** --
@@ -685,6 +693,14 @@ At 9th level, you can accept one additional point of burn to give the affected w
 **Prerequisite(s)** improved cantikinesis
 
 You learn the composite blasts associated with the simple kinetic blast gained through improved cantikinesis and any kinetic blasts you possess, and any blasts learned through this wild talent or through improved cantikinesis can receive the benefits of a Perform check made with their use, providing a maximum competence bonus of +2. When used to perform a blast of your primary element or a composite blast which includes your primary element, instead reduce the DC of cantikinesis’s effect by 5 and double its competence bonus.
+
+### Celerity, Improved
+
+**Element(s)** air or time; **Type** utility (Su); **Level** 4; **Burn** --
+
+**Prerequisite(s)** celerity
+
+While you are under the effects of your own celerity, you treat any BAB gained from kineticist levels as equal to your kineticist level when making ranged attacks. This only affects you, not any other allies affected by celerity.
 
 ### Cerebral Empowerment
 
@@ -835,6 +851,14 @@ You can use your telekinetic blast with two objects simultaneously. This has no 
 
 If you would gain basic telekinesis, you can choose to gain this wild talent in its place.
 
+### Durable Form
+
+**Element(s)** universal; **Type** utility (Su); **Level** 6; **Burn** --
+
+**Prerequisite(s)** kinetic form
+
+When you first activate your kinetic form wild talent, you gain 2 temporary hit points per kineticist level you possess. You can accept 1 point of burn while your kinetic form is active to replenish these temporary hit points as a swift action (1 AP).
+
 ### Eclectic Knowledge
 
 **Element(s)** mind; **Type** utility (Su); **Level** 2; **Burn** --
@@ -850,6 +874,14 @@ You receive one additional skill rank whenever you gain a kineticist level; skil
 **Prerequisite(s)** spark of life
 
 You can summon a number of elementals from the sky as per *elemental bombardment*MO. The elementals you can summon must match your element (air or electric for air, earth for earth, fire for fire, and ice or water for water).
+
+### Emergency Repairs
+
+**Element(s)** machine; **Type** utility (Sp); **Level** 1; **Burn** 1
+
+**Saving Throw** none; **Spell Resistance** yes
+
+With a touch, your nanites can heal a willing construct or machine. Treat this as kinetic healer, except it only heals constructs and machines (a living creature with any supernatural machine wild talent or significant mechanical parts - such as prosthetics or implants – is treated as a construct for the purpose of this wild talent). You cannot force a target without a Constitution score to accept the burn from this wild talent.
 
 ### Empathetic Surge
 
@@ -1169,6 +1201,22 @@ Failing the Will save causes your body to instantly rot into ash, and your consc
 
 You cannot replace this wild talent in any way once it is gained. Blood kineticists can take this wild talent as if it was a universal wild talent.
 
+### Kinetic Purification
+
+**Element(s)** mind, time, viscera or water; **Type** utility (Su); **Level** 8; **Burn** --
+
+**Prerequisite(s)** kinetic regeneration
+
+You can accept 1 additional point of burn while using your kinetic healer or regressive healing wild talent to increase the healing by 1 step (1 > 1d2 > 1d3 > 1d4 > 1d6 > 1d8 > 1d10 > 1d12) as well considering your kinetic healer talent as the *heal* spell for what it can recover.
+
+### Kinetic Regeneration
+
+**Element(s)** mind, sound, time, viscera, or water; **Type** utility (Su); **Level** 6; **Burn** --
+
+**Prerequisite(s)** kinetic healer or regressive healer
+
+When you use the kinetic healer or regressive healer utility wild talent, it is considered the *regenerate* spell for what it can heal.
+
 ### Life After Undeath
 
 **Element(s)** aether, light, mind, or wood; Level 1; Type utility (Su); Burn --
@@ -1234,6 +1282,14 @@ Each time you choose an additional target for a kinetic blast with the chain inf
 **Saving Throw** Will negates; **Spell Resistance** no
 
 You know how to trigger intense fear or fascination inside of a creature’s mind. Select a single substance or object such as but not limited to fire, water, blood, acid, darkness, insects and spiders, incorporeal creatures, or nature to become the object of the target’s mania or phobia as per the madness affliction mania/phobia. This mania or phobia last until cured normally, and you can accept 1 burn while using this ability to replace the normal Will save for a mania or phobia with the Will save for this wild talent. If you select phobia for this, this is treated as a fear effect.
+
+### Mech Synthesis
+
+**Element(s)** machine; **Type** utility (Su); **Level** 7; **Burn** --
+
+**Prerequisite(s)** kinetic form
+
+You bend, shape, and purpose your machines into a bulky suit of powered armor. As long as your kinetic form is active, you gain a +3 enhancement bonus to your natural armor bonus and a +3 alchemical bonus to your Strength, Dexterity, and Constitution (this bonus does not affect the amount of burn you can accept per day). If you instead decide to spend an additional burn to increase your size to Huge, these bonuses are doubled.
 
 ### Mental Blast
 
@@ -1325,6 +1381,22 @@ As a move action (1 AP), you gain blindsight equal to the distance of the telepa
 
 You can detect the emotional state of those around you. You treat any creature within 100 feet as if they had the a familiar’s empathic link ability, except they cannot sense your emotions in return. Any creature made aware of this effect can attempt a Will save (DC = 10 + 1/2 your kineticist level + your Con modifier) once per round as a swift action (1 AP) that requires concentration to break the link for 24 hours.
 
+### Mindscape Architect
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 5; **Burn** 0
+
+**Saving Throw** Will disbelief; **Spell Resistance** yes
+
+You know how to create your own mindscape, as per the *create mindscape* spell, and can use the *mindscape door* spell inside of any mindscape you create. You can accept 1 burn to use *mindscape door* inside of a mindscape created by another creature.
+
+### Mindscape Architect, Improved
+
+**Element(s)** mind; **Type** utility (Sp); **Level** 8; **Burn** 0
+
+**Prerequisite(s)** mindscape architect
+
+You can now treat your mindscape architect as *greater create mindscape* and do not need to accept burn to use *mindscape door* inside of a mindscape created by another creature. You can also maintain one permanent mindscape of your own creation. If this permanent mindscape is dispelled, you can recreate it as a standard action (1 AP).
+
 ### Mobile Blast, Improved
 
 **Prerequisites:** extended range, mobile blast
@@ -1374,6 +1446,14 @@ Your blast overloads a foe’s mind, leaving them unable to focus. A foe dealt d
 - Ultimate added false reality blast.
 
 - Used to be called Overtaxing Infusion
+
+### Overwhelming Skill
+
+**Element(s)** universal; **Type** utility (Su); **Level** 3; **Burn** --
+
+**Prerequisite(s)** greater skilled kineticist, overwhelming power class feature
+
+The benefits of skilled kineticist apply to all of your kineticist class skills, and you do not need ranks in these skills to make skill checks with them. At 12th level this instead applies to all skills.
 
 ### Pacifying Infusion
 
@@ -1497,6 +1577,16 @@ You know how to persuade others as per *charm person* or *charm animal*, althoug
 
 You know how to mentally cripple a foe, breaking their mind as per the *feeblemind* spell.
 
+### Psychological Healing
+
+**Element(s)** mind; **Type** utility (Su); **Level** 6; **Burn** --
+
+**Prerequisite(s)** kinetic healer
+
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes
+
+Your kinetic healer wild talent can also remove mind-affecting effects from a creature, being treated as *greater restoration* for this purpose.
+
 ### Psychosomatic Calamity
 
 **Element(s)** mind, or light and poison; **Type** utility (Su); **Level** 7; **Burn** --
@@ -1522,6 +1612,14 @@ You know how to trick the mind into believing the body is affected with some deb
 **Prerequisite(s)** continuous regrowth
 
 Instead of fast healing, your continuous regrowth wild talent grants an equal amount of regeneration (cold, fire), as the universal monster ability, and is not negated by negative energy or slashing damage. This wild talent cannot be taken by creatures without a Constitution score and can only heal you up to 3/4 of your maximum hit points.
+
+### Regressive Healing
+
+**Element(s)** time; **Type** utility (Sp); **Level** 2; **Burn** 1
+
+**Saving Throw** none; **Spell Resistance** no
+
+You know how to reverse the wear of time on creatures and objects alike. This works as kinetic healer except you can also use it on constructs and nonmagical objects, although they cannot accept burn from this wild talent.
 
 ### Reifying Infusion
 
@@ -1744,6 +1842,14 @@ Treat this as hostile woodwork, except you instead target ice or snow (or object
 **Prerequisite(s)** junk blast or metal blast
 
 Treat this as hostile woodwork, except you instead target metal objects or constructs, and it works only with junk blast, metal blast, or composite blasts for which junk blast or metal blast are prerequisites.
+
+### Urgent Restoration
+
+**Element(s)** aether, machine, sound, time, viscera, void, water, or wood **Type** utility (Su); **Level** 2; **Burn** --
+
+**Prerequisite(s)** emergency repairs, kinetic healer, regressive healer, void healer, or wood healer
+
+You are adept at healing yourself in the heat of the moment. You can use emergency repairs, kinetic healer, regressive healer, void healer, or wood healer on yourself as a swift action (1 AP). You can increase the burn of these wild talents by 1 to use them as an immediate action (1 AP of your next turn).
 
 ### Verdant Aura
 

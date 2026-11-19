@@ -24,6 +24,46 @@ At 15th level, the legendary magus’ shield is imbued by potent arcane energies
 
 This is a supernatural teleportation effect.
 
+**Tome of the Cannonade**
+
+*Those who study the tome of the cannonade desire raw power over finesse. These magus are often known as arcane cannoneers and wield the might of siege engines with devastating prowess.*
+
+**Cannonade Style**
+
+At 1st level, the legendary magus gains the Siege Engineer feat, and may use their spell combat ability while firing a siege engine. When doing so, they can only make a single attack with the siege action as part of the full-round action (3 AP), even if the siege engine would be capable of making multiple attacks in a single round.
+
+Additionally, they learn to harness the powers of an arcane cannon, allowing them to create a construct of magical potential that can fire projectiles imbued with magic. Creating or dismissing their arcane cannon is a full round action (3 AP). The magus can only have a single arcane cannon active at a time, and it is always created at full hitpoints. This arcane cannon is a medium siege engine that has a crew requirement of 1 (which can only be crewed by the magus), and an aim and load of 0 (see below). Their arcane cannon has hitpoints equal to 10 + 10 x their magus level, and AC equal to 10 + the magus’ Intelligence modifier + 1/2 their class level. Whenever the magus begins to move while adjacent to their arcane cannon, as a free action, they can cause their arcane cannon to gain a fly speed equal to the speed of the movement mode used with perfect maneuverability and then fly to a square adjacent to the magus, afterwards it lands in an adjacent square. If the magus teleports, they may have their arcane cannon teleport to an adjacent square as well. This movement provokes opportunity attacks if the magus’ movement normally would.
+
+An arcane cannon produces its own ammunition. This special ammunition is generated and automatically loaded at the beginning of each of the magus’ turns, or when the arcane cannon is created. When it is generated, the magus can choose for the ammunition to generate as either a bolt or as a bombard. This ammunition counts as a magic weapon for the purposes of bypassing damage reduction.
+
+A bolt causes the arcane cannon to act as a direct-fire ranged siege engine which deals 2d6 + the magus’ Intelligence modifier piercing damage, a critical threat range of 19-20/x2, and a range of 100 ft.
+
+A bombard causes the arcane cannon to act as an indirect-fire ranged siege engine which deals 2d6 + the magus’ intelligence modifier bludgeoning damage, and has a range of 150 ft. (50 ft. min.). The magus does not need to make a targeting check when firing their arcane cannon in this way. A struck creature must make a Reflex saving throw (DC 11 + the Magus’ Dexterity modifier + ½ their class level), with a success halving the damage they suffer. An object receives no saving throw.
+
+At 3rd level, and every 3 levels thereafter, the damage of the magus’ arcane cannon’s bolts and bombards deal an additional 1d6 damage and gains a +1 enhancement bonus to attack and damage rolls.
+
+**Cannonade Casting**
+
+At 3rd level, the legendary magus can use their siege engine to deliver their spells. When using a direct-fire siege engine with spell combat, they can deliver a spell that requires a ranged or melee touch attack as part of the siege weapon’s attack. Spells delivered in this way only critically hit if the attack roll would normally cause the spell to critically hit (normally a natural 20, or 19-20 if you have the Improved Critical (ranged touch or melee touch) feat). It deals normal damage for a crit when it does.
+
+When using an indirect-fire siege engine, you can deliver a spell that targets an area as part of the siege weapon’s attack. This spell becomes centered on the square the attack hits.
+
+**Cannonade’s Infusion**
+
+At 9th level, the legendary magus gains the Master Siege Engineer feat.
+
+Additionally, the legendary magus can infuse a siege engine with their magical power, allowing it to act as their arcane cannon. Infusing a siege weapon is a full round action (3 AP), and the magus may only have a single siege engine infused at a time. Infusing a siege engine automatically dismissing their arcane cannon. Creating an arcane cannon, or attempting to infuse another siege engine, immediately ends the magical infusion on the first siege engine.
+
+An infused siege engine has its crew reduced to 1 (the magus), its aim reduced to 0, and its load reduced to 0 (see below). Only the magus can fire an infused siege engine. When the magus moves or teleports, their infused siege engine can move or teleport as well, as if it were an arcane cannon. An infused siege engine also uses the higher of its own AC, or the AC or the magus’ arcane cannon. The magus receives no penalties to attack rolls for firing a siege engine with a size larger than them, and treats all ammunition fired by an infused siege engine as if it were magical for the purposes of bypassing damage reduction. In addition, an infused siege engine deals additional damage equal to the magus’ Intelligence bonus to all creatures it successfully damages, and gains a +3 enhancement bonus to attack and damage rolls, increasing by an additional +1 at level 12, 15, and 18.
+
+An infused siege engine automatically loads one piece of ammunition at the beginning of each of the magus’ turns if there is a valid piece of ammunition on the magus’ person or within 5 feet of the siege engine. It cannot be loaded manually. If there was no ammo in range at the start of the magus’ turn, the magus may place ammo within 5 feet of the siege engine during their turn and the siege engine will load it.
+
+**Masterful Infusion**
+
+At 15th level, the legendary magus can infuse and store multiple siege engines, allowing them to be called upon at will. When the legendary magus infuses a siege engine, they can choose for it to be a sustained infusion. A siege engine with a sustained infusion can be dismissed and created as if it were an arcane cannon, appearing in a square adjacent to the magus when created. The magus can maintain a number of sustained infusions equal to their Intelligence modifier. These sustained siege engines are treated as an arcane cannon for the purposes of summoning: The magus can only have a single infused siege engine or arcane cannon on the field at a time. The legendary magus can end a sustained infusion as a full-round action (3 AP), doing so requires the siege engine to currently be on the field. If a siege engine with a sustained infusion loses hit points, those lost hit points remain until the siege engine is repaired. If the siege engine is destroyed, the infusion immediately ends.
+
+In addition, the magus can now create their arcane cannon or a siege engine with a sustained infusion as a move action (1 AP). Doing so immediately dismisses their previous arcane cannon or siege engine with a sustained infusion, or ends the infusion of a normally infused siege engine.
+
 **Tome of the Deadeye**
 
 **Deadeye Style**
@@ -156,6 +196,40 @@ At 9th level, whenever the legendary magus is damaged by a melee a melee attack 
 
 At 15th level, when the legendary magus uses her spell combat to deliver a touch spell with an unarmed strike, her unarmed strike deals an additional 1d6 damage per level of the spell delivered. This damage is the same type as the unarmed strike and is not multiplied on a critical hit. In addition, when she uses her pugilist style ability to make an additional unarmed strike, she can choose to instead make two unarmed strikes at a -4 penalty.
 
+**Tome of the Puppetmaster**
+
+*Corpse puppetry is a rare and often feared art, often compared unfavorably to necromancy. Unlike true necromancy, corpse puppetry does not bestow any measure of life or unlife to a corpse. These puppets are animated purely by the magus’ will and power.*
+
+**Puppetmaster Style (Su)**
+
+At 1st level, the legendary magus has learned to use their arcane powers to puppet corpses and have them act on their behalf. They can create a single corpse puppet from the corpse of a once-living creature by spending one minute in meditation within reach of it. This puppet uses the living creatures statistics, but has 5 hit points per each legendary magus level in place of their normal hit points. The legendary magus cannot create a corpse puppet from a corpse that had more Hit Dice than 1.5 x their legendary magus level (rounded up). The corpse puppet’s type changes to construct, it gains construct immunities, its Constitution and Intelligence scores become — and it loses all of its skill ranks and languages. The corpse puppet loses any of its special abilities or qualities that are not purely defensive (such as resistances, immunities, bonuses to armor class, etc). Corpse puppets cannot take actions on their own. Any time the legendary magus spends a move action (1 AP) to move, their corpse puppet can move up to its speed as well. Corpse puppets must stay within Medium range (100 ft. + 10 ft. per legendary magus level) to remain animated. If they leave this area, the magic binding them under the legendary magus’ control immediately breaks, causing them to become mundane corpses once again. The legendary magus can willingly stop animating one of their corpse puppets as a free action on their turn, even if the corpse puppet is not in their line of sight or effect. Corpse puppets who were suffering hit point damage when their animation ceased continue to suffer that damage if reanimated as an undead creature or a corpse puppet again. If a corpse puppet is reduced to 0 hit points or fewer it is immediately destroyed, and the corpse cannot be reanimated as an undead creature or corpse puppet again.
+
+Any time the legendary magus could make an attack, they may have one of their corpse puppets make that attack in their place. This attack is made using the corpse puppets wielded weapon, natural attack or unarmed strike, but otherwise uses the legendary magus’s statistics and feats. When making attacks in this way, the legendary magus uses their Intelligence modifier in place of the puppet’s Strength or Dexterity when determining their bonuses to hit and damage. These attacks are made using the corpse puppets space, reach, and line of sight. The legendary magus must be able to see the target of their attack to direct a corpse puppet to attack it. Corpse puppets do not threaten an area with their melee weapons. If the corpse puppet or magus are suffering a penalty or bonus to their attack rolls, those bonuses are applied to these attacks. Similar bonuses or penalties do not stack (for example: if both the magus and corpse puppet are sickened at the same time, the attacks would only receive a -2 penalty). When making iterative attacks using this ability, those iterative attacks suffer their normal penalties. The legendary magus must be able to see the target or their space to have a corpse puppet attack it.
+
+While a corpse puppet is not in the legendary magus’ line of sight or effect, it is considered helpless. It cannot move when the legendary magus takes actions, cannot be used to make attacks, and does not defend itself.
+
+**Improved Puppetry (Su)**
+
+At 3rd level, the legendary magus gains the ability to puppet two corpses at once. This does not grant the legendary magus any additional attacks, and when they spend a move action (1 AP) to move, all of their active corpse puppets may move.
+
+Whenever the legendary magus casts a spell that allows them to make a free melee touch attack, they can instead have one of their corpse puppets deliver that attack in their place. If they have an ability that allows them to deliver a touch attack with a weapon strike (such as the spellstriker archetype), they may deliver this spell using one of their corpse puppets weapons instead.
+
+In addition, the legendary magus can allow one of their corpse puppets to charge as a full-round action (2 AP). The corpse puppet suffers the normal benefits and penalties for charging, and may make a single attack at the end of this charge (unless the legendary magus has an ability that allows them to make multiple attacks at the end of a charge, such as the pounce special ability).
+
+**Puppet Sight (Su)**
+
+At 9th level, the legendary magus gains the ability to puppet three corpses at once, and the time it takes them to animate a new corpse puppet is reduced to 1 standard action (1 AP). The range that the legendary magus can maintain their corpse puppets increases to Long range (400 ft. + 40 ft. per legendary magus level).
+
+As a full-round action (3 AP), the legendary magus can transfer their senses to one of their corpse puppets. They do not need line of sight or effect to the corpse puppet to use this ability. While in this state the legendary magus sees and hears using the corpse puppets body and can speak through their mouth (if the corpse was capable of speech in life). The legendary magus uses the corpse puppet they are sharing the senses of when determining the line of sight and line of effect of their other corpse puppets. They can continue to fight in this state, commanding their corpse puppets as normal. If the magus loses line of sight of their own body while in this state, their normal body is considered blind and deaf, but they can still take actions as normal. Returning their senses to their own body is a full-round action (3 AP). If the corpse puppet they are sharing the senses of is destroyed, or its animation ends, the legendary magus is dazed, blinded, and deafened for 1 round as their senses violently return to their own body.
+
+In addition, corpse puppets now threaten with their melee weapons. When a creature provokes an attack of opportunity from a corpse puppet, the legendary magus can spend one of their attacks of opportunity to make an attack of opportunity using one of the corpse puppets weapons with the legendary magus’ statistics.
+
+**Master of Puppets (Su)**
+
+At 15th level, the legendary magus gains the ability to puppet four corpses at once, and the time it takes them to animate a new corpse is reduced to 1 swift or move action (1 AP). The range that the legendary magus can maintain their corpse puppets is now limitless as long as the magus and corpse puppet are on the same plane.
+
+Whenever the legendary magus casts a spell with a cast time of 1 full-round action (3 AP) or longer, makes a full attack, or uses their spell combat ability as a full round action (3 AP), they can allow their corpse puppets to move up to their speed as a free action.
+
 **Tome of the Speardancer**
 
 **Speardancer Style**
@@ -177,6 +251,38 @@ If she already has this feat, she gains another bonus combat feat of her choice.
 **Dancer’s Lunge**
 
 At 15th level, the legendary magus increases the reach of her weapons with the reach property by 5 ft. The legendary magus no longer takes a penalty to her attack rolls against adjacent foes while using her speardancer style.
+
+**Tome of the Stormwielder**
+
+*Using the hidden arts within this tome, a magus can wield the fury of the storm as a potent weapon to disrupt the battlefield and destroy their foes.*
+
+**Stormwielder Style (Su)**
+
+At 1st level, the legendary magus gains the ability to wield the power of the storm as their weapon. They gain the ability to shape a single Storm veil each day, using their legendary magus level as their veilweaver level and their Intelligence as their veilweaving modifier for this Storm veil. When the magus gains this ability, they select a number of Storm veils equal to their Intelligence modifier and treat those as their veil list for this ability. If the magus later gains a permanent increase to their Intelligence that increases their Intelligence modifier, they select new veils to add to this list.
+
+Unlike normal veils, the legendary magus cannot normally allocate essence to or from this Storm veil. Once per turn as a free action, the legendary magus may expend 1 point of arcane potential to gain 1 point of temporary essence, which can only be allocated to a Storm veil. This temporary essence can be allocated as a free action as soon as it is gained and lasts until combat ends, and then for 1 minute afterward. If the magus enters combat again before this minute has passed, the duration of the temporary essence is reset. If they choose not to invest this essence when they gain it, or if they have no Storm veils that are valid sources to allocate it, that point of essence is immediately lost. While not in combat, the legendary magus can meditate as a full-round action (3 AP) to draw the powers of the storm out, treating each round they meditate in this way as a round of combat. However, they can only generate a number of temporary points of essence in this way up to half of their maximum essence capacity, rounded up (minimum 1). If the magus has multiple Storm veils shaped or other receptacles that can accept this special essence, they can reallocate this essence normally between them as part of reallocating their essence normally. If the magus suffers from Essence Burn, temporary essence gained from this ability is burned after any other temporary essence they possess, as well as after any other essence in their essence pool.
+
+At 3rd level, 9th level, and 15th level, the legendary magus may expend an additional point of arcane potential at the to gain an additional point of temporary essence, to a maximum of spending 4 arcane potential to gain 4 temporary essence at 15th level.
+
+The legendary magus has limited control over this storm, allowing them to protect themselves and their allies from it. As a free action on their turn, the magus can choose to grant limited immunity to the harmful effects of their Storm veils to a number of creatures up to their Intelligence modifier plus 1/2 their legendary magus level (rounded down). If one of these creatures would be subjected to a saving throw from the magus's Storm veil, they are treated as automatically passing that saving throw. If they are subjected to an attack roll or combat maneuver from the effects of the magus's Storm veil it is treated as a miss. If they were to take damage from the magus's Storm veil, that damage is reduced to 0. These same properties apply to the legendary magus as a constant effect, even if they would lose consciousness. This limited immunity persists until either the magus uses this ability again, or loses consciousness. If the magus loses consciousness, other creatures lose the benefits of this protection until they regain consciousness. If one of their Storm veils imposes other penalties that do not require a saving through (such as a reduction in vision range, making its area difficult terrain, or filling the area with high winds) this ability does not protect against those penalties.
+
+**Stormwielder’s Surge (Su)**
+
+At 3rd level, the legendary magus can pour their power into their Storm veil to rapidly change its shape. As a free action once per turn, they can spend 3 points of arcane potential to immediately unshape one of their Storm veils and then shape a new Storm veil in its place. Any essence invested in the unshaped veil is automatically invested in the newly shaped veil, and if the unshaped veil was bound, the newly shaped veil is bound as well.
+
+In addition, the essence capacity of the magus’s storm veil increases by 1. This ability does not stack with the improved essence capacity class feature, or any other class feature that increases the essence capacity of their veils.
+
+**Stormcombat (Su)**
+
+At 9th level, the legendary magus learns to truly wield their storm as their weapon. The magus gains the ability to bind veils shaped to the Storm slot. Whenever the legendary magus uses their spell combat class feature, they can use an ability of their Storm veil that is used as standard action (1 AP) in place of their weapon attacks.
+
+In addition, the essence capacity of the magus’s storm veil increases by 1. This ability does not stack with the improved essence capacity class feature, or any other class feature that increases the essence capacity of their veils.
+
+**Stormwielder’s Fury (Su)**
+
+At 15th level, the legendary magus has truly learned to channel the fury of their Storm veil. Whenever they use their spell combat class feature, they can use an ability of their Storm that is used as a standard action (1 AP) in place of the spell they cast. This ability can be combined with stormcombat, allowing the legendary magus to use the standard action (1 AP) ability twice by replacing both their spell and weapon attacks.
+
+In addition, the essence capacity of the magus’s storm veil increases by 1. This ability does not stack with the improved essence capacity class feature, or any other class feature that increases the essence capacity of their veils.
 
 ### Legendary Magus Arcana
 

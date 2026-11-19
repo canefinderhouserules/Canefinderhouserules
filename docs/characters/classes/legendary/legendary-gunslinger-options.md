@@ -94,3 +94,65 @@ This slick black duster looks as though it has always just come out of the rain.
 ### Lore Bullet
 
 An old and weathered lead bullet, a *lore bullet* contains knowledge of a single gun mastery inside of it. If anyone with the deed s class feature keeps this bullet on their person for 24 hours, they gain the gun mastery contained within it as long as they keep the *lore bullet* on their person. A creature can only benefit from one *lore bullet* at a time; for every 8 hit dice a creature has, they can benefit from an additional *lore bullet*. A *lore bullet* cannot be fired from a gun.
+
+## Firearm Modifications
+
+Due to their complex design, firearms are able to be modified in a number of ways, each helping to further customize one’s weapon. Unlike normal weapon modifications, firearm modifications do not cost extra to add to a magical weapon, and up to two different modifications can be applied to the same firearm. As long as a character is proficient with a firearm, they are proficient with any modified version of that firearm. Each firearm modification comes with a Craft DC, requiring a Craft (firearms) check which takes 1 hour to add this modification to a weapon. A firearm modification can be removed with a DC 10 Craft (firearms) which takes 10 minutes, ruining the parts used for that modification but leaving the firearm intact. Some firearm modifications can also be applied to crossbows; these follow the same rules as applying them to a firearm as well as other exceptions to the rules listed previously, although a Craft (crossbows) check is needed in place of a Craft (firearms) check.
+
+### Improved Firing Mechanism
+
+**Cost** +5,000 gp; **Craft** DC 20
+
+A firearm with an improved firing mechanism reduces its misfire rate by 1 (minimum 0).
+
+### Improved Rifling
+
+**Cost** +10,000 gp; **Craft** DC 30
+
+A firearm with improved rifling can target a creature’s touch AC in its second range increment.
+
+### Improved Sight
+
+**Cost** +5,000 gp; **Craft** DC 20
+
+A firearm with an improved sight gains a +20 foot circumstance bonus to its range increment.
+
+This firearm modification can also be applied to crossbows.
+
+### Integrated Weapon
+
+**Cost** +2,000 gp (plus the cost of the weapon); **Craft** DC 20
+
+A firearm with an integrated weapon combines itself with a melee weapon, serving as both a firearm and the weapon integrated into it. A creature is treated as wielding both the firearm and the integrated weapon while wielding a firearm with this modification, and both weapons share the same enhancements (enhancements that can only be used by one weapon can be applied to this firearm, but cannot be used if they would not normally be a valid choice for that weapon type, such as a vorpal pistol). A one-handed firearm can only be integrated with a light weapon, while a two-handed weapon can only be integrated with a one-handed weapon. Integrated weapons can be made masterwork for 300 gp, making both the melee weapon and firearm masterwork. Removing this firearm modification destroys the melee weapon and if the integrated weapon had an enhancement which would only apply to a melee weapon (such as vorpal), that enhancement is lost.
+
+This firearm modification cannot be applied to axe muskets, buckler guns, fire lances, pistol daggers, sword cane pistols, or warhammer muskets (as well as additional weapons as decided by the GM), and double weapons cannot be integrated with this firearm modification.
+
+This firearm modification can also be applied to a crossbow, treating a hand crossbow as a one-handed firearm, and other crossbows as two-handed firearms for the purpose of which weapons can be integrated into them.
+
+### Simplified Loading Mechanism
+
+**Cost** +5,000 gp; **Craft** DC 20
+
+A firearm with a simplified loading mechanism reduces the action needed to load a firearm as long as it would be able to be loaded as a full action or quicker; from a full round to a standard, standard to move, and move to free action.
+
+This firearm modification can also be applied to crossbows.
+
+### Short Barrel
+
+**Cost** +7,500 gp; **Craft** DC 25
+
+A firearm with a short barrel increases its spread’s area by 5 feet. This firearm modification can only be applied to firearms which have a spread option, such as dragon pistols and blunderbusses.
+
+### Silencer
+
+**Cost** +3,000 gp; **Craft** DC 20
+
+A firearm with a silencer does not produce any noise when fired.
+
+### Weighted Grip
+
+**Cost** +2,000 gp (+5,000 for two-handed firearms; **Craft** DC 15 (25 for two-handed firearms)
+
+A one-handed firearm with a weighted grip is treated as a light weapon for the purpose of two-weapon fighting. A two-handed firearm with a weighted grip is treated as a one-handed firearm for the purpose of how much effort it takes to wield.
+
+This firearm modification can also be applied to crossbows except for hand crossbows; a crossbow can be treated as either a one-handed firearm or a two-handed firearm when determining the benefit gained from it, chosen at the time the modification is applied.

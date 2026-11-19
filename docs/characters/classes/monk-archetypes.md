@@ -573,12 +573,6 @@ The gray disciple contemplates the inner voice of duergar magic and the silent e
 
 **Earthen Thrall (Sp)**: At 17th level, a gray disciple can attempt to control a creature with the earth subtype once per day. This ability is treated as [*dominate monster*](../../magic/spells/dominate-monster.md) (DC 10 + 1/2 the gray disciple’s monk level + the gray disciple’s Wisdom modifier), but is only effective against creatures with the earth subtype, and the gray disciple can keep only a single creature enthralled. If he attempts to control a second creature with this ability, the first creature is automatically released from domination whether or not the second attempt succeeds. This ability replaces tongue of the sun and moon and [empty body](monk.md#empty-body-su).
 
-**Table 3–1: Duergar Poison**
-
-| Name | Type | Fort DC | Onset | Frequency | Effect | Cure | Cost |
-|---|---|---|---|---|---|---|---|
-| Spellscorch | injury | 14 | — | 1/rd. for 4 rds. | see text | 1 save | 200 gp |
-
 ## Treetop Monk
 
 While many vanaras follow traditional monastic training and traditions, others learn to blend exotic combat and the mysterious forces of *ki* with the natural world, allowing them to move through trees and overgrowth to deliver devastating attacks. A treetop monk has the following class features.

@@ -465,12 +465,6 @@ An eldritch raider is a rogue who seeks to unravel the mysteries of the destruct
 
 **Rogue Talents**: The following rogue talents complement the eldritch raider archetype: major magic, minor magic, quick disable, trap spotter (*Core Rulebook*); fast picks (*Advanced Player’s Guide*); black market connections, esoteric scholar, ninja trick (slow metabolism, wall climber) (*Ultimate Combat*).
 
-**Table 3–2: Gillman Weapon**
-
-| Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
-|---|---|---|---|---|---|---|---|---|
-| Sea-knife | 8 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | S | — |
-
 **Advanced Talents**: The following advanced rogue talents complement the eldritch raider archetype: dispelling attack, improved evasion, slippery mind (*Core Rulebook*); major eldritch magic, minor eldritch magic (*Advanced Race Guide*); thoughtful reexamination (*Advanced Player’s Guide*); familiar, hard to fool (*Ultimate Combat*).
 
 ## Kitsune Trickster

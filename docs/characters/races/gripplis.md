@@ -87,6 +87,12 @@ These archetypes are typically only taken by gripplis, but members of other race
 
 Gripplis have access to the following equipment.
 
+**Table 3–3: Grippli Poison**
+
+| Name | Type | Fort DC | Onset | Frequency | Effect | Cure | Cost |
+|---|---|---|---|---|---|---|---|
+| Black spider marsh poison | injury | 14 | — | 1/rd. for 6 rds. | 1d4 Dex and confused for 1 rd. | 2 consecutive saves | 800 gp |
+
 **Black Marsh Spider Venom**: This potent spider venom causes victims to become disoriented and lose muscle control until eventually they collapse.
 
 ## Feats

@@ -62,6 +62,12 @@ These archetypes are typically only taken by duergar, but members of other races
 
 Duergar have access to the following equipment.
 
+**Table 3–1: Duergar Poison**
+
+| Name | Type | Fort DC | Onset | Frequency | Effect | Cure | Cost |
+|---|---|---|---|---|---|---|---|
+| Spellscorch | injury | 14 | — | 1/rd. for 4 rds. | see text | 1 save | 200 gp |
+
 **Spellscorch**: Refined from rare underground crystals, this poison causes a burning headache that impedes spellcasting. If the target fails its Fortitude save, for the next minute the target must make a Concentration check with a DC equal to 10 + spell level to cast a spell, and all other concentration checks to cast spells take a –5 penalty.
 
 ## Feats
