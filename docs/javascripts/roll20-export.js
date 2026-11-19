@@ -23,7 +23,8 @@
     var A = function (attr) { return '@{' + who + '|' + attr + '}'; };
     var link = function (label, text) { return '<a href="`' + esc(cmd(text)) + '">' + esc(label) + '</a>'; };
     var row = function (k, v) { return '<tr><td><b>' + esc(k) + '</b></td><td>' + v + '</td></tr>'; };
-    var roll = function (label, base, attr) { return link(label + ' ' + sgn(base), '/em ' + label + ': [[1d20' + sgn(base) + '+' + A(attr) + ']]'); };
+    // extra: text inside the roll, e.g. &{tracker} (adds the selected token to the turn order)
+    var roll = function (label, base, attr, extra) { return link(label + ' ' + sgn(base), '/em ' + label + ': [[1d20' + sgn(base) + '+' + A(attr) + (extra || '') + ']]'); };
 
     var attacks = m.attacks.map(function (a) {
       var ranged = /ranged/i.test(a.kind);
@@ -44,7 +45,7 @@
       '<table>' +
       row('AC', esc(m.ac)) + row('hp', esc(m.hp)) + row('Speed', esc(m.speed)) +
       row('Attacks', attacks.join('<br>')) +
-      row('Rolls', [roll('Init', m.init, 'initiative')].concat(saves).join(' &nbsp; ')) +
+      row('Rolls', [roll('Init', m.init, 'initiative', ' &{tracker}')].concat(saves).join(' &nbsp; ')) +
       (checks.length ? row('Checks', checks.join(' &nbsp; ')) : '') +
       row('Stats', esc(m.abilities + '; ' + m.combat)) +
       (m.feats ? row('Feats', esc(m.feats)) : '') +
@@ -71,7 +72,7 @@
     [ 'In the Roll20 Journal, create a character (Pathfinder by Roll20 sheet, left blank). Type its name below.',
       'Click Copy for Bio & Info.',
       'In Roll20, open the character, click Edit, click inside the Bio & Info box and press Ctrl+V. Save Changes.',
-      'Open the Bio & Info tab: each attack, save and check rolls in chat when clicked. Buffs and conditions set on the character sheet are added to the rolls.'
+      'Open the Bio & Info tab: each attack, save and check rolls in chat when clicked. Buffs and conditions set on the character sheet are added to the rolls. Init also adds the selected token to the turn order.'
     ].forEach(function (s) { ol.appendChild(el('li', null, s)); });
     wrap.appendChild(ol);
     var row = el('div', 'r20-row');
