@@ -91,6 +91,11 @@
       "Underworld Mount (Ex)": {
         "replaces": "mount and expert trainer"
       }
+    },
+    "Shield Knight": {
+      "Heart Shield (Su)": {
+        "modifies": "greater tactician"
+      }
     }
   },
   "cleric": {

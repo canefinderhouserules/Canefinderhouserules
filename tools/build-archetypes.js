@@ -157,10 +157,15 @@ let CLS = '';
 // Words that sit between the parts of a feature name in archetype text ("the fighter's normal bonus combat feat").
 const filler = t => t.replace(new RegExp('\\b(' + CLS + 's?|normal|normally|combat|regular|usual|base)\\b', 'g'), ' ').replace(/\s+/g, ' ');
 // Other names archetypes use for a class feature (unchained or older versions of the class).
-const ALIAS = [[/\bdanger sense\b/g, 'trap sense'], [/\b(spellcasting|spells? class feature)\b/g, 'spells'], [/\bfinal judgment\b/g, 'true judgment'], [/\bjudgement\b/g, 'judgment'], [/\bfrightening performance\b/g, 'frightening tune'], [/\bloremaster\b/g, 'lore master'], [/\btrapsense\b/g, 'trap sense']];
+const ALIAS = [[/\bdanger sense\b/g, 'trap sense'], [/\b(spellcasting|spells? class feature)\b/g, 'spells'], [/\bfinal judgment\b/g, 'true judgment'], [/\bjudgement\b/g, 'judgment'], [/\bfrightening performance\b/g, 'frightening tune'], [/\bloremaster\b/g, 'lore master'], [/\btrapsense\b/g, 'trap sense'], [/\bdefence\b/g, 'defense']];
+const ALIAS2 = [[/\btrap sense\b/g, 'danger sense'], [/\bwild ?shape\b/g, 'shifter shape'], [/\bfinal aspect\b/g, 'master of the many forms'],
+  [/\bnatures? bond\b/g, 'nature bond'], [/\bdefence\b/g, 'defense'], [/\bdiscipline\b(?! (?:breakthrough|defen[cs]e))/g, 'alchemical discipline'],
+  [/\bspells class feature\b/g, 'spellcasting'], [/\bthe spells\b/g, 'spellcasting'], [/\bwildshape\b/g, 'wild shape'], [/\bgritty offensive\b/g, 'gritty offense']];
 function findBase(text, bs) {
   let n = norm(text);
   for (const [re, to] of ALIAS) if (!bs.some(b => re.test(b))) n = n.replace(re, to);
+  // the same feature under another name in this class (only when the class has that other name and not this one)
+  for (const [re, to] of ALIAS2) if (bs.includes(to)) n = n.replace(re, m => bs.includes(m) ? m : to);
   const ts = [' ' + n + ' ', ' ' + filler(n) + ' '];
   // the feature named first in the text wins ("the mutagen class ability ... discovery" is mutagen);
   // at the same place, the longest name ("second judgment" over "judgment")
