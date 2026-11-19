@@ -1,0 +1,51 @@
+# Dragon (Planar, Crypt), Ancient Crypt Dragon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ancient Crypt Dragon&quot;,&quot;cr&quot;:&quot;21&quot;,&quot;xp&quot;:&quot;409,600&quot;,&quot;line&quot;:&quot;N Gargantuan dragon (extraplanar)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;dragon senses&quot;,&quot;ac&quot;:&quot;40, touch 5, flat-footed 40&quot;,&quot;hp&quot;:&quot;406 (28d12+224)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:24,&quot;Ref&quot;:17,&quot;Will&quot;:25},&quot;defense&quot;:&quot;grave endurance; DR 15/adamantine; SR 32&quot;,&quot;aura&quot;:&quot;frightful presence (300 ft., DC 31)&quot;,&quot;speed&quot;:&quot;60 ft., fly 250 ft. (clumsy); space 20 ft.,, reach 15 ft. (20 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[38],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:19,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[37],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:13,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[35],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:19,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[35],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath weapon (60-ft. cone, 20d10 negative energy, Reflex DC 32 half), crush, decaying breath, entombing crush, inexorable attacks, lingering rot, rotting breath (1d6 negative levels), tail sweep&quot;,&quot;rangedTouch&quot;:23,&quot;spells&quot;:[{&quot;title&quot;:&quot;Oracle Spells Known&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:22,&quot;levels&quot;:[{&quot;label&quot;:&quot;7th (5)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;repulsion&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;repulsion&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;6th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate objects&quot;,&quot;page&quot;:&quot;animate-objects&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;page&quot;:&quot;heal&quot;},{&quot;name&quot;:&quot;word of recall&quot;,&quot;page&quot;:&quot;word-of-recall&quot;}]},{&quot;label&quot;:&quot;5th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;break enchantment&quot;,&quot;page&quot;:&quot;break-enchantment&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;},{&quot;name&quot;:&quot;wall of stone&quot;,&quot;page&quot;:&quot;wall-of-stone&quot;}]},{&quot;label&quot;:&quot;4th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;page&quot;:&quot;cure-critical-wounds&quot;},{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;divination&quot;,&quot;page&quot;:&quot;divination&quot;},{&quot;name&quot;:&quot;spell immunity&quot;,&quot;page&quot;:&quot;spell-immunity&quot;}]},{&quot;label&quot;:&quot;3rd (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;glyph of warding&quot;,&quot;page&quot;:&quot;glyph-of-warding&quot;},{&quot;name&quot;:&quot;meld into stone&quot;,&quot;page&quot;:&quot;meld-into-stone&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;speak with dead&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;speak-with-dead&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;augury&quot;,&quot;page&quot;:&quot;augury&quot;},{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;gentle repose&quot;,&quot;page&quot;:&quot;gentle-repose&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;silence&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;silence&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;hide from undead&quot;,&quot;page&quot;:&quot;hide-from-undead&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;sanctuary&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;}]}]}],&quot;abilities&quot;:&quot;Str 37, Dex 8, Con 27, Int 24, Wis 29, Cha 24&quot;,&quot;combat&quot;:&quot;BAB +28; CMB +45; CMD 54 (58 vs. trip)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:38,&quot;Diplomacy&quot;:38,&quot;Fly&quot;:16,&quot;Intimidate&quot;:38,&quot;Knowledge (arcana)&quot;:38,&quot;Knowledge (engineering)&quot;:38,&quot;Knowledge (history)&quot;:38,&quot;Knowledge (planes)&quot;:38,&quot;Knowledge (religion)&quot;:38,&quot;Perception&quot;:44,&quot;Sense Motive&quot;:44,&quot;Spellcraft&quot;:38,&quot;Stealth&quot;:18,&quot;CMB&quot;:45},&quot;feats&quot;:&quot;Alertness, Critical Focus, Greater Vital Strike, Improved Critical (bite, claw), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Snatch, Staggering Critical, Step Up, Vital Strike, Weapon Focus (bite)&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Common, Draconic, Infernal&quot;,&quot;sq&quot;:&quot;compression, planar infusion (300 ft.)&quot;}"></div>
+
+## Ancient Crypt Dragon (CR 21)
+
+**XP** 409,600  
+N Gargantuan dragon (extraplanar)  
+**Init** +3; **Senses** dragon senses; Perception +44  
+**Aura** frightful presence (300 ft., DC 31)
+
+**Defense**
+
+**AC** 40, touch 5, flat-footed 40 (–1 Dex, +35 natural, –4 size)  
+**hp** 406 (28d12+224)  
+**Fort** +24, **Ref** +17, **Will** +25  
+**Defensive Abilities** grave endurance; **DR** 15/adamantine; **SR** 32
+
+**Offense**
+
+**Speed** 60 ft., fly 250 ft. (clumsy)  
+**Melee** bite +38 (4d6+19/19–20), 2 claws +37 (2d8+13/19–20),
+tail slap +35 (2d8+19), 2 wings +35
+(2d6+6)  
+**Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
+**Special Attacks** breath weapon (60-ft. cone,
+20d10 negative energy, Reflex DC 32 half),
+crush, decaying breath, entombing crush,
+inexorable attacks, lingering rot, rotting breath
+(1d6 negative levels), tail sweep  
+**Oracle Spells Known** (CL 15th; concentration +22)  
+7th (5)—*destruction* (DC 24), *repulsion* (DC 24)  
+6th (7)—*animate objects, heal, word of recall*  
+5th (7)—*break enchantment, slay living* (DC 22), *true seeing, wall of stone*  
+4th (7)—*cure critical wounds, dismissal* (DC 21), *divination, spell immunity*  
+3rd (8)—*glyph of warding, meld into stone, searing light, speak with dead* (DC 20)  
+2nd (8)—*augury, cure moderate wounds, gentle repose, resist energy, silence* (DC 19)  
+1st (8)—*bless, cure light wounds, hide from undead, sanctuary* (DC 18), *shield of faith*  
+0 (at will)—*bleed* (DC 17), *create water, detect magic, guidance, light, mending, read magic, resistance, stabilize*
+
+**Statistics**
+
+**Str** 37, **Dex** 8, **Con** 27, **Int** 24, **Wis** 29, **Cha** 24  
+**Base Atk** +28; **CMB** +45; **CMD** 54 (58 vs. trip)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Critical Focus](../../rules/feats/critical-focus.md), [Greater Vital Strike](../../rules/feats/greater-vital-strike.md), Improved
+Critical (bite, claw), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, Snatch, [Staggering Critical](../../rules/feats/staggering-critical.md), [Step Up](../../rules/feats/step-up.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +38, Diplomacy +38, Fly +16, Intimidate +38,
+Knowledge (arcana, engineering, history, planes, religion) +38,
+Perception +44, Sense Motive +44, Spellcraft +38, Stealth +18  
+**Languages** Abyssal, Celestial, Common, Draconic, Infernal  
+**SQ** compression, planar infusion (300 ft.)

@@ -10,11 +10,11 @@ const ROOT = path.join(__dirname, '..', 'docs');
 const MON = path.join(ROOT, 'monsters');
 const BOOKS = {
   'bestiary-1': { title: 'Bestiary', re: /^Pathfinder RPG Bestiary pg\./ },
-  'bestiary-2': { title: 'Bestiary 2', re: /^Pathfinder RPG Bestiary 2 pg\./ },
-  'bestiary-3': { title: 'Bestiary 3', re: /^Pathfinder RPG Bestiary 3 pg\./ },
-  'bestiary-4': { title: 'Bestiary 4', re: /^Pathfinder RPG Bestiary 4 pg\./ },
-  'bestiary-5': { title: 'Bestiary 5', re: /^Pathfinder RPG Bestiary 5 pg\./ },
-  'bestiary-6': { title: 'Bestiary 6', re: /^Pathfinder RPG Bestiary 6 pg\./ },
+  'bestiary-2': { title: 'Bestiary 2', re: /^(Pathfinder RPG )?Bestiary 2 pg\./ },
+  'bestiary-3': { title: 'Bestiary 3', re: /^(Pathfinder RPG )?Bestiary 3 pg\./ },
+  'bestiary-4': { title: 'Bestiary 4', re: /^(Pathfinder RPG )?Bestiary 4 pg\./ },
+  'bestiary-5': { title: 'Bestiary 5', re: /^(Pathfinder RPG )?Bestiary 5 pg\./ },
+  'bestiary-6': { title: 'Bestiary 6', re: /^(Pathfinder RPG )?Bestiary 6 pg\./ },
   'npc-codex': { title: 'NPC Codex', re: /^NPC Codex pg\./ },
   'gamemastery-guide-npcs': { title: 'GameMastery Guide NPCs', re: /^GameMastery Guide pg\./ },
   'monster-codex': { title: 'Monster Codex', re: /^Monster Codex pg\./ },
@@ -235,10 +235,26 @@ function parseSpellBlocks(lines) {
       blocks.push(cur);
       continue;
     }
-    const sep = l.text.match(/\s*(?:—| - )\s*/);
-    if (cur && !l.label && sep && sep.index < 30) {
-      const label = l.text.slice(0, sep.index).trim();
-      const spells = splitTop(l.text.slice(sep.index + sep[0].length), ',').map(raw => {
+    if (cur && !l.label) {
+      // one line can hold several usage groups: "darkness; 1/day—desecrate"
+      const groups = l.text.split(/;\s*(?=(?:\d+\/(?:day|week|month|year|hour)|at will|constant|\d+(?:st|nd|rd|th)|0)\b)/i);
+      let any = false;
+      for (const text of groups) {
+        // "At will—", "1/day - ", "1/day-", "1/day (self plus 1 rider only)—"
+        const sep = text.match(/\s*—\s*|\s+-\s+|(?<=day|will|constant|week)-/i);
+        if (!sep || sep.index > 45) continue;
+        any = true;
+        parseLevel(text.slice(0, sep.index).trim(), text.slice(sep.index + sep[0].length));
+      }
+      if (any) continue;
+    }
+    if (l.label) cur = null;
+  }
+  return blocks;
+
+  function parseLevel(label, list) {
+    {
+      const spells = splitTop(list, ',').map(raw => {
         const dc = (raw.match(/\bDC (\d+)/) || [])[1];
         // "protection from evilD" (domain superscript run into the name)
         const name = raw.replace(/\s*\([^)]*\)/g, '').replace(/[*†‡]/g, '').replace(/\s+[DS]$/, '').replace(/([a-z])[DS]$/, '$1').replace(/([a-z])\d+(st|nd|rd|th)$/, '$1').trim();
@@ -252,11 +268,8 @@ function parseSpellBlocks(lines) {
         return s;
       });
       cur.levels.push({ label, spells });
-      continue;
     }
-    if (l.label) cur = null;
   }
-  return blocks;
 }
 
 function parseSpecials(html) {

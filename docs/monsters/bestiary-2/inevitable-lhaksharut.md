@@ -1,0 +1,59 @@
+# Inevitable, Lhaksharut
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Lhaksharut&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;LN Huge outsider (extraplanar, inevitable, lawful)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;darkvision 60 ft., detect chaos, detect magic, low-light vision, true seeing&quot;,&quot;ac&quot;:&quot;36, touch 18, flat-footed 35&quot;,&quot;hp&quot;:&quot;337 (22d10+216); regeneration 10 (chaotic)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:25,&quot;Ref&quot;:12,&quot;Will&quot;:22},&quot;defense&quot;:&quot;constructed; DR 15/chaotic; Immune energy spells; SR 31&quot;,&quot;aura&quot;:&quot;shield of law (DC 23)&quot;,&quot;speed&quot;:&quot;fly 60 ft. (perfect); space 15 ft.,, reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 wounding spear&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[32,27,22,17],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;3d6&quot;,&quot;mod&quot;:17,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;plus 1 bleed&quot;},{&quot;name&quot;:&quot;+2 wounding longsword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[32],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;3d6&quot;,&quot;mod&quot;:12,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1 bleed&quot;},{&quot;name&quot;:&quot;+2 wounding morningstar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[32],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;3d6&quot;,&quot;mod&quot;:12,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1 bleed&quot;}],[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:4,&quot;bonuses&quot;:[30],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:10,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;energy bolts&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;10d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;energy&quot;}]],&quot;specialAttacks&quot;:&quot;cunning reflexes, multiweapon mastery, perfect prediction, wounding weapons&quot;,&quot;rangedTouch&quot;:21,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:22,&quot;concentration&quot;:27,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect chaos&quot;,&quot;page&quot;:&quot;detect-chaos&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;shield of law&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;shield-of-law&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;,&quot;note&quot;:&quot;self plus 50 lbs. of objects only&quot;},{&quot;name&quot;:&quot;sending&quot;,&quot;page&quot;:&quot;sending&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dictum&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;dictum&quot;,&quot;save&quot;:&quot;none or Will negates&quot;},{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;dimensional lock&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;dimensional-lock&quot;},{&quot;name&quot;:&quot;disintegrate&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;disintegrate&quot;,&quot;save&quot;:&quot;Fortitude partial (object)&quot;,&quot;damage&quot;:&quot;40d6&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;Fort save: 5d6 instead&quot;},{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater scrying&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;scrying-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;plane shift&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;plane-shift&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;wall of force&quot;,&quot;page&quot;:&quot;wall-of-force&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;imprisonment&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;imprisonment&quot;,&quot;save&quot;:&quot;Will negates&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Cunning Reflexes&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A lhaksharut uses its Wisdom modifier, rather than its Dexterity modifier, to determine how many additional attacks of opportunity it gains with the Combat Reflexes feat. For most lhaksharut inevitables, this benefit equates to 5 additional attacks of opportunity per round.&quot;},{&quot;name&quot;:&quot;Energy Bolt&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A lhaksharut can fire bolts of elemental energy from two of its six arms—it never wields weapons in these hands. These attacks have a range increment of 100 feet and deal 10d6 energy damage of the inevitable’s choice (acid, cold, electricity, or fire, chosen for each bolt as it is thrown). It can throw two bolts of energy as a standard action, and cannot attack with these hands when it makes weapon or slam attacks with its other limbs.&quot;},{&quot;name&quot;:&quot;Immunity to Energy Spells&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A lhaksharut is immune to any spell or spell-like ability with the acid, cold, electricity, fire, or sonic descriptor that allows spell resistance.&quot;},{&quot;name&quot;:&quot;Multiweapon Mastery&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A lhaksharut never takes penalties on its attack rolls when fighting with multiple weapons.&quot;},{&quot;name&quot;:&quot;Perfect Prediction&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus.&quot;},{&quot;name&quot;:&quot;Wounding Weapons&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Any weapon wielded by a lhaksharut gains the wounding weapon quality as long as it remains in the creature’s grasp.&quot;}],&quot;abilities&quot;:&quot;Str 31, Dex 13, Con 26, Int 14, Wis 21, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +22; CMB +34; CMD 50 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:30,&quot;Intimidate&quot;:30,&quot;Knowledge (arcana)&quot;:24,&quot;Knowledge (geography)&quot;:24,&quot;Knowledge (planes)&quot;:27,&quot;Perception&quot;:34,&quot;Sense Motive&quot;:30,&quot;Spellcraft&quot;:24,&quot;CMB&quot;:34},&quot;feats&quot;:&quot;Blind-Fight, Combat Expertise, Combat Reflexes, Greater Bull Rush, Greater Vital Strike, Improved Bull Rush, Improved Disarm, Improved Initiative, Improved Vital Strike, Power Attack, Vital Strike&quot;,&quot;languages&quot;:&quot;truespeech&quot;,&quot;sq&quot;:&quot;perfect prediction&quot;}"></div>
+
+## Lhaksharut (CR 20)
+
+**XP** 307,200  
+LN Huge outsider (extraplanar, inevitable, lawful)  
+**Init** +5; **Senses** darkvision 60 ft., *detect chaos*, *detect magic*, low-light vision, *true seeing*; Perception +34  
+**Aura** *shield of law* (DC 23)
+
+**Defense**
+
+**AC** 36, touch 18, flat-footed 35 (+4 deflection, +1 Dex, +5 insight, +18 natural, –2 size)  
+**hp** 337 (22d10+216); regeneration 10 (chaotic)  
+**Fort** +25, **Ref** +12, **Will** +22  
+**Defensive Abilities** constructed; **DR** 15/chaotic; **Immune** energy spells; **SR** 31
+
+**Offense**
+
+**Speed** fly 60 ft. (perfect)  
+**Melee** *+2 wounding spear* +32/+27/+22/+17 (3d6+17/x3 plus 1 bleed), *+2 wounding longsword* +32 (3d6+12/19–20 plus 1 bleed), *+2 wounding morningstar* +32 (3d6+12 plus 1 bleed) or 4 slams +30 (2d8+10)  
+**Ranged**  2 energy bolts +21 (10d6 energy)  
+**Space** 15 ft., **Reach** 15 ft.  
+**Special Attacks** cunning reflexes, multiweapon mastery, perfect prediction, wounding weapons  
+**Spell-Like Abilities** (CL 22th; concentration +27)  
+Constant—*detect chaos*, *detect magic*, *shield of law* (DC 23), *true seeing*  
+At will—*dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *sending*  
+3/day—*dictum* (DC 22), *dimensional anchor* (DC 19), *dimensional lock* (DC 23), *disintegrate* (DC 21), *dismissal* (DC 20), *greater scrying* (DC 22), *plane shift* (DC 20), *wall of force*  
+1/day—*imprisonment* (DC 24)
+
+**Statistics**
+
+**Str** 31, **Dex** 13, **Con** 26, **Int** 14, **Wis** 21, **Cha** 20  
+**Base Atk** +22; **CMB** +34; **CMD** 50 (can’t be tripped)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Vital Strike](../../rules/feats/greater-vital-strike.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Skills** Fly +30, Intimidate +30, Knowledge (arcana) +24, Knowledge (geography) +24, Knowledge (planes) +27, Perception +34, Sense Motive +30, Spellcraft +24; **Racial Modifiers** +4 Perception  
+**Languages** truespeech  
+**SQ** perfect prediction
+
+**Ecology**
+
+**Environment** any  
+**Organization** solitary  
+**Treasure** double (*+2 longsword*, *+2 spear*, *+2 morningstar*, other treasure)
+
+**Special Abilities**
+
+**Cunning Reflexes (Ex)** A lhaksharut uses its Wisdom modifier, rather than its Dexterity modifier, to determine how many additional attacks of opportunity it gains with the Combat Reflexes feat. For most lhaksharut inevitables, this benefit equates to 5 additional attacks of opportunity per round.
+
+**Energy Bolt (Su)** A lhaksharut can fire bolts of elemental energy from two of its six arms—it never wields weapons in these hands. These attacks have a range increment of 100 feet and deal 10d6 energy damage of the inevitable’s choice (acid, cold, electricity, or fire, chosen for each bolt as it is thrown). It can throw two bolts of energy as a standard action, and cannot attack with these hands when it makes weapon or slam attacks with its other limbs.
+
+**Immunity to Energy Spells (Ex)** A lhaksharut is immune to any spell or spell-like ability with the acid, cold, electricity, fire, or sonic descriptor that allows spell resistance.
+
+**Multiweapon Mastery (Ex)** A lhaksharut never takes penalties on its attack rolls when fighting with multiple weapons.
+
+**Perfect Prediction (Su)** A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus.
+
+**Wounding Weapons (Su)** Any weapon wielded by a lhaksharut gains the wounding weapon quality as long as it remains in the creature’s grasp.

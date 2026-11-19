@@ -1,0 +1,83 @@
+# Horsemen of the Apocalypse, Charon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Charon&quot;,&quot;cr&quot;:&quot;30&quot;,&quot;xp&quot;:&quot;9,830,400&quot;,&quot;line&quot;:&quot;NE Medium outsider (daemon, evil, extraplanar)&quot;,&quot;init&quot;:12,&quot;senses&quot;:&quot;darkvision 60 ft., detect good, lifesense, true seeing&quot;,&quot;ac&quot;:&quot;48, touch 38, flat-footed 40&quot;,&quot;hp&quot;:&quot;774 (36d10+576); regeneration 20 (deific or mythic)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:32,&quot;Ref&quot;:32,&quot;Will&quot;:35},&quot;defense&quot;:&quot;apocalyptic resurrection, freedom of movement, negative energy affinity, Stygian bond; DR 20/ epic, good, and silver; Immune ability damage, ability drain, acid, death effects, disease, energy drain, mind-affecting effects, petrification, poison; Resist cold 30, electricity 30, fire 30; SR 41&quot;,&quot;aura&quot;:&quot;frightful presence (120 ft., DC 40), unholy aura (DC 30)&quot;,&quot;speed&quot;:&quot;50 ft., swim 30 ft.; air walk, water walk; space 5 ft.,, reach 5 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+5 spellstealing unholy quarterstaff&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[52,47,42,37],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:20,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus curse of ages&quot;},{&quot;name&quot;:&quot;+5 spellstealing unholy quarterstaff&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[52,47,42],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:20,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus curse of ages&quot;}],[{&quot;name&quot;:&quot;touch&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[51],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:null,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;curse of ages&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;Stygian bolts&quot;,&quot;count&quot;:4,&quot;bonuses&quot;:[44],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;10d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus memory loss&quot;}]],&quot;specialAttacks&quot;:&quot;curse of the ages, memory loss, Stygian bolt&quot;,&quot;rangedTouch&quot;:44,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:30,&quot;concentration&quot;:42,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;},{&quot;name&quot;:&quot;unholy aura&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;unholy-aura&quot;},{&quot;name&quot;:&quot;water walk&quot;,&quot;page&quot;:&quot;water-walk&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate deadM&quot;},{&quot;name&quot;:&quot;astral projection&quot;,&quot;page&quot;:&quot;astral-projection&quot;},{&quot;name&quot;:&quot;blasphemyM&quot;,&quot;dc&quot;:29},{&quot;name&quot;:&quot;circle of deathM&quot;,&quot;dc&quot;:28},{&quot;name&quot;:&quot;control undead&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;control-undead&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;create greater undead&quot;,&quot;page&quot;:&quot;create-greater-undead&quot;},{&quot;name&quot;:&quot;create undead&quot;,&quot;page&quot;:&quot;create-undead&quot;},{&quot;name&quot;:&quot;desecrateM&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;},{&quot;name&quot;:&quot;shapechange&quot;,&quot;page&quot;:&quot;shapechange&quot;},{&quot;name&quot;:&quot;telekinesisM&quot;,&quot;dc&quot;:27},{&quot;name&quot;:&quot;unhallow&quot;,&quot;page&quot;:&quot;unhallow&quot;},{&quot;name&quot;:&quot;unholy blightM&quot;,&quot;dc&quot;:26}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened circle of deathM&quot;,&quot;dc&quot;:28},{&quot;name&quot;:&quot;plane shiftM&quot;,&quot;dc&quot;:29},{&quot;name&quot;:&quot;soul bind&quot;,&quot;dc&quot;:31,&quot;page&quot;:&quot;soul-bind&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;summon daemon&quot;},{&quot;name&quot;:&quot;symbol of death&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;symbol-of-death&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;quickened telekinesisM&quot;,&quot;dc&quot;:27},{&quot;name&quot;:&quot;wail of the banshee&quot;,&quot;dc&quot;:31,&quot;page&quot;:&quot;wail-of-the-banshee&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;time stopM&quot;},{&quot;name&quot;:&quot;wishM&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Craft Item&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;Charon is treated as having access to all Item Creation feats listed in the Pathfinder RPG Core Rulebook plus Craft Construct for the purposes of creating magic items or constructs.&quot;},{&quot;name&quot;:&quot;Curse of Ages&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The first time in a round that Charon strikes a creature with a weapon or a successful touch attack, that creature must succeed at a DC 40 Fortitude save or instantly grow decrepit and feeble, as if the target suddenly became venerable. The target’s Constitution, Dexterity, and Strength scores are reduced by 6, but its mental ability scores are not increased. If Charon touches or strikes a venerable target (either a naturally venerable creature or a creature suffering from this effect or a similar magical effect), that creature is subjected to memory loss (see below). Curse of the ages is an aging and a curse effect. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Memory Loss&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;When Charon strikes a creature with a Stygian bolt or touches or strikes a venerable target, he can affect that creature with memory loss. A creature affected by memory loss must succeed at a DC 40 Will save or gain 2 permanent negative levels as swaths of memory are wiped away. These negative levels are a mind-affecting effect but not a negative energy effect. If these negative levels cause the target’s total number of negative levels to equal or exceed its Hit Dice, instead of dying the target enters a catatonic state that lasts as long as the negative levels from the Stygian bolts continue to cause its total number of negative levels to equal or exceed its Hit Dice. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Reach of the Styx&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Once per hour as a standard action, Charon can transport himself and any adjacent creatures— such as passengers on his skiff—to any point touched by the River Styx, even if he is not currently on a plane through which it flows, traveling as if via a plane shift spell.&quot;},{&quot;name&quot;:&quot;Stygian Bolt&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a standard action, Charon can spit four blasts of Stygian water from his mouth. Each of these Stygian bolts can target a different creature. These attacks are treated as ranged attacks with a range increment of 100 feet. On a hit, a Stygian bolt deals 10d6 points of bludgeoning damage and inflicts memory loss.&quot;},{&quot;name&quot;:&quot;Stygian Bond&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Charon’s regeneration cannot be overcome by any means when he is in physical contact with the River Styx or when he is aboard his skiff while on the River Styx.&quot;},{&quot;name&quot;:&quot;Transform Mount&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a swift action, Charon can cause his mount, the Pale Horse, to transform into a skiff that can carry up to four passengers plus himself. He can also transform this skiff back into the Pale Horse as a swift action, in which case he automatically mounts the Pale Horse and any passengers or cargo in the skiff are dumped into adjacent squares.&quot;}],&quot;abilities&quot;:&quot;Str 40, Dex 27, Con 42, Int 35, Wis 32, Cha 35&quot;,&quot;combat&quot;:&quot;BAB +36; CMB +51 (+55 bull rush); CMD 89 (91 vs. bull rush)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:44,&quot;Bluff&quot;:51,&quot;Diplomacy&quot;:48,&quot;Intimidate&quot;:48,&quot;Knowledge (arcana)&quot;:48,&quot;Knowledge (engineering)&quot;:48,&quot;Knowledge (geography)&quot;:48,&quot;Knowledge (history)&quot;:48,&quot;Knowledge (religion)&quot;:48,&quot;Knowledge (planes)&quot;:51,&quot;Perception&quot;:50,&quot;Profession (sailor)&quot;:50,&quot;Ride&quot;:47,&quot;Sense Motive&quot;:50,&quot;Spellcraft&quot;:51,&quot;Stealth&quot;:47,&quot;Swim&quot;:59,&quot;Use Magic Device&quot;:51,&quot;CMB&quot;:51},&quot;feats&quot;:&quot;Blinding Critical, Combat Expertise, Combat Reflexes, Critical Focus, Double Slice, Greater Bull Rush, Greater Two- Weapon Fighting, Improved Bull Rush, Improved Critical (quarterstaff), Improved Initiative, Improved Two-Weapon Fighting, Mounted Combat, Power Attack, Quicken Spell-Like Ability (circle of death, telekinesis), Ride-By Attack, Spirited Charge, Two-Weapon Fighting&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Common, Infernal; telepathy 300 ft.&quot;,&quot;sq&quot;:&quot;craft item, Horseman traits, reach of the Styx, transform mount&quot;}"></div>
+
+## Charon (CR 30)
+
+**XP** 9,830,400  
+NE Medium outsider (daemon, evil, extraplanar)  
+**Init** +12; **Senses** darkvision 60 ft., *detect good*, lifesense, *true
+seeing*; Perception +50  
+**Aura** frightful presence (120 ft., DC 40), *unholy aura* (DC 30)
+
+**Defense**
+
+**AC** 48, touch 38, flat-footed 40 (+4 deflection, +8 Dex,
++10 natural, +16 profane)  
+**hp** 774 (36d10+576); regeneration 20 (deific or mythic)  
+**Fort** +32, **Ref** +32, **Will** +35  
+**Defensive Abilities** apocalyptic resurrection, *freedom of
+movement*, negative energy affinity, Stygian bond; **DR** 20/
+epic, good, and silver; **Immune** ability damage, ability drain,
+acid, death effects, disease, energy drain, mind-affecting
+effects, petrification, poison; **Resist** cold 30, electricity 30,
+fire 30; **SR** 41
+
+**Offense**
+
+**Speed** 50 ft., swim 30 ft.; *air walk, water walk*  
+**Melee** *+5 spellstealing unholy quarterstaff* +52/+47/+42/+37
+(1d6+20/19–20 plus curse of ages), *+5 spellstealing
+unholy quarterstaff* +52/+47/+42 (1d6+20/19–20 plus
+curse of ages) or
+touch +51 (curse of ages)  
+**Ranged** 4 Stygian bolts +44 (10d6 plus memory loss)  
+**Space** 5 ft., **Reach** 5 ft.  
+**Special Attacks** curse of the ages, memory loss, Stygian bolt  
+**Spell-Like Abilities** (CL 30th; concentration +42)  
+Constant—*air walk, detect good, freedom of movement, true seeing, unholy aura* (DC 30), *water walk*  
+At will—*animate dead*M, *astral projection, blasphemy*M (DC 29), *circle of death*M (DC 28), *control undead* (DC 29), *create greater undead, create undead, desecrate*M, *greater dispel magic, greater teleport, shapechange, telekinesis*M (DC 27), *unhallow, unholy blight*M (DC 26)  
+3/day—quickened *circle of death*M (DC 28), plane shiftM (DC 29), *soul bind* (DC 31), *summon daemon, symbol of death* (DC 30), quickened *telekinesis*M (DC 27), *wail of the banshee* (DC 31)  
+1/day—*time stop*M, *wish*M  
+M Charon can use this ability's mythic version in his realm
+
+**Statistics**
+
+**Str** 40, **Dex** 27, **Con** 42, **Int** 35, **Wis** 32, **Cha** 35  
+**Base Atk** +36; **CMB** +51 (+55 bull rush); **CMD** 89 (91 vs. bull rush)  
+**Feats** [Blinding Critical](../../rules/feats/blinding-critical.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Double Slice](../../rules/feats/double-slice.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), Greater Two-
+Weapon Fighting, [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical
+(quarterstaff)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Two-Weapon
+Fighting, [Mounted Combat](../../rules/feats/mounted-combat.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like
+Ability (*circle of death, telekinesis*), [Ride-By Attack](../../rules/feats/ride-by-attack.md), Spirited
+Charge, [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
+**Skills** Acrobatics +44, Bluff +51, Diplomacy +48, Intimidate +48,
+Knowledge (arcana, engineering, geography, history, religion)
++48, Knowledge (planes) +51, Perception +50, Profession
+(sailor) +50, Ride +47, Sense Motive +50, Spellcraft +51,
+Stealth +47, Swim +59, Use Magic Device +51  
+**Languages** Abyssal, Celestial, Common, Infernal; telepathy 300 ft.  
+**SQ** craft item, Horseman traits, reach of the Styx, transform mount
+
+**Ecology**
+
+**Environment** any (Abaddon)  
+**Organization** solitary or mounted (Charon and the Pale Horse)  
+**Treasure** triple (*+5 spellstealing unholy quarterstaff*,
+other treasure)
+
+**Special Abilities**
+
+**Craft Item** Charon is treated as having access to all Item Creation feats listed in the *Pathfinder RPG Core Rulebook* plus Craft Construct for the purposes of creating magic items or constructs.
+
+**Curse of Ages (Su)** The first time in a round that Charon strikes a creature with a weapon or a successful touch attack, that creature must succeed at a DC 40 Fortitude save or instantly grow decrepit and feeble, as if the target suddenly became venerable. The target’s Constitution, Dexterity, and Strength scores are reduced by 6, but its mental ability scores are not increased. If Charon touches or strikes a venerable target (either a naturally venerable creature or a creature suffering from this effect or a similar magical effect), that creature is subjected to memory loss (see below). Curse of the ages is an aging and a curse effect. The save DC is Charisma-based.
+
+**Memory Loss (Su)** When Charon strikes a creature with a Stygian bolt or touches or strikes a venerable target, he can affect that creature with memory loss. A creature affected by memory loss must succeed at a DC 40 Will save or gain 2 permanent negative levels as swaths of memory are wiped away. These negative levels are a mind-affecting effect but not a negative energy effect. If these negative levels cause the target’s total number of negative levels to equal or exceed its Hit Dice, instead of dying the target enters a catatonic state that lasts as long as the negative levels from the Stygian bolts continue to cause its total number of negative levels to equal or exceed its Hit Dice. The save DC is Charisma-based.
+
+**Reach of the Styx (Su)** Once per hour as a standard action, Charon can transport himself and any adjacent creatures— such as passengers on his skiff—to any point touched by the River Styx, even if he is not currently on a plane through which it flows, traveling as if via a *plane shift* spell.
+
+**Stygian Bolt (Su)** As a standard action, Charon can spit four blasts of Stygian water from his mouth. Each of these Stygian bolts can target a different creature. These attacks are treated as ranged attacks with a range increment of 100 feet. On a hit, a Stygian bolt deals 10d6 points of bludgeoning damage and inflicts memory loss.
+
+**Stygian Bond (Ex)** Charon’s regeneration cannot be overcome by any means when he is in physical contact with the River Styx or when he is aboard his skiff while on the River Styx.
+
+**Transform Mount (Su)** As a swift action, Charon can cause his mount, the Pale Horse, to transform into a skiff that can carry up to four passengers plus himself. He can also transform this skiff back into the Pale Horse as a swift action, in which case he automatically mounts the Pale Horse and any passengers or cargo in the skiff are dumped into adjacent squares.

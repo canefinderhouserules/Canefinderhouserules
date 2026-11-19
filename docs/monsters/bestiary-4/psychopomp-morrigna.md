@@ -1,0 +1,56 @@
+# Psychopomp, Morrigna
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Morrigna&quot;,&quot;cr&quot;:&quot;13&quot;,&quot;xp&quot;:&quot;25,600&quot;,&quot;line&quot;:&quot;N Medium outsider (extraplanar, psychopomp)&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision, spiritsense&quot;,&quot;ac&quot;:&quot;28, touch 13, flat-footed 25&quot;,&quot;hp&quot;:&quot;171 (18d10+72); regeneration 5 (acid or fire)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:10,&quot;Ref&quot;:15,&quot;Will&quot;:16},&quot;defense&quot;:&quot;DR 10/adamantine; Immune death effects, disease, poison; Resist cold 10, electricity 10; SR 24&quot;,&quot;speed&quot;:&quot;40 ft. (30 ft. in armor), climb 15 ft.; space 5 ft.,, reach 5 ft. (10 ft. with wrappings)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[24],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wrappings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[19],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;specialAttacks&quot;:&quot;wrappings&quot;,&quot;rangedTouch&quot;:22,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect undead&quot;,&quot;page&quot;:&quot;detect-undead&quot;},{&quot;name&quot;:&quot;stone tell&quot;,&quot;page&quot;:&quot;stone-tell&quot;}]},{&quot;label&quot;:&quot;5/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;speak with dead&quot;,&quot;page&quot;:&quot;speak-with-dead&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 7, 1d4 giant tarantulas [Pathfinder RPG Bestiary 2 256] 75% or 1d4 spider swarms 100%&quot;}]}]},{&quot;title&quot;:&quot;Inquisitor Spells Known&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th (3)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;page&quot;:&quot;cure-critical-wounds&quot;},{&quot;name&quot;:&quot;divination&quot;,&quot;page&quot;:&quot;divination&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;spell immunity&quot;,&quot;page&quot;:&quot;spell-immunity&quot;}]},{&quot;label&quot;:&quot;3rd (5)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blood biographyAPG&quot;,&quot;dc&quot;:16},{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;halt undead&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;halt-undead&quot;}]},{&quot;label&quot;:&quot;2nd (6)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;confessAPG&quot;,&quot;dc&quot;:15},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;1st (6)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;sanctuary&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;wrathAPG&quot;}]},{&quot;label&quot;:&quot;0&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;disrupt undead&quot;,&quot;page&quot;:&quot;disrupt-undead&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;siftAPG&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Spells&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;A morrigna casts spells as a 12th-level inquisitor.&quot;},{&quot;name&quot;:&quot;Spider Sight&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A morrigna can see through the eyes of a spider swarm she summons as though it were the sensor of an arcane eye spell. She does not have to concentrate to use this ability.&quot;},{&quot;name&quot;:&quot;Wrappings&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A morrigna’s web wrappings grant her a +2 shield bonus to AC and can make secondary natural attacks.&quot;}],&quot;abilities&quot;:&quot;Str 22, Dex 19, Con 18, Int 13, Wis 17, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +18; CMB +24 (+28 grapple); CMD 38&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:15,&quot;Climb&quot;:11,&quot;Diplomacy&quot;:25,&quot;Disguise&quot;:15,&quot;Intimidate&quot;:17,&quot;Knowledge (planes)&quot;:13,&quot;Perception&quot;:28,&quot;Sense Motive&quot;:25,&quot;Sleight of Hand&quot;:10,&quot;Stealth&quot;:22,&quot;Survival&quot;:15,&quot;Swim&quot;:6,&quot;CMB&quot;:24},&quot;feats&quot;:&quot;Alertness, Combat Expertise, Combat Reflexes, Deflect ArrowsB, Eschew MaterialsB, Following StepAPG, Improved Initiative, Iron Will, Persuasive, Step Up, Step Up and StrikeAPG&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Infernal; speak with animals (including vermin), tongues&quot;,&quot;sq&quot;:&quot;change shape (any animal or humanoid), spirit touch&quot;}"></div>
+
+## Morrigna (CR 13)
+
+**XP** 25,600  
+N Medium outsider (extraplanar, psychopomp)  
+**Init** +8; **Senses** darkvision 60 ft., low-light vision, spiritsense; Perception +28
+
+**Defense**
+
+**AC** 28, touch 13, flat-footed 25 (+8 armor, +3 Dex, +5 natural, +2 shield)  
+**hp** 171 (18d10+72); regeneration 5 (acid or fire)  
+**Fort** +10, **Ref** +15, **Will** +16  
+**DR** 10/adamantine; **Immune** death effects, disease, poison; **Resist** cold 10, electricity 10; **SR** 24
+
+**Offense**
+
+**Speed** 40 ft. (30 ft. in armor), climb 15 ft.  
+**Melee** 2 slams +24 (2d6+6), 2 wrappings +19 (1d6+3 plus grab)  
+**Space** 5 ft., **Reach** 5 ft. (10 ft. with wrappings)  
+**Special Attacks** wrappings  
+**Spell-Like Abilities** (CL 12th; concentration +15)  
+At will—*detect undead*, *stone tell*  
+5/day—*speak with dead*  
+3/day—summon (level 7, 1d4 giant tarantulas [*Pathfinder RPG Bestiary 2* 256] 75% or 1d4 spider swarms 100%)  
+**Inquisitor Spells Known** (CL 12th; concentration +15)  
+4th (3)—*cure critical wounds*, *divination*, *freedom of movement*, *spell immunity*  
+3rd (5)—*blood biography*APG (DC 16), *dimensional anchor*, *dispel magic*, *halt undead* (DC 16)  
+2nd (6)—*confess*APG (DC 15), *detect thoughts* (DC 15), *hold person* (DC 15), *invisibility*, *see invisibility*  
+1st (6)—*bane* (DC 14), *command* (DC 14), *comprehend languages*, *expeditious retreat*, *sanctuary* (DC 14), *wrath*APG  
+0—*bleed* (DC 13), *detect magic*, *disrupt undead*, *read magic*, *sift*APG, *stabilize*
+
+**Statistics**
+
+**Str** 22, **Dex** 19, **Con** 18, **Int** 13, **Wis** 17, **Cha** 16  
+**Base Atk** +18; **CMB** +24 (+28 grapple); **CMD** 38  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect ArrowsB](../../rules/feats/deflect-arrows.md), [Eschew MaterialsB](../../rules/feats/eschew-materials.md), [Following StepAPG](../../rules/feats/following-step.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Step Up](../../rules/feats/step-up.md), [Step Up and StrikeAPG](../../rules/feats/step-up-and-strike.md)  
+**Skills** Bluff +15, Climb +11, Diplomacy +25, Disguise +15, Intimidate +17, Knowledge (planes) +13, Perception +28, Sense Motive +25, Sleight of Hand +10, Stealth +22, Survival +15, Swim +6  
+**Languages** Abyssal, Celestial, Infernal; *speak with animals* (including vermin), *tongues*  
+**SQ** change shape (any animal or humanoid), spirit touch
+
+**Ecology**
+
+**Environment** any (Purgatory)  
+**Organization** solitary of group (3–15)  
+**Treasure** standard (*+2 glamered breastplate*, other treasure)
+
+**Special Abilities**
+
+**Spells** A morrigna casts spells as a 12th-level inquisitor.
+
+**Spider Sight (Su)** A morrigna can see through the eyes of a spider swarm she summons as though it were the sensor of an *arcane eye* spell. She does not have to concentrate to use this ability.
+
+**Wrappings (Su)** A morrigna’s web wrappings grant her a +2 shield bonus to AC and can make secondary natural attacks.

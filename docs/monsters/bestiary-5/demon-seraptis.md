@@ -1,0 +1,52 @@
+# Demon, Seraptis
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seraptis&quot;,&quot;cr&quot;:&quot;15&quot;,&quot;xp&quot;:&quot;51,200&quot;,&quot;line&quot;:&quot;CE Medium outsider (chaotic, demon, evil, extraplanar)&quot;,&quot;init&quot;:10,&quot;senses&quot;:&quot;darkvision 60 ft., deathwatch, true seeing&quot;,&quot;ac&quot;:&quot;30, touch 20, flat-footed 24&quot;,&quot;hp&quot;:&quot;217 (15d10+135); blood healing&quot;,&quot;saves&quot;:{&quot;Fort&quot;:22,&quot;Ref&quot;:15,&quot;Will&quot;:17},&quot;defense&quot;:&quot;DR 10/cold iron and good; Immune bleed, electricity, poison; Resist acid 10, cold 10, fire 10; SR 26&quot;,&quot;aura&quot;:&quot;gaze of despair (30 ft., DC 22), unholy aura (DC 23)&quot;,&quot;speed&quot;:&quot;50 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+3 wounding scimitar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[27,22,17],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:11,&quot;threat&quot;:15,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:3,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;},{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:4,&quot;bonuses&quot;:[23],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;},{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[23],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;compelling domination, constrict (4d6+12 plus 2d6 bleed and 1d4 Strength drain), multi-arm grab&quot;,&quot;rangedTouch&quot;:21,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:20,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;deathwatch&quot;,&quot;page&quot;:&quot;deathwatch&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;},{&quot;name&quot;:&quot;unholy aura&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;unholy-aura&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;crushing despair&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;crushing-despair&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;,&quot;note&quot;:&quot;self plus 50 lbs. of objects only&quot;},{&quot;name&quot;:&quot;telekinesis&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;telekinesis&quot;,&quot;save&quot;:&quot;Will negates (object) or none&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;confusion&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;confusion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;demand&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;demand&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;dominate person&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;dominate-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;fly&quot;,&quot;page&quot;:&quot;fly&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;symbol of insanity&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;symbol-of-insanity&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 5, 1 seraptis 20% or 1 glabrezu 40%&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Blood Healing&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Whenever a creature within 30 feet of a seraptis takes bleed damage caused by that seraptis, the blood flows through the air into the seraptis’s maw, and the seraptis heals an equal amount of damage.&quot;},{&quot;name&quot;:&quot;Compelling Domination&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;When a seraptis uses dominate person, its victims do not actively resist and never gain a new saving throw when ordered to take actions against their nature.&quot;},{&quot;name&quot;:&quot;Gaze of Despair&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Creatures within 30 feet of a seraptis that fail a DC 22 Will save take 1d6 points of Charisma drain and are staggered for 1d6 rounds. If the Charisma drain would reduce a creature’s Charisma to 0, that creature instead succumbs to overwhelming suicidal urges and attempts to end its life by the most convenient method at hand, subject to the GM’s discretion. The creature remains in that state until its Charisma is restored to its normal maximum—otherwise, the victim must be restrained at all times to prevent further suicide attempts. This is a mind-affecting effect. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Multi-Arm Grab&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;When a seraptis successfully grabs a creature, the maws on her arms begin to gnaw on it. This ability functions as constrict, except the damage type is bludgeoning, piercing, and slashing. A seraptis gains a cumulative +4 bonus on grapple attempts with her grab ability for each successive claw attack after the first that hits a given target that round.&quot;}],&quot;abilities&quot;:&quot;Str 26, Dex 23, Con 28, Int 16, Wis 19, Cha 21&quot;,&quot;combat&quot;:&quot;BAB +15; CMB +21 (+25 grapple); CMD 41&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:24,&quot;Bluff&quot;:23,&quot;Fly&quot;:24,&quot;Intimidate&quot;:23,&quot;Knowledge (planes)&quot;:21,&quot;Knowledge (religion)&quot;:21,&quot;Perception&quot;:30,&quot;Sense Motive&quot;:22,&quot;Stealth&quot;:24,&quot;CMB&quot;:21},&quot;feats&quot;:&quot;Bleeding Critical, Combat Reflexes, Critical Focus, Improved Critical (scimitar), Improved Initiative, Multiattack, Power Attack, Weapon Focus (scimitar)&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Draconic; telepathy 100 ft.&quot;}"></div>
+
+## Seraptis (CR 15)
+
+**XP** 51,200  
+CE Medium outsider (chaotic, demon, evil, extraplanar)  
+**Init** +10; **Senses** darkvision 60 ft., *deathwatch*, *true seeing*; Perception +30  
+**Aura** gaze of despair (30 ft., DC 22), *unholy aura* (DC 23)
+
+**Defense**
+
+**AC** 30, touch 20, flat-footed 24 (+4 deflection, +6 Dex, +10 natural)  
+**hp** 217 (15d10+135); blood healing  
+**Fort** +22, **Ref** +15, **Will** +17  
+**DR** 10/cold iron and good; **Immune** bleed, electricity, poison; **Resist** acid 10, cold 10, fire 10; **SR** 26
+
+**Offense**
+
+**Speed** 50 ft.  
+**Melee** *+3 wounding scimitar* +27/+22/+17 (1d6+11/15-20), 3 claws +21 (1d6+4 plus grab), gore +21 (2d6+4) or 4 claws +23 (1d6+8 plus grab), gore +23 (2d6+8)  
+**Special Attacks** compelling domination, constrict (4d6+12 plus 2d6 bleed and 1d4 Strength drain), multi-arm grab  
+**Spell-Like Abilities** (CL 15th; concentration +20)  
+Constant—*deathwatch*, *true seeing*, *unholy aura* (DC 23)  
+At will—*crushing despair* (DC 18), *dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 20)  
+3/day—*confusion* (DC 19), *demand* (DC 23), *dominate person* (DC 19), *fly*  
+1/day—*symbol of insanity* (DC 23), summon (level 5, 1 seraptis 20% or 1 glabrezu 40%)
+
+**Statistics**
+
+**Str** 26, **Dex** 23, **Con** 28, **Int** 16, **Wis** 19, **Cha** 21  
+**Base Atk** +15; **CMB** +21 (+25 grapple); **CMD** 41  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Critical (scimitar)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (scimitar)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +24 (+32 when jumping), Bluff +23, Fly +24, Intimidate +23, Knowledge (planes) +21, Knowledge (religion) +21, Perception +30, Sense Motive +22, Stealth +24; **Racial Modifiers** +8 Perception  
+**Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
+
+**Ecology**
+
+**Environment** any (Abyss)  
+**Organization** solitary or cult (1 plus 2-6 succubi)  
+**Treasure** double (*+3 wounding scimitar*, other)
+
+**Special Abilities**
+
+**Blood Healing (Su)** Whenever a creature within 30 feet of a seraptis takes bleed damage caused by that seraptis, the blood flows through the air into the seraptis’s maw, and the seraptis heals an equal amount of damage.
+
+**Compelling Domination (Su)** When a seraptis uses *dominate person*, its victims do not actively resist and never gain a new saving throw when ordered to take actions against their nature.
+
+**Gaze of Despair (Su)** Creatures within 30 feet of a seraptis that fail a DC 22 Will save take 1d6 points of Charisma drain and are staggered for 1d6 rounds. If the Charisma drain would reduce a creature’s Charisma to 0, that creature instead succumbs to overwhelming suicidal urges and attempts to end its life by the most convenient method at hand, subject to the GM’s discretion. The creature remains in that state until its Charisma is restored to its normal maximum—otherwise, the victim must be restrained at all times to prevent further suicide attempts. This is a mind-affecting effect. The save DC is Charisma-based.
+
+**Multi-Arm Grab (Ex)** When a seraptis successfully grabs a creature, the maws on her arms begin to gnaw on it. This ability functions as constrict, except the damage type is bludgeoning, piercing, and slashing. A seraptis gains a cumulative +4 bonus on grapple attempts with her grab ability for each successive claw attack after the first that hits a given target that round.

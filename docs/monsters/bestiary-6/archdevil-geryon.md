@@ -1,0 +1,80 @@
+# Archdevil, Geryon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Geryon&quot;,&quot;cr&quot;:&quot;29&quot;,&quot;xp&quot;:&quot;6,553,600&quot;,&quot;line&quot;:&quot;LE Huge outsider (aquatic, devil, evil, extraplanar, lawful)&quot;,&quot;init&quot;:9,&quot;senses&quot;:&quot;darkvision 60 ft., detect chaos, detect good, scent, see in darkness, true seeing&quot;,&quot;ac&quot;:&quot;47, touch 32, flat-footed 42&quot;,&quot;hp&quot;:&quot;731 (34d10+544); regeneration 30 (deific or mythic)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:31,&quot;Ref&quot;:28,&quot;Will&quot;:33},&quot;saveNote&quot;:&quot;+8 vs. mind-affecting effects&quot;,&quot;defense&quot;:&quot;all-around vision, envenomed scales, infernal resurrection, mind blank, threefold body; DR 20/ epic, good, and silver; Immune ability damage, ability drain, charm, cold, compulsion, death effects, energy drain, fire, memory loss effects, petrification, poison; Resist acid 30; SR 40&quot;,&quot;aura&quot;:&quot;frightful presence (120 ft., DC 38), shield of law (DC 29)&quot;,&quot;speed&quot;:&quot;50 ft., swim 50 ft., air walk; space 15 ft.,, reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+5 cruel dispelling burst unholy flail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[47,42,37,32],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;3d6&quot;,&quot;mod&quot;:19,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;+1 heavy shield&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[43,38],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:3,&quot;bonuses&quot;:[41],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slaps&quot;,&quot;count&quot;:3,&quot;bonuses&quot;:[41],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus poison&quot;}]],&quot;specialAttacks&quot;:&quot;casterbane, corrupting caress, perceive destiny&quot;,&quot;rangedTouch&quot;:37,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:29,&quot;concentration&quot;:40,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;detect chaos&quot;,&quot;page&quot;:&quot;detect-chaos&quot;},{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;},{&quot;name&quot;:&quot;mind blank&quot;,&quot;page&quot;:&quot;mind-blank&quot;},{&quot;name&quot;:&quot;shield of law&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;shield-of-law&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;astral projection&quot;,&quot;page&quot;:&quot;astral-projection&quot;},{&quot;name&quot;:&quot;black tentaclesM&quot;},{&quot;name&quot;:&quot;desecrateM&quot;},{&quot;name&quot;:&quot;dictumM&quot;,&quot;dc&quot;:28},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;},{&quot;name&quot;:&quot;mindwipe&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;mindwipe&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;modify memoryM&quot;,&quot;dc&quot;:25},{&quot;name&quot;:&quot;order’s wrathM&quot;,&quot;dc&quot;:25},{&quot;name&quot;:&quot;unhallow&quot;,&quot;page&quot;:&quot;unhallow&quot;},{&quot;name&quot;:&quot;wall of ice&quot;,&quot;page&quot;:&quot;wall-of-ice&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;feeblemind&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;feeblemind&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;quickened mindwipe&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;mindwipe&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mislead&quot;,&quot;page&quot;:&quot;mislead&quot;},{&quot;name&quot;:&quot;persistent image&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;persistent-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;summon devils&quot;},{&quot;name&quot;:&quot;vision&quot;,&quot;page&quot;:&quot;vision&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;prediction of failure&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;prediction-of-failure&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;time stopM&quot;},{&quot;name&quot;:&quot;wishM&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Casterbane&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Geryon’s foresight allows it to counterspell using greater dispel magic as an immediate action, with a +4 bonus to counter or dispel divine spells. It gains Spellbreaker as a bonus feat, and a spellcaster who fails a concentration check to cast defensively become flat-footed to Geryon until the end of its next turn.&quot;},{&quot;name&quot;:&quot;Corrupting Caress&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A creature damaged by Geryon’s natural attacks or melee weapons becomes unable to cast divine spells or activate domain powers, channel positive energy, or smite evil for 1 round (Will DC 38 negates). The duration stacks with multiple failed saves, but a creature that successfully saves cannot be further targeted by Geryon’s corrupting caress for 24 hours. This is a curse effect. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Envenomed Scales&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Creatures that strike Geryon with melee touch attacks, unarmed strikes, or natural attacks are exposed to its poison, as are creatures that confirm a critical hit on Geryon with a piercing or slashing weapon in melee.&quot;},{&quot;name&quot;:&quot;Immune to Memory Loss&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Geryon is immune to the effects of the River Styx and to all effects that cause memory loss or manipulate memories.&quot;},{&quot;name&quot;:&quot;Perceive Destiny&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As an immediate action, Geryon can train its threefold gaze upon a creature to perceive its past, present, and future, granting Geryon a +4 insight bonus to its AC and on attack rolls, opposed skill checks, and Reflex saves against that creature and attacks or effects created by that creature until the end of its next turn. This affects creatures using mind blank, nondetection, or similar protection from divination only if Geryon succeeds at a caster level check (DC = 11 + the effect’s caster level + the mythic tier of the caster, for mythic effects).&quot;},{&quot;name&quot;:&quot;Poison&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Tail slap—injury; save Fort DC 43; frequency 1/round for 6 rounds; effect 1d6 Int drain; cure 3 saves.&quot;},{&quot;name&quot;:&quot;Threefold Body&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Geryon’s vital organs and senses are spread across all three of its linked bodies. An effect that would cause it to become blinded or deafened instead affects only one of its bodies, unless it affects an area or targets each body as a separate creature. If one body is blinded or deafened, Geryon suffers no ill effects. If two bodies are blinded or deafened, it loses its all-around vision and is dazzled. Geryon is blinded or deafened only if all three bodies are blinded or deafened. It likewise has a 75% chance to ignore critical hits, sneak attack damage, and similar precision-based damage.&quot;}],&quot;abilities&quot;:&quot;Str 38, Dex 21, Con 42, Int 33, Wis 30, Cha 33&quot;,&quot;combat&quot;:&quot;BAB +34; CMB +50 (+54 disarm, trip); CMD 84 (86 vs. disarm, can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:48,&quot;Diplomacy&quot;:48,&quot;Intimidate&quot;:48,&quot;Know. (arcana, dungeoneering, engineering, geography, history, local, nature, nobility, religion)&quot;:45,&quot;Know. (planes)&quot;:48,&quot;Linguistics&quot;:48,&quot;Perception&quot;:47,&quot;Sense Motive&quot;:47,&quot;Spellcraft&quot;:48,&quot;Swim&quot;:21,&quot;CMB&quot;:50},&quot;feats&quot;:&quot;Blinding Critical, Combat Expertise, Critical Focus, Double Slice, Greater Disarm, Greater Trip, Improved Critical (flail, heavy shield, tail slap), Improved Disarm, Improved Initiative, Improved Shield Bash, Improved Trip, Improved Two-Weapon Fighting, Power Attack, Quicken Spell-Like Ability (mindwipe), Spellbreaker, Two-Weapon Fighting&quot;,&quot;languages&quot;:&quot;all (language mastery); telepathy 300 ft.&quot;,&quot;sq&quot;:&quot;amphibious, change shape (humanoid and serpentine; shapechange)&quot;}"></div>
+
+## Geryon (CR 29)
+
+**XP** 6,553,600  
+LE Huge outsider (aquatic, devil, evil, extraplanar, lawful)  
+**Init** +9; **Senses** darkvision 60 ft., *detect chaos, detect good*,
+scent, see in darkness, *true seeing*; Perception +47  
+**Aura** frightful presence (120 ft., DC 38), *shield of law* (DC 29)
+
+**Defense**
+
+**AC** 47, touch 32, flat-footed 42 (+4 deflection, +5 Dex,
++8 natural, +15 profane, +7 shield, –2 size)  
+**hp** 731 (34d10+544); regeneration 30 (deific or mythic)  
+**Fort** +31, **Ref** +28, **Will** +33; +8 vs. mind-affecting effects  
+**Defensive Abilities** all-around vision, envenomed scales,
+infernal resurrection, *mind blank*, threefold body; **DR** 20/
+epic, good, and silver; **Immune** ability damage, ability drain,
+charm, cold, compulsion, death effects, energy drain, fire,
+memory loss effects, petrification, poison; **Resist** acid 30; **SR** 40
+
+**Offense**
+
+**Speed** 50 ft., swim 50 ft., *air walk*  
+**Melee** *+5 cruel dispelling burst unholy flail* +47/+42/+37/+32
+(3d6+19/19–20), +1 heavy shield +43/+38 (2d6+15/19–20),
+3 claws +41 (1d6+7), 3 tail slaps +41 (2d6+7/19–20 plus poison)  
+**Space** 15 ft., **Reach** 15 ft.  
+**Special Attacks** casterbane, corrupting caress, perceive destiny  
+**Spell-Like Abilities** (CL 29th; concentration +40)  
+Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *true seeing*  
+At will—*astral projection, black tentacles*M, *desecrate*M, *dictum*M (DC 28), *greater dispel magic, greater teleport, mindwipe* (DC 25), *modify memory*M (DC 25), *order’s wrath*M (DC 25), *unhallow, wall of ice*  
+3/day—*feeblemind* (DC 26), *quickened mindwipe* (DC 25), *mislead, persistent image* (DC 26), *summon devils, vision*  
+1/day—*prediction of failure* (DC 29), *time stop*M, *wish*M  
+M Geryon can use this ability’s mythic version in its realm.
+
+**Statistics**
+
+**Str** 38, **Dex** 21, **Con** 42, **Int** 33, **Wis** 30, **Cha** 33  
+**Base Atk** +34; **CMB** +50 (+54 disarm, trip); **CMD** 84 (86 vs.
+disarm, can’t be tripped)  
+**Feats** [Blinding Critical](../../rules/feats/blinding-critical.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Critical Focus](../../rules/feats/critical-focus.md), [Double Slice](../../rules/feats/double-slice.md), [Greater Disarm](../../rules/feats/greater-disarm.md), [Greater Trip](../../rules/feats/greater-trip.md), [Improved Critical
+(flail](../../rules/feats/improved-critical.md), heavy shield, tail slap), [Improved Disarm](../../rules/feats/improved-disarm.md), Improved
+Initiative, [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Improved Trip](../../rules/feats/improved-trip.md), Improved
+Two-Weapon Fighting, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like
+Ability (*mindwipe*), [Spellbreaker](../../rules/feats/spellbreaker.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
+**Skills** Bluff +48, Diplomacy +48, Intimidate +48, Know. (arcana,
+dungeoneering, engineering, geography, history, local, nature,
+nobility, religion) +45, Know. (planes) +48, Linguistics +48,
+Perception +47, Sense Motive +47, Spellcraft +48, Swim +21  
+**Languages** all (language mastery); telepathy 300 ft.  
+**SQ** amphibious, change shape (humanoid and serpentine;
+*shapechange*)
+
+**Ecology**
+
+**Environment** any (Hell)  
+**Organization** solitary (unique)  
+**Treasure** triple (*+5 arrow deflection bashing heavy steel
+shield, +5 cruel dispelling burst unholy flail, Horn of Lies*,
+other treasure)
+
+**Special Abilities**
+
+**Casterbane (Ex)** Geryon’s foresight allows it to counterspell using *greater dispel magic* as an immediate action, with a +4 bonus to counter or dispel divine spells. It gains Spellbreaker as a bonus feat, and a spellcaster who fails a concentration check to cast defensively become flat-footed to Geryon until the end of its next turn.
+
+**Corrupting Caress (Su)** A creature damaged by Geryon’s natural attacks or melee weapons becomes unable to cast divine spells or activate domain powers, channel positive energy, or smite evil for 1 round (Will DC 38 negates). The duration stacks with multiple failed saves, but a creature that successfully saves cannot be further targeted by Geryon’s corrupting caress for 24 hours. This is a curse effect. The save DC is Charisma-based.
+
+**Envenomed Scales (Ex)** Creatures that strike Geryon with melee touch attacks, unarmed strikes, or natural attacks are exposed to its poison, as are creatures that confirm a critical hit on Geryon with a piercing or slashing weapon in melee.
+
+**Immune to Memory Loss (Ex)** Geryon is immune to the effects of the River Styx and to all effects that cause memory loss or manipulate memories.
+
+**Perceive Destiny (Su)** As an immediate action, Geryon can train its threefold gaze upon a creature to perceive its past, present, and future, granting Geryon a +4 insight bonus to its AC and on attack rolls, opposed skill checks, and Reflex saves against that creature and attacks or effects created by that creature until the end of its next turn. This affects creatures using *mind blank, nondetection*, or similar protection from divination only if Geryon succeeds at a caster level check (DC = 11 + the effect’s caster level + the mythic tier of the caster, for mythic effects).
+
+**Poison (Ex)** Tail slap—injury; *save* Fort DC 43; *frequency* 1/round for 6 rounds; *effect* 1d6 Int drain; *cure* 3 saves.
+
+**Threefold Body (Ex)** Geryon’s vital organs and senses are spread across all three of its linked bodies. An effect that would cause it to become blinded or deafened instead affects only one of its bodies, unless it affects an area or targets each body as a separate creature. If one body is blinded or deafened, Geryon suffers no ill effects. If two bodies are blinded or deafened, it loses its all-around vision and is dazzled. Geryon is blinded or deafened only if all three bodies are blinded or deafened. It likewise has a 75% chance to ignore critical hits, sneak attack damage, and similar precision-based damage.

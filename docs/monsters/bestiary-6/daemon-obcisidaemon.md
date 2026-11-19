@@ -1,0 +1,61 @@
+# Daemon, Obcisidaemon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Obcisidaemon&quot;,&quot;cr&quot;:&quot;19&quot;,&quot;xp&quot;:&quot;204,800&quot;,&quot;line&quot;:&quot;NE Gargantuan outsider (daemon, evil, extraplanar)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft., deathwatch, true seeing&quot;,&quot;ac&quot;:&quot;34, touch 14, flat-footed 30&quot;,&quot;hp&quot;:&quot;319 (22d10+198)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:26,&quot;Ref&quot;:15,&quot;Will&quot;:22},&quot;defense&quot;:&quot;DR 15/good and silver; Immune acid, death effects, disease, poison; Resist cold 30, electricity 30, fire 30; SR 30&quot;,&quot;aura&quot;:&quot;scorched earth (60 ft., DC 28), unholy aura (DC 25)&quot;,&quot;speed&quot;:&quot;30 ft., fly 60 ft. (average); space 20 ft.,, reach 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 unholy halberd&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28,23,18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d8&quot;,&quot;mod&quot;:13,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;plus inherit soul&quot;},{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;cloak of souls&quot;,&quot;rangedTouch&quot;:22,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:27,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;deathwatch&quot;,&quot;page&quot;:&quot;deathwatch&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;},{&quot;name&quot;:&quot;unholy aura&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;unholy-aura&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cloudkill&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;,&quot;note&quot;:&quot;self plus 50 lbs. of objects only&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened cloudkill&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;fire storm&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;fire-storm&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;20d6&quot;},{&quot;name&quot;:&quot;incendiary cloud&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;incendiary-cloud&quot;},{&quot;name&quot;:&quot;spell turning&quot;,&quot;page&quot;:&quot;spell-turning&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;mass hold person&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;hold-person-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;meteor swarm&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;meteor-swarm&quot;},{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 9, 1 purrodaemon 50%&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Cloak of Souls&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;An obcisidaemon is attended by the souls it has captured—a mass often resembling a tattered, ethereal cloak or a roiling cloud of dust at its feet. When an obcisidaemon successfully captures a soul with its inherit soul ability, the soul becomes a part of its cloak of souls, taking up one soul slot. An obcisidaemon has a number of soul slots equal to its Charisma modifier (7 for the typical obcisidaemon). Destroying the daemon frees any souls in its cloak, though this does not return the deceased creatures to life. Any attempt to resurrect a creature whose soul is trapped in a cloak of souls requires a DC 28 caster level check. Failure results in the spell having no effect, while success tears the victim’s soul free from the cloak and returns the creature to life as normal. If the daemon is in an unholy location, such as that created by an unhallow spell or on Abaddon, the DC of this caster level check increases by 2. Once a soul is consumed, only miracle or wish can restore the creature to life. As a swift action, an obcisidaemon can consume a soul from its cloak to achieve one of the following effects. • Increase the save DC of the next spell-like ability the obcisidaemon uses that round by 2. • Gain the benefit of a heal spell. • Grant a single weapon wielded by the obcisidaemon one of the following weapon abilities for 1 round: flaming burst, icy burst, shocking burst, or wounding.&quot;},{&quot;name&quot;:&quot;Inherit Soul&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Whenever an obcisidaemon kills a creature with a weapon it wields, that creature must immediately succeed at a DC 30 Fortitude save or be consumed by the daemon’s cloak of souls. This is a death effect. If the cloak cannot consume this soul without exceeding its number of soul slots, the daemon can release a soul as a free action in order to make room for the new soul; otherwise, the killed creature automatically succeeds at its save and its soul is not absorbed. The save DC is Constitution-based.&quot;},{&quot;name&quot;:&quot;Scorched Earth&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A creature that dies within 60 feet of an obcisidaemon and is not drawn into the daemon’s cloak of souls via its inherit soul ability must immediately succeed at a DC 28 Fortitude save or its body is utterly consumed in unholy fire equivalent to the effect of a destruction spell. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Warfare Mastery&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Although the typical obcisidaemon fights with a halberd, these daemons are proficient with all weapons. An obcisidaemon will sometimes eschew the typical +1 unholy halberd its kind favors for the favored weapon of the specific Horseman it serves.&quot;}],&quot;abilities&quot;:&quot;Str 26, Dex 19, Con 28, Int 13, Wis 21, Cha 24&quot;,&quot;combat&quot;:&quot;BAB +22; CMB +34 (+38 sunder); CMD 52 (54 vs. sunder)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:32,&quot;Fly&quot;:23,&quot;Intimidate&quot;:32,&quot;Knowledge (history)&quot;:15,&quot;Knowledge (planes)&quot;:15,&quot;Perception&quot;:30,&quot;Sense Motive&quot;:30,&quot;Spellcraft&quot;:26,&quot;CMB&quot;:34},&quot;feats&quot;:&quot;Bleeding Critical, Critical Focus, Greater Sunder, Greater Vital Strike, Improved Critical (halberd), Improved Sunder, Improved Vital Strike, Power Attack, Quicken Spell-Like Ability (cloudkill), Vital Strike, Weapon Focus (halberd)&quot;,&quot;languages&quot;:&quot;Abyssal, Draconic, Infernal; telepathy 100 ft.&quot;,&quot;sq&quot;:&quot;warfare mastery&quot;}"></div>
+
+## Obcisidaemon (CR 19)
+
+**XP** 204,800  
+NE Gargantuan outsider (daemon, evil, extraplanar)  
+**Init** +4; **Senses** darkvision 60 ft., *deathwatch, true seeing*;
+Perception +30  
+**Aura** scorched earth (60 ft., DC 28), *unholy aura* (DC 25)
+
+**Defense**
+
+**AC** 34, touch 14, flat-footed 30 (+4 deflection, +4 Dex, +20 natural,
+–4 size)  
+**hp** 319 (22d10+198)  
+**Fort** +26, **Ref** +15, **Will** +22  
+**DR** 15/good and silver; **Immune** acid, death effects, disease,
+poison; **Resist** cold 30, electricity 30, fire 30; **SR** 30
+
+**Offense**
+
+**Speed** 30 ft., fly 60 ft. (average)  
+**Melee** *+1 unholy halberd* +28/+23/+18/+13 (4d8+13/19–20/×3
+plus inherit soul), bite +21 (2d8+4)  
+**Space** 20 ft., **Reach** 20 ft.  
+**Special Attacks** cloak of souls  
+**Spell-Like Abilities** (CL 20th; concentration +27)  
+Constant—*deathwatch, true seeing, unholy aura* (DC 25)  
+At will—*cloudkill* (DC 22), *greater teleport* (self plus 50 lbs. of objects only)  
+3/day—*quickened cloudkill* (DC 22), *destruction* (DC 24), *fire storm* (DC 25), *incendiary cloud* (DC 25), *spell turning*  
+1/day—*mass hold person* (DC 24), *meteor swarm* (DC 26), *summon* (level 9, 1 purrodaemon 50%)
+
+**Statistics**
+
+**Str** 26, **Dex** 19, **Con** 28, **Int** 13, **Wis** 21, **Cha** 24  
+**Base Atk** +22; **CMB** +34 (+38 sunder); **CMD** 52 (54 vs. sunder)  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Critical Focus](../../rules/feats/critical-focus.md), [Greater Sunder](../../rules/feats/greater-sunder.md), Greater
+Vital Strike, [Improved Critical (halberd)](../../rules/feats/improved-critical.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability
+(*cloudkill*), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (halberd)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +32, Fly +23, Intimidate +32, Knowledge (history,
+planes) +15, Perception +30, Sense Motive +30, Spellcraft +26  
+**Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.  
+**SQ** warfare mastery
+
+**Ecology**
+
+**Environment** any (Abaddon)  
+**Organization** solitary, pair, or holocaust (3–6)  
+**Treasure** standard (*+1 unholy halberd*, other treasure)
+
+**Special Abilities**
+
+**Cloak of Souls (Su)** An obcisidaemon is attended by the souls it has captured—a mass often resembling a tattered, ethereal cloak or a roiling cloud of dust at its feet. When an obcisidaemon successfully captures a soul with its inherit soul ability, the soul becomes a part of its cloak of souls, taking up one soul slot. An obcisidaemon has a number of soul slots equal to its Charisma modifier (7 for the typical obcisidaemon). Destroying the daemon frees any souls in its cloak, though this does not return the deceased creatures to life. Any attempt to resurrect a creature whose soul is trapped in a cloak of souls requires a DC 28 caster level check. Failure results in the spell having no effect, while success tears the victim’s soul free from the cloak and returns the creature to life as normal. If the daemon is in an unholy location, such as that created by an *unhallow* spell or on Abaddon, the DC of this caster level check increases by 2. Once a soul is consumed, only *miracle* or *wish* can restore the creature to life. As a swift action, an obcisidaemon can consume a soul from its cloak to achieve one of the following effects. • Increase the save DC of the next spell-like ability the obcisidaemon uses that round by 2. • Gain the benefit of a heal spell. • Grant a single weapon wielded by the obcisidaemon one of the following weapon abilities for 1 round: *flaming burst, icy burst, shocking burst,* or *wounding.*
+
+**Inherit Soul (Su)** Whenever an obcisidaemon kills a creature with a weapon it wields, that creature must immediately succeed at a DC 30 Fortitude save or be consumed by the daemon’s cloak of souls. This is a death effect. If the cloak cannot consume this soul without exceeding its number of soul slots, the daemon can release a soul as a free action in order to make room for the new soul; otherwise, the killed creature automatically succeeds at its save and its soul is not absorbed. The save DC is Constitution-based.
+
+**Scorched Earth (Su)** A creature that dies within 60 feet of an obcisidaemon and is not drawn into the daemon’s cloak of souls via its inherit soul ability must immediately succeed at a DC 28 Fortitude save or its body is utterly consumed in unholy fire equivalent to the effect of a destruction spell. The save DC is Charisma-based.
+
+**Warfare Mastery (Ex)** Although the typical obcisidaemon fights with a halberd, these daemons are proficient with all weapons. An obcisidaemon will sometimes eschew the typical *+1 unholy halberd* its kind favors for the favored weapon of the specific Horseman it serves.

@@ -1,0 +1,42 @@
+# Demodand, Shaggy Demodand
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Shaggy Demodand&quot;,&quot;cr&quot;:&quot;18&quot;,&quot;xp&quot;:&quot;153,600&quot;,&quot;line&quot;:&quot;CE Medium outsider (chaotic, demodand, evil, extraplanar)&quot;,&quot;init&quot;:11,&quot;senses&quot;:&quot;blindsense 30 ft., darkvision 60 ft., detect good, detect magic, see invisibility&quot;,&quot;ac&quot;:&quot;32, touch 17, flat-footed 25&quot;,&quot;hp&quot;:&quot;262 (25d10+125)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:19,&quot;Ref&quot;:17,&quot;Will&quot;:18},&quot;saveNote&quot;:&quot;+4 vs. divine spells&quot;,&quot;defense&quot;:&quot;DR 15/good and magic; Immune acid, poison; Resist cold 10, fire 10; SR 29&quot;,&quot;speed&quot;:&quot;40 ft., fly 50 ft. (average)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 unholy morningstar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[36,31,26,21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:11,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[32],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claw&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[32],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:9,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:9,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;faith-stealing strike (DC 27)&quot;,&quot;rangedTouch&quot;:32,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:25,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;fear&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;gaseous form&quot;,&quot;page&quot;:&quot;gaseous-form&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;,&quot;note&quot;:&quot;self only&quot;},{&quot;name&quot;:&quot;magic circle against good&quot;,&quot;page&quot;:&quot;magic-circle-against-good&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;empowered cloudkill&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;fog cloud&quot;,&quot;page&quot;:&quot;fog-cloud&quot;},{&quot;name&quot;:&quot;quickened ray of enfeeblement&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;ray-of-enfeeblement&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;1d6+5&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;damage is the Strength penalty&quot;},{&quot;name&quot;:&quot;stinking cloud&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;stinking-cloud&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blasphemy&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;blasphemy&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;chaos hammer&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;chaos-hammer&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;mass charm monster&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;charm-monster-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 6, 1d6 tarry demodands or 1d4 slimy demodands 60%&quot;}]}]}],&quot;abilities&quot;:&quot;Str 29, Dex 24, Con 21, Int 19, Wis 18, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +25; CMB +34; CMD 51&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:35,&quot;Bluff&quot;:28,&quot;Diplomacy&quot;:28,&quot;Fly&quot;:35,&quot;Intimidate&quot;:42,&quot;Knowledge (arcana)&quot;:23,&quot;Knowledge (planes)&quot;:15,&quot;Knowledge (religion)&quot;:15,&quot;Perception&quot;:36,&quot;Sense Motive&quot;:36,&quot;Spellcraft&quot;:29,&quot;Use Magic Device&quot;:30,&quot;CMB&quot;:34},&quot;feats&quot;:&quot;Alertness, Cleave, Combat Casting, Combat Reflexes, Empower Spell-Like Ability (cloudkill), Flyby Attack, Great Cleave, Improved Initiative, Intimidating Prowess, Lightning Reflexes, Multiattack, Power Attack, Quicken Spell-Like Ability (ray of enfeeblement)&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Common&quot;,&quot;sq&quot;:&quot;heretical soul&quot;}"></div>
+
+## Shaggy Demodand (CR 18)
+
+**XP** 153,600  
+CE Medium outsider (chaotic, demodand, evil, extraplanar)  
+**Init** +11; **Senses** blindsense 30 ft., darkvision 60 ft., *detect good*, *detect magic*, *see invisibility*; Perception +36
+
+**Defense**
+
+**AC** 32, touch 17, flat-footed 25 (+7 Dex, +15 natural)  
+**hp** 262 (25d10+125)  
+**Fort** +19, **Ref** +17, **Will** +18; +4 vs. divine spells  
+**DR** 15/good and magic; **Immune** acid, poison; **Resist** cold 10, fire 10; **SR** 29
+
+**Offense**
+
+**Speed** 40 ft., fly 50 ft. (average)  
+**Melee** *+2 unholy morningstar* +36/+31/+26/+21 (1d8+11), bite +32 (2d6+4), claw +32 (1d6+4) or bite +34 (2d6+9), 2 claws +34 (1d6+9)  
+**Special Attacks** faith-stealing strike (DC 27)  
+**Spell-Like Abilities** (CL 20th; concentration +25)  
+Constant—*detect good*, *detect magic*, *see invisibility*  
+At will—*detect thoughts* (DC 17), *fear* (DC 19), *gaseous form*, *greater dispel magic*, *invisibility* (self only), *magic circle against good*  
+3/day—empowered *cloudkill* (DC 20), *fog cloud*, quickened *ray of enfeeblement* (DC 16), *stinking cloud* (DC 18)  
+1/day—*blasphemy* (DC 22), *chaos hammer* (DC 19), *mass charm monster* (DC 23), summon (level 6, 1d6 tarry demodands or 1d4 slimy demodands 60%)
+
+**Statistics**
+
+**Str** 29, **Dex** 24, **Con** 21, **Int** 19, **Wis** 18, **Cha** 20  
+**Base Atk** +25; **CMB** +34; **CMD** 51  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), Empower Spell-Like Ability (*cloudkill*), Flyby Attack, [Great Cleave](../../rules/feats/great-cleave.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*ray of enfeeblement*)  
+**Skills** Acrobatics +35 (+39 when jumping), Bluff +28, Diplomacy +28, Fly +35, Intimidate +42, Knowledge (arcana) +23, Knowledge (planes) +15, Knowledge (religion) +15, Perception +36, Sense Motive +36, Spellcraft +29, Use Magic Device +30  
+**Languages** Abyssal, Celestial, Common  
+**SQ** heretical soul
+
+**Ecology**
+
+**Environment** any (Abyss)  
+**Organization** solitary or warband (1 shaggy demodand plus 2–5 tarry demodands)  
+**Treasure** double (*+2 unholy morningstar*, other treasure)

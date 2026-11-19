@@ -20,6 +20,12 @@ Rules for understanding, building, and advancing monsters. Stat blocks are in th
 
 | Source | Page |
 |---|---|
+| Bestiary | [Bestiary](bestiary-1/index.md): every creature, with a Roll20 export |
+| Bestiary 2 | [Bestiary 2](bestiary-2/index.md): every creature, with a Roll20 export |
+| Bestiary 3 | [Bestiary 3](bestiary-3/index.md): every creature, with a Roll20 export |
+| Bestiary 4 | [Bestiary 4](bestiary-4/index.md): every creature, with a Roll20 export |
+| Bestiary 5 | [Bestiary 5](bestiary-5/index.md): every creature, with a Roll20 export |
+| Bestiary 6 | [Bestiary 6](bestiary-6/index.md): every creature, with a Roll20 export |
 | NPC Codex | [NPC Codex](npc-codex/index.md): 310 ready-made NPCs by class and level, with a Roll20 export |
 | GameMastery Guide | [GameMastery Guide NPCs](gamemastery-guide-npcs/index.md): 81 NPCs, from bandits to cultists, with a Roll20 export |
 | Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |

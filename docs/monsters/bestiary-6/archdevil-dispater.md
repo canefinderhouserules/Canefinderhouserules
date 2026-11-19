@@ -1,0 +1,67 @@
+# Archdevil, Dispater
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dispater&quot;,&quot;cr&quot;:&quot;27&quot;,&quot;xp&quot;:&quot;3,276,800&quot;,&quot;line&quot;:&quot;LE Large outsider (devil, evil, extraplanar, lawful, shapechanger)&quot;,&quot;init&quot;:13,&quot;senses&quot;:&quot;darkvision 60 ft., detect chaos, detect good, see in darkness, true seeing&quot;,&quot;ac&quot;:&quot;45, touch 35, flat-footed 35&quot;,&quot;hp&quot;:&quot;643 (33d10+462); regeneration 30 (deific or mythic)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:29,&quot;Ref&quot;:31,&quot;Will&quot;:34},&quot;saveNote&quot;:&quot;+8 vs. mind-affecting effects&quot;,&quot;defense&quot;:&quot;infernal resurrection, mind blank; DR 20/epic, good, and silver; Immune ability damage, ability drain, charm, compulsion, death effects, energy drain, fire, petrification, poison; Resist acid 30, cold 30; SR 38&quot;,&quot;aura&quot;:&quot;frightful presence (120 ft., DC 37), shield of law (DC 29)&quot;,&quot;speed&quot;:&quot;50 ft., fly 60 ft. (good); space 10 ft.,, reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;The Eclipsing Eye&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[49,44,39,34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:22,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[39],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;caustic wit, mortal gaze, sneak attack +6d6&quot;,&quot;rangedTouch&quot;:41,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:27,&quot;concentration&quot;:38,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect chaos&quot;,&quot;page&quot;:&quot;detect-chaos&quot;},{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;},{&quot;name&quot;:&quot;fly&quot;,&quot;page&quot;:&quot;fly&quot;},{&quot;name&quot;:&quot;mind blank&quot;,&quot;page&quot;:&quot;mind-blank&quot;},{&quot;name&quot;:&quot;shield of law&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;shield-of-law&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;astral projection&quot;,&quot;page&quot;:&quot;astral-projection&quot;},{&quot;name&quot;:&quot;charm monster&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;charm-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;desecrateM&quot;},{&quot;name&quot;:&quot;dictumM&quot;,&quot;dc&quot;:28},{&quot;name&quot;:&quot;dominate person&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;dominate-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;},{&quot;name&quot;:&quot;iron body&quot;,&quot;page&quot;:&quot;iron-body&quot;},{&quot;name&quot;:&quot;order’s wrathM&quot;,&quot;dc&quot;:25},{&quot;name&quot;:&quot;unhallow&quot;,&quot;page&quot;:&quot;unhallow&quot;},{&quot;name&quot;:&quot;wall of iron&quot;,&quot;page&quot;:&quot;wall-of-iron&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened blade barrierM&quot;,&quot;dc&quot;:27},{&quot;name&quot;:&quot;forcecage&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;forcecage&quot;,&quot;save&quot;:&quot;Reflex negates&quot;},{&quot;name&quot;:&quot;geas/quest&quot;,&quot;page&quot;:&quot;geas-quest&quot;},{&quot;name&quot;:&quot;summon devils&quot;},{&quot;name&quot;:&quot;symbol of pain&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;symbol-of-pain&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;imprisonment&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;imprisonment&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;time stopM&quot;},{&quot;name&quot;:&quot;wishM&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Caustic Wit&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Dispater is a master of urbane insults and flippant dismissals. He can attempt a Bluff check once per round as a free action in place of an Intimidate check to demoralize a foe within 30 feet. In addition to becoming shaken, a creature demoralized by Dispater is so filled with shame and self-loathing that it takes 1d4 points of Charisma damage and becomes dazed. This additional effect can be negated with a successful DC 37 Will save. The insulted creature can attempt a new save each round at the beginning of its turn as a free action to end the effect, but any Charisma damage sustained remains until it is healed. This is a mind-affecting effect. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Lord of Iron&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Rust effects (such as rusting grasp) do not function within 60 feet of Dispater unless he allows them to function. Dispater can command unintelligent iron cobras, iron golems, and any other construct made entirely out of iron as if he were the construct’s creator.&quot;},{&quot;name&quot;:&quot;Mortal Gaze&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Dispater can level his gaze upon any one creature within 60 feet as a free action once per round. The creature he gazes upon gains 2 negative levels. Each of these negative levels requires a successful DC 37 Fortitude save to remove after 24 hours or it becomes permanent. Creatures slain by Dispater’s mortal gaze rise again 1d4 rounds later as zombie lords (Pathfinder RPG Bestiary 4 286) under Dispater’s control. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Voice of Command&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The saving throw DCs of Dispater’s charm monster and dominate person spell-like abilities include a +2 bonus; this is included in the statistics above. Creatures do not gain the usual +5 bonus on saves against charm monster if they are currently being threatened or attacked by Dispater or his allies. If Dispater commands a humanoid controlled via dominate person to take an action against its nature, the creature does not gain a new saving throw to resist the effect unless the order is self-destructive, in which case the creature gains a new save with a +2 bonus to resist the command.&quot;}],&quot;abilities&quot;:&quot;Str 34, Dex 29, Con 38, Int 33, Wis 30, Cha 33&quot;,&quot;combat&quot;:&quot;BAB +33; CMB +46; CMD 82&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:42,&quot;Bluff&quot;:47,&quot;Diplomacy&quot;:47,&quot;Fly&quot;:60,&quot;Intimidate&quot;:47,&quot;Know. (arcana, engineering, history, nobility, religion)&quot;:44,&quot;Know. (planes)&quot;:47,&quot;Linguistics&quot;:44,&quot;Perception&quot;:46,&quot;Sense Motive&quot;:46,&quot;Spellcraft&quot;:44,&quot;Stealth&quot;:41,&quot;Use Magic Device&quot;:44,&quot;CMB&quot;:46},&quot;feats&quot;:&quot;Combat Expertise, Combat Reflexes, Critical Focus, Dazzling Display, Dodge, Greater Feint, Improved Critical (heavy mace), Improved Feint, Improved Initiative, Improved Iron Will, Iron Will, Mobility, Power Attack, Quicken Spell-Like Ability (blade barrier), Shatter Defenses, Staggering Critical, Weapon Focus (heavy mace)&quot;,&quot;languages&quot;:&quot;all (language mastery); telepathy 300 ft.&quot;,&quot;sq&quot;:&quot;change shape (any humanoid; alter self), lord of iron, voice of command&quot;}"></div>
+
+## Dispater (CR 27)
+
+**XP** 3,276,800  
+LE Large outsider (devil, evil, extraplanar, lawful, shapechanger)  
+**Init** +13; **Senses** darkvision 60 ft., *detect chaos, detect good*,
+see in darkness, *true seeing*; Perception +46  
+**Aura** frightful presence (120 ft., DC 37), *shield of law* (DC 29)
+
+**Defense**
+
+**AC** 45, touch 35, flat-footed 35 (+4 deflection, +9 Dex, +1 dodge,
++10 natural, +12 profane, –1 size)  
+**hp** 643 (33d10+462); regeneration 30 (deific or mythic)  
+**Fort** +29, **Ref** +31, **Will** +34; +8 vs. mind-affecting effects  
+**Defensive Abilities** infernal resurrection, *mind blank*; **DR** 20/epic, good, and silver; **Immune** ability damage, ability
+drain, charm, compulsion, death effects, energy drain, fire,
+petrification, poison; **Resist** acid 30, cold 30; **SR** 38
+
+**Offense**
+
+**Speed** 50 ft., fly 60 ft. (good)  
+**Melee** *The Eclipsing Eye* +49/+44/+39/+34 (2d6+22/19–20/×3),
+gore +39 (2d6+6)  
+**Space** 10 ft., **Reach** 10 ft.  
+**Special Attacks** caustic wit, mortal gaze, sneak attack +6d6  
+**Spell-Like Abilities** (CL 27th; concentration +38)  
+Constant—*detect chaos, detect good, fly, mind blank, shield of law* (DC 29), *true seeing*  
+At will—*astral projection, charm monster* (DC 27), *desecrate*M, *dictum*M (DC 28), *dominate person* (DC 28), *greater dispel magic, greater teleport, iron body, order’s wrath*M (DC 25), *unhallow, wall of iron*  
+3/day—*quickened blade barrier*M (DC 27), *forcecage* (DC 28), *geas/quest, summon devils, symbol of pain* (DC 27)  
+1/day—*imprisonment* (DC 30), *time stop*M, *wish*M  
+M Dispater can use this ability’s mythic version in his realm.
+
+**Statistics**
+
+**Str** 34, **Dex** 29, **Con** 38, **Int** 33, **Wis** 30, **Cha** 33  
+**Base Atk** +33; **CMB** +46; **CMD** 82  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Dodge](../../rules/feats/dodge.md), [Greater Feint](../../rules/feats/greater-feint.md), [Improved Critical
+(heavy mace)](../../rules/feats/improved-critical.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved
+Iron Will, [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like
+Ability (*blade barrier*), [Shatter Defenses](../../rules/feats/shatter-defenses.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Weapon Focus (heavy mace)](../../rules/feats/weapon-focus.md)  
+**Skills** Acrobatics +42, Bluff +47, Diplomacy +47, Fly +60, Intimidate
++47, Know. (arcana, engineering, history, nobility, religion) +44,
+Know. (planes) +47, Linguistics +44, Perception +46, Sense
+Motive +46, Spellcraft +44, Stealth +41, Use Magic Device +44  
+**Languages** all (language mastery); telepathy 300 ft.  
+**SQ** change shape (any humanoid; *alter self*), lord of iron, voice
+of command
+
+**Ecology**
+
+**Environment** any (Hell)  
+**Organization** solitary (unique)  
+**Treasure** triple (*The Eclipsing Eye*, other treasure)
+
+**Special Abilities**
+
+**Caustic Wit (Su)** Dispater is a master of urbane insults and flippant dismissals. He can attempt a Bluff check once per round as a free action in place of an Intimidate check to demoralize a foe within 30 feet. In addition to becoming shaken, a creature demoralized by Dispater is so filled with shame and self-loathing that it takes 1d4 points of Charisma damage and becomes dazed. This additional effect can be negated with a successful DC 37 Will save. The insulted creature can attempt a new save each round at the beginning of its turn as a free action to end the effect, but any Charisma damage sustained remains until it is healed. This is a mind-affecting effect. The save DC is Charisma-based.
+
+**Lord of Iron (Ex)** Rust effects (such as *rusting grasp*) do not function within 60 feet of Dispater unless he allows them to function. Dispater can command unintelligent iron cobras, iron golems, and any other construct made entirely out of iron as if he were the construct’s creator.
+
+**Mortal Gaze (Su)** Dispater can level his gaze upon any one creature within 60 feet as a free action once per round. The creature he gazes upon gains 2 negative levels. Each of these negative levels requires a successful DC 37 Fortitude save to remove after 24 hours or it becomes permanent. Creatures slain by Dispater’s mortal gaze rise again 1d4 rounds later as zombie lords (*Pathfinder RPG Bestiary 4* 286) under Dispater’s control. The save DC is Charisma-based.
+
+**Voice of Command (Su)** The saving throw DCs of Dispater’s *charm monster* and *dominate person* spell-like abilities include a +2 bonus; this is included in the statistics above. Creatures do not gain the usual +5 bonus on saves against *charm monster* if they are currently being threatened or attacked by Dispater or his allies. If Dispater commands a humanoid controlled via *dominate person* to take an action against its nature, the creature does not gain a new saving throw to resist the effect unless the order is self-destructive, in which case the creature gains a new save with a +2 bonus to resist the command.

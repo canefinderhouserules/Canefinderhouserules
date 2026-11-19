@@ -1,0 +1,47 @@
+# Lich
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Lich&quot;,&quot;cr&quot;:&quot;12&quot;,&quot;xp&quot;:&quot;19,200&quot;,&quot;line&quot;:&quot;Human lich necromancer 11, NE Medium undead (augmented humanoid)&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 60 ft., life sight&quot;,&quot;ac&quot;:&quot;23, touch 14, flat-footed 21&quot;,&quot;hp&quot;:&quot;111 (11d6+55 plus 15 false life)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:7,&quot;Will&quot;:11},&quot;defense&quot;:&quot;channel resistance +4; DR 15/bludgeoning and magic; Immune cold, electricity, undead traits&quot;,&quot;aura&quot;:&quot;fear (60-ft. radius, DC 18)&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;touch&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus paralyzing touch&quot;}]],&quot;specialAttacks&quot;:&quot;grave touch (9/day), paralyzing touch (DC 18), power over undead (9/day, DC 18)&quot;,&quot;rangedTouch&quot;:7,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spells Prepared&quot;,&quot;cl&quot;:11,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;circle of death&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;circle-of-death&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;globe of invulnerability&quot;,&quot;page&quot;:&quot;globe-of-invulnerability&quot;},{&quot;name&quot;:&quot;maximized fireball&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;60&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cloudkill&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;cone of cold&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;cone-of-cold&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;11d6&quot;},{&quot;name&quot;:&quot;quickened magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;},{&quot;name&quot;:&quot;waves of fatigue&quot;,&quot;page&quot;:&quot;waves-of-fatigue&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;enervation&quot;,&quot;page&quot;:&quot;enervation&quot;},{&quot;name&quot;:&quot;fire shield&quot;,&quot;page&quot;:&quot;fire-shield&quot;},{&quot;name&quot;:&quot;wall of ice&quot;,&quot;page&quot;:&quot;wall-of-ice&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;fireball&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;suggestion&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;suggestion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;vampiric touch&quot;,&quot;page&quot;:&quot;vampiric-touch&quot;,&quot;damage&quot;:&quot;5d6&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;darkness&quot;,&quot;page&quot;:&quot;darkness&quot;},{&quot;name&quot;:&quot;extended mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;,&quot;note&quot;:&quot;already cast&quot;},{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;,&quot;note&quot;:&quot;already cast&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:3,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;},{&quot;name&quot;:&quot;spectral hand&quot;,&quot;page&quot;:&quot;spectral-hand&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;,&quot;note&quot;:&quot;prepared 3 times&quot;},{&quot;name&quot;:&quot;ray of enfeeblement&quot;,&quot;page&quot;:&quot;ray-of-enfeeblement&quot;,&quot;damage&quot;:&quot;1d6+5&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;damage is the Strength penalty&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;}]},{&quot;label&quot;:&quot;0&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 10, Dex 14, Con —, Int 22, Wis 14, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +5; CMD 25&quot;,&quot;checks&quot;:{&quot;Craft (alchemy)&quot;:20,&quot;Intimidate&quot;:17,&quot;Knowledge (arcana)&quot;:20,&quot;Knowledge (planes)&quot;:20,&quot;Linguistics&quot;:20,&quot;Perception&quot;:24,&quot;Sense Motive&quot;:24,&quot;Spellcraft&quot;:20,&quot;Stealth&quot;:24,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Craft Wondrous Item, Defensive Combat Training, Extend Spell, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Toughness&quot;,&quot;languages&quot;:&quot;Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc, Undercommon&quot;}"></div>
+
+## Lich (CR 12)
+
+**XP** 19,200  
+Human lich necromancer 11  
+NE Medium undead (augmented humanoid)  
+**Init** +2; **Senses** darkvision 60 ft., life sight; Perception +24  
+**Aura** fear (60-ft. radius, DC 18)
+
+**Defense**
+
+**AC** 23, touch 14, flat-footed 21 (+4 armor, +2 deflection, +2 Dex, +5 natural)  
+**hp** 111 (11d6+55 plus 15 false life)  
+**Fort** +6, **Ref** +7, **Will** +11  
+**Defensive Abilities** channel resistance +4; **DR** 15/bludgeoning and magic; **Immune** cold, electricity, undead traits
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** touch +5 (1d8+5 plus paralyzing touch)  
+**Special Attacks** grave touch (9/day), paralyzing touch (DC 18), power over undead (9/day, DC 18)  
+**Spells Prepared** (CL 11th)  
+6th—*circle of death* (DC 22), *globe of invulnerability*, maximized *fireball* (DC 19)  
+5th—*cloudkill* (DC 21), *cone of cold* (DC 21), quickened *magic missile*, *waves of fatigue*  
+4th—*dimension door*, *enervation*, *fire shield*, *wall of ice* (2)  
+3rd—*dispel magic* (2), *fireball* (DC 19), *suggestion* (DC 19), *vampiric touch* (2)  
+2nd—*darkness*, extended *mage armor* (already cast), *false life* (already cast), *scorching ray* (2), *see invisibility*, *spectral hand*  
+1st—*magic missile* (3), *ray of enfeeblement* (2), *shield* (2)  
+0—*bleed* (DC 16), *detect magic*, *ray of frost*, *read magic*  
+**Opposition Schools** illusion, transmutation
+
+**Statistics**
+
+**Str** 10, **Dex** 14, **Con** —, **Int** 22, **Wis** 14, **Cha** 16  
+**Base Atk** +5; **CMB** +5; **CMD** 25  
+**Feats** [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), [Extend Spell](../../rules/feats/extend-spell.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Maximize Spell](../../rules/feats/maximize-spell.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Toughness](../../rules/feats/toughness.md)  
+**Skills** Craft (alchemy) +20, Intimidate +17, Knowledge (arcana) +20, Knowledge (planes) +20, Linguistics +20, Perception +24, Sense Motive +24, Spellcraft +20, Stealth +24; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth  
+**Languages** Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc, Undercommon
+
+**Ecology**
+
+**Environment** any  
+**Organization** solitary  
+**Treasure** NPC gear (*boots of levitation*, *headband of vast intelligence +2* [Perception], *ring of protection +2*, *potion of invisibility*, *scroll of dominate person*, *scroll of teleport*)

@@ -1,0 +1,52 @@
+# Dragon (Primal, Crystal), Ancient Crystal Dragon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ancient Crystal Dragon&quot;,&quot;cr&quot;:&quot;15&quot;,&quot;xp&quot;:&quot;51,200&quot;,&quot;line&quot;:&quot;CG Huge dragon (earth, extraplanar)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;dragon senses, tremorsense 120 ft.&quot;,&quot;ac&quot;:&quot;37, touch 8, flat-footed 37&quot;,&quot;hp&quot;:&quot;283 (21d12+147)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:21,&quot;Ref&quot;:14,&quot;Will&quot;:17},&quot;defense&quot;:&quot;ray reflection; DR 15/magic; Immune paralysis, sleep, sonic; SR 26&quot;,&quot;aura&quot;:&quot;frightful presence (300 ft., DC 28)&quot;,&quot;speed&quot;:&quot;60 ft., burrow 30 ft., climb 30 ft., fly 200 ft. (poor); space 10 ft.,, reach 5 ft. (10 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[30],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:15,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[29],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:10,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[27],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[27],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath weapon (50-ft. cone, DC 27, 20d4 sonic, DC 27), crush&quot;,&quot;rangedTouch&quot;:19,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:21,&quot;concentration&quot;:29,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;color spray&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;color-spray&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;rainbow pattern&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;rainbow-pattern&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;prismatic spray&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;prismatic-spray&quot;},{&quot;name&quot;:&quot;stone to flesh&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;stone-to-flesh&quot;,&quot;save&quot;:&quot;Fortitude negates (object)&quot;}]}]},{&quot;title&quot;:&quot;Spells Known&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;phantasmal killer&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;phantasmal-killer&quot;,&quot;save&quot;:&quot;Will disbelief, then Fortitude partial&quot;}]},{&quot;label&quot;:&quot;3rd (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;displacement&quot;,&quot;page&quot;:&quot;displacement&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;9d6&quot;},{&quot;name&quot;:&quot;major image&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;major-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;2nd (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;minor image&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;minor-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;mirror image&quot;,&quot;page&quot;:&quot;mirror-image&quot;}]},{&quot;label&quot;:&quot;1st (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alarm&quot;,&quot;page&quot;:&quot;alarm&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;magic aura&quot;,&quot;page&quot;:&quot;magic-aura&quot;},{&quot;name&quot;:&quot;silent image&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;silent-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid splash&quot;,&quot;page&quot;:&quot;acid-splash&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;page&quot;:&quot;ghost-sound&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;touch of fatigue&quot;,&quot;page&quot;:&quot;touch-of-fatigue&quot;}]}]}],&quot;abilities&quot;:&quot;Str 31, Dex 10, Con 25, Int 20, Wis 21, Cha 26&quot;,&quot;combat&quot;:&quot;BAB +21; CMB +33; CMD 43 (47 vs. trip)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:36,&quot;Climb&quot;:42,&quot;Disguise&quot;:33,&quot;Fly&quot;:16,&quot;Intimidate&quot;:32,&quot;Knowledge (dungeoneering)&quot;:29,&quot;Knowledge (geography)&quot;:29,&quot;Perception&quot;:29,&quot;Sense Motive&quot;:29,&quot;Stealth&quot;:16,&quot;Survival&quot;:29,&quot;CMB&quot;:33},&quot;feats&quot;:&quot;Deceitful, Great Fortitude, Greater Vital Strike, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Weapon Focus (bite)&quot;,&quot;languages&quot;:&quot;Common, Draconic, Dwarven, Elven, Terran, Undercommon&quot;,&quot;sq&quot;:&quot;razor sharp&quot;}"></div>
+
+## Ancient Crystal Dragon (CR 15)
+
+**XP** 51,200  
+CG Huge dragon (earth, extraplanar)  
+**Init** +4; **Senses** dragon senses, tremorsense 120 ft.; Perception +29  
+**Aura** frightful presence (300 ft., DC 28)
+
+**Defense**
+
+**AC** 37, touch 8, flat-footed 37 (+29 natural, –2 size)  
+**hp** 283 (21d12+147)  
+**Fort** +21, **Ref** +14, **Will** +17  
+**Defensive Abilities** ray reflection; **DR** 15/magic; **Immune** paralysis, sleep, sonic; **SR** 26
+
+**Offense**
+
+**Speed** 60 ft., burrow 30 ft., climb 30 ft., fly 200 ft. (poor)  
+**Melee** bite +30 (2d8+15/19–20), 2 claws +29 (2d6+10), tail slap +27 (2d6+15), 2 wings +27 (1d8+5)  
+**Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
+**Special Attacks** breath weapon (50-ft. cone, DC 27, 20d4 sonic, DC 27), crush  
+**Spell-Like Abilities** (CL 21st; concentration +29)  
+At will—*color spray* (DC 19), *glitterdust* (DC 20), *rainbow pattern* (DC 22)  
+3/day—*prismatic spray* (DC 25), *stone to flesh* (DC 24)  
+**Spells Known** (CL 9th; concentration +17)  
+4th (6/day)—*dimension door*, *phantasmal killer* (DC 22)  
+3rd (8/day)—*displacement*, *lightning bolt* (DC 21), *major image* (DC 21)  
+2nd (8/day)—*blindness/deafness* (DC 20), *invisibility*, *minor image* (DC 20), *mirror image*  
+1st (8/day)—*alarm*, *feather fall*, *magic aura*, *silent image* (DC 19), *unseen servant*  
+0 (at will)—*acid splash*, *detect magic*, *detect poison*, *ghost sound*, *mage hand*, *message*, *read magic*, *touch of fatigue*
+
+**Statistics**
+
+**Str** 31, **Dex** 10, **Con** 25, **Int** 20, **Wis** 21, **Cha** 26  
+**Base Atk** +21; **CMB** +33; **CMD** 43 (47 vs. trip)  
+**Feats** [Deceitful](../../rules/feats/deceitful.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Vital Strike](../../rules/feats/greater-vital-strike.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+**Skills** Bluff +36, Climb +42, Disguise +33, Fly +16, Intimidate +32, Knowledge (dungeoneering, geography) +29, Perception +29, Sense Motive +29, Stealth +16, Survival +29  
+**Languages** Common, Draconic, Dwarven, Elven, Terran, Undercommon  
+**SQ** razor sharp
+
+**Ecology**
+
+**Environment** any underground (Plane of Earth)  
+**Organization** solitary  
+**Treasure** triple
+
+Crystal dragons are generally good-natured, though their incredible vanity sometimes causes them to seem aloof and cocky. Any perceived insult against its appearance is all but assured to send a crystal dragon into a rage—which is a problem, as most crystal dragons are prone to seeing insults even where none are intended. Crystal dragons prefer underground lairs, and often go for decades or even centuries without emerging from their extensive cavern lairs onto the surface world above.
+
+Crystal dragons tend to be exacting and even obsessive-compulsive, their personalities mirroring the precise and ordered nature of the facets of their scales. A crystal dragon’s lair is a well-ordered place—these dragons find the very idea of the classic sprawl of a dragon’s hoard to be shameful.

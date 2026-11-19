@@ -1,0 +1,51 @@
+# Dragon (Planar, Paradise), Ancient Paradise Dragon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ancient Paradise Dragon&quot;,&quot;cr&quot;:&quot;21&quot;,&quot;xp&quot;:&quot;409,600&quot;,&quot;line&quot;:&quot;LG Gargantuan dragon (extraplanar, good, lawful)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;dragon senses&quot;,&quot;ac&quot;:&quot;40, touch 5, flat-footed 40&quot;,&quot;hp&quot;:&quot;434 (28d12+252)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:25,&quot;Ref&quot;:15,&quot;Will&quot;:23},&quot;defense&quot;:&quot;DR 15/evil; Immune force effects, paralysis, petrification, poison, sleep; SR 32&quot;,&quot;aura&quot;:&quot;frightful presence (300 ft., DC 31)&quot;,&quot;speed&quot;:&quot;60 ft., fly 250 ft. (poor); space 20 ft.,, reach 15 ft. (20 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[39],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:21,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[39],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:14,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[36],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:21,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[36],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;banishing breath, breath weapon (120-ft. line, 20d8 force damage, Reflex DC 33 half), crush, rebuking breath, seeking breath, tail sweep&quot;,&quot;rangedTouch&quot;:23,&quot;spells&quot;:[{&quot;title&quot;:&quot;Oracle Spells Known&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:22,&quot;levels&quot;:[{&quot;label&quot;:&quot;7th (5)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;circle of clarity&quot;,&quot;page&quot;:&quot;circle-of-clarity&quot;},{&quot;name&quot;:&quot;holy word&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;holy-word&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;6th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;forbiddance&quot;,&quot;page&quot;:&quot;forbiddance&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;page&quot;:&quot;heal&quot;},{&quot;name&quot;:&quot;wind walk&quot;,&quot;page&quot;:&quot;wind-walk&quot;}]},{&quot;label&quot;:&quot;5th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;atonement&quot;,&quot;page&quot;:&quot;atonement&quot;},{&quot;name&quot;:&quot;dispel evil&quot;,&quot;page&quot;:&quot;dispel-evil&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;mark of justice&quot;,&quot;page&quot;:&quot;mark-of-justice&quot;}]},{&quot;label&quot;:&quot;4th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;holy smite&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;holy-smite&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;restoration&quot;,&quot;page&quot;:&quot;restoration&quot;}]},{&quot;label&quot;:&quot;3rd (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;daylight&quot;,&quot;page&quot;:&quot;daylight&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true}]},{&quot;label&quot;:&quot;2nd (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;aid&quot;,&quot;page&quot;:&quot;aid&quot;},{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;lesser restoration&quot;,&quot;page&quot;:&quot;restoration-lesser&quot;},{&quot;name&quot;:&quot;make whole&quot;,&quot;page&quot;:&quot;make-whole&quot;},{&quot;name&quot;:&quot;shield other&quot;,&quot;page&quot;:&quot;shield-other&quot;}]},{&quot;label&quot;:&quot;1st (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;page&quot;:&quot;remove-fear&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;page&quot;:&quot;purify-food-and-drink&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;},{&quot;name&quot;:&quot;virtue&quot;,&quot;page&quot;:&quot;virtue&quot;}]}]}],&quot;abilities&quot;:&quot;Str 39, Dex 8, Con 29, Int 24, Wis 25, Cha 24&quot;,&quot;combat&quot;:&quot;BAB +28; CMB +46; CMD 55 (59 vs. trip)&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:42,&quot;Fly&quot;:20,&quot;Heal&quot;:38,&quot;Intimidate&quot;:42,&quot;Knowledge (arcana)&quot;:38,&quot;Knowledge (history)&quot;:38,&quot;Knowledge (nobility)&quot;:38,&quot;Knowledge (planes)&quot;:38,&quot;Knowledge (religion)&quot;:38,&quot;Perception&quot;:42,&quot;Sense Motive&quot;:42,&quot;Spellcraft&quot;:38,&quot;Survival&quot;:38,&quot;CMB&quot;:46},&quot;feats&quot;:&quot;Alertness, Blinding Critical, Critical Focus, Extend Spell, Hover, Improved Critical (bite, claw), Improved Initiative, Multiattack, Persuasive, Power Attack, Quicken Spell, Weapon Focus (bite, claw)&quot;,&quot;languages&quot;:&quot;Celestial, Common, Draconic&quot;,&quot;sq&quot;:&quot;graceful flight, heavenly aid, planar infusion (300 ft.), sacred space&quot;}"></div>
+
+## Ancient Paradise Dragon (CR 21)
+
+**XP** 409,600  
+LG Gargantuan dragon (extraplanar, good, lawful)  
+**Init** +3; **Senses** dragon senses; Perception +42  
+**Aura** frightful presence (300 ft., DC 31)
+
+**Defense**
+
+**AC** 40, touch 5, flat-footed 40 (–1 Dex, +35 natural, –4 size)  
+**hp** 434 (28d12+252)  
+**Fort** +25, **Ref** +15, **Will** +23  
+**DR** 15/evil; **Immune** force effects, paralysis,
+petrification, poison, sleep; **SR** 32
+
+**Offense**
+
+**Speed** 60 ft., fly 250 ft. (poor)  
+**Melee** bite +39 (4d6+21/19–20), 2 claws +39
+(2d8+14/19–20), tail slap +36 (2d8+21), 2 wings
++36 (2d6+7)  
+**Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
+**Special Attacks** banishing breath, breath weapon (120-ft. line,
+20d8 force damage, Reflex DC 33 half), crush, rebuking
+breath, seeking breath, tail sweep  
+**Oracle Spells Known** (CL 15th; concentration +22)  
+7th (5)—*circle of clarity, holy word* (DC 24)  
+6th (7)—*forbiddance, heal, wind walk*  
+5th (7)—*atonement, dispel evil, flame strike* (DC 22), *mark of justice*  
+4th (7)—*dismissal* (DC 21), *divine power, holy smite* (DC 21), *restoration*  
+3rd (8)—*cure serious wounds, daylight, dispel magic, searing light*  
+2nd (8)—*aid, cure moderate wounds, lesser restoration, make whole, shield other*  
+1st (8)—*bless, cure light wounds, divine favor, remove fear, shield of faith*  
+0 (at will)—*create water, detect magic, detect poison, guidance, light, mending, purify food and drink, stabilize, virtue*
+
+**Statistics**
+
+**Str** 39, **Dex** 8, **Con** 29, **Int** 24, **Wis** 25, **Cha** 24  
+**Base Atk** +28; **CMB** +46; **CMD** 55 (59 vs. trip)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Blinding Critical](../../rules/feats/blinding-critical.md), [Critical Focus](../../rules/feats/critical-focus.md), [Extend Spell](../../rules/feats/extend-spell.md), Hover, [Improved Critical (bite](../../rules/feats/improved-critical.md), claw), [Improved Initiative](../../rules/feats/improved-initiative.md), Multiattack, [Persuasive](../../rules/feats/persuasive.md), [Power Attack](../../rules/feats/power-attack.md), [Quicken Spell](../../rules/feats/quicken-spell.md), Weapon
+Focus (bite, claw)  
+**Skills** Diplomacy +42, Fly +20, Heal +38, Intimidate +42,
+Knowledge (arcana, history, nobility, planes, religion) +38,
+Perception +42, Sense Motive +42, Spellcraft +38, Survival +38  
+**Languages** Celestial, Common, Draconic  
+**SQ** graceful flight, heavenly aid, planar infusion (300 ft.),
+sacred space

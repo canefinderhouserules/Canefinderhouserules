@@ -1,0 +1,74 @@
+# Horsemen of the Apocalypse, Apollyon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Apollyon&quot;,&quot;cr&quot;:&quot;29&quot;,&quot;xp&quot;:&quot;6,553,600&quot;,&quot;line&quot;:&quot;NE Medium outsider (daemon, evil, extraplanar)&quot;,&quot;init&quot;:12,&quot;senses&quot;:&quot;darkvision 60 ft., detect good, true seeing&quot;,&quot;ac&quot;:&quot;47, touch 35, flat-footed 38&quot;,&quot;hp&quot;:&quot;717 (35d10+525); regeneration 30 (deific or mythic)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:38,&quot;Ref&quot;:23,&quot;Will&quot;:34},&quot;defense&quot;:&quot;apocalyptic resurrection, freedom of movement; DR 20/epic, good, and silver; Immune ability damage, ability drain, acid, charm effects, compulsion effects, death effects, disease, energy drain, petrification, poison; Resist cold 30, electricity 30, fire 30; SR 40&quot;,&quot;aura&quot;:&quot;frightful presence (120 ft., DC 38), plague shadow (10 ft.), unholy aura (DC 29)&quot;,&quot;speed&quot;:&quot;50 ft., fly 30 ft. (good)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;Usher of the Black Rain (scythe)&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[56,51,46,41],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:29,&quot;threat&quot;:19,&quot;mult&quot;:4,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[46],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;6d6&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus energy drain and disease&quot;},{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[46],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;Usher of the Black Rain (longbow)&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[48,43,38,33],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:21,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath of flies, disease, energy drain (1d4 levels, DC 38), father of plagues&quot;,&quot;rangedTouch&quot;:43,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:29,&quot;concentration&quot;:40,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;},{&quot;name&quot;:&quot;unholy aura&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;unholy-aura&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;astral projection&quot;,&quot;page&quot;:&quot;astral-projection&quot;},{&quot;name&quot;:&quot;blasphemyM&quot;,&quot;dc&quot;:28},{&quot;name&quot;:&quot;creeping doom&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;creeping-doom&quot;},{&quot;name&quot;:&quot;desecrateM&quot;},{&quot;name&quot;:&quot;contagionM&quot;,&quot;dc&quot;:24},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;},{&quot;name&quot;:&quot;shapechange&quot;,&quot;page&quot;:&quot;shapechange&quot;},{&quot;name&quot;:&quot;telekinesisM&quot;,&quot;dc&quot;:26},{&quot;name&quot;:&quot;unhallow&quot;,&quot;page&quot;:&quot;unhallow&quot;},{&quot;name&quot;:&quot;unholy blightM&quot;,&quot;dc&quot;:25}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened epidemic&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;epidemic&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;quickened plague storm&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;plague-storm&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;soul bind&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;soul-bind&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;summon daemon&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cursed earth&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;cursed-earth&quot;},{&quot;name&quot;:&quot;time stopM&quot;},{&quot;name&quot;:&quot;wishM&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Breath of Flies&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Every 1d4 rounds as a move action, Apollyon can exhale a cloud of flies in a 60-foot cone. Those caught in the area take 18d6 points of piercing damage from the bites and are nauseated 1 for 1d4 rounds. A creature that succeeds at a DC 42 Reflex save takes half the normal damage and negates the nausea effect. Any creature that takes any damage at all from the flies is automatically sickened for 1 minute. The flies linger for 1d4+1 rounds, gathering at the start of Apollyon’s next turn into a buzzing 20-foot-square cloud centered on the cone’s point of origin. Any creature that ends its turn in this cloud must succeed at a DC 42 Reflex save or take 9d6 points of piercing damage and become sickened for 1 minute. This cloud of flies can be dispersed by any area effect that deals damage or creates strong or stronger wind. All daemons and apocalypse horses are immune to the effects of breath of flies. The save DCs are Constitution-based.&quot;},{&quot;name&quot;:&quot;Disease&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Those bitten by Apollyon risk contracting soul plague, a deadly affliction that causes flesh to rot and drip away and that fills the sufferer with overwhelming despair and nausea. The soul of a creature that dies from soul plague is consigned to Abaddon to become one of the hunted of that realm, regardless of the victim’s actual alignment and religion in life. Soul plague can be cured via magic but cannot be cured through normal rest. Soul Plague: Bite—injury; save Fort DC 42; onset immediate; frequency 1/day; effect 1d8 Con drain and nauseated for 24 hours. The save DC is Constitution-based.&quot;},{&quot;name&quot;:&quot;Father of Plagues&quot;,&quot;type&quot;:&quot;Sp&quot;,&quot;text&quot;:&quot;As a swift action (but no more than once per day per target), Apollyon can inflict upon a single target within 60 feet any disease that the creature has ever previously suffered, unless the target succeeds at a DC 38 Fortitude save. The onset is immediate and this ability affects creatures immune to disease unless they are of demigod or greater stature, though creatures immune to disease gain a +4 bonus on their saving throws. The save DC is Charisma-based.&quot;},{&quot;name&quot;:&quot;Plague Shadow&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Apollyon is surrounded by a carpet of plague-ridden vermin that bubbles up from the ground at his feet. Creatures within a 10-foot radius of Apollyon are subject to damage from this swarm. Any creatures in the area occupied by the plague shadow at the end of Apollyon’s turn take 5d6 points of swarm damage and must succeed at a DC 38 Fortitude save or be nauseated 1 for 1 round. The save DC is Charisma-based&quot;}],&quot;abilities&quot;:&quot;Str 42, Dex 27, Con 40, Int 31, Wis 32, Cha 33&quot;,&quot;combat&quot;:&quot;BAB +35; CMB +51; CMD 86&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:43,&quot;Bluff&quot;:49,&quot;Diplomacy&quot;:46,&quot;Fly&quot;:50,&quot;Intimidate&quot;:49,&quot;Knowledge (arcana)&quot;:45,&quot;Knowledge (engineering)&quot;:45,&quot;Knowledge (history)&quot;:45,&quot;Knowledge (religion)&quot;:45,&quot;Knowledge (planes)&quot;:48,&quot;Perception&quot;:49,&quot;Ride&quot;:46,&quot;Sense Motive&quot;:49,&quot;Spellcraft&quot;:48,&quot;Stealth&quot;:46,&quot;Use Magic Device&quot;:49,&quot;CMB&quot;:51},&quot;feats&quot;:&quot;Combat Expertise, Combat Reflexes, Critical Focus, Deadly Aim, Dodge, Flyby Attack, Improved Critical (scythe), Improved Initiative, Mobility, Mounted Archery, Mounted Combat, Point-Blank Shot, Power Attack, Quicken Spell-Like Ability (epidemic, plague storm), Ride-By Attack, Sickening Critical, Spirited Charge&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Common, Infernal; telepathy 300 ft.&quot;,&quot;sq&quot;:&quot;Horseman traits&quot;}"></div>
+
+## Apollyon (CR 29)
+
+**XP** 6,553,600  
+NE Medium outsider (daemon, evil, extraplanar)  
+**Init** +12; **Senses** darkvision 60 ft., *detect good, true seeing*;
+Perception +49  
+**Aura** frightful presence (120 ft., DC 38), plague shadow (10 ft.),
+*unholy aura* (DC 29)
+
+**Defense**
+
+**AC** 47, touch 35, flat-footed 38 (+4 deflection, +8 Dex, +1 dodge,
++12 natural, +12 profane)  
+**hp** 717 (35d10+525); regeneration 30 (deific or mythic)  
+**Fort** +38, **Ref** +23, **Will** +34  
+**Defensive Abilities** apocalyptic resurrection, *freedom of
+movement*; **DR** 20/epic, good, and silver; **Immune** ability
+damage, ability drain, acid, charm effects, compulsion
+effects, death effects, disease, energy drain, petrification,
+poison; **Resist** cold 30, electricity 30, fire 30; **SR** 40
+
+**Offense**
+
+**Speed** 50 ft., fly 30 ft. (good)  
+**Melee** *Usher of the Black Rain* (scythe) +56/+51/+46/+41
+(2d4+29/19–20/×4), bite +46 (6d6+8 plus energy drain and
+disease), gore +46 (4d6+8)  
+**Ranged** *Usher of the Black Rain* (longbow) +48/+43/+38/+33
+(1d8+21/×3)  
+**Special Attacks** breath of flies, disease, energy drain (1d4 levels,
+DC 38), father of plagues  
+**Spell-Like Abilities** (CL 29th; concentration +40)  
+Constant—*detect good, freedom of movement, true seeing, unholy aura* (DC 29)  
+At will—*astral projection, blasphemy*M (DC 28), *creeping doom* (DC 28), *desecrate*M, *contagion*M (DC 24), *greater dispel magic, greater teleport, shapechange, telekinesis*M (DC 26), *unhallow, unholy blight*M (DC 25)  
+3/day—quickened *epidemic* (DC 27), quickened *plague storm* (DC 27), *soul bind* (DC 30), *summon daemon*  
+1/day—*cursed earth* (DC 30), *time stop*M, *wish*M  
+M Apollyon can use this ability’s mythic version in his realm.
+
+**Statistics**
+
+**Str** 42, **Dex** 27, **Con** 40, **Int** 31, **Wis** 32, **Cha** 33  
+**Base Atk** +35; **CMB** +51; **CMD** 86  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Critical (scythe)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Mounted Archery](../../rules/feats/mounted-archery.md), Mounted
+Combat, [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like
+Ability (*epidemic, plague storm*), [Ride-By Attack](../../rules/feats/ride-by-attack.md), Sickening
+Critical, [Spirited Charge](../../rules/feats/spirited-charge.md)  
+**Skills** Acrobatics +43, Bluff +49, Diplomacy +46, Fly +50, Intimidate
++49, Knowledge (arcana, engineering, history, religion) +45,
+Knowledge (planes) +48, Perception +49, Ride +46, Sense
+Motive +49, Spellcraft +48, Stealth +46, Use Magic Device +49  
+**Languages** Abyssal, Celestial, Common, Infernal; telepathy 300 ft.  
+**SQ** Horseman traits
+
+**Ecology**
+
+**Environment** any (Abaddon)  
+**Organization** solitary or mounted (Apollyon and the White Horse)  
+**Treasure** triple (*Usher of the Black Rain*, other treasure)
+
+**Special Abilities**
+
+**Breath of Flies (Su)** Every 1d4 rounds as a move action, Apollyon can exhale a cloud of flies in a 60-foot cone. Those caught in the area take 18d6 points of piercing damage from the bites and are nauseated 1 for 1d4 rounds. A creature that succeeds at a DC 42 Reflex save takes half the normal damage and negates the nausea effect. Any creature that takes any damage at all from the flies is automatically sickened for 1 minute. The flies linger for 1d4+1 rounds, gathering at the start of Apollyon’s next turn into a buzzing 20-foot-square cloud centered on the cone’s point of origin. Any creature that ends its turn in this cloud must succeed at a DC 42 Reflex save or take 9d6 points of piercing damage and become sickened for 1 minute. This cloud of flies can be dispersed by any area effect that deals damage or creates strong or stronger wind. All daemons and apocalypse horses are immune to the effects of breath of flies. The save DCs are Constitution-based.
+
+**Disease (Ex)** Those bitten by Apollyon risk contracting soul plague, a deadly affliction that causes flesh to rot and drip away and that fills the sufferer with overwhelming despair and nausea. The soul of a creature that dies from soul plague is consigned to Abaddon to become one of the hunted of that realm, regardless of the victim’s actual alignment and religion in life. Soul plague can be cured via magic but cannot be cured through normal rest.
+
+*Soul Plague*: Bite—injury; *save* Fort DC 42; *onset* immediate; *frequency* 1/day; *effect* 1d8 Con drain and nauseated for 24 hours. The save DC is Constitution-based.
+
+**Father of Plagues (Sp)** As a swift action (but no more than once per day per target), Apollyon can inflict upon a single target within 60 feet any disease that the creature has ever previously suffered, unless the target succeeds at a DC 38 Fortitude save. The onset is immediate and this ability affects creatures immune to disease unless they are of demigod or greater stature, though creatures immune to disease gain a +4 bonus on their saving throws. The save DC is Charisma-based.
+
+**Plague Shadow (Su)** Apollyon is surrounded by a carpet of plague-ridden vermin that bubbles up from the ground at his feet. Creatures within a 10-foot radius of Apollyon are subject to damage from this swarm. Any creatures in the area occupied by the plague shadow at the end of Apollyon’s turn take 5d6 points of swarm damage and must succeed at a DC 38 Fortitude save or be nauseated 1 for 1 round. The save DC is Charisma-based

@@ -1,0 +1,53 @@
+# Dragon (Planar, Rift), Ancient Rift Dragon
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ancient Rift Dragon&quot;,&quot;cr&quot;:&quot;21&quot;,&quot;xp&quot;:&quot;409,600&quot;,&quot;line&quot;:&quot;CE Gargantuan dragon (chaotic, evil, extraplanar)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;dragon senses&quot;,&quot;ac&quot;:&quot;40, touch 5, flat-footed 40&quot;,&quot;hp&quot;:&quot;434 (28d12+252)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:25,&quot;Ref&quot;:19,&quot;Will&quot;:23},&quot;defense&quot;:&quot;DR 15/good; Immune acid, disease, nausea, paralysis, poison, sleep, stun; SR 32&quot;,&quot;aura&quot;:&quot;frightful presence (300 ft., DC 32)&quot;,&quot;speed&quot;:&quot;60 ft., burrow 30 ft., fly 250 ft. (clumsy); space 20 ft.,, reach 10 ft. (15 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[40],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:22,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus bleed&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[40],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:15,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus bleed&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[37],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:22,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[37],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;abyssal juggernaut, bleed 10, breath weapon (60-ft. cone, 20d10 acid, Reflex DC 33 half), corrosion, crush, dissolution, flatten, foul acid, tail sweep, trample (4d6+22 plus bleed, DC 39)&quot;,&quot;rangedTouch&quot;:23,&quot;spells&quot;:[{&quot;title&quot;:&quot;Oracle Spells Known&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:23,&quot;levels&quot;:[{&quot;label&quot;:&quot;7th (5)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blasphemy&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;blasphemy&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;}]},{&quot;label&quot;:&quot;6th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;epidemic&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;epidemic&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;harm&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;harm&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;150&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;page&quot;:&quot;heal&quot;}]},{&quot;label&quot;:&quot;5th (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;page&quot;:&quot;cure-critical-wounds&quot;},{&quot;name&quot;:&quot;dispel good&quot;,&quot;page&quot;:&quot;dispel-good&quot;},{&quot;name&quot;:&quot;plane shift&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;plane-shift&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;4th (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;contagion&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;contagion&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;deeper darkness&quot;,&quot;page&quot;:&quot;deeper-darkness&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;}]},{&quot;label&quot;:&quot;2nd (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;desecrate&quot;,&quot;page&quot;:&quot;desecrate&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;shatter&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;shatter&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;sound burst&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;sound-burst&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;,&quot;damage&quot;:&quot;1d8&quot;}]},{&quot;label&quot;:&quot;1st (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;murderous command&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;murderous-command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;},{&quot;name&quot;:&quot;spark&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;spark&quot;,&quot;save&quot;:&quot;Fortitude negates (object)&quot;},{&quot;name&quot;:&quot;virtue&quot;,&quot;page&quot;:&quot;virtue&quot;}]}]}],&quot;abilities&quot;:&quot;Str 41, Dex 8, Con 29, Int 22, Wis 25, Cha 26&quot;,&quot;combat&quot;:&quot;BAB +28; CMB +47; CMD 56 (60 vs. trip)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:39,&quot;Fly&quot;:16,&quot;Intimidate&quot;:54,&quot;Knowledge (arcana)&quot;:37,&quot;Knowledge (dungeoneering)&quot;:37,&quot;Knowledge (planes)&quot;:37,&quot;Knowledge (religion)&quot;:37,&quot;Perception&quot;:38,&quot;Sense Motive&quot;:38,&quot;Spellcraft&quot;:37,&quot;Stealth&quot;:18,&quot;Use Magic Device&quot;:39,&quot;CMB&quot;:47},&quot;feats&quot;:&quot;Critical Focus, Flyby Attack, Improved Critical (bite, claw, tail slap), Improved Initiative, Intimidating Prowess, Lightning Reflexes, Multiattack, Power Attack, Quicken Spell, Staggering Critical, Weapon Focus (bite, claw)&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Draconic&quot;,&quot;sq&quot;:&quot;planar infusion (300 ft.)&quot;}"></div>
+
+## Ancient Rift Dragon (CR 21)
+
+**XP** 409,600  
+CE Gargantuan dragon (chaotic, evil, extraplanar)  
+**Init** +3; **Senses** dragon senses; Perception +38  
+**Aura** frightful presence (300 ft., DC 32)
+
+**Defense**
+
+**AC** 40, touch 5, flat-footed 40 (–1 Dex, +35 natural,
+–4 size)  
+**hp** 434 (28d12+252)  
+**Fort** +25, **Ref** +19, **Will** +23  
+**DR** 15/good; **Immune** acid, disease, nausea, paralysis,
+poison, sleep, stun; **SR** 32
+
+**Offense**
+
+**Speed** 60 ft., burrow 30 ft., fly 250 ft. (clumsy)  
+**Melee** bite +40 (4d6+22/19–20 plus bleed), 2 claws +40
+(2d8+15/19–20 plus bleed), tail slap +37 (2d8+22/19–20),
+2 wings +37 (2d6+7)  
+**Space** 20 ft., **Reach** 10 ft. (15 ft. with bite)  
+**Special Attacks** abyssal juggernaut, bleed 10, breath
+weapon (60-ft. cone, 20d10 acid, Reflex DC 33 half),
+corrosion, crush, dissolution, flatten, foul acid, tail sweep,
+trample (4d6+22 plus bleed, DC 39)  
+**Oracle Spells Known** (CL 15th; concentration +23)  
+7th (5)—*blasphemy* (DC 25), *destruction* (DC 25)  
+6th (7)—*epidemic* (DC 24), *harm* (DC 24), *heal*  
+5th (7)—*cure critical wounds, dispel good, plane shift* (DC 23), *true seeing*  
+4th (8)—*dismissal* (DC 22), *divine power, freedom of movement, unholy blight* (DC 22)  
+3rd (8)—*contagion* (DC 21), *cure serious wounds, deeper darkness, dispel magic*  
+2nd (8)—*death knell* (DC 20), *desecrate, hold person* (DC 20), *shatter* (DC 20), *sound burst* (DC 20)  
+1st (8)—*bane* (DC 19), *cure light wounds, murderous command* (DC 19), *obscuring mist, shield of faith*  
+0 (at will)—*bleed* (DC 18), *create water, detect magic, detect poison, guidance, read magic, resistance, spark* (DC 18), *virtue*
+
+**Statistics**
+
+**Str** 41, **Dex** 8, **Con** 29, **Int** 22, **Wis** 25, **Cha** 26  
+**Base Atk** +28; **CMB** +47; **CMD** 56 (60 vs. trip)  
+**Feats** [Critical Focus](../../rules/feats/critical-focus.md), Flyby Attack, [Improved Critical (bite](../../rules/feats/improved-critical.md), claw, tail slap), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), Lightning
+Reflexes, Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Quicken Spell](../../rules/feats/quicken-spell.md), Staggering
+Critical, [Weapon Focus (bite](../../rules/feats/weapon-focus.md), claw)  
+**Skills** Bluff +39, Fly +16, Intimidate +54, Knowledge (arcana,
+dungeoneering, planes, religion) +37, Perception +38, Sense
+Motive +38, Spellcraft +37, Stealth +18, Use Magic Device +39  
+**Languages** Abyssal, Common, Draconic  
+**SQ** planar infusion (300 ft.)
