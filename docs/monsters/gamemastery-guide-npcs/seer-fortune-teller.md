@@ -1,0 +1,44 @@
+# Seer (Fortune Teller)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seer (Fortune Teller)&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Human bard 3/sorcerer 3, CN Medium humanoid&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;11, touch 11, flat-footed 10&quot;,&quot;hp&quot;:&quot;23 (6 HD; 3d8+3d6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:6,&quot;Will&quot;:8},&quot;saveNote&quot;:&quot;+4 vs. bardic performance, language-dependent, and sonic&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[2],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[4],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;bardic performance 18 rounds/day (countersong, distraction, fascinate [DC 15], inspire competence +2, inspire courage +1)&quot;,&quot;rangedTouch&quot;:4,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:3,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;7/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;laughing touch&quot;}]}]},{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:3,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;1st (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;hideous laughter&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;hideous-laughter&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;silent image&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;silent-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;know direction&quot;,&quot;page&quot;:&quot;know-direction&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:3,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;1st (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;entangle&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;entangle&quot;,&quot;save&quot;:&quot;Reflex partial&quot;},{&quot;name&quot;:&quot;hypnotism&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;hypnotism&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane mark&quot;,&quot;page&quot;:&quot;arcane-mark&quot;},{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]}],&quot;abilities&quot;:&quot;Str 8, Dex 13, Con 10, Int 14, Wis 12, Cha 18&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +2; CMD 13&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:16,&quot;Diplomacy&quot;:10,&quot;Disguise&quot;:16,&quot;Intimidate&quot;:10,&quot;Knowledge (arcana)&quot;:7,&quot;Knowledge (local)&quot;:7,&quot;Knowledge (nature)&quot;:7,&quot;Knowledge (planes)&quot;:7,&quot;Knowledge (religion)&quot;:7,&quot;Linguistics&quot;:6,&quot;Perception&quot;:5,&quot;Perform (act)&quot;:16,&quot;Perform (oratory)&quot;:12,&quot;Sense Motive&quot;:10,&quot;Sleight of Hand&quot;:13,&quot;Spellcraft&quot;:10,&quot;Use Magic Device&quot;:15,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Eschew Materials, Extra Performance, Magical Aptitude, Skill Focus (Perform [act]), Skill Focus (Sleight of Hand)&quot;,&quot;languages&quot;:&quot;Aklo, Common, Draconic, Sylvan&quot;,&quot;sq&quot;:&quot;bardic knowledge +1, bloodline arcana, versatile performance (act), woodland stride&quot;,&quot;gear&quot;:&quot;scrolls of animate rope, comprehend languages (4), erase, magic aura, magic mouth, wand of unseen servant (50 charges), smokesticks (2), thunderstones (2)&quot;}"></div>
+
+## Seer (Fortune Teller) (CR 5)
+
+**XP** 1,600  
+Human bard 3/sorcerer 3  
+CN Medium humanoid  
+**Init** +1; **Senses** Perception +5
+
+**Defense**
+
+**AC** 11, touch 11, flat-footed 10 (+1 Dex)  
+**hp** 23 (6 HD; 3d8+3d6)  
+**Fort** +3, **Ref** +6, **Will** +8; +4 vs. bardic performance, language-dependent, and sonic
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** dagger +2 (1d4–1/19–20)  
+**Ranged**  dagger +4 (1d4–1/19–20)  
+**Special Attacks** bardic performance 18 rounds/day (countersong, distraction, fascinate [DC 15], inspire competence +2, inspire courage +1)  
+**Spell-Like Abilities** (CL 3rd; concentration +7)  
+7/day—laughing touch  
+**Bard Spells Known** (CL 3rd; concentration +7)  
+1st (4/day)—*cure light wounds*, *hideous laughter* (DC 17), *silent image* (DC 15), *ventriloquism* (DC 15)  
+0 (at will)—*ghost sound* (DC 14), *know direction*, *mage hand*, *message*, *read magic*, *resistance*  
+**Sorcerer Spells Known** (CL 3rd; concentration +7)  
+1st (6/day)—*charm person* (DC 15), *entangle* (DC 15), *hypnotism* (DC 17), *mage armor*  
+0 (at will)—*arcane mark*, *daze* (DC 16), *detect magic*, *ray of frost*, *prestidigitation*  
+**Bloodline** fey
+
+**Statistics**
+
+**Str** 8, **Dex** 13, **Con** 10, **Int** 14, **Wis** 12, **Cha** 18  
+**Base Atk** +3; **CMB** +2; **CMD** 13  
+**Feats** [Eschew Materials](../../rules/feats/eschew-materials.md), [Extra Performance](../../rules/feats/extra-performance.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), [Skill Focus (Perform [act])](../../rules/feats/skill-focus.md), [Skill Focus (Sleight of Hand)](../../rules/feats/skill-focus.md)  
+**Skills** Bluff +16, Diplomacy +10, Disguise +16, Intimidate +10, Knowledge (arcana) +7, Knowledge (local) +7, Knowledge (nature) +7, Knowledge (planes) +7, Knowledge (religion) +7, Linguistics +6, Perception +5, Perform (act) +16, Perform (oratory) +12, Sense Motive +10, Sleight of Hand +13, Spellcraft +10, Use Magic Device +15  
+**Languages** Aklo, Common, Draconic, Sylvan  
+**SQ** bardic knowledge +1, bloodline arcana, versatile performance (act), woodland stride  
+**Combat Gear**  *scrolls of animate rope*, *comprehend languages* (4), *erase*, *magic aura*, *magic mouth*, *wand of unseen servant* (50 charges), smokesticks (2), thunderstones (2); **Other Gear** daggers (2), *cloak of resistance +1*, non-magical crystal ball, tarot cards, augury focus
+
+**Boon** A fortune teller could advise PCs on the best ways to trick those in a particular community, granting them a +2 circumstance bonus on Bluff and Intimidate checks in that area for 1 week.

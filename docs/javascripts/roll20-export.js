@@ -164,7 +164,7 @@
     var m; try { m = JSON.parse(raw); } catch (e) { return; }
     var wrap = el('details', 'r20'); wrap.appendChild(el('summary', null, 'Roll20'));
     var ol = el('ol', 'r20-steps');
-    [ 'In the Roll20 Journal, create a character and, when Roll20 asks how to create it, choose Edit Sheet Directly (Pathfinder by Roll20 sheet, left blank). Type its name below.',
+    [ 'In the Roll20 Journal, create a character and, when Roll20 asks how to create it, choose Edit Sheet Directly (Pathfinder by Roll20 sheet, left blank). Type its name below (no parentheses).',
       'Click Copy for Bio & Info.',
       'In Roll20, open the character, click Edit, click inside the Bio & Info box and press Ctrl+V. Save Changes.',
       'Open the Bio & Info tab: each attack, save and check rolls in chat when clicked. Buffs and conditions set on the character sheet are added to the rolls. Init also adds the selected token to the turn order.'
@@ -172,7 +172,8 @@
     wrap.appendChild(ol);
     var row = el('div', 'r20-row');
     var label = el('label', 'r20-hint', 'Character name: ');
-    var input = el('input', 'r20-name'); input.type = 'text'; input.value = m.name; label.appendChild(input);
+    // suggested name without parentheses, which break Roll20 references
+    var input = el('input', 'r20-name'); input.type = 'text'; input.value = m.name.replace(/[()|]/g, '').replace(/\s+/g, ' ').trim(); label.appendChild(input);
     var b = el('button', 'md-button r20-btn', 'Copy for Bio & Info'); b.type = 'button';
     b.addEventListener('click', function () {
       var who = (input.value || m.name).trim();

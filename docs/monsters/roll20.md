@@ -5,7 +5,7 @@ Every creature page has a **Roll20** panel above each stat block. It copies the 
 ## Setting up a creature
 
 1. In the Roll20 **Journal**, click **+ Add → Character**. When Roll20 asks how to create it, choose **Edit Sheet Directly**. The game must use the **Pathfinder by Roll20** sheet; leave the sheet blank (abilities at 10, no class).
-2. On the creature's page here, open the **Roll20** panel, type the character's exact Roll20 name in **Character name**, and click **Copy for Bio & Info**.
+2. On the creature's page here, open the **Roll20** panel, type the character's exact Roll20 name in **Character name** (it suggests the creature's name without parentheses, which can break Roll20 references; use that same name for the character), and click **Copy for Bio & Info**.
 3. In Roll20, open the character, click **Edit**, click inside the **Bio & Info** box and press **Ctrl+V**. Click **Save Changes**.
 4. Link a token to the character: double-click the token and pick the character under **Represents Character**.
 

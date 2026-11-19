@@ -21,4 +21,5 @@ Rules for understanding, building, and advancing monsters. Stat blocks are in th
 | Source | Page |
 |---|---|
 | NPC Codex | [NPC Codex](npc-codex/index.md): 310 ready-made NPCs by class and level, with a Roll20 export |
+| GameMastery Guide | [GameMastery Guide NPCs](gamemastery-guide-npcs/index.md): 81 NPCs, from bandits to cultists, with a Roll20 export |
 | Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |
