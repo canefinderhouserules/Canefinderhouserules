@@ -24,7 +24,7 @@ NE Medium outsider (evil, extraplanar, herald, shapechanger)
 **Spell-Like Abilities** (CL 17th; concentration +19)  
 Constant—*see invisibility*  
 At will—*absorbing touch*APG, *alchemical allocation*APG, *charm person* (DC 13), *keen edge*, *poison* (DC 16), *true strike*  
-3/day—*false alibi* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *modify memory* (DC 16), *suggestion* (DC 15), summon (level 6, 1 fiendish deadfall scorpion [Bestiary 3 237] 100%)
+3/day—*false alibi* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *modify memory* (DC 16), *suggestion* (DC 15), summon
 
 **Statistics**
 

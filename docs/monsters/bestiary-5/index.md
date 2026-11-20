@@ -114,7 +114,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Great Assassin Bug](assassin-bug-great-assassin-bug.md) | 5 | N Medium vermin |
 | [Greater Aether Elemental](elemental-aether-greater-aether-elemental.md) | 9 | N Huge outsider (aether, elemental, extraplanar) |
 | [Griefgall](griefgall.md) | 6 | NE Tiny plant |
-| [Grim Reaper (Bestiary 5)](grim-reaper-grim-reaper-bestiary-5.md) | 22 | NE Medium undead (extraplanar) |
+| [Grim Reaper](grim-reaper-grim-reaper.md) | 22 | NE Medium undead (extraplanar) |
 | [Grimslake](grimslake.md) | 6 | CE Large aberration (extraplanar) |
 | [Grioth](grioth.md) | 1 | CE Medium monstrous humanoid |
 | [Gristly Demodand](demodand-gristly-demodand.md) | 17 | CE Medium outsider (chaotic, demodand, evil, extraplanar) |

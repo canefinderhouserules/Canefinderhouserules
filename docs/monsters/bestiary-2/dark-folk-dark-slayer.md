@@ -38,7 +38,7 @@ At will—*bleed* (DC 12), *chill touch* (DC 13), *darkness*, *spectral hand*
 
 **Environment** any underground  
 **Organization** solitary, gang (1 dark slayer and 2–5 dark stalkers), or clan (20–80 dark creepers plus 1 dark stalker or dark slayer per 20 dark creepers)  
-**Treasure** standard (kukri, black smear [2 doses] [see Bestiary 54], other gear)
+**Treasure** standard
 
 **Special Abilities**
 

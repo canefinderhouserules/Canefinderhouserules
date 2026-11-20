@@ -32,6 +32,6 @@ CG Medium humanoid (human)
 **Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Skill Focus (Handle Animal](../../rules/feats/skill-focus.md), Perception)  
 **Skills** Climb +5, Diplomacy +9, Handle Animal +13, Knowledge (nobility) +7, Perception +10, Profession (falconer) +7, Ride +3, Survival +3  
 **Languages** Common  
-**Combat Gear**  *potion of cure light wounds*, tanglefoot bag; **Other Gear** mithral chain shirt, masterwork light crossbow with 20 bolts, masterwork short sword, signal whistle, silver holy symbol, trained hawk (*Pathfinder RPG Bestiary* 131, worth 40 gp), bit and bridle, light horse (combat trained), riding saddle, saddlebags, 360 gp
+**Combat Gear**  *potion of cure light wounds*, tanglefoot bag; **Other Gear** mithral chain shirt, masterwork light crossbow with 20 bolts, masterwork short sword, signal whistle, silver holy symbol, trained hawk, bit and bridle, light horse (combat trained), riding saddle, saddlebags, 360 gp
 
 The falconer has dedicated his life to training birds of prey—his raptors are his dearest friends. He cares little about courtly life and prefers the company of his noble birds.

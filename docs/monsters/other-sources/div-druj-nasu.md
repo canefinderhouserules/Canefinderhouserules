@@ -24,7 +24,7 @@ NE Medium outsider (div, evil, extraplanar)
 Constant—*detect good*, *detect magic*  
 At will—*invisibility* (self only), *putrefy food and drink*, *see invisibility*, *summon swarm*  
 3/day—*bestow curse* (DC 20), *command undead* (DC 18), *enervation*  
-1/day—*animate dead*, *insect plague*, summon (level 6, 1 pairaka [*Pathfinder RPG Bestiary 3* 88] or 1d6 fiendish giant flies [*Pathfinder RPG Bestiary 2* 292, 124] 50%)
+1/day—*animate dead*, *insect plague*, summon
 
 **Statistics**
 

@@ -38,7 +38,7 @@ At will—*darkness*, *detect magic*
 
 **Environment** any underground  
 **Organization** solitary, pair, gang (3–6), or clan (20–80 dark creepers plus 1 dark stalker and dark empath per 20 dark creepers)  
-**Treasure** standard (mwk dagger, black smear [2 doses, *Bestiary* 54], other treasure)
+**Treasure** standard
 
 **Special Abilities**
 

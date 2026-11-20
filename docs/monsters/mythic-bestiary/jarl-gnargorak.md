@@ -1,0 +1,43 @@
+# Jarl Gnargorak
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Jarl Gnargorak&quot;,&quot;cr&quot;:&quot;25/MR 8&quot;,&quot;xp&quot;:&quot;1,638,400&quot;,&quot;line&quot;:&quot;Male frost giant ranger 12/marshal 8, CE Large humanoid (cold, giant)&quot;,&quot;init&quot;:19,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;43, touch 19, flat-footed 38&quot;,&quot;hp&quot;:&quot;485 (26 HD; 14d8+12d10+356)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:34,&quot;Ref&quot;:26,&quot;Will&quot;:19},&quot;saveNote&quot;:&quot;+2 vs. fire-based effects&quot;,&quot;defense&quot;:&quot;evasion, hard to kill, mythic saving throws, rock catching, unstoppable; Resist electricity 20, fire 30&quot;,&quot;speed&quot;:&quot;30 ft.; space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;Winter’s Heart&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[41,36,31,26],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:25,&quot;threat&quot;:17,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 cold&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+5 seeking composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[33,28,23,18],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:18,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;rock&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[28],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:19,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (animals +4, evil outsiders +2, humans +4), fight on, inspiring assault, marshal’s order (advance, decisive strike), menacing presence, mythic bond, mythic presence, press the advantage, rock throwing (120 ft.)&quot;,&quot;rangedTouch&quot;:28,&quot;spells&quot;:[{&quot;title&quot;:&quot;Ranger Spells Prepared&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:13,&quot;levels&quot;:[{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fickle windsUM&quot;},{&quot;name&quot;:&quot;water walk&quot;,&quot;page&quot;:&quot;water-walk&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;barkskin&quot;,&quot;page&quot;:&quot;barkskin&quot;,&quot;note&quot;:&quot;already cast&quot;},{&quot;name&quot;:&quot;versatile weaponAPG&quot;},{&quot;name&quot;:&quot;wind wall&quot;,&quot;page&quot;:&quot;wind-wall&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;horn of pursuitUM&quot;},{&quot;name&quot;:&quot;pass without trace&quot;,&quot;page&quot;:&quot;pass-without-trace&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;,&quot;note&quot;:&quot;already cast&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Exceptional Wealth&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Jarl Gnargorak has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1.&quot;}],&quot;abilities&quot;:&quot;Str 37, Dex 24, Con 34, Int 12, Wis 18, Cha 18&quot;,&quot;combat&quot;:&quot;BAB +22; CMB +36 (+38 bull rush); CMD 58 (60 vs. bull rush)&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:33,&quot;Knowledge (geography)&quot;:13,&quot;Knowledge (nature)&quot;:13,&quot;Perception&quot;:33,&quot;Sense Motive&quot;:14,&quot;Stealth&quot;:25,&quot;Survival&quot;:33,&quot;CMB&quot;:36},&quot;feats&quot;:&quot;Awesome Blow, Deadly AimM, Endurance, Exotic Weapon Proficiency (bastard sword), Improved Bull Rush, Improved CriticalM (bastard sword), Improved Critical (composite longbow), Improved Initiative, Improved Precise Shot, Iron Will, Leadership, Lightning Reflexes, Pinpoint Targeting, Point-Blank Shot, Power AttackM, Precise Shot, Rapid ShotM&quot;,&quot;languages&quot;:&quot;Common, Giant, Hallit&quot;,&quot;sq&quot;:&quot;additional order, amazing initiative, camouflage, evasion, exceptional wealth, favored terrain (cold +4, mountain +2), hunter’s bond (companions), pierce the darkness, quarry, recuperation, swift tracker, track +6, wild empathy +16, woodland stride&quot;,&quot;gear&quot;:&quot;boots of speed, +1 brilliant energy arrows (10), potions of cure serious wounds (4), +1 demon bane arrows (10), +1 dragon bane arrows (10), +1 flaming burst arrows (10), +1 human bane arrows (20), efficient quiver, glove of storing, greater horn of blasting, staff of journeysUE (50 charges)&quot;}"></div>
+
+## Jarl Gnargorak (CR 25/MR 8)
+
+**XP** 1,638,400  
+Male frost giant ranger 12/marshal 8  
+CE Large humanoid (cold, giant)  
+**Init** +19; **Senses** low-light vision; Perception +33
+
+**Defense**
+
+**AC** 43, touch 19, flat-footed 38 (+10 armor, +5 deflection, +5 Dex, +14 natural, –1 size)  
+**hp** 485 (26 HD; 14d8+12d10+356)  
+**Fort** +34, **Ref** +26, **Will** +19; +2 vs. fire-based effects  
+**Defensive Abilities** evasion, hard to kill, mythic saving throws, rock catching, unstoppable; **Resist** electricity 20, fire 30
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *Winter’s Heart* +41/+36/+31/+26 (2d8+25/17–20 plus 1d6 cold)  
+**Ranged**  *+5 seeking composite longbow* +33/+28/+23/+18 (2d6+18/19–20/×3) or rock +28 (1d8+19)  
+**Space** 10 ft., **Reach** 10 ft.  
+**Special Attacks** favored enemy (animals +4, evil outsiders +2, humans +4), fight on, inspiring assault, marshal’s order (advance, decisive strike), menacing presence, mythic bond, mythic presence, press the advantage, rock throwing (120 ft.)  
+**Ranger Spells Prepared** (CL 9th; concentration +13)  
+3rd—*fickle winds*UM, *water walk*  
+2nd—*barkskin* (already cast), *versatile weapon*APG, *wind wall*  
+1st—*horn of pursuit*UM, *pass without trace*, *resist energy* (already cast)
+
+**Statistics**
+
+**Str** 37, **Dex** 24, **Con** 34, **Int** 12, **Wis** 18, **Cha** 18  
+**Base Atk** +22; **CMB** +36 (+38 bull rush); **CMD** 58 (60 vs. bull rush)  
+**Feats** Awesome Blow, [Deadly AimM](../../rules/feats/deadly-aim.md), [Endurance](../../rules/feats/endurance.md), [Exotic Weapon Proficiency (bastard sword)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved CriticalM (bastard sword)](../../rules/feats/improved-critical.md), [Improved Critical (composite longbow)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Precise Shot](../../rules/feats/improved-precise-shot.md), [Iron Will](../../rules/feats/iron-will.md), [Leadership](../../rules/feats/leadership.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Pinpoint Targeting](../../rules/feats/pinpoint-targeting.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power AttackM](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid ShotM](../../rules/feats/rapid-shot.md)  
+**Skills** Intimidate +33, Knowledge (geography, nature) +13, Perception +33, Sense Motive +14, Stealth +25 (+29 in snow), Survival +33; **Racial Modifiers** +4 Stealth in snow  
+**Languages** Common, Giant, Hallit  
+**SQ** additional order, amazing initiative, camouflage, evasion, exceptional wealth, favored terrain (cold +4, mountain +2), hunter’s bond (companions), pierce the darkness, quarry, recuperation, swift tracker, track +6, wild empathy +16, woodland stride  
+**Combat Gear**  *boots of speed*, *+1 brilliant energy arrows* (10), *potions of cure serious wounds* (4), *+1 demon bane arrows* (10), *+1 dragon bane arrows* (10), *+1 flaming burst arrows* (10), *+1 human bane arrows* (20), *efficient quiver*, *glove of storing*, *greater horn of blasting*, *staff of journeys*UE (50 charges); **Other Gear** *+4 improved shadow mithral breastplate*, *+5 seeking composite longbow* (+14 Str) with 30 arrows, *Winter’s Heart* (see below), *amulet of natural armor +5*, *belt of physical perfection +6*, *cloak of resistance +5*, *greater bracers of archery*, *greater ring of fire resistance*, *headband of mental prowess +4* (Wis, Cha), *portable hole*, *ring of protection +5*, *stormlord’s helm*, spell component pouch, platinum and sapphire necklace (worth 12,500 gp), platinum symbol of Thremyr (worth 500 gp), sapphires (10, worth 5,000 gp each)
+
+**Special Abilities**
+
+**Exceptional Wealth (Ex)** Jarl Gnargorak has the wealth of a 20th-level PC, rather than an NPC. This increases his CR by 1.

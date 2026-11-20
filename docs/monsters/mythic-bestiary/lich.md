@@ -1,0 +1,52 @@
+# Lich
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mythic Lich&quot;,&quot;cr&quot;:&quot;17/MR 7&quot;,&quot;xp&quot;:&quot;102,400&quot;,&quot;line&quot;:&quot;Human lich cleric of Asmodeus 13, LE Medium undead (augmented humanoid, human, mythic)&quot;,&quot;init&quot;:13,&quot;senses&quot;:&quot;darkvision 60 ft., spell perception&quot;,&quot;ac&quot;:&quot;36, touch 14, flat-footed 34&quot;,&quot;hp&quot;:&quot;209 (13d8+147)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:16,&quot;Ref&quot;:9,&quot;Will&quot;:21},&quot;defense&quot;:&quot;channel resistance +8, creeping paralysis; DR 15/bludgeoning and epic and magic; Immune cold, electricity, undead traits; SR 32&quot;,&quot;aura&quot;:&quot;fear (60 ft., DC 28)&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 heavy mace&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9,4],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;touch&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus paralyzing touch&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 10/day (DC 23, 7d6), hand of the acolyte (11/day), inspired spell, mythic power (7/day, surge +1d10), mythic spells 2/day, paralyzing touch (DC 28), scythe of evil (6 rounds, 2/day)&quot;,&quot;rangedTouch&quot;:11,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:13,&quot;concentration&quot;:21,&quot;levels&quot;:[{&quot;label&quot;:&quot;11/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;touch of evil&quot;,&quot;note&quot;:&quot;6 rounds&quot;}]},{&quot;label&quot;:&quot;2/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispelling touch&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:13,&quot;concentration&quot;:21,&quot;levels&quot;:[{&quot;label&quot;:&quot;7th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blasphemy&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;blasphemy&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;ethereal jaunt&quot;,&quot;page&quot;:&quot;ethereal-jaunt&quot;}]},{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;antimagic field&quot;,&quot;page&quot;:&quot;antimagic-field&quot;},{&quot;name&quot;:&quot;blade barrierM&quot;,&quot;dc&quot;:24},{&quot;name&quot;:&quot;harmM&quot;,&quot;dc&quot;:26,&quot;note&quot;:&quot;2&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel good&quot;,&quot;page&quot;:&quot;dispel-good&quot;},{&quot;name&quot;:&quot;flame strikeM&quot;,&quot;dc&quot;:23},{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;,&quot;note&quot;:&quot;2&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;chaos hammerM&quot;,&quot;dc&quot;:22},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;spell immunity&quot;,&quot;page&quot;:&quot;spell-immunity&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;page&quot;:&quot;unholy-blight&quot;},{&quot;name&quot;:&quot;M&quot;,&quot;dc&quot;:22,&quot;note&quot;:&quot;2&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;contagionM&quot;,&quot;dc&quot;:23},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;invisibility purge&quot;,&quot;page&quot;:&quot;invisibility-purge&quot;},{&quot;name&quot;:&quot;meld into stone&quot;,&quot;page&quot;:&quot;meld-into-stone&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;align weapon&quot;,&quot;page&quot;:&quot;align-weapon&quot;,&quot;note&quot;:&quot;evil only&quot;},{&quot;name&quot;:&quot;calm emotions&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;calm-emotions&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;darkness&quot;,&quot;page&quot;:&quot;darkness&quot;},{&quot;name&quot;:&quot;desecrate&quot;,&quot;page&quot;:&quot;desecrate&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;spiritual weaponM&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;deathwatch&quot;,&quot;page&quot;:&quot;deathwatch&quot;},{&quot;name&quot;:&quot;entropic shield&quot;,&quot;page&quot;:&quot;entropic-shield&quot;},{&quot;name&quot;:&quot;identify&quot;,&quot;page&quot;:&quot;identify&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;page&quot;:&quot;purify-food-and-drink&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 8, Dex 14, Con —, Int 15, Wis 26, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +8; CMD 22&quot;,&quot;checks&quot;:{&quot;Heal&quot;:16,&quot;Intimidate&quot;:18,&quot;Knowledge (arcana)&quot;:18,&quot;Knowledge (religion)&quot;:18,&quot;Perception&quot;:29,&quot;Sense Motive&quot;:27,&quot;Spellcraft&quot;:26,&quot;Stealth&quot;:9,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Combat Casting, Craft Wondrous Item, Extra Channel, Improved ChannelM, Improved InitiativeM, Iron Will, Mythic Spell LoreB, Spell Focus (necromancy)M, ToughnessM&quot;,&quot;languages&quot;:&quot;Abyssal, Common&quot;,&quot;sq&quot;:&quot;mythic phylactery, rejuvenation&quot;}"></div>
+
+## Mythic Lich (CR 17/MR 7)
+
+**XP** 102,400  
+Human lich cleric of Asmodeus 13  
+LE Medium undead (augmented humanoid, human, mythic)  
+**Init** +13M; **Senses** darkvision 60 ft., spell perception; Perception +29  
+**Aura** fear (60 ft., DC 28)
+
+**Defense**
+
+**AC** 36, touch 14, flat-footed 34 (+7 armor, +2 deflection, +2 Dex, +15 natural)  
+**hp** 209 (13d8+147)  
+**Fort** +16, **Ref** +9, **Will** +21  
+**Defensive Abilities** channel resistance +8, creeping paralysis; **DR** 15/bludgeoning and epic and magic; **Immune** cold, electricity, undead traits; **SR** 32
+
+**Offense**
+
+**Speed** 30 ft.  
+**Melee** *+1 heavy mace* +9/+4 (1d8), touch +3 (1d8+6 plus paralyzing touch)  
+**Special Attacks** channel negative energy 10/day (DC 23, 7d6), hand of the acolyte (11/day), inspired spell, mythic power (7/day, surge +1d10), mythic spells 2/day, paralyzing touch (DC 28), scythe of evil (6 rounds, 2/day)  
+**Spell-Like Abilities** (CL 13th; concentration +21)  
+11/day—touch of evil (6 rounds)  
+2/day—dispelling touch  
+**Cleric Spells Prepared** (CL 13th; concentration +21)  
+7th—blasphemyD (DC 25), destruction (DC 27), ethereal jaunt  
+6th—antimagic fieldD, blade barrierM (DC 24), harmM (2, DC 26)  
+5th—dispel goodD, flame strikeM (DC 23), greater command (DC 23), slay living (2, DC 25)  
+4th—chaos hammerM (DC 22), freedom of movement, poison (DC 24), spell immunity, unholy blightD, M (2, DC 22)  
+3rd—bestow curse (2, DC 23), contagion (DC 23)M, dispel magicD, invisibility purge, meld into stone, protection from energy  
+2nd—align weaponD (evil only), calm emotions (DC 20), darkness, desecrate, hold person (DC 20), resist energy, spiritual weaponM  
+1st—bane (DC 19), cause fear (DC 21), deathwatch, entropic shield, identifyD, obscuring mist (2)  
+0 (at will)—bleed (DC 20), detect magic, purify food and drink, read magic  
+**D** Domain spell; **Domains** Evil, Magic; **M** Mythic spell
+
+**Statistics**
+
+**Str** 8, **Dex** 14, **Con** —, **Int** 15, **Wis** 26, **Cha** 20  
+**Base Atk** +9; **CMB** +8; **CMD** 22  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved ChannelM](../../rules/feats/improved-channel.md), [Improved InitiativeM](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Mythic Spell LoreB, [Spell Focus (necromancy)M](../../rules/feats/spell-focus.md), [ToughnessM](../../rules/feats/toughness.md)  
+**Skills** Heal +16, Intimidate +18, Knowledge (arcana, religion) +18, Perception +29, Sense Motive +27, Spellcraft +26, Stealth +9; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Spellcraft, +8 Stealth  
+**Languages** Abyssal, Common  
+**SQ** mythic phylactery, rejuvenation
+
+**Ecology**
+
+**Environment** any  
+**Organization** solitary  
+**Treasure** NPC gear (*potions of invisibility* [2], *+3 chain shirt*, *+1 heavy mace*, *amulet of natural armor +3*, *belt of incredible dexterity +2*, *cloak of resistance +3*, *headband of mental prowess +4* [Wis, Cha], *ring of protection +2*, other treasure)

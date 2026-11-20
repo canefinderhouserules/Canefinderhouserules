@@ -34,7 +34,7 @@ CN Small humanoid (dark folk)
 
 **Environment** any underground  
 **Organization** solitary, pair, troupe (3–5), or delegation (1 plus 1 dark stalker and 4–10 dark creepers)  
-**Treasure** standard (club, dagger, black smear poison [3 doses; *Pathfinder RPG Bestiary* 54], other gear)
+**Treasure** standard
 
 **Special Abilities**
 

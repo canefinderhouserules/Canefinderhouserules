@@ -36,7 +36,7 @@ NE Small humanoid (goblinoid)
 **Skills** Climb +7, Handle Animal +7, Perception +10, Ride +16, Stealth +20, Survival +10, Swim +7  
 **Languages** Goblin  
 **SQ** favored terrain (forest +2), hunter’s bond (companions), track +3, wild empathy +4  
-**Combat Gear**  *potion of bull’s strength*, *potion of cure moderate wounds*, *+1 flaming arrows* (5), alchemist’s fire (2), tanglefoot bags (2); **Other Gear** *+1 chain shirt*, *+1 buckler*, mwk composite shortbow with 20 arrows, mwk horsechopperUE, giant gecko mount (*Pathfinder RPG Bestiary 3* 186), 81 gp
+**Combat Gear**  *potion of bull’s strength*, *potion of cure moderate wounds*, *+1 flaming arrows* (5), alchemist’s fire (2), tanglefoot bags (2); **Other Gear** *+1 chain shirt*, *+1 buckler*, mwk composite shortbow with 20 arrows, mwk horsechopperUE, giant gecko mount, 81 gp
 
 **Ecology**
 

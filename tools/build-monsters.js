@@ -24,6 +24,8 @@ const MAIN_BOOKS = /^((Pathfinder RPG )?Bestiary( [2-6])?|Monster Codex|NPC Code
 const SETTING = /\b(Golarion|Absalom|Cheliax|Chelish|Chelaxian|Varisia\w*|Osirion\w*|Ustalav\w*|Numeria\w*|Katapesh\w*|Irrisen\w*|Mwangi|Tian|Garund\w*|Avistan\w*|Razmir\w*|Aroden|Kyonin|Nidal\w*|Mendev\w*|Worldwound|Sarkoris|Belkzen|Qadira\w*|Taldor\w*|Taldan|Andoran\w*|Brevoy|Sekamina|Nar-Voth|Orv|Hellknights?|Red Mantis|Aspis|Pathfinder Society|Shoanti|Kellid\w*|Mammoth Lords|Ulfen|Jadwiga|Magnimar\w*|Korvosa\w*|Riddleport|Sandpoint|Kaer Maga|Thassilon\w*|Azlant\w*|Shackles|Rahadoum|Geb|Nex|Alkenstar|Galt\w*|Isger|Molthune|Nirmathas|Lastwall|Ravounel|Druma|Kalistrade|Jalmeray|Vudra\w*|Minkai|Lung Wa|Tar-Baphon|Whispering Tyrant|Runelords?|Starstone|Inner Sea|Arcadia|Casmaron|Iblydos|Thuvia|Sargava|Bloodcove|Saga Lands|Linnorm Kings|Zagresh|Lamashtu|Dagon|Pazuzu|Orcus|Baphomet|Deskari|Nocticula|Kostchtchie|Zura|Mephistopheles|Dispater|Mammon|Belial|Geryon|Moloch|Baalzebul|Barbatos|Asmodeus|Szuriel|Trelmarixian|Apollyon|Charon|Groetus|Achaekek|Ghlaunder|Zyphus|Besmara|Kabriri|Areshkagal|Arazni|Kurgess|Casandalee|Brigh|Alseta|Hanspur|Gyronna|Sivanah|Naderi|Milani|Ragathiel|Dahak|Apsu|Inheritor)\b/;
 // setting names in them are replaced by scrubNames; SETTING stays as the check for what slipped through
 BOOKS['other-sources'] = { title: 'Other Sources', re: { test: s => !!s && !MAIN_BOOKS.test(s) } };
+// mythic creatures come from their own Nethys list (MythicMonsterDisplay), whatever the book
+BOOKS['mythic-bestiary'] = { title: 'Mythic Bestiary', re: { test: s => !!s } };
 
 // ---------- helpers ----------
 const decode = s => String(s)
@@ -162,8 +164,10 @@ const DEITIES = {
   'Aroden': 'the last emperor-god', 'Osirionologists': 'desert kingdom scholars', 'Osirionologist': 'desert kingdom scholar', 'Varisians': 'frontier folk', 'Magnimarians': 'city folk', 'Brevic': 'Northern-Kingdom', 'Brevoy': 'the northern kingdom',
 };
 const DEITY_RE = new RegExp('(^|[.!?]\\s+|\\n)?\\b(' + Object.keys(DEITIES).sort((a, b) => b.length - a.length).join('|') + ')\\b', 'g');
+// book citations inside stat blocks: "witch 20 (Pathfinder RPG Advanced Player’s Guide 65, Pathfinder RPG Bestiary 294)"
+const CITATION = /\s*\((?:[^()]*?\b(?:Pathfinder RPG|Pathfinder Campaign Setting|Pathfinder Player Companion|Player[’']s Guide|Ultimate \w+|Bestiary|Mythic Adventures|Occult Adventures|Advanced Class Guide|Codex|Handbook|Adventures)\b[^()]*?\d+[^()]*?)\)/g;
 function scrubNames(t) {
-  return String(t).replace(DEITY_RE, (all, start, name) => {
+  return String(t).replace(CITATION, '').replace(DEITY_RE, (all, start, name) => {
     let r = DEITIES[name];
     // adjectives become one capitalized word ("Varisian Hagfish" -> "Frontier Hagfish"), phrases follow the sentence
     if (/^[A-Z]/.test(r)) return (start || '') + r.replace(/-/g, ' ');
@@ -214,8 +218,14 @@ function blockLines(html) {
     const segs = p.split(/(?=<b>)/);
     for (const s of segs) {
       const m = s.match(/^<b>([\s\S]*?)<\/b>([\s\S]*)$/);
-      if (m) lines.push({ label: plainText(m[1]), text: plainText(m[2]).replace(/^;\s*/, '').replace(/;\s*$/, ''), html: m[2] });
-      else if (plainText(s)) lines.push({ label: '', text: plainText(s).replace(/^;\s*/, '').replace(/;\s*$/, ''), html: s });
+      // trailing ";" or "," belongs to the separator before the next label ("Space 15 ft., Reach 15 ft.")
+      if (m) lines.push({ label: plainText(m[1]), text: plainText(m[2]).replace(/^;\s*/, '').replace(/[;,]\s*$/, ''), html: m[2] });
+      else if (plainText(s)) {
+        const prev = lines[lines.length - 1];
+        // an attack line that ends in "or" goes on in the next line
+        if (prev && /^(Melee|Ranged)$/.test(prev.label) && /\bor$/.test(prev.text)) { prev.text += ' ' + plainText(s).replace(/[;,]\s*$/, ''); continue; }
+        lines.push({ label: '', text: plainText(s).replace(/^;\s*/, '').replace(/[;,]\s*$/, ''), html: s });
+      }
     }
   }
   return lines;
@@ -265,10 +275,12 @@ function parseAttacks(text, kind) {
     for (const it of splitTop(g, ',')) {
       for (const part of splitTop(it, ' and ')) {
         // "2 claws +10 (1d6+4)", "glaive +11/+6 melee (1d10+6 plus infernal wound)", "2 light rays +3 ranged touch (1d6)"
-        const m = part.match(/^(?:(\d+)\s+)?(.*?)\s+((?:[+-]\d+\/)*[+-]\d+)\s*(?:melee|ranged)?\s*(touch)?\s*(?:\(([\s\S]*)\))?\s*$/);
+        // text after the parenthesis joins the rider: "3 tentacles +15 (1d8+2) plus arcane consumption"
+        const m = part.match(/^(?:(\d+)\s+)?(.*?)\s+((?:[+-]\d+\/)*[+-]\d+)\s*(?:melee|ranged)?\s*(touch)?\s*(?:\(([\s\S]*)\))?\s*(plus .*|vs\. .*)?$/);
         if (m) {
           const bonuses = m[3].split('/').map(x => parseInt(x, 10));
           const dmg = parseDamage(m[5] || '');
+          if (m[6]) dmg.rider = (dmg.rider ? dmg.rider + ' ' : '') + m[6];
           items.push({ name: m[2].trim(), count: m[1] ? +m[1] : 1, bonuses, touch: !!m[4], kind, ...dmg });
           continue;
         }
@@ -351,7 +363,7 @@ function parseSpecials(html) {
 function parseBlock(html, source) {
   const title = plainText((html.match(/<h2 class="title">([\s\S]*?)<\/h2>/) || [])[1] || '');
   const lines = blockLines(html.replace(/<h2 class="title">[\s\S]*?<\/h2>/, '').replace(/<b>Source<\/b>[\s\S]*?<br\s*\/?>/, ''));
-  const tm = title.match(/^(.*?)\s+CR\s+(\S+)/);
+  const tm = title.match(/^(.*?)\s+CR\s+(\d+(?:\/\d+)?(?:\s*\/\s*MR\s*\d+)?|\S+)/); // "CR 9/MR 3" on mythic creatures
   const name = tm ? tm[1] : title, cr = tm ? tm[2] : '';
   const plainLines = lines.filter(l => !l.label).map(l => l.text);
   const typeLine = plainLines.find(t => /\b(fine|diminutive|tiny|small|medium|large|huge|gargantuan|colossal)\b/i.test(t) && /\b(LG|NG|CG|LN|N|CN|LE|NE|CE|any|always|often|usually)\b/.test(t)) || '';
@@ -413,6 +425,10 @@ function pageFor(html, bookKey) {
   while ((m = re.exec(main))) {
     const b = m[0];
     const src = plainText((b.match(/<b>Source<\/b>([\s\S]*?)<br/) || [])[1] || '');
+    // only stat blocks: a golem's second title block is its Construction entry (no CR)
+    if (!/<h2 class="title">[^<]*\bCR\b/.test(b)) continue;
+    // template and variant boxes ("True Hunter (CR +1)") have no AC or hit points of their own
+    if (!/<b>AC<\/b>/.test(b) && !/<b>hp<\/b>/.test(b)) continue;
     blocks.push({ html: b, source: src });
   }
   const book = BOOKS[bookKey];

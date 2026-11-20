@@ -1,0 +1,49 @@
+# Titan
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mythic Fomorian Titan&quot;,&quot;cr&quot;:&quot;22/MR 8&quot;,&quot;xp&quot;:&quot;614,400&quot;,&quot;line&quot;:&quot;CE Colossal outsider (chaotic, evil, extraplanar, mythic)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft., divine spell perception&quot;,&quot;ac&quot;:&quot;41, touch 3, flat-footed 40&quot;,&quot;hp&quot;:&quot;413 (18d10+314); regeneration 15 (good artifacts, effects, and spells)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:24,&quot;Ref&quot;:9,&quot;Will&quot;:18},&quot;saveNote&quot;:&quot;+8 vs. mind–affecting, +4 vs. divine&quot;,&quot;defense&quot;:&quot;fortification (50%); DR 15/epic and lawful; Immune aging, death effects, disease; Resist electricity 30, fire 30; SR 33&quot;,&quot;aura&quot;:&quot;frightful presence (60 ft., DC 27)&quot;,&quot;speed&quot;:&quot;30 ft., (40 ft. base), air walk; space 30 ft., reach 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+3 speed wounding heavy mace&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[29,29,24,19,14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;6d6&quot;,&quot;mod&quot;:19,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;plus bleed and push&quot;},{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[26],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:24,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus push&quot;}]],&quot;specialAttacks&quot;:&quot;bleed (4d6), blood rage, mythic power (8/day, surge +1d10), push (heavy mace or slam, 10 ft.), rock throwing (100 ft.), trample (2d8+24, DC 35)&quot;,&quot;rangedTouch&quot;:11,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:28,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;mind blank&quot;,&quot;page&quot;:&quot;mind-blank&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;break enchantment&quot;,&quot;page&quot;:&quot;break-enchantment&quot;},{&quot;name&quot;:&quot;divination&quot;,&quot;page&quot;:&quot;divination&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;sending&quot;,&quot;page&quot;:&quot;sending&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;disintegrate&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;disintegrate&quot;,&quot;save&quot;:&quot;Fortitude partial (object)&quot;,&quot;damage&quot;:&quot;40d6&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;Fort save: 5d6 instead&quot;},{&quot;name&quot;:&quot;greater scrying&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;scrying-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;page&quot;:&quot;heal&quot;},{&quot;name&quot;:&quot;mass suggestion&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;suggestion-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cursed earthUM&quot;},{&quot;name&quot;:&quot;greater planar ally&quot;,&quot;page&quot;:&quot;planar-ally-greater&quot;},{&quot;name&quot;:&quot;mage’s disjunction&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;mages-disjunction&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;spell turning&quot;,&quot;page&quot;:&quot;spell-turning&quot;},{&quot;name&quot;:&quot;wish&quot;,&quot;page&quot;:&quot;wish&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Divine Resistance&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A fomorian titan gains a +4 deflection bonus to Armor Class and a +4 bonus on saving throws against attacks and effects from deities, outsiders who serve a deity, and divine spellcasters.&quot;},{&quot;name&quot;:&quot;Divine Spell Perception&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A fomorian titan automatically notices divine spellcasting within 60 feet. It automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.&quot;}],&quot;abilities&quot;:&quot;Str 42, Dex 12, Con 37, Int 29, Wis 20, Cha 27&quot;,&quot;combat&quot;:&quot;BAB +18; CMB +42 (+44 bull rush); CMD 53 (55 vs. bull rush)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:14,&quot;Bluff&quot;:29,&quot;Craft (any one)&quot;:30,&quot;Diplomacy&quot;:20,&quot;Heal&quot;:23,&quot;Intimidate&quot;:29,&quot;Knowledge (arcana)&quot;:21,&quot;Knowledge (history)&quot;:21,&quot;Knowledge (planes)&quot;:30,&quot;Knowledge (religion)&quot;:30,&quot;Perception&quot;:26,&quot;Sense Motive&quot;:26,&quot;Spellcraft&quot;:30,&quot;Survival&quot;:23,&quot;Swim&quot;:29,&quot;Use Magic Device&quot;:29,&quot;CMB&quot;:42},&quot;feats&quot;:&quot;Awesome Blow, Critical Focus, Improved Bull Rush, Improved CriticalM (heavy mace), Iron WillM, Lightning Reflexes, Power AttackM, Staggering Critical, Vital StrikeM&quot;,&quot;languages&quot;:&quot;Abyssal, Celestial, Common; telepathy 300 ft.&quot;}"></div>
+
+## Mythic Fomorian Titan (CR 22/MR 8)
+
+**XP** 614,400  
+CE Colossal outsider (chaotic, evil, extraplanar, mythic)  
+**Init** +1; **Senses** darkvision 60 ft., divine spell perception; Perception +26  
+**Aura** frightful presence (60 ft., DC 27)
+
+**Defense**
+
+**AC** 41, touch 3, flat-footed 40 (+14 armor, +1 Dex, +24 natural, –8 size; +4 deflection vs. divine)  
+**hp** 413 (18d10+314); regeneration 15 (good artifacts, effects, and spells)  
+**Fort** +24, **Ref** +9, **Will** +18; +8 vs. mind–affecting, +4 vs. divine  
+**Defensive Abilities** fortification (50%); **DR** 15/epic and lawful; **Immune** aging, death effects, disease; **Resist** electricity 30, fire 30; **SR** 33
+
+**Offense**
+
+**Speed** 30 ft., (40 ft. base), *air walk*  
+**Melee** *+3 speed wounding heavy mace* +29/+29/+24/+19/+14 (6d6+19/19–20/×3 plus bleed and push), slam +26 (2d8+24 plus push)  
+**Space** 30 ft., **Reach** 30 ft.  
+**Special Attacks** bleed (4d6), blood rage, mythic power (8/day, surge +1d10), push (heavy mace or slam, 10 ft.), rock throwing (100 ft.), trample (2d8+24, DC 35)  
+**Spell-Like Abilities** (CL 20th; concentration +28)  
+Constant—*air walk*, *mind blank*, *true seeing*  
+At will—*break enchantment*, *divination*, *greater dispel magic*, *sending*  
+3/day—*disintegrate* (DC 24), *greater scrying* (DC 25), *heal*, *mass suggestion* (DC 24)  
+1/day—*cursed earth*UM, *greater planar ally*, *mage’s disjunction* (DC 27), *spell turning*, *wish*
+
+**Statistics**
+
+**Str** 42, **Dex** 12, **Con** 37, **Int** 29, **Wis** 20, **Cha** 27  
+**Base Atk** +18; **CMB** +42 (+44 bull rush); **CMD** 53 (55 vs. bull rush)  
+**Feats** Awesome Blow, [Critical Focus](../../rules/feats/critical-focus.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved CriticalM (heavy mace)](../../rules/feats/improved-critical.md), [Iron WillM](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power AttackM](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Vital StrikeM](../../rules/feats/vital-strike.md)  
+**Skills** Acrobatics +14, Bluff +29, Craft (any one) +30, Diplomacy +20, Heal +23, Intimidate +29, Knowledge (arcana, history) +21, Knowledge (planes, religion) +30, Perception +26, Sense Motive +26, Spellcraft +30, Survival +23, Swim +29, Use Magic Device +29  
+**Languages** Abyssal, Celestial, Common; telepathy 300 ft.
+
+**Ecology**
+
+**Environment** any (Abyss)  
+**Organization** solitary, pair, or war band (3–6)  
+**Treasure** double (*+3 speed wounding heavy mace*, *+4 moderate fortification full plate*, other treasure)
+
+**Special Abilities**
+
+**Divine Resistance (Su)** A fomorian titan gains a +4 deflection bonus to Armor Class and a +4 bonus on saving throws against attacks and effects from deities, outsiders who serve a deity, and divine spellcasters.
+
+**Divine Spell Perception (Su)** A fomorian titan automatically notices divine spellcasting within 60 feet. It automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.

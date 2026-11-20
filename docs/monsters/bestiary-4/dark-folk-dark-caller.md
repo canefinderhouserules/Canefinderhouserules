@@ -39,7 +39,7 @@ At will—*bleed* (DC 14)
 
 **Environment** any underground  
 **Organization** solitary, pair, or gang (1 plus 2–5 dark stalkers), or clan (20–80 dark creepers plus 1 dark stalker and dark caller per 20 dark creepers)  
-**Treasure** standard (mwk dagger, black smear [2 doses; *Pathfinder RPG Bestiary* 54], other gear)
+**Treasure** standard
 
 **Special Abilities**
 
