@@ -89,4 +89,6 @@ crs.forEach(([key, { list }], i) => {
   fs.writeFileSync(path.join(OUT, file(key)), page);
 });
 fs.writeFileSync(path.join(OUT, 'index.md'), idx);
+// sidebar in CR order (alphabetical would put CR 10 before CR 2)
+fs.writeFileSync(path.join(OUT, '.nav.yml'), 'nav:\n  - index.md\n' + crs.map(([key]) => '  - "CR ' + key + '": ' + file(key) + '\n').join(''));
 console.log('by-cr:', crs.length, 'CR pages,', total, 'stat blocks,', skipped, 'without a numeric CR');
