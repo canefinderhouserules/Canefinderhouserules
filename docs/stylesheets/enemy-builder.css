@@ -91,3 +91,11 @@
 .md-typeset .eb-chip.eb-weak { background: rgba(120, 120, 120, .15); }
 .md-typeset .eb-chip a { text-decoration: none; }
 .md-typeset .eb-fx { color: var(--md-accent-fg-color); font-size: .6rem; }
+.md-typeset .eb-head-btns { display: flex; gap: .3rem; flex-wrap: wrap; justify-content: flex-end; }
+/* the Random enemy form */
+.eb-dialog { border: 1px solid var(--md-default-fg-color--lighter, #8884); border-radius: .4rem; padding: .6rem .9rem; max-width: min(22rem, calc(100vw - 32px));
+  background: var(--md-default-bg-color, #fff); color: var(--md-default-fg-color, #222); }
+.eb-dialog::backdrop { background: #0006; }
+.eb-dialog h3 { margin: 0 0 .3rem; }
+.eb-dialog .eb-field { display: flex; flex-direction: column; margin: 0 0 .45rem; }
+.eb-dialog .eb-actions { display: flex; gap: .4rem; justify-content: flex-end; }

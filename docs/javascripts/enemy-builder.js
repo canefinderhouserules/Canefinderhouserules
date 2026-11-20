@@ -10,12 +10,27 @@
   if (!root) return;
   var cfgEl = document.getElementById('__config');
   var BASE = new URL(cfgEl ? JSON.parse(cfgEl.textContent).base.replace(/\/?$/, '/') : '../../', location.href);
-  // data-mode="starwars" (tools/starwars-builder.md): the Star Wars subsystem's classes, class feature lists, weapons and Force powers
-  var SWM = root.getAttribute('data-mode') === 'starwars';
-  var KEY = SWM ? 'starwars-builder:current' : 'enemy-builder:current', LIB = SWM ? 'starwars-builder:saved' : 'enemy-builder:saved';
+  // data-mode: a subsystem with three classes that pick class features by price (tools/build-starwars-builder.js):
+  // "starwars" (tools/starwars-builder.md), "chakra" (Naruto, tools/naruto-builder.md), "superheroes" (Heroes,
+  // tools/heroes-builder.md). They share everything; this says what each calls things and what it has of its own.
+  var MODE = root.getAttribute('data-mode') || '';
+  var SUBS = {
+    starwars: { data: 'starwars-builder-data.json', res: 'stamina', powers: 'Force powers', page: 'campaign-systems/star-wars/', powersPage: 'campaign-systems/star-wars/force-powers/',
+      force: true, karma: true, lang: 'Basic', noClass: '— no class (a creature or droid) —',
+      skills: { 'Knowledge (arcana)': 'Science', 'Knowledge (planes)': 'Computers', 'Knowledge (engineering)': 'Engineering', 'Disable Device': 'Slicing' },
+      species: ['human', 'human', 'twi\'lek', 'zabrak', 'rodian', 'trandoshan', 'chiss', 'togruta', 'devaronian', 'weequay'] },
+    chakra: { data: 'chakra-builder-data.json', res: 'chakra', powers: 'Jutsu', page: 'campaign-systems/chakra/chakra-system/', powersPage: 'campaign-systems/chakra/jutsu/',
+      elements: true, lang: 'Common', noClass: '— no class (a creature or summon) —', skills: {}, species: ['human'] },
+    superheroes: { data: 'superheroes-builder-data.json', res: 'stamina', powers: 'Powers', page: 'campaign-systems/superheroes/', powersPage: 'campaign-systems/superheroes/spells-and-abilities/',
+      lang: 'Common', noClass: '— no class (a creature or robot) —', skills: {}, species: ['human', 'human', 'mutant', 'alien', 'android', 'metahuman'] }
+  };
+  var SUB = SUBS[MODE] || null, SWM = !!SUB;
+  var KEY = SWM ? MODE + '-builder:current' : 'enemy-builder:current', LIB = SWM ? MODE + '-builder:saved' : 'enemy-builder:saved';
   var SWD = null, FP_BY = {}, SW_ENTRIES = {}, SW_INFO = {};
   var PRICE_PTS = { iconic: 4, op: 4, common: 2, weak: 1 }, PRICE_LABEL = { iconic: 'Iconic', op: 'OP', common: 'Common', weak: 'Weak' };
-  var SW_SKILL = { 'Knowledge (arcana)': 'Science', 'Knowledge (planes)': 'Computers', 'Knowledge (engineering)': 'Engineering', 'Disable Device': 'Slicing' };
+  var SW_SKILL = SUB ? SUB.skills : {};
+  // the internal caster kind "Force Powers" is each subsystem's own powers (Force powers, jutsu, powers)
+  function kindLabel(k) { return k === 'Force Powers' && SUB ? SUB.powers : k; }
   var SW_COST = ['0–3', '1–10', '11–20', '21–30', '31–40', '41–50', '51–60', '61–70', '71–80', '81–100'];
 
   // ---------- rules tables ----------
@@ -48,6 +63,7 @@
     .concat(KNOW.map(function (k) { return ['Knowledge (' + k + ')', 'Int']; }))
     .concat([['Linguistics', 'Int'], ['Perception', 'Wis'], ['Ride', 'Dex'], ['Sense Motive', 'Wis'], ['Sleight of Hand', 'Dex'],
       ['Spellcraft', 'Int'], ['Stealth', 'Dex'], ['Survival', 'Wis'], ['Swim', 'Str'], ['Use Magic Device', 'Cha']]);
+  var TRAINED_ONLY = /^(Disable Device|Handle Animal|Knowledge|Linguistics|Profession|Sleight of Hand|Spellcraft|Use Magic Device)/;
   var ACP_SKILLS = { Acrobatics: 1, Climb: 1, 'Disable Device': 1, 'Escape Artist': 1, Fly: 1, Ride: 1, 'Sleight of Hand': 1, Stealth: 1, Swim: 1 };
   // natural attacks (Medium damage) and whether they are secondary by default
   var NATURAL = { bite: ['1d6'], claw: ['1d4'], gore: ['1d6'], slam: ['1d4'], sting: ['1d4'], talons: ['1d4'], hoof: ['1d4', 1], tentacle: ['1d4', 1],
@@ -79,7 +95,7 @@
     }
     return e;
   }
-  // a number with − / + buttons; the mouse wheel over it raises or lowers it (Shift: by 5)
+  // a number with − / + buttons; once clicked, the mouse wheel raises or lowers it (Shift: by 5), so scrolling the page past it changes nothing
   function numBox(get, set, opt) {
     opt = opt || {};
     var lim = function (v) {
@@ -94,8 +110,16 @@
     var wrap = h('span', { class: 'eb-num' + (opt.wide ? ' eb-wide' : '') },
       h('button', { type: 'button', class: 'eb-step', text: '−', tabIndex: -1, onclick: function () { step(-1); } }), input,
       h('button', { type: 'button', class: 'eb-step', text: '+', tabIndex: -1, onclick: function () { step(1); } }));
-    wrap.addEventListener('wheel', function (e) { e.preventDefault(); step((e.deltaY < 0 ? 1 : -1) * (e.shiftKey ? 5 : 1)); }, { passive: false });
+    wheelArm(wrap, input, step);
     return wrap;
+  }
+  // the wheel changes a number only after a click on it, and only until the mouse leaves it: scrolling the page past a box changes nothing
+  function wheelArm(wrap, input, step) {
+    var armed = false;
+    wrap.addEventListener('mousedown', function () { armed = true; });
+    wrap.addEventListener('mouseleave', function () { armed = false; });
+    input.addEventListener('blur', function () { armed = false; });
+    wrap.addEventListener('wheel', function (e) { if (!armed) return; e.preventDefault(); step((e.deltaY < 0 ? 1 : -1) * (e.shiftKey ? 5 : 1)); }, { passive: false });
   }
   // CR: like numBox, but it steps through 1/8, 1/6, 1/4, 1/3, 1/2, 1, 2... and takes typed fractions
   function crBox() {
@@ -110,7 +134,7 @@
     var wrap = h('span', { class: 'eb-num' },
       h('button', { type: 'button', class: 'eb-step', text: '−', tabIndex: -1, onclick: function () { step(-1); } }), input,
       h('button', { type: 'button', class: 'eb-step', text: '+', tabIndex: -1, onclick: function () { step(1); } }));
-    wrap.addEventListener('wheel', function (e) { e.preventDefault(); step((e.deltaY < 0 ? 1 : -1) * (e.shiftKey ? 5 : 1)); }, { passive: false });
+    wheelArm(wrap, input, step);
     return wrap;
   }
   function textBox(get, set, opt) {
@@ -171,7 +195,7 @@
       abil: { Str: 10, Dex: 10, Con: 10, Int: 10, Wis: 10, Cha: 10 }, skills: {}, feats: [],
       armor: '', armorEnh: 0, shield: '', shieldEnh: 0, natural: 0, deflection: 0, dodge: 0, hpMisc: 0, maxHp: true, initMisc: 0,
       saveMisc: { Fort: 0, Ref: 0, Will: 0 }, speed: '30 ft.', senses: '', languages: 'Common', defense: '', aura: '', sq: '', gear: '',
-      specialAttacks: '', weapons: [], casters: [], special: [], classes: [], sw: { karma: 0, force: false, abil: 'Wis' } };
+      specialAttacks: '', weapons: [], casters: [], special: [], classes: [], sw: { karma: 0, force: false, abil: 'Wis' }, mythic: { tier: 0, picks: [] } };
   }
   var S = blank();
   try { var saved = JSON.parse(localStorage.getItem(KEY)); if (saved) S = Object.assign(blank(), saved); } catch (e) {}
@@ -348,12 +372,36 @@
     for (var i = 0; i < DATA.weapons.length; i++) if (DATA.weapons[i].n.toLowerCase() === n) return DATA.weapons[i];
     return null;
   }
+  // fighter weapon groups (Weapon Focus): "Blades, Heavy" / "heavy blades weapons" / "naturals" -> "heavy blades" / "natural"
+  function groupKey(s) {
+    s = String(s || '').toLowerCase().replace(/\s+(weapons?|attacks?)$/, '').trim().replace(/^(blades), (heavy|light)$/, '$2 $1');
+    if (/^naturals?$/.test(s)) return 'natural';
+    if (/^rays?$/.test(s)) return 'ray';
+    if (/^lightsabers?$/.test(s)) return 'lightsabers';
+    return s;
+  }
+  function weaponGroups(w) {
+    var n = String(w.n || '').toLowerCase().trim();
+    if (/^nat/.test(w.mode) || NATURAL[n] && n !== 'unarmed strike') return ['natural'];
+    if (n === 'unarmed strike') return ['close', 'monk', 'natural'];
+    var d = weaponData(n), g = d && d.g ? d.g.slice() : [];
+    if (d && d.p === 'blaster') g.push('firearms');
+    if (d && d.p === 'lightsaber') g.push('lightsabers');
+    return g;
+  }
+  function allGroups() {
+    var set = { natural: 1, close: 1, monk: 1, firearms: 1, ray: 1 };
+    DATA.weapons.forEach(function (w) { (w.g || []).forEach(function (g) { set[g] = 1; }); });
+    if (SWM) set.lightsabers = 1;
+    return Object.keys(set).sort();
+  }
   function armorData(n) { for (var i = 0; i < DATA.armors.length; i++) if (DATA.armors[i].n === n) return DATA.armors[i]; return null; }
-  function featSlug(n) {
+  function featData(n) {
     var base = String(n).replace(/\s*\(.*$/, '').trim().toLowerCase();
-    for (var i = 0; i < DATA.feats.length; i++) if (DATA.feats[i].n.toLowerCase() === base) return DATA.feats[i].u;
+    for (var i = 0; i < DATA.feats.length; i++) if (DATA.feats[i].n.toLowerCase() === base) return DATA.feats[i];
     return null;
   }
+  function featSlug(n) { var f = featData(n); return f ? f.u : null; }
 
   // ---------- the numbers ----------
   function compute() {
@@ -414,7 +462,7 @@
     if (SWM) {
       var sw = S.sw || (S.sw = { karma: 0, force: false, abil: 'Wis' });
       var swc = cls.filter(function (c) { return CLASS_BY[c.s].sw; })[0], swl = swc ? swc.lvl : 0;
-      var forceS = !!(swc && swc.s === 'sw-consular') || !!sw.force;
+      var forceS = !!SUB.force && (!!(swc && CLASS_BY[swc.s].role === 'caster') || !!sw.force);
       // Force Sensitive: +1 dodge AC, +1 more at 3rd level and every 3 levels
       var fsDodge = forceS ? 1 + Math.floor(hd / 3) : 0;
       dodge += fsDodge;
@@ -475,35 +523,53 @@
       t += (FX.skill[n] || 0) + (/^Knowledge/.test(n) ? FX.know : 0);
       if (focus.indexOf(n.toLowerCase()) >= 0) { t += r >= 10 ? 6 : 3; autoNote('Skill Focus (' + n.toLowerCase() + ')', sgn(r >= 10 ? 6 : 3) + ' ' + n); }
       if (has('Alertness') && (n === 'Perception' || n === 'Sense Motive')) { t += r >= 10 ? 4 : 2; autoNote('Alertness', '+2 Perception and Sense Motive (+4 at 10 ranks)'); }
-      D.skills[n] = { total: t, shown: r > 0 || !!st.misc || !!st.show };
+      // a skill only used trained (Disable Device, Knowledge...) shows — in the grid without ranks
+      D.skills[n] = { total: t, shown: r > 0 || !!st.misc || !!st.show, disp: TRAINED_ONLY.test(n) && !r ? '—' : sgn(t) };
     });
 
     // attacks
     var wf = featArg('Weapon Focus'), gwf = featArg('Greater Weapon Focus'), ws = featArg('Weapon Specialization'), gws = featArg('Greater Weapon Specialization'), ic = featArg('Improved Critical');
     var hits = function (list, n) { n = n.toLowerCase(); return list.filter(function (x) { return x && (n === x || n.indexOf(x) >= 0 || x.indexOf(n) >= 0 || x.replace(/s$/, '') === n); }).length; };
-    var twf = has('Two-Weapon Fighting'), itwf = has('Improved Two-Weapon Fighting') || has('Greater Two-Weapon Fighting');
+    var twf = has('Two-Weapon Fighting'), itwf = has('Improved Two-Weapon Fighting') || has('Greater Two-Weapon Fighting'), dslice = has('Double Slice');
     var multi = has('Multiattack'), rapid = has('Rapid Shot');
     var naturals = S.weapons.filter(function (w) { return /^nat/.test(w.mode); });
+    // the wiki's Weapon Focus takes a weapon group and gives +1 base attack bonus with it (extra attacks too); an old
+    // "Weapon Focus (longsword)" still works by the weapon's name
+    var wfGroups = wf.map(groupKey);
+    if (wfGroups.indexOf('ray') >= 0) { D.rangedTouch += 1; autoNote('Weapon Focus (' + wf[wfGroups.indexOf('ray')] + ')', '+1 BAB with rays'); }
     D.attacks = S.weapons.map(function (w) {
       var a = { row: w }, nat = /^nat/.test(w.mode), ranged = w.mode === 'ranged' || w.mode === 'thrown';
       var n = String(w.n || 'attack').trim().toLowerCase();
       var light = w.cat === 'light' || nat;
       var useDex = ranged || ((finesse || w.finesse) && (light || FINESSE.test(n)) && M.Dex > M.Str);
       var enh = w.enh || 0, mw = !enh && w.mwk && !nat ? 1 : 0;
-      var focusN = hits(wf, n) + hits(gwf, n);
-      if (focusN) autoNote('Weapon Focus (' + n + ')', '+1 attack with ' + n);
-      a.atk = D.bab + (useDex ? M.Dex : M.Str) + sz.ac + enh + mw + focusN + (w.misc || 0) + (nat ? 0 : FX.wAtk);
+      var groups = weaponGroups(w), wfB = 0;
+      wf.forEach(function (arg, i) {
+        if (wfB) return;
+        if (groups.indexOf(wfGroups[i]) >= 0) { wfB = 1; autoNote('Weapon Focus (' + arg + ')', '+1 BAB with ' + wfGroups[i] + ' (' + n + ')'); }
+        else if (hits([arg], n)) { wfB = 1; autoNote('Weapon Focus (' + arg + ')', '+1 BAB with ' + n); }
+      });
+      var gwfN = hits(gwf, n);
+      if (gwfN) autoNote('Greater Weapon Focus (' + n + ')', '+1 attack with ' + n);
+      a.bab = D.bab + wfB; a.groups = groups;
+      a.atk = a.bab + (useDex ? M.Dex : M.Str) + sz.ac + enh + mw + gwfN + (w.misc || 0) + (nat ? 0 : FX.wAtk);
       if (w.mode === 'nat2') a.atk -= multi ? 2 : 5;
       if (multi && w.mode === 'nat2') autoNote('Multiattack', 'secondary natural attacks at –2');
       var strD = M.Str;
       if (w.mode === 'two' || (w.mode === 'nat1' && naturals.length === 1 && (w.count || 1) === 1 && S.weapons.length === 1)) strD = M.Str > 0 ? Math.floor(M.Str * 1.5) : M.Str;
       if (w.mode === 'off' || w.mode === 'nat2') strD = M.Str > 0 ? Math.floor(M.Str / 2) : M.Str;
+      if (w.mode === 'off' && dslice) { strD = M.Str; autoNote('Double Slice', 'full Str to off-hand damage'); }
       if (w.mode === 'ranged' && !w.strDmg) strD = Math.min(0, M.Str); // bows: a Str penalty, no bonus (composite: tick Str to damage)
+      if (w.single) strD = 0; // a kinetic blast: its damage is its own (Con), already in its damage misc
       var spec = (hits(ws, n) + hits(gws, n)) * 2;
       if (spec) autoNote('Weapon Specialization (' + n + ')', '+2 damage with ' + n);
       var wd = weaponData(w.n), gun = ranged && FX.gunDex && (wd ? wd.p === 'blaster' || /firearm/i.test(wd.c + ' ' + (wd.ty || '')) : /blaster|pistol|rifle|musket/.test(n));
       a.dmgMod = strD + enh + spec + (w.dmgMisc || 0) + (nat ? 0 : FX.wDmg) + (gun ? M.Dex : 0);
-      a.dice = sizeDice(FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4', S.size);
+      // Improved Natural Attack (a monster feat): that natural attack's damage as if one size larger
+      var ina = nat && hits(featArg('Improved Natural Attack'), n);
+      if (ina) autoNote('Improved Natural Attack (' + n + ')', n + ' damage one size larger');
+      // (a kinetic blast's dice do not change with size)
+      a.dice = w.single ? w.d || '1d6' : sizeDice(FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4', ina ? SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, SIZE_ORDER.indexOf(S.size) + 1)] : S.size);
       a.threat = w.t || 20; a.mult = w.x || 2;
       if (hits(ic, n)) { a.threat = 21 - (21 - a.threat) * 2; autoNote('Improved Critical (' + n + ')', 'threat ' + a.threat + '–20'); }
       a.name = (enh ? '+' + enh + ' ' : mw ? 'mwk ' : '') + n;
@@ -529,9 +595,9 @@
           // natural attacks beside weapons are secondary
           if (a.nat && hasWeapon && a.row.mode === 'nat1') atk -= multi ? 2 : 5;
           var bonuses = [atk];
-          if (a.row.mode === 'off') { if (itwf) { bonuses.push(atk - 5); if (D.bab >= 11) bonuses.push(atk - 10); autoNote('Improved Two-Weapon Fighting', 'more off-hand attacks'); } }
-          else if (!a.nat) for (var k = 1; k <= 3 && D.bab - 5 * k >= 1; k++) bonuses.push(atk - 5 * k);
-          if (kind === 'ranged' && rapid && !a.nat) { bonuses = [bonuses[0] - 2].concat(bonuses.map(function (b) { return b - 2; })); autoNote('Rapid Shot', 'an extra ranged attack, –2 on all'); }
+          if (a.row.mode === 'off') { if (itwf) { bonuses.push(atk - 5); if (a.bab >= 11) bonuses.push(atk - 10); autoNote('Improved Two-Weapon Fighting', 'more off-hand attacks'); } }
+          else if (!a.nat && !a.row.single) for (var k = 1; k <= 3 && a.bab - 5 * k >= 1; k++) bonuses.push(atk - 5 * k);
+          if (kind === 'ranged' && rapid && !a.nat && !a.row.single) { bonuses = [bonuses[0] - 2].concat(bonuses.map(function (b) { return b - 2; })); autoNote('Rapid Shot', 'an extra ranged attack, –2 on all'); }
           var dmgMod = a.dmgMod + (a.nat && hasWeapon && a.row.mode === 'nat1' && M.Str > 0 ? Math.floor(M.Str / 2) - M.Str : 0);
           return { name: a.name, count: a.nat ? Math.max(1, a.row.count || 1) : 1, bonuses: bonuses, touch: false, kind: kind === 'ranged' ? 'Ranged' : 'Melee',
             dice: a.dice, mod: dmgMod, threat: a.threat, mult: a.mult, rider: a.row.rider || '' };
@@ -539,6 +605,7 @@
       });
     });
     // spells
+    var sf = featArg('Spell Focus'), gsf = featArg('Greater Spell Focus'), sspec = featArg('Spell Specialization');
     D.casters = S.casters.map(function (c) {
       var am = mod(S.abil[c.abil] || 10), cl = Math.max(1, Math.min(20, (c.cl || 1) + (D.sw ? D.sw.karma.cl : 0)));
       var out = { c: c, cl: cl, conc: cl + am, spells: [] };
@@ -547,12 +614,18 @@
         if (sp.fp) { var fpw = FP_BY[sp.n.toLowerCase()] || {}; info = { n: fpw.n || sp.n, sv: fpw.save, du: fpw.dur }; }
         var sv = String(info.sv || '').replace(/\s*\(harmless[^)]*\)/ig, '').trim();
         var noSave = !sv || /^(none|no|—|-)$/i.test(sv) || /see text/i.test(sv) && sv.length < 12;
-        var b = { name: (info.n || sp.n || '').toLowerCase(), page: sp.u || '', lvl: lvl, uses: sp.uses };
+        var b = { name: ((sp.as ? sp.as + (sp.as.toLowerCase().indexOf(String(info.n || sp.n).toLowerCase()) >= 0 ? '' : ' (' + (info.n || sp.n) + ')') : info.n || sp.n) || '').toLowerCase(), page: sp.u || '', lvl: lvl, uses: sp.uses };
         if (sp.fp) b.page = '';
-        if (!noSave) { b.dc = 10 + lvl + am + (D.sw ? D.sw.karma.dc : 0); b.save = sv; }
-        var r = (DATA.rolls[sp.u] || [])[cl - 1];
+        // Spell Focus / Greater Spell Focus: +1 DC each for their school; Spell Specialization: caster level +2 for that spell
+        var school = String(info.s || '').toLowerCase(), sfN = school ? (sf.indexOf(school) >= 0 ? 1 : 0) + (gsf.indexOf(school) >= 0 ? 1 : 0) : 0;
+        if (sfN) autoNote('Spell Focus (' + school + ')', '+1 DC with ' + school + ' spells');
+        if (sfN > 1) autoNote('Greater Spell Focus (' + school + ')', '+1 more DC with ' + school + ' spells');
+        var spec = sspec.indexOf(b.name) >= 0 ? 2 : 0, scl = Math.min(20, cl + spec);
+        if (spec) { autoNote('Spell Specialization (' + b.name + ')', b.name + ' at caster level ' + scl); b.name += ' (CL ' + scl + ')'; }
+        if (!noSave) { b.dc = 10 + lvl + am + sfN + (D.sw ? D.sw.karma.dc : 0); b.save = sv; }
+        var r = (DATA.rolls[sp.u] || [])[scl - 1];
         if (r) Object.keys(r).forEach(function (k) { b[k] = r[k]; });
-        var du = durationAt(info.du, cl); if (du) b.duration = du;
+        var du = durationAt(info.du, scl); if (du) b.duration = du;
         if (c.kind === 'Force Powers') b.cost = sp.fp && FP_BY[sp.n.toLowerCase()] ? FP_BY[sp.n.toLowerCase()].cost : SW_COST[lvl];
         return b;
       });
@@ -563,7 +636,8 @@
 
   // the creature in the form of the monster pages' Roll20 data (see roll20-export.js)
   function roll20Data(D) {
-    var m = { name: S.name || 'Enemy', cr: String(S.cr || ''), xp: XP[S.cr] ? String(XP[S.cr]) : '' };
+    var MT = mythicTier();
+    var m = { name: S.name || 'Enemy', cr: String(S.cr || '') + (MT ? '/MR ' + MT : ''), xp: XP[S.cr] ? String(XP[S.cr]) : '' };
     m.line = [S.align, S.size, S.type + (S.subtypes ? ' (' + S.subtypes + ')' : '')].filter(Boolean).join(' ');
     var classText = (S.classes || []).filter(function (c) { return CLASS_BY[c.s]; }).map(function (c) {
       return CLASS_BY[c.s].n.toLowerCase() + ' ' + c.lvl + ((c.arch || []).length ? ' (' + c.arch.join(', ').toLowerCase() + ')' : '');
@@ -573,7 +647,7 @@
     m.senses = [S.senses].concat(D.fx.senses).filter(Boolean).join(', ');
     if (S.aura) m.aura = S.aura;
     m.ac = D.acText.replace(/ \(.*$/, '');
-    m.hp = D.hpText + (D.sw && D.sw.stamina ? '; stamina ' + D.sw.stamina : '');
+    m.hp = D.hpText + (D.sw && D.sw.stamina ? '; ' + SUB.res + ' ' + D.sw.stamina : '');
     m.saves = { Fort: D.saves.Fort, Ref: D.saves.Ref, Will: D.saves.Will };
     var defs = [S.defense, D.fx.def.length ? 'Defensive Abilities ' + D.fx.def.join(', ') : '', D.fx.dr ? 'DR ' + D.fx.dr + '/—' : ''].filter(Boolean).join('; ');
     if (defs) m.defense = defs;
@@ -588,17 +662,22 @@
         if (!groups[label]) { groups[label] = []; order.push({ label: label, lvl: s.lvl, sla: sla }); }
         var b = {};
         Object.keys(s).forEach(function (k) { if (k !== 'lvl' && k !== 'uses') b[k] = s[k]; });
-        if (s.cost) { b.effect = (b.effect ? b.effect + '; ' : '') + 'stamina ' + s.cost; delete b.cost; }
+        if (s.cost) { b.effect = (b.effect ? b.effect + '; ' : '') + SUB.res + ' ' + s.cost; delete b.cost; }
         if (!sla && c.c.kind === 'Spells Prepared' && s.uses && /^\d+$/.test(String(s.uses)) && +s.uses > 1) b.note = String(s.uses);
         groups[label].push(b);
       });
       var rank = function (l) { var t = l.label.toLowerCase(); return l.sla ? (/constant/.test(t) ? 0 : /will/.test(t) ? 1 : 100 - (parseInt(t, 10) || 0)) : -l.lvl; };
       order.sort(function (a, b) { return rank(a) - rank(b); });
-      return { title: (c.c.cls && !sla ? c.c.cls.replace(/^./, function (x) { return x.toUpperCase(); }) + ' ' : '') + c.c.kind, cl: c.cl, concentration: c.conc,
+      return { title: (c.c.cls && !sla ? c.c.cls.replace(/^./, function (x) { return x.toUpperCase(); }) + ' ' : '') + (c.c.title || kindLabel(c.c.kind)), cl: c.cl, concentration: c.conc,
         levels: order.map(function (l) { return { label: l.label, spells: groups[l.label] }; }) };
     });
     if (!m.spells.length) delete m.spells;
     m.special = S.special.filter(function (s) { return s.name; }).map(function (s) { return { name: s.name, type: s.type || '', text: s.text || '' }; });
+    // mythic (Unbound Path): its power and the path abilities bought with its points
+    if (MT) {
+      m.special.push({ name: 'Mythic Power', type: 'Su', text: (2 + MT) + '/day. Mythic tier ' + MT + ' (Unbound Path): its mythic abilities spend uses of it.' });
+      S.mythic.picks.filter(function (p) { return p.kind === 'ability'; }).forEach(function (p) { m.special.push({ name: p.n, type: p.type || '', text: p.text || '' }); });
+    }
     D.features.filter(function (x) { return x.on; }).forEach(function (x) {
       var nm = x.label || x.name, b = { name: nm, type: x.type, text: x.text || nm };
       var dice = nm.match(/\b\d+d\d+(?:[+-]\d+)?/);
@@ -610,10 +689,11 @@
     m.checks = {};
     SKILLS.forEach(function (sk) { if (D.skills[sk[0]].shown) m.checks[sk[0]] = D.skills[sk[0]].total; });
     m.checks.CMB = D.cmb;
-    if (D.feats.length) m.feats = D.feats.join(', ');
+    var mfeats = MT ? S.mythic.picks.filter(function (p) { return p.kind === 'feat'; }).map(function (p) { return p.n; }) : [];
+    if (D.feats.length || mfeats.length) m.feats = D.feats.concat(mfeats).join(', ');
     if (S.languages) m.languages = S.languages;
     if (S.sq) m.sq = S.sq;
-    if (D.sw && (D.sw.force || S.sw.karma)) m.sq = [S.sq, D.sw.force ? 'Force sensitive' : '', S.sw.karma ? 'karma ' + sgn(S.sw.karma).replace('–', '-') : ''].filter(Boolean).join(', ');
+    if (D.sw && (D.sw.force || S.sw.karma || S.sw.element)) m.sq = [S.sq, D.sw.force ? 'Force sensitive' : '', S.sw.karma ? 'karma ' + sgn(S.sw.karma).replace('–', '-') : '', S.sw.element ? 'elemental affinity (' + S.sw.element.toLowerCase() + ')' : ''].filter(Boolean).join(', ');
     if (S.gear) m.gear = S.gear;
     return m;
   }
@@ -675,6 +755,194 @@
     return L.join(md ? '\n' : '');
   }
 
+  // ---------- mythic tiers (rules/mythic/unbound-path.md) ----------
+  // 2 mythic points per tier, spent on path abilities of any path (their cost, at their tier) or mythic feats (1 each)
+  function mythicTier() { return S.mythic && S.mythic.tier > 0 ? S.mythic.tier : 0; }
+  var MYTHIC_ENTRIES = null;
+  function mythicEntries() {
+    if (MYTHIC_ENTRIES || !DATA.mythic) return MYTHIC_ENTRIES || {};
+    var by = {};
+    DATA.mythic.abilities.forEach(function (a) { by[a.n + ' — [' + a.cost + '] ' + a.path + ', tier ' + a.tier] = { kind: 'ability', n: a.n, cost: a.cost, tier: a.tier, type: a.type, path: a.path, text: a.text + (a.note ? ' (' + a.note + ')' : ''), link: 'rules/mythic/unbound-path/#' + a.u }; });
+    DATA.mythic.feats.forEach(function (n) { by[n + ' — [1] mythic feat'] = { kind: 'feat', n: n, cost: 1, tier: 1, link: 'rules/feats/' + (featSlug(n) || '') + '/' }; });
+    return (MYTHIC_ENTRIES = by);
+  }
+  function mythicSpent() { return (S.mythic.picks || []).reduce(function (t, p) { return t + (p.cost || 0); }, 0); }
+  function mythicCard() {
+    S.mythic = S.mythic || { tier: 0, picks: [] };
+    return card('Mythic tier', slot(function (redraw) {
+      var T = mythicTier(), spent = mythicSpent(), by = mythicEntries();
+      var msg = h('small', { class: 'eb-over' });
+      var input = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search the path abilities and mythic feats…' });
+      input.setAttribute('list', 'eb-mythic-list');
+      var add = function () {
+        var e = by[input.value]; if (!e) return;
+        if (e.tier > T) { msg.textContent = e.n + ' needs mythic tier ' + e.tier + '.'; return; }
+        if (spent + e.cost > 2 * T) { msg.textContent = 'Not enough mythic points: ' + (2 * T - spent) + ' left, ' + e.n + ' costs ' + e.cost + '.'; return; }
+        S.mythic.picks.push({ kind: e.kind, n: e.n, cost: e.cost, type: e.type || '', text: e.text || '', link: e.link });
+        input.value = ''; changed(); redraw();
+      };
+      input.addEventListener('input', function () { if (by[input.value]) add(); });
+      input.addEventListener('change', add);
+      var over = spent > 2 * T;
+      return h('div', null,
+        h('div', { class: 'eb-grid' },
+          field('Mythic tier', numBox(function () { return S.mythic.tier || 0; }, function (v) { S.mythic.tier = v; }, { min: 0, max: 10 }), '0 = not mythic'),
+          T ? h('p', { class: 'eb-out' }, h('span', { class: over ? 'eb-over' : '', text: spent + '/' + (2 * T) + ' mythic points' }), ' · mythic power ' + (2 + T) + '/day · CR shown as ' + (S.cr || '?') + '/MR ' + T) : null),
+        T ? h('div', { class: 'eb-chips' }, S.mythic.picks.map(function (p, i) {
+          return h('span', { class: 'eb-chip', title: p.text || '' }, h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: '[' + p.cost + ']' }),
+            h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { S.mythic.picks.splice(i, 1); changed(); redraw(); } }));
+        })) : null,
+        T && spent < 2 * T ? h('div', { class: 'eb-inline' }, input) : null, msg,
+        h('p', { class: 'eb-note', html: 'With the table\'s <a href="' + esc(new URL('rules/mythic/unbound-path/', BASE).href) + '" target="_blank">Unbound Path</a>: each tier gives 2 mythic points for path abilities of any path (their cost in brackets, at their tier or later) or mythic feats (1 each), and nothing else; mythic power is 2 + tier per day. The CR stays the one you set; the tiers go on top, as for a mythic party of that level.' }));
+    }));
+  }
+  // what a random mythic enemy buys: abilities of the paths that fit it (and the universal ones), and mythic versions of
+  // feats it has; never ones for exploration, crafting, companions or shapechanging
+  var MYTHIC_BAN = /display of|commune|craft|longevity|sustenance|item|tongues|sleepless|knot|clown|drinker|traveler|tracker|mounted|steed|familiar|companion|animal|plant|flowers|pilgrim|sanctum|star walker|interplanar|farwalker|scry|crime spree|dilettante|wall run|climbing|swimming|bounty|knowledgeable|commanding entrance|fast friends|stones will weep|demagogue|mob ruler|binding ritual|beyond morality|unchanging|pure |enhance magic|insightful|impeccable intuition|hear the word|alignment insight|knowledge|mimic|performance|prestidigitation|trap|glide|seven-league|feather step|shap|shift|wild shape|many forms|transformative|life current|summons|raise animal|endless|recalled|overcome curse|undying|water of life/i;
+  var MYTHIC_PATHS = { brute: { Champion: 3, Guardian: 3 }, warrior: { Champion: 3, Guardian: 2, Marshal: 1 }, skirmisher: { Trickster: 3, Champion: 1 },
+    caster: { Archmage: 3, Hierophant: 1 }, 'sw-warrior': { Champion: 3, Guardian: 2 }, 'sw-specialist': { Trickster: 3, Champion: 1 }, 'sw-consular': { Archmage: 3, Hierophant: 1 } };
+  // abilities that need something the enemy has: a class feature to improve, weapons, a ranged attack, spells, a mind
+  var MYTHIC_NEEDS = [[/rage/i, /barbarian|bloodrager|skald|rage/i], [/smite/i, /paladin|antipaladin|smite/i], [/\bki\b/i, /monk|ninja|\bki\b/i],
+    [/bloodline/i, /sorcerer|bloodrager|bloodline/i], [/hex/i, /witch|shaman|hex/i], [/mythic school|flexible school/i, /wizard|school/i],
+    [/domain/i, /cleric|warpriest|domain/i], [/channel/i, /cleric|paladin|warpriest|channel/i], [/weapon training/i, /fighter|weapon training/i],
+    [/inspire|minion|rally|clarion|words of|aura of perseverance|shared alertness/i, null]];
+  var MYTHIC_RANGED = /barrage|sniper|unstoppable shot|limitless range|fistful|hurler|deadly throw|ricochet|ranged disarm|ranged disable|aim for the eye|distant/i;
+  var MYTHIC_WEAPON = /blade|disarm|sunder|parry|always armed|clean blade|precision critical|critical master|perfect strike|sweeping strike|maximized critical|weapon/i;
+  var MYTHIC_CASTER = /spell|arcane|casting|caster|metamastery|counterspell|eldritch|mage strike|wild arcana|potency|component|summons|scrying|illusion|teleport|preparation|remixer|sieve/i;
+  function mythicFits(e) {
+    var n = e.n, have = (S.classes || []).map(function (c) { return (CLASS_BY[c.s] || {}).n || ''; }).join(' ') + ' ' + ((lastD && lastD.features) || []).map(function (x) { return x.name; }).join(' ')
+      + ' ' + ((S.classes || [])[0] && S.classes[0].picks ? S.classes[0].picks.map(function (p) { return p.n; }).join(' ') : '');
+    for (var i = 0; i < MYTHIC_NEEDS.length; i++) if (MYTHIC_NEEDS[i][0].test(n)) { if (!MYTHIC_NEEDS[i][1] || !MYTHIC_NEEDS[i][1].test(have)) return false; }
+    var weapons = (S.weapons || []).filter(function (w) { return !/^nat/.test(w.mode); }), ranged = (S.weapons || []).some(function (w) { return /^(ranged|thrown)$/.test(w.mode); });
+    if (MYTHIC_RANGED.test(n) && !ranged) return false;
+    if (MYTHIC_WEAPON.test(n) && !weapons.length) return false;
+    if (MYTHIC_CASTER.test(n) && !(S.casters || []).length) return false;
+    if (/armor master|armored might|enduring armor/i.test(n) && !S.armor) return false;
+    if (S.abil.Int <= 2 && /mind|minion|feint|lie|persuasive|tactical|inspire|command/i.test(n)) return false;
+    return true;
+  }
+  function randomMythic(tier, concept) {
+    S.mythic = { tier: tier, picks: [] };
+    var by = mythicEntries(), list = Object.keys(by).map(function (k) { return by[k]; }), points = 2 * tier, used = {};
+    var paths = Object.assign({ Universal: 1 }, MYTHIC_PATHS[concept] || { Champion: 1, Archmage: 1, Trickster: 1 });
+    // a divine caster's power is the hierophant's
+    if (concept === 'caster' && S.casters[0] && /cleric|druid|oracle|inquisitor|warpriest|shaman|spiritualist|hunter/.test(S.casters[0].cls || '')) { paths.Hierophant = 3; paths.Archmage = 1; }
+    var mythicFeats = (S.feats || []).map(function (n) { return n.replace(/\s*\(.*$/, '') + ' (Mythic)'; }).filter(function (n, i, a) { return DATA.mythic.feats.indexOf(n) >= 0 && a.indexOf(n) === i; });
+    var abilities = list.filter(function (e) { return e.kind === 'ability' && paths[e.path] && e.tier <= tier && e.cost >= 1 && !MYTHIC_BAN.test(e.n) && !(SWM && FLAVOR_BAN.test(e.n)) && mythicFits(e); });
+    for (var guard = 0; points > 0 && guard < 50; guard++) {
+      var e = null;
+      if (mythicFeats.length && chance(0.35)) e = by[mythicFeats.shift() + ' — [1] mythic feat'];
+      if (!e) {
+        var pool = abilities.filter(function (a) { return a.cost <= points && !used[a.n]; });
+        if (!pool.length) { if (mythicFeats.length) { e = by[mythicFeats.shift() + ' — [1] mythic feat']; } else break; }
+        else {
+          var ws = pool.map(function (a) { return paths[a.path] * (a.cost >= 2 ? 1.3 : 1); }), r = Math.random() * ws.reduce(function (x, y) { return x + y; }, 0);
+          e = pool[pool.length - 1];
+          for (var i = 0; i < pool.length; i++) { r -= ws[i]; if (r <= 0) { e = pool[i]; break; } }
+        }
+      }
+      if (!e || used[e.n]) continue;
+      used[e.n] = 1; points -= e.cost;
+      S.mythic.picks.push({ kind: e.kind, n: e.n, cost: e.cost, type: e.type || '', text: e.text || '', link: e.link });
+    }
+  }
+
+  // a random barbarian's rage powers (one at 2nd level and every 2 levels): often a stance first, then what it unlocks,
+  // at their level and with the powers they need; ones only for senses or moving around are unlikely
+  function randomRagePowers() {
+    var c = S.classes.filter(function (x) { return x.s === 'barbarian'; })[0], n = Math.floor((c.lvl || 1) / 2), list = DATA.ragePowers || [], got = [];
+    var has = function (name) { return got.some(function (p) { return p.n.toLowerCase() === name.toLowerCase(); }); };
+    var ok = function (p) { return p.lvl <= c.lvl && !has(p.n) && p.needs.every(has); };
+    // one stance is used at a time: after the first, more stances are unlikely and what builds on it likelier
+    var weight = function (p) {
+      var stance = /stance/i.test(p.n), haveStance = got.some(function (g) { return /stance/i.test(g.n); });
+      return /vision|scent|climber|swimmer|leaper|sprint|swift foot/i.test(p.n) ? 0.2 : (stance ? (haveStance ? 0.25 : 2) : 1) + (p.needs.length ? 2.5 : 0);
+    };
+    for (var i = 0; i < n; i++) {
+      var pool = list.filter(ok);
+      if (!pool.length) break;
+      var stances = pool.filter(function (p) { return /stance/i.test(p.n); });
+      if (!i && stances.length && chance(0.7)) pool = stances;
+      var ws = pool.map(weight), r = Math.random() * ws.reduce(function (a, b) { return a + b; }, 0), e = pool[pool.length - 1];
+      for (var j = 0; j < pool.length; j++) { r -= ws[j]; if (r <= 0) { e = pool[j]; break; } }
+      got.push(e);
+    }
+    got.forEach(function (p) { S.special.push({ name: p.n, type: p.type, text: 'Rage power. ' + p.text }); });
+  }
+
+  // ---- a random kineticist (characters/classes/kineticist.md): an element, its simple blast (1d6 at 1st and +1d6 at
+  // every odd level; physical +1 per die + Con, energy + 1/2 Con), at 7th an expanded element and the composite blasts it
+  // opens (2d6 per step, burn 2), its defense, infusions at 1st, 3rd, 5th, 9th, 11th, 13th, 17th and 19th, and a
+  // utility wild talent every 2 levels
+  var KIN_EL = { fire: ['fire blast'], air: ['air blast', 'electric blast'], earth: ['earth blast', 'acid blast'], water: ['water blast', 'cold blast'], aether: ['telekinetic blast'] };
+  var KIN_BASIC = { fire: 'basic pyrokinesis', air: 'basic aerokinesis', earth: 'basic geokinesis', water: 'basic hydrokinesis', aether: 'basic telekinesis' };
+  function randomKineticist(lvl) {
+    var K = DATA.kineticist || { talents: {}, elements: {} }, TT = K.talents;
+    setAbilKin();
+    var prim = pick(Object.keys(KIN_EL)), known = [pick(KIN_EL[prim])], exp = null;
+    if (lvl >= 7) {
+      exp = chance(0.4) ? prim : pick(Object.keys(KIN_EL).filter(function (e) { return e !== prim; }));
+      var other = KIN_EL[exp].filter(function (b) { return known.indexOf(b) < 0; });
+      if (other.length) known.push(pick(other));
+    }
+    var reqOk = function (pre) {
+      return pre.split(/,\s*/).every(function (p) {
+        var m = p.match(/^(\w+) blast$/); if (m) return known.indexOf(m[1] + ' blast') >= 0;
+        m = p.match(/primary element \((\w+)\)/); if (m) return prim === m[1];
+        m = p.match(/expanded element \((\w+)\)/); if (m) return !!exp && (m[1] === 'any' || exp === m[1]);
+        return false;
+      });
+    };
+    var con = mod(S.abil.Con), steps = Math.ceil(lvl / 2);
+    var blast = function (t, comp) {
+      var dice = comp ? 2 * steps : steps, physical = t.blast === 'physical';
+      var w = { n: t.n.toLowerCase(), mode: 'ranged', d: dice + 'd6', t: 20, x: 2, cat: 'ranged', single: true, dmgMisc: physical ? dice + con : Math.floor(con / 2),
+        rider: t.damage + (physical ? '' : ', ranged touch') + (comp ? ', burn 2' : '') + ', 30 ft.' };
+      return w;
+    };
+    var simple = known.map(function (b) { return TT[b]; }).filter(Boolean), comps = [];
+    if (exp) Object.keys(TT).forEach(function (k) { var t = TT[k]; if (/composite blast/.test(t.type) && !t.only && t.blast !== 'special' && reqOk(t.pre)) comps.push(t); });
+    S.weapons = comps.slice(0, 2).map(function (t) { return blast(t, true); }).concat(simple.map(function (t) { return blast(t, false); }));
+    S.weapons.forEach(function (w, i) { w.opt = Math.min(3, i + 1); });
+    S.armor = bestArmor('light');
+    // talents: the element's lists (primary, expanded) and the universal one
+    var els = [prim].concat(exp && exp !== prim ? [exp] : []).concat(['universal']);
+    var pool = [];
+    els.forEach(function (e) { (K.elements[e] || []).forEach(function (x) { var t = TT[x.n.toLowerCase()]; if (t && !t.only) pool.push({ x: x, t: t }); }); });
+    var got = {}, maxL = Math.ceil(lvl / 2);
+    Object.keys(KIN_BASIC).forEach(function (e) { got[titleCase(KIN_BASIC[e])] = 1; got[KIN_BASIC[e]] = 1; }); // the basic one comes free
+    var take = function (inf, n) {
+      var out = [];
+      for (var i = 0; i < n; i++) {
+        var c = pool.filter(function (p) { return p.x.inf === inf && p.x.lvl <= maxL && !got[p.t.n]; });
+        if (!c.length) break;
+        // utility talents for exploring (sculptors, walking, senses, carrying) are unlikely
+        var ws = c.map(function (p) { return (/sculptor|walk|climb|adaptation|haul|sense|sight|voice|steed|basic|skilled|traveler|healer/i.test(p.t.n) ? 0.2 : 1) + (inf ? 0.3 * p.x.lvl : 0); });
+        var r = Math.random() * ws.reduce(function (a, b) { return a + b; }, 0), e = c[c.length - 1];
+        for (var j = 0; j < c.length; j++) { r -= ws[j]; if (r <= 0) { e = c[j]; break; } }
+        got[e.t.n] = 1; out.push(e.t);
+      }
+      return out;
+    };
+    var infusions = take(true, [1, 3, 5, 9, 11, 13, 17, 19].filter(function (l) { return l <= lvl; }).length), utilities = take(false, Math.floor(lvl / 2));
+    var def = Object.keys(TT).map(function (k) { return TT[k]; }).filter(function (t) { return /defense/.test(t.type) && t.element === prim; })[0];
+    var burnMax = 3 + con, overflow = lvl >= 3 ? Math.floor(lvl / 3) : 0;
+    S.special.push({ name: 'Kinetic Blast', type: 'Sp', text: 'Element ' + prim + (exp ? ', expanded element ' + exp : '') + '. At will, a standard action, 30 ft.: ' +
+      S.weapons.map(function (w) { return w.n + ' ' + w.d; }).join(', ') + '. Physical blasts add 1 per die + Con, energy blasts 1/2 Con and are ranged touch attacks; composite blasts cost 2 burn. ' +
+      'Burn: each point deals ' + lvl + ' nonlethal damage until a full night\'s rest, up to ' + burnMax + ' points.' + (overflow ? ' Elemental overflow: +1 attack and +2 damage with blasts per point of burn, up to +' + overflow + '.' : '') });
+    if (def && lvl >= 2) S.special.push({ name: def.n, type: 'Su', text: def.text });
+    infusions.forEach(function (t) { S.special.push({ name: t.n, type: 'Su', text: '(' + t.type + ', burn ' + t.burn + ') ' + t.text }); });
+    S.special.push({ name: 'Wild Talents', type: 'Sp', text: [KIN_BASIC[prim]].concat(utilities.map(function (t) { return t.n.toLowerCase(); })).join(', ') + '.' });
+    S.sq = [S.sq, 'elemental focus (' + prim + ')' + (exp ? ', expanded element (' + exp + ')' : '')].filter(Boolean).join(', ');
+  }
+  // a kineticist lives on Con, then Dex for its blasts
+  function setAbilKin() {
+    var b = [18, 16, 12, 10, 10, 8], o = ['Con', 'Dex', 'Wis', 'Str', 'Int', 'Cha'];
+    o.forEach(function (a, i) { S.abil[a] = b[i]; });
+    var lv = (S.classes[0] || {}).lvl || 1;
+    S.abil.Con += 2 * Math.floor(lv / 4) + (lv >= 6 ? 2 : 0) + (lv >= 11 ? 2 : 0) + (lv >= 16 ? 2 : 0);
+  }
+
   // ---------- a random enemy for a CR ----------
   // aims at the Bestiary's Monster Statistics by CR: [hp, AC, high attack, average full-attack damage, primary DC, good save, poor save]
   var BY_CR = { 0.125: [4, 10, 0, 2, 9, 2, 0], 0.167: [4, 10, 0, 3, 10, 2, 0], 0.25: [5, 10, 0, 3, 10, 2, 0], 0.333: [6, 11, 1, 4, 10, 3, 0], 0.5: [10, 11, 1, 5, 11, 3, 0],
@@ -715,7 +983,8 @@
     var top = Math.max.apply(null, list.map(function (a) { return a.b; }));
     return pick(list.filter(function (a) { return a.b >= top - 1; })).n;
   }
-  function featOk(n) { return !!featSlug(n); }
+  // a feat the wiki has (and not one merged into another, such as Precise Shot into Point-Blank Shot)
+  function featOk(n) { var f = featData(n); return !!f && !f.gone; }
   // random spells for a caster block: a few of each level up to top, the ones with rolls (damage, healing) first
   function randomSpells(listKey, top, perLevel, uses) {
     var out = [];
@@ -729,11 +998,13 @@
     return out;
   }
   var NAME_ADJ = ['Ravenous', 'Ashen', 'Grim', 'Hollow', 'Savage', 'Gloom', 'Thorned', 'Iron', 'Blood', 'Storm', 'Pale', 'Rotting', 'Shadow', 'Ember', 'Frost', 'Venom', 'Rust', 'Bone', 'Dusk', 'Howling'];
-  var NAME_NOUN = { 'magical beast': ['Prowler', 'Stalker', 'Mauler', 'Ripper'], animal: ['Boar', 'Wolf', 'Bear', 'Hound', 'Elk'], dragon: ['Drake', 'Wyrm'],
+  var NAME_NOUN = { 'magical beast': ['Prowler', 'Stalker', 'Mauler', 'Ripper'], animal: ['Boar', 'Wolf', 'Bear', 'Hound', 'Elk'], dragon: ['Drake', 'Wyrm'], plant: ['Creeper', 'Thornvine', 'Bloom'], ooze: ['Slime', 'Ooze', 'Sludge'],
     aberration: ['Horror', 'Lurker', 'Gibberer', 'Maw'], outsider: ['Fiend', 'Reaver', 'Herald', 'Tormentor'], undead: ['Husk', 'Shade', 'Revenant', 'Corpse'],
     construct: ['Sentinel', 'Automaton', 'Guardian'], vermin: ['Crawler', 'Skitterer', 'Swarmling'], 'monstrous humanoid': ['Brute', 'Hunter', 'Raider'], fey: ['Trickster', 'Wisp', 'Thornling'],
     warrior: ['Sellsword', 'Marauder', 'Champion', 'Warlord', 'Enforcer'], skirmisher: ['Cutthroat', 'Scout', 'Duelist', 'Assassin'], caster: ['Cultist', 'Hexer', 'Magus', 'Seer', 'Adept'],
-    'sw-warrior': ['Trooper', 'Mercenary', 'Commando', 'Enforcer'], 'sw-specialist': ['Smuggler', 'Slicer', 'Bounty Hunter', 'Saboteur'], 'sw-consular': ['Acolyte', 'Inquisitor', 'Adept', 'Dark Disciple'] };
+    'starwars-martial': ['Trooper', 'Mercenary', 'Commando', 'Enforcer'], 'starwars-specialist': ['Smuggler', 'Slicer', 'Bounty Hunter', 'Saboteur'], 'starwars-caster': ['Acolyte', 'Inquisitor', 'Adept', 'Dark Disciple'],
+    'chakra-martial': ['Ronin', 'Blade', 'Brawler', 'Enforcer'], 'chakra-specialist': ['Infiltrator', 'Tracker', 'Saboteur', 'Assassin'], 'chakra-caster': ['Ninjutsu Adept', 'Genjutsu Weaver', 'Sage', 'Seal Master'],
+    'superheroes-martial': ['Bruiser', 'Vigilante', 'Enforcer', 'Brawler'], 'superheroes-specialist': ['Gadgeteer', 'Hacker', 'Infiltrator', 'Sniper'], 'superheroes-caster': ['Elementalist', 'Telepath', 'Mystic', 'Psion'] };
   var SKILL_SETS = { brute: ['Perception', 'Stealth', 'Climb', 'Acrobatics', 'Survival', 'Swim', 'Intimidate'], warrior: ['Perception', 'Intimidate', 'Climb', 'Ride', 'Survival', 'Acrobatics', 'Swim'],
     skirmisher: ['Perception', 'Stealth', 'Acrobatics', 'Bluff', 'Escape Artist', 'Sleight of Hand', 'Disable Device', 'Sense Motive'],
     caster: ['Perception', 'Spellcraft', 'Knowledge (arcana)', 'Knowledge (planes)', 'Bluff', 'Sense Motive', 'Diplomacy', 'Use Magic Device'],
@@ -745,8 +1016,304 @@
     skirmisher: ['Weapon Finesse', 'Improved Initiative', 'Dodgility', 'Mobility', 'Point-Blank Shot', 'Precise Shot', 'Rapid Shot', 'Lightning Reflexes', 'Iron Will', 'Combat Reflexes'],
     caster: ['Improved Initiative', 'Combat Casting', 'Toughness', 'Iron Will', 'Dodgility', 'Lightning Reflexes', 'Great Fortitude', 'Alertness'] };
 
-  function randomEnemy(crText) {
-    var cr = crValue(crText), T = crTargets(cr), big = Math.max(1, Math.round(cr));
+  // the feat chains a random enemy can be built around, as fit its concept, Hit Dice and BAB: [{ label, setup(), feats() }]
+  var CC_TEXT = /paraly|stun|dominat|confus|ability (damage|drain)|(strength|dexterity|constitution|wisdom|intelligence|charisma) (damage|drain)|1d\d+ points? of (str|dex|con|wis|int|cha)|petrif|hold (person|monster)|nause|feeblemind|insan|blind|cower|panick|frightened|sleep|slowed/i;
+  var AREA_TEXT = /radius|cone|line|spread|burst|emanation|cylinder/i;
+  function randomBuilds(concept, D0, sk) {
+    var hd = D0.totalHD, bab = D0.bab, out = [];
+    var melee = S.weapons.filter(function (w) { return /^(melee|two|off)$/.test(w.mode); }), ranged = S.weapons.filter(function (w) { return /^(ranged|thrown)$/.test(w.mode); });
+    var nats = S.weapons.filter(function (w) { return /^nat/.test(w.mode); });
+    var lvl = function (slug) { var c = (S.classes || [])[0]; return c && c.s === slug ? c.lvl : 0; };
+    var ranks = function (skill, n) { // moves ranks from the last skills into this one
+      var st = S.skills[skill] = S.skills[skill] || {}, need = Math.min(hd, n) - (st.r || 0);
+      for (var i = sk.length - 1; i >= 0 && need > 0; i--) { var o = S.skills[sk[i]]; if (sk[i] === skill || !o || !o.r) continue; var t = Math.min(o.r, need); o.r -= t; need -= t; st.r = (st.r || 0) + t; }
+      if ((st.r || 0) < Math.min(hd, n)) S.bonusRanks = (S.bonusRanks || 0) + Math.min(hd, n) - (st.r || 0), st.r = Math.min(hd, n);
+    };
+    var groupOf = function (w) { return 'Weapon Focus (' + (weaponGroups(w)[0] || w.n) + ')'; };
+    // two weapons: Two-Weapon Fighting, Double Slice and what follows
+    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && !/gunslinger/.test(((S.classes || [])[0] || {}).s || ''))
+      out.push({ label: 'two-weapon fighter', setup: function () {
+        var saber = SWM && S.weapons.some(function (w) { return /lightsaber/i.test(w.n); });
+        var main = saber ? makeAttack(pick(SWD.weapons.filter(function (w) { return !w.blaster && w.c !== 'two-handed'; })).n)
+          : makeAttack(firstWeapon(MODE === 'chakra' ? ['Katana', 'Wakizashi', 'Ninja-to'] : concept === 'skirmisher' ? ['Rapier', 'Short sword', 'Kukri'] : ['Longsword', 'Battleaxe', 'Scimitar', 'Flail'], ['one-handed', 'light']));
+        var off = saber ? makeAttack('Shoto lightsaber', 'off') : makeAttack(firstWeapon(MODE === 'chakra' ? ['Kunai', 'Wakizashi', 'Kama'] : ['Short sword', 'Kukri', 'Handaxe', 'Dagger'], ['light']), 'off');
+        if (concept === 'skirmisher') { main.finesse = off.finesse = true; }
+        S.weapons = [main, off].concat(S.weapons.filter(function (w) { return /^(ranged|thrown)$/.test(w.mode); }).map(function (w) { w.opt = 2; return w; }));
+        S.shield = ''; S.abil.Dex = Math.max(S.abil.Dex, bab >= 6 ? 15 : 14);
+      }, feats: function () {
+        var main = S.weapons.filter(function (w) { return w.mode === 'melee'; })[0] || S.weapons[0];
+        return ['Two-Weapon Fighting', 'Double Slice', bab >= 6 ? 'Improved Two-Weapon Fighting' : '', groupOf(main), bab >= 6 ? 'Two-Weapon Defense' : '',
+          bab >= 11 ? 'Two-Weapon Rend' : ''];
+      } });
+    // fear: Power Attack (free on this wiki) into Intimidate
+    if ((concept === 'warrior' || concept === 'brute' || concept === 'sw-warrior') && hd >= 6 && S.abil.Str >= 13 && S.abil.Int >= 3 && !/^(animal|vermin|ooze|plant|construct)$/.test(S.type))
+      out.push({ label: 'terror', setup: function () { ranks('Intimidate', hd); }, feats: function () {
+        var w = melee[0] || nats[0];
+        return ['Cornugon Smash', 'Hurtful', w ? groupOf(w) : '', 'Dazzling Display', bab >= 6 ? 'Shatter Defenses' : '', 'Intimidating Prowess', bab >= 11 ? 'Deadly Stroke' : ''];
+      } });
+    // a fighter's weapon
+    if (lvl('fighter') >= 4 && (melee[0] || ranged[0]))
+      out.push({ label: 'weapon master', feats: function () {
+        var w = melee[0] || ranged[0], f = lvl('fighter');
+        return [groupOf(w), 'Weapon Specialization (' + w.n + ')', f >= 8 ? 'Greater Weapon Focus (' + w.n + ')' : '', bab >= 8 ? 'Improved Critical (' + w.n + ')' : '', f >= 12 ? 'Greater Weapon Specialization (' + w.n + ')' : ''];
+      } });
+    // bows, crossbows and blasters
+    if (ranged.length && (concept === 'skirmisher' || concept === 'warrior' || concept === 'sw-specialist' || concept === 'sw-warrior'))
+      out.push({ label: 'archer', setup: function () { S.abil.Dex = Math.max(S.abil.Dex, 15); }, feats: function () {
+        var r = S.weapons.filter(function (w) { return /^(ranged|thrown)$/.test(w.mode); })[0];
+        return ['Point-Blank Shot', groupOf(r), 'Rapid Shot', bab >= 6 ? 'Manyshot' : '', bab >= 11 ? 'Improved Precise Shot' : '', bab >= 8 ? 'Improved Critical (' + r.n + ')' : ''];
+      } });
+    // big natural attacks
+    if (nats.length && (concept === 'brute'))
+      out.push({ label: 'natural predator', feats: function () {
+        var count = nats.reduce(function (t, w) { return t + (w.count || 1); }, 0);
+        return ['Weapon Focus (natural)', bab >= 4 ? 'Improved Natural Attack (' + nats[0].n + ')' : '', count >= 3 ? 'Multiattack' : '', S.abil.Con >= 13 ? 'Improved Natural Armor' : '',
+          bab >= 6 ? 'Vital Strike' : '', 'Furious Focus', bab >= 11 ? 'Improved Vital Strike' : '', S.specialAttacks ? 'Ability Focus (breath weapon)' : ''];
+      } });
+    // casters: the biggest area spell with Spell Focus and Spell Specialization, or a crippling spell with Greater Spell Focus
+    var cast = S.casters[0];
+    if (cast && cast.kind !== 'Force Powers') {
+      var top = Math.max.apply(null, cast.spells.map(function (s) { return s.lvl; }).concat([1]));
+      var known = function (test) {
+        var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).filter(function (s) { var l = s.l && s.l[cast.cls]; return l != null && l > 0 && l <= top && test(s); });
+        if (!pool.length) return null;
+        var best = Math.max.apply(null, pool.map(function (s) { return s.l[cast.cls]; }));
+        return pick(pool.filter(function (s) { return s.l[cast.cls] >= best - 1; }));
+      };
+      var addSpell = function (s) {
+        if (!cast.spells.some(function (x) { return x.u === s.u; })) cast.spells.push({ n: s.n, u: s.u, lvl: s.l[cast.cls], uses: cast.kind === 'Spell-Like Abilities' ? (s.l[cast.cls] >= top ? '1/day' : '3/day') : cast.kind === 'Spells Prepared' ? 2 : '' });
+      };
+      var blast = known(function (s) { var r = (DATA.rolls[s.u] || [])[0]; return r && r.damage && AREA_TEXT.test(s.t || '') && !/harmless/i.test(s.sv || ''); });
+      if (blast) out.push({ label: 'blaster', setup: function () { addSpell(blast); }, feats: function () {
+        return ['Spell Focus (' + blast.s + ')', 'Spell Specialization (' + blast.n.toLowerCase() + ')', hd >= 7 ? 'Greater Spell Focus (' + blast.s + ')' : '', 'Spell Penetration', hd >= 9 ? 'Empower Spell' : ''];
+      } });
+      var cc = known(function (s) { return CC_TEXT.test(s.x || '') && s.sv && !/none|harmless/i.test(s.sv); });
+      if (cc) out.push({ label: 'controller', setup: function () { addSpell(cc); }, feats: function () {
+        return ['Spell Focus (' + cc.s + ')', 'Greater Spell Focus (' + cc.s + ')', 'Spell Penetration', hd >= 7 ? 'Greater Spell Penetration' : '', 'Spell Specialization (' + cc.n.toLowerCase() + ')'];
+      } });
+    }
+    return out;
+  }
+  var RAND_FORCE = null, RAND_LAST = null;
+  // the classes a random humanoid can have, by concept: the rogue and the monk are their unchained versions (better in
+  // almost every way); the barbarian stays the core one, with the unchained stances among its rage powers
+  var RANDOM_CLS = { warrior: ['fighter', 'barbarian', 'ranger', 'slayer', 'cavalier', 'bloodrager', 'antipaladin', 'warpriest', 'brawler', 'unchained-monk',
+      'paladin', 'samurai', 'legendary-fighter'],
+    skirmisher: ['unchained-rogue', 'ranger', 'slayer', 'investigator', 'swashbuckler', 'ninja', 'unchained-monk', 'vigilante', 'gunslinger',
+      'legendary-swashbuckler', 'legendary-investigator', 'legendary-gunslinger'],
+    caster: ['wizard', 'sorcerer', 'cleric', 'druid', 'witch', 'oracle', 'bard', 'magus', 'inquisitor', 'arcanist', 'shaman', 'psychic', 'skald',
+      'mesmerist', 'occultist', 'spiritualist', 'hunter', 'legendary-magus', 'legendary-cleric', 'kineticist'] };
+  // the concept of a class picked in the form: its list above, else a caster if it has a spell list, else a warrior
+  function classConcept(slug) {
+    for (var k in RANDOM_CLS) if (RANDOM_CLS[k].indexOf(slug) >= 0) return k;
+    var base = slug.replace(/^(legendary|unchained)-/, '');
+    if (CLASSES.indexOf(base) >= 0) return 'caster';
+    return /rogue|ninja|swashbuckler|investigator|gunslinger|vigilante/.test(base) ? 'skirmisher' : 'warrior';
+  }
+  // ---- subsystem enemies: class features and powers
+  // class features a fighting enemy would not take: shapechanging, companions, exploration and crafting
+  var PICK_BAN = /shape|shifter|shifting|transform|alternate form|polymorph|companion|familiar|eidolon|phantom|wild empathy|woodland stride|trackless|favored terrain|camouflage|hide in plain sight|\btrack\b|trapfinding|trap ?sense|nature sense|craft|scribe|brew|linguist|language|bardic knowledge|\blore\b|cartograph|treasure|appraise|\bmount\b|steed|summon/i;
+  // and, in these settings, features tied to fantasy gods, planes, nature, the dead or mounts
+  var FLAVOR_BAN = /plant|tree|leaf|flower|planar|plane|outsider|demon|devil|fiend|abyss|infernal|celestial|angel|azata|elysian|divine|deity|god|faith|holy|unholy|domain|channel|smite|swarm|spirit|shaman|totem|druid|nature|wild|season|moon|sun|horse|groom|cavalry|drunk|ale|undead|grave|necro|witch|hag|patron|poppet|rune|serpent|saurian|aquatic|water adaptation|ancestor|lycan|fey|dragon|beast|animal|bestial|vermin|ooze|aura of|bravo|crusader|inquisition|judgment|mystery|oracle|curse|prayer|sacred|blessing|relic|aspect|eidolon|phantom|vampir/i;
+  // words in a feature's text that say it suits a role
+  var ROLE_FIT = { martial: /attack|damage|weapon|armor|\bAC\b|critical|charge|strike|rage|combat|maneuver|fighting|smite|bonus feat/gi,
+    specialist: /sneak|attack|damage|precision|evasion|dodge|critical|ranged|weapon|skill/gi,
+    caster: /spell|power|\bDC\b|caster level|concentration|saving throw|stamina|chakra|channel|energy|bloodline|mystery|hex/gi };
+  // the subsystem's own powers only some species have (an Ithorian's bellow)
+  var UNIQUE_POWER = /bellow/i;
+  // the spell lists a power can come from, at its lowest level among them
+  var POWER_LISTS = ['sorcerer', 'wizard', 'cleric', 'psychic', 'druid', 'oracle', 'witch', 'bard', 'magus', 'inquisitor', 'occultist', 'mesmerist'];
+  var POWER_EXCL = /undead|animal|plant|summon|planar|holy|unholy|divine|demon|devil|angel|celestial|elemental|druid|nature|wood|tree|blood|bone|grave|corpse|zombie|skeleton|spirit|ghost|soul|deity|\bgod|bless|prayer|consecrat|sanctif|sanctuary|weather|vermin|insect|swarm|beast|ooze|giant|dragon|fey|faerie|goblin|pumpkin|shillelagh|totem|ancestral|haunt|ritual|cauldron|hex|familiar|eidolon|kami|\boni\b|wish|clone|resurrect|raise dead|reincarnat|mount|steed|treasure|tears|mythic|curse|heretic|repent|righteous|sacred|divin|crusad|zealot|faith|penance|atonement|good hope|oath/i;
+  var ELEMENT_WORDS = /fire|flame|burn|water|ice|snow|frost|stone|earth|mud|lava|wind|storm/i;
+  // setting names for regular spells (by spell page)
+  var FORCE_ALIAS = { 'lightning-bolt': 'Force Lightning', 'shocking-grasp': 'Force Shock', 'chain-lightning': 'Force Storm', 'hold-person': 'Force Grip', 'hold-monster': 'Force Grip, Greater',
+    'suggestion': 'Mind Trick', 'charm-person': 'Mind Trick, Lesser', 'dominate-person': 'Force Domination', 'confusion': 'Force Confusion', 'fear': 'Force Fear', 'cause-fear': 'Force Fear, Lesser',
+    'scare': 'Force Terror', 'slow': 'Force Slow', 'haste': 'Force Speed, Greater', 'sleep': 'Force Sleep', 'daze': 'Force Daze', 'daze-monster': 'Force Daze, Greater', 'mage-hand': 'Telekinesis, Lesser',
+    'magic-missile': 'Force Bolt', 'mage-armor': 'Force Armor', 'shield': 'Force Barrier', 'see-invisibility': 'Force Sight', 'true-seeing': 'Force Sight, Greater', 'invisibility': 'Force Cloak',
+    'blur': 'Force Blur', 'displacement': 'Force Mirage', 'cure-light-wounds': 'Force Heal', 'cure-moderate-wounds': 'Force Heal', 'cure-serious-wounds': 'Force Heal', 'cure-critical-wounds': 'Force Heal, Greater',
+    'heal': 'Force Healing Trance', 'inflict-light-wounds': 'Force Drain', 'inflict-moderate-wounds': 'Force Drain', 'vampiric-touch': 'Drain Life', 'enervation': 'Force Drain, Greater', 'harm': 'Force Wound',
+    'blindness-deafness': 'Force Blind', 'repulsion': 'Force Repulse', 'expeditious-retreat': 'Force Speed', 'bulls-strength': 'Force Strength', 'cats-grace': 'Force Agility', 'true-strike': 'Force Insight',
+    'foresight': 'Battle Meditation', 'detect-thoughts': 'Force Mind Probe', 'telekinesis': 'Telekinesis', 'dispel-magic': 'Force Disruption', 'ray-of-enfeeblement': 'Force Weaken', 'feeblemind': 'Force Mind Shatter',
+    'power-word-stun': 'Force Stun', 'power-word-kill': 'Force Death', 'circle-of-death': 'Force Death Field', 'spiritual-weapon': 'Saber Dance', 'heroism': 'Force Valor', 'crushing-despair': 'Force Despair',
+    'calm-emotions': 'Force Calm', 'command': 'Force Command', 'hideous-laughter': 'Force Distraction', 'bears-endurance': 'Force Endurance', 'deep-slumber': 'Force Sleep, Greater', 'force-punch': 'Force Punch',
+    'hydraulic-push': 'Force Push', 'telekinetic-charge': 'Force Charge', 'mass-hold-person': 'Force Grip, Mass', 'mind-thrust-i': 'Force Mind Blast', 'ego-whip-i': 'Force Mind Lash' };
+  var TECH_ALIAS = { 'fireball': 'Thermal Detonator', 'lightning-bolt': 'Ion Blast', 'scorching-ray': 'Blaster Volley', 'burning-hands': 'Flamethrower', 'grease': 'Oil Slick', 'web': 'Net Launcher',
+    'invisibility': 'Stealth Field', 'shield': 'Personal Shield', 'mirror-image': 'Holo Decoys', 'magic-missile': 'Seeker Darts', 'acid-arrow': 'Acid Dart', 'glitterdust': 'Flash Grenade',
+    'stinking-cloud': 'Gas Grenade', 'sleep': 'Sleep Gas', 'haste': 'Stim Boost', 'cure-light-wounds': 'Medpac', 'cure-moderate-wounds': 'Medpac, Advanced', 'see-invisibility': 'Thermal Scanner',
+    'fly': 'Jetpack', 'shocking-grasp': 'Shock Glove', 'sound-burst': 'Sonic Grenade', 'fog-cloud': 'Smoke Grenade', 'obscuring-mist': 'Smoke Screen', 'silent-image': 'Hologram', 'jump': 'Jump Boots',
+    'expeditious-retreat': 'Speed Boots', 'cone-of-cold': 'Cryo Blast', 'flaming-sphere': 'Incendiary Drone', 'resist-energy': 'Environmental Shield', 'stoneskin': 'Armor Plating', 'acid-splash': 'Acid Spray',
+    'ray-of-frost': 'Cryo Shot', 'snowball': 'Cryo Grenade', 'cloudkill': 'Toxin Cloud', 'solid-fog': 'Foam Dispenser', 'sleet-storm': 'Cryo Storm', 'shout': 'Sonic Blaster', 'disintegrate': 'Disruptor',
+    'chain-lightning': 'Arc Caster', 'detect-magic': 'Scanner', 'spider-climb': 'Climbing Claws', 'knock': 'Lock Breaker', 'magic-weapon': 'Weapon Mod', 'keen-edge': 'Vibroblade Edge', 'hold-person': 'Stun Ray',
+    'slow': 'Stasis Field', 'dispel-magic': 'EMP Burst', 'enlarge-person': 'Power Armor', 'displacement': 'Holo Shroud', 'true-strike': 'Targeting Computer', 'protection-from-energy': 'Energy Shield' };
+  var ELEMENT_DESC = { Fire: /fire/, Water: /water|cold/, Earth: /earth|acid/, Wind: /air|sonic/, Lightning: /electricity/ };
+  var HERO_THEMES = { fire: /fire/, cold: /cold/, lightning: /electricity/, sonic: /sonic/, acid: /acid/, mind: /mind-affecting/, force: /force/ };
+  function titleCase(t) { return String(t).replace(/(^|[\s(-])([a-z])/g, function (_, a, b) { return a + b.toUpperCase(); }); }
+  // what kind of powers a subsystem enemy has: Force (light or dark side) or tech in Star Wars, its element's jutsu
+  // and genjutsu in Naruto, one power theme in Heroes; none for a Star Wars warrior without the Force
+  function powerFlavor(role) {
+    if (MODE === 'starwars') return S.sw.force ? { kind: 'force', dark: (S.sw.karma || 0) < 0 } : role === 'specialist' ? { kind: 'tech', title: 'Tech' } : null;
+    if (MODE === 'chakra') return { kind: 'jutsu', element: S.sw.element || 'Fire' };
+    if (MODE === 'superheroes') { var th = pick(Object.keys(HERO_THEMES)); return { kind: 'hero', theme: th }; }
+    return null;
+  }
+  function spellLevelAny(s) {
+    var best = null;
+    POWER_LISTS.forEach(function (k) { if (s.l && s.l[k] != null && (best == null || s.l[k] < best)) best = s.l[k]; });
+    return best;
+  }
+  // does a spell fit the flavor? and what is it called there
+  function powerFits(s, f) {
+    var desc = (s.d || []).join(' ').toLowerCase(), sch = s.s || '', n = s.n, u = s.u, self = /^(personal|you)$/i.test(String(s.t || '').trim()) || /^personal/i.test(s.r || '');
+    if (POWER_EXCL.test(n)) return false;
+    if (f.kind === 'force') {
+      if (FORCE_ALIAS[u]) return !(f.dark ? /^(cure|heal|heroism|calm)/.test(u) : /^(inflict|harm|enervation|vampiric|circle-of-death|power-word-kill|crushing)/.test(u) || /lightning|shock|chain-lightning/.test(u));
+      if (ELEMENT_WORDS.test(n) || /fire|cold|acid|water|earth|air|sonic|good|evil|lawful|chaotic|light\b/.test(desc)) return false;
+      if (/enchantment|divination/.test(sch)) return true;
+      if (/abjuration/.test(sch)) return !/magic circle|planar|dismissal|banish/i.test(n);
+      if (/transmutation/.test(sch)) return self && !/form|shape|polymorph|transform|alter self|enlarge|reduce|giant|beast/i.test(n);
+      if (/evocation/.test(sch)) return /force/.test(desc) || (f.dark && /electricity/.test(desc));
+      if (/necromancy/.test(sch)) return f.dark && !/animate|undead|create/i.test(n);
+      return false;
+    }
+    if (f.kind === 'tech') {
+      if (TECH_ALIAS[u]) return true;
+      if (/good|evil|lawful|chaotic|mind-affecting|death|curse/.test(desc)) return false;
+      if (/evocation/.test(sch)) return /fire|electricity|sonic|acid|cold|force/.test(desc);
+      if (/illusion/.test(sch)) return /figment|glamer/.test(String(s.sub || '')) || /image|invisib|blur|silence/i.test(n);
+      if (/divination/.test(sch)) return /detect|see|locate|scry|true/i.test(n);
+      if (/abjuration/.test(sch)) return /shield|resist|protection from energy|dispel/i.test(n);
+      return false;
+    }
+    if (f.kind === 'jutsu') {
+      if (ELEMENT_DESC[f.element] && ELEMENT_DESC[f.element].test(desc)) return 'element';
+      if (/fire|cold|acid|water|earth|air|sonic|electricity|good|evil|lawful|chaotic/.test(desc) || ELEMENT_WORDS.test(n)) return false;
+      if ((/illusion/.test(sch) || (/enchantment/.test(sch) && /mind-affecting/.test(desc))) && !self && s.sv && !/none|harmless/i.test(s.sv)) return 'genjutsu';
+      if (/transmutation|abjuration/.test(sch) && self && !/form|shape|polymorph|alter self|giant|beast/i.test(n)) return 'ninjutsu';
+      if (/evocation/.test(sch) && /force/.test(desc)) return 'ninjutsu';
+      return false;
+    }
+    if (f.kind === 'hero') {
+      if (HERO_THEMES[f.theme].test(desc)) return true;
+      return self && /transmutation|abjuration/.test(sch) && !/form|shape|polymorph|alter self|beast/i.test(n) && !/good|evil|lawful|chaotic/.test(desc);
+    }
+    return false;
+  }
+  function powerName(s, f, fit) {
+    if (f.kind === 'force') return FORCE_ALIAS[s.u] || '';
+    if (f.kind === 'tech') return TECH_ALIAS[s.u] || '';
+    if (f.kind === 'jutsu') return (fit === 'element' ? f.element + ' Style' : fit === 'genjutsu' ? 'Genjutsu' : 'Ninjutsu') + ': ' + titleCase(s.n);
+    return '';
+  }
+  // n powers of spell level L for the flavor: the ones with a setting name and the ones that roll damage are likelier
+  function subPowers(f, L, n, have) {
+    if (n <= 0) return [];
+    var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).map(function (s) {
+      var lv = spellLevelAny(s), fit = lv === L && have.indexOf(s.u) < 0 && powerFits(s, f);
+      return fit ? { s: s, fit: fit, score: Math.random() + ((f.kind === 'force' ? FORCE_ALIAS : f.kind === 'tech' ? TECH_ALIAS : {})[s.u] ? 1.2 : 0) + (DATA.rolls[s.u] ? 1 : 0) + (fit === 'element' ? 0.8 : 0)
+        // a fight wants damage or a save; utility (stone shape, whispering wind) is unlikely
+        + (s.sv && !/none|harmless/i.test(s.sv) ? 0.5 : 0) - (!DATA.rolls[s.u] && (!s.sv || /none|harmless/i.test(s.sv)) ? 0.8 : 0) } : null;
+    }).filter(Boolean).sort(function (a, b) { return b.score - a.score; });
+    var seen = {}, out = [], elem = 0;
+    pool.forEach(function (p) {
+      var as = powerName(p.s, f, p.fit);
+      if (out.length >= n || (as && seen[as])) return;
+      // a shinobi keeps a place for a genjutsu or ninjutsu at each level
+      if (p.fit === 'element' && n > 1 && elem >= Math.ceil(n * 2 / 3)) return;
+      if (p.fit === 'element') elem++;
+      if (as) seen[as] = 1;
+      out.push({ n: p.s.n, u: p.s.u, lvl: L, uses: '', as: as || undefined });
+    });
+    return out;
+  }
+  // the creature types each concept of a random enemy can be (a type twice is likelier)
+  var CONCEPT_TYPES = { brute: ['magical beast', 'animal', 'aberration', 'dragon', 'outsider', 'undead', 'construct', 'vermin', 'monstrous humanoid', 'plant', 'ooze'],
+    warrior: ['humanoid', 'humanoid', 'monstrous humanoid', 'fey', 'outsider'], skirmisher: ['humanoid', 'humanoid', 'monstrous humanoid', 'fey'],
+    caster: ['outsider', 'fey', 'aberration', 'humanoid', 'humanoid', 'undead', 'dragon'] };
+  // the skills a monster of each type puts its ranks in, most likely first
+  var SKILL_BY_TYPE = { animal: ['Perception', 'Stealth', 'Acrobatics', 'Swim', 'Climb', 'Survival'], vermin: ['Perception', 'Climb', 'Stealth'],
+    ooze: ['Perception', 'Climb'], plant: ['Perception', 'Stealth'], construct: ['Perception'],
+    'magical beast': ['Perception', 'Stealth', 'Acrobatics', 'Climb', 'Survival', 'Swim'], 'monstrous humanoid': ['Perception', 'Intimidate', 'Climb', 'Stealth', 'Survival'],
+    aberration: ['Perception', 'Stealth', 'Swim', 'Knowledge (dungeoneering)', 'Intimidate', 'Escape Artist'], undead: ['Perception', 'Stealth', 'Intimidate', 'Climb'],
+    dragon: ['Perception', 'Intimidate', 'Fly', 'Sense Motive', 'Knowledge (arcana)', 'Bluff', 'Diplomacy', 'Spellcraft'],
+    outsider: ['Perception', 'Intimidate', 'Bluff', 'Sense Motive', 'Knowledge (planes)', 'Stealth', 'Acrobatics'],
+    fey: ['Perception', 'Stealth', 'Bluff', 'Acrobatics', 'Escape Artist', 'Sense Motive', 'Diplomacy', 'Sleight of Hand'] };
+  // special abilities of a random monster, from the Universal Monster Rules, as fit its type, attacks, size and CR
+  function monsterAbilities(cr) {
+    var D = compute(), big = Math.max(1, Math.round(cr)), hd = D.totalHD, sizeI = SIZE_ORDER.indexOf(S.size), M = D.mods;
+    var noCon = /^(undead|construct)$/.test(S.type);
+    // 10 + half its HD + the ability, but within 2 below and 3 above the CR's usual DC
+    var dcFloor = crTargets(cr).dc - 2, healed = false;
+    var dc = function (ab) { return Math.min(dcFloor + 5, Math.max(dcFloor, 10 + Math.floor(hd / 2) + (ab === 'Con' && noCon ? M.Cha : M[ab]))); };
+    var nat = function (re) { return S.weapons.filter(function (w) { return /^nat/.test(w.mode) && re.test(w.n); }); };
+    var atkOf = function (w) { return D.attacks.filter(function (a) { return a.row === w; })[0]; };
+    var dmg = function (w) { var a = atkOf(w); return a ? a.dice + (a.dmgMod ? sgn(a.dmgMod).replace('–', '-') : '') : '1d6'; };
+    var rider = function (w, t) { if (w) w.rider = (w.rider ? w.rider + ' and ' : 'plus ') + t; };
+    var add = function (k, t) { S[k] = S[k] ? S[k] + (k === 'defense' ? '; ' : ', ') + t : t; };
+    var special = function (n, ty, t) { S.special.push({ name: n, type: ty, text: t }); };
+    var t = S.type, beast = /^(animal|magical beast)$/.test(t), str15 = M.Str > 0 ? Math.floor(M.Str * 1.5) : M.Str;
+    var bite = nat(/^bite$/)[0], claws = nat(/^claw/)[0], grabby = nat(/^(bite|claw|tentacle|slam)/)[0], sting = nat(/^sting$/)[0];
+    var opts = [];
+    if (grabby && /^(animal|magical beast|aberration|plant|vermin|undead|monstrous humanoid|ooze)$/.test(t)) opts.push(function () {
+      var w = nat(/^(tentacle|slam)/)[0] || grabby; rider(w, 'grab');
+      if (/^(tentacle|slam)/.test(w.n) || /^(plant|aberration)$/.test(t)) add('specialAttacks', 'constrict (' + dmg(w) + ')');
+    });
+    if (bite && beast) opts.push(function () { rider(bite, 'trip'); });
+    if (claws && beast && big >= 2) opts.push(function () {
+      add('specialAttacks', 'pounce');
+      if (big >= 3) { var a = atkOf(claws); add('specialAttacks', 'rake (2 claws ' + sgn(a ? a.atk : D.bab) + ', ' + dmg(claws) + ')'); }
+    });
+    if (claws && (claws.count || 1) >= 2 && big >= 4 && /^(magical beast|monstrous humanoid|undead|outsider|aberration)$/.test(t))
+      opts.push(function () { add('specialAttacks', 'rend (2 claws, ' + (atkOf(claws) ? atkOf(claws).dice : '1d6') + sgn(str15) + ')'); });
+    if (beast) opts.push(function () { add('sq', 'ferocity'); });
+    if ((sting || bite) && /^(vermin|aberration|monstrous humanoid|plant|magical beast)$/.test(t)) opts.push(function () {
+      var w = sting || bite, ab = pick(['Str', 'Dex', 'Con']); rider(w, 'poison');
+      special('Poison', 'Ex', capFirst(w.n) + '—injury; save Fort DC ' + dc('Con') + '; frequency 1/round for 6 rounds; effect 1d' + (big >= 8 ? 4 : 2) + ' ' + ab + ' damage; cure ' + (big >= 10 ? 2 : 1) + ' consecutive save' + (big >= 10 ? 's' : '') + '.');
+    });
+    if (t === 'vermin') opts.push(function () { add('specialAttacks', 'web (' + sgn(D.rangedTouch) + ' ranged, DC ' + dc('Con') + ', hp ' + hd + ')'); });
+    if (sizeI >= SIZE_ORDER.indexOf('Large') && big >= 4 && /^(animal|magical beast|plant|construct|vermin)$/.test(t))
+      opts.push(function () { add('specialAttacks', 'trample (' + (atkOf(S.weapons[0]) ? atkOf(S.weapons[0]).dice : '2d6') + sgn(str15) + ', DC ' + dc('Str') + ')'); });
+    if (bite && sizeI >= SIZE_ORDER.indexOf('Huge') && big >= 7) opts.push(function () {
+      if (!/grab/.test(bite.rider || '')) rider(bite, 'grab');
+      add('specialAttacks', 'swallow whole (' + dmg(bite) + ' bludgeoning plus ' + Math.max(1, Math.floor(big / 3)) + 'd6 acid, AC ' + (10 + Math.floor((S.natural || 0) / 2)) + ', ' + Math.max(5, Math.floor(D.hp / 10)) + ' hp)');
+    });
+    if (big >= 6 && /^(outsider|aberration|monstrous humanoid|magical beast)$/.test(t))
+      opts.push(function () { if (healed) return; healed = true; add('defense', 'regeneration ' + (big >= 12 ? 10 : 5) + ' (' + pick(['acid or fire', 'fire', 'good', 'cold iron', 'electricity']) + ')'); });
+    if (big >= 4 && /^(undead|outsider|construct|ooze)$/.test(t)) opts.push(function () { if (healed) return; healed = true; add('defense', 'fast healing ' + Math.max(2, Math.floor(big / 2))); });
+    if ((t === 'dragon' && big >= 8) || (t === 'outsider' && big >= 10))
+      opts.push(function () { add('aura', 'frightful presence (' + (big >= 15 ? 240 : 180) + ' ft., DC ' + dc('Cha') + ')'); });
+    var touchy = nat(/^(slam|claw)/)[0] || S.weapons[0];
+    if (t === 'undead' && big >= 6) opts.push(function () { rider(touchy, 'energy drain (' + (big >= 12 ? 2 : 1) + ' level' + (big >= 12 ? 's' : '') + ', DC ' + dc('Cha') + ')'); });
+    if (/^(undead|aberration)$/.test(t)) opts.push(function () { rider(touchy, 'paralysis (1d4 rounds, Fort DC ' + dc(t === 'undead' ? 'Cha' : 'Con') + ')'); });
+    if (/^(aberration|undead|monstrous humanoid)$/.test(t)) opts.push(function () { add('aura', 'stench (30 ft., DC ' + dc('Con') + ', 10 rounds)'); });
+    if (bite && /^(undead|vermin)$/.test(t)) opts.push(function () { if (!/grab/.test(bite.rider || '')) rider(bite, 'grab'); add('specialAttacks', 'blood drain (1d' + (big >= 8 ? 4 : 2) + ' Con)'); });
+    if (t === 'ooze') opts.push(function () {
+      rider(S.weapons[0], Math.max(1, Math.floor(big / 2)) + 'd6 acid');
+      add('specialAttacks', pick(['engulf (' + dmg(S.weapons[0]) + ' plus acid, Reflex DC ' + dc('Str') + ' negates)', 'corrosion (it dissolves metal and wood it touches)']));
+    });
+    if (t === 'magical beast' && big >= 5) opts.push(function () {
+      add('specialAttacks', 'breath weapon (' + (big >= 10 ? 60 : 30) + '-ft. cone, ' + Math.max(2, Math.ceil(big / 2)) + 'd6 ' + pick(['fire', 'cold', 'acid', 'electricity']) + ', Reflex DC ' + dc('Con') + ' half, usable every 1d4 rounds)');
+    });
+    if (big >= 7 && /^(aberration|magical beast|undead)$/.test(t))
+      opts.push(function () { add('aura', 'gaze (' + pick(['confusion 1d4 rounds', 'fear', 'paralysis 1d4 rounds', 'slow 1d6 rounds']) + ', 30 ft., Will DC ' + dc('Cha') + ' negates)'); });
+    shuffle(opts).slice(0, 1 + (big >= 6 ? 1 : 0) + (big >= 12 ? 1 : 0) + (chance(0.3) ? 1 : 0)).forEach(function (f) { f(); });
+    // how it moves and senses, by type
+    var sp = { vermin: '40 ft., climb 30 ft.', ooze: '10 ft., climb 10 ft.', plant: '20 ft.', construct: '30 ft.' }[t];
+    if (sp) S.speed = sp;
+    else if (beast && chance(0.3)) S.speed = '30 ft., ' + pick(['fly 60 ft. (average)', 'swim 40 ft.', 'climb 30 ft.', 'burrow 20 ft.']);
+    else if (beast && sizeI >= SIZE_ORDER.indexOf('Large')) S.speed = '40 ft.';
+    else if (t === 'aberration' && chance(0.4)) S.speed = '20 ft., swim 40 ft.';
+    else if (/^(outsider|fey)$/.test(t) && chance(0.35)) S.speed = '30 ft., fly 60 ft. (' + (t === 'fey' ? 'perfect' : 'good') + ')';
+    var sense = { vermin: 'tremorsense 60 ft.', 'magical beast': 'scent', aberration: 'blindsense 30 ft.', undead: chance(0.5) ? 'lifesense 60 ft.' : '', outsider: chance(0.4) ? 'see in darkness' : '' }[t];
+    if (sense && (S.senses || '').indexOf(sense) < 0) S.senses = (S.senses ? S.senses + ', ' : '') + sense;
+  }
+  // size changes to Str (Con half as much, Dex down) from Medium
+  var SIZE_STR = { Fine: -8, Diminutive: -6, Tiny: -4, Small: -2, Medium: 0, Large: 4, Huge: 8, Gargantuan: 12, Colossal: 16 };
+  // opts (all optional, from the Random enemy form): type (a creature type) or cls (a Star Wars class key), size
+  function randomEnemy(crText, opts) {
+    opts = opts || {};
+    var cr = crValue(crText), tierN = opts.tier || 0;
+    // a mythic enemy is built at the CR asked for and its tiers go on top, as for a mythic party of that level
+    var T = crTargets(cr), big = Math.max(1, Math.round(cr));
     var keep = { maxHp: S.maxHp };
     S = blank(); S.maxHp = keep.maxHp !== false; S.cr = crText; S.align = pick(['LE', 'NE', 'CE', 'CE', 'NE', 'N', 'CN', 'LN']);
     var classed = false, concept, typeKey;
@@ -754,24 +1321,39 @@
     var setAbil = function (order, base) { order.forEach(function (a, i) { S.abil[a] = base[i]; }); };
     var grow = function (a, n) { S.abil[a] += n; };
     if (SWM) {
-      var key = pick(SWD.classes).s, slugK = 'sw-' + key, d = CLASS_BY[slugK];
-      concept = slugK; classed = true;
-      S.type = 'humanoid'; S.hd = 0; S.subtypes = pick(['human', 'human', 'twi\'lek', 'zabrak', 'rodian', 'trandoshan', 'chiss']);
+      var key = opts.cls || pick(SWD.classes).s, slugK = 'sw-' + key, d = CLASS_BY[slugK], role = d.role || 'martial';
+      // the concepts (skills, builds, names) go by the class's role: martial, specialist or caster
+      concept = role === 'martial' ? 'sw-warrior' : role === 'specialist' ? 'sw-specialist' : 'sw-consular'; classed = true;
+      S.type = 'humanoid'; S.hd = 0; S.subtypes = pick(SUB.species);
       var lvl = Math.max(1, Math.min(20, cr < 1 ? 1 : Math.round(cr) + 1));
       var c = { s: slugK, lvl: lvl, picks: [] };
       S.classes = [c];
-      S.sw = { karma: chance(0.65) ? -10 * (1 + rnd(Math.min(10, 1 + Math.floor(lvl / 2)))) : chance(0.3) ? 10 * (1 + rnd(3)) : 0, force: key === 'consular' || (key === 'warrior' && chance(0.35)), abil: key === 'consular' ? pick(['Wis', 'Wis', 'Cha']) : 'Wis' };
-      if (key === 'warrior') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Int', 'Cha'], [16, 14, 14, 12, 10, 8]);
-      else if (key === 'specialist') setAbil(['Dex', 'Int', 'Con', 'Wis', 'Cha', 'Str'], [16, 14, 13, 12, 10, 10]);
-      else setAbil([S.sw.abil, 'Dex', 'Con', S.sw.abil === 'Wis' ? 'Cha' : 'Wis', 'Str', 'Int'], [16, 14, 14, 12, 10, 10]);
-      var main = key === 'warrior' ? 'Str' : key === 'specialist' ? 'Dex' : S.sw.abil;
+      S.sw = { karma: SUB.karma ? (chance(0.65) ? -10 * (1 + rnd(Math.min(10, 1 + Math.floor(lvl / 2)))) : chance(0.3) ? 10 * (1 + rnd(3)) : 0) : 0,
+        force: !!SUB.force && (role === 'caster' || (role === 'martial' && chance(0.35))), abil: role === 'caster' ? pick(['Wis', 'Wis', 'Cha', 'Int']) : 'Wis' };
+      if (SUB.elements && SWD.elements.length) S.sw.element = pick(SWD.elements);
+      if (role === 'martial') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Int', 'Cha'], [16, 14, 14, 12, 10, 8]);
+      else if (role === 'specialist') setAbil(['Dex', 'Int', 'Con', 'Wis', 'Cha', 'Str'], [16, 14, 13, 12, 10, 10]);
+      else setAbil([S.sw.abil, 'Dex', 'Con', S.sw.abil === 'Wis' ? 'Cha' : 'Wis', 'Str', S.sw.abil === 'Int' ? 'Cha' : 'Int'], [16, 14, 14, 12, 10, 10]);
+      var main = role === 'martial' ? 'Str' : role === 'specialist' ? 'Dex' : S.sw.abil;
       grow(main, Math.floor(lvl / 4) + 2 * Math.floor(lvl / 7)); grow('Con', Math.floor(lvl / 8));
+      if (opts.size) { S.size = opts.size; var swSZ = SIZE_STR[S.size] || 0; S.abil.Str += swSZ; S.abil.Con += swSZ / 2; S.abil.Dex -= Math.max(0, swSZ / 2); }
       // class feature choices, within the points of each choice and the Iconic and OP limits
-      var by = swEntries(d.key), entries = Object.keys(by).map(function (k) { return by[k]; }), used = {}, iconic = false, opLow = false, opHigh = false;
+      // only features an enemy built to fight would take: no shapechanging, companions or exploration-only ones, and
+      // the ones that fit its role are likelier (a caster's spells and DCs, a martial's attacks and AC)
+      var by = swEntries(d.key), used = {}, iconic = false, opLow = false, opHigh = false;
+      var entries = Object.keys(by).map(function (k) { return by[k]; }).filter(function (e) { return !PICK_BAN.test(e.n) && !FLAVOR_BAN.test(e.n); });
+      var fit = ROLE_FIT[role], weight = function (e) {
+        var t = e.n + ' ' + ((SW_INFO[e.n + '|' + e.link] || {}).text || e.text || '');
+        var hits = (t.match(fit) || []).length;
+        // a caster rarely takes a feature that is only about weapons
+        return 1 + 3 * Math.min(3, hits) - (role === 'caster' && !hits && (e.n.match(ROLE_FIT.martial) || []).length ? 0.9 : 0);
+      };
       var take = function (slot, price) {
-        var pool = shuffle(entries.filter(function (e) { return e.price === price && e.lvl <= slot && !used[e.n]; }));
+        var pool = entries.filter(function (e) { return e.price === price && e.lvl <= slot && !used[e.n]; });
         if (!pool.length) return false;
-        var e = pool[0]; used[e.n] = 1;
+        var ws = pool.map(weight), r = Math.random() * ws.reduce(function (a, b) { return a + b; }, 0), e = pool[pool.length - 1];
+        for (var i = 0; i < pool.length; i++) { r -= ws[i]; if (r <= 0) { e = pool[i]; break; } }
+        used[e.n] = 1;
         c.picks.push({ slot: slot, n: e.n, link: e.link, price: e.price, lvl: e.lvl, text: e.text || '' });
         return true;
       };
@@ -781,47 +1363,70 @@
           var opFree = sl.lvl <= 10 ? !opLow : !opHigh;
           if (!iconic && r < 0.2 && take(sl.lvl, 'iconic')) { iconic = true; done = true; }
           else if (opFree && r < 0.45 && take(sl.lvl, 'op')) { if (sl.lvl <= 10) opLow = true; else opHigh = true; done = true; }
-          else if (r < 0.8) done = take(sl.lvl, 'common') && (take(sl.lvl, 'common') || take(sl.lvl, 'weak') || true);
-          if (!done) { take(sl.lvl, 'common') || (take(sl.lvl, 'weak') && take(sl.lvl, 'weak')); take(sl.lvl, 'weak'); take(sl.lvl, 'weak'); }
+          if (!done) {
+            if (r < 0.92 && take(sl.lvl, 'common')) { if (!take(sl.lvl, 'common')) { take(sl.lvl, 'weak'); take(sl.lvl, 'weak'); } }
+            else for (var q = 0; q < 4; q++) take(sl.lvl, 'weak');
+          }
         } else if (r < 0.6) { take(sl.lvl, 'common') || take(sl.lvl, 'weak'); }
         else { take(sl.lvl, 'weak'); take(sl.lvl, 'weak'); }
       });
-      // weapons: a lightsaber for the Force users, blasters for the rest
-      var sabers = SWD.weapons.filter(function (w) { return !w.blaster; }), blasters = SWD.weapons.filter(function (w) { return w.blaster; });
-      var saber = S.sw.force ? makeAttack(pick(sabers).n) : null;
-      if (saber) S.weapons.push(saber);
-      if (key !== 'consular' || chance(0.3)) { var bl = makeAttack(pick(key === 'specialist' ? blasters.filter(function (w) { return /pistol|revolver|rifle|shotgun|smg|sniper/i.test(w.n); }) : blasters).n); bl.opt = saber ? 2 : 1; S.weapons.push(bl); }
+      // weapons: Star Wars, a lightsaber for the Force users and blasters for the rest; Naruto, ninja weapons; Heroes, fists or guns
+      if (MODE === 'starwars') {
+        var sabers = SWD.weapons.filter(function (w) { return !w.blaster; }), blasters = SWD.weapons.filter(function (w) { return w.blaster; });
+        var saber = S.sw.force ? makeAttack(pick(sabers).n) : null;
+        if (saber) S.weapons.push(saber);
+        if (role !== 'caster' || chance(0.3)) { var bl = makeAttack(pick(role === 'specialist' ? blasters.filter(function (w) { return /pistol|revolver|rifle|shotgun|smg|sniper/i.test(w.n); }) : blasters).n); bl.opt = saber ? 2 : 1; S.weapons.push(bl); }
+      } else if (MODE === 'chakra') {
+        S.weapons.push(makeAttack(role === 'martial' ? firstWeapon(['Katana', 'Wakizashi', 'Nodachi', 'Kusarigama', 'Ninja-to'], ['one-handed', 'two-handed']) : firstWeapon(['Kunai', 'Wakizashi', 'Short sword'], ['light'])));
+        var thrown = makeAttack(firstWeapon(['Shuriken', 'Kunai', 'Dart'], ['ranged', 'light']), 'thrown'); thrown.opt = 2; S.weapons.push(thrown);
+      } else {
+        if (role === 'specialist') { var gun = makeAttack(firstWeapon(['Pistol', 'Revolver', 'Assault Rifle', 'Rifle', 'Pistol, Automatic'], ['ranged'])); S.weapons.push(gun); }
+        S.weapons.push(makeAttack(role === 'martial' && chance(0.5) ? firstWeapon(['Warhammer', 'Longsword', 'Battleaxe', 'Club'], ['one-handed']) : 'unarmed strike'));
+      }
       if (!S.weapons.length) S.weapons.push(makeAttack('unarmed strike'));
-      if (key !== 'consular') { S.armor = bestArmor(key === 'warrior' ? (lvl >= 6 ? 'heavy' : 'medium') : 'light'); }
-      S.languages = 'Basic';
-      typeKey = slugK;
+      // powers: regular spells under the setting's names (as the subsystem allows), as many of each level as the class
+      // table knows (up to 3, so the stat block stays usable), and a few of the subsystem's own free ones
+      var known = d.powers[lvl - 1] || [], flavor = powerFlavor(role), fp = [];
+      if (flavor) {
+        (SWD.powers || []).filter(function (p) { return (p.free || p.lvl === 0) && !UNIQUE_POWER.test(p.n) && (MODE !== 'starwars' || S.sw.force); })
+          .sort(function () { return Math.random() - 0.5; }).slice(0, 2).forEach(function (p) { fp.push({ n: p.n, fp: true, lvl: p.lvl, uses: '' }); });
+        known.forEach(function (n, pl) { subPowers(flavor, pl, Math.min(n, 3), fp.map(function (x) { return x.u || x.n; })).forEach(function (x) { fp.push(x); }); });
+      }
+      if (fp.length) S.casters.push({ kind: 'Force Powers', cls: '', cl: lvl, abil: S.sw.abil, spells: fp, title: flavor && flavor.title });
+      if (role !== 'caster' && MODE !== 'superheroes') { S.armor = bestArmor(role === 'martial' ? (lvl >= 6 && MODE === 'starwars' ? 'heavy' : 'medium') : 'light'); }
+      S.languages = SUB.lang;
+      typeKey = MODE + '-' + role;
     } else {
-      concept = pick(['brute', 'brute', 'warrior', 'skirmisher', 'caster']);
-      var types = concept === 'brute' ? ['magical beast', 'animal', 'aberration', 'dragon', 'outsider', 'undead', 'construct', 'vermin', 'monstrous humanoid']
-        : concept === 'caster' ? ['outsider', 'fey', 'aberration', 'humanoid', 'humanoid', 'undead'] : ['humanoid', 'humanoid', 'monstrous humanoid', 'fey', 'outsider'];
-      if (concept === 'skirmisher') types = types.filter(function (t) { return t !== 'outsider'; });
-      S.type = pick(types);
+      // a chosen type: a concept that fits it (an ooze or a plant can only be a brute)
+      var concepts = ['brute', 'brute', 'warrior', 'skirmisher', 'caster'];
+      if (opts.type) concepts = concepts.filter(function (k) { return CONCEPT_TYPES[k].indexOf(opts.type) >= 0; });
+      concept = RAND_FORCE ? RAND_FORCE.concept : opts.cls ? classConcept(opts.cls) : pick(concepts.length ? concepts : ['brute']);
+      var types = CONCEPT_TYPES[concept];
+      if (cr < 3) types = types.filter(function (t) { return t !== 'construct' && t !== 'dragon'; });
+      S.type = RAND_FORCE || opts.cls ? opts.type || 'humanoid' : opts.type || pick(types);
       var td = TYPES[S.type]; S.die = td.die; S.bab = td.bab; S.ranks = td.ranks;
       S.good = { Fort: td.good.indexOf('Fort') >= 0, Ref: td.good.indexOf('Ref') >= 0, Will: td.good.indexOf('Will') >= 0 };
-      if (S.type === 'humanoid') { S.good.Fort = true; S.subtypes = pick(['human', 'orc', 'goblinoid', 'elf', 'dwarf', 'gnoll']); }
+      if (S.type === 'humanoid') { S.good.Fort = true; S.subtypes = pick(['human', 'human', 'orc', 'goblinoid', 'elf', 'dwarf', 'gnoll', 'halfling', 'gnome', 'kobold', 'lizardfolk', 'tiefling']); }
       // size by CR for the brutes
-      if (concept === 'brute') S.size = cr < 1 ? pick(['Small', 'Medium']) : cr < 4 ? pick(['Medium', 'Large']) : cr < 9 ? 'Large' : cr < 15 ? pick(['Large', 'Huge']) : pick(['Huge', 'Gargantuan']);
+      if (concept === 'brute') S.size = cr < 1 ? pick(['Small', 'Medium']) : cr < 3 ? 'Medium' : cr < 5 ? pick(['Medium', 'Large']) : cr < 9 ? 'Large' : cr < 15 ? pick(['Large', 'Huge']) : pick(['Huge', 'Gargantuan']);
       else if (chance(0.15) && S.type !== 'outsider') S.size = 'Small';
-      var SZ = { Tiny: -4, Small: -2, Medium: 0, Large: 4, Huge: 8, Gargantuan: 12, Colossal: 16 }[S.size] || 0;
+      if (opts.size) S.size = opts.size;
+      var SZ = SIZE_STR[S.size] || 0;
       if (concept === 'brute') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Cha', 'Int'], [18, 16, 12, 12, 10, 6]);
       else if (concept === 'warrior') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Int', 'Cha'], [17, 14, 13, 12, 10, 8]);
       else if (concept === 'skirmisher') setAbil(['Dex', 'Con', 'Wis', 'Str', 'Int', 'Cha'], [18, 14, 12, 12, 10, 10]);
       else setAbil(['Cha', 'Dex', 'Con', 'Wis', 'Int', 'Str'], [18, 14, 14, 12, 12, 8]);
-      S.abil.Str += SZ; S.abil.Con += SZ / 2; S.abil.Dex -= Math.max(0, SZ / 2);
+      S.abil.Str = Math.max(1, S.abil.Str + SZ); S.abil.Con = Math.max(3, S.abil.Con + SZ / 2); S.abil.Dex -= Math.max(0, SZ / 2);
+      if (SZ < 0) S.abil.Dex -= SZ / 2; // smaller is quicker
       var mainA = concept === 'brute' || concept === 'warrior' ? 'Str' : concept === 'skirmisher' ? 'Dex' : 'Cha';
       grow(mainA, 2 * Math.floor(big / 4)); grow('Con', 2 * Math.floor(big / 6));
-      if (S.type === 'animal' || S.type === 'vermin') S.abil.Int = S.type === 'animal' ? 2 : 1;
+      if (S.type === 'animal' || S.type === 'vermin' || S.type === 'ooze' || S.type === 'plant') S.abil.Int = S.type === 'animal' ? 2 : 1;
+      if (S.type === 'ooze') { S.abil.Dex = 1; S.align = 'N'; }
       if (S.type === 'animal') { S.abil.Cha = Math.min(S.abil.Cha, 8); S.align = 'N'; }
-      // a humanoid gets class levels; a monster, racial Hit Dice
-      var CLS = { warrior: ['fighter', 'barbarian', 'ranger', 'slayer', 'cavalier', 'bloodrager', 'antipaladin', 'warpriest'], skirmisher: ['rogue', 'ranger', 'slayer', 'investigator', 'swashbuckler', 'ninja'],
-        caster: ['wizard', 'sorcerer', 'cleric', 'druid', 'witch', 'oracle'] }[concept];
-      var clsSlug = S.type === 'humanoid' && CLS ? pick(CLS.filter(function (s) { return CLASS_BY[s]; }).concat([null])) : null;
-      if (S.type === 'humanoid' && !clsSlug && CLS) clsSlug = (CLS.filter(function (s) { return CLASS_BY[s]; })[0]) || null;
+      // a humanoid gets class levels (or the class asked for, on any type); a monster, racial Hit Dice
+      var CLS = RANDOM_CLS[concept];
+      var clsSlug = RAND_FORCE ? RAND_FORCE.cls : opts.cls ? opts.cls : S.type === 'humanoid' && CLS ? pick(CLS.filter(function (s) { return CLASS_BY[s]; })) || null : null;
+      RAND_LAST = { concept: concept, cls: clsSlug };
       if (clsSlug) {
         classed = true; S.hd = 0;
         S.classes = [{ s: clsSlug, lvl: Math.max(1, Math.min(20, cr < 1 ? 1 : Math.round(cr) + 1)), arch: [], off: [] }];
@@ -836,7 +1441,8 @@
       if (concept === 'brute') {
         var sets = { dragon: [['bite'], ['claw', 2], ['wing', 2]], 'magical beast': pick([[['bite'], ['claw', 2]], [['gore'], ['hoof', 2]], [['bite'], ['tail slap']]]),
           animal: pick([[['bite']], [['bite'], ['claw', 2]], [['gore'], ['hoof', 2]]]), aberration: [['bite'], ['tentacle', 2 + rnd(3)]], outsider: [['claw', 2], ['bite']],
-          undead: pick([[['claw', 2], ['bite']], [['slam', 2]]]), construct: [['slam', 2]], vermin: [['bite'], ['sting']], 'monstrous humanoid': [['claw', 2], ['bite']] }[S.type];
+          undead: pick([[['claw', 2], ['bite']], [['slam', 2]]]), construct: [['slam', 2]], vermin: [['bite'], ['sting']], 'monstrous humanoid': [['claw', 2], ['bite']],
+          plant: pick([[['slam', 2]], [['tentacle', 2], ['bite']]]), ooze: [['slam']], fey: [['claw', 2]], humanoid: [['slam', 2]] }[S.type] || [['slam', 2]];
         if (S.type === 'monstrous humanoid' && chance(0.5)) { S.weapons.push(makeAttack(firstWeapon(['Greataxe', 'Greatclub', 'Falchion', 'Glaive', 'Greatsword'], ['two-handed']))); S.armor = bestArmor('light'); }
         else sets.forEach(function (x) { var w = makeAttack(x[0]); w.count = x[1] || 1; S.weapons.push(w); });
       } else if (concept === 'warrior') {
@@ -848,67 +1454,107 @@
         if (chance(0.5)) { S.weapons.push(makeAttack(firstWeapon(['Rapier', 'Short sword', 'Kukri', 'Scimitar'], ['light', 'one-handed']))); S.weapons.push(makeAttack(firstWeapon(['Shortbow', 'Light crossbow', 'Composite shortbow'], ['ranged']))); }
         else { S.weapons.push(makeAttack(firstWeapon(['Shortbow', 'Longbow', 'Composite longbow', 'Light crossbow'], ['ranged']))); S.weapons.push(makeAttack(firstWeapon(['Short sword', 'Dagger', 'Rapier'], ['light']))); }
         S.weapons.forEach(function (w) { if (/^(melee|off)$/.test(w.mode)) w.finesse = true; });
+        if (/gunslinger/.test(clsSlug || '')) S.weapons = [makeAttack(firstWeapon(['Pistol', 'Musket', 'Pistol, double-barreled', 'Rifle'], ['ranged']))].concat(S.weapons.filter(function (w) { return !/^(ranged|thrown)$/.test(w.mode); }));
         S.armor = bestArmor('light');
       } else {
         S.weapons.push(makeAttack(S.type === 'humanoid' ? firstWeapon(['Quarterstaff', 'Dagger', 'Light mace'], ['one-handed', 'light']) : pick(['claw', 'slam', 'bite'])));
         if (!/^nat/.test(S.weapons[0].mode) && S.weapons[0].mode === 'melee' && /quarterstaff/.test(S.weapons[0].n)) S.weapons[0].mode = 'two';
       }
       typeKey = clsSlug ? concept : S.type;
-      if (S.type !== 'humanoid') S.senses = S.type === 'animal' ? 'low-light vision, scent' : S.type === 'fey' ? 'low-light vision' : 'darkvision 60 ft.';
+      if (S.type !== 'humanoid') S.senses = S.type === 'animal' ? 'low-light vision, scent' : S.type === 'fey' || S.type === 'plant' ? 'low-light vision' : S.type === 'ooze' ? 'blindsight 60 ft.' : 'darkvision 60 ft.';
       else if (S.subtypes !== 'human') S.senses = 'darkvision 60 ft.';
-      S.languages = S.type === 'animal' || S.type === 'vermin' ? '' : S.type === 'outsider' ? pick(['Abyssal', 'Infernal', 'Celestial']) + ', Common' : S.type === 'construct' ? '' : 'Common';
+      S.languages = S.type === 'animal' || S.type === 'vermin' || S.type === 'ooze' || S.type === 'plant' ? '' : S.type === 'outsider' ? pick(['Abyssal', 'Infernal', 'Celestial']) + ', Common' : S.type === 'construct' ? '' : 'Common';
       if (S.type === 'dragon') { var bdc = Math.max(1, Math.ceil(big / 2)); S.specialAttacks = 'breath weapon (' + (big >= 10 ? 60 : 30) + '-ft. cone, ' + bdc + 'd6 ' + pick(['fire', 'acid', 'cold', 'electricity']) + ', Reflex DC ' + T.dc + ' half, usable every 1d4 rounds)'; S.speed = '40 ft., fly ' + (big >= 10 ? 200 : 150) + ' ft. (poor)'; }
-      if (S.type === 'construct') S.defense = 'Immune construct traits' + (big >= 8 ? '; DR ' + (big >= 14 ? 10 : 5) + '/adamantine' : '');
+      if (S.type === 'ooze') S.defense = 'Immune ooze traits (critical hits, flanking, mind-affecting, paralysis, poison, polymorph, sleep, stun)';
+      else if (S.type === 'plant') S.defense = 'Immune plant traits (mind-affecting, paralysis, poison, polymorph, sleep, stun)';
+      else if (S.type === 'construct') S.defense = 'Immune construct traits' + (big >= 8 ? '; DR ' + (big >= 14 ? 10 : 5) + '/adamantine' : '');
       else if (S.type === 'undead') S.defense = 'Immune undead traits' + (big >= 6 ? '; DR ' + (big >= 12 ? 10 : 5) + '/' + pick(['bludgeoning', 'silver', 'good']) : '');
       else if (S.type === 'outsider' && big >= 5) S.defense = 'DR ' + (big >= 12 ? 10 : 5) + '/' + pick(['good', 'evil', 'cold iron', 'magic']) + '; Resist fire 10' + (big >= 8 ? '; SR ' + (big + 11) : '');
       else if (S.type === 'aberration' && big >= 7) S.defense = 'SR ' + (big + 11);
+      if (clsSlug === 'kineticist') randomKineticist(S.classes[0].lvl);
       // spells: spell-like abilities for monsters, spells for a classed caster
-      if (concept === 'caster') {
-        var list = clsSlug ? { wizard: 'wizard', sorcerer: 'sorcerer', cleric: 'cleric', druid: 'druid', witch: 'witch', oracle: 'oracle' }[clsSlug] : pick(['sorcerer', 'cleric', 'druid', 'witch']);
-        var abil = clsSlug === 'wizard' || clsSlug === 'witch' ? 'Int' : clsSlug === 'cleric' || clsSlug === 'druid' ? 'Wis' : 'Cha';
+      else if (concept === 'caster') {
+        var list = clsSlug ? (CLASSES.indexOf(clsSlug.replace(/^(legendary|unchained)-/, '')) >= 0 ? clsSlug.replace(/^(legendary|unchained)-/, '') : 'sorcerer') : pick(['sorcerer', 'cleric', 'druid', 'witch']);
+        var abil = /^(wizard|witch|magus|arcanist|psychic|occultist|legendary-magus|alchemist|legendary-alchemist|investigator)$/.test(clsSlug) ? 'Int' : /^(cleric|druid|inquisitor|shaman|spiritualist|hunter|legendary-cleric|ranger|warpriest|adept)$/.test(clsSlug) ? 'Wis' : 'Cha';
         if (abil !== 'Cha') { var t2 = S.abil[abil]; S.abil[abil] = S.abil.Cha; S.abil.Cha = t2; }
         var clv = clsSlug ? S.classes[0].lvl : Math.max(1, Math.round(big * 1.2));
-        var top = Math.max(clsSlug ? 0 : 1, Math.min(9, clsSlug && /sorcerer|oracle/.test(clsSlug) ? Math.floor(clv / 2) : Math.ceil(clv / 2)));
-        var kind = !clsSlug ? 'Spell-Like Abilities' : /sorcerer|oracle/.test(clsSlug) ? 'Spells Known' : 'Spells Prepared';
-        var uses = kind === 'Spell-Like Abilities' ? function (l) { return l <= Math.max(1, top - 3) ? 'At will' : l === top ? '1/day' : '3/day'; } : kind === 'Spells Prepared' ? function () { return 1 + rnd(2); } : function () { return ''; };
+        // 6-level casters (bard, magus, inquisitor) get spells more slowly
+        var six = /^(bard|magus|inquisitor|skald|mesmerist|occultist|spiritualist|hunter|legendary-magus)$/.test(clsSlug);
+        var top = Math.max(clsSlug ? 0 : 1, six ? Math.min(6, Math.floor((clv + 2) / 3)) : Math.min(9, clsSlug && /sorcerer|oracle|psychic/.test(clsSlug) ? Math.floor(clv / 2) : Math.ceil(clv / 2)));
+        var kind = !clsSlug ? 'Spell-Like Abilities' : /sorcerer|oracle|bard|inquisitor|skald|mesmerist|psychic|spiritualist|occultist|hunter|summoner|medium/.test(clsSlug) ? 'Spells Known' : 'Spells Prepared';
+        if (/magus/.test(clsSlug || '')) { S.weapons = [makeAttack(firstWeapon(['Scimitar', 'Longsword', 'Rapier'], ['one-handed']))]; S.armor = bestArmor('light'); }
+        var uses = kind === 'Spell-Like Abilities' ? function (l) { return l <= Math.max(1, Math.floor(top / 3)) && l < top ? 'At will' : l === top ? '1/day' : '3/day'; } : kind === 'Spells Prepared' ? function () { return 1 + rnd(2); } : function () { return ''; };
         var sp = randomSpells(list, top, kind === 'Spell-Like Abilities' ? 1 + rnd(2) : 2 + rnd(2), uses);
         if (kind === 'Spell-Like Abilities') sp = sp.filter(function (x) { return x.lvl > 0; });
         // the casting ability so the highest spell's DC is about the CR's primary DC
-        S.abil[abil] = Math.max(S.abil[abil], Math.min(40, 10 + 2 * (T.dc - 10 - top)));
+        S.abil[abil] = Math.max(12, Math.min(40, 10 + 2 * (T.dc - 10 - top) + 1));
         S.casters.push({ kind: kind, cls: list, cl: clv, abil: abil, spells: sp });
       }
     }
     // skills and feats, then the numbers are nudged toward the CR's
-    D0 = compute();
+    var D0 = compute();
     S.name = pick(NAME_ADJ) + ' ' + pick(NAME_NOUN[typeKey] || NAME_NOUN[concept] || ['Foe']);
-    var setKey = SWM ? concept : concept === 'brute' ? 'brute' : concept;
-    var sk = SKILL_SETS[setKey].filter(function (n) { return D0.skills[n]; }), pool = D0.rankPool, cap = D0.totalHD;
+    // skills: a classed enemy's from its concept; a monster's from its type (an animal does not pick locks)
+    var setKey = SWM || classed ? concept : SKILL_BY_TYPE[S.type] ? S.type : concept;
+    var skList = (SKILL_BY_TYPE[setKey] || SKILL_SETS[setKey]).slice();
+    if (!classed && concept === 'caster') skList = skList.concat(['Spellcraft', 'Knowledge (arcana)']);
+    var sk = skList.filter(function (n, i) { return D0.skills[n] && skList.indexOf(n) === i; }), pool = D0.rankPool, cap = D0.totalHD;
     if (SWM && D0.sw && D0.sw.cls) sk.slice(0, D0.sw.cls.picks).forEach(function (n) { (S.skills[n] = S.skills[n] || {}).cls = true; });
     sk.forEach(function (n) { var r = Math.min(cap, pool); if (r > 0) { (S.skills[n] = S.skills[n] || {}).r = r; pool -= r; } });
-    var D0;
-    var F = [], addF = function (n) { if (F.length < D0.featSlots && F.indexOf(n) < 0) F.push(n); };
-    var mainW = S.weapons[0];
+    var noRanged = function () { return !S.weapons.some(function (w) { return /^(ranged|thrown)$/.test(w.mode); }); };
+    var F = [], addF = function (n) {
+      if (/^(Point-Blank Shot|Rapid Shot|Manyshot)$/.test(n) && noRanged()) return;
+      if (n && F.length < D0.featSlots && F.indexOf(n) < 0) F.push(n);
+    };
+    // one or two builds: feat chains that work together, with what they need (weapons, scores, ranks, a spell)
+    var builds = shuffle(randomBuilds(concept, D0, sk)).slice(0, D0.featSlots >= 6 ? 2 : 1);
+    builds.forEach(function (b) { if (b.setup) b.setup(); });
+    builds.forEach(function (b) { b.feats().filter(function (n) { return n && featOk(n.replace(/\s*\(.*$/, '')); }).forEach(addF); });
+    var mainW = S.weapons[0], wfOf = function (w) { var g = weaponGroups(w); return 'Weapon Focus (' + (g[0] || w.n) + ')'; };
     if (SWM) {
       if (S.weapons.some(function (w) { return /lightsaber/i.test(w.n); })) {
         var style = pick(['Shii-cho', 'Makashi', 'Soresu', 'Ataru', 'Shien', 'Djem-so', 'Niiman', 'Vapaad']);
         SWD.forms.filter(function (f) { return f.n.indexOf(style) === 0 && f.lvl <= D0.totalHD; }).forEach(function (f) { addF(f.n); });
       }
-      if (mainW && featOk('Weapon Focus')) addF('Weapon Focus (' + mainW.n + ')');
+      if (mainW && featOk('Weapon Focus')) addF(wfOf(mainW));
       shuffle(['Improved Initiative', 'Toughness', 'Iron Will', 'Dodgility', 'Lightning Reflexes', 'Great Fortitude', 'Point-Blank Shot', 'Precise Shot', 'Combat Reflexes', 'Alertness']).filter(featOk).forEach(addF);
     } else {
       if (concept === 'skirmisher' && featOk('Weapon Finesse')) addF('Weapon Finesse');
-      if (mainW && featOk('Weapon Focus')) addF('Weapon Focus (' + mainW.n + ')');
+      if (clsSlug === 'kineticist') { addF('Point-Blank Shot'); addF('Weapon Focus (' + S.weapons[0].n + ')'); ['Extra Wild Talent', 'Improved Initiative', 'Toughness'].filter(featOk).forEach(addF); }
+      if (mainW && featOk('Weapon Focus') && clsSlug !== 'kineticist') addF(wfOf(mainW));
       if (mainW && D0.bab >= 8 && featOk('Improved Critical')) addF('Improved Critical (' + mainW.n + ')');
       shuffle(FEAT_SETS[concept]).filter(featOk).forEach(addF);
       if (featOk('Skill Focus')) addF('Skill Focus (perception)');
     }
+    // more feats than the concept's list: any of the others, then Skill Focus in its skills
+    shuffle([].concat.apply([], Object.keys(FEAT_SETS).map(function (k) { return FEAT_SETS[k]; }))).filter(featOk).forEach(addF);
+    if (featOk('Skill Focus')) sk.forEach(function (n) { addF('Skill Focus (' + n.toLowerCase() + ')'); });
     S.feats = F;
     tuneToCR(T, cr, classed);
+    if (!SWM && !classed) monsterAbilities(cr);
+    if ((S.classes || []).some(function (c) { return c.s === 'barbarian'; })) randomRagePowers();
+    if (tierN) randomMythic(tierN, concept);
     return S;
   }
   // nudges a built enemy toward the CR's AC, attack, damage, saves and hp with gear and racial bonuses
   function tuneToCR(T, cr, classed) {
     var big = Math.max(0, Math.round(cr)), D = compute(), gear = [];
+    var top = function (D) { var g = D.groups.melee[0] || D.groups.ranged[0]; return g && g[0] ? g[0].bonuses[0] : null; };
+    // too strong for its CR: a weaker attacking ability, then a penalty
+    var a = top(D);
+    if (a != null && a > T.atk + 1) {
+      var w0 = (D.groups.melee[0] ? S.weapons.filter(function (w) { return !/^(ranged|thrown)$/.test(w.mode); }) : S.weapons)[0] || {};
+      var ab = /^(ranged|thrown)$/.test(w0.mode) || w0.finesse ? 'Dex' : 'Str';
+      S.abil[ab] = Math.max(8, S.abil[ab] - 2 * (a - T.atk - 1));
+      a = top(compute());
+      if (a > T.atk + 1) S.weapons.forEach(function (w) { w.misc = -(a - T.atk - 1); });
+    }
+    // too much AC: no shield, then lighter armor
+    D = compute();
+    var over = D.ac - T.ac;
+    if (over > 2 && S.shield) { S.shield = ''; over = compute().ac - T.ac; }
+    if (over > 2 && S.armor) { var ak = (armorData(S.armor) || {}).k; S.armor = over > 5 || ak === 'light' ? '' : bestArmor(ak === 'heavy' ? 'medium' : 'light'); }
+    D = compute();
     // AC: magic armor, a ring of protection, then natural armor (or an amulet)
     var gap = T.ac - D.ac;
     if (gap > 0 && S.armor) { S.armorEnh = Math.min(gap, 5, Math.floor(big / 3)); gap -= S.armorEnh; }
@@ -917,11 +1563,10 @@
     if (gap > 0) { S.natural = classed ? Math.min(gap, 5, Math.floor(big / 4)) : gap; gap -= S.natural; }
     // attack: magic weapons, then a racial (or a buff's) bonus
     D = compute();
-    var top = function (D) { var g = D.groups.melee[0] || D.groups.ranged[0]; return g && g[0] ? g[0].bonuses[0] : null; };
-    var a = top(D);
+    a = top(D);
     if (a != null && a < T.atk) {
       var enh = Math.min(T.atk - a, 5, Math.floor(big / 3));
-      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode)) w.enh = enh; });
+      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode) && !w.single) w.enh = enh; });
       D = compute(); a = top(D);
       var rest = T.atk - a;
       if (rest > 0) S.weapons.forEach(function (w) { w.misc = classed ? Math.ceil(rest / 2) : rest; });
@@ -929,11 +1574,22 @@
     // damage: the average of the first full attack
     D = compute();
     var g = D.groups.melee[0] || D.groups.ranged[0];
+    var countHits = function (g) { return g.reduce(function (t, x) { return t + x.count * x.bonuses.length; }, 0); };
+    // a big monster with one or two natural attacks gets a pair of claws (or slams) rather than one huge hit
+    if (g && !classed && big >= 5 && countHits(g) < 3 && S.weapons.length && S.weapons.every(function (w) { return /^nat/.test(w.mode); }) && !S.casters.length) {
+      var extraN = makeAttack(/^(construct|undead|ooze|plant)$/.test(S.type) ? 'slam' : 'claw'); extraN.count = 2;
+      if (S.weapons.some(function (w) { return w.n === extraN.n; })) S.weapons.forEach(function (w) { if (w.n === extraN.n) w.count = Math.max(2, w.count || 1); });
+      else S.weapons.push(extraN);
+      D = compute(); g = D.groups.melee[0];
+    }
     if (g) {
-      var hits = 0, avg = 0;
-      g.forEach(function (x) { var n = x.count * x.bonuses.length; hits += n; avg += n * (diceAvg(x.dice) + x.mod); });
-      var per = (T.dmg * (S.casters.length ? 0.6 : 1) - avg) / Math.max(1, hits);
-      if (per >= 1) S.weapons.forEach(function (w) { w.dmgMisc = Math.round(classed ? per / 2 : per); });
+      var hits = countHits(g), avg = 0;
+      g.forEach(function (x) { var n = x.count * x.bonuses.length; avg += n * (diceAvg(x.dice) + x.mod); });
+      // the rest of the damage as a bonus on each hit, at most about the CR per hit
+      var per = Math.min((T.dmg * (S.casters.length ? 0.6 : 1) - avg) / Math.max(1, hits), Math.max(3, big));
+      // (a kinetic blast's damage is the rules' own: dice + Con)
+      if (per >= 1) S.weapons.forEach(function (w) { if (!w.single) w.dmgMisc = (w.dmgMisc || 0) + Math.round(classed ? per / 2 : per); });
+      else if (avg > T.dmg * 1.25 && per <= -1) S.weapons.forEach(function (w) { if (!w.single) w.dmgMisc = (w.dmgMisc || 0) + Math.round(per); });
     }
     // saves: a cloak of resistance, or racial bonuses
     D = compute();
@@ -961,14 +1617,64 @@
   }
   function randomButton(cls) {
     return h('button', { type: 'button', class: 'md-button ' + (cls || 'eb-add'), text: 'Random enemy…', title: 'Make a random enemy of the CR you choose (it replaces the current one)', onclick: function () {
-      var t = prompt('CR of the random enemy (1/8, 1/4, 1/2, 1, 2… 30). It replaces the current enemy.', S.cr || '1');
-      if (t == null) return;
-      t = t.trim().replace(/\s+/g, '');
-      var v = crValue(t);
-      if (!(v > 0) || v > 30) { alert('That is not a CR: try 1/2, 3 or 12.'); return; }
-      if (v >= 1) t = String(Math.round(v)); else if (CRS.indexOf(t) < 0) t = ['1/8', '1/6', '1/4', '1/3', '1/2'].reduce(function (b, k) { return Math.abs(crValue(k) - v) < Math.abs(crValue(b) - v) ? k : b; });
-      randomEnemy(t); store(); redrawAll(); window.scrollTo(0, root.getBoundingClientRect().top + window.scrollY - 80);
+      randomForm(makeRandom);
     } });
+  }
+  // the Random enemy form: CR (required), and if wanted a creature type (a class in Star Wars) and a size
+  function randomForm(onOk) {
+    var old = document.querySelector('.eb-dialog'); if (old) old.remove();
+    var crIn = h('input', { type: 'text', class: 'eb-t', value: S.cr || '1', inputMode: 'decimal', required: true });
+    var kindSel = SWM
+      ? h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any class' })].concat(SWD.classes.map(function (c) { return h('option', { value: c.s, text: c.n }); })))
+      : h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any type' })].concat(Object.keys(TYPES).map(function (t) { return h('option', { value: t, text: t }); })));
+    var tierIn = h('input', { type: 'number', class: 'eb-t eb-short', value: 0, min: 0, max: 10 });
+    var clsSel = SWM ? null : h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any (or none)' }),
+      h('optgroup', { label: 'Classes' }, DATA.classes.filter(function (c) { return !c.npc; }).map(function (c) { return h('option', { value: c.s, text: c.n }); })),
+      h('optgroup', { label: 'NPC classes' }, DATA.classes.filter(function (c) { return c.npc; }).map(function (c) { return h('option', { value: c.s, text: c.n }); }))]);
+    var sizeSel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any size' })].concat(SIZE_ORDER.map(function (s) { return h('option', { value: s, text: s }); })));
+    var msg = h('p', { class: 'eb-over' });
+    var dlg = h('dialog', { class: 'eb-dialog md-typeset' });
+    var form = h('form', { method: 'dialog' },
+      h('h3', { text: 'Random enemy' }),
+      h('p', { class: 'eb-note', text: 'It replaces the current enemy. Only the CR is needed; leave the rest on “any” for a surprise.' }),
+      field('CR', crIn, '1/8, 1/4, 1/2, 1, 2… 30'),
+      field(SWM ? 'Class' : 'Creature type', kindSel),
+      clsSel ? field('Class', clsSel, 'empty: as the creature type goes') : null,
+      field('Size', sizeSel),
+      field('Mythic tier', tierIn, '0 = not mythic; Unbound Path'),
+      msg,
+      h('div', { class: 'eb-actions' },
+        h('button', { type: 'submit', class: 'md-button md-button--primary', text: 'Make it' }),
+        h('button', { type: 'button', class: 'md-button', text: 'Cancel', onclick: function () { dlg.close(); } })));
+    form.addEventListener('submit', function (e) {
+      var t = crIn.value.trim().replace(/\s+/g, ''), v = crValue(t);
+      if (!(v > 0) || v > 30) { e.preventDefault(); msg.textContent = 'That is not a CR: try 1/2, 3 or 12.'; crIn.focus(); return; }
+      if (v >= 1) t = String(Math.round(v)); else if (CRS.indexOf(t) < 0) t = ['1/8', '1/6', '1/4', '1/3', '1/2'].reduce(function (b, k) { return Math.abs(crValue(k) - v) < Math.abs(crValue(b) - v) ? k : b; });
+      var opts = { size: sizeSel.value || '', tier: Math.max(0, Math.min(10, parseInt(tierIn.value, 10) || 0)) };
+      if (SWM) opts.cls = kindSel.value || ''; else { opts.type = kindSel.value || ''; opts.cls = clsSel.value || ''; }
+      setTimeout(function () { dlg.remove(); onOk(t, opts); }, 0);
+    });
+    dlg.addEventListener('close', function () { setTimeout(function () { if (dlg.isConnected && !dlg.open) dlg.remove(); }, 0); });
+    dlg.appendChild(form);
+    document.body.appendChild(dlg);
+    dlg.showModal(); crIn.select();
+  }
+  function makeRandom(t, opts) {
+    {
+      var done = function () { store(); redrawAll(); window.scrollTo(0, root.getBoundingClientRect().top + window.scrollY - 80); };
+      RAND_LAST = null; randomEnemy(t, opts);
+      // a class whose features are not loaded yet: load them, then build that class again so its bonus feats and bonuses count
+      var last = RAND_LAST;
+      if (!SWM && last && last.cls && CLASS_BY[last.cls].arch && (!ARCH[last.cls] || ARCH[last.cls] === 'loading')) {
+        loadArch(last.cls);
+        var wait = setInterval(function () {
+          if (ARCH[last.cls] === 'loading') return;
+          clearInterval(wait);
+          RAND_FORCE = last; try { randomEnemy(t, opts); } finally { RAND_FORCE = null; }
+          done();
+        }, 50);
+      } else done();
+    }
   }
 
   // ---------- UI ----------
@@ -1025,7 +1731,7 @@
       field('Senses', textBox(function () { return S.senses; }, function (v) { S.senses = v; }, { ph: 'darkvision 60 ft., scent' })),
       field('Languages', textBox(function () { return S.languages; }, function (v) { S.languages = v; })),
       field('Aura', textBox(function () { return S.aura; }, function (v) { S.aura = v; }))
-    ), null, newEnemyButton('eb-head-btn'));
+    ), null, h('span', { class: 'eb-head-btns' }, randomButton('eb-head-btn'), newEnemyButton('eb-head-btn')));
   }
 
   // the class feature choices a Star Wars class gets: "Class Feature N" in its table; at 12th, 16th and 18th they are small
@@ -1055,11 +1761,11 @@
     }));
   }
   function swCard() {
-    return card('Star Wars class', slot(function (redraw) {
+    return card((MODE === 'starwars' ? 'Star Wars' : MODE === 'chakra' ? 'Shinobi' : 'Hero') + ' class', slot(function (redraw) {
       var D = compute();
       var c = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0];
       var d = c && CLASS_BY[c.s];
-      var pick = select([['', '— no class (a creature or droid) —']].concat(SWD.classes.map(function (x) { return ['sw-' + x.s, x.n]; })),
+      var pick = select([['', SUB.noClass]].concat(SWD.classes.map(function (x) { return ['sw-' + x.s, x.n]; })),
         function () { return c ? c.s : ''; }, function (v) {
           if (!v) S.classes = [];
           else if (c) { if (c.s !== v) { c.s = v; c.picks = []; } }
@@ -1068,15 +1774,15 @@
       var head = h('div', { class: 'eb-grid' },
         field('Class', pick),
         c ? field('Level', numBox(function () { return c.lvl; }, function (v) { c.lvl = v; }, { min: 1, max: 20 })) : null,
-        field('Force Sensitive', d && d.key === 'consular' ? h('span', { class: 'eb-note', text: 'free (Consular)' }) : check(function () { return S.sw.force; }, function (v) { S.sw.force = v; }, 'feat')),
-        field('Stamina / casting ability', select(['Wis', 'Int', 'Cha'], function () { return S.sw.abil; }, function (v) { S.sw.abil = v; })),
-        field('Karma', numBox(function () { return S.sw.karma || 0; }, function (v) { S.sw.karma = v; }, { min: -100, max: 100 }), '–100 dark side · +100 light side'));
+        !SUB.force ? null : field('Force Sensitive', d && d.role === 'caster' ? h('span', { class: 'eb-note', text: 'free (' + d.n + ')' }) : check(function () { return S.sw.force; }, function (v) { S.sw.force = v; }, 'feat')),
+        field(capFirst(SUB.res) + ' / casting ability', select(['Wis', 'Int', 'Cha'], function () { return S.sw.abil; }, function (v) { S.sw.abil = v; })),
+        !SUB.karma ? null : field('Karma', numBox(function () { return S.sw.karma || 0; }, function (v) { S.sw.karma = v; }, { min: -100, max: 100 }), '–100 dark side · +100 light side'));
       var info = h('p', { class: 'eb-out' });
       watch(info, function (D2) {
         var parts = [];
         if (D2.sw.cls) {
           var picked = SKILLS.filter(function (sk) { return (S.skills[sk[0]] || {}).cls; }).length;
-          parts.push('d' + D2.sw.cls.die + ' HD · stamina ' + D2.sw.stamina + ' (' + D2.sw.cls.stamina + ' + ' + S.sw.abil + ' per level) · ' + D2.sw.cls.ranks + ' + Int ranks per level · class skills: tick ' + D2.sw.cls.picks + ' (' + picked + ' ticked)');
+          parts.push('d' + D2.sw.cls.die + ' HD · ' + SUB.res + ' ' + D2.sw.stamina + ' (' + D2.sw.cls.stamina + ' + ' + S.sw.abil + ' per level) · ' + D2.sw.cls.ranks + ' + Int ranks per level · class skills: tick ' + D2.sw.cls.picks + ' (' + picked + ' ticked)');
         }
         if (D2.sw.fsDodge) parts.push('Force Sensitive: +' + D2.sw.fsDodge + ' dodge AC');
         var k = D2.sw.karma;
@@ -1216,7 +1922,7 @@
         cost.textContent = ok ? 'Point buy: ' + total + ' points (15 low fantasy · 20 standard · 25 high)' : 'Point buy: some scores are outside 7–18';
       });
       return h('div', null, h('div', { class: 'eb-abils' }, rows), cost,
-        h('p', { class: 'eb-note', text: 'Click − / +, type the number, or roll the mouse wheel over it (Shift + wheel: 5 at a time).' }));
+        h('p', { class: 'eb-note', text: 'Click − / +, type the number, or click it and roll the mouse wheel while the pointer stays on it (Shift + wheel: 5 at a time); otherwise the wheel just scrolls the page.' }));
     }));
   }
 
@@ -1260,7 +1966,7 @@
           check(function () { return st().cls; }, function (v) { st().cls = v; }),
           numBox(function () { return st().r || 0; }, function (v) { st().r = v; }, { min: 0, max: function () { return lastD ? lastD.totalHD : Math.max(1, S.hd); } }),
           numBox(function () { return st().misc || 0; }, function (v) { st().misc = v; }, { min: -20, max: 40 }),
-          calc('skills.' + n + '.total'));
+          calc('skills.' + n + '.disp'));
       })),
       h('p', { class: 'eb-note', text: 'Class: +3 once it has a rank. Misc: racial and other bonuses. Size and armor check penalties are added. Only skills with ranks or misc go in the stat block.' })
     ));
@@ -1282,8 +1988,9 @@
         var info = h('span', { class: 'eb-featinfo' });
         var input = textBox(function () { return S.feats[i] || ''; }, function (v) { S.feats[i] = v; }, { list: 'eb-feat-list', ph: 'feat ' + (i + 1), after: function () { paint(); } });
         var paint = function () {
-          var v = (S.feats[i] || '').trim(), u = v && featSlug(v), auto = compute().auto[v.toLowerCase()];
-          info.innerHTML = (u ? '<a href="' + esc(new URL('rules/feats/' + u + '/', BASE).href) + '" target="_blank">↗</a> ' : '') + (auto ? '<span class="eb-auto">' + esc(auto) + '</span>' : '');
+          var v = (S.feats[i] || '').trim(), fd = v && featData(v), u = fd && fd.u, auto = compute().auto[v.toLowerCase()];
+          if (fd && fd.gone) auto = 'no longer a feat: it is part of ' + fd.gone;
+          info.innerHTML = (u ? '<a href="' + esc(new URL(u.indexOf('/') >= 0 ? u : 'rules/feats/' + u + '/', BASE).href) + '" target="_blank">↗</a> ' : '') + (auto ? '<span class="eb-auto">' + esc(auto) + '</span>' : '');
         };
         paint();
         list.appendChild(h('div', { class: 'eb-feat' + (over ? ' eb-over' : '') }, input, info,
@@ -1295,7 +2002,7 @@
           field('Bonus feats', numBox(function () { return S.bonusFeats; }, function (v) { S.bonusFeats = v; redraw(); }, { min: 0, max: 30 }))),
         list,
         h('button', { type: 'button', class: 'md-button eb-add', text: '+ Extra feat', onclick: function () { S.feats.length = Math.max(S.feats.length, n); S.feats.push(''); changed(); redraw(); } }),
-        h('p', { class: 'eb-note', text: 'Worked out for you: Improved Initiative, Toughness, the save feats, Dodge / Dodgility, Weapon Finesse, Weapon Focus, Weapon Specialization, Improved Critical, Skill Focus, Alertness, Improved Natural Armor, Two-Weapon Fighting, Multiattack and Rapid Shot. Power Attack and Deadly Aim need no feat on this wiki: set them as a Buff on the Roll20 sheet.' }));
+        h('p', { class: 'eb-note', text: 'Worked out for you: Improved Initiative, Toughness, the save feats, Dodge / Dodgility, Weapon Finesse, Weapon Focus (a weapon group, as the wiki has it: +1 BAB with that group, extra attacks included; pick it from the list, such as Weapon Focus (natural)), Greater Weapon Focus, Weapon Specialization, Improved Critical (these three by weapon), Skill Focus, Alertness, Improved Natural Armor, Two-Weapon Fighting, Double Slice, Multiattack, Rapid Shot, Spell Focus and Greater Spell Focus (by school) and Spell Specialization (by spell). Power Attack and Deadly Aim need no feat on this wiki: set them as a Buff on the Roll20 sheet.' }));
     }));
   }
 
@@ -1358,13 +2065,13 @@
         if (!n && !have[i]) return '';
         var over = (have[i] || 0) > n;
         return '<span class="' + (over ? 'eb-over' : '') + '">' + (i ? ord(i) : '0th') + ' ' + (have[i] || 0) + '/' + n + '</span>';
-      }).filter(Boolean).join(' · ') + ' · stamina ' + D.sw.stamina;
+      }).filter(Boolean).join(' · ') + ' · ' + SUB.res + ' ' + D.sw.stamina;
     });
     return p;
   }
   function spells() {
     var classes = [['', 'any class']].concat(CLASSES.map(function (c) { return [c, c]; }));
-    return card(SWM ? 'Force powers and spells' : 'Spells', slot(function (redraw) {
+    return card(SWM ? SUB.powers + ' and spells' : 'Spells', slot(function (redraw) {
       var blocks = S.casters.map(function (c, ci) {
         var list = h('div', { class: 'eb-spells' });
         var drawList = function () {
@@ -1377,7 +2084,7 @@
               var cc = D.casters[ci]; if (!cc || cc.c !== c) return;
               var b = cc.spells[i]; if (!b) return;
               var t = [];
-              if (b.cost) t.push('stamina ' + b.cost);
+              if (b.cost) t.push(SUB.res + ' ' + b.cost);
               if (b.dc) t.push('DC ' + b.dc + ' ' + b.save);
               if (b.touch) t.push((b.rays > 1 ? b.rays + ' rays, ' : '') + 'ranged touch ' + sgn(D.rangedTouch));
               if (b.melee) t.push('melee touch ' + sgn(D.meleeTouch));
@@ -1393,7 +2100,7 @@
                 ? h('span', { class: 'eb-inline' }, '×', numBox(function () { return +sp.uses || 1; }, function (v) { sp.uses = v; }, { min: 1, max: 9 }))
                 : h('span', { class: 'eb-inline' }, textBox(function () { return sp.uses; }, function (v) { sp.uses = v; }, { ph: 'per day', cls: 'eb-short' }));
             list.appendChild(h('div', { class: 'eb-spell' },
-              h('a', { href: new URL(sp.fp ? 'campaign-systems/star-wars/force-powers/' : 'magic/spells/' + sp.u + '/', BASE).href, target: '_blank', text: sp.n }),
+              h('a', { href: new URL(sp.fp ? SUB.powersPage : 'magic/spells/' + sp.u + '/', BASE).href, target: '_blank', text: sp.as ? sp.as + (sp.as.toLowerCase().indexOf(sp.n.toLowerCase()) >= 0 ? '' : ' (' + sp.n + ')') : sp.n }),
               h('span', { class: 'eb-inline' }, 'lvl', numBox(function () { return sp.lvl; }, function (v) { sp.lvl = v; }, { min: 0, max: 9 })),
               usesCtl, out,
               h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove', onclick: function () { c.spells.splice(i, 1); changed(); redraw(); } })));
@@ -1414,7 +2121,7 @@
         adder.addEventListener('change', add); adder.addEventListener('input', function () { var v = adder.value.trim().toLowerCase(); if (SPELL_BY_NAME[v] || FP_BY[v]) add(); });
         return h('div', { class: 'eb-caster' },
           h('div', { class: 'eb-grid' },
-            field('Kind', select(SWM ? ['Force Powers', 'Spells Prepared', 'Spell-Like Abilities'] : ['Spell-Like Abilities', 'Spells Prepared', 'Spells Known'], function () { return c.kind; }, function (v) { c.kind = v; }, redraw)),
+            field('Kind', select(SWM ? [['Force Powers', SUB.powers], 'Spells Prepared', 'Spell-Like Abilities'] : ['Spell-Like Abilities', 'Spells Prepared', 'Spells Known'], function () { return c.kind; }, function (v) { c.kind = v; }, redraw)),
             SWM ? null : field('Class (for spell levels)', select(classes, function () { return c.cls || ''; }, function (v) { c.cls = v; })),
             field('Caster level', numBox(function () { return c.cl; }, function (v) { c.cl = v; }, { min: 1, max: 20 })),
             field('Casting ability', select(ABIL.slice(3), function () { return c.abil; }, function (v) { c.abil = v; })),
@@ -1465,7 +2172,7 @@
       var xp = root.querySelector('.eb-xp'); if (xp) xp.textContent = XP[S.cr] ? XP[S.cr].toLocaleString('en-US') + ' XP' : '';
     });
     return card('Stat block', h('div', null,
-      h('div', { class: 'eb-actions' }, copyR20, newEnemyButton(), h('label', { class: 'r20-hint' }, 'Roll20 character name (optional): ', who)),
+      h('div', { class: 'eb-actions' }, copyR20, randomButton(), newEnemyButton(), h('label', { class: 'r20-hint' }, 'Roll20 character name (optional): ', who)),
       h('p', { class: 'eb-note', html: 'Paste it into the Bio &amp; Info of a blank <b>Pathfinder by Roll20</b> character, as explained in <a href="' + esc(new URL('monsters/roll20/', BASE).href) + '">Monsters in Roll20</a>.' }),
       preview, h('div', { class: 'eb-actions' }, copyMd)), 'eb-sticky');
   }
@@ -1499,10 +2206,11 @@
     var dl = function (id, values) { return h('datalist', { id: id }, values.map(function (v) { return h('option', { value: v }); })); };
     return h('div', null,
       dl('eb-weapon-list', Object.keys(NATURAL).concat(DATA.weapons.map(function (w) { return w.n; }))),
-      dl('eb-feat-list', DATA.feats.map(function (f) { return f.n; })),
+      dl('eb-feat-list', allGroups().map(function (g) { return 'Weapon Focus (' + g + ')'; }).concat(DATA.feats.map(function (f) { return f.n; }))),
       dl('eb-spell-list', (SWD ? SWD.powers.map(function (p) { return p.n; }) : []).concat(Object.keys(SPELLS).map(function (u) { return SPELLS[u].n; }))),
       SWM ? swDatalists() : null,
-      dl('eb-uses', ['At will', 'Constant', '1/day', '2/day', '3/day', '1/week']));
+      dl('eb-uses', ['At will', 'Constant', '1/day', '2/day', '3/day', '1/week']),
+      h('datalist', { id: 'eb-mythic-list' }, Object.keys(mythicEntries()).map(function (k) { return h('option', { value: k }); })));
   }
 
   function redrawAll() {
@@ -1510,7 +2218,7 @@
     root.innerHTML = '';
     root.appendChild(datalists());
     root.appendChild(h('div', { class: 'eb-layout' },
-      basics(), SWM ? swCard() : classesCard(), abilities(), defense(), skills(), feats(), attacks(), spells(), specials(), saving(), output()));
+      basics(), SWM ? swCard() : classesCard(), mythicCard(), abilities(), defense(), skills(), feats(), attacks(), spells(), specials(), saving(), output()));
     store();
     refresh();
   }
@@ -1519,7 +2227,7 @@
   Promise.all([
     fetch(new URL('tools/enemy-builder-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('enemy-builder-data.json ' + r.status); return r.json(); }),
     fetch(new URL('tools/spell-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('spell-data.json ' + r.status); return r.json(); }),
-    SWM ? fetch(new URL('tools/starwars-builder-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('starwars-builder-data.json ' + r.status); return r.json(); }) : null
+    SWM ? fetch(new URL('tools/' + SUB.data, BASE)).then(function (r) { if (!r.ok) throw new Error(SUB.data + ' ' + r.status); return r.json(); }) : null
   ]).then(function (res) {
     DATA = res[0];
     var cls = {};
@@ -1530,7 +2238,7 @@
       SWD = res[2];
       SWD.classes.forEach(function (c) {
         CLASS_BY['sw-' + c.s] = { s: 'sw-' + c.s, key: c.s, n: c.n, die: c.die, ranks: c.ranks, skills: [], table: c.table, special: c.special, sw: true,
-          stamina: c.stamina, powers: c.powers, picks: c.skillPicks, prof: c.prof, page: 'campaign-systems/star-wars/#' + c.s };
+          stamina: c.stamina, powers: c.powers, picks: c.skillPicks, prof: c.prof, role: c.role, page: SUB.page + (MODE === 'starwars' ? '#' + c.s : '') };
       });
       DATA.weapons = SWD.weapons.map(function (w) { return { n: w.n, p: w.blaster ? 'blaster' : 'lightsaber', c: w.c, d: w.d, t: w.t, x: w.x, r: w.r, ty: 'Energy', sp: w.sp }; }).concat(DATA.weapons);
       DATA.feats = SWD.forms.map(function (x) { return { n: x.n, u: null }; }).concat(DATA.feats);

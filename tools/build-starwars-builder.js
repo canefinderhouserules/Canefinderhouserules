@@ -1,15 +1,15 @@
-// Data for the Star Wars Enemy Builder (docs/tools/starwars-builder.md), from the Star Wars subsystem's pages:
-// the three classes (their tables), the Warrior / Specialist / Consular class feature lists with each feature's price
-// and level, the generic class features, the lightsabers and blasters, the lightsaber forms and the Force powers.
-// A listed feature's level is worked out from its source: the class's feature table (docs/tools/archetypes/*.json),
-// the archetype ability, or the prestige class table (+3 levels, as the lists count them); else the list's band.
-// Writes docs/tools/starwars-builder-data.json. Run: node tools/build-starwars-builder.js (after build-archetypes.js)
+// Data for the subsystem Enemy Builders (docs/tools/starwars-builder.md, naruto-builder.md, heroes-builder.md), from each
+// subsystem's pages (Star Wars, Naruto / chakra, Heroes): the three classes (their tables), the class feature lists with
+// each feature's price and level, the generic class features, and the extras each has (lightsabers, blasters and forms;
+// Force powers; jutsu and elements). A listed feature's level is worked out from its source: the class's feature table
+// (docs/tools/archetypes/*.json), the archetype ability, or the prestige class table (+3 levels, as the lists count
+// them); else the list's band.
+// Writes docs/tools/{starwars,chakra,superheroes}-builder-data.json. Run: node tools/build-starwars-builder.js (after build-archetypes.js)
 'use strict';
 const fs = require('fs');
 const path = require('path');
 
 const DOCS = path.join(__dirname, '..', 'docs');
-const SW = 'campaign-systems/star-wars/';
 const read = f => fs.readFileSync(path.join(DOCS, f), 'utf8').replace(/\r/g, '');
 const clean = s => s.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[*_]/g, '').replace(/\s+/g, ' ').trim();
 const cells = line => line.split('|').slice(1, -1).map(c => clean(c));
@@ -21,29 +21,44 @@ function short(t, n) {
   return dot > n / 2 ? cut.slice(0, dot + 1) : cut.replace(/\s+\S*$/, '') + '…';
 }
 
-// ---- the three classes
-const index = read(SW + 'index.md');
-const classes = ['Warrior', 'Specialist', 'Consular'].map(name => {
-  const part = index.split(/^### /m).find(p => p.startsWith(name + '\n'));
-  const lines = part.split('\n'), h = lines.findIndex(l => /^\| Level \| BAB/.test(l));
-  const head = cells(lines[h]), known = head.map((c, i) => /^Known/.test(c) ? i : -1).filter(i => i >= 0);
-  const table = [], special = [], powers = [];
-  for (let j = h + 2; lines[j] && lines[j].startsWith('|'); j++) {
-    const c = cells(lines[j]);
-    table.push([num(c[1]), num(c[2]), num(c[3]), num(c[4])]);
-    special.push(c[5]);
-    powers.push(known.map(i => /^\d+$/.test(c[i]) ? +c[i] : 0));
-  }
-  return {
-    n: name, s: name.toLowerCase(),
-    die: +(part.match(/Hit Die\**:?\**\s*d(\d+)/) || [])[1],
-    stamina: +(part.match(/Stamina Die:?\**:?\s*d(\d+)/i) || [])[1],
-    ranks: +(part.match(/Skill Ranks per Level\**:?\**\s*(\d+)/) || [])[1],
-    skillPicks: +(part.match(/Class Skills are (\d+) of your choice/i) || [])[1] || 8,
-    prof: clean((part.match(/##### Weapon and Armor Proficiency\n([^\n]+)/) || [])[1] || ''),
-    table, special, powers
-  };
-});
+// ---- the subsystems: Star Wars, Naruto (chakra) and Heroes share the same rules; only names, pages and extras change.
+// classes: [name, key] in role order (martial, specialist, caster)
+const SUBS = [
+  { id: 'starwars', dir: 'campaign-systems/star-wars/', index: 'index.md', out: 'starwars-builder-data.json',
+    classes: [['Warrior', 'warrior'], ['Specialist', 'specialist'], ['Consular', 'consular']], sabers: 'lightsabers.md', powers: 'force-powers.md' },
+  { id: 'chakra', dir: 'campaign-systems/chakra/', index: 'chakra-system.md', out: 'chakra-builder-data.json',
+    classes: [['Shinobi Warrior', 'shinobi-warrior'], ['Shinobi Specialist', 'shinobi-specialist'], ['Jutsu Master', 'jutsu-master']], jutsu: 'jutsu.md', elements: 'elements.md' },
+  { id: 'superheroes', dir: 'campaign-systems/superheroes/', index: 'index.md', out: 'superheroes-builder-data.json',
+    classes: [['Warrior', 'warrior'], ['Specialist', 'specialist'], ['Power Master', 'power-master']] }
+];
+
+// ---- a subsystem's three classes: each from its Hit Die line to the next one (the table, dice, skills, proficiency)
+function readClasses(sub) {
+  const index = read(sub.dir + sub.index), at = [...index.matchAll(/Hit Die\**:?\**\s*d\d+/g)].map(m => m.index);
+  const end = index.search(/^## Favored Class/m);
+  return sub.classes.map(([name, key], ci) => {
+    const part = index.slice(at[ci], at[ci + 1] || (end > at[ci] ? end : undefined));
+    const lines = part.split('\n'), h = lines.findIndex(l => /^\|\s*\**Level\**\s*\|\s*\**BAB/.test(l));
+    const head = cells(lines[h]), known = head.map((c, i) => /^(Known )?\d+(st|nd|rd|th)$/.test(c) ? i : -1).filter(i => i >= 0);
+    const sp = head.findIndex(c => /^Special/.test(c));
+    const table = [], special = [], powers = [];
+    for (let j = h + 2; lines[j] && lines[j].startsWith('|'); j++) {
+      const c = cells(lines[j]);
+      table.push([num(c[1]), num(c[2]), num(c[3]), num(c[4])]);
+      special.push(c[sp]);
+      powers.push(known.map(i => /^\d+$/.test(c[i]) ? +c[i] : 0));
+    }
+    return {
+      n: name, s: key, role: ['martial', 'specialist', 'caster'][ci],
+      die: +(part.match(/Hit Die\**:?\**\s*d(\d+)/) || [])[1],
+      stamina: +(part.match(/(?:Stamina|Chakra) Die\**:?\**:?\s*d(\d+)/i) || [])[1],
+      ranks: +(part.match(/Skill Ranks per Level\**:?\**\s*(\d+)/) || [])[1],
+      skillPicks: +(part.match(/Class Skills are (\d+) of your choice/i) || [])[1] || 8,
+      prof: clean((part.match(/Weapon and Armor Proficiency\**\s*\n+([^\n]+)/) || [])[1] || ''),
+      table, special, powers
+    };
+  });
+}
 
 // ---- where each listed feature comes from, to find its level
 const ARCH = {};
@@ -171,86 +186,104 @@ function progression(name, href) {
   return null;
 }
 
-// ---- the class feature lists: [name, link, price, level, band low, text index, feat levels, progression]
-const PRICE = { 'Iconic': 'iconic', 'Overpowered (OP)': 'op', 'Common': 'common', 'Weak': 'weak' };
-const lists = {}, texts = [], textIdx = {};
-let exact = 0, total = 0, withText = 0;
-for (const c of classes) {
-  const text = read(SW + 'class-features-' + c.s + '.md'), out = [];
-  let band = [1, 20];
-  for (const line of text.split('\n')) {
-    const b = line.match(/^## Levels (\d+)[–-](\d+)/);
-    if (b) { band = [+b[1], +b[2]]; continue; }
-    const p = line.match(/^\*\*(Iconic|Overpowered \(OP\)|Common|Weak):\*\* (.*)$/);
-    if (!p) continue;
-    for (const x of p[2].matchAll(/\[([^\]]+)\]\(([^)\s]+)(?: "[^"]*")?\)/g)) {
-      const lvl = featureLevel(x[1], x[2]);
-      total++; if (lvl) exact++;
-      // links become paths from the site root
-      const link = path.posix.normalize(path.posix.join(SW, x[2])).replace(/\.md(#|$)/, '/$1');
-      const t = short(featureText(x[1], x[2]), 900);
-      let ti = -1;
-      if (t) { withText++; ti = textIdx[t] != null ? textIdx[t] : (textIdx[t] = texts.push(t) - 1); }
-      const at = lvl && lvl >= band[0] && lvl <= band[1] ? lvl : band[0], fl = featLevels(x[1], x[2], t, at);
-      const pg = progression(x[1], x[2]), row = [x[1], link, PRICE[p[1]], at, band[0], ti];
-      if (fl || pg) row.push(fl || null); if (pg) row.push(pg);
-      out.push(row);
+// ---- one subsystem's data
+function buildSub(sub) {
+  const classes = readClasses(sub), D = sub.dir;
+  // the class feature lists: [name, link, price, level, band low, text index, feat levels, progression]
+  const PRICE = { 'Iconic': 'iconic', 'Overpowered (OP)': 'op', 'Common': 'common', 'Weak': 'weak' };
+  const lists = {}, texts = [], textIdx = {};
+  let exact = 0, total = 0, withText = 0;
+  for (const c of classes) {
+    const text = read(D + 'class-features-' + c.s + '.md'), out = [];
+    let band = [1, 20];
+    for (const line of text.split('\n')) {
+      const b = line.match(/^## Levels (\d+)[–-](\d+)/);
+      if (b) { band = [+b[1], +b[2]]; continue; }
+      const p = line.match(/^\*\*(Iconic|Overpowered \(OP\)|Common|Weak):\*\* (.*)$/);
+      if (!p) continue;
+      for (const x of p[2].matchAll(/\[([^\]]+)\]\(([^)\s]+)(?: "[^"]*")?\)/g)) {
+        const lvl = featureLevel(x[1], x[2]);
+        total++; if (lvl) exact++;
+        // links become paths from the site root
+        const link = path.posix.normalize(path.posix.join(D, x[2])).replace(/\.md(#|$)/, '/$1');
+        const t = short(featureText(x[1], x[2]), 900);
+        let ti = -1;
+        if (t) { withText++; ti = textIdx[t] != null ? textIdx[t] : (textIdx[t] = texts.push(t) - 1); }
+        const at = lvl && lvl >= band[0] && lvl <= band[1] ? lvl : band[0], fl = featLevels(x[1], x[2], t, at);
+        const pg = progression(x[1], x[2]), row = [x[1], link, PRICE[p[1]], at, band[0], ti];
+        if (fl || pg) row.push(fl || null); if (pg) row.push(pg);
+        out.push(row);
+      }
     }
+    lists[c.s] = out;
   }
-  lists[c.s] = out;
-}
 
-// ---- generic class features
-const generic = read(SW + 'generic-class-features.md').split(/^## /m).slice(1).map(part => {
-  const name = part.split('\n')[0].trim();
-  const meta = (part.match(/\*\*Price:\*\*\s*(\w+)\.\s*\*\*Level:\*\*\s*([^\n]*)/) || []);
-  const price = String(meta[1] || 'common').toLowerCase().replace('overpowered', 'op');
-  const lv = String(meta[2] || ''), levels = {};
-  const only = lv.match(/\(([^)]*) only\)/); // "2nd (Specialist and Consular only)"
-  if (/(Warrior|Specialist|Consular) \d/.test(lv)) for (const m of lv.matchAll(/(Warrior|Specialist|Consular) (\d+)/g)) levels[m[1].toLowerCase()] = +m[2];
-  else ['warrior', 'specialist', 'consular'].forEach(k => { if (!only || new RegExp(k, 'i').test(only[1])) levels[k] = num(lv) || 1; });
-  const text = clean(part.split('\n').slice(1).filter(l => !/\*\*Price:/.test(l)).join(' '));
-  return { n: name, price, levels, text: short(text, 600), link: SW + 'generic-class-features/#' + name.toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-') };
-});
+  // generic class features: "**Price:** Weak. **Level:** 2nd (Shinobi Specialist and Jutsu Master only)." or "Warrior 3, Consular 5"
+  const nameRe = classes.map(c => c.n.replace(/ /g, '\\s+')).join('|');
+  const generic = read(D + 'generic-class-features.md').split(/^## /m).slice(1).map(part => {
+    const name = part.split('\n')[0].trim();
+    const meta = (part.match(/\*\*Price:\*\*\s*(\w+)\.\s*\*\*Level:\*\*\s*([^\n]*)/) || []);
+    const price = String(meta[1] || 'common').toLowerCase().replace('overpowered', 'op');
+    const lv = String(meta[2] || ''), levels = {};
+    const only = lv.match(/\(([^)]*) only\)/);
+    const per = [...lv.matchAll(new RegExp('(' + nameRe + ') (\\d+)', 'g'))];
+    if (per.length) per.forEach(m => { const c = classes.find(x => x.n === m[1].replace(/\s+/g, ' ')); if (c) levels[c.s] = +m[2]; });
+    else classes.forEach(c => { if (!only || new RegExp('\\b' + c.n + '\\b', 'i').test(only[1])) levels[c.s] = num(lv) || 1; });
+    const text = clean(part.split('\n').slice(1).filter(l => !/\*\*Price:/.test(l)).join(' '));
+    return { n: name, price, levels, text: short(text, 600), link: D + 'generic-class-features/#' + name.toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-') };
+  });
 
-// ---- lightsabers and blasters
-const sabers = read(SW + 'lightsabers.md');
-const weapons = [];
-{
-  let cat = null;
-  for (const line of sabers.split('\n')) {
-    const hd = line.match(/^### (?:\(Advanced\) )?(Light Melee Weapons|One-Handed|Two-Handed)/);
-    if (hd) { cat = /Blasters/.test(line) ? 'ranged' : /Light/.test(hd[1]) ? 'light' : /One/.test(hd[1]) ? 'one-handed' : 'two-handed'; continue; }
-    if (/^##? /.test(line)) cat = null;
-    if (!cat || !/^\| [^-W]/.test(line)) continue;
-    const c = cells(line);
-    if (!c[0] || /^Weapon$/.test(c[0])) continue;
-    const blaster = cat === 'ranged';
-    const crit = (blaster ? c[4] : c[4]).replace(/×/g, 'x'), k = crit.match(/(?:(\d+)-20\/?)?x(\d)/) || [];
-    const name = blaster ? c[0] : (/lightsaber/i.test(c[0]) ? c[0] : c[0] + ' lightsaber');
-    weapons.push({ n: name.replace(/^Lightsaber lightsaber$/i, 'Lightsaber'), c: cat, d: (c[3].match(/\d+d\d+/) || ['1d6'])[0], t: k[1] ? +k[1] : 20, x: k[2] ? +k[2] : 2,
-      r: blaster ? num(c[5]) : 0, sp: clean(c[blaster ? 9 : 7] || ''), blaster });
+  // lightsabers, blasters and lightsaber forms (Star Wars)
+  const weapons = [];
+  let forms = [];
+  if (sub.sabers) {
+    const sabers = read(D + sub.sabers);
+    let cat = null;
+    for (const line of sabers.split('\n')) {
+      const hd = line.match(/^### (?:\(Advanced\) )?(Light Melee Weapons|One-Handed|Two-Handed)/);
+      if (hd) { cat = /Blasters/.test(line) ? 'ranged' : /Light/.test(hd[1]) ? 'light' : /One/.test(hd[1]) ? 'one-handed' : 'two-handed'; continue; }
+      if (/^##? /.test(line)) cat = null;
+      if (!cat || !/^\| [^-W]/.test(line)) continue;
+      const c = cells(line);
+      if (!c[0] || /^Weapon$/.test(c[0])) continue;
+      const blaster = cat === 'ranged';
+      const crit = c[4].replace(/×/g, 'x'), k = crit.match(/(?:(\d+)-20\/?)?x(\d)/) || [];
+      const name = blaster ? c[0] : (/lightsaber/i.test(c[0]) ? c[0] : c[0] + ' lightsaber');
+      weapons.push({ n: name.replace(/^Lightsaber lightsaber$/i, 'Lightsaber'), c: cat, d: (c[3].match(/\d+d\d+/) || ['1d6'])[0], t: k[1] ? +k[1] : 20, x: k[2] ? +k[2] : 2,
+        r: blaster ? num(c[5]) : 0, sp: clean(c[blaster ? 9 : 7] || ''), blaster });
+    }
+    forms = [...sabers.matchAll(/^\*\*([A-Z][\w-]+(?: [\w-]+)? (?:Novice|Expert|Master)):\*\*\s*\n([\s\S]*?)(?=^\*\*[A-Z][\w-]+(?: [\w-]+)? (?:Novice|Expert|Master):\*\*|^## |(?![\s\S]))/gm)].map(m => {
+      const req = (m[2].match(/character level (\d+)/i) || [])[1];
+      return { n: m[1], lvl: req ? +req : 1, text: short(clean(m[2].replace(/^\*Requirement[^\n]*\n/m, '').replace(/^Benefit:\s*/m, '')), 500) };
+    });
   }
+
+  // the subsystem's own powers: Force powers (their stat blocks) or jutsu ("**Name [level]:** text")
+  const powers = [];
+  if (sub.powers) {
+    read(D + sub.powers).split(/^\*\*(?=[^*\n]+\*\*\s*$)/m).slice(1).forEach(part => {
+      const name = part.split('**')[0].trim(), body = part.slice(part.indexOf('**') + 2);
+      const field = k => clean((body.match(new RegExp('^' + k + ':?\\s*([^\\n]*)', 'im')) || [])[1] || '');
+      const lvl = num((field('level').match(/(\d+)/) || [])[1]);
+      if (!field('Stamina Cost') && !field('level')) return;
+      const save = (body.match(/^Saving Throw:?\s*([^;\n]*)/im) || [])[1] || '';
+      powers.push({ n: name, lvl, cost: field('Stamina Cost'), save: clean(save).split(/[.;]/)[0].trim(), range: field('Range'), dur: field('Duration'),
+        text: short(clean(field('Description') || body.split('\n').filter(l => l.trim() && !/^[A-Z][\w ]+:/.test(l)).join(' ')), 500) });
+    });
+  }
+  if (sub.jutsu) {
+    read(D + sub.jutsu).split(/^## Other Jutsu/m).forEach((part, k) => {
+      for (const m of part.matchAll(/^\*\*([^*\[]+?)\s*\[(\d+)\]:\*\*\s*(.+)$/gm)) {
+        if (/to be defined/i.test(m[3])) continue;
+        powers.push({ n: m[1].trim(), lvl: +m[2], cost: (m[3].match(/(\d+) chakra/) || [])[1] || '', save: '', range: '', dur: '', free: !k, text: short(clean(m[3]), 500) });
+      }
+    });
+  }
+  // elements (Naruto): the common ones; a shinobi has one of them
+  const elements = sub.elements ? [...read(D + sub.elements).split(/^## Extra Elements/m)[0].matchAll(/^\*\*(\w+):\*\*/gm)].map(m => m[1]) : [];
+
+  fs.writeFileSync(path.join(DOCS, 'tools', sub.out), JSON.stringify({ sub: sub.id, dir: D, classes, lists, texts, generic, weapons, forms, powers, elements }));
+  console.log(sub.out + ':', classes.map(c => c.n + ' (' + c.table.length + ' levels, d' + c.die + ', ' + c.stamina + ' stamina)').join(', ') + ';', total, 'listed features (' + exact + ' with an exact level, ' + withText + ' with text),',
+    generic.length, 'generic,', weapons.length, 'weapons,', forms.length, 'forms,', powers.length, 'powers,', elements.length, 'elements');
 }
-
-// ---- lightsaber forms (style feats) and Force powers
-const forms = [...sabers.matchAll(/^\*\*([A-Z][\w-]+(?: [\w-]+)? (?:Novice|Expert|Master)):\*\*\s*\n([\s\S]*?)(?=^\*\*[A-Z][\w-]+(?: [\w-]+)? (?:Novice|Expert|Master):\*\*|^## |(?![\s\S]))/gm)].map(m => {
-  const req = (m[2].match(/character level (\d+)/i) || [])[1];
-  return { n: m[1], lvl: req ? +req : 1, text: short(clean(m[2].replace(/^\*Requirement[^\n]*\n/m, '').replace(/^Benefit:\s*/m, '')), 500) };
-});
-const fp = read(SW + 'force-powers.md');
-const powers = [];
-fp.split(/^\*\*(?=[^*\n]+\*\*\s*$)/m).slice(1).forEach(part => {
-  const name = part.split('**')[0].trim(), body = part.slice(part.indexOf('**') + 2);
-  const field = k => clean((body.match(new RegExp('^' + k + ':?\\s*([^\\n]*)', 'im')) || [])[1] || '');
-  const lvl = num((field('level').match(/(\d+)/) || [])[1]);
-  if (!field('Stamina Cost') && !field('level')) return;
-  const save = (body.match(/^Saving Throw:?\s*([^;\n]*)/im) || [])[1] || '';
-  powers.push({ n: name, lvl, cost: field('Stamina Cost'), save: clean(save).split(/[.;]/)[0].trim(), range: field('Range'), dur: field('Duration'),
-    text: short(clean(field('Description') || body.split('\n').filter(l => l.trim() && !/^[A-Z][\w ]+:/.test(l)).join(' ')), 500) });
-});
-
-const out = path.join(DOCS, 'tools', 'starwars-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ classes, lists, texts, generic, weapons, forms, powers }));
-console.log('starwars-builder-data.json:', classes.length, 'classes,', total, 'listed features (' + exact + ' with an exact level, ' + withText + ' with text),', generic.length, 'generic,',
-  weapons.length, 'weapons,', forms.length, 'forms,', powers.length, 'Force powers');
+SUBS.forEach(buildSub);
