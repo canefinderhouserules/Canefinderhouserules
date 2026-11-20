@@ -1110,8 +1110,7 @@
     root.innerHTML = '';
     root.appendChild(datalists());
     root.appendChild(h('div', { class: 'eb-layout' },
-      h('div', { class: 'eb-main' }, basics(), SWM ? swCard() : classesCard(), abilities(), defense(), skills(), feats(), attacks(), spells(), specials(), saving()),
-      h('div', { class: 'eb-side' }, output())));
+      basics(), SWM ? swCard() : classesCard(), abilities(), defense(), skills(), feats(), attacks(), spells(), specials(), saving(), output()));
     store();
     refresh();
   }

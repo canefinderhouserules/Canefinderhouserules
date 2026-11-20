@@ -1,8 +1,5 @@
 /* Enemy Builder (tools/enemy-builder.md) */
-.md-typeset .eb-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 26rem); gap: 1rem; align-items: start; }
-@media (max-width: 76em) { .md-typeset .eb-layout { grid-template-columns: minmax(0, 1fr); } }
-.md-typeset .eb-side { position: sticky; top: 3.6rem; max-height: calc(100vh - 4.2rem); overflow: auto; }
-@media (max-width: 76em) { .md-typeset .eb-side { position: static; max-height: none; } }
+.md-typeset .eb-layout { display: block; }
 .md-typeset .eb-card { border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3rem; padding: .35rem .6rem .45rem; margin: 0 0 .5rem; }
 .md-typeset .eb-h { margin: 0 0 .25rem; font-size: .8rem; font-weight: 700; }
 .md-typeset .eb-grid { display: flex; flex-wrap: wrap; gap: .2rem .7rem; align-items: flex-end; }
