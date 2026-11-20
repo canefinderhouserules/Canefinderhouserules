@@ -49,7 +49,7 @@ NE Medium humanoid (human, orc)
 **SQ** favored terrain (choose one +2), hunter’s bond (companions), orc blood, track +2, weapon familiarity, wild empathy +3  
 **Combat Gear** potion of cure moderate wounds, potion of shield of faith; **Other Gear** masterwork light trooper armor, masterwork hunting rifle with 30 metal cartridges, concussion grenade, falchion, elixir of hiding, 6 gp.
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Velociraptor Companion&quot;,&quot;cr&quot;:&quot;—&quot;,&quot;line&quot;:&quot;Small animal&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;17, touch 14, flat-footed 14&quot;,&quot;hp&quot;:&quot;22 (2d8+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:6,&quot;Will&quot;:1},&quot;speed&quot;:&quot;60 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;talons&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +0; CMD 13&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:7,&quot;Perception&quot;:5,&quot;CMB&quot;:0},&quot;feats&quot;:&quot;Weapon Finesse&quot;,&quot;sq&quot;:&quot;tricks (attack, come, defend, down, fetch, guard, seek)&quot;,&quot;gear&quot;:&quot;leather armor&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Velociraptor Companion&quot;,&quot;cr&quot;:&quot;—&quot;,&quot;line&quot;:&quot;Small animal, House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;17, touch 14, flat-footed 14&quot;,&quot;hp&quot;:&quot;22 (2d8+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:6,&quot;Will&quot;:1},&quot;speed&quot;:&quot;60 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;talons&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +3; CMD 13&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:7,&quot;Perception&quot;:5,&quot;CMB&quot;:3},&quot;feats&quot;:&quot;Weapon Finesse&quot;,&quot;sq&quot;:&quot;tricks (attack, come, defend, down, fetch, guard, seek)&quot;,&quot;gear&quot;:&quot;leather armor&quot;}"></div>
 
 ## Velociraptor Companion (CR —)
 
@@ -65,13 +65,14 @@ Small animal
 **Offense**
 
  **Speed** 60 ft.  
-**Melee** bite +5 (1d4), 2 talons +5 (1d6)  
+**Melee** bite +5 (1d4+3), 2 talons +5 (1d6+3)  
 
 **Statistics**
 
  **Str** 11, **Dex** 17, **Con** 17, **Int** 2, **Wis** 12, **Cha** 14  
-**Base Atk** +1; **CMB** +0; **CMD** 13  
+**Base Atk** +1; **CMB** +3; **CMD** 13  
 **Feats** Weapon Finesse  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +7 (+19 when jumping), Perception +5  
 **SQ** tricks (attack, come, defend, down, fetch, guard, seek)  
 **Other Gear** leather armor  

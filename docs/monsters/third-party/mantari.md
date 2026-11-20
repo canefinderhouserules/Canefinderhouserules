@@ -1,6 +1,6 @@
 # Mantari
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mantari&quot;,&quot;cr&quot;:&quot;1/2&quot;,&quot;xp&quot;:&quot;200&quot;,&quot;line&quot;:&quot;NE Medium magical beast&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;14, touch 12, flat-footed 12&quot;,&quot;hp&quot;:&quot;10 (1d10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:4,&quot;Will&quot;:0},&quot;speed&quot;:&quot;5 ft., fly 60 ft. (good); space 5 ft., reach 5 ft. (10 ft. with tail)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;tail sting&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 12, Dex 14, Con 11, Int 2, Wis 11, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +2; CMD 14 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:6,&quot;Perception&quot;:4,&quot;Stealth&quot;:2,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Weapon Finesse&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mantari&quot;,&quot;cr&quot;:&quot;1/2&quot;,&quot;xp&quot;:&quot;200&quot;,&quot;line&quot;:&quot;NE Medium magical beast&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;14, touch 12, flat-footed 12&quot;,&quot;hp&quot;:&quot;10 (1d10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:4,&quot;Will&quot;:0},&quot;speed&quot;:&quot;5 ft., fly 60 ft. (good); space 5 ft., reach 5 ft. (10 ft. with tail)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;tail sting&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 12, Dex 14, Con 11, Int 2, Wis 11, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +3; CMD 14 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:6,&quot;Perception&quot;:4,&quot;Stealth&quot;:2,&quot;CMB&quot;:3},&quot;feats&quot;:&quot;Weapon Finesse&quot;}"></div>
 
 ## Mantari (CR 1/2)
 
@@ -25,7 +25,7 @@
 
  **Speed** 5 ft., fly 60 ft. (good)  
 
-**Melee** tail sting +3 (1d6)  
+**Melee** tail sting +3 (1d6+1)  
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with tail)  
 
@@ -35,9 +35,10 @@
 
  **Str** 12, **Dex** 14, **Con** 11, **Int** 2, **Wis** 11, **Cha** 6  
 
-**Base Atk** +1; **CMB** +2; **CMD** 14 (can’t be tripped)  
+**Base Atk** +1; **CMB** +3; **CMD** 14 (can’t be tripped)  
 
 **Feats** Weapon Finesse  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 
 **Skills** Fly +6, Perception +4, Stealth +2  
 

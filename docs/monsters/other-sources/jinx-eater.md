@@ -1,6 +1,6 @@
 # Jinx Eater
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Jinx Eater&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Male rogue (charlatan) 3, CN Medium humanoid (tengu)&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;16, touch 13, flat-footed 13&quot;,&quot;hp&quot;:&quot;27 (3d8+3)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:6,&quot;Will&quot;:3},&quot;defense&quot;:&quot;evasion&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +2d6&quot;,&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 8, Dex 17, Con 12, Int 10, Wis 14, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +2; CMB +1; CMD 14&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:5,&quot;Bluff&quot;:7,&quot;Climb&quot;:1,&quot;Diplomacy&quot;:7,&quot;Escape Artist&quot;:9,&quot;Intimidate&quot;:7,&quot;Knowledge (local)&quot;:6,&quot;Linguistics&quot;:4,&quot;Perception&quot;:10,&quot;Sense Motive&quot;:8,&quot;Sleight of Hand&quot;:9,&quot;Stealth&quot;:11,&quot;CMB&quot;:1},&quot;feats&quot;:&quot;Improved Initiative, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common, Tengu&quot;,&quot;sq&quot;:&quot;advanced rogue talents (rumormonger*), gifted linguist, grand hoax*, natural born liar*, rogue talents (convincing lie*), swordtrained&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Jinx Eater&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Male rogue (charlatan) 3, CN Medium humanoid (tengu)&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;16, touch 13, flat-footed 13&quot;,&quot;hp&quot;:&quot;27 (3d8+3)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:6,&quot;Will&quot;:3},&quot;defense&quot;:&quot;evasion&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +2d6&quot;,&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 8, Dex 17, Con 12, Int 10, Wis 14, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +2; CMB +5; CMD 14&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:5,&quot;Bluff&quot;:7,&quot;Climb&quot;:1,&quot;Diplomacy&quot;:7,&quot;Escape Artist&quot;:9,&quot;Intimidate&quot;:7,&quot;Knowledge (local)&quot;:6,&quot;Linguistics&quot;:4,&quot;Perception&quot;:10,&quot;Sense Motive&quot;:8,&quot;Sleight of Hand&quot;:9,&quot;Stealth&quot;:11,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Improved Initiative, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common, Tengu&quot;,&quot;sq&quot;:&quot;advanced rogue talents (rumormonger*), gifted linguist, grand hoax*, natural born liar*, rogue talents (convincing lie*), swordtrained&quot;}"></div>
 
 ## Jinx Eater (CR 2)
 
@@ -19,15 +19,16 @@ CN Medium humanoid (tengu)
 **Offense**
 
 **Speed** 30 ft.  
-**Melee** mwk rapier +6 (1d6–1/18–20)  
+**Melee** mwk rapier +6 (1d6+3/18–20)  
 **Ranged**  mwk light crossbow +6 (1d8/19–20)  
 **Special Attacks** sneak attack +2d6
 
 **Statistics**
 
 **Str** 8, **Dex** 17, **Con** 12, **Int** 10, **Wis** 14, **Cha** 13  
-**Base Atk** +2; **CMB** +1; **CMD** 14  
+**Base Atk** +2; **CMB** +5; **CMD** 14  
 **Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +5, Bluff +7, Climb +1, Diplomacy +7, Escape Artist +9, Intimidate +7, Knowledge (local) +6, Linguistics +4, Perception +10, Sense Motive +8, Sleight of Hand +9, Stealth +11; **Racial Modifiers** +4 Linguistics, +2 Perception, +2 Stealth  
 **Languages** Common, Tengu  
 **SQ** advanced rogue talents (rumormonger*), gifted linguist, grand hoax*, natural born liar*, rogue talents (convincing lie*), swordtrained  

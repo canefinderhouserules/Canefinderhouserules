@@ -60,7 +60,7 @@
 
  **Protective Ward (Su)** As a standard action, she can create a 10-foot-radius field of protective magic centered on herself that lasts for 5 rounds. All allies in this area (including her) receive a +2 deflection bonus to their AC. She can use this ability 8 times per day.
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Weasel familiar&quot;,&quot;cr&quot;:&quot;—&quot;,&quot;line&quot;:&quot;N Tiny magical beast&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;18, touch 14, flat-footed 16&quot;,&quot;hp&quot;:&quot;69 (14 HD)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:6,&quot;Will&quot;:8},&quot;defense&quot;:&quot;improved evasion&quot;,&quot;speed&quot;:&quot;20 ft., climb 20 ft.; space 2-1/2 ft., reach 0 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:-4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus attach&quot;}]],&quot;specialAttacks&quot;:&quot;deliver touch spells&quot;,&quot;rangedTouch&quot;:15,&quot;abilities&quot;:&quot;Str 3, Dex 15, Con 10, Int 8, Wis 12, Cha 5&quot;,&quot;combat&quot;:&quot;BAB +11; CMB +11; CMD 17 (21 vs. trip)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:27,&quot;Appraise&quot;:13,&quot;Climb&quot;:10,&quot;Fly&quot;:23,&quot;Intimidate&quot;:3,&quot;Knowledge (arcana)&quot;:13,&quot;Knowledge (planes)&quot;:13,&quot;Perception&quot;:18,&quot;Sense Motive&quot;:15,&quot;Spellcraft&quot;:13,&quot;Stealth&quot;:14,&quot;CMB&quot;:11},&quot;feats&quot;:&quot;Weapon Finesse&quot;,&quot;sq&quot;:&quot;empathic link, share spells, speak with master&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Weasel familiar&quot;,&quot;cr&quot;:&quot;—&quot;,&quot;line&quot;:&quot;N Tiny magical beast&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;18, touch 14, flat-footed 16&quot;,&quot;hp&quot;:&quot;69 (14 HD)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:6,&quot;Will&quot;:8},&quot;defense&quot;:&quot;improved evasion&quot;,&quot;speed&quot;:&quot;20 ft., climb 20 ft.; space 2-1/2 ft., reach 0 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:2,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus attach&quot;}]],&quot;specialAttacks&quot;:&quot;deliver touch spells&quot;,&quot;rangedTouch&quot;:15,&quot;abilities&quot;:&quot;Str 3, Dex 15, Con 10, Int 8, Wis 12, Cha 5&quot;,&quot;combat&quot;:&quot;BAB +11; CMB +17; CMD 17 (21 vs. trip)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:27,&quot;Appraise&quot;:13,&quot;Climb&quot;:10,&quot;Fly&quot;:23,&quot;Intimidate&quot;:3,&quot;Knowledge (arcana)&quot;:13,&quot;Knowledge (planes)&quot;:13,&quot;Perception&quot;:18,&quot;Sense Motive&quot;:15,&quot;Spellcraft&quot;:13,&quot;Stealth&quot;:14,&quot;CMB&quot;:17},&quot;feats&quot;:&quot;Weapon Finesse&quot;,&quot;sq&quot;:&quot;empathic link, share spells, speak with master&quot;}"></div>
 
 ## Weasel familiar (CR —)
 
@@ -79,7 +79,7 @@ N Tiny magical beast
   **OFFENSE**
   
  **Speed** 20 ft., climb 20 ft.  
- **Melee** bite +15 (1d3–4 plus attach)  
+ **Melee** bite +15 (1d3+2 plus attach)  
  **Space** 2-1/2 ft.; **Reach** 0 ft.  
  **Special Attacks** deliver touch spells  
 
@@ -87,8 +87,9 @@ N Tiny magical beast
   **STATISTICS**
   
  **Str** 3, **Dex** 15, **Con** 10, **Int** 8, **Wis** 12, **Cha** 5  
- **Base Atk** +11; **CMB** +11; **CMD** 17 (21 vs. trip)  
+ **Base Atk** +11; **CMB** +17; **CMD** 17 (21 vs. trip)  
  **Feats** Weapon Finesse  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
  **Skills** Acrobatics +27, Appraise +13, Climb +10. Escape Artist +3, Fly +23, Intimidate +3, Knowledge (arcana) +13, Knowledge (planes) +13, Perception +18, Sense Motive +15, Spellcraft +13, Stealth +14; **Racial Modifiers** +8 Acrobatics, +4 Stealth  
  **SQ** empathic link, share spells, speak with master  
 

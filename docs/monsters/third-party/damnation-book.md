@@ -1,6 +1,6 @@
 # Damnation Book
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Damnation Book&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;LE Small undead&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;14, touch 14, flat-footed 11&quot;,&quot;hp&quot;:&quot;50 (5d8+10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:4,&quot;Will&quot;:7},&quot;defense&quot;:&quot;Immune undead immunities&quot;,&quot;speed&quot;:&quot;flight 60 ft. (perfect)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+6 bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Melee&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;piercing plus energy drain&quot;}]],&quot;specialAttacks&quot;:&quot;energy Drain (1 level, Fort DC 14)&quot;,&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 9, Dex 16, Con—, Int 22, Wis 16, Cha 15&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +2; CMD 15 (immune to trip)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:19,&quot;Knowledge (arcana)&quot;:14,&quot;Knowledge (history)&quot;:14,&quot;Knowledge (at least 5 others)&quot;:14,&quot;Linguistics&quot;:14,&quot;Stealth&quot;:8,&quot;Spellcraft&quot;:14,&quot;Perception&quot;:3,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Combat Casting, Fly-By Attack, Hover, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Draconic, Infernal, various others&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Damnation Book&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;LE Small undead&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;14, touch 14, flat-footed 11&quot;,&quot;hp&quot;:&quot;50 (5d8+10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:4,&quot;Will&quot;:7},&quot;defense&quot;:&quot;Immune undead immunities&quot;,&quot;speed&quot;:&quot;flight 60 ft. (perfect)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+6 bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Melee&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;piercing plus energy drain&quot;}]],&quot;specialAttacks&quot;:&quot;energy Drain (1 level, Fort DC 14)&quot;,&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 9, Dex 16, Con—, Int 22, Wis 16, Cha 15&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +6; CMD 15 (immune to trip)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:19,&quot;Knowledge (arcana)&quot;:14,&quot;Knowledge (history)&quot;:14,&quot;Knowledge (at least 5 others)&quot;:14,&quot;Linguistics&quot;:14,&quot;Stealth&quot;:8,&quot;Spellcraft&quot;:14,&quot;Perception&quot;:3,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Combat Casting, Fly-By Attack, Hover, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Draconic, Infernal, various others&quot;}"></div>
 
 ## Damnation Book (CR 4)
 
@@ -23,7 +23,7 @@ LE Small undead
 
 
 **Speed** flight 60 ft. (perfect)  
-**Melee** +6 bite (1d4-1 piercing plus energy drain)  
+**Melee** +6 bite (1d4+3 piercing plus energy drain)  
 **Special Attacks** energy Drain (1 level, Fort DC 14)  
 **Spellcasting** (CL 5th, Concentration +18 DC 16; the Damnation Book casts spells as a wizard of its total Hit Dice, typically fifth-level.  
 
@@ -37,8 +37,9 @@ Cantrips—bleed, daze, mage hand, touch of fatigue
 
 
 **Str** 9, **Dex** 16, Con—, **Int** 22, **Wis** 16, **Cha** 15  
-**Base Atk** +3; **CMB** +2; **CMD** 15 (immune to trip)  
+**Base Atk** +3; **CMB** +6; **CMD** 15 (immune to trip)  
 **Feats** Combat Casting, Fly-By Attack, Hover, Weapon Finesse  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Fly +19, Knowledge (arcana, history, at least 5 others) +14, Linguistics +14, Stealth +8, Spellcraft +14  
 **Languages** Abyssal, Common, Draconic, Infernal, various others  
 

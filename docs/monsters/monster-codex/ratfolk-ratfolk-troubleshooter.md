@@ -1,6 +1,6 @@
 # Ratfolk, Ratfolk Troubleshooter
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ratfolk Troubleshooter&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Ratfolk rogue 6, N Small humanoid (ratfolk)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;19, touch 15, flat-footed 15&quot;,&quot;hp&quot;:&quot;60 (6d8+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:10,&quot;Will&quot;:4},&quot;defense&quot;:&quot;evasion, trap sense +2, uncanny dodge&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;hand crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +3d6, swarming&quot;,&quot;rangedTouch&quot;:9,&quot;abilities&quot;:&quot;Str 11, Dex 18, Con 14, Int 12, Wis 12, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +3; CMD 17&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:13,&quot;Appraise&quot;:7,&quot;Bluff&quot;:5,&quot;Climb&quot;:6,&quot;Craft (alchemy)&quot;:3,&quot;Diplomacy&quot;:5,&quot;Disable Device&quot;:20,&quot;Escape Artist&quot;:13,&quot;Knowledge (local)&quot;:10,&quot;Perception&quot;:12,&quot;Sense Motive&quot;:10,&quot;Sleight of Hand&quot;:6,&quot;Stealth&quot;:17,&quot;Use Magic Device&quot;:10,&quot;CMB&quot;:3},&quot;feats&quot;:&quot;Deft Hands, Pack Rat, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common, Undercommon&quot;,&quot;sq&quot;:&quot;rogue talents (fast stealth, quick disable, trap spotter), trapfinding +3&quot;,&quot;gear&quot;:&quot;elixir of hiding, potion of cure light wounds, potions of invisibility (2), wand of shocking grasp (CL 4th, 12 charges), acid (2)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ratfolk Troubleshooter&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Ratfolk rogue 6, N Small humanoid (ratfolk)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;19, touch 15, flat-footed 15&quot;,&quot;hp&quot;:&quot;60 (6d8+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:10,&quot;Will&quot;:4},&quot;defense&quot;:&quot;evasion, trap sense +2, uncanny dodge&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;hand crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +3d6, swarming&quot;,&quot;rangedTouch&quot;:9,&quot;abilities&quot;:&quot;Str 11, Dex 18, Con 14, Int 12, Wis 12, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +7; CMD 17&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:13,&quot;Appraise&quot;:7,&quot;Bluff&quot;:5,&quot;Climb&quot;:6,&quot;Craft (alchemy)&quot;:3,&quot;Diplomacy&quot;:5,&quot;Disable Device&quot;:20,&quot;Escape Artist&quot;:13,&quot;Knowledge (local)&quot;:10,&quot;Perception&quot;:12,&quot;Sense Motive&quot;:10,&quot;Sleight of Hand&quot;:6,&quot;Stealth&quot;:17,&quot;Use Magic Device&quot;:10,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Deft Hands, Pack Rat, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common, Undercommon&quot;,&quot;sq&quot;:&quot;rogue talents (fast stealth, quick disable, trap spotter), trapfinding +3&quot;,&quot;gear&quot;:&quot;elixir of hiding, potion of cure light wounds, potions of invisibility (2), wand of shocking grasp (CL 4th, 12 charges), acid (2)&quot;}"></div>
 
 ## Ratfolk Troubleshooter (CR 5)
 
@@ -19,7 +19,7 @@ N Small humanoid (ratfolk)
 **Offense**
 
 **Speed** 20 ft.  
-**Melee** mwk rapier +10 (1d4/18–20)  
+**Melee** mwk rapier +10 (1d4+4/18–20)  
 **Ranged**  hand crossbow +9 (1d3/19–20)  
 **Special Attacks** sneak attack +3d6, swarming
 
@@ -30,8 +30,9 @@ N Small humanoid (ratfolk)
 **Statistics**
 
 **Str** 11, **Dex** 18, **Con** 14, **Int** 12, **Wis** 12, **Cha** 8  
-**Base Atk** +4; **CMB** +3; **CMD** 17  
+**Base Atk** +4; **CMB** +7; **CMD** 17  
 **Feats** [Deft Hands](../../rules/feats/deft-hands.md), [Pack Rat](../../rules/feats/pack-rat.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +13 (+9 when jumping), Appraise +7, Bluff +5, Climb +6, Craft (alchemy) +3, Diplomacy +5, Disable Device +20, Escape Artist +13, Knowledge (local) +10, Perception +12, Sense Motive +10, Sleight of Hand +6, Stealth +17, Use Magic Device +10  
 **Languages** Common, Undercommon  
 **SQ** rogue talents (fast stealth, quick disable, trap spotter), trapfinding +3  

@@ -1,6 +1,6 @@
 # Familiar, Otter
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Otter&quot;,&quot;cr&quot;:&quot;1/4&quot;,&quot;xp&quot;:&quot;100&quot;,&quot;line&quot;:&quot;N Tiny animal&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;15, touch 15, flat-footed 12&quot;,&quot;hp&quot;:&quot;8 (1d8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:5,&quot;Will&quot;:1},&quot;speed&quot;:&quot;20 ft., swim 30 ft.; space 2-1/2 ft., reach 0 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:-4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 3, Dex 16, Con 10, Int 2, Wis 13, Cha 5&quot;,&quot;combat&quot;:&quot;BAB +0; CMB +1; CMD 7 (11 vs. trip)&quot;,&quot;checks&quot;:{&quot;Escape Artist&quot;:4,&quot;Swim&quot;:11,&quot;Perception&quot;:1,&quot;CMB&quot;:1},&quot;feats&quot;:&quot;Weapon Finesse&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Otter&quot;,&quot;cr&quot;:&quot;1/4&quot;,&quot;xp&quot;:&quot;100&quot;,&quot;line&quot;:&quot;N Tiny animal&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;15, touch 15, flat-footed 12&quot;,&quot;hp&quot;:&quot;8 (1d8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:5,&quot;Will&quot;:1},&quot;speed&quot;:&quot;20 ft., swim 30 ft.; space 2-1/2 ft., reach 0 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 3, Dex 16, Con 10, Int 2, Wis 13, Cha 5&quot;,&quot;combat&quot;:&quot;BAB +0; CMB +8; CMD 7 (11 vs. trip)&quot;,&quot;checks&quot;:{&quot;Escape Artist&quot;:4,&quot;Swim&quot;:11,&quot;Perception&quot;:1,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Weapon Finesse&quot;}"></div>
 
 ## Otter (CR 1/4)
 
@@ -17,14 +17,15 @@ N Tiny animal
 **Offense**
 
 **Speed** 20 ft., swim 30 ft.  
-**Melee** bite +5 (1d3–4)  
+**Melee** bite +5 (1d3+3)  
 **Space** 2-1/2 ft., **Reach** 0 ft.
 
 **Statistics**
 
 **Str** 3, **Dex** 16, **Con** 10, **Int** 2, **Wis** 13, **Cha** 5  
-**Base Atk** +0; **CMB** +1; **CMD** 7 (11 vs. trip)  
+**Base Atk** +0; **CMB** +8; **CMD** 7 (11 vs. trip)  
 **Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Escape Artist +4, Swim +11
 
 **Ecology**

@@ -1,6 +1,6 @@
 # Stirge, Giant
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Giant Stirge&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Advanced stirge, N Small magical beast&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;14, touch 14, flat-footed 11&quot;,&quot;hp&quot;:&quot;40 (4d10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:4,&quot;Ref&quot;:7,&quot;Will&quot;:2},&quot;speed&quot;:&quot;10 ft., fly 40 ft. (average)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;specialAttacks&quot;:&quot;blood drain&quot;,&quot;rangedTouch&quot;:8,&quot;special&quot;:[{&quot;name&quot;:&quot;Blood Drain&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A giant stirge drains blood at the end of its turn if it grapples a foe, dealing 1 point of Constitution damage. A giant stirge continues to drain blood until it has dealt 8 points of Constitution damage, then drops its prey to return to its lair to digest its meal. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 8, Dex 17, Con 10, Int 1, Wis 12, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +2 (+6 grapple); CMD 15 (23 vs. trip)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:10,&quot;Stealth&quot;:12,&quot;Perception&quot;:1,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Improved Initiative, Weapon Finesse&quot;,&quot;sq&quot;:&quot;diseased&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Giant Stirge&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Advanced stirge, N Small magical beast&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;14, touch 14, flat-footed 11&quot;,&quot;hp&quot;:&quot;40 (4d10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:4,&quot;Ref&quot;:7,&quot;Will&quot;:2},&quot;speed&quot;:&quot;10 ft., fly 40 ft. (average)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;specialAttacks&quot;:&quot;blood drain&quot;,&quot;rangedTouch&quot;:8,&quot;special&quot;:[{&quot;name&quot;:&quot;Blood Drain&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A giant stirge drains blood at the end of its turn if it grapples a foe, dealing 1 point of Constitution damage. A giant stirge continues to drain blood until it has dealt 8 points of Constitution damage, then drops its prey to return to its lair to digest its meal. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 8, Dex 17, Con 10, Int 1, Wis 12, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +6 (+10 grapple); CMD 15 (23 vs. trip)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:10,&quot;Stealth&quot;:12,&quot;Perception&quot;:1,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Improved Initiative, Weapon Finesse&quot;,&quot;sq&quot;:&quot;diseased&quot;}"></div>
 
 ## Giant Stirge (CR 2)
 
@@ -22,7 +22,7 @@ N Small magical beast
 
 
 **Speed** 10 ft., fly 40 ft. (average)  
-**Melee** bite +8 (1d4–1 plus grab)  
+**Melee** bite +8 (1d4+3 plus grab)  
 **Special Attacks** blood drain  
 
 
@@ -38,8 +38,9 @@ N Small magical beast
 
 
 **Str** 8, **Dex** 17, **Con** 10, **Int** 1, **Wis** 12, **Cha** 6  
-**Base Atk** +4; **CMB** +2 (+6 grapple); **CMD** 15 (23 vs. trip)  
+**Base Atk** +4; **CMB** +6 (+10 grapple); **CMD** 15 (23 vs. trip)  
 **Feats** Improved Initiative, Weapon Finesse  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Fly +10, Stealth +12  
 **SQ** diseased  
 

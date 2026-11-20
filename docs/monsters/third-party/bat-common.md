@@ -21,7 +21,7 @@ N Diminutive animal
 
 
 **Speed** 5 ft., fly 40 ft. (good)  
-**Melee** bite +6 (1d3–4)*  
+**Melee** bite +6 (1d3+3)*  
 **Space** 1 ft.; **Reach** 0 ft.  
 
 
@@ -31,6 +31,7 @@ N Diminutive animal
 **Str** 1, **Dex** 15, **Con** 6, **Int** 2, **Wis** 14, **Cha** 5  
 **Base Atk** +0; CMB—2; **CMD** 3  
 **Feats** Weapon Finesse  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Fly +16, Perception +6; **Racial Modifier** +4 Perception  
 
 

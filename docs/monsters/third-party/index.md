@@ -2144,7 +2144,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Vegepygmy Subchief](vegepygmy-subchief.md) | 5 | N Medium plant (fungus) |
 | [Vegepygmy Worker](vegepygmy-worker.md) | 1 | N Small plant (fungus) |
 | [Velha da Égua Branca](velha-da-egua-branca.md) | 21 | This wrinkled, aged woman wears a white headdress adorned with red ribbons and clutches a dagger. Her clothing and leather shoes are otherwise ragged. She sits astride a blazing white stallion bedecked with tack and harness covered in bells, jugs, and clay pots., N Medium fey (unique) |
-| [Velociraptor Companion](border-guard-cr-3.md) | — | Small animal |
+| [Velociraptor Companion](border-guard-cr-3.md) | — | Small animal, House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB. |
 | [Velvet Ant Swarm](velvet-ant-swarm.md) | 3 | N Diminutive vermin (swarm) |
 | [Vengorach](vengorach.md) | 18 | CE Gargantuan dragon |
 | [Venom Demon](demon-venom-3pp.md) | 13 | CE Large outsider (chaotic, demon, evil, extraplanar) |

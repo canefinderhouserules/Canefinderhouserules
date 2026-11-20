@@ -1,6 +1,6 @@
 # Elemental (Air), Large Air Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Large Air Elemental&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;N Large outsider (air, elemental, extraplanar)&quot;,&quot;init&quot;:11,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;21, touch 17, flat-footed 13&quot;,&quot;hp&quot;:&quot;104 (8d10+24)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:13,&quot;Will&quot;:2},&quot;defense&quot;:&quot;air mastery; DR 5/—; Immune elemental traits&quot;,&quot;speed&quot;:&quot;fly 100 ft. (perfect); space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;whirlwind (DC 18)&quot;,&quot;rangedTouch&quot;:14,&quot;abilities&quot;:&quot;Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +8; CMB +13; CMD 31&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:15,&quot;Escape Artist&quot;:15,&quot;Fly&quot;:21,&quot;Knowledge (planes)&quot;:5,&quot;Perception&quot;:11,&quot;Stealth&quot;:11,&quot;CMB&quot;:13},&quot;feats&quot;:&quot;Combat Reflexes, Dodgility, Flyby Attack, Improved Initiative, Weapon Finesse, Weapon Focus (slam)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Large Air Elemental&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;N Large outsider (air, elemental, extraplanar)&quot;,&quot;init&quot;:11,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;21, touch 17, flat-footed 13&quot;,&quot;hp&quot;:&quot;104 (8d10+24)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:13,&quot;Will&quot;:2},&quot;defense&quot;:&quot;air mastery; DR 5/—; Immune elemental traits&quot;,&quot;speed&quot;:&quot;fly 100 ft. (perfect); space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;whirlwind (DC 18)&quot;,&quot;rangedTouch&quot;:14,&quot;abilities&quot;:&quot;Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +8; CMB +16; CMD 31&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:15,&quot;Escape Artist&quot;:15,&quot;Fly&quot;:21,&quot;Knowledge (planes)&quot;:5,&quot;Perception&quot;:11,&quot;Stealth&quot;:11,&quot;CMB&quot;:16},&quot;feats&quot;:&quot;Combat Reflexes, Dodgility, Flyby Attack, Improved Initiative, Weapon Finesse, Weapon Focus (slam)&quot;}"></div>
 
 ## Large Air Elemental (CR 5)
 
@@ -18,16 +18,16 @@ N Large outsider (air, elemental, extraplanar)
 **Offense**
 
 **Speed** fly 100 ft. (perfect)  
-**Melee** 2 slams +15 (1d8+4)  
+**Melee** 2 slams +15 (1d8+7)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** whirlwind (DC 18)
 
 **Statistics**
 
 **Str** 18, **Dex** 25, **Con** 16, **Int** 6, **Wis** 11, **Cha** 11  
-**Base Atk** +8; **CMB** +13; **CMD** 31  
+**Base Atk** +8; **CMB** +16; **CMD** 31  
 **Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodgility](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
-*House rules: Dodge and Mobility are one feat, Dodgility; in their place: Weapon Focus (slam).*  
+*House rules: Dodge and Mobility are one feat, Dodgility; in their place: Weapon Focus (slam); Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +15, Escape Artist +15, Fly +21, Knowledge (planes) +5, Perception +11, Stealth +11
 
 **Ecology**

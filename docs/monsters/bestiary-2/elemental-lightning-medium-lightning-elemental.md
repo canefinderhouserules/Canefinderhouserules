@@ -1,6 +1,6 @@
 # Elemental (Lightning), Medium Lightning Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Medium Lightning Elemental&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N Medium outsider (air, elemental, extraplanar)&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;16, touch 15, flat-footed 11&quot;,&quot;hp&quot;:&quot;44 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:8,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune electricity, elemental traits&quot;,&quot;speed&quot;:&quot;fly 100 ft. (perfect)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d4 electricity&quot;}]],&quot;specialAttacks&quot;:&quot;metal mastery, spark leap&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 14, Dex 19, Con 12, Int 4, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +6; CMD 21&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:11,&quot;Escape Artist&quot;:9,&quot;Fly&quot;:12,&quot;Knowledge (planes)&quot;:2,&quot;Perception&quot;:7,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Dodgility, Improved Initiative, Weapon Finesse&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Medium Lightning Elemental&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N Medium outsider (air, elemental, extraplanar)&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;16, touch 15, flat-footed 11&quot;,&quot;hp&quot;:&quot;44 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:8,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune electricity, elemental traits&quot;,&quot;speed&quot;:&quot;fly 100 ft. (perfect)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d4 electricity&quot;}]],&quot;specialAttacks&quot;:&quot;metal mastery, spark leap&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 14, Dex 19, Con 12, Int 4, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +8; CMD 21&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:11,&quot;Escape Artist&quot;:9,&quot;Fly&quot;:12,&quot;Knowledge (planes)&quot;:2,&quot;Perception&quot;:7,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Dodgility, Improved Initiative, Weapon Finesse&quot;}"></div>
 
 ## Medium Lightning Elemental (CR 3)
 
@@ -18,15 +18,15 @@ N Medium outsider (air, elemental, extraplanar)
 **Offense**
 
 **Speed** fly 100 ft. (perfect)  
-**Melee** slam +8 (1d6+3 plus 1d4 electricity)  
+**Melee** slam +8 (1d6+5 plus 1d4 electricity)  
 **Special Attacks** metal mastery, spark leap
 
 **Statistics**
 
 **Str** 14, **Dex** 19, **Con** 12, **Int** 4, **Wis** 11, **Cha** 11  
-**Base Atk** +4; **CMB** +6; **CMD** 21  
+**Base Atk** +4; **CMB** +8; **CMD** 21  
 **Feats** [Dodgility](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
-*House rules: Dodge is part of Dodgility.*  
+*House rules: Dodge is part of Dodgility; Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +11, Escape Artist +9, Fly +12, Knowledge (planes) +2, Perception +7
 
 **Ecology**

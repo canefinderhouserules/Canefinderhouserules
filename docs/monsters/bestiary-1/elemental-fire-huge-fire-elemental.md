@@ -1,6 +1,6 @@
 # Elemental (Fire), Huge Fire Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Huge Fire Elemental&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;N Huge outsider (elemental, extraplanar, fire)&quot;,&quot;init&quot;:11,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;21, touch 16, flat-footed 13&quot;,&quot;hp&quot;:&quot;130 (10d10+30)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:10,&quot;Ref&quot;:14,&quot;Will&quot;:5},&quot;defense&quot;:&quot;DR 5/—; Immune elemental traits, fire; Weaknesses vulnerability to cold&quot;,&quot;speed&quot;:&quot;60 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus burn&quot;}]],&quot;specialAttacks&quot;:&quot;burn (2d6, DC 18)&quot;,&quot;rangedTouch&quot;:15,&quot;abilities&quot;:&quot;Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +16; CMD 34&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:16,&quot;Climb&quot;:13,&quot;Escape Artist&quot;:16,&quot;Intimidate&quot;:9,&quot;Knowledge (planes)&quot;:7,&quot;Perception&quot;:13,&quot;CMB&quot;:16},&quot;feats&quot;:&quot;Combat Reflexes, Dodgility, Improved Initiative, Iron Will, Spring Attack, Weapon Finesse, Weapon Focus (slam)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Huge Fire Elemental&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;N Huge outsider (elemental, extraplanar, fire)&quot;,&quot;init&quot;:11,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;21, touch 16, flat-footed 13&quot;,&quot;hp&quot;:&quot;130 (10d10+30)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:10,&quot;Ref&quot;:14,&quot;Will&quot;:5},&quot;defense&quot;:&quot;DR 5/—; Immune elemental traits, fire; Weaknesses vulnerability to cold&quot;,&quot;speed&quot;:&quot;60 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus burn&quot;}]],&quot;specialAttacks&quot;:&quot;burn (2d6, DC 18)&quot;,&quot;rangedTouch&quot;:15,&quot;abilities&quot;:&quot;Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +19; CMD 34&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:16,&quot;Climb&quot;:13,&quot;Escape Artist&quot;:16,&quot;Intimidate&quot;:9,&quot;Knowledge (planes)&quot;:7,&quot;Perception&quot;:13,&quot;CMB&quot;:19},&quot;feats&quot;:&quot;Combat Reflexes, Dodgility, Improved Initiative, Iron Will, Spring Attack, Weapon Finesse, Weapon Focus (slam)&quot;}"></div>
 
 ## Huge Fire Elemental (CR 7)
 
@@ -19,16 +19,16 @@ N Huge outsider (elemental, extraplanar, fire)
 **Offense**
 
 **Speed** 60 ft.  
-**Melee** 2 slams +16 (2d6+4 plus burn)  
+**Melee** 2 slams +16 (2d6+7 plus burn)  
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** burn (2d6, DC 18)
 
 **Statistics**
 
 **Str** 18, **Dex** 25, **Con** 16, **Int** 6, **Wis** 11, **Cha** 11  
-**Base Atk** +10; **CMB** +16; **CMD** 34  
+**Base Atk** +10; **CMB** +19; **CMD** 34  
 **Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodgility](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
-*House rules: Dodge and Mobility are one feat, Dodgility; in their place: Weapon Focus (slam).*  
+*House rules: Dodge and Mobility are one feat, Dodgility; in their place: Weapon Focus (slam); Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +16, Climb +13, Escape Artist +16, Intimidate +9, Knowledge (planes) +7, Perception +13
 
 **Ecology**

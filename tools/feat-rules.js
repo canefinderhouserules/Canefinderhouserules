@@ -136,9 +136,14 @@ function applyFeatRules(html) {
   for (let s = 0; s < freed; s++) { if (!choices.some(c => c())) break; }
   if (added.length) notes.push('in their place: ' + added.join(', '));
 
+  if (notes.length) {
+    const list = keep.map(i => i.html).concat(added.map(featLink)).join(', ') + (free.length ? '; ' + free.map(f => featLink(f) + ' (no feat needed)').join(', ') : '');
+    html = setField(html, 'Feats', () => ' ' + list);
+  }
+  const fin = finesse(html, items.some(i => i.name === 'Agile Maneuvers'));
+  html = fin.html;
+  if (fin.changed) notes.push('Weapon Finesse adds Dex instead of Str to finesse damage and CMB');
   if (!notes.length) return html;
-  const list = keep.map(i => i.html).concat(added.map(featLink)).join(', ') + (free.length ? '; ' + free.map(f => featLink(f) + ' (no feat needed)').join(', ') : '');
-  html = setField(html, 'Feats', () => ' ' + list);
   // the note goes on its own line after the feats
   return html.replace(/(<b>\s*Feats\s*<\/b>[\s\S]*?)(<br|<h3)/, '$1<br /><i>House rules: ' + notes.join('; ') + '.</i>$2');
 }
@@ -174,6 +179,50 @@ function bumpAttack(html, attack, focus) {
   const re = new RegExp('(' + esc + '(?:<\\/[a-z]+>)?\\s+)((?:[+–—−-]\\d+\\/)*[+–—−-]\\d+)', 'g');
   for (const label of ['Melee', 'Ranged']) html = setField(html, label, v => v.replace(re, (a, p, b) => p + b.split('/').map(x => fmt(numOf(x) + 1)).join('/')));
   return html;
+}
+
+// House rule: Weapon Finesse (which includes Agile Maneuvers) uses Dex instead of Str on finesse attacks' damage and on
+// CMB. Applied when the Dex modifier is higher. Damage gets the Dex modifier once (never x1.5), half for
+// secondary natural attacks (5 below the best natural attack), x1 otherwise. Two-handed and ranged weapons do not change.
+const NATURAL = /\b(bites?|claws?|gores?|hoof|hooves|slams?|stings?|stingers?|talons?|tentacles?|tail(?: slap)?|wings?|pincers?|tongue|rake|horns?|butt|feet|foot|tusks?|fists?|arms?|legs?|pseudopods?|hands?|mandibles?|spines?|fins?|beak)\b/i;
+const FINESSE_WEAPON = /\b(dagger|short ?sword|rapier|whip|spiked chain|elven curve ?blade|kukri|sickle|light mace|light hammer|handaxe|hand axe|punching dagger|starknife|sap|gauntlet|unarmed strike|kerambit|sword cane|sword-?cane|cestus|knife|knives|shortsword|wakizashi|scizore|spiked gauntlet|kama|sai|nunchaku|siangham|quarterstaff)\b/i;
+const modOf = s => Math.floor((s - 10) / 2);
+function finesse(html, hadAgile) {
+  const feats = strip(getField(html, 'Feats') || '');
+  if (!/\bWeapon Finesse\b/.test(feats)) return { html, changed: false };
+  const str = (html.match(/<b>Str<\/b>\s*(\d+)/) || [])[1], dex = (html.match(/<b>Dex<\/b>\s*(\d+)/) || [])[1];
+  if (!str || !dex) return { html, changed: false };
+  const diff = modOf(+dex) - modOf(+str);
+  if (diff <= 0) return { html, changed: false };
+  let changed = false;
+  html = setField(html, 'Melee', v => v.match(/^\s*/)[0] + v.trim().split(/(\s+or\s+)/).map(group => {
+    if (/^\s+or\s+$/.test(group)) return group;
+    const items = splitTop(group, ',');
+    const bonusOf = it => numOf((strip(it).match(/\s([+–—−-]\d+)/) || [, '0'])[1]);
+    const naturals = items.filter(it => NATURAL.test(strip(it)));
+    const best = naturals.length ? Math.max(...naturals.map(bonusOf)) : 0;
+    const lone = items.length === 1 && naturals.length === 1 && !/^\s*\d+\s/.test(strip(items[0]));
+    return items.map(it => {
+      const name = strip(it).replace(/\s+[+–—−-]\d+.*$/, '');
+      const natural = NATURAL.test(name);
+      if (!natural && !FINESSE_WEAPON.test(name)) return it;
+      // Dex to damage is never x1.5 (that is the Swordlord's, on two-handed grips); secondary natural attacks get half
+      const mult = natural && !lone && bonusOf(it) <= best - 5 ? 0.5 : 1;
+      const add = Math.floor(diff * mult);
+      if (!add) return it;
+      return it.replace(/(\(\s*\d+d\d+)(\s*([+–—−-])\s*(\d+))?/, (a, dice, c, sg, n) => {
+        changed = true;
+        const x = (c ? numOf((sg === '+' ? '' : '-') + n) : 0) + add;
+        return dice + (x === 0 ? '' : (x < 0 ? '–' : '+') + Math.abs(x));
+      });
+    }).join(', ');
+  }).join(''));
+  if (!hadAgile) {
+    const before = html;
+    html = setField(html, 'CMB', v => v.replace(/([+–—−-])(\d+)/g, (a, sg, n) => fmt(numOf((sg === '+' ? '' : '-') + n) + diff)));
+    if (html !== before) changed = true;
+  }
+  return { html, changed };
 }
 
 // House rule: enemies have maximum hit points. "85 (10d8+40)" -> 120 (10d8+40); every die at its top, plus every

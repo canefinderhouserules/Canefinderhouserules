@@ -1,6 +1,6 @@
 # Adventurer (Tomb Raider)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Adventurer (Tomb Raider)&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Human rogue 6, N Medium humanoid&quot;,&quot;init&quot;:3,&quot;ac&quot;:&quot;17, touch 13, flat-footed 14&quot;,&quot;hp&quot;:&quot;66 (6d8+18)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:8,&quot;Will&quot;:2},&quot;defense&quot;:&quot;evasion, trap sense +2, uncanny dodge&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;short sword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk shortbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +3d6&quot;,&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 12, Dex 17, Con 14, Int 14, Wis 10, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +5; CMD 18&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:12,&quot;Appraise&quot;:11,&quot;Bluff&quot;:5,&quot;Climb&quot;:10,&quot;Disable Device&quot;:20,&quot;Escape Artist&quot;:14,&quot;Knowledge (dungeoneering)&quot;:11,&quot;Knowledge (local)&quot;:6,&quot;Linguistics&quot;:6,&quot;Perception&quot;:14,&quot;Sleight of Hand&quot;:12,&quot;Stealth&quot;:14,&quot;Swim&quot;:5,&quot;Use Magic Device&quot;:8,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Great Fortitude, Skill Focus (Disable Device), Stealthy, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Aklo, Common, Terran, Undercommon&quot;,&quot;sq&quot;:&quot;rogue talents (fast stealth, rogue crawl, trap spotter), trapfinding +3&quot;,&quot;gear&quot;:&quot;antitoxin&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Adventurer (Tomb Raider)&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Human rogue 6, N Medium humanoid&quot;,&quot;init&quot;:3,&quot;ac&quot;:&quot;17, touch 13, flat-footed 14&quot;,&quot;hp&quot;:&quot;66 (6d8+18)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:8,&quot;Will&quot;:2},&quot;defense&quot;:&quot;evasion, trap sense +2, uncanny dodge&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;short sword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk shortbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;sneak attack +3d6&quot;,&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 12, Dex 17, Con 14, Int 14, Wis 10, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +7; CMD 18&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:12,&quot;Appraise&quot;:11,&quot;Bluff&quot;:5,&quot;Climb&quot;:10,&quot;Disable Device&quot;:20,&quot;Escape Artist&quot;:14,&quot;Knowledge (dungeoneering)&quot;:11,&quot;Knowledge (local)&quot;:6,&quot;Linguistics&quot;:6,&quot;Perception&quot;:14,&quot;Sleight of Hand&quot;:12,&quot;Stealth&quot;:14,&quot;Swim&quot;:5,&quot;Use Magic Device&quot;:8,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Great Fortitude, Skill Focus (Disable Device), Stealthy, Weapon Finesse&quot;,&quot;languages&quot;:&quot;Aklo, Common, Terran, Undercommon&quot;,&quot;sq&quot;:&quot;rogue talents (fast stealth, rogue crawl, trap spotter), trapfinding +3&quot;,&quot;gear&quot;:&quot;antitoxin&quot;}"></div>
 
 ## Adventurer (Tomb Raider) (CR 5)
 
@@ -19,15 +19,16 @@ N Medium humanoid
 **Offense**
 
 **Speed** 30 ft.  
-**Melee** short sword +7 (1d6+1/19–20)  
+**Melee** short sword +7 (1d6+3/19–20)  
 **Ranged**  mwk shortbow +8 (1d6/×3)  
 **Special Attacks** sneak attack +3d6
 
 **Statistics**
 
 **Str** 12, **Dex** 17, **Con** 14, **Int** 14, **Wis** 10, **Cha** 8  
-**Base Atk** +4; **CMB** +5; **CMD** 18  
+**Base Atk** +4; **CMB** +7; **CMD** 18  
 **Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Skill Focus (Disable Device)](../../rules/feats/skill-focus.md), [Stealthy](../../rules/feats/stealthy.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+*House rules: Weapon Finesse adds Dex instead of Str to finesse damage and CMB.*  
 **Skills** Acrobatics +12, Appraise +11, Bluff +5, Climb +10, Disable Device +20, Escape Artist +14, Knowledge (dungeoneering) +11, Knowledge (local) +6, Linguistics +6, Perception +14 (+17 to find traps), Sleight of Hand +12, Stealth +14, Swim +5, Use Magic Device +8  
 **Languages** Aklo, Common, Terran, Undercommon  
 **SQ** rogue talents (fast stealth, rogue crawl, trap spotter), trapfinding +3  
