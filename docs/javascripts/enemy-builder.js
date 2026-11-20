@@ -555,7 +555,7 @@
       });
       var gwfN = hits(gwf, n);
       if (gwfN) autoNote('Greater Weapon Focus (' + n + ')', '+1 attack with ' + n);
-      a.bab = D.bab + wfB; a.groups = groups;
+      a.bab = D.bab + wfB + (w.babAdj || 0); a.groups = groups;
       a.atk = a.bab + (useDex ? M.Dex : M.Str) + sz.ac + enh + mw + gwfN + (w.misc || 0) + (nat ? 0 : FX.wAtk);
       if (w.mode === 'nat2') a.atk -= multi ? 2 : 5;
       if (multi && w.mode === 'nat2') autoNote('Multiattack', 'secondary natural attacks at –2');
@@ -564,6 +564,7 @@
       if (w.mode === 'off' || w.mode === 'nat2') strD = M.Str > 0 ? Math.floor(M.Str / 2) : M.Str;
       if (w.mode === 'off' && dslice) { strD = M.Str; autoNote('Double Slice', 'full Str to off-hand damage'); }
       if (w.mode === 'ranged' && !w.strDmg) strD = Math.min(0, M.Str); // bows: a Str penalty, no bonus (composite: tick Str to damage)
+      if (w.dmgAbil) strD = M[w.dmgAbil] || 0;
       if (w.single || w.fixed) strD = 0; // a kinetic blast or a bomb: its damage is its own (Con, Int), already in its damage misc
       var spec = (hits(ws, n) + hits(gws, n)) * 2;
       if (spec) autoNote('Weapon Specialization (' + n + ')', '+2 damage with ' + n);
@@ -949,18 +950,97 @@
 
   // ---- strong archetypes a random classed enemy sometimes has (about half the time, when its class has some here)
   var STRONG_ARCH = { wizard: ['Exploiter Wizard', 'Spell Sage'], sorcerer: ['Crossblooded', 'Seeker', 'Wildblooded'], cleric: ['Ecclesitheurge', 'Cloistered Cleric', 'Separatist'],
-    druid: ['Feyspeaker', 'Menhir Savant', 'Goliath Druid'], witch: ['Ley Line Guardian'], oracle: ['Dual-Cursed Oracle', 'Seeker'], bard: ['Archaeologist', 'Dervish Dancer', 'Archivist'],
+    druid: ['Feyspeaker', 'Menhir Savant', 'Goliath Druid'], witch: ['Ley Line Guardian'], oracle: ['Dual-Cursed Oracle', 'Seeker'], bard: ['Archaeologist', 'Dervish Dancer', 'Archivist', 'Longbow Minstrel'],
     magus: ['Kensai', 'Hexcrafter', 'Myrmidarch', 'Bladebound'], inquisitor: ['Sanctified Slayer'], fighter: ['Mobile Fighter', 'Two-Handed Fighter', 'Lore Warden', 'Polearm Master', 'Weapon Master'],
-    barbarian: ['Invulnerable Rager', 'Titan Mauler', 'Urban Barbarian'], ranger: ['Skirmisher', 'Freebooter', 'Guide', 'Trophy Hunter'], paladin: ['Sacred Shield', 'Tortured Crusader'],
+    barbarian: ['Invulnerable Rager', 'Titan Mauler', 'Urban Barbarian'], ranger: ['Skirmisher', 'Freebooter', 'Guide', 'Trophy Hunter'], paladin: ['Sacred Shield', 'Tortured Crusader', 'Oathbound Paladin'],
     swashbuckler: ['Inspired Blade', 'Mysterious Avenger', 'Flying Blade'], gunslinger: ['Musket Master', 'Pistolero'], 'unchained-rogue': ['Scout', 'Knife Master', 'Sniper', 'Thug'],
-    'unchained-monk': ['Scaled Fist'], alchemist: ['Grenadier', 'Mindchemist'], investigator: ['Empiricist', 'Mastermind'], brawler: ['Snakebite Striker', 'Strangler', 'Wild Child'],
+    'unchained-monk': ['Scaled Fist'], monk: ['Sohei', 'Monk of the Four Winds'], alchemist: ['Grenadier', 'Mindchemist'], investigator: ['Empiricist', 'Mastermind'], brawler: ['Snakebite Striker', 'Strangler', 'Wild Child'],
     bloodrager: ['Primalist', 'Steelblood'], arcanist: ['School Savant', 'Blood Arcanist'], slayer: ['Sniper', 'Vanguard', 'Cleaner'], cavalier: ['Huntmaster', 'Standard Bearer'],
     warpriest: ['Sacred Fist', 'Champion of the Faith'], hunter: ['Primal Companion Hunter', 'Feral Hunter'], skald: ['Urban Skald', 'War Drummer'] };
   function randomArchetype(c) {
+    // the table's own takes on two classes, not in the archetype lists: the White-Haired Witch (a whole reworked witch)
+    // and the sin specialist wizard (docs/magic/variant-magic.md)
+    if (c.s === 'witch' && chance(0.45)) { c.arch = ['White-Haired Witch']; c.whw = true; return; }
+    if (c.s === 'wizard' && chance(0.3)) { c.sin = pick(Object.keys(SINS)); return; }
     var A = ARCH[c.s], list = STRONG_ARCH[c.s];
-    if (!list || !A || A === 'loading' || !chance(0.5)) return;
+    if (!list || !A || A === 'loading' || (c.s !== 'monk' && !chance(0.5))) return;
     var have = list.filter(function (n) { return A.archetypes.some(function (a) { return a.name === n; }); });
     if (have.length) c.arch = [pick(have)];
+    if (c.arch[0] === 'Oathbound Paladin') c.oath = 'Oath of Vengeance';
+  }
+  // the seven sin schools: [school, prohibited schools]
+  var SINS = { envy: ['abjuration', 'evocation', 'necromancy'], gluttony: ['necromancy', 'abjuration', 'enchantment'], greed: ['transmutation', 'enchantment', 'illusion'],
+    lust: ['enchantment', 'necromancy', 'transmutation'], pride: ['illusion', 'conjuration', 'transmutation'], sloth: ['conjuration', 'evocation', 'illusion'],
+    wrath: ['evocation', 'abjuration', 'conjuration'] };
+  // what those choices add once the enemy has its spells and weapons
+  function archetypeExtras() {
+    (S.classes || []).forEach(function (c) {
+      var L = c.lvl || 1;
+      // White-Haired Witch (docs/characters/classes/white-haired-witch.md): 3/4 BAB, d8, its hair (1d4 + Int, reach, grab), iteratives with it from 6th
+      if (c.whw) {
+        var main = c === S.classes[0], wl = L;
+        var hair = { n: 'white hair', mode: 'melee', d: '1d4', t: 20, x: 2, cat: 'light', dmgAbil: 'Int', single: wl < 6,
+          babAdj: wl >= 6 ? wl - Math.floor(wl / 2) : Math.floor(wl * 3 / 4) - Math.floor(wl / 2), misc: wl >= 6 ? Math.floor(wl * 3 / 4) - wl : 0,
+          rider: 'grab, reach ' + Math.min(30, 5 + 5 * Math.floor(wl / 4)) + ' ft.' + (wl >= 2 ? ', trip' : '') + (wl >= 5 ? ', pull' : '') };
+        S.weapons = [hair].concat(main ? [] : S.weapons);
+        S.hpMisc = (S.hpMisc || 0) + wl * (S.maxHp === false ? 1 : 2);
+        S.special.push({ name: 'White Hair', type: 'Su', text: 'A primary natural attack, 1d4 + Int, reach ' + Math.min(30, 5 + 5 * Math.floor(wl / 4)) + ' ft.; on a hit it can grapple as a free action' +
+          (wl >= 2 ? ', and trip' : '') + (wl >= 4 ? '; it constricts a grappled foe' : '') + (wl >= 5 ? ', and can pull 5 ft.' : '') + (wl >= 7 ? '; a grappled foe is strangled' : '') + '.' +
+          (wl >= 6 ? ' It makes iterative attacks as a manufactured weapon, counting its witch level as base attack bonus for them.' : '') + ' White-Haired Witch: 3/4 BAB and d8 Hit Dice from its witch levels.' });
+        // Hex Strike at 5th, a bonus feat (taken with the feats)
+        if (wl >= 5 && featOk('Hex Strike')) S.bonusFeats = (S.bonusFeats || 0) + 1;
+        // a whole White-Haired Witch casts as a magus: witch spells up to 6th
+        if (main) S.casters.forEach(function (k) { if (k.cls === 'witch') k.spells = k.spells.filter(function (x) { return x.lvl <= Math.max(1, Math.floor((L + 2) / 3)); }); });
+      }
+      // sin specialist: never its prohibited schools; two more slots a level for the same spell of its school
+      if (c.sin) {
+        var sin = SINS[c.sin], k = S.casters.filter(function (x) { return x.cls === 'wizard'; })[0];
+        if (k) {
+          k.spells = k.spells.filter(function (x) { var sp = SPELLS[x.u]; return !sp || sin.slice(1).indexOf(sp.s) < 0; });
+          var levels = {};
+          k.spells.forEach(function (x) { levels[x.lvl] = 1; });
+          Object.keys(levels).map(Number).filter(function (l) { return l > 0; }).forEach(function (l) {
+            var own = k.spells.filter(function (x) { return x.lvl === l && SPELLS[x.u] && SPELLS[x.u].s === sin[0]; })[0];
+            if (!own) {
+              var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).filter(function (sp) { return sp.s === sin[0] && sp.l && sp.l.wizard === l; });
+              pool.sort(function (a, b) { return (DATA.rolls[b.u] ? 1 : 0) - (DATA.rolls[a.u] ? 1 : 0) + Math.random() - 0.5; });
+              if (pool[0]) { own = { n: pool[0].n, u: pool[0].u, lvl: l, uses: 1 }; k.spells.push(own); }
+            }
+            if (own) own.uses = (+own.uses || 1) + 2;
+          });
+        }
+        S.sq = [S.sq, 'sin specialist (' + c.sin + ': ' + sin[0] + '; prohibited ' + sin.slice(1).join(' and ') + ')'].filter(Boolean).join(', ');
+        S.special.push({ name: 'Sin Magic', type: 'Su', text: capFirst(c.sin) + ' (' + sin[0] + '): two extra slots of each spell level it can cast, both for the same ' + sin[0] + ' spell (prepared twice more); it can never prepare ' + sin.slice(1).join(' or ') + ' spells.' });
+      }
+      // the oathbound paladin's oath
+      if (c.oath && DATA.oaths && DATA.oaths[c.oath]) {
+        S.sq = [S.sq, c.oath.toLowerCase()].filter(Boolean).join(', ');
+        DATA.oaths[c.oath].filter(function (o) { return o.lvl <= L; }).forEach(function (o) { S.special.push({ name: o.n, type: o.type, text: c.oath + '. ' + o.text }); });
+      }
+    });
+  }
+  // ---- a multiclass dip now and then: 2 monk levels (the table's anti-dip rule gives Wis to AC, flurry and the first bonus
+  // feat at 2nd) for Wis casters fighting unarmored, 1-2 fighter levels for bonus feats, or 2 White-Haired Witch levels
+  // for an Int fighter (its hair with Int to damage)
+  function randomDip(c, concept) {
+    var forced = RAND_FORCE && RAND_FORCE.dip;
+    if (RAND_FORCE) { if (forced) applyDip(c, forced); return; }
+    if ((c.lvl || 1) < 5 || /^(kineticist|alchemist|shifter|monk|unchained-monk|fighter)$/.test(c.s) || !chance(0.3)) return;
+    var opts = [];
+    if (/^(druid|cleric|shaman|hunter|inquisitor|oracle|warpriest)$/.test(c.s)) opts.push({ s: 'monk', lvl: 2 });
+    if (concept === 'warrior' || concept === 'skirmisher' || /magus/.test(c.s)) opts.push({ s: 'fighter', lvl: pick([1, 2, 2]) });
+    if (/magus|investigator/.test(c.s)) opts.push({ s: 'witch', lvl: 2, whw: true });
+    if (!opts.length) return;
+    applyDip(c, pick(opts));
+  }
+  function applyDip(c, d) {
+    if (!CLASS_BY[d.s]) return;
+    c.lvl = Math.max(1, c.lvl - d.lvl);
+    var dc = { s: d.s, lvl: d.lvl, arch: d.whw ? ['White-Haired Witch'] : [], off: [], whw: !!d.whw };
+    S.classes.push(dc);
+    loadArch(d.s);
+    if (d.s === 'monk') { S.armor = ''; S.shield = ''; S.abil.Wis = Math.max(S.abil.Wis, 16); }
+    RAND_LAST.dip = d;
   }
 
   // ---- a random alchemist (characters/classes/alchemist.md): bombs (1d6 + Int, +1d6 at every odd level, ranged touch,
@@ -1168,7 +1248,7 @@
   // the classes a random humanoid can have, by concept: the rogue and the monk are their unchained versions (better in
   // almost every way); the barbarian stays the core one, with the unchained stances among its rage powers
   var RANDOM_CLS = { warrior: ['fighter', 'barbarian', 'ranger', 'slayer', 'cavalier', 'bloodrager', 'antipaladin', 'warpriest', 'brawler', 'unchained-monk',
-      'paladin', 'samurai', 'legendary-fighter', 'shifter'],
+      'paladin', 'samurai', 'legendary-fighter', 'shifter', 'monk'],
     skirmisher: ['unchained-rogue', 'ranger', 'slayer', 'investigator', 'swashbuckler', 'ninja', 'unchained-monk', 'vigilante', 'gunslinger',
       'legendary-swashbuckler', 'legendary-investigator', 'legendary-gunslinger'],
     caster: ['wizard', 'sorcerer', 'cleric', 'druid', 'witch', 'oracle', 'bard', 'magus', 'inquisitor', 'arcanist', 'shaman', 'psychic', 'skald',
@@ -1502,6 +1582,7 @@
         S.classes = [{ s: clsSlug, lvl: Math.max(1, Math.min(20, cr < 1 ? 1 : Math.round(cr) + 1)), arch: [], off: [] }];
         loadArch(clsSlug);
         randomArchetype(S.classes[0]);
+        randomDip(S.classes[0], concept);
       } else {
         var conM = S.type === 'undead' ? mod(S.abil.Cha) : S.type === 'construct' ? 0 : mod(S.abil.Con);
         var per = (S.maxHp ? S.die : (S.die + 1) / 2) + conM + (S.type === 'construct' ? 0 : 0);
@@ -1552,7 +1633,7 @@
         if (abil !== 'Cha') { var t2 = S.abil[abil]; S.abil[abil] = S.abil.Cha; S.abil.Cha = t2; }
         var clv = clsSlug ? S.classes[0].lvl : Math.max(1, Math.round(big * 1.2));
         // 6-level casters (bard, magus, inquisitor) get spells more slowly
-        var six = /^(bard|magus|inquisitor|skald|mesmerist|occultist|spiritualist|hunter|legendary-magus)$/.test(clsSlug);
+        var six = /^(bard|magus|inquisitor|skald|mesmerist|occultist|spiritualist|hunter|legendary-magus)$/.test(clsSlug) || !!S.classes[0].whw;
         var top = Math.max(clsSlug ? 0 : 1, six ? Math.min(6, Math.floor((clv + 2) / 3)) : Math.min(9, clsSlug && /sorcerer|oracle|psychic/.test(clsSlug) ? Math.floor(clv / 2) : Math.ceil(clv / 2)));
         var kind = !clsSlug ? 'Spell-Like Abilities' : /sorcerer|oracle|bard|inquisitor|skald|mesmerist|psychic|spiritualist|occultist|hunter|summoner|medium/.test(clsSlug) ? 'Spells Known' : 'Spells Prepared';
         if (/magus/.test(clsSlug || '')) { S.weapons = [makeAttack(firstWeapon(['Scimitar', 'Longsword', 'Rapier'], ['one-handed']))]; S.armor = bestArmor('light'); }
@@ -1564,6 +1645,7 @@
         S.casters.push({ kind: kind, cls: list, cl: clv, abil: abil, spells: sp });
       }
     }
+    if (!SWM) archetypeExtras();
     // skills and feats, then the numbers are nudged toward the CR's
     var D0 = compute();
     S.name = pick(NAME_ADJ) + ' ' + pick(NAME_NOUN[typeKey] || NAME_NOUN[concept] || ['Foe']);
@@ -1580,6 +1662,8 @@
       if (n && F.length < D0.featSlots && F.indexOf(n) < 0) F.push(n);
     };
     // one or two builds: feat chains that work together, with what they need (weapons, scores, ranks, a spell)
+    // bonus feats a class gives by name go in first (the White-Haired Witch's Hex Strike)
+    if ((S.classes || []).some(function (c) { return c.whw && c.lvl >= 5; }) && featOk('Hex Strike')) addF('Hex Strike');
     var builds = shuffle(randomBuilds(concept, D0, sk)).slice(0, D0.featSlots >= 6 ? 2 : 1);
     builds.forEach(function (b) { if (b.setup) b.setup(); });
     builds.forEach(function (b) { b.feats().filter(function (n) { return n && featOk(n.replace(/\s*\(.*$/, '')); }).forEach(addF); });
@@ -1622,7 +1706,7 @@
       var ab = /^(ranged|thrown)$/.test(w0.mode) || w0.finesse ? 'Dex' : 'Str';
       S.abil[ab] = Math.max(8, S.abil[ab] - 2 * (a - T.atk - 1));
       a = top(compute());
-      if (a > T.atk + 1) S.weapons.forEach(function (w) { w.misc = -(a - T.atk - 1); });
+      if (a > T.atk + 1) S.weapons.forEach(function (w) { w.misc = (w.misc || 0) - (a - T.atk - 1); });
     }
     // too much AC: no shield, then lighter armor
     D = compute();
@@ -1641,10 +1725,10 @@
     a = top(D);
     if (a != null && a < T.atk) {
       var enh = Math.min(T.atk - a, 5, Math.floor(big / 3));
-      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode) && !w.single && !w.fixed) w.enh = enh; });
+      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode) && !w.single && !w.fixed && !w.dmgAbil) w.enh = enh; });
       D = compute(); a = top(D);
       var rest = T.atk - a;
-      if (rest > 0) S.weapons.forEach(function (w) { w.misc = classed ? Math.ceil(rest / 2) : rest; });
+      if (rest > 0) S.weapons.forEach(function (w) { w.misc = (w.misc || 0) + (classed ? Math.ceil(rest / 2) : rest); });
     }
     // damage: the average of the first full attack
     D = compute();
@@ -1740,10 +1824,11 @@
       RAND_LAST = null; randomEnemy(t, opts);
       // a class whose features are not loaded yet: load them, then build that class again so its bonus feats and bonuses count
       var last = RAND_LAST;
-      if (!SWM && last && last.cls && CLASS_BY[last.cls].arch && (!ARCH[last.cls] || ARCH[last.cls] === 'loading')) {
-        loadArch(last.cls);
+      var need = SWM || !last ? [] : (S.classes || []).map(function (c) { return c.s; }).filter(function (sl) { return CLASS_BY[sl] && CLASS_BY[sl].arch && (!ARCH[sl] || ARCH[sl] === 'loading'); });
+      if (need.length) {
+        need.forEach(loadArch);
         var wait = setInterval(function () {
-          if (ARCH[last.cls] === 'loading') return;
+          if (need.some(function (sl) { return ARCH[sl] === 'loading'; })) return;
           clearInterval(wait);
           RAND_FORCE = last; try { randomEnemy(t, opts); } finally { RAND_FORCE = null; }
           done();

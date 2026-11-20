@@ -325,8 +325,25 @@ const shifterAspects = [];
   }
 }
 
+// ---- the oathbound paladin's oaths (characters/classes/paladin-archetypes.md, "### Oath of Vengeance" under "## Oaths"):
+// each oath's abilities, "**Channel Wrath (Su)**: When an oathbound paladin reach 4th level, ..."
+const oaths = {};
+{
+  const page = read('characters/classes/paladin-archetypes.md').replace(/\r/g, '');
+  const sec = (page.split(/^## Oaths\s*$/m)[1] || '').split(/^## (?!Oaths)/m)[0];
+  for (const part of sec.split(/^(?=### )/m).slice(1)) {
+    const name = part.split('\n')[0].replace(/^###\s*/, '').trim(), list = [];
+    for (const m of part.matchAll(/^\*\*([^*]+?)\s*\((Ex|Su|Sp)\)\*\*:\s*(.+)$/gm)) {
+      const text = plain(m[3]), lvl = +((text.match(/(\d+)(?:st|nd|rd|th) level/) || [])[1] || 1);
+      list.push({ n: m[1].trim(), type: m[2], lvl, text: short(text, 350) });
+    }
+    if (list.length) oaths[name] = list;
+  }
+}
+
 const out = path.join(DOCS, 'tools', 'enemy-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects }));
+fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects, oaths }));
+console.log('oaths:', Object.keys(oaths).length, '(' + (oaths['Oath of Vengeance'] || []).map(o => o.n + ' ' + o.lvl).join(', ') + ')');
 console.log('alchemist:', alchemist.discoveries.length, 'discoveries; shifter:', shifterAspects.length, 'aspects');
 console.log('kineticist:', Object.keys(kineticist.talents).length, 'wild talents,', Object.keys(kineticist.elements).map(e => e + ' ' + kineticist.elements[e].length).join(', '));
 console.log('rage powers:', ragePowers.length, '(' + ragePowers.filter(p => /stance/i.test(p.n)).length + ' stances)');
