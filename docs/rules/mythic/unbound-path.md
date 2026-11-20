@@ -1,21 +1,31 @@
-# Mythic Path Abilities
+# Unbound Path
 
-!!! note "Vampire subsystem"
-    This is a custom subsystem, separate from the normal Pathfinder rules. The ability list reproduces the open-content path abilities of the Pathfinder mythic rules.
+!!! note "House path"
+    This is our table's alternative to the six standard mythic paths. Instead of following one path, you build your mythic character from mythic points. The ability list reproduces the open-content path abilities of the Pathfinder mythic rules, each marked with its cost.
 
-## Mythic Rules in This Game
+The unbound hero follows no single road to legend, and yet walks all of them. Their mythic power doesn't bend toward one role: it takes whatever shape their deeds demand, so a warrior can learn an archmage's trick and a priest can stand like a guardian.
 
-**Mythic Path:** None, yet all of them. You do not choose a path.
+**Role**: Any. You shape your role by what you buy with your mythic points.
 
-**Mythic tier/level:** Each mythic tier grants you 2 "mythic points" that you can spend in different ways. Each path ability, mythic feat and so on has a different cost; as a general rule mythic feats cost 1, and path abilities cost between 2 and 3.
+**Classes**: Any class. The GM can limit which abilities fit, depending on the source of your mythic power.
 
-**Mythic power:** The mythic "mana," so to speak: what you have to spend to use most mythic abilities. You have 2 + your mythic tier.
+## Unbound Path Rules
 
-**Mythic path abilities:** You can choose from any path (depending on the role there may be some limitation according to the source of your mythic power). The tier requirement is still respected: if an ability is on the list of 3rd-tier path abilities, you have to wait until you have mythic tier 3 before you can take it. The list follows below.
+**Mythic Path**: None, yet all of them. You choose this path instead of one of the six standard paths, and you don't gain a path's features (such as a champion's or trickster's 1st-tier attack, or its 10th-tier capstone).
 
-- **[1]:** A very weak mythic feat or path ability that costs only 1 mythic point.
-- **[2]:** A path ability of good power that costs 2 mythic points.
-- **[3]:** A path ability that is probably broken (a real slave-driver); it costs 3 mythic points.
+**Mythic Points**: Each mythic tier grants you 2 mythic points. You spend them on path abilities and mythic feats, each with its own cost (shown in brackets after its name). As a general rule mythic feats cost 1 point, and path abilities cost between 1 and 3.
+
+- **[1]**: A weak mythic feat or path ability that costs only 1 mythic point.
+- **[2]**: A path ability of good power that costs 2 mythic points.
+- **[3]**: A path ability that is probably broken; it costs 3 mythic points.
+
+**Base Mythic Abilities**: Several base abilities (hard to kill, surge, recuperation, mythic saving throws and force of will) are in the universal list below with a cost. You buy them with mythic points instead of gaining them automatically at a set tier.
+
+**Mythic Power**: The mythic "mana" you spend to use most mythic abilities. You have 2 + your mythic tier uses of mythic power per day, instead of 3 + double your tier.
+
+**Path Abilities**: You can choose path abilities from any path (the GM can limit them according to the source of your mythic power). The tier requirement still applies: an ability on a 3rd-tier list needs mythic tier 3 before you can take it, and one on a 6th-tier list needs tier 6.
+
+**Gaining Tiers**: You gain tiers through trials as normal (see [Gaining Tiers](index.md#gaining-tiers)).
 
 ## 1st-Tier Universal Path Abilities
 

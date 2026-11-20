@@ -9,4 +9,4 @@
 - [Casters](casters.md): how vampires use magic classes.
 - [New Feats](new-feats.md)
 - [Humanity](humanity.md): the Path of Humanity and its effects.
-- [Mythic Path Abilities](mythic-path-abilities.md): how mythic points work in this game, and the ability list.
+- [Mythic Rules](../../rules/mythic/unbound-path.md): mythic characters use the Unbound Path, which buys path abilities from any path with mythic points.
