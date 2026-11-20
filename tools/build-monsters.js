@@ -35,7 +35,7 @@ const slugOf = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,
   .replace(/[’'`]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const num = s => { const m = String(s).replace(/[–—−]/g, '-').match(/[+-]?\d+/); return m ? parseInt(m[0], 10) : 0; };
 // superscript marks (mythic "M", domain "D", book letters) are dropped from plain text so they do not run into words
-const plainText = h => decode(String(h).replace(/<su[pb]>[\s\S]*?<\/su[pb]>/g, '').replace(/<[^>]+>/g, '')).replace(/[–—−](?=\d)/g, '-').replace(/\s+/g, ' ').trim();
+const plainText = h => decode(String(h).replace(/<su[pb]>[\s\S]*?<\/su[pb]>/g, '').replace(/<[^>]+>/g, '')).replace(/([a-z])M\b/g, '$1').replace(/[–—−](?=\d)/g, '-').replace(/\s+/g, ' ').trim();
 // split on a separator only outside parentheses/brackets
 function splitTop(s, sep) {
   const out = []; let depth = 0, cur = '';
@@ -205,6 +205,7 @@ function toMarkdown(html) {
     return m[1] + '[' + m[2] + '](' + href + ')' + m[3];
   });
   h = h.replace(/\[\[SUP\]\]([\s\S]*?)\[\[\/SUP\]\]/g, (_, t) => t.trim() ? '<sup>' + t.trim() + '</sup>' : '');
+  h = h.replace(/([a-z])M\b(?=[*\],;)\s]|$)/gm, '$1<sup>M</sup>'); // mythic mark typed as a plain letter: "divine favorM"
   h = h.replace(/[ \t]+\n/g, m => (m.endsWith('  \n') ? '  \n' : '\n')).replace(/\n{3,}/g, '\n\n');
   return numberConditions(h).trim();
 }
@@ -454,6 +455,16 @@ function pageFor(html, bookKey) {
   return { name: scrubNames(pageName), md: scrubNames(md.trim()) + '\n', blocks: mine.map(b => JSON.parse(scrubNames(JSON.stringify(parseBlock(b.html, b.source))))) };
 }
 
+// Windows sometimes locks a file for a moment (indexer, antivirus): try again before giving up
+function writeRetry(file, text) {
+  for (let i = 0; ; i++) {
+    try { return fs.writeFileSync(file, text); } catch (e) {
+      if (i >= 5) throw e;
+      const until = Date.now() + 300 * (i + 1); while (Date.now() < until) { /* wait */ }
+    }
+  }
+}
+
 // ---------- main ----------
 if (require.main === module) {
   const [dir, bookKey, flag, onlyArg] = process.argv.slice(2);
@@ -470,14 +481,14 @@ if (require.main === module) {
     const p = pageFor(html, bookKey);
     if (!p || (only && !only.has(p.name))) continue;
     let slug = slugOf(p.name); while (seen.has(slug)) slug += '-2'; seen.add(slug);
-    fs.writeFileSync(path.join(outDir, slug + '.md'), p.md);
+    writeRetry(path.join(outDir, slug + '.md'), p.md);
     for (const b of p.blocks) index.push({ name: b.name, cr: b.cr, type: b.line || '', slug });
   }
   index.sort((a, b) => a.name.localeCompare(b.name));
   const crNum = c => c.includes('/') ? eval(c) : +c;
   let idx = '# ' + BOOKS[bookKey].title + '\n\nEvery creature here has a **Roll20** panel above its stat block: copy it into a Roll20 character\'s Bio & Info and each attack, save, check and spell rolls from there (see [Monsters in Roll20](../roll20.md) for the setup).\n\n| Creature | CR | Description |\n|---|---|---|\n';
   idx += index.map(e => '| [' + e.name + '](' + e.slug + '.md) | ' + e.cr + ' | ' + e.type.replace(/\|/g, '/') + ' |').join('\n') + '\n';
-  if (!only) fs.writeFileSync(path.join(outDir, 'index.md'), idx);
+  if (!only) writeRetry(path.join(outDir, 'index.md'), idx);
   console.log(bookKey + ':', new Set(index.map(e => e.slug)).size, 'pages,', index.length, 'stat blocks');
 }
 module.exports = { parseBlock, parseAttacks, pageFor, toMarkdown };
