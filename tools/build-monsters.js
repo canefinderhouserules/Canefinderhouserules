@@ -77,7 +77,7 @@ const SPELL_ALIASES = {
   'meld with stone': 'meld-into-stone', 'purify food & drink': 'purify-food-and-drink', 'purify food and water': 'purify-food-and-drink',
   'purify food or drink': 'purify-food-and-drink', "order's wraith": 'orders-wrath', 'order’s wraith': 'orders-wrath',
   'cure mod. wounds': 'cure-moderate-wounds', 'magic circle vs. evil': 'magic-circle-against-evil', 'g. teleport': 'teleport-greater',
-  'd. magic': 'dispel-magic', 'r. magic': 'read-magic', 'major curse': 'bestow-curse-greater',
+  'd. magic': 'dispel-magic', 'r. magic': 'read-magic', 'major curse': 'bestow-curse-greater', 'fires of judgment': 'fire-of-judgment', 'fleshy facade': 'flesh-facade',
 };
 function spellSlug(name) {
   const alias = SPELL_ALIASES[name.toLowerCase().trim()];
