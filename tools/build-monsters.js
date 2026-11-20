@@ -69,12 +69,27 @@ function saveOf(slug) {
   }
   return spellSave[slug];
 }
-const METAMAGIC = /^(maximized|quickened|extended|empowered|silent|still|widened|heightened|enlarged|reach|persistent|dazing|intensified|selective|bouncing|sickening|thundering|lingering|toppling|piercing|merciful|disruptive|ectoplasmic|elemental|focused|furious|threatening|threnodic|concussive|rime|flaring|tenacious|echoing|fearsome|scarring|traumatic|consecrated|blistering|burning|logical|maximised)\s+/i;
+const METAMAGIC = /^(maximized|quickened|extended|empowered|silent|stilled|still|widened|heightened|enlarged|reach|persistent|dazing|intensified|selective|bouncing|sickening|thundering|lingering|toppling|piercing|merciful|disruptive|ectoplasmic|elemental|focused|furious|threatening|threnodic|concussive|rime|flaring|tenacious|echoing|fearsome|scarring|traumatic|consecrated|blistering|burning|logical|maximised)\s+/i;
+// abbreviations and misspellings found in Nethys stat blocks
+const SPELL_ALIASES = {
+  'geas': 'geas-quest', 'dancing light': 'dancing-lights', 'deathward': 'death-ward', 'prestigiditation': 'prestidigitation',
+  'tough of fatigue': 'touch-of-fatigue', 'force cage': 'forcecage', 'blindness': 'blindness-deafness', 'remove blindness': 'remove-blindness-deafness',
+  'meld with stone': 'meld-into-stone', 'purify food & drink': 'purify-food-and-drink', 'purify food and water': 'purify-food-and-drink',
+  'purify food or drink': 'purify-food-and-drink', "order's wraith": 'orders-wrath', 'order’s wraith': 'orders-wrath',
+  'cure mod. wounds': 'cure-moderate-wounds', 'magic circle vs. evil': 'magic-circle-against-evil', 'g. teleport': 'teleport-greater',
+  'd. magic': 'dispel-magic', 'r. magic': 'read-magic', 'major curse': 'bestow-curse-greater',
+};
 function spellSlug(name) {
+  const alias = SPELL_ALIASES[name.toLowerCase().trim()];
+  if (alias && spellPages.has(alias)) return alias;
+  // "communal stoneskin" -> stoneskin-communal
+  const comm = name.toLowerCase().match(/^communal\s+(.*)$/);
+  if (comm && spellPages.has(slugOf(comm[1]) + '-communal')) return slugOf(comm[1]) + '-communal';
   // "animate dead4th" (level run into the name), "protection from evil D"
   let n = name.toLowerCase().replace(/[*†‡]/g, '').replace(/\d+(st|nd|rd|th)$/, '').replace(/\s+[dsb]$/, '').trim();
   if (spellPages.has(slugOf(n))) return slugOf(n); // before stripping: "persistent image" is a spell
-  while (METAMAGIC.test(n)) n = n.replace(METAMAGIC, '');
+  // strip metamagic words one at a time, stopping at a real spell ("burning hands" is not "burning" + "hands")
+  while (METAMAGIC.test(n)) { n = n.replace(METAMAGIC, ''); if (spellPages.has(slugOf(n))) return slugOf(n); }
   const s = slugOf(n);
   if (spellPages.has(s)) return s;
   // "greater teleport" -> teleport-greater, "mass enlarge" -> enlarge-person-mass
