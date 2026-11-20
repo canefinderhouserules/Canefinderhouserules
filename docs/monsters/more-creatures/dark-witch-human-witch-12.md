@@ -1,0 +1,71 @@
+# Dark Witch (Human Witch 12)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dark Witch&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;19,200&quot;,&quot;line&quot;:&quot;Female human witch 12, CE Medium humanoid (human)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft., see invisibility&quot;,&quot;ac&quot;:&quot;25, touch 18, flat-footed 20&quot;,&quot;hp&quot;:&quot;131 (12d6+87)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:12,&quot;Ref&quot;:12,&quot;Will&quot;:15},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6,1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11,6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;hexes (cauldron, charm [2 steps, 6 rounds], coven, evil eye [-4, 9 rounds], misfortune [2 rounds], retribution [6 rounds], waxen image [6 uses/image])&quot;,&quot;rangedTouch&quot;:10,&quot;spells&quot;:[{&quot;title&quot;:&quot;Witch Spells Prepared&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:18,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cloak of dreams&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;cloak-of-dreams&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mass suggestion&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;suggestion-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;unwilling shield&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;unwilling-shield&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;baleful polymorph&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;baleful-polymorph&quot;},{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;page&quot;:&quot;cure-critical-wounds&quot;},{&quot;name&quot;:&quot;mass pain strike&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;pain-strike-mass&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;mind fog&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;mind-fog&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm monster&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;charm-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;confusion&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;confusion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blink&quot;,&quot;page&quot;:&quot;blink&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;extended false life&quot;,&quot;page&quot;:&quot;false-life&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;damage&quot;:&quot;10d6&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;extended mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;vomit swarm&quot;,&quot;page&quot;:&quot;vomit-swarm&quot;},{&quot;name&quot;:&quot;web&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;web&quot;,&quot;save&quot;:&quot;Reflex negates&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;burning hands&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;burning-hands&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;5d4&quot;},{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;ill omen&quot;,&quot;page&quot;:&quot;ill-omen&quot;},{&quot;name&quot;:&quot;ray of enfeeblement&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;ray-of-enfeeblement&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;1d6+5&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;damage is the Strength penalty&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Exceptional Resources&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;She inherited a great many magical resources from her mentor, giving her the wealth of a PC rather than an NPC. This equipment increases her CR by 1.&quot;},{&quot;name&quot;:&quot;Permanent Spells&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;She benefits from the following permanent spells cast on herself: darkvision, see invisibility, and telepathic bond (with Oothi). &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 8, Dex 18, Con 18, Int 23, Wis 12, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +6; CMB +5; CMD 23&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:10,&quot;Craft (alchemy)&quot;:25,&quot;Diplomacy&quot;:10,&quot;Fly&quot;:19,&quot;Intimidate&quot;:19,&quot;Knowledge (arcana)&quot;:21,&quot;Knowledge (history)&quot;:21,&quot;Knowledge (nature)&quot;:21,&quot;Knowledge (planes)&quot;:21,&quot;Perception&quot;:10,&quot;Spellcraft&quot;:21,&quot;Stealth&quot;:10,&quot;Use Magic Device&quot;:15,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Brew Potion, Combat Casting, Craft Wondrous Item, Dodge, Extend Spell, Iron Will, Spell Focus (enchantment), Toughness&quot;,&quot;languages&quot;:&quot;Abyssal, Aklo, Common, Draconic, Giant, Sylvan, +1 additional&quot;,&quot;sq&quot;:&quot;exceptional resources, permanent spells, witch’s familiar (bat [stores all prepared spells and patron spells, plus beguiling gift, glyph of warding, spite, summon monster V, and additional spells of your choice])&quot;,&quot;gear&quot;:&quot;elemental gem (air), potions of bear’s endurance (2), potions of cure moderate wounds (2)&quot;}"></div>
+
+## Dark Witch (CR 11)
+
+**XP** 19,200  
+Female human witch 12  
+CE Medium humanoid (human)  
+**Init** +4; **Senses** darkvision 60 ft., *see invisibility*; Perception +10  
+
+
+**Defense**
+
+
+**AC** 25, touch 18, flat-footed 20 (+4 armor, +3 deflection, +4 Dex, +1 dodge, +3 natural)  
+**hp** 131 (12d6+87)  
+**Fort** +12, **Ref** +12, **Will** +15  
+
+
+**Offense**
+
+
+**Speed** 30 ft.  
+**Melee** *+1 dagger* +6/+1 (1d4/19–20)  
+**Ranged** *+1 dagger* +11/+6 (1d4/19–20)  
+**Special Attacks** hexes (cauldron, charm [2 steps, 6 rounds], coven, evil eye [–4, 9 rounds], misfortune [2 rounds], retribution [6 rounds], waxen image [6 uses/image])  
+**Witch Spells Prepared** (CL 12th; concentration +18)  
+
+6th—*[cloak of dreams](../../magic/spells/cloak-of-dreams.md)* (DC 23), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 23), *[unwilling shield](../../magic/spells/unwilling-shield.md)* (DC 22)  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 21), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[mass pain strike](../../magic/spells/pain-strike-mass.md)* (DC 21), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 22)  
+4th—*[charm monster](../../magic/spells/charm-monster.md)* (DC 21), *[confusion](../../magic/spells/confusion.md)* (DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[poison](../../magic/spells/poison.md)* (DC 20)  
+3rd—*[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[extended false life](../../magic/spells/false-life.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)*  
+(DC 19), *suggestion* (DC 20)  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[extended mage armor](../../magic/spells/mage-armor.md)*, *[vomit swarm](../../magic/spells/vomit-swarm.md)*, *[web](../../magic/spells/web.md)* (DC 18)  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 17), *[charm person](../../magic/spells/charm-person.md)* (DC 18), *[command](../../magic/spells/command.md)* (DC 18), *[ill omen](../../magic/spells/ill-omen.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 17), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[daze](../../magic/spells/daze.md)* (DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*  
+**Patron** Deception  
+
+
+**Tactics**
+
+
+**Before Combat** She casts *extended false life* and *extended mage armor* every day, and casts *poison* into her *witching gown* (activating its spite effect). She also drinks a *potion of bear’s endurance* before combat.  
+
+**During Combat** She casts *cloak of dreams* on the first round of combat. While her guards deal with intruders, She prepares a waxen image of the PCs’ most dangerous-looking warrior, making that character run through the window by the fireplace and fall to the ground 20 feet below. Thereafter, she attacks enemies with *mass pain strike*, *confusion*, *mind fog*, *mass suggestion*, or *lightning bolt*. Once anyone closes with her in melee, She casts *blink* and *unwilling shield*, then targets her opponent with *ill omen* followed by *baleful polymorph* or *charm monster*.  
+
+**Morale** If reduced to 65 hit points or fewer, She smashes her *elemental gem* to summon a Large air elemental with which to occupy the PCs while she flies to the ceiling or out a window to heal herself. She returns to the battle until she reaches 30 hit points or fewer, at which point she casts *dimension door* to join her coven.  
+
+
+**Statistics**
+
+
+**Str** 8, **Dex** 18, **Con** 18, **Int** 23, **Wis** 12, **Cha** 10  
+**Base Atk** +6; **CMB** +5; **CMD** 23  
+**Feats** Brew Potion, Combat Casting, Craft Wondrous Item, Dodge, Extend Spell, Iron Will, Spell Focus (enchantment), Toughness  
+**Skills** Bluff +10, Craft (alchemy) +25, Diplomacy +10, Fly +19, Intimidate +19, Knowledge (arcana) +21, Knowledge (history) +21, Knowledge (nature) +21, Knowledge (planes) +21, Perception +10, Spellcraft +21, Stealth +10, Use Magic Device +15  
+**Languages** Abyssal, Aklo, Common, Draconic, Giant, Sylvan, +1 additional  
+**SQ** exceptional resources, permanent spells, witch’s familiar (bat [stores all prepared spells and patron spells, plus beguiling gift, glyph of warding, spite, summon monster V, and additional spells of your choice])  
+**Combat Gear** *elemental gem (air)*, *potions of bear’s endurance* (2), *potions of cure moderate wounds* (2); **Other Gear** *+1 dagger*, *amulet of natural armor +3*, *belt of incredible dexterity +4*, *broom of flying*, *headband of vast intelligence +4* (Knowledge [history] and [planes]), *ring of protection +3*, *witching gown* (contains poison), alchemist’s lab, spell component pouch, 723 gp  
+
+
+**Special Abilities**
+
+
+**Exceptional Resources (Ex)** She inherited a great many magical resources from her mentor, giving her the wealth of a PC rather than an NPC. This equipment increases her CR by 1.  
+
+**Permanent Spells (Ex)** She benefits from the following permanent spells cast on herself: *darkvision*, see invisibility, and telepathic bond (with Oothi).  
+
+
+<div

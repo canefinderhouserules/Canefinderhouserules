@@ -1,0 +1,64 @@
+# Noble Marid Bard 10
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Noble Marid Bard 10&quot;,&quot;cr&quot;:&quot;16&quot;,&quot;xp&quot;:&quot;76,800&quot;,&quot;line&quot;:&quot;Female noble marid bard 10, CG Large outsider (extraplanar, water)&quot;,&quot;init&quot;:10,&quot;senses&quot;:&quot;darkvision 30 ft.&quot;,&quot;ac&quot;:&quot;25, touch 16, flat-footed 18&quot;,&quot;hp&quot;:&quot;194 (24 HD; 14d10+10d8+72)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:12,&quot;Ref&quot;:22,&quot;Will&quot;:19},&quot;saveNote&quot;:&quot;+4 vs. bardic performance, sonic, and language dependent&quot;,&quot;speed&quot;:&quot;20 ft., swim 60 ft.; space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[26],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;vortex (1/10 minutes, 10-50 ft. tall, 2d6+6 damage, DC 23), water mastery, water’s fury&quot;,&quot;rangedTouch&quot;:26,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:27,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect evil&quot;,&quot;page&quot;:&quot;detect-evil&quot;},{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;water walk&quot;,&quot;page&quot;:&quot;water-walk&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;plane shift&quot;,&quot;page&quot;:&quot;plane-shift&quot;,&quot;note&quot;:&quot;willing targets to elemental planes, Astral Plane, or Material Plane only&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;page&quot;:&quot;purify-food-and-drink&quot;},{&quot;name&quot;:&quot;quench&quot;,&quot;page&quot;:&quot;quench&quot;}]},{&quot;label&quot;:&quot;5/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;control water&quot;,&quot;page&quot;:&quot;control-water&quot;},{&quot;name&quot;:&quot;gaseous form&quot;,&quot;page&quot;:&quot;gaseous-form&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;water breathing&quot;,&quot;page&quot;:&quot;water-breathing&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened cone of cold&quot;,&quot;page&quot;:&quot;cone-of-cold&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;ice storm&quot;,&quot;page&quot;:&quot;ice-storm&quot;,&quot;damage&quot;:&quot;3d6+2d6&quot;},{&quot;name&quot;:&quot;quickened quench&quot;,&quot;page&quot;:&quot;quench&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;elemental swarm&quot;,&quot;page&quot;:&quot;elemental-swarm&quot;,&quot;note&quot;:&quot;water elementals only&quot;},{&quot;name&quot;:&quot;permanent image&quot;,&quot;page&quot;:&quot;permanent-image&quot;},{&quot;name&quot;:&quot;persistent image&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;persistent-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;grant one wish&quot;,&quot;note&quot;:&quot;to nongenies only&quot;}]}]},{&quot;title&quot;:&quot;Bard Spells Known&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th (2/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;modify memory&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;modify-memory&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;3rd (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;confusion&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;confusion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;displacement&quot;,&quot;page&quot;:&quot;displacement&quot;},{&quot;name&quot;:&quot;glibness&quot;,&quot;page&quot;:&quot;glibness&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;}]},{&quot;label&quot;:&quot;2nd (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mirror image&quot;,&quot;page&quot;:&quot;mirror-image&quot;},{&quot;name&quot;:&quot;suggestion&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;suggestion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;}]},{&quot;label&quot;:&quot;1st (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;identify&quot;,&quot;page&quot;:&quot;identify&quot;},{&quot;name&quot;:&quot;obscure object&quot;,&quot;page&quot;:&quot;obscure-object&quot;}]},{&quot;label&quot;:&quot;0&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Water Mastery&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a -4 penalty on attack and damage rolls.&quot;},{&quot;name&quot;:&quot;Water’s Fury&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A DC 22 Reflex save reduces the damage by half and negates the blinding effect. The save DC is Constitution-based.&quot;},{&quot;name&quot;:&quot;Vortex&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A marid can transform into a vortex of swirling, churning water once every 10 minutes. This ability functions identically to the whirlwind ability, save that it can only be used while the marid is underwater; a marid cannot leave a body of water while in vortex form. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 23, Dex 23, Con 16, Int 17, Wis 17, Cha 24&quot;,&quot;combat&quot;:&quot;BAB +21; CMB +28; CMD 45&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:34,&quot;Diplomacy&quot;:34,&quot;Escape Artist&quot;:29,&quot;Knowledge (history)&quot;:35,&quot;Knowledge (planes)&quot;:35,&quot;Knowledge (religion)&quot;:35,&quot;Perception&quot;:30,&quot;Perform (dance)&quot;:34,&quot;Perform (oratory)&quot;:34,&quot;Sense Motive&quot;:34,&quot;Spellcraft&quot;:26,&quot;Stealth&quot;:28,&quot;Swim&quot;:38,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Ability Focus (water’s fury), Combat Expertise, Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Improved Natural Attack, Mobility, Power Attack, Quicken Spell-Like Ability (cone of cold, quench), Spring Attack, Whirlwind Attack&quot;,&quot;languages&quot;:&quot;Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.&quot;,&quot;sq&quot;:&quot;bardic performance (29 rds. [countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion]), change shape (water elemental, humanoid or giant, alter self, elemental body III, or giant form I), jack-of-all-trades, lore master (take 20 1/day), versatile performance (dance, oratory, sing), well-versed&quot;}"></div>
+
+## Noble Marid Bard 10 (CR 16)
+
+**XP** 76,800  
+ Female noble marid bard 10  
+ CG Large outsider (extraplanar, water)  
+ **Init** +10; **Senses** darkvision 30 ft.; Perception +30  
+
+**Defense**
+
+ **AC** 25, touch 16, flat-footed 18 (+6 Dex, +1 dodge, +9 natural, -1 size)  
+ **hp** 194 (24 HD; 14d10+10d8+72)  
+ **Fort** +12; **Ref** +22; **Will** +19; +4 vs. bardic performance, sonic, and language dependent  
+
+**Offense**
+
+ **Speed** 20 ft., swim 60 ft.  
+ **Melee** 2 slams +26 (2d6+6)  
+ **Space** 10 ft.; **Reach** 10 ft.  
+ **Special Attacks** vortex (1/10 minutes, 10-50 ft. tall, 2d6+6 damage, DC 23), water mastery, water’s fury  
+ **Spell-Like Abilities** (CL 20th; concentration +27)  
+
+  Constant—detect evil, detect good, detect magic, water walk  
+ At will—create water, invisibility, plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only), purify food and drink, quench  
+ 5/day—control water, gaseous form, obscuring mist, water breathing  
+ 3/day—quickened cone of cold, ice storm, quickened quench, see invisibility  
+ 1/day—elemental swarm (water elementals only), permanent image, persistent image (DC 22)  
+ 1/day—grant one wish (to nongenies only)  
+
+ **Bard Spells Known** (CL 10th; concentration +17)  
+
+  4th (2/day)—dimension door, modify memory (DC 21)  
+ 3rd (5/day)—confusion (DC 20), displacement, glibness, haste  
+ 2nd (6/day)—cure moderate wounds, detect thoughts (DC 19), mirror image, suggestion (DC 19), tongues  
+ 1st (7/day)—charm person (DC 18), cure light wounds, grease (DC 18), identify, obscure object  
+ 0—dancing lights, ghost sound (DC 17), mage hand, mending, message, prestidigitation  
+
+**Tactics**
+
+ **During Combat** She uses cone of cold, confusion, and her water’s fury against foes at range, and can use her vortex against foes that actually enter the fountain to do battle with her in melee.  
+
+ **Morale** If a battle begins, she fights to the death.  
+
+**Statistics**
+
+ **Str** 23, **Dex** 23, **Con** 16, **Int** 17, **Wis** 17, **Cha** 24  
+ **Base Atk** +21; **CMB** +28; **CMD** 45  
+ **Feats** Ability Focus (water’s fury), Combat Expertise, Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Improved Natural Attack, Mobility, Power Attack, Quicken Spell-Like Ability (cone of cold, quench), Spring Attack, Whirlwind Attack  
+ **Skills** Acrobatics +34, Diplomacy +34, Escape Artist +29, Knowledge (history) +35, Knowledge (planes) +35, Knowledge (religion) +35, Perception +30, Perform (dance) +34, Perform (oratory) +34, Sense Motive +34, Spellcraft +26, Stealth +28, Swim +38  
+ **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.  
+ **SQ** bardic performance (29 rds. [countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion]), change shape (water elemental, humanoid or giant, alter self, elemental body III, or giant form I), jack-of-all-trades, lore master (take 20 1/day), versatile performance (dance, oratory, sing), well-versed  
+
+**Special Abilities**
+
+ **Water Mastery (Ex)** A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a -4 penalty on attack and damage rolls.  
+
+ **Water’s Fury (Su)** As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A DC 22 Reflex save reduces the damage by half and negates the blinding effect. The save DC is Constitution-based.  
+
+ **Vortex (Su)** A marid can transform into a vortex of swirling, churning water once every 10 minutes. This ability functions identically to the whirlwind ability, save that it can only be used while the marid is underwater; a marid cannot leave a body of water while in vortex form.  
+
+ <div

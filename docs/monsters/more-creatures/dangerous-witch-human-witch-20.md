@@ -1,0 +1,73 @@
+# Dangerous Witch (Human Witch 20)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dangerous Witch&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;Female human witch 20, NE Medium humanoid (human)&quot;,&quot;init&quot;:9,&quot;senses&quot;:&quot;see invisibility&quot;,&quot;ac&quot;:&quot;32, touch 22, flat-footed 26&quot;,&quot;hp&quot;:&quot;185 (20d6+95)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:17,&quot;Ref&quot;:20,&quot;Will&quot;:24},&quot;defense&quot;:&quot;DR 10/adamantine; Immune fear; Resist cold 20; SR 18&quot;,&quot;speed&quot;:&quot;60 ft., fly 120 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 wounding kukri&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21,21,16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:15,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1 bleed&quot;},{&quot;name&quot;:&quot;+1 shocking burst kukri&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[20,15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:2,&quot;threat&quot;:15,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 electricity&quot;}]],&quot;specialAttacks&quot;:&quot;hexes (agony, blight, evil eye, death curse, flight, forced reincarnation, healing, major healing, misfortune, retribution, slumber)&quot;,&quot;rangedTouch&quot;:15,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spells Prepared&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:26,&quot;levels&quot;:[{&quot;label&quot;:&quot;9th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;maximized cone of cold&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;cone-of-cold&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;90&quot;},{&quot;name&quot;:&quot;mass hold monster&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;hold-monster-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;power word kill&quot;,&quot;page&quot;:&quot;power-word-kill&quot;},{&quot;name&quot;:&quot;wail of the banshee&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;wail-of-the-banshee&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;8th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;fire storm&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;fire-storm&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;20d6&quot;},{&quot;name&quot;:&quot;horrid wilting&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;horrid-wilting&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;20d6&quot;},{&quot;name&quot;:&quot;power word stun&quot;,&quot;page&quot;:&quot;power-word-stun&quot;}]},{&quot;label&quot;:&quot;7th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;chain lightning&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;chain-lightning&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;20d6&quot;,&quot;note&quot;:&quot;×2&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;page&quot;:&quot;heal&quot;},{&quot;name&quot;:&quot;power word blind&quot;,&quot;page&quot;:&quot;power-word-blind&quot;}]},{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;flesh to stone&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;flesh-to-stone&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;greater heroism&quot;,&quot;page&quot;:&quot;heroism-greater&quot;,&quot;note&quot;:&quot;already cast&quot;},{&quot;name&quot;:&quot;maximized lightning bolt&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;60&quot;,&quot;note&quot;:&quot;×2&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;baleful polymorph&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;baleful-polymorph&quot;},{&quot;name&quot;:&quot;maximized cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;},{&quot;name&quot;:&quot;feeblemind&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;feeblemind&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;waves of fatigue&quot;,&quot;page&quot;:&quot;waves-of-fatigue&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;black tentacles&quot;,&quot;page&quot;:&quot;black-tentacles&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;ice storm&quot;,&quot;page&quot;:&quot;ice-storm&quot;,&quot;damage&quot;:&quot;3d6+2d6&quot;},{&quot;name&quot;:&quot;maximized shocking grasp&quot;,&quot;page&quot;:&quot;shocking-grasp&quot;,&quot;damage&quot;:&quot;30&quot;},{&quot;name&quot;:&quot;wall of ice&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;wall-of-ice&quot;,&quot;save&quot;:&quot;Reflex negates&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;,&quot;note&quot;:&quot;×2&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;,&quot;note&quot;:&quot;×2&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;,&quot;note&quot;:&quot;×2&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;,&quot;note&quot;:&quot;already cast&quot;},{&quot;name&quot;:&quot;spectral hand&quot;,&quot;page&quot;:&quot;spectral-hand&quot;,&quot;note&quot;:&quot;already cast&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;inflict light wounds&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;inflict-light-wounds&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;1d8+5&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;ray of enfeeblement&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;ray-of-enfeeblement&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;1d6+5&quot;,&quot;touch&quot;:true,&quot;effect&quot;:&quot;damage is the Strength penalty&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;touch of fatigue&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;touch-of-fatigue&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]}]}],&quot;abilities&quot;:&quot;Str 14, Dex 20, Con 16, Int 22, Wis 18, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +20; CMD 34&quot;,&quot;checks&quot;:{&quot;Craft (alchemy)&quot;:33,&quot;Fly&quot;:32,&quot;Intimidate&quot;:29,&quot;Knowledge (arcana)&quot;:28,&quot;Knowledge (history)&quot;:28,&quot;Knowledge (nature)&quot;:28,&quot;Knowledge (planes)&quot;:28,&quot;Perception&quot;:32,&quot;Sense Motive&quot;:10,&quot;Spellcraft&quot;:33,&quot;Use Magic Device&quot;:29,&quot;CMB&quot;:20},&quot;feats&quot;:&quot;Agile Maneuvers, Alertness, Combat Casting, Improved Critical (kukri), Improved Initiative, Improved Two-Weapon Fighting, Martial Weapon Proficiency (kukri), Maximize Spell, Quicken Spell, Two-Weapon Fighting, Weapon Finesse, Weapon Focus (kukri)&quot;,&quot;languages&quot;:&quot;Aklo, Common, Draconic, Giant, Infernal, Skald, +1 additional&quot;,&quot;sq&quot;:&quot;enhanced NPC, witch’s familiar (raven)&quot;,&quot;gear&quot;:&quot;potion of barkskin (CL 12th), ring of the ram (35 charges), stone salve, wand of vampiric touch (CL 20th, 21 charges)&quot;}"></div>
+
+## Dangerous Witch (CR 20)
+
+**XP** 307,200  
+ Female human witch 20  
+ NE Medium humanoid (human)  
+
+**Init** +9; **Senses** see invisibility; Perception +32  
+
+**Defense**
+
+ **AC** 32, touch 22, flat-footed 26 (+5 armor, +5 deflection, +5 Dex, +1 dodge, +1 insight, +5 natural)  
+
+**hp** 185 (20d6+95)  
+
+**Fort** +17, **Ref** +20, **Will** +24  
+
+**DR** 10/adamantine; **Immune** fear; **Resist** cold 20; SR 18  
+
+**Offense**
+
+ **Speed** 60 ft., fly 120 ft.  
+
+**Melee** +2 wounding kukri +21/+21/+16 (1d4+4/15–20 plus 1 bleed), +1 shocking burst kukri +20/+15 (1d4+2/15–20 plus 1d6 electricity)  
+
+**Special Attacks** hexes (agony, blight, evil eye, death curse, flight, forced reincarnation, healing, major healing, misfortune, retribution, slumber)  
+
+**Spells Prepared** (CL 20th; concentration +26)  
+  9th—maximized cone of cold (DC 22), mass hold monster (DC 25), power word kill, wail of the banshee (DC 25)  
+
+8th—quickened cure serious wounds, fire storm (DC 24), horrid wilting (DC 24), power word stun  
+
+7th—chain lightning (×2, DC 23), heal, power word blind  
+
+6th—flesh to stone (DC 22), greater heroism (already cast), maximized lightning bolt (×2, DC 19), slay living (DC 22)  
+
+5th—baleful polymorph (DC 21), maximized cure moderate wounds, feeblemind (DC 21), flame strike (DC 21), waves of fatigue  
+
+4th—black tentacles, dimension door, ice storm, maximized shocking grasp, wall of ice (DC 20)  
+
+3rd—bestow curse (DC 19), dispel magic (×2), lightning bolt (×2, DC 19)  
+
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), cure moderate wounds (×2), death knell (DC 18), false life (already cast), spectral hand (already cast)  
+
+1st—charm person (DC 17), grease (DC 17), inflict light wounds (DC 17), obscuring mist, ray of enfeeblement (DC 17), unseen servant  
+
+0th—*[bleed](../../magic/spells/bleed.md)* (DC 16), detect magic, light, touch of fatigue (DC 16)  
+ **Patron** elements  
+
+**Tactics**
+
+ **Before Combat** The witch casts false life on herself each day. In preparation for the arrival of the PCs, she uses her flight hex, drinks her potion of barkskin, uses her stone salve, and activates her *boots of speed*. She casts *greater heroism*, spectral hand, and see invisibility from her hand of glory. Ilivorr then casts grease directly in front of the clock portal and readies an action to release 3 charges from her ring of the ram at the doughtiest fighter. *These effects are included in her stat block*.  
+ **During Combat** The witch uses her flight hex to stay airborne away from the PCs. She casts spells that can affect multiple foes, such as mass hold monster, wail of the banshee, chain lightning, or black tentacles. She targets a spellcaster with feeblemind or her agony hex, and uses her death curse, forced reincarnation, and retribution hexes on anyone who closes to fight in melee. She uses her spectral hand to deliver vampiric touches from her wand.  
+ **Morale** The witch defends the cenotaph and its contents to the death.  
+
+**Statistics**
+
+ **Str** 14, **Dex** 20, **Con** 16, **Int** 22, **Wis** 18, **Cha** 14  
+
+**Base Atk** +10; **CMB** +20; **CMD** 34  
+
+**Feats** Agile Maneuvers, Alertness, Combat Casting, Improved Critical (kukri), Improved Initiative, Improved Two-Weapon Fighting, Martial Weapon Proficiency (kukri), Maximize Spell, Quicken Spell, Two-Weapon Fighting, Weapon Finesse, Weapon Focus (kukri)  
+
+**Skills** Craft (alchemy) +33, Fly +32, Intimidate +29, Knowledge (arcana) +28, Knowledge (history) +28, Knowledge (nature) +28, Knowledge (planes) +28, Perception +32, Sense Motive +10, Spellcraft +33, Use Magic Device +29  
+
+**Languages** Aklo, Common, Draconic, Giant, Infernal, Skald, +1 additional  
+
+**SQ** enhanced NPC, witch’s familiar (raven)  
+
+**Combat Gear** potion of barkskin (CL 12th), *ring of the ram* (35 charges), stone salve, wand of vampiric touch (CL 20th, 21 charges); **Other Gear** +2 wounding kukri, +1 shocking burst kukri, *belt of physical perfection* +4, *boots of speed*, *hand of glory*, headband of mental prowess +4 (Intelligence and Wisdom), *dusty rose prism* *ioun stone*, *major ring of cold resistance*, *ring of protection +5*, *black robe of the archmagi*

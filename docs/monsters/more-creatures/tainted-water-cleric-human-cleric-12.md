@@ -1,0 +1,66 @@
+# Tainted Water Cleric (Human Cleric 12)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tainted Cleric&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;12,800&quot;,&quot;line&quot;:&quot;Male human cleric 12, CE Medium humanoid (human)&quot;,&quot;init&quot;:4,&quot;ac&quot;:&quot;25, touch 14, flat-footed 25&quot;,&quot;hp&quot;:&quot;105 (12d8+48)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:7,&quot;Will&quot;:13},&quot;defense&quot;:&quot;Immune mind-affecting effects; Resist cold 20, fire 30&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;trident of warning&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;trident of warning&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[12],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;mwk silver dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 4/day (DC 15, 6d6), fury of the Abyss (+6, 7/day), scythe of evil (6 rounds, 2/day), surge (+16, 7/day)&quot;,&quot;rangedTouch&quot;:9,&quot;spells&quot;:[{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:16,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blade barrier&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;blade-barrier&quot;,&quot;save&quot;:&quot;Reflex half or Reflex negates&quot;},{&quot;name&quot;:&quot;cone of cold&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;cone-of-cold&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;12d6&quot;},{&quot;name&quot;:&quot;harm&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;harm&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;120&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;ice storm&quot;,&quot;page&quot;:&quot;ice-storm&quot;,&quot;damage&quot;:&quot;3d6+2d6&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;,&quot;note&quot;:&quot;2&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;control water&quot;,&quot;page&quot;:&quot;control-water&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;rage&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;rage&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;water breathing&quot;,&quot;page&quot;:&quot;water-breathing&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;silence&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;silence&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;slipstream&quot;,&quot;page&quot;:&quot;slipstream&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;doom&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;doom&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;protection from good&quot;,&quot;page&quot;:&quot;protection-from-good&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Slugspawn Infested&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;He has been infested with a slugspawn, granting him immunity to mind-affecting effects. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 18, Dex 10, Con 14, Int 12, Wis 19, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +13; CMD 27&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:8,&quot;Knowledge (history)&quot;:6,&quot;Knowledge (planes)&quot;:6,&quot;Knowledge (religion)&quot;:14,&quot;Perception&quot;:8,&quot;Sense Motive&quot;:13,&quot;Spellcraft&quot;:10,&quot;Swim&quot;:12,&quot;CMB&quot;:13},&quot;feats&quot;:&quot;Combat Casting, Extra Channel, Improved Critical (trident), Improved Initiative, Lightning Reflexes, Toughness, Weapon Focus (trident)&quot;,&quot;languages&quot;:&quot;Abyssal, Common&quot;,&quot;sq&quot;:&quot;slugspawn infested&quot;,&quot;gear&quot;:&quot;wand of cure light wounds (13 charges)&quot;}"></div>
+
+## Tainted Cleric (CR 11)
+
+**XP** 12,800  
+Male human cleric 12  
+CE Medium humanoid (human)  
+**Init** +4; **Senses** Perception +8  
+
+
+**Defense**
+
+
+**AC** 25, touch 14, flat-footed 25 (+9 armor, +4 deflection, +2 shield)  
+**hp** 105 (12d8+48)  
+**Fort** +11, **Ref** +7, **Will** +13  
+**Immune** mind-affecting effects, **Resist** cold 20, fire 30  
+
+
+**Offense**
+
+
+**Speed** 20 ft.  
+**Melee** *trident of warning* +16/+11 (1d8+6/19–20)  
+**Ranged** *trident of warning* +12 (1d8+6/19–20) or mwk silver dagger +10 (1d4+4/19–20)  
+**Special Attacks** channel negative energy 4/day (DC 15, 6d6), fury of the Abyss (+6, 7/day), scythe of evil (6 rounds, 2/day), surge (+16, 7/day)  
+**Cleric Spells Prepared** (CL 12th; concentration +16)  
+
+6th—blade barrier (DC 20), cone of cold<sup>D</sup> (DC 20), harm (DC 20)  
+5th—ice storm<sup>D</sup>, slay living (2, DC 19), true seeing  
+4th—control water<sup>D</sup>, divine power, freedom of movement, poison (DC 18), unholy blight (DC 18)  
+3rd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), dispel magic, magic vestment, rageD (DC 17), searing light, water breathing  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, death knell (DC 16), hold person (DC 16), resist energy, silence (DC 16), slipstream<sup>D</sup>  
+1st—bless, command (DC 15), doom (DC 15), obscuring mist<sup>D</sup>, protection from good, shield of faith  
+0 (at will)—create water, detect magic, guidance, resistance  
+**<sup>D</sup>** Domain spell; **Domains** Evil (Demon), Water (Oceans)  
+
+
+**Tactics**
+
+
+**Before Combat** He casts *magic vestment* every day. Before combat, if he hears the sounds of battle elsewhere in the house, he casts *resist energy (fire)*, *bull’s strength*, and *shield of faith*, and activates his *ring of force shield* (included in stats).  
+**During Combat** He casts *divine power* on the first round of combat. In battle, he attempts to soften foes up with channel energy and separate them with a *blade barrier* hidden within *obscuring mist*. He attempts to pick off foes one at a time from the mist with *slay living* and *harm*, using his area affect spells for opponents that remain grouped together.  
+**Morale** He fights until his hit points reach 0, at which point the slugspawn infesting his body matures into a spawning canker that erupts from his neck.  
+
+
+**Statistics**
+
+
+**Str** 18, **Dex** 10, **Con** 14, **Int** 12, **Wis** 19, **Cha** 8  
+**Base Atk** +9; **CMB** +13; **CMD** 27  
+**Feats** Combat Casting, Extra Channel, Improved Critical (trident), Improved Initiative, Lightning Reflexes, Toughness, Weapon Focus (trident)  
+**Skills** Diplomacy +8, Knowledge (history) +6, Knowledge (planes) +6, Knowledge (religion) +14, Perception +8, Sense Motive +13, Spellcraft +10, Swim +12  
+**Languages** Abyssal, Common  
+**SQ** slugspawn infested  
+**Combat Gear** wand of cure light wounds (13 charges); **Other Gear** masterwork chainmail; *trident of warning*; masterwork silver dagger; *cloak of resistance +1*; *ring of force shield*; goldthreaded chasuble (worth 75 gp); key to sea chest in area E7; fishgold medallion resembling a cross between an eel, a fish, and an octopus (key to the treasury); fishgold ceremonial tiara (worth 450 gp); fishgold unholy symbol (worth 50 gp); 13 gp  
+
+
+**Special Abilities**
+
+
+**Slugspawn Infested (Ex)** He has been infested with a slugspawn, granting him immunity to mind-affecting effects.  
+
+<div

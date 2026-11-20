@@ -1,0 +1,74 @@
+# Magma Dragon, Wyrm
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Magma Dragon, Wyrm&quot;,&quot;cr&quot;:&quot;18&quot;,&quot;xp&quot;:&quot;153,600&quot;,&quot;line&quot;:&quot;CN Huge dragon (fire)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;dragon senses&quot;,&quot;ac&quot;:&quot;41, touch 7, flat-footed 41&quot;,&quot;hp&quot;:&quot;337 (25d12+175)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:23,&quot;Ref&quot;:13,&quot;Will&quot;:22},&quot;defense&quot;:&quot;DR 20/magic; Immune fire, paralysis, sleep; SR 29; Weaknesses vulnerable to cold&quot;,&quot;aura&quot;:&quot;frightful presence (330 ft., DC 27)&quot;,&quot;speed&quot;:&quot;40 ft., fly 200 ft. (poor); space 15 ft., reach 10 ft. (15 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[36],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:19,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 11 fire&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[36],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:13,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:19,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath weapon (50-ft. cone, DC 29, 22d6 fire plus special), crush (DC 28, 2d8+18), magma breath&quot;,&quot;rangedTouch&quot;:22,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:25,&quot;concentration&quot;:30,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fire shield&quot;,&quot;page&quot;:&quot;fire-shield&quot;,&quot;note&quot;:&quot;warm&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;burning hands&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;burning-hands&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;5d4&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:3},{&quot;name&quot;:&quot;wall of fire&quot;,&quot;page&quot;:&quot;wall-of-fire&quot;},{&quot;name&quot;:&quot;wall of lava&quot;,&quot;page&quot;:&quot;wall-of-lava&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;delayed blast fireball&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;delayed-blast-fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;20d6&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:17,&quot;concentration&quot;:22,&quot;levels&quot;:[{&quot;label&quot;:&quot;8th (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;horrid wilting&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;horrid-wilting&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;17d6&quot;},{&quot;name&quot;:&quot;incendiary cloud&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;incendiary-cloud&quot;}]},{&quot;label&quot;:&quot;7th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;grasping hand&quot;,&quot;page&quot;:&quot;grasping-hand&quot;},{&quot;name&quot;:&quot;greater polymorph&quot;,&quot;page&quot;:&quot;polymorph-greater&quot;},{&quot;name&quot;:&quot;prismatic spray&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;prismatic-spray&quot;}]},{&quot;label&quot;:&quot;6th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;chain lightning&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;chain-lightning&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;17d6&quot;},{&quot;name&quot;:&quot;contagious flame&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;contagious-flame&quot;},{&quot;name&quot;:&quot;eyebite&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;eyebite&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;5th (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;hungry pit&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;hungry-pit&quot;,&quot;save&quot;:&quot;Reflex negates&quot;},{&quot;name&quot;:&quot;polymorph&quot;,&quot;page&quot;:&quot;polymorph&quot;},{&quot;name&quot;:&quot;teleport&quot;,&quot;page&quot;:&quot;teleport&quot;},{&quot;name&quot;:&quot;wall of force&quot;,&quot;page&quot;:&quot;wall-of-force&quot;}]},{&quot;label&quot;:&quot;4th (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid pit&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;acid-pit&quot;,&quot;save&quot;:&quot;Reflex negates&quot;},{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;fire shield&quot;,&quot;page&quot;:&quot;fire-shield&quot;},{&quot;name&quot;:&quot;wall of fire&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;wall-of-fire&quot;}]},{&quot;label&quot;:&quot;3rd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;displacement&quot;,&quot;page&quot;:&quot;displacement&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;fireball&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;wind wall&quot;,&quot;page&quot;:&quot;wind-wall&quot;}]},{&quot;label&quot;:&quot;2nd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;darkness&quot;,&quot;page&quot;:&quot;darkness&quot;},{&quot;name&quot;:&quot;dust of twilight&quot;,&quot;page&quot;:&quot;dust-of-twilight&quot;},{&quot;name&quot;:&quot;flaming sphere&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;flaming-sphere&quot;,&quot;save&quot;:&quot;Reflex negates&quot;,&quot;damage&quot;:&quot;3d6&quot;},{&quot;name&quot;:&quot;glitterdust&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;glitterdust&quot;,&quot;save&quot;:&quot;Will negates (blinding only)&quot;},{&quot;name&quot;:&quot;scorching ray&quot;,&quot;page&quot;:&quot;scorching-ray&quot;,&quot;damage&quot;:&quot;4d6&quot;,&quot;touch&quot;:true,&quot;rays&quot;:3}]},{&quot;label&quot;:&quot;1st (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;flare burst&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;flare-burst&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;grease&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;grease&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;true strike&quot;,&quot;page&quot;:&quot;true-strike&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;page&quot;:&quot;ghost-sound&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;spark&quot;,&quot;page&quot;:&quot;spark&quot;},{&quot;name&quot;:&quot;touch of fatigue&quot;,&quot;page&quot;:&quot;touch-of-fatigue&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Superheated&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.&quot;},{&quot;name&quot;:&quot;Magma Breath&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;Three times per day, an ancient or older magma dragon can breathe a cone of lava instead of fire. The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.&quot;}],&quot;abilities&quot;:&quot;Str 37, Dex 8, Con 25, Int 22, Wis 22, Cha 21&quot;,&quot;combat&quot;:&quot;BAB +25; CMB +40 (+42 bull rush); CMD 49 (51 vs. bull rush, 53 vs. trip)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:24,&quot;Climb&quot;:41,&quot;Escape Artist&quot;:24,&quot;Fly&quot;:19,&quot;Intimidate&quot;:33,&quot;Knowledge (planes)&quot;:34,&quot;Perception&quot;:34,&quot;Sense Motive&quot;:34,&quot;Sleight of Hand&quot;:24,&quot;Stealth&quot;:19,&quot;Survival&quot;:34,&quot;Swim&quot;:41,&quot;CMB&quot;:40},&quot;feats&quot;:&quot;Flyby Attack, Great Fortitude, Greater Vital Strike, Improved Bull Rush, Improved Critical (bite, claws), Improved Initiative, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Snatch, Vital Strike&quot;,&quot;languages&quot;:&quot;Common, Draconic, Dwarven, Elven, Gnome, Halfling, Ignan&quot;,&quot;sq&quot;:&quot;superheated&quot;}"></div>
+
+## Magma Dragon, Wyrm (CR 18)
+
+**XP** 153,600  
+ CN Huge dragon (fire)  
+ **Init** +3; **Senses** dragon senses; Perception +34; **Aura** frightful presence (330 ft., DC 27)  
+ 
+
+**Defense**
+
+ 
+ **AC** 41, touch 7, flat-footed 41 (-1 Dex, +34 natural, -2 size)  
+ **hp** 337 (25d12+175)  
+ **Fort** +23, **Ref** +13, **Will** +22  
+ **DR** 20/magic; **Immune** fire, paralysis, sleep; **SR** 29  
+ **Weaknesses** vulnerable to cold  
+ 
+
+**Offense**
+
+ 
+ **Speed** 40 ft., fly 200 ft. (poor)  
+ **Melee** bite +36 (2d8+19/19-20 plus 11 fire), 2 claws +36 (2d6+13/19-20), tail slap +34 (2d6+19), 2 wings +34 (1d8+6)  
+ **Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)  
+ **Special Attacks** breath weapon (50-ft. cone, DC 29, 22d6 fire plus special), crush (DC 28, 2d8+18), magma breath  
+ **Spell-Like Abilities** (CL 25th; concentration +30)  
+ 
+  Constant—*[fire shield](../../magic/spells/fire-shield.md)* (warm)  
+ At will—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)*, *wall of fire, wall of lava**  
+ 3/day—*[delayed blast fireball](../../magic/spells/delayed-blast-fireball.md)* (DC 22)  
+ 
+ **Sorcerer Spells Known** (CL 17th; concentration +22)  
+ 
+  8th (4/day)—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 23), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)* (DC 23)  
+ 7th (6/day)—*[grasping hand](../../magic/spells/grasping-hand.md)*, *[greater polymorph](../../magic/spells/polymorph-greater.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 22)  
+ 6th (6/day)—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 21), *[contagious flame](../../magic/spells/contagious-flame.md)** (DC 21), *[eyebite](../../magic/spells/eyebite.md)* (DC 21)  
+ 5th (7/day)—*[hungry pit](../../magic/spells/hungry-pit.md)** (DC 20), *[polymorph](../../magic/spells/polymorph.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+ 4th (7/day)—*[acid pit](../../magic/spells/acid-pit.md)** (DC 19), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)* (DC 19)  
+ 3rd (7/day)—*[displacement](../../magic/spells/displacement.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball](../../magic/spells/fireball.md)* (DC 18), *[wind wall](../../magic/spells/wind-wall.md)*  
+ 2nd (7/day)—*[darkness](../../magic/spells/darkness.md)*, *[dust of twilight](../../magic/spells/dust-of-twilight.md)**, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 17), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 17),*[scorching ray](../../magic/spells/scorching-ray.md)*  
+ 1st (8/day)—*[feather fall](../../magic/spells/feather-fall.md)*, *[flare burst](../../magic/spells/flare-burst.md)** (DC 16), *[grease](../../magic/spells/grease.md)* (DC 16), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+ 0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[light](../../magic/spells/light.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[spark](../../magic/spells/spark.md)**, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*  
+ * This spell is from the Pathfinder RPG Advanced Player’s Guide  
+ 
+
+**Statistics**
+
+ 
+ **Str** 37, **Dex** 8, **Con** 25, **Int** 22, **Wis** 22, **Cha** 21  
+ **Base Atk** +25; **CMB** +40 (+42 bull rush); **CMD** 49 (51 vs. bull rush, 53 vs. trip)  
+ **Feats** Flyby Attack, Great Fortitude, Greater Vital Strike, Improved Bull Rush, Improved Critical (bite, claws), Improved Initiative, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Snatch, Vital Strike  
+ **Skills** Acrobatics +24 (+28 jump), Climb +41, Escape Artist +24, Fly +19, Intimidate +33, Knowledge (planes) +34, Perception +34, Sense Motive +34, Sleight of Hand +24, Stealth +19, Survival +34, Swim +41  
+ **Languages** Common, Draconic, Dwarven, Elven, Gnome, Halfling, Ignan  
+ **SQ** superheated  
+ 
+
+**Special Abilities**
+
+ 
+ **Superheated (Su)** At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.  
+ 
+ **Magma Breath (Su)** Three times per day, an ancient or older magma dragon can breathe a cone of lava instead of fire. The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.  
+   
+
+
+**Ecology**
+
+ 
+**Environment** any mountains or underground (Plane of Fire)  
+**Organization** solitary  
+**Treasure** triple

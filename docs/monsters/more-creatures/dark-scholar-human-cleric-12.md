@@ -1,0 +1,56 @@
+# Dark Scholar (Human Cleric 12)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dark Scholar&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;12,800&quot;,&quot;line&quot;:&quot;Male human cleric 12, LE Medium humanoid&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;23, touch 12, flat-footed 22&quot;,&quot;hp&quot;:&quot;73 (12d8+22)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:5,&quot;Will&quot;:13},&quot;defense&quot;:&quot;Resist fire 20&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+9/+4&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Melee&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;/1d8 plus 1d6 fire&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 4/day (DC 17, 6d6)&quot;,&quot;rangedTouch&quot;:10,&quot;spells&quot;:[{&quot;title&quot;:&quot;Domain Spell-Like Abilities&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;master’s illusion&quot;,&quot;note&quot;:&quot;12 rounds/day&quot;}]},{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;copycat&quot;,&quot;note&quot;:&quot;12 rounds&quot;},{&quot;name&quot;:&quot;fire bolt&quot;,&quot;note&quot;:&quot;1d6+6 fire&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;mass cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds-mass&quot;},{&quot;name&quot;:&quot;mislead&quot;,&quot;page&quot;:&quot;mislead&quot;},{&quot;name&quot;:&quot;summon monster VI&quot;,&quot;page&quot;:&quot;summon-monster-vi&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;breath of life&quot;,&quot;page&quot;:&quot;breath-of-life&quot;},{&quot;name&quot;:&quot;false vision&quot;,&quot;page&quot;:&quot;false-vision&quot;},{&quot;name&quot;:&quot;mark of justice&quot;,&quot;page&quot;:&quot;mark-of-justice&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;summon infernal host&quot;,&quot;page&quot;:&quot;summon-infernal-host&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;discern lies&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;discern-lies&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;summon accuser&quot;,&quot;page&quot;:&quot;summon-accuser&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;wall of fire&quot;,&quot;page&quot;:&quot;wall-of-fire&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate dead&quot;,&quot;page&quot;:&quot;animate-dead&quot;},{&quot;name&quot;:&quot;fireball&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;fireball&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;protection from energy&quot;,&quot;page&quot;:&quot;protection-from-energy&quot;},{&quot;name&quot;:&quot;remove curse&quot;,&quot;page&quot;:&quot;remove-curse&quot;},{&quot;name&quot;:&quot;speak with dead&quot;,&quot;page&quot;:&quot;speak-with-dead&quot;},{&quot;name&quot;:&quot;wind wall&quot;,&quot;page&quot;:&quot;wind-wall&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;calm emotions&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;calm-emotions&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;desecrate&quot;,&quot;page&quot;:&quot;desecrate&quot;},{&quot;name&quot;:&quot;eagle’s splendor&quot;,&quot;page&quot;:&quot;eagles-splendor&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;zone of truth&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;zone-of-truth&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;disguise self&quot;,&quot;page&quot;:&quot;disguise-self&quot;},{&quot;name&quot;:&quot;entropic shield&quot;,&quot;page&quot;:&quot;entropic-shield&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;sanctuary&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 10, Dex 12, Con 8, Int 14, Wis 20, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +9; CMD 21&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:14,&quot;Diplomacy&quot;:20,&quot;Disguise&quot;:3,&quot;Intimidate&quot;:9,&quot;Knowledge (history)&quot;:9,&quot;Knowledge (nobility)&quot;:11,&quot;Knowledge (planes)&quot;:11,&quot;Knowledge (religion)&quot;:17,&quot;Perception&quot;:7,&quot;Sense Motive&quot;:16,&quot;CMB&quot;:9},&quot;feats&quot;:&quot;Alertness, Channel Smite, Command Undead, Deceitful, Extend Spell, Persuasive, Spell Penetration&quot;,&quot;languages&quot;:&quot;Common, Infernal, +1 additional&quot;,&quot;gear&quot;:&quot;elixir of truth, potion of cure light wounds, potions of cure moderate wounds (2), scroll of atonement, scroll of raise dead, scroll of restoration, scroll of scrying&quot;}"></div>
+
+## Dark Scholar (CR 11)
+
+**XP** 12,800  
+Male human cleric 12  
+LE Medium humanoid  
+**Init** +1; **Senses** Perception +7  
+
+
+**Defense**
+
+
+**AC** 23, touch 12, flat-footed 22 (+8 armor, +1 deflection, +1 Dex, +3 shield)  
+ **hp** 73 (12d8+22)  
+ **Fort** +7, **Ref** +5, **Will** +13; **Resist** fire 20  
+
+
+**Offense**
+
+
+**Speed** 20 ft.  
+**Melee**  *+1 flaming heavy mace*, +9/+4 (1d6/1d8 plus 1d6 fire)  
+ **Special Attacks** channel negative energy 4/day (DC 17, 6d6)  
+**Domain Spell-Like Abilities** (CL 12th; concentration +17)  
+
+At will—master’s illusion (12 rounds/day)  
+ 8/day— copycat (12 rounds), fire bolt (1d6+6 fire)  
+
+**Cleric Spells Prepared** (CL 12th; concentration +17)  
+
+6th—*[mass cure moderate wounds](../../magic/spells/cure-moderate-wounds-mass.md)*, *[mislead](../../magic/spells/mislead.md)*<sup>D</sup>, *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+ 5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[false vision](../../magic/spells/false-vision.md)*<sup>D</sup>, *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 20), *[summon infernal host](../../magic/spells/summon-infernal-host.md)*  
+ 4th—*[air walk](../../magic/spells/air-walk.md)*, *[discern lies](../../magic/spells/discern-lies.md)* (DC 19), *[summon accuser](../../magic/spells/summon-accuser.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 19), *[wall of fire](../../magic/spells/wall-of-fire.md)*<sup>D</sup>**3rd**—*[animate dead](../../magic/spells/animate-dead.md)*, *[fireball](../../magic/spells/fireball.md)*<sup>D</sup> (DC 18), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+ 2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 17), *[desecrate](../../magic/spells/desecrate.md)*, *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>, *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 17)  
+ 1st—*[bane](../../magic/spells/bane.md)* (DC 16), *[cause fear](../../magic/spells/cause-fear.md)* (DC 16), *[command](../../magic/spells/command.md)* (DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*<sup>D</sup>, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 16)  
+ 0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*  
+ **D** Domain spell; **Domains** Fire, Trickery  
+
+
+**Statistics**
+
+
+**Str** 10, **Dex** 12, **Con** 8, **Int** 14, **Wis** 20, **Cha** 13  
+ **Base Atk** +9; **CMB** +9; **CMD** 21  
+ **Feats** Alertness, Channel Smite, Command Undead, Deceitful, Extend Spell, Persuasive, Spell Penetration  
+ **Skills** Bluff +14, Diplomacy +20, Disguise +3, Intimidate +9, Knowledge (history) +9, Knowledge (nobility) +11, Knowledge (planes) +11, Knowledge (religion) +17, Perception +7, Sense Motive +16  
+ **Languages** Common, Infernal, +1 additional  
+ **Combat Gear** *elixir of truth*, *potion of cure light wounds*, *potions of cure moderate wounds* (2), *scroll of atonement*, *scroll of raise dead*, *scroll of restoration*, *scroll of scrying*  
+**Other Gear** *+2 breastplate*, *+2 light steel shield*, *+1 flaming heavy mace*, *cloak of resistance +1*, *ring of protection +1*, spell component pouch, unholy symbol of Asmodeus, 28 gp  
+ **PC Gear** +87,000 gp  
+
+
+<div

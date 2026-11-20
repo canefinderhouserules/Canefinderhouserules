@@ -1,0 +1,53 @@
+# Tretharri Mindpriest (CR 9)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tretharri Mindpriest&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;Middle-aged female tretharri psychic 9, LN Medium humanoid (tretharri)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;see invisibility&quot;,&quot;ac&quot;:&quot;15, touch 12 [20 vs. rays], flat-footed 14&quot;,&quot;hp&quot;:&quot;70 (9d6+36[9d6 (6+28) +27 Con +9 Toughness +9 FC=79]; 84 with false life)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:8,&quot;Will&quot;:10},&quot;saveNote&quot;:&quot;[Class +3; [Class +3; [Class +6&quot;,&quot;defense&quot;:&quot;resilience of the faithful&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[4],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;divine energy (cure spells), phrenic amplification (intense focus, overpowering mind, relentless casting), phrenic pool (8 points)&quot;,&quot;rangedTouch&quot;:0,&quot;spells&quot;:[{&quot;title&quot;:&quot;Psychic Spells Known&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:13,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th (5)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fear&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;guardian of faith&quot;,&quot;page&quot;:&quot;guardian-of-faith&quot;},{&quot;name&quot;:&quot;lesser age resistance&quot;,&quot;page&quot;:&quot;age-resistance-lesser&quot;}]},{&quot;label&quot;:&quot;3rd (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;haste&quot;,&quot;page&quot;:&quot;haste&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;mind thrust III&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;mind-thrust-iii&quot;,&quot;save&quot;:&quot;Will half&quot;}]},{&quot;label&quot;:&quot;2nd (7)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;false life&quot;,&quot;page&quot;:&quot;false-life&quot;},{&quot;name&quot;:&quot;mental block&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;mental-block&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;}]},{&quot;label&quot;:&quot;1st (8)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;floating disk&quot;,&quot;page&quot;:&quot;floating-disk&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;telempathic projection&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;telempathic-projection&quot;},{&quot;name&quot;:&quot;vanish&quot;,&quot;page&quot;:&quot;vanish&quot;}]},{&quot;label&quot;:&quot;0&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;detect poison&quot;,&quot;page&quot;:&quot;detect-poison&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;lullaby&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;lullaby&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;}]}]},{&quot;title&quot;:&quot;Psychic Spell-Like Abilities&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:13,&quot;levels&quot;:[{&quot;label&quot;:&quot;2/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;calm emotions&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;calm-emotions&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;telepathic bond&quot;,&quot;page&quot;:&quot;telepathic-bond&quot;}]}]}],&quot;abilities&quot;:&quot;Con +3, resistance +2, Great Fortitude +2], Dex +3, resistance +2], Wis +2, resistance +2], Str 10[8 array], Dex 12[14 array, +2 physical prowess], Con 14 [13 array, +2 race, +1 at 8 HD], Int 18[15 array, +1 at 4 HD, +2 mental prowess, +1 from middle age], Wis 16[12 array, +2 race, +1 from middle age], Cha 9[10 array, -2 race, +1 from middle age]&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +4[+0 size, +4 BAB, -1 Str]; CMD 16 [10 +4 BAB, -1 Str, +3 Dex, +0 size]&quot;,&quot;checks&quot;:{&quot;total ranks 54: psychic HD (9×6)54 Knowledge (arcana, dungeoneering, religion)&quot;:16,&quot;Diplomacy&quot;:11,&quot;Perception&quot;:14,&quot;Spellcraft&quot;:16,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Eschew Materials, Expanded Phrenic Pool, , Great Fortitude, Improved Initiative, Logical Spell, Toughness&quot;,&quot;languages&quot;:&quot;Common, Aklo, Celestial, Dwarven, Giant, Tretharri&quot;,&quot;sq&quot;:&quot;deity (LN god of art, language, trade, and travel), latent psychic, meditative focus (Expanded Phrenic Pool), multi-armed, psychic discipline (faith)&quot;,&quot;gear&quot;:&quot;potions of cure moderate wounds (2), lesser metamagic rod (Intuitive Spell) [900]&quot;}"></div>
+
+## Tretharri Mindpriest (CR 9)
+
+**XP** 4,800  
+Middle-aged female tretharri psychic 9  
+LN Medium humanoid (tretharri)  
+**Init** +5; **Senses** see invisibility; Perception +14  
+
+**Defense**
+
+ **AC** 15, touch 12 [20 vs. rays], flat-footed 14 (+3 armor [+8 vs. rays], +1 deflection, +1 Dex); +4 dodge vs. giants  
+**hp** 70 (9d6+36[9d6 (6+28) +27 Con +9 Toughness +9 FC=79]; 84 with false life)  
+**Fort** +9 [Class +3, **Con** +3, resistance +2, Great Fortitude +2], **Ref** +8 [Class +3, **Dex** +3, resistance +2], **Will** +10 [Class +6, **Wis** +2, resistance +2]  
+**Defensive Abilities** resilience of the faithful  
+
+**Offense**
+
+ **Speed** 30 ft.  
+**Melee** dagger +4 (1d4/19-20)  
+**Special Attacks** divine energy (cure spells), phrenic amplification (intense focus, overpowering mind, relentless casting), phrenic pool (8 points)  
+**Psychic Spells Known** (CL 9th; concentration +13)  
+
+ 4th (5)—fear (DC 19), guardian of faith<sup>D</sup>, lesser age resistance  
+3rd (7)—dispel magic, haste, magic vestment<sup>D</sup>, mind thrust III (DC 18)  
+2nd (7)—false life, mental block (DC 17), see invisibility, spiritual weapon<sup>D</sup>  
+1st (8)—bless<sup>D</sup>, expeditious retreat, floating disk, shield, telempathic projection (DC 16), vanish  
+0—dancing lights, detect magic, detect poison, ghost sound (DC 15), lullaby (DC 15), message, read magic, stabilize  
+
+ **Psychic Spell-Like Abilities** (CL 9th; concentration +13)  
+
+ 2/day—calm emotions (DC 14)  
+1/day—detect thoughts (DC 16), telepathic bond  
+
+**Tactics**
+
+ **Before Combat** The psychic casts false life, lesser age resistance, and magic vestment. She casts see invisibility on herself and any requested spells when combat is imminent. The psychic discusses what she will do with allies before taking action.  
+
+ **During Combat** The psychic helps allies as best she can, casting spells as needed. She tries to avoid melee combat.  
+
+**Statistics**
+
+ **Str** 10[8 array], **Dex** 12[14 array, +2 physical prowess], **Con** 14 [13 array, +2 race, +1 at 8 HD], **Int** 18[15 array, +1 at 4 HD, +2 mental prowess, +1 from middle age], **Wis** 16[12 array, +2 race, +1 from middle age], **Cha** 9[10 array, -2 race, +1 from middle age]  
+**Base Atk** +4; **CMB** +4[+0 size, +4 BAB, -1 Str]; **CMD** 16 [10 +4 BAB, -1 Str, +3 Dex, +0 size]  
+**Feats** Eschew Materials, Expanded Phrenic Pool, , Great Fortitude, Improved Initiative, Logical Spell, Toughness  
+**Skills** total ranks 54: psychic HD (9×6)54 Knowledge (arcana, dungeoneering, religion) +16[9 ranks (27 total), +4 Int, +3 trained], Diplomacy +11[9 ranks, -1 Cha, +3 trained], Perception +14 [9 ranks, +2 Wis, +3 trained, +5 competence from eyes], Spellcraft +16[9 ranks, +4 Int, +3 trained]  
+**Languages** Common, Aklo, Celestial, Dwarven, Giant, Tretharri  
+**SQ** deity (LN god of art, language, trade, and travel), latent psychic, meditative focus (Expanded Phrenic Pool), multi-armed, psychic discipline (faith)  
+**Gear** potions of cure moderate wounds (2), lesser metamagic rod (Intuitive Spell) [900]; **Gear** dagger, eyes of the eagle, +2 cloak of resistance, masterwork red scatterlight suit, +1 ring of protection, silver holy symbol, pouch with 187 gp worth of mixed coins and gems[900 (combat gear)+1,100 (armor)+310 (battleaxe)+2 (dagger)+2,500 (eyes)+25 (holy symbol)+1+187= 4,818; as level 9/CR 8 NPC halved = 10,050 / 2 = 5,025 automatic bonus progression].  
+
+<div

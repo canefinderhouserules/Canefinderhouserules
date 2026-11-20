@@ -1,0 +1,90 @@
+# Pleiad (Hesperid Queen)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Pleiad&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;A tall and majestic woman looks at you, sunlight and starlight dancing in her eyes and hair, her skin as pale as starry twilight., LG Medium fey&quot;,&quot;init&quot;:12,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;36, touch 26, flat-footed 27&quot;,&quot;hp&quot;:&quot;351 (37d6+222); fast healing 5&quot;,&quot;saves&quot;:{&quot;Fort&quot;:18,&quot;Ref&quot;:28,&quot;Will&quot;:27},&quot;defense&quot;:&quot;sunlight sustenance; DR 10/cold iron; Immune blindness, dazzling effects; Resist acid 30, electricity 30, fire 30; Weaknesses sunlight dependent&quot;,&quot;aura&quot;:&quot;luminous beauty (30 ft.)&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;sunset ribbon&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[26,21,16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;, +1d6 divine, +1d6 fire&quot;}]],&quot;specialAttacks&quot;:&quot;blinding flash 10/day (10 rounds, DC 27), nimbus of light 20 rounds/day&quot;,&quot;rangedTouch&quot;:26,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:37,&quot;concentration&quot;:44,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;,&quot;note&quot;:&quot;self only&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;harvest season&quot;,&quot;page&quot;:&quot;harvest-season&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;},{&quot;name&quot;:&quot;tree shape&quot;,&quot;page&quot;:&quot;tree-shape&quot;}]},{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;rebuke death&quot;,&quot;note&quot;:&quot;1d4+10&quot;}]},{&quot;label&quot;:&quot;5/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;beguiling gift&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;beguiling-gift&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;plant growth&quot;,&quot;page&quot;:&quot;plant-growth&quot;},{&quot;name&quot;:&quot;sending&quot;,&quot;page&quot;:&quot;sending&quot;,&quot;note&quot;:&quot;hesperides only&quot;},{&quot;name&quot;:&quot;wall of light&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;wall-of-light&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate plants&quot;,&quot;page&quot;:&quot;animate-plants&quot;},{&quot;name&quot;:&quot;breath of life&quot;,&quot;page&quot;:&quot;breath-of-life&quot;},{&quot;name&quot;:&quot;unbearable brightness&quot;,&quot;page&quot;:&quot;unbearable-brightness&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 9, 1 mature adult solar dragon 100%&quot;},{&quot;name&quot;:&quot;true resurrection&quot;,&quot;page&quot;:&quot;true-resurrection&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:27,&quot;levels&quot;:[{&quot;label&quot;:&quot;9th Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;ascension&quot;,&quot;page&quot;:&quot;ascension&quot;},{&quot;name&quot;:&quot;mass heal&quot;,&quot;page&quot;:&quot;heal-mass&quot;},{&quot;name&quot;:&quot;miracle&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;miracle&quot;},{&quot;name&quot;:&quot;overwhelming presence&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;overwhelming-presence&quot;},{&quot;name&quot;:&quot;prismatic sphere&quot;,&quot;page&quot;:&quot;prismatic-sphere&quot;}]},{&quot;label&quot;:&quot;8th Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;euphoric tranquility&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;euphoric-tranquility&quot;,&quot;save&quot;:&quot;none and Will partial (see below)&quot;},{&quot;name&quot;:&quot;fire storm&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;fire-storm&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;20d6&quot;},{&quot;name&quot;:&quot;greater angelic aspect&quot;,&quot;page&quot;:&quot;angelic-aspect-greater&quot;},{&quot;name&quot;:&quot;holy aura&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;holy-aura&quot;},{&quot;name&quot;:&quot;sunburst&quot;,&quot;dc&quot;:27,&quot;page&quot;:&quot;sunburst&quot;,&quot;save&quot;:&quot;Reflex partial&quot;}]},{&quot;label&quot;:&quot;7th Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;archon’s trumpet&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;archons-trumpet&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;holy word&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;holy-word&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;hymn of peace&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;hymn-of-peace&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;morning sun&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;morning-sun&quot;,&quot;save&quot;:&quot;Fortitude negates and Reflex half&quot;},{&quot;name&quot;:&quot;repulsion&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;repulsion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;sunbeam&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;sunbeam&quot;,&quot;save&quot;:&quot;Reflex negates and Reflex half&quot;}]},{&quot;label&quot;:&quot;6th Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate objects&quot;,&quot;page&quot;:&quot;animate-objects&quot;},{&quot;name&quot;:&quot;chains of light&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;chains-of-light&quot;,&quot;save&quot;:&quot;Reflex negates&quot;},{&quot;name&quot;:&quot;fire seeds&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;fire-seeds&quot;,&quot;save&quot;:&quot;none or Reflex half&quot;},{&quot;name&quot;:&quot;music of the spheres&quot;,&quot;page&quot;:&quot;music-of-the-spheres&quot;},{&quot;name&quot;:&quot;planar ally&quot;,&quot;page&quot;:&quot;planar-ally&quot;},{&quot;name&quot;:&quot;symbol of persuasion&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;symbol-of-persuasion&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;5th Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cleansing fire&quot;,&quot;page&quot;:&quot;cleansing-fire&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hallow&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;hallow&quot;},{&quot;name&quot;:&quot;pillar of life&quot;,&quot;page&quot;:&quot;pillar-of-life&quot;},{&quot;name&quot;:&quot;sacred nimbus&quot;,&quot;page&quot;:&quot;sacred-nimbus&quot;}]},{&quot;label&quot;:&quot;4th Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;brightest light&quot;,&quot;page&quot;:&quot;brightest-light&quot;},{&quot;name&quot;:&quot;burst with light&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;burst-with-light&quot;},{&quot;name&quot;:&quot;divination&quot;,&quot;page&quot;:&quot;divination&quot;},{&quot;name&quot;:&quot;fire shield&quot;,&quot;page&quot;:&quot;fire-shield&quot;},{&quot;name&quot;:&quot;healing flames&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;healing-flames&quot;,&quot;save&quot;:&quot;Reflex half&quot;},{&quot;name&quot;:&quot;holy smite&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;holy-smite&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;continual flame&quot;,&quot;page&quot;:&quot;continual-flame&quot;},{&quot;name&quot;:&quot;create food and water&quot;,&quot;page&quot;:&quot;create-food-and-water&quot;},{&quot;name&quot;:&quot;daylightd&quot;},{&quot;name&quot;:&quot;glyph of warding&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;glyph-of-warding&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;prayer&quot;,&quot;page&quot;:&quot;prayer&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true}]},{&quot;label&quot;:&quot;2nd Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;burst of radiance&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;burst-of-radiance&quot;,&quot;save&quot;:&quot;Reflex partial&quot;},{&quot;name&quot;:&quot;calm emotions&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;calm-emotions&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;eagle’s splendor&quot;,&quot;page&quot;:&quot;eagles-splendor&quot;},{&quot;name&quot;:&quot;enthrall&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;enthrall&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;fear the sun&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;fear-the-sun&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;heat metal&quot;,&quot;page&quot;:&quot;heat-metal&quot;},{&quot;name&quot;:&quot;sun’s disdain&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;suns-disdain&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;celestial healing&quot;,&quot;page&quot;:&quot;celestial-healing&quot;},{&quot;name&quot;:&quot;faerie fire&quot;,&quot;page&quot;:&quot;faerie-fire&quot;},{&quot;name&quot;:&quot;positive pulse&quot;,&quot;page&quot;:&quot;positive-pulse&quot;},{&quot;name&quot;:&quot;protection from evil&quot;,&quot;page&quot;:&quot;protection-from-evil&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;sanctuary&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;sun metal&quot;,&quot;page&quot;:&quot;sun-metal&quot;}]},{&quot;label&quot;:&quot;0-Level&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;page&quot;:&quot;purify-food-and-drink&quot;},{&quot;name&quot;:&quot;spark&quot;,&quot;page&quot;:&quot;spark&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Divine Grace&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A pleiad adds her Charisma modifier as a deflection bonus to her armor class.&quot;},{&quot;name&quot;:&quot;Improved Create Golden Apple&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a standard action, a pleiad can condense the light around her to create a perfect golden apple. This can function as an alluring golden appleue, a healthy apple from a charm bracelet, or an apple of eternal sleep, at the pleiad’s choice. It is consumed once used.&quot;}],&quot;abilities&quot;:&quot;Str 12, Dex 26, Con 22, Int 20, Wis 24, Cha 25&quot;,&quot;combat&quot;:&quot;BAB +18: CMB +26; CMD 37&quot;,&quot;checks&quot;:{&quot;Craft (clothing)&quot;:45,&quot;Diplomacy&quot;:47,&quot;Knowledge (geography)&quot;:45,&quot;Knowledge (nature)&quot;:45,&quot;Knowledge (planes)&quot;:42,&quot;Knowledge (religion)&quot;:42,&quot;Perception&quot;:51,&quot;Perform (dance, sing)&quot;:47,&quot;Sense Motive&quot;:51,&quot;Use Magic Device&quot;:47,&quot;CMB&quot;:0},&quot;feats&quot;:&quot;Agile Maneuvers, Alertness, Brew Potion, Combat Casting, Cultivate Magic Plants, Craft Wondrous Item, Dodge, Flaring Spell, Greater Spell Focus (Abjuration, Conjuration, Enchantment, Evocation), Improved Initiative, Solar Spell C&amp;C, Spell Focus (Abjuration, Conjuration, Evocation, Enchantment), Weapon Finesse&quot;,&quot;languages&quot;:&quot;Celestial, Common, Sylvan; tongues&quot;,&quot;sq&quot;:&quot;improved create golden apple, divine grace, healer’s blessing&quot;}"></div>
+
+## Pleiad (CR 20)
+
+A tall and majestic woman looks at you, sunlight and starlight dancing in her eyes and hair, her skin as pale as starry twilight.  
+
+**XP** 307,200  
+LG Medium fey  
+**Init** +12; **Senses** low-light vision; Perception +51  
+**Aura** luminous beauty (30 ft.)  
+
+
+**Defense**
+
+
+**AC** 36, touch 26, flat-footed 27 (+7 deflection, +8 Dex, +1 dodge, +10 natural)  
+**Hp** 351 (37d6+222); fast healing 5  
+**Fort** +18, **Ref** +28, **Will** +27  
+**Defensive Abilities** sunlight sustenance; DR 10/cold iron; **Immune** blindness, dazzling effects; **Resist** acid 30, electricity 30, fire 30  
+**Weaknesses** sunlight dependent  
+
+
+**Offense**
+
+
+**Speed** 30 ft.  
+**Melee** sunset ribbon +26/+21/+16/+11 (1d3+1, +1d6 divine, +1d6 fire)  
+**Special Attacks** blinding flash 10/day (10 rounds, DC 27), nimbus of light 20 rounds/day  
+**Spell-Like Abilities** (CL 37th; concentration +44)  
+
+
+Constant—light (self only)  
+
+At will—dancing lights, harvest season, tongues, tree shape  
+
+8/day—rebuke death (1d4+10)  
+
+5/day—beguiling gift (DC 18), plant growth, sending (hesperides only), wall of light (DC 22)  
+
+3/day—animate plants, breath of life, unbearable brightness  
+
+1/day—summon (level 9, 1 mature adult solar dragon 100%), true resurrection  
+
+
+**Cleric Spells Prepared** (CL 20th; concentration +27)  
+
+
+9th Level—ascension, mass heal, miracle (DC 28), overwhelming presence (DC 28), prismatic sphereD  
+
+8th Level—euphoric tranquility (DC 27), fire storm (DC 27), greater angelic aspect, holy aura (DC 27), sunburstD (DC 27)  
+
+7th Level—archon’s trumpet (DC 26), holy word (DC 26), hymn of peace (DC 26), morning sun (DC 26), repulsion (DC 26), sunbeamD (DC 26)  
+
+6th Level—animate objects, chains of light (DC 25), fire seedsD (DC 25), music of the spheres, planar ally, symbol of persuasion (DC 25)  
+
+5th Level—cleansing fire, flame strikeD (DC 24), greater command (DC 24), hallow (DC 24), pillar of life, sacred nimbus  
+
+4th Level—brightest light, burst with light (DC 23), divination, fire shieldD, healing flames (DC 23), holy smite (DC 23)  
+
+3rd Level—continual flame, create food and water, daylightd, glyph of warding (DC 22), magic vestment, prayer, searing light  
+
+2nd Level—burst of radiance (DC 21), calm emotions (DC 21), eagle’s splendor, enthrall (DC 21), fear the sun (DC 19), heat metalD, sun’s disdain (DC 19)  
+
+1st Level—bless, celestial healing, faerie fireD, positive pulse, protection from evil, sanctuary (DC 20), sun metal  
+
+0-Level—guidance, light, purify food and drink, spark  
+
+
+**Domains** Healing, Sun/Light  
+
+
+**Statistics**
+
+
+**Str** 12, **Dex** 26, **Con** 22, **Int** 20, **Wis** 24, **Cha** 25  
+**Base Atk** +18: CMB +26; **CMD** 37  
+**Feats** Agile Maneuvers, Alertness, Brew Potion, Combat Casting, Cultivate Magic Plants, Craft Wondrous Item, Dodge, Flaring Spell, Greater Spell Focus (Abjuration, Conjuration, Enchantment, Evocation), Improved Initiative, Solar Spell C&C, Spell Focus (Abjuration, Conjuration, Evocation, Enchantment), Weapon Finesse  
+**Skills** Craft (clothing) +45, Diplomacy +47, Knowledge (geography, nature) +45, Knowledge (planes, religion) +42, Perception +51, Perform (dance, sing) +47, Sense Motive +51, Use Magic Device +47  
+**Languages** Celestial, Common, Sylvan; tongues  
+**SQ** improved create golden apple, divine grace, healer’s blessing  
+
+
+**Special Abilities**
+
+
+**Divine Grace (Su)** A pleiad adds her Charisma modifier as a deflection bonus to her armor class.  
+
+**Improved Create Golden Apple (Su)** As a standard action, a pleiad can condense the light around her to create a perfect golden apple. This can function as an alluring golden appleue, a healthy apple from a charm bracelet, or an apple of eternal sleep, at the pleiad’s choice. It is consumed once used.

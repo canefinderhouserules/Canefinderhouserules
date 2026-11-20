@@ -1,0 +1,73 @@
+# Rakshasa, Maharaja
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Maharaja&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;LE Medium outsider (native, shapechanger)&quot;,&quot;init&quot;:13,&quot;senses&quot;:&quot;all-around vision, darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;37, touch 24, flat-footed 27&quot;,&quot;hp&quot;:&quot;310 (20d10+200)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:16,&quot;Ref&quot;:21,&quot;Will&quot;:18},&quot;defense&quot;:&quot;DR 20/good and piercing; SR 35&quot;,&quot;speed&quot;:&quot;40 ft., fly 30 ft. (good)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+3 falchion&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[31,26,21,16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:15,&quot;threat&quot;:15,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;bites&quot;,&quot;count&quot;:4,&quot;bonuses&quot;:[23],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;detect thoughts (DC 29), extra initiative&quot;,&quot;rangedTouch&quot;:29,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:18,&quot;concentration&quot;:27,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;clairvoyance/clairaudience&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dominate monster&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;dominate-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;}]}]},{&quot;title&quot;:&quot;Spells Known&quot;,&quot;cl&quot;:18,&quot;concentration&quot;:27,&quot;levels&quot;:[{&quot;label&quot;:&quot;9th (4/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;weird&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;weird&quot;,&quot;save&quot;:&quot;Will disbelief, then Fortitude partial&quot;}]},{&quot;label&quot;:&quot;8th (6/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater shadow evocation&quot;,&quot;page&quot;:&quot;shadow-evocation-greater&quot;},{&quot;name&quot;:&quot;mind blank&quot;,&quot;page&quot;:&quot;mind-blank&quot;}]},{&quot;label&quot;:&quot;7th (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater shadow conjuration&quot;,&quot;page&quot;:&quot;shadow-conjuration-greater&quot;},{&quot;name&quot;:&quot;mass invisibility&quot;,&quot;page&quot;:&quot;invisibility-mass&quot;},{&quot;name&quot;:&quot;spell turning&quot;,&quot;page&quot;:&quot;spell-turning&quot;}]},{&quot;label&quot;:&quot;6th (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;mass suggestion&quot;,&quot;dc&quot;:25,&quot;page&quot;:&quot;suggestion-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;5th (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;baleful polymorph&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;baleful-polymorph&quot;},{&quot;name&quot;:&quot;feeblemind&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;feeblemind&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mind fog&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;mind-fog&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;4th (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm monster&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;charm-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;lesser globe of invulnerability&quot;,&quot;page&quot;:&quot;globe-of-invulnerability-lesser&quot;},{&quot;name&quot;:&quot;scrying&quot;,&quot;page&quot;:&quot;scrying&quot;}]},{&quot;label&quot;:&quot;3rd (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;nondetection&quot;,&quot;page&quot;:&quot;nondetection&quot;},{&quot;name&quot;:&quot;suggestion&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;suggestion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;vampiric touch&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;vampiric-touch&quot;,&quot;damage&quot;:&quot;9d6&quot;}]},{&quot;label&quot;:&quot;2nd (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;darkness&quot;,&quot;page&quot;:&quot;darkness&quot;},{&quot;name&quot;:&quot;knock&quot;,&quot;page&quot;:&quot;knock&quot;},{&quot;name&quot;:&quot;misdirection&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;misdirection&quot;,&quot;save&quot;:&quot;none or Will negates&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;1st (9/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;charm person&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;charm-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;identify&quot;,&quot;page&quot;:&quot;identify&quot;},{&quot;name&quot;:&quot;mage armor&quot;,&quot;page&quot;:&quot;mage-armor&quot;},{&quot;name&quot;:&quot;magic missile&quot;,&quot;page&quot;:&quot;magic-missile&quot;,&quot;damage&quot;:&quot;5d4+10&quot;,&quot;damageLabel&quot;:&quot;force damage, 5 missiles&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane mark&quot;,&quot;page&quot;:&quot;arcane-mark&quot;},{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;page&quot;:&quot;ghost-sound&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Extra Initiative&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;When an encounter starts, a maharaja rolls twice for initiative. The maharaja acts normally on the higher of the two initiative counts each round. On the lower initiative count, the maharaja can take a single standard action.&quot;},{&quot;name&quot;:&quot;Spells&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;A maharaja casts arcane spells as an 18th-level sorcerer.&quot;}],&quot;abilities&quot;:&quot;Str 27, Dex 28, Con 30, Int 25, Wis 22, Cha 29&quot;,&quot;combat&quot;:&quot;BAB +20; CMB +28; CMD 52&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:27,&quot;Appraise&quot;:25,&quot;Bluff&quot;:35,&quot;Diplomacy&quot;:30,&quot;Disguise&quot;:30,&quot;Fly&quot;:31,&quot;Intimidate&quot;:30,&quot;Knowledge (arcana)&quot;:25,&quot;Knowledge (history)&quot;:25,&quot;Knowledge (nobility)&quot;:25,&quot;Knowledge (religion)&quot;:25,&quot;Perception&quot;:31,&quot;Sense Motive&quot;:27,&quot;Spellcraft&quot;:25,&quot;Stealth&quot;:30,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Combat Casting, Combat Reflexes, Dodge, Hover, Improved Critical (falchion), Improved Initiative, Mobility, Quicken Spell, Silent Spell, Still Spell&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Infernal, Undercommon; comprehend languages, tongues&quot;,&quot;sq&quot;:&quot;change shape (any humanoid; alter self )&quot;}"></div>
+
+## Maharaja (CR 20)
+
+**XP** 307,200  
+ LE Medium outsider (native, shapechanger)  
+
+**Init** +13; **Senses** all-around vision, darkvision 60 ft.; Perception +31  
+
+**Defense**
+
+ **AC** 37, touch 24, flat-footed 27 (+4 deflection, +9 Dex, +1 dodge, +13 natural)  
+
+**hp** 310 (20d10+200)  
+
+**Fort** +16, **Ref** +21, **Will** +18  
+
+**DR** 20/good and piercing; **SR** 35  
+
+**Offense**
+
+ **Speed** 40 ft., fly 30 ft. (good)  
+
+**Melee** +3 falchion +31/+26/+21/+16 (2d4+15/15-20), 4 bites +23 (1d6+4)  
+
+**Special Attacks** detect thoughts (DC 29), extra initiative  
+
+**Spell-Like Abilities** (CL 18th; concentration +27)  
+  Constant—comprehend languages, tongues  
+
+At will—clairvoyance/clairaudience  
+
+1/day—dominate monster (DC 28)  
+ **Spells Known** (CL 18th; concentration +27)  
+  9th (4/day)—weird (DC 28)  
+
+8th (6/day)—greater shadow evocation, mind blank  
+7th (7/day)—greater shadow conjuration, mass invisibility, spell turning  
+
+6th (7/day)—greater dispel magic, mass suggestion (DC 25), true seeing  
+
+5th (8/day)—baleful polymorph (DC 24), feeblemind (DC 24), mind fog (DC 24)  
+
+4th (8/day)—charm monster (DC 23), dimension door, lesser globe of invulnerability, scrying  
+
+3rd (8/day)—dispel magic, nondetection, suggestion (DC 22), vampiric touch (DC 22)  
+
+2nd (8/day)—darkness, knock, misdirection (DC 21), resist energy, see invisibility  
+
+1st (9/day)—charm person (DC 20), identify, mage armor, magic missile, ventriloquism (DC 20)  
+
+0 (at will)—arcane mark, bleed (DC 19), daze (DC 19), detect magic, ghost sound, mage hand, message, prestidigitation, read magic  
+
+**Statistics**
+
+ **Str** 27, **Dex** 28, **Con** 30, **Int** 25, **Wis** 22, **Cha** 29  
+
+**Base Atk** +20; **CMB** +28; **CMD** 52  
+
+**Feats** Combat Casting, Combat Reflexes, Dodge, Hover, Improved Critical (falchion), Improved Initiative, Mobility, Quicken Spell, Silent Spell, Still Spell  
+
+**Skills** Acrobatics +27 (+31 when jumping), Appraise +25, Bluff +35, Diplomacy +30, Disguise +30, Fly +31, Intimidate +30, Knowledge (arcana, history, nobility, religion) +25, Perception +31, Sense Motive +27, Spellcraft +25, Stealth +30; **Racial Modifiers** +4 Bluff, +8 Disguise, +4 Perception  
+
+**Languages** Abyssal, Common, Infernal, Undercommon; comprehend languages, tongues  
+
+**SQ** change shape (any humanoid; alter self )  
+
+**Special Abilities**
+
+ **Extra Initiative (Su)** When an encounter starts, a maharaja rolls twice for initiative. The maharaja acts normally on the higher of the two initiative counts each round. On the lower initiative count, the maharaja can take a single standard action.  
+ **Spells** A maharaja casts arcane spells as an 18th-level sorcerer.

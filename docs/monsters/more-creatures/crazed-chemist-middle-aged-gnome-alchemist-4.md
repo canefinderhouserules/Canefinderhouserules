@@ -1,0 +1,54 @@
+# Crazed Chemist (Middle-Aged Gnome Alchemist 4)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Crazed Chemist&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Middle-Aged Gnome Alchemist 4, CN Small humanoid (gnome)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;15, touch 12, flat-footed 14&quot;,&quot;hp&quot;:&quot;29 (4d8+8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:5,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;+2 vs. illusions, +2 vs. poison&quot;,&quot;defense&quot;:&quot;Immune aging&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;punching dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[3],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;+1 on attack rolls against goblinoid and reptilian humanoids, bomb 7/day (2d6+3 fire, DC 15)&quot;,&quot;rangedTouch&quot;:5,&quot;spells&quot;:[{&quot;title&quot;:&quot;Gnome Spell-Like Abilities&quot;,&quot;cl&quot;:4,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;speak with animals&quot;,&quot;page&quot;:&quot;speak-with-animals&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dancing lights&quot;,&quot;page&quot;:&quot;dancing-lights&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:11,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;prestidigitation&quot;,&quot;page&quot;:&quot;prestidigitation&quot;}]}]},{&quot;title&quot;:&quot;Alchemist Extracts Prepared&quot;,&quot;cl&quot;:4,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fox’s cunning&quot;,&quot;page&quot;:&quot;foxs-cunning&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;disguise self&quot;,&quot;page&quot;:&quot;disguise-self&quot;},{&quot;name&quot;:&quot;shield&quot;,&quot;page&quot;:&quot;shield&quot;},{&quot;name&quot;:&quot;true strike&quot;,&quot;page&quot;:&quot;true-strike&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Ageless&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;The crazed chemist is immune to aging effects (as timeless body). &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 9, Dex 12, Con 15, Int 17, Wis 9, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +1; CMD 12&quot;,&quot;checks&quot;:{&quot;Craft (alchemy)&quot;:12,&quot;Disable Device&quot;:8,&quot;Knowledge (arcana)&quot;:10,&quot;Knowledge (dungeoneering)&quot;:4,&quot;Knowledge (engineering)&quot;:4,&quot;Knowledge (geography)&quot;:4,&quot;Knowledge (history)&quot;:4,&quot;Knowledge (local)&quot;:4,&quot;Knowledge (nature)&quot;:10,&quot;Knowledge (nobility)&quot;:4,&quot;Knowledge (planes)&quot;:4,&quot;Knowledge (religion)&quot;:4,&quot;Perception&quot;:8,&quot;Use Magic Device&quot;:8,&quot;CMB&quot;:1},&quot;feats&quot;:&quot;Brew Potion, Improved Iron Will, Iron Will, Throw Anything&quot;,&quot;languages&quot;:&quot;Celestial, Common, Elven, Gnome, Halfling, Sylvan; speak with animals (at will)&quot;,&quot;sq&quot;:&quot;alchemy (alchemy crafting +4, identify potions), ageless, discoveries (smoke bomb, stink bomb), mutagen (+4/-2, +2 natural, 40 minutes), poison use, swift alchemy&quot;,&quot;gear&quot;:&quot;potion of cure moderate wounds, potion of invisibility, wand of polypurpose panacea (17 charges), acid (2), thunderstone (3)&quot;}"></div>
+
+## Crazed Chemist (CR 3)
+
+**XP** 800  
+ Middle-Aged Gnome Alchemist 4  
+ CN Small humanoid (gnome)  
+ **Init**+1; **Senses** low-light vision; Perception +8  
+
+**Defense**
+
+ **AC** 15, touch 12, flat-footed 14 (+3 armor, +1 Dex, +1 size); +4 dodge vs. giants  
+ **hp** 29 (4d8+8)  
+ **Fort** +6, **Ref** +5, **Will** +2; +2 vs. illusions, +2 vs. poison  
+ **Immune** aging  
+
+**Offense**
+
+ **Speed** 20 ft.  
+ **Melee** punching dagger +3 (1d3–1/×3)  
+ **Ranged** mwk light crossbow +6 (1d6/19–20)  
+ **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, bomb 7/day (2d6+3 fire, DC 15)  
+ **Gnome Spell-Like Abilities** (CL 4th)  
+
+  
+  At will—speak with animals  
+ 1/day—dancing lights, ghost sound (DC 11), prestidigitation  
+
+  
+ **Alchemist Extracts Prepared** (CL 4th)  
+
+  
+  2nd—fox’s cunning, resist energy  
+ 1st—comprehend languages, disguise self, shield, true strike  
+
+  
+
+**Statistics**
+
+ **Str** 9, **Dex** 12, **Con** 15, **Int** 17, **Wis** 9, **Cha** 13  
+ **Base Atk** +3; **CMB** +1; **CMD** 12  
+ **Feats** Brew Potion, Improved Iron Will, Iron Will, Throw Anything  
+ **Skills** Craft (alchemy) +12, Disable Device +8, Knowledge (arcana) +10, Knowledge (dungeoneering) +4, Knowledge (engineering) +4, Knowledge (geography) +4, Knowledge (history) +4, Knowledge (local) +4, Knowledge (nature) +10, Knowledge (nobility) +4, Knowledge (planes) +4, Knowledge (religion) +4, Perception +8, Use Magic Device +8  
+ **Languages** Celestial, Common, Elven, Gnome, Halfling, Sylvan; speak with animals (at will)  
+ **SQ** alchemy (alchemy crafting +4, identify potions), ageless, discoveries (smoke bomb, stink bomb), mutagen (+4/–2, +2 natural, 40 minutes), poison use, swift alchemy  
+ **Combat Gear** potion of cure moderate wounds, potion of invisibility, wand of polypurpose panacea (17 charges), acid (2), thunderstone (3); **Other Gear** +1 leather armor, masterwork light crossbow with 10 bolts, punching dagger, dull gray ioun stone, alchemy lab, formula book (contains all prepared extracts as well as the following: 1st—cure light wounds, endure elements, enlarge person, jump), sunrods (2), 8 gp  
+
+**Special Abilities**
+
+ **Ageless** The crazed chemist is immune to aging effects (as timeless body).  
+
+ <div

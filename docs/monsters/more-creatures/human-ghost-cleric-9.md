@@ -1,0 +1,65 @@
+# Human Ghost Cleric 9
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Human Ghost Cleric 9&quot;,&quot;cr&quot;:&quot;10&quot;,&quot;xp&quot;:&quot;9,600&quot;,&quot;line&quot;:&quot;Female middle-aged human ghost cleric 9, CG Medium undead (augmented humanoid, incorporeal)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;19, touch 17, flat-footed 18&quot;,&quot;hp&quot;:&quot;107 (9d8+63)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:12,&quot;Ref&quot;:6,&quot;Will&quot;:10},&quot;defense&quot;:&quot;channel resistance +4, incorporeal, rejuvenation; Immune undead traits&quot;,&quot;aura&quot;:&quot;freedom’s call (30 ft., 9 rounds/day)&quot;,&quot;speed&quot;:&quot;fly 30 ft. (perfect)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;corrupting touch&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;10d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;, Fort DC 20 half&quot;}]],&quot;specialAttacks&quot;:&quot;channel positive energy 11/day (DC 20, 5d6), frightful moan (DC 20), holy lance (4 rounds, 1/day)&quot;,&quot;rangedTouch&quot;:7,&quot;spells&quot;:[{&quot;title&quot;:&quot;Domain Spell-Like Abilities&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:13,&quot;levels&quot;:[{&quot;label&quot;:&quot;7/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;touch of good&quot;,&quot;note&quot;:&quot;+4&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:9,&quot;concentration&quot;:13,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel evil&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;dispel-evil&quot;},{&quot;name&quot;:&quot;serenity&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;serenity&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blessing of fervor&quot;,&quot;page&quot;:&quot;blessing-of-fervor&quot;},{&quot;name&quot;:&quot;debilitating portent&quot;,&quot;page&quot;:&quot;debilitating-portent&quot;},{&quot;name&quot;:&quot;discern lies&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;discern-lies&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;create food and water&quot;,&quot;page&quot;:&quot;create-food-and-water&quot;},{&quot;name&quot;:&quot;remove curse&quot;,&quot;page&quot;:&quot;remove-curse&quot;},{&quot;name&quot;:&quot;remove disease&quot;,&quot;page&quot;:&quot;remove-disease&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;4d8&quot;,&quot;touch&quot;:true}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;remove paralysis&quot;,&quot;page&quot;:&quot;remove-paralysis&quot;},{&quot;name&quot;:&quot;sound burst&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;sound-burst&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;,&quot;damage&quot;:&quot;1d8&quot;},{&quot;name&quot;:&quot;spear of purity&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;spear-of-purity&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;},{&quot;name&quot;:&quot;zone of truth&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;zone-of-truth&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless&quot;,&quot;page&quot;:&quot;bless&quot;},{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;},{&quot;name&quot;:&quot;protection from evil&quot;,&quot;page&quot;:&quot;protection-from-evil&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;page&quot;:&quot;remove-fear&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;purify food and drink&quot;,&quot;page&quot;:&quot;purify-food-and-drink&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Corrupting Touch&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;All ghosts gain this incorporeal touch attack. By passing part of its incorporeal body through a foe’s body as a standard action, the ghost inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted.&quot;},{&quot;name&quot;:&quot;Frightful Moan&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action. All living creatures within a 30-foot spread must succeed on a Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost’s moan for 24 hours.&quot;},{&quot;name&quot;:&quot;Goddess’ Embrace&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;In death, she manifested a power she considers a gift from her goddess. As part of casting a spell of 4th level or lower with a range of touch, she can send forth a fluttering streak of incorporeal moths that can deliver the effect to targets within 60 feet. For offensive effects, this ability manifests as a ghostly starknife rather than moths.&quot;},{&quot;name&quot;:&quot;Rejuvenation&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;In most cases, it’s difficult to destroy a ghost through simple combat: the “destroyed” spirit restores itself in 2d4 days. Even the most powerful spells are usually only temporary solutions. The only way to permanently destroy a ghost is to determine the reason for its existence and set right whatever prevents it from resting in peace. The exact means varies with each spirit and may require a good deal of research, and should be created specifically for each different ghost by the GM.&quot;}],&quot;combat&quot;:&quot;BAB +6; CMB +7; CMD 23&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:20,&quot;Fly&quot;:9,&quot;Heal&quot;:16,&quot;Intimidate&quot;:8,&quot;Knowledge (religion)&quot;:13,&quot;Perception&quot;:12,&quot;Perform (dance)&quot;:15,&quot;Spellcraft&quot;:13,&quot;Stealth&quot;:9,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Combat Reflexes, Extra Channel, Lightning Reflexes, Persuasive, Toughness, Weapon Focus (starknife)&quot;,&quot;languages&quot;:&quot;Common, +1 additional&quot;,&quot;sq&quot;:&quot;Goddess’ embrace, liberation (9 rounds/day)&quot;,&quot;gear&quot;:&quot;bracers of armor +2, headband of alluring charisma +2, silver holy symbol&quot;}"></div>
+
+## Human Ghost Cleric 9 (CR 10)
+
+**XP** 9,600  
+ Female middle-aged human ghost cleric 9  
+ CG Medium undead (augmented humanoid, incorporeal)  
+ **Init** +1; **Senses** darkvision 60 ft.; Perception +12; **Aura** freedom’s call (30 ft., 9 rounds/day)  
+
+**Defense**
+
+ **AC** 19, touch 17, flat-footed 18 (+2 armor, +6 deflection, +1 Dex)  
+ **hp** 107 (9d8+63)  
+ **Fort** +12, **Ref** +6, **Will** +10  
+ **Defensive Abilities** channel resistance +4, incorporeal, rejuvenation; **Immune** undead traits  
+
+**Offense**
+
+ **Speed** fly 30 ft. (perfect)  
+ **Melee** corrupting touch +6 (10d6, Fort DC 20 half)  
+ **Special Attacks** channel positive energy 11/day (DC 20, 5d6), frightful moan (DC 20), holy lance (4 rounds, 1/day)  
+ **Domain Spell-Like Abilities** (CL 9th; concentration +13)  
+
+  7/day—touch of good (+4)  
+
+ **Cleric Spells Prepared** (CL 9th; concentration +13)  
+
+  5th—dispel evil<sup>D</sup> (DC 19), serenity (DC 19)  
+ 4th—blessing of fervor, debilitating portent, discern lies (DC 18), freedom of movement<sup>D</sup>  
+ 3rd—bestow curse (DC 17), create food and water, remove curse<sup>D</sup>, remove disease, searing light  
+ 2nd—hold person (DC 16), remove paralysis<sup>D</sup>, sound burst (DC 16), spear of purity (DC 16), spiritual weapon, zone of truth (DC 16)  
+ 1st—bless, cause fear (DC 15), command (DC 15), divine favor, protection from evil<sup>D</sup>, remove fear  
+ 0 (at will)—detect magic, guidance, purify food and drink, resistance  
+
+ **<sup>D</sup>** domain spell; **Domains** Good, Liberation  
+
+**Tactics**
+
+ **Before Combat** This creature never anticipates combat, so she prepares spells she thinks would be most helpful for whatever situations come up. She spends most of her prepared spells and cleric spell-like abilities to aid the citizens of her city.  
+
+ **During Combat** This creature uses her frightful moan to scatter combatants. She prefers to use her spells in a fight, but resorts to her corrupting touch ability when faced with exceptionally dangerous or evil opponents.  
+
+ **Morale** After years of being bound to her beloved city, she is convinced she’s not going anywhere anytime soon. As such, she fights until destroyed.  
+
+**Statistics**
+
+ Str—, **Dex** 12, Con—, **Int** 13, **Wis** 18, **Cha** 23  
+ **Base Atk** +6; **CMB** +7; **CMD** 23  
+ **Feats** Combat Reflexes, Extra Channel, Lightning Reflexes, Persuasive, Toughness, Weapon Focus (starknife)  
+ **Skills** Diplomacy +20, Fly +9, Heal +16, Intimidate +8, Knowledge (religion) +13, Perception +12, Perform (dance) +15, Spellcraft +13, Stealth +9; **Racial Modifiers** +8 Perception, +8 Stealth  
+ **Languages** Common, +1 additional  
+ **SQ** Goddess’ embrace, liberation (9 rounds/day)  
+ **Gear** bracers of armor +2, headband of alluring charisma +2, silver holy symbol  
+
+**Special Abilities**
+
+ **Corrupting Touch (Su)** All ghosts gain this incorporeal touch attack. By passing part of its incorporeal body through a foe’s body as a standard action, the ghost inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted.  
+
+ **Frightful Moan (Su)** The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action. All living creatures within a 30-foot spread must succeed on a Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost’s moan for 24 hours.  
+
+ **Goddess’ Embrace (Su)** In death, she manifested a power she considers a gift from her goddess. As part of casting a spell of 4th level or lower with a range of touch, she can send forth a fluttering streak of incorporeal moths that can deliver the effect to targets within 60 feet. For offensive effects, this ability manifests as a ghostly starknife rather than moths.  
+
+ **Rejuvenation (Su)** In most cases, it’s difficult to destroy a ghost through simple combat: the “destroyed” spirit restores itself in 2d4 days. Even the most powerful spells are usually only temporary solutions. The only way to permanently destroy a ghost is to determine the reason for its existence and set right whatever prevents it from resting in peace. The exact means varies with each spirit and may require a good deal of research, and should be created specifically for each different ghost by the GM.

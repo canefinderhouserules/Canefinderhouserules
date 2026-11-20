@@ -1,0 +1,64 @@
+# Fungus, Sheet
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Sheet Fungus&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N(E) Medium plant (fungus)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;17, touch 13, flat-footed 14&quot;,&quot;hp&quot;:&quot;25 (3d8+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:4,&quot;Will&quot;:3},&quot;defense&quot;:&quot;DR 5/bludgeoning; Immune plant traits&quot;,&quot;speed&quot;:&quot;fly 40 ft. (good)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[4],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;engulf (1d6+3)&quot;,&quot;rangedTouch&quot;:5,&quot;special&quot;:[{&quot;name&quot;:&quot;Camouflage&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A sheet fungus can hold itself completely still and resembles a rug or wall hanging. It takes a successful DC 20 Perception check to notice a sheet fungus before it attacks.&quot;},{&quot;name&quot;:&quot;Engulf&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A sheet fungus can try to wrap a creature of its size or smaller in its body as a standard action. The sheet fungus attempts a grapple check that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and squeezes the engulfed prey dealing automatic slam damage each round the grapple is held. Attacks that hit an engulfing sheet fungus deal half of their damage to the monster and half to the trapped victim.&quot;}],&quot;abilities&quot;:&quot;Str 14, Dex 16, Con 18, Int 10, Wis 11, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +2; CMB +4; CMD 17 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Fly&quot;:11,&quot;Perception&quot;:6,&quot;Stealth&quot;:8,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Hover, Iron Will&quot;,&quot;languages&quot;:&quot;Common, Sylvan (cannot speak)&quot;,&quot;sq&quot;:&quot;camouflage&quot;}"></div>
+
+## Sheet Fungus (CR 3)
+
+**XP** 800  
+ N(E) Medium plant (fungus)  
+
+**Init** +3; **Senses** low-light vision; Perception +6  
+
+  
+
+**Defense**
+
+ **AC** 17, touch 13, flat-footed 14 (+3 Dex, +4 natural)  
+
+**hp** 25 (3d8+12)  
+
+**Fort** +7, **Ref** +4, **Will** +3  
+
+**DR** 5/bludgeoning; **Immune** plant traits  
+
+  
+
+**Offense**
+
+ **Speed** fly 40 ft. (good)  
+
+**Melee** slam +4 (1d6+3)  
+
+**Special Attacks** engulf (1d6+3)  
+
+  
+
+**Statistics**
+
+ **Str** 14, **Dex** 16, **Con** 18, **Int** 10, **Wis** 11, **Cha** 10  
+
+**Base Atk** +2; **CMB** +4; **CMD** 17 (can’t be tripped)  
+
+**Feats** Hover, Iron Will  
+
+**Skills** Fly +11, Perception +6, Stealth +8  
+
+**Languages** Common, Sylvan (cannot speak)  
+
+**SQ** camouflage  
+
+  
+
+**Special Abilities**
+
+ **Camouflage (Ex)** A sheet fungus can hold itself completely still and resembles a rug or wall hanging. It takes a successful DC 20 Perception check to notice a sheet fungus before it attacks.  
+ **Engulf (Ex)** A sheet fungus can try to wrap a creature of its size or smaller in its body as a standard action. The sheet fungus attempts a grapple check that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and squeezes the engulfed prey dealing automatic slam damage each round the grapple is held. Attacks that hit an engulfing sheet fungus deal half of their damage to the monster and half to the trapped victim.  
+  
+
+**Ecology**
+
+**Environment** any  
+
+**Organization** solitary or pair  
+
+**Treasure** none

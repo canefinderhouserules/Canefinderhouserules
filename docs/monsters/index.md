@@ -31,4 +31,6 @@ Rules for understanding, building, and advancing monsters. Stat blocks are in th
 | NPC Codex | [NPC Codex](npc-codex/index.md): 310 ready-made NPCs by class and level, with a Roll20 export |
 | GameMastery Guide | [GameMastery Guide NPCs](gamemastery-guide-npcs/index.md): 81 NPCs, from bandits to cultists, with a Roll20 export |
 | Other books | [Other Sources](other-sources/index.md): creatures and NPCs from other rulebooks, companions and adventures (setting names replaced by generic ones), with a Roll20 export |
+| More Paizo creatures | [More Paizo Creatures](more-creatures/index.md): Paizo creatures and variants found on d20pfsrd but not in the books above, with a Roll20 export |
+| Third-party publishers | [Third-Party Bestiary](third-party/index.md): open-content creatures from other publishers (Tome of Horrors, Alien Codex, Aventyr, Mythos Monsters and more), with a Roll20 export |
 | Horror Adventures | [Hive](hive.md), [Horror Template Examples](horror-template-examples.md) |

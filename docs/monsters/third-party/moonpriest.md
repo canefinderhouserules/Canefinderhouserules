@@ -1,0 +1,54 @@
+# Moonpriest
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Moonpriest&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;12,800&quot;,&quot;line&quot;:&quot;Moonbeast cleric of Nyarlathotep 10, CE Medium aberration&quot;,&quot;init&quot;:7,&quot;senses&quot;:&quot;blindsight 30 ft., darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;19, touch 14, flat-footed 15&quot;,&quot;hp&quot;:&quot;120 (13 HD; 3d8+10d8+62)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:12,&quot;Ref&quot;:7,&quot;Will&quot;:15},&quot;defense&quot;:&quot;amorphous; DR 5/slashing; Immune cold&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 human bane dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16,11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:6,&quot;threat&quot;:17,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 4/day (DC 16, 5d6), weapon master (10 rounds/day)&quot;,&quot;rangedTouch&quot;:12,&quot;spells&quot;:[{&quot;title&quot;:&quot;Moonpriest Spell-Like Abilities&quot;,&quot;cl&quot;:2,&quot;concentration&quot;:7,&quot;levels&quot;:[{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:12,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;daze monster&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;daze-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spell-Like Abilities&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;lore keeper&quot;,&quot;note&quot;:&quot;prepared 30 times&quot;},{&quot;name&quot;:&quot;remote viewing&quot;,&quot;page&quot;:&quot;remote-viewing&quot;,&quot;note&quot;:&quot;10 rounds/day&quot;}]},{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;battle rage&quot;,&quot;note&quot;:&quot;+5&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;insect plague&quot;,&quot;page&quot;:&quot;insect-plague&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;wall of stone&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;wall-of-stone&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;page&quot;:&quot;cure-critical-wounds&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;speak with dead&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;speak-with-dead&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;page&quot;:&quot;cure-light-wounds&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;entropic shield&quot;,&quot;page&quot;:&quot;entropic-shield&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;sanctuary&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;mending&quot;,&quot;page&quot;:&quot;mending&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;abilities&quot;:&quot;Str 18, Dex 16, Con 18, Int 10, Wis 20, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +13; CMD 27&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:7,&quot;Knowledge (arcana)&quot;:6,&quot;Knowledge (religion)&quot;:13,&quot;Perception&quot;:11,&quot;Spellcraft&quot;:13,&quot;Stealth&quot;:9,&quot;Use Magic Device&quot;:11,&quot;CMB&quot;:13},&quot;feats&quot;:&quot;Combat Casting, Craft Magic Arms and Armor, Dodge, Improved Critical (dagger), Improved Initiative, Power Attack, Selective Channeling&quot;,&quot;languages&quot;:&quot;Aklo&quot;,&quot;sq&quot;:&quot;spellcasting prodigy&quot;,&quot;gear&quot;:&quot;+2 human bane dagger, amulet of natural armor +2&quot;}"></div>
+
+## Moonpriest (CR 11)
+
+**XP** 12,800  
+Moonbeast cleric of Nyarlathotep 10  
+CE Medium aberration  
+**Init** +7; **Senses** blindsight 30 ft., darkvision 60 ft.; Perception +11  
+
+**Defense**
+
+ **AC** 19, touch 14, flat-footed 15 (+3 Dex, +1 dodge, +5 natural)  
+**hp** 120 (13 HD; 3d8+10d8+62)  
+**Fort** +12, **Ref** +7, **Will** +15  
+**Defensive Abilities** amorphous; **DR** 5/slashing; **Immune** cold  
+
+**Offense**
+
+ **Speed** 30 ft.  
+**Melee** +2 human bane dagger +16/+11 (1d4+6/17–20)  
+**Special Attacks** channel negative energy 4/day (DC 16, 5d6), weapon master (10 rounds/day)  
+**Moonpriest Spell-Like Abilities** (CL 2nd; concentration +7)  
+
+ 3/day—cause fear (DC 12)  
+1/day—daze monster (DC 13), detect thoughts (DC 13)  
+
+ **Cleric Spell-Like Abilities** (CL 10th; concentration +19)  
+
+ At will—lore keeper (30), remote viewing (10 rounds/day)  
+8/day—battle rage (+5)  
+
+ **Cleric Spells Prepared** (CL 10th; concentration +19)  
+
+ 5th—flame strike <sup>D</sup> (DC 20), insect plague, slay living (DC 20), wall of stone (DC 20)  
+4th—air walk, cure critical wounds, divine power <sup>D</sup>, poison (DC 19), unholy blight (DC 19)  
+3rd—blindness/deafness (DC 18), cure serious wounds, dispel magic, magic vestment <sup>D</sup>, speak with dead (DC 18)  
+2nd—cure moderate wounds (2), death knell (DC 17), detect thoughts <sup>D</sup> (DC 17), hold person (DC 17), spiritual weapon  
+1st—command (DC 16), comprehend languages <sup>D</sup>, cure light wounds (2), entropic shield, sanctuary (DC 16), shield of faith  
+0 (at will)—bleed (DC 15), detect magic, mending, read magic  
+
+ **D** domain spell; **Domains** Knowledge, War  
+
+**Statistics**
+
+ **Str** 18, **Dex** 16, **Con** 18, **Int** 10, **Wis** 20, **Cha** 13  
+**Base Atk** +9; **CMB** +13; **CMD** 27  
+**Feats** Combat Casting, Craft Magic Arms and Armor, Dodge, Improved Critical (dagger), Improved Initiative, Power Attack, Selective Channeling  
+**Skills** Intimidate +7, Knowledge (arcana) +6, Knowledge (religion) +13, Perception +11, Spellcraft +13, Stealth +9, Use Magic Device +11 **Languages** Aklo  
+**SQ** spellcasting prodigy  
+**Gear** +2 human bane dagger, amulet of natural armor +2  
+
+<div

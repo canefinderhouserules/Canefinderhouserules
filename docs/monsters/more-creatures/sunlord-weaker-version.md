@@ -1,0 +1,47 @@
+# Sunlord (Weaker Version)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Sunlord&quot;,&quot;cr&quot;:&quot;15&quot;,&quot;xp&quot;:&quot;51,200&quot;,&quot;line&quot;:&quot;NG Medium outsider (angel, extraplanar, good)&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;29, touch 14, flat-footed 25&quot;,&quot;hp&quot;:&quot;123 (13d10+52); regeneration 10 (evil weapons, effects with the evil descriptor)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:12,&quot;Will&quot;:12},&quot;saveNote&quot;:&quot;(+18 against poison)&quot;,&quot;defense&quot;:&quot;uncanny dodge; DR 10/evil; Immune acid, cold, petrification; SR 30&quot;,&quot;aura&quot;:&quot;protective aura&quot;,&quot;speed&quot;:&quot;50 ft., fly 100 ft. (good)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 flaming holy scimitar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[17,12,7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 fire plus stun&quot;},{&quot;name&quot;:&quot;+2 flaming holy scimitar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[17,12],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:8,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 fire plus stun)or 2 slams +18 (1d8+6&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+2 flaming holy composite longbow (+5 Str)&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[19,14,9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 fire&quot;}]],&quot;specialAttacks&quot;:&quot;rend (2 weapons, 1d10+9), stun&quot;,&quot;rangedTouch&quot;:17,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:13,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;aid&quot;,&quot;page&quot;:&quot;aid&quot;},{&quot;name&quot;:&quot;continual flame&quot;,&quot;page&quot;:&quot;continual-flame&quot;},{&quot;name&quot;:&quot;detect evil&quot;,&quot;page&quot;:&quot;detect-evil&quot;},{&quot;name&quot;:&quot;discern lies&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;discern-lies&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dispel evil&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;dispel-evil&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;holy aura&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;holy-aura&quot;},{&quot;name&quot;:&quot;holy smite&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;holy-smite&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;holy word&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;holy-word&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;,&quot;note&quot;:&quot;self only&quot;},{&quot;name&quot;:&quot;plane shift&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;plane-shift&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;remove curse&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;remove-curse&quot;,&quot;save&quot;:&quot;Will negates (harmless)&quot;},{&quot;name&quot;:&quot;remove disease&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;remove-disease&quot;,&quot;save&quot;:&quot;Fortitude negates (harmless)&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;remove-fear&quot;,&quot;save&quot;:&quot;Will negates (harmless)&quot;}]},{&quot;label&quot;:&quot;7/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;cure-light-wounds&quot;,&quot;save&quot;:&quot;Will half (harmless)&quot;},{&quot;name&quot;:&quot;daylight&quot;,&quot;page&quot;:&quot;daylight&quot;},{&quot;name&quot;:&quot;see invisibility&quot;,&quot;page&quot;:&quot;see-invisibility&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blade barrier&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;blade-barrier&quot;,&quot;save&quot;:&quot;Reflex half or Reflex negates&quot;},{&quot;name&quot;:&quot;fire shield&quot;,&quot;page&quot;:&quot;fire-shield&quot;},{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;13d6&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;heal&quot;,&quot;save&quot;:&quot;Will negates (harmless)&quot;},{&quot;name&quot;:&quot;sunburst&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;sunburst&quot;,&quot;save&quot;:&quot;Reflex partial&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Divine Trigger&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The Sunlord can operate any cleric, druid, ranger, or paladin spell trigger item as if he were a 13th-level caster.&quot;},{&quot;name&quot;:&quot;Good Weapons&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;The Sunlord’s natural weapons and any weapon he is wielding is treated as good-aligned for the purpose of overcoming damage reduction.&quot;},{&quot;name&quot;:&quot;Stun&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;If the Sunlord strikes a creature twice in 1 round with his scimitars (whether two strikes with one scimitar or one strike with each), that creature must succeed on a DC 22 Fortitude save or be stunned 1 for 1d6 rounds. The save DC is Strength-based. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 22, Dex 18, Con 18, Int 18, Wis 18, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +13; CMB +19; CMD 33&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:21,&quot;Escape Artist&quot;:20,&quot;Fly&quot;:24,&quot;Heal&quot;:20,&quot;Intimidate&quot;:21,&quot;Knowledge (history)&quot;:20,&quot;Knowledge (religion)&quot;:20,&quot;Knowledge (planes)&quot;:20,&quot;Perception&quot;:24,&quot;Sense Motive&quot;:24,&quot;Spellcraft&quot;:20,&quot;Stealth&quot;:20,&quot;CMB&quot;:19},&quot;feats&quot;:&quot;Alertness, Double Slice, Great Fortitude, Improved Initiative, Improved Two-Weapon Fighting, Two-Weapon Fighting, Two-Weapon Rend&quot;,&quot;languages&quot;:&quot;Common, +2 additional; truespeech&quot;,&quot;sq&quot;:&quot;change shape (animal, beast shape I; humanoid, alter self; elemental (fire only), elemental body II), divine trigger, good weapons&quot;}"></div>
+
+## Sunlord (CR 15)
+
+**XP** 51,200  
+ NG Medium outsider (angel, extraplanar, good)  
+ **Init** +8; **Senses** darkvision 60 ft., low-light vision; Perception +24; **Aura** protective aura  
+
+**Defense**
+
+ **AC** 29, touch 14, flat-footed 25 (+4 Dex, +15 natural)  
+ **hp** 123 (13d10+52); regeneration 10 (evil weapons, effects with the evil descriptor)  
+ **Fort** +14 (+18 against poison), **Ref** +12, **Will** +12  
+ **Defensive Abilities** uncanny dodge; **DR** 10/evil; **Immune** acid, cold, petrification; **Resistance** electricity 10, fire 60; **SR** 30  
+
+**Offense**
+
+ **Speed** 50 ft., fly 100 ft. (good)  
+ **Melee** +2 flaming holy scimitar +17/+12/+7 (1d8+8 plus 1d6 fire plus stun) and +2 flaming holy scimitar +17/+12 (1d8+8 plus 1d6 fire plus stun)or 2 slams +18 (1d8+6)  
+ **Ranged** +2 flaming holy composite longbow (+5 Str) +19/+14/+9 (1d8+7 plus 1d6 fire)  
+**Special Attacks** rend (2 weapons, 1d10+9), stun  
+ **Spell-Like Abilities** (CL 13th)  
+
+  At will—aid, continual flame, detect evil, discern lies (DC 19), dispel evil (DC 20), dispel magic, holy aura (DC 23), holy smite (DC 19), holy word (DC 22), invisibility (self only), plane shift (DC 22), remove curse (DC 18), remove disease (DC 18), remove fear (DC 16)  
+ 7/day—cure light wounds (DC 16), daylight, see invisibility  
+ 1/day—blade barrier (DC 21), fire shield, flame strike (DC 20), heal (DC 21), sunburst (DC 23)  
+
+**Statistics**
+
+ **Str** 22, **Dex** 18, **Con** 18, **Int** 18, **Wis** 18, **Cha** 20  
+ **Base Atk** +13; **CMB** +19; **CMD** 33  
+ **Feats** Alertness, Double Slice, Great Fortitude, Improved Initiative, Improved Two-Weapon Fighting, Two-Weapon Fighting, Two-Weapon Rend  
+ **Skills** Diplomacy +21, Escape Artist +20, Fly +24, Heal +20, Intimidate +21, Knowledge (history) +20, Knowledge (religion) +20, Knowledge (planes) +20, Perception +24, Sense Motive +24, Spellcraft +20, Stealth +20  
+ **Languages** Common, +2 additional; truespeech  
+ **SQ** change shape (animal, *beast shape I*; humanoid, alter self; elemental (fire only), elemental body II), divine trigger, good weapons  
+
+**Special Abilities**
+
+ **Divine Trigger (Su)** The Sunlord can operate any cleric, druid, ranger, or paladin spell trigger item as if he were a 13th-level caster.  
+
+ **Good Weapons (Su)** The Sunlord’s natural weapons and any weapon he is wielding is treated as good-aligned for the purpose of overcoming damage reduction.  
+
+ **Stun (Su)** If the Sunlord strikes a creature twice in 1 round with his scimitars (whether two strikes with one scimitar or one strike with each), that creature must succeed on a DC 22 Fortitude save or be stunned 1 for 1d6 rounds. The save DC is Strength-based.  
+
+ <div

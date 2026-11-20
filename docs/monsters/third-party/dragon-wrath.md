@@ -1,0 +1,65 @@
+# Dragon, Wrath
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Wrath Dragon (Draco Sanctus Benevolentia)&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;NG* Huge dragon (extraplanar, good)&quot;,&quot;init&quot;:6,&quot;senses&quot;:&quot;dragon senses, scent&quot;,&quot;ac&quot;:&quot;30, touch 10, flat-footed 28&quot;,&quot;hp&quot;:&quot;465 (30d12+270)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:26,&quot;Ref&quot;:19,&quot;Will&quot;:23},&quot;defense&quot;:&quot;DR 15/evil; Immune fire, poison, paralysis, sleep; SR 29&quot;,&quot;aura&quot;:&quot;magic circle against evil (10 ft. radius)&quot;,&quot;speed&quot;:&quot;50 ft., fly 200 ft. (poor); space 15 ft., reach 10 ft. (15 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[37],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:15,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[37],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:10,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[34],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath weapon (50 ft. cone, DC 34, 20d6 fire), channel positive energy 8/day (8d6, DC 22), crush, holy lance 2/day (7 rounds), might of the gods +15 (15 rounds/day)&quot;,&quot;rangedTouch&quot;:30,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-like Abilities&quot;,&quot;cl&quot;:8,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;summon devas&quot;,&quot;note&quot;:&quot;level 9, 1d2 astral devas, or 1d4 movanic or monadic devas, 100% chance&quot;}]}]},{&quot;title&quot;:&quot;Domain Spell-Like Abilities&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;7/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;touch of good&quot;,&quot;note&quot;:&quot;+7 bonus&quot;},{&quot;name&quot;:&quot;strength surge&quot;,&quot;note&quot;:&quot;+7 bonus&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;8th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;antimagic field&quot;,&quot;page&quot;:&quot;antimagic-field&quot;},{&quot;name&quot;:&quot;clenched fist&quot;,&quot;page&quot;:&quot;clenched-fist&quot;}]},{&quot;label&quot;:&quot;7th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;holy word&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;holy-word&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;repulsion&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;repulsion&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;banishment&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;banishment&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;blade barrier&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;blade-barrier&quot;,&quot;save&quot;:&quot;Reflex half or Reflex negates&quot;},{&quot;name&quot;:&quot;heal&quot;,&quot;page&quot;:&quot;heal&quot;},{&quot;name&quot;:&quot;stoneskin&quot;,&quot;page&quot;:&quot;stoneskin&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;atonement&quot;,&quot;page&quot;:&quot;atonement&quot;},{&quot;name&quot;:&quot;break enchantment&quot;,&quot;page&quot;:&quot;break-enchantment&quot;},{&quot;name&quot;:&quot;dispel evil&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;dispel-evil&quot;},{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;plane shift&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;plane-shift&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;death ward&quot;,&quot;page&quot;:&quot;death-ward&quot;},{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;discern lies&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;discern-lies&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;holy smite&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;holy-smite&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;invisibility purge&quot;,&quot;page&quot;:&quot;invisibility-purge&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;},{&quot;name&quot;:&quot;remove curse&quot;,&quot;page&quot;:&quot;remove-curse&quot;},{&quot;name&quot;:&quot;remove disease&quot;,&quot;page&quot;:&quot;remove-disease&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;aid&quot;,&quot;page&quot;:&quot;aid&quot;},{&quot;name&quot;:&quot;align weapon&quot;,&quot;page&quot;:&quot;align-weapon&quot;},{&quot;name&quot;:&quot;augury&quot;,&quot;page&quot;:&quot;augury&quot;},{&quot;name&quot;:&quot;consecrate&quot;,&quot;page&quot;:&quot;consecrate&quot;},{&quot;name&quot;:&quot;enthrall&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;enthrall&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;silence&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;silence&quot;,&quot;save&quot;:&quot;Will negates&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Breath Weapon&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A wrath dragon’s breath weapon is a 50 ft. cone of holy fire. One-half of the damage is from divine force and is not subject to fire resistance or fire immunity.&quot;},{&quot;name&quot;:&quot;Divine Power&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A wrath dragon casts spells and channels positive energy as a good-aligned cleric. Its caster level is equal to half its Hit Dice. It has access to the Good and Strength domains and gains the domain power of each domain.&quot;}],&quot;abilities&quot;:&quot;Str 31, Dex 14, Con 28, Int 16, Wis 18, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +30; CMB +44; CMD 56 (60 vs. trip)&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:38,&quot;Fly&quot;:27,&quot;Heal&quot;:37,&quot;Intimidate&quot;:38,&quot;Knowledge (religion)&quot;:36,&quot;Knowledge (planes)&quot;:36,&quot;Perception&quot;:37,&quot;Sense Motive&quot;:37,&quot;Use Magic Device&quot;:38,&quot;CMB&quot;:44},&quot;feats&quot;:&quot;Alignment Channel, Blind-Fight, Cleave, Combat Reflexes, Flyby Attack, Great Cleave, Hover, Improved Initiative, Iron Will, Multiattack, Power Attack, Snatch, Weapon Focus (bite) , Weapon Focus (claw), Turn Undead&quot;,&quot;languages&quot;:&quot;Celestial, Common, Draconic, Giant, Terran&quot;}"></div>
+
+## Wrath Dragon (Draco Sanctus Benevolentia) (CR 20)
+
+**XP** 307,200  
+ NG* Huge dragon (extraplanar, good)  
+ *Wrath dragons can also be lawful good or chaotic good, gaining the lawful or chaotic subtypes respectively  
+ **Init** +6; **Senses** dragon senses, scent; Perception +37; **Aura** magic circle against evil (10 ft. radius)  
+
+**Defense**
+
+ **AC** 30, touch 10, flat-footed 28 (+2 Dex, +20 natural, –2 size)  
+ **hp** 465 (30d12+270)  
+ **Fort** +26; **Ref** +19; **Will** +23  
+ **DR** 15/evil; **Immune** fire, poison, paralysis, sleep; **SR** 29  
+
+**Offense**
+
+ **Speed** 50 ft., fly 200 ft. (poor)  
+ **Melee** bite +37 (2d8+15), 2 claws +37 (2d6+10), 2 wings +34 (1d8+5), tail slap +34 (2d6+15)  
+ **Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)  
+ **Special Attacks** breath weapon (50 ft. cone, DC 34, 20d6 fire), channel positive energy 8/day (8d6, DC 22), crush, holy lance 2/day (7 rounds), might of the gods +15 (15 rounds/day)  
+ **Spell-like Abilities** (CL 8th):
+
+ 1/day—summon devas (level 9, 1d2 astral devas, or 1d4 movanic or monadic devas, 100% chance)  
+
+ **Domain Spell-Like Abilities** (CL 15th)
+
+ 7/day—touch of good (+7 bonus), strength surge (+7 bonus)  
+
+ **Cleric Spells Prepared** (CL 15th)  
+
+  8th—antimagic field, clenched fist<sup>D</sup>  
+ 7th—destruction (DC 21), holy word<sup>D</sup> (DC 21), repulsion (DC 21)  
+ 6th—banishment (DC 20), blade barrier (DC 20), heal, stoneskin<sup>D</sup>  
+ 5th—atonement, break enchantment, dispel evil<sup>D</sup> (DC 19), greater command (DC 19), plane shift (DC 19)  
+ 4th—death ward, dimensional anchor, discern lies (DC 18), dismissal (DC 18), divine power, holy smite<sup>D</sup> (DC 18)  
+ 3rd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), invisibility purge, magic vestment<sup>D</sup>, remove curse, remove disease, searing light  
+ 2nd—aid<sup>D</sup>, align weapon, augury, consecrate, enthrall (DC 16), silence (DC 16)**  
+ 1st**—bless, command (DC 15), divine favor, enlarge person<sup>D</sup> (DC 15), remove fear, sanctuary (DC 15)  
+ 0th—detect magic, guidance, resistance, virtue  
+
+ D – Domain spell; **Domains** Good, Strength  
+
+**Statistics**
+
+ **Str** 31, **Dex** 14, **Con** 28, **Int** 16, **Wis** 18, **Cha** 20  
+ **Base Atk** +30; **CMB** +44; **CMD** 56 (60 vs. trip)  
+ **Feats** Alignment Channel, Blind-Fight, Cleave, Combat Reflexes, Flyby Attack, Great Cleave, Hover, Improved Initiative, Iron Will, Multiattack, Power Attack, Snatch, Weapon Focus (bite) , Weapon Focus (claw), Turn Undead  
+ **Skills** Diplomacy +38, Fly +27, Heal +37, Intimidate +38, Knowledge (religion) +36, Knowledge (planes) +36, Perception +37, Sense Motive +37, Use Magic Device +38  
+ **Languages** Celestial, Common, Draconic, Giant, Terran  
+
+**Special Abilities**
+
+ **Breath Weapon (Su)** A wrath dragon’s breath weapon is a 50 ft. cone of holy fire. One-half of the damage is from divine force and is not subject to fire resistance or fire immunity.  
+
+ **Divine Power (Su)** A wrath dragon casts spells and channels positive energy as a good-aligned cleric. Its caster level is equal to half its Hit Dice. It has access to the Good and Strength domains and gains the domain power of each domain.  
+
+**Ecology**
+
+**Environment** any good-aligned plane  
+ **Organization** solitary or band (1 wrath dragon plus 1d4 astral devas)  
+ **Treasure** triple standard

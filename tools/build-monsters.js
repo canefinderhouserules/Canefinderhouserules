@@ -26,6 +26,9 @@ const SETTING = /\b(Golarion|Absalom|Cheliax|Chelish|Chelaxian|Varisia\w*|Osirio
 BOOKS['other-sources'] = { title: 'Other Sources', re: { test: s => !!s && !MAIN_BOOKS.test(s) } };
 // mythic creatures come from their own Nethys list (MythicMonsterDisplay), whatever the book
 BOOKS['mythic-bestiary'] = { title: 'Mythic Bestiary', re: { test: s => !!s } };
+// from d20pfsrd, converted by tools/convert-pfsrd.js: third-party creatures, and Paizo ones Nethys lacks
+BOOKS['third-party'] = { title: 'Third-Party Bestiary', re: /^3PP:/ };
+BOOKS['more-creatures'] = { title: 'More Paizo Creatures', re: /^PZO:/ };
 
 // ---------- helpers ----------
 const decode = s => String(s)
@@ -518,4 +521,4 @@ if (require.main === module) {
   if (!only) writeRetry(path.join(outDir, 'index.md'), idx);
   console.log(bookKey + ':', new Set(index.map(e => e.slug)).size, 'pages,', index.length, 'stat blocks');
 }
-module.exports = { parseBlock, parseAttacks, pageFor, toMarkdown };
+module.exports = { parseBlock, parseAttacks, pageFor, toMarkdown, scrubNames };

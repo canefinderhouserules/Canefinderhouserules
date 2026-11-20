@@ -1,0 +1,54 @@
+# Damien, Vampire Hunter (Dhampir Vampire Hunter 20)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Damien&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;Male dhampir (sacred ancestor) vampire hunter 20, NG Medium humanoid (dhampir)&quot;,&quot;init&quot;:14,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision,&quot;,&quot;ac&quot;:&quot;32, touch 23, flat-footed 23&quot;,&quot;hp&quot;:&quot;173 (20d8+80); regeneration 1&quot;,&quot;saves&quot;:{&quot;Fort&quot;:16,&quot;Ref&quot;:33,&quot;Will&quot;:20},&quot;saveNote&quot;:&quot;-1 vs. illusions&quot;,&quot;defense&quot;:&quot;resist level drain, undead resistance&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;sun blade&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[36,31,26,21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d10&quot;,&quot;mod&quot;:9,&quot;threat&quot;:19,&quot;mult&quot;:3,&quot;rider&quot;:&quot;); (+2/+2 vs. evil creatures&quot;}]],&quot;specialAttacks&quot;:&quot;critical reflexes, improved quarry, master vampire hunter, quarry, stake, vampire bane (DC 38)&quot;,&quot;rangedTouch&quot;:26,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:20,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect undead&quot;,&quot;page&quot;:&quot;detect-undead&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;true strike&quot;,&quot;page&quot;:&quot;true-strike&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;}]}]},{&quot;title&quot;:&quot;Vampire Hunter Spells Known&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:20,&quot;levels&quot;:[{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;discern lies&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;discern-lies&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dismissal&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;dismissal&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;divination&quot;,&quot;page&quot;:&quot;divination&quot;},{&quot;name&quot;:&quot;holy smite&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;holy-smite&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;neutralize poison&quot;,&quot;page&quot;:&quot;neutralize-poison&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cure serious wounds&quot;,&quot;page&quot;:&quot;cure-serious-wounds&quot;},{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;heroism&quot;,&quot;page&quot;:&quot;heroism&quot;},{&quot;name&quot;:&quot;remove curse&quot;,&quot;page&quot;:&quot;remove-curse&quot;},{&quot;name&quot;:&quot;searing light&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;searing-light&quot;,&quot;damage&quot;:&quot;5d8&quot;,&quot;touch&quot;:true}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;aid&quot;,&quot;page&quot;:&quot;aid&quot;},{&quot;name&quot;:&quot;align weapon&quot;,&quot;page&quot;:&quot;align-weapon&quot;},{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;knock&quot;,&quot;page&quot;:&quot;knock&quot;},{&quot;name&quot;:&quot;resist energy&quot;,&quot;page&quot;:&quot;resist-energy&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bless water&quot;,&quot;page&quot;:&quot;bless-water&quot;},{&quot;name&quot;:&quot;detect evil&quot;,&quot;page&quot;:&quot;detect-evil&quot;},{&quot;name&quot;:&quot;expeditious retreat&quot;,&quot;page&quot;:&quot;expeditious-retreat&quot;},{&quot;name&quot;:&quot;hide from undead&quot;,&quot;page&quot;:&quot;hide-from-undead&quot;},{&quot;name&quot;:&quot;remove fear&quot;,&quot;page&quot;:&quot;remove-fear&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;page&quot;:&quot;sanctuary&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Ancestry of Legend&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;Damien’s ability scores were generated using a 25-point buy, and have been supplemented through the use of magic items that grant an inherent +5 bonus to his Constitution, Dexterity, Strength, and Wisdom scores. Additionally, Damien’s traits reflect his sacred ancestry dhampir heritage. Collectively, these benefits plus his PC-level wealth increase his total CR by 1.&quot;},{&quot;name&quot;:&quot;Clockwork Charger&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;This creature has the same statistics as a clockwork charger.&quot;}],&quot;abilities&quot;:&quot;Str 23, Dex 32, Con 18, Int 13, Wis 15, Cha 16&quot;,&quot;combat&quot;:&quot;BAB +15; CMB +21; CMD 46&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:35,&quot;Diplomacy&quot;:6,&quot;Disable Device&quot;:11,&quot;Intimidate&quot;:14,&quot;Knowledge (nobility)&quot;:17,&quot;Knowledge (religion)&quot;:25,&quot;Perception&quot;:26,&quot;Ride&quot;:33,&quot;Sleight of Hand&quot;:21,&quot;Spellcraft&quot;:15,&quot;Use Magic Device&quot;:24,&quot;CMB&quot;:21},&quot;feats&quot;:&quot;Ancestor’s Visage, Blind-Fight, Combat Reflexes, Countenanced Carbuncle, Death’s Nightmare, Dodge, Extended Vampiric Focus, Hand’s Autonomy, Hand’s Hunger, Hunger for Magic, Improved Initiative, Improved Lightning Reflexes, Lightning Reflexes, Mobility, Vampire Scholar, Weapon Finesse, Weapon Focus (bastard sword)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;sq&quot;:&quot;ancestry of legend, relentless, relentless band, remove vampirism, swift tracker, track, vampire tracker, vampiric focus (22 minutes/day; vampiric agility, vampiric momentum, vampiric resolve)&quot;,&quot;gear&quot;:&quot;wand of cure serious wounds (50 charges)&quot;}"></div>
+
+## Damien (CR 20)
+
+**XP** 307,200  
+ Male dhampir (sacred ancestor) vampire hunter 20  
+ NG Medium humanoid (dhampir)  
+ **Init** +14; **Senses** darkvision 60 ft., low-light vision, Perception +26  
+
+**Defense**
+
+ **AC** 32, touch 23, flat-footed 23 (+9 armor, +4 deflection, +8 Dex, +1 dodge)  
+ **hp** 173 (20d8+80); regeneration 1  
+ **Fort** +16, **Ref** +33, **Will** +20; –1 vs. illusions  
+ **Defensive Abilities** resist level drain, undead resistance  
+ **Weakness** negative energy affinity  
+
+**Offense**
+
+ **Speed** 30 ft.  
+ **Melee** sun blade +36/+31/+26/+21 (1d10+9/19–20/×3); (+2/+2 vs. evil creatures)  
+ **Special Attacks** critical reflexes, improved quarry, master vampire hunter, quarry, stake, vampire bane (DC 38)  
+ **Spell-Like Abilities** (CL 20th; concentration +20)  
+
+ At will—detect undead  
+ 3/day—true strike  
+ 1/day—dispel magic  
+
+ **Vampire Hunter Spells Known** (CL 20th; concentration +20)  
+
+ 4th—discern lies (DC 16), dismissal (DC 16), divination, holy smite (DC 16), neutralize poison  
+ 3rd—cure serious wounds, dimensional anchor, dispel magic, heroism, remove curse, searing light (DC 15)  
+ 2nd—aid, align weapon, detect thoughts (DC 14), knock, resist energy, tongues  
+ 1st—bless water, detect evil, expeditious retreat, hide from undead, remove fear, sanctuary  
+
+**Statistics**
+
+ **Str** 23, **Dex** 32, **Con** 18, **Int** 13, **Wis** 15, **Cha** 16  
+ **Base Atk** +15; **CMB** +21; **CMD** 46  
+ **Feats** Ancestor’s Visage, Blind-Fight, Combat Reflexes, Countenanced Carbuncle, Death’s Nightmare, Dodge, Extended Vampiric Focus, Hand’s Autonomy, Hand’s Hunger, Hunger for Magic, Improved Initiative, Improved Lightning Reflexes, Lightning Reflexes, Mobility, Vampire Scholar, Weapon Finesse, Weapon Focus (bastard sword)  
+ **Skills** Acrobatics +35 (+31 when jumping), Diplomacy +6, Disable Device +11, Intimidate +14, Knowledge (nobility) +17, Knowledge (religion) +25, Perception +26, Ride +33, Sleight of Hand +21, Spellcraft +15, Use Magic Device +24  
+ **Languages** Common  
+ **SQ** ancestry of legend, relentless, relentless band, remove vampirism, swift tracker, track, vampire tracker, vampiric focus (22 minutes/day; vampiric agility, vampiric momentum, vampiric resolve)  
+ **Gear** wand of cure serious wounds (50 charges); **Other Gear** celestial armor, sun blade, azure pendant, belt of physical might +6 (Str, Dex), boots of striding and springing, cloak of resistance +5, clockwork charger, pale green prism ioun stone, ring of regeneration, ring of protection +4, sun sensitivity outfit  
+
+**Special Abilities**
+
+ **Ancestry of Legend (Ex)** Damien’s ability scores were generated using a 25-point buy, and have been supplemented through the use of magic items that grant an inherent +5 bonus to his Constitution, Dexterity, Strength, and Wisdom scores. Additionally, Damien’s traits reflect his sacred ancestry dhampir heritage. Collectively, these benefits plus his PC-level wealth increase his total CR by 1.  
+
+ **Clockwork Charger** This creature has the same statistics as a clockwork charger.  
+
+**About**

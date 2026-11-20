@@ -1,0 +1,54 @@
+# Golem, Paizo
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;The Golem&quot;,&quot;cr&quot;:&quot;20&quot;,&quot;xp&quot;:&quot;307,200&quot;,&quot;line&quot;:&quot;N Huge construct&quot;,&quot;init&quot;:6,&quot;senses&quot;:&quot;low-light vision, darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;36, touch 14, flat-footed 34;&quot;,&quot;hp&quot;:&quot;370 (20d10+260); fast healing 10&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:8,&quot;Will&quot;:15},&quot;defense&quot;:&quot;construct traits; DR 15/adamantine; Immune magic&quot;,&quot;speed&quot;:&quot;40 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[36],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d12&quot;,&quot;mod&quot;:18,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;depthless knowledge, shatter the earth, sweeping charge&quot;,&quot;rangedTouch&quot;:20,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;arcane lock&quot;,&quot;page&quot;:&quot;arcane-lock&quot;},{&quot;name&quot;:&quot;arcane sight&quot;,&quot;page&quot;:&quot;arcane-sight&quot;},{&quot;name&quot;:&quot;comprehend languages&quot;,&quot;page&quot;:&quot;comprehend-languages&quot;},{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;identify&quot;,&quot;page&quot;:&quot;identify&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alarm&quot;,&quot;page&quot;:&quot;alarm&quot;},{&quot;name&quot;:&quot;crushing despair&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;crushing-despair&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;dimensional anchor&quot;,&quot;page&quot;:&quot;dimensional-anchor&quot;},{&quot;name&quot;:&quot;greater arcane eye&quot;},{&quot;name&quot;:&quot;hold person&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;hold-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;locate object&quot;,&quot;page&quot;:&quot;locate-object&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;crushing hand&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;crushing-hand&quot;},{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;discern location&quot;,&quot;page&quot;:&quot;discern-location&quot;},{&quot;name&quot;:&quot;dominate monster&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;dominate-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;forcecage&quot;,&quot;dc&quot;:26,&quot;page&quot;:&quot;forcecage&quot;,&quot;save&quot;:&quot;Reflex negates&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;mage’s disjunction&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;mages-disjunction&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Shatter the Earth&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a standard action, the Golem can slam its fists down onto the ground, directing energy into the surface and causing it to ripple outward in all directions for 15 feet. Any creature standing in the area takes 2d12+18 points of damage and must succeed at a DC 38 Reflex save or be knocked prone. In addition, the ground becomes buckled and smashed and is considered difficult terrain. The save DC is Strength-based.&quot;},{&quot;name&quot;:&quot;Sturdy Stride&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;The Golem completely ignores difficult terrain.&quot;},{&quot;name&quot;:&quot;Sweeping Charge&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;The Golem can charge at a target even through squares occupied by other creatures of Large size or smaller, battering them effortlessly aside. Any creature occupying a square on the path toward the target must make a DC 38 Reflex save or be thrown 1d4x5 feet, suffering 2d8+18 damage and knocked prone. This save DC is Strength-based.&quot;},{&quot;name&quot;:&quot;Depthless Knowledge&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a full round action, the Golem can capture the knowledge of any creature within 30 feet. When using this ability, the Golem’s eyes seem to swell, becoming deep, endless pools. The target must succeed at a DC 29 Will save or become a mindless vegetable for 1d4 rounds, unable to perform any action. During this time, the Golem can use any skill or feat possessed by the victim as if it itself had the skill or feat, adding the victim’s skill ranks to its own if it already possesses them. In addition, the victim’s BAB, if higher, replaces the Golem’s, and the Golem gains all of the victim’s spells, able to cast them without their requisite components (if any). Any such spells used by the Golem are considered cast when the victim regains control of his senses. The Golem can only capture the knowledge of one target at a time. Any creature that succeeds at its Will save is immune to this effect for the next 24 hours. This save DC is Charisma-based.&quot;}],&quot;abilities&quot;:&quot;Str 46, Dex 14, Con—, Int 20, Wis 29, Cha 28&quot;,&quot;combat&quot;:&quot;BAB +20; CMB +40; CMD 56&quot;,&quot;checks&quot;:{&quot;Appraise&quot;:11,&quot;Bluff&quot;:15,&quot;Climb&quot;:24,&quot;Diplomacy&quot;:15,&quot;Intimidate&quot;:15,&quot;Knowledge (arcane)&quot;:15,&quot;Knowledge (Dungeoneering)&quot;:13,&quot;Knowledge (Engineering)&quot;:13,&quot;Knowledge (Geography)&quot;:15,&quot;Knowledge (History)&quot;:15,&quot;Knowledge (Local)&quot;:15,&quot;Knowledge (Nature)&quot;:13,&quot;Knowledge (Nobility)&quot;:13,&quot;Knowledge (Planes)&quot;:15,&quot;Knowledge (Religion)&quot;:15,&quot;Linguistics&quot;:11,&quot;Perception&quot;:20,&quot;Sense Motive&quot;:17,&quot;CMB&quot;:40},&quot;feats&quot;:&quot;Alertness, Critical Focus (slam), Dodge, Improved Critical (slam), Improved Initiative, Power Attack, Skill Focus (Perception), Staggering Critical, Stunning Critical, Toughness&quot;,&quot;languages&quot;:&quot;any; telepathy 100 ft.&quot;,&quot;sq&quot;:&quot;sturdy stride&quot;,&quot;gear&quot;:&quot;The Heart of Lore&quot;}"></div>
+
+## The Golem (CR 20)
+
+**XP** 307,200  
+N Huge construct  
+**Init** +6; **Senses** low-light vision, darkvision 60 ft.; Perception +20  
+
+**Defense**
+
+ **AC** 36, touch 14, flat-footed 34; (+2 Dex, +4 deflection, +22 natural, –2 Size)  
+**hp** 370 (20d10+260); fast healing 10  
+**Fort** +6, **Ref** +8, **Will** +15  
+**Defensive Abilities** construct traits; DR 15/adamantine; **Immune** magic  
+
+**Offense**
+
+ **Speed** 40 ft.  
+**Melee** 2 slams +36 (2d12+18/19-20)  
+**Space** 15 ft.; **Reach** 15 ft.  
+**Special Attacks** depthless knowledge, shatter the earth, sweeping charge  
+**Spell-Like Abilities** (CL 20th)  
+
+ At will—arcane lock, arcane sight, comprehend languages, daze (DC 19), detect magic, identify  
+3/day—alarm, crushing despair (DC 23), dimensional anchor, greater arcane eye, hold person (DC 22), locate object  
+1/day—bull’s strength, crushing hand (DC 28), dimension door, discern location, dominate monster (DC 28), forcecage (DC 26), greater dispel magic, mage’s disjunction (DC 28)  
+
+**Statistics**
+
+ **Str** 46, **Dex** 14, Con—, **Int** 20, **Wis** 29, **Cha** 28  
+**Base Atk** +20; **CMB** +40; **CMD** 56  
+**Feats** Alertness, Critical Focus (slam), Dodge, Improved Critical (slam), Improved Initiative, Power Attack, Skill Focus (Perception), Staggering Critical, Stunning Critical, Toughness  
+**Skills** Appraise +11, Bluff +15, Climb +24, Diplomacy +15, Intimidate +15, Knowledge (arcane) +15, Knowledge (Dungeoneering) +13, Knowledge (Engineering) +13, Knowledge (Geography) +15, Knowledge (History) +15, Knowledge (Local) +15, Knowledge (Nature) +13, Knowledge (Nobility) +13, Knowledge (Planes) +15, Knowledge (Religion) +15, Linguistics +11, Perception +20, Sense Motive +17  
+**Languages** any; telepathy 100 ft.  
+**SQ** sturdy stride  
+**Gear** *The Heart of Lore*  
+
+**Special Abilities**
+
+ **Shatter the Earth (Su)** As a standard action, the Golem can slam its fists down onto the ground, directing energy into the surface and causing it to ripple outward in all directions for 15 feet. Any creature standing in the area takes 2d12+18 points of damage and must succeed at a DC 38 Reflex save or be knocked prone. In addition, the ground becomes buckled and smashed and is considered difficult terrain. The save DC is Strength-based.  
+
+ **Sturdy Stride (Ex)** The Golem completely ignores difficult terrain.  
+
+ **Sweeping Charge (Ex)** The Golem can charge at a target even through squares occupied by other creatures of Large size or smaller, battering them effortlessly aside. Any creature occupying a square on the path toward the target must make a DC 38 Reflex save or be thrown 1d4x5 feet, suffering 2d8+18 damage and knocked prone. This save DC is Strength-based.  
+
+ **Depthless Knowledge (Su)** As a full round action, the Golem can capture the knowledge of any creature within 30 feet. When using this ability, the Golem’s eyes seem to swell, becoming deep, endless pools. The target must succeed at a DC 29 Will save or become a mindless vegetable for 1d4 rounds, unable to perform any action. During this time, the Golem can use any skill or feat possessed by the victim as if it itself had the skill or feat, adding the victim’s skill ranks to its own if it already possesses them. In addition, the victim’s BAB, if higher, replaces the Golem’s, and the Golem gains all of the victim’s spells, able to cast them without their requisite components (if any). Any such spells used by the Golem are considered cast when the victim regains control of his senses. The Golem can only capture the knowledge of one target at a time. Any creature that succeeds at its Will save is immune to this effect for the next 24 hours. This save DC is Charisma-based.  
+
+**Ecology**
+
+**Environment** the labyrinthine corridors of Paizo Publishing, realms of knowledge and learning, and anywhere imagination runs free and inspired  
+**Organization** solitary  
+**Treasure** immense arcane library worth 500,000 gold pieces

@@ -1,0 +1,65 @@
+# Giant Gnarled Ice Troll Cleric 15
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Giant Gnarled Ice Troll Cleric 15&quot;,&quot;cr&quot;:&quot;18&quot;,&quot;xp&quot;:&quot;153,600&quot;,&quot;line&quot;:&quot;Male giant gnarled ice troll cleric of Kostchtchie 15, CE Huge humanoid (cold, giant)&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;33, touch 10, flat-footed 33&quot;,&quot;hp&quot;:&quot;304 (20 HD; 5d8+15d8+215); regeneration 3 (acid or fire)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:23,&quot;Ref&quot;:8,&quot;Will&quot;:16},&quot;defense&quot;:&quot;ferocity; DR 10/adamantine, 5/magic; Immune cold; Resist fire 10; SR 27; Weaknesses vulnerability to fire, vulnerability to slashing weapons&quot;,&quot;speed&quot;:&quot;15 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:9,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:9,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;might of the gods +15 (15 rounds/day), rend (2 claws, 1d8+13), weapon master (15 rounds/day)&quot;,&quot;rangedTouch&quot;:11,&quot;spells&quot;:[{&quot;title&quot;:&quot;Domain Spell-Like Abilities&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:20,&quot;levels&quot;:[{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;battle rage +7&quot;},{&quot;name&quot;:&quot;strength surge +7&quot;}]}]},{&quot;title&quot;:&quot;Spells Prepared&quot;,&quot;cl&quot;:15,&quot;concentration&quot;:20,&quot;levels&quot;:[{&quot;label&quot;:&quot;8th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;clenched fist&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;clenched-fist&quot;},{&quot;name&quot;:&quot;power word stun&quot;,&quot;page&quot;:&quot;power-word-stun&quot;}]},{&quot;label&quot;:&quot;7th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blasphemy&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;blasphemy&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;power word blind&quot;,&quot;page&quot;:&quot;power-word-blind&quot;}]},{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blade barrier&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;blade-barrier&quot;,&quot;save&quot;:&quot;Reflex half or Reflex negates&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;harm&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;harm&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;150&quot;},{&quot;name&quot;:&quot;stoneskin&quot;,&quot;page&quot;:&quot;stoneskin&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;flame strike&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;flame-strike&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;15d6&quot;},{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;righteous might&quot;,&quot;page&quot;:&quot;righteous-might&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;spell resistance&quot;,&quot;page&quot;:&quot;spell-resistance&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;},{&quot;name&quot;:&quot;chaos hammer&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;chaos-hammer&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;divination&quot;,&quot;page&quot;:&quot;divination&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;create food and water&quot;,&quot;page&quot;:&quot;create-food-and-water&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;invisibility purge&quot;,&quot;page&quot;:&quot;invisibility-purge&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;augury&quot;,&quot;page&quot;:&quot;augury&quot;},{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;calm emotions&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;calm-emotions&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;darkness&quot;,&quot;page&quot;:&quot;darkness&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;command&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;command&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;deathwatch&quot;,&quot;page&quot;:&quot;deathwatch&quot;},{&quot;name&quot;:&quot;doom&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;doom&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;entropic shield&quot;,&quot;page&quot;:&quot;entropic-shield&quot;},{&quot;name&quot;:&quot;hide from undead&quot;,&quot;page&quot;:&quot;hide-from-undead&quot;},{&quot;name&quot;:&quot;magic weapon&quot;,&quot;page&quot;:&quot;magic-weapon&quot;}]},{&quot;label&quot;:&quot;0th (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Vulnerability to Slashing Weapons&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;If an opponent rolls a natural 20 with a slashing weapon against an ice troll (followed by a successful roll to confirm the critical hit), the ice troll must succeed on a Fortitude save (DC 10 + damage taken) or lose a limb (50% arm or leg, 50% right or left). An ice troll who loses a leg falls prone but can continue moving at half speed. Severed limbs cannot attack but move at a speed of 30 feet toward the troll. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 28, Dex 8, Con 28, Int 7, Wis 20, Cha 5&quot;,&quot;combat&quot;:&quot;BAB +14; CMB +25; CMD 37&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:13,&quot;Knowledge (religion)&quot;:3,&quot;Linguistics&quot;:3,&quot;Perception&quot;:12,&quot;Spellcraft&quot;:10,&quot;CMB&quot;:25},&quot;feats&quot;:&quot;Cleave, Combat Casting, Great Cleave, Improved Critical (bite), Improved Critical (claws), Intimidating Prowess, Lightning Reflexes, Power Attack, Skill Focus (Perception), Toughness&quot;,&quot;languages&quot;:&quot;Common, Giant, Skald&quot;,&quot;gear&quot;:&quot;+4 white dragonhide breastplate, amulet of natural armor +2, cloak of resistance +1, headband of inspired wisdom +4, minor ring of fire resistance, ring of protection +3, diamond dust (worth 500 gp), walrus tusk ivory unholy symbol of Kostchtchie (worth 250 gp)&quot;}"></div>
+
+## Giant Gnarled Ice Troll Cleric 15 (CR 18)
+
+**XP** 153,600  
+ Male giant gnarled ice troll cleric of Kostchtchie 15  
+ CE Huge humanoid (cold, giant)  
+ Init—1; **Senses** darkvision 60 ft., low-light vision; Perception +12  
+
+**Defense**
+
+ **AC** 33, touch 10, flat-footed 33 (+10 armor, +3 deflection, –1 Dex, +13 natural, –2 size)  
+ **hp** 304 (20 HD; 5d8+15d8+215); regeneration 3 (acid or fire)  
+ **Fort** +23, **Ref** +8, **Will** +16  
+ **Defensive Abilities** ferocity, **DR** 10/adamantine, 5/magic; **Immune** cold; **Resist** fire 10; **SR** 27  
+ **Weaknesses** vulnerability to fire, vulnerability to slashing weapons  
+
+**Offense**
+
+ **Speed** 15 ft.  
+ **Melee** bite +21 (2d6+9/19–20), 2 claws +21 (1d8+9/19–20)  
+ **Space** 15 ft.; **Reach** 15 ft.  
+ **Special Attacks** might of the gods +15 (15 rounds/day), rend (2 claws, 1d8+13), weapon master (15 rounds/day)  
+ **Domain Spell-Like Abilities** (CL 15th; concentration +20)  
+
+  8/day—battle rage +7, strength surge +7  
+
+ **Spells Prepared** (CL 15th; concentration +20)  
+
+  8th—clenched fist (DC 23), power word stun D  
+ 7th—blasphemy (DC 22), destruction (DC 22), power word blind D  
+ 6th—blade barrier (DC 21), greater dispel magic, harm (DC 21), stoneskin D  
+ 5th—*[flame strike](../../magic/spells/flame-strike.md)* D (DC 20), greater command (DC 20), righteous might, slay living (DC 20), *[spell resistance](../../magic/spells/spell-resistance.md)*, true seeing  
+ 4th—air walk, chaos hammer (DC 19), divination, divine power D, freedom of movement, unholy blight (DC 19)  
+ 3rd—bestow curse (DC 18), *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), create food and water, dispel magic, invisibility purge, magic vestment D  
+ 2nd—augury, bull’s strength, calm emotions (DC 17), darkness, death knell (DC 17), spiritual weapon D  
+ 1st—bane (DC 16), command (DC 16), deathwatch, doom (DC 16), entropic shield, hide from undead, magic weapon D  
+ 0th (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), detect magic, guidance, *[resistance](../../magic/spells/resistance.md)*  
+
+ <sup>D</sup> **Domain** spell; **Domains** Strength, War  
+
+**Tactics**
+
+ **Before Combat** If he becomes aware of intruders, he prepares for them by casting stoneskin, *spell resistance*, air walk, freedom of movement, and spiritual weapon.  
+
+ **During Combat** If combat ensues, he takes to the air with air walk while sending his spiritual weapon (a huge warhammer) against an arcane caster. He uses clenched fist, blasphemy, destruction, and blade barrier to keep opponents at bay, and targets weakened foes with power word blind and power word stun.  
+
+ **Morale** He will not retreat from his newly found altar, and will fight to the death to defend it.  
+
+**Statistics**
+
+ **Str** 28, **Dex** 8, **Con** 28, **Int** 7, **Wis** 20, **Cha** 5  
+ **Base Atk** +14; **CMB** +25; **CMD** 37  
+ **Feats** Cleave, Combat Casting, Great Cleave, Improved Critical (bite), Improved Critical (claws), Intimidating Prowess, Lightning Reflexes, Power Attack, Skill Focus (Perception), Toughness  
+ **Skills** Intimidate +13, Knowledge (religion) +3, Linguistics +3, Perception +12, Spellcraft +10  
+ **Languages** Common, Giant, Skald  
+ **Gear** *+4 white dragonhide breastplate*, amulet of natural armor +2, cloak of resistance +1, headband of inspired wisdom +4, *minor ring of fire resistance*, *ring of protection +3*, diamond dust (worth 500 gp), walrus tusk ivory unholy symbol of Kostchtchie (worth 250 gp)  
+
+**Special Abilities**
+
+ **Vulnerability to Slashing Weapons (Ex)** If an opponent rolls a natural 20 with a slashing weapon against an ice troll (followed by a successful roll to confirm the critical hit), the ice troll must succeed on a Fortitude save (DC 10 + damage taken) or lose a limb (50% arm or leg, 50% right or left). An ice troll who loses a leg falls prone but can continue moving at half speed. Severed limbs cannot attack but move at a speed of 30 feet toward the troll.  
+
+ <div

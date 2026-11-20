@@ -1,0 +1,42 @@
+# Plague Cleric (Human Cleric 10)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Plague Cleric&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;Female human cleric 10, NE Medium humanoid&quot;,&quot;init&quot;:-1,&quot;ac&quot;:&quot;24, touch 12, flat-footed 24&quot;,&quot;hp&quot;:&quot;112 (10d8+64) (includes 14 temporary from aid)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:13,&quot;Ref&quot;:4,&quot;Will&quot;:14},&quot;saveNote&quot;:&quot;+1 vs fear&quot;,&quot;aura&quot;:&quot;evil&quot;,&quot;speed&quot;:&quot;20 ft.; air walk&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+2 vicious scythe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[12,7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:4,&quot;rider&quot;:&quot;plus 2d6&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy (Will DC 16 half, 5d6 negative energy), weapon master&quot;,&quot;rangedTouch&quot;:0,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;8/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;battle rage&quot;},{&quot;name&quot;:&quot;bleeding touch&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:10,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;greater command&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;command-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;righteous might&quot;,&quot;page&quot;:&quot;righteous-might&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;wall of stone&quot;,&quot;page&quot;:&quot;wall-of-stone&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;air walk&quot;,&quot;page&quot;:&quot;air-walk&quot;,&quot;note&quot;:&quot;cast&quot;},{&quot;name&quot;:&quot;cure critical wounds&quot;,&quot;page&quot;:&quot;cure-critical-wounds&quot;},{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;greater magic weapon&quot;,&quot;page&quot;:&quot;magic-weapon-greater&quot;,&quot;note&quot;:&quot;cast&quot;},{&quot;name&quot;:&quot;poison&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;poison&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blindness/deafness&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;blindness-deafness&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;contagion&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;contagion&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;extended status&quot;,&quot;page&quot;:&quot;status&quot;,&quot;note&quot;:&quot;cast&quot;},{&quot;name&quot;:&quot;magic vestment&quot;,&quot;page&quot;:&quot;magic-vestment&quot;,&quot;note&quot;:&quot;cast&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;aid&quot;,&quot;page&quot;:&quot;aid&quot;,&quot;note&quot;:&quot;cast&quot;},{&quot;name&quot;:&quot;bear’s endurance&quot;,&quot;page&quot;:&quot;bears-endurance&quot;,&quot;note&quot;:&quot;cast&quot;},{&quot;name&quot;:&quot;cure moderate wounds&quot;,&quot;page&quot;:&quot;cure-moderate-wounds&quot;,&quot;note&quot;:&quot;prepared 2 times&quot;},{&quot;name&quot;:&quot;extended shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;,&quot;note&quot;:&quot;cast&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;cure light wounds&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;cure-light-wounds&quot;,&quot;save&quot;:&quot;Will half (harmless)&quot;,&quot;note&quot;:&quot;prepared 3 times&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;sanctuary&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;sanctuary&quot;,&quot;save&quot;:&quot;Will negates&quot;}]},{&quot;label&quot;:&quot;0&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;light&quot;,&quot;page&quot;:&quot;light&quot;},{&quot;name&quot;:&quot;stabilize&quot;,&quot;page&quot;:&quot;stabilize&quot;}]}]}],&quot;checks&quot;:{&quot;Perception&quot;:5,&quot;CMB&quot;:0}}"></div>
+
+## Plague Cleric (CR 9)
+
+**XP** 6,400  
+ Female human cleric 10  
+ NE Medium humanoid  
+ **Init** -1; **Senses** Perception +5; **Aura** evil  
+
+**Defense**
+
+ **AC** 24, touch 12, flat-footed 24 (+8 armor, +3 deflection, -1 Dex, +4 natural)  
+ **hp** 112 (10d8+64) (includes 14 temporary from *aid*)  
+ **Fort** +13, **Ref** +4, **Will** +14; +1 vs fear  
+
+**Offense**
+
+ **Speed** 20 ft.; air walk  
+ **Melee** *+2 vicious scythe* +12/+7 (2d4+3/x4 plus 2d6)  
+ **Special Attacks** channel negative energy (Will DC 16 half, 5d6 negative energy), weapon master  
+ **Spell-Like Abilities** (CL 10th; concentration +15)  
+
+  8/day—battle rage, bleeding touch  
+
+ **Cleric Spells Prepared** (CL 10th; concentration +15)  
+
+  5th—*[greater command](../../magic/spells/command-greater.md)* (DC 20), righteous might, slay living<sup>D</sup> (DC 21), wall of stone  
+ 4th—air walk (cast), cure critical wounds, divine power<sup>D</sup>, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)* (cast), *[poison](../../magic/spells/poison.md)* (DC 20)  
+ 3rd—blindness/deafness (DC 19), contagion (DC 19), dispel magic, extended status (cast), magic vestment<sup>D</sup> (cast)  
+ 2nd—aid (cast), *[bear’s endurance](../../magic/spells/bears-endurance.md)* (cast), cure moderate wounds (2), extended shield of faith (cast), spiritual weapon<sup>D</sup>1st—cause fear<sup>D</sup> (DC 17), cure light wounds (DC 16) (3), divine favor, obscuring mist, sanctuary (DC 16)  
+ 0—detect magic, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, stabilize  
+ **Domains**: Death, War  
+
+**Tactics**
+
+ **Before Combat** Every morning, she casts extended status on her allies. As soon as she realizes the temple is invaded (likely because the alarm is raised or because one of the creatures she’s cast status on becomes damaged), she casts *air walk*, *greater magic weapon*, and *magic vestment* on herself and drinks her potion of *barkskin*. When she hears the sounds of combat nearby, she casts extended *shield of faith*, *bear’s endurance*, and *aid* on herself as well—if enemies do not reach her within a few minutes, she makes a quick patrol of every room in the temple to seek them out (or to determine if the intruders have been defeated). All of these spell effects are included in her stats.  
+ **During Combat** Her first act in combat is to cast *divine power* on herself. After that, she uses air walk to climb to a point 10 feet off the ground, then spends the first few rounds of combat casting spells at the PCs. She generally starts with greater command, ordering her enemies to fall prone before her, then follows that in the next few rounds with blindness/deafness at an obvious cleric, dispel magic if the PCs have several obvious spell effects, or spiritual weapon at a wizard or other frail-looking PC. She then drops down into melee with the PCs. If brought below 30 hit points, she retreats back into the air, casting obscuring mist on the ground below to make it difficult for non-flying creatures to target her. She spends the next few rounds curing her damage before returning to battle.  
+ **Morale** She fights to the death.  
+
+ **Base Statistics** AC 17, touch 9, flat-footed 17; hp 78 (10d8+30); Fort +11; Melee *+1 vicious scythe* +10/+5 (2d4+2/×4 plus

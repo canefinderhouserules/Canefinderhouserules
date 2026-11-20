@@ -1,0 +1,63 @@
+# Cloud Dragon, Very Old (3pp)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Very Old Cloud Dragon&quot;,&quot;cr&quot;:&quot;15&quot;,&quot;xp&quot;:&quot;51,200&quot;,&quot;line&quot;:&quot;N Gargantuan dragon (air)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;cloud vision, dragon senses&quot;,&quot;ac&quot;:&quot;34, touch 6, flat-footed 34&quot;,&quot;hp&quot;:&quot;250 (20d12+120)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:18,&quot;Ref&quot;:12,&quot;Will&quot;:17},&quot;defense&quot;:&quot;DR 15/magic; Immune electricity, paralysis, sleep, winds; SR 26&quot;,&quot;aura&quot;:&quot;frightful presence (270 ft., DC 25)&quot;,&quot;speed&quot;:&quot;40 ft., fly 250 ft. (clumsy); space 20 ft., reach 15 ft. (20 ft. with bite)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[27],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:16,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 2d6 cold&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[27],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:11,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[25],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;tail slap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[25],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:16,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;breath weapon (60 ft. cone, DC 26, 18d6 cold plus bull rush [Medium or smaller]), cold bite 2d6, crush, tail sweep&quot;,&quot;rangedTouch&quot;:16,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-like Abilities&quot;,&quot;cl&quot;:20,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;At-will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;call lightning&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;call-lightning&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;create water&quot;,&quot;page&quot;:&quot;create-water&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;stinking cloud&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;stinking-cloud&quot;,&quot;save&quot;:&quot;Fortitude negates&quot;}]}]},{&quot;title&quot;:&quot;Sorcerer Spells Known&quot;,&quot;cl&quot;:11,&quot;concentration&quot;:null,&quot;levels&quot;:[{&quot;label&quot;:&quot;5th (5/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cloudkill&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;teleport&quot;,&quot;page&quot;:&quot;teleport&quot;}]},{&quot;label&quot;:&quot;4th (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dimension door&quot;,&quot;page&quot;:&quot;dimension-door&quot;},{&quot;name&quot;:&quot;ice storm&quot;,&quot;page&quot;:&quot;ice-storm&quot;,&quot;damage&quot;:&quot;3d6+2d6&quot;},{&quot;name&quot;:&quot;lesser globe of invulnerability&quot;,&quot;page&quot;:&quot;globe-of-invulnerability-lesser&quot;}]},{&quot;label&quot;:&quot;3rd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;lightning bolt&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;lightning-bolt&quot;,&quot;save&quot;:&quot;Reflex half&quot;,&quot;damage&quot;:&quot;10d6&quot;},{&quot;name&quot;:&quot;sleet storm&quot;,&quot;page&quot;:&quot;sleet-storm&quot;},{&quot;name&quot;:&quot;wind wall&quot;,&quot;page&quot;:&quot;wind-wall&quot;}]},{&quot;label&quot;:&quot;2nd (7/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;blur&quot;,&quot;page&quot;:&quot;blur&quot;},{&quot;name&quot;:&quot;cat’s grace&quot;,&quot;page&quot;:&quot;cats-grace&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;page&quot;:&quot;invisibility&quot;},{&quot;name&quot;:&quot;levitate&quot;,&quot;page&quot;:&quot;levitate&quot;},{&quot;name&quot;:&quot;whispering wind&quot;,&quot;page&quot;:&quot;whispering-wind&quot;}]},{&quot;label&quot;:&quot;1st (8/day)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;chill touch&quot;,&quot;page&quot;:&quot;chill-touch&quot;,&quot;damage&quot;:&quot;1d6&quot;},{&quot;name&quot;:&quot;feather fall&quot;,&quot;page&quot;:&quot;feather-fall&quot;},{&quot;name&quot;:&quot;hypnotism&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;hypnotism&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;shocking grasp&quot;,&quot;page&quot;:&quot;shocking-grasp&quot;,&quot;damage&quot;:&quot;5d6&quot;},{&quot;name&quot;:&quot;unseen servant&quot;,&quot;page&quot;:&quot;unseen-servant&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;acid splash&quot;,&quot;page&quot;:&quot;acid-splash&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;daze&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;daze&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mage hand&quot;,&quot;page&quot;:&quot;mage-hand&quot;},{&quot;name&quot;:&quot;message&quot;,&quot;page&quot;:&quot;message&quot;},{&quot;name&quot;:&quot;open/close&quot;,&quot;page&quot;:&quot;open-close&quot;},{&quot;name&quot;:&quot;ray of frost&quot;,&quot;page&quot;:&quot;ray-of-frost&quot;,&quot;damage&quot;:&quot;1d3&quot;,&quot;touch&quot;:true},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;},{&quot;name&quot;:&quot;resistance&quot;,&quot;page&quot;:&quot;resistance&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Breath Weapon&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.&quot;},{&quot;name&quot;:&quot;Cold Bite&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;At old age, a cloud dragon’s bite deals an additional 2d6 points of cold damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.&quot;},{&quot;name&quot;:&quot;Cloud Form&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;As a standard action, a juvenile or older cloud dragon can assume gaseous form at will, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.&quot;},{&quot;name&quot;:&quot;Cloud Vision&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).&quot;},{&quot;name&quot;:&quot;Immunity to Winds&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.&quot;}],&quot;abilities&quot;:&quot;Str 33, Dex 10, Con 23, Int 20, Wis 21, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +20; CMB +35; CMD 45 (49 vs. trip)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:28,&quot;Diplomacy&quot;:28,&quot;Fly&quot;:15,&quot;Intimidate&quot;:28,&quot;Knowledge (arcana)&quot;:28,&quot;Knowledge (history)&quot;:28,&quot;Knowledge (nature)&quot;:28,&quot;Perception&quot;:32,&quot;Sense Motive&quot;:32,&quot;Spellcraft&quot;:28,&quot;Use Magic Device&quot;:28,&quot;CMB&quot;:35},&quot;feats&quot;:&quot;Alertness, Cleave, Flyby Attack, Great Cleave, Hover, Improved Initiative, Multiattack, Power Attack, Skill Focus (Fly), Wingover&quot;,&quot;languages&quot;:&quot;Auran, Aquan, Common, Draconic, Giant, Sylvan&quot;,&quot;sq&quot;:&quot;cloud form&quot;}"></div>
+
+## Very Old Cloud Dragon (CR 15)
+
+**XP** 51,200  
+ N Gargantuan dragon (air)  
+ **Init** +4; **Senses** cloud vision, dragon senses; Perception +32; **Aura** frightful presence (270 ft., DC 25)  
+
+**Defense**
+
+ **AC** 34, touch 6, flat-footed 34 (+28 natural, –4 size)  
+ **hp** 250 (20d12+120)  
+ **Fort** +18; **Ref** +12; **Will** +17  
+ **DR** 15/magic; **Immune** electricity, paralysis, sleep, winds; **SR** 26  
+
+**Offense**
+
+ **Speed** 40 ft., fly 250 ft. (clumsy)  
+ **Melee** bite +27 (4d6+16 plus 2d6 cold), 2 claws +27 (2d8+11), 2 wings +25 (2d6+5), tail slap +25 (2d8+16)  
+ **Space** 20 ft.; **Reach** 15 ft. (20 ft. with bite)  
+ **Special Attacks** breath weapon (60 ft. cone, DC 26, 18d6 cold plus bull rush [Medium or smaller]), cold bite 2d6, crush, tail sweep  
+ **Spell-like Abilities** (CL 20nd):  
+
+  At-will—call lightning (DC 18), create water, obscuring mist, stinking cloud (DC 17)  
+
+ **Sorcerer Spells Known** (CL 11th)  
+
+  5th (5/day)—cloudkill (DC 20), teleport  
+ 4th (7/day)—dimension door, ice storm, lesser globe of invulnerability  
+ 3rd (7/day)—dispel magic, lightning bolt (DC 18), sleet storm, wind wall  
+ 2nd (7/day)—blur, *[cat’s grace](../../magic/spells/cats-grace.md)*, invisibility, levitate, whispering wind  
+ 1st (8/day)—chill touch, feather fall, hypnotism (DC 16), shocking grasp, unseen servant  
+ 0 (at will)—acid splash, detect magic, daze (DC 15), mage hand, message, *[open/close](../../magic/spells/open-close.md)*, ray of frost, read magic, resistance  
+
+**Statistics**
+
+ **Str** 33, **Dex** 10, **Con** 23, **Int** 20, **Wis** 21, **Cha** 20  
+ **Base Atk** +20; **CMB** +35; **CMD** 45 (49 vs. trip)  
+ **Feats** Alertness, Cleave, Flyby Attack, Great Cleave, Hover, Improved Initiative, Multiattack, Power Attack, Skill Focus (Fly), Wingover  
+ **Skills** Bluff +28, Diplomacy +28, Fly +15, Intimidate +28, Knowledge (arcana) +28, Knowledge (history) +28, Knowledge (nature) +28, Perception +32, Sense Motive +32, Spellcraft +28, Use Magic Device +28  
+ **Languages** Auran, Aquan, Common, Draconic, Giant, Sylvan  
+ **SQ** cloud form  
+
+**Special Abilities**
+
+ **Breath Weapon (Su)** A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.  
+
+ **Cold Bite (Su)** At old age, a cloud dragon’s bite deals an additional 2d6 points of cold damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.  
+
+ **Cloud Form (Su)** As a standard action, a juvenile or older cloud dragon can assume gaseous form at will, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.  
+
+ **Cloud Vision (Ex)** A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).  
+
+ **Immunity to Winds (Su)** A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.  
+  
+
+**Ecology**
+
+ **Environment** temperate and warm mountains  
+ **Organization** solitary or clan (2–5)  
+ **Treasure** triple standard

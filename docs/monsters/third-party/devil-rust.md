@@ -1,0 +1,66 @@
+# Devil, Rust
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Rust Devil (Ferrugon)&quot;,&quot;cr&quot;:&quot;12&quot;,&quot;xp&quot;:&quot;19,200&quot;,&quot;line&quot;:&quot;LE Medium outsider (devil, evil, extraplanar, lawful)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;darkvision 60 ft., detect good, see in darkness&quot;,&quot;ac&quot;:&quot;27, touch 15, flat-footed 22&quot;,&quot;hp&quot;:&quot;162 (13d10+91); regeneration 5 (good weapons, good spells, rust)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:15,&quot;Ref&quot;:13,&quot;Will&quot;:10},&quot;defense&quot;:&quot;DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 23; Weaknesses metallic&quot;,&quot;speed&quot;:&quot;30 ft., fly 60 ft. (good)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[19],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;wings&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[19],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:17,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus bleed and disease&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;iron feathers&quot;,&quot;count&quot;:4,&quot;bonuses&quot;:[18],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus disease&quot;}]],&quot;specialAttacks&quot;:&quot;bleed (1d4), disease, iron feathers, slashing wings, vainglorious whispers&quot;,&quot;rangedTouch&quot;:18,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:17,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect good&quot;,&quot;page&quot;:&quot;detect-good&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;detect thoughts&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;detect-thoughts&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;,&quot;note&quot;:&quot;self plus 50 lbs. of objects only&quot;},{&quot;name&quot;:&quot;heat metal&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;heat-metal&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;make whole&quot;,&quot;page&quot;:&quot;make-whole&quot;},{&quot;name&quot;:&quot;shatter&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;shatter&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;shrink item&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;shrink-item&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;fabricate&quot;,&quot;page&quot;:&quot;fabricate&quot;},{&quot;name&quot;:&quot;major creation&quot;,&quot;page&quot;:&quot;major-creation&quot;,&quot;note&quot;:&quot;iron objects only&quot;},{&quot;name&quot;:&quot;rusting grasp&quot;,&quot;page&quot;:&quot;rusting-grasp&quot;},{&quot;name&quot;:&quot;suggestion&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;suggestion&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;wall of iron&quot;,&quot;page&quot;:&quot;wall-of-iron&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;flesh to iron&quot;,&quot;dc&quot;:21},{&quot;name&quot;:&quot;summon&quot;,&quot;note&quot;:&quot;level 4, 1 barbed devil 50%&quot;},{&quot;name&quot;:&quot;sympathetic vibration&quot;,&quot;page&quot;:&quot;sympathetic-vibration&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Disease&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;&quot;},{&quot;name&quot;:&quot;Scarlet Tetanus&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;: Iron feather or wing—injury; save: Fort DC 23; onset: immediate; frequency 1/day; effect: 1d4 Dex damage and 1 Con drain. Each time a victim takes Dexterity damage from scarlet tetanus, there is a 50% chance its jaw muscles and joints stiffen, preventing speech and the use of spells with verbal components for 24 hours; cure: 2 consecutive saves. The save DC is Constitution-based.&quot;},{&quot;name&quot;:&quot;Flesh to Iron&quot;,&quot;type&quot;:&quot;Sp&quot;,&quot;text&quot;:&quot;This spell-like ability functions as flesh to stone, save that it transforms the victim into iron, not stone. A victim turned to iron cannot be restored by stone to flesh, but break enchantment, polymorph any object, and similar spells can restore such a victim.&quot;},{&quot;name&quot;:&quot;Iron Feathers&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;With a flick of its wings, a rust devil can hurl a volley of four razor-sharp iron feathers at up to four targets as a standard action (make an attack roll for each feather). All targets must be within 30 feet of each other.&quot;}],&quot;abilities&quot;:&quot;Str 23, Dex 20, Con 24, Int 18, Wis 19, Cha 21&quot;,&quot;combat&quot;:&quot;BAB +13; CMB +19 (+23 sunder); CMD 34 (36 vs. sunder)&quot;,&quot;checks&quot;:{&quot;Bluff&quot;:21,&quot;Disable Device&quot;:21,&quot;Fly&quot;:25,&quot;Intimidate&quot;:21,&quot;Knowledge (engineering)&quot;:20,&quot;Knowledge (history)&quot;:17,&quot;Knowledge (planes)&quot;:20,&quot;Perception&quot;:20,&quot;Profession (architect)&quot;:20,&quot;Sense Motive&quot;:20,&quot;CMB&quot;:19},&quot;feats&quot;:&quot;Combat Reflexes, Greater Sunder, Improved Critical (wing), Improved Sunder, Iron Will, Power Attack, Sundering Strike&quot;,&quot;languages&quot;:&quot;Celestial, Draconic, Infernal, Terran; telepathy 100 ft.&quot;,&quot;sq&quot;:&quot;slashing wings&quot;}"></div>
+
+## Rust Devil (Ferrugon) (CR 12)
+
+**XP** 19,200  
+LE Medium outsider (devil, evil, extraplanar, lawful)  
+**Init** +5; **Senses** darkvision 60 ft., detect good, see in darkness; Perception +20  
+
+
+**Defense**
+
+
+**AC** 27, touch 15, flat-footed 22 (+5 Dex, +12 natural)  
+**hp** 162 (13d10+91); regeneration 5 (good weapons, good spells, rust)  
+**Fort** +15, **Ref** +13, **Will** +10  
+**DR** 10/good; **Immune** fire, poison; Resist acid 10, cold 10; **SR** 23  
+**Weaknesses** metallic  
+
+
+**Offense**
+
+
+**Speed** 30 ft., fly 60 ft. (good)  
+**Melee** 2 slams +19 (1d8+6), 2 wings +19 (2d6+6/17–20 plus bleed and disease)  
+**Ranged** 4 iron feathers +18 (1d6+6/19–20 plus disease)  
+**Special Attacks** bleed (1d4), disease, iron feathers, slashing wings, vainglorious whispers  
+**Spell-Like Abilities** (CL 12th; concentration +17)  
+
+
+Constant—detect good  
+
+At will—detect thoughts (DC 17), greater teleport (self plus 50 lbs. of objects only), heat metal (DC 17), make whole, shatter (DC 17), shrink item (DC 18)  
+
+3/day—fabricate, major creation (iron objects only), rusting grasp, suggestion (DC 18), wall of iron  
+
+1/day—flesh to iron (DC 21), summon (level 4, 1 barbed devil 50%), sympathetic vibration  
+
+
+
+**Tactics**
+
+
+**During Combat** In combat, a rust devil uses walls of iron to shape the battlefield to its advantage and prefers to remain adjacent to foes so it can make full attacks on them and whisper in their ears. Against foes who wield weapons, rust devils almost always use Greater Sunder to damage weapons and foes alike. If faced with foes of particularly striking appearances (often those with a Charisma score of 15 or higher), a rust devil is likely to use its flesh to iron spell-like ability, then cast shrink item on the resulting statue to keep it as a decoration for its lair.  
+
+
+**Statistics**
+
+
+**Str** 23, **Dex** 20, **Con** 24, **Int** 18, **Wis** 19, **Cha** 21  
+**Base Atk** +13; **CMB** +19 (+23 sunder); **CMD** 34 (36 vs. sunder)  
+**Feats** Combat Reflexes, Greater Sunder, Improved Critical (wing), Improved Sunder, Iron Will, Power Attack, Sundering Strike  
+**Skills** Bluff +21, Disable Device +21, Fly +25, Intimidate +21, Knowledge (engineering) +20, Knowledge (history) +17, Knowledge (planes) +20, Perception +20, Profession (architect) +20, Sense Motive +20  
+**Languages** Celestial, Draconic, Infernal, Terran; telepathy 100 ft.  
+**SQ** slashing wings  
+
+
+**Special Abilities**
+
+
+**Disease (Ex)** **Scarlet Tetanus**: Iron feather or wing—injury; *save*: Fort DC 23; *onset*: immediate; frequency 1/day; *effect*: 1d4 Dex damage and 1 Con drain. Each time a victim takes Dexterity damage from scarlet tetanus, there is a 50% chance its jaw muscles and joints stiffen, preventing speech and the use of spells with verbal components for 24 hours; *cure*: 2 consecutive saves. The save DC is Constitution-based.  
+
+**Flesh to Iron (Sp)** This spell-like ability functions as flesh to stone, save that it transforms the victim into iron, not stone. A victim turned to iron cannot be restored by stone to flesh, but break enchantment, polymorph any object, and similar spells can restore such a victim.  
+
+**Iron Feathers (Ex)** With a flick of its wings, a rust devil can hurl a volley of four razor-sharp iron feathers at up to four targets as a standard action (make an attack roll for each feather). All targets must be within 30 feet of each other.

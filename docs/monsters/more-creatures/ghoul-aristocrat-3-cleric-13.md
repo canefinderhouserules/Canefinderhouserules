@@ -1,0 +1,66 @@
+# Ghoul Aristocrat 3/Cleric 13
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ghoul Aristocrat 3/Cleric 13&quot;,&quot;cr&quot;:&quot;14&quot;,&quot;xp&quot;:&quot;38,400&quot;,&quot;line&quot;:&quot;Female ghoul aristocrat 3/cleric 13, CE Medium undead&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;28, touch 15, flat-footed 25&quot;,&quot;hp&quot;:&quot;188 (18 HD; 2d8+16d8+103)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:9,&quot;Will&quot;:20},&quot;defense&quot;:&quot;channel resistance +4; Immune undead traits&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 wounding flail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16,11,6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;+1 bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus disease, paralysis&quot;},{&quot;name&quot;:&quot;+1 claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus paralysis&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[17],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;channel negative energy 8/day (DC 23, 7d6), disease, killing blow (6 bleed, 2/day), paralysis (1d4+1 rounds, DC 16, elves are immune to this effect), scythe of evil (6 rounds, 2/day)&quot;,&quot;rangedTouch&quot;:16,&quot;spells&quot;:[{&quot;title&quot;:&quot;Domain Spell-Like Abilities&quot;,&quot;cl&quot;:13,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;9/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleeding touch&quot;,&quot;note&quot;:&quot;6 rounds&quot;},{&quot;name&quot;:&quot;touch of evil&quot;,&quot;note&quot;:&quot;6 rounds&quot;}]}]},{&quot;title&quot;:&quot;Cleric Spells Prepared&quot;,&quot;cl&quot;:13,&quot;concentration&quot;:19,&quot;levels&quot;:[{&quot;label&quot;:&quot;7th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;destruction&quot;,&quot;dc&quot;:24,&quot;page&quot;:&quot;destruction&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;ethereal jaunt&quot;,&quot;page&quot;:&quot;ethereal-jaunt&quot;}]},{&quot;label&quot;:&quot;6th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;antilife shell&quot;,&quot;page&quot;:&quot;antilife-shell&quot;},{&quot;name&quot;:&quot;create undead&quot;,&quot;page&quot;:&quot;create-undead&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;harm&quot;,&quot;dc&quot;:23,&quot;page&quot;:&quot;harm&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;130&quot;}]},{&quot;label&quot;:&quot;5th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;plane shift&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;plane-shift&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;righteous might&quot;,&quot;page&quot;:&quot;righteous-might&quot;},{&quot;name&quot;:&quot;slay living&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;slay-living&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;suffocation&quot;,&quot;dc&quot;:22,&quot;page&quot;:&quot;suffocation&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;4th&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;divine power&quot;,&quot;page&quot;:&quot;divine-power&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;inflict critical wounds&quot;,&quot;dc&quot;:21,&quot;page&quot;:&quot;inflict-critical-wounds&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;4d8+13&quot;},{&quot;name&quot;:&quot;sending&quot;,&quot;page&quot;:&quot;sending&quot;},{&quot;name&quot;:&quot;spell immunity&quot;,&quot;page&quot;:&quot;spell-immunity&quot;},{&quot;name&quot;:&quot;unholy blight&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;unholy-blight&quot;,&quot;save&quot;:&quot;Will partial&quot;}]},{&quot;label&quot;:&quot;3rd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;animate dead&quot;,&quot;page&quot;:&quot;animate-dead&quot;},{&quot;name&quot;:&quot;bestow curse&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;deeper darkness&quot;,&quot;page&quot;:&quot;deeper-darkness&quot;},{&quot;name&quot;:&quot;dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic&quot;},{&quot;name&quot;:&quot;inflict serious wounds&quot;,&quot;dc&quot;:20,&quot;page&quot;:&quot;inflict-serious-wounds&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;3d8+13&quot;},{&quot;name&quot;:&quot;magic circle against good&quot;,&quot;page&quot;:&quot;magic-circle-against-good&quot;}]},{&quot;label&quot;:&quot;2nd&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bull’s strength&quot;,&quot;page&quot;:&quot;bulls-strength&quot;},{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;desecrate&quot;,&quot;page&quot;:&quot;desecrate&quot;},{&quot;name&quot;:&quot;eagle’s splendor&quot;,&quot;page&quot;:&quot;eagles-splendor&quot;},{&quot;name&quot;:&quot;inflict moderate wounds&quot;,&quot;dc&quot;:19,&quot;page&quot;:&quot;inflict-moderate-wounds&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;2d8+10&quot;},{&quot;name&quot;:&quot;shatter&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;shatter&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;spiritual weapon&quot;,&quot;page&quot;:&quot;spiritual-weapon&quot;}]},{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bane&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;bane&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;cause fear&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;cause-fear&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;deathwatch&quot;,&quot;page&quot;:&quot;deathwatch&quot;},{&quot;name&quot;:&quot;divine favor&quot;,&quot;page&quot;:&quot;divine-favor&quot;},{&quot;name&quot;:&quot;inflict light wounds&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;inflict-light-wounds&quot;,&quot;save&quot;:&quot;Will half&quot;,&quot;damage&quot;:&quot;1d8+5&quot;},{&quot;name&quot;:&quot;obscuring mist&quot;,&quot;page&quot;:&quot;obscuring-mist&quot;},{&quot;name&quot;:&quot;shield of faith&quot;,&quot;page&quot;:&quot;shield-of-faith&quot;}]},{&quot;label&quot;:&quot;0 (at will)&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;bleed&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;bleed&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;detect magic&quot;,&quot;page&quot;:&quot;detect-magic&quot;},{&quot;name&quot;:&quot;guidance&quot;,&quot;page&quot;:&quot;guidance&quot;},{&quot;name&quot;:&quot;read magic&quot;,&quot;page&quot;:&quot;read-magic&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Permanent Spells&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;Her natural attacks benefit from a permanent greater magic fang spell. &lt;div&quot;}],&quot;abilities&quot;:&quot;Str 16, Dex 18, Con—, Int 13, Wis 22, Cha 20&quot;,&quot;combat&quot;:&quot;BAB +12; CMB +15 (+19 to trip); CMD 31 (33 vs. trip)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:10,&quot;Climb&quot;:10,&quot;Diplomacy&quot;:10,&quot;Disguise&quot;:10,&quot;Knowledge (history)&quot;:10,&quot;Knowledge (nobility)&quot;:5,&quot;Knowledge (planes)&quot;:10,&quot;Knowledge (religion)&quot;:20,&quot;Linguistics&quot;:5,&quot;Perception&quot;:10,&quot;Sense Motive&quot;:10,&quot;Spellcraft&quot;:10,&quot;Stealth&quot;:10,&quot;CMB&quot;:15},&quot;feats&quot;:&quot;Civilized Ghoulishness, Combat Expertise, Command Undead, Greater Trip, Improved Channel, Improved Critical (flail), Improved Trip, Selective Channeling, Spell Focus (necromancy)&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Necril, +1 additional&quot;,&quot;sq&quot;:&quot;aura, permanent spells&quot;,&quot;gear&quot;:&quot;screaming bolts (2), scrolls of dispel magic, scroll of magic circle against good, scroll of invisibility purge (on caster’s shield)&quot;}"></div>
+
+## Ghoul Aristocrat 3/Cleric 13 (CR 14)
+
+**XP** 38,400  
+Female ghoul aristocrat 3/cleric 13  
+CE Medium undead  
+**Init** +4; **Senses** darkvision 60 ft.; Perception +10  
+
+
+**Defense**
+
+
+**AC** 28, touch 15, flat-footed 25 (+9 armor, +2 deflection, +3 Dex, +2 natural, +2 shield)  
+**hp** 188 (18 HD; 2d8+16d8+103)  
+**Fort** +14, **Ref** +9, **Will** +20  
+**Defensive Abilities** channel resistance +4; **Immune** undead traits  
+
+
+**Offense**
+
+
+**Speed** 20 ft.  
+**Melee** +1 wounding flail +16/+11/+6 (1d8+4/19–20) or +1 bite +16 (1d6+4 plus disease, paralysis), 2 +1 claws +16 (1d4+4 plus paralysis)  
+**Ranged** +1 light crossbow +17 (1d8+1/19–20)  
+**Special Attacks** channel negative energy 8/day (DC 23, 7d6), disease, killing blow (6 bleed, 2/day), paralysis (1d4+1 rounds, DC 16, elves are immune to this effect), scythe of evil (6 rounds, 2/day)  
+**Domain Spell-Like Abilities** (CL 13th; concentration +19)  
+
+9/day—bleeding touch (6 rounds), touch of evil (6 rounds)  
+
+**Cleric Spells Prepared** (CL 13th; concentration +19)  
+
+7th—destructionD (DC 24), ethereal jaunt  
+6th—antilife shell, create undeadD, greater dispel magic, harm (DC 23)  
+5th—plane shift (DC 21), righteous might, slay living (DC 22), suffocationD (DC 22), true seeing  
+4th—divine power, freedom of movement, inflict critical wounds (DC 21), sending, spell immunity, unholy blightD (DC 20)  
+3rd—animate dead, bestow curse (DC 20), deeper darkness, dispel magic, inflict serious wounds (DC 20), magic circle against goodD  
+2nd—bull’s strength, death knellD (DC 19), desecrate, eagle’s splendor, inflict moderate wounds (DC 19), shatter (DC 18), spiritual weapon  
+1st—bane (DC 17), cause fearD (DC 18), deathwatch, divine favor, inflict light wounds (DC 18), obscuring mist, shield of faith  
+0 (at will)—bleed (DC 17), detect magic, guidance, read magic  
+
+**D** Domain spell; **Domains** Death (Murder subdomain), Evil  
+
+
+**Statistics**
+
+
+**Str** 16, **Dex** 18, Con—, **Int** 13, **Wis** 22, **Cha** 20  
+**Base Atk** +12; **CMB** +15 (+19 to trip); **CMD** 31 (33 vs. trip)  
+**Feats** Civilized Ghoulishness, Combat Expertise, Command Undead, Greater Trip, Improved Channel, Improved Critical (flail), Improved Trip, Selective Channeling, Spell Focus (necromancy)  
+**Skills** Acrobatics +10 (+6 jump), Climb +10, Diplomacy +10, Disguise +10 (+20 to appear human), Knowledge (history) +10, Knowledge (nobility) +5, Knowledge (planes) +10, Knowledge (religion) +20, Linguistics +5, Perception +10, Sense Motive +10, Spellcraft +10, Stealth +10  
+**Languages** Abyssal, Common, Necril, +1 additional  
+**SQ** aura, permanent spells  
+**Combat Gear** screaming bolts (2), scrolls of dispel magic, scroll of magic circle against good, scroll of invisibility purge (on caster’s shield); **Other Gear** +3 breastplate, caster’s shield, +1 light crossbow with 20 bolts, +1 wounding flail, headband of mental prowess (Cha and Wis) +2, ring of protection +2, unholy symbol of the demon lord of ghouls, 91 gp  
+**PC Gear** +265,500 gp  
+
+
+**Special Abilities**
+
+
+**Permanent Spells** Her natural attacks benefit from a permanent greater magic fang spell.  
+
+
+<div

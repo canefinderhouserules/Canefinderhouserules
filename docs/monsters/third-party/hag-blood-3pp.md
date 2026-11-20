@@ -1,0 +1,44 @@
+# Hag, Blood (3pp)
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Blood Hag&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;CE Medium monstrous humanoid&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;blood sense 90 ft., darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;24, touch 13, flat-footed 21&quot;,&quot;hp&quot;:&quot;114 (12d10+48)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:10,&quot;Ref&quot;:11,&quot;Will&quot;:15},&quot;defense&quot;:&quot;DR 10/magic; SR 20&quot;,&quot;speed&quot;:&quot;30 ft., climb 30 ft.; space 5 ft., reach 5 ft. (10 ft. with blood-drinking hair)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;blood-drinking hair&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[17],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;},{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[17],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;blood drain (1d4 Constitution), call the blood, face peel&quot;,&quot;rangedTouch&quot;:15,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:12,&quot;concentration&quot;:15,&quot;levels&quot;:[{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;death knell&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;death-knell&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;deathwatch&quot;,&quot;page&quot;:&quot;deathwatch&quot;},{&quot;name&quot;:&quot;disguise self&quot;,&quot;page&quot;:&quot;disguise-self&quot;},{&quot;name&quot;:&quot;ghost sound&quot;,&quot;dc&quot;:13,&quot;page&quot;:&quot;ghost-sound&quot;,&quot;save&quot;:&quot;Will disbelief&quot;},{&quot;name&quot;:&quot;invisibility&quot;,&quot;dc&quot;:15,&quot;page&quot;:&quot;invisibility&quot;,&quot;save&quot;:&quot;Will negates (harmless) or Will negates (harmless, object)&quot;},{&quot;name&quot;:&quot;knock&quot;,&quot;page&quot;:&quot;knock&quot;},{&quot;name&quot;:&quot;pass without trace&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;pass-without-trace&quot;,&quot;save&quot;:&quot;Will negates (harmless)&quot;},{&quot;name&quot;:&quot;protection from good&quot;,&quot;page&quot;:&quot;protection-from-good&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;},{&quot;name&quot;:&quot;ventriloquism&quot;,&quot;dc&quot;:14,&quot;page&quot;:&quot;ventriloquism&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;water breathing&quot;,&quot;page&quot;:&quot;water-breathing&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;quickened bestow curse&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;bestow-curse&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;mirror image&quot;,&quot;page&quot;:&quot;mirror-image&quot;},{&quot;name&quot;:&quot;empowered vampiric touch&quot;,&quot;dc&quot;:16,&quot;page&quot;:&quot;vampiric-touch&quot;,&quot;damage&quot;:&quot;floor(1.5*(6d6))&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;cloudkill&quot;,&quot;dc&quot;:18,&quot;page&quot;:&quot;cloudkill&quot;,&quot;save&quot;:&quot;Fortitude partial&quot;},{&quot;name&quot;:&quot;modify memory&quot;,&quot;dc&quot;:17,&quot;page&quot;:&quot;modify-memory&quot;,&quot;save&quot;:&quot;Will negates&quot;}]}]}],&quot;special&quot;:[{&quot;name&quot;:&quot;Blood Drain&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A blood hag’s hair is a morass of disgusting worms, ever thirsty for fresh blood. Foes struck suffer them burrowing into flesh and drinking deep, inflicting 1d4 Constitution damage. Blood hags heal 5 hp or gain 5 temporary hp for 1 hour (up to a maximum number of temporary hp equal to its normal full hp) each round it drains blood.&quot;},{&quot;name&quot;:&quot;Blood Sense&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A blood hag can detect the blood of living creatures within 90 ft. and pinpoint their locations within 30 ft.&quot;},{&quot;name&quot;:&quot;Call the Blood&quot;,&quot;type&quot;:&quot;Su&quot;,&quot;text&quot;:&quot;A blood hag may target a living creature within 60 ft. that she detects with her blood sense (she need not have line of sight) and makes them bleed uncontrollably. A DC 19 Will save (Charisma-based) negates this ability, and anyone making their save cannot be affected by that blood hag’s call the blood ability again for 24 hours. The hag may choose any of the following effects.&quot;}],&quot;abilities&quot;:&quot;Str 20, Dex 16, Con 18, Int 19, Wis 21, Cha 17&quot;,&quot;combat&quot;:&quot;BAB +12; CMB +17 (+21 grapple); CMD 30&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:12,&quot;Bluff&quot;:14,&quot;Climb&quot;:20,&quot;Diplomacy&quot;:13,&quot;Disguise&quot;:17,&quot;Intimidate&quot;:15,&quot;Knowledge (arcana)&quot;:12,&quot;Perception&quot;:20,&quot;Sense Motive&quot;:13,&quot;Spellcraft&quot;:13,&quot;Stealth&quot;:14,&quot;CMB&quot;:17},&quot;feats&quot;:&quot;Deceitful, Empower Spell-Like Ability (vampiric touch), Great Fortitude, Iron Will, Power Attack, Quicken Spell-Like Ability (bestow curse)&quot;,&quot;languages&quot;:&quot;Abyssal, Common, Giant, Infernal, Sylvan&quot;}"></div>
+
+## Blood Hag (CR 9)
+
+**XP** 6,400  
+ CE Medium monstrous humanoid  
+ **Init** +3; **Senses** blood sense 90 ft., darkvision 60 ft.; Perception +20  
+
+**Defense**
+
+ **AC** 24, touch 13, flat-footed 21 (+3 Dex, +11 natural)  
+ **hp** 114 (12d10+48)  
+ **Fort** +10, **Ref** +11, **Will** +15  
+ **DR** 10/magic; **SR** 20  
+
+**Offense**
+
+ **Speed** 30 ft., climb 30 ft.  
+ **Melee** blood-drinking hair +17 (2d6+5 plus grab), 2 claws +17 (1d6+5)  
+ **Space** 5 ft.; **Reach** 5 ft. (10 ft. with blood-drinking hair)  
+ **Special Attacks** blood drain (1d4 Constitution), call the blood, face peel  
+ **Spell-Like Abilities** (CL 12th; concentration +15)  
+
+  At will—death knell (DC 16), deathwatch, disguise self, ghost sound (DC 13), invisibility (DC 15), knock, pass without trace (DC 14), protection from good, tongues, ventriloquism (DC 14), water breathing  
+ 3/day—quickened bestow curse (DC 16), mirror image, empowered vampiric touch (DC 16)  
+ 1/day— cloudkill (DC 18), modify memory (DC 17)  
+
+**Statistics**
+
+ **Str** 20, **Dex** 16, **Con** 18, **Int** 19, **Wis** 21, **Cha** 17  
+ **Base Atk** +12; **CMB** +17 (+21 grapple); **CMD** 30  
+ **Feats** Deceitful, Empower Spell-Like Ability (vampiric touch), Great Fortitude, Iron Will, Power Attack, Quicken Spell-Like Ability (bestow curse)  
+ **Skills** Acrobatics +12, Bluff +14, Climb +20, Diplomacy +13, Disguise +17, Intimidate +15, Knowledge (arcana) +12, Perception +20, Sense Motive +13, Spellcraft +13, Stealth +14  
+ **Languages** Abyssal, Common, Giant, Infernal, Sylvan  
+
+**Special Abilities**
+
+ **Blood Drain (Su)** A blood hag’s hair is a morass of disgusting worms, ever thirsty for fresh blood. Foes struck suffer them burrowing into flesh and drinking deep, inflicting 1d4 Constitution damage. Blood hags heal 5 hp or gain 5 temporary hp for 1 hour (up to a maximum number of temporary hp equal to its normal full hp) each round it drains blood.  
+
+ **Blood Sense (Su)** A blood hag can detect the blood of living creatures within 90 ft. and pinpoint their locations within 30 ft.  
+
+ **Call the Blood (Su)** A blood hag may target a living creature within 60 ft. that she detects with her blood sense (she need not have line of sight) and makes them bleed uncontrollably. A DC 19 Will save (Charisma-based) negates this ability, and anyone making their save cannot be affected by that blood hag’s call the blood ability again for 24 hours. The hag may choose any of the following effects.

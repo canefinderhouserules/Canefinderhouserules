@@ -1,0 +1,37 @@
+# Devil, Infernal Duke
+
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;The Infernal Duke&quot;,&quot;cr&quot;:&quot;25&quot;,&quot;xp&quot;:&quot;1,638,400&quot;,&quot;line&quot;:&quot;LE Medium outsider (devil, evil, extraplanar, lawful)&quot;,&quot;init&quot;:11,&quot;senses&quot;:&quot;darkvision 60 ft., true seeing&quot;,&quot;ac&quot;:&quot;45, touch 29, flat-footed 33&quot;,&quot;hp&quot;:&quot;560 (32d10+384); regeneration 5 (good weapons or spells)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:26,&quot;Ref&quot;:31,&quot;Will&quot;:30},&quot;defense&quot;:&quot;evasion; DR 20/good and silver; Immune fire, poison; Resist acid 30, cold 30; SR 36&quot;,&quot;aura&quot;:&quot;unholy aura&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[44],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1 Int drain) or+2 quarterstaff +40/+35/+30/+25 (1d6+11 plus 1 intelligence drain&quot;}]],&quot;specialAttacks&quot;:&quot;intelligence drain, scholastic masquerade, spell reservoir&quot;,&quot;rangedTouch&quot;:0,&quot;spells&quot;:[{&quot;title&quot;:&quot;Spell-Like Abilities&quot;,&quot;cl&quot;:25,&quot;concentration&quot;:38,&quot;levels&quot;:[{&quot;label&quot;:&quot;Constant&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;mind blank&quot;,&quot;page&quot;:&quot;mind-blank&quot;},{&quot;name&quot;:&quot;tongues&quot;,&quot;page&quot;:&quot;tongues&quot;},{&quot;name&quot;:&quot;true seeing&quot;,&quot;page&quot;:&quot;true-seeing&quot;}]},{&quot;label&quot;:&quot;At will&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;alter self&quot;,&quot;page&quot;:&quot;alter-self&quot;},{&quot;name&quot;:&quot;blasphemy&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;blasphemy&quot;,&quot;save&quot;:&quot;Will partial&quot;},{&quot;name&quot;:&quot;dominate person&quot;,&quot;dc&quot;:28,&quot;page&quot;:&quot;dominate-person&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;freedom of movement&quot;,&quot;page&quot;:&quot;freedom-of-movement&quot;},{&quot;name&quot;:&quot;greater arcane sight&quot;,&quot;page&quot;:&quot;arcane-sight-greater&quot;},{&quot;name&quot;:&quot;greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;greater invisibility&quot;,&quot;page&quot;:&quot;invisibility-greater&quot;},{&quot;name&quot;:&quot;greater scrying&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;scrying-greater&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;greater shadow conjuration&quot;,&quot;dc&quot;:30,&quot;page&quot;:&quot;shadow-conjuration-greater&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;greater shadow evocation&quot;,&quot;dc&quot;:31,&quot;page&quot;:&quot;shadow-evocation-greater&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;greater teleport&quot;,&quot;page&quot;:&quot;teleport-greater&quot;},{&quot;name&quot;:&quot;mass suggestion&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;suggestion-mass&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;programmed image&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;programmed-image&quot;,&quot;save&quot;:&quot;Will disbelief (if interacted with)&quot;},{&quot;name&quot;:&quot;unholy aura&quot;,&quot;dc&quot;:31,&quot;page&quot;:&quot;unholy-aura&quot;}]},{&quot;label&quot;:&quot;3/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;banishment&quot;,&quot;dc&quot;:29,&quot;page&quot;:&quot;banishment&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;quickened greater dispel magic&quot;,&quot;page&quot;:&quot;dispel-magic-greater&quot;},{&quot;name&quot;:&quot;empowered horrid wilting&quot;,&quot;dc&quot;:31,&quot;page&quot;:&quot;horrid-wilting&quot;,&quot;save&quot;:&quot;Fortitude half&quot;,&quot;damage&quot;:&quot;floor(1.5*(20d6))&quot;},{&quot;name&quot;:&quot;polymorph any object&quot;,&quot;dc&quot;:31,&quot;page&quot;:&quot;polymorph-any-object&quot;,&quot;save&quot;:&quot;Fortitude negates (object)&quot;},{&quot;name&quot;:&quot;spell turning&quot;,&quot;page&quot;:&quot;spell-turning&quot;}]},{&quot;label&quot;:&quot;1/day&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;dominate monster&quot;,&quot;dc&quot;:32,&quot;page&quot;:&quot;dominate-monster&quot;,&quot;save&quot;:&quot;Will negates&quot;},{&quot;name&quot;:&quot;limited wish&quot;,&quot;page&quot;:&quot;limited-wish&quot;},{&quot;name&quot;:&quot;mage’s disjunction&quot;,&quot;dc&quot;:32,&quot;page&quot;:&quot;mages-disjunction&quot;,&quot;save&quot;:&quot;Will negates (object)&quot;},{&quot;name&quot;:&quot;prismatic sphere&quot;,&quot;page&quot;:&quot;prismatic-sphere&quot;},{&quot;name&quot;:&quot;time stop&quot;,&quot;page&quot;:&quot;time-stop&quot;}]}]}],&quot;checks&quot;:{&quot;Perception&quot;:43,&quot;CMB&quot;:0}}"></div>
+
+## The Infernal Duke (CR 25)
+
+**XP** 1,638,400  
+LE Medium outsider (devil, evil, extraplanar, lawful)  
+**Init** +11; **Senses** darkvision 60 ft., true seeing; Perception +43; **Aura** unholy aura  
+
+
+**Defense**
+
+
+**AC** 45, touch 29, flat-footed 33 (+6 armor, +5 deflection, +11 Dex, +1 dodge, +2 luck, +10 natural)  
+**hp** 560 (32d10+384); regeneration 5 (good weapons or spells)  
+**Fort** +26, **Ref** +31, **Will** +30  
+**Defensive Abilities** evasion; **DR** 20/good and silver; **Immune** fire, poison; **Resist** acid 30, cold 30; **SR** 36  
+
+
+**Offense**
+
+
+**Speed** 30 ft.  
+**Melee** 2 claws +44 (1d6+6 plus 1 Int drain) or+2 quarterstaff +40/+35/+30/+25 (1d6+11 plus 1 intelligence drain)  
+**Special Attacks** intelligence drain, scholastic masquerade, spell reservoir  
+**Spell-Like Abilities** (CL 25th; concentration +38)  
+
+
+Constant—mind blank, tongues, true seeing  
+At will—alter self, blasphemy (DC 30), dominate person (DC 28), freedom of movement, greater arcane sight, greater dispel magic, greater invisibility, greater scrying (DC 30), greater shadow conjuration (DC 30), greater shadow evocation (DC 31), greater teleport, mass suggestion (DC 29), programmed image (DC 29), unholy aura (DC 31)  
+3/day—banishment (DC 29), quickened greater dispel magic, empowered horrid wilting (DC 31), polymorph any object (DC 31), spell turning  
+1/day—dominate monster (DC 32), limited wish, mage’s disjunction (DC 32), prismatic sphere, time stop  
+
+
+
+**Statistics**
