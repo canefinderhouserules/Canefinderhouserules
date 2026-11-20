@@ -17,8 +17,9 @@ Open the character's **Bio & Info** tab and keep the window beside the map: the 
 - **Attacks**: each attack rolls the attack, damage and any rider, a critical confirmation and critical damage. Creatures with several attacks also get **Full attack**, which rolls every attack, including each of "2 claws" and each iterative attack.
 - **Init** rolls initiative and adds the selected token to the turn order.
 - **Saves and checks** roll the listed bonus.
-- **Spells and spell-like abilities** post the spell's DC and save. Common attack spells also roll their damage for the caster level, and rays roll a ranged touch attack for each ray. The arrow (↗) opens the spell's page on this site.
-- **Special attacks and special abilities**: **Show** posts the ability's text, with any dice in it rolled.
+- **Spells and spell-like abilities** post the spell's DC and save, and what it does at the creature's caster level: damage and healing dice (fireball, poison's Constitution damage, cure serious wounds), bonuses that grow with level (shield of faith, barkskin, divine favor), checks (dispel magic) and the duration. Rays roll a ranged touch attack for each ray and touch spells (inflict wounds, poison, shocking grasp) a melee touch attack. The arrow (↗) opens the spell's page on this site.
+- **Special attacks**: each one is its own button, so using one (channel energy, a breath weapon) shows the players only that one, with its dice rolled.
+- **Special abilities**: **Show** posts the ability's text, with any dice in it rolled.
 
 ## Buffs and conditions
 

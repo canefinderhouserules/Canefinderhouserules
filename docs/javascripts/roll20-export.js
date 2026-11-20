@@ -107,9 +107,13 @@
       else if (s.save) parts.push(s.save);
       for (var i = 1; i <= (s.touch ? (s.rays || 1) : 0); i++)
         parts.push((s.rays > 1 ? 'ray ' + i + ' ' : '') + 'ranged touch [[1d20' + sgn(touch) + atkMod(true) + ']]' + (s.damage ? ' damage [[' + s.damage + ']]' : ''));
+      // melee touch spells (inflict wounds, poison, shocking grasp): melee touch attack, then the effect
+      if (s.melee && m.meleeTouch != null) parts.push('melee touch [[1d20' + sgn(m.meleeTouch) + atkMod(false) + ']]');
       if (s.damage && !s.touch) parts.push((s.damageLabel || 'damage') + ' [[' + s.damage + ']]');
-      if (s.note) parts.push(s.note);
-      if (s.effect) parts.push(s.effect);
+      if (s.heal) parts.push('heals [[' + s.heal + ']]');
+      if (s.note) parts.push(/^\d+$/.test(s.note) ? 'prepared ' + s.note + ' times' : rollDice(s.note));
+      if (s.effect) parts.push(s.effect); // dice in it are already [[rolls]]
+      if (s.duration) parts.push('duration ' + s.duration);
       var name = s.name.charAt(0).toUpperCase() + s.name.slice(1);
       var slug = s.page || (s.page === undefined && m.attacks ? s.name.toLowerCase().replace(/['’]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') : '');
       return link(s.name, '/em casts ' + name + (parts.length ? ': ' + parts.join(', ') : '')) +
@@ -123,6 +127,22 @@
       }).join(''));
     });
     var showRow = function (label, name, text) { return row(label, link('Show', '/em ' + name + ': ' + rollDice(text)) + ' ' + esc(text)); };
+    // special attacks: one button each, so using one (channel energy, a breath weapon) does not show the players the rest
+    var specialAttackRow = function (text) {
+      var parts = [], depth = 0, cur = '';
+      for (var i = 0; i < text.length; i++) {
+        var c = text.charAt(i);
+        if (c === '(' || c === '[') depth++;
+        if (c === ')' || c === ']') depth = Math.max(0, depth - 1);
+        if (depth === 0 && (c === ',' || c === ';')) { if (cur.trim()) parts.push(cur.trim()); cur = ''; continue; }
+        cur += c;
+      }
+      if (cur.trim()) parts.push(cur.trim());
+      // the button shows the whole entry ("channel negative energy 4d6 (DC 14) 4/day"); its dice roll in chat
+      return row('Special Attacks', parts.map(function (p) {
+        return link(p, '/em ' + rollDice(p.charAt(0).toUpperCase() + p.slice(1)));
+      }).join(', '));
+    };
     var specialRows = (m.special || []).map(function (s) {
       var rolls = (s.rolls || []).map(function (r) { return r[0] + ' [[' + r[1] + ']]'; });
       if (rolls.length) return row(s.name + (s.type ? ' (' + s.type + ')' : ''), link('Show', '/em ' + s.name + ': ' + s.text + ' - ' + rolls.join(', ')) + ' ' + esc(s.text));
@@ -136,7 +156,7 @@
       row('AC', esc(m.ac)) + row('hp', esc(m.hp)) + row('Speed', esc(m.speed)) +
       (m.defense ? row('Defense', esc(m.defense)) : '') +
       (attackLines.length ? row('Attacks', attackLines.join('<br>')) : '') +
-      (m.specialAttacks ? showRow('Special Attacks', 'Special attacks', m.specialAttacks) : '') +
+      (m.specialAttacks ? specialAttackRow(m.specialAttacks) : '') +
       row('Rolls', [roll('Init', m.init, 'Init', ' &{tracker}')].concat(saves).join(' &nbsp; ') + (m.saveNote ? ' <small>' + esc(m.saveNote) + '</small>' : '')) +
       (checks.length ? row('Checks', checks.join(' &nbsp; ')) : '') +
       spellRows.join('') + specialRows.join('') +

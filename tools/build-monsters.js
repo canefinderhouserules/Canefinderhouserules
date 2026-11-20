@@ -108,40 +108,8 @@ function spellSlug(name) {
   return null;
 }
 
-// damage of common attack spells at a caster level (formulas as written on the wiki's spell pages; magic missile is
-// the house 1d4+2 per missile). touch: rolls a ranged touch attack per ray; melee touch spells show damage only.
-const perCL = (die, max) => cl => Math.min(cl, max) + die;
-const SPELL_ROLLS = {
-  'fireball': { damage: perCL('d6', 10) }, 'lightning-bolt': { damage: perCL('d6', 10) }, 'cone-of-cold': { damage: perCL('d6', 15) },
-  'burning-hands': { damage: perCL('d4', 5) }, 'shocking-grasp': { damage: perCL('d6', 5) }, 'flame-strike': { damage: perCL('d6', 15) },
-  'chain-lightning': { damage: perCL('d6', 20) }, 'horrid-wilting': { damage: perCL('d6', 20) }, 'delayed-blast-fireball': { damage: perCL('d6', 20) },
-  'fire-storm': { damage: perCL('d6', 20) }, 'polar-ray': { damage: perCL('d6', 25), touch: true },
-  'disintegrate': { damage: cl => Math.min(2 * cl, 40) + 'd6', touch: true, note: 'Fort save: 5d6 instead' },
-  'searing-light': { damage: cl => Math.max(1, Math.min(Math.floor(cl / 2), 5)) + 'd8', touch: true },
-  'vampiric-touch': { damage: cl => Math.max(1, Math.min(Math.floor(cl / 2), 10)) + 'd6' },
-  'chill-touch': { damage: () => '1d6' }, 'acid-splash': { damage: () => '1d3', touch: true }, 'ray-of-frost': { damage: () => '1d3', touch: true },
-  'produce-flame': { damage: cl => '1d6+' + Math.min(cl, 5) },
-  'inflict-light-wounds': { damage: cl => '1d8+' + Math.min(cl, 5) }, 'inflict-moderate-wounds': { damage: cl => '2d8+' + Math.min(cl, 10) },
-  'inflict-serious-wounds': { damage: cl => '3d8+' + Math.min(cl, 15) }, 'inflict-critical-wounds': { damage: cl => '4d8+' + Math.min(cl, 20) },
-  'magic-missile': { damage: cl => { const n = Math.min(5, 1 + Math.floor((cl - 1) / 2)); return n + 'd4+' + 2 * n; }, label: cl => 'force damage, ' + Math.min(5, 1 + Math.floor((cl - 1) / 2)) + ' missiles' },
-  'scorching-ray': { damage: () => '4d6', touch: true, rays: cl => (cl >= 11 ? 3 : cl >= 7 ? 2 : 1) },
-  'ray-of-enfeeblement': { damage: cl => '1d6+' + Math.min(Math.floor(cl / 2), 5), touch: true, note: 'damage is the Strength penalty' },
-  'sound-burst': { damage: () => '1d8' }, 'ice-storm': { damage: () => '3d6+2d6' }, 'flaming-sphere': { damage: () => '3d6' },
-  'harm': { damage: cl => String(Math.min(10 * cl, 150)) }, 'finger-of-death': { damage: cl => String(10 * cl), note: 'Fort save: 3d6+' + 'CL instead' },
-  'call-lightning': { damage: cl => Math.min(3 + Math.max(0, Math.floor((cl - 5) / 2)), 10) + 'd6' },
-};
-function spellRoll(s, slug, cl) {
-  const r = SPELL_ROLLS[slug];
-  if (!r || !cl) return;
-  s.damage = r.damage(cl);
-  if (r.touch) s.touch = true;
-  if (r.rays) s.rays = r.rays(cl);
-  if (r.label) s.damageLabel = r.label(cl);
-  if (r.note) s.effect = r.note.replace('CL', cl);
-  // metamagic on the stat block line: maximized = top of every die, empowered = half again
-  if (/^maximized\b/i.test(s.name)) s.damage = String(s.damage.split('+').reduce((t, p) => { const d = p.match(/^(\d+)d(\d+)$/); return t + (d ? d[1] * d[2] : +p); }, 0));
-  else if (/^empowered\b/i.test(s.name)) s.damage = 'floor(1.5*(' + s.damage + '))';
-}
+// damage, healing, bonuses and duration of each spell at the caster level: tools/spell-rolls.js
+const { spellRoll } = require('./spell-rolls.js');
 
 // setting names: the wiki names Golarion's own deities by portfolio (mythological names such as Asmodeus stay)
 const DEITIES = {
@@ -407,6 +375,8 @@ function parseBlock(html, source) {
   const fort = field(lines, 'Fort'), ref = field(lines, 'Ref'), will = field(lines, 'Will');
   const stats = field(lines, 'Str') ? lines.filter(l => /^(Str|Dex|Con|Int|Wis|Cha)$/.test(l.label)).map(l => l.label + ' ' + l.text.replace(/,\s*$/, '')).join(', ') : '';
   const dex = num((lines.find(l => l.label === 'Dex') || {}).text || '10');
+  const strText = (lines.find(l => l.label === 'Str') || {}).text || '10';
+  const str = /\d/.test(strText) ? num(strText) : dex; // no Strength (incorporeal): Dexterity
   const bab = num(field(lines, 'Base Atk'));
   const def = ['Defensive Abilities', 'DR', 'Immune', 'Resist', 'SR', 'Weaknesses'].map(k => field(lines, k) ? (k === 'Defensive Abilities' ? '' : k + ' ') + field(lines, k) : '').filter(Boolean).join('; ');
   const melee = parseAttacks(field(lines, 'Melee'), 'Melee');
@@ -431,6 +401,8 @@ function parseBlock(html, source) {
     melee, ranged,
     specialAttacks: numberConditions(field(lines, 'Special Attacks')),
     rangedTouch: bab + Math.floor((dex - 10) / 2) + (SIZE_MOD[size] || 0),
+    // Strength, or Dexterity with Weapon Finesse when it is higher
+    meleeTouch: bab + Math.floor(((/Weapon Finesse/.test(field(lines, 'Feats')) ? Math.max(str, dex) : str) - 10) / 2) + (SIZE_MOD[size] || 0),
     spells: parseSpellBlocks(lines),
     special: parseSpecials(html),
     abilities: stats,
