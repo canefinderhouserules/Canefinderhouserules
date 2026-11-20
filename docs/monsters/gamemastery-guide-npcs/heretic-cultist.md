@@ -24,8 +24,8 @@ NE Medium humanoid
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 6/day—rebuke death (1d4+1), touch of evil (1 round)  
 **Cleric Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*cure moderate wounds*D, *death knell* (DC 14), *hold person* (DC 14)  
-1st—*bane* (DC 13), *cause fear* (DC 13), *cure light wounds*D, *doom* (DC 13)  
+2nd—*cure moderate wounds*<sup>D</sup>, *death knell* (DC 14), *hold person* (DC 14)  
+1st—*bane* (DC 13), *cause fear* (DC 13), *cure light wounds*<sup>D</sup>, *doom* (DC 13)  
 0 (at will)—*bleed* (DC 12), *guidance*, *light*, *resistance*  
 **D** domain spell; **Domains** Evil, Healing
 

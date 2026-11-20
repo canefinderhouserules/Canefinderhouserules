@@ -25,13 +25,13 @@ N Small humanoid (gnome)
 **Spell-Like Abilities** (CL 14th; concentration +20)  
 9/day—bit of luck, resistant touch  
 **Cleric Spells Prepared** (CL 14th; concentration +20)  
-7th—*destruction* (DC 23), *repulsion*D (DC 23), *summon monster VII*  
-6th—*antilife shell*, *antimagic field*D, *banishment* (DC 22), *blade barrier* (DC 22), *greater dispel magic*  
-5th—*breath of life*, *greater command* (DC 21), *mark of justice*, *spell resistance*D, *wall of stone*  
-4th—*air walk*, *death ward*, *freedom of movement*D, *neutralize poison*, *order’s wrath* (DC 20), *repel vermin*  
-3rd—*bestow curse* (DC 19), *blindness/deafness* (DC 19), *glyph of warding* (2), *invisibility purge*, *protection from energy*D (DC 19)  
-2nd—*bear’s endurance*, *delay poison* (DC 18), *hold person* (2, DC 18), *remove paralysis*, *shield other*D  
-1st—*cause fear* (2, DC 17), *command* (DC 17), *divine favor*, *entropic shield*, *sanctuary* (DC 17), *true strike*D  
+7th—*destruction* (DC 23), *repulsion*<sup>D</sup>(DC 23), *summon monster VII*  
+6th—*antilife shell*, *antimagic field*<sup>D</sup>, *banishment* (DC 22), *blade barrier* (DC 22), *greater dispel magic*  
+5th—*breath of life*, *greater command* (DC 21), *mark of justice*, *spell resistance*<sup>D</sup>, *wall of stone*  
+4th—*air walk*, *death ward*, *freedom of movement*<sup>D</sup>, *neutralize poison*, *order’s wrath* (DC 20), *repel vermin*  
+3rd—*bestow curse* (DC 19), *blindness/deafness* (DC 19), *glyph of warding* (2), *invisibility purge*, *protection from energy*<sup>D</sup>(DC 19)  
+2nd—*bear’s endurance*, *delay poison* (DC 18), *hold person* (2, DC 18), *remove paralysis*, *shield other*<sup>D</sup>  
+1st—*cause fear* (2, DC 17), *command* (DC 17), *divine favor*, *entropic shield*, *sanctuary* (DC 17), *true strike*<sup>D</sup>  
 0 (at will)—*create water*, *detect poison*, *mending*, *read magic*  
 **D** Domain spell; **Domains** Luck, Protection
 

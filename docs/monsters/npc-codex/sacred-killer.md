@@ -25,7 +25,7 @@ NE Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 1st; concentration +2)  
 4/day—bleeding touch, copycat  
 **Cleric Spells Prepared** (CL 1st; concentration +2)  
-1st—*bless*, *disguise self*D, *divine favor*  
+1st—*bless*, *disguise self*<sup>D</sup>, *divine favor*  
 0 (at will)—*bleed* (DC 11), *detect poison*, *guidance*  
 **D** Domain spell; **Domains** Death, Trickery
 

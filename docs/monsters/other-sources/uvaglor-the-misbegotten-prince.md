@@ -35,7 +35,7 @@ At will—*greater teleport* (self plus 50 lbs. of objects only), *telekinesis* 
 2nd (8/day)—*bull’s strength*, *cure moderate wounds*, *death knell* (DC 19), *hold person* (DC 19), *levitate*, *minor image* (DC 19), *resist energy*, *sound burst* (DC 19), *status*  
 1st (8/day)—*command* (DC 18), *cure light wounds*, *divine favor*, *endure elements*, *entropic shield*, *sanctuary* (DC 18), *shield of faith*  
 0 (at will)—*bleed* (DC 17), *create water*, *detect magic*, *ghost sound*, *guidance*, *light*, *mage hand*, *mending*, *read magic*, *resistance*, *stabilize*  
-**Mystery** outer riftsISM
+**Mystery** outer rifts<sup>ISM</sup>
 
 **Statistics**
 

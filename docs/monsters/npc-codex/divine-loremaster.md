@@ -23,11 +23,11 @@ LN Small humanoid (halfling)
 **Spell-Like Abilities** (CL 9th; concentration +12)  
 6/day—resistant touch, touch of law  
 **Cleric Spells Prepared** (CL 9th; concentration +12)  
-5th—*breath of life*, *spell resistance*D  
-4th—*discern lies* (DC 17), *divination*, *order’s wrath*D  
-3rd—*invisibility purge*, *locate object*, *magic circle against chaos*D, *magic vestment*, *remove disease*  
-2nd—*augury*, *hold person* (DC 15), *lesser restoration*, *status*, *shield other*D, *zone of truth* (DC 15)  
-1st—*bane*, *bless*, *command* (DC 14), *comprehend languages*, *obscuring mist*, *sanctuary*D (DC 14)  
+5th—*breath of life*, *spell resistance*<sup>D</sup>  
+4th—*discern lies* (DC 17), *divination*, *order’s wrath*<sup>D</sup>  
+3rd—*invisibility purge*, *locate object*, *magic circle against chaos*<sup>D</sup>, *magic vestment*, *remove disease*  
+2nd—*augury*, *hold person* (DC 15), *lesser restoration*, *status*, *shield other*<sup>D</sup>, *zone of truth* (DC 15)  
+1st—*bane*, *bless*, *command* (DC 14), *comprehend languages*, *obscuring mist*, *sanctuary*<sup>D</sup> (DC 14)  
 0 (at will)—*detect magic*, *detect poison*, *guidance*, *light*  
 **D** Domain spell; **Domains** Law, Protection
 

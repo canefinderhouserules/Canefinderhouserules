@@ -25,10 +25,10 @@ LN Medium humanoid (elf)
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 6/day—icicle  
 **Druid Spells Prepared** (CL 7th; concentration +10)  
-4th—*control water*D, *ice storm*  
-3rd—*cure moderate wounds*, *daylight*, *sleet storm*, *water breathing*D  
-2nd—*animal messenger*, *barkskin*, *bear’s endurance*, *fog cloud*D, *resist energy*  
-1st—*cure light wounds*, *endure elements*, *magic fang*, *obscuring mist*D, *shillelagh*, *speak with animals*  
+4th—*control water*<sup>D</sup>, *ice storm*  
+3rd—*cure moderate wounds*, *daylight*, *sleet storm*, *water breathing*<sup>D</sup>  
+2nd—*animal messenger*, *barkskin*, *bear’s endurance*, *fog cloud*<sup>D</sup>, *resist energy*  
+1st—*cure light wounds*, *endure elements*, *magic fang*, *obscuring mist*<sup>D</sup>, *shillelagh*, *speak with animals*  
 0 (at will)—*light*, *mending*, *purify food and drink*, *read magic*  
 **D** Domain spell; **Domain** Water
 

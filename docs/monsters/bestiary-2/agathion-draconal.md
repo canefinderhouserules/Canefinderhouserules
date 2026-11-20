@@ -28,15 +28,15 @@ At will—*beast shape II*, *command* (DC 17), *detect thoughts*, *elemental bod
 7/day—*break enchantment*, *cure serious wounds*, *neutralize poison*, *remove disease*  
 3/day—*control water*, *control weather*, *control winds*, *heal*, *plane shift* (DC 23)  
 **Cleric Spells Prepared** (CL 17th; concentration +23)  
-9th—*implosion* (DC 26), *storm of vengeance*D (DC 26)  
-8th—*demand*D, *earthquake*, quickened *holy smite* (DC 21)  
-7th—empowered *breath of life*, empowered *flame strike* (DC 22), *holy word* (DC 24), quickened *invisibility purge*, *repulsion*D (DC 24)  
-6th—*animate objects*, *blade barrier*D (DC 23), *find the path*, *heal*, *heroes’ feast*, quickened *remove paralysis*  
-5th—*breath of life*, *dispel evil*D, *flame strike* (DC 22), *greater command* (DC 22), *spell resistance*, *true seeing*  
-4th—*cure critical wounds* (3), *freedom of movement*, *holy smite*D (DC 21), *repel vermin* (DC 21)  
-3rd—*bestow curse* (DC 20), *daylight*, *dispel magic*, *helping hand*, *magic vestment*D, *prayer*, *protection from energy*  
-2nd—*align weapon*D (good only), *calm emotions* (DC 19), *enthrall*, *hold person* (DC 19), *lesser restoration* (2), *shield other*  
-1st—*bless*, *detect undead*, *divine favor*D, *obscuring mist*, *remove fear*, *sanctuary* (DC 18), *shield of faith*  
+9th—*implosion* (DC 26), *storm of vengeance*<sup>D</sup> (DC 26)  
+8th—*demand*<sup>D</sup>, *earthquake*, quickened *holy smite* (DC 21)  
+7th—empowered *breath of life*, empowered *flame strike* (DC 22), *holy word* (DC 24), quickened *invisibility purge*, *repulsion*<sup>D</sup> (DC 24)  
+6th—*animate objects*, *blade barrier*<sup>D</sup> (DC 23), *find the path*, *heal*, *heroes’ feast*, quickened *remove paralysis*  
+5th—*breath of life*, *dispel evil*<sup>D</sup>, *flame strike* (DC 22), *greater command* (DC 22), *spell resistance*, *true seeing*  
+4th—*cure critical wounds* (3), *freedom of movement*, *holy smite*<sup>D</sup> (DC 21), *repel vermin* (DC 21)  
+3rd—*bestow curse* (DC 20), *daylight*, *dispel magic*, *helping hand*, *magic vestment*<sup>D</sup>, *prayer*, *protection from energy*  
+2nd—*align weapon*<sup>D</sup> (good only), *calm emotions* (DC 19), *enthrall*, *hold person* (DC 19), *lesser restoration* (2), *shield other*  
+1st—*bless*, *detect undead*, *divine favor*<sup>D</sup>, *obscuring mist*, *remove fear*, *sanctuary* (DC 18), *shield of faith*  
 0—*detect poison*, *guidance*, *purify food and drink*, *stabilize*  
 **D** domain spell; **Domains** Good, Nobility
 

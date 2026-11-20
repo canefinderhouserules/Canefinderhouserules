@@ -27,11 +27,11 @@ At will—lore keeper, remote viewing (9 rounds/day)
 **Gnome Spell-Like Abilities** (CL 13th; concentration +16)  
 1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
 **Cleric Spells Prepared** (CL 9th; concentration +13)  
-5th—*slay living* (DC 20), *true seeing*D  
-4th—*chaos hammer* (DC 18), *confusion*D (DC 18), *summon monster IV*, *tongues*  
-3rd—*blindness/deafness* (DC 18), *invisibility purge*, *prayer*, *rage*D, *searing light*  
-2nd—*cure moderate wounds*, *hold person* (2, DC 16), *resist energy*, *spiritual weapon*, *touch of idiocy*D  
-1st—*cause fear* (DC 16), *doom* (DC 16), *entropic shield*, *lesser confusion*D (DC 15), *obscuring mist*, *shield of faith*  
+5th—*slay living* (DC 20), *true seeing*<sup>D</sup>  
+4th—*chaos hammer* (DC 18), *confusion*<sup>D</sup> (DC 18), *summon monster IV*, *tongues*  
+3rd—*blindness/deafness* (DC 18), *invisibility purge*, *prayer*, *rage*<sup>D</sup>, *searing light*  
+2nd—*cure moderate wounds*, *hold person* (2, DC 16), *resist energy*, *spiritual weapon*, *touch of idiocy*<sup>D</sup>  
+1st—*cause fear* (DC 16), *doom* (DC 16), *entropic shield*, *lesser confusion*<sup>D</sup> (DC 15), *obscuring mist*, *shield of faith*  
 0 (at will)—*bleed* (DC 15), *detect poison*, *light*, *read magic*  
 **D** Domain spell; **Domains** Knowledge, Madness
 

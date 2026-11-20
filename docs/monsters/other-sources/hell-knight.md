@@ -36,7 +36,7 @@ At will—*detect chaos*
 **Skills** Intimidate +16, Knowledge (local) +7, Knowledge (planes) +4, Perception +7, Sense Motive +7  
 **Languages** Common  
 **SQ** armor training 1, disciplines (fearsomeness 2/day, pentamic faith), Hell Knight armor 2, Order of the Godclaw  
-**Combat Gear**  *potions of bull’s strength* (2), *potion of cure serious wounds*, *potion of haste*; **Other Gear** *+1 hellknight plate*ISWG, *+1 tower shield*, *+1 cruel morningstar*UE, mwk dagger, *cloak of resistance +1*, 460 gp
+**Combat Gear**  *potions of bull’s strength* (2), *potion of cure serious wounds*, *potion of haste*; **Other Gear** *+1 hellknight plate*<sup>ISWG</sup>, *+1 tower shield*, *+1 cruel morningstar*<sup>UE</sup>, mwk dagger, *cloak of resistance +1*, 460 gp
 
 **Special Abilities**
 

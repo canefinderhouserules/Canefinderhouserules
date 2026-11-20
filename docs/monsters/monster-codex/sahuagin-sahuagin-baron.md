@@ -37,7 +37,7 @@ LE Medium monstrous humanoid (aquatic)
 **Skills** Climb +12, Intimidate +10, Knowledge (nobility) +12, Perception +13, Ride +14, Sense Motive +10, Swim +18  
 **Languages** Aquan, Common, Infernal; speak with sharks  
 **SQ** armor training 2  
-**Combat Gear**  *potion of bear’s endurance*, *potion of bull’s strength*, *potion of cure moderate wounds*; **Other Gear** *+1 breastplate*, mwk trident, mwk underwater heavy crossbowUE with 20 bolts, *cloak of resistance +1*, *frost amulet of mighty fists*, 1,033 gp
+**Combat Gear**  *potion of bear’s endurance*, *potion of bull’s strength*, *potion of cure moderate wounds*; **Other Gear** *+1 breastplate*, mwk trident, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, *cloak of resistance +1*, *frost amulet of mighty fists*, 1,033 gp
 
 **Ecology**
 

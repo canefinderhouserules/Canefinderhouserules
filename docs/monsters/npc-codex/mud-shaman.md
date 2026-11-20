@@ -25,11 +25,11 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 9th; concentration +14)  
 8/day—acid dart  
 **Druid Spells Prepared** (CL 9th; concentration +14)  
-5th—*animal growth* (DC 20), *stoneskin*, *wall of stone*D  
-4th—*dispel magic*, *freedom of movement*, *giant vermin*, *spike stones*D (DC 19)  
-3rd—*greater magic fang* (3), *spike growth* (DC 18), *stone shape*D  
-2nd—*barkskin* (2), *bull’s strength* (2), *fog cloud*, *soften earth and stone*D  
-1st—*cure light wounds* (2), *faerie fire* (2), *magic stone*D, *shillelagh*, *speak with animals*  
+5th—*animal growth* (DC 20), *stoneskin*, *wall of stone*<sup>D</sup>  
+4th—*dispel magic*, *freedom of movement*, *giant vermin*, *spike stones*<sup>D</sup> (DC 19)  
+3rd—*greater magic fang* (3), *spike growth* (DC 18), *stone shape*<sup>D</sup>  
+2nd—*barkskin* (2), *bull’s strength* (2), *fog cloud*, *soften earth and stone*<sup>D</sup>  
+1st—*cure light wounds* (2), *faerie fire* (2), *magic stone*<sup>D</sup>, *shillelagh*, *speak with animals*  
 0 (at will)—*create water*, *guidance*, *know direction*, *light*  
 **D** Domain spell; **Domain** Earth
 

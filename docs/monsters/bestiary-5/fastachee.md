@@ -25,12 +25,12 @@ At will—*plant growth*, *speak with plants*, *thorny entanglement* (DC 16), *t
  **Domain Spell-Like Abilities** (CL 11th; concentration +17)  
  9/day—rebuke death (1d4+5)  
 **Druid Spells Prepared** (CL 11th; concentration +17)  
-6th—*greater dispel magic*, *heal*D, *mass bear’s endurance*  
-5th—*baleful polymorph* (DC 21), *breath of life*D, *commune with nature*, *wall of thorns*  
-4th—*command plants* (DC 20), *cure critical wounds*D, *flame strike* (DC 20), *freedom of movement*, *spike stones* (DC 20)  
-3rd—*aqueous orb* (DC 20), *call lightning* (DC 19), *cure serious wounds*D, *protection from energy*, *remove disease*, *spike growth* (DC 19)  
-2nd—*barkskin*, *cat’s grace*, *cure moderate wounds*D, *flaming sphere* (DC 18), *lesser restoration*, *soften earth and stone*, *tree shape*  
-1st—*ant haul*, *cure light wounds*D, *endure elements*, *faerie fire*, *goodberry*, *longstrider*, *obscuring mist*  
+6th—*greater dispel magic*, *heal*<sup>D</sup>, *mass bear’s endurance*  
+5th—*baleful polymorph* (DC 21), *breath of life*<sup>D</sup>, *commune with nature*, *wall of thorns*  
+4th—*command plants* (DC 20), *cure critical wounds*<sup>D</sup>, *flame strike* (DC 20), *freedom of movement*, *spike stones* (DC 20)  
+3rd—*aqueous orb* (DC 20), *call lightning* (DC 19), *cure serious wounds*<sup>D</sup>, *protection from energy*, *remove disease*, *spike growth* (DC 19)  
+2nd—*barkskin*, *cat’s grace*, *cure moderate wounds*<sup>D</sup>, *flaming sphere* (DC 18), *lesser restoration*, *soften earth and stone*, *tree shape*  
+1st—*ant haul*, *cure light wounds*<sup>D</sup>, *endure elements*, *faerie fire*, *goodberry*, *longstrider*, *obscuring mist*  
 0—*create water*, *detect magic*, *purify food and drink*, *stabilize*  
 **D** domain spell; **Domain** Healing
 

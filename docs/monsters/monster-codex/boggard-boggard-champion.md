@@ -35,7 +35,7 @@ CE Medium humanoid (boggard)
 **Skills** Acrobatics +2 (+18 when jumping), Climb +6, Intimidate +6, Perception +5, Stealth +0 (+8 in swamps), Survival +8, Swim +10  
 **Languages** Boggard  
 **SQ** armor training 1, hold breath, swamp stride  
-**Combat Gear**  *potion of bull’s strength*, *potion of cure serious wounds*; **Other Gear** *+1 black dragonhide scale mail*, mwk heavy wooden shield, *+1 terbutje*UE, mwk javelins (2), 282 gp
+**Combat Gear**  *potion of bull’s strength*, *potion of cure serious wounds*; **Other Gear** *+1 black dragonhide scale mail*, mwk heavy wooden shield, *+1 terbutje*<sup>UE</sup>, mwk javelins (2), 282 gp
 
 **Ecology**
 

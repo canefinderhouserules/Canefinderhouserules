@@ -23,11 +23,11 @@ CE Medium humanoid (human)
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 7/day—strength surge (+5), vision of madness (+/–5)  
 **Cleric Spells Prepared** (CL 10th; concentration +14)  
-5th—*flame strike* (DC 19), *righteous might*D, *summon monster V*  
-4th—*confusion*D (DC 18), *cure critical wounds*, *summon monster IV* (2), *unholy blight* (DC 18)  
-3rd—*blindness/deafness*, *magic circle against good*, *magic vestment*D, *summon monster III*, *water breathing*  
-2nd—*bull’s strength*D, *cure moderate wounds*, *darkness*, *shield other*, *silence* (DC 16), *summon monster II*  
-1st—*bane* (DC 15), *bless*, *command* (DC 15), *cure light wounds*, *divine favor*, *enlarge person*D (DC 15)  
+5th—*flame strike* (DC 19), *righteous might*<sup>D</sup>, *summon monster V*  
+4th—*confusion*<sup>D</sup>(DC 18), *cure critical wounds*, *summon monster IV* (2), *unholy blight* (DC 18)  
+3rd—*blindness/deafness*, *magic circle against good*, *magic vestment*<sup>D</sup>, *summon monster III*, *water breathing*  
+2nd—*bull’s strength*<sup>D</sup>, *cure moderate wounds*, *darkness*, *shield other*, *silence* (DC 16), *summon monster II*  
+1st—*bane* (DC 15), *bless*, *command* (DC 15), *cure light wounds*, *divine favor*, *enlarge person*<sup>D</sup>(DC 15)  
 0 (at will)—*create water*, *detect magic*, *light*, *mending*  
 **D** Domain spell; **Domains** Madness, Strength
 

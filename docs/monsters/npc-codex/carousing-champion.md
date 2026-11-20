@@ -24,9 +24,9 @@ CN Small humanoid (halfling)
 **Spell-Like Abilities** (CL 6th; concentration +9)  
 6/day—dazing touch, touch of chaos  
 **Cleric Spells Prepared** (CL 6th; concentration +9)  
-3rd—*locate object*, *searing light*, *suggestion*D, *summon monster III*  
-2nd—*aid*, *calm emotions*D (DC 15), *eagle’s splendor*, *sound burst* (DC 15), *zone of truth* (DC 15)  
-1st—*bless water*, *charm person*D (DC 14), *comprehend languages*, *detect undead*, *hide from undead*  
+3rd—*locate object*, *searing light*, *suggestion*<sup>D</sup>, *summon monster III*  
+2nd—*aid*, *calm emotions*<sup>D</sup>(DC 15), *eagle’s splendor*, *sound burst* (DC 15), *zone of truth* (DC 15)  
+1st—*bless water*, *charm person*<sup>D</sup>(DC 14), *comprehend languages*, *detect undead*, *hide from undead*  
 0 (at will)—*detect magic*, *detect poison*, *guidance*, *virtue*  
 **D** Domain spell; **Domains** Chaos, Charm
 

@@ -28,13 +28,13 @@ Constant—*freedom of movement*
 2/day—*control weather*, *levitate*  
 1/day—*call lightning* (DC 16), *chain lightning* (DC 19)  
 **Cleric Spells Prepared** (CL 13th; concentration +23)  
-7th—*elemental body IV* D (water only), *holy word* (DC 27), *waves of ecstasy* (DC 27)  
-6th—*antilife shell*, *banishment* (DC 26), *cold ice strike*** (DC 26), *heal*, *sirocco*D* (DC 26)  
-5th—*call lightning storm*D (DC 25), *cleanse*, *greater forbid action*** (DC 25), *holy ice*** (DC 25), *righteous might*, *true seeing*  
-4th—*air walk*, *aura of doom*** (DC 24), *blessing of fervor** (DC 24), *control water*D, *death ward*, *dismissal* (DC 24), *divination*  
-3rd—*bestow curse* (DC 23), *blindness/deafness* (DC 23), *create food and water*, *daylight*, *dispel magic*, *magic vestment*, *water walk*D  
-2nd—*augury*, *compassionate ally*** (DC 22), *grace**, *hold person* (DC 22), *silence* (DC 22), *slipstream*D (DC 22), *sound burst* (DC 22), *zone of truth* (DC 22)  
-1st—*command* (DC 21), *divine favor*, *murderous command*** (DC 21), *obscuring mist*D, *protection from evil*, *remove fear*, *sanctuary* (DC 21), *shield of faith*  
+7th—*elemental body IV* <sup>D</sup> (water only), *holy word* (DC 27), *waves of ecstasy* (DC 27)  
+6th—*antilife shell*, *banishment* (DC 26), *cold ice strike*** (DC 26), *heal*, *sirocco*<sup>D</sup>* (DC 26)  
+5th—*call lightning storm*<sup>D</sup> (DC 25), *cleanse*, *greater forbid action*** (DC 25), *holy ice*** (DC 25), *righteous might*, *true seeing*  
+4th—*air walk*, *aura of doom*** (DC 24), *blessing of fervor** (DC 24), *control water*<sup>D</sup>, *death ward*, *dismissal* (DC 24), *divination*  
+3rd—*bestow curse* (DC 23), *blindness/deafness* (DC 23), *create food and water*, *daylight*, *dispel magic*, *magic vestment*, *water walk*<sup>D</sup>  
+2nd—*augury*, *compassionate ally*** (DC 22), *grace**, *hold person* (DC 22), *silence* (DC 22), *slipstream*<sup>D</sup> (DC 22), *sound burst* (DC 22), *zone of truth* (DC 22)  
+1st—*command* (DC 21), *divine favor*, *murderous command*** (DC 21), *obscuring mist*<sup>D</sup>, *protection from evil*, *remove fear*, *sanctuary* (DC 21), *shield of faith*  
 0 (at will)—*detect magic*, *guidance*, *light*, *purify food and drink*  
 **D** Domain spell; **Domains** Water (Oceans subdomain*), Weather (Storms subdomain*)
 

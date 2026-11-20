@@ -27,11 +27,11 @@ NE Small humanoid (gnome)
 **Gnome Spell-Like Abilities** (CL 10th; concentration +11)  
 1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
 **Druid Spells Prepared** (CL 10th; concentration +14)  
-5th—*call lightning storm* (DC 19), *ice storm*D, *wall of thorns*  
-4th—*control water*D, *dispel magic*, *flame strike* (2, DC 18), *freedom of movement*  
-3rd—*call lightning* (DC 17), *cure moderate wounds*, *greater magic fang* (2), *water breathing*D  
-2nd—*barkskin* (2), *cat’s grace*, *fog cloud*D, *lesser restoration*, *resist energy*  
-1st—*cure light wounds* (2), *endure elements*, *faerie fire*, *obscuring mist*D, *speak with animals*  
+5th—*call lightning storm* (DC 19), *ice storm*<sup>D</sup>, *wall of thorns*  
+4th—*control water*<sup>D</sup>, *dispel magic*, *flame strike* (2, DC 18), *freedom of movement*  
+3rd—*call lightning* (DC 17), *cure moderate wounds*, *greater magic fang* (2), *water breathing*<sup>D</sup>  
+2nd—*barkskin* (2), *cat’s grace*, *fog cloud*<sup>D</sup>, *lesser restoration*, *resist energy*  
+1st—*cure light wounds* (2), *endure elements*, *faerie fire*, *obscuring mist*<sup>D</sup>, *speak with animals*  
 0 (at will)—*create water*, *detect poison*, *light*, *purify food and drink*  
 **D** Domain spell; **Domain** Water
 

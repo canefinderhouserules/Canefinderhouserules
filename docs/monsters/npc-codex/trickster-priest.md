@@ -25,12 +25,12 @@ CN Medium humanoid (human)
 At will—charming smile (12 rounds/day, DC 21), master’s illusion (12 rounds/day, DC 21)  
 8/day—copycat (12 rounds), dazing touch  
 **Cleric Spells Prepared** (CL 12th; concentration +17)  
-6th—*geas/quest*D, *greater dispel magic*, *word of recall*  
-5th—*breath of life*, *charm monster*D (DC 22), *greater command* (DC 22), *slay living* (DC 20), *spell resistance*  
-4th—*chaos hammer* (DC 19), *cure serious wounds*, *discern lies* (DC 19), *heroism*D, *poison* (DC 19)  
-3rd—*invisibility purge*, *magic vestment*, *prayer*, *protection from energy* (DC 18), *searing light*, *suggestion*D (DC 20)  
-2nd—*calm emotions* (DC 19), *delay poison* (DC 17), *enthrall* (DC 19), *hold person* (2, DC 19), *invisibility*D  
-1st—*charm person*D (DC 18), *cure light wounds* (2), *entropic shield*, *hide from undead*, *obscuring mist*, *remove fear*  
+6th—*geas/quest*<sup>D</sup>, *greater dispel magic*, *word of recall*  
+5th—*breath of life*, *charm monster*<sup>D</sup> (DC 22), *greater command* (DC 22), *slay living* (DC 20), *spell resistance*  
+4th—*chaos hammer* (DC 19), *cure serious wounds*, *discern lies* (DC 19), *heroism*<sup>D</sup>, *poison* (DC 19)  
+3rd—*invisibility purge*, *magic vestment*, *prayer*, *protection from energy* (DC 18), *searing light*, *suggestion*<sup>D</sup> (DC 20)  
+2nd—*calm emotions* (DC 19), *delay poison* (DC 17), *enthrall* (DC 19), *hold person* (2, DC 19), *invisibility*<sup>D</sup>  
+1st—*charm person*<sup>D</sup> (DC 18), *cure light wounds* (2), *entropic shield*, *hide from undead*, *obscuring mist*, *remove fear*  
 0 (at will)—*detect magic*, *light*, *mending*, *purify food and drink*  
 **D** Domain spell; **Domains** Charm, Trickery
 

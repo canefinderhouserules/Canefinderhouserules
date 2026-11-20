@@ -24,9 +24,9 @@ LN Medium humanoid (human)
 5/day—touch of law  
 5/day—battle rage (+2 damage)  
 **Cleric Spells Prepared** (CL 5th; concentration +7)  
-3rd—*dispel magic*, *magic vestment*D, *searing light*  
-2nd—*align weapon* (law only)D, *enthrall* (DC 14), *resist energy* (DC 14), *sound burst* (DC 14)  
-1st—*command* (DC 13), *divine favor*, *magic weapon*D, *shield of faith*, *summon monster I*  
+3rd—*dispel magic*, *magic vestment*<sup>D</sup>, *searing light*  
+2nd—*align weapon* (law only)<sup>D</sup>, *enthrall* (DC 14), *resist energy* (DC 14), *sound burst* (DC 14)  
+1st—*command* (DC 13), *divine favor*, *magic weapon*<sup>D</sup>, *shield of faith*, *summon monster I*  
 0 (at will)—*guidance*, *light*, *purify food and drink*, *resistance*  
 **D** Domain spell; **Domains** Law, War
 

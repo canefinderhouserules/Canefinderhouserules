@@ -31,7 +31,7 @@ NE Medium monstrous humanoid (aquatic)
 **Skills** Climb +8, Handle Animal +6, Intimidate +6, Perception +7, Ride +6, Stealth +6, Survival +6, Swim +16  
 **Languages** Aquan, Common; speak with sharks  
 **SQ** fast movement  
-**Combat Gear**  *potion of cure light wounds*; **Other Gear** mwk harpoonUE, *cloak of resistance +1*, silk rope (50 ft.), 280 gp
+**Combat Gear**  *potion of cure light wounds*; **Other Gear** mwk harpoon<sup>UE</sup>, *cloak of resistance +1*, silk rope (50 ft.), 280 gp
 
 **Ecology**
 

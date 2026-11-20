@@ -27,9 +27,9 @@ NG Medium humanoid (human)
 **Domain Spell-Like Abilities** (CL 3rd; concentration +5)  
 5/day—rebuke death, touch of glory  
 **Cleric Spells Prepared** (CL 5th; concentration +7)  
-3rd—*prayer*, *searing light*D  
-2nd—*bless weapon*D, *delay poison*, *remove paralysis*, *shield other*  
-1st—*cure light wounds*D, *divine favor* (2), *protection from evil*, *remove fear*  
+3rd—*prayer*, *searing light*<sup>D</sup>  
+2nd—*bless weapon*<sup>D</sup>, *delay poison*, *remove paralysis*, *shield other*  
+1st—*cure light wounds*<sup>D</sup>, *divine favor* (2), *protection from evil*, *remove fear*  
 0 (at will)—*create water*, *guidance*, *purify food and drink*, *stabilize*  
 **D** Domain spell; **Domains** Glory, Healing  
 **Sorcerer Spells Known** (CL 6th; concentration +7; 25% spell failure)  

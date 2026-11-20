@@ -32,15 +32,15 @@ undead mastery (DC 19)
 
 **Cleric Spells Prepared** (CL 9th; concentration +14)  
 
-5th—*dispel goodD* (DC 20), *greater contagion* (DC 21), *slay living* (DC 21)  
+5th—*dispel good<sup>D</sup>* (DC 20), *greater contagion* (DC 21), *slay living* (DC 21)  
 
-4th—*divine power, poison* (DC 20), *shadow conjurationD* (DC 19), *spit venom* (DC 19)  
+4th—*divine power, poison* (DC 20), *shadow conjuration<sup>D</sup>* (DC 19), *spit venom* (DC 19)  
 
-3rd—*animate dead, bestow curse* (DC 19), *deeper darknessD, magic vestment, sands of time*  
+3rd—*animate dead, bestow curse* (DC 19), *deeper darkness<sup>D</sup>, magic vestment, sands of time*  
 
-2nd—*align weaponD* (evil only), *bull’s strength, desecrate, dread bolt* (DC 17), *hold person* (DC 18), *silence* (DC 17)  
+2nd—*align weapon<sup>D</sup>* (evil only), *bull’s strength, desecrate, dread bolt* (DC 17), *hold person* (DC 18), *silence* (DC 17)  
 
-1st—*bane* (DC 17), *cause fear* (DC 17), *command* (DC 17), *detect good, divine favor, protection from goodD, sanctuary* (DC 16)  
+1st—*bane* (DC 17), *cause fear* (DC 17), *command* (DC 17), *detect good, divine favor, protection from good<sup>D</sup>, sanctuary* (DC 16)  
 
 0 (at will)—*detect magic, guidance, read magic, resistance*  
 

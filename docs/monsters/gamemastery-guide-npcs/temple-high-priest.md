@@ -25,13 +25,13 @@ LN Medium humanoid
 **Spell-Like Abilities** (CL 13th; concentration +20)  
 10/day—calming touch, inspiring word (6 rounds)  
 **Cleric Spells Prepared** (CL 13th; concentration +20)  
-7th—*dictum* (DC 24), *repulsion*D (DC 24), *summon monster VII*  
-6th—*banishment* (DC 23), *heal*, *heroes’ feast*D, *word of recall*  
-5th—*breath of life*, *flame strike* (DC 22), *summon monster V*, *telepathic bond*D, *true seeing*  
-4th—*air walk*, *dimensional anchor*, *discern lies*D, *greater magic weapon*, *order’s wrath* (DC 21), *tongues*  
-3rd—*create food and water*, *dispel magic*, *magic vestment*D (2), *prayer*, *protection from energy*, *searing light*  
-2nd—*aid*, *calm emotions* (DC 19), *enthrall*D (DC 19), *hold person* (DC 19), *sound burst* (DC 19), *spiritual weapon*, *status*  
-1st—*command* (DC 18), *comprehend languages*, *divine favor*D, *hide from undead* (DC 18), *protection from chaos*, *sanctuary* (DC 18), *shield of faith*  
+7th—*dictum* (DC 24), *repulsion*<sup>D</sup> (DC 24), *summon monster VII*  
+6th—*banishment* (DC 23), *heal*, *heroes’ feast*<sup>D</sup>, *word of recall*  
+5th—*breath of life*, *flame strike* (DC 22), *summon monster V*, *telepathic bond*<sup>D</sup>, *true seeing*  
+4th—*air walk*, *dimensional anchor*, *discern lies*<sup>D</sup>, *greater magic weapon*, *order’s wrath* (DC 21), *tongues*  
+3rd—*create food and water*, *dispel magic*, *magic vestment*<sup>D</sup> (2), *prayer*, *protection from energy*, *searing light*  
+2nd—*aid*, *calm emotions* (DC 19), *enthrall*<sup>D</sup> (DC 19), *hold person* (DC 19), *sound burst* (DC 19), *spiritual weapon*, *status*  
+1st—*command* (DC 18), *comprehend languages*, *divine favor*<sup>D</sup>, *hide from undead* (DC 18), *protection from chaos*, *sanctuary* (DC 18), *shield of faith*  
 0 (at will)—*detect magic*, *guidance*, *light*, *read magic*  
 **D** domain spell; **Domains** Community, Nobility
 

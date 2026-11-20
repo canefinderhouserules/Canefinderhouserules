@@ -23,15 +23,15 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 19th; concentration +25)  
 9/day—bleeding touch (9 rounds), touch of darkness (9 rounds)  
 **Cleric Spells Prepared** (CL 19th; concentration +25)  
-9th—*energy drain* (DC 25), *etherealness*, *implosion* (DC 25), *wail of the banshee*D (DC 25)  
-8th—*antimagic field*, *create greater undead*D, *earthquake*, *fire storm* (DC 24)  
-7th—*blasphemy* (2, DC 23), *ethereal jaunt*, *power word blind*D, *repulsion* (DC 23)  
-6th—*antilife shell*, *blade barrier* (DC 22), *harm* (2, DC 22), *shadow walk*D (DC 22), *word of recall*  
-5th—*greater command* (DC 21), *insect plague*, *slay living*D (2), *unhallow*, *wall of stone*  
-4th—*air walk*, *death ward*D, *freedom of movement*, *greater magic weapon*, *neutralize poison*, *unholy blight* (DC 20)  
-3rd—*deeper darkness*D (2), *dispel magic* (2), *invisibility purge*, *magic vestment*  
-2nd—*darkness*, *death knell*D (DC 18), *desecrate*, *gentle repose*, *hold person* (DC 18), *shield other*, *spiritual weapon*  
-1st—*bane* (DC 17), *bless*, *cause fear*D (DC 17), *deathwatch*, *doom* (DC 17), *entropic shield*, *obscuring mist*  
+9th—*energy drain* (DC 25), *etherealness*, *implosion* (DC 25), *wail of the banshee*<sup>D</sup>(DC 25)  
+8th—*antimagic field*, *create greater undead*<sup>D</sup>, *earthquake*, *fire storm* (DC 24)  
+7th—*blasphemy* (2, DC 23), *ethereal jaunt*, *power word blind*<sup>D</sup>, *repulsion* (DC 23)  
+6th—*antilife shell*, *blade barrier* (DC 22), *harm* (2, DC 22), *shadow walk*<sup>D</sup>(DC 22), *word of recall*  
+5th—*greater command* (DC 21), *insect plague*, *slay living*<sup>D</sup>(2), *unhallow*, *wall of stone*  
+4th—*air walk*, *death ward*<sup>D</sup>, *freedom of movement*, *greater magic weapon*, *neutralize poison*, *unholy blight* (DC 20)  
+3rd—*deeper darkness*<sup>D</sup>(2), *dispel magic* (2), *invisibility purge*, *magic vestment*  
+2nd—*darkness*, *death knell*<sup>D</sup> (DC 18), *desecrate*, *gentle repose*, *hold person* (DC 18), *shield other*, *spiritual weapon*  
+1st—*bane* (DC 17), *bless*, *cause fear*<sup>D</sup>(DC 17), *deathwatch*, *doom* (DC 17), *entropic shield*, *obscuring mist*  
 0 (at will)—*detect magic*, *guidance*, *read magic*, *virtue*  
 **D** Domain spell; **Domains** Darkness, Death
 

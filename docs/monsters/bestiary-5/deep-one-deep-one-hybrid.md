@@ -23,7 +23,7 @@ CE Medium humanoid (deep one, human)
 **Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—touch of chaos, vision of madness  
 **Cleric Spells Prepared** (CL 1st; concentration +4)  
-1st—*cause fear* (DC 14), *cure light wounds*, *lesser confusion*D (DC 14)  
+1st—*cause fear* (DC 14), *cure light wounds*, *lesser confusion*<sup>D</sup> (DC 14)  
 0 (at will)—*bleed* (DC 13), *light*, *resistance*  
 **D** domain spell; **Domains** Chaos, Madness
 

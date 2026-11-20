@@ -25,12 +25,12 @@ CN Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—lightning arc  
 **Druid Spells Prepared** (CL 11th; concentration +16)  
-6th—*chain lightning*D (DC 22), *greater dispel magic*  
-5th—*call lightning storm* (DC 21), *control winds*D (DC 20), *cure critical wounds*, *wall of fire* (DC 21)  
-4th—*air walk*D, *cure serious wounds*, *freedom of movement*, *ice storm* (DC 20), *scrying* (DC 19)  
-3rd—*gaseous form*D, *greater magic fang* (2), *protection from energy* (2), *sleet storm*  
-2nd—*animal messenger*, *barkskin* (3), *fog cloud*, *wind wall*D  
-1st—*cure light wounds* (2), *endure elements*, *faerie fire* (2), *obscuring mist*D, *speak with animals*  
+6th—*chain lightning*<sup>D</sup> (DC 22), *greater dispel magic*  
+5th—*call lightning storm* (DC 21), *control winds*<sup>D</sup>(DC 20), *cure critical wounds*, *wall of fire* (DC 21)  
+4th—*air walk*<sup>D</sup>, *cure serious wounds*, *freedom of movement*, *ice storm* (DC 20), *scrying* (DC 19)  
+3rd—*gaseous form*<sup>D</sup>, *greater magic fang* (2), *protection from energy* (2), *sleet storm*  
+2nd—*animal messenger*, *barkskin* (3), *fog cloud*, *wind wall*<sup>D</sup>  
+1st—*cure light wounds* (2), *endure elements*, *faerie fire* (2), *obscuring mist*<sup>D</sup>, *speak with animals*  
 0 (at will)—*flare* (DC 16), *light*, *mending*, *stabilize*  
 **D** Domain spell; **Domain** Air
 

@@ -24,9 +24,9 @@ NE Large undead
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 Constant - *desecrate* (centered on self)  
 **Cleric Spells Prepared** (CL 6th; concentration +9)  
-3rd — *bestow curse* (DC 16), *contagion* (DC 16), *dispel magic*D, *inflict serious wounds* (DC 16)  
-2nd — *death knell*D (DC 15), *hold person* (DC 15), *inflict moderate wounds* (DC 15), *resist energy*, *spiritual weapon*  
-1st — *cause fear*D (DC 14), *command* (DC 14), *divine favor*, *obscuring mist*, *shield of faith*  
+3rd — *bestow curse* (DC 16), *contagion* (DC 16), *dispel magic*<sup>D</sup>, *inflict serious wounds* (DC 16)  
+2nd — *death knell*<sup>D</sup> (DC 15), *hold person* (DC 15), *inflict moderate wounds* (DC 15), *resist energy*, *spiritual weapon*  
+1st — *cause fear*<sup>D</sup> (DC 14), *command* (DC 14), *divine favor*, *obscuring mist*, *shield of faith*  
 0 — *bleed* (DC 13), *detect magic*, *guidance*, *resistance*  
 **D** domain spell; **Domains** Death, Magic
 

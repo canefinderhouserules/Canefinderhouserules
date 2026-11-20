@@ -26,15 +26,15 @@ NE Medium humanoid (elf, human)
 17/day—lightning lord  
 10/day—storm burst  
 **Druid Spells Prepared** (CL 17th; concentration +24)  
-9th—empowered *fire storm* (DC 24), *storm of vengeance*D (DC 26)  
-8th—*earthquake*, *whirlwind*D (DC 25), *word of recall*  
-7th—*control weather*D, *creeping doom* (DC 24), *fire storm* (DC 24), *heal*, *true seeing*  
-6th—*antilife shell*, *control winds*D (DC 23), empowered *flame strike* (2, DC 21), *greater dispel magic*, *wall of stone*  
-5th—*baleful polymorph* (DC 22), *call lightning storm* (DC 22), *cure critical wounds* (2), *ice storm*D, *insect plague*  
-4th—*control water*, *dispel magic*, *flame strike* (2, DC 21), *freedom of movement*, *sleet storm*D  
-3rd—*call lightning*D (DC 20), *dominate animal* (DC 20), *greater magic fang* (3), *protection from energy* (2)  
-2nd—*barkskin* (3), *bull’s strength* (2), *cat’s grace*, *fog cloud*D  
-1st—*entangle* (2, DC 18), *faerie fire* (2), *obscuring mist*D, *shillelagh*, *speak with animals*  
+9th—empowered *fire storm* (DC 24), *storm of vengeance*<sup>D</sup>(DC 26)  
+8th—*earthquake*, *whirlwind*<sup>D</sup>(DC 25), *word of recall*  
+7th—*control weather*<sup>D</sup>, *creeping doom* (DC 24), *fire storm* (DC 24), *heal*, *true seeing*  
+6th—*antilife shell*, *control winds*<sup>D</sup>(DC 23), empowered *flame strike* (2, DC 21), *greater dispel magic*, *wall of stone*  
+5th—*baleful polymorph* (DC 22), *call lightning storm* (DC 22), *cure critical wounds* (2), *ice storm*<sup>D</sup>, *insect plague*  
+4th—*control water*, *dispel magic*, *flame strike* (2, DC 21), *freedom of movement*, *sleet storm*<sup>D</sup>  
+3rd—*call lightning*<sup>D</sup>(DC 20), *dominate animal* (DC 20), *greater magic fang* (3), *protection from energy* (2)  
+2nd—*barkskin* (3), *bull’s strength* (2), *cat’s grace*, *fog cloud*<sup>D</sup>  
+1st—*entangle* (2, DC 18), *faerie fire* (2), *obscuring mist*<sup>D</sup>, *shillelagh*, *speak with animals*  
 0 (at will)—*flare* (DC 17), *light*, *purify food and drink*, *resistance*  
 **D** Domain spell; **Domain** Weather
 

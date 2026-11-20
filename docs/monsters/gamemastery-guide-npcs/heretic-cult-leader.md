@@ -25,11 +25,11 @@ NE Medium humanoid
 **Spell-Like Abilities** (CL 10th; concentration +15)  
 8/day—rebuke death (1d4+5), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 10th; concentration +15)  
-5th—*breath of life*D, *mass cure light wounds*, *righteous might*, *summon monster V*  
-4th—*air walk*, *cure critical wounds*, *dismissal* (DC 19), *divine power*, *unholy blight*D (DC 19)  
-3rd—*cure serious wounds* (2), *dispel magic*, *magic circle against good*D, *prayer*  
-2nd—*aid*, *cure moderate wounds*D, *death knell* (DC 17), *silence* (DC 17), *spiritual weapon*, *undetectable alignment*  
-1st—*command* (DC 16), *cure light wounds*D, *deathwatch*, *divine favor*, *obscuring mist*, *remove fear*, *shield of faith*  
+5th—*breath of life*<sup>D</sup>, *mass cure light wounds*, *righteous might*, *summon monster V*  
+4th—*air walk*, *cure critical wounds*, *dismissal* (DC 19), *divine power*, *unholy blight*<sup>D</sup> (DC 19)  
+3rd—*cure serious wounds* (2), *dispel magic*, *magic circle against good*<sup>D</sup>, *prayer*  
+2nd—*aid*, *cure moderate wounds*<sup>D</sup>, *death knell* (DC 17), *silence* (DC 17), *spiritual weapon*, *undetectable alignment*  
+1st—*command* (DC 16), *cure light wounds*<sup>D</sup>, *deathwatch*, *divine favor*, *obscuring mist*, *remove fear*, *shield of faith*  
 0 (at will)—*create water*, *guidance*, *light*, *purify food & drink*  
 **D** domain spell; **Domains** Evil, Healing
 

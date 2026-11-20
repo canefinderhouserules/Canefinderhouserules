@@ -26,11 +26,11 @@ CE Medium humanoid (boggard)
 **Domain Spell-Like Abilities** (CL 10th; concentration +15)  
 8/day—icicle (1d6+5 cold), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 10th; concentration +15)  
-5th—*dispel good*D (DC 20), *insect plague*, *righteous might*, *slay living* (DC 20)  
-4th—*control water*D, *cure critical wounds*, *divine power*, *freedom of movement*, *unholy blight* (DC 19)  
-3rd—*bestow curse* (DC 18), *dispel magic*, *invisibility purge*, *magic circle against good*D, *magic vestment*  
-2nd—*bear’s endurance*, *death knell* (DC 17), *enthrall* (DC 17), *fog cloud*D, *resist energy*, *sound burst* (DC 17)  
-1st—*bane* (DC 16), *bless*, *cure light wounds*, *divine favor*, *protection from good*D, *sanctuary* (DC 16), *shield of faith*  
+5th—*dispel good*<sup>D</sup> (DC 20), *insect plague*, *righteous might*, *slay living* (DC 20)  
+4th—*control water*<sup>D</sup>, *cure critical wounds*, *divine power*, *freedom of movement*, *unholy blight* (DC 19)  
+3rd—*bestow curse* (DC 18), *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *magic vestment*  
+2nd—*bear’s endurance*, *death knell* (DC 17), *enthrall* (DC 17), *fog cloud*<sup>D</sup>, *resist energy*, *sound burst* (DC 17)  
+1st—*bane* (DC 16), *bless*, *cure light wounds*, *divine favor*, *protection from good*<sup>D</sup>, *sanctuary* (DC 16), *shield of faith*  
 0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and water*  
 **D** domain spell; **Domains** Evil, Water
 

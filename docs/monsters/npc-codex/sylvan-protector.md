@@ -25,8 +25,8 @@ CN Small humanoid (gnome)
 5/day—lightning arc  
 1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
 **Druid Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*flaming sphere* (DC 14), *summon swarm*, *wind wall*D  
-1st—*cure light wounds* (2), *obscuring mist*D, *speak with animals*  
+2nd—*flaming sphere* (DC 14), *summon swarm*, *wind wall*<sup>D</sup>  
+1st—*cure light wounds* (2), *obscuring mist*<sup>D</sup>, *speak with animals*  
 0 (at will)—*flare* (DC 12), *light*, *stabilize*, *virtue*  
 **D** Domain spell; **Domain** Air
 

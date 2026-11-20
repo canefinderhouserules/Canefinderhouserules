@@ -21,9 +21,9 @@ CN Medium humanoid (human)
 **Melee** mwk rapier +4 (1d6/18–20) or sap +3 (1d6 nonlethal)  
 **Special Attacks** channel positive energy 5/day (DC 14, 3d6)  
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
-3rd—*remove disease*, *water breathing*D  
-2nd—*aid*, *cure moderate wounds*, *fog cloud*D  
-1st—*bless*, *cure light wounds*, *deathwatch*, *obscuring mist*D, *remove fear*  
+3rd—*remove disease*, *water breathing*<sup>D</sup>  
+2nd—*aid*, *cure moderate wounds*, *fog cloud*<sup>D</sup>  
+1st—*bless*, *cure light wounds*, *deathwatch*, *obscuring mist*<sup>D</sup>, *remove fear*  
 0 (at will)—*create water*, *purify food and drink*, *read magic*, *stabilize*  
 **D** Domain spell; **Domains** Water, Weather
 

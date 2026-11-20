@@ -24,11 +24,11 @@ LN Medium humanoid
 **Spell-Like Abilities** (CL 9th, concentration +13)  
 7/day—rebuke death, touch of law  
 **Cleric Spells Prepared** (CL 9th, concentration +13)  
-5th—*breath of life*D, *righteous might*  
-4th—*air walk*, *freedom of movement*, *order’s wrath*D (DC 18), *spell immunity*  
-3rd—*daylight*, *dispel magic*, *magic circle against chaos*D, *prayer*, *searing light*  
-2nd—*aid*, *bull’s strength*, *cure moderate wounds*D, *delay poison*, *spiritual weapon*, *status*  
-1st—*bless*, *detect chaos*, *divine favor* (2), *protection from chaos*D, *shield of faith*  
+5th—*breath of life*<sup>D</sup>, *righteous might*  
+4th—*air walk*, *freedom of movement*, *order’s wrath*<sup>D</sup> (DC 18), *spell immunity*  
+3rd—*daylight*, *dispel magic*, *magic circle against chaos*<sup>D</sup>, *prayer*, *searing light*  
+2nd—*aid*, *bull’s strength*, *cure moderate wounds*<sup>D</sup>, *delay poison*, *spiritual weapon*, *status*  
+1st—*bless*, *detect chaos*, *divine favor* (2), *protection from chaos*<sup>D</sup>, *shield of faith*  
 0 (at will)—*create water*, *detect magic*, *detect poison*, *stabilize*  
 **D** domain spell; **Domains** Healing, Law
 

@@ -21,12 +21,12 @@ Usually CE Huge magical beast
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** pounce, rake, spells, Wisdom drain  
 **Spell-Like Abilities** (CL 12th)  
-6th — *blade barrier* (DC 19), *greater dispel magic*, *harm*D (DC 19)  
-5th — *dispel good*D (DC 18), *flame strike* (DC 18), *greater command* (DC 18), *true seeing*  
-4th — *air walk*, *dimensional anchor* (DC 17), *freedom of movement*, *inflict critical wounds*D  
-3rd — *blindness/deafness* (DC 16), *contagion*D (DC 16), *dispel magic*, *invisibility purge*, *meld into stone*, *prayer*  
-2nd — *aid*, *cure moderate wounds* (3), *death knell* (DC 15), *desecrate*D  
-1st — *command* (DC 14), *comprehend languages*, *cure light wounds*, *doom* (DC 14), *obscuring mist*, *protection from good*D, *shield of faith*  
+6th — *blade barrier* (DC 19), *greater dispel magic*, *harm*<sup>D</sup> (DC 19)  
+5th — *dispel good*<sup>D</sup> (DC 18), *flame strike* (DC 18), *greater command* (DC 18), *true seeing*  
+4th — *air walk*, *dimensional anchor* (DC 17), *freedom of movement*, *inflict critical wounds*<sup>D</sup>  
+3rd — *blindness/deafness* (DC 16), *contagion*<sup>D</sup> (DC 16), *dispel magic*, *invisibility purge*, *meld into stone*, *prayer*  
+2nd — *aid*, *cure moderate wounds* (3), *death knell* (DC 15), *desecrate*<sup>D</sup>  
+1st — *command* (DC 14), *comprehend languages*, *cure light wounds*, *doom* (DC 14), *obscuring mist*, *protection from good*<sup>D</sup>, *shield of faith*  
 0 — *detect magic*, *detect poison*, *inflict minor wounds*, *light*, *read magic*, *resistance*  
 **D** domain spell; **Domains** Destruction, Evil
 

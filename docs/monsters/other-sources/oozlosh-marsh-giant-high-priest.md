@@ -29,11 +29,11 @@ CE Large humanoid (giant)
 9/day—touch of evil (5 rounds)  
 9/day—icicle (1d6+5 cold damage)  
 **Cleric Spells Prepared** (CL 10th; concentration +16)  
-5th—*ice storm*D, *insect plague*, *snake staff**, *summon monster V*  
-4th—*chaos hammer* (DC 20), *control water*D, *plague carrier*** (DC 20), *spit venom*** (DC 20), *unholy blight* (DC 20)  
-3rd—*badger’s ferocity***, *deeper darkness*, *dispel magic*, *prayer*, *water breathing*D  
-2nd—*align weapon*D (evil only), *death knell* (DC 18), *dread bolt*** (DC 18), *grace**, *hold person* (DC 18), *silence* (DC 18), *spiritual weapon*  
-1st—*cause fear* (DC 17), *doom* (DC 17), *entropic shield*, *magic stone*, *murderous command*** (DC 17), *protection from good*D, *ray of sickening*** (DC 17)  
+5th—*ice storm*<sup>D</sup>, *insect plague*, *snake staff**, *summon monster V*  
+4th—*chaos hammer* (DC 20), *control water*<sup>D</sup>, *plague carrier*** (DC 20), *spit venom*** (DC 20), *unholy blight* (DC 20)  
+3rd—*badger’s ferocity***, *deeper darkness*, *dispel magic*, *prayer*, *water breathing*<sup>D</sup>  
+2nd—*align weapon*<sup>D</sup> (evil only), *death knell* (DC 18), *dread bolt*** (DC 18), *grace**, *hold person* (DC 18), *silence* (DC 18), *spiritual weapon*  
+1st—*cause fear* (DC 17), *doom* (DC 17), *entropic shield*, *magic stone*, *murderous command*** (DC 17), *protection from good*<sup>D</sup>, *ray of sickening*** (DC 17)  
 0 (at will)—*bleed* (DC 16), *guidance*, *read magic*, *resistance*  
 **D** Domain spell; **Domains** Evil, Water  
 * See the *Advanced Player’s Guide*.  

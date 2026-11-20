@@ -39,7 +39,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Catrina](psychopomp-catrina.md) | 5 | N Medium outsider (extraplanar, psychopomp) |
 | [Cephalophore](cephalophore.md) | 8 | N Large construct |
 | [Cernunnos](empyreal-lord-cernunnos.md) | 30 | CG Large outsider (azata, chaotic, extraplanar, good) |
-| [Changeling](changeling.md) | 1/2 | Female changeling witchAPG 1, LN Medium humanoid (changeling) |
+| [Changeling](changeling.md) | 1/2 | Female changeling witch 1, LN Medium humanoid (changeling) |
 | [Cliff Giant](giant-cliff-giant.md) | 9 | NG Large humanoid (giant) |
 | [Clockwork Dragon](clockwork-clockwork-dragon.md) | 16 | N Huge construct (clockwork) |
 | [Clockwork Mage](clockwork-clockwork-mage.md) | 9 | N Medium construct (clockwork) |
@@ -181,7 +181,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Rukh](rukh.md) | 10 | N Gargantuan magical beast |
 | [Sacristan](kyton-sacristan.md) | 10 | LE Medium outsider (evil, extraplanar, kyton, lawful) |
 | [Saguaroi](saguaroi.md) | 5 | N Medium plant |
-| [Samsaran](samsaran.md) | 1/2 | Male samsaran oracleAPG 1, N Medium humanoid (samsaran) |
+| [Samsaran](samsaran.md) | 1/2 | Male samsaran oracle 1, N Medium humanoid (samsaran) |
 | [Sayona](sayona.md) | 12 | CE Medium undead |
 | [Sea Cat](sea-cat.md) | 4 | N Large magical beast |
 | [Seaweed Siren](seaweed-siren.md) | 13 | CN Large magical beast (aquatic) |
@@ -237,7 +237,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Wikkawak](wikkawak.md) | 4 | CE Medium humanoid (goblinoid) |
 | [Winter Hag](hag-winter-hag.md) | 7 | CE Medium monstrous humanoid (cold) |
 | [Wyrwood](wyrwood.md) | 1/2 | Wyrwood rogue 1, N Small construct |
-| [Wyvaran](wyvaran.md) | 1/2 | Female wyvaran inquisitorAPG 1, LN Medium dragon |
+| [Wyvaran](wyvaran.md) | 1/2 | Female wyvaran inquisitor 1, LN Medium dragon |
 | [Xanthos](xanthos.md) | 14 | N Huge magical beast |
 | [Xenopterid](xenopterid.md) | 7 | N Medium vermin |
 | [Yamaraj](psychopomp-yamaraj.md) | 20 | N Huge outsider (extraplanar, psychopomp) |

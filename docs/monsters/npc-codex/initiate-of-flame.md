@@ -25,7 +25,7 @@ LN Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 1st; concentration +3)  
 5/day—fire bolt  
 **Druid Spells Prepared** (CL 1st; concentration +3)  
-1st—*burning hands*D (DC 13), *endure elements*, *faerie fire*  
+1st—*burning hands*<sup>D</sup> (DC 13), *endure elements*, *faerie fire*  
 0 (at will)—*detect poison*, *flare* (DC 12), *stabilize*  
 **D** Domain spell; **Domain** Fire
 

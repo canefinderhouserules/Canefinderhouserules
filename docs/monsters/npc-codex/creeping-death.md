@@ -24,14 +24,14 @@ NE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 15th; concentration +20)  
 8/day—wooden fist  
 **Druid Spells Prepared** (CL 15th; concentration +20)  
-8th—*control plants*D (DC 23), *word of recall*  
-7th—*animate plants*D, *creeping doom* (DC 22), *true seeing*  
-6th—*antilife shell*, *mass cure light wounds*, *repel wood*D, *wall of stone*  
-5th—*baleful polymorph* (DC 20), *insect plague*, *stoneskin*, *transmute rock to mud*, *tree stride*, *wall of thorns*D  
-4th—*air walk*, *command plants*D (DC 19), *cure serious wounds*, *freedom of movement*, *rusting grasp*, *scrying* (DC 19)  
-3rd—*daylight*, *greater magic fang* (2), *plant growth*D, *protection from energy* (2, DC 18)  
-2nd—*barkskin*D (3), *bear’s endurance*, *lesser restoration*, *longstrider*  
-1st—*cure light wounds* (2), *entangle*D (DC 16), *faerie fire* (2), *obscuring mist*, *speak with animals*  
+8th—*control plants*<sup>D</sup>(DC 23), *word of recall*  
+7th—*animate plants*<sup>D</sup>, *creeping doom* (DC 22), *true seeing*  
+6th—*antilife shell*, *mass cure light wounds*, *repel wood*<sup>D</sup>, *wall of stone*  
+5th—*baleful polymorph* (DC 20), *insect plague*, *stoneskin*, *transmute rock to mud*, *tree stride*, *wall of thorns*<sup>D</sup>  
+4th—*air walk*, *command plants*<sup>D</sup>(DC 19), *cure serious wounds*, *freedom of movement*, *rusting grasp*, *scrying* (DC 19)  
+3rd—*daylight*, *greater magic fang* (2), *plant growth*<sup>D</sup>, *protection from energy* (2, DC 18)  
+2nd—*barkskin*<sup>D</sup>(3), *bear’s endurance*, *lesser restoration*, *longstrider*  
+1st—*cure light wounds* (2), *entangle*<sup>D</sup>(DC 16), *faerie fire* (2), *obscuring mist*, *speak with animals*  
 0 (at will)—*detect magic*, *light*, *mending*, *read magic*  
 **D** Domain spell; **Domain** Plant
 

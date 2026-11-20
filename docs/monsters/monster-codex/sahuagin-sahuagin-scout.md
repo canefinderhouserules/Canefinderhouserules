@@ -36,7 +36,7 @@ LE Medium monstrous humanoid (aquatic)
 **Skills** Acrobatics +10, Climb +11, Disable Device +12, Escape Artist +10, Knowledge (geography) +7, Perception +8, Ride +7, Sense Motive +8, Stealth +10, Survival +7, Swim +12  
 **Languages** Aquan, Common, Elven; speak with sharks  
 **SQ** rogue talents (bleeding attack +1), trapfinding +1  
-**Combat Gear**  *+1 elf-bane bolts* (3), *+1 human-bane bolts* (3), *+1 merfolk-bane bolts* (3), *potion of cure moderate wounds*; **Other Gear** mwk trident, mwk underwater heavy crossbowUE with 20 bolts, *feather token* (anchor), dagger, thieves’ tools, 53 gp
+**Combat Gear**  *+1 elf-bane bolts* (3), *+1 human-bane bolts* (3), *+1 merfolk-bane bolts* (3), *potion of cure moderate wounds*; **Other Gear** mwk trident, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, *feather token* (anchor), dagger, thieves’ tools, 53 gp
 
 **Ecology**
 

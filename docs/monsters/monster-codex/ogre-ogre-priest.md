@@ -25,7 +25,7 @@ CE Large humanoid (giant)
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
 4/day—strength surge (+1), vision of madness (+/–1)  
 **Cleric Spells Prepared** (CL 2nd; concentration +3)  
-1st—*bless*, *cure light wounds*, *divine favor*, *enlarge person*D  
+1st—*bless*, *cure light wounds*, *divine favor*, *enlarge person*<sup>D</sup>  
 0 (at will)—*create water*, *detect magic*, *mending*, *stabilize*  
 **D** domain spell; **Domains** Madness, Strength
 

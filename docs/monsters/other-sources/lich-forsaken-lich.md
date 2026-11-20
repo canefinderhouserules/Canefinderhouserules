@@ -23,12 +23,12 @@ NE Medium undead (augmented humanoid)
 **Melee** +1 scythe +15/+10 (2d4+8/19–20/×4)  
 **Special Attacks** channel negative energy 9/day (DC 19, 6d6), disembodied strike (1d8+5); hand of the acolyte (8/day), soul lash (DC 19; 5d6)  
 **Cleric Spells Prepared** (CL 11th; concentration +16)  
-6th—*antilife shell*, *create undead*D  
-5th—*flame strike* (DC 20), *slay living*D, *symbol of pain* (DC 20), *unhallow*  
-4th—*divine power*, *freedom of movement*, *imbue with spell ability*D, *spell immunity*, *unholy blight* (DC 19)  
-3rd—*animate dead*D, *bestow curse* (DC 18), *dispel magic*, *glyph of warding* (DC 18), *invisibility purge*, *protection from energy*  
-2nd—*death knell*D, *desecrate*, *gentle repose*, *hold person* (DC 17), *resist energy*, *silence* (DC 17)  
-1st—*cause fear*D (DC 16), *command* (DC 16), *entropic shield*, *deathwatch*, *doom* (DC 16), *protection from good*, *shield of faith*  
+6th—*antilife shell*, *create undead*<sup>D</sup>  
+5th—*flame strike* (DC 20), *slay living*<sup>D</sup>, *symbol of pain* (DC 20), *unhallow*  
+4th—*divine power*, *freedom of movement*, *imbue with spell ability*<sup>D</sup>, *spell immunity*, *unholy blight* (DC 19)  
+3rd—*animate dead*<sup>D</sup>, *bestow curse* (DC 18), *dispel magic*, *glyph of warding* (DC 18), *invisibility purge*, *protection from energy*  
+2nd—*death knell*<sup>D</sup>, *desecrate*, *gentle repose*, *hold person* (DC 17), *resist energy*, *silence* (DC 17)  
+1st—*cause fear*<sup>D</sup> (DC 16), *command* (DC 16), *entropic shield*, *deathwatch*, *doom* (DC 16), *protection from good*, *shield of faith*  
 0 (at will)—*bleed*, *detect magic*, *guidance*, *read magic*  
 **D** Domain spell; **Domains** Death, Magic
 

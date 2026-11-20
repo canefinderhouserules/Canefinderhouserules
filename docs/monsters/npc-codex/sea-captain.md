@@ -25,9 +25,9 @@ NE Small humanoid (halfling)
 8/day—lightning lord  
 7/day—storm burst  
 **Druid Spells Prepared** (CL 8th; concentration +12)  
-4th—*control water*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*D  
-3rd—*call lightning*D (DC 17), *greater magic fang*, *protection from energy*, *quench*, *wind wall*  
-2nd—*barkskin*, *bull’s strength*, *fog cloud*D, *gust of wind* (DC 16), *warp wood*  
+4th—*control water*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*<sup>D</sup>  
+3rd—*call lightning*<sup>D</sup>(DC 17), *greater magic fang*, *protection from energy*, *quench*, *wind wall*  
+2nd—*barkskin*, *bull’s strength*, *fog cloud*<sup>D</sup>, *gust of wind* (DC 16), *warp wood*  
 1st—*cure light wounds* (4), *endure elements*, *obscuring mist*  
 0 (at will)—*create water*, *detect magic*, *flare* (DC 14), *light*  
 **D** Domain spell; **Domain** Weather

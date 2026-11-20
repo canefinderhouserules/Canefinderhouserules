@@ -36,7 +36,7 @@ LE Large humanoid (extraplanar, giant)
 
 **Environment** any (Plane of Shadow)  
 **Organization** solitary, gang (2–5), family (6–13 plus 35% noncombatants, 1 cleric or witch shaman of 5th–8th level, and 1 fighter or barbarian chief of 7th–10th level), or company (14–33 plus 1 fighter or barbarian chief of 7th–10th level)  
-**Treasure** standard (*+1 gold breastplate*UC, masterwork great terbutjeUC, gold jewelry and adornments worth 500 gp, other treasure)
+**Treasure** standard (*+1 gold breastplate*<sup>UC</sup>, masterwork great terbutje<sup>UC</sup>, gold jewelry and adornments worth 500 gp, other treasure)
 
 **Special Abilities**
 

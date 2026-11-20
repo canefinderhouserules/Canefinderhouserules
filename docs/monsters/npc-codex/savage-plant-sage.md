@@ -25,8 +25,8 @@ CN Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 4th; concentration +5)  
 4/day—wooden fist  
 **Druid Spells Prepared** (CL 4th; conc. +5)  
-2nd—*barkskin*D, *bull’s strength*, *summon swarm*  
-1st—*entangle*D (2, DC 12), *faerie fire*, *shillelagh* (2)  
+2nd—*barkskin*<sup>D</sup>, *bull’s strength*, *summon swarm*  
+1st—*entangle*<sup>D</sup> (2, DC 12), *faerie fire*, *shillelagh* (2)  
 0 (at will)—*create water*, *know direction*, *light*, *stabilize*  
 **D** Domain spell; **Domain** Plant
 

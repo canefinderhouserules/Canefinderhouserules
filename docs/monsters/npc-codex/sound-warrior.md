@@ -29,10 +29,10 @@ N Small humanoid (halfling)
 1st (7/day)—*alarm*, *cause fear* (DC 16), *charm person* (DC 18), *remove fear*, *ventriloquism* (DC 16)  
 0 (at will)—*ghost sound* (DC 15), *know direction*, *light*, *mage hand*, *message*, *resistance*  
 **Druid Spells Prepared** (CL 8th; concentration +10)  
-4th—*air walk*D, *cure serious wounds*, *freedom of movement*  
-3rd—*call lightning* (DC 15), *cure moderate wounds*, *gaseous form*D, *neutralize poison*  
-2nd—*barkskin*, *cat’s grace*, *delay poison*, *lesser restoration*, *wind wall*D  
-1st—*cure light wounds*, *faerie fire*, *goodberry*, *longstrider*, *obscuring mist*D, *pass without trace*  
+4th—*air walk*<sup>D</sup>, *cure serious wounds*, *freedom of movement*  
+3rd—*call lightning* (DC 15), *cure moderate wounds*, *gaseous form*<sup>D</sup>, *neutralize poison*  
+2nd—*barkskin*, *cat’s grace*, *delay poison*, *lesser restoration*, *wind wall*<sup>D</sup>  
+1st—*cure light wounds*, *faerie fire*, *goodberry*, *longstrider*, *obscuring mist*<sup>D</sup>, *pass without trace*  
 0 (at will)—*create water*, *detect poison*, *mending*, *stabilize*  
 **D** Domain spell; **Domains** Air
 

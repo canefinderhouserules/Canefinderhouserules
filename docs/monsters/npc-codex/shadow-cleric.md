@@ -26,15 +26,15 @@ NE Medium humanoid (elf)
 9/day—bleeding touch (9 rounds), copycat (18 rounds)  
 At will—master’s illusion (18 rounds/day, DC 27)  
 **Cleric Spells Prepared** (CL 18th; concentration +24)  
-9th—*energy drain* (DC 25), *implosion* (DC 25), *time stop*D  
-8th—*antimagic field*, *discern location*, *greater spell immunity*, *mass invisibility*D  
-7th—*blasphemy* (2, DC 23), *ethereal jaunt*, *screen*D  
-6th—*blade barrier* (DC 22), *harm* (DC 22), *heal*, *mislead*D, *wind walk*, *word of recall*  
-5th—*dispel good*, *false vision*D, *insect plague*, *slay living* (2, DC 21), *spell resistance*  
-4th—*confusion*D (DC 20), *divine power*, *freedom of movement*, *greater magic weapon* (2), *neutralize poison*  
-3rd—*deeper darkness*, *invisibility purge*, *magic vestment*, *meld with stone*, *poison* (DC 19), *nondetection*D  
-2nd—*darkness*, *delay poison* (DC 18), *hold person* (DC 18), *invisibility*D, *silence* (2, DC 18), *undetectable alignment*  
-1st—*cause fear* (DC 17), *comprehend languages*, *disguise self*D, *divine favor*, *entropic shield*, *obscuring mist*, *shield of faith*  
+9th—*energy drain* (DC 25), *implosion* (DC 25), *time stop*<sup>D</sup>  
+8th—*antimagic field*, *discern location*, *greater spell immunity*, *mass invisibility*<sup>D</sup>  
+7th—*blasphemy* (2, DC 23), *ethereal jaunt*, *screen*<sup>D</sup>  
+6th—*blade barrier* (DC 22), *harm* (DC 22), *heal*, *mislead*<sup>D</sup>, *wind walk*, *word of recall*  
+5th—*dispel good*, *false vision*<sup>D</sup>, *insect plague*, *slay living* (2, DC 21), *spell resistance*  
+4th—*confusion*<sup>D</sup> (DC 20), *divine power*, *freedom of movement*, *greater magic weapon* (2), *neutralize poison*  
+3rd—*deeper darkness*, *invisibility purge*, *magic vestment*, *meld with stone*, *poison* (DC 19), *nondetection*<sup>D</sup>  
+2nd—*darkness*, *delay poison* (DC 18), *hold person* (DC 18), *invisibility*<sup>D</sup>, *silence* (2, DC 18), *undetectable alignment*  
+1st—*cause fear* (DC 17), *comprehend languages*, *disguise self*<sup>D</sup>, *divine favor*, *entropic shield*, *obscuring mist*, *shield of faith*  
 0 (at will)—*bleed* (DC 16), *detect magic*, *detect poison*, *mending*  
 **D** Domain spell; **Domains** Death, Trickery
 

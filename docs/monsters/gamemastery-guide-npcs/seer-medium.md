@@ -24,9 +24,9 @@ N Medium humanoid
 **Spell-Like Abilities** (CL 5th; concentration +8)  
 6/day—calming touch (1d6+5 nonlethal), gentle rest  
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
-3rd—*bestow curse* (DC 16), *helping hand*, *speak with dead*D  
-2nd—*augury*, *gentle repose*D, *silence* (DC 15), *spiritual weapon*  
-1st—*bless*, *command* (DC 14), *comprehend languages*, *deathwatch*D, *sanctuary* (DC 14)  
+3rd—*bestow curse* (DC 16), *helping hand*, *speak with dead*<sup>D</sup>  
+2nd—*augury*, *gentle repose*<sup>D</sup>, *silence* (DC 15), *spiritual weapon*  
+1st—*bless*, *command* (DC 14), *comprehend languages*, *deathwatch*<sup>D</sup>, *sanctuary* (DC 14)  
 0 (at will)—*detect magic*, *guidance*, *light*, *read magic*  
 **D** domain spell; **Domains** Community, Repose
 

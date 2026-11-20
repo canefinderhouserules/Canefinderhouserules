@@ -25,12 +25,12 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—fire bolt (1d6+5 fire), touch of law  
 **Cleric Spells Prepared** (CL 11th; concentration +16)  
-6th—*blade barrier* (DC 23), *fire seeds*D  
-5th—*fire shield*D, *flame strike* (2, DC 22), *spell resistance*  
-4th—*air walk*, *cure serious wounds*, *dismissal* (DC 19), *freedom of movement*, *wall of fire*D  
-3rd—*cure serious wounds*, *fireball*D (DC 20), *glyph of warding*, *invisibility purge*, *searing light*, *water walk*  
-2nd—*cure moderate wounds*, *hold person* (DC 17), *produce flame*D, *resist energy* (2, DC 17), *silence* (DC 17)  
-1st—*bless*, *burning hands*D (DC 18), *command* (2, DC 16), *cure light wounds*, *endure elements*, *magic weapon*  
+6th—*blade barrier* (DC 23), *fire seeds*<sup>D</sup>  
+5th—*fire shield*<sup>D</sup>, *flame strike* (2, DC 22), *spell resistance*  
+4th—*air walk*, *cure serious wounds*, *dismissal* (DC 19), *freedom of movement*, *wall of fire*<sup>D</sup>  
+3rd—*cure serious wounds*, *fireball*<sup>D</sup>(DC 20), *glyph of warding*, *invisibility purge*, *searing light*, *water walk*  
+2nd—*cure moderate wounds*, *hold person* (DC 17), *produce flame*<sup>D</sup>, *resist energy* (2, DC 17), *silence* (DC 17)  
+1st—*bless*, *burning hands*<sup>D</sup>(DC 18), *command* (2, DC 16), *cure light wounds*, *endure elements*, *magic weapon*  
 0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *virtue*  
 **D** Domain spell; **Domains** Fire, Law
 

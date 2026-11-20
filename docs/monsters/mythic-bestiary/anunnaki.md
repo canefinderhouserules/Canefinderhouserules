@@ -6,7 +6,7 @@
 
 **XP** 153,600  
 N Large monstrous humanoid (mythic, shapechanger)  
-**Init** +16M; **Senses** darkvision 60 ft., lifesense, *true seeing;* Perception +31
+**Init** +16<sup>M</sup>; **Senses** darkvision 60 ft., lifesense, *true seeing;* Perception +31
 
 **Defense**
 

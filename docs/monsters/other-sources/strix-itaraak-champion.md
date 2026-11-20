@@ -30,7 +30,7 @@ CN Medium humanoid (strix)
 **Skills** Acrobatics +11 (+7 when jumping), Climb +5, Fly +21, Intimidate +6, Knowledge (geography) +5, Perception +12 (+14 in dim light or darkness), Stealth +13 (+15 in dim light or darkness), Survival +12  
 **Languages** Strix  
 **SQ** nocturnal, slayer talents (combat trick, fast stealth, ranger combat style [archery], sniper’s eye, weapon training), stalker, suspicious, track +5  
-**Combat Gear**  *+1 human-bane arrows* (8), *potion of barkskin*, *potion of invisibility*; **Other Gear** *+2 bone*UE *breastplate*, *+1 longspear*, mwk composite longbow (+2 Str) with 40 arrows, *belt of incredible dexterity +2*
+**Combat Gear**  *+1 human-bane arrows* (8), *potion of barkskin*, *potion of invisibility*; **Other Gear** *+2 bone*<sup>UE</sup> *breastplate*, *+1 longspear*, mwk composite longbow (+2 Str) with 40 arrows, *belt of incredible dexterity +2*
 
 **Ecology**
 

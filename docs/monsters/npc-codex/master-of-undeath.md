@@ -23,14 +23,14 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 15th; concentration +22)  
 10/day—bleeding touch (7 rounds), touch of evil (7 rounds)  
 **Cleric Spells Prepared** (CL 15th; concentration +22)  
-8th—*fire storm* (DC 26), *unholy aura*D  
-7th—*blasphemy*D (DC 25), *destruction* (DC 24), *ethereal jaunt*  
-6th—*antilife shell*, *blade barrier* (DC 24), *create undead*D, *harm*D (DC 23)  
-5th—*dispel good*, *greater command* (DC 22), *flame strike* (DC 23), *insect plague*, *righteous might*, *slay living*D (DC 22)  
-4th—*divine power*, *freedom of movement*, *giant vermin*, *greater magic weapon*, *poison* (DC 21), *unholy blight*D (DC 22)  
-3rd—*animate dead*D, *contagion* (2, DC 20), *deeper darkness*, *dispel magic*, *wind wall*  
-2nd—*bear’s endurance*, *death knell*D (DC 19), *desecrate*, *gentle repose*, *hold person* (DC 19), *spiritual weapon*  
-1st—*bane* (DC 18), *cause fear*D (DC 18), *divine favor*, *doom* (2, DC 18), *entropic shield*, *shield of faith*  
+8th—*fire storm* (DC 26), *unholy aura*<sup>D</sup>  
+7th—*blasphemy*<sup>D</sup>(DC 25), *destruction* (DC 24), *ethereal jaunt*  
+6th—*antilife shell*, *blade barrier* (DC 24), *create undead*<sup>D</sup>, *harm*<sup>D</sup>(DC 23)  
+5th—*dispel good*, *greater command* (DC 22), *flame strike* (DC 23), *insect plague*, *righteous might*, *slay living*<sup>D</sup>(DC 22)  
+4th—*divine power*, *freedom of movement*, *giant vermin*, *greater magic weapon*, *poison* (DC 21), *unholy blight*<sup>D</sup>(DC 22)  
+3rd—*animate dead*<sup>D</sup>, *contagion* (2, DC 20), *deeper darkness*, *dispel magic*, *wind wall*  
+2nd—*bear’s endurance*, *death knell*<sup>D</sup>(DC 19), *desecrate*, *gentle repose*, *hold person* (DC 19), *spiritual weapon*  
+1st—*bane* (DC 18), *cause fear*<sup>D</sup>(DC 18), *divine favor*, *doom* (2, DC 18), *entropic shield*, *shield of faith*  
 0 (at will)—*bleed* (DC 17), *light*, *resistance*, *virtue*  
 **D** Domain spell; **Domains** Death, Evil
 

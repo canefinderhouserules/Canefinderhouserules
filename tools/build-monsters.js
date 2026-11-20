@@ -34,7 +34,8 @@ const decode = s => String(s)
 const slugOf = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
   .replace(/[’'`]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const num = s => { const m = String(s).replace(/[–—−]/g, '-').match(/[+-]?\d+/); return m ? parseInt(m[0], 10) : 0; };
-const plainText = h => decode(String(h).replace(/<[^>]+>/g, '')).replace(/[–—−](?=\d)/g, '-').replace(/\s+/g, ' ').trim();
+// superscript marks (mythic "M", domain "D", book letters) are dropped from plain text so they do not run into words
+const plainText = h => decode(String(h).replace(/<su[pb]>[\s\S]*?<\/su[pb]>/g, '').replace(/<[^>]+>/g, '')).replace(/[–—−](?=\d)/g, '-').replace(/\s+/g, ' ').trim();
 // split on a separator only outside parentheses/brackets
 function splitTop(s, sep) {
   const out = []; let depth = 0, cur = '';
@@ -197,12 +198,13 @@ function toMarkdown(html) {
   h = h.replace(/<h3[^>]*>([\s\S]*?)<\/h3>/g, '\n\n**$1**\n\n');
   h = h.replace(/<br\s*\/?>\s*<br\s*\/?>/g, '\n\n');
   h = h.replace(/<br\s*\/?>/g, '  \n');
-  h = h.replace(/<sup>([\s\S]*?)<\/sup>/g, '$1');
+  h = h.replace(/<su[pb]>\s*([\s\S]*?)\s*<\/su[pb]>/g, '[[SUP]]$1[[/SUP]]'); // kept as <sup> ("Power Attack^M", domain "D")
   h = h.replace(/<[^>]+>/g, '');
   h = decode(h).replace(/\[\[LINK:([^\]]+)\]\]([\s\S]*?)\[\[\/LINK\]\]/g, (_, href, text) => {
     const m = text.match(/^(\*?)([\s\S]*?)(\*?)$/);
     return m[1] + '[' + m[2] + '](' + href + ')' + m[3];
   });
+  h = h.replace(/\[\[SUP\]\]([\s\S]*?)\[\[\/SUP\]\]/g, (_, t) => t.trim() ? '<sup>' + t.trim() + '</sup>' : '');
   h = h.replace(/[ \t]+\n/g, m => (m.endsWith('  \n') ? '  \n' : '\n')).replace(/\n{3,}/g, '\n\n');
   return numberConditions(h).trim();
 }

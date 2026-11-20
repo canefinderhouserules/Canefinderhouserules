@@ -24,8 +24,8 @@ NE Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 4th; concentration +6)  
 5/day—wooden fist  
 **Druid Spells Prepared** (CL 4th; concentration +6)  
-2nd—*barkskin*D, *resist energy* (DC 14), *spider climb*, *tree shape*  
-1st—*entangle*D (DC 13), *faerie fire* (2), *longstrider*, *obscuring mist*  
+2nd—*barkskin*<sup>D</sup>, *resist energy* (DC 14), *spider climb*, *tree shape*  
+1st—*entangle*<sup>D</sup> (DC 13), *faerie fire* (2), *longstrider*, *obscuring mist*  
 0 (at will)—*detect magic*, *guidance*, *light*, *know direction*  
 **Domain** Plant
 

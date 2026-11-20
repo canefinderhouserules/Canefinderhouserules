@@ -25,11 +25,11 @@ N Small humanoid (ratfolk)
 7/day—resistant touch +2  
 At will—dimensional hop (90 feet/day)  
 **Cleric Spells Prepared** (CL 9th; concentration +13)  
-5th—*teleport*D, *wall of stone* (DC 19)  
-4th—*dimension door*D, *dismissal* (DC 18), *freedom of movement*, *summon monster IV*  
-3rd—*dispel magic*, *magic vestment*, *meld into stone*, *protection from energy*D, *stone shape*  
-2nd—*bull’s strength*, *calm emotions* (DC 16), *darkness*, *shield other*D, *sound burst* (DC 16), *zone of truth* (DC 16)  
-1st—*bless*, *command* (DC 15), *endure elements*, *longstrider*D, *sanctuary* (DC 15), *shield of faith*  
+5th—*teleport*<sup>D</sup>, *wall of stone* (DC 19)  
+4th—*dimension door*<sup>D</sup>, *dismissal* (DC 18), *freedom of movement*, *summon monster IV*  
+3rd—*dispel magic*, *magic vestment*, *meld into stone*, *protection from energy*<sup>D</sup>, *stone shape*  
+2nd—*bull’s strength*, *calm emotions* (DC 16), *darkness*, *shield other*<sup>D</sup>, *sound burst* (DC 16), *zone of truth* (DC 16)  
+1st—*bless*, *command* (DC 15), *endure elements*, *longstrider*<sup>D</sup>, *sanctuary* (DC 15), *shield of faith*  
 0 (at will)—*create water*, *detect poison*, *guidance*, *mending*  
 **D** domain spell; **Domains** Protection, Travel
 

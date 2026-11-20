@@ -25,8 +25,8 @@ LE Medium monstrous humanoid (aquatic)
 **Spell-Like Abilities** (CL 4th; concentration +8)  
 7/day—icicle (1d6+2 cold)  
 **Cleric Spells Prepared** (CL 4th; concentration +8)  
-2nd—*blood in the water*, *darkness*, *hold person* (DC 16), *shatter*D (DC 16)  
- 1st—*bless*, *cure light wounds*, *magic weapon*, *protection from good*, *true strike*D  
+2nd—*blood in the water*, *darkness*, *hold person* (DC 16), *shatter*<sup>D</sup> (DC 16)  
+ 1st—*bless*, *cure light wounds*, *magic weapon*, *protection from good*, *true strike*<sup>D</sup>  
  0 (at will)—*bleed* (DC 14), *detect magic*, *guidance*, *resistance*  
  **D** domain spell; **Domains** Destruction, Water
 
@@ -37,7 +37,7 @@ LE Medium monstrous humanoid (aquatic)
 **Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Combat Casting](../../rules/feats/combat-casting.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Handle Animal +3, Knowledge (religion) +11, Perception +13, Ride +4, Sense Motive +13, Spellcraft +11, Swim +16  
 **Languages** Aklo, Aquan, Common; speak with sharks  
-**Combat Gear**  *potion of lesser restoration*, *wand of cure moderate wounds* (11 charges); **Other Gear** *+1 studded leather*, dagger, mwk trident, mwk underwater heavy crossbowUE with 10 bolts, gold unholy symbol (worth 100 gp), 317 gp
+**Combat Gear**  *potion of lesser restoration*, *wand of cure moderate wounds* (11 charges); **Other Gear** *+1 studded leather*, dagger, mwk trident, mwk underwater heavy crossbow<sup>UE</sup> with 10 bolts, gold unholy symbol (worth 100 gp), 317 gp
 
 **Ecology**
 

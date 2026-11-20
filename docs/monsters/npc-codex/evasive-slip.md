@@ -25,9 +25,9 @@ NE Small humanoid (halfling)
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 5/day—lightning arc  
 **Druid Spells Prepared** (CL 6th; concentration +8)  
-3rd—*gaseous form*D, extended *summon nature’s ally II* (2)  
-2nd—*barkskin*, extended *summon nature’s ally I*, *summon swarm*, *wind wall*D  
-1st—*endure elements*, *faerie fire*, *magic fang*, *obscuring mist*D, *speak with animals*  
+3rd—*gaseous form*<sup>D</sup>, extended *summon nature’s ally II* (2)  
+2nd—*barkskin*, extended *summon nature’s ally I*, *summon swarm*, *wind wall*<sup>D</sup>  
+1st—*endure elements*, *faerie fire*, *magic fang*, *obscuring mist*<sup>D</sup>, *speak with animals*  
 0 (at will)—*detect poison*, *know direction*, *light*, *purify food and drink*  
 **D** Domain spell; **Domain** Air
 

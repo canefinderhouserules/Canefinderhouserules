@@ -21,8 +21,8 @@ LE Medium undead
 **Melee** mwk bastard sword +7 (1d10+3/19–20) or slam +5 (1d4+3)  
 **Special Attacks** death drink, unnerving gaze  
 **Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*hold person* (DC 15), *spiritual weapon*, *touch of idiocy*D (DC 15)  
-1st—*cause fear* (DC 14), *command* (DC 14), *lesser confusion*D (DC 14), *protection from good*  
+2nd—*hold person* (DC 15), *spiritual weapon*, *touch of idiocy*<sup>D</sup> (DC 15)  
+1st—*cause fear* (DC 14), *command* (DC 14), *lesser confusion*<sup>D</sup> (DC 14), *protection from good*  
 0—*detect magic*, *guidance*, *read magic*, *resistance*  
 **D** domain spell; **Domain** Madness
 

@@ -26,15 +26,15 @@ LE Medium humanoid (human)
 8/day—fire bolt (1d6+10 fire)  
 4/day—dispelling touch  
 **Cleric Spells Prepared** (CL 20th; concentration +25)  
-9th—*elemental swarm*D (fire spell only), *energy drain* (DC 24), *gate*, *implosion* (DC 26), *summon monster IX*  
-8th—*antimagic field*, *fire storm* (DC 25), *incendiary cloud*D (DC 24), *summon monster VIII*, *unholy aura*  
-7th—*blasphemy* (DC 24), *ethereal jaunt*, *greater restoration*, *spell turning*D, *summon monster VII*  
-6th—*antimagic field*D, *blade barrier* (2, DC 23), *heal* (2)  
-5th—*break enchantment*, *dispel good*, *flame strike* (DC 22), *greater command* (DC 20), *insect plague*, *spell resistance*D  
-4th—*cure critical wounds*, *dimensional anchor*, *dismissal* (DC 19), *freedom of movement*, *unholy blight* (DC 21), *wall of fire*D  
-3rd—*bestow curse* (DC 18), *fireball*D (DC 20), *magic vestment* (2), *protection from energy* (2, DC 18)  
-2nd—*align weapon*, *delay poison*, *hold person* (DC 17), *lesser restoration*, *produce flame*D, *spiritual weapon*  
-1st—*bless*, *burning hands*D (DC 18), *command* (3, DC 16), *doom* (DC 16), *sanctuary* (DC 16)  
+9th—*elemental swarm*<sup>D</sup>(fire spell only), *energy drain* (DC 24), *gate*, *implosion* (DC 26), *summon monster IX*  
+8th—*antimagic field*, *fire storm* (DC 25), *incendiary cloud*<sup>D</sup>(DC 24), *summon monster VIII*, *unholy aura*  
+7th—*blasphemy* (DC 24), *ethereal jaunt*, *greater restoration*, *spell turning*<sup>D</sup>, *summon monster VII*  
+6th—*antimagic field*<sup>D</sup>, *blade barrier* (2, DC 23), *heal* (2)  
+5th—*break enchantment*, *dispel good*, *flame strike* (DC 22), *greater command* (DC 20), *insect plague*, *spell resistance*<sup>D</sup>  
+4th—*cure critical wounds*, *dimensional anchor*, *dismissal* (DC 19), *freedom of movement*, *unholy blight* (DC 21), *wall of fire*<sup>D</sup>  
+3rd—*bestow curse* (DC 18), *fireball*<sup>D</sup>(DC 20), *magic vestment* (2), *protection from energy* (2, DC 18)  
+2nd—*align weapon*, *delay poison*, *hold person* (DC 17), *lesser restoration*, *produce flame*<sup>D</sup>, *spiritual weapon*  
+1st—*bless*, *burning hands*<sup>D</sup>(DC 18), *command* (3, DC 16), *doom* (DC 16), *sanctuary* (DC 16)  
 0 (at will)—*create water*, *detect magic*, *guidance*, *mending*  
 **D** Domain spell; **Domains** Fire, Magic
 

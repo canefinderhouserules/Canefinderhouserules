@@ -24,8 +24,8 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
 6/day—blast rune (1d6+1 energy damage, 3 rounds)  
 **Cleric Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*hold person* (DC 16), *magic mouth*D, *spiritual weapon*  
-1st—*command* (2, DC 15), *erase*D, *obscuring mist*  
+2nd—*hold person* (DC 16), *magic mouth*<sup>D</sup>, *spiritual weapon*  
+1st—*command* (2, DC 15), *erase*<sup>D</sup>, *obscuring mist*  
 0 (at will)—*detect magic*, *detect poison*, *purify food and drink*, *stabilize*  
 **D** Domain spell; **Domains** Magic, Rune
 

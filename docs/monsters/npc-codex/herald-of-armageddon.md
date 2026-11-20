@@ -23,15 +23,15 @@ CE Medium humanoid (human)
 **Spell-Like Abilities** (CL 17th; concentration +22)  
 8/day—battle rage (+8 damage), touch of evil (8 rounds)  
 **Cleric Spells Prepared** (CL 17th; concentration +22)  
-9th—*power word kill*D, *storm of vengeance*  
-8th—*earthquake*, *fire storm* (DC 23), *power word stun*D  
-7th—*blasphemy*D (DC 22), *destruction* (2, DC 22), *ethereal jaunt*  
-6th—*blade barrier*D (DC 21), *greater dispel magic*, *harm* (DC 21), *heal*, *mass bull’s strength*  
-5th—*dispel good*, *flame strike*D (DC 20), *righteous might*, *slay living* (2, DC 20), *spell resistance*  
-4th—*air walk*, *chaos hammer* (DC 19), *death ward*, *divine power*D, *poison* (DC 19), *unholy blight* (DC 19)  
-3rd—*cure serious wounds*, *deeper darkness*, *dispel magic*, *magic circle against good*D, *meld into stone*, *prayer*  
-2nd—*bear’s endurance*, *bull’s strength*, *death knell* (DC 17), *hold person* (2, DC 17), *spiritual weapon*D  
-1st—*bane* (DC 16), *cause fear* (2, DC 16), *divine favor*, *doom* (DC 16), *entropic shield*, *true strike*D  
+9th—*power word kill*<sup>D</sup>, *storm of vengeance*  
+8th—*earthquake*, *fire storm* (DC 23), *power word stun*<sup>D</sup>  
+7th—*blasphemy*<sup>D</sup>(DC 22), *destruction* (2, DC 22), *ethereal jaunt*  
+6th—*blade barrier*<sup>D</sup>(DC 21), *greater dispel magic*, *harm* (DC 21), *heal*, *mass bull’s strength*  
+5th—*dispel good*, *flame strike*<sup>D</sup>(DC 20), *righteous might*, *slay living* (2, DC 20), *spell resistance*  
+4th—*air walk*, *chaos hammer* (DC 19), *death ward*, *divine power*<sup>D</sup>, *poison* (DC 19), *unholy blight* (DC 19)  
+3rd—*cure serious wounds*, *deeper darkness*, *dispel magic*, *magic circle against good*<sup>D</sup>, *meld into stone*, *prayer*  
+2nd—*bear’s endurance*, *bull’s strength*, *death knell* (DC 17), *hold person* (2, DC 17), *spiritual weapon*<sup>D</sup>  
+1st—*bane* (DC 16), *cause fear* (2, DC 16), *divine favor*, *doom* (DC 16), *entropic shield*, *true strike*<sup>D</sup>  
 0 (at will)—*bleed* (DC 15), *guidance*, *read magic*, *resistance*  
 **D** Domain spell; **Domains** Evil, War
 

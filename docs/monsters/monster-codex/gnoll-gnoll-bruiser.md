@@ -34,7 +34,7 @@ CE Medium humanoid (gnoll)
 **Skills** Acrobatics +9, Perception +5, Survival +8  
 **Languages** Gnoll  
 **SQ** trapfinding +1  
-**Combat Gear**  *potions of cure light wounds* (2), alchemist’s fire (2), tanglefoot bags (2); **Other Gear** greatclub, javelins (5), *daredevil boots*UE
+**Combat Gear**  *potions of cure light wounds* (2), alchemist’s fire (2), tanglefoot bags (2); **Other Gear** greatclub, javelins (5), *daredevil boots*<sup>UE</sup>
 
 **Ecology**
 

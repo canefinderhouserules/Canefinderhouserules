@@ -28,8 +28,8 @@ Constant—*detect magic*
 At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *levitate*  
 1/day—*divine favor*, *dispel magic*, *suggestion* (DC 14)  
 **Spells Prepared** (CL 3rd)  
-2nd—*death knell*D (DC 15), *hold person* (DC 15), *silence* (DC 15)  
-1st—*bless*, *cause fear* (DC 14), *cure light wounds*, *protection from law*D  
+2nd—*death knell*<sup>D</sup> (DC 15), *hold person* (DC 15), *silence* (DC 15)  
+1st—*bless*, *cause fear* (DC 14), *cure light wounds*, *protection from law*<sup>D</sup>  
 0—*bleed* (DC 13), *detect poison*, *read magic*, *resistance*  
 **D** domain spell; **Domains** Chaos, Death
 

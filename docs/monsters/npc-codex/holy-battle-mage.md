@@ -24,14 +24,14 @@ NG Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 5th; concentration +12)  
 10/day—artificer’s touch (1d6+2), resistant touch  
 **Cleric Spells Prepared** (CL 15th; concentration +22)  
-8th—*greater spell immunity*, *mind blank*D  
-7th—*ethereal jaunt*, *holy word* (2, DC 25), *repulsion*D (DC 24)  
-6th—*harm* (DC 23), *heal* (2), *heroes’ feast*, *major creation*D  
-5th—*breath of life*, *disrupting weapon*, *flame strike* (DC 23), *righteous might*, *spell resistance*D, *true seeing*  
-4th—*air walk*, *divine power*, *freedom of movement*, *neutralize poison* (2), *spell immunity*D  
-3rd—*invisibility purge*, *meld into stone*, *prayer*, *protection from energy* (2), *remove curse*, *stone shape*D  
-2nd—*aid*, *bull’s strength* (2), *hold person* (2, DC 19), *wood shape*D  
-1st—*animate rope*D, *bless* (2), *divine favor* (2), *shield of faith* (2)  
+8th—*greater spell immunity*, *mind blank*<sup>D</sup>  
+7th—*ethereal jaunt*, *holy word* (2, DC 25), *repulsion*<sup>D</sup> (DC 24)  
+6th—*harm* (DC 23), *heal* (2), *heroes’ feast*, *major creation*<sup>D</sup>  
+5th—*breath of life*, *disrupting weapon*, *flame strike* (DC 23), *righteous might*, *spell resistance*<sup>D</sup>, *true seeing*  
+4th—*air walk*, *divine power*, *freedom of movement*, *neutralize poison* (2), *spell immunity*<sup>D</sup>  
+3rd—*invisibility purge*, *meld into stone*, *prayer*, *protection from energy* (2), *remove curse*, *stone shape*<sup>D</sup>  
+2nd—*aid*, *bull’s strength* (2), *hold person* (2, DC 19), *wood shape*<sup>D</sup>  
+1st—*animate rope*<sup>D</sup>, *bless* (2), *divine favor* (2), *shield of faith* (2)  
 0 (at will)—*detect magic*, *mending*, *purify food and drink*, *stabilize*  
 **D** Domain spell; **Domains** Artifice, Protection  
 **Wizard Spells Prepared** (CL 15th; concentration +21; arcane spell failure 20%)  

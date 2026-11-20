@@ -25,8 +25,8 @@ CG Medium humanoid (human)
 6/day—touch of darkness (1 rounds)  
 6/day—touch of good (+1)  
 **Cleric Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*blindness/deafness*D (DC 15), *lesser restoration*  
-1st—*command* (DC 14), *detect undead*, *faerie fire*D, *magic weapon*  
+2nd—*blindness/deafness*<sup>D</sup> (DC 15), *lesser restoration*  
+1st—*command* (DC 14), *detect undead*, *faerie fire*<sup>D</sup>, *magic weapon*  
 0 (at will)—*detect magic*, *guidance*, *light*, *purify food and drink*  
 **D** Domain spell; **Domains** Good, Moon*
 

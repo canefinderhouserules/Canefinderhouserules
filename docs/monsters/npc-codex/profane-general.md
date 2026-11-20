@@ -25,13 +25,13 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 13th; concentration +16)  
 6/day—battle rage (+6 damage), strength surge (+6)  
 **Cleric Spells Prepared** (CL 13th; concentration +16)  
-7th—*power word blind*D, *word of chaos*  
-6th—*heal*, *mass bull’s strength*, *stoneskin*D  
-5th—*breath of life*, *flame strike* (DC 18), *righteous might*D, *spell resistance*  
-4th—*chaos hammer* (DC 17), *dismissal* (DC 17), *divine power*D, *restoration*, *spell immunity*  
-3rd—*cure serious wounds* (2), *invisibility purge*, *magic vestment*D, *prayer*, *wind wall*  
-2nd—*aid*, *bear’s endurance*, *delay poison* (DC 15), *hold person* (DC 15), *resist energy* (DC 15), *spiritual weapon*D  
-1st—*bane* (DC 14), *bless*, *cure light wounds* (2), *enlarge person*D (DC 14), *shield of faith*  
+7th—*power word blind*<sup>D</sup>, *word of chaos*  
+6th—*heal*, *mass bull’s strength*, *stoneskin*<sup>D</sup>  
+5th—*breath of life*, *flame strike* (DC 18), *righteous might*<sup>D</sup>, *spell resistance*  
+4th—*chaos hammer* (DC 17), *dismissal* (DC 17), *divine power*<sup>D</sup>, *restoration*, *spell immunity*  
+3rd—*cure serious wounds* (2), *invisibility purge*, *magic vestment*<sup>D</sup>, *prayer*, *wind wall*  
+2nd—*aid*, *bear’s endurance*, *delay poison* (DC 15), *hold person* (DC 15), *resist energy* (DC 15), *spiritual weapon*<sup>D</sup>  
+1st—*bane* (DC 14), *bless*, *cure light wounds* (2), *enlarge person*<sup>D</sup>(DC 14), *shield of faith*  
 0 (at will)—*detect magic*, *detect poison*, *guidance*, *light*  
 **D** Domain spell; **Domains** Strength, War
 

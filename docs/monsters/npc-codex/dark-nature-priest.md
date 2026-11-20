@@ -25,15 +25,15 @@ NE Small humanoid (halfling)
 **Spell-Like Abilities** (CL 18th; concentration +23)  
 8/day—wooden fist  
 **Druid Spells Prepared** (CL 18th; concentration +23)  
-9th—*mass cure critical wounds*, *shambler*D  
-8th—*control plants*D (DC 23), *whirlwind* (2, DC 23), *word of recall*  
-7th—*animate plants*D, *fire storm* (DC 22), *heal*, *true seeing*  
-6th—empowered *flame strike* (2, DC 19), *greater dispel magic*, *mass cat’s grace*, *repel wood*D  
-5th—*animal growth* (DC 20), *baleful polymorph* (DC 20), *control winds* (DC 20), *stoneskin* (2), *wall of thorns*D  
-4th—*command plants*D (DC 19), *cure serious wounds*, *flame strike* (2, DC 19), *freedom of movement*, *spike stones* (DC 19)  
-3rd—*dominate animal* (DC 18), *greater magic fang* (2), *plant growth*D, *protection from energy* (2)  
-2nd—*barkskin*D (3), *fog cloud*, *hold animal* (DC 17), *spider climb*  
-1st—*cure light wounds*, *entangle*D (DC 16), *faerie fire* (2), *obscuring mist*, *shillelagh*, *speak with animals*  
+9th—*mass cure critical wounds*, *shambler*<sup>D</sup>  
+8th—*control plants*<sup>D</sup>(DC 23), *whirlwind* (2, DC 23), *word of recall*  
+7th—*animate plants*<sup>D</sup>, *fire storm* (DC 22), *heal*, *true seeing*  
+6th—empowered *flame strike* (2, DC 19), *greater dispel magic*, *mass cat’s grace*, *repel wood*<sup>D</sup>  
+5th—*animal growth* (DC 20), *baleful polymorph* (DC 20), *control winds* (DC 20), *stoneskin* (2), *wall of thorns*<sup>D</sup>  
+4th—*command plants*<sup>D</sup>(DC 19), *cure serious wounds*, *flame strike* (2, DC 19), *freedom of movement*, *spike stones* (DC 19)  
+3rd—*dominate animal* (DC 18), *greater magic fang* (2), *plant growth*<sup>D</sup>, *protection from energy* (2)  
+2nd—*barkskin*<sup>D</sup>(3), *fog cloud*, *hold animal* (DC 17), *spider climb*  
+1st—*cure light wounds*, *entangle*<sup>D</sup>(DC 16), *faerie fire* (2), *obscuring mist*, *shillelagh*, *speak with animals*  
 0 (at will)—*know direction*, *light*, *read magic*, *stabilize*  
 **D** Domain spell; **Domain** Plant
 

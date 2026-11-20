@@ -25,11 +25,11 @@ NE Medium humanoid (human)
 7/day—bleeding touch (4 rounds)  
 1/day—dispelling touch  
 **Cleric Spells Prepared** (CL 9th; concentration +13)  
-5th—*slay living*D (2, DC 21)  
-4th—*death ward*D, *freedom of movement*, *poison* (DC 20), *spell immunity*  
-3rd—*bestow curse* (DC 19), *contagion* (2, DC 19), *dispel magic*D, *prayer*  
-2nd—*bear’s endurance*, *darkness*, *death knell*D (DC 18), *delay poison* (DC 16), *desecrate*, *resist energy* (DC 16)  
-1st—*bane* (DC 15), *cause fear*D (DC 17, 2), *entropic shield*, *obscuring mist*, *protection from good*  
+5th—*slay living*<sup>D</sup>(2, DC 21)  
+4th—*death ward*<sup>D</sup>, *freedom of movement*, *poison* (DC 20), *spell immunity*  
+3rd—*bestow curse* (DC 19), *contagion* (2, DC 19), *dispel magic*<sup>D</sup>, *prayer*  
+2nd—*bear’s endurance*, *darkness*, *death knell*<sup>D</sup>(DC 18), *delay poison* (DC 16), *desecrate*, *resist energy* (DC 16)  
+1st—*bane* (DC 15), *cause fear*<sup>D</sup>(DC 17, 2), *entropic shield*, *obscuring mist*, *protection from good*  
 0 (at will)—*bleed* (DC 16), *detect poison*, *light*, *virtue*  
 **D** Domain spell; **Domains** Death, Magic
 

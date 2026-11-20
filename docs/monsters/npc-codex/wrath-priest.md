@@ -25,10 +25,10 @@ CE Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 8th; concentration +10)  
 5/day—touch of evil (4 rounds)  
 **Cleric Spells Prepared** (CL 8th; concentration +10)  
-4th—*chaos hammer* (DC 16), *divine power*, *unholy blight*D (DC 16)  
-3rd—*invisibility purge*, *prayer*, *protection from energy* (DC 15), *rage*D  
-2nd—*align weapon*D (evil weapons only), *bull’s strength*, *darkness*, *spiritual weapon* (2)  
-1st—*bane* (DC 13), *divine favor*, *entropic shield*, *protection from good*, *shield of faith*, *true strike*D  
+4th—*chaos hammer* (DC 16), *divine power*, *unholy blight*<sup>D</sup>(DC 16)  
+3rd—*invisibility purge*, *prayer*, *protection from energy* (DC 15), *rage*<sup>D</sup>  
+2nd—*align weapon*<sup>D</sup>(evil weapons only), *bull’s strength*, *darkness*, *spiritual weapon* (2)  
+1st—*bane* (DC 13), *divine favor*, *entropic shield*, *protection from good*, *shield of faith*, *true strike*<sup>D</sup>  
 0 (at will)—*bleed* (DC 12), *guidance*, *light*, *resistance*  
 **D** Domain spell; **Domains** Destruction, Evil
 

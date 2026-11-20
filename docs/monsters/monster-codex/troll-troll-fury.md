@@ -24,8 +24,8 @@ CE Large humanoid (giant)
 **Special Attacks** chosen prey (humans +2), fire bolt (1d6+3 fire, 6/day), rend (2 claws, 1d6+7), wild shape 2/day  
 **Druid Spells Prepared** (CL 6th; concentration +9)  
 3rd—*call lightning* (DC 18), *fireball* (DC 18), *poison* (2, DC 16)  
-2nd—*barkskin*, *bull’s strength*, *flaming sphere* (DC 17), *hold animal* (DC 15), *produce flame*D  
-1st—*burning hands*D (DC 16), *entangle* (DC 14), *magic fang*, *obscuring mist*, *pass without trace*  
+2nd—*barkskin*, *bull’s strength*, *flaming sphere* (DC 17), *hold animal* (DC 15), *produce flame*<sup>D</sup>  
+1st—*burning hands*<sup>D</sup> (DC 16), *entangle* (DC 14), *magic fang*, *obscuring mist*, *pass without trace*  
 0 (at will)—*detect magic*, *guidance*, *read magic*, *resistance*
 
 **Tactics**

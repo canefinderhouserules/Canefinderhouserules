@@ -26,12 +26,12 @@ LN Medium humanoid (human, orc)
 12/day—lightning lord  
 7/day—storm burst  
 **Druid Spells Prepared** (CL 12th; concentration +16)  
-6th—*control winds*D (DC 20), *greater dispel magic*, *repel wood*  
-5th—*call lightning storm* (DC 19), *cure critical wounds*, *ice storm*D, *tree stride*  
-4th—*cure serious wounds*, *dispel magic*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*D  
-3rd—*call lightning*D (DC 17), *cure moderate wounds*, *greater magic fang* (3), *protection from energy* (DC 17)  
-2nd—*barkskin* (2), *bear’s endurance*, *bull’s strength*, *cat’s grace*, *fog cloud*D  
-1st—*endure elements*, *entangle* (DC 15), *faerie fire*, *obscuring mist*D, *shillelagh*, *speak with animals*  
+6th—*control winds*<sup>D</sup>(DC 20), *greater dispel magic*, *repel wood*  
+5th—*call lightning storm* (DC 19), *cure critical wounds*, *ice storm*<sup>D</sup>, *tree stride*  
+4th—*cure serious wounds*, *dispel magic*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*<sup>D</sup>  
+3rd—*call lightning*<sup>D</sup>(DC 17), *cure moderate wounds*, *greater magic fang* (3), *protection from energy* (DC 17)  
+2nd—*barkskin* (2), *bear’s endurance*, *bull’s strength*, *cat’s grace*, *fog cloud*<sup>D</sup>  
+1st—*endure elements*, *entangle* (DC 15), *faerie fire*, *obscuring mist*<sup>D</sup>, *shillelagh*, *speak with animals*  
 0 (at will)—*detect magic*, *guidance*, *stabilize*, *virtue*  
 **D** Domain spell; **Domain** Weather
 

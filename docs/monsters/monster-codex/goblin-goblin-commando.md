@@ -30,7 +30,7 @@ NE Small humanoid (goblinoid)
 **Skills** Intimidate +6, Perception +2, Ride +4, Stealth +11; **Racial Modifiers** +4 Ride, +4 Stealth  
 **Languages** Goblin  
 **SQ** armor training 1  
-**Combat Gear**  *+1 flaming arrows* (2), *potion of cure moderate wounds*; **Other Gear** chainmail, mwk composite shortbow with 20 arrows, mwk horsechopperUE, 80 gp
+**Combat Gear**  *+1 flaming arrows* (2), *potion of cure moderate wounds*; **Other Gear** chainmail, mwk composite shortbow with 20 arrows, mwk horsechopper<sup>UE</sup>, 80 gp
 
 **Ecology**
 

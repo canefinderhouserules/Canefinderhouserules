@@ -30,14 +30,14 @@ At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *l
 At will—charming smile (15 rounds, DC 17)  
 9/day—dazing touch, touch of darkness (7 rounds)  
 **Cleric Spells Prepared** (CL 15th; concentration +21)  
-8th—*demand*D (DC 24), *summon monster VIII*  
-7th—*destruction* (DC 23), *power word blind*D, *word of chaos*  
-6th—*blade barrier* (DC 22), *greater dispel magic*, *harm* (DC 22), *heal*, *shadow walk* (DC 22)D  
-5th—*break enchantment*, *breath of life*, *charm monster*D (DC 21), *dispel good*, *flame strike* (DC 21), *slay living* (DC 21)  
-4th—*air walk*, *cure critical wounds* (2), *freedom of movement*, *heroism*D, *neutralize poison*  
-3rd—*bestow curse* (2, DC 19), *prayer*, *protection from energy*, *stone shape*, *suggestion* (DC 19)D  
-2nd—*align weapon*, *bear’s endurance*, *blindness/deafness*D (DC 18, only to cause blindness), *death knell* (DC 18), *hold person* (DC 18), *silence* (2, DC 18)  
-1st—*bless*, *charm person*D (DC 17), *command* (2, DC 17), *detect good*, *shield of faith* (2)  
+8th—*demand*<sup>D</sup> (DC 24), *summon monster VIII*  
+7th—*destruction* (DC 23), *power word blind*<sup>D</sup>, *word of chaos*  
+6th—*blade barrier* (DC 22), *greater dispel magic*, *harm* (DC 22), *heal*, *shadow walk* (DC 22)<sup>D</sup>  
+5th—*break enchantment*, *breath of life*, *charm monster*<sup>D</sup> (DC 21), *dispel good*, *flame strike* (DC 21), *slay living* (DC 21)  
+4th—*air walk*, *cure critical wounds* (2), *freedom of movement*, *heroism*<sup>D</sup>, *neutralize poison*  
+3rd—*bestow curse* (2, DC 19), *prayer*, *protection from energy*, *stone shape*, *suggestion* (DC 19)<sup>D</sup>  
+2nd—*align weapon*, *bear’s endurance*, *blindness/deafness*<sup>D</sup> (DC 18, only to cause blindness), *death knell* (DC 18), *hold person* (DC 18), *silence* (2, DC 18)  
+1st—*bless*, *charm person*<sup>D</sup> (DC 17), *command* (2, DC 17), *detect good*, *shield of faith* (2)  
 0 (at will)—*bleed* (DC 16), *read magic*, *resistance*, *virtue*  
 **D** domain spell; **Domains** Charm, Darkness
 

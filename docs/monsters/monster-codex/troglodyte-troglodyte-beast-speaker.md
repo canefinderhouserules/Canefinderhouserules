@@ -22,8 +22,8 @@ CE Medium humanoid (reptilian)
 **Melee** mwk club +4 (1d6), bite –2 (1d4), claw –2 (1d4) or bite +3 (1d4), 2 claws +3 (1d4)  
 **Ranged**  javelin +3 (1d6)  
 **Druid Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*hold animal*D (DC 14), *spider climb*, *summon swarm*  
-1st—*calm animals*D (DC 13), *charm animal* (DC 13), *cure light wounds*, *entangle* (DC 13)  
+2nd—*hold animal*<sup>D</sup> (DC 14), *spider climb*, *summon swarm*  
+1st—*calm animals*<sup>D</sup> (DC 13), *charm animal* (DC 13), *cure light wounds*, *entangle* (DC 13)  
 0 (at will)—*create water*, *detect magic*, *guidance*, *know direction*
 
 **Tactics**

@@ -24,10 +24,10 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 6/day— bleeding touch (3 rounds), touch of darkness (3 rounds)  
 **Cleric Spells Prepared** (CL 7th; concentration +10)  
-4th—*poison* (DC 18), *shadow conjuration*D (DC 17)  
-3rd—*bestow curse* (DC 17), *contagion* (DC 17), *deeper darkness*D, *dispel magic*  
-2nd—*blindness/deafness*D (blindness only, DC 16), *darkness*, *desecrate*, *eagle’s splendor*, *silence* (DC 15)  
-1st—*cause fear*D (2, DC 15), *deathwatch*, *doom* (DC 15), *magic weapon*, *shield of faith*  
+4th—*poison* (DC 18), *shadow conjuration*<sup>D</sup>(DC 17)  
+3rd—*bestow curse* (DC 17), *contagion* (DC 17), *deeper darkness*<sup>D</sup>, *dispel magic*  
+2nd—*blindness/deafness*<sup>D</sup>(blindness only, DC 16), *darkness*, *desecrate*, *eagle’s splendor*, *silence* (DC 15)  
+1st—*cause fear*<sup>D</sup>(2, DC 15), *deathwatch*, *doom* (DC 15), *magic weapon*, *shield of faith*  
 0 (at will)—*bleed* (DC 14), *detect magic*, *light*, *resistance*  
 **D** Domain spell; **Domains** Darkness, Death
 

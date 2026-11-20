@@ -24,9 +24,9 @@ N Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—acid dart  
 **Druid Spells Prepared** (CL 5th; concentration +9)  
-3rd—*spike growth* (2, DC 17), *stone shape*D  
-2nd—*barkskin*, *bear’s endurance*, *soften earth and stone*D, *summon swarm*  
-1st—*cure light wounds*, *magic stone*D, *obscuring mist*, *shillelagh*, *speak with animals*  
+3rd—*spike growth* (2, DC 17), *stone shape*<sup>D</sup>  
+2nd—*barkskin*, *bear’s endurance*, *soften earth and stone*<sup>D</sup>, *summon swarm*  
+1st—*cure light wounds*, *magic stone*<sup>D</sup>, *obscuring mist*, *shillelagh*, *speak with animals*  
 0 (at will)—*create water*, *guidance*, *know direction*, *light*  
 **D** Domain spell; **Domain** Earth
 

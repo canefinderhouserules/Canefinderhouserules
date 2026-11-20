@@ -26,12 +26,12 @@ NE Medium humanoid (elf, human)
 **Evoker Spell-Like Abilities** (CL 5th; concentration +8)  
 6/day—force missile (1d4+2)  
 **Cleric Spells Prepared** (CL 12th; concentration +17)  
-6th—*antimagic field*D, *heal*, *word of recall*  
-5th—*flame strike* (3, DC 20), *slay living*D (DC 20), *wall of stone*  
-4th—*death ward*D, *dimensional anchor*, *freedom of movement*, *spell immunity*, *unholy blight* (DC 19)  
-3rd—*contagion* (2, DC 18), *dispel magic*D, *invisibility purge*, *prayer*, *summon monster III*  
-2nd—*cure moderate wounds* (2), *death knell*D (DC 17), *hold person* (DC 17), *silence* (DC 17), *spiritual weapon*  
-1st—*cause fear*D (DC 16), *cure light wounds* (3), *deathwatch*, *entropic shield*, *obscuring mist*  
+6th—*antimagic field*<sup>D</sup>, *heal*, *word of recall*  
+5th—*flame strike* (3, DC 20), *slay living*<sup>D</sup> (DC 20), *wall of stone*  
+4th—*death ward*<sup>D</sup>, *dimensional anchor*, *freedom of movement*, *spell immunity*, *unholy blight* (DC 19)  
+3rd—*contagion* (2, DC 18), *dispel magic*<sup>D</sup>, *invisibility purge*, *prayer*, *summon monster III*  
+2nd—*cure moderate wounds* (2), *death knell*<sup>D</sup> (DC 17), *hold person* (DC 17), *silence* (DC 17), *spiritual weapon*  
+1st—*cause fear*<sup>D</sup> (DC 16), *cure light wounds* (3), *deathwatch*, *entropic shield*, *obscuring mist*  
 0 (at will)—*bleed* (DC 15), *detect poison*, *mending*, *stabilize*  
 **D** Domain spell; **Domains** Death, Magic  
 **Evoker Spells Prepared** (CL 12th; concentration +15; 15% spell failure)  

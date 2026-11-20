@@ -26,10 +26,10 @@ CE Medium humanoid (reptilian)
 **Spell-Like Abilities** (CL 7th; concentration +12)  
 8/day—strength surge (+3)  
 **Cleric Spells Prepared** (CL 7th; concentration +12)  
-4th—*divine power*, *mark of the reptile god* (DC 19), *unholy blight*D (DC 19)  
-3rd—*bestow curse* (DC 18), *prayer*, *rage*D, *searing light*  
-2nd—*amplify stench*, *bull’s strength*D, *cure moderate wounds*, *hold person* (DC 17), *spiritual weapon*  
-1st—*bless*, *command* (DC 16), *cure light wounds* (3), *entropic shield*, *protection from good*D  
+4th—*divine power*, *mark of the reptile god* (DC 19), *unholy blight*<sup>D</sup> (DC 19)  
+3rd—*bestow curse* (DC 18), *prayer*, *rage*<sup>D</sup>, *searing light*  
+2nd—*amplify stench*, *bull’s strength*<sup>D</sup>, *cure moderate wounds*, *hold person* (DC 17), *spiritual weapon*  
+1st—*bless*, *command* (DC 16), *cure light wounds* (3), *entropic shield*, *protection from good*<sup>D</sup>  
 0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *stabilize*  
 **D** domain spell; **Domains** Evil (Demon subdomain), Strength
 

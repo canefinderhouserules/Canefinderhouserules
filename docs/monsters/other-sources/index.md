@@ -496,12 +496,12 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Grand Defender](grand-defender.md) | 15 | LG Huge construct (extraplanar) |
 | [Granule Construct Swarm](granule-construct-swarm.md) | 6 | N Fine construct (swarm) |
 | [Grassling](grassling.md) | 6 | CN Small fey |
-| [Gravedragger](herald-gravedragger.md) | 15 | NE Large outsider (evil, heraldISG) |
+| [Gravedragger](herald-gravedragger.md) | 15 | NE Large outsider (evil, herald) |
 | [Gravitic Globe](gravitic-globe.md) | 10 | N Large construct |
 | [Gray Gardener](gray-gardener.md) | 7 | Human inquisitor of the god of murder and secrets 5/gray gardener 3, NE Medium humanoid (human) |
 | [Gray Maiden](gray-maiden.md) | 7 | Human fighter 8, LE Medium humanoid (human) |
 | [Great Diadem Urchin](sea-urchin-giant-great-diadem-urchin.md) | 5 | N Medium vermin (aquatic) |
-| [Great Elder Iuu](herald-great-elder-iuu.md) | 15 | LE Large outsider (evil, giant, heraldISG, lawful) |
+| [Great Elder Iuu](herald-great-elder-iuu.md) | 15 | LE Large outsider (evil, giant, herald, lawful) |
 | [Greater Verduous Ooze](verdurous-ooze-greater-verduous-ooze.md) | 11 | N Large ooze |
 | [Greater Witchcrow (RoW)](witchcrow-greater-witchcrow-row.md) | 3 | CE Small magical beast |
 | [Grendler Red-Chains](grendler-red-chains.md) | 11 | Male advanced redcap, NE Medium fey |
@@ -665,7 +665,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Larva of the Outer Gods](larva-of-the-outer-gods.md) | 15 | CN Large aberration |
 | [Larval Chuul](chuul-larval-chuul.md) | 1 | CE Small aberration (aquatic) |
 | [Lashunta](lashunta.md) | 1/2 | Female lashunta wizard 1, NG Medium humanoid (lashunta) |
-| [Latten Mechanism](herald-latten-mechanism.md) | 15 | N Large construct (extraplanar, heraldISG) |
+| [Latten Mechanism](herald-latten-mechanism.md) | 15 | N Large construct (extraplanar, herald) |
 | [Lava Child](lava-child.md) | 3 | N Medium monstrous humanoid (earth, fire) |
 | [Lava Lurker](lava-lurker.md) | 9 | N Medium outsider (elemental, extraplanar, fire) |
 | [Lawgiver](herald-lawgiver.md) | 15 | Always LN Gargantuan construct (extraplanar) |
@@ -837,7 +837,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Ostrich](ostrich.md) | 1 | N Medium animal |
 | [Owb Prophet](owb-owb-prophet.md) | 13 | NE Large outsider (extraplanar) |
 | [Ozimat](ozimat.md) | 11 | N Medium outsider (earth, elemental, extraplanar, incorporeal) |
-| [Paakis-Si](paakis-si.md) | 5 | Male sasquatch ranger (wardenUC) 3, LN Medium humanoid (sasquatch) |
+| [Paakis-Si](paakis-si.md) | 5 | Male sasquatch ranger (warden) 3, LN Medium humanoid (sasquatch) |
 | [Paguroida](paguroida.md) | 9 | LN Large monstrous humanoid (aquatic) |
 | [Painajai](demon-painajai.md) | 14 | CE Large outsider (chaotic, demon, evil, extraplanar) |
 | [Pallid Angel](pallid-angel.md) | 12 | NE Medium outsider (evil, extraplanar) |

@@ -22,7 +22,7 @@ NE Large undead (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** devour soul, energy drain (1 level, DC 20)  
 **Spell-Like Abilities** (CL 18th)  
-At will—*animate dead*4th, *bestow curse*4th (DC 19), *confusion*4th (DC 19), *control undead*7th (DC 22), *death knell*2nd (DC 17), *ghoul touch*2nd (DC 17), *inflict serious wounds*3rd (DC 18), *lesser planar ally*4th, *ray of enfeeblement*1st, *spectral hand*2nd, *suggestion*3rd (DC 18), *true seeing*6th, *vampiric touch*3rd (DC 18)
+At will—*animate dead*<sup>4th</sup>, *bestow curse*<sup>4th</sup> (DC 19), *confusion*<sup>4th</sup> (DC 19), *control undead*<sup>7th</sup> (DC 22), *death knell*<sup>2nd</sup> (DC 17), *ghoul touch*<sup>2nd</sup> (DC 17), *inflict serious wounds*<sup>3rd</sup> (DC 18), *lesser planar ally*<sup>4th</sup>, *ray of enfeeblement*<sup>1st</sup>, *spectral hand*<sup>2nd</sup>, *suggestion*<sup>3rd</sup> (DC 18), *true seeing*<sup>6th</sup>, *vampiric touch*<sup>3rd</sup> (DC 18)
 
 **Statistics**
 

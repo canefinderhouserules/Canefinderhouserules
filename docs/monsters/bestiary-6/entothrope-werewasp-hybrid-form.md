@@ -26,9 +26,9 @@ poison (DC 18, 1/round for 6 rounds, 1d2 Dex, cure 1 save)
 **Cleric Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—*copycat* (5 rounds), *dazing touch*  
 **Cleric Spells Prepared** (CL 5th; concentration +9)  
- 3rd—*bestow curse* (DC 17), *dispel magic, suggestionD* (DC 17)  
- 2nd—*hold person* (2, DC 16), *invisibilityD, spiritual weapon*  
- 1st—*bless* (2), *charm personD* (DC 15), *command* (2, DC 15)  
+ 3rd—*bestow curse* (DC 17), *dispel magic, suggestion<sup>D</sup>* (DC 17)  
+ 2nd—*hold person* (2, DC 16), *invisibility<sup>D</sup>, spiritual weapon*  
+ 1st—*bless* (2), *charm person<sup>D</sup>* (DC 15), *command* (2, DC 15)  
  0 (at will)—*detect magic, detect poison, guidance, resistance*  
  **D** domain spell; **Domains** Charm, Trickery
 
